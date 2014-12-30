@@ -2,8 +2,8 @@
 
 ## 5.1 Paradoxical Bronchospasm
 
-Inhaled albuterol sulfate can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs, VENTOLIN HFA should be discontinued immediately and alternative therapy instituted.
+VENTOLIN HFA can produce paradoxical bronchospasm, which may be life threatening.
+If paradoxical bronchospasm occurs, following dosing with VENTOLIN HFA, it should be discontinued immediately and alternative therapy should be instituted.
 It should be recognized that paradoxical bronchospasm, when associated with inhaled formulations, frequently occurs with the first use of a new canister.
 
 ## 5.2 Deterioration of Asthma
@@ -11,7 +11,7 @@ It should be recognized that paradoxical bronchospasm, when associated with inha
 Asthma may deteriorate acutely over a period of hours or chronically over several days or longer.
 If the patient needs more doses of VENTOLIN HFA than usual, this may be a marker of destabilization of asthma and requires reevaluation of the patient and treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, e.g., corticosteroids.
 
-## 5.3 Use of Anti-Inflammatory Agents
+## 5.3 Use of Anti-inflammatory Agents
 
 The use of beta-adrenergic agonist bronchodilators alone may not be adequate to control asthma in many patients.
 Early consideration should be given to adding anti-inflammatory agents, e.g., corticosteroids, to the therapeutic regimen.
@@ -31,8 +31,7 @@ The exact cause of death is unknown, but cardiac arrest following an unexpected 
 
 ## 5.6 Immediate Hypersensitivity Reactions
 
-Immediate hypersensitivity reactions may occur after administration of albuterol sulfate inhalation aerosol, as demonstrated by cases of urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
-Discontinue VENTOLIN HFA if immediate hypersensitivity reactions occur.
+Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of VENTOLIN HFA [see Contraindications (4)].
 
 ## 5.7 Coexisting Conditions
 
@@ -41,5 +40,5 @@ Large doses of intravenous albuterol have been reported to aggravate preexisting
 
 ## 5.8 Hypokalemia
 
-As with other beta-agonists, albuterol may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects.
-The decrease is usually transient, not requiring supplementation.
+Beta-adrenergic agonist medicines may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.1)].
+The decrease in serum potassium is usually transient, not requiring supplementation.

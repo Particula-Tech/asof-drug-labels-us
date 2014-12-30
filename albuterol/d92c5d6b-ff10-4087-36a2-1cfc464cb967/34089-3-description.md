@@ -8,18 +8,11 @@ It is soluble in water and slightly soluble in ethanol.
 
 The World Health Organization recommended name for albuterol base is salbutamol.
 
-VENTOLIN HFA is a pressurized metered-dose aerosol unit fitted with a counter.
-VENTOLIN HFA is intended for oral inhalation only.
-Each unit contains a microcrystalline suspension of albuterol sulfate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
+VENTOLIN HFA is a blue plastic inhaler with a blue strapcap containing a pressurized metered-dose aerosol canister fitted with a counter.
+Each canister contains a microcrystalline suspension of albuterol sulfate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
-
-Priming VENTOLIN HFA is essential to ensure appropriate albuterol content in each actuation.
-To prime the inhaler, release 4 sprays into the air away from the face, shaking well before each spray.
-The inhaler should be primed before using it for the first time, when it has not been used for more than 2 weeks, or when it has been dropped.
 
 After priming, each actuation of the inhaler delivers 120 mcg of albuterol sulfate, USP in 75 mg of suspension from the valve and 108 mcg of albuterol sulfate, USP from the mouthpiece (equivalent to 90 mcg of albuterol base from the mouthpiece).
 
-Each 18-g canister provides 200 inhalations.
-Each 8-g canister provides 60 inhalations.
-
-This product does not contain chlorofluorocarbons (CFCs) as the propellant.
+Prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
+To prime VENTOLIN HFA, release 4 sprays into the air away from the face, shaking well before each spray.

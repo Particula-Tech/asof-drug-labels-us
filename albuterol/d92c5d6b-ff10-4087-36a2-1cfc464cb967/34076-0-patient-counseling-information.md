@@ -1,58 +1,36 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Frequency of Use
+Frequency of Use: Inform patients that the action of VENTOLIN HFA should last up to 4 to 6 hours.
+Do not use VENTOLIN HFA more frequently than recommended.
+Instruct patients not to increase the dose or frequency of doses of VENTOLIN HFA without consulting the physician.
+Instruct patients to seek medical attention immediately if treatment with VENTOLIN HFA becomes less effective for symptomatic relief, symptoms become worse, and/or they need to use the product more frequently than usual.
 
-The action of VENTOLIN HFA should last up to 4 to 6 hours.
-VENTOLIN HFA should not be used more frequently than recommended.
-Do not increase the dose or frequency of doses of VENTOLIN HFA without consulting the physician.
-If patients find that treatment with VENTOLIN HFA becomes less effective for symptomatic relief, symptoms become worse, and/or they need to use the product more frequently than usual, they should seek medical attention immediately.
+Priming: Instruct patients to prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
+To prime VENTOLIN HFA, release 4 sprays into the air away from the face, shaking well before each spray.
 
-## 17.2 Priming and Cleaning
+Cleaning: To ensure proper dosing and to prevent actuator orifice blockage, instruct patients to wash the actuator with warm water and let it air-dry completely at least once a week.
+Inform patients that detailed cleaning instructions are included in the Patient Information leaflet.
 
-Priming: Patients should be instructed that priming VENTOLIN HFA is essential to ensure appropriate albuterol content in each actuation.
-Patients should prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
-To prime VENTOLIN HFA, patients should release 4 sprays into the air away from the face, shaking well before each spray.
+Paradoxical Bronchospasm: Inform patients that VENTOLIN HFA can produce paradoxical bronchospasm.
+Instruct them to discontinue VENTOLIN HFA if paradoxical bronchospasm occurs.
 
-Cleaning: To ensure proper dosing and to prevent actuator orifice blockage, patients should be instructed to wash the actuator and dry thoroughly at least once a week.
-Patients should be informed that detailed cleaning instructions are included in the Patient Information leaflet.
+Concomitant Drug Use: Advise patients that while they are using VENTOLIN HFA, other inhaled drugs and asthma medications should be taken only as directed by the physician.
 
-## 17.3 Dose Counter
+Common Adverse Effects:Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
 
-Patients should be informed that VENTOLIN HFA has a dose counter that starts at 204 or 64 and counts down each time a spray is released.
-Patients should be informed to discard VENTOLIN HFA when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch, whichever comes first.
-When the counter reads 020, the patient should contact the pharmacist for a refill of medication or consult the physician to determine whether a prescription refill is needed.
-Patients should never try to alter the numbers or remove the counter from the metal canister.
-Patients should never immerse the canister in water to determine the amount of drug remaining in the canister.
+Pregnancy: Advise patients who are pregnant or nursing to contact their physicians about the use of VENTOLIN HFA.
 
-## 17.4 Paradoxical Bronchospasm
+VENTOLIN is a registered trademark of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
-Patients should be informed that VENTOLIN HFA can produce paradoxical bronchospasm.
-If paradoxical bronchospasm occurs, patients should discontinue VENTOLIN HFA.
+GlaxoSmithKline
 
-## 17.5 Concomitant Drug Use
+Research Triangle Park, NC 27709
 
-While patients are using VENTOLIN HFA, other inhaled drugs and asthma medications should be taken only as directed by the physician.
-
-## 17.6 Common Adverse Effects
-
-Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
-
-## 17.7 Pregnancy
-
-Patients who are pregnant or nursing should contact their physicians about the use of VENTOLIN HFA.
-
-VENTOLIN is a registered trademark of GlaxoSmithKline.
-
-AeroChamber Plus is a registered trademark of Monaghan Medical Inc.
-
-OptiChamber is a registered trademark of Respironics Inc.
-
-- GlaxoSmithKline
-- Research Triangle Park, NC 27709
-
-©2012, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-VNT:8PI
+VNT:9PI
