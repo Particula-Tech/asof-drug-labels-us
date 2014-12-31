@@ -7,11 +7,13 @@ In skeletal and cardiac muscle, fatty acids are the main substrate for energy pr
 
 Primary systemic carnitine deficiency is characterized by low concentrations of levocarnitine in plasma, RBC, and/or tissues.
 It has not been possible to determine which symptoms are due to carnitine deficiency and which are due to an underlying organic acidemia, as symptoms of both abnormalities may be expected to improve with Levocarnitine Oral Solution USP.
-The literature reports that carnitine can promote the excretion of excess organic or fatty acids in patients with defects in fatty acid metabolism and/or specific organic acidopathies that bioaccumulate acylCoA esters.1-6
+The literature reports that carnitine can promote the excretion of excess organic or fatty acids in patients with defects in fatty acid metabolism and/or specific organic acidopathies that bioaccumulate acylCoA esters.
+1-6
 
 Secondary carnitine deficiency can be a consequence of inborn errors of metabolism.
 Levocarnitine Oral Solution USP may alleviate the metabolic abnormalities of patients with inborn errors that result in accumulation of toxic organic acids.
-Conditions for which this effect has been demonstrated are: glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency.7,8 Autointoxication occurs in these patients due to the accumulation of acylCoA compounds that disrupt intermediary metabolism.
+Conditions for which this effect has been demonstrated are: glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency.
+7,8 Autointoxication occurs in these patients due to the accumulation of acylCoA compounds that disrupt intermediary metabolism.
 The subsequent hydrolysis of the acylCoA compound to its free acid results in acidosis which can be life-threatening.
 Levocarnitine clears the acylCoA compound by formation of acylcarnitine, which is quickly excreted.
 Carnitine deficiency is defined biochemically as abnormally low plasma concentrations of free carnitine, less than 20 μmol/L at one week post term and may be associated with low tissue and/or urine concentrations.
@@ -21,7 +23,7 @@ In premature infants and newborns, secondary deficiency is defined as plasma lev
 ## PHARMACOKINETICS
 
 In a relative bioavailability study in 15 healthy adult male volunteers, Levocarnitine Tablets were found to be bio-equivalent to Levocarnitine Oral Solution USP.
-Following 4 days of dosing with 6 tablets of Levocarnitine 330 mg b.i.d. or 2 g of Levocarnitine oral solution b.i.d., the maximum plasma concentration (Cmax) was about 80 μmol/L and the time to maximum plasma concentration (Tmax) occurred at 3.3 hours.
+Following 4 days of dosing with 6 tablets of Levocarnitine 330 mg b.i.d. or 2 g of Levocarnitine oral solution b.i.d., the maximum plasma concentration (C max) was about 80 μmol/L and the time to maximum plasma concentration (T max) occurred at 3.3 hours.
 
 The plasma concentration profiles of levocarnitine after a slow 3 minute intravenous bolus dose of 20 mg/kg of Levocarnitine were described by a two-compartment model.
 Following a single i.v. administration, approximately 76% of the levocarnitine dose was excreted in the urine during the 0-24h interval.
@@ -31,7 +33,8 @@ The absolute bioavailability of levocarnitine from the two oral formulations of 
 
 Total body clearance of levocarnitine (Dose/AUC including endogenous baseline concentrations) was a mean of 4.00L/h.
 
-Levocarnitine was not bound to plasma protein or albumin when tested at any concentration or with any species including the human.9
+Levocarnitine was not bound to plasma protein or albumin when tested at any concentration or with any species including the human.
+9
 
 ## METABOLISM AND EXCRETION
 
@@ -39,6 +42,7 @@ In a pharmacokinetic study where five normal adult male volunteers received an o
 Maximum concentration of [3H-methyl]-L-carnitine in serum occurred from 2.0 to 4.5 hr after drug administration.
 Major metabolites found were trimethylamine N-oxide, primarily in urine (8% to 49% of the administered dose) and [3H]-γ-butyrobetaine, primarily in feces (0.44% to 45% of the administered dose).
 Urinary excretion of levocarnitine was about 4 to 8% of the dose.
-Fecal excretion of total carnitine was less than 1% of the administered dose.10
+Fecal excretion of total carnitine was less than 1% of the administered dose.
+10
 
 After attainment of steady state following 4 days of oral administration of Levocarnitine Oral Solution USP (2000 mg q12h) to 15 healthy male volunteers, the mean urinary excretion of levocarnitine during a single dosing interval (12h) was about 9% of the orally administered dose (uncorrected for endogenous urinary excretion).
