@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125554"
+  ],
+  "inn": "nivolumab",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0003-3772-11",
+    "0003-3774-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nivolumab",
+      "name": "OPDIVO"
+    }
+  ],
+  "setid": "f570b9c4-6846-4de2-abfa-4d0a4ae4e394",
+  "source": "dailymed"
+}
