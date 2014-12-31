@@ -1,23 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide.
-
-## 17.1 Antibacterial Resistance
-
-Antibacterial drugs including moxifloxacin hydrochloride should only be used to treat bacterial infections.
+See FDA-Approved Medication Guide Antibacterial Resistance Antibacterial drugs including moxifloxacin hydrochloride should only be used to treat bacterial infections.
 They do not treat viral infections (for example, the common cold).
 When moxifloxacin hydrochloride is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by moxifloxacin hydrochloride or other antibacterial drugs in the future.
-
-## 17.2 Administration With Food, Fluids, and Drug Products Containing Multivalent Cations
-
-Patients should be informed that moxifloxacin hydrochloride tablets may be taken with or without food.
+Administration With Food, Fluids, and Drug Products Containing Multivalent Cations Patients should be informed that moxifloxacin hydrochloride tablets may be taken with or without food.
 Patients should be advised to drink fluids liberally.
 Moxifloxacin hydrochloride tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution.
-
-## 17.3 Serious and Potentially Serious Adverse Reactions
-
-To assure safe and effective use of moxifloxacin hydrochloride, patients should be informed of the following serious adverse reactions that have been associated with moxifloxacin hydrochloride and other fluoroquinolone use:
+Serious and Potentially Serious Adverse Reactions To assure safe and effective use of moxifloxacin hydrochloride, patients should be informed of the following serious adverse reactions that have been associated with moxifloxacin hydrochloride and other fluoroquinolone use:
 
 - Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue moxifloxacin hydrochloride treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
@@ -38,6 +28,7 @@ To assure safe and effective use of moxifloxacin hydrochloride, patients should 
 - Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with moxifloxacin hydrochloride use.
   Symptoms may occur soon after initiation of therapy and may be irreversible.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should immediately discontinue moxifloxacin hydrochloride and contact their physician.
+- Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue moxifloxacin hydrochloride and consult a physician.
 - Photosensitivity/Phototoxicity: Patients should be informed that photosensitivity/ phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
@@ -46,4 +37,4 @@ To assure safe and effective use of moxifloxacin hydrochloride, patients should 
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Issued: January 2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 12/2014

@@ -11,7 +11,7 @@ When rib and vertebral malformations were combined, there was an increased fetal
 Signs of maternal toxicity in rabbits at this dose included mortality, abortions, marked reduction of food consumption, decreased water intake, body weight loss and hypoactivity.
 There was no evidence of teratogenicity when pregnant cynomolgus monkeys were given oral doses as high as 100 mg/kg/day (2.5 times the maximum recommended human dose based upon systemic exposure).
 An increased incidence of smaller fetuses was observed at 100 mg/kg/day.
-In an oral pre- and post-natal development study conducted in rats, effects observed at 500 mg/kg/day included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
+In an oral pre- and postnatal development study conducted in rats, effects observed at 500 mg/kg/day included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
 Treatment-related maternal mortality occurred during gestation at 500 mg/kg/day in this study.
 
 ## 8.3 Nursing Mothers
@@ -23,7 +23,7 @@ Because of the potential for serious adverse reactions in infants who are nursin
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients and adolescents less than 18 years of age have not been established.
-Moxifloxacin hydrochloride causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].
+Moxifloxacin hydrochloride causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -31,21 +31,20 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing moxifloxacin hydrochloride to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue moxifloxacin hydrochloride and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur.
-[See Boxed Warning, Warnings and Precautions (5.1), and Adverse Reactions (6.2).]
+Patients should be informed of this potential side effect and advised to discontinue moxifloxacin hydrochloride and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.1), and Adverse Reactions (6.4)].
 In controlled multiple-dose clinical trials, 23% of patients receiving oral moxifloxacin hydrochloride were greater than or equal to 65 years of age and 9% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that there is no difference in the safety and efficacy of oral moxifloxacin hydrochloride in patients aged 65 or older compared to younger adults.
 In trials of intravenous use, 42% of moxifloxacin hydrochloride patients were greater than or equal to 65 years of age, and 23% were greater than or equal to 75 years of age.
 The clinical trial data demonstrate that the safety of intravenous moxifloxacin hydrochloride in patients aged 65 or older was similar to that of comparator-treated patients.
 In general, elderly patients may be more susceptible to drug-associated effects of the QT interval.
 Therefore, moxifloxacin hydrochloride should be avoided in patients taking drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia).
-[see Warnings and Precautions (5.3), Drug Interactions (7.4), and Clinical Pharmacology (12.3).]
+[See Warnings and Precautions (5.3), Drug Interactions (7.5), and Clinical Pharmacology (12.3).]
 
 ## 8.6 Renal Impairment
 
 The pharmacokinetic parameters of moxifloxacin are not significantly altered in mild, moderate, severe, or end-stage renal disease.
 No dosage adjustment is necessary in patients with renal impairment, including those patients requiring hemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD).
-[See Dosage and Administration (2) and Clinical Pharmacology (12.3).]
+[See Dosage and Administration (2), and Clinical Pharmacology (12.3).]
 
 ## 8.7 Hepatic Impairment
 

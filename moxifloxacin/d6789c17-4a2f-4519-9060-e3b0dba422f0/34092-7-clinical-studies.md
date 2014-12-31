@@ -135,12 +135,12 @@ The overall clinical success rates in the clinically evaluable patients are show
 
 Table 16: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
 
-| Study | Moxifloxacin Hydrochloride n/N (%) | Comparator n/N (%) | 95% Confidence Interval* |
+| Study | Moxifloxacin Hydrochloride n/N (%) | Comparator n/N (%) | 95% Confidence Intervala |
 | --- | --- | --- | --- |
 | North America (overall) | 146/183 (79.8%) | 153/196 (78.1%) | (-7.4%, 9.3%) |
-| Abscess | 40/57 (70.2%) | 49/63 (77.8%)a | NAb |
+| Abscess | 40/57 (70.2%) | 49/63 (77.8%)b | NAc |
 | Non-abscess | 106/126 (84.1%) | 104/133 (78.2%) | NA |
 | International (overall) | 199/246 (80.9%) | 218/265 (82.3%) | (-8.9%, 4.2%) |
 | Abscess | 73/93 (78.5%) | 86/99 (86.9%) | NA |
 | Non-abscess | 126/153 (82.4%) | 132/166 (79.5%) | NA |
-| * of difference in success rates between moxifloxacin hydrochloride and comparator (moxifloxacin hydrochloride – comparator) a) Excludes 2 patients who required additional surgery within the first 48 hours. b) NA - not applicable |  |  |  |
+| a) of difference in success rates between moxifloxacin hydrochloride and comparator (moxifloxacin hydrochloride – comparator) b) Excludes 2 patients who required additional surgery within the first 48 hours. c) NA - not applicable |  |  |  |
