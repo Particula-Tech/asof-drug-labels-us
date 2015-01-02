@@ -176,12 +176,12 @@ See CONTRAINDICATIONS.
 
 Ergot drugs are known to inhibit prolactin.
 It is likely that D.H.E.
-45 ® (dihydroergotamine mesylate) Injection, USP is excreted in human milk, but there are no data on the concentration of dihydroergotamine in human milk.
+45® (dihydroergotamine mesylate) Injection, USP is excreted in human milk, but there are no data on the concentration of dihydroergotamine in human milk.
 It is known that ergotamine is excreted in breast milk and may cause vomiting, diarrhea, weak pulse, and unstable blood pressure in nursing infants.
 Because of the potential for these serious adverse events in nursing infants exposed to D.H.E.
-45 ® (dihydroergotamine mesylate) Injection, USP, nursing should not be undertaken with the use of D.H.E.
-45 ® (dihydroergotamine mesylate) Injection, USP.
-( See CONTRAINDICATIONS .)
+45® (dihydroergotamine mesylate) Injection, USP, nursing should not be undertaken with the use of D.H.E.
+45® (dihydroergotamine mesylate) Injection, USP.
+(See CONTRAINDICATIONS.)
 
 ## Pediatric Use
 
