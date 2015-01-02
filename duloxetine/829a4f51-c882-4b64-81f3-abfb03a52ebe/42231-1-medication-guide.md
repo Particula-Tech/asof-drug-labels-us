@@ -1,59 +1,175 @@
 Medication Guide
 
-Duloxetine (doo-LOX-e-teen) Delayed-release Capsules USP, 20 mg, 30 mg and 60 mg
+Duloxetine (doo-LOX-e-teen) Delayed-release Capsules USP,
+
+20 mg, 30 mg and 60 mg
 
 Rx Only
 
-Read the Medication Guide that comes with duloxetine delayed-release capsules USP before you start taking it and each time you get a refill.
+Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
-Talk with your healthcare provider if there is something you do not understand or want to learn more about.
+This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-What is the most important information I should know about duloxetine delayed-release capsules?
+Talk to your healthcare provider about:
 
-Duloxetine delayed-release capsules and other antidepressant medicines may cause serious side effects, including:
+- all risks and benefits of treatment with antidepressant medicines
+- all treatment choices for depression or other serious mental illness
 
-1.
-Suicidal thoughts or actions:
+What is the most important information I should know about antidepressant medicines, depression, other serious mental illnesses, and suicidal thoughts or actions?
 
-•Duloxetine delayed-release capsules and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+1. Duloxetine delayed-release capsulesand other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness).
+3. How can I watch for and try to prevent suicidal thoughts and actions?
 
-•Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Pay close attention to any changes in mood, behavior, actions, thoughts, or feelings, especially sudden changes.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
 
-•Watch for these changes and call your healthcare provider right away if you notice:
+- Keep all follow-up visits with your healthcare provider as scheduled.
+  Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-- Pay particular attention to such changes when duloxetine delayed-release capsules are started or when the dose is changed.
-- Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+Call your healthcare provider right away if you have any of the following symptoms or feelings, especially if they are new, worse, or worry you.
+In an emergency, call 911.
 
 - attempts to commit suicide
 - acting on dangerous impulses
-- acting aggressive or violent
+- acting aggressive, being angry, or violent
 - thoughts about suicide or dying
 - new or worse depression
-- new or worse anxiety or panic attacks
-- feeling agitated, restless, angry or irritable
+- new or worse anxiety
+- panic attacks
+- feeling very agitated or restless
+- new or worse irritability
 - trouble sleeping
-- an increase in activity or talking more than what is normal for you
+- an extreme increase in activity or talking (mania)
 - other unusual changes in behavior or mood
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Duloxetine delayed-release capsules may be associated with these serious side effects:
+What else do I need to know about antidepressant medicines?
 
-2.
-Liver damage- symptoms may include:
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  Patients should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
+- Antidepressant medicines have other side effects.
+  Talk to your healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you or your family member takes.
+  Keep a list of all medicines to show your healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
+
+What are duloxetine delayed-release capsules?
+
+Duloxetine delayed-release capsules are a prescription medicine used to treat a certain type of depression called Major Depressive Disorder (MDD).
+Duloxetine delayed-release capsule belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
+
+Duloxetine delayed-release capsules are also used to treat or manage:
+
+- Generalized Anxiety Disorder (GAD)
+- Diabetic Peripheral Neuropathic Pain (DPNP)
+
+Who should not take duloxetine delayed-release capsules?
+
+Do Not take duloxetine delayed-release capsules if you:
+
+- take a Monoamine Oxidase Inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid or intravenous methylene blue.
+- Do not take an MAOI within 5 days of stopping duloxetine delayed-release capsules unless directed to do so by your healthcare provider.
+- Do not start duloxetine delayed-release capsules if you stopped taking an MAOI in the last 14 days unless directed to do so by your healthcare provider.
+
+People who take duloxetine delayed-release capsules close in time to an MAOI may have a serious problem called Serotonin Syndrome (see "What are the possible side effects of duloxetine delayed-release capsules?").
+
+What should I tell my healthcare provider before taking duloxetine delayed-release capsules?
+
+Before starting duloxetine delayed-release capsules, tell your healthcare provider if you:
+
+- have heart problems or high blood pressure
+- have diabetes (duloxetine delayed-release capsules treatment makes it harder for some people with diabetes to control their blood sugar)
+- have liver problems
+- have kidney problems
+- have glaucoma
+- have or had seizures or convulsions
+- have bipolar disorder or mania
+- have low sodium levels in your blood
+- have delayed stomach emptying
+- have or had bleeding problems
+- are pregnant or plan to become pregnant.
+  It is not known if duloxetine delayed-release capsules will harm your unborn baby.
+  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release capsules during pregnancy.
+- are breastfeeding or plan to breastfeed.
+  Duloxetine delayed-release capsules can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
+
+Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Duloxetine delayed-release capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
+
+Especially tell your healthcare provider if you take:
+
+- triptans used to treat migraine headache
+- medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
+- tramadol and fentanyl
+- cimetidine
+- the antibiotics ciprofloxacin, enoxacin
+- medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
+- theophylline
+- the blood thinner warfarin (Coumadin, Jantoven)
+- non-steroidal anti-inflammatory drug (NSAID)(like ibuprofen, naproxen or aspirin).
+- over-the-counter supplements such as tryptophan or St. John's Wort
+- thioridazine (Mellaril).
+  Mellaril together with duloxetine delayed-release capsules can cause serious heart rhythm problems or sudden death.
+
+Ask your healthcare provider for a list of these medicines if you are not sure.
+
+Do not take duloxetine delayed-release capsules with any other medicine that contain duloxetine.
+
+How should I take duloxetine delayed-release capsules?
+
+- Take duloxetine delayed-release capsules exactly as your healthcare provider tells you to take it.
+  Your healthcare provider may need to change the dose of duloxetine delayed-release capsules until it is the right dose for you.
+- Swallow duloxetine delayed-release capsules whole.
+  Do not chew or crush duloxetine delayed-release capsules.
+- Do not open the capsule and sprinkle on food or mix with liquids.
+  Opening the capsule may affect how well duloxetine delayed-release capsules works.
+- Duloxetine delayed-release capsules may be taken with or without food.
+- If you miss a dose of duloxetine delayed-release capsules, take the missed dose as soon as you remember.
+  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
+  Do not take two doses of duloxetine delayed-release capsules at the same time.
+- If you take too much duloxetine delayed-release capsules, call your healthcare provider or poison control center at 1-800-222-1222 right away, or get emergency treatment.
+- When switching from another antidepressant to duloxetine delayed-release capsules your healthcare provider may want to lower the dose of the initial antidepressant first to potentially avoid side effects.
+
+What should I avoid while taking duloxetine delayed-release capsules?
+
+- Duloxetine delayed-release capsules can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
+  You should not drive, operate heavy machinery, or do other dangerous activities until you know how duloxetine delayed-release capsules affects you.
+- Use of duloxetine delayed-release capsules concomitantly with heavy alcohol intake may be associated with severe liver injury.
+  Avoid heavy alcohol use while taking duloxetine delayed-release capsules.
+
+What are the possible side effects of duloxetine delayed-release capsules?
+
+Duloxetine delayed-release capsules may cause serious side effects, including: See "What is the most important information I should know about duloxetine delayed-release capsules?"
+
+Common possible side effects in people who take duloxetine delayed-release capsules include:
+
+1. liver damage.
+Symptoms may include:
 
 - itching
 - right upper abdominal pain
 - dark urine
-- hepatitis with yellow skin or eyes
+- yellow skin or eyes
 - enlarged liver
 - increased liver enzymes
 
+2. changes in blood pressure.
+Monitor your blood pressure before starting and throughout treatment.
+Duloxetine delayed-release capsules may:
+
+- increase your blood pressure.
+- decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine delayed-release capsules or when increasing the dose.
+
 3.
-Serotonin Syndrome -This condition can be life-threatening and may include:
+Serotonin Syndrome: This condition can be life-threatening and symptoms may include:
 
 - agitation, hallucinations, coma or other changes in mental status
 - coordination problems or muscle twitching (overactive reflexes)
@@ -66,16 +182,26 @@ Serotonin Syndrome -This condition can be life-threatening and may include:
 - tremor
 - seizures
 
-4.
-Abnormal bleeding: Duloxetine and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin*, Jantoven*), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+4. abnormal bleeding: Duloxetine delayed-release capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin, Jantoven), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
-5.
-Severe skin reactions: Duloxetine may cause serious skin reactions that may require stopping its use.
+5. severe skin reactions: Duloxetine delayed-release capsules may cause serious skin reactions that may require stopping its use.
 This may need to be treated in a hospital and may be life-threatening.
-Call your doctor right away or get emergency help if you have skin blisters, peeling rash, sores in the mouth, hives or any other allergic reactions.
+Call your healthcare provider right away or get emergency help if you have skin blisters, peeling rash, sores in the mouth, hives or any other allergic reactions.
 
-6.
-Manic episodes:
+6. discontinuation symptoms: Do not stop duloxetine delayed-release capsules without first talking to your healthcare provider.
+Stopping duloxetine delayed-release capsules too quickly or changing from another antidepressant too quickly may result in serious symptoms including:
+
+- anxiety
+- irritability
+- feeling tired or problems sleeping
+- headache
+- sweating
+- dizziness
+- electric shock-like sensations
+- vomiting or nausea
+- diarrhea
+
+7. manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
@@ -85,30 +211,18 @@ Manic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-7.
-Visual Problems
+8. visual problems:
 
-• eye pain
-
-• changes in vision
-
-• swelling or redness in or around the eye
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
 
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
-8.
-Seizures or convulsions
+9. seizures or convulsions
 
-9.
-Changes in blood pressure.
-Monitor your blood pressure before starting and throughout treatment. duloxetine may:
-
-- increase your blood pressure.
-- decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine delayed-release capsules or when increasing the dose.
-
-10.
-Low salt (sodium) levels in the blood.
+10. low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
 
@@ -116,153 +230,30 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-11.
-Problems with urination include:
+11. problems with urination.
+Symptoms may include:
 
 - decreased urine flow
 - unable to pass any urine
 
-12.
-Changes in appetite or weight.
-Children and adolescents should have height and weight monitored during treatment.
-
-Do not stop duloxetine delayed-release capsules without first talking to your healthcare provider.
-Stopping duloxetine delayed-release capsules too quickly or changing from another antidepressant too quickly may result in serious symptoms including:
-
-- anxiety, irritability
-- feeling tired or problems sleeping
-- headache, sweating, dizziness
-- electric shock-like sensations
-- vomiting, nausea, diarrhea
-
-What are duloxetine delayed-release capsules?
-
-Duloxetine delayed-release capsules are prescription medicine used to treat depression.
-It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
-You should discuss all treatment choices with your healthcare provider.
-
-Duloxetine delayed-release capsules are also used to treat or manage:
-
-- Major Depressive Disorder (MDD)
-- Generalized Anxiety Disorder (GAD)
-- Diabetic Peripheral Neuropathic Pain (DPNP)
-
-Talk to your healthcare provider if you do not think that your condition is getting better with duloxetine delayed-release capsules treatment.
-
-Who should not take duloxetine delayed-release capsules?
-
-Do NOT take duloxetine delayed-release capsules if you:
-
-- take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- Do not take an MAOI within 5 days of stopping duloxetine delayed-release capsules unless directed to do so by your physician.
-- Do not start duloxetine delayed-release capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-
-People who take duloxetine delayed-release capsules close in time to an MAOI may have serious or even life-threatening side effects.
-Get medical help right away if you have any of these symptoms:
-
-- high fever
-- uncontrolled muscle spasms
-- stiff muscles
-- rapid changes in heart rate or blood pressure
-- confusion
-- loss of consciousness (pass out)
-- take Mellaril* (thioridazine) because this can cause serious heart rhythm problems or sudden death
-
-What should I tell my healthcare provider before taking duloxetine delayed-release capsules?
-Ask if you are not sure.
-
-Before starting duloxetine delayed-release capsules, tell your healthcare provider if you:
-
-•Are taking certain drugs such as:
-
-- Triptans used to treat migraine headache
-- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- Tramadol and fentanyl
-- Cimetidine
-- The antibiotics ciprofloxacin, enoxacin
-- Medicine to control heart rate such as propafenone, flecainide, quinidine
-- Theophylline
-- The blood thinner warfarin (Coumadin*, Jantoven*)
-- Non-steroidal anti-inflammatory drug (NSAID), like ibuprofen, naproxen or aspirin.
-- Over-the-counter supplements such as tryptophan or St. John's Wort
-
-• have heart problems or high blood pressure
-
-• have diabetes (duloxetine delayed-release capsules treatment worsens the control of blood sugar in some patients with diabetes)
-
-• have liver problems
-
-• have kidney problems
-
-• have angle-closure glaucoma
-
-• have or had seizures or convulsions
-
-• have bipolar disorder or mania
-
-• have low sodium levels in your blood
-
-• have delayed stomach emptying
-
-• have or had bleeding problems
-
-• are pregnant or plan to become pregnant.
-It is not known if duloxetine will harm your unborn baby.
-Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine during pregnancy.
-
-• are breast-feeding or plan to breast-feed.
-Some duloxetine may pass into your breast milk.
-Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
-
-Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Duloxetine delayed-release capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
-
-Your healthcare provider or pharmacist can tell you if it is safe to take duloxetine delayed-release capsules with your other medicines.
-Do not start or stop any medicine while taking duloxetine delayed-release capsules without talking to your healthcare provider first.
-
-| If you take duloxetine delayed-release capsules, you should not take any other medicines that contain duloxetine. |
-| --- |
-
-How should I take duloxetine delayed-release capsules?
-
-- Take duloxetine delayed-release capsules exactly as prescribed.
-  Your healthcare provider may need to change the dose of duloxetine delayed-release capsules until it is the right dose for you.
-- Do not open, break or chew the capsule; it must be swallowed whole.
-- Duloxetine delayed-release capsules may be taken with or without food.
-- If you miss a dose of duloxetine delayed-release capsules, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of duloxetine delayed-release capsules at the same time.
-- If you take too much duloxetine delayed-release capsules, call your healthcare provider or poison control center right away, or get emergency treatment.
-- When switching from another antidepressant to duloxetine delayed-release capsules your doctor may want to lower the dose of the initial antidepressant first to potentially avoid side effects.
-
-What should I avoid while taking duloxetine delayed-release capsules?
-
-- Duloxetine delayed-release capsules can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
-  You should not drive, operate heavy machinery, or do other dangerous activities until you know how duloxetine delayed-release capsules affects you.
-- Use of duloxetine delayed-release capsules concomitantly with heavy alcohol intake may be associated with severe liver injury.
-  Avoid heavy alcohol use while taking duloxetine delayed-release capsules.
-
-What are the possible side effects of duloxetine delayed-release capsules?
-
-Duloxetine delayed-release capsules may cause serious side effects, including all of those described in the section entitled "What is the most important information I should know about duloxetine delayed-release capsules?"
-
-Common possible side effects in people who take duloxetine delayed-release capsules include:
+The most common side effects of duloxetine delayed-release capsules include:
 
 - nausea
 - dry mouth
 - sleepiness
 - fatigue
+- constipation
 - loss of appetite
 - increased sweating
 - dizziness
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of duloxetine delayed-release capsules.
 For more information, ask your healthcare provider or pharmacist.
 
-CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
+Call your doctor for medical advice about side effects.
+You may report side effects to 1-800-FDA-1088.
 
 How should I store duloxetine delayed-release capsules?
 
@@ -270,11 +261,11 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [s
 
 Keep duloxetine delayed-release capsules and all medicines out of the reach of children.
 
-General information about duloxetine delayed-release capsules
+General information about the safe and effective use of duloxetine delayed-release capsules.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use duloxetine delayed-release capsules for a condition for which it was not prescribed.
-Do not give duloxetine delayed-release capsules to other people, even if they have the same condition.
+Do not give duloxetine delayed-release capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about duloxetine delayed-release capsules.
@@ -283,7 +274,7 @@ You may ask your healthcare provider or pharmacist for information about duloxet
 
 For more information about duloxetine delayed-release capsules call 1-800-399-2561 or go to www.lupinpharmaceuticals.com.
 
-What are the ingredients in duloxetine delayed-release capsules USP?
+What are the ingredients in duloxetine delayed-release capsules?
 
 Active ingredient: duloxetine hydrochloride
 
@@ -312,4 +303,4 @@ Goa 403722
 
 INDIA
 
-Revised: October 2014 ID#: 238913
+Revised: January 2015 ID#: 239898

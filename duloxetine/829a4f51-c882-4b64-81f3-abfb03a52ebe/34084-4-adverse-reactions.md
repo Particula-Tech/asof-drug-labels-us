@@ -1,23 +1,50 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults[see BOXED WARNING and WARNINGS AND PRECAUTIONS (5925.1)]
+- Hepatotoxicity[see WARNINGS AND PRECAUTIONS (5.2)]
+- Orthostatic Hypotension and Syncope[see WARNINGS AND PRECAUTIONS (5.3)]
+- Serotonin Syndrome[see WARNINGS AND PRECAUTIONS (5.4)]
+- Abnormal Bleeding[see WARNINGS AND PRECAUTIONS (5.5)]
+- Severe Skin Reactions[see WARNINGS AND PRECAUTIONS (5.6)]
+- Discontinuation of Treatment with duloxetine[see WARNINGS AND PRECAUTIONS (5.7)]
+- Activation of Mania/Hypomania[see WARNINGS AND PRECAUTIONS (5.8)]
+- Angle-Closure Glaucoma[see WARNINGS AND PRECAUTIONS (5.9)]
+- Seizures[see WARNINGS AND PRECAUTIONS (5.10)]
+- Effect on Blood Pressure[see WARNINGS AND PRECAUTIONS (5.11)]
+- Clinically Important Drug Interactions[see WARNINGS AND PRECAUTIONS (5.12)]
+- Hyponatremia[see WARNINGS AND PRECAUTIONS (5.13)
+- Urinary Hesitation and Retention[see WARNINGS AND PRECAUTIONS (5.15)]
+
 ## 6.1 Clinical Trial Data Sources
 
-The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=2489), GAD (N=910), and DPNP (N=906).
-The population studied was 17 to 91 years of age; 65.5%, 62.5% and 42.9% female; and 86.5%, 81.2%, and 74.0% Caucasian for MDD, GAD, and DPNP respectively.
-Most patients received doses of a total of 60 to 120 mg per day [see CLINICAL STUDIES (14)].
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 Reactions reported during the studies were not necessarily caused by the therapy, and the frequencies do not reflect investigator impression (assessment) of causality.
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Adults
 
-## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Placebo-Controlled Trials
+The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=2489), GAD (N=910), and DPNP (N=906).
+The population studied was 17 to 91 years of age; 65.5%, 62.5%, and 42.9% female; and 86.5%, 81.2%, and 74.0% Caucasian for MDD, GAD, and DPNP, respectively.
+Most patients received doses of a total of 60 to 120 mg per day [see CLINICAL STUDIES (14)].
+The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
+
+Children and Adolescents
+
+The data described below reflect exposure to duloxetine in pediatric, 10-week, placebo-controlled trials for MDD (N=341) and GAD (N=135).
+The population studied (N=476) was 7 to 17 years of age with 42.4% children age 7 to 11 years of age, 50.6% female, and 68.6% white.
+Patients received 30 to 120 mg per day during placebo-controlled acute treatment studies.
+Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to duloxetine in MDD and GAD clinical trials up to 36-weeks in length, in which most patients received 30 to 120 mg per day.
+
+## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
 Major Depressive Disorder
 
 Approximately 9% (209/2327) of the patients who received duloxetine in placebo-controlled trials for MDD discontinued treatment due to an adverse reaction, compared with 4.7% (68/1460) of the patients receiving placebo.
-Nausea (duloxetine 1.3%, placebo 0.5%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetinetreated patients and at a rate of at least twice that of placebo).
+Nausea (duloxetine 1.3%, placebo 0.5%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine treated patients and at a rate of at least twice that of placebo).
 
 Generalized Anxiety Disorder
 
@@ -29,7 +56,7 @@ Diabetic Peripheral Neuropathic Pain
 Approximately 12.9% (117/906) of the patients who received duloxetine in placebo-controlled trials for DPNP discontinued treatment due to an adverse reaction, compared with 5.1% (23/448) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.5%, placebo 0.7%), dizziness (duloxetine 1.2%, placebo 0.4%), and somnolence (duloxetine 1.1%, placebo 0.0%).
 
-## 6.3 Most Common Adverse Reactions
+## 6.3 Most Common Adult Adverse Reactions
 
 Pooled Trials for All Approved Indications
 
@@ -39,7 +66,7 @@ Diabetic Peripheral Neuropathic Pain
 
 The most commonly observed adverse reactions in duloxetine -treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
 
-## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
+## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Adult Placebo- Controlled Trials
 
 Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-controlled trials for approved indications that occurred in 5% or more of patients treated with duloxetine and with an incidence greater than placebo.
 
@@ -51,7 +78,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placeb
 | Nausea | 24 | 8 |
 | Headache | 14 | 13 |
 | Dry mouth | 13 | 5 |
-| Fatigue1 | 10 | 5 |
+| FatigueAlso includes asthenia. | 10 | 5 |
 | SomnolenceEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration.,Also includes hypersomnia and sedation. | 10 | 3 |
 | Insomnia,Also includes middle insomnia, early morning awakening, and initial insomnia. | 10 | 6 |
 | Dizziness | 10 | 5 |
@@ -59,15 +86,15 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placeb
 | Diarrhea | 9 | 6 |
 | Decreased appetite,Also includes anorexia. | 8 | 2 |
 | Hyperhidrosis | 7 | 2 |
-| aAlso includes asthenia. |  |  |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 
-## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
+## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Adult Placebo-Controlled Trials
 
 Pooled MDD and GAD Trials
 
 Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine and with an incidence greater than placebo.
 
-Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD and GAD Placebo-Controlled Trialsa
+Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD and GAD Placebo-Controlled Trials a,b
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -80,30 +107,30 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD an
 | Nausea | 25 | 9 |
 | Dry mouth | 15 | 6 |
 | Diarrhea | 10 | 7 |
-| Constipationb | 10 | 4 |
-| Abdominal painc | 4 | 4 |
+| Constipation Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. | 10 | 4 |
+| Abdominal pain Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain | 4 | 4 |
 | Vomiting | 5 | 2 |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatigued | 10 | 6 |
+| Fatigue Also includes asthenia | 10 | 6 |
 | Investigations |  |  |
-| Weight decreasedb | 2 | <1 |
+| Weight decreased | 2 | <1 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased appetitee | 7 | 2 |
+| Decreased appetite Also includes anorexia | 7 | 2 |
 | Nervous System Disorders |  |  |
 | Dizziness | 10 | 6 |
-| Somnolencef | 10 | 4 |
+| Somnolence Also includes hypersomnia and sedation | 10 | 4 |
 | Tremor | 3 | <1 |
 | Psychiatric Disorders |  |  |
-| Insomniag | 10 | 6 |
-| Agitationh | 5 | 3 |
+| Insomnia Also includes middle insomnia, early morning awakening and initial insomnia | 10 | 6 |
+| Agitation i | 5 | 3 |
 | Anxiety | 3 | 2 |
-| Libido decreasedi | 4 | 1 |
-| Orgasm abnormalb,j | 3 | <1 |
-| Abnormal dreamsk | 2 | 1 |
+| Libido decreased Also includes loss of libido | 4 | 1 |
+| Orgasm abnormal, Also includes anorgasmia | 3 | <1 |
+| Abnormal dreams Also includes nightmare | 2 | 1 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile dysfunctionl | 4 | 1 |
-| Ejaculation delayedb,l | 3 | <1 |
-| Ejaculation disorderl,m | 2 | <1 |
+| Erectile dysfunction Male patients only | 4 | 1 |
+| Ejaculation delayed, | 3 | <1 |
+| Ejaculation disorder, Also includes ejaculation failure and ejaculation dysfunction | 2 | <1 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
@@ -111,83 +138,58 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD an
 | Vascular Disorders |  |  |
 | Hot flush | 2 | <1 |
 | aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| bEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| cAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| dAlso includes asthenia |  |  |
-| eAlso includes anorexia |  |  |
-| fAlso includes hypersomnia and sedation |  |  |
-| gAlso includes middle insomnia, early morning awakening and initial insomnia |  |  |
-| hAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor agitation |  |  |
-| iAlso includes loss of libido |  |  |
-| jAlso includes anorgasmia |  |  |
-| kAlso includes nightmare |  |  |
-| lMale patients only |  |  |
-| mAlso includes ejaculation failure and ejaculation dysfunction |  |  |
+| b For GAD, there were no adverse events that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years. |  |  |
 
-DPNP, OA, and CLBP
+DPNP
 
 Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP Placebo-Controlled Trialsa
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP Placebo-Controlled Trials a
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
 | System Organ Class / Adverse Reaction | Duloxetine (N=2621) | Placebo (N=1672) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 23 | 7 |
-| Dry mouthb | 11 | 3 |
-| Constipationb | 10 | 3 |
+| Dry mouth Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. | 11 | 3 |
+| Constipation | 10 | 3 |
 | Diarrhea | 9 | 6 |
-| Abdominal painc | 6 | 5 |
+| Abdominal pain Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain | 6 | 5 |
 | Vomiting | 3 | 2 |
-| Dyspepsiad | 2 | 1 |
+| Dyspepsia Also includes stomach discomfort | 2 | 1 |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatiguee | 11 | 5 |
+| Fatigue Also includes asthenia | 11 | 5 |
 | Infections and Infestations |  |  |
 | Nasopharyngitis | 5 | 4 |
 | Upper Respiratory Tract Infection | 4 | 4 |
 | Influenza | 3 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased appetiteb,f | 9 | 1 |
+| Decreased appetite,Also includes anorexia | 9 | 1 |
 | Musculoskeletal and Connective Tissue |  |  |
-| Musculoskeletal Painb,g | 4 | 4 |
+| Musculoskeletal Pain,Also includes myalgia and neck pain | 4 | 4 |
 | Muscle Spasms | 3 | 2 |
 | Nervous System Disorders |  |  |
 | Headache | 13 | 9 |
-| Somnolenceb,h | 12 | 3 |
+| Somnolence,Also includes hypersomnia and sedation | 12 | 3 |
 | Dizziness | 10 | 5 |
-| Paraesthesiai | 2 | 2 |
-| Tremorb | 2 | <1 |
+| Paraesthesia i | 2 | 2 |
+| Tremor | 2 | <1 |
 | Psychiatric Disorders |  |  |
-| Insomniab,j | 10 | 6 |
-| Agitationk | 3 | <1 |
+| Insomnia,Also includes middle insomnia, early morning awakening and initial insomnia | 10 | 6 |
+| Agitation Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity | 3 | <1 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile Dysfunctionb,l | 4 | <1 |
-| Ejaculation Disorderm | 2 | <1 |
+| Erectile Dysfunction,Male patients only (N=885 for duloxetine, 494 for placebo) | 4 | <1 |
+| Ejaculation Disorder Male patients only (N=885 for duloxetine, 494 for placebo). Also includes ejaculation failure | 2 | <1 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Cough | 3 | 2 |
-| Oropharyngeal Painb | 2 | 2 |
+| Oropharyngeal Pain | 2 | 2 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 1 |
 | Vascular Disorders |  |  |
-| Flushingn | 3 | 1 |
+| Flushing Also includes hot flush | 3 | 1 |
 | aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| bIncidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
-| cAlso includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and |  |  |
-| gastrointestinal pain |  |  |
-| dAlso includes stomach discomfort |  |  |
-| eAlso includes asthenia |  |  |
-| fAlso includes anorexia |  |  |
-| gAlso includes myalgia and neck pain |  |  |
-| hAlso includes hypersomnia and sedation |  |  |
-| iAlso includes hypoaesthesia, hypoaesthesia facial and paraesthesia oral |  |  |
-| jAlso includes middle insomnia, early morning awakening and initial insomnia |  |  |
-| kAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| lMale patients only (N=885 for duloxetine, 494 for placebo) |  |  |
-| mMale patients only (N=885 for duloxetine, 494 for placebo). Also includes ejaculation failure |  |  |
-| nAlso includes hot flush |  |  |
 
-## 6.6 Effects on Male and Female Sexual Function
+## 6.6 Effects on Male and Female Sexual Function in Adults
 
 Changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of psychiatric disorders or diabetes, but they may also be a consequence of pharmacologic treatment.
 Because adverse sexual reactions are presumed to be voluntarily underreported, the Arizona Sexual Experience Scale (ASEX), a validated measure designed to identify sexual side effects, was used prospectively in 4 MDD placebo-controlled trials.
@@ -210,29 +212,24 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 | Item 4-Ease of reaching orgasm | 0.40p<0.001 versus placebo | -0.24 | -0.09 | -0.13 |
 | Item 5-Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
 
-## 6.7 Vital Sign Changes
+## 6.7 Vital Sign Changes in Adults
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.07 mm Hg in systolic blood pressure and 0.62 mm Hg in diastolic blood pressure compared to mean decreases of 1.31 mm Hg systolic and 0.73 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see WARNINGS AND PRECAUTIONS (5.3and 5.11)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.40 beats per minute.
 
-## 6.8 Weight Changes
+## 6.8 Laboratory Changes in Adults
 
-In placebo-controlled clinical trials, MDD and GAD patients treated with duloxetine for up to 10 weeks experienced a mean weight loss of approximately 0.5 kg, compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
-In studies of DPNP, patients treated with duloxetine for up to 26 weeks experienced a mean weight loss of approximately 0.6 kg compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
+Duloxetine treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine-treated patients when compared with placebo-treated patients [see WARNINGS AND PRECAUTIONS (5.2)].
 
-## 6.9 Laboratory Changes
-
-Duloxetine treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine -treated patients when compared with placebo-treated patients [see WARNINGS AND PRECAUTIONS (5.2)].
-
-## 6.10 Electrocardiogram Changes
+## 6.9 Electrocardiogram Changes in Adults
 
 The effect of duloxetine 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
 No QT interval prolongation was detected.
 Duloxetine appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
-## 6.11 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine
+## 6.10 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine in Adults
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with duloxetine in clinical trials.
 In clinical trials of all indications, 29,435 patients were treated with duloxetine.
@@ -283,7 +280,7 @@ Frequent: musculoskeletal pain; Infrequent: muscle tightness and muscle twitchin
 
 Nervous System Disorders
 
-Frequent: dysgeusia, lethargy, and parasthesia/hypoesthesia; Infrequent: disturbance in attention, dyskinesia, myoclonus, and poor quality sleep; Rare: dysarthria.
+Frequent: dysgeusia, lethargy, and paresthesia/hypoesthesia; Infrequent: disturbance in attention, dyskinesia, myoclonus, and poor quality sleep; Rare: dysarthria.
 
 Psychiatric Disorders
 
@@ -306,6 +303,43 @@ Skin and Subcutaneous Tissue Disorders- Infrequent: cold sweat, dermatitis conta
 Vascular Disorders
 
 Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
+
+## 6.11 Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
+
+The adverse drug reaction profile observed in pediatric clinical trials (children and adolescents) was consistent with the adverse drug reaction profile observed in adult clinical trials.
+The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see ADVERSE REACTIONS (6.5)].
+The most common (≥5% and twice placebo) adverse reactions observed in pediatric clinical trials include: nausea, diarrhea, decreased weight, and dizziness.
+
+Table 6 provides the incidence of treatment-emergent adverse reactions in MDD and GAD pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
+
+Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10week Pediatric Placebo-Controlled Trialsa
+
+| System Organ Class/Adverse Reaction | Percentage of Pediatric Patients Reporting Reaction |  |
+| --- | --- | --- |
+|  | Duloxetine (N=476) | Placebo (N=362) |
+| Gastrointestinal Disorders Nausea Abdominal Pain Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and Vomiting Diarrhea Dry Mouth | 18 13 9 6 2 | 8 10 4 3 1 |
+| General Disorders and Administration Site Conditions Fatigue Also includes asthenia. | 7 | 5 |
+| Investigations Decreased Weight Frequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=467 Duloxetine; N=354 Placebo). | 14 | 6 |
+| Metabolism and Nutrition Disorders Decreased Appetite | 10 | 5 |
+| Nervous System Disorders Headache Somnolence Also includes hypersomnia and sedation. Dizziness | 18 11 8 | 13 6 4 |
+| Psychiatric Disorders Insomnia Also includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. | 7 | 4 |
+| Respiratory, Thoracic, and Mediastinal Disorders Oropharyngeal Pain Cough | 4 3 | 2 1 |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+
+Other adverse reactions that occurred at an incidence of less than 2% but were reported by more duloxetine treated patients than placebo treated patients and are associated duloxetine treatment: abnormal dreams (including nightmare), anxiety, flushing (including hot flush), hyperhidrosis, palpitations, pulse increased, and tremor.
+
+Discontinuation-emergent symptoms have been reported when stopping duloxetine.
+The most commonly reported symptoms following discontinuation of duloxetine in pediatric clinical trials have included headache, dizziness, insomnia, and abdominal pain [see WARNINGS AND PRECAUTIONS (5.7) and ADVERSE REACTIONS (6.2)].
+
+Growth (Height and Weight)
+
+Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+Pediatric patients treated with duloxetine in clinical trials experienced a 0.1kg mean decrease in weight at 10 weeks, compared with a mean weight gain of approximately 0.9 kg in placebo-treated patients.
+The proportion of patients who experienced a clinically significant decrease in weight (≥3.5%) was greater in the duloxetine group than in the placebo group (14% and 6%, respectively).
+Subsequently, over the 4- to 6-month uncontrolled extension periods, duloxetine-treated patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and sex-matched peers.
+In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
+While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
+Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
 
 ## 6.12 Postmarketing Spontaneous Reports
 

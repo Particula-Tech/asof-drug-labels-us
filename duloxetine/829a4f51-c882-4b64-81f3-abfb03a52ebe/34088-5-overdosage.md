@@ -21,5 +21,5 @@ Due to the large volume of distribution of this drug, forced diuresis, dialysis,
 In managing overdose, the possibility of multiple drug involvement should be considered.
 A specific caution involves patients who are taking or have recently taken duloxetine and might ingest excessive quantities of a TCA.
 In such a case, decreased clearance of the parent tricyclic and/or its active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see WARNINGS AND PRECAUTIONS (5.4) and DRUG INTERACTIONS (7)].
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
+The physician should consider contacting a poison control center (1-800-222-1222 or www.poison.org) for additional information on the treatment of any overdose.
 Telephone numbers for certified poison control centers are listed in the Physicians' Desk Reference (PDR).

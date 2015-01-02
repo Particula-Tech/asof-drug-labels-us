@@ -5,5 +5,3 @@ These studies did not show an increase in the risk of suicidal thoughts and beha
 
 In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
 Advise families and caregivers of the need for close observation and communication with the prescriber [see WARNINGS AND PRECAUTIONS (5.1)].
-
-Duloxetine delayed-release capsules are not approved for use in pediatric patients [see USE IN SPECIFIC POPULATIONS (8.4)].

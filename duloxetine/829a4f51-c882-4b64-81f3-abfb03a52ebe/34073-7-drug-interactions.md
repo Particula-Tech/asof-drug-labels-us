@@ -39,7 +39,7 @@ Duloxetine delayed-release capsules have an enteric coating that resists dissolu
 In extremely acidic conditions, duloxetine, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
 Caution is advised in using duloxetine in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
-However, coadministration of duloxetine with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
+However, co-administration of duloxetine with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
 It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see WARNINGS AND PRECAUTIONS (5.14)].
 
 ## 7.8 Drugs Metabolized by CYP1A2
@@ -70,11 +70,11 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 ## 7.13 Monoamine Oxidase Inhibitors (MAOIs)
 
-[See DOSAGE AND ADMINISTRATION (2.5, 2.6), CONTRAINDICATIONS (4.1), and WARNINGS AND PRECAUTIONS (5.4)].
+[See DOSAGE AND ADMINISTRATION (2.8, 2.9), CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.4)].
 
 ## 7.14 Serotonergic Drugs
 
-[See DOSAGE AND ADMINISTRATION (2.5, 2.6), CONTRAINDICATIONS (4.1), and WARNINGS AND PRECAUTIONS (5.4)].
+[See DOSAGE AND ADMINISTRATION (2.4, 2.9), CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.4)].
 
 ## 7.15 Alcohol
 
