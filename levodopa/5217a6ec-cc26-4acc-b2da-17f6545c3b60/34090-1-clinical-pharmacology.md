@@ -1,5 +1,3 @@
-# CLINICAL PHARMACOLOGY
-
 ## Mechanism of Action
 
 Parkinson's disease is a progressive, neurodegenerative disorder of the extrapyramidal nervous system affecting the mobility and control of the skeletal muscular system.
@@ -13,8 +11,8 @@ This is thought to be the mechanism whereby levodopa relieves symptoms of Parkin
 
 ## Pharmacodynamics
 
-When levodopa is administered orally it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system.
-For this reason, large doses of levodopa are required for adequate therapeutic effect and these may often be accompanied by nausea and other adverse reactions, some of which are attributable to dopamine formed in extracerebral tissues.
+When levodopa is administered orally, it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system.
+For this reason, large doses of levodopa are required for adequate therapeutic effect, and these may often be accompanied by nausea and other adverse reactions, some of which are attributable to dopamine formed in extracerebral tissues.
 
 Since levodopa competes with certain amino acids for transport across the gut wall, the absorption of levodopa may be impaired in some patients on a high protein diet.
 
@@ -27,8 +25,9 @@ Patients treated with levodopa therapy for Parkinson's disease may develop motor
 The advanced form of motor fluctuations (‘on-off’ phenomenon) is characterized by unpredictable swings from mobility to immobility.
 Although the causes of the motor fluctuations are not completely understood, in some patients they may be attenuated by treatment regimens that produce steady plasma levels of levodopa.
 
-Each tablet contains either 50 mg of carbidopa and 200 mg of levodopa, or 25 mg of carbidopa and 100 mg of levodopa in a extended-release dosage form designed to release these ingredients over a 4- to 6-hour period.
-With carbidopa and levodopa extended-release there is less variation in plasma levodopa levels than with carbidopa and levodopa, the conventional formulation.
+Each tablet contains either 50 mg of carbidopa and 200 mg of levodopa, or 25 mg of carbidopa and 100 mg of levodopa in a extended-release dosage form designed to release these ingredients over a 4- to 6- hour period.
+With carbidopa and levodopa extended-release there is less variation in plasma levodopa levels than with carbidopa and levodopa immediate release tablets, the conventional formulation.
+
 However, carbidopa and levodopa extended-release is less systemically bioavailable than carbidopa and levodopa and may require increased daily doses to achieve the same level of symptomatic relief as provided by carbidopa and levodopa.
 
 In clinical trials, patients with moderate to severe motor fluctuations who received carbidopa and levodopa extended-release did not experience quantitatively significant reductions in ‘off’ time when compared to carbidopa and levodopa.
@@ -57,5 +56,16 @@ The extent of availability and peak concentrations of levodopa after a single do
 At steady state, the bioavailability of carbidopa from carbidopa and levodopa tablet is approximately 99% relative to the concomitant administration of carbidopa and levodopa.
 At steady state, carbidopa bioavailability from 50 mg/200 mg carbidopa and levodopa extended-release is approximately 58% relative to that from carbidopa and levodopa.
 
-Pyridoxine hydrochloride (vitamin B6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
+Pyridoxine hydrochloride (vitamin B 6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
 Carbidopa inhibits this action of pyridoxine.
+
+## Special Populations
+
+Geriatric: A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
+However, the systemic exposure (AUC) of levodopa was increased by 55% in elderly subjects compared to young subjects.
+Based on another study in forty patients with Parkinson’s disease, there was a correlation between age of patients and the increase of AUC of levodopa following administration of levodopa and an inhibitor of peripheral dopa decarboxylase.
+AUC of levodopa was increased by 28% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr).
+Additionally, mean value of Cmax for levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr)(see PRECAUTIONS, Geriatric Use).
+
+The AUC of carbidopa was increased in elderly subjects (n=10, 65 to 76 yr) by 29% compared to young subjects (n=24, 23 to 64 yr) following IV administration of 50 mg levodopa with carbidopa (50 mg).
+This increase is not considered a clinically significant impact.

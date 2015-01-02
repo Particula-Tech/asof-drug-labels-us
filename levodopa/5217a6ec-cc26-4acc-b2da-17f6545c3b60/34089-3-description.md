@@ -4,13 +4,13 @@ Carbidopa and levodopa extended-release tablets are for the treatment of Parkins
 
 Carbidopa, an inhibitor of aromatic amino acid decarboxylation, is a white, crystalline compound, slightly soluble in water, with a molecular weight of 244.3.
 It is designated chemically as (—)-L-α-hydrazino-α-methyl-β-(3,4-dihydroxybenzene) propanoic acid monohydrate.
-Its empirical formula is C10H14N2O4•H2O and its structural formula is:
+Its empirical formula is C 10H 14N 2O 4•H 2O and its structural formula is:
 
 Tablet content is expressed in terms of anhydrous carbidopa, which has a molecular weight of 226.3.
 
 Levodopa, an aromatic amino acid, is a white, crystalline compound, slightly soluble in water, with a molecular weight of 197.2.
 It is designated chemically as (—)-L-α-amino-β-(3,4-dihydroxybenzene) propanoic acid.
-Its empirical formula is C9H11NO4 and its structural formula is:
+Its empirical formula is C 9H 11NO 4 and its structural formula is:
 
 Each extended-release tablet, for oral administration, contains either 50 mg of carbidopa and 200 mg of levodopa, or 25 mg of carbidopa and 100 mg of levodopa.
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, hydroxypropylmethyl cellulose, hypromellose, colloidal anhydrous silica, magnesium stearate, ferric oxide red and ferric oxide yellow.

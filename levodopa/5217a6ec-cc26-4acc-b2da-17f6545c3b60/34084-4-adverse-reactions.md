@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 In controlled clinical trials, patients predominantly with moderate to severe motor fluctuations while on carbidopa and levodopa were randomized to therapy with either carbidopa and levodopa or carbidopa and levodopa extended-release.
-The adverse experience frequency profile of carbidopa and levodopa extended-release did not differ substantially from that of carbidopa and levodopa, as shown in Table I.
+The adverse experience frequency profile of carbidopa and levodopa extended-release did not differ substantially from that of carbidopa and levodopa, as shown in Table 1.
 
-Table I: Clinical Adverse Experiences Occurring in 1% or Greater of Patients
+Table 1: Clinical Adverse Experiences Occurring in 1% or Greater of Patients
 
 | Adverse Experience | Carbidopa and Levodopa Extended-release n = 491 % | Carbidopa and Levodopa n = 524 % |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Urogenital: Urinary incontinence.
 
 Laboratory Tests: Decreased white blood cell count and serum potassium; increased BUN, serum creatinine and serum LDH; protein and glucose in the urine.
 
-The following adverse experiences have been reported in post-marketing experience with carbidopa and levodopa extended-release:
+The following adverse experiences have been reported in postmarketing experience with carbidopa and levodopa extended-release:
 
 Cardiovascular: Cardiac irregularities, syncope.
 
@@ -71,19 +71,19 @@ Gastrointestinal: Taste alterations, dark saliva.
 
 Hypersensitivity: Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
 
-Nervous System/Psychiatric: Neuroleptic malignant syndrome (NMS, see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Nervous System/Psychiatric: Increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 
 Skin: Alopecia, flushing, dark sweat.
 
 Urogenital: Dark urine.
 
-Other adverse reactions that have been reported with levodopa alone and with various carbidopa-levodopa formulations and may occur with carbidopa and levodopa extended-release are:
+Other adverse reactions that have been reported with levodopa alone and with various carbidopa levodopa formulations and may occur with carbidopa and levodopa extended-release are:
 
 Cardiovascular: Phlebitis.
 
 Gastrointestinal: Gastrointestinal bleeding, development of duodenal ulcer, sialorrhea, bruxism, hiccups, flatulence, burning sensation of tongue.
 
-Hematologic: Hemolytic and nonhemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
+Hematologic: Hemolytic and non-hemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
 
 Hypersensitivity: Henoch-Schonlein purpura.
 
