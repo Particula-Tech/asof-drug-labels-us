@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204623"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Horizon Pharma Inc.",
+  "package_ndcs": [
+    "75987-040-05",
+    "75987-040-74"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "diclofenac sodium",
+      "name": "Pennsaid"
+    }
+  ],
+  "setid": "802cd382-443d-48e3-9c9d-fd946c73c79f",
+  "source": "dailymed"
+}
