@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA206255"
+  ],
+  "inn": "ivermectin",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-3823-30",
+    "0299-3823-45",
+    "0299-3823-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "ivermectin",
+      "name": "SOOLANTRA"
+    }
+  ],
+  "setid": "b1d5b166-ab06-4ab5-b0c6-31126238118a",
+  "source": "dailymed"
+}
