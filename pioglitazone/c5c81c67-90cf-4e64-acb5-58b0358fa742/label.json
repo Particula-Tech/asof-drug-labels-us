@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA077210"
+  ],
+  "inn": "pioglitazone",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7271-05",
+    "0093-7271-56",
+    "0093-7271-98",
+    "0093-7272-05",
+    "0093-7272-56",
+    "0093-7272-98",
+    "0093-7273-05",
+    "0093-7273-56",
+    "0093-7273-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pioglitazone",
+      "name": "Pioglitazone"
+    }
+  ],
+  "setid": "c5c81c67-90cf-4e64-acb5-58b0358fa742",
+  "source": "dailymed"
+}
