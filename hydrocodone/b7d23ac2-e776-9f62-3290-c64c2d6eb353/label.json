@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA206627"
+  ],
+  "inn": "hydrocodone",
+  "labeler": "Purdue Pharma LP",
+  "package_ndcs": [
+    "59011-271-60",
+    "59011-272-60",
+    "59011-273-60",
+    "59011-274-60",
+    "59011-275-60",
+    "59011-276-60",
+    "59011-277-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "hydrocodone bitartrate",
+      "name": "Hysingla ER"
+    }
+  ],
+  "setid": "b7d23ac2-e776-9f62-3290-c64c2d6eb353",
+  "source": "dailymed"
+}
