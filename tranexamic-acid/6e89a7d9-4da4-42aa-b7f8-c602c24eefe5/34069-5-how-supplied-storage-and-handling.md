@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-CYKLOKAPRON Injection 100 mg/mL
+CYKLOKAPRON Injection 100 mg/mL NDC 0013-1114-10 10 × 10 mL single-dose ampules
 
-NDC 0013-1114-10 10 × 10 mL ampules
+CYKLOKAPRON Injection 100 mg/mL NDC 0013-1114-21 10 × 10 mL single-dose vials
 
 ## STORAGE
 

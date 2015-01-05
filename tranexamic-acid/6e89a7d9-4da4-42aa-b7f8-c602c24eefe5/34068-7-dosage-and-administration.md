@@ -5,14 +5,19 @@ Following tooth extraction, intravenous therapy, at a dose of 10 mg per kg body 
 
 Note: For patients with moderate to severe impaired renal function, the following dosages are recommended:
 
-| Serum Creatinine (µmol/L) | Tranexamic Acid I.V. Dosage |
+| Serum Creatinine (µmol/L) | Tranexamic Acid Intravenous Dosage |
 | --- | --- |
-| 120 to 250 (1.36 to 2.83 mg/dL) | 10 mg/kg BID |
+| 120 to 250 (1.36 to 2.83 mg/dL) | 10 mg/kg twice daily |
 | 250 to 500 (2.83 to 5.66 mg/dL) | 10 mg/kg daily |
 | >500 (>5.66 mg/dL) | 10 mg/kg every 48 hours or 5 mg/kg every 24 hours |
 
 For intravenous infusion, CYKLOKAPRON Injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions, and Dextran solutions.
-The mixture should be prepared the same day the solution is to be used.
 Heparin may be added to CYKLOKAPRON Injection.
 CYKLOKAPRON Injection should NOT be mixed with blood.
 The drug is a synthetic amino acid, and should NOT be mixed with solutions containing penicillin.
+
+## Single-dose vials and ampules
+
+Discard CYKLOKAPRON vial or ampule and any remaining portion in the vial/ampule after single use.
+
+The diluted mixture may be stored for up to 4 hours at room temperature prior to patient administration.
