@@ -156,7 +156,7 @@ Call your healthcare provider right away if you have:
 - yellowing of the eyes or skin
 - hives
 - difficulty breathing
-- swelling of the face, mouth, tongue, neck or genitals
+- swelling of the face, mouth, tongue or neck
 
 The most common side effects of Depo-Provera CI include:
 
@@ -236,8 +236,10 @@ When necessary, pH is adjusted with sodium hydroxide or hydrochloric acid, or bo
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
+Distributed by Pfizer Pharmacia & Upjohn Company Division of Pfizer Inc, NY, NY 10017
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0148-8.0
+LAB-0148-10.0
 
-October 2014
+December 2014

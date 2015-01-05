@@ -1,3 +1,3 @@
-LAB-0149-12.0
+Distributed by Pfizer Pharmacia & Upjohn Company Division of Pfizer Inc, NY, NY 10017
 
-October 2014
+LAB-0149-13.0 December 2014
