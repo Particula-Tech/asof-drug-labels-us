@@ -94,6 +94,8 @@ The following side effects have been reported with the use of medroxyprogesteron
 - Swelling
 - Changes in vision and sensitivity to contact lenses
 
+If you have hives, problems breathing, swelling of the face, mouth, tongue or neck, contact your healthcare provider right away.
+
 The following side effects have been reported with the use of medroxyprogesterone acetate tablets with an estrogen.
 
 Side effects are grouped by how serious they are and how often they happen when you are treated:
@@ -173,4 +175,9 @@ Each medroxyprogesterone acetate tablet for oral administration contains 2.5 mg,
 Inactive ingredients: calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc.
 The 2.5 mg tablet contains FD&C Yellow No. 6.
 
-LAB-0147-2.0 September 2007
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com
+
+Rx only
+
+LAB-0147-4.0 December 2014
