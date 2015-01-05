@@ -160,7 +160,7 @@ The 300-mg capsule shell also contains: yellow iron oxide.
 
 The 400-mg capsule shell also contains: red iron oxide, and yellow iron oxide.
 
-Inactive ingredients in the tablets: poloxamer 407, copovidone cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax, and purified water.
+Inactive ingredients in the tablets: poloxamer 407, copovidone cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, and candelilla wax.
 
 Inactive ingredients in the oral solution: glycerin, xylitol, purified water, and artificial flavor.
 
@@ -169,4 +169,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0437-6.0 October 2014
+LAB-0437-7.0 December 2014

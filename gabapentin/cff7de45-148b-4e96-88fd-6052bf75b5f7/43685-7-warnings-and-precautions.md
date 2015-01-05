@@ -19,7 +19,8 @@ Driving performance studies conducted with a prodrug of gabapentin (gabapentin e
 Prescribers and patients should be aware that patients' ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
 The duration of driving impairment after starting therapy with gabapentin is unknown.
 Whether the impairment is related to somnolence [see Warnings and Precautions (5.3)] or other effects of gabapentin is unknown.
-Gabapentin causes somnolence and dizziness [see Warnings and Precautions (5.3)], patients should be advised not to operate complex machinery until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to perform such tasks.
+
+Moreover, because gabapentin causes somnolence and dizziness [see Warnings and Precautions (5.3)], patients should be advised not to operate complex machinery until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to perform such tasks.
 
 ## 5.3 Somnolence/Sedation and Dizziness
 

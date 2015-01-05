@@ -11,6 +11,6 @@ The log of the partition coefficient (n-octanol/0.05M phosphate buffer) at pH 7.
 
 Each gabapentin capsule contains 100 mg, 300 mg, or 400 mg of gabapentin and the following inactive ingredients: lactose, cornstarch, talc, gelatin, titanium dioxide, FD&C Blue No. 2, yellow iron oxide (300 mg and 400 mg only), and red iron oxide (400 mg only).
 
-Each gabapentin tablet contains 600 mg or 800 mg of gabapentin and the following inactive ingredients: poloxamer 407, copovidone, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax, and purified water.
+Each gabapentin tablet contains 600 mg or 800 mg of gabapentin and the following inactive ingredients: poloxamer 407, copovidone, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, and candelilla wax.
 
 Gabapentin oral solution contains 250 mg of gabapentin per 5 mL (50 mg per mL) and the following inactive ingredients: glycerin, xylitol, purified water, and artificial cool strawberry anise flavor.
