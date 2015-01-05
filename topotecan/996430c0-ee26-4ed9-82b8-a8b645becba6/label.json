@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090620"
+  ],
+  "inn": "topotecan",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "45963-615-56"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "topotecan hydrochloride",
+      "name": "Topotecan hydrochloride"
+    }
+  ],
+  "setid": "996430c0-ee26-4ed9-82b8-a8b645becba6",
+  "source": "dailymed"
+}
