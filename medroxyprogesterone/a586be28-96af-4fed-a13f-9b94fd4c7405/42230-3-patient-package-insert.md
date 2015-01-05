@@ -14,7 +14,7 @@ What is PROVERA used for?
 
 PROVERA is used to:
 
-- Treat menstrual periods that have stopped or to treat abnormal uterine bleeding...
+- Treat menstrual periods that have stopped or to treat abnormal uterine bleeding.
   Women with a uterus who are not pregnant, who stop having regular menstrual periods or who begin to have irregular menstrual periods may have a drop in their progesterone level.
   Talk with your health care provider about whether PROVERA is right for you.
 - Reduce your chances of getting cancer of the uterus.
@@ -25,7 +25,7 @@ Who should not take PROVERA?
 Do not start taking PROVERA if you:
 
 - Have undiagnosed vaginal bleeding
-- Currently have or have had certain cancers.
+- Currently have or have had certain cancers
 
 Estrogen plus progestin may increase your chance of getting certain cancers, including cancer of the breast.
 If you have or have had cancer, talk with your health care provider about whether you should use PROVERA.
@@ -41,7 +41,9 @@ If you take PROVERA and later find out you were pregnant when you took it, be su
 
 PROVERA should not be used as a test for pregnancy.
 
-- Are allergic to any of the ingredients in PROVERA See the list of ingredients in PROVERA at the end of this leaflet.
+- Are allergic to any of the ingredients in PROVERA
+
+See the list of ingredients in PROVERA at the end of this leaflet.
 
 Tell your health care provider:
 
@@ -54,13 +56,13 @@ Tell your health care provider:
   Some medicines may affect how PROVERA works.
   PROVERA may also affect how other medicines work.
 - If you are going to have surgery or will be on bed rest.
-  If you are taking estrogen in addition to PROVERA, you may need to stop taking estrogen and PROVERA..
+  If you are taking estrogen in addition to PROVERA, you may need to stop taking estrogen and PROVERA.
 
 How should I take PROVERA?
 
 Start at the lowest dose and talk to your health care provider about how well that dose is working for you.
 The lowest effective dose of PROVERA has not been determined.
-You and your health care provider should talk regularly (every 3–6 months) about the dose you are taking and whether you still need treatment with PROVERA.
+You and your health care provider should talk regularly (every 3-6 months) about the dose you are taking and whether you still need treatment with PROVERA.
 
 1. Absence of menstrual period: PROVERA may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
 2. Abnormal Uterine Bleeding: PROVERA may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
@@ -95,6 +97,8 @@ The following side effects have been reported with the use of PROVERA alone:
 - Increase in weight
 - Swelling
 - Changes in vision and sensitivity to contact lenses
+
+If you have hives, problems breathing, swelling of the face, mouth, tongue or neck, contact your healthcare provider right away.
 
 The following side effects have been reported with the use of PROVERA with an estrogen.
 
@@ -176,4 +180,9 @@ Each PROVERA tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of me
 Inactive ingredients: calcium stearate, corn starch, lactose, mineral oil, sorbic acid, sucrose, talc.
 The 2.5 mg tablet contains FD&C Yellow No. 6.
 
-LAB-0365-4.0 September 2007
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+Rx only
+
+LAB-0365-6.0 December 2014

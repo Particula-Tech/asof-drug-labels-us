@@ -23,7 +23,6 @@ Your health care provider should check any unusual vaginal bleeding to find out 
 * Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
 Using estrogens with or without progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.
 
-*.
-Using estrogens with or without progestins may increase your risk of dementia, based on a study of women age 65 years or older.
+* Using estrogens with or without progestins may increase your risk of dementia, based on a study of women age 65 years or older.
 
 You and your health care provider should talk regularly about whether you still need treatment with PROVERA.
