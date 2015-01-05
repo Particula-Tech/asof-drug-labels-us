@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078589"
+  ],
+  "inn": "irinotecan",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "45963-614-51",
+    "45963-614-55"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Irinotecan hydrochloride"
+    }
+  ],
+  "setid": "5e1fdcaa-918f-4cd8-9c7a-4c538d866198",
+  "source": "dailymed"
+}
