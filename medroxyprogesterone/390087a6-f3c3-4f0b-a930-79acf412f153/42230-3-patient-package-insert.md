@@ -38,11 +38,7 @@ The list shows the number of women out of 100 women who will likely get pregnant
 
 | Method | Typical chance of getting pregnant in 1 year (No. of pregnancies in 100 women) |
 | --- | --- |
-| Shot | Less than 1 |
-| Implant |  |
-| Female sterilization |  |
-| Male sterilization |  |
-| IUD (copper IUD and levonorgestrel IUD) |  |
+| Shot Implant Female sterilization Male sterilization IUD (copper IUD and levonorgestrel IUD) | Less than 1 |
 | Pill | 5 |
 | Condom alone (male) | 14 |
 | Withdrawal | 19 |
@@ -121,7 +117,20 @@ Most important, tell your healthcare provider if you:
 - Have breast cancer in your family
 - Have an abnormal mammogram (breast X-ray), lumps in your breast, or bleeding from your nipples
 - Have irregular, light, or heavy menstrual periods
-- Have or had any of the following medical problems: – Kidney problems– High blood pressure– Migraine headaches– Asthma– Seizures– Diabetes, or if it runs in your family– Depression– Heart attack, stroke, or developed blood clots– Bone disease– Anorexia nervosa (an eating disorder)– A strong family history of osteoporosis– Drug use that can lower the amount of calcium in bones (drugs for epilepsy or steroids)– Drinking a lot of alcohol or smoking a lot
+- Have or had any of the following medical problems:
+  - -Kidney problems
+  - -High blood pressure
+  - -Migraine headaches
+  - -Asthma
+  - -Seizures
+  - -Diabetes, or if it runs in your family
+  - -Depression
+  - -Heart attack, stroke, or developed blood clots
+  - -Bone disease
+  - -Anorexia nervosa (an eating disorder)
+  - -A strong family history of osteoporosis
+  - -Drug use that can lower the amount of calcium in bones (drugs for epilepsy or steroids)
+  - -Drinking a lot of alcohol or smoking a lot
 
 It is important to see your healthcare provider regularly if you have any of these conditions.
 
@@ -166,10 +175,15 @@ WHAT ARE THE MOST SERIOUS RISKS OF depo-subQ provera 104?
   This increases the risk of your bones weakening if you use depo-subQ provera 104 continuously for a long time (for example, if you use depo-subQ provera 104 for more than two years).
   The loss of calcium may increase your risk of osteoporosis and broken bones, particularly after your menopause.
   Calcium is generally added to the bones during teenage years.
-  The decrease of calcium in your bones is of most concern if you are a teenager or have the following risk factors:– Bone disease– Anorexia nervosa (an eating disorder)– A strong family history of osteoporosis– Drug use that can lower the amount of calcium in bones (drugs for epilepsy or steroids), or– Drinking a lot of alcohol or smoking a lotIf you need a birth control method for more than two years, your healthcare provider may ask you to have a test of your bones or ask you to switch to another birth control method before continuing depo-subQ provera 104, especially if you have other risks for weak bones.
+  The decrease of calcium in your bones is of most concern if you are a teenager or have the following risk factors: If you need a birth control method for more than two years, your healthcare provider may ask you to have a test of your bones or ask you to switch to another birth control method before continuing depo-subQ provera 104, especially if you have other risks for weak bones.
   When depo-subQ provera 104 is stopped, the calcium in your bones begins to come back.
   The lost calcium may not return completely once you stop using depo-subQ provera 104.
   Your healthcare provider may tell you to take calcium and Vitamin D as this may lessen the loss of calcium from your bones.
+  - -Bone disease
+  - -Anorexia nervosa (an eating disorder)
+  - -A strong family history of osteoporosis
+  - -Drug use that can lower the amount of calcium in bones (drugs for epilepsy or steroids), or
+  - -Drinking a lot of alcohol or smoking a lot
 - Abnormal or very heavy bleeding.
   If you start having very heavy or very long periods, tell your healthcare provider.
 - Liver problems.
@@ -178,9 +192,12 @@ WHAT ARE THE MOST SERIOUS RISKS OF depo-subQ provera 104?
   Tell your healthcare provider if you have these symptoms.
 - Allergic reaction.
   Allergic reactions to depo-subQ provera 104 are not common.
-  If you have hives, problems breathing, or just do not feel right after your shot, call your healthcare provider or go to the Emergency Room right away.
+  If you have hives, problems breathing, swelling of the face, mouth, tongue or neck, or just do not feel right after your shot, call your healthcare provider or go to the Emergency Room right away.
 - Serious blood clots.
-  Call your healthcare provider immediately if you: – Have sharp chest pain, cough blood, or suddenly have trouble breathing– Have a sudden severe headache with vomiting, blindness or trouble talking, weakness, or numbness in an arm or leg, or get dizzy or faint– Have swelling or severe pain in your leg
+  Call your healthcare provider immediately if you:
+  - -Have sharp chest pain, cough blood, or suddenly have trouble breathing
+  - -Have a sudden severe headache with vomiting, blindness or trouble talking, weakness, or numbness in an arm or leg, or get dizzy or faint
+  - -Have swelling or severe pain in your leg
 
 WHAT ARE COMMON SIDE EFFECTS OF depo-subQ provera 104?
 

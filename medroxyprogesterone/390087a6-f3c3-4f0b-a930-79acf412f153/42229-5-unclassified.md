@@ -12,4 +12,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0298-3.0 August 2013
+LAB-0298-5.0 December 2014
