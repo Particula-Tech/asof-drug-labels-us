@@ -1,47 +1,68 @@
-# Triderm 1oz
-
-NDC 0316-0170-01
-
-Triderm Cream (Triamcinolone Acetonide Cream USP) 0.1%
-
-Each g contains 1mg Triamcinolone Acetonide USP in a cream base consisting of purified water, emulsifying wax, mineral oil, propylene glycol, sorbitol solution, cetyl palmitate, sorbic acid, and potassium sorbate
-
-1ounce (28.4g)
-
-Del-Ray Dermatologicals Johnson City, TN 37604
-
-Usual Dosage: Apply to the affected area 2 or 3 time daily.
-See Package Insert.
-
-See Crimp of tube for Expiration Date and Lot number Store at 59-86oF
-
-Caution: Federal law prohibits dispensing without prescription.
-
-For External Use Only.
-
-Not for Opthalmic Use.
-
-Keep out of reach of children
-
-# Triderm Cream 3oz Label
-
-NDC 0316-0170-03 Triderm Cream (Triamcinolone Acetonide Cream USP) 0.1% Each g contains 1mg Triamcinolone Acetonide USP in a cream base consisting of purified water, emulsifying wax, mineral oil, propylene glycol, sorbitol solution, cetyl palmitate, sorbic acid, and potassium sorbate 3ounce (85.2g) Distributed by Del-Ray Dermatologicals
-
-Manufactured by Crown Laboratories, Inc Johnson City, TN 37604 Usual Dosage: Apply to the affected area 2 or 3 time daily.
-See Insert.
-See Crimp of tube for Expiration Date and Batch number Store at 59-86oF Caution: Federal law prohibits dispensing without prescription.
-For External Use Only.
-Not for Opthalmic Use.
-Keep out of reach of children
-
-# Triderm Cream 3g pouch
-
-NDC 0316-0170-02 Triderm Cream (Triamcinolone Acetonide Cream USP) 0.1% Each g contains 1mg Triamcinolone Acetonide USP in a cream base consisting of purified water, emulsifying wax, mineral oil, propylene glycol, sorbitol solution, cetyl palmitate, sorbic acid, and potassium sorbate 0.1ounce (3g) Distributed by: Del-Ray Dermatologicals Johnson City, TN 37604 www.delrayderm.com
-
-Manufactured by: Crown Laboratories, Inc Johnson City, TN 37604 Usual Dosage: Apply to the affected area 2 or 3 time daily.
-Store at controlled room temperature 15o-30oC (59o-86oF) Caution: Federal law prohibits dispensing without prescription.
-For External Use Only.
-Not for Opthalmic Use.
-Keep out of reach of children
-
 # 1oz Triderm label
+
+NDC 0316-0170-01 TRIDERM CREAM®
+
+Triamcinolone Acetonide Cream USP, 0.1%
+
+Each gram contains 1 mg Triamcinolone Acetonide USP in a cream base consisting of purified water, emulsifying wax, mineral oil, propylene glycol, sorbitol solution, cetyl palmitate, sorbic acid, and potassium sorbate.
+
+1 oz (28.4g)
+
+Rx Only
+
+Manufactured and Distributed by:
+
+CROWN LABORATORIES, INC.
+
+Johnson City, TN 37604
+
+Usual Dosage: 2 to 3 applications daily.
+See package insert for full prescribing information.
+
+TO OPEN: Use cap to puncture seal.
+
+IMPORTANT: Do not use if seal has been punctured or is not visible.
+
+See Crimp of tube for Expiration Date and Batch Number.
+Store at 15o-30oC (59o-86oF).
+Avoid excessive heat.
+Protect from freezing.
+For External Use Only.
+Not for Ophthalmic Use.
+Keep Out Of Reach Of Children.
+
+P6504.03
+
+# 1oz Triderm Carton
+
+NDC 0316-0170-01 TRIDERM CREAM® Triamcinolone Acetonide Cream USP, 0.1%
+
+Each gram contains 1 mg Triamcinolone Acetonide USP in a cream base consisting of purified water, emulsifying wax, mineral oil, propylene glycol, sorbitol solution, cetyl palmitate, sorbic acid, and potassium sorbate.
+
+1 oz (28.4g)
+
+Rx Only
+
+For External Use Only.
+Not for Ophthalmic Use.
+Keep Out Of Reach Of Children.
+
+Directions for puncturing tube seal: Remove cap.
+Turn cap upside down and place puncture tip onto tube seal: push down until seal is punctured.
+
+Screw cap back on to close.
+
+IMPORTANT: Do not use if seal has been punctured or is not visible.
+
+Store at controlled room temperature 15o-30oC (59o-86oF).
+Avoid excessive heat.
+Protect from freezing.
+
+Manufactured and Distributed by: CROWN LABORATORIES, INC. Johnson City, TN 37604
+
+Usual Dosage: 2 to 3 applications daily.
+See package insert for full prescribing information.
+
+See end of carton for batch number and expiration date.
+
+P1424.00
