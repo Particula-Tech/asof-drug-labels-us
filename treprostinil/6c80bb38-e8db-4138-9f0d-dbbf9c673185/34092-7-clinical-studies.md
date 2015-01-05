@@ -17,9 +17,9 @@ The two studies were identical in design and conducted simultaneously, and the r
 
 Hemodynamic Effects
 
-As shown in Table 4, chronic therapy with Remodulin resulted in small hemodynamic changes consistent with pulmonary and systemic vasodilation.
+As shown in Table 5, chronic therapy with Remodulin resulted in small hemodynamic changes consistent with pulmonary and systemic vasodilation.
 
-Table 4: Hemodynamics during Chronic Administration of Remodulin in Patients with PAH in 12-Week Studies
+Table 5: Hemodynamics during Chronic Administration of Remodulin in Patients with PAH in 12-Week Studies
 
 | Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |  |
 | --- | --- | --- | --- | --- |

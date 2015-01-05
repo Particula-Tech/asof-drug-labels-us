@@ -1,19 +1,18 @@
 # 16 HOW SUPPLIED / STORAGE AND HANDLING
 
-Remodulin is supplied in 20 mL multidose vials containing 20, 50, 100, or 200 mg of treprostinil at concentrations of 1 mg/mL, 2.5 mg/mL, 5 mg/mL, and 10 mg/mL treprostinil, respectively, as sterile solutions in water for injection, individually packaged in cartons.
-Unopened vials of Remodulin are stable until the date indicated when stored at 15 to 25°C (59 to 77°F).
-Store at 25°C (77°F), with excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-
-During use, a single reservoir (syringe) of undiluted Remodulin can be administered up to 72 hours at 37°C.
-Diluted Remodulin Solution can be administered up to 48 hours at 37°C when diluted to concentrations as low as 0.004 mg/mL in Sterile Water for Injection, 0.9% Sodium Chloride Injection, Sterile Diluent for Flolan or Sterile Diluent for Epoprostenol Sodium.
+Remodulin is supplied in 20-mL multidose vials as sterile solutions in water for injection, individually packaged in cartons.
+Unopened vials of Remodulin are stable until the date indicated when stored at 25°C (77°F), with excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 A single vial of Remodulin should be used for no more than 30 days after the initial introduction into the vial.
 
 Remodulin Injection is supplied as:
 
-20-mL vial containing 20 mg treprostinil (1 mg treprostinil per mL), carton of 1 (NDC 66302-101-01).
+| Remodulin | Concentration | NDC 66302-xxx-xx |
+| --- | --- | --- |
+| 20 mg / 20 mL | 1 mg/ mL | 101-01 |
+| 50 mg / 20 mL | 2.5 mg/ mL | 102-01 |
+| 100 mg / 20 mL | 5 mg/ mL | 105-01 |
+| 200 mg / 20 mL | 10 mg/ mL | 110-01 |
 
-20-mL vial containing 50 mg treprostinil (2.5 mg treprostinil per mL), carton of 1 (NDC 66302-102-01).
+Sterile Diluent for Remodulin is supplied separately as:
 
-20-mL vial containing 100 mg treprostinil (5 mg treprostinil per mL), carton of 1 (NDC 66302-105-01).
-
-20-mL vial containing 200 mg treprostinil (10 mg treprostinil per mL), carton of 1 (NDC 66302-110-01).
+50 mL vial, carton of 1 (NDC 66302-150-50).

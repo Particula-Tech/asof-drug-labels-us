@@ -32,7 +32,7 @@ Thus Remodulin is not expected to alter the pharmacokinetics of compounds metabo
 
 Human pharmacokinetic studies with an oral formulation of treprostinil (treprostinil diethanolamine) indicated that co-administration of the cytochrome P450 (CYP) 2C8 enzyme inhibitor gemfibrozil increases exposure (both Cmax and AUC) to treprostinil.
 Co-administration of the CYP2C8 enzyme inducer rifampin decreases exposure to treprostinil.
-It has not been determined if the safety and efficacy of treprostinil by the parenteral (subcutaneously or intravenously) route are altered by inhibitors or inducers of CYP2C8 [see Warnings and Precautions (5.6)].
+It has not been determined if the safety and efficacy of treprostinil by the parenteral (subcutaneously or intravenously) route are altered by inhibitors or inducers of CYP2C8 [see Warnings and Precautions (5.4)].
 
 Remodulin has not been studied in conjunction with Flolan or Tracleer® (bosentan).
 

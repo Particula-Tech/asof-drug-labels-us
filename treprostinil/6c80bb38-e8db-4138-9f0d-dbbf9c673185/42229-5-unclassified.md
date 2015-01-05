@@ -1,6 +1,4 @@
-REMODULIN® (treprostinil) Injection
-
-©Copyright 2013 United Therapeutics Corp. All rights reserved.
+©Copyright 2014 United Therapeutics Corp. All rights reserved.
 
 REMODULIN manufactured for:
 

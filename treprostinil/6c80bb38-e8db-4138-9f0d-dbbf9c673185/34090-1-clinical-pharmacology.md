@@ -50,7 +50,7 @@ Special Populations
 
 Hepatic Insufficiency
 
-In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, Remodulin at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a Cmax that was increased 2-fold and 4-fold, respectively, and an AUC 0-∞ that was increased 3-fold and 5-fold, respectively, compared to healthy subjects.
+In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, Remodulin at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a Cmax that was 2-fold and 4-fold, respectively, and an AUC 0-∞ that was 3-fold and 5-fold, respectively, values observed in healthy subjects.
 Clearance in patients with hepatic insufficiency was reduced by up to 80% compared to healthy adults.
 
 Renal Insufficiency

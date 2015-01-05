@@ -11,3 +11,6 @@ Treprostinil is (1R,2R,3aS,9aS)-[[2,3,3a,4,9,9a-Hexahydro-2-hydroxy-1-[(3S)-3-hy
 Treprostinil has a molecular weight of 390.52 and a molecular formula of C23H34O5.
 
 The structural formula of treprostinil is:
+
+Sterile Diluent for Remodulin is a high-pH (pH~10.4) glycine diluent supplied in a 50 mL vial containing 50 mL of Sterile Diluent for Remodulin.
+Each vial contains 94 mg glycine, 73.3 mg sodium chloride, sodium hydroxide (to adjust pH), and water for injection.

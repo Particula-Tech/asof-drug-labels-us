@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 1 mg/mL Carton
+PRINCIPAL DISPLAY PANEL - 1 mg/mL Vial Carton
 
 REMODULIN® (treprostinil) Injection
 
@@ -10,7 +10,7 @@ For Subcutaneous or Intravenous Infusion Only.
 
 United Therapeutics CORPORATION
 
-PRINCIPAL DISPLAY PANEL - 2.5 mg/mL Carton
+PRINCIPAL DISPLAY PANEL - 2.5 mg/mL Vial Carton
 
 REMODULIN® (treprostinil) Injection
 
@@ -22,7 +22,7 @@ For Subcutaneous or Intravenous Infusion Only.
 
 United Therapeutics CORPORATION
 
-PRINCIPAL DISPLAY PANEL - 5 mg/mL Carton
+PRINCIPAL DISPLAY PANEL - 5 mg/mL Vial Carton
 
 REMODULIN® (treprostinil) Injection
 
@@ -34,7 +34,7 @@ For Subcutaneous or Intravenous Infusion Only.
 
 United Therapeutics CORPORATION
 
-PRINCIPAL DISPLAY PANEL - 10 mg/mL Carton
+PRINCIPAL DISPLAY PANEL - 10 mg/mL Vial Carton
 
 REMODULIN® (treprostinil) Injection
 
