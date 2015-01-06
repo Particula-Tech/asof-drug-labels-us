@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA202223"
+  ],
+  "inn": "valsartan",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-570-10",
+    "65862-570-30",
+    "65862-570-99",
+    "65862-571-10",
+    "65862-571-90",
+    "65862-571-99",
+    "65862-572-10",
+    "65862-572-90",
+    "65862-572-99",
+    "65862-573-05",
+    "65862-573-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valsartan",
+      "name": "Valsartan"
+    }
+  ],
+  "setid": "a81a72dd-e828-4208-af9b-bb9ac4938537",
+  "source": "dailymed"
+}
