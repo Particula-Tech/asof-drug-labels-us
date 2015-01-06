@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA091356"
+  ],
+  "inn": "calcitriol",
+  "labeler": "Strides Arcolab Limited",
+  "package_ndcs": [
+    "64380-723-04",
+    "64380-723-06",
+    "64380-724-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "calcitriol capsules 0.25 mcg",
+      "name": "Calcitriol"
+    },
+    {
+      "form": "CAPSULE",
+      "generic": "calcitriol capsules 0.5 mcg",
+      "name": "Calcitriol"
+    }
+  ],
+  "setid": "bebefb2a-7365-48e2-9681-83ed4b41e26e",
+  "source": "dailymed"
+}
