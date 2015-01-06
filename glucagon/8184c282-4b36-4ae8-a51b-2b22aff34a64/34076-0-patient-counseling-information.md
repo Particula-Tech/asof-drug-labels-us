@@ -17,32 +17,14 @@ The patient’s ability to concentrate and react may be impaired as a result of 
 This may present a risk in situations where these abilities are especially important, such as driving or operating machinery.
 Therefore, these activities should be avoided until the patient has had a meal with oral carbohydrates.
 
-Date of issue: May, 2014
-
-Version: 5
+Date of issue: December 12, 2014 Version: 6
 
 GlucaGen® and HypoKit® are registered trademarks of Novo Nordisk A/S
 
 © 1998-2014 Novo Nordisk
 
-For information contact:
+For information contact: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 1-800-243-0127
 
-Bedford Laboratories
+Manufactured for: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877
 
-Bedford, OH 44146
-
-1-800-521-5169
-
-www.bedfordlabs.com
-
-Manufactured for:
-
-Bedford Laboratories
-
-Bedford, OH 44146
-
-By:
-
-Novo Nordisk A/S
-
-2880 Bagsvaerd, Denmark
+By: Novo Nordisk A/S 2880 Bagsvaerd, Denmark
