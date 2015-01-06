@@ -12,4 +12,4 @@ Fluoxetine hydrochloride, USP is a white to off-white crystalline solid with a s
 Each capsule contains fluoxetine hydrochloride, USP equivalent to 40 mg (129.3 μmol) of fluoxetine.
 In addition, the capsules also contain the following inactive ingredients: colloidal silicon dioxide, pregelatinized corn starch, and simethicone.
 The capsule shell contains D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, gelatin, and titanium dioxide.
-The imprinting ink contains ammonium hydroxide, iron oxide black, propylene glycol and shellac glaze.
+The imprinting ink containsFD&C Blue #1 aluminum lake, FD&C Blue #2 aluminum lake, FD&C Red #40 aluminum lake, D&C Yellow #10 aluminum lake, iron oxide black, propylene glycoland shellac glaze.

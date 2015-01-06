@@ -1,5 +1,17 @@
 # 14 CLINICAL STUDIES
 
+Efficacy for fluoxetine was established for the:
+
+- •Acute and maintenance treatment of MajorDepressiveDisorder in adults, and children and adolescents(8 to 18 years) in7 short-term and2 long-term, placebo-controlled trials[see Clinical Studies14.1].
+- •Acute treatment of obsessions and compulsions in adults, and children and adolescents(7 to 17 years) withObsessive CompulsiveDisorder(OCD) in3 short-term placebo-controlled trials[see Clinical Studies(14.2)].
+- •Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patientswith moderate to severe BulimiaNervosa in3 short-term and1 long-term, placebo-controlled trials[seeClinical Studies(14.3)].
+- •Acute treatment of PanicDisorder, with orwithout agoraphobia, in adult patients in2 short-term, placebo-controlled trials[see Clinical Studies(14.4)].
+
+Efficacy for PROZAC and olanzapine in combinationwas established for the:
+
+- •Acute treatment of depressive episodes in BipolarI Disorder in adults, and children and adolescents(10 to 17years) in3 short-term, placebo-controlled trials.
+- •Acute and maintenance treatment of treatmentresistant depression in adults(18 to 85 years) in3 short-term,placebo-controlled trials and1randomized withdrawal studywith an active control.
+
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 ## 14.1 Major Depressive Disorder

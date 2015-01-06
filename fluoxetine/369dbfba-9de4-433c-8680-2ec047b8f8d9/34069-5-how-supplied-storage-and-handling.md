@@ -4,7 +4,12 @@
 
 Fluoxetine Capsules USP, 40 mg contain fluoxetine hydrochloride, USP equivalent to 40 mg fluoxetine, and are available as hard gelatin capsules with a blue cap and orange body.
 The body of the #2 capsule is imprinted “7198” and the cap is imprinted “TEVA.”
-They are available in bottles of 30, 100, and 500.
+
+NDC 0093-7198-56 40 mg packaged in bottles of 30 capsules
+
+NDC 0093-7198-01 40 mg packaged in bottles of 100 capsules
+
+NDC 0093-7198-05 40 mg packaged in bottles of 500 capsules
 
 ## 16.2 Storage and Handling
 
