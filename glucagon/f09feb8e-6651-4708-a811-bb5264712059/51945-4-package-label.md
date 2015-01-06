@@ -23,9 +23,9 @@ This kit contains:
 
 1 vial GlucaGen® for injection 1mg,
 
-1 prefilled syringe ofSterile Water for
+1 prefilled syringe of Sterile Water for
 
-Reconstitution – foruse as diluent
+Reconstitution – for use as diluent
 
 After reconstitution, the resulting GlucaGen®
 
@@ -110,7 +110,7 @@ Each kit contains: 1 vial GlucaGen® for injection 1 mg,
 
 1 prefilled syringe of Sterile Water for Reconstitution – for use as diluent
 
-After reconstitution, the resulting GlucaGen®solution contains 1 mg/mL of Glucagon.
+After reconstitution, the resulting GlucaGen® solution contains 1 mg/mL of Glucagon.
 
 IMPORTANT – Read the enclosed insert carefully for directions before using.
 

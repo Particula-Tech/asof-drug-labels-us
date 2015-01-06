@@ -2,11 +2,7 @@
 
 INSTRUCTIONS FOR EMERGENCY USE
 
-GlucaGen® (Glū-ka-Gen)
-
-(glucagon [rDNA origin] for injection)
-
-HypoKit®
+GlucaGen® (Glū-ka-Gen) (glucagon [rDNA origin] for injection) HypoKit®
 
 1.
 GlucaGen® HypoKit® is for use in case of emergency for very low blood sugar (severe hypoglycemia) in people with diabetes who use insulin.
@@ -17,19 +13,17 @@ If you have questions about using GlucaGen® HypoKit® talk with your doctor or 
 
 What is the most important information I should know about GlucaGen® HypoKit®?
 
-1.
-Make sure that your family members, coworkers, or close friends know that if you become unconscious they should use this kit right away.
-They should call for emergency medical help immediately after using the kit.
-
-2.
-Show your family members and others where you keep this kit and how to use it.
-They need to know how to use it before you need it.
-They can practice giving a shot by giving you your normal insulin shots.
-It is important that they practice.
-A person who has never given a shot may not be able to give one in an emergency.
-
-3.
-It is important that your family member or friend:
+- 1.
+  Make sure that your family members, coworkers, or close friends know that if you become unconscious they should use this kit right away.
+  They should call for emergency medical help immediately after using the kit.
+- 2.
+  Show your family members and others where you keep this kit and how to use it.
+  They need to know how to use it before you need it.
+  They can practice giving a shot by giving you your normal insulin shots.
+  It is important that they practice.
+  A person who has never given a shot may not be able to give one in an emergency.
+- 3.
+  It is important that your family member or friend:
 
 - •Act quickly.
   Being unconscious for a period of time may be harmful.
@@ -39,7 +33,7 @@ It is important that your family member or friend:
 - •Mix the GlucaGen®.
   The syringe does not have GlucaGen® in it.
   You must mix the contents of the syringe with GlucaGen® in the vial provided in GlucaGen® HypoKit® before giving the injection.
-  (See Instructions For Use)
+  (See Instructions for Use)
 - •Throw away any mixed GlucaGen® that is not used.
 
 The patient may be in a coma from very high blood sugar (severe hyperglycemia), rather than very low blood sugar.
@@ -68,7 +62,7 @@ Who should not use GlucaGen®?
 Do not use GlucaGen® if the person:
 
 - •is allergic to either glucagon or lactose
-- •has a tumor of the adrenal gland called a pheocromocytoma
+- •has a tumor of the adrenal gland called a pheochromocytoma
 - •has a tumor of the pancreas called insulinoma
 
 Instructions for Use:
@@ -90,18 +84,26 @@ Step 1.
 Take the orange plastic cap off the vial of GlucaGen®.
 See Figure A.
 
+Figure A
+
 Step 2.
 Pull the needle cover off the needle.
 See Figure B.
+
+Figure B
 
 Step 3.
 Insert the needle through the rubber stopper (within the marked circle) of the vial containing GlucaGen® and inject all the liquid from the syringe into the vial.
 See Figure C.
 
+Figure C
+
 Step 4.
 Without taking the syringe and needle out of the vial, gently shake the vial in your hand until the powder dissolves completely.
 See Figure D. The liquid should be clear.
 Do not use if the liquid has any particles in it or it is not clear.
+
+Figure D
 
 Step 5.
 Without taking the syringe and needle out of the vial, turn the vial upside down.
@@ -110,12 +112,16 @@ Gently pull back on the plunger and slowly withdraw all the liquid into the syri
 See Figure E. Do not pull the plunger out of the syringe.
 This helps prevent the medicine from leaking out of the syringe.
 
+Figure E
+
 - •The usual dose for adults and children who weigh more than 55 pounds (25 kg) is 1 mg (1 mL).
   Withdraw the liquid to 1 mL mark on the syringe.
   See Figure F.
 - •The usual dose for children who weigh less than 55 pounds (25 kg) is 0.5 mg (half of the adult dose).
   Withdraw the liquid to the 0.5 mL mark on the syringe for these children.
   See Figure F.
+
+Figure F
 
 If you do not know how much the child weighs:
 
@@ -125,7 +131,9 @@ If you do not know how much the child weighs:
 Step 6.
 Keep the needle in the liquid inside the vial.
 Remove any air bubbles in the syringe by flicking the syringe with your finger.
-See figure G. Gently push on the plunger to move any air bubbles out of the syringe and into the vial.
+See Figure G. Gently push on the plunger to move any air bubbles out of the syringe and into the vial.
+
+Figure G
 
 Continue pushing the plunger until you have the correct dose as described in Step 5.
 If the plunger is pushed below the needed dose, pull back the plunger until you have the correct dose.
@@ -139,8 +147,12 @@ Choose an area for injection.
 
 Common injection sites
 
+Figure H
+
 Insert the needle into the loose tissue at the injection site, and inject the GlucaGen®.
 See Figure I.
+
+Figure I
 
 After Giving the GlucaGen® Injection:
 
@@ -148,18 +160,21 @@ Step 8.
 Withdraw the needle and press on the injection site.
 See Figure J.
 
+Figure J
+
 Place the used syringe with attached needle in a sharps container (such as a red biohazard container), a hard plastic container (such as a detergent bottle), or a metal container (such as an empty coffee can).
 Seal the container and throw it away the right way.
 There may be state and local laws about the right way to throw away used syringes and needles.
 Ask your doctor or pharmacist how to throw away used syringes and needles.
 Throw away any GlucaGen® you do not use.
 
-Step 9.Turn the person on their side.
+Step 9.
+Turn the person on their side.
 When an unconscious person awakens, they may vomit.
 Turning the person on their side will lessen the chance of choking.
 
 Step 10.
-Call for emergency medical help right away
+Call for emergency medical help right away.
 
 Step 11.
 Feed the person as soon as they are awake and able to swallow.
@@ -199,17 +214,18 @@ GlucaGen® may affect the way other medicines work, and other medicines may affe
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-What are the possible side effects ofGlucaGen® ?
+What are the possible side effects of GlucaGen®?
 
 GlucaGen® may cause serious side effects including:
 
-- 
-  - ∘rash or itching
-  - ∘raised red patches on your skin (hives)
-  - ∘swelling of the face, lips, tongue or throat
-  - ∘problems breathing or swallowing
-  - ∘very high or very low blood pressure
-  - ∘fast or slow heartbeat
+- •allergic reactions.
+  Symptoms of a severe allergic reaction may include:
+  - •rash or itching
+  - •raised red patches on your skin (hives)
+  - •swelling of the face, lips, tongue or throat
+  - •problems breathing or swallowing
+  - •very high or very low blood pressure
+  - •fast or slow heartbeat
 
 The most common side effects of GlucaGen® include:
 
@@ -223,7 +239,7 @@ For more information ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I storeGlucaGen® HypoKit® ?
+How should I store GlucaGen® HypoKit®?
 
 Before mixing:
 
@@ -240,34 +256,18 @@ After mixing:
 
 Keep GlucaGen® HypoKit®, all medicines, needles and syringes out of the reach of children.
 
-What are the ingredients in the GlucaGen® HypoKit®
+What are the ingredients in the GlucaGen® HypoKit®?
 
 Active Ingredient: glucagon [rDNA origin] for injection
 
 Inactive ingredients: lactose, sterile water for reconstitution
 
-Date of Issue: December 15, 2010
-
-Version: 2
+Date of Issue: April 25, 2014 Version: 3
 
 GlucaGen® and HypoKit® are registered trademarks of Novo Nordisk A/S
 
-© 1998-2010 Novo Nordisk
+© 1998-2014 Novo Nordisk
 
-For information contact:
+For information contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, NJ 08536 1-800-727-6500 www.novonordisk-us.com
 
-Novo Nordisk Inc.
-
-100 College Road West
-
-Princeton, NJ 08540
-
-1-800-727-6500
-
-www.novonordisk-us.com
-
-Manufactured by:
-
-Novo Nordisk A/S
-
-2880 Bagsvaerd, Denmark
+Manufactured by: Novo Nordisk A/S 2880 Bagsvaerd, Denmark
