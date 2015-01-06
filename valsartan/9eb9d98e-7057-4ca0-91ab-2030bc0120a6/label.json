@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA201677"
+  ],
+  "inn": "valsartan",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-276-01",
+    "68180-276-06",
+    "68180-276-11",
+    "68180-277-03",
+    "68180-277-09",
+    "68180-278-03",
+    "68180-278-09",
+    "68180-279-02",
+    "68180-279-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "valsartan",
+      "name": "Valsartan"
+    }
+  ],
+  "setid": "9eb9d98e-7057-4ca0-91ab-2030bc0120a6",
+  "source": "dailymed"
+}
