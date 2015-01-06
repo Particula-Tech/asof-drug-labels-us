@@ -133,6 +133,10 @@ Cardiovascular System
 
 Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
 
+Endocrine System
+
+Pseudopheochromocytoma
+
 Gastrointestinal System
 
 Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
