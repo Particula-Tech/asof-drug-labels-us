@@ -18,126 +18,115 @@ FLOVENT® HFA 220 mcg
 
 Inhalation Aerosol
 
-FOR ORAL INHALATION ONLY
-
-Read this leaflet carefully before you start to use FLOVENT HFA Inhalation Aerosol.
-
-Keep this leaflet because it has important summary information about FLOVENT HFA.
-This leaflet does not contain all the information about your medicine.
-If you have any questions or are not sure about something, you should ask your doctor or pharmacist.
-
-Read the new leaflet that comes with each refill of your prescription because there may be new information.
+Read the Patient Information that comes with FLOVENT HFA Inhalation Aerosol before you start using it and each time you get a refill.
+There may be new information.
+This Patient Information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
 What is FLOVENT HFA?
 
-FLOVENT HFA contains a medicine called fluticasone propionate, which is a synthetic corticosteroid.
-Corticosteroids are natural substances found in the body that help fight inflammation.
-Corticosteroids are used to treat asthma because they reduce airway inflammation.
+FLOVENT HFA is a prescription inhaled corticosteroid (ICS) medicine for the long-term treatment of asthma in people aged 4 years and older.
 
-FLOVENT HFA is used to treat asthma in patients 4 years and older.
-When inhaled regularly, FLOVENT HFA also helps to prevent symptoms of asthma.
-
-FLOVENT HFA comes in 3 strengths.
-Your doctor has prescribed the one that is best for your condition.
+- •ICS medicines such as fluticasone propionate help to decrease inflammation in the lungs.
+  Inflammation in the lungs can lead to breathing problems.
+- •FLOVENT HFA is not used to relieve sudden breathing problems.
+- •It is not known if FLOVENT HFA is safe and effective in children younger than 4 years of age.
 
 Who should not use FLOVENT HFA?
 
-Do not use FLOVENT HFA if you:
+Do not use FLOVENT HFA:
 
-- •are allergic to any of the ingredients in FLOVENT HFA or other inhaled corticosteroids.
-  See “What are the ingredients in FLOVENT HFA?” below.
-- •have an acute asthma attack or status asthmaticus.
-  FLOVENT HFA is not a bronchodilator and should not be used to give you fast relief from your breathing problems during an asthma attack.
-  Always use a short-acting bronchodilator (rescue medicine), such as albuterol inhaler, during a sudden asthma attack.
-  You must take FLOVENT HFA at regular times as recommended by your doctor, and not as an emergency medicine.
+- •to relieve sudden breathing problems
+- •if you are allergic to fluticasone propionate or any of the ingredients in FLOVENT HFA.
+  See “What are the ingredients in FLOVENT HFA?” below for a complete list of ingredients.
 
-What should I tell my doctor before taking FLOVENT HFA?
+What should I tell my healthcare provider before using FLOVENT HFA?
 
-Tell your doctor if you:
+Tell your healthcare provider about all of your health conditions, including if you:
 
 - •have liver problems.
-- •have been exposed to chickenpox or measles.
+- •have weak bones (osteoporosis).
+- •have an immune system problem.
+- •have eye problems such as glaucoma or cataracts.
+- •are allergic to any of the ingredients in FLOVENT HFA or any other medicines.
+  See “What are the ingredients in FLOVENT HFA?” below for a complete list of ingredients.
+- •have any type of viral, bacterial, or fungal infection.
+- •are exposed to chickenpox or measles.
 - •have any other medical conditions.
 - •are pregnant or planning to become pregnant.
-  It is not known if FLOVENT HFA will harm your unborn baby.
-- •are breastfeeding a baby.
-  It is not known if FLOVENT HFA passes into your breast milk.
+  It is not known if FLOVENT HFA may harm your unborn baby.
+- •are breastfeeding.
+  It is not known if the medicine in FLOVENT HFA passes into your milk and if it can harm your baby.
 
-Tell your doctor about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
-FLOVENT HFA may affect the way other medicines work, and other medicines may affect how FLOVENT HFA works.
-Especially, tell your doctor if you take:
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+FLOVENT HFA and certain other medicines may interact with each other.
+This may cause serious side effects.
+Especially, tell your healthcare provider if you takeantifungal or anti-HIV medicines.
 
-- •a medicine containing ritonavir (commonly used to treat HIV infection or AIDS).
-  The anti-HIV medicines NORVIR® (ritonavir capsules) Soft Gelatin, NORVIR (ritonavir oral solution), and KALETRA® (lopinavir/ritonavir) tablets contain ritonavir.
-- •any other corticosteroid medicines.
-- •ketoconazole (NIZORAL®), an antifungal medicine.
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I use FLOVENT HFA?
 
-1.
-It is important that you inhale each dose as your doctor has prescribed.
-The prescription label provided by your pharmacist will usually tell you what dose to take and how often.
-If it doesn’t or if you aren’t sure, ask your doctor or pharmacist.
-DO NOT inhale more doses or use your FLOVENT HFA more often than your doctor has prescribed.
+Read the step-by-step instructions for using FLOVENT HFA at the end of this Patient Information.
 
-2.
-It may take 1 to 2 weeks or longer for this medicine to work, and it is very important that you use it regularly.
-Do not stop taking FLOVENT HFA, even if you are feeling better, unless your doctor tells you to.
+- •Do not use FLOVENT HFA unless your healthcare provider has taught you how to use the inhaler and you understand how to use it correctly.
+- •Children should use FLOVENT HFA with an adult’s help, as instructed by the child’s healthcare provider.
+- •Flovent HFA comes in 3 different strengths.
+  Your healthcare provider has prescribed the strength that is best for you.
+- •Use FLOVENT HFA exactly as your healthcare provider tells you to use it.
+  Do not use FLOVENT HFA more often than prescribed.
+- •It may take 1 to 2 weeks or longer after you start FLOVENT HFA for your asthma symptoms to get better.
+  You must use FLOVENT HFA regularly.
+- •Do not stop using FLOVENT HFA, even if you are feeling better, unless your healthcare provider tells you to.
+- •Talk to your healthcare provider right away if you stop using FLOVENT HFA.
+- •If you miss a dose of FLOVENT HFA, just skip that dose.
+  Take your next dose at your usual time.
+  Do not take 2 doses at 1 time.
+- •FLOVENT HFA does not relieve sudden symptoms.
+  Always have a rescue inhaler with you to treat sudden symptoms.
+  If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
+- •Call your healthcare provider or get medical care right away if:
+  - •your breathing problems get worse.
+  - •you need to use your rescue inhaler more often than usual.
+  - •your rescue inhaler does not work as well to relieve your symptoms.
+  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
+  - •you use 1 whole canister of your rescue inhaler in 8 weeks.
+  - •your peak flow meter results decrease.
+    Your healthcare provider will tell you the numbers that are right for you.
 
-3.
-If you miss a dose, just take your next scheduled dose when it is due.
-Do not double the dose.
-
-4.
-Your doctor may prescribe additional medicine (such as fast-acting bronchodilators) for emergency relief if a sudden asthma attack occurs.
-Contact your doctor if:
-
-- •an asthma attack does not respond to the additional medicine or
-- •you need more of the additional medicine than usual.
-
-5.
-If you also use another medicine by inhalation, you should ask your doctor for instructions on when to use it while you are also using FLOVENT HFA.
-
-6.
-Children should use FLOVENT HFA with an adult’s help, as instructed by the child’s healthcare provider.
-A valved holding chamber (a kind of spacer) and mask may be used to deliver FLOVENT HFA to young patients.
-
-What should I avoid while taking FLOVENT HFA?
-
-If you have not had or not been vaccinated against chickenpox, measles, or active tuberculosis, you should stay away from people who are infected.
-
-What are the possible side effects of FLOVENT HFA?
+What are the possible side effects with FLOVENT HFA?
 
 FLOVENT HFA can cause serious side effects, including:
 
-- •fungal infections (thrush) in your mouth and throat.
-  Tell your doctor if you have any redness or white-colored coating in your mouth.
-- •decreased ability to fight infections.
-  Symptoms of infection may include: fever, pain, aches, chills, feeling tired, nausea and vomiting.
-  Tell your doctor about any signs of infection while you use FLOVENT HFA.
-- •decreased adrenal function (adrenal insufficiency).
-  Symptoms of decreased adrenal function include tiredness, weakness, nausea and vomiting, and low blood pressure.
-  Decreased adrenal function can lead to death.
-- •allergic reaction (anaphylaxis).
-  Call your doctor and stop FLOVENT HFA right away if you have any symptoms of an allergic reaction:
-  - •swelling of the face, throat and tongue
-  - •hives
+- •fungal infection in your mouth or throat (thrush).
+  Rinse your mouth with water without swallowing after using FLOVENT HFA to help reduce your chance of getting thrush.
+- •weakened immune system and increased chance of getting infections (immunosuppression).
+- •reduced adrenal function (adrenal insufficiency).
+  Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
+  This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT HFAHFA).
+  When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.
+- Symptoms of adrenal insufficiency include:
+  1. •feeling tired
+  2. •lack of energy
+  3. •weakness
+  4. •nausea and vomiting
+  5. •low blood pressure
+- •serious allergic reactions.
+  Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
   - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
   - •breathing problems
-- •lower bone mineral density.
-  This may be a problem for people who already have a higher chance of low bone density (osteoporosis).
-- •slow growth in children.
-  The growth of children using FLOVENT HFA should be checked regularly.
+- •bone thinning or weakness (osteoporosis).
+- •slowed growth in children.
+  A child’s growth should be checked often.
 - •eye problems including glaucoma and cataracts.
-  Tell your doctor about any vision changes while using FLOVENT HFA.
-  Your doctor may tell you to have your eyes checked.
+  You should have regular eye exams while using FLOVENT HFA.
 - •increased wheezing (bronchospasm).
   Increased wheezing can happen right away after using FLOVENT HFA.
   Always have a rescue inhaler with you to treat sudden wheezing.
 
-Tell your doctor right away if you have any of the serious side effects listed above or if you have worsening lung symptoms.
-
-The most common side effects of FLOVENT HFA include:
+Common side effects of FLOVENT HFA include:
 
 - •a cold or upper respiratory tract infection
 - •throat irritation
@@ -146,137 +135,204 @@ The most common side effects of FLOVENT HFA include:
 - •diarrhea
 - •ear infection
 
-Tell your doctor if you have any side effects that bother you or that do not go away.
-These are not all the possible side effects of FLOVENT HFA.
-For more information ask your doctor or pharmacist.
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
+
+These are not all the side effects with FLOVENT HFA.
+Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or 1-800-332-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store FLOVENT HFA?
 
-Store FLOVENT HFA at room temperature between 59°and 86°F (15°-30°C).
-Store the inhaler with the mouthpiece down.
-For best results, the inhaler should be at room temperature before use.
+- •Store FLOVENT HFA at room temperature between 68°F and 77°F (20°C and 25°C) with the mouthpiece down.
+- •The contents of your FLOVENT HFA inhaler are under pressure.Do not puncture.
+  Do not use or store near heat or open flame.
+  Temperatures above 120°F may cause the canister to burst.
+- •Do not throw into fire or an incinerator.
+- •Safely throw away FLOVENT HFA in the trash when the counter reads 000.
+- •Keep FLOVENT HFA and all medicines out of the reach of children.
 
-Keep FLOVENT HFA and all medicines out of the reach of children.
+General information about the safe and effective use of FLOVENT HFA.
+
+Medicines are sometimes prescribed for purposes not mentioned in a Patient Information leaflet.
+Do not use FLOVENT HFA for a condition for which it was not prescribed.
+Do not give your FLOVENT HFA to other people, even if they have the same condition that you have.
+It may harm them.
 
 This Patient Information leaflet summarizes the most important information about FLOVENT HFA.
-If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or doctor for information about FLOVENT HFA that is written for health professionals.
-You can also contact the company that makes FLOVENT HFA (toll free) at 1-888-825-5249.
+If you would like more information, talk with your healthcare provider or pharmacist.
+You can ask your healthcare provider or pharmacist for information about FLOVENT HFA that was written for healthcare professionals.
+
+For more information about FLOVENT HFA, call 1-888-825-5249 or visit our website at www.flovent.com.
 
 What are the ingredients in FLOVENT HFA?
 
-Active ingredient: fluticasone propionate (micronized)
+Active ingredient: fluticasone propionate
 
 Inactive ingredient: propellant HFA-134a
 
 Instructions for Use
 
-The parts of your FLOVENT HFA
+For Oral Inhalation Only
 
-There are 2 main parts to your FLOVENT HFA inhaler—the metal canister that holds the medicine and the dark orange plastic actuator that sprays the medicine from the canister (see Figure 1).
+Your FLOVENT HFA
 
-Figure 1
+- •The metal canister holds the medicine.
+  See Figure A.
 
-The canister has a counter to show how many sprays of medicine you have left.
-The number shows through a window in the back of the actuator.
-The counter starts at 124.
-The number will count down by 1 each time you spray the inhaler.
-The counter will stop counting at 000.
+Figure A
 
-Never try to change the numbers or take the counter off the metal canister.
-The counter cannot be reset, and it is permanently attached to the canister.
+- •The canister has a counter to show how many sprays of medicine you have left.
+  The number shows through a window in the back of the actuator.
+  See Figure B.
+- 
+- Figure B
 
-The mouthpiece of the actuator is covered by a cap.
-A strap on this cap keeps it attached to the actuator.
+- •The counter starts at 124.
+  The number will count down by 1 each time you spray the inhaler.
+  The counter will stop counting at 000.
+- •Do not try to change the numbers or take the counter off the metal canister.
+  The counter cannot be reset, and it is permanently attached to the canister.
+- •The dark orange plastic actuator sprays the medicine from the canister.
+  The actuator has a protective cap that covers the mouthpiece.
+  See Figure A. Keep the protective cap on the mouthpiece when the canister is not in use.
+  The strap keeps the cap attached to the actuator.
+- •Do not use the actuator with a canister of medicine from any other inhaler.
+- •Do not use a FLOVENT HFA canister with an actuator from any other inhaler.
 
-Do not use the actuator with a canister of medicine from any other inhaler.
-And do not use a FLOVENT HFA canister with an actuator from any other inhaler.
-
-Using your FLOVENT HFA
+Before using your FLOVENT HFA inhaler
 
 - •The inhaler should be at room temperature before you use it.
-- •Priming the inhaler: Before you use FLOVENT HFA for the first time, you must prime the inhaler so that you will get the right amount of medicine when you use it.
-  To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
-  Then spray the inhaler into the air away from your face.
-  Avoid spraying in eyes.
-  Shake and spray the inhaler like this 3 more times to finish priming it.
-  The counter should now read 120.
-  You must prime the inhaler again if you have not used it in more than 7 days or if you drop it.
-  Take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
-  Then spray it 1 time into the air away from your face.
 - •If a child needs help using the inhaler, an adult should help the child use the inhaler with or without a valved holding chamber, which may also be attached to a mask.
   The adult should follow the instructions that came with the valved holding chamber.
   An adult should watch a child use the inhaler to be sure it is used correctly.
 
-Read the following 7 steps before using FLOVENT HFA and follow them at each use.
-If you have any questions, ask your doctor or pharmacist.
+Priming your FLOVENT HFA inhaler
 
-- 1.Take the cap off the mouthpiece of the actuator (see Figure 2).
+- •Before you use FLOVENT HFA for the first time, you must prime the inhaler so that you will get the right amount of medicine when you use it.
+- •To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
+  Then spray the inhaler 1 time into the air away from your face.
+  See Figure C.Avoid spraying in eyes.
+- 
 
-Look inside the mouthpiece for foreign objects, and take out any you see.
+Figure C
 
+- •Shake and spray the inhaler like this 3 more times to finish priming it.
+  The counter should now read 120.
+  See Figure D.
+- 
+
+Figure D
+
+- •You must prime your inhaler again if you have not used it in more than 7 days or if you drop it.
+  Take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
+  Then spray it 1 time into the air away from your face.
+
+How to use your FLOVENT HFA inhaler
+
+Follow these steps every time you use FLOVENT HFA.
+
+Step 1.
 Make sure the canister fits firmly in the actuator.
+The counter should show through the window in the actuator.
 
-Shake the inhaler well for 5 seconds.
+- Shake the inhaler well for 5 seconds before each spray.
+- Take the cap off the mouthpiece of the actuator.
+  Look inside the mouthpiece for foreign objects, and take out any you see.
 
-- 2.Hold the inhaler with the mouthpiece down (see Figure 2).
+Step 2.
+Hold the inhaler with the mouthpiece down.
+See Figure E.
+
+Figure E
+
+- Step 3.
   Breathe out through your mouth and push as much air from your lungs as you can.
   Put the mouthpiece in your mouth and close your lips around it.
-
-Figure 2
-
-- 3.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+  See Figure F.
 - 
-- Figure 3
 
-Right after the spray comes out, take your finger off the canister.
-After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+Figure F
 
-- 4.Hold your breath as long as you can, up to 10 seconds.
-  Then breathe normally.
-- 5.Wait about 30 seconds and shake the inhaler well for 5 seconds.
-  Repeat steps 2 through 4.
+- Step 4.
+  Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
+  See Figure F.
+- Step 5.
+  After the spray comes out, take your finger off the canister.
+  After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+- Step 6.
+  Hold your breath for about 10 seconds, or for as long as is comfortable.
+  Breathe out slowly as long as you can.
 
-After you finish taking this medicine, rinse your mouth with water.
-Spit out the water.
-Do not swallow it.
+Wait about 30 seconds and shake the inhaler well for 5 seconds.
+Repeat steps 2 through 6.
 
-- 6.Put the cap back on the mouthpiece after each time you use the inhaler.
+- Step 7.
+  Rinse your mouth with water after breathing in the medicine.
+  Spit out the water.
+  Do not swallow it.
+  See Figure G.
+- 
+
+Figure G
+
+- Step 8.
+  Put the cap back on the mouthpiece after every time you use the inhaler.
   Make sure it snaps firmly into place.
 
-Cleaning your FLOVENT HFA
+Cleaning your FLOVENT HFA inhaler
 
-Clean the inhaler at least once a week after your evening dose.
-It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
+Clean your inhaler at least 1 time each week after your evening dose.
+You may not see any medicine build-up on the inhaler, but it is important to keep it clean so medicine build-up will not block the spray.
+See Figure H.
 
-- 1.Take the cap off the mouthpiece.
+Figure H
+
+- Step 9.
+  Take the cap off the mouthpiece.
   The strap on the cap will stay attached to the actuator.
   Do not take the canister out of the plastic actuator.
-- 2.Use a clean cotton swab dampened with water to clean the small circular opening where the medicine sprays out of the canister.
-  Gently twist the swab in a circular motion to take off any medicine (see Figure 4).
-  Repeat with a new swab dampened with water to take off any medicine still at the opening.
+- Step 10.
+  Use a clean cotton swab dampened with water to clean the small circular opening where the medicine sprays out of the canister.
+  Gently twist the swab in a circular motion to take off any medicine.
+  See Figure I. Repeat with a new swab dampened with water to take off any medicine still at the opening.
+- 
 
-Figure 4
+Figure I
 
-- 3.Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-  Let the actuator air-dry overnight.
-- 4.Put the cap back on the mouthpiece after the actuator has dried.
+Step 11.
+Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+Let the actuator air-dry overnight.
 
-Replacing your FLOVENT HFA
+Step 12.
+Put the cap back on the mouthpiece after the actuator has dried.
 
-- •When the counter reads 020, you should refill your prescription or ask your doctor if you need a refill of your prescription.
+Replacing your FLOVENT HFA inhaler
+
+- •When the counter reads 020, you should refill your prescription or ask your healthcare provider if you need another prescription for FLOVENT HFA.
 - •When the counter reads 000, throw the inhaler away.
-  You should not keep using the inhaler because you will not receive the right amount of medicine.
+  You should not keep using the inhaler when the counter reads 000 because you may not receive the right amount of medicine.
 - •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
+
+For correct use of your FLOVENT HFA inhaler, remember:
+
+- •The canister should always fit firmly in the actuator.
+- •Breathe in deeply and slowly to make sure you get all the medicine.
+- •Hold your breath for about 10 seconds after breathing in the medicine.
+  Then breathe out fully.
+- •After each dose, rinse your mouth with water and spit it out.
+  Do not swallow the water.
+- •Do not take the inhaler apart.
+- •Always keep the protective cap on the mouthpiece when your inhaler is not in use.
+- •Always store your inhaler with the mouthpiece pointing down.
+- •Clean your inhaler at least 1 time each week.
+
+If you have questions about FLOVENT HFA or how to use your inhaler, call GlaxoSmithKline (GSK) at 1-888-825-5249 or visit www.flovent.com.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 FLOVENT is a registered trademark of the GSK group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline
 
@@ -285,6 +341,6 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-May 2014
+December 2014
 
-FLH:4PIL
+FLH:5PIL

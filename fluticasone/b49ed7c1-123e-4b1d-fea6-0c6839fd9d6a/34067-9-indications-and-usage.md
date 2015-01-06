@@ -4,4 +4,4 @@ FLOVENT® HFA Inhalation Aerosol is indicated for the maintenance treatment of a
 It is also indicated for patients requiring oral corticosteroid therapy for asthma.
 Many of these patients may be able to reduce or eliminate their requirement for oral corticosteroids over time.
 
-FLOVENT HFA Inhalation Aerosol is NOT indicated for the relief of acute bronchospasm.
+Important Limitation of Use: Flovent HFA is not indicated for the relief of acute bronchospasm.

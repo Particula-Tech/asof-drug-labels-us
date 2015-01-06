@@ -1,6 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 FLOVENT HFA should be administered by the orally inhaled route only in patients aged 4 years and older.
+After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
+
 Individual patients will experience a variable time to onset and degree of symptom relief.
 Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting treatment.
 
@@ -30,5 +32,5 @@ Once prednisone reduction is complete, the dosage of FLOVENT HFA should be reduc
 c Recommended pediatric dosage is 88 mcg twice daily regardless of prior therapy.
 A valved holding chamber and mask may be used to deliver FLOVENT HFA to young patients.
 
-FLOVENT HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well for 5 seconds and releasing 1 test spray into the air away from the face.
+Prime FLOVENT HFA before using for the first time by releasing 4 sprays into the air away from the face, shaking well for 5 seconds before each spray.
+In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well for 5 seconds and releasing 1 spray into the air away from the face.
