@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA206321"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Novo Nordisk",
+  "package_ndcs": [
+    "0169-2800-15",
+    "0169-2800-90"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "liraglutide",
+      "name": "Saxenda"
+    }
+  ],
+  "setid": "3946d389-0926-4f77-a708-0acb8153b143",
+  "source": "dailymed"
+}
