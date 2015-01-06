@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020918"
+  ],
+  "inn": "glucagon",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0053-01",
+    "0597-0053-45",
+    "0597-0260-10",
+    "0597-0265-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "glucagon hydrochloride",
+      "name": "GlucaGen"
+    },
+    {
+      "form": "KIT",
+      "generic": "glucagon hydrochloride",
+      "name": "GlucaGen"
+    }
+  ],
+  "setid": "ff16e4b1-3668-4cb4-91a4-77ee509cd6f6",
+  "source": "dailymed"
+}
