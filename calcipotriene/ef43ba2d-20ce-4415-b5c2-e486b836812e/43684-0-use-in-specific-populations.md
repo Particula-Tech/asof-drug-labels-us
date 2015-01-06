@@ -5,7 +5,6 @@
 Teratogenic Effects: Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
-Pregnant women were excluded from the clinical studies conducted with Taclonex® Ointment.
 Taclonex® Ointment should be used during pregnancy only if the potential benefit to the patient justifies the potential risk to the fetus.
 Animal reproduction studies have not been conducted with Taclonex® Ointment.
 Taclonex® Ointment contains calcipotriene that has been shown to be fetotoxic and betamethasone dipropionate that has been shown to be teratogenic in animals when given systemically.
@@ -39,24 +38,27 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of the use of Taclonex® Ointment in pediatric patients have not been studied.
-Because of a higher ratio of skin surface area to body mass, children under the age of 12 years may be at particular risk of systemic adverse effects when they are treated with topical medication [see Warnings and Precautions (5.2)].
+Safety and effectiveness of the use of Taclonex®Ointment in pediatric patients under the age of 12 years have not been established.
 
-HPA axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
-Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
+The safety and effectiveness of Taclonex® Ointment for the treatment of plaque psoriasis have been established in the age group 12 to 17 years.
+In a prospective, uncontrolled trial, 33 pediatric subjects ages 12-17 years with plaque psoriasis on the body were treated with Taclonex® Ointment for 4 weeks up to a maximum of 55.8 g per week.
+Subjects were assessed for HPA axis suppression and effects on calcium metabolism.
+No adverse effects on adrenal suppression were observed.
+No hypercalcemia was observed but one subject had a possible treatment-related increase in urinary calcium.
+[See Clinical Pharmacology (12.2)]
+
+Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of systemic toxicity when treated with topical drugs.
+They are, therefore, also at greater risk of HPA axis suppression and adrenal insufficiency upon the use of topical corticosteroids.
+[See Warnings and Precautions (5.2)]
+
+Rare systemic toxicities such as Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in pediatric patients, especially those with prolonged exposure to large doses of high potency topical corticosteroids.
+
+Local adverse reactions including striae have also been reported with use of topical corticosteroids in pediatric patients.
 
 ## 8.5 Geriatric Use
 
 Of the total number of subjects in the clinical studies of Taclonex® Ointment, approximately 14% were 65 years and older and approximately 3% were 75 years and over.
 
-No overall differences in safety or effectiveness of Taclonex® Ointment were observed between these subjects and younger subjects.
+No overall differences in safety or effectiveness of Taclonex®Ointment were observed between these subjects and younger subjects.
 All other reported clinical experience has not identified any differences in response between elderly and younger patients.
-
-## 8.6 Unevaluated Uses
-
-The safety and efficacy of Taclonex® Ointment in patients with known or suspected disorders of calcium metabolism have not been evaluated.
-
-The safety and efficacy of Taclonex® Ointment in patients with erythrodermic, exfoliative, or pustular psoriasis have not been evaluated.
-
-The safety and efficacy of Taclonex® Ointment in patients with severe renal insufficiency or severe hepatic disorders have not been evaluated.
+However, greater sensitivity of some older individuals cannot be ruled out.

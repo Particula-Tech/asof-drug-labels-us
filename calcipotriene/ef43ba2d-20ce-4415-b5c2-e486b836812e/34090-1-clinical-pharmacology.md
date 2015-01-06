@@ -3,35 +3,51 @@
 ## 12.1 Mechanism of Action
 
 Taclonex® Ointment combines the pharmacological effects of calcipotriene hydrate as a synthetic vitamin D3 analogue and betamethasone dipropionate as a synthetic corticosteroid.
-However, while their pharmacologic and clinical effects are known, the exact mechanisms of their actions in psoriasis vulgaris are unknown.
+However, while their pharmacologic and clinical effects are known, the exact mechanisms of their actions in plaque psoriasis are unknown.
 
 ## 12.2 Pharmacodynamics
 
 Vasoconstriction:
 
-In a vasoconstrictor study, the skin blanching response of Taclonex® Ointment was consistent with that of a potent corticosteroid.
+In a vasoconstrictor trial in healthy subjects, the skin blanching response of Taclonex® Ointment was consistent with that of a potent corticosteroid when compared with other topical corticosteroids.
+However, similar blanching scores do not necessarily imply therapeutic equivalence.
 
 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression:
 
-Taclonex® Ointment was applied once daily for 4 weeks to adult subjects (N = 12) with psoriasis vulgaris to study its effects on the hypothalamic-pituitary-adrenal (HPA) axis.
+HPA axis suppression was evaluated in four trials (Trial A, B, C and D) following the application of Taclonex® Ointment.
+
+In Trial A, Taclonex® Ointment was applied once daily for 4 weeks to adult subjects (N = 12) with plaque psoriasis to study its effects on the hypothalamic-pituitary-adrenal (HPA) axis.
 Of eleven subjects tested, none demonstrated adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤ 18 mcg/dL.
 
-However in another clinical study of Taclonex® Ointment, one subject (N = 19) demonstrated adrenal suppression.
+In Trial B, Taclonex® Ointment was evaluated in adult subjects with plaque psoriasis (N = 19).
+One subject demonstrated adrenal suppression.
 
-HPA axis suppression was evaluated in adult subjects (N=32) with extensive psoriasis involving at least 30% of the scalp and, in total, 15-30% of the body surface area.
+In Trial C, HPA axis suppression was evaluated in adult subjects (N=32) with extensive plaque psoriasis involving at least 30% of the scalp and, in total, 15-30% of the body surface area.
 Treatment consited of once daily application of Talconex Scalp® Topical Suspension on the scalp in combination with Taclonex® Ointment on the body.
-Adrenal suppression as indicated by a 30-minutes post-stimulation cortisol level less than or equal to 18 mcg/dL was observed in 5 of 32 subjects (15.6%) after 4 weeks of treatment as per the recommended duration of use (see Dosage and Administration (2.1).
+Adrenal suppression as indicated by a 30-minutes post-stimulation cortisol level < 18 mcg/dL was observed in 5 of 32 subjects (15.6%) after 4 weeks of treatment as per the recommended duration of use [see Dosage and Administration (2)].
+
+In Trial D, HPA axis suppression was evaluated in subjects 12 to 17 years (N=32) with plaque psoriasis of the body involving 5-30% of the body surface area.
+Treatment consisted of once daily application of Taclonex® Ointment to the affected areas for up to 4 weeks.
+Mean weekly dose was 29.6 g with a range of 8.1-55.8 g/week.
+Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in none of 32 evaluable subjects after 4 weeks of treatment.
+[See Use in Specific Populations (8.4)]
 
 Effects on Calcium Metabolism
 
-In the combination use study described above, the effects of once daily application of Taclonex® Ointment on the body in combination with Taclonex Scalp® Topical Suspension on the scalp on calcium metabolism were also examined.
+In Trial C described above, the effects of once daily application of Taclonex® Ointment on the body in combination with Taclonex Scalp® Topical Suspension on the scalp on calcium metabolism were also examined.
 Elevated urinary calcium levels outside the normal range were observed in 1 of 35 subjects (2.9%) after 4 weeks of treatment.
+
+In Trial D described above, calcium metabolism was evaluated in a total of 33 subjects aged 12 to 17 years with plaque psoriasis involving 5-30% of the body surface area who underwent once daily application of Taclonex® Ointment for up to 4 weeks.
+No cases of hypercalcemia and no clinically relevant changes in urinary calcium were reported.
+However, one subject had a normal urinary calcium:creatinine ratio at baseline (3.75 mmol/g), which increased above the normal range at week 4 (16 mmol/g).
+There were no relevant changes in albumin-corrected serum calcium or other markers of calcium metabolism for this subject.
+The clinical significance of this finding is unknown.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-The systemic effect of Taclonex® Ointment in extensive psoriasis was investigated in the trial described above.
+In Trial C described above, the systemic effect of Taclonex® Ointment in extensive plaque psoriasis was investigated.
 In this study, the serum levels of calcipotriene and betamethasone dipropionate and their major metabolites were measured after 4 weeks (maximum recommended duration of treatment) and also after 8 weeks of once daily application of Taclonex® Ointment on the body in combination with Taclonex Scalp® Topical Suspension on the scalp.
 Both calcipotriene and betamethasone dipropionate were below the lower limit of quantification in all serum samples of the 34 subjects evaluated.
 However, one major metabolite of calcipotriene (MC1080) was quantifiable in 10 of 34 (29.4%) subjects at week 4 and in five of 12 (41.7%) subjects at week 8.

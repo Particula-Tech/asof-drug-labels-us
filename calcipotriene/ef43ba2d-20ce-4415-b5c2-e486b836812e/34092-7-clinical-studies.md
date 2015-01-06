@@ -1,6 +1,8 @@
 # 14 CLINICAL STUDIES
 
-In an international, multi-center, double-blind, vehicle- and active-controlled, parallel-group trial, 1603 subjects with mild to very severe psoriasis vulgaris on trunk and limbs were treated once daily for 4 weeks.
+Clinical Trials Conducted in Subjects 18 years and older with Plaque Psoriasis
+
+In an international, multi-center, double-blind, vehicle- and active-controlled, parallel-group trial, 1603 subjects with mild to very severe plaque psoriasis on trunk and limbs were treated once daily for 4 weeks.
 Subjects were randomized to one of four treatment arms: Taclonex® Ointment, calcipotriene hydrate 50 mcg/g in the same vehicle, betamethasone dipropionate 0.64 mg/g in the same vehicle, and vehicle alone.
 The mean age of the subjects was 48.4 years and 60.5% were male.
 Most subjects had disease of moderate severity at baseline.
@@ -20,4 +22,12 @@ Percentage of Subjects with Absent or Very Mild Disease According to the Investi
 
 *Subjects with mild disease at baseline were required to have "Absent" disease to be considered a success.
 In addition to the pivotal trial (N = 490), four randomized, double-blind, vehicle- or active-controlled, parallel-group trials were conducted and provided supportive evidence of efficacy.
-These studies included a total of 1058 subjects treated with Taclonex® Ointment once daily for up to 4 weeks.
+These trials included a total of 1058 subjects treated with Taclonex® Ointment once daily for up to 4 weeks.
+
+Clinical Trial Conducted in Subjects 12 to 17 years with Plaque Psoriasis
+
+A prospective, uncontrolled trial (N=33) was conducted in pediatric subjects ages 12 to 17 years with plaque psoriasis involving 5-30% of the body surface area.
+Approximately 91% of subjects had moderate disease at baseline.
+Subjects were treated once daily for up to 4 weeks with Taclonex® Ointment.
+All subjects were evaluated for safety including calcium metabolism (N=33) and 32 subjects were evaluated for HPA axis suppression.
+[see Clinical Pharmacology (12.2)]

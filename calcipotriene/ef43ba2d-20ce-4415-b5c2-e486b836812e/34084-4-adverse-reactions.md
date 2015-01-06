@@ -4,7 +4,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Clinical Study Experience
 
-The data described below reflect exposure to Taclonex® Ointment in 2448 subjects, including 1992 exposed for 4 weeks, and 289 exposed for 8 weeks.
+Clinical Trials Conducted in Subjects 18 years and older with Plaque Psoriasis
+
+The data described below reflect exposure to Taclonex® Ointment in 2448 subjects with plaque psoriasis, including 1992 exposed for 4 weeks, and 289 exposed for 8 weeks.
 Taclonex® Ointment was studied primarily in placebo- and active-controlled trials (N = 1176, and N = 1272, respectively).
 The population was 15-97 years old, 61% males and 39% females, mostly white (97%) and had a baseline disease severity ranging from mild to very severe.
 Most subjects received once daily application, and the median weekly dose was 24.5 g.
@@ -60,3 +62,5 @@ One case of serious flare-up of psoriasis was reported.
 The following adverse reactions associated with the use of Taclonex® Ointment have been identified post-approval: pustular psoriasis and rebound effect.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Postmarketing reports for local adverse reactions to topical corticosteroids may also include: striae, dryness, acneiform eruptions, perioral dermatitis, secondary infection and miliaria.
