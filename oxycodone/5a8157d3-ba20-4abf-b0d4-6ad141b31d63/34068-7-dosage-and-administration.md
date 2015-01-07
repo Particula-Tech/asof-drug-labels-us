@@ -9,7 +9,7 @@ The dose should be titrated based upon the individual patient’s response to th
 Patients with chronic pain should have their dosage given on an around-the-clock basis to prevent the reoccurrence of pain rather than treating the pain after it has occurred.
 This dose can then be adjusted to an acceptable level of analgesia taking into account side effects experienced by the patient.
 
-For control of severe chronic pain, ROXICODONE® should be administered on a regularly scheduled basis, every 4-6 hours, at the lowest dosage level that will achieve adequate analgesia.
+For control of severe chronic pain, ROXICODONE® should be administered on a regularly scheduled basis, every 4 to 6 hours, at the lowest dosage level that will achieve adequate analgesia.
 
 As with any potent opioid, it is critical to adjust the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience.
 Although it is not possible to list every condition that is important to the selection of the initial dose of ROXICODONE®, attention should be given to: 1) the daily dose, potency, and characteristics of a pure agonist or mixed agonist/antagonist the patient has been taking previously, 2) the reliability of the relative potency estimate to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences.

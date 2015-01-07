@@ -75,6 +75,7 @@ While this pathway may be blocked by a variety of drugs (e.g., certain cardiovas
 However, clinicians should be aware of this possible interaction.
 
 Neuromuscular Blocking Agents: Oxycodone, as well as other opioid analgesics, may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Review of postmarketing reports has also shown that muscle relaxants, such as cyclobenzaprine, when used with oxycodone may potentially enhance serotonergic activity and result in the development of serotonin syndrome.
 
 CNS Depressants: Patients receiving narcotic analgesics, general anesthetics, phenothiazines, other tranquilizers, sedative-hypnotics or other CNS depressants (including alcohol) concomitantly with ROXICODONE® may exhibit an additive CNS depression.
 Interactive effects resulting in respiratory depression, hypotension, profound sedation, or coma may result if these drugs are taken in combination with the usual dosage of ROXICODONE®.
@@ -85,6 +86,9 @@ In this situation, mixed agonist/antagonist analgesics may reduce the analgesic 
 
 Monoamine Oxidase Inhibitors (MAOIs): MAOIs have been reported to intensify the effects of at least one opioid drug causing anxiety, confusion and significant depression of respiration or coma.
 The use of ROXICODONE® is not recommended for patients taking MAOIs or within 14 days of stopping such treatment.
+Review of postmarketing reports has also shown that MAOIs, such as phenelzine, when used with oxycodone may potentially enhance serotonergic activity and result in the development of serotonin syndrome.
+
+Other Antidepressants (Tricyclic Antidepressant or TCA, Serotonin-Norepinephrine Reuptake Inhibitor or SNRI and Selective Serotonin Reuptake Inhibitor or SSRI: Review of postmarketing reports has shown that other antidepressants, such as TCAs (e.g. doxepine), SSRIs (e.g. fluvoxamine) and SNRIs (e.g. duloxetine and venlafaxine), when used with oxycodone may potentially enhance serotonergic activity and result in the development of serotonin syndrome.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 

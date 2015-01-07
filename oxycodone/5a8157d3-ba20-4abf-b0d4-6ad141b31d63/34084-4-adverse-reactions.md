@@ -3,7 +3,7 @@
 ROXICODONE® tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
 ROXICODONE® tablets are associated with adverse experiences similar to those seen with other opioids.
 
-Serious adverse reactions that may be associated with ROXICODONE® therapy in clinical use are those observed with other opioid analgesics and include: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock (see OVERDOSE, WARNINGS).
+Serious adverse reactions that may be associated with ROXICODONE® therapy in clinical use are those observed with other opioid analgesics and include: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock (see OVERDOSAGE, WARNINGS).
 
 The less severe adverse events seen on initiation of therapy with ROXICODONE® are also typical opioid side effects.
 These events are dose dependent, and their frequency depends on the clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
@@ -39,3 +39,7 @@ Skin and Appendages: herpes simplex, rash, sweating, and urticaria.
 Special Senses: amblyopia.
 
 Urogenital: urinary tract infection.
+
+Postmarketing Experience: Review of postmarketing reports showed the occurrence of the following adverse events:
+
+Cardiac disorders: myocardial ischemia and ventricular fibrillation with overdose General disorders and administrative site disorders: drug withdrawal syndrome neonatal Immune system disorders: anaphylactic reactions Respiratory, thoracic and mediastinal disorders: pharyngeal edema

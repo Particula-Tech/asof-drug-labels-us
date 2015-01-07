@@ -12,11 +12,11 @@ DEA Order Form Required
 
 Dispense in a tight, light-resistant container.
 Protect from moisture.
-Store at 25°C (77°F); excursions are permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature]
+Store at 25°C (77°F); excursions are permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-ROXICODONE is a registered trademark of Mallinckrodt LLC.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2012 Mallinckrodt LLC
+© 2014 Mallinckrodt.
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
@@ -24,6 +24,6 @@ To request medical information or to report suspected adverse reactions, contact
 
 960B00
 
-Rev 08/2012
+Rev 01/2014
 
 Mallinckrodt Pharmaceuticals™
