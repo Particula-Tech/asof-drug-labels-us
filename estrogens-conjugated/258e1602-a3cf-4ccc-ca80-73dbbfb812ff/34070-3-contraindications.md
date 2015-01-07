@@ -1,13 +1,13 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-PREMARIN therapy should not be used in individuals with any of the following conditions:
+PREMARIN therapy is contraindicated in individuals with any of the following conditions:
 
-1. Undiagnosed abnormal genital bleeding.
-2. Known, suspected, or history of breast cancer except in appropriately selected patients being treated for metastatic disease.
-3. Known or suspected estrogen-dependent neoplasia.
-4. Active DVT, PE, or a history of these conditions.
-5. Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions.
-6. Known anaphylactic reaction or angioedema to PREMARIN tablets.
-7. Known liver dysfunction or disease.
-8. Known protein C, protein S, or antithrombin deficiency or other known thrombophilic disorders.
-9. Known or suspected pregnancy.
+- Undiagnosed abnormal genital bleeding
+- Known, suspected, or history of breast cancer except in appropriately selected patients being treated for metastatic disease
+- Known or suspected estrogen-dependent neoplasia
+- Active DVT, PE, or a history of these conditions
+- Active arterial thromboembolic disease (for example stroke and MI), or a history of these conditions
+- Known anaphylactic reaction or angioedema with Premarin
+- Known liver impairment or disease
+- Known protein C, protein S or antithrombin deficiency, or other known thrombophilic disorders.
+- Known or suspected pregnancy

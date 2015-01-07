@@ -1,23 +1,19 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PREMARIN® (conjugated estrogens tablets, USP)
+## 16.1 How Supplied
 
-— Each oval green tablet contains 0.3 mg, in bottles of 100 (NDC 0046-1100-81) and 1,000 (NDC 0046-1100-91).
+PREMARIN (conjugated estrogens tablets, USP)
 
-— Each oval blue tablet contains 0.45 mg, in bottles of 100 (NDC 0046-1101-81).
-
-— Each oval maroon tablet contains 0.625 mg, in bottles of 100 (NDC 0046-1102-81) and 1,000 (NDC 0046-1102-91).
-
-— Each oval white tablet contains 0.9 mg, in bottles of 100 (NDC 0046-1103-81).
-
-— Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046-1104-81) and 1,000 (NDC 0046-1104-91).
+- — Each oval green tablet contains 0.3 mg, in bottles of 100 (NDC 0046-1100-81) and 1,000 (NDC 0046-1100-91).
+- — Each oval blue tablet contains 0.45 mg, in bottles of 100 (NDC 0046-1101-81).
+- — Each oval maroon tablet contains 0.625 mg, in bottles of 100 (NDC 0046-1102-81) and 1,000 (NDC 0046-1102-91).
+- — Each oval white tablet contains 0.9 mg, in bottles of 100 (NDC 0046-1103-81).
+- — Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046-1104-81) and 1,000 (NDC 0046-1104-91).
 
 The appearance of these tablets is a trademark of Wyeth LLC.
+
+## 16.2 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in a well-closed container, as defined in the USP.
-
-LAB-0467-4.0
-
-Rev 02/2012
