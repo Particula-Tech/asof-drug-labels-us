@@ -24,8 +24,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: October 2012
+Revised: December 2014
 
-IT13006QJ312012 10004142/11
+IT5825BL172014 090340139/6

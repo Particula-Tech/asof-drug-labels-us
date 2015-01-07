@@ -10,10 +10,10 @@ Adverse events occurring at an incidence of 2% or more in patients treated with 
 
 TABLE 1 Adverse Events Occurring in ≥ 2% of Telmisartan/Hydrochlorothiazide (HCTZ) Patients*
 
-|  | (%) | (%) | (%) | (%) |
-| --- | --- | --- | --- | --- |
 |  | Telm/HCTZ | Placebo | Telm | HCTZ |
+| --- | --- | --- | --- | --- |
 |  | (N=414) | (N=74) | (N=209) | (N=121) |
+|  | (%) | (%) | (%) | (%) |
 | Body as a whole |  |  |  |  |
 | Fatigue | 3 | 1 | 3 | 3 |
 | Influenza-like symptoms | 2 | 1 | 2 | 3 |
