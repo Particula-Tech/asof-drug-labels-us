@@ -38,9 +38,14 @@ There has been no long term use of MICARDIS in patients with unilateral or bilat
 
 ## 5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System
 
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
-Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should include close monitoring of renal function.
+Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 
 The ONTARGET trial enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months.
 Patients receiving the combination of MICARDIS and ramipril did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
-Concomitant use of MICARDIS and ramipril is not recommended.
+
+In most patients no benefit has been associated with using two RAS inhibitors concomitantly.
+In general, avoid combined use of RAS inhibitors.
+Closely monitor blood pressure, renal function, and electrolytes in patients on MICARDIS and other agents that affect the RAS.
+
+Do not co-administer aliskiren with MICARDIS in patients with diabetes.
+Avoid concomitant use of aliskiren with MICARDIS in patients with renal impairment (GFR <60 mL/min/1.73 m2).
