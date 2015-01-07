@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090866"
+  ],
+  "inn": "valsartan",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-5807-01",
+    "0378-5807-93",
+    "0378-5813-01",
+    "0378-5813-77",
+    "0378-5814-01",
+    "0378-5814-77",
+    "0378-5815-01",
+    "0378-5815-77"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valsartan",
+      "name": "Valsartan"
+    }
+  ],
+  "setid": "73e01dc6-7dd4-421a-a4f6-137e75f69f9a",
+  "source": "dailymed"
+}
