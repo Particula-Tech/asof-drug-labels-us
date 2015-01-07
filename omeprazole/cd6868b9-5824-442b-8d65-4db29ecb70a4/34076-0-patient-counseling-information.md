@@ -17,9 +17,9 @@ Stir well and drink immediately.
 Refill cup with water and drink.
 
 ZEGERID is available either as 40 mg or 20 mg capsules with 1100 mg sodium bicarbonate.
-ZEGERID is also available either as 40 mg or 20 mg single-dose packets of powder for oral suspension with 1680 mg sodium bicarbonate.
+ZEGERID is also available either as 40 mg or 20 mg single‑dose packets of powder for oral suspension with 1680 mg sodium bicarbonate.
 
-Patients should be instructed not to substitute Zegerid Capsules or Suspension for other ZEGERID dosage forms because different dosage forms contain different amounts of sodium bicarbonate and magnesium hydroxide.
+Patients should be instructed not to substitute ZEGERID Capsules or Suspension for other ZEGERID dosage forms because different dosage forms contain different amounts of sodium bicarbonate and magnesium hydroxide.
 [See Dosage and Administration (2)]
 
 Patients should be advised that since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
@@ -35,7 +35,7 @@ Patients should be advised that this drug is not approved for use in patients le
 Patients on a sodium-restricted diet or patients at risk of developing congestive heart failure (CHF) should be informed of the sodium content of ZEGERID Capsules (304 mg per capsule) and ZEGERID Powder (460 mg per packet).
 Patients should be informed that chronic use of sodium bicarbonate may cause problems and increased sodium intake can cause swelling and weight gain.
 If this occurs, they should contact their healthcare provider.
-[See Warnings and Precautions (5.3)]
+[See Warnings and Precautions (5.5)]
 
 Patients should be informed that the most frequent adverse reactions associated with ZEGERID include headache, abdominal pain, nausea, diarrhea, vomiting and flatulence.
 [See Adverse Reactions (6)]
@@ -47,21 +47,20 @@ Patients should be advised to use this drug with caution if they are regularly t
 [See Warnings and Precautions (5.3)]
 
 Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.4)].
+This may be a sign of Clostridium difficile associated diarrhea.
+[See Warnings and Precautions (5.4)]
 
 Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures and tetany as these may be signs of hypomagnesemia.
-[See Warnings and Precautions (5.7)]
+[See Warnings and Precautions (5.9)]
 
-SANTARUS,INC.®
+ZEGERID® Capsules and Powder for Oral Suspension are manufactured for: Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc., Raleigh NC 27615
 
-ZEGERID® Capsules are manufactured for Santarus, Inc., San Diego, CA 92130 by Norwich Pharmaceuticals, Inc., North Norwich, NY 13814.
+Product protected by one or more of the following U.S patent Nos. RE45,198; 6,780,882; 7,399,772
 
-ZEGERID® Powder for Oral Suspension is manufactured for Santarus, Inc. by Patheon Inc., Whitby, Ontario L1N 5Z5, Canada.
+Please see www.salix.com for patent information.
 
-For more information call 1-888-778-0887
+ZEGERID® is a registered trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc., Raleigh, NC 27615
 
-ZEGERID® is a registered trademark of Santarus, Inc.
+REV NOV 2014
 
-© 2012 Santarus, Inc.
-
-S0015I
+VENART-xxxxxxx

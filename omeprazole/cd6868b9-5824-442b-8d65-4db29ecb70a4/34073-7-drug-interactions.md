@@ -1,27 +1,36 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs for which gastric pH can affect bioavailability
+## 7.1 Drugs for Which Gastric pH Can Affect Bioavailability
 
-Because of its inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, and digoxin).
-In the clinical efficacy trials, antacids were used concomitantly with the administration of omeprazole.
+Due to its effects on gastric acid secretion, omeprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
 
-## 7.2 Drugs metabolized by cytochrome P450 (CYP)
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Coadministration of digoxin with ZEGERID is expected to increase the systemic exposure of digoxin.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with ZEGERID.
+
+Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving ZEGERID and MMF.
+Use ZEGERID with caution in transplant patients receiving MMF.
+[See Clinical Pharmacology (12.3)]
+
+## 7.2 Drugs Metabolized by Cytochrome P450 (CYP)
 
 Omeprazole can prolong the elimination of diazepam, warfarin and phenytoin, drugs that are metabolized by oxidation in the liver.
 There have been reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including omeprazole, and warfarin concomitantly.
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin may need to be monitored for increases in INR and prothrombin time.
 
-Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P-450 system (e.g., cyclosporine, disulfiram, benzodiazepines).
+Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P‑450 system (e.g., cyclosporine, disulfiram, benzodiazepines).
 Patients should be monitored to determine if it is necessary to adjust the dosage of these drugs when taken concomitantly with ZEGERID.
 
 Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
-Dose adjustment of omeprazole is not normally required..
+Dose adjustment of omeprazole is not normally required.
 When voriconazole (400 mg every 12 hours for one day, then 200 mg for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
 Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
-In a cross-over study in 12 healthy male subjects, St John's wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
-Avoid concomitant use of St. John's Wort or rifampin with omeprazole.
+In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Avoid concomitant use of St. John’s Wort or rifampin with omeprazole.
 
 ## 7.3 Antiretroviral Agents
 
@@ -37,7 +46,7 @@ Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40
 Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
 
-Increased concentration of saquinavir
+Increased Concentration of Saquinavir
 
 For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported with an increase in AUC by 82%, in Cmax by 75% and in Cmin by 106% following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
@@ -46,27 +55,29 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 ## 7.4 Combination Therapy with Clarithromycin
 
 Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interaction [See Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [See Contraindication in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs.
+[See Contraindications in prescribing information for clarithromycin]
 
-## 7.5 Clopidogrel
+## ​7.5 Clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Avoid concomitant administration of Zegerid with clopidogrel.
-When using Zegerid, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+Avoid concomitant administration of ZEGERID with clopidogrel.
+When using ZEGERID, consider use of alternative anti-platelet therapy.
+[See Pharmacokinetics (12.3)]
 
 ## 7.6 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.7 Interactions With Investigations of Neuroendocrine Tumors
+## 7.7 Interactions with Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
+[See Clinical Pharmacology (12)].
 
 ## 7.8 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
 However, no formal drug interaction studies of methotrexate with PPIs have been conducted.
-[see Warnings and Precautions (5.10)].
+[See Warnings and Precautions (5.12)]

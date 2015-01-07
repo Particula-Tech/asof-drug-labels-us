@@ -2,7 +2,7 @@
 
 ZEGERID (omeprazole/sodium bicarbonate) is available as a capsule and as a powder for oral suspension in 20 mg and 40 mg strengths of omeprazole for adult use.
 Directions for use for each indication are summarized in Table 1.
-All recommended doses throughout the labeling are based upon omeprazole
+All recommended doses throughout the labeling are based upon omeprazole.
 
 Since both the 20 mg and 40 mg oral suspension packets contain the same amount of sodium bicarbonate (1680 mg), two packets of 20 mg are not equivalent to one packet of ZEGERID 40 mg; therefore, two 20 mg packets of ZEGERID should not be substituted for one packet of ZEGERID 40 mg.
 
@@ -22,10 +22,16 @@ Table 1: Recommended Doses of ZEGERID by Indication for Adults 18 Years and Olde
 | Symptomatic GERD (with no esophageal erosions) | 20 mg | Once daily for up to 4 weeks+ |
 | Erosive Esophagitis | 20 mg | Once daily for 4-8 weeks+ |
 | Maintenance of Healing of Erosive Esophagitis | 20 mg | Once daily** |
-| Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients (40 mg oral suspension only) | 40 mg | 40 mg initially followed by 40 mg 6-8 hours later and 40 mg daily thereafter for 14 days** |
-| * Most patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy. [See Clinical Studies (14.1)] |  |  |
-| ** For additional information, [See Clinical Studies (14)] |  |  |
-| + For additional information, [See Indications and Usage (1)] |  |  |
+| Reduction of Risk of Upper Gastrointestinal Bleeding in Critically Ill Patients(40 mg oral suspension only) | 40 mg | 40 mg initially followed by 40 mg 6-8 hours later and 40 mg daily thereafter for 14 days** |
+
+* Most patients heal within 4 weeks.
+Some patients may require an additional 4 weeks of therapy.
+[See Clinical Studies (14.1)]
+
+** Controlled studies do not extend beyond 12 months.
+[See Clinical Studies (14)]
+
++ For additional information, [See Indications and Usage (1)]
 
 Special Populations
 
@@ -50,5 +56,5 @@ Refill cup with water and drink.
 If ZEGERID is to be administered through a nasogastric (NG) or orogastric (OG) tube, the suspension should be constituted with approximately 20 mL of water.
 DO NOT USE OTHER LIQUIDS OR FOODS.
 Stir well and administer immediately.
-An appropriately-sized syringe should be used to instill the suspension in the tube.
+An appropriately‑sized syringe should be used to instill the suspension in the tube.
 The suspension should be washed through the tube with 20 mL of water.

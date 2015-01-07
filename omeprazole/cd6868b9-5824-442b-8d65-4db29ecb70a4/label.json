@@ -16,6 +16,11 @@
   "products": [
     {
       "form": "CAPSULE",
+      "generic": "omepraziole, sodium bicarbonate",
+      "name": "Zegerid"
+    },
+    {
+      "form": "CAPSULE",
       "generic": "omeprazole, sodium bicarbonate",
       "name": "Zegerid"
     },

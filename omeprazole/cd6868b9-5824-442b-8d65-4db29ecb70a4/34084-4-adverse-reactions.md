@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -9,7 +9,7 @@ Numbers in parentheses indicate percentages of the adverse reactions considered 
 
 Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole Therapy
 
-|  | Omeprazole (n = 465) | Placebo (n = 64) | Ranitidine (n = 195) |
+|  | Omeprazole(n = 465) | Placebo(n = 64) | Ranitidine(n = 195) |
 | --- | --- | --- | --- |
 | Headache | 6.9 (2.4) | 6.3 | 7.7 (2.6) |
 | Diarrhea | 3.0 (1.9) | 3.1 (1.6) | 2.1 (0.5) |
@@ -24,11 +24,13 @@ Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole The
 | Asthenia | 1.1 (0.2) | 1.6 (1.6) | 1.5 (1.0) |
 | Back Pain | 1.1 | 0.0 | 0.5 |
 
-Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
+Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole‑treated patients from international double‑blind, and open‑label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 3: Incidence of Adverse Reactions ≥ 1% Causal Relationship not Assessed
+Table 3: Incidence of Adverse Reactions ≥ 1%
 
-|  | Omeprazole (n = 2631) | Placebo (n = 120) |
+Causal Relationship not Assessed
+
+|  | Omeprazole(n = 2631) | Placebo(n = 120) |
 | --- | --- | --- |
 | Body as a Whole, site unspecified |  |  |
 | Abdominal pain | 5.2 | 3.3 |
@@ -48,9 +50,9 @@ The incidence and total number of AEs experienced by ≥ 3% of patients in eithe
 
 Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%) Adverse Events by Body System and Preferred Term
 
-|  | ZEGERID® (N=178) | Cimetidine (N=181) |
-| --- | --- | --- |
 | MedDRA Body System Preferred Term | All AEs n (%) | All AEs n (%) |
+| --- | --- | --- |
+|  | ZEGERID® (N=178) | Cimetidine (N=181) |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
 | Anemia NOS | 14 (7.9) | 14 (7.7) |
 | Anemia NOS Aggravated | 4 (2.2) | 7 (3.9) |
@@ -100,8 +102,7 @@ Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%
 | VASCULAR DISORDERS |  |  |
 | Hypertension NOS | 14 (7.9) | 6 (3.3) |
 | Hypotension NOS | 17 (9.6) | 12 (6.6) |
-| * Clinically significant upper gastrointestinal bleeding was considered a serious adverse event but it is not included in this table. |  |  |
-| NOS = Not otherwise specified. |  |  |
+| * Clinically significant upper gastrointestinal bleeding was considered a serious adverse event but it is not included in this table.NOS = Not otherwise specified. |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -115,10 +116,10 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, ele
 Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis and abdominal swelling.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
-Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
+Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long‑term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
-Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), γ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
+Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), γ‑glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
 In rare instances, overt liver disease has occurred, including hepatocellular, cholestatic, or mixed hepatitis, liver necrosis (some fatal), hepatic failure (some fatal), and hepatic encephalopathy.
 
 Infections and Infestations: Clostridium difficile associated diarrhea.
@@ -131,7 +132,7 @@ Nervous System/Psychiatric: Psychic disturbances including depression, agitation
 
 Respiratory: Epistaxis, pharyngeal pain.
 
-Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
+Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens‑Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
 
 Special Senses: Tinnitus, taste perversion.
 

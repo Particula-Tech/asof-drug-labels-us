@@ -1,6 +1,10 @@
 MEDICATION GUIDE
 
-ZEGERID (ze ger id) (omeprazole / sodium bicarbonate) Powder for Oral Suspension and Capsules
+ZEGERID (ze ger id)
+
+(omeprazole / sodium bicarbonate)
+
+Powder for Oral Suspension and Capsules
 
 Read this Medication Guide before you start taking ZEGERID and each time you get a refill.
 There may be new information.
@@ -14,14 +18,18 @@ Talk with your doctor.
 ZEGERID can cause serious side effects, including:
 
 - ZEGERID contains sodium bicarbonate.
-  Tell your doctor if you are on a sodium restricted diet or if you have Bartter's Syndrome (a rare kidney disorder).
-  Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
+  Tell your doctor if you are on a sodium restricted diet or if you have Bartter’s Syndrome (a rare kidney disorder).
+
+Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
+
 - Diarrhea.
   ZEGERID may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-  Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
+Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
 - Bone fractures.
-  People who take multiple daily doses of Proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
+  People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take ZEGERID exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
   Talk to your doctor about your risk of bone fracture if you take ZEGERID.
 
@@ -33,18 +41,20 @@ What is ZEGERID?
 ZEGERID is a prescription medicine called a proton pump inhibitor (PPI).
 ZEGERID reduces the amount of acid in your stomach.
 
-ZEGERID is used in adults for:
+ZEGERID is used in adults:
 
-- for 4 weeks to heal ulcers in the first part of the small bowel (duodenal ulcers).
+- 4 weeks to heal ulcers in the first part of the small bowel (duodenal ulcers).
   Your doctor may prescribe another 4 weeks of ZEGERID.
-- for up to 8 weeks for healing stomach ulcers
-- for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
-  GERD happens when acid from the stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
-  This may cause a burning feeling in your chest or throat, sour taste, or burping.
-- for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
+- up to 8 weeks for healing stomach ulcers.
+- up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
+
+GERD happens when acid from the stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
+This may cause a burning feeling in your chest or throat, sour taste, or burping.
+
+- for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
 - to maintain healing of the esophagus.
   It is not known if ZEGERID is safe and effective if used longer than 12 months (1 year).
-- to lower the risk of stomach bleeding in critically ill people(40 mg Oral Suspension only)
+- to lower the risk of stomach bleeding in critically ill people (40 mg Oral Suspension only).
 
 It is not known if ZEGERID is safe and effective in children less than 18 years of age.
 
@@ -60,10 +70,10 @@ What should I tell my doctor before I take ZEGERID?
 
 Before you take ZEGERID, tell your doctor if you:
 
-- have been told that you have low magnesium, calcium, or potassium levels in your blood.
+- have been told that you have low magnesium, calcium, or potassium levels in your blood
 - have liver problems
 - have heart failure
-- have Bartter's syndrome (a rare kidney disorder)
+- have Bartter’s syndrome (a rare kidney disorder)
 - have any allergies
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -74,11 +84,12 @@ Before you take ZEGERID, tell your doctor if you:
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take ZEGERID.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription drugs, anti-cancer drugs, vitamins and herbal supplements.
 ZEGERID may affect how other medicines work, and other medicines may affect how ZEGERID works.
 
 Especially tell your doctor if you take:
 
+- Mycophenolate mofetil (Cellcept)
 - diazepam (Valium®)
 - warfarin (Coumadin® Jantoven)
 - phenytoin (Dilantin®)
@@ -96,7 +107,7 @@ Especially tell your doctor if you take:
 - saquinavir (Fortovase®)
 - clarithromycin (Biaxin®, Biaxin XL)
 - clopidogrel (Plavix®)
-- St. John's Wort (Hypericum perforatum)
+- St. John’s Wort (Hypericum perforatum)
 - rifampin (Rifater, Rifamate, Rimactane, Rifadin)
 - methotrexate
 
@@ -140,21 +151,27 @@ ZEGERID may cause serious side effects, including:
   Taking ZEGERID for a long period of time may increase the risk of inflammation to your stomach lining.
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- Vitamin B-12 deficiency.
+  ZEGERID reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on ZEGERID for a long time (more than 3 years).
 - Low magnesium levels in your body.
   This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
-  Tell your doctor right away if you develop any of these symptoms:
-  - seizures
-  - dizziness
-  - abnormal or fast heartbeat
-  - jitteriness
-  - jerking movements or shaking (tremors)
-  - muscle weakness
-  - spasms of the hands and feet
-  - cramps or muscle aches
-  - spasm of the voice box
+
+Tell your doctor right away if you develop any of these symptoms:
+
+- seizures
+- dizziness
+- abnormal or fast heartbeat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking ZEGERID, or during treatment, if you will be taking ZEGERID for a long period of time.
 
@@ -194,8 +211,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store ZEGERID?
 
 - Store ZEGERID at room temperature between 59 °F to 86 °F (15 °C to 30 °C).
-- Keep ZEGRID Capsules in a tightly closed container.
-- Keep ZEGRID in a dry place and out of the light.
+- Keep ZEGERID Capsules in a tightly closed container.
+- Keep ZEGERID in a dry place and out of the light.
 
 Keep ZEGERID and all medicines out of the reach of children.
 
@@ -210,7 +227,7 @@ This Medication Guide summarizes the most important information about ZEGERID.
 If you would like more information, talk to your doctor.
 You can also ask your doctor or pharmacist for information about ZEGERID that is written for healthcare professionals.
 
-For more information, go to www.santarus.com or 1-888-778-0887.
+For more information, go to www.Salix.com or 1-800-508-0024.
 
 What are the ingredients in ZEGERID?
 
@@ -235,12 +252,14 @@ Giving ZEGERID Powder for Oral Suspension through a nasogastric tube (NG tube) o
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-ZEGERID® Capsules are manufactured for Santarus, Inc., San Diego, CA 92130 by Norwich Pharmaceuticals, Inc., North Norwich, NY 13814.
+ZEGERID® Capsules and Powder for Oral Suspension are manufactured for Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc. Raleigh, NC 27615
 
-ZEGERID® Powder for Oral Suspension is manufactured for Santarus, Inc. by Patheon Inc., Whitby, Ontario L1N 5Z5, Canada.
+This product is covered by U.S. Patent Nos: RE45,198; 6,780,882; 7,399,772.
 
-11/2012
+ZEGERID® is a registered trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc.
 
-ZEGERID® is a registered trademark of Santarus, Inc.
+2014 Santarus, Inc.
 
-© 2012 Santarus, Inc.
+REV NOV 2014
+
+VENART-xxxxxxx
