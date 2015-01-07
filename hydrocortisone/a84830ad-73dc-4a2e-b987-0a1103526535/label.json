@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA080706"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Crown Laboratories",
+  "package_ndcs": [
+    "0316-0186-01",
+    "0316-0186-03"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "hydrocortisone",
+      "name": "Hydrocortisone"
+    }
+  ],
+  "setid": "a84830ad-73dc-4a2e-b987-0a1103526535",
+  "source": "dailymed"
+}
