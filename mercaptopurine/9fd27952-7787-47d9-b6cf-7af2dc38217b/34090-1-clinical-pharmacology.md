@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -28,7 +28,7 @@ One is thiol methylation, which is catalyzed by the polymorphic enzyme thiopurin
 The second inactivation pathway is oxidation, which is catalyzed by xanthine oxidase.
 The product of oxidation is the inactive metabolite 6-thiouric acid.
 Elimination Following administration of PURIXAN, the elimination half-life (t1/2) was approximately 2 hours.
-After oral administration of 35S-6-mercaptopurine, urine contains intact mercaptopurine, thiouric acid (formed by direct oxidation by xanthine oxidase, probably via 6-mercapto-8-hydroxypurine), and a number of 6-methylated thiopurines.
+After oral administration of mercaptopurine, urine contains intact mercaptopurine, thiouric acid (formed by direct oxidation by xanthine oxidase, probably via 6-mercapto-8-hydroxypurine), and a number of 6-methylated thiopurines.
 In one subject, a total of 46% of the dose could be accounted for in the urine (as parent drug and metabolites) in the first 24 hours.
 
 ## 12.5 Pharmacogenomics

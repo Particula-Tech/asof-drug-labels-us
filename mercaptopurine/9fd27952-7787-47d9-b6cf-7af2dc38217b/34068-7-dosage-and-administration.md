@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 Maintenance Therapy
 
@@ -14,24 +14,25 @@ Most patients with heterozygous TPMT deficiency tolerated recommended mercaptopu
 
 ## 2.3 Administration Instructions
 
+Prior to initiation of Purixan and on each visit to the clinic, train patients or caregivers on proper handling, storage, administration, disposal and clean-up of accidental spillage of the medication.
+Since Purixan is supplied with 1 mL and 5 mL oral dispensing syringes, provide appropriate instructions regarding which syringe to use and how to administer a specified dose.
 The bottle should be shaken vigorously for at least 30 seconds to ensure the oral suspension is well mixed.
 PURIXAN is a pink to brown viscous oral suspension.
 Once opened, PURIXAN should be used within 6 weeks.
-Dosing devices are not included with the product.
-The pharmacist should provide a commercially available oral syringe and suitable adaptor (if available), based on the dosing requirement for an individual patient.
-If the syringe is intended for multiple use, instruct patients and caregivers to: wash the syringe with warm ‘soapy’ water and rinse well; hold the syringe under water and move the plunger up and down several times to make sure the inside of the syringe is clean; ensure the syringe is completely dry before use of the syringe again for dosing; and store the syringe in a hygienic place with the medicine.
+A press-in bottle adapter and two oral dispensing syringes (one 1 mL and one 5 mL) are provided.
+The oral dispensing syringe is intended for multiple use: wash the oral dispensing syringe with warm ‘soapy’ water and rinse well; hold the oral dispensing syringe under water and move the plunger up and down several times to make sure the inside of the oral dispensing syringe is clean; ensure the oral dispensing syringe is completely dry before use of the oral dispensing syringe again for dosing; and store the oral dispensing syringe in a hygienic place with the medicine.
 PURIXAN is a cytotoxic drug.
 Follow special handling and disposal procedures.1
 
-## 3 DOSAGE FORMS AND STRENGTHS
+## 3. DOSAGE FORMS AND STRENGTHS
 
 Oral Suspension: 2000 mg/100 mL (20 mg/mL) - pink to brown in color.
 
-## 4 CONTRAINDICATIONS
+## 4. CONTRAINDICATIONS
 
 - None.
 
-## 5 WARNINGS AND PRECAUTIONS
+## 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Myelosuppression
 
@@ -41,8 +42,7 @@ Evaluate patients with repeated severe myelosuppression for thiopurine S-methylt
 Patients with homozygous-TPMT deficiency require substantial dose reductions of PURIXAN [see Dosage and Administration (2.1), and Clinical Pharmacology (12.5)].
 Avoid the concurrent use of allopurinol and PURIXAN.
 Concomitant allopurinol and PURIXAN can result in a significant increase in bone marrow toxicity.
-Myelosuppression can be exacerbated by coadministration with drugs that inhibit TPMT (e.g., olsalazine, mesalamine, or sulfasalazine) or drugs whose primary or secondary toxicity is myelosuppression.
-[see Drug Interactions (7.1, 7.3 and 7.4).]
+Myelosuppression can be exacerbated by coadministration with drugs that inhibit TPMT (e.g., olsalazine, mesalamine, or sulfasalazine) or drugs whose primary or secondary toxicity is myelosuppression [see Drug Interactions (7.1, 7.3 and 7.4)].
 
 ## 5.2 Hepatotoxicity
 
@@ -84,7 +84,7 @@ Monitor the following laboratory tests in patients receiving PURIXAN: Complete b
 Evaluate the bone marrow in patients with prolonged or repeated marrow suppression to assess leukemia status and marrow cellularity.
 Evaluate TPMT status in patients with clinical or laboratory evidence of severe bone marrow toxicity, or repeated episodes of myelosuppression.
 
-## 6 ADVERSE REACTIONS
+## 6. ADVERSE REACTIONS
 
 The following serious adverse reactions are described elsewhere in the prescribing information:
 
@@ -106,7 +106,7 @@ Delayed or late toxicities include hepatic fibrosis, hyperbilirubinemia, alopeci
 Drug fever has been very rarely reported with PURIXAN.
 Before attributing fever to PURIXAN, every attempt should be made to exclude more common causes of pyrexia, such as sepsis, in patients with acute leukemia.
 
-## 7 DRUG INTERACTIONS
+## 7. DRUG INTERACTIONS
 
 Certain drugs have been shown to interact with PURIXAN through pharmacokinetic and pharmacodynamic mechanisms.
 Interactions known to decrease the clearance of PURIXAN include inhibition of first-pass oxidative metabolism by xanthine oxidase and inhibition of thiopurine methyltransferase (TPMT).
@@ -134,7 +134,7 @@ Monitor CBC and adjust the dose of PURIXAN for severe neutropenia and thrombocyt
 Concurrent use of PURIXAN and aminosalicylate derivatives (e.g., olsalazine, mesalamine, or sulfasalazine) may inhibit the TPMT enzyme, resulting in an increased risk of bone marrow suppression.
 Should aminosalicylate derivatives and PURIXAN be coadministered, use the lowest possible doses of each drug and closely monitor the patient for bone marrow suppression [see Warnings and Precautions (5.1)].
 
-## 8 USE IN SPECIFIC POPULATIONS
+## 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -175,4 +175,4 @@ Subsequent PURIXAN doses should be adjusted based on efficacy and toxicity [see 
 
 No formal clinical or pharmacokinetic studies have been conducted in patients with hepatic impairment.
 Mercaptopurine is hepatotoxic.
-In patients with baseline hepatic impairment, starting at the low end of the PURIXAN dose range should be considered and patients should be monitored for toxicity [see Dosage and Administration (2.1) and Warnings and Precautions (5.1,5.2)].
+In patients with baseline hepatic impairment, starting at the low end of the PURIXAN dose range should be considered and patients should be monitored for toxicity [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.2)].

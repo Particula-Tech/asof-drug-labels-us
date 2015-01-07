@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10. OVERDOSAGE
 
 Signs and symptoms of mercaptopurine overdosage may be immediate (anorexia, nausea, vomiting, and diarrhea); or delayed (myelosuppression, liver dysfunction, and gastroenteritis).
 Dialysis cannot be expected to clear mercaptopurine.
