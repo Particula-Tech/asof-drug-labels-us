@@ -119,35 +119,6 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - Tablets - Bottle Label 10 mg
 
-Singulair® 10 mg (Montelukast Sodium) TABLETS
-
-For Adults 15 Years of Age and Older
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Montelukast Sodium (active ingred.)
-Made in Ireland Formulated in UK
-
-Each tablet contains 10.4 mg Montelukast Sodium equivalent to 10 mg Montelukast.
-
-30 Tablets
-
-NDC 0006-0117-31
-
-Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-Protect from moisture and light.
-Store in original package.
-
-USUAL DOSAGE: See accompanying circular.
-
-Rx only
-
-9916200 30 | No. 3761
-
-PRINCIPAL DISPLAY PANEL - Tablets - Bottle Label 10 mg
-
 NDC 0006-9117-31
 
 Singulair® (Montelukast Sodium) Tablets
