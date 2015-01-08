@@ -8,6 +8,4 @@ Vaseretic® (Enalapril Maleate – Hydrochlorothiazide)
 
 100 Tablets
 
-Rx ONLY
-
-VALEANT Pharmaceuticals North America LLC
+RxONLY
