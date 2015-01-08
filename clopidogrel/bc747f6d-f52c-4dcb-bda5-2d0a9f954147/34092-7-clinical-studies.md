@@ -16,7 +16,7 @@ The number of patients experiencing the primary outcome (CV death, MI, or stroke
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
-| Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate. (n = 6259) | Placebo (+ aspirin)(n = 6303) | Relative Risk Reduction (%) (95% CI) |
+| Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate. (n = 6259) | Placebo (+ aspirin) (n = 6303) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- |
 | Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
 | All Individual Outcome Events: The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
@@ -26,10 +26,14 @@ Table 4: Outcome Events in the CURE Primary Analysis
 
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
+Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE Study
+
 In CURE, the use of clopidogrel was associated with a lower incidence of CV death, MI or stroke in patient populations with different characteristics, as shown in Figure 3.
 The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
 The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+
+Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
 
 The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
 The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the clopidogrel group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
@@ -55,7 +59,11 @@ Table 5: Outcome Events in the COMMIT Analysis
 | Non-fatal MINon-fatal MI and non-fatal stroke exclude patients who died (of any cause). | 270 (1.2%) | 330 (1.4%) | 0.81 (0.69, 0.95) | 0.011 |
 | Non-fatal Stroke | 127 (0.6%) | 142 (0.6%) | 0.89 (0.70, 1.13) | 0.33 |
 
+Figure 4: Cumulative Event Rates for Death in the COMMIT Study*
+
 * All treated patients received aspirin.
+
+Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study*
 
 * All treated patients received aspirin.
 
@@ -63,7 +71,11 @@ The effect of clopidogrel did not differ significantly in various pre-specified 
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history (see Figure 7).
 Such subgroup analyses should be interpreted cautiously.
 
+Figure 6: Effects of Adding Clopidogrel to Aspirin on the Combined Primary Endpoint Across Baseline and Concomitant Medication Subgroups for the COMMIT Study
+
 * Three similar-sized prognostic index groups were based on absolute risk of primary composite outcome for each patient calculated from baseline prognostic variables (excluding allocated treatments) with a Cox regression model.
+
+Figure 7: Effects of Adding Clopidogrel to Aspirin in the Non-Prespecified Subgroups in the COMMIT Study
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
 
@@ -93,6 +105,8 @@ In patients who survived an on-study stroke or myocardial infarction, the incide
 
 The curves showing the overall event rate are shown in Figure 8.
 The event curves separated early and continued to diverge over the 3 year follow-up period.
+
+Figure 8: Fatal or Non-Fatal Vascular Events in the CAPRIE Study
 
 The statistical significance favoring clopidogrel over aspirin was marginal (p = 0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel is substantial.

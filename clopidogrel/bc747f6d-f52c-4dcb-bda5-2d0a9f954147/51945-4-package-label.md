@@ -1,4 +1,4 @@
-# Principal Display Panel
+# Package/Label Display Panel
 
 ## Clopidogrel Tablets USP 75 mg 30s Label Text
 

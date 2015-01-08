@@ -1,6 +1,8 @@
-# medication guide
+# MEDICATION GUIDE
 
 Clopidogrel Tablets USP
+
+(kloe-PID-oh-grel)
 
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
@@ -11,9 +13,9 @@ What is the most important information I should know about clopidogrel tablets?
 1.
 Clopidogrel tablets may not work as well in people who:
 
-- have certain genetic factors that affect how the body breaks down clopidogrel tablets.
+- •have certain genetic factors that affect how the body breaks down clopidogrel tablets.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
-- take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
+- •take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
@@ -21,18 +23,18 @@ Clopidogrel tablets can cause bleeding which can be serious and can sometimes le
 Clopidogrel tablets are a blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
-- you may bruise and bleed more easily
-- you are more likely to have nose bleeds
-- it will take longer for any bleeding to stop
+- •you may bruise and bleed more easily
+- •you are more likely to have nose bleeds
+- •it will take longer for any bleeding to stop
 
 Call your doctor right away if you have any of these signs or symptoms of bleeding:
 
-- unexpected bleeding or bleeding that lasts a long time
-- blood in your urine (pink, red or brown urine)
-- red or black stools (looks like tar)
-- bruises that happen without a known cause or get larger
-- cough up blood or blood clots
-- vomit blood or your vomit looks like coffee grounds
+- •unexpected bleeding or bleeding that lasts a long time
+- •blood in your urine (pink, red or brown urine)
+- •red or black stools (looks like tar)
+- •bruises that happen without a known cause or get larger
+- •cough up blood or blood clots
+- •vomit blood or your vomit looks like coffee grounds
 
 Do not stop taking clopidogrel tablets without talking to the doctor who prescribes them for you.
 People who stop taking clopidogrel tablets too soon have a higher risk of having a heart attack or dying.
@@ -42,10 +44,10 @@ What are clopidogrel tablets?
 
 Clopidogrel tablets are a prescription medicine used to treat people who have any of the following:
 
-- chest pain due to heart problems
-- poor circulation in their legs (peripheral arterial disease)
-- a heart attack
-- a stroke
+- •chest pain due to heart problems
+- •poor circulation in their legs (peripheral arterial disease)
+- •a heart attack
+- •a stroke
 
 Clopidogrel tablets are used alone or with aspirin to lower your chance of having another serious problem with your heart or blood vessels such as heart attack, stroke, or blood clot that can lead to death.
 
@@ -58,25 +60,25 @@ Who should not take clopidogrel tablets?
 
 Do not take clopidogrel tablets if you:
 
-- currently have a condition that causes bleeding, such as a stomach ulcer
-- are allergic to clopidogrel or other ingredients in clopidogrel tablets.
+- •currently have a condition that causes bleeding, such as a stomach ulcer
+- •are allergic to clopidogrel or other ingredients in clopidogrel tablets.
   See the end of this leaflet for a complete list of ingredients in clopidogrel tablets.
 
 What should I tell my doctor before taking clopidogrel tablets?
 
 Before you take clopidogrel tablets, tell your doctor if you:
 
-- have a history of bowel (gastrointestinal) or stomach ulcers
-- have a history of bleeding problems
-- plan to have surgery or a dental procedure.
+- •have a history of bowel (gastrointestinal) or stomach ulcers
+- •have a history of bleeding problems
+- •plan to have surgery or a dental procedure.
   See “How should I take clopidogrel tablets?”
-- are pregnant or plan to become pregnant.
+- •are pregnant or plan to become pregnant.
   It is not known if clopidogrel tablets will harm your unborn baby
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel passes into your breast milk.
   You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
   You should not do both without talking to your doctor.
-- have had an allergy or reaction to any medicine used to treat your disease.
+- •have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
 They should talk to the doctor who prescribed clopidogrel tablets for you before you have any surgery or invasive procedure.
@@ -89,12 +91,12 @@ See “What is the most important information I should know about clopidogrel ta
 Taking clopidogrel tablets with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
 
-- aspirin, especially if you have had a stroke.
+- •aspirin, especially if you have had a stroke.
   Always talk to your doctor about whether you should take aspirin along with clopidogrel tablets to treat your condition.
-- Non-steroidal anti-inflammatory drugs (NSAIDs).
+- •Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
-- warfarin (Coumadin®, Jantoven®)
-- selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
+- •warfarin (Coumadin®, Jantoven®)
+- •selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
 Know the medicines you take.
@@ -102,45 +104,45 @@ Keep a list of them to show your doctor or pharmacist when you get a new medicin
 
 How should I take clopidogrel tablets?
 
-- Take clopidogrel tablets exactly as your doctor tells you.
-- Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
+- •Take clopidogrel tablets exactly as your doctor tells you.
+- •Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
-- Take clopidogrel tablets with aspirin as instructed by your doctor.
-- You can take clopidogrel tablets with or without food.
-- If you miss a dose, take clopidogrel tablets as soon as you remember.
+- •Take clopidogrel tablets with aspirin as instructed by your doctor.
+- •You can take clopidogrel tablets with or without food.
+- •If you miss a dose, take clopidogrel tablets as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses of clopidogrel tablets at the same time unless your doctor tells you to.
-- If you take too many clopidogrel tablets, call your doctor or go to the nearest emergency room right away.
-- Talk with your doctor about stopping your clopidogrel tablets before you have surgery.
+- •If you take too many clopidogrel tablets, call your doctor or go to the nearest emergency room right away.
+- •Talk with your doctor about stopping your clopidogrel tablets before you have surgery.
   Your doctor may tell you to stop taking clopidogrel tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
 What are the possible side effects of clopidogrel tablets?
 
 Clopidogrel tablets can cause serious side effects including:
 
-- See “What is the most important information I should know about clopidogrel tablets?”
-- A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
+- •See “What is the most important information I should know about clopidogrel tablets?”
+- •A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
   TTP can happen with clopidogrel tablets, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
   TTP needs to be treated in a hospital right away, because it may cause death.
   Get medical help right away if you have any of these symptoms and they can not be explained by another medical condition:
-  - purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
-  - your skin or the whites of your eyes are yellow (jaundice)
-  - you feel tired or weak
-  - your skin looks very pale
-  - fever
-  - fast heart rate or feeling short of breath
-  - headache
-  - speech changes
-  - confusion
-  - coma
-  - stroke
-  - seizure
-  - low amount of urine, or urine that is pink or has blood in it
-  - stomach area (abdominal) pain
-  - nausea, vomiting, or diarrhea
-  - vision changes
+  - •purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
+  - •your skin or the whites of your eyes are yellow (jaundice)
+  - •you feel tired or weak
+  - •your skin looks very pale
+  - •fever
+  - •fast heart rate or feeling short of breath
+  - •headache
+  - •speech changes
+  - •confusion
+  - •coma
+  - •stroke
+  - •seizure
+  - •low amount of urine, or urine that is pink or has blood in it
+  - •stomach area (abdominal) pain
+  - •nausea, vomiting, or diarrhea
+  - •vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
@@ -153,7 +155,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store clopidogrel tablets?
 
-- Store clopidogrel tablets at 20° to 25°C (68° to 77°F).
+- •Store clopidogrel tablets at 20° to 25°C (68° to 77°F).
 
 Keep clopidogrel tablets and all medicines out of the reach of children.
 
@@ -178,20 +180,20 @@ Inactive ingredients: crospovidone, hydrogenated vegetable oil, hydroxypropyl ce
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, INC.
 
 Manufactured In Israel By:
 
 TEVA PHARMACEUTICAL IND.
 LTD.
 
-Jerusalem, 91010, Israel
+Jerusalem, 9777402, Israel
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-B 12/2013
+C 11/2014
