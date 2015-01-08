@@ -7,13 +7,17 @@ The active substance is tbo-filgrastim.
 
 GRANIX 300 mcg/0.5 mL: Each prefilled syringe contains 300 mcg of tbo-filgrastim in 0.5 mL solution with a blue plunger in:
 
-- Packs of 1 with a safety needle guard in blisters: NDC 63459-910-11
-- Packs of 10 with a safety needle guard in blisters: NDC 63459-910-15
+- •Pack of 1 with a safety needle guard in blister: NDC 63459-910-11
+- •Packs of 10 with a safety needle guard in blisters: NDC 63459-910-15
+- •Pack of 1 without a safety needle guard (for patients and caregivers): NDC 63459-910-17
+- •Packs of 5 without a safety needle guard (for patients and caregivers): NDC 63459-910-36
 
 GRANIX 480 mcg/0.8 mL: Each prefilled syringe contains 480 mcg of tbo-filgrastim in 0.8 mL solution with a clear plunger in:
 
-- Packs of 1 with a safety needle guard in blisters: NDC 63459-912-11
-- Packs of 10 with a safety needle guard in blisters: NDC 63459-912-15
+- •Pack of 1 with a safety needle guard in blister: NDC 63459-912-11
+- •Packs of 10 with a safety needle guard in blisters: NDC 63459-912-15
+- •Pack of 1 without a safety needle guard (for patients and caregivers): NDC 63459-912-17
+- •Packs of 5 without a safety needle guard (for patients and caregivers): NDC 63459-912-36
 
 GRANIX syringes should be stored in a refrigerator at 36° to 46° F (2° to 8° C). Protect from light.
 Within its shelf life, the product may be removed from 36° to 46° F (2° to 8° C) storage for a single period of up to 5 days between 73° to 81° F (23° to 27° C). If not used within 5 days, the product may be returned to 36° to 46° F (2° to 8° C) up to the expiration date.

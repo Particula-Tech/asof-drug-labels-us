@@ -25,7 +25,13 @@ Severe and sometimes fatal sickle cell crises can occur in patients with sickle 
 Consider the potential risks and benefits prior to the administration of human granulocyte colony-stimulating factors in patients with sickle cell disease.
 Discontinue GRANIX in patients undergoing a sickle cell crisis.
 
-## 5.5 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
+## 5.5 Capillary Leak Syndrome
 
-The granulocyte colony-stimulating factor (G-CSF) receptor through which GRANIX acts has been found on tumor cell lines.
+Capillary leak syndrome (CLS) can occur in patients receiving human granulocyte colony-stimulating factors and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration.
+Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
+Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
+
+## 5.6 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
+
+The granulocyte colony-stimulating factor (G‑CSF) receptor through which GRANIX acts has been found on tumor cell lines.
 The possibility that GRANIX acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which GRANIX is not approved, cannot be excluded.

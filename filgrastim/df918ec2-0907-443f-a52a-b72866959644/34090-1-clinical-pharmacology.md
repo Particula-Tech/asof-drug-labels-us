@@ -11,6 +11,10 @@ G-CSF is known to stimulate differentiation commitment and some end-cell functio
 In the clinical trials of patients with cancer, the time to the ANCmax was between 3 to 5 days and returned to baseline by 21 days following completion of chemotherapy.
 In the healthy volunteer trials, doubling the tbo-filgrastim subcutaneous dose from 5 to 10 mcg/kg resulted in a 16%-19% increase in the ANCmax and a 33%-36% increase in the area under the effect curve for ANC.
 
+Cardiac Electrophysiology
+
+At the maximum recommended intravenous dose of 5 μg/kg, tbo-filgrastim did not prolong the QT interval to any clinically relevant extent.
+
 ## 12.3 Pharmacokinetics
 
 In healthy subjects, the absolute bioavailability of 5 mcg/kg subcutaneous tbo-filgrastim was 33%.
@@ -30,7 +34,3 @@ Renal Impairment: Mild renal impairment (creatinine clearance 60 - 89 mL/min) ha
 The pharmacokinetic profile in patients with moderate and severe renal impairment has not been assessed.
 
 Hepatic Impairment: The pharmacokinetic profile in patients with hepatic impairment has not been assessed.
-
-## 12.6 QT/QTc Prolongation
-
-The potential effects of GRANIX on the QTc interval were not adequately evaluated in clinical trials.

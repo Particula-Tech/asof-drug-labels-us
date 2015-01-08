@@ -1,68 +1,14 @@
-# Principal Display Panel for NDC 63459-910-12
+# Package/Label Display Panel
 
-GranixTM (tbo-filgrastim)
-
-Injection
-
-300 mcg/0.5 mL
-
-For Subcutaneous Use Only
-
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E coli
-
-Inactive Ingredients: glacial acetic acid, sorbitol, polysorbate 80, and Water for Injection
-
-Storage Conditions: Keep refrigerated (36° -46°F/2° -8°C)
-
-Single-use prefilled syringe with safety needle guard
-
-Discard unused portion
-
-Rx only
-
-NDC 63459-910-12
-
-300 mcg/0.5 mL
-
-Manufactured by:
-
-Sicor Biotech UAB
-
-Vilnius, Lithuania
-
-U.S. License No. 1803
-
-TEVA logo
-
-# Principal Display Panel for NDC 63459-910-11
-
-GranixTM (tbo-filgrastim)
-
-Injection
-
-300 mcg/0.5 mL
-
-For Subcutaneous Use Only
-
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E coli
-
-1 Single-use prefilled syringe with safety needle guard
-
-Discard unused portion
+## Granix® (tbo-filgrastim) Injection 300 mcg/0.5mL with Safety Needle Guard, 1s Carton Text
 
 NDC 63459-910-11
 
 Rx only
 
-300 mcg/0.5 mL
+Granix®
 
-TEVA Oncology logo
-
-# Principal Display Panel for NDC 63459-910-15
-
-NDC 63459-910-15
-
-GranixTM (tbo-filgrastim)
+(tbo-filgrastim)
 
 Injection
 
@@ -70,83 +16,71 @@ Injection
 
 For Subcutaneous Use Only
 
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E coli
+A recombinant Granulocyte Colony-Stimulating Factor
+
+(rG-CSF) derived from E Coli
+
+300 mcg/0.5 mL
+
+For Healthcare Professional Use Only
+
+1
+
+Single-use prefilled syringe
+
+with a safety needle guard
+
+Discard unused portion
+
+TEVA
+
+# Package/Label Display Panel, Part 1 of 2
+
+# Package/Label Display Panel, Part 2 of 2
+
+## Granix® (tbo-filgrastim) Injection 300 mcg/0.5mL without Safety Needle Guard, 1s Carton Text
+
+Granix®
+
+(tbo-filgrastim)
+
+Injection
+
+300 mcg/0.5 mL
+
+For Subcutaneous Use Only
+
+A recombinant Granulocyte Colony-Stimulating
+
+Factor (rG-CSF) derived from E Coli
+
+1
+
+Single-use prefilled syringe
+
+WITHOUT a safety needle guard
+
+NDC 63459-910-17
 
 Rx only
 
-10 Single-use prefilled syringe with safety needle guard
-
 Discard unused portion
 
 300 mcg/0.5 mL
 
-TEVA Oncology logo
+TEVA
 
-# Principal Display Panel for NDC 63459-912-12
+# Package/Label Display Panel
 
-GranixTM (tbo-filgrastim)
-
-Injection
-
-480 mcg/0.8 mL
-
-For Subcutaneous Use Only
-
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E coli
-
-Inactive Ingredients: glacial acetic acid, sorbitol, polysorbate 80, and Water for Injection
-
-Storage Conditions: Keep refrigerated (36° -46°F/2° -8°C)
-
-Single-use prefilled syringe with safety needle guard
-
-Discard unused portion
-
-Rx only
-
-NDC 63459-912-12
-
-480 mcg/0.8 mL
-
-Manufactured by:
-
-Sicor Biotech UAB
-
-Vilnius, Lithuania
-
-U.S. License No. 1803
-
-TEVA logo
-
-# Principal Display Panel for NDC 63459-912-11
-
-GranixTM (tbo-filgrastim)
-
-Injection
-
-480 mcg/0.8 mL
-
-For Subcutaneous Use Only
-
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E coli
-
-1 Single-use prefilled syringe with safety needle guard
-
-Discard unused portion
+## Granix® (tbo-filgrastim) Injection 480 mcg/0.8mL with Safety Needle Guard, 1s Carton Text
 
 NDC 63459-912-11
 
 Rx only
 
-480 mcg/0.8 mL
+Granix®
 
-TEVA Oncology logo
-
-# Principal Display Panel for NDC 63459-912-15
-
-NDC 63459-912-15
-
-GranixTM (tbo-filgrastim)
+(tbo-filgrastim)
 
 Injection
 
@@ -154,14 +88,56 @@ Injection
 
 For Subcutaneous Use Only
 
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E coli
+A recombinant Granulocyte Colony-Stimulating Factor
+
+(rG-CSF) derived from E Coli
+
+480 mcg/0.8 mL
+
+For Healthcare Professional Use Only
+
+1
+
+Single-use prefilled syringe
+
+with a safety needle guard
+
+Discard unused portion
+
+TEVA
+
+# Package/Label Display Panel, Part 1 of 2
+
+# Package/Label Display Panel, Part 2 of 2
+
+## Granix® (tbo-filgrastim) Injection 480 mcg/0.8mL without Safety Needle Guard, 1s Carton Text
+
+Granix®
+
+(tbo-filgrastim)
+
+Injection
+
+480 mcg/0.8 mL
+
+For Subcutaneous Use Only
+
+A recombinant Granulocyte Colony-Stimulating
+
+Factor (rG-CSF) derived from E Coli
+
+1
+
+Single-use prefilled syringe
+
+WITHOUT a safety needle guard
+
+NDC 63459-912-17
 
 Rx only
-
-10 Single-use prefilled syringe with safety needle guard
 
 Discard unused portion
 
 480 mcg/0.8 mL
 
-TEVA Oncology logo
+TEVA

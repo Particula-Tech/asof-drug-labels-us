@@ -11,9 +11,16 @@ Monitor complete blood count (CBC) prior to chemotherapy and twice per week unti
 
 ## 2.2 General Considerations for Administration
 
-GRANIX should be administered by a healthcare professional.
+GRANIX may be administered by either a healthcare professional or by a patient or caregiver.
+Before a decision is made to allow GRANIX to be administered by a patient or caregiver, ensure that the patient is an appropriate candidate for self-administration or administration by a caregiver.
+Proper training on storage, preparation, and administration technique should be provided.
+If a patient or caregiver is not an appropriate candidate for any reason, then in such patients, GRANIX should be administered by a healthcare professional.
+
+Dispense only the pre-filled syringe without a safety needle guard device to patient or caregiver.
+Instruct patients and caregivers to follow the Instructions for Use provided with the GRANIX pre-filled syringe to properly administer an injection after training by a healthcare professional.
 
 Visually inspect parenteral drug products for particulate matter and discoloration prior to administration.
+
 Do not administer GRANIX if discoloration or particulates are observed.
 
 The prefilled syringe is for single use only.
@@ -23,7 +30,7 @@ Recommended sites for subcutaneous GRANIX injections include the abdomen (except
 The injection site should be varied daily.
 GRANIX should not be injected into an area that is tender, red, bruised or hard, or that has scars or stretch marks.
 
-## 2.3 Instructions for Use of the Safety Needle Guard Device
+## 2.3 Instructions for Use of the Safety Needle Guard Device by Healthcare Professionals
 
 Hold the syringe assembly by the open sides of the device and remove the needle shield.
 

@@ -1,12 +1,18 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following potential serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Splenic Rupture [see Warnings and Precautions (5.1)]
-- Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
-- Serious Allergic Reactions [see Warnings and Precautions (5.3)]
-- Use in Patients with Sickle Cell Disease [see Warnings and Precautions (5.4)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.5)]
+• Splenic Rupture [see Warnings and Precautions (5.1)]
+
+• Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
+
+• Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+
+• Use in Patients with Sickle Cell Disease [see Warnings and Precautions (5.4)]
+
+• Capillary Leak Syndrome [see Warnings and Precautions (5.5)]
+
+• Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.6)]
 
 The most common treatment-emergent adverse reaction that occurred at an incidence of at least 1% or greater in patients treated with GRANIX at the recommended dose and was numerically two times more frequent than in the placebo group was bone pain.
 
@@ -22,12 +28,16 @@ In all three studies a placebo (Cycle 1 of the breast cancer study only) or a no
 Both GRANIX and the non-US-approved filgrastim product were administered at 5 mcg/kg subcutaneously once daily beginning one day after chemotherapy for at least five days and continued to a maximum of 14 days or until an ANC of ≥10,000 x 106/L after nadir was reached.
 
 Bone pain was the most frequent treatment-emergent adverse reaction that occurred in at least 1% or greater in patients treated with GRANIX at the recommended dose and was numerically two times more frequent than in the placebo group.
-The overall incidence of bone pain in Cycle 1 of treatment was 3.4% (3.4% GRANIX, 1.4% placebo, 7.5% non-US-approved filgrastim product).
+Theoverall incidence of bone pain in Cycle 1 of treatment was 3.4% (3.4% GRANIX, 1.4% placebo, 7.5% non-US-approved filgrastim product).
 
 Leukocytosis
 
 In clinical studies, leukocytosis (WBC counts > 100,000 x 106/L) was observed in less than 1% patients with non-myeloid malignancies receiving GRANIX.
 No complications attributable to leukocytosis were reported in clinical studies.
+
+Additional Adverse Reactions
+
+Other adverse reactions known to occur following administration of human granulocyte colony-stimulating factors include myalgia, headache, vomiting, Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis and thrombocytopenia.
 
 ## 6.2 Immunogenicity
 

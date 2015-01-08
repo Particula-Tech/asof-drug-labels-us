@@ -4,15 +4,21 @@
 
 Pregnancy Category C
 
+Risk Summary
+
 There are no adequate and well-controlled studies of GRANIX in pregnant women.
-In an embryofetal developmental study, treatment of pregnant rabbits with tbo-filgrastim resulted in adverse embryofetal findings, including increased spontaneous abortion and fetal malformations at a maternally toxic dose.
+In animal reproduction studies, treatment of pregnant rabbits with tbo-filgrastim resulted in increased spontaneous abortion and fetal malformations at systemic exposures substantially higher than the human exposure.
 GRANIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In the embryofetal developmental study, pregnant rabbits were administered subcutaneous doses of tbo-filgrastim during the period of organogenesis at 1, 10 and 100 mcg/kg/day.
+Animal Data
+
+In an embryofetal developmental study, pregnant rabbits were administered subcutaneous doses of tbo-filgrastim during the period of organogenesis at 1, 10 and 100 mcg/kg/day.
 Increased abortions were evident in rabbits treated with tbo-filgrastim at 100 mcg/kg/day.
 This dose was maternally toxic as demonstrated by reduced body weight.
 Other embryofetal findings at this dose level consisted of post-implantation loss‚ decrease in mean live litter size and fetal weight, and fetal malformations such as malformed hindlimbs and cleft palate.
-The dose of 100 mcg/kg/day corresponds to a systemic exposure (AUC0-24) of approximately 50-90 times the exposures observed in patients treated with the clinical tbo-filgrastim dose of 5 mcg/kg/day.
+The dose of 100 mcg/kg/day corresponds to a systemic exposure (AUC) of approximately 50-90 times the exposures observed in patients treated with the clinical tbo-filgrastim
+
+dose of 5 mcg/kg/day.
 
 ## 8.3 Nursing Mothers
 
