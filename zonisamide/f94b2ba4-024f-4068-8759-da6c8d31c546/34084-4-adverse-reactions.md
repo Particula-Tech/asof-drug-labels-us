@@ -7,7 +7,7 @@ Approximately 21% of the 1,336 patients with epilepsy who received ZONEGRAN in c
 The adverse events most commonly associated with discontinuation were somnolence, fatigue and/or ataxia (6%), anorexia (3%), difficulty concentrating (2%), difficulty with memory, mental slowing, nausea/vomiting (2%), and weight loss (1%).
 Many of these adverse events were dose-related (see WARNINGS and PRECAUTIONS).
 
-## Adverse Event Incidence in Controlled Clinical Trials
+## Adverse Event Incidence in Controlled Clinical Trials:
 
 Table 4 lists treatment-emergent adverse events that occurred in at least 2% of patients treated with ZONEGRAN in controlled clinical trials that were numerically more common in the ZONEGRAN group.
 In these studies, either ZONEGRAN or placebo was added to the patient's current AED therapy.
@@ -70,7 +70,7 @@ Incidence (%) of Treatment-Emergent Adverse Events in Placebo-Controlled, Add-On
 |  | Diplopia | 6 | 3 |
 |  | Taste Perversion | 2 | 0 |
 
-## Other Adverse Events Observed During Clinical Trials
+## Other Adverse Events Observed During Clinical Trials:
 
 ZONEGRAN has been administered to 1,598 individuals during all clinical trials, only some of which were placebo-controlled.
 During these trials, all events were recorded by the investigators using their own terms.
@@ -101,7 +101,7 @@ Musculoskeletal: Infrequent: Leg cramps, myalgia, myasthenia, arthralgia, arthri
 
 Nervous System: Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
 Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, reflexes increased.
-Rare: Dyskinesia, Circumoral paresthesia, dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
+Rare: Dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
 
 Behavioral Abnormalities -Non-Psychosis-Related: Infrequent: Euphoria.
 

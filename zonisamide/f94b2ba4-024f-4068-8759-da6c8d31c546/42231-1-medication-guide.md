@@ -1,6 +1,10 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-ZONEGRAN® (ZO-nuh-gran) (zonisamide) capsules
+ZONEGRAN® (ZO-nuh-gran)
+
+(zonisamide)
+
+capsules
 
 Read this Medication Guide before you start taking ZONEGRAN and each time you get a refill.
 There may be new information.
@@ -52,7 +56,7 @@ These serious side effects are described below.
 4. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
    If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
    Metabolic acidosis can happen with or without symptoms.
-   Sometimes people with metabolic acidosis will:Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
+   Sometimes people with metabolic acidosis will: Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
    - feel tired
    - not feel hungry (loss of appetite)
    - feel changes in heartbeat
@@ -188,4 +192,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co. Ltd. and licensed exclusively to Eisai, Inc.
 
-Manufactured by Elan Pharma International Ltd. Distributed by Eisai Inc. Woodcliff Lake, NJ 07677
+Distributed by Eisai Inc. Woodcliff Lake, NJ 07677
