@@ -1,10 +1,10 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0715-20
 
 ADVAIR® HFA 45/21
 
-(fluticasone propionate 45 mcgand salmeterol 21 mcg*)
+(fluticasone propionate 45 mcg and salmeterol 21 mcg*)
 
 Inhalation Aerosol
 
@@ -26,18 +26,20 @@ With Dose Counter
 
 120 Metered Actuations
 
-©2010, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000077408 Rev.
-3/10
+10000000127494 Rev.
+10/14
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0716-20
 
 ADVAIR® HFA 115/21
 
-(fluticasone propionate 115 mcgand salmeterol 21 mcg*)
+(fluticasone propionate 115 mcg and salmeterol 21 mcg*)
+
+Inhalation Aerosol
 
 12 g
 
@@ -57,18 +59,18 @@ With Dose Counter
 
 120 Metered Actuations
 
-©2010, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000077409 Rev.
-3/10
+10000000127495 Rev.
+10/14
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0717-20
 
 ADVAIR® HFA 230/21
 
-(fluticasone propionate 230 mcgand salmeterol 21 mcg*)
+(fluticasone propionate 230 mcg and salmeterol 21 mcg*)
 
 Inhalation Aerosol
 
@@ -90,7 +92,7 @@ With Dose Counter
 
 120 Metered Actuations
 
-©2010, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000077420 Rev.
-3/10
+10000000127496 Rev.
+8/14

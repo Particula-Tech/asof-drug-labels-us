@@ -14,18 +14,14 @@ The chemical name of salmeterol xinafoate is 4-hydroxy-α1-[[[6-(4-phenylbutoxy)
 Salmeterol xinafoate is a white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
 It is freely soluble in methanol; slightly soluble in ethanol, chloroform, and isopropanol; and sparingly soluble in water.
 
-ADVAIR HFA 45/21 Inhalation Aerosol, ADVAIR HFA 115/21 Inhalation Aerosol, and ADVAIR HFA 230/21 Inhalation Aerosol are pressurized metered-dose aerosol units fitted with a counter.
-ADVAIR HFA is intended for oral inhalation only.
-Each unit contains a microcrystalline suspension of fluticasone propionate (micronized) and salmeterol xinafoate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
+ADVAIR HFA is a purple plastic inhaler with a light purple strapcap containing a pressurized metered-dose aerosol canister fitted with a counter.
+Each canister contains a microcrystalline suspension of micronized fluticasone propionate and micronized salmeterol xinafoate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
 
 After priming, each actuation of the inhaler delivers 50, 125, or 250 mcg of fluticasone propionate and 25 mcg of salmeterol in 75 mg of suspension from the valve.
 Each actuation delivers 45, 115, or 230 mcg of fluticasone propionate and 21 mcg of salmeterol from the actuator.
 Twenty-one micrograms (21 mcg) of salmeterol base is equivalent to 30.45 mcg of salmeterol xinafoate.
-The actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the device and inspiration through the delivery system.
+The actual amount of drug delivered to the lung will depend on patient factors, such as the coordination between the actuation of the inhaler and inspiration through the delivery system.
 
-Each 8-g canister contains 60 inhalations.
-Each 12-g canister provides 120 inhalations.
-
-ADVAIR HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
-In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
+Prime ADVAIR HFA before using for the first time by releasing 4 sprays into the air away from the face, shaking well for 5 seconds before each spray.
+In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 sprays into the air away from the face, shaking well for 5 seconds before each spray.
