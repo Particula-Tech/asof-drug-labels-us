@@ -158,6 +158,8 @@ Drug Interactions
 ### Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
+In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function, and electrolytes in patients on VASOTEC and other agents that affect the RAS.
 
 Do not coadminister aliskiren with VASOTEC in patients with diabetes.

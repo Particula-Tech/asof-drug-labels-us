@@ -10,8 +10,6 @@ Vasotec® (Enalapril Maleate)
 
 Rx ONLY
 
-VALEANT Pharmaceuticals North America LLC
-
 # PRINCIPAL DISPLAY PANEL - 5 mg Bottle Label
 
 NDC 0187-0141-30
@@ -23,8 +21,6 @@ Vasotec® (Enalapril Maleate)
 30 Tablets
 
 Rx ONLY
-
-VALEANT Pharmaceuticals North America LLC
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Bottle Label
 
@@ -38,8 +34,6 @@ Vasotec® (Enalapril Maleate)
 
 Rx ONLY
 
-VALEANT Pharmaceuticals North America LLC
-
 # PRINCIPAL DISPLAY PANEL - 20 mg Bottle Label
 
 NDC 0187-0143-30
@@ -51,5 +45,3 @@ Vasotec® (Enalapril Maleate)
 30 Tablets
 
 Rx ONLY
-
-VALEANT Pharmaceuticals North America LLC
