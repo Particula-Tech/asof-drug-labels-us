@@ -22,7 +22,7 @@ During the night, the patient may take 4 mg of loperamide every 4 hours.
 Monitor and replace fluid and electrolytes.
 Use antibiotic support for ileus, fever, or severe neutropenia.
 Subsequent weekly chemotherapy treatments should be delayed in patients until return of pretreatment bowel function for at least 24 hours without anti-diarrhea medication.
-Patients must not be treated with irinotecan until resolution of the bowel obstruction.
+Patients must not be treated with CAMPTOSAR until resolution of the bowel obstruction.
 If grade 2, 3, or 4 late diarrhea recurs, subsequent doses of CAMPTOSAR should be decreased [see Dosage and Administration (2)].
 
 Avoid diuretics or laxatives in patients with diarrhea.
@@ -76,10 +76,10 @@ Renal impairment and acute renal failure have been identified, usually in patien
 
 Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have occurred in patients receiving irinotecan (in combination and as monotherapy).
 Risk factors include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.
-Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan therapy.
+Patients with risk factors should be closely monitored for respiratory symptoms before and during CAMPTOSAR therapy.
 In Japanese studies, a reticulonodular pattern on chest x-ray was observed in a small percentage of patients.
 New or progressive, dyspnea, cough, and fever should prompt interruption of chemotherapy, pending diagnostic evaluation.
-If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued and appropriate treatment instituted as needed [see Adverse Reactions (6.1)].
+If IPD is diagnosed, CAMPTOSAR and other chemotherapy should be discontinued and appropriate treatment instituted as needed [see Adverse Reactions (6.1)].
 
 ## 5.7 Toxicity of the 5 Day Regimen
 
@@ -90,7 +90,7 @@ CAMPTOSAR should be used as recommended in Table 2 [see Dosage and Administratio
 
 In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
-## 5.9 Pregnancy
+## 5.9 Embryofetal Toxicity
 
 CAMPTOSAR can cause fetal harm when administered to a pregnant woman.
 Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m2 basis.

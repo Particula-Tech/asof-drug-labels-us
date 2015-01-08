@@ -43,7 +43,8 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Diarrhea | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
 | late | -- | 15.1 | -- | 5.9 | -- | 18.4 |
 | grade 3 | -- | 7.6 | -- | 7.3 | -- | 12.6 |
-| grade 4 early | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
+| grade 4 | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
+| early |  |  |  |  |  |  |
 | Nausea | 79.1 | 15.6 | 67.6 | 8.2 | 81.6 | 16.1 |
 | Abdominal pain | 63.1 | 14.6 | 50.2 | 11.5 | 67.7 | 13.0 |
 | Vomiting | 60.4 | 9.7 | 46.1 | 4.1 | 62.8 | 12.1 |
@@ -68,7 +69,8 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Bilirubin | 87.6 | 7.1 | 92.2 | 8.2 | 83.9 | 7.2 |
 | DERMATOLOGIC | 0.9 | 0 | 3.2 | 0.5 | 0 | 0 |
 | Exfoliative dermatitis | 19.1 | 0 | 26.5 | 0.9 | 14.3 | 0.4 |
-| Rash AlopeciaComplete hair loss = Grade 2 | 43.1 | -- | 26.5 | -- | 46.1 | -- |
+| Rash | 43.1 | -- | 26.5 | -- | 46.1 | -- |
+| AlopeciaComplete hair loss = Grade 2 |  |  |  |  |  |  |
 | RESPIRATORY |  |  |  |  |  |  |
 | Dyspnea | 27.6 | 6.3 | 16.0 | 0.5 | 22.0 | 2.2 |
 | Cough | 26.7 | 1.3 | 18.3 | 0 | 20.2 | 0.4 |
@@ -79,7 +81,8 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Confusion | 7.1 | 1.8 | 4.1 | 0 | 2.7 | 0 |
 | CARDIOVASCULAR | 9.3 | 0.9 | 5.0 | 0 | 9.0 | 0 |
 | Vasodilatation | 5.8 | 1.3 | 2.3 | 0.5 | 5.8 | 1.7 |
-| Hypotension Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. | 9.3 | -- | 11.4 | -- | 5.4 | -- |
+| Hypotension | 9.3 | -- | 11.4 | -- | 5.4 | -- |
+| Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. |  |  |  |  |  |  |
 
 Table 6.
 Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
@@ -93,7 +96,8 @@ Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Diarrhea | 72.4 | 14.4 | 44.8 | 6.3 |
 | late | -- | 10.3 | -- | 4.2 |
 | grade 3 | -- | 4.1 | -- | 2.1 |
-| grade 4 Cholinergic syndromeIncludes rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping or diarrhea (occurring during or shortly after infusion of irinotecan) | 28.3 | 1.4 | 0.7 | 0 |
+| grade 4 | 28.3 | 1.4 | 0.7 | 0 |
+| Cholinergic syndromeIncludes rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping or diarrhea (occurring during or shortly after infusion of irinotecan) |  |  |  |  |
 | Nausea | 66.9 | 2.1 | 55.2 | 3.5 |
 | Abdominal pain | 17.2 | 2.1 | 16.8 | 0.7 |
 | Vomiting | 44.8 | 3.5 | 32.2 | 2.8 |
@@ -118,11 +122,13 @@ Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Bilirubin | 19.1 | 3.5 | 35.9 | 10.6 |
 | DERMATOLOGIC | 10.3 | 0.7 | 12.6 | 0.7 |
 | Hand and foot syndrome | 17.2 | 0.7 | 20.3 | 0 |
-| Cutaneous signs AlopeciaComplete hair loss = Grade 2 | 56.6 | -- | 16.8 | -- |
+| Cutaneous signs | 56.6 | -- | 16.8 | -- |
+| AlopeciaComplete hair loss = Grade 2 |  |  |  |  |
 | RESPIRATORY |  |  |  |  |
 | Dyspnea | 9.7 | 1.4 | 4.9 | 0 |
 | CARDIOVASCULAR | 3.4 | 1.4 | 0.7 | 0 |
-| Hypotension Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. | 11.7 | -- | 5.6 | -- |
+| Hypotension | 11.7 | -- | 5.6 | -- |
+| Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. |  |  |  |  |
 
 Second-Line Single-Agent Therapy
 
@@ -140,7 +146,7 @@ The first dose of at least one cycle of CAMPTOSAR was reduced for 67% of patient
 Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
 Thirteen (4.3%) patients discontinued treatment with CAMPTOSAR because of adverse events.
-The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
+The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 7.
 Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or RectumSeverity of adverse events based on NCI CTC (version 1.0)
@@ -149,7 +155,7 @@ Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metasta
 | --- | --- | --- |
 |  | % of Patients Reporting |  |
 | GASTROINTESTINAL |  |  |
-| Diarrhea (late)Occurring > 24 hours after administration of CAMPTOSAR | 88 | 31 |
+| Diarrhea (late)Occurring >24 hours after administration of CAMPTOSAR | 88 | 31 |
 | 7–9 stools/day (grade 3) | — | (16) |
 | ≥10 stools/day (grade 4) | — | (14) |
 | Nausea | 86 | 17 |
@@ -207,7 +213,7 @@ Hospitalizations due to serious adverse events occurred at least once in 60% (18
 Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based therapy discontinued treatment due to adverse events.
 
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
-Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in CLINICAL STUDIES (14.1).
+Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
 Table 8: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
 
@@ -242,10 +248,10 @@ Table 8: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparat
 | DERMATOLOGIC |  |  |  |  |
 | Hand and foot syndrome | 0 | 0 | 0 | 5 |
 | Cutaneous signs Cutaneous signs include events such as rash | 2 | 0 | 1 | 3 |
-| RESPIRATORYRespiratory includes events such as dyspnea and cough | 10 | 8 | 5 | 7 |
-| NEUROLOGICNeurologic includes events such as somnolence | 12 | 13 | 9 | 4 |
-| CARDIOVASCULARCardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunction | 9 | 3 | 4 | 2 |
-| OTHEROther includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss | 32 | 28 | 12 | 14 |
+| RESPIRATORY Respiratory includes events such as dyspnea and cough | 10 | 8 | 5 | 7 |
+| NEUROLOGIC Neurologic includes events such as somnolence | 12 | 13 | 9 | 4 |
+| CARDIOVASCULAR Cardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunction | 9 | 3 | 4 | 2 |
+| OTHER Other includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss | 32 | 28 | 12 | 14 |
 
 The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as CAMPTOSAR than when these drugs were given on separate days (1.3%, 1/80 patients).
 The 8.5% incidence of akathisia, however, is within the range reported for use of prochlorperazine when given as a premedication for other chemotherapies.
@@ -255,7 +261,7 @@ The 8.5% incidence of akathisia, however, is within the range reported for use o
 The following adverse reactions have been identified during post approval use of CAMPTOSAR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Myocardial ischemic events have been observed following irinotecan therapy.
+Myocardial ischemic events have been observed following CAMPTOSAR therapy.
 Thromboembolic events have been observed in patients receiving CAMPTOSAR.
 
 Symptomatic pancreatitis, asymptomatic pancreatic enzyme elevation have been reported.
@@ -265,5 +271,5 @@ Hyponatremia, mostly with diarrhea and vomiting, has been reported.
 
 Transient dysarthria has been reported in patients treated with CAMPTOSAR; in some cases, the event was attributed to the cholinergic syndrome observed during or shortly after infusion of irinotecan.
 
-Interaction between irinotecan and neuromuscular blocking agents cannot be ruled out.
+Interaction between CAMPTOSAR and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.

@@ -1,4 +1,4 @@
-# WARNING: DIARRHEA AND MYELOSUPPRESSION
+# WARNING: DIARRHEA and MYELOSUPPRESSION
 
 - Early and late forms of diarrhea can occur.
   Early diarrhea may be accompanied by cholinergic symptoms which may be prevented or ameliorated by atropine.

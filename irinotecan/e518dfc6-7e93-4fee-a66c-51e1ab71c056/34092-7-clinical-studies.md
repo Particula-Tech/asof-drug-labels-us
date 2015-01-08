@@ -73,7 +73,7 @@ The results of the individual studies are shown in Table 11.
 Table 11.
 Weekly Dosage Schedule: Study Results
 
-|  | 3 | 4 | 5 |  |
+| 3 | 4 | 5 |  |  |
 | --- | --- | --- | --- | --- |
 |  | Study |  |  |  |
 | Number of Patients | 48 | 90 | 64 | 102 |
@@ -161,12 +161,14 @@ Because of the inclusion of patients with non-measurable disease, intent-to-trea
 
 | Figure 3. Survival Second-Line Irinotecan vs Best Supportive Care (BSC) Study 7 |
 | --- |
+
 | Figure 4. Survival Second-Line Irinotecan vs Infusion 5-FU Study 8 |
+| --- |
 
 Table 12.
 Once-Every-3-Week Dosage Schedule: Study Results
 
-|  | Irinotecan | BSCBSC = best supportive care | Irinotecan | 5-FU |
+| Irinotecan | BSCBSC = best supportive care | Irinotecan | 5-FU |  |
 | --- | --- | --- | --- | --- |
 |  | Study 7 |  | Study 8 |  |
 | Number of patients | 189 | 90 | 127 | 129 |
@@ -184,10 +186,12 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | For metastatic disease | 70 | 63 | 58 | 68 |
 | As adjuvant treatment | 30 | 37 | 42 | 32 |
 | Prior irradiation (%) | 26 | 27 | 18 | 20 |
-| Duration of study treatment (median, months) (Log-rank test) | 4.1 | -- | 4.2 (p=0.02) | 2.8 |
+| Duration of study treatment (median, months) | 4.1 | -- | 4.2 | 2.8 |
+| (Log-rank test) |  |  | (p=0.02) |  |
 | Relative dose intensity (median %)Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. | 94 | -- | 95 | 81–99 |
 | Survival |  |  |  |  |
-| Survival (median, months) (Log-rank test) | 9.2 (p=0.0001) | 6.5 | 10.8 (p=0.035) | 8.5 |
+| Survival (median, months) | 9.2 | 6.5 | 10.8 | 8.5 |
+| (Log-rank test) | (p=0.0001) |  | (p=0.035) |  |
 
 In the two randomized studies, the EORTC QLQ-C30 instrument was utilized.
 At the start of each cycle of therapy, patients completed a questionnaire consisting of 30 questions, such as "Did pain interfere with daily activities?"
@@ -203,7 +207,7 @@ Table 13.
 EORTC QLQ-C30: Mean Worst Post-Baseline ScoreFor the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms.
 The subscale scores of each patient were collected at each visit until the patient dropped out of the study.
 
-|  | Irinotecan | BSC | p-value | Irinotecan | 5-FU | p-value |
+| Irinotecan | BSC | p-value | Irinotecan | 5-FU | p-value |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | QLQ-C30 Subscale | Study 7 |  |  | Study 8 |  |  |
 | Global health status | 47 | 37 | 0.03 | 53 | 52 | 0.9 |

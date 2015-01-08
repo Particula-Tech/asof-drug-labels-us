@@ -55,11 +55,11 @@ In another study of 183 patients treated on the weekly schedule, the frequency o
 
 The influence of renal impairment on the pharmacokinetics of irinotecan has not been evaluated.
 Therefore, use caution in patients with impaired renal function.
-Irinotecan is not recommended for use in patients on dialysis.
+CAMPTOSAR is not recommended for use in patients on dialysis.
 
 ## 8.7 Hepatic Impairment
 
 Irinotecan clearance is diminished in patients with hepatic impairment while exposure to the active metabolite SN-38 is increased relative to that in patients with normal hepatic function.
 The magnitude of these effects is proportional to the degree of liver impairment as measured by elevations in total bilirubin and transaminase concentrations.
-Therefore, use caution in patients with hepatic impairment.
+Therefore, use caution when administering CAMPTOSAR to patients with hepatic impairment.
 The tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2.1), Warnings and Precautions (5.10) and Clinical Pharmacology (12.3)].
