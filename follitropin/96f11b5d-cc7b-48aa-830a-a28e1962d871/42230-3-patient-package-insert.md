@@ -162,9 +162,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Follistim AQ Cartridge?
 
-- Store Follistim AQ Cartridge in the refrigerator between 2-8°C (36-46°F) until the expiration date.
+- Store Follistim AQ Cartridge in the refrigerator between 2°-8°C (36°-46°F) until the expiration date.
 - Follistim AQ can be stored at or below 25°C (77°F) for 3 months or until the expiration date, whichever comes first.
-  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2-25°C (36-77°F).
+  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2°-25°C (36°-77°F).
 - Keep Follistim AQ Cartridge away from light.
 - Do not freeze.
 

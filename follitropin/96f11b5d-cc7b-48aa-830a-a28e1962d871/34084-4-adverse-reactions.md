@@ -42,7 +42,7 @@ In Vitro Fertilization/Intracytoplasmic Sperm Injection
 In a single cycle, multi-center, double-blind, parallel group, comparative study, a total of 1509 women were randomized to receive controlled ovarian stimulation with either Follistim AQ Cartridge (751 women were treated with Follistim AQ Cartridge) or a comparator and pituitary suppression with a gonadotropin releasing hormone (GnRH) antagonist as part of an in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) cycle.
 Table 3 lists adverse reactions with an incidence of greater than 2% in the group of women treated with Follistim AQ Cartridge.
 
-Table 3: Common Adverse Reactions Reported At a Frequency of ≥2% in a Randomized, Double-blind, Active-controlled, Comparative Study of Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization or Intracytoplasmic Sperm Injection Cycle
+Table 3: Common Adverse Reactions Reported at a Frequency of ≥2% in a Randomized, Double-blind, Active-controlled, Comparative Study of Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization or Intracytoplasmic Sperm Injection Cycle
 
 | System Organ Class/Adverse Reactions | Follistim AQ Cartridge Treatment N = 751 nn = number of women with the adverse reaction (%) |
 | --- | --- |
@@ -63,7 +63,7 @@ In an open-label, non-comparative clinical trial, 49 men with hypogonadotropic h
 Of the 49 men, 30 received weekly Follistim doses of 450 international units; 24 of these 30 men received a total of 48 weeks of treatment with Follistim.
 Adverse reactions occurring with an incidence of greater than 2% in the 30 men treated with Follistim are listed in Table 4.
 
-Table 4: Common Adverse Reactions Reported At a Frequency of ≥2% in an Open-Label Clinical Trial in Men with Hypogonadotropic Hypogonadism
+Table 4: Common Adverse Reactions Reported at a Frequency of ≥2% in an Open-Label Clinical Trial in Men with Hypogonadotropic Hypogonadism
 
 | System Organ Class/Adverse Reactions | Follistim Treatment N=30 n (%) |
 | --- | --- |

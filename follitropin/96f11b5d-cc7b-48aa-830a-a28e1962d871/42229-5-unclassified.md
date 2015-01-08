@@ -8,9 +8,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2004, 2010, 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 12/2014
 
-uspi-mk8328-SOi-1310R011
+uspi-mk8328-SOi-1412r012
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -22,9 +22,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2004, 2010, 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 12/2014
 
-usppi-mk8328-SOi-1310R012
+usppi-mk8328-SOi-1412r013
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -36,7 +36,7 @@ This information does not take the place of talking with your healthcare provide
 
 - A.Getting Ready
   - Follistim Pen is not recommended for the blind or visually impaired user without the assistance of an individual with good vision, trained in the proper use of the injection device.
-  - Learn about all of the parts of the Follistim Pen (See Figure 1), Follistim AQ Cartridge (Figure 2) and the BD Micro-Fine™ Pen Needle (Figure 3).
+  - Learn about all of the parts of the Follistim Pen (See Figure 1), Follistim AQ Cartridge (See Figure 2) and the BD Micro-Fine™ Pen Needle (See Figure 3).
     You will need to recognize these parts to follow the directions.
   - Remove the Cartridge out of the refrigerator.
   - Injecting cold drug is likely to cause discomfort.
@@ -163,7 +163,7 @@ This information does not take the place of talking with your healthcare provide
   - Throw away the Outer Needle Shield with the used needle right away.
     Do not throw away in a trash can.
     Place it in a "special" container.
-    (See " How Do I Throw Away Used Cartridges and Needles?")
+    (See "How Do I Throw Away Used Cartridges and Needles?")
   - If there is Follistim AQ Cartridge medicine left for more injections, put the Pen Cap back on the Pen Body and store your Follistim Pen in a safe place in the refrigerator (not in the freezer) or at room temperature.
     Never store the Follistim Pen with a needle attached to it.
     If you are giving an injection to another person, be very careful when removing the needle from the skin.
@@ -268,9 +268,9 @@ How Do I Care for the Follistim Pen?
 
 How should I store Follistim AQ Cartridge?
 
-- Store Follistim AQ Cartridge in the refrigerator between 2-8°C (36-46°F) until the expiration date.
+- Store Follistim AQ Cartridge in the refrigerator between 2°-8°C (36°-46°F) until the expiration date.
 - Follistim AQ can be stored at or below 25°C (77°F) for 3 months or until the expiration date, whichever comes first.
-  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2-25°C (36-77°F).
+  Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product may be stored only for a maximum of 28 days at 2°-25°C (36°-77°F).
 - Keep Follistim AQ Cartridge away from light.
 - Do not freeze.
 
@@ -286,6 +286,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2004, 2010, 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 12/2014
 
-usppi-mk8328-SOi-1310R012
+usppi-mk8328-SOi-1412r013

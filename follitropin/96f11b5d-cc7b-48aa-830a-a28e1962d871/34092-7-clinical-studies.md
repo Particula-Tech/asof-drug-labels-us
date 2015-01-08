@@ -29,7 +29,7 @@ This 2008 study was conducted in Europe and North America (United States and Can
 Approximately 54% of the subjects were from North America.
 The overall results, as well as the results from North America only, for clinical pregnancy are summarized in Table 8.
 
-Table 8: Pregnancy Results from Treatment With Follistim AQ Cartridge and a GnRH Antagonist in Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization or Intracytoplasmic Sperm Injection Cycle.single treatment cycle results Intent-to-Treat Population (ITT)
+Table 8: Pregnancy Results from Treatment With Follistim AQ Cartridge and a GnRH Antagonist in Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization or Intracytoplasmic Sperm Injection Cycle.Single treatment cycle results Intent-to-Treat Population (ITT)
 
 | Parameter | Follistim AQ Cartridge Overall data (n=750) | Follistim AQ Cartridge North American data (n=403) |
 | --- | --- | --- |
