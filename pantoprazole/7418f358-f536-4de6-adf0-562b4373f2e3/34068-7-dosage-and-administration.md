@@ -15,10 +15,10 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tab
 | ≥ 15 kg to < 40 kg | 20 mg | Once daily for up to 8 weeks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | ≥ 40 kg | 40 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Maintenance of Healing of Erosive Esophagitis |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Adults | 40 mg | Once daily |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adults | 40 mg | Once daily*** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Adults | 40 mg | Twice daily** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| * For adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of pantoprazole sodium delayed-release tablets may be considered. ** Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated. Doses up to 240 mg daily have been administered. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * For adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of pantoprazole sodium delayed-release tablets may be considered. ** Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated. Doses up to 240 mg daily have been administered. *** Controlled studies did not extend beyond 12 months |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 2.2 Administration Instructions
 

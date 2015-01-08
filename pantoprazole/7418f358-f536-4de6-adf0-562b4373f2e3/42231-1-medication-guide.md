@@ -74,6 +74,7 @@ Especially tell your doctor if you take:
 - a product that contains iron
 - an antibiotic that contains ampicillin
 - methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 Know the medicines that you take.
@@ -170,4 +171,5 @@ Instructions for Use
 - Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 01/2014
+The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 01/2015
