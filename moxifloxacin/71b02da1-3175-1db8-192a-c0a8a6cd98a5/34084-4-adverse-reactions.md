@@ -11,8 +11,9 @@ The following serious and otherwise important adverse reactions are discussed in
 - Central Nervous System Effects [see Warnings and Precautions (5.6)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
 - Peripheral Neuropathy that may be irreversible [see Warnings and Precautions (5.8)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.10)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.11)]
+- Blood Glucose Disturbances [see Warnings and Precautions (5.10)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.11)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.12)]
 
 ## 6.2 Clinical Trial Experience
 
@@ -66,7 +67,7 @@ Table 3 Less Common (0.1 to <1%) Adverse Reactions Reported in Active-Controlled
 | Reproductive System and Breast Disorders | Vulvovaginal pruritus |
 | Respiratory, Thoracic, and Mediastinal Disorders | Dyspnea Asthma Wheezing Bronchospasm |
 | Skin and Subcutaneous Tissue Disorders | Rash Pruritus Hyperhidrosis Erythema Urticaria Dermatitis allergic Night sweats |
-| Vascular disorders | Hypertension Hypotension Phlebitis |
+| Vascular Disorders | Hypertension Hypotension Phlebitis |
 
 aMedDRA Version 12.0
 
@@ -95,4 +96,4 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 | Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.6)] |
 | Renal and Urinary Disorders | Renal dysfunction Interstitial nephritis [see Warnings and Precautions (5.5)] |
 | Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.5)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.10)] Stevens-Johnson syndrome Toxic epidermal necrolysis [see Warnings and Precautions (5.5)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.11)] Stevens-Johnson syndrome Toxic epidermal necrolysis [see Warnings and Precautions (5.5)] |

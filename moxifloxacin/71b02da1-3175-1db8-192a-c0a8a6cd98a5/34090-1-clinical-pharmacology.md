@@ -145,7 +145,7 @@ A study of the skin response to ultraviolet (UVA and UVB) and visible radiation 
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
 In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.10), Adverse Reactions (6.3), and Patient Counseling Information (17.3)].
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.11), Adverse Reactions (6.3), and Patient Counseling Information (17)].
 
 Drug-Drug Interactions
 
@@ -156,7 +156,7 @@ Antacids and iron significantly reduced bioavailability of moxifloxacin, as obse
 Calcium, digoxin, itraconazole, morphine, probenecid, ranitidine, theophylline, and warfarin did not significantly affect the pharmacokinetics of moxifloxacin.
 These results and the data from in vitro studies suggest that moxifloxacin is unlikely to significantly alter the metabolic clearance of drugs metabolized by CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 enzymes.
 
-Moxifloxacin had no clinically significant effect on the pharmacokinetics of atenolol, digoxin, glyburide, itraconazole, oral contraceptives, theophylline, and warfarin [see Drug Interactions (7.2)].
+Moxifloxacin had no clinically significant effect on the pharmacokinetics of atenolol, digoxin, glyburide, itraconazole, oral contraceptives, theophylline, cyclosporin, and warfarin [see Drug Interactions (7.2)].
 
 Antacids
 

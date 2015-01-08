@@ -94,6 +94,7 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - Are breast-feeding or planning to breast-feed.
   It is not known if moxifloxacin hydrochloride tablets passes into breast milk.
   You and your healthcare provider should decide whether you will take moxifloxacin hydrochloride tablets or breast-feed.
+- Have diabetes or problems with low blood sugar (hypoglycemia)
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
 Moxifloxacin hydrochloride tablets and other medicines can affect each other causing side effects.
@@ -107,6 +108,7 @@ Especially tell your healthcare provider if you take:
 - A medicine to control your heart rate or rhythm (antiarrhythmic) See “What are the possible side effects of moxifloxacin hydrochloride tablets?”
 - An anti-psychotic medicine.
 - A tricyclic antidepressant.
+- An oral anti-diabetes medicine or insulin.
 - Erythromycin.
 - A water pill (diuretic).
 - A steroid medicine.
@@ -115,7 +117,7 @@ Especially tell your healthcare provider if you take:
 - Certain medicines may keep moxifloxacin hydrochloride tablets from working correctly.
   Take moxifloxacin hydrochloride tablets either 4 hours before or 8 hours after taking these products:
   - An antacid, multivitamin, or other product that has magnesium, aluminum, iron, or zinc
-  - Sucralfate (Carafate)
+  - Sucralfate (Carafate®)
   - Didanosine (Videx®, Videx EC®)
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
@@ -173,7 +175,7 @@ Other serious side effects of moxifloxacin hydrochloride tablets include:
   - Feel more suspicious (paranoia)
   - Suicidal thoughts or acts
   - Nightmares
-  - Vision loss
+  - Vision Loss
 
 - Serious allergic reactions Allergic reactions can happen in people taking fluoroquinolones, including moxifloxacin hydrochloride tablets, even after only one dose.
   Stop taking moxifloxacin hydrochloride tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
@@ -215,6 +217,10 @@ Other serious side effects of moxifloxacin hydrochloride tablets include:
 
 The nerve damage may be permanent.
 
+- Changes in blood sugar People who take moxifloxacin hydrochloride tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking moxifloxacin hydrochloride tablets, stop taking moxifloxacin hydrochloride tablets and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 - Sensitivity to sunlight (photosensitivity) See “What should I avoid while taking moxifloxacin hydrochloride tablets?”
   The most common side effects of moxifloxacin hydrochloride tablets include nausea and diarrhea.
 
@@ -264,4 +270,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0913
+Revised: 0115
