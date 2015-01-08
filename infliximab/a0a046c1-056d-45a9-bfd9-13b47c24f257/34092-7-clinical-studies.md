@@ -347,7 +347,7 @@ Table 10 Components of ankylosing spondylitis disease activity
 
 |  | Baseline | 24 Weeks | Baseline | 24 Weeks | P-value |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=78) |  | REMICADE 5mg/kg (n=201) |  |  |
+|  | Placebo (n=78) |  | REMICADE 5 mg/kg (n=201) |  |  |
 | ASAS 20 response Criteria (Mean) |  |  |  |  |  |
 | Patient Global AssessmentMeasured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
 | Spinal pain | 7.3 | 6.5 | 7.6 | 4.0 | <0.001 |
@@ -392,7 +392,7 @@ Table 11 Components of ACR 20 and percentage of patients with 1 or more joints w
 
 |  | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- |
-|  | Placebo |  | REMICADE 5mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
+|  | Placebo |  | REMICADE 5 mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
 | Patients Randomized | (n=100) |  | (n=100) |  |
 | Parameter (medians) |  |  |  |  |
 | No. of Tender JointsScale 0–68 | 24 | 20 | 20 | 6 |

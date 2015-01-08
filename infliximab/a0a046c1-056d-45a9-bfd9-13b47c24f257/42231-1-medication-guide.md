@@ -23,17 +23,17 @@ Before starting REMICADE, tell your doctor if you:
 
 - think you have an infection.
   You should not start taking REMICADE if you have any kind of infection.
-- are being treated for an infection
-- have signs of an infection, such as a fever, cough, flu-like symptoms
-- have any open cuts or sores on your body
-- get a lot of infections or have infections that keep coming back
+- are being treated for an infection.
+- have signs of an infection, such as a fever, cough, flu-like symptoms.
+- have any open cuts or sores on your body.
+- get a lot of infections or have infections that keep coming back.
 - have diabetes or an immune system problem.
   People with these conditions have a higher chance for infections.
-- Have TB, or have been in close contact with someone with TB
+- have TB, or have been in close contact with someone with TB.
 - live or have lived in certain parts of the country (such as the Ohio and Mississippi River valleys) where there is an increased risk for getting certain kinds of fungal infections (histoplasmosis, coccidioidomycosis, or blastomycosis).
   These infections may develop or become more severe if you take REMICADE.
   If you do not know if you have lived in an area where histoplasmosis, coccidioidomycosis, or blastomycosis is common, ask your doctor.
-- have or have had hepatitis B
+- have or have had hepatitis B.
 - use the medicines KINERET (anakinra), ORENCIA (abatacept), ACTEMRA (tocilizumab), or other medicines called biologics used to treat the same conditions as REMICADE.
 
 After starting REMICADE, if you have an infection, any sign of an infection including a fever, cough, flu-like symptoms, or have open cuts or sores on your body, call your doctor right away.
@@ -44,10 +44,10 @@ Risk of Cancer
 
 - There have been cases of unusual cancers in children and teenage patients using TNF-blocking agents.
 - For children and adults taking TNF-blocker medicines, including REMICADE, the chances of getting lymphoma or other cancers may increase.
-- Some patients with Crohn's disease or ulcerative colitis have developed Hepatosplenic T-cell Lymphoma, a rare type of cancer.
-  Most of the patients were teenage or young adult males.
-  This type of cancer results in death.
-  All of these patients had received medicines known as azathioprine or 6-mercaptopurine together with REMICADE.
+- Some people receiving TNF-blockers, including REMICADE, developed a rare type of cancer called hepatosplenic T-cell lymphoma.
+  This type of cancer often results in death.
+  Most of these people were male teenagers or young men.
+  Also, most people were being treated for Crohn's disease or ulcerative colitis with a TNF-blocker and another medicine called azathioprine or 6-mercaptopurine.
 - People who have been treated for rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and plaque psoriasis for a long time may be more likely to develop lymphoma.
   This is especially true for people with very active disease.
 - Some people treated with REMICADE have developed certain kinds of skin cancer.
@@ -309,7 +309,7 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
 U.S. License No. 1864
 
-Revised November 2013
+Revised January 2015
 
 ©Janssen Biotech, Inc. 2013
 

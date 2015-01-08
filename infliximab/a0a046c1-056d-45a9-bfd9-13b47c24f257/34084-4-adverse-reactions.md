@@ -197,7 +197,7 @@ Other serious, medically relevant adverse reactions ≥0.2% or clinically signif
 - Liver and Biliary: hepatitis
 - Metabolic and Nutritional: dehydration
 - Platelet, Bleeding and Clotting: thrombocytopenia
-- Neoplasms:lymphoma
+- Neoplasms: lymphoma
 - Red Blood Cell: anemia, hemolytic anemia
 - Resistance Mechanism: cellulitis, sepsis, serum sickness, sarcoidosis
 - Respiratory: lower respiratory tract infection (including pneumonia), pleurisy, pulmonary edema

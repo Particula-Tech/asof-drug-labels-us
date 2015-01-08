@@ -13,13 +13,15 @@ The risks and benefits of treatment should be considered prior to initiating the
 
 - with chronic or recurrent infection;
 - who have been exposed to tuberculosis;
-- with a history of an opportunistic infection
+- with a history of an opportunistic infection;
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or
 - with underlying conditions that may predispose them to infection.
 
 Tuberculosis
 
 Cases of reactivation of tuberculosis or new tuberculosis infections have been observed in patients receiving REMICADE, including patients who have previously received treatment for latent or active tuberculosis.
+Cases of active tuberculosis have also occurred in patients being treated with REMICADE during treatment for latent tuberculosis.
+
 Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating REMICADE and periodically during therapy.
 
 Treatment of latent tuberculosis infection prior to therapy with TNF blocking agents has been shown to reduce the risk of tuberculosis reactivation during therapy.
@@ -68,10 +70,10 @@ Hepatosplenic T-cell lymphoma (HSTCL)
 
 Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including REMICADE.
 These cases have had a very aggressive disease course and have been fatal.
-All reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
-All of these patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with REMICADE at or prior to diagnosis.
-It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.
-When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Almost all patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with a TNF-blocker at or prior to diagnosis.
+The majority of reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and most were in adolescent and young adult males.
+It is uncertain whether the occurrence of HSTCL is related to TNF-blockers or TNF-blockers in combination with these other immunosuppressants.
+When treating patients, consideration of whether to use REMICADE alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Skin cancer
 

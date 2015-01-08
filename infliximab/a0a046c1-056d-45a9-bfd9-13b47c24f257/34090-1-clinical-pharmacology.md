@@ -6,7 +6,7 @@ Infliximab neutralizes the biological activity of TNFα by binding with high aff
 Infliximab does not neutralize TNFβ (lymphotoxin-α), a related cytokine that utilizes the same receptors as TNFα.
 Biological activities attributed to TNFα include: induction of pro-inflammatory cytokines such as interleukins (IL) 1 and 6, enhancement of leukocyte migration by increasing endothelial layer permeability and expression of adhesion molecules by endothelial cells and leukocytes, activation of neutrophil and eosinophil functional activity, induction of acute phase reactants and other liver proteins, as well as tissue degrading enzymes produced by synoviocytes and/or chondrocytes.
 Cells expressing transmembrane TNFα bound by infliximab can be lysed in vitro or in vivo.
-Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays utilizing human fibroblasts, endothelial cells, neutrophils, B and T- lymphocytes and epithelial cells.
+Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays utilizing human fibroblasts, endothelial cells, neutrophils, B and T-lymphocytes and epithelial cells.
 The relationship of these biological response markers to the mechanism(s) by which REMICADE exerts its clinical effects is unknown.
 Anti-TNFα antibodies reduce disease activity in the cotton-top tamarin colitis model, and decrease synovitis and joint erosions in a murine model of collagen-induced arthritis.
 Infliximab prevents disease in transgenic mice that develop polyarthritis as a result of constitutive expression of human TNFα, and when administered after disease onset, allows eroded joints to heal.
@@ -37,4 +37,4 @@ It is not known if there are differences in clearance or volume of distribution 
 
 Infliximab pharmacokinetic characteristics (including peak and trough concentrations and terminal half-life) were similar in pediatric (aged 6 to 17 years) and adult patients with Crohn's disease or ulcerative colitis following the administration of 5 mg/kg infliximab.
 
-Population pharmacokinetic analysis showed that in children with juvenile rheumatoid arthritis (JRA) with a body weight of up to 35 kg receiving 6 mg/kg REMICADE and children with JRA with body weight greater than 35 kg up to adult body weight receiving 3mg/kg REMICADE, the steady state area under the concentration curve (AUCss) was similar to that observed in adults receiving 3 mg/kg of REMICADE.
+Population pharmacokinetic analysis showed that in children with juvenile rheumatoid arthritis (JRA) with a body weight of up to 35 kg receiving 6 mg/kg REMICADE and children with JRA with body weight greater than 35 kg up to adult body weight receiving 3 mg/kg REMICADE, the steady state area under the concentration curve (AUCss) was similar to that observed in adults receiving 3 mg/kg of REMICADE.
