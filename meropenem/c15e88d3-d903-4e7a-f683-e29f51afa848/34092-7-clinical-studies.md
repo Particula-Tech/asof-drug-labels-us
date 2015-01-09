@@ -19,8 +19,8 @@ The following table provides the results for the overall as well as subgroup com
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |
-| <65 years of age | 190/218 (87) | 205/241 (85) |
-| ≥65 years of age | 35/43 (81) | 33/46 (72) |
+| Less than 65 years of age | 190/218 (87) | 205/241 (85) |
+| 65 years of age or older | 35/43 (81) | 33/46 (72) |
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
 
@@ -64,13 +64,13 @@ Currently there is no additional information available to further interpret this
 
 ## 14.3 Bacterial Meningitis
 
-Four hundred forty-six patients (397 pediatric patients ≥ 3 months to < 17 years of age) were enrolled in 4 separate clinical trials and randomized to treatment with meropenem (n=225) at a dose of 40 mg/kg every 8 hours or a comparator drug, i.e., cefotaxime (n=187) or ceftriaxone (n=34), at the approved dosing regimens.
+Four hundred forty-six patients (397 pediatric patients 3 months to less than 17 years of age) were enrolled in 4 separate clinical trials and randomized to treatment with meropenem (n=225) at a dose of 40 mg/kg every 8 hours or a comparator drug, i.e., cefotaxime (n=187) or ceftriaxone (n=34), at the approved dosing regimens.
 A comparable number of patients were found to be clinically evaluable (ranging from 61-68%) and with a similar distribution of pathogens isolated on initial CSF culture.
 
 Patients were defined as clinically not cured if any one of the following three criteria were met:
 
-- At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of >60 decibels in one or both ears, or blindness.
-- During therapy the patient’s clinical status necessitated the addition of other antibiotics.
+- At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+- During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
 - Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
 Using the definition, the following efficacy rates were obtained, per organism.
@@ -100,5 +100,5 @@ The following table shows the degree of hearing loss between the meropenem-treat
 | --- | --- | --- |
 | No loss | 61% | 56% |
 | 20-40 decibels | 20% | 24% |
-| >40-60 decibels | 8% | 7% |
-| >60 decibels | 9% | 10% |
+| Greater than 40-60 decibels | 8% | 7% |
+| Greater than 60 decibels | 9% | 10% |

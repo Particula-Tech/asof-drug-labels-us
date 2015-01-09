@@ -20,7 +20,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adult Patients:
 
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with MERREM I.V.
-(500 mg or 1000 mg every 8 hours).
+(500 mg or 1 gram every 8 hours).
 Deaths in 5 patients were assessed as possibly related to meropenem; 36 (1.2%) patients had meropenem discontinued because of adverse events.
 Many patients in these trials were severely ill and had multiple background diseases, physiological impairments and were receiving multiple other drug therapies.
 In the seriously ill patient population, it was not possible to determine the relationship between observed adverse events and therapy with MERREM I.V.
@@ -74,21 +74,21 @@ Hematologic: increased platelets, increased eosinophils, decreased platelets, de
 
 Renal: increased creatinine and increased BUN
 
-NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to MERREM I.V., increased in patients with moderately severe renal impairment (creatinine clearance >10 to 26 mL/min) [see Dosage and Administration (2.2),Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to MERREM I.V., increased in patients with moderately severe renal impairment (creatinine clearance greater than 10 to 26 mL/min) [see Dosage and Administration (2.2),Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
 
 Urinalysis: presence of red blood cells
 
 Complicated Skin and Skin Structure Infections
 
 In a study of complicated skin and skin structure infections, the adverse reactions were similar to those listed above.
-The most common adverse events occurring in >5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7.0%), diarrhea (7.0%), anemia (5.5%), and pain (5.1%).
-Adverse events with an incidence of >1%, and not listed above, include: pharyngitis, accidental injury, gastrointestinal disorder, hypoglycemia, peripheral vascular disorder, and pneumonia.
+The most common adverse events occurring in greater than 5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7.0%), diarrhea (7.0%), anemia (5.5%), and pain (5.1%).
+Adverse events with an incidence of greater than 1%, and not listed above, include: pharyngitis, accidental injury, gastrointestinal disorder, hypoglycemia, peripheral vascular disorder, and pneumonia.
 
-Pediatric Patients
+Pediatric Patients:
 
 Clinical Adverse Reactions
 
-MERREM I.V. was studied in 515 pediatric patients (≥ 3 months to < 13 years of age) with serious bacterial infections (excluding meningitis, see next section) at dosages of 10 to 20 mg/kg every 8 hours.
+MERREM I.V. was studied in 515 pediatric patients (3 months to less than 13 years of age) with serious bacterial infections (excluding meningitis, see next section) at dosages of 10 mg/kg to 20 mg/kg every 8 hours.
 The types of clinical adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to MERREM I.V. and their rates of occurrence as follows:
 
 | Diarrhea |  | 3.5% |
@@ -96,7 +96,7 @@ The types of clinical adverse events seen in these patients are similar to the a
 | Rash |  | 1.6% |
 | Nausea and Vomiting |  | 0.8% |
 
-MERREM I.V. was studied in 321 pediatric patients (> 3 months to < 17 years of age) with meningitis at a dosage of 40 mg/kg every 8 hours.
+MERREM I.V. was studied in 321 pediatric patients (3 months to less than 17 years of age) with meningitis at a dosage of 40 mg/kg every 8 hours.
 The types of clinical adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to MERREM I.V. and their rates of occurrence as follows:
 
 | Diarrhea | 4.7% |
@@ -108,11 +108,18 @@ The types of clinical adverse events seen in these patients are similar to the a
 In the meningitis studies, the rates of seizure activity during therapy were comparable between patients with no CNS abnormalities who received meropenem and those who received comparator agents (either cefotaxime or ceftriaxone).
 In the MERREM I.V. treated group, 12/15 patients with seizures had late onset seizures (defined as occurring on day 3 or later) versus 7/20 in the comparator arm.
 
+MERREM I.V. was studied in 200 neonates and infants less than 3 months of age.
+The study was open-label, uncontrolled, 98% of the infants received concomitant medications, and the majority of adverse reactions were reported in neonates less than 32 weeks gestational age and critically ill at baseline, making it difficult to assess the relationship of the adverse reactions to MERREM I.V.
+
+The clinical adverse reactions seen in these patients that were reported (regardless of investigator assessment of causality) and their rates of occurrence are as follows:
+
+- Convulsion 5.0%
+- Hyperbilirubinemia (conjugated) 4.5%
+- Vomiting 2.5%
+
 Adverse Laboratory Changes
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
-
-There is no experience in pediatric patients with renal impairment.
 
 ## 6.2 Post-Marketing Experience
 
