@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA075784"
+  ],
+  "inn": "ketorolac",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-161-12",
+    "63323-162-12",
+    "63323-162-14"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ketorolac tromethamine",
+      "name": "Ketorolac Tromethamine"
+    }
+  ],
+  "setid": "950b7295-3f68-4027-ac2b-2f7d0f5f8ef9",
+  "source": "dailymed"
+}
