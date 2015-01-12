@@ -99,10 +99,9 @@ You should also tell your doctor about any symptoms you had during other times y
 
 What other Important Information Should I Know About Bupropion Hydrochloride Extended-release Tablets (XL)?
 
-Seisures: There is a chance of having a seizure (convulsion, fit) with bupropion hydrochloride extended-release tablets (XL), especially in people:
-
-- with certain medical problems.
-- who take certain medicines.
+- Seisures: There is a chance of having a seizure (convulsion, fit) with bupropion hydrochloride extended-release tablets (XL), especially in people:
+  - with certain medical problems.
+  - who take certain medicines.
 
 The chance of having seizures increases with higher doses of bupropion hydrochloride extended-release tablets (XL).
 For more information, see the sections "Who should not take bupropion hydrochloride extended-release tablets (XL)?" and "What should I tell my doctor before using bupropion hydrochloride extended-release tablets (XL)?"
@@ -119,6 +118,13 @@ Do not take bupropion hydrochloride extended-release tablets (XL) again if you h
   These could be signs of a serious allergic reaction.
 - Unusual thoughts or behaviors: Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (XL), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your doctor.
+- Visual problems
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 What are bupropion hydrochloride extended-release tablets (XL)?
 
@@ -157,8 +163,9 @@ What should I tell my doctor before using bupropion hydrochloride extended-relea
   - are a diabetic taking insulin or other medicines to control your blood sugar.
   - drink a lot of alcohol.
   - abuse prescription medicines or street drugs.
-  - Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-    Many medicines increase your chances of having seizures or other serious side effects if you take them while you are using bupropion hydrochloride extended-release tablets (XL).
+
+- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+  Many medicines increase your chances of having seizures or other serious side effects if you take them while you are using bupropion hydrochloride extended-release tablets (XL).
 
 How should I take bupropion hydrochloride extended-release tablets (XL)?
 
@@ -170,17 +177,21 @@ How should I take bupropion hydrochloride extended-release tablets (XL)?
 - Take bupropion hydrochloride extended-release tablets (XL) at the same time each day.
 - Take your doses of bupropion hydrochloride extended-release tablets (XL) at least 24 hours apart.
 - You may take bupropion hydrochloride extended-release tablets (XL) with or without food.
-- If you miss a dose, do not take an extra tablet to make up for the dose you forgot.
+  If you miss a dose, do not take an extra tablet to make up for the dose you forgot.
   Wait and take your next tablet at the regular time.
   This is very important.
   Too many bupropion hydrochloride extended-release tablets (XL) can increase your chance of having a seizure.
-- If you take too many bupropion hydrochloride extended-release tablets (XL), or overdose, call your local emergency room or poison control center right away.
-- Do not take any other medicines while using bupropion hydrochloride extended-release tablets (XL) unless your doctor has told you it is okay.
-- If you are taking bupropion hydrochloride extended-release tablets (XL) for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride extended-release tablets (XL) are working.
-  Once you feel better, it is important to keep taking bupropion hydrochloride extended-release tablets (XL) exactly as directed by your doctor.
-  Call your doctor if you do not feel bupropion hydrochloride extended-release tablets (XL) are working for you.
-- If you are taking bupropion hydrochloride extended-release tablets (XL) for the prevention of seasonal major depressive episodes associated with seasonal affective disorder, it is important to keep taking WELLBUTRIN XL through the autumn-winter season, or as directed by your doctor.
-- Do not change your dose or stop taking bupropion hydrochloride extended-release tablets (XL) without talking with your doctor first.
+
+If you take too many bupropion hydrochloride extended-release tablets (XL), or overdose, call your local emergency room or poison control center right away.
+
+Do not take any other medicines while using bupropion hydrochloride extended-release tablets (XL) unless your doctor has told you it is okay.
+If you are taking bupropion hydrochloride extended-release tablets (XL) for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride extended-release tablets (XL) are working.
+Once you feel better, it is important to keep taking bupropion hydrochloride extended-release tablets (XL) exactly as directed by your doctor.
+Call your doctor if you do not feel bupropion hydrochloride extended-release tablets (XL) are working for you.
+
+If you are taking bupropion hydrochloride extended-release tablets (XL) for the prevention of seasonal major depressive episodes associated with seasonal affective disorder, it is important to keep taking WELLBUTRIN XL through the autumn-winter season, or as directed by your doctor.
+
+Do not change your dose or stop taking bupropion hydrochloride extended-release tablets (XL) without talking with your doctor first.
 
 What should I avoid while taking bupropion hydrochloride extended-release tablets (XL)?
 
@@ -204,7 +215,7 @@ These are not all the side effects of bupropion hydrochloride extended-release t
 For a complete list, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Watson Laboratories Inc. at 1-800-272-5525.
+You may report side effects to FDA at 1-800-FDA-1088 or Actavis Laboratories FL, Inc. at 1-800-272-5525.
 
 How should I store bupropion hydrochloride extended-release tablets (XL)?
 
@@ -225,22 +236,21 @@ General Information about bupropion hydrochloride extended-release tablets (XL)
 
 This Medication Guide summarizes important information about bupropion hydrochloride extended-release tablets (XL).
 For more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about bupropion hydrochloride extended-release tablets (XL) that is written for health professionals or call 1-800-272-5525.
+You can ask your doctor or pharmacist for information about bupropion hydrochloride extended-release tablets (XL) that is written for health professionals.
 
 What are the ingredients in bupropion hydrochloride extended-release tablets (XL)?
 
 Active ingredient: bupropion hydrochloride.
+
 Inactive ingredients: colloidal silicon dioxide, ethylcellulose, hydroxypropyl cellulose, methacrylic acid copolymer, microcrystalline cellulose, stearic acid, talc, titanium dioxide, hydrochloric acid and triethyl citrate.
 The tablets are printed with edible black ink.
 
-*The following are registered trademarks of their respective manufacturers: WELLBUTRIN® /GlaxoSmithKline; ZYBAN® /GlaxoSmithKline; PARNATE® / GlaxoSmithKline; NARDIL®/Warner Lambert Company; MARPLAN®/ Validus Pharmaceuticals LLC; KALETRA® /Abbott Laboratories.
+*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; PARNATE®/GlaxoSmithKline; MARPLAN®/Oxford Pharmaceutical Services, Inc.; ZYBAN®/GlaxoSmithKline; WELLBUTRIN®/GlaxoSmithKline; WELLBUTRIN SR®/GlaxoSmithKline.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: May 2013
-
-174662-4
+Revised: July 2014

@@ -170,7 +170,7 @@ Adverse Events During Taper or Following Discontinuation of Bupropion Hydrochlor
 
 Adverse events with onset during the 2 weeks following discontinuation of bupropion hydrochloride extended-release tablets (XL) were reported by 9% of patients compared with 12% of patients following discontinuation of placebo.
 
-## Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion
+## Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion:
 
 In addition to the adverse events noted above, the following events have been reported in clinical trials and postmarketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and postmarketing clinical experience with the immediate-release formulation of bupropion.
 
@@ -187,7 +187,6 @@ Only those adverse events not previously listed for sustained-release bupropion 
 The extent to which these events may be associated with bupropion hydrochloride extended-release tablets (XL) is unknown.
 
 Body (General): Infrequent were chills, facial edema, musculoskeletal chest pain, and photosensitivity.
-
 Rare was malaise.
 Also observed were arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness (see PRECAUTIONS).

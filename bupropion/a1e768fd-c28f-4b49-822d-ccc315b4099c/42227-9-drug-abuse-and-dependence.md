@@ -1,10 +1,10 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
+## Controlled Substance Class:
 
 Bupropion is not a controlled substance.
 
-## Humans
+## Humans:
 
 Controlled clinical studies of bupropion (immediate-release formulation) conducted in normal volunteers, in subjects with a history of multiple drug abuse, and in depressed patients showed some increase in motor activity and agitation/excitement.
 
@@ -15,7 +15,7 @@ Findings in clinical trials, however, are not known to reliably predict the abus
 Nonetheless, evidence from single-dose studies does suggest that the recommended daily dosage of bupropion when administered in divided doses is not likely to be especially reinforcing to amphetamine or stimulant abusers.
 However, higher doses that could not be tested because of the risk of seizure might be modestly attractive to those who abuse stimulant drugs.
 
-## Animals
+## Animals:
 
 Studies in rodents and primates have shown that bupropion exhibits some pharmacologic actions common to psychostimulants.
 In rodents, it has been shown to increase locomotor activity, elicit a mild stereotyped behavioral response, and increase rates of responding in several schedule-controlled behavior paradigms.

@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Human Overdose Experience
+## Human Overdose Experience:
 
 Overdoses of up to 30 g or more of bupropion have been reported.
 Seizure was reported in approximately one third of all cases.
@@ -10,7 +10,7 @@ Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respirato
 Although most patients recovered without sequelae, deaths associated with overdoses of bupropion alone have been reported in patients ingesting large doses of the drug.
 Multiple uncontrolled seizures, bradycardia, cardiac failure, and cardiac arrest prior to death were reported in these patients.
 
-## Overdosage Management
+## Overdosage Management:
 
 Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.

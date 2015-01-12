@@ -9,30 +9,29 @@ A sedative hypnotic usually is not required beyond the first week of treatment.
 Insomnia may also be minimized by avoiding bedtime doses.
 If distressing, untoward effects supervene, dose escalation should be stopped.
 Bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
-
 Bupropion hydrochloride extended-release tablets (XL) may be taken without regard to meals.
 
-## Major Depressive Disorder
+## Major Depressive Disorder:
 
-### Initial Treatment
+### Initial Treatment:
 
 The usual adult target dose for bupropion hydrochloride extended-release tablets (XL) is 300 mg/day, given once daily in the morning.
 Dosing with bupropion hydrochloride extended-release tablets (XL) should begin at 150 mg/day given as a single daily dose in the morning.
 If the 150 mg initial dose is adequately tolerated, an increase to the 300 mg/day target dose, given as once daily, may be made as early as day 4 of dosing.
 There should be an interval of at least 24 hours between successive doses.
 
-## Increasing the Dosage Above 300 mg/day
+## Increasing the Dosage Above 300 mg/day:
 
 As with other antidepressants, the full antidepressant effect of bupropion hydrochloride extended-release tablets (XL) may not be evident until 4 weeks of treatment or longer.
 An increase in dosage to the maximum of 450 mg/day, given as a single dose, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 300 mg/day.
 
-## Maintenance Treatment
+## Maintenance Treatment:
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
 It is unknown whether or not the dose of bupropion hydrochloride extended-release tablets (XL) needed for maintenance treatment is identical to the dose needed to achieve an initial response.
 Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
 
-## Seasonal Affective Disorder
+## Seasonal Affective Disorder:
 
 For the prevention of seasonal major depressive episodes associated with seasonal affective disorder, bupropion hydrochloride extended-release tablets (XL) should generally be initiated in the autumn prior to the onset of depressive symptoms.
 Treatment should continue through the winter season and should be tapered and discontinued in early spring.
@@ -54,13 +53,12 @@ When switching patients from WELLBUTRIN Tablets to bupropion hydrochloride exten
 Patients who are currently being treated with WELLBUTRIN Tablets) at 300 mg/day (for example, 100 mg 3 times a day) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
 Patients who are currently being treated with WELLBUTRIN SR Sustained-ReleaseTablets at 300 mg/day (for example, 150 mg twice daily) may be switched to bupropion hydrochloride extended-release tablets (XL) 300 mg once daily.
 
-## Dosage Adjustment for Patients With Impaired Hepatic Function
+## Dosage Adjustment for Patients With Impaired Hepatic Function:
 
 Bupropion hydrochloride extended-release tablets (XL) should be used with extreme caution in patients with severe hepatic cirrhosis.
 The dose should not exceed 150 mg every other day in these patients.
-
 Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
-## Dosage Adjustment for Patients With Impaired Renal Function
+## Dosage Adjustment for Patients With Impaired Renal Function:
 
 Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).

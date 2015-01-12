@@ -1,11 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine, and does not inhibit monoamine oxidase or the re-uptake of serotonin.
 While the mechanism of action of bupropion, as with other antidepressants, is unknown, it is presumed that this action is mediated by noradrenergic and/or dopaminergic mechanisms.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Bupropion is a racemic mixture.
 The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.
@@ -14,16 +14,16 @@ The mean elimination half-life (±SD) of bupropion after chronic dosing is 21 (�
 In a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablets (XL) 300 mg once daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
 Additionally, in a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablets (XL) 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
 
-### Absorption
+### Absorption:
 
 Following oral administration of bupropion hydrochloride extended-release tablets (XL) to healthy volunteers, time to peak plasma concentrations for bupropion was approximately 5 hours and food did not affect the Cmax or AUC of bupropion.
 
-### Distribution
+### Distribution:
 
 In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL.
 The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion, whereas the extent of protein binding of the threohydrobupropion metabolite is about half that seen with bupropion.
 
-### Metabolism
+### Metabolism:
 
 Bupropion is extensively metabolized in humans.
 Three metabolites have been shown to be active: hydroxybupropion, which is formed via hydroxylation of the tert-butyl group of bupropion, and the amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, which are formed via reduction of the carbonyl group.
@@ -43,7 +43,7 @@ The exposure of the hydroxybupropion metabolite was decreased by 78%, the threoh
 In another healthy volunteer study, KALETRA® *(lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
 The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively, (see PRECAUTIONS: Drug Interactions).
 
-In a study in healthy volunteers, efzvirenz 600mg once daily for 2 weeks reduces the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
+In a study in healthy volunteers, efavirenz 600mg once daily for 2 weeks reduces the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
 The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.
 
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
@@ -56,17 +56,17 @@ However, their elimination half-lives are longer, approximately 33 (±10) and 37
 
 Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 to 450 mg/day.
 
-### Elimination
+### Elimination:
 
 Following oral administration of 200 mg of 14C-bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively.
 However, the fraction of the oral dose of bupropion excreted unchanged was only 0.5%, a finding consistent with the extensive metabolism of bupropion.
 
-## Population Subgroups
+## Population Subgroups:
 
 Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
-### Hepatic
+### Hepatic:​
 
 The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose studies, one in patients with alcoholic liver disease and one in patients with mild to severe cirrhosis.
 The first study showed that the half-life of hydroxybupropion was significantly longer in 8 patients with alcoholic liver disease than in 8 healthy volunteers (32±14 hours versus 21±5 hours, respectively).
@@ -82,53 +82,28 @@ The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
 The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers (see WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-### Renal
+### Renal:
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
 A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150 mg dose sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 The elimination of bupropion and/or the major metabolites of bupropion may be reduced by impaired renal function (see PRECAUTIONS: Renal Impairment).
 
-### Left Ventricular Dysfunction
+### Left Ventricular Dysfunction:
 
 During a chronic dosing study with bupropion in 14 depressed patients with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), no apparent effect on the pharmacokinetics of bupropion or its metabolites was revealed, compared to healthy volunteers.
 
-### Age
+### Age:
 
 The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
 These data suggest there is no prominent effect of age on bupropion concentration; however, another pharmacokinetic study, single and multiple dose, has suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites (see PRECAUTIONS: Geriatric Use).
 
-### Gender
+### Gender:
 
 A single-dose study involving 12 healthy male and 12 healthy female volunteers revealed no sex-related differences in the pharmacokinetic parameters of bupropion.
 
-### Smokers
+### Smokers:
 
 The effects of cigarette smoking on the pharmacokinetics of bupropion were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
 Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
-
-## CLINICAL TRIALS
-
-Major Depressive Disorder: The efficacy of bupropion as a treatment for major depressive disorder was established with the immediate-release formulation of bupropion in two 4-week, placebo-controlled trials in adult inpatients and in one 6-week, placebo-controlled trial in adult outpatients.
-In the first study, patients were titrated in a bupropion dose range of 300 to 600 mg/day of the immediate-release formulation on a 3 times daily schedule; 78% of patients received maximum doses of 450 mg/day or less.
-This trial demonstrated the effectiveness of bupropion on the Hamilton Depression Rating Scale (HDRS) total score, the depressed mood item (item 1) from that scale, and the Clinical Global Impressions (CGI) severity score.
-A second study included 2 fixed doses of the immediate-release formulation of bupropion (300 and 450 mg/day) and placebo.
-This trial demonstrated the effectiveness of bupropion, but only at the 450 mg/day dose of the immediate-release formulation; the results were positive for the HDRS total score and the CGI severity score, but not for HDRS item 1.
-In the third study, outpatients received 300 mg/day of the immediate-release formulation of bupropion.
-This study demonstrated the effectiveness of bupropion on the HDRS total score, HDRS item 1, the Montgomery-Asberg Depression Rating Scale, the CGI severity score, and the CGI improvement score.
-
-In a longer-term study, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on bupropion (150 mg twice daily of the sustained-release formulation) were randomized to continuation of their same dose of bupropion or placebo, for up to 44 weeks of observation for relapse.
-Response during the open phase was defined as CGI Improvement score of 1 (very much improved) or 2 (much improved) for each of the final 3 weeks.
-Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
-Patients receiving continued bupropion treatment experienced significantly lower relapse rates over the subsequent 44 weeks compared to those receiving placebo.
-
-Although there are no independent trials demonstrating the antidepressant effectiveness of bupropion hydrochloride extended-release tablets (XL), studies have demonstrated similar bioavailability of bupropion hydrochloride extended-release tablets (XL) to both the immediate-release formulation and to the sustained-release formulation of bupropion under steady-state conditions, i.e., bupropion hydrochloride extended-release tablets (XL) 300 mg once daily was shown to have bioavailability that was similar to that of 100 mg 3 times daily of the immediate-release formulation of bupropion and to that of 150 mg 2 times daily of the sustained-release formulation of bupropion, with regard to both peak plasma concentration and extent of absorption, for parent drug and metabolites.
-
-Seasonal Affective Disorder: The efficacy of bupropion hydrochloride extended-release tablets (XL) for the prevention of seasonal major depressive episodes associated with seasonal affective disorder was established in 3 double-blind, placebo-controlled trials in adult outpatients with a history of major depressive disorder with an autumn-winter seasonal pattern (as defined by DSM-IV criteria).
-Treatment was initiated prior to the onset of symptoms in the autumn (September to November) and was discontinued following a 2 week taper that began the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
-At the start of the study, patients were randomized to receive placebo or bupropion hydrochloride extended-release tablets (XL) 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
-Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
-The mean doses of bupropion hydrochloride extended-release tablets (XL) in the 3 studies ranged from 257 to 280 mg/day.
-
-In these 3 trials, the percentage of patients who were depression-free at the end of treatment was significantly higher for bupropion hydrochloride extended-release tablets (XL) than for placebo: 81.4% vs 69.7%, 87.2% vs 78.7%, and 84.0% vs 69.0% for Study 1, 2 and 3, respectively; with a depression-free rate for the 3 studies combined of 84.3% vs 72.0%.
