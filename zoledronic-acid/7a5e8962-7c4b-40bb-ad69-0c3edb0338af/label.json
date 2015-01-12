@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202930"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-116-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "zoledronic acid",
+      "name": "ZOLEDRONIC"
+    }
+  ],
+  "setid": "7a5e8962-7c4b-40bb-ad69-0c3edb0338af",
+  "source": "dailymed"
+}
