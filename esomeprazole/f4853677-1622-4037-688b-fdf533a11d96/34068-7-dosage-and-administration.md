@@ -7,12 +7,12 @@ NEXIUM should be taken at least one hour before meals.
 The duration of proton pump inhibitor administration should be based on available safety and efficacy data specific to the defined indication and dosing frequency, as described in the prescribing information, and individual patient medical needs.
 Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment.
 
-Table 1: Recommended Dosage Schedule of NEXIUM
+Table 1: Recommended Dosage Schedule for NEXIUM
 
 | Indication | Dose | Frequency |
 | --- | --- | --- |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
-| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1)]The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
+| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1)] The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
 | Maintenance of Healing of Erosive Esophagitis | 20 mg | Once DailyControlled studies did not extend beyond six months. |
 | Symptomatic Gastroesophageal Reflux Disease | 20 mg | Once Daily for 4 WeeksIf symptoms do not resolve completely after 4 weeks, an additional 4 weeks of treatment may be considered. |
 | Pediatric GERD12 to 17 Year Olds |  |  |
@@ -22,7 +22,7 @@ Table 1: Recommended Dosage Schedule of NEXIUM
 | Healing of Erosive Esophagitis |  |  |
 | weight < 20 kg | 10 mg | Once Daily for 8 Weeks |
 | weight ≥ 20 kg | 10 mg or 20 mg | Once Daily for 8 Weeks |
-| 1 month to < 1 year oldDoses over 1.33 mg/kg/day have not been studied. |  |  |
+| 1 month to < 1 year oldThe dosage of NEXIUM in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. |  |  |
 | Erosive esophagitis due to acid-mediated GERD |  |  |
 | weight 3 kg to 5 kg | 2.5 mg | Once Daily for up to 6 Weeks |
 | weight > 5 kg to 7.5 kg | 5 mg | Once Daily for up to 6 Weeks |
@@ -33,7 +33,7 @@ Table 1: Recommended Dosage Schedule of NEXIUM
 | NEXIUM | 40 mg | Once Daily for 10 Days |
 | Amoxicillin | 1000 mg | Twice Daily for 10 Days |
 | Clarithromycin | 500 mg | Twice Daily for 10 Days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mgThe dosage of NEXIUM in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. | Doses up to 240 mg daily have been administered [see Drug Interactions (7)].Twice Daily |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mg | Doses up to 240 mg daily have been administered [see Drug Interactions (7)].Twice Daily |
 
 Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
 

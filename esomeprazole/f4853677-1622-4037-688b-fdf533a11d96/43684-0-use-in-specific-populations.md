@@ -10,8 +10,8 @@ There are no adequate and well-controlled studies with NEXIUM in pregnant women.
 Esomeprazole is the S-isomer of omeprazole.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 
-Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 57 times and 35 times, respectively, an oral human dose of 40 mg.
-However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 33.6 times an oral human dose of 40 mg (see Animal Data).
+Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
+However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg (see Animal Data).
 Because of the observed effect at high doses of esomeprazole magnesium on developing bone in rat studies, NEXIUM should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Human Data
@@ -37,16 +37,16 @@ Several studies have reported no apparent adverse short-term effects on the infa
 
 Animal Data
 
-Reproduction studies have been performed with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 57 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 35 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole magnesium.
+Reproduction studies have been performed with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 41 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole magnesium.
 
-A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 to 280 mg/kg/day (about 3.4 to 57 times an oral human dose of 40 mg on a body surface area basis).
-Neonatal/early postnatal (birth to weaning) survival was decreased at doses equal to or greater than 138 mg/kg/day (about 33 times an oral human dose of 40 mg on a body surface area basis).
-Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg/kg/day (about 16.8 times an oral human dose of 40 mg on a body surface area basis).
+A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
+Neonatal/early postnatal (birth to weaning) survival was decreased at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
+Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg/kg/day (about 17 times an oral human dose of 40 mg on a body surface area basis).
 In addition, decreased femur length, width and thickness of cortical bone, decreased thickness of the tibial growth plate and minimal to mild bone marrow hypocellularity were noted at doses equal to or greater than 14 mg/kg/day (about 3.4 times an oral human dose of 40 mg on a body surface area basis).
-Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis).
+Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
 
-Effects on maternal bone were observed in pregnant and lactating rats in a pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 57 times an oral human dose of 40 mg on a body surface area basis).
-When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis).
+Effects on maternal bone were observed in pregnant and lactating rats in a pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg/kg/day (about 3.4 to 68 times an oral human dose of 40 mg on a body surface area basis).
+When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
@@ -64,12 +64,12 @@ However, the safety and effectiveness of NEXIUM have not been established in pat
 
 1 to 17 years of age
 
-Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [seeDosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), andClinical Studies (14.3)].
+Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
 The safety and effectiveness of NEXIUM for other pediatric uses have not been established.
 
 Erosive esophagitis due to acid-mediated GERD in infants 1 month to less than one year of age
 
-Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [seeDosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), andClinical Studies (14.3)].
+Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [seeDosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
 
 Symptomatic GERD in infants 1 month to less than one year of age
 
@@ -82,7 +82,7 @@ There were 80 patients who attained a pre-specified level of symptom improvement
 Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week, treatment-withdrawal phase.
 
 The following pharmacokinetic and pharmacodynamic information was obtained in pediatric patients with GERD aged birth to less than one year of age.
-In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [seeClinical Pharmacology (12.2)].
+In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [see Clinical Pharmacology (12.2)].
 Apparent clearance (CL/F) increases with age in pediatric patients from birth to 2 years of age.
 
 Neonates 0 to 1 month of age
@@ -90,6 +90,11 @@ Neonates 0 to 1 month of age
 Following administration of oral NEXIUM in neonates the geometric mean (range) for the apparent clearance (CL/F) was 0.55 L/h/kg (0.25-1.6 L/h/kg).
 
 The safety and effectiveness of NEXIUM in neonates have not been established.
+
+Juvenile Animal Data
+
+In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
+Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 

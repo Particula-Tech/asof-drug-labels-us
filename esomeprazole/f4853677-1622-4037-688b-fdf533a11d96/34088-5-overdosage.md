@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-A single oral dose of esomeprazole at 510 mg/kg (about 103 times the human dose on a body surface area basis), was lethal to rats.
+A single oral dose of esomeprazole at 510 mg/kg (about 124 times the human dose on a body surface area basis), was lethal to rats.
 The major signs of acute toxicity were reduced motor activity, changes in respiratory frequency, tremor, ataxia, and intermittent clonic convulsions.
 
 The symptoms described in connection with deliberate NEXIUM overdose (limited experience of doses in excess of 240 mg/day) are transient.

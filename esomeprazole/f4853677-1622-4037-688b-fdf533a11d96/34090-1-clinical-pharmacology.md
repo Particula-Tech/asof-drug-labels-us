@@ -38,7 +38,7 @@ Healthcare providers should temporarily stop esomeprazole treatment at least 14 
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology (13.1)].
+In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
@@ -118,6 +118,10 @@ Results from a crossover study in healthy subjects have shown a pharmacokinetic 
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
 
+Concomitant Use with Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+
 Special Populations
 
 Geriatric
@@ -154,9 +158,9 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
 | --- | --- | --- | --- |
 | Parameter | 10 mg (N=8) | 10 mg (N=7) | 20 mg (N=6) |
-| AUC (μmol·h/L)Geometric mean; | 4.83 | 3.70 | 6.28 |
+| AUC (μmol·h/L)Geometric mean | 4.83 | 3.70 | 6.28 |
 | Cmax (μmol/L) | 2.98 | 1.77 | 3.73 |
-| tmax (h)arithmetic mean | 1.44 | 1.79 | 1.75 |
+| tmax (h)Arithmetic mean | 1.44 | 1.79 | 1.75 |
 | t½λz (h) | 0.74 | 0.88 | 0.73 |
 | Cl/F (L/h) | 5.99 | 7.84 | 9.22 |
 
@@ -190,7 +194,7 @@ Hepatic Insufficiency
 The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [seeDosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
 
 Renal Insufficiency
 
@@ -204,7 +208,7 @@ Studies evaluating concomitant administration of esomeprazole and either naproxe
 
 ## 12.4 Microbiology
 
-NEXIUM, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
+NEXIUM, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections [seeIndications and Usage (1)andClinical Studies (14)].
 
 Helicobacter pylori: Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
 

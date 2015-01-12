@@ -43,7 +43,7 @@ NEXIUM is used in adults:
 
 - •for 4 to 8 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
   NEXIUM may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
-- •GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
+  GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
 - •for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
 - •to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
@@ -79,7 +79,8 @@ Before you take NEXIUM, tell your doctor if you:
 Tell your doctor about all of the medicines you take, including prescription and non-prescription drugs, vitamins and herbal supplements.
 NEXIUM may affect how other medicines work, and other medicines may affect how NEXIUM works.
 
-- •Especially tell your doctor if you take:
+Especially tell your doctor if you take:
+
 - •warfarin (Coumadin, Jantoven)
 - •ketoconazole (Nizoral)
 - •voriconazole (Vfend)
@@ -88,7 +89,8 @@ NEXIUM may affect how other medicines work, and other medicines may affect how N
 - •saquinavir (Fortovase)
 - •products that contain iron
 - •digoxin (Lanoxin)
-- •St.John’s Wort (Hypericum perforatum)
+- •St.
+  John’s Wort (Hypericum perforatum)
 - •Rifampin (Rimactane, Rifater, Rifamate)
 - •cilostazol (Pletal)
 - •diazepam (Valium)
@@ -96,6 +98,7 @@ NEXIUM may affect how other medicines work, and other medicines may affect how N
 - •erlotinib (Tarceva)
 - •methotrexate
 - •clopidogrel (Plavix)
+- •myophenolate mofetil (Cellcept)
 
 How should I take NEXIUM?
 
@@ -124,35 +127,37 @@ NEXIUM can cause serious side effects, including:
   Using NEXIUM for a long period of time may increase the risk of inflammation to your stomach lining.
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- •Vitamin B-12 deficiency.
+  NEXIUM reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on NEXIUM for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
-  You may or may not have symptoms of low magnesium.
+- You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-- 
-  - ∘seizures
-  - ∘dizziness
-  - ∘abnormal or fast heart beat
-  - ∘jitteriness
-  - ∘jerking movements or shaking (tremors)
-  - ∘muscle weakness
-  - ∘spasms of the hands and feet
-  - ∘cramps or muscle aches
-  - ∘spasm of the voice box
-
-Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
+  1. seizures
+  2. dizziness
+  3. abnormal or fast heart beat
+  4. jitteriness
+  5. jerking movements or shaking (tremors)
+  6. muscle weakness
+  7. spasms of the hands and feet
+  8. cramps or muscle aches
+  9. spasm of the voice box
+- Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
 
 The most common side effects with NEXIUM may include:
 
 - 
-  - ∘headache
-  - ∘diarrhea
-  - ∘nausea
-  - ∘gas
-  - ∘abdominal pain
-  - ∘constipation
-  - ∘dry mouth
-  - ∘drowsiness
+  - headache
+  - diarrhea
+  - nausea
+  - gas
+  - abdominal pain
+  - constipation
+  - dry mouth
+  - drowsiness
 
 Other side effects:
 
@@ -239,7 +244,7 @@ NEXIUM Delayed-Release Capsules:
 NEXIUM For Delayed-Release Oral Suspension:
 
 - •NEXIUM For Delayed-Release Oral Suspension comes in foil packets containing 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg strengths.
-- •Use only a catheter tipped syringe to give NEXIUM through a NG tube or gastric tube
+- •Use only a catheter tipped syringe to give NEXIUM through a NG tube or gastric tube.
 - •If your prescribed dose is 2.5 mg or 5 mg, add 5 mL of water to a catheter tipped syringe, then add the contents of a foil packet containing the dose prescribed by your doctor.
 - •If your prescribed dose is 10 mg, 20 mg, or 40 mg, add 15 mL of water to a catheter tipped syringe, then add the contents of a foil packet containing the dose prescribed by your doctor.
 - •Shake the syringe right away and then leave it for 2 to 3 minutes to thicken.
@@ -253,7 +258,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised March 2014
+Revised 12/2014
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 

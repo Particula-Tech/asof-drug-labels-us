@@ -14,7 +14,7 @@ The safety in the treatment of healing of erosive esophagitis was assessed in fo
 The most frequently occurring adverse reactions (≥1%) in all three groups were headache (5.5, 5, and 3.8, respectively) and diarrhea (no difference among the three groups).
 Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
 
-Additional adverse reactions that were reported as possibly or probably related to NEXIUM with an incidence < 1% are listed below by body system:
+Additional adverse reactions that were reported as possibly or probably related to NEXIUM with an incidence <1% are listed below by body system:
 
 Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, substernal chest pain, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors;
 
@@ -48,7 +48,7 @@ Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, he
 
 Visual: conjunctivitis, vision abnormal.
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [seeClinical Pharmacology (12)].
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [seeClinical Pharmacology (12)].
 Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
 
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
@@ -92,7 +92,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reports are listed below by body system:
 
-Blood And Lymphatic: agranulocytosis, pancytopenia;
+Blood and Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 

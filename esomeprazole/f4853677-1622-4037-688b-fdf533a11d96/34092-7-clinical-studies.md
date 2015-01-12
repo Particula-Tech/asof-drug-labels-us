@@ -7,7 +7,7 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in the Table 9:
 
 Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level log-rank test vs. omeprazole 20 mg |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S.N.S. = not significant (p > 0.05) |
 |  | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |
