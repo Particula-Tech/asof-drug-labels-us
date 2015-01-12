@@ -18,16 +18,17 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+- 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - •Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - •Keep all follow-up visits with your healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
+- •Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- •Keep all follow-up visits with your healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms especially if they are new, worse, or worry you:
 
@@ -57,12 +58,14 @@ What else do I need to know about antidepressant medicines?
   Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
+- •It is not known if APLENZIN is safe and effective in children under the age of 18.
 
 Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with drugs used to quit smoking.
 
-Although APLENZIN is not a treatment for quitting smoking, it contains a form of the same active ingredient (bupropion hydrobromide) as ZYBAN which is used to help people quit smoking.
+Although APLENZIN is not a treatment for quitting smoking, it contains a form of the same active ingredient (bupropion hydrobromide) as ZYBAN which is used to help patients quit smoking.
+
 Some people have had changes in behavior, hostility, agitation, depression, suicidal thoughts or actions while taking bupropion to help them quit smoking.
 These symptoms can develop during treatment with bupropion or after stopping treatment with bupropion.
 
@@ -99,25 +102,13 @@ What Other Important Information Should I Know About APLENZIN?
 The chance of having seizures increases with higher doses of APLENZIN.
 For more information, see the sections “Who should not take APLENZIN?” and “What should I tell my healthcare provider before using APLENZIN?
 Tell your healthcare provider about all of your medical conditions and all the medicines you take.
-Do not take any other medicines while you are using APLENZIN unless your healthcare provider has said it is okay to take them.
+Do not take any other medicines while you are taking APLENZIN unless your healthcare provider has said it is okay to take them.
 
 If you have a seizure while taking APLENZIN, stop taking the tablets and call your healthcare provider right away.
 Do not take APLENZIN again if you have a seizure.
 
 - •High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking APLENZIN.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
-- •Severe allergic reactions: Some people have severe allergic reactions to APLENZIN.
-  Stop taking APLENZIN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or trouble breathing.
-  These could be signs of a serious allergic reaction.
-- •Unusual thoughts or behaviors: Some people may have unusual thoughts or behaviors while taking APLENZIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
-  If this happens to you, call your healthcare provider.
-- •Visual Problems
-  - •eye pain
-  - •changes in vision
-  - •swelling or redness in or around the eye
-- Only some people are at risk for these problems.
-  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
 - •Manic episodes: Some people may have periods of mania while taking APLENZIN, including:
   - •greatly increased energy
   - •severe trouble sleeping
@@ -129,6 +120,19 @@ Do not take APLENZIN again if you have a seizure.
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
+- •Unusual thoughts or behaviors: Some people may have unusual thoughts or behaviors while taking APLENZIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+  If this happens to you, call your healthcare provider.
+- •Visual Problems
+  - •eye pain
+  - •changes in vision
+  - •swelling or redness in or around the eye
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+- •Severe allergic reactions: Some people have severe allergic reactions to APLENZIN.
+  Stop taking APLENZIN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or trouble breathing.
+  These could be signs of a serious allergic reaction.
+
 What is APLENZIN?
 
 APLENZIN is a prescription medicine used to treat people with a certain type of depression called major depressive disorder and for the prevention of autumn-winter seasonal depression (seasonal affective disorder).
@@ -139,61 +143,49 @@ Do not take APLENZIN if you:
 
 - •have or had a seizure disorder or epilepsy
 - •have or had an eating disorder such as anorexia nervosa or bulimia
-- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden
-- •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL (phenelzine sulfate), PARNATE (tranylcypromine sulfate), or MARPLAN (isocarboxazid)
+- •are taking any other medications that contain bupropion, including ZYBAN (used to help people stop smoking), WELLBUTRIN®, FORFIVO XL™, WELLBUTRIN SR®, or WELLBUTRIN XL®.
+  Bupropion is the same active ingredient that is in APLENZIN.
+- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines or anti-seizure medicines, and you stop using them all of a sudden
+- •take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - •do not take an MAOI within 2 weeks of stopping APLENZIN unless directed to do so by your healthcare provider.
+  - •do not start APLENZIN if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in APLENZIN, bupropion hydrobromide, or to any of the inactive ingredients.
-  See the end of this leaflet for a complete list of ingredients in APLENZIN.
+  See the end of this Medication Guide for a complete list of ingredients in APLENZIN.
 
 What should I tell my healthcare provider before using APLENZIN?
 
-- •Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
-  See “Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions.”
-- •Tell your healthcare provider about your other medical conditions including if you:
-  - •are pregnant or plan to become pregnant.
-    It is not known if APLENZIN can harm your unborn baby.
-  - •are breastfeeding.
-    APLENZIN passes through your milk.
-    It is not known if APLENZIN can harm your baby.
-  - •have liver problems, especially cirrhosis of the liver
-  - •have kidney problems
-  - •have an eating disorder such as anorexia nervosa or bulimia
-  - •have had a head injury
-  - •have had a seizure (convulsion, fit)
-  - •have a tumor in your nervous system (brain or spine)
-  - •have had a heart attack, heart problems, or high blood pressure
-  - •are a diabetic taking insulin or other medicines to control your blood sugar
-  - •drink a lot of alcohol
-  - •abuse prescription medicines or street drugs
-- •Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
+See “Antidepressant Medicines, Depression, and Other Mental Illnesses, and Suicidal Thoughts or Actions.”
+
+- Tell your healthcare provider about your other medical conditions including if you:
+  1. •have liver problems, especially cirrhosis of the liver.
+  2. •have kidney problems.
+  3. •have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
+  4. •havehad a head injury.
+  5. •have had a seizure (convulsion, fit).
+  6. •have a tumorin your nervous system (brain or spine).
+  7. •have had a heart attack, heart problems, or high blood pressure.
+  8. •are a diabetic taking insulin or other medications to control your blood sugar.
+  9. •drink alcohol.
+  10. •abuse prescription medicines or street drugs.
+  11. •are pregnant or plan to become pregnant.
+  12. •are breastfeeding.
+      APLENZIN passes into your milk in small amounts.
+- •Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of having seizures or cause other serious side effects if you take them while you are using APLENZIN.
-
-If you take APLENZIN, you should not take any other medicines that contain bupropion including:
-
-- •ZYBAN, WELLBUTRIN Tablets
-- •WELLBUTRIN SR Sustained-Release Tablets
-- •WELLBUTRIN XL Extended-Release Tablets.
-
-Bupropion is the same active ingredient that is in APLENZIN.
 
 How should I take APLENZIN?
 
 - •Take APLENZIN exactly as prescribed by your healthcare provider.
 - •Do not chew, cut, or crush APLENZIN tablets.
-  If you do the medicine will be released into your body too quickly.
-  If this happens you may be more likely to get side effects including seizures.
-  You must swallow the tablets whole.
-  Tell your healthcare provider if you cannot swallow medicine tablets.
-- •Take APLENZIN in the morning.
+- •Take APLENZIN at the same time each day.
 - •You may take APLENZIN with or without food.
-- •If you miss a dose, do not take an extra tablet to make up for the dose you forgot.
+- •If you miss a dose, do not take an extra tablet to make up for the dose you missed.
   Wait and take your next tablet at the regular time.
   This is very important.
   Too much APLENZIN can increase your chance of having a seizure.
 - •If you take too much APLENZIN, or overdose, call your local emergency room or poison control center right away.
-- •The APLENZIN tablet is covered by a shell that slowly releases the medicine inside your body.
-  You may notice something in your stool that looks like a tablet.
-  This is normal.
-  This is the empty shell passing from your body.
 - •Do not take any other medicines while using APLENZIN unless your healthcare provider has told you it is okay.
 - •If you are taking APLENZIN for the treatment of major depressive disorder, it may take several weeks for you to feel that APLENZIN is working.
   Once you feel better, it is important to keep taking APLENZIN exactly as directed by your healthcare provider.
@@ -203,11 +195,11 @@ How should I take APLENZIN?
 
 What should I avoid while taking APLENZIN?
 
-- •Do not drink alcohol while using APLENZIN.
+- •Limit or avoid using alcohol during treatment with APLENZIN.
   If you usually drink a lot of alcohol, talk with your healthcare provider before suddenly stopping.
   If you suddenly stop drinking alcohol, you may increase your chance of having seizures.
 - •Do not drive a car or use heavy machinery until you know how APLENZIN affects you.
-  APLENZIN can impair your ability to perform these tasks.
+  APLENZIN can impair your ability to do these things safely.
 
 What are the possible side effects of APLENZIN?
 
@@ -217,22 +209,19 @@ APLENZIN may cause serious side effects, including:
 
 The most common side effects of APLENZIN include:
 
-- •dry mouth
-- •nausea
-- •trouble sleeping
-- •dizziness
-- •sore throat
-- •stomach pain
-- •agitation
-- •anxiety
-- •shakiness
-- •fast heartbeat
-- •sweating
-- •ringing in the ears
-- •muscle pain
-- •anorexia
-- •urinating more than normal for you
-- •rash
+- •Dry mouth
+- •Nervousness
+- •Constipation
+- •Headache
+- •Nausea and vomiting
+- •Trouble sleeping
+- •Dizziness
+- •Shakiness (tremor)
+- •Fast heartbeat
+- •Heavy sweating
+
+If you have nausea, take your medicine with food.
+If you have trouble sleeping, do not take your medicine too close to bedtime.
 
 Tell your healthcare provider right away about any side effects that bother you.
 
@@ -247,6 +236,8 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 How should I store APLENZIN?
 
 Store APLENZIN at room temperature between 59°F and 86°F (15°C to 30°C).
+
+Keep APLENZIN Tablets dry and out of light.
 
 Keep APLENZIN and all medicines out of the reach of children.
 
@@ -277,21 +268,20 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Rx only
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB Canada R5G 1Z7
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-For: Valeant Pharmaceuticals North America LLC
+By: Valeant Pharmaceuticals International, Inc.
 
-Bridgewater, NJ 08807 USA
+Steinbach, MB R5G 1Z7, Canada
 
 Made in Canada
 
-9386801
-
-20000042 Rev.
-07/2014
-
-APLENZIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+APLENZIN is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+All other product/brand names are the trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals International, Inc.
 
-All other product/brand names are the trademarks of their respective owners.
+Rev.
+12/2014
+
+9386802

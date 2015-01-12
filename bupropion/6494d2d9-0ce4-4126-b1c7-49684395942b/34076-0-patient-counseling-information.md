@@ -1,24 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information for Patients
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-See FDA-approved patient labeling (Medication Guide).
+Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with APLENZIN and should counsel them in its appropriate use.
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with APLENZIN and should counsel them in its appropriate use.
-
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions," and other important information about using APLENZIN is available for APLENZIN.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting smoking, Quit-smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What other important information should I know about APLENZIN?” is available for APLENZIN.
+Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Advise patients regarding the following issues and to alert their prescriber if these occur while taking APLENZIN.
 
-Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders
+Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+
+Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+
+Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g. including depression or agitation), or worsen pre-existing psychiatric illness.
+Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
+If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
 Severe Allergic Reactions
 
@@ -64,9 +69,26 @@ Instruct patients to immediately contact the infant’s healthcare provider if t
 Administration Information
 
 Instruct patients to swallow APLENZIN Tablets whole so that the release rate is not altered.
-Do not chew, divide, or crush tablets.
+Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.
+Instruct patients that APLENZIN tablets should be swallowed whole and not crushed, divided, or chewed.
+APLENZIN can be taken with or without food.
 
-Advise patients that they may notice in their stool something that looks like a tablet.
-This is normal.
-The medication in APLENZIN is contained in a non-absorbable shell that has been specially designed to slowly release drug in the body.
-When this process is completed, the empty shell is eliminated from the body.
+Manufactured for:
+
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+By:
+
+Valeant Pharmaceuticals International, Inc.
+
+Steinbach, MB R5G 1Z7, Canada
+
+Made in Canada
+
+APLENZIN is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+All other product/brand names are the trademarks of their respective owners.
+
+Rev.
+12/2014
+
+9386802

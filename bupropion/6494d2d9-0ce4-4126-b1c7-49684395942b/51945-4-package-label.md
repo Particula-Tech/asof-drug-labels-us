@@ -1,7 +1,5 @@
 --------------------------------------------- REPRESENTATIVE PACKAGING
 
-See How Suppliedsection for a complete list of available packages of APLENZIN.
-
 PRINCIPAL DISPLAY PANEL - 174 mg Tablet Bottle Label
 
 NDC 0187-5810-30 RX ONLY

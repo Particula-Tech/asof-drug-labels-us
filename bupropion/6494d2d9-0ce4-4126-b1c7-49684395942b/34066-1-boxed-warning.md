@@ -1,13 +1,12 @@
-# WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS AND NEUROPSYCHIATRIC REACTIONS IN PATIENTS TAKING BUPROPION FOR SMOKING CESSATION
+# WARNING: SUICIDAL THOUGHTS AND BEHAVIORS; AND NEUROPSYCHIATRIC REACTIONS
 
 SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
-Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
-Anyone considering the use of APLENZIN or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
-Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
-Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
-Families and caregivers should be advised of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1)].
+Antidepressants increased the risk of suicidal thoughts and behaviors in children, adolescents, and young adults in short-term trials.
+These trials did not show an increase in the risk of suicidal thoughts and behaviors with antidepressants use in subjects aged 65 and older [see Warnings and Precautions (5.1)].
+
+In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
+Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1)].
 
 NEUROPSYCHIATRIC REACTIONS IN PATIENTS TAKING BUPROPION FOR SMOKING CESSATION
 

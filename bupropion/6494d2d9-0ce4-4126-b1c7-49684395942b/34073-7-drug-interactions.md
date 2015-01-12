@@ -7,26 +7,22 @@ Therefore, the potential exists for drug interactions between APLENZIN and drugs
 
 Inhibitors of CYP2B6
 
-Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures.
-Dosage reduction of APLENZIN may be necessary when coadministered with ticlopidine or clopidogrel [see Clinical Pharmacology (12.3)].
+Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure.
+Based on clinical response, dosage adjustment of APLENZIN may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP2B6
 
-Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion exposure.
-Dosage increase of APLENZIN may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)].
+Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Dosage increase of APLENZIN may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3)].
 
-Other CYP Inducers
-
-Carbamazepine, Phenobarbital, Phenytoin: Concomitant treatment with these drugs can decrease bupropion exposure.
-It may be necessary to increase the dose of APLENZIN when coadministered with carbamazepine, phenobarbital, or phenytoin [see Clinical Pharmacology (12.3)].
-
-In addition, studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion and may increase bupropion exposure.
+Carbamazepine, Phenobarbital, Phenytoin: While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
+If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
 
 ## 7.2 Potential for APLENZIN to Affect Other Drugs
 
 Drugs Metabolized by CYP2D6
 
-Bupropion and hydroxybupropion are CYP2D6 inhibitors.
+Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 Therefore, coadministration of APLENZIN with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide).
 When used concomitantly with APLENZIN, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
@@ -47,11 +43,20 @@ Adverse reactions have included restlessness, agitation, tremor, ataxia, gait di
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
 Use caution when administering APLENZIN concomitantly with these drugs.
 
-## 7.5 MAO Inhibitors
+## 7.5 Use with Alcohol
 
-Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine [see Contraindications (4)].
+In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with APLENZIN.
+The consumption of alcohol during treatment with APLENZIN should be minimized or avoided.
 
-## 7.6 Drug-Laboratory Test Interactions
+## 7.6 MAO Inhibitors
+
+Bupropion inhibits the reuptake of dopamine and norepinephrine.
+Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
+Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with APLENZIN.
+Conversely, at least 14 days should be allowed after stopping APLENZIN before starting an MAOI antidepressant [see Dosage and Administration (2.8, 2.9) and Contraindications (4)].
+
+## 7.7 Drug-Laboratory Test Interactions
 
 False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
 This is due to lack of specificity of some screening tests.

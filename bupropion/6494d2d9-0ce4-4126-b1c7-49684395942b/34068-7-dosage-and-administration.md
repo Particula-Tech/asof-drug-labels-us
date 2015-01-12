@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Administration Instructions
+## 2.1 General Instructions for Use
 
 To minimize the risk of seizure, increase the dose gradually [see Warnings and Precautions (5.3)].
 
 APLENZIN should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN should be administered in the morning and may be taken with or without regard to meals.
 
-## 2.2 Equivalent Daily Doses of APLENZIN (Bupropion hydrobromide) and Bupropion hydrochloride
+## 2.2 Equivalent Daily Doses of APLENZIN (bupropion hydrobromide) and Bupropion hydrochloride
 
 See Table 1 for equivalent daily doses of APLENZIN (bupropion hydrobromide) and bupropion hydrochloride.
 
@@ -44,6 +44,31 @@ Individualize the timing of initiation and duration of treatment should be indiv
 
 When discontinuing treatment in patients treated with APLENZIN 348 mg once daily, decrease the dose to 174 mg once daily prior to discontinuation.
 
-## 2.6 Dosage Adjustment for Patients with Impaired Hepatic Function
+## 2.6 Dosage Adjustment in Patients with Hepatic Impairment
 
-For patients with severe hepatic impairment, the recommended initial and maximum dose is 174 mg every other day [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), maximum dose is 174 mg every other day.
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+## 2.7 Dosage Adjustment in Patients with Renal Impairment
+
+Consider reducing dose and/or frequency of APLENZIN in patients with renal impairment (Glomerular filtration rate <90 mL/min), [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+## 2.8 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with APLENZIN.
+Conversely, at least 14 days should be allowed after stopping APLENZIN before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
+
+## 2.9 Use of APLENZIN with Reversible MAOIs such as Linezolid or Methylene Blue
+
+Do not start APLENZIN in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
+Drug interactions can increase risk of hypertensive reactions.
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4)].
+
+In some cases, a patient already receiving APLENZIN therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, APLENZIN should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+
+Therapy with APLENZIN may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with APLENZIN is unclear.
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].

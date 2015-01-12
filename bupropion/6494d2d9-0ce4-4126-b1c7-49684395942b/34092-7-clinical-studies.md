@@ -23,7 +23,7 @@ Furthermore, clinical studies have demonstrated that APLENZIN is bioequivalent b
 
 ## 14.2 Seasonal Affective Disorder
 
-The efficacy of bupropion hydrochloride extended- release in the prevention of seasonal major depressive episodes associated with SAD was established in 3 randomized, double-blind, placebo-controlled trials in adult outpatients with a history MDD with an autumn-winter seasonal pattern (as defined by DSM-IV criteria).
+The efficacy of bupropion hydrochloride extended-release in the prevention of seasonal major depressive episodes associated with SAD was established in 3 randomized, double-blind, placebo-controlled trials in adult outpatients with a history MDD with an autumn-winter seasonal pattern (as defined by DSM-IV criteria).
 Bupropion treatment was initiated prior to the onset of symptoms in the autumn (September to November).
 Treatment was discontinued following a 2 week taper that began during the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
 Patients were randomized to treatment with bupropion HCl extended-release or placebo.

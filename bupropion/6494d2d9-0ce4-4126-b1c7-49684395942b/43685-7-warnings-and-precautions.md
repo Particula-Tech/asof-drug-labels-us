@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -43,7 +43,6 @@ Consideration should be given to changing the therapeutic regimen, including pos
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for APLENZIN should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
-Families and caregivers of adults being treated for depression should be similarly advised.
 
 ## 5.2 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
 
@@ -83,6 +82,13 @@ The risk of seizure can be reduced if the APLENZIN dose does not exceed 522 mg o
 
 Treatment with APLENZIN can result in elevated blood pressure and hypertension.
 Assess blood pressure before initiating treatment with APLENZIN, and monitor periodically during treatment.
+The risk of hypertension is increased if APLENZIN is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
+
+Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
+In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
+The majority of these subjects had evidence of pre-existing hypertension.
+Three subjects (1.2%) treated with the combination of sustained-release bupropion and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with sustained-release bupropion or placebo.
+Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
 
 In the 3 trials of bupropion HCl extended-release in seasonal affective disorder, there were significant elevations in blood pressure.
 Hypertension was reported as an adverse reaction for 2% of the bupropion group (11/537) and none in the placebo group (0/511).
@@ -96,7 +102,7 @@ In the SAD trials, 82% of patients were treated with 300 mg per day, and 18% wer
 The mean daily dose was 270 mg per day.
 The mean duration of bupropion exposure was 126 days.
 
-In a study of bupropion immediate-release in MDD patients with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 patients, leading to discontinuation of bupropion treatment.
+In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 subjects, leading to discontinuation of bupropion treatment.
 There are no controlled studies assessing the safety of bupropion in patients with a recent history of myocardial infarction or unstable cardiac disease.
 
 ## 5.5 Activation of Mania/Hypomania

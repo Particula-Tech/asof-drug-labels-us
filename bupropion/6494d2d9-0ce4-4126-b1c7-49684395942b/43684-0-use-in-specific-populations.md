@@ -6,10 +6,10 @@
 
 Risk Summary
 
-Data from epidemiological studies including pregnant women indicate no increased risk of congenital malformations with APLENZIN exposure in pregnancy.
-Data regarding the risk of congenital cardiovascular malformations with first trimester bupropion exposure is inconsistent.
-No clear evidence of teratogenicity was observed in reproductive developmental studies conducted in rats and rabbits.
-However, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater and decreased fetal weights were seen at 50 mg/kg and greater.
+Data from epidemiological studies including pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations.
+All pregnancies regardless of drug exposure have a background rate of 2% to 4% for major malformations and 15% to 20% for pregnancy loss.
+No clear evidence of teratogenic activity was found in reproductive developmental studies conducted in rats and rabbits.
+However, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at doses approximately equal to the maximum recommended human dose (MRHD) and greater and decreased fetal weights were seen at doses twice the MRHD and greater.
 APLENZIN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Clinical Considerations
@@ -18,10 +18,20 @@ Consider the risk of untreated depression when discontinuing or changing treatme
 
 Human Data
 
-Data from a retrospective cohort study using the United Healthcare database (1213 infants exposed to bupropion in the first trimester) demonstrated no greater risk for congenital malformations overall or cardiovascular malformations specifically after first trimester bupropion exposure compared to exposure to all other antidepressants in the first trimester, or to bupropion exposure outside of the first trimester.
-A retrospective case-controlled study included 6853 infants with cardiac defects and 5753 with noncardiac defects from the National Birth Defects Prevention Study.
-This study found an association between infants with left outflow tract defects (LVOTO) with maternal bupropion use but not among infants with other types of heart defects or six other noncardiac defect categories.
-A subsequent reanalysis of the United Healthcare database, to assess the risk of cardiovascular malformations, particularly LVOTO, lacked adequate power to detect an increased risk.
+Data from an international bupropion Pregnancy registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+
+No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
+The prospectively observed rate of cardiovascular malformations in pregnancies with exposure to bupropion in the first trimester from the international Pregnancy Registry was 1.3% (9 cardiovascular malformations/675 first-trimester maternal bupropion exposures), which is similar to the background rate of cardiovascular malformations (approximately 1%).
+Data from the United Healthcare database and a case-controlled study (6,853 infants with cardiovascular malformations and 5,753 with non-cardiovascular malformations) from the National Birth Defects Prevention Study (NBDPS) did not show an increased risk for cardiovascular malformations overall after bupropion exposure during the first trimester.
+
+Study findings on bupropion exposure during the first trimester and risk left ventricular outflow tract obstruction (LVOTO) are inconsistent and do not allow conclusions regarding possible association.
+The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted OR = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
+
+Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
+The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n=17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
+The NBDPS and United Healthcare database study did not find an association between first trimester maternal bupropion exposure and VSD.
+
+For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.
 
 Animal Data
 
@@ -29,10 +39,6 @@ In studies conducted in rats and rabbits, bupropion was administered orally at d
 No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
 Decreased fetal weights were observed at 50 mg/kg and greater.
 When rats were administered bupropion at oral doses of up to 300 mg/kg/day (approximately 7 times the MRHD on a mg/m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
-
-## 8.2 Labor and Delivery
-
-The effect of APLENZIN tablets on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
@@ -55,16 +61,15 @@ Reported clinical experience has not identified differences in responses between
 
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
 The risk of adverse reactions may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.5, 2.6), Use in Specific Populations (8.6, 8.7), and Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-APLENZIN should be used with caution in patients with renal impairment.
-Consider a reduced dose and/or frequency of dosing, because bupropion its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
-The patient should be closely monitored for possible adverse reactions that could indicate high drug or metabolite levels.
-Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Clinical Pharmacology (12.3)].
+Consider a reduced dose and/or dosing frequency of APLENZIN in patients with renal impairment (Glomerular Filtration Rate: <90 mL/min).
+Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
+Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-For patients with severe hepatic impairment, the maximum APLENZIN dose is 174 mg every other day.
-In patients with mild to moderate impairment, consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum APLENZIN dose is 174 mg every other day.
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
