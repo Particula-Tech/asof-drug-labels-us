@@ -1,4 +1,4 @@
-Pacerone® (Amiodarone HCl) Tablets are intended for use only in patients with the indicated life-threatening arrhythmias because amiodarone use is accompanied by substantial toxicity.
+Pacerone® (Amiodarone HCl) Tablets are intended for use only in patients with the indicated life-threatening arrhythmias because its use is accompanied by substantial toxicity.
 
 Amiodarone has several potentially fatal toxicities, the most important of which is pulmonary toxicity (hypersensitivity pneumonitis or interstitial/alveolar pneumonitis) that has resulted in clinically manifest disease at rates as high as 10 to 17% in some series of patients with ventricular arrhythmias given doses around 400 mg/day, and as abnormal diffusion capacity without symptoms in a much higher percentage of patients.
 Pulmonary toxicity has been fatal about 10% of the time.

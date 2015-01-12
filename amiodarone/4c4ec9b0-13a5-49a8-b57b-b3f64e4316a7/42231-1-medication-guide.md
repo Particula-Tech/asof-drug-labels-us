@@ -20,6 +20,7 @@ Call your doctor or get medical help right away if you have any symptoms such as
 - shortness of breath, wheezing, or any other trouble breathing; coughing, chest pain, or spitting up of blood
 - nausea or vomiting; passing brown or dark-colored urine; feel more tired than usual; your skin and whites of your eyes get yellow; or have stomach pain
 - heart pounding, skipping a beat, beating very fast or very slowly; feel light-headed or faint
+- progressive skin rash often with blisters or mucosal lesions
 - weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
 
 Because of these possible side effects, Pacerone® Tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
@@ -141,7 +142,8 @@ Some other serious side effects of Pacerone® Tablets include:
   Your doctor may arrange regular blood tests to check your thyroid function during treatment with Pacerone® Tablets.
   Call your doctor if you have weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
 - skin problems.
-  Pacerone® Tablets can cause your skin to be more sensitive to the sun or to turn a bluish-gray color.
+  Pacerone® Tablets can cause life-threatening or even fatal skin reactions.
+  Also, your skin may be more sensitive to the sun or to turn a bluish-gray color.
   In most patients, skin color slowly returns to normal after stopping Pacerone® Tablets.
   In some patients, skin color does not return to normal.
 
@@ -151,8 +153,8 @@ Call your doctor about any side effect that bothers you.
 
 These are not all the side effects with Pacerone® Tablets.
 For more information, ask your doctor or pharmacist.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-You may also report side effects to Upsher-Smith Laboratories at 1-888-650-3789.
 
 How should I store Pacerone® Tablets?
 
@@ -174,8 +176,8 @@ This Medication Guide summarizes the most important information about Pacerone®
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Pacerone® Tablets that was written for healthcare professionals.
 
-|  | This Medication Guide may have been revised after this copy was produced. For more information and the most current Medication Guide, please visit www.pacerone.com or www.upsher-smith.com or call our professional services department toll-free at 1-800-654-2299. |  |
-| --- | --- | --- |
+This Medication Guide may have been revised after this copy was produced.
+For more information and the most current Medication Guide, please visit www.pacerone.com or www.upsher-smith.com or call 1-888-650-3789.
 
 What are the ingredients in Pacerone® Tablets?
 
@@ -187,12 +189,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Rx only
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
+Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Tagamet is a registered trademark of SmithKline Beecham Pharmaceuticals Co.
+Tagamet is a registered trademark of Medtech Products Inc.
 
-Claritin is a registered trademark of Schering Corporation.
+Claritin is a registered trademark of MSD Consumer Care, Inc.
 
-Alavert is a registered trademark of Wyeth.
+Alavert is a registered trademark of Wyeth LLC.
 
-R1111
+Revised 1014

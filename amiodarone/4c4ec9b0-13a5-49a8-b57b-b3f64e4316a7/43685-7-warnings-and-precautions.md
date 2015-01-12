@@ -11,9 +11,9 @@ Patients in EMIAT qualified with ejection fraction <40%, and those randomized to
 Both studies had weeks-long loading dose schedules.
 Intent-to-treat all-cause mortality results were as follows:
 
-|  | Placebo |  | Amiodarone |  | Relative Risk |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | N | Deaths | N | Deaths |  | 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo |  | Amiodarone |  | Relative Risk |  |
 | EMIAT | 743 | 102 | 743 | 103 | 0.99 | 0.76-1.31 |
 | CAMIAT | 596 | 68 | 606 | 57 | 0.88 | 0.58-1.16 |
 
@@ -94,6 +94,11 @@ Elevations of hepatic enzyme levels are seen frequently in patients exposed to a
 If the increase exceeds three times normal, or doubles in a patient with an elevated baseline, discontinuation of Pacerone® Tablets or dosage reduction should be considered.
 In a few cases in which biopsy has been done, the histology has resembled that of alcoholic hepatitis or cirrhosis.
 Hepatic failure has been a rare cause of death in patients treated with amiodarone.
+
+## Severe Bullous Reactions
+
+Life-threatening or even fatal cutaneous reactions, Stevens-Johnson syndrome (SJS), Toxic Epidermal Necrolysis (TEN) (See "ADVERSE REACTIONS").
+If symptoms or signs of SJS, TEN (e.g., progressive skin rash often with blisters or mucosal lesions) are present amiodarone treatment should be discontinued immediately.
 
 ## Loss of Vision
 
