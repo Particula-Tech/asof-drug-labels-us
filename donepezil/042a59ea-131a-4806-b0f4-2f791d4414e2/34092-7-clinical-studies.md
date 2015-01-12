@@ -60,7 +60,7 @@ Figure 2.
 Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
 The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85% and 10 mg/day 68%
 
-Effects on the CIBIC-plus:Figure 3 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 24 weeks of treatment.
+Effects on the CIBIC-plus: Figure 3 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 24 weeks of treatment.
 The mean drug-placebo differences for these groups of patients were 0.35 points and 0.39 points for 5 mg/day and 10 mg/day of donepezil hydrochloride, respectively.
 These differences were statistically significant.
 There was no statistically significant difference between the two active treatments.
@@ -107,6 +107,8 @@ The effectiveness of donepezil hydrochloride in the treatment of patients with m
 
 Studies of 10 mg/day
 
+Swedish 6 Month Study
+
 The effectiveness of donepezil hydrochloride as a treatment for severe Alzheimer's disease is demonstrated by the results of a randomized, double-blind, placebo-controlled clinical study conducted in Sweden (6 month study) in patients with probable or possible Alzheimer's disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 1-10.
 Two hundred and forty eight (248) patients with severe Alzheimer's disease were randomized to donepezil hydrochloride or placebo.
 For patients randomized to donepezil hydrochloride, treatment was initiated at 5 mg once daily for 28 days and then increased to 10 mg once daily.
@@ -131,9 +133,7 @@ The ADCS-ADL-severe is a subset of 19 items, including ratings of the patient's 
 The ADCS-ADL-severe has a scoring range of 0 to 54, with the lower scores indicating greater functional impairment.
 The investigator performs the inventory by interviewing a caregiver, in this study a nurse staff member, familiar with the functioning of the patient.
 
-Effects on the SIB:
-
-Figure 7 shows the time course for the change from baseline in SIB score for the two treatment groups over the 6 months of the study.
+Effects on the SIB: Figure 7 shows the time course for the change from baseline in SIB score for the two treatment groups over the 6 months of the study.
 At 6 months of treatment, the mean difference in the SIB change scores for donepezil hydrochloride treated patients compared to patients on placebo was 5.9 points.
 Donepezil hydrochloride treatment was statistically significantly superior to placebo.
 

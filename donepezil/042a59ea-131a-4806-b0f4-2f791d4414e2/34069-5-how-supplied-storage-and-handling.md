@@ -2,7 +2,7 @@
 
 ## 16.1. Donepezil Hydrochloride Tablets
 
-Supplied as film-coated, round tablets containing 5 mg, or 10 mg of donepezil hydrochloride.
+Supplied as film-coated, round tablets containing 5 mg, or 10 mg of donepezil hydrochloride, USP.
 
 The 5 mg tablets are blue, round, film-coated tablets, debossed with ‘HH205' on one side.
 

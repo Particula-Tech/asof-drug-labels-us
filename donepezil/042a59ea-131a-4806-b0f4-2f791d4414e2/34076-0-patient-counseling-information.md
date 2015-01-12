@@ -10,6 +10,14 @@ Patients and caregivers should be instructed that donepezil hydrochloride can be
 
 Patients and caregivers should be advised that the product may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue and decreased appetite.
 
+Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Linhai, Zhejiang, China 317024
+
+Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512
+
+Issued: 05/2014
+
+07282-03
+
 DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
 Donepezil Hydrochloride Tablets, USP
@@ -167,6 +175,8 @@ Rx Only
 
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Linhai, Zhejiang, China 317024
 
-Distributed by: Solco Healthcare U.S., LLC Cranbury, NJ 08512
+Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512
 
 Issued: 06/2013
+
+07283-02
