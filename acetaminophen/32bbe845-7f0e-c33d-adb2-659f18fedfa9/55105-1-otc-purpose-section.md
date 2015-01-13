@@ -1,3 +1,3 @@
 # PURPOSE
 
-pain reliever/fever reducer
+Pain reliever/fever reducer
