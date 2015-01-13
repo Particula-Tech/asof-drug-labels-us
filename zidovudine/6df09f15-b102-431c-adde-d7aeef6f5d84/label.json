@@ -2,6 +2,7 @@
   "application_numbers": [
     "NDA019655",
     "NDA019910",
+    "NDA019951",
     "NDA020518"
   ],
   "inn": "zidovudine",
@@ -9,11 +10,18 @@
   "package_ndcs": [
     "49702-211-20",
     "49702-212-48",
+    "49702-213-01",
+    "49702-213-05",
     "49702-214-18"
   ],
   "products": [
     {
       "form": "CAPSULE",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
       "generic": "zidovudine",
       "name": "RETROVIR"
     },

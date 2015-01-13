@@ -14,24 +14,27 @@ The observed abnormalities included problems in embryogenesis (prior to 14 weeks
 
 Increased fetal resorptions occurred in pregnant rats and rabbits treated with doses of zidovudine that produced drug plasma concentrations 66 to 226 times (rats) and 12 to 87 times (rabbits) the mean steady-state peak human plasma concentration following a single 100-mg dose of zidovudine.
 There were no other reported developmental anomalies.
-In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily exposure [AUC] in humans given 600 mg/day zidovudine).
+In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily exposure [AUC] in humans given 600 mg per day zidovudine).
 This dose was associated with marked maternal toxicity and an increased incidence of fetal malformations.
 However, there were no signs of teratogenicity at doses up to one-fifth the lethal dose [see Nonclinical Toxicology (13.2)].
 
-Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to RETROVIR, an Antiretroviral Pregnancy Registry has been established.
+Antiretroviral Pregnancy Registry
+
+To monitor maternal-fetal outcomes of pregnant women exposed to RETROVIR, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## 8.3 Nursing Mothers
 
-Zidovudine is excreted in human milk [see Clinical Pharmacology (12.3)].
+Zidovudine is excreted in human milk.
+After administration of a single dose of 200 mg zidovudine to 13 HIV‑1‑infected women, the mean concentration of zidovudine was similar in human milk and serum.
 
 The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving RETROVIR.
 
 ## 8.4 Pediatric Use
 
-RETROVIR has been studied in HIV-1-infected pediatric subjects aged ≥6 weeks who had HIV-1-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-1-related immunosuppression.
-RETROVIR has also been studied in neonates perinatally exposed to HIV-1 [see Dosage and Administration (2.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2), (14.3)].
+RETROVIR has been studied in HIV-1-infected pediatric subjects aged at least 6 weeks who had HIV-1-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-1-related immunosuppression.
+RETROVIR has also been studied in neonates perinatally exposed to HIV-1 [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2, 14.3)].
 
 ## 8.5 Geriatric Use
 
@@ -41,9 +44,11 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 ## 8.6 Renal Impairment
 
-In patients with severely impaired renal function (CrCl<15 mL/min), dosage reduction is recommended [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Unchanged zidovudine and its glucuronide metabolite (formed in the liver) are primarily eliminated from the body by renal excretion.
+In patients with severely impaired renal function (CrCl less than 15 mL per min), dosage reduction is recommended [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Zidovudine is eliminated from the body primarily by renal excretion following metabolism in the liver (glucuronidation).
-Although the data are limited, zidovudine concentrations appear to be increased in patients with severely impaired hepatic function, which may increase the risk of hematologic toxicity [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+RETROVIR is primarily eliminated by hepatic metabolism and zidovudine concentrations appear to be increased in patients with impaired hepatic function, which may increase the risk of hematologic toxicity.
+Frequent monitoring of hematologic toxicities is advised.
+There are insufficient data to recommend dose adjustment of RETROVIR in patients with impaired hepatic function or liver cirrhosis [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
