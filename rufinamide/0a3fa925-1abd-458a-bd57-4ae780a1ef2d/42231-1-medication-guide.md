@@ -46,9 +46,9 @@ BANZEL can cause serious side effects, including:
 
 What is BANZEL?
 
-BANZEL is a prescription medicine used with other medicines to treat seizures associated with Lennox-Gastaut Syndrome (LGS) in adults and children 4 years of age and older.
+BANZEL is a prescription medicine used with other medicines to treat seizures associated with Lennox-Gastaut Syndrome (LGS) in adults and children 1 year of age and older.
 
-It is not known if BANZEL is safe and effective in the treatment of Lennox-Gastaut Syndrome in children under 4 years of age.
+It is not known if BANZEL is safe and effective in the treatment of Lennox-Gastaut Syndrome in children under 1 year of age.
 
 Who should not take BANZEL?
 
@@ -112,19 +112,21 @@ BANZEL may cause serious side effects including:
 
 - BANZEL can also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
   You may or may not have a rash with these types of reactions.
-  Call your healthcare provider right away if you have any of the following.
-  Symptoms may include:
-  - swelling of your face, eyes, lips, or tongue
-  - trouble swallowing or breathing
-  - a skin rash
-  - hives
-  - fever, swollen glands, or sore throat that do not go away or come and go
-  - swollen glands
-  - yellowing of your skin or eyes
-  - dark urine
-  - unusual bruising or bleeding
-  - severe fatigue or weakness
-  - severe muscle pain
+
+Call your healthcare provider right away if you have any of the following.
+Symptoms may include:
+
+- swelling of your face, eyes, lips, or tongue
+- trouble swallowing or breathing
+- a skin rash
+- hives
+- fever, swollen glands, or sore throat that do not go away or come and go
+- swollen glands
+- yellowing of your skin or eyes
+- dark urine
+- unusual bruising or bleeding
+- severe fatigue or weakness
+- severe muscle pain
 - Your seizures happen more often or become worse
 
 Call your healthcare provider right away if you have any of the symptoms listed above.
@@ -187,13 +189,13 @@ Active ingredient: rufinamide Inactive ingredients: microcrystalline cellulose a
 The oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.
 
-Manufactured by Eisai Co., Ltd. Marketed by Eisai Inc. Woodcliff Lake, NJ 07677
+Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
 
-Revised May 2013
+Revised December 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2011 Eisai Inc. Printed in U.S.A.
+© 2014 Eisai Inc.
 
 17.3 BANZEL Oral Suspension Instructions for Use
 
@@ -228,7 +230,7 @@ Figure B
 
 Step 3.
 Uncap the bottle and insert the bottle adapter into the bottle.
-See Figure C.
+See Figure C
 
 Figure C
 
@@ -253,7 +255,7 @@ Figure F
 Step 6.
 With the syringe in place, turn the bottle upside down.
 Pull the plunger to the number of mL needed (the amount of liquid medicine in Step 4).
-See Figure G.
+See Figure G
 
 Figure G
 

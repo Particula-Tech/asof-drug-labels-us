@@ -23,11 +23,11 @@ None of these reactions led to study discontinuation.
 
 All Adverse Reactions for All Treated Patients with Epilepsy, Double-blind Adjunctive Therapy Studies: The most commonly observed (≥10%) adverse reactions in BANZEL-treated patients, when used as adjunctive therapy at all doses studied (200 to 3200 mg/day) with a higher frequency than in placebo were: headache, dizziness, fatigue, somnolence, and nausea.
 
-Table 2 lists treatment-emergent adverse reactions that occurred in at least 3% of pediatric patients with epilepsy treated with BANZEL in controlled adjunctive studies and were numerically more common in patients treated with BANZEL than placebo.
+Table 2 lists treatment-emergent adverse reactions that occurred in at least 3% of pediatric patients (age 4-17 years) with epilepsy treated with BANZEL in controlled adjunctive studies and were numerically more common in patients treated with BANZEL than placebo.
 
-At the target dose of 45 mg/kg/day for adjunctive therapy in children, the most commonly observed (≥3%) adverse reactions with an incidence greater than in placebo, for BANZEL were somnolence, vomiting and headache.
+At the target dose of 45 mg/kg/day for adjunctive therapy in children (age 4-17 years), the most commonly observed (≥3%) adverse reactions with an incidence greater than in placebo, for BANZEL were somnolence, vomiting and headache.
 
-Table 2: Incidence (%) of Treatment-Emergent Adverse Reactions in all Pediatric Double-Blind Adjunctive Trials by Preferred Term at the Recommended Dose of 45 mg/kg/day (Adverse Reactions occurred in at least 3% of BANZEL-treated patients and occurred more frequently than in Placebo Patients)
+Table 2: Incidence (%) of Treatment-Emergent Adverse Reactions in all Pediatric (Ages 4-17 years) Double-Blind Adjunctive Trials by Preferred Term at the Recommended Dose of 45 mg/kg/day (Adverse Reactions occurred in at least 3% of BANZEL-treated patients and occurred more frequently than in Placebo Patients)
 
 | Preferred Term | BANZEL (N=187) % | Placebo (N=182) % |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ Table 2: Incidence (%) of Treatment-Emergent Adverse Reactions in all Pediatric 
 Table 3 lists treatment-emergent adverse reactions that occurred in at least 3% of adult patients with epilepsy treated with BANZEL (up to 3200 mg/day) in adjunctive controlled studies and were numerically more common in patients treated with BANZEL than placebo.
 In these studies, either BANZEL or placebo was added to the current AED therapy.
 
-At all doses studied of up to 3200 mg/day given as adjunctive therapy in adults, the most commonly observed (≥ 3%) adverse reactions, and with the greatest increase in incidence compared to placebo, for BANZEL were dizziness, fatigue, nausea, diplopia, vision blurred, and ataxia.
+At all doses studied of up to 3200 mg/day given as adjunctive therapy in adults, the most commonly observed (≥3%) adverse reactions, and with the greatest increase in incidence compared to placebo, for BANZEL were dizziness, fatigue, nausea, diplopia, vision blurred, and ataxia.
 
 Table 3: Incidence (%) of Treatment-Emergent Adverse Reactions in all Adult Double-Blind Adjunctive Trials (up to 3200 mg/day) by Preferred Term (Adverse Reactions occurred in at least 3% of BANZEL-treated patients and occurred more frequently than in Placebo Patients)
 
@@ -83,12 +83,12 @@ Table 3: Incidence (%) of Treatment-Emergent Adverse Reactions in all Adult Doub
 Discontinuation in Controlled Clinical Studies
 
 In controlled double-blind adjunctive clinical studies, 9.0% of patients receiving BANZEL as adjunctive therapy and 4.4% receiving placebo discontinued as a result of an adverse reaction.
-The adverse reactions most commonly leading to discontinuation of BANZEL (> 1%) used as adjunctive therapy were generally similar in adults and children.
+The adverse reactions most commonly leading to discontinuation of BANZEL (>1%) used as adjunctive therapy were generally similar in adults and children.
 
-In pediatric double-blind adjunctive clinical studies, 8.0% of patients receiving BANZEL as adjunctive therapy and 2.2% receiving placebo discontinued as a result of an adverse reaction.
-The adverse reactions most commonly leading to discontinuation of BANZEL (> 1%) used as adjunctive therapy are presented in Table 4.
+In pediatric (age 4-17 years) double-blind adjunctive clinical studies, 8.0% of patients receiving BANZEL as adjunctive therapy and 2.2% receiving placebo discontinued as a result of an adverse reaction.
+The adverse reactions most commonly leading to discontinuation of BANZEL (>1%) used as adjunctive therapy are presented in Table 4.
 
-Table 4: Adverse Reactions Most Commonly Leading to Discontinuation in Double-Blind Adjunctive Trials (At The Recommended Dose of 45 mg/kg/day) in Pediatric Patients
+Table 4: Adverse Reactions Most Commonly Leading to Discontinuation in Double-Blind Adjunctive Trials (At the Recommended Dose of 45 mg/kg/day) in Pediatric Patients (Ages 4-17 years)
 
 | Preferred Term | BANZEL (N=187) % | Placebo (N=182) % |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ Table 4: Adverse Reactions Most Commonly Leading to Discontinuation in Double-Bl
 | Vomiting | 1 | 0 |
 
 In adult double-blind adjunctive clinical studies (up to 3200 mg/day), 9.5% of patients receiving BANZEL as adjunctive therapy and 5.9% receiving placebo discontinued as a result of an adverse reaction.
-The adverse reactions most commonly leading to discontinuation of BANZEL (> 1%) used as adjunctive therapy are presented in Table 5.
+The adverse reactions most commonly leading to discontinuation of BANZEL (>1%) used as adjunctive therapy are presented in Table 5.
 
 Table 5: Adverse Reactions Most Commonly Leading to Discontinuation in Double-Blind Adjunctive Trials (up to 3200 mg/day) in Adult Patients
 
@@ -110,17 +110,23 @@ Table 5: Adverse Reactions Most Commonly Leading to Discontinuation in Double-Bl
 | Nausea | 1 | 0 |
 | Ataxia | 1 | 0 |
 
+Pediatric (age 1 to less than 4 years)
+
+In a multicenter, open-label study comparing the addition of BANZEL to the addition of any other AED of the investigator’s choice in pediatric patients (n=25) 1 to less than 4 years of age with inadequately controlled Lennox-Gastaut Syndrome, patients were exposed to BANZEL as adjunctive therapy for 24 weeks at a dose of up to 45 mg/kg/day, in 2 divided doses, administered as oral suspension (40 mg/mL).
+The adverse event profile was similar to that in children 4 years of age and older, adolescents, and adults.
+Adverse reactions reported in at least 2 (8)% of BANZEL-treated patients and with a higher frequency than in the any-other-AED group were: vomiting (24%), somnolence (16%), decreased appetite (12%), cough (12%), constipation (8%), weight decreased (8%), bronchitis (8%), and nasal congestion (8%).
+
 Other Adverse Events Observed During Clinical Trials:
 
 BANZEL has been administered to 1978 individuals during all epilepsy clinical trials (placebo-controlled and open-label).
 Adverse events occurring during these studies were recorded by the investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of patients having adverse events, these events were grouped into standardized categories using the MedDRA dictionary.
 Adverse events occurring at least three times and considered possibly related to treatment are included in the System Organ Class listings below.
-Terms not included in the listings are those already included in the tables above, those too general to be informative, those related to procedures and terms describing events common in the population.
+Terms not included in the listings are those already included in the tables above, those too general to be informative, those related to procedures, and terms describing events common in the population.
 Some events occurring fewer than 3 times are also included based on their medical significance.
 Because the reports include events observed in open-label, uncontrolled observations, the role of BANZEL in their causation cannot be reliably determined.
 
-Events are classified by body system and listed in order of decreasing frequency as follows: frequent adverse events- those occurring in at least 1/100 patients; infrequent adverse events- those occurring in 1/100 to 1/1000 patients; rare- those occurring in fewer than 1/1000 patients.
+Events are classified by body system and listed in order of decreasing frequency as follows: frequent adverse events—those occurring in at least 1/100 patients; infrequent adverse events—those occurring in 1/100 to 1/1000 patients; rare—those occurring in fewer than 1/1000 patients.
 
 Blood and Lymphatic System Disorders: Frequent: anemia.
 Infrequent: lymphadenopathy, leukopenia, neutropenia, iron deficiency anemia, thrombocytopenia.
@@ -131,7 +137,3 @@ Metabolic and Nutritional Disorders: Frequent: decreased appetite, increased app
 
 Renal and Urinary Disorders: Frequent: pollakiuria.
 Infrequent: urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
-
-## 6.2 Postmarketing Experience
-
-Decreased weight has been reported in patients receiving rufinamide both in the presence and absence of gastrointestinal symptoms.
