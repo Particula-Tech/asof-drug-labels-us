@@ -45,7 +45,7 @@ Healthcare providers should temporarily stop omeprazole treatment at least 14 da
 Enterochromaffin-like (ECL) Cell Effects
 
 Human gastric biopsy specimens have been obtained from more than 3000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [seeClinical Pharmacology (12)].
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [see Clinical Pharmacology (12)].
 However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
@@ -67,7 +67,7 @@ The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. doub
 No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
 Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
 No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa and no patient developed esophageal carcinoma during treatment.
-No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [seeClinical Pharmacology (12)].
+No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [see Clinical Pharmacology (12)].
 
 ## 12.3 Pharmacokinetics
 
@@ -103,7 +103,7 @@ The majority of the dose (about 77%) was eliminated in urine as at least six met
 Two were identified as hydroxyomeprazole and the corresponding carboxylic acid.
 The remainder of the dose was recoverable in feces.
 This implies a significant biliary excretion of the metabolites of omeprazole.
-Three metabolites have been identified in plasma - the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole.
+Three metabolites have been identified in plasma the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole.
 These metabolites have very little or no antisecretory activity.
 
 Combination Therapy with Antimicrobials
@@ -136,6 +136,10 @@ Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over 
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
 
+Concomitant Use with Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+
 Special Populations
 
 Geriatric Population
@@ -149,18 +153,18 @@ Pediatric Use
 
 The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age:
 
-Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations compared with Adults
+Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. ≤ 20 kg2-5 years10 mg | Children> 20 kg6-16 years20 mg | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as entric-coated granules. (mean 76 kg)23-29 years (n=12) |
+| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules.≤ 20 kg2-5 years10 mg | Children> 20 kg6-16 years20 mg | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as entric-coated granules. (mean 76 kg)23-29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
 | CmaxPlasma concentration adjusted to an oral dose of 1 mg/kg.(ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| AUC(ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| Cmax(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
+| AUC(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
-Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ [seeDosage and Administration (2)].
+Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ [see Dosage and Administration (2)].
 
 Hepatic Impairment
 

@@ -28,11 +28,16 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 ## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
 
-Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, iron salts and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
+Due to its effects on gastric acid secretion, omeprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
+
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
-Therefore, patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
-In the clinical trials, antacids were used concomitantly with the administration of PRILOSEC.
+Co-administration of digoxin with PRILOSEC is expected to increase the systemic exposure of digoxin.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with PRILOSEC.
+
+Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PRILOSEC and MMF.
+Use PRILOSEC with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
 
@@ -65,7 +70,7 @@ Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of PRILOSEC with clopidogrel.
-When using PRILOSEC, consider use of alternative anti-platelet therapy [seePharmacokinetics (12.3)].
+When using PRILOSEC, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
 
 There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
 
@@ -75,7 +80,7 @@ Concomitant administration of omeprazole and tacrolimus may increase the serum l
 
 ## 7.5 Interactions with Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [seeWarnings and Precautions (5.8)andClinical Pharmacology (12)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.10) and Clinical Pharmacology (12)].
 
 ## 7.6 Combination Therapy with Clarithromycin
 
@@ -85,4 +90,4 @@ Because of these drug interactions, clarithromycin is contraindicated for co-adm
 ## 7.7 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [seeWarnings and Precautions (5.9)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.11)].

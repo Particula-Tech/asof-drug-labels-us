@@ -53,7 +53,7 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 Table 5 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
 
-|  | Per-ProtocolPatients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-TreatPatients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
+|  | Per-ProtocolPatients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-TreatPatients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
 |  | PRILOSEC +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
 | Study 1 | 77(p < 0.05) versus clarithromycin plus amoxicillin. [64, 86](n = 64) | 69 [57, 79](n = 80) | 43 [31, 56](n = 67) | 37 [27, 48] (n = 84) |
@@ -92,11 +92,11 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 
 Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
 
-|  | H. pylori eradicatedH. pylori eradication status assessed at same time point as ulcer recurrence. | H. pylori not eradicatedH. pylori eradication status assessed at same time point as ulcer recurrence. |
+|  | H. pylori eradicatedH. pylori eradication status assessed at same time point as ulcer recurrence. | H. pylori not eradicated |
 | --- | --- | --- |
 | U.S. StudiesCombined results for PRILOSEC + clarithromycin, PRILOSEC, and clarithromycin treatment arms |  |  |
 | 6 months post-treatment |  |  |
-| Study 4 | 35(p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated(n=49) | 60(n=88) |
+| Study 4 | 35 (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated(n=49) | 60(n=88) |
 | Study 5 | 8(n=53) | 60(n=106) |
 | Non U.S. StudiesCombined results for PRILOSEC + clarithromycin and PRILOSEC treatment arms |  |  |
 | 6 months post-treatment |  |  |
@@ -158,7 +158,7 @@ Complete daytime and nighttime heartburn relief occurred significantly faster (p
 
 In this and five other controlled GERD studies, significantly more patients taking 20 mg omeprazole (84%) reported complete relief of GERD symptoms than patients receiving placebo (12%).
 
-Long Term Maintenance of Healing of Erosive Esophagitis
+Long-Term Maintenance Of Healing of Erosive Esophagitis
 
 In a U.S. double-blind, randomized, multicenter, placebo controlled study, two dose regimens of PRILOSEC were studied in patients with endoscopically confirmed healed esophagitis.
 Results to determine maintenance of healing of erosive esophagitis are shown below.
@@ -185,18 +185,18 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, PRILOSEC Delayed-Release Capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [seeDosage and Administration (2)].
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see Dosage and Administration (2)].
 PRILOSEC was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by PRILOSEC.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with PRILOSEC developed gastric carcinoids.
-These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of PRILOSEC [seeAdverse Reactions (6)].
+These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of PRILOSEC [see Adverse Reactions (6)].
 
 ## 14.6 Pediatric GERD
 
 Symptomatic GERD
 
-The effectiveness of PRILOSEC for the treatment of nonerosive GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from 125 pediatric patients in two uncontrolled Phase III studies [seeUse in Specific Populations (8.4)].
+The effectiveness of PRILOSEC for the treatment of nonerosive GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from 125 pediatric patients in two uncontrolled Phase III studies [see Use in Specific Populations (8.4)].
 
 The first study enrolled 12 pediatric patients 1 to 2 years of age with a history of clinically diagnosed GERD.
 Patients were administered a single dose of omeprazole (0.5 mg/kg, 1.0 mg/kg, or 1.5 mg/kg) for 8 weeks as an open capsule in 8.4% sodium bicarbonate solution.

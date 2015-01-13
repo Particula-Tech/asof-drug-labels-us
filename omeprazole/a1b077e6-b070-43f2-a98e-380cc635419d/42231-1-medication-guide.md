@@ -43,20 +43,20 @@ PRILOSEC reduces the amount of acid in your stomach.
 PRILOSEC is used in adults:
 
 - 
-  - •for up to 8 weeks for the healing of duodenal ulcers.
+  - ofor up to 8 weeks for the healing of duodenal ulcers.
     The duodenal area is the area where food passes when it leaves the stomach.
-  - •with certain antibiotics to treat an infection caused by bacteria called H. pylori.
+  - owith certain antibiotics to treat an infection caused by bacteria called H. pylori.
     Sometimes H. pylori bacteria can cause duodenal ulcers.
     The infection needs to be treated to prevent the ulcers from coming back.
-  - •for up to 8 weeks for healing stomach ulcers.
-  - •for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
+  - ofor up to 8 weeks for healing stomach ulcers.
+  - ofor up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
     GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
     This may cause a burning feeling in your chest or throat, sour taste, or burping.
-  - •for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
+  - ofor up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
     If needed, your doctor may decide to prescribe another 4 weeks of PRILOSEC.
-  - •to maintain healing of the esophagus.
+  - oto maintain healing of the esophagus.
     It is not known if PRILOSEC is safe and effective when used for longer than 12 months (1 year) for this purpose.
-  - •for the long-term treatment of conditions where your stomach makes too much acid.
+  - ofor the long-term treatment of conditions where your stomach makes too much acid.
     This includes a rare condition called Zollinger-Ellison Syndrome.
 
 For children 1 to 16 years of age, PRILOSEC is used:
@@ -114,6 +114,7 @@ Especially tell your doctor if you take:
 - •rifampin (Rimactane, Rifater, Rifamate),
 - •erlotinib (Tarceva)
 - •methotrexate
+- •mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -128,10 +129,10 @@ How should I take PRILOSEC?
 - •Swallow PRILOSEC capsules whole.
   Do not chew or crush PRILOSEC Capsules.
 - •If you have trouble swallowing PRILOSEC Capsules, you may take as follows:
-  - •Place 1 tablespoon of applesauce into a clean bowl.
-  - •Carefully open the capsule and empty the contents (pellets) onto the applesauce.
+  - oPlace 1 tablespoon of applesauce into a clean bowl.
+  - oCarefully open the capsule and empty the contents (pellets) onto the applesauce.
     Mix the pellets with the applesauce.
-  - •Swallow the applesauce and pellet mixture right away with a glass of cool water.
+  - oSwallow the applesauce and pellet mixture right away with a glass of cool water.
     Do not chew or crush the pellets.
     Do not store the applesauce and pellet mixture for later use.
 - •If you forget to take a dose of PRILOSEC, take it as soon as you remember.
@@ -140,7 +141,35 @@ How should I take PRILOSEC?
   Do not take a double dose to make up for a missed dose.
 - •If you take too much PRILOSEC, tell your doctor right away.
 - •See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take PRILOSEC For Delayed-Release Oral Suspension, and how to mix and give PRILOSEC For Delayed-Release Oral Suspension, through a nasogastric tube or gastric tube.
-  What are the possible side effects of PRILOSEC?PRILOSEC can cause serious side effects, including:
+
+What are the possible side effects of PRILOSEC?
+
+PRILOSEC can cause serious side effects, including:
+
+- •See “What is the most important information I should know about PRILOSEC?”
+- •Chronic (lasting a long time) inflammation of the stomach lining (Atrophic Gastritis).
+  Using PRILOSEC for a long period of time may increase the risk of inflammation to your stomach lining.
+  You may or may not have symptoms.
+  Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- •Vitamin B-12 deficiency.
+  PRILOSEC reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency is you have been on PRILOSEC for a long time (more than 3 years).
+- •Low magnesium levels in your body.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+  Tell your doctor right away if you develop any of these symptoms:
+  - •seizures
+  - •dizziness
+  - •abnormal or fast heart beat
+  - •jitteriness
+  - •jerking movements or shaking (tremors)
+  - •muscle weakness
+  - •spasms of the hands and feet
+  - •cramps or muscle aches
+  - •spasm of the voice box
+- Your doctor may check the level of magnesium in your body before you start taking PRILOSEC or during treatment if you will be taking PRILOSEC for a long period of time.
 
 The most common side effects with PRILOSEC in adults and children include:
 
@@ -247,7 +276,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised March 2014
+Revised December 2014
 
 PRILOSEC is a registered trademark of the AstraZeneca group of companies.
 
