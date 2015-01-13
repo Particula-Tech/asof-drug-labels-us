@@ -4,7 +4,7 @@
 
 Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of LAMICTAL in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
-To illustrate, 1 dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
+To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
 Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
 
@@ -21,20 +21,20 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered LAMICTAL with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered LAMICTAL in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
-Multiorgan hypersensitivity reactions, also known as drug reaction with eosinophilia and systemic symptoms (DRESS), have occurred with LAMICTAL.
+Multiorgan hypersensitivity reactions, also known as drug reaction with eosinophilia and systemic symptoms (DRESS), have occurred with lamotrigine.
 Some have been fatal or life threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
 
-Fatalities associated with acute multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received LAMICTAL in epilepsy clinical trials.
+Fatalities associated with acute multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received lamotrigine in epilepsy clinical trials.
 Rare fatalities from multiorgan failure have also been reported in postmarketing use.
 
-Isolated liver failure without rash or involvement of other organs has also been reported with LAMICTAL.
+Isolated liver failure without rash or involvement of other organs has also been reported with lamotrigine.
 
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though a rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
@@ -81,7 +81,7 @@ Anyone considering prescribing LAMICTAL or any other AED must balance the risk o
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, the emergence of suicidal thoughts or behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, the emergence of suicidal thoughts or suicidal behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Use in Patients with Bipolar Disorder
@@ -102,16 +102,16 @@ Overdoses have been reported for LAMICTAL, some of which have been fatal [see Ov
 
 ## 5.6 Aseptic Meningitis
 
-Therapy with LAMICTAL increases the risk of developing aseptic meningitis.
+Therapy with lamotrigine increases the risk of developing aseptic meningitis.
 Because of the potential for serious outcomes of untreated meningitis due to other causes, patients should also be evaluated for other causes of meningitis and treated as appropriate.
 
-Postmarketing cases of aseptic meningitis have been reported in pediatric and adult patients taking LAMICTAL for various indications.
+Postmarketing cases of aseptic meningitis have been reported in pediatric and adult patients taking lamotrigine for various indications.
 Symptoms upon presentation have included headache, fever, nausea, vomiting, and nuchal rigidity.
 Rash, photophobia, myalgia, chills, altered consciousness, and somnolence were also noted in some cases.
 Symptoms have been reported to occur within 1 day to one and a half months following the initiation of treatment.
-In most cases, symptoms were reported to resolve after discontinuation of LAMICTAL.
+In most cases, symptoms were reported to resolve after discontinuation of lamotrigine.
 Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe.
-Some of the patients treated with LAMICTAL who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
+Some of the patients treated with lamotrigine who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 
 Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
 CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
@@ -129,7 +129,7 @@ To avoid the medication error of using the wrong drug or formulation, patients s
 ## 5.8 Concomitant Use with Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
-Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL[see Dosage and Administration (2.1)].
+Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL [see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (pill-free week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 
@@ -160,7 +160,7 @@ This evidence suggests, although it certainly does not prove, that the high SUDE
 
 ## 5.12 Addition of LAMICTAL to a Multidrug Regimen that Includes Valproate
 
-Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence.
+Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
 
 ## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 
@@ -174,5 +174,5 @@ Accordingly, although there are no specific recommendations for periodic ophthal
 ## 5.14 Laboratory Tests
 
 The value of monitoring plasma concentrations of lamotrigine in patients treated with LAMICTAL has not been established.
-Because of the possible pharmacokinetic interactions between lamotrigine and other drugs including AEDs (see Table 15), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
+Because of the possible pharmacokinetic interactions between lamotrigine and other drugs, including AEDs (see Table 15), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
 In general, clinical judgment should be exercised regarding monitoring of plasma levels of lamotrigine and other drugs and whether or not dosage adjustments are necessary.

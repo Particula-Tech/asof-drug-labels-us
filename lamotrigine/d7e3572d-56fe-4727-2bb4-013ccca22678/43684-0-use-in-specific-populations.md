@@ -22,10 +22,10 @@ Some of these deaths appear to be drug related and not secondary to the maternal
 A no-observed-effect level (NOEL) could not be determined for this study.
 
 Although lamotrigine was not found to be teratogenic in the above studies, lamotrigine decreases fetal folate concentrations in rats, an effect known to be associated with teratogenesis in animals and humans.
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well-controlled trials in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Non-Teratogenic Effects: As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
+Nonteratogenic Effects: As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-partum concentrations after delivery.
 Dosage adjustments may be necessary to maintain clinical response.
 
@@ -51,9 +51,9 @@ Caution should be exercised when LAMICTAL is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-LAMICTAL is indicated as adjunctive therapy in patients aged 2 years and older for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
+LAMICTAL is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
-Safety and efficacy of LAMICTAL used as adjunctive treatment for partial seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal study in very young pediatric patients (aged 1 to 24 months).
+Safety and efficacy of LAMICTAL used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
 LAMICTAL was associated with an increased risk for infectious adverse reactions (LAMICTAL 37%, placebo 5%), and respiratory adverse reactions (LAMICTAL 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
@@ -62,13 +62,13 @@ Safety and effectiveness in patients younger than 18 years with bipolar disorder
 
 ## 8.5 Geriatric Use
 
-Clinical studies of LAMICTAL for epilepsy and bipolar disorder did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Clinical trials of LAMICTAL for epilepsy and bipolar disorder did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients or exhibit a different safety profile than that of younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 ## 8.6 Patients with Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 patients with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].
@@ -76,8 +76,8 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 ## 8.7 Patients with Renal Impairment
 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
-In a small study comparing a single dose of lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was significantly longer in the patients with renal impairment [see Clinical Pharmacology (12.3)].
+In a small study comparing a single dose of lamotrigine in subjects with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the subjects with chronic renal failure [see Clinical Pharmacology (12.3)].
 
 Initial doses of LAMICTAL should be based on patients’ AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
-Few patients with severe renal impairment have been evaluated during chronic treatment with LAMICTAL.
+Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
 Because there is inadequate experience in this population, LAMICTAL should be used with caution in these patients [see Dosage and Administration (2.1)].

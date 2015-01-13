@@ -412,7 +412,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0772-02
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -434,18 +434,18 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
 Made in India
 
-10000000091910 Rev.
-3/11
+©2014, the GSK group of companies
+
+10000000129915 Rev.
+11/14
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0774-02
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -467,18 +467,18 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
 Made in India
 
-10000000092032 Rev.
-2/11
+©2014, the GSK group of companies
+
+10000000129917 Rev.
+11/14
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0776-02
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -500,18 +500,18 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
 Made in India
 
-10000000092031 Rev.
-3/11
+©2014, the GSK group of companies
+
+10000000129916 Rev.
+11/14
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0777-02
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -533,18 +533,18 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
-
 Made in India
 
-10000000091909 Rev.
-2/11
+©2014, the GSK group of companies
+
+10000000129914Rev.
+11/14
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0779-00
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -574,17 +574,20 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
+GSK
 
 Visit www.LAMICTALODT.com for more information
 
-10000000071820
+Rev.
+11/14
+
+10000000129909
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0780-00
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -594,7 +597,7 @@ Patient Titration Kit
 
 RX ONLY
 
-For patients TAKING carbamazepine, phenytoin, Phenobarbital, or primidone, and NOT TAKING valproate*
+For patients TAKING carbamazepine, phenytoin, phenobarbital, or primidone, and NOT TAKING valproate*
 
 *See prescribing information for other drugs that may affect dosing of LAMICTAL ODT.
 
@@ -614,17 +617,20 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
+GSK
 
-Visit www.LAMICTALODT.com for more information\
+Visit www.LAMICTALODT.com for more information.
 
-10000000071822
+Rev.
+11/14
+
+10000000129910
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0778-00
 
-LAMICTAL® ODTTM
+LAMICTAL ODT®
 
 (LAMOTRIGINE)
 
@@ -655,8 +661,11 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GlaxoSmithKline
+GSK
 
 Visit www.LAMICTALODT.com for more information
 
-10000000071826
+Rev.
+11/14
+
+10000000129912
