@@ -44,7 +44,7 @@ Enterochromaffin-like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous esomeprazole on ECL cells.
 
-In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology, (13.1)].
+In 24-month carcinogenicity studies of oral omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology, (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated orally with omeprazole in long-term clinical trials.
@@ -114,6 +114,10 @@ Results from a crossover study in healthy subjects have shown a pharmacokinetic 
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
 
+Concomitant Use with Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+
 Specific Populations
 
 Investigation of age, gender, race, renal, and hepatic impairment and metabolizer status has been made previously with oral esomeprazole.
@@ -143,7 +147,7 @@ Hepatic Impairment
 In oral studies, the steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh Class A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Use in Specific Populations (8.6)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a maximum dose of 20 mg once daily should not be exceeded [seeDosage and Administration (2), Use in Specific Populations (8.6)].
 
 There are no pharmacokinetic data available for esomeprazole administered as continuous intravenous administration in patients with liver impairment.
 The pharmacokinetics of omeprazole 80 mg over 30 minutes, followed by 8 mg/h over 47.5 hours in patients with mild (Child Pugh Class A; n=5), moderate (Child Pugh Class B; n=4) and severe (Child Pugh Class C; n=3) liver impairment were compared to those obtained in 24 male and female healthy volunteers.
@@ -152,7 +156,7 @@ In patients with severe liver impairment, the omeprazole clearance was 50% of th
 
 For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
 For adult patients with mild to moderate liver impairment (Child Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
+For adult patients with severe liver impairment (Child Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [seeDosage and Administration (2.2), Use in Specific Populations (8.6)].
 
 Renal Impairment
 

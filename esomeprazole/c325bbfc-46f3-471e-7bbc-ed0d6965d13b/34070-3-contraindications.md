@@ -1,3 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Patients with known hypersensitivity to any component of the formulation or to substituted benzimidazoles (angioedema and anaphylaxis have occurred).
+NEXIUM I.V. is contraindicated in patients with known hypersensitivity to substituted benzimidazoles or to any component of the formulation.
+Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute interstitial nephritis, and urticaria [seeAdverse Reactions (6)].

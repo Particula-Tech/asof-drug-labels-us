@@ -17,7 +17,7 @@ However, at that time, the plasma levels of diazepam were below the therapeutic 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of NEXIUM I.V. with clopidogrel.
-When using NEXIUM I.V., consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
+When using NEXIUM I.V., consider use of alternative anti-platelet therapy [seeClinical Pharmacology (12.3)].
 
 Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
@@ -53,17 +53,20 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
 
-Esomeprazole inhibits gastric acid secretion.
-Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
-Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Due to its effects on gastric acid secretion, esomeprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
 Esomeprazole is an enantiomer of omeprazole.
-Coadministration of digoxin with esomeprazole is expected to increase the systemic exposure of digoxin.
-Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole.
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Co-administration of digoxin with NEXIUM I.V. is expected to increase the systemic exposure of digoxin.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with NEXIUM I.V.
+
+Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving NEXIUM I.V.and MMF.
+Use NEXIUM I.V. with caution in transplant patients receiving MMF [seeClinical Pharmacology (12.3)].
 
 ## 7.1 Interactions with Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.8) andClinical Pharmacology (12.2)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [seeWarnings and Precautions (5.9)and Clinical Pharmacology (12.2)].
 
 ## 7.2 Tacrolimus
 
@@ -72,4 +75,4 @@ Concomitant administration of esomeprazole and tacrolimus may increase the serum
 ## 7.3 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [seeWarnings and Precautions (5.10)].

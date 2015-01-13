@@ -14,7 +14,7 @@ The data described below reflect exposure to NEXIUM I.V. for Injection in 359 pa
 NEXIUM I.V. for Injection was studied only in actively-controlled trials.
 The population was 18 to 77 years of age; 45% Male, 52% Caucasian, 17% Black, 3% Asian, 28% Other, and had either erosive reflux esophagitis (44%) or GERD (56%).
 Most patients received doses of either 20 or 40 mg either as an infusion or an injection.
-Adverse reactions occurring in ≥1% of patients treated with intravenous esomeprazole (n=359) in clinical trials are listed below:
+Adverse reactions occurring in ≥ 1% of patients treated with intravenous esomeprazole (n=359) in clinical trials are listed below:
 
 Table 2 Adverse reactions occurring at an incidence ≥ 1% in the NEXIUM I.V. group
 
@@ -31,12 +31,12 @@ Table 2 Adverse reactions occurring at an incidence ≥ 1% in the NEXIUM I.V. gr
 | Injection site reaction | 1.7 |
 | Pruritus | 1.1 |
 
-Intravenous treatment with esomeprazole 20 and 40 mg administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole.
+Intravenous treatment with esomeprazole 20 and 40 mg-administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole.
 
 Pediatric
 
 A randomized, open-label, multi-national study to evaluate the pharmacokinetics of repeated intravenous doses of once daily esomeprazole in pediatric patients 1 month to 17 years old, inclusive was performed.
-The safety results are consistent with the known safety profile of esomeprazole and no unexpected safety signals were identified [see Clinical Pharmacology (12.3)].
+The safety results are consistent with the known safety profile of esomeprazole and no unexpected safety signals were identified [seeClinical Pharmacology (12.3)].
 
 Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults
 
