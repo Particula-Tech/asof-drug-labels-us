@@ -303,7 +303,7 @@ Psychiatric Disorders: agitation, blunted affect, confusional state, middle inso
 
 Renal and Urinary Disorders: enuresis, dysuria, pollakiuria, urinary incontinence
 
-Reproductive System and Breast Disorders: menstruation irregular, amenorrhea, gynecomastia, vaginal discharge, menstrual disorder, erectile dysfunction, retrograde ejaculation, ejaculation disorder, sexual dysfunction, breast enlargement
+Reproductive System and Breast Disorders: menstruation irregular, amenorrhea, gynecomastia, galactorrhea, vaginal discharge, menstrual disorder, erectile dysfunction, retrograde ejaculation, ejaculation disorder, sexual dysfunction, breast enlargement
 
 Respiratory, Thoracic, and Mediastinal Disorders: wheezing, pneumonia aspiration, sinus congestion, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
 
@@ -419,5 +419,5 @@ In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), the
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of risperidone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention and water intoxication.

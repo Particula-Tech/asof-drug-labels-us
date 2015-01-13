@@ -43,7 +43,7 @@ Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-06-2014-00
+01-2015-01
 
 Risperidone Oral Solution, USP
 
@@ -83,4 +83,4 @@ Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-06-2014-00
+01-2015-01

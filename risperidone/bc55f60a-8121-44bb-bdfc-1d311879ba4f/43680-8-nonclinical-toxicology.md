@@ -34,7 +34,7 @@ Impairment of Fertility
 
 Risperidone (0.16 to 5 mg/kg) was shown to impair mating, but not fertility, in Wistar rats in three reproductive studies (two Segment I and a multigenerational study) at doses 0.1 to 3 times the maximum recommended human dose (MRHD) on a mg/m2 body surface area basis.
 The effect appeared to be in females, since impaired mating behavior was not noted in the Segment I study in which males only were treated.
-In a subchronic study in Beagle dogs in which risperidone was administered at doses of 0.31 to 5 mg/kg, sperm motility and concentration were decreased at doses 0.6 to 10 times the MRHD on a mg/m2 body surface area basis.
+In a subchronic study in Beagle dogs in which risperidone was administered orally at doses of 0.31 to 5 mg/kg, sperm motility and concentration were decreased at doses 0.6 to 10 times the MRHD on a mg/m2 body surface area basis.
 Dose-related decreases were also noted in serum testosterone at the same doses.
 Serum testosterone and sperm parameters partially recovered, but remained decreased after treatment was discontinued.
 A no-effect dose could not be determined in either rat or dog.
