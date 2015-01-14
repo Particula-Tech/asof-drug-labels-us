@@ -18,23 +18,23 @@ Call your doctor or get medical help right away if you have any of these problem
 - •Problems swallowing, speaking, or breathing.
   These problems can happen within hours, or days to weeks after an injection of DYSPORT® usually because the muscles that you use to breathe and swallow can become weak after the injection.
   Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with DYSPORT®.
-  - 1.People with certain breathing problems may need to use muscles in their neck to help them breathe.
+  - •People with certain breathing problems may need to use muscles in their neck to help them breathe.
     These patients may be at greater risk for serious breathing problems with DYSPORT®.
-  - 2.Swallowing problems may last for several weeks.
+  - •Swallowing problems may last for several weeks.
     People who can not swallow well may need a feeding tube to receive food and water.
     If swallowing problems are severe, food or liquids may go into your lungs.
     People who already have swallowing or breathing problems before receiving DYSPORT® have the highest risk of getting these problems.
 - •Spread of toxin effects.
   In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
   The symptoms of botulism include:
-  - 3.loss of strength and muscle weakness all over the body
-  - 4.double vision
-  - 5.blurred vision and drooping eyelids
-  - 6.hoarseness or change or loss of voice (dysphonia)
-  - 7.trouble saying words clearly (dysarthria)
-  - 8.loss of bladder control
-  - 9.trouble breathing
-  - 10.trouble swallowing
+  - •loss of strength and muscle weakness all over the body
+  - •double vision
+  - •blurred vision and drooping eyelids
+  - •hoarseness or change or loss of voice (dysphonia)
+  - •trouble saying words clearly (dysarthria)
+  - •loss of bladder control
+  - •trouble breathing
+  - •trouble swallowing
 
 These symptoms can happen within hours, or days to weeks after you receive an injection of DYSPORT®.
 
