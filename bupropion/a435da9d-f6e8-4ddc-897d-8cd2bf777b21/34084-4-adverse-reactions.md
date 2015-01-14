@@ -1,219 +1,240 @@
-ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
+# 6 ADVERSE REACTIONS
 
-Major Depressive Disorder: WELLBUTRIN XL has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion (see CLINICAL PHARMACOLOGY).
-The information included under this subsection is based primarily on data from controlled clinical trials with WELLBUTRIN SR, the sustained-release formulation of bupropion.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-Adverse Events Leading to Discontinuation of Treatment With WELLBUTRIN or WELLBUTRIN SR: In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of the sustained-release formulation of bupropion and 4% of patients treated with placebo discontinued treatment due to adverse events.
-The specific adverse events in these trials that led to discontinuation in at least 1% of patients treated with either 300 mg/day or 400 mg/day of WELLBUTRIN SR, the sustained-release formulation of bupropion, and at a rate at least twice the placebo rate are listed in Table 6.
+- •Suicidal thoughts and behaviors in children, adolescents, and young adults [see Warnings and Precautions (5.1)]
+- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+- •Seizure [see Warnings and Precautions (5.3)]
+- •Hypertension [see Warnings and Precautions (5.4)]
+- •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
+- •Psychosis and other neuropsychiatric events [see Warnings and Precautions (5.6)]
+- •Angle Closure Glaucoma [see Warnings and Precautions (5.7)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
-Table 6.
-Treatment Discontinuations Due to Adverse Events in Placebo-Controlled Trials for Major Depressive Disorder
+## 6.1 Clinical Trials Experience
 
-| Adverse Event Term | WELLBUTRIN SR300 mg/day(n = 376) | WELLBUTRIN SR400 mg/day(n = 114) | Placebo(n = 385) |
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+### Commonly Observed Adverse Reactions in Controlled Clinical Trials of Sustained-Release Bupropion Hydrochloride
+
+Adverse reactions that occurred in at least 5% of patients treated with bupropion HCl sustained-release (300 mg and 400 mg per day) and at a rate at least twice the placebo rate are listed below.
+
+300 mg/day of bupropion HCl sustained-release: anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
+
+400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
+
+WELLBUTRIN XL has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
+The information included under this subsection and under the subsections 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended release formulations of bupropion hydrochloride.
+
+Major Depressive Disorder
+
+Adverse Reactions Leading to Discontinuation of Treatment with Bupropion HCl Immediate-Release, Bupropion HCl Sustained-Release, and Bupropion HCl Extended-Release in Major Depressive Disorder Trials
+
+In placebo-controlled clinical trials with bupropion HCl sustained-release, 4%, 9%, and 11% of the placebo, 300 mg/day and 400 mg/day groups, respectively, discontinued treatment because of adverse reactions.
+The specific adverse reactions leading to discontinuation in at least 1% of the 300 mg/day or 400 mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
+
+Table 2: Treatment Discontinuation Due to Adverse Reactions in Placebo-Controlled Trials in MDD
+
+| Adverse Reaction Term | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
 | --- | --- | --- | --- |
-| Rash | 2.4% | 0.9% | 0.0% |
-| Nausea | 0.8% | 1.8% | 0.3% |
-| Agitation | 0.3% | 1.8% | 0.3% |
-| Migraine | 0.0% | 1.8% | 0.3% |
+| Rash | 0.0% | 2.4% | 0.9% |
+| Nausea | 0.3% | 0.8% | 1.8% |
+| Agitation | 0.3% | 0.3% | 1.8% |
+| Migraine | 0.3% | 0.0% | 1.8% |
 
-In clinical trials with the immediate-release formulation of bupropion, 10% of patients and volunteers discontinued due to an adverse event.
-Events resulting in discontinuation, in addition to those listed above for the sustained-release formulation of bupropion, include vomiting, seizures, and sleep disturbances.
+In clinical trials with bupropion HCl immediate-release, 10% of patients and volunteers discontinued due to an adverse reaction.
+Reactions resulting in discontinuation, (in addition to those listed above for the sustained-release formulation), included vomiting, seizures, and sleep disturbances.
 
-Adverse Events Occurring at an Incidence of 1% or More Among Patients Treated With WELLBUTRIN or WELLBUTRIN SR: Table 7 enumerates treatment-emergent adverse events that occurred among patients treated with 300 and 400 mg/day of the sustained-release formulation of bupropion and with placebo in controlled trials.
-Events that occurred in either the 300- or 400-mg/day group at an incidence of 1% or more and were more frequent than in the placebo group are included.
-Reported adverse events were classified using a COSTART-based Dictionary.
+Adverse Reactions Occurring at an Incidence of >1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
 
-Accurate estimates of the incidence of adverse events associated with the use of any drug are difficult to obtain.
-Estimates are influenced by drug dose, detection technique, setting, physician judgments, etc. The figures cited cannot be used to predict precisely the incidence of untoward events in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
-These incidence figures also cannot be compared with those obtained from other clinical studies involving related drug products as each group of drug trials is conducted under a different set of conditions.
+Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
+These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group are included.
 
-Finally, it is important to emphasize that the tabulation does not reflect the relative severity and/or clinical importance of the events.
-A better perspective on the serious adverse events associated with the use of bupropion is provided in the WARNINGS and PRECAUTIONS sections.
+Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 
-Table 7.
-Treatment-Emergent Adverse Events in Placebo-Controlled TrialsAdverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of the sustained-release formulation of bupropion, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder. for Major Depressive Disorder
-
-| Body System/Adverse Event | WELLBUTRIN SR300 mg/day(n = 376) | WELLBUTRIN SR400 mg/day(n = 114) | Placebo(n = 385) |
+| Body System/Adverse Reaction | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/day (n=376) | Bupropion HCl Sustained-Release 400 mg/day (n=114) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
-| Headache | 26% | 25% | 23% |
-| Infection | 8% | 9% | 6% |
-| Abdominal pain | 3% | 9% | 2% |
-| Asthenia | 2% | 4% | 2% |
-| Chest pain | 3% | 4% | 1% |
-| Pain | 2% | 3% | 2% |
-| Fever | 1% | 2% | — |
+| Headache | 23% | 26% | 25% |
+| Infection | 6% | 8% | 9% |
+| Abdominal pain | 2% | 3% | 9% |
+| Asthenia | 2% | 2% | 4% |
+| Chest Pain | 1% | 3% | 4% |
+| Pain | 2% | 2% | 3% |
+| Fever | — | 1% | 2% |
 | Cardiovascular |  |  |  |
-| Palpitation | 2% | 6% | 2% |
-| Flushing | 1% | 4% | — |
-| Migraine | 1% | 4% | 1% |
-| Hot flashes | 1% | 3% | 1% |
+| Palpitation | 2% | 2% | 6% |
+| Flushing | — | 1% | 4% |
+| Migraine | 1% | 1% | 4% |
+| Hot flashes | 1% | 1% | 3% |
 | Digestive |  |  |  |
-| Dry mouth | 17% | 24% | 7% |
-| Nausea | 13% | 18% | 8% |
-| Constipation | 10% | 5% | 7% |
-| Diarrhea | 5% | 7% | 6% |
-| Anorexia | 5% | 3% | 2% |
-| Vomiting | 4% | 2% | 2% |
-| Dysphagia | 0% | 2% | 0% |
+| Dry mouth | 7% | 17% | 24% |
+| Nausea | 8% | 13% | 18% |
+| Constipation | 7% | 10% | 5% |
+| Diarrhea | 6% | 5% | 7% |
+| Anorexia | 2% | 5% | 3% |
+| Vomiting | 2% | 4% | 2% |
+| Dysphagia | 0% | 0% | 2% |
 | Musculoskeletal |  |  |  |
-| Myalgia | 2% | 6% | 3% |
-| Arthralgia | 1% | 4% | 1% |
-| Arthritis | 0% | 2% | 0% |
-| Twitch | 1% | 2% | — |
-| Nervous system |  |  |  |
-| Insomnia | 11% | 16% | 6% |
-| Dizziness | 7% | 11% | 5% |
-| Agitation | 3% | 9% | 2% |
-| Anxiety | 5% | 6% | 3% |
-| Tremor | 6% | 3% | 1% |
-| Nervousness | 5% | 3% | 3% |
-| Somnolence | 2% | 3% | 2% |
-| Irritability | 3% | 2% | 2% |
-| Memory decreased | — | 3% | 1% |
-| Paresthesia | 1% | 2% | 1% |
-| Central nervous system stimulation | 2% | 1% | 1% |
+| Myalgia | 3% | 2% | 6% |
+| Arthralgia | 1% | 1% | 4% |
+| Arthritis | 0% | 0% | 2% |
+| Twitch | — | 1% | 2% |
+| Nervous System |  |  |  |
+| Insomnia | 6% | 11% | 16% |
+| Dizziness | 5% | 7% | 11% |
+| Agitation | 2% | 3% | 9% |
+| Anxiety | 3% | 5% | 6% |
+| Tremor | 1% | 6% | 3% |
+| Nervousness | 3% | 5% | 3% |
+| Somnolence | 2% | 2% | 3% |
+| Irritability | 2% | 3% | 2% |
+| Memory decreased | 1% | — | 3% |
+| Paresthesia | 1% | 1% | 2% |
+| Central nervous system stimulation | 1% | 2% | 1% |
 | Respiratory |  |  |  |
-| Pharyngitis | 3% | 11% | 2% |
-| Sinusitis | 3% | 1% | 2% |
-| Increased cough | 1% | 2% | 1% |
+| Pharyngitis | 2% | 3% | 11% |
+| Sinusitis | 2% | 3% | 1% |
+| Increased cough | 1% | 1% | 2% |
 | Skin |  |  |  |
-| Sweating | 6% | 5% | 2% |
-| Rash | 5% | 4% | 1% |
-| Pruritus | 2% | 4% | 2% |
-| Urticaria | 2% | 1% | 0% |
-| Special senses |  |  |  |
-| Tinnitus | 6% | 6% | 2% |
-| Taste perversion | 2% | 4% | — |
-| Blurred vision or diplopia | 3% | 2% | 2% |
+| Sweating | 2% | 6% | 5% |
+| Rash | 1% | 5% | 4% |
+| Pruritus | 2% | 2% | 4% |
+| Urticaria | 0% | 2% | 1% |
+| Special Senses |  |  |  |
+| Tinnitus | 2% | 6% | 6% |
+| Taste perversion | — | 2% | 4% |
+| Blurred vision or diplopia | 2% | 3% | 2% |
 | Urogenital |  |  |  |
-| Urinary frequency | 2% | 5% | 2% |
-| Urinary urgency | — | 2% | 0% |
-| Vaginal hemorrhageIncidence based on the number of female patients. | 0% | 2% | — |
-| Urinary tract infection | 1% | 0% | — |
-| — Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of patients. |  |  |  |
+| Urinary frequency | 2% | 2% | 5% |
+| Urinary urgency | 0% | — | 2% |
+| Vaginal hemorrhageIncidence based on the number of female patients. | — | 0% | 2% |
+| Urinary tract infection | —Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients | 1% | 0% |
 
-Additional events to those listed in Table 7 that occurred at an incidence of at least 1% in controlled clinical trials of the immediate-release formulation of bupropion (300 to 600 mg/day) and that were numerically more frequent than placebo were: cardiac arrhythmias (5% vs 4%), hypertension (4% vs 2%), hypotension (3% vs 2%), tachycardia (11% vs 9%), appetite increase (4% vs 2%), dyspepsia (3% vs 2%), menstrual complaints (5% vs 1%), akathisia (2% vs 1%), impaired sleep quality (4% vs 2%), sensory disturbance (4% vs 3%), confusion (8% vs 5%), decreased libido (3% vs 2%), hostility (6% vs 4%), auditory disturbance (5% vs 3%), and gustatory disturbance (3% vs 1%).
+The following additional adverse reactions occurred in controlled trials of bupropion HCl immediate-release (300 to 600 mg per day) at an incidence of at least 1% more frequently than in the placebo group were: cardiac arrhythmia (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
 
-Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials: Adverse events from Table 7 occurring in at least 5% of patients treated with the sustained-release formulation of bupropion and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg/day dose groups.
+Seasonal Affective Disorder
 
-300 mg/day of WELLBUTRIN SR: Anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
+In placebo-controlled clinical trials in SAD, 9% of patients treated with WELLBUTRIN XL and 5% of patients treated with placebo discontinued treatment because of adverse reactions.
+The adverse reactions leading to discontinuation in at least 1% of patients treated with bupropion and at a rate numerically greater than the placebo rate were insomnia (2% vs. <1%) and headache (1% vs. <1%).
 
-400 mg/day of WELLBUTRIN SR: Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
+Table 4 summarizes the adverse reactions that occurred in patients treated with WELLBUTRIN XL for up to approximately 6 months in 3 placebo-controlled trials.
+These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
-Seasonal Affective Disorder: Adverse Events Leading to Discontinuation of Treatment With WELLBUTRIN XL: In placebo-controlled clinical trials, 9% of patients treated with WELLBUTRIN XL and 5% of patients treated with placebo discontinued treatment due to adverse events.
-The adverse events in these trials that led to discontinuation in at least 1% of patients treated with WELLBUTRIN XL and at a rate numerically greater than the placebo rate are insomnia (2% vs<1%) and headache (1% vs <1%).
+Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
 
-Adverse Events Occurring at an Incidence of 2% or More Among Patients Treated With WELLBUTRIN XL: Table 8 enumerates treatment-emergent adverse events that occurred among patients treated with WELLBUTRIN XL for up to approximately 6 months in 3 placebo-controlled trials.
-Events that occurred at an incidence of 2% or more and were more frequent than in the placebo group are included.
-Reported adverse events were classified using a MedDRA-based Dictionary.
-
-Accurate estimates of the incidence of adverse events associated with the use of any drug are difficult to obtain.
-Estimates are influenced by drug dose, detection technique, setting, physician judgments, etc. The figures cited cannot be used to predict precisely the incidence of untoward events in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
-These incidence figures also cannot be compared with those obtained from other clinical studies involving related drug products as each group of drug trials is conducted under a different set of conditions; e.g., different patient populations, different treatment durations.
-
-Finally, it is important to emphasize that the tabulation does not reflect the relative severity and/or clinical importance of the events.
-A better perspective on the serious adverse events associated with the use of bupropion is provided in the WARNINGS and PRECAUTIONS sections.
-
-Table 8.
-Treatment-Emergent Adverse EventsAdverse events that occurred in at least 2% of patients treated with WELLBUTRIN XL, but equally or more frequently in the placebo group, were: abdominal pain upper, arthralgia, back pain, diarrhea, dyspepsia, fatigue, gastroenteritis viral, hyperhidrosis, influenza, irritability, migraine, nasal congestion, neck pain, palpitations, pharyngolaryngeal pain, sinus congestion. in Placebo-Controlled Trials of Seasonal Affective Disorder
-
-| System Organ Class/Preferred Term | WELLBUTRIN XL(n = 537) | Placebo(n = 511) |
+| System Organ Class/Preferred Term | Placebo (n=511) | Bupropion HCl Extended-Release (n=537) |
 | --- | --- | --- |
 | Gastrointestinal Disorder |  |  |
-| Dry Mouth | 26% | 15% |
-| Nausea | 13% | 8% |
-| Constipation | 9% | 2% |
-| Flatulence | 6% | 3% |
-| Abdominal pain | 2% | <1% |
+| Dry mouth | 15% | 26% |
+| Nausea | 8% | 13% |
+| Constipation | 2% | 9% |
+| Flatulence | 3% | 6% |
+| Abdominal pain | <1% | 2% |
 | Nervous System Disorders |  |  |
-| Headache | 34% | 26% |
-| Dizziness | 6% | 5% |
-| Tremor | 3% | <1% |
+| Headache | 26% | 34% |
+| Dizziness | 5% | 6% |
+| Tremor | <1% | 3% |
 | Infections and Infestations |  |  |
-| Nasopharyngitis | 13% | 12% |
-| Upper respiratory tract infection | 9% | 8% |
-| Sinusitis | 5% | 4% |
+| Nasopharyngitis | 12% | 13% |
+| Upper respiratory tract infection | 8% | 9% |
+| Sinusitis | 4% | 5% |
 | Psychiatric Disorders |  |  |
-| Insomnia | 20% | 13% |
-| Anxiety | 7% | 5% |
-| Abnormal dreams | 3% | 2% |
-| Agitation | 2% | <1% |
+| Insomnia | 13% | 20% |
+| Anxiety | 5% | 7% |
+| Abnormal dreams | 2% | 3% |
+| Agitation | <1% | 2% |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
-| Myalgia | 3% | 2% |
-| Pain in extremity | 3% | 2% |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Cough | 4% | 3% |
+| Myalgia | 2% | 3% |
+| Pain in extremity | 2% | 3% |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Cough | 3% | 4% |
 | General Disorders and Administration Site Conditions |  |  |
-| Feeling jittery | 3% | 2% |
+| Feeling jittery | 2% | 3% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash | 3% | 2% |
+| Rash | 2% | 3% |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased appetite | 4% | 1% |
+| Decreased appetite | 1% | 4% |
 | Reproductive System and Breast Disorders |  |  |
-| Dysmenorrhea | 2% | <1% |
+| Dysmenorrhea | <1% | 2% |
 | Ear and Labyrinth Disorders |  |  |
-| Tinnitus | 3% | <1% |
+| Tinnitus | <1% | 3% |
 | Vascular Disorders |  |  |
-| Hypertension | 2% | 0% |
+| Hypertension | 0% | 2% |
 
-Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials: Adverse events from Table 8 that occurred in at least 5% of patients treated with WELLBUTRIN XL and at a rate at least twice the placebo rate were constipation and flatulence.
+Changes in Body Weight
 
-Adverse Events During Taper or Following Discontinuation of WELLBUTRIN XL: Adverse events with onset during the 2 weeks following down-titration of WELLBUTRIN XL from 300 mg/day to 150 mg/day were reported by 14% of patients compared to 18% of patients who continued on placebo.
+Table 5 presents the incidence of body weight changes (≥5 lbs) in the short-term MDD trials using bupropion HCl sustained-release.
+There was a dose-related decrease in body weight.
 
-Adverse events with onset during the 2 weeks following discontinuation of WELLBUTRIN XL were reported by 9% of patients compared with 12% of patients following discontinuation of placebo.
+Table 5: Incidence of Weight Gain or Weight Loss (≥5 lbs.) in MDD Trials Using Bupropion HCl Sustained-Release
 
-Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion: In addition to the adverse events noted above, the following events have been reported in clinical trials and postmarketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and postmarketing clinical experience with the immediate-release formulation of bupropion.
+| Weight Change | Bupropion HCl Sustained-Release 300 mg/day (n=339) | Bupropion HCl Sustained-Release 400 mg/day (n=112) | Placebo (n=347) |
+| --- | --- | --- | --- |
+| Gained >5 lbs | 3% | 2% | 4% |
+| Lost >5 lbs | 14% | 19% | 6% |
 
-Adverse events for which frequencies are provided below occurred in clinical trials with the sustained-release formulation of bupropion.
-The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n = 987) or smoking cessation (n = 1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with the sustained-release formulation of bupropion (n = 3,100).
-All treatment-emergent adverse events are included except those listed in Tables 2 through 8, those events listed in other safety-related sections, those adverse events subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those events not reasonably associated with the use of the drug, and those events that were not serious and occurred in fewer than 2 patients.
-Events of major clinical importance are described in the WARNINGS and PRECAUTIONS sections of the labeling.
+Table 6 presents the incidence of body weight changes (≥5 lbs) in the 3 SAD trials using bupropion HCl extended-release.
+A higher proportion of subjects in the bupropion group (23%) had a weight loss ≥5 lbs., compared to the placebo group (11%).
+These were relatively long-term trials (up to 6 months).
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions of frequency: Frequent adverse events are defined as those occurring in at least 1/100 patients.
-Infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, while rare events are those occurring in less than 1/1,000 patients.
+Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in SAD Trials Using Bupropion HCl Extended-Release
 
-Adverse events for which frequencies are not provided occurred in clinical trials or postmarketing experience with bupropion.
-Only those adverse events not previously listed for sustained-release bupropion are included.
-The extent to which these events may be associated with WELLBUTRIN XL is unknown.
+| Weight Change | Bupropion HCl Extended-Release 150 to 300 mg/day (n=537) | Placebo (n=511) |
+| --- | --- | --- |
+| Gained >5 lbs | 11% | 21% |
+| Lost >5 lbs | 23% | 11% |
 
-Body (General): Infrequent were chills, facial edema, musculoskeletal chest pain, and photosensitivity.
-Rare was malaise.
-Also observed were arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
-These symptoms may resemble serum sickness (see PRECAUTIONS).
+## 6.2 Postmarketing Experience
 
-Cardiovascular: Infrequent were postural hypotension, stroke, tachycardia, and vasodilation.
-Rare was syncope.
-Also observed were complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe, see PRECAUTIONS), myocardial infarction, phlebitis, and pulmonary embolism.
+The following adverse reactions have been identified during post-approval use of WELLBUTRIN XL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Digestive: Infrequent were abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, and thirst.
-Rare was edema of tongue.
-Also observed were colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
+Body (General)
 
-Endocrine: Also observed were hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+Chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photosensitivity, and malaise.
 
-Hemic and Lymphatic: Infrequent was ecchymosis.
-Also observed were anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
-Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
+Cardiovascular
 
-Metabolic and Nutritional: Infrequent were edema and peripheral edema.
-Also observed was glycosuria.
+Postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
 
-Musculoskeletal: Infrequent were leg cramps.
-Also observed were muscle rigidity/fever/rhabdomyolysis and muscle weakness.
+Digestive
 
-Nervous System: Infrequent were abnormal coordination, decreased libido, depersonalization, dysphoria, emotional lability, hostility, hyperkinesia, hypertonia, hypesthesia, suicidal ideation, and vertigo.
-Rare were amnesia, ataxia, derealization, and hypomania.
-Also observed were abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, thirst, edema of tongue, colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
 
-Respiratory: Rare was bronchospasm.
-Also observed was pneumonia.
+Endocrine
 
-Skin: Rare was maculopapular rash.
-Also observed were alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone secretion.
 
-Special Senses: Infrequent were accommodation abnormality and dry eye.
-Also observed were deafness, diplopia, increased intraocular pressure, and mydriasis.
+Hemic and Lymphatic
 
-Urogenital: Infrequent were impotence, polyuria, and prostate disorder.
-Also observed were abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.
+Ecchymosis, anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
+Altered PT and/or INR, associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
+
+Metabolic and Nutritional
+
+Glycosuria.
+
+Musculoskeletal
+
+Leg cramps, fever/rhabdomyolysis, and muscle weakness.
+
+Nervous System
+
+Abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+
+Respiratory
+
+Bronchospasm and pneumonia.
+
+Skin
+
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+
+Special Senses
+
+Accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
+
+Urogenital
+
+Impotence, polyuria, prostate disorder, abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.
