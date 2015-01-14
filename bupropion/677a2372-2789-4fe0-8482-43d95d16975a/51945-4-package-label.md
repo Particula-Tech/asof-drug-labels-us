@@ -4,7 +4,7 @@ Bottle Label
 
 NDC 49909-010-30 Rx only
 
-Forfivo XL™
+Forfivo XL®
 
 (bupropion hydrochloride extended-release tablets)
 
@@ -27,11 +27,8 @@ KEEP THIS AND ALL MEDICATIONS OUT OF REACH OF CHILDREN
 
 Manufactured by: Pillar5 Pharma Inc. 365 Madawaska Blvd.
 Arnprior, Ontario K7S 0C9 CANADA For: Edgemont Pharmaceuticals, LLC.
-Austin, TX 78746
-
-Medication Guide to be dispensed with each prescription.
-
+Austin, TX 78746 FORFIVO XL is a trademark of IntelGenx Corp. Medication Guide to be dispensed with each prescription.
 DO NOT USE if safety seal under cap is broken or missing.
 
-70119-05-2 Rev.
+70119-05-3 Rev.
 02

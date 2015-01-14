@@ -20,7 +20,7 @@ Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Altho
 Patients should be informed that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
 Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation and completed suicide when attempting to quit smoking while taking ZYBAN.
 
-Bupropion-Containing Products: Patients should be made aware that FORFIVO XL contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that FORFIVO XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN XL®, the extended-release formulation, WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN, the immediate-release formulation) or APLENZIN, Extended Release tablet.
+Bupropion-Containing Products: Patients should be made aware that FORFIVO XL contains the same active ingredient (bupropion) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that FORFIVO XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN XL, the extended-release formulation, WELLBUTRIN SR, the sustained-release formulation, WELLBUTRIN®, the immediate-release formulation) or APLENZIN®, Extended Release tablet.
 
 Patients should be told that FORFIVO XL should be discontinued and not restarted if they experience a seizure while on treatment.
 
@@ -44,4 +44,5 @@ Patients should be advised to notify their physicians if they become pregnant or
 Patients should be advised to swallow FORFIVO XL tablets whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets, as this may lead to an increased risk of adverse effects, including seizures.
 
-The following are registered trademarks of their respective manufacturers: WELLBUTRIN® and WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN® /GlaxoSmithKline; KALETRA® /Abbott Laboratories.
+FORFIVO XL is a registered trademark of IntelGenx Corporation.
+All other products/brand names are trademarks of their respective owners.

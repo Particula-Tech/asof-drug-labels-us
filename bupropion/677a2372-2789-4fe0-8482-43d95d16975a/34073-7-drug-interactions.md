@@ -17,7 +17,7 @@ In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine
 - Prasugrel: Prasugrel is a weak inhibitor of CYP2B6.
   In healthy subjects, prasugrel increased Cmax and AUC values of bupropion by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion, an active metabolite of bupropion, by 32% and 24%, respectively.
   The inhibition of prasugrel on bupropion metabolism is not considered clinically significant.
-- Ritonavir, Lopinavir, Efavirenz: In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
+- Ritonavir, Lopinavir, Efavirenz: In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA®) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
   Similarly, efavirenz 600 mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
   This effect is thought to be due to the induction of bupropion metabolism.
   Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded [see Clinical Pharmacology (12.3)].

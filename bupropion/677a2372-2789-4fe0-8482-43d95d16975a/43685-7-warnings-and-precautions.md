@@ -108,7 +108,7 @@ Angle Closure Glaucoma: The pupillary dilation that occurs following use of many
 In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These reactions have been observed in both patients with and without evidence of preexisting hypertension.
 
-Data from a comparative study of the sustained-release formulation of bupropion hydrochloride (ZYBAN® Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion hydrochloride plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion hydrochloride and NTS.
+Data from a comparative study of the sustained-release formulation of bupropion hydrochloride (ZYBAN Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion hydrochloride plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion hydrochloride and NTS.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
 
 There is no clinical experience establishing the safety of FORFIVO XL tablets in patients with a recent history of myocardial infarction or unstable heart disease.

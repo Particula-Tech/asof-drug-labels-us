@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-FORFIVO XL
+FORFIVO XL ®
 
 Fore fye' voe Eks el (bupropion hydrochloride extended-release tablets)
 
@@ -130,7 +130,7 @@ Who should not take FORFIVO XL?
 Do not take FORFIVO XL if you:
 
 - •have or had a seizure disorder or epilepsy.
-- •are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion, such as WELLBUTRIN® Tablets, or WELLBUTRIN SR® Sustained-Release Tablets, or WELLBUTRIN XL® Extended-Release Tablets or APLENZIN EXTENDED-RELEASE TABLETS.
+- •are taking ZYBAN (used to help people stop smoking) or any other medicines that contain bupropion, such as WELLBUTRIN® Tablets, or WELLBUTRIN SR® Sustained-Release Tablets, or WELLBUTRIN XL® Extended-Release Tablets or APLENZIN® EXTENDED-RELEASE TABLETS.
   Bupropion is the same active ingredient that is in FORFIVO XL.
 - •abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
 - •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
@@ -235,7 +235,8 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: hydroxypropyl cellulose, hydrochloric acid, polyvinyl pyrrolidone and polyvinyl acetate blend, polyethylene oxide, stearic acid, colloidal silicon dioxide, magnesium stearate, hydroxypropylmethyl cellulose, triacetin, talc, methacrylic acid copolymer, polyethylene glycol 8000, titanium dioxide and carboxymethyl cellulose sodium.
 The tablets are printed with edible black ink.
 
-The following are registered trademarks of their respective manufacturers: WELLBUTRIN® and WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN® /GlaxoSmithKline; PARNATE® / GlaxoSmithKline; NARDIL®/Warner Lambert Company; MARPLAN®/ Validus Pharmaceuticals LLC; KALETRA® /Abbott Laboratories.
+FORFIVO XL is a registered trademark of IntelGenx Corporation.
+All other products/brand names are trademarks of their respective owners.
 
 Rx only
 
@@ -245,4 +246,4 @@ Manufactured by: Pillar5 Pharma Inc. Arnprior, Ontario, K7S 0C9 Canada
 
 For: Edgemont Pharmaceuticals, LLC Austin, TX 78746
 
-Revised June 2014 FFO_V3
+Revised January 2015 FFO_V4

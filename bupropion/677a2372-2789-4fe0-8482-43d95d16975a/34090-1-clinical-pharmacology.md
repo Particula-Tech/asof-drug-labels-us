@@ -17,7 +17,7 @@ The pharmacologic activity and pharmacokinetics of the individual enantiomers ha
 Following single dosing under fasted conditions of FORFIVO XL tablets, the maximum peak plasma concentration (Cmax), and the area under the plasma concentration vs. time curve of bupropion from zero to infinity (AUCinf), were 207.46 (±59.40) ng/mL, and 2147.53 (±664.12) ng•hr/mL, respectively.
 The elimination half-life (±SD) of bupropion after a single dose was 14.44 (±5.00) hours.
 
-In a single dose study under fasting conditions, one FORFIVO XL tablet given once daily and three Wellbutrin XL® 150 mg tablets once daily were evaluated.
+In a single dose study under fasting conditions, one FORFIVO XL tablet given once daily and three WELLBUTRIN XL 150 mg tablets once daily were evaluated.
 Equivalence was demonstrated for peak concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, erythrhydrobupropion, and threohydrobupropion).
 
 Absorption
@@ -48,7 +48,7 @@ The exposure of the hydroxybupropion metabolite was decreased by 23%, the threoh
 In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50% and the erythrohydrobupropion decreased by 68%.
 
-In another healthy volunteer study, KALETRA® (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+In another healthy volunteer study, KALETRA (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
 The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively [see Drug Interactions (7)].
 
 In a study in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduces the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
