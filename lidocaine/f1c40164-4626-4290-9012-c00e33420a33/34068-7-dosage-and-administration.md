@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Apply LIDODERM to intact skin to cover the most painful area.
-Apply up to three patches, only once for up to 12 hours within a 24-hour period.
+Apply the prescribed number of patches (maximum of 3), only once for up to 12 hours within a 24 hour period.
 Patches may be cut into smaller sizes with scissors prior to removal of the release liner.
 (See HANDLING AND DISPOSAL) Clothing may be worn over the area of application.
 Smaller areas of treatment are recommended in a debilitated patient, or a patient with impaired elimination.

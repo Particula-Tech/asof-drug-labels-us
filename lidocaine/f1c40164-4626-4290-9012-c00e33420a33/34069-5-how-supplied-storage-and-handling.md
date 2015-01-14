@@ -13,6 +13,6 @@ Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 LIDODERM® is a registered trademark of Hind Health Care, Inc.
 
-© 2014 Endo Pharmaceuticals Inc. All rights reserved.
+© 2015 Endo Pharmaceuticals Inc. All rights reserved.
 
-113096 / July 2014
+114957 / January 2015
