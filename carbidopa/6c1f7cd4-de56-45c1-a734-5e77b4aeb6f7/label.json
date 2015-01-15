@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "NDA203312"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Impax laboratories, Inc.",
+  "package_ndcs": [
+    "64896-661-01",
+    "64896-661-09",
+    "64896-661-43",
+    "64896-661-99",
+    "64896-662-01",
+    "64896-662-09",
+    "64896-662-43",
+    "64896-662-99",
+    "64896-663-01",
+    "64896-663-09",
+    "64896-663-43",
+    "64896-663-99",
+    "64896-664-01",
+    "64896-664-43"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "levodopa and carbidopa",
+      "name": "RYTARY"
+    },
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "levodopa and carbidopa",
+      "name": "RYTARY"
+    }
+  ],
+  "setid": "6c1f7cd4-de56-45c1-a734-5e77b4aeb6f7",
+  "source": "dailymed"
+}
