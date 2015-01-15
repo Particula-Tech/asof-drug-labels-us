@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA206439"
+  ],
+  "inn": "donepezil",
+  "labeler": "Forest Laboratories, Inc.",
+  "package_ndcs": [
+    "0456-1214-30",
+    "0456-1214-90",
+    "0456-1228-30",
+    "0456-1228-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "memantine hydrochloride and donepezil hydrochloride",
+      "name": "Tradename"
+    }
+  ],
+  "setid": "90fedc32-19e5-480c-afc6-f35a5cf4b9aa",
+  "source": "dailymed"
+}
