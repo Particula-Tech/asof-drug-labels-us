@@ -40,7 +40,7 @@ Patients that apply Calcipotriene Topical Solution, 0.005% (Scalp Solution) to e
 
 Calcipotriene did not elicit any mutagenic effects in an Ames mutagenicity assay, a mouse lymphoma TK locus assay, a human lymphocyte chromosome aberration assay, or in a micronucleus assay conducted in mice.
 
-Studies in rats at doses up to 54 μg/kg/day (318 μg/m2/day) of calcipotriene indicated no impairment of fertility or general reproductive performance.
+Studies in rats at doses up to 54 μg/kg/day (324 μg/m2/day) of calcipotriene indicated no impairment of fertility or general reproductive performance.
 
 ## Pregnancy
 
