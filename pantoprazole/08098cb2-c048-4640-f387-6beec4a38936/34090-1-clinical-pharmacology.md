@@ -31,7 +31,7 @@ Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
 | --- | --- | --- | --- | --- |
-|  | –––––––––—––––––––Median pH on day 7—––––––––––––––––– |  |  |  |
+|  | Median pH on day 7 |  |  |  |
 | 8 a.m. – 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8Significantly different from 20 mg | 3.9 |
 | 8 a.m. – 10 p.m. (Daytime) | 1.6 | 3.2 | 4.4 | 4.8 |
 | 10 p.m. – 8 a.m. (Nighttime) | 1.2 | 2.1 | 3.0 | 2.6 |
@@ -116,10 +116,10 @@ No dosage adjustment is recommended based on age.
 
 Pediatric
 
-The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open–label clinical trials in pediatric patients with presumed/proven GERD.
-A pediatric granule formulation was studied in children through 5 years of age, and PROTONIX Delayed–Release Tablets were studied in children older than 5 years.
+The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open-label clinical trials in pediatric patients with presumed/proven GERD.
+A pediatric granule formulation was studied in children through 5 years of age, and PROTONIX Delayed-Release Tablets were studied in children older than 5 years.
 
-In a population PK analysis, total clearance increased with increasing bodyweight in a non–linear fashion.
+In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
 The total clearance also increased with increasing age only in children under 3 years of age.
 
 Neonate through 5 years of age
@@ -156,7 +156,7 @@ No dosage adjustment is necessary in patients with renal impairment or in patien
 Hepatic Impairment
 
 In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects.
-Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7–fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
+Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
@@ -166,11 +166,15 @@ Drug-Drug Interactions
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6, and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer] and clopidogrel), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates), and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
 
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Clopidogrel: Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
 On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79 to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 µM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
+
+Mycophenolate Mofetil (MMF): Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Transplant patients receiving approximately 2000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
+There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF.
 
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam, and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 Dosage adjustment of these drugs is not necessary when they are coadministered with pantoprazole.
@@ -197,6 +201,6 @@ Although these subpopulations of pantoprazole poor metabolizers have elimination
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.
-Poor metabolizers exhibited approximately 10–fold lower apparent oral clearance compared to extensive metabolizers.
+Poor metabolizers exhibited approximately 10-fold lower apparent oral clearance compared to extensive metabolizers.
 
 For known pediatric poor metabolizers, a dose reduction should be considered.

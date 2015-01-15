@@ -6,7 +6,7 @@ The adverse reaction profiles for PROTONIX (pantoprazole sodium) For Delayed-Rel
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-### Adults
+Adults
 
 Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral PROTONIX (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
@@ -42,7 +42,7 @@ Skin and Appendages: urticaria, rash, pruritus
 
 Special Senses: blurred vision
 
-### Pediatric Patients
+Pediatric Patients
 
 Safety of PROTONIX in the treatment of Erosive Esophagitis (EE) associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in three clinical trials.
 Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
@@ -67,7 +67,7 @@ Skin and Appendages: urticaria
 
 The following adverse reactions seen in adults in clinical trials were not reported in pediatric patients in clinical trials, but are considered relevant to pediatric patients: photosensitivity reaction, dry mouth, hepatitis, thrombocytopenia, generalized edema, depression, pruritus, leukopenia, and blurred vision.
 
-### Zollinger-Ellison Syndrome
+Zollinger-Ellison Syndrome
 
 In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking PROTONIX 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 

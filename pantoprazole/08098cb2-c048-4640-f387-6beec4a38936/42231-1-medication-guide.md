@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 PROTONIX (pro-TAH-nix) (pantoprazole sodium) Delayed-Release Tablets and For Delayed-Release Oral Suspension
 
@@ -82,6 +82,7 @@ Especially tell your doctor if you take:
 - a product that contains iron
 - an antibiotic that contains ampicillin
 - methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 
