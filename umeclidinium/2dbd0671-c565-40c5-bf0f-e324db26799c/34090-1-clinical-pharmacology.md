@@ -26,7 +26,7 @@ Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhi
 
 ## 12.2 Pharmacodynamics
 
-Cardiovascular Effects: Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple dose, placebo- and positive-controlled crossover trial in 86 healthy subjects.
+Cardiovascular Effects: Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover trial in 86 healthy subjects.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 4.6 (7.1) ms and 8.2 (10.7) ms for umeclidinium/vilanterol 125 mcg/25 mcg and umeclidinium/vilanterol 500 mcg/100 mcg (8/4 times the recommended dosage), respectively.
 
 A dose-dependent increase in heart rate was also observed.
