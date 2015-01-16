@@ -134,7 +134,8 @@ Spontaneous recovery and reversal of neuromuscular blockade following discontinu
 ZEMURON is not recommended for rapid sequence intubation in pediatric patients.
 
 Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22-73), 62 (49-75), and 94 (64-138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
-No differences in duration of neuromuscular blockade following maintenance doses of ZEMURON were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2, 12.3)].
+No differences in duration of neuromuscular blockade following maintenance doses of ZEMURON were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
+[See also Warnings and Precautions (5.4).]
 
 Patients with Renal or Hepatic Impairment: No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg ZEMURON.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.

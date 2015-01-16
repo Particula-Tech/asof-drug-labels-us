@@ -125,7 +125,7 @@ These population-based estimates and a measure of the estimate variability are c
 Following intravenous administration of ZEMURON, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged.
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.5)].
 
 Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 

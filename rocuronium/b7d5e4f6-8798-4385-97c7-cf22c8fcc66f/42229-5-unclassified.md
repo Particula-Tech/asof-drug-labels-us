@@ -6,6 +6,4 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1994, 2010 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2013
-
-uspi-mk8085-i-1309r004
+uspi-mk8085-i-1501r006

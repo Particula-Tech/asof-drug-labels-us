@@ -38,7 +38,7 @@ Recommendations for use in pediatric patients are discussed in other sections [s
 ZEMURON was administered to 140 geriatric patients (65 years or greater) in US clinical trials and 128 geriatric patients in European clinical trials.
 The observed pharmacokinetic profile for geriatric patients (n=20) was similar to that for other adult surgical patients [see Clinical Pharmacology (12.3)].
 Onset time and duration of action were slightly longer for geriatric patients (n=43) in clinical trials.
-Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see Dosage and Administration (2.5), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
+Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see Dosage and Administration (2.5), Warnings and Precautions (5.4), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
 
 ## 8.6 Patients with Hepatic Impairment
 

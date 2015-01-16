@@ -21,6 +21,7 @@ Therefore, its administration must be accompanied by adequate anesthesia or seda
 ## 5.4 Residual Paralysis
 
 In order to prevent complications resulting from residual paralysis, it is recommended to extubate only after the patient has recovered sufficiently from neuromuscular block.
+Geriatric patients (65 years or older) may be at increased risk for residual neuromuscular block.
 Other factors which could cause residual paralysis after extubation in the post-operative phase (such as drug interactions or patient condition) should also be considered.
 If not used as part of standard clinical practice the use of a reversal agent should be considered, especially in those cases where residual paralysis is more likely to occur.
 
@@ -39,7 +40,7 @@ Therefore, for patients receiving both neuromuscular blocking agents and cortico
 ## 5.6 Malignant Hyperthermia (MH)
 
 ZEMURON has not been studied in MH-susceptible patients.
-Because ZEMURON is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
+Because ZEMURON is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic [see Adverse Reactions (6.2)].
 
 In an animal study in MH-susceptible swine, the administration of ZEMURON Injection did not appear to trigger malignant hyperthermia.
 
@@ -80,7 +81,7 @@ ZEMURON, which has an acid pH, should not be mixed with alkaline solutions (e.g.
 
 ZEMURON may be associated with increased pulmonary vascular resistance, so caution is appropriate in patients with pulmonary hypertension or valvular heart disease [see Clinical Studies (14.1)].
 
-## 5.12 Use In Patients with Myasthenia
+## 5.12 Use in Patients with Myasthenia
 
 In patients with myasthenia gravis or myasthenic (Eaton-Lambert) syndrome, small doses of nondepolarizing neuromuscular blocking agents may have profound effects.
 In such patients, a peripheral nerve stimulator and use of a small test dose may be of value in monitoring the response to administration of muscle relaxants.
