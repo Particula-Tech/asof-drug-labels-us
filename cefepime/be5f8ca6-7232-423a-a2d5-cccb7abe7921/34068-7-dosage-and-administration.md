@@ -73,20 +73,22 @@ Do not add supplementary medication.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
+Visually inspect the container.
+If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
 Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation.
 Potency is not affected.
 Agitate after solution has reached room temperature.
-If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals or the outlet port are not intact, the container should be discarded.
+If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals are not intact, the container should be discarded.
 
 Caution: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
 
 Preparation for intravenous administration.
 
-1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.
+- 1.Suspend container from eyelet support.
+- 2.Remove protector from outlet port at bottom of container.
+- 3.Attach administration set.
+  Refer to complete directions accompanying set.
 
 Cefepime Injection should be administered intravenously over approximately 30 minutes.
 

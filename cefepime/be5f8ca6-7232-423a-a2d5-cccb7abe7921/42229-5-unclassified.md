@@ -6,6 +6,6 @@ Clinitest is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
 Clinistix is a registered trademark of Bayer Healthcare LLC.
 
-07-19-66-624
+07-19-73-139
 
-Rev: June 2014
+Rev: December 2014

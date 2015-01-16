@@ -1,5 +1,7 @@
 # PACKAGE LABEL - PRINCIPLE DISPLAY PANEL
 
+Container Label
+
 Baxter 1 g
 
 Cefepime Injection
@@ -27,7 +29,7 @@ Dosage: Intravenously as directed by a physician.
 See insert.
 
 Cautions: Do not add supplementary medication.
-Must not se used in series
+Must not be used in series
 
 connections.
 Check for minute leaks and solution clarity.
@@ -53,6 +55,8 @@ Baxter Healthcare Corporation
 Deerfield, IL 60015 USA PL 2040 Plastic
 
 Made in USA 07-34-63-744
+
+Carton Label
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
