@@ -24,7 +24,7 @@ Renal function must be carefully monitored in all patients receiving Zometa and 
 
 ## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
 
-The recommended dose of Zometa in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3 to 4 weeks.
+The recommended dose of Zometa in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than15 minutes every 3 to 4 weeks.
 The optimal duration of therapy is not known.
 
 Upon treatment initiation, the recommended Zometa doses for patients with reduced renal function (mild and moderate renal impairment) are listed in Table 1.
@@ -47,7 +47,7 @@ In the clinical studies, renal deterioration was defined as follows: For patient
 In the clinical studies, Zometa treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zometa should be reinitiated at the same dose as that prior to treatment interruption.
 
-Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 
 ## 2.3 Preparation of Solution
 

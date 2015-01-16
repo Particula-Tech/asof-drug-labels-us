@@ -88,10 +88,10 @@ Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Laboratory Parameter | Zometa |  | Pamidronate |  |
 |  | 4 mg |  | 90 mg |  |
 |  | n/N | (%) | n/N | (%) |
-| Serum Creatinine1 | 2/86 | (2%) | 3/100 | (3%) |
-| Hypocalcemia2 | 1/86 | (1%) | 2/100 | (2%) |
-| Hypophosphatemia3 | 36/70 | (51%) | 27/81 | (33%) |
-| Hypomagnesemia4 | 0/71 | — | 0/84 | — |
+| Serum Creatinine 1 | 2/86 | (2%) | 3/100 | (3%) |
+| Hypocalcemia 2 | 1/86 | (1%) | 2/100 | (2%) |
+| Hypophosphatemia 3 | 36/70 | (51%) | 27/81 | (33%) |
+| Hypomagnesemia 4 | 0/71 | — | 0/84 | — |
 
 Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
 
@@ -100,10 +100,10 @@ Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Laboratory Parameter | Zometa |  | Pamidronate |  |
 |  | 4 mg |  | 90 mg |  |
 |  | n/N | (%) | n/N | (%) |
-| Serum Creatinine1 | 0/86 | — | 1/100 | (1%) |
-| Hypocalcemia2 | 0/86 | — | 0/100 | — |
-| Hypophosphatemia3 | 1/70 | (1%) | 4/81 | (5%) |
-| Hypomagnesemia4 | 0/71 | — | 1/84 | (1%) |
+| Serum Creatinine 1 | 0/86 | — | 1/100 | (1%) |
+| Hypocalcemia 2 | 0/86 | — | 0/100 | — |
+| Hypophosphatemia 3 | 1/70 | (1%) | 4/81 | (5%) |
+| Hypomagnesemia 4 | 0/71 | — | 1/84 | (1%) |
 | 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
 
 Injection Site Reactions
@@ -263,6 +263,7 @@ Osteonecrosis of the Jaw
 
 Cases of osteonecrosis (primarily involving the jaws) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including Zometa.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
+Caution is advised when Zometa is administered with anti-angiogenic drugs as an increased incidence of ONJ has been observed with concomitant use of these drugs.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
 The majority of the reported cases are in cancer patients following invasive dental procedures, such as tooth extraction.
 It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5.4)].
@@ -292,4 +293,4 @@ Very rare cases of anaphylactic reaction/shock have also been reported.
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia.
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).

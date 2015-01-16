@@ -2,7 +2,7 @@
 
 ## 5.1 Drugs with Same Active Ingredient or in the Same Drug Class
 
-Zometa contains the same active ingredient as found in Reclast® (zoledronic acid).
+Zometa contains the same active ingredient as found in Reclast ® (zoledronic acid).
 Patients being treated with Zometa should not be treated with Reclast or other bisphosphonates.
 
 ## 5.2 Hydration and Electrolyte Monitoring
@@ -21,7 +21,7 @@ Safety and pharmacokinetic data are limited in patients with severe renal impair
 Preexisting renal insufficiency and multiple cycles of Zometa and other bisphosphonates are risk factors for subsequent renal deterioration with Zometa.
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
-Zometa treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
+Zometa treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment [see Dosage and Administration (2.1)].
 In the clinical studies, patients with serum creatinine greater than 400 µmol/L or greater than 4.5 mg/dL were excluded.
 
 Zometa treatment is not recommended in patients with bone metastases with severe renal impairment.
@@ -88,5 +88,6 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Hypocalcemia has been reported in patients treated with Zometa.
 Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
 In some instances, hypocalcemia may be life-threatening.
-Hypocalcemia must be corrected before initiating Zometa.
+Caution is advised when Zometa is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
+Serum calcium should be measured and hypocalcemia must be corrected before initiating Zometa.
 Adequately supplement patients with calcium and vitamin D.

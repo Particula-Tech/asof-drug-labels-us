@@ -87,6 +87,6 @@ Table 14: Zometa Compared to Pamidronate in Patients with Multiple Myeloma or Bo
 
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Study | Study Arm & Patient Number | Proportion | Difference2 & 95% CI | P-value | Median (Days) | Hazard Ratio3 & 95% CI | P-value |
+| Study | Study Arm & Patient Number | Proportion | Difference 2 & 95% CI | P-value | Median (Days) | Hazard Ratio 3 & 95% CI | P-value |
 | Multiple Myeloma & Breast Cancer | Zometa 4 mg (n=561) Pamidronate (n=555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77, 1.09) | 0.32 |
 | 1SRE=Skeletal-Related Event 2Difference for the proportion of patients with a SRE of Zometa 4 mg versus pamidronate 90 mg. 3Hazard ratio for the first occurrence of a SRE of Zometa 4 mg versus pamidronate 90 mg. |  |  |  |  |  |  |  |
