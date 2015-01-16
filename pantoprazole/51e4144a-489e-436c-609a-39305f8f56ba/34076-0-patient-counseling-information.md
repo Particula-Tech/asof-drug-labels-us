@@ -7,7 +7,3 @@ Patients should be instructed to inform their healthcare provider of any other m
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
-
-under license from Takeda GmbH D78467 Konstanz, Germany
-
-LAB-0462-10.0

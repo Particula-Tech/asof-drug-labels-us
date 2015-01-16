@@ -26,7 +26,7 @@ Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent InhibitionCompared
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | ------2 hours------ |  | ------4 hours------ |  | ------12 hours------ |  | ------24 hours------ |  |
 | 0 mg (Placebo, n=4) | 39 ± 21 | NA | 26 ± 14 | NA | 32 ± 20 | NA | 38 ± 24 | NA |
-| 20mg (n=4–6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
+| 20 mg (n=4–6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
 | 40 mg (n=8) | 5 ± 5 | 82 ± 11 | 4 ± 4 | 90 ± 11 | 11 ± 10 | 81 ± 13 | 16 ± 12 | 52 ± 36 |
 | 80 mg (n=8) | 0.1 ± 0.2 | 96 ± 6 | 0.3 ± 0.4 | 99 ± 1 | 2 ± 2 | 90 ± 7 | 7 ± 4 | 63 ± 18 |
 | NA = not applicable. |  |  |  |  |  |  |  |  |
@@ -60,7 +60,7 @@ In a separate study, a gastric NE-cell tumor without concomitant ECL-cell prolif
 Pantoprazole peak serum concentration (Cmax) and area under the serum concentration-time curve (AUC) increase in a manner proportional to intravenous doses from 10 mg to 80 mg.
 Pantoprazole does not accumulate and its pharmacokinetics are unaltered with multiple daily dosing.
 Following the administration of PROTONIX I.V. for Injection, the serum concentration of pantoprazole declines biexponentially with a terminal elimination half-life of approximately one hour.
-In CYP2C19 extensive metabolizers [see Clinical Pharmacology (12.5)] with normal liver function receiving a 40 mg dose of PROTONIX I.V. for Injection by constant rate over 15 minutes, the peak concentration (Cmax) is 5.52 ±1.42 mcg/mL and the total area under the plasma concentration versus time curve (AUC) is5.4 ±1.5 mcg• hr/mL.
+In CYP2C19 extensive metabolizers [see Clinical Pharmacology (12.5)] with normal liver function receiving a 40 mg dose of PROTONIX I.V. for Injection by constant rate over 15 minutes, the peak concentration (Cmax) is 5.52 ±1.42 mcg/mL and the total area under the plasma concentration versus time curve (AUC) is5.4 ±1.5 mcg hr/mL.
 The total clearance is 7.6–14.0 L/h.
 
 Distribution
@@ -111,11 +111,15 @@ Drug-Drug Interactions
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6 and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer]), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates) and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
 
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Clopidogrel: Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
 On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79 to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 µM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
+
+Mycophenolate Mofetil (MMF): Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Transplant patients receiving approximately 2000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
+There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF.
 
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 Dosage adjustment of such drugs is not necessary when they are co-administered with pantoprazole.
