@@ -10,7 +10,7 @@ The risk of serious rash caused by treatment with LAMICTAL XR is not expected to
 However, the relatively limited treatment experience with LAMICTAL XR makes it difficult to characterize the frequency and risk of serious rashes caused by treatment with LAMICTAL XR.
 
 Other than age, there are as yet no factors identified that are known to predict the risk of occurrence or the severity of rash caused by LAMICTAL XR.
-There are suggestions, yet to be proven, that the risk of rash may also be increased by (1) coadministration of LAMICTAL XR with valproate (includes valproic acid and divalproex sodium), (2) exceeding the recommended initial dose of LAMICTAL XR, or (3) exceeding the recommended dose escalation of LAMICTAL XR.
+There are suggestions, yet to be proven, that the risk of rash may also be increased by (1) coadministration of LAMICTAL XR with valproate (includes valproic acid and divalproex sodium), (2) exceeding the recommended initial dose of LAMICTAL XR, or (3) exceeding the recommended dose escalation for LAMICTAL XR.
 However, cases have occurred in the absence of these factors.
 
 Nearly all cases of life-threatening rashes caused by immediate-release lamotrigine have occurred within 2 to 8 weeks of treatment initiation.

@@ -9,7 +9,7 @@ Rash: There are suggestions, yet to be proven, that the risk of severe, potentia
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 
-The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
+The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 LAMICTAL XR Patient Titration Kits provide LAMICTAL XR at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications, for patients with partial-onset seizures and are intended to help reduce the potential for rash.
 The use of LAMICTAL XR Patient Titration Kits is recommended for appropriate patients who are starting or restarting LAMICTAL XR [see How Supplied/Storage and Handling (16)].
@@ -20,8 +20,11 @@ The greater the interval of time since the previous dose, the greater considerat
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
 The half-life of lamotrigine is affected by other concomitant medications [see Clinical Pharmacology (12.3)].
 
-LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Drugs other than those listed in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)] have not been systematically evaluated in combination with lamotrigine.
-Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine and doses of LAMICTAL XR may require adjustment based on clinical response.
+LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine.
+Drugs that induce glucuronidation include carbamazepine, phenytoin, phenobarbital, primidone, rifampin, estrogen-containing oral contraceptives, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
+Valproate inhibits glucuronidation.
+For dosing considerations for LAMICTAL XR in patients on estrogen-containing contraceptives and atazanavir/ritonavir, see below and Table 5.
+For dosing considerations for LAMICTAL XR in patients on other drugs known to induce or inhibit glucuronidation, see Table 1 and Table 5.
 
 Target Plasma Levels: A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of LAMICTAL XR should be based on therapeutic response [see Clinical Pharmacology (12.3)].
@@ -32,27 +35,31 @@ See below for adjustments to maintenance doses of LAMICTAL XR in women taking es
 
 Adjustments to the Maintenance Dose of LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives:
 
-(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL XR will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level [see Clinical Pharmacology (12.3)].
+(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL XR will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
 
-(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL XR and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
+(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL XR and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Table 1) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
 Increased lamotrigine plasma levels could result in additional adverse reactions, such as dizziness, ataxia, and diplopia.
 If adverse reactions attributable to LAMICTAL XR consistently occur during the pill-free week, dose adjustments to the overall maintenance dose may be necessary.
 Dose adjustments limited to the pill-free week are not recommended.
-For women taking LAMICTAL XR in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL XR should be necessary.
+For women taking LAMICTAL XR in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL XR should be necessary.
 
-(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL XR will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
+(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL XR will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
 The decrease in dose of LAMICTAL XR should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
-In women taking LAMICTAL XR in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL XR should be necessary.
+In women taking LAMICTAL XR in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL XR should be necessary.
 
 Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy: The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of LAMICTAL XR in the presence of progestogens alone will likely not be needed.
 
+Patients Taking Atazanavir/Ritonavir: While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of atazanavir/ritonavir.
+Dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL XR based on concomitant AED or other concomitant medications (see Tables 1 and 5).
+In patients already taking maintenance doses of LAMICTAL XR and not taking glucuronidation inducers, the dose of LAMICTAL XR may need to be increased if atazanavir/ritonavir is added, or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
+
 Patients with Hepatic Impairment: Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 patients with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
@@ -65,12 +72,12 @@ Discontinuation Strategy: For patients receiving LAMICTAL XR in combination with
 
 If a decision is made to discontinue therapy with LAMICTAL XR, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.8)].
 
-Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
+Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 
 ## 2.2 Adjunctive Therapy for Primary Generalized Tonic-Clonic and Partial-Onset Seizures
 
 This section provides specific dosing recommendations for patients aged 13 years and older.
-Specific dosing recommendations are provided depending upon the concomitant AED or other concomitant medications.
+Specific dosing recommendations are provided depending upon concomitant AEDs or other concomitant medications.
 
 Table 1.
 Escalation Regimen for LAMICTAL XR in Patients Aged 13 Years and Older
@@ -86,22 +93,21 @@ Escalation Regimen for LAMICTAL XR in Patients Aged 13 Years and Older
 
 aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-bThese drugs induce lamotrigine glucuronidation and increase clearance [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-Other drugs that have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect.
+b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
+Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
+Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 cDose increases at week 8 or later should not exceed 100 mg daily at weekly intervals.
 
 ## 2.3 Conversion from Adjunctive Therapy to Monotherapy
 
-The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rash associated with the rapid titration of LAMICTAL XR.
+The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rashassociated with the rapid titration of LAMICTAL XR.
 
-The recommended maintenance dosage range of LAMICTAL XR as monotherapy is 250 to 300 mg given once daily.
+To avoid an increased risk of rash, the recommended maintenance dosage range of LAMICTAL XR as monotherapy is 250 to 300 mg given once daily.
 
 The recommended initial dose and subsequent dose escalations for LAMICTAL XR should not be exceeded [see Boxed Warning].
 
-Conversion from Adjunctive Therapy with Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy with LAMICTAL XR: After achieving a dosage of 500 mg/day of LAMICTAL XR using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period.
+Conversion from Adjunctive Therapy with Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy with LAMICTAL XR: After achieving a dose of 500 mg/day of LAMICTAL XR using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period.
 Two weeks after completion of withdrawal of the enzyme-inducing AED, the dosage of LAMICTAL XR may be decreased no faster than 100 mg/day each week to achieve the monotherapy maintenance dosage range of 250 to 300 mg/day.
 
 The regimen for the withdrawal of the concomitant AED is based on experience gained in the controlled monotherapy clinical trial using immediate-release lamotrigine.
@@ -113,8 +119,8 @@ Conversion from Adjunctive Therapy with Valproate to Monotherapy with LAMICTAL X
 
 |  | LAMICTAL XR | Valproate |
 | --- | --- | --- |
-| Step 1 | Achieve a dosage of 150 mg/day according to guidelines in Table 1. | Maintain established stable dose. |
-| Step 2 | Maintain at 150 mg/day. | Decrease dosage by decrements no greater than 500 mg/day/week to 500 mg/day and then maintain for 1 week. |
+| Step 1 | Achieve a dose of 150 mg/day according to guidelines in Table 1. | Maintain established stable dose. |
+| Step 2 | Maintain at 150 mg/day. | Decrease dose by decrements no greater than 500 mg/day/week to 500 mg/day and then maintain for 1 week. |
 | Step 3 | Increase to 200 mg/day. | Simultaneously decrease to 250 mg/day and maintain for 1 week. |
 | Step 4 | Increase to 250 or 300 mg/day. | Discontinue. |
 

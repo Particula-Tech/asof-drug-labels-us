@@ -6,7 +6,7 @@ Rash: Prior to initiation of treatment with LAMICTAL XR, inform patients that a 
 
 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure: Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
-Instruct patients to contact their healthcare providersimmediately if they experience any signs or symptoms of these conditions [see Warnings andPrecautions (5.2, 5.3)].
+Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.2, 5.3)].
 
 Suicidal Thinking and Behavior: Inform patients, their caregivers, and families that AEDs, including LAMICTAL XR, may increase the risk of suicidal thoughts and behavior.
 Instruct them to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts or behavior or thoughts about self-harm.
@@ -37,14 +37,15 @@ Instruct them to notify their healthcare providers immediately if they develop s
 
 Potential Medication Errors: Medication errors involving LAMICTAL have occurred.
 In particular the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
-Medication errors may also occur between the different formulations of LAMICTAL.To reduce the potential of medication errors, write and say LAMICTAL XR clearly.
+Medication errors may also occur between the different formulations of LAMICTAL.
+To reduce the potential of medication errors, write and say LAMICTAL XR clearly.
 Depictions of the LAMICTAL XR Extended-Release Tablets can be found in the Medication Guide.
 Each LAMICTAL XR tablet has a distinct color and white center, and is printed with “LAMICTAL XR” and the tablet strength.
 These distinctive features serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 LAMICTAL XR is supplied in round, unit-of-use bottles with orange caps containing 30 tablets.
 The label on the bottle includes a depiction of the tablets that further communicates to patients and pharmacists that the medication is LAMICTAL XR and the specific tablet strength included in the bottle.
 The unit-of-use bottle with a distinctive orange cap and distinctive bottle label features serves to identify the different presentations of the drug and thus may help to reduce the risk of medication errors.
-To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescriptionand to immediately talk to their healthcare provider/pharmacist if they receive a LAMICTAL XR tablet without a white center and without “LAMICTAL XR” and the strength printed on the tablet as they may have received the wrong medication [see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
+To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription and to immediately talk to their healthcare provider/pharmacist if they receive a LAMICTAL XR tablet without a white center and without “LAMICTAL XR” and the strength printed on the tablet as they may have received the wrong medication [see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
 
 LAMICTAL XR and DiffCORE are trademarks of the GSK group of companies.
 
@@ -55,4 +56,4 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-LXR:16PI
+LXR:17PI

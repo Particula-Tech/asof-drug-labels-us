@@ -1,13 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Skin Rashes
+## 5.1 Serious Skin Rashes [see Boxed Warning]
 
 The risk of serious rash caused by treatment with LAMICTAL XR is not expected to differ from that with immediate-release lamotrigine [see Boxed Warning].
 However, the relatively limited treatment experience with LAMICTAL XR makes it difficult to characterize the frequency and risk of serious rashes caused by treatment with LAMICTAL XR.
 
 Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
-To illustrate, 1 dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
+To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
 Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
 
@@ -24,20 +24,20 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered immediate-release lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered immediate-release lamotrigine in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
-Multiorgan hypersensitivity reactions, also known as drug reaction with eosinophilia and systemic symptoms (DRESS), have occurred with LAMICTAL.
+Multiorgan hypersensitivity reactions, also known as drug reaction with eosinophilia and systemic symptoms (DRESS), have occurred with lamotrigine.
 Some have been fatal or life threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression and other organ systems not noted here may be involved.
 
-Fatalities associated with acute multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received LAMICTAL in epilepsy clinical trials.
+Fatalities associated with acute multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received lamotrigine in epilepsy clinical trials.
 Rare fatalities from multiorgan failure have also been reported in postmarketing use.
 
-Isolated liver failure without rash or involvement of other organs has also been reported with LAMICTAL.
+Isolated liver failure without rash or involvement of other organs has also been reported with lamotrigine.
 
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though a rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
@@ -84,7 +84,7 @@ Anyone considering prescribing LAMICTAL XR or any other AED must balance the ris
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, the emergence of suicidal thoughts or behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, the emergence of suicidal thoughts or suicidal behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Aseptic Meningitis
@@ -98,7 +98,7 @@ Rash, photophobia, myalgia, chills, altered consciousness, and somnolence were a
 Symptoms have been reported to occur within 1 day to one and a half months following the initiation of treatment.
 In most cases, symptoms were reported to resolve after discontinuation of lamotrigine.
 Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe.
-Some of the patients treated with LAMICTAL who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
+Some of the patients treated with lamotrigine who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 
 Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
 CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
@@ -158,7 +158,7 @@ Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigin
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
 Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
-Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine’s binding to melanin is unknown [see Clinical Pharmacology (12.2)].
+Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine’s binding to melanin is unknown.
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
