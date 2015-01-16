@@ -5,9 +5,9 @@ For the same reason, they should be cautioned against hazardous occupations requ
 
 ## Usage In Pregnancy
 
-An Increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested In several studies.
-Because use of these drugs Is rarely a matter of urgency, their use during this period should almost always be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of Institution of therapy should be considered.
+An Increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
+Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.
+The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
 
 As with all anticholinergic drugs, an inhibiting effect on lactation may occur (see Animal Pharmacology).

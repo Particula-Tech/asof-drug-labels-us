@@ -1,9 +1,8 @@
 # ANIMAL PHARMACOLOGY
 
 Chlordiazepoxide hydrochloride has been studied extensively in many species of animals and these studies are suggestive of action on the limbic system of the brain, which recent evidence indicates is involved in emotional responses.
-
 Hostile monkeys were made tame by oral drug doses which did not cause sedation.
-Chlordiazepoxide hydrochloride revealed a "taming" action with the elimination of fear and aggression.
+Chlordiazepoxide hydrochloride revealed a "taming-action with the elimination of fear and aggression”.
 The taming effect of chlordiazepoxide hydrochloride was further demonstrated in rats made vicious by lesions in the septal area of the brain.
 The drug dosage which effectively blocked the vicious reaction was well below the dose which caused sedation in these animals.
 

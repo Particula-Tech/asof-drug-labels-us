@@ -1,8 +1,8 @@
 to control emotional and somatic factors in gastrointestinal disorders
 
-Manufactured by: Legacy Pharmaceuticals Puerto Rico, LLC Humacao, Puerto Rico 00791
+Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Manufactured for: VALEANT® Pharmaceuticals North America One Enterprise, Aliso Viejo, CA 92656 USA
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-02-4100-EX-00 Rev.
-March 09
+LB0092-00 Rev.
+01/14
