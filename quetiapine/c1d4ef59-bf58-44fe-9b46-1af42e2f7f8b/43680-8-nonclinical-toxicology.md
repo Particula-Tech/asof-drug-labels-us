@@ -33,7 +33,7 @@ These effects continued to be observed at 3 times the MRHD even after a two-week
 The no-effect dose for impaired mating and fertility in male rats was 25 mg/kg, or 0.3 times the MRHD dose on mg/m2 body surface area.
 Quetiapine adversely affected mating and fertility in female Sprague-Dawley rats at an oral dose approximately 1 times the MRHD of 800 mg/day on mg/m2 body surface area.
 Drug-related effects included decreases in matings and in matings resulting in pregnancy, and an increase in the interval to mate.
-An increase in irregular estrus cycles was observed at doses of 10 and 50 mg/kg, or approximately 0.1 and 1 times the MRHD of 800 mg/day on mg/m2 body surface area.
+An increase in irregular estrus cycles was observed at doses of 10 and 50 mg/kg, or approximately 0.1 and 1 times the MRHD of 800 mg/day on mg/m2body surface area.
 The no-effect dose in female rats was 1 mg/kg, or 0.01 times the MRHD of 800 mg/day on mg/m2 body surface area.
 
 ## 13.2 Animal Toxicology and/or Pharmacology

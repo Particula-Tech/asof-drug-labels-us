@@ -78,9 +78,15 @@ Effectiveness and safety of quetiapine fumarate have not been established in ped
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-TEVA PHARMACEUTICALS USA
+Manufactured In Czech Republic By:
 
-Sellersville, PA 18960
+TEVA CZECH INDUSTRIES, s.r.o.
+
+Opava-Komarov, Czech Republic
+
+Manufactured For: TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
 
 Rev.
-D 11/2013
+E 10/2014

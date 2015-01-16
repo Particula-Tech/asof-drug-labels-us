@@ -2,24 +2,24 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)]
-- Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.2)]
-- Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions 5.3]
-- Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions 5.4]
-- Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions 5.5]
-- Tardive dyskinesia [see Warnings and Precautions 5.6]
-- Hypotension [see Warnings and Precautions 5.7]
-- Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.8]
-- Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.9]
-- Cataracts [see Warnings and Precautions 5.10]
-- QT Prolongation [see Warnings and Precautions 5.11]
-- Seizures [see Warnings and Precautions 5.12]
-- Hypothyroidism [see Warnings and Precautions 5.13]
-- Hyperprolactinemia [see Warnings and Precautions 5.14]
-- Potential for cognitive and motor impairment [see Warnings and Precautions 5.15]
-- Body temperature regulation [see Warnings and Precautions 5.16]
-- Dysphagia [see Warnings and Precautions 5.17]
-- Discontinuation Syndrome [see Warnings and Precautions 5.18]
+- •Increased mortality in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)]
+- •Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.2)]
+- •Cerebrovascular adverse reactions, including stroke in elderly patients with dementia-related psychosis [see Warnings and Precautions 5.3]
+- •Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions 5.4]
+- •Metabolic changes (hyperglycemia, dyslipidemia, weight gain) [see Warnings and Precautions 5.5]
+- •Tardive dyskinesia [see Warnings and Precautions 5.6]
+- •Hypotension [see Warnings and Precautions 5.7]
+- •Increases in blood pressure (children and adolescents) [see Warnings and Precautions 5.8]
+- •Leukopenia, neutropenia and agranulocytosis [see Warnings and Precautions 5.9]
+- •Cataracts [see Warnings and Precautions 5.10]
+- •QT Prolongation [see Warnings and Precautions 5.11]
+- •Seizures [see Warnings and Precautions 5.12]
+- •Hypothyroidism [see Warnings and Precautions 5.13]
+- •Hyperprolactinemia [see Warnings and Precautions 5.14]
+- •Potential for cognitive and motor impairment [see Warnings and Precautions 5.15]
+- •Body temperature regulation [see Warnings and Precautions 5.16]
+- •Dysphagia [see Warnings and Precautions 5.17]
+- •Discontinuation Syndrome [see Warnings and Precautions 5.18]
 
 ## 6.1 Clinical Study Experience
 
@@ -202,7 +202,7 @@ Three methods were used to measure EPS: (1) Simpson-Angus total score (mean chan
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
 
-Table 12: Adverse Reactions Associated With EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 Weeks Duration)
+Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 Weeks Duration)
 
 | Preferred Term | Quetiapine Fumarate75 mg/day(N = 53) |  | Quetiapine Fumarate150 mg/day(N = 48) |  | Quetiapine Fumarate300 mg/day(N = 52) |  | Quetiapine Fumarate600 mg/day(N = 51) |  | Quetiapine Fumarate750 mg/day(N = 54) |  | Placebo (N = 51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -326,9 +326,9 @@ In a short-term placebo-controlled monotherapy trial in children and adolescent 
 
 Table 15 presents a listing of patients with adverse reactions potentially associated with extrapyramidal symptoms in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6 week duration).
 
-In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
+In Tables 15to16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated With Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients With Schizophrenia (6 Week Duration)
+Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6 Week Duration)
 
 | Preferred Term | Quetiapine Fumarate 400 mg/day (N = 73) |  | Quetiapine Fumarate 800 mg/day (N = 74) |  | All Quetiapine Fumarate (N = 147) |  | Placebo (N = 75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -341,7 +341,7 @@ Table 15: Adverse Reactions Associated With Extrapyramidal Symptoms in the Place
 
 Table 16 presents a listing of patients with adverse reactions associated with extrapyramidal symptoms in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3 week duration).
 
-Table 16: Adverse Reactions Associated With Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients With Bipolar I Mania (3 Week Duration)
+Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3 Week Duration)
 
 | Preferred TermThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine Fumarate400 mg/day(N = 95) |  | Quetiapine Fumarate600 mg/day(N = 98) |  | All Quetiapine Fumarate(N = 193) |  | Placebo (N = 90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -360,7 +360,7 @@ Reactions are further categorized by body system and listed in order of decreasi
 
 Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased*, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
 
-Body as a Whole:Frequent: flu syndrome; Infrequent: neck pain, pelvic pain*, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
+Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain*, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
 Digestive System: Frequent: anorexia; Infrequent: increased salivation, increased appetite, gamma glutamyl transpeptidase increased, gingivitis, dysphagia, flatulence, gastroenteritis, gastritis, hemorrhoids, stomatitis, thirst, tooth caries, fecal incontinence, gastroesophageal reflux, gum hemorrhage, mouth ulceration, rectal hemorrhage, tongue edema; Rare: glossitis, hematemesis, intestinal obstruction, melena, pancreatitis.
 
@@ -372,7 +372,7 @@ Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase 
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
-Urogenital System:Infrequent: dysmenorrhea*, vaginitis*, urinary incontinence, metrorrhagia*, impotence*, dysuria, vaginal moniliasis*, abnormal ejaculation*, cystitis, urinary frequency, amenorrhea*, female lactation*, leukorrhea*, vaginal hemorrhage*, vulvovaginitis,* orchitis*; Rare: gynecomastia*, nocturia, polyuria, acute kidney failure.
+Urogenital System: Infrequent: dysmenorrhea*, vaginitis*, urinary incontinence, metrorrhagia*, impotence*, dysuria, vaginal moniliasis*, abnormal ejaculation*, cystitis, urinary frequency, amenorrhea*, female lactation*, leukorrhea*, vaginal hemorrhage*, vulvovaginitis,* orchitis*; Rare: gynecomastia*, nocturia, polyuria, acute kidney failure.
 
 Special Senses: Infrequent: conjunctivitis, abnormal vision, dry eyes, tinnitus, taste perversion, blepharitis, eye pain; Rare: abnormality of accommodation, deafness, glaucoma.
 

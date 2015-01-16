@@ -134,7 +134,7 @@ Adults:
 
 Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with quetiapine fumarate.
 
-Table 4: Percentage of Adult Patients With Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol From Baseline to Clinically Significant Levels by Indication
+Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol From Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -159,7 +159,7 @@ Children and Adolescents:
 
 Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with quetiapine fumarate.
 
-Table 5: Percentage of Children and Adolescents With Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol From Baseline to Clinically Significant Levels
+Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol From Baseline to Clinically Significant Levels
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ Adults:
 
 In clinical trials with quetiapine fumarate the following increases in weight have been reported.
 
-Table 6: Proportion of Patients With Weight Gain ≥ 7% of Body Weight (Adults)
+Table 6: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -208,7 +208,7 @@ Children and Adolescents:
 
 In two clinical trials with quetiapine fumarate, one in bipolar mania and one in schizophrenia, reported increases in weight are included in Table 7.
 
-Table 7: Proportion of Patients With Weight Gain ≥ 7% of Body Weight (Children and Adolescents)
+Table 7: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -319,14 +319,13 @@ Of the quetiapine fumarate treated patients with elevated TSH levels, 3 had simu
 About 0.7% (26/3489) of quetiapine fumarate patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH werea: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
 Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as < 0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.
-Includes quetiapine fumarate and quetiapine fumarate extended-release data.
+Shifts in total T4, free T4, total T3 and free T3 are defined as < 0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.,Includes quetiapine fumarate and quetiapine fumarate extended-release data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

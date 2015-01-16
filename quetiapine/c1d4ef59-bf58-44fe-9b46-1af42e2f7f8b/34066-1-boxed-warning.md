@@ -2,7 +2,7 @@ WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death [see Warnings and Precautions(5.1)].
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death [see Warnings and Precautions (5.1)].
 Quetiapine fumarate is not approved for the treatment of patients with dementia-related psychosis [see Warnings and Precautions (5.1)].
 
 Suicidal Thoughts and Behaviors

@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Quetiapine Fumarate Tablets 25 mg 100s Label Text
 
@@ -14,7 +14,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Quetiapine Fumarate Tablets 50 mg 100s Label Text
 
@@ -30,7 +30,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Quetiapine Fumarate Tablets 100 mg 100s Label Text
 
@@ -46,7 +46,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Quetiapine Fumarate Tablets 200 mg 100s Label Text
 
@@ -62,7 +62,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Quetiapine Fumarate Tablets 300 mg 100s Label Text
 
@@ -78,7 +78,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Quetiapine Fumarate Tablets 400 mg 100s Label Text
 

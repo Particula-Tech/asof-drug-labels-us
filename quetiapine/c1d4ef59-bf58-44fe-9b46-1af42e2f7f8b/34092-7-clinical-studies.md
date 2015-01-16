@@ -13,9 +13,9 @@ A second traditional assessment, the Clinical Global Impression (CGI), reflects 
 
 The results of the trials follow:
 
-1. In a 6 week, placebo-controlled trial (n = 361) (study 1) involving 5 fixed doses of quetiapine fumarate (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day and 750 mg/day given in divided doses three times per day), the 4 highest doses of quetiapine fumarate were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
-2. In a 6 week, placebo-controlled trial (n = 286) (study 2) involving titration of quetiapine fumarate in high (up to 750 mg/day given in divided doses three times per day) and low (up to 250 mg/day given in divided doses three times per day) doses, only the high dose quetiapine fumarate group (mean dose, 500 mg/day) was superior to placebo on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
-3. In a 6 week dose and dose regimen comparison trial (n = 618) (study 3) involving two fixed doses of quetiapine fumarate (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg given twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) quetiapine fumarate dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
+- 1.In a 6 week, placebo-controlled trial (n = 361) (study 1) involving 5 fixed doses of quetiapine fumarate (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day and 750 mg/day given in divided doses three times per day), the 4 highest doses of quetiapine fumarate were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
+- 2.In a 6 week, placebo-controlled trial (n = 286) (study 2) involving titration of quetiapine fumarate in high (up to 750 mg/day given in divided doses three times per day) and low (up to 250 mg/day given in divided doses three times per day) doses, only the high dose quetiapine fumarate group (mean dose, 500 mg/day) was superior to placebo on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
+- 3.In a 6 week dose and dose regimen comparison trial (n = 618) (study 3) involving two fixed doses of quetiapine fumarate (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg given twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) quetiapine fumarate dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 
 The primary efficacy results of these three studies in the treatment of schizophrenia in adults is presented in Table 19.
 
@@ -37,7 +37,7 @@ Table 19: Schizophrenia Short-Term Trials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+| Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
 | Study 1 | Quetiapine Fumarate(75 mg/day) | 45.7 (10.9) | -2.2 (2) | -4 (-11.2, 3.3) |
 |  | Quetiapine Fumarate (150 mg/day)Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3) |
 |  | Quetiapine Fumarate (300 mg/day) | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3) |
@@ -51,7 +51,7 @@ Table 19: Schizophrenia Short-Term Trials
 |  | Quetiapine Fumarate (450 mg/day TID)Doses that are statistically significant superior to quetiapine fumarate 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |
 |  | Quetiapine Fumarate(50 mg BID) | 41.7 (10) | -5.4 (1.3) | -- |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
-|  |  | Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted Differencea (95% CI) |
+| Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted Difference(95% CI) |  |  |
 | Study 4 | Quetiapine Fumarate (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 |  | Quetiapine Fumarate (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |
 |  | Placebo | 96.2 (17.7) | -19.2 (3) | -- |
@@ -99,7 +99,7 @@ Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
 The primary efficacy variable was the mean change from baseline in total YMRS score.
 
-Quetiapine fumarate 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (Table 20).
+Quetiapine fumarate 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (Table20).
 
 Table 20: Mania Trials
 
@@ -107,12 +107,12 @@ Table 20: Mania Trials
 | --- | --- | --- | --- | --- |
 |  |  | Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change From Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | Study 1 | Quetiapine Fumarate (200 to 800 mg/day)Doses that are statistically significantly superior to placebo.,Included in the trial as an active comparator. | 34 (6.1) | -12.3 (1.3) | -4 (-7, -1) |
-|  | Haloperidolc,d | 32.3 (6) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |
+|  | Haloperidol, | 32.3 (6) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |
 |  | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |
 | Study 2 | Quetiapine Fumarate (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5) |
 |  | Lithium, | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |
 |  | Placebo | 34 (6.9) | -6.7 (1.6) | -- |
-| Study 3 | Quetiapine Fumarate(200 to 800 mg/day)c + mood stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
+| Study 3 | Quetiapine Fumarate(200 to 800 mg/day)+ mood stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
 |  | Placebo + mood stabilizer | 31.1 (5.5) | -10 (1.5) | -- |
 | Study 4 | Quetiapine Fumarate (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
 |  | Quetiapine Fumarate (600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |
@@ -136,18 +136,18 @@ For the 300 mg dose group, statistically significant improvements over placebo w
 
 The primary efficacy results of these studies in the acute treatment of depressive episodes associated with bipolar disorder in adults is presented in Table 21.
 
-Table 21: Depressive Episodes Associated With Bipolar Disorder
+Table 21: Depressive Episodes Associated with Bipolar Disorder
 
-| Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
-| Study 5 | Quetiapine Fumarate (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |
-|  | Quetiapine Fumarate (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |
-|  | Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |
-| Study 6 | Quetiapine Fumarate (300 mg/day) | 31.1 (5.7) | -16.9 (1) | -5 (-7.3, -2.7) |
-|  | Quetiapine Fumarate (600 mg/day) | 29.9 (5.6) | -16 (1) | -4.1 (-6.4, -1.8) |
-|  | Placebo | 29.6 (5.4) | -11.9 (1) | -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
+| Study Number | Treatment Group | Primary Efficacy Measure: MADRS Total |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |  |  |  |  |  |
+| Study 5 | Quetiapine Fumarate (300 mg/day)Doses that are statistically significantly superior to placebo. | 30.3 (5) | -16.4 (0.9) | -6.1 (-8.3, -3.9) |  |  |  |  |  |
+|  | Quetiapine Fumarate (600 mg/day) | 30.3 (5.3) | -16.7 (0.9) | -6.5 (-8.7, -4.3) |  |  |  |  |  |
+|  | Placebo | 30.6 (5.3) | -10.3 (0.9) | -- |  |  |  |  |  |
+| Study 6 | Quetiapine Fumarate (300 mg/day) | 31.1 (5.7) | -16.9 (1) | -5 (-7.3, -2.7) |  |  |  |  |  |
+|  | Quetiapine Fumarate (600 mg/day) | 29.9 (5.6) | -16 (1) | -4.1 (-6.4, -1.8) |  |  |  |  |  |
+|  | Placebo | 29.6 (5.4) | -11.9 (1) | -- |  |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |  |  |  |  |  |
 
 Maintenance Treatment as an Adjunct to Lithium or Divalproex
 
