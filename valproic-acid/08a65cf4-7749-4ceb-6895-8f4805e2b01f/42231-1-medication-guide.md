@@ -36,7 +36,9 @@ Stopping Depakote or Depakene suddenly can cause serious problems.
 
 Depakote and Depakene can cause serious side effects, including:
 
-1. Serious liver damage that can cause death, especially in children younger than 2 years old.The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.Call your healthcare provider right away if you get any of the following symptoms:In some cases, liver damage may continue despite stopping the drug.
+1. Serious liver damage that can cause death, especially in children younger than 2 years old.
+   The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.
+   Call your healthcare provider right away if you get any of the following symptoms:In some cases, liver damage may continue despite stopping the drug.
    - nausea or vomiting that does not go away
    - loss of appetite
    - pain on the right side of your stomach (abdomen)
@@ -44,11 +46,10 @@ Depakote and Depakene can cause serious side effects, including:
    - swelling of your face
    - yellowing of your skin or the whites of your eyes
 2. Depakote or Depakene may harm your unborn baby.
-   - If you take Depakote or Depakene during pregnancy for any medical condition, your baby is at risk for serious birth defects.
-     The most common birth defects with Depakote or Depakene affect the brain and spinal cord and are called spina bifida or neural tube defects.
+   - If you take Depakote or Depakene during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
      These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
      These defects can begin in the first month, even before you know you are pregnant.
-     Other birth defects can happen.
+     Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
    - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
    - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
    - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having a lower IQ.
@@ -61,10 +62,13 @@ Depakote and Depakene can cause serious side effects, including:
    - Pregnancy Registry: If you become pregnant while taking Depakote or Depakene, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
      You can enroll in this registry by calling 1-888-233-2334.
      The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-3. Inflammation of your pancreas that can cause death.Call your healthcare provider right away if you have any of these symptoms:
+3. Inflammation of your pancreas that can cause death.
+   Call your healthcare provider right away if you have any of these symptoms:
    - severe stomach pain that you may also feel in your back
    - nausea or vomiting that does not go away
-4. Like other antiepileptic drugs, Depakote or Depakene may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Do not stop Depakote or Depakene without first talking to a healthcare provider.
+4. Like other antiepileptic drugs, Depakote or Depakene may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+   Do not stop Depakote or Depakene without first talking to a healthcare provider.
    Stopping Depakote or Depakene suddenly can cause serious problems.
    Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
    Suicidal thoughts or actions can be caused by things other than medicines.
@@ -144,7 +148,7 @@ How should I take Depakote or Depakene?
   Stopping Depakote or Depakene suddenly can cause serious problems.
 - Swallow Depakote tablets, Depakote ER tablets or Depakene capsules whole.
   Do not crush or chew Depakote tablets, Depakote ER tablets, or Depakene capsules.
-  Tell your healthcare provider if you can not swallow Depakote or Depakene whole.
+  Tell your healthcare provider if you cannot swallow Depakote or Depakene whole.
   You may need a different medicine.
 - Depakote Sprinkle Capsules may be swallowed whole, or they may be opened and the contents may be sprinkled on a small amount of soft food, such as applesauce or pudding.
   See the Administration Guide at the end of this Medication Guide for detailed instructions on how to use Depakote Sprinkle Capsules.
@@ -164,7 +168,7 @@ What are the possible side effects with Depakote or Depakene?
 
 Depakote or Depakene can cause serious side effects including:
 
-- Low blood count: red or purple spots on your skin, bruising, bleeding from your mouth, teeth or nose.
+- Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
 - Low body temperature (hypothermia): drop in your body temperature to less than 95°F, feeling tired, confusion, coma.
 - Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
@@ -284,4 +288,6 @@ For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-B062 November 2014
+Revised: January 2015
+
+03-B098

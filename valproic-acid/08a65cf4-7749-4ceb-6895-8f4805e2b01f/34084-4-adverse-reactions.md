@@ -1,19 +1,19 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
-
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
 - Hepatic failure [see Warnings and Precautions (5.1)]
 - Birth defects [see Warnings and Precautions (5.2)]
 - Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
 - Pancreatitis [see Warnings and Precautions (5.5)]
-- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6), (5.9), (5.10)]
+- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.9, 5.10)]
 - Suicidal behavior and ideation [see Warnings and Precautions (5.7)]
-- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.8)]
 - Hypothermia [see Warnings and Precautions (5.11)]
-- Multi-organ hypersensitivity reactions [see Warnings and Precautions (5.12)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.12)]
 - Somnolence in the elderly [see Warnings and Precautions (5.14)]
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 ## 6.1 Mania
 
@@ -240,15 +240,17 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatologic: Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
-Psychiatric: Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
+Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
 Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Hematologic: Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leucopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
+Hematologic: Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Endocrine: Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
+
+There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
 Genitourinary: Enuresis and urinary tract infection.
 
