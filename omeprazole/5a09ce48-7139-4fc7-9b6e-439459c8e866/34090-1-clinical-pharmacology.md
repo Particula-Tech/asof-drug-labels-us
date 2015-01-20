@@ -46,9 +46,8 @@ Healthcare providers should temporarily stop omeprazole treatment at least 14 da
 
 Enterochromaffin-like (ECL) Cell Effects
 
-Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-[See CLINICAL PHARMACOLOGY (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
+Human gastric biopsy specimens have been obtained from more than 3000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [seeCLINICAL PHARMACOLOGY (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
 
@@ -137,6 +136,10 @@ Results from another crossover study in healthy subjects showed a similar pharma
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
+
+Concomitant Use with Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
 Special Populations
 

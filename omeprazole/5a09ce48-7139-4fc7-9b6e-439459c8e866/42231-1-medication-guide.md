@@ -66,7 +66,8 @@ Do not take omeprazole delayed-release capsules if you:
 - •are allergic to omeprazole or any of the ingredients in omeprazole delayed-release capsules.
   See the end of this Medication Guide for a complete list of ingredients in omeprazole delayed-release capsules.
 - •are allergic to any other Proton Pump Inhibitor (PPI) medicine.
-- •What should I tell my doctor before taking omeprazole delayed-release capsules?
+
+What should I tell my doctor before taking omeprazole delayed-release capsules?
 
 Before you take omeprazole delayed-release capsules, tell your doctor if you:
 
@@ -104,6 +105,7 @@ Especially tell your doctor if you take:
 - •rifampin (Rimactane, Rifater, Rifamate),
 - •erlotinib (Tarceva)
 - •methotrexate
+- •mycophenolate mofetil (CellCept)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -139,11 +141,15 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
   Using omeprazole delayed-release capsules for a long period of time may increase the risk of inflammation to your stomach lining.
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- •Vitamin B-12 deficiency.
+  Omeprazole delayed-release capsules reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on omeprazole delayed-release capsules for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
-  You may or may not have symptoms of low magnesium.
-- Tell your doctor right away if you develop any of these symptoms:
+- You may or may not have symptoms of low magnesium.
+  Tell your doctor right away if you develop any of these symptoms:
 - •seizures
 - •dizziness
 - •abnormal or fast heart beat
@@ -190,7 +196,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store omeprazole delayed-release capsules?
 
 - •Store omeprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
-  - •Keep the container of omeprazole delayed-release capsules closed tightly.
+- •Keep the container of omeprazole delayed-release capsules closed tightly.
 - •Keep the container of omeprazole delayed-release capsules dry and away from light.
 
 Keep omeprazole delayed-release capsules and all medicines out of the reach of children.
@@ -220,6 +226,7 @@ Inactive ingredients: acetone, anhydrous lactose, croscarmellose sodium, dehydra
 
 The capsule shells have the following inactive ingredients: hypromellose and titanium dioxide.
 In addition, the 10 mg and 40 mg capsule also contains red iron oxide and yellow iron oxide.
+
 The capsule shell may contain carrageenan and potassium chloride.
 The ink used for printing contains black iron oxide.
 
@@ -232,4 +239,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-April 2014
+January 2015

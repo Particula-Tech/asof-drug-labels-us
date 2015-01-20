@@ -5,8 +5,7 @@ In the clinical trials, antacids were used concomitantly with omeprazole.
 
 Patients should be informed that the omeprazole delayed-release capsule should be swallowed whole.
 
-For patients unable to swallow an intact capsule, alternative administration options are available.
-[See DOSAGE AND ADMINISTRATION(2.8)]
+For patients unable to swallow an intact capsule, alternative administration options are available [seeDOSAGE AND ADMINISTRATION(2.8)]
 
 ## 2.1 Short-Term Treatment of Active Duodenal Ulcer
 
@@ -34,7 +33,7 @@ The recommended adult oral dose for the treatment of patients with erosive esoph
 ## 2.5 Maintenance of Healing of Erosive Esophagitis
 
 The recommended adult oral dose is 20 mg daily.
-[See CLINICAL STUDIES(14.4)]
+Controlled studies do not extend beyond 12 months [see CLINICAL STUDIES (14.4)]
 
 ## 2.6 Pathological Hypersecretory Conditions
 
@@ -56,7 +55,7 @@ For the treatment of GERD and maintenance of healing of erosive esophagitis, the
 
 On a per kg basis, the doses of omeprazole required to heal erosive esophagitis in pediatric patients are greater than those for adults.
 
-Alternative administrative options can be used for pediatric patients unable to swallow an intact capsule [see DOSAGE AND ADMINISTRATION (2.8)].
+Alternative administrative options can be used for pediatric patients unable to swallow an intact capsule [seeDOSAGE AND ADMINISTRATION (2.8)].
 
 ## 2.8 Alternative Administration Options
 
