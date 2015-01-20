@@ -8,7 +8,7 @@ In a multicenter, double-blind, placebo-controlled study of 147 patients with en
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | 20 mg a.m. (n=99) | a.m. (n=48) |
+|  | 20 mg a.m. (n = 99) | a.m. (n = 48) |
 | --- | --- | --- |
 |  | Omeprazole | Placebo |
 | Week 2 | (p ≤ 0.01)41 | 13 |
@@ -37,7 +37,7 @@ At 2 and 4 weeks both doses of omeprazole were statistically superior (per proto
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | 20 mg (n=34) | 40 mg (n=36) | 150 mg twice daily (n=35) |
+|  | 20 mg (n = 34) | 40 mg (n = 36) | 150 mg twice daily (n = 35) |
 | --- | --- | --- | --- |
 |  | Omeprazole |  | Ranitidine |
 | Week 2 | (p≤ 0.01)83 | 83 | 53 |
@@ -111,18 +111,18 @@ Ulcer healing was not significantly different when clarithromycin was added to o
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
 
-Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
+Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status% of Patients with Ulcer Recurrence
 
 |  | H. pylori eradicated# | H. pylori not eradicated# |
 | --- | --- | --- |
 | U.S. Studies† 6 months post-treatment |  |  |
-| Study 4 | *35 (n=49) | 60 (n=88) |
-| Study 5 | *8 (n=53) | 60 (n=106) |
+| Study 4 | *35 (n = 49) | 60 (n = 88) |
+| Study 5 | *8 (n = 53) | 60 (n = 106) |
 | Non U.S. Studies‡ 6 months post-treatment |  |  |
-| Study 6 | *5 (n=43) | 46 (n=78) |
-| Study 7 | *6 (n=53) | 43 (n=107) |
+| Study 6 | *5 (n = 43) | 46 (n = 78) |
+| Study 7 | *6 (n = 53) | 43 (n = 107) |
 | 12 months post-treatment |  |  |
-| Study 6 | *5 (n=39) | 68 (n=71) |
+| Study 6 | *5 (n = 39) | 68 (n = 71) |
 
 # H. pylori eradication status assessed at same time point as ulcer recurrence
 
@@ -138,7 +138,7 @@ In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg
 
 Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
-|  | Omeprazole 20 mg once daily (n=202) | Omeprazole 40 mg once daily (n=214) | Placebo (n=104) |
+|  | Omeprazole 20 mg once daily (n = 202) | Omeprazole 40 mg once daily (n = 214) | Placebo (n = 104) |
 | --- | --- | --- | --- |
 | Week 4 | 47.5 ** | 55.6 ** | 30.8 |
 | Week 8 | 74.8 ** | 82.7 **,+ | 48.1 |
@@ -154,7 +154,7 @@ In a foreign, multinational, double-blind study of 602 patients with endoscopica
 
 Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
-|  | Omeprazole 20 mg once daily (n=200) | Omeprazole 40 mg once daily (n=187) | Ranitidine 150 mg twice daily. (n=199) |
+|  | Omeprazole 20 mg once daily (n = 200) | Omeprazole 40 mg once daily (n = 187) | Ranitidine 150 mg twice daily. (n = 199) |
 | --- | --- | --- | --- |
 | Week 4 | 63.5 | 78.1 **,++ | 56.3 |
 | Week 8 | 81.5 | 91.4 **,++ | 78.4 |
@@ -174,8 +174,8 @@ Results are shown below.
 
 |  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
-| All patients | 46*,† (n=205) | 31† (n=199) | 13 (n=105) |
-| Patients with confirmed GERD | 56*,† (n=115) | 36† (n=109) | 14 (n=59) |
+| All patients | 46*,† (n = 205) | 31† (n = 199) | 13 (n = 105) |
+| Patients with confirmed GERD | 56*,† (n = 115) | 36† (n = 109) | 14 (n = 59) |
 
 a Defined as complete resolution of heartburn
 
@@ -187,7 +187,7 @@ a Defined as complete resolution of heartburn
 
 In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
-| Week | 20 mg Omeprazole(n=83) | 40 mg Omeprazole(n=87) | Placebo(n=43) |
+| Week | 20 mg Omeprazole(n = 83) | 40 mg Omeprazole(n = 87) | Placebo(n = 43) |
 | --- | --- | --- | --- |
 | 4 | 39** | 45** | 7 |
 | 8 | 74** | 75** | 14 |
@@ -208,7 +208,7 @@ Results to determine maintenance of healing of erosive esophagitis are shown bel
 
 Life Table Analysis
 
-|  | Omeprazole 20 mg once daily (n=138) | Omeprazole 20 mg 3 days per week (n=137) | Placebo (n=131) |
+|  | Omeprazole 20 mg once daily (n = 138) | Omeprazole 20 mg 3 days per week (n = 137) | Placebo (n = 131) |
 | --- | --- | --- | --- |
 | Percent in endoscopic remission at 6 months | * 70 | 34 | 11 |
 
@@ -219,7 +219,7 @@ The table below provides the results of this study for maintenance of healing of
 
 Life Table Analysis
 
-|  | Omeprazole 20 mg once daily (n=131) | Omeprazole 10 mg once daily (n=133) | Ranitidine 150 mg twice daily (n=128) |
+|  | Omeprazole 20 mg once daily (n = 131) | Omeprazole 10 mg once daily (n = 133) | Ranitidine 150 mg twice daily (n = 128) |
 | --- | --- | --- | --- |
 | Percent in endoscopic remission at 12 months | * 77 | ‡ 58 | 46 |
 

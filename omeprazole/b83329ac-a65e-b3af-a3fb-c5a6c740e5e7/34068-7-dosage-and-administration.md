@@ -32,7 +32,8 @@ The recommended adult oral dose for the treatment of patients with erosive esoph
 
 ## 2.5 Maintenance of Healing of Erosive Esophagitis
 
-The recommended adult oral dose is 20 mg daily [see Clinical Studies (14.4)].
+The recommended adult oral dose is 20 mg daily.
+Controlled studies do not extend beyond 12 months [see Clinical Studies (14.4)].
 
 ## 2.6 Pathological Hypersecretory Conditions
 

@@ -14,9 +14,9 @@ The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
 
 Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.3)].
+This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.5)].
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.8)].
 
 APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 
@@ -26,6 +26,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: May 2014
+Revised: January 2015
 
-Revision: 18
+Revision: 19

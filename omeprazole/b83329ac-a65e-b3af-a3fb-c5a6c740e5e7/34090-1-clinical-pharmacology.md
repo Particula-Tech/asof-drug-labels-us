@@ -27,7 +27,7 @@ Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Eff
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
 | % Decrease in Basal Acid Output | 78Single Studies | 58 to 80 | 94 | 80 to 93 |
 | % Decrease in Peak Acid Output | 79 | 50 to 59 | 88 | 62 to 68 |
-| % Decrease in 24–hr Intragastric Acidity |  | 80 to97 |  | 92 to 94 |
+| % Decrease in 24–hr. Intragastric Acidity |  | 80 to 97 |  | 92 to 94 |
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
@@ -121,9 +121,9 @@ Table 2 Clarithromycin Tissue Concentrations 2 hours after Dose1
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
-| Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
-| Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
-| Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
+| Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n = 5) |
+| Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n = 5) |
+| Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n = 4) |
 
 1Mean ± SD (mcg/g)
 
@@ -136,6 +136,10 @@ Results from another crossover study in healthy subjects showed a similar pharma
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
+
+Concomitant Use with Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1,000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
 Special Populations
 
@@ -152,14 +156,14 @@ The pharmacokinetics of omeprazole have been investigated in pediatric patients 
 
 Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing/ Parameter | Children† ≤20 kg 2 to 5 years 10 mg | Children† > 20 kg 6 to 16 years 20 mg | Adults‡ (mean 76 kg) 23 to 29 years (n=12) |
+| Single or Repeated Oral Dosing/ Parameter | Children† ≤20 kg 2 to 5 years 10 mg | Children† > 20 kg 6 to 16 years 20 mg | Adults‡ (mean 76 kg) 23 to 29 years (n = 12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
-| Cmax* (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC* (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| Cmax* (ng/mL) | 288 (n = 10) | 495 (n = 49) | 668 |
+| AUC* (ng h/mL) | 511 (n = 7) | 1140 (n = 32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax* (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC* (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| Cmax* (ng/mL) | 539 (n = 4) | 851 (n = 32) | 1458 |
+| AUC* (ng h/mL) | 1179 (n = 2) | 2276 (n = 23) | 3352 |
 
 Note: * = plasma concentration adjusted to an oral dose of 1 mg/kg.
 

@@ -106,7 +106,8 @@ Especially tell your doctor if you take:
 - St. John’s Wort (Hypericum perforatum)
 - rifampin (Rimactane, Rifater, Rifamate),
 - erlotinib (Tarceva)
-- methotrexateAsk your doctor or pharmacist for a list of these medicines if you are not sure.
+- methotrexate
+- mycophenolate mofetil (Cellcept)Ask your doctor or pharmacist for a list of these medicines if you are not sure.
   Know the medicines that you take.
   Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
@@ -139,6 +140,10 @@ Omeprazole can cause serious side effects, including:
   Using omeprazole delayed-release capsules for a long period of time may increase the risk of inflammation to your stomach lining.
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- Vitamin B-12 deficiency.
+  Omeprazole delayed-release capsules reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on omeprazole delayed-release capsules for a long time (more than 3 years).
 - Low magnesium levels in your body.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
@@ -180,12 +185,12 @@ Tell your doctor if you have any side effect that bothers you or that do not go 
 These are not all the possible side effects with omeprazole delayed-release capsules.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-­1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store omeprazole delayed-release capsules?
 
 - Store omeprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep the container of omeprazole delayed-release capsules closed tightly.
+- Keep the container of omeprazole delayed-release capsules dry and away from light.
 
 Keep omeprazole delayed-release capsules and all medicines out of the reach of children.
 
@@ -217,10 +222,16 @@ The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl 
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+APOTEX INC.
+
+OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP
+
+10 mg, 20 mg and 40 mg
+
 | Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-May 2014
+January 2015
