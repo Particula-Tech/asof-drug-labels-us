@@ -49,24 +49,36 @@ Population Subgroups
 
 Age:
 
-Adolescents - In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy adolescent subjects (12 to 17 years of age) compared to adults.
+Adolescents
+
+In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy adolescent subjects (12 to 17 years of age) compared to adults.
 Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in patients with MDD (12 to 17 years of age) compared to adult patients.
 No adjustment of dosage is needed in adolescent patients.
 
-Elderly - Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
+Elderly
+
+Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
 10 mg is the recommended dose for elderly patients [see DOSAGE AND ADMINISTRATION (2.3)].
 
-Gender - Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults and adolescents, no dosage adjustment on the basis of gender is needed.
+Gender
 
-Reduced hepatic function - Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects.
+Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults and adolescents, no dosage adjustment on the basis of gender is needed.
+
+Reduced hepatic function
+
+Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects.
 10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see DOSAGE AND ADMINISTRATION (2.3)].
 
-Reduced renal function - In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
+Reduced renal function
+
+In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No adjustment of dosage for such patients is recommended.
 No information is available about the pharmacokinetics of escitalopram in patients with severely reduced renal function (creatinine clearance < 20 mL/min).
 
-Drug-Drug Interactions - In vitro enzyme inhibition data did not reveal an inhibitory effect of escitalopram on CYP3A4, -1A2, -2C9, -2C19, and -2E1.
+Drug-Drug Interactions
+
+In vitro enzyme inhibition data did not reveal an inhibitory effect of escitalopram on CYP3A4, -1A2, -2C9, -2C19, and -2E1.
 Based on in vitro data, escitalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these cytochromes.
 While in vivo data to address this question are limited, results from drug interaction studies suggest that escitalopram, at a dose of 20 mg, has no 3A4 inhibitory effect and a modest 2D6 inhibitory effect.
 See DRUG INTERACTIONS (7.18) for more detailed information on available drug interaction data.

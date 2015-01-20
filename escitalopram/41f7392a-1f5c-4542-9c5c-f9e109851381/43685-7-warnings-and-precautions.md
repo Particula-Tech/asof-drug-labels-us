@@ -80,7 +80,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see DOSAGE AND ADMINISTRATION (2.4)].
 
-## 5.11 Seizures
+## 5.4 Seizures
 
 Although anticonvulsant effects of racemic citalopram have been observed in animal studies, escitalopram has not been systematically evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product's premarketing testing.

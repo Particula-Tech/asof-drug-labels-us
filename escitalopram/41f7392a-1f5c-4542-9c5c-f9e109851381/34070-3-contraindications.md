@@ -2,10 +2,10 @@
 
 ## 4.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-The use of MAOIs intended to treat psychiatric disorders with escitalopram tablets USP or within 14 days of stopping treatment with escitalopram tablets USP is contraindicated because of an increased risk of serotonin syndrome.
-The use of escitalopram tablets USP within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see DOSAGE AND ADMINISTRATION (2.5), and WARNINGS AND PRECAUTIONS (5.2)].
+The use of MAOIs intended to treat psychiatric disorders with escitalopram tablets or within 14 days of stopping treatment with escitalopram tablets is contraindicated because of an increased risk of serotonin syndrome.
+The use of escitalopram tablets within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see DOSAGE AND ADMINISTRATION (2.5), and WARNINGS AND PRECAUTIONS (5.2)].
 
-Starting escitalopram tablets USP in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see DOSAGE AND ADMINISTRATION (2.6), and WARNINGS AND PRECAUTIONS (5.2)].
+Starting escitalopram tablets in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see DOSAGE AND ADMINISTRATION (2.6), and WARNINGS AND PRECAUTIONS (5.2)].
 
 ## 4.2 Pimozide
 

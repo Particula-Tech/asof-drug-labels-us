@@ -103,7 +103,7 @@ Talk to your healthcare provider if you do not think that your condition is gett
 
 Who should not take escitalopram tablets?
 
-Do not take escitalopram tablets if you:
+Do not take escitalopram table if you:
 
 - are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in escitalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in escitalopram tablets.
@@ -174,7 +174,7 @@ Do not drink alcohol while using escitalopram tablets.
 
 What are the possible side effects of escitalopram tablets?
 
-Escitalopram tablets may cause serious side effects, including all of those described in the section entitled "What is the most important information I should know about scitalopram tablets?"
+Escitalopram tablets may cause serious side effects, including all of those described in the section entitled "What is the most important information I should know about escitalopram tablets?"
 
 Common possible side effects in people who take escitalopram tablets include:
 
@@ -214,7 +214,7 @@ YOU MAY ALSO REPORT SIDE EFFECTS TO LUPIN PHARMACEUTICALS, INC. AT 1-800-399-256
 
 How should I store escitalopram tablets?
 
-- Store escitalopram tablets at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+- Store escitalopram tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep escitalopram tablets bottle closed tightly.
 
 Keep escitalopram tablets and all medicines out of the reach of children.
@@ -259,4 +259,4 @@ Goa 403 722
 
 INDIA
 
-Revised: October 2014 ID#: 238798
+Revised: February 2015 ID#: 239822

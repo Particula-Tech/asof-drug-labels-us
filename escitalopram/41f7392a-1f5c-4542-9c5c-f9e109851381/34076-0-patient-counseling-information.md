@@ -43,19 +43,19 @@ Concomitant Medications
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 
-Continuing the Therapy Prescribed
+Continuing the Therapy Prescribed:
 
 While patients may notice improvement with escitalopram tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
-Interference with Psychomotor Performance
+Interference with Psychomotor Performance:
 
 Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram therapy does not affect their ability to engage in such activities.
 
-Alcohol
+Alcohol:
 
 Patients should be told that, although escitalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of escitalopram and alcohol in depressed patients is not advised.
 
-Pregnancy and Breast Feeding
+Pregnancy and Breast Feeding:
 
 Patients should be advised to notify their physician if they
 
@@ -87,13 +87,13 @@ Goa 403 722
 
 INDIA
 
-Revised: October 2014 ID#: 238797
+Revised: February 2015 ID#: 239821
 
 ## 17.2 FDA-Approved Medication Guide
 
 Medication Guide
 
-Escitalopram Tablets USP
+Escitalopram (ES-sye-TAL-oh-pram) Tablets USP
 
 Read the Medication Guide that comes with escitalopram tablets USP before you start taking it and each time you get a refill.
 There may be new information.

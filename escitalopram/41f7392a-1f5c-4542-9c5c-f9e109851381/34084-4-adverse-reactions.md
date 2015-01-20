@@ -33,7 +33,7 @@ Pediatrics (6 to 17 years)
 Adverse events were associated with discontinuation of 3.5% of 286 patients receiving escitalopram and 1% of 290 patients receiving placebo.
 The most common adverse event (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was insomnia (1% escitalopram, 0% placebo).
 
-Adults:
+Adults
 
 Among the 715 depressed patients who received escitalopram in placebo-controlled trials, 6% discontinued treatment due to an adverse event, as compared to 2% of 592 patients receiving placebo.
 In two fixed-dose studies, the rate of discontinuation for adverse events in patients receiving 10 mg/day escitalopram was not significantly different from the rate of discontinuation for adverse events in patients receiving placebo.
@@ -209,7 +209,7 @@ Laboratory Changes:
 Escitalopram and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses revealed no clinically important changes in laboratory test parameters associated with escitalopram treatment.
 
-ECG Changes:
+ECG Changes
 
 Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
 None of the patients in the escitalopram group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
