@@ -193,7 +193,7 @@ Laboratory parameters may be useful in guiding dosage for the treatment of hypoe
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
 Long-term continuous administration of estrogen, with or without progestin, in women with or without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-[See BOXED WARNINGS and WARNINGS and PRECAUTIONS.]
+[see BOXED WARNINGS and WARNINGS and PRECAUTIONS].
 
 ## F. Pregnancy Category X
 

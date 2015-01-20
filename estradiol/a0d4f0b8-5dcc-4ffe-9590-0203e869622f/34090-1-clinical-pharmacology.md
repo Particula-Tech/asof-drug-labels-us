@@ -40,7 +40,7 @@ Figure 2 Mean estradiol serum concentrations during a single 4-day wearing of Al
 
 Table 1 provides a summary of the estradiol pharmacokinetic parameters studied during biopharmaceutic evaluation of Alora.
 
-Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-Hour Dosing Interval.
+Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-hour Dosing Interval.
 
 | Alora (mg/day) | Application Site | N | Dosing | Cmax (pg/ml) | Cmin (pg/ml) | Cavg (pg/ml) | CL (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- |

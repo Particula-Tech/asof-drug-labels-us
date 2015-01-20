@@ -205,10 +205,10 @@ But if it bothers you a lot or lasts longer than a few days, call your healthcar
 For Best Results, Stay with Your Patch Program
 
 - Replace your patch twice each week, on the 2 days you have chosen.
-  Until it becomes a habit, try
+  Until it becomes a habit, try:
   - Marking your schedule on the inside flap of the patch box;
   - Marking the days on your calendar;
-  - Linking the days you change your patch to other things that always happen on those days (e.g., an exercise class, meetings, etc.)
+  - Linking the days you change your patch to other things that always happen on those days (e.g., an exercise class, meetings, etc.).
 - Handle each patch with care.
   - Make sure the skin is clean, dry, and free of lotion and powder.
   - Try to avoid touching the sticky surface when applying the patch.
@@ -256,6 +256,6 @@ For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Content Updated: November 2013
+Content Updated: August 2014
 
-200178-12
+200178-13

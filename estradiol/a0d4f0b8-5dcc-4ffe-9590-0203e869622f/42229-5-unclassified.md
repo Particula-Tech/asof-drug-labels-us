@@ -57,7 +57,7 @@ Table 4 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHIa.
 
 | Absolute Risk per 10,000 Person-years |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Eventc |  | Relative Risk CE/MPA vs placebo at 5.2 years (95% CI*) | Placebo n=8102 | CE/MPA n=8506 |
+| Eventc |  | Relative Risk CE/MPA vs. placebo at 5.2 years (95% CI*) | Placebo n=8102 | CE/MPA n=8506 |
 | CHD events |  | 1.29 (1.02-1.63) | 30 | 37 |
 | Non-fatal MI |  | 1.32 (1.02-1.72) | 23 | 30 |
 | CHD death |  | 1.18 (0.70-1.97) | 6 | 7 |
@@ -84,4 +84,4 @@ The Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolle
 After an average follow-up of 4 years, 40 women in the estrogen/progestin group (45 per 10,000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI, 1.21 to 3.48) compared to placebo.
 Differences between groups became apparent in the first year of treatment.
-It is unknown whether these findings apply to younger postmenopausal women [see BOXED WARNINGS and WARNINGS, Dementia, and PRECAUTIONS, Geriatric Use].
+It is unknown whether these findings apply to younger postmenopausal women [see BOXED WARNINGS and WARNINGS, Dementia and PRECAUTIONS, Geriatric Use].
