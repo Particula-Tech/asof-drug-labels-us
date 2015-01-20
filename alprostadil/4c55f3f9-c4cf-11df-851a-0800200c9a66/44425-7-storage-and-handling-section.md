@@ -6,7 +6,7 @@ MUSE may be kept by the patient at room temperature (below 30°C or 86°F) for u
 
 Medical information line at Meda Pharmaceuticals Inc. 1-888-345-MUSE (1-888-345-6873).
 
-MUSE® IS A REGISTERED TRADEMARK OF MEDA AB, USED UNDER LICENSE BY MEDA PHARMACEUTICALS INC.
+Muse is a registered trademark of Meda AB, used under license by Meda Pharmaceuticals Inc.
 
 MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 

@@ -42,7 +42,9 @@ The most common side effects that have been observed using MUSE follow:
 - Warmth or burning sensation in the urethra
 - Redness of the penis due to increased blood flow
 - Minor urethral bleeding or spotting due to improper administration.
-- Side effects reported less frequently:
+
+Side effects reported less frequently:
+
 - Prolonged erection - PLEASE NOTE: IF YOUR ERECTION IS RIGID FOR MORE THAN 4 HOURS, CALL YOUR DOCTOR PROMPTLY.
 - Swelling of leg veins
 - Light-headedness/Dizziness
@@ -82,7 +84,7 @@ MUSE should not be used for sexual intercourse with a pregnant woman unless the 
 
 Sexually Transmitted Diseases
 
-MUSE will not protect you or your partner from sexually transmitted diseases like chlamydia, gonorrhea, herpes simplex virus, viral hepatitis, human immunodeficiency virus (HIV the virus that causes AIDS), human papilloma virus (genital warts), and syphilis.
+MUSE will not protect you or your partner from sexually transmitted diseases like chlamydia, gonorrhea, herpes simplex virus, viral hepatitis, human immunodeficiency virus (HIV - the virus that causes AIDS), human papilloma virus (genital warts), and syphilis.
 Latex condoms can protect against these sexually transmitted diseases.
 
 HOW SHOULD I STORE MUSE?
@@ -243,7 +245,7 @@ MUSE should not be used more than twice per day.
 
 If you have any additional questions about MUSE, please call the toll free patient information line at Meda Pharmaceuticals Inc. 1-888-367-MUSE (1-888-367-6873), or visit the MUSE product web site, http://www.muserx.net
 
-MUSE® IS A REGISTERED TRADEMARK OF MEDA AB, USED UNDER LICENSE BY MEDA PHARMACEUTICALS INC.
+Muse is a registered trademark of Meda AB, used under license by Meda Pharmaceuticals Inc.
 
 MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
