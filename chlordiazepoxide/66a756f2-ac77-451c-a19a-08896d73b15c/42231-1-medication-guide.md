@@ -1,6 +1,6 @@
 # Medication Guide
 
-Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with your or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -16,28 +16,25 @@ What is the most important information I should know about antidepressant medici
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 - 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
-- •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- •Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-
-- •thoughts about suicide or dying
-- •attempts to commit suicide
-- •new or worse depression
-- •new or worse anxiety
-- •feeling very agitated or restless
-- •panic attacks
-- •trouble sleeping (insomnia)
-- •new or worse irritability
-- •acting aggressive, being angry, or violent
-- •acting on dangerous impulses
-- •an extreme increase in activity and talking (mania)
-- •other unusual changes in behavior or mood
-- •visual problems: eye pain, changes in vision, swelling or redness in or around the eye.
+  1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+  2. •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  3. •Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+- Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+  1. •thoughts about suicide or dying
+  2. •attempts to commit suicide
+  3. •new or worse depression
+  4. •new or worse anxiety
+  5. •feeling very agitated or restless
+  6. •panic attacks
+  7. •trouble sleeping (insomnia)
+  8. •new or worse irritability
+  9. •acting aggressive, being angry, or violent
+  10. •acting on dangerous impulses
+  11. •an extreme increase in activity and talking (mania)
+  12. •other unusual changes in behavior or mood
+  13. •Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
 
 What else do I need to know about antidepressant medicines?
 
@@ -62,4 +59,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Revised 5/2014
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+REVISED DECEMBER 2014 CDAM:R15mmh

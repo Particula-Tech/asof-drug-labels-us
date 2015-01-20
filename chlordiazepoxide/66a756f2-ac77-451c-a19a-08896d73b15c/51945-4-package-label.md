@@ -19,11 +19,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Adult Dosage: See accompanying prescribing information.
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0211A11
+RM0211A12
 
 PRINCIPAL DISPLAY PANEL - 10 mg/25 mg
 
@@ -46,8 +46,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Adult Dosage: See accompanying prescribing information.
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0277A11
+RM0277A12
