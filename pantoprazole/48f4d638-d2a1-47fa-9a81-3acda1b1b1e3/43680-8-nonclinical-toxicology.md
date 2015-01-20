@@ -33,6 +33,6 @@ Gastric alterations, including increased stomach weights, increased incidence of
 Decreases in red cell mass parameters, increases in cholesterol and triglycerides, increased liver weight, enzyme induction, and hepatocellular hypertrophy were also seen in repeated-dose studies in rats and/or dogs.
 Full to partial recovery of these effects were noted in animals of both age groups following a recovery period.
 
-### Reproductive Toxicology Studies
+Reproductive Toxicology Studies
 
 Reproduction studies have been performed in rats at oral doses up to 450 mg/kg/day (88 times the recommended human dose based on body surface area) and rabbits at oral doses up to 40 mg/kg/day (16 times the recommended human dose based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.

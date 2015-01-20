@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
 #### Pregnancy Category B
 
