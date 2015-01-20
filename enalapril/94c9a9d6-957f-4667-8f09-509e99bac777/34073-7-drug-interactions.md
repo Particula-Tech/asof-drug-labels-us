@@ -13,6 +13,8 @@ However, reports suggest that NSAIDs may diminish the antihypertensive effect of
 ## 7.2 Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+In most patients no benefit has been associated with using two RAS inhibitors concomitantly.
+In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on EPANED and other agents that affect the RAS.
 
 Do not co-administer aliskiren with EPANED in patients with diabetes.
