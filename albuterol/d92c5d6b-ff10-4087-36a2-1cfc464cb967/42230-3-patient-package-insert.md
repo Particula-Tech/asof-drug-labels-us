@@ -1,8 +1,6 @@
-- PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT
+- Patient Information
 
-Patient Information
-
-VENTOLIN® [vent′ o-lin] HFA
+VENTOLIN®[vent′ o-lin] HFA
 
 (albuterol sulfate)
 
@@ -45,7 +43,6 @@ Tell your healthcare provider about all of your health conditions, including if 
   It is not known if the medicine in VENTOLIN HFA passes into your milk and if it can harm your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
 VENTOLIN HFA and certain other medicines may interact with each other.
 This may cause serious side effects.
 
@@ -152,7 +149,7 @@ For Oral Inhalation Only
 
 Your VENTOLIN HFA inhaler
 
-- •The metal canister that holds the medicine.
+- •The metal canister holds the medicine.
   See Figure A.
 
 Figure A
@@ -188,7 +185,7 @@ Priming your VENTOLIN HFA inhaler
 - •Before you use VENTOLIN HFA for the first time, you must prime the inhaler so that you will get the right amount of medicine when you use it.
 - •To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well.
   Then spray the inhaler 1 time into the air away from your face.
-  See Figure C.Avoid spraying in eyes.
+  See Figure C. Avoid spraying in eyes.
 
 Figure C
 
@@ -209,9 +206,10 @@ Step 1.
 Make sure the canister fits firmly in the actuator.
 The counter should show through the window in the actuator.
 
-- Shake the inhaler well before each spray.
-- Take the cap off the mouthpiece of the actuator.
-  Look inside the mouthpiece for foreign objects, and take out any you see.
+Shake the inhaler well before each spray.
+
+Take the cap off the mouthpiece of the actuator.
+Look inside the mouthpiece for foreign objects, and take out any you see.
 
 Step 2.
 Hold the inhaler with the mouthpiece down.
@@ -245,7 +243,7 @@ Step 7.
 Put the cap back on the mouthpiece after every time you use the inhaler.
 Make sure it snaps firmly into place.
 
-Cleaning your VENTOLIN HFA actuator:
+Cleaning your VENTOLIN HFA inhaler
 
 Clean your inhaler at least 1 time each week.
 You may not see any medicine build-up on the inhaler, but it is important to keep it clean so medicine build-up will not block the spray.

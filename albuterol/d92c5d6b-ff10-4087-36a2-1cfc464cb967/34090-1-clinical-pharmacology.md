@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta2-adrenergic receptors compared with isoproterenol.
-Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominate receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
+Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
 The precise function of these receptors has not been established, but their presence raises the possibility that even selective beta2-agonists may have cardiac effects.
 
 Activation of beta2-adrenergic receptors on airway smooth muscle leads to the activation of adenyl cyclase and to an increase in the intracellular concentration of cyclic-3′,5′-adenosine monophosphate (cyclic AMP).

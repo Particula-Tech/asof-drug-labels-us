@@ -23,5 +23,5 @@ The clinical relevance of these findings is unknown.
 Propellant HFA-134a: In animals and humans, propellant HFA-134a was found to be rapidly absorbed and rapidly eliminated, with an elimination half-life of 3 to 27 minutes in animals and 5 to 7 minutes in humans.
 Time to maximum plasma concentration (Tmax) and mean residence time are both extremely short, leading to a transient appearance of HFA-134a in the blood with no evidence of accumulation.
 
-Propellant HFA-134a is devoid of pharmacological activity except at very high doses in animals (380 to 1,300 times the maximum human exposure based on comparisons of area under the plasma concentration versus time curve [AUC] values), primarily producing ataxia, tremors, dyspnea, or salivation.
+Propellant HFA-134a is devoid of pharmacological activity except at very high doses in animals (i.e., 380 to 1,300 times the maximum human exposure based on comparisons of area under the plasma concentration versus time curve [AUC] values), primarily producing ataxia, tremors, dyspnea, or salivation.
 These events are similar to effects produced by the structurally related CFCs, which have been used extensively in metered-dose inhalers.
