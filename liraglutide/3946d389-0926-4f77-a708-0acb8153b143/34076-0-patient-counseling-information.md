@@ -64,7 +64,7 @@ Instruct patients to contact their physician if they develop jaundice.
 Patients should be informed that they should never share a Saxenda pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-Version: 1
+Version: 2
 
 Saxenda® and Victoza® are registered trademarks of Novo Nordisk A/S.
 
@@ -72,7 +72,7 @@ Saxenda® is covered by US Patent Nos. 6,268,343, 6,458,924, 7,235,627, 8,114,83
 
 Saxenda® pen is covered by US Patent Nos. 6,899,699, 7,686,786, 8,672,898, 8,684,969 and other patents pending.
 
-© 2014 Novo Nordisk
+© 2014-2015 Novo Nordisk
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
