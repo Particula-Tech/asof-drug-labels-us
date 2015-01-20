@@ -2,7 +2,7 @@
 
 ## 5.1 Drugs with Same Active Ingredient or in the Same Drug Class
 
-Zometa contains the same active ingredient as found in Reclast ® (zoledronic acid).
+Zometa contains the same active ingredient as found in Reclast® (zoledronic acid).
 Patients being treated with Zometa should not be treated with Reclast or other bisphosphonates.
 
 ## 5.2 Hydration and Electrolyte Monitoring
