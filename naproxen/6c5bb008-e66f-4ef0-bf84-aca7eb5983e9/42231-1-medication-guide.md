@@ -4,113 +4,109 @@
 
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-NSAID medicines may increase the chance of a heart attack or stroke that
-
-can lead to death.
+NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
 This chance increases:
 
-- with longer use of NSAID medicines
-- in people who have heart disease
+- •with longer use of NSAID medicines
+- •in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery
+NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
 
-called a “coronary artery bypass graft (CABG).”
-
-NSAID medicines can cause ulcers and bleeding in the stomach and
-
-intestines at any time during treatment.
+NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
 
-- can happen without warning symptoms
-- may cause death
+- •can happen without warning symptoms
+- •may cause death
 
 The chance of a person getting an ulcer or bleeding increases with:
 
-- taking medicines called “corticosteroids” and “anticoagulants”
-- longer use
-- smoking
-- drinking alcohol
-- older age
-- having poor health
+- •taking medicines called “corticosteroids” and “anticoagulants”
+- •longer use
+- •smoking
+- •drinking alcohol
+- •older age
+- •having poor health
 
 NSAID medicines should only be used:
 
-- exactly as prescribed
-- at the lowest dose possible for your treatment
-- for the shortest time needed
+- •exactly as prescribed
+- •at the lowest dose possible for your treatment
+- •for the shortest time needed
 
 What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
 
-- different types of arthritis
-- menstrual cramps and other types of short-term pain
+- •different types of arthritis
+- •menstrual cramps and other types of short-term pain
 
 Who should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID)?
 
 Do not take an NSAID medicine:
 
-- if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAID medicine
-- for pain right before or after heart bypass surgery
+- •if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAID medicine
+- •for pain right before or after heart bypass surgery
 
 Tell your healthcare provider:
 
-- about all your medical conditions.
-- about all of the medicines you take.
+- •about all your medical conditions.
+- •about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.
-- if you are pregnant.
+- •if you are pregnant.
   NSAID medicines should not be used by pregnant women late in their pregnancy.
-- if you are breastfeeding.
+- •if you are breastfeeding.
   Talk to your doctor.
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 | Serious side effects include: | Other side effects include: |
 | --- | --- |
-| heart attack | stomach pain |
-| stroke | constipation |
-| high blood pressure | diarrhea |
-| heart failure from body swelling (fluid retention) | gas |
-| kidney problems including kidney failure | heartburn |
-| bleeding and ulcers in the stomach and intestine | nausea |
-| low red blood cells (anemia) | vomiting |
-| life-threatening skin reactions | dizziness |
-| life-threatening allergic reactions |  |
-| liver problems including liver failure |  |
-| asthma attacks in people who have asthma |  |
+| •heart attack | •stomach pain |
+| •stroke | •constipation |
+| •high blood pressure | •diarrhea |
+| •heart failure from body swelling (fluid retention) | •gas |
+| •kidney problems including kidney failure | •heartburn |
+| •bleeding and ulcers in the stomach and intestine | •nausea |
+| •low red blood cells (anemia) | •vomiting |
+| •life-threatening skin reactions | •dizziness |
+| •life-threatening allergic reactions |  |
+| •liver problems including liver failure |  |
+| •asthma attacks in people who have asthma |  |
 
 Get emergency help right away if you have any of the following symptoms:
 
-- shortness of breath or trouble breathing
-- slurred speech
-- chest pain
-- swelling of the face or throat
-- weakness in one part or side of your body
+- •shortness of breath or trouble breathing
+- •slurred speech
+- •chest pain
+- •swelling of the face or throat
+- •weakness in one part or side of your body
 
 Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms:
 
-- nausea
-- there is blood in your bowel movement or it is black and sticky like tar
-- more tired or weaker than usual
-- itching
-- your skin or eyes look yellow
-- unusual weight gain
-- stomach pain
-- skin rash or blisters with fever
-- flu-like symptoms
-- swelling of the arms and legs, hands and feet
-- vomit blood
+- •nausea
+- •there is blood in your bowel movement or it is black and sticky like tar
+- •more tired or weaker than usual
+- •itching
+- •your skin or eyes look yellow
+- •unusual weight gain
+- •stomach pain
+- •skin rash or blisters with fever
+- •flu-like symptoms
+- •swelling of the arms and legs, hands and feet
+- •vomit blood
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088 or Glenmark Generics Inc., USA at 1 (888)721-7115.
 
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-- Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
+- •Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- Some of these NSAID medicines are sold in lower doses without a prescription (over- the-counter).
+- •Some of these NSAID medicines are sold in lower doses without a prescription (over- the-counter).
   Talk to your healthcare provider before using over-the- counter NSAIDs for more than 10 days.
 
 NSAID medicines that need a prescription
@@ -123,7 +119,7 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine®, Lodine® XL |
 | Fenoprofen | Nalfon®, Nalfon® 200 |
 | Flurbirofen | Ansaid® |
-| Ibuprofen | Motrin®, Tab-Profen®, VVicoprofen® Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.*(combined with hydrocodone), |
+| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen®*(combined with hydrocodone), |
 |  | CombunoxTM (combined with oxycodone) |
 | Indomethacin | Indocin®, Indocin® SR, Indo-Lemmon™, Indomethagan™ |
 | Ketoprofen | Oruvail® |
@@ -139,10 +135,15 @@ NSAID medicines that need a prescription
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Glenmark Generics Ltd Colvale-Bardez, Goa 403 513 India
+Trademarks are the property of their respective owners.
+
+Manufactured by: Glenmark Generics Ltd India
 
 Manufactured for:
 
 Glenmark Generics Inc., USA Mahwah, NJ 07430
 
-January 2009
+Questions?
+1 (888)721-7115 www.glenmarkgenerics.com
+
+November 2014

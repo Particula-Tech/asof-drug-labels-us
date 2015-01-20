@@ -4,7 +4,7 @@ Cardiovascular Risk
 This risk may increase with duration of use.
 Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS).
 
-• Naproxen as naproxen or naproxen sodium tablets is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+• Naproxen as naproxen tablets or naproxen sodium tablets is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
 
 Gastrointestinal Risk
 

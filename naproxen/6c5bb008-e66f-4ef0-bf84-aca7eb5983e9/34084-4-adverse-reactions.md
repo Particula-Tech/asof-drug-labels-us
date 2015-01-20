@@ -25,9 +25,7 @@ General: dyspnea*, thirst
 *Incidence of reported reaction between 3% and 9%.
 Those reactions occurring in less than 3% of the patients are unmarked.
 
-In patients taking NSAIDs, the following adverse experiences have also been reported in
-
-approximately 1% to 10% of patients.
+In patients taking NSAIDs, the following adverse experiences have also been reported in approximately 1% to 10% of patients.
 
 Gastrointestinal (GI) Experiences, including: flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
 
@@ -40,7 +38,8 @@ Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorde
 
 Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
 
-Gastrointestinal: gastrointestinal bleeding and/or perforation, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease), nonpeptic gastrointestinal ulceration, ulcerative stomatitis, esophagitis, peptic ulceration
+Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
+Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease)
 
 Hepatobiliary: jaundice, abnormal liver function tests, hepatitis (some cases have been fatal)
 

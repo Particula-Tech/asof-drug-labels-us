@@ -1,9 +1,9 @@
 # DOSAGE AND ADMINISTRATION
 
-Carefully consider the potential benefits and risks of naproxen, naproxen sodium and other treatment options before deciding to use naproxen and naproxen sodium tablets.
+Carefully consider the potential benefits and risks of naproxen, naproxen sodium and other treatment options before deciding to use naproxen tablets and naproxen sodium tablets.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
 
-After observing the response to initial therapy with naproxen or naproxen sodium the dose and frequency should be adjusted to suit an individual patient's needs.
+After observing the response to initial therapy with naproxen or naproxen sodium, the dose and frequency should be adjusted to suit an individual patient's needs.
 
 Different dose strengths and formulations (ie, tablets, suspension) of the drug are not necessarily bioequivalent.
 This difference should be taken into consideration when changing formulation.
@@ -34,7 +34,7 @@ During long-term administration, the dose of naproxen may be adjusted up or down
 A lower daily dose may suffice for long-term administration.
 The morning and evening doses do not have to be equal in size and the administration of the drug more frequently than twice daily is not necessary.
 
-In patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/day for limited periods of up to 6 months when a higher level of anti-inflammatory/ analgesic activity is required.
+In patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/day for limited periods of up to 6 months when a higher level of anti-inflammatory/analgesic activity is required.
 When treating such patients with naproxen 1500 mg/day, the physician should observe sufficient increased clinical benefits to offset the potential increased risk.
 The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response (see CLINICAL PHARMACOLOGY).
 
@@ -48,7 +48,7 @@ The recommended starting dose is 550 mg of naproxen sodium as naproxen sodium ta
 The initial total daily dose should not exceed 1375 mg of naproxen sodium.
 Thereafter, the total daily dose should not exceed 1100 mg of naproxen sodium.
 Because the sodium salt of naproxen is more rapidly absorbed, naproxen sodium tablets are recommended for the management of acute painful conditions when prompt onset of pain relief is desired.
-Naproxen may also be used for initial treatment of acute pain (see CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE).
+Naproxen may also be used for initial treatment of acute pain because absorption of naproxen is delayed compared to other naproxen-containing products (see CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE).
 
 ## Acute Gout
 

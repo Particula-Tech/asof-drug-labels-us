@@ -1,8 +1,6 @@
 # WARNINGS
 
-## CARDIOVASCULAR EFFECTS
-
-### Cardiovascular Thrombotic Events
+Cardiovascular Effects Cardiovascular Thrombotic Events
 
 Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDS, both COX-2 selective and nonselective, may have a similar risk.
@@ -12,26 +10,24 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS: Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
 
 Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
-### Hypertension
+## Hypertension
 
 NSAIDs, including naproxen and naproxen sodium, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 NSAIDs, including naproxen and naproxen sodium, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-### Congestive Heart Failure and Edema
+## Congestive Heart Failure and Edema
 
 Fluid retention, edema, and peripheral edema have been observed in some patients taking NSAIDs.
 Naproxen and naproxen sodium should be used with caution in patients with fluid retention, hypertension, or heart failure.
 Since each naproxen sodium tablet contains 25 mg or 50 mg of sodium (about 1 mEq per each 250 mg of naproxen), this could be considered in patients whose overall intake of sodium must be severely restricted.
 
-## Gastrointestinal Effects
-
-### Risk of Ulceration, Bleeding, and Perforation
+## Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
 NSAIDs, including naproxen and naproxen sodium, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 
@@ -63,14 +59,14 @@ NSAIDs should be given with care to patients with a history of inflammatory bowe
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, hypovolemia, heart failure, liver dysfunction, salt depletion, those taking diuretics and ACE inhibitors, and the elderly.
+Patients at greatest risk of this reaction are those with impaired renal function, hypovolemia, heart failure, liver dysfunction, salt depletion, those taking diuretics and angiotensin converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs), and the elderly.
 Discontinuation of nonsteroidal anti-inflammatory drug therapy is usually followed by recovery to the pretreatment state (see WARNINGS: Advanced Renal Disease).
 
 ## Advanced Renal Disease
 
 No information is available from controlled clinical studies regarding the use of naproxen or naproxen sodium in patients with advanced renal disease.
 Therefore, treatment with naproxen and naproxen sodium is not recommended in these patients with advanced renal disease.
-If naproxen or naproxen sodium therapy must be initiated, close monitoring of the patient's renal function is advisable.
+If naproxen or naproxen sodium therapy must be initiated, close monitoring of the patient's renal function is advisable and patients should be adequately hydrated.
 
 ## Anaphylactoid Reactions
 
@@ -94,7 +90,7 @@ In late pregnancy, as with other NSAIDs, naproxen and naproxen sodium should be 
 
 ## General
 
-Naproxen-containing products such as naproxen, naproxen sodium tablets and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
+Naproxen-containing products such as naproxen tablets, naproxen sodium tablets, ALEVE®, and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
 
 Naproxen and naproxen sodium cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
@@ -144,148 +140,19 @@ Since cross reactivity, including bronchospasm, between aspirin and other nonste
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-1. Naproxen and naproxen sodium, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular Effects).
-2. Naproxen and naproxen sodium, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS: Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation)
-3. Naproxen and naproxen sodium, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (eg nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. Patients should be informed of the signs of an anaphylactoid reaction (eg, difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, naproxen and naproxen sodium should be avoided because it may cause premature closure of the ductus arteriosus.
-8. Caution should be exercised by patients whose activities require alertness if they experience drowsiness, dizziness, vertigo or depression during therapy with naproxen.
-
-## Laboratory Tests
-
-Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (eg, eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, naproxen and naproxen sodium should be discontinued.
-
-### Drug Interactions
-
-#### ACE-inhibitors
-
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
-
-#### Antacids and Sucralfate
-
-Concomitant administration of some antacids (magnesium oxide or aluminum hydroxide) and sucralfate can delay the absorption of naproxen.
-
-#### Aspirin
-
-When naproxen as naproxen or naproxen sodium tablet is administered with aspirin, its protein binding is reduced, although the clearance of free naproxen or naproxen sodium is not altered.
-The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of naproxen and naproxen sodium and aspirin is not generally recommended because of the potential of increased adverse effects.
-
-#### Cholestyramine
-
-As with other NSAIDs, concomitant administration of cholestyramine can delay the absorption of naproxen.
-
-#### Diuretics
-
-Clinical studies, as well as postmarketing observations, have shown that naproxen and naproxen sodium can reduce the natriuretic effect of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS: Renal Effects), as well as to assure diuretic efficacy.
-
-#### Lithium
-
-NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
-The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
-These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
-Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
-
-#### Methotrexate
-
-NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-Naproxen, naproxen sodium and other nonsteroidal anti-inflammatory drugs have been reported to reduce the tubular secretion of methotrexate in an animal model.
-This may indicate that they could enhance the toxicity of methotrexate.
-Caution should be used when NSAIDs are administered concomitantly with methotrexate.
-
-#### Warfarin
-
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
-No significant interactions have been observed in clinical studies with naproxen and coumarin-type anticoagulants.
-However, caution is advised since interactions have been seen with other nonsteroidal agents of this class.
-The free fraction of warfarin may increase substantially in some subjects and naproxen interferes with platelet function.
-
-#### Selective Serotonin Reuptake Inhibitors (SSRIs)
-
-There is an increased risk of gastrointestinal bleeding when selective serotonin reuptake inhibitors (SSRIs) are combined with NSAIDs.
-Caution should be used when NSAIDs are administered concomitantly with SSRIs.
-
-### Other Information Concerning Drug Interactions
-
-Naproxen is highly bound to plasma albumin; it thus has a theoretical potential for interaction with other albumin-bound drugs such as coumarin-type anticoagulants, sulphonylureas, hydantoins, other NSAIDs, and aspirin.
-Patients simultaneously receiving naproxen and a hydantoin, sulphonamide or sulphonylurea should be observed for adjustment of dose if required.
-
-Naproxen and other nonsteroidal anti-inflammatory drugs can reduce the antihypertensive effect of propranolol and other beta-blockers.
-
-Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
-
-### Drug/Laboratory Test Interactions
-
-Naproxen may decrease platelet aggregation and prolong bleeding time.
-This effect should be kept in mind when bleeding times are determined.
-
-The administration of naproxen may result in increased urinary values for 17-ketogenic steroids because of an interaction between the drug and/or its metabolites with m-di-nitrobenzene used in this assay.
-Although 17-hydroxycorticosteroid measurements (Porter-Silber test) do not appear to be artifactually altered, it is suggested that therapy with naproxen be temporarily discontinued 72 hours before adrenal function tests are performed if the Porter-Silber test is to be used.
-
-Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (5HIAA).
-
-## Carcinogenesis
-
-A 2-year study was performed in rats to evaluate the carcinogenic potential of naproxen at rat doses of 8, 16, and 24 mg/kg/day (50, 100, and 150 mg/m2).
-The maximum dose used was 0.28 times the systemic exposure to humans at the recommended dose.
-No evidence of tumorigenicity was found.
-
-## Pregnancy
-
-### Teratogenic Effects
-
-Pregnancy Category C: Reproduction studies have been performed in rats at 20 mg/kg/day (125 mg/m2/day, 0.23 times the human systemic exposure), rabbits at 20 mg/kg/day (220 mg/m2/day, 0.27 times the human systemic exposure), and mice at 170 mg/kg/day (510 mg/m2/day, 0.28 times the human systemic exposure) with no evidence of impaired fertility or harm to the fetus due to the drug.
-However, animal reproduction studies are not always predictive of human response.
-There are no adequate and well-controlled studies in pregnant women.
-Naproxen and naproxen sodium should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-### Nonteratogenic Effects
-
-There is some evidence to suggest that when inhibitors of prostaglandin synthesis are used to delay preterm labor there is an increased risk of neonatal complications such as necrotizing enterocolitis, patent ductus arteriosus and intracranial hemorrhage.
-Naproxen treatment given in late pregnancy to delay parturition has been associated with persistent pulmonary hypertension, renal dysfunction and abnormal prostaglandin E levels in preterm infants.
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
-
-## Labor and Delivery
-
-In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
-Naproxen-containing products are not recommended in labor and delivery because, through its prostaglandin synthesis inhibitory effect, naproxen may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage.
-The effects of naproxen and naproxen sodium on labor and delivery in pregnant women are unknown.
-
-## Nursing Mothers
-
-The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma.
-Because of the possible adverse effects of prostaglandin-inhibiting drugs on neonates, use in nursing mothers should be avoided.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
-Pediatric dosing recommendations for juvenile arthritis are based on well-controlled studies (see DOSAGE AND ADMINISTRATION).
-There are no adequate effectiveness or dose-response data for other pediatric conditions, but the experience in juvenile arthritis and other use experience have established that single doses of 2.5 to 5 mg/kg (as naproxen suspension, see DOSAGE AND ADMINISTRATION), with total daily dose not exceeding 15 mg/kg/day, are well tolerated in pediatric patients over 2 years of age.
-
-## Geriatric Use
-
-Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly.
-Caution is advised when high doses are required and some adjustment of dosage may be required in elderly patients.
-As with other drugs used in the elderly, it is prudent to use the lowest effective dose.
-
-Experience indicates that geriatric patients may be particularly sensitive to certain adverse effects of nonsteroidal anti-inflammatory drugs.
-Elderly or debilitated patients seem to tolerate peptic ulceration or bleeding less well when these events do occur.
-Most spontaneous reports of fatal GI events are in the geriatric population (see WARNINGS).
-
-Naproxen is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-Geriatric patients may be at a greater risk for the development of a form of renal toxicity precipitated by reduced prostaglandin formation during administration of nonsteroidal anti-inflammatory drugs (see WARNINGS: Renal Effects).
+- 1.Naproxen and naproxen sodium, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
+  Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular Effects).
+- 2.Naproxen and naproxen sodium, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+  Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS: Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation)
+- 3.Naproxen and naproxen sodium, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
+  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
+  Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+- 4.Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (eg, nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+  If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+- 6.Patients should be informed of the signs of an anaphylactoid reaction (eg, difficulty breathing, swelling of the face or throat).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+- 7.In late pregnancy, as with other NSAIDs, naproxen and naproxen sodium should be avoided because it may cause premature closure of the ductus arteriosus.
+- 8.Caution should be exercised by patients whose activities require alertness if they experience drowsiness, dizziness, vertigo or depression during therapy with naproxen.
