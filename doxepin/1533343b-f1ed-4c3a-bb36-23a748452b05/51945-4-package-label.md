@@ -4,7 +4,7 @@ NDC 0378-1049-01
 
 Doxepin HCl Capsules, USP 10 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
@@ -29,7 +29,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM1049A10
+RM1049A11
 
 PRINCIPAL DISPLAY PANEL - 25 mg
 
@@ -37,7 +37,7 @@ NDC 0378-3125-01
 
 Doxepin HCl Capsules, USP 25 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
@@ -62,7 +62,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM3125A11
+RM3125A12
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -70,7 +70,7 @@ NDC 0378-4250-01
 
 Doxepin HCl Capsules, USP 50 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
@@ -95,7 +95,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM4250A11
+RM4250A12
 
 PRINCIPAL DISPLAY PANEL - 75 mg
 
@@ -103,7 +103,7 @@ NDC 0378-5375-01
 
 Doxepin HCl Capsules, USP 75 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
@@ -128,7 +128,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM5375A11
+RM5375A12
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -136,7 +136,7 @@ NDC 0378-6410-01
 
 Doxepin HCl Capsules, USP 100 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 100 Capsules
 
@@ -161,4 +161,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM6410A10
+RM6410A11

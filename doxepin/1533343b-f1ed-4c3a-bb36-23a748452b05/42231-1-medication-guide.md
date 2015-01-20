@@ -1,6 +1,4 @@
-# Medication Guide
-
-Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+Medication Guide Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with your or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -17,7 +15,7 @@ Antidepressant medicines may increase suicidal thoughts or actions in some child
 2.
 Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 Some people may have a particularly high risk of having suicidal thoughts or actions.
-These include people who have (or have a family history of) bipolar illness also called manic-depressive illness) or suicidal thoughts or actions.
+These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 
 3.
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
@@ -56,4 +54,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Revised 5/2014
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+REVISED DECEMBER 2014 DXPN:R29mmh
