@@ -40,7 +40,7 @@ In some cases, hepatic dysfunction has progressed in spite of discontinuation of
 ## 5.2 Birth Defects
 
 Valproate can cause fetal harm when administered to a pregnant woman.
-Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations and malformations involving various body systems).
+Pregnancy registry data show that maternal valproate use can cause neural tube defects and other structural abnormalities (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The rate of congenital malformations among babies born to mothers using valproate is about four times higher than the rate among babies born to epileptic mothers using other anti-seizure monotherapies.
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 
@@ -130,17 +130,18 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.8 Thrombocytopenia
+## 5.8 Bleeding and Other Hematopoietic Disorders
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
+Valproate is associated with dose-related thrombocytopenia.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
 The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
+Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
-Because of reports of thrombocytopenia, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (e.g., low fibrinogen), platelet counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
-It is recommended that patients receiving Depakote ER be monitored for platelet count and coagulation parameters prior to planned surgery.
+Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand’s disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
+It is recommended that patients receiving Depakote ER be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
 ## 5.9 Hyperammonemia
@@ -149,7 +150,7 @@ Hyperammonemia has been reported in association with valproate therapy and may b
 In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.11)].
 If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.10].
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.10)].
 
 During the placebo controlled pediatric mania trial, one (1) in twenty (20) adolescents (5%) treated with valproate developed increased plasma ammonia levels compared to no (0) patients treated with placebo.
 
@@ -175,15 +176,16 @@ This adverse reaction can also occur in patients using concomitant topiramate wi
 Consideration should be given to stopping valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.
 
-## 5.12 Multi-Organ Hypersensitivity Reactions
+## 5.12 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
 
-Multi-organ hypersensitivity reactions have been rarely reported in close temporal association to the initiation of valproate therapy in adult and pediatric patients (median time to detection 21 days: range 1 to 40 days).
-Although there have been a limited number of reports, many of these cases resulted in hospitalization and at least one death has been reported.
-Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-Other associated manifestations may include lymphadenopathy, hepatitis, liver function test abnormalities, hematological abnormalities (e.g., eosinophilia, thrombocytopenia, neutropenia), pruritus, nephritis, oliguria, hepato-renal syndrome, arthralgia, and asthenia.
-Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
-If this reaction is suspected, valproate should be discontinued and an alternative treatment started.
-Although the existence of cross sensitivity with other drugs that produce this syndrome is unclear, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking valproate.
+DRESS may be fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Valproate should be discontinued and not be resumed if an alternative etiology for the signs or symptoms cannot be established.
 
 ## 5.13 Interaction with Carbapenem Antibiotics
 
