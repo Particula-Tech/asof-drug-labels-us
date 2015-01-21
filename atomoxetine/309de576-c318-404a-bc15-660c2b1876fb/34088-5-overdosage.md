@@ -2,7 +2,6 @@
 
 ## 10.1 Human Experience
 
-No fatal overdoses occurred in clinical trials.
 There is limited clinical trial experience with STRATTERA overdose.
 During postmarketing, there have been fatalities reported involving a mixed ingestion overdose of STRATTERA and at least one other drug.
 There have been no reports of death involving overdose of STRATTERA alone, including intentional overdoses at amounts up to 1400 mg.
