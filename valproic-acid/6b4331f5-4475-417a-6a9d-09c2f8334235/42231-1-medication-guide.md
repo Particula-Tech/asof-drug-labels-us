@@ -46,11 +46,10 @@ Depakote and Depakene can cause serious side effects, including:
    - swelling of your face
    - yellowing of your skin or the whites of your eyes
 2. Depakote or Depakene may harm your unborn baby.
-   - If you take Depakote or Depakene during pregnancy for any medical condition, your baby is at risk for serious birth defects.
-     The most common birth defects with Depakote or Depakene affect the brain and spinal cord and are called spina bifida or neural tube defects.
+   - If you take Depakote or Depakene during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
      These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
      These defects can begin in the first month, even before you know you are pregnant.
-     Other birth defects can happen.
+     Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
    - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
    - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
    - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having a lower IQ.
@@ -149,7 +148,7 @@ How should I take Depakote or Depakene?
   Stopping Depakote or Depakene suddenly can cause serious problems.
 - Swallow Depakote tablets, Depakote ER tablets or Depakene capsules whole.
   Do not crush or chew Depakote tablets, Depakote ER tablets, or Depakene capsules.
-  Tell your healthcare provider if you can not swallow Depakote or Depakene whole.
+  Tell your healthcare provider if you cannot swallow Depakote or Depakene whole.
   You may need a different medicine.
 - Depakote Sprinkle Capsules may be swallowed whole, or they may be opened and the contents may be sprinkled on a small amount of soft food, such as applesauce or pudding.
   See the Patient Instructions for Use at the end of this Medication Guide for detailed instructions on how to use Depakote Sprinkle Capsules.
@@ -167,7 +166,7 @@ What are the possible side effects of Depakote or Depakene?
 
 - See “What is the most important information I should know about Depakote or Depakene?”
   Depakote or Depakene may cause other serious side effects including:
-- Low blood count: red or purple spots on your skin, bruising, bleeding from your mouth, teeth or nose.
+- Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
 - Low body temperature (hypothermia): drop in your body temperature to less than 95°F, feeling tired, confusion, coma.
 - Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, skin blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
@@ -258,3 +257,43 @@ Inactive ingredients:
 
 - Depakene Capsules: corn oil, FD&C Yellow No. 6, gelatin, glycerin, iron oxide, methylparaben, propylparaben, and titanium dioxide.
 - Depakene Oral Solution: FD&C Red No. 40, glycerin, methylparaben, propylparaben, sorbitol, sucrose, water, and natural and artificial flavors.
+
+Depakote ER:
+
+250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617
+
+500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or
+
+AbbVie LTD, Barceloneta, PR 00617
+
+For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+
+Depakote Tablets:
+
+Mfd. by AbbVie LTD, Barceloneta, PR 00617
+
+For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+
+Depakote Sprinkle Capsules:
+
+AbbVie Inc., North Chicago, IL 60064, U.S.A.
+
+Depakene Capsules:
+
+Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A.
+
+For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+
+Depakene Oral solution:
+
+Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A.
+
+OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A.
+
+For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: January 2015
+
+03-B102
