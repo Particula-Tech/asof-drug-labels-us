@@ -143,7 +143,7 @@ Active Ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 2.5%
 
 Inactive Ingredients: purified water, carbomer 980, propylene glycol, and potassium hydroxide
 
-Marketed by: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
+Distributed by: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
 
 Manufactured by: Contract Pharmaceuticals Limited Mississauga, Ontario Canada L5N 6L6
 
@@ -151,5 +151,4 @@ U.S. Patents 5,733,886 and 8,288,434
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Rev.
-02/2014 2006787 9379500
+Revised 02/2014 2006786 9379400
