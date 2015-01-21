@@ -188,6 +188,7 @@ After that, you may see a drop of NovoLog® at the needle tip.
 This is normal and does not affect the dose you just received (See Figure L).
 
 - •If you see blood after you take the needle out of your skin, press the injection site lightly with a
+
 - piece of gauze or an alcohol swab.
   Do not rub the area.
 

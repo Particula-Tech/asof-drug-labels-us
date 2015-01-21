@@ -60,6 +60,6 @@ Table 2: Treatment-Emergent Adverse Events in Patients with Type 2 Diabetes Mell
 
 Postmarketing Data
 
-The following additional adverse reactions have been identified during postapproval use of NovoLog.
+The following additional adverse reactions have been identified during post-approval use of NovoLog.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency.
-Medication errors in which other insulins have been accidentally substituted for NovoLog have been identified during postapproval use [see Patient Counseling Information (17)].
+Medication errors in which other insulins have been accidentally substituted for NovoLog have been identified during post-approval use [see Patient Counseling Information (17)].

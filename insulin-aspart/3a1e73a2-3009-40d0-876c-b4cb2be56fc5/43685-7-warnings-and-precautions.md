@@ -15,8 +15,6 @@ Insulin requirements may be altered during illness, emotional disturbances, or o
 
 Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
 
-Needles, NovoLog FlexPen and NovoLog FlexTouch must not be shared.
-
 ## 5.2 Hypoglycemia
 
 Hypoglycemia is the most common adverse effect of all insulin therapies, including NovoLog.
@@ -41,11 +39,11 @@ Use caution in patients who may be at risk for hypokalemia (e.g., patients using
 
 ## 5.4 Renal Impairment
 
-As with other insulins, the dose requirements for NovoLog may be reduced in patients with renal impairment [see Clinical Pharmacology (12.3)].
+As with other insulins, the dose requirements for NovoLog may be reduced in patients with renal impairment [see Use in Specific Populations (8.7)].
 
 ## 5.5 Hepatic Impairment
 
-As with other insulins, the dose requirements for NovoLog may be reduced in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
+As with other insulins, the dose requirements for NovoLog may be reduced in patients with hepatic impairment [see Use in Specific Populations (8.8)].
 
 ## 5.6 Hypersensitivity and Allergic Reactions
 
@@ -65,9 +63,8 @@ In controlled and uncontrolled clinical trials, 3 of 2341 (0.1%) NovoLog-treated
 Increases in anti-insulin antibody titers that react with both human insulin and insulin aspart have been observed in patients treated with NovoLog.
 Increases in anti-insulin antibodies are observed more frequently with NovoLog than with regular human insulin.
 Data from a 12-month controlled trial in patients with type 1 diabetes suggest that the increase in these antibodies is transient, and the differences in antibody levels between the regular human insulin and insulin aspart treatment groups observed at 3 and 6 months were no longer evident at 12 months.
-In this study these antibodies did not appear to cause deterioration in glycemic control or necessitate increases in insulin dose.
-
-In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency towards hyperglycemia or hypoglycemia.
+The clinical significance of these antibodies is not known.
+These antibodies do not appear to cause deterioration in glycemic control or necessitate increases in insulin dose.
 
 ## 5.8 Mixing of Insulins
 

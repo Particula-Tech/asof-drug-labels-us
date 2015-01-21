@@ -36,7 +36,7 @@ Pediatric Subcutaneous Administration of NovoLog in Type 1 Diabetes (24 weeks; n
 | N | 187 | 96 |
 | Baseline HbA1c (%)Values are Mean ± SD | 8.3 ± 1.2 | 8.3 ± 1.3 |
 | Change from Baseline HbA1c (%) | 0.1± 1.0 | 0.1± 1.1 |
-| Treatment Difference in HbA1c, Mean (95% confidence interval) | 0.1 (-0.5, 0.1) |  |
+| Treatment Difference in HbA1c, Mean (97.5% confidence interval) | -0.2 (-0.5, 0.1) |  |
 | Baseline insulin dose (IU/kg/24 hours) | 0.4 ± 0.2 | 0.6 ± 0.2 |
 | End-of-Study insulin dose (IU/kg/24 hours) | 0.4 ± 0.2 | 0.7 ± 0.2 |
 | Patients with severe hypoglycemia (n, %)Severe hypoglycemia refers to hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization. | 11 (6%) | 9 (9%) |
@@ -46,7 +46,7 @@ Pediatric Subcutaneous Administration of NovoLog in Type 1 Diabetes (24 weeks; n
 One six-month, open-label, active-controlled study was conducted to compare the safety and efficacy of NovoLog to Novolin R in patients with type 2 diabetes (Table 5).
 NovoLog was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection 30 minutes before meals.
 NPH insulin was administered as the basal insulin in either single or divided daily doses.
-Changes in HbAlc and the rates of severe hypoglycemia (as determined from the number of events requiring intervention from a third party) were comparable for the two treatment regimens.
+Changes in HbA1c and the rates of severe hypoglycemia (as determined from the number of events requiring intervention from a third party) were comparable for the two treatment regimens.
 
 Table 5.
 Subcutaneous NovoLog Administration in Type 2 Diabetes (6 months; n=176)
@@ -56,7 +56,7 @@ Subcutaneous NovoLog Administration in Type 2 Diabetes (6 months; n=176)
 | N | 90 | 86 |
 | Baseline HbA1c (%)Values are Mean ± SD | 8.1 ± 1.2 | 7.8 ± 1.1 |
 | Change from Baseline HbA1c (%) | -0.3 ± 1.0 | -0.1 ± 0.8 |
-| Treatment Difference in HbA1c, Mean (95% confidence interval) | - 0.1 (-0.4, -0.1) |  |
+| Treatment Difference in HbA1c, Mean (95% confidence interval) | -0.1 (-0.4, 0.1) |  |
 | Baseline insulin dose (IU/kg/24 hours) | 0.6 ± 0.3 | 0.6 ± 0.3 |
 | End-of-Study insulin dose (IU/kg/24 hours) | 0.7 ± 0.3 | 0.7 ± 0.3 |
 | Patients with severe hypoglycemia (n, %)Severe hypoglycemia refers to hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization. | 9 (10%) | 5 (8%) |
@@ -75,7 +75,7 @@ Adult Insulin Pump Study in Type 1 Diabetes (16 weeks; n=118)
 | N | 59 | 59 |
 | Baseline HbA1c (%)Values are Mean ± SD | 7.3 ± 0.7 | 7.5 ± 0.8 |
 | Change from Baseline HbA1c (%) | 0.0 ± 0.5 | 0.2 ± 0.6 |
-| Treatment Difference in HbA1c, Mean (95% confidence interval) | 0.3 (-0.1, 0.4) |  |
+| Treatment Difference in HbA1c, Mean (95% confidence interval) | 0.2 (-0.1, 0.4) |  |
 | Baseline insulin dose (IU/kg/24 hours) | 0.7 ± 0.8 | 0.6 ± 0.2 |
 | End-of-Study insulin dose (IU/kg/24 hours) | 0.7 ± 0.7 | 0.6 ± 0.2 |
 | Patients with severe hypoglycemia (n, %)Severe hypoglycemia refers to hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization. | 1 (2%) | 2 (3%) |
@@ -110,7 +110,7 @@ Pump Therapy in Type 2 Diabetes (16 weeks; n=127)
 | N | 66 | 61 |
 | Baseline HbA1c (%)Values are Mean ± SD | 8.2 ± 1.4 | 8.0 ± 1.1 |
 | Change from Baseline HbA1c (%) | -0.6 ± 1.1 | -0.5 ± 0.9 |
-| Treatment Difference in HbA1c, Mean (95% confidence interval) | 0.1 (0.4, 0.3) |  |
+| Treatment Difference in HbA1c, Mean (95% confidence interval) | 0.1 (-0.3, 0.4) |  |
 | Baseline insulin dose (IU/kg/24 hours) | 0.7 ± 0.3 | 0.8 ± 0.5 |
 | End-of-Study insulin dose (IU/kg/24 hours) | 0.9 ± 0.4 | 0.9 ± 0.5 |
 | Baseline body weight (kg)Weight Change from baseline (kg) | 96.4 ± 17.01.7 ± 3.7 | 96.9 ± 17.90.7 ± 4.1 |

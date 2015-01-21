@@ -38,6 +38,16 @@ Please see Section 14 CLINICAL STUDIES for summaries of clinical studies.
 
 Of the total number of patients (n= 1,375) treated with NovoLog in 3 controlled clinical studies, 2.6% (n=36) were 65 years of age or over.
 One-half of these patients had type 1 diabetes (18/1285) and the other half had type 2 diabetes (18/90).
-The HbA1c response to NovoLog, as compared to human insulin, did not differ by age, particularly in patients with type 2 diabetes.
-Additional studies in larger populations of patients 65 years of age or over are needed to permit conclusions regarding the safety of NovoLog in elderly compared to younger patients.
-Pharmacokinetic/pharmacodynamic studies to assess the effect of age on the onset of NovoLog action have not been performed.
+The HbA1c response to NovoLog, as compared to human insulin, did not differ by age.
+
+## 8.6 Gender
+
+There was no significant difference in efficacy noted (as assessed by HbA1c) between genders in a trial in patients with type 1 diabetes.
+
+## 8.7 Renal Impairment
+
+Careful glucose monitoring and dose adjustments of insulin, including NovoLog, may be necessary in patients with renal impairment [seeWarnings and Precautions(5.4)].
+
+## 8.8 Hepatic Impairment
+
+Careful glucose monitoring and dose adjustments of insulin, including NovoLog, may be necessary in patients with hepatic impairment [see Warnings and Precautions(5.5)].

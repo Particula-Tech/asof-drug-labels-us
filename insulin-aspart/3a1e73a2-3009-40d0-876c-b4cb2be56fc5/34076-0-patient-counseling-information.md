@@ -62,13 +62,13 @@ See separate leaflet.
 
 Rx only
 
-Date of Issue: April 25, 2014
+Date of issue: January 14, 2015
 
-Version: 22
+Version: 23
 
-Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, FlexTouch®, PenMate®, NovoFine® and NovoTwist® are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, FlexTouch®, PenMate®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
-NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
+NovoLog® is covered by US Patent No. 5,866,538, and other patents pending.
 
 FlexPen® is covered by US Patent Nos. RE 41,956, 6,004,297, RE 43,834, and other patents pending.
 
@@ -78,7 +78,7 @@ PenFill® is covered by US Patent No. 5,693,027.
 
 †The brands listed are the registered trademarks of their respective owners and are not trademarks of Novo Nordisk A/S.
 
-© 2002-2014 Novo Nordisk
+© 2002-2015 Novo Nordisk
 
 Manufactured by:
 
