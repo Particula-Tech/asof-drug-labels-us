@@ -7,5 +7,5 @@ Its molecular formula is C24H28N2O5•HCl, and its molecular weight is 460.96.
 Benazeprilat, the active metabolite of benazepril, is a non-sulfhydryl angiotensin-converting enzyme inhibitor.
 Benazepril is converted to benazeprilat by hepatic cleavage of the ester group.
 Benazepril hydrochloride is supplied as tablets containing 10 mg, 20 mg, and 40 mg of benazepril hydrochloride for oral administration.
-The inactive ingredients are microcrystalline cellulose, lactose monohydrate, pregelatinised starch, crospovidone, colloidal silicon dioxide, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol 400, polysorbate 80, iron oxide yellow (10 mg) and iron oxide red (20 mg and 40 mg).
+The inactive ingredients are microcrystalline cellulose, lactose monohydrate, pregelatinized starch (maize), crospovidone, colloidal silicon dioxide, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol 400, polysorbate 80, iron oxide yellow (10 mg) and iron oxide red (20 mg and 40 mg).
 Meets USP Dissolution Test 2.
