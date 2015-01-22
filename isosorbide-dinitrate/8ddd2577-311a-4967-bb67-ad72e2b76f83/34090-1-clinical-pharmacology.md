@@ -20,7 +20,7 @@ Serum levels reach their maxima about an hour after ingestion.
 The average bioavailability of ISDN is about 25%; most studies have observed progressive increases in bioavailability during chronic therapy.
 
 Once absorbed, the volume of distribution of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so ISDN's half-life in serum is about an hour.
-Since the clearance exceeds hepatic blood flow, considerable extrahepatic metabolism must also occur.
+Since the clearance exceeds hepatic blood flow, considerable extra hepatic metabolism must also occur.
 Clearance is affected primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
 
 Both metabolites have biological activity, especially the 5-mononitrate.

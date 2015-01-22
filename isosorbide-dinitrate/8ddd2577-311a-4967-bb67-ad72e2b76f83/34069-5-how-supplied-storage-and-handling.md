@@ -19,3 +19,12 @@ Keep bottles tightly closed.
 Dispense in a light-resistant, tight container.
 
 Isordil® is a registered trademark of Valeant International Bermuda.
+
+Manufactured by: MEDA Manufacturing GmbH Cologne, Germany D-51063
+
+For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+Made in Germany
+
+9434500 Rev.
+11/14
