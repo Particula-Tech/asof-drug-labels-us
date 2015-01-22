@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203952"
+  ],
+  "inn": "carbidopa",
+  "labeler": "AbbVie Inc.",
+  "package_ndcs": [
+    "0074-3012-07"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "carbidopa and levodopa",
+      "name": "Duopa"
+    }
+  ],
+  "setid": "7066d371-dc6a-0d6f-7bed-e5dd4ee912da",
+  "source": "dailymed"
+}
