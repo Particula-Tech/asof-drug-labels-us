@@ -12,9 +12,9 @@ Tretinoin has been reported to cause severe irritation on eczematous or sunburne
 
 To help limit skin irritation, patients must:
 
-- wash the treated skin gently, using a mild, non-medicated soap, and pat it dry
-- avoid washing the treated skin too often and scrubbing the affected skin area
-- avoid contact with the peels of limes
+- •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry
+- •avoid washing the treated skin too often and scrubbing the affected skin area
+- •avoid contact with the peels of limes
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
