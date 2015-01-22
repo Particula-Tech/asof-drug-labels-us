@@ -109,7 +109,7 @@ Patients ranged in age from 18 to 88 years (median age 59 years), with 67% femal
 Race was distributed as follows: 87% Caucasian, 8% Black, 5% Other.
 There was no statistically significant difference between PREVACID 30 mg daily and the active control on symptom relief (i.e., abdominal pain) (Table 13) [see Indications and Usage (1.5)].
 
-Table 13: NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) healed at time points ± 2 days
+Table 13: NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) healed at time points ±2 days
 
 | Study #1 |  |  |
 | --- | --- | --- |
@@ -177,7 +177,7 @@ Table 16: Erosive Esophagitis Healing Rates
 | 15 mg daily (N=69) | 30 mg daily (N=65) | 60 mg daily (N=72) |  |  |
 | --- | --- | --- | --- | --- |
 | Week | PREVACID |  |  | Placebo (N=63) |
-| 4 | 67.6%(p≤0.001) versus placebo. | 81.3% (p≤0.05) versus PREVACID 15 mg. | 80.6% | 32.8% |
+| 4 | 67.6%(p≤0.001) versus placebo. | 81.3%,(p≤0.05) versus PREVACID 15 mg. | 80.6%, | 32.8% |
 | 6 | 87.7% | 95.4% | 94.3% | 52.5% |
 | 8 | 90.9% | 95.4% | 94.4% | 52.5% |
 
@@ -234,7 +234,7 @@ Table 19: Endoscopic Remission Rates
 
 Regardless of initial grade of erosive esophagitis, PREVACID 15 mg and 30 mg were similar in maintaining remission.
 
-In a U.S., randomized, double-blind, study, PREVACID 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12-month period.
+In a U.S., randomized, double-blind study, PREVACID 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12-month period.
 Treatment with PREVACID resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p<0.001).
 In addition, PREVACID was significantly more effective than ranitidine in providing complete relief of both daytime and nighttime heartburn.
 Patients treated with PREVACID remained asymptomatic for a significantly longer period of time than patients treated with ranitidine [see Indications and Usage (1.8)].

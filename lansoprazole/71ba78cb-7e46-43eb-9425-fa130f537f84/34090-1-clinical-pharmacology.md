@@ -26,7 +26,7 @@ Table 4: Mean Antisecretory Effects After Single and Multiple Daily PREVACID Dos
 | Mean Nighttime pH | 1.9 | 2.4 | 3.0 | 2.6 | 3.8 |
 | % Time Gastric pH>3 | 18 | 33 | 59 | 51 | 72 |
 | % Time Gastric pH>4 | 12 | 22 | 49 | 41 | 66 |
-| Note: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99% |  |  |  |  |  |
+| NOTE: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
 
 After the initial dose in this study, increased gastric pH was seen within 1 to 2 hours with 30 mg of lansoprazole and 2 to 3 hours with 15 mg of lansoprazole.
 After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within 1 to 2 hours post-dosing with 15 mg of lansoprazole.
@@ -105,7 +105,7 @@ Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 | Susceptible | 42 | 40 | 1 |  | 1 |  |
 | Intermediate |  |  |  |  |  |  |
 | Resistant | 4 | 1 |  |  | 3 |  |
-| #Includes only patients with pretreatment clarithromycin susceptibility results |  |  |  |  |  |  |
+| #Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |  |
 
 Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori.
 Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
