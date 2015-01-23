@@ -3,6 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown.
+
 The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel.
 Rufinamide (≥1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC50 of 3.8 μM).
 
@@ -48,7 +49,7 @@ Rufinamide is a weak inhibitor of CYP 2E1.
 It did not show significant inhibition of other CYP enzymes.
 Rufinamide is a weak inducer of CYP 3A4 enzymes.
 
-Rufinamide did not show any significant inhibition of P-glycoprotein in an in vitro study.
+Rufinamide did not show any significant inhibition of P-glycoprotein in an in-vitro study.
 
 Elimination/Excretion
 
@@ -65,11 +66,11 @@ This effect is not clinically important.
 Race: In a population pharmacokinetic analysis of clinical studies, no difference in clearance or volume of distribution of rufinamide was observed between the black and Caucasian subjects, after controlling for body size.
 Information on other races could not be obtained because of smaller numbers of these subjects.
 
-Pediatrics: Based on a population analysis in a total of 141 children (24 patients age 1 to 3 years and 117 patients age 4-11 years) and 99 adolescents (age 12-17 years), the pharmacokinetics of rufinamide in these patients is similar to the pharmacokinetics in adults.
+Pediatrics: Based on a population analysis in 117 children (age 4-11 years) and 99 adolescents (age 12-17 years), the pharmacokinetics of rufinamide in these patients is similar to the pharmacokinetics in adults.
 
 Elderly: The results of a study evaluating single-dose (400 mg) and multiple dose (800 mg/day for 6 days) pharmacokinetics of rufinamide in 8 healthy elderly subjects (65-80 years old) and 7 younger healthy subjects (18-45 years old) found no significant age-related differences in the pharmacokinetics of rufinamide.
 
-Renal Impairment: Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance <30 mL/min) was similar to that of healthy subjects.
+Renal Impairment: Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL/min) was similar to that of healthy subjects.
 Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and Cmax by 29% and 16% respectively.
 Adjusting rufinamide dose for the loss of drug upon dialysis should be considered.
 

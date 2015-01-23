@@ -9,16 +9,16 @@ The adapter which is supplied in the product carton should be inserted firmly in
 The dosing syringe should be inserted into the adapter and the dose withdrawn from the inverted bottle.
 The cap should be replaced after each use.
 The cap fits properly when the adapter is in place.
-See BANZEL Oral Suspension Instructions for Use (17.3) for complete instructions on how to properly dose and administer the BANZEL Oral Suspension.
+See BANZEL Oral Suspension Dosing Instructions for complete instructions on how to properly dose and administer the BANZEL Oral Suspension.
 
 ## 2.1 Patients with Lennox-Gastaut Syndrome
 
-Children 1 year of age and older with Lennox-Gastaut Syndrome: Treatment should be initiated at a daily dose of approximately 10 mg/kg/day administered in two equally divided doses.
+Children four years and older with Lennox-Gastaut Syndrome: Treatment should be initiated at a daily dose of approximately 10 mg/kg/day administered in two equally divided doses.
 The dose should be increased by approximately 10 mg/kg increments every other day to a target dose of 45 mg/kg/day or 3200 mg/day, whichever is less, administered in two equally divided doses.
 It is not known whether doses lower than the target doses are effective.
 
 Adults with Lennox-Gastaut Syndrome: Treatment should be initiated at a daily dose of 400-800 mg/day administered in two equally divided doses.
-The dose should be increased by 400-800 mg every other day until a maximum daily dose of 3200 mg/day, administered in two equally divided doses, is reached.
+The dose should be increased by 400-800 mg every other day until a maximum daily dose of 3200 mg/day, administered in two equally divided doses is reached.
 It is not known whether doses lower than 3200 mg are effective.
 
 ## 2.2 Patients with Renal Impairment

@@ -10,14 +10,14 @@ Drugs that may induce the activity of carboxylesterases may increase the clearan
 Broad-spectrum inducers such as carbamazepine and phenobarbital may have minor effects on rufinamide metabolism via this mechanism.
 Drugs that are inhibitors of carboxylesterases may decrease metabolism of rufinamide.
 
-## 7.1 Effects of BANZEL on Other AEDs
+## 7.1 Effects of BANZEL on other AEDs
 
 Population pharmacokinetic analysis of average concentration at steady state of carbamazepine, lamotrigine, phenobarbital, phenytoin, topiramate, and valproate showed that typical rufinamide Cavss levels had little effect on the pharmacokinetics of other AEDs.
 Any effects, when they occur, have been more marked in the pediatric population.
 
 Table 6 summarizes the drug-drug interactions of BANZEL with other AEDs.
 
-Table 6: Summary of Drug-drug Interactions of BANZEL with Other Antiepileptic Drugs
+Table 6: Summary of drug-drug interactions of BANZEL with other antiepileptic drugs
 
 | AED Co-administered | Influence of Rufinamide on AED concentrationa) | Influence of AED on Rufinamide concentration |
 | --- | --- | --- |
@@ -36,17 +36,17 @@ As phenytoin is known to have non-linear pharmacokinetics (clearance becomes sat
 
 ## 7.2 Effects of Other AEDs on BANZEL
 
-Potent cytochrome P450 enzyme inducers, such as carbamazepine, phenytoin, primidone, and phenobarbital, appear to increase the clearance of BANZEL (see Table 6).
+Potent cytochrome P450 enzyme inducers, such as carbamazepine, phenytoin, primidone, and phenobarbital appear to increase the clearance of BANZEL (see Table 6).
 Given that the majority of clearance of BANZEL is via a non-CYP-dependent route, the observed decreases in blood levels seen with carbamazepine, phenytoin, phenobarbital, and primidone are unlikely to be entirely attributable to induction of a P450 enzyme.
 Other factors explaining this interaction are not understood.
-Any effects, where they occurred, were likely to be more marked in the pediatric population.
+Any effects, where they occurred were likely to be more marked in the pediatric population.
 
 Valproate: Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
 In children, valproate administration may lead to elevated levels of rufinamide by up to 70%.
 Patients stabilized on BANZEL before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose.
 Similarly, patients on valproate should begin at a BANZEL dose lower than 10 mg/kg/day (children) or 400 mg/day (adults) [see Dosage and Administration (2.5)].
 
-## 7.3 Effects of BANZEL on Other Medications
+## 7.3 Effects of BANZEL on other Medications
 
 Hormonal contraceptives: Co-administration of BANZEL (800 mg BID for 14 days) and Ortho-Novum 1/35® resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and Cmax by 31% and norethindrone AUC0-24 by 14% and Cmax by 18%, respectively.
 The clinical significance of this decrease is unknown.

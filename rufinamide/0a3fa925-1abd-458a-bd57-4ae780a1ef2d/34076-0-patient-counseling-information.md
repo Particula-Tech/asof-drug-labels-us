@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide prior to taking BANZEL.
+Patients should be informed of the availability of a Medication guide and they should be instructed to read the Medication Guide prior to taking BANZEL.
 
 Patients should be instructed to take BANZEL only as prescribed.
 

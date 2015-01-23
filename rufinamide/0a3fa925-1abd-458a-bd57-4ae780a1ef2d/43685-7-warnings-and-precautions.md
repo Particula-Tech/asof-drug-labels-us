@@ -9,7 +9,7 @@ Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive 
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
-The increased risk of suicidal thoughts or behavior with AEDs was observed as early as 1 week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
@@ -43,7 +43,7 @@ The most significant of these can be classified into two general categories: 1) 
 ## 5.3 QT Shortening
 
 Formal cardiac ECG studies demonstrated shortening of the QT interval (mean=20 msec, for doses ≥2400 mg twice daily) with BANZEL treatment.
-In a placebo-controlled study of the QT interval, a higher percentage of BANZEL-treated subjects (46% at 2400 mg, 46% at 3200 mg, and 65% at 4800 mg) had a QT shortening of greater than 20 msec at Tmax compared to placebo (5-10%).
+In a placebo-controlled study of the QT interval, a higher percentage of BANZEL-treated subjects (46% at 2400 mg, 46% at 3200 mg, and 65% at 4800 mg) had a QT shortening of greater than 20 msec at Tmax compared to placebo (5 - 10%).
 
 Reductions of the QT interval below 300 msec were not observed in the formal QT studies with doses up to 7200 mg/day.
 Moreover, there was no signal for drug-induced sudden death or ventricular arrhythmias.
@@ -59,12 +59,14 @@ Caution should be used when administering BANZEL with other drugs that shorten t
 ## 5.4 Multi-organ Hypersensitivity Reactions
 
 Multi-organ Hypersensitivity Syndrome, a serious condition sometimes induced by antiepileptic drugs, has occurred in association with BANZEL therapy in clinical trials.
-One patient experienced rash, urticaria, facial edema, fever, elevated eosinophils, stuperous state, and severe hepatitis, beginning on day 29 of BANZEL therapy and extending over a course of 30 days of continued BANZEL therapy with resolution 11 days after discontinuation.
+One patient experienced rash, urticaria, facial edema, fever, elevated eosinophils, stuperous state, and severe hepatitis, beginning on day 29 of Banzel therapy and extending over a course of 30 days of continued Banzel therapy with resolution 11 days after discontinuation.
 Additional possible cases presented with rash and one or more of the following: fever, elevated liver function studies, hematuria, and lymphadenopathy.
-These cases occurred in children less than 12 years of age, within 4 weeks of treatment initiation, and were noted to resolve and/or improve upon BANZEL discontinuation.
+These cases occurred in children less than 12 years of age, within four weeks of treatment initiation, and were noted to resolve and/or improve upon BANZEL discontinuation.
 This syndrome has been reported with other anticonvulsants and typically, although not exclusively, presents with fever and rash associated with other organ system involvement.
 Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
 If this reaction is suspected, BANZEL should be discontinued and alternative treatment started.
+In addition, rare cases of DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) and Stevens-Johnson syndrome have been reported in association with rufinamide therapy post marketing.
+If an antiepileptic drug hypersensitivity syndrome is suspected, rufinamide should be discontinued and alternative treatment started.
 
 All patients who develop a rash while taking BANZEL must be closely supervised.
 
