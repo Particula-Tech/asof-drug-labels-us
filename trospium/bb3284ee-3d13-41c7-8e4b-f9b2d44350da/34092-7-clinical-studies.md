@@ -40,18 +40,18 @@ Reductions in urinary frequency, urge incontinence episodes, and urinary void vo
 Table 4.
 Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 2
 
-| Efficacy endpoint | Placebo N=325 | Trospium Chloride Tablets N=323 | P-value |
-| --- | --- | --- | --- |
-| Urinary frequency/24 hours Treatment differences assessed by analysis of variance for ITT:LOCF data set.,Denotes primary endpoint |  |  |  |
-| Mean baseline | 13.2 | 12.9 |  |
-| Mean change from baseline | -1.8 (0.2) | -2.7 (0.2) | <0.001 |
-| Urge incontinence episodes/week Treatment differences assessed by ranked analysis of variance for ITT:LOCF data set., |  |  |  |
-| Mean baseline | 27.3 | 26.9 |  |
-| Mean change from baseline | -12.1 (1.0) | -16.1 (1.0) | <0.001 |
-| Urinary void volume/toilet void (mL),Placebo N=320, Trospium Chloride Tablets N=319. |  |  |  |
-| Mean baseline | 154.6 | 154.8 |  |
-| Mean change from baseline | 9.4 (2.8) | 35.6 (2.8) | <0.001 |
-| ITT=intent-to-treat, LOCF=last observation carried forward. |  |  |  |
+| Efficacy endpoint | Placebo N=325 | Trospium Chloride Tablets N=323 | P-value |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Urinary frequency/24 hours Treatment differences assessed by analysis of variance for ITT:LOCF data set.,Denotes primary endpoint |  |  |  |  |  |  |  |  |  |
+| Mean baseline | 13.2 | 12.9 |  |  |  |  |  |  |  |
+| Mean change from baseline | -1.8 (0.2) | -2.7 (0.2) | <0.001 |  |  |  |  |  |  |
+| Urge incontinence episodes/week Treatment differences assessed by ranked analysis of variance for ITT:LOCF data set., |  |  |  |  |  |  |  |  |  |
+| Mean baseline | 27.3 | 26.9 |  |  |  |  |  |  |  |
+| Mean change from baseline | -12.1 (1.0) | -16.1 (1.0) | <0.001 |  |  |  |  |  |  |
+| Urinary void volume/toilet void (mL),Placebo N=320, Trospium Chloride Tablets N=319. |  |  |  |  |  |  |  |  |  |
+| Mean baseline | 154.6 | 154.8 |  |  |  |  |  |  |  |
+| Mean change from baseline | 9.4 (2.8) | 35.6 (2.8) | <0.001 |  |  |  |  |  |  |
+| ITT=intent-to-treat, LOCF=last observation carried forward. |  |  |  |  |  |  |  |  |  |
 
 | Figure 4: Mean Change from Baseline in Urinary Frequency/24 Hours, by Visit: Study 2 |
 | --- |

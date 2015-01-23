@@ -12,17 +12,17 @@ Patients should be advised to promptly discontinue Trospium Chloride Tablets and
 Prior to treatment, patients should fully understand the risks and benefits of Trospium Chloride Tablets.
 In particular, patients should be informed not to take Trospium Chloride Tablets if they:
 
-- have urinary retention;
-- gastric retention;
-- uncontrolled narrow-angle glaucoma;
-- are allergic to any component of Trospium Chloride Tablets.
+- •have urinary retention;
+- •gastric retention;
+- •uncontrolled narrow-angle glaucoma;
+- •are allergic to any component of Trospium Chloride Tablets.
 
 ## 17.3 Administration
 
 Patients should be instructed regarding the recommended dosing and administration of Trospium Chloride Tablets:
 
-- Take one Trospium Chloride Tablet twice daily with water.
-- Take Trospium Chloride Tablets on an empty stomach or at least 1 hour before a meal.
+- •Take one Trospium Chloride Tablet twice daily with water.
+- •Take Trospium Chloride Tablets on an empty stomach or at least 1 hour before a meal.
 
 ## 17.4 Adverse Reactions
 
