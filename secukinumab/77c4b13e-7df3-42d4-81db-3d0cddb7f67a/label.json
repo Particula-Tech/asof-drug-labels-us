@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA125504"
+  ],
+  "inn": "secukinumab",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0639-41",
+    "0078-0639-68",
+    "0078-0639-97",
+    "0078-0639-98"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "secukinumab",
+      "name": "COSENTYX"
+    }
+  ],
+  "setid": "77c4b13e-7df3-42d4-81db-3d0cddb7f67a",
+  "source": "dailymed"
+}

@@ -1,0 +1,3 @@
+# 4 CONTRAINDICATIONS
+
+COSENTYX is contraindicated in patients with a previous serious hypersensitivity reaction to secukinumab or to any of the excipients [see Warnings and Precautions (5.4)].

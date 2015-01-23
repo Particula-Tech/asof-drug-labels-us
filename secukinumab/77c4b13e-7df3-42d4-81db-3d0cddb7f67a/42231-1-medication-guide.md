@@ -1,0 +1,172 @@
+MEDICATION GUIDE
+
+COSENTYXTM (koe-sen’-tix)
+
+(secukinumab)
+
+Injection
+
+What is the most important information I should know about COSENTYX?
+
+COSENTYX is a medicine that affects your immune system.
+COSENTYX may increase your risk of having serious side effects such as:
+
+Infections.
+COSENTYX may lower the ability of your immune system to fight infections and may increase your risk of infections.
+
+- Your healthcare provider should check you for tuberculosis (TB) before starting treatment with COSENTYX.
+- If your healthcare provider feels that you are at risk for TB, you may be treated with medicine for TB before you begin treatment with COSENTYX and during treatment with COSENTYX.
+- Your healthcare provider should watch you closely for signs and symptoms of TB during treatment with COSENTYX.
+  Do not take COSENTYX if you have an active TB infection.
+
+Before starting COSENTYX, tell your healthcare provider if you:
+
+- are being treated for an infection
+- have an infection that does not go away or that keeps coming back
+- have TB or have been in close contact with someone with TB
+- think you have an infection or have symptoms of an infection such as:
+  - fever, sweats, or chills
+  - muscle aches
+  - cough
+  - shortness of breath
+  - blood in your phlegm
+  - weight loss
+  - warm, red, or painful skin or sores on your body
+  - diarrhea or stomach pain
+  - burning when you urinate or urinate more often than normal
+
+After starting COSENTYX, call your healthcare provider right away if you have any of the signs of infection listed above.
+Do not use COSENTYX if you have any signs of infection unless you are instructed to by your healthcare provider.
+
+See “What are the possible side effects of COSENTYX?” for more information about side effects.
+
+What is COSENTYX?
+
+COSENTYX is a prescription medicine used to treat adults:
+
+- with moderate to severe plaque psoriasis that involves large areas or many areas of the body, and
+- who may benefit from taking injections or pills (systemic therapy) or phototherapy (treatment using ultraviolet or UV light alone or with systemic therapy)
+
+COSENTYX may improve your psoriasis but it may also lower the ability of your immune system to fight infections.
+
+It is not known if COSENTYX is safe and effective in children.
+
+Who should not use COSENTYX?
+
+Do not use COSENTYX if you have had a severe allergic reaction to secukinumab or any of the other ingredients in COSENTYX.
+See the end of this Medication Guide for a complete list of ingredients in COSENTYX.
+
+What should I tell my healthcare provider before starting COSENTYX?
+
+Before starting COSENTYX, tell your healthcare provider if you:
+
+- have any of the conditions or symptoms listed in the section “What is the most important information I should know about COSENTYX?”
+- have Crohn’s disease
+- are allergic to latex.
+  The needle cap on the COSENTYX Sensoready® pen and prefilled syringe contains latex.
+- have recently received or are scheduled to receive an immunization (vaccine).
+  People who take COSENTYX should not receive live vaccines.
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if COSENTYX can harm your unborn baby.
+  You and your healthcare provider should decide if you will use COSENTYX.
+- are breastfeeding or plan to breastfeed.
+  It is not known if COSENTYX passes into your breast milk.
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+Know the medicines you take.
+Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
+
+How should I use COSENTYX?
+
+See the detailed “Instructions for Use” that comes with your COSENTYX for information on how to prepare and inject a dose of COSENTYX, and how to properly throw away (dispose of) used COSENTYX Sensoready pens and prefilled syringes.
+
+- Use COSENTYX exactly as prescribed by your healthcare provider.
+- If your healthcare provider decides that you or a caregiver may give your injections of COSENTYX at home, you should receive training on the right way to prepare and inject COSENTYX.
+  Do not try to inject COSENTYX yourself, until you or your caregiver has been shown how to inject COSENTYX by your healthcare provider.
+- COSENTYX comes in a Sensoready pen or prefilled syringe that you or your caregiver may use at home to give injections.
+  Your healthcare provider will decide which type of COSENTYX is best for you to use at home.
+- Your healthcare provider will prescribe the dose of COSENTYX that is right for you.
+  - If your prescribed dose of COSENTYX is 150 mg, you must give 1 injection of COSENTYX for each dose.
+  - If your prescribed dose of COSENTYX is 300 mg, you must give 2 injections for each dose.
+- COSENTYX is given as an injection under your skin (subcutaneous injection), in your upper legs (thighs) or stomach-area (abdomen) by you or a caregiver.
+  A caregiver may also give you an injection of COSENTYX in your upper outer arm.
+- Do not give an injection in an area of the skin that is tender, bruised, red or hard, or in an area of skin that is affected by psoriasis.
+- Each injection should be given at a different site.
+  Do not use the 2 inch area around your navel (belly button).
+- If you inject more COSENTYX than prescribed, call your healthcare provider or go to the nearest emergency room right away.
+
+What are the possible side effects of COSENTYX?
+
+COSENTYX may cause serious side effects, including:
+
+- See “What is the most important information I should know about COSENTYX?”
+- Crohn’s disease “flare-ups” (worsening Crohn’s disease).
+  Crohn’s disease “flare-ups” can happen with COSENTYX, and can sometimes be serious.
+  If you have Crohn’s disease, tell your healthcare provider if you have worsening Crohn’s disease symptoms during treatment with COSENTYX.
+- Serious allergic reactions.
+  Get emergency medical help right away if you get any of the following symptoms of a serious allergic reaction:
+  - feel faint
+  - swelling of your face, eyelids, lips, mouth, tongue, or throat
+  - trouble breathing or throat tightness
+  - chest tightness
+  - skin rash
+
+If you have a severe allergic reaction, do not give another injection of COSENTYX.
+
+The most common side effects of COSENTYX include:
+
+- cold symptoms
+- diarrhea
+- upper respiratory infections
+
+These are not all of the possible side effects of COSENTYX.
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store COSENTYX?
+
+- Store COSENTYX in a refrigerator, between 36°F to 46°F (2°C to 8°C).
+- Keep COSENTYX in the original carton until ready for use to protect from light.
+- Do not freeze COSENTYX.
+- Do not shake COSENTYX.
+
+Keep COSENTYX and all medicines out of the reach of children.
+
+General information about the safe and effective use of COSENTYX
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use COSENTYX for a condition for which it was not prescribed.
+Do not give COSENTYX to other people, even if they have the same symptoms you have.
+It may harm them.
+
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about COSENTYX that is written for health professionals.
+
+For more information, call 1-888-669-6682 or go to www.COSENTYX.com.
+
+What are the ingredients in COSENTYX?
+
+Active ingredient: secukinumab
+
+Inactive ingredients:
+
+Sensoready pen and prefilled syringe: L-histidine/histidine hydrochloride monohydrate, L-methionine, polysorbate 80, trehalose dihydrate, and sterile water for injection.
+
+Vial: L-histidine/histidine hydrochloride monohydrate, polysorbate 80, and sucrose.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License No. 1244
+
+Issued: January 2015
+
+Any other trademarks in this document are the property of their respective owners.
+
+© Novartis
+
+T2015-12
