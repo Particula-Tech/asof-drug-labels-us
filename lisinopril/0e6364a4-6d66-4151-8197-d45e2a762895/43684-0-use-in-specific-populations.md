@@ -39,7 +39,7 @@ No other differences in safety or effectiveness were observed between elderly an
 
 ## 8.6 Race
 
-ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in black patients than in non-blacks.
+ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in black patients than in non blacks.
 
 ## 8.7 Renal Impairment
 

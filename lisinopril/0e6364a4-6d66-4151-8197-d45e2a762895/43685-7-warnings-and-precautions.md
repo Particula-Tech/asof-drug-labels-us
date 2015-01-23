@@ -13,7 +13,7 @@ Angioedema Head and Neck Angioedema Angioedema of the face, extremities, lips, t
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Lisinopril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
-ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
+ACE inhibitors have been associated with a higher rate of angioedema in black than in non-black patients.
 Intestinal Angioedema Intestinal angioedema has occurred in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 In some cases, the angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.

@@ -9,4 +9,4 @@ It is soluble in water and sparingly soluble in methanol and practically insolub
 Lisinopril is supplied as 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg tablets for oral administration.
 Inactive Ingredients: 2.5 mg tablets – dibasic calcium phosphate, magnesium stearate, mannitol, pregelatinized starch (maize) and starch (maize).
 5 mg tablets – dibasic calcium phosphate, ferric oxide red, magnesium stearate, mannitol, pregelatinized starch (maize) and starch (maize).
-10 mg, 20 mg, 30 mg, and 40 mg tablets - dibasic calcium phosphate, ferric oxide yellow magnesium stearate, mannitol, pregelatinized starch (maize) and starch (maize).
+10 mg, 20 mg, 30 mg, and 40 mg tablets - dibasic calcium phosphate, ferric oxide yellow, magnesium stearate, mannitol, pregelatinized starch (maize) and starch (maize).
