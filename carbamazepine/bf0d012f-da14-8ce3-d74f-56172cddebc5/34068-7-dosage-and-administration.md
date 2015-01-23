@@ -6,17 +6,17 @@ A low initial daily dosage with a gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
 Medication should be taken with meals.
 
-Epilepsy (see INDICATIONS AND USAGE):
+Epilepsy (see INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age - Initial: 200 mg b.i.d. for tablets (400 mg/day).
 Increase at weekly intervals by adding up to 200 mg/day using a t.i.d. or q.i.d. regimen of carbamazepine tablets until the optimal response is obtained.
-Dosage generally should not exceed 1000 mg daily in children 12 to 15 years of age, and 1200 mg daily in patients above 15 years of age.
+Dosage generally should not exceed 1,000 mg daily in children 12 to 15 years of age, and 1200 mg daily in patients above 15 years of age.
 Doses up to 1600 mg daily have been used in adults in rare instances.
 Maintenance: Adjust dosage to the minimum effective level, usually 800 to 1200 mg daily.
 
 Children 6 to 12 years of age - Initial: 100 mg b.i.d. for tablets (200 mg/day).
 Increase at weekly intervals by adding up to 100 mg/day using a t.i.d. or q.i.d. regimen of carbamazepine tablets until the optimal response is obtained.
-Dosage generally should not exceed 1000 mg daily.
+Dosage generally should not exceed 1,000 mg daily.
 Maintenance: Adjust dosage to the minimum effective level, usually 400 to 800 mg daily.
 
 Children under 6 years of age - Initial: 10 to 20 mg/kg/day b.i.d. or t.i.d. for tablets.
@@ -28,9 +28,9 @@ No recommendation regarding the safety of carbamazepine for use at doses above 3
 Combination Therapy: Carbamazepine may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
 
-Trigeminal Neuralgia (see INDICATIONS AND USAGE):
+Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 
-Initial: On the first day, 100 mg b.i.d. for tablets for a totally daily dose of 200 mg.
+Initial: On the first day, 100 mg b.i.d. for tablets for a total daily dose of 200 mg.
 This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours for tablets, only as needed to achieve freedom from pain.
 Do not exceed 1200 mg daily.
 

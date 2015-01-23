@@ -5,7 +5,7 @@ If adverse reactions are of such severity that the drug must be discontinued, th
 The most severe adverse reactions have been observed in the hemopoietic system and skin (see BOXED WARNING), the liver, and the cardiovascular system.
 
 The most frequently observed adverse reactions, particularly during the initial phases of therapy, are dizziness, drowsiness, unsteadiness, nausea, and vomiting.
-To minimize the possibility of such reactions, therapy should be initiated at the low dosage recommended.
+To minimize the possibility of such reactions, therapy should be initiated at the lowest dosage recommended.
 
 The following additional adverse reactions have been reported:
 
@@ -15,20 +15,19 @@ Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thromboc
 
 Skin
 
-Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis and onychomadesis.
+Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
-Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
 Cardiovascular System
 
-Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
+Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g. pulmonary embolism), and adenopathy or lymphadenopathy.
 
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
 
 Liver
 
-Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis; very rare cases of hepatic failure.
+Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, very rare cases of hepatic failure.
 
 Pancreatic
 
