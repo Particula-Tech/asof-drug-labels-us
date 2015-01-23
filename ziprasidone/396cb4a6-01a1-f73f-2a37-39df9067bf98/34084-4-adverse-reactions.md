@@ -27,7 +27,7 @@ Schizophrenia trials (see Table 6)
 SCHIZOPHRENIA
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
-The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [See Warnings and Precautions (5.6)].
+The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [See Warnings and Precautions (5.7)].
 
 Adverse Reactions Occurring at an Incidence of 2% or More among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
 
@@ -81,7 +81,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.7)]
+Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.8)]
 
 ECG Changes -Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.2)].
 In the schizophrenia trials, ziprasidone was associated with a mean increase in heart rate of 1.4 beats per minute compared to a 0.2 beats per minute decrease among placebo patients.
@@ -183,4 +183,4 @@ Rare gynecomastia, vaginal hemorrhage, nocturia, oliguria, female sexual dysfunc
 The following adverse reactions have been identified during post approval use of ziprasidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [See Warnings and Precautions (5.2)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash; Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.
+Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [See Warnings and Precautions (5.2)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash; Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.
