@@ -1,3 +1,19 @@
+# PRINCIPAL DISPLAY PANEL - 120 mg Tablet Bottle Label
+
+NDC 0187-0792-47
+
+Cardizem® (diltiazem HCl)
+
+120 mg
+
+100 Tablets
+
+Swallow tablets whole.
+
+Do not split, crush or chew tablets
+
+Rx ONLY
+
 # PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
 NDC 0187-0771-47
@@ -8,9 +24,11 @@ Cardizem® (diltiazem HCl)
 
 100 Tablets
 
-Rx ONLY
+Swallow tablets whole.
 
-VALEANT Pharmaceuticals North America LLC
+Do not split, crush or chew tablets
+
+Rx ONLY
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
 
@@ -22,20 +40,8 @@ Cardizem® (diltiazem HCl)
 
 100 Tablets
 
-Rx ONLY
+Swallow tablets whole.
 
-VALEANT Pharmaceuticals North America LLC
-
-# PRINCIPAL DISPLAY PANEL - 120 mg Tablet Bottle Label
-
-NDC 0187-0792-47
-
-Cardizem® (diltiazem HCl)
-
-120 mg
-
-100 Tablets
+Do not split, crush or chew tablets
 
 Rx ONLY
-
-VALEANT Pharmaceuticals North America LLC

@@ -8,7 +8,7 @@ Although precise mechanisms of its antianginal action are still being delineated
 
 - 1.Angina Due to Coronary Artery Spasm.
   CARDIZEM has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
-  Spontaneous and ergonovine-induced coronary artery spasm are inhibited by CARDIZEM.
+  Spontaneous and ergonovine-induced coronary artery spasms are inhibited by CARDIZEM.
 - 2.Exertional Angina.
   CARDIZEM has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
   This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal exercise workloads.
