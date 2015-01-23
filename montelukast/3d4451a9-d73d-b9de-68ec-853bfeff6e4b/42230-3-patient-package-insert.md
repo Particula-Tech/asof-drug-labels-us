@@ -207,6 +207,8 @@ Other side effects with montelukast sodium include:
 
 • joint pain, muscle aches and muscle cramps
 
+• bedwetting in children
+
 • tiredness, swelling
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -262,4 +264,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0114
+Revised: 0115
