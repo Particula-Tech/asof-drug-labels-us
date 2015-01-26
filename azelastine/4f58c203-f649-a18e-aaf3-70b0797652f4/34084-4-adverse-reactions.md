@@ -1,90 +1,93 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-To report SUSPECTED ADVERSE REACTIONS, contact Apotex Corp., Drug Safety at 1-800-667-4708 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch.
+Use of azelastine hydrochloride nasal spray has been associated with somnolence [see Warnings and Precautions (5.1)].
 
-## Seasonal Allergic Rhinitis
+## 6.1 Clinical Trials Experience
 
-### Azelastine Hydrochloride Nasal Solution Two Sprays Per Nostril Twice Daily
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect rates observed in practice.
 
-Adverse experience information for azelastine hydrochloride nasal solution is derived from six well-controlled, 2-day to 8-week clinical studies which included 391 patients who received azelastine hydrochloride nasal solution at a dose of 2 sprays per nostril twice daily.
-In placebo-controlled efficacy trials, the incidence of discontinuation due to adverse reactions in patients receiving azelastine hydrochloride nasal solution was not different from vehicle placebo (2.2% vs 2.8%, respectively).
-In these clinical studies, adverse events that occurred more often in patients treated with azelastine hydrochloride nasal solution versus vehicle placebo included bitter taste (19.7% vs 0.6%), somnolence (11.5% vs 5.4%), weight increase (2.0% vs 0%), and myalgia (1.5% vs 0%).
+Seasonal Allergic Rhinitis Azelastine hydrochloride nasal spray Two Sprays Per Nostril Twice Daily
 
-The following table contains adverse events that were reported with frequencies ≥2% in the azelastine hydrochloride nasal solution 2 sprays per nostril twice daily treatment group and more frequently than placebo in short-term (≤2 days) and long-term (2 to 8 weeks) clinical trials.
+Adverse experience information for azelastine hydrochloride nasal spray is derived from six placebo- and active- controlled, 2-day to 8-week clinical trials which included 391 patients, 12 years of age and older, with seasonal allergic rhinitis who received azelastine hydrochloride nasal spray at a dose of 2 sprays per nostril twice daily.
+In placebo-controlled efficacy trials, the incidence of discontinuation due to adverse reactions in patients receiving azelastine hydrochloride nasal spray and vehicle placebo was 2.2% and 2.8%, respectively.
 
-| ADVERSE EVENT | Azelastine HCl Nasal Spray n = 391 | Vehicle Placebo n = 353 |
+Table 1 contains adverse reactions that were reported with frequencies ≥2% in the azelastine hydrochloride nasal spray 2 sprays per nostril twice daily treatment group and more frequently than placebo.
+
+| Table 1: Adverse Reactions Reported in ≥2% Incidence in Placebo-Controlled Trials in Patients with Seasonal Allergic Rhinitis [n (%)] |  |  |
 | --- | --- | --- |
-| Bitter Taste | 19.7 | 0.6 |
-| Headache | 14.8 | 12.7 |
-| Somnolence | 11.5 | 5.4 |
-| Nasal Burning | 4.1 | 1.7 |
-| Pharyngitis | 3.8 | 2.8 |
-| Dry Mouth | 2.8 | 1.7 |
-| Paroxysmal Sneezing | 3.1 | 1.1 |
-| Nausea | 2.8 | 1.1 |
-| Rhinitis | 2.3 | 1.4 |
-| Fatigue | 2.3 | 1.4 |
-| Dizziness | 2.0 | 1.4 |
-| Epistaxis | 2.0 | 1.4 |
-| Weight Increase | 2.0 | 0.0 |
+|  | Azelastine hydrochloride Nasal Spray N = 391 | Vehicle Placebo N = 353 |
+| Bitter Taste | 77 (19.7%) | 2 (0.6%) |
+| Headache | 58 (14.8%) | 45 (12.7%) |
+| Somnolence | 45 (11.5%) | 19 (5.4%) |
+| Nasal Burning | 16 (4.1%) | 6 (1.7%) |
+| Pharyngitis | 15 (3.8%) | 10 (2.8%) |
+| Paroxysmal Sneezing | 12 (3.1%) | 4 (1.1%) |
+| Dry Mouth | 11 (2.8%) | 6 (1.7%) |
+| Nausea | 11 (2.8%) | 4 (1.1%) |
+| Rhinitis | 9 (2.3%) | 5 (1.4%) |
+| Fatigue | 9 (2.3%) | 5 (1.4%) |
+| Dizziness | 8 (2.0%) | 5 (1.4%) |
+| Epistaxis | 8 (2.0%) | 5 (1.4%) |
+| Weight Increase | 8 (2.0%) | 0 (0.0%) |
 
-### Azelastine Hydrochloride Nasal Solution One Spray Per Nostril Twice Daily
+Azelastine hydrochloride nasal spray One Spray Per Nostril Twice Daily
 
-Adverse experience information for azelastine hydrochloride nasal solution at a dose of one spray per nostril twice daily is derived from two placebo-controlled 2-week clinical studies which included 276 patients.
-None of the patients receiving azelastine hydrochloride nasal solution were discontinued from these studies due to adverse reactions.
-Three patients receiving vehicle placebo were discontinued due to adverse reactions.
+Adverse experience information for azelastine hydrochloride nasal spray at a dose of one spray per nostril twice daily is derived from two placebo-controlled 2-week clinical studies which included 276 patients 12 years of age and older with seasonal allergic rhinitis.
+The incidence of discontinuation due to adverse reactions in patients receiving azelastine hydrochloride nasal spray and vehicle placebo was 0.0% and 0.8%, respectively.
 Bitter taste was reported in 8.3% of patients compared to none in the placebo group.
 Somnolence was reported in 0.4% of patients compared to none in the placebo group.
 
-A total of 176 patients 5 to 12 years of age were exposed to azelastine hydrochloride nasal solution at a dose of 1 spray each nostril twice daily in 3 placebo-controlled studies.
-In these studies, adverse events that occurred more frequently in patients treated with azelastine hydrochloride nasal solution than with placebo, and that were not represented in the adult adverse event table above include rhinitis/cold symptoms (17.0% vs 9.5%), cough (11.4% vs 8.3%), conjunctivitis (5.1% vs 1.8%), and asthma (4.5% vs 4.1%).
+A total of 176 patients 5 to 11 years of age were exposed to azelastine hydrochloride nasal spray at a dose of 1 spray each nostril twice daily in 3 placebo-controlled studies.
+In these studies, adverse reactions that occurred more frequently in patients treated with azelastine hydrochloride nasal spray than with placebo, and that were not represented in the adult adverse reactions table above include rhinitis/cold symptoms (17.0% vs. 9.5%), cough (11.4% vs. 8.3%), conjunctivitis (5.1% vs. 1.8%), and asthma (4.5% vs. 4.1%).
 
-The following events were observed infrequently (<2% and exceeding placebo incidence) in patients who received azelastine hydrochloride nasal solution dosed at 1 or 2 sprays per nostril twice daily in U.S. clinical trials.
+Adverse Reactions <2% in azelastine hydrochloride nasal spray One or Two Sprays Per Nostril Twice Daily
 
-Cardiovascular: flushing, hypertension, tachycardia.
+The following reactions were observed infrequently (<2% and exceeding placebo incidence) in patients who received azelastine hydrochloride nasal spray dosed at 1 or 2 sprays per nostril twice daily in U.S. clinical trials.
 
-Dermatological: contact dermatitis, eczema, hair and follicle infection, furunculosis, skin laceration.
+Cardiovascular Flushing, hypertension, tachycardia.
 
-Digestive: constipation, gastroenteritis, glossitis, ulcerative stomatitis, vomiting, increased SGPT, aphthous stomatitis, diarrhea, toothache.
+Dermatological Contact dermatitis, eczema, hair and follicle infection, furunculosis, skin laceration.
 
-Metabolic and Nutritional: increased appetite.
+Digestive Constipation, gastroenteritis, glossitis, ulcerative stomatitis, vomiting, increased SGPT, aphthous stomatitis, diarrhea, toothache.
 
-Musculoskeletal: myalgia, temporomandibular dislocation, rheumatoid arthritis.
+Metabolic and Nutritional Increased appetite.
 
-Neurological: hyperkinesia, hypoesthesia, vertigo.
+Musculoskeletal Myalgia, temporomandibular dislocation, rheumatoid arthritis.
 
-Psychological: anxiety, depersonalization, depression, nervousness, sleep disorder, thinking abnormal.
+Neurological Hyperkinesias, hypoesthesia, vertigo.
 
-Respiratory: bronchospasm, coughing, throat burning, laryngitis, bronchitis, dry throat, nocturnal dyspnea, nasopharyngitis, nasal congestion, pharyngolaryngeal pain, sinusitis, nasal dryness, paranasal sinus hypersecretion, post nasal drip.
+Psychological Anxiety, depersonalization, depression, nervousness, sleep disorder, thinking abnormal.
 
-Special Senses: conjunctivitis, eye abnormality, eye pain, watery eyes, taste loss.
+Respiratory Bronchospasm, coughing, throat burning, laryngitis, bronchitis, dry throat, nocturnal dyspnea, nasopharyngitis, nasal congestion, pharyngolaryngeal pain, sinusitis, nasal dryness, paranasal sinus hypersecretion, post nasal drip.
 
-Urogenital: albuminuria, amenorrhea, breast pain, hematuria, increased urinary frequency.
+Special Senses Conjunctivitis, eye abnormality, eye pain, watery eyes, taste loss.
 
-Whole Body: allergic reaction, back pain, herpes simplex, viral infection, malaise, pain in extremities, abdominal pain, pyrexia.
+Urogenital Albuminuria, amenorrhea, breast pain, hematuria, increased urinary frequency.
 
-# ADVERSE REACTIONS
+Whole Body Allergic reaction, back pain, herpes simplex, viral infection, malaise, pain in extremities, abdominal pain, pyrexia.
 
-## Vasomotor Rhinitis
+Vasomotor Rhinitis Adverse experience information for azelastine hydrochloride nasal spray is derived from two placebo-controlled clinical studies which included 216 patients 12 years and older with vasomotor rhinitis who received azelastine hydrochloride nasal spray at a dose of 2 sprays per nostril twice daily for up to 28 days.
+The incidence of discontinuation due to adverse reactions in patients receiving azelastine hydrochloride nasal spray and vehicle placebo was 2.8% and 2.9%, respectively.
 
-Adverse experience information for azelastine hydrochloride nasal solution is derived from two placebo-controlled clinical studies which included 216 patients who received azelastine hydrochloride nasal solution at a dose of 2 sprays per nostril twice daily for up to 28 days.
-The incidence of discontinuation due to adverse reactions in patients receiving azelastine hydrochloride nasal solution was not different from vehicle placebo (2.8% vs 2.9%, respectively).
+The following adverse reactions were reported with frequencies ≥ 2% in the azelastine hydrochloride nasal spray treatment group and more frequently than placebo.
 
-The following adverse events were reported with frequencies ≥2% in the azelastine hydrochloride nasal solution treatment group and more frequently than placebo.
-
-| ADVERSE EVENT | Azelastine HCl Nasal Spray n = 216 | Vehicle Placebo n = 210 |
+| Table 2: Adverse Reactions Reported in ≥2% Incidence in Placebo-Controlled Trials in Patients with Vasomotor Rhinitis [n (%)] |  |  |
 | --- | --- | --- |
-| Bitter Taste | 19.4 | 2.4 |
-| Headache | 7.9 | 7.6 |
-| Dysesthesia | 7.9 | 3.3 |
-| Rhinitis | 5.6 | 2.4 |
-| Epistaxis | 3.2 | 2.4 |
-| Sinusitis | 3.2 | 1.9 |
-| Somnolence | 3.2 | 1.0 |
+|  | Azelastine hydrochloride Nasal Spray N = 216 | Vehicle Placebo N = 210 |
+| Bitter Taste | 42 (19.4%) | 5 (2.4%) |
+| Headache | 17 (7.9%) | 16 (7.6%) |
+| Dysesthesia | 17 (7.9%) | 7 (3.3%) |
+| Rhinitis | 12 (5.6%) | 5 (2.4%) |
+| Epistaxis | 7 (3.2%) | 5 (2.4%) |
+| Sinusitis | 7 (3.2%) | 4 (1.9%) |
+| Somnolence | 7 (3.2%) | 2 (1.0%) |
 
-Events observed infrequently (<2% and exceeding placebo incidence) in patients who received azelastine hydrochloride nasal solution (2 sprays/nostril twice daily) in U.S. clinical trials in vasomotor rhinitis were similar to those observed in U.S. clinical trials in seasonal allergic rhinitis.
+Reactions observed infrequently (<2% and exceeding placebo incidence) in patients who received azelastine hydrochloride nasal spray (2 sprays/nostril twice daily) in U.S. clinical trials in vasomotor rhinitis were similar to those observed in U.S. clinical trials in seasonal allergic rhinitis.
 
 In controlled trials involving nasal and oral azelastine hydrochloride formulations, there were infrequent occurrences of hepatic transaminase elevations.
-The clinical relevance of these reports has not been established.
 
-In addition, the following spontaneous adverse events have been reported during the marketing of azelastine hydrochloride nasal solution and causal relationship with the drug is unknown: anaphylactoid reaction, application site irritation, atrial fibrillation, chest pain, confusion, dyspnea, facial edema, involuntary muscle contractions, nasal sores, palpitations, paresthesia, parosmia, pruritus, rash, disturbance or loss of sense of smell and/or taste, tolerance, urinary retention, vision abnormal and xerophthalmia.
+## 6.2 Postmarketing Experience
+
+During the post approval use of azelastine hydrochloride nasal spray, the following adverse reactions have been identified.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Adverse reactions reported include: anaphylaxis, application site irritation, atrial fibrillation, chest pain, confusion, dyspnea, facial edema, involuntary muscle contractions, nasal sores, palpitations, paresthesia, parosmia, pruritus, rash, disturbance or loss of sense of smell and/or taste, tolerance, urinary retention, vision abnormal and xerophthalmia.

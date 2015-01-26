@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Azelastine hydrochloride nasal solution 0.1% (nasal spray), 137 micrograms (mcg) per spray, is an antihistamine formulated as a metered-spray solution for intranasal administration.
 Azelastine hydrochloride occurs as a white, almost odorless, crystalline powder with a bitter taste.
