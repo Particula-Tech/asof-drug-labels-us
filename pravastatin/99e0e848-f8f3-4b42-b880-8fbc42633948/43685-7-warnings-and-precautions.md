@@ -14,7 +14,7 @@ Predisposing factors include advanced age (≥ 65), uncontrolled hypothyroidism,
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum CPK, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation and improvement with immunosuppressive agents.
 
-All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin sodium tablets.
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin sodium.
 
 Pravastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 Pravastatin therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
@@ -33,7 +33,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin
 ## 5.2 Liver
 
 Statins, like some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
-In 3 long-term (4.8 to 5.9 years), placebo-controlled clinical trials, 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see Clinical Studies (14)].
+In 3 long-term (4.8 to 5.9 years), placebo-controlled clinical trials (WOS, LIPID, CARE), 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see Clinical Studies (14)].
 In an analysis of serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the upper limit of normal for subjects with pretreatment values less than or equal to the upper limit of normal, or 4 times the pretreatment value for subjects with pretreatment values greater than the upper limit of normal but less than 1.5 times the upper limit of normal.
 Marked abnormalities of ALT or AST occurred with similar low frequency (≤ 1.2%) in both treatment groups.
 Overall, clinical trial experience showed that liver function test abnormalities observed during pravastatin therapy were usually asymptomatic, not associated with cholestasis, and did not appear to be related to treatment duration.
@@ -48,8 +48,8 @@ Active liver disease or unexplained persistent transaminase elevations are contr
 Caution should be exercised when pravastatin is administered to patients who have a recent (< 6 months) history of liver disease, have signs that may suggest liver disease (e.g., unexplained aminotransferase elevations, jaundice), or are heavy users of alcohol.
 
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pravastatin.
-If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin sodium tablets, promptly interrupt therapy.
-If an alternate etiology is not found do not restart pravastatin sodium tablets.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin sodium, promptly interrupt therapy.
+If an alternate etiology is not found do not restart pravastatin sodium.
 
 ## 5.3 Endocrine Function
 

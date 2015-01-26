@@ -1,4 +1,4 @@
-# Principal Display Panel
+# Package/Label Display Panel
 
 ## Pravastatin Sodium Tablets USP 80 mg 1000s Label Text
 
