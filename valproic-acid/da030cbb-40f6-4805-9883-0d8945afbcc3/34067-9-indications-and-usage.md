@@ -14,4 +14,4 @@ See Warnings and Precautions (5.1) for statement regarding fatal hepatic dysfunc
 
 ## 1.2 Important Limitations
 
-Because of the risk to the fetus of decreased IQ, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition [see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17.3)].
+Because of the risk to the fetus of decreased IQ, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition [see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17)].
