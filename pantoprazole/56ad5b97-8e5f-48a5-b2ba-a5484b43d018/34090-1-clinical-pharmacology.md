@@ -22,7 +22,7 @@ With once-a-day dosing for 7 days, the mean inhibition was increased to 85%.
 Pantoprazole suppressed acid secretion in excess of 95% in half of the subjects.
 Acid secretion had returned to normal within a week after the last dose of pantoprazole; there was no evidence of rebound hypersecretion.
 
-In a series of dose-response studies, pantoprazole, at oral doses ranging from 20 mg to 120 mg, caused dose related increases in median basal gastric pH and in the percent of time gastric pH was > 3 and > 4.
+In a series of dose-response studies, pantoprazole, at oral doses ranging from 20 mg to 120 mg, caused dose-related increases in median basal gastric pH and in the percent of time gastric pH was > 3 and > 4.
 Treatment with 40 mg of pantoprazole produced significantly greater increases in gastric pH than the 20 mg dose.
 Doses higher than 40 mg (60 mg, 80 mg, 120 mg) did not result in further significant increases in median gastric pH.
 The effects of pantoprazole on median pH from one double-blind crossover study are shown in Table 4.
@@ -52,7 +52,7 @@ Following short-term treatment with pantoprazole, elevated gastrin levels return
 
 In 39 patients treated with oral pantoprazole 40 mg to 240 mg daily (majority receiving 40 mg to 80 mg) for up to 5 years, there was a moderate increase in ECL-cell density, starting after the first year of use, which appeared to plateau after 4 years.
 
-In a nonclinical study in Sprague-Dawley rats, lifetime exposure (24 months) to pantoprazole at doses of 0.5 to 200 mg/kg/day resulted in dose related increases in gastric ECL cell proliferation and gastric neuroendocrine (NE)-cell tumors.
+In a nonclinical study in Sprague-Dawley rats, lifetime exposure (24 months) to pantoprazole at doses of 0.5 to 200 mg/kg/day resulted in dose-related increases in gastric ECL cell proliferation and gastric neuroendocrine (NE)-cell tumors.
 Gastric NE-cell tumors in rats may result from chronic elevation of serum gastrin concentrations.
 The high density of ECL cells in the rat stomach makes this species highly susceptible to the proliferative effects of elevated gastrin concentrations produced by proton pump inhibitors.
 However, there were no observed elevations in serum gastrin following the administration of pantoprazole at a dose of 0.5 mg/kg/day.
@@ -151,11 +151,19 @@ Doses higher than 40 mg/day have not been studied in hepatically impaired patien
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6, and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer] and clopidogrel), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates), and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
 
+#### Clopidogrel
+
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
 On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79 to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 μM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
+
+#### Mycophenolate Mofetil (MMF)
+
+Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a crossover study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Transplant patients receiving approximately 2000 mg per day of MMF (n = 12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n = 21).
+There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF.
 
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam, and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 Dosage adjustment of these drugs is not necessary when they are coadministered with pantoprazole.

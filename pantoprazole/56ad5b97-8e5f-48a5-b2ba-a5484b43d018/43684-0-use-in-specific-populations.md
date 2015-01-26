@@ -7,7 +7,7 @@
 #### Pregnancy Category B
 
 Reproduction studies have been performed in rats at oral doses up to 88 times the recommended human dose and in rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
-There are, however, no adequate and well controlled studies in pregnant women.
+There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed [see Nonclinical Toxicology (13.2)].
 
 ## 8.3 Nursing Mothers
@@ -28,7 +28,7 @@ The safety and effectiveness of pantoprazole for pediatric uses other than EE ha
 
 ### One Year Through 16 Years of Age
 
-Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well controlled studies that supported the approval of pantoprazole for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
+Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
 
 Safety of pantoprazole in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in three multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including eight with EE (four patients ages 1 year to 5 years and four patients 5 years to 11 years).
 The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (approximating 0.6 mg/kg or 1.2 mg/kg).

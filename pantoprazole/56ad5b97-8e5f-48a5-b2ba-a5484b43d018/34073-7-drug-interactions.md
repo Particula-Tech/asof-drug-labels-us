@@ -18,8 +18,12 @@ No dose adjustment of clopidogrel is necessary when administered with an approve
 
 ## 7.4 Drugs for Which Gastric pH Can Affect Bioavailability
 
-Pantoprazole causes long-lasting inhibition of gastric acid secretion.
-Therefore, pantoprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
+Due to its effects on gastric acid secretion, pantoprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease.
+
+Coadministration of pantoprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving pantoprazole and MMF.
+Use pantoprazole with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
 
 ## 7.5 False Positive Urine Tests for THC
 
@@ -29,4 +33,4 @@ An alternative confirmatory method should be considered to verify positive resul
 ## 7.6 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].

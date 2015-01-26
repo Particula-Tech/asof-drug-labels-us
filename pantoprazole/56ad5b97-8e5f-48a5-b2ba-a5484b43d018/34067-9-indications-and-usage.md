@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Pantoprazole sodium delayed-release tablets are indicated for:
+Pantoprazole sodium delayed-release tablets, USP are indicated for:
 
 ## 1.1 Short-term Treatment of Erosive Esophagitis Associated with Gastroesophageal Reflux Disease (GERD)
 

@@ -64,9 +64,9 @@ Before taking pantoprazole sodium delayed-release tablets, tell your doctor if y
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
   It is not known if pantoprazole sodium delayed-release tablets will harm your unborn baby.
-- •are breast-feeding or plan to breast-feed.
+- •are breastfeeding or plan to breastfeed.
   Pantoprazole may pass into your milk.
-  You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breast-feed.
+  You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
@@ -82,6 +82,7 @@ Especially tell your doctor if you take:
 - •a product that contains iron
 - •an antibiotic that contains ampicillin
 - •methotrexate
+- •mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 
@@ -119,7 +120,6 @@ See “What is the most important information I should know about pantoprazole s
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
-
 - Tell your doctor right away if you have any of these symptoms:
   1. •seizures
   2. •dizziness
@@ -134,19 +134,19 @@ See “What is the most important information I should know about pantoprazole s
 
 The most common side effects with pantoprazole sodium delayed-release tablets in adults include:
 
-| •headache | •vomiting |
+| headache | vomiting |
 | --- | --- |
-| •diarrhea | •gas |
-| •nausea | •dizziness |
-| •stomach pain | •pain in your joints |
+| diarrhea | gas |
+| nausea | dizziness |
+| stomach pain | pain in your joints |
 
 The most common side effects with pantoprazole sodium delayed-release tablets in children include:
 
-| •upper respiratory infection | •vomiting |
+| upper respiratory infection | vomiting |
 | --- | --- |
-| •headache | •rash |
-| •fever | •stomach pain |
-| •diarrhea |  |
+| headache | rash |
+| fever | stomach pain |
+| diarrhea |  |
 
 Other side effects:
 
@@ -209,4 +209,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-REVISED AUGUST 2014 75052373 MX:PANTDR:R7mmh
+75055867
+
+REVISED JANUARY 2015 MX:PANTDR:R8mmh

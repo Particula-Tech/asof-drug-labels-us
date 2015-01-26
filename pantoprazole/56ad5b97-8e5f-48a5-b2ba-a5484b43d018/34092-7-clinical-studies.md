@@ -44,7 +44,7 @@ Patients taking pantoprazole consumed significantly fewer antacid tablets per da
 
 ### Pediatric Patients Ages 5 Years Through 16 Years
 
-The efficacy of pantoprazole in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well conducted trials in adults, as the pathophysiology is thought to be the same.
+The efficacy of pantoprazole in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
 Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (20 mg or 40 mg).
 All four patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
