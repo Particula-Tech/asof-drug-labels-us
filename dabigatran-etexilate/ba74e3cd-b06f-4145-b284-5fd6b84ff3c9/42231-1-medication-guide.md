@@ -110,10 +110,26 @@ Before you take PRADAXA, tell your doctor if you:
 
 How should I take PRADAXA?
 
+- Your doctor will decide how long you should take PRADAXA.
+  Do not stop taking PRADAXA without first talking with your doctor.
+  Stopping PRADAXA may increase your risk of having a stroke or forming blood clots.
 - Take PRADAXA exactly as prescribed by your doctor.
-- Do not take PRADAXA more often than your doctor tells you to.
+- Take PRADAXA capsules twice a day (approximately every 12 hours).
+- If you miss a dose of PRADAXA, take it as soon as you remember.
+  If your next dose is less than 6 hours away, skip the missed dose.
+  Do not take two doses of PRADAXA at the same time.
+- Swallow PRADAXA capsules whole.
+  Do not break, chew, or empty the pellets from the capsule.
 - You can take PRADAXA with or without food.
 - You should take PRADAXA with a full glass of water.
+- Do not run out of PRADAXA.
+  Refill your prescription before you run out.
+  If you plan to have surgery, or a medical or a dental procedure, tell your doctor and dentist that you are taking PRADAXA.
+  You may have to stop taking PRADAXA for a short time.
+  See “What is the most important information I should know about PRADAXA?”.
+- If you take too much PRADAXA, go to the nearest hospital emergency room or call your doctor.
+- Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
+  Your doctor or healthcare provider may need to check you.
 - PRADAXA comes in a bottle or in a blister package.
 - Only open 1 bottle of PRADAXA at a time.
   Finish your opened bottle of PRADAXA before opening a new bottle.
@@ -121,22 +137,6 @@ How should I take PRADAXA?
   See "How should I store PRADAXA?"
 - When it is time for you to take a dose of PRADAXA, only remove your prescribed dose of PRADAXA from your open bottle or blister package.
 - Tightly close your bottle of PRADAXA right away after you take your dose.
-- Swallow PRADAXA capsules whole.
-  Do not break, chew, or empty the pellets from the capsule.
-- If you miss a dose of PRADAXA, take it as soon as you remember.
-  If your next dose is less than 6 hours away, skip the missed dose.
-  Do not take two doses of PRADAXA at the same time.
-- Your doctor will decide how long you should take PRADAXA.
-  Do not stop taking PRADAXA without first talking with your doctor.
-  Stopping PRADAXA may increase your risk of stroke.
-- Do not run out of PRADAXA.
-  Refill your prescription before you run out.
-  If you plan to have surgery, or a medical or a dental procedure, tell your doctor and dentist that you are taking PRADAXA.
-  You may have to stop taking PRADAXA for a short time.
-  See "What is the most important information I should know about PRADAXA?"
-- If you take too much PRADAXA, go to the nearest hospital emergency room or call your doctor.
-- Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
-  Your doctor or healthcare provider may need to check you.
 
 What are the possible side effects of PRADAXA?
 
@@ -199,14 +199,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: September 2014
+Revised: January 2015
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2014 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2015 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-13 IT5060AAI052014
+75461-14 IT5060ABA212015
 
-75457-13 IT5400X
+75457-14 IT5400Y
 
-301841-08 IT5624L
+301841-09 IT5624M

@@ -10,7 +10,7 @@
 | CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: | Consider reducing dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or ketoconazole. Dose adjustment is not necessary when co-administered with other P-gp inhibitors |  |
 | CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
 | Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl >30 mL/min: | 150 mg twice daily |
-| CrCl <30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
+| CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
 | CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
@@ -19,10 +19,15 @@ For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose o
 For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with a CrCl <15 mL/min or on dialysis cannot be provided.
 
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+Treatment of Deep Venous Thrombosis and Pulmonary Embolism
 
 For patients with CrCl >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, after 5-10 days of parenteral anticoagulation.
-Dosing recommendations for patients with a CrCl <30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+
+For patients with CrCl >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily after previous treatment.
+Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.2 Dosing Adjustments
 
@@ -40,7 +45,7 @@ Consider reducing the dose of PRADAXA to 75 mg twice daily [see Warnings and Pre
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
-Dosing recommendations for patients with CrCl <30 mL/min cannot be provided.
+Dosing recommendations for patients with CrCl ≤30 mL/min cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Instructions to Patients

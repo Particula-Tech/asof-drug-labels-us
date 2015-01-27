@@ -43,7 +43,7 @@ Adjust dose appropriately in patients with renal impairment receiving concomitan
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
-Patients with severe renal impairment (CrCL <30 mL/min) were excluded from RE-COVER.
+Patients with severe renal impairment (CrCl ≤30 mL/min) were excluded from RE-COVER.
 
-Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot be provided.
+Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
 Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].

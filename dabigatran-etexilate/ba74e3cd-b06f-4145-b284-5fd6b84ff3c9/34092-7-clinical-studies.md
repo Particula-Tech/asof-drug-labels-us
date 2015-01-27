@@ -62,7 +62,7 @@ Figure 3 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics
 
 In RE-LY, a higher rate of clinical myocardial infarction was reported in patients who received PRADAXA (0.7 per 100 patient-years for 150 mg dose) than in those who received warfarin (0.6).
 
-## 14.2 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis (DVT) and Pulmonary Embolism (PE)
+## 14.2 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
 In the randomized, parallel group, double-blind trials, RE-COVER and RE-COVER II, patients with deep vein thrombosis and pulmonary embolism received PRADAXA 150 mg twice daily or warfarin (dosed to target INR of 2 to 3) following initial treatment with an approved parenteral anticoagulant for 5-10 days.
 
@@ -100,7 +100,7 @@ Table 9 Primary Efficacy Endpoint for RE-COVER and RE-COVER II – Modified ITTa
 | aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more event. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |  |
 
 In the randomized, parallel group, double-blind, pivotal trial, RE-MEDY, patients received PRADAXA 150 mg twice daily or warfarin (dosed to target INR of 2 to 3) following 3 to 12 months of treatment with anticoagulation therapy for an acute VTE.
-The median treatment duration during the oral only treatment period was 534 days.
+The median treatment duration during the treatment period was 534 days.
 A total of 2856 patients were treated with a mean age of 54.6 years.
 The patient population was 61% male, and 90.1% white, 7.9% Asian and 2.0% black.
 The concomitant diseases of patients in this trial included hypertension (38.6%), diabetes mellitus (9.0%), coronary artery disease (7.2%), active cancer (4.2%), and gastric or duodenal ulcer (3.8%).
@@ -125,7 +125,7 @@ In a randomized, parallel group, double-blind, pivotal trial, RE-SONATE, patient
 The median treatment duration was 182 days.
 A total of 1343 patients were treated with a mean age of 55.8 years.
 The patient population was 55.5% male, 89.0% white, 9.3% Asian, and 1.7% black.
-The concomitant diseases of patients in this trial included hypertension (38.8%), diabetes mellitus (8.0%), coronary artery disease (6.0%), active cancer (6.0%), gastric or duodenal ulcer (4.5%), and heart failure (4.6%).
+The concomitant diseases of patients in this trial included hypertension (38.8%), diabetes mellitus (8.0%), coronary artery disease (6.0%), history of cancer (6.0%), gastric or duodenal ulcer (4.5%), and heart failure (4.6%).
 Concomitant medications included agents acting on renin-angiotensin system (28.7%), vasodilators (19.4%), beta-blockers (18.5%), serum lipid reducing agents (17.9%), NSAIDs (12.1%), calcium channel blockers (8.9%), aspirin (8.3%), and platelet inhibitors excluding ASA (0.7%).
 Based on the outcome of the primary composite endpoint (fatal PE, unexplained death, or symptomatic non-fatal PE and/or DVT), PRADAXA was superior to placebo (Table 11).
 

@@ -100,7 +100,7 @@ The rate of any gastrointestinal bleeds in patients receiving PRADAXA 150 mg in 
 
 The RE-MEDY and RE-SONATE studies provided safety information on the use of PRADAXA for the reduction in the risk of recurrence of deep vein thrombosis and pulmonary embolism.
 
-RE-MEDY was an active-controlled study (warfarin) in which 1430 patients received PRADAXA 150 mg twice daily following 6 to 18 months of oral anticoagulant regimen.
+RE-MEDY was an active-controlled study (warfarin) in which 1430 patients received PRADAXA 150 mg twice daily following 3 to 12 months of oral anticoagulant regimen.
 Patients in the treatment studies who rolled over into the RE-MEDY study had a combined treatment duration of up to more than 3 years, with mean exposure of 473 days.
 Table 4 shows the number of patients experiencing bleeding events in the study.
 
@@ -128,7 +128,7 @@ Table 4 Bleeding Events in RE-MEDY Treated Patients
 
 In the RE-MEDY study, the rate of any gastrointestinal bleeds in patients receiving PRADAXA 150 mg was 3.1% (2.2% on warfarin).
 
-RE-SONATE was a placebo-controlled study in which 684 patients received PRADAXA 150 mg twice daily following 3 to 6 months of oral anticoagulant regimen.
+RE-SONATE was a placebo-controlled study in which 684 patients received PRADAXA 150 mg twice daily following 6 to 18 months of oral anticoagulant regimen.
 Patients in the treatment studies who rolled over into the RE-SONATE study had combined treatment duration up to 9 months, with mean exposure of 165 days.
 Table 5 shows the number of patients experiencing bleeding events in the study.
 
@@ -138,7 +138,7 @@ Table 5 Bleeding Events in RE-SONATE Treated Patients
 | --- | --- | --- | --- | --- |
 | Patients |  | N=684 | N=659 |  |
 | Major bleeding eventa |  | 2 (0.3) | 0 |  |
-|  | Bleeding in a critical area or organ | 2 (0.3) | 0 |  |
+|  | Bleeding in a critical area or organ | 0 | 0 |  |
 |  | Gastrointestinalb | 2 (0.3) | 0 |  |
 | Clinically relevant non-major bleeding |  | 34 (5.0) | 13 (2.0) | 2.54 (1.34, 4.82) |
 | Any bleeding |  | 72 (10.5) | 40 (6.1) | 1.77 (1.20, 2.61) |
