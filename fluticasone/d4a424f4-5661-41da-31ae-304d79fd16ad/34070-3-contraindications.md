@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-FLONASE Nasal Spray is contraindicated in patients with a hypersensitivity to any of its ingredients.
+FLONASE Nasal Spray is contraindicated in patients with hypersensitivity to any of its ingredients [see Warnings and Precautions (5.3), Description (11)].
