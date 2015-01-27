@@ -21,10 +21,10 @@ These data are consistent with the results of a pooled analysis of smaller, cont
 
 ## Pulmonary Toxicity
 
-There have been post-marketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral Cordarone with or without initial I.V. therapy.
+There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral Cordarone with or without initial I.V. therapy.
 Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
-Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of Cordarone; however, reports suggest that the use of lower loading and maintenance doses of Cordarone are associated with a decreased incidence of Cordarone-induced pulmonary toxicity.
+Postmarketing reports describe cases of pulmonary toxicity in patients treated with low doses of Cordarone; however, reports suggest that the use of lower loading and maintenance doses of Cordarone are associated with a decreased incidence of Cordarone-induced pulmonary toxicity.
 
 Cordarone Tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium-scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
 Therefore, when Cordarone therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
@@ -95,11 +95,6 @@ If the increase exceeds three times normal, or doubles in a patient with an elev
 In a few cases in which biopsy has been done, the histology has resembled that of alcoholic hepatitis or cirrhosis.
 Hepatic failure has been a rare cause of death in patients treated with Cordarone.
 
-## Severe Bullous Reactions
-
-Life-threatening or even fatal cutaneous reactions, Stevens-Johnson syndrome (SJS), Toxic Epidermal Necrolysis (TEN) (See "ADVERSE REACTIONS").
-If symptoms or signs of SJS, TEN (e.g., progressive skin rash often with blisters or mucosal lesions) are present amiodarone treatment should be discontinued immediately.
-
 ## Loss of Vision
 
 Cases of optic neuropathy and/or optic neuritis, usually resulting in visual impairment, have been reported in patients treated with amiodarone.
@@ -160,11 +155,11 @@ Because of its release of inorganic iodine, or perhaps for other reasons, Cordar
 Thyroid function should be monitored prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
 Because of the slow elimination of Cordarone and its metabolites, high plasma iodide levels, altered thyroid function, and abnormal thyroid-function tests may persist for several weeks or even months following Cordarone withdrawal.
 
-Hypothyroidism has been reported in 2 to 4% of patients in most series, but in 8 to 10% in some series.
-This condition may be identified by relevant clinical symptoms and particularly by elevated serum TSH levels.
+Hypothyroidism has been reported in 2 to 10% of patients receiving amiodarone and may be primary or subsequent to resolution of preceding amiodarone-induced hyperthyroidism.
+This condition may be identified by clinical symptoms and elevated serum TSH levels.
+Cases of severe hypothyroidism and myxedema coma, sometimes fatal, have been reported in association with amiodarone therapy.
 In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal.
-Hypothyroidism is best managed by Cordarone dose reduction and/or thyroid hormone supplement.
-However, therapy must be individualized, and it may be necessary to discontinue Cordarone® Tablets in some patients.
+Manage hypothyroidism by reducing the dose of or discontinuing Cordarone and considering the need for thyroid hormone supplement.
 
 Hyperthyroidism occurs in about 2% of patients receiving Cordarone, but the incidence may be higher among patients with prior inadequate dietary iodine intake.
 Cordarone-induced hyperthyroidism usually poses a greater hazard to the patient than hypothyroidism because of the possibility of thyrotoxicosis and/or arrhythmia breakthrough or aggravation, all of which may result in death.
