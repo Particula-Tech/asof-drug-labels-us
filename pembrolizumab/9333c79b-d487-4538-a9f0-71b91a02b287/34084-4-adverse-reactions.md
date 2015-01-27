@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data described in the WARNINGS and PRECAUTIONS section reflect exposure to KEYTRUDA in Trial 1, an uncontrolled, open-label, multiple cohort trial in which 411 patients with unresectable or metastatic melanoma received KEYTRUDA at either 2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks.
 The median duration of exposure to KEYTRUDA was 6.2 months (range 1 day to 24.6 months) with a median of 10 doses (range 1 to 51).
-The study population characteristics were: median age of 61 years (range 18-94), 39% age 65 years or older, 60% male, 97% white, 73% with M1c disease, 8% with brain metastases, 35% with elevated LDH, 54% with prior exposure to ipilimumab, and 47% with two or more prior systemic therapies for advanced or metastatic disease.
+The study population characteristics were: median age of 61 years (range 18 to 94), 39% age 65 years or older, 60% male, 97% white, 73% with M1c disease, 8% with brain metastases, 35% with elevated LDH, 54% with prior exposure to ipilimumab, and 47% with two or more prior systemic therapies for advanced or metastatic disease.
 
 KEYTRUDA was discontinued for adverse reactions in 9% of the 411 patients.
 Adverse reactions, reported in at least two patients, that led to discontinuation of KEYTRUDA were: pneumonitis, renal failure, and pain.
@@ -25,11 +25,12 @@ The most frequent serious adverse drug reactions reported in 2% or more of patie
 
 Table 1 presents adverse reactions identified from analyses of the 89 patients with unresectable or metastatic melanoma who received KEYTRUDA 2 mg/kg every three weeks in one cohort of Trial 1.
 Patients had documented disease progression following treatment with ipilimumab and, if BRAF V600 mutation positive, a BRAF inhibitor.
-This cohort of Trial 1 excluded patients with severe immune-related toxicity related to ipilimumab, defined as any Grade 4 toxicity requiring treatment with corticosteroids or Grade 3 toxicity requiring corticosteroid treatment (greater than 10 mg/day prednisone or equivalent dose) for greater than 12 weeks; a medical condition that required systemic corticosteroids or other immunosuppressive medication; a history of pneumonitis or interstitial lung disease; or any active infection requiring therapy, including HIV or hepatitis B or C. Of the 89 patients in this cohort, the median age was 59 years (range 18-88), 33% were age 65 years or older, 53% were male, 98% were white, 44% had an elevated LDH, 84% had Stage M1c disease, 8% had brain metastases, and 70% received two or more prior therapies for advanced or metastatic disease.
+This cohort of Trial 1 excluded patients with severe immune-related toxicity related to ipilimumab, defined as any Grade 4 toxicity requiring treatment with corticosteroids or Grade 3 toxicity requiring corticosteroid treatment (greater than 10 mg/day prednisone or equivalent dose) for greater than 12 weeks; a medical condition that required systemic corticosteroids or other immunosuppressive medication; a history of pneumonitis or interstitial lung disease; or any active infection requiring therapy, including HIV or hepatitis B or C. Of the 89 patients in this cohort, the median age was 59 years (range 18 to 88), 33% were age 65 years or older, 53% were male, 98% were white, 44% had an elevated LDH, 84% had Stage M1c disease, 8% had brain metastases, and 70% received two or more prior therapies for advanced or metastatic disease.
 The median duration of exposure to KEYTRUDA was 6.2 months (range 1 day to 15.3 months) with a median of nine doses (range 1 to 23).
 Fifty-one percent of patients were exposed to KEYTRUDA for greater than 6 months and 21% for greater than 1 year.
 
-KEYTRUDA was discontinued for adverse reactions in 6% of the 89 patients.The most common adverse reactions (reported in at least 20% of patients) were fatigue, cough, nausea, pruritus, rash, decreased appetite, constipation, arthralgia, and diarrhea.
+KEYTRUDA was discontinued for adverse reactions in 6% of the 89 patients.
+The most common adverse reactions (reported in at least 20% of patients) were fatigue, cough, nausea, pruritus, rash, decreased appetite, constipation, arthralgia, and diarrhea.
 
 Table 1: Adverse Reactions in ≥10% of Patients with Unresectable or Metastatic Melanoma
 
@@ -47,10 +48,10 @@ Table 1: Adverse Reactions in ≥10% of Patients with Unresectable or Metastatic
 | Diarrhea | 20 | 0 |
 | Vomiting | 16 | 0 |
 | Abdominal pain | 12 | 0 |
-| Respiratory, Thoracic And Mediastinal Disorders |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Cough | 30 | 1 |
 | Dyspnea | 18 | 2 |
-| Skin And Subcutaneous Tissue Disorders |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |
 | Pruritus | 30 | 0 |
 | Rash | 29 | 0 |
 | Vitiligo | 11 | 0 |

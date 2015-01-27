@@ -1,5 +1,7 @@
 # MEDICATION GUIDE KEYTRUDA® (key-true-duh) (pembrolizumab) for injection
 
+KEYTRUDA® (key-true-duh) (pembrolizumab) injection
+
 What is the most important information I should know about KEYTRUDA?
 
 KEYTRUDA is a medicine that may treat your melanoma by working with your immune system.
@@ -52,7 +54,7 @@ Call or see your doctor right away if you develop any symptoms of the following 
 Getting medical treatment right away may help keep these problems from becoming more serious.
 
 Your doctor will check you for these problems during treatment with KEYTRUDA.
-Your doctor may treat you with corticosteroid medicines and delay or completely stop treatment with KEYTRUDA, if you have severe side effects.
+Your doctor may treat you with corticosteroid medicines and delay or completely stop treatment with KEYTRUDA if you have severe side effects.
 
 What is KEYTRUDA?
 
@@ -110,8 +112,8 @@ The most common side effects of KEYTRUDA include:
 - rash
 - decreased appetite
 - constipation
-- diarrhea
 - joint pain
+- diarrhea
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -132,7 +134,11 @@ What are the ingredients in KEYTRUDA?
 
 Active ingredient: pembrolizumab
 
-Inactive ingredients: L-histidine, polysorbate-80, sucrose.
+Inactive ingredients:
+
+KEYTRUDA for injection: L-histidine, polysorbate 80, and sucrose.
 May contain hydrochloric acid/sodium hydroxide.
+
+KEYTRUDA injection: L-histidine, polysorbate 80, sucrose, and Water for Injection, USP.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

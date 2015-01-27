@@ -17,3 +17,20 @@ Rx only
 
 Single-use vial.
 Discard unused portion.
+
+# PRINCIPAL DISPLAY PANEL - 100 mg/4 mL Vial Carton
+
+NDC 0006-3026-02
+
+Keytruda® (pembrolizumab) Injection
+
+100 mg/4 mL (25 mg/mL)
+
+For Intravenous Infusion Only
+
+Dispense the enclosed Medication Guide to each patient.
+
+Requires dilution prior to administration.
+
+Rx only Single-use vial.
+Discard unused portion.

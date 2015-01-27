@@ -16,10 +16,10 @@ The peak concentration (Cmax), trough concentration (Cmin), and area under the p
 
 Specific Populations: The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.
 The CL of pembrolizumab increased with increasing body weight; the resulting exposure differences were adequately addressed by the administration of a weight-based dose.
-The following factors had no clinically important effect on the CL of pembrolizumab: age (range 18-94 years), gender, renal impairment, mild hepatic impairment, and tumor burden.
+The following factors had no clinically important effect on the CL of pembrolizumab: age (range 18 to 94 years), gender, renal impairment, mild hepatic impairment, and tumor burden.
 The effect of race could not be assessed due to limited data available in non-White patients.
 
-Renal Impairment: The effect of renal impairment on the CL of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n=210), moderate (eGFR 30 to 59 mL/min/1.73m2; n=43), or severe (eGFR 15 to 29 mL/min/1.73m2; n=2) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73m2; n=221) renal function.
+Renal Impairment: The effect of renal impairment on the CL of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n=210), moderate (eGFR 30 to 59 mL/min/1.73 m2; n=43), or severe (eGFR 15 to 29 mL/min/1.73 m2; n=2) renal impairment compared to patients with normal (eGFR greater than or equal to 90 mL/min/1.73 m2; n=221) renal function.
 No clinically important differences in the CL of pembrolizumab were found between patients with renal impairment and patients with normal renal function [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment: The effect of hepatic impairment on the CL of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild hepatic impairment (TB less than or equal to ULN and AST greater than ULN or TB between 1 and 1.5 times ULN and any AST; n=59) compared to patients with normal hepatic function (TB and AST less than or equal to ULN; n=410).

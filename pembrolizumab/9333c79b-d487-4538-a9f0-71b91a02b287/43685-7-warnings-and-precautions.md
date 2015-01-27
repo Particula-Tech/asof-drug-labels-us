@@ -3,10 +3,10 @@
 ## 5.1 Immune-Mediated Pneumonitis
 
 Pneumonitis occurred in 12 (2.9%) of 411 melanoma patients, including Grade 2 or 3 cases in 8 (1.9%) and 1 (0.2%) patients, respectively, receiving KEYTRUDA in Trial 1.
-The median time to development of pneumonitis was 5 months (range 0.3 weeks-9.9 months).
-The median duration was 4.9 months (range 1 week-14.4 months).
+The median time to development of pneumonitis was 5 months (range 0.3 weeks to 9.9 months).
+The median duration was 4.9 months (range 1 week to 14.4 months).
 Five of eight patients with Grade 2 and the one patient with Grade 3 pneumonitis required initial treatment with high-dose systemic corticosteroids (greater than or equal to 40 mg prednisone or equivalent per day) followed by a corticosteroid taper.
-The median initial dose of high-dose corticosteroid treatment was 63.4 mg/day of prednisone or equivalent with a median duration of treatment of 3 days (range 1-34) followed by a corticosteroid taper.
+The median initial dose of high-dose corticosteroid treatment was 63.4 mg/day of prednisone or equivalent with a median duration of treatment of 3 days (range 1 to 34) followed by a corticosteroid taper.
 Pneumonitis led to discontinuation of KEYTRUDA in 3 (0.7%) patients.
 Pneumonitis completely resolved in seven of the nine patients with Grade 2-3 pneumonitis.
 
@@ -17,9 +17,9 @@ Withhold KEYTRUDA for moderate (Grade 2) pneumonitis, and permanently discontinu
 ## 5.2 Immune-Mediated Colitis
 
 Colitis (including microscopic colitis) occurred in 4 (1%) of 411 patients, including Grade 2 or 3 cases in 1 (0.2%) and 2 (0.5%) patients, respectively, receiving KEYTRUDA in Trial 1.
-The median time to onset of colitis was 6.5 months (range 2.3-9.8).
-The median duration was 2.6 months (range 0.6 weeks-3.6 months).
-All three patients with Grade 2 or 3 colitis were treated with high-dose corticosteroids (greater than or equal to 40 mg prednisone or equivalent per day) with a median initial dose of 70 mg/day of prednisone or equivalent; the median duration of initial treatment was 7 days (range 4-41), followed by a corticosteroid taper.
+The median time to onset of colitis was 6.5 months (range 2.3 to 9.8).
+The median duration was 2.6 months (range 0.6 weeks to 3.6 months).
+All three patients with Grade 2 or 3 colitis were treated with high-dose corticosteroids (greater than or equal to 40 mg prednisone or equivalent per day) with a median initial dose of 70 mg/day of prednisone or equivalent; the median duration of initial treatment was 7 days (range 4 to 41), followed by a corticosteroid taper.
 One patient (0.2%) required permanent discontinuation of KEYTRUDA due to colitis.
 All four patients with colitis experienced complete resolution of the event.
 
@@ -61,14 +61,14 @@ Withhold KEYTRUDA for moderate (Grade 2) nephritis, and permanently discontinue 
 ## 5.6 Immune-Mediated Hyperthyroidism and Hypothyroidism
 
 Hyperthyroidism occurred in 5 (1.2%) of 411 patients, including Grade 2 or 3 cases in 2 (0.5%) and 1 (0.2%) patients, respectively, receiving KEYTRUDA in Trial 1.
-The median time to onset was 1.5 months (range 0.5-2.1).
+The median time to onset was 1.5 months (range 0.5 to 2.1).
 The median duration was 2.8 months (range 0.9 to 6.1).
 One of two patients with Grade 2 and the one patient with Grade 3 hyperthyroidism required initial treatment with high-dose corticosteroids (greater than or equal to 40 mg prednisone or equivalent per day) followed by a corticosteroid taper.
 One patient (0.2%) required permanent discontinuation of KEYTRUDA due to hyperthyroidism.
 All five patients with hyperthyroidism experienced complete resolution of the event.
 
 Hypothyroidism occurred in 34 (8.3%) of 411 patients, including a Grade 3 case in 1 (0.2%) patient, receiving KEYTRUDA in Trial 1.
-The median time to onset of hypothyroidism was 3.5 months (range 0.7 weeks-19 months).
+The median time to onset of hypothyroidism was 3.5 months (range 0.7 weeks to 19 months).
 All but two of the patients with hypothyroidism were treated with long-term thyroid hormone replacement therapy.
 The other two patients only required short-term thyroid hormone replacement therapy.
 No patient received corticosteroids or discontinued KEYTRUDA for management of hypothyroidism.
@@ -96,6 +96,6 @@ Permanently discontinue KEYTRUDA for any severe or Grade 3 immune-mediated adver
 ## 5.8 Embryofetal Toxicity
 
 Based on its mechanism of action, KEYTRUDA may cause fetal harm when administered to a pregnant woman.
-Animal models link the PD-1/PDL-1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.
+Animal models link the PD-1/PD-L1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus.
 Advise females of reproductive potential to use highly effective contraception during treatment with KEYTRUDA and for 4 months after the last dose of KEYTRUDA [see Use in Specific Populations (8.1, 8.8)].

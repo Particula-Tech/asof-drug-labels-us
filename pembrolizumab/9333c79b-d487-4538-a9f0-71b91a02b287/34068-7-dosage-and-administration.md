@@ -32,16 +32,20 @@ Permanently discontinue KEYTRUDA for any of the following:
 
 ## 2.3 Preparation and Administration
 
-Preparation
+Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 
 - Add 2.3 mL of Sterile Water for Injection, USP by injecting the water along the walls of the vial and not directly on the lyophilized powder (resulting concentration 25 mg/mL).
 - Slowly swirl the vial.
   Allow up to 5 minutes for the bubbles to clear.
   Do not shake the vial.
-- Visually inspect the reconstituted solution for particulate matter and discoloration prior to administration.
-  Reconstituted KEYTRUDA is a clear to slightly opalescent, colorless to slightly yellow solution.
-  Discard reconstituted vial if extraneous particulate matter other than translucent to white proteinaceous particles is observed.
-- Withdraw the required volume from the vial(s) of KEYTRUDA and transfer into an intravenous (IV) bag containing 0.9% Sodium Chloride Injection, USP.
+
+Preparation for Intravenous Infusion
+
+- Visually inspect the solution for particulate matter and discoloration prior to administration.
+  The solution is clear to slightly opalescent, colorless to slightly yellow.
+  Discard the vial if visible particles are observed.
+- Dilute KEYTRUDA injection (solution) or reconstituted lyophilized powder prior to intravenous administration.
+- Withdraw the required volume from the vial(s) of KEYTRUDA and transfer into an intravenous (IV) bag containing 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP.
   Mix diluted solution by gentle inversion.
   The final concentration of the diluted solution should be between 1 mg/mL to 10 mg/mL.
 - Discard any unused portion left in the vial.
@@ -50,11 +54,18 @@ Storage of Reconstituted and Diluted Solutions
 
 The product does not contain a preservative.
 
-Store the reconstituted and diluted solutions of KEYTRUDA either:
+Store the reconstituted and diluted solution from the KEYTRUDA 50 mg vial either:
 
-- At room temperature for no more than 4 hours from the time of reconstitution.
+- At room temperature for no more than 6 hours from the time of reconstitution.
   This includes room temperature storage of reconstituted vials, storage of the infusion solution in the IV bag, and the duration of infusion.
 - Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of reconstitution.
+  If refrigerated, allow the diluted solution to come to room temperature prior to administration.
+
+Store the diluted solution from the KEYTRUDA 100 mg/4 mL vial either:
+
+- At room temperature for no more than 6 hours from the time of dilution.
+  This includes room temperature storage of the infusion solution in the IV bag, and the duration of infusion.
+- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of dilution.
   If refrigerated, allow the diluted solution to come to room temperature prior to administration.
 
 Do not freeze.

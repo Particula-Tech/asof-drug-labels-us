@@ -7,7 +7,7 @@ Pregnancy Category D.
 Risk Summary
 
 Based on its mechanism of action, KEYTRUDA may cause fetal harm when administered to a pregnant woman.
-Animal models link the PD-1/PDL-1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.
+Animal models link the PD-1/PD-L1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus.
 
 Animal Data
