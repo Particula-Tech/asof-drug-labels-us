@@ -1,20 +1,24 @@
 # WARNINGS
 
-1.Cardiac Conduction.
+1.
+Cardiac Conduction.
 Diltiazem prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (six of 1243 patients for 0.48%).
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
 A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem (see ADVERSE REACTIONS).
 
-2.Congestive Heart Failure.
+2.
+Congestive Heart Failure.
 Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt).
 Experience with the use of diltiazem alone or in combination with beta-blockers in patients with impaired ventricular function is very limited.
 Caution should be exercised when using the drug in such patients.
 
-3.Hypotension.
+3.
+Hypotension.
 Decreases in blood pressure associated with diltiazem therapy may occasionally result in symptomatic hypotension.
 
-4.Acute Hepatic Injury.
+4.
+Acute Hepatic Injury.
 In rare instances, significant elevations in enzymes such as alkaline phosphatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted.
 These reactions have been reversible upon discontinuation of drug therapy.
 The relationship to diltiazem is uncertain in most cases, but probable in some (see PRECAUTIONS).
@@ -51,9 +55,9 @@ When used concomitantly, anesthetics and calcium blockers should be titrated car
 
 ### Benzodiazepines
 
-Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3 to 4 fold and the Cmax by 2 fold, compared to placebo.
-The elimination half-life of midazolam and triazolam also increased (1.5 to 2.5 fold) during coadministration with diltiazem.
-These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
+Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
+The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
+These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g.,prolonged sedation) of both midazolam and triazolam.
 
 ### Beta-Blockers
 
@@ -66,7 +70,7 @@ If combination therapy is initiated or withdrawn in conjunction with propranolol
 
 ### Buspirone
 
-In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5 fold and Cmax 4.1 fold compared to placebo.
+In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
 The T1/2 and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
 Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
@@ -120,10 +124,10 @@ When possible, use a non-CYP3A4-metabolized statin together with diltiazem; othe
 
 In a healthy volunteer cross-over study (N = 10), coadministration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5 fold increase in mean simvastatin AUC versus simvastatin alone.
 Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
-Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8 to 9 fold mean increase in simvastatin AUC can be expected.
+Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
 If coadministration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
 
-In a ten-subject randomized, open label, 4 way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3 to 4 fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In a ten-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
 In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
@@ -162,3 +166,8 @@ Safety and effectiveness in pediatric patients have not been established.
 Clinical studies of diltiazem did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Information for Patients
+
+Swallow diltiazem tablets whole; do not split, crush, or chew.
+The medication in diltiazem tablets is formulated to slowly release.

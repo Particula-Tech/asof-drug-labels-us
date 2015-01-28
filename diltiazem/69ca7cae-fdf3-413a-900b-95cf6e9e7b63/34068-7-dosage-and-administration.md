@@ -10,7 +10,7 @@ If the drug must be used in such patients, titration should be carried out with 
 
 ## Concomitant Use With Other Cardiovascular Agents
 
-1. Sublingual NTG may be taken as required to abort acute anginal attacks during diltiazem hydrochloride tablet therapy.
-2. Prophylactic Nitrate Therapy: Diltiazem hydrochloride tablets may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
-3. Beta-blockers.
-   (See WARNINGS and PRECAUTIONS.)
+- 1.Sublingual NTG may be taken as required to abort acute anginal attacks during diltiazem hydrochloride tablet therapy.
+- 2.Prophylactic Nitrate Therapy: Diltiazem hydrochloride tablets may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
+- 3.Beta-blockers.
+  (See WARNINGS and PRECAUTIONS.)Swallow diltiazem tablets whole; do not split, crush, or chew the tablets.
