@@ -148,7 +148,7 @@ This Medication Guide summarizes the most important information about gabapentin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about gabapentin that was written for healthcare professionals.
 
-For more information go to http:// greenstonellc.com. or call 1-800-438-1985.
+For more information go to http://www.greenstonellc.com or call 1-800-438-1985.
 
 What are the ingredients in gabapentin?
 
@@ -169,4 +169,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0437-7.0 December 2014
+LAB-0437-8.0 January 2015
