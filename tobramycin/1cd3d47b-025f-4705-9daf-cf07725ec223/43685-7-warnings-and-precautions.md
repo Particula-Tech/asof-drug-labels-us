@@ -23,7 +23,7 @@ Nephrotoxicity was not seen during BETHKIS clinical studies but has been associa
 If nephrotoxicity occurs in a patient receiving BETHKIS, therapy should be discontinued until serum concentrations fall below 2 mcg/mL.
 
 Twenty-six (14%) BETHKIS patients and 15 (13%) placebo patients had increases in serum creatinine of at least 50% over baseline.
-Follow-up values were obtained for 17 of the 26 BETHKIS patients, all of which decreased to serum creatinine values that were within the upper limit of normal.
+Follow-up values were obtained for 17 of the 26 BETHKIS patients, all of which decreased to serum creatinine values that were within normal laboratory ranges.
 Patients who experience an increase in serum creatinine during treatment with BETHKIS should have their renal function closely monitored.
 
 ## 5.3 Neuromuscular Disorders

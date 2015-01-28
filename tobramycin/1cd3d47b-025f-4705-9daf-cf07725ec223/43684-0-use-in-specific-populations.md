@@ -32,6 +32,6 @@ The safety and efficacy of BETHKIS have not been studied in adult cystic fibrosi
 
 Tobramycin is primarily excreted unchanged in the urine and renal function is expected to affect the exposure of tobramycin.
 The risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Patients with serum creatinine > 2mg/dL and blood urea nitrogen (BUN) > 40mg/dL have not been included in clinical studies and there are no data in this population to support a recommendation for or against dose adjustment (see WARNINGS AND PRECAUTIONS (5.2, 5.5)).
+Patients with serum creatinine > 2mg/dL and blood urea nitrogen (BUN) > 40mg/dL have not been included in clinical studies and there are no data in this population to support a recommendation for or against dose adjustment [See WARNINGS AND PRECAUTIONS (5.2, 5.5)].
 
 Serum concentrations of tobramycin in patients with renal dysfunction, or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician.

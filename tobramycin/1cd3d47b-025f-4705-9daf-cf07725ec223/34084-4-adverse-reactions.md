@@ -28,7 +28,7 @@ Of these, 3 patients in the BETHKIS group (1.9%) compared to 2 patients in the p
 The most common TEAEs causing patients to discontinue from the study drug are respiratory, thoracic, and mediastinal disorders.
 
 The most common adverse experiences reported were respiratory disorders, consistent with the underlying disease in the patient population being evaluated and these were similarly distributed between both BETHKIS- and placebo-treated patients.
-The following adverse reactions were more commonly reported in ≥ 2% of the BETHKIS-treated patients compared to the placebo-treated patients: decreased forced expiratory volume, rales, red blood cell sedimentation rate increased, and dysphonia (Table 1).
+The following adverse reactions were reported in at least 5% of Bethkis-treated patients and at rates ≥ 2% more common compared to the placebo-treated patients: decreased forced expiratory volume, rales, red blood cell sedimentation rate increased, and dysphonia (Table 1).
 
 Table 1: Patients with Selected Treatment-Emergent Adverse Reactions Occurring in ≥ 2% of BETHKIS Patients
 

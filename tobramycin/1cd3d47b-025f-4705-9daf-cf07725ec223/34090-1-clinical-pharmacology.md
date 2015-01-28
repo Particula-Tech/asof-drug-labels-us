@@ -55,7 +55,7 @@ The MIC should be determined using a standardized procedure.3, 5 Standardized pr
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure requires the use of standardized inoculum concentrations.5,5 This procedure uses paper disks impregnated with 10 mcg of tobramycin to test the susceptibility of bacteria to tobramycin.
+One such standardized procedure requires the use of standardized inoculum concentrations.4,5 This procedure uses paper disks impregnated with 10 mcg of tobramycin to test the susceptibility of bacteria to tobramycin.
 
 Susceptibility Test Interpretive Criteria
 

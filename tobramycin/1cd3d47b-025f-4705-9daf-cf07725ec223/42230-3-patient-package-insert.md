@@ -20,7 +20,7 @@ BETHKIS contains an antibacterial medicine called tobramycin (an aminoglycoside)
 It is not known if BETHKIS is safe and effective:
 
 - in children under 6 years of age
-- in people who have decreased lung volume or an FEV1 less than 40%
+- in people who have decreased lung volume or an FEV1 less than 40% of predicted
 - in people who are colonized with a bacterium called Burkholderia cepacia
 - when used for more than 3 cycles
 
@@ -252,10 +252,10 @@ How should I store BETHKIS?
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured for Cornerstone Therapeutics Inc. by: Catalent Pharma Solutions, LLC, Woodstock, IL 60098
+Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, Illinois 60098
 
 All trademarks referenced herein are the property of their prospective owners.
 
-Issued: 10/2013
+Issued: 12/2014
 
-CTB-006-1013-01-SPL
+CTB-006-0514-02-SPL
