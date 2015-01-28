@@ -27,8 +27,8 @@ Manufactured by: Cosmo S.p.A., Milan, Italy.
 
 UCERIS™ is a trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc. Raleigh, NC 27615
 
-U.S. Patent Nos: 7,410,651; 7,431,943; RE43799; 8,293,273.
+U.S. Patent Nos: 7,410,651; 7,431,943; RE43799; 8,293,273; 8,784,888; and 8,895,064.
 
-© 2013 Santarus, Inc
+© 2013 Santarus, Inc.
 
-Revised: March 2014
+Revised: January 2015

@@ -157,8 +157,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 UCERIS (budesonide) Tablets are manufactured for Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc., 8510 Colonnade Center Drive, Raleigh, NC 27615, USA by: Cosmo S.p.A., Milan, Italy.
 
-UCERIS™ is a trademark of Santarus, Inc.,a wholly owned subsidiary of Salix Pharmaceuticals, Inc. Raleigh, NC 27615
+UCERIS™ is a trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc. Raleigh, NC 27615
 
 © 2013 Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc.
 
-Revised: March 2014
+Revised: January 2015

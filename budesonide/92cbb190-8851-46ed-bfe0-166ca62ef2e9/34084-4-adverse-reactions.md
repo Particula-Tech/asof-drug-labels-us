@@ -85,11 +85,22 @@ Summary of Glucocorticoid Related Effects Over 12-month Treatment (Study 4)
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of oral budesonide.
+In addition to adverse events reported from clinical trials, the following adverse reactions have been identified during postapproval use of oral budesonide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting or causal connection to UCERIS, or a combination of these factors.
+
+Gastrointestinal Disorders: diarrhea, rectal bleeding
+
+General Disorders and Administrative Site Conditions: peripheral edema
 
 Immune System Disorders: anaphylactic reactions
 
-Nervous System Disorders: benign intracranial hypertension
+Musculoskeletal and Connective Tissue Disorders: muscle cramps/spasms
+
+Nervous System Disorders: benign intracranial hypertension, dizziness
 
 Psychiatric Disorders: mood swings
+
+Skin and Subcutaneous Tissue Disorders: rash
+
+Vascular Disorders: increased blood pressure

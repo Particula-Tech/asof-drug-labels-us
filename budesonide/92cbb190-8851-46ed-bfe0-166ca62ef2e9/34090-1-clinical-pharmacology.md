@@ -14,7 +14,7 @@ Budesonide has a high glucocorticoid effect and a weak mineralocorticoid effect,
 Treatment with systemically active GCS, including UCERIS, is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
 Markers, indirect and direct, of this are cortisol levels in plasma or urine and response to ACTH stimulation.
 
-In a study assessing the response to ACTH stimulation test in patients treated with Uceris 9 mg once daily, the proportion of patients with abnormal response was 47% at 4 weeks and 79% at 8 weeks.
+In a study assessing the response to ACTH stimulation test in patients treated with UCERIS 9 mg once daily, the proportion of patients with abnormal response was 47% at 4 weeks and 79% at 8 weeks.
 
 ## 12.3 Pharmacokinetics
 
