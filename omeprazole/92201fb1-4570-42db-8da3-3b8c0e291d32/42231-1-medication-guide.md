@@ -4,8 +4,8 @@ MEDICATION GUIDE
 
 Omeprazole Delayed-Release Capsules, USP
 
-CIA77775E Rev.
-5E 05/2014
+CIA77775F Rev.
+6E 01/2015
 
 Read this Medication Guide before you start taking Omeprazole Delayed-Release Capsules and each time you get a refill.
 There may be new information.
@@ -107,6 +107,7 @@ Especially tell your doctor if you take:
 - rifampin (Rimactane, Rifater, Rifamate)
 - erlotinib (Tarceva)
 - methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -142,6 +143,10 @@ Omeprazole Delayed-Release Capsules can cause serious side effects, including:
   Using Omeprazole Delayed-Release Capsules for a long period of time may increase the risk of inflammation to your stomach lining.
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- Vitamin B-12 deficiency.
+  Omeprazole Delayed-Release Capsules reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on Omeprazole Delayed-Release Capsules for a long time (more than 3 years).
 - Low magnesium levels in your body.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
@@ -208,7 +213,7 @@ This Medication Guide summarizes the most important information about Omeprazole
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 
-For more information, go to www.kremersurban.com or call 1-866-822-0068.
+For more information, go to www.kremersurban.com or call 1-844-599-CARE.
 
 Instructions for Use
 

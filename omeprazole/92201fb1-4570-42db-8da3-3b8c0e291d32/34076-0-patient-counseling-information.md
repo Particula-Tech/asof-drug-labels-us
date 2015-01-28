@@ -14,6 +14,6 @@ The microtablets should not be chewed or crushed.
 The microtablets/applesauce mixture should not be stored for future use.
 
 Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.3)].
+This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.5)].
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.8)].

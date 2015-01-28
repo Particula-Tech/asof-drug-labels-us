@@ -25,7 +25,7 @@ Omeprazole Delayed-Release Capsules is indicated for short-term treatment (4-8 w
 
 Symptomatic GERD
 
-Omeprazole Delayed-Release Capsules is indicated for the treatment of heartburn and other symptoms associated with GERD in pediatric patients and adults.
+Omeprazole Delayed-Release Capsules is indicated for the treatment of heartburn and other symptoms associated with GERD in pediatric patients and adults for up to 4 weeks.
 
 Erosive Esophagitis
 

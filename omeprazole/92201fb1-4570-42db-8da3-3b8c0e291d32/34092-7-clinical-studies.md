@@ -88,7 +88,7 @@ Table 6 H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of
 |  | Omeprazole Delayed-Release Capsules +Clarithromycin | Omeprazole Delayed-Release Capsules | Clarithromycin |
 | --- | --- | --- | --- |
 | U.S. Studies |  |  |  |
-| Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05)Statistically significantly higher than omeprazole monotherapy (p < 0.05) (n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
+| Study 4 | 74 [60, 85] Statistically significantly higher than omeprazole monotherapy (p < 0.05)Combined results for Omeprazole Delayed-Relerase Capsules + clarithromycin and Omeprazole Delayed-Release Capsules treatment arms (n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
 | Study 5 | 64 [51, 76] (n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
 | Non U.S. Studies |  |  |  |
 | Study 6 | 83 [71, 92] (n=60) | 1[0, 7] (n=74) | N/A |
@@ -105,7 +105,7 @@ Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Pat
 | U.S. StudiesCombined results for Omeprazole Delayed-Release Capsules + clarithromycin, Omeprazole Delayed-Release Capsules, and clarithromycin treatment arms 6 months post-treatment |  |  |
 | Study 4 | 35 (n=49) | 60 (n=88) |
 | Study 5 | 8 (n=53) | 60 (n=106) |
-| Non U.S. StudiesCombined results for Omeprazole Delayed-Relerase Capsules + clarithromycin and Omeprazole Delayed-Release Capsules treatment arms 6 months post-treatment |  |  |
+| Non U.S. Studies 6 months post-treatment |  |  |
 | Study 6 | 5 (n=43) | 46 (n=78) |
 | Study 7 | 6 (n=53) | 43 (n=107) |
 | 12 months post-treatment |  |  |
@@ -147,8 +147,8 @@ Results are shown below.
 
 |  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Omeprazole Delayed-Release Capsules 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
-| All patients | 46 (p < 0.005) versus 10 mg,(p < 0.005) versus placebo (n=205) | 31 (n=199) | 13 (n=105) |
-| Patients with confirmed GERD | 56, (n=115) | 36 (n=109) | 14 (n=59) |
+| All patients | 46 (p < 0.005) versus 10 mg (n=205) | 31 (p < 0.005) versus placebo (n=199) | 13 (n=105) |
+| Patients with confirmed GERD | 56 (n=115) | 36 (n=109) | 14 (n=59) |
 
 ## 14.4 Erosive Esophagitis
 
@@ -188,7 +188,7 @@ Life Table Analysis
 
 |  | Omeprazole Delayed-Release Capsules 20 mg once daily (n=131) | Omeprazole Delayed-Release Capsules 10 mg once daily (n=133) | Ranitidine 150 mg twice daily (n=128) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 12 months | 77(p = 0.01) Omeprazole Delayed-Release Capsules 20 mg once daily, versus Omeprazole Delayed-Release Capsules 10 mg once daily or Ranitidine | 58(p= 0.03) Omeprazole Delayed-Release Capsules 10 mg once daily, versus Ranitidine | 46 |
+| Percent in endoscopic remission at 12 months | 77(p = 0.01) Omeprazole Delayed-Release Capsules 20 mg once daily, versus Omeprazole Delayed-Release Capsules 10 mg once daily or Ranitidine | 58 | 46 |
 
 In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing, 20 mg daily of Omeprazole Delayed-Release Capsules was effective, while 10 mg did not demonstrate effectiveness.
 
