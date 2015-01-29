@@ -25,6 +25,6 @@ The plasma-to-blood concentration ratio was almost unity indicating that there i
 Acetaminophen: Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues.
 The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
-Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
+Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amountsof other conjugates and unchanged drug.
 
 See OVERDOSAGE for toxicity information.

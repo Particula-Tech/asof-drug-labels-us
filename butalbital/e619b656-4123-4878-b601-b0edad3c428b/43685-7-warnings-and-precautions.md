@@ -16,6 +16,11 @@ The risk of acute liver failure is higher in individuals with underlying liver d
 Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen.
 Instruct patients to seek medical attention immediately upon ingestion of more than 4000 milligrams of acetaminophen per day, even if they feel well.
 
+## Serious Skin Reactions
+
+Rarely, acetaminophen may cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+Patients should be informed about the signs of serious skin reactions, and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+
 ## Hypersensitivity/anaphylaxis
 
 There have been post-marketing reports of hypersensitivity and anaphylaxis associated with use of acetaminophen.
@@ -32,9 +37,9 @@ Butalbital and acetaminophen tablets should be prescribed with caution in certai
 
 ## Information for Patients/Caregivers
 
-- Do not take butalbital and acetaminophen tablets if you are allergic to any of its ingredients.
-- If you develop signs of allergy such as a rash or difficulty breathing, stop taking butalbital and acetaminophen tablets and contact your healthcare provider immediately.
-- Do not take more than 4000 milligrams of acetaminophen per day.
+- •Do not take butalbital and acetaminophen tablets if you are allergic to any of its ingredients.
+- •If you develop signs of allergy such as a rash or difficulty breathing, stop taking butalbital and acetaminophen tablets and contact your healthcare provider immediately.
+- •Do not take more than 4000 milligrams of acetaminophen per day.
   Call your doctor if you took more than the recommended dose.
 
 This product may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
@@ -53,7 +58,7 @@ In patients with severe hepatic or renal disease, effects of therapy should be m
 
 The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors.
 
-Butalbital and acetaminophen may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression.
+Butalbital and acetaminophen may enhance the effects of:other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression.
 
 ## Drug/Laboratory Test Interactions
 

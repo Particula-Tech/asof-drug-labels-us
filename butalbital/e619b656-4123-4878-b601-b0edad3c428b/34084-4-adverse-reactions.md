@@ -28,4 +28,4 @@ Several cases of dermatological reactions, including toxic epidermal necrolysis 
 The following adverse drug events may be borne in mind as potential effects of the components of this product.
 Potential effects of high dosage are listed in the OVERDOSAGE section.
 
-Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis.
+Acetaminophen:allergic reactions, rash, thrombocytopenia, agranulocytosis.
