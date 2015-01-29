@@ -31,14 +31,14 @@ Table 3 Mean Change from Baseline in the Number of Moderate to Severe Vasomotor 
 | Placebo | N | 83 | 71 | 65 |
 | Mean | -5.11 | -5.98 | -5.98 |  |
 | SD | 7.43 | 8.63 | 9.69 |  |
-| P-value | < 0.002 |  | < 0.003 |  |
+| p-value | < 0.002 |  | < 0.003 |  |
 
 A second active-control trial of 193 randomized subjects was supportive of the placebo-controlled trial.
 
 ## 14.2 Effects on Bone Mineral Density
 
-A 2-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (that is, lumbar spine bone mineral density > 0.9 gm/ cm2) women at 10 study centers in the United States.
-A total of 129 subjects were allocated to receive active treatment with four different doses of estradiol patches (7.75, 15.5, 18.6, 31 cm2) and 46 subjects were allocated to receive placebo patches.
+A 2-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (that is, lumbar spine bone mineral density > 0.9 gm/ cm2) women at ten study centers in the United States.
+A total of 129 subjects were allocated to receive active treatment with four different doses of estradiol patches (7.75 cm2, 15.5 cm2, 18.6 cm2, 31 cm2) and 46 subjects were allocated to receive placebo patches.
 Seventy-seven percent of the randomized subjects (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of anterior-posterior (A-P) spine BMD, the primary efficacy variable (see Figure 3).
 A statistically significant overall treatment effect at each timepoint was noted, implying bone preservation for all active treatment groups at all timepoints, as opposed to bone loss for placebo at all timepoints.
 
@@ -81,7 +81,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Overall mortality, | 1.04 (0.88-1.22) | 79 | 75 |
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
 
-For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risks per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non- significant five events per 10,000 women-years.
+For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risks per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was seven fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non- significant five events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
@@ -99,7 +99,7 @@ The WHI estrogen plus progestin substudy was stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the "global index".
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
 
-For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
+For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were seven more CHD events, eight more strokes, ten more PEs, and eight more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were six fewer colorectal cancers and five fewer hip fractures.
 
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.5 percent Black, 5.4 percent Hispanic, 3.9 percent Other), are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.

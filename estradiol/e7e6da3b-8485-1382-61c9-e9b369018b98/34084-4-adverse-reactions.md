@@ -27,7 +27,7 @@ Table 1 Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 Pe
 | Respiratory System URTI Pharyngitis Sinusitis Rhinitis | 15%6%0.5%4%2% | 26%17%3%4%4% | 29%17%7%5%6% | 14%8%3%3%1% |
 | Skin and Appendages Pruritus | 19%0.5% | 12%6% | 12%3% | 15%6% |
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of estradiol transdermal system continuous delivery (once-weekly).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
