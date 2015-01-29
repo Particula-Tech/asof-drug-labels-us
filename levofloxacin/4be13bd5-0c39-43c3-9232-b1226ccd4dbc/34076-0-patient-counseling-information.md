@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-Approved Medication Guide (17.6)
 
@@ -109,6 +109,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: August 2014 ID: #238198
+Revised: February 2015 ID: #240432
 
 ## 17.6 FDA-Approved Medication Guide

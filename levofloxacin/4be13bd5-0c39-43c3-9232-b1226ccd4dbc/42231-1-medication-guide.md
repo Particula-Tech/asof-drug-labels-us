@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Levofloxacin Tablets
+Levofloxacin (LEE-voe-FLOX-a-sin) Tablets USP
 
 Rx Only
 
@@ -386,6 +386,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: August 2014 ID: #238199
+Revised: February 2015 ID: #240433
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

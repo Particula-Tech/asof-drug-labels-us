@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 In the event of an acute overdosage, the stomach should be emptied.
 The patient should be observed and appropriate hydration maintained.
