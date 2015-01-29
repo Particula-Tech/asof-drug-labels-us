@@ -13,3 +13,5 @@ Losartan potassium tablets USP are available as tablets for oral administration 
 The opadry white contains hydroxypropyl cellulose, hypromellose and titanium dioxide.
 
 Losartan potassium 25 mg, 50 mg and 100 mg tablets contain potassium in the following amounts: 2.12 mg (0.054 mEq), 4.24 mg (0.108 mEq) and 8.48 mg (0.216 mEq), respectively.
+
+USP dissolution test for losartan potassium tablets USP is pending.

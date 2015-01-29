@@ -16,7 +16,7 @@ Hydrochlorothiazide has been shown to have an additive effect (see CLINICAL PHAR
 
 No initial dosage adjustment is necessary for elderly patients or for patients with renal impairment, including patients on dialysis.
 
-Pediatric Hypertensive Patients ≥6 years of age
+Pediatric Hypertensive Patients greater than or equal to 6 years of age
 
 The usual recommended starting dose is 0.7 mg/kg once daily (up to 50 mg total) administered as a tablet or a suspension (see Preparation of Suspension).
 Dosage should be adjusted according to blood pressure response.

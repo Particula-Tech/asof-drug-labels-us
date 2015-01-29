@@ -8,7 +8,7 @@ United States
 
 MADE IN INDIA.
 
-Revised: May 2014 ID# 237496
+Revised: February 2015 ID# 240069
 
 DISCLAIMER: **Trademark of Paddock Laboratories, Inc.
 
@@ -82,6 +82,7 @@ Especially tell your doctor if you are taking:
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
+- lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors.
 - other medicines to reduce blood pressure.
 
@@ -166,4 +167,4 @@ United States
 
 MADE IN INDIA
 
-Revised: May 2014 ID# 237497
+Revised: February 2015 ID# 240070
