@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Hepatotoxicity
 
@@ -61,4 +61,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: September 2014 ID #238567
+Revised: February 2015 ID #240254

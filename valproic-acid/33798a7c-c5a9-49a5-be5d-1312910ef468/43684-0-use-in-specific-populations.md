@@ -75,12 +75,12 @@ In one study using NAAED Pregnancy Registry data, 16 cases of major malformation
 Three of the 16 cases were neural tube defects; the remaining cases included craniofacial defects, cardiovascular malformations and malformations of varying severity involving other body systems.
 The NAAED Pregnancy Registry has reported a major malformation rate of 10.7% (95% C.I.
 6.3% to 16.9%) in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy (dose range 500-2,000 mg/day).
-The major malformation rate among the internal comparison group of 1,048 epileptic women who received any other anti-epileptic drug monotherapy during pregnancy was 2.9% (95% CI 2.0% to 4.1%).
+The major malformation rate among the internal comparison group of 1,048 epileptic women who received any other antiepileptic drug monotherapy during pregnancy was 2.9% (95% CI 2.0% to 4.1%).
 These data show a four-fold increased risk for any major malformation (Odds Ratio 4.0; 95% CI 2.1 to 7.4) following valproate exposure in utero compared to the risk following exposure in utero to any other antiepileptic drug monotherapy.
 
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero.
 The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
-94 to 101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
+94 to 101]) than children with prenatal exposure to the other anti-epileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105 to 110]), carbamazepine (105 [95% C.I.
 102 to 108]) and phenytoin (108 [95% C.I.
 104 to 112]).
@@ -121,14 +121,14 @@ Pediatric Clinical Trials
 
 Divalproex sodium was studied in seven pediatric clinical trials.
 
-Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium) and migraine (304 patients aged 12 to 17 years, 231 of whom were divalproex sodium).
+Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium extended-release tablets for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium extended-release tablets) and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium extended-release tablets).
 Efficacy was not established for either the treatment of migraine or the treatment of mania.
 The most common drug-related adverse reactions (reported >5% and twice the rate of placebo) reported in the controlled pediatric mania study were nausea, upper abdominal pain, somnolence, increased ammonia, gastritis and rash.
 
 The remaining five trials were long term safety studies.
-Two six-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium for the indication of mania (292 patients aged 10 to 17 years).
-Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium for the indication of migraine (353 patients aged 12 to 17 years).
-One twelve-month study was conducted to evaluate the safety of divalproex sodium Sprinkle Capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
+Two six-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of mania (292 patients aged 10 to 17 years).
+Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of migraine (353 patients aged 12 to 17 years).
+One twelve-month study was conducted to evaluate the safety of divalproex sodium sprinkle capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
 
 In these seven clinical trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see ADVERSE REACTIONS (6)].
 

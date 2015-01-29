@@ -8,7 +8,7 @@ The effectiveness of divalproex sodium delayed-release tablets for the treatment
 In addition, they had a history of failing to respond to or not tolerating previous lithium carbonate treatment.
 Divalproex sodium delayed-release tablets were initiated at a dose of 250 mg tid and adjusted to achieve serum valproate concentrations in a range of 50 to 100 mcg/mL by day 7.
 Mean divalproex sodium delayed-release tablet doses for completers in this study were 1,118, 1,525, and 2,402 mg/day at Days 7, 14, and 21, respectively.
-Patients were assessed on the Young Mania Rating Scale (YMRS; score ranges from 0-60), an augmented Brief Psychiatric Rating Scale (BPRS-A), and the Global Assessment Scale (GAS).
+Patients were assessed on the Young Mania Rating Scale (YMRS; score ranges from 0 to 60), an augmented Brief Psychiatric Rating Scale (BPRS-A), and the Global Assessment Scale (GAS).
 Baseline scores and change from baseline in the Week 3 endpoint (last-observation-carry-forward) analysis were as follows:
 
 Table 6.
@@ -99,7 +99,7 @@ The following Table presents the findings for all patients randomized who had at
 Table 9.
 Monotherapy Study Median Incidence of CPS per 8 Weeks
 
-| Treatment | Number of Patients | Baseline Incidence | Randomized Incidence |
+| Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
 | High dose Divalproex sodium delayed-release tablets | 131 | 13.2 | 10.7* |
 | Low dose Divalproex sodium delayed-release tablets | 134 | 14.2 | 13.8 |

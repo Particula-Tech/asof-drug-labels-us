@@ -1,6 +1,8 @@
 # SPL MEDGUIDE
 
-Divalproex Sodium Delayed-Release Tablets USP
+Divalproex Sodium (dye val' proe ex soe' dee um)
+
+Delayed-Release Tablets USP
 
 125 mg, 250 mg and 500 mg
 
@@ -267,4 +269,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: September 2014 ID #238568
+Revised: February 2015 ID #240255

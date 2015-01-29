@@ -2,6 +2,19 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Hepatic failure[see WARNINGS AND PRECAUTIONS (5.1)]
+- Birth defects[see WARNINGS AND PRECAUTIONS (5.2)]
+- Decreased IQ following in utero exposure[see WARNINGS AND PRECAUTIONS (5.3)]
+- Pancreatitis[see WARNINGS AND PRECAUTIONS (5.5)]
+- Hyperammonemic encephalopathy[see WARNINGS AND PRECAUTIONS (5.6), (5.9), (5.10)]
+- Suicidal behavior and ideation[see WARNINGS AND PRECAUTIONS(5.7)]
+- Thrombocytopenia[seeWARNINGS AND PRECAUTIONS(5.8)]
+- Hypothermia[seeWARNINGS AND PRECAUTIONS(5.11)]
+- Multi-organ hypersensitivity reactions[seeWARNINGS AND PRECAUTIONS(5.12)]
+- Somnolence in the elderly[seeWARNINGS AND PRECAUTIONS(5.14)]
+
 ## 6.1 Mania
 
 The incidence of treatment-emergent events has been ascertained based on combined data from two three week placebo-controlled clinical trials of divalproex sodium delayed-release tablets in the treatment of manic episodes associated with bipolar disorder.
@@ -298,6 +311,10 @@ Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-J
 Psychiatric
 
 Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
+
+Neurologic
+
+There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal
 
