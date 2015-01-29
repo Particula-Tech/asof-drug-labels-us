@@ -9,13 +9,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions were reported by the treating physician to have a possible or probable relationship to drug in 1% or more of lansoprazole-treated patients and occurred at a greater rate in lansoprazole-treated patients than placebo-treated patients in Table 1.
 
-Table 1.
-Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
+Table 1: Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
-|  | Lansoprazole | Placebo |
+| Body System/Adverse Event | Lansoprazole (N = 2,768) % | Placebo (N = 1,023) % |
 | --- | --- | --- |
-|  | (N = 2,768) | (N = 1,023) |
-| Body System/Adverse Event | % | % |
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |
 | Digestive System |  |  |
@@ -24,14 +21,14 @@ Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-T
 | Nausea | 1.3 | 1.2 |
 
 Headache was also seen at greater than 1% incidence but was more common on placebo.
-The incidence of diarrhea was similar between patients who received placebo and patients who received 15 mg and 30 mg of lansoprazole, but higher in the patients who received 60 mg of lansoprazole (2.9%, 1.4%, 4.2% and 7.4%, respectively).
+The incidence of diarrhea was similar between patients who received placebo and patients who received 15 mg and 30 mg of lansoprazole, but higher in the patients who received 60 mg of lansoprazole (2.9%, 1.4%, 4.2%, and 7.4%, respectively).
 
 The most commonly reported possibly or probably treatment-related adverse event during maintenance therapy was diarrhea.
 
-In the risk reduction study of lansoprazole for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole, misoprostol and placebo was 5%, 22% and 3%, respectively.
+In the risk reduction study of lansoprazole for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole, misoprostol, and placebo was 5%, 22%, and 3%, respectively.
 
 Another study for the same indication, where patients took either a COX-2 inhibitor or lansoprazole and naproxen, demonstrated that the safety profile was similar to the prior study.
-Additional reactions from this study not previously observed in other clinical trials with lansoprazole included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia and renal impairment.
+Additional reactions from this study not previously observed in other clinical trials with lansoprazole included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia, and renal impairment.
 
 Additional adverse experiences occurring in less than 1% of patients or subjects who received lansoprazole in domestic trials are shown below:
 
@@ -57,9 +54,9 @@ Skin and Appendages: acne, alopecia, contact dermatitis, dry skin, fixed eruptio
 
 Special Senses: abnormal vision, amblyopia, blepharitis, blurred vision, cataract, conjunctivitis, deafness, dry eyes, ear/eye disorder, eye pain, glaucoma, otitis media, parosmia, photophobia, retinal degeneration/disorder, taste loss, taste perversion, tinnitus, visual field defect
 
-Urogenital System: abnormal menses, breast enlargement, breast pain, breast tenderness, dysmenorrhea, dysuria, gynecomastia, impotence, kidney calculus, kidney pain, leukorrhea, menorrhagia, menstrual disorder, penis disorder, polyuria, testis disorder, urethral pain, urinary frequency, urinary retention, urinary tract infection, urinary urgency, urination impaired, vaginitis
+Urogenital System: abnormal menses, breast enlargement, breast pain, breast tenderness, dysmenorrhea, dysuria, gynecomastia, impotence, kidney calculus, kidney pain, leukorrhea, menorrhagia, menstrual disorder, penis disorder, polyuria, testis disorder, urethral pain, urinary frequency, urinary retention, urinary tract infection, urinary urgency, urination impaired, vaginitis.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Additional adverse experiences have been reported since lansoprazole has been marketed.
 The majority of these cases are foreign-sourced and a relationship to lansoprazole has not been established.
@@ -72,37 +69,37 @@ Digestive System: hepatotoxicity, pancreatitis, vomiting;
 
 Hemic and Lymphatic System: agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura;
 
-Infections and Infestations: Clostridium difficile associated diarrhea;
+Infections and Infestations:Clostridium difficile associated diarrhea;
 
 Metabolism and Nutritional Disorders: hypomagnesemia;
 
 Musculoskeletal System: bone fracture, myositis;
 
-Skin and Appendages: severe dermatologic reactions including erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis (some fatal);
+Skin and Appendages: severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal);
 
 Special Senses: speech disorder;
 
-Urogenital System: interstitial nephritis, urinary retention
+Urogenital System: interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no adverse reactions peculiar to these drug combinations were observed.
-Adverse reactions that have occurred have been limited to those that had been previously reported with lansoprazole, amoxicillin or clarithromycin.
+Adverse reactions that have occurred have been limited to those that had been previously reported with lansoprazole, amoxicillin, or clarithromycin.
 
 ### Triple Therapy
 
-#### Lansoprazole/amoxicillin/clarithromycin
+#### Lansoprazole/Amoxicillin/Clarithromycin
 
-The most frequently reported adverse reactions for patients who received triple therapy for 14 days were diarrhea (7%), headache (6%) and taste perversion (5%).
+The most frequently reported adverse reactions for patients who received triple therapy for 14 days were diarrhea (7%), headache (6%), and taste perversion (5%).
 There were no statistically significant differences in the frequency of reported adverse reactions between the 10- and 14-day triple therapy regimens.
 No treatment-emergent adverse reactions were observed at significantly higher rates with triple therapy than with any dual therapy regimen.
 
 ### Dual Therapy
 
-#### Lansoprazole/amoxicillin
+#### Lansoprazole/Amoxicillin
 
-The most frequently reported adverse reactions for patients who received lansoprazole 3 times daily plus amoxicillin 3 times daily dual therapy were diarrhea (8%) and headache (7%).
-No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole 3 times daily plus amoxicillin 3 times daily dual therapy than with lansoprazole alone.
+The most frequently reported adverse reactions for patients who received lansoprazole three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
+No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole three times daily plus amoxicillin three times daily dual therapy than with lansoprazole alone.
 
 For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the ADVERSE REACTIONS section of their package inserts.
 
@@ -114,7 +111,7 @@ Abnormal liver function tests, increased SGOT (AST), increased SGPT (ALT), incre
 Urine abnormalities such as albuminuria, glycosuria, and hematuria were also reported.
 Additional isolated laboratory abnormalities were reported.
 
-In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2,677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than 3 times the upper limit of normal range at the final treatment visit.
+In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2,677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
 None of these patients who received lansoprazole reported jaundice at any time during the study.
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.

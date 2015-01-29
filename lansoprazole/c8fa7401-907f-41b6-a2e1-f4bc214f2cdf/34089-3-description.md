@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in lansoprazole delayed-release capsules, USP is lansoprazole a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
+The active ingredient in lansoprazole delayed-release capsules, USP is lansoprazole, a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl]methyl]sulfinyl]-1H-benzimidazole, a compound that inhibits gastric acid secretion.
 Its molecular formula is C16H14F3N3O2S with a molecular weight of 369.37.
 Lansoprazole has the following structure:
 
@@ -13,8 +13,9 @@ The degradation half-life of the drug substance in aqueous solution at 25°C is 
 
 Lansoprazole is supplied in delayed-release capsules for oral administration.
 
-The delayed-release capsules are available in two dosage strengths: 15 mg and 30 mg of lansoprazole per capsule.
+The delayed-release capsules are available in two dosage strengths: 15 mg and 30 mg of lansoprazole, USP per capsule.
 Each delayed-release capsule contains enteric-coated pellets consisting of 15 mg or 30 mg of lansoprazole (active ingredient) and the following inactive ingredients: colloidal silicon dioxide, corn starch, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, sucrose, sugar spheres, talc and titanium dioxide.
-In addition, the 15 mg gelatin capsule contains FD&C Green No. 3 and FD&C Red No. 40; the 30 mg gelatin capsule contains FD&C Blue No. 1 and FD&C Red No 3; for both strengths the gelatin capsules contain gelatin and titanium dioxide.
-
-The printing ink contains black iron oxide, propylene glycol, shellac and potassium hydroxide.
+The empty hard-shell gelatin capsules contain gelatin and titanium dioxide.
+The empty 15 mg hard-shell gelatin capsule also contains FD&C Green No. 3 and FD&C Red No. 40.
+The empty 30 mg hard-shell gelatin capsule also contains FD&C Blue No. 1 and FD&C Red No 3.
+The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
