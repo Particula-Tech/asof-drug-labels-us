@@ -38,7 +38,7 @@ In the clinical trials, antacids were used concomitantly with lansoprazole.
 | Short-Term Treatment of Symptomatic GERD |  |  |
 | Nonerosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
-| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily |
+| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months. |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than 4 years. |
 
 Patients should be instructed that if a dose is missed, it should be taken as soon as possible.
@@ -56,25 +56,25 @@ Administration Options
 
 Lansoprazole Delayed-Release Capsules - Oral Administration
 
-- Lansoprazole delayed-release capsules should be swallowed whole.
-- Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
-  - Open capsule.
-  - Sprinkle intact granules on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
-  - Swallow immediately.
-- Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
-  - Open capsule.
-  - Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL — approximately 2 ounces).
-  - Mix briefly.
-  - Swallow immediately.
-  - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
+- •Lansoprazole delayed-release capsules should be swallowed whole.
+- •Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
+  - •Open capsule.
+  - •Sprinkle intact granules on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
+  - •Swallow immediately.
+- •Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
+  - •Open capsule.
+  - •Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL - approximately 2 ounces).
+  - •Mix briefly.
+  - •Swallow immediately.
+  - •To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
 Lansoprazole Delayed-Release Capsules - Nasogastric Tube (≥ 16 French) Administration
 
-- For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
-  - Open capsule.
-  - Mix intact granules into 40 mL of apple juice.
+- •For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
+  - •Open capsule.
+  - •Mix intact granules into 40 mL of apple juice.
     DO NOT USE OTHER LIQUIDS.
-  - Inject through the nasogastric tube into the stomach.
-  - Flush with additional apple juice to clear the tube.
+  - •Inject through the nasogastric tube into the stomach.
+  - •Flush with additional apple juice to clear the tube.
 
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.

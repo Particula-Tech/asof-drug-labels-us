@@ -2,9 +2,9 @@
 
 Lansoprazole delayed-release capsules USP are available as follows:
 
-15 mg - hard gelatin capsules, with a light-blue opaque cap and flesh-colored opaque body, imprinted with “93” and “7350”, filled with off-white to beige pellets, in bottles of 30.
+15 mg - hard gelatin capsules, with a light-blue opaque cap and flesh-colored opaque body, imprinted with “93” and “7350”, filled with off-white to beige pellets, in bottles of 30 (NDC 0093-7350-56).
 
-30 mg - hard gelatin capsules, with a light-gray opaque cap and flesh-colored opaque body, imprinted with “93” and “7351”, filled with off-white to beige pellets, in bottles of 30.
+30 mg - hard gelatin capsules, with a light-gray opaque cap and flesh-colored opaque body, imprinted with “93” and “7351”, filled with off-white to beige pellets, in bottles of 30 (NDC 0093-7351-56).
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from moisture.

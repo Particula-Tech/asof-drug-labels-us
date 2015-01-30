@@ -43,7 +43,7 @@ Controlled studies did not extend beyond 12 weeks [see Clinical Studies (14)].
 
 Short-Term Treatment of Symptomatic GERD
 
-Lansoprazole delayed-release capsules USP are indicated for the treatment of heartburn and other symptoms associated with GERD [see Clinical Studies (14)].
+Lansoprazole delayed-release capsules USP are indicated for the treatment of heartburn and other symptoms associated with GERD for up to 8 weeks [see Clinical Studies (14)].
 
 Short-Term Treatment of Erosive Esophagitis
 

@@ -2,11 +2,15 @@
 
 ## 7.1 Drugs With pH-Dependent Absorption Kinetics
 
-Lansoprazole causes long-lasting inhibition of gastric acid secretion.
-Lansoprazole and other PPIs are likely to substantially decrease the systemic concentrations of the HIV protease inhibitor atazanavir, which is dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir and the development of HIV resistance.
-Therefore, lansoprazole and other PPIs should not be coadministered with atazanavir [see Clinical Pharmacology (12.3)].
+Due to its effects on gastric acid secretion, lansoprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ampicillin esters, ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with lansoprazole delayed-release capsules [see Clinical Pharmacology (12.3)].
 
-Lansoprazole and other PPIs may interfere with the absorption of other drugs where gastric pH is an important determinant of oral bioavailability (e.g., ampicillin esters, digoxin, iron salts, ketoconazole) [see Clinical Pharmacology (12.3)].
+Lansoprazole delayed-release capsules are likely to substantially decrease the systemic concentrations of the HIV protease inhibitor atazanavir, which is dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir and the development of HIV resistance.
+Therefore, lansoprazole delayed-release capsules should not be coadministered with atazanavir [see Clinical Pharmacology (12.3)].
+
+Coadministration of PPIs in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
+The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PPIs and MMF.
+Use lansoprazole delayed-release capsules with caution in transplant patients receiving MMF.
 
 ## 7.2 Warfarin
 
@@ -32,13 +36,13 @@ No dose adjustment of clopidogrel is necessary when administered with an approve
 ## 7.6 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of high dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.5)].
+However, no formal drug interaction studies of high dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.7)].
 
 In a study of rheumatoid arthritis patients receiving low-dose methotrexate, lansoprazole and naproxen, no effect on pharmacokinetics of methotrexate was observed [see Clinical Pharmacology (12.3)].
 
 ## 7.7 Combination Therapy With Clarithromycin
 
 Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for coadministration with certain drugs [see Contraindications in prescribing information for clarithromycin].
 
 For information about drug interactions of antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the DRUG INTERACTIONS section of their package inserts.
