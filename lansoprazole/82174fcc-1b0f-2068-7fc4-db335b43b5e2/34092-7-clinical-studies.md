@@ -28,7 +28,7 @@ Table 8: Duodenal Ulcer Healing Rates
 | --- | --- | --- | --- | --- |
 |  | Lansoprazole |  | Ranitidine | Placebo |
 | Week | 15 mg daily | 30 mg daily | 300 mg h.s. |  |
-| 2 | 35.0% | 44.2% | 30.5% | 34.2% |
+| 2 | 35% | 44.2% | 30.5% | 34.2% |
 | 4 | 92.3%(p≤0.05) versus placebo and ranitidine. | 80.3%(p≤0.05) versus placebo. | 70.5% | 47.5% |
 
 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
@@ -236,8 +236,8 @@ Table 17: Erosive Esophagitis Healing Rates
 | Week | Lansoprazole 30 mg daily (N=115) | Ranitidine 150 mg twice daily (N=127) |
 | --- | --- | --- |
 | 2 | 66.7%(p≤0.001) versus ranitidine. | 38.7% |
-| 4 | 82.5% | 52.0% |
-| 6 | 93.0% | 67.8% |
+| 4 | 82.5% | 52% |
+| 6 | 93% | 67.8% |
 | 8 | 92.1% | 69.9% |
 
 In addition, patients treated with lansoprazole reported less day and nighttime heartburn and took less antacid tablets for fewer days than patients taking ranitidine 150 mg twice daily.
@@ -257,7 +257,7 @@ Table 18: Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Hist
 | Week | Lansoprazole 30 mg daily (N=100) | Ranitidine 150 mg twice daily (N=51) |
 | --- | --- | --- |
 | 4 | 74.7%(p≤0.001) versus ranitidine. | 42.6% |
-| 8 | 83.7% | 32.0% |
+| 8 | 83.7% | 32% |
 
 Long-Term Maintenance Treatment of Erosive Esophagitis
 

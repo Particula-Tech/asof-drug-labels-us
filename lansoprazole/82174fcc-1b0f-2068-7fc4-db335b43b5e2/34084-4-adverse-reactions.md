@@ -16,7 +16,7 @@ Table 1: Incidence of Possibly or Probably Treatment-Related Adverse Reactions i
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |
 | Digestive System |  |  |
-| Constipation | 1.0 | 0.4 |
+| Constipation | 1 | 0.4 |
 | Diarrhea | 3.8 | 2.3 |
 | Nausea | 1.3 | 1.2 |
 

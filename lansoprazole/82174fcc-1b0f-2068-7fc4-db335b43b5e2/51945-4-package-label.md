@@ -1,3 +1,9 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 Lansoprazole Delayed- Release Capsules USP, 15 mg Container Label
+
+Lansoprazole Delayed-Release Capsules USP, 15 mg- Carton Label
+
+Lansoprazole Delayed-Release Capsules USP, 30 mg - Container Label
+
+Lansoprazole Delayed-Release Capsules USP, 30 mg - Carton Label

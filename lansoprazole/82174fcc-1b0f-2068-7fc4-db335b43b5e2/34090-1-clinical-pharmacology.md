@@ -132,12 +132,12 @@ After a single-dose administration of 15 mg to 60 mg of oral lansoprazole, the p
 Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing.
 
 Absorption: The absorption of lansoprazole is rapid, with the mean Cmax occurring approximately 1.7 hours after oral dosing, and the absolute bioavailability is over 80%.
-In healthy subjects, the mean (±SD) plasma half-life was 1.5 (±1.0) hours.
+In healthy subjects, the mean (±SD) plasma half-life was 1.5 (±1) hours.
 Both the Cmax and AUC are diminished by about 50% to 70% if lansoprazole is given 30 minutes after food, compared to the fasting condition.
 There is no significant food effect if lansoprazole is given before meals.
 
 Distribution: Lansoprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 0.05 to 5.0 mcg/mL.
+Plasma protein binding is constant over the concentration range of 0.05 to 5 mcg/mL.
 
 Metabolism: Lansoprazole is extensively metabolized in the liver.
 Two metabolites have been identified in measurable quantities in plasma (the hydroxylated sulfinyl and sulfone derivatives of lansoprazole).

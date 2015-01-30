@@ -76,12 +76,13 @@ Before you take lansoprazole delayed-release capsules, tell your doctor if you:
   You should not do both.
   Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription drugs, vitamins, and herbal supplements.
 Lansoprazole delayed-release capsules may affect how other medicines work, and other medicines may affect how lansoprazole delayed-release capsules works.
 
 Especially tell your doctor if you take:
 
 - atazanavir (Reyataz)
+- erlotinib (Tarceva)
 - digoxin (Lanoxin)
 - a product that contains iron
 - ketoconazole (Nizoral)
@@ -90,6 +91,7 @@ Especially tell your doctor if you take:
 - theophylline (Theo-24, Elixophyllin, Theochron, Theolair)
 - an antibiotic that contains ampicillin or clarithromycin
 - methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -120,6 +122,10 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
 
 See “What is the most important information that I should know about lansoprazole delayed-release capsules?”
 
+- Vitamin B12 deficiency.
+  Lansoprazole delayed-release capsules reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B12 properly.
+  Talk with your doctor about the possibility of vitamin B12 deficiency if you have been on lansoprazole delayed-release capsules for a long time (more than 3 years).
 - Low magnesium levels in your body.
   This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
@@ -269,4 +275,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1112
+Revised: 0115
