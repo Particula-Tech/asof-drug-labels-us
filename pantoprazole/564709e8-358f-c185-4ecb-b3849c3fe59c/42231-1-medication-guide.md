@@ -2,6 +2,8 @@ MEDICATION GUIDE
 
 Pantoprazole Sodium Delayed-Release Tablets, USP
 
+(pan toe' pra zole soe' dee um)
+
 Read this Medication Guide before you start taking pantoprazole sodium delayed-release tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -98,6 +100,8 @@ Especially tell your doctor if you take:
 • an antibiotic that contains ampicillin
 
 • methotrexate
+
+• mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 
@@ -250,4 +254,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally –500 090 INDIA
 
-Revised:1213
+Revised:0115

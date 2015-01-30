@@ -15,7 +15,7 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tab
 | ≥ 15 kg to < 40 kg | 20 mg | Once daily for up to 8 wks |
 | ≥ 40 kg | 40 mg |  |
 | Maintenance of Healing of Erosive Esophagitis |  |  |
-| Adults | 40 mg | Once Daily |
+| Adults | 40 mg | Once Daily*** |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome |  |  |
 | Adults | 40 mg | Twice Daily** |
 
@@ -23,6 +23,8 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tab
 
 ** Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated.
 Doses up to 240 mg daily have been administered.
+
+*** Controlled studies did not extend beyond 12 months
 
 ## 2.2 Administration Instructions
 
