@@ -27,9 +27,9 @@ More than 99% of diclofenac sodium is reversibly bound to human plasma albumin.
 Diclofenac sodium is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Approximately 65% of the dose is excreted in the urine and 35% in the bile.
 
-Conjugates of unchanged diclofenac account for 5-10% of the dose excreted in the urine and for less than 5% excreted in the bile.
+Conjugates of unchanged diclofenac account for 5 to 10% of the dose excreted in the urine and for less than 5% excreted in the bile.
 Little or no unchanged unconjugated drug is excreted.
-Conjugates of the principal metabolite account for 20–30% of the dose excreted in the urine and for 10-20% of the dose excreted in the bile.
+Conjugates of the principal metabolite account for 20 to 30% of the dose excreted in the urine and for 10 to 20% of the dose excreted in the bile.
 
 Conjugates of three other metabolites together account for 10 to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
 The elimination half-life values for these metabolites are shorter than those for the parent drug.
@@ -81,16 +81,12 @@ Table 1
 | MISOPROSTOL ACID Mean (SD) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Treatment (n=36) |  | Cmax (pg/mL) |  | tmax (hr) | AUC (0–4h) (pg·hr/mL) |
-| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 50 mg/0.2 mg |  | 441 (137) |  | 0.30 (0.13) | 266 (95) |
-| Cytotec® |  | 478 (201) |  | 0.30 (0.10) | 295 (143) |
-| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 75 mg/0.2 mg |  | 304 (110) |  | 0.26 (0.09) | 177 (49) |
-| Cytotec |  | 290 (130) |  | 0.35 (0.12) | 176 (58) |
+| Diclofenac Sodium and Misoprostol Delayed- Release Tablets 50 mg/0.2 mg Cytotec® |  | 441 (137) 478 (201) |  | 0.30 (0.13) 0.30 (0.10) | 266 (95) 295 (143) |
+| Diclofenac Sodium and Misoprostol Delayed- Release Tablets 75 mg/0.2 mg Cytotec |  | 304 (110) 290 (130) |  | 0.26 (0.09) 0.35 (0.12) | 177 (49) 176 (58) |
 | DICLOFENAC MEAN (SD) |  |  |  |  |  |
 | Treatment (n=36) | Cmax (ng/mL) |  | tmax (hr) |  | AUC (0–12h) (ng·hr/mL) |
-| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 50 mg/0.2 mg | 1207 (364) |  | 2.4 (1.0) |  | 1380 (272) |
-| Voltaren® | 1298 (441) |  | 2.4 (1.0) |  | 1357 (290)) |
-| Diclofenac Sodium and Misoprostol Delayed-Release Tablets 75 mg/0.2 mg | 2025 (2005) |  | 2.0 (1.4) |  | 2773(1347) |
-| Voltaren | 2367 (1318) |  | 1.9 (0.7) |  | 2609 (1185) |
+| Diclofenac Sodium and Misoprostol Delayed- Release Tablets 50 mg/0.2 mg Voltaren® | 1207 (364) 1298 (441) |  | 2.4 (1.0) 2.4 (1.0) |  | 1380 (272) 1357 (290) |
+| Diclofenac Sodium and Misoprostol Delayed- Release Tablets 75 mg/0.2 mg Voltaren | 2025 (2005) 2367 (1318) |  | 2.0 (1.4) 1.9 (0.7) |  | 2773 (1347) 2609 (1185) |
 
 SD: Standard deviation of the mean AUC: Area under the curve Cmax: Peak concentration tmax: Time to peak concentration
 
@@ -115,5 +111,5 @@ In a study of people with mild to moderate hepatic impairment, mean misoprostol 
 Three people who had the lowest antipyrine and lowest indocyanine green clearance values had the highest misoprostol acid AUC and Cmax values.
 
 After a single oral dose of misoprostol to nursing mothers, misoprostol acid was excreted in breast milk.
-The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/mL (CV 37%) and 20.9 pg/mL (CV 77%) after single 200 µg and 600 µg misoprostol administration, respectively.
+The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/mL (CV 37%) and 20.9 pg/mL (CV 77%) after single 200 mcg and 600 mcg misoprostol administration, respectively.
 The misoprostol acid concentrations in breast milk declined to < 1 pg/mL at 5 hours post-dose.

@@ -46,11 +46,13 @@ Patients and physicians should remain alert for signs and symptoms of GI ulcerat
 This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
+Diclofenac sodium and misoprostol delayed-release tablets are contraindicated in patients with active GI bleeding.
+
 ## Renal Effects
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
-In these patients, administration of a nonsteroidal anti­inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+In these patients, administration of a nonsteroidal anti­-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
 Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE-inhibitors, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
@@ -113,13 +115,14 @@ Allergic reactions have been reported by less than 0.1% of patients who received
 
 NSAIDs, including diclofenac sodium and misoprostol delayed-release tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
+Patients appear to be at highest risk for these events early in the course of therapy, the onset of the event occurring in the majority of cases within the first month of treatment.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
 ## Pregnancy
 
 In late pregnancy, as with other NSAIDs, diclofenac sodium and misoprostol delayed-release tablets should be avoided because it may cause premature closure of the ductus arteriosus.
 
-# DICLOFENAC SODIUM/MISOPROSTAL TABLETS
+# DICLOFENAC SODIUM/MISOPROSTOL TABLETS
 
 Symptoms of overdosage with diclofenac sodium and misoprostol delayed-release tablets should be treated with supportive therapy.
 In case of acute overdosage, gastric lavage is recommended.
@@ -135,6 +138,7 @@ Diclofenac sodium and misoprostol delayed-release tablets contain diclofenac, an
 Diclofenac sodium and misoprostol delayed-release tablets also contain misoprostol to decrease the chance of getting stomach and intestinal ulcers that sometimes develop with NSAID medications.
 Serious side effects are still possible, however, and you should report to your doctor any signs or symptoms of gastrointestinal ulceration or bleeding, skin rash, weight gain or swelling.
 If signs of liver toxicity occur (nausea, fatigue, lethargy, itching, jaundice, right upper quadrant tenderness, and “flu-like” symptoms), you should stop therapy and seek immediate medical attention.
+(see WARNINGS).
 
 If signs of an anaphylactic reaction occur (e.g., difficulty breathing, swelling of the face or throat), you should stop therapy and seek immediate medical attention (see WARNINGS).
 
@@ -149,7 +153,7 @@ If you become pregnant during therapy with diclofenac sodium and misoprostol del
 Remember that even if you are using a means of birth control, it is still possible to become pregnant.
 Should this occur, stop taking diclofenac sodium and misoprostol delayed-release tablets and consult your doctor immediately.
 
-Diclofenac sodium and misoprostol delayed-release tablets are not recommended for nursing mothers.
+Exercise caution if you are nursing.
 
 Diclofenac sodium and misoprostol delayed-release tablets, like other NSAIDs, may cause an increased risk of heart attack or stroke, which can lead to death.
 This risk may increase with duration of use.
@@ -164,6 +168,7 @@ Diclofenac sodium and misoprostol delayed-release tablets may cause diarrhea, ab
 In most cases these problems develop during the first few weeks of therapy and stop after about a week with continued treatment.
 You can minimize possible diarrhea by making sure you take diclofenac sodium and misoprostol delayed-release tablets with meals and by avoiding the use of antacids containing magnesium (if needed, use one containing aluminum or calcium instead).
 Diclofenac sodium and misoprostol delayed-release tablets should be swallowed whole and not chewed, crushed, or dissolved.
+Diclofenac sodium and misoprostol delayed-release tablets that are broken should not be taken.
 
 Because these side effects are usually mild to moderate and usually go away in a matter of days, most patients can continue to take diclofenac sodium and misoprostol delayed-release tablets.
 If you have prolonged difficulty (more than 7 days), or if you have severe diarrhea, cramping, and/or nausea, call your doctor.
@@ -193,10 +198,8 @@ See your doctor if you have questions.
 Keep out of reach of children.
 
 This product’s label may have been updated.
-For current full prescribing information, please visit www.watson.com Rx only
+For current full prescribing information, please visit www.actavis.com
 
-Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
-
-Revised: May 2013 204843-5
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA Revised: September 2014 204843-6

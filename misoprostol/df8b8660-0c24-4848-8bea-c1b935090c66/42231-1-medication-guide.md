@@ -136,8 +136,10 @@ The OTC NSAID label warns that long term continuous use may increase the risk of
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
+To request medication information or to report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Revised: May 2013
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised: September 2014

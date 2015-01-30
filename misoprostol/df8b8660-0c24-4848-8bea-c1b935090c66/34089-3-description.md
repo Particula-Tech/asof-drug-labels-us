@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Diclofenac sodium and misoprostol delayed-release tablets is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
+Diclofenac sodium and misoprostol delayed-release tablets are a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
 Diclofenac sodium and misoprostol delayed-release tablets are white to off-white, round, biconvex tablets, and approximately 11 mm in diameter.
 Each tablet consists of an enteric-coated core containing 50 mg or 75 mg diclofenac sodium surrounded by an outer mantle containing 0.2 mg misoprostol.
 

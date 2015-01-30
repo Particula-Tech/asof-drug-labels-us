@@ -35,10 +35,10 @@ Table 3
 
 | Osteoarthritis patients with history of ulcer or erosive disease (N=572), 6 weeks | Incidence of ulcers |  |
 | --- | --- | --- |
-|  | Gastric | Duodena |
+| Gastric | Duodenal |  |
 | Diclofenac Sodium/ Misoprostol Tablets 50 mg/0.2 mg tid | 3%* | 6% |
 | Diclofenac Sodium/ Misoprostol Tablets 75 mg/0.2 mg bid | 4%* | 3% |
 | diclofenac sodium 75 mg bid | 11% | 7% |
-| placebo | 3% | 1% |
+| Placebo | 3% | 1% |
 
 *Statistically significantly different from diclofenac (p<0.05)

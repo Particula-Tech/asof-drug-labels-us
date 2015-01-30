@@ -9,3 +9,5 @@ Diclofenac sodium and misoprostol delayed-release tablets should not be given to
 Severe, rarely fatal, anaphylactic-like reactions to diclofenac sodium have been reported in such patients (see WARNINGS- Anaphylactic Reactions, and PRECAUTIONS- Preexisting Asthma).
 
 Diclofenac sodium and misoprostol delayed-release tablets are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see boxed CONTRAINDICATIONS AND WARNINGS).
+
+Diclofenac sodium and misoprostol delayed-release tablets are contraindicated in patients with active gastrointestinal bleeding (see WARNINGS).

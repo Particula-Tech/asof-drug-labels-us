@@ -1,12 +1,10 @@
 # WARNINGS
 
-Regarding misoprostol:
+Regarding misoprostol: See boxed CONTRAINDICATIONS AND WARNINGS.
 
-See boxed CONTRAINDICATIONS AND WARNINGS.
+Regarding diclofenac: See boxed CONTRAINDICATIONS AND WARNINGS.
 
-Regarding diclofenac:
-
-See boxed CONTRAINDICATIONS AND WARNINGS.
+The use of diclofenac/misoprostol with concomitant NSAIDs including COX-2 inhibitors should be avoided.
 
 # PRECAUTIONS
 
@@ -36,7 +34,7 @@ Patients receiving diclofenac sodium and misoprostol delayed-release tablets who
 ## Preexisting Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
+The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
 Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, diclofenac sodium and misoprostol delayed-release tablets should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
 
 ## Aseptic Meningitis
@@ -77,7 +75,6 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 - Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
 - In late pregnancy, as with other NSAIDs, diclofenac sodium and misoprostol delayed-release tablets should not be taken because it may cause premature closure of the ductus arteriosus.
-- Diclofenac sodium and misoprostol delayed-release tablets should not be taken by nursing mothers.
 - Concomitant use of voriconazole increases the systemic exposure to diclofenac.
   When concomitant voriconazole use is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of diclofenac sodium and misoprostol delayed-release tablets 50 mg/0.2 mg twice daily (see Drug Interactions and Dosage and Administration).
 
@@ -107,7 +104,7 @@ Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhi
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, may result in deterioration of renal function, including possible acute renal failure.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+These effects are usually reversible.
 
 Aspirin:
 
@@ -137,6 +134,10 @@ NSAIDs have been reported to competitively inhibit methotrexate accumulation in 
 This may indicate that they could enhance the toxicity of methotrexate.
 Caution should be used when NSAIDs are administered concomitantly with methotrexate.
 
+Tacrolimus:
+
+Possible increased risk of nephrotoxicity when NSAIDs are given with tacrolimus.
+
 Cyclosporine:
 
 Diclofenac sodium and misoprostol delayed-release tablets, like other NSAID containing products, may affect renal prostaglandins and increase the toxicity of certain drugs.
@@ -165,7 +166,7 @@ This response has been attributed to inhibition of renal prostaglandin synthesis
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
 
-CYP2C9 inhibitors:
+CYP2C9 inhibitors
 
 Use caution when dosing diclofenac with CYP2C9 inhibitors (e.g. voriconazole).
 Concomitant use of CYP2C9 inhibitors may enhance toxicity of diclofenac due to an increase in systemic exposure to diclofenac.
@@ -176,7 +177,7 @@ Voriconazole:
 In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
 The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8-fold respectively when coadministered with voriconazole compared to diclofenac alone.
 
-CYP2C9 inducers:
+CYP2C9 inducers
 
 Use caution when dosing diclofenac with CYP2C9 inducers (e.g. rifampin).
 Concomitant use of CYP2C9 inducers may lead to compromised efficacy due to a decrease in systemic exposure to diclofenac.
@@ -252,9 +253,10 @@ There are no adequate and well-controlled studies in pregnant women.
 ## Nursing mothers
 
 Diclofenac sodium has been found in the milk of nursing mothers.
-Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
-There are no published reports of adverse effects of misoprostol in breastfeeding infants of mothers taking misoprostol.
-Caution should be exercised when Diclofenac sodium/Misoprostol tablets is administered to a nursing woman.
+Based on limited published data from 2 studies of 22 lactating women who took a single 200-600 microgram dose of misoprostol 4-6 days postpartum, misoprostolic acid, the active metabolite of misoprostol was found in breast milk at very low levels.
+The highest level measured in milk was 20.9 ng/L 1 hour after dosing.
+These data may not reflect drug level in mature milk and in a daily dosing regimen for osteoarthritis or rheumatoid arthritis.
+Caution should be exercised when diclofenac sodium/misoprostol tablets are administered to a nursing woman.
 
 ## Labor and Delivery
 
@@ -275,4 +277,4 @@ No overall differences in safety or effectiveness were observed between these su
 Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to diclofenac sodium and misoprostol delayed-release tablets may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS—Renal Effects).
 
-Based on studies in the elderly, no adjustment of the dose of diclofenac sodium and misoprostol delayed-release tablets is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of Diclofenac Sodium and Misoprostol Delayed-Release Tablets—Special populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+Based on studies in the elderly, no adjustment of the dose of diclofenac sodium and misoprostol delayed-release tablets is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of Diclofenac Sodium and Misoprostol Delayed-Release Tablets—Specific populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
