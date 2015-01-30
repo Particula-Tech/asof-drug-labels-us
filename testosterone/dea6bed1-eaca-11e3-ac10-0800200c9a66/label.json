@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205488"
+  ],
+  "inn": "testosterone",
+  "labeler": "Trimel Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "42667-5511-1"
+  ],
+  "products": [
+    {
+      "form": "GEL, METERED",
+      "generic": "testosterone",
+      "name": "Natesto"
+    }
+  ],
+  "setid": "dea6bed1-eaca-11e3-ac10-0800200c9a66",
+  "source": "dailymed"
+}
