@@ -2,6 +2,8 @@
 
 Container Label
 
+Container Label
+
 Baxter 1 g
 
 Cefepime Injection
@@ -55,6 +57,8 @@ Baxter Healthcare Corporation
 Deerfield, IL 60015 USA PL 2040 Plastic
 
 Made in USA 07-34-63-744
+
+Carton Label
 
 Carton Label
 
