@@ -60,7 +60,7 @@ No effect on gastric emptying of the solid and liquid components of a test meal 
 In healthy subjects, a single I.V. dose of omeprazole (0.35 mg/kg) had no effect on intrinsic factor secretion.
 No systematic dose-dependent effect has been observed on basal or stimulated pepsin output in humans.
 
-However, when intragastric pH is maintained at 4.0 or above, basal pepsin output is low, and pepsin activity is decreased.
+However, when intragastric pH is maintained at 4 or above, basal pepsin output is low, and pepsin activity is decreased.
 
 As do other agents that elevate intragastric pH, omeprazole administered for 14 days in healthy subjects produced a significant increase in the intragastric concentrations of viable bacteria.
 The pattern of the bacterial species was unchanged from that commonly found in saliva.
@@ -140,6 +140,10 @@ Results from another crossover study in healthy subjects showed a similar pharma
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
+
+Concomitant Use with Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
 
 Special Populations
 
@@ -230,7 +234,7 @@ Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
 aIncludes only patients with pretreatment clarithromycin susceptibility test results
 
-bSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
+bSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.

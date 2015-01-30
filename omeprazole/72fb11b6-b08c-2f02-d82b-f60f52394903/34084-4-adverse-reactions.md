@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety data described below reflects exposure to omeprazole delayed-release capsules in 3096 patients from worldwide clinical trials (465 patients from US studies and 2,631 patients from international studies).
 Indications clinically studied in US trials included duodenal ulcer, resistant ulcer, and Zollinger-Ellison syndrome.
 The international clinical trials were double blind and open-label in design.
-The most common adverse reactions reported (i.e., with an incidence rate ≥ 2%) from omeprazole-treated patients enrolled in these studies included headache (6.9%), abdominal pain (5.2%), nausea (4.0%), diarrhea (3.7%), vomiting (3.2%), and flatulence (2.7%).
+The most common adverse reactions reported (i.e., with an incidence rate ≥ 2%) from omeprazole-treated patients enrolled in these studies included headache (6.9%), abdominal pain (5.2%), nausea (4%), diarrhea (3.7%), vomiting (3.2%), and flatulence (2.7%).
 
 Additional adverse reactions that were reported with an incidence ≥1% included acid regurgitation (1.9%), upper respiratory infection (1.9%), constipation (1.5%), dizziness (1.5%), rash (1.5%), asthenia (1.3%), back pain (1.1%), and cough (1.1%).
 

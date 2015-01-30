@@ -74,7 +74,8 @@ Before you take omeprazole delayed-release capsules, tell your doctor if you:
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not known if omeprazole delayed-release capsules will harm your unborn baby. are breastfeeding or plan to breastfeed.
+  It is not known if omeprazole delayed-release capsules will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
   Omeprazole delayed-release capsules can pass into your breast milk and may harm your baby.
   You and your doctor should decide if you will take omeprazole delayed-release capsules or breastfeed.
   You should not do both.
@@ -104,6 +105,7 @@ Especially tell your doctor if you take:
 - rifampin (Rimactane, Rifater, Rifamate),
 - erlotinib (Tarceva)
 - methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -142,6 +144,10 @@ See “What is the most important information I should know about omeprazole del
   Using omeprazole delayed-release capsules for a long period of time may increase the risk of inflammation to your stomach lining.
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
+- Vitamin B-12 deficiency.
+  Omeprazole delayed-release capsules reduces the amount of acid in your stomach.
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on omeprazole delayed-release capsules for a long time (more than 3 years).
 - Low magnesium levels in your body.
   This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
@@ -232,4 +238,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0814
+Revised: 0215

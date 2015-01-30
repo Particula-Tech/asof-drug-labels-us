@@ -19,7 +19,7 @@ If resistance to clarithromycin is demonstrated or susceptibility testing is not
 
 ## 1.2 Gastric Ulcer (adults)
 
-Omeprazole delayed-release capsules are indicated for short-term treatment (4 to 8 weeks) of active benign gastric ulcer in adults.
+Omeprazole delayed-release capsules are indicated for short-term treatment (4 to 8 weeks) of active benign gastric ulcer in adults for upto 4 weeks.
 [See Clinical Studies(14.2)]
 
 ## 1.3 Treatment of Gastroesophageal Reflux Disease (GERD) (adults and pediatric patients)
