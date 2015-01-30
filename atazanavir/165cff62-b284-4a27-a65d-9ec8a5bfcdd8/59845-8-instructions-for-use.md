@@ -1,6 +1,6 @@
 # Instructions for Use
 
-REYATAZ® (RAY-ah-taz) (atazanavir) oral powder
+REYATAZ®(RAY-ah-taz) (atazanavir) oral powder
 
 Read this Instructions for Use before you prepare your child’s first dose of REYATAZ oral powder, each time you get a refill, and as needed.
 There may be new information.

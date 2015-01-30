@@ -104,7 +104,7 @@ Table 4: Recommended Dosage of REYATAZ and Ritonavir in Pregnant Patientsa
 | Recommended Regimen | 300 mg | 100 mg |
 | Treatment-Experienced During the Second or Third Trimester When Coadministered with either H2RA or Tenofovirb |  |  |
 | In combination with either H2RA or tenofovir | 400 mg | 100 mg |
-| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir and didanosine). b REYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir and H2RA. |  |  |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir and didanosine). bREYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir and H2RA. |  |  |
 
 ## 2.6 Renal Impairment
 

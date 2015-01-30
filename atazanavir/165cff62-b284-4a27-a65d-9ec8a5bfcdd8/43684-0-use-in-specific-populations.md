@@ -85,7 +85,7 @@ See Dosage and Administration (2.3, 2.4) for dosing recommendations for the use 
 ## 8.5 Geriatric Use
 
 Clinical studies of REYATAZ did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
-Based on a comparison of mean single-dose pharmacokinetic values for Cmax and AUC, a dose adjustment based upon age is not recommended.
+Based on a comparison of mean single-dose pharmacokinetic values for Cmaxand AUC, a dose adjustment based upon age is not recommended.
 In general, appropriate caution should be exercised in the administration and monitoring of REYATAZ in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Age/Gender

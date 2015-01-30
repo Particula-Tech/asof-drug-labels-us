@@ -46,8 +46,6 @@ Table 17: Steady-State Pharmacokinetics of Atazanavir in Healthy Subjects or HIV
 
 Figure 1 displays the mean plasma concentrations of atazanavir at steady state after REYATAZ 400 mg once daily (as two 200-mg capsules) with a light meal and after REYATAZ 300 mg (as two 150-mg capsules) with ritonavir 100 mg once daily with a light meal in HIV-infected adult patients.
 
-Figure 1: Mean (SD) Steady-State Plasma Concentrations of Atazanavir 400 mg (n=13) and 300 mg with Ritonavir (n=10) for HIV-Infected Adult Patients
-
 ### Absorption
 
 Atazanavir is rapidly absorbed with a Tmax of approximately 2.5 hours.
@@ -96,7 +94,7 @@ In healthy subjects, the renal elimination of unchanged atazanavir was approxima
 REYATAZ has been studied in adult subjects with severe renal impairment (n=20), including those on hemodialysis, at multiple doses of 400 mg once daily.
 The mean atazanavir Cmax was 9% lower, AUC was 19% higher, and Cmin was 96% higher in subjects with severe renal impairment not undergoing hemodialysis (n=10), than in age-, weight-, and gender‑matched subjects with normal renal function.
 In a 4-hour dialysis session, 2.1% of the administered dose was removed.
-When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cmin were approximately 25% to 43% lower compared to subjects with normal renal function.
+When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cminwere approximately 25% to 43% lower compared to subjects with normal renal function.
 The mechanism of this decrease is unknown.
 REYATAZ is not recommended for use in HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis.
 [See Dosage and Administration (2.6).]

@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA021567"
+    "NDA021567",
+    "NDA206352"
   ],
   "inn": "atazanavir",
   "labeler": "E.R. Squibb & Sons, L.L.C.",
@@ -8,11 +9,17 @@
     "0003-3622-12",
     "0003-3623-12",
     "0003-3624-12",
-    "0003-3631-12"
+    "0003-3631-12",
+    "0003-3638-10"
   ],
   "products": [
     {
       "form": "CAPSULE, GELATIN COATED",
+      "generic": "atazanavir",
+      "name": "REYATAZ"
+    },
+    {
+      "form": "POWDER",
       "generic": "atazanavir",
       "name": "REYATAZ"
     }

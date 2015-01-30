@@ -2,7 +2,7 @@
 
 ### REYATAZ Capsules
 
-REYATAZ® (atazanavir) capsules are available in the following strengths and configurations of plastic bottles with child-resistant closures.
+REYATAZ®(atazanavir) capsules are available in the following strengths and configurations of plastic bottles with child-resistant closures.
 
 | cap | body |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

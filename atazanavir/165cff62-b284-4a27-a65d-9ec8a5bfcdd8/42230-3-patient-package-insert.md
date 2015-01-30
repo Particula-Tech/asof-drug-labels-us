@@ -28,7 +28,7 @@ When used with other antiretroviral medicines to treat HIV infection, REYATAZ ma
 Reducing the amount of HIV and increasing the CD4+ (T) cells in your blood may help improve your immune system.
 This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
-REYATAZ does not cure HIV infection or AIDS.
+REYATAZ does notcure HIV infection or AIDS.
 You must stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
 
 Avoid doing things that can spread HIV infection to others:
@@ -238,8 +238,7 @@ REYATAZ can cause serious side effects, including:
 - •A change in the way your heart beats (heart rhythm change).
   Tell your healthcare provider right away if you get dizzy or lightheaded.
   These could be symptoms of a heart problem.
-- •Skin rash.
-  Skin rash is common with REYATAZ but can sometimes be severe.
+- •Skin rash.Skin rash is common with REYATAZ but can sometimes be severe.
   Skin rash usually goes away within 2 weeks without any change in treatment.
   Severe rash may develop in association with other symptoms which could be serious.
   If you develop a severe rash or a rash with any of the following symptoms, stop taking REYATAZ and call your healthcare provider right away:
@@ -339,7 +338,7 @@ REYATAZ capsules: crospovidone, lactose monohydrate, and magnesium stearate.
 The capsule shells contain gelatin, FD&C Blue No. 2, titanium dioxide, black iron oxide, red iron oxide, and yellow iron oxide.
 The capsules are printed with ink containing shellac, titanium dioxide, FD&C Blue No. 2, isopropyl alcohol, ammonium hydroxide, propylene glycol, n-butyl alcohol, simethicone, and dehydrated alcohol.
 
-REYATAZ oral powder: aspartame, sucrose, and orange-vanilla flavor.
+REYATAZ oral powder:aspartame, sucrose, and orange-vanilla flavor.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
