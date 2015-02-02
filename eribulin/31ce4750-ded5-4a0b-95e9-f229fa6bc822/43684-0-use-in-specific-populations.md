@@ -38,6 +38,4 @@ Therefore, a lower starting dose of 1.1 mg/m2 is recommended for patients with m
 
 ## 8.7 Renal Impairment
 
-For patients with moderate renal impairment (CrCl 30-50 mL/min), the geometric mean dose-normalized systemic exposure increased 2-fold compared to patients with normal renal function.
-A lower starting dose of 1.1 mg/m2 is recommended for patients with moderate renal impairment.
-The safety of HALAVEN was not studied in patients with severe renal impairment (CrCl < 30 mL/min) [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
+For patients with moderate or severe renal impairment (CrCl 15-49 mL/min), reduce the starting dose to 1.1 mg/m2 [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].

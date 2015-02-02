@@ -2,6 +2,8 @@
 
 ## 6.1 Clinical Trials Experience
 
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
 The following adverse reactions are discussed in detail in other sections of the labeling:
 
 - Neutropenia [see Warnings and Precautions (5.1)].
@@ -11,8 +13,6 @@ The following adverse reactions are discussed in detail in other sections of the
 The most common adverse reactions (≥25%) reported in patients receiving HALAVEN were neutropenia, anemia, asthenia/fatigue, alopecia, peripheral neuropathy, nausea, and constipation.
 The most common serious adverse reactions reported in patients receiving HALAVEN were febrile neutropenia (4%) and neutropenia (2%).
 The most common adverse reaction resulting in discontinuation of HALAVEN was peripheral neuropathy (5%).
-
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
 
 In clinical trials, HALAVEN has been administered to 1,222 patients with multiple tumor types, including 240 patients exposed to HALAVEN for 6 months or longer.
 The majority of the 1,222 patients were women (82%) with a median age of 58 years (range: 26 to 91 years).
@@ -60,7 +60,7 @@ Table 2 Adverse Reactions with a Per-Patient Incidence of at Least 10% in Study 
 | Alopecia | 45% | NAc | 10% | NAc |
 | Infections and Infestations |  |  |  |  |
 | Urinary Tract Infection | 10% | 1% | 5% | 0 |
-| a. based upon laboratory data. b includes neuropathy peripheral, neuropathy, peripheral motor neuropathy, polyneuropathy, peripheral sensory neuropathy, and paraesthesia. cnot applicable; (grading system does not specify > Grade 2 for alopecia). |  |  |  |  |
+| a. based upon laboratory data. b includes neuropathy peripheral, neuropathy, peripheral motor neuropathy, polyneuropathy, peripheral sensory neuropathy, and paraesthesia. c not applicable; (grading system does not specify > Grade 2 for alopecia). |  |  |  |  |
 
 Cytopenias: Grade 3 neutropenia occurred in 28% (143/503) of patients who received HALAVEN in Study 1, and 29% (144/503) of patients experienced Grade 4 neutropenia.
 Febrile neutropenia occurred in 5% (23/503) of patients; two patients (0.4%) died from complications of febrile neutropenia.

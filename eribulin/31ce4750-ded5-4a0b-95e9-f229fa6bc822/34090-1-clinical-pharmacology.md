@@ -50,15 +50,14 @@ Specific Populations
 Hepatic Impairment
 
 A study evaluated the PK of eribulin in patients with mild (Child-Pugh A; n=7) and moderate (Child-Pugh B; n=5) hepatic impairment.
-Compared to patients with normal hepatic function (n=6), eribulin exposure increased 1.8-fold and 2.5-fold in patients with mild and moderate hepatic impairment, respectively.
-Administration of HALAVEN at a dose of 1.1 mg/m2 to patients with mild hepatic impairment and 0.7 mg/m2 to patients with moderate hepatic impairment resulted in similar exposure to eribulin as a dose of 1.4 mg/m2 to patients with normal hepatic function.
-[see Dosage and Administration (2.1), Use in Specific Populations (8.6)]
+Compared to patients with normal hepatic function (n=6), eribulin exposures increased 1.8-fold and 2.5-fold in patients with mild and moderate hepatic impairment, respectively.
+Administration of HALAVEN at a dose of 1.1 mg/m2 to patients with mild hepatic impairment and 0.7 mg/m2 to patients with moderate hepatic impairment resulted in similar exposure to eribulin as a dose of 1.4 mg/m2 to patients with normal hepatic function [see Dosage and Administration (2.1), Use in Specific Populations (8.6)].
 
 Renal Impairment
 
-No formal PK trials were conducted with HALAVEN in patients with renal impairment.
-Available data suggests that geometric mean dose-normalized systemic exposure is similar for patients with mild renal impairment (CrCl 50-80 mL/min) relative to patients with normal renal function.
-However, for patients with moderate renal impairment (CrCl 30-50 mL/min), the geometric mean dose-normalized systemic exposure increased 2-fold compared to patients with normal renal function [see Dosage and Administration (2.1), Use in Specific Populations (8.7)].
+​A study evaluated the PK of eribulin in patients with moderate (CrCl: 30-49 mL/min; n=7) and severe (CrCl: 15-29 mL/min; n=6) renal impairment.
+Compared to patients with normal renal function (CrCl ≥ 80 mL/min; n=6), patients with moderate and severe renal impairment have 1.5-fold higher eribulin dose-normalized exposures.
+However for patients with mild renal impairment the data indicate no dose adjustment is necessary [see Dosage and Administration (2.1), Use in Specific Populations (8.7)].
 
 ## 12.6 Cardiac Electrophysiology
 
