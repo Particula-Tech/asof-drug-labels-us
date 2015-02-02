@@ -36,7 +36,7 @@ When remedial measures alone are insufficient, the decision to prescribe antidep
 
 ## 17.2 FDA-Approved Medication Guide
 
-Medication Guide ESCITALOPRAM TABLETS, USP Read the Medication Guide that comes with escitalopram tablets before you start taking it and each time you get a refill.
+Medication Guide ESCITALOPRAM TABLETS, USP (es'' sye tal' oh pram) Read the Medication Guide that comes with escitalopram tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -85,7 +85,10 @@ Tell your healthcare provider about all the medicines that you take, including p
 Escitalopram and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 Your healthcare provider or pharmacist can tell you if it is safe to take escitalopram tablets with your other medicines.
 Do not start or stop any medicine while taking escitalopram tablets without talking to your healthcare provider first.
-If you take escitalopram tablets, you should not take any other medicines that contain escitalopram or citalopram hydrobromide including: Celexa.
+
+| If you take escitalopram tablets, you should not take any other medicines that contain escitalopram oxalate or citalopram hydrobromide including: Celexa. |
+| --- |
+
 How should I take Escitalopram Tablets? • Take escitalopram tablets exactly as prescribed.
 Your healthcare provider may need to change the dose of escitalopram tablets until it is the right dose for you. • Escitalopram tablets may be taken with or without food. • If you miss a dose of escitalopram, take the missed dose as soon as you remember.
 If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
@@ -117,7 +120,7 @@ You may ask your healthcare provider or pharmacist for information about escital
 For more information, call 1-888-943-3210.
 
 What are the ingredients in Escitalopram Tablets?
-Active ingredient: escitalopram oxalate USP Inactive ingredients: • Tablets: Lactose monohydrate, talc, croscarmellose sodium, colloidal silicon dioxide, sodium carboxymethylcellulose, propyl gallate and magnesium stearate.
+Active ingredient: escitalopram oxalate Inactive ingredients: • Tablets: Lactose monohydrate, talc, croscarmellose sodium, colloidal silicon dioxide, sodium carboxymethylcellulose, propyl gallate and magnesium stearate.
 The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
 Coumadin® is registered trademark of Bristol Myers Squibb.
 Jantoven® is registered trademark of USL Pharma.
@@ -129,4 +132,5 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised September 2014 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised January 2015 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+PM01421104
