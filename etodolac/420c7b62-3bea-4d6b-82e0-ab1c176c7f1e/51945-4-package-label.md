@@ -1,0 +1,9 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Etodolac Capsules USP, 300 mg
+
+NDC 62559-251-01
+
+Rx only
+
+100 Capsules

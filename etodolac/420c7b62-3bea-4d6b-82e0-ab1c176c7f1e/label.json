@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075126"
+  ],
+  "inn": "etodolac",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-251-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "etodolac",
+      "name": "Etodolac"
+    }
+  ],
+  "setid": "420c7b62-3bea-4d6b-82e0-ab1c176c7f1e",
+  "source": "dailymed"
+}
