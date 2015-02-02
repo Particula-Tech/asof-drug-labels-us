@@ -98,7 +98,7 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
   It is not known if duloxetine delayed-release capsules will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release capsules during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  Duloxetine delayed-release capsules can pass into your breast milk.
+  Duloxetine can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -161,12 +161,13 @@ Symptoms may include:
 - enlarged liver
 - increased liver enzymes
 
-2. changes in blood pressure.
+2. changes in blood pressure and falls.
 Monitor your blood pressure before starting and throughout treatment.
 Duloxetine delayed-release capsules may:
 
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine delayed-release capsules or when increasing the dose.
+- increase risk of falls, especially in elderly.
 
 3.
 Serotonin Syndrome: This condition can be life-threatening and symptoms may include:
@@ -303,4 +304,4 @@ Goa 403722
 
 INDIA
 
-Revised: January 2015 ID#: 239898
+Revised: February 2015 ID#: 240247

@@ -39,9 +39,9 @@ Use of duloxetine with heavy alcohol intake may be associated with severe liver 
 Although duloxetine does not increase the impairment of mental and motor skills caused by alcohol, use of duloxetine concomitantly with heavy alcohol intake may be associated with severe liver injury.
 For this reason, duloxetine should not be prescribed for patients with substantial alcohol use [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.15)].
 
-• Orthostatic Hypotension and Syncope
+• Orthostatic Hypotension, Falls and Syncope
 
-Advise patients of the risk of orthostatic hypotension and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine [see WARNINGS AND PRECAUTIONS (5.3)].
+Advise patients of the risk of orthostatic hypotension, falls and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine [see WARNINGS AND PRECAUTIONS (5.3)].
 
 • Serotonin Syndrome
 
@@ -131,4 +131,4 @@ Goa 403722
 
 INDIA
 
-Revised: January 2015 ID#: 239897
+Revised: February 2015 ID#: 240246

@@ -81,7 +81,7 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 When duloxetine and ethanol were administered several hours apart so that peak concentrations of each would coincide, duloxetine did not increase the impairment of mental and motor skills caused by alcohol.
 
 In the duloxetine clinical trials database, three duloxetine -treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
-Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see WARNINGS AND PRECAUTIONS (5.2 and 5.12)].
+Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see WARNINGS AND PRECAUTIONS (5.2, 5.12)].
 
 ## 7.16 CNS Drugs
 

@@ -61,16 +61,16 @@ A gradual reduction in dosage rather than abrupt cessation is recommended whenev
 
 ## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine delayed-release capsules.
-Conversely, at least 5 days should be allowed after stopping duloxetine delayed-release capsules before starting an MAOI intended to treat psychiatric disorders [see CONTRAINDICATIONS (4)].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine delayed-release capsules USP.
+Conversely, at least 5 days should be allowed after stopping duloxetine delayed-release capsules USP before starting an MAOI intended to treat psychiatric disorders [see CONTRAINDICATIONS (4)].
 
 ## 2.9 Use of Duloxetine Delayed-release Capsules USP with Other MAOIs such as Linezolid or Methylene Blue
 
-Do not start duloxetine delayed-release capsules in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+Do not start duloxetine delayed-release capsules USP in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see CONTRAINDICATIONS (4)].
 
-In some cases, a patient already receiving duloxetine delayed-release capsules therapy may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, duloxetine delayed-release capsules should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+In some cases, a patient already receiving duloxetine delayed-release capsules USP therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, duloxetine delayed-release capsules USP should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 5 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with duloxetine delayed-release capsules may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see WARNINGS AND PRECAUTIONS (5.4)].
 

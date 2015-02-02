@@ -20,12 +20,14 @@ Table 7: Summary of the Primary Efficacy Results for Studies in Major Depressive
 
 | Study Number | Treatment Group | Primary Efficacy Measure: HAMD-17 |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
-| Study 1 | Duloxetine (60 mg/day) Doses statistically significantly superior to placebo. Placebo | 21.5 (4.10) 21.1 (3.71) | -10.9 (0.70) -6.1 (0.69) | -4.9 (-6.8, -2.9) - |
-| Study 2 | Duloxetine (60 mg/day) Placebo | 20.3 (3.32) 20.5 (3.42) | -10.5 (0.71) -8.3 (0.67) | -2.2 (-4.0, -0.3) - |
-| Study 3 | Duloxetine (20 mg BID) Duloxetine (40 mg BID) Placebo | 18.6 (5.85) 18.1 (4.52) 17.2 (5.11) | -7.4 (0.80) -8.6 (0.81) -5.0 (0.81) | -2.4 (-4.7, -0.2) -3.6 (-5.9, -1.4) -- |
-| Study 4 | Duloxetine (40 mg BID) Duloxetine (60 mg BID) Placebo | 19.9 (3.54) 20.2 (3.41) 19.9 (3.58) | -11.0 (0.49) -12.1 (0.49) -8.8 (0.50) | -2.2 (-3.6, -0.9) -3.3 (-4.7, -1.9) -- |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
+| Study 1 | Duloxetine (60 mg/day) b Placebo | 21.5 (4.10) 21.1 (3.71) | -10.9 (0.70) -6.1 (0.69) | -4.9 (-6.8, -2.9) - |
+| Study 2 | Duloxetine (60 mg/day) b Placebo | 20.3 (3.32) 20.5 (3.42) | -10.5 (0.71) -8.3 (0.67) | -2.2 (-4.0, -0.3) - |
+| Study 3 | Duloxetine (20 mg BID) b Duloxetine (40 mg BID) b Placebo | 18.6 (5.85) 18.1 (4.52) 17.2 (5.11) | -7.4 (0.80) -8.6 (0.81) -5.0 (0.81) | -2.4 (-4.7, -0.2) -3.6 (-5.9, -1.4) -- |
+| Study 4 | Duloxetine (40 mg BID) b Duloxetine (60 mg BID) b Placebo | 19.9 (3.54) 20.2 (3.41) 19.9 (3.58) | -11.0 (0.49) -12.1 (0.49) -8.8 (0.50) | -2.2 (-3.6, -0.9) -3.3 (-4.7, -1.9) -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
+| aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| bDoses statistically significantly superior to placebo. |  |  |  |  |
 
 In another study, 533 patients meeting DSM-IV criteria for MDD received duloxetine 60 mg once daily during an initial 12-week open-label treatment phase.
 Two hundred and seventy-eight patients who responded to open label treatment (defined as meeting the following criteria at weeks 10 and 12: a HAMD-17 total score ≤9, Clinical Global Impressions of Severity (CGI-S) ≤2, and not meeting the DSM-IV criteria for MDD) were randomly assigned to continuation of duloxetine at the same dose (N=136) or to placebo (N=142) for 6 months.
@@ -66,17 +68,19 @@ Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety 
 
 | Study Number | Treatment Group | Primary Efficacy Measure |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least squares mean change from baseline. (95% CI) |
-| Study 1 | Duloxetine (60 mg/day) Dose statistically significantly superior to placebo. | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
-| (HAM-A) | Duloxetine (120 mg/day) | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |
+| Study 1 | Duloxetine (60 mg/day) b | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
+| (HAM-A) | Duloxetine (120 mg/day) b | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |
 |  | Placebo | 25.8 (7.66) | -8.4 (0.67) | -- |
-| Study 2 | Duloxetine (60 to 120 mg/day) | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
+| Study 2 | Duloxetine (60 to 120 mg/day) b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
 | (HAM-A) | Placebo | 23.5 (7.91) | -5.9 (0.70) | -- |
-| Study 3 | Duloxetine (60 to 120 mg/day) | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
+| Study 3 | Duloxetine (60 to 120 mg/day) b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
 | (HAM-A) | Placebo | 25.0 (5.82) | -9.2 (0.67) | -- |
-| Study 5 (elderly) | Duloxetine (60 to 120 mg/day) | 24.6 (6.21) | -15.9 (0.63) | -4.2 (-5.9, -2.5) |
+| Study 5 (Elderly) | Duloxetine (60 to 120 mg/day) b | 24.6 (6.21) | -15.9 (0.63) | -4.2 (-5.9, -2.5) |
 | (HAM-A) | Placebo | 24.5 (7.05) | -11.7 (0.67) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
+| aDifference (drug minus placebo) in least squares mean change from baseline. |  |  |  |  |
+| bDose statistically significantly superior to placebo. |  |  |  |  |
 
 ## 14.3 Diabetic Peripheral Neuropathic Pain
 

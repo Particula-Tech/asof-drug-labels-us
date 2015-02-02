@@ -64,20 +64,27 @@ Cases of cholestatic jaundice with minimal elevation of transaminase levels have
 Other postmarketing reports indicate that elevated transaminases, bilirubin, and alkaline phosphatase have occurred in patients with chronic liver disease or cirrhosis.
 
 Duloxetine increased the risk of elevation of serum transaminase levels in development program clinical trials.
-Liver transaminase elevations resulted in the discontinuation of 0.3% (89/29,435) of duloxetine-treated patients.
+Liver transaminase elevations resulted in the discontinuation of 0.3% (92/34,756) of duloxetine-treated patients.
 In most patients, the median time to detection of the transaminase elevation was about two months.
-In adult placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.37% (132/9611) of duloxetine-treated patients compared to 0.49% (35/7182) of placebo-treated patients.
+In adult placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.25% (144/11,496) of duloxetine-treated patients compared to 0.45% (39/8716) of placebo-treated patients.
 In adult placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of >3 times the upper limit of normal and >5 times the upper limit of normal, respectively.
 
 Because it is possible that duloxetine and alcohol may interact to cause liver injury or that duloxetine may aggravate pre-existing liver disease, duloxetine should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
 
-## 5.3 Orthostatic Hypotension and Syncope
+## 5.3 Orthostatic Hypotension, Falls and Syncope
 
-Orthostatic hypotension and syncope have been reported with therapeutic doses of duloxetine.
+Orthostatic hypotension, falls and syncope have been reported with therapeutic doses of duloxetine.
 Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
+The risk of falling appears to be related to the degree of orthostatic decrease in blood pressure as well as other factors that may increase the underlying risk of falls.
 
-The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see WARNINGS AND PRECAUTIONS (5.11) and DRUG INTERACTIONS (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
-Consideration should be given to discontinuing duloxetine in patients who experience symptomatic orthostatic hypotension and/or syncope during duloxetine therapy.
+In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo.
+Risk appears to be related to the presence of orthostatic decrease in blood pressure.
+The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see WARNINGS AND PRECAUTIONS (5.12) and DRUG INTERACTIONS (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
+Consideration should be given to dose reduction or discontinuation of duloxetine in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during duloxetine therapy.
+
+Risk of falling also appeared to be proportional to a patient's underlying risk for falls and appeared to increase steadily with age.
+As elderly patients tend to have a higher underlying risk for falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see ADVERSE REACTIONS (6.10) and PATIENT COUNSELING INFORMATION (17)].
 
 ## 5.4 Serotonin Syndrome
 
@@ -128,8 +135,8 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ## 5.8 Activation of Mania/Hypomania
 
-In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (2/2489) of duloxetine-treated patients and 0.1% (1/1625) of placebo-treated patients.
-No activation of mania or hypomania was reported in GAD placebo-controlled trials.
+In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine-treated patients and 0.04% (1/2536) of placebo-treated patients.
+No activation of mania or hypomania was reported in DPNP, GAD, placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, duloxetine should be used cautiously in patients with a history of mania.
 
@@ -140,12 +147,12 @@ The pupillary dilation that occurs following use of many antidepressant drugs in
 ## 5.10 Seizures
 
 Duloxetine has not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
-In adult placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/10,524) of patients treated with duloxetine and 0.01% (1/7699) of patients treated with placebo.
+In adult placebo-controlled clinical trials, seizures/convulsions occurred in 0.02% (3/12,722) of patients treated with duloxetine and 0.01% (1/9513) of patients treated with placebo.
 Duloxetine should be prescribed with care in patients with a history of a seizure disorder.
 
 ## 5.11 Effect on Blood Pressure
 
-In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.4 mm Hg diastolic in placebo-treated patients.
+In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
 In a clinical pharmacology study designed to evaluate the effects of duloxetine on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
 At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.
