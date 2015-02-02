@@ -23,7 +23,7 @@ Discontinuations due to adverse events were reported for 17 (7.6%) patients who 
 In Study 2, 10 (3.5%) patients died within 30 days of last study treatment: 6 (4.1%) received irinotecan in combination with 5-FU/LV and 4 (2.8%) received 5-FU/LV alone.
 There was one potentially treatment-related death, which occurred in a patient who received irinotecan in combination with 5-FU/LV (0.7%, neutropenic sepsis).
 Deaths from any cause within 60 days of first study treatment were reported for 3 (2.1%) patients who received irinotecan in combination with 5-FU/LV and 2 (1.4%) patients who received 5-FU/LV alone.
-Discontinuations due to adverse events were reported for 9 (6.2%) patients who received irinotecan in combination with 5FU/LV and 1 (0.7%) patient who received 5-FU/LV alone.
+Discontinuations due to adverse events were reported for 9 (6.2%) patients who received irinotecan in combination with 5-FU/LV and 1 (0.7%) patient who received 5-FU/LV alone.
 
 The most clinically significant adverse events for patients receiving irinotecan-based therapy were diarrhea, nausea, vomiting, neutropenia, and alopecia.
 The most clinically significant adverse events for patients receiving 5-FU/LV therapy were diarrhea, neutropenia, neutropenic fever, and mucositis.
@@ -37,7 +37,7 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event | Study 1 |  |  |  |  |  |
-| Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks N = 225 |  | Bolus 5-FU/LV daily × 5 every 4 weeks N = 219 |  | Irinotecan weekly × 4 every 6 weeks N = 223 |  |  |
+| Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks N=225 |  | Bolus 5-FU/LV daily × 5 every 4 weeks N=219 |  | Irinotecan weekly × 4 every 6 weeks N=223 |  |  |
 | TOTAL Adverse Events | 100 | 53.3 | 100 | 45.7 | 99.6 | 45.7 |
 | GASTROINTESTINAL |  |  |  |  |  |  |
 | Diarrhea |  |  |  |  |  |  |
@@ -90,7 +90,7 @@ Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 |  | Grades 1–4 | Grades 3&4 | Grades 1–4 | Grades 3&4 |
 | --- | --- | --- | --- | --- |
 |  | Study 2 |  |  |  |
-| Adverse Event | Irinotecan + 5-FU/LV infusional days 1&2 every 2 weeks N = 145 |  | 5-FU/LV infusional days 1&2 every 2 weeks N = 143 |  |
+| Adverse Event | Irinotecan + 5-FU/LV infusional days 1&2 every 2 weeks N=145 |  | 5-FU/LV infusional days 1&2 every 2 weeks N=143 |  |
 | TOTAL Adverse Events | 100 | 72.4 | 100 | 39.2 |
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea |  |  |  |  |
@@ -146,7 +146,7 @@ The first dose of at least one cycle of CAMPTOSAR was reduced for 67% of patient
 Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
 Thirteen (4.3%) patients discontinued treatment with CAMPTOSAR because of adverse events.
-The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
+The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 7.
 Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or RectumSeverity of adverse events based on NCI CTC (version 1.0)
@@ -213,11 +213,11 @@ Hospitalizations due to serious adverse events occurred at least once in 60% (18
 Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based therapy discontinued treatment due to adverse events.
 
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
-Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in CLINICAL STUDIES (14.1).
+Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
 Table 8: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
 
-| Adverse Event | Irinotecan N = 189 | BSC BSC = best supportive care N = 90 | Irinotecan N = 127 | 5-FU N = 129 |
+| Adverse Event | Irinotecan N=189 | BSC BSC = best supportive care N=90 | Irinotecan N=127 | 5-FU N=129 |
 | --- | --- | --- | --- | --- |
 |  | Study 1 |  | Study 2 |  |
 | TOTAL Grade 3/4 Adverse Events | 79 | 67 | 69 | 54 |
@@ -261,7 +261,7 @@ The 8.5% incidence of akathisia, however, is within the range reported for use o
 The following adverse reactions have been identified during post approval use of CAMPTOSAR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Myocardial ischemic events have been observed following irinotecan therapy.
+Myocardial ischemic events have been observed following CAMPTOSAR therapy.
 Thromboembolic events have been observed in patients receiving CAMPTOSAR.
 
 Symptomatic pancreatitis, asymptomatic pancreatic enzyme elevation have been reported.
@@ -271,5 +271,5 @@ Hyponatremia, mostly with diarrhea and vomiting, has been reported.
 
 Transient dysarthria has been reported in patients treated with CAMPTOSAR; in some cases, the event was attributed to the cholinergic syndrome observed during or shortly after infusion of irinotecan.
 
-Interaction between irinotecan and neuromuscular blocking agents cannot be ruled out.
+Interaction between CAMPTOSAR and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.

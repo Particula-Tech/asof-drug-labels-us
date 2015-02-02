@@ -22,7 +22,7 @@ During the night, the patient may take 4 mg of loperamide every 4 hours.
 Monitor and replace fluid and electrolytes.
 Use antibiotic support for ileus, fever, or severe neutropenia.
 Subsequent weekly chemotherapy treatments should be delayed in patients until return of pretreatment bowel function for at least 24 hours without anti-diarrhea medication.
-Patients must not be treated with irinotecan until resolution of the bowel obstruction.
+Patients must not be treated with CAMPTOSAR until resolution of the bowel obstruction.
 If grade 2, 3, or 4 late diarrhea recurs, subsequent doses of CAMPTOSAR should be decreased [see Dosage and Administration (2)].
 
 Avoid diuretics or laxatives in patients with diarrhea.
@@ -35,7 +35,7 @@ Manage febrile neutropenia promptly with antibiotic support [see Warnings and Pr
 Hold CAMPTOSAR if neutropenic fever occurs or if the absolute neutrophil count drops <1000/mm3.
 After recovery to an absolute neutrophil count ≥1000/mm3, subsequent doses of CAMPTOSAR should be reduced [see Dosage and Administration (2)].
 
-When evaluated in the trials of weekly administration, the frequency of grade 3 and 4 neutropenia was higher in patients who received previous pelvic/abdominal irradiation than in those who had not received such irradiation (48% [13/27] versus 24% [67/277]; p = 0.04).
+When evaluated in the trials of weekly administration, the frequency of grade 3 and 4 neutropenia was higher in patients who received previous pelvic/abdominal irradiation than in those who had not received such irradiation (48% [13/27] versus 24% [67/277]; p=0.04).
 Patients who have previously received pelvic/abdominal irradiation are at increased risk of severe myelosuppression following the administration of CAMPTOSAR.
 Based on sparse available data, the concurrent administration of CAMPTOSAR with irradiation is not recommended.
 
@@ -49,7 +49,7 @@ Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) ar
 In a study of 66 patients who received single-agent CAMPTOSAR (350 mg/m2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
 No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
 
-In a prospective study (n = 250) to investigate the role of UGT1A1*28 polymorphism in the development of toxicity in patients treated with CAMPTOSAR (180 mg/m2) in combination with infusional 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 4.5%, and in patients heterozygous for this allele the incidence was 5.3%.
+In a prospective study (n=250) to investigate the role of UGT1A1*28 polymorphism in the development of toxicity in patients treated with CAMPTOSAR (180 mg/m2) in combination with infusional 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 4.5%, and in patients heterozygous for this allele the incidence was 5.3%.
 Grade 4 neutropenia was observed in 1.8% of patients homozygous for the wild-type allele.
 
 In another study in which 109 patients were treated with CAMPTOSAR (100–125 mg/m2) in combination with bolus 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 18.2%, and in patients heterozygous for this allele the incidence was 11.1%.
@@ -76,10 +76,10 @@ Renal impairment and acute renal failure have been identified, usually in patien
 
 Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have occurred in patients receiving irinotecan (in combination and as monotherapy).
 Risk factors include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.
-Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan therapy.
+Patients with risk factors should be closely monitored for respiratory symptoms before and during CAMPTOSAR therapy.
 In Japanese studies, a reticulonodular pattern on chest x-ray was observed in a small percentage of patients.
 New or progressive, dyspnea, cough, and fever should prompt interruption of chemotherapy, pending diagnostic evaluation.
-If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued and appropriate treatment instituted as needed [see Adverse Reactions (6.1)].
+If IPD is diagnosed, CAMPTOSAR and other chemotherapy should be discontinued and appropriate treatment instituted as needed [see Adverse Reactions (6.1)].
 
 ## 5.7 Toxicity of the 5 Day Regimen
 
@@ -90,7 +90,7 @@ CAMPTOSAR should be used as recommended in Table 2 [see Dosage and Administratio
 
 In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
-## 5.9 Pregnancy
+## 5.9 Embryofetal Toxicity
 
 CAMPTOSAR can cause fetal harm when administered to a pregnant woman.
 Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m2 basis.

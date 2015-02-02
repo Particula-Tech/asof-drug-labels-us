@@ -31,7 +31,7 @@ Combination Dosage Schedule: Study Results
 | Number of patients | 231 | 226 | 226 | 198 | 187 |
 | Demographics and treatment administration |  |  |  |  |  |
 | Female/Male (%) | 34/65 | 45/54 | 35/64 | 33/67 | 47/53 |
-| Median age in years (range) | 62 (25 – 85) | 61 (19 – 85) | 61 (30 – 87) | 62 (27 – 75) | 59 (24 – 75) |
+| Median age in years (range) | 62 (25–85) | 61 (19–85) | 61 (30–87) | 62 (27–75) | 59 (24–75) |
 | Performance status (%) |  |  |  |  |  |
 | 0 | 39 | 41 | 46 | 51 | 51 |
 | 1 | 46 | 45 | 46 | 42 | 41 |
@@ -39,11 +39,11 @@ Combination Dosage Schedule: Study Results
 | Primary tumor (%) |  |  |  |  |  |
 | Colon | 81 | 85 | 84 | 55 | 65 |
 | Rectum | 17 | 14 | 15 | 45 | 35 |
-| Median time from diagnosis to randomization (months, range) | 1.9 (0 – 161) | 1.7 (0 – 203) | 1.8 (0.1 – 185 | 4.5 (0 – 88) | 2.7 (0 – 104) |
+| Median time from diagnosis to randomization (months, range) | 1.9 (0–161) | 1.7 (0–203) | 1.8 (0.1–185) | 4.5 (0–88) | 2.7 (0–104) |
 | Prior adjuvant 5-FU therapy (%) |  |  |  |  |  |
 | No | 89 | 92 | 90 | 74 | 76 |
 | Yes | 11 | 8 | 10 | 26 | 24 |
-| Median duration of study treatmentStudy 1: N = 225 (irinotecan/5-FU/LV), N = 219 (5-FU/LV), N = 223 (irinotecan) Study 2: N = 199 (irinotecan/5-FU/LV), N = 186 (5-FU/LV) (months) | 5.5 | 4.1 | 3.9 | 5.6 | 4.5 |
+| Median duration of study treatmentStudy 1: N=225 (irinotecan/5-FU/LV), N=219 (5-FU/LV), N=223 (irinotecan) Study 2: N=199 (irinotecan/5-FU/LV), N=186 (5-FU/LV) (months) | 5.5 | 4.1 | 3.9 | 5.6 | 4.5 |
 | Median Relative Dose Intensity (%) | 72 | — | 75 | 87 | — |
 | Irinotecan | 71 | 86 | — | 86 | 93 |
 | 5-FU |  |  |  |  |  |
@@ -51,7 +51,7 @@ Combination Dosage Schedule: Study Results
 | Confirmed objective tumor response rateConfirmed ≥4 to 6 weeks after first evidence of objective response (%) | 39 | 21 | 18 | 35 | 22 |
 | (p<0.0001)Chi-square test |  |  | (p<0.005) |  |  |
 | Median time to tumor progressionLog-rank test (months) | 7.0 | 4.3 | 4.2 | 6.7 | 4.4 |
-| (p = 0.004) |  |  | (p<0.001) |  |  |
+| (p=0.004) |  |  | (p<0.001) |  |  |
 | Median survival (months) | 14.8 | 12.6 | 12.0 | 17.4 | 14.1 |
 | (p<0.05) |  |  | (p<0.05) |  |  |
 
@@ -88,7 +88,7 @@ Weekly Dosage Schedule: Study Results
 | Starting Dose (mg/m2/week × 4) | 125Nine patients received 150 mg/m2 as a starting dose; two (22.2%) responded to CAMPTOSAR. | 125 | 125 | 100 |
 | Demographics and Treatment Administration |  |  |  |  |
 | Female/Male (%) | 46/54 | 36/64 | 50/50 | 51/49 |
-| Median Age in years (range) | 63 (29 – 78) | 63 (32 – 81) | 61 (42 – 84) | 64 (25 – 84) |
+| Median Age in years (range) | 63 (29–78) | 63 (32–81) | 61 (42–84) | 64 (25–84) |
 | Ethnic Origin (%) |  |  |  |  |
 | White | 79 | 96 | 81 | 91 |
 | African American | 12 | 4 | 11 | 5 |
@@ -114,7 +114,7 @@ Weekly Dosage Schedule: Study Results
 | Duration of Treatment with CAMPTOSAR (median, months) | 5 | 4 | 4 | 3 |
 | Relative Dose IntensityRelative dose intensity for CAMPTOSAR based on planned dose intensity of 100, 83.3, and 66.7 mg/m2/wk corresponding with 150, 125, and 100 mg/m2 starting doses, respectively. (median %) | 74 | 67 | 73 | 81 |
 | Efficacy |  |  |  |  |
-| Confirmed Objective Response Rate (%)Confirmed ≥4 to 6 weeks after first evidence of objective response. (95% CI) | 21 (9.3 – 32.3) | 13 (6.3 – 20.4) | 14 (5.5 – 22.6) | 9 (3.3 – 14.3) |
+| Confirmed Objective Response Rate (%)Confirmed ≥4 to 6 weeks after first evidence of objective response. (95% CI) | 21 (9.3–32.3) | 13 (6.3–20.4) | 14 (5.5–22.6) | 9 (3.3–14.3) |
 | Time to Response (median, months) | 2.6 | 1.5 | 2.8 | 2.8 |
 | Response Duration (median, months) | 6.4 | 5.9 | 5.6 | 6.4 |
 | Survival (median, months) | 10.4 | 8.1 | 10.7 | 9.3 |
@@ -157,14 +157,14 @@ Patients were to be followed every 3 to 6 weeks for 1 year.
 
 A total of 535 patients were randomized in the two studies at 94 centers.
 The primary endpoint in both studies was survival.
-The studies demonstrated a significant overall survival advantage for irinotecan compared with best supportive care (p = 0.0001) and infusional 5-FU-based therapy (p = 0.035) as shown in Figures 3 and 4.
+The studies demonstrated a significant overall survival advantage for irinotecan compared with best supportive care (p=0.0001) and infusional 5-FU-based therapy (p=0.035) as shown in Figures 3 and 4.
 In Study 7, median survival for patients treated with irinotecan was 9.2 months compared with 6.5 months for patients receiving best supportive care.
 In Study 8, median survival for patients treated with irinotecan was 10.8 months compared with 8.5 months for patients receiving infusional 5-FU-based therapy.
 Multiple regression analyses determined that patients' baseline characteristics also had a significant effect on survival.
-When adjusted for performance status and other baseline prognostic factors, survival among patients treated with irinotecan remained significantly longer than in the control populations (p = 0.001 for Study 7 and p = 0.017 for Study 8).
+When adjusted for performance status and other baseline prognostic factors, survival among patients treated with irinotecan remained significantly longer than in the control populations (p=0.001 for Study 7 and p=0.017 for Study 8).
 Measurements of pain, performance status, and weight loss were collected prospectively in the two studies; however, the plan for the analysis of these data was defined retrospectively.
 When comparing irinotecan with best supportive care in Study 7, this analysis showed a statistically significant advantage for irinotecan, with longer time to development of pain (6.9 months versus 2.0 months), time to performance status deterioration (5.7 months versus 3.3 months), and time to >5% weight loss (6.4 months versus 4.2 months).
-Additionally, 33.3% (33/99) of patients with a baseline performance status of 1 or 2 showed an improvement in performance status when treated with irinotecan versus 11.3% (7/62) of patients receiving best supportive care (p = 0.002).
+Additionally, 33.3% (33/99) of patients with a baseline performance status of 1 or 2 showed an improvement in performance status when treated with irinotecan versus 11.3% (7/62) of patients receiving best supportive care (p=0.002).
 Because of the inclusion of patients with non-measurable disease, intent-to-treat response rates could not be assessed.
 
 | Figure 3. Survival Second-Line Irinotecan vs Best Supportive Care (BSC) Study 7 |
@@ -180,7 +180,7 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | Number of patients | 189 | 90 | 127 | 129 |
 | Demographics and treatment administration |  |  |  |  |
 | Female/Male (%) | 32/68 | 42/58 | 43/57 | 35/65 |
-| Median age in years (range) | 59 (22 – 75) | 62 (34 – 75) | 58 (30 – 75) | 58 (25 – 75) |
+| Median age in years (range) | 59 (22–75) | 62 (34–75) | 58 (30–75) | 58 (25–75) |
 | Performance status (%) |  |  |  |  |
 | 0 | 47 | 31 | 58 | 54 |
 | 1 | 39 | 46 | 35 | 43 |
@@ -192,10 +192,10 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | For metastatic disease | 70 | 63 | 58 | 68 |
 | As adjuvant treatment | 30 | 37 | 42 | 32 |
 | Prior irradiation (%) | 26 | 27 | 18 | 20 |
-| Duration of study treatment (median, months) (Log-rank test) | 4.1 | -- | 4.2 (p = 0.02) | 2.8 |
+| Duration of study treatment (median, months) (Log-rank test) | 4.1 | -- | 4.2 (p=0.02) | 2.8 |
 | Relative dose intensity (median %)Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. | 94 | -- | 95 | 81–99 |
 | Survival |  |  |  |  |
-| Survival (median, months) (Log-rank test) | 9.2 (p = 0.0001) | 6.5 | 10.8 (p = 0.035) | 8.5 |
+| Survival (median, months) (Log-rank test) | 9.2 (p=0.0001) | 6.5 | 10.8 (p=0.035) | 8.5 |
 
 In the two randomized studies, the EORTC QLQ-C30 instrument was utilized.
 At the start of each cycle of therapy, patients completed a questionnaire consisting of 30 questions, such as "Did pain interfere with daily activities?"

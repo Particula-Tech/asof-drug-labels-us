@@ -61,8 +61,7 @@ Recommended Dose Modifications for CAMPTOSAR/5-Fluorouracil (5-FU)/Leucovorin (L
 | 2 | Omit dose until resolved to ≤ grade 1, then ↓ 1 dose level | Maintain dose level |
 | 3 | Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level | ↓ 1 dose level |
 | 4 | Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels | ↓ 2 dose levels |
-|  |  | For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR. |
-|  | For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR |  |
+|  | For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR | For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR. |
 
 ## 2.2 Colorectal Single Agent Regimens 1 and 2
 
