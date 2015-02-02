@@ -1,12 +1,12 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-CUTIVATE® (fluticasone propionate) Lotion, 0.05% contains fluticasone propionate [S-(fluoromethyl)6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate], a synthetic fluorinated corticosteroid, for topical dermatologic use.
+CUTIVATE® (fluticasone propionate) Lotion, 0.05% contains fluticasone propionate [S-Fluoromethyl 6α, 9α-difluoro-11β-hydroxy-16α-methyl-3-oxo-17α-propionyloxyandrosta-1,4-diene-17β-carbothioate], a synthetic fluorinated corticosteroid, for topical use.
 The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
 
 Chemically, fluticasone propionate is C25H31F3O5S.
 It has the following structural formula:
 
-Fluticasone propionate is a white to off-white powder with a molecular weight of 500.6.
-It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
+Fluticasone propionate has a molecular weight of 500.6.
+It is a white to off-white powder and is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
 
-Each gram of CUTIVATE® Lotion contains 0.5mg fluticasone propionate in a base of cetostearyl alcohol, isopropyl myristate, propylene glycol, cetomacrogol 1000, dimethicone 350, citric acid, sodium citrate, and purified water, with imidurea, methylparaben, and propylparaben as preservatives.
+Each gram of CUTIVATE® Lotion contains 0.5 mg fluticasone propionate in a white to off white lotion base of anhydrous citric acid, cetomacrogol 1000, cetostearyl alcohol, dimethicone 360, imidurea, isopropyl myristate, methylparaben, propylene glycol, propylparaben, purified water, and sodium citrate.

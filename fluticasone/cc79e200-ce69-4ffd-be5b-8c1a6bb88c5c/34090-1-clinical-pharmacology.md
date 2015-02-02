@@ -1,42 +1,52 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Like other topical corticosteroids, fluticasone propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties.
-The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear.
-However, corticosteroids are thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
-It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachidonic acid.
-Arachidonic acid is released from membrane phospholipids by phospholipase A2.
+## 12.1 Mechanism of Action
 
-Although fluticasone propionate has a weak affinity for the progesterone receptor and virtually no affinity for the mineralocorticoid, estrogen or androgen receptors, the clinical relevance as related to safety is unknown.
-Fluticasone propionate is lipophilic and has strong affinity for the glucocorticoid receptor.
-The therapeutic potency of glucocorticoids is related to the half-life of the glucocorticoid receptor complex.
-The half-life of the fluticasone propionate-glucocorticoid receptor complex is approximately 10 hours.
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of CUTIVATE® Lotion in atopic dermatitis is unknown.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-Absorption: The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
+Vasoconstrictor Assay
+
+Trials performed with CUTIVATE® Lotion indicate that it is in the medium range of potency as demonstrated in vasoconstrictor trials in healthy subjects when compared with other topical corticosteroids.
+However, similar blanching scores do not necessarily imply therapeutic equivalence.
+
+Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression
+
+In an open label HPA axis suppression trial (Trial A), 42 pediatric subjects (ages 4 months to <6 years) with moderate to severe atopic dermatitis covering ≥ 35% Body Surface Area (BSA) who were treated with an exaggerated dosing regimen of CUTIVATE® Lotion twice daily (rather than the indicated dosing regimen of once daily) for at least 3 to 4 weeks were assessed for HPA axis suppression.
+The mean BSA treated was 65%.
+None of the 40 evaluable subjects were suppressed.
+The criterion for HPA axis suppression was a serum cortisol level of less than or equal to 18 micrograms per deciliter at 30-minutes after cosyntropin stimulation.
+
+Another open label HPA axis suppression trial (Trial B) enrolled 56 pediatric subjects (ages 3 months to 11 months) with moderate to severe atopic dermatitis covering ≥ 35% BSA.
+Subjects were treated with an exaggerated dosing regimen for of CUTIVATE® Lotion twice daily over a period of 3 or 4 weeks.
+The mean BSA treated was 54%.
+Out of 56 subjects, 49 were considered evaluable with respect to their adrenal axis function post-treatment.
+One of 49 subjects showed laboratory evidence of suppression immediately post treatment.
+The criterion for HPA axis suppression was a serum cortisol level of less than or equal to 18 micrograms per deciliter at 30-minutes after cosyntropin stimulation.
+Repeated test one week later showed the post cosyntropin stimulation testing serum cortisol returned to normal level (22.1 µg/dL).
+This 4-month old subject had a baseline treatment BSA of 94% and was reported to have received 100% of the twice-daily applications of CUTIVATE Lotion over the 27 day treatment period.
+
+## 12.3 Pharmacokinetics
+
+Absorption The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
 Occlusive dressing enhances penetration.
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin increase percutaneous absorption.
 
-Distribution: Following intravenous administration of 1 mg of fluticasone propionate in healthy volunteers, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
-The apparent volume of distribution averaged 4.2 L/kg (range, 2.3 to 16.7 L/kg).
-The percentage of fluticasone propionate bound to human plasma proteins averaged 91%.
+Plasma fluticasone levels were measured in a subset of subjects 2 to 5 years and 11 months of age in HPA axis suppression trial (Trial A) described above.
+A total of 13 (62%) of 21 subjects tested had measurable fluticasone at the end of 3 to 4 weeks of treatment.
+The mean ± SD fluticasone plasma concentration was 0.16 ± 0.23 ng/mL.
+Three subjects aged 3, 4, and 4 years had fluticasone concentrations over 0.30 ng/mL, with one of them having a concentration of 0.82 ng/mL.
+No data were obtained for subjects < 2 years of age.
+
+Distribution The percentage of fluticasone propionate bound to human plasma proteins averaged 91%.
 Fluticasone propionate is weakly and reversibly bound to erythrocytes.
 Fluticasone propionate is not significantly bound to human transcortin.
 
-Metabolism: No metabolites of fluticasone propionate were detected in an in vitro study of radiolabeled fluticasone propionate incubated in a human skin homogenate.
-The total blood clearance of systemically absorbed fluticasone propionate averages 1093 mL/min (range, 618 to 1702 mL/min) after a 1-mg intravenous dose, with renal clearance accounting for less than 0.02% of the total.
+Metabolism No metabolites of fluticasone propionate were detected in an in vitro study of radiolabeled fluticasone propionate incubated in a human skin homogenate.
 
-Orally absorbed fluticasone propionate has demonstrated extensive first-pass metabolism with no unchanged drug detected in the plasma up to 6 hours after dosing.
 Fluticasone propionate is metabolized in the liver by cytochrome P450 3A4-mediated hydrolysis of the 5-fluoromethyl carbothiolate grouping.
 This transformation occurs in 1 metabolic step to produce the inactive 17β-carboxylic acid metabolite, the only known metabolite detected in man.
 This metabolite has approximately 2000 times less affinity than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
-
-Excretion: Following an intravenous dose of 1 mg in healthy volunteers, fluticasone propionate showed polyexponential kinetics and had an average terminal half-life of 7.2 hours (range, 3.2 to 11.2 hours).
-
-Special Population (Pediatric): Plasma fluticasone levels were measured in patients 2 years - 6 years of age in an HPA axis suppression study.
-A total of 13 (62%) of 21 patients tested had measurable fluticasone at the end of 3 - 4 weeks of treatment.
-The mean ± SD fluticasone plasma values for patients aged under 3 years was 47.7 ± 31.7 pg/mL and 175.5 ± 243.6 pg/mL.
-Three patients had fluticasone levels over 300 pg/mL, with one of these having a level of 819.81 pg/mL.
-No data was obtained for patients < 2 years of age.

@@ -2,17 +2,9 @@
 
 PharmaDerm® NDC 10337-434-04
 
-CUTIVATE®
+CUTIVATE® (fluticasone propionate) Lotion, 0.05%
 
-(fluticasone propionate)
-
-Lotion, 0.05%
-
-For Topical Use Only –
-
-Not for ophthalmic, oral
-
-or intravaginal use.
+For topical use only – Not for ophthalmic, oral or intravaginal use.
 
 Rx only
 
@@ -22,17 +14,9 @@ Rx only
 
 PharmaDerm® NDC 10337-434-04
 
-CUTIVATE®
+CUTIVATE® (fluticasone propionate) Lotion, 0.05%
 
-(fluticasone propionate)
-
-Lotion, 0.05%
-
-For Topical Use Only –
-
-Not for ophthalmic, oral
-
-or intravaginal use.
+For topical use only – Not for ophthalmic, oral or intravaginal use.
 
 Rx only
 
