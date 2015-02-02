@@ -65,46 +65,46 @@ FLONASE Nasal Spray may cause serious side effects, including:
 
 - •nose problems.
   Nose problems may include:
-  - onose bleeds.
-  - osores (ulcers) in your nose.
-  - oa certain fungal infection in your nose, mouth, and/or throat (thrush).
-  - ohole in the cartilage of your nose (nasal septal perforation).
+  - •nose bleeds.
+  - •sores (ulcers) in your nose.
+  - •a certain fungal infection in your nose, mouth, and/or throat (thrush).
+  - •hole in the cartilage of your nose (nasal septal perforation).
     Symptoms of nasal septal perforation may include:
     - •crusting in the nose
     - •nose bleeds
     - •runny nose
     - •whistling sound when you breathe
-  - oslow wound healing.
+  - •slow wound healing.
     You should not use FLONASE Nasal Spray until your nose has healed if you have a sore in your nose, have had surgery on your nose, or if your nose has been injured.
 - •eye problems including glaucoma and cataracts.
   You should have regular eye exams while you use FLONASE Nasal Spray.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following signs of a serious allergic reaction:
-  - orash
-  - ohives
-  - oswelling of your face, mouth, and tongue
-  - obreathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •weakened immune system and increased chance of getting infections (immunosuppression).
   Taking medicines that weaken your immune system makes you more likely to get infections and can make certain infections worse.
   These infections may include tuberculosis (TB), ocular herpes simplex infections, and infections caused by fungi, bacteria, viruses, and parasites.
   Avoid contact with people who have a contagious disease such as chickenpox or measles while using FLONASE Nasal Spray.
   If you come in contact with someone who has chickenpox or measles call your healthcare provider right away.
   Symptoms of an infection may include:
-  - ofever
-  - opain
-  - oaches
-  - ochills
-  - ofeeling tired
-  - onausea
-  - ovomiting
+  - •fever
+  - •pain
+  - •aches
+  - •chills
+  - •feeling tired
+  - •nausea
+  - •vomiting
 - •lowered steroid hormone levels (adrenal insufficiency).Adrenal insufficiency happens when your adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking medicine containing an inhaled steroid (such as FLONASE Nasal Spray).
   Symptoms of adrenal insufficiency may include:
-  - ofeeling tired
-  - olack of energy
-  - oweakness
-  - onausea and vomiting
-  - olow blood pressure
+  - •feeling tired
+  - •lack of energy
+  - •weakness
+  - •nausea and vomiting
+  - •low blood pressure
 - •slowed growth in children.
   A child’s growth should be checked often.
 
@@ -165,14 +165,20 @@ Read this information before you start using your FLONASE Nasal Spray.
 
 Parts of your FLONASE Nasal Spray (See Figure A)
 
+Figure A
+
 Your FLONASE Nasal Spray must be primed before you use it for the first time and when you have not used it for a week or more.
 
 How to prime your FLONASE Nasal Spray
 
 - •Shake the bottle gently and then remove the dust cover (Figure B).
 
+Figure B
+
 - • Hold the bottle as shown (See Figure C) with the nasal applicator pointing away from you and with your forefinger and middle finger on either side of the nasal applicator and your thumb underneath the bottle.
 - •Press down and release 6 times until a fine spray appears (See Figure C). The pump is now ready for use.
+
+Figure C
 
 Using your FLONASE Nasal Spray:
 
@@ -183,11 +189,15 @@ Step 2.
 Close 1 nostril.
 Tilt your head forward slightly and, keeping the bottle upright, carefully insert the nasal applicator into the other nostril (See Figure D).
 
+Figure D
+
 Step 3.
 Start to breathe in through your nose, and while breathing in press firmly and quickly down 1 time on the applicator to release the spray.
 To get a full dose, use your forefinger and middle finger to spray while supporting the base of the bottle with your thumb.
 Avoid spraying in eyes.
 Breathe gently inwards through the nostril (See Figure E).
+
+Figure E
 
 Step 4.
 Breathe out through your mouth.
@@ -200,6 +210,8 @@ Repeat steps 2 through 5 in the other nostril.
 
 Step 7.
 Wipe the nasal applicator with a clean tissue and replace the dust cover (See Figure F).
+
+Figure F
 
 Do not use this bottle for more than the labeled number of sprays even though the bottle is not completely empty.
 Before you throw the bottle away, you should talk to your healthcare provider to see if a refill is needed.
