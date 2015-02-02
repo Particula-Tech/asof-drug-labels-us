@@ -77,3 +77,23 @@ Dispense with Medication
 Guide attached or provided
 
 separately.
+
+# PRINCIPAL DISPLAY PANEL
+
+Package Label – 60 mg
+
+Rx Only NDC 0078-0658-05
+
+Ritalin LA® (methylphenidate HCl)
+
+extended-release capsules
+
+60 mg
+
+100 capsules
+
+Dispense with Medication
+
+Guide attached or provided
+
+separately.
