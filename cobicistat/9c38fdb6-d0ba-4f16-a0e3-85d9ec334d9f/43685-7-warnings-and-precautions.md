@@ -1,0 +1,97 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Hepatotoxicity
+
+During the darunavir clinical development program (N=3063), where darunavir was coadministered with ritonavir 100 mg once or twice daily, drug-induced hepatitis (e.g., acute hepatitis, cytolytic hepatitis) was reported in 0.5% of subjects.
+Patients with pre-existing liver dysfunction, including chronic active hepatitis B or C, have an increased risk for liver function abnormalities including severe hepatic adverse reactions.
+
+Post-marketing cases of liver injury, including some fatalities, have also been reported with darunavir coadministered with ritonavir.
+These have generally occurred in patients with advanced HIV-1 disease taking multiple concomitant medications, having co-morbidities including hepatitis B or C co-infection, and/or developing immune reconstitution syndrome.
+A causal relationship with darunavir coadministered with ritonavir has not been established.
+
+Appropriate laboratory testing should be conducted prior to initiating therapy with PREZCOBIX and patients should be monitored during treatment.
+Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZCOBIX treatment.
+
+Evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients on PREZCOBIX should prompt consideration of interruption or discontinuation of treatment.
+
+## 5.2 Severe Skin Reactions
+
+During the darunavir clinical development program (n=3063), where darunavir was coadministered with ritonavir 100 mg once or twice daily, severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, was reported in 0.4% of subjects.
+Stevens-Johnson Syndrome was rarely (less than 0.1%) reported during the clinical development program.
+During post-marketing experience toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms, and acute generalized exanthematous pustulosis have been reported.
+Discontinue PREZCOBIX immediately if signs or symptoms of severe skin reactions develop.
+These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
+
+Mild-to-moderate rash was also reported and often occurred within the first four weeks of treatment and resolved with continued dosing.
+
+## 5.3 Effects on Serum Creatinine
+
+Cobicistat decreases estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function.
+This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating PREZCOBIX, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
+
+Prior to initiating therapy with PREZCOBIX, assess estimated creatinine clearance [see Dosage and Administration (2.4)].
+Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3), Clinical Pharmacology (12.2)].
+Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
+
+Although cobicistat may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function, patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg/dL from baseline should be closely monitored for renal safety.
+
+## 5.4 New Onset or Worsening Renal Impairment When Used with Tenofovir Disoproxil Fumarate
+
+Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when cobicistat, a component of PREZCOBIX, was used in an antiretroviral regimen that contained tenofovir DF.
+Coadministration of PREZCOBIX and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Dosage and Administration (2.3)].
+
+- Document urine glucose and urine protein at baseline [see Dosage and Administration (2.2)] and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment when PREZCOBIX is used with tenofovir DF.
+  Measure serum phosphorus in patients with or at risk for renal impairment when used with tenofovir DF.
+- Coadministration of PREZCOBIX and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
+
+See cobicistat full prescribing information for additional information regarding cobicistat.
+
+## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+
+Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of these medications, which may increase the risk of clinically significant adverse reactions (including life-threatening or fatal reactions) associated with the concomitant medications.
+Coadministration of PREZCOBIX with CYP3A inducers may lead to lower exposures of darunavir and cobicistat and loss of efficacy of darunavir and possible resistance.
+Therefore, consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4), Drug Interactions (7)].
+
+When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir coadministered with ritonavir.
+Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir coadministered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+
+## 5.6 Antiretrovirals Not Recommended
+
+PREZCOBIX is not recommended in combination with other antiretroviral drugs that require pharmacokinetic boosting (i.e., another protease inhibitor or elvitegravir) because dosing recommendations for such combinations have not been established and coadministration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance.
+
+PREZCOBIX is not recommended in combination with products containing the individual components of PREZCOBIX (darunavir and cobicistat) or with ritonavir.
+For additional recommendations on use of PREZCOBIX with other antiretroviral agents, see Drug Interactions (7).
+
+## 5.7 Sulfa Allergy
+
+Darunavir contains a sulfonamide moiety.
+Monitor patients with a known sulfonamide allergy after initiating PREZCOBIX.
+In clinical studies with darunavir coadministered with ritonavir, the incidence and severity of rash were similar in subjects with or without a history of sulfonamide allergy.
+
+## 5.8 Diabetes Mellitus/Hyperglycemia
+
+New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV infected patients receiving HIV protease inhibitor (PI) therapy.
+Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
+In some cases, diabetic ketoacidosis has occurred.
+In those patients who discontinued PI therapy, hyperglycemia persisted in some cases.
+Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and causal relationships between HIV PI therapy and these events have not been established.
+
+## 5.9 Fat Redistribution
+
+Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
+The mechanism and long-term consequences of these events are currently unknown.
+A causal relationship has not been established.
+
+## 5.10 Immune Reconstitution Syndrome
+
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including PREZCOBIX.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of antiretroviral treatment.
+
+## 5.11 Hemophilia
+
+There have been reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis in patients with hemophilia type A and B treated with HIV PIs.
+In some patients, additional factor VIII was given.
+In more than half of the reported cases, treatment with HIV PIs was continued or reintroduced if treatment had been discontinued.
+A causal relationship between PI therapy and these episodes has not been established.
