@@ -12,11 +12,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In the CombAT trial, over 4,800 male subjects with BPH were randomly assigned to receive 0.5 mg dutasteride, 0.4 mg tamsulosin hydrochloride, or coadministration therapy (0.5 mg dutasteride and 0.4 mg tamsulosin hydrochloride) administered once daily in a 4-year double-blind trial.
 Overall, 1,623 subjects received monotherapy with dutasteride; 1,611 subjects received monotherapy with tamsulosin; and 1,610 subjects received coadministration therapy.
-The population was aged 49 to 88 years (mean age: 66 years) and 88% were Caucasian.
+The population was aged 49 to 88 years (mean age: 66 years) and 88% were white.
 Table 1 summarizes adverse reactions reported in at least 1% of subjects receiving coadministration therapy and at a higher incidence than subjects receiving either dutasteride or tamsulosin as monotherapy.
 
 Table 1.
-Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More Frequently in the Coadministration Therapy Group Than the Dutasteride or Tamsulosin Monotherapy Group (CombAT) by Time of Onset
+Adverse Reactions Reported over a 48-Month Period in ≥1% of Subjects and More Frequently in the Coadministration Therapy Group than the Dutasteride or Tamsulosin Monotherapy Group (CombAT) by Time of Onset
 
 | Adverse Reaction | Adverse Reaction Time of Onset |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -60,37 +60,43 @@ eIncludes libido decreased, libido disorder, loss of libido, sexual dysfunction,
 
 fIncludes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
 
-Cardiac Failure: In CombAT, after 4 years of treatment, the incidence of the composite term cardiac failure in the coadministration group (12/1,610; 0.7%) was higher than in either monotherapy group: dutasteride, 2/1,623 (0.1%) and tamsulosin, 9/1,611 (0.6%).
+Cardiac Failure
+
+In CombAT, after 4 years of treatment, the incidence of the composite term cardiac failure in the coadministration group (12/1,610; 0.7%) was higher than in either monotherapy group: dutasteride, 2/1,623 (0.1%) and tamsulosin, 9/1,611 (0.6%).
 Composite cardiac failure was also examined in a separate 4-year placebo-controlled trial evaluating dutasteride in men at risk for development of prostate cancer.
 The incidence of cardiac failure in subjects taking dutasteride was 0.6% (26/4,105) compared with 0.4% (15/4,126) in subjects on placebo.
 A majority of subjects with cardiac failure in both trials had comorbidities associated with an increased risk of cardiac failure.
 Therefore, the clinical significance of the numerical imbalances in cardiac failure is unknown.
-No causal relationship between dutasteride, alone or coadministered with tamsulosin, and cardiac failure has been established.
+No causal relationship between dutasteride alone or coadministered with tamsulosin and cardiac failure has been established.
 No imbalance was observed in the incidence of overall cardiovascular adverse events in either trial.
 
-Additional information regarding adverse reactions in placebo-controlled trials with dutasteride or tamsulosin monotherapy follows:
+Additional information regarding adverse reactions in placebo-controlled trials with dutasteride or tamsulosin monotherapy follows.
 
 Dutasteride:
 
-Long-Term Treatment (Up to 4 Years): High-Grade Prostate Cancer: The REDUCE trial was a randomized, double-blind, placebo-controlled trial that enrolled 8,231 men aged 50 to 75 years with a serum PSA of 2.5 ng/mL to 10 ng/mL and a negative prostate biopsy within the previous 6 months.
-Subjects were randomized to receive placebo (N = 4,126) or 0.5-mg daily doses of dutasteride (N = 4,105) for up to 4 years.
-The mean age was 63 years and 91% were Caucasian.
+Long-term Treatment (Up to 4 Years): High-grade Prostate Cancer: The REDUCE trial was a randomized, double-blind, placebo-controlled trial that enrolled 8,231 men aged 50 to 75 years with a serum PSA of 2.5 ng/mL to 10 ng/mL and a negative prostate biopsy within the previous 6 months.
+Subjects were randomized to receive placebo (n = 4,126) or 0.5-mg daily doses of dutasteride (n = 4,105) for up to 4 years.
+The mean age was 63 years and 91% were white.
 Subjects underwent protocol-mandated scheduled prostate biopsies at 2 and 4 years of treatment or had “for-cause biopsies” at non-scheduled times if clinically indicated.
-There was a higher incidence of Gleason score 8-10 prostate cancer in men receiving dutasteride (1.0%) compared with men on placebo (0.5%) [see Indications and Usage (1.2), Warnings and Precautions (5.4)].
-In a 7-year placebo-controlled clinical trial with another 5 alpha-reductase inhibitor (finasteride 5 mg, PROSCAR), similar results for Gleason score 8-10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
+There was a higher incidence of Gleason score 8 to 10 prostate cancer in men receiving dutasteride (1.0%) compared with men on placebo (0.5%) [see Indications and Usage (1.2), Warnings and Precautions (5.4)].
+In a 7-year placebo-controlled clinical trial with another 5-alpha-reductase inhibitor (finasteride 5 mg, PROSCAR), similar results for Gleason score 8 to 10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
 
 No clinical benefit has been demonstrated in patients with prostate cancer treated with dutasteride.
 
-Reproductive and Breast Disorders: In the 3 pivotal placebo-controlled BPH trials with dutasteride, each 4 years in duration, there was no evidence of increased sexual adverse reactions (impotence, decreased libido, and ejaculation disorder) or breast disorders with increased duration of treatment.
+Reproductive and Breast Disorders
+
+In the 3 pivotal placebo-controlled BPH trials with dutasteride, each 4 years in duration, there was no evidence of increased sexual adverse reactions (impotence, decreased libido, and ejaculation disorder) or breast disorders with increased duration of treatment.
 Among these 3 trials, there was 1 case of breast cancer in the dutasteride group and 1 case in the placebo group.
 No cases of breast cancer were reported in any treatment group in the 4-year CombAT trial or the 4-year REDUCE trial.
 
 The relationship between long-term use of dutasteride and male breast neoplasia is currently unknown.
 
-Tamsulosin: According to the tamsulosin prescribing information, in two 13-week treatment trials with tamsulosin monotherapy, adverse reactions occurring in at least 2% of subjects receiving 0.4 mg tamsulosin hydrochloride and at an incidence higher than in subjects receiving placebo were: infection, asthenia, back pain, chest pain, somnolence, insomnia, rhinitis, pharyngitis, cough increased, sinusitis, and diarrhea.
+Tamsulosin
+
+According to the tamsulosin prescribing information, in two 13-week treatment trials with tamsulosin monotherapy, adverse reactions occurring in at least 2% of subjects receiving 0.4 mg tamsulosin hydrochloride and at an incidence higher than in subjects receiving placebo were: infection, asthenia, back pain, chest pain, somnolence, insomnia, rhinitis, pharyngitis, cough increased, sinusitis, and diarrhea.
 
 Signs and Symptoms of Orthostasis: According to the tamsulosin prescribing information, in clinical trials with tamsulosin monotherapy, a positive orthostatic test result was observed in 16% (81/502) of subjects receiving 0.4 mg tamsulosin hydrochloride versus 11% (54/493) of subjects receiving placebo.
-Because orthostasis was detected more frequently in the tamsulosin-treated subjects than in placebo recipients, there is a potential risk of syncope [see Warnings and Precaution (5.1)].
+Because orthostasis was detected more frequently in the tamsulosin-treated subjects than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions (5.1)].
 
 ## 6.2 Postmarketing Experience
 
@@ -114,12 +120,15 @@ Immune System Disorders: Hypersensitivity reactions, including rash, urticaria, 
 
 Cardiac Disorders: Palpitations, dyspnea, atrial fibrillation, arrhythmia, and tachycardia.
 
-Skin Disorders: Skin desquamation, including Stevens‑Johnson syndrome.
+Skin Disorders: Skin desquamation, including Stevens‑Johnson syndrome, erythema multiforme, dermatitis exfoliative.
 
-Gastrointestinal Disorders: Constipation, vomiting.
+Gastrointestinal Disorders: Constipation, vomiting, dry mouth.
 
 Reproductive System and Breast Disorders: Priapism.
 
+Respiratory: Epistaxis.
+
 Vascular Disorders: Hypotension.
 
-Ophthalmologic Disorders: During cataract surgery, a variant of small pupil syndrome known as Intraoperative floppy iris syndrome (IFIS) associated with alpha adrenergic antagonist therapy [see Warnings and Precautions (5.9)].
+Ophthalmologic Disorders: Blurred vision, visual impairment.
+During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) associated with alpha-adrenergic-antagonist therapy [see Warnings and Precautions (5.9)].

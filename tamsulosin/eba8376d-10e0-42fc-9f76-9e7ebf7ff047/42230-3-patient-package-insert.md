@@ -4,7 +4,7 @@ JALYN® [JAY-lin]
 
 (dutasteride and tamsulosin hydrochloride)
 
-Capsules
+capsules
 
 JALYN is for use by men only.
 
@@ -23,14 +23,14 @@ Do Not Take JALYN if you are:
 
 - •pregnant or could become pregnant.
   JALYN may harm your unborn baby.
-  Pregnant women should not touch JALYN Capsules.
+  Pregnant women should not touch JALYN capsules.
   If a woman who is pregnant with a male baby gets enough JALYN in her body by swallowing or touching JALYN, the male baby may be born with sex organs that are not normal.
-  If a pregnant woman or woman of childbearing potential comes in contact with leaking JALYN Capsules, the contact area should be washed immediately with soap and water.
+  If a pregnant woman or woman of childbearing potential comes in contact with leaking JALYN capsules, the contact area should be washed immediately with soap and water.
 - •a child or teenager.
 - •allergic to dutasteride, tamsulosin, or any of the ingredients in JALYN.
   See the end of this leaflet for a complete list of ingredients in JALYN.
 - •taking another medicine that contains an alpha-blocker.
-- •allergic to other 5 alpha-reductase inhibitors, for example, PROSCAR® (finasteride) Tablets.
+- •allergic to other 5-alpha-reductase inhibitors, for example, PROSCAR® (finasteride) Tablets.
 
 What should I tell my healthcare provider before taking JALYN?
 
@@ -43,7 +43,7 @@ Before you take JALYN, tell your healthcare provider if you:
 - •are allergic to sulfa medications
 - •have any other medical conditions
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 JALYN and other medicines may affect each other, causing side effects.
 JALYN may affect the way other medicines work, and other medicines may affect how JALYN works.
 
@@ -53,8 +53,8 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 How should I take JALYN?
 
 - •Take JALYN exactly as your healthcare provider tells you to take it.
-- •Swallow JALYN Capsules whole.
-  Do not crush, chew, or open JALYN Capsules because the contents of the capsule may irritate your lips, mouth, or throat.
+- •Swallow JALYN capsules whole.
+  Do not crush, chew, or open JALYN capsules because the contents of the capsule may irritate your lips, mouth, or throat.
 - •Take your JALYN 1 time each day, about 30 minutes after the same meal every day.
   For example, you may take JALYN 30 minutes after dinner every day.
 - •If you miss a dose, you can take it later that same day, 30 minutes after a meal.
@@ -89,7 +89,7 @@ Get medical help right away if you have these serious allergic reactions.
 
 - •Higher chance of a more serious form of prostate cancer.
 - •Eye problems during cataract surgery.
-  During cataract surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken JALYN in the past.
+  During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken JALYN in the past.
   If you need to have cataract surgery, tell your surgeon if you take or have taken JALYN.
 - •A painful erection that will not go away.
   Rarely, JALYN can cause a painful erection (priapism), which cannot be relieved by having sex.
@@ -129,8 +129,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store JALYN?
 
-- •Store JALYN Capsules at room temperature (59° to 86°F or 15° to 30°C).
-- •JALYN Capsules may become deformed and/or discolored if kept at high temperatures.
+- •Store JALYN capsules at room temperature (59° to 86°F or 15° to 30°C).
+- •JALYN capsules may become deformed and/or discolored if kept at high temperatures.
 - •Do not use or touch JALYN if your capsules are deformed, discolored, or leaking.
 - •Safely throw away medicine that is no longer needed.
 
@@ -167,9 +167,9 @@ The makers of these brands are not affiliated with and do not endorse the GSK gr
 
 Manufactured for: GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015, the GSK group of companies.
 All rights reserved.
 
-June 2014
+January 2015
 
-JLN:8PIL
+JLN:9PIL

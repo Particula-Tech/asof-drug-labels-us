@@ -2,18 +2,22 @@
 
 ## 12.1 Mechanism of Action
 
-JALYN is a combination of 2 drugs with different mechanisms of action to improve symptoms in patients with BPH: dutasteride, a 5 alpha-reductase inhibitor, and tamsulosin, an antagonist of alpha1A-adrenoreceptors.
+JALYN is a combination of 2 drugs with different mechanisms of action to improve symptoms in patients with BPH: dutasteride, a 5-alpha-reductase inhibitor, and tamsulosin, an antagonist of alpha1A-adrenoreceptors.
 
-Dutasteride: Dutasteride inhibits the conversion of testosterone to DHT.
+Dutasteride
+
+Dutasteride inhibits the conversion of testosterone to DHT.
 DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland.
 Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2.
 The type 2 isoenzyme is primarily active in the reproductive tissues, while the type 1 isoenzyme is also responsible for testosterone conversion in the skin and liver.
 
-Dutasteride is a competitive and specific inhibitor of both type 1 and type 2 5 alpha-reductase isoenzymes, with which it forms a stable enzyme complex.
+Dutasteride is a competitive and specific inhibitor of both type 1 and type 2 5-alpha-reductase isoenzymes, with which it forms a stable enzyme complex.
 Dissociation from this complex has been evaluated under in vitro and in vivo conditions and is extremely slow.
 Dutasteride does not bind to the human androgen receptor.
 
-Tamsulosin: Smooth muscle tone is mediated by the sympathetic nervous stimulation of alpha1-adrenoceptors, which are abundant in the prostate, prostatic capsule, prostatic urethra, and bladder neck.
+Tamsulosin
+
+Smooth muscle tone is mediated by the sympathetic nervous stimulation of alpha1-adrenoceptors, which are abundant in the prostate, prostatic capsule, prostatic urethra, and bladder neck.
 Blockade of these adrenoceptors can cause smooth muscles in the bladder neck and prostate to relax, resulting in an improvement in urine flow rate and a reduction in symptoms of BPH.
 
 Tamsulosin, an alpha1-adrenoceptor blocking agent, exhibits selectivity for alpha1-receptors in the human prostate.
@@ -23,7 +27,9 @@ Tamsulosin is not intended for use as an antihypertensive.
 
 ## 12.2 Pharmacodynamics
 
-Dutasteride: Effect on 5 Alpha-Dihydrotestosterone and Testosterone: The maximum effect of daily doses of dutasteride on the reduction of DHT is dose-dependent and is observed within 1 to 2 weeks.
+Dutasteride
+
+Effect on 5 Alpha-Dihydrotestosterone and Testosterone: The maximum effect of daily doses of dutasteride on the reduction of DHT is dose-dependent and is observed within 1 to 2 weeks.
 After 1 and 2 weeks of daily dosing with dutasteride 0.5 mg, median serum DHT concentrations were reduced by 85% and 90%, respectively.
 In patients with BPH treated with dutasteride 0.5 mg/day for 4 years, the median decrease in serum DHT was 94% at 1 year, 93% at 2 years, and 95% at both 3 and 4 years.
 The median increase in serum testosterone was 19% at both 1 and 2 years, 26% at 3 years, and 22% at 4 years, but the mean and median levels remained within the physiologic range.
@@ -31,9 +37,9 @@ The median increase in serum testosterone was 19% at both 1 and 2 years, 26% at 
 In patients with BPH treated with 5 mg/day of dutasteride or placebo for up to 12 weeks prior to transurethral resection of the prostate, mean DHT concentrations in prostatic tissue were significantly lower in the dutasteride group compared with placebo (784 and 5,793 pg/g, respectively, P<0.001).
 Mean prostatic tissue concentrations of testosterone were significantly higher in the dutasteride group compared with placebo (2,073 and 93 pg/g, respectively, P<0.001).
 
-Adult males with genetically inherited type 2 5 alpha-reductase deficiency also have decreased DHT levels.
-These 5 alpha-reductase-deficient males have a small prostate gland throughout life and do not develop BPH.
-Except for the associated urogenital defects present at birth, no other clinical abnormalities related to 5 alpha-reductase deficiency have been observed in these individuals.
+Adult males with genetically inherited type 2 5-alpha-reductase deficiency also have decreased DHT levels.
+These 5-alpha-reductase-deficient males have a small prostate gland throughout life and do not develop BPH.
+Except for the associated urogenital defects present at birth, no other clinical abnormalities related to 5-alpha-reductase deficiency have been observed in these individuals.
 
 Effects on Other Hormones: In healthy volunteers, 52 weeks of treatment with dutasteride 0.5 mg/day (n = 26) resulted in no clinically significant change compared with placebo (n = 23) in sex hormone-binding globulin, estradiol, luteinizing hormone, follicle-stimulating hormone, thyroxine (free T4), and dehydroepiandrosterone.
 Statistically significant, baseline-adjusted mean increases compared with placebo were observed for total testosterone at 8 weeks (97.1 ng/dL, P<0.003) and thyroid-stimulating hormone at 52 weeks (0.4 mcIU/mL, P<0.05).
@@ -50,10 +56,12 @@ No clinically significant changes in adrenal hormone responses to adrenocorticot
 
 The pharmacokinetics of dutasteride and tamsulosin from JALYN are comparable to the pharmacokinetics of dutasteride and tamsulosin when administered separately.
 
-Absorption: The pharmacokinetic parameters of dutasteride and tamsulosin observed after administration of JALYN in a single dose, randomized, 3-period partial, cross-over trial are summarized in Table 2 below.
+Absorption
+
+The pharmacokinetic parameters of dutasteride and tamsulosin observed after administration of JALYN in a single-dose, randomized, 3-period, partial cross-over trial are summarized in Table 2 below.
 
 Table 2.
-Arithmetic Means (SD) of Serum Dutasteride and Tamsulosin in Single-Dose Pharmacokinetic Parameters Under Fed Conditions
+Arithmetic Means (SD) of Serum Dutasteride and Tamsulosin in Single-dose Pharmacokinetic Parameters under Fed Conditions
 
 | Component | N | AUC(0-t) (ng h/mL) | Cmax (ng/mL) | Tmax (h)a | t½ (h) |
 | --- | --- | --- | --- | --- | --- |
@@ -69,21 +77,27 @@ Dutasteride: Following administration of a single 0.5-mg dose of a soft gelatin 
 Tamsulosin: Absorption of tamsulosin is essentially complete (>90%) following oral administration of 0.4-mg tamsulosin hydrochloride capsules under fasting conditions.
 Tamsulosin exhibits linear kinetics following single and multiple dosing, with achievement of steady-state concentrations by the fifth day of once-daily dosing.
 
-Effect of Food: Food does not affect the pharmacokinetics of dutasteride following administration of JALYN.
+Effect of Food
+
+Food does not affect the pharmacokinetics of dutasteride following administration of JALYN.
 However, a mean 30% decrease in tamsulosin Cmax was observed when JALYN was administered with food, similar to that seen when tamsulosin monotherapy was administered under fed versus fasting conditions.
 
-Distribution: Dutasteride: Pharmacokinetic data following single and repeat oral doses show that dutasteride has a large volume of distribution (300 to 500 L). Dutasteride is highly bound to plasma albumin (99.0%) and alpha-1 acid glycoprotein (96.6%).
+Distribution
+
+Dutasteride: Pharmacokinetic data following single and repeat oral doses show that dutasteride has a large volume of distribution (300 to 500 L). Dutasteride is highly bound to plasma albumin (99.0%) and alpha-1 acid glycoprotein (AAG, 96.6%).
 
 In a trial of healthy subjects (n = 26) receiving dutasteride 0.5 mg/day for 12 months, semen dutasteride concentrations averaged 3.4 ng/mL (range: 0.4 to 14 ng/mL) at 12 months and, similar to serum, achieved steady-state concentrations at 6 months.
 On average, at 12 months 11.5% of serum dutasteride concentrations partitioned into semen.
 
 Tamsulosin: The mean steady-state apparent volume of distribution of tamsulosin after intravenous administration to 10 healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
 
-Tamsulosin is extensively bound to human plasma proteins (94% to 99%), primarily alpha-1 acid glycoprotein (AAG), with linear binding over a wide concentration range (20 to 600 ng/mL).
+Tamsulosin is extensively bound to human plasma proteins (94% to 99%), primarily AAG, with linear binding over a wide concentration range (20 to 600 ng/mL).
 The results of 2-way in vitro studies indicate that the binding of tamsulosin to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatin-hydroxy acid metabolite, warfarin, diazepam, or propranolol.
 Likewise, tamsulosin had no effect on the extent of binding of these drugs.
 
-Metabolism: Dutasteride: Dutasteride is extensively metabolized in humans.
+Metabolism
+
+Dutasteride: Dutasteride is extensively metabolized in humans.
 In vitro studies showed that dutasteride is metabolized by the CYP3A4 and CYP3A5 isoenzymes.
 Both of these isoenzymes produced the 4′-hydroxydutasteride, 6-hydroxydutasteride, and the 6,4′-dihydroxydutasteride metabolites.
 In addition, the 15-hydroxydutasteride metabolite was formed by CYP3A4.
@@ -103,7 +117,9 @@ The metabolites of tamsulosin undergo extensive conjugation to glucuronide or su
 Incubations with human liver microsomes showed no evidence of clinically significant metabolic interactions between tamsulosin and amitriptyline, albuterol, glyburide, and finasteride.
 However, results of the in vitro testing of the tamsulosin interaction with diclofenac and warfarin were equivocal.
 
-Excretion: Dutasteride: Dutasteride and its metabolites were excreted mainly in feces.
+Excretion
+
+Dutasteride: Dutasteride and its metabolites were excreted mainly in feces.
 As a percent of dose, there was approximately 5% unchanged dutasteride (approximately 1% to approximately 15%) and 40% as dutasteride-related metabolites (approximately 2% to approximately 90%).
 Only trace amounts of unchanged dutasteride were found in urine (<1%).
 Therefore, on average, the dose unaccounted for approximated 55% (range: 5% to 97%).
@@ -119,7 +135,9 @@ Because of absorption rate-controlled pharmacokinetics with tamsulosin hydrochlo
 
 Tamsulosin undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/h).
 
-Specific Populations: Pediatric: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
+Specific Populations
+
+Pediatric: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
 
 Geriatric: Dutasteride and tamsulosin pharmacokinetics using JALYN have not been studied in geriatric patients.
 The following text reflects information for the individual components.
@@ -161,7 +179,9 @@ While a change in the overall plasma concentration of tamsulosin was observed as
 Therefore, patients with moderate hepatic impairment do not require an adjustment in tamsulosin dosage.
 Tamsulosin has not been studied in patients with severe hepatic impairment.
 
-Drug Interactions: There have been no drug interaction studies using JALYN.
+Drug Interactions
+
+There have been no drug interaction studies using JALYN.
 The following text reflects information available for the individual components.
 
 Cytochrome P450 Inhibitors: Dutasteride: No clinical drug interaction trials have been performed to evaluate the impact of CYP3A enzyme inhibitors on dutasteride pharmacokinetics.
@@ -176,7 +196,7 @@ The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., 
 The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single tamsulosin capsule 0.4-mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
 Concomitant treatment with paroxetine resulted in increases in the Cmax and AUC of tamsulosin by factors of 1.3 and 1.6, respectively.
 A similar increase in exposure is expected in poor metabolizers (PM) of CYP2D6 as compared with extensive metabolizers (EM).
-A fraction of the population (about 7% of Caucasians and 2% of African-Americans) are CYP2D6 PMs.
+A fraction of the population (about 7% of whites and 2% of African-Americans) are CYP2D6 PMs.
 Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin 0.4 mg is coadministered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin 0.4-mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
 
 The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin have not been evaluated.
@@ -187,7 +207,7 @@ However, there is a potential for significant increase in tamsulosin exposure wh
 Cimetidine: The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin capsule 0.4-mg dose was investigated in 10 healthy volunteers (age range: 21 to 38 years).
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
 
-Alpha Adrenergic Antagonists: Dutasteride: In a single-sequence, crossover trial in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
+Alpha-adrenergic Antagonists: Dutasteride: In a single-sequence, crossover trial in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
 Although the effect of administration of tamsulosin or terazosin on dutasteride pharmacokinetic parameters was not evaluated, the percent change in DHT concentrations was similar for dutasteride, alone or in combination with tamsulosin or terazosin.
 
 Warfarin: Dutasteride: In a trial of 23 healthy volunteers, 3 weeks of treatment with dutasteride 0.5 mg/day did not alter the steady-state pharmacokinetics of the S- or R-warfarin isomers or alter the effect of warfarin on prothrombin time when administered with warfarin.

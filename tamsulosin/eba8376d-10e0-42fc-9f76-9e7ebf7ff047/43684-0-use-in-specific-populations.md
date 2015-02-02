@@ -4,16 +4,18 @@
 
 Pregnancy Category X. There are no adequate and well-controlled studies in pregnant women with JALYN or its individual components.
 
-Dutasteride: Dutasteride is contraindicated for use in women of childbearing potential and during pregnancy.
-Dutasteride is a 5 alpha-reductase inhibitor that prevents conversion of testosterone to dihydrotestosterone (DHT), a hormone necessary for normal development of male genitalia.
+Dutasteride
+
+Dutasteride is contraindicated for use in women of childbearing potential and during pregnancy.
+Dutasteride is a 5-alpha-reductase inhibitor that prevents conversion of testosterone to dihydrotestosterone (DHT), a hormone necessary for normal development of male genitalia.
 In animal reproduction and developmental toxicity studies, dutasteride inhibited normal development of external genitalia in male fetuses.
 Therefore, dutasteride may cause fetal harm when administered to a pregnant woman.
 If dutasteride is used during pregnancy or if the patient becomes pregnant while taking dutasteride, the patient should be apprised of the potential hazard to the fetus.
 
-Abnormalities in the genitalia of male fetuses is an expected physiological consequence of inhibition of the conversion of testosterone to DHT by 5 alpha-reductase inhibitors.
-These results are similar to observations in male infants with genetic 5 alpha-reductase deficiency.
+Abnormalities in the genitalia of male fetuses is an expected physiological consequence of inhibition of the conversion of testosterone to DHT by 5-alpha-reductase inhibitors.
+These results are similar to observations in male infants with genetic 5-alpha-reductase deficiency.
 Dutasteride is absorbed through the skin.
-To avoid potential fetal exposure, women who are pregnant or could become pregnant should not handle dutasteride-containing capsules, including JALYN Capsules.
+To avoid potential fetal exposure, women who are pregnant or could become pregnant should not handle dutasteride-containing capsules, including JALYN capsules.
 If contact is made with leaking capsules, the contact area should be washed immediately with soap and water [see Warnings and Precautions (5.6)].
 Dutasteride is secreted into semen.
 The highest measured semen concentration of dutasteride in treated men was 14 ng/mL.
@@ -47,7 +49,9 @@ It is not known whether rabbits or rhesus monkeys produce any of the major human
 
 Estimates of exposure multiples comparing animal studies to the MRHD for dutasteride are based on clinical serum concentration at steady state.
 
-Tamsulosin: Administration of tamsulosin to pregnant female rats at dose levels up to approximately 50 times the human therapeutic AUC exposure (animal dose of 300 mg/kg/day) revealed no evidence of harm to the fetus.
+Tamsulosin
+
+Administration of tamsulosin to pregnant female rats at dose levels up to approximately 50 times the human therapeutic AUC exposure (animal dose of 300 mg/kg/day) revealed no evidence of harm to the fetus.
 Administration of tamsulosin hydrochloride to pregnant rabbits at dose levels up to 50 mg/kg/day produced no evidence of fetal harm.
 However, because of the effect of dutasteride on the fetus, JALYN is contraindicated for use in pregnant women.
 Estimates of exposure multiples comparing animal studies to the MRHD for tamsulosin are based on AUC.
@@ -78,9 +82,13 @@ However, patients with end-stage renal disease (CLcr<10 mL/min/1.73 m2) have not
 The effect of hepatic impairment on dutasteride and tamsulosin pharmacokinetics has not been studied using JALYN.
 The following text reflects information available for the individual components.
 
-Dutasteride: The effect of hepatic impairment on dutasteride pharmacokinetics has not been studied.
+Dutasteride
+
+The effect of hepatic impairment on dutasteride pharmacokinetics has not been studied.
 Because dutasteride is extensively metabolized, exposure could be higher in hepatically impaired patients.
 However, in a clinical trial where 60 subjects received 5 mg (10 times the therapeutic dose) daily for 24 weeks, no additional adverse events were observed compared with those observed at the therapeutic dose of 0.5 mg [see Clinical Pharmacology (12.3)].
 
-Tamsulosin: Patients with moderate hepatic impairment do not require an adjustment in tamsulosin dosage.
+Tamsulosin
+
+Patients with moderate hepatic impairment do not require an adjustment in tamsulosin dosage.
 Tamsulosin has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
