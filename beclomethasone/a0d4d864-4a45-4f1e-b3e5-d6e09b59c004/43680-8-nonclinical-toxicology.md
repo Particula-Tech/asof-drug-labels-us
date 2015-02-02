@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 The carcinogenicity of beclomethasone dipropionate was evaluated in rats that were exposed for a total of 95 weeks: 13 weeks at inhalation doses up to 0.4 mg/kg and the remaining 82 weeks at combined oral and inhalation doses up to 2.4 mg/kg.
-In this trial, there was no evidence of carcinogenicity at the highest dose: approximately 70 times the maximum recommended human daily intranasal dose (MRHDID) in adults on a mg/m2 basis.
+In this trial, there was no evidence of carcinogenicity at the highest dose: approximately 70 and 120 times the maximum recommended human daily intranasal dose (MRHDID) in adults and children, respectively, on a mg/m2 basis.
 
 Beclomethasone dipropionate did not induce gene mutation in bacterial cells or mammalian Chinese hamster ovary (CHO) cells in vitro.
 No significant clastogenic effect was seen in cultured CHO cells in vitro or in the mouse micronucleus test in vivo.

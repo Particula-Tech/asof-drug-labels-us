@@ -2,29 +2,29 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
-- Glaucoma and cataracts [see Warnings and Precautions (5.2)]
-- Hypercorticism, adrenal suppression, and growth reduction [see Warnings and Precautions (5.5)(5.6), Use in Specific Populations (8.4)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
+- •Epistaxis, nasal discomfort, nasal ulcerations, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
+- •Glaucoma and cataracts [see Warnings and Precautions (5.2)]
+- •Hypercorticism, adrenal suppression, and growth reduction [see Warnings and Precautions (5.5)(5.6), Use in Specific Populations (8.4)]
+- •Immunosuppression [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Adults and Adolescents 12 Years of Age and Older:
 
 The safety data described below for adults and adolescents 12 years of age and older with seasonal or perennial allergic rhinitis are based on 4 placebo-controlled clinical trials of 2 to 6 weeks duration evaluating doses of beclomethasone nasal aerosol from 80 to 320 mcg once daily.
 These short-term trials included a total of 1394 patients with either seasonal or perennial allergic rhinitis.
 Of these, 575 (378 female and 197 male) received at least one dose of QNASL Nasal Aerosol, 320 mcg once daily and 578 (360 female and 218 male) received placebo.
 Patient ages ranged from 12 to 82 years and the racial distribution of patients was 81% white, 16% black, and 4% other.
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Short-Term (2–6 Weeks) Trials:Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.
+Table displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
 
-Short-Term (2–6 Weeks) Trials: Overall, the incidence of adverse reactions did not differ appreciably between patients treated with QNASL Nasal Aerosol and those who were treated with placebo.
-Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.
-Table 1 displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
-
-Table 1.
-Adverse Events With ≥ 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population)
-
-|  | QNASL Nasal Aerosol 320 mcg (N = 575) n (%) | Placebo (N = 578) n (%) |
+| Table 1. Adverse Events With ≥ 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
 | --- | --- | --- |
+|  | Adult and Adolescent Patients 12 Years of Age and Older |  |
+|  | QNASL Nasal Aerosol 320 mcg (N = 575) n (%) | Placebo (N = 578) n (%) |
 | Nasal Discomfort | 30 (5.2) | 28 (4.8) |
 | Epistaxis | 11 (1.9) | 7 (1.2) |
 | Headache | 13 (2.3) | 9 (1.6) |
@@ -42,11 +42,34 @@ Seventeen patients treated with QNASL Nasal Aerosol experienced adverse reaction
 There were 4 nasal erosions and 1 nasal septum ulceration which occurred in patients who received QNASL Nasal Aerosol, and no erosions or ulcerations noted in patients who received placebo.
 No patient experienced a nasal septum perforation during the trial.
 
+Pediatric Patients Aged 4 to 11 Years:
+
+The safety data described below for pediatric patients 4 to 11 years of age with seasonal or perennial allergic rhinitis are based on 3 placebo-controlled clinical trials.
+These trials were 2 to 12 weeks in duration, evaluated doses of beclomethasone nasal aerosol 80 mcg to 160 mcg once daily and included a total of 1360 patients with either seasonal or perennial allergic rhinitis.
+Of these, 668 (312 female and 356 male) received at least one dose of QNASL Nasal Aerosol, 80 mcg once daily, 241 (116 female and 125 male) received QNASL Nasal Aerosol 160 mcg once daily, and 451 (203 female and 248 male) received placebo.
+The racial distribution of patients was 73% white, 20% black, and 6% other.
+Based on the results from the dose ranging trial, 80 mcg once daily was chosen as the dose in pediatric patients.
+
+Less than 1.5% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol 80 mcg once daily similar to or lower than the rate among patients who received placebo.
+Table 2 displays the common adverse reactions (≥ 2% and greater than placebo-treated patients).
+Additionally, epistaxis was reported at a rate of 4% for both QNASL Nasal Aerosol 80 mcg once daily and placebo treated patients.
+
+| Table 2. Adverse Events With ≥ 2% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Pediatric Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 12 weeks Duration (Safety Population) |  |  |
+| --- | --- | --- |
+|  | Pediatric Patients 4 to 11 Years of Age |  |
+|  | QNASL Nasal Aerosol 80 mcg (N=668)n (%) | Placebo (N=451)n (%) |
+| Headache | 23 (3.4) | 15 (3.3) |
+| Pyrexia | 19 (2.8) | 7 (1.6) |
+| Upper respiratory tract infection | 17 (2.5) | 8 (1.8) |
+| Nasopharyngitis | 15 (2.2) | 6 (1.3) |
+
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials for QNASL Nasal Aerosol, the following adverse events have been reported during use of other intranasal and inhaled formulations of beclomethasone dipropionate.
+In addition to adverse reactions reported from clinical trials for QNASL Nasal Aerosol, the following adverse events have been reported during postmarketing use of QNASL Nasal Aerosol or other intranasal and inhaled formulations of beclomethasone dipropionate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to beclomethasone dipropionate or a combination of these factors.
+
+QNASL Nasal Aerosol: sneezing, burning sensation
 
 Intranasal beclomethasone dipropionate: Nasal septal perforation, glaucoma, cataracts, loss of taste and smell, and hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria have been reported following intranasal administration of beclomethasone dipropionate.
 

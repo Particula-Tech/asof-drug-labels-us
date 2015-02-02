@@ -7,5 +7,8 @@ It is practically insoluble in water, very soluble in chloroform, and soluble in
 
 QNASL Nasal Aerosol is a pressurized, nonaqueous solution in a metered-dose aerosol device intended ONLY for intranasal use.
 It contains a solution of beclomethasone dipropionate in propellant HFA-134a (1,1,1,2-tetrafluoroethane) and dehydrated ethanol.
-Each actuation delivers 100 mcg of beclomethasone dipropionate in 59 mg of solution from the valve and delivers 80 mcg of beclomethasone dipropionate from the nasal actuator.
-Each canister contains 8.7 g of drug and excipients and provides 120 actuations after priming.
+QNASL 40 mcg Nasal Aerosol delivers 40 mcg of beclomethasone dipropionate from the nasal actuator and 50 mcg from the valve.
+QNASL 80 mcg Nasal Aerosol delivers 80 mcg of beclomethasone dipropionate from the nasal actuator and 100 mcg from the valve.
+Each strength delivers 59 mg of solution from the valve with each actuation.
+Each canister of QNASL 40 mcg or 80 mcg Nasal Aerosol, contains 8.7 g of drug and excipients and each provides 120 actuations after priming.
+Additionally, QNASL 40 mcg Nasal Aerosol contains 4.9 g of drug and excipients and provides 60 actuations after priming.

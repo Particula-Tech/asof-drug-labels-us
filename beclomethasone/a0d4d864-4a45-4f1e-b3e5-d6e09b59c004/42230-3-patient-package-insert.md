@@ -1,6 +1,4 @@
-# PATIENT INFORMATION AND INSTRUCTIONS FOR USE LEAFLET
-
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 QNASL (kyoo nay' zel) (beclomethasone dipropionate) Nasal Aerosol
 
@@ -29,14 +27,14 @@ What should I tell my healthcare provider before using QNASL Nasal Aerosol?
 
 Before you use QNASL Nasal Aerosol, tell your healthcare provider if you:
 
-- Have had recent nose problems such as nasal sores, nasal surgery, or a nasal injury
-- Have or have had eye problems, such as increased pressure in your eye (glaucoma) or cataracts
-- Have tuberculosis or any untreated fungal, bacterial, or viral infections, or eye infections caused by herpes
-- Have not had or been vaccinated for chickenpox or measles
-- Are pregnant or plan to become pregnant.
+- •Have had recent nose problems such as nasal sores, nasal surgery, or a nasal injury
+- •Have or have had eye problems, such as increased pressure in your eye (glaucoma) or cataracts
+- •Have tuberculosis or any untreated fungal, bacterial, or viral infections, or eye infections caused by herpes
+- •Have not had or been vaccinated for chickenpox or measles
+- •Are pregnant or plan to become pregnant.
   It is not known if QNASL Nasal Aerosol will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant
-- Are breastfeeding or plan to breastfeed.
+- •Are breastfeeding or plan to breastfeed.
   It is not known if QNASL Nasal Aerosol passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you are using QNASL Nasal Aerosol
 
@@ -54,68 +52,68 @@ Keep a list of your medications with you to show your healthcare provider and ph
 
 How should I use QNASL Nasal Aerosol?
 
-- Read the Instructions for Use at the end of this leaflet for specific information about the right way to use QNASL Nasal Aerosol
-- QNASL Nasal Aerosol is for use in the nose only.
+- •Read the Instructions for Use at the end of this leaflet for specific information about the right way to use QNASL Nasal Aerosol
+- •QNASL Nasal Aerosol is for use in the nose only.
   Do not spray it in your eyes or mouth
-- Use QNASL Nasal Aerosol exactly as your healthcare provider tells you to use it.
+- •Use QNASL Nasal Aerosol exactly as your healthcare provider tells you to use it.
   Do not use more of your medicine or take it more often than your healthcare provider tells you
-- QNASL Nasal Aerosol must be primed before you use it for the first time and if you do not use it for 7 or more days in a row.
+- •QNASL Nasal Aerosol must be primed before you use it for the first time and if you do not use it for 7 or more days in a row.
   Do not prime your QNASL Nasal Aerosol every day
-- Your QNASL Nasal Aerosol has a spray counter which should read 120 sprays after your 4 initial priming sprays
-- Do not use your QNASL Nasal Aerosol after the spray counter reads 0.
+- •Your QNASL Nasal Aerosol has a spray counter which should read 120 sprays after your 4 initial priming sprays
+- •Do not use your QNASL Nasal Aerosol after the spray counter reads 0.
   You may not get the right amount of medicine
-- The usual dose of QNASL Nasal Aerosol is 2 sprays in each nostril, 1 time a day.
+- •The usual dose of QNASL Nasal Aerosol is 2 sprays in each nostril, 1 time a day.
   You should not use more than a total of 4 sprays per day
-- You will get the best results if you keep using QNASL Nasal Aerosol regularly each day.
+- •You will get the best results if you keep using QNASL Nasal Aerosol regularly each day.
   If your symptoms do not improve or get worse, call your healthcare provider
 
 What are the possible side effects of QNASL Nasal Aerosol?
 
 QNASL Nasal Aerosol may cause serious side effects, including:
 
-- Nose bleeds or nasal ulcers.
+- •Nose bleeds or nasal ulcers.
   Your healthcare provider should check the inside of your nose (nasal mucosa) while you take QNASL Nasal Aerosol for problems.
   Talk to your healthcare provider if you have nose bleeds or nasal ulcers
-- Thrush (candida), a fungal infection in your nose, mouth, or throat.
+- •Thrush (candida), a fungal infection in your nose, mouth, or throat.
   Tell your healthcare provider if you have any redness or white colored patches in your mouth or throat
-- Slow wound healing.
+- •Slow wound healing.
   You should not use QNASL Nasal Aerosol until your nose has healed if you have a sore in your nose, you have had surgery on your nose, or your nose has been injured
-- Eye problems such as glaucoma and cataracts.
+- •Eye problems such as glaucoma and cataracts.
   If you have a history of glaucoma or cataracts or have a family history of eye problems, you should have regular eye exams while you use QNASL Nasal Aerosol
-- Adrenal insufficiency.
+- •Adrenal insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   Symptoms of adrenal insufficiency may include:
-  - Tiredness
-  - Weakness
-  - Dizziness
-  - Nausea
-  - Vomiting
-- Allergic reactions.
+  - oTiredness
+  - oWeakness
+  - oDizziness
+  - oNausea
+  - oVomiting
+- •Allergic reactions.
   Serious allergic reactions can happen in people taking QNASL Nasal Aerosol.
   Stop using QNASL Nasal Aerosol and call your healthcare provider right away or get emergency medical help if you have:
-  - Shortness of breath or trouble breathing
-  - Skin rash, redness, or swelling
-  - Severe itching
-  - Swelling of your lips, tongue or face
-- Immune system problems that may increase your risk of infections.
+  - oShortness of breath or trouble breathing
+  - oSkin rash, redness, or swelling
+  - oSevere itching
+  - oSwelling of your lips, tongue or face
+- •Immune system problems that may increase your risk of infections.
   You are more likely to get infections if you take medicines that may weaken your body's ability to fight infection.
   Avoid contact with people who have contagious diseases such as chicken pox or measles while you use QNASL Nasal Aerosol.
   Symptoms of an infection may include:
-  - Fever
-  - Pain
-  - Aches
-  - Chills
-  - Feeling tired
-  - Nausea
-  - Vomiting
-- Slowed growth in children.
+  - oFever
+  - oPain
+  - oAches
+  - oChills
+  - oFeeling tired
+  - oNausea
+  - oVomiting
+- •Slowed growth in children.
   A child's growth should be checked regularly while using QNASL Nasal Aerosol
 
 The most common side effects with QNASL Nasal Aerosol include:
 
-- Nasal discomfort
-- Nose bleeds
-- Headache
+- •Nasal discomfort
+- •Nose bleeds
+- •Headache
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -127,12 +125,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store QNASL Nasal Aerosol?
 
-- Store QNASL Nasal Aerosol at room temperature 59˚F to 86˚F (15˚C to 30˚C)
-- Do not puncture the QNASL Nasal Aerosol canister
-- Do not store the QNASL Nasal Aerosol canister near heat or a flame.
+- •Store QNASL Nasal Aerosol at room temperature 59˚F to 86˚F (15˚C to 30˚C)
+- •Do not puncture the QNASL Nasal Aerosol canister
+- •Do not store the QNASL Nasal Aerosol canister near heat or a flame.
   Temperatures above 120˚F (49˚C) may cause the canister to burst
-- Do not throw the QNASL Nasal Aerosol canister into a fire or an incinerator
-- Safely throw away medicine that is out of date or no longer needed
+- •Do not throw the QNASL Nasal Aerosol canister into a fire or an incinerator
+- •Safely throw away medicine that is out of date or no longer needed
 
 Keep QNASL Nasal Aerosol and all medicines out of the reach of children.
 
@@ -174,31 +172,31 @@ This leaflet does not take the place of talking to your healthcare provider abou
 
 Note: For Use in the Nose Only.
 
-- Do not spray QNASL Nasal Aerosol in your eyes or directly onto your nasal septum (the wall between your 2 nostrils)
+- •Do not spray QNASL Nasal Aerosol in your eyes or directly onto your nasal septum (the wall between your 2 nostrils)
 
 The parts of your QNASL Nasal Aerosol
 
 The QNASL Nasal Aerosol device comes as a canister that fits into a nasal actuator with a built-in spray counter and protective dust cap.
 (See Figure A)
 
-- Do not use the QNASL Nasal Aerosol actuator with a canister of medicine from any other inhaler
-- Do not use the QNASL Nasal Aerosol canister with an actuator from any other inhaler
-- Do not remove the QNASL Nasal Aerosol canister from the actuator
+- •Do not use the QNASL Nasal Aerosol actuator with a canister of medicine from any other inhaler
+- •Do not use the QNASL Nasal Aerosol canister with an actuator from any other inhaler
+- •Do not remove the QNASL Nasal Aerosol canister from the actuator
 
 Priming your QNASL Nasal Aerosol for Use
 
-- Remove your QNASL Nasal Aerosol device from its package
-- Your QNASL Nasal Aerosol device must be primed before you use it for the first time or if it has not been used for more than 7 days in a row
-- Remove the protective dust cap from the device
-- Hold the nasal actuator upright between your thumb and forefinger (index finger).
+- •Remove your QNASL Nasal Aerosol device from its package
+- •Your QNASL Nasal Aerosol device must be primed before you use it for the first time or if it has not been used for more than 7 days in a row
+- •Remove the protective dust cap from the device
+- •Hold the nasal actuator upright between your thumb and forefinger (index finger).
   The canister should be on top and the white nasal actuator tip on bottom (See Figure B)
 
-- If you have never used your QNASL Nasal Aerosol device before, spray it 4 times into the air, away from your eyes and face, by pressing down fully on the top of the canister 4 times (See Figure C). Your QNASL Nasal Aerosol device is now ready to use
+- •If you have never used your QNASL Nasal Aerosol device before, spray it 4 times into the air, away from your eyes and face, by pressing down fully on the top of the canister 4 times (See Figure C). Your QNASL Nasal Aerosol device is now ready to use
 
-- After the first time you prime your QNASL Nasal Aerosol device, the spray counter should read 120 (See Figure D)
+- •After the first time you prime your QNASL Nasal Aerosol device, the spray counter should read 120 (See Figure D)
 
-- Do not prime your QNASL Nasal Aerosol device every day
-- If you have used your QNASL Nasal Aerosol device before, but it has not been used in more than 7 days, it must be reprimed.
+- •Do not prime your QNASL Nasal Aerosol device every day
+- •If you have used your QNASL Nasal Aerosol device before, but it has not been used in more than 7 days, it must be reprimed.
   To reprime your QNASL Nasal Aerosol device, spray 2 times into the air, away from your eyes and face, by pressing down fully on the top of the canister 2 times.
   Your QNASL Nasal Aerosol device is now ready to use
 
@@ -230,19 +228,19 @@ See "Cleaning Your QNASL Nasal Aerosol device."
 
 Cleaning Your QNASL Nasal Aerosol device
 
-- Wipe the nasal actuator tip with a clean, dry tissue or cloth (See Figure H)
-- Do not wash or put any part of the QNASL Nasal Aerosol canister or actuator in water
-- Replace the protective dust cap
-- Keep your device clean and dry at all times
+- •Wipe the nasal actuator tip with a clean, dry tissue or cloth (See Figure H)
+- •Do not wash or put any part of the QNASL Nasal Aerosol canister or actuator in water
+- •Replace the protective dust cap
+- •Keep your device clean and dry at all times
 
 How to know when to stop using your QNASL Aerosol device
 
-- The QNASL Nasal Aerosol device has a spray counter, which is there to let you know how many sprays of medicine you have left
-- Do not use your QNASL Nasal Aerosol device when 0 is shown in the spray counter window (See Figure I).
+- •The QNASL Nasal Aerosol device has a spray counter, which is there to let you know how many sprays of medicine you have left
+- •Do not use your QNASL Nasal Aerosol device when 0 is shown in the spray counter window (See Figure I).
 
-- Throw away your QNASL Nasal Aerosol device when the spray counter reaches 0
-- Do not throw your QNASL Nasal Aerosol canister into a fire or an incinerator
-- Talk with your health care provider before your supply of QNASL Nasal Aerosol runs out to see if you should get a refill
+- •Throw away your QNASL Nasal Aerosol device when the spray counter reaches 0
+- •Do not throw your QNASL Nasal Aerosol canister into a fire or an incinerator
+- •Talk with your health care provider before your supply of QNASL Nasal Aerosol runs out to see if you should get a refill
 
 This PPI and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 

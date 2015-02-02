@@ -22,9 +22,9 @@ However, other corticosteroids have been detected in human breast milk and thus 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness for seasonal and perennial allergic rhinitis in children 12 years of age and older have been established.
-Controlled clinical trials with QNASL Nasal Aerosol included 188 adolescent patients 12 to 17 years of age [see Clinical Studies (14)].
-The safety and effectiveness of QNASL Nasal Aerosol in children younger than 12 years of age have not been established.
+The safety and effectiveness of QNASL Nasal Aerosol in children 4 years and older have been established [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+The safety and effectiveness of QNASL Nasal Aerosol in children younger than 4 years of age have not been established.
+Controlled pediatric clinical trials with QNASL Nasal Aerosol included 909 children 4 to 11 years of age and 188 adolescent patients 12 to 17 years of age [see Clinical Studies (14)].
 
 Controlled clinical trials have shown that intranasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
 This effect has been observed in the absence of laboratory evidence of hypothalamic-pituitary-adrenal (HPA) axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA-axis function.

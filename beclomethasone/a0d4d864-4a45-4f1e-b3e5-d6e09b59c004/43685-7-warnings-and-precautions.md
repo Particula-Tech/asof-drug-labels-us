@@ -5,6 +5,7 @@
 Nasal Discomfort, Epistaxis, and Nasal Ulceration: In clinical trials of 2 to 52 weeks duration, epistaxis and nasal ulcerations were observed more frequently and some epistaxis events were more severe in patients treated with QNASL Nasal Aerosol than those who received placebo.
 In the 52-week safety trial in patients with perennial allergic rhinitis, nasal erosions were identified in 4 of 415 patients and a nasal ulceration was identified in 1 of 415 patients treated with QNASL Nasal Aerosol.
 No nasal erosions or ulcerations were reported for patients who received placebo.
+In clinical trials conducted in pediatric patients ages 4 to 11 years, the local nasal effect was similar to those reported in patients 12 years of age and older.
 Patients using QNASL Nasal Aerosol over several months or longer should be examined periodically for possible changes in the nasal mucosa.
 If an adverse reaction (e.g., erosion, ulceration) is noted, discontinue QNASL Nasal Aerosol.
 [see Adverse Reactions (6.1)].
@@ -15,7 +16,8 @@ If such an infection develops, it may require treatment with appropriate local t
 Thus, patients using QNASL Nasal Aerosol over several months or longer should be examined periodically for evidence of Candida infection.
 
 Nasal Septal Perforation: Instances of nasal septal perforation have been reported in patients following the intranasal application of beclomethasone dipropionate.
-There were no instances of nasal septal perforation observed in clinical trials with QNASL Nasal Aerosol.
+There were no nasal septal perforations reported during clinical trials in the indicated dose of QNASL 80 mcg Nasal Aerosol administered as 320 mcg once daily in adults and adolescents.
+There was one report of nasal septal perforation observed in the dose-ranging pediatric clinical trial.
 
 Impaired Wound Healing: Because of the inhibitory effect of corticosteroids on wound healing, patients who have experienced recent nasal septal ulcers, nasal surgery, or nasal trauma should not use QNASL Nasal Aerosol until healing has occurred.
 
