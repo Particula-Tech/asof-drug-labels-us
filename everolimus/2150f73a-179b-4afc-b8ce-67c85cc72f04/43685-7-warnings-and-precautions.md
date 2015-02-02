@@ -40,30 +40,35 @@ Pneumocystis jiroveci pneumonia, some with a fatal outcome, has been reported in
 This may be associated with concomitant use of corticosteroids or other immunosuppressive agents.
 Prophylaxis for PJP should be considered when concomitant use of corticosteroids or other immunosuppressive agents are required.
 
-## 5.3 Oral Ulceration
+## 5.3 Angioedema with Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+
+Patients taking concomitant ACE inhibitor therapy may be at increased risk for angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment).
+In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of angioedema in patients taking everolimus with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor.
+
+## 5.4 Oral Ulceration
 
 Mouth ulcers, stomatitis, and oral mucositis have occurred in patients treated with AFINITOR at an incidence ranging from 44%-78% across the clinical trial experience.
 Grade 3 or 4 stomatitis was reported in 4%-9% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
 In such cases, topical treatments are recommended, but alcohol-, hydrogen peroxide-, iodine-, or thyme- containing mouthwashes should be avoided as they may exacerbate the condition.
 Antifungal agents should not be used unless fungal infection has been diagnosed [see Drug Interactions (7.1)].
 
-## 5.4 Renal Failure
+## 5.5 Renal Failure
 
-Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with AFINITOR [see Laboratory Tests and Monitoring (5.7)].
+Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with AFINITOR [see Laboratory Tests and Monitoring (5.8)].
 
-## 5.5 Impaired Wound Healing
+## 5.6 Impaired Wound Healing
 
 Everolimus delays wound healing and increases the occurrence of wound-related complications like wound dehiscence, wound infection, incisional hernia, lymphocele, and seroma.
 These wound-related complications may require surgical intervention.
 Exercise caution with the use of AFINITOR in the peri-surgical period.
 
-## 5.6 Geriatric Patients
+## 5.7 Geriatric Patients
 
 In the randomized advanced hormone receptor-positive, HER2-negative breast cancer study, the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
 Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age.
 Careful monitoring and appropriate dose adjustments for adverse reactions are recommended [see Dosage and Administration (2.2), Use in Specific Populations (8.5)].
 
-## 5.7 Laboratory Tests and Monitoring
+## 5.8 Laboratory Tests and Monitoring
 
 Renal Function
 
@@ -83,7 +88,7 @@ Hematologic Parameters
 Decreased hemoglobin, lymphocytes, neutrophils, and platelets have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
 Monitoring of complete blood count is recommended prior to the start of AFINITOR therapy and periodically thereafter.
 
-## 5.8 Drug-drug Interactions
+## 5.9 Drug-drug Interactions
 
 Due to significant increases in exposure of everolimus, co-administration with strong CYP3A4/PgP inhibitors should be avoided [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)].
 
@@ -91,7 +96,7 @@ A reduction of the AFINITOR dose is recommended when co-administered with a mode
 
 An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4/PgP inducer [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.2)].
 
-## 5.9 Hepatic Impairment
+## 5.10 Hepatic Impairment
 
 Exposure to everolimus was increased in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
@@ -101,14 +106,14 @@ For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hep
 For patients with SEGA and mild or moderate hepatic impairment, adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring.
 For patients with SEGA and severe hepatic impairment, reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50% and adjust subsequent doses based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
 
-## 5.10 Vaccinations
+## 5.11 Vaccinations
 
 During AFINITOR treatment, avoid the use of live vaccines and avoid close contact with individuals who have received live vaccines (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines).
 
 For pediatric patients with SEGA that do not require immediate treatment, complete the recommended childhood series of live virus vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy.
 An accelerated vaccination schedule may be appropriate.
 
-## 5.11 Embryo-fetal Toxicity
+## 5.12 Embryo-fetal Toxicity
 
 Based on the mechanism of action, AFINITOR can cause fetal harm.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.

@@ -13,10 +13,10 @@ In healthy subjects, compared to AFINITOR treatment alone there were significant
 - erythromycin (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.0- and 4.4-fold, respectively.
 - verapamil (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.3- and 3.5-fold, respectively.
 
-Concomitant strong inhibitors of CYP3A4/PgP should not be used [see Dosage and Administration (2.2, 2.5) and Warnings and Precautions (5.8)].
+Concomitant strong inhibitors of CYP3A4/PgP should not be used [see Dosage and Administration (2.2, 2.5) and Warnings and Precautions (5.9)].
 
 Use caution when AFINITOR is used in combination with moderate CYP3A4/PgP inhibitors.
-If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.2, 2.5) and Warnings and Precautions (5.8)].
+If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.2, 2.5) and Warnings and Precautions (5.9)].
 
 ## 7.2 Agents That May Decrease Everolimus Blood Concentrations
 

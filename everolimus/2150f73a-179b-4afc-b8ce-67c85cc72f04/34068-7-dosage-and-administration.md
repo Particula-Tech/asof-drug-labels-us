@@ -52,7 +52,7 @@ Table 1: AFINITOR Dose Adjustment and Management Recommendation for Adverse Reac
 
 Hepatic Impairment
 
-Hepatic impairment will increase the exposure to everolimus [see Warnings and Precautions (5.9) and Use in Specific Populations (8.8)].
+Hepatic impairment will increase the exposure to everolimus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.8)].
 Dose adjustments are recommended:
 
 - Mild hepatic impairment (Child-Pugh class A) – The recommended dose is 7.5 mg daily; the dose may be decreased to 5 mg if not well tolerated.
@@ -63,7 +63,7 @@ Dose adjustments should be made if a patient’s hepatic (Child-Pugh) status cha
 
 CYP3A4/P-glycoprotein (PgP) Inhibitors
 
-Avoid the use of strong CYP3A4/PgP inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) [see Warnings and Precautions (5.8) and Drug Interactions (7.1)].
+Avoid the use of strong CYP3A4/PgP inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) [see Warnings and Precautions (5.9) and Drug Interactions (7.1)].
 
 Use caution when co-administered with moderate CYP3A4/PgP inhibitors (e.g., amprenavir, fosamprenavir, aprepitant, erythromycin, fluconazole, verapamil, diltiazem).
 If patients require co-administration of a moderate CYP3A4/PgP inhibitor, reduce the AFINITOR dose to 2.5 mg daily.
@@ -80,7 +80,7 @@ Avoid the use of concomitant strong CYP3A4/PgP inducers (e.g., phenytoin, carbam
 If patients require co-administration of a strong CYP3A4/PgP inducer, consider doubling the daily dose of AFINITOR using increments of 5 mg or less.
 This dose of AFINITOR is predicted, based on pharmacokinetic data, to adjust the AUC to the range observed without inducers.
 However, there are no clinical data with this dose adjustment in patients receiving strong CYP3A4/PgP inducers.
-If the strong inducer is discontinued, consider a washout period of 3 to 5 days, before the AFINITOR dose is returned to the dose used prior to initiation of the strong CYP3A4/PgP inducer [see Warnings and Precautions (5.8) and Drug Interactions (7.2)].
+If the strong inducer is discontinued, consider a washout period of 3 to 5 days, before the AFINITOR dose is returned to the dose used prior to initiation of the strong CYP3A4/PgP inducer [see Warnings and Precautions (5.9) and Drug Interactions (7.2)].
 
 St. John’s Wort (Hypericum perforatum) may decrease everolimus exposure unpredictably and should be avoided.
 
@@ -130,7 +130,7 @@ Hepatic Impairment
 
 CYP3A4/P-glycoprotein (PgP) Inhibitors
 
-Avoid the use of concomitant strong CYP3A4/PgP inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) in patients receiving AFINITOR Tablets or AFINITOR DISPERZ [see Warnings and Precautions (5.8) and Drug Interactions (7.1)].
+Avoid the use of concomitant strong CYP3A4/PgP inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) in patients receiving AFINITOR Tablets or AFINITOR DISPERZ [see Warnings and Precautions (5.9) and Drug Interactions (7.1)].
 
 For patients who require treatment with moderate CYP3A4/PgP inhibitors (e.g., amprenavir, fosamprenavir, aprepitant, erythromycin, fluconazole, verapamil, diltiazem):
 
@@ -144,7 +144,7 @@ Do not ingest foods or nutritional supplements (e.g., grapefruit, grapefruit jui
 
 Strong CYP3A4/PgP Inducers
 
-Avoid the use of concomitant strong CYP3A4/PgP inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) if alternative therapy is available [see Warnings and Precautions (5.8) and Drug Interactions (7.2)].
+Avoid the use of concomitant strong CYP3A4/PgP inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) if alternative therapy is available [see Warnings and Precautions (5.9) and Drug Interactions (7.2)].
 For patients who require treatment with a strong CYP3A4/PgP inducer:
 
 - Double the dose of AFINITOR Tablets or AFINITOR DISPERZ and assess tolerability [see Dosage and Administration (2.3)].

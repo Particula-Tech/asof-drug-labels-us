@@ -5,7 +5,7 @@
 Everolimus is an inhibitor of mammalian target of rapamycin (mTOR), a serine-threonine kinase, downstream of the PI3K/AKT pathway.
 The mTOR pathway is dysregulated in several human cancers.
 Everolimus binds to an intracellular protein, FKBP-12, resulting in an inhibitory complex formation with mTOR complex 1 (mTORC1) and thus inhibition of mTOR kinase activity.
-Everolimus reduced the activity of S6 ribosomal protein kinase (S6K1) and eukaryotic elongation factor 4E-binding protein (4E-BP1), downstream effectors of mTOR, involved in protein synthesis.
+Everolimus reduced the activity of S6 ribosomal protein kinase (S6K1) and eukaryotic initiation factor 4E-binding protein (4E-BP1), downstream effectors of mTOR, involved in protein synthesis.
 S6K1 is a substrate of mTORC1 and phosphorylates the activation domain 1 of the estrogen receptor which results in ligand-independent activation of the receptor.
 In addition, everolimus inhibited the expression of hypoxia-inducible factor (e.g., HIF-1) and reduced the expression of vascular endothelial growth factor (VEGF).
 Inhibition of mTOR by everolimus has been shown to reduce cell proliferation, angiogenesis, and glucose uptake in in vitro and/or in vivo studies.
@@ -39,7 +39,8 @@ Dose Proportionality in Patients with SEGA and TSC: In patients with SEGA and TS
 
 Food effect: In healthy subjects, high-fat meals reduced systemic exposure to AFINITOR 10 mg tablet (as measured by AUC) by 22% and the peak blood concentration Cmax by 54%.
 Light-fat meals reduced AUC by 32% and Cmax by 42%.
-Food, however, had no apparent effect on the post absorption phase concentration-time profile.
+
+In healthy subjects who received 9 mg of AFINITOR DISPERZ, high-fat meals (containing approximately 1000 calories and 55 grams of fat) reduced everolimus AUC by 12% and Cmax by 60% and low-fat meals (containing approximately 500 calories and 20 grams of fat) reduced everolimus AUC by 30% and Cmax by 50%.
 
 Relative bioavailability of AFINITOR DISPERZ (everolimus tablets for oral suspension): The AUC0-∞ of AFINITOR DISPERZ was equivalent to that of AFINITOR Tablets; the Cmax of this dosage form was 20%-36% lower than that of AFINITOR Tablets.
 The predicted trough concentrations at steady-state were similar after daily administration.

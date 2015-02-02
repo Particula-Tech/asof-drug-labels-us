@@ -4,9 +4,10 @@ The following serious adverse reactions are discussed in greater detail in anoth
 
 - Non-infectious pneumonitis [see Warnings and Precautions (5.1)].
 - Infections [see Warnings and Precautions (5.2)].
-- Oral ulceration [see Warnings and Precautions (5.3)].
-- Renal failure [see Warnings and Precautions (5.4)].
-- Impaired wound healing [see Warnings and Precautions (5.5)].
+- Angioedema with concomitant use of ACE inhibitors [see Warnings and Precautions (5.3)].
+- Oral ulceration [see Warnings and Precautions (5.4)].
+- Renal failure [see Warnings and Precautions (5.5)].
+- Impaired wound healing [see Warnings and Precautions (5.6)].
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
@@ -74,7 +75,7 @@ Table 2: Adverse Reactions Reported ≥ 10% of Patients with Advanced HR+ BC*
 | Vascular disorders |  |  |  |  |  |  |
 | Hot flush | 6 | 0 | 0 | 14 | 0 | 0 |
 | Median duration of treatmente | 23.9 weeks |  |  | 13.4 weeks |  |  |
-| Grading according to CTCAE Version 3.0 * 160 patients (33.2%) were exposed to AFINITOR therapy for a period of ≥ 32 weeks) a Exemestane (25 mg/day) b Includes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis and lip ulceration c Includes all preferred terms within the ‘infections and infestations’ system organ class, the most common being nasopharyngitis (10%), urinary tract infection (10%), upper respiratory tract infection (5%), pneumonia (4%), bronchitis (4%), cystitis (3%), sinusitis (3%), and also including candidiasis (<1%), and sepsis (<1%), and hepatitis C (<1%). d Includes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis e Exposure to AFINITOR or placebo |  |  |  |  |  |  |
+| Grading according to CTCAE Version 3.0 * 160 patients (33.2%) were exposed to AFINITOR therapy for a period of ≥ 32 weeks a Exemestane (25 mg/day) b Includes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis and lip ulceration c Includes all preferred terms within the ‘infections and infestations’ system organ class, the most common being nasopharyngitis (10%), urinary tract infection (10%), upper respiratory tract infection (5%), pneumonia (4%), bronchitis (4%), cystitis (3%), sinusitis (3%), and also including candidiasis (<1%), and sepsis (<1%), and hepatitis C (<1%). d Includes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis e Exposure to AFINITOR or placebo |  |  |  |  |  |  |
 
 Key observed laboratory abnormalities are presented in Table 3.
 
@@ -275,7 +276,7 @@ General disorders and administration site conditions: Weight decreased (9%), che
 
 Respiratory, thoracic and mediastinal disorders: Pleural effusion (7%), pharyngolaryngeal pain (4%), rhinorrhea (3%)
 
-Skin and subcutaneous tissue disorders: Hand-foot syndrome (reported as palmar-plantar erythrodysesthesia syndrome) (5%), nail disorder (5%), erythema (4%), onychoclasis (4%), skin lesion (4%), acneiform dermatitis (3%)
+Skin and subcutaneous tissue disorders: Hand-foot syndrome (reported as palmar-plantar erythrodysesthesia syndrome) (5%), nail disorder (5%), erythema (4%), onychoclasis (4%), skin lesion (4%), acneiform dermatitis (3%), angioedema (<1%)
 
 Metabolism and nutrition disorders: Exacerbation of pre-existing diabetes mellitus (2%), new onset of diabetes mellitus (< 1%)
 
@@ -363,7 +364,7 @@ Table 8: Adverse Reactions Reported in ≥ 10% of AFINITOR-treated Patients with
 Amenorrhea occurred in 15% of AFINITOR-treated females (8 of 52) and 4% (1 of 26) of females in the placebo group.
 Other adverse reactions involving the female reproductive system were menorrhagia (10%), menstrual irregularities (10%), and vaginal hemorrhage (8%).
 
-The following additional adverse reactions occurred in less than 10% of Afinitor-treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), and pneumonitis (1%).
+The following additional adverse reactions occurred in less than 10% of AFINITOR -treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
 
 Table 9: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with Renal Angiomyolipoma
 

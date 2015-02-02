@@ -40,6 +40,11 @@ Symptoms of hepatitis B or infection may include the following:
 - Pain in the upper right side of the stomach
 
 3.
+Possible increased risk for a type of allergic reaction called angioedema, in people who take an Angiotensin-Converting Enzyme (ACE) inhibitor medicine during treatment with AFINITOR or AFINITOR DISPERZ.
+Talk with your healthcare provider before taking AFINITOR or AFINITOR DISPERZ if you are not sure if you take an ACE inhibitor medicine.
+Get medical help right away if you have trouble breathing or develop swelling of your tongue, mouth, or throat during treatment with AFINITOR.
+
+4.
 You may develop kidney failure.
 In some people this may be severe and can even lead to death.
 Your healthcare provider should do tests to check your kidney function before and during your treatment with AFINITOR or AFINITOR DISPERZ.
@@ -90,7 +95,6 @@ Before taking AFINITOR or AFINITOR DISPERZ, tell your healthcare provider about 
 - Are scheduled to receive any vaccinations.
   You should not receive a “live vaccine” or be around people who have recently received a “live vaccine” during your treatment with AFINITOR or AFINITOR DISPERZ.
   If you are not sure about the type of immunization or vaccine, ask your healthcare provider.
-- Have other medical conditions
 - Are pregnant, or could become pregnant.
   AFINITOR or AFINITOR DISPERZ can cause harm to your unborn baby.
   You should use effective birth control while using AFINITOR or AFINITOR DISPERZ and for 8 weeks after stopping treatment.
@@ -100,10 +104,10 @@ Before taking AFINITOR or AFINITOR DISPERZ, tell your healthcare provider about 
   You and your healthcare provider should decide if you will take AFINITOR or AFINITOR DISPERZ, or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 AFINITOR or AFINITOR DISPERZ may affect the way other medicines work, and other medicines can affect how AFINITOR or AFINITOR DISPERZ work.
-Using AFINITOR or AFINITOR DISPERZ with other medicines can cause serious side effects.
+Taking AFINITOR or AFINITOR DISPERZ with other medicines can cause serious side effects.
 
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -128,6 +132,8 @@ How should I take AFINITOR or AFINITOR DISPERZ?
 - Your healthcare provider will prescribe the dose of AFINITOR or AFINITOR DISPERZ that is right for you.
 - Take AFINITOR or AFINITOR DISPERZ exactly as your healthcare provider tells you to.
 - Your healthcare provider may change your dose of AFINITOR or AFINITOR DISPERZ or tell you to temporarily interrupt dosing, if needed.
+- Take only AFINITOR or AFINITOR DISPERZ.
+  Do not mix AFINITOR and AFINITOR DISPERZ together.
 - Use scissors to open the blister pack.
 
 AFINITOR:
@@ -141,7 +147,7 @@ AFINITOR DISPERZ:
 - Each dose of AFINITOR DISPERZ must be prepared as a suspension before it is given.
 - AFINITOR DISPERZ can cause harm to an unborn baby.
   When possible, the suspension should be prepared by an adult who is not pregnant or planning to become pregnant.
-- Anyone who prepares suspensions of AFINITOR DISPERZ for another person should wear gloves to avoid possible contact with the medicine.
+- Wear gloves to avoid possible contact with everolimus when preparing suspensions of AFINITOR DISPERZ for another person.
 
 • Take AFINITOR or AFINITOR DISPERZ 1 time each day at about the same time.
 
@@ -214,7 +220,7 @@ Common side effects of AFINITOR and AFINITOR DISPERZ in people who have SEGA or 
 - Mouth ulcers.
   AFINITOR can cause mouth ulcers and sores.
   Tell your healthcare provider if you have pain, discomfort, or open sores in your mouth.
-  Your healthcare provider may tell you to use a special mouthwash or mouth gel that does not contain alcohol, peroxide iodine, or thyme.
+  Your healthcare provider may tell you to use a special mouthwash or mouth gel that does not contain alcohol, peroxide, iodine, or thyme.
 - Infections
 - Nausea and vomiting
 - Diarrhea and constipation
@@ -282,10 +288,10 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Revised Feb 2014
+Revised Jan 2015
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis.
 
 © Novartis
 
-T2014-17 February 2014
+T2015-18 January 2015

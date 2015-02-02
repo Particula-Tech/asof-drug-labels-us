@@ -8,7 +8,7 @@ Risk Summary
 
 Based on the mechanism of action, AFINITOR can cause fetal harm when administered to a pregnant woman.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, apprise the patient of the potential hazard to the fetus [see Warnings and Precautions (5.11)].
+If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, apprise the patient of the potential hazard to the fetus [see Warnings and Precautions (5.12)].
 
 Animal Data
 
@@ -57,7 +57,7 @@ Everolimus clearance normalized to body surface area was higher in pediatric pat
 In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 years and over.
 No overall differences in effectiveness were observed between elderly and younger patients.
 The incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
-Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age [see Warnings and Precautions (5.6)].
+Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age [see Warnings and Precautions (5.7)].
 
 In two other randomized trials (advanced renal cell carcinoma and advanced neuroendocrine tumors of pancreatic origin), no overall differences in safety or effectiveness were observed between elderly and younger patients.
 In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥ 65 years of age, while 7% were 75 years and over.
