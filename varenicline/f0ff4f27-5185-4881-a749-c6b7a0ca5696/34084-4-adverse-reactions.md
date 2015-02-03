@@ -10,7 +10,7 @@ The following serious adverse reactions were reported in postmarketing experienc
 - Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.6)]
 - Serious skin reactions [see Warnings and Precautions (5.7)]
 
-In the placebo-controlled studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
+In the placebo-controlled premarketing studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 
 The treatment discontinuation rate due to adverse events in patients dosed with 1 mg twice daily was 12% for CHANTIX, compared to 10% for placebo in studies of three months' treatment.
 In this group, the discontinuation rates that are higher than placebo for the most common adverse events in CHANTIX-treated patients were as follows: nausea (3% vs. 0.5% for placebo), insomnia (1.2% vs. 1.1% for placebo), and abnormal dreams (0.3% vs. 0.2% for placebo).
@@ -26,7 +26,7 @@ Most study participants were treated for 12 weeks or less.
 
 The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.6)].
 
-Table 5 shows the adverse events for CHANTIX and placebo in the 12- week fixed dose studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
+Table 5 shows the adverse events for CHANTIX and placebo in the 12- week fixed dose premarketing studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
 
 MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥ 1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
@@ -79,9 +79,10 @@ Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled
 | Increased appetite | 4 | 3 | 2 |
 | Decreased appetite/Anorexia | 1 | 2 | 1 |
 
-The overall pattern and frequency of adverse events during the longer-term trials was similar to those described in Table 5, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
+The overall pattern and frequency of adverse events during the longer-term premarketing trials was similar to those described in Table 5, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
 
-Following is a list of treatment-emergent adverse events reported by patients treated with CHANTIX during all clinical trials.
+Following is a list of treatment-emergent adverse events reported by patients treated with CHANTIX during all premarketing clinical trials and updated based on pooled data from 18 placebo-controlled pre- and post-marketing studies, including approximately 5,000 patients treated with varenicline.
+Adverse events were categorized using MedDRA, Version 16.0.
 The listing does not include those events already listed in the previous tables or elsewhere in labeling, those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life-threatening.
 
 Blood and Lymphatic System Disorders.
@@ -89,8 +90,8 @@ Infrequent: anemia, lymphadenopathy.
 Rare: leukocytosis, splenomegaly, thrombocytopenia.
 
 Cardiac Disorders.
-Infrequent: angina pectoris, arrhythmia, bradycardia, myocardial infarction, palpitations, tachycardia, ventricular extrasystoles.
-Rare: acute coronary syndrome, atrial fibrillation, cardiac flutter, cor pulmonale, coronary artery disease.
+Infrequent: angina pectoris, myocardial infarction, palpitations, tachycardia.
+Rare: acute coronary syndrome, arrhythmia, atrial fibrillation, bradycardia, cardiac flutter, cor pulmonale, coronary artery disease, ventricular extrasystoles.
 
 Ear and Labyrinth Disorders.
 Infrequent: tinnitus, vertigo.
@@ -100,70 +101,70 @@ Endocrine Disorders.
 Infrequent: thyroid gland disorders.
 
 Eye Disorders.
-Infrequent: conjunctivitis, dry eye, eye irritation, eye pain, vision blurred, visual disturbance.
-Rare: acquired night blindness, blindness transient, cataract subcapsular, ocular vascular disorder, photophobia, vitreous floaters.
+Infrequent: conjunctivitis, eye irritation, eye pain, vision blurred, visual impairment.
+Rare: blindness transient, cataract subcapsular, dry eye, night blindness, ocular vascular disorder, photophobia, vitreous floaters.
 
 Gastrointestinal Disorders.
-Frequent: diarrhea.
-Infrequent: dysphagia, enterocolitis, eructation, esophagitis, gastritis, gastrointestinal hemorrhage, mouth ulceration.
-Rare: gastric ulcer, intestinal obstruction, pancreatitis acute.
+Frequent: diarrhea, toothache.
+Infrequent: dysphagia, eructation, gastritis, gastrointestinal hemorrhage, mouth ulceration.
+Rare: enterocolitis, esophagitis, gastric ulcer, intestinal obstruction, pancreatitis acute.
 
 General Disorders and Administration Site Conditions.
-Frequent: chest pain, edema, influenza-like illness.
-Infrequent: chest discomfort, chills, pyrexia.
+Frequent: chest pain.
+Infrequent: chest discomfort, chills, edema, influenza-like illness, pyrexia.
 
 Hepatobiliary Disorders.
-Infrequent: gall bladder disorder.
+Rare: gall bladder disorder.
 
 Investigations.
 Frequent: liver function test abnormal, weight increased.
-Infrequent: electrocardiogram abnormal, muscle enzyme increased, urine analysis abnormal.
+Infrequent: electrocardiogram abnormal.
+Rare: muscle enzyme increased, urine analysis abnormal.
 
 Metabolism and Nutrition Disorders.
-Infrequent: diabetes mellitus, hyperlipidemia, hypokalemia.
-Rare: hypoglycemia.
+Infrequent: diabetes mellitus, hypoglycemia.
+Rare: hyperlipidemia, hypokalemia.
 
 Musculoskeletal and Connective Tissue Disorders.
-Frequent: arthralgia, back pain, muscle cramp, musculoskeletal pain, myalgia.
-Infrequent: arthritis, osteoporosis.
-Rare: myositis.
+Frequent: arthralgia, back pain, myalgia.
+Infrequent: arthritis, muscle cramp, musculoskeletal pain.
+Rare: myositis, osteoporosis.
 
 Nervous System Disorders.
-Frequent: disturbance in attention, dizziness, sensory disturbance.
-Infrequent: amnesia, migraine, parosmia, psychomotor hyperactivity, restless legs syndrome, syncope, tremor.
-Rare: balance disorder, cerebrovascular accident, convulsion, dysarthria, facial palsy, mental impairment, multiple sclerosis, nystagmus, psychomotor skills impaired, transient ischemic attack, visual field defect.
+Frequent: disturbance in attention, dizziness.
+Infrequent: amnesia, convulsion, migraine, parosmia, syncope, tremor.
+Rare: balance disorder, cerebrovascular accident, dysarthria, mental impairment, multiple sclerosis, VIIth nerve paralysis, nystagmus, psychomotor hyperactivity, psychomotor skills impaired, restless legs syndrome, sensory disturbance, transient ischemic attack, visual field defect.
 
 Psychiatric Disorders.
-Infrequent: disorientation, dissociation, libido decreased, mood swings, thinking abnormal.
-Rare: bradyphrenia, euphoric mood.
+Infrequent: dissociation, libido decreased, mood swings, thinking abnormal.
+Rare: bradyphrenia, disorientation, euphoric mood.
 
 Renal and Urinary Disorders.
-Frequent: polyuria.
-Infrequent: nephrolithiasis, nocturia, urethral syndrome, urine abnormality.
-Rare: renal failure acute, urinary retention.
+Infrequent: nocturia, pollakiuria, urine abnormality.
+Rare: nephrolithiasis, polyuria, renal failure acute, urethral syndrome, urinary retention.
 
 Reproductive System and Breast Disorders.
-Rare: sexual dysfunction.
 Frequent: menstrual disorder.
 Infrequent: erectile dysfunction.
+Rare: sexual dysfunction.
 
 Respiratory, Thoracic and Mediastinal Disorders.
-Frequent: epistaxis, respiratory disorders.
-Infrequent: asthma.
+Frequent: respiratory disorders.
+Infrequent: asthma, epistaxis, rhinitis allergic, upper respiratory tract inflammation.
 Rare: pleurisy, pulmonary embolism.
 
 Skin and Subcutaneous Tissue Disorders.
-Frequent: hyperhidrosis.
-Infrequent: acne, dry skin, eczema, erythema, psoriasis, urticaria.
-Rare: photosensitivity reaction.
+Infrequent: acne, dry skin, eczema, erythema, hyperhidrosis, urticaria.
+Rare: photosensitivity reaction, psoriasis.
 
 Vascular Disorders.
-Frequent: hot flush.
-Infrequent: thrombosis.
+Infrequent: hot flush.
+Rare: thrombosis.
 
-CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients with stable cardiovascular disease and (4) a trial conducted in patients with stable schizophrenia or schizoaffective disorder.
+CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients who did not succeed in stopping smoking during prior CHANTIX therapy, or who relapsed after treatment ("re-treatment trial"), (4) a trial conducted in patients with stable cardiovascular disease, (5) a trial conducted in patients with stable schizophrenia or schizoaffective disorder and (6) a trial conducted in patients with major depressive disorder.
 
-Adverse events in the trial of patients with COPD and in the alternative quit date instruction trial were quantitatively and qualitatively similar to those observed in premarketing studies.
+Adverse events in the trial of patients with COPD, in the alternative quit date instruction trial, were quantitatively and qualitatively similar to those observed in premarketing studies.
+In the re-treatment trial, the profile of common adverse events was similar to that previously reported, but, in addition, varenicline-treated patients also commonly reported diarrhea (6% vs 4% in placebo-treated patients), depressed mood disorders and disturbances (6% vs 1%), and other mood disorders and disturbances (5% vs 2%).
 
 In the trial of patients with stable cardiovascular disease, more types and a greater number of cardiovascular events were reported compared to premarketing studies.
 Treatment-emergent (on-treatment or 30 days after treatment) cardiovascular events reported with a frequency ≥ 1% in either treatment group in this study were angina pectoris (3.7% and 2.0% for varenicline and placebo, respectively), chest pain (2.5% vs. 2.3%), peripheral edema (2.0% vs. 1.1%), hypertension (1.4% vs. 2.6%), and palpitations (0.6 % vs. 1.1%).
@@ -175,7 +176,7 @@ Cardiovascular death occurred in 0.3% of patients in the varenicline arm and 0.6
 
 In the trial of patients with stable schizophrenia or schizoaffective disorder, 128 smokers on antipsychotic medication were randomized 2:1 to varenicline (1 mg twice daily) or placebo for 12 weeks with 12-week non-drug follow-up.
 The most common adverse events in patients taking varenicline were nausea (24% vs. 14.0% on placebo), headache (11% vs. 19% on placebo) and vomiting (11% vs. 9% on placebo).
-Among reported neuropsychiatric adverse events, insomnia was the only event that occurred in either treatment group in ≥ 5% of subjects at a rate higher in the varenicline group than in placebo (10% vs. 5%).
+Among reported neuropsychiatric adverse events, insomnia was the only event that occurred in either treatment group in ≥5% of subjects at a rate higher in the varenicline group than in placebo (10% vs. 5%).
 These common and neuropsychiatric adverse events occurred on treatment or within 30 days after the last dose of study drug.
 There was no consistent worsening of schizophrenia in either treatment group as measured by the Positive and Negative Syndrome Scale.
 There were no overall changes in extra-pyramidal signs, as measured by the Simpson-Angus Rating Scale.
@@ -189,6 +190,14 @@ There were no completed suicides.
 There was one suicide attempt in a varenicline-treated patient.
 The limited data available from this single smoking cessation study are not sufficient to allow conclusions to be drawn.
 
+In the trial of patients with major depressive disorder, the most common adverse events (≥ 10%) in subjects taking varenicline were nausea (27% vs. 10% on placebo), headache (17 vs 11%), abnormal dreams (11% vs 8%), insomnia (11% vs 5%) and irritability (11% vs. 8%).
+Additionally, the following psychiatric AEs were reported in ≥ 2% of patients in either treatment group (varenicline or placebo, respectively): anxiety (7% vs. 9%), agitation (7% vs. 4%), depressed mood disorders and disturbances (11% vs. 9%), tension (4% vs. 3%), hostility (2% vs. 0.4%) and restlessness (2% vs. 2%).
+Patients treated with varenicline were more likely than patients treated with placebo to report one of various events related to hostility and aggression (3% vs 1%).
+Psychiatric scales showed no differences between the varenicline and placebo groups and no overall worsening of depression during the study in either treatment group.
+The percentage of subjects with suicidal ideation and/or behavior was similar between the varenicline and placebo groups during treatment (6% and 8%, respectively) and the non-treatment follow-up (6% and 6%, respectively).
+There was one event of intentional self-injury/possible suicide attempt during treatment (Day 73) in a subject in the placebo group.
+Suicide could not be ruled out in one subject who died by an overdose of illicit drugs 76 days after last dose of study drug in the varenicline group.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse events have been reported during post-approval use of CHANTIX.
@@ -201,7 +210,7 @@ Not all patients had known pre-existing psychiatric illness and not all had disc
 There have been post-marketing reports of new or worsening seizures in patients treated with CHANTIX [see Warnings and Precautions (5.2)].
 
 There have been post-marketing reports of patients experiencing increased intoxicating effects of alcohol while taking CHANTIX.
-Some reported neuropsychiatric events, included unusual and sometimes aggressive behavior [see Warnings and Precautions (5.1) and (5.3)].
+Some reported neuropsychiatric events, including unusual and sometimes aggressive behavior [see Warnings and Precautions (5.1) and (5.3)].
 
 There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.6)].
 

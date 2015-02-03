@@ -5,10 +5,12 @@ CHANTIX is supplied in the following package configurations:
 
 |  | Description | NDC |
 | --- | --- | --- |
-| Packs | Starting Month PAK (First month of therapy): Pack includes 1 card of 0.5 mg × 11 tablets and 3 cards of 1 mg × 14 tablets | NDC 0069-0471-97 |
-| Continuing Month PAK (Continuing months of therapy): Pack includes 4 cards of 1 mg × 14 tablets | NDC 0069-0469-97 |  |
-|  | Starting Month Box: 0.5 mg × 11 tablets and 1 mg × 42 tablets | NDC 0069-0471-02 |
-|  | Continuing Month Box: 1 mg × 56 tablets | NDC 0069-0469-12 |
+| Packs | Starting 2 week card: 0.5 mg × 11 tablets and 1 mg × 14 tablets | NDC 0069-0471-01 |
+| Continuing 2 week card: 1 mg × 28 tablets | NDC 0069-0469-11 |  |
+|  | Starting 4-week card: 0.5 mg × 11 tablets and 1 mg × 42 tablets | NDC 0069-0471-03 |
+|  | Continuing 4-week card: 1 mg × 56 tablets | NDC 0069-0469-03 |
+|  | Starting Month Box: 0.5 mg × 11 tablets and 1 mg × 42 tablets | NDC 0069-0471-02; NDC 0069-0471-03 |
+|  | Continuing Month Box: 1 mg × 56 tablets | NDC 0069-0469-12; NDC 0069-0469-03 |
 | Bottles | 0.5 mg - bottle of 56 | NDC 0069-0468-56 |
 | 1 mg - bottle of 56 | NDC 0069-0469-56 |  |
 

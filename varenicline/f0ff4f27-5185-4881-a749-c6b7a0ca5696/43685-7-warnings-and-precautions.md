@@ -13,7 +13,7 @@ When symptoms were reported, most were during CHANTIX treatment, but some were f
 These events have occurred in patients with and without pre-existing psychiatric disease; some patients have experienced worsening of their psychiatric illnesses.
 All patients being treated with CHANTIX should be observed for neuropsychiatric symptoms or worsening of pre-existing psychiatric illness.
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of CHANTIX.
-Limited safety data are available from post-marketing smoking cessation studies in two patient groups: 1) patients with major depressive disorder, and 2) patients with stable schizophrenia or schizoaffective disorder [see Adverse Reactions (6.1)].
+Limited safety data are available from post-marketing smoking cessation studies in two patient groups: 1) patients with major depressive disorder, and 2) patients with stable schizophrenia or schizoaffective disorder [see Adverse Reactions (6.1), Clinical Studies (14.5)].
 
 Some reported neuropsychiatric events, including unusual and sometimes aggressive behavior directed to oneself or others, may have been worsened by concomitant use of alcohol [see Interaction with Alcohol (5.3), Adverse Reactions (6.2)].
 
@@ -155,7 +155,7 @@ CHANTIX has been demonstrated to increase the likelihood of abstinence from smok
 
 ## 5.6 Angioedema and Hypersensitivity Reactions
 
-There have been postmarketing reports of hypersensitivity reactions including angioedema in patients treated with CHANTIX [see Adverse Reactions (6.2), and Patient Counseling Information (17.10)].
+There have been postmarketing reports of hypersensitivity reactions including angioedema in patients treated with CHANTIX [see Adverse Reactions (6.2), and Patient Counseling Information (17)].
 Clinical signs included swelling of the face, mouth (tongue, lips, and gums), extremities, and neck (throat and larynx).
 There were infrequent reports of life-threatening angioedema requiring emergent medical attention due to respiratory compromise.
 Instruct patients to discontinue CHANTIX and immediately seek medical care if they experience these symptoms.

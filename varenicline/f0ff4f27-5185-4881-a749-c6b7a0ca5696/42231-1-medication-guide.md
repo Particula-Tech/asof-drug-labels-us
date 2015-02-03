@@ -9,20 +9,22 @@ Some people have had serious side effects while using CHANTIX to help them quit 
 New or worse mental health problems, such as changes in behavior, hostility, agitation, depressed mood, and suicidal thoughts or actions.
 Some people had these symptoms when they began taking CHANTIX, and others developed them after several weeks of treatment, or after stopping CHANTIX.
 
-- Before taking CHANTIX, tell your doctor if you have ever had depression or other mental health problems.
-  You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without CHANTIX.
-- Stop taking CHANTIX and call your doctor right away if you, your family, or caregiver notice agitation, hostility, depression or changes in your behavior or thinking that are not typical for you, or you develop any of the following symptoms:
-  - thoughts about suicide or dying, or attempts to commit suicide
-  - new or worse depression, anxiety, or panic attacks
-  - feeling very agitated or restless
-  - acting aggressive, being angry, or violent
-  - acting on dangerous impulses
-  - an extreme increase in activity and talking (mania)
-  - abnormal thoughts or sensations
-  - seeing or hearing things that are not there (hallucinations)
-  - feeling people are against you (paranoia)
-  - feeling confused
-  - other unusual changes in behavior or mood
+Before taking CHANTIX, tell your doctor if you have ever had depression or other mental health problems.
+You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without CHANTIX.
+
+Stop taking CHANTIX and call your doctor right away if you, your family, or caregiver notice agitation, hostility, depression or changes in your behavior or thinking that are not typical for you, or you develop any of the following symptoms:
+
+- thoughts about suicide or dying, or attempts to commit suicide
+- new or worse depression, anxiety, or panic attacks
+- feeling very agitated or restless
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- abnormal thoughts or sensations
+- seeing or hearing things that are not there (hallucinations)
+- feeling people are against you (paranoia)
+- feeling confused
+- other unusual changes in behavior or mood
 
 When you try to quit smoking, with or without CHANTIX, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
 Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
@@ -184,6 +186,8 @@ You can ask your doctor or pharmacist for information about CHANTIX that is writ
 
 For more information about CHANTIX and tips on how to quit smoking, go to www.CHANTIX.com or call 1-877-242-6849.
 
+If you are motivated to quit smoking and did not succeed during prior CHANTIX treatment for reasons other than side effects, or if you returned to smoking after treatment, speak with your doctor about whether another course of CHANTIX therapy may be right for you.
+
 What are the ingredients in CHANTIX?
 
 Active ingredient: varenicline tartrate
@@ -192,6 +196,6 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-September 2014
+October 2014
 
-LAB-0328 - 12.0
+LAB-0328-13.0

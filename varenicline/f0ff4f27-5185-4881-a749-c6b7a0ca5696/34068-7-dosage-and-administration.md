@@ -21,7 +21,7 @@ The recommended dose of CHANTIX is 1 mg twice daily following a 1-week titration
 Patients should be treated with CHANTIX for 12 weeks.
 For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks' treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.
 
-Patients who do not succeed in stopping smoking during 12 weeks of initial therapy, or who relapse after treatment, should be encouraged to make another attempt once factors contributing to the failed attempt have been identified and addressed.
+Patients who are motivated to quit, and who did not succeed in stopping smoking during prior CHANTIX therapy for reasons other than intolerability due to adverse events or who relapsed after treatment, should be encouraged to make another attempt with CHANTIX once factors contributing to the failed attempt have been identified and addressed.
 
 Consider a temporary or permanent dose reduction in patients who cannot tolerate the adverse effects of CHANTIX.
 
