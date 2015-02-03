@@ -50,8 +50,8 @@ After patients achieve adequate control of the heart rate and a stable clinical 
 
 When transitioning from BREVIBLOC to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of BREVIBLOC as follows:
 
-- 1.Thirty minutes following the first dose of the alternative drug, reduce the BREVIBLOC infusion rate by one-half (50%).
-- 2.After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the BREVIBLOC infusion.
+- •Thirty minutes following the first dose of the alternative drug, reduce the BREVIBLOC infusion rate by one-half (50%).
+- •After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the BREVIBLOC infusion.
 
 ## 2.4 Directions for Use
 
@@ -64,7 +64,11 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 - •The medication port is to be used solely for withdrawing an initial bolus from the bag.
 - •Use aseptic technique when withdrawing the bolus dose.
-- •Do not add any additional medications to the bag.
+- •Do not add any additional
+
+Figure 1: Two-Port INTRAVIA Bag
+
+- • medications to the bag.
 
 Figure 1: Two-Port INTRAVIA Bag
 
