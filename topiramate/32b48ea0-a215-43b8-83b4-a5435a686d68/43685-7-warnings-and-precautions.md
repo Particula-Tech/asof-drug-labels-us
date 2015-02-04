@@ -15,7 +15,7 @@ Elevated intraocular pressure of any etiology, if left untreated, can lead to se
 
 ## 5.2 Visual Field Defects
 
-Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trails and in postmarketing experience in patients receiving topiramate.In clinical trials, most of these events were reversible after topiramate discontinuation.
+Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trials and in postmarketing experience in patients receiving topiramate.In clinical trials, most of these events were reversible after topiramate discontinuation.
 If visual problems occur at any time during topiramate treatment, consideration should be given to discontinuing the drug.
 
 ## 5.3 Oligohidrosis and Hyperthermia
@@ -31,7 +31,7 @@ Caution should be used when topiramate is prescribed with other drugs that predi
 
 Hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with topiramate treatment.
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of topiramate on carbonic anhydrase.
-Such electrolyte imbalance has been observed with the use of topiramate in placebo-controlled clinical trials and in the postmarketing period.
+Such electrolyte imbalance has been observed with the use of topiramate in placebo-controlled clinical trials and in the post-marketing period.
 Generally, topiramate-induced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment.
 Bicarbonate decrements are usually mild-moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet, or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
@@ -58,7 +58,7 @@ The incidence of metabolic acidosis (defined by a serum bicarbonate < 20 mEq/L) 
 The incidence of markedly abnormal changes (i.e., < 17 mEq/L and > 5 mEq/L decrease from baseline of ≥ 20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day [see Use in Specific Populations (8.4)].
 In pediatric patients (6 to 15 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy was 9% for 50 mg/day and 25% for 400 mg/day.
 The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg/day and 6% for 400 mg/day.
-Measurement of serum Bicarbonate in Epilepsy Patients Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
+Measurement of Serum Bicarbonate in Epilepsy Patients Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
 If the decision is made to continue patients on topiramate in the face of persistent acidosis, alkali treatment should be considered.
 
@@ -89,7 +89,7 @@ The relative risk for suicidal thoughts or behavior was higher in clinical trial
 Anyone considering prescribing topiramate or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, or behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.6 Cognitive/Neuropsychiatric Adverse Reactions
@@ -147,8 +147,8 @@ The hyperammonemia associated with topiramate treatment occurred with and withou
 Dose-related hyperammonemia was observed in the extension trial in pediatric patients up to 2 years old.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 Topiramate is not approved as adjunctive treatment of partial onset seizures in pediatric patients less than 2 years old.
-Hyperammonemia with and without encephalopathy has also been observed in postmarketing reports in patients who were taking topiramate without concomitant valproic acid (VPA).
-Hyperammonemia/Encephalopathy With Concomitant Valproic Acid (VPA) Concomitant administration of topiramate and valproic acid (VPA) has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone based upon postmarketing reports.
+Hyperammonemia with and without encephalopathy has also been observed in post-marketing reports in patients who were taking topiramate without concomitant valproic acid (VPA).
+Hyperammonemia/Encephalopathy With Concomitant Valproic Acid (VPA) Concomitant administration of topiramate and valproic acid (VPA) has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone based upon post-marketing reports.
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.

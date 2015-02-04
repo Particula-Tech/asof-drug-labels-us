@@ -9,7 +9,6 @@ The following adverse reactions are discussed in more detail in other sections o
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Fetal Toxicity [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]
-- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.8)]
 - Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.9)]
 - Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.10)]
 - Kidney Stones [see Warnings and Precautions (5.11)]
@@ -22,24 +21,33 @@ The data described in the following sections were obtained using topiramate tabl
 
 Because clinical trials are conducted under widely varying conditions, the incidence of adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidence of adverse reactions in the clinical trials of another drug, and may not reflect the incidence of adverse reactions observed in practice.
 
+Increased Risk for Bleeding
+
+Topiramate treatment is associated with an increased risk for bleeding.
+In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse event for topiramate than for placebo (4.5% versus 3% in adult patients, and 4.4% versus 2.3% in pediatric patients).
+In this analysis, the incidence of serious bleeding events for topiramate and placebo was 0.3% versus 0.2% for adult patients, and 0.4% versus 0% for pediatric patients.
+
+Adverse bleeding reactions reported with topiramate ranged from mild epistaxis, ecchymosis, and increased menstrual bleeding to life-threatening hemorrhages.
+In patients with serious bleeding events, conditions that increased the risk for bleeding were often present, or patients were often taking drugs that cause thrombocytopenia (other antiepileptic drugs) or affect platelet function or coagulation (e.g., aspirin, nonsteroidal anti-inflammatory drugs, selective serotonin reuptake inhibitors, or warfarin or other anticoagulants).
+
 Monotherapy Epilepsy
 
 Adults ≥16 Years
 
-The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day topiramate group and at an incidence higher (≥ 5%) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
+The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day topiramate group and at an incidence higher (³ 5%) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
 
 Approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions causing discontinuation in this trial were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
 
 Pediatric Patients 6 to <16 Years of Age
 
-The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramate group and at an incidence higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
+The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramategroup and at an incidence higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
 Table 5 also presents the incidence of adverse reactions occurring in at least 2% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
-Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any Topiramate Group and the Incidence in the 400 mg/day Topiramate Group Was Greater Than the Incidence in the 50 mg/day Topiramate Group for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study Topiramate-EPMN-106
+Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any TopiramateGroup and the Incidence in the 400 mg/day TopiramateGroup Was Greater Than the Incidence in the 50 mg/day TopiramateGroup for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study Topiramate-EPMN-106
 
 |  | Age Group |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -116,7 +124,7 @@ Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Ep
 | Urinary tract infection |  |  | 1 | 2 |
 | Vascular (Extracardiac) Disorders |  |  |  |  |
 | Flushing | 0 | 5 |  |  |
-| * Percentages calculated with the number of subjects in each group as denominator† N with Female Reproductive Disorders – Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33; Adult TPM 50 mg n=84; TPM 400 mg n=80 |  |  |  |  |
+| * Percentages calculated with the number of subjects in each group as denominator † N with Female Reproductive Disorders – Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33; Adult TPM 50 mg n=84; TPM 400 mg n=80 |  |  |  |  |
 
 Adjunctive Therapy Epilepsy
 
@@ -138,9 +146,9 @@ Adverse reactions associated with discontinuing therapy included aggravated conv
 
 Incidence in Epilepsy Controlled Clinical Trials – Adjunctive Therapy – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, and Lennox-Gastaut Syndrome
 
-Table 6 lists the incidence of adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day topiramate (and also higher daily dosing of 600 mg to 1000 mg) in controlled trials that was numerically greater with topiramate than with placebo.
+Table 6lists the incidence of adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day topiramate (and also higher daily dosing of 600 mg to 1000 mg) in controlled trials and that was numerically greater with topiramate than with placebo.
 In general, most patients who experienced adverse reactions during the first eight weeks of these trials no longer experienced them by their last visit.
-Table 9 lists the incidence of treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg topiramate in controlled trials and that was numerically greater than the incidence in patients treated with placebo.
+Table 9lists the incidence of treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg topiramate in controlled trials and that was numerically greater than the incidence in patients treated with placebo.
 
 The prescriber should be aware that these data were obtained when topiramate was added to concurrent antiepileptic drug therapy and cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with data obtained from other clinical investigations involving different treatments, uses, or investigators.
@@ -154,7 +162,7 @@ Table 6: Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled
 
 | Body System/ Adverse Reactionc | Placebo (N=291) | Topiramate Dosage (mg/day) |  |
 | --- | --- | --- | --- |
-| 200-400 (N=183) | 600-1,000 (N=414) |  |  |
+| 200 to 400 (N=183) | 600 to1,000 (N=414) |  |  |
 | Body as a Whole-General Disorders |  |  |  |
 | Fatigue | 13 | 15 | 30 |
 | Asthenia | 1 | 6 | 3 |
@@ -249,7 +257,7 @@ Table 6: Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled
 | Diplopia | 5 | 10 | 10 |
 | White Cell and RES Disorders |  |  |  |
 | Leukopenia | 1 | 2 | 1 |
-| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Adverse reactions reported by at least 1% of patients in the topiramate 200 to 400 mg/day group and more common than in the placebo group are listed in this table. |  |  |  |
+| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Adverse reactions reported by at least 1% of patients in the topiramate 200 to 400 mg/day group and more common than in the placebo group are listed in this table. |  |  |  |
 
 Incidence in Study 119 – Add-On Therapy – Adults with Partial Onset Seizures
 
@@ -301,13 +309,13 @@ Table 7: Incidence of Treatment-Emergent Adverse Reactions in Study 119a,b Where
 | Vision Disorders |  |  |
 | Diplopia | 0 | 2 |
 | Vision abnormal | 0 | 2 |
-| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Adverse reactions reported by at least 2% of patients in the topiramate 200 mg/day group and more common than in the placebo group are listed in this table. |  |  |
+| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Adverse reactions reported by at least 2% of patients in the topiramate 200 mg/day group and more common than in the placebo group are listed in this table. |  |  |
 
 Table 8: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Add-On Trials in Adults With Partial Onset Seizuresa
 
 | Adverse Reaction |  | Topiramate Dosage (mg/day) |  |  |
 | --- | --- | --- | --- | --- |
-| Placebo (N=216) % | 200 (N=45) % | 400 (N=8) % | 600 - 1,000 (N=414) % |  |
+| Placebo (N=216) % | 200 (N=45) % | 400 (N=8) % | 600 to 1,000 (N=414) % |  |
 | Fatigue | 13 | 11 | 12 | 30 |
 | Nervousness | 7 | 13 | 18 | 19 |
 | Difficulty with concentration/attention | 1 | 7 | 9 | 14 |
@@ -405,7 +413,7 @@ Table 9: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Contro
 | Myopia | 0 | 1 |
 | White Cell and RES Disorders |  |  |
 | Leukopenia | 0 | 2 |
-| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo.b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. |  |  |
+| a Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. |  |  |
 
 Other Adverse Reactions Observed During All Epilepsy Clinical Trials
 
@@ -474,7 +482,7 @@ Rare: lymphocytosis.
 
 ## 6.2 Postmarketing and Other Experience
 
-In addition to the adverse experiences reported during clinical testing of topiramate, the following adverse experiences have been reported worldwide in patients receiving topiramatepost-approval.
+In addition to the adverse experiences reported during clinical testing of topiramate, the following adverse experiences have been reported worldwide in patients receiving topiramate post-approval.
 
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
 The listing is alphabetized: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), hepatic failure (including fatalities), hepatitis, maculopathy, pancreatitis, and pemphigus.

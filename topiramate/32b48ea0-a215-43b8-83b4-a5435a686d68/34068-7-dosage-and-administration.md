@@ -61,7 +61,7 @@ Titrating in increments of 25 mg/day every week may delay the time to reach an e
 Doses above 400 mg/day (600, 800 or 1,000 mg/day) have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
 Daily doses above 1,600 mg have not been studied.
 
-In the study of primary generalized tonic-clonic seizures the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
 Pediatric Patients Ages 2 to 16 Years – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
@@ -70,7 +70,7 @@ Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/d
 The dosage should then be increased at 1- or 2-week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
 
-In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks[see Clinical Studies (14.1)].
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
 ## 2.4 Patients with Renal Impairment
 

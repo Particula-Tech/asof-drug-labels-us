@@ -72,7 +72,7 @@ As described above, a global improvement in seizure severity was also assessed i
 
 Table 15: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
 
-| Protocol Efficacy Results |  | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≅6 mg/kg/day* |
+| Protocol Efficacy Results |  | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Target Topiramate Dosage (mg/day) |  |  |  |  |  |
 | Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
@@ -96,11 +96,11 @@ Table 15: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 |  | % Responders | 24 | 45c | -- | -- | -- | -- | -- |
 | Studies in Pediatric Patients |  |  |  |  |  |  |  |  |
 | YP | N | 45 | -- | -- | -- | -- | -- | 41 |
-|  | M edian % Reduction | 10.5 | -- | -- | -- | -- | -- | 33.1d |
+|  | Median % Reduction | 10.5 | -- | -- | -- | -- | -- | 33.1d |
 |  | % Responders | 20 | -- | -- | -- | -- | -- | 39 |
 | Primary Generalized Tonic-Clonich |  |  |  |  |  |  |  |  |
 | YTC | N | 40 | -- | -- | -- | -- | -- | 39 |
-|  | Median % Reduction | 9.0 | -- | -- | -- | -- | -- | 56.7d |
+|  | Median % Reduction | 9 | -- | -- | -- | -- | -- | 56.7d |
 |  | % Responders | 20 | -- | -- | -- | -- | -- | 56c |
 | Lennox-Gastaut Syndromei |  |  |  |  |  |  |  |  |
 | YL | N | 49 | -- | -- | -- | -- | -- | 46 |

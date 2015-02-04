@@ -3,14 +3,14 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanisms by which topiramate exerts its anticonvulsant effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy.
-Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABAA receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
+Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
 
 Topiramate has anticonvulsant activity in rat and mouse maximal electroshock seizure (MES) tests.
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
-Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for another indication.
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
 The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
 These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
 When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
@@ -67,13 +67,13 @@ Consequently, the plasma drug concentration for the same mg/kg/day dose would be
 Clearance was independent of dose.
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady-state plasma concentrations of topiramate.
 Drug-Drug Interactions Antiepileptic Drugs Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in the Table 12.
+The effects of these interactions on mean plasma AUCs are summarized in Table 13.
 In Table 13, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
-The third column (topiramate concentration) describes how the coadministration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
+The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
 
 Table 13: Summary of AED Interactions with Topiramate
 
-| AED Coadministered | AED Concentration | Topiramate Concentration |
+| AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
 | Phenytoin | NC or 25% increasea | 48% decrease |
 | Carbamazepine (CBZ) | NC | 40% decrease |
@@ -121,7 +121,7 @@ Metformin
 Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hr) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hr) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 17% and 25%, respectively, when topiramate was added.
+The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
@@ -140,13 +140,13 @@ Glyburide
 
 A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
 There was a 22% decrease in Cmax and a 25% reduction in AUC24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy­glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively.
+Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy­glyburide (M1) and 3-cis-hydroxy-glyburide (M2), was also reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium
 
 In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day.
-Lithium levels should be monitored when coadministered with high-dose topiramate [see Drug Interactions (7.5)].
+Lithium levels should be monitored when co-administered with high-dose topiramate [see Drug Interactions (7.5)].
 
 Haloperidol
 
@@ -165,7 +165,7 @@ Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Coadministration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
+Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
 There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
@@ -180,8 +180,8 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Coadministration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Coadministration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
+Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine
 

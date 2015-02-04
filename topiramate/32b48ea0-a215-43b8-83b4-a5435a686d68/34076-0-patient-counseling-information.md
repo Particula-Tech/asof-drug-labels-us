@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
-Inform patients and their caregivers of the availability of a Medication Guide, and instruct them to read this prior to taking topiramate.
-Instruct patients to take topiramate only as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Eye Disorders Instruct patients taking topiramate to seek immediate medical attention if they experience blurred vision, visual disturbances, or periorbital pain [see Warnings and Precautions (5.1),(5.2)].
 Oligohidrosis and Hyperthermia Closely monitor topiramate-treated patients, especially pediatric patients, for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Counsel patients to contact their healthcare professionals immediately if they develop a high or persistent fever, or decreased sweating [see Warnings and Precautions (5.3)].
@@ -31,4 +29,4 @@ Instructions for a Missing Dose Instruct patients that if they miss a single dos
 However, if a patient is within 6 hours of taking the next scheduled dose, tell the patient to wait until then to take the usual dose of topiramate, and to skip the missed dose.
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2015

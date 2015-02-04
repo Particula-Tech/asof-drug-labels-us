@@ -36,7 +36,7 @@ Topiramate treatment can frequently cause metabolic acidosis, a condition for wh
 ## 7.5 Lithium
 
 In patients, lithium levels were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses of up to 600 mg/day.
-Lithium levels should be monitored when coadministered with high-dose topiramate [see Clinical Pharmacology (12.3)].
+Lithium levels should be monitored when co-administered with high-dose topiramate [see Clinical Pharmacology (12.3)].
 
 ## 7.6 Other Carbonic Anhydrase Inhibitors
 

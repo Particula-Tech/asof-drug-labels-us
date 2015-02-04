@@ -53,7 +53,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-Do not stop topiramate tabletswithout first talking to a healthcare provider.
+Do not stop topiramate tablets without first talking to a healthcare provider.
 
 - Stopping topiramate tablets suddenly can cause serious problems.
 - Suicidal thoughts or actions can be caused by things other than medicines.
@@ -67,7 +67,7 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Topiramate tablets can harm your unborn baby.
 
-- If you take topiramate tabletsduring pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
+- If you take topiramate tablets during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
 - Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
 - There may be other medicines to treat your condition that have a lower chance of birth defects.
@@ -75,7 +75,7 @@ Topiramate tablets can harm your unborn baby.
   If the decision is made to use topiramate tablets, you should use effective birth control (contraception) unless you are planning to become pregnant.
   You should talk to your doctor about the best kind of birth control to use while you are taking topiramate tablets.
 - Tell your healthcare provider right away if you become pregnant while taking topiramate tablets.
-  You and your healthcare provider should decide if you will continue to take topiramate tabletswhile you are pregnant.
+  You and your healthcare provider should decide if you will continue to take topiramate tablets while you are pregnant.
 - Metabolic acidosis may have harmful effects on your baby.
   Talk to your healthcare provider if topiramate tablets have caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -225,7 +225,7 @@ You can ask your pharmacist or healthcare provider for information about topiram
 
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
-What are the ingredients in topiramatetablets?
+What are the ingredients in topiramate tablets?
 
 Active ingredient: topiramate
 
@@ -236,4 +236,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2015

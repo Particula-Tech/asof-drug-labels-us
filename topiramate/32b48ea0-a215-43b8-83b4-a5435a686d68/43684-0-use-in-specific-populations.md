@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category D. [see Warnings and Precautions (5.7)] Topiramate can cause fetal harm when administered to a pregnant woman.
+Teratogenic Effects Pregnancy Category D [see Warnings and Precautions (5.7)] Topiramate can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring.
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
@@ -66,7 +66,7 @@ Topiramate produced a dose-related increased incidence of treatment-emergent hyp
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 In open-label, uncontrolled experience, increasing impairment of adaptive behavior was documented in behavioral testing over time in this population.
 There was a suggestion that this effect was dose-related.
-However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment-related or reflects the patient’s underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [seeWarnings and Precautions (5.6)].
+However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment-related or reflects the patient’s underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.6)].
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 to 24 months) with partial epilepsy is not known.
 Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
