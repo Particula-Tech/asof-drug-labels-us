@@ -2,12 +2,15 @@
 
 Patients receiving Zortress may require dose adjustments based on everolimus blood concentrations achieved, tolerability, individual response, change in concomitant medications and the clinical situation.
 Optimally, dose adjustments of Zortress should be based on trough concentrations obtained 4 or 5 days after a previous dosing change.
-[See Therapeutic Drug Monitoring (2.3)]
+Dose adjustment is required if the trough concentration is below 3 ng/mL.
+The total daily dose of Zortress should be doubled using the available tablet strengths (0.25 mg, 0.5 mg or 0.75 mg).
+Dose adjustment is also required if the trough concentration is >8 ng/mL on 2 consecutive measures; the dose of Zortress® should be decreased by 0.25 mg b.i.d.
+[See Therapeutic Drug Monitoring (2.3) and Clinical Pharmacology (12.3)]
 
 ## 2.1 Dosage in Adult Kidney Transplant Patients
 
 An initial Zortress dose of 0.75 mg orally twice daily (1.5 mg per day) is recommended for adult kidney transplant patients in combination with reduced dose cyclosporine, administered as soon as possible after transplantation.
-[See Therapeutic Drug Monitoring (2.3 and 2.4), Clinical Studies (14.1)]
+[See Therapeutic Drug Monitoring (2.3, 2.4), Clinical Studies (14.1)]
 
 Oral prednisone should be initiated once oral medication is tolerated.
 Steroid doses may be further tapered on an individualized basis depending on the clinical status of patient and function of graft.
@@ -26,7 +29,7 @@ Routine everolimus whole blood therapeutic drug concentration monitoring is reco
 The recommended everolimus therapeutic range is 3 to 8 ng/mL.
 [See Clinical Pharmacology (12.7)] Careful attention should be made to clinical signs and symptoms, tissue biopsies, and laboratory parameters.
 It is important to monitor everolimus blood concentrations, in patients with hepatic impairment, during concomitant administration of CYP3A4 inducers or inhibitors, when switching cyclosporine formulations and/or when cyclosporine dosing is reduced according to recommended target concentrations.
-[See Clinical Pharmacology (12.7 and 12.8)]
+[See Clinical Pharmacology (12.7, 12.8)]
 
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced.
 There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and thus, everolimus concentrations do not decrease if the tacrolimus exposure is reduced.
@@ -41,7 +44,7 @@ Therefore, communication should be maintained with the laboratory performing the
 ## 2.4 Therapeutic Drug Monitoring- Cyclosporine in Kidney Transplant Patients
 
 Both cyclosporine doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with Zortress, in order to minimize the risk of nephrotoxicity.
-[See Warnings and Precautions (5.6) and Drug Interactions (7.2), Clinical Pharmacology (12.8)]
+[See Warnings and Precautions (5.6), Drug Interactions (7.2), Clinical Pharmacology (12.8)]
 
 The recommended cyclosporine therapeutic ranges when administered with Zortress are 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
 The median trough concentrations observed in the clinical trial ranged between 161 to 185 ng/mL through Month 1 post-transplant and between 111 to 140 ng/mL at Months 2 and 3 post-transplant.
@@ -64,13 +67,13 @@ There is an interaction of cyclosporine on everolimus, and consequently, everoli
 ## 2.5 Therapeutic Drug Monitoring- Tacrolimus in Liver Transplant Patients
 
 Both tacrolimus doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with Zortress, in order to minimize the potential risk of nephrotoxicity.
-[See Warnings and Precautions (5.6) and Clinical Pharmacology (12.9)]
+[See Warnings and Precautions (5.6), Clinical Pharmacology (12.9)]
 
 The recommended tacrolimus therapeutic range when administered with Zortress are whole blood trough (C-0h) concentrations of 3 to 5 ng/mL by three weeks after the first dose of Zortress (approximately Month 2) and through Month 12 post transplant.
 
 The median tacrolimus trough concentrations observed in the clinical trial ranged between 8.6 to 9.5 ng/mL at Weeks 2 and 4 post-transplant (prior to initiation of everolimus).
 The median tacrolimus trough concentrations ranged between 7 to 8.1 ng/mL at Weeks 5 and 6 post-transplant, between 5.2 to 5.6 ng/mL at Months 2 and 3 post-transplant, and between 4.3 to 4.9 ng/mL between Months 4 and 12 post-transplant.
-[See Clinical Pharmacology (12.9) and Clinical Studies (14.2)]
+[See Clinical Pharmacology (12.9), Clinical Studies (14.2)]
 
 Tacrolimus is to be administered as oral capsules twice daily unless intravenous administration of tacrolimus cannot be avoided.
 
@@ -86,7 +89,7 @@ Unlike the interaction between cyclosporine and everolimus, tacrolimus does not 
 Zortress tablets should be swallowed whole with a glass of water and not crushed before use.
 
 Administer Zortress consistently approximately 12 hours apart with or without food to minimize variability in absorption and at the same time as cyclosporine or tacrolimus.
-[See Clinical Pharmacology (12.5)]
+[See Clinical Pharmacology (12.3)]
 
 ## 2.7 Hepatic Impairment
 
@@ -94,4 +97,4 @@ Whole blood trough concentrations of everolimus should be closely monitored in p
 For patients with mild hepatic impairment (Child-Pugh Class A), the initial daily dose should be reduced by approximately one-third of the normally recommended daily dose.
 For patients with moderate or severe hepatic impairment (Child-Pugh B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL.
-[See Clinical Pharmacology (12.5)]
+[See Clinical Pharmacology (12.6)]

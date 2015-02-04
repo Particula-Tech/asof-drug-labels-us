@@ -17,12 +17,12 @@ Everolimus pharmacokinetics have been characterized after oral administration of
 
 Absorption
 
-After oral dosing, peak everolimus concentrations occur 1 to 2 h post dose.
+After oral dosing, peak everolimus concentrations occur 1 to 2 hours post dose.
 Over the dose range of 0.5 mg to 2 mg twice daily, everolimus Cmax and AUC are dose proportional in transplant patients at steady-state.
 
 Food Effect
 
-In 24 healthy subjects, a high-fat breakfast (44.5 g fat) reduced everolimus Cmax by 60%, delayed tmax by a median 1.3 hours, and reduced AUC by 16% compared with a fasting administration.
+In 24 healthy subjects, a high-fat breakfast (44.5 g fat) reduced everolimus Cmax by 60%, delayed Tmax by a median 1.3 hours, and reduced AUC by 16% compared with a fasting administration.
 To minimize variability, everolimus should be taken consistently with or without food.
 [See Dosage and Administration (2.6)]
 
@@ -35,10 +35,9 @@ The apparent distribution volume associated with the terminal phase (Vz/F) from 
 Metabolism
 
 Everolimus is a substrate of CYP3A4 and P-gp.
-The main metabolic pathways identified in man were monohydroxylations and O-dealkylations.
-Two main metabolites were formed by hydrolysis of the cyclic lactone.
-Everolimus was the main circulating component in blood.
-None of the main metabolites contribute significantly to the immunosuppressive activity of everolimus.
+Following oral administration, everolimus is the main circulating component in human blood.
+Six main metabolites of everolimus have been detected in human blood, including three monohydroxylated metabolites, two hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.
+These metabolites were also identified in animal species used in toxicity studies, and showed approximately 100-times less activity than everolimus itself.
 
 Excretion
 
@@ -47,7 +46,7 @@ Parent drug was not detected in urine and feces.
 
 Pharmacokinetics in Kidney Transplant Patients
 
-Steady-state is reached by Day 4 with an accumulation in blood levels of 2- to 3-fold compared with the exposure after the first dose.
+Steady-state is reached by Day 4 with an accumulation in blood concentrations of 2- to 3-fold compared with the exposure after the first dose.
 Table 4 below provides a summary of the steady-state pharmacokinetic parameters.
 
 Table 4.
@@ -55,9 +54,8 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 
 | Cmax | Tmax | AUC | CL/F1 | Vc/F1 | Half-life (T1/2) |
 | --- | --- | --- | --- | --- | --- |
-| 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng∙h/mL | 8.8 L/h | 110 L | 30 ± 11h |
-
-1 population pharmacokinetic analysis
+| 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng•h/mL | 8.8 L/h | 110 L | 30 ± 11h |
+| 1 population pharmacokinetic analysis |  |  |  |  |  |
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
 Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range 19 to 53 hours).
@@ -67,9 +65,9 @@ Results indicate the half-life of everolimus in maintenance renal transplant pat
 Everolimus is known to be a substrate for both cytochrome CYP3A4 and P-gp.
 The pharmacokinetic interaction between everolimus and concomitantly administered drugs is discussed below.
 Drug interaction studies have not been conducted with drugs other than those described below.
-[See Warnings and Precautions (5.14), and Drug Interactions (7)]
+[See Warnings and Precautions (5.14), Drug Interactions (7)]
 
-Cyclosporine (CYP3A4/P-gp inhibitor and CYP3A4 substrate): Zortress should be taken concomitantly with cyclosporine in kidney transplant patients.
+Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate): Zortress should be taken concomitantly with cyclosporine in kidney transplant patients.
 Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the Zortress dose is increased.
 [See Dosage and Administration (2.1), Drug Interactions (7.2)]
 
@@ -78,13 +76,13 @@ In a single-dose study in healthy subjects, cyclosporine (Neoral) administered a
 
 Ketoconazole and Other Strong CYP3A4 Inhibitors: Multiple-dose administration of 200 mg ketoconazole twice daily for 5 days to 12 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 3.9-fold, 15-fold, and 89%, respectively, when co-administered with 2 mg Zortress.
 It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be co-administered with Zortress.
-[See Warnings and Precautions (5.14) and Drug Interactions (7.3)]
+[See Warnings and Precautions (5.14), Drug Interactions (7.3)]
 
-Erythromycin (Moderate CYP3A4 Inhibitor): Multiple-dose administration of 500 mg erythromycin three times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2.0-fold, 4.4-fold, and 39%, respectively, when co-administered with 2 mg Zortress.
+Erythromycin (Moderate CYP3A4 Inhibitor): Multiple-dose administration of 500 mg erythromycin 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2.0-fold, 4.4-fold, and 39%, respectively, when co-administered with 2 mg Zortress.
 If erythromycin is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary.
 [See Drug Interactions (7.4)]
 
-Verapamil (CYP3A4 Inhibitor and P-gp Substrate): Multiple-dose administration of 80 mg verapamil three times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax and AUC by 2.3-fold and 3.5-fold, respectively, when co-administered with 2 mg Zortress.
+Verapamil (CYP3A4 Inhibitor and P-gp Substrate): Multiple-dose administration of 80 mg verapamil 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax and AUC by 2.3-fold and 3.5-fold, respectively, when co-administered with 2 mg Zortress.
 Everolimus half-life was not changed.
 If verapamil is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary.
 [See Drug Interactions (7.5)]
@@ -108,7 +106,7 @@ Combination with rifampin is not recommended.
 Hepatic Impairment
 
 Relative to the AUC of everolimus in subjects with normal hepatic function, the average AUC in 6 patients with mild hepatic impairment (Child-Pugh Class A) was 1.6-fold higher following administration of a 10 mg single-dose.
-In two independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single-dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a 10 mg single-dose.
+In 2 independently studied groups of 8 and 9 patients with moderate hepatic impairment (Child-Pugh Class B) the average AUC was 2.1-fold and 3.3-fold higher following administration of a 2 mg or a 10 mg single-dose, respectively; and in 6 patients with severe hepatic impairment (Child-Pugh Class C) the average AUC was 3.6-fold higher following administration of a 10 mg single-dose.
 For patients with mild hepatic impairment (Child-Pugh Class A), the dose should be reduced by approximately one-third of the normally recommended daily dose.
 For patients with moderate or severe hepatic impairment (Child-Pugh B or C), the initial daily dose should be reduced to approximately one-half of the normally recommended daily dose.
 Further dose adjustment and/or dose titration should be made if a patient’s whole blood trough concentration of everolimus, as measured by an LC/MS/MS assay, is not within the target trough concentration range of 3 to 8 ng/mL.
@@ -150,7 +148,7 @@ Everolimus in Liver Transplantation
 In the liver clinical trial [See Clinical Studies (14.2)] Zortress dosing was initiated after 30 days following transplantation.
 Whole blood trough everolimus concentrations were measured within 5 days after first dose, followed by weekly intervals for 3 to 4 weeks, and then monthly thereafter.
 Approximately 49%, 37%, and 18% of patients, respectively, were below 3 ng/mL at 1, 2, and 4 weeks after initiation of Zortress dosing.
-The majority of patients (approximately 70 to 80%) had everolimus trough blood concentrations within the target range of 3-8 ng/mL after Month 2 through Month 12.
+The majority of patients (approximately 70% to 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL after Month 2 through Month 12.
 
 ## 12.8 Cyclosporine Concentrations Observed in Kidney Transplant Patients
 
@@ -187,7 +185,7 @@ Tacrolimus Trough Concentrations Over 12 Months – Liver Study Median Values (n
 
 | Treatment group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
-| Predose group Zortress 1.0 mg twice daily (initiated at month 1) | Week 4 | 234 | 3-5 | 9.5 | 5.8 | 14.6 |
+| Predose group Zortress 1.0 mg twice daily (initiated at Month 1) | Week 4 | 234 | 3-5 | 9.5 | 5.8 | 14.6 |
 | Week 5 | 219 | 3-5 | 8.1 | 4.5 | 13.8 |  |
 | Week 6 | 233 | 3-5 | 7.0 | 4.1 | 12.0 |  |
 | Month 2 | 219 | 3-5 | 5.6 | 3.4 | 10.3 |  |

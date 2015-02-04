@@ -5,6 +5,7 @@
 Only physicians experienced in management of systemic immunosuppressant therapy in transplantation should prescribe Zortress.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for the maintenance therapy should have complete information requisite for the follow-up of the patient.
+In limited data with the complete elimination of CNI (calcineurin inhibition), there was an increased risk of acute rejection.
 
 ## 5.2 Lymphomas and Other Malignancies
 
@@ -16,7 +17,7 @@ As usual for patients with increased risk for skin cancer, exposure to sunlight 
 ## 5.3 Serious Infections
 
 Patients receiving immunosuppressants, including Zortress, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
-[See Warnings and Precautions (5.13) and Adverse Reactions (6.1, 6.2)] These infections may lead to serious, including fatal, outcomes.
+[See Warnings and Precautions (5.13), Adverse Reactions (6.1, 6.2)] These infections may lead to serious, including fatal, outcomes.
 Because of the danger of over immunosuppression, which can cause increased susceptibility to infection, combination immunosuppressant therapy should be used with caution.
 
 Antimicrobial prophylaxis for Pneumocystis jiroveci (carinii) pneumonia and prophylaxis for cytomegalovirus (CMV) is recommended in transplant recipients.
@@ -65,7 +66,8 @@ Generalized fluid accumulation, including peripheral edema (e.g., lymphoedema) a
 ## 5.10 Interstitial Lung Disease/Non-Infectious Pneumonitis
 
 A diagnosis of interstitial lung disease (ILD) should be considered in patients presenting with symptoms consistent with infectious pneumonia but not responding to antibiotic therapy and in whom infectious, neoplastic and other non-drug causes have been ruled-out through appropriate investigations.
-Cases of ILD have been reported with Zortress, which generally resolve on drug interruption with or without glucocorticoid therapy.
+Cases of ILD, implying lung intraparenchymal inflammation (pneumonitis) and/or fibrosis of non-infectious etiology, have occurred in patients receiving rapamycins and their derivatives, including Zortress.
+Most cases generally resolve on drug interruption with or without glucocorticoid therapy.
 However, fatal cases have also occurred.
 
 ## 5.11 Hyperlipidemia

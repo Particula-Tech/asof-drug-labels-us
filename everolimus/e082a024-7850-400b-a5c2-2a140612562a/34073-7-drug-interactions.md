@@ -14,7 +14,7 @@ All in vivo interaction studies were conducted without concomitant cyclosporine.
 Pharmacokinetic interactions between Zortress and concomitantly administered drugs are discussed below.
 Drug interaction studies have not been conducted with drugs other than those described below.
 
-## 7.2 Cyclosporine (CYP3A4/P-gp inhibitor and CYP3A4 substrate)
+## 7.2 Cyclosporine (CYP3A4/P-gp Inhibitor and CYP3A4 Substrate)
 
 The steady-state Cmax and AUC estimates of everolimus were significantly increased by co-administration of single dose cyclosporine.
 [See Clinical Pharmacology (12.5)] Dose adjustment of Zortress might be needed if the cyclosporine dose is altered.
@@ -34,7 +34,7 @@ If erythromycin is co-administered, everolimus blood concentrations should be mo
 
 ## 7.5 Verapamil (CYP3A4 and P-gp Substrate)
 
-Multiple-dose verapamil administration to healthy volunteers significantly increased single dose estimates of everolimus Cmaxand AUC.
+Multiple-dose verapamil administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax and AUC.
 Everolimus half-life was not changed.
 If verapamil is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary.
 [See Clinical Pharmacology (12.5)]
@@ -54,7 +54,7 @@ Due to an interaction with cyclosporine, clinical studies of Zortress with cyclo
 
 Pretreatment of healthy subjects with multiple-dose rifampin followed by a single dose of Zortress increased everolimus clearance and decreased the everolimus Cmax and AUC estimates.
 Combination with rifampin is not recommended.
-[See Warnings and Precautions (5.14) and Clinical Pharmacology (12.5)]
+[See Warnings and Precautions (5.14), Clinical Pharmacology (12.5)]
 
 ## 7.9 Midazolam (CYP3A4/5 substrate)
 
@@ -67,6 +67,10 @@ Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when 
 Moderate inhibitors of CYP3A4 and P-gp may increase everolimus blood concentrations (e.g., fluconazole; macrolide antibiotics; nicardipine, diltiazem; nelfinavir, indinavir, amprenavir).
 Inducers of CYP3A4 may increase the metabolism of everolimus and decrease everolimus blood concentrations (e.g., St. John’s Wort [Hypericum perforatum]; anticonvulsants: carbamazepine, phenobarbital, phenytoin; efavirenz, nevirapine).
 
-## 7.11 Tacrolimus
+## 7.11 Octreotide
+
+Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
+
+## 7.12 Tacrolimus
 
 There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of Zortress is not necessary when Zortress is co-administered with tacrolimus.

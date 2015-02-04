@@ -46,7 +46,7 @@ Advise patients to seek prompt medical attention if symptoms occur.
 Inform patients the use of Zortress has been associated with impaired or delayed wound healing, fluid accumulation and the need for careful observation of their incision site.
 [See Warnings and Precautions (5.9)]
 
-## 17.8 Interstitial lung disease/Non-Infectious Pneumonitis
+## 17.8 Interstitial Lung Disease/Non-Infectious Pneumonitis
 
 Inform patients the use of Zortress may increase the risk of non-infectious pneumonitis.
 Advise patients to seek medical attention if they develop clinical symptoms consistent with pneumonia.
@@ -95,4 +95,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2013-09 February 2013
+T2015-19 January 2015

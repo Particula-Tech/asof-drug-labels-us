@@ -212,4 +212,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 Rapamune® is a registered trademark of Pfizer Inc Gengraf® is a registered trademark of Abbott Laboratories
 
-T2013-10 February 2013
+T2015-20 January 2015

@@ -19,7 +19,7 @@ Nephrotoxicity
 - Increased nephrotoxicity can occur with use of standard doses of cyclosporine in combination with Zortress.
   Therefore reduced doses of cyclosporine should be used in combination with Zortress in order to reduce renal dysfunction.
   It is important to monitor the cyclosporine and everolimus whole blood trough concentrations.
-  [See Dosage and Administration (2.2 and 2.3) and Warnings and Precautions (5.5) and Clinical Pharmacology (12.7 and 12.8)]
+  [See Dosage and Administration (2.4 and 2.5) and Warnings and Precautions (5.6) and Clinical Pharmacology (12.7 and 12.8)]
 
 Mortality in Heart Transplantation
 
