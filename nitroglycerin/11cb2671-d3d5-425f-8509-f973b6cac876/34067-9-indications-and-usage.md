@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Nitrolingual® Pumpspray is indicated for acute relief of an attack or prophylaxis of angina pectoris due to coronary artery disease.
+Nitrolingual Pumpspray is indicated for acute relief of an attack or prophylaxis of angina pectoris due to coronary artery disease.

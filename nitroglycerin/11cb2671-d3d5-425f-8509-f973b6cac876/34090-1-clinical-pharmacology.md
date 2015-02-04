@@ -1,30 +1,44 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle, producing a vasodilator effect on both peripheral arteries and veins with more prominent effects on the latter.
-Dilation of the post-capillary vessels, including large veins, promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure (pre-load).
-Arteriolar relaxation reduces systemic vascular resistance and arterial pressure (after-load).
+## 12.1 Mechanism of action
 
-The mechanism by which nitroglycerin relieves angina pectoris is not fully understood.
-Myocardial oxygen consumption or demand (as measured by the pressure-rate product, tension-time index, and stroke-work index) is decreased by both the arterial and venous effects of nitroglycerin and presumably, a more favorable supply-demand ratio is achieved.
+Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues.
+This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation.
 
-While the large epicardial coronary arteries are also dilated by nitroglycerin, the extent to which this action contributes to relief of exertional angina is unclear.
+## 12.2 Pharmacodynamics
 
-Nitroglycerin is rapidly metabolized in vivo, with a liver reductase enzyme having primary importance in the formation of glycerol nitrate metabolites and inorganic nitrate.
-Two active major metabolites, 1,2- and 1,3-dinitroglycerols, the products of hydrolysis, although less potent as vasodilators, have longer plasma half-lives than the parent compound.
-The dinitrates are further metabolized to mononitrates (considered biologically inactive with respect to cardiovascular effects) and ultimately glycerol and carbon dioxide.
+The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle.
+Although venous effects predominate, nitroglycerin produces, in a dose-related manner, dilation of both arterial and venous beds.
+Dilation of the postcapillary vessels, including large veins, promotes peripheral pooling of blood, decreases venous return to the heart, and reduces left ventricular end-diastolic pressure (preload).
+Nitroglycerin also produces arteriolar relaxation, thereby reducing peripheral vascular resistance and arterial pressure (after load), and dilates large epicardial coronary arteries; however, the extent to which this latter effect contributes to the relief of exertional angina is unclear.
 
 Therapeutic doses of nitroglycerin may reduce systolic, diastolic and mean arterial blood pressure.
 Effective coronary perfusion pressure is usually maintained, but can be compromised if blood pressure falls excessively or increased heart rate decreases diastolic filling time.
 
-Elevated central venous and pulmonary capillary wedge pressures, pulmonary vascular resistance and systemic vascular resistance are also reduced by nitroglycerin therapy.
+Elevated central venous and pulmonary capillary wedge pressures, and pulmonary and systemic vascular resistance are also reduced by nitroglycerin therapy.
 Heart rate is usually slightly increased, presumably a reflex response to the fall in blood pressure.
 Cardiac index may be increased, decreased, or unchanged.
-Patients with elevated left ventricular filling pressure and systemic vascular resistance values in conjunction with a depressed cardiac index are likely to experience an improvement in cardiac index.
-On the other hand, when filling pressures and cardiac index are normal, cardiac index may be slightly reduced.
+Myocardial oxygen consumption or demand (as measured by the pressure-rate product, tension-time index, and stroke-work index) is decreased and a more favorable supply-demand ratio can be achieved.
+Patients with elevated left ventricular filling pressure and increased systemic vascular resistance in association with a depressed cardiac index are likely to experience an improvement in cardiac index.
+In contrast, when filling pressures and cardiac index are normal, cardiac index may be slightly reduced following nitroglycerin administration.
 
-In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual® Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1,041pg/mL • min and 7.5 minutes, respectively.
-Additionally, in these subjects the mean area-under-the-curve (AUC) was 12,769 pg/mL • min.
+## 12.3 Pharmacokinetics
 
-In a randomized, double-blind single-dose, 5-period cross-over study in 51 patients with exertional angina pectoris significant dose-related increases in exercise tolerance, time to onset of angina and ST-segment depression were seen following doses of 0.2, 0.4, 0.8 and 1.6 mg of nitroglycerin delivered by metered pumpspray as compared to placebo.
+A liver reductase enzyme is of primary importance in the metabolism of nitroglycerin to glycerol di- and mononitrate metabolites and ultimately to glycerol and organic nitrate.
+Known sites of extrahepatic metabolism include red blood cells and vascular walls.
+In addition to nitroglycerin, 2 major metabolites, 1,2- and 1,3-dinitroglycerin are found in plasma.
+The mean elimination half-life of both 1,2- and 1,3-dinitroglycerin is about 40 minutes.
+The 1,2- and 1,3-dinitroglycerin metabolites have been reported to possess some pharmacological activity, whereas the glycerol mononitrate metabolites of nitroglycerin are essentially inactive.
+Higher plasma concentrations of the dinitro metabolites, with their nearly 8-fold longer elimination half-lives, may contribute significantly to the duration of pharmacologic effect.
 
-Additionally the drug was well tolerated as evidenced by a profile of generally mild to moderate adverse events.
+In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1.041pg/mL and 7.5 minutes, respectively.
+Additionally, in these subjects the mean area under the curve (AUC) was 12.769 pg/mL ∙ min.
+
+The volume of distribution of nitroglycerin following intravenous administration is 3.3 L/kg.
+
+Drug interactions
+
+Aspirin: Coadministration of nitroglycerin with high dose aspirin (1000 mg) results in increased exposure to nitroglycerin.
+The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of nitroglycerin with high dose aspirin.
+
+Tissue-type plasminogen activator (t-PA): Concomitant administration of t-PA and intravenous nitroglycerin has been shown to reduce plasma levels of t-PA and its thrombolytic effect.

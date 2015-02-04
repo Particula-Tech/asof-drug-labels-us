@@ -1,16 +1,22 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions to oral nitroglycerin dosage forms, particularly headache and hypotension, are generally dose-related.
-In clinical trials at various doses of nitroglycerin, the following adverse effects have been observed:
+## 6.1 Clinical Trials Experience
 
-Headache, which may be severe and persistent, is the most commonly reported side effect of nitroglycerin with an incidence on the order of about 50% in some studies.
-Cutaneous vasodilation with flushing may occur.
-Transient episodes of dizziness and weakness, as well as other signs of cerebral ischemia associated with postural hypotension, may occasionally develop.
-Occasionally, an individual may exhibit marked sensitivity to the hypotensive effects of nitrates and severe responses (nausea, vomiting, weakness, restlessness, pallor, perspiration and collapse) may occur even with therapeutic doses.
-Drug rash and/or exfoliative dermatitis have been reported in patients receiving nitrate therapy.
-Nausea and vomiting appear to be uncommon.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Nitrolingual® Pumpspray given to 51 chronic stable angina patients in single doses of 0.4, 0.8 and 1.6 mg as part of a double-blind, 5-period single-dose cross-over study exhibited an adverse event profile that was generally mild to moderate.
+Adverse reactions occurring at a frequency greater than 2% and greater than placebo included: headache, dizziness, and paresthesia.
 
-Adverse events occurring at a frequency greater than 2% included: headache, dizziness, and paresthesia.
-Less frequently reported events in this trial included (≤2%): dyspnea, pharyngitis, rhinitis, vasodilation, peripheral edema, asthenia, and abdominal pain.
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of Nitrolingual Pumpspray and other nitroglycerin drugs.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
+
+Neurologic: weakness, drowsiness
+
+Dermatologic: cutaneous vasodilation, flushing, drug rash, exfoliative dermatitits
+
+Gastrointestinal: nausea, vomiting
+
+Respiratory: transient hypoxemia
+
+Cardiovascular: tachycardia,
