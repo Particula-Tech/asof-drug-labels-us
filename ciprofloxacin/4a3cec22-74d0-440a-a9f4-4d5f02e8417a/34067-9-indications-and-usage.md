@@ -1,22 +1,27 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-CIPRO XR is indicated only for the treatment of urinary tract infections, including acute uncomplicated pyelonephritis, caused by susceptible isolates of the designated microorganisms as listed below.
-CIPRO XR and ciprofloxacin immediate-release tablets are not interchangeable.
-Please see DOSAGE AND ADMINISTRATION for specific recommendations.
+CIPRO XR is indicated for the treatment of infections caused by susceptible isolates of the designated microorganisms in the conditions and patient populations listed below.
 
-Uncomplicated Urinary Tract Infections (Acute Cystitis) caused by Escherichia coli, Proteus mirabilis, vancomycin-susceptible Enterococcus faecalis, or Staphylococcus saprophyticus a.
+## 1.1 Uncomplicated Urinary Tract Infections (Acute Cystitis)
 
-Complicated Urinary Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, vancomycin-susceptible Enterococcus faecalis, Proteus mirabilis, or Pseudomonas aeruginosa*.
+CIPRO XR is indicated for the treatment of uncomplicated urinary tract infections (UTIs) caused by Escherichia coli, Proteus mirabilis, Enterococcus faecalis, or Staphylococcus saprophyticus.
 
-Acute Uncomplicated Pyelonephritis caused by Escherichia coli.
+## 1.2 Complicated Urinary Tract Infections, and Acute Uncomplicated Pyelonephritis
 
-*Treatment of infections due to this organism in the organ system was studied in fewer than 10 patients.
+CIPRO XR is indicated for the treatment of complicated urinary tract infections (cUTI) caused by Escherichia coli, Klebsiella pneumoniae, Enterococcus faecalis, Proteus mirabilis, or Pseudomonas aeruginosa and acute uncomplicated pyelonephritis (AUP) caused by Escherichia coli.
 
-THE SAFETY AND EFFICACY OF CIPRO XR IN TREATING INFECTIONS OTHER THAN URINARY TRACT INFECTIONS HAS NOT BEEN DEMONSTRATED.
-Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to ciprofloxacin.
-Therapy with CIPRO XR may be initiated before results of these tests are known; once results become available appropriate therapy should be continued.
-Culture and susceptibility testing performed periodically during therapy will provide information not only on the therapeutic effect of the antimicrobial agent but also on the possible emergence of bacterial resistance.
+## 1.3 Limitations of Use
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO XR and other antibacterial drugs, CIPRO XR should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+- •The safety and efficacy of CIPRO XR in treating infections other than urinary tract infections has not been demonstrated.
+- •CIPRO XR is not indicated for pediatric patients.
+
+## 1.4 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO XR and other antibacterial drugs, CIPROXR should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
+
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
+
+Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to CIPRO.
+Therapy with CIPRO XR may be initiated before results of these tests are known; once results become available appropriate therapy should be continued.
+Culture and susceptibility testing performed periodically during therapy will provide information not only on the therapeutic effect of the antimicrobial agent but also on the possible emergence of bacterial resistance.

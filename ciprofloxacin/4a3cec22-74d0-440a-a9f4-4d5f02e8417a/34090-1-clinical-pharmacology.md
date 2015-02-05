@@ -1,34 +1,42 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Absorption
+## 12.1 Mechanism of Action
+
+Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [see Microbiology (12.4)].
+
+## 12.3 Pharmacokinetics
+
+### Absorption
 
 CIPRO XR tablets are formulated to release drug at a slower rate compared to immediate-release tablets.
 Approximately 35% of the dose is contained within an immediate-release component, while the remaining 65% is contained in a slow-release matrix.
 
 Maximum plasma ciprofloxacin concentrations are attained between 1 and 4 hours after dosing with CIPRO XR.
-In comparison to the 250 mg and 500 mg ciprofloxacin immediate-release BID treatment, the Cmaxof CIPRO XR 500 mg and 1000 mg once daily are higher than the corresponding BID doses, while the AUCs over 24 hours are equivalent.
+In comparison to the 250 mg and 500 mg ciprofloxacin immediate-release twice a day (BID) treatment, the Cmax of CIPRO XR 500 mg and 1000 mg once daily are higher than the corresponding BID doses, while the AUCs over 24 hours are equivalent.
 
-The following table compares the pharmacokinetic parameters obtained at steady state for these four treatment regimens (500 mg QD CIPRO XR versus 250 mg BID ciprofloxacin immediate-release tablets and 1000 mg QD CIPRO XR versus 500 mg BID ciprofloxacin immediate-release).
+The following table compares the pharmacokinetic parameters obtained at steady state for these four treatment regimens (500 mg once a day (QD) CIPRO XR versus 250 mg BID ciprofloxacin immediate-release tablets and 1000 mg QD CIPRO XR versus 500 mg BID ciprofloxacin immediate-release).
 
-Table 1 Ciprofloxacin Pharmacokinetics (Mean ± SD) Following CIPRO® and CIPRO XR Administration
+Table 5: Ciprofloxacin Pharmacokinetics (Mean ± SD) Following CIPRO and CIPRO XR Administration
 
-|  | Cmax(mg/L) | AUC0-24h(mg•h/L) | T1/2 (hr) | Tmax (hr)median (range) |
+|  | Cmax(mg/L) | AUC0–24h(mg•h/L) | T1/2 (hr) | Tmax(hr) 1 |
 | --- | --- | --- | --- | --- |
 | CIPRO XR 500 mg QD | 1.59 ± 0.43 | 7.97 ± 1.87 | 6.6 ± 1.4 | 1.5 (1 – 2.5) |
 | CIPRO 250 mg BID | 1.14 ± 0.23 | 8.25 ± 2.15 | 4.8 ± 0.6 | 1 (0.5 – 2.5) |
 | CIPRO XR 1000 mg QD | 3.11 ± 1.08 | 16.83 ± 5.65 | 6.31 ± 0.72 | 2 (1 – 4) |
 | CIPRO 500 mg BID | 2.06 ± 0.41 | 17.04 ± 4.79 | 5.66 ± 0.89 | 2 (0.5 – 3.5) |
 
+1 median (range)
+
 Results of the pharmacokinetic studies demonstrate that CIPRO XR may be administered with or without food (for example, high-fat and low-fat meals or under fasted conditions).
 
-## Distribution
+### Distribution
 
-The volume of distribution calculated for intravenous ciprofloxacin is approximately 2.1 – 2.7 L/kg.
+The volume of distribution calculated for intravenous ciprofloxacin is approximately 2.1–2.7 L/kg.
 Studies with the oral and intravenous forms of ciprofloxacin have demonstrated penetration of ciprofloxacin into a variety of tissues.
 The binding of ciprofloxacin to serum proteins is 20% to 40%, which is not likely to be high enough to cause significant protein binding interactions with other drugs.
 Following administration of a single dose of CIPRO XR, ciprofloxacin concentrations in urine collected up to 4 hours after dosing averaged over 300 mg/L for both the 500 mg and 1000 mg tablets; in urine excreted from 12 to 24 hours after dosing, ciprofloxacin concentration averaged 27 mg/L for the 500 mg tablet, and 58 mg/L for the 1000 mg tablet.
 
-## Metabolism
+### Metabolism
 
 Four metabolites of ciprofloxacin were identified in human urine.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
@@ -36,10 +44,10 @@ The primary metabolites are oxociprofloxacin (M3) and sulfociprofloxacin (M2), e
 Other minor metabolites are desethylene ciprofloxacin (M1), and formylciprofloxacin (M4).
 The relative proportion of drug and metabolite in serum corresponds to the composition found in urine.
 Excretion of these metabolites was essentially complete by 24 hours after dosing.
-Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS; WARNINGS; PRECAUTIONS: Drug Interactions).
+Ciprofloxacin is an inhibitor of CYP1A2 mediated metabolism.
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.6, 5.15) and Drug Interactions (7)].
 
-## Elimination
+### Elimination
 
 The elimination kinetics of ciprofloxacin are similar for the immediate-release and the CIPRO XR tablet.
 In studies comparing the CIPRO XR and immediate-release ciprofloxacin, approximately 35% of an orally administered dose was excreted in the urine as unchanged drug for both formulations.
@@ -48,50 +56,186 @@ The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exce
 Thus, active tubular secretion would seem to play a significant role in its elimination.
 Co-administration of probenecid with immediate-release ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing with the immediate-release tablet, only a small amount of the dose administered is recovered from the bile as unchanged drug.
-An additional 1% to 2% of the dose is recovered from the bile in the form of metabolites.
-Approximately 20% to 35% of an oral dose of immediate-release ciprofloxacin is recovered from the feces within 5 days after dosing.
+An additional 1 to 2% of the dose is recovered from the bile in the form of metabolites.
+Approximately 20 to 35% of an oral dose of immediate-release ciprofloxacin is recovered from the feces within 5 days after dosing.
 This may arise from either biliary clearance or transintestinal elimination.
 
-## Special Populations
+### Specific Populations
+
+#### Elderly
 
 Pharmacokinetic studies of the immediate-release oral tablet (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (> 65 years) as compared to young adults.
-Cmaxis increased 16% to 40%, and mean AUC is increased approximately 30%, which can be at least partially attributed to decreased renal clearance in the elderly.
+Cmax is increased 16 to 40%, and mean AUC is increased approximately 30%, which can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
 These differences are not considered clinically significant.
-(See PRECAUTIONS, Geriatric Use.)
+[See Use in Specific Populations (8.5).]
 
-### Patients with Renal Impairment
+#### Renal Impairment
 
 In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
-No dose adjustment is required for patients with uncomplicated urinary tract infections receiving 500 mg CIPRO XR.
-For complicated urinary tract infection and acute uncomplicated pyelonephritis, where 1000 mg is the appropriate dose, the dosage of CIPRO XR should be reduced to CIPRO XR 500 mg q24h in patients with creatinine clearance equal to or below 30 mL/min.
-(See DOSAGE AND ADMINISTRATION.)
+No dose adjustment is required for patients with uncomplicated UTIs receiving 500 mg CIPRO XR.
+For cUTI and AUP, where 1000 mg is the appropriate dose, the dosage of CIPRO XR should be reduced to CIPRO XR 500 mg q24h in patients with creatinine clearance equal to or below 30 mL/min [see Dosage and Administration (2.2)].
 
-### Patients withHepatic Impairment
+#### Hepatic Impairment
 
-In studies in patients with stable chronic cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
-The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated.
-(See DOSAGE AND ADMINISTRATION.)
+In preliminary studies in patients with stable chronic cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
+The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated [see Use in Specific Populations (8.7)].
 
-## Drug-Drug Interactions
+### Drug-Drug Interactions
 
-Concomitant administration with tizanidine is contraindicated.
-(See CONTRAINDICATIONS).
-Previous studies with immediate-release ciprofloxacin have shown that concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
-Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
-Absorption of ciprofloxacin is significantly reduced by concomitant administration of multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, or products containing calcium, iron, or zinc.
-(See WARNINGS: PRECAUTIONS, Drug Interactions and Information for Patients, and DOSAGE AND ADMINISTRATION.)
+#### Antacids
 
-### Antacids
+Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of CIPRO by as much as 90% [see Dosage and Administration (2.2) and Drug Interactions (7)].
 
-When CIPRO XR given as a single 1000 mg dose was administered two hours before, or four hours after a magnesium/aluminum-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 18 healthy volunteers, there was a 4% and 19% reduction, respectively, in the mean Cmax of ciprofloxacin.
-The reduction in the mean AUC was 24% and 26%, respectively.
-CIPRO XR should be administered at least 2 hours before or 6 hours after antacids containing magnesium or aluminum, as well as sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, metal cations such as iron, and multivitamin preparations with zinc.
-Although CIPRO XR may be taken with meals that include milk, concomitant administration with dairy products or with calcium-fortified juices alone should be avoided, since decreased absorption is possible.
-(See PRECAUTIONS, Information for Patients and Drug Interactions, and DOSAGE AND ADMINISTRATION.)
+#### Histamine H2-receptor antagonists
 
-### Omeprazole
+Histamine H2-receptor antagonists appear to have no significant effect on the bioavailability of CIPRO.
+
+#### Metronidazole
+
+The serum concentrations of CIPRO and metronidazole were not altered when these two drugs were given concomitantly.
+
+#### Tizanidine
+
+In a pharmacokinetic study, systemic exposure of tizanidine (4 mg single dose) was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with CIPRO (500 mg twice a day for 3 days).
+Concomitant administration of tizanidine and CIPRO XR is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)].
+
+#### Ropinirole
+
+In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg CIPRO twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with CIPRO XR [see Warnings and Precautions (5.15)].
+
+#### Clozapine
+
+Following concomitant administration of 250 mg CIPRO with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
+Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with CIPRO XR are advised.
+
+#### Sildenafil
+
+Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg CIPRO to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
+Use sildenafil with caution when co-administered with CIPRO XR due to the expected two-fold increase in the exposure of sildenafil upon co-administration of CIPRO (see Pharmacokinetics 12.3).
+
+#### Duloxetine
+
+In clinical studies it was demonstrated that concomitant use of duloxetine with strong inhibitors of the CYP450 1A2 isozyme such as fluvoxamine, may result in a 5-fold increase in mean AUC and a 2.5-fold increase in mean Cmax of duloxetine.
+
+#### Lidocaine
+
+In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with 500 mg ciprofloxacin twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
+Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with CIPRO XR and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
+
+#### Metoclopramide
+
+#### Omeprazole
 
 When CIPRO XR was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
 The clinical significance of this interaction has not been determined.
-(See PRECAUTIONS, Drug Interactions.)
+
+## 12.4 Microbiology
+
+### Mechanism of Action
+
+The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination.
+
+### Mechanism of Resistance
+
+The mechanism of action of fluoroquinolones, including ciprofloxacin, is different from that of other antimicrobial agents such as beta-lactams, macrolides, tetracyclines, or aminoglycosides; therefore, microorganisms resistant to these classes of drugs may be susceptible to ciprofloxacin.
+Resistance to fluoroquinolones occurs primarily by either mutations in the DNA gyrases, decreased outer membrane permeability, or drug efflux.
+In vitro resistance to ciprofloxacin develops slowly by multiple step mutations.
+Resistance to ciprofloxacin due to spontaneous mutations occurs at a general frequency of between < 10-9 to 1x10-6.
+
+### Cross Resistance
+
+There is no known cross-resistance between ciprofloxacin and other classes of antimicrobials.
+
+Ciprofloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections ciprofloxacin [see Indications and Usage (1)].
+
+### Gram-positive bacteria
+
+Enterococcus faecalis
+
+Staphylococcus saprophyticus
+
+### Gram-negative bacteria
+
+Escherichia coli
+
+Klebsiella pneumoniae
+
+Proteus mirabilis
+
+Pseudomonas aeruginosa
+
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (<1 mcg/mL).
+However, the efficacy of ciprofloxacin in treating clinical infections due to these bacteria has not beenestablished in adequate and well-controlled clinical trials.
+
+### Gram-negative bacteria
+
+Citrobacter koseri
+
+Citrobacter freundii
+
+Edwardsiella tarda
+
+Enterobacter aerogenes
+
+Enterobacter cloacae
+
+Klebsiella oxytoca
+
+Morganella morganii
+
+Proteus vulgaris
+
+Providencia rettgeri
+
+Providencia stuartii
+
+Serratia marcescens
+
+### Susceptibility Test Methods
+
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
+
+- Dilution Techniques
+- Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+  These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+  The MICs should be determined using a standardized test method (broth and/or agar).1,3 The MIC values should be interpreted according to criteria provided in Table 5.
+- Diffusion Techniques
+- Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+  The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+  The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
+  The disc diffusion interpretive criteria are provided in Table 6.
+
+Table 6: Susceptibility Test Interpretive Criteria for Ciprofloxacin
+
+| Bacteria | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| S | I | R | S | I | R |  |
+| Enterobacteriaceae | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
+| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
+| Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
+| Staphylococcus saprophyticus | ≤1 | 2 | ≥4 | ≥21 | 16–20 | ≤15 |
+| S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
+
+A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
+A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
+- Quality Control
+- Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 7.
+  For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 7 should be achieved.
+
+Table 7: Acceptable Quality Control Ranges for Ciprofloxacin
+
+| Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
+| --- | --- | --- |
+| Enterococcus faecalis ATCC 29212 | 0.25–2 | - |
+| Escherichia coli ATCC 25922 | 0.004–0.015 | 30–40 |
+| Pseudomonas aeruginosa ATCC 27853 | 0.25–1 | 25–33 |
+| Staphylococcus aureus ATCC 29213 | 0.12–0.5 | - |
+| Staphylococcus aureus ATCC 25923 | - | 22–30 |

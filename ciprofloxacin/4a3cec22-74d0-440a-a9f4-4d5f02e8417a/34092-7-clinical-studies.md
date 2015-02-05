@@ -1,44 +1,38 @@
-# CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## Uncomplicated Urinary Tract Infections (acute cystitis)
+## 14.1 Uncomplicated Urinary Tract Infections (acute cystitis)
 
-CIPRO XR was evaluated for the treatment of uncomplicated urinary tract infections (acute cystitis) in a randomized, double-blind, controlled clinical trial conducted in the US.
-This study compared CIPRO XR (500 mg once daily for three days) with ciprofloxacin immediate-release tablets (CIPRO® 250 mg BID for three days).
+CIPRO XR was evaluated for the treatment of uncomplicated UTIs (acute cystitis) in a randomized, double-blind, controlled clinical trial conducted in the US.
+This study compared CIPRO XR (500 mg once daily for three days) with ciprofloxacin immediate-release tablets (CIPRO250 mg two times a day (BID) for three days).
 Of the 905 patients enrolled, 452 were randomly assigned to the CIPRO XR treatment group and 453 were randomly assigned to the control group.
 The primary efficacy variable was bacteriologic eradication of the baseline organism(s) with no new infection or superinfection at test-of-cure (Day 4–11 Post-therapy).
 
 The bacteriologic eradication and clinical success rates were similar between CIPRO XR and the control group.
-The eradication and clinical success rates and their corresponding 95% confidence intervals for the differences between rates (CIPRO XR minus control group) are given in the following table:
+The eradication and clinical success rates and their corresponding 95% confidence intervals for the differences between rates (CIPRO XR minus control group) are given in Table 8:
 
-|  | CIPRO XR 500 mg QD x 3 Days | CIPRO 250 mg BID x 3 Days |
+Table 8: Bacteriological Eradication and Clinical Cure Rates at the Test-of-Cure (TOC) Visit
+
+|  | CIPRO XR 500 mgQD x 3 Days | CIPRO 250 mg BID x 3 Days |
 | --- | --- | --- |
 | Randomized Patients | 452 | 453 |
-| Per Protocol Patients† | 199 | 223 |
-| Bacteriologic Eradication at TOC (n/N)* | 188/199 (94.5%) | 209/223 (93.7%) |
+| Per Protocol PatientsThe presence of a pathogen at a level of ≥ 105 CFU/mL was required for microbiological evaluability criteria, except for S. saprophyticus (≥ 104 CFU/mL). | 199 | 223 |
+| Bacteriologic Eradication at TOC (n/N)n/N = patients with baseline organism(s) eradicated and no new infections or superinfections/ total number of patients | 188/199 (94.5%) | 209/223 (93.7%) |
 | CI [-3.5%, 5.1%] |  |  |
-| Bacteriologic Eradication (by organism) at TOC (n/N)** |  |  |
+| Bacteriologic Eradication (by organism) at TOC (n/N)n/N = patients with specified baseline organism eradicated/patients with specified baseline organism |  |  |
 | E. coli | 156/160 (97.5%) | 176/181 (97.2%) |
 | E. faecalis | 10/11 (90.9%) | 17/21 (81%) |
 | P. mirabilis | 11/12 (91.7%) | 7/7 (100%) |
 | S. saprophyticus | 6/7 (85.7%) | 9/9 (100%) |
-| Clinical Response at TOC (n/N)*** | 189/199 (95%) | 204/223 (91.5%) |
+| Clinical Response at TOC (n/N)n/N = patients with clinical success /total number of patients | 189/199 (95%) | 204/223 (91.5%) |
 | CI [-1.1%, 8.1%] |  |  |
 
-* n/N = patients with baseline organism(s) eradicated and no new infections or superinfections/ total number of patients
+## 14.2 Complicated Urinary Tract Infections and Acute Uncomplicated Pyelonephritis
 
-** n/N = patients with specified baseline organism eradicated/patients with specified baseline organism
-
-*** n/N = patients with clinical success /total number of patients
-
-† The presence of a pathogen at a level of ≥ 105 CFU/mL was required for microbiological evaluability criteria, except for S. saprophyticus(≥104 CFU/mL).
-
-## Complicated Urinary Tract Infections and Acute Uncomplicated Pyelonephritis
-
-CIPRO XR was evaluated for the treatment of complicated urinary tract infections (cUTI) and acute uncomplicated pyelonephritis (AUP) in a randomized, double-blind, controlled clinical trial conducted in the US and Canada.
+CIPRO XR was evaluated for the treatment of cUTI and acute uncomplicated pyelonephritis (AUP) in a randomized, double-blind, controlled clinical trial conducted in the US and Canada.
 The study enrolled 1,042 patients (521 patients per treatment arm) and compared CIPRO XR (1000 mg once daily for 7 to 14 days) with immediate-release ciprofloxacin (500 mg BID for 7 to 14 days).
 The primary efficacy endpoint for this trial was bacteriologic eradication of the baseline organism(s) with no new infection or superinfection at 5 to 11 days post-therapy (test-of-cure or TOC) for the Per Protocol and Modified Intent-To-Treat (MITT) populations.
 
-The Per Protocol population was defined as patients with a diagnosis of cUTI or AUP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, no inclusion criteria violation, a valid test-of-cure urine culture within the TOC window, an organism susceptible to study drug, no premature discontinuation or loss to follow-up, and compliance with the dosage regimen (among other criteria).
+The Per Protocol population was defined as patients with a diagnosis of cUTI or AUP, a causative organism(s) at baseline present at ≥ 105CFU/mL, no inclusion criteria violation, a valid test-of-cure urine culture within the TOC window, an organism susceptible to study drug, no premature discontinuation or loss to follow-up, and compliance with the dosage regimen (among other criteria).
 More patients in the CIPRO XR arm than in the control arm were excluded from the Per Protocol population and this should be considered in the interpretation of the study results.
 Reasons for exclusion with the greatest discrepancy between the two arms were no valid test-of-cure urine culture, an organism resistant to the study drug, and premature discontinuation due to adverse events.
 
@@ -55,37 +49,33 @@ In the Per Protocol population, the differences between CIPRO XR and the control
 The bacteriologic eradication rate for cUTI patients was higher in the CIPRO XR arm than in the control arm.
 For AUP patients, the bacteriologic eradication rate was lower in the CIPRO XR arm than in the control arm.
 This inconsistency was not observed between the two treatment groups for clinical cure rates.
-Clinical cure rates were 96.1% (198/206) and 92.1% (211/229) for CIPRO XR and the control arm, respectively.
+Clinical cure rates were 96.1% (198/206) and 92.1% (211/229) for CIPRO XR and the control arm, respectively [difference: 4.0% with a two-sided 97.5% CI (-1.3%, 9.4%)].
 
-The bacterial eradication and clinical cure rates by infection type for CIPRO XR and the control arm at the TOC visit and their corresponding 97.5% confidence intervals for the differences between rates (CIPRO XR minus control arm) are given below for the Per Protocol population analysis:
+The bacterial eradication and clinical cure rates by infection type for CIPRO XR and the control arm at the TOC visit and their corresponding 97.5% confidence intervals for the differences between rates (CIPRO XR minus control arm) are given in Table 9 for the Per Protocol population analysis.
+
+Table 9: Bacteriological Eradication and Clinical Cure Rates at the Test-of-Cure (TOC) Visit
 
 |  | CIPRO XR 1000 mg QD | CIPRO 500 mg BID |
 | --- | --- | --- |
 | Randomized Patients | 521 | 521 |
-| Per Protocol Patients^ | 206 | 229 |
+| Per Protocol PatientsPatients excluded from the Per Protocol population were primarily those with no causative organism(s) at baseline or no organism present at ≥ 105 CFU/mL at baseline, inclusion criteria violation, no valid test-of-cure urine culture within the TOC window, an organism resistant to study drug, premature discontinuation due to an adverse event, lost to follow-up, or non-compliance with dosage regimen (among other criteria). | 206 | 229 |
 | cUTI Patients |  |  |
-| Bacteriologic Eradication at TOC (n/N)* | 148/166 (89.2%) | 144/177 (81.4%) |
+| Bacteriologic Eradication at TOC (n/N)n/N = patients with baseline organism(s) eradicated and no new infections or superinfections/total number of patients | 148/166 (89.2%) | 144/177 (81.4%) |
 | CI [-0.7%, 16.3%] |  |  |
-| Bacteriologic Eradication (by organism) at TOC (n/N)** |  |  |
+| Bacteriologic Eradication (by organism) at TOC (n/N)n/N = patients with specified baseline organism eradicated/patients with specified baseline organism |  |  |
 | E. coli | 91/94 (96.8%) | 90/92 (97.8%) |
 | K. pneumoniae | 20/21 (95.2%) | 19/23 (82.6%) |
 | E. faecalis | 17/17 (100%) | 14/21 (66.7%) |
 | P. mirabilis | 11/12 (91.6%) | 10/10 (100%) |
 | P. aeruginosa | 3/3 (100%) | 3/3 (100%) |
-| Clinical Cure at TOC (n/N)*** | 159/166 (95.8%) | 161/177 (91.0%) |
+| Clinical Cure at TOC (n/N)n/N = patients with clinical success /total number of patients | 159/166 (95.8%) | 161/177 (91.0%) |
 | CI [-1.1%, 10.8%] |  |  |
 | AUP Patients |  |  |
-| Bacteriologic Eradication at TOC (n/N)* | 35/40 (87.5%) | 51/52 (98.1%) |
+| Bacteriologic Eradication at TOC (n/N) | 35/40 (87.5%) | 51/52 (98.1%) |
 | CI [-34.8%, 6.2%] |  |  |
 | Bacteriologic Eradication of E. coli at TOC (n/N)** | 35/36 (97.2%) | 41/41 (100%) |
 | Clinical Cure at TOC (n/N)*** | 39/40 (97.5%) | 50/52 (96.2%) |
 | CI [-15.3%, 21.1%] |  |  |
-
-^ Patients excluded from the Per Protocol population were primarily those with no causative organism(s) at baseline or no organism present at ≥ 105 CFU/mL at baseline, inclusion criteria violation, no valid test-of-cure urine culture within the TOC window, an organism resistant to study drug, premature discontinuation due to an adverse event, lost to follow-up, or non-compliance with dosage regimen (among other criteria).
-
-* n/N = patients with baseline organism(s) eradicated and no new infections or superinfections/total number of patients
-
-** n/N = patients with specified baseline organism eradicated/patients with specified baseline organism ***n/N = patients with clinical success /total number of patients
 
 Of the 166 cUTI patients treated with CIPRO XR, 148 (89%) had the causative organism(s) eradicated, 8 (5%) had persistence, 5 (3%) patients developed superinfections and 5 (3%) developed new infections.
 Of the 177 cUTI patients treated in the control arm, 144 (81%) had the causative organism(s) eradicated, 16 (9%) patients had persistence, 3 (2%) developed superinfections and 14 (8%) developed new infections.

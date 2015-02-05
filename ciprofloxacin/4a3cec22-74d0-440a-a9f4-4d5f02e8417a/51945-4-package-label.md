@@ -1,3 +1,5 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
 Cipro XR 500 mg Tablets
 
 NDC 50419-788-01
@@ -10,7 +12,9 @@ Manufactured for Bayer HealthCare
 
 Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470 Manufactured in Germany
 
-Cipro XR 500 mg Tablets
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Cipro XR 1000 mg Tablets
 
 NDC 50419-789-01
 

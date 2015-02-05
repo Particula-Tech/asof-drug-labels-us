@@ -1,59 +1,88 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
+
+- •Tendon Effects [seeWarnings and Precautions (5.1)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
+- •Hypersensitivity Reactions [seeWarnings and Precautions (5.3)]
+- •Other Serious and Sometimes Fatal Reactions [seeWarnings and Precautions (5.4)]
+- •Hepatotoxicity [see Warnings and Precautions (5.5)]
+- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.6)]
+- •Central Nervous System Effects [seeWarnings and Precautions (5.7)]
+- •Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.8)]
+- •Peripheral Neuropathy [seeWarnings and Precautions (5.9)]
+- •Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
+- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
+- •Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.13)]
+- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Clinical trials in patients with urinary tract infections enrolled 961 patients treated with 500 mg or 1000 mg CIPRO XR.
-Most adverse events reported were described as mild to moderate in severity and required no treatment.
-The overall incidence, type and distribution of adverse events were similar in patients receiving both 500 mg and 1000 mg of CIPRO XR.
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates observed in clinical trials of another drug and may not reflect the rates observed in practice.
+The overall incidence, type and distribution of adverse reactions were similar in patients receiving both 500 mg and 1000 mg of CIPRO XR.
 The adverse reaction information from clinical studies does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-In the clinical trial of uncomplicated urinary tract infection, CIPRO XR (500 mg once daily) in 444 patients was compared to ciprofloxacin immediate-release tablets (250 mg twice daily) in 447 patients for 3 days.
+In the clinical trial of uncomplicated UTIs, CIPRO XR (500 mg once daily) in 444 patients was compared to ciprofloxacin immediate-release tablets (250 mg twice daily) in 447 patients for 3 days.
 Discontinuations due to adverse reactions thought to be drug-related occurred in 0.2% (1/444) of patients in the CIPRO XR arm and in 0% (0/447) of patients in the control arm.
 
-In the clinical trial of complicated urinary tract infection and acute uncomplicated pyelonephritis, CIPRO XR (1000 mg once daily) in 517 patients was compared to ciprofloxacin immediate-release tablets (500 mg twice daily) in 518 patients for 7 to 14 days.
+In the clinical trial of cUTI and acute uncomplicated pyelonephritis (AUP) defined as infections occurring in premenopausal, non-pregnant women with no known urological abnormalities or comorbidities, CIPRO XR (1000 mg once daily)in 517 patients was compared to ciprofloxacin immediate-release tablets (500 mg twice daily)in 518 patients for 7 to 14 days.
 Discontinuations due to adverse reactions thought to be drug-related occurred in 3.1% (16/517) of patients in the CIPRO XR arm and in 2.3% (12/518) of patients in the control arm.
 The most common reasons for discontinuation in the CIPRO XR arm were nausea/vomiting (4 patients) and dizziness (3 patients).
 In the control arm the most common reason for discontinuation was nausea/vomiting (3 patients).
 
-In these clinical trials, the following events occurred in ≥ 2% of all CIPRO XR patients, regardless of drug relationship: nausea (4%), headache (3%), dizziness (2%), diarrhea (2%), vomiting (2%) and vaginal moniliasis (2%).
+In these clinical trials, the following events occurred in ≥ 2% of all CIPRO XR patients: nausea (4%), headache (3%), dizziness (2%), diarrhea (2%), vomiting (2%) and vaginal moniliasis (2%).
 
-Adverse events, judged by investigators to be at least possibly drug-related, occurring in greater than or equal to 1% of all CIPRO XR treated patients were: nausea (3%), diarrhea (2%), headache (1%), dyspepsia (1%), dizziness (1%), and vaginal moniliasis (1%).
+Adverse reactions, judged by investigators to be at least possibly drug-related, occurring in greater than or equal to 1% of all CIPRO XR treated patients were: nausea (3%), diarrhea (2%), headache (1%), dyspepsia (1%), dizziness (1%), and vaginal moniliasis (1%).
 Vomiting (1%) occurred in the 1000 mg group.
 
-Additional uncommon events, judged by investigators to be at least possibly drug-related, that occurred in less than 1% of CIPRO XR treated patients were:
+Table 2: Medically Important Adverse Reactions That Occurred In <1% of CIPRO XR Patients
 
-BODY AS A WHOLE: abdominal pain, asthenia, malaise, photosensitivity reaction
+| System Organ Class | Adverse Reactions |
+| --- | --- |
+| Body as a Whole | Abdominal painAsthenia Malaise |
+| Cardiovascular | BradycardiaMigraineSyncope |
+| Central Nervous System | Abnormal dreamsConvulsive seizures (including status epilepticus) DepersonalizationDepression (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide)HypertoniaIncoordinationInsomniaSomnolenceTremorVertigo |
+| Gastrointestinal | ConstipationDry mouthFlatulenceThirst |
+| Hepatobiliary Disorders | Liver function tests abnormal |
+| Investigations | Prothrombin decrease |
+| Metabolic | HyperglycemiaHypoglycemia |
+| Psychiatric Disorders | Anorexia |
+| Skin/Hypersensitivity | Dry skinMaculopapular rashPhotosensitivity/phototoxicity reactionsPruritusRashSkin disorderUrticarialVesiculobullous rash |
+| Special Senses | DiplopiaTaste perversion |
+| Urogenital | DysmenorrheaHematuriaKidney function abnormal Vaginitis |
 
-CARDIOVASCULAR: bradycardia, migraine, syncope
+## 6.2 Postmarketing Experience
 
-DIGESTIVE: anorexia, constipation, dry mouth, flatulence, liver function tests abnormal, thirst
+The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including CIPRO XR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a
 
-HEMIC/LYMPHATIC: prothrombin decrease
+Table 3: Postmarketing Reports of Adverse Drug Reactions
 
-CENTRAL NERVOUS SYSTEM: convulsive seizures (including status epilepticus) abnormal dreams, depersonalization, depression, (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide), hypertonia, incoordination, insomnia, somnolence, tremor, vertigo
+| System Organ Class | Adverse Reactions |
+| --- | --- |
+| Cardiovascular | QT prolongationTorsade de PointesVasculitis and ventricular arrhythmia |
+| Central Nervous System | HypertoniaMyastheniaExacerbation of myasthenia gravisPeripheral neuropathyPolyneuropathyTwitching |
+| Eye Disorders | Nystagmus |
+| Gastrointestinal | Pseudomembranous colitis |
+| Hemic/Lymphatic | Pancytopenia (life threatening or fatal outcome)Methemoglobinemia |
+| Hepatobiliary | Hepatic failure (including fatal cases) |
+| Infections and Infestations | Candidiasis (oral, gastrointestinal, vaginal) |
+| Investigations | Prothrombin time prolongation or decreaseCholesterol elevation (serum)Potassium elevation (serum) |
+| Musculoskeletal | MyalgiaMyoclonusTendinitisTendon rupture |
+| Psychiatric Disorders | Agitation ConfusionDeliriumPsychosis (toxic) |
+| Skin/Hypersensitivity | Acute generalized exanthematous pustulosis (AGEP)Fixed eruptionSerum sickness-like reaction |
+| Special Senses | AnosmiaHyperesthesiaHypesthesiaTaste loss |
 
-METABOLIC: hyperglycemia, hypoglycemia
+## 6.3 Adverse Laboratory Changes
 
-SKIN/HYPERSENSIVITY: dry skin, maculopapular rash, photosensitivity/phototoxicity reactions, pruritus, rash, skin disorder, urticaria, vesiculobullous rash
+Changes in laboratory parameters while on CIPRO are listed below:
 
-SPECIAL SENSES: diplopia, taste perversion
+Hepatic–Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
-UROGENITAL: dysmenorrhea, hematuria, kidney function abnormal, vaginitis
+Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 
-## Post-Marketing Adverse Event Reports
+Renal–Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 
-The following adverse events have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin.
-Because these reactions have been reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or a causal relationship to drug exposure.
-
-The events in alphabetical order are:
-
-acute generalized exanthematous pustulosis (AGEP), abnormal gait, achiness, acidosis, agitation, agranulocytosis, allergic reactions (ranging from urticaria to anaphylactic reactions and including life-threatening anaphylactic shock), amylase increase, anemia, angina pectoris, angioedema, anosmia, anxiety, arrhythmia, arthralgia, ataxia, atrial flutter, bleeding diathesis, blurred vision, bronchospasm, C. difficileassociated diarrhea, candidiasis (cutaneous, oral), candiduria, cardiac murmur, cardiopulmonary arrest, cardiovascular collapse, cerebral thrombosis, chills, cholestatic jaundice, chromatopsia, confusion, convulsion, delirium, drowsiness, dysphagia, dysphasia, dyspnea, edema (conjunctivae, face, hands, laryngeal, lips, lower extremities, neck, pulmonary), epistaxis, erythema multiforme, erythema nodosum, exfoliative dermatitis, fever, fixed eruptions, flushing, gastrointestinal bleeding, gout (flare up), grand mal convulsion, gynecomastia, hallucinations, hearing loss, hemolytic anemia, hemoptysis, hemorrhagic cystitis, hepatic failure (including fatal cases), hepatic necrosis, hepatitis, hiccup, hyperesthesia, hyperpigmentation, hypertension, hypertonia, hypesthesia, hypotension, ileus, International Normalized Ratio (INR) increased (in patients treated with Vitamin K antagonists), interstitial nephritis, intestinal perforation, jaundice, joint stiffness, lethargy, lightheadedness, lipase increase, lymphadenopathy, manic reaction, marrow depression, migraine, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myocardial infarction, myoclonus, nephritis, nightmares, nystagmus, oral ulceration, pain (arm, back, breast, chest, epigastric, eye, extremities, foot, jaw, neck, oral mucosa), palpitation, pancreatitis, pancytopenia, paranoia, paresthesia, peripheral neuropathy that may be irreversable, perspiration (increased), petechia, phlebitis, phobia, photosensitivity/phototoxicity reaction, pleural effusion, polyuria, postural hypotension, prothrombin time prolongation, pseudomembranous colitis (the onset of symptoms may occur during or after antimicrobial treatment), pulmonary embolism, purpura, renal calculi, renal failure, respiratory arrest, respiratory distress, restlessness, serum sickness-like reaction, Stevens-Johnson syndrome, sweating, tachycardia, taste loss, tendinitis, tendon rupture, tinnitus, torsade de pointes, toxic epidermal necrolysis (Lyell’s syndrome), toxic psychosis, QT prolongation, twitching, unresponsiveness, urethral bleeding, urinary retention, urination (frequent), vaginal pruritus, vasculitis, ventricular ectopy, vesicles, visual acuity (decreased), visual disturbances (flashing lights, change in color perception, overbrightness of lights).
-
-## Laboratory Changes
-
-The following adverse laboratory changes, in alphabetical order, regardless of incidence or relationship to drug, have been reported in patients given ciprofloxacin (includes all formulations, all dosages, all drug-therapy durations, and all indications):
-
-Decreases in blood glucose, BUN, hematocrit, hemoglobin, leukocyte counts, platelet counts, prothrombin time, serum albumin, serum potassium, total serum protein, uric acid.
-
-Increases in alkaline phosphatase, ALT (SGPT), AST (SGOT), atypical lymphocyte counts, blood glucose, blood monocytes, BUN, cholesterol, eosinophil counts, LDH, platelet counts, prothrombin time, sedimentation rate, serum amylase, serum bilirubin, serum calcium, serum cholesterol, serum creatine phosphokinase, serum creatinine, serum gamma-glutamyl transpeptidase (GGT), serum potassium, serum theophylline (in patients receiving theophylline concomitantly), serum triglycerides, uric acid.
-
-Others: albuminuria, change in serum phenytoin, crystalluria, cylindruria, immature WBCs, leukocytosis, methemoglobinemia, pancytopenia.
+Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.
