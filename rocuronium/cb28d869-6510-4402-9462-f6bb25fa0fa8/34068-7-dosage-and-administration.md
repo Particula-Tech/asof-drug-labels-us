@@ -130,7 +130,7 @@ Maintenance dosing can also be administered at the reappearance of T2 at a rate 
 When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered rocuronium bromide maintenance doses of 0.075 to 0.125 mg/kg upon return of T1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
 Alternatively, a continuous infusion of rocuronium bromide initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four), may also be used to maintain neuromuscular blockade in pediatric patients.
 
-Additional information for administration to pediatric patients is presented elsewhere in the label [see CLINICAL PHARMACOLOGY (12.2)].
+Additional information for administration to pediatric patients of all age groups is presented elsewhere in the label [see CLINICAL PHARMACOLOGY (12.2)].
 
 The infusion of rocuronium bromide must be individualized for each patient.
 The rate of administration should be adjusted according to the patient’s twitch response as monitored with the use of a peripheral nerve stimulator.
@@ -141,13 +141,14 @@ Rocuronium bromide is not recommended for rapid sequence intubation in pediatric
 ### Geriatric Patients
 
 Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
-No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see CLINICAL PHARMACOLOGY (12.2, 12.3)].
+No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see CLINICAL PHARMACOLOGY (12.2) and CLINICAL STUDIES (14.2)].
+[See also WARNINGS AND PRECAUTIONS (5.4)].
 
 ### Patients with Renal or Hepatic Impairment
 
 No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg rocuronium bromide.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
-Patients with renal failure may have a greater variation in duration of effect [see USE IN SPECIFIC POPULATIONS (8.6, 8.7, and CLINICAL PHARMACOLOGY (12.3)].
+Patients with renal failure may have a greater variation in duration of effect [see USE IN SPECIFIC POPULATIONS (8.6, 8.7), and CLINICAL PHARMACOLOGY (12.3)].
 
 ### Obese Patients
 

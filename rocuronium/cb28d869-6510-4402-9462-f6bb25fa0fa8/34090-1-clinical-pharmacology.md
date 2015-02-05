@@ -16,7 +16,7 @@ Table 4 presents intubating conditions in patients with intubation initiated at 
 Table 4.
 Percent of Excellent or Good Intubating Conditions and Median (Range) Time to Completion of Intubation in Patients with Intubation Initiated at 60 to 70 SecondsExcellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement Good intubating conditions = same as excellent but with some diaphragmatic movement
 
-| Rocuronium BromideDose (mg/kg)Administered over 5 sec | Percent of PatientsWith Excellent or GoodIntubating Conditions | Time to Completionof Intubation (min) |
+| Rocuronium BromideDose (mg/kg)Administered over 5 sec | Percent of Patientswith Excellent or GoodIntubating Conditions | Time to Completionof Intubation (min) |
 | --- | --- | --- |
 | AdultsExcludes patients undergoing Cesarean section 18 to 64 yrs |  |  |
 | 0.45 (n=43) | 86% | 1.6 (1.0-7.0) |
@@ -127,7 +127,7 @@ These population-based estimates and a measure of the estimate variability are c
 Following intravenous administration of rocuronium bromide, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged.
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see DOSAGE AND ADMINISTRATION (2.5)].
 
 Table 7.
 Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia

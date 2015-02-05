@@ -6,7 +6,7 @@
 
 Developmental toxicology studies have been performed with rocuronium bromide in pregnant, conscious, nonventilated rabbits and rats.
 Inhibition of neuromuscular function was the endpoint for high-dose selection.
-The maximum tolerated dose served as the high dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from day 6 to 18 of pregnancy.
+The maximum tolerated dose served as the high dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from Day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from Day 6 to 18 of pregnancy.
 High-dose treatment caused acute symptoms of respiratory dysfunction due to the pharmacological activity of the drug.
 Teratogenicity was not observed in these animal species.
 The incidence of late embryonic death was increased at the high dose in rats most likely due to oxygen deficiency.
@@ -40,7 +40,7 @@ Recommendations for use in pediatric patients are discussed in other sections [s
 Rocuronium bromide was administered to 140 geriatric patients (65 years or greater) in U.S. clinical trials and 128 geriatric patients in European clinical trials.
 The observed pharmacokinetic profile for geriatric patients (n=20) was similar to that for other adult surgical patients [see CLINICAL PHARMACOLOGY (12.3)].
 Onset time and duration of action were slightly longer for geriatric patients (n=43) in clinical trials.
-Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see DOSAGE AND ADMINISTRATION (2.5), CLINICAL PHARMACOLOGY (12.2), and CLINICAL STUDIES (14.2)].
+Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see DOSAGE AND ADMINISTRATION (2.5), WARNINGS and PRECAUTIONS (5.4), CLINICAL PHARMACOLOGY (12.2), and CLINICAL STUDIES (14.2)].
 
 ## 8.6 Patients with Hepatic Impairment
 

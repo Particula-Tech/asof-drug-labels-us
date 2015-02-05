@@ -21,10 +21,11 @@ Therefore, its administration must be accompanied by adequate anesthesia or seda
 ## 5.4 Residual Paralysis
 
 In order to prevent complications resulting from residual paralysis, it is recommended to extubate only after the patient has recovered sufficiently from neuromuscular block.
+Geriatric patients (65 years or older) may be at increased risk for residual neuromuscular block.
 Other factors which could cause residual paralysis after extubation in the post-operative phase (such as drug interactions or patient condition) should also be considered.
 If not used as part of standard clinical practice the use of a reversal agent should be considered, especially in those cases where residual paralysis is more likely to occur.
 
-## 5.5 Long-term Use in an Intensive Care Unit
+## 5.5 Long-Term Use in an Intensive Care Unit
 
 Rocuronium bromide has not been studied for long-term use in the intensive care unit (ICU).
 As with other nondepolarizing neuromuscular blocking drugs, apparent tolerance to rocuronium bromide may develop during chronic administration in the ICU.

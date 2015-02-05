@@ -19,7 +19,7 @@ Isoflurane and enflurane may also prolong the duration of action of initial and 
 No definite interaction between rocuronium bromide and halothane has been demonstrated.
 In one study, use of enflurane in 10 patients resulted in a 20% increase in mean clinical duration of the initial intubating dose, and a 37% increase in the duration of subsequent maintenance doses, when compared in the same study to 10 patients under opioid/nitrous oxide/oxygen anesthesia.
 The clinical duration of initial doses of rocuronium bromide of 0.57 to 0.85 mg/kg under enflurane or isoflurane anesthesia, as used clinically, was increased by 11% and 23%, respectively.
-The duration of maintenance doses was affected to a greater extent, increasing by 30 to 50% under either enflurane or isoflurane anesthesia.
+The duration of maintenance doses was affected to a greater extent, increasing by 30% to 50% under either enflurane or isoflurane anesthesia.
 
 Potentiation by these agents is also observed with respect to the infusion rates of rocuronium bromide required to maintain approximately 95% neuromuscular block.
 Under isoflurane and enflurane anesthesia, the infusion rates are decreased by approximately 40% compared to opioid/nitrous oxide/oxygen anesthesia.
@@ -61,4 +61,4 @@ This possibility must also be considered for rocuronium bromide [see WARNINGS AN
 The use of rocuronium bromide before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.
 
 If rocuronium bromide is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed.
-The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range 14 to 57, n=12) vs. 28 minutes (17 to 51, n=12) without succinylcholine.
+The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range 14 to 57, n=12) vs. 28 minutes (range: 17 to 51, n=12) without succinylcholine.
