@@ -168,7 +168,7 @@ The safety and effectiveness of propofol injectable emulsion have been establish
 Propofol injectable emulsion is not recommended for the induction of anesthesia in patients younger than 3 years of age and for the maintenance of anesthesia in patients younger than 2 months of age as safety and effectiveness have not been established.
 
 In pediatric patients, administration of fentanyl concomitantly with propofol injectable emulsion may result in serious bradycardia.
-(See PRECAUTIONS − General.)
+(See PRECAUTIONS – General.)
 
 Propofol injectable emulsion is not indicated for use in pediatric patients for ICU sedation or for MAC sedation for surgical, nonsurgical or diagnostic procedures as safety and effectiveness have not been established.
 
@@ -176,16 +176,16 @@ There have been anecdotal reports of serious adverse events and death in pediatr
 
 In one multicenter clinical trial of ICU sedation in critically ill pediatric patients that excluded patients with upper respiratory tract infections, the incidence of mortality observed in patients who received propofol injectable emulsion (n=222) was 9%, while that for patients who received standard sedative agents (n=105) was 4%.
 While causality has not been established, propofol injectable emulsion is not indicated for sedation in pediatric patients until further studies have been performed to document its safety in that population.
-(See CLINICAL PHARMACOLOGY, Pharmacokinetics − Pediatric Patients and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY, Pharmacokinetics – Pediatric Patients and DOSAGE AND ADMINISTRATION.)
 
 In pediatric patients, abrupt discontinuation following prolonged infusion may result in flushing of the hands and feet, agitation, tremulousness and hyperirritability.
 Increased incidences of bradycardia (5%), agitation (4%), and jitteriness (9%) have also been observed.
 
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The "gasping syndrome," (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
+The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome," the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome,” the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Premature and low-birth weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
@@ -199,4 +199,4 @@ Subsequent clinical studies have demonstrated lower dosing requirements for subj
 A lower induction dose and a slower maintenance rate of administration of propofol injectable emulsion should be used in elderly patients.
 In this group of patients, rapid (single or repeated) bolus administration should not be used in order to minimize undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and/or oxygen desaturation.
 All dosing should be titrated according to patient condition and response.
-(See DOSAGE AND ADMINISTRATION − Elderly, debilitated or ASA-PS III or IV patients and CLINICAL PHARMACOLOGY − Geriatrics.)
+(See DOSAGE AND ADMINISTRATION – Elderly, debilitated or ASA-PS III or IV patients and CLINICAL PHARMACOLOGY – Geriatrics.)

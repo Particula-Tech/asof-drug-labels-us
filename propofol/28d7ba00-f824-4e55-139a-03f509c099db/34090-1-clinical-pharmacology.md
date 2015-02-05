@@ -106,17 +106,18 @@ The range of doses in these studies are described in Tables 1 and 2.
 TABLE 1.
 PEDIATRIC INDUCTION OF ANESTHESIA
 
-|  | Median (range) | Median (range) |
-| --- | --- | --- |
 | Age Range | Induction Dose | Injection Duration |
+| --- | --- | --- |
+|  | Median (range) | Median (range) |
 | Birth through 16 years | 2.5 mg/kg | 20 sec. |
 |  | (1 - 3.6) | (6 - 45) |
 
 TABLE 2.
 PEDIATRIC MAINTENANCE OF ANESTHESIA
 
-| Age Range | Maintenance Dosage (mcg/kg/min) | Duration (minutes) |
+| Age Range | Maintenance Dosage | Duration |
 | --- | --- | --- |
+|  | (mcg/kg/min) | (minutes) |
 | 2 months to 2 years | 199 (82 - 394) | 65 (12 - 282) |
 | 2 to 12 years | 188 (12 - 1041) | 69 (23 - 374) |
 | >12 through 16 years | 161 (84 - 359) | 69 (26 - 251) |
