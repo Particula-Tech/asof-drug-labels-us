@@ -24,7 +24,7 @@ Increased dosage of corticosteroids may be indicated before, during and after st
 
 ## 5.3 Hepatotoxicity
 
-In the two randomized clinical trials, grade 3 or 4 ALT or AST increases (at least 5X ULN) were reported in 4% of patients who received ZYTIGA, typically during the first 3 months after starting treatment.
+In the two randomized clinical trials, grade 3 or 4 ALT or AST increases (at least 5× ULN) were reported in 4% of patients who received ZYTIGA, typically during the first 3 months after starting treatment.
 Patients whose baseline ALT or AST were elevated were more likely to experience liver test elevation than those beginning with normal values.
 Treatment discontinuation due to liver enzyme increases occurred in 1% of patients taking ZYTIGA.
 No deaths clearly related to ZYTIGA were reported due to hepatotoxicity events.
@@ -35,9 +35,9 @@ Promptly measure serum total bilirubin, AST, and ALT if clinical symptoms or sig
 Elevations of AST, ALT, or bilirubin from the patient's baseline should prompt more frequent monitoring.
 If at any time AST or ALT rise above five times the ULN, or the bilirubin rises above three times the ULN, interrupt ZYTIGA treatment and closely monitor liver function.
 
-Re-treatment with ZYTIGA at a reduced dose level may take place only after return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN [see Dosage and Administration (2.2)].
+Re-treatment with ZYTIGA at a reduced dose level may take place only after return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5× ULN and total bilirubin less than or equal to 1.5× ULN [see Dosage and Administration (2.2)].
 
-The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20X ULN and/or bilirubin greater than or equal to 10X ULN is unknown.
+The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20× ULN and/or bilirubin greater than or equal to 10× ULN is unknown.
 
 ## 5.4 Increased ZYTIGA Exposures with Food
 

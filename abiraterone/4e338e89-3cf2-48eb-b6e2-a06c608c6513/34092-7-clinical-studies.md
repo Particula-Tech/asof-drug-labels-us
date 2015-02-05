@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of ZYTIGA in patients with metastatic castration-resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, multicenter phase 3 clinical trials.
+The efficacy and safety of ZYTIGA in patients with metastatic castration--resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, multicenter phase 3 clinical trials.
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 
 Study 1
@@ -28,8 +28,8 @@ Table 5: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in C
 | Primary Survival Analysis |  |  |
 | Deaths (%) | 333 (42%) | 219 (55%) |
 | Median survival (months) (95% CI) | 14.8 (14.1, 15.4) | 10.9 (10.2, 12.0) |
-| p-value P-value is derived from a log-rank test stratified by ECOG performance status score (0–1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). | <0.0001 |  |
-| Hazard ratio (95% CI) Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA | 0.646 (0.543, 0.768) |  |
+| p-valueP-value is derived from a log-rank test stratified by ECOG performance status score (0–1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). | <0.0001 |  |
+| Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA | 0.646 (0.543, 0.768) |  |
 | Updated Survival Analysis |  |  |
 | Deaths (%) | 501 (63%) | 274 (69%) |
 | Median survival (months) (95% CI) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |
@@ -82,7 +82,7 @@ Table 7: Radiographic Progression-free Survival of Patients Treated with Either 
 | Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |
 | p-valueP-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | <0.0001 |  |
 | Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA (95% CI) | 0.425 (0.347, 0.522) |  |
-| NR= Not reached |  |  |
+| NR=Not reached |  |  |
 
 Figure 3 – Kaplan Meier Curves of Radiographic Progression-free Survival in Study 2 (Intent-to-Treat Analysis)
 

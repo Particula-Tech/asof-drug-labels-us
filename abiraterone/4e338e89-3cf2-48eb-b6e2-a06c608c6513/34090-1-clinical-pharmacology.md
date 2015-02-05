@@ -42,7 +42,6 @@ Distribution and Protein Binding
 
 Abiraterone is highly bound (>99%) to the human plasma proteins, albumin and alpha-1 acid glycoprotein.
 The apparent steady-state volume of distribution (mean ± SD) is 19,669 ± 13,358 L. In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.
-No studies have been conducted with other transporter proteins.
 
 Metabolism
 
@@ -59,12 +58,12 @@ The major compounds present in feces are unchanged abiraterone acetate and abira
 
 Patients with Hepatic Impairment
 
-The pharmacokinetics of abiraterone was examined in subjects with baseline mild (n=8) or moderate (n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
+The pharmacokinetics of abiraterone was examined in subjects with baseline mild (N=8) or moderate (N=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
 Systemic exposure to abiraterone after a single oral 1,000 mg dose given under fasting conditions increased approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively.
 The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.
 
-In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (n=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
-The systemic exposure (AUC) of abiraterone increased by approximately 7 fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
+In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (N=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
+The systemic exposure (AUC) of abiraterone increased by approximately 7-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
 In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Patients with Renal Impairment
@@ -75,7 +74,7 @@ Systemic exposure to abiraterone after a single oral 1,000 mg dose did not incre
 
 Drug Interactions
 
-In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2, CYP2D6 and CYP2C8 and a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
+In vitro studies with human hepatic microsomes showed that abiraterone has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
 
 In an in vivo drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).
 The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.2)].
@@ -86,6 +85,11 @@ Abiraterone is a substrate of CYP3A4, in vitro.
 In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.1)].
 
 In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1)].
+
+In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate [see Drug Interactions (7.2)].
+
+In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
+There are no clinical data available to confirm transporter based interaction.
 
 ## 12.6 QT Prolongation
 

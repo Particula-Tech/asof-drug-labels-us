@@ -116,8 +116,8 @@ Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, lactose 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
+Manufactured by: Patheon Inc. Mississauga, Canada
 
-©Janssen Biotech, Inc. 2012
+Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Revised: May 2014
+©Janssen Biotech, Inc. 2012 Revised: January 2015

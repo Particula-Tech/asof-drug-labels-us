@@ -22,8 +22,8 @@ The most common laboratory abnormalities (>20%) reported in the two randomized c
 Study 1: Metastatic CRPC Following Chemotherapy
 
 Study 1 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥2.5 XULN in the absence of liver metastases.
-Patients with liver metastases were excluded if AST and/or ALT >5X ULN.
+Patients were not eligible if AST and/or ALT ≥2.5 ×ULN in the absence of liver metastases.
+Patients with liver metastases were excluded if AST and/or ALT >5× ULN.
 
 Table 1 shows adverse reactions on the ZYTIGA arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
 The median duration of treatment with ZYTIGA was 8 months.
@@ -77,7 +77,7 @@ Table 2: Laboratory Abnormalities of Interest in Study 1
 Study 2: Metastatic CRPC Prior to Chemotherapy
 
 Study 2 enrolled 1088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
-Patients were ineligible if AST and/or ALT ≥2.5X ULN and patients were excluded if they had liver metastases.
+Patients were ineligible if AST and/or ALT ≥2.5× ULN and patients were excluded if they had liver metastases.
 
 Table 3 shows adverse reactions on the ZYTIGA arm in Study 2 that occurred with a ≥2% absolute increase in frequency compared to placebo.
 The median duration of treatment with ZYTIGA was 13.8 months.
@@ -151,4 +151,6 @@ Myocardial ischemia or myocardial infarction led to death in 3 patients in the p
 The following additional adverse reactions have been identified during post approval use of ZYTIGA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
+Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis
+
+Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis

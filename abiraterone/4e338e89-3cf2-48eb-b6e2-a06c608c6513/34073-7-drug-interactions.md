@@ -12,11 +12,10 @@ In a dedicated drug interaction trial, co-administration of ketoconazole, a stro
 
 ## 7.2 Effects of Abiraterone on Drug Metabolizing Enzymes
 
-ZYTIGA is an inhibitor of the hepatic drug-metabolizing enzyme CYP2D6.
+ZYTIGA is an inhibitor of the hepatic drug-metabolizing enzymes CYP2D6 and CYP2C8.
 In a CYP2D6 drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively, when dextromethorphan was given with abiraterone acetate 1,000 mg daily and prednisone 5 mg twice daily.
 Avoid co-administration of abiraterone acetate with substrates of CYP2D6 with a narrow therapeutic index (e.g., thioridazine).
 If alternative treatments cannot be used, exercise caution and consider a dose reduction of the concomitant CYP2D6 substrate drug [see Clinical Pharmacology (12.3)].
 
-In vitro, ZYTIGA inhibits CYP2C8.
-There are no clinical data on the use of ZYTIGA with drugs that are substrates of CYP2C8.
-However, patients should be monitored closely for signs of toxicity related to the CYP2C8 substrate if used concomitantly with abiraterone acetate.
+In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone (CYP2C8 substrate) was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.
+Therefore, patients should be monitored closely for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly with ZYTIGA [see Clinical Pharmacology (12.3)].

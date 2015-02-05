@@ -16,20 +16,20 @@ In patients with baseline moderate hepatic impairment (Child-Pugh Class B), redu
 A once daily dose of 250 mg in patients with moderate hepatic impairment is predicted to result in an area under the concentration curve (AUC) similar to the AUC seen in patients with normal hepatic function receiving 1,000 mg once daily.
 However, there are no clinical data at the dose of 250 mg once daily in patients with moderate hepatic impairment and caution is advised.
 In patients with moderate hepatic impairment monitor ALT, AST, and bilirubin prior to the start of treatment, every week for the first month, every two weeks for the following two months of treatment and monthly thereafter.
-If elevations in ALT and/or AST greater than 5X upper limit of normal (ULN) or total bilirubin greater than 3X ULN occur in patients with baseline moderate hepatic impairment, discontinue ZYTIGA and do not re-treat patients with ZYTIGA [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+If elevations in ALT and/or AST greater than 5× upper limit of normal (ULN) or total bilirubin greater than 3× ULN occur in patients with baseline moderate hepatic impairment, discontinue ZYTIGA and do not re-treat patients with ZYTIGA [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Do not use ZYTIGA in patients with baseline severe hepatic impairment (Child-Pugh Class C).
 
 Hepatotoxicity
 
-For patients who develop hepatotoxicity during treatment with ZYTIGA (ALT and/or AST greater than 5X ULN or total bilirubin greater than 3X ULN), interrupt treatment with ZYTIGA [see Warnings and Precautions (5.3)].
-Treatment may be restarted at a reduced dose of 750 mg once daily following return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
+For patients who develop hepatotoxicity during treatment with ZYTIGA (ALT and/or AST greater than 5× ULN or total bilirubin greater than 3× ULN), interrupt treatment with ZYTIGA [see Warnings and Precautions (5.3)].
+Treatment may be restarted at a reduced dose of 750 mg once daily following return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5× ULN and total bilirubin less than or equal to 1.5× ULN.
 For patients who resume treatment, monitor serum transaminases and bilirubin at a minimum of every two weeks for three months and monthly thereafter.
 
-If hepatotoxicity recurs at the dose of 750 mg once daily, re-treatment may be restarted at a reduced dose of 500 mg once daily following return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
+If hepatotoxicity recurs at the dose of 750 mg once daily, re-treatment may be restarted at a reduced dose of 500 mg once daily following return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5× ULN and total bilirubin less than or equal to 1.5× ULN.
 
 If hepatotoxicity recurs at the reduced dose of 500 mg once daily, discontinue treatment with ZYTIGA.
-The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20X ULN and/or bilirubin greater than or equal to 10X ULN is unknown.
+The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20× ULN and/or bilirubin greater than or equal to 10× ULN is unknown.
 
 ## 2.3 Dose Modification Guidelines for Strong CYP3A4 Inducers
 
