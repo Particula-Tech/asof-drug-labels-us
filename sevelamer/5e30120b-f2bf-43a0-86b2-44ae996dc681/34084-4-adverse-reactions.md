@@ -10,7 +10,7 @@ A total of 27 patients treated with sevelamer and 10 patients treated with compa
 
 Based on studies of 8-52 weeks, the most common reason for withdrawal from Renagel was gastrointestinal adverse reactions (3-16%).
 
-In one hundred and forty-three peritoneal dialysis patients studied for 12 weeks most adverse reactions were similar to adverse reactions observed in hemodialysis patients.
+In one hundred and forty-three peritoneal dialysis patients studied for 12 weeks, most adverse reactions were similar to adverse reactions observed in hemodialysis patients.
 The most frequently occurring treatment emergent serious adverse reaction was peritonitis (8 reactions in 8 patients [8%] in the sevelamer group and 2 reactions in 2 patients [4%] on active-control).
 Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the active-control group discontinued, mostly for gastrointestinal adverse reactions.
 Patients on peritoneal dialysis should be closely monitored to ensure the reliable use of appropriate aseptic technique with the prompt recognition and management of any signs and symptoms associated with peritonitis.
