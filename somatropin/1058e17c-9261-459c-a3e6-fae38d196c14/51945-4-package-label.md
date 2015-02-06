@@ -70,6 +70,28 @@ NDC 0169-7708-21
 
 List: 770821
 
+# PRINCIPAL DISPLAY PANEL - NORDITROPIN FLEXPRO 30 MG/3 ML
+
+Norditropin® FlexPro®
+
+Somatropin (rDNA origin) injection
+
+30 mg / 3 mLPrefilled Pen
+
+1x3 mL prefilled pen
+
+Each 3 mL contains: 30 mg somatropin
+
+CONTAINS ONE NORDITROPIN® FlexPro® 30 mg / 3 mL
+
+Single patient use only
+
+Rx only
+
+NDC 0169-7703-21
+
+List: 770321
+
 # PRINCIPAL DISPLAY PANEL - NORDITROPIN NORDIFLEX 30 MG/3 ML
 
 Norditropin NordiFlex®
@@ -78,9 +100,9 @@ Somatropin (rDNA origin) injection
 
 30 mg/3 mL Prefilled Pen
 
-1 x 3 mL prefilled disposable pen
+1x3 mL prefilled disposable pen
 
-Each 3 mL contains 30 mg somatropin
+Each 3 mL contains: 30 mg somatropin
 
 CONTAINS ONE
 
@@ -92,16 +114,4 @@ Rx only
 
 NDC 0169-7703-11
 
-List: 770311
-
-Store non-injected/unused pen refrigerated (2ºC-8ºC/36ºF-46ºF).
-Do not store with needles.
-After initial injection, EITHER keep pen refrigerated for 4 weeks OR store not above 25ºC (77ºF) for 3 weeks.
-Do not freeze.
-Discard unused portion.
-Avoid direct light.
-Keep out of the reach and sight of children.
-For subcutaneous administration only.
-Please read the enclosed leaflet before use.
-
-US Patent Nos. 5,849,704; 6,004,297; RE 41,956; RE 43,834 and other patents pending.
+LIST: 770311

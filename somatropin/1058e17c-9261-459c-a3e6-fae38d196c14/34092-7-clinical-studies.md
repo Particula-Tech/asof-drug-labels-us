@@ -47,7 +47,7 @@ However, between Year 2 and Year 6, a greater HV was observed in the two dose es
 
 Table 3 - Final Height-Related Results After Treatment of Patients with Turner Syndrome with Norditropin in a Randomized, Dose Escalating Study
 
-|  | Dose A0.045 mg/kg/day(n=19) | Dose Bup to 0.067 mg/kg/day(n=15) | Dose Cup to 0.089 mg/kg/day(n=12) | Total(n=46) |
+|  | Dose A0.045 mg/kg/day(n = 19) | Dose Bup to 0.067 mg/kg/day(n = 15) | Dose Cup to 0.089 mg/kg/day(n = 12) | Total(n = 46) |
 | --- | --- | --- | --- | --- |
 | Baseline height (cm)Unadjusted (raw) means | 105 (12) | 108 (12.7) | 107 (11.7) | 106 (11.9) |
 | Final height (cm) | 157 (6.7) | 163 (6.0) | 163 (4.9) | 161 (6.5) |
@@ -96,14 +96,14 @@ Height velocity was greatest during the first year of Norditropin treatment and 
 
 Table 4 - Study 1: Results for Final Height SDS and Change from Baseline to Final Height in Height SDS Using National Standard After Long-Term Treatment of SGA Children with Norditropin
 
-|  | Raw Mean + SD (N) |  |  |
+|  | Raw Mean ± SD (N) |  |  |
 | --- | --- | --- | --- |
 | Dose A0.033 mg/kg/day | Dose B0.067 mg/kg/day | Total |  |
-| Baseline Height SDS | -3.2 + 0.7 (26) | -3.2 + 0.7 (27) | -3.2 + 0.7 (53) |
-| Adjusted least-squares mean + standard error (N) and [95% confidence intervals] |  |  |  |
-| Height SDS: Change from Baseline at Year 2Adjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, height SDS at baseline, and pubertal status. | 1.4 + 0.1 (26)[1.1, 1.6] | 1.8 + 0.1 (26)[1.5, 2.0] | Treatment Diff = 0.4[0.2, 0.7]p-value = 0.002 |
-| Height SDS: Change from Baseline at Final HeightAdjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, bone age at baseline, height SDS at baseline, duration of treatment, peak GH after stimulation and baseline IGF-1. | 1.4 + 0.2 (19)[0.9, 1.8] | 1.8 + 0.2 (19)[1.4, 2.2] | Treatment Diff = 0.5[0.0, 0.9]p-value = 0.045 |
-| Final Height SDS | -1.8 + 0.2 (19)[-2.2, -1.4] | -1.3 + 0.2 (19)[-1.7, -0.9] |  |
+| Baseline Height SDS | -3.2 ± 0.7 (26) | -3.2 ± 0.7 (27) | -3.2 ± 0.7 (53) |
+| Adjusted least-squares mean ± standard error (N) and [95% confidence intervals] |  |  |  |
+| Height SDS: Change from Baseline at Year 2Adjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, height SDS at baseline, and pubertal status. | 1.4 ± 0.1 (26)[1.1, 1.6] | 1.8 ± 0.1 (26)[1.5, 2.0] | Treatment Diff = 0.4[0.2, 0.7]p-value = 0.002 |
+| Height SDS: Change from Baseline at Final HeightAdjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, bone age at baseline, height SDS at baseline, duration of treatment, peak GH after stimulation and baseline IGF-1. | 1.4 ± 0.2 (19)[0.9, 1.8] | 1.8 ± 0.2 (19)[1.4, 2.2] | Treatment Diff = 0.5[0.0, 0.9]p-value = 0.045 |
+| Final Height SDS | -1.8 ± 0.2 (19)[-2.2, -1.4] | -1.3 ± 0.2 (19)[-1.7, -0.9] |  |
 | Final Height SDS > -2 | 13/19 (68%) | 11/19 (58%) | 24/38 (63%) |
 | SDS: Standard deviation score. |  |  |  |
 
@@ -119,16 +119,16 @@ In addition, the increase in height SDS at Year 1 was significantly greater in b
 
 Table 5 - Study 2: Results for Change from Baseline in Height SDS At Year 1 and Year 2 Using National Standard After Short-Term Treatment of SGA Children with Norditropin
 
-|  | Raw Mean + SD (N) |  |  |  |
+|  | Raw Mean ± SD (N) |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | No Treatment | 0.033mg/kg/day | 0.067mg/kg/day | Total |
-| Height SDS: Baseline | -2.9 + 0.5 (15) | -3.0 + 0.6 (35) | -2.9 + 0.7 (34) | -2.9 + 0.6 (84) |
-| Height SDS: Year 1 | -2.8 + 0.5 (15) | -2.4 + 0.6 (33) | -2.0 + 0.8 (34) | -2.3 + 0.7 (82) |
-| Height SDS: Year 2 | NA | -2.2 + 0.7 (33) | -1.4 + 0.7 (32) | -1.8 + 0.8 (65) |
-| Adjusted least-squares mean + standard error (N) and [95% confidence intervals] |  |  |  |  |
-| Height SDS: Change from Baseline at Year 1Adjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, and height SDS at baseline. All children remained prepubertal during the study. | 0.1 + 0.1 (15)[-0.1, 0.2] | 0.6 + 0.1 (33)[0.5, 0.7] | 0.9 + 0.1 (34)[0.8, 1.0] |  |
+| Height SDS: Baseline | -2.9 ± 0.5 (15) | -3.0 ± 0.6 (35) | -2.9 ± 0.7 (34) | -2.9 ± 0.6 (84) |
+| Height SDS: Year 1 | -2.8 ± 0.5 (15) | -2.4 ± 0.6 (33) | -2.0 ± 0.8 (34) | -2.3 ± 0.7 (82) |
+| Height SDS: Year 2 | NA | -2.2 ± 0.7 (33) | -1.4 ± 0.7 (32) | -1.8 ± 0.8 (65) |
+| Adjusted least-squares mean ± standard error (N) and [95% confidence intervals] |  |  |  |  |
+| Height SDS: Change from Baseline at Year 1Adjusted (least-squares) means based on an ANCOVA model including terms for treatment, gender, age at baseline, and height SDS at baseline. All children remained prepubertal during the study. | 0.1 ± 0.1 (15)[-0.1, 0.2] | 0.6 ± 0.1 (33)[0.5, 0.7] | 0.9 ± 0.1 (34)[0.8, 1.0] |  |
 | 0.033 vs. No Treatment: Treatment Diff = 0.5, [0.3, 0.7], p < 0.00010.067 vs. No Treatment: Treatment Diff = 0.8, [0.6, 1.0], p < 0.00010.067 vs. 0.033: Treatment Diff = 0.3, [0.2, 0.5], p-value < 0.0001 |  |  |  |  |
-| Height SDS: Change from Baseline at Year 2 | NA | 0.8 + 0.1 (33)[0.7, 0.9] | 1.4 + 0.1 (32)[1.3, 1.6] |  |
+| Height SDS: Change from Baseline at Year 2 | NA | 0.8 ± 0.1 (33)[0.7, 0.9] | 1.4 ± 0.1 (32)[1.3, 1.6] |  |
 | 0.067 vs. 0.033: Treatment Diff = 0.6, [0.5, 0.8], p-value < 0.0001 |  |  |  |  |
 | SDS: Standard deviation score. |  |  |  |  |
 

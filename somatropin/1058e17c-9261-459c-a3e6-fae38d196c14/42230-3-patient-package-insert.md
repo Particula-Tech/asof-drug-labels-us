@@ -54,7 +54,7 @@ How should I use Norditropin?
   Your healthcare provider will prescribe the dose that is right for you.
 - •Your healthcare provider will show you how to inject Norditropin.
 - •Use Norditropin exactly as your healthcare provider tells you to.
-- •Norditropin FlexPro pens and Norditropin NordiFlex pen are for use for 1 person only.
+- •Norditropin FlexPro pens are for use for 1 person only.
 - •Do not share your Norditropin pen and needles with another person.
   You may give another person an infection or get an infection from them.
 
@@ -90,7 +90,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store Norditropin?
 
-New or unused Norditropin FlexPro pens and Norditropin NordiFlex pen:
+New or unused Norditropin FlexPro pens:
 
 - •Keep Norditropin in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC).
 - •Do not freeze or expose Norditropin to heat.
@@ -98,7 +98,7 @@ New or unused Norditropin FlexPro pens and Norditropin NordiFlex pen:
 - •Do not use Norditropin that has been frozen or in temperatures warmer than 77ºF (25ºC).
 - •Do not use Norditropin after the expiration date printed on the carton and the pen.
 
-Used Norditropin FlexPro pens and Norditropin NordiFlex pen:
+Used Norditropin FlexPro pens:
 
 After the first injection of Norditropin,
 
@@ -957,276 +957,56 @@ Denmark
 
 Revised: 10/2013
 
-INSTRUCTIONS FOR USE
-
-Norditropin® (Nor-dee-tro-pin) NordiFlex®
-
-(somatropin [rDNA origin] injection)
-
-30 mg/3 mL Pen
-
-Note:
-
-- •Norditropin is for use under the skin only (subcutaneous).
-- •Do not share your Norditropin Pen and needles with another person.
-  You may give another person an infection or get an infection from them.
-
-Norditropin® NordiFlex®
-
-Figure A
-
-Supplies you will need for a Norditropin Injection.
-See Figure A.
-
-- •Norditropin NordiFlex Prefilled Pen
-- •1 Novo Nordisk disposable needle.
-  Needles are not included with the Pen.
-- •2 alcohol swabs
-- •flat surface like a table
-- •a sharps disposal container.
-  See Step 6 for information on how to dispose of used needles and syringes.
-
-6 Steps you should follow for a Norditropin injection:
-
-Step 1.
-Preparing the Norditropin NordiFlex Pen
-
-Step 2.
-Attaching the needle to the Norditropin NordiFlex Pen
-
-Step 3.
-Priming a new Pen
-
-Step 4.
-Selecting the correct dose of Norditropin
-
-Step 5.
-Selecting the injection site and injecting the dose of Norditropin
-
-Step 6.
-What to do after the injection is completed
-
-Step 1.
-Preparing the Norditropin NordiFlex Pen.
-
-- •Pull off the Pen cap.
-  See Figure B.
-
-Figure B
-
-- •Look in the residual scale window.
-  Check that the liquid medicine in the Pen is clear and colorless by tipping it upside down 1 or 2 times.
-  If the liquid looks unclear or cloudy, do not use the Pen.
-  See Figure C.
-
-Figure C
-
-- •Wash your hands well and dry them.
-- •Wipe the front stopper on the needle thread with an alcohol swab.
-  See Figure D.
-
-Figure D
-
-Step 2.
-Attaching the needle to the Norditropin NordiFlex Pen.
-
-- •Never place a needle on your Pen until you are ready to give an injection.
-- •Take a new disposable needle and tear off the protective tab.
-  See Figure E.
-
-Figure E
-
-- •Holding the Pen with one hand, firmly press the needle onto the needle thread of the Pen.
-- •Screw the needle in a clockwise direction until the needle will not turn anymore.
-  See Figure F.
-
-Figure F
-
-- •Pull off the outer needle cap.
-  See Figure G.
-
-Figure G
-
-- •Pull off the inner needle cap and throw them both away.
-  See Figure H.
-
-If you try to put the needle caps back on, you may accidentally hurt yourself with the needle.
-
-- •A drop of liquid may appear at the needle tip.
-  This is normal.
-
-Figure H
-
-Step 3.
-Priming a new Pen.
-
-- •Checking the growth hormone flow in the pen (priming) is not needed for a Pen you have used before.
-  If the Pen has already been primed, go to Step 4.
-- •Before you use a new Pen you must first prepare it for use.
-  Hold the Pen with one hand and turn the dosage selector clockwise to select 0.1 mg.
-  You will hear a faint click when you turn the dosage selector.
-  This is the smallest amount of medicine for a dose.
-  See Figure I.
-
-Figure I
-
-- •Hold the Pen with the needle pointing up.
-  Tap the top of the Pen gently a few times to let any air bubbles rise to the top.
-  See Figure J.
-
-Figure J
-
-- •Press the push button until the “0.0” in the residual scale window lines up with the pointer and a drop of liquid appears at the needle tip.
-  See Figure K.
-
-Figure K
-
-- •If no drop appears, repeat Step 3 again up to 6 times.
-- •If you still do not see a drop of liquid, change the needle and repeat Step 3 again.
-- •If a drop of liquid still does not appear after repeating Step 3 and changing the needle, call Novo Nordisk at 1-888-668-6444 for help.
-
-Step 4.
-Selecting the correct dose of Norditropin.
-
-- •Use the dosage selector on your Norditropin NordiFlex Pen to make sure you have the exact dose selected.
-  You can select up to 6 mg per dose.
-- •To start, check that the pointer on the Pen is set at “0.0”.
-  See Figure L.
-
-Figure L
-
-- •Select the dose you need by turning the dosage selector clockwise.
-  If you go beyond your dose, turn the dosage selector counterclockwise until the right number of mg lines up with the pointer.
-- •Use the dosage indicator, not the clicking sound, as a guide for selecting the dose.
-- •When dialing counterclockwise, be careful not to press the push button as liquid will come out.
-- •You can use the residual scale window on the side of the Pen to see approximately how much growth hormone is left in the Pen.
-  You can also use the dosage selector to see exactly how much growth hormone is left in the Pen.
-- •If the Pen contains less than 6 mg, turn the dosage selector until it stops.
-  The number that lines up with the pointer shows how many mg is left in the Pen.
-- •You cannot set a dose higher than the number of mg left in the Pen.
-- •If there is not enough Norditropin left in the Pen to deliver your full dose, use a new Norditropin NordiFlex Pen to inject the remaining amount of your dose or contact your healthcare provider.
-- •Remember to subtract the dose already received.
-  For example, if the dose is 0.6 mg and you can only set the dosage selector to 0.3 mg, you should inject another 0.3 mg with a new Norditropin NordiFlex Pen.
-  See Figure L.
-
-Important:
-
-- •Never use the Pen clicks to count the number of mg you select.
-  Only the dosage indicator window and pointer will show the exact number.
-- •Never use the residual scale window to measure how much liquid to inject.
-  Only the dosage indicator window and pointer will show the exact number.
-
-Step 5.
-Selecting the injection site and injecting the dose of Norditropin.
-
-- •Change the injection site every day.
-- •Select the injection site and wipe the skin with an alcohol swab as your healthcare provider showed you.
-- •Insert the needle under the skin as your healthcare provider showed you.
-  See Figure M.
-
-Figure M
-
-- •After inserting the needle into the skin, press the push button in as far as it will go to give the dose until the “0.0” in the dosage indicator window lines up with the pointer.
-  As you do this, you may hear a click.
-  See Figure M.
-- •If you remove your finger from the push button before the “0.0” is in the dosage indicator window the full dose has not been received.
-  Leave the needle in the skin and press the push button again until the “0.0” lines up with the pointer.
-
-If the push button cannot be pushed in completely or “0.0” does not appear in the dosage indicator window, you did not receive the full dose.
-Call Novo Nordisk at 1-888-668-6444 for assistance.
-You may need a new Pen.
-
-- •After the “0.0” in the dosage indicator window lines up with the pointer, leave the needle under the skin for at least 6 seconds with your thumb on the push button to make sure that you get your full dose.
-  Keep the push button fully pushed in until the needle has been removed from the skin.
-
-Important:
-
-- •Always press the push button to inject the dose.
-  Turning the dosage selector will not inject the dose.
-- •Never touch the dosage indicator window when you inject, as this can block the injection.
-- •Carefully lift the pen to remove the needle from the skin.
-  After that, you may see a drop of liquid at the needle tip.
-  This is normal and does not affect the dose you received.
-  See Figure N.
-
-Figure N
-
-Step 6.
-What to do after the injection is completed.
-
-- •Do not recap the needle.
-  Recapping a needle can lead to a needle stick injury.
-  Remove the needle from the Pen after each injection.
-- •Carefully remove the needle from the Pen by turning the needle in a counterclockwise direction.
-  See Figure O.
-
-Figure O
-
-- •Put the Pen cap back on.
-- •If there is medicine left in the Pen, store the Pen as directed in the Patient Information that comes with this Pen.
-- •If the Pen is empty, throw the Pen away as directed below.
-  Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose needles and Pens in your household trash.
-- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
-- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and Pens.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
-- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-  Do not recycle your used sharps disposal container.
-
-Care of your Norditropin NordiFlex Pen:
-
-You must take care of your Norditropin NordiFlex Pen:
-
-- •Do not drop your Pen or knock it against hard surfaces.
-  If you drop it or think that something is wrong with it, always screw on a new disposable needle and check the growth hormone flow (priming) before you inject.
-- •Do not try to refill your Pen.
-  It is prefilled.
-- •Do not try to repair your Pen or pull it apart.
-- •Do not expose your Pen to dust, dirt or any kind of liquid.
-- •Do not try to wash, soak or lubricate your Pen.
-  Clean the Norditropin NordiFlex Pen with a mild detergent on a moistened cloth.
-- •Always keep your Pen and needles out of reach of others, especially children.
-
-This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Norditropin NordiFlex 30 mg
-
-US Patent Nos. 5,849,700; 5,849,704; 6,004,297; RE41956; RE43834 and other patents pending.
-
-Norditropin FlexPro
-
-US Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.
-
-Norditropin®, FlexPro®, Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.
-
-Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
-
-© 2004-2013 Novo Nordisk Health Care AG
-
-For further information contact:
-
-Novo Nordisk Inc.
-
-800 Scudders Mill Road
-
-Plainsboro, NJ 08536, USA
-
-1-888-668-6444
-
-norditropin-us.com
-
-Manufactured by:
-
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd
-
-Denmark
-
-Revised: 10/2013
+| Norditropin®FlexPro®(Nor-dee-tro-pin)(somatropin [rDNA origin]injection)30 mg/3mLInstructionsfor use |  |
+| --- | --- |
+| Supplies you will need: • Norditropin FlexPro prefilled Pen • Novo Nordisk disposable needles up to a length of 8 mm • a sharps container |  |
+| How to use your Norditropin FlexPro Pen |  |
+| 5 steps you should follow for a Norditropin injection: Step 1: Prepare your Norditropin FlexPro Pen Step 2: Check the Norditropin flow with each new Pen Step 3: Select your dose Step 4: Inject your dose Step 5: After your injection For further information about your Pen: Frequently Asked Questions Important information Patient Information |  |
+| Norditropin is for use under the skin only (subcutaneous). |  |
+| Do not share your Norditropin Pen and needles with another person. You may give another person an infection or get an infection from them. Do not use your Pen without proper training from your healthcare provider. Make sure that you are confident in making an injection with the Pen before you start your treatment. If you are blind or have poor eyesight and cannot read the dose counter on the Pen, do not use this Pen without help. Get help from a person with good eyesight who is trained to use the Pen. |  |
+| Step 1. Prepare your Norditropin FlexPro Pen |  |
+| • Wash your hands with soap and water. •Check the name, strength, and colored label on your Pen to make sure that it contains Norditropin in the right strength. • Pull off the Pen cap. • Turn the Pen upside down once or twice to check that the Norditropin in your Pen is clear and colorless. See figure A. If the Norditropin looks cloudy, do not use the Pen. |  |
+| • When you are ready to take your injection, take a new disposable needle, and tear off the paper tab. • Push the needle straight onto the Pen. Turn the needle clockwise until it is on tight. See figure B. |  |
+| Always use a new needle for each injection. This reduces the risk of contamination, infection, leakage of Norditropin, and blocked needles leading to incorrect dosing. |  |
+| • Pull off the outer needle cap and dispose of it. See figure C. |  |
+| • Pull off the inner needle cap and dispose of it. See figure D. •A drop of Norditropin may appear at the needle tip. This is normal, but you must still check the Norditropin flow with each new Pen. See step 2. |  |
+| Never use a bent or damaged needle. |  |
+| Step 2. Check the Norditropin flow with each new Pen |  |
+| •If your Pen is already in use, proceed to step 3. Before using a new Pen, check the Norditropin flow to make sure the growth hormone can flow through the Pen and needle. • Turn the dose selector clockwise one tick mark to select 0.1 mg. You will hear a faint click. See figure E. |  |
+| •One tick mark equals 0.1 mg in the dose counter. See figure F. |  |
+| • Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter returns to 0. The 0 must line up with the dose pointer. See figure G. |  |
+| • Check that a drop of Norditropin appears at the needle tip. See figure H. •If no Norditropin appears, repeat step 2 up to 6 times. If you still do not see a drop of Norditropin, change the needle and repeat step 2 again. Do not use the Pen if a drop of Norditropin still does not appear after repeating step 2. Call Novo Nordisk at 1-888-668-6444 for help. |  |
+| Step 3. Select your dose |  |
+| • To start, check that the dose counter is set at 0. • Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4. •If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
+| •The dose counter shows the dose in mg. See figures J and K. Always use the dose counter to select the exact dose. Do not count the Pen clicks. Do not use the Pen scale. |  |
+| •If you select the wrong dose, you can turn the dose selector clockwise or counterclockwise to the correct dose. See figure L. The Pen clicks sound and feel differently when the dose selector is turned clockwise, counterclockwise, or if you accidentally force it past the number of mg left. |  |
+| Step 4. Inject your dose |  |
+| • Norditropin can be injected under the skin (subcutaneously) of your hips, stomach area (abdomen), buttocks, upper legs (thighs), upper arms, or as otherwise instructed by your healthcare provider. Change the injection site every day. • Insert the needle into your skin as your healthcare provider has shown you. See figure M. Make sure you can see the dose counter. Do not cover it with your fingers. This could block the injection. |  |
+| • Press and hold down the dose button until the dose counter shows 0. See figure N. The 0 must line up with the dose pointer. You may then hear or feel a click. •Continue to hold the needle in your skin. •If 0 does not appear in the dose counter after continuously pressing the dose button, your needle may be blocked or damaged, see Frequently Asked Questions. |  |
+| •Keep the needle in your skin after the dose counter has returned to 0. Count slowly to 6 to ensure that the full dose has been delivered. See figure O. |  |
+| • Carefully remove the needle from your skin. See figure P. If blood appears at the injection site, press lightly. Do not rub the area. •You may see a drop of Norditropin at the needle tip after injecting. This is normal and does not affect your dose. |  |
+| Step 5. After your injection |  |
+| • Carefully remove the needle from the Pen by turning counterclockwise. See figure Q. |  |
+| • Place the needle in a sharps container immediately to reduce the risk of needle sticks. See figure R. |  |
+| Do not try to put the needle caps back on. You may stick yourself with the needle. |  |
+| •Put the Pen cap on your Pen after each use to protect the Norditropin from direct light. See figure S. To store your Pen, see the Patient Information section. |  |
+| •Always dispose of the needle after each injection. Put the needle and any empty or discarded Pen still containing Norditropin in an FDA-cleared sharps disposal container. See figure T. For further information about safe sharps disposal, see Frequently Asked Questions. |  |
+| Always remove the needle from your Pen. This reduces the risk of contamination, infection, leakage of Norditropin, and blocked needles leading to incorrect dosing. |  |
+| Frequently Asked QuestionsHow do I see how much Norditropin is left in my Pen? |  |
+| The Pen scale shows you approximately how much Norditropin is left in your Pen. See figure U below. |  |
+| To see how much Norditropin is left, use the dose counter: Turn the dose selector clockwise until the dose counter stops. You can select a maximum dose of 8.0 mg. If it shows 8.0 mg, at least 8.0 mg are left in your Pen. If it shows 3.8, only 3.8 mg are left in your Pen. See figure V below. |  |
+| What if I need a larger dose than what is left in my Pen? It is not possible to select a larger dose than the amount of mg left in your Pen.If you need more Norditropin than you have left in your Pen, you can use a new Pen or split your dose between your current Pen and a new Pen. Only if trained or advised by your healthcare provider, may you split your dose. Use a calculator to plan the doses as instructed by your healthcare provider.Be very careful to calculate correctly. If you are not sure how to split your dose using two Pens, then select and inject the dose you need with a new Pen. |  |
+| What if no Norditropin appears when I check the flow?A. Your needle may be blocked or damaged, if no Norditropin appears at the needle tip. Remove the needle as described in step 5 and repeat steps 1 and 2.B. Your Pen may be defective, if Norditropin still does not appear after changing the needle. Do not use the Pen. Contact Novo Nordisk at 1-888-668-6444. |  |
+| What if 0 does not appear after completing my injection?In this case the needle may be blocked or damaged, and you have not received any Norditropin – even though the dose counter has moved from the original dose that you have set. Remove the needle as described in step 5 and repeat steps 1 to 4. |  |
+| How should I take care of my Pen?Be careful not to drop your Pen or knock it against hard surfaces. Do not expose your Pen to dust, dirt, liquid, or direct light.If there is Norditropin left in the Pen, store the Pen as directed in the Patient Information section How do I store Norditropin. Do not try to refill your Pen, it’s prefilled. |  |
+| Frequently Asked Questions |  |
+| What if I drop my Pen?If you drop your Pen or think that something is wrong with it, attach a new disposable needle and check the Norditropin flow before you inject, see steps 1 and 2. Do not try to repair your Pen or pull it apart. |  |
+| How do I clean my Pen?Do not wash, soak, or lubricate your Pen. If necessary, clean it with mild detergent on a moistened cloth. |  |
+| How do I dispose of needles and Pens?Empty Pens should be disposed of as directed below. Put your used needles and Pen in an FDA-cleared sharps disposal container right away after use. Do not dispose of loose needles and Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic, can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.Follow your community guidelines on how to dispose of your sharps disposal container. There may be state or local laws about how you should dispose of used needles and Pens. For specific information about safe sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.Do not recycle your used sharps disposal container. |  |
+| Important information |  |
+| • Caregivers must be very careful when handling needles – to reduce the risk of needle sticks and cross-infection. • Always keep your Pen and needles out of reach of others, especially children. • Norditropin® FlexPro® 30 mg/3 mL Pen is not compatible with FlexPro® PenMate®. • To store your Pen, see How do I store Norditropin in the Patient Information. |  |
+| [Patient Information] |  |
+| www.novotraining.com/flexpro30/us01 |  |
+| This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.Norditropin FlexPro US Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.Norditropin® FlexPro®, and FlexPro® PenMate® are registered trademarks of Novo Nordisk Health Care AG.Novo Nordisk® is a registered trademark of Novo Nordisk A/S© 2004-2015 Novo Nordisk Health Care AGFor further information contact:Novo Nordisk Inc.800 Scudders Mill RoadPlainsboro, NJ 08536, USA1-888-668-6444norditropin-us.comManufactured by:Novo Nordisk A/SDK-2880 BagsvaerdDenmarkRevised 01/2015 |  |
+| INSTRUCTIONS FOR USENorditropin®(Nor-dee-tro-pin) NordiFlex®(somatropin [rDNA origin] injection)30 mg/3 mL PenNote: •Norditropin is for use under the skin only (subcutaneous).•Do not share your Norditropin Pen and needles with another person. You may give another person an infection or get an infection from them. Norditropin® NordiFlex® Figure A Supplies you will need for a Norditropin Injection. See Figure A. •Norditropin NordiFlex Prefilled Pen •1 Novo Nordisk disposable needle.Needles are not included with the Pen. •2 alcohol swabs•flat surface like a table•a sharps disposal container. See Step 6 for information on how to dispose of used needles and syringes. 6 Steps you should follow for a Norditropin injection:Step 1. Preparing the Norditropin NordiFlex PenStep 2. Attaching the needle to the Norditropin NordiFlex PenStep 3. Priming a new PenStep 4. Selecting the correct dose of NorditropinStep 5. Selecting the injection site and injecting the dose of NorditropinStep 6. What to do after the injection is completedStep 1. Preparing the Norditropin NordiFlex Pen. Pull off the Pen cap. See Figure B. •Look in the residual scale window. Check that the liquid medicine in the Pen is clear and colorless by tipping it upside down 1 or 2 times. If the liquid looks unclear or cloudy, do not use the Pen. See Figure C. •Wash your hands well and dry them.•Wipe the front stopper on the needle thread with an alcohol swab. See Figure D. Step 2. Attaching the needle to the Norditropin NordiFlex Pen. •Never place a needle on your Pen until you are ready to give an injection.•Take a new disposable needle and tear off the protective tab. See Figure E. •Holding the Pen with one hand, firmly press the needle onto the needle thread of the Pen. •Screw the needle in a clockwise direction until the needle will not turn anymore. See Figure F. |  |
+| •Pull off the outer needle cap. See Figure G. •Pull off the inner needle cap and throw them both away. See Figure H.If you try to put the needle caps back on, you may accidentally hurt yourself with the needle.A drop of liquid may appear at the needle tip. This is normal.•A drop of liquid may appear at the needle tip. This is normal. Step 3. Priming a new Pen. •Checking the growth hormone flow in the pen (priming) is not needed for a Pen you have used before. If the Pen has already been primed, go to Step 4.•Before you use a new Pen you must first prepare it for use. Hold the Pen with one hand and turn the dosage selector clockwise to select 0.1 mg. You will hear a faint click when you turn the dosage selector. This is the smallest amount of medicine for a dose. See Figure I. •Hold the Pen with the needle pointing up. Tap the top of the Pen gently a few times to let any air bubbles rise to the top. See Figure J. •Press the push button until the “0.0” in the residual scale window lines up with the pointer and drop of liquid appears at the needle tip. See Figure K. •If no drop appears, repeat Step 3 again up to 6 times. •If you still do not see a drop of liquid, change the needle and repeat Step 3 again.•If a drop of liquid still does not appear after repeating Step 3 and changing the needle, call Novo Nordisk at 1-888-668-6444 for help. Step 4. Selecting the correct dose of Norditropin. •Use the dosage selector on your Norditropin NordiFlex Pen to make sure you have the exact dose selected. You can select up to 6 mg per dose.•To start, check that the pointer on the Pen is set at “0.0”. See Figure L. •Select the dose you need by turning the dosage selector clockwise. If you go beyond your dose, turn the dosage selector counterclockwise until the right number of mg lines up with the pointer. •Use the dosage indicator, not the clicking sound, as a guide for selecting the dose.•When dialing counterclockwise, be careful not to press the push button as liquid will come out.•You can use the residual scale window on the side of the Pen to see approximately how much growth hormone is left in the Pen. You can also use the dosage selector to see exactly how much growth hormone is left in the Pen. •If the Pen contains less than 6 mg, turn the dosage selector until it stops. The number that lines up with the pointer shows how many mg is left in the Pen. •You cannot set a dose higher than the number of mg left in the Pen. •If there is not enough Norditropin left in the Pen to deliver your full dose, use a new Norditropin NordiFlex Pen to inject the remaining amount of your dose or contact your healthcare provider. •Remember to subtract the dose already received. For example, if the dose is 0.6 mg and you can only set the dosage selector to 0.3 mg, you should inject another 0.3 mg with a new Norditropin NordiFlex Pen. See Figure L. Important: •Never use the Pen clicks to count the number of mg you select. Only the dosage indicator window and pointer will show the exact number. •Never use the residual scale window to measure how much liquid to inject. Only the dosage indicator window and pointer will show the exact number. Step 5. Selecting the injection site and injecting the dose of Norditropin. •Change the injection site every day.•Select the injection site and wipe the skin with an alcohol swab as your healthcare provider showed you. •Insert the needle under the skin as your healthcare provider showed you. See Figure M. •After inserting the needle into the skin, press the push button in as far as it will go to give the dose until the “0.0” in the dosage indicator window lines up with the pointer. As you do this, you may hear a click. See Figure M.•If you remove your finger from the push button before the “0.0” is in the dosage indicator window the full dose has not been received. Leave the needle in the skin and press the push button again until the “0.0” lines up with the pointer. If the push button cannot be pushed in completely or “0.0” does not appear in the dosage indicator window, you did not receive the full dose. Call Novo Nordisk at 1-888-668-6444 for assistance. You may need a new Pen. •After the “0.0” in the dosage indicator window lines up with the pointer, leave the needle under the skin for at least 6 seconds with your thumb on the push button to make sure that you get your full dose. Keep the push button fully pushed in until the needle has been removed from the skin. Important: •Always press the push button to inject the dose. Turning the dosage selector will not inject the dose.•Never touch the dosage indicator window when you inject, as this can block the injection.•Carefully lift the pen to remove the needle from the skin. After that, you may see a drop of liquid at the needle tip. This is normal and does not affect the dose you received. See Figure N. Step 6.What to do after the injection is completed. •Do not recap the needle. Recapping a needle can lead to a needle stick injury. Remove the needle from the Pen after each injection.•Carefully remove the needle from the Pen by turning the needle in a counterclockwise direction.See Figure O. •Put the Pen cap back on. •If there is medicine left in the Pen, store the Pen as directed in the Patient Information that comes with this Pen.•If the Pen is empty, throw the Pen away as directed below. Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) loose needles and Pens in your household trash.•If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: omade of a heavy-duty plastic,ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,oupright and stable during use,oleak-resistant, andoproperly labeled to warn of hazardous waste inside the container. •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container.•Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Care of your Norditropin NordiFlex Pen:You must take care of your Norditropin NordiFlex Pen: •Do not drop your Pen or knock it against hard surfaces. If you drop it or think that something is wrong with it, always screw on a new disposable needle and check the growth hormone flow (priming) before you inject. •Do not try to refill your Pen. It is prefilled. •Do not try to repair your Pen or pull it apart.•Do not expose your Pen to dust, dirt or any kind of liquid.•Do not try to wash, soak or lubricate your Pen. Clean the Norditropin NordiFlex Pen with a mild detergent on a moistened cloth. •Always keep your Pen and needles out of reach of others, especially children. This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.Norditropin NordiFlex 30 mgUS Patent Nos. 5,849,700; 5,849,704; 6,004,297; RE41956; RE43834 and other patents pending.Norditropin FlexProUS Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.Norditropin®, FlexPro®, Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.Novo Nordisk® is a registered trademark of Novo Nordisk A/S.© 2004-2013 Novo Nordisk Health Care AGFor further information contact:Novo Nordisk Inc.800 Scudders Mill RoadPlainsboro, NJ 08536, USA1-888-668-6444norditropin-us.comManufactured by:Novo Nordisk A/SDK-2880 BagsvaerdDenmarkRevised: 10/2013 |  |
