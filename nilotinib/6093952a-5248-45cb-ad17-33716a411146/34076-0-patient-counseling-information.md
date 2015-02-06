@@ -3,10 +3,10 @@
 See FDA-Approved Patient Labeling (Medication Guide).
 
 A Medication Guide is required for distribution with Tasigna.
-Encourage patients to read the Tasigna Medication Guide.
+Advise patients to read the Tasigna Medication Guide.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Cardiac and Vascular Events
+Cardiac and Arterial Vascular Occlusive Events
 
 Advise patients that cardiovascular events (including ischemic heart disease, peripheral arterial occlusive disease, and ischemic cerebrovascular events) have been reported.
 Advise patients to seek immediate medical attention with any symptoms suggestive of a cardiovascular event.
@@ -14,7 +14,7 @@ Cardiovascular status of patients should be evaluated and cardiovascular risk fa
 
 Taking Tasigna
 
-Advise patients to take Tasigna doses twice daily approximately 12 hours apart.
+Advise patients to take Tasigna doses twice-daily approximately 12 hours apart.
 The capsules should be swallowed whole with water.
 
 Advise patients to take Tasigna on an empty stomach.
@@ -34,7 +34,7 @@ Pregnancy
 
 Advise patients that the use of Tasigna during pregnancy may cause harm to the fetus and that Tasigna should not be taken during pregnancy unless necessary.
 Women of childbearing potential should use highly effective contraceptives while taking Tasigna.
-Sexually active female patients taking Tasigna should use adequate contraception [see Warnings and Precautions (5.15) and Use in Specific Populations (8.1)].
+Sexually active female patients taking Tasigna should use adequate contraception [see Warnings and Precautions (5.16) and Use in Specific Populations (8.1)].
 
 Compliance
 
@@ -46,4 +46,4 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
-T2014-91 September 2014
+T2015-21 January 2015

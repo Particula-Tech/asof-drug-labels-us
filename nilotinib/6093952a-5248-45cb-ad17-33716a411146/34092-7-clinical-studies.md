@@ -4,26 +4,25 @@
 
 An open-label, multicenter, randomized trial was conducted to determine the efficacy of Tasigna versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
-Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
+Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once-daily group, 282 patients in the nilotinib 300 mg twice-daily group, 281 patients in the nilotinib 400 mg twice-daily group.
 
-Median age was 46 years in the imatinib group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients ≥65 years of age in imatinib 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
-There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively).
+Median age was 46 years in the imatinib group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients ≥65 years of age in imatinib 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively.
+There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment (or discontinued earlier).
-Subsequent analyses were done when patients completed 24, 36, and 48 months of treatment (or discontinued earlier).
-The median time on treatment was approximately 48 months in all three treatment groups.
-This study is on-going and further data will be required to determine long-term outcome.
+Subsequent analyses were done when patients completed 24, 36, 48, and 60 months of treatment (or discontinued earlier).
+The median time on treatment was approximately 61 months in all three treatment groups.
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as ≤0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardized baseline.
-Efficacy endpoints are summarized in Table 9 below.
+Efficacy endpoints are summarized in Table 9.
 
-Three patients in the nilotinib arm progressed to either accelerated phase (including clonal evolution) or blast crisis (2 within the first 6 months of treatment and 1 within 36 to 48 months while 17 patients on the imatinib arm progressed to either accelerated phase (including clonal evolution) or blast crisis (8 patients within first 6 months, 4 within 6 to 12 months, 4 within 12 to 18 months and 1 within 18 to 24 months).
+Two patients in the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 12 patients on the imatinib arm progressed to either accelerated phase or blast crisis (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months).
 
 Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP
 
-|  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
+|  | TASIGNA 300 mg twice-daily | Imatinib 400 mg once-daily |
 | --- | --- | --- |
 |  | N=282 | N=283 |
 | MMR at 12 months (95% CI) | 44% (38.4, 50.3) | 22% (17.6, 27.6) |
@@ -33,9 +32,13 @@ Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagno
 | CCyRb by 24 months (95% CI) | 87% (82.4, 90.6) | 77% (71.7, 81.8) |
 | aCMH test stratified by Sokal risk group bCCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph-positive metaphases among ≥20 metaphase cells in each bone marrow sample. |  |  |
 
+By the 60 months, MMR was achieved by 77% of patients on Tasigna and 60% of patients on imatinib.
+Median overall survival was not reached in either arm.
+At the time of the 60-month final analysis, the estimated survival rate was 93.7% for patients on Tasigna and 91.7% for patients on imatinib.
+
 ## 14.2 Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-A single-arm, open-label, multicenter study was conducted to evaluate the efficacy and safety of Tasigna (400 mg twice daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
+A single-arm, open-label, multicenter study was conducted to evaluate the efficacy and safety of Tasigna (400 mg twice-daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
 The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response.
 Imatinib intolerance was defined as discontinuation of treatment due to toxicity and lack of a major cytogenetic response at time of study entry.
 At the time of data cut-off, 321 patients with CML-CP and 137 patients with CML-AP with a minimum follow-up of 24 months were enrolled.

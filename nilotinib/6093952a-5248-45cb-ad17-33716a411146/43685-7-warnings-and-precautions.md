@@ -10,25 +10,26 @@ Myelosuppression was generally reversible and usually managed by withholding Tas
 
 Tasigna has been shown to prolong cardiac ventricular repolarization as measured by the QT interval on the surface ECG in a concentration-dependent manner [see Adverse Reactions (6.1), Clinical Pharmacology (12.6)].
 Prolongation of the QT interval can result in a type of ventricular tachycardia called torsade de pointes, which may result in syncope, seizure, and/or death.
-ECGs should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Warnings and Precautions (5.14)].
+ECGs should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Warnings and Precautions (5.15)].
 
 Tasigna should not be used in patients who have hypokalemia, hypomagnesemia or long QT syndrome.
 Before initiating Tasigna and periodically, test electrolyte, calcium and magnesium blood levels.
-Hypokalemia or hypomagnesemia must be corrected prior to initiating Tasigna and these electrolytes should be monitored periodically during therapy [see Warnings and Precautions (5.14)].
+Hypokalemia or hypomagnesemia must be corrected prior to initiating Tasigna and these electrolytes should be monitored periodically during therapy [see Warnings and Precautions (5.15)].
 
 Significant prolongation of the QT interval may occur when Tasigna is inappropriately taken with food and/or strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT.
 Therefore, coadministration with food must be avoided and concomitant use with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT should be avoided [see Warnings and Precautions (5.8, 5.9)].
-The presence of hypokalemia and hypomagnesemia may further prolong the QT interval [see Warnings and Precautions (5.7, 5.14)].
+The presence of hypokalemia and hypomagnesemia may further prolong the QT interval [see Warnings and Precautions (5.7, 5.15)].
 
 ## 5.3 Sudden Deaths
 
 Sudden deaths have been reported in 0.3% of patients with CML treated with nilotinib in clinical studies of 5,661 patients.
 The relative early occurrence of some of these deaths relative to the initiation of nilotinib suggests the possibility that ventricular repolarization abnormalities may have contributed to their occurrence.
 
-## 5.4 Cardiac and Vascular Events
+## 5.4 Cardiac and Arterial Vascular Occlusive Events
 
-Cardiovascular events, including arterial vascular occlusive events, were reported in a randomized, clinical trial in newly diagnosed CML patients and observed in the post-marketing reports of patients receiving nilotinib therapy.
-With a median time on therapy of 48 months in the clinical trial, cases of cardiovascular events included ischemic heart disease-related events (5.0% and 5.8% in the nilotinib 300 mg and 400 mg bid arms respectively, and 1.8% in the imatinib arm), peripheral arterial occlusive disease (1.8% and 2.2% in the nilotinib 300 mg and 400 mg bid arms respectively, and 0% in the imatinib arm), and ischemic cerebrovascular events (1.1% and 1.8% in the nilotinib 300 mg and 400 mg bid arms respectively, and 0.7% in the imatinib arm).
+Cardiovascular events, including arterial vascular occlusive events, were reported in a randomized, clinical trial in newly diagnosed CML patients and observed in the postmarketing reports of patients receiving nilotinib therapy.
+With a median time on therapy of 60 months in the clinical trial, cardiovascular events, including arterial vascular occlusive events, occurred in 9.3% and 15.2% of patients in the Tasigna 300 and 400 mg bid arms, respectively, and in 3.2% in the imatinib arm.
+These included cases of cardiovascular events including ischemic heart disease-related cardiac events (5.0% and 9.4% in the Tasigna 300 mg and 400 mg bid arms respectively, and 2.5% in the imatinib arm), peripheral arterial occlusive disease (3.6% and 2.9% in the Tasigna 300 mg and 400 mg bid arms respectively, and 0% in the imatinib arm), and ischemic cerebrovascular events (1.4% and 3.2% in the Tasigna 300 mg and 400 mg bid arms respectively, and 0.7% in the imatinib arm).
 If acute signs or symptoms of cardiovascular events occur, advise patients to seek immediate medical attention.
 The cardiovascular status of patients should be evaluated and cardiovascular risk factors should be monitored and actively managed during Tasigna therapy according to standard guidelines [see Dosage and Administration (2.2)].
 
@@ -42,12 +43,13 @@ Test serum lipase levels monthly or as clinically indicated.
 ## 5.6 Hepatotoxicity
 
 Tasigna may result in hepatotoxicity as measured by elevations in bilirubin, AST/ALT, and alkaline phosphatase.
-Monitor hepatic function tests monthly or as clinically indicated [see Warnings and Precautions (5.14)].
+Monitor hepatic function tests monthly or as clinically indicated [see Warnings and Precautions (5.15)].
 
 ## 5.7 Electrolyte Abnormalities
 
 The use of Tasigna can cause hypophosphatemia, hypokalemia, hyperkalemia, hypocalcemia, and hyponatremia.
-Electrolyte abnormalities must be corrected prior to initiating Tasigna and these electrolytes should be monitored periodically during therapy [see Warnings and Precautions (5.14)].
+Correct electrolyte abnormalities prior to initiating Tasigna and during therapy.
+Monitor these electrolytes periodically during therapy [see Warnings and Precautions (5.15)].
 
 ## 5.8 Drug Interactions
 
@@ -72,26 +74,43 @@ Tumor lysis syndrome cases have been reported in Tasigna treated patients with r
 Malignant disease progression, high WBC counts and/or dehydration were present in the majority of these cases.
 Due to potential for tumor lysis syndrome, maintain adequate hydration and correct uric acid levels prior to initiating therapy with Tasigna.
 
-## 5.12 Total Gastrectomy
+## 5.12 Hemorrhage
+
+In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Tasigna and imatinib, Grade 3 or 4 hemorrhage occurred in 1.1% of patients in the Tasigna 300 mg bid arm, in 1.8% patients in the Tasigna 400 mg bid arm, and 0.4% of patients in the imatinib arm.
+GI hemorrhage occurred in 2.9% and 5.1% of patients in the Tasigna 300 mg bid and 400 mg bid arms and in 1.4% of patients in the imatinib arm, respectively.
+Grade 3 or 4 events occurred in 0.7% and 1.4% of patients in the Tasigna 300 mg bid and 400 mg bid arms, respectively, and in no patients in the imatinib arm.
+
+## 5.13 Total Gastrectomy
 
 Since the exposure of nilotinib is reduced in patients with total gastrectomy, perform more frequent monitoring of these patients.
-Consider dose increase or alternative therapy in patients with total gastrectomy [see Clinical Pharmacology 12.3)].
+Consider dose increase or alternative therapy in patients with total gastrectomy [see Clinical Pharmacology (12.3)].
 
-## 5.13 Lactose
+## 5.14 Lactose
 
 Since the capsules contain lactose, Tasigna is not recommended for patients with rare hereditary problems of galactose intolerance, severe lactase deficiency with a severe degree of intolerance to lactose-containing products, or of glucose-galactose malabsorption.
 
-## 5.14 Monitoring Laboratory Tests
+## 5.15 Monitoring Laboratory Tests
 
 Complete blood counts should be performed every 2 weeks for the first 2 months and then monthly thereafter.
-Chemistry panels, including electrolytes, calcium, magnesium, lipid profile, and glucose should be checked prior to therapy and periodically.
+Perform chemistry panels, including electrolytes, calcium, magnesium, liver enzymes, lipid profile, and glucose prior to therapy and periodically.
 ECGs should be obtained at baseline, 7 days after initiation and periodically thereafter, as well as following dose adjustments [see Warnings and Precautions (5.2)].
-Laboratory monitoring for patients receiving Tasigna may need to be performed more or less frequently at the physician’s discretion.
+Monitor lipid profiles and glucose periodically during the first year of Tasigna therapy and at least yearly during chronic therapy.
+Should treatment with any HMG-CoA reductase inhibitor (a lipid lowering agent) be needed to treat lipid elevations, evaluate the potential for a drug-drug interaction before initiating therapy as certain HMG-CoA reductase inhibitors are metabolized by the CYP3A4 pathway [see Drug Interactions (7.1)].
+Assess glucose levels before initiating treatment with Tasigna and monitor during treatment as clinically indicated.
+If test results warrant therapy, physician should follow their local standards of practice and treatment guidelines.
 
-## 5.15 Embryo-Fetal Toxicity
+## 5.16 Embryo-Fetal Toxicity
 
 There are no adequate and well controlled studies of Tasigna in pregnant women.
 However, Tasigna may cause fetal harm when administered to a pregnant woman.
 Nilotinib caused embryo-fetal toxicities in animals at maternal exposures that were lower than the expected human exposure at the recommended doses of nilotinib.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of child-bearing potential should avoid becoming pregnant while taking Tasigna [see Use in Specific Populations (8.1)].
+
+## 5.17 Fluid Retention
+
+In the randomized trial in patients with newly diagnosed Ph+ CML in chronic phase, severe (Grade 3 or 4) fluid retention occurred in 3.9% and 2.9% of patients receiving Tasigna 300 mg bid and 400 mg bid, respectively, and in 2.5% of patients receiving imatinib.
+Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema, were observed in 2.2% and 1.1% of patients receiving Tasigna 300 mg bid and 400 mg bid, respectively, and in 2.1% of patients receiving imatinib.
+Effusions were severe (Grade 3 or 4) in 0.7% and 0.4% of patients receiving Tasigna 300 mg bid and 400 mg bid, respectively, and in no patients receiving imatinib.
+Similar events were also observed in postmarketing reports.
+Monitor patients for signs of severe fluid retention (e.g., unexpected rapid weight gain or swelling) and for symptoms of respiratory or cardiac compromise (e.g., shortness of breath) during Tasigna treatment; evaluate etiology and treat patients accordingly.

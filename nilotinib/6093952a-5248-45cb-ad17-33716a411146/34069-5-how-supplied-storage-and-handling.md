@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tasigna (nilotinib) 150 mg capsules are red opaque hard gelatin capsules, size 1 with black axial imprint “NVR/BCR”.
+Tasigna (nilotinib) 150 mg capsules are red opaque hard gelatin capsules, size 1 with black axial imprint “NVR/BCR.”
 Tasigna (nilotinib) 200 mg capsules are light yellow opaque hard gelatin capsules, size 0 with the red axial imprint “NVR/TKI.”
 Tasigna capsules are supplied in blister packs.
 

@@ -7,12 +7,12 @@ In vitro studies also suggest that nilotinib may induce CYP2B6, CYP2C8 and CYP2C
 
 In patients with CML, multiple doses of Tasigna increased the systemic exposure of oral midazolam (a substrate of CYP3A4) 2.6-fold.
 Tasigna is a moderate CYP3A4 inhibitor.
-As a result, the systemic exposure of drugs metabolized by CYP3A4 (e.g., certain HMG-CoA reductase inhibitors) may be increased when co-administered with Tasigna.
-Dose adjustment may be necessary for drugs that are CYP3A4 substrates, especially those that have narrow therapeutic indices (e.g., alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, sirolimus and tacrolimus) when co-administered with Tasigna.
+As a result, the systemic exposure of drugs metabolized by CYP3A4 (e.g., certain HMG-CoA reductase inhibitors) may be increased when coadministered with Tasigna.
+Dose adjustment may be necessary for drugs that are CYP3A4 substrates, especially those that have narrow therapeutic indices (e.g., alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, sirolimus and tacrolimus) when coadministered with Tasigna.
 
 Single-dose administration of Tasigna to healthy subjects did not change the pharmacokinetics and pharmacodynamics of warfarin (a CYP2C9 substrate).
 The ability of multiple doses of Tasigna to induce metabolism of drugs other than midazolam has not been determined in vivo.
-Monitor patients closely when co-administering Tasigna with drugs that have a narrow therapeutic index and are substrates for CYP2B6, CYP2C8, or CYP2C9 enzymes.
+Monitor patients closely when coadministering Tasigna with drugs that have a narrow therapeutic index and are substrates for CYP2B6, CYP2C8, or CYP2C9 enzymes.
 
 Nilotinib inhibits human P-glycoprotein (P-gp).
 If Tasigna is administered with drugs that are substrates of P-gp, increased concentrations of the substrate drug are likely, and caution should be exercised.
@@ -24,7 +24,7 @@ The administration of Tasigna with agents that are strong CYP3A4 inhibitors shou
 Concomitant use of Tasigna with medicinal products and herbal preparations that are potent inducers of CYP3A4 is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, concomitant use of alternative therapeutic agents with less potential for CYP3A4 induction should be selected.
 
-Ketoconazole: In healthy subjects receiving ketoconazole, a CYP3A4 inhibitor, at 400 mg once daily for 6 days, systemic exposure (AUC) to nilotinib was increased approximately 3-fold.
+Ketoconazole: In healthy subjects receiving ketoconazole, a CYP3A4 inhibitor, at 400 mg once-daily for 6 days, systemic exposure (AUC) to nilotinib was increased approximately 3-fold.
 
 Rifampicin: In healthy subjects receiving the CYP3A4 inducer, rifampicin, at 600 mg daily for 12 days, systemic exposure (AUC) to nilotinib was decreased approximately 80%.
 

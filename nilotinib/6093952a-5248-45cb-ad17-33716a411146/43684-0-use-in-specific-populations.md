@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.15)].
+Pregnancy Category D [see Warnings and Precautions (5.16)].
 
 Risk Summary
 
@@ -13,14 +13,14 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Animal Data
 
 Nilotinib was studied for effects on embryo-fetal development in pregnant rats and rabbits given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively, during organogenesis.
-In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
-Nilotinib at doses ≥30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day, a decrease in viable fetuses.
+In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice-daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
+Nilotinib at doses ≥30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice-daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day, a decrease in viable fetuses.
 In rabbits, maternal toxicity at 300 mg/kg/day (approximately one-half the human exposure based on AUC) was associated with mortality, abortion, decreased gestation weights and decreased food consumption.
 Embryonic toxicity (increased resorption) and minor skeletal anomalies were observed at a dose of 300 mg/kg/day.
 Nilotinib is not considered teratogenic.
 
-When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 360 mg/m2 (approximately 0.7 times the clinical dose of 400 mg twice daily based on body surface area).
-At doses up to 120 mg/m2 (approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
+When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 360 mg/m2 (approximately 0.7 times the clinical dose of 400 mg twice-daily based on body surface area).
+At doses up to 120 mg/m2 (approximately 0.25 times the clinical dose of 400 mg twice-daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
 
 ## 8.3 Nursing Mothers
 
