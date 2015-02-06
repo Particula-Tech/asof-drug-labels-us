@@ -1,10 +1,14 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Atenolol Tablets USP 25 mg 100s Label Text
 
 NDC 0093-0787-01
 
-ATENOLOL Tablets USP 25 mg
+ATENOLOL
+
+Tablets USP
+
+25 mg
 
 Rx only
 
@@ -12,13 +16,17 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Atenolol Tablets USP 50 mg 100s Label Text
 
 NDC 0093-0752-01
 
-ATENOLOL Tablets USP 50 mg
+ATENOLOL
+
+Tablets USP
+
+50 mg
 
 Rx only
 
@@ -26,13 +34,17 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Atenolol Tablets USP 100 mg 100s Label Text
 
 NDC 0093-0753-01
 
-ATENOLOL Tablets USP 100 mg
+ATENOLOL
+
+Tablets USP
+
+100 mg
 
 Rx only
 
