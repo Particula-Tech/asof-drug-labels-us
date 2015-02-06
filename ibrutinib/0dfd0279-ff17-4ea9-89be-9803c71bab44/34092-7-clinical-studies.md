@@ -11,9 +11,9 @@ At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marro
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
-Responses to IMBRUVICA are shown in Table 7.
+Responses to IMBRUVICA are shown in Table 9.
 
-Table 7: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
+Table 9: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
 
 |  | Total (N=111) |
 | --- | --- |
@@ -67,21 +67,27 @@ Thirty-two percent of patients had 17p deletion.
 
 Progression free survival (PFS) as assessed by independent review committee (IRC) according to IWCLL criteria indicated a 78% statistically significant reduction in the risk of death or progression.
 Analysis of overall survival (OS) demonstrated a 57% statistically significant reduction in the risk of death for patients in the IMBRUVICA arm.
-Efficacy results for Study 2 are shown in Table 8 and the Kaplan-Meier curves for PFS and OS are shown in Figures 1 and 2, respectively.
+Efficacy results for Study 2 are shown in Table 10 and the Kaplan-Meier curves for PFS and OS are shown in Figures 1 and 2, respectively.
 
-Table 8: Efficacy Results in Study 2
+Table 10: Efficacy Results in Study 2
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
-| Median Progression Free Survival | Not reached | 8.1 months |
-| HR=0.22 [95% CI: 0.15; 0.32] |  |  |
-| Overall SurvivalMedian OS not reached for either arm | HR=0.43 [95% CI: 0.24; 0.79] |  |
+| Progression Free Survival |  |  |
+| Number of events (%) | 35 (17.9) | 111 (56.6) |
+| Median (95% CI), months | Not reached | 8.1 (7.2, 8.3) |
+| HR (95% CI) | 0.22 (0.15, 0.32) |  |
+| Overall SurvivalMedian OS not reached for either arm |  |  |
+| Number of death (%) | 16 (8.2) | 33 (16.8) |
+| HR (95% CI) | 0.43 (0.24, 0.79) |  |
 | Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 42.6% | 4.1% |
 | HR = hazard ratio |  |  |
 
 | Figure 1: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 2 |
 | --- |
+
 | Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Study 2 |
+| --- |
 
 CLL with 17p deletion (del 17p CLL)
 
@@ -89,14 +95,16 @@ Study 2 included 127 patients with del 17p CLL.
 The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 PFS and ORR were assessed by IRC.
-Efficacy results for del 17p CLL are shown in Table 9.
+Efficacy results for del 17p CLL are shown in Table 11.
 
-Table 9: Efficacy Results in Patients with del 17p CLL
+Table 11: Efficacy Results in Patients with del 17p CLL
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
-| Median Progression Free Survival | Not reached | 5.8 months |
-| HR=0.25 [95% CI: 0.14; 0.45] |  |  |
+| Progression Free Survival |  |  |
+| Number of events (%) | 16 (25.4) | 38 (59.4) |
+| Median (95% CI), months | Not reached | 5.8 (5.3, 7.9) |
+| HR (95% CI) | 0.25 (0.14, 0.45) |  |
 | Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 47.6% | 4.7% |
 | HR = hazard ratio |  |  |
 
@@ -104,3 +112,29 @@ Lymphocytosis
 
 Upon initiation of IMBRUVICA, an increase in lymphocyte counts (i.e., ≥ 50% increase from baseline and above absolute lymphocyte count of 5,000/mcL) occurred in 77% of patients in the CLL study.
 The onset of isolated lymphocytosis occurs during the first month of IMBRUVICA therapy and resolves by a median of 23 weeks (range 1 – 104+ weeks).
+
+## 14.3 Waldenström's Macroglobulinemia
+
+The safety and efficacy of IMBRUVICA in WM were evaluated in an open-label, multi-center, single-arm trial of 63 previously treated patients.
+The median age was 63 years (range, 44 to 86 years), 76% were male, and 95% were Caucasian.
+All patients had a baseline ECOG performance status of 0 or 1.
+The median time since diagnosis was 74 months, and the median number of prior treatments was 2 (range, 1 to 11 treatments).
+At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
+
+IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
+The responses were assessed by investigators and an Independent Review Committee (IRC) using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
+Responses, defined as partial response or better, per IRC are shown in Table 12.
+
+Table 12: Response Rate and Duration of Response Based on IRC Assessment in Patients with WM
+
+|  | Total (N=63) |
+| --- | --- |
+| Response rate (CR+VGPR+PR), (%) | 61.9 |
+| 95% CI (%) | (48.8, 73.9) |
+| Complete Response (CR) | 0 |
+| Very Good Partial Response (VGPR), (%) | 11.1 |
+| Partial Response (PR), (%) | 50.8 |
+| Median duration of response, months (range) | NR (2.8+, 18.8+) |
+| CI = confidence interval; NR = not reached |  |
+
+The median time to response was 1.2 months (range: 0.7–13.4 months).

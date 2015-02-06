@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.6)].
+Pregnancy Category D [see Warnings and Precautions (5.7)].
 
 Risk Summary
 
@@ -13,7 +13,7 @@ Animal Data
 
 Ibrutinib was administered orally to pregnant rats during the period of organogenesis at oral doses of 10, 40 and 80 mg/kg/day.
 Ibrutinib at a dose of 80 mg/kg/day was associated with visceral malformations (heart and major vessels) and increased post-implantation loss.
-The dose of 80 mg/kg/day in animals is approximately 14 times the exposure (AUC) in patients with MCL and 20 times the exposure in patients with CLL administered the dose of 560 mg daily and 420 mg daily, respectively.
+The dose of 80 mg/kg/day in animals is approximately 14 times the exposure (AUC) in patients with MCL and 20 times the exposure in patients with CLL or WM administered the dose of 560 mg daily and 420 mg daily, respectively.
 Ibrutinib at doses of 40 mg/kg/day or greater was associated with decreased fetal weights.
 The dose of 40 mg/kg/day in animals is approximately 6 times the exposure (AUC) in patients with MCL administered the dose of 560 mg daily.
 
@@ -36,6 +36,10 @@ Of the 391 patients randomized in Study 2, 61% were ≥ 65 years of age.
 No overall differences in effectiveness were observed between age groups.
 Grade 3 or higher adverse events occurred more frequently among elderly patients treated with IMBRUVICA (61% of patients age ≥ 65 versus 51% of younger patients) [see Clinical Studies (14.2)].
 
+Of the 63 patients treated for WM, 59% were 65 years of age or older.
+No overall differences in effectiveness were observed between these patients and younger patients.
+Cardiac adverse events (atrial fibrillation and hypertension), and infections (pneumonia and urinary tract infection) occurred more frequently among elderly patients.
+
 ## 8.6 Renal Impairment
 
 Less than 1% of ibrutinib is excreted renally.
@@ -44,10 +48,19 @@ There are no data in patients with severe renal impairment (CLcr < 25 mL/min) or
 
 ## 8.7 Hepatic Impairment
 
-Ibrutinib is metabolized in the liver and significant increases in exposure of ibrutinib are expected in patients with hepatic impairment.
-Patients with serum aspartate transaminase (AST/SGOT) or alanine transaminase (ALT/SGPT) ≥ 3.0 × upper limit of normal (ULN) were excluded from IMBRUVICA clinical trials.
-There is insufficient data to recommend a dose of IMBRUVICA in patients with baseline hepatic impairment [see Clinical Pharmacology (12.3)].
+Ibrutinib is metabolized in the liver.
+In a hepatic impairment study, data showed an increase in ibrutinib exposure.
+Following single dose administration, the AUC of ibrutinib increased 2.7-, 8.2- and 9.8-fold in subjects with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment compared to subjects with normal liver function.
+The safety of IMBRUVICA has not been evaluated in patients with hepatic impairment.
+
+Monitor patients for signs of IMBRUVICA toxicity and follow dose modification guidance as needed.
+It is not recommended to administer IMBRUVICA to patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Females and Males of Reproductive Potential
 
 Advise women to avoid becoming pregnant while taking IMBRUVICA because IMBRUVICA can cause fetal harm [see Use in Specific Populations (8.1)].
+
+## 8.9 Plasmapheresis
+
+Management of hyperviscosity in patients with WM may include plasmapheresis before and during treatment with IMBRUVICA.
+Modifications to IMBRUVICA dosing are not required.

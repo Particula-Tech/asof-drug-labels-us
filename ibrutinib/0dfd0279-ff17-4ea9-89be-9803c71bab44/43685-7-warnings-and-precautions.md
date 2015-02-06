@@ -2,6 +2,7 @@
 
 ## 5.1 Hemorrhage
 
+Fatal bleeding events have occurred in patients treated with IMBRUVICA.
 Grade 3 or higher bleeding events (subdural hematoma, gastrointestinal bleeding, hematuria and post procedural hemorrhage) have occurred in up to 6% of patients.
 Bleeding events of any grade, including bruising and petechiae, occurred in approximately half of patients treated with IMBRUVICA.
 
@@ -14,12 +15,14 @@ Consider the benefit-risk of withholding IMBRUVICA for at least 3 to 7 days pre 
 ## 5.2 Infections
 
 Fatal and non-fatal infections have occurred with IMBRUVICA therapy.
-Twenty-five percent of patients with MCL and 26% of patients with CLL had infections Grade 3 or greater NCI Common Terminology Criteria for Adverse Events (CTCAE) [See Adverse Reactions (6.1) and (6.2)].
+Grade 3 or greater infections occurred in 14% to 26% of patients.
+[See Adverse Reactions (6.1)].
+Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients treated with IMBRUVICA.
 Monitor patients for fever and infections and evaluate promptly.
 
 ## 5.3 Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 23 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 9%) occurred in patients treated with IMBRUVICA.
+Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 19 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 9%) occurred in patients treated with IMBRUVICA.
 
 Monitor complete blood counts monthly.
 
@@ -32,13 +35,18 @@ If atrial fibrillation persists, consider the risks and benefits of IMBRUVICA tr
 
 ## 5.5 Second Primary Malignancies
 
-Other malignancies (range, 5 to 10%) including carcinomas (range, 1 to 3%) have occurred in patients treated with IMBRUVICA.
-The most frequent second primary malignancy was non-melanoma skin cancer (range, 4 to 8%).
+Other malignancies (range, 5 to 14%) including non-skin carcinomas (range, 1 to 3%) have occurred in patients treated with IMBRUVICA.
+The most frequent second primary malignancy was non-melanoma skin cancer (range, 4 to 11 %).
 
-## 5.6 Embryo-Fetal Toxicity
+## 5.6 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with IMBRUVICA therapy.
+Monitor patients closely and take appropriate precautions in patients at risk for tumor lysis syndrome (e.g. high tumor burden).
+
+## 5.7 Embryo-Fetal Toxicity
 
 Based on findings in animals, IMBRUVICA can cause fetal harm when administered to a pregnant woman.
-Ibrutinib caused malformations in rats at exposures 14 times those reported in patients with MCL and 20 times those reported in patients with CLL, receiving the ibrutinib dose of 560 mg per day and 420 mg per day, respectively.
+Ibrutinib caused malformations in rats at exposures 14 times those reported in patients with MCL and 20 times those reported in patients with CLL or WM, receiving the ibrutinib dose of 560 mg per day and 420 mg per day, respectively.
 Reduced fetal weights were observed at lower exposures.
 Advise women to avoid becoming pregnant while taking IMBRUVICA.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].

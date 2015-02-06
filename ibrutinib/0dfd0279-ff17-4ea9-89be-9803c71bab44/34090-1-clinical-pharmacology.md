@@ -24,7 +24,7 @@ Administration with food increased ibrutinib Cmax and AUC by approximately 2 to 
 Distribution
 
 Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1000 ng/mL.
-The apparent volume of distribution at steady state (Vd,ss/F) is approximately 10000 L.
+The volume of distribution at steady state (Vd,ss) was 683 L, and the apparent volume of distribution at steady state (Vd,ss/F) was approximately 10000 L.
 
 Metabolism
 
@@ -35,7 +35,8 @@ The range of the mean metabolite to parent ratio for PCI-45227 at steady-state i
 
 Elimination
 
-Apparent clearance (CL/F) is approximately 1000 L/h.
+Intravenous clearance was 62 and 76 L/h in fasted and fed conditions, respectively.
+In line with the high first-pass effect, the apparent oral clearance is approximately 2000 and 1000 L/h in fasted and fed conditions, respectively.
 The half-life of ibrutinib is 4 to 6 hours.
 
 Ibrutinib, mainly in the form of metabolites, is eliminated primarily via feces.
@@ -59,16 +60,17 @@ There are no data in patients with severe renal impairment (CLcr < 25 mL/min) or
 Hepatic Impairment
 
 Ibrutinib is metabolized in the liver.
-No clinical trials have been completed in subjects with impaired hepatic function.
-Preliminary PK data from an ongoing trial in subjects with hepatic impairment indicate that ibrutinib exposure is approximately 6-fold higher in subjects (N=3) with moderate hepatic impairment (Child-Pugh B) compared with mean exposures observed in healthy volunteer trials.
+In a hepatic impairment trial, a single dose of 140 mg of IMBRUVICA was administered in non-cancer subjects.
+Ibrutinib AUC increased 2.7-, 8.2- and 9.8-fold, respectively, in subjects with mild (n=6), moderate (n=10) and severe (n=8) hepatic impairment relative to subjects with normal liver function.
+Ibrutinib Cmax increased 5.2-, 8.8- and 7.0-fold, respectively, in subjects with mild, moderate and severe hepatic impairment relative to subjects with normal liver function [see Use in Specific Populations (8.7)].
 
 Drug Interactions
 
 Coadministration of Ibrutinib with CYP3A Inhibitors
 
-In a sequential design trial of 18 healthy volunteers, a single dose of 120 mg of IMBRUVICA was administered alone on Day 1 and a single dose of 40 mg of IMBRUVICA was administered on Day 7 in combination with 400 mg of ketoconazole (given daily on Days 4 – 9).
+In a sequential design trial of 18 healthy, fasted volunteers, a single dose of 120 mg of IMBRUVICA was administered alone on Day 1 and a single dose of 40 mg of IMBRUVICA was administered on Day 7 in combination with 400 mg of ketoconazole (given daily on Days 4 – 9).
 Ketoconazole increased ibrutinib dose-normalized Cmax and AUC 29-fold and 24-fold, respectively.
-Simulations using physiologically-based pharmacokinetic (PBPK) models suggested that moderate CYP3A inhibitors (diltiazem and erythromycin) may increase the AUC of ibrutinib 6 to 9-fold in fasted condition.
+Simulations using fasted conditions indicate that moderate CYP3A inhibitors diltiazem and erythromycin may increase AUC of ibrutinib by 5- to 8-fold.
 
 Coadministration of Ibrutinib with CYP3A Inducers
 

@@ -12,9 +12,9 @@ Mantle Cell Lymphoma
 
 The recommended dose of IMBRUVICA for MCL is 560 mg (four 140 mg capsules) orally once daily.
 
-Chronic Lymphocytic Leukemia
+Chronic Lymphocytic Leukemia and Waldenström's Macroglobulinemia
 
-The recommended dose of IMBRUVICA for CLL is 420 mg (three 140 mg capsules) orally once daily.
+The recommended dose of IMBRUVICA for CLL and WM is 420 mg (three 140 mg capsules) orally once daily.
 
 ## 2.3 Dose Modifications for Adverse Reactions
 
@@ -26,7 +26,7 @@ If these toxicities persist or recur following two dose reductions, discontinue 
 
 Recommended dose modifications are described below:
 
-| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL Dose Modification After Recovery Starting Dose = 420 mg |
+| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL and WM Dose Modification After Recovery Starting Dose = 420 mg |
 | --- | --- | --- |
 | First | Restart at 560 mg daily | Restart at 420 mg daily |
 | Second | Restart at 420 mg daily | Restart at 280 mg daily |
@@ -40,11 +40,16 @@ Avoid co-administration with strong or moderate CYP3A inhibitors and consider al
 Concomitant use of strong CYP3A inhibitors which would be taken chronically (e.g., ritonavir, indinavir, nelfinavir, saquinavir, boceprevir, telaprevir, nefazodone) is not recommended.
 For short-term use (treatment for 7 days or less) of strong CYP3A inhibitors (e.g., antifungals and antibiotics) consider interrupting IMBRUVICA therapy until the CYP3A inhibitor is no longer needed [see Drug Interactions (7.1)].
 
-Reduce IMBRUVICA dose to 140 mg if a moderate CYP3A inhibitor must be used (e.g., fluconazole, darunavir, erythromycin, diltiazem, atazanavir, aprepitant, amprenavir, fosamprevir, crizotinib, imatinib, verapamil, grapefruit products and ciprofloxacin) [see Drug Interactions (7.1)].
+Reduce IMBRUVICA dose to 140 mg if a moderate CYP3A inhibitor must be used (e.g., fluconazole, darunavir, erythromycin, diltiazem, atazanavir, aprepitant, amprenavir, fosamprevir, crizotinib, imatinib, verapamil, and ciprofloxacin) [see Drug Interactions (7.1)].
 
 Patients taking concomitant strong or moderate CYP3A inhibitors should be monitored more closely for signs of IMBRUVICA toxicity.
 
-## 2.5 Missed Dose
+## 2.5 Dose Modifications for Use in Hepatic Impairment
+
+For patients with mild liver impairment (Child-Pugh class A), the recommended dose is 140 mg daily (one capsule).
+Avoid the use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh classes B and C) [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+## 2.6 Missed Dose
 
 If a dose of IMBRUVICA is not taken at the scheduled time, it can be taken as soon as possible on the same day with a return to the normal schedule the following day.
 Extra capsules of IMBRUVICA should not be taken to make up for the missed dose.

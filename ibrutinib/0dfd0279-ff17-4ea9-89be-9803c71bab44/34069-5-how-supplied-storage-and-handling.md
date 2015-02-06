@@ -7,4 +7,4 @@ The white opaque 140 mg capsules marked with "ibr 140 mg" in black ink are avail
 
 Store bottles at room temperature 20°C to 25°C (68°F to 77°F).
 Excursions are permitted between 15°C and 30°C (59°F to 86°F).
-Retain in original package.
+Retain in original package until dispensing.

@@ -7,14 +7,17 @@ The following adverse reactions are discussed in more detail in other sections o
 - Cytopenias [see Warnings and Precautions (5.3)]
 - Atrial Fibrillation [see Warnings and Precautions (5.4)]
 - Second Primary Malignancies [see Warnings and Precautions (5.5)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.6)]
 
 Because clinical trials are conducted under widely variable conditions, adverse event rates observed in clinical trials of a drug cannot be directly compared with rates of clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Mantle Cell Lymphoma
+## 6.1 Clinical Trials Experience
+
+Mantle Cell Lymphoma
 
 The data described below reflect exposure to IMBRUVICA in a clinical trial that included 111 patients with previously treated MCL treated with 560 mg daily with a median treatment duration of 8.3 months.
 
-The most commonly occurring adverse reactions (≥ 20%) were thrombocytopenia, diarrhea, neutropenia, anemia, fatigue, musculoskeletal pain, peripheral edema, upper respiratory tract infection, nausea, bruising, dyspnea, constipation, rash, abdominal pain, vomiting and decreased appetite (See Tables 1 and 2).
+The most commonly occurring adverse reactions (≥ 20%) were thrombocytopenia, diarrhea, neutropenia, anemia, fatigue, musculoskeletal pain, peripheral edema, upper respiratory tract infection, nausea, bruising, dyspnea, constipation, rash, abdominal pain, vomiting and decreased appetite (see Tables 1 and 2).
 
 The most common Grade 3 or 4 non-hematological adverse reactions (≥ 5%) were pneumonia, abdominal pain, atrial fibrillation, diarrhea, fatigue, and skin infections.
 
@@ -76,13 +79,13 @@ However, some of these cases were in the setting of disease progression.
 Forty percent of patients had elevated uric acid levels on study including 13% with values above 10 mg/dL.
 Adverse reaction of hyperuricemia was reported for 15% of patients.
 
-## 6.2 Chronic Lymphocytic Leukemia
+Chronic Lymphocytic Leukemia
 
 The data described below reflect exposure to IMBRUVICA in an open label clinical trial (Study 1) that included 48 patients with previously treated CLL and a randomized clinical trial (Study 2) that included 391 randomized patients with previously treated CLL or SLL.
 
 The most commonly occurring adverse reactions in Study 1 and Study 2 (≥ 20%) were thrombocytopenia, neutropenia, diarrhea, anemia, fatigue, musculoskeletal pain, upper respiratory tract infection, rash, nausea, and pyrexia.
 
-Approximately five percent of patients receiving IMBRUVICA in Study 1 and 2 discontinued treatment due to adverse events.
+Approximately five percent of patients receiving IMBRUVICA in Study 1 and Study 2 discontinued treatment due to adverse events.
 These included infections, subdural hematomas and diarrhea.
 Adverse events leading to dose reduction occurred in approximately 6% of patients.
 
@@ -187,3 +190,56 @@ Table 6: Treatment-EmergentBased on laboratory measurements per IWCLL criteria D
 | Neutrophils Decreased | 51 | 23 | 57 | 26 |
 | Platelets Decreased | 52 | 5 | 45 | 10 |
 | Hemoglobin Decreased | 36 | 0 | 21 | 0 |
+
+Waldenström's Macroglobulinemia
+
+The data described below reflect exposure to IMBRUVICA in an open label clinical trial that included 63 patients with previously treated WM.
+
+The most commonly occurring adverse reactions in the WM trial (≥ 20%) were neutropenia, thrombocytopenia, diarrhea, rash, nausea, muscle spasms, and fatigue.
+
+Six percent of patients receiving IMBRUVICA in the WM trial discontinued treatment due to adverse events.
+Adverse events leading to dose reduction occurred in 11% of patients.
+
+Adverse reactions and laboratory abnormalities described below in Tables 7 and 8 reflect exposure to IMBRUVICA with a median duration of 11.7 months in the WM trial.
+
+Table 7: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with Waldenström's Macroglobulinemia (N=63)
+
+| System Organ Class | Preferred Term | All Grades (%) | Grade 3 or 4 (%) |
+| --- | --- | --- | --- |
+| Gastrointestinal disorders | Diarrhea | 37 | 0 |
+|  | Nausea | 21 | 0 |
+|  | StomatitisIncludes multiple ADR terms. | 16 | 0 |
+|  | Gastroesophageal reflux disease | 13 | 0 |
+| Skin and subcutaneous tissue disorders | Rash | 22 | 0 |
+| Bruising | 16 | 0 |  |
+| Pruritus | 11 | 0 |  |
+| General disorders and administrative site conditions | Fatigue | 21 | 0 |
+| Musculoskeletal and connective tissue disorders | Muscle spasms | 21 | 0 |
+| Arthropathy | 13 | 0 |  |
+| Infections and infestations | Upper respiratory tract infection | 19 | 0 |
+| Sinusitis | 19 | 0 |  |
+| Pneumonia | 14 | 6 |  |
+| Skin infection | 14 | 2 |  |
+| Respiratory, thoracic and mediastinal disorders | Epistaxis | 19 | 0 |
+| Cough | 13 | 0 |  |
+| Nervous system disorders | Dizziness | 14 | 0 |
+|  | Headache | 13 | 0 |
+| Neoplasms benign, malignant, and unspecified (including cysts and polyps) | Skin cancer | 11 | 0 |
+| The system organ class and individual ADR terms are sorted in descending frequency order. |  |  |  |
+
+Table 8: Treatment-EmergentBased on laboratory measurements.
+Decrease of Hemoglobin, Platelets, or Neutrophils in Patients with WM (N=63)
+
+| All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- |
+|  | Percent of Patients (N=63) |  |
+| Platelets Decreased | 43 | 13 |
+| Neutrophils Decreased | 44 | 19 |
+| Hemoglobin Decreased | 13 | 8 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of IMBRUVICA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypersensitivity reactions including anaphylactic shock (fatal), urticaria, and angioedema have been reported.
