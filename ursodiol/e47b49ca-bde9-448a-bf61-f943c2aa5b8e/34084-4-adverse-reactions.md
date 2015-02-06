@@ -45,33 +45,33 @@ Figure 2
 
 Figure 3
 
-| GALLSTONE PREVENTION |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Ursodiol600 mg(N=322) |  | Placebo(N=325) |  |
-|  | N | (%) | N | (%) |
-| Body as a Whole |  |  |  |  |
-| Fatigue | 25 | (7.8) | 33 | (10.2) |
-| Infection Viral | 29 | (9.0) | 29 | (8.9) |
-| Influenza-like Symptoms | 21 | (6.5) | 19 | (5.8) |
-| Digestive System |  |  |  |  |
-| Abdominal Pain | 20 | (6.2) | 39 | (12.0) |
-| Constipation | 85 | (26.4) | 72 | (22.2) |
-| Diarrhea | 81 | (25.2) | 68 | (20.9) |
-| Flatulence | 15 | (4.7) | 24 | (7.4) |
-| Nausea | 56 | (17.4) | 43 | (13.2) |
-| Vomiting | 44 | (13.7) | 44 | (13.5) |
-| Musculoskeletal System |  |  |  |  |
-| Back Pain | 38 | (11.8) | 21 | (6.5) |
-| Musculoskeletal Pain | 19 | (5.9) | 15 | (4.6) |
-| Nervous System |  |  |  |  |
-| Dizziness | 53 | (16.5) | 42 | (12.9) |
-| Headache | 80 | (24.8) | 78 | (24.0) |
-| Respiratory System |  |  |  |  |
-| Pharyngitis | 10 | (3.1) | 19 | (5.8) |
-| Sinusitis | 17 | (5.3) | 18 | (5.5) |
-| Upper Respiratory Tract Infection | 40 | (12.4) | 35 | (10.8) |
-| Skin and Appendages |  |  |  |  |
-| Alopecia | 17 | (5.3) | 8 | (2.5) |
-| Urogenital System |  |  |  |  |
-| Dysmenorrhea | 18 | (5.6) | 19 | (5.8) |
-| Gallstone Prevention in Ursodiol and Placebo-Treated Patients |  |  |  |  |
+| GALLSTONE PREVENTION |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Ursodiol600 mg(N=322) |  | Placebo(N=325) |  |  |  |  |  |  |
+|  | N | (%) | N | (%) |  |  |  |  |  |
+| Body as a Whole |  |  |  |  |  |  |  |  |  |
+| Fatigue | 25 | (7.8) | 33 | (10.2) |  |  |  |  |  |
+| Infection Viral | 29 | (9.0) | 29 | (8.9) |  |  |  |  |  |
+| Influenza-like Symptoms | 21 | (6.5) | 19 | (5.8) |  |  |  |  |  |
+| Digestive System |  |  |  |  |  |  |  |  |  |
+| Abdominal Pain | 20 | (6.2) | 39 | (12.0) |  |  |  |  |  |
+| Constipation | 85 | (26.4) | 72 | (22.2) |  |  |  |  |  |
+| Diarrhea | 81 | (25.2) | 68 | (20.9) |  |  |  |  |  |
+| Flatulence | 15 | (4.7) | 24 | (7.4) |  |  |  |  |  |
+| Nausea | 56 | (17.4) | 43 | (13.2) |  |  |  |  |  |
+| Vomiting | 44 | (13.7) | 44 | (13.5) |  |  |  |  |  |
+| Musculoskeletal System |  |  |  |  |  |  |  |  |  |
+| Back Pain | 38 | (11.8) | 21 | (6.5) |  |  |  |  |  |
+| Musculoskeletal Pain | 19 | (5.9) | 15 | (4.6) |  |  |  |  |  |
+| Nervous System |  |  |  |  |  |  |  |  |  |
+| Dizziness | 53 | (16.5) | 42 | (12.9) |  |  |  |  |  |
+| Headache | 80 | (24.8) | 78 | (24.0) |  |  |  |  |  |
+| Respiratory System |  |  |  |  |  |  |  |  |  |
+| Pharyngitis | 10 | (3.1) | 19 | (5.8) |  |  |  |  |  |
+| Sinusitis | 17 | (5.3) | 18 | (5.5) |  |  |  |  |  |
+| Upper Respiratory Tract Infection | 40 | (12.4) | 35 | (10.8) |  |  |  |  |  |
+| Skin and Appendages |  |  |  |  |  |  |  |  |  |
+| Alopecia | 17 | (5.3) | 8 | (2.5) |  |  |  |  |  |
+| Urogenital System |  |  |  |  |  |  |  |  |  |
+| Dysmenorrhea | 18 | (5.6) | 19 | (5.8) |  |  |  |  |  |
+| Gallstone Prevention in Ursodiol and Placebo-Treated Patients |  |  |  |  |  |  |  |  |  |
