@@ -24,7 +24,7 @@ Before you start taking NovoLog, talk to your healthcare provider about low bloo
 
 How should I take NovoLog?
 
-- •Read theInstructions for Use that come with your NovoLog.
+- •Read the Instructions for Use that come with your NovoLog.
 - •Take NovoLog exactly as your healthcare provider tells you to.
 - •NovoLog starts acting fast.
   You should eat a meal within 5 to 10 minutes after you take your dose of NovoLog.
@@ -144,7 +144,8 @@ Step 1: Pull off the tamper resistant cap (See Figure A).
 
 Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
 
-Step 3: Hold the syringe with the needle pointing up.Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure C).
+Step 3: Hold the syringe with the needle pointing up.
+Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure C).
 
 Step 4: Push the needle through the rubber stopper of the NovoLog® vial (See Figure D).
 
@@ -166,7 +167,7 @@ Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
 - •Inject your NovoLog® exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •NovoLog® can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump, or given through a needle in your arm (intravenously) by your healthcare provider.
-- •If you inject NovoLog®,change (rotate) your injection sites within the area you choose for each dose.
+- •If you inject NovoLog®, change (rotate) your injection sites within the area you choose for each dose.
   Do not use the same injection site for each injection.
 - •If you use NovoLog® in an insulin pump, you should change your insertion site every 3 days.
   The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
@@ -345,7 +346,7 @@ Plainsboro, New Jersey 08536
 
 PATIENT INSTRUCTIONS FOR USE
 
-NovoLog® (NŌ-vō-log)FlexTouch® Pen
+NovoLog® (NŌ-vō-log) FlexTouch® Pen
 
 (insulin aspart [rDNA origin] injection)
 
@@ -358,7 +359,7 @@ NovoLog® (NŌ-vō-log)FlexTouch® Pen
 Supplies you will need to give your NovoLog injection:
 
 - •NovoLog FlexTouch Pen
-- •a new NovoFine or NovoTwist needle
+- •a new NovoFine, NovoFine Plus or NovoTwist needle
 - •alcohol swab
 - •1 sharps container for throwing away used Pens and needles.
   See “Disposing of used NovoLog FlexTouch Pens and needles” at the end of these instructions.
@@ -451,20 +452,21 @@ Step 10:
 (Figure K)
 
 - •The NovoLog FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L).
+
+(Figure L)
+
 - •To see how much insulin is left in your NovoLog FlexTouch Pen:
   - •Turn the dose selector until it stops.
     The dose counter will line up with the number of units of insulin that is left in your Pen.
     If the dose counter shows 80, there are at least 80 units left in your Pen.
   - •If the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen.
 
-(Figure L)
-
 Giving your injection:
 
 - •Inject your NovoLog exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •NovoLog can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs) or upper arms.
-- •Change (rotate) your injection sites within the area you choose for each dose.
+- •For each injection, change (rotate) your injection site within the area of skin that you use.
   Do not use the same injection site for each injection.
 
 Step 11:
@@ -532,7 +534,7 @@ Step 16:
 
 After your injection:
 
-- •Put your used NovoLog FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
+- •You can put your used NovoLog FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - •made of a heavy-duty plastic
@@ -542,7 +544,7 @@ After your injection:
   - •properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
 - •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
@@ -564,13 +566,13 @@ General Information about the safe and effective use of NovoLog.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By:
+Manufactured by:
 
 Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 10/2013
+Revised: 01/2015
 
 PATIENT INSTRUCTIONS FOR USE
 

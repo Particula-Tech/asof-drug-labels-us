@@ -87,7 +87,7 @@ Single patient use only
 
 Recommended for use with
 
-NovoFine® or NovoTwist® disposable needles.
+NovoFine®, NovoFine Plus® or NovoTwist® disposable needles.
 
 Keep in a cold place until first use.
 
