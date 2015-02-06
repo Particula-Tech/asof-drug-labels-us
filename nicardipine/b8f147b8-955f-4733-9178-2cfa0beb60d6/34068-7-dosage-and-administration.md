@@ -8,9 +8,9 @@ At least three days should be allowed before increasing the nicardipine hydrochl
 
 Concomitant Use With Other Antianginal Agents
 
-1. Sublingual NTG - may be taken as required to abort acute anginal attacks during nicardipine therapy.
-2. Prophylactic Nitrate Therapy - nicardipine may be safely coadministered with short- and long-acting nitrates
-3. Beta-blockers - (See PRECAUTIONS, Drug Interactions.)
+- 1.Sublingual NTG - may be taken as required to abort acute anginal attacks during nicardipine therapy.
+- 2.Prophylactic Nitrate Therapy - nicardipine may be safely coadministered with short- and long-acting nitrates
+- 3.Beta-blockers - (See PRECAUTIONS, Drug Interactions.)
 
 ## Hypertension
 
