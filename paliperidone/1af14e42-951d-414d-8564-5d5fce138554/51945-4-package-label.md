@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 39 mg Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 39 mg Syringe Carton
 
 NDC 50458-560-01 For Single Use Only - Use Entire Content of Syringe
 
@@ -8,13 +8,17 @@ INVEGA® SUSTENNA® paliperidone palmitate extended-release injectable suspensio
 
 FOR INTRAMUSCULAR INJECTION ONLY Shake before using Rx Only
 
+For administration by a healthcare professional only.
+
 CONTENTS: 1 prefilled syringe and 2 needles (a 22G, 1½-inch safety needle and a 23G, 1-inch safety needle)
+
+Store at room temperature (77°F; 25°C); Excursions between 59°F and 86°F (15°C - 30°C) are permitted.
 
 For initiation and monthly maintenance dosing instructions, please see accompanying full Package Insert.
 
-Janssen
+janssen
 
-PRINCIPAL DISPLAY PANEL - 78 mg Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 78 mg Syringe Carton
 
 NDC 50458-561-01 For Single Use Only - Use Entire Content of Syringe
 
@@ -24,13 +28,17 @@ INVEGA® SUSTENNA® paliperidone palmitate extended-release injectable suspensio
 
 FOR INTRAMUSCULAR INJECTION ONLY Shake before using Rx Only
 
+For administration by a healthcare professional only.
+
 CONTENTS: 1 prefilled syringe and 2 needles (a 22G, 1½-inch safety needle and a 23G, 1-inch safety needle)
+
+Store at room temperature (77°F; 25°C); Excursions between 59°F and 86°F (15°C - 30°C) are permitted.
 
 For initiation and monthly maintenance dosing instructions, please see accompanying full Package Insert.
 
-Janssen
+janssen
 
-PRINCIPAL DISPLAY PANEL - 117 mg Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 117 mg Syringe Carton
 
 NDC 50458-562-01 For Single Use Only - Use Entire Content of Syringe
 
@@ -40,13 +48,17 @@ INVEGA® SUSTENNA® paliperidone palmitate extended-release injectable suspensio
 
 FOR INTRAMUSCULAR INJECTION ONLY Shake before using Rx Only
 
+For administration by a healthcare professional only.
+
 CONTENTS: 1 prefilled syringe and 2 needles (a 22G, 1½-inch safety needle and a 23G, 1-inch safety needle)
+
+Store at room temperature (77°F; 25°C); Excursions between 59°F and 86°F (15°C - 30°C) are permitted.
 
 For initiation and monthly maintenance dosing instructions, please see accompanying full Package Insert.
 
-Janssen
+janssen
 
-PRINCIPAL DISPLAY PANEL - 156 mg Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 156 mg Syringe Carton
 
 NDC 50458-563-01 For Single Use Only - Use Entire Content of Syringe
 
@@ -56,13 +68,17 @@ INVEGA® SUSTENNA® paliperidone palmitate extended-release injectable suspensio
 
 FOR INTRAMUSCULAR INJECTION ONLY Shake before using Rx Only
 
+For administration by a healthcare professional only.
+
 CONTENTS: 1 prefilled syringe and 2 needles (a 22G, 1½-inch safety needle and a 23G, 1-inch safety needle)
+
+Store at room temperature (77°F; 25°C); Excursions between 59°F and 86°F (15°C - 30°C) are permitted.
 
 For initiation and monthly maintenance dosing instructions, please see accompanying full Package Insert.
 
-Janssen
+janssen
 
-PRINCIPAL DISPLAY PANEL - 234 mg Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 234 mg Syringe Carton
 
 NDC 50458-564-01 For Single Use Only - Use Entire Content of Syringe
 
@@ -72,8 +88,12 @@ INVEGA® SUSTENNA® paliperidone palmitate extended-release injectable suspensio
 
 FOR INTRAMUSCULAR INJECTION ONLY Shake before using Rx Only
 
+For administration by a healthcare professional only.
+
 CONTENTS: 1 prefilled syringe and 2 needles (a 22G, 1½-inch safety needle and a 23G, 1-inch safety needle)
+
+Store at room temperature (77°F; 25°C); Excursions between 59°F and 86°F (15°C - 30°C) are permitted.
 
 For initiation and monthly maintenance dosing instructions, please see accompanying full Package Insert.
 
-Janssen
+janssen

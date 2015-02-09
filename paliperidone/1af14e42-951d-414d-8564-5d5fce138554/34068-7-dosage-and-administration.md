@@ -172,5 +172,5 @@ INVEGA® SUSTENNA® is for single use only.
 
 |  | h1 |
 | --- | --- |
-| h2 |  |
-| h3 |  |
+|  | h2 |
+|  | h3 |
