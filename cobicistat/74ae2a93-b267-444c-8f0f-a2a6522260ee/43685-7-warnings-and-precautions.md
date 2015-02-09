@@ -53,11 +53,24 @@ STRIBILD is indicated for use as a complete regimen for the treatment of HIV-1 i
 
 STRIBILD is not recommended for coadministration with the following:
 
-- emtricitabine or tenofovir DF (ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, VIREAD);
-- products containing lamivudine (COMBIVIR, EPIVIR, EPIVIR-HBV, EPZICOM, TRIZIVIR) or adefovir dipivoxil (HEPSERA);
-- ritonavir (NORVIR, KALETRA).
+- cobicistat (TYBOST);
+- elvitegravir (VITEKTA);
+- products containing emtricitabine or tenofovir DF (ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, VIREAD);
+- products containing lamivudine (COMBIVIR, EPIVIR, EPIVIR-HBV, EPZICOM, TRIUMEQ, TRIZIVIR);
+- adefovir dipivoxil (HEPSERA);
+- products containing ritonavir (NORVIR, KALETRA)
 
-## 5.5 Bone Effects of Tenofovir DF
+## 5.5 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+
+The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), Drug Interactions (7.5)]:
+
+- Loss of therapeutic effect of STRIBILD and possible development of resistance.
+- Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
+
+See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.5)].
+Consider the potential for drug interactions prior to and during STRIBILD therapy; review concomitant medications during STRIBILD therapy; and monitor for the adverse reactions associated with the concomitant drugs.
+
+## 5.6 Bone Effects of Tenofovir DF
 
 Bone Mineral Density:
 
@@ -76,13 +89,13 @@ Cases of osteomalacia associated with proximal renal tubulopathy, manifested as 
 Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
 Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [see Warnings and Precautions (5.3)].
 
-## 5.6 Fat Redistribution
+## 5.7 Fat Redistribution
 
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 
-## 5.7 Immune Reconstitution Syndrome
+## 5.8 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including STRIBILD.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.

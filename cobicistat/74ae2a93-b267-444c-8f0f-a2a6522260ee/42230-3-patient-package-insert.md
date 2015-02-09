@@ -52,19 +52,25 @@ For more information about side effects, see the section "What are the possible 
 
 What is STRIBILD?
 
-STRIBILD is a prescription medicine that is used without other antiretroviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in adults who have never taken HIV-1 medicines before.
+STRIBILD is a prescription medicine that is used without other antiretroviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in adults:
+
+- who have not received anti-HIV-1 medicines in the past, or
+- to replace their current anti-HIV-1 medcines:
+  - in people who have been on the same anti-HIV-1 medicine regimen for at least 6 months, and
+  - who have an amount of HIV-1 in their blood (this is called 'viral load') that is less than 50 copies/mL, and
+  - have never failed past HIV-1 treatment.
+
 HIV-1 is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
-STRIBILD contains the prescription medicines elvitegravir, cobicistat, emtricitabine (EMTRIVA®) and tenofovir disoproxil fumarate (VIREAD®).
+STRIBILD contains the prescription medicines elvitegravir (VITEKTA), cobicistat (TYBOST), emtricitabine (EMTRIVA®) and tenofovir disoproxil fumarate (VIREAD®).
 
 It is not known if STRIBILD is safe and effective in children under 18 years of age.
 
 When used to treat HIV-1 infection, STRIBILD may:
 
 - Reduce the amount of HIV-1 in your blood.
-  This is called "viral load".
 - Increase the number of CD4+ (T) cells in your blood that help fight off other infections.
-- Reduce the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may help improve your immune system.
+- Reducing the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may help improve your immune system.
   This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
 STRIBILD does not cure HIV-1 infections or AIDS.
@@ -91,7 +97,7 @@ Do not take STRIBILD if you also take a medicine that contains:
   - ergotamine tartrate (CAFERGOT®, MIGERGOT®,ERGOSTAT®, MEDIHALER ERGOTAMINE®, WIGRAINE®, WIGRETTES®)
   - methylergonovine maleate (ERGOTRATE®, METHERGINE®)
 - lovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
-- oral midazolam
+- midazolam, when taken by mouth
 - pimozide (ORAP®)
 - rifampin (RIFADIN®, RIFAMATE®, RIFATER®, RIMACTANE®)
 - sildenafil (REVATIO®), when used for treating the lung problem, pulmonary arterial hypertension (PAH)
@@ -122,20 +128,21 @@ Before taking STRIBILD, tell your healthcare provider if you:
 
 Talk with your healthcare provider about the best way to feed your baby.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
 STRIBILD may affect the way other medicines work, and other medicines may affect how STRIBILD works.
 
 You should not take STRIBILD if you also take:
 
 - any other medicines to treat HIV-1 infection
 - other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, VIREAD®, TRUVADA®)
-- other medicines that contain emtricitabine or lamivudine (ATRIPLA®, COMPLERA®, TRUVADA®, COMBIVIR®, EMTRIVA®, EPIVIR® or EPIVIR-HBV®, EPZICOM®, TRIZIVIR®)
+- other medicines that contain cobicistat (TYBOST®) or elvitegravir (VITEKTA®)
+- other medicines that contain emtricitabine or lamivudine (ATRIPLA®, COMPLERA®, TRUVADA®, COMBIVIR®, EMTRIVA®, EPIVIR® or EPIVIR-HBV®, EPZICOM®, TRIUMEQ®, TRIZIVIR®,)
 - adefovir (HEPSERA®)
 - ritonavir (NORVIR®, KALETRA®)
 
 Especially tell your healthcare provider if you take:
 
-- hormone-based contraceptives (birth control pills and patches)
+- hormone-based contraceptives (such as birth control pills, vaginal rings, injections, and patches)
 - an antacid medicine that contains aluminum, magnesium hydroxide, or calcium carbonate.
   Take antacids at least 2 hours before or after you take STRIBILD.
 - medicines to treat depression
@@ -178,7 +185,6 @@ Especially tell your healthcare provider if you take:
   - sildenafil (VIAGRA®), tadalafil (CIALIS®) or vardenafil (LEVITRA®, STAXYN®), for the treatment of erectile dysfunction (ED).
     If you get dizzy or faint (low blood pressure), have vision changes or have an erection that last longer than 4 hours, call your healthcare provider or get medical help right away.
   - tadalafil (ADCIRCA®), for the treatment of pulmonary arterial hypertension
-  - telithromycin (KETEK®)
   - thioridazine
   - voriconazole (VFEND®)
   - warfarin (COUMADIN®, JANTOVEN®)
@@ -193,7 +199,7 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 How should I take STRIBILD?
 
 - Take STRIBILD exactly as your healthcare provider tells you to take it.
-  STRIBILD is taken by itself (not with other antiretroviral medicines) to treat HIV-1 infection.
+  STRIBILD is taken by itself (not with other anti-HIV medicines) to treat HIV-1 infection.
 - STRIBILD is usually taken 1 time each day.
 - Take STRIBILD with food.
 - Do not change your dose or stop taking STRIBILD without first talking with your healthcare provider.
@@ -237,7 +243,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of STRIBILD.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store STRIBILD?
@@ -273,10 +279,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Issued: August 2014
+Revised: 12/2014
 
-COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
+COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, TYBOST, VIREAD, and VITEKTA are trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-203100-GS-003
+203100-GS-004

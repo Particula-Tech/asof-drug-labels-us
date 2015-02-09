@@ -33,10 +33,10 @@ Patients should be advised that:
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of STRIBILD.
   STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high dose or multiple NSAIDs) [see Warnings and Precautions (5.3)].
 - STRIBILD should not be coadministered with other antiretroviral products because it provides a complete treatment regimen and because of potential drug interactions [see Warnings and Precautions (5.4) and Drug Interactions (7)].
-- STRIBILD should not be administered in combination with ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, or VIREAD; with drugs containing lamivudine, including COMBIVIR, EPIVIR or EPIVIR-HBV, EPZICOM, or TRIZIVIR; with drugs containing RTV or regimens containing RTV; or with HEPSERA [see Warnings and Precautions (5.4)].
+- STRIBILD should not be administered in combination with ATRIPLA, COMPLERA, EMTRIVA, TRUVADA, TYBOST, VIREAD, or VITEKTA; with drugs containing lamivudine, including COMBIVIR, EPIVIR or EPIVIR-HBV, EPZICOM, TRIUMEQ, or TRIZIVIR; with drugs containing RTV or regimens containing RTV; or with HEPSERA [see Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of STRIBILD.
-  Assessment of bone mineral density (BMD) should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.5)].
-- Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [see Warnings and Precautions (5.6)].
+  Assessment of bone mineral density (BMD) should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.6)].
+- Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [see Warnings and Precautions (5.7)].
 - In some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
   It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-  Patients should be advised to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.7)].
+  Patients should be advised to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.8)].

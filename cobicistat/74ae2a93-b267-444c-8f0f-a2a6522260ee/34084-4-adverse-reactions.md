@@ -5,12 +5,14 @@ The following adverse drug reactions are discussed in other sections of the labe
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
 - Severe Acute Exacerbations of Hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.3)].
-- Bone Effects of Tenofovir DF [see Warnings and Precautions (5.5)].
-- Immune Reconstitution Syndrome [see Warnings and Precautions (5.7)].
+- Bone Effects of Tenofovir DF [see Warnings and Precautions (5.6)].
+- Immune Reconstitution Syndrome [see Warnings and Precautions (5.8)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+In HIV-1-Infected Subjects With No Antiretroviral Treatment History
 
 The safety assessment of STRIBILD is based on the Week 144 pooled data from 1408 subjects in two randomized, double-blind, active-controlled clinical trials, Study 102 and Study 103, in antiretroviral treatment-naïve HIV-1 infected adult subjects [see Clinical Studies (14)].
 A total of 701 subjects received STRIBILD once daily in these two studies.
@@ -47,6 +49,13 @@ See Warnings and Precautions (5.3), for a discussion of renal adverse reactions 
 
 Additional adverse drug reactions observed with STRIBILD included suicidal ideation and suicide attempt (0.3%), all in subjects with a pre-existing history of depression or psychiatric illness.
 
+In Virologically-Suppressed HIV-1-Infected Subjects
+
+No new adverse reactions to STRIBILD through Week 48 were identified in 584 virologically stably suppressed subjects switching to STRIBILD from a regimen containing a RTV-boosted protease inhibitor (PI) or a non-nucleoside reverse transcriptase inhibitor (NNRTI).
+In a combined analysis of Studies 115 and 121, the frequency of adverse reactions (all grades) was 24% in subjects switching to STRIBILD compared to 6% of subjects in either group who stayed on their baseline antiretroviral regimen, RTV-boosted PI + TRUVADA or NNRTI + TRUVADA.
+Common adverse reactions that occurred in greater than or equal to 2% of subjects switching to STRIBILD were nausea (4%), flatulence (2%), and headache (2%).
+The proportion of subjects who discontinued treatment with STRIBILD, the RTV-boosted PI, or the NNRTI due to adverse events, was 2%, 3% and 1%, respectively.
+
 Adverse Reactions from Clinical Trials of the Components of STRIBILD
 
 Emtricitabine and Tenofovir Disoproxil Fumarate: In addition to the adverse reactions observed with STRIBILD, the following adverse reactions occurred in at least 5% of treatment-experienced or treatment-naïve subjects receiving emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: depression, abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
@@ -80,7 +89,7 @@ The cobicistat component of STRIBILD has been shown to increase serum creatinine
 In Studies 102 and 103, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment with STRIBILD, after which they stabilized.
 Table 4 displays the mean changes in serum creatinine and eGFR levels at Week 144 and the percentage of subjects with elevations in serum creatinine (All Grades).
 
-Table 4 Change from Baseline in Serum Creatinine and eGFR and Incidence of Elevated Serum Creatinine (All Grades) at Week 144
+Table 4 Change from Baseline in Serum Creatinine and eGFR and Incidence of Elevated Serum Creatinine (All Grades) in Studies 102 and 103 at Week 144
 
 |  | STRIBILD (N=701) | ATRIPLA (N=352) | ATV + RTV + TRUVADA (N=355) |
 | --- | --- | --- | --- |
@@ -108,8 +117,8 @@ Table 5 Lipid Values, Mean Change from Baseline at Week 144 in Subjects Receivin
 
 ## 6.2 Postmarketing Experience
 
-Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following adverse reactions have been identified during post approval use of tenofovir DF.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 No additional postmarketing adverse reactions specific for emtricitabine have been identified.
 
 Immune System Disorders
