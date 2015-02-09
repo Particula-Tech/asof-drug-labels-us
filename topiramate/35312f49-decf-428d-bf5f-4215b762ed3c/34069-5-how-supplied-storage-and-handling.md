@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 Topiramate Tablets USP are available as circular, biconvex, film coated, tablets in the following strengths and colors:
 
 25 mg white (engraved “G” on one side; “25” on the other)
@@ -20,7 +22,7 @@ They are supplied as follows:
 
 200 mg tablets – bottles of 60 count with desiccant (NDC 68462-110-60) 200 mg tablets – bottles of 1000 count with desiccant (NDC 68462-110-10)
 
-Storage and Handling
+## 16.2 Storage and Handling
 
 Topiramate Tablets USP should be stored in tightly-closed containers at 20° to 25oC (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from moisture.

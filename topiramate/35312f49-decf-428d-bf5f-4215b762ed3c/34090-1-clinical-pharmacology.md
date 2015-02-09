@@ -144,7 +144,7 @@ Metformin
 Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hr) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hr) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 17% and 25%, respectively, when topiramate was added.
+The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.

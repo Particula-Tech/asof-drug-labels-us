@@ -20,6 +20,15 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, the incidence of adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidence of adverse reactions in the clinical trials of another drug, and may not reflect the incidence of adverse reactions observed in practice.
 
+Increased Risk for Bleeding
+
+Topiramate treatment is associated with an increased risk for bleeding.
+In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse event for topiramatethan for placebo (4.5% versus 3.0% in adult patients, and 4.4% versus 2.3% in pediatric patients).
+In this analysis, the incidence of serious bleeding events for topiramateand placebo was 0.3% versus 0.2% for adult patients, and 0.4% versus 0% for pediatric patients.
+
+Adverse bleeding reactions reported with topiramateranged from mild epistaxis, ecchymosis, and increased menstrual bleeding to life-threatening hemorrhages.
+In patients with serious bleeding events, conditions that increased the risk for bleeding were often present, or patients were often taking drugs that cause thrombocytopenia (other antiepileptic drugs) or affect platelet function or coagulation (e.g., aspirin, nonsteroidal anti-inflammatory drugs, selective serotonin reuptake inhibitors, or warfarin or other anticoagulants).
+
 Monotherapy Epilepsy
 
 Adults ≥16 Years
