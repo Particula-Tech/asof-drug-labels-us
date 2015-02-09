@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 CIPRO (ciprofloxacin hydrochloride) Tablets are available as round, slightly yellowish film-coated tablets containing 250 mg ciprofloxacin.
 The 250 mg tablet is coded with the word “BAYER” on one side and “CIP 250” on the reverse side.
@@ -11,19 +11,21 @@ CIPRO 250 mg and 500 mg are available in bottles of 100.
 | Bottles of 100: | 250 mg | NDC 50419-758-01 | CIPRO 250 |
 |  | 500 mg | NDC 50419-754-01 | CIPRO 500 |
 
-Store below 30°C (86°F).
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 CIPRO Oral Suspension is supplied in 5% and 10% strengths.
 The drug product is composed of two components (microcapsules containing the active ingredient and diluent) which must be mixed by the pharmacist.
-See Instructions To The Pharmacist For Use/Handling.
+[See Dosage and Administration (2.5)]
 
-| Strengths | Total volume after reconstitution | Ciprofloxacin Concentration | Ciprofloxacin contents per bottle | NDC Code |
+| Strengths | Total volumeafter reconstitution | CiprofloxacinConcentration | Ciprofloxacincontents per bottle | NDC Code |
 | --- | --- | --- | --- | --- |
 | 5% | 100 mL | 250 mg/5 mL | 5,000 mg | 50419-777-01 |
 | 10% | 100 mL | 500 mg/5 mL | 10,000 mg | 50419-773-01 |
 
-Microcapsules and diluent should be stored below 25°C (77°F) and protected from freezing.
-
-Reconstituted product may be stored below 30°C (86°F) for 14 days.
+Store microcapsules and diluent below 25°C (77°F); excursions are permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from freezing.
-A graduated teaspoon (5mL) with markings 1/2 and 1/1 is provided for the patient.
+
+The reconstituted product may be stored at 25°C (77°F) for 14 days; excursions are permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from freezing.
+
+A graduated teaspoon (5mL) with markings 1/2 (2.5 mL and 1/1 (5 mL) is provided for the patient.

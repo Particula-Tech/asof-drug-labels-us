@@ -1,60 +1,91 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 CIPRO is indicated for the treatment of infections caused by susceptible isolates of the designated microorganisms in the conditions and patient populations listed below.
-Please see DOSAGE AND ADMINISTRATION for specific recommendations.
 
-## Adult Patients
+## 1.1 Urinary Tract Infections
 
-Urinary Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterobacter cloacae, Serratia marcescens, Proteus mirabilis, Providencia rettgeri, Morganella morganii, Citrobacter koseri (diversus), Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or vancomycin-susceptible Enterococcus faecalis.
+CIPRO is indicated in adult patients for treatment of urinary tract infectionscaused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Serratia marcescens, Proteus mirabilis, Providencia rettgeri, Morganella morganii, Citrobacter koseri, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or Enterococcus faecalis.
 
-Acute Uncomplicated Cystitis in Females caused by Escherichia coli or Staphylococcus saprophyticus.
+## 1.2 Acute Uncomplicated Cystitis
 
-Chronic Bacterial Prostatitis caused by Escherichia coli or Proteus mirabilis.
+CIPRO is indicated in adult female patients for treatment of acute uncomplicated cystitis caused by Escherichia coli or Staphylococcus saprophyticus.
 
-Lower Respiratory Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or penicillin-susceptible Streptococcus pneumoniae.* Also, Moraxella catarrhalis for the treatment of acute exacerbations of chronic bronchitis.
+## 1.3 Chronic Bacterial Prostatitis
 
-*Ciprofloxacin is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae.
+CIPRO is indicated in adult patients for treatment of chronic bacterial prostatitiscaused by Escherichia coli or Proteus mirabilis.
 
-Acute Sinusitis caused by Haemophilusinfluenzae, penicillin-susceptible Streptococcus pneumoniae, or Moraxella catarrhalis.
+## 1.4 Lower Respiratory Tract Infections
 
-Skin and Skin Structure Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providenciastuartii, Morganellamorganii, Citrobacterfreundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+CIPRO is indicated in adult patients for treatment of lower respiratory tract infectionscaused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or Streptococcus pneumoniae.
+Also, CIPRO is indicated for the treatment of acute exacerbations of chronic bronchitis caused by Moraxella catarrhalis[see Indications and Usage (1.15)].
 
-Bone and Joint Infections caused by Enterobacter cloacae, Serratiamarcescens, or Pseudomonas aeruginosa.
+## 1.5 Acute Sinusitis
 
-Complicated Intra-Abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiellapneumoniae, or Bacteroidesfragilis.
+CIPRO is indicated in adult patients for treatment of acute sinusitiscaused by Haemophilus influenzae,Streptococcus pneumoniae, or Moraxella catarrhalis.
 
-Infectious Diarrhea caused by Escherichia coli (enterotoxigenic isolates), Campylobacter jejuni, Shigella boydii†, Shigella dysenteriae, Shigella flexneri or Shigella sonnei† when antibacterial therapy is indicated.
+## 1.6 Skin and Skin Structure Infections
+
+CIPRO is indicated in adult patients for treatment of skin and skin structure infectionscaused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+
+## 1.7 Bone and Joint Infections
+
+CIPRO is indicated in adult patients for treatment of bone and joint infectionscaused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
+
+## 1.8 Complicated Intra-Abdominal Infections
+
+CIPRO is indicated in adult patients for treatment of complicated intra-abdominal infections(used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiella pneumoniae, or Bacteroides fragilis.
+
+## 1.9 Infectious Diarrhea
+
+CIPRO is indicated in adult patients for treatment of infectious diarrheacaused by Escherichia coli (enterotoxigenic isolates), Campylobacter jejuni, Shigella boydii †, Shigella dysenteriae, Shigella flexneri or Shigella sonnei†when antibacterial therapy is indicated.
 
 †Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
 
-Typhoid Fever (Enteric Fever) caused by Salmonella typhi.
+## 1.10 Typhoid Fever (Enteric Fever)
 
-NOTE: The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier state has not been demonstrated.
+CIPRO is indicated in adult patients for treatment of typhoid fever (enteric fever) caused by Salmonella typhi.
+The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier state has not been demonstrated.
 
-Uncomplicated Cervical and Urethral Gonorrhea due to Neisseria gonorrhoeae.
+## 1.11 Uncomplicated Cervical and Urethral Gonorrhea
 
-## Pediatric Patients (1 to 17 years of age)
+CIPRO is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae [see Warnings and Precautions (5.16)].
 
-Complicated Urinary Tract Infections and Pyelonephritis due to Escherichia coli.
+## 1.12 Complicated Urinary Tract Infections and Pyelonephritis
 
-NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
-(See WARNINGS, PRECAUTIONS, Pediatric Use, ADVERSE REACTIONS and CLINICAL STUDIES.)
-Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals.
-(See ANIMAL PHARMACOLOGY.)
+CIPRO is indicated in pediatric patients one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Indications and Usage (1.15) and Use in Specific Populations (8.4)].
 
-## Adult and Pediatric Patients
+## 1.13 Inhalational Anthrax (post-exposure)
 
-Inhalational Anthrax (post-exposure): To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
+CIPRO is indicated in adults and pediatric patients from birth to 17 years of age for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
-Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.5 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
-(See also, INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION).
+Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.1 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
+[See Clinical Studies (14.2).]
+
+## 1.14 Plague
+
+CIPRO is indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients from birth to 17 years of age.
+Efficacy studies of ciprofloxacin could not be conducted in humans with plague for feasibility reasons.
+Therefore this indication is based on an efficacy study conducted in animals only [see Clinical Studies (14.3)].
+
+## 1.15 Limitation of Use
+
+### Use in Pediatric Patients
+
+Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
+CIPRO, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.11), Adverse Reactions (6.1), Use in Specific Populations (8.4) Nonclinical Toxicology (13.2)].
+
+Lower Respiratory Tract Infections
+
+CIPRO is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae [see Indications and Usage (1.4)].
+
+## 1.16 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO and other antibacterial drugs, CIPRO should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
 If anaerobic organisms are suspected of contributing to the infection, appropriate therapy should be administered.
 Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to ciprofloxacin.
 Therapy with CIPRO may be initiated before results of these tests are known; once results become available appropriate therapy should be continued.
 As with other drugs, some isolates of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with ciprofloxacin.
 Culture and susceptibility testing performed periodically during therapy will provide information not only on the therapeutic effect of the antimicrobial agent but also on the possible emergence of bacterial resistance.
-
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPRO Tablets and CIPRO Oral Suspension and other antibacterial drugs, CIPRO Tablets and CIPRO Oral Suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
-In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
