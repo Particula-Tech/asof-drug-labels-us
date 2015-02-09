@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Telmisartan is a non-peptide angiotensin II receptor (type AT1) antagonist.
+Telmisartan tablets, USP are a non-peptide angiotensin II receptor (type AT1) antagonist.
 
 Telmisartan is chemically described as 4′-[[4-methyl-6-(1-methyl-1H-benzimidazol-2yl)-2-propyl-1H-benzimidazol-1yl] methyl] biphenyl-2-carboxylic acid.
 Its molecular formula is C33H30N4O2, its molecular weight is 514.60, and its structural formula is:

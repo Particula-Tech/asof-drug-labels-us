@@ -22,7 +22,7 @@ Blockade of the angiotensin II receptor inhibits the negative regulatory feedbac
 
 In normal volunteers, a dose of telmisartan 80 mg inhibited the pressor response to an intravenous infusion of angiotensin II by about 90% at peak plasma concentrations with approximately 40% inhibition persisting for 24 hours.
 
-Plasma concentration of angiotensin II and plasma renin activity (PRA) increased in a dose dependent manner after single administration of telmisartan to healthy subjects and repeated administration to hypertensive patients.
+Plasma concentration of angiotensin II and plasma renin activity (PRA) increased in a dose-dependent manner after single administration of telmisartan to healthy subjects and repeated administration to hypertensive patients.
 The once daily administration of up to 80 mg telmisartan to healthy subjects did not influence plasma aldosterone concentrations.
 In multiple-dose studies with hypertensive patients, there were no clinically significant changes in electrolytes (serum potassium or sodium), or in metabolic function (including serum levels of cholesterol, triglycerides, HDL, LDL, glucose, or uric acid).
 

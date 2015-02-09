@@ -30,7 +30,7 @@ Table 1: Adverse Events Occurring at an Incidence of ≥ 1% in Patients Treated 
 In addition to the adverse events in the table, the following events occurred at a rate of ≥ 1% but were at least as frequent in the placebo group: influenza-like symptoms, dyspepsia, myalgia, urinary tract infection, abdominal pain, headache, dizziness, pain, fatigue, coughing, hypertension, chest pain, nausea, and peripheral edema.
 Discontinuation of therapy because of adverse events was required in 2.8% of 1,455 patients treated with telmisartan tablets and 6.1% of 380 placebo patients in placebo-controlled clinical trials.
 
-The incidence of adverse events was not dose related and did not correlate with gender, age, or race of patients.
+The incidence of adverse events was not dose-related and did not correlate with gender, age, or race of patients.
 
 The incidence of cough occurring with telmisartan in six placebo-controlled trials was identical to that noted for placebo-treated patients (1.6%).
 
@@ -86,7 +86,7 @@ One telmisartan-treated patient discontinued therapy because of increases in cre
 Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy because of abnormal hepatic function.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of telmisartan.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.

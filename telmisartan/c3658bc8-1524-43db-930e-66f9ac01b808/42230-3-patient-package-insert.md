@@ -14,9 +14,9 @@ Telmisartan can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 If you get pregnant while taking telmisartan tablets, tell your doctor right away.
 
-What is telmisartan?
+What are telmisartan tablets?
 
-Telmisartan is a prescription medicine used:
+Telmisartan tablets are a prescription medicine used:
 
 - •to treat high blood pressure (hypertension)
 
@@ -48,7 +48,7 @@ Tell your doctor about all the medicines you take, including prescription and no
 
 For patients with diabetes, if you are taking telmisartan tablets you should not take aliskiren.
 
-Telmisartan may affect the way other medicines work, and other medicines may affect how telmisartan tablets work.
+Telmisartan tablets may affect the way other medicines work, and other medicines may affect how telmisartan tablets work.
 Especially tell your doctor if you take:
 
 - •aliskiren
@@ -85,16 +85,14 @@ Telmisartan tablets may cause serious side effects, including:
   - •get dialysis treatments
   - •have heart problems
   - •get sick with vomiting or diarrhea
-
-If you feel faint or dizzy, lie down and call your doctor right away.
+- If you feel faint or dizzy, lie down and call your doctor right away.
 
 - •Kidney problems, which may get worse if you already have kidney disease.
   You may have changes in your kidney test results, and you may need a lower dose of telmisartan tablets.
   Call your doctor if you get:
   - •swelling in your feet, ankles, or hands
   - •unexplained weight gain
-
-Call your doctor right away if you get any of the symptoms listed above.
+- Call your doctor right away if you get any of the symptoms listed above.
 
 - •High potassium in the blood (hyperkalemia).
   Your doctor may check your potassium levels as needed.
@@ -128,8 +126,8 @@ Keep telmisartan tablets and all medicines out of the reach of children.
 General information about telmisartan tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use telmisartan tablets for a condition for which it was not prescribed.
-Do not give telmisartan tablets to other people, even if they have the same condition you have.
+Do not use telmisartan for a condition for which it was not prescribed.
+Do not give telmisartan to other people, even if they have the same condition you have.
 It may harm them.
 
 This Patient Information leaflet summarizes the most important information about telmisartan tablets.
@@ -138,7 +136,7 @@ You can ask your pharmacist or doctor for information about telmisartan tablets 
 
 For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
-What are the ingredients in telmisartan tablets, USP?
+What are the ingredients in telmisartan tablets?
 
 Active Ingredient: telmisartan, USP
 
@@ -160,4 +158,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-REVISED JULY 2014 75054570 MX:TLMS:R2ppt
+75055879
+
+REVISED JANUARY 2015 MX:TLMS:R3p

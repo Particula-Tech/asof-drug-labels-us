@@ -14,7 +14,7 @@ The antihypertensive effect of telmisartan is not influenced by patient age, gen
 Blood pressure response in black patients (usually a low-renin population) is noticeably less than that in Caucasian patients.
 This has been true for most, but not all, angiotensin II antagonists and ACE inhibitors.
 
-In a controlled study, the addition of telmisartan to hydrochlorothiazide produced an additional dose related reduction in blood pressure that was similar in magnitude to the reduction achieved with telmisartan monotherapy.
+In a controlled study, the addition of telmisartan to hydrochlorothiazide produced an additional dose-related reduction in blood pressure that was similar in magnitude to the reduction achieved with telmisartan monotherapy.
 Hydrochlorothiazide also had an added blood pressure effect when added to telmisartan.
 
 The onset of antihypertensive activity occurs within 3 hours after administration of a single oral dose.

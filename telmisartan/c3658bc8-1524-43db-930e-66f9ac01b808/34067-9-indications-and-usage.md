@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-Telmisartan tablets are indicated for the treatment of hypertension, to lower blood pressure.
+Telmisartan tablets, USP are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs.
 
