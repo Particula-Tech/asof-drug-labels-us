@@ -12,8 +12,6 @@ Powder: Renvela® for Oral Suspension is supplied as opaque, foil lined, heat se
 
 1 Box (NDC 58468-0132-2) of 90 ct 0.8 g packets (NDC 58468-0132-1)
 
-1 Sample Box (NDC 58468-0131-4) of 90 ct 2.4 g packets (NDC 58468-0131-3)
-
 1 Sample Box (NDC 58468-0131-5) of 15 ct 2.4 g packets (NDC 58468-0131-3)
 
 Storage: Store at 25°C (77°F): excursions permitted to 15-30°C (59-86°F).
