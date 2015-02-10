@@ -1,112 +1,43 @@
-# PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## General
+## 5.1 Effects on the Endocrine System
 
-Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at doses as low as 2 g/day.
+Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at doses as low as 2 grams per day.
 
-Systemic absorption of topical corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal from treatment.
-Manifestations of Cushing's syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on therapy.
+Systemic absorption of topical corticosteroids can produce reversible HPA axis suppression with the potential for clinical glucocorticosteroid insufficiency.
+This may occur during treatment or upon withdrawal of the topical corticosteroid.
 
-Patients applying a dose to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression.
-This may be done by using the ACTH stimulation, A.M. plasma cortisol, and urinary free cortisol tests.
-Patients receiving super-potent corticosteroids should not be treated for more than 2 weeks at a time, and only small areas should be treated at any one time due to the increased risk of HPA suppression.
+Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.
+In a study including 12 subjects ages 18 years and older with psoriasis or atopic dermatitis involving at least 30% body surface area (BSA), adrenal suppression was identified in 3 out of 12 subjects (25%) following 1 week of treatment.
 
-In a controlled clinical trial involving patients with moderate to severe plaque-type psoriasis, clobetasol propionate cream (emollient) applied to 5% to 10% of body surface area resulted in additional benefits in the treatment of patients for 4 consecutive weeks.
-In this trial, there were no clobetasol-treated patients with clinically significant decreases in morning cortisol levels after 4 weeks of treatment; however, morning cortisol levels may not identify patients with adrenal dysfunction.
-Therefore, the additional benefits of extending treatment beyond 2 weeks should be weighed against the potential for HPA suppression.
-Therapy should be discontinued when control has been achieved.
-Treatment beyond 4 consecutive weeks is not recommended.
+Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
 
-If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid.
-Recovery of HPA axis function is generally prompt upon discontinuation of topical corticosteroids.
-Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur that require supplemental systemic corticosteroids.
-For information on systemic supplementation, see prescribing information for those products.
+An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression.
+If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
+Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids.
+Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
 
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
-The use of clobetasol propionate cream (emollient) for 4 consecutive weeks has not been studied in pediatric patients under 16 years of age.
+Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
 
+Use of more than one corticosteroid-containing product at the same time may increase the total systemic corticosteroid exposure.
+
+Pediatric patients may be more susceptible to systemic toxicity from use of topical corticosteroids.
+[see Use in Specific Populations (8.4)]
+
+## 5.2 Local Adverse Reactions with Topical Corticosteroids
+
+Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
+Reactions may include atrophy, striae, telangiectasias, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, hypertrichosis, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria.
+Some local adverse reactions may be irreversible.
+Clobetasol propionate is not recommended in patients with acne vulgaris, rosacea or perioral dermatitis.
+
+## 5.3 Allergic Contact Dermatitis
+
+Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation.
+Clinical diagnosis of allergic contact dermatitis can be confirmed with patch testing.
 If irritation develops, clobetasol propionate cream (emollient) should be discontinued and appropriate therapy instituted.
-Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
-Such an observation should be corroborated with appropriate diagnostic patch testing.
+
+## 5.4 Concomitant Skin Infections
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of clobetasol propionate cream (emollient) should be discontinued until the infection has been adequately controlled.
-
-Clobetasol propionate cream (emollient) should not be used in the treatment of rosacea or perioral dermatitis, and should not be used on the face, groin, or axillae.
-
-## Information for Patients
-
-Patients using topical corticosteroids should receive the following information and instructions:
-
-1. This medication is to be used as directed by the physician.
-   It is for external use only.
-   Avoid contact with the eyes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged, otherwise covered, or wrapped so as to be occlusive unless directed by the physician.
-4. Patients should report any signs of local adverse reactions to the physician.
-5. Patients should inform their physicians that they are using clobetasol propionate cream (emollient) if surgery is contemplated.
-6. This medication should not be used on the face, underarms, or groin areas.
-7. As with other corticosteroids, therapy should be discontinued when control has been achieved.
-   If no improvement is seen within 2 weeks, contact the physician.
-
-## Laboratory Tests
-
-The following tests may be helpful in evaluating patients for HPA axis suppression:
-
-- ACTH stimulation test
-- A.M. plasma cortisol test
-- Urinary free cortisol test
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Long-term animal studies have not been performed to evaluate the carcinogenic potential of clobetasol propionate.
-
-Studies in the rat following subcutaneous administration at dosage levels up to 50 mcg/kg per day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.
-
-Clobetasol propionate was nonmutagenic in three different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
-
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
-
-Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Some corticosteroids have been shown to be teratogenic after dermal application to laboratory animals.
-
-Clobetasol propionate has not been tested for teratogenicity when applied topically; however, it is absorbed percutaneously, and when administered subcutaneously it was a significant teratogen in both the rabbit and mouse.
-Clobetasol propionate has greater teratogenic potential than steroids that are less potent.
-
-Teratogenicity studies in mice using the subcutaneous route resulted in fetotoxicity at the highest dose tested (1 mg/kg) and teratogenicity at all dose levels tested down to 0.03 mg/kg.
-These doses are approximately 1.4 and 0.04 times, respectively, the human topical dose of clobetasol propionate cream (emollient).
-Abnormalities seen included cleft palate and skeletal abnormalities.
-
-In rabbits, clobetasol propionate was teratogenic at doses of 3 and 10 mcg/kg.
-These doses are approximately 0.02 and 0.05 times, respectively, the human topical dose of clobetasol propionate cream (emollient).
-Abnormalities seen included cleft palate, cranioschisis, and other skeletal abnormalities.
-
-There are no adequate and well-controlled studies of the teratogenic potential of clobetasol propionate in pregnant women.
-Clobetasol propionate cream (emollient) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Nursing Mothers
-
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when clobetasol propionate cream (emollient) is administered to nursing woman.
-
-## Pediatric Use
-
-Safety and effectiveness of clobetasol propionate cream (emollient) in pediatric patients have not been established.
-Use in pediatric patients under 12 years of age is not recommended.
-For continued use beyond 2 consecutive weeks, the safety of clobetasol propionate cream (emollient) has not been studied.
-Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing's syndrome when they are treated with topical corticosteroids.
-They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
-Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
-
-HPA axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
-Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
-
-Clinical studies of clobetasol propionate emollient cream, 0.05% in US clinical trials did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious.

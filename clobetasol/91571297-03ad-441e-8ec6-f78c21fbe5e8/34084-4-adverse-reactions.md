@@ -1,9 +1,8 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In controlled trials with all clobetasol propionate formulations, the following adverse reactions have been reported: burning/stinging, pruritus, irritation, erythema, folliculitis, cracking and fissuring of the skin, numbness of the fingers, tenderness in the elbow, skin atrophy, and telangiectasia.
-The incidence of local adverse reactions reported in the trials with clobetasol propionate cream (emollient) was <2% of patients treated with the exception of burning/stinging, which occurred in 5% of treated patients.
+## 6.1 Clinical Trials Experience
 
-Cushing's syndrome has been reported in infants and adults as a result of prolonged use of other topical clobetasol propionate formulations.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The following additional local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with super-high potency corticosteroids such as clobetasol propionate cream (emollient).
-These reactions are listed in an approximately decreasing order of occurrence: dryness, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae, and miliaria.
+In controlled trials with clobetasol propionate formulations, the following adverse reactions have been reported: burning/stinging, pruritis, irritation, erythema, folliculitis, cracking and fissuring of the skin, numbness of the fingers, tenderness in the elbow, skin atrophy, and telangiectasia.
+The incidence of local adverse reactions reported in the trials with clobetasol propionate cream (emollient) 0.05% was less than 2% of patients treated with the exception of burning/stinging which occurred in 5% of treated patients.

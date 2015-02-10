@@ -1,4 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
 
 Like other topical corticosteroids, clobetasol propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties.
 The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear.
@@ -6,11 +8,13 @@ However, corticosteroids are thought to act by the induction of phospholipase A2
 It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachidonic acid.
 Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
+
+Clobetasol propionate cream (emollient) 0.05% is in the super-high range of potency as demonstrated in a vasoconstrictor study in healthy subjects when compared with other topical corticosteroids.
+However, similar blanching scores do not necessarily imply therapeutic equivalence.
+
+## 12.3 Pharmacokinetics
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
-Occlusive dressing with hydrocortisone for up to 24 hours has not been demonstrated to increase penetration; however, occlusion of hydrocortisone for 96 hours markedly enhances penetration.
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
-
-Studies performed with clobetasol propionate cream (emollient) indicate that it is in the super-high range of potency as compared with other topical corticosteroids.

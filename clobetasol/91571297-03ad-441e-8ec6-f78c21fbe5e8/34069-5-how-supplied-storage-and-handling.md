@@ -1,6 +1,11 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Clobetasol propionate cream (emollient) USP, 0.05% is supplied in 15g, 30g, and 60g tubes.
+How Supplied
 
-Store at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
-Do not refrigerate.
+Clobetasol Propionate Cream (Emollient) USP, 0.05% is a white to off-white cream, supplied in 15 g (NDC 51672-1297-1), 30 g (NDC 51672-1297-2) and 60 g tubes (NDC 51672-1297-3).
+
+Storage and Handling
+
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]
+
+Clobetasol Propionate Cream (Emollient) USP, 0.05% should not be refrigerated.
