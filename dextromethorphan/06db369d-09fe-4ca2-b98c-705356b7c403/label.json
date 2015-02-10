@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205292"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-1104-04",
+    "0574-1104-16"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "brompheniramine maleate, pseudoephedrine hydrochloride and dextromethorphan hydrobromide",
+      "name": "Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide"
+    }
+  ],
+  "setid": "06db369d-09fe-4ca2-b98c-705356b7c403",
+  "source": "dailymed"
+}
