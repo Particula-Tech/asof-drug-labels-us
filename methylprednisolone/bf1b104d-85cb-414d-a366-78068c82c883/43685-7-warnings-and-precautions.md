@@ -1,5 +1,12 @@
 # WARNINGS
 
+## Serious Neurologic Adverse Reactions with Epidural Administration
+
+Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids.
+Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
+These serious neurologic events have been reported with and without use of fluoroscopy.
+The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
+
 ## General
 
 This product is not suitable for multi-dose use.
@@ -133,6 +140,8 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of perforation.
 
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
+
+There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
 
 ### Parenteral Administration
 
