@@ -11,8 +11,7 @@ The antihypertensive effect of angiotensin II receptor antagonists, including ca
 
 Lithium
 
-Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.
-An increase in serum lithium concentration has been reported during concomitant administration of lithium with ATACAND.
+Increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including ATACAND.
 Monitor serum lithium levels.
 
 Dual Blockade of the Renin-Angiotensin System (RAS)

@@ -18,8 +18,7 @@ If oligohydramnios is observed, discontinue ATACAND, unless it is considered lif
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 Closely observe infants with histories of in utero exposure to ATACAND for hypotension, oliguria, and hyperkalemia.
-[see USE IN SPECIFIC POPULATIONS (8.
-4)]
+[see USE IN SPECIFIC POPULATIONS (8.4)].
 
 ## 8.2 Labor and Delivery
 

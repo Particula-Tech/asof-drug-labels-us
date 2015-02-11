@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS and STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 4 mg are white to off-white, circular/biconvex-shaped, non-film-coated scored tablets, coded ACF on one side and 004 on the other.
 

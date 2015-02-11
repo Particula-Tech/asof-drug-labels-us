@@ -81,13 +81,11 @@ How should I take ATACAND?
   If your child switches between taking the tablet and the suspension, your doctor will change the dose as needed.
   Shake the bottle of suspension well before each dose.
 - •ATACAND is taken by mouth with or without food.
-
-If you miss a dose of ATACAND, take it as soon as you remember.
-If it is almost time for your next dose, skip the missed dose.
-Take the next dose on time.
-Do not take 2 doses at one time.
-If you are not sure about your dosing call your doctor or pharmacist.
-
+- •If you miss a dose of ATACAND, take it as soon as you remember.
+  If it is almost time for your next dose, skip the missed dose.
+  Take the next dose on time.
+  Do not take 2 doses at one time.
+  If you are not sure about your dosing call your doctor or pharmacist.
 - •If you take more ATACAND than prescribed, call your doctor, local poison control center, or go to the nearest emergency room.
 
 What should I avoid while taking ATACAND?
@@ -103,11 +101,11 @@ ATACAND may cause serious side effects, including:
   See “What is the most important information I should know about ATACAND?
 - •Low blood pressure (hypotension).
   Low blood pressure is most likely to happen if you:
-  - ∘take water pills (diuretics)
-  - ∘are on a low salt diet
-  - ∘get dialysis treatments
-  - ∘are dehydrated (decreased body fluids) due to vomiting and diarrhea
-  - ∘have heart problems
+  - take water pills (diuretics)
+  - are on a low salt diet
+  - get dialysis treatments
+  - are dehydrated (decreased body fluids) due to vomiting and diarrhea
+  - have heart problems
 
 If you feel dizzy or faint lie down and call your doctor right away.
 
@@ -122,9 +120,9 @@ See “What should I tell my doctor before taking ATACAND?”
   Your doctor may do a blood test to check your potassium levels as needed.
 - •Symptoms of allergic reaction.
   Call your doctor right away if you have any of these symptoms of an allergic reaction:
-  - ∘swelling of your face, lips, tongue or throat
-  - ∘rash
-  - ∘hives and itching
+  - swelling of your face, lips, tongue or throat
+  - rash
+  - hives and itching
 
 The most common side effects of ATACAND are:
 
@@ -180,6 +178,7 @@ How does ATACAND work?
 
 ATACAND is a type of medicine called angiotensin receptor blocker, which blocks the effect of the hormone angiotensin II, causing the blood vessels to relax.
 This helps lower blood pressure.
+Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -193,6 +192,6 @@ for: AstraZeneca LP, Wilmington, DE 19850
 
 ATACAND is a trademark of the AstraZeneca group of companies.
 
-Issued: April 2013
+Issued: February 2015
 
-©AstraZeneca 2010, 2013
+©AstraZeneca 2010, 2013, 2015
