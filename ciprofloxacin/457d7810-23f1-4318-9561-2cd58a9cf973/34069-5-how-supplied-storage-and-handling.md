@@ -1,11 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CIPRO IV (ciprofloxacin) is available in a clear, colorless to slightly yellowish solution.
-CIPRO IV is available in a 400 mg strength.
-The premixed solution is supplied in latex-free flexible containers as follows:
+CIPRO IV (ciprofloxacin) is available as a clear, colorless to slightly yellowish solution in flexible containers not made with natural rubber latex.
 
-FLEXIBLE CONTAINER: Manufactured for Bayer HealthCare Pharmaceuticals Inc. Manufactured in Germany.
+SIZE STRENGTH NDC NUMBER
 
-| SIZE | STRENGTH | NDC NUMBER |
-| --- | --- | --- |
-| 200 mL 5% Dextrose | 400 mg, 0.2% | 50419-759-01 |
+200 mL 5% Dextrose 400 mg, 0.2% 50419-759-01

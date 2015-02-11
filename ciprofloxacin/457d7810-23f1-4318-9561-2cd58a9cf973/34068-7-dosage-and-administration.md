@@ -1,126 +1,95 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Adults
+CIPRO IV should be administered intravenously at dosages described in the appropriate Dosage Guidelines tables.
 
-CIPRO IV should be administered to adults by intravenous infusion over a period of 60 minutes at dosages described in the Dosage Guidelines table.
-Slow infusion of a dilute solution into a larger vein will minimize patient discomfort and reduce the risk of venous irritation.
-(See Preparation of CIPRO IV for Administration section.)
+## 2.1 Dosage in Adults
 
-The determination of dosage for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
+The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
 
-ADULT DOSAGE GUIDELINES
+Table 1: Adult Dosage Guidelines
 
-| InfectionDUE TO THE DESIGNATED PATHOGENS (See INDICATIONS AND USAGE.) | Severity | Dose | Frequency | Usual Duration |
-| --- | --- | --- | --- | --- |
-| Urinary Tract | Mild/Moderate | 200 mg | q12h | 7-14 Days |
-|  | Severe/Complicated | 400 mg | q12h (or q 8h) | 7-14 Days |
-| Lower | Mild/Moderate | 400 mg | q12h | 7-14 Days |
-| Respiratory Tract | Severe/Complicated | 400 mg | q8h | 7-14 Days |
-| Nosocomial | Mild/Moderate/Severe | 400 mg | q8h | 10-14 Days |
-| Pneumonia |  |  |  |  |
-| Skin and | Mild/Moderate | 400 mg | q12h | 7-14 Days |
-| Skin Structure | Severe/Complicated | 400 mg | q8h | 7-14 Days |
-| Bone and Joint | Mild/Moderate | 400 mg | q12h | ≥ 4-6 Weeks |
-|  | Severe/Complicated | 400 mg | q8h | ≥ 4-6 Weeks |
-| Intra-Abdominalused in conjunction with metronidazole. (See product labeling for prescribing information.) | Complicated | 400 mg | q12h | 7-14 Days |
-| Acute Sinusitis | Mild/Moderate | 400 mg | q12h | 10 Days |
-| Chronic Bacterial | Mild/Moderate | 400 mg | q12h | 28 Days |
-| Prostatitis |  |  |  |  |
-| Empirical Therapy | Severe |  |  |  |
-| in |  |  |  |  |
-| Febrile Neutropenic | Ciprofloxacin | 400 mg | q8h | 7-14 Days |
-| Patients | + |  |  |  |
-|  | Piperacillin | 50 mg/kg | q4h |  |
-|  |  | Not to exceed |  |  |
-|  |  | 24 g/day |  |  |
-| Inhalational anthrax |  |  |  |  |
-| (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax,-Additional Information. Total duration of ciprofloxacin administration (IV or oral) for inhalational anthrax (post-exposure) is 60 days. |  | 400 mg | q12h | 60 Days |
+| InfectionDue to the designated pathogens (see Indications and Usage.) | Dose | Frequency | Usual Duration |
+| --- | --- | --- | --- |
+| Urinary Tract | 200 mg to 400 mg | every 12 to every 8 hours | 7–14 days |
+| Lower Respiratory Tract | 400 mg | every 12 to every 8 hours | 7–14 days |
+| Nosocomial Pneumonia | 400 mg | every 8 hours | 10–14 days |
+| Skin and Skin Structure | 400 mg | every 12 to every 8 hours | 7–14 days |
+| Bone and Joint | 400 mg | every 12 to every 8 hours | 4 to 8 weeks |
+| Complicated Intra-AbdominalUsed in conjunction with metronidazole. | 400 mg | every 12 hours | 7–14 days |
+| Acute Sinusitis | 400 mg | every 12 hours | 10 days |
+| Chronic Bacterial prostatitis | 400 mg | every 12 hours | 28 days |
+| Empirical Therapy In Febrile Neutropenic Patients | CIPRO IV 400 mgand | every 8 hours | 7–14 days |
+| Piperacillin50 mg/kg | every 4 hours |  |  |
+| Inhalational anthrax(post-exposure)Begin administration as soon as possible after suspected or confirmed exposure. | 400 mg | every 12 hours | 60 days |
+| Plague | 400 mg | every 12 to 8 hours | 14 days |
 
-CIPRO IV should be administered by intravenous infusion over a period of 60 minutes.
+### Conversion of Intravenous to Oral Dosing in Adults
 
-## Conversion of IV to Oral Dosing in Adults
+Patients whose therapy is started with CIPRO IV may be switched to CIPRO Tablets or Oral Suspension when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
 
-CIPRO Tablets and CIPRO Oral Suspension for oral administration are available.
-Parenteral therapy may be switched to oral CIPRO when the condition warrants, at the discretion of the physician.
-(See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens.)
+Table 2:
 
-| Equivalent AUC Dosing Regimens |  |
+| CIPRO Oral DEquivalent AUC Dosing Regimensosage | Equivalent CIPRO IV Dosage |
 | --- | --- |
-| CIPRO Oral Dosage | Equivalent CIPRO IV Dosage |
-| 250 mg Tablet q 12 h | 200 mg IV q 12 h |
-| 500 mg Tablet q 12 h | 400 mg IV q 12 h |
-| 750 mg Tablet q 12 h | 400 mg IV q 8 h |
+| 250 mg Tablet every 12 hours | 200 mg intravenous every 12 hours |
+| 500 mg Tablet every 12 h | 400 mg intravenous every 12 hours |
+| 750 mg Tablet every 12 hours | 400 mg intravenous every 8 hours |
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+## 2.2 Dosage in Pediatric Patients
 
-## Adults with Impaired Renal Function
+Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
+
+Table 3: Pediatric Dosage Guidelines
+
+| Infection | Dose(mg/kg) | Frequency | Total Duration |
+| --- | --- | --- | --- |
+| Complicated Urinary Tract or Pyelonephritis(patients from 1 to 17 years of age)The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). | 6 mg/kg to 10 mg/kg(maximum 400 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 8 hours | 10–21 days |
+| Inhalational Anthrax(Post-Exposure)Begin drug administration as soon as possible after suspected or confirmed exposure. | 10 mg/kg(maximum 400 mg per dose) | Every 12 hours | 60 days |
+| Plague, Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. | 10 mg/kg (maximum 400 mg per dose) | Every 12 to 8 hours | 10–21 days |
+
+2.3 Dosage Modifications in Patients with Renal Impairment
 
 Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
 These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
-Nonetheless, some modification of dosage is recommended for patients with severe renal dysfunction.
-The following table provides dosage guidelines for use in patients with renal impairment:
+Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction.
+Dosage guidelines for use in patients with renal impairment are shown in Table 4.
 
-| RECOMMENDED STARTING AND MAINTENANCE DOSES FOR PATIENTS WITH IMPAIRED RENAL FUNCTION |  |
+Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impaired Renal Function
+
+| Creatinine Clearance (mL/min) | Dose |
 | --- | --- |
-| Creatinine Clearance (mL/min) | Dosage |
-| > 30 | See usual dosage. |
-| 5 - 29 | 200-400 mg q 18-24 hr |
+| >30 | See Usual Dosage. |
+| 5–29 | 200–400 mg every 18–24 hours |
 
-When only the serum creatinine concentration is known, the following formula may be used to estimate creatinine clearance:
+When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 
-Weight (kg) x (140 – age) Men: Creatinine clearance (mL/min) = ——————————————— 72 x serum creatinine (mg/dL)
-
-Women: 0.85 x the value calculated for men.
+| Men - Creatinine clearance (mL/min) = | Weight (kg) x (140 – age) |
+| --- | --- |
+|  | 72 x serum creatinine (mg/dL) |
+| Women - 0.85 x the value calculated for men. |  |
 
 The serum creatinine should represent a steady state of renal function.
 
-For patients with changing renal function or for patients with renal impairment and hepatic insufficiency, careful monitoring is suggested.
+In patients with severe infections and severe renal impairment and hepatic insufficiency, careful monitoring is suggested.
 
-## Pediatrics
+Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of cUTI and pyelonephritis.
+No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of < 50 mL/min/1.73m2).
 
-CIPRO IV should be administered as described in the Dosage Guidelines table.
-An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
-(See ADVERSE REACTIONS and CLINICAL STUDIES.)
-
-Dosing and initial route of therapy (i.e., IV or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
-In the clinical trial, pediatric patients with moderate to severe infection were initiated on 6 to 10 mg/kg IV every 8 hours and allowed to switch to oral therapy (10 to 20 mg/kg every 12 hours), at the discretion of the physician.
-
-PEDIATRIC DOSAGE GUIDELINES
-
-| Infection | Route of Administration | Dose (mg/kg) | Frequency | Total Duration |
-| --- | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg(maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 daysThe total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |
-| Oral | 10 mg/kg to 20 mg/kg(maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |  |
-| Inhalational Anthrax (Post-Exposure) Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.6 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax, Additional Information. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
-| Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
-
-Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.
-No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (i.e., creatinine clearance of < 50 mL/min/1.73m2).
-
-## Preparation of CIPRO IV for Administration
-
-### Vials (Injection Concentrate)
-
-THIS PREPARATION MUST BE DILUTED BEFORE USE.
-The intravenous dose should be prepared by aseptically withdrawing the concentrate from the vial of CIPRO IV This should be diluted with a suitable intravenous solution to a final concentration of 1–2 mg/mL.
-(See Compatibility and Stability.)
-The resulting solution should be infused over a period of 60 minutes by direct infusion or through a Y-type intravenous infusion set which may already be in place.
-
-If the Y-type or “piggyback” method of administration is used, it is advisable to discontinue temporarily the administration of any other solutions during the infusion of CIPRO IV If the concomitant use of CIPRO IV and another drug is necessary each drug should be given separately in accordance with the recommended dosage and route of administration for each drug.
+## 2.3 Preparation of CIPRO IV for Administration
 
 ### Flexible Containers
 
-CIPRO IV is also available as a 0.2% premixed solution in 5% dextrose in flexible containers of 100 mL or 200 mL.
+CIPRO IV is available as a 0.2% premixed solution in 5% dextrose in flexible containers of 200 mL.
 The solutions in flexible containers do not need to be diluted and may be infused as described above.
 
-## Compatibility and Stability
+## 2.4 Important Administration Instructions
 
-Ciprofloxacin injection 1% (10 mg/mL), when diluted with the following intravenous solutions to concentrations of 0.5 to 2 mg/mL, is stable for up to 14 days at refrigerated or room temperature storage.
+### Intravenous Infusion
 
-- 0.9% Sodium Chloride Injection, USP
-- 5% Dextrose Injection, USP
-- Sterile Water for Injection
-- 10% Dextrose for Injection
-- 5% Dextrose and 0.225% Sodium Chloride for Injection
-- 5% Dextrose and 0.45% Sodium Chloride for Injection
-- Lactated Ringer’s for Injection
+CIPRO IV should be administered to by intravenous infusion over a period of 60 minutes.
+Slow infusion of a dilute solution into a larger vein will minimize patient discomfort and reduce the risk of venous irritation.
+
+### Hydration of Patients Receiving CIPRO IV
+
+Adequate hydration of patients receiving CIPRO IV should be maintained to prevent the formation of highly concentrated urine.
+Crystalluria has been reported with quinolones [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Nonclinical Toxicology (13.2) and Patient Counseling Information (17)].

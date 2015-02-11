@@ -1,118 +1,134 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Adverse Reactions in Adult Patients
+The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
-Most of the adverse events reported were described as only mild or moderate in severity, abated soon after the drug was discontinued, and required no treatment.
-Ciprofloxacin was discontinued because of an adverse event in 1.8% of intravenously treated patients.
+- •Tendon Effects [seeWarnings and Precautions (5.1)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
+- •Hypersensitivity Reactions [seeWarnings and Precautions (5.3)]
+- •Other Serious and Sometimes Fatal Reactions [seeWarnings and Precautions (5.4)]
+- •Hepatotoxicity [see Warnings and Precautions (5.5)]
+- •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.6)]
+- •Central Nervous System Effects [seeWarnings and Precautions (5.7)]
+- •Clostridium difficile-Associated Diarrhea [seeWarnings and Precautions (5.8)]
+- •Peripheral Neuropathy [seeWarnings and Precautions (5.9)]
+- •Prolongation of the QT Interval [see Warnings and Precautions (5.10)]
+- •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.11)]
+- •Photosensitivity/Phototoxicity [seeWarnings and Precautions (5.13)]
+- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
-The most frequently reported drug related events, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
+## 6.1 Clinical Trials Experience
 
-In clinical trials the following events were reported, regardless of drug relationship, in greater than 1% of patients treated with intravenous ciprofloxacin: nausea, diarrhea, central nervous system disturbance, local IV site reactions, liver function tests abnormal, eosinophilia, headache, restlessness, and rash.
-Many of these events were described as only mild or moderate in severity, abated soon after the drug was discontinued, and required no treatment.
-Local IV site reactions are more frequent if the infusion time is 30 minutes or less.
-These may appear as local skin reactions which resolve rapidly upon completion of the infusion.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+### Adult Patients
+
+During clinical investigations with oral and parenteral CIPRO IV, 49,038 patients received courses of the drug.
+
+The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
+
+In clinical trials the following adverse reactions were reported in greater than 1% of patients treated with intravenous CIPRO IV: nausea, diarrhea, central nervous system disturbance, local intravenous site reactions, liver function tests abnormal, eosinophilia, headache, restlessness, and rash.
+Local intravenous site reactions are more frequent if the infusion time is 30 minutes or less.
+These may appear as local skin reactions that resolve rapidly upon completion of the infusion.
 Subsequent intravenous administration is not contraindicated unless the reactions recur or worsen.
 
-Additional medically important events, without regard to drug relationship or route of administration, that occurred in 1% or less of ciprofloxacin patients are listed below:
+Table 5: Medically Important Adverse Reactions That Occurred in less than 1% Ciprofloxacin Patients
 
-BODY AS A WHOLE: abdominal pain/discomfort, foot pain, pain, pain in extremities
-
-CARDIOVASCULAR: cardiovascular collapse, cardiopulmonary arrest, myocardial infarction, arrhythmia, tachycardia, palpitation, cerebral thrombosis, syncope, cardiac murmur, hypertension, hypotension, angina pectoris, atrial flutter, ventricular ectopy, (thrombo)-phlebitis, vasodilation, migraine
-
-CENTRAL NERVOUS SYSTEM: convulsive seizures (including status epilepticus), grand mal convulsion, paranoia, toxic psychosis, depression (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide), dysphasia, phobia, depersonalization, manic reaction, unresponsiveness, ataxia, confusion, hallucinations, dizziness, lightheadedness, paresthesia, anxiety, tremor, insomnia, nightmares, weakness, drowsiness, irritability, malaise, lethargy, abnormal gait
-
-GASTROINTESTINAL: ileus, jaundice, gastrointestinal bleeding, C. difficile associated diarrhea, pseudomembranous colitis, pancreatitis, hepatic necrosis, intestinal perforation, dyspepsia, epigastric pain, constipation, oral ulceration, oral candidiasis, mouth dryness, anorexia, dysphagia, flatulence, hepatitis, painful oral mucosa
-
-HEMIC/LYMPHATIC: agranulocytosis, prolongation of prothrombin time, lymphadenopathy, petechia
-
-METABOLIC/NUTRITIONAL: amylase increase, lipase increase, hyperglycemia, hypoglycemia
-
-MUSCULOSKELETAL: arthralgia, jaw, arm or back pain, joint stiffness, neck and chest pain, achiness, flare up of gout, myasthenia gravis, muscle weakness
-
-RENAL/UROGENITAL: renal failure, interstitial nephritis, nephritis, hemorrhagic cystitis, renal calculi, frequent urination, acidosis, urethral bleeding, polyuria, urinary retention, gynecomastia, candiduria, vaginitis, breast pain.
-Crystalluria, cylindruria, hematuria and albuminuria have also been reported.
-
-RESPIRATORY: respiratory arrest, pulmonary embolism, dyspnea, laryngeal or pulmonary edema, respiratory distress, pleural effusion, hemoptysis, epistaxis, hiccough, bronchospasm
-
-SKIN/HYPERSENSITIVITY: allergic reactions, anaphylactic reactions including life-threatening anaphylactic shock, erythema multiforme/Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, vasculitis, angioedema, edema of the lips, face, neck, conjunctivae, hands or lower extremities, purpura, fever, chills, flushing, pruritus, urticaria, cutaneous candidiasis, vesicles, increased perspiration, hyperpigmentation, erythema nodosum, thrombophlebitis, burning, paresthesia, erythema, swelling, photosensitivity/phototoxicity reaction (See WARNINGS.)
-
-SPECIAL SENSES: decreased visual acuity, blurred vision, disturbed vision (flashing lights, change in color perception, overbrightness of lights, diplopia), eye pain, anosmia, hearing loss, tinnitus, nystagmus, chromatopsia, a bad taste
+| System Organ Class | Adverse Reactions |
+| --- | --- |
+| Body as a Whole | Abdominal Pain/DiscomfortPain |
+| Cardiovascular | Cardiopulmonary ArrestMyocardial InfarctionTachycardiaSyncopeHypertensionAngina PectorisVasodilation |
+| Central Nervous System | RestlessnessSeizures (including Status Epilepticus)ParanoiaPsychosis (toxic)Depression (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide)PhobiaDepersonalizationManic ReactionUnresponsivenessAtaxiaHallucinationsDizzinessParesthesiaTremorInsomniaNightmaresIrritabilityMalaiseAbnormal GaitMigraine |
+| Gastrointestinal | IleusGastrointestinal BleedingPancreatitisHepatic NecrosisIntestinal PerforationDyspepsiaConstipationOral UlcerationMouth DrynessAnorexiaFlatulenceHepatitis |
+| Hemic/Lymphatic | AgranulocytosisProlongation of Prothrombin TimePetechia |
+| Metabolic/Nutritional | HyperglycemiaHypoglycemia |
+| Musculoskeletal | ArthralgiaJoint StiffnessMuscle Weakness |
+| Renal/Urogenital | Renal FailureInterstitial NephritisHemorrhagic CystitisRenal CalculiFrequent UrinationGynecomastiaCrystalluriaCylindruriaHematuriaAlbuminuria |
+| Respiratory | Respiratory ArrestDyspneaLaryngeal EdemaHemoptysisBronchospasm |
+| Skin/Hypersensitivity | Allergic ReactionsAnaphylactic Reactions including life-threatening anaphylactic shockErythema Multiforme/Stevens-Johnson SyndromeExfoliative DermatitisToxic Epidermal NecrolysisVasculitisAngioedemaextremitiesPurpuraFeverPruritusUrticariaIncreased PerspirationErythema NodosumThrombophlebitisBurningPhotosensitivity/Phototoxicity Reaction |
+| Special Senses | Decreased Visual AcuityBlurred VisionDisturbed Vision (diplopia, chromatopsia, and photopsia)AnosmiaHearing LossTinnitusNystagmusBad Taste |
 
 In several instances, nausea, vomiting, tremor, irritability, or palpitation were judged by investigators to be related to elevated serum levels of theophylline possibly as a result of drug interaction with ciprofloxacin.
 
-In randomized, double-blind controlled clinical trials comparing ciprofloxacin (IV and IV/P.O. sequential) with intravenous beta-lactam control antibiotics, the CNS adverse event profile of ciprofloxacin was comparable to that of the control drugs.
+In randomized, double-blind controlled clinical trials comparing CIPRO (Intravenous and Intravenous/Oral. sequential) with intravenous beta-lactam control antibiotics, the CNS adverse reaction profile of CIPRO was comparable to that of the control drugs.
 
-## Adverse Reactions in Pediatric Patients
+### Pediatric Patients
 
-Ciprofloxacin, administered IV and /or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) or pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
-The trial was conducted in the US, Canada, Argentina, Peru, Costa Rica, Mexico, South Africa, and Germany.
+Short (6 weeks) and long term (1 year) musculoskeletal and neurological safety of oral/intravenous ciprofloxacin was compared to a cephalosporin for treatment of cUTI or pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years) in an international multicenter trial.
 The duration of therapy was 10 to 21 days (mean duration of treatment was 11 days with a range of 1 to 88 days).
-The primary objective of the study was to assess musculoskeletal and neurological safety within 6 weeks of therapy and through one year of follow-up in the 335 ciprofloxacin- and 349 comparator-treated patients enrolled.
+A total of 335 ciprofloxacin- and 349 comparator-treated patients were enrolled.
 
-An Independent Pediatric Safety Committee (IPSC) reviewed all cases of musculoskeletal adverse events as well as all patients with an abnormal gait or abnormal joint exam (baseline or treatment-emergent).
-These events were evaluated in a comprehensive fashion and included such conditions as arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint.
-The affected joints included: knee, elbow, ankle, hip, wrist, and shoulder.
-Within 6 weeks of treatment initiation, the rates of these events were 9.3% (31/335) in the ciprofloxacin-treated group versus 6 % (21/349) in comparator-treated patients.
-The majority of these events were mild or moderate in intensity.
-All musculoskeletal events occurring by 6 weeks resolved (clinical resolution of signs and symptoms), usually within 30 days of end of treatment.
-Radiological evaluations were not routinely used to confirm resolution of the events.
-The events occurred more frequently in ciprofloxacin-treated patients than control patients, regardless of whether they received IV or oral therapy.
-Ciprofloxacin-treated patients were more likely to report more than one event and on more than one occasion compared to control patients.
-These events occurred in all age groups and the rates were consistently higher in the ciprofloxacin group compared to the control group.
-At the end of 1 year, the rate of these events reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) comparator-treated patients.
+An Independent Pediatric Safety Committee (IPSC) reviewed all cases of musculoskeletal adverse reactions including abnormal gait or abnormal joint exam (baseline or treatment-emergent).
+Within 6 weeks of treatment initiation, the rates of musculoskeletal adverse reactions were 9.3% (31/335) in the ciprofloxacin-treated group versus 6% (21/349) in comparator-treated patients.
+All musculoskeletal adverse reactions occurring by 6 weeks resolved (clinical resolution of signs and symptoms), usually within 30 days of end of treatment.
+Radiological evaluations were not routinely used to confirm resolution of the adverse reactions.
+Ciprofloxacin-treated patients were more likely to report more than one adverse reaction and on more than one occasion compared to control patients.
+The rate of musculoskeletal adverse reactions was consistently higher in the ciprofloxacin group compared to the control group across all age subgroups.
+At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 6).
 
-An adolescent female discontinued ciprofloxacin for wrist pain that developed during treatment.
-An MRI performed 4 weeks later showed a tear in the right ulnar fibrocartilage.
-A diagnosis of overuse syndrome secondary to sports activity was made, but a contribution from ciprofloxacin cannot be excluded.
-The patient recovered by 4 months without surgical intervention.
+Table 6: Musculoskeletal Adverse ReactionsIncluded: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder) as Assessed by the IPSC
 
-Findings Involving Joint or Peri-articular Tissues as Assessed by the IPSC
+|  |  |  | CIPRO | Comparator |
+| --- | --- | --- | --- | --- |
+| All Patients (within 6 weeks) | 31/335 (9.3%) |  | 21/349 (6%) |  |
+| 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the CIPRO group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |  |  |
+| Age Group |  |  |  |  |
+| 12 months to 24 months | 1/36 (2.8%) |  | 0/41 |  |
+| 2 years to <6 years | 5/124 (4%) |  | 3/118 (2.5%) |  |
+| 6 years to <12 years | 18/143 (12.6%) |  | 12/153 (7.8%) |  |
+| 12 years to 17 years | 7/32 (21.9%) |  | 6/37 (16.2 %) |  |
+| All Patients (within 1 year) | 46/335 (13.7%) |  | 33/349 (9.5%) |  |
+| 95% Confidence Interval | (-0.6%, + 9.1%) |  |  |  |
 
-|  | Ciprofloxacin | Comparator |
-| --- | --- | --- |
-| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |
-| 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the ciprofloxacin group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |
-| Age Group |  |  |
-| ≥ 12 months < 24 months | 1/36 (2.8%) | 0/41 |
-| ≥ 2 years < 6 years | 5/124 (4%) | 3/118 (2.5%) |
-| ≥ 6 years < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
-| ≥ 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
-| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
-| 95% Confidence Interval | (-0.6%, +9.1%) |  |
+The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
-The incidence rates of neurological events within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
+In this trial, the overall incidence rates of adverse reactions within 6 weeks of treatment initiation were 41% (138/335) in the ciprofloxacin group versus 31% (109/349) in the comparator group.
+The most frequent adverse reactions were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
+Serious adverse reactions were seen in 7.5% (25/335) of ciprofloxacin-treated patients compared to 5.7% (20/349) of control patients.
+Discontinuation of drug due to an adverse reaction was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
+Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
-In this trial, the overall incidence rates of adverse events regardless of relationship to study drug and within 6 weeks of treatment initiation were 41% (138/335) in the ciprofloxacin group versus 31% (109/349) in the comparator group.
-The most frequent events were gastrointestinal: 15% (50/335) of ciprofloxacin patients compared to 9% (31/349) of comparator patients.
-Serious adverse events were seen in 7.5% (25/335) of ciprofloxacin-treated patients compared to 5.7% (20/349) of control patients.
-Discontinuation of drug due to an adverse event was observed in 3% (10/335) of ciprofloxacin-treated patients versus 1.4% (5/349) of comparator patients.
-Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, accidental injury 3%, rhinitis 3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
+Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5–17 years).
+Sixty seven patients received CIPRO IV 10 mg/kg/dose every 8 hours for one week followed by CIPRO tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10–21 days.
+Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
+Patients were followed for an average of 23 days after completing treatment (range 0–93 days).
+Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.
+Decreased range of motion was reported in 12% of the subjects in the ciprofloxacin group and 16% in the comparison group.
+Arthralgia was reported in 10% of the patients in the ciprofloxacin group and 11% in the comparison group.
+Other adverse reactions were similar in nature and frequency between treatment arms.
+The efficacy of CIPRO for the treatment of acute pulmonary exacerbations in pediatric cystic fibrosis patients has not been established.
 
-In addition to the events reported in pediatric patients in clinical trials, it should be expected that events reported in adults during clinical trials or post-marketing experience may also occur in pediatric patients.
+In addition to the adverse reactions reported in pediatric patients in clinical trials, it should be expected that adverse reactions reported in adults during clinical trials or postmarketing experience may also occur in pediatric patients.
 
-## Postmarketing Adverse Event Reports
+## 6.2 Postmarketing Experience
 
-The following adverse events have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
+The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including CIPRO IV.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 7).
 
-Acute generalized exanthematous pustulosis (AGEP), Agitation, agranulocytosis, albuminuria, anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural) International Normalized Ratio (INR) increased (in patients treated with Vitamin K antagonists), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy that may be irreversable, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, polyneuropathy, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment), psychosis (toxic), QT prolongation, renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell’s Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, vasculitis, and ventricular arrhythmia.
-(See PRECAUTIONS.)
+Table 7: Postmarketing Reports of Adverse Drug Reactions
 
-Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001 (See also Inhalational Anthrax, Additional Information).
+| System Organ Class | Adverse Reactions |
+| --- | --- |
+| Cardiovascular | QT prolongationTorsade de PointesVasculitis and ventricular arrhythmia |
+| Central Nervous System | HypertoniaMyastheniaExacerbation of myasthenia gravisPeripheral neuropathyPolyneuropathyTwitching |
+| Eye Disorders | Nystagmus |
+| Gastrointestinal | Pseudomembranous colitis |
+| Hemic/Lymphatic | Pancytopenia (life threatening or fatal outcome)Methemoglobinemia |
+| Hepatobiliary | Hepatic failure (including fatal cases) |
+| Infections and Infestations | Candidiasis (oral, gastrointestinal, vaginal) |
+| Investigations | Prothrombin time prolongation or decreaseCholesterol elevation (serum)Potassium elevation (serum) |
+| Musculoskeletal | MyalgiaMyoclonusTendinitisTendon rupture |
+| Psychiatric Disorders | AgitationConfusion Delirium |
+| Skin/Hypersensitivity | Acute generalize exanthematous pustulosis (AGEP)Fixed eruptionSerum sickness-like reaction |
+| Special Senses | AnosmiaHyperesthesiaHypesthesiaTaste loss |
 
-## Adverse Laboratory Changes
+## 6.3 Adverse Laboratory Changes
 
-The most frequently reported changes in laboratory parameters with intravenous ciprofloxacin therapy, without regard to drug relationship are listed below:
+Changes in laboratory parameters while on CIPRO IV therapy are listed below:
 
-Hepatic—elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, LDH, and serum bilirubin
+- •Hepatic-Elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, LDH, and serum bilirubin
+- •Hematologic-Elevated eosinophil and platelet counts, decreased platelet counts, hemoglobin and/or hematocrit
+- •Renal-Elevations of serum creatinine, BUN, and uric acid
+- •Other elevations of serum creatine phosphokinase, serum theophylline (in patients receiving theophylline concomitantly), blood glucose, and triglycerides
 
-Hematologic—elevated eosinophil and platelet counts, decreased platelet counts, hemoglobin and/or hematocrit
-
-Renal—elevations of serum creatinine, BUN, and uric acid
-
-Other—elevations of serum creatine phosphokinase, serum theophylline (in patients receiving theophylline concomitantly), blood glucose, and triglycerides
-
-Other changes occurring infrequently were: decreased leukocyte count, elevated atypical lymphocyte count, immature WBCs, elevated serum calcium, elevation of serum gamma-glutamyl transpeptidase (gGT), decreased BUN, decreased uric acid, decreased total serum protein, decreased serum albumin, decreased serum potassium, elevated serum potassium, elevated serum cholesterol.
-Other changes occurring rarely during administration of ciprofloxacin were: elevation of serum amylase, decrease of blood glucose, pancytopenia, leukocytosis, elevated sedimentation rate, change in serum phenytoin, decreased prothrombin time, hemolytic anemia, and bleeding diathesis.
+Other changes occurring were: decreased leukocyte count, elevated atypical lymphocyte count, immature WBCs, elevated serum calcium, elevation of serum gamma-glutamyl transpeptidase (gGT), decreased BUN, decreased uric acid, decreased total serum protein, decreased serum albumin, decreased serum potassium, elevated serum potassium, elevated serum cholesterol.
+Other changes occurring during administration of ciprofloxacin were: elevation of serum amylase, decrease of blood glucose, pancytopenia, leukocytosis, elevated sedimentation rate, change in serum phenytoin, decreased prothrombin time, hemolytic anemia, and bleeding diathesis.
