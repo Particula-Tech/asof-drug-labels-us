@@ -1,5 +1,3 @@
-# Click here to enter text.
-
 Medication Guide
 
 CIPRO® (Sip-row)
