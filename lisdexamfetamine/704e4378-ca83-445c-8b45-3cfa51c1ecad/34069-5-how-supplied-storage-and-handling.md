@@ -2,27 +2,27 @@
 
 ## 16.1 How Supplied
 
-Vyvanse capsules 10 mg: pink body/pink cap (imprinted with S489 and 10 mg), bottles of 100, NDC 59417-101-10
+VYVANSE capsules 10 mg: pink body/pink cap (imprinted with S489 and 10 mg), bottles of 100, NDC 59417-101-10
 
-Vyvanse capsules 20 mg: ivory body/ivory cap (imprinted with S489 and 20 mg), bottles of 100, NDC 59417-102-10
+VYVANSE capsules 20 mg: ivory body/ivory cap (imprinted with S489 and 20 mg), bottles of 100, NDC 59417-102-10
 
-Vyvanse capsules 30 mg: white body/orange cap (imprinted with S489 and 30 mg), bottles of 100, NDC 59417-103-10
+VYVANSE capsules 30 mg: white body/orange cap (imprinted with S489 and 30 mg), bottles of 100, NDC 59417-103-10
 
-Vyvanse capsules 40 mg: white body/blue green cap (imprinted with S489 and 40 mg), bottles of 100, NDC 59417-104-10
+VYVANSE capsules 40 mg: white body/blue green cap (imprinted with S489 and 40 mg), bottles of 100, NDC 59417-104-10
 
-Vyvanse capsules 50 mg: white body/blue cap (imprinted with S489 and 50 mg), bottles of 100, NDC 59417-105-10
+VYVANSE capsules 50 mg: white body/blue cap (imprinted with S489 and 50 mg), bottles of 100, NDC 59417-105-10
 
-Vyvanse capsules 60 mg: aqua blue body/aqua blue cap (imprinted with S489 and 60 mg), bottles of 100, NDC 59417-106-10
+VYVANSE capsules 60 mg: aqua blue body/aqua blue cap (imprinted with S489 and 60 mg), bottles of 100, NDC 59417-106-10
 
-Vyvanse capsules 70 mg: blue body/orange cap (imprinted with S489 and 70 mg), bottles of 100, NDC 59417-107-10
+VYVANSE capsules 70 mg: blue body/orange cap (imprinted with S489 and 70 mg), bottles of 100, NDC 59417-107-10
 
 ## 16.2 Storage and Handling
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Store at 25° C (77° F). Excursions permitted to 15-30° C (59-86° F) [see USP Controlled Room Temperature].
+Store at room temperature, 20ºC to 25º C (68ºF to 77º F). Excursions permitted between 15ºC and 30º C (59 to 86º F) [see USP Controlled Room Temperature].
 
 Disposal
 
 Comply with local laws and regulations on drug disposal of CNS stimulants.
-Dispose of remaining, unused, or expired Vyvanse by a medicine take-back program.
+Dispose of remaining, unused, or expired VYVANSE by a medicine take-back program.

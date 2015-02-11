@@ -2,10 +2,10 @@
 
 ## 2.1 General Instructions for Use
 
-Take Vyvanse by mouth in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
-Vyvanse may be administered in one of the following ways:
+Take VYVANSE by mouth in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
+VYVANSE may be administered in one of the following ways:
 
-- Swallow Vyvanse capsules whole, or
+- Swallow VYVANSE capsules whole, or
 - Open capsules, empty and mix the entire contents with yogurt, water, or orange juice.
   If the contents of the capsule include any compacted powder, a spoon may be used to break apart the powder.
   The contents should be mixed until completely dispersed.
@@ -14,24 +14,32 @@ Vyvanse may be administered in one of the following ways:
   The active ingredient dissolves completely once dispersed; however, a film containing the inactive ingredients may remain in the glass or container once the mixture is consumed.
   Do not take anything less than one capsule per day, and a single capsule should not be divided.
 
-## 2.2 Dosing Information
+## 2.2 Dosage for Treatment of ADHD
 
 The recommended starting dose is 30 mg once daily in the morning in patients ages 6 and above.
 Dosage may be adjusted in increments of 10 mg or 20 mg at approximately weekly intervals up to maximum dose of 70 mg/day.
-Patients may be maintained on their optimal dose [see Clinical Studies (14)].
+Patients may be maintained on their optimal dose [see Clinical Studies (14.1)].
 
-In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2) the maximum dose should not exceed 50 mg/day.
-In patients with end stage renal disease (ESRD, GFR < 15 mL/min/1.73 m2), the maximum recommended dose is 30 mg/day [see Use in Specific Populations (8.6)].
+## 2.3 Dosage for Treatment of Moderate to Severe BED
 
-## 2.3 Important Information Prior to Dosing
+The recommended starting dose is 30 mg/day to be titrated in increments of 20 mg at approximately weekly intervals to achieve the recommended target dose of 50 to 70 mg/day.
+The maximum dose is 70 mg/day [see Clinical Studies (14.2)].
+Discontinue VYVANSE if binge eating does not improve.
+
+## 2.4 Important Information Prior to Dosing
 
 Prior to treating children, adolescents, and adults with CNS stimulants, assess for the presence of cardiac disease (e.g., a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
-To reduce the abuse of CNS stimulants including Vyvanse, assess the risk of abuse, prior to prescribing.
-After prescribing, keep careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and re-evaluate the need for Vyvanse use [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
+To reduce the abuse of CNS stimulants including VYVANSE, assess the risk of abuse, prior to prescribing.
+After prescribing, keep careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and re-evaluate the need for VYVANSE use [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
 
-## 2.4 Dosage Modifications due to Drug Interactions
+## 2.5 Dosage in Patients with Renal Impairment
+
+In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day.
+In patients with end stage renal disease (ESRD, GFR < 15 mL/min/1.73 m2), the maximum recommended dose is 30 mg/day [see Use in Specific Populations (8.6)].
+
+## 2.6 Dosage Modifications due to Drug Interactions
 
 Agents that alter urinary pH can impact urinary excretion and alter blood levels of amphetamine.
 Acidifying agents (e.g., ascorbic acid) decrease blood levels, while alkalinizing agents (e.g., sodium bicarbonate) increase blood levels.
-Adjust Vyvanse dosage accordingly [see Drug Interactions (7.1)].
+Adjust VYVANSE dosage accordingly [see Drug Interactions (7.1)].

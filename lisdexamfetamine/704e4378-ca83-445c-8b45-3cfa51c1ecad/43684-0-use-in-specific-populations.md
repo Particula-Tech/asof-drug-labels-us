@@ -6,15 +6,15 @@ Pregnancy Category C
 
 Risk Summary
 
-There are no adequate and well-controlled studies with Vyvanse in pregnant women.
+There are no adequate and well-controlled studies with VYVANSE in pregnant women.
 Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in infants born to mothers dependent on amphetamines.
 Long-term neurochemical and behavioral effects have been reported in animal developmental studies using clinically relevant doses of amphetamine (d- or d,l-).
 Animal reproduction studies performed with lisdexamfetamine dimesylate in rats and rabbits showed no effects on embryofetal morphological development and survival.
-Vyvanse should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+VYVANSE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Clinical Considerations
 
-Amphetamines, such as Vyvanse, cause vasoconstriction and thereby may decrease placental perfusion.
+Amphetamines, such as VYVANSE, cause vasoconstriction and thereby may decrease placental perfusion.
 Infants born to amphetamine-dependent mothers have an increased risk of premature delivery and low birth weight.
 
 Monitor infants born to mothers taking amphetamines for symptoms of withdrawal such as feeding difficulties, irritability, agitation, and excessive drowsiness.
@@ -40,12 +40,18 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+ADHD
+
+Safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
 Safety and efficacy in pediatric patients below the age of 6 years have not been established.
+
+BED
+
+Safety and effectiveness in patients less than 18 years of age have not been established.
 
 Growth Suppression
 
-Growth should be monitored during treatment with stimulants, including Vyvanse, and children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+Growth should be monitored during treatment with stimulants, including VYVANSE, and children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
 Juvenile Animal Data
 
@@ -61,17 +67,17 @@ This effect partially or fully reversed during a four-week drug-free recovery pe
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Vyvanse did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of VYVANSE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience and pharmacokinetic data [see Clinical Pharmacology (12.3)] have not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Renal Impairment
 
-Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2) the maximum dose should not exceed 50 mg/day.
-And the maximum recommended dose in ESRD (GFR < 15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
+Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day.
+The maximum recommended dose in ESRD (GFR < 15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
 
 Lisdexamfetamine and d-amphetamine are not dialyzable.
 
 ## 8.7 Gender
 
-No dosage adjustment of Vyvanse is necessary on the basis of gender [see CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment of VYVANSE is necessary on the basis of gender [see Clinical Pharmacology (12.3)].

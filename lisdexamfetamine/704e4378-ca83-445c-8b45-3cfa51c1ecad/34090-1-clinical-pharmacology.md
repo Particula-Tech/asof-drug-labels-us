@@ -15,11 +15,11 @@ In 18 patients ages 6 to 12 years with ADHD, the Tmax of dextroamphetamine was a
 The Tmax of lisdexamfetamine was approximately 1 hour.
 Linear pharmacokinetics of dextroamphetamine after single-dose oral administration of lisdexamfetamine dimesylate was established over the dose range of 30 mg to 70 mg in children ages 6 to 12 years and over a range of 50 mg to 250 mg in adults.
 Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
-Safety and efficacy have not been studied above the maximum recommended dose of 70 mg.
+Safety and efficacy have not been studied above the maximum recommended dose of 70mg.
 
 There is no accumulation of dextroamphetamine AUC at steady state in healthy adults and no accumulation of lisdexamfetamine after once-daily dosing for 7 consecutive days.
 
-Neither food (a high fat meal or yogurt) nor orange juice affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of Vyvanse capsules.
+Neither food (a high fat meal or yogurt) nor orange juice affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of VYVANSE capsules.
 Food prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal or to 4.2 hrs with yogurt).
 After an 8-hour fast, the AUCs for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
 
