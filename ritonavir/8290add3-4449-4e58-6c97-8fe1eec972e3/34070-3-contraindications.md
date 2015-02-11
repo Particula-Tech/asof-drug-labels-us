@@ -4,9 +4,9 @@
 
 - Co-administration of KALETRA is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions.
 - Co-administration of KALETRA is contraindicated with potent CYP3A inducers where significantly reduced lopinavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance.
-  These drugs are listed in Table 3.
+  These drugs are listed in Table 8.
 
-Table 3.
+Table 8.
 Drugs That are Contraindicated with KALETRA
 
 | Drug Class | Drugs Within Class That are Contraindicated with KALETRA | Clinical Comments |
@@ -20,4 +20,4 @@ Drugs That are Contraindicated with KALETRA
 | PDE5 Enzyme Inhibitor | Sildenafila (Revatio®) when used for the treatment of pulmonary arterial hypertension | A safe and effective dose has not been established when used with KALETRA. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope [see Drug Interactions (7)]. |
 | Neuroleptic | Pimozide | Potential for cardiac arrhythmias. |
 | Sedative/Hypnotics | Triazolam; orally administered midazolamb | Prolonged or increased sedation or respiratory depression. |
-| a see Drug Interactions (7), Table 8 for co-administration of sildenafil in patients with erectile dysfunction. bsee Drug Interactions (7), Table 8 for parenterally administered midazolam. |  |  |
+| a see Drug Interactions (7), Table 13 for co-administration of sildenafil in patients with erectile dysfunction. b see Drug Interactions (7), Table 13 for parenterally administered midazolam. |  |  |

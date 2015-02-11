@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-KALETRA (lopinavir/ritonavir) is a co-formulation of lopinavir and ritonavir.
+KALETRA is a co-formulation of lopinavir and ritonavir.
 Lopinavir is an inhibitor of the HIV-1 protease.
 As co-formulated in KALETRA, ritonavir inhibits the CYP3A-mediated metabolism of lopinavir, thereby providing increased plasma levels of lopinavir.
 
@@ -16,15 +16,15 @@ Ritonavir is a white to light tan powder.
 It is freely soluble in methanol and ethanol, soluble in isopropanol and practically insoluble in water.
 Ritonavir has the following structural formula:
 
-KALETRA film-coated tablets are available for oral administration in two strengths:
+KALETRA tablets are available for oral administration in two strengths:
 
 - Yellow tablets containing 200 mg of lopinavir and 50 mg of ritonavir
 - Pale yellow tablets containing 100 mg of lopinavir and 25 mg of ritonavir.
 
-The yellow, 200 mg lopinavir/50 mg ritonavir, tablets contain the following inactive ingredients: copovidone, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
+The yellow, 200 mg lopinavir and 50 mg ritonavir, tablets contain the following inactive ingredients: copovidone, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
 The following are the ingredients in the film coating: hypromellose, titanium dioxide, polyethylene glycol 400, hydroxypropyl cellulose, talc, colloidal silicon dioxide, polyethylene glycol 3350, yellow ferric oxide E172, and polysorbate 80.
 
-The pale yellow, 100 mg lopinavir/25 mg ritonavir, tablets contain the following inactive ingredients: copovidone, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
+The pale yellow, 100 mg lopinavir and 25 mg ritonavir, tablets contain the following inactive ingredients: copovidone, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
 The following are the ingredients in the film coating: polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and yellow ferric oxide E172.
 
 KALETRA oral solution is available for oral administration as 80 mg lopinavir and 20 mg ritonavir per milliliter with the following inactive ingredients: acesulfame potassium, alcohol, artificial cotton candy flavor, citric acid, glycerin, high fructose corn syrup, Magnasweet-110 flavor, menthol, natural & artificial vanilla flavor, peppermint oil, polyoxyl 40 hydrogenated castor oil, povidone, propylene glycol, saccharin sodium, sodium chloride, sodium citrate, and water.

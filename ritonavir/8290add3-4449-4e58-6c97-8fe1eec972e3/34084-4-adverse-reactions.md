@@ -7,11 +7,11 @@ The following adverse reactions are discussed in greater detail in other section
 - Pancreatitis [see Warnings and Precautions (5.3)]
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-## 6.1 Adult Clinical Trial Experience
-
-Treatment-Emergent Adverse Reactions
+Adverse Reactions in Adults
 
 The safety of KALETRA has been investigated in about 2,600 patients in Phase II-IV clinical trials, of which about 700 have received a dose of 800/200 mg (6 capsules or 4 tablets) once daily.
 Along with nucleoside reverse transcriptase inhibitors (NRTIs), in some studies, KALETRA was used in combination with efavirenz or nevirapine.
@@ -22,10 +22,10 @@ At the time of treatment discontinuation, 4.2-6.3% of patients taking once daily
 
 Commonly reported adverse reactions to KALETRA included diarrhea, nausea, vomiting, hypertriglyceridemia and hypercholesterolemia.
 Diarrhea, nausea and vomiting may occur at the beginning of the treatment while hypertriglyceridemia and hypercholesterolemia may occur later.
-The following have been identified as adverse reactions of moderate or severe intensity (Table 4):
+The following have been identified as adverse reactions of moderate or severe intensity (Table 9):
 
-Table 4.
-Treatment-Emergent Adverse Reactions of Moderate or Severe Intensity Occurring in at Least 0.1% of Adult Patients Receiving KALETRA in Combined Phase II/IV Studies (N=2,612)
+Table 9.
+Adverse Reactions of Moderate or Severe Intensity Occurring in at Least 0.1% of Adult Patients Receiving KALETRA in Combined Phase II/IV Studies (N=2,612)
 
 | System Organ Class (SOC) and Adverse Reaction |  | n | % |
 | --- | --- | --- | --- |
@@ -125,11 +125,11 @@ Treatment-Emergent Adverse Reactions of Moderate or Severe Intensity Occurring i
 | deep vein thrombosis* |  | 17 | 0.7 |
 | *Represents a medical concept including several similar MedDRA PTs 1. Percentage of male population (N=2,038) 2. Percentage of female population (N=574) |  |  |  |
 
-Laboratory Abnormalities
+Laboratory Abnormalities in Adults
 
-The percentages of adult patients treated with combination therapy with Grade 3-4 laboratory abnormalities are presented in Table 5 (treatment-naïve patients) and Table 6 (treatment-experienced patients).
+The percentages of adult patients treated with combination therapy with Grade 3-4 laboratory abnormalities are presented in Table 10 (treatment-naïve patients) and Table 11 (treatment-experienced patients).
 
-Table 5.
+Table 10.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
 
 |  |  | Study 863 (48 Weeks) |  | Study 720 (360 Weeks) | Study 730 (48 Weeks) |  |
@@ -151,7 +151,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Na
 | Neutrophils | <0.75 x 109/L | 1% | 3% | 5% | 2% | 1% |
 | 1 ULN = upper limit of the normal range; N/A = Not Applicable. 2 Criterion for Study 730 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
-Table 6.
+Table 11.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
 |  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
@@ -176,7 +176,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibito
 | Hemoglobin | <80 g/L | 1% | 1% | 1% | 1% | 2% |
 | 1 ULN = upper limit of the normal range; N/A = Not Applicable. 2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz. 3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. 4 Criterion for Study 802 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
-## 6.2 Pediatric Clinical Trial Experience
+Adverse Reactions in Pediatric Patients
 
 KALETRA oral solution dosed up to 300/75 mg/m2 has been studied in 100 pediatric patients 6 months to 12 years of age.
 The adverse reaction profile seen during Study 940 was similar to that for adult patients.
@@ -197,11 +197,11 @@ Rash (12%), blood cholesterol abnormal (12%) and blood triglycerides abnormal (1
 Adverse drug reactions of moderate to severe intensity occurring in 2 or more subjects included rash (N=3), blood triglycerides abnormal (N=3), and electrocardiogram QT prolonged (N=2).
 Both subjects with QT prolongation had additional predisposing conditions such as electrolyte abnormalities, concomitant medications, or pre-existing cardiac abnormalities.
 
-Laboratory Abnormalities
+Laboratory Abnormalities in Pediatric Patients
 
-The percentages of pediatric patients treated with combination therapy including KALETRA with Grade 3-4 laboratory abnormalities are presented in Table 7.
+The percentages of pediatric patients treated with combination therapy including KALETRA with Grade 3-4 laboratory abnormalities are presented in Table 12.
 
-Table 7.
+Table 12.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Study 940
 
 | Variable | Limit1 | KALETRA Twice Daily + RTIs (N = 100) |
@@ -220,7 +220,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Stud
 | Neutrophils | < 0.40 x 109/L | 2% |
 | 1 ULN = upper limit of the normal range. 2 Subjects with Grade 3-4 amylase confirmed by elevations in pancreatic amylase. |  |  |
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of KALETRA.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to KALETRA exposure.

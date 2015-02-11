@@ -2,26 +2,42 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Pregnancy Exposure Registry
 
-Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to KALETRA, an Antiretroviral Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1-800-258-4263.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to KALETRA during pregnancy.
+Physicians are encouraged to register patients by calling the Antiretroviral Pregnancy Registry at 1-800-258-4263.
+
+Risk Summary
+
+Available data from the Antiretroviral Pregnancy Registry show no difference in the risk of overall major birth defects compared to the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+No treatment-related malformations were observed when lopinavir in combination with ritonavir was administered to pregnant rats or rabbits; however embryonic and fetal developmental toxicities occurred in rats administered maternally toxic doses.
+
+Clinical Considerations
+
+Dose Adjustments During Pregnancy and the Postpartum Period
+
+Administer 400/100 mg of KALETRA twice daily in pregnant patients with no documented lopinavir-associated resistance substitutions [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+There are insufficient data to recommend KALETRA dosing for pregnant patients with any documented lopinavir-associated resistance substitutions.
+No dose adjustment of KALETRA is required for patients during the postpartum period.
+
+Once daily KALETRA dosing is not recommended in pregnancy.
+
+Avoid use of KALETRA oral solution during pregnancy due to the alcohol content.
+KALETRA oral solution contains the excipients alcohol (42.4% v/v) and propylene glycol (15.3% w/v).
+
+Data
 
 Human Data
 
-There are no adequate and well-controlled studies in pregnant women.
-KALETRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+KALETRA was evaluated in 12 HIV-infected pregnant women in an open-label pharmacokinetic trial [see Clinical Pharmacology (12.3)].
+No new trends in the safety profile were identified in pregnant women dosed with KALETRA compared to the safety described in non-pregnant adults, based on the review of these limited data.
 
-Antiretroviral Pregnancy Registry
-
-As of January 2011, the Antiretroviral Pregnancy Registry (APR) has received prospective reports of 2458 exposures to lopinavir containing regimens (738 exposed in the first trimester and 1720 exposed in the second and third trimester).
-Birth defects occurred in 16 of the 738 (2.2%) live births (first trimester exposure) and 41 of the 1720 (2.4%) live births (second/third trimester exposure).
-Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
-There was no association between lopinavir and overall birth defects observed in the APR.
+Antiretroviral Pregnancy Registry Data: Based on prospective reports from the Antiretroviral Pregnancy Registry (APR) of over 3,000 exposures to lopinavir containing regimens (including over 1,000 exposed in the first trimester), there was no difference between lopinavir and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program.
+Based on prospective reports from the APR of over 5,000 exposures to ritonavir containing regimens (including over 2,000 exposures in the first trimester) there was no difference between ritonavir and overall birth defects compared with the U.S. background rate (MACDP).
+For both lopinavir and ritonavir, sufficient numbers of first trimester exposures have been monitored to detect at least a 1.5 fold increase in risk of overall birth defects and a 2 fold increase in risk of birth defects in the cardiovascular and genitourinary systems.
 
 Animal Data
 
-No treatment-related malformations were observed when lopinavir in combination with ritonavir was administered to pregnant rats or rabbits.
 Embryonic and fetal developmental toxicities (early resorption, decreased fetal viability, decreased fetal body weight, increased incidence of skeletal variations and skeletal ossification delays) occurred in rats at a maternally toxic dosage.
 Based on AUC measurements, the drug exposures in rats at the toxic doses were approximately 0.7-fold for lopinavir and 1.8-fold for ritonavir for males and females that of the exposures in humans at the recommended therapeutic dose (400/100 mg twice daily).
 In a peri- and postnatal study in rats, a developmental toxicity (a decrease in survival in pups between birth and postnatal Day 21) occurred.
@@ -29,12 +45,12 @@ In a peri- and postnatal study in rats, a developmental toxicity (a decrease in 
 No embryonic and fetal developmental toxicities were observed in rabbits at a maternally toxic dosage.
 Based on AUC measurements, the drug exposures in rabbits at the toxic doses were approximately 0.6-fold for lopinavir and 1.0-fold for ritonavir that of the exposures in humans at the recommended therapeutic dose (400/100 mg twice daily).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
+
+Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
-Studies in rats have demonstrated that lopinavir is secreted in milk.
-It is not known whether lopinavir is secreted in human milk.
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving KALETRA.
+Because of the potential for HIV-1 transmission in breastfed infants, advise women not to breastfeed.
 
 ## 8.4 Pediatric Use
 

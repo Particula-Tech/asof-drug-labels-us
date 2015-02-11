@@ -2,15 +2,15 @@ MEDICATION GUIDE
 
 KALETRA® (kuh-LEE-tra)
 
-(lopinavir/ritonavir)
+(lopinavir and ritonavir)
 
-Tablets
+tablets
 
 KALETRA® (kuh-LEE-tra)
 
-(lopinavir/ritonavir)
+(lopinavir and ritonavir)
 
-Oral Solution
+oral solution
 
 Read this Medication Guide before you start taking KALETRA and each time you get a refill.
 There may be new information.
@@ -62,7 +62,7 @@ Avoid doing things that can spread HIV-1 infection to others:
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Ask your doctor if you have any questions on how to prevent passing HIV to other people.
 
@@ -104,16 +104,18 @@ Tell your doctor about all your medical conditions, including if you:
   People who take KALETRA may have increased bleeding.
 - have low potassium in your blood.
 - are pregnant or plan to become pregnant.
-  It is not known if KALETRA will harm your unborn baby.
+  Taking KALETRA during pregnancy has not been associated with an increased risk of birth defects.
+  You and your doctor should decide if KALETRA is right for you.
   Pregnancy Registry.
   There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
   Talk to your doctor about how you can take part in this registry.
-- Do not breastfeed.
-  We do not know if KALETRA can be passed to the baby through your breast milk and whether it could harm your baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+- are breastfeeding or plan to breastfeed.
+  Do not breastfeed if you take KALETRA.
+  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+  - Talk to your doctor about the best way to feed your baby.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Many medicines interact with KALETRA.
 Do not start taking a new medicine without telling your doctor or pharmacist.
 Your doctor can tell you if it is safe to take KALETRA with other medicines.
@@ -132,7 +134,7 @@ Especially tell your doctor if you take:
 - atorvastatin (Lipitor®)
 - atovaquone (Marlarone®, Mepron®)
 - avanafil (Stendra®), sildenafil (Viagra®), tadalafil (Cialis®), or vardenafil (Levitra®) for the treatment of erectile dysfunction (ED).
-  If you get dizzy or faint (low blood pressure), have vision changes or have an erection that last longer than 4 hours, call your doctor or get medical help right away
+  If you get dizzy or faint (low blood pressure), have vision changes or have an erection that last longer than 4 hours, call your doctor or get medical help right away.
 - bepridil (Bepadin®, Vascor®)
 - boceprevir (Victrelis®)
 - bosentan (Tracleer®)
@@ -183,6 +185,8 @@ How should I take KALETRA?
 - Take KALETRA every day exactly as prescribed by your doctor.
 - It is very important to set up a dosing schedule and follow it every day.
 - Do not change your treatment or stop treatment without first talking with your doctor.
+- KALETRA tablets should not be taken 1 time each day if you are pregnant.
+  You should not take KALETRA oral solution if you are pregnant.
 - Swallow KALETRA tablets whole.
   Do not chew, break, or crush KALETRA tablets.
 - KALETRA tablets can be taken with or without food.
@@ -250,7 +254,7 @@ KALETRA can cause serious side effects, including:
   Some people with hemophilia have increased bleeding with protease inhibitors including KALETRA.
 - Allergic reactions.
   Skin rashes, some of them severe, can occur in people who take KALETRA.
-  Tell your healthcare provider if you had a rash when you took another medicine for your HIV-1 infection or if you notice any skin rash when you take KALETRA.
+  Tell your doctor if you had a rash when you took another medicine for your HIV-1 infection or if you notice any skin rash when you take KALETRA.
 - Babies taking KALETRA oral solution may have side effects.
   KALETRA oral solution contains alcohol and propylene glycol.
   Call your doctor right away if your baby appears too sleepy or their breathing has changed.
@@ -299,6 +303,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about KALETRA.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about KALETRA that is written for health professionals.
+
 For more information about KALETRA call 1-800-633-9110 or go to www.KALETRA.com.
 
 What are the ingredients in KALETRA?
@@ -320,18 +325,20 @@ KALETRA oral solution contains 42.4% alcohol (v/v).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-2013, ALL RIGHTS RESERVED
-
-* The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
-
-KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
+KALETRA Tablets, 200 mg lopinavir and 50 mg ritonavir
 
 Manufactured by AbbVie LTD, Barceloneta, PR 00617
 
 for AbbVie Inc., North Chicago, IL 60064 USA
 
-KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
+KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-03-A841 November 2013
+Revised: January 2015
+
+The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
+
+© 2015 AbbVie Inc. All rights reserved.
+
+03-B108

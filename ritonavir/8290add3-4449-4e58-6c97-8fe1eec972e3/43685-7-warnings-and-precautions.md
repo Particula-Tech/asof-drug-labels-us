@@ -8,7 +8,7 @@ Higher plasma concentrations of concomitant medications can result in increased 
 The potential for drug-drug interactions must be considered prior to and during therapy with KALETRA.
 Review of other medications taken by patients and monitoring of patients for adverse effects is recommended during therapy with KALETRA.
 
-See Tables 3 and 9 for listing of drugs that are contraindicated for use with KALETRA due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity [see Contraindications (4) and Drug Interactions (7)].
+See Tables 8 and 13 for listing of drugs that are contraindicated for use with KALETRA due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Toxicity in Preterm Neonates
 
@@ -20,7 +20,7 @@ Postmarketing life-threatening cases of cardiac toxicity (including complete AV 
 KALETRA oral solution should not be used in preterm neonates in the immediate postnatal period because of possible toxicities.
 A safe and effective dose of KALETRA oral solution in this patient population has not been established.
 However, if the benefit of using KALETRA oral solution to treat HIV infection in infants immediately after birth outweighs the potential risks, infants should be monitored closely for increases in serum osmolality and serum creatinine, and for toxicity related to KALETRA oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, CNS depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
-Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.2) and Overdosage (10)].
+Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.3) and Overdosage (10)].
 
 ## 5.3 Pancreatitis
 

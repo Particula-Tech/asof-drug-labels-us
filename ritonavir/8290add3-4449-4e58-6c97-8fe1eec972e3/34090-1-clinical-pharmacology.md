@@ -114,6 +114,12 @@ Both groups of subjects also achieved relatively high average minimum lopinavir 
 
 KALETRA once daily has not been evaluated in pediatric patients.
 
+Pregnancy
+
+In an open-label pharmacokinetic study, 12 HIV-infected pregnant women received KALETRA 400 mg/100 mg (two 200/50 mg tablets) twice daily as part of an antiretroviral regimen.
+Plasma concentrations of lopinavir were measured over 12-hour periods during the second trimester (20-24 weeks gestation), the third trimester (30 weeks gestation) and at 8 weeks post-partum.
+The C12h values of lopinavir were lower during the second and third trimester by approximately 40% as compared to post-partum, but this decrease is not considered clinically relevant in patients with no documented KALETRA-associated resistance substitutions receiving 400 mg/100 mg twice daily.
+
 Renal Impairment
 
 Lopinavir pharmacokinetics have not been studied in patients with renal impairment; however, since the renal clearance of lopinavir is negligible, a decrease in total body clearance is not expected in patients with renal impairment.
@@ -140,11 +146,11 @@ Drugs that induce CYP3A activity would be expected to increase the clearance of 
 Although not noted with concurrent ketoconazole, co-administration of KALETRA and other drugs that inhibit CYP3A may increase lopinavir plasma concentrations.
 
 Drug interaction studies were performed with KALETRA and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
-The effects of co-administration of KALETRA on the AUC, Cmax and Cmin are summarized in Table 9 (effect of other drugs on lopinavir) and Table 10 (effect of KALETRA on other drugs).
+The effects of co-administration of KALETRA on the AUC, Cmax and Cmin are summarized in Table 14 (effect of other drugs on lopinavir) and Table 15 (effect of KALETRA on other drugs).
 The effects of other drugs on ritonavir are not shown since they generally correlate with those observed with lopinavir (if lopinavir concentrations are decreased, ritonavir concentrations are decreased) unless otherwise indicated in the table footnotes.
-For information regarding clinical recommendations, see Table 8 in Drug Interactions (7).
+For information regarding clinical recommendations, see Table 13 in Drug Interactions (7).
 
-Table 9.
+Table 14.
 Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of the Co-administered Drug for Recommended Alterations in Dose or Regimen
 
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with Co-administered drug/alone) of Lopinavir Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
@@ -172,10 +178,10 @@ Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of t
 | Ritonavir4 | 100 twice daily, 3-4 wk# | 400/100 capsule twice daily, 3-4 wk | 8, 21* | 1.28 (0.94, 1.76) | 1.46 (1.04, 2.06) | 2.16 (1.29, 3.62) |
 | Telaprevir | 750 q8h, 10 days | 400/100 tablet twice daily, 20 days | 1213 | 0.96 (0.87, 1.05) | 1.06 (0.96, 1.17) | 1.14 (0.96, 1.36) |
 | Tenofovir9 | 300 mg once daily, 14 d | 400/100 capsule twice daily, 14 d | 24 | NC† | NC† | NC† |
-| Tipranavir/ritonavir4 | 500/200 mg twice daily (28 doses)# | 400/100 capsule twice daily (27 doses) | 21 69 | 0.53 (0.40, 0.69)10 | 0.45 (0.32, 0.63)10 | 0.30 (0.17, 0.51)10 0.48 (0.40, 0.58)11 |
+| Tipranavir/ ritonavir4 | 500/200 mg twice daily (28 doses)# | 400/100 capsule twice daily (27 doses) | 21 69 | 0.53 (0.40, 0.69)10 | 0.45 (0.32, 0.63)10 | 0.30 (0.17, 0.51)10 0.48 (0.40, 0.58)11 |
 | All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated. 1 The pharmacokinetics of ritonavir are unaffected by concurrent efavirenz. 2 Reference for comparison is lopinavir/ritonavir 400/100 mg twice daily without efavirenz. 3 Data extracted from the fosamprenavir package insert. 4 Study conducted in HIV-1 positive adult subjects. 5 Study conducted in HIV-1 positive pediatric subjects ranging in age from 6 months to 12 years. 6 Data extracted from the pitavastatin package insert and results presented at the 2011 International AIDS Society Conference on HIV Pathogenesis, Treatment and Prevention (Morgan, et al, poster #MOPE170). 7 Titrated to 800/200 twice daily as 533/133 twice daily x 1 d, 667/167 twice daily x 1 d, then 800/200 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 8 Titrated to 400/400 twice daily as 400/200 twice daily x 1 d, 400/300 twice daily x 1 d, then 400/400 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 9 Data extracted from the tenofovir package insert. 10 Intensive PK analysis. 11 Drug levels obtained at 8-16 hrs post-dose. 12 AUC parameter is AUC(0-last) 13 N=12 for test arm, 19 for reference arm * Parallel group design; n for KALETRA + co-administered drug, n for KALETRA alone. † NC = No change. # For the nevirapine 200 mg twice daily study, ritonavir, and tipranavir/ritonavir studies, KALETRA was administered with or without food. For all other studies, KALETRA was administered with food. |  |  |  |  |  |  |
 
-Table 10.
+Table 15.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug in the Presence of KALETRA for Recommended Alterations in Dose or Regimen
 
 | Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with KALETRA/alone) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
@@ -251,10 +257,10 @@ Clinical Studies - Antiviral Activity of KALETRA in Patients with Previous Prote
 The clinical relevance of reduced susceptibility in cell culture to lopinavir has been examined by assessing the virologic response to KALETRA therapy in treatment-experienced patients, with respect to baseline viral genotype in three studies and baseline viral phenotype in one study.
 
 Virologic response to KALETRA has been shown to be affected by the presence of three or more of the following amino acid substitutions in protease at baseline: L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V.
-Table 11 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
+Table 16 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
 Once daily administration of KALETRA for adult patients with three or more of the above substitutions is not recommended.
 
-Table 11.
+Table 16.
 Virologic Response (HIV-1 RNA <400 copies/mL) at Week 48 by Baseline KALETRA Susceptibility and by Number of Protease Substitutions Associated with Reduced Response to KALETRA1
 
 | Number of protease inhibitor substitutions at baseline1 | Study 888 (Single protease inhibitor-experienced2, NNRTI-naïve) n=130 | Study 765 (Single protease inhibitor-experienced3, NNRTI-naïve) n=56 | Study 957 (Multiple protease inhibitor-experienced4, NNRTI-naïve) n=50 |
@@ -269,9 +275,9 @@ In this study 56 NNRTI-naïve patients with HIV-1 RNA >1,000 copies/mL despite p
 The EC50 values of lopinavir against the 56 baseline viral isolates ranged from 0.5- to 96-fold the wild-type EC50 value.
 Fifty-five percent (31/56) of these baseline isolates displayed >4-fold reduced susceptibility to lopinavir.
 These 31 isolates had a median reduction in lopinavir susceptibility of 18-fold.
-Response to therapy by baseline lopinavir susceptibility is shown in Table 12.
+Response to therapy by baseline lopinavir susceptibility is shown in Table 17.
 
-Table 12.
+Table 17.
 HIV-1 RNA Response at Week 48 by Baseline Lopinavir Susceptibility1
 
 | Lopinavir susceptibility2 at baseline | HIV-1 RNA <400 copies/mL (%) | HIV-1 RNA <50 copies/mL (%) |

@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
-
-Information For Patients
+Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Patients or parents of patients should be informed that:
 
@@ -37,8 +35,7 @@ Patients should be advised to avoid doing things that can spread HIV-1 infection
 - Do not have any kind of sex without protection.
   Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 - Do not breastfeed.
-  We do not know if KALETRA can be passed to the baby through breast milk and whether it could harm the baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+  Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 Drug Interactions
 
@@ -82,12 +79,18 @@ Patients should consult their physician if they experience symptoms such as dizz
 
  Patients should be informed that there may be a greater chance of developing diarrhea with the once daily regimen as compared with the twice daily regimen.
 
-KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
+KALETRA Tablets, 200 mg lopinavir and 50 mg ritonavir
 
 Manufactured by AbbVie LTD, Barceloneta, PR 00617
 
 for AbbVie Inc., North Chicago, IL 60064 USA
 
-KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
+KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
+
+The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
+
+© 2015 AbbVie Inc. All rights reserved.
+
+03-B108
