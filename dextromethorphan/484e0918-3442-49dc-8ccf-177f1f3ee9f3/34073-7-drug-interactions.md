@@ -26,7 +26,7 @@ The extent to which CYP2D6 interactions may pose clinical problems will depend o
 In cases of prodrugs whose actions are mediated by the CYP2D6-produced metabolites (for example, codeine and hydrocodone, whose analgesic and antitussive effects appear to be mediated by morphine and hydromorphone, respectively), it may not be possible to achieve the desired clinical benefits in the presence of NUEDEXTA due to quinidine-mediated inhibition of CYP2D6.
 Consider use of alternative treatment with NUEDEXTA when clinically indicated.
 
-Drug interactions with desipramine and paroxetine have been studied in controlled clinical trials with a higher dose combination of dextromethorphan/quinidine (dextromethorphan hydrobromide 30 mg/ quinidine sulfate 30 mg) than NUEDEXTA; study results are described below.
+Drug interactions with desipramine and paroxetine have been studied in controlled clinical trials with a higher dose combination of dextromethorphan/quinidine (dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg) than NUEDEXTA; study results are described below.
 No other drug interactions with CYP2D6 substrates have been systematically investigated, although concomitant use of such drugs was allowed in clinical trials with NUEDEXTA and in clinical trials with higher dose formulations of dextromethorphan/quinidine.
 
 Desipramine (CYP2D6 substrate): The tricyclic antidepressant desipramine is metabolized primarily by CYP2D6.
@@ -37,7 +37,7 @@ The dose of desipramine can then be adjusted based on clinical response; however
 
 Paroxetine (CYP2D6 inhibitor and substrate): When the combination dose of dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg was added to paroxetine at steady state, paroxetine exposure (AUC0-24) increased by 1.7 fold and Cmax increased by 1.5 fold.
 Consideration should be given to initiating treatment with a lower dose of paroxetine if given with NUEDEXTA.
-The dose of paroxetine can then be adjusted based on clinical response; however dosage above 35 mg/day is not recommended.
+The dose of paroxetine can then be adjusted based on clinical response; however, dosage above 35 mg/day is not recommended.
 
 ## 7.6 Digoxin
 

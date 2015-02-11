@@ -35,9 +35,9 @@ Hypokalemia and hypomagnesemia should be corrected prior to initiation of therap
 
 If patients taking NUEDEXTA experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., syncope or palpitations, NUEDEXTA should be discontinued and the patient further evaluated.
 
-## 5.4 Concomitant Use of CYP2D6 Substrates
+## 5.4 Concomitant use of CYP2D6 Substrates
 
-The quinidine in NUEDEXTA inhibits CYP2D6 in patients in whom CYP2D6 is not otherwise genetically absent or its activity otherwise pharmacologically inhibited [see CYP2D6 Poor Metabolizers (5.8), Pharmacokinetics (12.3), Pharmacogenomics (12.5)].
+The quinidine in NUEDEXTA inhibits CYP2D6 in patients in whom CYP2D6 is not otherwise genetically absent or its activity otherwise pharmacologically inhibited [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.3), (12.5)].
 Because of this effect on CYP2D6, accumulation of parent drug and/or failure of active metabolite formation may decrease the safety and/or the efficacy of drugs used concomitantly with NUEDEXTA that are metabolized by CYP2D6 [see Drug Interactions (7.5)].
 
 ## 5.5 Dizziness
@@ -56,7 +56,7 @@ Monitor for worsening clinical condition in myasthenia gravis and other conditio
 
 ## 5.8 CYP2D6 Poor Metabolizers
 
-The quinidine component of NUEDEXTA is intended to inhibit CYP2D6 so that higher exposure to dextromethorphan can be achieved compared to when dextromethorphan is given alone [see Concomitant use of CYP2D6 substrates (5.4), Pharmacokinetics (12.3), Pharmacogenomics (12.5)].
+The quinidine component of NUEDEXTA is intended to inhibit CYP2D6 so that higher exposure to dextromethorphan can be achieved compared to when dextromethorphan is given alone [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3), (12.5)].
 Approximately 7-10% of Caucasians and 3-8% of African Americans lack the capacity to metabolize CYP2D6 substrates and are classified as poor metabolizers (PMs).
 The quinidine component of NUEDEXTA is not expected to contribute to the effectiveness of NUEDEXTA in PMs, but adverse events of the quinidine are still possible.
 In those patients who may be at risk of significant toxicity due to quinidine, genotyping to determine if they are PMs should be considered prior to making the decision to treat with NUEDEXTA.

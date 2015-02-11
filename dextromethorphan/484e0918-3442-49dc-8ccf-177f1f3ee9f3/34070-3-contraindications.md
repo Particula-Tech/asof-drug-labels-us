@@ -11,7 +11,7 @@ NUEDEXTA is also contraindicated in patients with a known hypersensitivity to de
 
 ## 4.3 MAOIs
 
-NUEDEXTA is contraindicated in patients taking monoamine oxidase inhibitors (MAOIs) or in patients who have taken MAOIs within the preceding 14 days due to the risk of serious and possibly fatal drug interactions, including serotonin syndrome.
+NUEDEXTA is contraindicated in patients taking monoamine oxidase inhibitors (MAOIs) or in patients who have taken MAOIs within the preceding 14 days, due to the risk of serious and possibly fatal drug interactions, including serotonin syndrome.
 Allow at least 14 days after stopping NUEDEXTA before starting an MAOI [see Drug Interactions (7.1)].
 
 ## 4.4 Cardiovascular
