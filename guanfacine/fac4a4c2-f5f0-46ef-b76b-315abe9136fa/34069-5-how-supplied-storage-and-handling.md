@@ -14,10 +14,10 @@ Manufactured by: Epic Pharma, LLC
 
 Laurelton, NY 11413
 
-Made in USA
+Manufactured in USA
 
-Revised November 2013
+Revised November 2014
 
-MF048REV11/13
+MF048REV11/14
 
 OE1126
