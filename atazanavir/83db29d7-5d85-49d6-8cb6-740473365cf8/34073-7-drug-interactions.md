@@ -1,0 +1,89 @@
+# 7 DRUG INTERACTIONS
+
+See also Contraindications (4), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3).
+
+## 7.1 Potential for EVOTAZ to Affect Other Drugs
+
+Atazanavir is an inhibitor of CYP3A and UGT1A1 and a weak inhibitor of CYP2C8.
+Cobicistat is an inhibitor of CYP3A and CYP2D6.
+The transporters that cobicistat inhibits include P-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
+
+Coadministration of EVOTAZ with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated [see Contraindications (4)].
+Coadministration of EVOTAZ and drugs primarily metabolized by CYP3A, UGT1A1 and/or CYP2D6 or drugs that are substrates of P-gp, BCRP, OATP1B1 and/or OATP1B3 may result in increased plasma concentrations of the other drug that could increase or prolong its therapeutic effects and adverse reactions which may require dose adjustments and/or additional monitoring as shown in Table 5.
+Use of EVOTAZ is not recommended when coadministered with drugs highly dependent on CYP2C8 for clearance with narrow therapeutic indices (e.g., paclitaxel, repaglinide).
+[See Clinical Pharmacology, Table 7 (12.3).]
+
+## 7.2 Potential for Other Drugs to Affect EVOTAZ
+
+Atazanavir and cobicistat are CYP3A4 substrates; therefore, drugs that induce CYP3A4 may decrease atazanavir and cobicistat plasma concentrations and reduce the therapeutic effect of EVOTAZ, leading to development of resistance to atazanavir (see Table 5).
+Cobicistat is also metabolized by CYP2D6 to a minor extent.
+
+Coadministration of EVOTAZ with other drugs that inhibit CYP3A4 may increase the plasma concentrations of cobicistat and atazanavir (see Table 5).
+
+Atazanavir solubility decreases as pH increases.
+Reduced plasma concentrations of atazanavir are expected if proton-pump inhibitors, antacids, buffered medications, or H2-receptor antagonists are administered with EVOTAZ.
+[See Dosage and Administration (2.1).]
+
+## 7.3 Established and Other Potentially Significant Drug Interactions
+
+Drug interaction trials were not conducted for EVOTAZ.
+Drug interaction trials were conducted with cobicistat in combination with desipramine, digoxin, or efavirenz and with cobicistat coadministered with elvitegravir in combination with other drugs including rosuvastatin and rifabutin.
+
+Table 5 provides dosing recommendations as a result of drug interactions with the components of EVOTAZ.
+These recommendations are based either on observed drug interactions in studies of cobicistat, atazanavir, or atazanavir coadministered with ritonavir or predicted drug interactions based on the expected magnitude of interaction and potential for serious events or loss of therapeutic effect of EVOTAZ.
+
+Table 5: Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studiesa or Predicted Interactions
+
+| Concomitant Drug Class: Specific Drugs | Effect on Concentration | Clinical Comment |
+| --- | --- | --- |
+| HIV Antiretroviral Agents: Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTIs and NtRTIs) |  |  |
+| didanosine buffered formulations enteric-coated (EC) capsules | ↓ atazanavir ↓ didanosine | Coadministration of atazanavir with didanosine buffered tablets resulted in a marked decrease in atazanavir exposure (presumably due to the increase in gastric pH caused by buffers in the didanosine tablets). It is recommended that EVOTAZ be given with food 2 hours before or 1 hour after didanosine buffered formulations. Simultaneous administration of didanosine EC and atazanavir with food results in a decrease in didanosine exposure. Thus, EVOTAZ and didanosine EC should be administered at different times. |
+| tenofovir disoproxil fumarate | ↓ atazanavir ↑ tenofovir | Patients receiving EVOTAZ and tenofovir should be monitored for tenofovir-associated adverse reactions [see Warnings and Precautions (5.4)]. |
+| HIV Antiretroviral Agents: Non-nucleoside Reverse Transcriptase Inhibitors (NNRTIs) |  |  |
+| efavirenz | ↓ atazanavir ↓ cobicistat ↔ efavirenz | Coadministration of EVOTAZ with efavirenz is not recommended because it may result in a loss of therapeutic effect and development of resistance to atazanavir. |
+| etravirine | ↓ atazanavir ↓ cobicistat | Coadministration of EVOTAZ with etravirine is not recommended because it may result in the loss of therapeutic effect and development of resistance to atazanavir. |
+| HIV Antiretroviral Agents: CCR5 Antagonist |  |  |
+| maraviroc | ↑ maraviroc | When coadministering maraviroc and EVOTAZ, patients should receive maraviroc 150 mg twice daily. |
+| HIV Antiretroviral Agents: Protease Inhibitors |  |  |
+| ritonavir or products containing ritonavir | ↑ atazanavir | Coadministration of EVOTAZ and ritonavir or ritonavir-containing regimens is not recommended due to similar effects of cobicistat and ritonavir on CYP3A [see Warnings and Precautions (5)]. |
+| HCV Antiviral Agents: Protease Inhibitors |  |  |
+| boceprevirtelaprevirsimeprevir | atazanavir: effects unknownboceprevir: effects unknowntelaprevir: effects unknown↑ simeprevir | No drug interaction data are available. Coadministration of EVOTAZ with boceprevir, telaprevir, or simeprevir is not recommended. |
+| Other Agents |  |  |
+| Antacids (please also see H2-receptor antagonists and proton-pump inhibitors below) | ↓ atazanavir | With concomitant use, administer a minimum of 2 hours apart. |
+| Antiarrhythmics: amiodarone, quinidine lidocaine (systemic), disopyramide, flecainide mexiletine, propafenone | ↑ antiarrhythmics | Clinical monitoring is recommended upon coadministration with antiarrhythmics. |
+| digoxin | ↑ digoxin | When coadministering EVOTAZ with digoxin, titrate the digoxin dose and monitor digoxin concentrations. |
+| Antibacterials (macrolide or ketolide antibiotics):clarithromycin erythromycin telithromycin | ↑ atazanavir ↑ cobicistat ↑ clarithromycin ↑ erythromycin ↑ telithromycin | Consider alternative antibiotics. |
+| Anticancer Agents:(e.g., dasatinib, nilotinib, vinblastine, vincristine) | ↑ anticancer agents | A decrease in the dosage or an adjustment of the dosing interval of dasatinib or nilotinib may be necessary upon coadministration with EVOTAZ. Consult the dasatinib and nilotinib full prescribing information for dosing instructions. For vincristine and vinblastine, monitor for hematologic or gastrointestinal side effects. |
+| Anticoagulant: |  |  |
+| apixaban, rivaroxaban | ↑ apixaban↑ rivaroxaban | Concomitant use of apixaban or rivaroxaban and EVOTAZ is not recommended. |
+| dabigatran etexilate | ↑ dabigatran | Concomitant use of dabigatran etexilate and EVOTAZ is not recommended in specific renal impairment groups for certain indications. Refer to the dabigatran prescribing information for dosing recommendations for dabigatran etexilate when coadministered with P-gp inhibitors. |
+| warfarin | warfarin: effect unknown | Monitor the International Normalized Ratio (INR) when coadministered with warfarin. |
+| Anticonvulsants:Anticonvulsants that induce CYP3A (e.g., carbamazepine, oxcarbazepine, phenytoin, phenobarbital)phenytoin, phenobarbital | ↓ atazanavir↓ cobicistatphenobarbital andphenytoin: effects unknown | Consider alternative anticonvulsant or antiretroviral therapy to avoid potential changes in exposures. If coadministration is necessary, monitor for lack or loss of virologic response. Monitoring of phenobarbital or phenytoin concentrations is recommended with coadministration. |
+| Anticonvulsants that are metabolized by CYP3A (e.g., clonazepam, carbamazepine) | ↑ clonazepam↑ carbamazepine | Clinical monitoring of anticonvulsants is recommended with EVOTAZ coadministration. |
+| Other anticonvulsants (e.g., lamotrigine) | lamotrigine: effects unknown | Monitoring of lamotrigine concentrations is recommended with EVOTAZ coadministration. |
+| Antidepressants:Selective Serotonin Reuptake Inhibitors (SSRIs) (e.g., paroxetine)Tricyclic Antidepressants (TCAs) (e.g., amitriptyline, desipramine, imipramine, nortriptyline)Other Antidepressants (e.g., trazodone) | SSRIs: effects unknown ↑ TCAs ↑ trazodone | When coadministering with SSRIs, TCAs, or trazodone, careful dose titration of the antidepressant to the desired effect, using the lowest feasible initial or maintenance dose, and monitoring for antidepressant response are recommended. |
+| Antifungals:ketoconazole, itraconazole | ↑ atazanavir ↑ cobicistat ↑ ketoconazole ↑ itraconazole | Specific dosing recommendations are not available for coadministration of EVOTAZ with either itraconazole or ketoconazole. |
+| voriconazole | effects unknown | Coadministration with voriconazole is not recommended unless the benefit/risk assessment justifies the use of voriconazole. |
+| Antigout: colchicine | ↑ colchicine | The coadministration of EVOTAZ with colchicine in patients with renal or hepatic impairment is contraindicated [see Contraindications (4)].Recommended dosage of colchicine when administered with EVOTAZ:Treatment of gout flares:0.6 mg (1 tablet) for 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course should be repeated no earlier than 3 days.Prophylaxis of gout flares:If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day.If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day.Treatment of familial Mediterranean fever (FMF):Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
+| Antimycobacterials:rifabutin | atazanavir: effect unknowncobicistat: effect unknown↑ rifabutin | A rifabutin dose reduction of up to 75% (e.g., 150 mg every other day or 3 times per week) is recommended. Increased monitoring for rifabutin-associated adverse reactions, including neutropenia and uveitis, is warranted. |
+| Beta-Blockers:(e.g., metoprolol, carvedilol, timolol) | ↔ atazanavir↑ beta-blockers | Clinical monitoring is recommended when beta-blockers that are metabolized by CYP2D6 are coadministered with EVOTAZ. |
+| Calcium channel blockers:(e.g., amlodipine, diltiazem, felodipine, nifedipine, and verapamil) | ↑ calcium channel blocker | Clinical monitoring is recommended for coadministration with calcium channel blockers metabolized by CYP3A. ECG monitoring is recommended. |
+| Corticosteroids (systemic): dexamethasone and other corticosteroids | ↓ atazanavir ↓ cobicistat↑ corticosteroids | Concomitant use with dexamethasone or other corticosteroids that induce CYP3A may result in loss of therapeutic effect of EVOTAZ and development of resistance to atazanavir.Alternative corticosteroids should be considered.Coadministration with corticosteroids that are metabolized by CYP3A, particularly for long-term use, may increase the risk for development of systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression. Consider the potential benefit of treatment versus the risk of systemic corticosteroid effects. |
+| Endothelin receptor antagonists:Bosentan | ↓ atazanavir ↓ cobicistat ↑ bosentan | Initiation of bosentan in patients taking EVOTAZ:For patients who have been receiving EVOTAZ for at least 10 days, start bosentan at 62.5 mg once daily or every other day based on individual tolerability.Initiation of EVOTAZ in patients taking bosentan:Discontinue bosentan at least 36 hours before starting EVOTAZ. After at least 10 days following initiation of EVOTAZ, resume bosentan at 62.5 mg once daily or every other day based on individual tolerability.Switching from atazanavir coadministered with ritonavir to EVOTAZ:Maintain bosentan dose. |
+| H2‑Receptor antagonists (H2RA):(e.g., famotidine) | ↓ atazanavir | Coadministration of EVOTAZ with tenofovir DF and an H2RA in treatment-experienced patients is not recommended. Administer EVOTAZ either at the same time or at a minimum of 10 hours after a dose of the H2RA. The dose of the H2RA should not exceed a dose comparable to famotidine 40 mg twice daily in treatment-naive patients or 20 mg twice daily in treatment-experienced patients. |
+| HMG-CoA reductase inhibitors:atorvastatin, fluvastatin, pravastatin, rosuvastatin | ↑ HMG-CoA reductase inhibitors | For HMG-CoA reductase inhibitors that are not contraindicated with EVOTAZ, start with the lowest recommended dose and titrate while monitoring for safety [see Contraindications (4)]. Rosuvastatin dose should not exceed 10 mg/day. |
+| Hormonal contraceptives:(e.g., progestin/estrogen) | progestin and estrogen: effects unknown | No data are available to make recommendations on the coadministration of EVOTAZ and oral or other hormonal contraceptives. Alternative nonhormonal forms of contraception should be considered. |
+| Immunosuppressants:(e.g., cyclosporine, everolimus, sirolimus, tacrolimus) | ↑ immunosuppressants | Therapeutic concentration monitoring is recommended for these immunosuppressants when coadministered with EVOTAZ. |
+| Inhaled beta-agonist: salmeterol | ↑ salmeterol | Coadministration with salmeterol is not recommended due to an increased risk of cardiovascular adverse reactions associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia. |
+| Inhaled/nasal steroids: budesonide, fluticasone and other inhaled or nasal steroids | ↑ corticosteroids | Coadministration with inhaled or nasal corticosteroids that are metabolized by CYP3A is not recommended unless the potential benefit to the patient outweighs the risks. Consider alternative corticosteroids, particularly for long-term use. |
+| Narcotic analgesics:For treatment of opioid dependence:buprenorphine, naloxone, methadonefentanyltramadol | buprenorphine or buprenorphine/naloxone: effects unknownmethadone: effects unknown↑ fentanyl↑ tramadol | Initiation of buprenorphine, buprenorphine/naloxone or methadone in patients taking EVOTAZ: Carefully titrate the dose of buprenorphine, buprenorphine/naloxone or methadone to the desired effect; use the lowest feasible initial or maintenance dose.Initiation of EVOTAZ in patients taking buprenorphine, buprenorphine/naloxone or methadone: A dose adjustment for buprenorphine, buprenorphine/naloxone or methadone may be needed. Monitor clinical signs and symptoms.When EVOTAZ is coadministered with fentanyl, careful monitoring of therapeutic and adverse effects of fentanyl (including potentially fatal respiratory depression) is recommended.When EVOTAZ is coadministered with tramadol, a decreased dose of tramadol may be needed. |
+| Neuroleptics:(e.g., perphenazine, risperidone, thioridazine) | ↑ neuroleptics | A decrease in the dose of neuroleptics that are metabolized by CYP3A or CYP2D6 may be needed when coadministered with EVOTAZ. |
+| Phosphodiesterase-5 (PDE-5) inhibitors:avanafil, sildenafil, tadalafil, vardenafil | ↑ PDE-5 inhibitors | Coadministration with avanafil is not recommended because a safe and effective avanafil dosage regimen has not been established.Coadministration with EVOTAZ may result in an increase in PDE-5 inhibitor-associated adverse reactions, including hypotension, syncope, visual disturbances, and priapism.Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH): Sildenafil when used for the treatment of pulmonary hypertension (PAH) is contraindicated with EVOTAZ [see Contraindications (4)]. Tadalafil: The following dose adjustments are recommended for the use of tadalafil with EVOTAZ: Initiation of tadalafil in patients taking EVOTAZ: oFor patients receiving EVOTAZ for at least one week, start tadalafil at 20 mg once daily. Increase to 40 mg once daily based on individual tolerability. Initiation of EVOTAZ in patients taking tadalafil: oAvoid the use of tadalafil when starting EVOTAZ. Stop tadalafil at least 24 hours before starting EVOTAZ. At least one week after starting EVOTAZ, resume tadalafil at 20 mg once daily. Increase to 40 mg once daily based on individual tolerability. Patients switching from atazanavir coadministered with ritonavir to EVOTAZ: oMaintain tadalafil dose. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil: Reduced dosage to 25 mg every 48 hours with increased monitoring for adverse reactions. Tadalafil: Reduced dosage to 10 mg every 72 hours with increased monitoring for adverse reactions. Vardenafil: Reduced dosage to no more than 2.5 mg every 72 hours with increased monitoring for adverse reactions. |
+| Proton-pump inhibitors (PPI): (e.g., omeprazole) | ↓ atazanavir | In treatment-naive patients, administer EVOTAZ a minimum of 12 hours after administration of the PPI. The dose of the PPI should not exceed a dose comparable to omeprazole 20 mg daily.In treatment-experienced patients, coadministration of EVOTAZ with PPI is not recommended. |
+| Sedatives/hypnotics:buspirone, diazepam, zolpidem, and parenterally administered midazolam | ↑ sedatives/hypnotics | Parenterally administered midazolam: Coadministration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered.Concomitant use with oral midazolam and triazolam is contraindicated [see Contraindications (4)].With other sedatives/hypnotics that are CYP3A metabolized, a dose reduction may be necessary and clinical monitoring is recommended. |
+| a For magnitude of interactions see Clinical Pharmacology, Table 7 (12.3). |  |  |
+
+## 7.4 Drugs with No Observed or Predicted Interactions with the Components of EVOTAZ
+
+Based on known metabolic profiles, clinically significant drug interactions are not expected between EVOTAZ and acetaminophen, atenolol, dapsone, fluconazole, trimethoprim/sulfamethoxazole, or azithromycin.
+[See Clinical Pharmacology, Table 7 (12.3).]

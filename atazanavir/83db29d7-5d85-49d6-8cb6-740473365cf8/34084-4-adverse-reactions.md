@@ -1,0 +1,104 @@
+# 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- •cardiac conduction abnormalities [see Warnings and Precautions (5.1)]
+- •rash [see Warnings and Precautions (5.2)]
+- •effects on serum creatinine [see Warnings and Precautions (5.3)]
+- •new onset or worsening renal impairment when used with tenofovir DF [see Warnings and Precautions (5.4)]
+- •nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.5)]
+- •hepatotoxicity [see Warnings and Precautions (5.6)]
+- •hyperbilirubinemia [see Warnings and Precautions (5.9)]
+
+For additional safety information about atazanavir and cobicistat consult the full prescribing information for these individual products.
+
+## 6.1 Clinical Trial Experience in Adults
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The safety of atazanavir and cobicistat coadministered as single agents has been established from a Phase 2 trial, Study 105, and a Phase 3 trial, Study 114.
+In the pooled analysis, 771 HIV-1 infected, antiretroviral treatment-naive adults received for at least 48 weeks:
+
+- •atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (N=394) or
+- •atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF (N=377).
+
+The most common adverse reactions (all Grades) and reported in >10% of subjects in the atazanavir coadministered with cobicistat group were jaundice (13%), ocular icterus (15%), and nausea (12%); the most common adverse reactions in the atazanavir coadministered with ritonavir group were jaundice (11%), ocular icterus (17%), nausea (11%), and diarrhea (11%).
+
+The proportion of subjects who discontinued study treatment due to adverse events, regardless of severity, was 7% in both the atazanavir coadministered with cobicistat and atazanavir coadministered with ritonavir groups.
+Table 2 lists the frequency of adverse reactions (Grades 2-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in pooled Studies 105 and 114.
+
+Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of HIV-1 Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Studies 105 and 114 (Week 48 pooled analysis)
+
+|  | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (n=394) | Atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF (n=377) |
+| --- | --- | --- |
+| Jaundice | 5% | 3% |
+| Rashb | 5% | 4% |
+| Ocular icterus | 3% | 1% |
+| Nausea | 2% | 2% |
+| a Frequencies of adverse reactions are based on Grades 2-4 adverse events attributed to study drugs. b Rash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculopapular, rash morbilliform, rash papular, and urticaria. |  |  |
+
+Nephrolithiasis: Nephrolithiasis has previously been identified in patients receiving atazanavir [see Warnings and Precautions (5.5)].
+In the pooled analysis of Studies 105 and 114 through 48 weeks, 8 subjects (2%) receiving atazanavir coadministered with cobicistat developed nephrolithiasis compared with no subjects in the atazanavir coadministered with ritonavir group.
+Median time to onset of nephrolithiasis in the atazanavir coadministered with cobicistat group was 24 weeks.
+Causality in these cases could not be determined with certainty, but the majority of renal stone events were not serious and no subject discontinued study drug.
+
+### Less Common Adverse Reactions
+
+Selected adverse reactions of at least moderate severity (≥ Grade 2) occurring in less than 2% of subjects receiving atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF are listed below.
+These events have been included because of investigator’s assessment of potential causal relationship and were considered serious or have been reported in more than one subject treated with atazanavir coadministered with cobicistat, and reported with greater frequency compared with the atazanavir coadministered with ritonavir group.
+
+Gastrointestinal Disorders: diarrhea, vomiting, upper abdominal pain
+
+General Disorders and Administration Site Conditions: fatigue
+
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis
+
+Nervous System Disorders: headache
+
+Psychiatric Disorders: depression, abnormal dreams, insomnia
+
+Renal and Urinary Disorders: nephropathy, Fanconi syndrome
+
+### Laboratory Abnormalities
+
+The frequency of laboratory abnormalities (Grades 3-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Studies 105 and 114 is presented in Table 3.
+
+Table 3: Laboratory Abnormalities (Grades 3-4) Reported in ≥2% of HIV-1 Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Studies 105 and 114 (Week 48 pooled analysis)
+
+| Laboratory Parameter Abnormality | (n=394) | (n=377) |
+| --- | --- | --- |
+|  | 48 weeks Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF | 48 weeks Atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF |
+| Total Bilirubin (>2.5 × ULN) | 65% | 56% |
+| Creatine Kinase (≥10.0 × ULN) | 5% | 6% |
+| Serum Amylasea (>2.0 × ULN) | 4% | 2% |
+| ALT (>5.0 × ULN) | 3% | 2% |
+| AST (>5.0 × ULN) | 3% | 2% |
+| GGT (>5.0 × ULN) | 2% | 1% |
+| Urine Glucose (Glycosuria ≥1000 mg/dL) | 3% | 1% |
+| Urine RBC (Hematuria) (>75 RBC/HPF) | 3% | 2% |
+| a For subjects with serum amylase >1.5 × upper limit of normal, lipase test was also performed. The frequency of increased lipase (Grades 3-4) occurring in the atazanavir coadministered with cobicistat group (N=44) and atazanavir coadministered with ritonavir group (N=34) was 9% and 6%, respectively. |  |  |
+
+Increase in Serum Creatinine: Cobicistat, a component of EVOTAZ, has been shown to increase serum creatinine and decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].
+In Studies 105 and 114, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment in the atazanavir coadministered with cobicistat group after which they stabilized.
+The mean (± SD) change in estimated glomerular filtration rate (eGFR) by Cockcroft-Gault method after 48 weeks of treatment was −13.4 ± 15.2 mL/min in the atazanavir coadministered with cobicistat group and −9.1 ± 14.7 mL/min in the atazanavir coadministered with ritonavir group.
+
+### Serum Lipids
+
+Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, and triglycerides are presented in Table 4.
+In both groups, mean values for serum lipids remained within the normal range for each laboratory test.
+The clinical significance of these changes is unknown.
+
+Table 4: Lipid Values, Mean Change from Baseline, Reported in HIV-1 Infected Treatment-Naive Adults Receiving Atazanavir Coadministered with Cobicistat and Emtricitabine/Tenofovir DF or Atazanavir Coadministered with Ritonavir and Emtricitabine/Tenofovir DF in Studies 105 and 114 (Week 48 pooled analysis)
+
+|  | Baseline mg/dL | Week 48 change from baselinea | Baseline mg/dL | Week 48 change from baselinea |
+| --- | --- | --- | --- | --- |
+|  | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF |  | Atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF |  |
+| Total Cholesterol (fasted) | 164 [N=307] | +4 [N=307] | 165 [N=299] | +8 [N=299] |
+| HDL-cholesterol (fasted) | 44 [N=306] | +3 [N=306] | 43 [N=299] | +3 [N=299] |
+| LDL-cholesterol (fasted) | 102 [N=307] | +5 [N=307] | 103 [N=300] | +7 [N=300] |
+| Triglycerides (fasted) | 128 [N=307] | +15 [N=307] | 131 [N=299] | +29 [N=299] |
+| a The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 values and excludes subjects receiving an HMG-CoA reductase inhibitor drug. |  |  |  |  |
+
+## 6.2 Postmarketing Experience
+
+See the full prescribing information for atazanavir for postmarketing information on atazanavir.
