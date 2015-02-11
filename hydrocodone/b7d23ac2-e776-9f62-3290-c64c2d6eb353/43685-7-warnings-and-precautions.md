@@ -99,7 +99,7 @@ The administration of HYSINGLA ER may obscure the diagnosis or clinical course i
 Hydrocodone may cause spasm of the sphincter of Oddi.
 Monitor patients with biliary tract disease, including acute pancreatitis.
 
-## 5.11 Cytochrome P450 CYP3A4 Inhibitors and Inducers
+## 5.11 Cytochrome P450 3A4 Inhibitors and Inducers
 
 Since the CYP3A4 isoenzyme plays a major role in the metabolism of HYSINGLA ER, drugs that alter CYP3A4 activity may cause changes in clearance of hydrocodone which could lead to changes in hydrocodone plasma concentrations.
 

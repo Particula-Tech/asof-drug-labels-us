@@ -78,7 +78,7 @@ The mean terminal half-life (t1/2) at steady state was 7 hours.
 Median Tmax values were 14 hours (range: 12 to 24 hours) on both Day 1 and Day 5 following once daily administration of HYSINGLA ER for five days.
 Daily fluctuation in peak to trough plasma levels of hydrocodone were higher at 80 mg and 120 mg doses of HYSINGLA ER compared to 30 mg dose (Table 6).
 
-Table 5 Mean (SD) Single-Dose Pharmacokinetic Parameters of HYSINGLA ER
+Table 6 Mean (SD) Steady-State Hydrocodone Pharmacokinetics Parameters
 
 | Regimen | AUC24,ss (ng•h/mL) | Cmax,ss (ng/mL) | Cmin,ss (ng/mL) | %Fluctuation* |
 | --- | --- | --- | --- | --- |
@@ -113,7 +113,7 @@ Gender Systemic exposure of hydrocodone (Cmax and AUC) was similar between males
 
 Hepatic Impairment After a single dose of 20 mg HYSINGLA ER in subjects (8 each) with normal hepatic function, mild, moderate or severe hepatic impairment based on Child-Pugh classifications, mean hydrocodone Cmax values were 16, 15, 17, and 18 ng/mL, respectively.
 Mean hydrocodone AUC values were 342, 310, 390, and 415 ng.hr/mL for subjects with normal hepatic function, mild, moderate or severe hepatic impairment, respectively.
-Mean hydrocodone Cmax values were -6%, 5%, and 5% and AUC values were -14%, 13%, and 4% in patients with mild, moderate or severe hepatic impairment, respectively.
+Mean hydrocodone Cmax values were -6%, 5%, and 5% and AUC values were -14%, 13%, and 4% in patients with mild, moderate or severe hepatic impairment, respectively, when compared with subjects with normal hepatic functions.
 
 The mean in vivo plasma protein binding of hydrocodone across the groups was similar, ranging from 33% to 37% [see Use in Specific Populations (8.6)].
 

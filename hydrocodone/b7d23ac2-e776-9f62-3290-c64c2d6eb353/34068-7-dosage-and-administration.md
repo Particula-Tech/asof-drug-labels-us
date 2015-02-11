@@ -44,7 +44,7 @@ Conversion factors to HYSINGLA ER (Not Equianalgesic Doses)
 | --- | --- | --- |
 | Codeine | 133 | 0.15 |
 | Hydromorphone | 5 | 4 |
-| Methadone | 30 | 1.5 |
+| Methadone | 13.3 | 1.5 |
 | Morphine | 40 | 0.5 |
 | Oxycodone | 20 | 1 |
 | Oxymorphone | 10 | 2 |
@@ -102,7 +102,7 @@ HYSINGLA ER must be taken whole, one tablet at a time, with enough water to ensu
 
 Crushing, chewing, or dissolving HYSINGLA ER tablets will result in uncontrolled delivery of hydrocodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-Multiple tablets of lower dose strengths that provide the desired total daily dose can be taken.
+Multiple tablets of lower dose strengths that provide the desired total daily dose can be taken as a once daily dose.
 
 ## 2.4 Patients with Hepatic Impairment
 
