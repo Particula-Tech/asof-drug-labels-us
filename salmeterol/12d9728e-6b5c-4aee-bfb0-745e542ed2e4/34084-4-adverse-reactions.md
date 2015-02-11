@@ -12,7 +12,7 @@ Adult and Adolescent Subjects Aged 12 Years and Older: Two multicenter, 12-week,
 Table 1 reports the incidence of adverse reactions in these 2 trials.
 
 Table 1.
-Adverse Reactions With SEREVENT DISKUS With ≥3 Incidence and More Common Than Placebo in Adult and Adolescent Subjects With Asthma
+Adverse Reactions with SEREVENT DISKUS with ≥3 Incidence and More Common than Placebo in Adult and Adolescent Subjects wsith Asthma
 
 | Adverse Event | Percent of Subjects |  |  |
 | --- | --- | --- | --- |
@@ -35,10 +35,10 @@ However, throat irritation has been described at rates exceeding that of placebo
 Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by subjects with asthma treated with SEREVENT DISKUS compared with subjects treated with placebo include the following: contact dermatitis, eczema, localized aches and pains, nausea, oral mucosal abnormality, pain in joint, paresthesia, pyrexia of unknown origin, sinus headache, and sleep disturbance.
 
 Pediatric Subjects Aged 4 to 11 Years: Two multicenter, 12-week, controlled trials have evaluated twice-daily doses of SEREVENT DISKUS in subjects aged 4 to 11 years with asthma.
-Table 2 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
+Table 2 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
 
 Table 2.
-Adverse Reaction Incidence in Two 12-Week Pediatric Clinical Trials in Subjects With Asthma
+Adverse Reaction Incidence in Two 12-Week Pediatric Clinical Trials in Subjects with Asthma
 
 | Adverse Event | Percent of Subjects |  |  |
 | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ Two multicenter, 24-week, placebo-controlled US trials evaluated twice-daily dos
 For presentation (Table 3), the placebo data from a third trial, identical in design, subject entrance criteria, and overall conduct but comparing fluticasone propionate with placebo, were integrated with the placebo data from these 2 trials (total N = 341 for salmeterol and 576 for placebo).
 
 Table 3.
-Adverse Reactions With SEREVENT DISKUS With ≥3% Incidence in US Controlled Clinical Trials in Subjects With Chronic Obstructive Pulmonary Diseasea
+Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence in US Controlled Clinical Trials in Subjects with Chronic Obstructive Pulmonary Diseasea
 
 | Adverse Event | Percent of Subjects |  |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ Adverse Reactions With SEREVENT DISKUS With ≥3% Incidence in US Controlled Cli
 | Dizziness | 2 | 4 |
 | Average duration of exposure (days) | 128.9 | 138.5 |
 
-aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
+aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of ≥3% in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
 
 Additional Adverse Reactions: Other adverse reactions occurring in the group receiving SEREVENT DISKUS that occurred at a frequency of ≥1% and were more common than in the placebo group were as follows: anxiety; arthralgia and articular rheumatism; bone and skeletal pain; candidiasis mouth/throat; dental discomfort and pain; dyspeptic symptoms; edema and swelling; gastrointestinal infections; hyperglycemia; hyposalivation; keratitis and conjunctivitis; lower respiratory signs and symptoms; migraines; muscle pain; muscle stiffness, tightness, and rigidity; musculoskeletal inflammation; pain; and skin rashes.
 

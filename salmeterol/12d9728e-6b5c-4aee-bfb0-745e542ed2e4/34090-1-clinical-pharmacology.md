@@ -29,7 +29,7 @@ In 24-week clinical studies in patients with COPD, the incidence of clinically s
 No effect of treatment with salmeterol 50 mcg was observed on pulse rate and systolic and diastolic blood pressure in a subset of patients with COPD who underwent 12-hour serial vital sign measurements after the first dose (n = 91) and after 12 weeks of therapy (n = 74).
 Median changes from baseline in pulse rate and systolic and diastolic blood pressure were similar for patients receiving either salmeterol or placebo [see Adverse Reactions (6.1)].
 
-Concomitant Use of SEREVENT DISKUS With Other Respiratory Medications: Short-Acting Beta2-Agonists: In two 12-week repetitive-dose clinical trials in adult and adolescent subjects with asthma (N = 149), the mean daily need for additional beta2-agonist in subjects using SEREVENT DISKUS was approximately 1½ inhalations/day.
+Concomitant Use of SEREVENT DISKUS with Other Respiratory Medications: Short-Acting Beta2-Agonists: In two 12-week repetitive-dose clinical trials in adult and adolescent subjects with asthma (N = 149), the mean daily need for additional beta2-agonist in subjects using SEREVENT DISKUS was approximately 1½ inhalations/day.
 Twenty-six percent (26%) of the subjects in these trials used between 8 and 24 inhalations of short-acting beta-agonist per day on 1 or more occasions.
 Nine percent (9%) of the subjects in these trials averaged over 4 inhalations/day over the course of the 12-week trials.
 No increase in frequency of cardiovascular events was observed among the 3 subjects who averaged 8 to 11 inhalations/day; however, the safety of concomitant use of more than 8 inhalations/day of short-acting beta2-agonist with SEREVENT DISKUS has not been established.

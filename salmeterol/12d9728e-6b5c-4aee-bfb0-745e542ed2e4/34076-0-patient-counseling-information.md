@@ -29,7 +29,7 @@ Immediate Hypersensitivity Reactions: Advise patients that immediate hypersensit
 Patients should discontinue SEREVENT DISKUS if such reactions occur.
 There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of powder products containing lactose; therefore, patients with severe milk protein allergy should not take SEREVENT DISKUS.
 
-Risks Associated With Beta-Agonist Therapy: Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+Risks Associated with Beta-Agonist Therapy: Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
 Treatment of Exercise-Induced Bronchospasm: Patients using SEREVENT DISKUS for the treatment of EIB should not use additional doses for 12 hours.
 Patients who are receiving SEREVENT DISKUS twice daily should not use additional SEREVENT for prevention of EIB.
@@ -40,7 +40,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015, the GSK group of companies.
 All rights reserved.
 
-SRD:10PI
+SRD:11PI

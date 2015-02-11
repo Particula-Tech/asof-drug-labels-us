@@ -17,8 +17,8 @@ SEREVENT DISKUS can cause serious side effects, including:
 - •Call your healthcare provider if breathing problems worsen over time while using SEREVENT DISKUS.
   You may need different treatment.
 - •Get emergency medical care if:
-  - oyour breathing problems worsen quickly.
-  - oyou use your rescue inhaler, but it does not relieve your breathing problems.
+  - •your breathing problems worsen quickly.
+  - •you use your rescue inhaler, but it does not relieve your breathing problems.
 - •Do not use SEREVENT DISKUS as your only asthma medicine.
   SEREVENT DISKUS must only be used with a long-term asthma control medicine, such as an inhaled corticosteroid.
 - •SEREVENT DISKUS should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as an inhaled corticosteroid.
@@ -120,14 +120,14 @@ Read the step-by-step instructions for using SEREVENT DISKUS at the end of this 
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - oyour breathing problems get worse.
-  - oyou need to use your rescue inhaler more often than usual.
-  - oyour rescue inhaler does not work as well to relieve your symptoms.
-  - oyou need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
-  - oyou use 1 whole canister of your rescue inhaler in 8 weeks.
-  - oyour peak flow meter results decrease.
+  - •your breathing problems get worse.
+  - •you need to use your rescue inhaler more often than usual.
+  - •your rescue inhaler does not work as well to relieve your symptoms.
+  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
+  - •you use 1 whole canister of your rescue inhaler in 8 weeks.
+  - •your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - oyou have asthma and your symptoms do not improve after using SEREVENT DISKUS regularly for 1 week.
+  - •you have asthma and your symptoms do not improve after using SEREVENT DISKUS regularly for 1 week.
 
 What are the possible side effects with SEREVENT DISKUS?
 
@@ -136,18 +136,18 @@ SEREVENT DISKUS can cause serious side effects, including:
 - •See “What is the most important information I should know about SEREVENT DISKUS?”
 - •sudden breathing problems immediately after inhaling your medicine
 - •effects on heart
-  - oincreased blood pressure
-  - oa fast or irregular heartbeat
-  - ochest pain
+  - •increased blood pressure
+  - •a fast or irregular heartbeat
+  - •chest pain
 - •effects on nervous system
-  - otremor
-  - onervousness
+  - •tremor
+  - •nervousness
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - orash
-  - ohives
-  - oswelling of your face, mouth, and tongue
-  - obreathing problems.
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems.
 - •changes in laboratory blood values (sugar, potassium)
 
 Common side effects of SEREVENT DISKUS include:
@@ -210,6 +210,8 @@ For Oral Inhalation Only
 
 Your SEREVENT DISKUS inhaler
 
+Figure A
+
 Read this information before you start using your SEREVENT DISKUS inhaler:
 
 - •Take SEREVENT DISKUS out of the foil pouch just before you use it for the first time.
@@ -243,6 +245,7 @@ Slide the lever until you hear it click.
   See Figure C.
 
 - Figure C
+
 - •The number on the counter will count down by 1.
   The DISKUS is now ready to use.
 

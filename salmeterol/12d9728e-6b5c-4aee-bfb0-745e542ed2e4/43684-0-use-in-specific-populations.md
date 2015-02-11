@@ -7,12 +7,12 @@ Beta2-agonists have been shown to be teratogenic in laboratory animals when admi
 Because animal reproductive studies are not always predictive of human response, SEREVENT DISKUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Women should be advised to contact their physicians if they become pregnant while taking SEREVENT DISKUS.
 
-No teratogenic effects occurred in rats at salmeterol doses approximately 160 times the maximum recommended daily inhalation dose (MRHDID) (on a mg/m2 basis at maternal oral doses up to 2 mg/kg/day).
+No teratogenic effects occurred in rats at salmeterol doses approximately 160 times the maximum recommended human daily inhalation dose (MRHDID) (on a mg/m2 basis at maternal oral doses up to 2 mg/kg/day).
 In pregnant Dutch rabbits administered oral doses approximately 50 times the MRHDID (on an AUC basis at maternal oral doses of 1 mg/kg/day and higher), fetal toxic effects were observed characteristically resulting from beta-adrenoceptor stimulation.
 These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
 No such effects occurred at a salmeterol dose approximately 20 times the MRHDID (on an AUC basis at a maternal oral dose of 0.6 mg/kg/day).
 
-New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at an oral dose approximately 1,600 times the MRHDID (on n mg/m2 basis at a maternal oral dose of 10 mg/kg/day).
+New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at an oral dose approximately 1,600 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 10 mg/kg/day).
 
 Salmeterol crossed the placenta following oral administration to mice and rats.
 

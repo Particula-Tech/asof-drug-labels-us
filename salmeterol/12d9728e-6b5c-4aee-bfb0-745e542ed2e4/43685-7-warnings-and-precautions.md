@@ -51,7 +51,7 @@ There are no data demonstrating that SEREVENT DISKUS has a clinical anti-inflamm
 When initiating and throughout treatment with SEREVENT DISKUS in patients receiving oral or inhaled corticosteroids for treatment of asthma, patients must continue taking a suitable dosage of corticosteroids to maintain clinical stability even if they feel better as a result of initiating SEREVENT DISKUS.
 Any change in corticosteroid dosage should be made ONLY after clinical evaluation.
 
-## 5.4 Excessive Use of SEREVENT DISKUS and Use With Other Long-Acting Beta2-Agonists
+## 5.4 Excessive Use of SEREVENT DISKUS and Use with Other Long-Acting Beta2-Agonists
 
 SEREVENT DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
@@ -81,7 +81,7 @@ Fatalities have been reported in association with excessive use of inhaled sympa
 Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of SEREVENT DISKUS.
 There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of powder products containing lactose; therefore, patients with severe milk protein allergy should not use SEREVENT DISKUS [see Contraindications (4)].
 
-## 5.8 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
+## 5.8 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
 The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with SEREVENT DISKUS is not recommended because increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 

@@ -12,7 +12,7 @@ No development of tachyphylaxis to the bronchodilator effect was noted in these 
 FEV1 measurements (mean change from baseline) from these two 12-week trials are shown in Figure 1 for both the first and last treatment days.
 
 Figure 1.
-Serial 12-Hour FEV1 From Two 12-Week Clinical Trials in Subjects With Asthma
+Serial 12-Hour FEV1 from Two 12-Week Clinical Trials in Subjects with Asthma
 
 First Treatment Day
 
@@ -161,7 +161,7 @@ Subjects receiving SEREVENT DISKUS 50 mcg had significantly greater improvements
 Improvement was apparent on the first day of treatment and maintained throughout the 24 weeks of treatment.
 
 Figure 3.
-Mean Percent Change From Baseline in Postdose FEV1 Integrated Data From 2 Trials of Subjects With Chronic Bronchitis and Airflow Limitation
+Mean Percent Change from Baseline in Postdose FEV1 Integrated Data from 2 Trials of Subjects with Chronic Bronchitis and Airflow Limitation
 
 Onset of Action and Duration of Effect: The onset of action and duration of effect of SEREVENT DISKUS were evaluated in a subset of subjects (n = 87) from 1 of the 2 clinical trials discussed above.
 Following the first 50-mcg dose, significant improvement in pulmonary function (mean FEV1 increase of 12% or more and at least 200 mL) occurred at 2 hours.

@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0521-00
 
@@ -22,12 +22,12 @@ Rx only
 
 Made in Singapore
 
-©2013, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000117746 Rev.
-8/13
+10000000127330 Rev.
+11/14
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0520-00
 
@@ -53,7 +53,7 @@ Rx only
 
 Made in Singapore
 
-©2013, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000117744 Rev.
-8/13
+10000000127329 Rev.
+11/14
