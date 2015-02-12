@@ -34,8 +34,9 @@ Clinical study experience in the elderly (n=1522), suggests that there were no o
 
 Kinetic studies with another statin, having a similar principal route of elimination, have suggested that for a given dose level higher systemic exposure may be achieved in patients with severe renal insufficiency (as measured by creatinine clearance).
 
-Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of statins.
-The increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4.
+Simvastatin acid is a substrate of the transport protein OATP1B1.
+Concomitant administration of medicinal products that are inhibitors of the transport protein OATP1B1 may lead to increased plasma concentrations of simvastatin acid and an increased risk of myopathy.
+For example, cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1.
 
 The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma.
 Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
@@ -53,7 +54,7 @@ Table 3: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.851.35 | 2.180.91 |
 | Avoid grapefruit juice with simvastatin [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Grapefruit JuiceThe effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied.(high dose) | 200 mL of double-strength TIDDouble-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
-| Grapefruit Juice(low dose) | 8 oz (about 237mL) of single-strengthSingle-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
+| Grapefruit Juice(low dose) | 8 oz (about 237 mL) of single-strengthSingle-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
 | Avoid taking with >10 mg simvastatin, based on clinical and/or postmarketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Verapamil SR | 240 mg QD Days 1-7 then 240 mg BID on Days 8-10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
 | Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.693.10 | 2.692.88 |

@@ -49,7 +49,7 @@ If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy wi
 
 The combined use of simvastatin with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
 
-Caution should be used when prescribing other fibrates with simvastatin, as these agents can cause myopathy when given alone and the risk is increased when they are co-administered [see Drug Interactions (7.2)].
+Caution should be used when prescribing other fibrates with simvastatin, as these agents can cause myopathy when given alone and the risk is increased when they are coadministered [see Drug Interactions (7.2)].
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see Drug Interactions (7.7)].
 
