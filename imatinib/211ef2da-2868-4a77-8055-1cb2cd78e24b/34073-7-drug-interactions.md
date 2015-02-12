@@ -14,7 +14,7 @@ Gleevec doses up to 1200 mg/day (600 mg BID) have been given to patients receivi
 
 ## 7.2 Agents Inhibiting CYP3A Metabolism
 
-There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when Gleevec was co-administered with a single dose of ketoconazole (a CYP3A4 inhibitor).
+There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when Gleevec was coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution is recommended when administering Gleevec with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole).
 Grapefruit juice may also increase plasma concentrations of imatinib and should be avoided.
 Substances that inhibit the cytochrome P450 isoenzyme (CYP3A4) activity may decrease metabolism and increase imatinib concentrations.
@@ -36,6 +36,6 @@ No dose adjustment is necessary, however, caution is recommended when administer
 ## 7.5 Interaction with Acetaminophen
 
 In vitro, Gleevec inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 µM).
-Co-administration of Gleevec (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
+Coadministration of Gleevec (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Gleevec pharmacokinetics were not altered in the presence of single-dose acetaminophen.
 There is no pharmacokinetic or safety data on the concomitant use of Gleevec at doses >400 mg/day or the chronic use of concomitant acetaminophen and Gleevec.

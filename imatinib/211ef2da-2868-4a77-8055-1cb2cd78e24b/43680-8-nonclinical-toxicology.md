@@ -19,7 +19,7 @@ Testicular and epididymal weights and percent motile sperm were decreased at 60 
 This was not seen at doses ≤20 mg/kg (one-fourth the maximum human dose of 800 mg).
 The fertility of male and female rats was not affected.
 
-In a pre- and post-natal development study in female rats dosed with imatinib mesylate at 45 mg/kg (approximately one-half the maximum human dose of 800 mg/day, based on body surface area) from gestational Day 6 until the end of lactation, red vaginal discharge was noted on either gestational Day 14 or 15.
+In a pre- and postnatal development study in female rats dosed with imatinib mesylate at 45 mg/kg (approximately one-half the maximum human dose of 800 mg/day, based on body surface area) from gestational Day 6 until the end of lactation, red vaginal discharge was noted on either gestational Day 14 or 15.
 In the first generation offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice.
 First generation offspring fertility was not affected but reproductive effects were noted at 45 mg/kg/day including an increased number of resorptions and a decreased number of viable fetuses.
 
@@ -28,3 +28,19 @@ In the preclinical pre- and postnatal study in rats, fertility in the first gene
 
 Human studies on male patients receiving Gleevec and its affect on male fertility and spermatogenesis have not been performed.
 Male patients concerned about their fertility on Gleevec treatment should consult with their physician.
+
+## 13.2 Animal Toxicology and/or Pharmacology
+
+Toxicities from Long-Term Use
+
+It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
+Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
+Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
+Increased BUN and creatinine were observed in several of these animals.
+An increased rate of opportunistic infections was observed with chronic imatinib treatment in laboratory animal studies.
+In a 39 week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
+Lymphopenia was observed in animals (as in humans).
+Additional long-term toxicities were identified in a 2-year rat study.
+Histopathological examination of the treated rats that died on study revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
+Non-neoplastic lesions seen in this 2-year study which were not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
+The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.

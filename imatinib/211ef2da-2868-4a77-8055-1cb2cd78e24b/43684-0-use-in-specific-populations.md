@@ -2,12 +2,12 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.11)].
+Pregnancy Category D [see Warnings and Precautions (5.10)].
 
 Risk Summary
 
 Gleevec can cause fetal harm when administered to a pregnant woman.
-There have been post-market reports of spontaneous abortions and infant congenital anomalies from women who have taken Gleevec.
+There have been postmarket reports of spontaneous abortions and infant congenital anomalies from women who have taken Gleevec.
 Imatinib was teratogenic in animals.
 Women should be advised not to become pregnant when taking Gleevec.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -23,7 +23,7 @@ Fetal loss was not seen at doses ≤30 mg/kg (one-third the maximum human dose o
 ## 8.3 Nursing Mothers
 
 Imatinib and its active metabolite are excreted into human milk.
-Based on data from three breastfeeding women taking Gleevec, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
+Based on data from three breastfeeding women taking Gleevec, the milk: plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
 Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10% of the maternal therapeutic dose based on body weight.
 Because of the potential for serious adverse reactions in nursing infants from Gleevec, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
@@ -40,7 +40,7 @@ Mean imatinib AUC did not increase proportionally with increasing dose.
 
 Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
 After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
-The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
+The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
 
 ## 8.5 Geriatric Use
 
@@ -58,30 +58,30 @@ The efficacy of Gleevec was similar in patients older than 65 years and younger 
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 14) at imatinib doses ranging from 100-800 mg.
+The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 cancer patients with varying degrees of hepatic impairment (Table 16) at imatinib doses ranging from 100 mg-800 mg.
 Exposure to both imatinib and CGP74588 was comparable between each of the mildly and moderately hepatically-impaired groups and the normal group.
 Patients with severe hepatic impairment tend to have higher exposure to both imatinib and its metabolite than patients with normal hepatic function.
 At steady state, the mean Cmax/dose and AUC/dose for imatinib increased by about 63% and 45%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function.
 The mean Cmax/dose and AUC/dose for CGP74588 increased by about 56% and 55%, respectively, in patients with severe hepatic impairment compared to patients with normal hepatic function [see Dosage and Administration (2.11)].
 
-Table 14 Liver Function Classification
+Table 16 Liver Function Classification
 
 | Liver Function Test | Normal (n=14) | Mild (n=30) | Moderate (n=20) | Severe (n=20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | ≤ULN | >1.0-1.5x ULN | >1.5-3x ULN | >3-10x ULN |
+| Total Bilirubin | ≤ULN | >1.0–1.5 times the ULN | >1.5–3 times the ULN | >3–10 times the ULN |
 | SGOT | ≤ULN | >ULN (can be normal if Total Bilirubin is >ULN) | Any | Any |
 | ULN=upper limit of normal for the institution |  |  |  |  |
 
 ## 8.7 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 15) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment (Table 17) at single and steady state imatinib doses ranging from 100 to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
 Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
-Dose reductions are necessary for patients with moderate and severe renal impairment [See Dosage and Administration (2.11)].
+Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.11)].
 
-Table 15 Renal Function Classification
+Table 17 Renal Function Classification
 
 | Renal Dysfunction | Renal Function Tests |
 | --- | --- |

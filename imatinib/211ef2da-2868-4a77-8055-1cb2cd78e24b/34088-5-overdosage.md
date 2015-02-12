@@ -24,4 +24,4 @@ Therapy was interrupted, no adverse reactions occurred and the patient resumed t
 
 Pediatric Overdose
 
-One 3 year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhea and anorexia and another 3 year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhea.
+One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhea and anorexia and another 3-year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhea.

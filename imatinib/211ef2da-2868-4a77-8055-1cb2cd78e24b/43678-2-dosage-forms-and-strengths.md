@@ -10,4 +10,4 @@ Very dark yellow to brownish orange, film-coated tablets, ovaloid, biconvex with
 
 400 mg film coated tablets
 
-Very dark yellow to brownish orange, film-coated tablets, ovaloid, biconvex with bevelled edges, debossed with “gleevec” on one side and score on the other side.
+Very dark yellow to brownish orange, film-coated tablets, ovaloid, biconvex with bevelled edges, debossed with “gleevec” on one side and score on the other side

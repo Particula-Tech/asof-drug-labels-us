@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the bcr-abl tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML.
-Imatinib inhibits proliferation and induces apoptosis in bcr-abl positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia.
+Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML.
+Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia.
 Imatinib inhibits colony formation in assays using ex vivo peripheral blood and bone marrow samples from CML patients.
 
-In vivo, imatinib inhibits tumor growth of bcr-abl transfected murine myeloid cells as well as bcr-abl positive leukemia lines derived from CML patients in blast crisis.
+In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
 
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-kit, and inhibits PDGF- and SCF-mediated cellular events.
 In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-kit mutation.
@@ -19,7 +19,7 @@ Imatinib is well absorbed after oral administration with Cmax achieved within 2-
 Mean absolute bioavailability is 98%.
 Following oral administration in healthy volunteers, the elimination half-lives of imatinib and its major active metabolite, the N-demethyl derivative (CGP74588), are approximately 18 and 40 hours, respectively.
 Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg-1,000 mg.
-There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when Gleevec is dosed once daily.
+There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when Gleevec is dosed once-daily.
 At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitro experiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
 
 CYP3A4 is the major enzyme responsible for metabolism of imatinib.

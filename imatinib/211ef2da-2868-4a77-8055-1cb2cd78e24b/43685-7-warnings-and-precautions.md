@@ -7,8 +7,10 @@ Patients should be weighed and monitored regularly for signs and symptoms of flu
 An unexpected rapid weight gain should be carefully investigated and appropriate treatment provided.
 The probability of edema was increased with higher Gleevec dose and age >65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
-In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2%-6% of other adult CML patients taking Gleevec.
-Severe fluid retention was reported in 9% to 13.1% of patients taking Gleevec for GIST [see Adverse Reactions (6.11)].
+In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking Gleevec, and in 2%–6% of other adult CML patients taking Gleevec.
+Severe fluid retention was reported in 9% to 13.1% of patients taking Gleevec for GIST [see Adverse Reactions (6.9)].
+In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing Gleevec and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving Gleevec and in 3.9% of patients receiving nilotinib 300 mg bid.
+Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the Gleevec arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg bid arm.
 
 ## 5.2 Hematologic Toxicity
 
@@ -18,16 +20,17 @@ In CML, the occurrence of these cytopenias is dependent on the stage of disease 
 In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias including neutropenia, thrombocytopenia and anemia.
 These generally occur within the first several months of therapy [see Dosage and Administration (2.12)].
 
-## 5.3 Severe Congestive Heart Failure and Left Ventricular Dysfunction
+## 5.3 Congestive Heart Failure and Left Ventricular Dysfunction
 
-Severe congestive heart failure and left ventricular dysfunction have been reported in patients taking Gleevec.
+Congestive heart failure and left ventricular dysfunction have been reported in patients taking Gleevec.
 Most of the patients with reported cardiac reactions have had other co-morbidities and risk factors, including advanced age and previous medical history of cardiac disease.
 In an international randomized phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN + Ara-C.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patient in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg bid arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Patients with cardiac disease or risk factors for cardiac or history of renal failure should be monitored carefully and any patient with signs or symptoms consistent with cardiac or renal failure should be evaluated and treated.
 
 ## 5.4 Hepatotoxicity
 
-Hepatotoxicity, occasionally severe, may occur with Gleevec [see Adverse Reactions (6.3)].
+Hepatotoxicity, occasionally severe, may occur with Gleevec [see Adverse Reactions (6.1)].
 Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of Gleevec.
 Liver function (transaminases, bilirubin, and alkaline phosphatase) should be monitored before initiation of treatment and monthly, or as clinically indicated.
 Laboratory abnormalities should be managed with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.12)].
@@ -38,11 +41,13 @@ Monitoring of hepatic function is recommended.
 
 ## 5.5 Hemorrhage
 
-In the newly diagnosed CML trial, 1.8% of patients had Grade 3/4 hemorrhage.
-In the Phase 3 unresectable or metastatic GIST studies 211 patients (12.9%) reported Grade 3/4 hemorrhage at any site.
-In the Phase 2 unresectable or metastatic GIST study 7 patients (5%) had a total of 8 CTC Grade 3/4 hemorrhages; gastrointestinal (GI) (3 patients), intra-tumoral (3 patients) or both (1 patient).
+In a trial of Gleevec versus IFN+Ara-C in patients with the newly diagnosed CML, 1.8% of patients had Grade 3/4 hemorrhage.
+In the Phase 3 unresectable or metastatic GIST studies, 211 patients (12.9%) reported Grade 3/4 hemorrhage at any site.
+In the Phase 2 unresectable or metastatic GIST study, 7 patients (5%) had a total of 8 CTC Grade 3/4 hemorrhages; gastrointestinal (GI) (3 patients), intra-tumoral (3 patients) or both (1 patient).
 Gastrointestinal tumor sites may have been the source of GI hemorrhages.
-Patients should therefore be monitored for gastrointestinal symptoms at the start of therapy.
+In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Gleevec and nilotinib, GI hemorrhage occurred in 1.4% of patients in the Gleevec arm, and in 2.9% of patients in the nilotinib 300 mg bid arm.
+None of these events were Grade 3 or 4 in the Gleevec arm; 0.7% were Grade 3 or 4 in the nilotinib 300 mg bid arm.
+In addition, gastric antral vascular ectasia has been reported in postmarketing experience.
 
 ## 5.6 Gastrointestinal Disorders
 
@@ -54,15 +59,16 @@ There have been rare reports, including fatalities, of gastrointestinal perforat
 
 In patients with hypereosinophilic syndrome with occult infiltration of HES cells within the myocardium, cases of cardiogenic shock/left ventricular dysfunction have been associated with HES cell degranulation upon the initiation of Gleevec therapy.
 The condition was reported to be reversible with the administration of systemic steroids, circulatory support measures and temporarily withholding Gleevec.
-Myelodysplastic/ myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels.
+
+Myelodysplastic/myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels.
 Performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD or ASM associated with high eosinophil levels.
 If either is abnormal, the prophylactic use of systemic steroids (1-2 mg/kg) for one to two weeks concomitantly with Gleevec should be considered at the initiation of therapy.
 
 ## 5.8 Dermatologic Toxicities
 
 Bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome, have been reported with use of Gleevec.
-In some cases of bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance, a recurrent dermatologic reaction was observed upon re-challenge.
-Several foreign post-marketing reports have described cases in which patients tolerated the reintroduction of Gleevec therapy after resolution or improvement of the bullous reaction.
+In some cases of bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance, a recurrent dermatologic reaction was observed upon rechallenge.
+Several foreign postmarketing reports have described cases in which patients tolerated the reintroduction of Gleevec therapy after resolution or improvement of the bullous reaction.
 In these instances, Gleevec was resumed at a dose lower than that at which the reaction occurred and some patients also received concomitant treatment with corticosteroids or antihistamines.
 
 ## 5.9 Hypothyroidism
@@ -70,21 +76,7 @@ In these instances, Gleevec was resumed at a dose lower than that at which the r
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Gleevec.
 TSH levels should be closely monitored in such patients.
 
-## 5.10 Toxicities from Long-Term Use
-
-It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
-Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
-Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
-Increased BUN and creatinine were observed in several of these animals.
-An increased rate of opportunistic infections was observed with chronic imatinib treatment in laboratory animal studies.
-In a 39-week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
-Lymphopenia was observed in animals (as in humans).
-Additional long-term toxicities were identified in a 2-year rat study.
-Histopathological examination of the treated rats that died on study revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
-Non-neoplastic lesions seen in this 2-year study which were not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
-The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
-
-## 5.11 Embryo-fetal Toxicity
+## 5.10 Embryo-fetal Toxicity
 
 Gleevec can cause fetal harm when administered to a pregnant woman.
 Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area.
@@ -92,20 +84,20 @@ Significant post-implantation loss was seen in female rats administered imatinib
 Sexually active female patients of reproductive potential taking Gleevec should use highly effective contraception.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
-## 5.12 Children and Adolescents
+## 5.11 Children and Adolescents
 
 Growth retardation has been reported in children and pre-adolescents receiving Gleevec.
 The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
-Therefore, close monitoring of growth in children under Gleevec treatment is recommended [see Adverse Reactions (6.13)].
+Therefore, close monitoring of growth in children under Gleevec treatment is recommended [see Adverse Reactions (6.11)].
 
-## 5.13 Tumor Lysis Syndrome
+## 5.12 Tumor Lysis Syndrome
 
 Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, GIST, ALL and eosinophilic leukemia receiving Gleevec.
 The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 Due to possible occurrence of TLS, correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Gleevec.
 
-## 5.14 Driving and Using Machinery
+## 5.13 Driving and Using Machinery
 
 Reports of motor vehicle accidents have been received in patients receiving Gleevec.
 While most of these reports are not suspected to be caused by Gleevec, patients should be advised that they may experience undesirable effects such as dizziness, blurred vision or somnolence during treatment with Gleevec.

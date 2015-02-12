@@ -18,7 +18,7 @@ Pediatric patients with newly diagnosed Philadelphia chromosome positive acute l
 
 ## 1.5 Myelodysplastic/Myeloproliferative Diseases (MDS/MPD)
 
-Adult patients with myelodysplastic/ myeloproliferative diseases associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements.
+Adult patients with myelodysplastic/myeloproliferative diseases associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements.
 
 ## 1.6 Aggressive Systemic Mastocytosis (ASM)
 
