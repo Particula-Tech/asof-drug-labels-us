@@ -161,8 +161,9 @@ This indicates that ezetimibe is neither an inhibitor nor an inducer of these cy
 In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin.
 This indicates that simvastatin is not an inhibitor of CYP3A4 and, therefore, is not expected to affect the plasma levels of other drugs metabolized by CYP3A4.
 
-Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of statins.
-The increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4.
+Simvastatin acid is a substrate of the transport protein OATP1B1.
+Concomitant administration of medicinal products that are inhibitors of the transport protein OATP1B1 may lead to increased plasma concentrations of simvastatin acid and an increased risk of myopathy.
+For example, cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1.
 
 Simvastatin is a substrate for CYP3A4.
 Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy.
