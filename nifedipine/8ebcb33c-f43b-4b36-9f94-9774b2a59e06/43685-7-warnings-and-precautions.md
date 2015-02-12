@@ -116,6 +116,9 @@ Nifedipine is metabolized by CYP3A4.
 Co-administration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
 Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or consider an alternative antihypertensive therapy.
 
+CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine when co-administered.
+Careful monitoring and dose adjustment may be necessary; consider initiating nifedipine at the lowest dose available if given concomitantly with these medications.
+
 ### Other Interactions
 
 #### Grapefruit Juice
