@@ -15,3 +15,6 @@ TOPROL-XL and PLENDIL are trademarks of the AstraZeneca group of companies.
 Distributed by: AstraZeneca LP
 
 Wilmington, DE 19850
+
+Rev.
+35556-04
