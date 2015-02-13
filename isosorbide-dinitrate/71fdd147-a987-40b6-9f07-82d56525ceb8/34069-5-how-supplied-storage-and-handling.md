@@ -28,6 +28,6 @@ NDC 0781-1695-10 bottles of 1000
 
 NDC 0781-1695-13 unit dose packages of 100
 
-Store at 20°-25°C (68°-77°F) (see USP Controlled Room Temperature).
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight, light-resistant container.
