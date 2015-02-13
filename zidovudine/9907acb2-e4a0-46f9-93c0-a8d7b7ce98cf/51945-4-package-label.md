@@ -1,4 +1,4 @@
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 100 mg (100 Capsule Bottle)
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 100 mg (100 Capsules Bottle)
 
 NDC 65862-107-01 Zidovudine Capsules, USP 100 mg Rx only 100 Capsules AUROBINDO
 
