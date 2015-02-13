@@ -1,4 +1,4 @@
-CELESTONE® SOLUSPAN®brand of rapid and repository injectable brand of betamethasone sodium phosphate and betamethasone acetate Injectable Suspension USP 6 mg per mL
+(betamethasone sodium phosphate and betamethasone acetate) Injectable Suspension, USP 30 mg/5 mL (6 mg/mL)
 
 Rx only
 
@@ -10,6 +10,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1969, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2014
+Revised: 02/2015
 
-uspi-mk5166a-soi-1405r006
+uspi-mk5166a-soi-1502r007

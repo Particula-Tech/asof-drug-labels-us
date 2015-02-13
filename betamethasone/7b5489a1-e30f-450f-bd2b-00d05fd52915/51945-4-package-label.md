@@ -2,16 +2,14 @@
 
 NDC 0085-0566-05
 
-5 mL Multiple-Dose Vial
+Celestone® Soluspan®
 
-Celestone® Soluspan®* brand of
+(betamethasone sodium phosphate and betamethasone acetate) Injectable Suspension, USP 30 mg/5 mL (6 mg/mL)
 
-betamethasone sodium phosphate and betamethasone acetate
+For intramuscular, intra-articular or soft tissue administration, intralesional, intrabursal, and intradermal use
 
-Injectable Suspension USP
-
-6 mg per mL
-
-*brand of rapid and repository injectable
+Shake well before using.
 
 Rx only
+
+5 mL Multiple-Dose Vial
