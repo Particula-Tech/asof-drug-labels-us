@@ -40,7 +40,9 @@ Osteonecrosis of the jaw (ONJ) has been reported in patients treated with bispho
 Most cases have been in cancer patients treated with intravenous bisphosphonates undergoing dental procedures.
 Some cases have occurred in patients with postmenopausal osteoporosis treated with either oral or intravenous bisphosphonates.
 A routine oral examination should be performed by the prescriber prior to initiation of bisphosphonate treatment.
-A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with a history of concomitant risk factors (e.g., cancer, chemotherapy, radiotherapy, corticosteroids, poor oral hygiene, pre-existing dental disease or infection, anemia, coagulopathy).
+A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with a history of concomitant risk factors (e.g., cancer, chemotherapy, angiogenesis inhibitors, radiotherapy, corticosteroids, poor oral hygiene, pre-existing dental disease or infection, anemia, coagulopathy).
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
+Concomitant administration of drugs associated with ONJ may increase the risk of developing ONJ.
 
 While on treatment, patients with concomitant risk factors should avoid invasive dental procedures if possible.
 For patients who develop ONJ while on bisphosphonate therapy, dental surgery may exacerbate the condition.

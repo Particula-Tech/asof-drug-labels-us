@@ -181,10 +181,7 @@ Adverse Reactions Occurring in greater than or equal to 2% of Patients with Oste
 | Non-cardiac chest pain | 3.5 | 7.7 | 3.0 |
 | Influenza-like illness | 1.5 | 3.3 | 2.0 |
 | Malaise | 1.0 | 2.2 | 0.5 |
-
-* Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
-
-** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
+| * Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR ** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR |  |  |  |
 
 Ocular Adverse Events
 
@@ -241,10 +238,7 @@ Table 3: Adverse Reactions Occurring in greater than or equal to 2% of Men with 
 | Acute phase reaction | 3.9 | 0.0 |
 | Investigations |  |  |
 | C-reactive protein increased | 4.6 | 1.4 |
-
-* Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR
-
-** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR
+| * Combined abdominal pain, abdominal pain upper, and abdominal pain lower as one ADR ** Combined musculoskeletal pain and musculoskeletal chest pain as one ADR |  |  |
 
 Renal Impairment
 
@@ -409,7 +403,7 @@ Transient rise in serum creatinine can be correctable with intravenous fluids.
 
 Allergic Reactions
 
-Allergic reaction with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis, and bronchoconstriction have been reported.
+Allergic reactions with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis, and bronchoconstriction have been reported.
 
 Asthma Exacerbations
 

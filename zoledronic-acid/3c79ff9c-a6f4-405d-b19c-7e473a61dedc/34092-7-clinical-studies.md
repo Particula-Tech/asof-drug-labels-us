@@ -152,7 +152,7 @@ The long-term consequences of this degree of suppression of bone remodeling in g
 Reclast was studied in male and female patients with moderate to severe Paget’s disease of bone, defined as serum alkaline phosphatase level at least twice the upper limit of the age-specific normal reference range at the time of study entry.
 Diagnosis was confirmed by radiographic evidence.
 
-The efficacy of one infusion of 5 mg Reclast vs. oral daily doses of 30 mg risedronate for 2 months was demonstrated in two identically designed 6-month randomized, double blind trials.
+The efficacy of one infusion of 5 mg Reclast vs. oral daily doses of 30 mg risedronate for 2 months was demonstrated in two identically designed 6-month randomized, double-blind trials.
 The mean age of patients in the two trials was 70.
 Ninety-three percent (93%) of patients were Caucasian.
 Therapeutic response was defined as either normalization of serum alkaline phosphatase (SAP) or a reduction of at least 75% from baseline in total SAP excess at the end of 6 months.
