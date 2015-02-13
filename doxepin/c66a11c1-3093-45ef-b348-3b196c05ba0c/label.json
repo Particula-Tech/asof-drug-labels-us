@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020126"
+  ],
+  "inn": "doxepin",
+  "labeler": "Smith & Nephew, Inc.",
+  "package_ndcs": [
+    "50484-600-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "PRUDOXIN"
+    }
+  ],
+  "setid": "c66a11c1-3093-45ef-b348-3b196c05ba0c",
+  "source": "dailymed"
+}
