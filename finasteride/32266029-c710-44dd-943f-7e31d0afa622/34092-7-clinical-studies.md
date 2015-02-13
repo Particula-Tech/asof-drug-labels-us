@@ -36,15 +36,15 @@ Table 5: All Treatment Failures in a Long-Term Efficacy and Safety Study
 | Discontinuation due to worsening of BPH, lack of improvement, or to receive other medical treatment | 21.8 | 13.3 |  |  |  |
 | * Patients with multiple events may be counted more than once for each type of event † Hazard ratio based on log rank test |  |  |  |  |  |
 
-Compared with placebo, finasteridewas associated with a significantly lower need for BPH-related surgery.
-Compared with placebo, finasteridewas associated with a significantly lower risk for surgery [10.1% for placebo vs. 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)]; see Figure 2.
+Compared with placebo, finasteride was associated with a significantly lower need for BPH-related surgery.
+Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs. 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)]; see Figure 2.
 
 Effect on Maximum Urinary Flow Rate In the patients in a long-term efficacy and safety study who remained on therapy for the duration of the study and had evaluable urinary flow data, finasteride increased maximum urinary flow rate by 1.9 mL/sec compared with 0.2 mL/sec in the placebo group.
 There was a clear difference between treatment groups in maximum urinary flow rate in favor of finasteride by month 4 (1 vs. 0.3 mL/sec) which was maintained throughout the study.
 In the earlier 1-­year studies, increase in maximum urinary flow rate was comparable to a long-term efficacy and safety study and was maintained through the first year and throughout an additional 5 years of open extension studies.
 Effect on Prostate Volume In a long-term efficacy and safety study, prostate volume was assessed yearly by magnetic resonance imaging (MRI) in a subset of patients.
 In patients treated with finasteride who remained on therapy, prostate volume was reduced compared with both baseline and placebo throughout the 4-year study.
-Finasteridedecreased prostate volume by 17.9% (from 55.9 cc at baseline to 45.8 cc at 4 years) compared with an increase of 14.1% (from 51.3 cc to 58.5 cc) in the placebo group (p<0.001).
+Finasteride decreased prostate volume by 17.9% (from 55.9 cc at baseline to 45.8 cc at 4 years) compared with an increase of 14.1% (from 51.3 cc to 58.5 cc) in the placebo group (p<0.001).
 (See Figure 4.)
 Results seen in earlier studies were comparable to those seen in a long-term efficacy and safety study.
 Mean prostate volume at baseline ranged between 40 to 50 cc.

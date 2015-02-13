@@ -17,7 +17,7 @@ With regard to potential finasteride exposure through semen, two studies have be
 In an embryo-fetal development study, pregnant rats received finasteride during the period of major organogenesis (gestation days 6 to 17).
 At maternal doses of oral finasteride approximately 0.1 to 86 times the maximum recommended human dose (MRHD) of 5 mg/day (based on AUC at animal doses of 0.1 to 100 mg/kg/day) there was a dose-dependent increase in hypospadias that occurred in 3.6 to 100% of male offspring.
 Exposure multiples were estimated using data from nonpregnant rats.
-Days 16 to 17 days of gestation is a critical period in male fetal rats for differentiation of the external genitalia.
+Days 16 to 17 of gestation is a critical period in male fetal rats for differentiation of the external genitalia.
 At oral maternal doses approximately 0.03 times the MRHD (based on AUC at animal dose of 0.03 mg/kg/day), male offspring had decreased prostatic and seminal vesicular weights, delayed preputial separation and transient nipple development.
 Decreased anogenital distance occurred in male offspring of pregnant rats that received approximately 0.003 times the MRHD (based on AUC at animal dose of 0.003 mg/kg/day).
 No abnormalities were observed in female offspring at any maternal dose of finasteride.

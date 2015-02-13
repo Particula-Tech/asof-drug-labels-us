@@ -1,3 +1,4 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg (100 Tablet Bottle)
 
-NDC 65862-149-01 Finasteride Tablets, USP 5 mg Rx only 100 Tablets AUROBINDO
+NDC 65862-149-01 Finasteride Tablets, USP 5 mg Pharmacist: Please Dispense with Patient Information Leaflet Provided Separately to Each Patient.
+Rx only 100 Tablets AUROBINDO
