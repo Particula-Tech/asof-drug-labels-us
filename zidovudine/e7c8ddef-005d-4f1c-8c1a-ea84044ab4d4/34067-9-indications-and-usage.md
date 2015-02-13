@@ -6,12 +6,12 @@ Zidovudine tablets, USP, a nucleoside reverse transcriptase inhibitor, are indic
 
 ## 1.2 Prevention of Maternal-Fetal HIV-1 Transmission
 
-Zidovudine tablets, USP are indicated for the prevention of maternal-fetal HIV-1 transmission [see Dosage and Administration (2.2)].
+Zidovudine tablets, USP are indicated for the prevention of maternal-fetal HIV-1 transmission [see Dosage and Administration (2.3)].
 The indication is based on a dosing regimen that included 3 components:
 
 1. antepartum therapy of HIV-1 infected mothers
 2. intrapartum therapy of HIV-1 infected mothers
-3. post-partum therapy of HIV-1 exposed neonate.
+3. post-partum therapy of HIV-1 exposed neonate
 
 Points to consider prior to initiating zidovudine tablets, USP in pregnant women for the prevention of maternal-fetal HIV-1 transmission include:
 
