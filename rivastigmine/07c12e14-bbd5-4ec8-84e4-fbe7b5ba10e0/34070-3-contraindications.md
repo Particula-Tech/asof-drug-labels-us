@@ -1,6 +1,6 @@
-# 4CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Exelon Patch (rivastigmine transdermal system) is contraindicated in patients with:
+EXELON PATCH is contraindicated in patients with:
 
 - known hypersensitivity to rivastigmine, other carbamate derivatives, or other components of the formulation [see Description (11)].
 - previous history of application site reactions with rivastigmine transdermal patch suggestive of allergic contact dermatitis [see Warnings and Precautions (5.3)].

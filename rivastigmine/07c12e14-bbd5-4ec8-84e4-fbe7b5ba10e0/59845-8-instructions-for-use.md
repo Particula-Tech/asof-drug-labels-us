@@ -94,7 +94,7 @@ Figure H
 Step 8: Wash your hands with soap and water right away.
 
 - After you remove the Exelon Patch, if any adhesive remains on your skin, you can use soap and water or an oil-based substance (such as baby oil) to remove the adhesive.
-  Alcohol or other dissolving liquids (such as nail polish) should not be used.
+  Alcohol or other dissolving liquids (such as nail polish remover) should not be used.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
@@ -102,4 +102,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 ©Novartis
 
-T2013-68 July 2013
+T2015-29 February 2015

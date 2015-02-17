@@ -72,6 +72,8 @@ Especially tell your healthcare provider if you take:
 - a medicine used to treat inflammation [nonsteroidal anti-inflammatory drugs (NSAIDs)]
 - other medicines used to treat Alzheimer’s or Parkinson’s disease
 - an anticholinergic medicine, such as an allergy or cold medicine, a medicine to treat bladder or bowel spasms, or certain asthma medicines, or certain medicines to prevent motion or travel sickness
+- metoclopramide, a drug given to relieve symptoms of nausea, gastroesophageal reflux disease(GERD), or nausea and vomiting after surgery or chemotherapy treatment
+- If you are undergoing surgery while using Exelon Patch, inform your doctor because Exelon Patch may exaggerate the effects of anesthesia, or the effects of a beta-blocker, a type of medicine given for high blood pressure, heart disease, and other medical conditions
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
 
@@ -184,4 +186,4 @@ What are the ingredients of Exelon Patch?
 
 Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E
 
-T2013-67 July 2013
+T2015-28 February 2015

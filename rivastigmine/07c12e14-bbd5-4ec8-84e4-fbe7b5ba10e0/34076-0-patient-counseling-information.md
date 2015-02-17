@@ -1,6 +1,6 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Importance of Correct Usage
 
@@ -8,7 +8,7 @@ Inform patients or caregivers of the importance of applying the correct dose on 
 They should be instructed to rotate the application site in order to minimize skin irritation.
 The same site should not be used within 14 days.
 The previous day’s patch must be removed before applying a new patch to a different skin location.
-Exelon Patch should be replaced every 24 hours and the time of day should be consistent.
+EXELON PATCH should be replaced every 24 hours and the time of day should be consistent.
 It may be helpful for this to be part of a daily routine, such as the daily bath or shower.
 Only 1 patch should be worn at a time.
 
@@ -30,7 +30,7 @@ In case of accidental contact with the eyes, or if their eyes become red after h
 Gastrointestinal Adverse Reactions
 
 Inform patients or caregivers of the potential gastrointestinal adverse reactions such as nausea, vomiting, and diarrhea, including the possibility of dehydration due to these symptoms.
-Explain that Exelon Patch may affect the patient’s appetite and/or the patient’s weight.
+Explain that EXELON PATCH may affect the patient’s appetite and/or the patient’s weight.
 Patients and caregivers should be instructed to look for these adverse reactions, in particular when treatment is initiated or the dose is increased.
 Instruct patients and caregivers to inform a physician if these adverse reactions persist.
 
@@ -41,6 +41,6 @@ Patients or caregivers should be instructed to inform a physician if application
 
 Concomitant Use of Drugs with Cholinergic Action
 
-Inform patients or caregivers that while wearing Exelon Patch, patients should not be taking Exelon Capsules or Exelon Oral Solution or other drugs with cholinergic effects.
+Inform patients or caregivers that while wearing EXELON PATCH, patients should not be taking EXELON Capsules or EXELON Oral Solution or other drugs with cholinergic effects.
 
-T2013-66 July 2013
+T2015-27 February 2015

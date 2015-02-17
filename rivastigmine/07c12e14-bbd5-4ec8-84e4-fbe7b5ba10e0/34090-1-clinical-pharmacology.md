@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -17,14 +17,14 @@ In vitro and in vivo studies demonstrate that the inhibition of cholinesterase b
 
 Absorption
 
-After the initial application of Exelon Patch, there is a lag time of 0.5 to 1 hour in the absorption of rivastigmine.
+After the initial application of EXELON PATCH, there is a lag time of 0.5 to 1 hour in the absorption of rivastigmine.
 Concentrations then rise slowly typically reaching a maximum after 8 hours, although maximum values (Cmax) can also occur later (at 10 to 16 hours).
 After the peak, plasma concentrations slowly decrease over the remainder of the 24-hour period of application.
-At steady state, trough levels are approximately 60 to 80% of peak levels.
+At steady state, trough levels are approximately 60% to 80% of peak levels.
 
-Exelon Patch 9.5 mg/24 hours gave exposure approximately the same as that provided by an oral dose of 6 mg twice daily (i.e., 12 mg/day).
-Inter-subject variability in exposure was lower (43% to 49%) for the Exelon Patch formulation as compared with the oral formulations (73% to 103%).
-Fluctuation (between Cmax and Cmin) is less for Exelon Patch than for the oral formulation of rivastigmine.
+EXELON PATCH 9.5 mg/24 hours gave exposure approximately the same as that provided by an oral dose of 6 mg twice daily (i.e., 12 mg/day).
+Inter-subject variability in exposure was lower (43% to 49%) for the EXELON PATCH formulation as compared with the oral formulations (73% to 103%).
+Fluctuation (between Cmax and Cmin) is less for EXELON PATCH than for the oral formulation of rivastigmine.
 
 Figure 2 displays rivastigmine plasma concentrations over 24 hours for the 3 available patch strengths.
 
@@ -49,7 +49,7 @@ Rivastigmine is extensively metabolized primarily via cholinesterase-mediated hy
 In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
 Based on evidence from in vitro and animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 
-The metabolite-to-parent AUC∞ ratio was about 0.7 after Exelon Patch application versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal treatment.
+The metabolite-to-parent AUC∞ ratio was about 0.7 after EXELON PATCH application versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal treatment.
 Less NAP226-90 is formed following patch application, presumably because of the lack of presystemic (hepatic first pass) metabolism.
 Based on in vitro studies, no unique metabolic routes were detected in human skin.
 
@@ -62,16 +62,15 @@ Less than 1% of the administered dose is excreted in the feces.
 The apparent elimination half-life in plasma is approximately 3 hours after patch removal.
 Renal clearance was approximately 2.1 to 2.8 L/hr.
 
-Renal Impairment
+Age
 
-No study was conducted with Exelon Patch in subjects with renal impairment.
-Based on population analysis creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
-No dosage adjustment is necessary in patients with renal impairment.
+Age had no impact on the exposure to rivastigmine in Alzheimer’s disease patients treated with EXELON PATCH.
 
-Hepatic Impairment
+Gender and Race
 
-No pharmacokinetic study was conducted with Exelon Patch in subjects with hepatic impairment.
-After multiple 6-mg twice daily oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10) [see Dosage and Administration (2.2), Specific Population (8.7)].
+No specific pharmacokinetic study was conducted to investigate the effect of gender and race on the disposition of EXELON PATCH.
+A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 Caucasian, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
+Similar results were seen with analyses of pharmacokinetic data obtained after the administration of EXELON PATCH.
 
 Body Weight
 
@@ -79,23 +78,25 @@ A relationship between drug exposure at steady state (rivastigmine and metabolit
 Rivastigmine exposure is higher in subjects with low body weight.
 Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved [see Dosage and Administration (2.2)].
 
-Age
+Renal Impairment
 
-Age had no impact on the exposure to rivastigmine in Alzheimer’s disease patients treated with Exelon Patch.
+No study was conducted with EXELON PATCH in subjects with renal impairment.
+Based on population analysis creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
 
-Gender or Race
+Hepatic Impairment
 
-No specific pharmacokinetic study was conducted to investigate the effect of gender and race on the disposition of Exelon Patch.
-A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 Caucasian, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
-Similar results were seen with analyses of pharmacokinetic data obtained after the administration of Exelon Patch.
+No pharmacokinetic study was conducted with EXELON PATCH in subjects with hepatic impairment.
+Following a single 3-mg dose, mean oral clearance of rivastigmine was 60% lower in hepatically impaired patients (n=10, biopsy proven) than in healthy subjects (n=10).
+After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
+[see Dosage and Administration (2.2), Specific Population (8.6)].
 
 Smoking
 
-Population pharmacokinetic analysis showed that nicotine use increased the oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
+Following oral rivastigmine administration (up to 12 mg/day) with nicotine use, population pharmacokinetic analysis showed increased oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
 
 Drug Interaction Studies
 
-No specific interaction studies have been conducted with Exelon Patch.
+No specific interaction studies have been conducted with EXELON PATCH.
 Information presented below is from studies with oral rivastigmine.
 
 Effect of Rivastigmine on the Metabolism of Other Drugs
@@ -111,4 +112,4 @@ Effect of Other Drugs on the Metabolism of Rivastigmine
 
 Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine.
 
-Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), ß-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal anti-inflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35), and antihistamines (n=15).
+Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), beta-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal anti-inflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35), and antihistamines (n=15).

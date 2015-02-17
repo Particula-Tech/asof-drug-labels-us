@@ -1,7 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Cholinomimetic and Anticholinergic Drugs
+## 7.1 Metoclopramide
 
-Rivastigmine may increase the cholinergic effects of other cholinomimetic drugs.
-Rivastigmine may also interfere with the activity of anticholinergic medications.
-Avoid concomitant use of rivastigmine with drugs having these pharmacologic effects unless deemed clinically necessary.
+Due to the risk of additive extra-pyramidal adverse reactions, the concomitant use of metoclopramide and EXELON PATCH is not recommended.
+
+## 7.2 Cholinomimetic and Anticholinergic Medications
+
+EXELON PATCH may increase the cholinergic effects of other cholinomimetic medications and may also interfere with the activity of anticholinergic medications (e.g., oxybutynin, tolterodine).
+Concomitant use of EXELON PATCH with medications having these pharmacologic effects is not recommended unless deemed clinically necessary [see Warnings and Precautions (5.4)].
+
+## 7.3 Beta-blockers
+
+Additive bradycardic effects resulting in syncope may occur when EXELON is used concomitantly with beta-blockers, especially cardioselective beta-blockers (including atenolol).
+Concomitant use is not recommended when signs of bradycardia including syncope are present.
