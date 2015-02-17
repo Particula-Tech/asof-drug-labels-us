@@ -2,7 +2,7 @@
 
 NDC 57962-140-09
 
-Imbruvica™ (ibrutinib) capsules
+Imbruvica® (ibrutinib) capsules
 
 140 mg
 
