@@ -65,7 +65,7 @@ Especially tell your healthcare provider if you take any of the following:
   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
   In some patients, the use of VIAGRA with alpha-blockers can lead to a drop in blood pressure or to fainting.
 - medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
-- some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconozale (Sporanox)
+- some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
 - some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
 - other medicines that treat high blood pressure
 - other medicines or treatments for ED
@@ -157,9 +157,9 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0220-8.0
+LAB-0220-9.0
 
-03/2014
+01/2015
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.

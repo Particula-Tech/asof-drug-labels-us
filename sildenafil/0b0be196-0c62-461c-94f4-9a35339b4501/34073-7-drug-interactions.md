@@ -22,7 +22,7 @@ It is therefore recommended not to exceed a maximum single dose of 25 mg of VIAG
 Co-administration of erythromycin, a moderate CYP3A4 inhibitor, resulted in a 160% and 182% increases in sildenafil Cmax and AUC, respectively.
 Co-administration of saquinavir, a strong CYP3A4 inhibitor, resulted in 140% and 210% increases in sildenafil Cmax and AUC, respectively.
 Stronger CYP3A4 inhibitors such as ketoconazole or itraconazole could be expected to have greater effects than seen with saquinavir.
-A starting dose of 25 mg of VIAGRA should be considered in patients taking erythromycin or strong CYP3A4 inhibitors (such as saquinavir, ketoconazole, itracanozole) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+A starting dose of 25 mg of VIAGRA should be considered in patients taking erythromycin or strong CYP3A4 inhibitors (such as saquinavir, ketoconazole, itraconazole) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 7.5 Alcohol
 
