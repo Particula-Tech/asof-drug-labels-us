@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA203034"
+  ],
+  "inn": "donepezil",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-737-01",
+    "31722-737-05",
+    "31722-737-30",
+    "31722-737-31",
+    "31722-737-90",
+    "31722-738-01",
+    "31722-738-05",
+    "31722-738-30",
+    "31722-738-31",
+    "31722-738-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "donepezil hydrochloride",
+      "name": "Donepezil"
+    }
+  ],
+  "setid": "11ac01f4-d26e-47b2-9660-d514ab097fdb",
+  "source": "dailymed"
+}
