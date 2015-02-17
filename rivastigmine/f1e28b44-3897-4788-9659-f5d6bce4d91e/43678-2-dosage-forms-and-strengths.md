@@ -1,6 +1,6 @@
-# 3DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-## 3.1 Exelon Capsules
+## 3.1 EXELON Capsules
 
 Capsules, containing rivastigmine tartrate equivalent to 1.5 mg, 3 mg, 4.5 mg, or 6 mg of rivastigmine base, are available as follows:
 
@@ -12,7 +12,7 @@ Capsules, containing rivastigmine tartrate equivalent to 1.5 mg, 3 mg, 4.5 mg, o
 
 6 mg capsule – orange and red, “Exelon 6 mg” is printed in red on the body of the capsule.
 
-## 3.2 Exelon Oral Solution
+## 3.2 EXELON Oral Solution
 
 Oral Solution is a clear yellow, solution containing rivastigmine tartrate equivalent to 2 mg/mL of rivastigmine base.
 

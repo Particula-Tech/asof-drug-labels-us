@@ -24,7 +24,7 @@ Absorption
 Rivastigmine is rapidly and completely absorbed.
 Peak plasma concentrations are reached in approximately 1 hour.
 Absolute bioavailability after a 3-mg dose is about 36%.
-Administration of Exelon with food delays absorption (tmax) by 90 minutes lowers Cmax by approximately 30% and increases AUC by approximately 30%.
+Administration of EXELON with food delays absorption (tmax) by 90 minutes lowers Cmax by approximately 30% and increases AUC by approximately 30%.
 
 Distribution
 
@@ -36,7 +36,7 @@ Metabolism
 
 Rivastigmine is rapidly and extensively metabolized, primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite.
 Based on evidence from in vitro and animal studies, the major cytochrome P450 isozymes are minimally involved in rivastigmine metabolism.
-Consistent with these observations is the finding that no drug interactions related to cytochrome P450 have been observed in humans [see Drug Interactions (7.1)].
+Consistent with these observations is the finding that no drug interactions related to cytochrome P450 have been observed in humans.
 
 Elimination
 
@@ -46,18 +46,13 @@ No parent drug was detected in urine.
 The sulfate conjugate of the decarbamylated metabolite is the major component excreted in urine and represents 40% of the dose.
 Mean oral clearance of rivastigmine is 1.8 ± 0.6 L/min after 6 mg twice a day.
 
-Renal Impairment
+Age
 
-Following a single 3-mg dose, mean oral clearance of rivastigmine is 64% lower in moderately impaired renal patients (n=8, GFR=10 to 50 mL/min) than in healthy subjects (n=10, GFR≥60 mL/min); Cl/F=1.7 L/min and 4.8 L/min, respectively.
-In patients with severe renal impairment (n=8, GFR <10 mL/min), mean oral clearance of rivastigmine is 43% higher than in healthy subjects (n=10, GFR ≥60 mL/min); Cl/F=6.9 L/min and 4.8 L/min, respectively.
-For unexplained reasons, the severely impaired renal patients had a higher clearance of rivastigmine than moderately impaired patients.
-Despite this finding, such patients may be able to only tolerate lower doses.
+Following a single 2.5-mg oral dose to elderly volunteers (60 years and older, n=24) and younger volunteers (n=24), mean oral clearance of rivastigmine was 30% lower in elderly (7 L/min) than in younger subjects (10 L/min).
 
-Hepatic Impairment
+Gender and Race
 
-Following a single 3-mg dose, mean oral clearance of rivastigmine was 60% lower in hepatically impaired patients (n=10, biopsy proven) than in healthy subjects (n=10).
-After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
-Accordingly, such patients may be able to only tolerate lower doses.
+Population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 Caucasian, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
 
 Body Weight
 
@@ -65,17 +60,20 @@ A relationship between drug exposure at steady-state (rivastigmine and metabolit
 Rivastigmine exposure is higher in subjects with low body weight.
 Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved.
 
-Age
+Renal Impairment
 
-Following a single 2.5-mg oral dose to elderly volunteers (60 years and older, n=24) and younger volunteers (n=24), mean oral clearance of rivastigmine was 30% lower in elderly (7 L/min) than in younger subjects (10 L/min).
+Following a single 3-mg dose, mean oral clearance of rivastigmine is 64% lower in moderately impaired renal patients (n=8, GFR=10 to 50 mL/min) than in healthy subjects (n=10, GFR ≥60 mL/min); Cl/F=1.7 L/min and 4.8 L/min, respectively.
+In patients with severe renal impairment (n=8, GFR <10 mL/min), mean oral clearance of rivastigmine is 43% higher than in healthy subjects (n=10, GFR ≥60 mL/min); Cl/F=6.9 L/min and 4.8 L/min, respectively.
+For unexplained reasons, the severely impaired renal patients had a higher clearance of rivastigmine than moderately impaired patients.
 
-Gender or Race
+Hepatic Impairment
 
-Population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 Caucasian, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
+Following a single 3-mg dose, mean oral clearance of rivastigmine was 60% lower in hepatically impaired patients (n=10, biopsy proven) than in healthy subjects (n=10).
+After multiple 6-mg twice a day oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5 to 6) and moderate (n=3, Child-Pugh score 7 to 9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
 
 Smoking
 
-Population pharmacokinetic analysis showed that nicotine use increased the oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
+Following oral rivastigmine administration (up to 12 mg/day) with nicotine use, population pharmacokinetic analysis showed increased oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
 
 Drug Interaction Studies
 
@@ -92,4 +90,4 @@ Effect of Other Drugs on the Metabolism of Rivastigmine
 
 Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine.
 
-Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), ß-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), NSAIDs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35) and antihistamines (n=15).
+Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), beta-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), NSAIDs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35) and antihistamines (n=15).
