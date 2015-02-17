@@ -9,10 +9,9 @@ Hydrochlorothiazide is effective in doses of 12.5 to 50 mg once daily.
 
 Use in Renal Impairment: Dosing recommendations for ATACAND HCT in patients with creatinine clearance < 30 mg/min cannot be provided (see SPECIAL POPULATIONS, Renal Insufficiency).
 
-Use in moderate to severe Hepatic Impairment: ATACAND HCT is not recommended for initiation because the appropriate starting dose, 8 mg, cannot be given.
-(see SPECIAL POPULATIONS, Hepatic Insufficiency).
+Use in moderate to severe Hepatic Impairment: ATACAND HCT is not recommended for initiation because the appropriate starting dose, 8 mg, cannot be given (see SPECIAL POPULATIONS, Hepatic Insufficiency).
 
-Replacement Therapy: The combination may be substituted for the titrated individual components.
+Replacement Therapy: The combination may be substituted for the titrated components.
 
 Dose Titration by Clinical Effect: A patient whose blood pressure is not controlled on 25 mg of hydrochlorothiazide once daily can expect an incremental effect from ATACAND HCT 16-12.5 mg.
 A patient whose blood pressure is controlled on 25 mg of hydrochlorothiazide but is experiencing decreases in serum potassium can expect the same or incremental blood pressure effects from ATACAND HCT 16-12.5 mg and serum potassium may improve.

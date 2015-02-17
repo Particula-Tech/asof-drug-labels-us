@@ -36,7 +36,7 @@ Gastrointestinal: pancreatitis, jaundice (intrahepatic cholestatic jaundice), si
 
 Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
 
-Hypersensitivity: anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, urticaria, purpura;
+Hypersensitivity: anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, urticaria, purpura
 
 Musculoskeletal: muscle spasm
 
@@ -44,4 +44,4 @@ Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermat
 
 Special Senses: transient blurred vision, xanthopsia
 
-Urogenital: impotence.
+Urogenital: impotence

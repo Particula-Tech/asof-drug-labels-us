@@ -96,7 +96,7 @@ There is no difference in the pharmacokinetics of candesartan between male and f
 ### Renal Insufficiency
 
 In hypertensive patients with renal insufficiency, serum concentrations of candesartan were elevated.
-After repeated dosing, the AUC and Cmaxwere approximately doubled in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73m2) compared to patients with normal kidney function.
+After repeated dosing, the AUC and Cmax were approximately doubled in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73m2) compared to patients with normal kidney function.
 The pharmacokinetics of candesartan in hypertensive patients undergoing hemodialysis are similar to those in hypertensive patients with severe renal impairment.
 Candesartan cannot be removed by hemodialysis.
 
@@ -105,7 +105,7 @@ In a study of patients with impaired renal function (mean creatinine clearance o
 (See DOSAGE AND ADMINISTRATION.)
 
 Safety and effectiveness of ATACAND HCT in patients with severe renal impairment (CrCL ≤30 ml/min) have not been established.
-No dose adjustment is required in patients with mild CrCL 60-90 ml/min) or moderate (CrCL 30-60) renal impairment.
+No dose adjustment is required in patients with mild (CrCL 60-90 ml/min) or moderate (CrCL 30-60 ml/min) renal impairment.
 
 ### Hepatic Insufficiency
 
@@ -140,7 +140,7 @@ After oral administration of hydrochlorothiazide, diuresis begins within 2 hours
 
 ## Clinical Trials
 
-### Candesartan Cilexetil−Hydrochlorothiazide
+## Candesartan Cilexetil−Hydrochlorothiazide
 
 Of 12 controlled clinical trials involving 4588 patients, 5 were double-blind, placebo controlled and evaluated the antihypertensive effects of single entities vs the combination.
 These 5 trials, of 8 to 12 weeks duration, randomized 3037 hypertensive patients.

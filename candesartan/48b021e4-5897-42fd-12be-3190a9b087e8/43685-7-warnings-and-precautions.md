@@ -17,8 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue ATACAND HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to ATACAND HCT for hypotension, oliguria, and hyperkalemia.
-(see PRECAUTIONS, Pediatric Use.)
+Closely observe infants with histories of in utero exposure to ATACAND HCT for hypotension, oliguria, and hyperkalemia (See PRECAUTIONS, Pediatric Use.)
 
 There was no evidence of teratogenicity or other adverse effects on embryo-fetal development when pregnant mice, rats or rabbits were treated orally with candesartan cilexetil alone or in combination with hydrochlorothiazide.
 For mice, the maximum dose of candesartan cilexetil was 1000 mg/kg/day (about 150 times the maximum recommended daily human dose [MRHD]Doses compared on the basis of body surface area.
@@ -42,11 +41,6 @@ In patients with heart failure, ATACAND HCT may cause excessive hypotension, whi
 In such patients, ATACAND HCT therapy should be started under close medical supervision; they should be followed closely for the first 2 weeks of treatment and whenever the dose of candesartan or diuretic is increased.
 
 ## Impaired Renal Function
-
-Monitor renal function periodically in patients treated with ATACAND HCT.
-Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing oliguria, progressive azotemia, or acute renal failure on ATACAND HCT.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on ATACAND HCT.
 
 ## Potassium Abnormalities
 
@@ -82,7 +76,7 @@ Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance
 Thiazides decrease urinary calcium excretion and may cause mild elevation of serum calcium.
 Avoid using ATACAND HCT in patients with hypercalcemia.
 
-## Systemic Lupus Erythematosus
+Systemic Lupus Erythematosus
 
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
@@ -107,22 +101,22 @@ Tell patients receiving ATACAND HCT not to use potassium supplements or salt sub
 
 ## Drug Interactions
 
-Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+Because candesartan is not significantly metabolized by the cytochrome P450 system and at the therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
 
-### Interactions common to both Candesartan Cilexetil and Hydrochlorothiazde
+Interactions common to both Candesartan Cilexetil and Hydrochlorothiazide
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving candesartan and NSAID therapy.
 
+Interactions common to both Candesartan Cilexetil and Hydrochlorothiazide
+
 The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Lithium − Renal clearance of lithium is reduced by thiazides and increases the risk of lithium toxicity.
-Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.
-An increase in serum lithium concentration has been reported during concomitant administration of lithium with candesartan cilexetil.
-Monitor serum lithium levels.
+Lithium Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists or hydrochlorothiazide.
+Monitor serum lithium levels during concomitant use.
 
-### Interactions with Candesartan Cilexetil
+Interactions with Candesartan Cilexetil
 
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
@@ -138,10 +132,10 @@ Alcohol, barbiturates, or narcotics − Potentiation of orthostatic hypotension 
 
 Antidiabetic drugs (oral agents and insulin) − Dosage adjustment of the antidiabetic drug may be required.
 
-Ion Exchange resins − Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+Ion Exchange resins - Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
 Stagger the dosage of hydrochlorothiazide and ion exchange resins such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins.
 
-Skeletal muscle relaxants, nondepolarizing (eg, tubocurarine) −Possible increased responsiveness to muscle relaxants such as curare derivatives.
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) −Possible increased responsiveness to muscle relaxants such as curare derivatives.
 
 Digitalis: Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
 
