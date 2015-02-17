@@ -140,10 +140,10 @@ How should I use Victoza?
   First talk to your healthcare provider if you want to stop taking Victoza.
 - •Your dose of diabetes medicines may need to be changed if your body is under certain types of stress.
   Tell your healthcare provider if you:
-  - ∘have fever
-  - ∘have trauma
-  - ∘have an infection
-  - ∘plan to have or have had surgery
+  - •have fever
+  - •have trauma
+  - •have an infection
+  - •plan to have or have had surgery
 - •Never share your Victoza pen or needles with another person.
   You may give an infection to them, or get an infection from them.
 
