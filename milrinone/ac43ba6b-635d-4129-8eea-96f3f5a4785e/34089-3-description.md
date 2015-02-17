@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Milrinone lactate injection is a member of a new class of bipyridine inotropic/vasodilator agents with phosphodiesterase inhibitor activity, distinct from digitalis glycosides or catecholamines.
 Milrinone lactate is designated chemically as 1,6-dihydro-2-methyl-6-oxo-[3,4'-bipyridine]-5-carbonitrile lactate and has the following structure:

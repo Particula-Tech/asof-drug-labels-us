@@ -6,7 +6,7 @@ NDC 63323-617-10
 
 Milrinone Lactate Injection
 
-10 mg/10 mL (1 mg/mL)*
+10 mg per 10 mL (1 mg per mL)*
 
 For Intravenous Use Only
 
@@ -22,7 +22,7 @@ NDC 63323-617-10
 
 Milrinone Lactate Injection
 
-10 mg/10 mL (1 mg/mL)*
+10 mg per 10 mL (1 mg per mL)*
 
 For Intravenous Use Only
 

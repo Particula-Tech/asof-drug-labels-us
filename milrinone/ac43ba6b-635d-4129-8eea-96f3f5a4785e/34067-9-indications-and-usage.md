@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Milrinone lactate injection is indicated for the short-term intravenous treatment of patients with acute decompensated heart failure.
 Patients receiving milrinone should be observed closely with appropriate electrocardiographic equipment.

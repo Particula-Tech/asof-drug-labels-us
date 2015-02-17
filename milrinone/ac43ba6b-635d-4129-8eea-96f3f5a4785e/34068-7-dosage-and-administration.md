@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Milrinone should be administered with a loading dose followed by a continuous infusion (maintenance dose) according to the following guidelines:
 
@@ -19,15 +19,15 @@ The loading dose may be given undiluted, but diluting to a rounded total volume 
 
 MAINTENANCE DOSE
 
-|  | Infusion Rate | Total Daily Dose(24 Hours) |  |
+|  | Infusion Rate | Total Daily Dose (24 Hours) |  |
 | --- | --- | --- | --- |
-| MinimumStandardMaximum | 0.375 mcg/kg/min0.50 mcg/kg/min0.75 mcg/kg/min | 0.59 mg/kg0.77 mg/kg1.13 mg/kg | Administer as a continuous intravenous infusion |
+| Minimum Standard Maximum | 0.375 mcg/kg/min 0.50 mcg/kg/min 0.75 mcg/kg/min | 0.59 mg/kg 0.77 mg/kg 1.13 mg/kg | Administer as a continuous intravenous infusion. |
 
 Milrinone drawn from vials should be diluted prior to maintenance dose administration.
-The diluents that may be used are 0.45% Sodium Chloride Injection USP, 0.9% Sodium Chloride Injection USP, or 5% dextrose Injection USP.
+The diluents that may be used are 0.45% Sodium Chloride Injection USP, 0.9% Sodium Chloride Injection USP, or 5% Dextrose Injection USP.
 The table below shows the volume of diluent in milliliters (mL) that must be used to achieve 200 mcg/mL concentration for infusion, and the resultant total volumes.
 
-| Desired Infusion Concentrationmcg/mL | Milrinone1 mg/mL(mL) | Diluent(mL) | Total Volume(mL) |
+| Desired Infusion Concentration mcg/mL | Milrinone 1 mg/mL (mL) | Diluent (mL) | Total Volume (mL) |
 | --- | --- | --- | --- |
 | 200 | 10 | 40 | 50 |
 | 200 | 20 | 80 | 100 |
@@ -36,7 +36,7 @@ The infusion rate should be adjusted according to hemodynamic and clinical respo
 Patients should be closely monitored.
 In controlled clinical studies, most patients showed an improvement in hemodynamic status as evidenced by increases in cardiac output and reductions in pulmonary capillary wedge pressure.
 
-Note: See Dosage Adjustment in Renally Impaired Patients.
+Note: SeeDosage Adjustment in Renally Impaired Patients.
 Dosage may be titrated to the maximum hemodynamic effect and should not exceed 1.13 mg/kg/day.
 Duration of therapy should depend upon patient responsiveness.
 
@@ -44,7 +44,7 @@ The maintenance dose in mL/hr by patient body weight (kg) may be determined by r
 
 Milrinone Infusion Rate (mL/hr) Using 200 mcg/mL Concentration
 
-| MaintenanceDose(mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |
+| Maintenance Dose (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | 30 | 40 | 50 | 60 | 70 |  |
 | 0.375 | 3.4 | 4.5 | 5.6 | 6.8 | 7.9 |
@@ -54,7 +54,7 @@ Milrinone Infusion Rate (mL/hr) Using 200 mcg/mL Concentration
 | 0.700 | 6.3 | 8.4 | 10.5 | 12.6 | 14.7 |
 | 0.750 | 6.8 | 9 | 11.3 | 13.5 | 15.8 |
 
-| MaintenanceDose(mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |
+| Maintenance Dose (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | 80 | 90 | 100 | 110 | 120 |  |
 | 0.375 | 9 | 10.1 | 11.3 | 12.4 | 13.5 |
@@ -74,7 +74,7 @@ Data obtained from patients with severe renal impairment (creatinine clearance =
 Reductions in infusion rate may be necessary in patients with renal impairment.
 For patients with clinical evidence of renal impairment, the recommended infusion rate can be obtained from the following table:
 
-| Creatinine Clearance(mL/min/1.73 m2) | Infusion Rate(mcg/kg/min) |
+| Creatinine Clearance (mL/min/1.73 m2) | Infusion Rate (mcg/kg/min) |
 | --- | --- |
 | 5 | 0.20 |
 | 10 | 0.23 |

@@ -1,7 +1,7 @@
-# WARNINGS
+# WARNINGS:
 
 Whether given orally or by continuous or intermittent intravenous infusion, milrinone has not been shown to be safe or effective in the longer (greater than 48 hours) treatment of patients with heart failure.
-In a multicenter trial of 1088 patients with Class III and IV heart failure, long-term oral treatment with milrinone was associated with no improvement in symptoms and an increased risk of hospitalization and death.
+In a multicenter trial of 1,088 patients with Class III and IV heart failure, long-term oral treatment with milrinone was associated with no improvement in symptoms and an increased risk of hospitalization and death.
 In this study, patients with Class IV symptoms appeared to be at particular risk of life-threatening cardiovascular reactions.
 There is no evidence that milrinone given by long-term continuous or intermittent infusion does not carry a similar risk.
 
@@ -9,7 +9,7 @@ The use of milrinone both intravenously and orally has been associated with incr
 Long-term oral use has been associated with an increased risk of sudden death.
 Hence, patients receiving milrinone should be observed closely with the use of continuous electrocardiographic monitoring to allow the prompt detection and management of ventricular arrhythmias.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 

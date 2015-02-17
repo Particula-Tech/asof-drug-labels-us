@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Milrinone is a positive inotrope and vasodilator, with little chronotropic activity different in structure and mode of action from either the digitalis glycosides or catecholamines.
 
@@ -14,7 +14,7 @@ Both the inotropic and vasodilatory effects have been observed over the therapeu
 
 In addition to increasing myocardial contractility, milrinone improves diastolic function as evidenced by improvements in left ventricular diastolic relaxation.
 
-The acute administration of intravenous milrinone has also been evaluated in clinical trials in excess of 1600 patients, with chronic heart failure, heart failure associated with cardiac surgery, and heart failure associated with myocardial infarction.
+The acute administration of intravenous milrinone has also been evaluated in clinical trials in excess of 1,600 patients, with chronic heart failure, heart failure associated with cardiac surgery, and heart failure associated with myocardial infarction.
 The total number of deaths, either on therapy or shortly thereafter (24 hours) was 15, less than 0.9%, few of which were thought to be drug-related.
 
 ## Pharmacokinetics
@@ -37,7 +37,7 @@ Additionally, there is no increased effect on myocardial oxygen consumption.
 In uncontrolled studies, hemodynamic improvement during intravenous therapy with milrinone was accompanied by clinical symptomatic improvement, but the ability of milrinone to relieve symptoms has not been evaluated in controlled clinical trials.
 The great majority of patients experience improvements in hemodynamic function within 5 to 15 minutes of the initiation of therapy.
 
-In studies in congestive heart failure patients, milrinone when administered as a loading injection followed by a maintenance infusion produced significant mean initial increases in cardiac index of 25%, 38%, and 42% at dose regimens of 37.5 mcg/kg/0.375 mcg/kg/min, 50 mcg/kg/0.50 mcg/kg/min, and 75 mcg/kg/0.75 mcg/kg/min, respectively.
+In studies in congestive heart failure patients, milrinone when administered as a loading injection followed by a maintenance infusion produced significant mean initial increases in cardiac index of 25%, 38%, and 42% at dose regimens of 37.5 mcg/kg/0.375 mcg/kg/min, 50 mcg/kg/0.5 mcg/kg/min, and 75 mcg/kg/0.75 mcg/kg/min, respectively.
 Over the same range of loading injections and maintenance infusions, pulmonary capillary wedge pressure significantly decreased by 20%, 23%, and 36%, respectively, while systemic vascular resistance significantly decreased by 17%, 21%, and 37%.
 Mean arterial pressure fell by up to 5% at the two lower dose regimens, but by 17% at the highest dose.
 Patients evaluated for 48 hours maintained improvements in hemodynamic function, with no evidence of diminished response (tachyphylaxis).
@@ -52,5 +52,5 @@ In these cases, digitalis should be considered prior to the institution of thera
 Improvement in left ventricular function in patients with ischemic heart disease has been observed.
 The improvement has occurred without inducing symptoms or electrocardiographic signs of myocardial ischemia.
 
-The steady-state plasma milrinone concentrations after approximately 6 to 12 hours of unchanging maintenance infusion of 0.50 mcg/kg/min are approximately 200 ng/mL.
+The steady-state plasma milrinone concentrations after approximately 6 to 12 hours of unchanging maintenance infusion of 0.5 mcg/kg/min are approximately 200 ng/mL.
 Near maximum favorable effects of milrinone on cardiac output and pulmonary capillary wedge pressure are seen at plasma milrinone concentrations in the 150 ng/mL to 250 ng/mL range.
