@@ -21,4 +21,3 @@ TECFIDERA is available as follows:
 Store at 15°C to 30°C (59 to 86°F).
 Protect the capsules from light.
 Store in original container.
-Once opened, discard bottles of TECFIDERA after 90 days.
