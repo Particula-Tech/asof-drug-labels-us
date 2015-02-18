@@ -2,7 +2,7 @@
 
 ## Mortality
 
-In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic nonlife-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
+In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
 The average duration of treatment with encainide or flecainide in this study was ten months.
 
 Amiodarone therapy was evaluated in two multi-centered, randomized, double-blind, placebo-controlled trials involving 1202 (Canadian Amiodarone Myocardial Infarction Arrhythmia Trial; CAMIAT) and 1486 (European Myocardial Infarction Amiodarone Trial; EMIAT) post-MI patients followed for up to 2 years.
@@ -24,7 +24,7 @@ These data are consistent with the results of a pooled analysis of smaller, cont
 There have been post-marketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
 Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
-Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of Amiodarone; however, reports suggest that the use of lower loading and maintenance doses of Amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
+Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of amiodarone; however, reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
 
 Amiodarone HCl tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium-scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
 Therefore, when amiodarone therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
@@ -155,11 +155,11 @@ Because of its release of inorganic iodine, or perhaps for other reasons, amioda
 Thyroid function should be monitored prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
 Because of the slow elimination of amiodarone and its metabolites, high plasma iodide levels, altered thyroid function, and abnormal thyroid-function tests may persist for several weeks or even months following amiodarone withdrawal.
 
-Hypothyroidism has been reported in 2 to 4% of patients in most series, but in 8 to 10% in some series.
-This condition may be identified by relevant clinical symptoms and particularly by elevated serum TSH levels.
+Hypothyroidism has been reported in 2 to 10% of patients receiving amiodarone and may be primary or subsequent to resolution of preceding amiodarone-induced hyperthyroidism.
+This condition may be identified by clinical symptoms and elevated serum TSH levels.
+Cases of severe hypothyroidism and myxedema coma, sometimes fatal, have been reported in association with amiodarone therapy.
 In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal.
-Hypothyroidism is best managed by amiodarone dose reduction and/or thyroid hormone supplement.
-However, therapy must be individualized, and it may be necessary to discontinue amiodarone HCl tablets in some patients.
+Manage hypothyroidism by reducing the dose of or discontinuing amiodarone and considering the need for thyroid hormone supplement.
 
 Hyperthyroidism occurs in about 2% of patients receiving amiodarone, but the incidence may be higher among patients with prior inadequate dietary iodine intake.
 Amiodarone-induced hyperthyroidism usually poses a greater hazard to the patient than hypothyroidism because of the possibility of thyrotoxicosis and/or arrhythmia breakthrough or aggravation, all of which may result in death.
@@ -170,7 +170,7 @@ Hyperthyroidism is best identified by relevant clinical symptoms and signs, acco
 The finding of a flat TSH response to TRH is confirmatory of hyperthyroidism and may be sought in equivocal cases.
 Since arrhythmia breakthroughs may accompany amiodarone-induced hyperthyroidism, aggressive medical treatment is indicated, including, if possible, dose reduction or withdrawal of amiodarone.
 
-The institution of antithyroid drugs, b-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
+The institution of antithyroid drugs, β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
 The action of antithyroid drugs may be especially delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
 Amiodarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see "WARNINGS, Thyrotoxicosis").
@@ -348,7 +348,7 @@ There have been reports of QTc prolongation, with or without TdP, in patients ta
 
 Hemodynamic and electrophysiologic interactions have also been observed after concomitant administration with propranolol, diltiazem, and verapamil.
 
-Volatile Anesthetic Agents (See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents.")
+Volatile Anesthetic Agents (See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents").
 
 In addition to the interactions noted above, chronic (>2 weeks) oral amiodarone administration impairs metabolism of phenytoin, dextromethorphan, and methotrexate.
 
@@ -360,16 +360,17 @@ Use caution when coadministering amiodarone with drugs which may induce hypokale
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Amiodarone HCl was associated with a statistically significant, dose-related increase in the incidence of thyroid tumors (follicular adenoma and/or carcinoma) in rats.
-The incidence of thyroid tumors was greater than control even at the lowest dose level tested, i.e., 5 mg/kg/day (approximately 0.08 times the maximum recommended human maintenance dose600 mg in a 50 kg patient (dose compared on a body surface area basis).).
+The incidence of thyroid tumors was greater than control even at the lowest dose level tested, i.e., 5 mg/kg/day (approximately 0.08 times the maximum recommended human maintenance dose600 mg in a 50 kg patient (dose compared on a body surface area basis)).
 
 Mutagenicity studies (Ames, micronucleus, and lysogenic tests) with amiodarone were negative.
-In a study in which amiodarone HCl was administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose).
+
+In a study in which amiodarone HCI was administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose).
 
 ## Pregnancy
 
-## Pregnancy Category D
+### Pregnancy Category D
 
-See "WARNINGS, Neonatal Hypo- or Hyperthyroidism."
+See "WARNINGS, Neonatal Hypo- or Hyperthyroidism".
 
 ## Labor and Delivery
 

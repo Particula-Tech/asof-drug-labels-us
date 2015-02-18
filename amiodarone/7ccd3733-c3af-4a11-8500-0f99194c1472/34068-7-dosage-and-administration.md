@@ -24,6 +24,7 @@ Some patients may require larger maintenance doses, up to 600 mg/day, and some c
 Amiodarone may be administered as a single daily dose, or in patients with severe gastrointestinal intolerance, as a b.i.d. dose.
 In each patient, the chronic maintenance dose should be determined according to antiarrhythmic effect as assessed by symptoms, Holter recordings, and/or programmed electrical stimulation, and by patient tolerance.
 Plasma concentrations may be helpful in evaluating nonresponsiveness or unexpectedly severe toxicity (see "CLINICAL PHARMACOLOGY").
+
 The lowest effective dose should be used to prevent the occurrence of side effects.
 In all instances, the physician must be guided by the severity of the individual patient's arrhythmia and response to therapy.
 

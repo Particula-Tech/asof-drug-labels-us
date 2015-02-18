@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Amiodarone HCl Tablets, 100 mg are round, flat, beveled edge, white tablets; one side plain, the other side engraved with "TARO" on the top and "55" below and are available as follows:
+Amiodarone HCl Tablets, 100 mg are round, flat, beveled edge, white tablets; one side plain, the second side scored and engraved with "TARO" above the score and "55" below the score line and are available as follows:
 
 | Bottles of 30 Tablets | NDC 51672-4055-6 |
 | --- | --- |
@@ -10,6 +10,14 @@ Amiodarone HCl Tablets, 200 mg are round, flat, beveled edge, light orange table
 | Bottles of 60 Tablets | NDC 51672-4025-4 |
 | --- | --- |
 | Bottles of 1000 Tablets | NDC 51672-4025-3 |
+
+Amiodarone HCl Tablets, 300 mg are round, flat, beveled edge, peach tablets; one side plain, the second side scored and engraved with "TARO" above the score and "58" below the score line and are available as follows:
+
+| Bottles of 30 Tablets | NDC 51672-4056-6 |
+| --- | --- |
+| Bottles of 100 Tablets | NDC 51672-4056-1 |
+| Bottles of 1000 Tablets | NDC 51672-4056-3 |
+| Cartons containing 100 tablets (10 blister strips of 10) | NDC 51672-4056-0 |
 
 Amiodarone HCl Tablets, 400 mg are round, flat, beveled edge, light yellow tablets; one side plain, the second side scored and engraved with "TARO" above the score and "59" below the score line and are available as follows:
 

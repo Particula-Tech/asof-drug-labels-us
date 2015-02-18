@@ -26,6 +26,20 @@ Dispense the accompanying medication guide to each patient.
 
 Rx only
 
+# PRINCIPAL DISPLAY PANEL - 300 mg Tablet Bottle Label
+
+TARO
+
+NDC 51672-4056-6
+
+30 Tablets
+
+Amiodarone HCl Tablets 300 mg
+
+Dispense the accompanying medication guide to each patient.
+
+Rx only
+
 # PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
 
 TARO

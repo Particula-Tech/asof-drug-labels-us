@@ -30,7 +30,7 @@ Food increases the rate and extent of absorption of amiodarone.
 The effects of food upon the bioavailability of amiodarone have been studied in 30 healthy subjects who received a single 600 mg dose immediately after consuming a high-fat meal and following an overnight fast.
 The area under the plasma concentration-time curve (AUC) and the peak plasma concentration (Cmax) of amiodarone increased by 2.3 (range 1.7 to 3.6) and 3.8 (range 2.7 to 4.4) times, respectively, in the presence of food.
 Food also increased the rate of absorption of amiodarone, decreasing the time to peak plasma concentration (Tmax) by 37%.
-The mean AUC and mean Cmax of desethylamiodarone increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
+The mean AUC and mean Cmax of desethlamiodarone increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
 
 Amiodarone has a very large but variable volume of distribution, averaging about 60 L/kg, because of extensive accumulation in various sites, especially adipose tissue and highly perfused organs, such as the liver, lung, and spleen.
 One major metabolite of amiodarone, desethylamiodarone (DEA), has been identified in man; it accumulates to an even greater extent in almost all tissues.
@@ -94,7 +94,8 @@ There is no present consensus on many aspects of how best to assess effectivenes
    A number of criteria have been proposed, however, for identifying patients who remain inducible but who seem likely nonetheless to do well on amiodarone.
    These criteria include increased difficulty of induction (more stimuli or more rapid stimuli), which has been reported to predict a lower rate of recurrence, and ability to tolerate the induced ventricular tachycardia without severe symptoms, a finding that has been reported to correlate with better survival but not with lower recurrence rates.
    While these criteria require confirmation and further study in general, easier inducibility or poorer tolerance of the induced arrhythmia should suggest consideration of a need to revise treatment.
-   Several predictors of success not based on PES have also been suggested, including complete elimination of all nonsustained ventricular tachycardia on ambulatory monitoring and very low premature ventricular-beat rates (less than 1 VPB/1,000 normal beats).
+
+Several predictors of success not based on PES have also been suggested, including complete elimination of all nonsustained ventricular tachycardia on ambulatory monitoring and very low premature ventricular-beat rates (less than 1 VPB/1,000 normal beats).
 
 While these issues remain unsettled for amiodarone, as for other agents, the prescriber of amiodarone should have access to (direct or through referral), and familiarity with, the full range of evaluatory procedures used in the care of patients with life-threatening arrhythmias.
 
