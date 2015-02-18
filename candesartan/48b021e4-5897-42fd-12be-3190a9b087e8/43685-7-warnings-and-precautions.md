@@ -101,15 +101,13 @@ Tell patients receiving ATACAND HCT not to use potassium supplements or salt sub
 
 ## Drug Interactions
 
-Because candesartan is not significantly metabolized by the cytochrome P450 system and at the therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
 
 Interactions common to both Candesartan Cilexetil and Hydrochlorothiazide
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving candesartan and NSAID therapy.
-
-Interactions common to both Candesartan Cilexetil and Hydrochlorothiazide
 
 The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
