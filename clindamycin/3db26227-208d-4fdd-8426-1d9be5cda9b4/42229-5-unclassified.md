@@ -19,6 +19,9 @@ Nonetheless, clindamycin is an antimicrobial agent active in vitro against most 
 
 Rx only
 
-LAB-0047-3.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-May 2014
+LAB-0047-4.0
+
+January 2015

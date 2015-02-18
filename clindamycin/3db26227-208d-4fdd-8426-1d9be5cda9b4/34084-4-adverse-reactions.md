@@ -22,12 +22,13 @@ Skin: Nonapplication-site pruritis, rash, application-site pain, and application
 
 ## Other clindamycin formulations
 
-The overall systemic exposure to clindamycin from CLEOCIN Vaginal Ovules is substantially lower than the systemic exposure from therapeutic doses of oral clindamycin hydrochloride (two-fold to 20-fold lower) or parenteral clindamycin phosphate (40-fold to 50-fold lower) (see CLINICAL PHARMACOLOGY).
+The overall systemic exposure to clindamycin from CLEOCIN Vaginal Ovules is substantially lower than the systemic exposure from therapeutic doses of oral clindamycin hydrochloride (two-fold to 20-fold lower) or parenteral clindamycin phosphate (40-fold to 50-fold lower).
+(See CLINICAL PHARMACOLOGY.)
 Although these lower levels of exposure are less likely to produce the common reactions seen with oral or parenteral clindamycin, the possibility of these and other reactions cannot be excluded.
 
 The following adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of clindamycin and may also occur following administration of CLEOCIN Vaginal Ovules:
 
-Gastrointestinal: Abdominal pain, esophagitis, nausea, vomiting, and diarrhea.
+Gastrointestinal: Abdominal pain, esophagitis, nausea, vomiting, diarrhea, and pseudomembranous colitis.
 (See WARNINGS.)
 
 Hematopoietic: Transient neutropenia (leukopenia), eosinophilia, agranulocytosis, and thrombocytopenia have been reported.
@@ -44,3 +45,5 @@ Liver: Jaundice and abnormalities in liver function tests have been observed dur
 Musculoskeletal: Rare instances of polyarthritis have been reported.
 
 Renal: Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed in rare instances.
+
+There have been reports of pseudomembranous colits following the administration of clindamycin vaginal cream.

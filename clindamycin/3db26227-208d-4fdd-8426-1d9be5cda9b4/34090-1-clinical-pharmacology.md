@@ -5,7 +5,7 @@ Approximately 30% (range 6% to 70%) of the administered dose was absorbed system
 Systemic absorption was estimated using a subtherapeutic 100 mg intravenous dose of clindamycin phosphate as a comparator in the same volunteers.
 The mean AUC following day 3 of dosing with the suppository was 3.2 µg•hr/mL (range 0.42 to 11 µg•hr/mL).
 The Cmax observed on day 3 of dosing with the suppository averaged 0.27 µg/mL (range 0.03 to 0.67 µg/mL) and was observed about 5 hours after dosing (range 1 to 10 hours).
-In contrast, the AUC and Cmax after the single intravenous dose averaged 11 µg•hr/mL (range 5.1 to 26 µg•hr/mL) and 3.7 µg/mL (range 2.4 to 5.0 µg/mL), respectively.
+In contrast, the AUC and Cmax after the single intravenous dose averaged 11 µg hr/mL (range 5.1 to 26 µg•hr/mL) and 3.7 µg/mL (range 2.4 to 5.0 µg/mL), respectively.
 The mean apparent elimination half-life after dosing with the suppository was 11 hours (range 4 to 35 hours) and is considered to be limited by the absorption rate.
 
 The results from this study showed that systemic exposure to clindamycin (based on AUC) from the suppository was, on average, three fold lower than that from a single subtherapeutic 100 mg intravenous dose of clindamycin.
