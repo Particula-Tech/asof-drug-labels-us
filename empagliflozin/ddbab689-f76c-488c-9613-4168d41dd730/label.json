@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA206073"
+  ],
+  "inn": "empagliflozin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0164-07",
+    "0597-0164-10",
+    "0597-0164-30",
+    "0597-0164-39",
+    "0597-0164-70",
+    "0597-0164-90",
+    "0597-0182-03",
+    "0597-0182-07",
+    "0597-0182-10",
+    "0597-0182-30",
+    "0597-0182-39",
+    "0597-0182-70",
+    "0597-0182-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "empagliflozin linagliptin",
+      "name": "Glyxambi"
+    }
+  ],
+  "setid": "ddbab689-f76c-488c-9613-4168d41dd730",
+  "source": "dailymed"
+}

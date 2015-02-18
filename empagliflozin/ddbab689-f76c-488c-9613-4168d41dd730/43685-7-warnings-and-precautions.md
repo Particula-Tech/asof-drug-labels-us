@@ -1,0 +1,58 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Pancreatitis
+
+There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking linagliptin.
+Take careful notice of potential signs and symptoms of pancreatitis.
+If pancreatitis is suspected, promptly discontinue GLYXAMBI and initiate appropriate management.
+It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using GLYXAMBI.
+
+## 5.2 Hypotension
+
+Empagliflozin causes intravascular volume contraction.
+Symptomatic hypotension may occur after initiating empagliflozin [see Adverse Reactions (6.1)] particularly in patients with renal impairment, the elderly, in patients with low systolic blood pressure, and in patients on diuretics.
+Before initiating GLYXAMBI, assess for volume contraction and correct volume status if indicated.
+Monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected [see Use in Specific Populations (8.5)].
+
+## 5.3 Impairment in Renal Function
+
+Empagliflozin increases serum creatinine and decreases eGFR.
+The risk of impaired renal function with empagliflozin is increased in elderly patients and patients with moderate renal impairment.
+More frequent monitoring of renal function is recommended in these patients [see Use in Specific Populations (8.5, 8.6)].
+Renal function should be evaluated prior to initiating GLYXAMBI and periodically thereafter.
+
+## 5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+
+Insulin and insulin secretagogues are known to cause hypoglycemia.
+The use of empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial.
+Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with GLYXAMBI.
+
+## 5.5 Genital Mycotic Infections
+
+Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
+Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
+Monitor and treat as appropriate.
+
+## 5.6 Urinary Tract Infections
+
+Empagliflozin increases the risk for urinary tract infections [see Adverse Reactions (6.1)].
+Monitor and treat as appropriate.
+
+## 5.7 Hypersensitivity Reactions
+
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of GLYXAMBI).
+These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
+Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
+If a serious hypersensitivity reaction is suspected, discontinue GLYXAMBI, assess for other potential causes for the event, and institute alternative treatment for diabetes.
+
+Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
+Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with GLYXAMBI.
+
+## 5.8 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+
+Increases in LDL-C can occur with empagliflozin [see Adverse Reactions (6.1)].
+Monitor and treat as appropriate.
+
+## 5.9 Macrovascular Outcomes
+
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI or any other antidiabetic drug.
