@@ -33,4 +33,4 @@ Therefore, during treatment of systemic toxicity, maternal hypotension or fetal 
 Resuscitation of obstetrical patients may take longer than resuscitation of nonpregnant patients and closed-chest cardiac compression may be ineffective.
 Rapid delivery of the fetus may improve the response to resuscitative efforts.
 
-April 2014
+January 2015

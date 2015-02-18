@@ -17,9 +17,7 @@ Allow adequate time for onset of anesthesia following administration of each tes
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Solutions which are discolored or which contain particulate matter should not be administered.
 
-Table 7
-
-Dosage Recommendations
+Table 7 Dosage Recommendations
 
 |  | Conc. |  | Volume | Dose | Onset | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,12 +39,12 @@ Dosage Recommendations
 | LABOR PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
 | Initial Dose | 2 | (0.2%) | 10 to 20 | 20 to 40 | 10 to 15 | 0.5 to 1.5 |
-| Continuous infusion‡ | 2 | (0.2%) | 6 to 14mL/h | 12 to 28mg/h | n/a* | n/a* |
-| Incrementalinjections (top-up)‡ | 2 | (0.2%) | 10 to 15mL/h | 20 to 30mg/h | n/a* | n/a* |
+| Continuous infusion‡ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Incremental injections (top-up)‡ | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a* | n/a* |
 | POSTOPERATIVE PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
-| Continuous infusion§ | 2 | (0.2%) | 6 to 14mL/h | 12 to 28mg/h | n/a* | n/a* |
-| Thoracic EpiduralAdministration | 2 | (0.2%) | 6 to 14mL/h | 12 to 28mg/h | n/a* | n/a* |
+| Continuous infusion§ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Thoracic Epidural Administration | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
 | Continuous infusion§ |  |  |  |  |  |  |
 | Infiltration | 2 | (0.2%) | 1 to 100 | 2 to 200 | 1 to 5 | 2 to 6 |
 | (eg, minor nerve block) | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 5 | 2 to 6 |

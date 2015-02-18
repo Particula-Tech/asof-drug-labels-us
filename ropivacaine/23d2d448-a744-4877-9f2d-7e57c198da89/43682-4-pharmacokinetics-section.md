@@ -9,9 +9,7 @@ The half-lives of the 2 phases, (mean ± SD) are 14 ± 7 minutes and 4.2 ± 0.9 
 The slow absorption is the rate limiting factor in the elimination of ropivacaine that explains why the terminal half-life is longer after epidural than after intravenous administration.
 Ropivacaine shows dose-proportionality up to the highest intravenous dose studied, 80 mg, corresponding to a mean ± SD peak plasma concentration of 1.9 ± 0.3 mcg/mL.
 
-Table 1
-
-Pharmacokinetic (plasma concentration-time) data from clinical trials
+Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 
 | Route | Epidural Infusion* |  | Epidural Infusion* | Epidural Block† | Epidural Block† | Plexus Block‡ | IV Infusion§ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,13 +132,9 @@ When administered in doses up to 278 mg as intermittent injections or as a conti
 A prospective meta-analysis on 6 of these studies provided detailed evaluation of the delivered newborns and showed no difference in clinical outcomes compared to bupivacaine.
 There were significantly fewer instrumental deliveries in mothers receiving ropivacaine as compared to bupivacaine.
 
-Table 2
+Table 2 LABOR AND DELIVERY META-ANALYSIS: MODE OF DELIVERY
 
-LABOR AND DELIVERY
-
-META-ANALYSIS: MODE OF DELIVERY
-
-| Delivery Mode | Naropinn=199 |  | Bupivacainen=188 |  |
+| Delivery Mode | Naropin n=199 |  | Bupivacaine n=188 |  |
 | --- | --- | --- | --- | --- |
 |  | n | % | n | % |
 | Spontaneous Vertex | 116 | 58 | 92 | 49 |

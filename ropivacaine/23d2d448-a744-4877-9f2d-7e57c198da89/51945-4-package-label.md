@@ -16,9 +16,9 @@ NDC 63323-286-35
 
 278635
 
-Naropin® (ropivacaine HCl) Injection, USP
+Naropin® (ropivacaine HCl Injection, USP)
 
-0.5% (150 mg/30 mL) (5 mg/mL)
+0.5% 150 mg/30 mL (5 mg/mL)
 
 For Infiltration, Nerve Block, and Epidural Administration Only.
 Not for Intravenous Administration.
@@ -31,16 +31,16 @@ NDC 63323-286-35
 
 278635
 
-Naropin® (ropivacaine HCl) Injection, USP
+Naropin® (ropivacaine HCl Injection, USP)
 
-0.5% (150 mg/30 mL) (5 mg/mL)
+0.5% 150 mg/30 mL (5 mg/mL)
 
 For Infiltration, Nerve Block, and Epidural Administration Only.
 Not for Intravenous Administration.
 
 Rx only
 
-Twenty-five 30 mL Single Dose Vials
+Twenty-five30 mL Single Dose Vials
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Label
 
@@ -48,9 +48,9 @@ NDC 63323-287-21
 
 278721
 
-Naropin® (ropivacaine HCl) Injection, USP
+Naropin® (ropivacaine HCl Injection, USP)
 
-0.75% (150 mg/20 mL) (7.5 mg/mL)
+0.75% 150 mg/20 mL (7.5 mg/mL)
 
 For Nerve Block and Epidural Administration Only.
 Not for Intravenous Administration.
@@ -63,9 +63,9 @@ NDC 63323-287-21
 
 278721
 
-Naropin® (ropivacaine HCl) Injection, USP
+Naropin® (ropivacaine HCl Injection, USP)
 
-0.75% (150 mg/20 mL) (7.5 mg/mL)
+0.75% 150 mg/20 m) (7.5 mg/mL)
 
 For Nerve Block and Epidural Administration Only.
 Not for Intravenous Administration.
@@ -80,9 +80,9 @@ NDC 63323-288-11
 
 278811
 
-Naropin® (ropivacaine HCl) Injection, USP
+Naropin® (ropivacaine HCl Injection, USP)
 
-1% (100 mg/10 mL) (10 mg/mL)
+1% 100 mg/10 mL (10 mg/mL)
 
 For Epidural Administration Only.
 Not for Intravenous Administration.
@@ -95,9 +95,9 @@ NDC 63323-288-11
 
 278811
 
-Naropin® (ropivacaine HCl) Injection, USP
+Naropin® (ropivacaine HCl Injection, USP)
 
-1% (100 mg/10 mL) (10 mg/mL)
+1% 100 mg/10 mL (10 mg/mL)
 
 For Epidural Administration Only.
 Not for Intravenous Administration.

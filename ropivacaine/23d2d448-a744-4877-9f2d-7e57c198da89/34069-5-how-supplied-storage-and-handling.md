@@ -6,19 +6,19 @@ polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
 
 | Product No. | NDC No. | Strength | Ampule Size |
 | --- | --- | --- | --- |
-| 278510 | 63323-285-10 | 2 mg/mL (0.2%) | 10 mL |
-| 278520 | 63323-285-20 | 2 mg/mL (0.2%) | 20 mL |
-| 278620 | 63323-286-20 | 5 mg/mL (0.5%) | 20 mL |
-| 278720 | 63323-287-20 | 7.5 mg/mL (0.75%) | 20 mL |
-| 278810 | 63323-288-10 | 10 mg/mL (1%) | 10 mL |
-| 278820 | 63323-288-20 | 10 mg/mL (1%) | 20 mL |
+| 278510 | 63323-285-10 | 20 mg/10 mL (2 mg/mL) | 10 mL |
+| 278520 | 63323-285-20 | 40 mg/20 mL (2 mg/mL) | 20 mL |
+| 278620 | 63323-286-20 | 100 mg/20 mL (5 mg/mL) | 20 mL |
+| 278720 | 63323-287-20 | 150 mg/20 mL (7.5 mg/mL) | 20 mL |
+| 278810 | 63323-288-10 | 100 mg/10 mL (10 mg/mL) | 10 mL |
+| 278820 | 63323-288-20 | 200 mg/20 mL (10 mg/mL) | 20 mL |
 
-Naropin® Flexible Containers
+Naropin® freeflex® Bags
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 278561 | 63323-285-61 | 2 mg/mL (0.2%) | 100 mL flexible plastic container. |
-| 278563 | 63323-285-63 | 2 mg/mL (0.2%) | 200 mL flexible plastic container. |
+| 278561 | 63323-285-61 | 200 mg/100 mL (2 mg/mL) | 100 mL freeflex® bag. |
+| 278563 | 63323-285-63 | 400 mg/200 mL (2 mg/mL) | 250 mL freeflex® bag. |
 
 This container is not made with natural rubber latex or polyvinyl chloride (PVC), Non-DEHP.
 
@@ -28,24 +28,24 @@ Naropin® Single Dose Vials
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 278513 | 63323-285-13 | 2 mg/mL (0.2%) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
-| 278523 | 63323-285-23 | 2 mg/mL (0.2%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 278623 | 63323-286-23 | 5 mg/mL (0.5%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 278630 | 63323-286-30 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vial packaged individually. |
-| 278631 | 63323-286-31 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vials Sterile-Pak in boxes of 5. |
-| 278635 | 63323-286-35 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
-| 278721 | 63323-287-21 | 7.5 mg/mL (0.75%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 278811 | 63323-288-11 | 10 mg/mL (1%) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
-| 278821 | 63323-288-21 | 10 mg/mL (1%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278513 | 63323-285-13 | 20 mg/10 mL (2 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
+| 278523 | 63323-285-23 | 40 mg/20 mL (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278623 | 63323-286-23 | 100 mg/20 mL (5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278630 | 63323-286-30 | 150 mg/30 mL (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial packaged individually. |
+| 278631 | 63323-286-31 | 150 mg/30 mL (5 mg/mL) | 30 mL fill, in a 30 mL single dose vials Sterile-Pak, in boxes of 5. |
+| 278635 | 63323-286-35 | 150 mg/30 mL (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
+| 278721 | 63323-287-21 | 150 mg/20 mL (7.5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| 278811 | 63323-288-11 | 100 mg/10 mL (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
+| 278821 | 63323-288-21 | 200 mg/20 mL (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 
 Naropin® Single Dose Infusion Bottles
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 278565 | 63323-285-65 | 2 mg/mL (0.2%) | 100 mL Infusion Bottle. |
-| 278564 | 63323-285-64 | 2 mg/mL (0.2%) | 200 mL Infusion Bottle. |
-| 278600 | 63323-286-00 | 5 mg/mL (0.5%) | 100 mL Infusion Bottle. |
-| 278663 | 63323-286-63 | 5 mg/mL (0.5%) | 200 mL Infusion Bottle. |
+| 278565 | 63323-285-65 | 200 mg/100 mL (2 mg/mL) | 100 mL Infusion Bottle. |
+| 278564 | 63323-285-64 | 400 mg/200 mL (2 mg/mL) | 200 mL Infusion Bottle. |
+| 278600 | 63323-286-00 | 500 mg/100 mL (5 mg/mL) | 100 mL Infusion Bottle. |
+| 278663 | 63323-286-63 | 1000 mg/200 mL (5 mg/mL) | 200 mL Infusion Bottle. |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
