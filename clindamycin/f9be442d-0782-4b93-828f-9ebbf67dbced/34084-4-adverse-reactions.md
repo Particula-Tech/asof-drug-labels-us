@@ -67,6 +67,11 @@ Body as a whole: upper respiratory infection.
 
 Skin: pruritus (topical application site) and erythema.
 
+### Post-marketing Experience
+
+In the post-marketing period, there have been case reports of pseudomembranous colitis with the use of clindamycin phosphate vaginal cream.
+The frequency of pseudomembranous colitis is not known.
+
 ### Other clindamycin formulations
 
 Clindamycin vaginal cream affords minimal peak serum levels and systemic exposure (AUCs) of clindamycin compared to 100 mg oral clindamycin dosing.
@@ -75,7 +80,7 @@ Data from well-controlled trials directly comparing clindamycin administered ora
 
 The following adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of clindamycin:
 
-Gastrointestinal: Abdominal pain, esophagitis, nausea, vomiting, and diarrhea.
+Gastrointestinal: Abdominal pain, esophagitis, nausea, vomiting, diarrhea and pseudomembranous colitis.
 (See WARNINGS.)
 
 Hematopoietic: Transient neutropenia (leukopenia), eosinophilia, agranulocytosis, and thrombocytopenia have been reported.
