@@ -63,12 +63,12 @@ In elderly patients, dose titration should be performed with caution [see Dosage
 A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renally impaired patients, dose titration should be performed with caution [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+In all renally impaired patients, dose titration should be performed with caution [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Hepatic Impairment
 
 Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
 A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
-VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.

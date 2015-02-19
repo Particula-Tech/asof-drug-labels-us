@@ -67,70 +67,70 @@ There is no enantiomeric interconversion of lacosamide.
 
 Special Populations
 
-Renal impairment
+Renal Impairment
 
-Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
+- Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
-The AUC of VIMPAT was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
-No dose adjustment is considered necessary in mildly and moderately renal impaired subjects.
-A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
-VIMPAT is effectively removed from plasma by hemodialysis.
-Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
-Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renally impaired patients, the dose titration should be performed with caution [see Dosage and Administration (2.3)].
+- The AUC of VIMPAT was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
+  No dose adjustment is considered necessary in mildly and moderately renal impaired subjects.
+  A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
+  VIMPAT is effectively removed from plasma by hemodialysis.
+  Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
+  Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
+  In all renally impaired patients, the dose titration should be performed with caution [see Dosage and Administration (2.3)].
 
-Hepatic impairment
+Hepatic Impairment
 
-Lacosamide undergoes metabolism.
-Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50-60% higher AUC compared to healthy subjects).
-The dose titration should be performed with caution in patients with hepatic impairment.
-A maximum dose of 300 mg/day is recommended for patients with mild or moderate hepatic impairment.
+- Lacosamide undergoes metabolism.
+  Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50-60% higher AUC compared to healthy subjects).
+  The dose titration should be performed with caution in patients with hepatic impairment.
+  A maximum dose of 300 mg/day is recommended for patients with mild or moderate hepatic impairment.
 
-Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
-A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
-The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment.
-VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4)].
-Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+- Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
+  A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
+  The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment.
+  VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4)].
+  Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
 
 Geriatric
 
-In the elderly (>65 years), dose and body-weight normalized AUC and Cmax is about 20% increased compared to young subjects (18-64 years).
-This may be related to body weight and decreased renal function in elderly subjects.
-Dose reduction is not considered to be necessary.
+- In the elderly (>65 years), dose and body-weight normalized AUC and Cmax is about 20% increased compared to young subjects (18-64 years).
+  This may be related to body weight and decreased renal function in elderly subjects.
+  Dose reduction is not considered to be necessary.
 
 Pediatric Patients
 
-Pharmacokinetics of VIMPAT have not been studied in pediatric patients.
+- Pharmacokinetics of VIMPAT have not been studied in pediatric patients.
 
 Gender
 
-VIMPAT clinical trials indicate that gender does not have a clinically relevant influence on the pharmacokinetics of VIMPAT.
+- VIMPAT clinical trials indicate that gender does not have a clinically relevant influence on the pharmacokinetics of VIMPAT.
 
 Race
 
-There are no clinically relevant differences in the pharmacokinetics of VIMPAT between Asian, Black, and Caucasian subjects.
+- There are no clinically relevant differences in the pharmacokinetics of VIMPAT between Asian, Black, and Caucasian subjects.
 
 CYP2C19 Polymorphism
 
-There are no clinically relevant differences in the pharmacokinetics of VIMPAT between CYP2C19 poor metabolizers and extensive metabolizers.
-Results from a trial in poor metabolizers (PM) (N=4) and extensive metabolizers (EM) (N=8) of cytochrome P450 (CYP) 2C19 showed that lacosamide plasma concentrations were similar in PMs and EMs, but plasma concentrations and the amount excreted into urine of the O-desmethyl metabolite were about 70% reduced in PMs compared to EMs.
+- There are no clinically relevant differences in the pharmacokinetics of VIMPAT between CYP2C19 poor metabolizers and extensive metabolizers.
+  Results from a trial in poor metabolizers (PM) (N=4) and extensive metabolizers (EM) (N=8) of cytochrome P450 (CYP) 2C19 showed that lacosamide plasma concentrations were similar in PMs and EMs, but plasma concentrations and the amount excreted into urine of the O-desmethyl metabolite were about 70% reduced in PMs compared to EMs.
 
 Drug interactions
 
 In Vitro Assessment of Drug Interactions
 
-In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
-Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
+- In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
+  Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
 
-In vitro data suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
-However, an in vivo study with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
+- In vitro data suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
+  However, an in vivo study with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
 
-Lacosamide was not a substrate or inhibitor for P-glycoprotein.
+- Lacosamide was not a substrate or inhibitor for P-glycoprotein.
 
-Lacosamide is a substrate of CYP3A4, CYP2C9, and CYP2C19.
-Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have increased exposure to lacosamide.
+- Lacosamide is a substrate of CYP3A4, CYP2C9, and CYP2C19.
+  Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have increased exposure to lacosamide.
 
-Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
+- Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
 
 In Vivo Assessment of Drug Interactions
 

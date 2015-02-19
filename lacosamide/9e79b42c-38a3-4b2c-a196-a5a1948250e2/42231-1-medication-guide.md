@@ -103,8 +103,8 @@ How should I take VIMPAT?
 
 What should I avoid while taking VIMPAT?
 
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how VIMPAT affects you.
-  VIMPAT may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
+Do not drive, operate heavy machinery, or do other dangerous activities until you know how VIMPAT affects you.
+VIMPAT may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
 
 What are the possible side effects of VIMPAT?
 

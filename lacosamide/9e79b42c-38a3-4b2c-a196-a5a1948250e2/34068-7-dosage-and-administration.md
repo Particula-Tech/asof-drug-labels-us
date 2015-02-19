@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage for VIMPAT Tablet and Oral solution
+## 2.1 Dosage for VIMPAT Tablet and Oral Solution
 
 Monotherapy
 

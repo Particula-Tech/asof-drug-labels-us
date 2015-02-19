@@ -18,7 +18,7 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by indication for antiepileptic drugs in the pooled analysis
+Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
