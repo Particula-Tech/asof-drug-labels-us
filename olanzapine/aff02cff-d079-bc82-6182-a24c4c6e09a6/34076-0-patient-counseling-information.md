@@ -26,16 +26,16 @@ Olanzapine is not approved for elderly patients with dementia-related psychosis 
 Patients and caregivers should be counseled that a potentially fatal symptom complex sometimes referred to as NMS has been reported in association with administration of antipsychotic drugs, including olanzapine.
 Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
 
-## 17.4 Hyperglycemia
+## 17.4 Hyperglycemiaand Diabetes Mellitus
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions.
 Patients should be monitored regularly for worsening of glucose control.
 Patients who have diabetes should follow their doctor’s instructions about how often to check their blood sugar while taking olanzapine [see Warnings and Precautions (5.4)].
 
-## 17.5 Hyperlipidemia
+## 17.5 Dyslipidemia
 
-Patients should be counseled that hyperlipidemia has occurred during treatment with olanzapine.
-Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.5)].
+Patients should be counseled that dyslipidemia has occurred during treatment with olanzapine.
+Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.4)].
 
 ## 17.6 Weight Gain
 
@@ -50,7 +50,7 @@ Patients should be advised to call their doctor if they experience any of the fo
 
 ## 17.8 Potential for Cognitive and Motor Impairment
 
-Because olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Warnings and Precautions (5.12)].
+Because olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 ## 17.9 Body Temperature Regulation
 
@@ -80,7 +80,11 @@ Nursing Mothers — Patients should be advised not to breast-feed an infant if t
 Pediatric Use — Olanzapine is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
 Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
 Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
-Safety and effectiveness of olanzapine in patients under 13 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
+Safety and effectiveness of olanzapine in patients under 13 years of age have not been established.
+Safety and effectiveness of olanzapine and fluoxetine in combination in patients < 10 years of age have not been established [see Warnings and Precautions (5.4) and Use in Specific Populations (8.4)]
+
+Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine orally disintegrating tablets.
+However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
 

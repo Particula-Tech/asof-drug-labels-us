@@ -18,10 +18,10 @@ Increased risk of death in elderly people who are confused, have memory loss and
 High blood sugar (hyperglycemia).
 
 3.
-High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
+High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17, or when used in combination with fluoxetine in children age 10 to 17.
 
 4.
-Weight gain, especially in teenagers age 13 to 17.
+Weight gain, especially in teenagers age 13 to 17, or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
@@ -62,13 +62,14 @@ Call your doctor if you have any of these symptoms of high blood sugar (hypergly
 
 3.
 High fat levels in your blood (cholesterol and triglycerides).
-High fat levels may happen in people treated with olanzapine orally disintegrating tablets, especially in teenagers (13 to 17 years old).
+High fat levels may happen in people treated with olanzapine orally disintegrating tablets, especially in teenagers (13 to 17 years old), or when used in combination with fluoxetine in children (10 to 17 years old).
 You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking olanzapine orally disintegrating tablets and during treatment.
 
 4.
 Weight gain.
 Weight gain is very common in people who take olanzapine orally disintegrating tablets.
 Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+Children (10 to 17 years old) are also more likely to gain weight and to gain more weight than adults when olanzapine is used in combination with fluoxetine.
 Some people may gain a lot of weight while taking olanzapine orally disintegrating tablets, so you and your doctor should check your weight regularly.
 Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
@@ -83,9 +84,13 @@ Olanzapine orally disintegrating tabletsare prescription medicine used to treat:
 - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
 - long-term treatment of bipolar I disorder in adults.
 
-- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in people age 10 or older.
 
-Olanzapine orally disintegrating tablets has not been approved for use in children under 13 years of age.
+Olanzapine orally disintegrating tablets have not been approved for use in children under 13 years of age.
+Olanzapine in combination with fluoxetine has not been approved for use in children under 10 years of age.
+
+Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine orally disintegrating tablets.
+However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
@@ -239,4 +244,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised:1013
+Revised: 0215

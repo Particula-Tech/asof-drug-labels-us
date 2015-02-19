@@ -1,19 +1,17 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-{template}
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 Carcinogenesis — Oral carcinogenicity studies were conducted in mice and rats.
-Olanzapine was administered to mice in two 78-week studies at doses of 3, 10, 30/20 mg/kg/day (equivalent to 0.8-5 times the maximum recommended human daily oral dose on a mg/m2 basis) and 0.25, 2, 8 mg/kg/day (equivalent to 0.06-2 times the maximum recommended human daily oral dose on a mg/m2 basis).
-Rats were dosed for 2 years at doses of 0.25, 1, 2.5, 4 mg/kg/day (males) and 0.25, 1, 4, 8 mg/kg/day (females) (equivalent to 0.13-2 and 0.13-4 times the maximum recommended human daily oral dose on a mg/m2 basis, respectively).
+Olanzapine was administered to mice in two 78-week studies at doses of 3, 10, 30/20 mg/kg/day (equivalent to 0.8 to 5 times the maximum recommended human daily oral dose on a mg/m2 basis) and 0.25, 2, 8 mg/kg/day (equivalent to 0.06 to 2 times the maximum recommended human daily oral dose on a mg/m2 basis).
+Rats were dosed for 2 years at doses of 0.25, 1, 2.5, 4 mg/kg/day (males) and 0.25, 1, 4, 8 mg/kg/day (females) (equivalent to 0.13 to 2 and 0.13 to 4 times the maximum recommended human daily oral dose on a mg/m2 basis, respectively).
 The incidence of liver hemangiomas and hemangiosarcomas was significantly increased in 1 mouse study in female mice dosed at 8 mg/kg/day (2 times the maximum recommended human daily oral dose on a mg/m2 basis).
-These tumors were not increased in another mouse study in females dosed at 10 or 30/20 mg/kg/day (2-5 times the maximum recommended human daily oral dose on a mg/m2 basis); in this study, there was a high incidence of early mortalities in males of the 30/20 mg/kg/day group.
+These tumors were not increased in another mouse study in females dosed at 10 or 30/20 mg/kg/day (2 to 5 times the maximum recommended human daily oral dose on a mg/m2 basis); in this study, there was a high incidence of early mortalities in males of the 30/20 mg/kg/day group.
 The incidence of mammary gland adenomas and adenocarcinomas was significantly increased in female mice dosed at ≥2 mg/kg/day and in female rats dosed at ≥4 mg/kg/day (0.5 and 2 times the maximum recommended human daily oral dose on a mg/m2 basis, respectively).
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
 Serum prolactin levels were not measured during the olanzapine carcinogenicity studies; however, measurements during subchronic toxicity studies showed that olanzapine elevated serum prolactin levels up to 4-fold in rats at the same doses used in the carcinogenicity study.
 An increase in mammary gland neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be prolactin mediated.
-The relevance for human risk of the finding of prolactin mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.15)].
+The relevance for human risk of the finding of prolactin mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.13)].
 
 Mutagenesis — No evidence of genotoxic potential for olanzapine was found in the Ames reverse mutation test, in vivo micronucleus test in mice, the chromosomal aberration test in Chinese hamster ovary cells, unscheduled DNA synthesis test in rat hepatocytes, induction of forward mutation test in mouse lymphoma cells, or in vivo sister chromatid exchange test in bone marrow of Chinese hamsters.
 
