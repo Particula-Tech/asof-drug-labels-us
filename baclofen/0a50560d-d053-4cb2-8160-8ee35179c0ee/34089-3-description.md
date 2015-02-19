@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Gablofen (baclofen injection) is a muscle relaxant and antispastic.
+GABLOFEN (baclofen injection) is a muscle relaxant and antispastic.
 Baclofen's pharmacological class is a gamma-aminobutyric acid (GABA) ergic agonist.
 Baclofen's chemical name is 4-amino- 3-(4-chlorophenyl) butanoic acid, and its structural formula is:
 

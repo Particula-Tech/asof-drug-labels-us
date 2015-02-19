@@ -11,30 +11,40 @@ In people, as well as in animals, baclofen has been shown to have general CNS de
 
 ## 12.2 Pharmacodynamics
 
-Pharmacodynamics of Intrathecal Baclofen:
+Intrathecal Bolus
 
-Intrathecal Bolus:
+Adult Patients
 
-Adult Patients: The onset of action is generally one-half hour to one hour after an intrathecal bolus.
+The onset of action is generally one-half hour to one hour after an intrathecal bolus.
 Peak spasmolytic effect is seen at approximately four hours after dosing and effects may last four to eight hours.
 Onset, peak response, and duration of action may vary with individual patients depending on the dose and severity of symptoms.
 
-Pediatric Patients: The onset, peak response and duration of action is similar to those seen in adult patients.
+Pediatric Patients
 
-Continuous Infusion:
+The onset, peak response and duration of action is similar to those seen in adult patients.
 
-Adult Patients: Intrathecal baclofen's antispastic action is first seen at 6 to 8 hours after initiation of continuous infusion.
+Continuous Infusion
+
+Adult Patients
+
+Intrathecal baclofen's antispastic action is first seen at 6 to 8 hours after initiation of continuous infusion.
 Maximum activity is observed in 24 to 48 hours.
 
-Pediatric Patients: No additional information on continuous infusions is available for pediatric patients.
+Pediatric Patients
+
+No additional information on continuous infusions is available for pediatric patients.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of cerebrospinal fluid (CSF) clearance of intrathecal baclofen calculated from intrathecal bolus or continuous infusion studies approximates CSF turnover, suggesting elimination is by bulk-flow removal of CSF.
 
-Intrathecal Bolus: After a bolus lumbar injection of 50 mcg or 100 mcg intrathecal baclofen in seven patients, the average CSF elimination half-life was 1.51 hours over the first four hours and the average CSF clearance was approximately 30 mL/hour.
+Intrathecal Bolus
 
-Continuous Infusion: The mean CSF clearance for intrathecal baclofen was approximately 30 mL/hour in a study involving ten patients on continuous intrathecal infusion.
+After a bolus lumbar injection of 50 mcg or 100 mcg intrathecal baclofen in seven patients, the average CSF elimination half-life was 1.51 hours over the first four hours and the average CSF clearance was approximately 30 mL/hour.
+
+Continuous Infusion
+
+The mean CSF clearance for intrathecal baclofen was approximately 30 mL/hour in a study involving ten patients on continuous intrathecal infusion.
 Concurrent plasma concentrations of baclofen during intrathecal administration are expected to be low (0 to 5 ng/mL).
 Limited pharmacokinetic data suggest that a lumbar-cisternal concentration gradient of about 4:1 is established along the neuroaxis during baclofen infusion.
 This is based upon simultaneous CSF sampling via cisternal and lumbar tap in 5 patients receiving continuous baclofen infusion at the lumbar level at doses associated with therapeutic efficacy; the interpatient variability was great.

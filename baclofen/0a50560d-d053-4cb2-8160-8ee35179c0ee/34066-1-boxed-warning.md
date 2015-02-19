@@ -1,4 +1,4 @@
-# WARNING: DO NOT DISCONTINUE ABRUPTLY
+WARNING: DO NOT DISCONTINUE ABRUPTLY
 
 Abrupt discontinuation of intrathecal baclofen, regardless of the cause, has resulted in sequelae that include high fever, altered mental status, exaggerated rebound spasticity, and muscle rigidity, that in rare cases has advanced to rhabdomyolysis, multiple organ-system failure and death.
 
