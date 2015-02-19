@@ -40,7 +40,7 @@ The terminal elimination phase of zoledronic acid was prolonged, with very low c
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0-24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
 
-In-vitro and ex-vivo studies showed low affinity of zoledronic acid for the cellular components of human blood, with a mean blood to plasma concentration ratio of 0.59 in a concentration range of 30 ng/mL to 5000 ng/mL.
+In vitro and ex vivo studies showed low affinity of zoledronic acid for the cellular components of human blood, with a mean blood to plasma concentration ratio of 0.59 in a concentration range of 30 ng/mL to 5000 ng/mL.
 In vitro, the plasma protein binding is low, with the unbound fraction ranging from 60% at 2 ng/mL to 77% at 2000 ng/mL of zoledronic acid.
 
 Metabolism

@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precaution (5.9)]There are no adequate and well-controlled studies of zoledronic acid injection in pregnant women.
+Pregnancy Category D[see Warnings and Precautions (5.9)]
+
+There are no adequate and well-controlled studies of zoledronic acid injection in pregnant women.
 Zoledronic acid injection may cause fetal harm when administered to a pregnant woman.
 Bisphosphonates, such as zoledronic acid injection, are incorporated into the bone matrix and are gradually released over periods of weeks to years.
 The extent of bisphosphonate incorporation into adult bone, and hence, the amount available for release back into the systemic circulation, is directly related to the total dose and duration of bisphosphonate use.

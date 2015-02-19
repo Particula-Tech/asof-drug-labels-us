@@ -57,7 +57,7 @@ Patients should also be administered an oral calcium supplement of 500 mg and a 
 
 Zoledronic acid injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg / 5 mL Single-Use Vial
+4 mg /5 mL Single-Use Vial
 
 Vials of zoledronic acid injection concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.

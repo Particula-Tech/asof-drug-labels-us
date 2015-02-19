@@ -219,7 +219,9 @@ Among the less frequently occurring adverse events (<15% of patients), rigors, h
 Less common adverse events reported more often with zoledronic acid injection 4 mg than pamidronate included decreased weight, which was reported in 16% of patients in the zoledronic acid injection 4 mg group compared with 9% in the pamidronate group.
 Decreased appetite was reported in slightly more patients in the zoledronic acid injection 4 mg group (13%) compared with the pamidronate (9%) and placebo (10%) groups, but the clinical significance of these small differences is not clear.
 
-Renal ToxicityIn the bone metastases trials, renal deterioration was defined as an increase of 0.5 mg/dL for patients with normal baseline creatinine (<1.4 mg/dL) or an increase of 1 mg/dL for patients with an abnormal baseline creatinine (≥1.4 mg/dL).
+Renal Toxicity
+
+In the bone metastases trials, renal deterioration was defined as an increase of 0.5 mg/dL for patients with normal baseline creatinine (<1.4 mg/dL) or an increase of 1 mg/dL for patients with an abnormal baseline creatinine (≥1.4 mg/dL).
 The following are data on the incidence of renal deterioration in patients receiving zoledronic acid injection 4 mg over 15 minutes in these trials (see Table 9).
 
 Table 9: Percentage of Patients with Treatment Emergent Renal Function Deterioration by Baseline Serum Creatinine*
@@ -257,14 +259,19 @@ Osteonecrosis of the Jaw
 
 Cases of osteonecrosis (primarily involving the jaws) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including zoledronic acid injection.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
+Caution is advised when zoledronic acid injection is administered with anti-angiogenic drugs as an increased incidence of ONJ has been observed with concomitant use of these drugs.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
 The majority of the reported cases are in cancer patients following invasive dental procedures, such as tooth extraction.
 It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5.4)].
 
-Acute Phase ReactionWithin three days after zoledronic acid injection administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness and arthritis with subsequent joint swelling; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
+Acute Phase Reaction
+
+Within three days after zoledronic acid injection administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness and arthritis with subsequent joint swelling; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
 However, some of these symptoms have been reported to persist for a longer duration.
 
-Musculoskeletal PainSevere and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5.5)].
+Musculoskeletal Pain
+
+Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5.5)].
 
 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
@@ -282,4 +289,4 @@ Very rare cases of anaphylactic reaction/shock have also been reported.
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General DisordersandAdministration Site: weight increase,influenza-like illness (pyrexia, asthenia, fatigue, or malaise) persisting for greater than 30 days;Laboratory Abnormalities: hyperkalemia, hypernatremia.
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase,influenza-like illness (pyrexia, asthenia, fatigue, or malaise) persisting for greater than 30 days;Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).

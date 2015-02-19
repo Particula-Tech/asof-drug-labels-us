@@ -21,7 +21,7 @@ Safety and pharmacokinetic data are limited in patients with severe renal impair
 Preexisting renal insufficiency and multiple cycles of zoledronic acid injection and other bisphosphonates are risk factors for subsequent renal deterioration with zoledronic acid injection.
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
-Zoledronic acid injection treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
+Zoledronic acid injection treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment [see Dosage and Administration (2.1)].
 In the clinical studies, patients with serum creatinine greater than 400 µmol/L or greater than 4.5 mg/dL were excluded.
 
 Zoledronic acid injection treatment is not recommended in patients with bone metastases with severe renal impairment.Inthe clinicalstudies, patients with serum creatinine greater than 265 µmol/L or greater than 3 mg/dL were excluded and there were only 8 of 564 patients treated with zoledronic acid injection 4 mg by 15-minute infusion with a baseline creatinine >2 mg/dL.
@@ -66,7 +66,7 @@ It is unknown whether the risk of atypical femur fracture continues after stoppi
 
 ## 5.7 Patients with Asthma
 
-While not observed in clinical trials with zoledronic acid injection, there have been reports of bronchoconstriction in aspirin sensitive patients receiving bisphosphonates.
+While not observed in clinical trials with zoledronic acid injection, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 
 ## 5.8 Hepatic Impairment
 
@@ -81,3 +81,12 @@ Zoledronic acid injection may cause fetal harmwhen administered to a pregnant wo
 In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and postimplantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
 There are no adequate and well controlled studies in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+
+## 5.10 Hypocalcemia
+
+Hypocalcemia has been reported in patients treated with zoledronic acid injection.
+Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
+In some instances, hypocalcemia may be life-threatening.
+Caution is advised when zoledronic acid injection is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
+Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronic acid injection.
+Adequately supplement patients with calcium and vitamin D.
