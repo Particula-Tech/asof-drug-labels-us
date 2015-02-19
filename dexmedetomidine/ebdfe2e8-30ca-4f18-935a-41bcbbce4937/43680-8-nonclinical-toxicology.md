@@ -11,7 +11,7 @@ Although dexmedetomidine was clastogenic in an in vivo mouse micronucleus test i
 
 Fertility in male or female rats was not affected after daily subcutaneous injections of dexmedetomidine at doses up to 54 mcg/kg (less than the maximum recommended human intravenous dose on a mcg/m2 basis) administered from 10 weeks prior to mating in males, and 3 weeks prior to mating and during mating in females.
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2 Animal Pharmacology and/or Toxicology
 
 There were no differences in the adrenocorticotropic hormone (ACTH)-stimulated cortisol response in dogs following a single dose of dexmedetomidine compared to saline control.
 However, after continuous subcutaneous infusions of dexmedetomidine at 3 mcg/kg/hr and 10 mcg/kg/hr for one week in dogs (exposures estimated to be within the clinical range), the ACTH-stimulated cortisol response was diminished by approximately 27% and 40%, respectively, compared to saline-treated control animals indicating a dose-dependent adrenal suppression.

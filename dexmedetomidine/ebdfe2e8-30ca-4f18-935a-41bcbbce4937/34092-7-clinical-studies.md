@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of dexmedetomidine hydrochloride injection has been evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials in 431 patients.
+The safety and efficacy of dexmedetomidine hydrochloride injection has been evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials in 431 adult patients.
 
 ## 14.1 Procedural Sedation
 

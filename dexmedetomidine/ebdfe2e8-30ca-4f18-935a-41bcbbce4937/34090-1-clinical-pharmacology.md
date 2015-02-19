@@ -54,14 +54,14 @@ The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to
 
 ### Elimination
 
-The terminal elimination half-life (t1/2) of dexmedetomidine is approximately 2 hours and clearance is estimated to be approximately 39 L/h.
+The terminal elimination half-life (t1/2)of dexmedetomidine is approximately 2 hours and clearance is estimated to be approximately 39 L/h.
 A mass balance study demonstrated that after nine days an average of 95% of the radioactivity, following intravenous administration of radiolabeled dexmedetomidine, was recovered in the urine and 4% in the feces.
 No unchanged dexmedetomidine was detected in the urine.
 Approximately 85% of the radioactivity recovered in the urine was excreted within 24 hours after the infusion.
 Fractionation of the radioactivity excreted in urine demonstrated that products of N-glucuronidation accounted for approximately 34% of the cumulative urinary excretion.
 In addition, aliphatic hydroxylation of parent drug to form 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy-dexmedetomidine, and 3-carboxylic acid-dexmedetomidine together represented approximately 14% of the dose in urine.
-N-methylation of dexmedetomidine to form 3-hydroxy N-methyl dexmedetomidine, 3-carboxy N-methyl dexmedetomidine, and N methyl O glucuronide dexmedetomidine accounted for approximately 18% of the dose in urine.
-The N Methyl metabolite itself was a minor circulating component and was undetected in urine.
+N-methylation of dexmedetomidine to form 3-hydroxy N-methyl dexmedetomidine, 3-carboxy N-methyl dexmedetomidine, and N-methyl O-glucuronide dexmedetomidine accounted for approximately 18% of the dose in urine.
+The N-Methyl metabolite itself was a minor circulating component and was undetected in urine.
 Approximately 28% of the urinary metabolites have not been identified.
 
 ### Gender
