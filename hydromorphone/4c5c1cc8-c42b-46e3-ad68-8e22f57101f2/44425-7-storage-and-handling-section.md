@@ -4,8 +4,12 @@ Protect from light.
 A Schedule CII Narcotic.
 DEA Order Form is required.
 
+Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
+
+© 2014 Mallinckrodt.
+
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-COVIDIEN™ Mallinckrodt
+Rev 10/2014
 
-Printed in U.S.A. Rev 03/2013
+Mallinckrodt™ Pharmaceuticals

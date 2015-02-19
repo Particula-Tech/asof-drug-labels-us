@@ -12,10 +12,14 @@ CII
 
 Rx only
 
-Each tablet contains: Hydromorphone Hydrochloride USP...........
+Each tablet contains: Hydromorphone Hydrochloride USP.....
 2 mg
 
-Mallinckrodt
+Mallinckrodt™
+
+L00H07
+
+Rev 10/2014
 
 # Principal Display Panel - 4 mg Tablets
 
@@ -31,10 +35,14 @@ CII
 
 Rx only
 
-Each tablet contains: Hydromorphone Hydrochloride USP...........
+Each tablet contains: Hydromorphone Hydrochloride USP.....
 4 mg
 
-Mallinckrodt
+Mallinckrodt™
+
+L00H08
+
+Rev 10/2014
 
 # Principal Display Panel - 8 mg Tablets
 
@@ -50,7 +58,11 @@ CII
 
 Rx only
 
-Each tablet contains: Hydromorphone Hydrochloride USP...........
+Each tablet contains: Hydromorphone Hydrochloride USP.....
 8 mg
 
-Mallinckrodt
+Mallinckrodt™
+
+L00H79
+
+Rev 10/2014
