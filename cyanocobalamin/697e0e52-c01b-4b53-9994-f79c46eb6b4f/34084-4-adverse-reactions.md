@@ -12,7 +12,7 @@ Table Adverse Experiences by Body System, Number of Patients and Number of Occur
 | Back Pain | 0 (0) | 1 (1) |  |
 | Generalized Pain | 0 (0) | 2 (3) |  |
 | Headache | 1 (2)* | 5 (11) |  |
-| Infection± | 3 (4) | 3 (3) |  |
+| Infectiona | 3 (4) | 3 (3) |  |
 | Cardiovascular System | Peripheral Vascular Disorder | 0 (0) | 1 (1) |
 | Digestive System | Dyspepsia | 0 (0) | 1 (2) |
 | Glossitis | 1 (1) | 0 (0) |  |
