@@ -1,65 +1,48 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Colony-Stimulating Factors
+## 12.1 Mechanism of Action
 
-Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation.
+Colony-stimulating factors, including filgrastim, are glycoproteins that act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation‚ and some end-cell functions.
 
-Endogenous G-CSF is a lineage specific colony-stimulating factor which is produced by monocytes‚ fibroblasts, and endothelial cells.
-G-CSF regulates the production of neutrophils within the bone marrow and affects neutrophil progenitor proliferation‚2‚3 differentiation,2‚4 and selected end-cell functional activation (including enhanced phagocytic ability‚5 priming of the cellular metabolism associated with respiratory burst‚6 antibody dependent killing,7 and the increased expression of some functions associated with cell surface antigens8).
-G-CSF is not species-specific and has been shown to have minimal direct in vivo or in vitro effects on the production of hematopoietic cell types other than the neutrophil lineage.
+Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells.
+G-CSF regulates the production of neutrophils within the bone marrow and affects neutrophil progenitor proliferation‚ differentiation, and selected end-cell functions (including enhanced phagocytic ability‚ priming of the cellular metabolism associated with respiratory burst‚ antibody-dependent killing, and the increased expression of some cell surface antigens).
+G-CSF is not species-specific and has been shown to have minimal direct in vivo or in vitro effects on the production or activity of hematopoietic cell types other than the neutrophil lineage.
 
-## Preclinical Experience
+## 12.2 Pharmacodynamics
 
-Filgrastim was administered to monkeys‚ dogs‚ hamsters‚ rats‚ and mice as part of a preclinical toxicology program which included single-dose acute‚ repeated-dose subacute‚ subchronic‚ and chronic studies.
-Single-dose administration of filgrastim by the oral‚ intravenous (IV)‚ subcutaneous (SC)‚ or intraperitoneal (IP) routes resulted in no significant toxicity in mice‚ rats‚ hamsters‚ or monkeys.
-Although no deaths were observed in mice‚ rats‚ or monkeys at dose levels up to 3450 mcg/kg or in hamsters using single doses up to approximately 860 mcg/kg‚ deaths were observed in a subchronic (13-week) study in monkeys.
-In this study‚ evidence of neurological symptoms was seen in monkeys treated with doses of filgrastim greater than 1150 mcg/kg/day for up to 18 days.
-Deaths were seen in 5 of the 8 treated animals and were associated with 15- to 28-fold increases in peripheral leukocyte counts‚ and neutrophil-infiltrated hemorrhagic foci were seen in both the cerebrum and cerebellum.
-In contrast‚ no monkeys died following 13 weeks of daily IV administration of filgrastim at a dose level of 115 mcg/kg.
-In an ensuing 52-week study‚ one 115 mcg/kg dosed female monkey died after 18 weeks of daily IV administration of filgrastim.
-Death was attributed to cardiopulmonary insufficiency.
-
-In subacute‚ repeated-dose studies‚ changes observed were attributable to the expected pharmacological actions of filgrastim (ie‚ dose-dependent increases in white cell counts‚ increased circulating segmented neutrophils‚ and increased myeloid:erythroid ratio in bone marrow).
-In all species‚ histopathologic examination of the liver and spleen revealed evidence of ongoing extramedullary granulopoiesis; increased spleen weights were seen in all species and appeared to be dose-related.
-A dose-dependent increase in serum alkaline phosphatase was observed in rats‚ and may reflect increased activity of osteoblasts and osteoclasts.
-Changes in serum chemistry values were reversible following discontinuation of treatment.
-
-In rats treated at doses of 1150 mcg/kg/day for 4 weeks (5 of 32 animals) and for 13 weeks at doses of 100 mcg/kg/day (4 of 32 animals) and 500 mcg/kg/day (6 of 32 animals)‚ articular swelling of the hind legs was observed.
-Some degree of hind leg dysfunction was also observed; however‚ symptoms reversed following cessation of dosing.
-In rats‚ osteoclasis and osteoanagenesis were found in the femur‚ humerus‚ coccyx‚ and hind legs (where they were accompanied by synovitis) after IV treatment for 4 weeks (115 to 1150 mcg/kg/day)‚ and in the sternum after IV treatment for 13 weeks (115 to 575 mcg/kg/day).
-These effects reversed to normal within 4 to 5 weeks following cessation of treatment.
-
-In the 52-week chronic‚ repeated-dose studies performed in rats (IP injection up to 57.5 mcg/kg/day)‚ and cynomolgus monkeys (IV injection of up to 115 mcg/kg/day)‚ changes observed were similar to those noted in the subacute studies.
-Expected pharmacological actions of filgrastim included dose-dependent increases in white cell counts‚ increased circulating segmented neutrophils and alkaline phosphatase levels‚ and increased myeloid:erythroid ratios in the bone marrow.
-Decreases in platelet counts were also noted in primates.
-In no animals tested were hemorrhagic complications observed.
-Rats displayed dose-related swelling of the hind limb‚ accompanied by some degree of hind limb dysfunction; osteopathy was noted microscopically.
-Enlarged spleens (both species) and livers (monkeys)‚ reflective of ongoing extramedullary granulopoiesis‚ as well as myeloid hyperplasia of the bone marrow‚ were observed in a dose-dependent manner.
-
-## Pharmacologic Effects of NEUPOGEN®
-
-In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ NEUPOGEN® administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.9-11 This increase in neutrophil counts was observed whether NEUPOGEN® was administered IV (1 to 70 mcg/kg twice daily)‚9 SC (1 to 3 mcg/kg once daily)‚11 or by continuous SC infusion (3 to 11 mcg/kg/day).10 With discontinuation of NEUPOGEN® therapy‚ neutrophil counts returned to baseline in most cases within 4 days.
+In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ NEUPOGEN administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.
+This increase in neutrophil counts was observed whether NEUPOGEN was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily)‚or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
+With discontinuation of NEUPOGEN therapy‚ neutrophil counts returned to baseline in most cases within 4 days.
 Isolated neutrophils displayed normal phagocytic (measured by zymosan-stimulated chemoluminescence) and chemotactic (measured by migration under agarose using N-formyl-methionyl-leucyl-phenylalanine [fMLP] as the chemotaxin) activity in vitro.
 
-The absolute monocyte count was reported to increase in a dose-dependent manner in most patients receiving NEUPOGEN®; however‚ the percentage of monocytes in the differential count remained within the normal range.
-In all studies to date‚ absolute counts of both eosinophils and basophils did not change and were within the normal range following administration of NEUPOGEN®.
-Increases in lymphocyte counts following NEUPOGEN® administration have been reported in some normal subjects and cancer patients.
+The absolute monocyte count was reported to increase in a dose-dependent manner in most patients receiving NEUPOGEN; however‚ the percentage of monocytes in the differential count remained within the normal range.
+Absolute counts of both eosinophils and basophils did not change and were within the normal range following administration of NEUPOGEN.
+Increases in lymphocyte counts following NEUPOGEN administration have been reported in some normal subjects and patients with cancer.
 
 White blood cell (WBC) differentials obtained during clinical trials have demonstrated a shift towards earlier granulocyte progenitor cells (left shift)‚ including the appearance of promyelocytes and myeloblasts‚ usually during neutrophil recovery following the chemotherapy-induced nadir.
 In addition‚ Dohle bodies‚ increased granulocyte granulation‚ and hypersegmented neutrophils have been observed.
 Such changes were transient and were not associated with clinical sequelae, nor were they necessarily associated with infection.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-Absorption and clearance of NEUPOGEN® follows first-order pharmacokinetic modeling without apparent concentration dependence.
-A positive linear correlation occurred between the parenteral dose and both the serum concentration and area-under-the-concentration-time curves.
-Continuous IV infusion of 20 mcg/kg of NEUPOGEN® over 24 hours resulted in mean and median serum concentrations of approximately 48 and 56 ng/mL‚ respectively.
-Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours.
-The volume of distribution averaged 150 mL/kg in both normal subjects and cancer patients.
-The elimination half-life‚ in both normal subjects and cancer patients‚ was approximately 3.5 hours.
-Clearance rates of NEUPOGEN® were approximately 0.5 to 0.7 mL/minute/kg.
-Single parenteral doses or daily IV doses‚ over a 14-day period‚ resulted in comparable half-lives.
-The half-lives were similar for IV administration (231 minutes‚ following doses of 34.5 mcg/kg) and for SC administration (210 minutes‚ following NEUPOGEN® doses of 3.45 mcg/kg).
-Continuous 24-hour IV infusions of 20 mcg/kg over an 11- to 20-day period produced steady-state serum concentrations of NEUPOGEN® with no evidence of drug accumulation over the time period investigated.
+Filgrastim exhibits nonlinear pharmacokinetics.
+Clearance is dependent on filgrastim concentration and neutrophil count: G-CSF receptor-mediated clearance is saturated by high concentration of NEUPOGEN and is diminished by neutropenia.
+In addition, filgrastim is cleared by the kidney [see Use in Specific Populations (8.6)].
 
-Pharmacokinetic data in geriatric patients (≥ 65 years) are not available.
+Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg of filgrastim resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours.
+After intravenous administration, the volume of distribution averaged 150 mL/kg and the elimination half-life was approximately 3.5 hours in both normal subjects and cancer subjects.
+Clearance rates of filgrastim were approximately 0.5 to 0.7 mL/minute/kg.
+Single parenteral doses or daily intravenous doses‚ over a 14-day period‚ resulted in comparable half-lives.
+The half-lives were similar for intravenous administration (231 minutes‚ following doses of 34.5 mcg/kg) and for subcutaneous administration (210 minutes‚ following NEUPOGEN dosages of 3.45 mcg/kg).
+Continuous 24-hour intravenous infusions of 20 mcg/kg over an 11 to 20-day period produced steady-state serum concentrations of filgrastim with no evidence of drug accumulation over the time period investigated.
+The absolute bioavailability of filgrastim after subcutaneous administration is 60% to 70%.
+
+Specific Populations The pharmacokinetics of filgrastim were studied in pediatric patients with advanced neuroblastoma [see Use in Specific Populations (8.4)], in subjects with renal impairment, and in subjects with hepatic impairment.
+
+Pediatric Patients: The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim.
+
+Renal Impairment: In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
+However, dose adjustment in patients with renal impairment is not necessary.
+
+Hepatic Impairment: Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
+The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, filgrastim dose adjustment for patients with hepatic impairment is not necessary.

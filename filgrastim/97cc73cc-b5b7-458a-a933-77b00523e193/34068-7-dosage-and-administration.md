@@ -1,80 +1,79 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-NEUPOGEN® is supplied in either vials or in prefilled syringes with UltraSafe® Needle Guards.
-Following administration of NEUPOGEN® from the prefilled syringe, the UltraSafe® Needle Guard should be activated to prevent accidental needle sticks.
-To activate the UltraSafe® Needle Guard, place your hands behind the needle, grasp the guard with one hand, and slide the guard forward until the needle is completely covered and the guard clicks into place.
-NOTE: If an audible click is not heard, the needle guard may not be completely activated.
-The prefilled syringe should be disposed of by placing the entire prefilled syringe with guard activated into an approved puncture-proof container.
+## 2.1 Dosage in Patients with Cancer Receiving Myelosuppressive Chemotherapy or Induction and/or Consolidation Chemotherapy for AML
 
-## Cancer Patients Receiving Myelosuppressive Chemotherapy
+The recommended starting dosage of NEUPOGEN is 5 mcg/kg/day‚ administered as a single daily injection by subcutaneous injection‚ by short intravenous infusion (15 to 30 minutes)‚ or by continuous intravenous infusion.
+Obtain a complete blood count (CBC) and platelet count before instituting NEUPOGEN therapy and monitor twice weekly during therapy.
+Consider dose escalation in increments of 5 mcg/kg for each chemotherapy cycle‚ according to the duration and severity of the absolute neutrophil count (ANC) nadir.
+Recommend stopping NEUPOGEN if the ANC increases beyond 10‚000/mm3 ​ [see Warnings and Precautions (5.9)].
 
-The recommended starting dose of NEUPOGEN® is 5 mcg/kg/day‚ administered as a single daily injection by SC bolus injection‚ by short IV infusion (15 to 30 minutes)‚ or by continuous SC or continuous IV infusion.
-A CBC and platelet count should be obtained before instituting NEUPOGEN® therapy and monitored twice weekly during therapy.
-Doses may be increased in increments of 5 mcg/kg for each chemotherapy cycle‚ according to the duration and severity of the ANC nadir.
+Administer NEUPOGEN at least 24 hours after cytotoxic chemotherapy.
+Do not administer NEUPOGEN within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.11)].
+A transient increase in neutrophil count is typically seen 1 to 2 days after initiation of NEUPOGEN therapy.
+Therefore, to ensure a sustained therapeutic response‚ administer NEUPOGEN daily for up to 2 weeks or until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
+The duration of NEUPOGEN therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.
 
-NEUPOGEN® should be administered no earlier than 24 hours after the administration of cytotoxic chemotherapy.
-NEUPOGEN® should not be administered in the period 24 hours before the administration of chemotherapy (see PRECAUTIONS).
-NEUPOGEN® should be administered daily for up to 2 weeks‚ until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
-The duration of NEUPOGEN® therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.
-NEUPOGEN® therapy should be discontinued if the ANC surpasses 10‚000/mm3 after the expected chemotherapy-induced neutrophil nadir (see PRECAUTIONS).
-In phase 3 trials‚ efficacy was observed at doses of 4 to 8 mcg/kg/day.
+## 2.2 Dosage in Patients with Cancer Undergoing Bone Marrow Transplantation
 
-## Cancer Patients Receiving Bone Marrow Transplant
+The recommended dosage of NEUPOGEN following bone marrow transplantation (BMT) is 10 mcg/kg/day given as an intravenous infusion no longer than 24 hours.
+Administer the first dose of NEUPOGEN at least 24 hours after cytotoxic chemotherapy and at least 24 hours after bone marrow infusion.
+Monitor CBCs and platelet counts frequently following marrow transplantation.
 
-The recommended dose of NEUPOGEN® following BMT is 10 mcg/kg/day given as an IV infusion of 4 or 24 hours‚ or as a continuous 24-hour SC infusion.
-For patients receiving BMT‚ the first dose of NEUPOGEN® should be administered at least 24 hours after cytotoxic chemotherapy and at least 24 hours after bone marrow infusion.
+During the period of neutrophil recovery‚ titrate the daily dosage of NEUPOGEN against the neutrophil response (see Table 1).
 
-During the period of neutrophil recovery‚ the daily dose of NEUPOGEN® should be titrated against the neutrophil response as follows:
+Table 1: Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cancer Following BMT
 
-| Absolute Neutrophil Count | NEUPOGEN® Dose Adjustment |
+| Absolute Neutrophil Count | NEUPOGEN Dosage Adjustment |
 | --- | --- |
-| When ANC > 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/dayIf ANC decreases to < 1000/mm3 at any time during the 5 mcg/kg/day administration‚ NEUPOGEN® should be increased to 10 mcg/kg/day‚ and the above steps should then be followed. |
-| then: |  |
-| If ANC remains > 1000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN® |
-| then: |  |
-| If ANC decreases to < 1000/mm3 | Resume at 5 mcg/kg/day |
+| When ANC greater than 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/daya |
+| Then, if ANC remains greater than 1000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN |
+| Then, if ANC decreases to less than 1000/mm3 | Resume at 5 mcg/kg/day |
 
-## Peripheral Blood Progenitor Cell Collection and Therapy in Cancer Patients
+a If ANC decreases to less than 1000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NEUPOGEN to 10 mcg/kg/day‚ and then follow the above steps.
 
-The recommended dose of NEUPOGEN® for the mobilization of PBPC is 10 mcg/kg/day SC‚ either as a bolus or a continuous infusion.
-It is recommended that NEUPOGEN® be given for at least 4 days before the first leukapheresis procedure and continued until the last leukapheresis.
-Although the optimal duration of NEUPOGEN® administration and leukapheresis schedule have not been established‚ administration of NEUPOGEN® for 6 to 7 days with leukaphereses on days 5‚ 6‚ and 7 was found to be safe and effective (see CLINICAL EXPERIENCE for schedules used in clinical trials).
-Neutrophil counts should be monitored after 4 days of NEUPOGEN®, and NEUPOGEN® dose modification should be considered for those patients who develop a WBC count > 100‚000/mm3.
+## 2.3 Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
-In all clinical trials of NEUPOGEN® for the mobilization of PBPC‚ NEUPOGEN® was also administered after reinfusion of the collected cells (see CLINICAL EXPERIENCE).
+The recommended dosage of NEUPOGEN for the mobilization of autologous peripheral blood progenitor cells (PBPC) is 10 mcg/kg/day given by subcutaneous injection.
+Administer NEUPOGEN for at least 4 days before the first leukapheresis procedure and continue until the last leukapheresis.
+Although the optimal duration of NEUPOGEN administration and leukapheresis schedule have not been established‚ administration of NEUPOGEN for 6 to 7 days with leukaphereses on days 5‚ 6‚ and 7 was found to be safe and effective [see Clinical Studies (14.4)].
+Monitor neutrophil counts after 4 days of NEUPOGEN‚ and discontinue NEUPOGEN if the white blood cell (WBC) count rises to greater than 100‚000/mm3.
 
-## Patients With Severe Chronic Neutropenia
+## 2.4 Dosage in Patients with Severe Chronic Neutropenia
 
-NEUPOGEN® should be administered to those patients in whom a diagnosis of congenital‚ cyclic‚ or idiopathic neutropenia has been definitively confirmed.
-Other diseases associated with neutropenia should be ruled out.
+Prior to starting NEUPOGEN in patients with suspected chronic neutropenia, confirm the diagnosis of severe chronic neutropenia (SCN) by evaluating serial CBCs with differential and platelet counts‚ and evaluating bone marrow morphology and karyotype.
+The use of NEUPOGEN prior to confirmation of a correct diagnosis of SCN may impair diagnostic efforts and may thus impair or delay evaluation and treatment of an underlying condition‚ other than SCN‚ causing the neutropenia.
 
-Starting Dose:
+The recommended starting dosage in patients with Congenital Neutropenia is 6 mcg/kg as a twice daily subcutaneous injection and the recommended starting dosage in patients with Idiopathic or Cyclic Neutropenia is 5 mcg/kg as a single daily subcutaneous injection.
 
-Congenital Neutropenia: The recommended daily starting dose is 6 mcg/kg BID SC every day.
+Dosage Adjustments in Patients with Severe Chronic Neutropenia Chronic daily administration is required to maintain clinical benefit.
+Individualize the dosage based on the patient’s clinical course as well as ANC.
+In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN were: 6 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
+In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN greater than or equal to 100 mcg/kg/day.
 
-Idiopathic or Cyclic Neutropenia: The recommended daily starting dose is 5 mcg/kg as a single injection SC every day.
+Monitor CBCs for Dosage Adjustments During the initial 4 weeks of NEUPOGEN therapy and during the 2 weeks following any dosage adjustment‚ monitor CBCs with differential and platelet counts.
+Once a patient is clinically stable‚ monitor CBCs with differential and platelet counts monthly during the first year of treatment.
+Thereafter, if the patient is clinically stable, less frequent routine monitoring is recommended.
 
-Dose Adjustments:
+## 2.5 Important Administration Instructions
 
-Chronic daily administration is required to maintain clinical benefit.
-Absolute neutrophil count should not be used as the sole indication of efficacy.
-The dose should be individually adjusted based on the patient's clinical course as well as ANC.
-In the SCN postmarketing surveillance study, the reported median daily doses of NEUPOGEN® were: 6.0 mcg/kg (congenital neutropenia), 2.1 mcg/kg (cyclic neutropenia), and 1.2 mcg/kg (idiopathic neutropenia).
-In rare instances, patients with congenital neutropenia have required doses of NEUPOGEN® ≥ 100 mcg/kg/day.
+NEUPOGEN is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
+Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NEUPOGEN to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
+Discard any vial or prefilled syringe left at room temperature for greater than 24 hours.
+Visually inspect NEUPOGEN for particulate matter and discoloration prior to administration (the solution is clear and colorless).
+Do not administer NEUPOGEN if particulates or discoloration are observed.
 
-## Dilution
+Discard unused portion of NEUPOGEN in vials or prefilled syringes; do not re-enter the vial.
+Do not save unused drug for later administration.
 
-If required‚ NEUPOGEN® may be diluted in 5% dextrose.
-NEUPOGEN® diluted to concentrations between 5 and 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
-When diluted in 5% dextrose or 5% dextrose plus Albumin (Human)‚ NEUPOGEN® is compatible with glass bottles‚ PVC and polyolefin IV bags‚ and polypropylene syringes.
+Subcutaneous Injection Inject NEUPOGEN subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
+If patients or caregivers are to administer NEUPOGEN, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Patient Information.
 
-Dilution of NEUPOGEN® to a final concentration of less than 5 mcg/mL is not recommended at any time.
-Do not dilute with saline at any time; product may precipitate.
+Administration Instructions for the Prefilled Syringe Persons with latex allergies should not administer the NEUPOGEN prefilled syringe, because the needle cap contains dry natural rubber (derived from latex).
 
-## Storage
+Administration Instructions for Dilution (Vial Only) If required for intravenous administration‚ NEUPOGEN (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
+NEUPOGEN diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
+When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)‚ NEUPOGEN is compatible with glass bottles‚ polyvinyl chloride (PVC) and polyolefin intravenous bags‚ and polypropylene syringes.
+Do not dilute with saline at any time; because the product may precipitate.
 
-NEUPOGEN® should be stored in the refrigerator at 2° to 8°C (36° to 46°F).
-Avoid shaking.
-Prior to injection‚ NEUPOGEN® may be allowed to reach room temperature for a maximum of 24 hours.
-Any vial or prefilled syringe left at room temperature for greater than 24 hours should be discarded.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration‚ whenever solution and container permit; if particulates or discoloration are observed‚ the container should not be used.
+Diluted NEUPOGEN solution can be stored at room temperature for up to 24 hours.
+This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.
