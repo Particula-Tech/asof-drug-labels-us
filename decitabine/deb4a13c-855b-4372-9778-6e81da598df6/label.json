@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021790"
+  ],
+  "inn": "decitabine",
+  "labeler": "Otsuka America Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "59148-046-70"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Dacogen"
+    }
+  ],
+  "setid": "deb4a13c-855b-4372-9778-6e81da598df6",
+  "source": "dailymed"
+}
