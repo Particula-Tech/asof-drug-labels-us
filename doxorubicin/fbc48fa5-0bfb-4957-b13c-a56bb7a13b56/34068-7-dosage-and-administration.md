@@ -5,7 +5,7 @@
 Liposomal encapsulation can substantially affect a drug’s functional properties relative to those of the unencapsulated drug.
 Therefore DO NOT SUBSTITUTE one drug for the other.
 Do not administer as a bolus injection or an undiluted solution.
-Rapid infusion may increase the risk of infusion-related reactions [see Warnings and Precautions (5.2)] .
+Rapid infusion may increase the risk of infusion-related reactions [see Warnings and Precautions (5.2)].
 Doxorubicin hydrochloride liposome injection must not be given by the intramuscular or subcutaneous route.
 Until specific compatibility data are available, it is not recommended that doxorubicin hydrochloride liposome injection be mixed with other drugs.
 Doxorubicin hydrochloride liposome injection should be considered an irritant and precautions should be taken to avoid extravasation.
@@ -15,23 +15,31 @@ The application of ice over the site of extravasation for approximately 30 minut
 
 ## 2.2 Patients With Ovarian Cancer
 
-Doxorubicin hydrochloride liposome injection should be administered intravenously at a dose of 50 mg/m 2 (doxorubicin hydrochloride equivalent) at an initial rate of 1 mg/min to minimize the risk of infusion reactions.
+Doxorubicin hydrochloride liposome injection should be administered intravenously at a dose of 50 mg/m2 (doxorubicin hydrochloride equivalent) at an initial rate of 1 mg/min to minimize the risk of infusion reactions.
 If no infusion-related adverse reactions are observed, the rate of infusion can be increased to complete administration of the drug over one hour.
-The patient should be dosed once every 4 weeks, for as long as the patient does not progress, shows no evidence of cardiotoxicity [see Warnings and Precautions (5.1)] , and continues to tolerate treatment.
+The patient should be dosed once every 4 weeks, for as long as the patient does not progress, shows no evidence of cardiotoxicity [see Warnings and Precautions (5.1)], and continues to tolerate treatment.
 A minimum of 4 courses is recommended because median time to response in clinical trials was 4 months.
-To manage adverse reactions such as hand-foot syndrome (HFS), stomatitis, or hematologic toxicity the doses may be delayed or reduced [see Dosage and Administration (2.5)] .
+To manage adverse reactions such as hand-foot syndrome (HFS), stomatitis, or hematologic toxicity the doses may be delayed or reduced [see Dosage and Administration (2.5)].
 Pretreatment with or concomitant use of antiemetics should be considered.
 
-## 2.3 Patients With AIDS-Related Kaposi’s Sarcoma
+## 2.3 Patients With AIDS-Related Kaposi's Sarcoma
 
-Doxorubicin hydrochloride liposome injection should be administered intravenously at a dose of 20 mg/m 2 (doxorubicin hydrochloride equivalent).
+Doxorubicin hydrochloride liposome injection should be administered intravenously at a dose of 20 mg/m2 (doxorubicin hydrochloride equivalent).
 An initial rate of 1 mg/min should be used to minimize the risk of infusion-related reactions.
 If no infusion-related adverse reactions are observed, the infusion rate should be increased to complete the administration of the drug over one hour.
 The dose should be repeated once every three weeks, for as long as patients respond satisfactorily and tolerate treatment.
 
+## 2.4 Patients With Multiple Myeloma
+
+Bortezomib is administered at a dose of 1.3 mg/m2 as intravenous bolus on days 1, 4, 8 and 11, every three weeks.
+Doxorubicin hydrochloride liposome injection 30 mg/m2 should be administered as a 1-hr intravenous infusion on day 4 following bortezomib.
+With the first doxorubicin hydrochloride liposome injection dose, an initial rate of 1 mg/min should be used to minimize the risk of infusion-related reactions.
+If no infusion-related adverse reactions are observed, the infusion rate should be increased to complete the administration of the drug over one hour.
+Patients may be treated for up to 8 cycles until disease progression or the occurrence of unacceptable toxicity.
+
 ## 2.5 Dose Modification Guidelines
 
-Doxorubicin hydrochloride liposome injection exhibits nonlinear pharmacokinetics at 50 mg/m 2 ; therefore, dose adjustments may result in a non-proportional greater change in plasma concentration and exposure to the drug [see Clinical Pharmacology (12.3)] .
+Doxorubicin hydrochloride liposome injection exhibits nonlinear pharmacokinetics at 50 mg/m2; therefore, dose adjustments may result in a non-proportional greater change in plasma concentration and exposure to the drug [see Clinical Pharmacology (12.3)].
 Patients should be carefully monitored for toxicity.
 Adverse reactions, such as HFS, hematologic toxicities, and stomatitis may be managed by dose delays and adjustments.
 Following the first appearance of a Grade 2 or higher adverse reactions, the dosing should be adjusted or delayed as described in the following tables.
@@ -65,10 +73,26 @@ Table 3: Stomatitis
 | 3 (painful erythema, edema, or ulcers, and cannot eat) | Delay dosing up to 2 weeks or until resolved to Grade 0-1. Decrease dose by 25% and return to original dose interval. If after 2 weeks there is no resolution, doxorubicin hydrochloride liposome injection should be discontinued. |
 | 4 (requires parenteral or enteral support) | Delay dosing up to 2 weeks or until resolved to Grade 0-1. Decrease dose by 25% and return to doxorubicin hydrochloride liposome injection original dose interval. If after 2 weeks there is no resolution, doxorubicin hydrochloride liposome injection should be discontinued. |
 
+Multiple Myeloma
+
+For patients treated with doxorubicin hydrochloride liposome injection in combination with bortezomib who experience hand-foot syndrome or stomatitis, the doxorubicin hydrochloride liposome injection dose should be modified as described in Tables 1 and 3 above.
+Table 4 describes dosage adjustments for doxorubicin hydrochloride liposome injection and bortezomib combination therapy.
+For bortezomib dosing and dosage adjustments, see manufacturer’s prescribing information.
+
+Table 4: Dosage adjustments for Doxorubicin Hydrochloride Liposome Injection + Bortezomib combination therapy
+
+| Patient status | Doxorubicin Hydrochloride Liposome Injection | Bortezomib |
+| --- | --- | --- |
+| Fever ≥38°C and ANC <1,000/mm3 | Do not dose this cycle if before Day 4; if after Day 4, reduce next dose by 25%. | Reduce next dose by 25% |
+| On any day of drug administration after Day 1 of each cycle: Platelet count <25,000/mm3 Hemoglobin <8 g/dL ANC <500/mm3 | Do not dose this cycle if before Day 4; if after Day 4 reduce next dose by 25% in the following cycles if bortezomib is reduced for hematologic toxicity. | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25% in following cycles. |
+| Grade 3 or 4 non-hematologic drug related toxicity | Do not dose until recovered to Grade <2 and reduce dose by 25% for all subsequent doses. | Do not dose until recovered to Grade <2 and reduce dose by 25% for all subsequent doses. |
+| Neuropathic pain or peripheral neuropathy | No dosage adjustments. | See bortezomib manufacturer's prescribing information for dosage adjustments in patients with neuropathic pain. |
+
 ## 2.6 Patients With Impaired Hepatic Function
 
 Limited clinical experience exists in treating patients with hepatic impairment with doxorubicin hydrochloride liposome injection.
-Based on experience with doxorubicin hydrochloride, it is recommended that the doxorubicin hydrochloride liposome injection dosage be reduced if the bilirubin is elevated as follows: serum bilirubin 1.2 to 3 mg/dL - give ½ normal dose; serum bilirubin > 3 mg/dL - give ¼ normal dose.
+Based on experience with doxorubicin hydrochloride, it is recommended that the doxorubicin hydrochloride liposome injectiondosage be reduced if the bilirubin is elevated as follows: serum bilirubin 1.2 to 3 mg/dL - give ½ normal dose; serum bilirubin > 3 mg/dL - give ¼ normal dose.
+No information, including dosage adjustments, is available for patients with multiple myeloma with hepatic impairment.
 
 ## 2.7 Preparation for Intravenous Administration
 
@@ -97,4 +121,4 @@ With intravenous administration of doxorubicin hydrochloride liposome injection,
 If any signs or symptoms of extravasation have occurred, the infusion should be immediately terminated and restarted in another vein.
 Doxorubicin hydrochloride liposome injection must not be given by the intramuscular or subcutaneous route.
 Doxorubicin hydrochloride liposome injection should be handled and disposed of in a manner consistent with other anticancer drugs.
-Several guidelines on this subject exist [see References (15)] .
+Several guidelines on this subject exist [see References (15)].

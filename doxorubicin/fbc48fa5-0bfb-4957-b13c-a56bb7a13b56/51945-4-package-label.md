@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - LABEL - 10 ML
 
-NDC 47335-049-40 DOXOrubicin Hydrochloride Liposome Injection 20 mg/10 mL (2 mg/mL) Sterile Must be diluted Cytotoxic Agent LIPOSOMAL FORMULATION DO NOT SUBSTITUTE FOR INTRAVENOUS INFUSION ONLY Store in a refrigerator, 2°C to 8°C (36°F to 46°F).
+NDC 47335-049-40 DOXOrubicin Hydrochloride Liposome Injection 20 mg/10 mL (2 mg/mL) Cytotoxic Agent Must be diluted LIPOSOMAL FORMULATION DO NOT SUBSTITUTE FOR INTRAVENOUS INFUSION ONLY Store in a refrigerator, 2°C to 8°C (36°F to 46°F).
 Avoid freezing.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - CARTON - 10 ML
@@ -9,7 +9,7 @@ NDC 47335-049-40 DOXOrubicin Hydrochloride Liposome Injection 20 mg/10 mL (2 mg/
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - LABEL - 25 ML
 
-NDC 47335-050-40 DOXOrubicin Hydrochloride Liposome Injection 50 mg/25 mL (2 mg/mL) Sterile Must be diluted Cytotoxic Agent LIPOSOMAL FORMULATION DO NOT SUBSTITUTE FOR INTRAVENOUS INFUSION ONLY Store in a refrigerator, 2°C to 8°C (36°F to 46°F).
+NDC 47335-050-40 DOXOrubicin Hydrochloride Liposome Injection 50 mg/25 mL (2 mg/mL) Cytotoxic Agent Must be diluted LIPOSOMAL FORMULATION DO NOT SUBSTITUTE FOR INTRAVENOUS INFUSION ONLY Store in a refrigerator, 2°C to 8°C (36°F to 46°F).
 Avoid freezing.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - CARTON - 25 ML

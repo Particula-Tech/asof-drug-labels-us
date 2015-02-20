@@ -2,8 +2,8 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.6)] .
-Doxorubicin hydrochloride liposome injection is embryotoxic at doses of 1 mg/kg/day in rats and is embryotoxic and abortifacient at 0.5 mg/kg/day in rabbits (both doses are about one-eighth the 50 mg/m 2 human dose on a mg/m 2 basis).
+Pregnancy Category D [see Warnings and Precautions (5.6)].
+Doxorubicin hydrochloride liposome injection is embryotoxic at doses of 1 mg/kg/day in rats and is embryotoxic and abortifacient at 0.5 mg/kg/day in rabbits (both doses are about one-eighth the 50 mg/m2 human dose on a mg/m2 basis).
 Embryotoxicity was characterized by increased embryo-fetal deaths and reduced live litter sizes.
 
 ## 8.3 Nursing Mothers
@@ -18,11 +18,12 @@ The safety and effectiveness of doxorubicin hydrochloride liposome injection in 
 ## 8.5 Geriatric Use
 
 Of the patients treated with doxorubicin hydrochloride liposome injection in the randomized ovarian cancer study, 34.7% (n=83) were 65 years of age or older while 7.9% (n=19) were 75 years of age or older.
+Of the 318 patients treated with doxorubicin hydrochloride liposome injection in combination with bortezomib for multiple myeloma, 37% were 65 years of age or older and 8% were 75 years of age or older.
 No overall differences in safety or efficacy were observed between these patients and younger patients.
 
 ## 8.6 Hepatic Impairment
 
 The pharmacokinetics of doxorubicin hydrochloride liposome injection has not been adequately evaluated in patients with hepatic impairment.
 Doxorubicin is eliminated in large part by the liver.
-Thus, doxorubicin hydrochloride dosage should be reduced in patients with impaired hepatic function [see Dosage and Administration (2.6)] .
-Prior to doxorubicin hydrochloride liposome injection administration, evaluation of hepatic function is recommended using conventional clinical laboratory tests such as SGOT, SGPT, alkaline phosphatase, and bilirubin [see Dosage and Administration (2.6)] .
+Thus, doxorubicin hydrochloride dosage should be reduced in patients with impaired hepatic function [see Dosage and Administration (2.6)].
+Prior to doxorubicin hydrochloride liposome injection administration, evaluation of hepatic function is recommended using conventional clinical laboratory tests such as SGOT, SGPT, alkaline phosphatase, and bilirubin [see Dosage and Administration (2.6)].
