@@ -28,14 +28,14 @@ Do not refrigerate.
 
 Instructions for Application
 
-1. Open pouch at tear mark.
-2. Carefully remove the patch.
-3. Bend both sides of clear peelable liner.
-4. Peel off one strip only of the clear liner.
-   Avoid touching the exposed sticky side of the patch.
-5. Apply sticky side of the patch to the chosen skin site.
-6. Remove remaining strip and press patch firmly in place with the palm of the hand.
-7. APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+- 1.Open pouch at tear mark.
+- 2.Carefully remove the patch.
+- 3.Bend both sides of clear peelable liner.
+- 4.Peel off one strip only of the clear liner.
+  Avoid touching the exposed sticky side of the patch.
+- 5.Apply sticky side of the patch to the chosen skin site.
+- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -71,14 +71,14 @@ Do not refrigerate.
 
 Instructions for Application
 
-1. Open pouch at tear mark.
-2. Carefully remove the patch.
-3. Bend both sides of clear peelable liner.
-4. Peel off one strip only of the clear liner.
-   Avoid touching the exposed sticky side of the patch.
-5. Apply sticky side of the patch to the chosen skin site.
-6. Remove remaining strip and press patch firmly in place with the palm of the hand.
-7. APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+- 1.Open pouch at tear mark.
+- 2.Carefully remove the patch.
+- 3.Bend both sides of clear peelable liner.
+- 4.Peel off one strip only of the clear liner.
+  Avoid touching the exposed sticky side of the patch.
+- 5.Apply sticky side of the patch to the chosen skin site.
+- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -114,14 +114,14 @@ Do not refrigerate.
 
 Instructions for Application
 
-1. Open pouch at tear mark.
-2. Carefully remove the patch.
-3. Bend both sides of clear peelable liner.
-4. Peel off one strip only of the clear liner.
-   Avoid touching the exposed sticky side of the patch.
-5. Apply sticky side of the patch to the chosen skin site.
-6. Remove remaining strip and press patch firmly in place with the palm of the hand.
-7. APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+- 1.Open pouch at tear mark.
+- 2.Carefully remove the patch.
+- 3.Bend both sides of clear peelable liner.
+- 4.Peel off one strip only of the clear liner.
+  Avoid touching the exposed sticky side of the patch.
+- 5.Apply sticky side of the patch to the chosen skin site.
+- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -157,14 +157,14 @@ Do not refrigerate.
 
 Instructions for Application
 
-1. Open pouch at tear mark.
-2. Carefully remove the patch.
-3. Bend both sides of clear peelable liner.
-4. Peel off one strip only of the clear liner.
-   Avoid touching the exposed sticky side of the patch.
-5. Apply sticky side of the patch to the chosen skin site.
-6. Remove remaining strip and press patch firmly in place with the palm of the hand.
-7. APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+- 1.Open pouch at tear mark.
+- 2.Carefully remove the patch.
+- 3.Bend both sides of clear peelable liner.
+- 4.Peel off one strip only of the clear liner.
+  Avoid touching the exposed sticky side of the patch.
+- 5.Apply sticky side of the patch to the chosen skin site.
+- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 

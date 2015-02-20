@@ -17,13 +17,13 @@ Nitroglycerin Transdermal System 0.6 mg/hr is a translucent rectangular patch wi
 NDC 0378-9116-93 Carton of 30 Systems
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Do not refrigerate.
 
 Do not store outside of the protective package.
 Apply immediately upon removal from the protective package.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2008 NTG:R13
+REVISED NOVEMBER 2014 NTG:R14

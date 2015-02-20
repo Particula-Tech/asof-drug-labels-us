@@ -51,6 +51,10 @@ See Patient Information at the end of this insert.
 The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
 Alcohol, in particular, has been found to exhibit additive effects of this variety.
 
+Concomitant use of Nitroglycerin Transdermal Systems with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS).
+
+Concomitant use of Nitroglycerin Transdermal Systems with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
+
 Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.
 Dose adjustments of either class of agents may be necessary.
 
