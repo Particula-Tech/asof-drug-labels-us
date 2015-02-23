@@ -62,27 +62,27 @@ SRP + ARESTIN® resulted in a greater percentage of pockets showing a change of 
 
 Table 3: Mean Pocket Depth Changes (SE) in Subpopulations, Studies 103A and 103B Combined
 
-|  | SRP Alone | SRP + Vehicle | SRP + ARESTIN® |
-| --- | --- | --- | --- |
-| Smokers | n = 91 | n = 90 | n = 90 |
-|  | -0.96± | -0.98± | -1.24± |
-|  | 0.09 mm | 0.07 mm | 0.09 mmSRP vs SRP + ARESTIN ®P ≤0.001. |
-| Nonsmokers | n = 159 | n = 159 | n = 159 |
-|  | -1.31± | -1.17± | -1.53± |
-|  | 0.06 mm | 0.07 mm | 0.06 mm |
-| Patients >50 YOA | n = 21 | n = 81 | n = 107 |
-|  | -1.07± | -0.92± | -1.42± |
-|  | 0.09 mm | 0.08 mm | 0.08 mm |
-| Patients ≤50 YOA | n = 167 | n = 168 | n = 142 |
-|  | -1.24± | -1.19± | -1.43± |
-|  | 0.06 mm | 0.06 mm | 0.07 mmSRP vs SRP + ARESTIN® P ≤0.05; |
-| Patients With CV Disease | n = 36 | n = 29 | n = 36 |
-|  | -0.99± | -1.06± | -1.56± |
-|  | 0.13 mm | 0.14 mm | 0.14 mm |
-| Patients W/O CV Disease | n = 214 | n = 220 | n = 213 |
-|  | -1.22± | -1.11± | -1.40± |
-|  | 0.06 mm | 0.05 mm | 0.06 mm |
-| SRP = scaling and root planing; YOA = years of age; CV = cardiovascular. |  |  |  |
+|  | SRP Alone | SRP + Vehicle | SRP + ARESTIN® |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Smokers | n = 91 | n = 90 | n = 90 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | -0.96± | -0.98± | -1.24± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.09 mm | 0.07 mm | 0.09 mmSRP vs SRP + ARESTIN ®P ≤0.001. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nonsmokers | n = 159 | n = 159 | n = 159 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | -1.31± | -1.17± | -1.53± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.06 mm | 0.07 mm | 0.06 mm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Patients >50 YOA | n = 21 | n = 81 | n = 107 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | -1.07± | -0.92± | -1.42± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.09 mm | 0.08 mm | 0.08 mm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Patients ≤50 YOA | n = 167 | n = 168 | n = 142 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | -1.24± | -1.19± | -1.43± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.06 mm | 0.06 mm | 0.07 mmSRP vs SRP + ARESTIN® P ≤0.05; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Patients With CV Disease | n = 36 | n = 29 | n = 36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | -0.99± | -1.06± | -1.56± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.13 mm | 0.14 mm | 0.14 mm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Patients W/O CV Disease | n = 214 | n = 220 | n = 213 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | -1.22± | -1.11± | -1.40± |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0.06 mm | 0.05 mm | 0.06 mm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SRP = scaling and root planing; YOA = years of age; CV = cardiovascular. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 In both studies, the following patient subgroups were prospectively analyzed: smokers, patients over and under 50 years of age, and patients with a previous history of cardiovascular disease.
 The results of the combined studies are presented in Table 3.

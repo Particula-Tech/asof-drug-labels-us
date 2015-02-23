@@ -14,7 +14,7 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## Hypersensitivity Reactions
 
-- Hypersensitivity reactions that included, but were not limited to anaphylaxis, angioneurotic edema, urticaria, rash, swelling of the face and pruritus have been reported with the use of ARESTIN®.
+- Hypersensitivity reactions that included, but were not limited to anaphylaxis, angioneurotic edema, urticaria, rash, swelling of the face, and pruritus have been reported with the use of ARESTIN®.
   Some of these reactions were serious.
 - Post-marketing cases of anaphylaxis and serious skin reactions such as Stevens Johnson syndrome and erythema multiforme have been reported with oral minocycline.
 

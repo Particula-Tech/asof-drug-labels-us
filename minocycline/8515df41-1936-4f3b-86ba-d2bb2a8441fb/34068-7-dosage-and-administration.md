@@ -6,6 +6,8 @@ The oral health care professional removes the disposable cartridge from its pouc
 ARESTIN® is a variable dose product, dependent on the size, shape, and number of pockets being treated.
 In US clinical trials, up to 122 unit-dose cartridges were used in a single visit and up to 3 treatments, at 3-month intervals, were administered in pockets with pocket depth of 5 mm or greater.
 
+Figure 4
+
 The administration of ARESTIN® does not require local anesthesia.
 Professional subgingival administration is accomplished by inserting the unit-dose cartridge to the base of the periodontal pocket and then pressing the thumb ring in the handle mechanism to expel the powder while gradually withdrawing the tip from the base of the pocket.
 The handle mechanism should be sterilized between patients.

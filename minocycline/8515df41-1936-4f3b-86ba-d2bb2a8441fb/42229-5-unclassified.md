@@ -1,6 +1,10 @@
 Rx only
 
-Manufactured for OraPharma, Inc. 5 Walnut Grove Drive Horsham, PA 19044
+Manufactured for OraPharma,Inc.
+
+Bridgewater, NJ 08807
+
+USA
 
 For more information call 1-866-ARESTIN (1-866-273-7846)
 
@@ -9,4 +13,4 @@ Nos. 6,682,348 7,699,609
 
 ©OraPharma, Inc.
 
-AUS-INS-001 07/2012
+AUS-INS-002 07/2012

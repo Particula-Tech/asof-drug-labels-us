@@ -2,8 +2,8 @@
 
 ARESTIN® (minocycline hydrochloride) Microspheres, 1 mg is supplied as follows:
 
-- 1 unit-dose cartridge with desiccant in a heat-sealed, foil-laminated pouch (NDC 65976-100-01).
-- 12 unit-dose cartridges in 1 tray with desiccant in a heat-sealed, foil-laminated, resealable pouch (NDC 65976-100-24).
+- •1 unit-dose cartridge with desiccant in a heat-sealed, foil-laminated pouch (NDC 65976-100-01).
+- •12 unit-dose cartridges in 1 tray with desiccant in a heat-sealed, foil-laminated, resealable pouch (NDC 65976-100-24).
   There are 2 pouches in each box.
 
 Each unit--dose cartridge contains the product identifier "OP--1."
