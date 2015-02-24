@@ -23,8 +23,8 @@ The average LNG in vivo release rate is approximately 6 mcg/day over the period 
 
 In a subset of 7 subjects, maximum observed serum LNG concentration was 192 ± 105 pg/mL, reached after 2 days (median) of Skyla insertion.
 Thereafter, LNG serum concentration decreased after long-term use of 12, 24, and 36 months to concentrations of 77 ± 21 pg/mL, 62 ± 38 pg/mL, and 72 ± 29 pg/mL, respectively.
-A population pharmacokinetic evaluation based on a broader data base (>1000 patients) showed similar concentration data of 168 ± 46 pg/mLat 7 days after placement.
-Thereafter, LNG serum concentrations decline slowly to a value 61 ± 19 pg/mLafter 3 years.
+A population pharmacokinetic evaluation based on a broader data base (>1000 patients) showed similar concentration data of 168 ± 46 pg/mL at 7 days after placement.
+Thereafter, LNG serum concentrations decline slowly to a value 61 ± 19 pg/mL after 3 years.
 
 ### Distribution
 

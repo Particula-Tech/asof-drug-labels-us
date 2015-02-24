@@ -46,10 +46,11 @@ Aseptic technique during insertion of Skyla is essential in order to minimize se
 
 ### Pelvic Inflammatory Disease (PID)
 
-- Skyla is contraindicated in the presence of known or suspected PID or in women with a history of PID unless there has been a subsequent intrauterine pregnancy [see Contraindications (4)].
-  IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.1 In clinical trials, PID was observed in 0.4% of women overall and occurred more frequently within the first year and most often within the first month after insertion of Skyla.
-- Promptly examine users with complaints of lower abdominal or pelvic pain, odorous discharge, unexplained bleeding, fever, genital lesions or sores.
-  Remove Skyla in cases of recurrent endometritis or pelvic inflammatory disease, or if an acute pelvic infection is severe or does not respond to treatment.
+Skyla is contraindicated in the presence of known or suspected PID or in women with a history of PID unless there has been a subsequent intrauterine pregnancy [see Contraindications (4)].
+IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.1 In clinical trials, PID was observed in 0.4% of women overall and occurred more frequently within the first year and most often within the first month after insertion of Skyla.
+
+Promptly examine users with complaints of lower abdominal or pelvic pain, odorous discharge, unexplained bleeding, fever, genital lesions or sores.
+Remove Skyla in cases of recurrent endometritis or pelvic inflammatory disease, or if an acute pelvic infection is severe or does not respond to treatment.
 
 #### Women at increased risk for PID
 
@@ -89,25 +90,11 @@ Table 1: Bleeding Patterns Reported with Skyla in Contraception Studies (by 90-d
 
 | Skyla | First 90 days N=1,531 | Second 90 days N=1,475 | End of year 1 N=1,329 | End of year 3 N=903 |
 | --- | --- | --- | --- | --- |
-| Amenorrhea1 | <1% | 3% | 6% | 12% |
-| Infrequent bleeding2 | 8% | 19% | 20% | 22% |
-| Frequent bleeding3 | 31% | 12% | 8% | 4% |
-| Prolonged bleeding4 | 59% | 17% | 9% | 3% |
-| Irregular bleeding5 | 42% | 28% | 23% | – 6 |
-
-1Defined as subjects with no bleeding/spotting throughout the 90-day reference period
-
-2Defined as subjects with 1 or 2 bleeding/spotting episodes in the 90-day reference period
-
-3Defined as subjects with more than 5 bleeding/spotting episodes in the 90-day reference period
-
-4Defined as subjects with bleeding/spotting episodes lasting more than 14 days in the 90-day reference period.
-Subjects with prolonged bleeding may also be included in one of the other categories (excluding amenorrhea)
-
-5Defined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days
-
-6The End of year 3 result for irregular bleeding in particular is artificially inflated (46%) because removal was not timed to coincide with a complete 90-day reference period.
-The result from the preceding 90-day reference period (17%) provides a more relevant indication of the observed incidence near the end of the 3-year period.
+| AmenorrheaDefined as subjects with no bleeding/spotting throughout the 90-day reference period | <1% | 3% | 6% | 12% |
+| Infrequent bleedingDefined as subjects with 1 or 2 bleeding/spotting episodes in the 90-day reference period | 8% | 19% | 20% | 22% |
+| Frequent bleedingDefined as subjects with more than 5 bleeding/spotting episodes in the 90-day reference period | 31% | 12% | 8% | 4% |
+| Prolonged bleedingDefined as subjects with bleeding/spotting episodes lasting more than 14 days in the 90-day reference period. Subjects with prolonged bleeding may also be included in one of the other categories (excluding amenorrhea) | 59% | 17% | 9% | 3% |
+| Irregular bleedingDefined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days | 42% | 28% | 23% | – The End of year 3 result for irregular bleeding in particular is artificially inflated (46%) because removal was not timed to coincide with a complete 90-day reference period. The result from the preceding 90-day reference period (17%) provides a more relevant indication of the observed incidence near the end of the 3-year period. |
 
 Table 2: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
 
@@ -127,7 +114,6 @@ Once pregnancy has been excluded, repeated pregnancy tests are generally not nec
 
 Perforation (total or partial, including penetration/embedment of Skyla in the uterine wall or cervix) may occur most often during insertion, although the perforation may not be detected until sometime later.
 Perforation may reduce contraceptive efficacy and result in pregnancy.
-The incidence of perforation during clinical trials was < 0.1%.
 
 If perforation occurs, locate and remove Skyla.
 Surgery may be required.
@@ -181,7 +167,7 @@ In addition, consider removing Skyla if any of the following conditions arise du
 - •Uterine or cervical malignancy
 - •Jaundice
 - •If the threads are not visible or are significantly shortened they may have broken or retracted into the cervical canal or uterus.
-  Consider the possibility that the system may have been displaced, (for example, expelled or perforated the uterus) [see Warnings and Precautions (5.6, 5.7).
+  Consider the possibility that the system may have been displaced, (for example, expelled or perforated the uterus) [see Warnings and Precautions (5.6, 5.7)].
   Exclude pregnancy and verify the location of Skyla, for example, by sonography, X-ray, or by gentle exploration of the cervical canal with a suitable instrument.
   If Skyla is displaced, remove it.
   A new Skyla may be inserted at that time or during the next menses if it is certain that conception has not occurred.

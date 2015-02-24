@@ -32,9 +32,9 @@ Table 3: Adverse reactions that occurred in at least 1% of Skyla users in clinic
 | System Organ Class | Adverse Reaction | Incidence (%) (N=1,672) |
 | --- | --- | --- |
 | Reproductive System and Breast Disorders | Vulvovaginitis | 20.2 |
-|  | Ovarian cysta | 13.2 |
+|  | Ovarian cystOvarian cysts were reported as AEs if they were abnormal, non-functional cysts and/or had a diameter >3 cm on ultrasound examination | 13.2 |
 |  | Dysmenorrhoea | 8.6 |
-|  | Increased bleeding b | 7.8 |
+|  | Increased bleedingNot all bleeding alterations were captured as adverse reactions [see Warnings and Precautions (5.5)]. | 7.8 |
 |  | Breast pain/discomfort | 5.3/3.3 |
 |  | Genital discharge | 4.2 |
 |  | Device expulsion (complete and partial) | 3.2 |
@@ -46,10 +46,6 @@ Table 3: Adverse reactions that occurred in at least 1% of Skyla users in clinic
 | Nervous System Disorders | Headache | 12.4 |
 |  | Migraine | 2.3 |
 | Psychiatric Disorders | Depression/ Depressed mood | 3.8/0.5 |
-
-a Ovarian cysts were reported as AEs if they were abnormal, non-functional cysts and/or had a diameter >3 cm on ultrasound examination
-
-b Not all bleeding alterations were captured as adverse reactions [see Warnings and Precautions (5.5)].
 
 ## 6.2 Postmarketing Experience
 

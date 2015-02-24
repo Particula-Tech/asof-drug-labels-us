@@ -6,7 +6,7 @@ The average in vivo release rate of LNG is approximately 6 mcg/day over a period
 
 Skyla must be removed by the end of the third year and can be replaced at the time of removal with a new Skyla if continued contraceptive protection is desired.
 
-Skyla is supplied within an inserter in a sterile package (see Figure 1)that must not be opened until required for insertion [see Description (11)].
+Skyla is supplied within an inserter in a sterile package (see Figure 1) that must not be opened until required for insertion [see Description (11)].
 Do not use if the seal of the sterile package is broken or appears compromised.
 Use strict aseptic techniques throughout the insertion procedure [see Warnings and Precautions (5.3)].
 
@@ -73,13 +73,11 @@ Ensure use of aseptic technique throughout the entire procedure.
 - •Open the package (Figure 1).
   The contents of the package are sterile.
 
-Figure 1: Opening the Skyla Package
-
 - •Using sterile gloves, lift the handle of the sterile inserter and remove from the sterile package.
 
 #### Step 2–Load Skyla into the insertion tube
 
-- •Push the slider forwardas far as possible in the direction of the arrow thereby moving the insertion tube over the Skyla T-body to load Skyla into the insertion tube (Figure 2).
+- •Push the slider forward as far as possible in the direction of the arrow thereby moving the insertion tube over the Skyla T-body to load Skyla into the insertion tube (Figure 2).
   The tips of the arms will meet to form a rounded end that extends slightly beyond the insertion tube.
 
 - •Maintain forward pressure with your thumb or forefinger on the slider.
@@ -97,9 +95,6 @@ Figure 3: Setting the flange
 - •Continue holding the slider in this forward position.
   Advance the inserter through the cervix until the flange is approximately 1.5–2 cm from the cervix and then pause (Figure 4).
 
-Figure 4.
-Advancing insertion tube until flange is 1.5 to 2 cm from the cervix
-
 Do not force the inserter.
 If necessary, dilate the cervical canal.
 
@@ -112,23 +107,21 @@ If necessary, dilate the cervical canal.
 
 Advance the inserter gently towards the fundus of the uterus until the flange touches the cervix.
 If you encounter fundal resistance do not continue to advance.
-Skyla is now in the fundal position (Figure 6).Fundal positioning of Skyla is important to prevent expulsion.
+Skyla is now in the fundal position (Figure 6).
+Fundal positioning of Skyla is important to prevent expulsion.
 
 Figure 6.
 Move Skyla into the fundal position
 
 #### Step 7–Release Skyla and withdraw the inserter
 
-- •Holding the entire inserter firmly in place, release Skyla by moving the slider all the way down(Figure 7).
+- •Holding the entire inserter firmly in place, release Skyla by moving the slider all the way down (Figure 7).
 
 - •Continue to hold the slider all the way down while you slowly and gently withdraw the inserter from the uterus.
 - •Using a sharp, curved scissor, cut the threads perpendicular, leaving about 3 cm visible outside of the cervix [cutting threads at an angle may leave sharp ends (Figure 8)].
   Do not apply tension or pull on the threads when cutting to prevent displacing Skyla.
 
 .
-
-Figure 8.
-Cutting the threads
 
 - Skyla insertion is now complete.
   Prescribe analgesics, if indicated.
@@ -169,9 +162,6 @@ Cutting the threads
 ### Removal Procedure
 
 - •Remove Skyla by applying gentle traction on the threads with forceps (Figure 9).
-
-Figure 9.
-Removal of Skyla
 
 - •If the threads are not visible, determine location of Skyla by ultrasound [see Warnings and Precautions (5.10)].
 - •If Skyla is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.
