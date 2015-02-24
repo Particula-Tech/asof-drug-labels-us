@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-EPIVIR Scored Tablets, 150 mg
+EPIVIR Functionally Scored Tablets, 150 mg
 
-White, diamond-shaped, scored, film-coated tablets debossed with “GX CJ7” on both sides.
+White, diamond-shaped, functionally scored, film-coated tablets debossed with “GX CJ7” on both sides.
 
 Bottle of 60 tablets (NDC 49702-203-18) with child-resistant closure.
 
@@ -16,7 +16,7 @@ Recommended Storage:
 
 Store EPIVIR Tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-EPIVIR Oral Solution, 10 mg/mL
+EPIVIR Oral Solution, 10 mg per mL
 
 A clear, colorless to pale yellow, strawberry-banana-flavored liquid, contains 10 mg of lamivudine in each 1 mL.
 
