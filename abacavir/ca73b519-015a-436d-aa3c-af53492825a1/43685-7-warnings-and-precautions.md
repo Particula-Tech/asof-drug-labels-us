@@ -13,7 +13,9 @@ Regardless of HLA-B*5701 status, permanently discontinue ZIAGEN if hypersensitiv
 
 Important information on signs and symptoms of hypersensitivity, as well as clinical management, is presented below.
 
-Signs and Symptoms of Hypersensitivity: Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups.
+Signs and Symptoms of Hypersensitivity
+
+Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups.
 
 Group 1: Fever
 
@@ -44,7 +46,9 @@ Hypersensitivity reactions have occurred without rash.
 
 Laboratory abnormalities associated with hypersensitivity to abacavir in some patients include elevated liver function tests, elevated creatine phosphokinase, elevated creatinine, and lymphopenia.
 
-Clinical Management of Hypersensitivity: Discontinue ZIAGEN as soon as a hypersensitivity reaction is suspected.
+Clinical Management of Hypersensitivity
+
+Discontinue ZIAGEN as soon as a hypersensitivity reaction is suspected.
 To minimize the risk of a life-threatening hypersensitivity reaction, permanently discontinue ZIAGEN if hypersensitivity cannot be ruled out, even when other diagnoses are possible (e.g., acute onset respiratory diseases such as pneumonia, bronchitis, pharyngitis, or influenza; gastroenteritis; or reactions to other medications).
 
 Following a hypersensitivity reaction to abacavir, NEVER restart ZIAGEN or any other abacavir-containing product because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
@@ -58,13 +62,15 @@ Even in the absence of the HLA-B*5701 allele, it is important to permanently dis
 If symptoms consistent with hypersensitivity are not identified, reintroduction can be undertaken with continued monitoring for symptoms of a hypersensitivity reaction.
 Make patients aware that a hypersensitivity reaction can occur with reintroduction of ZIAGEN or any other abacavir-containing product and that reintroduction of ZIAGEN or any other abacavir-containing product needs to be undertaken only if medical care can be readily accessed by the patient or others.
 
-Risk Factor: HLA-B*5701 Allele: Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
+Risk Factor
+
+HLA-B*5701 Allele: Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 
 CNA106030 (PREDICT-1), a randomized, double-blind trial, evaluated the clinical utility of prospective HLA-B*5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir-naive HIV-1-infected adults (n = 1,650).
-In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66/847) to 3.4% (27/803).
+In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66 of 847) to 3.4% (27 of 803).
 Based on this trial, it is estimated that 61% of patients with the HLA-B*5701 allele will develop a clinically suspected hypersensitivity reaction during the course of abacavir treatment compared with 4% of patients who do not have the HLA-B*5701 allele.
 
-Screening for carriage of the HLA -B*5701 allele is recommended prior to initiating treatment with abacavir.
+Screening for carriage of the HLA-B*5701 allele is recommended prior to initiating treatment with abacavir.
 Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
 For HLA-B*5701-positive patients, initiating or reinitiating treatment with an abacavir-containing regimen is not recommended and should be considered only with close medical supervision and under exceptional circumstances where potential benefit outweighs the risk.
 
@@ -73,7 +79,7 @@ Skin patch testing is used as a research tool and should not be used to aid in t
 In any patient treated with abacavir, the clinical diagnosis of hypersensitivity reaction must remain the basis of clinical decision-making.
 Even in the absence of the HLA-B*5701 allele, it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds, due to the potential for a severe or even fatal reaction.
 
-## 5.2 Lactic Acidosis/Severe Hepatomegaly With Steatosis
+## 5.2 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including abacavir and other antiretrovirals.
 A majority of these cases have been in women.

@@ -4,7 +4,7 @@ ZIAGEN® (ZY-uh-jen)
 
 (abacavir sulfate)
 
-Tablets and Oral Solution
+tablets and oral solution
 
 Read this Medication Guide before you start taking ZIAGEN and each time you get a refill.
 There may be new information.
@@ -95,15 +95,14 @@ Before you take ZIAGEN, tell your healthcare provider if you:
 - •have hepatitis B virus infection or have other liver problems.
 - •have heart problems, smoke, or have diseases that increase your risk of heart disease such as high blood pressure, high cholesterol, or diabetes.
 - •are pregnant or plan to become pregnant.
-  It is not known if ZIAGEN will harm your unborn baby.
+  Taking ZIAGEN during pregnancy has not been associated with an increased risk of birth defects.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Pregnancy Registry.
   If you take ZIAGEN while you are pregnant, talk to your healthcare provider about how you can take part in the Pregnancy Registry for ZIAGEN.
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
 - •are breastfeeding or plan to breastfeed.
-  Do not breastfeed.
-  We do not know if ZIAGEN can be passed to your baby in your breast milk and whether it could harm your baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+  Do not breastfeed if you take ZIAGEN.
+  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -184,10 +183,10 @@ General information for safe and effective use of ZIAGEN
 
 Avoid doing things that can spread HIV infection to others.
 
-- •Do not share needles or other injection equipment.
+- •Do not re-use or share needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - •Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ZIAGEN for a condition for which it was not prescribed.
@@ -206,7 +205,7 @@ Tablets
 
 Active ingredient: abacavir sulfate
 
-Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate, and afilm‑coating made of hypromellose, polysorbate 80, synthetic yellow iron oxide, titanium dioxide, and triacetin.
+Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate, and a film‑coating made of hypromellose, polysorbate 80, synthetic yellow iron oxide, titanium dioxide, and triacetin.
 
 Oral Solution
 
@@ -216,7 +215,7 @@ Inactive ingredients: artificial strawberry and banana flavors, citric acid (anh
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-EPZICOM and TRIZIVIR are registered trademarks of ViiV Healthcare.
+EPZICOM, TRIZIVIR, and ZIAGEN are registered trademarks of the ViiV Healthcare group of companies.
 
 Manufactured for:
 
@@ -230,9 +229,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, ViiV Healthcare.
+©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
-May 2012
+February 2015
 
-ZGN:5MG
+ZGN:6MG

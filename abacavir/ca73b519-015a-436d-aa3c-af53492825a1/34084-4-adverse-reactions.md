@@ -13,10 +13,12 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults:Therapy-Naive Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
+Adults
+
+Therapy-naive Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
 
 Table 2.
-Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Naive Adults (CNA30024a) Through 48 Weeks of Treatment
+Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-naive Adults (CNA30024a) through 48 Weeks of Treatment
 
 | Adverse Reaction | ZIAGEN plus Lamivudine plus Efavirenz(n = 324) | Zidovudine plus Lamivudine plus Efavirenz(n = 325) |
 | --- | --- | --- |
@@ -39,7 +41,7 @@ Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intens
 Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily compared with indinavir 800 mg 3 times daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily from CNA3005 are listed in Table 3.
 
 Table 3.
-Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Naive Adults (CNA3005) Through 48 Weeks of Treatment
+Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-naive Adults (CNA3005) through 48 Weeks of Treatment
 
 | Adverse Reaction | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 264) |
 | --- | --- | --- |
@@ -62,7 +64,7 @@ Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intens
 Five subjects receiving ZIAGEN in CNA3005 experienced worsening of pre-existing depression compared with none in the indinavir arm.
 The background rates of pre-existing depression were similar in the 2 treatment arms.
 
-ZIAGEN Once Daily Versus ZIAGEN Twice Daily (CNA30021): Treatment-emergent clinical adverse reactions (rated by the investigator as at least moderate) with a greater than or equal to 5% frequency during therapy with ZIAGEN 600 mg once daily or ZIAGEN 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily from CNA30021, were similar.
+ZIAGEN Once Daily versus ZIAGEN Twice Daily (CNA30021): Treatment-emergent clinical adverse reactions (rated by the investigator as at least moderate) with a greater than or equal to 5% frequency during therapy with ZIAGEN 600 mg once daily or ZIAGEN 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily from CNA30021, were similar.
 For hypersensitivity reactions, subjects receiving ZIAGEN once daily showed a rate of 9% in comparison with a rate of 7% for subjects receiving ZIAGEN twice daily.
 However, subjects receiving ZIAGEN 600 mg once daily, experienced a significantly higher incidence of severe drug hypersensitivity reactions and severe diarrhea compared with subjects who received ZIAGEN 300 mg twice daily.
 Five percent (5%) of subjects receiving ZIAGEN 600 mg once daily had severe drug hypersensitivity reactions compared with 2% of subjects receiving ZIAGEN 300 mg twice daily.
@@ -71,9 +73,9 @@ Two percent (2%) of subjects receiving ZIAGEN 600 mg once daily had severe diarr
 Laboratory Abnormalities: Laboratory abnormalities (Grades 3-4) in therapy-naive adults during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 4.
 
 Table 4.
-Laboratory Abnormalities (Grades 3-4) in Therapy-Naive Adults (CNA30024) Through 48 Weeks of Treatment
+Laboratory Abnormalities (Grades 3-4) in Therapy-naive Adults (CNA30024) through 48 Weeks of Treatment
 
-| Grade 3/4 Laboratory Abnormalities | ZIAGEN plusLamivudine plus Efavirenz(n = 324) | Zidovudine plusLamivudine plus Efavirenz (n = 325) |  |  |  |  |  |  |
+| Grade 3/4Laboratory Abnormalities | ZIAGEN plusLamivudine plus Efavirenz(n = 324) | Zidovudine plusLamivudine plus Efavirenz (n = 325) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Elevated CPK (>4 X ULN) | 8% | 8% |  |  |  |  |  |  |
 | Elevated ALT (>5 X ULN) | 6% | 6% |  |  |  |  |  |  |
@@ -90,7 +92,7 @@ Laboratory Abnormalities (Grades 3-4) in Therapy-Naive Adults (CNA30024) Through
 Laboratory abnormalities in CNA3005 are listed in Table 5.
 
 Table 5.
-Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
+Treatment-emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
 | Grade 3/4 Laboratory Abnormalities | Number of Subjects by Treatment Group |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -107,10 +109,12 @@ Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 
-Pediatric Trials: Therapy-Experienced Pediatric Subjects: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg/kg twice daily, lamivudine 4 mg/kg twice daily, and zidovudine 180 mg/m2 twice daily compared with lamivudine 4 mg/kg twice daily and zidovudine 180 mg/m2 twice daily from CNA3006 are listed in Table 6.
+Pediatric Trials
+
+Therapy-experienced Pediatric Subjects: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg per kg twice daily, lamivudine 4 mg per kg twice daily, and zidovudine 180 mg per m2 twice daily compared with lamivudine 4 mg per kg twice daily and zidovudine 180 mg per m2 twice daily from CNA3006 are listed in Table 6.
 
 Table 6.
-Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Experienced Pediatric Subjects (CNA3006) Through 16 Weeks of Treatment
+Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-experienced Pediatric Subjects (CNA3006) through 16 Weeks of Treatment
 
 | Adverse Reaction | ZIAGEN plus Lamivudine plus Zidovudine(n = 102) | Lamivudine plus Zidovudine(n = 103) |
 | --- | --- | --- |
@@ -124,21 +128,31 @@ Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intens
 Laboratory Abnormalities: In CNA3006, laboratory abnormalities (anemia, neutropenia, liver function test abnormalities, and CPK elevations) were observed with similar frequencies as in a trial of therapy-naive adults (CNA30024).
 Mild elevations of blood glucose were more frequent in pediatric subjects receiving ZIAGEN (CNA3006) as compared with adult subjects (CNA30024).
 
-Other Adverse Events: In addition to adverse reactions and laboratory abnormalities reported in Tables 2, 3, 4, 5, and 6, other adverse reactions observed in the expanded access program were pancreatitis and increased GGT.
+Other Adverse Events
+
+In addition to adverse reactions and laboratory abnormalities reported in Tables 2, 3, 4, 5, and 6, other adverse reactions observed in the expanded access program were pancreatitis and increased GGT.
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following reactions have been identified during postmarketing use of ZIAGEN.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+The following adverse reactions have been identified during post-approval use of ZIAGEN.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposures.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to ZIAGEN.
 
-Body as a Whole: Redistribution/accumulation of body fat.
+Body as a Whole
 
-Cardiovascular: Myocardial infarction.
+Redistribution/accumulation of body fat.
 
-Hepatic: Lactic acidosis and hepatic steatosis.
+Cardiovascular
 
-Skin: Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
+Myocardial infarction.
+
+Hepatic
+
+Lactic acidosis and hepatic steatosis.
+
+Skin
+
+Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
 Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases.
 
 There have also been reports of erythema multiforme with abacavir use.
