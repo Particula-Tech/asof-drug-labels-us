@@ -16,5 +16,5 @@ Such reactions are usually non-allergic in nature and are best treated by having
 
 Rx Only (USA)
 
-Manufactured by E-Z-EM Canada Inc. a subsidiary of E-Z-EM, Inc. Lake Success, NY 11042 Tel: 1-516-333-8230 1-800 544-4624 rev.
-03/12 TX1613-1
+Manufactured by E-Z-EM Canada Inc. for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624 rev.
+06/14 TX1720

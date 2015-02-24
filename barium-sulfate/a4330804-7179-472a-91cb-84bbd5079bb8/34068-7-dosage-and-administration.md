@@ -7,7 +7,7 @@ No. 764:
 
 Accurately measure 65 mL of water (measuring cup Cat.
 No. 763 may be used.)
-Add water to the E-Z-HD bottle and replace the lid securely.
+Add water to the E-Z-HD™ bottle and replace the lid securely.
 Invert the bottle and tap with fingers to mix contrast with water.
 Shake vigorously for 30 seconds.
 Wait 5 minutes, then reshake thoroughly.
@@ -23,6 +23,9 @@ Typical adult dose:
 Yield:
 
 After reconstitution with 65 mL of water, yields 135 mL of suspension, 85% w/w, 250% w/v.
+
+Use immediately upon reconstitution.
+Discard any unused suspension.
 
 MRI Technical Note:
 
