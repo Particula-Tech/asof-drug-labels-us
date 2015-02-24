@@ -1,32 +1,37 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the availability of a Medication guide and they should be instructed to read the Medication Guide prior to taking BANZEL.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Patients should be instructed to take BANZEL only as prescribed.
+Administration Information
 
-## 17.1 Suicidal Thinking and Behavior
+- Advise patients to take BANZEL with food [see Dosage and Administration (2.2)].
+- Advise patients who are prescribed the oral suspension to shake the bottle vigorously before every administration and to use the adaptor and oral dosing syringe [see Dosage and Administration (2.2)].
 
-Patients, their caregivers, and families should be informed that antiepileptic drugs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
+Suicidal Thinking and Behavior
 
-As with all centrally acting medications, alcohol in combination with BANZEL may cause additive central nervous system effects.
+Inform patients, their caregivers, and families that antiepileptic drugs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.1)].
 
-Patients should be advised to notify their physician if they experience a rash associated with fever.
+Central Nervous System Reactions
 
-BANZEL should be taken with food.
+Inform patients about the potential for somnolence or dizziness and advise them not to drive or operate machinery until they have gained sufficient experience on BANZEL to gauge whether it adversely affects their mental and/or motor performance [see Warnings and Precautions (5.2)].
 
-Patients should be advised about the potential for somnolence or dizziness and advised not to drive or operate machinery until they have gained sufficient experience on BANZEL to gauge whether it adversely affects their mental and/or motor performance.
+Multi-Organ Hypersensitivity Reactions
 
-Female patients of childbearing age should be warned that the concurrent use of BANZEL with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.3)].
-Additional non-hormonal forms of contraception are recommended when using BANZEL.
+Advise patients to notify their physician if they experience a rash associated with fever [see Warnings and Precautions (5.4)].
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-They should also be encouraged to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
+Drug Interactions
+
+- Inform female patients of childbearing age that the concurrent use of BANZEL with hormonal contraceptives may render this method of contraception less effective.
+  Recommend patients use additional non-hormonal forms of contraception when using BANZEL [see Drug Interactions (7.3)].
+- Inform patients that alcohol in combination with BANZEL may cause additive central nervous system effects.
+
+Pregnancy
+
+Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Encourage patients to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-Patients should be advised to notify their physician if they are breast-feeding or intend to breast-feed.
+Breast-feeding
 
-Patients who are prescribed the oral suspension should be advised to shake the bottle vigorously before every administration and to use the adaptor and oral dosing syringe.
-
-When applicable patients should be advised that BANZEL oral suspension does not contain lactose or gluten and is dye-free.
-The oral suspension does contain carbohydrates.
+Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.3)].

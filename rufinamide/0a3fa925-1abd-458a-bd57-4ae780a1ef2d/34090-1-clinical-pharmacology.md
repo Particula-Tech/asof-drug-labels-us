@@ -5,7 +5,7 @@
 The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown.
 
 The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel.
-Rufinamide (≥1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC50 of 3.8 μM).
+Rufinamide (≥ 1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC50 of 3.8 μM).
 
 ## 12.3 Pharmacokinetics
 
@@ -29,13 +29,12 @@ Based on urinary excretion, the extent of absorption was at least 85% following 
 Multiple dose pharmacokinetics can be predicted from single dose data for both rufinamide and its metabolite.
 Given the dosing frequency of every 12 hours and the half-life of 6 to 10 hours, the observed steady-state peak concentration of about two to three times the peak concentration after a single dose is expected.
 
-Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg tablet, although the Tmax was not elevated.
-Clinical trials were performed under fed conditions and dosing is recommended with food [see Dosage and Administration (2)].
+Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg tablet, although the Tmax was not elevated [see Dosage and Administration (2.2)].
 
 Only a small fraction of rufinamide (34%) is bound to human serum proteins, predominantly to albumin (27%), giving little risk of displacement drug-drug interactions.
 Rufinamide was evenly distributed between erythrocytes and plasma.
 The apparent volume of distribution is dependent upon dose and varies with body surface area.
-The apparent volume of distribution was about 50 L at 3200 mg/day.
+The apparent volume of distribution was about 50 L at 3200 mg per day.
 
 Metabolism
 
@@ -49,7 +48,7 @@ Rufinamide is a weak inhibitor of CYP 2E1.
 It did not show significant inhibition of other CYP enzymes.
 Rufinamide is a weak inducer of CYP 3A4 enzymes.
 
-Rufinamide did not show any significant inhibition of P-glycoprotein in an in-vitro study.
+Rufinamide did not show any significant inhibition of P-glycoprotein in an invitro study.
 
 Elimination/Excretion
 
@@ -60,20 +59,33 @@ The plasma elimination half-life is approximately 6-10 hours in healthy subjects
 
 Special Populations
 
-Gender: Population pharmacokinetic analyses of females show a 6-14% lower apparent clearance of rufinamide compared to males.
+Age
+
+- Pediatrics Based on a population analysis which included a total of 115 patients, including 85 pediatric patients (24 patients ages 1 to 3 years, 40 patients ages 4 to 11 years, and 21 patients ages 12 to 17 years), the pharmacokinetics of rufinamide was similar across all age groups.
+- Elderly The results of a study evaluating single-dose (400 mg) and multiple dose (800 mg per day for 6 days) pharmacokinetics of rufinamide in 8 healthy elderly subjects (65-80 years old) and 7 younger healthy subjects (18-45 years old) found no significant age-related differences in the pharmacokinetics of rufinamide.
+
+Sex Population pharmacokinetic analyses of females show a 6-14% lower apparent clearance of rufinamide compared to males.
 This effect is not clinically important.
 
-Race: In a population pharmacokinetic analysis of clinical studies, no difference in clearance or volume of distribution of rufinamide was observed between the black and Caucasian subjects, after controlling for body size.
+Race In a population pharmacokinetic analysis of clinical studies, no difference in clearance or volume of distribution of rufinamide was observed between the black and Caucasian subjects, after controlling for body size.
 Information on other races could not be obtained because of smaller numbers of these subjects.
 
-Pediatrics: Based on a population analysis in 117 children (age 4-11 years) and 99 adolescents (age 12-17 years), the pharmacokinetics of rufinamide in these patients is similar to the pharmacokinetics in adults.
+Renal Impairment Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL per min) was similar to that of healthy subjects.
+Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and Cmax by 29% and 16%, respectively.
 
-Elderly: The results of a study evaluating single-dose (400 mg) and multiple dose (800 mg/day for 6 days) pharmacokinetics of rufinamide in 8 healthy elderly subjects (65-80 years old) and 7 younger healthy subjects (18-45 years old) found no significant age-related differences in the pharmacokinetics of rufinamide.
+Drug Interactions Based on in vitro studies, rufinamide shows little or no inhibition of most cytochrome P450 enzymes at clinically relevant concentrations, with weak inhibition of CYP 2E1.
+Drugs that are substrates of CYP 2E1 (e.g., chlorzoxazone) may have increased plasma levels in the presence of rufinamide, but this has not been studied.
 
-Renal Impairment: Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL/min) was similar to that of healthy subjects.
-Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and Cmax by 29% and 16% respectively.
-Adjusting rufinamide dose for the loss of drug upon dialysis should be considered.
+Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
+In pediatric patients, valproate administration may lead to elevated levels of rufinamide by up to 70% [see Drug Interactions (7.2)].
 
-Hepatic Impairment: There have been no specific studies investigating the effect of hepatic impairment on the pharmacokinetics of rufinamide.
-Therefore, use in patients with severe hepatic impairment is not recommended.
-Caution should be exercised in treating patients with mild to moderate hepatic impairment.
+Based on in vivo drug interaction studies with triazolam and oral contraceptives, rufinamide is a weak inducer of the CYP 3A4 enzyme and can decrease exposure of drugs that are substrates of CYP 3A4.
+
+- Co-administration and pre-treatment of BANZEL (400 mg twice daily) and triazolam resulted in a 37% decrease in AUC and a 23% decrease in Cmax of triazolam, a CYP 3A4 substrate.
+- Co-administration of BANZEL (800 mg twice daily for 14 days) and Ortho-Novum 1/35® resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and Cmax by 31% and norethindrone AUC0-24 by 14% and Cmax by 18%, respectively.
+  The clinical significance of this decrease is unknown [see Drug Interactions (7.3)].
+
+Rufinamide is metabolized by carboxylesterases.
+Drugs that may induce the activity of carboxylesterases may increase the clearance of rufinamide.
+Broad-spectrum inducers such as carbamazepine and phenobarbital may have minor effects on rufinamide metabolism via this mechanism.
+Drugs that are inhibitors of carboxylesterases may decrease metabolism of rufinamide.
