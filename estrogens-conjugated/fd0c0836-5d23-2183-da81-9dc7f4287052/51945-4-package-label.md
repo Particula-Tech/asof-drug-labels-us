@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Card
+# PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Card
 
 28 Tablets NDC 0046-1105-11
 
@@ -37,7 +37,7 @@ LOT XXXXXXX EXP XXXXXX
 
 12943401
 
-PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Carton
 
 NDC 0046-1105-11
 
@@ -49,7 +49,7 @@ Pfizer PREMPRO ® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - BLISTER CARD
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - BLISTER CARD
 
 NDC 0046-1105-51
 
@@ -65,7 +65,7 @@ Blister card contains five tablets.
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - POUCHES
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - POUCHES
 
 NDC 0046-1105-51
 
@@ -85,7 +85,7 @@ Package contains:
 
 1 blister card of 5 tablets
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - CARTON
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - CARTON
 
 NDC 0046-1105-51
 
@@ -101,7 +101,7 @@ Rx only
 
 Package contains 10 pouches with 1 blister card of 5 tablets each
 
-PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Card
+# PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Card
 
 28 Tablets NDC 0046-1106-11
 
@@ -140,7 +140,7 @@ LOT XXXXXXX EXP XXXXXX
 
 12943701
 
-PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Carton
 
 NDC 0046-1106-11
 
@@ -152,7 +152,7 @@ Pfizer PREMPRO ® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg - Blister Card
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg - Blister Card
 
 NDC 0046-1106-51
 
@@ -168,7 +168,7 @@ Blister card contains five tablets.
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg - POUCHES
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg - POUCHES
 
 NDC 0046-1106-51
 
@@ -188,7 +188,7 @@ Package contains:
 
 1 blister card of 5 tablets
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg - CARTON
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg - CARTON
 
 NDC 0046-1106-51
 
@@ -204,7 +204,7 @@ Rx only
 
 Package contains 10 pouches with 1 blister card of 5 tablets each
 
-PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Blister Card
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Blister Card
 
 28 Tablets NDC 0046-1107-11
 
@@ -243,7 +243,7 @@ LOT XXXXXXX EXP XXXXXX
 
 12944001
 
-PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Blister Carton
 
 NDC 0046-1107-11
 
@@ -255,44 +255,7 @@ Pfizer PREMPRO ® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg - Blister Card
-
-NDC 0046-0875-11
-
-PREMPRO®
-
-(conjugated estrogens/medroxyprogesterone acetate tablets)
-
-0.625 mg / 2.5 mg
-
-This blister card contains 28 tablets.
-
-Finish all the tablets in this blister card.
-
-www.
-PREMPRO.com
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg - CARTON
-
-NDC 0046-0875-11
-
-Package contains 1 blister card of 28 tablets
-
-PREMPRO®
-
-(conjugated estrogens/medroxyprogesterone acetate tablets)
-
-0.625 mg / 2.5 mg
-
-Rx only
-
-Wyeth®
-
-www.PREMPRO.com
-
-PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Blister Card
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Blister Card
 
 28 Tablets NDC 0046-1108-11
 
@@ -331,7 +294,7 @@ LOT XXXXXXX EXP XXXXXX
 
 12944302
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg - Carton
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg - Carton
 
 NDC 0046-1108-11
 
@@ -345,36 +308,36 @@ Package contains 1 blister card of 28 tablets.
 
 www.PREMPRO.com
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg - BLISTER CARD
+# PRINCIPAL DISPLAY PANEL - 28 Tablet 0.625 mg / 5 mg Blister Pack
 
-NDC 0046-2579-11
+START HERE Rx only NDC 0046-2575-12
 
-PREMPHASE®
-
-(conjugated estrogens/medroxyprogesterone acetate tablets)
+DAY 1 → DAY 2 → DAY 3 → DAY 4 → DAY 5 → DAY 6 → DAY 7
 
 14 maroon tablets of 0.625 mg conjugated estrogens
 
+DAY 14 ← DAY 13 ← DAY 12 ← DAY 11 ← DAY 10 ← DAY 9 ← DAY 8
+
+PREMPHASE® (conjugated estrogens/medroxyprogesterone acetate tablets)
+
+DAY 15 → DAY 16 → DAY 17 → DAY 18 → DAY 19 → DAY 20 → DAY 21
+
 14 light-blue tablets of 0.625 mg conjugated estrogens/5 mg medroxyprogesterone acetate
 
-Rx only
+DAY 28 ← DAY 27 ← DAY 26 ← DAY 25 ← DAY 24 ← DAY 23 ← DAY 22
 
-Wyeth®
+# PRINCIPAL DISPLAY PANEL - 28 Tablet 0.625 mg / 5 mg Blister Pack Carton
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg - CARTON
+NDC 0046-2575-12
 
-NDC 0046-2579-11
+Pfizer
+
+PREMPHASE® (conjugated estrogens/medroxyprogesterone acetate tablets)
+
+14 maroon tablets of 0.625 mg conjugated estrogens
+
+14 light-blue tablets of 0.625 mg conjugated estrogens/ 5 mg medroxyprogesterone acetate
 
 Package contains 1 blister card of 28 tablets
 
-PREMPHASE®
-
-(conjugated estrogens/medroxyprogesterone acetate tablets)
-
-14 maroon tablets of 0.625 mg conjugated estrogens
-
-14 light-blue tablets of 0.625 mg conjugated estrogens/5 mg medroxyprogesterone acetate
-
 Rx only
-
-Wyeth®
