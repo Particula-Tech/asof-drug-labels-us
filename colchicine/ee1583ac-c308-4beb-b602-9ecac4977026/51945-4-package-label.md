@@ -1,7 +1,3 @@
 # PACKAGE LABEL PRINCIPAL DISPLAY
 
 NDC: 0143-3018-01 Colchicine Capsules 0.6 mg 100 Capsules Rx Only
-
-# PACKAGE LABEL PRINCIPAL DISPLAY
-
-NDC: 0143-3018-10 Colchicine Capsules 0.6 mg 1000 Capsules Rx Only
