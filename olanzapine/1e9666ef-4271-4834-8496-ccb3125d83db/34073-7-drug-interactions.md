@@ -34,7 +34,7 @@ Warfarin
 
 Warfarin (20 mg single dose) did not affect olanzapine pharmacokinetics [see DRUG INTERACTIONS (7.2)].
 
-Inducers of CYP1A2 or Glucuronyl Transferase
+Inducers of CYP1A2 or GlucuronylTransferase
 
 Omeprazole and rifampin may cause an increase in olanzapine clearance.
 
@@ -59,19 +59,19 @@ Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 
 Lorazepam (IM)
 
-Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular Olanzapine for Injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
-However, this co-administration of intramuscular lorazepam and intramuscular Olanzapine for Injection added to the somnolence observed with either drug alone [see WARNINGS AND PRECAUTIONS (5.8)].
+Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular olanzapine for injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
+However, this co-administration of intramuscular lorazepam and intramuscular Olanzapine for Injection added to the somnolence observed with either drug alone [see WARNINGS AND PRECAUTIONS (5.6)].
 
 Lithium
 
 Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [seeWARNINGS AND PRECAUTIONS (5.16)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see WARNINGS AND PRECAUTIONS (5.14)].
 
 Valproate
 
 Olanzapine (10 mg daily for 2 weeks) did not affect the steady state plasma concentrations of valproate.
 Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate.
-[see WARNINGS AND PRECAUTIONS (5.16)].
+[seeWARNINGS AND PRECAUTIONS (5.14)].
 
 Effect of Olanzapine on Drug Metabolizing Enzymes
 

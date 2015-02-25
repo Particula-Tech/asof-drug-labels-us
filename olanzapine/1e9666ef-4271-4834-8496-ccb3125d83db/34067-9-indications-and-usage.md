@@ -2,7 +2,7 @@
 
 ## 1.4 Olanzapine for Injection Agitation Associated with Schizophrenia and Bipolar I Mania
 
-Olanzapine for Injection is indicated for the treatment of acute agitation associated with schizophrenia and bipolar I mania.
+Olanzapine for injection is indicated for the treatment of acute agitation associated with schizophrenia and bipolar I mania.
 
 Efficacy was demonstrated in 3 short-term (24 hours of IM treatment) placebo-controlled trials in agitated adult inpatients with: schizophrenia or bipolar I disorder (manic or mixed episodes) [see CLINICAL STUDIES (14.3)].
 

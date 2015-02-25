@@ -13,7 +13,7 @@ The incidence of mammary gland adenomas and adenocarcinomas was significantly in
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
 Serum prolactin levels were not measured during the olanzapine carcinogenicity studies; however, measurements during subchronic toxicity studies showed that olanzapine elevated serum prolactin levels up to 4-fold in rats at the same doses used in the carcinogenicity study.
 An increase in mammary gland neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be prolactin mediated.
-The relevance for human risk of the finding of prolactin mediated endocrine tumors in rodents is unknown [see WARNINGS AND PRECAUTIONS (5.15)].
+The relevance for human risk of the finding of prolactin mediated endocrine tumors in rodents is unknown [see WARNINGS AND PRECAUTIONS (5.13)].
 
 Mutagenesis
 

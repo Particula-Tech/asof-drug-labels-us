@@ -48,8 +48,8 @@ CYP2D6 mediated oxidation appears to be a minor metabolic pathway in vivo, becau
 
 Intramuscular Administration
 
-Olanzapine for Injection results in rapid absorption with peak plasma concentrations occurring within 15 to 45 minutes.
-Based upon a pharmacokinetic study in healthy volunteers, a 5 mg dose of intramuscular Olanzapine for Injection produces, on average, a maximum plasma concentration approximately 5 times higher than the maximum plasma concentration produced by a 5 mg dose of oral olanzapine.
+Olanzapine for injection results in rapid absorption with peak plasma concentrations occurring within 15 to 45 minutes.
+Based upon a pharmacokinetic study in healthy volunteers, a 5 mg dose of intramuscular olanzapine for injection produces, on average, a maximum plasma concentration approximately 5 times higher than the maximum plasma concentration produced by a 5 mg dose of oral olanzapine.
 Area under the curve achieved after an intramuscular dose is similar to that achieved after oral administration of the same dose.
 The half-life observed after intramuscular administration is similar to that observed after oral dosing.
 The pharmacokinetics are linear over the clinical dosing range.
@@ -93,3 +93,5 @@ Combined Effects
 The combined effects of age, smoking, and gender could lead to substantial pharmacokinetic differences in populations.
 The clearance in young smoking males, for example, may be 3 times higher than that in elderly nonsmoking females.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see DOSAGE AND ADMINISTRATION (2)].
+
+Adolescents (ages 13 to 17 years) — In clinical studies, most adolescents were nonsmokers and this population had a lower average body weight, which resulted in higher average olanzapine exposure compared to adults.

@@ -17,11 +17,11 @@ Seven pregnancies were observed during clinical trials with olanzapine, includin
 
 Non-Teratogenic Effects
 
-Neonates exposed to antipsychotic drugs (including Olanzapine for Injection), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+Neonates exposed to antipsychotic drugs (including olanzapine), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Olanzapine for Injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Olanzapine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 
@@ -36,11 +36,11 @@ It is recommended that women receiving olanzapine should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see WARNINGS AND PRECAUTIONS (5.5, 5.6, 5.15, 5.17) AND ADVERSE REACTIONS (6.2)].
-When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and hyperlipidemia.
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see WARNINGS AND PRECAUTIONS (5.4, 5.13, 5.15 and ADVERSE REACTIONS (6.4)].
+When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
 Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents.
 
-Safety and effectiveness of olanzapine for injection in children <18 years of age have not been established [see PATIENT COUNSELING INFORMATION (17.13)].
+Safety and effectiveness of olanzapine in children <13 years of age have not been established [see PATIENT COUNSELING INFORMATION (17.13)].
 
 ## 8.5 Geriatric Use
 
@@ -48,4 +48,4 @@ Studies in elderly patients with dementia-related psychosis have suggested that 
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
 In placebo-controlled studies of olanzapine in elderly patients with dementia related psychosis, there was a higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) in patients treated with olanzapine compared to patients treated with placebo.
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
-Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see BOXED WARNING AND WARNINGS AND PRECAUTIONS (5.1)].
+Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
