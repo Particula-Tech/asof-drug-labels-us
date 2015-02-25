@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA203534"
+  ],
+  "inn": "irbesartan",
+  "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-447-05",
+    "59746-447-30",
+    "59746-447-90",
+    "59746-448-05",
+    "59746-448-30",
+    "59746-448-90",
+    "59746-449-05",
+    "59746-449-30",
+    "59746-449-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "IRBESARTAN"
+    }
+  ],
+  "setid": "068224c4-a34d-32d7-bb2a-7eed44ccf7d3",
+  "source": "dailymed"
+}

@@ -1,0 +1,7 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 59746-447-30 Irbesartan Tablets, USP 75 mg 30 Tablets Rx Only CADISTATM
+
+NDC 59746-448-30 Irbesartan Tablets, USP 150 mg 30 Tablets Rx Only CADISTATM
+
+NDC 59746-449-30 Irbesartan Tablets, USP 300 mg 30 Tablets Rx Only CADISTATM
