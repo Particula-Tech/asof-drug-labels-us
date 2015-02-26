@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021813"
+  ],
+  "inn": "estradiol",
+  "labeler": "MEDA Pharmaceuticals",
+  "package_ndcs": [
+    "0037-4801-35",
+    "0037-4802-35"
+  ],
+  "products": [
+    {
+      "form": "GEL, METERED",
+      "generic": "estradiol gel 0.06%",
+      "name": "ELESTRIN"
+    }
+  ],
+  "setid": "eff2dea1-f117-11e3-ac10-0800200c9a66",
+  "source": "dailymed"
+}
