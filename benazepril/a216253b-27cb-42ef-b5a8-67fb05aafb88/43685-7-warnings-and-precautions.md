@@ -36,7 +36,7 @@ In such patients, benazepril HCl therapy should be started under close medical s
 If hypotension occurs, the patient should be placed in a supine position, and, if necessary, treated with intravenous infusion of physiological saline.
 Benazepril HCl treatment usually can be continued following restoration of blood pressure and volume.
 
-Fetal toxicity
+## Fetal toxicity
 
 Pregnancy category D
 
@@ -45,7 +45,7 @@ Resulting oligohydramnios can be associated with fetal lung hypoplasia and skele
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue benazepril HCl as soon as possible.
 These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
-Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the rennin-angiotensin system from other antihypertensive agents.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
@@ -82,7 +82,9 @@ Hyperkalemia: In clinical trials, hyperkalemia (serum potassium at least 0.5 mEq
 In most cases, these were isolated values which resolved despite continued therapy.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with benazepril HCl (see Drug Interactions).
 
-Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
+## Cough:
+
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
 
 Surgery/Anesthesia: In patients undergoing surgery or during anesthesia with agents that produce hypotension, benazepril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release.
@@ -106,7 +108,7 @@ Hyperkalemia: Patients should be told not to use potassium supplements or salt s
 
 Neutropenia: Patients should be told to promptly report any indication of infection (e.g., sore throat, fever), which could be a sign of neutropenia.
 
-Drug Interactions
+## Drug Interactions
 
 Diuretics: Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with benazepril HCl.
 The possibility of hypotensive effects with benazepril HCl can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with benazepril HCl.
@@ -131,8 +133,10 @@ Monitor renal function periodically in patients receiving benazepril and NSAID t
 
 The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
 
-Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Closely monitor blood pressure, renal function and electrolytes in patients on benazepril HCl and other agents that block the RAS.
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypertension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
+In general, avoid combined use of RAS inhibitors.
+Closely monitor blood pressure, renal function and electrolytes in patients on benazepril HCl and other agents that affect the RAS.
 
 Do not co-administer aliskiren with benazepril HCl in patients with diabetes.
 Avoid use of aliskiren with benazepril HCl in patients with renal impairment (GFR <60 ml/min).
@@ -166,7 +170,7 @@ No overall differences in effectiveness or safety were observed between these pa
 Benazepril and benazeprilat are substantially excreted by the kidney.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-Pediatric Use
+## Pediatric Use
 
 Neonates with a history of in utero exposure to benazepril HCl:
 
@@ -177,7 +181,7 @@ Benazepril, which crosses the placenta, can theoretically be removed from the ne
 The antihypertensive effects of benazepril HCl have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacodynamics,Hypertension).
 The pharmacokinetics of benazepril HCl have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 Benazepril HCl was generally well tolerated and adverse effects were similar to those described in adults.
-(See ADVERSE REACTIONS: Pediatric Patients.)
+(See ADVERSE REACTIONS: Pediatric Patients).
 The long-term effects of benazepril on growth and development have not been studied.
 Infants below the age of 1 year should not be given benazepril HCl because of the risk of effects on kidney development.
 

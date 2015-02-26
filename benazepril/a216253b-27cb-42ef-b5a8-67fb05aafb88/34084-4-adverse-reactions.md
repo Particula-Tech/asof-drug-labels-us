@@ -34,7 +34,9 @@ Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection,
 
 Another potentially important adverse experience, eosinophilic pneumonitis, has been attributed to other ACE inhibitors.
 
-Pediatric Patients: The adverse experience profile for pediatric patients appears to be similar to that seen in adult patients.
+## Pediatric Patients:
+
+The adverse experience profile for pediatric patients appears to be similar to that seen in adult patients.
 
 Clinical Laboratory Test Findings
 
