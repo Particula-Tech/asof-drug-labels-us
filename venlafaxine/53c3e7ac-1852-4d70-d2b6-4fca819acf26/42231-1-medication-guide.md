@@ -272,7 +272,7 @@ This Medication Guide summarizes the most important information about EFFEXOR XR
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about EFFEXOR XR that is written for healthcare professionals.
 
-For more information about EFFEXOR XR call 1-800-934-5556 or go to www.
+For more information about EFFEXOR XR call 1-800-438-1985 or go to www.
 EFFEXOR XR.com.
 
 What are the ingredients in EFFEXOR XR?
@@ -288,6 +288,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0542-4.0
+LAB-0542-5.0
 
-May 2014
+Feb 2015
