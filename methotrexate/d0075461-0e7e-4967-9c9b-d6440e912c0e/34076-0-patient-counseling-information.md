@@ -9,10 +9,10 @@ Advise patients of the need for close follow-up, including periodic laboratory t
 
 Importance of Proper Dosing and Administration
 
-Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken once weekly and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosing and Administration (2)].
+Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken once weekly and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2)].
 
 Rasuvo is intended for use under the guidance and supervision of a physician.
-Patients should not self- administer until they receive training from a healthcare professional.
+Patients should not self-administer until they receive training from a healthcare professional.
 The patient's or caregiver's ability to administer Rasuvo should be assessed.
 
 Patients should be instructed to use administration sites on the abdomen or the thigh.

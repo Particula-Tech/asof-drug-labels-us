@@ -34,7 +34,7 @@ Serious neurotoxicity, frequently manifested as generalized or focal seizures, h
 ## 8.5 Geriatric Use
 
 Clinical studies of methotrexate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population [see Warnings and Precautions (5.1) Drug Interactions (7.7) and Use in Specific Populations (8.7)].
+In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population [see Warnings and Precautions (5.1), Drug Interactions (7.7) and Use in Specific Populations (8.7)].
 Since decline in renal function may be associated with increases in adverse reactions and serum creatinine measurements may over estimate renal function in the elderly, more accurate methods (i.e., creatinine clearance) should be considered.
 Serum methotrexate levels may also be helpful.
 Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.

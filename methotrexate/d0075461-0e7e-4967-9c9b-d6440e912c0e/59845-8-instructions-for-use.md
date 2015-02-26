@@ -1,4 +1,4 @@
-Read this Instructions for Use before using Rasuvo™ (ruh-SOO-voh) (methotrexate) injection, for subcutaneous use Follow these instructions each time you use Rasuvo™.
+Read this Instructions for Use before using Rasuvo® (ruh-SOO-voh) (methotrexate) injection, for subcutaneous use Follow these instructions each time you use Rasuvo®.
 
 | Parts of your Rasuvo auto-injector |  |
 | --- | --- |
@@ -55,6 +55,8 @@ STEP 1: Remove the Yellow Cap (see Figure F)
 - Hold the Rasuvo auto-injector with one hand in the handling area.
 - Use your other hand to pull the yellow cap straight off (see Figure F). Do not twist the cap.
   If you are unable to remove the cap, ask a caretaker for assistance.
+- You may notice 1 or 2 drops of medicine.
+  This is normal.
   - (Figure F)
 
 Caution!
@@ -104,8 +106,8 @@ STEP 5: Dispose of Rasuvo
 
 - Each Rasuvo can be used only 1 time.
 - Do not throw away in the household trash.
-  Put used Rasuvo in a FDA-cleared sharps disposal container right away after use.
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  Put used Rasuvo in an FDA-cleared sharps disposal container right away after use.
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
   - upright and stable during use
@@ -131,4 +133,4 @@ Manufactured for: Medac Pharma Inc.
 
 29 N Wacker Drive, Suite 704 Chicago, IL 60606
 
-07/2014
+11/2014

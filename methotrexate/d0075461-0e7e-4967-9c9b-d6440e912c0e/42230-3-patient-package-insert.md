@@ -1,13 +1,13 @@
 # PATIENT INFORMATION
 
-RASUVO™ (ruh-SOO-voh) (methotrexate) injection, for subcutaneous use
+RASUVO® (ruh-SOO-voh) (methotrexate) injection, for subcutaneous use
 
 What is Rasuvo?
 
 Rasuvo is a single-dose manually-triggered auto-injector containing a prescription medicine, methotrexate.
 Methotrexate is used to:
 
-- treat certain adults with severe, active rheumatoid arthritis (RA), and children with active polyarticular juvenile idiopathic arthritis (pJIA), after treatment with other medicines including non-steroidal anti-inflammatory (NSAIDS) have been used and did not work well.
+- treat certain adults with severe, active rheumatoid arthritis (RA), and children with active polyarticular juvenile idiopathic arthritis (pJIA), after treatment with other medicines including non-steroidal anti-inflammatory (NSAIDs) have been used and did not work well.
 - control the symptoms of severe, resistant, disabling psoriasis in adults when other types of treatment have been used and did not work well.
 
 Rasuvo is available in doses of 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25, 27.5 and 30 mg.
@@ -129,8 +129,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I dispose of Rasuvo?
 
 - Do not throw away in the household trash.
-  Put used Rasuvo in a FDA-cleared sharps disposal container right away after use.
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  Put used Rasuvo in an FDA-cleared sharps disposal container right away after use.
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
   - upright stable during use
@@ -154,7 +154,7 @@ Keep Rasuvo and all medicines out of the reach of children.
 
 General information about the safe and effective use of Rasuvo.
 
-Methotrexate is sometimes prescribed for purposes other than those listed in Patient Information leaflet.
+Methotrexate is sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
 Do not use Rasuvo for a condition for which it was not prescribed.
 Do not give Rasuvo to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -179,4 +179,4 @@ Medac Pharma, Inc.
 
 29 N Wacker Drive, Suite 704 Chicago, IL 60606
 
-Issued: 07/2014
+Issued: 11/2014

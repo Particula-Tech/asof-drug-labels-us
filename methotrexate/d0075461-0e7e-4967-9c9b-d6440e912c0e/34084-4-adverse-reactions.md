@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Rheumatoid Arthritis
 
 The approximate incidences of methotrexate-attributed (i.e. placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (n=128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate, are listed below.
-Virtually all of these patients were on concomitant nonsteroidal anti- inflammatory drugs and some were also taking low dosages of corticosteroids.
+Virtually all of these patients were on concomitant nonsteroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
 Hepatic histology was not examined in these short-term studies.
 
 Incidence greater than 10%: Elevated liver function tests 15%, nausea/vomiting 10%.
@@ -74,5 +74,5 @@ Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary cha
 
 Urogenital System: severe nephropathy or renal failure, azotemia, cystitis, hematuria, proteinuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal death, fetal defects.
 
-Other rarer reactions related to or attributed to the use of methotrexate such as nodulosis, vasculitis, arthralgia/myalgia, loss of libido/ impotence, diabetes, osteoporosis, sudden death, lymphoma, including reversible lymphomas, tumor lysis syndrome, soft tissue necrosis and osteonecrosis.
+Other rarer reactions related to or attributed to the use of methotrexate such as nodulosis, vasculitis, arthralgia/myalgia, loss of libido/impotence, diabetes, osteoporosis, sudden death, lymphoma, including reversible lymphomas, tumor lysis syndrome, soft tissue necrosis and osteonecrosis.
 Anaphylactoid reactions have been reported.

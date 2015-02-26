@@ -92,7 +92,7 @@ Discontinuation of methotrexate does not always result in complete recovery.
 A transient acute neurologic syndrome has been observed in patients treated with high dose regimens.
 Manifestations of this stroke-like encephalopathy may include confusion, hemiparesis, transient blindness, seizures and coma.
 The exact cause is unknown.
-After the intrathecal use of methotrexate, the central nervous system toxicity which may occur can be classified as follows: acute chemical arachnoiditis manifested by such symptoms as headache, back pain, nuchal rigidity, and fever; sub- acute myelopathy characterized by paraparesis/paraplegia associated with involvement with one or more spinal nerve roots; chronic leukoencephalopathy manifested by confusion, irritability, somnolence, ataxia, dementia, seizures and coma.
+After the intrathecal use of methotrexate, the central nervous system toxicity which may occur can be classified as follows: acute chemical arachnoiditis manifested by such symptoms as headache, back pain, nuchal rigidity, and fever; sub-acute myelopathy characterized by paraparesis/paraplegia associated with involvement with one or more spinal nerve roots; chronic leukoencephalopathy manifested by confusion, irritability, somnolence, ataxia, dementia, seizures and coma.
 This condition can be progressive and even fatal.
 
 Pulmonary:
@@ -108,7 +108,7 @@ Renal:
 
 Rasuvo may cause renal damage that may lead to acute renal failure.
 High doses of methotrexate used in the treatment of osteosarcoma may cause renal damage leading to acute renal failure.
-Nephrotoxicity is due primarily to the precipitation of methotrexate and 7- hydroxymethotrexate in the renal tubules.
+Nephrotoxicity is due primarily to the precipitation of methotrexate and 7-hydroxymethotrexate in the renal tubules.
 Close attention to renal function including adequate hydration, urine alkalinization and measurement of serum methotrexate and creatinine levels are essential for safe administration.
 
 Skin:
@@ -181,7 +181,7 @@ Adverse reactions, such as dizziness and fatigue, may affect the ability to driv
 ## 5.8 Malignant Lymphomas
 
 Non-Hodgkin's lymphoma and other tumors have been reported in patients receiving low-dose oral methotrexate.
-However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active anti- lymphoma treatment.
+However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active anti-lymphoma treatment.
 Discontinue Rasuvo first and, if the lymphoma does not regress, appropriate treatment should be instituted.
 
 ## 5.9 Tumor Lysis Syndrome
