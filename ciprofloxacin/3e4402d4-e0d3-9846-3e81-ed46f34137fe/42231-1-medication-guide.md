@@ -315,6 +315,6 @@ Brands listed are the trademarks of their respective owners.
 
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2014
+Revised: November 2014

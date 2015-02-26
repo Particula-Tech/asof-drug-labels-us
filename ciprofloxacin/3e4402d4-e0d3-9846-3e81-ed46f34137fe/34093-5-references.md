@@ -2,8 +2,7 @@
 
 1. Clinical and Laboratory Standards Institute, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – 9th Edition.
    CLSI Document M7-A9, CLSI, 950 West Valley Rd., Suite 2500, Wayne, PA, January, 2012.
-2. CLSI.
-   Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11th Edition.
+2. CLSI, Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 11th Edition.
    CLSI Document M2-A11,CLSI, Wayne, PA, January, 2012.
 3. CLSI.
    Performance Standards for Antimicrobial Susceptibility Testing; 22nd Informational Supplement.
@@ -32,6 +31,6 @@ Brands listed are the trademarks of their respective owners.
 
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2014
+Revised: November 2014

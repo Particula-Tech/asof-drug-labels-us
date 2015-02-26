@@ -106,3 +106,5 @@ Hematologic - Eosinophilia (0.6%), leukopenia (0.4%), decreased blood platelets 
 Renal - Elevations of serum creatinine (1.1%), BUN (0.9%), crystalluria, cylindruria, and hematuria have been reported.
 
 Other changes occurring in less than 0.1% of courses were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
