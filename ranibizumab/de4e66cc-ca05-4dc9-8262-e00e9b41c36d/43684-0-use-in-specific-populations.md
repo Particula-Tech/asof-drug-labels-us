@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no studies of LUCENTIS in pregnant women.
+There are no studies of LUCENTIS in pregnant women.
 An embryo-fetal developmental toxicity study was performed on pregnant cynomolgus monkeys.
 Pregnant animals received intravitreal injections of ranibizumab every 14 days starting on Day 20 of gestation, until Day 62 at doses of 0, 0.125, and 1 mg/eye.
 Skeletal abnormalities including incomplete and/or irregular ossification of bones in the skull, vertebral column, and hindlimbs and shortened supernumerary ribs were seen at a low incidence in fetuses from animals treated with 1 mg/eye of ranibizumab.

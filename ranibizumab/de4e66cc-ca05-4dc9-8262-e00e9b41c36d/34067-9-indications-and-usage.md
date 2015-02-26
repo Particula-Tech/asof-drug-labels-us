@@ -7,3 +7,5 @@ LUCENTIS is indicated for the treatment of patients with:
 ## 1.2 Macular Edema Following Retinal Vein Occlusion (RVO)
 
 ## 1.3 Diabetic Macular Edema (DME)
+
+## 1.4 Diabetic Retinopathy (Non Proliferative Diabetic Retinopathy (NPDR), Proliferative Diabetic Retinopathy (PDR)) in patients with Diabetic Macular Edema (DME)

@@ -118,12 +118,15 @@ p < 0.01 for all time points
 
 ## 14.3 Diabetic Macular Edema (DME)
 
+Efficacy and safety data of LUCENTIS are derived from studies D-1 and D-2 (See Section 14.4 Diabetic Retinopathy below).
+All enrolled patients had DR and DME at baseline.
+
 The safety and efficacy of LUCENTIS were assessed in two randomized, double-masked, 3-year studies in patients with DME.
 The studies were sham-controlled through Month 24.
 Patient age ranged from 21 to 91 years, with a mean age of 62 years.
 A total of 759 patients (LUCENTIS 0.3 mg, 250 patients; LUCENTIS 0.5 mg, 252 patients; sham, 257 patients) were enrolled, with 582 (77%) completing through Month 36.
 
-In Studies DME-1 and DME-2, patients received monthly LUCENTIS 0.3 mg or 0.5 mg intravitreal injections or monthly sham injections during the 24-month controlled treatment period.
+In Studies D-1 and D-2, patients received monthly LUCENTIS 0.3 mg or 0.5 mg intravitreal injections or monthly sham injections during the 24-month controlled treatment period.
 From Months 25 through 36, patients who previously received sham were eligible to receive monthly LUCENTIS 0.5 mg and patients originally randomized to monthly LUCENTIS 0.3 mg or 0.5 mg continued to receive their assigned dose.
 All patients were eligible for macular focal/grid laser treatment beginning at Month 3 of the 24-month treatment period or panretinal photocoagulation (PRP) as needed.
 Through Month 24, macular focal/grid laser treatment was administered in 94 of 250 (38%) patients treated with LUCENTIS 0.3 mg and 185 of 257 (72%) patients treated with sham; PRP was administered in 2 of 250 (1%) patients treated with LUCENTIS 0.3 mg and 30 of 257 (12%) patients treated with sham.
@@ -131,18 +134,18 @@ Through Month 24, macular focal/grid laser treatment was administered in 94 of 2
 Compared to monthly LUCENTIS 0.3 mg, no additional benefit was observed with monthly treatment with LUCENTIS 0.5 mg.
 At Month 24, after monthly treatment with LUCENTIS 0.3 mg, the following clinical results were observed:
 
-Table 6 Visual Acuity Outcomes at Month 24 in Study DME-1 and Study DME-2
+Table 6 Visual Acuity Outcomes at Month 24 in Study D-1 and Study D-2
 
-| Outcome Measure | StudyDME-1: Sham, n=130; LUCENTIS 0.3 mg, n=125 DME-2: Sham, n=127; LUCENTIS 0.3 mg, n=125 | Sham | LUCENTIS 0.3 mg | Estimated Difference (95% CI)Adjusted estimate based on stratified model; p ≤ 0.01 |
+| Outcome Measure | StudyD-1: Sham, n=130; LUCENTIS 0.3 mg, n=125 D-2: Sham, n=127; LUCENTIS 0.3 mg, n=125 | Sham | LUCENTIS 0.3 mg | Estimated Difference (95% CI)Adjusted estimate based on stratified model; p ≤ 0.01 |
 | --- | --- | --- | --- | --- |
-| Gain of ≥15 letters in visual acuity (%) | DME-1 | 12% | 34% | 21% (11%, 30%) |
-| DME-2 | 18% | 45% | 24% (14%, 35%) |  |
-| Loss of <15 letters in visual acuity (%) | DME-1 | 92% | 98% | 7% (2%, 13%) |
-| DME-2 | 90% | 98% | 8% (2%, 14%) |  |
-| Mean change in visual acuity (letters) | DME-1 | 2.3 | 10.9 | 8.5 (5.4, 11.5) |
-| DME-2 | 2.6 | 12.5 | 9.6 (6.1, 13.0) |  |
+| Gain of ≥15 letters in visual acuity (%) | D-1 | 12% | 34% | 21% (11%, 30%) |
+| D-2 | 18% | 45% | 24% (14%, 35%) |  |
+| Loss of <15 letters in visual acuity (%) | D-1 | 92% | 98% | 7% (2%, 13%) |
+| D-2 | 90% | 98% | 8% (2%, 14%) |  |
+| Mean change in visual acuity (letters) | D-1 | 2.3 | 10.9 | 8.5 (5.4, 11.5) |
+| D-2 | 2.6 | 12.5 | 9.6 (6.1, 13.0) |  |
 
-| Figure 6 Mean Change in Visual Acuity from Baseline to Month 36 in Study DME-1 and Study DME-2 |
+| Figure 6 Mean Change in Visual Acuity from Baseline to Month 36 in Study D-1 and Study D-2 |
 | --- |
 
 p < 0.01 for all time points comparing LUCENTIS 0.3 mg to sham through Month 24
@@ -150,6 +153,36 @@ p < 0.01 for all time points comparing LUCENTIS 0.3 mg to sham through Month 24
 VA outcomes observed at Month 24 in patients treated with LUCENTIS 0.3 mg were maintained with continued treatment through Month 36 in both DME studies.
 Patients in the sham arms who received LUCENTIS 0.5 mg beginning at Month 25 achieved lesser VA gains compared to patients who began treatment with LUCENTIS at the beginning of the studies.
 
-In Studies DME-1 and DME-2, patients received monthly injections of LUCENTIS for 12 or 36 months, after which 500 patients opted to continue in the long-term follow-up study.
+In Studies D-1 and D-2, patients received monthly injections of LUCENTIS for 12 or 36 months, after which 500 patients opted to continue in the long-term follow-up study.
 Of 298 patients who had at least 12 months of follow-up from Month 36, 58 (19.5%) patients maintained vision with no further therapy.
 The remaining 202 patients were followed for less than 12 months.
+
+## 14.4 Diabetic Retinopathy in patients with Diabetic Macular Edema (DME)
+
+Efficacy and safety data of LUCENTIS are derived from studies D-1 and D-2 (See Section 14.3 Diabetic Macular Edema above).
+All enrolled patients had DR and DME at baseline.
+
+Of the 759 patients enrolled, 746 patients had a baseline assessment of fundus photography.
+Patients had baseline Early Treatment Diabetic Retinopathy Study (ETDRS) Retinopathy Severity Scores (ETDRS-RSS) ranging from 10 to 75.
+At baseline, 62% of patients had NPDR (ETDRS-RSS less than 60) and 31% had PDR (ETDRS-RSS greater than or equal to 60).
+
+The ETDRS-RSS could not be graded in 5% of patients at baseline, and 2% of patients had absent or questionable DR at baseline.
+Approximately 20% of the overall population had prior PRP.
+
+After monthly treatment with LUCENTIS 0.3 mg, the following clinical results were observed (Table 7; Figure 7):
+
+Table 7 ≥3-step and ≥2-step improvement at Month 24 in Study D-1 and Study D-2
+
+| Outcome Measure | StudyD-1: Sham, n=124; LUCENTIS 0.3 mg, n=117 D-2: Sham, n=115; LUCENTIS 0.3 mg, n=117 | Sham | LUCENTIS 0.3 mg | Estimated Difference (95% CI)Adjusted estimate based on stratified model |
+| --- | --- | --- | --- | --- |
+| ≥3-step improvement from baseline in ETDRS-DRSS p < 0.05 for all time points comparing LUCENTIS 0.3 mg to sham from Month 12 through Month 24 | D-1 | 2% | 17% | 15% (7%, 22%) |
+| D-2 | 0% | 9% | 9% (4%, 14%) |  |
+| ≥2-step improvement from baseline in ETDRS-DRSS p < 0.05 for all time points comparing LUCENTIS 0.3 mg to sham from Month 3 through Month 24 | D-1 | 4% | 39% | 35% (26%, 44%) |
+| D-2 | 7% | 37% | 31% (21%, 40%) |  |
+
+At Month 24, DR improvement by ≥3-steps in ETDRS-RSS from baseline in subgroups examined (e.g., age, gender, race, baseline visual acuity, baseline HbA1c, prior DME therapy at baseline, baseline DR severity (NPDR, PDR)) were generally consistent with the results in the overall population.
+
+The difference in the proportion of patients treated with LUCENTIS 0.3 mg compared to sham who achieved DR improvement based on the ETDRS-RSS was observed as early as Month 3 for ≥2-step improvement or at Month 12 for ≥3-step improvement.
+
+| Figure 7 Proportion of Patients with ≥3-Step and ≥2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |
+| --- |

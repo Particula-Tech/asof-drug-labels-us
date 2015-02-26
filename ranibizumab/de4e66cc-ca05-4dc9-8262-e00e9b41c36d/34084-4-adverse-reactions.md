@@ -5,7 +5,7 @@ The following adverse reactions are discussed in greater detail in the Warnings 
 - Endophthalmitis and Retinal Detachments
 - Increases in Intraocular Pressure
 - Thromboembolic Events
-- Fatal Events in DME Patients
+- Fatal Events in patients with DME and DR at baseline
 
 ## 6.1 Injection Procedure
 
@@ -16,7 +16,7 @@ Serious adverse reactions related to the injection procedure have occurred in < 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
 The data below reflect exposure to 0.5 mg LUCENTIS in 440 patients with neovascular AMD in Studies AMD-1, AMD-2, and AMD-3, and 259 patients with macular edema following RVO.
-The data also reflect exposure to 0.3 mg LUCENTIS in 250 patients with DME [see Clinical Studies (14)].
+The data also reflect exposure to 0.3 mg LUCENTIS in 250 patients with DME and DR at baseline [see Clinical Studies (14)].
 
 Safety data observed in Study AMD-4 were consistent with these results.
 On average, the rates and types of adverse reactions in patients were not significantly affected by dosing regimen.
@@ -25,11 +25,11 @@ Ocular Reactions
 
 Table 1 shows frequently reported ocular adverse reactions in LUCENTIS-treated patients compared with the control group.
 
-Table 1 Ocular Reactions in the DME, AMD, and RVO Studies
+Table 1 Ocular Reactions in the DME and DR, AMD, and RVO Studies
 
 | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | DME 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
+|  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
 | Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
 | Conjunctival hemorrhage | 47% | 32% | 74% | 60% | 64% | 50% | 48% | 37% |
 | Eye pain | 17% | 13% | 35% | 30% | 26% | 20% | 17% | 12% |
@@ -56,14 +56,14 @@ Table 1 Ocular Reactions in the DME, AMD, and RVO Studies
 
 Non-Ocular Reactions
 
-Non-ocular adverse reactions with an incidence of ≥ 5% in patients receiving LUCENTIS for DME, AMD, and/or RVO and which occurred at a ≥ 1% higher frequency in patients treated with LUCENTIS compared to control are shown in Table 2.
+Non-ocular adverse reactions with an incidence of ≥ 5% in patients receiving LUCENTIS for DR, DME, AMD, and/or RVO and which occurred at a ≥ 1% higher frequency in patients treated with LUCENTIS compared to control are shown in Table 2.
 Though less common, wound healing complications were also observed in some studies.
 
-Table 2 Non-Ocular Reactions in the DME, AMD and RVO Studies
+Table 2 Non-Ocular Reactions in the DME and DR, AMD and RVO Studies
 
 | n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | DME 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
+|  | DME and DR 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
 | Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
 | Nasopharyngitis | 12% | 6% | 16% | 13% | 8% | 9% | 5% | 4% |
 | Anemia | 11% | 10% | 8% | 7% | 4% | 3% | 1% | 1% |
@@ -97,7 +97,7 @@ After monthly dosing with LUCENTIS for 6 to 24 months, antibodies to LUCENTIS we
 
 The clinical significance of immunoreactivity to LUCENTIS is unclear at this time.
 Among neovascular AMD patients with the highest levels of immunoreactivity, some were noted to have iritis or vitritis.
-Intraocular inflammation was not observed in DME or RVO patients with the highest levels of immunoreactivity.
+Intraocular inflammation was not observed in DME and DR at baseline, or RVO patients with the highest levels of immunoreactivity.
 
 ## 6.4 Postmarketing Experience
 

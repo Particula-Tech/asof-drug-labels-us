@@ -3,13 +3,14 @@
 ## 12.1 Mechanism of Action
 
 Ranibizumab binds to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110.
-VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, macular edema following RVO, and DME.
+VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, macular edema following RVO, DR and DME.
 The binding of ranibizumab to VEGF-A prevents the interaction of VEGF-A with its receptors (VEGFR1 and VEGFR2) on the surface of endothelial cells, reducing endothelial cell proliferation, vascular leakage, and new blood vessel formation.
 
 ## 12.2 Pharmacodynamics
 
 Increased retinal thickness (i.e., center point thickness (CPT) or central foveal thickness (CFT)), as assessed by optical coherence tomography (OCT) is associated with neovascular AMD, macular edema following RVO, and DME.
 Leakage from choroidal neovascularization (CNV) as assessed by fluorescein angiography (FA) is associated with neovascular AMD.
+Microvascular retinal changes and neovascularization, as assessed by color fundus photography, are associated with diabetic retinopathy.
 
 Neovascular (Wet) Age-Related Macular Degeneration
 
@@ -35,18 +36,22 @@ Diabetic Macular Edema
 On average, CPT reductions were observed in Studies DME-1 and DME-2 beginning at Day 7 following the first LUCENTIS injection through Month 36.
 CPT data did not provide information useful in influencing treatment decisions [see Clinical Studies (14.3)].
 
+Diabetic Retinopathy in patients with Diabetic Macular Edema
+
+Improvements from baseline in DR severity as assessed on fundus photography were observed in Studies D-1 and D-2 at Month 3 (first scheduled DR photographic assessment after randomization) through Month 36 [see Clinical Studies (14.4)].
+
 ## 12.3 Pharmacokinetics
 
 In animal studies, following intravitreal injection, ranibizumab was cleared from the vitreous with a half-life of approximately 3 days.
 After reaching a maximum at approximately 1 day, the serum concentration of ranibizumab declined in parallel with the vitreous concentration.
 In these animal studies, systemic exposure of ranibizumab was more than 2000-fold lower than in the vitreous.
 
-In patients with neovascular AMD, following monthly intravitreal administration, maximum ranibizumab serum concentrations were low (0.3 ng/mL to 2.36 ng/mL).
-These levels were below the concentration of ranibizumab (11 ng/mL to 27 ng/mL) thought to be necessary to inhibit the biological activity of VEGF-A by 50%, as measured in an in vitro cellular proliferation assay.
-The maximum observed serum concentration was dose proportional over the dose range of 0.05 to 1 mg/eye.
-Serum ranibizumab concentrations in RVO and DME patients were similar to those observed in neovascular AMD patients.
+In patients with neovascular AMD, following monthly intravitreal administration of 0.5 mg LUCENTIS, mean (±SD)maximum ranibizumab serum concentrations were 1.7 (± 1.1) ng/mL These concentrations were below the concentration range of ranibizumab (11 ng/mL to 27 ng/mL) that was necessary to inhibit the biological activity of VEGF-A by 50%, as measured in an in vitro cellular proliferation assay (based on human umbilical vein endothelial cells (HUVEC)).
+No significant change from baseline was observed in the mean plasma VEGF concentrations following three monthly 0.5 mg intravitreal injections.
+The maximum observed serum concentration was dose proportional over the dose range of 0.05 to 2 mg/eye.
+Serum ranibizumab concentrations in RVO and DME and DR patients were similar to those observed in neovascular AMD patients.
 
-Based on a population pharmacokinetic analysis of patients with neovascular AMD, maximum serum concentrations of 1.5 ng/mL are predicted to be reached at approximately 1 day after monthly intravitreal administration of LUCENTIS 0.5 mg/eye.
+Based on a population pharmacokinetic analysis of patients with neovascular AMD, maximum serum concentrations are predicted to be reached at approximately 1 day after monthly intravitreal administration of LUCENTIS 0.5 mg/eye.
 Based on the disappearance of ranibizumab from serum, the estimated average vitreous elimination half-life was approximately 9 days.
 Steady-state minimum concentration is predicted to be 0.22 ng/mL with a monthly dosing regimen.
 In humans, serum ranibizumab concentrations are predicted to be approximately 90,000-fold lower than vitreal concentrations.

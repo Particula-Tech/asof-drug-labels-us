@@ -28,14 +28,18 @@ Patients should be treated monthly [see Clinical Studies (14.2)].
 
 LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL LUCENTIS solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
 
-## 2.5 Preparation for Administration
+## 2.5 Diabetic Retinopathy in patients with Diabetic Macular Edema
+
+LUCENTIS 0.3 mg (0.05 mL of 6 mg/mL LUCENTIS solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
+
+## 2.6 Preparation for Administration
 
 Using aseptic technique, all of the LUCENTIS vial contents are withdrawn through a 5-micron, 19-gauge filter needle attached to a 1-cc tuberculin syringe.
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for intravitreal injection.
 The filter needle should be replaced with a sterile 30-gauge × 1/2-inch needle for the intravitreal injection.
 The contents should be expelled until the plunger tip is aligned with the line that marks 0.05 mL on the syringe.
 
-## 2.6 Administration
+## 2.7 Administration
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a broad-spectrum microbicide should be given prior to the injection.

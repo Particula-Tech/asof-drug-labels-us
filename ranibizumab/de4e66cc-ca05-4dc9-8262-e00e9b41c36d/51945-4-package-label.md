@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 0.5 mg Vial Carton
 
-NDC 50242-080-01 10140896
+NDC 50242-080-01
 
 LUCENTIS® RANIBIZUMAB INJECTION
 
@@ -20,17 +20,19 @@ Rx only
 
 Genentech
 
+10149810
+
 PRINCIPAL DISPLAY PANEL - 0.3 mg Vial Carton
 
-NDC 50242-082-01 10140898
+NDC 50242-082-01
 
 LUCENTIS® RANIBIZUMAB INJECTION
 
 0.3 mg DOSE SINGLE-USE VIAL
 
-INDICATED FOR Diabetic macular edema (DME)
+INDICATED FOR Diabetic macular edema (DME) Diabetic retinopathy (DR) with DME
 
-0.3 mg DME
+0.3 mg DME | DR with DME
 
 For intravitreal injection only.
 
@@ -41,3 +43,5 @@ PROTECT VIAL FROM DIRECT SUNLIGHT.
 Rx only
 
 Genentech
+
+10149808
