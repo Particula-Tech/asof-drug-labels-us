@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA206538"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Sanofi-Aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5869-01",
+    "0024-5869-03",
+    "0024-5869-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "TOUJEO"
+    }
+  ],
+  "setid": "c9561d96-124d-48ca-982f-0aa1575bff36",
+  "source": "dailymed"
+}
