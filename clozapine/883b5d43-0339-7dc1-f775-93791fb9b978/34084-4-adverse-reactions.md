@@ -130,6 +130,8 @@ Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible
 
 Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
 
+Endocrine System: Pseudopheochromocytoma
+
 Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
 
 Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.

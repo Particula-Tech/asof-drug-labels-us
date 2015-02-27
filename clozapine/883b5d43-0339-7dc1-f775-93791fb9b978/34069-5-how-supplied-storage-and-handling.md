@@ -21,7 +21,7 @@ NDC 0378-0860-01 bottles of 100 tablets
 
 NDC 0378-0860-05 bottles of 500 tablets
 
-The 200 mg tablets are round, green, scored tablets debossed with C73 above the score and blank below the score on one side of the tablet and M on the other side.
+The 200 mg tablets are green round, scored tablets debossed with C73 above the score and blank below the score on one side of the tablet and M on the other side.
 They are available as follows:
 
 NDC 0378-0973-01 bottles of 100 tablets

@@ -3,7 +3,7 @@
 ## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
 
 Prior to initiating treatment with clozapine tablets, obtain a complete blood count (CBC) with differential.
-The absolute neutrophil count (ANC) must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500 mm3 in order to initiate treatment.
+The absolute neutrophil count (ANC) must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500/mm3 in order to initiate treatment.
 To continue treatment, the ANC and WBC must be monitored regularly [see Warnings and Precautions (5.1)].
 
 ## 2.2 Dosing Information

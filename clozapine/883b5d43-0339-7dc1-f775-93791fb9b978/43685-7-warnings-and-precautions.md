@@ -84,9 +84,6 @@ If acceptable WBC counts and ANC (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) c
 
 Figure 1 provides instructions regarding re-initiating therapy and subsequently the frequency of WBC count and ANC monitoring after a period of interruption.
 
-Figure 1.
-Resuming Monitoring Frequency after Interruption of Therapy
-
 ## 5.2 Clozapine Prescription Access System (CPAS) Because of the Risk of Agranulocytosis
 
 Because of the risk of agranulocytosis, clozapine tablets are available only through a restricted program called the Clozapine Prescription Access System (CPAS).
@@ -95,7 +92,7 @@ Under CPAS, prescribers, patients, pharmacies and distributors must enroll in th
 Required components of CPAS are:
 
 - •Healthcare professionals who prescribe clozapine tablets must enroll in the program and comply with the CPAS requirements.
-  - •Pharmacies that dispense clozapine tablets must enroll in the program and comply with the CPAS requirements.
+- •Pharmacies that dispense clozapine tablets must enroll in the program and comply with the CPAS requirements.
 - •Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with clozapine tablets [see Warnings and Precautions (5.1)].
 - •Patients who receive clozapine tablets must be enrolled in the Clozapine Prescription Access System (CPAS).
 
@@ -154,7 +151,7 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Clozapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.7. Eosinophilia
+## 5.7 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/mm3, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -240,7 +237,8 @@ No data were collected on LDL and HDL cholesterol.
 The mean increase in total cholesterol was 13 mg/dL in the clozapine group and 15 mg/dL in the chlorpromazine group.
 In a pooled data analysis of 2 studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in fasting serum triglyceride.
 The mean increase in fasting triglyceride was 71 mg/dL (54%) in the clozapine group and 39 mg/dL (35%) in the chlorpromazine group (Table 4).
-In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
+In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.
+The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
 The median duration of clozapine and chlorpromazine exposure was 45 days and 38 days, respectively.
 The clozapine dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
 

@@ -22,7 +22,7 @@ Approximately 88% of patients from the clozapine and chlorpromazine groups compl
 At the end of 6 weeks, 30% of the clozapine group responded to treatment, and 4% of the chlorpromazine group responded to treatment.
 The difference was statistically significant (p < 0.001).
 The mean change in total BPRS score was -16 and -5 in the clozapine and chlorpromazine group, respectively; the mean change in the 4 key BPRS item scores was -5 and -2 in the clozapine and chlorpromazine group, respectively; and the mean change in CGI-S score was -1.2 and -0.4, in the clozapine and chlorpromazine group, respectively.
-These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p< 0.001 in each analysis).
+These changes in the clozapine group were statistically significantly greater than in the chlorpromazine group (p < 0.001 in each analysis).
 
 ## 14.2 Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorder
 
@@ -55,6 +55,3 @@ Patients treated with clozapine had a statistically significant longer delay in 
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.
 
 The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% vs. olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 2).
-
-Figure 2.
-Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide in Patients with Schizophrenia or Schizoaffective Disorder at High Risk of Suicidality

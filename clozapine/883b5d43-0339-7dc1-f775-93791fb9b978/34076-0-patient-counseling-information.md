@@ -6,11 +6,11 @@ Discuss the following issues with patients and caregivers:
 
 - •Agranulocytosis: Prior to initiating treatment, educate patients and caregivers about the significant risk of developing agranulocytosis.
   Advise them to immediately report the appearance of signs or symptoms consistent with agranulocytosis or infection (e.g., fever; mucus membrane ulcers; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) at any time during clozapine tablet therapy [see Boxed Warning and Warnings and Precautions (5.1)].
-  - •Inform patients and caregivers that clozapine tablets will be made available only through a special program (Clozapine Prescription Access System) designed to ensure the required blood monitoring, in order to reduce the risk of developing agranulocytosis.
+  - oInform patients and caregivers that clozapine tablets will be made available only through a special program (Clozapine Prescription Access System) designed to ensure the required blood monitoring, in order to reduce the risk of developing agranulocytosis.
     Inform patients and caregivers the WBC count and ANC will be monitored as follows:
-    - •Weekly blood tests are required for the first 6 months.
-    - •If acceptable WBC counts and ANCs (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
-    - •Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
+    - ▪Weekly blood tests are required for the first 6 months.
+    - ▪If acceptable WBC counts and ANCs (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
+    - ▪Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
   Instruct them to strictly follow the clinician’s instructions for dosage and administration.
   Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
@@ -36,4 +36,4 @@ Discuss the following issues with patients and caregivers:
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2014 CLOZ:R18
+REVISED FEBRUARY 2015 CLOZ:R19
