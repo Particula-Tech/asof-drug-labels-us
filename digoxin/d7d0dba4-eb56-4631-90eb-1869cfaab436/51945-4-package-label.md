@@ -8,12 +8,12 @@ LANOXIN® (digoxin) Tablets, USP
 
 Each tablet contains 62.5 mcg (0.0625 mg)
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
 
 Made in Germany Rx only
 
-100089 Rev.
-3/13
+100194 Rev.
+9/14
 
 See prescribing information for dosage information.
 Store at 25°C (77°F) in a dry place and protect from light (see insert).
@@ -25,8 +25,6 @@ Lot/Exp Area
 
 # PRINCIPAL DISPLAY PANEL - 125 MCG TABLET
 
-125 mcg Tablet
-
 NDC 24987-242-55 100 Tablets
 
 LANOXIN® (digoxin) Tablets, USP
@@ -35,12 +33,12 @@ LANOXIN® (digoxin) Tablets, USP
 
 Each scored tablet contains 125 mcg (0.125 mg)
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
 
 Made in Germany Rx only
 
-100094 Rev.
-3/13
+100190 Rev.
+9/14
 
 See prescribing information for dosage information.
 Store at 25°C (77°F) in a dry place and protect from light (see insert).
@@ -60,12 +58,12 @@ LANOXIN® (digoxin) Tablets, USP
 
 Each tablet contains 187.5 mcg (0.1875 mg)
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
 
 Made in Germany Rx only
 
-100091 Rev.
-3/13
+100195 Rev.
+9/14
 
 See prescribing information for dosage information.
 Store at 25°C (77°F) in a dry place and protect from light (see insert).
@@ -85,55 +83,18 @@ LANOXIN® (digoxin) Tablets, USP
 
 Each scored tablet contains 250 mcg (0.25 mg)
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
 
 Made in Germany Rx only
 
-100098 Rev.
-3/13
+100192 Rev.
+9/14
 
 See prescribing information for dosage information.
 Store at 25°C (77°F) in a dry place and protect from light (see insert).
 Dispense in tight, light-resistant container as defined in the USP.
 Keep out of reach of children.
 Do not use if printed safety seal under cap is broken or missing.
-
-Lot/Exp Area
-
-# PRINCIPAL DISPLAY PANEL - 62.5 MCG TABLET - SAMPLE
-
-NDC 24987-240-30 30 Tablets
-
-LANOXIN® digoxin Tablets, USP
-
-62.5 mcg (0.0625 mg)
-
-Each tablet contains 62.5 mcg (0.0625 mg)
-
-SAMPLE - NOT FOR SALE
-
-Rx only
-
-Keep out of reach of Children.
-
-Do not use if safety seal under cap is broken or missing.
-
-See prescribing information for dosage information.
-Dispense in tight, light-resistant container.
-Store at 25°C (77°F) in a dry place and protect from light.
-
-COVIS
-
-Distributed by Covis Pharmaceuticals, Inc. Cary, NC 27511
-
-www.covispharma.com
-
-Manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27834
-
-Made in Germany
-
-100101 Rev.
-3/13
 
 Lot/Exp Area
 
@@ -149,12 +110,12 @@ Each scored tablet contains 125 mcg (0.125 mg)
 
 GOVERNMENT USE ONLY
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
 
 Made in USA Rx only
 
-100123 Rev.
-5/13
+100196 Rev.
+9/14
 
 See prescribing information for dosage information.
 Store at 25°C (77°F) in a dry place and protect from light (see insert).
@@ -176,47 +137,17 @@ Each scored tablet contains 250 mcg (0.25 mg)
 
 GOVERNMENT USE ONLY
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
 
 Made in USA Rx only
 
-100125 Rev.
-5/13
+100198 Rev.
+9/14
 
 See prescribing information for dosage information.
 Store at 25°C (77°F) in a dry place and protect from light (see insert).
 Dispense in tight, light-resistant container as defined in the USP.
 Keep out of reach of children.
 Do not use if printed safety seal under cap is broken or missing.
-
-Lot/Exp Area
-
-# PRINCIPAL DISPLAY PANEL - 62.5 MCG TABLET - SAMPLE
-
-NDC 24987-240-07 7 Tablets
-
-LANOXIN® (digoxin) Tablets, USP
-
-62.5 mcg (0.0625 mg)
-
-Each tablet contains 62.5 mcg (0.0625 mg)
-
-SAMPLE – NOT FOR SALE
-
-Rx only
-
-Keep out of reach of Children.
-
-Do not use if safety seal under cap is broken or missing.
-
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511
-
-www.covispharma.com
-
-See prescribing information for dosage information.
-Dispense in tight, light-resistant container.
-Store at 25°C (77°F) in a dry place and protect from light.
-Made in Germany 100185 Rev.
-4/14
 
 Lot/Exp Area
