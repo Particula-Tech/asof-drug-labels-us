@@ -5,7 +5,7 @@ Medroxyprogesterone acetate is active by the parenteral and oral routes of admin
 It is a white to off-white; odorless crystalline powder that is stable in air and that melts between 200°C and 210°C.
 It is freely soluble in chloroform, soluble in acetone and dioxane, sparingly soluble in alcohol and methanol, slightly soluble in ether, and insoluble in water.
 
-The chemical name for medroxyprogesterone acetate is pregn-4-ene-3,20-dione, 17-(acetyloxy)-6-methyl-, (6α-).
+The chemical name for medroxyprogesterone acetate is pregn-4-ene-3, 20-dione, 17-(acetyloxy)-6-methyl-, (6α-).
 
 The structural formula is as follows:
 

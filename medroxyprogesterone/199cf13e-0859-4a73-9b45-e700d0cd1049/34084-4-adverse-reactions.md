@@ -21,7 +21,7 @@ Fifty eight percent of patients remained in the study after 13 months and 34% af
 
 Table 1 Adverse Reactions that Were Reported by More than 5% of Subjects
 
-| Body SystemBody System represented from COSTART medical dictionary. | Adverse Reactions (Incidence (%)) |
+| Body SystemBody System represented from COSTART medical dictionary. | Adverse Reactions [Incidence (%)] |
 | --- | --- |
 | Body as a Whole | Headache (16.5%) Abdominal pain/discomfort (11.2%) |
 | Metabolic/Nutritional | Increased weight> 10lbs at 24 months (37.7%) |
@@ -30,7 +30,7 @@ Table 1 Adverse Reactions that Were Reported by More than 5% of Subjects
 
 Table 2 Adverse Reactions that Were Reported by between 1 and 5% of Subjects
 
-| Body SystemBody System represented from COSTART medical dictionary. | Adverse Reactions (Incidence (%)) |
+| Body SystemBody System represented from COSTART medical dictionary. | Adverse Reactions [Incidence (%)] |
 | --- | --- |
 | Body as a Whole | Asthenia/fatigue (4.2%) Backache (2.2%) Dysmenorrhea (1.7%) Hot flashes (1.0%) |
 | Digestive | Nausea (3.3%) Bloating (2.3%) |
@@ -58,7 +58,8 @@ Table 3 Adverse Reactions Reported during Post-Marketing Experience
 | Digestive | Changes in appetite, Gastrointestinal disturbances, Jaundice, Excessive thirst, Rectal bleeding |
 | Hematologic and Lymphatic | Anemia, Blood dyscrasia |
 | Musculoskeletal | Osteoporosis |
+| Neoplasms | Cervical cancer, Breast cancer |
 | Nervous | Paralysis, Facial palsy, Paresthesia, Drowsiness |
 | Respiratory | Dyspnea and asthma, Hoarseness |
 | Skin and Appendages | Hirsutism, Excessive sweating and body odor, Dry skin, Scleroderma |
-| Urogenital | Cervical cancer, Breast cancer, Lack of return to fertility, Unexpected pregnancy, Prevention of lactation, Changes in breast size, Breast lumps or nipple bleeding, Galactorrhea, Melasma, Chloasma, Increased libido, Uterine hyperplasia, Genitourinary infections, Vaginal cysts, Dyspareunia |
+| Urogenital | Lack of return to fertility, Unexpected pregnancy, Prevention of lactation, Changes in breast size, Breast lumps or nipple bleeding, Galactorrhea, Melasma, Chloasma, Increased libido, Uterine hyperplasia, Genitourinary infections, Vaginal cysts, Dyspareunia |

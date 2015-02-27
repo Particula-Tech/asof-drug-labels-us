@@ -16,8 +16,7 @@ Depo-Provera CI can cause serious side effects, including:
   Your bones may not recover completely when you stop using Depo-Provera CI.
 - If you use Depo-Provera CI continuously for a long time (for more than 2 years), it may increase the risk of weak, porous bones (osteoporosis) that could increase the risk of broken bones, especially after menopause.
 - You should not use Depo-Provera CI for more than two years unless you cannot use other birth control methods.
-- It is not known if your risk of developing osteoporosis is greater if you are a teenager or young adult when you start to use Depo-Provera CI.
-  (see "What are the possible side effects of Depo-Provera CI?").
+- It is not known if your risk of developing osteoporosis is greater if you are a teenager or young adult when you start to use Depo-Provera CI (see "What are the possible side effects of Depo-Provera CI?").
 
 Depo-Provera CI is intended to prevent pregnancy.
 Depo-Provera CI does not protect against HIV infection (AIDS) and other sexually transmitted diseases (STDs).
@@ -71,7 +70,7 @@ Before taking Depo-Provera CI, tell your healthcare provider if you have:
 - irregular or lighter than usual menstrual periods
 - breast cancer now or in the past, or think you have breast cancer
 - a family history of breast cancer
-- an abnormal mammogram (breast X-ray), fibrocystic breast disease, breast nodules or lumps, or bleeding from your nipples
+- an abnormal mammogram (breast X-ray), lumps in your breasts, or bleeding from your nipples
 - kidney problems
 - high blood pressure
 - had a stroke
@@ -129,8 +128,8 @@ When Depo-Provera CI is stopped, your bones may start to regain calcium.
 However, in a study of teenage girls who used Depo-Provera CI for more than 2 years, their hip bones did not completely recover by 5 years after they stopped using Depo-Provera CI.
 Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium from your bones.
 
-- increased risk of breast cancer.
-  Studies of women who have used different forms of contraception found that women under 35 years of age who first used Depo-Provera CI within the previous 4 to 5 years may have a slightly increased risk of developing breast cancer.
+- possible increased risk of breast cancer.
+  Women who use Depo-Provera CI may have a slightly increased risk of breast cancer compared to non-users.
 - blood clots in your arms, legs, lungs, and eyes
 - stroke
 - a pregnancy outside of your uterus (ectopic pregnancy).
@@ -238,8 +237,8 @@ For current full prescribing information, please visit www.pfizer.com.
 
 Distributed by Pfizer Pharmacia & Upjohn Company Division of Pfizer Inc, NY, NY 10017
 
+LAB-0148-11.0
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0148-10.0
-
-December 2014
+January 2015

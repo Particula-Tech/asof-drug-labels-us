@@ -16,7 +16,7 @@ In adolescents, interpretation of BMD results should take into account patient a
 
 Other birth control methods should be considered in the risk/benefit analysis for the use of Depo-Provera CI in women with osteoporosis risk factors.
 Depo-Provera CI can pose an additional risk in patients with risk factors for osteoporosis (e.g., metabolic bone disease, chronic alcohol and/or tobacco use, anorexia nervosa, strong family history of osteoporosis or chronic use of drugs that can reduce bone mass such as anticonvulsants or corticosteroids).
-Although there are no studies addressing whether calcium and Vitamin D may lessen BMD loss in women using Depo-Provera CI, all patients should have adequate calcium and Vitamin D intake.
+Although there are no studies addressing whether calcium and Vitamin-D may lessen BMD loss in women using Depo-Provera CI, all patients should have adequate calcium and Vitamin D intake.
 
 ## 5.2 Thromboembolic Disorders
 
@@ -31,18 +31,24 @@ Do not re-administer if examination reveals papilledema or retinal vascular lesi
 
 Breast Cancer
 
-Women who currently have or have had breast cancer should not use hormone contraceptives, including Depo-Provera CI, because breast cancer may be hormonally sensitive.
-Women with a strong family history of breast cancer or who have breast nodules should be monitored with particular care.
+Women who have or have had a history of breast cancer should not use hormonal contraceptives, including Depo-Provera CI, because breast cancer may be hormonally sensitive [see Contraindications (4)].
+Women with a strong family history of breast cancer should be monitored with particular care.
 
-A pooled analysis from two case-control studies, the World Health Organization Study and the New Zealand Study, reported the relative risk (RR) of breast cancer for women who had ever used Depo-Provera CI as 1.1 (95% confidence interval [CI] 0.97 to 1.4).
-Overall, there was no increase in risk with increasing duration of use of Depo-Provera CI.
-The RR of breast cancer for women of all ages who had initiated use of Depo-Provera CI within the previous 5 years was estimated to be 2.0 (95% CI 1.5 to 2.8).
+The results of five large case-control studies1, 2, 3, 4, 5 assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
+Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
+One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study4.
 
-The World Health Organization Study, a component of the pooled analysis described above, showed an increased RR of 2.19 (95% CI 1.23 to 3.89) of breast cancer associated with use of Depo-Provera CI in women whose first exposure to drug was within the previous 4 years and who were under 35 years of age.
-However, the overall RR for ever-users of Depo-Provera CI was 1.2 (95% CI 0.96 to 1.52).
+Figure 1 Risk estimates for breast cancer in DMPA users
 
-The National Cancer Institute reports an average annual incidence rate for breast cancer for US women, all races, age 15 to 34 years of 8.7 per 100,000.
-A RR of 2.19, thus, increases the possible risk from 8.7 to 19.0 cases per 100,000 women.
+| Odds ratio estimates were adjusted for the following covariates: |
+| --- |
+| Lee et al. (1987): age, parity, and socioeconomic status. |
+| Paul et al. (1989): age, parity, ethnic group, and year of interview. |
+| WHO (1991): age, center, and age at first live birth. |
+| Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use. |
+| Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography. |
+
+Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US Standard Population) of breast cancer for US women, all races, age 20 to 49 years6, a doubling of risk would increase the incidence of breast cancer in women who use Depo-Provera CI from about 72 to about 144 cases per 100,000 women.
 
 Cervical Cancer
 
