@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year studies were conducted in mice and rats to assess carcinogenic potential of KALYDECO.
-No evidence of tumorigenicity was observed in mice or rats at ivacaftor oral doses up to 200 mg/kg/day and 50 mg/kg/day, respectively (approximately equivalent to and 3 to 5 times the MRHD, respectively, based on summed AUCs of ivacaftor and its metabolites).
+No evidence of tumorigenicity was observed in mice or rats at ivacaftor oral doses up to 200 mg/kg/day and 50 mg/kg/day, respectively (approximately equivalent to 3 to 5 times the MRHD, respectively, based on summed AUCs of ivacaftor and its metabolites).
 
 Ivacaftor was negative for genotoxicity in the following assays: Ames test for bacterial gene mutation, in vitro chromosomal aberration assay in Chinese hamster ovary cells, and in vivo mouse micronucleus test.
 

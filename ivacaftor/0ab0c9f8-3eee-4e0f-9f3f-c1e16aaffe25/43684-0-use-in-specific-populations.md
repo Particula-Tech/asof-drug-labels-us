@@ -19,6 +19,8 @@ Caution should be exercised when KALYDECO is administered to a nursing woman.
 
 The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene has been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
 
+The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have an R117H mutation in the CFTR gene has been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
+
 The safety and efficacy of KALYDECO in patients with CF younger than age 6 years have not been established.
 
 ## 8.5 Geriatric Use
@@ -38,5 +40,5 @@ No dose adjustment is necessary for patients with mild to moderate renal impairm
 
 ## 8.8 Patients with CF who are Homozygous for the F508del Mutation in the CFTR Gene
 
-Efficacy results from a double-blind, placebo-controlled trial in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in forced expiratory volume exhaled in one second (FEV1) over 16 weeks of KALYDECO treatment compared to placebo [see Clinical Studies (14.3)].
+Efficacy results from a double-blind, placebo-controlled trial in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in forced expiratory volume exhaled in one second (FEV1) over 16 weeks of KALYDECO treatment compared to placebo [see Clinical Studies (14.4)].
 Therefore, KALYDECO should not be used in patients homozygous for the F508del mutation in the CFTR gene.

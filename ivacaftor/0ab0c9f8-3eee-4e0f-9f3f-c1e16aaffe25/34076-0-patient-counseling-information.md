@@ -25,6 +25,11 @@ No dose adjustment is recommended for patients with mild hepatic impairment (Chi
 
 ## 17.4 Take with Fat-Containing Food
 
-Inform your patients that KALYDECO is best absorbed by the body when taken with food that contains fat.
+Inform patients that KALYDECO is best absorbed by the body when taken with food that contains fat.
 A typical CF diet will satisfy this requirement.
 Examples include eggs, butter, peanut butter, cheese pizza, etc.
+
+## 17.5 Cataracts
+
+Inform patients that abnormality of the eye lens (cataract) has been noted in some children up to 12 years of age receiving KALYDECO.
+Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.3)].

@@ -11,18 +11,22 @@ Ivacaftor also increased IT in human bronchial epithelial cells expressing G551D
 Ivacaftor increased the open probability of G551D-CFTR protein in single channel patch clamp experiments using membrane patches from rodent cells expressing G551D-CFTR protein by 6-fold versus untreated cells after addition of PKA and ATP.
 In addition to G551D-CFTR, ivacaftor increased the channel-open probability of other mutant CFTR forms expressed in rodent cells, resulting in enhanced CFTR-mediated IT.
 These mutant CFTR forms included G178R-, S549N-, S549R-, G551S-, G970R-, G1244E-, S1251N-, S1255P-, and G1349D-CFTR.
+Ivacaftor also potentiated the channel-open probability of R117H-CFTR, which has low channel-open probability (gating) and reduced channel current amplitude (conductance) compared to normal CFTR.
 In vitro responses do not necessarily correspond to in vivo pharmacodynamic response or clinical benefit.
 
 ## 12.2 Pharmacodynamics
 
 Sweat Chloride Evaluation
 
-Changes in sweat chloride response to KALYDECO were evaluated in four clinical trials.
+Changes in sweat chloride response to KALYDECO were evaluated in five clinical trials.
 In two randomized, double-blind, placebo-controlled clinical trials in patients with a G551D mutation in the CFTR gene, one in patients 12 and older (Trial 1) and the other in patients 6-11 years of age (Trial 2), the treatment difference (between KALYDECO and placebo) in mean change in sweat chloride from baseline through Week 24 was -48 mmol/L (95% CI -51, -45) and -54 mmol/L (95% CI -62, -47), respectively.
 These changes persisted through 48 weeks.
 In a 16-week randomized, double-blind, placebo-controlled, parallel-group clinical trial in patients with CF age 12-years and older who were homozygous for the F508del mutation in the CFTR gene (Trial 3), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -3 mmol/L (95% CI -6, -0.2).
 In a two-part, randomized, double-blind, placebo-controlled, crossover clinical trial in patients with CF who had a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene (Trial 4), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -49 mmol/L (95% CI -57, -41).
 In Trial 4, mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -78, whereas the range for individual subjects with the G970R mutations was -1 to -11 mmol/L.
+
+In a randomized, double-blind, placebo-controlled clinical trial in patients with CF who had an R117H mutation in the CFTR gene (Trial 5), the mean baseline sweat chloride for all patients was 70 mmol/L.
+The treatment difference in mean change in sweat chloride from baseline through 24 weeks of treatment was -24 mmol/L (95% CI -28, -20) [see Clinical Studies (14)].
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
 
@@ -41,7 +45,7 @@ After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were
 
 Absorption
 
-The exposure of ivacaftor increased approximately 2- to 4-fold when given with food containing fat.
+The exposure of ivacaftor increased approximately 2.5- to 4-fold when given with food containing fat.
 Therefore, KALYDECO should be administered with fat-containing food.
 Examples of fat-containing foods include eggs, butter, peanut butter, and cheese pizza.
 The median (range) Tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
@@ -51,7 +55,6 @@ Distribution
 Ivacaftor is approximately 99% bound to plasma proteins, primarily to alpha 1-acid glycoprotein and albumin.
 Ivacaftor does not bind to human red blood cells.
 
-The mean apparent volume of distribution (Vz/F) of ivacaftor after a single dose of 275 mg of KALYDECO in the fed state was similar for healthy subjects and patients with CF.
 After oral administration of 150 mg every 12 hours for 7 days to healthy volunteers in a fed state, the mean (±SD) for apparent volume of distribution was 353 (122) L.
 
 Metabolism

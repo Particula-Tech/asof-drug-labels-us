@@ -10,6 +10,8 @@ What is KALYDECO?
 
 KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 6 years and older who have one of the following mutations in their CF gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R.
 
+KALYDECO is used for the treatment of CF in patients age 6 years and older who have an R117H mutation in their CF gene.
+
 KALYDECO is not for use in people with CF due to other mutations in the CF gene.
 KALYDECO is not effective in CF patients with two copies of the F508del mutation (F508del/F508del) in the CF gene.
 
@@ -89,6 +91,10 @@ Call your doctor right away if you have any of the following symptoms of liver p
 - nausea or vomiting
 - dark, amber-colored urine
 
+Abnormality of the eye lens (cataract) has been noted in some children up to 12 years of age receiving KALYDECO.
+
+Your doctor should perform eye examinations prior to and during treatment with KALYDECO to look for cataracts.
+
 The most common side effects of KALYDECO include:
 
 - headache
@@ -144,7 +150,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved June 2014
+Approved December 2014
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2014 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-04
+All other trademarks referenced herein are the property of their respective owners. ©2014 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-05

@@ -12,6 +12,8 @@ The overall safety profile of KALYDECO is based on pooled data from three placeb
 In addition, an 8-week crossover design trial (Trial 4) involving 39 patients with a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene was conducted.
 Patients treated with KALYDECO in these trials were between the ages of 6 and 57 years.
 
+A 24-week placebo-controlled trial (Trial 5) involving 69 patients with an R117H mutation in the CFTR gene has also been evaluated; patients treated with KALYDECO in this trial were between the ages of 6 and 68 years.
+
 Of the 353 patients included in the pooled analyses of patients with CF who had either a G551D mutation or were homozygous for the F508del mutation in the CFTR gene, 50% of patients were female and 97% were Caucasian; 221 received KALYDECO and 132 received placebo from 16 to 48 weeks.
 
 The proportion of patients who prematurely discontinued study drug due to adverse reactions was 2% for KALYDECO-treated patients and 5% for placebo-treated patients.
@@ -54,8 +56,8 @@ Skin and subcutaneous tissue disorders: acne
 
 Laboratory Abnormalities
 
-Transaminase Elevations: During 48-week placebo-controlled clinical studies, the incidence of maximum transaminase (ALT or AST) >8, >5 or >3 × ULN was 2%, 3% and 6% in KALYDECO-treated patients and 2%, 2% and 8% in placebo-treated patients, respectively.
+Transaminase Elevations: In Trials 1, 2 and 3 the incidence of maximum transaminase (ALT or AST) >8, >5 or >3 × ULN was 2%, 2% and 6% in KALYDECO-treated patients and 2%, 2% and 8% in placebo-treated patients, respectively.
 Two patients (2%) on placebo and 1 patient (0.5 %) on KALYDECO permanently discontinued treatment for elevated transaminases, all >8 × ULN.
 Two patients treated with KALYDECO were reported to have serious adverse reactions of elevated liver transaminases compared to none on placebo [see Warnings and Precautions (5.1)].
 
-The safety profile for the 39 patients with CF with a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation enrolled in the 8-week crossover trial (Trial 4) was similar to that observed in the 48-week placebo-controlled trials (Trials 1 and 2).
+The safety profiles for the 39 patients with CF with a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation enrolled in the 8-week crossover trial (Trial 4) and for the 69 patients with CF with an R117H mutation enrolled in the 24-week, placebo-controlled trial (Trial 5), were similar to that observed in the 48-week placebo-controlled trials (Trials 1 and 2).

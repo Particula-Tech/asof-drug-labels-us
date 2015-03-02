@@ -12,3 +12,10 @@ Following resolution of transaminase elevations, consider the benefits and risks
 
 Use of KALYDECO with strong CYP3A inducers, such as rifampin, substantially decreases the exposure of ivacaftor, which may reduce the therapeutic effectiveness of KALYDECO.
 Therefore, co-administration of KALYDECO with strong CYP3A inducers (e.g., rifampin, St. John's Wort) is not recommended [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+
+## 5.3 Cataracts
+
+Cataracts were seen in juvenile rats dosed with ivacaftor at dose levels of 10 mg/kg/day [see Animal Toxicology and/or Pharmacology (13.2)].
+Cases of non-congenital lens opacities/cataracts have also been reported in pediatric patients up to 12 years of age treated with KALYDECO.
+Although other risk factors were present in some cases (such as corticosteroid use and/or exposure to radiation), a possible risk attributable to KALYDECO cannot be excluded.
+Baseline and follow-up ophthalmological examinations are recommended in pediatric patients initiating KALYDECO treatment.
