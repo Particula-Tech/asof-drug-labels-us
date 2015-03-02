@@ -1,8 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
+The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-Serious adverse reactions including anaphylaxis and allergic reactions, neuropathy, pulmonary toxicities and hepatotoxicities can occur [see WARNINGS AND PRECAUTIONS (5.1)].
+- •Anaphylaxis and Allergic reactions [See BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1).]
+- •Neuropathy [See WARNINGS AND PRECAUTIONS (5.2).]
+- •Pulmonary Toxicities [See WARNINGS AND PRECAUTIONS (5.3).]
+- •Hepatotoxicity [See WARNINGS AND PRECAUTIONS (5.4).]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -437,13 +442,17 @@ Central and peripheral nervous system disorders
 
 loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
 
-Liver and Gastrointestinal system disorders
-
-severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
-
 Hearing and vestibular system disorders
 
 deafness
+
+Infusion reactions/hypersensitivity
+
+laryngospasm
+
+Liver and Gastrointestinal system disorders
+
+severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
 
 Platelet, bleeding, and clotting disorders
 
