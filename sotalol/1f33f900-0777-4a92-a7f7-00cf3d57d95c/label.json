@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205108"
+  ],
+  "inn": "sotalol",
+  "labeler": "Arbor Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-530-25",
+    "24338-530-48"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sotalol hydrochloride",
+      "name": "SOTYLIZE"
+    }
+  ],
+  "setid": "1f33f900-0777-4a92-a7f7-00cf3d57d95c",
+  "source": "dailymed"
+}
