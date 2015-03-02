@@ -25,11 +25,11 @@ Discard any unused medicine.
 Patients should be aware that amoxicillin and clavulanate potassium contains a penicillin class drug product that can cause allergic reactions in some individuals.
 CLINITEST is a registered trademark of Miles, Inc.
 
-09-2013M
+10-2014M
 
-46119417
+46147356
 
-46119416
+46147427
 
 Manufactured in Austria by
 
