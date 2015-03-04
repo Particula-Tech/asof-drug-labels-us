@@ -19,7 +19,7 @@ Adults with such abnormalities should also generally not be treated with stimula
 
 ### Hypertension and Other Cardiovascular Conditions
 
-Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
+Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
 Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
 
@@ -189,14 +189,14 @@ Mutagenicity studies and long-term studies in animals to determine the carcinoge
 
 ## Pregnancy
 
-### Tertogenic Effects
+### Teratogenic Effects
 
 #### Pregnancy Category C
 
 Dextroamphetamine has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (Vater association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
-Dextroamphetamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus
+Dextroamphetamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nonteratogenic Effects
 

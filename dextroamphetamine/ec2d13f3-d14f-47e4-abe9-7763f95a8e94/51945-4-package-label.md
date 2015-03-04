@@ -1,7 +1,6 @@
-# PACKAGE/LABEL DISPLAY PANEL
+# Package/Label Display Panel
 
-Dextroamphetamine Sulfate Tablets.
-USP 5mg 100 Tablets Label Text
+Dextroamphetamine Sulfate Tablets USP 5mg 100 Tablets Label Text
 
 NDC 0555-0952-02
 
@@ -17,10 +16,9 @@ Rx only
 
 TEVA
 
-# PACKAGE/LABEL DISPLAY PANEL
+# Package/Label Display Panel
 
-Dextroamphetamine Sulfate Tablets.
-USP 10mg 100 Tablets Label Text
+Dextroamphetamine Sulfate Tablets USP 10mg 100 Tablets Label Text
 
 NDC 0555-0953-02
 
