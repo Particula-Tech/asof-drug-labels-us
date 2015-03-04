@@ -1,51 +1,46 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-(See boxed WARNING)
+## 5.1 APL Differentiation Syndrome
 
-TRISENOX should be administered under the supervision of a physician who is experienced in the management of patients with acute leukemia.
+Nine of 40 patients with APL treated with TRISENOX, at a dose of 0.15 mg/kg, experienced the APL differentiation syndrome.
+High-dose steroids have been administered at the first suspicion of the APL differentiation syndrome and appear to mitigate signs and symptoms.
+At the first signs that could suggest the syndrome (unexplained fever, dyspnea and/or weight gain, abnormal chest auscultatory findings or radiographic abnormalities), high-dose steroids (dexamethasone 10 mg intravenously BID) should be immediately initiated, irrespective of the leukocyte count, and continued for at least 3 days or longer until signs and symptoms have abated.
+The majority of patients do not require termination of TRISENOX therapy during treatment of the APL differentiation syndrome.
+[see Adverse Reactions (6)].
 
-## APL Differentiation Syndrome
+## 5.2 Cardiac Conduction Abnormalities: Torsade de Pointes, Complete Heart Block, and QT Prolongation
 
-(See boxed WARNING)
-
-Nine of 40 patients with APL treated with TRISENOX, at a dose of 0.15 mg/kg, experienced the APL differentiation syndrome (see boxed WARNING and ADVERSE REACTIONS).
-
-## Hyperleukocytosis
-
-Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 10³/uL) in 20 of 40 patients.
-A relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
-Hyperleukocytosis was not treated with additional chemotherapy.
-WBC counts during consolidation were not as high as during induction treatment.
-
-## QT Prolongation
-
-(See boxed WARNING)
-
-QT/QTc prolongation should be expected during treatment with arsenic trioxide and torsade de pointes as well as complete heart block has been reported.
-Over 460 ECG tracings from 40 patients with refractory or relapsed APL treated with TRISENOX were evaluated for QTc prolongation.
+Torsade de pointes and complete heart block have been reported.
+QT/QTc prolongation can occur.
 Sixteen of 40 patients (40%) had at least one ECG tracing with a QTc interval greater than 500 msec.
 Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusion, and then returned towards baseline by the end of 8 weeks after TRISENOX infusion.
-In these ECG evaluations, women did not experience more pronounced QT prolongation than men, and there was no correlation with age.
 
-## Complete AV block
+Prior to initiating therapy with TRISENOX, a 12-lead ECG should be performed and serum electrolytes (potassium, calcium, and magnesium) and creatinine should be assessed.
+Preexisting electrolyte abnormalities should be corrected and, if possible, drugs that are known to prolong the QT interval should be discontinued.
+If it’s not possible to discontinue the interacting drug, perform cardiac monitoring frequently [see Drug Interactions (7)].
 
-Complete AV block has been reported with arsenic trioxide in the published literature including a case of a patient with APL.
+Monitor ECG weekly, and more frequently for clinically unstable patients.
 
-## Carcinogenesis
+For QTc greater than 500 msec, complete corrective measures and reassess the QTc with serial ECGs prior to initiating TRISENOX.
+During TRISENOX therapy, maintain potassium concentrations above 4 mEq/L and magnesium concentrations above 1.8 mg/dL.
+Reassess patients who reach an absolute QT interval value > 500 msec and immediately correct concomitant risk factors, if any, while the risk/benefit of continuing versus suspending TRISENOX therapy should be considered.
+There are no data on the effect of TRISENOX on the QTc interval during the infusion.
 
-Carcinogenicity studies have not been conducted with TRISENOX by intravenous administration.
-The active ingredient of TRISENOX, arsenic trioxide is a human carcinogen.
+The risk may be increased when TRISENOX is coadministered with medications that can lead to electrolyte abnormalities (such as diuretics or amphotericin B) [see Drug Interactions (7)].
 
-## Pregnancy
+## 5.3 Carcinogenesis
 
-TRISENOX may cause fetal harm when administered to a pregnant woman.
-Studies in pregnant mice, rats, hamsters, and primates have shown that inorganic arsenicals cross the placental barrier when given orally or by injection.
-The reproductive toxicity of arsenic trioxide has been studied in a limited manner.
-An increase in resorptions, neural-tube defects, anophthalmia and microphthalmia were observed in rats administered 10 mg/kg of arsenic trioxide on gestation day 9 (approximately 10 times the recommended human daily dose on a mg/m² basis).
-Similar findings occurred in mice administered a 10 mg/kg dose of a related trivalent arsenic, sodium arsenite, (approximately 5 times the projected human dose on a mg/m² basis) on gestation days 6, 7, 8 or 9.
-Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to the projected human daily dose on a mg/m² basis) on gestation day 7 (the lowest dose tested) resulted in neural-tube defects in hamsters.
+The active ingredient of TRISENOX, arsenic trioxide, is a human carcinogen.
+Monitor patients for the development of second primary malignancies.
 
-There are no studies in pregnant women using TRISENOX.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
-One patient who became pregnant while receiving arsenic trioxide had a miscarriage.
-Women of childbearing potential should be advised to avoid becoming pregnant.
+## 5.4 Embryo-Fetal Toxicity
+
+TRISENOX can cause fetal harm when administered to a pregnant woman.
+Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m² basis.
+A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m² basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m² basis.
+Advise pregnant women of the potential risk to a fetus.
+Advise females and males of reproductive potential to use effective contraception during and after treatment with TRISENOX [seeUse in Specific Populations (8.1,8.3)].
+
+## 5.5 Laboratory Tests
+
+The patient’s electrolyte and glucose levels, as well as hepatic, renal, hematologic and coagulation profiles should be monitored at least twice weekly, and more frequently for clinically unstable patients during the induction phase and at least weekly during the consolidation phase.
