@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205223"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "52544-157-26"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Nuvessa"
+    }
+  ],
+  "setid": "520c3783-b0fa-407b-8c4a-3830af32b8fa",
+  "source": "dailymed"
+}

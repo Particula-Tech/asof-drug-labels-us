@@ -1,0 +1,4 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 52544-157-26 NUVESSA™ (metronidazole vaginal gel 1.3%) SINGLE-USE Net Wt.
+5 g
