@@ -1,54 +1,15 @@
 # Medguide
 
-DEXTROAMPHETAMINE SULFATE CII
+DEXTROAMPHETAMINE SULFATE ORAL SOLUTION CII
 
 (DEX-troe-am-FET-a-meen SUL-fate)
-
-ORAL SOLUTION
 
 Please read the Medication Guide that comes with Dextroamphetamine Sulfate Oral Solution before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with Dextroamphetamine Sulfate Oral Solution.
 
-What is the most important information I should know about Dextroamphetamine Sulfate Oral Solution?
-
-The following have been reported with use of Dextroamphetamine Sulfate Oral Solution and other stimulant medicines.
-
-1.
-Heart-related problems:
-
-• sudden death in patients who have heart problems or heart defects
-
-• stroke and heart attack in adults
-
-• increased blood pressure and heart rate
-
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-
-Your doctor should check you or your child carefully for heart problems before starting Dextroamphetamine Sulfate Oral Solution.
-
-Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dextroamphetamine Sulfate Oral Solution.
-
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dextroamphetamine Sulfate Oral Solution.
-
-2.
-Mental (Psychiatric) problems:
-
-All Patients
-
-• new or worse behavior and thought problems
-
-• new or worse bipolar illness
-
-• new or worse aggressive behavior or hostility
-
-Children and Teenagers
-
-- • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
-
-Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
-
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dextroamphetamine Sulfate Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
+| What is the most important information I should know about Dextroamphetamine Sulfate Oral Solution?The following have been reported with use of Dextroamphetamine Sulfate Oral Solution and other stimulant medicines. 1. Heart-related problems:• sudden death in patients who have heart problems or heart defects• stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Dextroamphetamine Sulfate Oral Solution.Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dextroamphetamine Sulfate Oral Solution.Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dextroamphetamine Sulfate Oral Solution.2. Mental (Psychiatric) problems:All Patients• new or worse behavior and thought problems• new or worse bipolar illness• new or worse aggressive behavior or hostilityChildren and Teenagers• new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dextroamphetamine Sulfate Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| --- |
 
 What is Dextroamphetamine Sulfate Oral Solution?
 
@@ -60,11 +21,8 @@ Dextroamphetamine Sulfate Oral Solution should be used as a part of a total trea
 
 Dextroamphetamine Sulfate Oral Solution is also used in the treatment of a sleep disorder called narcolepsy.
 
-Dextroamphetamine Sulfate Oral Solution is a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep Dextroamphetamine Sulfate Oral Solution in a safe place to prevent misuse and abuse.
-Selling or giving away Dextroamphetamine Sulfate Oral Solution may harm others, and is against the law.
-
-Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
+| Dextroamphetamine Sulfate Oral Solution is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Dextroamphetamine Sulfate Oral Solution in a safe place to prevent misuse and abuse. Selling or giving away Dextroamphetamine Sulfate Oral Solution may harm others, and is against the law.Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
+| --- |
 
 Who should not take Dextroamphetamine Sulfate Oral Solution?
 
@@ -82,13 +40,11 @@ Dextroamphetamine Sulfate Oral Solution should not be taken if you or your child
 
 • have a history of drug abuse
 
-- • are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI
+• are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI
 
 • is sensitive to, allergic to, or had a reaction to other stimulant medicines
 
-Dextroamphetamine Sulfate Oral Solution is not recommended for use in children less than
-
-3 years old.
+Dextroamphetamine Sulfate Oral Solution is not recommended for use in children less than 3 years old.
 
 Dextroamphetamine Sulfate Oral Solution may not be right for you or your child.
 
@@ -132,19 +88,18 @@ Do not start any new medicine while taking Dextroamphetamine Sulfate Oral Soluti
 
 How should Dextroamphetamine Sulfate Oral Solution be taken?
 
-- • Take Dextroamphetamine Sulfate Oral Solution exactly as prescribed.
+- Take Dextroamphetamine Sulfate Oral Solution exactly as prescribed.
   Your doctor may adjust the dose until it is right for you or your child.
 
-- • Dextroamphetamine Sulfate Oral Solution is usually taken two to three times a day.
+- Dextroamphetamine Sulfate Oral Solution is usually taken two to three times a day.
   The first dose is usually taken in the morning.
-  One or two more doses may be taken during the day,
-- 4 to 6 hours apart.
-- • From time to time, your doctor may stop Dextroamphetamine Sulfate Oral Solution treatment for a while to check ADHD symptoms.
-- • Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Oral Solution.
+  One or two more doses may be taken during the day, 4 to 6 hours apart.
+- From time to time, your doctor may stop Dextroamphetamine Sulfate Oral Solution treatment for a while to check ADHD symptoms.
+- Your doctor may do regular checks of the blood, heart, and blood pressure while taking Dextroamphetamine Sulfate Oral Solution.
   Children should have their height and weight checked often while taking Dextroamphetamine Sulfate Oral Solution.
   Dextroamphetamine Sulfate Oral Solution treatment may be stopped if a problem is found during these check-ups.
 
-- • If you or your child takes too much Dextroamphetamine Sulfate Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
+- If you or your child takes too much Dextroamphetamine Sulfate Oral Solution or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of Dextroamphetamine Sulfate Oral Solution?
 
@@ -172,7 +127,11 @@ Common side effects include:
 
 • dizziness
 
-• trouble sleeping • decreased appetite • weight loss
+• trouble sleeping
+
+• decreased appetite
+
+• weight loss
 
 Dextroamphetamine Sulfate Oral Solution may affect you or your child’s ability to drive or do other dangerous activities.
 
@@ -186,7 +145,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Dextroamphetamine Sulfate Oral Solution?
 
-- • Store Dextroamphetamine Sulfate Oral Solution in a safe place controlled room temperature, 68° to 77°F (20° to 25°C);.
+- Store Dextroamphetamine Sulfate Oral Solution in a safe place controlled room temperature, 68° to 77°F (20° to 25°C);.
   Protect from light.
 
 • Keep Dextroamphetamine Sulfate Oral Solution and all medicines out of the reach of children.
@@ -201,6 +160,8 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about Dextroamphetamine Sulfate Oral Solution.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Dextroamphetamine Sulfate Oral Solution that was written for healthcare professionals.
+
+For more information about Dextroamphetamine Sulfate Oral Solution, please contact Tris Pharma, Inc. at 1-732-940-0358 or go to www.trispharma.com.
 
 What are the ingredients in Dextroamphetamine Sulfate Oral Solution?
 

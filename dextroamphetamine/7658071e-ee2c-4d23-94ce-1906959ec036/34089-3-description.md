@@ -5,8 +5,6 @@ Chemically, dextroamphetamine is d-alpha-methylphenethylamine, and is present in
 
 Structural Formula:
 
-[IC] [/IC]
-
 Dextroamphetamine sulfate is a colorless, bubble gum flavored oral solution.
 Each 5 mL (1 teaspoonful) of dextroamphetamine sulfate oral solution contains 5 mg of dextroamphetamine sulfate.
 Inactive ingredients consist of anhydrous citric acid, benzoic acid, bubble gum flavor, purified water, sodium citrate anhydrous, sodium saccharin, and sorbitol solution.

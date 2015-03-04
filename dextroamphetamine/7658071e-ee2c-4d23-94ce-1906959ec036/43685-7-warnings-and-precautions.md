@@ -101,14 +101,14 @@ Propoxyphene – In cases of propoxyphene overdosage, amphetamine CNS stimulatio
 
 Veratrum alkaloids – Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
 
-## DRUG & OR LABORATORY TEST INTERACTIONS
+## Drug/Laboratory Test Interactions
 
 Amphetamines can cause a significant elevation in plasma corticosteroid levels.
 This increase is greatest in the evening.
 
 Amphetamines may interfere with urinary steroid determinations.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## ​Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate have not been performed.
 

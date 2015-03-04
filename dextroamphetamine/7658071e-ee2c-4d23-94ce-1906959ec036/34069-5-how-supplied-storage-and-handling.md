@@ -16,6 +16,6 @@ www.trispharma.com
 
 LB8255
 
-Rev 00
+Rev 01
 
-May 2013
+February 2015
