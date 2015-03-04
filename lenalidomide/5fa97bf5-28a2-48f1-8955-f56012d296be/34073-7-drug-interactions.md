@@ -2,22 +2,18 @@
 
 Results from human in vitro studies show that REVLIMID is neither metabolized by nor inhibits or induces the cytochrome P450 pathway suggesting that lenalidomide is not likely to cause or be subject to P450-based metabolic drug interactions.
 
-In vitro studies demonstrated that REVLIMID is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1 or OATP2), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2.
-
-In vitro, lenalidomide is a substrate, but is not an inhibitor of P-glycoprotein (P-gp).
-
 ## 7.1 Digoxin
 
 When digoxin was co-administered with multiple doses of REVLIMID (10 mg/day) the digoxin Cmax and AUC0-∞ were increased by 14%.
 Periodic monitoring of digoxin plasma levels, in accordance with clinical judgment and based on standard clinical practice in patients receiving this medication, is recommended during administration of REVLIMID.
 
-## 7.2 Warfarin
+## 7.2 Concomitant Therapies That May Increase the Risk of Thrombosis
+
+Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as estrogen containing therapies, should be used with caution after making a benefit-risk assessment in patients receiving REVLIMID [see Warnings and Precautions (5.4)].
+
+## 7.3 Warfarin
 
 Co-administration of multiple dose REVLIMID (10 mg) with single dose warfarin (25 mg) had no effect on the pharmacokinetics of total lenalidomide or R- and S-warfarin.
 Expected changes in laboratory assessments of PT and INR were observed after warfarin administration, but these changes were not affected by concomitant REVLIMID administration.
 It is not known whether there is an interaction between dexamethasone and warfarin.
 Close monitoring of PT and INR is recommended in multiple myeloma patients taking concomitant warfarin.
-
-## 7.3 Concomitant Therapies That May Increase the Risk of Thrombosis
-
-Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as estrogen containing therapies, should be used with caution after making a benefit-risk assessment in patients receiving REVLIMID [see Warnings and Precautions (5.4)].

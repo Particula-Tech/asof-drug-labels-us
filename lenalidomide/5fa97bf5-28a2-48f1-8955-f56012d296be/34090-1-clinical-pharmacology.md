@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
+## 12.1 Mechanism of Action
 
 Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties.
 Lenalidomide inhibits proliferation and induces apoptosis of certain hematopoietic tumor cells including multiple myeloma, mantle cell lymphoma, and del (5q) myelodysplastic syndromes in vitro.
@@ -35,11 +35,13 @@ Distribution
 
 In vitro (14C)-lenalidomide binding to plasma proteins is approximately 30%.
 
+Lenalidomide is present in semen at 2 hours (1379 ng/ejaculate) and 24 hours (35 ng/ejaculate) after the administration of REVLIMID 25 mg daily.
+
 Metabolism
 
 Lenalidomide -undergoes limited metabolism.
 Unchanged lenalidomide is the predominant circulating component in humans.
-Two identified metabolites are hydroxy-lenalidomide and N-acetyl-lenalidomide; each constitutes less than 5% of parent levels in circulation.
+Two identified metabolites are 5-hydroxy-lenalidomide and N-acetyl-lenalidomide; each constitutes less than 5% of parent levels in circulation.
 
 Elimination
 
@@ -51,19 +53,26 @@ The renal clearance of lenalidomide exceeds the glomerular filtration rate.
 
 The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with MM, MDS or MCL.
 
-Effect of Dexamethasone
+Drug Interactions
 
 Co-administration of single or multiple doses of dexamethasone (40 mg) has no clinically relevant effect on the multiple dose pharmacokinetics of REVLIMID (25 mg).
+
+In vitro, lenalidomide is a substrate, but is not an inhibitor of P-glycoprotein (P-gp).
+In healthy volunteers, co-administration of REVLIMID (25 mg) after multiple doses of a P-gp inhibitor such as quinidine (600 mg twice daily) does not result in a clinically significant increase in the Cmax and AUC of REVLIMID.
+In healthy volunteers, co-administration of the P-gp inhibitor/substrate, temsirolimus (25 mg), with REVLIMID (25 mg) does not significantly alter the pharmacokinetics of REVLIMID, temsirolimus, or its metabolite, sirolimus.
+
+In vitro studies demonstrated that REVLIMID is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1 or OATP2), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2.
+Lenalidomide is not an inhibitor of bile salt export pump (BSEP), BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, or OCT2.
+Lenalidomide does not inhibit bilirubin glucuronidation formation in human liver microsomes with UGT1A1 genotyped as UGT1A1*1/*1, UGT1A1*1/*28, and UGT1A1*28/*28.
 
 Specific Populations
 
 Patients with Renal Impairment: The pharmacokinetics of lenalidomide were studied in patients with renal impairment due to nonmalignant conditions.
 In this study, 5 patients with mild renal impairment (creatinine clearance 57-74 mL/min), 6 patients with moderate renal impairment (creatinine clearance 33-46 mL/min), 6 patients with severe renal impairment (creatinine clearance 17-29 mL/min), and 6 patients with end stage renal disease requiring dialysis were administered a single oral 25-mg dose of REVLIMID.
-As a control group comparator, 7 healthy subjects of similar age with normal renal function (creatinine clearance 83-145 mL/min) were also administered a single oral 25-mg dose of REVLIMID.
 As creatinine clearance decreased from mild to severe impairment, half-life increased and drug clearance decreased linearly.
 Patients with moderate and severe renal impairment had a 3-fold increase in half-life and a 66% to 75% decrease in drug clearance compared to healthy subjects.
 Patients on hemodialysis (n=6) given a single, 25-mg dose of lenalidomide has an approximate 4.5-fold increase in half-life and an 80% decrease in drug clearance compared to healthy subjects.
-Approximately 40% of the administered dose was removed from the body during a single dialysis session.
+Approximately 30% of the drug in body was removed during a 4-hour hemodialysis session.
 
 In MM patients, those patients with mild renal impairment had an AUC 56% greater than those with normal renal function.
 

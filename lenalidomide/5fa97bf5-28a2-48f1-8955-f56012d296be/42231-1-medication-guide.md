@@ -2,7 +2,7 @@
 
 What is the most important information I should know about REVLIMID?
 
-- Before you begin taking REVLIMID, you must read and agree to all of the instructions in the REVLIMID REMS™ program (formerly known as the RevAssist® program).
+- Before you begin taking REVLIMID, you must read and agree to all of the instructions in the REVLIMID REMS® program (formerly known as the RevAssist® program).
 - REVLIMID may cause serious side effects including:
 
 Possible birth defects (deformed babies) or death of an unborn baby.
@@ -15,10 +15,10 @@ REVLIMID has harmed unborn animals in animal testing.
 
 Females must not get pregnant:
 
-- for 4 weeks before starting REVLIMID
+- for at least 4 weeks before starting REVLIMID
 - while taking REVLIMID
 - during any breaks (interruptions) in your treatment with REVLIMID
-- for 4 weeks after stopping REVLIMID
+- for at least 4 weeks after stopping REVLIMID
 
 If you become pregnant while taking REVLIMID, stop taking it right away and call your healthcare provider.
 If your healthcare provider is not available, you can call 1-888-668-2528 for medical information.
@@ -40,8 +40,8 @@ Men, if your female partner becomes pregnant, you should call your healthcare pr
 - Low white blood cells (neutropenia) and low platelets (thrombocytopenia).
   REVLIMID causes low white blood cells and low platelets in most people.
   You may need a blood transfusion or certain medicines if your blood counts drop too low.
-  If you are being treated for deletion 5q myelodysplastic syndromes (MDS) your blood counts should be checked weekly during the first 8 weeks of treatment with REVLIMID, and at least monthly thereafter.
-  If you are being treated for multiple myeloma, your blood counts should be checked every 2 weeks for the first 12 weeks and then at least monthly thereafter.
+  Your healthcare provider should check your blood counts often especially during the first several months of treatment with REVLIMID, and then at least monthly.
+  Tell your healthcare provider if you develop any bleeding or bruising, during treatment with REVLIMID.
 - Blood clots.
   Blood clots in the arteries, veins, and lungs happen more often in people who take REVLIMID.
   This risk is even higher for people with multiple myeloma who take the medicine dexamethasone with REVLIMID.
@@ -62,7 +62,7 @@ What is REVLIMID?
 
 REVLIMID is a prescription medicine used to treat people:
 
-- with multiple myeloma (MM) who have received at least one prior medicine, taken along with the medicine dexamethasone.
+- with multiple myeloma (MM), in combination with the medicine dexamethasone.
 - who have a condition called myelodysplastic syndromes (MDS).
   REVLIMID is for the type of MDS with a chromosome problem where part of chromosome 5 is missing.
   This type of MDS is known as deletion 5q MDS.
@@ -76,9 +76,9 @@ It is not known if REVLIMID is safe and effective in children under 18 years of 
 
 Who should not take REVLIMID?
 
-- Do not take REVLIMID if you are pregnant, plan to become pregnant, or become pregnant during REVLIMID treatment.
+- Do not take REVLIMID if you: are pregnant, plan to become pregnant, or become pregnant during REVLIMID treatment.
   See “What is the most important information I should know about REVLIMID?”
-- Do not take REVLIMID if you are allergic to lenalidomide or any of the ingredients in REVLIMID.
+- are allergic to lenalidomide or any of the ingredients in REVLIMID.
   See the end of this Medication Guide for a complete list of ingredients in REVLIMID.
 
 What should I tell my healthcare provider before taking REVLIMID?
@@ -103,16 +103,16 @@ Keep a list of them to show your healthcare provider and pharmacist.
 
 How should I take REVLIMID?
 
-Take REVLIMID exactly as prescribed and follow all the instructions of the REVLIMID REMS™ program (formerly known as the RevAssist® program).
+Take REVLIMID exactly as prescribed and follow all the instructions of the REVLIMID REMS® program (formerly known as the RevAssist® program).
 
 Before prescribing REVLIMID, your healthcare provider will:
 
 - 
-  - explain the REVLIMID REMS™ program to you
+  - explain the REVLIMID REMS® program to you
   - have you sign the Patient-Physician Agreement Form
 
 - Swallow REVLIMID capsules whole with water 1 time a day.
-  Do not break, chew, or open your capsules.
+  Do not open, break, or chew your capsules.
 - Take REVLIMID at about the same time each day.
 - Do not open the REVLIMID capsules or handle them any more than needed.
   If you touch a broken REVLIMID capsule or the medicine in the capsule, wash the area of your body with soap and water.
@@ -149,7 +149,7 @@ REVLIMID may cause serious side effects, including:
   REVLIMID may cause you to have serious heart problems that can lead to death, including atrial fibrillation, heart attack, or heart failure.
   You should not take REVLIMID if you have CLL unless you are participating in a controlled clinical trial.
 - Risk of new cancers (malignancies).
-  People with multiple myeloma who receive melphalan (a type of chemotherapy) and a blood stem cell transplant with the addition of REVLIMID have a higher risk of developing new cancers, including certain blood cancers (acute myelogenous leukemia or AML) and a type of lymphoma called Hodgkin lymphoma.
+  People with multiple myeloma who receive Revlimid and melphalan, and a blood stem cell transplant have a higher risk of developing new cancers, including certain blood cancers (acute myelogenous leukemia or AML, and myelodysplastic syndrome or MDS) and a type of lymphoma called Hodgkin lymphoma.
   Talk with your healthcare provider about your risk of developing new cancers if you take REVLIMID.
   Your healthcare provider will check you for new cancers during your treatment with REVLIMID.
 - Severe liver problems, including liver failure and death.
@@ -162,9 +162,13 @@ REVLIMID may cause serious side effects, including:
 
 Your healthcare provider will do blood tests to check your liver function during your treatment with REVLIMID.
 
-- Serious skin reactions.
-  Serious skin reactions can happen with REVLIMID and may cause death.
-  Call your healthcare provider right away if you have any skin reaction while taking REVLIMID.
+- Serious allergic reactions and serious skin reactions can happen with REVLIMID and may cause death.
+  Call your healthcare provider right away if you develop any of these signs or symptoms of a serious allergic reaction or serious skin reaction during treatment with REVLIMID:
+  - swelling of your face, eyes, lips, tongue, throat
+  - trouble swallowing
+  - trouble breathing
+  - skin rash, hives, or peeling of your skin
+  - blisters
 - Tumor lysis syndrome (TLS).
   TLS is caused by the fast breakdown of cancer cells.
   TLS can cause kidney failure and the need for dialysis treatment, abnormal heart rhythm, seizure and sometimes death.
@@ -172,16 +176,17 @@ Your healthcare provider will do blood tests to check your liver function during
 - Worsening of your tumor (tumor flare reaction).
   Tell your healthcare provider if you get any of these symptoms of tumor flare reaction while taking REVLIMID: tender swollen lymph nodes, low-grade fever, pain, or rash.
 
-REVLIMID may cause serious side effects, including:
-
-- See “What is the most important information I should know about REVLIMID?”
-
 Common side effects of REVLIMID include:
 
 - diarrhea
+- constipation
 - itching
 - rash
 - tiredness
+- swelling of the limbs and skin
+- nausea
+- fever
+- cough
 
 These are not all the possible side effects of REVLIMID.
 
@@ -220,14 +225,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for: Celgene Corporation Summit, NJ 07901
 
-Revised 2014
+Revised 2015
 
-REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
+REVLIMID®, RevAssist®, REVLIMID REMS®, and THALOMID® are registered trademarks of Celgene Corporation.
 
-REVLIMID REMS™ is a trademark of Celgene Corporation.
+Pat.www.celgene.com/therapies
 
-Pat. http://www.celgene.com/products.aspx
+©2005-2015 Celgene Corporation, All Rights Reserved.
 
-©2005-2014 Celgene Corporation, All Rights Reserved.
-
-RevPlyMG.019 09/14
+RevPlyPI.020/MG.020 02/15

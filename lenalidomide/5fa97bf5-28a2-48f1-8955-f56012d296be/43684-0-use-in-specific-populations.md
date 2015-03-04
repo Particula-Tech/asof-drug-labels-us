@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Boxed Warnings and Contraindications (4.1)]
+Pregnancy Category X [see Boxed Warnings and Contraindications (4.1).]
 
 Risk Summary
 
@@ -30,24 +30,31 @@ The study revealed a few adverse effects on the offspring of female rats treated
 The male offspring exhibited slightly delayed sexual maturation and the female offspring had slightly lower body weight gains during gestation when bred to male offspring.
 As with thalidomide, the rat model may not adequately address the full spectrum of potential human embryo-fetal developmental effects for lenalidomide.
 
-## 8.3 Nursing mothers
+## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for adverse reactions in nursing infants from lenalidomide, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric use
+## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-## 8.5 Geriatric use
+## 8.5 Geriatric Use
 
-REVLIMID has been used in multiple myeloma (MM) clinical trials in patients up to 86 years of age.
+REVLIMID has been used in multiple myeloma (MM) clinical trials in patients up to 91 years of age.
 
-Of the 703 MM patients who received study treatment in Studies 1 and 2, 45% were age 65 or over while 12% of patients were age 75 and over.
+After At Least One Prior Therapy: Of the 703 MM patients who received study treatment in Studies 1 and 2, 45% were age 65 or over while 12% of patients were age 75 and over.
 The percentage of patients age 65 or over was not significantly different between the REVLIMID/dexamethasone and placebo/dexamethasone groups.
 Of the 353 patients who received REVLIMID/dexamethasone, 46% were age 65 and over.
 In both studies, patients > 65 years of age were more likely than patients ≤ 65 years of age to experience DVT, pulmonary embolism, atrial fibrillation, and renal failure following use of REVLIMID.
 No differences in efficacy were observed between patients over 65 years of age and younger patients.
+
+NDMM: Overall, of the 1613 patients in the NDMM study who received study treatment, 94% (1521 /1613) were 65 years of age or older, while 35% (561/1613) were over 75 years of age.
+The percentage of patients over age 75 was similar between study arms (Rd Continuous: 33%; Rd18: 34%; MPT: 33%).
+Overall, across all treatment arms, the frequency in most of the AE categories (eg, all AEs, grade 3/4 AEs, serious AEs) was higher in older (> 75 years of age) than in younger (≤ 75 years of age) subjects.
+Grade 3 or 4 AEs in the General Disorders and Administration Site Conditions SOC were consistently reported at a higher frequency (with a difference of at least 5%) in older subjects than in younger subjects across all treatment arms.
+Grade 3 or 4 TEAEs in the Infections and Infestations, Cardiac Disorders (including cardiac failure and congestive cardiac failure), Skin and Subcutaneous Tissue Disorders, and Renal and Urinary Disorders (including renal failure) SOCs were also reported slightly, but consistently, more frequently (<5% difference), in older subjects than in younger subjects across all treatment arms.
+For other SOCs (e.g., Blood and Lymphatic System Disorders, Infections and Infestations, Cardiac Disorders, Vascular Disorders), there was a less consistent trend for increased frequency of grade 3/4 AEs in older vs younger subjects across all treatment arms Serious AEs were generally reported at a higher frequency in the older subjects than in the younger subjects across all treatment arms.
 
 REVLIMID has been used in del 5q MDS clinical trials in patients up to 95 years of age.
 

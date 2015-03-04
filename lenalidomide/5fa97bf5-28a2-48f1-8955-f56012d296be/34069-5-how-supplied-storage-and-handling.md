@@ -45,7 +45,7 @@ Store at 20°C - 25°C (68°F - 77°F); excursions permitted to 15°C - 30°C (5
 ## 16.3 Handling and Disposal
 
 Care should be exercised in the handling of REVLIMID.
-REVLIMID capsules should not be opened or crushed.
+REVLIMID capsules should not be opened or broken.
 If powder from REVLIMID contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If REVLIMID contacts the mucous membranes, flush thoroughly with water.
 
