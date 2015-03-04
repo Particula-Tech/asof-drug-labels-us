@@ -9,10 +9,10 @@ The antihypertensive effects of verapamil hydrochloride extended-release capsule
 
 If adequate response is not obtained with 120 mg of verapamil hydrochloride extended-release capsules, the dose may be titrated upward in the following manner:
 
-- a)180 mg in the morning,
-- b)240 mg in the morning,
-- c)360 mg in the morning,
-- d)480 mg in the morning.
+- •180 mg in the morning,
+- •240 mg in the morning,
+- •360 mg in the morning,
+- •480 mg in the morning.
 
 Verapamil extended-release capsules are for once a day administration.
 When switching from immediate-release verapamil to verapamil hydrochloride extended-release capsules, the same total daily dose of verapamil hydrochloride extended-release capsules can be used.
