@@ -3,7 +3,7 @@
 RANEXA (ranolazine) is available as a film-coated, non-scored, extended-release tablet for oral administration.
 
 Ranolazine is a racemic mixture, chemically described as 1-piperazineacetamide, N-(2,6-dimethylphenyl)-4-[2-hydroxy-3-(2-methoxyphenoxy)propyl]-, (±)-.
-It has an empirical formula of C24H33N3O4, a molecular weight of 427.54 g/mole, and the following structural formula:
+It has an empirical formula of C 24H 33N 3O 4, a molecular weight of 427.54 g/mole, and the following structural formula:
 
 Ranolazine is a white to off-white solid.
 Ranolazine is soluble in dichloromethane and methanol; sparingly soluble in tetrahydrofuran, ethanol, acetonitrile, and acetone; slightly soluble in ethyl acetate, isopropanol, toluene, and ethyl ether; and very slightly soluble in water.
