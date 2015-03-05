@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019955"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Ferring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "55566-2600-0",
+    "55566-2700-0"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "desmopressin acetate",
+      "name": "DDAVP"
+    }
+  ],
+  "setid": "6d55baa9-2b62-469c-93ae-3909ab249332",
+  "source": "dailymed"
+}
