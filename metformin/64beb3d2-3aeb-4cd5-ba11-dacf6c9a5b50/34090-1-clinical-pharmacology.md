@@ -254,7 +254,7 @@ Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Cimetidine | 0.95AUC0-24hr | 1.01 |
-| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg | Glyburide | 0.78Ratio of arithmetic means, p value of difference < 0.05 | 0.63 |
+| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | Furosemide | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | Nifedipine | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | Propranolol | 1.01 | 0.94 |

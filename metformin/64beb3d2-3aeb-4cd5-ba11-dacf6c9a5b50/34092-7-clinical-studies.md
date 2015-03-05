@@ -167,9 +167,9 @@ Table 12: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as 
 | --- | --- | --- |
 | A1C (%) | N = 223 | N = 229 |
 | Baseline (mean) | 8.7 | 8.6 |
-| Change from baseline (adjusted meanLeast squares mean adjusted for insulin use at the screening visit, type of insulin used at the screening visit (pre-mixed vs. non pre-mixed [intermediate- or long-acting]), and baseline value., Treatment by insulin stratum interaction was not significant (p>0.10).) | -0.7 | -0.1 |
+| Change from baseline (adjusted meanLeast squares means adjusted for insulin use at the screening visit, type of insulin used at the screening visit (pre-mixed vs. non pre-mixed [intermediate- or long-acting]), and baseline value., Treatment by insulin stratum interaction was not significant (p>0.10).) | -0.7 | -0.1 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.5p<0.001 compared to placebo. (-0.7, -0.4) |  |
-| Patients (%) achieving A1C (%) <7% | 32 (14%) | 12 (5%) |
+| Patients (%) achieving A1C <7% | 32 (14%) | 12 (5%) |
 | FPG (mg/dL) | N = 225 | N = 229 |
 | Baseline (mean) | 173 | 176 |
 | Change from baseline (adjusted mean) | -22 | -4 |
