@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 2.5 mL Bottle Carton
+
+NDC 55566-2400-0
+
+DDAVP® Rhinal Tube desmopressin acetate
+
+10 mcg/0.1 mL
+
+FOR INTRANASAL USE ONLY
+
+Rx ONLY
+
+2.5 mL Bottle
+
+FERRING PHARMACEUTICALS
