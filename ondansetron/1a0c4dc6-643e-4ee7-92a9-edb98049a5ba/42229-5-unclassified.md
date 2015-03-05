@@ -14,7 +14,7 @@ The first trial compared oral doses of ondansetron 24 mg once a day, 8 mg twice 
 A total of 66% of patients in the ondansetron 24 mg once-a-day group, 55% in the ondansetron 8 mg twice-a-day group, and 55% in the ondansetron 32 mg once-a-day group completed the 24-hour study period with 0 emetic episodes and no rescue antiemetic medications, the primary endpoint of efficacy.
 Each of the 3 treatment groups was shown to be statistically significantly superior to a historical placebo control.
 
-In the same trial, 56% of patients receiving oral ondansetron 24 mg once a day experienced no nausea during the 24-hour study period, compared with 36% of patients in the oral ondansetron 8 mg twice a day group (p = 0.001) and 50% in the oral ondansetron 32 mg once a day group.
+In the same trial, 56% of patients receiving oral ondansetron 24 mg once a day experienced no nausea during the 24-hour study period, compared with 36% of patients in the oral ondansetron 8 mg twice a day group (P = 0.001) and 50% in the oral ondansetron 32 mg once a day group.
 
 In a second trial, efficacy of the oral ondansetron 24 mg once a day regimen in the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥50 mg/m2, was confirmed.
 
@@ -99,8 +99,3 @@ Ondansetron tablets (16 mg) were significantly more effective than placebo in pr
 The study populations in all trials thus far consisted of women undergoing inpatient surgical procedures.
 No studies have been performed in males.
 No controlled clinical study comparing ondansetron tablets to ondansetron injection has been performed.
-
-# PATIENT COUNSELING INFORMATION
-
-Advise patients of the possibility of serotonin syndrome with concomitant use of ondansetron and another serotonergic agent such as medications to treat depression and migraines.
-Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms.

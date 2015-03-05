@@ -17,7 +17,7 @@ The dosage recommendation is the same as for the general population.
 
 The recommended adult oral dosage is one 8 mg ondansetron tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of Ondansetron Oral Solution, USP given twice a day.
 The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose.
-One 8 mg tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of Ondansetron Oral Solution, USP should be administered twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy.
+One 8 mg ondansetron tablet or 10 mL (2 teaspoonfuls equivalent to 8 mg of ondansetron) of Ondansetron Oral Solution, USP should be administered twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy.
 
 ### Pediatric Use
 

@@ -37,7 +37,7 @@ In vitro metabolism studies have shown that ondansetron is a substrate for human
 In terms of overall ondansetron turnover, CYP3A4 played the predominant role.
 Because of the multiplicity of metabolic enzymes capable of metabolizing ondansetron, it is likely that inhibition or loss of one enzyme (e.g., CYP2D6 genetic deficiency) will be compensated by others and may result in little change in overall rates of ondansetron elimination.
 Ondansetron elimination may be affected by cytochrome P-450 inducers.
-In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and t1/2 of ondansetron was observed.1 This resulted in a significant increase in clearance.
+In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and T1/2 of ondansetron was observed.1 This resulted in a significant increase in clearance.
 However, on the basis of available data, no dosage adjustment for ondansetron is recommended (see PRECAUTIONS: Drug Interactions).
 
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
