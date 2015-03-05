@@ -1,0 +1,27 @@
+# PRINCIPAL DISPLAY PANEL - Ten 1 mL Ampule Carton
+
+NDC-55566-2200-0
+
+DDAVP® Injection desmopressin acetate
+
+4 µg/mL
+
+PRESERVATIVE FREE FOR INJECTION USE ONLY
+
+Ten 1 mL Ampules
+
+FERRING PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - One 10 mL Vial Carton
+
+NDC 55566-2300-0
+
+DDAVP® Injection desmopressin acetate
+
+4 µg/mL
+
+FOR INJECTION USE ONLY
+
+One 10 mL Vial
+
+FERRING PHARMACEUTICALS

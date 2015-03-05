@@ -1,0 +1,12 @@
+4 mcg/mL
+
+Rx only
+
+Manufactured for: FERRING PHARMACEUTICALS INC. PARSIPPANY, NJ 07054
+
+Origin Sweden
+
+Rev.
+12/2014
+
+2009053645
