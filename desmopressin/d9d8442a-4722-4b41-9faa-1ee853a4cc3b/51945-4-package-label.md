@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 5 mL Bottle Carton
+
+NDC 55566-2500-0
+
+DDAVP® Nasal Spray desmopressin acetate
+
+10 mcg/0.1 mL
+
+FOR INTRANASAL USE ONLY
+
+Rx ONLY
+
+One 5 mL Bottle (50 Doses)
+
+FERRING PHARMACEUTICALS
