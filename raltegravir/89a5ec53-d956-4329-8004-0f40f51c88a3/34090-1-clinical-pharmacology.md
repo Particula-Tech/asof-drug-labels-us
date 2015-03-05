@@ -148,6 +148,10 @@ Table 10: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adult
 | aluminum and magnesium hydroxide antacid | 20 mL single dose given with raltegravir | 400 mg twice daily | 25 | 0.56 (0.42, 0.73) | 0.51 (0.40, 0.65) | 0.37 (0.29, 0.48) |
 | 20 mL single dose given 2 hours before raltegravir | 23 | 0.49 (0.33, 0.71) | 0.49 (0.35, 0.67) | 0.44 (0.34, 0.55) |  |  |
 | 20 mL single dose given 2 hours after raltegravir | 23 | 0.78 (0.53, 1.13) | 0.70 (0.50, 0.96) | 0.43 (0.34, 0.55) |  |  |
+| 20 mL single dose given 4 hours before raltegravir | 17 | 0.78 (0.55, 1.10) | 0.81 (0.63, 1.05) | 0.40 (0.31, 0.52) |  |  |
+| 20 mL single dose given 4 hours after raltegravir | 18 | 0.70 (0.48, 1.04) | 0.68 (0.50, 0.92) | 0.38 (0.30, 0.49) |  |  |
+| 20 mL single dose given 6 hours before raltegravir | 16 | 0.90 (0.58, 1.40) | 0.87 (0.64, 1.18) | 0.50 (0.39, 0.65) |  |  |
+| 20 mL single dose given 6 hours after raltegravir | 16 | 0.90 (0.58, 1.41) | 0.89 (0.64, 1.22) | 0.51 (0.40, 0.64) |  |  |
 | atazanavir | 400 mg daily | 100 mg single dose | 10 | 1.53 (1.11, 2.12) | 1.72 (1.47, 2.02) | 1.95 (1.30, 2.92) |
 | atazanavir/ritonavir | 300 mg/100 mg daily | 400 mg twice daily | 10 | 1.24 (0.87, 1.77) | 1.41 (1.12, 1.78) | 1.77 (1.39, 2.25) |
 | boceprevir | 800 mg three times daily | 400 mg single dose | 22 | 1.11 (0.91-1.36) | 1.04 (0.88-1.22) | 0.75 (0.45-1.23) |
@@ -158,7 +162,6 @@ Table 10: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adult
 | rifampin | 600 mg daily | 400 mg single dose | 9 | 0.62 (0.37, 1.04) | 0.60 (0.39, 0.91) | 0.39 (0.30, 0.51) |
 | rifampin | 600 mg daily | 400 mg twice daily when administered alone; 800 mg twice daily when administered with rifampin | 14 | 1.62 (1.12, 2.33) | 1.27 (0.94, 1.71) | 0.47 (0.36, 0.61) |
 | ritonavir | 100 mg twice daily | 400 mg single dose | 10 | 0.76 (0.55, 1.04) | 0.84 (0.70, 1.01) | 0.99 (0.70, 1.40) |
-| telaprevir | 750 mg every 8 hours | 400 mg twice daily | 20 | 1.26 (0.97, 1.62) | 1.31 (1.03, 1.67) | 1.78 (1.26, 2.53) |
 | tenofovir | 300 mg daily | 400 mg twice daily | 9 | 1.64 (1.16, 2.32) | 1.49 (1.15, 1.94) | 1.03 (0.73, 1.45) |
 | tipranavir/ritonavir | 500 mg/200 mg twice daily | 400 mg twice daily | 15 (14 for Cmin) | 0.82 (0.46, 1.46) | 0.76 (0.49, 1.19) | 0.45 (0.31, 0.66) |
 
@@ -177,15 +180,22 @@ Raltegravir at concentrations of 31 ± 20 nM resulted in 95% inhibition (EC95) o
 In addition, 5 clinical isolates of HIV-1 subtype B had EC95 values ranging from 9 to 19 nM in cultures of mitogen-activated human peripheral blood mononuclear cells.
 In a single-cycle infection assay, raltegravir inhibited infection of 23 HIV-1 isolates representing 5 non-B subtypes (A, C, D, F, and G) and 5 circulating recombinant forms (AE, AG, BF, BG, and cpx) with EC50 values ranging from 5 to 12 nM.
 Raltegravir also inhibited replication of an HIV-2 isolate when tested in CEMx174 cells (EC95 value = 6 nM).
-Additive to synergistic antiretroviral activity was observed when human T-lymphoid cells infected with the H9IIIB variant of HIV-1 were incubated with raltegravir in combination with non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, or nevirapine); nucleoside analog reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine); protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, or saquinavir); or the entry inhibitor enfuvirtide.
+Additive to synergistic antiretroviral activity was observed when human T-lymphoid cells infected with the H9IIIB variant of HIV-1 were incubated with raltegravir in combination with non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, or nevirapine); nucleoside analog reverse transcriptase inhibitors (abacavir, didanosine, lamivudine, stavudine, tenofovir, or zidovudine); protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, or saquinavir); or the entry inhibitor enfuvirtide.
 
 Resistance
 
 The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, Q95K/R, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
 E92Q and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir-treatment failure subjects.
 
-Treatment-Naïve Adult Subjects: By Week 96 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 10 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+Treatment-Naïve Adult Subjects: By Week 240 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 12 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 
 Treatment-Experienced Adult Subjects: By Week 96 in the BENCHMRK trials, at least one of the primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 76 of the 112 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 The emergence of the primary raltegravir resistance-associated substitutions was observed cumulatively in 70 subjects by Week 48 and 78 subjects by Week 96, 15.2% and 17% of the raltegravir recipients, respectively.
 Some (n=58) of those HIV-1 isolates harboring one or more of the primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 26.3-fold (mean 48.9 ± 44.8-fold decrease, ranging from 0.8- to 159-fold) compared to the wild-type reference.
+
+Cross Resistance
+
+Cross resistance has been observed among HIV-1 integrase strand transfer inhibitors (INSTIs).
+Amino acid substitutions in HIV-1 integrase conferring resistance to raltegravir generally also confer resistance to elvitegravir.
+Substitutions at amino acid Y143 confer greater reductions in susceptibility to raltegravir than to elvitegravir, and the E92Q substitution confers greater reductions in susceptibility to elvitegravir than to raltegravir.
+Viruses harboring a substitution at amino acid Q148, along with one or more other raltegravir resistance substitutions, may also have clinically significant resistance to dolutegravir.

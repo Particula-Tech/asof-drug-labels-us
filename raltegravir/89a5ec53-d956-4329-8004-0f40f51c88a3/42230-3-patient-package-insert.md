@@ -53,27 +53,15 @@ Before you take ISENTRESS, tell your doctor if you:
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take ISENTRESS.
   - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-  - It is not known if ISENTRESS passes into your breast milk.
   - Talk with your doctor about the best way to feed your baby.
 
 Tell your doctor about all the medicines you take, including, prescription and over-the-counter medicines, vitamins, and herbal supplements.
-ISENTRESS and certain other medicines may affect each other causing serious side effects.
-ISENTRESS may affect the way other medicines work and other medicines may affect how ISENTRESS works.
+Some medicines interact with ISENTRESS.
+Keep a list of your medicines to show your doctor and pharmacist.
 
-Especially tell your doctor if you take any of these medicines:
-
-- rifampin (Rifadin, Rifamate, Rifater, Rimactane)
-- an antacid medicine that contains aluminum or magnesium
-- a cholesterol lowering medicine (statin)
-- a medicine that contains fenofibrate (Antara, Lipofen, Tricor, Trilipix)
-- gemfibrozil (Lopid)
-- a medicine that contains zidovudine (Combivir, Retrovir, Trizivir)
-
-Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
-
-Know the medicines you take.
-Keep a list of them to show your doctor and pharmacist when you get a new medicine.
-Do not start any new medicines while you are taking ISENTRESS without first talking with your doctor.
+- You can ask your doctor or pharmacist for a list of medicines that interact with ISENTRESS.
+- Do not start taking a new medicine without telling your healthcare provider.
+  Your healthcare provider can tell you if it is safe to take ISENTRESS with other medicines.
 
 How should I take ISENTRESS?
 
