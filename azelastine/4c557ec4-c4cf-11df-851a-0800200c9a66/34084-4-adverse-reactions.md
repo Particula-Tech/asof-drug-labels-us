@@ -12,56 +12,106 @@ Systemic and local corticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect rates observed in practice.
 
-The safety data described below reflect exposure to Dymista Nasal Spray in 853 patients (12 years of age and older; 36% male and 64% female) with seasonal allergic rhinitis in 3 double-blind, placebo-controlled clinical trials of 2-week duration.
-The racial distribution for the 3 clinical trials was 80% white, 16% black, 2% Asian, and 1% other.
-In the 12-month open-label, active-controlled clinical trial, 404 Asian patients (240 males and 164 females) with perennial allergic rhinitis or vasomotor rhinitis were treated with Dymista Nasal Spray, 1 spray per nostril twice daily.
-
 Adults and Adolescents 12 Years of Age and Older
 
-In the 3 placebo controlled clinical trials of 2-week duration, 3411 patients with seasonal allergic rhinitis were treated with 1 spray per nostril of Dymista Nasal Spray, azelastine hydrochloride nasal spray, fluticasone propionate nasal spray, or placebo, twice daily.
-The azelastine hydrochloride and fluticasone propionate comparators use the same vehicle and device as Dymista Nasal Spray and are not commercially marketed.
-Overall, adverse reactions were 16% in the Dymista Nasal Spray treatment groups, 15% in the azelastine hydrochloride nasal spray groups, 13% in the fluticasone propionate nasal spray groups, and 12% in the placebo groups.
-Overall, 1% of patients in both the Dymista Nasal Spray and placebo groups discontinued due to adverse reactions.
+The safety data described below in adults and adolescents 12 years of age and older reflect exposure to DYMISTA in 853 patients (12 years of age and older; 36% male and 64% female) with seasonal allergic rhinitis in 3 double-blind, placebo-controlled clinical trials of 2-week duration.
+The racial distribution for the 3 clinical trials was 80% white, 16% black, 2% Asian, and 1% other.
 
-Table 1 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with Dymista Nasal Spray in the seasonal allergic rhinitis controlled clinical trials.
+In the 3 placebo controlled clinical trials of 2-week duration, 3411 patients with seasonal allergic rhinitis were treated with 1 spray per nostril of DYMISTA, azelastine hydrochloride nasal spray, fluticasone propionate nasal spray, or placebo, twice daily.
+The azelastine hydrochloride and fluticasone propionate comparators use the same vehicle and device as DYMISTA and are not commercially marketed.
+Overall, adverse reactions were 16% in the DYMISTA treatment groups, 15% in the azelastine hydrochloride nasal spray groups, 13% in the fluticasone propionate nasal spray groups, and 12% in the placebo groups.
+Overall, 1% of patients in both the DYMISTA and placebo groups discontinued due to adverse reactions.
+
+Table 1 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with DYMISTA in the seasonal allergic rhinitis controlled clinical trials.
 
 Table 1.
-Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with Dymista Nasal Spray in Adult and Adolescent Patients With Seasonal Allergic Rhinitis
+Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Adult and Adolescent Patients With Seasonal Allergic Rhinitis
 
 |  | 1 spray per nostril twice daily |  |  |  |
 | --- | --- | --- | --- | --- |
-| Dymista Nasal Spray (N=853)* | Azelastine Hydrochloride Nasal Spray† (N=851) | Fluticasone Propionate Nasal Spray† (N=846) | Vehicle Placebo (N=861) |  |
+| DYMISTA (N=853)* | Azelastine Hydrochloride Nasal Spray† (N=851) | Fluticasone Propionate Nasal Spray† (N=846) | Vehicle Placebo (N=861) |  |
 | Dysgeusia | 30(4%) | 44(5%) | 4(1%) | 2(<1%) |
 | Headache | 18(2%) | 20(2%) | 20(2%) | 10(1%) |
 | Epistaxis | 16(2%) | 14(2%) | 14(2%) | 15(2%) |
 | *Safety population N=853, intent-to-treat population N=848 † Not commercially marketed |  |  |  |  |
 
-In the above trials, somnolence was reported in <1% of patients treated with Dymista Nasal Spray (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
+In the above trials, somnolence was reported in <1% of patients treated with DYMISTA (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
 
-Long-Term (12-Month) Safety Trial:
+Pediatric Patients 6-11 Years of Age
 
-In the 12-month, open-label, active-controlled, long-term safety trial, 404 patients (12 years of age and older) with perennial allergic rhinitis or vasomotor rhinitis were treated with Dymista Nasal Spray 1 spray per nostril twice daily and 207 patients were treated with fluticasone propionate nasal spray, 2 sprays per nostril once daily.
-Overall, adverse reactions were 47% in the Dymista Nasal Spray treatment group and 44% in the fluticasone propionate nasal spray group.
-The most frequently reported adverse reactions (≥ 2%) with Dymista Nasal Spray were headache, pyrexia, cough, nasal congestion, rhinitis, dysgeusia, viral infection, upper respiratory tract infection, pharyngitis, pain, diarrhea, and epistaxis.
-In the Dymista Nasal Spray treatment group, 7 patients (2%) had mild epistaxis and 1 patient (<1%) had moderate epistaxis.
+The safety data described below in children 6-11 years of age reflect exposure to DYMISTA in 152 patients (6-11 years of age; 57% male and 43% female) with seasonal allergic rhinitis in one double-blind, placebo-controlled clinical trial of 2-week duration.
+The racial distribution for the clinical trial was 69% white, 31% black, 2% Asian and 2% other.
+
+In the placebo-controlled clinical trial of 2-week duration, patients with seasonal allergic rhinitis were treated with 1 spray per nostril of DYMISTA or placebo, twice daily.
+Overall, adverse reactions were 16% in the DYMISTA treatment group, and 12% in the placebo group.
+Overall, 1% of patients in both the DYMISTA and placebo groups discontinued due to adverse reactions.
+
+Table 2 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with DYMISTA in the seasonal allergic rhinitis controlled clinical trial.
+
+Table 2.
+Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Children 6 to 11 Years of Age With Seasonal Allergic Rhinitis
+
+|  | 1 spray per nostril twice daily |  |  |  |
+| --- | --- | --- | --- | --- |
+| DYMISTA (N=152)* | Vehicle Placebo (N=152) |  |  |  |
+| Dysgeusia | 6 (4%) | 0 (0%) |  |  |
+| Epistaxis | 6 (4%) | 4 (3%) |  |  |
+| *Safety population N=152, intent-to-treat population N=152 |  |  |  |  |
+
+In the above trial, somnolence was not reported [see Warnings and Precautions (5.1)].
+
+Long-Term (12-Month) Safety Trial in Adults and Adolescents 12 Years of Age and Older:
+
+In the 12-month open-label, active-controlled clinical trial, 404 Asian patients (240 males and 164 females) with perennial allergic rhinitis or vasomotor rhinitis were treated with DYMISTA, 1 spray per nostril twice daily.
+
+In the 12-month, open-label, active-controlled, long-term safety trial in adults and adolescents 12 years of age and older, 404 patients with perennial allergic rhinitis or vasomotor rhinitis were treated with DYMISTA 1 spray per nostril twice daily and 207 patients were treated with fluticasone propionate nasal spray, 2 sprays per nostril once daily.
+Overall, adverse reactions were 47% in the DYMISTA treatment group and 44% in the fluticasone propionate nasal spray group.
+The most frequently reported adverse reactions (≥ 2%) with DYMISTA were headache, pyrexia, cough, nasal congestion, rhinitis, dysgeusia, viral infection, upper respiratory tract infection, pharyngitis, pain, diarrhea, and epistaxis.
+In the DYMISTA treatment group, 7 patients (2%) had mild epistaxis and 1 patient (<1%) had moderate epistaxis.
 In the fluticasone propionate nasal spray treatment group 1 patient (<1%) had mild epistaxis.
 No patients had reports of severe epistaxis.
 Focused nasal examinations were performed and no nasal ulcerations or septal perforations were observed.
-Eleven of 404 patients (3%) treated with Dymista Nasal Spray and 6 of 207 patients (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse events.
+Eleven of 404 patients (3%) treated with DYMISTA and 6 of 207 patients (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse events.
+
+Long-Term (3-Month) Safety Trial in Pediatric Patients 6-11 Years of Age
+
+In the 3-month open label active-controlled clinical trial, 264 patients (60% male, 40% female) (80% white, 19% black, 4% Asian and 2% other) with allergic rhinitis were treated with DYMISTA, 1 spray per nostril twice daily.
+
+In the 3-month, open label, active-controlled, safety trial in pediatric patients 6-11 years of age 264 patients (128 patients ≥6 to <9 years of age, and 136 patients ≥9 to <12 years of age) with allergic rhinitis (based on the Investigator’s assessment) were treated with DYMISTA, 1 spray per nostril twice daily and 89 patients (44 patients ≥6 to <9 years of age, and 45 patients ≥9 to <12 years of age) were treated with fluticasone propionate nasal spray, 1 spray per nostril twice daily.
+Overall, adverse reactions were 40% in the DYMISTA treatment group and 36% in the fluticasone propionate nasal spray group.
+The most frequently reported adverse reactions (≥2%) with DYMISTA were epistaxis, headache, oropharyngeal pain, vomiting, upper abdominal pain, cough, pyrexia, otitis media, upper respiratory tract infection, diarrhea, nausea, otitis externa, and urticaria.
+In the DYMISTA treatment group 23 patients (9%) had mild epistaxis and 3 patients (1%) had moderate epistaxis.
+In the fluticasone propionate nasal spray treatment group 8 patients (9%) had mild epistaxis.
+No patients had reports of severe epistaxis.
+Focused nasal examinations were performed and no ulcerations or septal perforations were observed.
+Four of 264 patients (2%) treated with DYMISTA and 3 of 89 (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse events.
+There were two reports of somnolence, one severe, among children taking DYMISTA [see Warnings and Precautions (5.1)].
 
 ## 6.2 Postmarketing Experience
 
+The following spontaneous adverse events have been reported with DYMISTA or one of the components (azelastine and fluticasone).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following spontaneous adverse events have been reported during the marketing of azelastine hydrochloride nasal spray and causal relationship with the drug is unknown: anaphylactoid reaction, application site irritation, atrial fibrillation, chest pain, confusion, dyspnea, facial edema, involuntary muscle contractions, nasal sores, palpitations, paresthesia, parosmia, pruritus, rash, disturbance or loss of sense of smell and/or taste, tolerance, urinary retention, vision abnormal and xerophthalmia.
+Cardiac disorders: atrial fibrillation, increased heart rate, palpitations
 
-In addition, the following events have been identified during post-approval use of fluticasone propionate nasal spray.
-These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to fluticasone propionate or a combination of these factors.
+Eye disorder: blurred vision, cataracts, conjunctivitis, dryness and irritation, eye swelling, glaucoma, increased intraocular pressure, vision abnormal, xerophthalmia
 
-General: Hypersensitivity reactions, including angioedema, skin rash, edema of the face and tongue, pruritus, urticaria, bronchospasm, wheezing, dyspnea, and anaphylaxis/anaphylactoid reactions, which in rare instances were severe.
+Gastrointestinal disorders: nausea, vomiting
 
-Ear, Nose, and Throat: Alteration or loss of sense of taste and/or smell and, rarely, nasal septal perforation, nasal ulcer, sore throat, throat irritation and dryness, cough, hoarseness, and voice changes.
+General disorders and administration site condition: aches and pain, application site irritation, chest pain, edema of face and tongue, fatigue, tolerance
 
-Eye: Dryness and irritation, conjunctivitis, blurred vision, glaucoma, increased intraocular pressure, and cataracts.
+Immune system disorders: anaphylaxis/anaphylactoid reactions which in rare instances were severe, hypersensitivity reactions
 
-Cases of growth suppression have been reported for intranasal corticosteroids, including fluticasone propionate [see Use in Specific Populations (8.4)].
+Musculoskeletal and connective tissue disorders: growth suppression [see Use in Specific Populations (8.4)]
+
+Nervous system disorders: disturbance or loss of smell and/ or taste, dizziness, involuntary muscle contractions, paresthesia, parosmia
+
+Psychiatric disorders: anxiety, confusion, nervousness
+
+Renal and urinary disorders: urinary retention
+
+Respiratory, thoracic and mediastinal disorders: bronchospasm, cough, dysphonia, dyspnea, hoarseness, nasal septal perforation, nasal discomfort, nasal dryness, nasal sores, nasal ulcer, sore throat, throat dryness and irritation, voice changes, wheezing
+
+Skin and subcutaneous tissue disorder: angioedema, erythema, face swelling, pruritus, rash, urticaria
+
+Vascular disorder: hypertension

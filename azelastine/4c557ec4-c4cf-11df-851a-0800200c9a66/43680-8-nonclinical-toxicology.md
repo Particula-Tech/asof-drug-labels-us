@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Dymista Nasal Spray: No studies of carcinogenicity, mutagenicity, or impairment of fertility were conducted with Dymista Nasal Spray; however, studies are available for the individual active components, azelastine hydrochloride and fluticasone propionate, as described below.
+DYMISTA: No studies of carcinogenicity, mutagenicity, or impairment of fertility were conducted with DYMISTA; however, studies are available for the individual active components, azelastine hydrochloride and fluticasone propionate, as described below.
 
 Azelastine hydrochloride: In 2-year carcinogenicity studies in rats and mice, azelastine hydrochloride did not show evidence of carcinogenicity at oral doses up to 30 mg/kg and 25 mg/kg, respectively.
 These doses were approximately 530 and 220 times the maximum recommended human daily intranasal dose [MRHDID] on a mg/m2 basis.

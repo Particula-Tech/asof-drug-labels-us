@@ -2,22 +2,22 @@
 
 ## 5.1 Somnolence
 
-In clinical trials, the occurrence of somnolence has been reported in some patients (6 of 853 patients) taking Dymista Nasal Spray [see Adverse Reactions (6.1)].
-Patients should be cautioned against engaging in hazardous occupations requiring complete mental alertness and motor coordination such as operating machinery or driving a motor vehicle after administration of Dymista Nasal Spray.
-Concurrent use of Dymista Nasal Spray with alcohol or other central nervous system depressants should be avoided because additional reductions in alertness and additional impairment of central nervous system performance may occur [see Drug Interactions (7.1)].
+In clinical trials, the occurrence of somnolence has been reported in some patients (6 of 853 adult and adolescent patients and 2 of 416 children) taking DYMISTA in placebo controlled trials [see Adverse Reactions (6.1)].
+Patients should be cautioned against engaging in hazardous occupations requiring complete mental alertness and motor coordination such as operating machinery or driving a motor vehicle after administration of DYMISTA.
+Concurrent use of DYMISTA with alcohol or other central nervous system depressants should be avoided because additional reductions in alertness and additional impairment of central nervous system performance may occur [see Drug Interactions (7.1)].
 
 ## 5.2 Local Nasal Effects
 
-In clinical trials of 2 to 52 weeks' duration, epistaxis was observed more frequently in patients treated with Dymista Nasal Spray than those who received placebo [see Adverse Reactions (6)].
+In clinical trials of 2 to 52 weeks' duration, epistaxis was observed more frequently in patients treated with DYMISTA than those who received placebo [see Adverse Reactions (6)].
 
 Instances of nasal ulceration and nasal septal perforation have been reported in patients following the intranasal application of corticosteroids.
-There were no instances of nasal ulceration or nasal septal perforation observed in clinical trials with Dymista Nasal Spray.
+There were no instances of nasal ulceration or nasal septal perforation observed in clinical trials with DYMISTA.
 
-Because of the inhibitory effect of corticosteroids on wound healing, patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use Dymista Nasal Spray until healing has occurred.
+Because of the inhibitory effect of corticosteroids on wound healing, patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should avoid use of DYMISTA until healing has occurred.
 
 In clinical trials with fluticasone propionate administered intranasally, the development of localized infections of the nose and pharynx with Candida albicans has occurred.
-When such an infection develops, it may require treatment with appropriate local therapy and discontinuation of treatment with Dymista Nasal Spray.
-Patients using Dymista Nasal Spray over several months or longer should be examined periodically for evidence of Candida infection or other signs of adverse effects on the nasal mucosa.
+When such an infection develops, it may require treatment with appropriate local therapy and discontinuation of treatment with DYMISTA.
+Patients using DYMISTA over several months or longer should be examined periodically for evidence of Candida infection or other signs of adverse effects on the nasal mucosa.
 
 ## 5.3 Glaucoma and Cataracts
 
@@ -25,8 +25,8 @@ Nasal and inhaled corticosteroids may result in the development of glaucoma and/
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
 
 Glaucoma and cataract formation were evaluated with intraocular pressure measurements and slit lamp examinations in a controlled 12-month study in 612 adolescent and adult patients aged 12 years and older with perennial allergic or vasomotor rhinitis (VMR).
-Of the 612 patients enrolled in the study, 405 were randomized to receive Dymista Nasal Spray (1 spray per nostril twice daily) and 207 were randomized to receive fluticasone propionate nasal spray (2 sprays per nostril once daily).
-In the Dymista Nasal Spray group, one patient had increased intraocular pressure at month 6.
+Of the 612 patients enrolled in the study, 405 were randomized to receive DYMISTA (1 spray per nostril twice daily) and 207 were randomized to receive fluticasone propionate nasal spray (2 sprays per nostril once daily).
+In the DYMISTA group, one patient had increased intraocular pressure at month 6.
 In addition, three patients had evidence of posterior subcapsular cataract at month 6 and one at month 12 (end of treatment).
 In the fluticasone propionate group, three patients had evidence of posterior subcapsular cataract at month 12 (end of treatment).
 
@@ -47,7 +47,7 @@ Corticosteroids should be used with caution, if at all, in patients with active 
 ## 5.5 Hypothalamic-Pituitary-Adrenal (HPA) Axis Effects
 
 When intranasal steroids are used at higher than recommended dosages or in susceptible individuals at recommended dosages, systemic corticosteroid effects such as hypercorticism and adrenal suppression may appear.
-If such changes occur, the dosage of Dymista Nasal Spray should be discontinued slowly, consistent with accepted procedures for discontinuing oral corticosteroid therapy.
+If such changes occur, the dosage of DYMISTA should be discontinued slowly, consistent with accepted procedures for discontinuing oral corticosteroid therapy.
 The concomitant use of intranasal corticosteroids with other inhaled corticosteroids could increase the risk of signs or symptoms of hypercorticism and/or suppression of the HPA axis.
 
 The replacement of a systemic corticosteroid with a topical corticosteroid can be accompanied by signs of adrenal insufficiency, and in addition some patients may experience symptoms of withdrawal, e.g., joint and/or muscular pain, lassitude, and depression.
@@ -58,11 +58,11 @@ In those patients who have asthma or other clinical conditions requiring long-te
 
 Ritonavir and other strong cytochrome P450 3A4 (CYP3A4) inhibitors can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
-Therefore, coadministration of Dymista Nasal Spray and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
+Therefore, coadministration of DYMISTA and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 
-Use caution with the coadministration of Dymista Nasal Spray and other potent CYP3A4 inhibitors, such as ketoconazole [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Use caution with the coadministration of DYMISTA and other potent CYP3A4 inhibitors, such as ketoconazole [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 5.7 Effect on Growth
 
 Corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
-Monitor the growth routinely of pediatric patients receiving Dymista Nasal Spray [see Use in Specific Populations (8.4)].
+Monitor the growth routinely of pediatric patients receiving DYMISTA [see Use in Specific Populations (8.4)].

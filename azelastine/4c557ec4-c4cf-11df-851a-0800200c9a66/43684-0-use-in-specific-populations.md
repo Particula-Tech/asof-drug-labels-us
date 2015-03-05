@@ -2,11 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Dymista Nasal Spray: Teratogenic Effects: Pregnancy Category C:
+DYMISTA: Teratogenic Effects: Pregnancy Category C:
 
-There are no adequate and well-controlled clinical trials of Dymista Nasal Spray, azelastine hydrochloride only, or fluticasone propionate only in pregnant women.
+There are no adequate and well-controlled clinical trials of DYMISTA, azelastine hydrochloride only, or fluticasone propionate only in pregnant women.
 Animal reproductive studies of azelastine hydrochloride and fluticasone propionate in mice, rats, and/or rabbits revealed evidence of teratogenicity as well as other developmental toxic effects.
-Because animal reproduction studies are not always predictive of human response, Dymista Nasal Spray should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Because animal reproduction studies are not always predictive of human response, DYMISTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Azelastine hydrochloride: Teratogenic Effects: In mice, azelastine hydrochloride caused embryo-fetal death, malformations (cleft palate; short or absent tail; fused, absent or branched ribs), delayed ossification, and decreased fetal weight at an oral dose approximately 610 times the maximum recommended human daily intranasal dose (MRHDID) in adults (on a mg/m2 basis at a maternal dose of 68.6 mg/kg).
 This dose also caused maternal toxicity as evidenced by decreased body weight.
@@ -33,9 +33,9 @@ Nonteratogenic Effects: Fluticasone propionate crossed the placenta following or
 
 ## 8.3 Nursing Mothers
 
-Dymista Nasal Spray: It is not known whether Dymista Nasal Spray is excreted in human breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when Dymista Nasal Spray is administered to a nursing woman.
-Since there are no data from well-controlled human studies on the use of Dymista Nasal Spray by nursing mothers, based on data from the individual components, a decision should be made whether to discontinue nursing or to discontinue Dymista Nasal Spray, taking into account the importance of Dymista Nasal Spray to the mother.
+DYMISTA: It is not known whether DYMISTA is excreted in human breast milk.
+Because many drugs are excreted in human milk, caution should be exercised when DYMISTA is administered to a nursing woman.
+Since there are no data from well-controlled human studies on the use of DYMISTA by nursing mothers, based on data from the individual components, a decision should be made whether to discontinue nursing or to discontinue DYMISTA, taking into account the importance of DYMISTA to the mother.
 
 Azelastine hydrochloride: It is not known if azelastine hydrochloride is excreted in human milk.
 
@@ -45,17 +45,22 @@ Subcutaneous administration to lactating rats of 10 mcg/kg of tritiated fluticas
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Dymista Nasal Spray in pediatric patients below the age of 12 years have not been established.
+Use of DYMISTA for seasonal allergic rhinitis in pediatric patients 6 to 11 years of age is supported by safety and efficacy data from clinical studies (416 patients 6 to 11 years of age with allergic rhinitis were treated with DYMISTA in controlled clinical trials) and the established efficacy and safety of azelastine hydrochloride nasal spray and fluticasone propionate nasal spray in this age group [see Adverse Reactions(6.1) and Clinical Studies (14)].
+
+Sixty-one patients ages 4-5 years of age were treated with DYMISTA in the pediatric studies described above.
+Safety findings in children 4-5 years of age were similar to those in children 6-11 years of age, but efficacy was not established.
+
+Safety and effectiveness of DYMISTA has not been studied in pediatric patients below the age of 4 years.
 
 Controlled clinical studies have shown that intranasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
 This effect has been observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The long-term effects of this reduction in growth velocity associated with intranasal corticosteroids, including the impact on final adult height, are unknown.
 The potential for “catch-up” growth following discontinuation of treatment with intranasal corticosteroids has not been adequately studied.
-The growth of pediatric patients receiving intranasal corticosteroids, including Dymista Nasal Spray, should be monitored routinely (e.g., via stadiometry).
+The growth of pediatric patients receiving intranasal corticosteroids, including DYMISTA, should be monitored routinely (e.g., via stadiometry).
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks/benefits of treatment alternatives.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of Dymista Nasal Spray did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger patients.
+Clinical trials of DYMISTA did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

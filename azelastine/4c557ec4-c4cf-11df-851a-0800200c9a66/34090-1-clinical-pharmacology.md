@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Dymista Nasal Spray: Dymista Nasal Spray contains both azelastine hydrochloride and fluticasone propionate; therefore, the mechanisms of actions described below for the individual components apply to Dymista Nasal Spray.
+DYMISTA: DYMISTA contains both azelastine hydrochloride and fluticasone propionate; therefore, the mechanisms of actions described below for the individual components apply to DYMISTA.
 These drugs represent two different classes of medications (histamine H1-receptor antagonist and synthetic corticosteroid).
 
 Azelastine hydrochloride: Azelastine hydrochloride, a phthalazinone derivative, exhibits histamine H1-receptor antagonist activity in isolated tissues, animal models, and humans.
-Azelastine hydrochloride in Dymista Nasal Spray is administered as a racemic mixture with no difference in pharmacologic activity noted between the enantiomers in in vitro studies.
+Azelastine hydrochloride in DYMISTA is administered as a racemic mixture with no difference in pharmacologic activity noted between the enantiomers in in vitro studies.
 The major metabolite, desmethylazelastine, also possesses H1-receptor antagonist activity.
 
 Fluticasone propionate: Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity.
@@ -30,16 +30,20 @@ These drugs had no effect on QTc based on analysis of serial electrocardiograms.
 
 ## 12.3 Pharmacokinetics
 
-Absorption: After intranasal administration of two sprays per nostril (548 mcg of azelastine hydrochloride and 200 mcg of fluticasone) of Dymista Nasal Spray, the mean (± standard deviation) peak plasma exposure (Cmax) was 194.5 ± 74.4 pg/mL for azelastine and 10.3±3.9 pg/mL for fluticasone propionate and the mean total exposure (AUC) was 4217 ± 2618 pg/mL*hr for azelastine and 97.7 ± 43.1 pg/mL*hr for fluticasone.
+Absorption:
+
+After intranasal administration of two sprays per nostril (548 mcg of azelastine hydrochloride and 200 mcg of fluticasone) of DYMISTA, the mean (± standard deviation) peak plasma exposure (Cmax) was 194.5 ± 74.4 pg/mL for azelastine and 10.3±3.9 pg/mL for fluticasone propionate and the mean total exposure (AUC) was 4217 ± 2618 pg/mL*hr for azelastine and 97.7 ± 43.1 pg/mL*hr for fluticasone.
 The median time to peak exposure (tmax) from a single dose was 0.5 hours for azelastine and 1.0 hours for fluticasone.
 
-Systemic bioavailability of azelastine from Dymista Nasal Spray following intranasal administration was comparable with monotherapy azelastine hydrochloride (Astelin®) nasal spray (i.e., approximately 40%).
-Systemic bioavailability of fluticasone from Dymista Nasal Spray following intranasal administration was 44-61% higher than monotherapy fluticasone propionate (bioavailability for monotherapy fluticasone nasal spray was less than 2%).
+Systemic bioavailability of azelastine from DYMISTA following intranasal administration was comparable with monotherapy azelastine hydrochloride (Astelin®) nasal spray (i.e., approximately 40%).
+Systemic bioavailability of fluticasone from DYMISTA following intranasal administration was 44-61% higher than monotherapy fluticasone propionate (bioavailability for monotherapy fluticasone nasal spray was less than 2%).
 Due to the low intranasal bioavailability, pharmacokinetic data for fluticasone propionate were obtained via other routes of administration.
 Studies using oral dosing of radiolabeled fluticasone propionate showed negligible oral bioavailability and high extraction from plasma.
 The majority of the circulating radioactivity was due to an inactive metabolite.
 
-Distribution: Based on intravenous and oral administration, the steady-state volume of distribution of azelastine hydrochloride is 14.5 L/kg.
+Distribution:
+
+Based on intravenous and oral administration, the steady-state volume of distribution of azelastine hydrochloride is 14.5 L/kg.
 In vitro studies with human plasma indicate that the plasma protein binding of azelastine hydrochloride and its metabolite, desmethylazelastine, are approximately 88% and 97%, respectively.
 
 Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
@@ -49,7 +53,9 @@ The percentage of fluticasone propionate bound to human plasma proteins averaged
 Fluticasone propionate is weakly and reversibly bound to erythrocytes and freely equilibrates between erythrocytes and plasma.
 Fluticasone propionate is not significantly bound to human transcortin.
 
-Metabolism: Azelastine hydrochloride is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
+Metabolism:
+
+Azelastine hydrochloride is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
 The specific P450 isoforms responsible for the biotransformation of azelastine have not been identified.
 The total clearance of azelastine is approximately 0.50 L/kg/hr.
 
@@ -58,7 +64,7 @@ This inactive metabolite had less affinity (approximately 1/2,000) than the pare
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 The average total clearance of fluticasone propionate is relatively high (approximately 66 L/hr).
 
-Elimination: Following intranasal administration of Dymista Nasal Spray, the elimination half-life of azelastine hydrochloride is approximately 25 hours.
+Elimination: Following intranasal administration of DYMISTA, the elimination half-life of azelastine hydrochloride is approximately 25 hours.
 Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was excreted in the feces with less than 10% as unchanged azelastine.
 
 Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
@@ -66,7 +72,7 @@ Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolite
 
 Special Populations:
 
-Dymista Nasal Spray was not studied in any special populations, and no gender-specific pharmacokinetic data have been obtained.
+DYMISTA was not studied in any special populations, and no gender-specific pharmacokinetic data have been obtained.
 
 Hepatic Impairment: Following oral administration of azelastine hydrochloride, pharmacokinetic parameters were not influenced by hepatic impairment.
 
@@ -81,7 +87,7 @@ Race: The effect of race has not been evaluated.
 
 Drug-Drug Interactions:
 
-No formal drug interaction studies have been performed with Dymista Nasal Spray.
+No formal drug interaction studies have been performed with DYMISTA.
 The drug interactions of the combination are expected to reflect those of the individual components.
 
 Erythromycin: Coadministration of orally administered azelastine (4 mg twice daily) with erythromycin (500 mg three times daily for 7 days) resulted in Cmax of 5.36 ± 2.6 ng/mL and AUC of 49.7 ± 24 ng•h/mL for azelastine, whereas, administration of azelastine alone resulted in Cmax of 5.57 ± 2.7 ng/mL and AUC of 48.4 ± 24 ng•h/mL for azelastine.

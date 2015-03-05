@@ -2,51 +2,55 @@
 
 See FDA-approved patient labeling (Patient Information and Instructions for Use)
 
-Patients should be instructed to use Dymista Nasal Spray only as prescribed.
-For the proper use of the nasal spray and to attain maximum improvement, the patient should read and follow carefully the accompanying FDA-Approved Patient Labeling.
+Somnolence
 
-## 17.1 Somnolence
+Somnolence has been reported in some patients (8 of 1,269 patients) taking DYMISTA in controlled clinical trials.
+Caution patients against engaging in hazardous occupations requiring complete mental alertness and motor coordination such as driving or operating machinery after administration of DYMISTA [see Warnings and Precautions (5.1)].
 
-Somnolence has been reported in some patients (6 of 853 patients) taking Dymista Nasal Spray.
-Patients should be cautioned against engaging in hazardous occupations requiring complete mental alertness and motor coordination such as driving or operating machinery after administration of Dymista Nasal Spray [see Warnings and Precautions (5.1)].
+Concurrent Use of Alcohol and other Central Nervous System Depressants
 
-## 17.2 Concurrent Use of Alcohol and other Central Nervous System Depressants
+Advise patients to avoid concurrent use of DYMISTA with alcohol or other central nervous system depressants because additional reductions in alertness and additional impairment of central nervous system performance may occur [see Warnings and Precautions (5.1)].
 
-Concurrent use of Dymista Nasal Spray with alcohol or other central nervous system depressants should be avoided because additional reductions in alertness and additional impairment of central nervous system performance may occur [see Warnings and Precautions (5.1)].
+Local Nasal Effects
 
-## 17.3 Local Nasal Effects
+Nasal corticosteroids are associated with epistaxis, nasal ulceration, nasal septal perforation, Candida albicans infection and impaired wound healing.
+Patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use DYMISTA until healing has occurred [see Warnings and Precautions (5.2)].
 
-Nasal corticosteroids are associated with nasal septal perforation and impaired wound healing.
-Patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use Dymista Nasal Spray until healing has occurred [see Warnings and Precautions (5.2)].
+Glaucoma and Cataracts
 
-## 17.4 Glaucoma and Cataracts
+Inform patients that glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
+Advise patients to inform his/her health care provider if a change in vision is noted while using DYMISTA [see Warnings and Precautions (5.3)].
 
-Patients should be informed that Glaucoma and Cataracts are associated with nasal and inhaled corticosteroid use.
-Patients should inform his/her health care provider if a change in vision is noted while using Dymista Nasal Spray [see Warnings and Precautions (5.3)].
+Immunosuppression
 
-## 17.5 Immunosuppression
+Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay.
+Inform patients of potential worsening of existing tuberculosis, fungal, bacterial, viral or parasitic infections, or ocular herpes simplex [see Warnings and Precautions (5.4)].
 
-Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay.
-Patients should be informed of potential worsening of existing tuberculosis, fungal, bacterial, viral or parasitic infections, or ocular herpes simplex [see Warnings and Precautions (5.4)].
+Effect on Growth
 
-## 17.6 Priming
+Corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
+Monitor the growth routinely of pediatric patients receiving DYMISTA [see Use in Specific Populations (8.4)].
 
-Patients should be instructed to shake the bottle gently before each use and prime the pump before initial use and when Dymista Nasal Spray has not been used for 14 or more days [see Dosage and Administration (2.2)].
+Priming
 
-## 17.7 Keep Spray Out of Eyes
+Instruct patients to shake the bottle gently before each use and prime the pump before initial use and when DYMISTA has not been used for 14 or more days [see Dosage and Administration (2.2)].
 
-Patients should be instructed to avoid spraying Dymista Nasal Spray into their eyes.
+Keep Spray Out of Eyes
 
-## 17.8 Keep Out of Children's Reach
+Instruct patients to avoid spraying DYMISTA into their eyes.
 
-Patients should be instructed to keep Dymista Nasal Spray out of the reach of children.
-If a child accidentally ingests Dymista Nasal Spray, seek medical help or call a poison control center immediately.
+Keep Out of Children's Reach
 
-## 17.9 Potential Drug Interactions
+Instruct patients to keep DYMISTA out of the reach of children.
+If a child accidentally ingests DYMISTA, seek medical help or call a poison control center immediately.
 
-Patients should be advised that coadministration of Dymista Nasal Spray and ritonavir is not recommended and to be cautious if Dymista Nasal Spray is coadministered with ketoconazole [see Drug Interactions (7.2)].
+Potential Drug Interactions
 
-U.S. Patents 8,163,723; 8,168,620 Manufactured by: Cipla Ltd. Goa, India
+Advise patients that coadministration of DYMISTA and ritonavir is not recommended and to be cautious if DYMISTA is coadministered with ketoconazole [see Drug Interactions (7.2)].
+
+U.S. Patents 8,163,723; 8,168,620
+
+Manufactured by: Cipla Ltd. Goa, India
 
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
