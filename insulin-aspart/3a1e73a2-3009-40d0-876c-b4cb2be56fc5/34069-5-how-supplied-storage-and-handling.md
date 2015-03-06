@@ -6,7 +6,7 @@ NovoLog is available in the following package sizes: each presentation containin
 
 | 10 mL vials | NDC 0169-7501-11 |
 | --- | --- |
-| 3 mL PenFill cartridgesNovoLog PenFill cartridges are designed for use with Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery devices (with or without the addition of a NovoPen 3 PenMate) with NovoFine disposable needles. FlexPen and FlexTouch can be used with NovoFine or NovoTwist disposable needles. | NDC 0169-3303-12 |
+| 3 mL PenFill cartridgesNovoLog PenFill cartridges are designed for use with Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery devices (with or without the addition of a NovoPen 3 PenMate) with NovoFine disposable needles. FlexPen and FlexTouch can be used with NovoFine or NovoTwist disposable needles. NovoLog FlexPen, NovoLog FlexTouch, PenFill cartridge, and PenFill cartridge compatible insulin delivery devices must never be shared between patients, even if the needle is changed. | NDC 0169-3303-12 |
 | 3 mL NovoLog FlexPen | NDC 0169-6339-10 |
 | 3 mL NovoLog FlexTouch | NDC 0169-6338-10 |
 

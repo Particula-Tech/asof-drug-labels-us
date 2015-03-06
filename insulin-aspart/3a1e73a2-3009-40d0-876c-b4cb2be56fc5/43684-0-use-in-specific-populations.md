@@ -46,8 +46,8 @@ There was no significant difference in efficacy noted (as assessed by HbA1c) bet
 
 ## 8.7 Renal Impairment
 
-Careful glucose monitoring and dose adjustments of insulin, including NovoLog, may be necessary in patients with renal impairment [seeWarnings and Precautions(5.4)].
+Careful glucose monitoring and dose adjustments of insulin, including NovoLog, may be necessary in patients with renal impairment [see Warnings and Precautions (5.5)].
 
 ## 8.8 Hepatic Impairment
 
-Careful glucose monitoring and dose adjustments of insulin, including NovoLog, may be necessary in patients with hepatic impairment [see Warnings and Precautions(5.5)].
+Careful glucose monitoring and dose adjustments of insulin, including NovoLog, may be necessary in patients with hepatic impairment [see Warnings and Precautions (5.6)].

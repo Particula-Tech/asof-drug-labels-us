@@ -13,27 +13,17 @@ In a study in patients with type 1 diabetes (n=22), the maximum glucose-lowering
 The duration of action for NovoLog is 3 to 5 hours.
 The time course of action of insulin and insulin analogs such as NovoLog may vary considerably in different individuals or within the same individual.
 The parameters of NovoLog activity (time of onset, peak time and duration) as designated in Figure 2 should be considered only as general guidelines.
-The rate of insulin absorption and onset of activity is affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.1)].
-
-Figure 2.
-Serial mean serum glucose collected up to 6 hours following a single pre-meal dose of NovoLog (solid curve) or regular human insulin (hatched curve) injected immediately before a meal in 22 patients with type 1 diabetes.
+The rate of insulin absorption and onset of activity is affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.2)].
 
 A double-blind, randomized, two-way cross-over study in 16 patients with type 1 diabetes demonstrated that intravenous infusion of NovoLog resulted in a blood glucose profile that was similar to that after intravenous infusion with regular human insulin.
 NovoLog or human insulin was infused until the patient’s blood glucose decreased to 36 mg/dL, or until the patient demonstrated signs of hypoglycemia (rise in heart rate and onset of sweating), defined as the time of autonomic reaction (R) (see Figure 3).
-
-Figure 3.
-Mean blood glucose profiles following intravenous infusion of NovoLog (hatched curve) and regular human insulin (solid curve) in 16 patients with type 1 diabetes.
-R represents the time of autonomic reaction.
 
 ## 12.3 Pharmacokinetics
 
 Absorption -The single substitution of the amino acid proline with aspartic acid at position B28 in NovoLog reduces the molecule's tendency to form hexamers as observed with regular human insulin.
 NovoLog is, therefore, more rapidly absorbed after subcutaneous injection compared to regular human insulin (see Figure 4).
 
-The relative bioavailability of NovoLog (0.15 U/kg)compared to regular human insulin (0.15 U/kg)indicates that the two insulins are absorbed to a similar extent.
-
-Figure 4.
-Serial mean serum free insulin concentration collected up to 6 hours following a single 0.15 U/kg pre-meal dose of NovoLog (solid curve) or regular human insulin (hatched curve) injected immediately before a meal in 22 patients with type 1 diabetes.
+The relative bioavailability of NovoLog (0.15 U/kg) compared to regular human insulin (0.15 U/kg) indicates that the two insulins are absorbed to a similar extent.
 
 In studies in healthy volunteers (total n=107) and patients with type 1 diabetes (total n=40), NovoLog consistently reached peak serum concentrations approximately twice as fast as regular human insulin.
 The median time to maximum concentration in these trials was 40 to 50 minutes for NovoLog versus 80 to 120 minutes for regular human insulin.
@@ -55,7 +45,7 @@ The relative differences in pharmacokinetics and pharmacodynamics in children an
 Age: Geriatric Population: The pharmacokinetic and pharmacodynamic properties of NovoLog and regular human insulin were investigated in a single dose study in 18 subjects with type 2 diabetes who were ≥ 65 years of age.
 The relative differences in pharmacokinetics and pharmacodynamics in geriatric patients with type 2 diabetes between NovoLog and regular human insulin were similar to those in younger adults.
 
-Gender: Inhealthy volunteers given single subcutaneous dose of Novolog 0.06 U/kg, no difference in insulin aspart levels was seen between men and women based on comparison of AUC(0-10h) or Cmax.
+Gender: In healthy volunteers given single subcutaneous dose of NovoLog 0.06 U/kg, no difference in insulin aspart levels was seen between men and women based on comparison of AUC(0-10h) or Cmax.
 
 Obesity: A single subcutaneous dose of 0.1 U/kg NovoLog was administered in a study of 23 patients with type 1 diabetes and a wide range of body mass index (BMI, 22-39 kg/m2).
 The pharmacokinetic parameters, AUC and Cmax, of NovoLog were generally unaffected by BMI in the different groups – BMI 19-23 kg/m2 (N=4); BMI 23-27 kg/m2 (N=7); BMI 27-32 kg/m2 (N=6) and BMI >32 kg/m2 (N=6).

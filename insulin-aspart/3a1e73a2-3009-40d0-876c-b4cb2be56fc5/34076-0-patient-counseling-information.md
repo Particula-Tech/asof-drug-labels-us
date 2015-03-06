@@ -1,8 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA Approved Patient Labeling (17.3)]
+[See FDA Approved Patient Labeling (17.4)]
 
-## 17.1 Physician Instructions
+## 17.1 Never Share a NovoLog FlexPen, NovoLog FlexTouch, PenFill Cartridge, or PenFill Cartridge Device Between Patients
+
+Advise patients that they must never share a NovoLog FlexPen, NovoLog FlexTouch, PenFill cartridge or PenFill cartridge compatible insulin delivery device with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
+
+## 17.2 Physician Instructions
 
 Maintenance of normal or near-normal glucose control is a treatment goal in diabetes mellitus and has been associated with a reduction in diabetic complications.
 Patients should be informed about potential risks and benefits of NovoLog therapy including the possible adverse reactions.
@@ -28,7 +32,7 @@ Accidental substitutions between NovoLog and other insulin products have been re
 Patients should be instructed to always carefully check that they are administering the appropriate insulin to avoid medication errors between NovoLog and any other insulin.
 The written prescription for NovoLog should be written clearly, to avoid confusion with other insulin products, for example, NovoLog Mix 70/30.
 
-## 17.2 Patients Using Pumps
+## 17.3 Patients Using Pumps
 
 Patients using external pump infusion therapy should be trained in intensive insulin therapy with multiple injections and in the function of their pump and pump accessories.
 
@@ -56,15 +60,15 @@ Problems include pump malfunction, infusion set occlusion, leakage, disconnectio
 Less commonly, hypoglycemia from pump malfunction may occur.
 If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their physician [see Dosage and Administration (2), Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-## 17.3 FDA Approved Patient Labeling
+## 17.4 FDA Approved Patient Labeling
 
 See separate leaflet.
 
 Rx only
 
-Date of issue: January 14, 2015
+Date of Issue: February 25, 2015
 
-Version: 23
+Version: 24
 
 Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, FlexTouch®, PenMate®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
@@ -72,7 +76,7 @@ NovoLog® is covered by US Patent No. 5,866,538, and other patents pending.
 
 FlexPen® is covered by US Patent Nos. RE 41,956, 6,004,297, RE 43,834, and other patents pending.
 
-FlexTouch® pen is covered by US Patent Nos. 7,686,786, 6,899,699, and other patents pending.
+FlexTouch® pen is covered by US Patent Nos. 7,686,786, 6,899,699, 8,672,898, 8,684,969 and other patents pending.
 
 PenFill® is covered by US Patent No. 5,693,027.
 

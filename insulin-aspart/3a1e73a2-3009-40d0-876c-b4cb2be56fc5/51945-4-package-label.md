@@ -26,6 +26,8 @@ PenFill®
 
 Insulin aspart Injection (rDNA origin)
 
+For Single Patient Use Only
+
 3 mL cartridges
 
 100 units/mL (U-100)
@@ -52,17 +54,18 @@ Prefilled Syringe
 
 Insulin aspart Injection (rDNA origin)
 
+For Single Patient Use Only
+
 100 units/mL (U-100)
 
 5 x 3 mL Prefilled Insulin Syringes
 
 Rx only
 
-Single patient use only
-
 For use with NovoFine® disposable needles.
 
 Keep in a cold place.
+
 Avoid freezing.
 
 Protect from light.
@@ -75,19 +78,17 @@ NovoLog® FlexTouch®
 
 Insulin aspart (rDNA origin) Injection
 
+For Single Patient Use Only
+
 100 units/mL (U-100)
 
-5 x 3 mL Prefilled Insulin Syringes
+5 x 3 mL Prefilled Pens
 
 For subcutaneous use only
 
 Rx Only
 
-Single patient use only
-
-Recommended for use with
-
-NovoFine®, NovoFine Plus® or NovoTwist® disposable needles.
+Recommended for use with NovoFine®, NovoFine Plus® or NovoTwist® disposable needles.
 
 Keep in a cold place until first use.
 

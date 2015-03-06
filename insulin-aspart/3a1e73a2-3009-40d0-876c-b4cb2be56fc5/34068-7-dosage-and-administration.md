@@ -25,7 +25,7 @@ Diluting one part NovoLog to one part diluent will yield a concentration one-hal
 
 ## 2.3 Continuous Subcutaneous Insulin Infusion (CSII) by External Pump
 
-NovoLog can also be infused subcutaneously by an external insulin pump [see Warnings and Precautions (5.8, 5.9), How Supplied/Storage and Handling (16.2)].
+NovoLog can also be infused subcutaneously by an external insulin pump [see Warnings and Precautions (5.9, 5.10), How Supplied/Storage and Handling (16.2)].
 Diluted insulin should not be used in external insulin pumps.
 Because NovoLog has a more rapid onset and a shorter duration of activity than human regular insulin, pre-meal boluses of NovoLog should be infused immediately (within 5-10 minutes) before a meal.
 Infusion sites should be rotated within the same region to reduce the risk of lipodystrophy.
