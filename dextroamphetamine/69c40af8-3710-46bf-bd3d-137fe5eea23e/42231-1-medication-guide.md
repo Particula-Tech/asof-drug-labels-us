@@ -4,42 +4,8 @@ Dextroamphetamine Sulfate Extended-Release Capsules (DEX-troe-am-FET-uh-meen SUL
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with dextroamphetamine sulfate extended-release capsules.
 
-What is the most important information I should know about Dextroamphetamine Sulfate Extended-Release Capsules?
-The following have been reported with use of dextroamphetamine sulfate extended-release capsules and other stimulant medicines.
-1.
-Heart-related problems:
-
-- sudden death in patients who have heart problems or heart defects
-- stroke and heart attack in adults
-- increased blood pressure and heart rate
-
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
-Your doctor should check you or your child carefully for heart problems before starting dextroamphetamine sulfate extended-release capsules.
-Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dextroamphetamine sulfate extended-release capsules.
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dextroamphetamine sulfate extended-release capsules.
-2.
-Mental (Psychiatric) problems: All Patients
-
-- new or worse behavior and thought problems
-- new or worse bipolar illness
-- new or worse aggressive behavior or hostility
-
-Children and Teenagers
-
-- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
-
-Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dextroamphetamine sulfate extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
-
-3.
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
-
-- fingers or toes may feel numb, cool, painful
-- fingers or toes may change color from pale, to blue, to red
-
-Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
-
-Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate extended-release capsules.
+| What is the most important information I should know about Dextroamphetamine Sulfate Extended-Release Capsules? The following have been reported with use of dextroamphetamine sulfate extended-release capsules and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting dextroamphetamine sulfate extended-release capsules. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dextroamphetamine sulfate extended-release capsules. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dextroamphetamine sulfate extended-release capsules. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dextroamphetamine sulfate extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painfulfingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate extended-release capsules. |
+| --- |
 
 What are Dextroamphetamine Sulfate Extended-Release Capsules?
 Dextroamphetamine sulfate extended-release capsules are a central nervous system stimulant prescription medicine.
@@ -48,10 +14,8 @@ Dextroamphetamine sulfate extended-release capsules may help increase attention 
 Dextroamphetamine sulfate extended-release capsules should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 Dextroamphetamine sulfate extended-release capsules are also used in the treatment of a sleep disorder called narcolepsy.
 
-Dextroamphetamine sulfate extended-release capsules are a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep dextroamphetamine sulfate extended-release capsules in a safe place to prevent misuse and abuse.
-Selling or giving away dextroamphetamine sulfate extended-release capsules may harm others, and is against the law.
-Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
+| Dextroamphetamine sulfate extended-release capsules are a federally controlled substance (CII) because it can be abused or lead to dependence. Keep dextroamphetamine sulfate extended-release capsules in a safe place to prevent misuse and abuse. Selling or giving away dextroamphetamine sulfate extended-release capsules may harm others, and is against the law.Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
+| --- |
 
 Who should not take Dextroamphetamine Sulfate Extended-Release Capsules?
 Dextroamphetamine sulfate extended-release capsules should not be taken if you or your child:

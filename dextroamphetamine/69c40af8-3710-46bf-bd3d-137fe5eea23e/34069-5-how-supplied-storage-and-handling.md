@@ -12,7 +12,7 @@ Dextroamphetamine Sulfate Extended-Release Capsules are manufactured by Mallinck
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2014 Mallinckrodt.
-Mallinckrodt Inc. Hazelwood, MO 63042 USA Rev 10/2014
+© 2015 Mallinckrodt.
+Mallinckrodt Inc. Hazelwood, MO 63042 USA Rev 02/2015
 
 Mallinckrodt™ Pharmaceuticals
