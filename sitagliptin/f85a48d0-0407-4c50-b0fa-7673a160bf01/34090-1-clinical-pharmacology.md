@@ -21,7 +21,7 @@ After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 
 The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
-Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
+Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
 It is unclear how these findings relate to changes in glycemic control in patients with type 2 diabetes.
 
@@ -147,7 +147,7 @@ In clinical studies, as described below, sitagliptin did not meaningfully alter 
 Digoxin: Sitagliptin had a minimal effect on the pharmacokinetics of digoxin.
 Following administration of 0.25 mg digoxin concomitantly with 100 mg of JANUVIA daily for 10 days, the plasma AUC of digoxin was increased by 11%, and the plasma Cmax by 18%.
 
-Metformin: Co-administration of multiple twice-daily doses of sitagliptin with metformin, an OCT substrate, did not meaningfully alter the pharmacokinetics of metformin in patients with type 2 diabetes.
+Metformin: Coadministration of multiple twice-daily doses of sitagliptin with metformin, an OCT substrate, did not meaningfully alter the pharmacokinetics of metformin in patients with type 2 diabetes.
 Therefore, sitagliptin is not an inhibitor of OCT-mediated transport.
 
 Sulfonylureas: Single-dose pharmacokinetics of glyburide, a CYP2C9 substrate, was not meaningfully altered in subjects receiving multiple doses of sitagliptin.
@@ -161,16 +161,16 @@ Thiazolidinediones: Single-dose pharmacokinetics of rosiglitazone was not meanin
 Warfarin: Multiple daily doses of sitagliptin did not meaningfully alter the pharmacokinetics, as assessed by measurement of S(-) or R(+) warfarin enantiomers, or pharmacodynamics (as assessed by measurement of prothrombin INR) of a single dose of warfarin.
 Because S(-) warfarin is primarily metabolized by CYP2C9, these data also support the conclusion that sitagliptin is not a CYP2C9 inhibitor.
 
-Oral Contraceptives: Co-administration with sitagliptin did not meaningfully alter the steady-state pharmacokinetics of norethindrone or ethinyl estradiol.
+Oral Contraceptives: Coadministration with sitagliptin did not meaningfully alter the steady-state pharmacokinetics of norethindrone or ethinyl estradiol.
 
 Effects of Other Drugs on Sitagliptin
 
-Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by co-administered medications.
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications.
 
-Metformin: Co-administration of multiple twice-daily doses of metformin with sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
+Metformin: Coadministration of multiple twice-daily doses of metformin with sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
 
 Cyclosporine: A study was conducted to assess the effect of cyclosporine, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
-Co-administration of a single 100 mg oral dose of JANUVIA and a single 600 mg oral dose of cyclosporine increased the AUC and Cmax of sitagliptin by approximately 29% and 68%, respectively.
+Coadministration of a single 100 mg oral dose of JANUVIA and a single 600 mg oral dose of cyclosporine increased the AUC and Cmax of sitagliptin by approximately 29% and 68%, respectively.
 These modest changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
 The renal clearance of sitagliptin was also not meaningfully altered.
 Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.

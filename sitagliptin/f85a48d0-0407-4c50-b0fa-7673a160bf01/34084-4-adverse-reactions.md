@@ -63,7 +63,7 @@ Hypoglycemia
 
 In all (N=9) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia.
 A concurrent blood glucose measurement was not required although most (74%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
-When JANUVIA was co-administered with a sulfonylurea or with insulin, the percentage of patients with at least one adverse reaction of hypoglycemia was higher than in the corresponding placebo group (Table 3).
+When JANUVIA was coadministered with a sulfonylurea or with insulin, the percentage of patients with at least one adverse reaction of hypoglycemia was higher than in the corresponding placebo group (Table 3).
 
 Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo-Controlled Clinical Studies when JANUVIA was used as Add-On Therapy to Glimepiride (with or without Metformin) or Insulin (with or without Metformin), Regardless of Investigator Assessment of Causality
 
@@ -87,7 +87,7 @@ Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients give
 In the 24-week, placebo-controlled factorial study of initial therapy with JANUVIA in combination with metformin, the incidence of hypoglycemia was 0.6% in patients given placebo, 0.6% in patients given JANUVIA alone, 0.8% in patients given metformin alone, and 1.6% in patients given JANUVIA in combination with metformin.
 
 In the study of JANUVIA as initial therapy with pioglitazone, one patient taking JANUVIA experienced a severe episode of hypoglycemia.
-There were no severe hypoglycemia episodes reported in other studies except in the study involving co-administration with insulin.
+There were no severe hypoglycemia episodes reported in other studies except in the study involving coadministration with insulin.
 
 Laboratory Tests
 
@@ -103,4 +103,4 @@ The clinical significance of this added increase in serum creatinine relative to
 Additional adverse reactions have been identified during postapproval use of JANUVIA as monotherapy and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.4)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1.2); Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.2)]; constipation; vomiting; headache; arthralgia; myalgia; pain in extremity; back pain.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.4)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1.2); Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.2)]; constipation; vomiting; headache; arthralgia; myalgia; pain in extremity; back pain; pruritus.
