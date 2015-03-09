@@ -9,16 +9,16 @@ Patients receiving Prolia should not receive Xgeva.
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with Prolia.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
-If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Prolia.
-[see Contraindications (4.3), Adverse Reactions (6.2)].
+If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Prolia [see Contraindications (4.3), Adverse Reactions (6.2)].
 
 ## 5.3 Hypocalcemia and Mineral Metabolism
 
 Hypocalcemia may be exacerbated by the use of Prolia.
 Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
-In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance <30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
+In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended within 14 days of Prolia injection.
+In some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin D.
 
-Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance <30 mL/min] or receiving dialysis.
+Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis.
 These patients may also develop marked elevations of serum parathyroid hormone (PTH).
 Instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin D supplementation.
 
@@ -29,7 +29,7 @@ Adequately supplement all patients with calcium and vitamin D [see Dosage and Ad
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing.
 ONJ has been reported in patients receiving denosumab [see Adverse Reactions (6.1)].
 A routine oral exam should be performed by the prescriber prior to initiation of Prolia treatment.
-A dental examination with appropriate preventive dentistry should be considered prior to treatment with Prolia in patients with risk factors for ONJ such as invasive dental procedures (e.g. tooth extraction, dental implants, oral surgery), diagnosis of cancer, concomitant therapies (e.g. chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g. periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+A dental examination with appropriate preventive dentistry is recommended prior to treatment with Prolia in patients with risk factors for ONJ such as invasive dental procedures (e.g. tooth extraction, dental implants, oral surgery), diagnosis of cancer, concomitant therapies (e.g. chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g. periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 Good oral hygiene practices should be maintained during treatment with Prolia.
 
 For patients requiring invasive dental procedures, clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit-risk assessment.

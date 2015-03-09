@@ -16,6 +16,15 @@ Clinical Considerations The effects of Prolia on the fetus are likely to be grea
 Monoclonal antibodies, such as denosumab, are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 If the patient becomes pregnant during Prolia therapy, treatment should be discontinued and the patient should consult their physician.
 
+Prolia was present at low concentrations (approximately 2% of serum exposure) in the seminal fluid of male subjects given Prolia.
+Following vaginal intercourse, the maximum amount of Prolia delivered to a female partner would result in exposures approximately 11,000 times lower than the prescribed 60 mg subcutaneous dose.
+
+The no-effect dose for denosumab-induced teratogenicity is unknown.
+However, a Cmax of 22.9 ng/mL was identified in cynomolgus monkeys as a level in which no biologic effects (NOEL) of denosumab were observed (no inhibition of RANKL).
+Using the highest seminal fluid concentration measured in men, and assuming 100% vaginal and placental transfer from a 6-mL ejaculate per day, female and fetal exposure via seminal fluid would be up to 0.6 ng/mL per day.
+Thus, the potential amount of fetal exposure when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner is at least 38-times lower than the NOEL in monkeys.
+Therefore, it is unlikely that a female partner or fetus would be exposed to pharmacologically relevant concentrations of denosumab via seminal fluid [see Clinical Pharmacology (12.3)].
+
 Animal Data The effects of denosumab on prenatal development have been studied in both cynomolgus monkeys and genetically engineered mice in which RANK ligand (RANKL) expression was turned off by gene removal (a “knockout mouse”).
 In cynomolgus monkeys dosed subcutaneously with denosumab throughout pregnancy at a pharmacologically active dose, there was increased fetal loss during gestation, stillbirths, and postnatal mortality.
 Other findings in offspring included absence of axillary, inguinal, mandibular, and mesenteric lymph nodes; abnormal bone growth, reduced bone strength, reduced hematopoiesis, dental dysplasia and tooth malalignment; and decreased neonatal growth.
@@ -69,12 +78,3 @@ Adequate intake of calcium and vitamin D is important in patients with severe re
 ## 8.7 Hepatic Impairment
 
 No clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of Prolia.
-
-## 8.8 Males
-
-Prolia may cause fetal harm [see Use in Specific Populations (8.1)].
-
-The extent to which denosumab is present in seminal fluid is unknown.
-There is a potential for fetal exposure to denosumab when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner.
-The risk of fetal harm is likely to be low.
-Advise men being treated with Prolia who have a pregnant partner of this potential risk.

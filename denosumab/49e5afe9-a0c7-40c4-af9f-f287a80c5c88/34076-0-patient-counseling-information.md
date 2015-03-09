@@ -42,8 +42,6 @@ Patients should report severe symptoms if they develop [see Warnings and Precaut
 
 Pregnancy Advise patients that Prolia is contraindicated in women who are pregnant and may cause fetal harm [see Contraindications (4.2), Use in Specific Populations (8.1)].
 
-Males Advise patients of a potential for fetal exposure to denosumab when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner [see Use in Specific Populations (8.8)]
-
 ## 17.10 Nursing Mothers
 
 Advise patients that because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Prolia, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].

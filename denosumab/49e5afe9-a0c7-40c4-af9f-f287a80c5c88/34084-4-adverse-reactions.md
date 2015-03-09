@@ -6,7 +6,7 @@ The following serious adverse reactions are discussed below and also elsewhere i
 - Serious Infections [see Warnings and Precautions (5.6)]
 - Dermatologic Adverse Reactions [see Warnings and Precautions (5.7)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
-- Atypical Subtrochanteric and DiaphysealFemoral Fractures [see Warnings and Precautions (5.5)]
+- Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions reported with Prolia in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
@@ -138,14 +138,16 @@ Pancreatitis Pancreatitis was reported in 1 patient (0.8%) in the placebo group 
 
 New Malignancies New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the Prolia group.
 
-Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer The safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) was assessed in a 3‑year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years.
+Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer
+
+The safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) was assessed in a 3-year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years.
 A total of 725 men were exposed to placebo and 731 men were exposed to Prolia administered once every 6 months as a single 60 mg subcutaneous dose.
 All men were instructed to take at least 1000 mg of calcium and 400 IU of vitamin D supplementation per day.
 
 The incidence of serious adverse events was 30.6% in the placebo group and 34.6% in the Prolia group.
 The percentage of patients who withdrew from the study due to adverse events was 6.1% and 7.0% for the placebo and Prolia groups, respectively.
 
-The safety of Prolia in the treatment of bone loss in women with nonmetastatic breast cancer receiving aromatase inhibitor (AI) therapy was assessed in a 2‑year, randomized, double-blind, placebo-controlled, multinational study of 252 postmenopausal women aged 35 to 84 years.
+The safety of Prolia in the treatment of bone loss in women with nonmetastatic breast cancer receiving aromatase inhibitor (AI) therapy was assessed in a 2-year, randomized, double-blind, placebo-controlled, multinational study of 252 postmenopausal women aged 35 to 84 years.
 A total of 120 women were exposed to placebo and 129 women were exposed to Prolia administered once every 6 months as a single 60 mg subcutaneous dose.
 All women were instructed to take at least 1000 mg of calcium and 400 IU of vitamin D supplementation per day.
 

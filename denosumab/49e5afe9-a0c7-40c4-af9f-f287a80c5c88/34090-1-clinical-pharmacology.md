@@ -22,7 +22,7 @@ After discontinuation of Prolia therapy, markers of bone resorption increased to
 In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered Prolia dose of 60 mg after fasting (at least for 12 hours), the mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (standard deviation [SD] = 1.89 mcg/mL).
 The median time to maximum denosumab concentration (Tmax) was 10 days (range: 3 to 21 days).
 After Cmax, serum denosumab concentrations declined over a period of 4 to 5 months with a mean half-life of 25.4 days (SD = 8.5 days; n = 46).
-The mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg×day/mL (SD = 101 mcg×day/mL).
+The mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg•day/mL (SD = 101 mcg•day/mL).
 
 No accumulation or change in denosumab pharmacokinetics with time was observed upon multiple dosing of 60 mg subcutaneously administered once every 6 months.
 
@@ -31,11 +31,19 @@ Prolia pharmacokinetics were not affected by the formation of binding antibodies
 A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
 This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
 
+Seminal Fluid Pharmacokinetic Study Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
+After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) Cmax values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels.
+The median (range) Tmax values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively.
+Amongst the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.
+On the first day of measurement (10 days post-dose), nine of eleven subjects had quantifiable concentrations in semen.
+On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (±36.5) ng/mL across all subjects (n = 12).
+[see Use in Specific Populations (8.1)].
+
 Drug Interactions In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered two weeks after a single dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
 Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
 This indicates that denosumab should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
 
-Specific Populations Gender:Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
+Specific Populations Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
 
 Age: The pharmacokinetics of denosumab were not affected by age across all populations studied whose ages ranged from 28 to 87 years.
 

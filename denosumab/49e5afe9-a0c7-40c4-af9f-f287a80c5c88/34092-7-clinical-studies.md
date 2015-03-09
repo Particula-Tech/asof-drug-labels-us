@@ -3,7 +3,7 @@
 ## 14.1 Postmenopausal Women with Osteoporosis
 
 The efficacy and safety of Prolia in the treatment of postmenopausal osteoporosis was demonstrated in a 3-year, randomized, double-blind, placebo-controlled trial.
-Enrolled women had a baseline BMD T‑score between -2.5 and -4.0 at either the lumbar spine or total hip.
+Enrolled women had a baseline BMD T-score between -2.5 and -4.0 at either the lumbar spine or total hip.
 Women with other diseases (such as rheumatoid arthritis, osteogenesis imperfecta, and Paget’s disease) or on therapies that affect bone were excluded from this study.
 The 7808 enrolled women were aged 60 to 91 years with a mean age of 72 years.
 Overall, the mean baseline lumbar spine BMD T-score was -2.8, and 23% of women had a vertebral fracture at baseline.
@@ -32,6 +32,11 @@ Prolia was effective in reducing the risk for new morphometric vertebral fractur
 
 Effect on Hip Fractures The incidence of hip fracture was 1.2% for placebo-treated women compared to 0.7% for Prolia-treated women at year 3.
 The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (Figure 1).
+
+Figure 1.
+Cumulative Incidence of Hip Fractures Over 3 Years
+
+N = number of subjects randomized
 
 Effect on Nonvertebral Fractures Treatment with Prolia resulted in a significant reduction in the incidence of nonvertebral fractures (Table 3).
 
@@ -86,8 +91,8 @@ However, the long-term consequences of this degree of suppression of bone remode
 
 ## 14.3 Treatment of Bone Loss in Men with Prostate Cancer
 
-The efficacy and safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) were demonstrated in a 3‑year, randomized (1:1), double-blind, placebo-controlled, multinational study.
-Men less than 70 years of age had either a BMD T‑score at the lumbar spine, total hip, or femoral neck between ‑1.0 and -4.0, or a history of an osteoporotic fracture.
+The efficacy and safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) were demonstrated in a 3-year, randomized (1:1), double-blind, placebo-controlled, multinational study.
+Men less than 70 years of age had either a BMD T-score at the lumbar spine, total hip, or femoral neck between -1.0 and -4.0, or a history of an osteoporotic fracture.
 The mean baseline lumbar spine BMD T-score was -0.4, and 22% of men had a vertebral fracture at baseline.
 The 1468 men enrolled ranged in age from 48 to 97 years (median 76 years).
 Men were randomized to receive subcutaneous injections of either placebo (n = 734) or Prolia 60 mg (n = 734) once every 6 months for a total of 6 doses.
@@ -116,8 +121,8 @@ The Effect of Prolia on the Incidence of New Vertebral Fractures in Men with Non
 
 ## 14.4 Treatment of Bone Loss in Women with Breast Cancer
 
-The efficacy and safety of Prolia in the treatment of bone loss in women receiving adjuvant aromatase inhibitor (AI) therapy for breast cancer was assessed in a 2‑year, randomized (1:1), double-blind, placebo-controlled, multinational study.
-Women had baseline BMD T-scores between ‑1.0 to ‑2.5 at the lumbar spine, total hip, or femoral neck, and had not experienced fracture after age 25.
+The efficacy and safety of Prolia in the treatment of bone loss in women receiving adjuvant aromatase inhibitor (AI) therapy for breast cancer was assessed in a 2-year, randomized (1:1), double-blind, placebo-controlled, multinational study.
+Women had baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip, or femoral neck, and had not experienced fracture after age 25.
 The mean baseline lumbar spine BMD T-score was -1.1, and 2.0% of women had a vertebral fracture at baseline.
 The 252 women enrolled ranged in age from 35 to 84 years (median 59 years).
 Women were randomized to receive subcutaneous injections of either placebo (n = 125) or Prolia 60 mg (n = 127) once every 6 months for a total of 4 doses.

@@ -25,7 +25,7 @@ Prolia can cause serious side effects including:
   - throat tightness
   - swelling of your face, lips, or tongue
   - rash
-  - itchin
+  - itching
   - hives
 
 - Low calcium levels in your blood (hypocalcemia).
@@ -114,9 +114,6 @@ Before taking Prolia, tell your doctor if you:
   - Pregnancy Surveillance Program: Prolia is not intended for use in pregnant women.
     If you become pregnant while taking Prolia, talk to your doctor about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (1-800-77-AMGEN).
     The purpose of this program is to collect information about women who have become pregnant while taking Prolia.
-  - If you are a man and you receive Prolia: Small amounts of Prolia may be in semen.
-    If your sexual partner is pregnant, some Prolia from your semen may reach the unborn baby.
-    While the risk is likely to be low, it is important to talk to your doctor if your partner becomes pregnant while you are taking Prolia.
 - Are breastfeeding or plan to breastfeed.
   It is not known if Prolia passes into your breast milk.
   You and your doctor should decide if you will take Prolia or breastfeed.
@@ -198,12 +195,12 @@ You can ask your doctor or pharmacist for information about Prolia that is writt
 For more information, go to www.Prolia.com or call Amgen at 1-800-772-6436.
 
 What are the ingredients in Prolia?
-Active ingredient:denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
+Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
 
 [Amgen Logo]
 
-Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
+Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-1xxxxxx - v7 &
+1xxxxxx - v8 Revised: 02/2015
