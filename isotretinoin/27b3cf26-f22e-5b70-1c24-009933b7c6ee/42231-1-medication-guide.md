@@ -270,10 +270,10 @@ You can also call iPLEDGE program at 1-866-495-0654 or visit www.ipledgeprogram.
 
 What are the ingredients in Zenatane?
 
-Active Ingredient: isotretinoin
+Active Ingredient: isotretinoin USP
 
-Inactive Ingredients: butylated hydroxyanisole, edetate disodium, hydrogenated vegetable oil (Type-I and Type-II), medium chain triglyceride, refined soybean oil and white wax.
-Gelatin capsules contain gelatin, glycerin, methylparaben, propyl paraben, lake blend blue(LB-332) containing D&C Yellow No.10, FD&C Blue No.1 (for 10 mg), lake blend red (LB-1574) containing D&C Red No.27, D&C Red No.30 (for 20 mg), lake blend green (LB-333) containing D&C Yellow No.10, FD&C Blue No.1 (for 40 mg), lake blend white (TLB-1774) containing FD&C Blue No.2, titanium dioxide, and opacode black S-1-27794 containing iron oxide black, N-butyl alcohol, propylene glycol, industrial methylene spirit and shellac.
+Inactive Ingredients: butylated hydroxyanisole, edetate disodium, ferric oxide red, ferric oxide yellow, hydrogenated vegetable oil (Type-I and Type-II), medium chain triglyceride, refined soybean oil and white wax.
+Gelatin capsules contain gelatin, glycerin, methylparaben, propyl paraben, lake blend blue(LB-332) containing D&C Yellow No.10, FD&C Blue No.1 (for 10 mg), lake blend red (LB-1574) containing D&C Red No.27, D&C Red No.30 (for 20 mg), lake blend green (LB-333) containing D&C Yellow No.10, FD&C Blue No.1 (for 40 mg), lake blend white (TLB-1774) containing FD&C Blue No.2, titanium dioxide, opacode black S-1-27794 containing iron oxide black, N-butyl alcohol, propylene glycol, industrial methylene spirit and shellac (for 10 mg, 20 mg and 40 mg) and opacode black S-1-17823 containing iron oxide black, N-butyl alcohol, propylene glycol, ammonium hydroxide and shellac (for 30 mg).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -297,6 +297,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0314
+Revised: 1114
 
 Zenatane is a trademark of Dr. Reddy's Laboratories, Inc. and/or its affiliates.

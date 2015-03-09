@@ -9,3 +9,7 @@ Carton 20 mg: 30's pack(3x10's)
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
 Carton 40 mg: 30's pack (3x10's)
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+
+Carton 30 mg: 30's pack (3x10's)
