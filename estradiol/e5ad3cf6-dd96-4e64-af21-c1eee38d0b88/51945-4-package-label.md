@@ -2,9 +2,11 @@
 
 NDC 0169-5176-04
 
-Vagifem® 10mcg
+Vagifem®
 
 (estradiol vaginal tablets)
+
+10mcg
 
 18 vaginal tablets
 
