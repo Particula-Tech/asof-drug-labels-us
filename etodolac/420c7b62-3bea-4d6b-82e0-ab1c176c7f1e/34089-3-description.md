@@ -10,5 +10,5 @@ The molecular weight of the base is 287.37.
 It has a pKa of 4.65 and an n-octanol:water partition coefficient of 11.4 at pH 7.4.
 The molecular formula for etodolac is C17H21NO3, and it has the following structural formula:
 
-Each capsule, for oral administration, contains 300 mg of etodolac USP.
-The inactive ingredients in Etodolac Capsules USP include: lactose monohydrate, povidone, sodium starch glycolate, sodium lauryl sulfate, propylene glycol, colloidal silicon dioxide, magnesium stearate, talc, titanium dioxide, gelatin, D&C Red No. 28, D&C Red No. 33, FD&C Red No. 40, shellac, and black iron oxide.
+Each capsule, for oral administration, contains 200 mg or 300 mg of etodolac USP.
+The inactive ingredients in Etodolac Capsules USP include: lactose monohydrate, povidone, sodium starch glycolate, sodium lauryl sulfate, propylene glycol, colloidal silicon dioxide, magnesium stearate, talc, titanium dioxide, gelatin, D&C Red No. 28, D&C Red No. 33, FD&C Red No. 40, D&C Yellow No. 10, FD&C Blue No. 1, shellac, and black iron oxide.
