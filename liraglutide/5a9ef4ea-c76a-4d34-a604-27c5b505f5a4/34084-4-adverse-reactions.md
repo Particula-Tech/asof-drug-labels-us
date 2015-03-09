@@ -190,7 +190,7 @@ Vital signs
 
 Victoza did not have adverse effects on blood pressure.
 Mean increases from baseline in heart rate of 2 to 3 beats per minute have been observed with Victoza compared to placebo.
-The long-term clinical effects of the increase in pulse rate have not been established [see Warnings and Precautions (5.6)].
+The long-term clinical effects of the increase in pulse rate have not been established [see Warnings and Precautions (5.7)].
 
 ## 6.2 Post-Marketing Experience
 
@@ -198,10 +198,10 @@ The following additional adverse reactions have been reported during post-approv
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - •Dehydration resulting from nausea, vomiting and diarrhea.
-  [see Warnings and Precautions (5.4) and Patient Counseling Information (17.3)]
+  [see Warnings and Precautions (5.5) and Patient Counseling Information (17.3)]
 - •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
-  [see Warnings and Precautions (5.4) and Patient Counseling Information (17.3)]
+  [see Warnings and Precautions (5.5) and Patient Counseling Information (17.3)]
 - •Angioedema and anaphylactic reactions.
-  [see Contraindications (4), Warnings and Precautions (5.5), Patient counseling Information (17.5)]
+  [see Contraindications (4), Warnings and Precautions (5.6), Patient counseling Information (17.6)]
 - •Allergic reactions: rash and pruritus
 - •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death [see Warnings and Precautions (5.2)]

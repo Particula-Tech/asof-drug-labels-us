@@ -8,7 +8,7 @@ The 0.6 mg dose is a starting dose intended to reduce gastrointestinal symptoms 
 After one week at 0.6 mg per day, the dose should be increased to 1.2 mg.
 If the 1.2 mg dose does not result in acceptable glycemic control, the dose can be increased to 1.8 mg.
 
-When initiating Victoza, consider reducing the dose of concomitantly administered insulin secretagogues (such as sulfonylureas) to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3) and Adverse Reactions (6)].
+When initiating Victoza, consider reducing the dose of concomitantly administered insulin secretagogues (such as sulfonylureas) to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
 When using Victoza with insulin, administer as separate injections.
 Never mix.

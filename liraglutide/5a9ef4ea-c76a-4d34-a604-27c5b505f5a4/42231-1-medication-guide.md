@@ -47,6 +47,9 @@ The pain may happen with or without vomiting.
 The pain may be felt going from your abdomen through to your back.
 This type of pain may be a symptom of pancreatitis.
 
+Do not share your Victoza Pen with other people, even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
+
 What is Victoza?
 
 - •Victoza is an injectable prescription medicine that may improve blood sugar (glucose) in adults with type 2 diabetes mellitus, and should be used along with diet and exercise.
@@ -66,16 +69,11 @@ Do not use Victoza if:
 - •you are allergic to liraglutide or any of the ingredients in Victoza.
   See the end of this Medication Guide for a complete list of ingredients in Victoza.
   Symptoms of a serious allergic reaction may include:
-
-o swelling of your face, lips, tongue, or throat
-
-o fainting or feeling dizzy
-
-o very rapid heartbeat
-
-o problems breathing or swallowing
-
-o severe rash or itching
+- o swelling of your face, lips, tongue, or throat
+- o fainting or feeling dizzy
+- o very rapid heartbeat
+- o problems breathing or swallowing
+- o severe rash or itching
 
 Talk with your healthcare provider if you are not sure if you have any of these conditions.
 
@@ -120,6 +118,8 @@ How should I use Victoza?
   Use the Victoza pen with Novo Nordisk disposable needles.
   You may need a prescription to get pen needles from your pharmacist.
   Ask your healthcare provider which needle size is best for you.
+  Do not reuse or share your needles with other people.
+  You may give other people a serious infection, or get a serious infection from them.
 - •When starting a new prefilled Victoza pen, you must follow the “First Time Use for Each New Pen” (see the detailed Patient Instructions for Use that comes with this Medication Guide).
   You only need to do this 1 time with each new pen.
   You should also do this if you drop your pen.
@@ -144,8 +144,8 @@ How should I use Victoza?
   - •have trauma
   - •have an infection
   - •plan to have or have had surgery
-- •Never share your Victoza pen or needles with another person.
-  You may give an infection to them, or get an infection from them.
+- •Do not share your Victoza pen with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
 
 What are the possible side effects of Victoza?
 
@@ -261,9 +261,9 @@ Plainsboro, NJ 08536
 
 1-877-484-2869
 
-Issued: April 2013
+Issued: February 2015
 
-Version: 4
+Version: 5
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -273,7 +273,7 @@ Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924, 7,235,627, 8,114,83
 
 Victoza® pen is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2010-2013 Novo Nordisk
+© 2010-2015 Novo Nordisk
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -282,6 +282,9 @@ Victoza (liraglutide [rDNA origin]) injection
 First read the Medication Guide that comes with your Victoza pen and then read these Patient Instructions for Use for information about how to use your Victoza pen the right way.
 
 These instructions do not take the place of talking with your healthcare provider about your medical condition or your treatment.
+
+Do not share your Victoza Pen with other people, even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
 
 Your Victoza pen contains 3 mL of Victoza and will deliver doses of 0.6 mg, 1.2 mg or 1.8 mg.
 The number of doses that you can take with a Victoza pen depends on the dose of medicine that is prescribed for you.
@@ -292,43 +295,17 @@ Talk to your healthcare provider or pharmacist for more information about needle
 
 Important Information
 
-- •Do not share your Victoza pen or needles with anyone else.
-  You may give an infection to them or get an infection from them.
+- •Do not share your Victoza pen with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
 - •Always use a new needle for each injection.
+  Do not reuse or share your needles with other people.
+  You may give other people a serious infection, or get a serious infection from them.
 - •Keep your Victoza pen and all medicines out of the reach of children.
 - •If you drop your Victoza pen, repeat “First Time Use For Each New Pen” (steps A through D).
 - •Be careful not to bend or damage the needle.
 - •Do not use the cartridge scale to measure how much Victoza to inject.
 - •Be careful when handling used needles to avoid needle stick injuries.
 - •You can use your Victoza pen for up to 30 days after you use it the first time.
-
-Caring for your Victoza pen
-
-- •After removing the needle, put the pen cap on your Victoza pen and store your Victoza pen without the needle attached.
-
-- •Do not try to refill your Victoza pen - it is prefilled and is disposable.
-- •Do not try to repair your pen or pull it apart.
-- •Keep your Victoza pen away from dust, dirt and liquids.
-- •If cleaning is needed, wipe the outside of the pen with a clean, damp cloth.
-
-How should I store Victoza?
-
-Before use:
-
-- •Store your new, unused Victoza pen in the refrigerator at 36ºF to 46ºF (2ºC to 8ºC).
-- •If Victoza is stored outside of refrigeration (by mistake) prior to first use, it should be used or thrown away within 30 days.
-- •Do not freeze Victoza or use Victoza if it has been frozen.
-  Do not store Victoza near the refrigerator cooling element.
-
-Pen in use:
-
-- •Store your Victoza pen for 30 days at 59ºF to 86ºF (15ºC to 30ºC), or in a refrigerator at 36ºF to 46ºF (2°C to 8°C).
-- •When carrying the pen away from home, store the pen at a temperature between 59ºF to 86ºF (15ºC to 30ºC).
-- •If Victoza has been exposed to temperatures above 86ºF (30°C), it should be thrown away.
-- •Protect your Victoza pen from heat and sunlight.
-- •Keep the pen cap on when your Victoza pen is not in use.
-- •Use a Victoza pen for only 30 days.
-  Throw away a used Victoza pen after 30 days, even if some medicine is left in the pen.
 
 First Time Use for Each New Pen
 
@@ -442,9 +419,45 @@ Step J. Remove and Dispose of the Needle
   Unscrew the needle.
 
 - •Safely remove the needle from your Victoza pen after each use.
-- •Place used needles in a closeable, puncture-resistant container.
-  If your Victoza pen is empty or if you have been using it for 30 days (even if it is not empty), throw away the used pen.
-  You may use a sharps container (such as a red biohazard container), a hard plastic container (such as an empty detergent bottle), or metal container with a screw top (such as an empty coffee can).
-- •Ask your healthcare provider for instructions on the right way to dispose of your used needles, pens, and the container.
-  Do not throw the disposal container in the household trash.
-  Do not recycle.
+- •Put your used VICTOZA pen and needles in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and pens in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+- •made of a heavy-duty plastic
+- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- •upright and stable during use
+- •leak-resistant
+- •properly labeled to warn of hazardous waste inside the container
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  Do not reuse or share your needles with other people.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+Caring for your Victoza pen
+
+- •After removing the needle, put the pen cap on your Victoza pen and store your Victoza pen without the needle attached.
+
+- •Do not try to refill your Victoza pen - it is prefilled and is disposable.
+- •Do not try to repair your pen or pull it apart.
+- •Keep your Victoza pen away from dust, dirt and liquids.
+- •If cleaning is needed, wipe the outside of the pen with a clean, damp cloth.
+
+How should I store Victoza?
+
+Before use:
+
+- •Store your new, unused Victoza pen in the refrigerator at 36ºF to 46ºF (2ºC to 8ºC).
+- •If Victoza is stored outside of refrigeration (by mistake) prior to first use, it should be used or thrown away within 30 days.
+- •Do not freeze Victoza or use Victoza if it has been frozen.
+  Do not store Victoza near the refrigerator cooling element.
+
+Pen in use:
+
+- •Store your Victoza pen for 30 days at 59ºF to 86ºF (15ºC to 30ºC), or in a refrigerator at 36ºF to 46ºF (2°C to 8°C).
+- •When carrying the pen away from home, store the pen at a temperature between 59ºF to 86ºF (15ºC to 30ºC).
+- •If Victoza has been exposed to temperatures above 86ºF (30°C), it should be thrown away.
+- •Protect your Victoza pen from heat and sunlight.
+- •Keep the pen cap on when your Victoza pen is not in use.
+- •Use a Victoza pen for only 30 days.
+  Throw away a used Victoza pen after 30 days, even if some medicine is left in the pen.

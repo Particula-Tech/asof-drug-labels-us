@@ -20,15 +20,14 @@ Patients should be informed of the potential risk for pancreatitis.
 Explain that persistent severe abdominal pain that may radiate to the back and which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to discontinue Victoza promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
-## 17.5 Hypersensitivity Reactions
+## 17.5 Never Share a Victoza Pen Between Patients
+
+Advise patients that they must never share a Victoza pen with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
+
+## 17.6 Hypersensitivity Reactions
 
 Patients should be informed that serious hypersensitivity reactions have been reported during postmarketing use of Victoza.
-If symptoms of hypersensitivity reactions occur, patients must stop taking Victoza and seek medical advice promptly [see Warnings and Precautions (5.5)].
-
-## 17.6 Never Share a Victoza Pen Between Patients
-
-Counsel patients that they should never share a Victoza pen with another person, even if the needle is changed.
-Sharing of the pen between patients may pose a risk of transmission of infection.
+If symptoms of hypersensitivity reactions occur, patients must stop taking Victoza and seek medical advice promptly [see Warnings and Precautions (5.6)].
 
 ## 17.7 Instructions
 
@@ -53,9 +52,9 @@ Victoza should be titrated at the discretion of the prescribing physician [see D
 Patients should be informed that response to all diabetic therapies should be monitored by periodic measurements of blood glucose and A1c levels, with a goal of decreasing these levels towards the normal range.
 A1c is especially useful for evaluating long-term glycemic control.
 
-Date of Issue: April 16, 2013
+Date of Issue: February 2015
 
-Version: 6
+Version: 7
 
 Victoza® is a registered trademark of Novo Nordisk A/S.
 
@@ -63,7 +62,7 @@ Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924, 7,235,627, 8,114,83
 
 Victoza® Pen is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2010-13 Novo Nordisk
+© 2010-15 Novo Nordisk
 
 Manufactured by:
 

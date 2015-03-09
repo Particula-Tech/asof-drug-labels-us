@@ -10,7 +10,7 @@ Each individual pen delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg (6 mg/mL, 3 mL).
 3 x Victoza pen NDC 0169-4060-13
 
 Each Victoza pen is for use by a single patient.
-A Victoza pen should never be shared between patients, even if the needle is changed.
+A Victoza pen must never be shared between patients, even if the needle is changed.
 
 ## 16.2 Recommended Storage
 
@@ -23,6 +23,7 @@ Keep the pen cap on when not in use.
 Victoza should be protected from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the Victoza pen without an injection needle attached.
 This will reduce the potential for contamination, infection, and leakage while also ensuring dosing accuracy.
+Always use a new needle for each injection to prevent contamination.
 
 Table 14 Recommended Storage Conditions for the Victoza Pen
 

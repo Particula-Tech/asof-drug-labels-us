@@ -48,12 +48,17 @@ Nine of the 13 cases with Victoza were reported as acute pancreatitis and four w
 In one case in a Victoza-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
 Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
 
-## 5.3 Use with Medications Known to Cause Hypoglycemia
+## 5.3 Never Share a Victoza Pen Between Patients
+
+Victoza pens must never be shared between patients, even if the needle is changed.
+Pen-sharing poses a risk for transmission of blood-borne pathogens.
+
+## 5.4 Use with Medications Known to Cause Hypoglycemia
 
 Patients receiving Victoza in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia.
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see Adverse Reactions (6.1)].
 
-## 5.4 Renal Impairment
+## 5.5 Renal Impairment
 
 Victoza has not been found to be directly nephrotoxic in animal studies or clinical trials.
 There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis in Victoza-treated patients [see Adverse Reactions (6.2)].
@@ -63,7 +68,7 @@ Some of the reported events occurred in patients receiving one or more medicatio
 Altered renal function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including Victoza.
 Use caution when initiating or escalating doses of Victoza in patients with renal impairment [see Use in Specific Populations (8.6)].
 
-## 5.5 Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with Victoza.
 If a hypersensitivity reaction occurs, the patient should discontinue Victoza and other suspect medications and promptly seek medical advice.
@@ -71,6 +76,6 @@ If a hypersensitivity reaction occurs, the patient should discontinue Victoza an
 Angioedema has also been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to angioedema with Victoza.
 
-## 5.6 Macrovascular Outcomes
+## 5.7 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with Victoza or any other antidiabetic drug.

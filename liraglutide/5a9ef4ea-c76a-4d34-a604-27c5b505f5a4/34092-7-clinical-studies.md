@@ -45,8 +45,6 @@ Table 6 Results of a 52-week monotherapy trialIntent-to-treat population using l
 | Difference from glimepiride arm (adjusted mean) | -3.6 | -3.2 |  |
 | 95% Confidence Interval | (-4.3, -2.9) | (-3.9, -2.5) |  |
 
-Figure 3 Mean HbA1c for patients who completed the 52-week trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 52 (Monotherapy)
-
 ## 14.2 Combination Therapy
 
 Add-on to Metformin
