@@ -32,7 +32,7 @@ CIPRO IV is indicated in adult patients for treatment of acute sinusitiscaused b
 
 ## 1.8 Chronic Bacterial Prostatitis
 
-CIPRO IV is indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae.
+CIPRO IV is indicated in adult patients for treatment of chronic bacterial prostatitis caused by Escherichia coli or Proteus mirabilis.
 
 ## 1.9 Empirical Therapy for Febrile Neutropenic Patients
 
