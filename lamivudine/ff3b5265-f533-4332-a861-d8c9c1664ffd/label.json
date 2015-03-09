@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205217"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-602-01",
+    "68180-602-07",
+    "68180-603-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine",
+      "name": "Lamivudine"
+    }
+  ],
+  "setid": "ff3b5265-f533-4332-a861-d8c9c1664ffd",
+  "source": "dailymed"
+}
