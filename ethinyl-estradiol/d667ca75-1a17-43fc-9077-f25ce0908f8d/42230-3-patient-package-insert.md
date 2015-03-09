@@ -187,21 +187,13 @@ What are the ingredients in Jinteli?
 
 Active Ingredients: norethindrone acetate, USP and ethinyl estradiol, USP
 
-Inactive Ingredients: calcium stearate, lactose monohydrate, microcrystalline cellulose, pregelatinized starch, and sodium starch glycolate
+Inactive Ingredients: calcium stearate, lactose monohydrate, microcrystalline cellulose, pregelatinized corn starch, and sodium starch glycolate
 
 This Patient Information has been approved by the U.S Food and Drug Administration.
 
-Manufactured By:
-
-BARR LABORATORIES, INC.
-
-Pomona, NY 10970
-
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
 North Wales, PA 19454
 
 Rev.
-A 8/2014
+B 12/2014

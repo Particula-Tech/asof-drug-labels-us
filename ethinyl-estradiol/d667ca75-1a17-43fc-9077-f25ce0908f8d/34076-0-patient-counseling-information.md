@@ -14,17 +14,9 @@ Inform postmenopausal women of possible serious adverse reactions of estrogen pl
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen plus progestin therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-Manufactured By:
-
-BARR LABORATORIES, INC.
-
-Pomona, NY 10970
-
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
 North Wales, PA 19454
 
 Rev.
-A 8/2014
+B 12/2014
