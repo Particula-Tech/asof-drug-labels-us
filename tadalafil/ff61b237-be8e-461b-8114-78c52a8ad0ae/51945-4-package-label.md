@@ -1,4 +1,4 @@
-PACKAGE LABEL – ADCIRCA 20 mg 60 count bottle
+# PACKAGE LABEL – ADCIRCA 20 mg
 
 60 tablets
 
