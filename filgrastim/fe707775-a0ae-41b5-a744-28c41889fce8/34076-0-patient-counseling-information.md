@@ -1,0 +1,40 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Review the steps for direct patient administration with patients and caregivers.
+Training should aim to ensure that patients and caregivers can successfully perform all of the steps in the Instructions for use of ZARXIO prefilled syringe with BD UltraSafe Passive™ Needle Guard, including showing the patient or caregiver how to measure the required dose, particularly if a patient is on a dose other than the entire syringe.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO [see Instructions for Use].
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+Advise patients of the following risks and potential risks with ZARXIO:
+
+- •Rupture or enlargement of the spleen may occur.
+  Symptoms include left upper quadrant abdominal pain or left shoulder pain.
+  Advise patients to report pain in these areas to their physician immediately [see Warnings and Precautions (5.1)].
+- •Serious allergic reactions may occur, which may be signaled by rash‚ facial edema‚ wheezing‚ dyspnea‚ hypotension‚ or tachycardia.
+  Advise patient to seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur [see Warnings and Precautions (5.2)].
+- •Dyspnea, with or without fever, progressing to Acute Respiratory Distress Syndrome, may occur.
+  Advise patients to report dyspnea to their physician immediately [see Warnings and Precautions (5.3)].
+- •In patients with sickle cell disease, sickle cell crisis and death have occurred.
+  Discuss potential risks and benefits for patients with sickle cell disease prior to the administration of human granulocyte colony-stimulating factors [see Warnings and Precautions (5.4)].
+- •Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
+  Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.10)].
+- •Advise females of reproductive potential that ZARXIO should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Special Populations (8.1)].
+
+ZARXIO™ (filgrastim-sndz)
+
+ZARXIO is a trademark of Novartis AG
+
+Manufactured by:
+
+Sandoz Inc., Princeton, NJ 08540
+
+US License No. 2003
+
+At:
+
+GP Grenzach Produktions GmbH
+
+Grenzach-Wyhlen, Germany
+
+Product of Austria
