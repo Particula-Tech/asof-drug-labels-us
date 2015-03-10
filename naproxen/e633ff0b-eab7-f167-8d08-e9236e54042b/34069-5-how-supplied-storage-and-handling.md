@@ -10,7 +10,7 @@ Each tablet contains 550 mg naproxen sodium equivalent to 500 mg naproxen.
 
 NAPRELAN® 750: white, capsule-shaped tablet with “N” on one side and “750” on the reverse; in bottles of 30; NDC 52427-274-30, Each tablet contains 825 mg naproxen sodium equivalent to 750 mg naproxen.
 
-Rx only US Patent 5,637,320
+Rx only
 
 Store at controlled room temperature, 20° to 25° C (68° to 77° F).
 
@@ -20,7 +20,7 @@ _____________________________________________________
 
 *Registered Trademark of Alvogen Pharma US, Inc.
 
-**Registered Trademark of Alkermes Pharma Ireland Limited.
+** Registered Trademark of Alkermes Pharma Ireland L imited.
 
 ***Naprosyn® is a registered trademark of Syntex Pharmaceuticals International Limited
 
@@ -30,4 +30,4 @@ Manufactured by: Alkermes Pharma Ireland Limited (APIL) Athlone, Ireland
 
 Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
 
-PI272-00 Rev 10/2013
+PI272-02 Rev 10/2014

@@ -161,4 +161,4 @@ Manufactured by: Alkermes Pharma Ireland Limited (APIL) Athlone, Ireland
 
 Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
 
-Pl272-00 Rev 10/2013
+Pl272-02 Rev 10/2014
