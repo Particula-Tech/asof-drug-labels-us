@@ -8,7 +8,8 @@ NovoLog Mix 70/30 is available in the following package sizes: each presentation
 | --- | --- |
 | 3 mL NovoLog Mix 70/30 FlexPen | NDC 0169-3696-19 |
 
-NovoLog Mix 70/30 vials and NovoLog Mix 70/30 FlexPen are latex free.
+- NovoLog Mix 70/30 vials and NovoLog Mix 70/30 FlexPen are latex free.
+  NovoLog Mix 70/30 FlexPens must never be shared between patients, even if the needle is changed.
 
 ## 16.2 Recommended Storage
 
@@ -27,6 +28,10 @@ A NovoLog Mix 70/30 FlexPen in use must NOT be stored in the refrigerator.
 Keep the disposable NovoLog Mix 70/30 FlexPen away from direct heat and sunlight.
 An unpunctured NovoLog Mix 70/30 FlexPen can be used until the expiration date printed on the label if they are stored in a refrigerator.
 Keep any unused NovoLog Mix 70/30 FlexPen in the carton so it will stay clean and protected from light.
+
+Always remove the needle after each injection and store NovoLog Mix 70/30 FlexPen without a needle attached.
+This prevents contamination and/or infection, or leakage of insulin, and will ensure accurate dosing.
+Always use a new needle for each injection to prevent contamination.
 
 These storage conditions are summarized in the following table:
 

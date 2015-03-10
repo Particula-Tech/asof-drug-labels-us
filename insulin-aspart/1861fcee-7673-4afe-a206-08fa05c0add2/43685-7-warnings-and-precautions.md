@@ -1,6 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Administration
+## 5.1 Never Share a NovoLog Mix 70/30 FlexPen Between Patients
+
+NovoLog Mix 70/30 FlexPens must never be shared between patients, even if the needle is changed.
+Pen-sharing poses a risk for transmission of blood-borne pathogens.
+
+## 5.2 Administration
 
 The short and long-acting components of insulin mixes, including NovoLog Mix 70/30, cannot be titrated independently.
 Because NovoLog Mix 70/30 has peak pharmacodynamic activity between 1-4 hours after injection, it should be administered within 15 minutes of meal initiation [see Clinical Pharmacology (12)].
@@ -22,9 +27,7 @@ The pharmacokinetic and pharmacodynamic profiles of all insulins may be altered 
 Smoking, temperature, and exercise contribute to variations in blood flow and insulin absorption.
 These and other factors contribute to inter- and intra-patient variability.
 
-Needles and NovoLog Mix 70/30 FlexPen must not be shared.
-
-## 5.2 Hypoglycemia
+## 5.3 Hypoglycemia
 
 Hypoglycemia is the most common adverse effect of insulin therapy, including NovoLog Mix 70/30.
 Severe hypoglycemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or even death.
@@ -39,22 +42,22 @@ This may present a risk in situations where these abilities are especially impor
 Rapid changes in serum glucose levels may induce symptoms of hypoglycemia in persons with diabetes, regardless of the glucose value.
 Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, diabetic nerve disease, use of medications such as beta-blockers, or intensified diabetes control [see Drug Interactions (7)].
 
-## 5.3 Hypokalemia
+## 5.4 Hypokalemia
 
 All insulin products, including NovoLog Mix 70/30, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia that, if left untreated, may cause respiratory paralysis, ventricular arrhythmia, and death.
 Use caution in patients who may be at risk for hypokalemia (e.g. patients using potassium-lowering medications or patients taking medications sensitive to potassium concentrations).
 
-## 5.4 Renal Impairment
+## 5.5 Renal Impairment
 
 Clinical or pharmacology studies with NovoLog Mix 70/30 in diabetic patients with various degrees of renal impairment have not been conducted.
 As with other insulins, the requirements for NovoLog Mix 70/30 may be reduced in patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-## 5.5 Hepatic Impairment
+## 5.6 Hepatic Impairment
 
 Clinical or pharmacology studies with NovoLog Mix 70/30 in diabetic patients with various degrees of hepatic impairment have not been conducted.
 As with other insulins, the requirements for NovoLog Mix 70/30 may be reduced in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-## 5.6 Hypersensitivity and Allergic Reactions
+## 5.7 Hypersensitivity and Allergic Reactions
 
 Local Reactions- As with other insulin therapy, patients may experience reactions such as erythema, edema or pruritus at the site of NovoLog Mix 70/30 injection.
 These reactions usually resolve in a few days to a few weeks, but in some occasions, may require discontinuation of NovoLog Mix 70/30.
@@ -64,14 +67,14 @@ Localized reactions and generalized myalgias have been reported with the use of 
 Systemic Reactions- Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash (including pruritus) over the whole body, shortness of breath, wheezing, reduction in blood pressure, rapid pulse, or sweating.
 Severe cases of generalized allergy, including anaphylactic reaction, may be life threatening.
 
-## 5.7 Antibody Production
+## 5.8 Antibody Production
 
 Specific anti-insulin antibodies as well as cross-reacting anti-insulin antibodies were monitored in a 3-month, open-label comparator trial as well as in a long-term extension trial.
 Changes in cross-reactive antibodies were more common after NovoLog Mix 70/30 than with Novolin 70/30 but these changes did not correlate with change in HbA1c or increase in insulin dose.
 In this study, antibodies did not increase further after long-term exposure (>6 months) to NovoLog Mix 70/30.
 The presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency towards hyperglycemia or hypoglycemia.
 
-## 5.8 Fluid retention and heart failure can occur with concomitant use of PPAR-gamma agonists
+## 5.9 Fluid Retention and Heart Failure Can Occur with Concomitant Use of PPAR-gamma Agonists
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.

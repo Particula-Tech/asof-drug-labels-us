@@ -37,20 +37,20 @@ FlexPen® Prefilled Syringe
 
 30% insulin aspart injection, (rDNA origin)
 
+For Single Patient Use Only
+
 100 units/mL (U-100)
 
 5x3 mL Prefilled Insulin Syringes
-
-Rx only
 
 Shake carefully before using.
 See enclosed insert for
 
 proper technique.
 
-For use with NovoFine® disposable needles or other
+Rx only
 
-products specifically recommended by Novo Nordisk.
+For use with NovoFine® disposable needles.
 
 Keep in a cold place.
 Avoid freezing.
@@ -58,5 +58,3 @@ Avoid freezing.
 Protect from light.
 
 novo nordisk®
-
-## Generic Section

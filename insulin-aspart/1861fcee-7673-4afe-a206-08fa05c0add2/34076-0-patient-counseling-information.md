@@ -2,7 +2,11 @@
 
 [see FDA-Approved Patient Labeling]
 
-## 17.1 Physician Instructions
+## 17.1 Never Share a NovoLog Mix 70/30 FlexPen Between Patients
+
+Advise patients that they must never share a NovoLog Mix 70/30 FlexPen with another person, even if the needle is changed, because doing so carries a risk for transmission of bloodborne pathogens.
+
+## 17.2 Physician Instructions
 
 Maintenance of normal or near-normal glucose control is a treatment goal in diabetes mellitus and has been associated with a reduction in diabetic complications.
 Patients should be informed about potential risks and advantages of NovoLog Mix 70/30 therapy including the possible adverse reactions.
@@ -21,17 +25,17 @@ In addition, the written prescription should clearly indicate the presentation, 
 
 Rx only
 
-Date of Issue: June 13, 2014
+Date of Issue: February 2015
 
-Version: 12
+Version: 13
 
 Novo Nordisk®, NovoLog®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
 
-NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+NovoLog® Mix 70/30 is covered by US Patent No. 5,866,538 and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2002 – 2014 Novo Nordisk
+© 2002 – 2015 Novo Nordisk
 
 Manufactured by:
 

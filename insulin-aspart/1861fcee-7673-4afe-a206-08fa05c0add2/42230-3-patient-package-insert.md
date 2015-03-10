@@ -12,6 +12,9 @@ This leaflet does not take the place of talking with your healthcare provider ab
 Make sure you know how to manage your diabetes.
 Ask your healthcare provider if you have any questions about managing your diabetes.
 
+Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
+
 What is NovoLog® Mix 70/30?
 
 NovoLog® Mix 70/30 is a man-made insulin that is used to control high blood sugar in adults with diabetes mellitus.
@@ -89,10 +92,12 @@ How should I take NovoLog® Mix 70/30?
 | •drowsiness | •high amounts of sugar and ketones in your urine |
 | •loss of appetite | •nausea, vomiting (throwing up) or stomach pain |
 
-Do not share needles, insulin pens or syringes with others.
-
-Check your blood sugar levels.
-Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
+- •Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle is changed.
+  You may give other people a serious infection, or get a serious infection from them.
+- •Do not reuse or share your needles or syringes with other people.
+  You may give other people a serious infection, or get a serious infection from them.
+- •Check your blood sugar levels.
+  Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 
 Your insulin dosage may need to change because of:
 
@@ -118,7 +123,7 @@ What are the possible side effects of NovoLog® Mix 70/30?
 
 NovoLog® Mix 70/30 may cause serious side effects, including:
 
-- •low blood sugar (hypoglycemia).
+- •Low blood sugar (hypoglycemia).
   Symptoms of low blood sugar may include:
 
 | •sweating | •trouble concentrating or confusion |
@@ -157,7 +162,8 @@ Your dose of NovoLog® Mix 70/30 may need to be changed.
   Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
   - •shortness of breath
   - •swelling of your ankles or feet
-  - •sudden weight gainTreatment with TZDs and NovoLog® Mix 70/30 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+  - •sudden weight gain
+- Treatment with TZDs and NovoLog® Mix 70/30 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 The most common side effects of NovoLog® Mix 70/30 include:
 
@@ -201,7 +207,7 @@ Never use insulin after the expiration date that is printed on the label and car
 
 Keep NovoLog® Mix 70/30 and all medicines out of the reach of children.
 
-## General advice about NovoLog® Mix 70/30
+General advice about NovoLog® Mix 70/30
 
 Medicines are sometimes prescribed for conditions that are not mentioned in the patient leaflet.
 Do not use NovoLog® Mix 70/30 for a condition for which it was not prescribed.
@@ -222,17 +228,17 @@ All NovoLog® Mix 70/30 vials and NovoLog® Mix 70/30 FlexPen® are latex free.
 
 Helpful information for people with diabetes is published by the American Diabetes Association, 1701 N Beauregard Street, Alexandria, VA 22311 and is available at www.diabetes.org.
 
-Date of Issue: March 9, 2013
+Date of Issue: February 2015
 
-Version: 9
+Version: 10
 
 Novo Nordisk®, NovoLog®, and FlexPen® are registered trademarks of Novo Nordisk A/S.
 
-NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+NovoLog® Mix 70/30 is covered by US Patent No. 5,866,538 and other patents pending.
 
-FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
+FlexPen® is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2002-2013 Novo Nordisk
+© 2002-2015 Novo Nordisk
 
 Manufactured by:
 
@@ -333,12 +339,12 @@ After your injection:
 
 - •Do not recap the needle.
   Recapping the needle can lead to a needle stick injury.
-- •Throw away empty insulin vials,used syringes and needles in a sharps container or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or coffee can.
+- •Throw away empty insulin vials, used syringes and needles in a sharps container or some type of hard plastic or metal container with a screw on cap such as a detergent bottle or coffee can.
   Check with your healthcare provider about the right way to throw away the container.
   There may be local or state laws about how to throw away used syringes and needles.
   Do not throw away used syringes and needles in household trash or recycling bins.
 
-How should I store NovoLog®Mix 70/30?
+How should I store NovoLog® Mix 70/30?
 
 - •Do not freeze NovoLog® Mix 70/30.
   Do not use NovoLog® Mix 70/30 if it has been frozen.
@@ -382,13 +388,16 @@ Plainsboro, New Jersey 08536
 
 www.novonordisk-us.com
 
-PATIENT INSTRUCTIONS FOR USE
+INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 FlexPen®
 
 Read the following instructions carefully before you start using your NovoLog® Mix 70/30 FlexPen® and each time you get a refill.
 There may be new information.
 You should read the instructions even if you have used NovoLog® Mix 70/30 FlexPen® before.
+
+Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
 
 NovoLog® Mix 70/30 FlexPen® is a disposable dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
@@ -447,7 +456,9 @@ E. Pull off the big outer needle cap (see diagram E).
 
 F. Pull off the inner needle cap and dispose of it (see diagram F).
 
-Δ Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+- Δ Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+  Do not reuse or share your needles or syringes with other people.
+  You may give other people a serious infection, or get a serious infection from them.
 
 Δ Be careful not to bend or damage the needle before use.
 
@@ -514,11 +525,19 @@ Recapping can lead to a needle stick injury.
 Remove the needle from the NovoLog® Mix 70/30 FlexPen® after each injection.
 This helps to prevent infection, leakage of insulin, and will help to make sure you inject the right dose of insulin.
 
-Δ Put the needle and any empty NovoLog® Mix 70/30 FlexPen® or any used NovoLog® Mix 70/30 FlexPen® still containing insulin in a sharps container or some type of hard plastic or metal container with a screw top such as a detergent bottle or empty coffee can.
-These containers should be sealed and thrown away the right way.
-Check with your healthcare provider about the right way to throw away used syringes and needles.
-There may be local or state laws about how to throw away used needles and syringes.
-Do not throw away used needles and syringes in household trash or recycling bins.
+- •Put your used NovoLog FlexPen and needles in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and Pens in your household trash.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - omade of a heavy-duty plastic
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - oupright and stable during use
+  - oleak-resistant
+  - oproperly labeled to warn of hazardous waste inside the container
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
 The NovoLog® Mix 70/30 FlexPen® prevents the cartridge from being completely emptied.
 It is designed to deliver 300 units.
@@ -559,7 +578,9 @@ This helps to ensure sterility, prevent leakage of insulin, and will help to mak
 Δ Keep your NovoLog® Mix 70/30 FlexPen® and needles out of the reach of children.
 
 Δ Use NovoLog® Mix 70/30 FlexPen® as directed to treat your diabetes.
-Needles and NovoLog® Mix 70/30 FlexPen® must not be shared.
+
+Δ Do not share your NovoLog Mix 70/30 FlexPen or needles with other people.
+You may give other people a serious infection, or get a serious infection from them.
 
 Δ Always use a new needle for each injection.
 
@@ -567,20 +588,20 @@ Needles and NovoLog® Mix 70/30 FlexPen® must not be shared.
 
 Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog® Mix 70/30 FlexPen® is lost or damaged.
 
-Remember to keep the disposable NovoLog® Mix 70/30 FlexPen® with you.
+Δ Remember to keep the disposable NovoLog® Mix 70/30 FlexPen® with you.
 Do not leave it in a car or other location where it can get too hot or too cold.
 
-Date of Issue: March 2013
+Date of Issue: February 2015
 
-Version: 9
+Version: 10
 
 Novo Nordisk®, NovoLog®, FlexPen®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
-NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+NovoLog® Mix 70/30 is covered by US Patent No. 5,866,538 and other patents pending.
 
-FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
+FlexPen® is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2002-2013 Novo Nordisk
+© 2002-2015 Novo Nordisk
 
 Manufactured by:
 
