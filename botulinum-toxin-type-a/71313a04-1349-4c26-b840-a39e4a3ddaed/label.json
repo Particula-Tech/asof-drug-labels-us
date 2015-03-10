@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125274"
+  ],
+  "inn": "botulinum-toxin-type-a",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5962-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "botulinum toxin type a",
+      "name": "Dysport"
+    }
+  ],
+  "setid": "71313a04-1349-4c26-b840-a39e4a3ddaed",
+  "source": "dailymed"
+}
