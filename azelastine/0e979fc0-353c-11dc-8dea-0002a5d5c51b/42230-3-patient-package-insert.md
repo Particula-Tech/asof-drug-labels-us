@@ -5,52 +5,54 @@ PATIENT INFORMATION ASTEPRO [AS-ta-PRO] (azelastine hydrochloride) Nasal Spray 0
 
 What is ASTEPRO Nasal Spray?
 
-- ASTEPRO Nasal Spray is a prescription medicine used to treat symptoms of seasonal and year-round allergic rhinitis in people age 6 and older.
-- ASTEPRO Nasal Spray may help to reduce your nasal symptoms including stuffy nose, runny nose, itching and sneezing.
+- ASTEPRO is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in patients 2 years of age and older and year-round allergic rhinitis in people age 6 months and older.
+- ASTEPRO may help to reduce your nasal symptoms including stuffy nose, runny nose, itching and sneezing.
 
-It is not known if ASTEPRO Nasal Spray is safe and effective in children under 6 years of age.
+It is not known if ASTEPRO is safe and effective in children under 6 months of age.
 
-What should I tell my healthcare provider before using ASTEPRO Nasal Spray?
+What should I tell my healthcare provider before using ASTEPRO?
 
-Before using ASTEPRO Nasal Spray, tell your healthcare provider if you are:
+Before using ASTEPRO, tell your healthcare provider if you are:
 
-- allergic to any of the ingredients in ASTEPRO Nasal Spray.
-  See the end of this leaflet for a complete list of ingredients in ASTEPRO Nasal Spray.
+- allergic to any of the ingredients in ASTEPRO.
+  See the end of this leaflet for a complete list of ingredients in ASTEPRO.
 - pregnant, or plan to become pregnant.
-  It is not known if ASTEPRO Nasal Spray will harm your unborn baby.
+  It is not known if ASTEPRO will harm your unborn baby.
 - breastfeeding, or plan to breastfeed.
-  It is not known if ASTEPRO Nasal Spray passes into your breast milk.
-  You and your healthcare provider should decide if you will use ASTEPRO Nasal Spray if you plan to breastfeed.
+  It is not known if ASTEPRO passes into your breast milk.
+  You and your healthcare provider should decide if you will use ASTEPRO if you plan to breastfeed.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-ASTEPRO Nasal Spray and other medicines may affect each other, causing side effects.
+ASTEPRO and other medicines may affect each other, causing side effects.
 
-How should I use ASTEPRO Nasal Spray?
+How should I use ASTEPRO?
 
-- Read the Instructions for Use at the end of this leaflet for information about the right way to use ASTEPRO Nasal Spray.
-- Spray ASTEPRO Nasal Spray in your nose only.
+- Read the Instructions for Use at the end of this leaflet for information about the right way to use ASTEPRO.
+- An adult should help a young child use ASTEPRO.
+- Spray ASTEPRO in your nose only.
   Do not spray it into your eyes or mouth.
-- Use ASTEPRO Nasal Spray exactly as your healthcare provider tells you to use it.
+- Use ASTEPRO exactly as your healthcare provider tells you to use it.
 - Do not use more than your healthcare provider tells you.
-- Throw away your ASTEPRO Nasal Spray 0.1% bottle after using 200 sprays.
+- Throw away your ASTEPRO 0.1% bottle after using 200 sprays.
   Even though the bottle may not be completely empty, you may not get the correct dose of medicine.
-- Throw away your ASTEPRO Nasal Spray 0.15% bottle after using 200 sprays.
+- Throw away your ASTEPRO 0.15% bottle after using 200 sprays.
   Even though the bottle may not be completely empty, you may not get the correct dose of medicine.
-- If you use too much or a child accidentally swallows ASTEPRO Nasal Spray, call your healthcare provider or go to the nearest hospital emergency room right away.
+- If you use too much or a child accidentally swallows ASTEPRO, call your healthcare provider or go to the nearest hospital emergency room right away.
 
-What should I avoid while using ASTEPRO Nasal Spray?
+What should I avoid while using ASTEPRO?
 
-ASTEPRO Nasal Spray can cause sleepiness:
+ASTEPRO can cause sleepiness:
 
-- Do not drive, operate machinery, or do other dangerous activities until you know how ASTEPRO Nasal Spray affects you.
-- Do not drink alcohol or take other medicines that may cause you to feel sleepy while using ASTEPRO Nasal Spray.
+- Do not drive, operate machinery, or do other dangerous activities until you know how ASTEPRO affects you.
+- Do not drink alcohol or take other medicines that may cause you to feel sleepy while using ASTEPRO.
   It may make your sleepiness worse.
 
-What are the possible side effects of ASTEPRO Nasal Spray?
+What are the possible side effects of ASTEPRO?
 
-The most common side effects of ASTEPRO Nasal Spray include:
+The most common side effects of ASTEPRO include:
 
-- unusual bitter taste
+- fever
+- unusual taste
 - nose pain or discomfort
 - nosebleeds
 - headache
@@ -58,37 +60,42 @@ The most common side effects of ASTEPRO Nasal Spray include:
 - fatigue
 - sleepiness
 - upper respiratory tract infections
+- cough
+- vomiting
+- middle ear infection
+- skin rash
+- sore throat
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-These are not all of the possible side effects of ASTEPRO Nasal Spray.
+These are not all of the possible side effects of ASTEPRO.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store ASTEPRO Nasal Spray?
+How should I store ASTEPRO?
 
-- Keep ASTEPRO Nasal Spray upright at 68°F to 77°F (20°C to 25°C).
-- Do not freeze ASTEPRO Nasal Spray.
-- Do not use ASTEPRO Nasal Spray after the expiration date “EXP” on the medicine label and box.
+- Keep ASTEPRO upright at 68°F to 77°F (20°C to 25°C).
+- Do not freeze ASTEPRO.
+- Do not use ASTEPRO after the expiration date “EXP” on the medicine label and box.
 
-Keep ASTEPRO Nasal Spray and all medicines out of reach of children.
+Keep ASTEPRO and all medicines out of reach of children.
 
-General information about the safe and effective use of ASTEPRO Nasal Spray.
+General information about the safe and effective use of ASTEPRO.
 
 Medicines are sometimes prescribed for conditions other than those listed in a Patient Information leaflet.
-Do not use ASTEPRO Nasal Spray for a condition for which it was not prescribed.
-Do not give ASTEPRO Nasal Spray to other people, even if they have the same symptoms that you have.
+Do not use ASTEPRO for a condition for which it was not prescribed.
+Do not give ASTEPRO to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about ASTEPRO Nasal Spray.
+This Patient Information leaflet summarizes the most important information about ASTEPRO.
 If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about ASTEPRO Nasal Spray that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about ASTEPRO that is written for health professionals.
 
 For more information, go to www.ASTEPRO.com or call 1-800-598-4856.
 
-What are the ingredients in ASTEPRO Nasal Spray?
+What are the ingredients in ASTEPRO?
 Active ingredient: azelastine hydrochloride
 
 Inactive ingredients: sorbitol, sucralose, hypromellose, sodium citrate, edetate disodium, benzalkonium chloride, and purified water.
@@ -106,17 +113,18 @@ For the correct dose of medicine:
   This will keep the medicine from running down into your throat.
   You may get a bitter taste in your mouth.
 
-Figure A identifies the parts of your ASTEPRO Nasal Spray pump.
+Figure A identifies the parts of your ASTEPRO Nasal Spray pump
 
-Before you use ASTEPRO Nasal Spray for the first time, you will need to prime the bottle.
-Priming your ASTEPRO Nasal Spray
+Before you use ASTEPRO for the first time, you will need to prime the bottle.
 
-Remove the blue dust cover over the tip of the bottle and the blue safety clip just under the “shoulders” of the bottle.
-(See Figure B).
+For use in young children: An adult should help a young child use ASTEPRO.
+(See “Using your ASTEPRO” Steps 1 through 8).
 
-Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
+Priming your ASTEPRO
 
-- put your thumb on the bottom of the bottle.
+Remove the blue dust cover over the tip of the bottle and the blue safety clip just under the “shoulders” of the bottle (See Figure B).
+
+- Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and put your thumb on the bottom of the bottle.
   Press upward with your thumb and release for the pumping action.
   Repeat this until you see a fine mist (See Figure C).
 - To get a fine mist you must pump the spray fast and use firm pressure against the bottom of the bottle.
@@ -125,12 +133,15 @@ Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit a
 
 Now your pump is primed and ready to use.
 
-- Do not use ASTEPRO Nasal Spray unless you see a fine mist after you do the priming sprays.
+- Do not use ASTEPRO unless you see a fine mist after you do the priming sprays.
   If you do not see a fine mist, clean the tip of the spray nozzle.
-  See the “Cleaning the Spray Tip of your ASTEPRO Nasal Spray” section below.
-- If you do not use ASTEPRO Nasal Spray for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
+  See the “Cleaning the Spray Tip of your ASTEPRO” section below.
+- If you do not use ASTEPRO for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
 
-Using your ASTEPRO Nasal Spray
+Using your ASTEPRO
+
+For use in young children: An adult should help a young child use ASTEPRO.
+(See Steps 1 through 8).
 
 Step 1.
 Blow your nose to clear your nostrils.
@@ -153,14 +164,14 @@ Step 6.
 If your healthcare provider tells you to use 2 sprays in each nostril, repeat Steps 2 through 4 above for the second spray in each nostril.
 
 Step 7.
-Breathe in gently, and do not tilt your head back after using ASTEPRO Nasal Spray.
+Breathe in gently, and do not tilt your head back after using ASTEPRO.
 This will help to keep the medicine from going into your throat.
 
 Step 8.
-When you finish using your ASTEPRO Nasal Spray, wipe the spray tip with a clean tissue or cloth.
+When you finish using your ASTEPRO, wipe the spray tip with a clean tissue or cloth.
 Put the safety clip and dust cover back on the bottle.
 
-Cleaning the Spray Tip of your ASTEPRO Nasal Spray
+Cleaning the Spray Tip of your ASTEPRO
 
 - If the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
   Unscrew the spray pump unit from the bottle by turning it to the left (counter-clockwise) (See Figure F).
@@ -176,7 +187,12 @@ Cleaning the Spray Tip of your ASTEPRO Nasal Spray
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: MEDA Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 ©2013 Meda Pharmaceuticals Inc.
+Manufactured by: MEDA PHARMACEUTICALS® Somerset, NJ 08873-4120
+
+©2015 Meda Pharmaceuticals Inc.
 
 ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
-U.S. Patents 8,518,919, 8,071,073 and D447,419 IN-023D6-07 Revised: 8/2013
+
+U.S. Patents 8,518,919, 8,071,073, and D447,419
+
+IN-023D6-09 Revised: 2/2015

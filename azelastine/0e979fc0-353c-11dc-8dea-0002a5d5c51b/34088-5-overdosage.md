@@ -1,9 +1,9 @@
 # 10 OVERDOSAGE
 
-There have been no reported overdosages with ASTEPRO Nasal Spray.
-Acute overdosage by adults with this dosage form is unlikely to result in clinically significant adverse events, other than increased somnolence, since one 30-mL bottle of ASTEPRO Nasal Spray 0.1% contains up to 30 mg of azelastine hydrochloride and one 30-mL bottle of ASTEPRO Nasal Spray 0.15% contains up to 45 mg of azelastine hydrochloride.
+There have been no reported overdosages with ASTEPRO.
+Acute overdosage by adults with this dosage form is unlikely to result in clinically significant adverse events, other than increased somnolence, since one 30-mL bottle of ASTEPRO 0.1% contains up to 30 mg of azelastine hydrochloride and one 30-mL bottle of ASTEPRO 0.15% contains up to 45 mg of azelastine hydrochloride.
 Clinical trials in adults with single doses of the oral formulation of azelastine hydrochloride (up to 16 mg) have not resulted in increased incidence of serious adverse events.
 General supportive measures should be employed if overdosage occurs.
-There is no known antidote to ASTEPRO Nasal Spray.
+There is no known antidote to ASTEPRO.
 Oral ingestion of antihistamines has the potential to cause serious adverse effects in children.
-Accordingly, ASTEPRO Nasal Spray should be kept out of the reach of children.
+Accordingly, ASTEPRO should be kept out of the reach of children.

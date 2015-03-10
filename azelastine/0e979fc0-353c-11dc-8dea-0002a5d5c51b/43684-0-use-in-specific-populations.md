@@ -19,15 +19,15 @@ Neither fetal nor maternal effects occurred at approximately 3 times the MRHDID 
 ## 8.3 Nursing Mothers
 
 It is not known whether azelastine hydrochloride is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when ASTEPRO Nasal Spray is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when ASTEPRO is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ASTEPRO Nasal Spray in pediatric patients 6 to 17 years of age have been established [see Clinical Studies (14)].
-The safety and effectiveness of ASTEPRO Nasal Spray in pediatric patients below 6 years of age have not been established.
+The safety and effectiveness of ASTEPRO have been established for seasonal allergic rhinitis in pediatric patients 2 to 17 years of age and perennial allergic rhinitis in pediatric patients 6 months of age to 17 years of age [see Clinical Studies (14)].
+The safety and effectiveness of ASTEPRO in pediatric patients below 6 months of age have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of ASTEPRO Nasal Spray did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger patients.
+Clinical trials of ASTEPRO did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
