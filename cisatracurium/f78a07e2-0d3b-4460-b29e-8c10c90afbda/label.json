@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA203182",
+    "ANDA203183"
+  ],
+  "inn": "cisatracurium",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-416-05",
+    "63323-417-10",
+    "63323-418-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cisatracurium besylate",
+      "name": "Cisatracurium"
+    }
+  ],
+  "setid": "f78a07e2-0d3b-4460-b29e-8c10c90afbda",
+  "source": "dailymed"
+}
