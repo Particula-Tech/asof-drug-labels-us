@@ -2,7 +2,7 @@
 
 ## 5.1 CNS Depressant Effects and Next-Day Impairment
 
-Zolpidem tartrate extended-release are a central nervous system (CNS) depressant and can impair daytime function in some patients even when used as prescribed.
+Zolpidem tartrate extended-release tablet is a central nervous system (CNS) depressant and can impair daytime function in some patients even when used as prescribed.
 Prescribers should monitor for excess depressant effects, but impairment can occur in the absence of subjective symptoms, and may not be reliably detected by ordinary clinical exam (i.e. less than formal psychomotor testing).
 While pharmacodynamic tolerance or adaptation to some adverse depressant effects of zolpidem tartrate extended-release may develop, patients using zolpidem tartrate extended-release should be cautioned against driving or engaging in other hazardous activities or activities requiring complete mental alertness the day after use.
 

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise patients to read the FDA-approved patient labeling (Medication Guide)
 
 Inform patients and their families about the benefits and risks of treatment with zolpidem tartrate extended-release tablets.
 Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with zolpidem tartrate extended-release tablets and with each prescription refill.

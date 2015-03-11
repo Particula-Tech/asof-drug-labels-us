@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Zolpidem tartrate extended-release tablets, USP containing 6.25 mg or 12.5 mg of zolpidem tartrate for oral administration.
+Zolpidem tartrate extended-release tablets, USP contain 6.25 mg or 12.5 mg of zolpidem tartrate for oral administration.
 Tablets are not scored.
 
 Zolpidem tartrate extended-release tablets, 6.25 mg are dark pink, round, biconvex film-coated tablets debossed with SZ on one side and 228 on the other side.

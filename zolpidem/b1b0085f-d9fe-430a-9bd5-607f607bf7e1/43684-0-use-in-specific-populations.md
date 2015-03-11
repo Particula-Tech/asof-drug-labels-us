@@ -2,6 +2,8 @@
 
 ## 8.1 Pregnancy
 
+Teratogenic Effects
+
 Pregnancy Category C
 
 There are no adequate and well-controlled studies of zolpidem tartrate extended-release in pregnant women.

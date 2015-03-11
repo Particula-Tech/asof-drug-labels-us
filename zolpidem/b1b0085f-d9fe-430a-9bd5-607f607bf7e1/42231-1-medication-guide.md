@@ -144,7 +144,6 @@ You may report side effects to FDA at 1–800–FDA–1088.
 How should I store zolpidem tartrate extended-release tablets?
 
 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
-Dispense in a tight, light-resistant, child-resistant container.
 
 Keep zolpidem tartrate extended-release tablets and all medicines out of reach of children.
 
@@ -160,6 +159,8 @@ This Medication Guide summarizes the most important information about zolpidem t
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about zolpidem tartrate extended-release tablets that is written for healthcare professionals.
 
+For more information about zolpidem tartrate extended-release tablets, call Sandoz Inc. at 1-800-525-8747
+
 What are the ingredients in zolpidem tartrate extended-release tablets?
 
 Active Ingredient: Zolpidem tartrate
@@ -174,4 +175,6 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 for Sandoz Inc., Princeton, NJ 08540
 
-Rev.: October 2014
+Product of Israel
+
+Rev.: January 2015
