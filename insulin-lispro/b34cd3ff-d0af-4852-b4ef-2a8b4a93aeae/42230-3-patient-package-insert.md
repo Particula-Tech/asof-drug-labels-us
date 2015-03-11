@@ -11,6 +11,9 @@ This leaflet does not take the place of talking with your healthcare provider ab
 Make sure that you know how to manage your diabetes.
 Ask your healthcare provider if you have questions about managing your diabetes.
 
+Do not share your Humalog Mix50/50 KwikPen or syringes with other people, even if the needle has been changed.
+You may give other people a serious infection or get a serious infection from them.
+
 What is Humalog Mix50/50?
 
 Humalog Mix50/50 is a mixture of fast-acting and longer-acting man-made insulins.
@@ -56,6 +59,8 @@ Your healthcare provider will tell you the right syringes to use with Humalog Mi
 Your healthcare provider should show you how to inject Humalog Mix50/50 before you start using it.
 Read the User Manual that comes with your Humalog Mix50/50 prefilled pen.
 
+- Do not share your Humalog Mix50/50 KwikPen or syringes with other people, even if the needle has been changed.
+  You may give other people a serious infection or get a serious infection from them.
 - Use Humalog Mix50/50 exactly as prescribed by your healthcare provider.
 - Humalog Mix50/50 starts working faster than other insulins that contain regular human insulin.
   Inject Humalog Mix50/50 fifteen minutes or less before a meal.
@@ -153,7 +158,7 @@ After starting use (open):
 General information about Humalog Mix50/50
 
 Use Humalog Mix50/50 only to treat your diabetes.
-Do not share it with anyone else, even if they also have diabetes.
+Do not share it with other people, even if they also have diabetes.
 It may harm them.
 
 This leaflet summarized the most important information about Humalog Mix50/50.
@@ -168,28 +173,28 @@ Active ingredients: insulin lispro protamine suspension and insulin lispro.
 
 Inactive ingredients: protamine sulfate, glycerin, dibasic sodium phosphate, metacresol, zinc oxide (zinc ion), phenol and water for injection.
 
-Patient Information revised March 11, 2013
+Patient Information revised: February 25, 2015
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, 2013, Eli Lilly and Company.
+Copyright © 2007, 2015, Eli Lilly and Company.
 All rights reserved.
 
-PV 5572 AMP
+LOG5050-0001-PPI-20150225
 
-Instructions for Use HUMALOG® Mix50/50™ KwikPen™ 50% insulin lispro protamine suspension and 50% insulin lispro injection (rDNA origin)
+Instructions for Use HUMALOG® Mix50/50™ KwikPen® 50% insulin lispro protamine suspension and 50% insulin lispro injection (rDNA origin)
 
 Read the Instructions for Use before you start taking HUMALOG Mix50/50 and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-HUMALOG® Mix50/50™ KwikPen™ (“Pen”) is a disposable pen containing 3 mL (300 units) of U-100 HUMALOG® Mix50/50™ [50% insulin lispro protamine suspension and 50% insulin lispro injection (rDNA origin)] insulin.
-You can inject from 1 to 60 units in a single injection.
+Do not share your HUMALOG Mix50/50 KwikPen with other people, even if the needle has been changed.
+You may give other people a serious infection or get a serious infection from them.
 
-Do not share your HUMALOG Mix50/50 KwikPen or needles with anyone else.
-You may give an infection to them or get an infection from them.
+HUMALOG® Mix50/50™ KwikPen® (“Pen”) is a disposable pen containing 3 mL (300 units) of U-100 HUMALOG® Mix50/50™ [50% insulin lispro protamine suspension and 50% insulin lispro injection (rDNA origin)] insulin.
+You can inject from 1 to 60 units in a single injection.
 
 This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
 
@@ -206,6 +211,8 @@ Preparing HUMALOG Mix50/50 KwikPen:
   This is especially important if you use more than 1 type of insulin.
 - Do not use HUMALOG Mix50/50 past the expiration date printed on the Label.
 - Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+  Do not reuse or share your needles with other people.
+  You may give other people a serious infection or get a serious infection from them.
 
 | Step 1: Pull the Pen Cap straight off. Wipe the Rubber Seal with an alcohol swab. Do not twist the cap. Do not remove the KwikPen Label. |  |
 | --- | --- |
@@ -255,8 +262,8 @@ Giving your HUMALOG Mix50/50 injection:
 
 After your injection:
 
-- Put your used needles and pens in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose needles and pens in your household trash.
+- Put your used needles in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - - made of a heavy-duty plastic,
   - - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -264,8 +271,11 @@ After your injection:
   - - leak-resistant, and
   - - properly labeled to warn of hazardous waste inside the container.
 - When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and pens.
+  There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+- The used Pen may be discarded in your household trash after you have removed the needle.
 
 How should I store my HUMALOG Mix50/50 KwikPen?
 
@@ -280,6 +290,9 @@ How should I store my HUMALOG Mix50/50 KwikPen?
 General information about the safe and effective use of HUMALOG Mix50/50 KwikPen
 
 - Keep HUMALOG Mix50/50 KwikPen and needles out of the reach of children.
+- Always use a new needle for each injection.
+- Do not share your Pen or needles with other people.
+  You may give other people a serious infection or get a serious infection from them.
 - Do not use your Pen if any part looks broken or damaged.
 - Always carry an extra Pen in case yours is lost or damaged.
 - If you can not remove the Pen Cap, gently twist the Pen Cap back and forth, and then pull the Pen Cap straight off.
@@ -325,18 +338,18 @@ For more information on HUMALOG Mix50/50 KwikPen and insulin, go to www.humalog.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Humalog® Mix50/50™ and Humalog® Mix50/50™ KwikPen™ are trademarks of Eli Lilly and Company.
+Humalog® Mix50/50™ and Humalog® Mix50/50™ KwikPen® are trademarks of Eli Lilly and Company.
+
+Revised: February 25, 2015
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2007, 2013, Eli Lilly and Company.
+Copyright © 2007, 2015, Eli Lilly and Company.
 All rights reserved.
 
 | Humalog Mix50/50 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2000. |
 | --- |
 
-Revised: January 30, 2013
-
-PV 8972 AMP
+LOG5050KP-0001-IFU-20150225

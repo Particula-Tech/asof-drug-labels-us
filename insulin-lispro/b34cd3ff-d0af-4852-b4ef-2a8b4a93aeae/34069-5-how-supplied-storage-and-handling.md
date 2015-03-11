@@ -4,7 +4,11 @@ Humalog Mix50/50 [50% insulin lispro protamine suspension and 50% insulin lispro
 
 | 10 mL vials | NDC 0002-7512-01 (VL-7512) |
 | --- | --- |
-| 5 x 3 mL prefilled insulin delivery devices (KwikPen™) | NDC 0002-8798-59 (HP-8798) |
+| 5 x 3 mL prefilled insulin delivery devices (KwikPen®) | NDC 0002-8798-59 (HP-8798) |
+
+Each prefilled Humalog Mix50/50 KwikPen is for use by a single patient.
+Humalog Mix50/50 KwikPens must never be shared between patients, even if the needle is changed.
+Patients using Humalog Mix50/50 vials must never share needles or syringes with another person.
 
 Storage — Humalog Mix50/50 should be stored in a refrigerator [2° to 8°C (36° to 46°F)], but not in the freezer.
 Do not use Humalog Mix50/50 if it has been frozen.
@@ -18,13 +22,13 @@ See table below:
 | 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
 
-Literature revised November 14, 2013
+Literature revised February 25, 2015
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, 2013, Eli Lilly and Company.
+Copyright © 2007, 2015, Eli Lilly and Company.
 All rights reserved.
 
-PV 5544 AMP
+LOG5050-0001-USPI-20150225

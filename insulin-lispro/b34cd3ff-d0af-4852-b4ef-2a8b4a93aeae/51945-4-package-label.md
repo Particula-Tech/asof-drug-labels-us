@@ -1,10 +1,4 @@
-PACKAGE LABELING
-
-This section contains a representative sample of product package labeling.
-Product may be manufactured at multiple manufacturing sites.
-See the How Supplied section for a list of products and associated manufacturing sites.
-
-PACKAGE CARTON – HUMALOG Mix50/50 10 mL vial 1ct
+# PACKAGE CARTON – HUMALOG Mix50/50 10 mL vial
 
 NDC 0002-7512-01
 
@@ -36,17 +30,19 @@ www.humalog.com
 
 Lilly
 
-PACKAGE CARTON – HUMALOG Mix50/50 KwikPen 5ct
+# PACKAGE CARTON – HUMALOG Mix50/50 KwikPen
 
 NDC 0002-8798-59
 
 Humalog® Mix50/50™
 
+KwikPen®
+
 50% insulin lispro protamine suspension
 
 50% insulin lispro injection (rDNA origin)
 
-prefilled insulin delivery device
+For Single Patient Use Only
 
 HP-8798
 
@@ -61,6 +57,8 @@ Needles not included
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 
 For subcutaneous use only.
+
+prefilled insulin delivery device
 
 5 x 3 mL Prefilled Pens
 
