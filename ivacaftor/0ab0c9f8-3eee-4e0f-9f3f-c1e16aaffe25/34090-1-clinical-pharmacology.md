@@ -118,7 +118,7 @@ Potential for Other Drugs to Affect Ivacaftor
 
 In vitro studies showed that ivacaftor and metabolite M1 were substrates of CYP3A enzymes (i.e., CYP3A4 and CYP3A5).
 Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3) and Drug Interactions (7)].
-KALYDECO dosing recommendations for co-administration with CYP3A inhibitors or inducers are shown in Figure 2.
+KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 2.
 
 Figure 2: Impact of Other Drugs on KALYDECO
 

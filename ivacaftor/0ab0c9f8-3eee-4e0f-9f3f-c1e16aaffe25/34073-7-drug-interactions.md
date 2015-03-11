@@ -19,9 +19,14 @@ Therefore, food containing grapefruit or Seville oranges should be avoided durin
 Co-administration with rifampin, a strong CYP3A inducer, significantly decreased ivacaftor exposure (AUC) by approximately 9-fold.
 Therefore, co-administration with strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, carbamazepine, phenytoin, and St. John's Wort is not recommended [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
+## 7.3 Ciprofloxacin
+
+Co-administration of KALYDECO with ciprofloxacin had no effect on the exposure of ivacaftor.
+Therefore, no dose adjustment is necessary during concomitant administration of KALYDECO with ciprofloxacin [see Clinical Pharmacology (12.3)].
+
 Potential for ivacaftor to affect other drugs
 
-## 7.3 CYP3A and/or P-gp Substrates
+## 7.4 CYP3A and/or P-gp Substrates
 
 Ivacaftor and its M1 metabolite have the potential to inhibit CYP3A and P-gp.
 Co-administration with midazolam, a sensitive CYP3A substrate, increased midazolam exposure 1.5-fold, consistent with weak inhibition of CYP3A by ivacaftor.
