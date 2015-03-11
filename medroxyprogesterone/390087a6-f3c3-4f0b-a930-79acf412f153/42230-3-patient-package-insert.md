@@ -94,7 +94,7 @@ DO NOT TAKE depo-subQ provera 104 IF YOU…
 
 - Are pregnant or might be pregnant
 - Have any unexplained vaginal bleeding
-- Ever had breast cancer
+- Have, or have ever had breast cancer, or think you have breast cancer
 - Ever had serious blood clots, such as blood clots in your legs (deep venous thrombophlebitis), lungs (pulmonary embolism), heart (heart attack), or head (stroke)
 - Have liver disease
 - Are allergic to anything in depo-subQ provera 104.
@@ -114,6 +114,7 @@ Most important, tell your healthcare provider if you:
   After you stop getting depo-subQ provera 104, it takes time for your body to be able to get pregnant.
   It can be as early as 1 week after the last shot wears off.
   Most likely it will take up to 1 year or longer for you to get pregnant.
+- If you have, or have ever had breast cancer, or think you have breast cancer
 - Have breast cancer in your family
 - Have an abnormal mammogram (breast X-ray), lumps in your breast, or bleeding from your nipples
 - Have irregular, light, or heavy menstrual periods
@@ -173,9 +174,8 @@ WHAT ARE THE MOST SERIOUS RISKS OF depo-subQ provera 104?
 - Losing calcium from your bones. depo-subQ provera 104 use may decrease the amount of calcium in your bones.
   The longer you use depo-subQ provera 104, the more calcium you are likely to lose.
   This increases the risk of your bones weakening if you use depo-subQ provera 104 continuously for a long time (for example, if you use depo-subQ provera 104 for more than two years).
-  The loss of calcium may increase your risk of osteoporosis and broken bones, particularly after your menopause.
-  Calcium is generally added to the bones during teenage years.
-  The decrease of calcium in your bones is of most concern if you are a teenager or have the following risk factors: If you need a birth control method for more than two years, your healthcare provider may ask you to have a test of your bones or ask you to switch to another birth control method before continuing depo-subQ provera 104, especially if you have other risks for weak bones.
+  The loss of calcium may increase your risk of osteoporosis and broken bones, particularly after your menopause.Calcium is generally added to the bones during teenage years.
+  The decrease of calcium in your bones is of most concern if you are a teenager or have the following risk factors:If you need a birth control method for more than two years, your healthcare provider may ask you to have a test of your bones or ask you to switch to another birth control method before continuing depo-subQ provera 104, especially if you have other risks for weak bones.
   When depo-subQ provera 104 is stopped, the calcium in your bones begins to come back.
   The lost calcium may not return completely once you stop using depo-subQ provera 104.
   Your healthcare provider may tell you to take calcium and Vitamin D as this may lessen the loss of calcium from your bones.
@@ -227,8 +227,9 @@ If you feel you are having other side effects, talk with your healthcare provide
 
 DOES depo-subQ provera 104 CAUSE CANCER?
 
-- Birth control like depo-subQ provera 104 was studied in women for many years.
-  In general, the risk of breast cancer slightly increased or stayed about the same as in women not using birth control like depo-subQ provera 104.
+There have been several studies of women who use birth control like depo-subQ provera 104.
+
+- Women who use depo-subQ provera 104 may have a slightly increased risk of breast cancer compared to non-users.
 - The risk of cancer of the ovary, liver, or cervix did not change.
 - There is a decreased risk of cancer of the uterus (endometrial cancer).
 
@@ -253,3 +254,10 @@ Active ingredient: medroxyprogesterone acetate
 
 Inactive ingredients: methylparaben, propylparaben, sodium chloride, polyethylene glycol, polysorbate 80, monobasic sodium phosphate∙H2O, dibasic sodium phosphate∙12H2O, methionine, povidone, water for shot.
 When necessary, the pH is adjusted with sodium hydroxide or hydrochloric acid, or both.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+Rx only
+
+LAB-0298-6.0 January 2015

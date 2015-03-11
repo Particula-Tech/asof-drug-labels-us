@@ -6,7 +6,7 @@ Use of depo-subQ provera 104 reduces serum estrogen levels and is associated wit
 This loss of BMD is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
 It is unknown if use of depo-subQ provera 104 by younger women will reduce peak bone mass and increase the risk for osteoporotic fracture in later life.
 
-A study to assess the reversibility of loss of BMD in adolescents was conducted with Depo-Provera CI (150mg medroxyprogesterone acetate IM, DMPA).
+A study to assess the reversibility of loss of BMD in adolescents was conducted with Depo-Provera CI (150 mg medroxyprogesterone acetate IM, DMPA).
 After discontinuing Depo-Provera CI in adolescents, mean BMD loss at total hip and femoral neck did not fully recover by 60 months (240 weeks) post-treatment.
 Similarly, in adults, there was only partial recovery of mean BMD at total hip, femoral neck and lumbar spine towards baseline by 24 months post-treatment.
 
@@ -33,7 +33,7 @@ Mean Percent Change from Baseline in BMD in Women Using depo-subQ provera 104
 
 In another controlled clinical study, adult women using Depo-Provera CI (150 mg) for up to 5 years showed spine and hip BMD mean decreases of 5–6%, compared to no significant change in BMD in the control group.
 The decline in BMD was more pronounced during the first two years of use, with smaller declines in subsequent years.
-Mean changes in lumbar spine BMD of –2.86%, -4.11%, -4.89%, -4.93% and –5.38% after 1, 2, 3, 4 and 5 years,-respectively, were observed.
+Mean changes in lumbar spine BMD of –2.86%, -4.11%, -4.89%, -4.93% and –5.38% after 1, 2, 3, 4 and 5 years, respectively, were observed.
 Mean decreases in BMD of the total hip and femoral neck were similar.
 
 After stopping use of Depo-Provera CI (150 mg) there was partial recovery of BMD toward baseline values during the 2-year post-therapy period.
@@ -142,38 +142,46 @@ If abnormal bleeding is persistent or severe, appropriate investigation and trea
 In three contraception trials, 39.0 % of women experienced amenorrhea during month six, and 56.5% experienced amenorrhea during month 12.
 The changes in menstrual bleeding patterns from the three contraception trials are presented in Figures 3 and 4.
 
-| Figure 3. Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Contraception Studies (ITT Population, N=2053) |
-| --- |
-| N = Number of subjects in analysis for indicated month |
+Figure 3.
+Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Contraception Studies (ITT Population, N=2053)
 
-| Figure 4. Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Contraception Studies |
+| N = Number of subjects in analysis for indicated month |
 | --- |
+
+Figure 4.
+Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Contraception Studies
+
 | N = Number of subjects with bleeding and/or spotting during indicated month |
+| --- |
 
 The changes in menstrual patterns in the two endometriosis trials are presented in Figures 5 and 6.
 
-| Figure 5. Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Endometriosis Studies (Combined ITT Population, N=289) |
-| --- |
-| N = Number of subjects in analysis for indicated month |
+Figure 5.
+Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Endometriosis Studies (Combined ITT Population, N=289)
 
-| Figure 6. Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Endometriosis Studies Combined |
+| N = Number of subjects in analysis for indicated month |
 | --- |
+
+Figure 6.
+Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Endometriosis Studies Combined
+
 | N = Number of subjects with bleeding and/or spotting during indicated month |
+| --- |
 
 ## 3. Cancer Risks
 
-Long-term, case-controlled surveillance of users of depot medroxyprogesterone acetate IM 150 mg (Depo-Provera CI, 150 mg) found slight or no increased overall risk of breast cancer and no overall increased risk of ovarian, liver, or cervical cancer, and a prolonged, protective effect of reducing the risk of endometrial cancer.
+Women who have or have had breast cancer should not use hormonal contraceptives, including depo sub-Q provera 104, because breast cancer may be hormonally sensitive [see Contraindications].
+Women with a strong family history of breast cancer should be monitored with particular care.
 
-A pooled analysisii from two case-control studiesiii iv reported the relative risk (RR) of breast cancer for women who had ever used Depo-Provera CI (150 mg) as 1.1 (95% confidence interval [CI] 0.97 to 1.4).
-Overall, there was no increase in risk with increasing duration of use of Depo-Provera CI (150 mg).
-The RR of breast cancer for women of all ages who had initiated use of Depo-Provera CI (150 mg) within the previous 5 years was estimated to be 2.0 (95% CI 1.5 to 2.8).
-A component of the pooled analysisiii described above, showed an increased RR of 2.19 (95% CI 1.23 to 3.89) of breast cancer associated with use of Depo-Provera CI (150 mg) in women whose first exposure to drug was within the previous 4 years and who were under 35 years of age.
-However, the overall RR for ever-users of Depo-Provera CI (150 mg) was only 1.21 (95% CI 0.96 to 1.52).
+The results of five large case-control studies ii iii iv v vi assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 7.
+Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
+One recent US studyii evaluated the recency and duration of use and found a statistically significant increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous studyv.
 
-[NOTE: The value of 2.19 means that women whose first exposure to drug was within the previous 4 years and who were under 35 years of age had a 2.19-fold (95% CI 1.23 to 3.89-fold) increased risk of breast cancer relative to nonusers.
-The National Cancer Institutev reports an average annual incidence rate for breast cancer for US women, all races, age 30 to 34 years of 26.7 per 100,000.
-A RR of 2.19, thus, increases the possible risk from 26.7 to 58.5 cases per 100,000 women.
-The attributable risk, thus, is 31.8 per 100,000 women per year.]
+| Figure 7. Risk estimates of breast cancer in DMPA users |
+| --- |
+| Odds ratio estimates were adjusted for the following covariates: Lee et al. (1987): age, parity, and socioeconomic status. Paul et al. (1989): age, parity, ethnic group, and year of interview. WHO (1991): age, center, and age at first live birth. Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use. Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography. |
+
+Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US Standard Population) of breast cancer for US women, all races, age 20 to 49vii years a doubling of risk would increase the incidence of breast cancer in women who use Depo-Provera CI from about 72 to about 144 cases per 100,000 women.
 
 The relative rate of invasive squamous-cell cervical cancer in women who ever used Depo-Provera CI (150 mg) was estimated to be 1.11 (95% CI 0.96 to 1.29).
 No trends in risk with duration of use or times since initial or most recent exposure were observed.
@@ -205,7 +213,7 @@ It is good medical practice for all women to have annual history and physical ex
 The physical examination, however, may be deferred until after initiation of depo-subQ provera 104 if requested by the woman and judged appropriate by the clinician.
 The physical examination should include special reference to blood pressure, breasts, abdomen and pelvic organs, including cervical cytology and relevant laboratory tests.
 In case of undiagnosed, persistent or recurrent abnormal vaginal bleeding, appropriate measures should be conducted to rule out malignancy.
-Women with a strong family history of breast cancer or who have breast nodules should be monitored with particular care.
+Women with a strong family history of breast cancer should be monitored with particular care.
 
 ## 2. Fluid Retention
 
@@ -299,3 +307,7 @@ Other than concerns about loss of BMD, the safety and effectiveness are expected
 
 depo-subQ provera 104 is intended for use in women with childbearing potential.
 Studies with depo-subQ provera 104 in geriatric women have not been conducted.
+
+## INFORMATION FOR THE PATIENT
+
+See PATIENT LABELING.

@@ -65,7 +65,7 @@ The pharmacokinetics/pharmacodynamics of depo-subQ provera 104 were evaluated in
 
 Although total MPA exposure was lower in obese women, no dosage adjustment of depo-subQ provera 104 is necessary based on body weight.
 The effect of body weight on the pharmacokinetics of MPA following a single dose was assessed in a subset of women (n = 42, body mass index [BMI] ranged from 18.2 to 46.7 kg/m2).
-The AUC0–91 values for MPA were 71.6, 67.9, and 46.3 ng·day/mL in women with BMI categories of ≤ 28 kg/m2, >28–38 kg/m2, and >38 kg/m2, respectively.
+The AUC0–91 values for MPA were 71.6, 67.9, and 46.3 ng∙day/mL in women with BMI categories of ≤ 28 kg/m2, >28–38 kg/m2, and >38 kg/m2, respectively.
 The mean MPA Cmax was 1.74 ng/mL in women with BMI ≤ 28 kg/m2, 1.53 ng/mL in women with BMI >28–38 kg/m2, and 1.02 ng/mL in women with BMI > 38 kg/m2, respectively.
 The MPA trough (Cmin) concentrations had a tendency to be lower in women with BMI >38 kg/m2.
 
