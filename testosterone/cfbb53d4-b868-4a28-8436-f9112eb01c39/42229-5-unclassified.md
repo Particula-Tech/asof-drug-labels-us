@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0245-7.0
+LAB-0245-8.0
 
-June 2014
+February 2015

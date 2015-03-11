@@ -7,6 +7,8 @@ Oligospermia may occur at high dosages.
 
 Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne.
 
+Cardiovascular Disorders: myocardial infarction, stroke.
+
 Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
 
 Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS).
