@@ -9,5 +9,5 @@ In 1-month and 3-month repeat-dose toxicology studies in monkeys, there were no 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 In animal models, inhibition of PD-1 signaling increased the severity of some infections and enhanced inflammatory responses.
-M. tuberculosis-infected PD-1 knockout mice exhibit markedly decreased survival compared with wild-type controls, which correlated with increased bacterial proliferation and inflammatory responses in these animals.
+M. tuberculosis–infected PD-1 knockout mice exhibit markedly decreased survival compared with wild-type controls, which correlated with increased bacterial proliferation and inflammatory responses in these animals.
 PD-1 knockout mice have also shown decreased survival following infection with lymphocytic choriomeningitis virus.

@@ -8,7 +8,7 @@ This Medication Guide does not take the place of talking with your healthcare pr
 
 What is the most important information I should know about OPDIVO?
 
-OPDIVO is a medicine that may treat your melanoma by working with your immune system.
+OPDIVO is a medicine that may treat your melanoma or lung cancer by working with your immune system.
 OPDIVO can cause your immune system to attack normal organs and tissues in many areas of your body and can affect the way they work.
 These problems can sometimes become serious or life-threatening and can lead to death.
 These problems may happen anytime during treatment or even after your treatment has ended.
@@ -76,19 +76,23 @@ Your healthcare provider may treat you with corticosteroid medicines and delay o
 
 What is OPDIVO?
 
-OPDIVO is a prescription medicine used to treat a type of skin cancer called melanoma
+OPDIVO is a prescription medicine used to treat:
 
-OPDIVO may be used when your melanoma:
-
-- •has spread or cannot be removed by surgery (advanced melanoma)
-
-and,
-
-- •after you have tried a medicine called ipilimumab and it did not work or is no longer working
+- •a type of skin cancer called melanoma
+  - •OPDIVO may be used when your melanoma:
+  - •has spread or cannot be removed by surgery (advanced melanoma)
 
 and,
 
-- •if your tumor has an abnormal “BRAF” gene, and you have also tried a different medicine called a BRAF inhibitor, and it did not work or is no longer working.
+- 
+  - •after you have tried a medicine called ipilimumab and it did not work or is no longer working
+
+and,
+
+- 
+  - •if your tumor has an abnormal “BRAF” gene, and you have also tried a different medicine called a BRAF inhibitor, and it did not work or is no longer working.
+- •a type of advanced stage lung cancer (called squamous non-small cell lung cancer)
+  - •OPDIVO may be used when your cancer has spread or grown after treatment with platinum-based chemotherapy.
 
 It is not known if OPDIVO is safe and effective in children less than 18 years of age.
 
@@ -128,9 +132,19 @@ What are the possible side effects of OPDIVO?
 OPDIVO can cause serious side effects.
 See “What is the most important information I should know about OPDIVO?”
 
-The most common side effects of OPDIVO include:
+The most common side effects of OPDIVO in people with melanoma include:
 
-- •rash
+- •Rash
+
+The most common side effects of OPDIVO in people with squamous non-small cell lung cancer include:
+
+- •Feeling tired
+- •Shortness of breath
+- •Pain in muscles, bones, and joints
+- •Decreased appetite
+- •Cough
+- •Nausea
+- •Constipation
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -161,4 +175,4 @@ Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 U.S. License No. 1713
 
-1321663A0 Issued December 2014
+1321663A1 Revised March 2015

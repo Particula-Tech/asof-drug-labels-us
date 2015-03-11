@@ -11,7 +11,7 @@ The effects of OPDIVO are likely to be greater during the second and third trime
 There are no available human data informing the drug-associated risk.
 Advise pregnant women of the potential risk to a fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, the background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, the background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
 ### Data
 
@@ -46,6 +46,7 @@ The safety and effectiveness of OPDIVO have not been established in pediatric pa
 
 Clinical studies of OPDIVO did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 Of the 272 patients randomized to OPDIVO in Trial 1, 35% of patients were 65 years or older and 15% were 75 years or older.
+Of the 117 patients treated with OPDIVO in Trial 3, 50% of patients were 65 years or older and 14% were 75 years or older.
 
 ## 8.6 Renal Impairment
 

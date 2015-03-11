@@ -16,7 +16,7 @@ Withhold OPDIVO for any of the following:
 - •Creatinine greater than 1.5 and up to 6 times ULN or greater than 1.5 times baseline [see Warnings and Precautions (5.4)]
 - •Any other severe or Grade 3 treatment-related adverse reactions [see Warnings and Precautions (5.6)]
 
-Resume OPDIVO in patients whose adverse reactions recover to Grade 0-1.
+Resume OPDIVO in patients whose adverse reactions recover to Grade 0 to 1.
 
 Permanently discontinue OPDIVO for any of the following:
 
@@ -27,7 +27,7 @@ Permanently discontinue OPDIVO for any of the following:
 - •Creatinine greater than 6 times ULN [see Warnings and Precautions (5.4)]
 - •Any severe or Grade 3 treatment-related adverse reaction that recurs
 - •Inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks
-- •Persistent Grade 2 or 3 treatment-related adverse reactions that do not recover to Grade 0-1 within 12 weeks after last dose of OPDIVO
+- •Persistent Grade 2 or 3 treatment-related adverse reactions that do not recover to Grade 1 or resolve within 12 weeks after last dose of OPDIVO
 
 ## 2.3 Preparation and Administration
 
