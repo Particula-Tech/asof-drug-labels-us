@@ -14,7 +14,7 @@ Studies in normal volunteers and patients with diabetes demonstrated that HUMALO
 
 The time course of action of insulin and insulin analogs, such as HUMALOG, may vary considerably in different individuals or within the same individual.
 The parameters of HUMALOG activity (time of onset, peak time, and duration) as designated in Figure 1 should be considered only as general guidelines.
-The rate of insulin absorption, and consequently the onset of activity are known to be affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.1)].
+The rate of insulin absorption, and consequently the onset of activity are known to be affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.2)].
 
 a Baseline insulin concentration was maintained by infusion of 0.2 mU/min/kg human insulin.
 
@@ -77,7 +77,7 @@ However, in large clinical trials, sub-group analysis based on gender did not in
 Renal Impairment — Type 2 diabetic patients with varying degree of renal impairment showed no difference in pharmacokinetics of regular insulin and HUMALOG.
 However, the sensitivity of the patients to insulin did change, with an increased response to insulin as the renal function declined.
 Some studies with human insulin have shown increased circulating levels of insulin in patients with renal impairment.
-Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with renal dysfunction [see Warnings and Precautions (5.5)].
+Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with renal dysfunction [see Warnings and Precautions (5.6)].
 
 Hepatic Impairment — Type 2 diabetic patients with impaired hepatic function showed no effect on the pharmacokinetics of HUMALOG as compared to patients with no hepatic dysfunction.
 However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure.

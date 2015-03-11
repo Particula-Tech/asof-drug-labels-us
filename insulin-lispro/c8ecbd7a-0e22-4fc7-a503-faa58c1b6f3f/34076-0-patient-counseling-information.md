@@ -2,7 +2,13 @@
 
 See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Instructions for All Patients
+## 17.1 Never Share a Humalog KwikPen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges, or Syringe Between Patients
+
+Advise patients that they must never share a Humalog KwikPen, cartridge, or reusable pen compatible with Lilly 3 mL cartridges1 with another person, even if the needle is changed.
+Advise patients using Humalog vials not to share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
+
+## 17.2 Instructions for All Patients
 
 Patients should be instructed on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia.
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
@@ -13,7 +19,7 @@ Women with diabetes should be advised to inform their doctor if they are pregnan
 Accidental mix-ups between HUMALOG and other insulins have been reported.
 To avoid medication errors between HUMALOG and other insulins, patients should be instructed to always check the insulin label before each injection.
 
-## 17.2 For Patients Using Continuous Subcutaneous Insulin Pumps
+## 17.3 For Patients Using Continuous Subcutaneous Insulin Pumps
 
 Patients using external pump infusion therapy should be trained appropriately.
 
@@ -39,18 +45,29 @@ Prompt identification and correction of the cause of hyperglycemia or ketosis is
 Problems include pump malfunction, infusion set occlusion, leakage, disconnection or kinking, and degraded insulin.
 Less commonly, hypoglycemia from pump malfunction may occur.
 If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their healthcare professionals.
-[See Dosage and Administration (2.3), Warnings and Precautions (5.7), and How Supplied/Storage and Handling (16)].
+[See Dosage and Administration (2.3), Warnings and Precautions (5.8), and How Supplied/Storage and Handling (16)].
 
 ____________
 
-1 3 mL cartridge is for use in Eli Lilly and Company's HumaPen® Memoir™ and HumaPen® Luxura™ HD insulin delivery devices, Owen Mumford, Ltd.'s Autopen® 3-mL insulin delivery device and Disetronic D-TRON® and D-TRON® Plus pumps.
+1 3 mL cartridge is for use in Eli Lilly and Company's HumaPen® Memoir™ and HumaPen® Luxura® HD insulin delivery devices, Owen Mumford, Ltd.'s Autopen® 3-mL insulin delivery device and Disetronic D-TRON® and D-TRON® Plus pumps.
 
 Autopen® is a registered trademark of Owen Mumford, Ltd.
 
-Humalog®, Humalog® KwikPen™, HumaPen®, HumaPen® Memoir™, HumaPen® Luxura™ and HumaPen® Luxura™ HD are trademarks of Eli Lilly and Company.
+Humalog®, Humalog KwikPen®, HumaPen®, HumaPen® Memoir™, HumaPen® Luxura® and HumaPen® Luxura® HD are trademarks of Eli Lilly and Company.
 
 2 Disetronic®, H-Tron®, D-Tron®, and D-Tronplus® are registered trademarks of Roche Diagnostics GmbH.
 
 3 MiniMed® and Polyfin® are registered trademarks of MiniMed, Inc.
 
 Other product and company names may be the trademarks of their respective owners.
+
+Literature revised February 25, 2015
+
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
+
+www.humalog.com
+
+Copyright © 1996, 2015, Eli Lilly and Company.
+All rights reserved.
+
+LOG-0001-USPI-20150225

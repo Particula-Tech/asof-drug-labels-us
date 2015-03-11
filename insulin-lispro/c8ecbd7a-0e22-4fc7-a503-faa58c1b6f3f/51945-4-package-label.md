@@ -1,4 +1,4 @@
-PACKAGE CARTON – HUMALOG 10 mL vial 1ct
+# PACKAGE CARTON – HUMALOG 10 mL vial
 
 NDC 0002-7510-01
 
@@ -18,19 +18,19 @@ Rx only
 
 U-100
 
-www.humalog.com
+humalog.com
 
 Lilly
 
-PACKAGE CARTON – HUMALOG KwikPen 5ct
+# PACKAGE CARTON – HUMALOG KwikPen
 
 NDC 0002-8799-59
 
-Humalog® KwikPen™
+Humalog KwikPen®
 
 insulin lispro injection, USP (rDNA origin)
 
-prefilled insulin delivery device
+For Single Patient Use Only
 
 HP-8799
 
@@ -44,11 +44,13 @@ Needles not included
 
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 
+prefilled insulin delivery device
+
 5 x 3 mL Prefilled Pens
 
 Read Insulin Delivery Device Instructions for Use
 
-PACKAGE CARTON – HUMALOG Cartridge 5 x 3 mL
+# PACKAGE CARTON – HUMALOG Cartridge 3mL
 
 NDC 0002-7516-59
 
@@ -61,6 +63,8 @@ VL-7516
 Humalog®
 
 insulin lispro injection, USP (rDNA origin)
+
+For Single Patient Use Only
 
 Rx only
 

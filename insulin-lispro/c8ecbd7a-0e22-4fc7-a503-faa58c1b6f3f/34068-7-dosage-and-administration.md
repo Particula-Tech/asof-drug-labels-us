@@ -30,9 +30,9 @@ Change the HUMALOG in the reservoir at least every 7 days, change the infusion s
 
 The initial programming of the external insulin infusion pump should be based on the total daily insulin dose of the previous regimen.
 Although there is significant variability among patients, approximately 50% of the total dose is usually given as meal-related boluses of HUMALOG and the remainder is given as a basal infusion.
-HUMALOG is recommended for use in pump systems suitable for insulin infusion such as MiniMed, Disetronic, and other equivalent pumps [see For Patients Using Continuous Subcutaneous Insulin Pumps (17.2)].
+HUMALOG is recommended for use in pump systems suitable for insulin infusion such as MiniMed, Disetronic, and other equivalent pumps [see For Patients Using Continuous Subcutaneous Insulin Pumps (17.3)].
 
 ## 2.4 Intravenous Administration
 
-HUMALOG can be administered intravenously under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.4), How Supplied/Storage and Handling (16.4)].
+HUMALOG can be administered intravenously under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.5), How Supplied/Storage and Handling (16.4)].
 HUMALOG should be used at concentrations from 0.1 unit/mL to 1.0 unit/mL in infusion systems containing 0.9% sodium chloride.

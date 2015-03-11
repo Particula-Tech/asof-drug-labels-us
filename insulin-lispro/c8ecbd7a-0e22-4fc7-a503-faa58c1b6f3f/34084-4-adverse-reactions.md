@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed elsewhere:
 
-- Hypoglycemia [see Warnings and Precautions (5.2)].
-- Hypokalemia [see Warnings and Precautions (5.4)].
+- Hypoglycemia [see Warnings and Precautions (5.3)].
+- Hypokalemia [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -105,4 +105,4 @@ There was no statistically significant relationship between the change in the to
 The following additional adverse reactions have been identified during post-approval use of HUMALOG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Medication errors in which other insulins have been accidentally substituted for HUMALOG have been identified during postapproval use [see Patient Counseling Information (17)].
+Medication errors in which other insulins have been accidentally substituted for HUMALOG have been identified during postapproval use [see Patient Counseling Information (17.2)].

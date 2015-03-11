@@ -10,6 +10,10 @@ HUMALOG 100 units per mL (U-100) is available as:
 | 5 x 3 mL cartridges1 | NDC 0002-7516-59 (VL-7516) |
 | 5 x 3 mL Humalog KwikPen (prefilled) | NDC 0002-8799-59 (HP-8799) |
 
+Each prefilled KwikPen, cartridge, and reusable pen compatible with Lilly 3 mL cartridges1 is for use by a single patient.
+Humalog KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges1 must never be shared between patients, even if the needle is changed.
+Patients using Humalog vials must never share needles or syringes with another person.
+
 ## 16.2 Storage and Handling
 
 Do not use after the expiration date.
