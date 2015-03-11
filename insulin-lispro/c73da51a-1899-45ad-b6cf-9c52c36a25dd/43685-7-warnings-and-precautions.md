@@ -1,5 +1,9 @@
 # WARNINGS
 
+Humalog® Mix75/25™ KwikPens® must never be shared between patients, even if the needle is changed.
+Patients using Humalog Mix75/25 vials must never share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
+
 Humalog differs from Regular human insulin by its rapid onset of action as well as a shorter duration of activity.
 Therefore, the dose of Humalog Mix75/25 should be given within 15 minutes before a meal.
 
