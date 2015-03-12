@@ -2,7 +2,7 @@
 
 - Patients should be informed that oxybutynin may produce angioedema that could result in life threatening airway obstruction.
   Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience swelling of the tongue, edema of the laryngopharynx, or difficulty breathing.
-- Patients should be informed that anticholinergic (antimuscarinic) agents such as DITROPAN XL®, may produce clinically significant adverse reactions related to anticholinergic activity including:
+- Patients should be informed that anticholinergic (antimuscarinic) agents such as DITROPAN XL®, may produce clinically significant adverse reactions related to anticholinergic activity such as:
   - Urinary retention and constipation
   - Heat prostration due to decreased sweating.
     Heat prostration can occur when anticholinergic medicines are administered in the presence of high environmental temperature.

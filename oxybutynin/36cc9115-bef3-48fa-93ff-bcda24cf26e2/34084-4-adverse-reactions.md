@@ -4,13 +4,13 @@
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety and efficacy of DITROPAN XL (5 to 30 mg/day) was evaluated in 774 adult subjects who participated in five double-blind, controlled clinical trials.
+The safety and efficacy of DITROPAN XL® (5 to 30 mg/day) was evaluated in 774 adult subjects who participated in five double-blind, controlled clinical trials.
 In four of the five studies, Ditropan IR (5 to 20 mg/day in 199 subjects) was an active comparator.
 Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
-Table 1: Adverse Drug Reactions Reported by ≥ 1% of DITROPAN XL-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of DITROPAN XL
+Table 1: Adverse Drug Reactions Reported by ≥ 1% of DITROPAN XL®-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of DITROPAN XL®
 
-| System/Organ Class Preferred Term | DITROPAN XL 5 to 30 mg/day n = 774 % | Ditropan IRIR = immediate release 5 to 20 mg/day n = 199 % |
+| System/Organ Class Preferred Term | DITROPAN XL® 5 to 30 mg/day n = 774 % | Ditropan IRIR = immediate release 5 to 20 mg/day n = 199 % |
 | --- | --- | --- |
 | Psychiatric Disorders |  |  |
 | Insomnia | 3.0 | 5.5 |
@@ -49,7 +49,7 @@ Table 1: Adverse Drug Reactions Reported by ≥ 1% of DITROPAN XL-treated Adult 
 | Investigations |  |  |
 | Residual urine volumeThe bundled term residual urine volume consists of the preferred terms residual urine volume and residual urine volume increased. | 2.3 | 3.5 |
 
-The discontinuation rate due to adverse reactions was 4.4% with DITROPAN XL compared to 0% with Ditropan IR.
+The discontinuation rate due to adverse reactions was 4.4% with DITROPAN XL® compared to 0% with Ditropan IR.
 The most frequent adverse reaction causing discontinuation of study medication was dry mouth (0.7%).
 
 The following adverse reactions were reported by <1% of DITROPAN XL®-treated patients and at a higher incidence than placebo in clinical trials: Metabolism and Nutrition Disorders: anorexia, fluid retention; Vascular disorders: hot flush; Respiratory, thoracic and mediastinal disorders: dysphonia; Gastrointestinal Disorders: dysphagia, frequent bowel movements; General disorders and administration site conditions: chest discomfort, thirst.

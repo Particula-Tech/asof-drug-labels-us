@@ -4,6 +4,7 @@ The concomitant use of oxybutynin with other anticholinergic drugs or with other
 
 Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 This may be of concern for drugs with a narrow therapeutic index.
+Anticholinergic agents may also antagonize the effects of prokinetic agents, such as metoclopramide.
 
 Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when DITROPAN XL® was administered with ketoconazole, a potent CYP3A4 inhibitor.
 Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC).

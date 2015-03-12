@@ -12,20 +12,26 @@ If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should b
 Oxybutynin is associated with anticholinergic central nervous system (CNS) effects [see Adverse Reactions (6)].
 A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence.
 Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose.
-Advise patients not to drive or operate heavy machinery until they know how DITROPAN XL affects them.
+Advise patients not to drive or operate heavy machinery until they know how DITROPAN XL® affects them.
 If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
 
 DITROPAN XL® should be used with caution in patients with preexisting dementia treated with cholinesterase inhibitors due to the risk of aggravation of symptoms.
 
+DITROPAN XL® should be used with caution in patients with Parkinson's disease due to the risk of aggravation of symptoms.
+
 ## 5.3 Worsening of Symptoms of Myasthenia Gravis
 
-DITROPAN XL® should be used with caution in patients with myasthenia gravis due to the risk of symptom aggravation.
+DITROPAN XL® should be used with caution in patients with myasthenia gravis due to the risk of aggravation of symptoms.
 
-## 5.4 Urinary Retention
+## 5.4 Worsening of Symptoms of Decreased Gastrointestinal Motility in Patients with Autonomic Neuropathy
+
+DITROPAN XL® should be used with caution in patients with autonomic neuropathy due to the risk of aggravation of symptoms of decreased gastrointestinal motility.
+
+## 5.5 Urinary Retention
 
 DITROPAN XL® should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention [see Contraindications (4)].
 
-## 5.5 Gastrointestinal Adverse Reactions
+## 5.6 Gastrointestinal Adverse Reactions
 
 DITROPAN XL® should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention [see Contraindications (4)].
 
