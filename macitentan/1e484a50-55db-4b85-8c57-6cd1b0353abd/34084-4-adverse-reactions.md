@@ -26,3 +26,12 @@ Table 2 Adverse Reactions
 | Headache | 14 | 9 |
 | Influenza | 6 | 2 |
 | Urinary tract infection | 9 | 6 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of OPSUMIT.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
+
+Respiratory, thoracic and mediastinal disorders: nasal congestion
