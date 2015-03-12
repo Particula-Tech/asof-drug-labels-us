@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206229"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "52544-035-54"
+  ],
+  "products": [
+    {
+      "form": "INTRAUTERINE DEVICE",
+      "generic": "levonorgestrel",
+      "name": "LILETTA"
+    }
+  ],
+  "setid": "e32358c2-86c6-40b6-b41f-5d38d50cc723",
+  "source": "dailymed"
+}
