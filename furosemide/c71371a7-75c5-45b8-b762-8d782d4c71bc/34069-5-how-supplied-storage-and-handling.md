@@ -15,8 +15,8 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15˚ to 30˚C (5
 
 Protect from light.
 
-Manfactured For: Claris Lifesciences, Inc. North Brunswick, NJ 08902 By: Claris Lifesciences Ltd., Gujarat, India.
+Manfactured For: Claris Lifesciences, Inc. North Brunswick, NJ 08902 By: Claris Injectables Ltd., Gujarat, India.
 
-Issue date: 04/2014
+Issue date: 12/2014
 
-140000449
+1400004802
