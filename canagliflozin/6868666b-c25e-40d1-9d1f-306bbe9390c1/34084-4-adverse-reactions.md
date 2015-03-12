@@ -138,11 +138,13 @@ Genital Mycotic Infections
 
 In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 3.2%, 10.4%, and 11.4% of females treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on canagliflozin.
-Female patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents [see Warnings and Precautions (5.7)].
+Female patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents.
+In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and canagliflozin, respectively [see Warnings and Precautions (5.7)].
 
 In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.6%, 4.2%, and 3.7% of males treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
 Male patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrent infections (22% on canagliflozin versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
+In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and canagliflozin, respectively.
 In the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with canagliflozin and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.7)].
 
 Hypoglycemia
@@ -169,7 +171,7 @@ Table 4: Incidence of HypoglycemiaNumber of patients experiencing at least one e
 | In Combination with Insulin (18 weeks) | Placebo (N=565) | Canagliflozin 100 mg (N=566) | Canagliflozin 300 mg (N=587) |
 | Overall [N (%)] | 208 (36.8) | 279 (49.3) | 285 (48.6) |
 | Severe [N (%)] | 14 (2.5) | 10 (1.8) | 16 (2.7) |
-| In Combination with Insulin and Metformin (18 weeks) Subgroup of patients (N=279) from insulin substudy on canagliflozin in combination with metformin and insulin (with or without other antiglycemic agents) | Placebo (N=145) | Canagliflozin 100 mg (N=139) | Canagliflozin 300 mg (N=148) |
+| In Combination with Insulin and Metformin (18 weeks) Subgroup of patients (N=287) from insulin substudy on canagliflozin in combination with metformin and insulin (with or without other antiglycemic agents) | Placebo (N=145) | Canagliflozin 100 mg (N=139) | Canagliflozin 300 mg (N=148) |
 | Overall [N (%)] | 66 (45.5) | 58 (41.7) | 70 (47.3) |
 | Severe [N (%)] | 4 (2.8) | 1 (0.7) | 3 (2.0) |
 
@@ -183,7 +185,7 @@ Laboratory Tests
 
 Increases in Serum Potassium
 
-In pooled data from four placebo-controlled trials with canagliflozin, the mean change in serum potassium levels was 0.5% and 1.0% with canagliflozin 100 mg and canagliflozin 300 mg, respectively, compared to 0.6% with placebo.
+In pooled data from four placebo-controlled trials with canagliflozin, the mean percent change in serum potassium levels was 0.5% and 1.0% with canagliflozin 100 mg and canagliflozin 300 mg, respectively, compared to 0.6% with placebo.
 Episodes of elevated serum potassium (greater than 5.4 mEq/L and 15% above baseline) were seen in 4.4% of patients treated with canagliflozin 100 mg, 7.0% of patients treated with canagliflozin 300 mg, and 4.8% of patients treated with placebo.
 Dose-related, transient mean increases in serum potassium were observed early after initiation of canagliflozin (i.e., within 3 weeks) in a trial of patients with moderate renal impairment.
 In this trial, increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
@@ -193,7 +195,7 @@ In patients with moderate renal impairment, increases in potassium were more com
 Increases in Serum Magnesium
 
 Dose-related increases in serum magnesium were observed early after initiation of canagliflozin (within 6 weeks) and remained elevated throughout treatment.
-In the pool of four placebo-controlled trials, the mean change in serum magnesium levels was 8.1% and 9.3% with canagliflozin 100 mg and canagliflozin 300 mg, respectively, compared to -0.6% with placebo.
+In the pool of four placebo-controlled trials, the mean percent change in serum magnesium levels was 8.1% and 9.3% with canagliflozin 100 mg and canagliflozin 300 mg, respectively, compared to -0.6% with placebo.
 In a trial of patients with moderate renal impairment, serum magnesium levels increased by 0.2%, 9.2%, and 14.8% with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 
 Increases in Serum Phosphate

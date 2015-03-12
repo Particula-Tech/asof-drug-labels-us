@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-INVOKAMET™ (IN VOK' A MET)
+INVOKAMET® (IN VOK' A MET)
 
 (canagliflozin and metformin hydrochloride)
 
@@ -95,7 +95,7 @@ Especially tell your doctor if you take:
 - diuretics (water pills)
 - rifampin (used to treat or prevent tuberculosis)
 - phenytoin or phenobarbital (used to control seizures)
-- ritonavir (Norvir®, Kaletra®, Lopinavir®)The brands listed are trademarks of their respective owners and are not trademarks of Janssen Pharmaceuticals, Inc. (used to treat HIV infection)
+- ritonavir (Norvir®, Kaletra®)The brands listed are trademarks of their respective owners and are not trademarks of Janssen Pharmaceuticals, Inc. (used to treat HIV infection)
 - digoxin (Lanoxin®) (used to treat heart problems)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure if your medicine is listed above.
@@ -241,6 +241,6 @@ Manufactured by: Janssen Ortho, LLC Gurabo, PR 00778
 
 Licensed from Mitsubishi Tanabe Pharma Corporation
 
-Date of approval: August 2014
+Date of approval: March 2015
 
 © 2014 Janssen Pharmaceuticals, Inc.

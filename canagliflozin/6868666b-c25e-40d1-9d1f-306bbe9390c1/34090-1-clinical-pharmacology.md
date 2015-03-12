@@ -10,7 +10,7 @@ Canagliflozin
 
 Sodium-glucose co-transporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Canagliflozin is an inhibitor of SGLT2.
-By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases urinary glucose excretion.
+By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases urinary glucose excretion (UGE).
 
 Metformin
 
@@ -26,6 +26,7 @@ Canagliflozin
 Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in RTG and increases in urinary glucose excretion were observed.
 From a starting RTG value of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
 Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 studies.
+The reductions in RTG led to increases in mean UGE of approximately 100 g/day in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
 The 24-h mean RTG at steady state was similar following once daily and twice daily dosing regimens at the same total daily dose of 100 mg or 300 mg.
 In patients with type 2 diabetes given 100 to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.
 In this study, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
@@ -241,7 +242,7 @@ Metformin
 
 Table 7: Effect of Co−Administered Drugs on Plasma Metformin Systemic Exposures
 
-| AUCAUC = AUC (0–∞) | Cmax |  |  |  |
+| AUCAUC = AUC0–∞ | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Metformin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.00 |  |
 | No dose adjustments required for the following: |  |  |  |  |
