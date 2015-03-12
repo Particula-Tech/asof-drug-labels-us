@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205488"
+  ],
+  "inn": "testosterone",
+  "labeler": "Endo Pharmaceuticals",
+  "package_ndcs": [
+    "63481-239-01"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "testosterone",
+      "name": "Natesto"
+    }
+  ],
+  "setid": "b0343bcc-7320-4bf2-bcb3-d95b6f4ba5fe",
+  "source": "dailymed"
+}
