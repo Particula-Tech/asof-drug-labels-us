@@ -4,13 +4,14 @@
 
 Sodium-glucose co-transporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Canagliflozin is an inhibitor of SGLT2.
-By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases urinary glucose excretion.
+By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases urinary glucose excretion (UGE).
 
 ## 12.2 Pharmacodynamics
 
-Following single and multiple oral doses of canagliflozin to patients with type 2 diabetes, dose-dependent decreases in the renal threshold for glucose (RTG) and increases in urinary glucose excretion were observed.
-From a starting value of RTG of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
+Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in the renal threshold for glucose (RTG) and increases in urinary glucose excretion were observed.
+From a starting RTG value of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
 Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 studies.
+The reductions in RTG led to increases in mean UGE of approximately 100 g/day in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
 In patients with type 2 diabetes given 100 mg to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.
 In this study, plasma glucose declined in a dose-dependent fashion within the first day of dosing.
 In single-dose studies in healthy and type 2 diabetic subjects, treatment with canagliflozin 300 mg before a mixed-meal delayed intestinal glucose absorption and reduced postprandial glucose.
@@ -80,9 +81,9 @@ Relative to subjects with normal hepatic function, the geometric mean ratios for
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment [see Use in Specific Populations (8.7)].
 
-Pharmacokinetics Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
+Pharmacokinetic Effects of Age, Body Mass Index (BMI)/Weight, Gender and Race
 
-Based on the population PK analysis with data collected from 1526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
+Based on the population PK analysis with data collected from 1526 subjects, age, body mass index (BMI)/weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of canagliflozin [see Use in Specific Populations (8.5)].
 
 Pediatric
 

@@ -45,7 +45,7 @@ Abdominal pain was also more commonly reported in patients taking INVOKANA 100 m
 
 Pool of Placebo- and Active-Controlled Trials
 
-The occurrence of adverse reactions was also evaluated in a larger pool of patients participating in placebo- and active-controlled trials.
+The occurrence of adverse reactions for canagliflozin was evaluated in a larger pool of patients participating in placebo- and active-controlled trials.
 
 The data combined eight clinical trials [see Clinical Studies (14)] and reflect exposure of 6177 patients to INVOKANA.
 The mean duration of exposure to INVOKANA was 38 weeks with 1832 individuals exposed to INVOKANA for greater than 50 weeks.
@@ -115,11 +115,11 @@ In the pool of four placebo-controlled trials where patients had normal or mildl
 At the end of treatment, 0.5% with placebo, 0.7% with INVOKANA 100 mg, and 1.4% with INVOKANA 300 mg had a significant renal function decline.
 
 In a trial carried out in patients with moderate renal impairment with a baseline eGFR of 30 to less than 50 mL/min/1.73 m2 (mean baseline eGFR 39 mL/min/1.73 m2) [see Clinical Studies (14.3)], the proportion of patients who experienced at least one event of significant renal function decline, defined as an eGFR 30% lower than baseline, was 6.9% with placebo, 18% with INVOKANA 100 mg, and 22.5% with INVOKANA 300 mg.
-At the end of treatment, 4.6% with placebo, 3.4% with INVOKANA 100 mg, and 3.4% with INVOKANA 300 mg had a significant renal function decline.
+At the end of treatment, 4.6% with placebo, 3.4% with INVOKANA 100 mg, and 2.2% with INVOKANA 300 mg had a significant renal function decline.
 
 In a pooled population of patients with moderate renal impairment (N=1085) with baseline eGFR of 30 to less than 60 mL/min/1.73 m2 (mean baseline eGFR 48 mL/min/1.73 m2), the overall incidence of these events was lower than in the dedicated trial but a dose-dependent increase in incident episodes of significant renal function decline compared to placebo was still observed.
 
-Use of INVOKANA was associated with an increased incidence of renal-related adverse reactions (e.g., increased blood creatinine, decreased glomerular filtration rate, renal impairment, and acute renal failure), particularly in patients with moderate renal impairment.
+Use of INVOKANA has been associated with an increased incidence of renal-related adverse reactions (e.g., increased blood creatinine, decreased glomerular filtration rate, renal impairment, and acute renal failure), particularly in patients with moderate renal impairment.
 
 In the pooled analysis of patients with moderate renal impairment, the incidence of renal-related adverse reactions was 3.7% with placebo, 8.9% with INVOKANA 100 mg, and 9.3% with INVOKANA 300 mg.
 Discontinuations due to renal-related adverse events occurred in 1.0% with placebo, 1.2% with INVOKANA 100 mg, and 1.6% with INVOKANA 300 mg [see Warnings and Precautions (5.2)].
@@ -128,11 +128,13 @@ Genital Mycotic Infections
 
 In the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 3.2%, 10.4%, and 11.4% of females treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on INVOKANA.
-Female patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents [see Warnings and Precautions (5.5)].
+Female patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents.
+In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and INVOKANA, respectively [see Warnings and Precautions (5.5)].
 
 In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.6%, 4.2%, and 3.7% of males treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
 Male patients who developed genital mycotic infections on INVOKANA were more likely to experience recurrent infections (22% on INVOKANA versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
+In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and INVOKANA, respectively.
 In the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with INVOKANA and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.5)].
 
 Hypoglycemia
@@ -178,13 +180,13 @@ In patients with moderate renal impairment, increases in potassium were more com
 Increases in Serum Magnesium
 
 Dose-related increases in serum magnesium were observed early after initiation of INVOKANA (within 6 weeks) and remained elevated throughout treatment.
-In the pool of four placebo-controlled trials, the mean change in serum magnesium levels was 8.1% and 9.3% with INVOKANA 100 mg and INVOKANA 300 mg, respectively, compared to -0.6% with placebo.
+In the pool of four placebo-controlled trials, the mean percent change in serum magnesium levels was 8.1% and 9.3% with INVOKANA 100 mg and INVOKANA 300 mg, respectively, compared to -0.6% with placebo.
 In a trial of patients with moderate renal impairment [see Clinical Studies (14.3)], serum magnesium levels increased by 0.2%, 9.2%, and 14.8% with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 
 Increases in Serum Phosphate
 
 Dose-related increases in serum phosphate levels were observed with INVOKANA.
-In the pool of four placebo controlled trials, the mean change in serum phosphate levels were 3.6% and 5.1% with INVOKANA 100 mg and INVOKANA 300 mg, respectively, compared to 1.5% with placebo.
+In the pool of four placebo controlled trials, the mean percent change in serum phosphate levels were 3.6% and 5.1% with INVOKANA 100 mg and INVOKANA 300 mg, respectively, compared to 1.5% with placebo.
 In a trial of patients with moderate renal impairment [see Clinical Studies (14.3)], the mean serum phosphate levels increased by 1.2%, 5.0%, and 9.3% with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 
 Increases in Low-Density Lipoprotein Cholesterol (LDL-C) and non-High-Density Lipoprotein Cholesterol (non-HDL-C)

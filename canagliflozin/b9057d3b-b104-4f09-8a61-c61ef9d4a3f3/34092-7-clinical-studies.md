@@ -245,7 +245,7 @@ Table 14: Results from 18–Week Placebo-Controlled Clinical Study of INVOKANA i
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 97.7 | 96.9 | 96.7 |
 | % change from baseline (adjusted mean) | 0.1 | -1.8 | -2.3 |
-| Difference from placebo (adjusted mean) (97.5% CI) |  | -1.9 (-2.2; -1.5) | -2.4 (-2.8; -2.0) |
+| Difference from placebo (adjusted mean) (97.5% CI) |  | -1.9 (-2.2; -1.6) | -2.4 (-2.7; -2.1) |
 
 ## 14.3 Studies in Special Populations
 

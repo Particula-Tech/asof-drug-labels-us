@@ -30,7 +30,7 @@ Safety and effectiveness of INVOKANA in pediatric patients under 18 years of age
 
 Two thousand thirty-four (2034) patients 65 years and older, and 345 patients 75 years and older were exposed to INVOKANA in nine clinical studies of INVOKANA [see Clinical Studies (14.3)].
 
-Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with INVOKANA (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
+Patients 65 years and older had a higher incidence of adverse reactions related to reduced intravascular volume with INVOKANA (such as hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration), particularly with the 300 mg daily dose, compared to younger patients; a more prominent increase in the incidence was seen in patients who were 75 years and older [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
 Smaller reductions in HbA1C with INVOKANA relative to placebo were seen in older (65 years and older; -0.61% with INVOKANA 100 mg and -0.74% with INVOKANA 300 mg relative to placebo) compared to younger patients (-0.72% with INVOKANA 100 mg and -0.87% with INVOKANA 300 mg relative to placebo).
 
 ## 8.6 Renal Impairment

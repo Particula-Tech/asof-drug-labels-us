@@ -12,7 +12,7 @@ INVOKANA can cause important side effects, including:
   You may be at higher risk of dehydration if you:
   - have low blood pressure
   - take medicines to lower your blood pressure, including diuretics (water pill)
-  - are on low sodium (salt) diet
+  - are on a low sodium (salt) diet
   - have kidney problems
   - are 65 years of age or older
 - Vaginal yeast infection.
@@ -78,7 +78,7 @@ Especially tell your doctor if you take:
 - diuretics (water pills)
 - rifampin (used to treat or prevent tuberculosis)
 - phenytoin or phenobarbital (used to control seizures)
-- ritonavir (Norvir®, Kaletra®, Lopinavir ®)The brands listed are trademarks of their respective owners and are not trademarks of Janssen Pharmaceuticals, Inc. (used to treat HIV infection)
+- ritonavir (Norvir®, Kaletra®)The brands listed are trademarks of their respective owners and are not trademarks of Janssen Pharmaceuticals, Inc. (used to treat HIV infection)
 - digoxin (Lanoxin®) (used to treat heart problems)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure if your medicine is listed above.
@@ -120,7 +120,7 @@ See "What is the most important information I should know about INVOKANA?"
 - low blood sugar (hypoglycemia).
   If you take INVOKANA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take INVOKANA.
-  Signs and symptoms of low blood sugar may include: headachedrowsinessweaknessdizzinessconfusion irritabilityhungerfast heart-beatsweatingshaking or feeling jittery
+  Signs and symptoms of low blood sugar may include: headachedrowsinessweaknessdizzinessconfusion irritabilityhungerfast heartbeatsweatingshaking or feeling jittery
 - serious allergic reaction.
   If you have any symptoms of a serious allergic reaction, stop taking INVOKANA and call your doctor right away or go to the nearest hospital emergency room.
   See "Who should not take INVOKANA?".
@@ -176,6 +176,6 @@ Manufactured by: Janssen Ortho, LLC Gurabo, PR 00778
 
 Licensed from Mitsubishi Tanabe Pharma Corporation
 
-Date of approval: March 2013
+Date of approval: March 2015
 
 © 2013 Janssen Pharmaceuticals, Inc.
