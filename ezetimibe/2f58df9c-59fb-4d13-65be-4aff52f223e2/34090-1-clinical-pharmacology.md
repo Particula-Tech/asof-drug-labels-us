@@ -34,7 +34,7 @@ The independent effect of raising HDL-C or lowering TG on the risk of coronary a
 
 ## 12.3 Pharmacokinetics
 
-The results of a bioequivalence study in healthy subjects demonstrated that the VYTORIN (ezetimibe/simvastatin) 10 mg/10 mg to 10 mg/80 mg combination tablets are bioequivalent to coadministration of corresponding doses of ezetimibe (ZETIA®) and simvastatin (ZOCOR®) as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that the VYTORIN (ezetimibe and simvastatin) 10 mg/10 mg to 10 mg/80 mg combination tablets are bioequivalent to coadministration of corresponding doses of ezetimibe (ZETIA®) and simvastatin (ZOCOR®) as individual tablets.
 
 Absorption
 

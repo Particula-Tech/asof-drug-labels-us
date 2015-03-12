@@ -11,7 +11,7 @@ VYTORIN
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-In the VYTORIN (ezetimibe/simvastatin) placebo-controlled clinical trials database of 1420 patients (age range 20-83 years, 52% women, 87% Caucasians, 3% Blacks, 5% Hispanics, 3% Asians) with a median treatment duration of 27 weeks, 5% of patients on VYTORIN and 2.2% of patients on placebo discontinued due to adverse reactions.
+In the VYTORIN (ezetimibe and simvastatin) placebo-controlled clinical trials database of 1420 patients (age range 20-83 years, 52% women, 87% Caucasians, 3% Blacks, 5% Hispanics, 3% Asians) with a median treatment duration of 27 weeks, 5% of patients on VYTORIN and 2.2% of patients on placebo discontinued due to adverse reactions.
 
 The most common adverse reactions in the group treated with VYTORIN that led to treatment discontinuation and occurred at a rate greater than placebo were:
 

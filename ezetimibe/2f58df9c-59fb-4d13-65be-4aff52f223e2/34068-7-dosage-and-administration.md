@@ -5,7 +5,7 @@
 The usual dosage range is 10/10 mg/day to 10/40 mg/day.
 The recommended usual starting dose is 10/10 mg/day or 10/20 mg/day.
 VYTORIN should be taken as a single daily dose in the evening, with or without food.
-Patients who require a larger reduction in LDL-C (greater than 55%) may be started at 10/40 mg/day in the absence of moderate to severe renal impairment (estimated glomerular filtration rate <60 mL/min/1.73 m2).
+Patients who require a larger reduction in LDL-C (greater than 55%) may be started at 10/40 mg/day in the absence of moderate to severe renal impairment (estimated glomerular filtration rate less than 60 mL/min/1.73 m2).
 After initiation or titration of VYTORIN, lipid levels may be analyzed after 2 or more weeks and dosage adjusted, if needed.
 
 ## 2.2 Restricted Dosing for 10/80 mg

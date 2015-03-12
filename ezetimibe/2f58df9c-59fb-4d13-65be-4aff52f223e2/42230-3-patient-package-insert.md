@@ -1,4 +1,4 @@
-Patient Information VYTORIN® (VI-tor-in) (ezetimibe/simvastatin) Tablets
+Patient Information VYTORIN® (VI-tor-in) (ezetimibe and simvastatin) Tablets
 
 Read this Patient Information carefully before you start taking VYTORIN® and each time you get a refill.
 There may be new information.
