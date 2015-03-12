@@ -1,6 +1,12 @@
 # 5. WARNINGS AND PRECAUTIONS
 
-## 5.1 Dosage adjustment and monitoring
+## 5.1 Never share a LANTUS SoloStar pen or syringe or needle between patients
+
+LANTUS SoloStar pens must never be shared between patients, even if the needle is changed.
+Patients using LANTUS vials must never reuse or share needles or syringes with another person.
+Sharing poses a risk for transmission of blood-borne pathogens.
+
+## 5.2 Dosage adjustment and monitoring
 
 Glucose monitoring is essential for all patients receiving insulin therapy.
 Changes to an insulin regimen should be made cautiously and only under medical supervision.
@@ -9,12 +15,12 @@ Changes in insulin strength, manufacturer, type, or method of administration may
 
 As with all insulin preparations, the time course of action for LANTUS may vary in different individuals or at different times in the same individual and is dependent on many conditions, including the local blood supply, local temperature, and physical activity.
 
-## 5.2 Administration
+## 5.3 Administration
 
 Do not administer LANTUS intravenously or via an insulin pump.
 The intended duration of activity of LANTUS is dependent on injection into subcutaneous tissue
 
-Intravenous administration of the usual subcutaneous dose could result in severe hypoglycemia [see Warnings and Precautions (5.3)].
+Intravenous administration of the usual subcutaneous dose could result in severe hypoglycemia [see Warnings and Precautions (5.4)].
 
 Do not dilute or mix LANTUS with any other insulin or solution.
 If LANTUS is diluted or mixed, the solution may become cloudy, and the pharmacokinetic or pharmacodynamic profile (e.g., onset of action, time to peak effect) of LANTUS and the mixed insulin may be altered in an unpredictable manner.
@@ -22,9 +28,7 @@ When LANTUS and regular human insulin were mixed immediately before injection in
 The total bioavailability of the mixture was also slightly decreased compared to separate injections of LANTUS and regular human insulin.
 The relevance of these observations in dogs to humans is unknown.
 
-Do not share disposable or reusable insulin devices or needles between patients, because doing so carries a risk for transmission of blood-borne pathogens.
-
-## 5.3 Hypoglycemia
+## 5.4 Hypoglycemia
 
 Hypoglycemia is the most common adverse reaction of insulin, including LANTUS.
 The risk of hypoglycemia increases with intensive glycemic control.
@@ -45,29 +49,29 @@ This may present a risk in situations where these abilities are especially impor
 Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as longstanding diabetes, diabetic neuropathy, use of medications such as beta-blockers, or intensified glycemic control.
 These situations may result in severe hypoglycemia (and, possibly, loss of consciousness) prior to the patient's awareness of hypoglycemia.
 
-## 5.4 Hypersensitivity and allergic reactions
+## 5.5 Hypersensitivity and allergic reactions
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including LANTUS.
 
-## 5.5 Renal impairment
+## 5.6 Renal impairment
 
 Due to its long duration of action, Lantus is not recommended during periods of rapidly declining renal function because of the risk for prolonged hypoglycemia.
 
 Although studies have not been performed in patients with diabetes and renal impairment, a reduction in the LANTUS dose may be required in patients with renal impairment because of reduced insulin metabolism, similar to observations found with other insulins.
 [See Clinical Pharmacology (12.3)].
 
-## 5.6 Hepatic impairment
+## 5.7 Hepatic impairment
 
 Due to its long duration of action, Lantus is not recommended during periods of rapidly declining hepatic function because of the risk for prolonged hypoglycemia.
 
 Although studies have not been performed in patients with diabetes and hepatic impairment, a reduction in the LANTUS dose may be required in patients with hepatic impairment because of reduced capacity for gluconeogenesis and reduced insulin metabolism, similar to observations found with other insulins.
 [See Clinical Pharmacology (12.3)].
 
-## 5.7 Drug interactions
+## 5.8 Drug interactions
 
 Some medications may alter insulin requirements and subsequently increase the risk for hypoglycemia or hyperglycemia [See Drug Interactions (7)].
 
-## 5.8 Fluid retention and heart failure with concomitant use of PPAR-gamma agonists
+## 5.9 Fluid retention and heart failure with concomitant use of PPAR-gamma agonists
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.

@@ -20,6 +20,8 @@ If you have questions about LANTUS or about diabetes, talk with your healthcare 
 
 What is the most important information I should know about LANTUS?
 
+- Do not share your syringes with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
 - Do not change the insulin you are using without talking to your healthcare provider.
   Any change of insulin should be made cautiously and only under medical supervision.
   Changes in insulin strength, manufacturer, type (for example: Regular, NPH, analogs), species (beef, pork, beef-pork, human) or method of manufacture (recombinant DNA versus animal source insulin) may need a change in the dose.
@@ -74,7 +76,7 @@ Before starting LANTUS, tell your healthcare provider about all your medical con
 - about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 - if you take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
 - if you have heart failure or other heart problems.
-  If you have heart failure, it may get worse while you take TZDs with Lantus.
+  If you have heart failure, it may get worse while you take TZDs with LANTUS.
 
 How should I use LANTUS?
 
@@ -96,8 +98,11 @@ What kind of syringe should I use?
 
 - Always use a syringe that is marked for U-100 insulin.
   If you use other than U-100 insulin syringe, you may get the wrong dose of insulin causing serious problems for you, such as a blood sugar level that is too low or too high.
-  Always use a new needle and syringe each time you give LANTUS injection.
-- NEEDLES AND SYRINGES MUST NOT BE SHARED.
+- Do not reuse or share your syringes with other people.
+  Always use a new syringe each time you give LANTUS injection.
+  You may give other people a serious infection, or get a serious infection from them.
+- Do not reuse needles.
+  Always use a new needle each time you give LANTUS injection.
 - Disposable syringes and needles should be used only once.
   Used syringe and needle should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
   Such containers should be sealed and disposed of properly.
@@ -112,6 +117,8 @@ Instructions for Use
 How do I draw the insulin into the syringe?
 
 - The syringe must be new and does not contain any other medicine.
+  Do not reuse or share your syringes with other people.
+  You may give other people a serious infection, or get a serious infection from them.
 - Do not mix LANTUS with any other type of insulin.
 
 Follow these steps:
@@ -126,7 +133,9 @@ Follow these steps:
 5. Use a new needle and syringe every time you give an injection.
    Use disposable syringes and needles only once.
    Throw them away properly.
-   Never share needles and syringes.
+   Do not reuse or share your syringes with other people.
+   You may give other people a serious infection, or get a serious infection from them.
+   Do not reuse needles
 6. Draw air into the syringe equal to your insulin dose.
    Put the needle through the rubber top of the vial and push the plunger to inject the air into the vial.
 7. Leave the syringe in the vial and turn both upside down.
@@ -349,17 +358,17 @@ Swelling of your hands and feet (edema)
 Weight gain
 
 Heart Failure.
-Taking certain diabetes pills called thiazolidinediones or "TZDs" with Lantus may cause heart failure in some people.
+Taking certain diabetes pills called thiazolidinediones or "TZDs" with LANTUS may cause heart failure in some people.
 This can happen even if you have never had heart failure or heart problems before.
-If you already have heart failure it may get worse while you take TZDs with Lantus.
-Your healthcare provider should monitor you closely while you are taking TZDs with Lantus.
+If you already have heart failure it may get worse while you take TZDs with LANTUS.
+Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS.
 Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
 
 - shortness of breath
 - swelling of your ankles or feet
 - sudden weight gain
 
-During treatment with TZDs and Lantus, the TZD dose may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+During treatment with TZDs and LANTUS, the TZD dose may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 Tell your healthcare provider if you have any side effects that bother you.
 
@@ -403,8 +412,8 @@ To get more information about diabetes, check with your healthcare professional 
 Additional information about LANTUS can be obtained by calling 1-800-633-1610 or by visiting www.lantus.com.
 
 Rev.
-October 2013
+February 2015
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2013 sanofi-aventis U.S. LLC
+©2015sanofi-aventis U.S. LLC

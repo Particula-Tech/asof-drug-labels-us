@@ -37,4 +37,4 @@ The only difference in safety or effectiveness in the subpopulation of patients 
 
 Nevertheless, caution should be exercised when LANTUS is administered to geriatric patients.
 In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemic reactions.
-Hypoglycemia may be difficult to recognize in the elderly [See Warnings and Precautions (5.3)].
+Hypoglycemia may be difficult to recognize in the elderly [See Warnings and Precautions (5.4)].

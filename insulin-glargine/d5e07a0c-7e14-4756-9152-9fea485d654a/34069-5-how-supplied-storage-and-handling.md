@@ -45,7 +45,7 @@ These storage conditions are summarized in the following table:
 Parenteral drug products should be inspected visually prior to administration whenever the solution and the container permit.
 LANTUS must only be used if the solution is clear and colorless with no particles visible.
 
-Mixing and diluting: LANTUS must NOT be diluted or mixed with any other insulin or solution [See Warnings and Precautions (5.2)].
+Mixing and diluting: LANTUS must NOT be diluted or mixed with any other insulin or solution [See Warnings and Precautions (5.3)].
 
 Vial: The syringes must not contain any other medicinal product or residue.
 

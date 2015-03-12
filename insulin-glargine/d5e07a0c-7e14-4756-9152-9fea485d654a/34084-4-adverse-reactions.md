@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed elsewhere:
 
-- Hypoglycemia [See Warnings and Precautions (5.3)]
-- Hypersensitivity and allergic reactions [See Warnings and Precautions (5.4)]
+- Hypoglycemia [See Warnings and Precautions (5.4)]
+- Hypersensitivity and allergic reactions [See Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical trial experience
 

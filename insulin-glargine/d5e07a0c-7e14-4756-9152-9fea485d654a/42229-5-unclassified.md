@@ -4,7 +4,7 @@ Bridgewater, NJ 08807
 
 A SANOFI COMPANY
 
-©2013 sanofi-aventis U.S. LLC
+©2015 sanofi-aventis U.S. LLC
 
 Patient Information LANTUS® SOLOSTAR® 3 mL disposable insulin delivery device (300 units per device) 100 units per mL (U-100) (insulin glargine [recombinant DNA origin] injection)
 
@@ -25,6 +25,8 @@ If you have questions about LANTUS or about diabetes, talk with your healthcare 
 
 What is the most important information I should know about LANTUS?
 
+- Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
 - Do not change the insulin you are using without talking to your healthcare provider.
   Any change of insulin should be made cautiously and only under medical supervision.
   Changes in insulin strength, manufacturer, type (for example: Regular, NPH, analogs), species (beef, pork, beef-pork, human) or method of manufacture (recombinant DNA versus animal-source insulin) may need a change in the dose.
@@ -78,7 +80,7 @@ Check with your healthcare provider if you are not sure.
   - are taking any other medicines including prescription and non-prescription medicines, vitamins and herbal supplements.
   - if you take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
   - if you have heart failure or other heart problems.
-    If you have heart failure, it may get worse while you take TZDs with Lantus.
+    If you have heart failure, it may get worse while you take TZDs with LANTUS.
 
 How should I use LANTUS?
 
@@ -95,8 +97,10 @@ See the "Instructions for SoloStar Use" section for additional information.
 - Inject LANTUS under your skin (subcutaneously) in your upper arm, abdomen (stomach area), or thigh (upper leg).
   Never inject it into a vein or muscle.
 - Change (rotate) injection sites within the same body area.
-- NEEDLES AND SOLOSTAR MUST NOT BE SHARED.
-- Disposable needles should be used only once.
+- Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
+- Do not reuse needles.
+  Disposable needles should be used only once.
   Used needle should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
   Such containers should be sealed and disposed of properly.
 
@@ -111,7 +115,7 @@ It is important to read, understand, and follow the step-by-step instructions in
 Failure to follow the instructions may result in getting too much or too little insulin.
 If you have lost your leaflet or have a question, go to www.lantus.com or call 1-800-633-1610.
 
-The following general notes should be taken into consideration before injecting Lantus:
+The following general notes should be taken into consideration before injecting LANTUS:
 
 - Always wash your hands before handling the SoloStar disposable insulin Pen.
 - Always attach a new needle before use.
@@ -318,17 +322,17 @@ Swelling of your hands and feet (edema)
 Weight gain
 
 Heart Failure.
-Taking certain diabetes pills called thiazolidinediones or "TZDs" with Lantus may cause heart failure in some people.
+Taking certain diabetes pills called thiazolidinediones or "TZDs" with LANTUS may cause heart failure in some people.
 This can happen even if you have never had heart failure or heart problems before.
-If you already have heart failure it may get worse while you take TZDs with Lantus.
-Your healthcare provider should monitor you closely while you are taking TZDs with Lantus.
+If you already have heart failure it may get worse while you take TZDs with LANTUS.
+Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS.
 Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
 
 - shortness of breath
 - swelling of your ankles or feet
 - sudden weight gain
 
-During treatment with TZDs and Lantus, the TZD dose may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+During treatment with TZDs and LANTUS, the TZD dose may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 Tell your healthcare provider if you have any side effects that bother you.
 
@@ -378,11 +382,11 @@ To get more information about diabetes, check with your healthcare professional 
 Additional information about LANTUS can be obtained by calling 1-800-633-1610 or by visiting www.lantus.com.
 
 Rev.
-December 2013
+February 2015
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2013 sanofi-aventis U.S. LLC
+©2015sanofi-aventis U.S. LLC
 
 Lantus® and SoloStar® are a registered trademark of sanofi-aventis U.S. LLC †The brands listed are the trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC
 
@@ -395,6 +399,9 @@ Talk with your healthcare professional about proper injection technique before u
 
 Read these instructions carefully before using your SoloStar.
 If you are not able to follow all the instructions completely on your own, use SoloStar only if you have help from a person who is able to follow the instructions.
+
+Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
 
 Follow these instructions completely each time you use SoloStar to ensure that you get an accurate dose.
 If you do not follow these instructions you may get too much or too little insulin, which may affect your blood glucose.
@@ -411,14 +418,15 @@ If you have any questions about SoloStar or about diabetes, ask your healthcare 
 
 Important information for use of SoloStar:
 
-- Always attach a new needle before each use.
+- Do not share your Lantus SoloStar pen with other people, even if the needle has been changed.
+  You may give other people a serious infection, or get a serious infection from them.
+- Do not reuse needles.
+  Always attach a new needle before each use.
   BD Ultra-Fine® needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC are compatible with SoloStar.
   These are sold separately and are manufactured by BD.
   Contact your healthcare professional for further information.
 - Always perform the safety test before each injection.
 - Do not select a dose or press the injection button without a needle attached.
-- This pen is only for your use.
-  Do not share it with anyone else.
 - If your injection is given by another person, special caution must be taken by this person to avoid accidental needle injury and transmission of infection.
 - Never use SoloStar if it is damaged or if you are not sure that it is working properly.
 - Always have a spare SoloStar in case your SoloStar is lost or damaged.
@@ -436,6 +444,7 @@ Check the insulin
 Step 2.
 Attach the needle
 
+Do not reuse needles.
 Always use a new sterile needle for each injection.
 This helps prevent contamination, and potential needle blocks.
 
@@ -556,6 +565,6 @@ SoloStar in use must not be stored in a refrigerator.
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Date of revision: November 2013
+Date of revision: February 2015
 
-©2013 sanofi-aventis U.S. LLC
+©2015 sanofi-aventis U.S. LLC

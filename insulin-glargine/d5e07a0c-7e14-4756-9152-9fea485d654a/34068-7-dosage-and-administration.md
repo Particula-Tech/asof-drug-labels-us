@@ -10,7 +10,7 @@ LANTUS should be administered subcutaneously once a day at the same time every d
 The dose of LANTUS must be individualized based on clinical response.
 Blood glucose monitoring is essential in all patients receiving insulin therapy.
 
-Patients adjusting the amount or timing of dosing with LANTUS, should only do so under medical supervision with appropriate glucose monitoring [see Warnings and Precautions (5.1).]
+Patients adjusting the amount or timing of dosing with LANTUS, should only do so under medical supervision with appropriate glucose monitoring [see Warnings and Precautions (5.2).]
 
 In patients with type 1 diabetes, LANTUS must be used in regimens with short-acting insulin.
 
@@ -39,4 +39,4 @@ If changing from a treatment regimen with an intermediate-or long-acting insulin
 
 - If transferring patients from once-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is the same as the dose of NPH that is being discontinued.
 - If transferring patients from twice-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is 80% of the total NPH dose that is being discontinued.
-  This dose reduction will lower the likelihood of hypoglycemia [see Warnings and Precautions (5.3)].
+  This dose reduction will lower the likelihood of hypoglycemia [see Warnings and Precautions (5.4)].

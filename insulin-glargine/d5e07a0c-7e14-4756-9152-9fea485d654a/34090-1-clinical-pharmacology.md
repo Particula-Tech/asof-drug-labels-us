@@ -58,9 +58,9 @@ In controlled clinical trials, which included patients with Body Mass Index (BMI
 Renal Impairment.
 The effect of renal impairment on the pharmacokinetics of LANTUS has not been studied.
 However, some studies with human insulin have shown increased circulating levels of insulin in patients with renal failure.
-Careful glucose monitoring and dose adjustments of insulin, including LANTUS, may be necessary in patients with renal impairment [See Warnings and Precautions (5.5)].
+Careful glucose monitoring and dose adjustments of insulin, including LANTUS, may be necessary in patients with renal impairment [See Warnings and Precautions (5.6)].
 
 Hepatic Impairment.
 The effect of hepatic impairment on the pharmacokinetics of LANTUS has not been studied.
 However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure.
-Careful glucose monitoring and dose adjustments of insulin, including LANTUS, may be necessary in patients with hepatic impairment [See Warnings and Precautions (5.6)].
+Careful glucose monitoring and dose adjustments of insulin, including LANTUS, may be necessary in patients with hepatic impairment [See Warnings and Precautions (5.7)].

@@ -1,6 +1,12 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-## 17.1 Instructions for patients
+## 17.1 Never share a LANTUS SoloStar pen or syringe or needle between patients
+
+Advise patients that they must never share a LANTUS SoloStar pen with another person, even if the needle is changed.
+Advise patients using LANTUS vials not to reuse or share needles or syringes with another person.
+Sharing carries a risk for transmission of blood-borne pathogens.
+
+## 17.2 Instructions for patients
 
 Patients should be informed that changes to insulin regimens must be made cautiously and only under medical supervision.
 
@@ -15,8 +21,6 @@ To avoid medication errors between LANTUS and other insulins, patients should be
 LANTUS must only be used if the solution is clear and colorless with no particles visible.
 Patients must be advised that LANTUS must NOT be diluted or mixed with any other insulin or solution.
 
-Patients should be advised not to share disposable or reusable insulin devices or needles with other patients, because doing so carries a risk for transmission of blood-borne pathogens.
-
 Patients should be instructed on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia.
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
 
@@ -24,6 +28,6 @@ Patients with diabetes should be advised to inform their health care professiona
 
 Refer patients to the LANTUS "Patient Information" for additional information.
 
-## 17.2 FDA approved patient labeling
+## 17.3 FDA approved patient labeling
 
 See attached document at end of Full Prescribing Information.
