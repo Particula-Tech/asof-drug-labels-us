@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020126"
+  ],
+  "inn": "doxepin",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-715-30",
+    "40076-715-45",
+    "40076-715-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "Zonalon"
+    }
+  ],
+  "setid": "ea3b314f-473f-45cb-bab2-8a89ef632030",
+  "source": "dailymed"
+}
