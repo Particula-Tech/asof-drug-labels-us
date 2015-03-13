@@ -1,9 +1,9 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
 
-1.5 mg-30's count
+Rivastigmine tartrate capsules USP, 1.5 mg - Container label
 
-3 mg-30's count
+Rivastigmine tartrate capsules USP, 3 mg - Container label
 
-4.5 mg-30's count
+Rivastigmine tartrate capsules USP, 4.5 mg - Container label
 
-6mg-30's count
+Rivastigmine tartrate capsules USP, 6 mg - Container label
