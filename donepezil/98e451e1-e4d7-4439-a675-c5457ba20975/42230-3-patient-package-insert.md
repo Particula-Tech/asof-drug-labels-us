@@ -169,4 +169,4 @@ Distributed and Marketed by Eisai Inc., Woodcliff Lake, NJ 07677 Marketed by Pfi
 
 Rx Only
 
-© 2013 Eisai Inc.
+© 2015 Eisai Inc.

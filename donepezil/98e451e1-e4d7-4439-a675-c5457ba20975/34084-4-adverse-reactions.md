@@ -296,4 +296,4 @@ Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alz
 
 ## 6.2 Postmarketing Experience
 
-Voluntary reports of adverse events temporally associated with ARICEPT that have been received since market introduction that are not listed above, and for which there are inadequate data to determine the causal relationship with the drug include the following: abdominal pain, agitation, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, and rash.
+Voluntary reports of adverse events temporally associated with ARICEPT that have been received since market introduction that are not listed above, and for which there are inadequate data to determine the causal relationship with the drug include the following: abdominal pain, agitation, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, rash, rhabdomyolysis, QTc prolongation and torsade de pointes, Stevens Johnson Syndrome and toxic epidermal necrolysis.
