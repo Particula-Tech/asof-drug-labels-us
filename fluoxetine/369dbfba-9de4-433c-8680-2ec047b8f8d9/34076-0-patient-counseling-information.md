@@ -92,11 +92,11 @@ However due to Eli Lilly and Company’s marketing exclusivity rights, this drug
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-Manufactured In Canada By:
+Manufactured In Czech Republic By:
 
-TEVA CANADA LIMITED
+TEVA Czech Industries, s.r.o.
 
-Toronto, Canada M1B 2K9
+Opava-Komarov, Czech Republic
 
 Manufactured For:
 

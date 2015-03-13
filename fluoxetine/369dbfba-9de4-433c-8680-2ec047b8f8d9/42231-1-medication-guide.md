@@ -286,11 +286,11 @@ The imprinting ink contains ammonium hydroxide, iron oxide black, propylene glyc
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-Manufactured In Canada By:
+Manufactured In Czech Republic By:
 
-TEVA CANADA LIMITED
+TEVA Czech Industries, s.r.o.
 
-Toronto, Canada M1B 2K9
+Opava-Komarov, Czech Republic
 
 Manufactured For:
 
