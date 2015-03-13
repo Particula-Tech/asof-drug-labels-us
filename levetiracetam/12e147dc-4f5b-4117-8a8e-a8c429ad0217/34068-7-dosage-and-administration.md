@@ -1,0 +1,26 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Dosage Information
+
+ELEPSIA XR is administered once daily.
+
+Treatment should be initiated with a dose of 1,000 mg once daily.
+The once daily dosage may be adjusted in increments of 1,000 mg every 2 weeks to a maximum recommended once daily dose of 3,000 mg.
+
+ELEPSIA XR should be taken whole; do not split or cut tablets.
+
+## 2.2 Dosage in Patients with Renal Impairment
+
+ELEPSIA XR is not recommended for patients with moderate or severe renal impairment.
+Recommended doses and adjustment for patients with mild renal impairment are shown in Table 1.
+In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
+To do this, an estimate of the patient’s creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
+
+Then CLcr is adjusted for body surface area (BSA) as follows:
+
+Table 1: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
+
+| Group | Creatinine Clearance (mL/min/1.73m2) | Dosage (mg) | Frequency |
+| --- | --- | --- | --- |
+| Normal | greater than 80 | 1,000 to 3,000 | Every 24 hours |
+| Mild | 50 to 80 | 1,000 to 2,000 | Every 24 hours |

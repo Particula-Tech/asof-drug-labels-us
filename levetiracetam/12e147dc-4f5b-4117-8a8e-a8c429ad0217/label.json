@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA204417"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Sun Pharma Advanced Research Company Limited",
+  "package_ndcs": [
+    "47133-574-13",
+    "47133-574-83",
+    "47133-574-88",
+    "47133-575-13",
+    "47133-575-83",
+    "47133-575-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "levetiracetam",
+      "name": "Elepsia XR"
+    }
+  ],
+  "setid": "12e147dc-4f5b-4117-8a8e-a8c429ad0217",
+  "source": "dailymed"
+}
