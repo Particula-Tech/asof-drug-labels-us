@@ -10,7 +10,7 @@ In the clinical trials, blood counts were monitored every week initially.
 Hematologic nadirs were observed predominantly in the third week of therapy.
 Myelosuppression may require dose delays and/or subsequent dose reductions if recovery to the recommended values has not occurred by the first day of the next scheduled cycle.
 Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 109/L and the platelet count should be ≥ 75 x 109/L.
-[See Dosage and Administration (2.1) and (2.2)]
+[see Dosage and Administration (2.2) and (2.3)]
 
 ## 5.2 Infections
 
@@ -66,4 +66,4 @@ Assure good venous access prior to starting TREANDA infusion and monitor the int
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine in mice and rats administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
-[See Use in Specific Populations (8.1)]
+[see Use in Specific Populations (8.1)]

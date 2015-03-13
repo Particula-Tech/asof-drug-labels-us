@@ -3,14 +3,21 @@
     "NDA022249"
   ],
   "inn": "bendamustine",
-  "labeler": "Cephalon, Inc.",
+  "labeler": "Cephalon, Incorporated",
   "package_ndcs": [
     "63459-390-08",
-    "63459-391-20"
+    "63459-391-20",
+    "63459-395-02",
+    "63459-396-02"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "TREANDA"
+    },
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "bendamustine hydrochloride",
       "name": "TREANDA"
     }

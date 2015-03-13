@@ -2,13 +2,13 @@
 
 The following serious adverse reactions have been associated with TREANDA in clinical trials and are discussed in greater detail in other sections of the label.
 
-- Myelosuppression [See Warnings and Precautions (5.1)]
-- Infections [See Warnings and Precautions (5.2)]
-- Anaphylaxis and Infusion Reactions and Anaphylaxis [See Warnings and Precautions (5.3)]
-- Tumor Lysis Syndrome [See Warnings and Precautions (5.4)]
-- Skin Reactions [See Warnings and Precautions (5.5)]
-- Other Malignancies [See Warnings and Precautions (5.6)]
-- Extravasation injury [SeeWarnings and Precautions (5.7)]
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Infections [see Warnings and Precautions (5.2)]
+- •Anaphylaxis and Infusion Reactions [see Warnings and Precautions (5.3)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+- •Skin Reactions [see Warnings and Precautions (5.5)]
+- •Other Malignancies [see Warnings and Precautions (5.6)]
+- •Extravasation injury [see Warnings and Precautions (5.7)]
 
 The data described below reflect exposure to TREANDA in 329 patients who participated in an actively-controlled trial (N=153) for the treatment of CLL and two single-arm trials (N=176) for the treatment of indolent B-cell NHL.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -101,7 +101,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | --- | --- | --- |
 | Preferred term | All Grades | Grade 3/4 |
 | Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
-| Cardiac Disorders |  |  |
+| Cardiac disorders |  |  |
 | Tachycardia | 13 (7) | 0 |
 | Gastrointestinal disorders |  |  |
 | Nausea | 132 (75) | 7 (4) |
@@ -150,7 +150,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Headache | 36 (21) | 0 |
 | Dizziness | 25 (14) | 0 |
 | Dysgeusia | 13 (7) | 0 |
-| Psychiatric disorder |  |  |
+| Psychiatric disorders |  |  |
 | Insomnia | 23 (13) | 0 |
 | Anxiety | 14 (8) | 1 (<1) |
 | Depression | 10 (6) | 0 |
@@ -175,9 +175,9 @@ Clinically important chemistry laboratory values that were new or worsened from 
 
 Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received TREANDA in the NHL Studies
 
-|  | Percent of Patients |  |
+|  | Percent of patients |  |
 | --- | --- | --- |
-| Hematology variable | All Grades | Grade 3/4 |
+| Hematology variable | All Grades | Grades 3/4 |
 | Lymphocytes Decreased | 99 | 94 |
 | Leukocytes Decreased | 94 | 56 |
 | Hemoglobin Decreased | 88 | 11 |
@@ -197,4 +197,4 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling; pneumocystis jiroveci pneumonia and pneumonitis.
 
 Skin reactions including SJS and TEN have occurred when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
-[See Warnings and Precautions (5.5)]
+[see Warnings and Precautions (5.5)]

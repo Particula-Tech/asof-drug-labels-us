@@ -51,7 +51,7 @@ Bendamustine did not induce metabolism of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9
 Elimination
 
 Mean recovery of total radioactivity in cancer patients following IV infusion of [14C] bendamustine hydrochloride was approximately 76% of the dose.
-Approximately 50% the dose was recovered in the urine and approximately a 25% of the dose was recovered in the feces.
+Approximately 50% of the dose was recovered in the urine and approximately 25% of the dose was recovered in the feces.
 Urinary excretion was confirmed as a relatively minor pathway of elimination of bendamustine, with approximately 3.3% of the dose recovered in the urine as parent.
 Less than 1% of the dose was recovered in the urine as M3 and M4, and less than 5% of the dose was recovered in the urine as HP2.
 
@@ -67,7 +67,7 @@ Bendamustine has not been studied in patients with CrCL < 40 mL/min.
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild or moderate renal impairment.
 Bendamustine should not be used in patients with CrCL < 40 mL/min.
-[See Use in Specific Populations (8.6)]
+[see Use in Specific Populations (8.6)]
 
 Hepatic Impairment
 
@@ -76,18 +76,18 @@ Bendamustine has not been studied in patients with moderate or severe hepatic im
 
 These results are however limited, and therefore bendamustine should be used with caution in patients with mild hepatic impairment.
 Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
-[See Use in Specific Populations (8.7)]
+[see Use in Specific Populations (8.7)]
 
 Effect of Age
 
 Bendamustine exposure (as measured by AUC and Cmax) has been studied in adult patients ages 31 through 84 years.
 The pharmacokinetics of bendamustine (AUC and Cmax) were not significantly different between patients less than or greater than/equal to 65 years of age.
-[See Use in Specific Populations (8.4, 8.5)]
+[see Use in Specific Populations (8.4, 8.5)]
 
 Effect of Gender
 
 The pharmacokinetics of bendamustine were similar in male and female patients.
-[See Use in Specific Populations (8.8)]
+[see Use in Specific Populations (8.8)]
 
 Effect of Race
 

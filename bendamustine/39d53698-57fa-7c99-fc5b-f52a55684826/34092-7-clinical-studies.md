@@ -28,7 +28,7 @@ Table 5: Efficacy Data for CLL
 | Partial response (PR)† | 73 (48) | 37 (25) |  |
 | Progression-Free Survival†† |  |  |  |
 | Median, months (95% CI) | 18 (11.7, 23.5) | 6 (5.6, 8.6) |  |
-| Hazard ration (95% CI) | 0.27 (0.17, 0.43) |  | <0.0001 |
+| Hazard ratio (95% CI) | 0.27 (0.17, 0.43) |  | <0.0001 |
 
 CI = confidence interval
 
@@ -68,4 +68,4 @@ Table 6: Efficacy Data for NHL*
 | Partial response (PR) | 57 |
 | Duration of Response (DR) |  |
 | Median, months (95% CI) | 9.2 months (7.1, 10.8) |
-| CI = confidence interval *IRC assessment was based on modified International Working Group response criteria (IWG-RC) 2. Modifications to IWG-RC specified that a persistently positive bone marrow in patients who met all other criteria for CR would be scored as PR. Bone marrow sample lengths were not required to be ≥20 mm. |  |
+| CI = confidence interval *IRC assessment was based on modified International Working Group response criteria (IWG-RC). Modifications to IWG-RC specified that a persistently positive bone marrow in patients who met all other criteria for CR would be scored as PR. Bone marrow sample lengths were not required to be ≥20 mm. |  |

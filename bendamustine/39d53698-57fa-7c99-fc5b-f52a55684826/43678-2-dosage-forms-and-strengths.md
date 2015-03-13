@@ -1,3 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-TREANDA for Injection single-use vial containing either 25 mg or 100 mg of bendamustine HCl as white to off-white lyophilized powder.
+- •TREANDA Injection: 45 mg/0.5 mL or 180 mg/2 mL in a single-dose vial.
+- •TREANDA for Injection: 25 mg or 100 mg white to off-white lyophilized powder in a single-dose vial for reconstitution.

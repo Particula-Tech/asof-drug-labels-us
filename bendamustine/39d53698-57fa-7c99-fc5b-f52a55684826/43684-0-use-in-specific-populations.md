@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See Warnings and Precautions (5.8)]
+Pregnancy Category D [see Warnings and Precautions (5.8)]
 
 Risk Summary
 
@@ -54,8 +54,8 @@ In CLL and NHL studies, there were no clinically significant differences in the 
 Chronic Lymphocytic Leukemia
 
 In the randomized CLL clinical study, 153 patients received TREANDA.
-The overall response rate for patients younger than 65 years of age was 70% (n=82) for TREANDA and 30% (n = 69) for chlorambucil.
-The overall response rate for patients 65 years or older was 47% (n=71) for TREANDA and 22% (n = 79) for chlorambucil.
+The overall response rate for patients younger than 65 years of age was 70% (n=82) for TREANDA and 30% (n=69) for chlorambucil.
+The overall response rate for patients 65 years or older was 47% (n=71) for TREANDA and 22% (n=79) for chlorambucil.
 In patients younger than 65 years of age, the median progression-free survival was 19 months in the TREANDA group and 8 months in the chlorambucil group.
 In patients 65 years or older, the median progression-free survival was 12 months in the TREANDA group and 8 months in the chlorambucil group.
 
@@ -69,14 +69,14 @@ Irrespective of age, all of the 176 patients experienced at least one adverse re
 No formal studies assessing the impact of renal impairment on the pharmacokinetics of bendamustine have been conducted.
 TREANDA should be used with caution in patients with mild or moderate renal impairment.
 TREANDA should not be used in patients with CrCL < 40 mL/min.
-[See Clinical Pharmacology (12.3)]
+[see Clinical Pharmacology (12.3)]
 
 ## 8.7 Hepatic Impairment
 
 No formal studies assessing the impact of hepatic impairment on the pharmacokinetics of bendamustine have been conducted.
 TREANDA should be used with caution in patients with mild hepatic impairment.
 TREANDA should not be used in patients with moderate (AST or ALT 2.5-10 X ULN and total bilirubin 1.5-3 X ULN) or severe (total bilirubin > 3 X ULN) hepatic impairment.
-[See Clinical Pharmacology (12.3)]
+[see Clinical Pharmacology (12.3)]
 
 ## 8.8 Effect of Gender
 
