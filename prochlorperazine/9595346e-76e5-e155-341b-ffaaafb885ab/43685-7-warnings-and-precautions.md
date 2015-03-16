@@ -3,8 +3,8 @@
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Prochlorperazine Suppositories, USP is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
-The extrapyramidal symptoms which can occur secondary to prochlorperazine may be confused with the central nervous system signs of an undiagnosed primary disease responsible for the vomiting, e.g., Reye's syndrome or other encephalopathy.
-The use of prochlorperazine and other potential hepatotoxins should be avoided in children and adolescents whose signs and symptoms suggest Reye's syndrome.
+The extrapyramidal symptoms which can occur secondary to prochlorperazine may be confused with the central nervous system signs of an undiagnosed primary disease responsible for the vomiting, e.g., Reye's Syndrome or other encephalopathy.
+The use of prochlorperazine and other potential hepatotoxins should be avoided in children and adolescents whose signs and symptoms suggest Reye's Syndrome.
 
 Tardive Dyskinesia: Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with neuroleptic (anti-psychotic) drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of neuroleptic treatment, which patients are likely to develop the syndrome.
@@ -52,11 +52,20 @@ Usage in Pregnancy: Safety for the use of prochlorperazine during pregnancy has 
 Therefore, prochlorperazine is not recommended for use in pregnant patients except in cases of severe nausea and vomiting that are so serious and intractable that, in the judgment of the physician, drug intervention is required and potential benefits outweigh possible hazards.
 
 There have been reported instances of prolonged jaundice, extrapyramidal signs, hyperreflexia or hyporeflexia in newborn infants whose mothers received phenothiazines.
+Non-teratogenic Effects: Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these infants.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases infants have required intensive care unit support and prolonged hospitalization.
+Prochlorperazine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Nursing Mothers: There is evidence that phenothiazines are excreted in the breast milk of nursing mothers.
 
 # PRECAUTIONS
 
+Leukopenia, Neutropenia and Agranulocytosis In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Prochlorperazine Suppositories, USP at the first sign of a decline in WBC in the absence of other causative factors.
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Prochlorperazine Suppositories, USP and have their WBC followed until recovery.
 The antiemetic action of prochlorperazine may mask the signs and symptoms of overdosage of other drugs and may obscure the diagnosis and treatment of other conditions such as intestinal obstruction, brain tumor and Reye's syndrome (see WARNINGS).
 
 When prochlorperazine is used with cancer chemotherapeutic drugs, vomiting as a sign of the toxicity of these agents may be obscured by the antiemetic effect of prochlorperazine.
@@ -79,7 +88,7 @@ Neither clinical nor epidemiologic studies conducted to date, however, have show
 
 Chromosomal aberrations in spermatocytes and abnormal sperm have been demonstrated in rodents treated with certain neuroleptics.
 
-As with all drugs which exert an anticholinergic effect and/or cause mydriasis, prochlorperazine should be used with caution in patients with glaucoma.
+As with all drugs which exert an anticholinergic effect, and/or cause mydriasis, prochlorperazine should be used with caution in patients with glaucoma.
 
 Because phenothiazines may interfere with thermoregulatory mechanisms, use with caution in persons who will be exposed to extreme heat.
 
@@ -97,7 +106,7 @@ Phenothiazines may lower the convulsive threshold; dosage adjustments of anticon
 Potentiation of anticonvulsant effects does not occur.
 However, it has been reported that phenothiazines may interfere with the metabolism of phenytoin and thus precipitate phenytoin toxicity.
 
-The presence of phenothiazines may produce false positive phenyketonuria (PKU) test results.
+The presence of phenothiazines may produce false-positive phenylketonuria (PKU) test results.
 
 Long-Term Therapy: Given the likelihood that some patients exposed chronically to neuroleptics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk.
 The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.
@@ -107,4 +116,13 @@ Children with acute illnesses (e.g., chicken pox, CNS infections, measles, gastr
 In such patients, the drug should be used only under close supervision.
 
 Drugs which lower the seizure threshold, including phenothiazine derivatives, should not be used with metrizamide.
-As with other phenothiazine derivates, prochlorperazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours postprocedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography with metrizamide or postprocedure.
+As with other phenothiazine derivatives, prochlorperazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours postprocedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography with metrizamide or postprocedure.
+Geriatric Use: Clinical studies of prochlorperazine did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Geriatric patients are more sensitive to the side effects of antipsychotics, including prochlorperazine.
+These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia) (see PRECAUTIONS and ADVERSE REACTIONS).
+Also, postmarketing safety experience suggests that the incidence of agranulocytosis may be higher in geriatric patients compared to younger individuals who received prochlorperazine.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE AND ADMINISTRATION).
+Pregnancy: Non-teratogenic Effects Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these infants.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases infants have required intensive care unit support and prolonged hospitalization.
+Prochlorperazine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

@@ -1,9 +1,3 @@
 # DESCRIPTION
 
-Prochlorperazine is a clear, pale yellow, viscous liquid.
-It is sensitive to light, very slightly soluble in water, freely soluble in alcohol, in chloroform, and in ether.
-Each suppository, for rectal administration, contains 25 mg of prochlorperazine; with glycerin, glyceryl monostearate, hydrogenated coconut oil fatty acids, hydrogenated palm kernel oil fatty acids.
-Prochlorperazine has the molecular formula C20H24CIN3S.
-Its molecular weight is 373.94.
-The chemical name for prochlorperazine is 2-Chloro-10-[3-(4-methyl-1-piperazinyl)propyl]phenothiazine.
-The structural formula is:
+Prochlorperazine Suppositories, USP, a phenothiazine derivative is designated chemically as 2-Chloro-10-[3-(4-methyl-1-piperazinyl)propyl]phenothiazine with the following structural formula: Each suppository contains 25 mg prochlorperazine and the following inactive ingredients: glycerin, glyceryl monostearate, hydrogenated coconut oil fatty acids, hydrogenated palm kernel oil fatty acids.
