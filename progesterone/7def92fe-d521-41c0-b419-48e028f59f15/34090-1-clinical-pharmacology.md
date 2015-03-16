@@ -12,7 +12,7 @@ Progesterone administration decreases the circulatory levels of gonadotropins.
 
 ### Absorption
 
-Due to the sustained release properties of Crinone, progesterone absorption is prolonged with an absorption half-life of approximately 25-50 hours, and an elimination half-life of 5-20 minutes.
+Due to the sustained release properties of Crinone, progesterone absorption is prolonged with an absorption half-life of approximately 25 to 50 hours, and an elimination half-life of 5 to 20 minutes.
 Therefore, the pharmacokinetics of Crinone are rate-limited by absorption rather than by elimination.
 
 The bioavailability of progesterone in Crinone was determined relative to progesterone administered intramuscularly.
@@ -37,7 +37,7 @@ The pharmacokinetic parameters (mean ± standard deviation) after the last admin
 
 TABLE 2 Multiple Dose Pharmacokinetics
 
-|  | Assisted Reproductive Technology |  | Secodary Amenorrhea |  |
+|  | Assisted Reproductive Technology |  | Secondary Amenorrhea |  |
 | --- | --- | --- | --- | --- |
 | Daily Dosing 8% | Twice Daily Dosing 8% | Every Other Day Dosing 4% | Every Other Day Dosing 8% |  |
 | Cmax (ng/mL) | 15.97± 5.05 | 14.57 ± 4.49 | 13.21± 9.46 | 13.67 ± 3.58 |

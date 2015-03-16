@@ -18,8 +18,8 @@ Store at 20-25ºC (68-77ºF).
 Keep out of reach of children.
 Rx only
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2013
+Content Updated: August 2014 202084-01

@@ -54,9 +54,9 @@ TABLE 4 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8
 ## Secondary Amenorrhea
 
 In three studies, 127 women with secondary amenorrhea received estrogen replacement therapy and Crinone 4% or 8% every other day for six doses.
-Treatment emergent adverse events during estrogen and Crinone treatment that occurred in 5% or more of women are shown in Table 5.
+Treatment-emergent adverse events during estrogen and Crinone treatment that occurred in 5% or more of women are shown in Table 5.
 
-TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen Treatment and Crinone Every Other Day Studies COL1620-0040US, COL1620-005US, COL1620-009US
+TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen Treatment and Crinone Every Other Day Studies COL1620-004US, COL1620-005US, COL1620-009US
 
 |  | Estrogen + Crinone 4% n = 62 | Estrogen + Crinone 8% n = 65 |
 | --- | --- | --- |

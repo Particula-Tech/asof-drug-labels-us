@@ -1,10 +1,8 @@
 # PATIENT INFORMATION
 
-Crinone 4% and Crinone 8% (progesterone gel) For Vaginal Use Only Rx only Revised: August 2013
-
-Please read this information carefully before you start to use Crinone and each time your prescription is renewed, in case anything has changed.
+Crinone® 4% and Crinone® 8% (progesterone gel) For Vaginal Use Only Please read this information carefully before you start to use Crinone and each time your prescription is renewed, in case anything has changed.
 This leaflet does not take the place of discussions with your doctor.
-If you still have any questions, ask your doctor or health-care provider.
+If you still have any questions, ask your doctor or healthcare provider.
 
 What is Crinone?
 
@@ -19,7 +17,7 @@ What is Crinone used for?
 - Crinone 8% is also used as part of a program for women who are undergoing fertility treatments to get pregnant.
   Progesterone is one of the hormones that helps to prepare the lining of your uterus so that it is ready to receive and nourish a fertilized egg and to continue a pregnancy.
   If you are undergoing ART treatment and your doctor has determined your body does not produce enough progesterone on its own, Crinone may be prescribed to increase your progesterone.
-- If pregnancy occurs, Crinone may be supplemented for 10-12 weeks until production of progesterone by the placenta is adequate.
+- If pregnancy occurs, Crinone may be supplemented for 10 to 12 weeks until production of progesterone by the placenta is adequate.
 
 Who should not use Crinone?
 Do not start using Crinone if you:
@@ -77,7 +75,6 @@ Common side effects include:
 
 These are not all the possible side effects of Crinone.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I use Crinone?
@@ -116,32 +113,31 @@ Crinone contains either 45 mg (4% gel) or 90 mg (8% gel) of progesterone in a ba
 
 How should I store Crinone?
 
-- Store Crinone at room temperature between 68°F to 77°F (20°C to 25°C).
-- Do not use Crinone after the expiration date printed on the box.
-
-Instructions for Use Crinone 4% and Crinone 8% ("KRI-noan") (Progesterone gel)
+Store Crinone at room temperature between 68°F to 77°F (20°C to 25°C).
+Do not use Crinone after the expiration date printed on the box.
+INSTRUCTIONS FOR USE Crinone® 4% and Crinone® 8% ("KRI-noan") (progesterone gel)
 
 For Vaginal Use Only
 
-You will need the following supplies: See Figure A
+You will need the following supplies: See Figure A.
 
 Step 1.
 Remove the applicator from the sealed wrapper.
 
 - Open the sealed wrapper and remove the applicator.
   Do not remove the twist-off cap at this time.
-  See Figure B
+  See Figure B.
 
 Step 2.
 Insert the plunger into the open end of the applicator.
-See Figure C
+See Figure C.
 
 - Hold the applicator on each side and push the plunger into the applicator until the plunger snaps into place.
 - You will see about 1 inch of the plunger outside of the applicator.
 
 Step 3.
 Remove the cap.
-See Figures D and E
+See Figures D and E.
 
 - Remove the cap from the tip of the applicator by twisting it counterclockwise.
 - Do not push the plunger while you are removing the cap.
@@ -149,19 +145,18 @@ See Figures D and E
 
 Step 4.
 Prepare to insert the applicator.
-See Figure F Choose the position that is most comfortable for you.
-
-- For example, lying down on your back with your knees bent.
+See Figure F. Choose the position that is most comfortable for you.
+For example, lying down on your back with your knees bent.
 
 Step 5.
 Insert the applicator.
-See Figure G
+See Figure G.
 
 - After you are in a comfortable position, gently insert the rounded tip of the applicator into your vagina.
 
 Step 6.
 Push the plunger.
-See Figure H
+See Figure H.
 
 - While the applicator is inserted in your vagina, push the plunger to release the gel into your vagina.
 
@@ -175,8 +170,10 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Rx only
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2013
+Content Updated: August 2014
+
+202084-01

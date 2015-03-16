@@ -4,7 +4,7 @@
 
 Crinone 8% is administered vaginally at a dose of 90 mg once daily in women who require progesterone supplementation.
 Crinone 8% is administered vaginally at a dose of 90 mg twice daily in women with partial or complete ovarian failure who require progesterone replacement.
-If pregnancy occurs, treatment may be continued until placental autonomy is achieved, up to 10-12 weeks.
+If pregnancy occurs, treatment may be continued until placental autonomy is achieved, up to 10 to 12 weeks.
 
 ## Secondary Amenorrhea
 
