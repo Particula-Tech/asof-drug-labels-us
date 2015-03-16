@@ -40,7 +40,7 @@ Therefore, use of such products within 72 hours following treatment with clindam
 
 ## Drug Interactions
 
-Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
+Systemic clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -56,19 +56,17 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (31 times the 
 
 #### Pregnancy Category B
 
-Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
-Animal reproduction studies are not always predictive of human response.
-
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 
-Clindamycin vaginal cream or clindamycin vaginal ovules should be used during the first trimester of pregnancy only if clearly needed.
-
+Clindamycin vaginal cream should be used during the first trimester of pregnancy only if clearly needed and the benefits outweigh the risks.
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
 
 Clindamycin phosphate vaginal cream 2% has been studied in pregnant women during the second trimester.
 In women treated for seven days, abnormal labor was reported in 1.1% of patients who received clindamycin vaginal cream 2% compared with 0.5% of patients who received placebo.
 
-See INDICATIONS AND USAGE; PRECAUTIONS, General; and ADVERSE REACTIONS.
+Reproduction studies have been performed in rats and mice using oral and parenteral doses of clindamycin up to 600 mg/kg/day (62 and 25 times, respectively, the maximum human exposure based on body surface area) and have revealed no evidence of harm to the fetus due to clindamycin.
+Cleft palates were observed in fetuses from one mouse strain treated intraperitoneally with clindamycin at 200 mg/kg/day (about 10 times the recommended dose based on body surface area conversions).
+Since this effect was not observed in other mouse strains or in other species, the effect may be strain specific.
 
 ## Nursing Mothers
 
