@@ -97,7 +97,7 @@ Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
 | Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
 | --- | --- | --- | --- |
 | Oral bioavailability (%) | 89 ± 19(n = 15) | 61 ± 19(n = 17) | 65 ± 24(n = 18) |
-| CSF: plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |
+| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |
 | CL (L/h/kg) | 0.65 ± 0.29(n = 18) | 1.14 ± 0.24(n = 16) | 1.85 ± 0.47(n = 20) |
 | Elimination half-life (h) | 3.1 ± 1.2(n = 21) | 1.9 ± 0.7(n = 18) | 1.5 ± 0.7(n = 21) |
 
@@ -113,7 +113,7 @@ Although data are limited, methadone maintenance therapy in 5 pregnant women did
 
 Geriatric Patients: Zidovudine pharmacokinetics have not been studied in subjects over 65 years of age.
 
-Gender: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as the 300-mg RETROVIR tablet.
+Gender: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300-mg RETROVIR tablet.
 
 Drug Interactions
 

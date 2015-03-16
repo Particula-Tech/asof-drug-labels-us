@@ -25,11 +25,11 @@ Healthcare professionals should pay special attention to accurate calculation of
 
 Prescribers should calculate the appropriate dose of RETROVIR for each child based on body weight (kg) and should not exceed the recommended adult dose.
 
-Before prescribing RETROVIR capsules or tablets, children should be assessed for the ability to swallow capsules or tablets.
-If a child is unable to reliably swallow a RETROVIR capsule or tablet, the RETROVIR syrup formulation should be prescribed.
+Before prescribing RETROVIR capsules, children should be assessed for the ability to swallow capsules.
+If a child is unable to reliably swallow a RETROVIR capsule, the RETROVIR syrup formulation should be prescribed.
 
 The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-RETROVIR syrup should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
+RETROVIR syrup should be used to provide accurate dosage when capsules are not appropriate.
 
 Table 1.
 Recommended Pediatric Oral Dosage of RETROVIR
@@ -42,7 +42,7 @@ Recommended Pediatric Oral Dosage of RETROVIR
 | ≥30 | 600 mg/day | 300 mg | 200 mg |
 
 Alternatively, dosing for RETROVIR can be based on body surface area (BSA) for each child.
-The recommended oral dose of RETROVIR is 480 mg per m2 perday in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
+The recommended oral dose of RETROVIR is 480 mg per m2 per day in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
 In some cases the dose calculated by mg per kg will not be the same as that calculated by BSA.
 
 ## 2.3 Prevention of Maternal-Fetal HIV-1 Transmission

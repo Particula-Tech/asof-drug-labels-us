@@ -2,7 +2,7 @@
 
 Hematologic Toxicity
 
-RETROVIR® (zidovudine) tablets, capsules, syrup, and injection have been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced HIV-1 disease [see Warnings and Precautions (5.1)].
+RETROVIR® (zidovudine) capsules, syrup, and injection have been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced HIV-1 disease [see Warnings and Precautions (5.1)].
 
 Myopathy
 

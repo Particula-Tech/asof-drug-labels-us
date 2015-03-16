@@ -1,11 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-RETROVIR 300-mg tablets are supplied as white, biconvex, round, film-coated tablets containing 300 mg zidovudine per tablet.
-Each tablet has one side engraved “GX CW3” and “300” on the other side.
-
-- Bottles of 60 (NDC 49702-214-18).
-- Store at 15° to 25°C (59° to 77°F).
-
 RETROVIR 100-mg capsules are supplied as white, opaque cap and body capsules containing 100 mg zidovudine per capsule.
 Each capsule is printed with “Wellcome” and unicorn logo on cap and “Y9C” and “100” on body.
 
