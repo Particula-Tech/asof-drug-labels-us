@@ -9,7 +9,7 @@ Ampicillin for injection, USP is well-tolerated by most patients and has been gi
 
 ## Microbiology
 
-Whilein vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS AND USAGE section has not been demonstrated.
+While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS AND USAGE section has not been demonstrated.
 The following bacteria have been shown in in vitro studies to be susceptible to ampicillin: GRAM-POSITIVE ORGANISMS: Hemolytic and nonhemolytic streptococci, D. pneumoniae, nonpenicillinase-producing staphylococci, Clostridia spp., B. anthracis, Listeria monocytogenes, and most strains of enterococci.
 GRAM-NEGATIVE ORGANISMS: H. influenzae, N. gonorrhoeae, N. meningitidis, Proteus mirabilis, and many strains of Salmonella, Shigella, and E. coli.
 Ampicillin does not resist destruction by penicillinase.
