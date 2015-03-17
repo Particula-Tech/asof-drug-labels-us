@@ -52,4 +52,4 @@ The effect of severe hepatic dysfunction on XELODA is not known [see Warnings an
 
 ## 8.7 Renal Insufficiency
 
-Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-FDUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.3), and Clinical Pharmacology (12.3)].
+Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-DFUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.3), and Clinical Pharmacology (12.3)].
