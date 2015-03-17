@@ -1,5 +1,13 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below or elsewhere in the prescribing information:
+
+- •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
+- •Pancreatitis [see Warnings and Precautions (5.2)]
+- •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.4)]
+- •Renal Impairment [see Warnings and Precautions (5.5)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -182,9 +190,19 @@ Causality has not been established.
 
 Laboratory Tests
 
+Bilirubin
+
 In the five clinical trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of Victoza-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
 The significance of this isolated finding is unknown.
+
+Calcitonin
+
+Calcitonin, a biological marker of MTC, was measured throughout the clinical development program.
+At the end of the clinical trials, adjusted mean serum calcitonin concentrations were higher in Victoza-treated patients compared to placebo-treated patients but not compared to patients receiving active comparator.
+Between group differences in adjusted mean serum calcitonin values were approximately 0.1 ng/L or less.
+Among patients with pretreatment calcitonin <20 ng/L, calcitonin elevations to >20 ng/L occurred in 0.7% of Victoza-treated patients, 0.3% of placebo-treated patients, and 0.5% of active-comparator-treated patients.
+The clinical significance of these findings is unknown.
 
 Vital signs
 
@@ -197,6 +215,7 @@ The long-term clinical effects of the increase in pulse rate have not been estab
 The following additional adverse reactions have been reported during post-approval use of Victoza.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+- •Medullary thyroid carcinoma [see Warnings and Precautions (5.1)]
 - •Dehydration resulting from nausea, vomiting and diarrhea.
   [see Warnings and Precautions (5.5) and Patient Counseling Information (17.3)]
 - •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.

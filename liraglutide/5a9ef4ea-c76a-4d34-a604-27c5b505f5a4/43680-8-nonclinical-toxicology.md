@@ -16,7 +16,9 @@ A treatment-related increase in benign thyroid C-cell adenomas was seen in males
 A treatment-related increase in malignant thyroid C-cell carcinomas was observed in all male liraglutide-treated groups with incidences of 2%, 8%, 6%, and 14% and in females at 0.25 and 0.75 mg/kg/day with incidences of 0%, 0%, 4%, and 6% in 0 (control), 0.075, 0.25, and 0.75 mg/kg/day groups, respectively.
 Thyroid C-cell carcinomas are rare findings during carcinogenicity testing in rats.
 
-Human relevance of thyroid C-cell tumors in mice and rats is unknown and could not be determined by clinical studies or nonclinical studies [see Boxed Warning and Warnings and Precautions (5.1)].
+Studies in mice demonstrated that liraglutide-induced C-cell proliferation was dependent on the GLP-1 receptor and that liraglutide did not cause activation of the REarranged during Transfection (RET) proto-oncogene in thyroid C-cells.
+
+Human relevance of thyroid C-cell tumors in mice and rats is unknown and has not been determined by clinical studies or nonclinical studies [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Liraglutide was negative with and without metabolic activation in the Ames test for mutagenicity and in a human peripheral blood lymphocyte chromosome aberration test for clastogenicity.
 Liraglutide was negative in repeat-dose in vivo micronucleus tests in rats.

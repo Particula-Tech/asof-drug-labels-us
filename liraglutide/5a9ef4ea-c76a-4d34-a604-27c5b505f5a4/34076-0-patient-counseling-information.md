@@ -6,8 +6,8 @@ See separate leaflet.
 
 ## 17.2 Risk of Thyroid C-cell Tumors
 
-Patients should be informed that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
-Patients should be counseled to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their physician.
+Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding has not been determined.
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 17.3 Dehydration and Renal Failure
 
@@ -52,9 +52,9 @@ Victoza should be titrated at the discretion of the prescribing physician [see D
 Patients should be informed that response to all diabetic therapies should be monitored by periodic measurements of blood glucose and A1c levels, with a goal of decreasing these levels towards the normal range.
 A1c is especially useful for evaluating long-term glycemic control.
 
-Date of Issue: February 2015
+Date of Issue: March 9, 2015
 
-Version: 7
+Version: 8
 
 Victoza® is a registered trademark of Novo Nordisk A/S.
 
