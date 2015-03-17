@@ -21,38 +21,6 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 4 mg
 
-Singulair® 4 mg (Montelukast Sodium) CHEWABLE TABLETS
-
-For Pediatric Patients 2-5 Years of Age
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Montelukast Sodium (active ingred.)
-Made in Ireland Formulated in UK
-
-Phenylketonurics: contains phenylalanine (a component of aspartame) 0.674 mg per 4-mg chewable tablet.
-Each tablet contains 4.2 mg Montelukast Sodium equivalent to 4 mg Montelukast.
-
-30 Tablets
-
-NDC 0006-0711-31
-
-Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-Protect from moisture and light.
-Store in original package.
-
-USUAL DOSAGE: See accompanying circular.
-
-Keep this and all drugs out of the reach of children
-
-Rx only
-
-9917500 30 | No. 3796
-
-PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 4 mg
-
 NDC 0006-1711-31
 
 Singulair® (Montelukast Sodium) CHEWABLE Tablets
@@ -67,38 +35,6 @@ Each tablet contains 4.2 mg Montelukast Sodium equivalent to 4 mg Montelukast.
 Rx only
 
 30 Tablets
-
-PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 5 mg
-
-Singulair® 5 mg (Montelukast Sodium) CHEWABLE TABLETS
-
-For Pediatric Patients 6-14 Years of Age
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Montelukast Sodium (active ingred.)
-Made in Ireland Formulated in UK
-
-Phenylketonurics: contains phenylalanine (a component of aspartame) 0.842 mg per 5-mg chewable tablet.
-Each tablet contains 5.2 mg Montelukast Sodium equivalent to 5 mg Montelukast.
-
-30 Tablets
-
-NDC 0006-0275-31
-
-Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-Protect from moisture and light.
-Store in original package.
-
-USUAL DOSAGE: See accompanying circular.
-
-Keep this and all drugs out of the reach of children
-
-Rx only
-
-9917000 30 | No. 3760
 
 PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 5 mg
 
