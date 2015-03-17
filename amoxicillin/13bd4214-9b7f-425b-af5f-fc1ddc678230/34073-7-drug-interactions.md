@@ -1,7 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-Click here to enter text.
-
 ## 7.1 Probenecid
 
 Probenecid decreases the renal tubular secretion of amoxicillin.

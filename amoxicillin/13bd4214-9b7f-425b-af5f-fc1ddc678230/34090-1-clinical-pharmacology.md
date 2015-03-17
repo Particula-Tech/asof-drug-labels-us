@@ -1,7 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Click here to enter text.
-
 ## 12.1 Mechanism of Action
 
 Amoxicillin is an antibacterial drug.
@@ -110,7 +108,7 @@ Acceptable Quality Control Ranges for Amoxicillin
 | --- | --- | --- | --- |
 | Escherichia coli | 25922 | 2 to 8 | 16 to 22 |
 | Enterococcus faecalis | 29212 | 0.5 to 2 |  |
-| Haemophilusinfluenzae | 49247 | 2 to 8 | 13 to 21 |
+| Haemophilus influenzae | 49247 | 2 to 8 | 13 to 21 |
 | Staphylococcus aureus | 29213 | 0.5 to 2 |  |
 |  | 25923 |  | 27 to 35 |
 | Streptococcus pneumoniae | 49619 | 0.06 to 0.25 |  |

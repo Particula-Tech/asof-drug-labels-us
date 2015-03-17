@@ -1,7 +1,5 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-Click here to enter text.
-
 ## 8.1 Pregnancy
 
 Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).

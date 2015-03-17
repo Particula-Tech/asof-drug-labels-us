@@ -18,10 +18,12 @@ CLINISTIX® is a registered trademark of Bayer Corporation.
 
 CLOtest® is a registered trademark of Kimberly-Clark Corporation.
 
-46108093
+46153872
 
-03-2013M
+12-2014M
 
 Manufactured in Austria by Sandoz GmbH for
 
 Sandoz Inc., Princeton, NJ 08540
+
+Product of Spain

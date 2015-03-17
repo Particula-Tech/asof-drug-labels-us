@@ -1,7 +1,5 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-Click here to enter text.
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.

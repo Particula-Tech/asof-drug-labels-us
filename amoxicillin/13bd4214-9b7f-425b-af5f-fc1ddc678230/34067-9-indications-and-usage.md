@@ -9,7 +9,7 @@ Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY
 ## 1.1 Infections of the ear, nose, and throat
 
 – due to Streptococcus species.
-(α- and β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilusinfluenzae.
+(α- and β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilus influenzae.
 
 ## 1.2 Infections of the genitourinary tract
 

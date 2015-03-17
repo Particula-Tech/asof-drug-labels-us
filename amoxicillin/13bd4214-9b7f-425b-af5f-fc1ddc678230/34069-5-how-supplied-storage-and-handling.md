@@ -26,15 +26,11 @@ NDC 0781-5060-20...................................................... bottles o
 
 NDC 0781-5060-01.................................................... bottles of 100
 
-NDC 0781-5060-05.................................................... bottles of 500
-
 875 mg: oval-shaped, scored on one side, white to slightly yellowish film-coated tablets embossed GG-962 on one side and 875 on the other side.
 
 NDC 0781-5061-20...................................................... bottles of 20
 
 NDC 0781-5061-01.................................................... bottles of 100
-
-NDC 0781-5061-05.................................................... bottles of 500
 
 Amoxicillin for Oral Suspension, USP: Each 5 mL of reconstituted fruity flavored pink suspension contains 125 mg, 200 mg, 250 mg or 400 mg amoxicillin as the trihydrate.
 

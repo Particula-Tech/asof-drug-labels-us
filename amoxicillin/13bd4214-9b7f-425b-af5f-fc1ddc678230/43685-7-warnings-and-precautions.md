@@ -1,7 +1,5 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-Click here to enter text.
-
 ## 5.1 Anaphylactic Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy including amoxicillin.
@@ -11,17 +9,17 @@ These reactions are more likely to occur in individuals with a history of penici
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
 Before initiating therapy with amoxicillin, careful inquiry should be made regarding previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
 
-## 5.2 Clostridium difficileAssociated Diarrhea
+## 5.2 Clostridium difficile Associated Diarrhea
 
-Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficileproduces toxins A and B which contribute to the development of CDAD.
-Hypertoxin-producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibacterial use.
 Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficilemay need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.3 Potential for Microbial Overgrowth or Bacterial Resistance

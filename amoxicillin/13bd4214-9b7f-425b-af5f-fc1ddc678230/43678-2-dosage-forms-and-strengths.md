@@ -8,9 +8,9 @@ The 250 mg capsule is imprinted AMOX 250 on one side and GG 848 on the other sid
 Tablets: 500 mg, 875 mg.
 
 Each film coated tablet contains 500 mg or 875 mg amoxicillin as the trihydrate.
-The tablets are oval-shaped, unscored and white to yellowish.
-The 500 mg tablet is embossed GG-961 on one side and 500 on the other side.
-The 875 mg tablet is embossed GG-962 on one side and 875 on the other side.
+The tablets are oval-shaped and white to yellowish.
+The 500 mg tablet is unscored, embossed GG-961 on one side and 500 on the other side.
+The 875 mg tablet is scored and embossed GG-962 on one side and 875 on the other side.
 
 For Oral Suspension: 125 mg/5 mL, 200 mg/5 mL, 250 mg/5 mL, 400 mg/5 mL.
 
