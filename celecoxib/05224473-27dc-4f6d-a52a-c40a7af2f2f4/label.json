@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA200562"
+  ],
+  "inn": "celecoxib",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-3982-05",
+    "0591-3982-25",
+    "0591-3982-60",
+    "0591-3983-01",
+    "0591-3983-05",
+    "0591-3984-01",
+    "0591-3984-05",
+    "0591-3984-10",
+    "0591-3985-01",
+    "0591-3985-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "celecoxib",
+      "name": "Celecoxib"
+    }
+  ],
+  "setid": "05224473-27dc-4f6d-a52a-c40a7af2f2f4",
+  "source": "dailymed"
+}
