@@ -1,23 +1,49 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The major hazards of hydromorphone hydrochloride injection (high potency formulation) include respiratory depression and apnea.
-To a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest have occurred.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most frequently observed adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
+Serious adverse reactions associated with hydromorphone hydrochloride include respiratory depression and apnea, and to a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest.
+
+The following serious adverse reactions described elsewhere in the labeling include:
+
+- •Respiratory depression and secondary effects on intracranial pressure [see Warnings and Precautions (5.2, 5.6)].
+- •Hypotension [see Warnings and Precautions (5.7)].
+- •Gastrointestinal effects and effects in sphincter of Oddi [see Warnings and Precautions (5.8)].
+- •Drug abuse, addiction, and dependence [see Drug Abuse and Dependence (9.2, 9.3)].
+- •Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.11)].
+
+The most common adverse effects are light-headedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
 
-Less Frequently Observed Adverse Reactions
+## 6.1 Less Frequently Observed Adverse Reactions
 
-General and CNS: Weakness, headache, agitation, tremor, uncoordinated muscle movements, alterations of mood (nervousness, apprehension, depression, floating feelings, dreams), muscle rigidity, paresthesia, muscle tremor, blurred vision, nystagmus, diplopia and miosis, transient hallucinations and disorientation, visual disturbances, insomnia, and increased intracranial pressure.
+Cardiac disorders: tachycardia, bradycardia, palpitations
 
-Cardiovascular: Flushing of the face, chills, tachycardia, bradycardia, palpitation, faintness, syncope, hypotension, and hypertension.
+Eye disorders: vision blurred, diplopia, miosis, visual impairment
 
-Respiratory: Bronchospasm and laryngospasm.
+Gastrointestinal disorders: constipation, ileus, diarrhea, abdominal pain
 
-Gastrointestinal: Constipation, biliary tract spasm, ileus, anorexia, diarrhea, cramps, and taste alterations.
+General disorders and administration site conditions: weakness, feeling abnormal, chills, injection site urticaria
 
-Genitourinary: Urinary retention or hesitancy, and antidiuretic effects.
+Hepatobiliary disorders: biliary colic
 
-Dermatologic: Urticaria, other skin rashes, wheal and flare over the vein with intravenous injection, and diaphoresis.
+Metabolism and nutrition disorders: decreased appetite
 
-Other: In clinical trials, neither local tissue irritation nor induration was observed at the site of subcutaneous injection of hydromorphone hydrochloride injection (high potency formulation); pain at the injection site was rarely observed.
+Musculoskeletal and connective tissue disorders: muscle rigidity
+
+Nervous system disorders: headache, tremor, paraesthesia, nystagmus, increased intracranial pressure, syncope, taste alteration, involuntary muscle contractions, presyncope
+
+Psychiatric disorders: agitation, mood altered, nervousness, anxiety, depression, hallucination, disorientation, insomnia, abnormal dreams
+
+Renal and urinary disorders: urinary retention, urinary hesitation, antidiuretic effects
+
+Respiratory, thoracic and mediastinal disorders: bronchospasm, laryngospasm
+
+Skin and subcutaneous tissue disorders: injection site pain, urticaria, rash, hyperhidrosis
+
+Vascular disorders: flushing, hypotension, hypertension
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of hydromorphone.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylactic reactions, confusional state, convulsions, drowsiness, dyskinesia, dyspnea, erectile dysfunction, fatigue, hepatic enzymes increased, hyperalgesia, hypersensitivity reaction, injection site reactions, lethargy, myoclonus, oropharyngeal swelling, peripheral edema, and somnolence.

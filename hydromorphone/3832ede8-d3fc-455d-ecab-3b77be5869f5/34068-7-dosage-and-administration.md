@@ -1,68 +1,106 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Parenteral: HYDROMORPHONE HYDROCHLORIDE INJECTION (HIGH POTENCY FORMULATION) SHOULD BE GIVEN ONLY TO PATIENTS WHO ARE ALREADY RECEIVING LARGE DOSES OF OPIOIDS.
-Hydromorphone hydrochloride injection (high potency formulation) is indicated for relief of moderate-to-severe pain in opioid-tolerant patients.
-Thus, these patients will already have been treated with other opioid analgesics.
-If the patient is being changed from regular hydromorphone hydrochloride to high potency formulation, similar doses should be used, depending on the patient's clinical response to the drug.
-If hydromorphone hydrochloride injection (high potency formulation) is substituted for a different opioid analgesic, the following equivalency table should be used as a guide to determine the appropriate dose of hydromorphone hydrochloride injection (high potency formulation).
-Patients with hepatic and renal impairment should be started on a lower starting dose (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
+## 2.1 General Dosing Considerations
 
-Opioid Analgesic Equivalents with Approximately Equianalgesic Potency*
+Take care when prescribing and administering Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) to avoid dosing errors due to confusion between the different concentrations and between mg and mL, which could result in accidental overdose and death.
+Take care to ensure the proper dose is communicated and dispensed.
+When writing prescriptions, include both the total dose in mg and the total volume of the dose.
 
-| Drug Substance | IM or SC** Dose | Oral Dose |
-| --- | --- | --- |
-| Morphine Sulfate | 10 mg | 40 - 60 mg |
-| Hydromorphone HCl | 1.3 - 2 mg | 6.5 - 7.5 mg |
-| Oxymorphone HCl | 1 - 1.1 mg | 6.6 mg |
-| Levorphanol tartrate | 2 - 2.3 mg | 4 mg |
-| Meperidine HCl (pethidine HCl) | 75 - 100 mg | 300 - 400 mg |
-| Methadone HCl | 10 mg | 10 - 20 mg |
-| Nalbuphine HCl | 12 mg | — |
-| Butorphanol tartrate | 1.5 - 2.5 mg | — |
+Selection of patients and administration of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) should be governed by the same principles that apply to the use of similar opioid analgesics to treat patients with acute or chronic pain, and depends upon a comprehensive assessment of the patient.
+Individualize treatment in every case, using non-opioid analgesics, opioids on an as needed basis and/or combination products, and chronic opioid therapy in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Healthcare Research and Quality, and the American Pain Society.
 
-* Dosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain.
+The nature of the pain (severity, frequency, etiology, and pathophysiology), as well as the medical status of the patient, will affect selection of the starting dosage.
+Opioid analgesics, including Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY), have a narrow therapeutic index in certain patient populations, especially when combined with CNS depressant drugs, and should be reserved for cases where the benefits of opioid analgesia outweigh the known risks.
 
-**IM = intramuscular; SC = subcutaneous
+## 2.2 Individualization of Dosage
 
-Experience with administration of hydromorphone hydrochloride injection (high potency formulation) by the intravenous route is limited.
-Should intravenous administration be necessary, the injection should be given slowly, over at least 2 to 3 minutes.
+Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment.
+Give attention to the following:
 
-A gradual increase in dose may be required if analgesia is inadequate, tolerance occurs, or if pain severity increases.
-The first sign of tolerance is usually a reduced duration of effect.
+- •the age, general condition and medical status of the patient;
+- •the patient’s degree of opioid tolerance;
+- •the daily dose, potency, and specific characteristics of the opioid the patient has been taking previously;
+- •concurrent medications;
+- •the type and severity of the patient’s pain;
+- •risk factors for abuse or addiction; including whether the patient has a previous or current substance abuse problem, a family history of substance abuse, or a history of mental illness or depression;
+- •the balance between pain control and adverse reactions.
 
-NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-A slight yellowish discoloration may develop in hydromorphone hydrochloride injection (high potency formulation) vials.
-No loss of potency has been demonstrated.
-Hydromorphone hydrochloride injection is physically compatible and chemically stable for at least 24 hours at 25°C protected from light in most common large volume parenteral solutions.
-
-500 mg/50 mL Vial: To use this single dose presentation, do not penetrate the stopper with a syringe.
-Instead, remove both the aluminum flipseal and rubber stopper in a suitable work area such as under a laminar flow hood (or equivalent clean air compounding area).
-The contents may then be withdrawn for preparation of a single, large volume parenteral solution.
-Any unused portion should be discarded in an appropriate manner.
-
-Individualization of Dosage
-
-The dosage of opioid analgesics like hydromorphone hydrochloride should be individualized for any given patient, since adverse events can occur at doses that may not provide complete freedom from pain.
-
-Safe and effective administration of opioid analgesics to patients with acute or chronic pain depends upon a comprehensive assessment of the patient.
-The nature of the pain (severity, frequency, etiology, and pathophysiology), as well as the concurrent medical status of the patient, will affect selection of the starting dosage.
-
-In patients receiving opioids, both the dose and duration of analgesia will vary substantially depending on the patient's opioid tolerance.
-The dose should be selected and adjusted so that at least 3-4 hours of pain relief may be achieved.
-In patients taking opioid analgesics, the starting dose of hydromorphone hydrochloride injection (high potency formulation) should be based on prior opioid usage.
-This should be done by converting the total daily usage of the previous opioid to an equivalent total daily dosage of hydromorphone hydrochloride injection (high potency formulation) using an equianalgesic table (see above).
-For opioids not in the table, first estimate the equivalent total daily usage of oral morphine, then use the table to find the equivalent total daily dosage of hydromorphone hydrochloride injection (high potency formulation).
-
-Once the total daily dosage of hydromorphone hydrochloride injection (high potency formulation) has been estimated, it should be divided into the desired number of doses.
-Since there is individual variation in response to different opioid drugs, only 1/2 to 2/3 of the estimated dose of hydromorphone hydrochloride injection (high potency formulation) calculated from equivalence tables should be given for the first few doses, then increased as needed according to the patient's response.
-
-Since the pharmacokinetics of hydromorphone are affected in hepatic and renal impairment with a consequent increase in exposure, patients with hepatic and renal impairment should be started on a lower starting dose (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
-
-In chronic pain, doses should be administered around-the-clock.
-A supplemental dose of 5-15% of the total daily usage may be administered every two hours on an "as-needed" basis.
-
-Periodic reassessment after the initial dosing is always required.
-If pain management is not satisfactory, and in the absence of significant opioid-induced adverse events, the hydromorphone dose may be increased gradually.
-If excessive opioid side effects are observed early in the dosing interval, the hydromorphone hydrochloride dose should be reduced.
+Periodic reassessment after the initial dosing of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is required.
+If pain management is not satisfactory, and opioid-induced adverse events are tolerable, the hydromorphone dose may be increased gradually.
+If excessive opioid side effects are observed early in the dosing interval, reduce the hydromorphone hydrochloride dose.
 If this results in breakthrough pain at the end of the dosing interval, the dosing interval may need to be shortened.
-Dose titration should be guided more by the need for analgesia than the absolute dose of opioid employed.
+Dose titration should be guided more by the need for analgesia and the severity of adverse events than the absolute dose of opioid employed.
+
+## 2.3 Initiation of Therapy
+
+Always initiate dosing in opioid-naïve patients using standard parenteral formulations of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
+Never administer Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) to opioid-naïve patients.
+
+### 2.3.1 Subcutaneous or Intramuscular Administration
+
+The usual starting dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is 1 mg to 2 mg every 2 to 3 hours as necessary.
+Depending on the clinical situation, the initial starting dose may be lowered in patients who are opioid naïve.
+Adjust the dose according to the severity of pain, the severity of adverse events, as well as the patient’s underlying disease and age.
+
+### 2.3.2 Intravenous Administration
+
+The initial starting dose is 0.2 to 1 mg every 2 to 3 hours.
+Intravenous administration should be given slowly, over at least 2 to 3 minutes, depending on the dose.
+Titrate the dose to achieve acceptable analgesia and tolerable adverse events.
+The initial dose should be reduced in the elderly or debilitated and may be lowered to 0.2 mg.
+
+### 2.3.3 Hepatic Impairment
+
+Start patients with hepatic impairment on one-fourth to one-half the usual Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) starting dose depending on the extent of impairment [see Clinical Pharmacology, Pharmacokinetics (12.3)].
+
+### 2.3.4 Renal Impairment
+
+Start patients with renal impairment on one-fourth to one-half the usual Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) depending on the degree of impairment [see Clinical Pharmacology, Pharmacokinetics (12.3)].
+
+## 2.4 Conversion from Prior Opioid
+
+Use the equianalgesic dose table below (Table 1) as a guide to determine the appropriate dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
+Convert the current total daily amount(s) of opioid(s) received to an equivalent total daily dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) and reduce by one-half due to the possibility of incomplete cross tolerance.
+Divide the new total amount by number of doses permitted based on dosing interval (e.g.
+8 doses for every three-hour dosing).
+Titrate the dose according to the patient’s response.
+For opioids not in Table 1, first estimate the daily amount of morphine that is equivalent to the current total daily amount of other opioid(s) received, then use Table 1 to find the approximate equivalent total daily dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
+
+Table 1: OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY FOR CONVERSION TO HYDROMORPHONE HYDROCHLORIDE INJECTION,USP (HIGH POTENCY)Dosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain.
+
+| DRUG SUBSTANCE | PARENTERAL DOSE | ORAL DOSE |
+| --- | --- | --- |
+| Morphine Sulfate | 10 mg | 40 – 60 mg |
+| Hydromorphone HCl | 1.3 – 2 mg | 6.5 – 7.5 mg |
+| Oxymorphone HCl | 1 – 1.1 mg | 6.6 mg |
+| Levorphanol tartrate | 2 – 2.3 mg | 4 mg |
+| Meperidine HCl (Pethidine HCl) | 75 – 100 mg | 300 – 400 mg |
+| Methadone HCl | 10 mg | 10 – 20 mg |
+| Nalbuphine HCl | 10 – 12 mg | – |
+| Butorphanol tartrate | 1.5 – 2.5 mg | – |
+
+## 2.5 Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) (for use in opioid-tolerant patients only)
+
+Do not use Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) for patients who are not tolerant to the respiratory depressant or sedating effects of opioids.
+Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
+
+Use Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) only for patients who require the higher concentration and lower total volume of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
+
+Because of its high concentration, the delivery of precise doses of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) may be difficult if low doses of hydromorphone are required.
+Therefore, use Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) only if the amount of Hydromorphone required can be delivered accurately with this formulation.
+
+Base the starting dose for Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) on the prior dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) or on the prior dose of an alternate opioid as described above in Section 2.4 Conversion from Prior Opioid and Table 1.
+
+## 2.6 Administration
+
+Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+A slight yellowish discoloration may develop in Hydromorphone Hydrochloride vials.
+No loss of potency has been demonstrated.
+Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is physically compatible and chemically stable for at least 24 hours at 25°C, protected from light in most common large-volume parenteral solutions.
+
+500 mg/50 mL Vial
+
+To use this single dose presentation, do not penetrate the stopper with a syringe.
+Instead, remove both the aluminum flipseal and rubber stopper in a suitable work area such as under a laminar flow hood (or equivalent clean air compounding area).
+The contents may then be withdrawn for preparation of a single, large-volume parenteral solution.
+Discard any unused portion in an appropriate manner.
