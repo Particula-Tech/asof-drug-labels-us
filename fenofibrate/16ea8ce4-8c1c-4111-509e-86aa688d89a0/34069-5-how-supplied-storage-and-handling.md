@@ -16,6 +16,8 @@ They are supplied as follows:
 
 Bottles of 30 NDC 55111-395-30
 
+Bottles of 90 NDC 55111-395-90
+
 Bottles of 100 NDC 55111-395-01
 
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
