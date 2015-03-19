@@ -6,7 +6,7 @@ A total of 612 pediatric patients aged 1 month to 12 years were enrolled in unco
 
 General
 
-Upon the addition of the diluent to the container, contents should be shaken immediately and vigorously.
+Upon the addition of the diluent to the container, contents should be shaken immediatelyand vigorously.
 Constituted solutions are not for multiple-dose use; should the entire volume in the container not be used for a single dose, the unused solution must be discarded.
 
 Depending upon the concentration of aztreonam and diluent used, constituted aztreonam for injection yields a colorless to light straw yellow solution which may develop a slight pink tint on standing (potency is not affected).
@@ -92,7 +92,7 @@ Aztreonam for Injection, USP, solutions at concentrations exceeding 2% w/v, exce
 Bolus Injection
 
 A bolus injection may be used to initiate therapy.
-The dose should be slowly injected directly into a vein, or the tubing of a suitable administration set, over a period of 3 to 5 minutes (see next paragraph regarding flushing of tubing).
+The dose should be slowlyinjected directly into a vein, or the tubing of a suitable administration set, over a period of 3 to 5 minutes (see next paragraph regarding flushing of tubing).
 
 Infusion
 

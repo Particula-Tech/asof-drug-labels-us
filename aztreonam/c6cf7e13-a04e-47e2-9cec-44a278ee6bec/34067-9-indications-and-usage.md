@@ -10,7 +10,7 @@ Urinary Tract Infections (complicated and uncomplicated), including pyelonephrit
 
 Lower Respiratory Tract Infections, including pneumonia and bronchitis caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Haemophilus influenzae, Proteus mirabilis, Enterobacter species and Serratia marcescens*.
 
-Septicemia caused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Proteus mirabilis*, Serratia marcescens* and Enterobacter species.
+Septicemiacaused by Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Proteus mirabilis*, Serratia marcescens* and Enterobacter species.
 
 Skin and Skin-Structure Infections, including those associated with postoperative wounds, ulcers and burns caused by Escherichia coli, Proteus mirabilis, Serratia marcescens, Enterobacter species, Pseudomonas aeruginosa, Klebsiella pneumoniae and Citrobacter species*.
 

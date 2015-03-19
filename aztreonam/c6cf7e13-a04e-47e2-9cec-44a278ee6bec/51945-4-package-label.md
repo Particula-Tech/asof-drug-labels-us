@@ -6,11 +6,11 @@ NDC 63323-401-20
 
 Aztreonam for Injection, USP
 
-1 gram*/vial
+1 gram* per vial
 
 Single Dose Vial
 
-For IV or IM use after constitution
+For Intravenous or Intramuscular use after constitution
 
 Rx only
 
@@ -22,10 +22,10 @@ NDC 63323-402-20
 
 Aztreonam for Injection, USP
 
-2 grams*/vial
+2 grams* per vial
 
 Single Dose Vial
 
-For IV or IM use after constitution
+For Intravenous or Intramuscular use after constitution
 
 Rx only
