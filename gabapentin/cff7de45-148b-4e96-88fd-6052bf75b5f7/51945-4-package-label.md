@@ -78,6 +78,6 @@ GREENSTONE® BRAND
 
 gabapentin oral solution
 
-250 mg / 5 mL
+250 mg per 5 mL
 
 Rx only
