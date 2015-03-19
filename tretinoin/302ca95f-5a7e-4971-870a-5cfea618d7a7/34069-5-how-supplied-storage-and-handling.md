@@ -10,8 +10,10 @@ AVITA® (tretinoin cream) Cream, 0.025% is supplied as:
 Storage Conditions: Store below 30°C (86°F).
 Avoid freezing.
 
+Keep this and all medications out of the reach of children.
+
 Rx Only
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised February 2009 023.4 Patent #’s: 5,700,483 and 5,650,171
+Revised November 2013 023.5 Patent #: 5,650,171
