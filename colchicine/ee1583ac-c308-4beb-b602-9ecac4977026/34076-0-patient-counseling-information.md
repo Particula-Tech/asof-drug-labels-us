@@ -20,4 +20,4 @@ Patients developing any of these signs or symptoms must discontinue colchicine c
 
 Manufactured by: West-Ward Pharmaceutical Corp. Eatontown, NJ 07724
 
-Revised: October 2014 Rx Only
+Revised: February 2015 Rx Only
