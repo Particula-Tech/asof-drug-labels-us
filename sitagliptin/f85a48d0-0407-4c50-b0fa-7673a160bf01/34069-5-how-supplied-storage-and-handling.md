@@ -25,6 +25,8 @@ NDC 0006-0277-31 unit-of-use bottles of 30
 
 NDC 0006-0277-54 unit-of-use bottles of 90
 
+NDC 0006-0277-02 unit-of-use blister calendar package of 30
+
 NDC 0006-0277-33 unit-of-use blister calendar package of 30
 
 NDC 0006-0277-28 unit dose blister packages of 100
