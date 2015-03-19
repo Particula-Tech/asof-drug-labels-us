@@ -34,19 +34,18 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 | --- | --- | --- | --- |
 | Adverse Reaction | % of Patients |  |  |
 |  | Pool of 12 Placebo-Controlled Studies |  |  |
-| Female genital mycotic infections* | 1.5 | 8.4 | 6.9 |
+| Female genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis, fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial. (N for females: Placebo=677, FARXIGA 5 mg=581, FARXIGA 10 mg=598). | 1.5 | 8.4 | 6.9 |
 | Nasopharyngitis | 6.2 | 6.6 | 6.3 |
-| Urinary tract infections† | 3.7 | 5.7 | 4.3 |
+| Urinary tract infectionsUrinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis. | 3.7 | 5.7 | 4.3 |
 | Back pain | 3.2 | 3.1 | 4.2 |
-| Increased urination‡ | 1.7 | 2.9 | 3.8 |
-| Male genital mycotic infections§ | 0.3 | 2.8 | 2.7 |
+| Increased urinationIncreased urination includes the following adverse reactions, listed in order of frequency reported: pollakiuria, polyuria, and urine output increased. | 1.7 | 2.9 | 3.8 |
+| Male genital mycotic infectionsGenital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis. (N for males: Placebo=716, FARXIGA 5 mg=564, FARXIGA 10 mg=595). | 0.3 | 2.8 | 2.7 |
 | Nausea | 2.4 | 2.8 | 2.5 |
 | Influenza | 2.3 | 2.7 | 2.3 |
 | Dyslipidemia | 1.5 | 2.1 | 2.5 |
 | Constipation | 1.5 | 2.2 | 1.9 |
 | Discomfort with urination | 0.7 | 1.6 | 2.1 |
 | Pain in extremity | 1.4 | 2.0 | 1.7 |
-| * Genital mycotic infections include the following adverse reactions, listed in order of frequency reported for females: vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis, fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial. (N for females: Placebo=677, FARXIGA 5 mg=581, FARXIGA 10 mg=598). † Urinary tract infections include the following adverse reactions, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis. ‡ Increased urination includes the following adverse reactions, listed in order of frequency reported: pollakiuria, polyuria, and urine output increased. § Genital mycotic infections include the following adverse reactions, listed in order of frequency reported for males: balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis. (N for males: Placebo=716, FARXIGA 5 mg=564, FARXIGA 10 mg=595). |  |  |  |
 
 ### Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg
 
@@ -63,7 +62,7 @@ Baseline renal function was normal or mildly impaired in 88% of patients and mod
 FARXIGA causes an osmotic diuresis, which may lead to reductions in intravascular volume.
 Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) are shown in Table 2 for the 12-study and 13-study, short-term, placebo-controlled pools [see Warnings and Precautions (5.1)].
 
-Table 2: Adverse Reactions of Volume Depletion* in Clinical Studies with FARXIGA
+Table 2: Adverse Reactions of Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Studies with FARXIGA
 
 |  | Placebo | FARXIGA 5 mg | FARXIGA 10 mg | Placebo | FARXIGA 10 mg |
 | --- | --- | --- | --- | --- | --- |
@@ -73,7 +72,6 @@ Table 2: Adverse Reactions of Volume Depletion* in Clinical Studies with FARXIGA
 | Patients on loop diuretics | n=55 1 (1.8%) | n=40 0 | n=31 3 (9.7%) | n=267 4 (1.5%) | n=236 6 (2.5%) |
 | Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=107 2 (1.9%) | n=107 1 (0.9%) | n=89 1 (1.1%) | n=268 4 (1.5%) | n=265 5 (1.9%) |
 | Patients ≥65 years of age | n=276 1 (0.4%) | n=216 1 (0.5%) | n=204 3 (1.5%) | n=711 6 (0.8%) | n=665 11 (1.7%) |
-| * Volume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. |  |  |  |  |  |
 
 ### Impairment of Renal Function
 
@@ -107,14 +105,13 @@ Table 3: Changes in Serum Creatinine and eGFR Associated with FARXIGA in the Poo
 
 Table 4: Proportion of Patients with at Least One Renal Impairment-Related Adverse Reaction
 
-| Baseline Characteristic | Placebo | FARXIGA 5 mg | FARXIGA 10 mg | Placebo | FARXIGA 10 mg |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Pool of 6 Placebo-Controlled Studies (up to 104 weeks)* |  |  | Pool of 9 Placebo-Controlled Studies (up to 104 weeks)† |  |  |  |  |  |  |
-| Overall population Patients (%) with at least one event | n=785 13 (1.7%) | n=767 14 (1.8%) | n=859 16 (1.9%) | n=1956 82 (4.2%) | n=2026 136 (6.7%) |  |  |  |  |  |
-| 65 years of age and older Patients (%) with at least one event | n=190 4 (2.1%) | n=162 5 (3.1%) | n=159 6 (3.8%) | n=655 52 (7.9%) | n=620 87 (14.0%) |  |  |  |  |  |
-| eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=77 5 (6.5%) | n=88 7 (8.0%) | n=75 9 (12.0%) | n=249 40 (16.1%) | n=251 71 (28.3%) |  |  |  |  |  |
-| 65 years of age and older and eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=41 2 (4.9%) | n=43 3 (7.0%) | n=35 4 (11.4%) | n=141 27 (19.1%) | n=134 47 (35.1%) |  |  |  |  |  |
-| * Subset of patients from the pool of 12 placebo-controlled studies with long-term extensions. † Subset of patients from the pool of 13 placebo-controlled studies with long-term extensions. |  |  |  |  |  |  |  |  |  |  |
+| Baseline Characteristic | Placebo | FARXIGA 5 mg | FARXIGA 10 mg | Placebo | FARXIGA 10 mg |
+| --- | --- | --- | --- | --- | --- |
+|  | Pool of 6 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 12 placebo-controlled studies with long-term extensions. |  |  | Pool of 9 Placebo-Controlled Studies (up to 104 weeks)Subset of patients from the pool of 13 placebo-controlled studies with long-term extensions. |  |
+| Overall population Patients (%) with at least one event | n=785 13 (1.7%) | n=767 14 (1.8%) | n=859 16 (1.9%) | n=1956 82 (4.2%) | n=2026 136 (6.7%) |
+| 65 years of age and older Patients (%) with at least one event | n=190 4 (2.1%) | n=162 5 (3.1%) | n=159 6 (3.8%) | n=655 52 (7.9%) | n=620 87 (14.0%) |
+| eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=77 5 (6.5%) | n=88 7 (8.0%) | n=75 9 (12.0%) | n=249 40 (16.1%) | n=251 71 (28.3%) |
+| 65 years of age and older and eGFR ≥30 and <60 mL/min/1.73 m2 Patients (%) with at least one event | n=41 2 (4.9%) | n=43 3 (7.0%) | n=35 4 (11.4%) | n=141 27 (19.1%) | n=134 47 (35.1%) |
 
 The safety of FARXIGA was evaluated in a study of patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) [see Clinical Studies (14)].
 In this study 13 patients experienced bone fractures for treatment durations up to 104 weeks.
@@ -128,32 +125,35 @@ There was no apparent pattern with respect to the anatomic site of fracture.
 The frequency of hypoglycemia by study [see Clinical Studies (14)] is shown in Table 5.
 Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.3)].
 
-Table 5: Incidence of Major* and Minor† Hypoglycemia in Placebo-Controlled Studies
+Table 5: Incidence of MajorMajor episodes of hypoglycemia were defined as symptomatic episodes requiring external (third party) assistance due to severe impairment in consciousness or behavior with a capillary or plasma glucose value <54 mg/dL and prompt recovery after glucose or glucagon administration. and MinorMinor episodes of hypoglycemia were defined as either a symptomatic episode with a capillary or plasma glucose measurement <63 mg/dL regardless of need for external assistance, or an asymptomatic capillary or plasma glucose measurement <63 mg/dL that does not qualify as a major episode.
+Hypoglycemia in Controlled Clinical Studies
 
-|  | Placebo | FARXIGA 5 mg | FARXIGA 10 mg |
+|  | Placebo/Active Control | FARXIGA 5 mg | FARXIGA 10 mg |
 | --- | --- | --- | --- |
-| Monotherapy* (24 weeks) | N=75 | N=64 | N=70 |
+| Monotherapy (24 weeks) | N=75 | N=64 | N=70 |
 | Major [n (%)] | 0 | 0 | 0 |
 | Minor [n (%)] | 0 | 0 | 0 |
-| Add-on to Metformin* (24 weeks) | N=137 | N=137 | N=135 |
+| Add-on to Metformin (24 weeks) | N=137 | N=137 | N=135 |
 | Major [n (%)] | 0 | 0 | 0 |
 | Minor [n (%)] | 0 | 2 (1.5) | 1 (0.7) |
 | Active Control Add-on to Metformin versus Glipizide (52 weeks) | N=408 | – | N=406 |
 | Major [n (%)] | 3 (0.7) | – | 0 |
 | Minor [n (%)] | 147 (36.0) | – | 7 (1.7) |
-| Add-on to Glimepiride* (24 weeks) | N=146 | N=145 | N=151 |
+| Add-on to Glimepiride (24 weeks) | N=146 | N=145 | N=151 |
 | Major [n (%)] | 0 | 0 | 0 |
 | Minor [n (%)] | 3 (2.1) | 8 (5.5) | 9 (6.0) |
-| Add-on to Pioglitazone* (24 weeks) | N=139 | N=141 | N=140 |
+| Add-on to Metformin and a Sulfonylurea (24 Weeks) | N=109 | - | N=109 |
+| Major [n (%)] | 0 | - | 0 |
+| Minor [n (%)] | 4 (3.7) | - | 14 (12.8) |
+| Add-on to Pioglitazone (24 weeks) | N=139 | N=141 | N=140 |
 | Major [n (%)] | 0 | 0 | 0 |
 | Minor [n (%)] | 0 | 3 (2.1) | 0 |
 | Add-on to DPP4 inhibitor (24 weeks) | N=226 | – | N=225 |
 | Major [n (%)] | 0 | – | 1 (0.4) |
 | Minor [n (%)] | 3 (1.3) | – | 4 (1.8) |
-| Add-on to Insulin with or without other OADs‡ (24 weeks) | N=197 | N=212 | N=196 |
+| Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy. (24 weeks) | N=197 | N=212 | N=196 |
 | Major [n (%)] | 1 (0.5) | 1 (0.5) | 1 (0.5) |
 | Minor [n (%)] | 67 (34.0) | 92 (43.4) | 79 (40.3) |
-| * Major episodes of hypoglycemia were defined as symptomatic episodes requiring external (third party) assistance due to severe impairment in consciousness or behavior with a capillary or plasma glucose value <54 mg/dL and prompt recovery after glucose or glucagon administration. † Minor episodes of hypoglycemia were defined as either a symptomatic episode with a capillary or plasma glucose measurement <63 mg/dL regardless of need for external assistance, or an asymptomatic capillary or plasma glucose measurement <63 mg/dL that does not qualify as a major episode. ‡ OAD = oral antidiabetic therapy. |  |  |  |
 
 ### Genital Mycotic Infections
 

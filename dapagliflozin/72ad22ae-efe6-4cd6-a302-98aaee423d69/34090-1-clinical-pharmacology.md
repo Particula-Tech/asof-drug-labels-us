@@ -11,7 +11,7 @@ By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and 
 ### General
 
 Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see Figure 1).
-Dapagliflozin dose of 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day at Week 12.
+Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day at Week 12.
 A near maximum glucose excretion was observed at the dapagliflozin daily dose of 20 mg.
 This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [see Adverse Reactions (6.1)].
 
@@ -91,9 +91,9 @@ No dose adjustments are recommended for dapagliflozin.
 
 Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| Cmax | AUC† |  |  |
+| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | --- | --- | --- | --- |
-| Coadministered Drug (Dose Regimen)* | Dapagliflozin (Dose Regimen)* | Effect on Dapagliflozin Exposure (% Change [90% CI]) |  |
+| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure (% Change [90% CI]) |  |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↔ | ↔ |
@@ -110,7 +110,7 @@ Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 | Rifampin (600 mg once daily for 6 days) | 10 mg | ↓7% [↓22%, ↑11%] | ↓22% [↓27%, ↓17%] |
 | Nonsteroidal Anti-inflammatory Agent |  |  |  |
 | Mefenamic Acid (loading dose of 500 mg followed by 14 doses of 250 mg every 6 hours) | 10 mg | ↑13% [↑3%, ↑24%] | ↑51% [↑44%, ↑58%] |
-| * Single dose unless otherwise noted. † AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. ↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25). |  |  |  |
+| ↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25) |  |  |  |
 
 #### Effects of Dapagliflozin on Other Drugs
 
@@ -119,9 +119,9 @@ Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadminist
 
 Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| Cmax | AUC† |  |  |
+| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | --- | --- | --- | --- |
-| Coadministered Drug (Dose Regimen)* | Dapagliflozin (Dose Regimen)* | Effect on Coadministered Drug Exposure (% Change [90% CI]) |  |
+| Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Coadministered Drug Exposure (% Change [90% CI]) |  |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↔ | ↔ |
@@ -135,4 +135,4 @@ Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Dr
 | Simvastatin (40 mg) | 20 mg | ↔ | ↑19% |
 | Digoxin (0.25 mg) | 20 mg loading dose then 10 mg once daily for 7 days | ↔ | ↔ |
 | Warfarin (25 mg) | 20 mg loading dose then 10 mg once daily for 7 days | ↔ | ↔ |
-| * Single dose unless otherwise noted. † AUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. ↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25). |  |  |  |
+| ↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25). |  |  |  |

@@ -15,4 +15,4 @@ FARXIGA should not be initiated in patients with an eGFR less than 60 mL/min/1.7
 
 No dose adjustment is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m2 or greater).
 
-FARXIGA should be discontinued when eGFR is persistently less than 60 mL/min/1.73 m2 [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+FARXIGA should be discontinued when eGFR is persistently less than 60 mL/min/1.73 m2[seeWarnings and Precautions (5.2)andUse in Specific Populations (8.6)].

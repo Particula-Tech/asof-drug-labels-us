@@ -1,4 +1,4 @@
-# MEDICATION GUIDE FARXIGA (far-SEE-guh) (dapagliflozin) tablets
+MEDICATION GUIDE FARXIGA® (far-SEE-guh) (dapagliflozin) tablets
 
 What is the most important information I should know about FARXIGA?
 
@@ -158,5 +158,5 @@ Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
 
 Product of Ireland
 
-Farxiga is a registered trademark if the AstraZeneca group of companies.
-Revised: August 2014
+Farxiga is a registered trademark of the AstraZeneca group of companies.
+Revised: March 2015

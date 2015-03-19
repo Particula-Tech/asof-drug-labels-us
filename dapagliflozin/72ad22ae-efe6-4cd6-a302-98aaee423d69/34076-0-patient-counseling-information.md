@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Medication Guide).
 
-### Instructions
+Instructions
 
 Instruct patients to read the Medication Guide before starting treatment with FARXIGA and to reread it each time the prescription is renewed.
 
@@ -22,37 +22,37 @@ Based on animal data, FARXIGA may cause fetal harm in the second and third trime
 Instruct patient to immediately inform her healthcare provider if she is breastfeeding or planning to breastfeed.
 It is not known if FARXIGA is excreted in breast milk; however, based on animal data, FARXIGA may cause harm to nursing infants.
 
-### Hypotension
+Hypotension
 
 Inform patients that symptomatic hypotension may occur with FARXIGA and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
-### Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
+Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
 
 Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.4)].
 
-### Genital Mycotic Infections in Males (e.g., Balanitis)
+Genital Mycotic Infections in Males (e.g., Balanitis)
 
 Inform male patients that yeast infections of the penis (e.g., balanitis or balanoposthitis) may occur, especially in patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.4)].
 
-### Hypersensitivity Reactions
+Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions (e.g., urticaria and angioedema) have been reported with FARXIGA.
 Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
 
-### Urinary Tract Infections
+Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur.
 
-### Bladder Cancer
+Bladder Cancer
 
 Inform patients to promptly report any signs of macroscopic hematuria or other symptoms potentially related to bladder cancer.
 
-### Laboratory Tests
+Laboratory Tests
 
 Due to its mechanism of action, patients taking FARXIGA will test positive for glucose in their urine.
