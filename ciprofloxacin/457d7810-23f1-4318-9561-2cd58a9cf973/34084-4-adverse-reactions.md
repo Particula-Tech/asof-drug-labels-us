@@ -67,17 +67,17 @@ At the end of 1 year, the rate of these adverse reactions reported at any time d
 
 Table 6: Musculoskeletal Adverse ReactionsIncluded: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder) as Assessed by the IPSC
 
-|  |  |  | CIPRO | Comparator |
-| --- | --- | --- | --- | --- |
-| All Patients (within 6 weeks) | 31/335 (9.3%) |  | 21/349 (6%) |  |
-| 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the CIPRO group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |  |  |
-| Age Group |  |  |  |  |
-| 12 months to 24 months | 1/36 (2.8%) |  | 0/41 |  |
-| 2 years to <6 years | 5/124 (4%) |  | 3/118 (2.5%) |  |
-| 6 years to <12 years | 18/143 (12.6%) |  | 12/153 (7.8%) |  |
-| 12 years to 17 years | 7/32 (21.9%) |  | 6/37 (16.2 %) |  |
-| All Patients (within 1 year) | 46/335 (13.7%) |  | 33/349 (9.5%) |  |
-| 95% Confidence Interval | (-0.6%, + 9.1%) |  |  |  |
+|  |  | CIPRO | Comparator |
+| --- | --- | --- | --- |
+| All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |  |
+| 95% Confidence IntervalThe study was designed to demonstrate that the arthropathy rate for the CIPRO group did not exceed that of the control group by more than + 6%. At both the 6 week and 1 year evaluations, the 95% confidence interval indicated that it could not be concluded that the ciprofloxacin group had findings comparable to the control group. | (-0.8%, +7.2%) |  |  |
+| Age Group |  |  |  |
+| 12 months to 24 months | 1/36 (2.8%) | 0/41 |  |
+| 2 years to <6 years | 5/124 (4%) | 3/118 (2.5%) |  |
+| 6 years to <12 years | 18/143 (12.6%) | 12/153 (7.8%) |  |
+| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |  |
+| All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |  |
+| 95% Confidence Interval | (-0.6%, + 9.1%) |  |  |
 
 The incidence rates of neurological adverse reactions within 6 weeks of treatment initiation were 3% (9/335) in the ciprofloxacin group versus 2% (7/349) in the comparator group and included dizziness, nervousness, insomnia, and somnolence.
 
