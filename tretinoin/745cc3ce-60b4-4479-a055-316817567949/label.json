@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA017340",
+    "NDA017522",
+    "NDA019049"
+  ],
+  "inn": "tretinoin",
+  "labeler": "OMP, INC.",
+  "package_ndcs": [
+    "62032-412-20",
+    "62032-414-20",
+    "62032-417-20"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin",
+      "name": "Tretinoin Cream"
+    }
+  ],
+  "setid": "745cc3ce-60b4-4479-a055-316817567949",
+  "source": "dailymed"
+}

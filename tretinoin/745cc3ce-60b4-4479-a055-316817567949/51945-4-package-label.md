@@ -1,0 +1,59 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- Tretinoin Cream 0.1%
+
+NDC 62032-417-20
+
+Rx ONLY.
+
+OBAGI®
+
+MEDICAL
+
+Tretinoin Cream 0.1%
+
+USP 0.1%
+
+FOR TOPICAL USE ONLY.
+
+Net wt.
+0.7 oz.
+(20 g)
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-Tretinoin Cream 0.05%
+
+NDC 62032-412-20
+
+Rx ONLY.
+
+OBAGI®
+
+MEDICAL
+
+Tretinoin Cream 0.05%
+
+USP 0.05%
+
+FOR TOPICAL USE ONLY.
+
+Net wt.
+0.7 oz.
+(20 g)
+
+# PRINCIPAL DISPLAY PANEL- Tretinoin Cream 0.025%
+
+NDC 62032-414-20
+
+Rx ONLY.
+
+OBAGI®
+
+MEDICAL
+
+Tretinoin Cream 0.025%
+
+USP 0.025%
+
+FOR TOPICAL USE ONLY.
+
+Net wt.
+0.7 oz.
+(20 g)
