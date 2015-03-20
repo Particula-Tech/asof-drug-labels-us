@@ -4,7 +4,7 @@
 
 ### Pregnancy Category C
 
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well‑controlled studies in pregnant women.
 Pegfilgrastim was embryotoxic and increased pregnancy loss in pregnant rabbits that received cumulative doses approximately 4 times the recommended human dose (based on body surface area).
 Signs of maternal toxicity occurred at these doses.
 Neulasta should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.

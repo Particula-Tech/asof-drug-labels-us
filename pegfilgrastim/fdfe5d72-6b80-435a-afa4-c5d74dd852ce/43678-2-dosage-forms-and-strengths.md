@@ -1,3 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-6 mg per 0.6 mL in single use prefilled syringe.
+- Injection: 6 mg/0.6 mL solution in a single use prefilled syringe for manual use only.
+- Injection: 6 mg/0.6 mL solution in a single use prefilled syringe co-packaged with the On-body Injector for Neulasta (Neulasta Delivery Kit).

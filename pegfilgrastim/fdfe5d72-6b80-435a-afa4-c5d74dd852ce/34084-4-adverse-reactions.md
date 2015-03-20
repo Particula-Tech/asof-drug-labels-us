@@ -5,8 +5,8 @@ The following serious adverse reactions are discussed in greater detail in other
 - Splenic Rupture [See Warnings and Precautions (5.1)]
 - Acute Respiratory Distress Syndrome [See Warnings and Precautions (5.2)]
 - Serious Allergic Reactions [See Warnings and Precautions (5.3)]
-- Use in Patients with Sickle Cell Disorders [See Warnings and Precautions (5.4)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [See Warnings and Precautions (5.5)]
+- Use in Patients with Sickle Cell Disorders [See Warnings and Precautions (5.5)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [See Warnings and Precautions (5.6)]
 
 The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo controlled clinical trials are bone pain and pain in extremity.
 
@@ -30,7 +30,7 @@ Bone pain and pain in extremity occurred at a higher incidence in Neulasta-treat
 Table 1.
 Adverse Reactions With ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
 
-| System Organ ClassPreferred Term | Placebo(N= 461) | Neulasta 6 mg SC on Day 2(N= 467) |
+| System Organ Class Preferred Term | Placebo (N= 461) | Neulasta 6 mg SC on Day 2 (N= 467) |
 | --- | --- | --- |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 26% | 31% |
@@ -38,7 +38,7 @@ Adverse Reactions With ≥ 5% Higher Incidence in Neulasta Patients Compared to 
 
 ### Leukocytosis
 
-In clinical studies, leukocytosis (WBC counts > 100 x 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving Neulasta.
+In clinical studies, leukocytosis (WBC counts > 100 x 109/L) was observed in less than 1% of 932 patients with non‑myeloid malignancies receiving Neulasta.
 No complications attributable to leukocytosis were reported in clinical studies.
 
 ## 6.2 Immunogenicity
@@ -48,7 +48,7 @@ Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
 The approximate limit of detection for this assay is 500 ng/mL.
 Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
 Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
-None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.
+None of these 4 patients had evidence of neutralizing antibodies detected using a cell‑based bioassay.
 
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to Neulasta with the incidence of antibodies to other products may be misleading.
@@ -61,7 +61,7 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Gastro-intestinal disorders: Splenic rupture [see Warnings and Precautions (5.1)]
 
-Blood and lymphatic system disorder: Sickle cell crisis [see Warnings and Precautions (5.4)]
+Blood and lymphatic system disorder: Sickle cell crisis [see Warnings and Precautions (5.5)]
 
 Hypersensitivity reactions: Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, and urticaria, generalized erythema and flushing [see Warnings and Precautions (5.3)]
 

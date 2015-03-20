@@ -12,9 +12,10 @@ Neutrophil receptor binding is an important component of the clearance of pegfil
 In addition to numbers of neutrophils, body weight appeared to be a factor.
 Patients with higher body weights experienced higher systemic exposure to pegfilgrastim after receiving a dose normalized for body weight.
 A large variability in the pharmacokinetics of pegfilgrastim was observed.
-The half-life of Neulasta ranged from 15 to 80 hours after subcutaneous injection.
+The half‑life of Neulasta ranged from 15 to 80 hours after subcutaneous injection.
+In healthy volunteers, the pharmacokinetics of pegfilgrastim were comparable when delivered subcutaneously via a manual prefilled syringe versus via the On-body Injector for Neulasta.
 
-No gender-related differences were observed in the pharmacokinetics of pegfilgrastim, and no differences were observed in the pharmacokinetics of geriatric patients (≥ 65 years of age) compared with younger patients (< 65 years of age) [see Use in Specific Populations (8.5)].
+No gender‑related differences were observed in the pharmacokinetics of pegfilgrastim, and no differences were observed in the pharmacokinetics of geriatric patients (≥ 65 years of age) compared with younger patients (< 65 years of age) [see Use in Specific Populations (8.5)].
 The pharmacokinetics of pegfilgrastim were studied in pediatric patients with sarcoma [see Use in Specific Populations (8.4)].
 Renal dysfunction had no effect on the pharmacokinetics of pegfilgrastim.
 [see Use in Specific Populations (8.6)].

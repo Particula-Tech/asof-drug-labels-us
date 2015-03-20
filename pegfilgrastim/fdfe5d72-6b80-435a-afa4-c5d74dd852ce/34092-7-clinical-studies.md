@@ -1,16 +1,16 @@
 # 14 CLINICAL STUDIES
 
-Neulasta was evaluated in three randomized, double blind, controlled studies.
+Neulasta was evaluated in three randomized, double‑blind, controlled studies.
 Studies 1 and 2 were active-controlled studies that employed doxorubicin 60 mg/m2 and docetaxel 75 mg/m2 administered every 21 days for up to 4 cycles for the treatment of metastatic breast cancer.
 Study 1 investigated the utility of a fixed dose of Neulasta.
-Study 2 employed a weight-adjusted dose.
+Study 2 employed a weight‑adjusted dose.
 In the absence of growth factor support, similar chemotherapy regimens have been reported to result in a 100% incidence of severe neutropenia (ANC < 0.5 x 109/L) with a mean duration of 5 to 7 days and a 30% to 40% incidence of febrile neutropenia.
 Based on the correlation between the duration of severe neutropenia and the incidence of febrile neutropenia found in studies with filgrastim, duration of severe neutropenia was chosen as the primary endpoint in both studies, and the efficacy of Neulasta was demonstrated by establishing comparability to filgrastim-treated patients in the mean days of severe neutropenia.
 
 In Study 1, 157 patients were randomized to receive a single subcutaneous injection of Neulasta (6 mg) on day 2 of each chemotherapy cycle or daily subcutaneous filgrastim (5 mcg/kg/day) beginning on day 2 of each chemotherapy cycle.
 In Study 2, 310 patients were randomized to receive a single subcutaneous injection of Neulasta (100 mcg/kg) on day 2 or daily subcutaneous filgrastim (5 mcg/kg/day) beginning on day 2 of each chemotherapy cycle.
 
-Both studies met the major efficacy outcome measure of demonstrating that the mean days of severe neutropenia of Neulasta-treated patients did not exceed that of filgrastim-treated patients by more than 1 day in cycle 1 of chemotherapy.
+Both studies met the major efficacy outcome measure of demonstrating that the mean days of severe neutropenia of Neulasta‑treated patients did not exceed that of filgrastim‑treated patients by more than 1 day in cycle 1 of chemotherapy.
 The mean days of cycle 1 severe neutropenia in Study 1 were 1.8 days in the Neulasta arm compared to 1.6 days in the filgrastim arm [difference in means 0.2 (95% CI -0.2, 0.6)] and in Study 2 were 1.7 days in the Neulasta arm compared to 1.6 days in the Filgrastim arm [difference in means 0.1 (95% CI -0.2, 0.4)].
 
 A secondary endpoint in both studies was days of severe neutropenia in cycles 2 through 4 with results similar to those for cycle 1.
