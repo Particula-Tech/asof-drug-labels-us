@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Buprenorphine HCl sublingual tablets contain buprenorphine.
+Buprenorphine sublingual tablets contain buprenorphine.
 Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
 
 ## 12.2 Pharmacodynamics
@@ -15,7 +15,7 @@ Both active drugs produced typical opioid agonist effects.
 For all measures for which the drugs produced an effect, buprenorphine produced a dose-related response.
 However, in each case, there was a dose that produced no further effect.
 In contrast, the highest dose of the full agonist control always produced the greatest effects.
-Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8-32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
+Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8 to 32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
 The onset of effects appeared more rapidly with buprenorphine than with the full agonist control, with most doses nearing peak effect after 100 minutes for buprenorphine compared to 150 minutes for the full agonist control.
 
 Physiologic Effects: Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses have been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory and subjective effects at doses comparable to those used for treatment of opioid dependence.
@@ -31,11 +31,11 @@ Both drugs decreased O2 saturation to the same degree.
 
 ## 12.3 Pharmacokinetics
 
-Absorption: Plasma levels of buprenorphine increased with the sublingual dose of buprenorphine HCl sublingual tablets (Table 3).
+Absorption: Plasma levels of buprenorphine increased with the sublingual dose of buprenorphine sublingual tablets (Table 3).
 There was wide inter-patient variability in the sublingual absorption of buprenorphine, but within subjects the variability was low.
 Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 to 16 mg), although the increase was not directly dose-proportional.
 
-Table 3: Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine After the Sublingual Administration of Buprenorphine HCl Sublingual Tablets
+Table 3: Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine After the Sublingual Administration of Buprenorphine Sublingual Tablets
 
 | Dose | Analyte | Mean SD | Cmax (ng/mL) | Tmax (h) | AUCinf (h•ng/mL) | t1/2 (h) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Distribution: Buprenorphine is approximately 96% protein bound, primarily to alp
 Metabolism: Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
-Norbuprenorphine has been found to bind opioid receptors in-vitro; however, it has not been studied clinically for opioid-like activity.
+Norbuprenorphine has been found to bind opioid receptors in vitro; however, it has not been studied clinically for opioid-like activity.
 
 Elimination: A mass balance study of buprenorphine showed complete recovery of radiolabel in urine (30%) and feces (69%) collected up to 11 days after dosing.
 Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorphine, and two unidentified buprenorphine metabolites.
@@ -60,8 +60,32 @@ In feces, almost all of the buprenorphine and norbuprenorphine were free (bupren
 
 Buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35 hours.
 
-Drug-drug interactions: CYP3A4 Inhibitors and Inducers: Subjects receiving buprenorphine HCl sublingual tablets should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
-The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving buprenorphine HCl sublingual tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7.1)].
+Drug-drug Interactions: CYP3A4 Inhibitors and Inducers: Subjects receiving buprenorphine sublingual tablets should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
+The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving buprenorphine sublingual tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered.
+[see Drug Interactions (7.1)]
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
+
+Special Populations: Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0/0.5 mg buprenorphine and naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.
+
+In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
+No dose adjustment is needed in patients with mild hepatic impairment.
+
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 4).
+[see Warnings and Precautions (5.11) and Use in Specific Populations (8.6)]
+
+Table 4: Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
+
+| Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects |
+| --- | --- | --- |
+| Moderate | Cmax | 8% |
+|  | AUC0-last | 64% |
+|  | Half-life | 35% |
+| Severe | Cmax | 72% |
+|  | AUC0-last | 181% |
+|  | Half-life | 57% |
+
+HCV infection: In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
+No dose adjustment is needed in patients with HCV infection.

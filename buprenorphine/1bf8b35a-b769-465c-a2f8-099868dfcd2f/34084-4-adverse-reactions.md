@@ -4,18 +4,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Adverse Events in Clinical Trials
 
-The safety of buprenorphine HCl sublingual tablets was supported by clinical trials using buprenorphine HCl sublingual tablets, buprenorphine and naloxone sublingual tablets and other trials using buprenorphine sublingual solutions.
+The safety of buprenorphine sublingual tablets was supported by clinical trials using buprenorphine sublingual tablets, buprenorphine and naloxone sublingual tablets and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
 
-Few differences in adverse event profile were noted between buprenorphine HCl sublingual tablets or buprenorphine administered as a sublingual solution.
+Few differences in adverse event profile were noted between buprenorphine sublingual tablets or buprenorphine administered as a sublingual solution.
 
 The following adverse events were reported to occur by at least 5% of patients in a 4-week study (Table 1).
 
-Table 1: Adverse Events >5% by Body System and Treatment Group in a 4-Week Study
+Table 1: Adverse Events ≥5% by Body System and Treatment Group in a 4-Week Study
 
 |  | N(%) | N(%) |
 | --- | --- | --- |
-| Body System / Adverse Event (COSTART Terminology) | Buprenorphine HCl 16mg/day N=103 | Placebo N=107 |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine 16mg/day N=103 | Placebo N=107 |
 | Body as a Whole |  |  |
 | Asthenia | 5 (4.9%) | 7 (6.5%) |
 | Chills | 8 (7.8%) | 8 (7.5%) |
@@ -42,7 +42,7 @@ Table 1: Adverse Events >5% by Body System and Treatment Group in a 4-Week Study
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
 Table 2 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study.
 
-Table 2: Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-Week Study
+Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week Study
 
 | Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg; "Low" dose (4 mg solution) approximates a 6 mg tablet dose; "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose; "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ Table 2: Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-Week
 | Flu Syndrome | 4 (2%) | 13 (7%) | 19 (10%) | 8 (4%) | 44 (6%) |
 | Headache | 51 (28%) | 62 (34%) | 54 (29%) | 53 (29%) | 220 (30%) |
 | Infection | 32 (17%) | 39 (22%) | 38 (20%) | 40 (22%) | 149 (20%) |
-| Injury Accidental | 5 (3%) | 10(6%) | 5 (3%) | 5 (3%) | 25 (3%) |
+| Injury Accidental | 5 (3%) | 10 (6%) | 5 (3%) | 5 (3%) | 25 (3%) |
 | Pain | 47 (26%) | 37 (21%) | 49 (26%) | 44 (24%) | 177 (24%) |
 | Pain Back | 18 (10%) | 29 (16%) | 28 (15%) | 27 (15%) | 102 (14%) |
 | Withdrawal Syndrome | 45 (24%) | 40 (22%) | 41 (22%) | 36 (20%) | 162 (22%) |
@@ -72,7 +72,7 @@ Table 2: Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-Week
 | Dizziness | 4 (2%) | 9 (5%) | 7 (4%) | 11 (6%) | 31 (4%) |
 | Insomnia | 42 (23%) | 50 (28%) | 43 (23%) | 51 (28%) | 186 (25%) |
 | Nervousness | 12 (7%) | 11 (6%) | 10 (5%) | 13 (7%) | 46 (6%) |
-| Somnolence | 5 (3%) | 13(7%) | 9 (5%) | 11 (6%) | 38 (5%) |
+| Somnolence | 5 (3%) | 13 (7%) | 9 (5%) | 11 (6%) | 38 (5%) |
 | Respiratory System |  |  |  |  |  |
 | Cough Increase | 5 (3%) | 11 (6%) | 6 (3%) | 4 (2%) | 26 (4%) |
 | Pharyngitis | 6 (3%) | 7 (4%) | 6 (3%) | 9 (5%) | 28 (4%) |
@@ -82,6 +82,6 @@ Table 2: Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-Week
 | Special Senses |  |  |  |  |  |
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
 
-## 6.2 Adverse Events - Post-marketing Experience with Buprenorphine HCl Sublingual Tablets
+## 6.2 Adverse Events - Post-marketing Experience with Buprenorphine Sublingual Tablets
 
-The most frequently reported post-marketing adverse events with buprenorphine HCl sublingual tablets not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+The most frequently reported post-marketing adverse events with buprenorphine sublingual tablets not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.

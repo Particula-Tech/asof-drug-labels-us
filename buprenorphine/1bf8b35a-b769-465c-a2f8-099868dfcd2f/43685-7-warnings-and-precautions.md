@@ -13,26 +13,26 @@ Multiple refills should not be prescribed early in treatment or without appropri
 Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
 Many, but not all post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self-injection.
 Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
-Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with buprenorphine HCl sublingual tablets.
+Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with buprenorphine sublingual tablets.
 [see Drug Interactions (7.3)]
 
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
 Naloxone may be of value for the management of buprenorphine overdose.
 Higher than normal doses and repeated administration may be necessary.
 
-Buprenorphine HCl sublingual tablets should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
+Buprenorphine sublingual tablets should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
 ## 5.3 CNS Depression
 
 Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics or other CNS depressants (including alcohol) may exhibit increased CNS depression.
-Consider dose reduction of CNS depressants, buprenorphine HCl sublingual tablets, or both in situations of concomitant prescription.
+Consider dose reduction of CNS depressants, buprenorphine sublingual tablets, or both in situations of concomitant prescription.
 [see Drug Interactions (7.3)]
 
 ## 5.4 Unintentional Pediatric Exposure
 
 Buprenorphine can cause severe, possibly fatal, respiratory depression in children who are accidentally exposed to it.
 Store buprenorphine-containing medications safely out of the sight and reach of children and destroy any unused medication appropriately.
-[see Disposal of Unused Buprenorphine HCl Sublingual Tablets (17.2)]
+[see Patient Counseling (17)]
 
 ## 5.5 Dependence
 
@@ -53,18 +53,18 @@ The possibility exists that buprenorphine had a causative or contributory role i
 Liver function tests, prior to initiation of treatment is recommended to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
-Depending on the case, buprenorphine HCl sublingual tablets may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
+Depending on the case, buprenorphine sublingual tablets may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
 
 ## 5.7 Allergic Reactions
 
 Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the post-marketing experience.
 Cases of bronchospasm, angioneutrotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
-A history of hypersensitivity to buprenorphine is a contraindication to the use of buprenorphine HCl sublingual tablets.
+A history of hypersensitivity to buprenorphine is a contraindication to the use of buprenorphine sublingual tablets.
 
 ## 5.8 Precipitation of Opioid Withdrawal Signs and Symptoms
 
-Because of the partial agonist properties of buprenorphine, buprenorphine HCl sublingual tablets may precipitate opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists if administered sublingually or parenterally before the agonist effects of other opioids have subsided.
+Because of the partial agonist properties of buprenorphine, buprenorphine sublingual tablets may precipitate opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists if administered sublingually or parenterally before the agonist effects of other opioids have subsided.
 
 ## 5.9 Neonatal Withdrawal
 
@@ -75,30 +75,37 @@ Adverse events associated with the neonatal withdrawal syndrome included hyperto
 ## 5.10 Use in Opioid Naïve Patients
 
 There have been reported deaths of opioid naïve individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
-Buprenorphine HCl sublingual tablets are not appropriate as an analgesic.
+Buprenorphine sublingual tablets are not appropriate as an analgesic.
 
-## 5.11 Impairment of Ability to Drive or Operate Machinery
+## 5.11 Use in Patients With Impaired Hepatic Function
 
-Buprenorphine HCl sublingual tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
+In a pharmacokinetic study, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
+
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
+[see Dosage and Administration (2.5) and Use in Specific Populations (8.6)]
+
+## 5.12 Impairment of Ability to Drive or Operate Machinery
+
+Buprenorphine sublingual tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
 Patients should be cautioned about driving or operating hazardous machinery until they are reasonably certain that buprenorphine therapy does not adversely affect his or her ability to engage in such activities.
 
-## 5.12 Orthostatic Hypotension
+## 5.13 Orthostatic Hypotension
 
-Like other opioids, buprenorphine HCl sublingual tablets may produce orthostatic hypotension in ambulatory patients.
+Like other opioids, buprenorphine sublingual tablets may produce orthostatic hypotension in ambulatory patients.
 
-## 5.13 Elevation of Cerebrospinal Fluid Pressure
+## 5.14 Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.14 Elevation of Intracholedochal Pressure
+## 5.15 Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.15 Effects in Acute Abdominal Conditions
+## 5.16 Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-## 5.16 General Precautions
+## 5.17 General Precautions
 
-Buprenorphine HCl sublingual tablets should be administered with caution in debilitated patients and those with myxedema or hypothyroidism; adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.
+Buprenorphine sublingual tablets should be administered with caution in debilitated patients and those with myxedema or hypothyroidism; adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.
