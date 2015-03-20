@@ -8,9 +8,9 @@ Davey, DA, and Dommisse, J: S.A.
 Med J, Oct.
 4, 1980 (551-556).
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-E 11/2013
+F 3/2015

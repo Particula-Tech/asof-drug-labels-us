@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Prazosin hydrochloride, a quinazoline derivative, is the first of a new chemical class of antihypertensives.
+Prazosin hydrochloride, USP a quinazoline derivative, is the first of a new chemical class of antihypertensives.
 It is the hydrochloride salt of 1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(2-furoyl) piperazine and its structural formula is:
 
 C19H21N5O4•HCl M.W.

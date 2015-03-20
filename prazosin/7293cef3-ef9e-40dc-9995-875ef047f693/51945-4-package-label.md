@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Prazosin Hydrochloride Capsules 1 mg 100s Label Text
 
@@ -12,7 +12,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Prazosin Hydrochloride Capsules 2 mg 100s Label Text
 
@@ -26,7 +26,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Prazosin Hydrochloride Capsules 5 mg 100s Label Text
 
