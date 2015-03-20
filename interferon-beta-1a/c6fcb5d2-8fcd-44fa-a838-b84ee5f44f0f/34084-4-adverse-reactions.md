@@ -67,6 +67,7 @@ Adverse Reactions and Laboratory Abnormalities in Study 1
 | SKIN DISORDERS |  |  |  |
 | Rash Erythematous | 3 | 7 | 5 |
 | Rash Maculo-Papular | 2 | 5 | 4 |
+| Hyperhidrosis | 2 | 4 | 4 |
 | URINARY SYSTEM DISORDERS |  |  |  |
 | Micturition Frequency | 4 | 2 | 7 |
 | Urinary Incontinence | 2 | 4 | 2 |
