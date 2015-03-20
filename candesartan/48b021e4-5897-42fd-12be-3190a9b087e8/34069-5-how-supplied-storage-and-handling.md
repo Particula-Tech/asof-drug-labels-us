@@ -3,14 +3,10 @@
 No. 3825 — Tablets ATACAND HCT 16-12.5, are peach, oval, biconvex, non-film-coated tablets, scored on both sides and coded with ACS on one side.
 They are supplied as follows:
 
-NDC 0186-0162-28 unit dose packages of 100.
-
 NDC 0186-0162-54 unit of use bottles of 90.
 
 No. 3826 — Tablets ATACAND HCT 32-12.5, are yellow, oval, biconvex, non-film-coated tablets, scored on both sides and coded with ACJ on one side.
 They are supplied as follows:
-
-NDC 0186-0322-28 unit dose packages of 100.
 
 NDC 0186-0322-54 unit of use bottles of 90.
 
