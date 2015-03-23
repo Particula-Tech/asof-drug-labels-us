@@ -11,6 +11,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 DISPENSE IN TIGHT, LIGHT-RESISTANT CONTAINER.
 
-Manufactured by: MUTUAL PHARMACEUTICAL COMPANY, INC. Philadelphia, PA 19124 USA
+Manufactured by: Mutual Pharmaceutical Company, Inc. Philadelphia, PA 19124
 
-Rev 01, October 2009
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+
+Rev 02, February 2015

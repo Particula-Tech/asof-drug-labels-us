@@ -8,4 +8,4 @@ In rats, the acute LD50 is 750 mg/kg IP and 6000 mg/kg PO (approximately 1200 ti
 In the management of overdosage there is no specific antidote for allopurinol.
 There has been no clinical experience in the management of a patient who has taken massive amounts of allopurinol.
 
-Both allopurinol and oxipurinol are dialyzable; however, the usefulness of hemodialysis or peritoneal dialysis in the management of an allopurinol overdose is unknown.
+Both allopurinol and oxipurinol are dialyzable; however, the usefulness of hemodialysis or peritoneal dialysis in the management of an overdose of allopurinol is unknown.

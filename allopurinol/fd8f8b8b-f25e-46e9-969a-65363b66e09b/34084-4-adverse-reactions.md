@@ -21,54 +21,54 @@ Analyses of current usage suggest that the incidence of these adverse reactions 
 The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 Probably Causally Related:
 
-Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, SGOT/SGPT increase.
+- Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, SGOT/SGPT increase.
 
-Metabolic and Nutritional: Acute attacks of gout.
+- Metabolic and Nutritional: Acute attacks of gout.
 
-Skin and Appendages: Rash, maculopapular rash.
+- Skin and Appendages: Rash, maculopapular rash.
 
 Incidence Less Than 1% Probably Causally Related:
 
-Body as a whole: Ecchymosis, fever, headache.
+- Body As a Whole: Ecchymosis, fever, headache.
 
-Cardiovascular: Necrotizing angiitis, vasculitis.
+- Cardiovascular: Necrotizing angiitis, vasculitis.
 
-Gastrointestinal: Hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain, gastritis, dyspepsia.
+- Gastrointestinal: Hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain, gastritis, dyspepsia.
 
-Hemic and Lymphatic: Thrombocytopenia, eosinophilia, leukocytosis, leukopenia.
+- Hemic and Lymphatic: Thrombocytopenia, eosinophilia, leukocytosis, leukopenia.
 
-Musculoskeletal: Myopathy, arthralgias.
+- Musculoskeletal: Myopathy, arthralgias.
 
-Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
+- Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
 
-Respiratory: Epistaxis.
+- Respiratory: Epistaxis.
 
-Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell's syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
+- Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell's syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
 
-Special Senses: Taste loss/perversion.
+- Special Senses: Taste loss/perversion.
 
-Urogenital: Renal failure, uremia (see PRECAUTIONS).
+- Urogenital: Renal failure, uremia (see PRECAUTIONS).
 
 Incidence Less Than 1% Causal Relationship Unknown:
 
-Body as a whole: Malaise.
+- Body As a Whole: Malaise.
 
-Cardiovascular: Pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation.
+- Cardiovascular: Pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation.
 
-Endocrine: Infertility (male), hypercalcemia, gynecomastia (male).
+- Endocrine: Infertility (male), hypercalcemia, gynecomastia (male).
 
-Gastrointestinal: Hemorrhagic pancreatitis, gastrointestinal bleeding, stomatitis, salivary gland swelling, hyperlipidemia, tongue edema, anorexia.
+- Gastrointestinal: Hemorrhagic pancreatitis, gastrointestinal bleeding, stomatitis, salivary gland swelling, hyperlipidemia, tongue edema, anorexia.
 
-Hemic and Lymphatic: Aplastic anemia, agranulocytosis, eosinophilic fibrohistiocytic lesion of bone marrow, pancytopenia, prothrombin decrease, anemia, hemolytic anemia, reticulocytosis, lymphadenopathy, lymphocytosis.
+- Hemic and Lymphatic: Aplastic anemia, agranulocytosis, eosinophilic fibrohistiocytic lesion of bone marrow, pancytopenia, prothrombin decrease, anemia, hemolytic anemia, reticulocytosis, lymphadenopathy, lymphocytosis.
 
-Musculoskeletal: Myalgia.
+- Musculoskeletal: Myalgia.
 
-Nervous: Optic neuritis, confusion, dizziness, vertigo, foot drop, decrease in libido, depression, amnesia, tinnitus, asthenia, insomnia.
+- Nervous: Optic neuritis, confusion, dizziness, vertigo, foot drop, decrease in libido, depression, amnesia, tinnitus, asthenia, insomnia.
 
-Respiratory: Bronchospasm, asthma, pharyngitis, rhinitis.
+- Respiratory: Bronchospasm, asthma, pharyngitis, rhinitis.
 
-Skin and Appendages: Furunculosis, facial edema, sweating, skin edema.
+- Skin and Appendages: Furunculosis, facial edema, sweating, skin edema.
 
-Special Senses: Cataracts, macular retinitis, iritis, conjunctivitis, amblyopia.
+- Special Senses: Cataracts, macular retinitis, iritis, conjunctivitis, amblyopia.
 
-Urogenital: Nephritis, impotence, primary hematuria, albuminuria.
+- Urogenital: Nephritis, impotence, primary hematuria, albuminuria.
