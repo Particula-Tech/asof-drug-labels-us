@@ -27,6 +27,35 @@ Mylan.com
 
 RM0018D4
 
+PRINCIPAL DISPLAY PANEL – 37.5 mg
+
+NDC 0378-4593-91
+
+Metoprolol Tartrate Tablets, USP 37.5 mg
+
+Rx only 60 Tablets
+
+Each film-coated tablet contains: Metoprolol tartrate, USP 37.5 mg
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Keep this and all medication out of the reach of children.
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
+Protect from moisture.
+
+Usual Dosage: See accompanying prescribing information.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Mylan.com
+
+RM4593D
+
 PRINCIPAL DISPLAY PANEL - 50 mg
 
 NDC 0378-0032-01
@@ -55,6 +84,35 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 Mylan.com
 
 RM0032A13
+
+PRINCIPAL DISPLAY PANEL – 75 mg
+
+NDC 0378-4594-91
+
+Metoprolol Tartrate Tablets, USP 75 mg
+
+Rx only 60 Tablets
+
+Each film-coated tablet contains: Metoprolol tartrate, USP 75 mg
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Keep this and all medication out of the reach of children.
+
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
+Protect from moisture.
+
+Usual Dosage: See accompanying prescribing information.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Mylan.com
+
+RM4594D
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
