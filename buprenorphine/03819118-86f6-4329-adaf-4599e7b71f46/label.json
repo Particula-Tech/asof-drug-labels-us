@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090819"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0228-3153-03",
+    "0228-3153-09",
+    "0228-3156-03",
+    "0228-3156-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buprenorphine hydrochloride",
+      "name": "Buprenorphine"
+    }
+  ],
+  "setid": "03819118-86f6-4329-adaf-4599e7b71f46",
+  "source": "dailymed"
+}
