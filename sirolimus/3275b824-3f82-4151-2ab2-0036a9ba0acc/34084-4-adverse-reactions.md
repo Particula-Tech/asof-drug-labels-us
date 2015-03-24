@@ -37,7 +37,7 @@ Patients receiving 2 mg of Rapamune Oral Solution per day demonstrated an overal
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE RAPAMUNE TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)a
+TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE RAPAMUNE TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)a
 
 | Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
 | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ The following adverse reactions were reported less frequently (≥ 3%, but < 20%
 - Cardiovascular – Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardia.
 - Digestive System – Stomatitis.
 - Hematologic and Lymphatic System – Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia.
-- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia.
+- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus
 - Musculoskeletal System – Bone necrosis.
 - Respiratory System – Pneumonia, epistaxis.
 - Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
@@ -98,7 +98,7 @@ The table below summarizes the incidence of malignancies in the two controlled t
 
 At 24 months (Study 1) and 36 months (Study 2), there were no significant differences among treatment groups.
 
-INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTa,b
+TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTa,b
 
 | Malignancy | Rapamune Oral Solution 2 mg/day |  | Rapamune Oral Solution 5 mg/day |  | Azathioprine 2-3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ The overall incidence of malignancy was higher in patients receiving Rapamune pl
 Conclusions regarding these differences in the incidence of malignancy could not be made because Study 3 was not designed to consider malignancy risk factors or systematically screen subjects for malignancy.
 In addition, more patients in the Rapamune with cyclosporine group had a pretransplantation history of skin carcinoma.
 
-INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b
+TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b
 
 | Malignancy | Nonrandomized (n = 95) | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- | --- |
@@ -186,7 +186,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
   Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including Rapamune [see Warnings and Precautions (5.10)].
   Clostridium difficile enterocolitis.
-- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia.
+- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus
+- Nervous system - Posterior reversible encephalopathy syndrome.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.

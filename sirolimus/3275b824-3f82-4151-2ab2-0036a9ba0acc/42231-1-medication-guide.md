@@ -180,6 +180,7 @@ Common side effects with RAPAMUNE include:
 - low red blood cell count (anemia)
 - nausea
 - low platelet count (cells that help blood to clot)
+- high blood sugar (diabetes)
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -243,9 +244,9 @@ For Rapamune Oral Solution:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0578-2.0
+LAB-0578-3.0
 
-Issued December 2012.
+March 2015.
 
 INSTRUCTIONS FOR USE
 

@@ -17,7 +17,7 @@ Efficacy failure was defined as the first occurrence of an acute rejection episo
 The tables below summarize the results of the primary efficacy analyses from these trials.
 Rapamune Oral Solution, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of efficacy failure (statistically significant at the < 0.025 level; nominal significance level adjusted for multiple [2] dose comparisons) at 6 months following transplantation compared with both azathioprine and placebo.
 
-INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
+TABLE 8: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 284) | Rapamune Oral Solution 5 mg/day (n = 274) | Azathioprine 2-3 mg/kg/day (n = 161) |
 | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 24 MONTHS FOR STUDY 1a,b
 | Lost to follow-up | 1.1 | 0.4 | 0.6 |
 | a: Patients received cyclosporine and corticosteroids. b: Includes patients who prematurely discontinued treatment. c: Primary endpoint. |  |  |  |
 
-INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
+TABLE 9: INCIDENCE (%) OF EFFICACY FAILURE AT 6 AND 36 MONTHS FOR STUDY 2a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day (n = 227) | Rapamune Oral Solution 5 mg/day (n = 219) | Placebo (n = 130) |
 | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Patient and graft survival at 1 year were co-primary endpoints.
 The following table shows graft and patient survival at 1 and 2 years in Study 1, and 1 and 3 years in Study 2.
 The graft and patient survival rates were similar in patients treated with Rapamune and comparator-treated patients.
 
-GRAFT AND PATIENT SURVIVAL (%) FOR STUDY 1 (12 AND 24 MONTHS) AND STUDY 2 (12 AND 36 MONTHS)a,b
+TABLE 10: GRAFT AND PATIENT SURVIVAL (%) FOR STUDY 1 (12 AND 24 MONTHS) AND STUDY 2 (12 AND 36 MONTHS)a,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2-3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ In Study 1, which was prospectively stratified by race within center, efficacy f
 In Study 2, which was not prospectively stratified by race, efficacy failure was similar for both Rapamune Oral Solution doses compared with placebo in Black patients.
 The decision to use the higher dose of Rapamune Oral Solution in Black patients must be weighed against the increased risk of dose-dependent adverse events that were observed with the Rapamune Oral Solution 5-mg dose [see Adverse Reactions (6.1)].
 
-PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b
+TABLE 11: PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2-3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ PERCENTAGE OF EFFICACY FAILURE BY RACE AT 6 MONTHSa,b
 Mean glomerular filtration rates (GFR) post-transplant were calculated by using the Nankivell equation at 12 and 24 months for Study 1, and 12 and 36 months for Study 2.
 Mean GFR was lower in patients treated with cyclosporine and Rapamune Oral Solution compared with those treated with cyclosporine and the respective azathioprine or placebo control.
 
-OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST‑TRANSPLANTa,b
+TABLE 12: OVERALL CALCULATED GLOMERULAR FILTRATION RATES (Mean ± SEM, cc/min) BY NANKIVELL EQUATION POST‑TRANSPLANTa,b
 
 | Parameter | Rapamune Oral Solution 2 mg/day | Rapamune Oral Solution 5 mg/day | Azathioprine 2-3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- |
@@ -135,7 +135,7 @@ Secondary efficacy endpoints were the rate of biopsy-confirmed acute rejection, 
 The following table summarizes the resulting graft and patient survival at 12, 24, and 36 months for this trial.
 At 12, 24, and 36 months, graft and patient survival were similar for both groups.
 
-GRAFT AND PATIENT SURVIVAL (%): STUDY 3a
+TABLE 13: GRAFT AND PATIENT SURVIVAL (%): STUDY 3a
 
 | Parameter | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- |
@@ -153,7 +153,7 @@ The following table summarizes the results of first biopsy-proven acute rejectio
 There was a significant difference in first biopsy-proven rejection rates between the two groups after randomization and through 12 months.
 Most of the post-randomization acute rejections occurred in the first 3 months following randomization.
 
-INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROUP AT 36 MONTHS: STUDY 3a,b
+TABLE 14: INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROUP AT 36 MONTHS: STUDY 3a,b
 
 | Period | Rapamune with Cyclosporine Therapy (n = 215) | Rapamune Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- |
@@ -169,7 +169,7 @@ Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated simil
 
 The following table summarizes the mean calculated GFR in Study 3 (cyclosporine withdrawal study).
 
-CALCULATED GLOMERULAR FILTRATION RATES (mL/min) BY NANKIVELL EQUATION AT 12, 24, AND 36 MONTHS POST-TRANSPLANT: STUDY 3a,b,c
+TABLE 15: CALCULATED GLOMERULAR FILTRATION RATES (mL/min) BY NANKIVELL EQUATION AT 12, 24, AND 36 MONTHS POST-TRANSPLANT: STUDY 3a,b,c
 
 | Parameter | Rapamune with Cyclosporine Therapy | Rapamune Following Cyclosporine Withdrawal |
 | --- | --- | --- |
@@ -201,7 +201,7 @@ A total of 224 patients received a transplant and at least one dose of sirolimus
 Efficacy was assessed with the following endpoints, measured at 12 months: efficacy failure (defined as the first occurrence of biopsy-confirmed acute rejection, graft loss, or death), first occurrence of graft loss or death, and renal function as measured by the calculated GFR using the Nankivell formula.
 The table below summarizes the result of these endpoints.
 
-EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTION RATES (mL/min) BY NANKIVELL EQUATION AT 12 MONTHS POST-TRANSPLANT: STUDY 4
+TABLE 16: EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTION RATES (mL/min) BY NANKIVELL EQUATION AT 12 MONTHS POST-TRANSPLANT: STUDY 4
 
 | Parameter | Rapamune with Cyclosporine, Corticosteroids (n = 224) |
 | --- | --- |
@@ -228,7 +228,7 @@ The efficacy endpoint was calculated GFR at 12 months post-randomization.
 Additional endpoints included biopsy-confirmed acute rejection, graft loss, and death.
 Findings in the patient stratum with baseline calculated GFR greater than 40 mL/min (Rapamune conversion, n = 497; CNI continuation, n = 246) are summarized below: There was no clinically or statistically significant improvement in Nankivell GFR compared to baseline.
 
-RENAL FUNCTION IN STABLE RENAL TRANSPLANT PATIENTS IN PATIENTS WITH BASELINE GFR > 40 mL/min THE RAPAMUNE CONVERSION STUDY (STUDY 5)
+TABLE 17: RENAL FUNCTION IN STABLE RENAL TRANSPLANT PATIENTS IN PATIENTS WITH BASELINE GFR > 40 mL/min THE RAPAMUNE CONVERSION STUDY (STUDY 5)
 
 | Parameter | Rapamune conversion N=496 | CNI continuation N=245 | Difference (95% CI) |
 | --- | --- | --- | --- |
@@ -245,7 +245,7 @@ This difference was seen in both patients who had a urinary protein to creatinin
 More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio > 3.5 (46/482 [9.5%] vs. 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
 The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio > 1 (13/29 vs. 1/14), excluding patients with baseline nephrotic range proteinuria.
 
-MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR > 40 mL/min
+TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR > 40 mL/min
 
 |  | N | Mean ± SD | Median | N | Mean ± SD | Median | p-value |
 | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -28,7 +28,7 @@ Sirolimus pharmacokinetics activity have been determined following oral administ
 
 The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with Rapamune 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the following table.
 
-MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING RAPAMUNE 2 MG DAILYa,b
+TABLE 4: MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING RAPAMUNE 2 MG DAILYa,b
 
 |  | Solution | Tablets |
 | --- | --- | --- |
@@ -84,7 +84,7 @@ The mean ± SD terminal elimination half life (t½) of sirolimus after multiple 
 
 The following sirolimus concentrations (chromatographic equivalent) were observed in phase 3 clinical studies [see Clinical Studies (14)].
 
-SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
+TABLE 5: SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
 | Patient Population(Study number) | Treatment | Year 1 |  | Year 3 |  |
 | --- | --- | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ The children aged 6-11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71 m
 The children aged 12-18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
 At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the Rapamune dose at 16 hours after the once-daily cyclosporine dose.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
+TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
 
 | Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/ml) | AUCT,ss (ng•h/mL) | CL/Fc (mL/h/kg) | CL/Fc (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -135,7 +135,7 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT 
 
 The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
+TABLE 7: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
 
 | Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
 | --- | --- | --- | --- | --- |
