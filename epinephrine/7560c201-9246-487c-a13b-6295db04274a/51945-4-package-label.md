@@ -35,6 +35,8 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA © 2013 by Meridian Medical Technologies, Inc.
 
+MS:50002:2C:R2
+
 PRINCIPAL DISPLAY PANEL – 0.15 mg/0.3 mL
 
 NDC 49502-501-02
@@ -71,3 +73,5 @@ Do not refrigerate.
 Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA © 2013 by Meridian Medical Technologies, Inc.
+
+MS:50102:2C:R2

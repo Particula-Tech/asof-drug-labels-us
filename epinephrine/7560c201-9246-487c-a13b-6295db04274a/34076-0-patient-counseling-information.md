@@ -49,3 +49,5 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
 
 ©2014 by Meridian Medical Technologies, Inc.
+
+MS:EPI:R1 0001808

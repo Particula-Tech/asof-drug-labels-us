@@ -14,37 +14,36 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about the EpiPen and EpiPen Jr?
 
-1. 1.EpiPen and EpiPen Jr contain, a medicine used to treat allergic emergencies (anaphylaxis).
-   Anaphylaxis can be life threatening, can happen with minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
-2. Symptoms of anaphylaxis may include:
-3. 
-   - •trouble breathing
-   - •wheezing
-   - •hoarseness (changes in the way your voice sounds)
-   - •hives (raised reddened rash that may itch)
-   - •severe itching
-   - •swelling of your face, lips, mouth, or tongue
-   - •skin rash, redness, or swelling
-   - •fast heartbeat
-   - •weak pulse
-   - •feeling very anxious
-   - •confusion
-   - •stomach pain
-   - •losing control of urine or bowel movements (incontinence)
-   - •diarrhea or stomach cramps
-   - •dizziness, fainting, or “passing out” (unconsciousness)
-4. 2.Always carry your EpiPen or EpiPen Jr with you because you may not know when anaphylaxis may happen.
-5. Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
-   Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr and how to use it before you need it.
-   You may be unable to speak in an allergic emergency.
-6. 3.When you have an allergic emergency (anaphylaxis)
-   - •Use EpiPen or EpiPen Jr right away.
-   - •Get emergency medical help right away.
+- 1.EpiPen and EpiPen Jr contain epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
+  Anaphylaxis can be life threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
+- Symptoms of anaphylaxis may include:
+  1. •trouble breathing
+  2. •wheezing
+  3. •hoarseness (changes in the way your voice sounds)
+  4. •hives (raised reddened rash that may itch)
+  5. •severe itching
+  6. •swelling of your face, lips, mouth, or tongue
+  7. •skin rash, redness, or swelling
+  8. •fast heartbeat
+  9. •weak pulse
+  10. •feeling very anxious
+  11. •confusion
+  12. •stomach pain
+  13. •losing control of urine or bowel movements (incontinence)
+  14. •diarrhea or stomach cramps
+  15. •dizziness, fainting, or “passing out” (unconsciousness)
+- 2.Always carry your EpiPen or EpiPen Jr with you because you may not know when anaphylaxis may happen.
+- Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
+  Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr and how to use it before you need it.
+  You may be unable to speak in an allergic emergency.
+- 3.When you have an allergic emergency (anaphylaxis)
+  1. •Use the EpiPen or EpiPen Jr right away.
+  2. •Get emergency medical help right away.
      You may need further medical attention.
      You may need to use a second EpiPen or EpiPen Jr if symptoms continue or recur.
      Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
 
-What are EpiPenand EpiPen Jr?
+What are EpiPen and EpiPen Jr?
 
 - •EpiPen and EpiPen Jr are disposable, prefilled automatic injection devices (auto-injectors) used to treat life-threatening, allergic emergencies including anaphylaxis in people who are at risk for or have a history of serious allergic emergencies.
   Each device contains a single dose of epinephrine.
@@ -76,8 +75,8 @@ Tell your healthcare provider of all known allergies.
 
 Especially tell your healthcare provider if you take certain asthma medicines.
 
-EpiPen or EpiPenJr and other medicines may affect each other, causing side effects.
-EpiPen or EpiPen Jr may affect the way other medicines work, and other medicines may affect how EpiPen or EpiPen Jr works.
+EpiPen or EpiPen Jr and other medicines may affect each other, causing side effects.
+EpiPen or EpiPen Jr may affect the way other medicines work, and other medicines may affect how the EpiPen or EpiPen Jr works.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -115,11 +114,12 @@ What are the possible side effects of the EpiPen and EpiPen Jr?
 EpiPen and EpiPen Jr may cause serious side effects.
 
 - •The EpiPen or EpiPen Jr should only be injected into the middle of your outer thigh (upper leg).Do not inject the EpiPen or EpiPen Jr into your:
-  - oveins
-  - obuttocks
-  - ofingers, toes, hands, or feet
+  - •veins
+  - •buttocks
+  - •fingers, toes, hands, or feet
 - If you accidentally inject EpiPen or EpiPen Jr into any other part of your body, go to the nearest emergency room right away.
   Tell the healthcare provider where on your body you received the accidental injection.
+
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen or EpiPen Jr.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -162,7 +162,7 @@ How should I store EpiPen and EpiPen Jr?
 
 Keep EpiPen and EpiPen Jr and all medicines out of the reach of children.
 
-General information about the safe and effective use of EpiPen and EpiPen Jr:
+General information about the safe and effective use of EpiPen and EpiPen Jr
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
 Do not use the EpiPen or EpiPen Jr for a condition for which it was not prescribed.
@@ -219,14 +219,15 @@ Prepare EpiPen or EpiPen Jr for injection
 |  | Grasp the auto-injector in your fist with the orange tip pointing downward.With your other hand, remove the blue safety release by pulling straight up without bending or twisting it. |
 
 - Note:
+
 - •The needle comes out of the orange tip.
 - •To avoid an accidental injection, never put your thumb, fingers or hand over the orange tip.
-  If an accidental injection happens, get medical help right away
+  If an accidental injection happens, get medical help right away.
 
 Step 2.
 Administer EpiPen or EpiPen Jr
 
-|  | Hold the auto-injector with orange tip near the middle of the outer thigh (upper leg). Swing and firmly push the orange tip against the middle of the outer thigh until it ‘clicks’. Keep the auto-injector firmly pushed against the thigh at a 90° angle (perpendicular) to the thigh. |
+|  | Hold the auto-injector with orange tip near the middle of the outer thigh (upper leg). Swing and firmly push the orange tip against the middle of the outer thigh until it “clicks”. Keep the auto-injector firmly pushed against the thigh at a 90° angle (perpendicular) to the thigh. |
 | --- | --- |
 |  | Hold firmly against the thigh for approximately 10 seconds to deliver the medicine. The injection is now complete. |
 |  | Remove the auto-injector from the thigh. The orange tip will extend to cover the needle. |
@@ -266,9 +267,7 @@ EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclus
 
 ©2014 by Meridian Medical Technologies, Inc.
 
-Revised: April 2014
-
-EPIP-N:R00
+Revised: April 2014 MS:PIL:EPI:R1 0001811
 
 EpiPen® (Epinephrine) Auto-Injector 0.3 mg
 
@@ -316,9 +315,9 @@ Practice Instructions
 | --- | --- |
 |  | •Grasp the grey Trainer in your fist with the orange tip pointing downward.•With your other hand, remove blue safety release by pulling straight up without bending or twisting it.•Removing the blue safety release unlocks the Trainer. |
 |  | 2 Administer the Trainer Simulation |
-|  | •Hold the Trainer with the orange tip near the middle of the outer thigh (upper leg).•Swing and firmly push the orange tip against the middle of the outer thigh until it ‘clicks.’ Keep the Trainer firmly pushed against the thigh at a 90º angle (perpendicular) to the thigh. |
+|  | •Hold the Trainer with the orange tip near the middle of the outer thigh (upper leg).•Swing and firmly push the orange tip against the middle of the outer thigh until it “clicks”. Keep the Trainer firmly pushed against the thigh at a 90º angle (perpendicular) to the thigh. |
 |  | •Hold firmly against the thigh for approximately 10 seconds.•Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. |
-|  | Note:•In an actual emergency, you would need to seek medical help right away•The actual auto-injector is made to work through clothing•Do not inject into any other part of the body |
+|  | Note: •In an actual emergency, you would need to seek medical help right away•The actual auto-injector is made to work through clothing•Do not inject into any other part of the body |
 |  | 3 To reset the Trainer |
 |  | •Put the blue safety release back on the Trainer•Place the orange tip on a hard surface•Squeeze the sides of the orange tip and push down on the Trainer with the other hand |
 
@@ -328,7 +327,7 @@ Practice Session Information
 
 In case of an allergic emergency, use the real yellow EpiPen or green EpiPen Jr Auto-Injector and not the grey Trainer.
 
-Follow instructions above.
+Follow instructions on the reverse side of this insert under Practice Instructions.
 Repeat as often as needed until you are able to self-inject quickly and correctly.
 
 Reread:
@@ -340,8 +339,8 @@ Train others who could help you in an emergency:
 
 - •Your parents, caregivers, and others who may be in a position to administer EpiPen or EpiPen Jr should know how to help you during an allergic emergency (anaphylaxis).
   Before an emergency occurs, have them:
-  - oPractice activating the Trainer
-  - oRead these Trainer Instructions and the “Patient Information”
+  - •Practice activating the Trainer
+  - •Read these Trainer Instructions and the “Patient Information”
 
 For more information about the EpiPen and EpiPen Jr Auto-Injector and the proper use of the products, go to www.epipen.com.
 
@@ -367,6 +366,4 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
 
 - ©2014 by Meridian Medical Technologies, Inc.
-- Revised: April 2014
-
-EPIP-TN:R00
+- Revised: April 2014 MS:EPIT:R1 0001809
