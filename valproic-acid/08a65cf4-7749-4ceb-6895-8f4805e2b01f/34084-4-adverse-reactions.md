@@ -238,7 +238,7 @@ Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 The following adverse reactions have been identified during post approval use of Depakote.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Dermatologic: Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
@@ -248,7 +248,7 @@ Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteopor
 
 Hematologic: Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
-Endocrine: Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
+Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
