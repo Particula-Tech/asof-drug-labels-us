@@ -25,7 +25,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM1101A7
+RM1101A8
 
 PRINCIPAL DISPLAY PANEL - 2 mg
 
@@ -54,7 +54,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM2302A7
+RM2302A8
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -83,4 +83,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM3205A7
+RM3205A8

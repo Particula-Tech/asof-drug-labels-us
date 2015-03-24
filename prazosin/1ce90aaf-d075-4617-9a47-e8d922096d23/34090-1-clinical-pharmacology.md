@@ -5,9 +5,9 @@ Prazosin causes a decrease in total peripheral resistance and was originally tho
 Recent animal studies, however, have suggested that the vasodilator effect of prazosin is also related to blockade of postsynaptic alpha-adrenoceptors.
 The results of dog forelimb experiments demonstrate that the peripheral vasodilator effect of prazosin is confined mainly to the level of the resistance vessels (arterioles).
 Unlike conventional alpha-blockers, the antihypertensive action of prazosin is usually not accompanied by a reflex tachycardia.
-Tolerance has not been observed to develop in long-term therapy.
+Tolerance has not been observed to develop in long term therapy.
 
-Hemodynamic studies have been carried out in man following acute single dose administration and during the course of long-term maintenance therapy.
+Hemodynamic studies have been carried out in man following acute single dose administration and during the course of long term maintenance therapy.
 The results confirm that the therapeutic effect is a fall in blood pressure unaccompanied by a clinically significant change in cardiac output, heart rate, renal blood flow and glomerular filtration rate.
 There is no measurable negative chronotropic effect.
 

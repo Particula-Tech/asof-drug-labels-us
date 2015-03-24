@@ -39,7 +39,7 @@ In these instances, the exact causal relationship has not been established becau
 
 In more specific slit-lamp and funduscopic studies, which included adequate baseline examinations, no drug-related abnormal ophthalmological findings have been reported.
 
-Literature reports exist associating prazosin therapy with a worsening of preexisting narcolepsy.
+Literature reports exist associating prazosin therapy with a worsening of pre-existing narcolepsy.
 A causal relationship is uncertain in these cases.
 
 In post-marketing experience, the following adverse events have been reported:
