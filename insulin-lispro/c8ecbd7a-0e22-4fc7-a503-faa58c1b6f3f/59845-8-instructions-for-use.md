@@ -1,3 +1,128 @@
+# Instructions for Use
+
+HUMALOG® (HU-ma-log) (insulin lispro injection, USP [rDNA origin]) 10 mL Vial (100 Units/mL, U-100)
+
+Read the Instructions for Use before you start taking HUMALOG and each time you get a new HUMALOG vial.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+Do not share your syringes with other people, even if the needle has been changed.
+You may give other people a serious infection or get a serious infection from them.
+
+Supplies needed to give your injection
+
+- a HUMALOG vial
+- a U-100 insulin syringe and needle
+- 2 alcohol swabs
+- 1 sharps container for throwing away used needles and syringes.
+  See “Disposing of used needles and syringes” at the end of these instructions.
+
+Preparing your HUMALOG dose
+
+- Wash your hands with soap and water.
+- Check the HUMALOG label to make sure you are taking the right type of insulin.
+  This is especially important if you use more than 1 type of insulin.
+- HUMALOG should look clear and colorless.
+  Do not use HUMALOG if it is thick, cloudy, or colored, or if you see lumps or particles in it.
+- Do not use HUMALOG past the expiration date printed on the label or 28 days after you first use it.
+- Always use a new syringe or needle for each injection to help ensure sterility and prevent blocked needles.
+  Do not reuse or share your syringes or needles with other people.
+  You may give other people a serious infection or get a serious infection from them.
+
+| Step 1: If you are using a new vial, pull off the plastic Protective Cap, but do not remove the Rubber Stopper. |  |
+| --- | --- |
+| Step 2: Wipe the Rubber Stopper with an alcohol swab. |  |
+| Step 3: Hold the syringe with the needle pointing up. Pull down on the Plunger until the tip of the Plunger reaches the line for the number of units for your prescribed dose. | (Example Dose: 20 units shown) |
+| Step 4: Push the needle through the Rubber Stopper of the vial. |  |
+| Step 5: Push the Plunger all the way in. This puts air into the vial. |  |
+| Step 6: Turn the vial and syringe upside down and slowly pull the plunger down until the tip is a few units past the line for your prescribed dose. | (Example Dose: 20 units Plunger is shown at 24 units) |
+| If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top. |  |
+| Step 7: Slowly push the Plunger up until the tip reaches the line for your prescribed dose. Check the syringe to make sure that you have the right dose. | (Example Dose: 20 units shown) |
+| Step 8: Pull the syringe out of the vial's Rubber Stopper. |  |
+
+If you use HUMALOG with NPH insulin:
+
+- NPH insulin is the only type of insulin that can be mixed with HUMALOG.
+  Do not mix HUMALOG with any other type of insulin.
+- HUMALOG should be drawn up into the syringe first, before you draw up your NPH insulin.
+  Talk to your healthcare provider if you are not sure about the right way to mix HUMALOG and NPH insulin.
+- Give your injection right away.
+
+Giving your HUMALOG Injection with a syringe
+
+- Inject your insulin exactly as your healthcare provider has shown you.
+- HUMALOG starts acting fast, so give your injection within 15 minutes before or right after you eat a meal.
+- Change (rotate) your injection site for each injection.
+
+| Step 9: Choose your injection site. HUMALOG is injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs or upper arms. Wipe the skin with an alcohol swab. Let the injection site dry before you inject your dose. |  |
+| --- | --- |
+| Step 10: Insert the needle into your skin. |  |
+| Step 11: Push down on the Plunger to inject your dose. The needle should stay in your skin for at least 5 seconds to make sure you have injected all of your insulin dose. |  |
+| Step 12: Pull the needle out of your skin. You may see a drop of insulin at the needle tip. This is normal and does not affect the dose you just received. If you see blood after you take the needle out of your skin, press the injection site with a piece of gauze or an alcohol swab. Do not rub the area. Do not recap the needle. Recapping the needle can lead to a needle stick injury. |  |
+
+Giving your HUMALOG using an insulin pump
+
+- Change your insertion site every 3 days.
+- Change the insulin in the reservoir at least every 7 days, even if you have not used all of the insulin.
+- Do not dilute or mix HUMALOG with any other type of insulin in your insulin pump.
+- See your insulin pump manual for instructions or talk to your healthcare provider.
+
+Disposing of used needles and syringes
+
+- Put your used needles and syringes in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and syringes in your household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - - made of a heavy-duty plastic,
+  - - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - - upright and stable during use,
+  - - leak-resistant, and
+  - - properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+How should I store HUMALOG?
+
+All unopened HUMALOG vials:
+
+- Store all unopened vials in the refrigerator.
+- Do not freeze.
+  Do not use if it has been frozen.
+- Keep away from heat and out of direct light.
+- Unopened vials can be used until the expiration date on the carton and label, if they have been stored in the refrigerator.
+- Unopened vials should be thrown away after 28 days, if they are stored at room temperature.
+
+After HUMALOG vials have been opened:
+
+- Store opened vials in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
+- Keep vials away from heat and out of direct light.
+- Throw away all opened vials after 28 days of use, even if there is insulin left in the vial.
+
+General information about the safe and effective use of HUMALOG
+
+- Keep HUMALOG vials, syringes, needles, and all medicines out of the reach of children.
+- Always use a new syringe or needle for each injection.
+- Do not reuse or share your syringes or needles with other people.
+  You may give other people a serious infection or get a serious infection from them.
+
+If you have any questions or problems with your HUMALOG, contact Lilly at 1-800-Lilly-Rx (1-800-545-5979) or call your healthcare provider for help.
+For more information on HUMALOG and insulin, go to www.humalog.com.
+
+Scan this code to launch the humalog.com website
+
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
+
+Humalog® is a registered trademarks of Eli Lilly and Company.
+
+Instructions for Use issued: March 13, 2015
+
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1996, 2015, Eli Lilly and Company.
+All rights reserved.
+
+LOGVL-0001-IFU-20150313
+
 # Instructions for Use HUMALOG KwikPen®
 
 insulin lispro injection (rDNA origin)
@@ -154,7 +279,7 @@ These Instructions for Use have been approved by the U.S. Food and Drug Administ
 
 Humalog® and Humalog KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: March 11, 2015
+Revised: March 13, 2015
 
 Marketed by: Lilly USA, LLC
 
@@ -166,4 +291,4 @@ All rights reserved.
 | Humalog KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2000. |
 | --- |
 
-LOGKP-0001-IFU-20150311
+LOGKP-0002-IFU-20150313
