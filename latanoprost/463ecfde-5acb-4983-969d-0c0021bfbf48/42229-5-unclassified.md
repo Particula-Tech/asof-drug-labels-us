@@ -1,5 +1,4 @@
-0.005% (50 μg/mL)
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com.
 
-Rx only
-
-LAB-0430-3.0 November 2011
+LAB-0430-4.0

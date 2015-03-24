@@ -1,23 +1,28 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
 Latanoprost is a prostanoid selective FP receptor agonist that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor.
 Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow.
 Elevated IOP represents a major risk factor for glaucomatous field loss.
 The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.
 
-## Pharmacokinetics/Pharmacodynamics
+## 12.2 Pharmacodynamics
+
+Reduction of the IOP in man starts about 3–4 hours after administration and maximum effect is reached after 8–12 hours.
+IOP reduction is present for at least 24 hours.
+
+## 12.3 Pharmacokinetics
 
 Absorption
 
 Latanoprost is absorbed through the cornea where the isopropyl ester prodrug is hydrolyzed to the acid form to become biologically active.
-Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration.
 
 Distribution
 
 The distribution volume in humans is 0.16 ± 0.02 L/kg.
 The acid of latanoprost can be measured in aqueous humor during the first 4 hours, and in plasma only during the first hour after local administration.
+Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration.
 
 Metabolism
 
@@ -30,12 +35,3 @@ The elimination of the acid of latanoprost from human plasma is rapid (t1/2 = 17
 Systemic clearance is approximately 7 mL/min/kg.
 Following hepatic β-oxidation, the metabolites are mainly eliminated via the kidneys.
 Approximately 88% and 98% of the administered dose are recovered in the urine after topical and intravenous dosing, respectively.
-
-## Animal Studies
-
-In monkeys, latanoprost has been shown to induce increased pigmentation of the iris.
-The mechanism of increased pigmentation seems to be stimulation of melanin production in melanocytes of the iris, with no proliferative changes observed.
-The change in iris color may be permanent.
-
-Ocular administration of latanoprost at a dose of 6 μg/eye/day (4 times the daily human dose) to cynomolgus monkeys has also been shown to induce increased palpebral fissure.
-This effect was reversible upon discontinuation of the drug.
