@@ -3,7 +3,7 @@ edex® (alprostadil for injection) For Intracavernous Use Only Sterile Powder an
 Rx Only
 
 Rev.
-1 01/2011
+2 03/2015
 
 Please read carefully before using.
 
@@ -240,4 +240,4 @@ Proper injection technique and individual dose titration are essential for the s
 
 Manufactured in Germany for: Actient Pharmaceuticals, LLC Lake Forest, Illinois 60045
 
-Rev 1 01/2011
+Rev 2 03/2015

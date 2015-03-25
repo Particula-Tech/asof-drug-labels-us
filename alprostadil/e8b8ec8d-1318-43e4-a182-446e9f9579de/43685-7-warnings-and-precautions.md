@@ -36,6 +36,12 @@ Careful instruction in proper patient handling and injection techniques may mini
 7) The patient should be instructed not to reuse or to share needles or cartridges.
 As with all prescription medicines, the patient should not allow anyone else to use his medicine.
 
+8)Cardiovascular Risk Related to Underlying Medical Conditions
+
+There is a potential for cardiac risk of sexual activity in patients with preexisting cardiovascular disease.
+Therefore, treatments for erectile dysfunction, including edex®, generally should not be used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status.
+In addition, the evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following a complete medical assessment.
+
 ## Drug Interactions
 
 The pharmacodynamic interaction between heparin (5,000 IU) and alprostadil intravenous infusion (90 mcg over 3 hours) was investigated.
