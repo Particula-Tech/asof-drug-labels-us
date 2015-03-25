@@ -21,7 +21,6 @@ Events reported by investigators were classified utilizing a modified World Heal
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
 However, the cited figures provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the population studied.
-
 The following table was derived from results of 11 placebo-controlled short-term U.S. efficacy trials involving zolpidem in doses ranging from 1.25 to 20 mg.
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 
@@ -77,7 +76,6 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | * Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. |  |  |
 
 Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
-
 Adverse event incidence across the entire preapproval database: Zolpidem tartrate was administered to 3,660 subjects in clinical trials throughout the U.S., Canada, and Europe.
 Treatment-emergent adverse events associated with clinical trial participation were recorded by clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals experiencing treatment-emergent adverse events, similar types of untoward events were grouped into a smaller number of standardized event categories and classified utilizing a modified World Health Organization (WHO) dictionary of preferred terms.
@@ -100,7 +98,6 @@ Infrequent: anorexia, constipation, dysphagia, flatulence, gastroenteritis, vomi
 Rare: enteritis, eructation, esophagospasm, gastritis, hemorrhoids, intestinal obstruction, rectal hemorrhage, tooth caries.
 
 Hematologic and lymphatic system: Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
-
 Immunologic system: Infrequent: infection.
 Rare: abscess herpes simplex herpes zoster, otitis externa, otitis media.
 
