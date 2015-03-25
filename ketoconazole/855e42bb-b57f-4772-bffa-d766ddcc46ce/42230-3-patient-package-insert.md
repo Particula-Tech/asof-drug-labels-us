@@ -51,7 +51,7 @@ What should I avoid while using XOLEGEL?
 
 What are the possible side effects of XOLEGEL?
 
-- The effects of XOLEGEL during pregnancy, including whether XOLOGEL can harm your unborn baby, are not known.
+- The effects of XOLEGEL during pregnancy, including whether XOLEGEL can harm your unborn baby, are not known.
 - It is not known if XOLEGEL can pass into your breastmilk or if it can harm your breastfed baby.
 - Stop using XOLEGEL and talk to your health care provider if you develop itching, a rash, or any skin irritation after using XOLEGEL.
 - Stop using XOLEGEL and talk to your health care provider if your skin condition (seborrheic dermatitis) gets worse.
@@ -88,14 +88,14 @@ Inactive ingredients: dehydrated alcohol, ascorbic acid, butylated hydroxytoluen
 
 This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
 
-The Patient Information leaflet was last revised: January 2011.
+The Patient Information leaflet was last revised: September 2013.
 
-MANUFACTURED BY: DPT Laboratories, Ltd. 307 E. Josephine Street San Antonio, TX 78215
+Manufactured by DPT Laboratories, Ltd., San Antonio, TX 78215
 
-FOR: Aqua Pharmaceuticals, West Chester, PA 19380
+For Aqua Pharmaceuticals, West Chester, PA 19380
 
-Revised 01/2011
+Revised 09/2013 140194 XOLEGEL is a registered trademark of Aqua Pharmaceuticals.
 
-XGL:2PI
+© 2013 Aqua Pharmaceuticals
 
-XOLEGEL is a registered trademark of Aqua Pharmaceuticals. ©2011 Aqua Pharmaceuticals
+AQUA PHARMACEUTICALS
