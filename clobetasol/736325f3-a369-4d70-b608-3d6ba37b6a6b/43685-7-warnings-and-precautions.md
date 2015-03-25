@@ -23,7 +23,7 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 Although clobetasol propionate topical solution is intended for the treatment of inflammatory conditions of the scalp, it should be noted that certain areas of the body, such as the face, groin, and axillae, are more prone to atrophic changes than other areas of the body following treatment with corticosteroids.
 Frequent observation of the patient is important if these areas are to be treated.
 
-As with other potent topical corticosteroids, clobetasol propionate topical solution should not be used in the treatment of rosacea or perioral dermatitis.
+As with other potent topical corticosteroids, clobetasol propionate topical solution should not be used in the treatment of rosacea and perioral dermatitis.
 Topical corticosteroids in general should not be used in the treatment of acne or as sole therapy in widespread plaque psoriasis.
 
 Information for Patients: Patients using clobetasol propionate topical solution should receive the following information and instructions:
@@ -35,11 +35,11 @@ Information for Patients: Patients using clobetasol propionate topical solution 
 3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive.
 4. 4.Patients should report any signs of local adverse reactions to the physician.
 
-Laboratory Tests: The following tests may be helpful in evaluating HPA axis suppression:
+Laboratory Tests: The following tests may be helpful in evaluating patients for HPA axis suppression:
 
 Urinary free cortisol test
 
-ACTH-stimulation test
+ACTH stimulation test
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term animal studies have not been performed to evaluate the carcinogenic potential of clobetasol propionate.
 
@@ -47,7 +47,7 @@ Studies in the rat following subcutaneous administration at dosage levels up to 
 
 Clobetasol propionate was nonmutagenic in 3 different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay and the E. coli B WP2 fluctuation test.
 
-Pregnancy: Teratogenic effects - Pregnancy Category C. The more potent corticosteroids have been shown to be teratogenic in animals when administered systemically at relatively low dosage levels.
+Pregnancy: Teratogenic effects - Pregnancy Category C. Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application to laboratory animals.
 
 Clobetasol propionate has not been tested for teratogenicity when applied topically; however, it is absorbed percutaneously, and when administered subcutaneously it was a significant teratogen in both the rabbit and the mouse.
@@ -62,18 +62,18 @@ These doses are approximately 0.02 and 0.05 times, respectively, the human topic
 Abnormalities seen included cleft palate, cranioschisis, and other skeletal abnormalities.
 
 There are no adequate and well-controlled studies of the teratogenic potential of clobetasol propionate in pregnant women.
-Therefore, clobetasol propionate topical solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Clobetasol propionate topical solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Nursing Mothers: Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when clobetasol propionate topical solution is administered to a nursing woman.
 
-Pediatric Use: Use of clobetasol propionate topical solution in children under 12 years of age is not recommended.
+Pediatric Use: Use of clobetasol propionate topical solution in pediatric patients under 12 years of age is not recommended.
 
 Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing’s syndrome than mature patients because of a larger skin surface area to body weight ratio.
 
 HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include low plasma cortisol levels, and absence of response to ACTH stimulation.
+Manifestations of adrenal suppression in children include low plasma cortisol levels, and an absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 Geriatric Use: A limited number of patients at or above 65 years of age (n = 65) have been treated with clobetasol propionate topical solution in US and non-US clinical trials.

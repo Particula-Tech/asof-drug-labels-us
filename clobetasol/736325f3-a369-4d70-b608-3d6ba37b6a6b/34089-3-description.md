@@ -1,6 +1,6 @@
 # DESCRIPTION:
 
-Clobetasol propionate topical solution USP, 0.05% contains the active compound clobetasol propionate, a synthetic corticosteroid for topical dermatological use.
+Clobetasol propionate topical solution USP, 0.05% contains the active compound clobetasol propionate, a synthetic corticosteroid for topical dermatologic use.
 Clobetasol, an analog of prednisolone, has a high degree of glucocorticoid activity and a slight degree of mineralocorticoid activity.
 
 Chemically, clobetasol propionate is 21-chloro-9-fluoro-11β,17-dihydroxy-16β-methylpregna-1,4-diene-3,20-dione 17-propionate, and it has the following structural formula:
