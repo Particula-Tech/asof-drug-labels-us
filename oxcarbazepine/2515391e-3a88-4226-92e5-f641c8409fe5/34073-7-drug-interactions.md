@@ -11,7 +11,7 @@ No autoinduction has been observed with oxcarbazepine.
 ## 7.1 Antiepileptic Drugs
 
 Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
-The effect of these interactions on mean AUCs and Cmin are summarized in Table7.
+The effect of these interactions on mean AUCs and Cmin are summarized in Table 7.
 
 | Table 7 Summary of AED Interactions with Oxcarbazepine |  |  |  |  |
 | --- | --- | --- | --- | --- |

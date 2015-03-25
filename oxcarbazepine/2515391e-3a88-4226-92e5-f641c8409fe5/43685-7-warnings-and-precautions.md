@@ -135,7 +135,7 @@ Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient d
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with oxcarbazepine.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
-Eosinophilia is often present..
+Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.

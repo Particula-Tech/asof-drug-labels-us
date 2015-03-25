@@ -1,21 +1,21 @@
 # MEDICATION GUIDE ​
 
-Oxcarbazepine (ox-kar-BAY-zeh-peen) Oral Suspension
+Oxcarbazepine (ox-kar-BAY-zeh-peen)Oral Suspension, USP
 
-Read this Medication Guide before you start taking oxcarbazepine and each time you get a refill.
+Read this Medication Guide before you start taking oxcarbazepine oral suspension and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-What is the most important information I should know about oxcarbazepine?
+What is the most important information I should know about oxcarbazepine oral suspension?
 
-Do not stop taking oxcarbazepine without first talking to your healthcare provider.
+Do not stop taking oxcarbazepine oral suspension without first talking to your healthcare provider.
 
-Stopping oxcarbazepine suddenly can cause serious problems.
+Stopping oxcarbazepine oral suspension suddenly can cause serious problems.
 
-Oxcarbazepine can cause serious side effects, including:
+Oxcarbazepine oral suspension can cause serious side effects, including:
 
 1.
-Oxcarbazepine may cause the level of sodium in your blood to be low.
+Oxcarbazepine oral suspension may cause the level of sodium in your blood to be low.
 Symptoms of low blood sodium include:
 
 - nausea
@@ -24,14 +24,14 @@ Symptoms of low blood sodium include:
 - confusion
 - more frequent or more severe seizures.
 
-Similar symptoms that are not related to low sodium may occur from taking oxcarbazepine.
+Similar symptoms that are not related to low sodium may occur from taking oxcarbazepine oral suspension.
 You should tell your healthcare provider if you have any of these side effects and if they bother you or they do not go away.
 
 Some other medicines can also cause low sodium in your blood.
 Be sure to tell your healthcare provider about all the other medicines that you are taking.
 
 2.
-Oxcarbazepine may also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
+Oxcarbazepine oral suspension may also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
@@ -46,13 +46,15 @@ Call your healthcare provider right away if you have any of the following:
 - unusual bruising or bleeding
 - severe fatigue or weakness
 - severe muscle pain
-- frequent infections or infections that do not go away.
+- frequent infections or infections that do not go away
 
-- Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
-  Tell your healthcare provider if you are allergic to carbamazepine.
-- 3.
-  Like other antiepileptic drugs, oxcarbazepine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-- Call a doctor right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
+Tell your healthcare provider if you are allergic to carbamazepine.
+
+3.
+Like other antiepileptic drugs, oxcarbazepine oral suspension may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+Call a doctor right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
@@ -65,40 +67,42 @@ Call your healthcare provider right away if you have any of the following:
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood.
+- other unusual changes in behavior or mood
 
-- How can I watch for early symptoms of suicidal thoughts and actions?
+How can I watch for early symptoms of suicidal thoughts and actions?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
 
-- Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-- Do not stop taking oxcarbazepine without first talking to a healthcare provider.
+Do not stop taking oxcarbazepine oral suspension without first talking to a healthcare provider.
 
-- Stopping oxcarbazepine suddenly can cause serious problems.
-  Stopping a seizure medicine suddenly in a patient who has epilepsy may cause seizures that will not stop (status epilepticus).
-- Suicidal thoughts or actions may be caused by things other than medicines.
-  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+Stopping oxcarbazepine oral suspension suddenly can cause serious problems.
+Stopping a seizure medicine suddenly in a patient who has epilepsy may cause seizures that will not stop (status epilepticus).
 
-What is oxcarbazepine?
+Suicidal thoughts or actions may be caused by things other than medicines.
+If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-Oxcarbazepine is a prescription medicine used:
+What is oxcarbazepine oral suspension?
+
+Oxcarbazepine oral suspension is a prescription medicine used:
 
 - alone or with other medicines to treat partial seizures in adults.
 - alone to treat partial seizures in children 4 years and older.
 - with other medicines to treat partial seizures in children 2 years and older.
 
-Who should not take oxcarbazepine?
+Who should not take oxcarbazepine oral suspension?
 
 - Do not take oxcarbazepine oral suspension if you are allergic to oxcarbazepine or any of the other ingredients in oxcarbazepine oral suspension.
   See the end of this leaflet for a complete list of ingredients in oxcarbazepine oral suspension.
+
 - Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
   Tell your healthcare provider if you are allergic to carbamazepine.
 
-What should I tell my healthcare provider before taking oxcarbazepine?
+What should I tell my healthcare provider before taking oxcarbazepine oral suspension?
 
-Before taking oxcarbazepine, tell your healthcare provider about all your medical conditions, including if you:
+Before taking oxcarbazepine oral suspension, tell your healthcare provider about all your medical conditions, including if you:
 
 - have or have had suicidal thoughts or actions, depression or mood problems
 - have liver problems
@@ -106,53 +110,53 @@ Before taking oxcarbazepine, tell your healthcare provider about all your medica
 - are allergic to carbamazepine.
   Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
 - use birth control medicine.
-  Oxcarbazepine may cause your birth control medicine to be less effective.
+  Oxcarbazepine oral suspension may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
 - are pregnant or plan to become pregnant.
-  Oxcarbazepine may harm your unborn baby.
-  Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine.
-  You and your healthcare provider will decide if you should take oxcarbazepine while you are pregnant.
-  - If you become pregnant while taking oxcarbazepine, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  Oxcarbazepine oral suspension may harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine oral suspension.
+  You and your healthcare provider will decide if you should take oxcarbazepine oral suspension while you are pregnant.
+  - If you become pregnant while taking oxcarbazepine oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
   Oxcarbazepine passes into breast milk.
-  You and your healthcare provider should discuss whether you should take oxcarbazepine or breastfeed; you should not do both.
+  You and your healthcare provider should discuss whether you should take oxcarbazepine oral suspension or breastfeed; you should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 
-Taking oxcarbazepine with certain other medicines may cause side effects or affect how well they work.
+Taking oxcarbazepine oral suspension with certain other medicines may cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
 
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take oxcarbazepine?
+How should I take oxcarbazepine oral suspension?
 
-- Do not stop taking oxcarbazepine without talking to your healthcare provider.
-  Stopping oxcarbazepine suddenly can cause serious problems, including seizures that will not stop (status epilepticus).
-- Take oxcarbazepine exactly as prescribed.
+- Do not stop taking oxcarbazepine oral suspension without talking to your healthcare provider.
+  Stopping oxcarbazepine oral suspension suddenly can cause serious problems, including seizures that will not stop (status epilepticus).
+- Take oxcarbazepine oral suspension exactly as prescribed.
   Your healthcare provider may change your dose.
-  Your healthcare provider will tell you how much oxcarbazepine to take.
-- Take oxcarbazepine 2 times a day.
-- Take oxcarbazepine with or without food.
+  Your healthcare provider will tell you how much oxcarbazepine oral suspension to take.
+- Take oxcarbazepine oral suspension 2 times a day.
+- Take oxcarbazepine oral suspension with or without food.
 - Before taking oxcarbazepine oral suspension shake the bottle well and use the oral dosing syringe to measure the amount of medicine needed.
   Oxcarbazepine oral suspension can be mixed in a small glass of water, or swallowed directly from the syringe.
   Clean the syringe with warm water and let it dry after each use.
-- If you take too much oxcarbazepine, call your healthcare provider or local Poison Control Center right away.
+- If you take too much oxcarbazepine oral suspension, call your healthcare provider or local Poison Control Center right away.
 
-What should I avoid while taking oxcarbazepine?
+What should I avoid while taking oxcarbazepine oral suspension?
 
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how oxcarbazepine affects you.
-  Oxcarbazepine may slow your thinking and motor skills.
-- Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking oxcarbazepine until you talk to your healthcare provider.
-  Oxcarbazepine taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how oxcarbazepine oral suspension affects you.
+  Oxcarbazepine oral suspension may slow your thinking and motor skills.
+- Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking oxcarbazepine oral suspension until you talk to your healthcare provider.
+  Oxcarbazepine oral suspension taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 
-What are the possible side effects of oxcarbazepine?
+What are the possible side effects of oxcarbazepine oral suspension?
 
-See “What is the most important information I should know about oxcarbazepine?”
+See “What is the most important information I should know about oxcarbazepine oral suspension?”
 
-- Oxcarbazepine may cause other serious side effects including:
+Oxcarbazepine oral suspension may cause other serious side effects including:
 
 - your seizures can happen more often or become worse
 - trouble concentrating
@@ -161,9 +165,9 @@ See “What is the most important information I should know about oxcarbazepine?
 - feeling sleepy and tired
 - trouble walking and with coordination
 
-- Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about oxcarbazepine?”
+Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about oxcarbazepine oral suspension?”
 
-- The most common side effects of oxcarbazepine include:
+The most common side effects of oxcarbazepine oral suspension include:
 
 - dizziness
 - sleepiness
@@ -179,7 +183,7 @@ See “What is the most important information I should know about oxcarbazepine?
 - rash
 - infections (especially in children)
 
-These are not all the possible side effects of oxcarbazepine.
+These are not all the possible side effects of oxcarbazepine oral suspension.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
@@ -191,13 +195,29 @@ How should I store oxcarbazepine oral suspension?
 - Store Oxcarbazepine Oral Suspension between 15°C to 30°C (59°F to 86°F)
   - Keep oxcarbazepine oral suspension in the original container.
     Use within 7 weeks of first opening the bottle.
-    Shake well before using.Keep oxcarbazepine and all medicines out of the reach of children.
-    General Information about the safe and effective use of oxcarbazepineMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-    Do not use oxcarbazepine for a condition for which it was not prescribed.
-    Do not give oxcarbazepine to other people, even if they have the same symptoms that you have.
-    It may harm them.This Medication Guide summarizes the most important information about oxcarbazepine.
-    If you would like more information, talk with your healthcare provider.
-    You can ask your pharmacist or healthcare provider for the full prescribing information about oxcarbazepine that is written for health professionals.For more information, go to www.amneal.com or call 1-877-835-5472.What are the ingredients in oxcarbazepine oral suspension?Active ingredient: oxcarbazepineInactive ingredients:
+    Shake well before using.
+
+Keep oxcarbazepine oral suspension and all medicines out of the reach of children.
+
+General Information about the safe and effective use of oxcarbazepine oral suspension
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use oxcarbazepine oral suspension for a condition for which it was not prescribed.
+Do not give oxcarbazepine oral suspension to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Medication Guide summarizes the most important information about oxcarbazepine oral suspension.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for the full prescribing information about oxcarbazepine oral suspension that is written for health professionals.
+
+For more information, go to www.amneal.com or call 1-877-835-5472.
+
+What are the ingredients in oxcarbazepine oral suspension, USP?
+
+Active ingredient: oxcarbazepine, USP
+
+Inactive ingredients:
+
 - Oral suspension: colloidal silicon dioxide, malic acid, methylparaben, polyethylene glycol, pregelatinized starch (maize), propyl paraben, propylene glycol, purified water, saccharin sodium, sodium benzoate, sorbitol, xanthan gum and yellow plum lemon flavor.
   Hydrochloric acid solution or sodium hydroxide solution may be added for adjustment of pH.
 
@@ -208,4 +228,4 @@ Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-07-2014-00
+02-2015-01

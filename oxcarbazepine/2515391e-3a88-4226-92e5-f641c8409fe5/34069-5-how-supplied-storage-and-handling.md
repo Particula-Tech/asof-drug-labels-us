@@ -2,7 +2,7 @@
 
 Suspension
 
-300 mg/5 mL (60 mg/mL) Oral Suspension: off-white to slightly yellow colored suspension.
+Oxcarbazepine oral suspension USP, 300 mg/5 mL (60 mg/mL), is supplied as off-white to slightly yellow colored suspension.
 Available in amber glass bottles containing 250 mL of oral suspension.
 Supplied with a 10 mL dosing syringe and press-in bottle adapter.
 
