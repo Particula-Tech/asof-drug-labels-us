@@ -16,7 +16,6 @@ The steady-state pharmacokinetic properties of the EPIVIR 300-mg tablet once dai
 EPIVIR 300 mg once daily resulted in lamivudine exposures that were similar to EPIVIR 150 mg twice daily with respect to plasma AUC24,ss; however, Cmax,ss was 66% higher and the trough value was 53% lower compared with the 150-mg twice-daily regimen.
 Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24,ss and Cmax24,ss; however, trough values were lower compared with the 150-mg twice-daily regimen.
 Inter-subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations.
-The clinical significance of observed differences for both plasma lamivudine concentrations and intracellular lamivudine triphosphate concentrations is not known.
 
 Absorption and Bioavailability: Lamivudine was rapidly absorbed after oral administration in HIV-1-infected subjects.
 Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution.
@@ -80,18 +79,32 @@ Hepatic Impairment: The pharmacokinetic properties of lamivudine have been deter
 Pharmacokinetic parameters were not altered by diminishing hepatic function; therefore, no dose adjustment for lamivudine is required for patients with impaired hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
 
-Pediatric Patients: In Trial NUCA2002, pharmacokinetic properties of lamivudine were assessed in a subset of 57 HIV-1-infected pediatric subjects (age range: 4.8 months to 16 years, weight range: 5 to 66 kg) after oral and IV administration of 1, 2, 4, 8, 12, and 20 mg per kg per day.
-In the 9 infants and children (age range: 5 months to 12 years) receiving oral solution 4 mg per kg twice daily (the usual recommended pediatric dose), absolute bioavailability was 66% ± 26% (mean ± SD), which was less than the 86% ± 16% (mean ± SD) observed in adults.
-The mechanism for the diminished absolute bioavailability of lamivudine in infants and children is unknown.
+Pediatric Patients: The pharmacokinetics of lamivudine have been studied after either single or repeat doses of EPIVIR in 210 pediatric subjects.
+Pediatric subjects receiving lamivudine oral solution according to the recommended dosage regimen achieved approximately 25% lower plasma concentrations of lamivudine compared with HIV‑1‑infected adults.
+Pediatric subjects receiving lamivudine oral tablets achieved plasma concentrations comparable to or slightly higher than those observed in adults.
+The absolute bioavailability of both EPIVIR tablets and oral solution are lower in children than adults.
+The relative bioavailability of EPIVIR oral solution is approximately 40% lower than tablets containing lamivudine in pediatric subjects despite no difference in adults.The mechanisms for the diminished absolute bioavailability of lamivudine and relative bioavailability of lamivudine solution are unknown.
 
-Systemic clearance decreased with increasing age in pediatric subjects, as shown in Figure 1.
+The pharmacokinetics of lamivudine dosed once daily in HIV‑1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA-15 [n = 17], PENTA 13 [n = 19], and ARROW PK [n = 35]).
+All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice- versus once-daily dosing of abacavir and lamivudine.
+These 3 trials demonstrated that once-daily dosing provides similar AUC0-24 to twice-daily dosing of lamivudine at the same total daily dose when comparing the dosing regimens within the same formulation (i.e., either the oral solution or the tablet formulation).
+The mean Cmax was approximately 80% to 90% higher with lamivudine once-daily dosing compared with twice-daily dosing.
 
-Figure 1.
-Systemic Clearance (L/h•kg) of Lamivudine in Relation to Age
+Table 8.
+Pharmacokinetic Parameters (Geometric Mean [95% CI]) after Repeat Dosing of Lamivudine in 3 Pediatric Trials
 
-After oral administration of lamivudine 4 mg per kg twice daily to 11 pediatric subjects ranging in age from 4 months to 14 years, Cmax was 1.1 ± 0.6 mcg per mL and half-life was 2.0 ± 0.6 hours.
-(In adults with similar blood sampling, the half‑life was 3.7 ± 1 hours.)
-Total exposure to lamivudine, as reflected by mean AUC values, was comparable between pediatric subjects receiving an 8-mg per kg per day dose and adults receiving a 4-mg per kg per day dose.
+|  | Trial(Number of Subjects) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | ARROW PK(n = 35) |  | PENTA-13(n = 19) |  | PENTA-15(n = 17) |  |
+| Age Range | 3-12 years |  | 2-12 years |  | 3-36 months |  |
+| Formulation | Tablet |  | Solution and Tabletb |  | Solution |  |
+| Parameter | Once Daily | Twice Daily | Once Daily | Twice Daily | Once Daily | Twice Daily |
+| Cmax (mcg/mL) | 3.17 (2.76, 3.64) | 1.80 (1.59, 2.04) | 2.09 (1.80, 2.42) | 1.11 (0.96, 1.29) | 1.87 (1.65, 2.13) | 1.05 (0.88, 1.26) |
+| AUC(0-24) (mcg•h/mL) | 13.0 (11.4, 14.9) | 12.0 (10.7, 13.4) | 9.80 (8.64, 11.1) | 8.88 (7.67, 10.3) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.4) |
+
+a N = 16 for PENTA-15 Cmax.
+
+b Five subjects in PENTA-13 received lamivudine tablets.
 
 Distribution of lamivudine into cerebrospinal fluid (CSF) was assessed in 38 pediatric subjects after multiple oral dosing with lamivudine.
 CSF samples were collected between 2 and 4 hours postdose.
@@ -99,7 +112,7 @@ At the dose of 8 mg per kg per day, CSF lamivudine concentrations in 8 subjects 
 
 Limited, uncontrolled pharmacokinetic and safety data are available from administration of lamivudine (and zidovudine) to 36 infants aged up to 1 week in 2 trials in South Africa.
 In these trials, lamivudine clearance was substantially reduced in 1-week-old neonates relative to pediatric subjects (aged over 3 months) studied previously.
-There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.1)].
+There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.2)].
 
 Geriatric Patients: The pharmacokinetics of lamivudine after administration of EPIVIR to subjects over 65 years have not been studied [see Use in Specific Populations (8.5)].
 

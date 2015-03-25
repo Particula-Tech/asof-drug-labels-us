@@ -1,8 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- •EPIVIR Functionally Scored Tablets
+- •EPIVIR Scored Tablets
 
-150 mg, are white, diamond-shaped, functionally scored, film-coated tablets debossed with “GX CJ7” on both sides.
+150 mg, are white, diamond-shaped, scored, film-coated tablets debossed with “GX CJ7” on both sides.
 
 - •EPIVIR Tablets
 

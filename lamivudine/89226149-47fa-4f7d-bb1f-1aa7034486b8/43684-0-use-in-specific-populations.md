@@ -40,7 +40,7 @@ Because of the potential for HIV-1 transmission, mothers should be instructed no
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of twice-daily EPIVIR in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of EPIVIR in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

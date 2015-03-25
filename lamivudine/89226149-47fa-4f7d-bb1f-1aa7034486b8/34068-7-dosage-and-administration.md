@@ -2,12 +2,14 @@
 
 ## 2.1 Adult Patients
 
-The recommended oral dose of EPIVIR in HIV-1-infected adults and adolescents older than 16 years is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
-If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+- •The recommended oral dose of EPIVIR in HIV-1-infected adults is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+  If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+- •EPIVIR may be taken with or without food.
 
 ## 2.2 Pediatric Patients
 
-The recommended oral dose of EPIVIR oral solution in HIV-1-infected pediatric patients aged 3 months to 16 years is 4 mg per kg twice daily (up to a maximum of 150 mg twice a day), administered in combination with other antiretroviral agents.
+The recommended oral dose of EPIVIR oral solution in HIV-1-infected pediatric patients aged 3 months and older is 4 mg per kg twice daily or 8 mg per kg once daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents.
+Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Clinical Pharmacology (12.3)].
 
 EPIVIR is also available as a scored tablet for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 Before prescribing EPIVIR tablets, children should be assessed for the ability to swallow tablets.
@@ -15,14 +17,18 @@ If a child is unable to reliably swallow EPIVIR tablets, the oral solution formu
 The recommended oral dosage of EPIVIR tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
-Dosing Recommendations for EPIVIR Tablets in Pediatric Patients
+Dosing Recommendations for EPIVIR Scored (150-mg) Tablets in Pediatric Patients
 
-| Weight(kg) | Dosage Regimen Using Scored 150-mg Tablet |  | Total Daily Dose |
-| --- | --- | --- | --- |
-| AM Dose | PM Dose |  |  |
-| 14 to 21 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
-| >21 to <30 | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
-| ≥30 | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+| Weight(kg) | Once-daily Dosing Regiment | Twice-daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
+| --- | --- | --- | --- | --- |
+| AM Dose | PM Dose | Total Daily Dose |  |  |
+| 14 to <20 | 1 tablet (150 mg) | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
+| ≥20 to <25 | 1½ tablets (225 mg) | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
+| ≥25 | 2 tablets (300 mg) | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+
+a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)].
+
+b Patients may alternatively take one 300-mg tablet, which is not scored.
 
 ## 2.3 Patients with Renal Impairment
 
@@ -30,7 +36,7 @@ Dosing of EPIVIR is adjusted in accordance with renal function.
 Dosage adjustments are listed in Table 2 [see Clinical Pharmacology (12.3)].
 
 Table 2.
-Adjustment of Dosage of EPIVIR in Adults and Adolescents (Greater than or Equal to 30 kg) in Accordance with Creatinine Clearance
+Adjustment of Dosage of EPIVIR in Adults and Adolescents (Greater than or Equal to 25 kg) in Accordance with Creatinine Clearance
 
 | Creatinine Clearance (mL/min) | Recommended Dosage of EPIVIR |
 | --- | --- |

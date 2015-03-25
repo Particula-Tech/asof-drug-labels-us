@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Lactic Acidosis/Hepatomegaly
 
 Inform patients that some HIV medicines, including EPIVIR, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Warnings and Precautions (5.1)].
@@ -16,7 +18,7 @@ If a decision is made to include lamivudine in the HIV-1 treatment regimen of a 
 
 Use with Other Lamivudine- and Emtricitabine-containing Products
 
-EPIVIR should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR (lamivudine/zidovudine) tablets, EPZICOM (abacavir sulfate and lamivudine) tablets, TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA (efavirenz, emtricitabine, and tenofovir), EMTRIVA (emtricitabine), STRIBILD(elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA (emtricitabine and tenofovir), or COMPLERA (rilpivirine/emtricitabine/tenofovir) [see Warnings and Precautions (5.3)].
+EPIVIR should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR® (lamivudine/zidovudine) tablets, EPZICOM® (abacavir sulfate and lamivudine) tablets, TRIUMEQ® (abacavair, dolutegravir, lamivudine), TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), STRIBILD® (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA® (emtricitabine and tenofovir), or COMPLERA® (rilpivirine/emtricitabine/tenofovir) [see Warnings and Precautions (5.3)].
 
 HIV-1/HCV Co-infection
 
@@ -41,6 +43,9 @@ Patients must remain on continuous HIV therapy to control HIV‑1 infection and 
 Patients should remain under the care of a physician when using EPIVIR.
 
 Patients should be informed to take all HIV medications exactly as prescribed.
+If you miss a dose of EPIVIR, take it as soon as you remember.
+Do not take 2 doses at the same time.
+If you are not sure about your dosing, call your healthcare provider.
 
 Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
 
@@ -50,7 +55,7 @@ Patients should be advised to avoid doing things that can spread HIV-1 infection
 - •Female patients should be advised not to breastfeed.
   Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
-COMBIVIR, EPIVIR, EPZICOM, RETROVIR, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
+COMBIVIR, EPIVIR, EPZICOM, TRIUMEQ, RETROVIR, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
 
 EPIVIR-HBV is a registered trademark of the GSK group of companies.
 
@@ -78,4 +83,8 @@ Basingstoke, UK
 ©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
-EPV:6PI
+EPV:7PI
+
+PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _

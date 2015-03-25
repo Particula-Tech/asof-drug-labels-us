@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-EPIVIR Functionally Scored Tablets, 150 mg
+EPIVIR Scored Tablets, 150 mg
 
-White, diamond-shaped, functionally scored, film-coated tablets debossed with “GX CJ7” on both sides.
+White, diamond-shaped, scored, film-coated tablets debossed with “GX CJ7” on both sides.
 
 Bottle of 60 tablets (NDC 49702-203-18) with child-resistant closure.
 
