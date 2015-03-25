@@ -2,16 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C.
-
-Calcitriol Ointment contains calcitriol which has been shown to be fetotoxic.
+Pregnancy Teratogenic Effects: Pregnancy Category C. Calcitriol Ointment contains calcitriol which has been shown to be fetotoxic.
 There are no adequate and well-controlled studies for Calcitriol Ointment in pregnant women.
 Calcitriol Ointment should be used during pregnancy only if the potential benefit to the patient justifies the potential risk to the fetus.
 
-Teratogenicity studies with calcitriol were performed in which rats were treated orally at dosages of 0.9 mcg/kg/day (5.4 mcg/m/day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area.
-No effect reproductive or fetal parameters were observed in rats.
-In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and increase incidence of minor skeletal abnormalities due to retarded ossification of the pubic bones.
-A slight increased incidence of skeletal variation (extra 13th rib, reduced ossification of epiphyses) was also observed.
+Teratogenicity studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m2/day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area.
+No effects on reproductive or fetal parameters were observed in rats.
+In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and an increased incidence of minor skeletal abnormalities due to retarded ossification of the pubic bones.
+A slightly increased incidence of skeletal variation (extra 13th rib, reduced ossification of epiphyses) was also observed.
 These effects may have been secondary to maternal toxicity.
 Based on the recommended human dose and instructions for use, it is not possible to calculate human dose equivalents for animal exposures in these studies.
 

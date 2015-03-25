@@ -14,3 +14,5 @@ It should be gently rubbed into the skin so that no medication remains visible.
 ## 17.2 Adverse Reactions
 
 Patients should report any signs of adverse reactions to their physician.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

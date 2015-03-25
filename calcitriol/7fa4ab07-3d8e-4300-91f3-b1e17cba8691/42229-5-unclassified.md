@@ -1,15 +1,7 @@
+Marketed by: Perrigo Allegan, MI 49010
+
+Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada
+
 Made in Canada.
 
-Manufactured By G Production Inc.
-
-Baie d´Urfé, QC H9X 3S4 Canada
-
-Distributed By
-
-Perrigo®
-
-Allegan, MI 49010 • www.perrigo.com
-
-P51947-0
-
-6Z300 RC J1
+P51947-2 6Z300 RC J3

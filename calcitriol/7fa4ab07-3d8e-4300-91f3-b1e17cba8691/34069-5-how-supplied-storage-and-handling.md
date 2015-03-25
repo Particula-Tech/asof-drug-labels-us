@@ -2,12 +2,12 @@
 
 ## 16.1 How Supplied
 
-Calcitriol Ointment 3 mcg/g is available in a collapsible aluminum tube of the following package size:
+Calcitriol Ointment 3 mcg/g is available in collapsible aluminum tubes of the following package sizes:
 
 - 100 g tube (NDC 45802-608-01)
 
 ## 16.2 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° - 30°C (59° - 86°F).
+Store at controlled room temperature 68° - 77°F (20° - 25°C) with excursions permitted between 59° - 86°F (15° - 30°C).
 [See USP Controlled Room Temperature.]
 Do not freeze or refrigerate.

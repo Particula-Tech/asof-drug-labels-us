@@ -19,4 +19,4 @@ Kidney stones were reported in 3 subjects and confirmed in two.
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during the world-wide post-approval use of Calcitriol Ointment: acute blistering dermatitis, erythema, pruritus, skin burning sensation, and skin discomfort.
-Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a cause relationship to drug exposure.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
