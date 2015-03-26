@@ -6,7 +6,7 @@ Read the Patient Information that comes with MINOCIN® capsules before you or a 
 There may be new information.
 This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
 
-WHAT IS MINOCIN®?
+What is MINOCIN®?
 
 MINOCIN® is a tetracycline-class antibiotic medicine.
 MINOCIN® is used to treat certain infections caused by bacteria.
@@ -17,7 +17,7 @@ Sometimes other germs, called viruses, cause infections.
 The common cold is a virus.
 MINOCIN®, like other antibiotics, does not treat viruses.
 
-WHO SHOULD NOT USE MINOCIN®?
+Who should not use MINOCIN®?
 
 Do not take MINOCIN® if you are allergic to minocycline or other tetracycline antibiotics.
 
@@ -30,15 +30,15 @@ MINOCIN® is not recommended for pregnant women or children up to 8 years old be
 - 2.MINOCIN® may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
   Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
-WHAT SHOULD I TELL MY DOCTOR BEFORE STARTING MINOCIN® CAPSULES?
+What should I tell my doctor before starting MINOCIN® capsules?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- •Have liver or kidney problems.
-- •Are pregnant or planning to become pregnant.
+- •have liver or kidney problems.
+- •are pregnant or planning to become pregnant.
   MINOCIN® may harm your unborn baby.
   Stop taking MINOCIN® and call your doctor if you become pregnant while taking it.
-- •Are breastfeeding.
+- •are breast feeding.
   MINOCIN® passes into your milk and may harm your baby.
   You should decide whether to use MINOCIN® or breastfeed, but not both.
 
@@ -46,19 +46,19 @@ Tell your doctor about all the medicines you are taking including prescription a
 MINOCIN® and other medicines may interact.
 Especially tell your doctor if you take:
 
-- •Birth control pills.
-  MINOCIN® may make your birth control pills less effective.
-- •A blood thinner medicine.
+- •birth control pills.
+  MINOCIN® may make your birth control pills less effective
+- •a blood thinner medicine.
   The dose of your blood thinner may have to be lowered.
-- •A penicillin antibiotic medicine.
+- •a penicillin antibiotic medicine.
   MINOCIN® and penicillins should not be used together.
-- •Migraine medicines called ergot alkaloids.
-- •An acne medicine called isotretinoin (Accutane®, Amnesteem®, Claravis®, Sotret®).
+- •Migraine medicines called ergot alkaloids
+- •An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
 - •Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
 
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 
-HOW SHOULD I TAKE MINOCIN® CAPSULES?
+How should I take MINOCIN® capsules?
 
 - •Take MINOCIN® capsules exactly as your doctor tells you to take them.
   Skipping doses or not taking all your MINOCIN® may:
@@ -71,27 +71,27 @@ HOW SHOULD I TAKE MINOCIN® CAPSULES?
   If you forget to take MINOCIN®, take it as soon as you remember.
 - •If you take too much MINOCIN®, call your doctor or poison control center right away.
 
-WHAT ARE THE POSSIBLE SIDE EFFECTS OF MINOCIN®?
+What are the possible side effects of MINOCIN®?
 
 MINOCIN® may cause serious side effects.
 Stop MINOCIN® and call your doctor if you have:
 
-- •Watery diarrhea
-- •Bloody stools
-- •Stomach cramps
-- •Unusual headaches
-- •Blurred vision
-- •Fever
-- •Rash
-- •Joint pain
-- •Feeling very tired
+- •watery diarrhea
+- •bloody stools
+- •stomach cramps
+- •unusual headaches
+- •blurred vision
+- •fever
+- •rash
+- •joint pain
+- •feeling very tired
 
 MINOCIN® may also cause:
 
-- •Central nervous system effects.
+- •central nervous system effects.
   Symptoms include light-headedness, dizziness, and a spinning feeling (vertigo).
   You should not drive or operate machines if you have these symptoms.
-- •Sun sensitivity (photosensitivity).
+- •sun sensitivity (photosensitivity).
   You may get a worse sunburn with MINOCIN®.
   Avoid sun exposure and the use of sunlamps or tanning beds.
   Protect your skin while out in the sunlight.
@@ -100,13 +100,16 @@ MINOCIN® may also cause:
 These are not all the side effects with MINOCIN®.
 Ask your doctor or pharmacist for more information.
 
-HOW SHOULD I STORE MINOCIN® CAPSULES?
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
+
+How should I store MINOCIN® capsules?
 
 - •Store MINOCIN® capsules at room temperature and away from excess heat and moisture.
 - •Throw away any MINOCIN® that is outdated or no longer needed.
 - •Keep MINOCIN® capsules and all medicines out of the reach of children.
 
-GENERAL ADVICE ABOUT MINOCIN® CAPSULES
+General advice about MINOCIN® capsules
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use MINOCIN® capsules for a condition for which it was not prescribed.
@@ -114,10 +117,11 @@ Do not give MINOCIN® capsules to other people, even if they have the same sympt
 It may harm them.
 
 This Patient Information leaflet summarizes the most important information about MINOCIN®.
+
 If you would like more information, talk with your doctor.
 
-Your doctor or pharmacist can give you information about MINOCIN® that is written for healthcare professionals.
-For more information, you can also call Onset Dermatologics, LLC, at 800-978 5060 Monday through Friday from 9:00 AM to 3:00 PM Eastern Time.
+Your doctor or pharmacist can give you information about MINOCIN® that is written for health care professionals.
+For more information, you can also call Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 What are the ingredients in MINOCIN® capsules?
 
@@ -126,15 +130,15 @@ Active ingredient: minocycline hydrochloride, 50 mg, 75 mg and 100 mg
 Inactive ingredients: Blue 1, gelatin, titanium dioxide and yellow 10.
 The 50 mg and 75 mg capsule shells also contain black and yellow iron oxides.
 
-Manufactured for Onset Dermatologics, LLC Cumberland, RI 02864
+Manufactured for:
 
-By Patheon Pharmaceuticals Inc. Cincinnati, OH 45237
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-www.minocin.com
+By:
 
-70028164
+Patheon Pharmaceuticals Inc. Cincinnati, OH 45237
 
-P/N 2643
+9438600
 
 Rev.
-03
+04

@@ -1,24 +1,34 @@
 # REFERENCES
 
-Ref1.
-National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically - Fourth Edition; Approved Standard.
-NCCLS Document M7-A4, Vol. 17, No. 2, NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA, January 1997.
+1.
+Clinical and Laboratory Standards Institute (CLSI).
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard-Ninth Edition; CLSI Document M07-A9, Vol. 32, No. 2, January, 2012.
+Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA, 19087-1898.
 
-Ref2.
-National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disks Susceptibility Tests - Sixth Edition; Approved Standard NCCLS Document M2-A6, Vol. 17, No. 1, NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA, January 1997.
+2.
+Clinical and Laboratory Standards Institute (CLSI).
+Performance Standards for Antimicrobial Disks Susceptibility Tests; Approved Standard-Eleventh Edition; CLSI Document M02-A11, Vol. 32, No. 1, January, 2012.
+Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
 
-Ref3.
-National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Susceptibility Testing - Eighth Edition; Approved Standard NCCLS Document M100-S8, Vol. 18, No. 1, NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA, January 1998.
+3.
+Clinical and Laboratory Standards Institute (CLSI).
+Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fourth Informational Supplement.
+Document M100-S24, Vol. 32, No. 3, January, 2014.
+Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
 
-This product's label may have been updated.
-For current package insert and further product information, please visit www.minocin.com or call our toll-free number: 800 978 5060.
-Call between 9:00 AM and 3:00 PM Eastern Time, Monday through Friday.
+Manufactured for:
 
-Manufactured for Onset Dermatologics, LLC Cumberland, RI 02864
+Valeant Pharmaceuticals North America LLC
 
-By Patheon Pharmaceuticals Inc.
+Bridgewater, NJ 08807 USA
 
-Cincinnati, OH 45237
+By:
 
-www.minocin.com 70028164 P/ N 2643 Rev.
-03
+Patheon Pharmaceuticals Inc., Cincinnati, OH 45237
+
+Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals International, Inc.
+
+P/N 9438600 Rev.
+04

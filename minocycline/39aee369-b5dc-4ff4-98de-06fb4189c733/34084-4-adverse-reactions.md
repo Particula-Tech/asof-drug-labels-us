@@ -54,7 +54,7 @@ Tooth discoloration in children less than 8 years of age (see WARNINGS) and also
 
 Oral cavity discoloration (including tongue, lip, and gum) have been reported.
 
-Tinnitus and decreased hearing have been reported in patients on MINOCIN®.
+Tinnitus and decreased hearing have been reported in patients on MINOCIN.
 
 The following syndromes have been reported.
 In some cases involving these syndromes, death has been reported.
@@ -67,3 +67,5 @@ Lupus-like syndrome consisting of positive antinuclear antibody; arthralgia, art
 
 Serum sickness-like syndrome consisting of fever; urticaria or rash; and arthralgia, arthritis, joint stiffness, or joint swelling.
 Eosinophilia may be present.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

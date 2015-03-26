@@ -5,7 +5,7 @@ MINOCIN® Pellet-Filled Capsules are indicated in the treatment of the following
 Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
 Respiratory tract infections caused by Mycoplasma pneumoniae.
 Lymphogranuloma venereum caused by Chlamydia trachomatis.
-Psittacosis (Ornithosis) due to Chlamydia psittaci.
+Psittacosis (Ornithosis) due to Chlamydophila psittaci.
 Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immunofluorescence.
 Inclusion conjunctivitis caused by Chlamydia trachomatis.
 Nongonococcal urethritis, endocervical, or rectal infections in adults caused by Ureaplasma urealyticum or Chlamydia trachomatis.
@@ -17,7 +17,7 @@ Cholera caused by Vibrio cholerae.
 Campylobacter fetus infections caused by Campylobacter fetus.
 Brucellosis due to Brucella species (in conjunction with streptomycin).
 Bartonellosis due to Bartonella bacilliformis.
-Granuloma inguinale caused by Calymmatobacterium granulomatis.
+Granuloma inguinale caused by Klebsiellagranulomatis.
 
 Minocycline is indicated for the treatment of infections caused by the following gram-negative microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
