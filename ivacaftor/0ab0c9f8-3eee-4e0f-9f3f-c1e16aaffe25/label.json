@@ -1,14 +1,22 @@
 {
   "application_numbers": [
-    "NDA203188"
+    "NDA203188",
+    "NDA207925"
   ],
   "inn": "ivacaftor",
   "labeler": "Vertex Pharmaceuticals Incorporated",
   "package_ndcs": [
     "51167-200-01",
-    "51167-200-02"
+    "51167-200-02",
+    "51167-300-01",
+    "51167-400-01"
   ],
   "products": [
+    {
+      "form": "GRANULE",
+      "generic": "ivacaftor",
+      "name": "Kalydeco"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "ivacaftor",

@@ -18,15 +18,15 @@ In vitro responses do not necessarily correspond to in vivo pharmacodynamic resp
 
 Sweat Chloride Evaluation
 
-Changes in sweat chloride response to KALYDECO were evaluated in five clinical trials.
+Changes in sweat chloride response to KALYDECO were evaluated in six clinical trials.
 In two randomized, double-blind, placebo-controlled clinical trials in patients with a G551D mutation in the CFTR gene, one in patients 12 and older (Trial 1) and the other in patients 6-11 years of age (Trial 2), the treatment difference (between KALYDECO and placebo) in mean change in sweat chloride from baseline through Week 24 was -48 mmol/L (95% CI -51, -45) and -54 mmol/L (95% CI -62, -47), respectively.
 These changes persisted through 48 weeks.
-In a 16-week randomized, double-blind, placebo-controlled, parallel-group clinical trial in patients with CF age 12-years and older who were homozygous for the F508del mutation in the CFTR gene (Trial 3), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -3 mmol/L (95% CI -6, -0.2).
+In a 16-week, randomized, double-blind, placebo-controlled, parallel-group clinical trial in patients with CF age 12 years and older who were homozygous for the F508del mutation in the CFTR gene (Trial 3), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -3 mmol/L (95% CI -6, -0.2).
 In a two-part, randomized, double-blind, placebo-controlled, crossover clinical trial in patients with CF who had a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene (Trial 4), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -49 mmol/L (95% CI -57, -41).
-In Trial 4, mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -78, whereas the range for individual subjects with the G970R mutations was -1 to -11 mmol/L.
-
+In Trial 4, mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
 In a randomized, double-blind, placebo-controlled clinical trial in patients with CF who had an R117H mutation in the CFTR gene (Trial 5), the mean baseline sweat chloride for all patients was 70 mmol/L.
 The treatment difference in mean change in sweat chloride from baseline through 24 weeks of treatment was -24 mmol/L (95% CI -28, -20) [see Clinical Studies (14)].
+In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Pediatric Use (8.4)].
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
 
@@ -45,10 +45,12 @@ After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were
 
 Absorption
 
-The exposure of ivacaftor increased approximately 2.5- to 4-fold when given with food containing fat.
+The exposure of ivacaftor increased approximately 2.5- to 4-fold when given with food that contains fat.
 Therefore, KALYDECO should be administered with fat-containing food.
-Examples of fat-containing foods include eggs, butter, peanut butter, and cheese pizza.
-The median (range) Tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
+Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt), etc. The median (range) Tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
+
+KALYDECO granules (2 × 75 mg) had similar bioavailability as the 150 mg tablet when given with fat-containing food in adult subjects.
+The effect of food on ivacaftor absorption is similar for KALYDECO granules and the 150 mg tablet formulation.
 
 Distribution
 
@@ -74,21 +76,41 @@ The apparent terminal half-life was approximately 12 hours following a single do
 The mean apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF.
 The CL/F (SD) for the 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
 
-Special populations
+Specific populations
+
+Pediatric patients
+
+The following conclusions about exposures between adults and the pediatric population are based on population PK analyses:
+
+Pediatric patients 2 to less than 6 years of age who weigh less than 14 kg
+
+Following oral administration of KALYDECO granules, 50 mg every 12 hours, the mean (±SD) steady state AUC (AUCss) was 10500 (4260) ng/mL*h and is similar to the mean AUCss of 10700 (4100) ng/mL*h in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
+
+Pediatric patients 2 to less than 6 years of age who weigh 14 kg or greater
+
+Following oral administration of KALYDECO granules, 75 mg every 12 hours, the mean (±SD) AUC (AUCss) was 11300 (3820) ng/mL*h and is similar to the mean AUC in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
+
+Pediatric patients 6 to less than 12 years of age
+
+Following oral administration of KALYDECO tablets, 150 mg every 12 hours, the mean (±SD) AUCss was 20000 (8330) ng/mL*h and is 87% higher than the mean AUC in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
+
+Pediatric patients 12 to less than 18 years of age
+
+Following oral administration of KALYDECO tablets, 150 mg every 12 hours, the mean (±SD) AUCss was 9240 (3420) ng/mL*h and is similar to the mean AUCss in adult patients administered KALYDECO tablets, 150 mg every 12 hours.
 
 Hepatic impairment
 
-Patients with moderately impaired hepatic function (Child-Pugh Class B, score 7 to 9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
-Based on simulations of these results, a reduced KALYDECO dose of 150 mg once daily is recommended for patients with moderate hepatic impairment.
-The impact of mild hepatic impairment (Child-Pugh Class A) on pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
+Adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 -9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
+Based on simulations of these results, a reduced KALYDECO dose to one tablet or packet of granules once daily is recommended for patients with moderate hepatic impairment.
+The impact of mild hepatic impairment (Child-Pugh Class A) on the pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
 Therefore, no dose adjustment is necessary for patients with mild hepatic impairment.
-The impact of severe hepatic impairment (Child-Pugh Class C, score 10-15) on pharmacokinetics of ivacaftor has not been studied.
-The magnitude of increase in exposure in these patients is unknown but is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
-When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of 150 mg given once daily or less frequently.
+The impact of severe hepatic impairment (Child-Pugh Class C, score 10-15) on the pharmacokinetics of ivacaftor has not been studied.
+The magnitude of increase in exposure in these patients is unknown, but is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
+When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of one tablet or one packet of granules given once daily or less frequently [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
 Renal impairment
 
-KALYDECO has not been studied in patients with mild, moderate or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end-stage renal disease.
+KALYDECO has not been studied in patients with mild, moderate, or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end-stage renal disease.
 No dose adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end-stage renal disease.
 
 Gender
@@ -110,17 +132,16 @@ In vitro studies suggest that ivacaftor and M1 may inhibit CYP2C9.
 In vitro, ivacaftor, M1, and M6 were not inducers of CYP isozymes.
 Dosing recommendations for co-administered drugs with KALYDECO are shown in Figure 1.
 
-Figure 1: Impact of KALYDECO on Other Drugs
-
-Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. *NE: Norethindrone; **EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0 and 1.25, respectively.
+| Figure 1: Impact of KALYDECO on Other Drugs |
+| --- |
+| Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. *NE: Norethindrone; **EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0, and 1.25, respectively. |
 
 Potential for Other Drugs to Affect Ivacaftor
 
 In vitro studies showed that ivacaftor and metabolite M1 were substrates of CYP3A enzymes (i.e., CYP3A4 and CYP3A5).
-Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3) and Drug Interactions (7)].
+Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.6) and Drug Interactions (7)].
 KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 2.
 
-Figure 2: Impact of Other Drugs on KALYDECO
-
-Note: The data obtained for KALYDECO without co-administration of inducers or inhibitors are used as reference.
-The vertical lines are at 0.8, 1.0 and 1.25, respectively.
+| Figure 2: Impact of Other Drugs on KALYDECO |
+| --- |
+| Note: The data obtained for KALYDECO without co-administration of inducers or inhibitors are used as reference. The vertical lines are at 0.8, 1.0 and 1.25, respectively. |

@@ -17,11 +17,21 @@ Caution should be exercised when KALYDECO is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene has been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
+The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene have been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
 
-The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have an R117H mutation in the CFTR gene has been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
+The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have an R117H mutation in the CFTR gene have been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
 
-The safety and efficacy of KALYDECO in patients with CF younger than age 6 years have not been established.
+The efficacy of KALYDECO in children 2 to less than 6 years of age is extrapolated from efficacy in patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 2 to less than 6 years of age [see Clinical Pharmacology (12.3)].
+
+The safety of KALYDECO in children 2 to less than 6 years of age (mean age 3 years) is derived from a 24-week, open-label, clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor granules twice daily (Trial 6).
+Eligible patients were those with the G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene.
+Of 34 patients enrolled, 32 had the G551D mutation and 2 had the S549N mutation.
+The type and frequency of adverse reactions in this trial were similar to those in patients 6 years and older.
+Transaminase elevations were more common in patients who had abnormal transaminases at baseline.
+For patients with a history of transaminase elevations, more frequent monitoring of liver function tests should be considered [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+
+The safety and efficacy of KALYDECO in patients with CF younger than 2 years of age have not been studied.
+The use of KALYDECO in children under the age of 2 years is not recommended.
 
 ## 8.5 Geriatric Use
 
@@ -30,8 +40,9 @@ Clinical trials of KALYDECO did not include sufficient numbers of patients 65 ye
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A reduced dose of 150 mg once daily is recommended in patients with moderate hepatic impairment (Child-Pugh Class B). Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C) but exposure is expected to be higher than in patients with moderate hepatic impairment.
-Therefore, use with caution at a dose of 150 mg once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Pharmacokinetics (12.3)].
+No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A reduced dose of KALYDECO is recommended in patients with moderate hepatic impairment (Child-Pugh Class B), as follows: in patients 6 years and older, one 150 mg tablet once daily; in patients 2 to less than 6 years with body weight less than 14 kg, one 50 mg packet of granules once daily; and in patients 2 to less than 6 years with body weight 14 kg or greater, one 75 mg packet of granules once daily.
+Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
+Therefore, use with caution at a dose of one tablet or one packet of granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Pharmacokinetics (12.3)].
 
 ## 8.7 Renal Impairment
 

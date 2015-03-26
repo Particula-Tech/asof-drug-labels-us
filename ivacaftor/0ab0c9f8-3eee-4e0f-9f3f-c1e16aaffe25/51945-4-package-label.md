@@ -23,3 +23,31 @@ kalydeco® (ivacaftor) tablets
 Carton contains 4 individual blister cards of 14 tablets per card.
 
 56 tablets
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Granule Packet Carton
+
+NDC 51167-300-01
+
+Rx only
+
+kalydeco® (ivacaftor) Oral Granules 50 mg
+
+56 packets Each packet contains 50 mg ivacaftor
+
+Carton contains: 4 individual wallets with 14 packets per wallet
+
+Lift here to open
+
+# PRINCIPAL DISPLAY PANEL - 75 mg Granule Packet Carton
+
+NDC 51167-400-01
+
+Rx only
+
+kalydeco® (ivacaftor) Oral Granules 75 mg
+
+56 packets Each packet contains 75 mg ivacaftor
+
+Carton contains: 4 individual wallets with 14 packets per wallet
+
+Lift here to open
