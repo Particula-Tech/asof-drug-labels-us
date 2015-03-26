@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022276"
+  ],
+  "inn": "nicardipine",
+  "labeler": "West-Ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9593-01",
+    "0143-9593-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nicardipine hydrochloride",
+      "name": "Nicardipine Hydrochloride"
+    }
+  ],
+  "setid": "0eb7d839-63d9-4b51-bf7b-4a8fde6339b5",
+  "source": "dailymed"
+}
