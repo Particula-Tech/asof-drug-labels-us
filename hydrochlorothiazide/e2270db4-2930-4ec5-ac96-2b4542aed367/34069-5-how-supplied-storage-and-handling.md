@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Hydrochlorothiazide Tablets USP, 25 mg are available as round, light orange, flat face, beveled edge tablets, bisected on one side, debossed "2083" and "TEVA" on the other side, containing 25 mg hydrochlorothiazide USP, packaged in bottles of 100 and 1000 tablets, and unit-dose boxes of 100 tablets.
+Hydrochlorothiazide Tablets USP, 25 mg are available as round, light orange, flat face, beveled edge tablets, bisected on one side, debossed "2083" and "TEVA" on the other side, containing 25 mg hydrochlorothiazide USP, packaged in bottles of 100 and 1000 tablets and unit-dose boxes of 100 tablets.
 
-Hydrochlorothiazide Tablets USP, 50 mg are available as round, light orange, flat face, beveled edge tablets, bisected on one side, debossed "2089" and "TEVA" on the other side, containing 50 mg hydrochlorothiazide USP, packaged in bottles of 100, 1000, and 5000 tablets, and unit-dose boxes of 100 tablets.
+Hydrochlorothiazide Tablets USP, 50 mg are available as round, light orange, flat face, beveled edge tablets, bisected on one side, debossed "2089" and "TEVA" on the other side, containing 50 mg hydrochlorothiazide USP, packaged in bottles of 100, 1000, and 5000 tablets and unit-dose boxes of 100 tablets.
 
 Dispense in a well-closed container as defined in the USP, with a child-resistant closure (as required).
 

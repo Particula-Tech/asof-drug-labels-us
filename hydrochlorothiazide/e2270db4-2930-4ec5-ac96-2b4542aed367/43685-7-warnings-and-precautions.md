@@ -125,7 +125,9 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 
 ## Pregnancy
 
-### Teratogenic EffectsPregnancy Category B
+### Teratogenic Effects
+
+Pregnancy Category B
 
 Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
 

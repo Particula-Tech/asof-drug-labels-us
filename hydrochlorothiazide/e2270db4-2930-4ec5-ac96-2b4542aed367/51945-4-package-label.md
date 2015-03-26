@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Hydrochlorothiazide Tablets USP 25mg 100s Label Text
 
@@ -12,7 +12,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Hydrochlorothiazide Tablets USP 50mg 100s Label Text
 
