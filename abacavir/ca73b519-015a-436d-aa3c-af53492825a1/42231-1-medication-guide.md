@@ -13,11 +13,11 @@ Be sure to carry your ZIAGEN Warning Card with you at all times.
 
 What is the most important information I should know about ZIAGEN?
 
-1.Serious allergic reaction (hypersensitivity reaction).
-ZIAGEN contains abacavir (also contained in EPZICOM® and TRIZIVIR®).
-Patients taking ZIAGEN may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
-Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
-Your healthcare provider can determine with a blood test if you have this gene variation.
+- •Serious allergic reaction (hypersensitivity reaction).
+  ZIAGEN contains abacavir (also contained in EPZICOM®, TRIUMEQ®, and TRIZIVIR®).
+  Patients taking ZIAGEN may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
+  Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
+  Your healthcare provider can determine with a blood test if you have this gene variation.
 
 If you get a symptom from 2 or more of the following groups while taking ZIAGEN, call your healthcare provider right away to find out if you should stop taking ZIAGEN.
 
@@ -32,7 +32,7 @@ If you get a symptom from 2 or more of the following groups while taking ZIAGEN,
 A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
 
-If you stop ZIAGEN because of an allergic reaction, never take ZIAGEN (abacavir sulfate) or any other abacavir-containing medicine (EPZICOM and TRIZIVIR) again.
+If you stop ZIAGEN because of an allergic reaction, never take ZIAGEN (abacavir sulfate) or any other abacavir-containing medicine (EPZICOM, TRIUMEQ, and TRIZIVIR) again.
 If you take ZIAGEN or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death.
 If you stop ZIAGEN, for any other reason, even for a few days, and you are not allergic to ZIAGEN, talk with your healthcare provider before taking it again.
 Taking ZIAGEN again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to it before.
@@ -102,7 +102,7 @@ Before you take ZIAGEN, tell your healthcare provider if you:
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
 - •are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take ZIAGEN.
-  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+- You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -112,6 +112,7 @@ Especially tell your healthcare provider if you take:
 - •methadone
 - •TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine)
 - •EPZICOM (abacavir sulfate and lamivudine)
+- •TRIUMEQ (abacavir, dolutegravir, and lamivudine)
 
 Ask your healthcare provider if you are not sure if you take one of the medicines listed above.
 
@@ -126,6 +127,9 @@ How should I take ZIAGEN?
 - •ZIAGEN is taken by mouth as a tablet or a strawberry- and banana-flavored liquid.
 - •ZIAGEN may be taken with or without food.
 - •Do not skip doses.
+  If you miss a dose of ZIAGEN, take it as soon as you remember.
+  Do not take 2 doses at the same time.
+  If you are not sure about your dosing, call your healthcare provider.
 - •Children aged 3 months and older can also take ZIAGEN.
   The child’s healthcare provider will decide the right dose and whether the child should take the tablet or liquid, based on the child’s weight.
   The dose should not be more than the recommended adult dose.
@@ -215,7 +219,7 @@ Inactive ingredients: artificial strawberry and banana flavors, citric acid (anh
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-EPZICOM, TRIZIVIR, and ZIAGEN are registered trademarks of the ViiV Healthcare group of companies.
+EPZICOM, TRIUMEQ, TRIZIVIR, and ZIAGEN are registered trademarks of the ViiV Healthcare group of companies.
 
 Manufactured for:
 
@@ -232,6 +236,6 @@ Research Triangle Park, NC 27709
 ©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
-February 2015
+March 2015
 
-ZGN:6MG
+ZGN:7MG

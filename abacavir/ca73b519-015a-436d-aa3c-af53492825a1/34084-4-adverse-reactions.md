@@ -9,13 +9,13 @@ The following adverse reactions are discussed in greater detail in other section
 - •Fat redistribution [see Warnings and Precautions (5.4)].
 - •Myocardial infarction [see Warnings and Precautions (5.5)].
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trials Experience in Adult Subjects
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults
+Therapy-naive Adults
 
-Therapy-naive Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
+Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
 
 Table 2.
 Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-naive Adults (CNA30024a) through 48 Weeks of Treatment
@@ -109,9 +109,11 @@ Treatment-emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 
-Pediatric Trials
+## 6.2 Clinical Trials Experience in Pediatric Subjects
 
-Therapy-experienced Pediatric Subjects: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg per kg twice daily, lamivudine 4 mg per kg twice daily, and zidovudine 180 mg per m2 twice daily compared with lamivudine 4 mg per kg twice daily and zidovudine 180 mg per m2 twice daily from CNA3006 are listed in Table 6.
+Therapy-experienced Pediatric Subjects (Twice-daily Dosing)
+
+Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg per kg twice daily, lamivudine 4 mg per kg twice daily, and zidovudine 180 mg per m2 twice daily compared with lamivudine 4 mg per kg twice daily and zidovudine 180 mg per m2 twice daily from CNA3006 are listed in Table 6.
 
 Table 6.
 Treatment-emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, Greater than or Equal to 5% Frequency) in Therapy-experienced Pediatric Subjects (CNA3006) through 16 Weeks of Treatment
@@ -132,7 +134,12 @@ Other Adverse Events
 
 In addition to adverse reactions and laboratory abnormalities reported in Tables 2, 3, 4, 5, and 6, other adverse reactions observed in the expanded access program were pancreatitis and increased GGT.
 
-## 6.2 Postmarketing Experience
+Pediatric Subjects Once-daily vs Twice-daily Dosing (COL105677): The safety of once-daily compared with twice-daily dosing of ZIAGEN was assessed in the ARROW trial.
+Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
+The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.
+One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
+
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ZIAGEN.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposures.

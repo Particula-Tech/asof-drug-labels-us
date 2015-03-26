@@ -9,7 +9,7 @@ The recommended oral dose of ZIAGEN for adults is 600 mg daily, administered as 
 
 ## 2.2 Pediatric Patients
 
-The recommended oral dose of ZIAGEN oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg twice daily (up to a maximum of 300 mg twice daily) in combination with other antiretroviral agents.
+The recommended oral dose of ZIAGEN oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg twice daily or 16 mg per kg once daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
 
 ZIAGEN is also available as a scored tablet for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
 Before prescribing ZIAGEN tablets, children should be assessed for the ability to swallow tablets.
@@ -17,14 +17,15 @@ If a child is unable to reliably swallow ZIAGEN tablets, the oral solution formu
 The recommended oral dosage of ZIAGEN tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
-Dosing Recommendations for ZIAGEN Tablets in Pediatric Patients
+Dosing Recommendations for ZIAGEN Scored Tablets in Pediatric Patients
 
-| Weight(kg) | Dosage Regimen Using Scored Tablet |  | TotalDaily Dose |
-| --- | --- | --- | --- |
-| AM Dose | PM Dose |  |  |
-| 14 to 21 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
-| >21 to <30 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
-| ≥30 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
+| Weight(kg) | Once-daily Dosing Regimena | Twice-daily Dosing Regimen |  |  |
+| --- | --- | --- | --- | --- |
+| AM Dose | PM Dose | Total Daily Dose |  |  |
+| 14 to <20 | 1 tablet (300 mg) | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
+| ≥20 to <25 | 1½ tablets (450 mg) | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
+| ≥25 | 2 tablets (600 mg) | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
+| a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. |  |  |  |  |
 
 ## 2.3 Patients with Hepatic Impairment
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Abacavir is an antiviral agent [See Microbiology (12.4)].
+Abacavir is an antiviral agent [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -13,6 +13,7 @@ The pharmacokinetic properties of abacavir were independent of dose over the ran
 
 Absorption and Bioavailability: Abacavir was rapidly and extensively absorbed after oral administration.
 The geometric mean absolute bioavailability of the tablet was 83%.
+Plasma abacavir AUC was similar following administration of the oral solution or tablets.
 After oral administration of 300 mg twice daily in 20 subjects, the steady-state peak serum abacavir concentration (Cmax) was 3.0 ± 0.89 mcg per mL (mean ± SD) and AUC(0-12 h) was 6.02 ± 1.73 mcg•hour per mL.
 After oral administration of a single dose of 600 mg of abacavir in 20 subjects, Cmax was 4.26 ± 1.19 mcg per mL (mean ± SD) and AUC∞ was 11.95 ± 2.51 mcg•hour per mL.
 
@@ -52,9 +53,14 @@ The AUCs of the metabolites were not modified by mild liver disease; however, th
 A dose of 200 mg (provided by 10 mL of ZIAGEN oral solution) administered twice daily is recommended for patients with mild liver disease.
 The safety, efficacy, and pharmacokinetics of abacavir have not been studied in subjects with moderate or severe hepatic impairment; therefore, ZIAGEN is contraindicated in these patients.
 
-Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of ZIAGEN in 68 pediatric subjects.
-Following multiple-dose administration of ZIAGEN 8 mg per kg twice daily, steady-state AUC(0-12 r) and Cmax were 9.8 ± 4.56 mcg•hour per mL and 3.71 ± 1.36 mcg per mL (mean ± SD), respectively [see Use in Specific Populations (8.4)].
-In addition, to support dosing of ZIAGEN scored tablet (300 mg) for pediatric patients 14 kg to greater than 30 kg, analysis of actual and simulated pharmacokinetic data indicated comparable exposures are expected following administration of 300 mg scored tablet and the 8 mg per kg dosing regimen using oral solution.
+Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of ZIAGEN in 169 pediatric subjects.
+Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
+Subjects receiving abacavir oral tablets achieved higher plasma concentrations of abacavir than subjects receiving oral solution.
+
+The pharmacokinetics of abacavir dosed once daily in HIV‑1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA 13 [n = 14], PENTA 15 [n = 18], and ARROW [n = 36]).
+All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice- versus once-daily dosing of abacavir and lamivudine.
+For the oral solution as well as the tablet formulation, these 3 trials demonstrated that once-daily dosing provides comparable AUC0-24 to twice-daily dosing of abacavir at the same total daily dose.
+The mean Cmax was approximately 1.6- to 2.3-fold higher with abacavir once-daily dosing compared with twice-daily dosing.
 
 Geriatric Patients: The pharmacokinetics of ZIAGEN have not been studied in subjects over 65 years of age.
 

@@ -35,6 +35,9 @@ The frequencies of symptoms are shown in Figure 1.
 Symptoms usually appeared within the first 6 weeks of treatment with abacavir, although the reaction may occur at any time during therapy.
 Median time to onset was 9 days; 89% appeared within the first 6 weeks; 95% of subjects reported symptoms from 2 or more of the 5 groups listed above.
 
+Figure 1.
+Hypersensitivity-related Symptoms Reported with Greater than or Equal to 10% Frequency in Clinical Trials (n = 206 Subjects)
+
 Other less common signs and symptoms of hypersensitivity include lethargy, myolysis, edema, abnormal chest x-ray findings (predominantly infiltrates, which can be localized), and paresthesia.
 Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, and death have occurred in association with hypersensitivity reactions.
 In one trial, 4 subjects (11%) receiving ZIAGEN 600 mg once daily experienced hypotension with a hypersensitivity reaction compared with 0 subjects receiving ZIAGEN 300 mg twice daily.
@@ -106,3 +109,8 @@ In a published prospective, observational, epidemiological trial designed to inv
 In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).
+
+## 5.6 Use with Other Abacavir-containing Products
+
+ZIAGEN is one of multiple abacavir-containing products.
+Concomitant administration of ZIAGEN with other products containing abacavir is not recommended.
