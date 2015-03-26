@@ -9,7 +9,7 @@ Pregnancy Category B
 Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to NORVIR, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1–800–258–4263.
 
-Human Data:
+Human Data
 
 There are no adequate and well-controlled studies in pregnant women.
 NORVIR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

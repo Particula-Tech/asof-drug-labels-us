@@ -52,10 +52,10 @@ See the end of this leaflet for a complete list of ingredients in NORVIR.
 Do not take NORVIR with any of the following medicines:
 
 - alfuzosin (Uroxatral)
-- amiodarone (Cordarone, Nexterone, Pacerone), flecainide (Tambocor), propafenone (Rhythmol) or quinidine (Nuedext, Quinaglute, Cardioquin, Quinidex, and others)
+- amiodarone (Cordarone, Nexterone, Pacerone), flecainide (Tambocor), propafenone (Rythmol) or quinidine (Nuedext, Quinaglute, Cardioquin, Quinidex, and others)
 - voriconazole (VFend) if NORVIR dose is 400 mg every 12 hours or greater
 - dihydroergotamine (D.H.E.
-  45, Embolex, Migranal), ergonovine, ergotamine (Cafergot, Ergomar) methylergonovine (Methergine)
+  45, Embolex, Migranal), ergotamine (Cafergot, Ergomar) methylergonovine (Methergine)
 - cisapride (Propulsid)
 - St. John’s Wort (Hypericum perforatum)
 - the cholesterol lowering medicines lovastatin (Mevacor, Altoprev, Advicor) or simvastatin (Zocor, Simcor, Vytorin)
@@ -108,6 +108,7 @@ Especially tell your doctor if you take:
 - medicine used to treat blood pressure, a heart attack, heart failure, or to lower pressure in the eye such as metoprolol (Lopressor, Toprol-XL), timolol (Cosopt, Betimol, Timoptic, Isatolol, Combigan)
 - medicine for lung disease such as theophylline and salmeterol (Serevent)
 - bosentan (Tracleer)
+- medicine to treat Hepatitis C such as simeprevir (Olysio)
 - medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune, Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
 - steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase), budesonide (Entocort EC, Pulmicort, Rhinocort), or prednisone
 - a narcotic medicine such as methadone (Methadose, Dolophine Hydrochloride) or fentanyl (Abstral, Actiq, Fentora, Lazanda, Onsolis, Duragesic)
@@ -116,7 +117,7 @@ Especially tell your doctor if you take:
   If you are taking avanafil (Stendra), your doctor may need to change it to a different medicine.
 - midazolam by injection
 - methamphetamine (Desoxyn)
-- cholesterol lowering medicine such as atorvastatin (Lipitor) or rosuvasatin (Crestor)
+- cholesterol lowering medicine such as atorvastatin (Lipitor) or rosuvastatin (Crestor)
 
 This is not a complete list of medicines that you should tell your doctor that you are taking.
 Ask your doctor, provider or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -271,6 +272,8 @@ NORVIR tablets and oral solution are manufactured by:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-* The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
+Revised: March 2015
 
-03-A842 November 2013
+The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
+
+© 2015 AbbVie Inc. All rights reserved.

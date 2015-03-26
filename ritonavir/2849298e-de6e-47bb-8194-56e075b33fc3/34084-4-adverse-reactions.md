@@ -9,9 +9,11 @@ The following adverse reactions are discussed in greater detail in other section
 
 When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including adverse reactions.
 
-## 6.1 Adult Clinical Trial Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Adverse Reactions in Adults
 
 The safety of NORVIR alone and in combination with other antiretroviral agents was studied in 1,755 adult patients.
 Table 3 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
@@ -76,7 +78,7 @@ Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to 
 | Peripheral coldness* | 21 | 1.2 |
 | * Represents a medical concept including several similar MedDRA PTs |  |  |
 
-Laboratory Abnormalities
+Laboratory Abnormalities in Adults
 
 Table 4 shows the percentage of adult patients who developed marked laboratory abnormalities.
 
@@ -104,18 +106,18 @@ Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and H
 | WBC | < 2.5 x 109/L | - | 0.9 | 6.8 | 36.9 | 59.4 | 3.5 |
 | - Indicates no events reported. |  |  |  |  |  |  |  |
 
-## 6.2 Pediatric Clinical Trial Experience
+Adverse Reactions in Pediatric Patients
 
 NORVIR has been studied in 265 pediatric patients greater than 1 month to 21 years of age.
 The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
 
 Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in greater than or equal to 2% of pediatric patients enrolled in NORVIR clinical trials.
 
-Laboratory Abnormalities
+Laboratory Abnormalities in Pediatric Patients
 
 The following Grade 3-4 laboratory abnormalities occurred in greater than 3% of pediatric patients who received treatment with NORVIR either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse events (not previously mentioned in the labeling) have been reported during post-marketing use of NORVIR.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to NORVIR exposure.

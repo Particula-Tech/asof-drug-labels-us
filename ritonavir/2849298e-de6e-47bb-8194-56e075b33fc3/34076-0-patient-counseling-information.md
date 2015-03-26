@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
-
-Information For Patients
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
 Patients or parents of patients should be informed that:
 
@@ -83,3 +81,7 @@ NORVIR tablets and oral solution are manufactured by:
 AbbVie Inc.
 
 North Chicago, IL 60064 USA
+
+© 2015 AbbVie Inc. All rights reserved.
+
+03-B016
