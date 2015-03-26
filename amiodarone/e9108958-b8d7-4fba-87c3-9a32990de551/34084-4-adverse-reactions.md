@@ -1,5 +1,7 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are described in Warnings and Precautions: hypotension, rhythm disturbances, hepatic injury, pulmonary injury, thyroid injury, hypersensitivity.
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -31,37 +33,41 @@ Table 4: ADVERSE REACTIONS IN PATIENTS RECEIVING INTRAVENOUS AMIODARONE IN CONTR
 | Liver function tests abnormal | 35 | (4.2%) | 29 | (2.8%) | 64 | (3.4%) |
 | Nausea | 29 | (3.5%) | 43 | (4.2%) | 72 | (3.9%) |
 
-Other adverse reactions reported in less than 2% of patients receiving intravenous amiodarone in controlled and uncontrolled studies included the following: abnormal kidney function, atrial fibrillation, diarrhea, increased ALT, increased AST, lung edema, nodal arrhythmia, prolonged QT interval, respiratory disorder, shock, sinus bradycardia, Stevens-Johnson syndrome, thrombocytopenia, VF, and vomiting.
+Other adverse reactions reported in less than 2% of patients receiving intravenous amiodarone in controlled and uncontrolled studies included the following: abnormal kidney function, atrial fibrillation, diarrhea, increased ALT, increased AST, lung edema, nodal arrhythmia, prolonged QT interval, atrioventricular block, respiratory disorder, shock, sinus bradycardia, Stevens-Johnson syndrome, thrombocytopenia, VF, and vomiting.
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of amiodarone.
+The following adverse reactions have been reported in the post-marketing experience during or in close temporal relationship to intravenous amiodarone administration.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: anaphylactic/anaphylactoid reaction (including shock), fever
+Blood and Lymphatic System Disorders: pancytopenia, neutropenia, hemolytic anemia, aplastic anemia, thrombocytopenia, and granulocytosis.
 
-Cardiovascular: hypotension (sometimes fatal), sinus arrest
+Cardiac Disorders: sinus node dysfunction (sinus arrest, sinoatrial block), intraventricular conduction disorders including bundle branch block and infra-HIS block, bradycardia (sometimes fatal), ventricular extrasystoles, and antegrade conduction via an accessory pathway.
 
-Dermatologic: toxic epidermal necrolysis (sometimes fatal), exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, skin cancer, pruritus, angioedema
+Endocrine Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH)
 
-Endocrine: syndrome of inappropriate antidiuretic hormone secretion (SIADH)
+Eye Disorders: visual field defect and blurred vision.
 
-Hematologic: pancytopenia, neutropenia, hemolytic anemia, aplastic anemia, thrombocytopenia, agranulocytosis, granuloma
+Gastrointestinal Disorders: pancreatitis.
 
-Hepatic: hepatitis, cholestatic hepatitis, cirrhosis
+General Disorders and Administration Site Conditions: infusion site reactions, including thombosis, phlebitis, thrombophlebitis, cellulitis, pain, induration, edema, inflammation, urticaria, pruritus, erythema, pigment changes, hypoesthesia, skin sloughing, extravasation possibly leading to venous/infusion site necrosis, intravascular amiodarone deposition/mass (developed in the superior vena cava around acentral venous catheter after long – term [28 days] amiodarone therapy administered through a central line), and granuloma.
 
-Injection Site Reactions: pain, erythema, edema, pigment changes, venous thombosis, phlebitis, thrombophlebitis, cellulitis, necrosis, and skin sloughing
+Hepatobiliary Disorders: cholestasis, cirrhosis, jaundice, alkaline phosphatase and blood lactate dehydrogenase increase.
 
-Musculoskeletal: myopathy, muscle weakness, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: myopathy, muscle weakness, rhabdomyolysis, muscle spasms, and back pain.
 
-Nervous System: hallucination, confusional state, disorientation, and delirium, pseudotumor cerebri
+Neoplasms benign, malignant and unspecified (incl cysts and polyps) Disorders: thyroid nodules/thyroid cancer.
 
-Pancreatic: pancreatitis
+Nervous System Disorders: intracranial pressure increased, pseudotumor cerebri, tremor, dizziness and hypoesthesia.
 
-Renal: renal impairment, renal insufficiency, acute renal failure
+Psychiatric Disorders: confusional state, hallucination, disorientation, and delirium.
 
-Respiratory: bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates, and /or mass, pleuritis
+Renal and Urinary Disorders: acute renal failure (sometimes fatal), renal impairment, renal insufficiency, and blood creatinine increased.
 
-Thyroid: thyroid nodules/thyroid cancer
+Reproductive Disorders and Breast Disorders: Epididymitis
 
-Vascular: vasculitis
+Respiratory, Thoracic and Mediastinal Disorders: interstitial pneumonitis, bronchiolitis obliterans organizing pneumonia (possibly fatal), pulmonary alveolar hemorrhage, pulmonary phospholipidoisis, pleural effusion, bronchospasm, dyspnea, cough, hemoptysis, wheezing, and hypoxia.
+
+Skin and Subcutaneous Tissue Disorders: toxic epidermal necrolysis (sometimes fatal), Stevens-Johnson syndrome, exfoliative dermatitis, erythema multiforme, skin cancer, pruritus, angioedema, and urticaria.
+
+Vascular Disorders: vasculitis and flushing.

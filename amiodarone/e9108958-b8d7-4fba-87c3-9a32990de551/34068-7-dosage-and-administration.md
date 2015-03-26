@@ -33,13 +33,16 @@ Therefore, for infusions longer than 1 hour, do not exceed NEXTERONE concentrati
 NEXTERONE Premixed Injection is available in GALAXY containers as a single-use, ready-to-use, iso-osmotic solution in dextrose for intravenous administration.
 No further dilution is required.
 NEXTERONE Premixed Injection should not be combined with any product in the same intravenous line or premixed container.
+Do not add supplemental medication.
 Protect from light until ready to use.
 
 NEXTERONE does not need to be protected from light during administration.
 
 Since the premixed container is for single-use only, any unused portion should be discarded.
 
-NOTE: Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
+NOTE: Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit, solution should be clear.
+Visually inspect the container.
+If the administration port protector is damaged, detached or not present, discard the container as the solution path sterility may be compromised.
 Check for minute leaks prior to use by squeezing the bag firmly.
 If leaks are detected, discard solution as sterility may be impaired.
 
@@ -53,18 +56,34 @@ Preparation of NEXTERONE Premixed Injection for administration:
 - 3.Attach administration set.
   Refer to complete directions accompanying set.
 
-Admixture Incompatibility NEXTERONE in D5W is incompatible with the drugs shown in Table 2.
+Admixture Incompatibility Amiodarone in D5W Injection forms precipitates with the drugs shown in Table 2.
+If co-administration of the following drugs is necessary, use separate intravenous administration lines.
 
 Table 2: Y-SITE INJECTION INCOMPATIBILITY
 
-| Drug | Vehicle | Amiodarone Concentration | Comments |
-| --- | --- | --- | --- |
-| Aminophylline | D5W | 4 mg/mL | Precipitate |
-| Cefamandole Nafate | D5W | 4 mg/mL | Precipitate |
-| Cefazolin Sodium | D5W | 4 mg/mL | Precipitate |
-| Mezlocillin Sodium | D5W | 4 mg/mL | Precipitate |
-| Heparin Sodium | D5W | -- | Precipitate |
-| Sodium Bicarbonate | D5W | 3 mg/mL | Precipitate |
+| Drug | Vehicle | Amiodarone Concentration |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Aminophylline | D5W; NS | 4 mg/mL |  |  |  |
+| Amoxicillin Sodium-Clavulanic Acid | unknown | 12.5 mg/mL |  |  |  |
+| Ampicillin Sodium-Sulbactam Sodium | NS | 6 mg/mL |  |  |  |
+| Argatroban | D5W | 1.8 mg/mL |  |  |  |
+| Bivalirudin | D5W | 4 mg/mL |  |  |  |
+| Cefamandole Nafate | D5W | 4 mg/mL |  |  |  |
+| Cefazolin Sodium | D5W | 4 mg/mL |  |  |  |
+| Ceftazidime | D5W | 6 mg/mL |  |  |  |
+| Digoxin | D5W | 6 mg/mL |  |  |  |
+| Furosemide (10 mg/mL) | D5W | 6 mg/mL |  |  |  |
+| Mezlocillin Sodium | D5W | 4 mg/mL |  |  |  |
+| Heparin Sodium | D5W | -- |  |  |  |
+| Imipenem-Cilastin Sodium | D5W | 6 mg/mL |  |  |  |
+| Magnesium Sulfate (500 mg/mL) | D5W | 6 mg/mL |  |  |  |
+| Micafungin | NS | 4 mg/mL |  |  |  |
+| Piperacillin Sodium –Tazobactam Sodium | D5W | 6 mg/mL |  |  |  |
+| Potassium Phosphates | D5W | 6 mg/mL |  |  |  |
+| Sodium Bicarbonate | D5W | 3 mg/mL |  |  |  |
+| Sodium Nitroprusside | D5W | 1.5, 6 and 15 mg/mL |  |  |  |
+| Sodium Phosphates | D5W | 6 mg/mL |  |  |  |
+| D5W = Dextrose 5% in Sterile Water, NS = Normal Saline |  |  |  |  |  |
 
 Intravenous to Oral Transition Patients whose arrhythmias have been suppressed by NEXTERONE may be switched to oral amiodarone.
 The optimal dose for changing from intravenous to oral administration of amiodarone will depend on the dose of NEXTERONE already administered, as well as the bioavailability of oral amiodarone.

@@ -1,4 +1,4 @@
-# 18 PACKAGE LABELING - PRINCIPAL DISPLAY PANEL
+# PACKAGE LABELING - PRINCIPAL DISPLAY PANEL
 
 Container Label
 
@@ -12,7 +12,7 @@ GALAXY 200mL Single-Dose Container Discard unused portion
 
 Iso-osmotic solution in Dextrose Code 2G3450 Sterile, Nonpyrogenic
 
-Each mL contains: 1.8 mg amiodarone HCl, USP; 18 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
+Each mL contains: 1.8 mg amiodarone HCl, 18 mg sulfobutylether ß-cyclodextrin sodium, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
 CAUTIONS: Check for minute leaks by squeezing bag firmly.
@@ -34,7 +34,7 @@ Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-PL2501 Plastic 07-34-72-795
+PL2501 Plastic 07-34-67-735
 
 Carton Label
 
@@ -56,6 +56,8 @@ For Intravenous Use
 
 Nexterone (amiodarone HCl) Premixed Injection
 
+Baxter, Galaxy and Nexterone are registered trademarks of Baxter International Inc.
+
 360 mg/200 mL (1.8 mg/mL)
 
 For Intravenous Use Iso-osmotic solution in Dextrose Sterile, Nonpyrogenic
@@ -68,23 +70,29 @@ UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 
 *UPC-A Bar Code Placement 343066360207
 
-Each mL contains: 1.8 mg amiodarone HCl, USP; 18 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
+Each mL contains: 1.8 mg amiodarone HCl, 18 mg sulfobutylether ß-cyclodextrin sodium, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
-DOSAGE: See package insert for complete information on dosage and administration.
+Does not contain polysorbate 80 or benzyl alcohol.
+
+DOSAGE: See enclosed package insert for complete information on dosage and administration.
+
+CAUTIONS: Check for minute leaks by squeezing bag firmly.
+If leaks are found, discard bag as sterility may be impaired.
+Do not use unless solution is clear.
+Do not add supplemental medication.
+Must not be used in series connections.
 
 STORAGE: Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-01-72-797
-
-Container Label
+07-01-67-740
 
 NDC 43066-150-10 For Intravenous Use
 
@@ -96,7 +104,7 @@ GALAXY 100mL Single-Dose Container Discard unused portion
 
 Iso-osmotic solution in Dextrose Code 2G3451 Sterile, Nonpyrogenic
 
-Each mL contains: 1.5 mg amiodarone HCl, USP; 15 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 42.1 mg dextrose anhydrous in water for injection.
+Each mL contains: 1.5 mg amiodarone HCl, 15 mg sulfobutylether ß-cyclodextrin sodium, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 42.1 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
 CAUTIONS: Check for minute leaks by squeezing bag firmly.
@@ -106,9 +114,7 @@ Do not use unless solution is clear.
 Do not add supplemental medication.
 Must not be used in series connections.
 
-Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F).
-
-See USP Controlled Room Temperature.
+Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 
@@ -120,11 +126,11 @@ Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-PL2501 Plastic 07-34-72-794
+PL2501 Plastic 07-34-67-736
 
 For Intravenous Use NDC 43066-150-10 Code 2G3451
 
-NDC 43066-150-10 Code 2G3451Nexterone (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection
 
 150 mg/100 mL (1.5 mg/mL)
 
@@ -140,6 +146,8 @@ For Intravenous Use
 
 Nexterone (amiodarone HCl) Premixed Injection
 
+Baxter, Galaxy and Nexterone are registered trademarks of Baxter International Inc.
+
 150 mg/100 mL (1.5 mg/mL)
 
 For Intravenous Use Iso-osmotic solution in Dextrose Sterile, Nonpyrogenic
@@ -152,20 +160,26 @@ UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 
 *UPC-A Bar Code Placement 343066150105
 
-Each mL contains: 1.5 mg amiodarone HCl, USP; 15 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 42.1 mg dextrose anhydrous in water for injection.
+Each mL contains: 1.5 mg amiodarone HCl, 15 mg sulfobutylether ß-cyclodextrin sodium, 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 42.1 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
 Does not contain polysorbate 80 or benzyl alcohol.
 
-DOSAGE: See package insert for complete information on dosage and administration.
+DOSAGE: See enclosed package insert for complete information on dosage and administration.
+
+CAUTIONS: Check for minute leaks by squeezing bag firmly.
+If leaks are found, discard bag as sterility may be impaired.
+Do not use unless solution is clear.
+Do not add supplemental medication.
+Must not be used in series connections.
 
 STORAGE: Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-01-72-796
+07-01-67-739

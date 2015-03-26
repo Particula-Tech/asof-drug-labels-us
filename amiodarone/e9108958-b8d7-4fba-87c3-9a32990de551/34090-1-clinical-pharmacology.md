@@ -82,3 +82,40 @@ Although no dosage adjustment for patients with renal, hepatic, or cardiac abnor
 ### Exposure-Response:
 
 There is no established relationship between drug concentration and therapeutic response for short-term intravenous use.
+
+### Drug Interactions:
+
+Effect of other drugs on amiodarone:
+
+Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
+
+Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.
+
+Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination.
+This results in reduced amiodarone serum levels and half-life.
+
+Effect of amiodarone on other drugs:
+
+Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
+Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
+
+Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone
+
+Metabolism of lidocaine can be inhibited by amiodarone.
+Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine (CYP3A substrate) given for local anesthesia.
+Seizure, associated with increased lidocaine concentrations, has been reported with concomitant administration of intravenous amiodarone.
+
+Amiodarone can inhibit the metabolism of macrolide/ketolide antibiotics (except for azithromycin) and systemic azole antifungal drugs.
+
+Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day.
+
+Dextromethorphan is a substrate for both CYP2D6 and CYP3A.
+Amiodarone inhibits CYP2D6.Chronic (> 2 weeks) oral amiodarone administration impairs metabolism of dextromethorphan can lead to increased serum concentrations.
+
+Dabigatran etexilate when taken concomitantly with oral amiodarone can result in elevated serum concentration of dabigatran.
+
+Cyclophosphamide is a prodrug, metabolized by CYP450 including CYP3A to an active metabolite.
+The metabolism of cyclophosphamide may be inhibited by amiodarone.
+
+Clopidogrel, an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite.
+A potential interaction between clopidogrel and amiodarone resulting in ineffective inhibition of platelet aggregation has been reported.
