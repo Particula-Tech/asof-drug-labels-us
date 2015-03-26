@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 2.5 mL Bottle Label
 
-Xalatan® latanoprost ophthalmic solution Sterile 0.005% 125 µg/2.5 mL
+Xalatan® latanoprost ophthalmic solution Sterile 0.005% 125 mcg/2.5 mL
 
-8Q2412
+8Q4237
 
 # PRINCIPAL DISPLAY PANEL - 2.5 mL Bottle Carton
 
@@ -14,7 +14,7 @@ Xalatan® latanoprost ophthalmic solution
 
 STERILE 0.005%
 
-125 µg/2.5 mL*
+125 mcg/2.5 mL*
 
 One 2.5 mL Bottle Rx only
 
