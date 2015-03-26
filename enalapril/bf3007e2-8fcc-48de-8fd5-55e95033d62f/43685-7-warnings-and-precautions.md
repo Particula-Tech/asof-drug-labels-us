@@ -76,24 +76,24 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 
 ### Embryo-fetal toxicity
 
-Pregnancy category D
+Pregnancy Category D
 
 Enalapril Maleate
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Vaseretic as soon as possible.
+When pregnancy is detected, discontinue VASERETIC as soon as possible.
 These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
-If oligohydramnios is observed, discontinue Vaseretic, unless it is considered lifesaving for the mother.
+If oligohydramnios is observed, discontinue VASERETIC, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Vaseretic for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
+Closely observe infants with histories of in utero exposure to VASERETIC for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
 On a body surface area basis, the doses used were 57 times and 12 times, respectively, the MRHDD.
@@ -198,7 +198,7 @@ Hyperkalemia: Patients should be told not to use salt substitutes containing pot
 
 Neutropenia: Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of neutropenia.
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Vaseretic during pregnancy.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to VASERETIC during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
@@ -238,7 +238,7 @@ However, reports suggest that NSAIDs may diminish the antihypertensive effect of
 
 Other Cardiovascular Agents: Enalapril has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine and prazosin without evidence of clinically significant adverse interactions.
 
-Agents Increasing Serium Potassium: Enalapril attenuates diuretic-induced potassium loss.
+Agents Increasing Serum Potassium: Enalapril attenuates diuretic-induced potassium loss.
 Potassium-sparing diuretics (e.g., spironolactone, triameterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia they should be used with caution and with frequent monitoring of serum potassium.
 
@@ -309,7 +309,7 @@ Because of the potential for serious reactions in nursing infants from either dr
 
 Pediatric Use
 
-Neonates with a history of in utero exposure to Vaseretic:
+Neonates with a history of in utero exposure to VASERETIC:
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
