@@ -18,7 +18,7 @@ Bottles of 100………………………………………………………NDC
 
 Ritalin LA capsules 60 mg: light brown/yellow (imprinted NVR R60)
 
-Bottles of 100………………………………………………………NDC 0078-0658-05
+Bottles of 30……..…………………………………………………NDC 0078-0658-15
 
 Store at 25°C (77°F), excursions permitted 15°C-30°C (59°F-86°F).
 [See USP controlled room temperature]

@@ -82,7 +82,7 @@ separately.
 
 Package Label – 60 mg
 
-Rx Only NDC 0078-0658-05
+Rx Only NDC 0078-0658-15
 
 Ritalin LA® (methylphenidate HCl)
 
@@ -90,7 +90,7 @@ extended-release capsules
 
 60 mg
 
-100 capsules
+30 capsules
 
 Dispense with Medication
 
