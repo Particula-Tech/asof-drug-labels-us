@@ -151,6 +151,6 @@ Myocardial ischemia or myocardial infarction led to death in 3 patients in the p
 The following additional adverse reactions have been identified during post approval use of ZYTIGA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis
+Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
 
-Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.

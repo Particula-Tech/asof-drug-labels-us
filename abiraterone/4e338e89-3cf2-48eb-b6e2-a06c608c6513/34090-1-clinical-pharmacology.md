@@ -12,7 +12,7 @@ Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoi
 Androgen sensitive prostatic carcinoma responds to treatment that decreases androgen levels.
 Androgen deprivation therapies, such as treatment with GnRH agonists or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumor.
 
-ZYTIGA decreased serum testosterone and other androgens in patients in the placebo-controlled phase 3 clinical trial.
+ZYTIGA decreased serum testosterone and other androgens in patients in the placebo-controlled Phase 3 clinical trial.
 It is not necessary to monitor the effect of ZYTIGA on serum testosterone levels.
 
 Changes in serum prostate specific antigen (PSA) levels may be observed but have not been shown to correlate with clinical benefit in individual patients.
@@ -86,7 +86,7 @@ In a clinical pharmacokinetic interaction study of healthy subjects pretreated w
 
 In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1)].
 
-In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate [see Drug Interactions (7.2)].
+In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000mg abiraterone acetate [see Drug Interactions (7.2)].
 
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
 There are no clinical data available to confirm transporter based interaction.

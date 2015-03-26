@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of ZYTIGA in patients with metastatic castration--resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, multicenter phase 3 clinical trials.
+The efficacy and safety of ZYTIGA in patients with metastatic castration-resistant prostate cancer (CRPC) that has progressed on androgen deprivation therapy was demonstrated in two randomized, placebo-controlled, multicenter Phase 3 clinical trials.
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 
 Study 1
@@ -17,7 +17,7 @@ Ninety percent of patients had metastases in bone and 30% had visceral involveme
 Seventy percent of patients had radiographic evidence of disease progression and 30% had PSA-only progression.
 Seventy percent of patients had previously received one cytotoxic chemotherapy regimen and 30% received two regimens.
 
-The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival in patients treated with ZYTIGA compared to patients in the placebo arm (Table 5 and Figure 1).
+The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival (OS) in patients treated with ZYTIGA compared to patients in the placebo arm (Table 5 and Figure 1).
 An updated survival analysis was conducted when 775 deaths (97% of the planned number of deaths for final analysis) were observed.
 Results from this analysis were consistent with those from the interim analysis (Table 5).
 
@@ -28,7 +28,7 @@ Table 5: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in C
 | Primary Survival Analysis |  |  |
 | Deaths (%) | 333 (42%) | 219 (55%) |
 | Median survival (months) (95% CI) | 14.8 (14.1, 15.4) | 10.9 (10.2, 12.0) |
-| p-valueP-value is derived from a log-rank test stratified by ECOG performance status score (0–1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). | <0.0001 |  |
+| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0–1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic). | <0.0001 |  |
 | Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA | 0.646 (0.543, 0.768) |  |
 | Updated Survival Analysis |  |  |
 | Deaths (%) | 501 (63%) | 274 (69%) |
@@ -56,20 +56,20 @@ Baseline pain assessment was 0–1 (asymptomatic) in 66% of patients and 2–3 (
 Radiographic progression-free survival was assessed with the use of sequential imaging studies and was defined by bone scan identification of 2 or more new bone lesions with confirmation (Prostate Cancer Working Group 2 criteria) and/or modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria for progression of soft tissue lesions.
 Analysis of rPFS utilized centrally-reviewed radiographic assessment of progression.
 
-At the protocol pre-specified third interim analysis for overall survival, 37% (200 of 546) of patients treated with ZYTIGA, compared with 43% (234 of 542) of patients treated with placebo, had died.
-Overall survival was longer for ZYTIGA than placebo with a hazard ratio of 0.792 (95% CI: 0.655 – 0.956).
-The p-value was 0.0151 which did not meet the pre-specified value for statistical significance (Table 6 and Figure 2).
+The planned final analysis for OS, conducted after 741 deaths (median follow up of 49 months) demonstrated a statistically significant OS improvement in patients treated with ZYTIGA compared to those treated with placebo (Table 6 and Figure 2).
+Sixty-five percent of patients on the ZYTIGA arm and 78% of patients on the placebo arm used subsequent therapies that may prolong OS in metastatic CRPC.
+ZYTIGA was used as a subsequent therapy in 13% of patients on the ZYTIGA arm and 44% of patients on the placebo arm.
 
 Table 6: Overall Survival of Patients Treated with Either ZYTIGA or Placebo in Combination with Prednisone in Study 2 (Intent-to-Treat Analysis)
 
 | Overall Survival | ZYTIGA (N=546) | Placebo (N=542) |
 | --- | --- | --- |
-| Deaths | 200 (37%) | 234 (43%) |
-| Median survival (months) (95% CI) | 35.3 (31.24, 35.29) | 30.1 (27.30, 34.10) |
-| p-valueP-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | 0.0151 |  |
-| Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA (95% CI) | 0.792 (0.655, 0.956) |  |
+| Deaths | 354 (65%) | 387 (71%) |
+| Median survival (months) (95% CI) | 34.7 (32.7, 36.8) | 30.3 (28.7, 33.3) |
+| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | 0.0033 |  |
+| Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA (95% CI) | 0.81 (0.70, 0.93) |  |
 
-Figure 2 – Kaplan Meier Overall Survival Curves in Study 2 (Intent-to-Treat analysis)
+Figure 2: Kaplan Meier Overall Survival Curves in Study 2
 
 At the pre-specified rPFS analysis, 150 (28%) patients treated with ZYTIGA and 251 (46%) patients treated with placebo had radiographic progression.
 A significant difference in rPFS between treatment groups was observed (Table 7 and Figure 3).
@@ -80,14 +80,14 @@ Table 7: Radiographic Progression-free Survival of Patients Treated with Either 
 | --- | --- | --- |
 | Progression or death | 150 (28%) | 251 (46%) |
 | Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |
-| p-valueP-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | <0.0001 |  |
+| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | <0.0001 |  |
 | Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA (95% CI) | 0.425 (0.347, 0.522) |  |
 | NR=Not reached |  |  |
 
 Figure 3 – Kaplan Meier Curves of Radiographic Progression-free Survival in Study 2 (Intent-to-Treat Analysis)
 
 The primary efficacy analyses are supported by the following prospectively defined endpoints.
-The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR=0.580; 95% CI: [0.487, 0.691], p<0.0001).
+The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR=0.580; 95% CI: [0.487, 0.691], p < 0.0001).
 
 The median time to opiate use for prostate cancer pain was not reached for patients receiving ZYTIGA and was 23.7 months for patients receiving placebo (HR=0.686; 95% CI: [0.566, 0.833], p=0.0001).
 The time to opiate use result was supported by a delay in patient reported pain progression favoring the ZYTIGA arm.

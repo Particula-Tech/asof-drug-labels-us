@@ -28,7 +28,7 @@ Safety and effectiveness of ZYTIGA in pediatric patients have not been establish
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients receiving ZYTIGA in phase 3 trials, 73% of patients were 65 years and over and 30% were 75 years and over.
+Of the total number of patients receiving ZYTIGA in Phase 3 trials, 73% of patients were 65 years and over and 30% were 75 years and over.
 No overall differences in safety or effectiveness were observed between these elderly patients and younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
