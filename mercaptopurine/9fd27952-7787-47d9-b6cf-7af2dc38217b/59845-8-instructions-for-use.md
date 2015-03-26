@@ -21,13 +21,13 @@ Before you use PURIXAN oral suspension for the first time:
 | --- | --- | --- |
 | 2. | Put on disposable gloves before handling PURIXAN. |  |
 | 3. | Shake the bottle vigorously for at least 30 seconds to make sure that the medicine is well mixed (See Figure A). | Figure A |
-| 4. | Remove the child-resistant cap.(See Figure B). | Figure B |
+| 4. | Remove the child-resistant cap (See Figure B). | Figure B |
 | 5. | Push the ribbed end of the adapter into the neck of the bottle until it is firmly in place. The bottom edge of the adapter should fully contact the top rim of the bottle (See Figure C). Do not remove the adapter from the bottle after it is inserted. | Figure C |
 | To prepare a dose of PURIXAN oral suspension: |  |  |
-| 6. | Hold the bottle upright. Remove the bottle cap by turning in the direction of the arrow (See Figure B above shown in Step 4). |  |
+| 6. | Hold the bottle upright. Remove the bottle cap by turning in the direction of the arrow (See Figure B). |  |
 | 7. | Push the tip of the oral dispensing syringe into the hole in the adapter (See Figure D). | Figure D |
 | 8. | Turn the bottle upside down (See Figure E). | Figure E |
-| 9. | Pull back slowly on the plunger of the oral dispensing syringe to withdraw the prescribed dose of PURIXAN. Pull the plunger back to the point on the scale that corresponds to the dose prescribed (Figure E shown above in Step 8). If you are not sure about how much medicine to draw into the oral dispenser, always ask your doctor, pharmacist or nurse for advice. |  |
+| 9. | Pull back slowly on the plunger of the oral dispensing syringe to withdraw the prescribed dose of PURIXAN. Pull the plunger back to the point on the scale that corresponds to the dose prescribed (Figure E). If you are not sure about how much medicine to draw into the oral dispenser, always ask your doctor, pharmacist or nurse for advice. |  |
 | 10. | Leave the oral dispensing syringe in the bottle adapter and turn the bottle right-side up. Place the bottle onto a flat surface. Hold the oral dispensing syringe by the barrel and carefully remove it from the adapter. Do not hold the oral dispensing syringe by the plunger, because the plunger may come out. |  |
 | 11. | Place the tip of the oral dispensing syringe in your mouth and aim the tip toward the inside of your cheek. |  |
 | 12. | Gently squirt the PURIXAN oral suspension into your mouth by pushing on the plunger until the oral dispensing syringe is empty. Swallow the medicine Do not forcefully push on the plunger. Do not squirt the medicine to the back of your mouth or throat. This may cause you to choke. |  |
