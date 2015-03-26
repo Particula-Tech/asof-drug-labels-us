@@ -11,7 +11,7 @@
 | Alpha1-adrenoreceptor antagonist | Alfuzosin HCL | Potential for hypotension. |
 | Antiarrhythmics | Amiodarone, flecainide, propafenone, quinidine | Potential for cardiac arrhythmias. |
 | Antifungal | Voriconazole | Co-administration of voriconazole with ritonavir 400 mg every 12 hours significantly decreases voriconazole plasma concentrations and may lead to loss of antifungal response. Voriconazole is contraindicated with ritonavir doses of 400 mg every 12 hours or greater [see Drug Interactions (7.2)]. |
-| Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. |
+| Ergot Derivatives | Dihydroergotamine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. |
 | GI Motility Agent | Cisapride | Potential for cardiac arrhythmias. |
 | Herbal Products | St. John’s Wort (hypericum perforatum) | Co-administration of NORVIR with St. John’s Wort may result in decreased ritonavir plasma concentrations and may lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |

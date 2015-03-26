@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient information).
 
-Information For Patients Patients or parents of patients should be informed that:
+Patients or parents of patients should be informed that:
 
 General Information
 
@@ -80,3 +80,5 @@ Concomitant use of Revatio® (sildenafil) with NORVIR is contraindicated in pati
 NORVIR 100 mg soft gelatin capsules are manufactured for:
 
 AbbVie Inc. North Chicago, IL 60064 USA
+
+© AbbVie Inc., 2015
