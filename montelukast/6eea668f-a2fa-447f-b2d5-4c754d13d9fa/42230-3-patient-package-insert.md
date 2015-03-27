@@ -1,4 +1,8 @@
-Patient Information Montelukast Sodium Tablets
+Patient Information
+
+Montelukast Sodium Tablets
+
+(mon te loo′ kast soe′ dee um)
 
 Read the Patient Information Leaflet that comes with montelukast sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -130,6 +134,7 @@ Other side effects with montelukast sodium tablets include:
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps
+- bedwetting in children
 - tiredness, swelling
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -196,6 +201,6 @@ Dist.- Ahmedabad: 382 210.
 
 INDIA.
 
-10 9988 5 653515
+10 9988 6 658837
 
-Issued April 2014
+Issued January 2015

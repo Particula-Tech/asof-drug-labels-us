@@ -2,20 +2,20 @@
 
 ## 12.1 Mechanism of Action
 
-The cysteinyl leukotrienes (LTC4, LTD4, LTE4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils.
+The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils.
 These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors.
-The CysLT type-1 (CysLT1) receptor is found in the human airway (including airway smooth muscle cells and airway macrophages) and on other pro-inflammatory cells (including eosinophils and certain myeloid stem cells).
+The CysLT type-1 (CysLT 1) receptor is found in the human airway (including airway smooth muscle cells and airway macrophages) and on other pro-inflammatory cells (including eosinophils and certain myeloid stem cells).
 CysLTs have been correlated with the pathophysiology of asthma and allergic rhinitis.
 In asthma, leukotriene-mediated effects include airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process.
 In allergic rhinitis, CysLTs are released from the nasal mucosa after allergen exposure during both early- and late-phase reactions and are associated with symptoms of allergic rhinitis.
 
-Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).
-Montelukast inhibits physiologic actions of LTD4 at the CysLT1 receptor without any agonist activity.
+Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).
+Montelukast inhibits physiologic actions of LTD 4 at the CysLT 1 receptor without any agonist activity.
 
 ## 12.2 Pharmacodynamics
 
-Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD4 in asthmatics.
-Doses as low as 5 mg cause substantial blockage of LTD4-induced bronchoconstriction.
+Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD 4 in asthmatics.
+Doses as low as 5 mg cause substantial blockage of LTD 4-induced bronchoconstriction.
 In a placebo-controlled, crossover study (n=12), montelukast sodium inhibited early- and late-phase bronchoconstriction due to antigen challenge by 75% and 57%, respectively.
 
 The effect of montelukast sodium on eosinophils in the peripheral blood was examined in clinical trials.
@@ -28,9 +28,8 @@ The relationship between these observations and the clinical benefits of montelu
 Absorption
 
 Montelukast is rapidly absorbed following oral administration.
-After administration of the 10-mg film-coated tablet to fasted adults, the mean peak montelukast plasma concentration (Cmax) is achieved in 3 to 4 hours (Tmax).
-The mean oral bioavailability is 64%.
-The oral bioavailability and Cmax are not influenced by a standard meal in the morning.
+After administration of the 10-mg film-coated tablet to fasted adults, the mean peak montelukast plasma concentration (C max) is achieved in 3 to 4 hours (T max). The mean oral bioavailability is 64%.
+The oral bioavailability and C max are not influenced by a standard meal in the morning.
 
 The safety and efficacy of montelukast sodium in patients with asthma were demonstrated in clinical trials in which the 10-mg film-coated tablet and 5-mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
 The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4 mg chewable tablet and 4 mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
