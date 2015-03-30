@@ -2,11 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Keppra levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
 
 Pregnancy Category C
 
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 KEPPRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -24,7 +24,7 @@ There was no evidence of maternal toxicity in this study.
 
 Treatment of rats with levetiracetam during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 
-Pregnancy Registries
+Pregnancy Registry
 
 To provide information regarding the effects of in utero exposure to KEPPRA, physicians are advised to recommend that pregnant patients taking KEPPRA enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
@@ -59,13 +59,14 @@ Studies of levetiracetam in juvenile rats (dosing from day 4 through day 52 of a
 
 ## 8.5 Geriatric Use
 
-There were 347 subjects in clinical studies of levetiracetam that were 65 and over.
+There were 347 subjects in clinical studies of KEPPRA that were 65 and over.
 No overall differences in safety were observed between these subjects and younger subjects.
 There were insufficient numbers of elderly subjects in controlled trials of epilepsy to adequately assess the effectiveness of KEPPRA in these patients.
+
 Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
-## 8.6 Use in Patients with Impaired Renal Function
+## 8.6 Renal Impairment
 
 Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance [see Clinical Pharmacology (12.3)].
 Dose adjustment is recommended for patients with impaired renal function and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].

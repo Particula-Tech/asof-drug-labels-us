@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label
 
 NDC 50474-594-40 120 tablets
 
@@ -10,7 +10,7 @@ Dispense accompanying Medication Guide to each patient.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
 NDC 50474-595-40 120 tablets
 
@@ -22,7 +22,7 @@ Dispense accompanying Medication Guide to each patient.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 750 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 750 mg Tablet Bottle Label
 
 NDC 50474-596-40 120 tablets
 
@@ -34,7 +34,7 @@ Dispense accompanying Medication Guide to each patient.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 1000 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1000 mg Tablet Bottle Label
 
 NDC 50474-597-66 60 tablets
 
@@ -46,7 +46,7 @@ Dispense accompanying Medication Guide to each patient.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
 NDC 50474-001-48 16 fl oz (473 mL)
 
