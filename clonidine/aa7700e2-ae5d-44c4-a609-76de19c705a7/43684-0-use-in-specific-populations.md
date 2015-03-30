@@ -18,12 +18,12 @@ Increases in resorptions were observed in both rats and mice at 500 mcg/kg/day (
 
 Clonidine hydrochloride is present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for KAPVAY and any potential adverse effects on the breastfed child from KAPVAY or from the underlying maternal condition.
-Exercise caution when KAPVAY is administered to nursing woman.
+Exercise caution when KAPVAY is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
 The safety and efficacy of KAPVAY in the treatment of ADHD have been established in pediatric patients 6 to 17 years of age.
-Use of KAPVAY in pediatric patients 6 to 17 years of age is supported by three adequate and well-controlled studies; a short-term, placebo controlled monotherapy trial, a short-term adjunctive therapy trial and a longer-term randomized monotherapy trial [see Clinical Studies (14)].
+Use of KAPVAY in pediatric patients 6 to 17 years of age is supported by three adequate and well-controlled studies; a short-term, placebo-controlled monotherapy trial, a short-term adjunctive therapy trial and a longer-term randomized monotherapy trial [see Clinical Studies (14)].
 Safety and efficacy in pediatric patients below the age of 6 years has not been established.
 
 Juvenile Animal Data

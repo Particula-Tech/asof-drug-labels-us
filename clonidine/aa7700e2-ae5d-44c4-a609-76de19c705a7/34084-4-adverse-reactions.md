@@ -74,8 +74,8 @@ Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
 | Preferred Term | KAPVAY+STM (N=102) | PBO+STM (N=96) |
-| PSYCHIATRIC DISORDERS Somnolence* Aggression Affect Lability | 19%2%2% | 7%1%1% |
-| GENERAL DISORDERS Fatigue† Irritability Emotional Disorder | 14%2%2% | 4%7%0% |
+| PSYCHIATRIC DISORDERS Somnolence* Aggression Affect Lability Emotional Disorder | 19%2%2%2% | 7%1%1%0% |
+| GENERAL DISORDERS Fatigue† Irritability | 14%2% | 4%7% |
 | NERVOUS SYSTEM DISORDERS Headache Insomnia | 7%4% | 12%3% |
 | GASTROINTESTINAL DISORDERS Upper Abdominal Pain | 7% | 4% |
 | RESPIRATORY DISORDERS Nasal Congestion | 2% | 2% |
@@ -83,6 +83,8 @@ Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 | CARDIAC DISORDERS Dizziness | 5% | 1% |
 
 * Somnolence includes the terms: "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
+
+Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the taper period are listed in Table 5.
 
 Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial- Taper Period* (Study 2)
 

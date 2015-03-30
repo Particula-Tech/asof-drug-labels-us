@@ -1,4 +1,4 @@
-Patient Information KAPVAY® (KAP-vay) (clonidine hydrochloride) Extended-ReleaseTablets
+Patient Information KAPVAY® (KAP-vay) (clonidine hydrochloride) Extended-Release Tablets
 
 Read the Patient Information that comes with KAPVAY before you start taking it and each time you get a refill.
 There may be new information.
@@ -91,17 +91,13 @@ The most common side effects of KAPVAY include:
 
 - sleepiness
 - tiredness
-- upper respiratory tract infection, symptoms may include: ○ cough ○ runny nose ○ sneezing
 - irritability
-- sore throat
 - trouble sleeping (insomnia)
-- nightmares
-- change in mood
+- nightmare
 - constipation
-- stuffy nose
-- increased body temperature
 - dry mouth
-- ear pain
+- decreased appetite
+- dizziness
 
 Tell your doctor if you have any side effects that bother you or that does not go away.
 
@@ -137,7 +133,7 @@ What are the ingredients in KAPVAY?
 - Active Ingredient: clonidine hydrochloride
 - Inactive Ingredients: sodium lauryl sulfate, lactose monohydrate, hypromellose type 2208, partially pregelatinized starch, colloidal silicon dioxide, and magnesium stearate
 
-Revised: 11/2014
+Revised: 1/2015
 
 Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
 

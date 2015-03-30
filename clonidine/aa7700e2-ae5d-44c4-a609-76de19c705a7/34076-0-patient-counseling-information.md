@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved Patient Labeling (Patient Informatio
 Dosage and Administration
 
 Advise patients that KAPVAY must be swallowed whole, never crushed, cut, or chewed, and may be taken with or without food.
-When initiating treatment, provide dosage escalation instructions [see Dosage and Administration (2.2)].
+When initiating treatment, provide dosage escalation instructions [see Dosage and Administration (2.1)].
 
 Missed Dose
 
@@ -22,7 +22,7 @@ Also advise patients to avoid the use of KAPVAY with other centrally active depr
 
 Rebound Hypertension
 
-Advise patient not to discontinue KAPVAY abruptly [see Warnings and Precautions (5.3)].
+Advise patients not to discontinue KAPVAY abruptly [see Warnings and Precautions (5.3)].
 
 Allergic Reactions
 

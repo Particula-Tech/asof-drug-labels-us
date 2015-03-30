@@ -41,7 +41,7 @@ Maintenance Monotherapy for ADHD
 
 Study 3 (SHN-KAP-401), was a double-blind, placebo-controlled, randomized-withdrawal study in children and adolescents aged 6 to 17 years (n=253) with DSM-IV-TR diagnosis of ADHD.
 The study consisted of a 10-week, open-label phase (4 weeks of dose optimization and 6 weeks of dose maintenance), a 26-week double-blind phase, and a 4-week taper-down and follow-up phase.
-All patients were initiated at 0.1 mg/day and increased at weekly intervals in increments of 0.1 mg/day until reaching personalized optimal dose (0.1, 0.2, 0.3 or 0.4 mg/day, as divided doses.).
+All patients were initiated at 0.1 mg/day and increased at weekly intervals in increments of 0.1 mg/day until reaching personalized optimal dose (0.1, 0.2, 0.3 or 0.4 mg/day, as divided doses).
 Eligible patients had to demonstrate treatment response as defined by ≥ 30% reduction in ADHD-RS-IV total score and a Clinical Global Impression-Improvement score of 1 or 2 during the open label phase.
 Patients who sustained treatment response (n=135) until the end of the open label phase were randomly assigned to one of the two treatment groups, KAPVAY (N=68) and Placebo (N=67), to evaluate the long-term efficacy of maintenance dose of KAPVAY in the double-blind phase.
 The primary efficacy endpoint was the percentage of patients with treatment failure defined as a ≥ 30% increase (worsening) in ADHD-RS-IV total score and ≥ 2 points increase (worsening) in Clinical Global Impression – Severity Scale in 2 consecutive visits or early termination for any reason.
