@@ -11,5 +11,5 @@ Ondansetron HCl is a white to off-white powder that is soluble in water and norm
 Each 1 mL of aqueous solution in the 2 mL single-dose vial contains 2 mg of ondansetron as the hydrochloride dihydrate; 9 mg of Sodium Chloride, USP; and 0.5 mg of Citric Acid Monohydrate, USP and 0.25 mg of Sodium Citrate Dihydrate, USP as buffers in Water for Injection, USP.
 
 Each 1 mL of aqueous solution in the 20 mL multiple dose vial contains 2 mg of ondansetron as the hydrochloride dihydrate; 8.3 mg of Sodium Chloride, USP; 0.5 mg of Citric Acid Monohydrate, USP and 0.25 mg of Sodium Citrate Dihydrate, USP as buffers; and 1.2 mg of Methylparaben, NF and 0.15 mg of Propylparaben, NF as preservatives in Water for Injection, USP.
-Ondansetron Injection, USP is a clear, colorless, nonpyrogenic, sterile solution for intravenous use.
+Ondansetron Injection, USP is a clear, colorless, nonpyrogenic, sterile solution for intravenous or intramuscular use.
 The pH of the injection solution is 3.3 to 4.0.
