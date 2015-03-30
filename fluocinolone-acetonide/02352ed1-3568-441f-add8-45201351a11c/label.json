@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA089124"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1365-2",
+    "51672-1365-4"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluocinolone acetonide",
+      "name": "Fluocinolone Acetonide"
+    }
+  ],
+  "setid": "02352ed1-3568-441f-add8-45201351a11c",
+  "source": "dailymed"
+}
