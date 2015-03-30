@@ -8,3 +8,10 @@ Instruct patients to read the patient package insert before initiating ALIMTA.
 - Inform patients of the risk of low blood cell counts and instruct them to immediately contact their physician for signs of infection, including fever, bleeding or symptoms of anemia.
 - Instruct patients to contact their physician if persistent vomiting, diarrhea, or signs of dehydration appear.
 - Instruct patients to inform their physician of all concomitant prescription or over-the-counter medications they are taking, particularly those for pain or inflammation such as non-steroidal anti-inflammatory drugs [see Drug Interactions (7.1)].
+
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+
+Copyright © 2004, 2013, Eli Lilly and Company.
+All rights reserved.
+
+PV 8927 AMP

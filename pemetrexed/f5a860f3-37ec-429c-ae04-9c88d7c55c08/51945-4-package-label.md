@@ -1,9 +1,4 @@
-PACKAGE LABELING
-
-This section contains a representative sample of product package labeling.
-Product may be manufactured at other manufacturing sites.
-
-PACKAGE CARTON – ALIMTA 100 mg single-use vial.
+# PACKAGE CARTON – ALIMTA 100 mg single-use vial
 
 NDC 0002-7640-01
 
@@ -25,7 +20,7 @@ www.ALIMTA.com
 
 Lilly
 
-PACKAGE CARTON – ALIMTA 500 mg single-use vial.
+# PACKAGE CARTON – ALIMTA 500 mg single-use vial
 
 Single-Use Vial
 
