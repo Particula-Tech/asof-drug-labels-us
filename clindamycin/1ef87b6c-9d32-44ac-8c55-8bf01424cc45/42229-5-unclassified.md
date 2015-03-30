@@ -2,6 +2,9 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Not for Injection
 
-LAB-0041-9.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-December 2013
+LAB-0041-10.0
+
+March 2015

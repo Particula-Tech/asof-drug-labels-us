@@ -5,7 +5,6 @@ Treatment with antibacterial agents alters the normal flora of the colon leading
 
 Because clindamycin therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the INDICATIONS AND USAGE section.
 It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections.
-
 C.difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C.difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
