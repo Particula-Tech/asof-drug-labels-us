@@ -101,6 +101,7 @@ Especially tell your doctor if you take:
 - a product that contains iron
 - an antibiotic that contains ampicillin
 - methotrexate
+- mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 
@@ -235,4 +236,4 @@ Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
 By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla, Mahaboob Nagar – 509 301, India.
 
-Revised: 09/2014
+Revised: February 2015

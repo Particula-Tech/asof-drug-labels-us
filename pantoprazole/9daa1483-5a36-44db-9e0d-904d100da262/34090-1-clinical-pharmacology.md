@@ -158,6 +158,9 @@ In a crossover clinical study, 66 healthy subjects were administered clopidogrel
 On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79 to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 μM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
+Mycophenolate Mofetil (MMF): Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Transplant patients receiving approximately 2000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
+There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF.
 
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam, and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 Dosage adjustment of these drugs is not necessary when they are coadministered with pantoprazole.
