@@ -4,7 +4,7 @@ Lamivudine is predominantly eliminated in the urine by active organic cationic s
 The possibility of interactions with other drugs administered concurrently should be considered, particularly when their main route of elimination is active renal secretion via the organic cationic transport system (e.g., trimethoprim).
 No data are available regarding interactions with other drugs that have renal clearance mechanisms similar to that of lamivudine.
 
-## 7.1 Interferon- and Ribavirin-Based Regimens
+## 7.1 Interferon- and Ribavirin-based Regimens
 
 Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with lamivudine in HIV-1/HCV co-infected patients, hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
 
@@ -18,6 +18,6 @@ Therefore, use of lamivudine in combination with zalcitabine is not recommended.
 No change in dose of either drug is recommended.
 There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used to treat PCP.
 
-## 7.4 Drugs with No Observed Interactions With Lamivudine
+## 7.4 Drugs with No Observed Interactions with Lamivudine
 
-A drug interaction study showed no clinically significant interaction between lamivudine and zidovudine.
+A drug interaction trial showed no clinically significant interaction between lamivudine and zidovudine.
