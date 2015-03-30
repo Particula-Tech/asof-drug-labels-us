@@ -14,18 +14,18 @@ The results from an exploratory analysis indicated a worsening in KEPPRA-treated
 
 In clinical studies in pediatric patients 1 month to < 4 years of age, irritability was reported in 12% of the KEPPRA-treated patients compared to 0% of placebo-treated patients.
 
-In clinical studies, 1.7% of adult KEPPRA-treated patients discontinued treatment due to behavioral adverse reactions, compared to 0.2% of placebo patients.
+In clinical studies, 1.7% of adult KEPPRA-treated patients discontinued treatment due to behavioral adverse reactions, compared to 0.2% of placebo-treated patients.
 The treatment dose was reduced in 0.8% of adult KEPPRA-treated patients and in 0.5% of placebo-treated patients.
 Overall, 11% of KEPPRA-treated pediatric patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6% of placebo-treated patients.
 
 Psychotic symptoms
 
 In clinical studies using an oral formulation of KEPPRA, 1% of KEPPRA-treated adult patients, 2% of KEPPRA-treated pediatric patients 4 to 16 years of age, and 17% of KEPPRA-treated pediatric patients 1 month to <4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% in the corresponding age groups treated with placebo.
-In a controlled study that assessed the neurocognitive and behavioral effects of an oral formulation of KEPPRA in pediatric patients 4 to 16 years of age, 1.6% of KEPPRA-treated patient experienced paranoia, compared to 0% of placebo-treated patients.
+In a controlled study that assessed the neurocognitive and behavioral effects of an oral formulation of KEPPRA in pediatric patients 4 to 16 years of age, 1.6% of KEPPRA-treated patients experienced paranoia, compared to 0% of placebo-treated patients.
 In the same study, 3.1% of KEPPRA-treated patients experienced confusional state, compared to 0% of placebo-treated patients [see Use in Specific Populations (8.4)].
 
 In clinical studies, two (0.3%) KEPPRA-treated adult patients were hospitalized, and their treatment was discontinued due to psychosis.
-Both events developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
+Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug- and placebo-treated patients in the incidence of the pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
 ## 5.2 Somnolence and Fatigue
@@ -37,14 +37,14 @@ Somnolence
 
 In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
 There was no clear dose response up to 3000 mg/day.
-In a study in which there was no titration, about 45% of patients on KEPPRA 4000 mg/day reported somnolence.
+In a study in which there was no titration, about 45% of patients receiving KEPPRA 4000 mg/day reported somnolence.
 The somnolence was considered serious in 0.3% of KEPPRA-treated patients, compared to 0% in the placebo group.
 About 3% of KEPPRA-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo-treated patients.
 In 1.4% of KEPPRA-treated patients and 0.9% of placebo-treated patients, the dose was reduced, while 0.3% of the KEPPRA-treated patients were hospitalized due to somnolence.
 
 Asthenia
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9.1% of placebo-treated patients.
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
 Treatment was discontinued due to asthenia in 0.8% of KEPPRA-treated patients as compared to 0.5% of placebo-treated patients.
 In 0.5% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
@@ -62,12 +62,13 @@ If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and
 ## 5.4 Coordination Difficulties
 
 KEPPRA may cause coordination difficulties.
-Patients should be monitored for signs and symptoms of coordination difficulties and advised not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it could adversely affect their ability to drive or operate machinery.
 
 In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 3.4% of KEPPRA-treated patients experienced coordination difficulties, (reported as ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo-treated patients.
 A total of 0.4% of patients in controlled clinical studies discontinued KEPPRA treatment due to ataxia, compared to 0% of placebo-treated patients.
 In 0.7% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of pre-existing ataxia.
 These events occurred most frequently within the first 4 weeks of treatment.
+
+Patients should be monitored for signs and symptoms of coordination difficulties and advised not to drive or operate machinery until they have gained sufficient experience on KEPPRA to gauge whether it could adversely affect their ability to drive or operate machinery.
 
 ## 5.5 Withdrawal Seizures
 
@@ -75,20 +76,31 @@ Antiepileptic drugs, including KEPPRA, should be withdrawn gradually to minimize
 
 ## 5.6 Hematologic Abnormalities
 
-KEPPRA may cause decreases in red blood cells count (RBC), hemoglobin, hematocrit, white blood cells count (WBC), and neutrophil count.
+KEPPRA can cause hematologic abnormalities.
+Hematologic abnormalities occurred in clinical trials and included decreases in red blood cells count (RBC), hemoglobin, and hematocrit, and increases in eosinophil counts.
+Decreased white blood cells count (WBC) and neutrophil counts also occurred in clinical trials.
+Cases of agranulocytosis have been reported in the postmarketing setting.
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, minor but statistically significant decreases (compared to placebo) in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients.
-A total of 3.2% of KEPPRA-treated versus 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated versus 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
+Partial Onset Seizures
+
+Adults
+
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients.
+
+A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
+Pediatric Patients 4 Years to < 16 Years
+
 In a controlled study in pediatric patients age 4 years to <16 years, statistically significant decreases in WBC and neutrophil counts were seen in KEPPRA-treated patients, as compared to placebo.
 The mean decreases from baseline in the KEPPRA-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
-Mean relative lymphocyte counts increased by 1.7% in KEPPRA-treated patients, compared to a decrease of 4% in placebo-treated patients.
+Mean relative lymphocyte counts increased by 1.7% in KEPPRA-treated patients, compared to a decrease of 4% in placebo-treated patients (statistically significant).
+
 More KEPPRA-treated patients had a possibly clinically significant abnormally low WBC value (3% of KEPPRA-treated patients versus 0% of placebo-treated patients); however, there was no apparent difference between treatment groups with respect to neutrophil count (5% on KEPPRA versus 4.2% on placebo).
 No patient was discontinued because of low WBC or neutrophil count.
 
-In a randomized, double-blind, placebo-controlled study to assess the neurocognitive and behavioral effects of an oral formulation of KEPPRA as adjunctive therapy in pediatric patients (4 to 16 years of age), two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
+In a randomized, double-blind, placebo-controlled study to assess the neurocognitive and behavioral effects of an oral formulation of KEPPRA as adjunctive therapy in pediatric patients (4 to 16 years of age), 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
 ## 5.7 Increase in Blood Pressure
 

@@ -24,7 +24,7 @@ There was no evidence of maternal toxicity in this study.
 
 Treatment of rats during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 
-Pregnancy Registries
+Pregnancy Registry
 
 To provide information regarding the effects of in utero exposure to KEPPRA, physicians are advised to recommend that pregnant patients taking KEPPRA enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.

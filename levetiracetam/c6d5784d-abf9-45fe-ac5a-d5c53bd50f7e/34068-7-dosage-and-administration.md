@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Partial Onset Seizures
+## 2.1 Dosing for Partial Onset Seizures
 
 Adults 16 Years and Older
 
@@ -32,13 +32,13 @@ If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be red
 In the clinical trial, the mean daily dose was 44 mg/kg.
 The maximum daily dose was 3000 mg/day.
 
-## 2.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
+## 2.2 Dosing for Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 Initiate treatment with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Increase the dosage by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
 The effectiveness of doses lower than 3000 mg/day has not been studied.
 
-## 2.3 Primary Generalized Tonic-Clonic Seizures
+## 2.3 Dosing for Primary Generalized Tonic-Clonic Seizures
 
 Adults 16 Years and Older
 
