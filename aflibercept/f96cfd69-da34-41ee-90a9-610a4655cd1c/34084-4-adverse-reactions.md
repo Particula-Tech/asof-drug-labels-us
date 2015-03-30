@@ -29,8 +29,8 @@ Table 1: Most Common Adverse Reactions (≥1%) in Wet AMD Studies
 | Vitreous detachment | 6% | 6% |
 | Vitreous floaters | 6% | 7% |
 | Intraocular pressure increased | 5% | 7% |
-| Conjunctival hyperemia | 4% | 8% |
-| Corneal erosion | 4% | 5% |
+| Ocular hyperemia | 4% | 8% |
+| Corneal epithelium defect | 4% | 5% |
 | Detachment of the retinal pigment epithelium | 3% | 3% |
 | Injection site pain | 3% | 3% |
 | Foreign body sensation in eyes | 3% | 4% |
@@ -72,27 +72,29 @@ Less common adverse reactions reported in <1% of the patients treated with EYLEA
 
 Diabetic Macular Edema (DME)
 
-The data described below reflect exposure to EYLEA in 578 patients with DME treated with the 2-mg dose in 2 double-masked, controlled clinical studies (VIVID and VISTA) for 52 weeks [see Clinical Studies (14.4)].
+The data described below reflect exposure to EYLEA in 578 patients with DME treated with the 2-mg dose in 2 double-masked, controlled clinical studies (VIVID and VISTA) from baseline to week 52 and from baseline to week 100 [see Clinical Studies (14.4)].
 
 Table 3: Most Common Adverse Reactions (≥1%) in DME Studies
 
-| Adverse Reactions | EYLEA (N=578) | Control (N=287) |
-| --- | --- | --- |
-| Conjunctival hemorrhage | 28% | 17% |
-| Eye pain | 9% | 6% |
-| Cataract | 8% | 9% |
-| Vitreous floaters | 6% | 3% |
-| Corneal erosion | 5% | 3% |
-| Intraocular pressure increased | 5% | 3% |
-| Conjunctival hyperemia | 5% | 6% |
-| Vitreous detachment | 3% | 3% |
-| Foreign body sensation in eyes | 3% | 3% |
-| Lacrimation increased | 3% | 2% |
-| Vision blurred | 2% | 2% |
-| Intraocular inflammation | 2% | <1% |
-| Injection site pain | 2% | <1% |
+|  | EYLEA (N=578) | Control (N=287) | EYLEA (N=578) | Control (N=287) |
+| --- | --- | --- | --- | --- |
+| Adverse Reactions | Baseline to Week 52 |  | Baseline to Week 100 |  |
+| Conjunctival hemorrhage | 28% | 17% | 31% | 21% |
+| Eye pain | 9% | 6% | 11% | 9% |
+| Cataract | 8% | 9% | 19% | 17% |
+| Vitreous floaters | 6% | 3% | 8% | 6% |
+| Corneal epithelium defect | 5% | 3% | 7% | 5% |
+| Intraocular pressure increased | 5% | 3% | 9% | 5% |
+| Ocular hyperemia | 5% | 6% | 5% | 6% |
+| Vitreous detachment | 3% | 3% | 8% | 6% |
+| Foreign body sensation in eyes | 3% | 3% | 3% | 3% |
+| Lacrimation increased | 3% | 2% | 4% | 2% |
+| Vision blurred | 2% | 2% | 3% | 4% |
+| Intraocular inflammation | 2% | <1% | 3% | 1% |
+| Injection site pain | 2% | <1% | 2% | <1% |
+| Eyelid edema | <1% | 1% | 2% | 1% |
 
-Less common adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, eyelid edema, corneal edema, retinal detachment, injection site hemorrhage, and retinal tear.
+Less common adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, retinal detachment, retinal tear, corneal edema, and injection site hemorrhage.
 
 ## 6.2 Immunogenicity
 
@@ -103,5 +105,5 @@ The detection of an immune response is highly dependent on the sensitivity and s
 For these reasons, comparison of the incidence of antibodies to EYLEA with the incidence of antibodies to other products may be misleading.
 
 In the wet AMD, RVO, and DME studies, the pre-treatment incidence of immunoreactivity to EYLEA was approximately 1% to 3% across treatment groups.
-After dosing with EYLEA for 24-52 weeks, antibodies to EYLEA were detected in a similar percentage range of patients.
+After dosing with EYLEA for 24-100 weeks, antibodies to EYLEA were detected in a similar percentage range of patients.
 There were no differences in efficacy or safety between patients with or without immunoreactivity.

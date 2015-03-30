@@ -50,7 +50,7 @@ Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICU
 |  | Control | EYLEA 2 mg Q4 weeks | Control | EYLEA 2 mg Q4 weeks |
 | Efficacy Outcomes |  |  |  |  |
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 12% | 56% | 22% | 60% |
-| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control,Difference and CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for baseline factors; 95.1% confidence intervals were presented to adjust for the multiple assessments conducted during the study. (%) (95.1% CI) |  | 44.8%p<0.01 compared with control (32.9, 56.6) |  | 38.3% (24.4, 52.1) |
+| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control,Difference and CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for baseline factors; 95.1% confidence intervals were presented to adjust for the multiple assessments conducted during the study. (%) (95.1% CI) |  | 44.8%p<0.01 compared with Control (32.9, 56.6) |  | 38.3% (24.4, 52.1) |
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | -4.0 (18.0) | 17.3 (12.8) | 3.3 (14.1) | 18.0 (12.2) |
 | Difference in LS mean,LS mean and CI based on an ANCOVA model (95.1% CI) |  | 21.7 (17.3, 26.1) |  | 14.7 (10.7, 18.7) |
 
@@ -98,23 +98,51 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 as measured by ETDRS letter score.
 Efficacy of both EYLEA 2Q8 and EYLEA 2Q4 groups was statistically superior to the control group.
+This statistically superior improvement in BCVA was maintained at week 100 in both studies.
 
 Results from the analysis of the VIVID and VISTA studies are shown in Table 7 and Figure 11 below.
 
-Table 7: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
+Table 7: Efficacy Outcomes at Weeks 52 and 100 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
 
 | Full Analysis Set | N=135 | N=136 | N=132 | N=151 | N=154 | N=154 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | VIVID |  |  | VISTA |  |  |
 |  | EYLEA 2 mg Q8 weeks After treatment initiation with 5 monthly injections | EYLEA 2 mg Q4 weeks | Control | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | Control |
-| Efficacy Outcomes |  |  |  |  |  |  |
+| Efficacy Outcomes at Week 52 |  |  |  |  |  |  |
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 10.7 (9.3) | 10.5 (9.6) | 1.2 (10.6) | 10.7 (8.2) | 12.5 (9.5) | 0.2 (12.5) |
-| DifferenceLS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, protocol specified stratification factors were included in the model., Difference is EYLEA group minus control group in LS mean (97.5% CI) | 9.1 p-value <0.01 compared with control (6.3, 11.8) | 9.3 (6.5, 12.0) |  | 10.5 (7.7, 13.2) | 12.2 (9.4, 15.0) |  |
+| DifferenceLS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, protocol specified stratification factors were included in the model., Difference is EYLEA group minus Control group in LS mean (97.5% CI) | 9.1 p<0.01 compared with Control (6.3, 11.8) | 9.3 (6.5, 12.0) |  | 10.5 (7.7, 13.2) | 12.2 (9.4, 15.0) |  |
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 33.3% | 32.4% | 9.1% | 31.1% | 41.6% | 7.8% |
 | Adjusted Difference, Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by protocol specified stratification factors. (%) (97.5% CI) | 24.2% (13.5, 34.9) | 23.3% (12.6, 33.9) |  | 23.3% (13.5, 33.1) | 34.2% (24.1, 44.4) |  |
+| Efficacy Outcomes at Week 100 |  |  |  |  |  |  |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 9.4 (10.5) | 11.4 (11.2) | 0.7 (11.8) | 11.1 (10.7) | 11.5 (13.8) | 0.9 (13.9) |
+| Difference, in LS mean (97.5% CI) | 8.2 (5.2, 11.3) | 10.7 (7.6, 13.8) |  | 10.1 (7.0, 13.3) | 10.6 (7.1, 14.2) |  |
+| Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 31.1% | 38.2% | 12.1% | 33.1% | 38.3% | 13.0% |
+| Adjusted Difference, (%) (97.5% CI) | 19.0% (8.0, 29.9) | 26.1% (14.8, 37.5) |  | 20.1% (9.6, 30.6) | 25.8% (15.1, 36.6) |  |
 
-Figure 11: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52 in VIVID and VISTA Studies
+Figure 11: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID and VISTA Studies
 
 Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor prior to study participation were similar to those seen in patients who were VEGF inhibitor naïve prior to study participation.
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study were in general consistent with the results in the overall populations.
+
+## 14.5 Diabetic Retinopathy (DR) in Patients with DME
+
+In the VIVID and VISTA studies, an efficacy outcome was the change in the Early Treatment Diabetic Retinopathy Study (ETDRS) Diabetic Retinopathy Severity Scale (ETDRS-DRSS).
+The ETDRS-DRSS score was assessed at baseline and approximately every 6 months thereafter for the duration of the studies [see Clinical Studies (14.4)].
+
+All enrolled patients had DR and DME at baseline.
+The majority of patients enrolled in these studies (77%) had moderate-to-severe nonproliferative diabetic retinopathy (NPDR) based on the ETDRS-DRSS.
+At week 100, the proportion of patients improving by at least 2 steps on the ETDRS-DRSS was significantly greater in both EYLEA treatment groups (2Q4 and 2Q8) when compared to the control group.
+
+Results from the analysis of ETDRS-DRSS at week 100 in the VIVID and VISTA studies are shown in Table 8 below.
+
+Table 8: Proportion of Patients who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Week 100 (LOCFNon-gradable post-baseline ETDRS-DRSS values were treated as missing and were imputed using the last gradable ETDRS-DRSS values (including baseline values if all post-baseline values were missing or non-gradable)) in VIVID and VISTA Studies
+
+| Evaluable PatientsThe number of evaluable patients included all patients who had valid ETDRS-DRSS data at baseline | N=101 | N=97 | N=99 | N=148 | N=153 | N=150 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | VIVID |  |  | VISTA |  |  |
+|  | EYLEA 2 mg Q8 weeks After treatment initiation with 5 monthly injections | EYLEA 2 mg Q4 weeks | Control | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | Control |
+| Number of patients with a ≥2-step improvement on ETDRS-DRSS from Baseline (%) | 32 (32%) | 27 (28%) | 7 (7%) | 56 (38%) | 58 (38%) | 24 (16%) |
+| DifferenceDifference with confidence interval (CI) was calculated using Mantel-Haenszel weighting scheme adjusted by protocol specified stratification factors, Difference is EYLEA minus Control group(%) (97.5% CI) | 24%p<0.01 compared with Control (12, 36) | 21% (9, 33) |  | 22% (11, 33) | 22% (11, 33) |  |
+
+Results of the evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity) on the proportion of patients who achieved a ≥2-step improvement on the ETDRS-DRSS from baseline to week 100 were, in general, consistent with those in the overall population.

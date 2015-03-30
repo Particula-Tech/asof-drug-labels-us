@@ -23,7 +23,7 @@ Anatomic data were not used to influence treatment decisions [see Clinical Studi
 
 Diabetic Macular Edema (DME)
 
-Reductions in mean retinal thickness were observed in VIVID and VISTA at week 52 compared to baseline.
+Reductions in mean retinal thickness were observed in VIVID and VISTA at weeks 52 and 100 compared to baseline.
 Anatomic data were not used to influence EYLEA treatment decisions [see Clinical Studies (14.4)].
 
 ## 12.3 Pharmacokinetics
