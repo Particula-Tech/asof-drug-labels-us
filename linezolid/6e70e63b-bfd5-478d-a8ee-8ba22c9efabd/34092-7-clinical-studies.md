@@ -20,12 +20,12 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 Table 14.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
 
-| ZYVOX n/N (%) | Vancomycin n/N (%) |  |
+| Pathogen | ZYVOX n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- |
-| Pathogen | Cured |  |
+|  | Cured |  |
 | Staphylococcus aureus | 23/38 (61) | 14/23 (61) |
 | Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
-| Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
+| Streptococcus pneumonia | 9/9 (100) | 9/10 (90) |
 
 Complicated Skin and Skin Structure Infections
 
@@ -43,9 +43,9 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 Table 15.
 Cure Rates at the Test-of-Cure Visit for MicrobiologicallyEvaluable Adult Patients with Complicated Skin and Skin Structure Infections
 
-| ZYVOX n/N (%) | Oxacillin/Dicloxacillin n/N (%) |  |
+| Pathogen | ZYVOX n/N (%) | Oxacillin/Dicloxacillin n/N (%) |
 | --- | --- | --- |
-| Pathogen | Cured |  |
+|  | Cured |  |
 | Staphylococcus aureus | 73/83 (88) | 72/84 (86) |
 | Methicillin-resistant S. aureus | 2/3 (67) | 0/0 (-) |
 | Streptococcus agalactiae | 6/6 (100) | 3/6 (50) |
@@ -80,9 +80,9 @@ The cure rates by pathogen for microbiologically evaluable patients are presente
 Table 16.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Diabetic Foot Infections
 
-| ZYVOX n/N (%) | Comparator n/N (%) |  |
+| Pathogen | ZYVOX n/N (%) | Comparator n/N (%) |
 | --- | --- | --- |
-| Pathogen | Cured |  |
+|  | Cured |  |
 | Staphylococcus aureus | 49/63 (78) | 20/29 (69) |
 | Methicillin-resistant S. aureus | 12/17 (71) | 2/3 (67) |
 | Streptococcus agalactiae | 25/29 (86) | 9/16 (56) |
@@ -101,9 +101,9 @@ The cure rate was higher in the high-dose arm than in the low-dose arm, although
 Table 17.
 Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vancomycin-Resistant Enterococcal Infections at Baseline
 
-| ZYVOX 600 mg every 12 hours n/N (%) | ZYVOX 200 mg every 12 hours n/N (%) |  |
+| Source of Infection | ZYVOX 600 mg every 12 hours n/N (%) | ZYVOX 200 mg every 12 hours n/N (%) |
 | --- | --- | --- |
-| Source of Infection | Cured |  |
+|  | Cured |  |
 | Any site | 39/58 (67) | 24/46 (52) |
 | Any site with associated bacteremia | 10/17 (59) | 4/14 (29) |
 | Bacteremia of unknown origin | 5/10 (50) | 2/7 (29) |
@@ -131,9 +131,9 @@ Table 19 provides clinical cure rates by pathogen for microbiologically evaluabl
 Table 18.
 Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients by Baseline Diagnosis
 
-| ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) |  |
+| Population | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Population | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
+|  | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
 | Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117 (91) | 49/54 (91) |
 | Bacteremia of unidentified source | 22/29 (76) | 11/16 (69) | 8/12 (67) | 7/8 (88) | 14/17 (82) | 7/9 (78) |
 | Catheter-related bacteremia | 30/41 (73) | 8/12 (67) | 25/35 (71) | 7/10 (70) | 21/25(84) | 7/9 (78) |
@@ -144,10 +144,10 @@ Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Tre
 Table 19.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric Patients with Infections due to Gram-positive Pathogens
 
-| ZYVOX n/N (%) | Vancomycin n/N (%) |  |
+| Pathogen | ZYVOX n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- |
-| Pathogen | Microbiologically Evaluable |  |
-| Vancomycin-resistant Enterococcus faecium | 6/8 (75)Includes data from 7 patients enrolled in the open-label extension of this study. | 0/0 (-) |
+|  | Microbiologically Evaluable |  |
+| Vancomycin-resistant Enterococcus faecium | 6/8 (75) Includes data from 7 patients enrolled in the open-label extension of this study. | 0/0 (-) |
 | Staphylococcus aureus | 36/38 (95) | 23/24 (96) |
 | Methicillin-resistant S. aureus | 16/17 (94) | 9/9 (100) |
 | Streptococcus pyogenes | 2/2 (100) | 1/2 (50) |

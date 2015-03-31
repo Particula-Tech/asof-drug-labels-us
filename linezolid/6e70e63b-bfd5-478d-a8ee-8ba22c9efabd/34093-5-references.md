@@ -8,7 +8,7 @@
    Approved Standard CLSI Document M100-S20, 2010
 3. CLSI.
    Performance Standards for Antimicrobial Disk Susceptibility Tests–10th Edition.
-   Approved Standard CLSI Document M2-A10,2009.
+   Approved Standard CLSI Document M2-A10, 2009.
 4. Fine MJ, Auble TE, Yealy DM, et al. A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia.
    The New England Journal of Medicine.
-   1997;336 (4):243–250.
+   1997; 336 (4):243–250.

@@ -24,5 +24,3 @@ Patients should be advised that:
   If this occurs, patients should contact their physician as soon as possible.
 - Inform patient, particularly those with diabetes mellitus that hypoglycemic reactions, such as diaphoresis and tremulousness, along with low blood glucose measurements may occur when treated with linezolid.
   If such reactions occur, patients should contact a physician or other health professional for proper treatment.
-
-LAB-0139-24.0

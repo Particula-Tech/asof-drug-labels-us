@@ -35,8 +35,8 @@ Incidence (%) of Treatment–Emergent Adverse Reactions Occurring in >1% of Adul
 | Localized abdominal pain | 1.3 | 0.6 | 1.2 | 0.8 |
 | Generalized abdominal pain | 0.9 | 0.4 | 1.2 | 1.0 |
 
-Of the patients treated for uSSSIs, 3.5% of ZYVOX -treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
-For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of ZYVOX -treated and 1.7% of comparator-treated patients.
+Of the patients treated for uSSSIs, 3.5% of ZYVOX-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
+For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of ZYVOX-treated and 1.7% of comparator-treated patients.
 The most common reported drug-related adverse events leading to discontinuation of treatment were nausea, headache, diarrhea, and vomiting.
 
 Pediatric Patients:
