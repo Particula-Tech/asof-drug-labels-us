@@ -1,4 +1,4 @@
-# WARNING: RISK OF MEDICATION ERRORS AND HEPATOTOXICITY
+# WARNING: Risk of Medication Errors and Hepatotoxicity
 
 Take care when prescribing, preparing, and administering OFIRMEV Injection to avoid dosing errors which could result in accidental overdose and death.
 In particular, be careful to ensure that:
@@ -10,4 +10,4 @@ In particular, be careful to ensure that:
 
 OFIRMEV contains acetaminophen.
 Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
-Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed the maximum daily limits, and often involve more than one acetaminophen-containing product (see WARNINGS).
+Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed the maximum daily limits, and often involve more than one acetaminophen-containing product [see Warnings and Precautions (5.1)].

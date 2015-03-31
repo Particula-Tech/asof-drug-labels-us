@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no studies of intravenous acetaminophen in pregnant women; however, epidemiological data on oral acetaminophen use in pregnant women show no increased risk of major congenital malformations.
+Pregnancy Category C.
+
+There are no studies of intravenous acetaminophen in pregnant women; however, epidemiological data on oral acetaminophen use in pregnant women show no increased risk of major congenital malformations.
 Animal reproduction studies have not been conducted with IV acetaminophen, and it is not known whether OFIRMEV can cause fetal harm when administered to a pregnant woman.
 OFIRMEV should be given to a pregnant woman only if clearly needed.
 
@@ -36,8 +38,7 @@ Caution should be exercised when OFIRMEV is administered to a nursing woman.
 
 The safety and effectiveness of OFIRMEV for the treatment of acute pain and fever in pediatric patients ages 2 years and older is supported by evidence from adequate and well-controlled studies of OFIRMEV in adults.
 Additional safety and pharmacokinetic data were collected in 355 patients across the full pediatric age strata, from premature neonates (≥ 32 weeks post menstrual age) to adolescents.
-The effectiveness of OFIRMEV for the treatment of acute pain and fever has not been studied in pediatric patients < 2 years of age.
-[see DOSAGE AND ADMINISTRATION - Recommended Dosage: Children (2.3) and PHARMACOKINETICS (12.3)].
+The effectiveness of OFIRMEV for the treatment of acute pain and fever has not been studied in pediatric patients < 2 years of age [see DOSAGE AND ADMINISTRATION - Recommended Dosage: Children (2.3) and PHARMACOKINETICS (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -46,7 +47,7 @@ No overall differences in safety or effectiveness were observed between these su
 
 ## 8.6 Patients with Hepatic Impairment
 
-Acetaminophen is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease [see WARNINGS AND PRECAUTIONS (5.1), CLINICAL PHARMACOLOGY (12)].
+Acetaminophen is contraindicated in patients with severe hepatic impairment or severe active liver disease and should be used with caution in patients with hepatic impairment or active liver disease [see WARNINGS AND PRECAUTIONS (5.1) CLINICAL PHARMACOLOGY (12)].
 A reduced total daily dose of acetaminophen may be warranted.
 
 ## 8.7 Patients with Renal Impairment

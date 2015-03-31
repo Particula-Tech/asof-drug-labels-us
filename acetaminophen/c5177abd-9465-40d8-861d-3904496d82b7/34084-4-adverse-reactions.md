@@ -20,7 +20,7 @@ All adverse reactions that occurred in adult patients treated with either OFIRME
 The most common adverse events in adult patients treated with OFIRMEV (incidence ≥ 5% and greater than placebo) were nausea, vomiting, headache, and insomnia.
 
 Table 3.
-Treatment-Emergent Adverse Reactions Occurring ≥ 3% in OFIRMEV-treated Patients and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
+Treatment-Emergent Adverse Reactions Occurring ≥ 3% of OFIRMEV-treated Patients and at a greater frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
 
 | System Organ Class – Preferred Term | OFIRMEV (N=402) n (%) | Placebo (N=379) n (%) |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Respiratory, thoracic and mediastinal disorders: dyspnea
 
 Vascular disorders: hypertension, hypotension
 
-Pediatric population
+Pediatric Population
 
 A total of 355 pediatric patients (47 neonates, 64 infants, 171 children, and 73 adolescents) have received OFIRMEV in active-controlled (n=250) and open-label clinical trials (n=225), including 59.7% (n=212) who received 5 or more doses and 43.1% (n=153) who received more than 10 doses.
 Pediatric patients received OFIRMEV doses up to 15 mg/kg on an every 4 hours, every 6 hours, or every 8 hours schedule.

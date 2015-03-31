@@ -4,7 +4,7 @@
 
 The efficacy of OFIRMEV in the treatment of acute pain in adults was evaluated in two randomized, double-blind, placebo-controlled clinical trials in patients with postoperative pain.
 
-Pain Study 1 evaluated the analgesic efficacy of repeated doses of OFIRMEV l000 mg vs. placebo every 6 hours for 24 hours in 101 patients with moderate to severe pain following total hip or knee replacement.
+Pain Study 1 evaluated the analgesic efficacy of repeated doses of OFIRMEV 1000 mg vs. placebo every 6 hours for 24 hours in 101 patients with moderate to severe pain following total hip or knee replacement.
 OFIRMEV was statistically superior to placebo for reduction in pain intensity over 24 hours.
 There was an attendant decrease in opioid consumption, the clinical benefit of which was not demonstrated.
 
@@ -17,6 +17,8 @@ The efficacy of OFIRMEV 1000 mg in the treatment of adult fever was evaluated in
 The study was a 6-hour, single-dose, endotoxin-induced fever study in 60 healthy adult males.
 A statistically significant antipyretic effect of OFIRMEV was demonstrated through 6 hours in comparison to placebo.
 The mean temperature over time is shown in Figure 1.
+
+Figure 1: Mean Temperature (°C) Over Time
 
 ## 14.3 Pediatric Acute Pain and Fever
 

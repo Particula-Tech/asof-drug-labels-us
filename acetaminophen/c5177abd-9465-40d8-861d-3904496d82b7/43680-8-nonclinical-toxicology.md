@@ -16,7 +16,7 @@ In contrast, acetaminophen tested positive in the in vitro mouse lymphoma assay 
 In the published literature, acetaminophen has been reported to be clastogenic when administered a dose of 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
 In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
-Impairment of fertility
+Impairment of Fertility
 
 In studies conducted by the National Toxicology Program, fertility assessments have been completed in Swiss mice via a continuous breeding study.
 There were no effects on fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body surface area comparison.

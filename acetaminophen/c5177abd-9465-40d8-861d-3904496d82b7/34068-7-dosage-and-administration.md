@@ -10,10 +10,6 @@ To avoid the risk of overdose, ensure that the total amount of acetaminophen fro
 
 ## 2.2 Recommended Dosage: Adults and Adolescents
 
-Adults and adolescents weighing 50 kg and over: the recommended dosage of OFIRMEV is 1000 mg every 6 hours or 650 mg every 4 hours, with a maximum single dose of OFIRMEV of 1000 mg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 4000 mg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
-
-Adults and adolescents weighing under 50 kg: the recommended dosage of OFIRMEV is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of OFIRMEV of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
-
 Table 1.
 Dosing for Adults and Adolescents
 
