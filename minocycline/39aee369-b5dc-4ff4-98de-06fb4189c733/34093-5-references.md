@@ -32,3 +32,5 @@ Minocin is a trademark of Valeant Pharmaceuticals International, Inc. or its aff
 
 P/N 9438600 Rev.
 04
+
+March 2015
