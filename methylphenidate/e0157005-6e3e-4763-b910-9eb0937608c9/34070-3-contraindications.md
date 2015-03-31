@@ -7,4 +7,4 @@ Hypersensitivity reactions such as angioedema and anaphylactic reactions have be
 
 ## 4.2 Monoamine Oxidase Inhibitors
 
-QUILLIVANT XR is contraindicated during treatment with monoamine oxidase inhibitors, and also within 14 days following discontinuation of treatment with a monoamine oxidase inhibitor (MAOI), because of the risk of hypertensive crisis [see Drug Interactions (7.1)].
+QUILLIVANT XR is contraindicated during treatment with monoamine oxidase inhibitors (MAOIs), and also within 14 days following discontinuation of treatment with a monoamine oxidase inhibitor (MAOI), because of the risk of hypertensive crisis [see Drug Interactions (7.1)].

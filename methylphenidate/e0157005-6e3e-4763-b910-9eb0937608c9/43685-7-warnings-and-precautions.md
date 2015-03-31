@@ -44,7 +44,7 @@ Patients who develop abnormally sustained or frequent and painful erections shou
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
-Stimulants, including QUILLIVANT XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
+CNS stimulants, including QUILLIVANT XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
@@ -58,4 +58,4 @@ Closely monitor growth (weight and height) in pediatric patients treated with CN
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development..
 
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth; however, it is anticipated that they likely have this effect as well.
-Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+Therefore, growth should be monitored during treatment with CNS stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.

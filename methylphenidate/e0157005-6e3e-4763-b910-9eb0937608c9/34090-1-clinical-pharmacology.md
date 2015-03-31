@@ -32,21 +32,25 @@ Table 3. d-MPH PK Parameters (mean ±SD) after 60 mg oral dosing of QUILLIVANT X
 | AUCinf (hr*ng/mL) | 378±175 | 178±54.2 | 163.2±80.3 |
 | Cl (L/hr/kg) | 4.27±0.70 | 5.06±1.42 | 5.66±2.15 |
 
-Metabolism and Excretion
-
-Following a single 60 mg oral dose of QUILLIVANT XR in 28 healthy adult subjects under fasting conditions, the mean plasma terminal elimination half-life of d-methylphenidate was 5.6 (± 0.8) hours.
-
-In humans, methylphenidate is metabolized primarily via deesterification to alpha-phenyl-piperidine acetic acid (PPAA).
-The metabolite has little or no pharmacologic activity.
-
-After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
-The main urinary metabolite was PPAA, accounting for approximately 80% of the dose.
-
 Food Effects
 
 In a study in adult volunteers to investigate the effects of a high-fat meal on the bioavailability of QUILLIVANT XR at a dose of 60 mg, the presence of food reduced the time to peak concentration by approximately 1 hour (fed: 4 hours vs. fasted: 5 hours).
 Overall, a high-fat meal increased the average Cmax of QUILLIVANT XR by about 28% and the AUC by about 19%.
 These changes are not considered clinically significant.
+
+Elimination
+
+Following a single 60 mg oral dose of QUILLIVANT XR in 28 healthy adult subjects under fasting conditions, the mean plasma terminal elimination half-life of d-methylphenidate was 5.6 (± 0.8) hours.
+
+Metabolism
+
+In humans, methylphenidate is metabolized primarily via deesterification to alpha-phenyl-piperidine acetic acid (PPAA).
+The metabolite has little or no pharmacologic activity.
+
+Excretion
+
+After oral dosing of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
+The main urinary metabolite was PPAA, accounting for approximately 80% of the dose.
 
 Gender
 

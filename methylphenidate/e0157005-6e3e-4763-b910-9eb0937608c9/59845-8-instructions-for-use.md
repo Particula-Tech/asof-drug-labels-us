@@ -1,6 +1,6 @@
 Instructions for Use
 
-QUILLIVANT™ XR (\kwil-ə-vant\) (methylphenidate hydrochloride) for extended-release oral suspension CII
+QUILLIVANT XR® (\kwil-ə-vant\) (methylphenidate hydrochloride) for extended-release oral suspension CII
 
 Read the Instructions for Use before using QUILLIVANT XR and each time you get a refill.
 There may be new information.
@@ -78,6 +78,6 @@ Figure M
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-LAB-0658-2.
+LAB-0658-3.0
 
-August 2013
+February 2015

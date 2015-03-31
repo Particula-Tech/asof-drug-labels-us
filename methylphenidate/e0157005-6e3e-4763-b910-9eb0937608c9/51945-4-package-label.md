@@ -1,55 +1,135 @@
-PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
 NDC 24478-190-10
 
+Pfizer
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
 300 mg (60 mL when reconstituted)
-
-Quillivant™ XR methylphenidate hydrochloride for extended-release oral suspension CII
-
-25 mg/5 mL (5 mg/mL) when reconstituted
-
-Pharmacist: Dispense the enclosed Medication Guide to each patient.
-
-Rx Only
-
-PRINCIPAL DISPLAY PANEL - 600 mg Bottle Label
-
-NDC 24478-200-20
-
-600 mg (120 mL when reconstituted)
-
-Quillivant™ XR methylphenidate hydrochloride for extended-release oral suspension CII
-
-25 mg/5 mL (5 mg/mL) when reconstituted
-
-Pharmacist: Dispense the enclosed Medication Guide to each patient.
-
-Rx Only
-
-PRINCIPAL DISPLAY PANEL - 750 mg Bottle Label
-
-NDC 24478-205-25
-
-750 mg (150 mL when reconstituted)
-
-Quillivant™ XR methylphenidate hydrochloride for extended-release oral suspension
 
 25 mg/5 mL (5 mg/mL) when reconstituted CII
 
+LiquiXR™ TECHNOLOGY Rx only
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Bottle Carton
+
+NDC 24478-190-10
+
+Pfizer
+
 Pharmacist: Dispense the enclosed Medication Guide to each patient.
 
-Rx Only
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
 
-PRINCIPAL DISPLAY PANEL - 900 mg Bottle Label
+300 mg (60 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+SHAKE WELL BEFORE USE
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Bottle Label
+
+NDC 24478-200-20
+
+Pfizer
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
+600 mg (120 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+LiquiXR™ TECHNOLOGY Rx only
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Bottle Carton
+
+NDC 24478-200-20
+
+Pfizer
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
+600 mg (120 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+SHAKE WELL BEFORE USE
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 750 mg Bottle Label
+
+NDC 24478-205-25
+
+Pfizer
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
+750 mg (150 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+LiquiXR™ TECHNOLOGY Rx only
+
+# PRINCIPAL DISPLAY PANEL - 750 mg Bottle Carton
+
+NDC 24478-205-25
+
+Pfizer
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
+750 mg (150 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+SHAKE WELL BEFORE USE
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 900 mg Bottle Label
 
 NDC 24478-210-30
 
-900 mg (180 mL when reconstituted)
-
-Quillivant™ XR methylphenidate hydrochloride for extended-release oral suspension CII
-
-25 mg/5 mL (5 mg/mL) when reconstituted
+Pfizer
 
 Pharmacist: Dispense the enclosed Medication Guide to each patient.
 
-Rx Only
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
+900 mg (180 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+LiquiXR™ TECHNOLOGY Rx only
+
+# PRINCIPAL DISPLAY PANEL - 900 mg Bottle Carton
+
+NDC 24478-210-30
+
+Pfizer
+
+Pharmacist: Dispense the enclosed Medication Guide to each patient.
+
+Quillivant XR™ methylphenidate HCl for extended-release oral suspension
+
+900 mg (180 mL when reconstituted)
+
+25 mg/5 mL (5 mg/mL) when reconstituted CII
+
+SHAKE WELL BEFORE USE
+
+Rx only

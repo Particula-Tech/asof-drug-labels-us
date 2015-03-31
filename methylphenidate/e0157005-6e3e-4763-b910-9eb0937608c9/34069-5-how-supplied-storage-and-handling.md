@@ -17,7 +17,7 @@ After reconstitution, the product is a light beige to tan viscous suspension con
 
 ## 16.2 Storage and Handling
 
-Store at 25ºC (77ºF); excursions permitted from 15º to 30ºC (59º to 86ºF).
+Store at 25ºC (77ºF); excursions permitted from 15ºC to 30ºC (59ºF to 86ºF).
 [See USP Controlled Room Temperature.]
 
 Dispense in original container.

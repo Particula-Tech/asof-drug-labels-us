@@ -47,7 +47,7 @@ Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphyla
 
 Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal
 
-Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching
+Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching, Rhabdomyolysis
 
 Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
 

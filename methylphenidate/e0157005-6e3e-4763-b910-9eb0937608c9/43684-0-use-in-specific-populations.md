@@ -7,14 +7,14 @@ Pregnancy Category C
 Risk Summary
 
 There are no adequate or well-controlled studies with QUILLIVANT XR in pregnant women.
-Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in mothers dependent on other stimulant products such as amphetamines.
+Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in mothers dependent on other CNS stimulant products such as amphetamines.
 Methylphenidate showed some potential for teratogenicity when pregnant animals were treated during organogenesis: an increased incidence of fetal spina bifida in rabbits at 40 times the maximum recommended human dose (MRHD), on a mg/m2 basis, and an increased incidence of fetal skeletal variations in rats at 7 times the MRHD.
 A decrease in body weight gain was seen in the offspring of rats treated with methylphenidate throughout pregnancy and lactation at 4 times the MRHD.
 QUILLIVANT XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Clinical Considerations
 
-Stimulant medications, such as QUILLIVANT XR, cause vasoconstriction and thereby decrease placental perfusion.
+CNS stimulant medications, such as QUILLIVANT XR, cause vasoconstriction and thereby decrease placental perfusion.
 Infants born to amphetamine dependent mothers have an increased risk of premature delivery and low birth weight.
 Monitor infants for symptoms of withdrawal such as feeding difficulties, irritability, agitation, and excessive drowsiness.
 
@@ -31,7 +31,7 @@ The no effect level for pre- and postnatal development in rats was 15 mg/kg/day 
 ## 8.3 Nursing Mothers
 
 Methylphenidate is present in human milk.
-Long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
+Long-term neurodevelopmental effects on infants from CNS stimulant exposure are unknown.
 Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
@@ -44,7 +44,7 @@ Safety and efficacy in pediatric patients below the age of 6 years have not been
 
 Long Term Suppression of Growth
 
-Growth should be monitored during treatment with stimulants, including QUILLIVANT XR.
+Growth should be monitored during treatment with CNS stimulants, including QUILLIVANT XR.
 Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
 
 Juvenile Animal Data

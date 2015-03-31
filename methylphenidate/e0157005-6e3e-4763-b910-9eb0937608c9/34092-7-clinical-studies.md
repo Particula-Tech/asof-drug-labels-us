@@ -1,6 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of QUILLIVANT XR was evaluated in a laboratory classroom study conducted in 45 pediatric patients (ages 6 to 12 years) with ADHD.
+Patients in the trial met Diagnostic and Statistical Manual of Mental Diseases, 4th edition (DSM-IV®) criteria for ADHD.
 The study began with an open-label dose optimization period (4 to 6 weeks) with an initial QUILLIVANT XR dose of 20 mg once daily in the morning.
 The dose could be titrated weekly in increments of 10 or 20 mg until an optimal dose or the maximum dose of 60 mg/day was reached.
 Subjects then entered a 2-week randomized, double-blind, crossover treatment with the individually optimized dose of QUILLIVANT XR or placebo.

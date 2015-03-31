@@ -1,6 +1,6 @@
 Medication Guide
 
-QUILLIVANT™ XR (\kwil-ə-vant\) (methylphenidate hydrochloride) for extended-release oral suspension CII
+QUILLIVANT XR® (\kwil-ə-vant\) (methylphenidate hydrochloride) for extended-release oral suspension CII
 
 Read this Medication Guide that comes with QUILLIVANT XR before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -150,7 +150,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about QUILLIVANT XR.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about QUILLIVANT XR that was written for healthcare professionals.
-For more information, please contact NextWave Pharmaceuticals, Inc., at 1-800-206-8115 or visit the website at www.quillivantxr.com.
+For more information, please contact Pfizer, Inc. at 1-800-438-1985 or visit the website at www.quillivantxr.com.
 
 What are the ingredients in QUILLIVANT XR?
 
@@ -160,6 +160,6 @@ Inactive Ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvin
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0657-4.0
+LAB-0657-6.0
 
-December 2013
+February 2015

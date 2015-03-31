@@ -9,7 +9,7 @@ Information on the Medication Guide
 Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with QUILLIVANT XR, and counsel them on its appropriate use.
 A patient Medication Guide is available for QUILLIVANT XR.
 Instruct patients, their families, and their caregivers to read the Medication Guide, and assist them in understanding its contents.
-Give patients the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+Give patients, their families, and their caregivers the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is attached to the prescribing information.
 
 Instructions for Using the Enclosed Oral Dosing Dispenser
@@ -56,7 +56,7 @@ Priapism
 Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
 Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
-Circulation Problems in Fingers and Toes [Peripheral vasculopathy, including Raynaud's phenomenon]
+Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud's Phenomenon]
 
 - Instruct patients beginning treatment with QUILLIVANT XR about the risk of peripheral vasculopathy, including Raynaud's phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
