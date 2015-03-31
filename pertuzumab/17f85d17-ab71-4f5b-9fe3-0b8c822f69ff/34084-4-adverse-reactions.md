@@ -20,7 +20,7 @@ No dose adjustment was permitted for PERJETA or trastuzumab.
 The rates of adverse events resulting in permanent discontinuation of all study therapy were 6.1% for patients in the PERJETA-treated group and 5.3% for patients in the placebo-treated group.
 Adverse events led to discontinuation of docetaxel alone in 23.6% of patients in the PERJETA-treated group and 23.2% of patients in the placebo-treated group.
 Table 1 reports the adverse reactions that occurred in at least 10% of patients in the PERJETA-treated group.
-The safety profile of PERJETA remained unchanged with an additional year of follow-up (median total follow-up of 30 months) in Study 1.
+The safety profile of PERJETA remained unchanged with an additional 2.75 years of follow-up (median total follow-up of 50 months) in Study 1.
 
 The most common adverse reactions (> 30%) seen with PERJETA in combination with trastuzumab and docetaxel were diarrhea, alopecia, neutropenia, nausea, fatigue, rash, and peripheral neuropathy.
 The most common NCI - CTCAE v3.0 Grade 3 – 4 adverse reactions (> 2%) were neutropenia, febrile neutropenia, leukopenia, diarrhea, peripheral neuropathy, anemia, asthenia, and fatigue.

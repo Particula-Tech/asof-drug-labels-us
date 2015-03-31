@@ -36,9 +36,9 @@ In the subgroup of patients with hormone receptor-positive disease (n=388), the 
 In the subgroup of patients with disease limited to non-visceral metastasis (n=178), the hazard ratio was 0.96 (95% CI: 0.61, 1.52).
 
 At the time of the final PFS analysis, 165 patients had died, and more deaths had occurred in the placebo-treated group (23.6%) compared with the PERJETA-treated group (17.2%); OS was not mature and interim OS analysis results did not meet the pre-specified stopping boundary for statistical significance.
-A second interim analysis of OS, conducted after an additional year of follow-up, demonstrated a statistically significant improvement in OS [HR=0.66 (95% CI: 0.52, 0.84), p=0.0008].
-See Table 4 and Figure 2.
-OS results in patient subgroups were consistent with those observed for IRF-assessed PFS with the exception of the subgroup of patients with disease limited to non-visceral metastasis [HR=1.42 (95% CI: 0.71, 2.84)].
+The final analysis of OS (Table 4, Figure 2) was performed when 389 patients had died (221 in the placebo-treated group and 168 in the PERJETA-treated group).
+A statistically significant OS improvement in favor of the PERJETA-treated group was demonstrated [HR=0.68 (95% CI; 0.56, 0.84), p=0.0002] with an increase in median OS of 15.7 months (median OS of 56.5 months in the PERJETA-treated group vs. 40.8 months in the placebo-treated group).
+OS results in patient subgroups were consistent with those observed for IRF-assessed PFS with the exception of the subgroup of patients with disease limited to non-visceral metastasis [HR=1.11 (95% CI: 0.66, 1.85)].
 
 Table 4 Summary of Efficacy from Study 1
 
@@ -47,9 +47,9 @@ Table 4 Summary of Efficacy from Study 1
 | Progression-Free Survival (independent review) |  |  |  |  |
 | No. of patients with an event | 191 (47.5%) | 242 (59.6%) | 0.62 |  |
 | Median months | 18.5 | 12.4 | (0.51, 0.75) | < 0.0001 |
-| Overall Survival (second interim analysis) |  |  |  |  |
-| No. of patients who died | 113 (28.1%) | 154 (37.9%) | 0.66 |  |
-| Median months | NR | 37.6 | (0.52, 0.84) | 0.0008The HR and p-value for the second interim analysis of Overall Survival crossed the pre-defined efficacy stopping boundary (HR ≤ 0.739, p ≤ 0.0138). |
+| Overall SurvivalFinal analysis of overall survival, cutoff date Feb 2014 (final analysis) |  |  |  |  |
+| No. of patients who died | 168 (41.8%) | 221 (54.4%) | 0.68 |  |
+| Median months | 56.5 | 40.8 | (0.56, 0.84) | 0.0002 |
 | Objective Response Rate (ORR, independent review) |  |  |  |  |
 | No. of patients analyzed |  |  |  |  |
 | Objective response (CR + PR) | 343 | 336 |  |  |
@@ -59,12 +59,11 @@ Table 4 Summary of Efficacy from Study 1
 | (months) | 20.2 | 12.5 |  |  |
 | Difference in ORR | 10.8% |  |  |  |
 | 95% CI | (4.2%, 17.5%) |  |  | 0.0011 |
-| NR=Not reached |  |  |  |  |
 | CI=Confidence Interval |  |  |  |  |
 
 Figure 1 Kaplan-Meier Curve of IRF-Assessed Progression-Free Survival for Study 1
 
-Figure 2 Kaplan-Meier Curve of Overall Survival for Study 1
+Figure 2 Kaplan-Meier Curve of Overall Survival for Study 1 (Final Analysis)
 
 ## 14.2 Neoadjuvant Treatment of Breast Cancer
 
