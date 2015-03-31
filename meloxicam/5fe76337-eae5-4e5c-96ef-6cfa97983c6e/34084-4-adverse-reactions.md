@@ -15,11 +15,11 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 ## 6.1 Clinical Trials Experience
 
-### Adults
+Adults
 
 Osteoarthritis and Rheumatoid Arthritis
 
-The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3,505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
+The meloxicam Phase 2/3 clinical trial database includes 10,122 OA patients and 1012 RA patients treated with meloxicam 7.5 mg/day, 3505 OA patients and 1351 RA patients treated with meloxicam 15 mg/day.
 Meloxicam at these doses was administered to 661 patients for at least 6 months and to 312 patients for at least one year.
 Approximately 10,500 of these patients were treated in ten placebo- and/or active-controlled osteoarthritis trials and 2363 of these patients were treated in ten placebo- and/or active-controlled rheumatoid arthritis trials.
 Gastrointestinal (GI) adverse events were the most frequently reported adverse events in all treatment groups across meloxicam trials.
@@ -44,7 +44,7 @@ Table 1a Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in a 12-We
 | Nausea | 3.2 | 3.9 | 3.8 | 7.2 |
 | Body as a Whole |  |  |  |  |
 | Accident household | 1.9 | 4.5 | 3.2 | 2.6 |
-| Edema1 | 2.5 | 1.9 | 4.5 | 3.3 |
+| EdemaWHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined | 2.5 | 1.9 | 4.5 | 3.3 |
 | Fall | 0.6 | 2.6 | 0.0 | 1.3 |
 | Influenza-like symptoms | 5.1 | 4.5 | 5.8 | 2.6 |
 | Central and Peripheral Nervous System |  |  |  |  |
@@ -54,8 +54,7 @@ Table 1a Adverse Events (%) Occurring in ≥ 2% of Meloxicam Patients in a 12-We
 | Pharyngitis | 1.3 | 0.6 | 3.2 | 1.3 |
 | Upper respiratory tract infection | 1.9 | 3.2 | 1.9 | 3.3 |
 | Skin |  |  |  |  |
-| Rash2 | 2.5 | 2.6 | 0.6 | 2.0 |
-| 1 WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined 2 WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |
+| RashWHO preferred terms rash, rash erythematous, and rash maculo-papular combined | 2.5 | 2.6 | 0.6 | 2.0 |
 
 Table 1b Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in two 12-Week Rheumatoid Arthritis Placebo- Controlled Trials
 
@@ -63,22 +62,21 @@ Table 1b Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in two 12-W
 | --- | --- | --- | --- |
 | No. of Patients | 469 | 481 | 477 |
 | Gastrointestinal Disorders | 14.1 | 18.9 | 16.8 |
-| Abdominal pain NOS2 | 0.6 | 2.9 | 2.3 |
-| Dyspeptic signs and symptoms1 | 3.8 | 5.8 | 4.0 |
-| Nausea2 | 2.6 | 3.3 | 3.8 |
+| Abdominal pain NOSMedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS | 0.6 | 2.9 | 2.3 |
+| Dyspeptic signs and symptomsMedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) | 3.8 | 5.8 | 4.0 |
+| Nausea | 2.6 | 3.3 | 3.8 |
 | General Disorders and Administration Site Conditions |  |  |  |
-| Influenza-like illness2 | 2.1 | 2.9 | 2.3 |
+| Influenza-like illness | 2.1 | 2.9 | 2.3 |
 | Infection and Infestations |  |  |  |
-| Upper Respiratory tract infections-pathogen class unspecified1 | 4.1 | 7.0 | 6.5 |
+| Upper Respiratory tract infections-pathogen class unspecified | 4.1 | 7.0 | 6.5 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |
-| Joint related signs and symptoms1 | 1.9 | 1.5 | 2.3 |
+| Joint related signs and symptoms | 1.9 | 1.5 | 2.3 |
 | Nervous System Disorders |  |  |  |
-| Headaches NOS2 | 6.4 | 6.4 | 5.5 |
+| Headaches NOS | 6.4 | 6.4 | 5.5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
-| Rash NOS2 | 1.7 | 1.0 | 2.1 |
-| 1 MedDRA high level term (preferred terms): dyspeptic signs and symptoms (dyspepsia, dyspepsia aggravated, eructation, gastrointestinal irritation), upper respiratory tract infections-pathogen unspecified (laryngitis NOS, pharyngitis NOS, sinusitis NOS), joint related signs and symptoms (arthralgia, arthralgia aggravated, joint crepitation, joint effusion, joint swelling) 2 MedDRA preferred term: nausea, abdominal pain NOS, influenza-like illness, headaches NOS, and rash NOS |  |  |  |
+| Rash NOS | 1.7 | 1.0 | 2.1 |
 
-The adverse events that occurred with meloxicam in ≥2% of patients treated short-term (4-6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 2.
+The adverse events that occurred with meloxicam in ≥2% of patients treated short-term (4 to 6 weeks) and long-term (6 months) in active-controlled osteoarthritis trials are presented in Table 2.
 
 Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 Weeks and 6 Month Active-Controlled Osteoarthritis Trials
 
@@ -96,7 +94,7 @@ Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 We
 | Vomiting | 0.6 | 0.8 | 1.8 | 2.6 |
 | Body as a Whole |  |  |  |  |
 | Accident household | 0.0 | 0.0 | 0.6 | 2.9 |
-| Edema1 | 0.6 | 2.0 | 2.4 | 1.6 |
+| EdemaWHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined | 0.6 | 2.0 | 2.4 | 1.6 |
 | Pain | 0.9 | 2.0 | 3.6 | 5.2 |
 | Central and Peripheral Nervous System |  |  |  |  |
 | Dizziness | 1.1 | 1.6 | 2.4 | 2.6 |
@@ -113,13 +111,24 @@ Table 2 Adverse Events (%) Occurring in ≥2% of Meloxicam Patients in 4 to 6 We
 | Upper respiratory tract infection | 0.2 | 0.0 | 8.3 | 7.5 |
 | Skin |  |  |  |  |
 | Pruritus | 0.4 | 1.2 | 2.4 | 0.0 |
-| Rash2 | 0.3 | 1.2 | 3.0 | 1.3 |
+| RashWHO preferred terms rash, rash erythematous, and rash maculo-papular combined | 0.3 | 1.2 | 3.0 | 1.3 |
 | Urinary |  |  |  |  |
 | Micturition frequency | 0.1 | 0.4 | 2.4 | 1.3 |
 | Urinary tract infection | 0.3 | 0.4 | 4.7 | 6.9 |
-| 1 WHO preferred terms edema, edema dependent, edema peripheral, and edema legs combined 2 WHO preferred terms rash, rash erythematous, and rash maculo-papular combined |  |  |  |  |
 
 Higher doses of meloxicam (22.5 mg and greater) have been associated with an increased risk of serious GI events; therefore, the daily dose of meloxicam should not exceed 15 mg.
+
+Pediatrics
+
+Pauciarticular and Polyarticular Course Juvenile Rheumatoid Arthritis (JRA)
+
+Three hundred and eighty-seven patients with pauciarticular and polyarticular course JRA were exposed to meloxicam with doses ranging from 0.125 to 0.375 mg/kg per day in three clinical trials.
+These studies consisted of two 12-week multicenter, double-blind, randomized trials (one with a 12-week open-label extension and one with a 40-week extension) and one 1-year open-label PK study.
+The adverse events observed in these pediatric studies with meloxicam were similar in nature to the adult clinical trial experience, although there were differences in frequency.
+In particular, the following most common adverse events, abdominal pain, vomiting, diarrhea, headache, and pyrexia, were more common in the pediatric than in the adult trials.
+Rash was reported in seven (<2%) patients receiving meloxicam.
+No unexpected adverse events were identified during the course of the trials.
+The adverse events did not demonstrate an age or gender-specific subgroup effect.
 
 The following is a list of adverse drug reactions occurring in <2% of patients receiving meloxicam in clinical trials involving approximately 16,200 patients.
 

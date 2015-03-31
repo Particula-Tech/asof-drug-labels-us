@@ -1,11 +1,13 @@
-# WARNING: RISK OF CARDIOVASCULAR AND GASTROINTESTINAL EVENTS
+# BOXED WARNING
+
+WARNING: RISK OF SERIOUS CARDIOVASCULAR and GASTROINTESTINAL EVENTS
 
 Cardiovascular Risk
 
 - Nonsteroidal anti-inflammatory drugs (NSAIDs) may cause an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
   This risk may increase with duration of use.
   Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk [see Warnings and Precautions (5.1)].
-- Meloxicam tablets are contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4.2) and Warnings and Precautions (5.1)].
+- Meloxicam tablets are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4.2) and Warnings and Precautions (5.1)].
 
 Gastrointestinal Risk
 

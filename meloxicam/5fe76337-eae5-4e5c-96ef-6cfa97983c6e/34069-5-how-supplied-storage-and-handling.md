@@ -26,8 +26,8 @@ NDC 29300-125-50; Bottles of 5000
 
 Storage
 
-Store at Controlled Room Temperature 200-250C (680-770F) [See USP].
-Keep Meloxicam Tablets USP in a dry place
+Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
+Keep Meloxicam Tablets USP in a dry place.
 
 Dispense tablets in a tight container.
 

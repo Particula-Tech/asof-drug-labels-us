@@ -2,28 +2,28 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years’ duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years' duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known CV disease or risk factors for CV disease may be at greater risk.
 To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4.2)].
+Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4.2)].
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID does increase the risk of serious GI events [see Warnings and Precautions (5.2)].
 
 ## 5.2 Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding, and Perforation
 
-NSAIDs, including meloxicam tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including meloxicam, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs, occur in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs, occur in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
 These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 
-Prescribe NSAIDS, including meloxicam tablets, with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
+Prescribe NSAIDs, including meloxicam, with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
 Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
 Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
 Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
@@ -35,7 +35,7 @@ For high-risk patients, consider alternate therapies that do not involve NSAIDs.
 
 ## 5.3 Hepatic Effects
 
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including meloxicam tablets.
+Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including meloxicam.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
 Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
 In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported [see Adverse Reactions (6.1)].
@@ -45,11 +45,11 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 
 ## 5.4 Hypertension
 
-NSAIDs, including meloxicam tablets, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
-NSAIDs, including meloxicam tablets, should be used with caution in patients with hypertension.
+NSAIDs, including meloxicam, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including meloxicam, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-Patients taking ACE inhibitors, thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDS.
+Patients taking ACE inhibitors, thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 
 ## 5.5 Congestive Heart Failure and Edema
 
@@ -58,7 +58,7 @@ Use meloxicam with caution in patients with fluid retention, hypertension, or he
 
 ## 5.6 Renal Effects
 
-Long-term administration of NSAIDs, including meloxicam tablets, can result in renal papillary necrosis, renal insufficiency, acute renal failure, and other renal injury.
+Long-term administration of NSAIDs, including meloxicam, can result in renal papillary necrosis, renal insufficiency, acute renal failure, and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
 Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics, ACE-inhibitors, and angiotensin II receptor antagonists, and the elderly.
@@ -81,18 +81,18 @@ Because some meloxicam metabolites are excreted by the kidney, monitor patients 
 
 ## 5.7 Anaphylactoid Reactions
 
-As with other NSAIDS, anaphylactoid reactions have occurred in patients without known prior exposure to meloxicam.
+As with other NSAIDs, anaphylactoid reactions have occurred in patients without known prior exposure to meloxicam.
 Meloxicam should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4.1) and Warnings and Precautions (5.12)].
 Seek emergency help in cases where an anaphylactoid reaction occurs.
 
 ## 5.8 Adverse Skin Reactions
 
-NSAIDs, including meloxicam tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including meloxicam, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin manifestations and discontinue use of the drug at the first appearance of skin rash or any other sign of hypersensitivity.
 
-## 5.9.Pregnancy
+## 5.9 Pregnancy
 
 Starting at 30 weeks gestation, avoid the use of meloxicam, because it may cause premature closure of the ductus arteriosus [see Use in Specific Populations (8.1) and Patient Counseling Information (17.8)].
 
@@ -108,7 +108,7 @@ The pharmacological activity of meloxicam in reducing fever and inflammation may
 
 ## 5.12 Hematological Effects
 
-Anemia may occur in patients receiving NSAIDs, including meloxicam tablets.
+Anemia may occur in patients receiving NSAIDs, including meloxicam.
 This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
 Patients on long-term treatment with NSAIDs, including meloxicam, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of meloxicam, like that of other NSAIDs, may be related to prostaglandin synthetase (cyclooxygenase) inhibition which is involved in the initial steps of the arachidonic acid cascade, resulting in the reduced formation of prostaglandins, thromboxanes and prostacylin.
+The mechanism of action of meloxicam, like that of other NSAIDs, may be related to prostaglandin synthetase (cyclo-oxygenase) inhibition which is involved in the initial steps of the arachidonic acid cascade, resulting in the reduced formation of prostaglandins, thromboxanes and prostacylin.
 It is not completely understood how reduced synthesis of these compounds results in therapeutic efficacy.
 
 ## 12.2 Pharmacodynamics
@@ -11,7 +11,7 @@ Meloxicam exhibits anti-inflammatory, analgesic, and antipyretic activities.
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 The absolute bioavailability of meloxicam capsules was 89% following a single oral dose of 30 mg compared with 30 mg IV bolus injection.
 Following single intravenous doses, dose-proportional pharmacokinetics were shown in the range of 5 mg to 60 mg.
@@ -20,28 +20,29 @@ Mean Cmax was achieved within four to five hours after a 7.5 mg meloxicam tablet
 With multiple dosing, steady-state concentrations were reached by Day 5.
 A second meloxicam concentration peak occurs around 12 to 14 hours post-dose suggesting biliary recycling.
 
-Table 3 Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)1
+Meloxicam capsules have been shown to be bioequivalent to meloxicam tablets.
 
-|  | Steady State |  |  | Single Dose |  |
-| --- | --- | --- | --- | --- | --- |
-| Pharmacokinetic Parameters (%CV) | Healthy male adults (Fed)2 | Elderly males (Fed)2 | Elderly females (Fed)2 | Renal failure (Fasted) | Hepatic insufficiency (Fasted) |
-|  | 7.5 mg3 tablets | 15 mg capsules | 15 mg capsules | 15 mg capsules | 15 mg capsules |
-| N | 18 | 5 | 8 | 12 | 12 |
-| Cmax [μg/mL] | 1.05 (20) | 2.3 (59) | 3.2 (24) | 0.59 (36) | 0.84 (29) |
-| tmax [h] | 4.9 (8) | 5 (12) | 6 (27) | 4 (65) | 10 (87) |
-| t1/2 [h] | 20.1 (29) | 21 (34) | 24 (34) | 18 (46) | 16 (29) |
-| CL/f [mL/min] | 8.8 (29) | 9.9 (76) | 5.1 (22) | 19 (43) | 11 (44) |
-| Vz/f4 [L] | 14.7 (32) | 15 (42) | 10 (30) | 26 (44) | 14 (29) |
-| 1 The parameter values in the table are from various studies 2 not under high fat conditions 3 Meloxicam tablets 4 Vz/f=Dose/(AUC•Kel) |  |  |  |  |  |
+Table 3 Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)The parameter values in the table are from various studies
 
-### Food and Antacid Effects
+|  |  | Steady State |  |  | Single Dose |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pharmacokinetic Parameters (%CV) |  | Healthy male adults (Fed)not under high fat conditions | Elderly males (Fed) | Elderly females (Fed) | Renal failure (Fasted) | Hepatic insufficiency (Fasted) |
+|  |  | 7.5 mgMeloxicam tablets tablets | 15 mg capsules | 15 mg capsules | 15 mg capsules | 15 mg capsules |
+| N |  | 18 | 5 | 8 | 12 | 12 |
+| Cmax | [μg/mL] | 1.05 (20) | 2.3 (59) | 3.2 (24) | 0.59 (36) | 0.84 (29) |
+| tmax | [h] | 4.9 (8) | 5 (12) | 6 (27) | 4 (65) | 10 (87) |
+| t1/2 | [h] | 20.1 (29) | 21 (34) | 24 (34) | 18 (46) | 16 (29) |
+| CL/f | [mL/min] | 8.8 (29) | 9.9 (76) | 5.1 (22) | 19 (43) | 11 (44) |
+| Vz/fVz/f=Dose/(AUC•Kel) | [L] | 14.7 (32) | 15 (42) | 10 (30) | 26 (44) | 14 (29) |
+
+Food and Antacid Effects
 
 Administration of meloxicam capsules following a high fat breakfast (75 g of fat) resulted in mean peak drug levels (i.e., Cmax) being increased by approximately 22% while the extent of absorption (AUC) was unchanged.
 The time to maximum concentration (Tmax) was achieved between 5 and 6 hours.
 No pharmacokinetic interaction was detected with concomitant administration of antacids.
 Based on these results, meloxicam can be administered without regard to timing of meals or concomitant administration of antacids.
 
-### Distribution
+Distribution
 
 The mean volume of distribution (Vss) of meloxicam is approximately 10 L. Meloxicam is ~99.4% bound to human plasma proteins (primarily albumin) within the therapeutic dose range.
 The fraction of protein binding is independent of drug concentration, over the clinically relevant concentration range, but decreases to ~99% in patients with renal disease.
@@ -52,15 +53,15 @@ Meloxicam concentrations in synovial fluid, after a single oral dose, range from
 The free fraction in synovial fluid is 2.5 times higher than in plasma, due to the lower albumin content in synovial fluid as compared to plasma.
 The significance of this penetration is unknown.
 
-### Metabolism
+Metabolism
 
 Meloxicam is extensively metabolized in the liver.
 Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P-450 mediated metabolism formed by oxidation of an intermediate metabolite 5'-hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
 In vitro studies indicate that CYP2C9 (cytochrome P450 metabolizing enzyme) plays an important role in this metabolic pathway with a minor contribution of the CYP3A4 isozyme.
-Patients’ peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
+Patients' peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
 All the four metabolites are not known to have any in vivo pharmacological activity.
 
-### Excretion
+Excretion
 
 Meloxicam excretion is predominantly in the form of metabolites, and occurs to equal extents in the urine and feces.
 Only traces of the unchanged parent compound are excreted in the urine (0.2%) and feces (1.6%).
@@ -72,7 +73,18 @@ The mean elimination half-life (t1/2) ranges from 15 hours to 20 hours.
 The elimination half-life is constant across dose levels indicating linear metabolism within the therapeutic dose range.
 Plasma clearance ranges from 7 to 9 mL/min.
 
-### Special Populations
+Special Populations
+
+Pediatric
+
+After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
+The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see Dosage and Administration (2.4)].
+The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13.0 hours (3.0) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
+
+In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.
+The body-weight normalized apparent oral clearance values were adequate predictors of meloxicam exposure in pediatric patients.
+
+The pharmacokinetics of meloxicam in pediatric patients under 2 years of age have not been investigated.
 
 Geriatric
 

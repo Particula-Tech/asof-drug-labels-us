@@ -10,13 +10,13 @@ Inform patients of the availability of a Medication Guide for NSAIDs that accomp
 
 ## 17.2 Cardiovascular Effects
 
-NSAIDS including meloxicam tablets, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
+NSAIDs including meloxicam tablets, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
 Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
 Patients should be apprised of the importance of this follow-up [see Warnings and Precautions (5.1)].
 
 ## 17.3 Gastrointestinal Effects
 
-NSAIDS including meloxicam tablets, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+NSAIDs including meloxicam tablets, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
 Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
 Patients should be apprised of the importance of this follow-up [see Warnings and Precautions (5.2)].
 
@@ -27,7 +27,7 @@ If these occur, instruct patients to stop therapy and seek immediate medical the
 
 ## 17.5 Adverse Skin Reactions
 
-NSAIDS, including meloxicam tablets, can cause serious skin side effects such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which may result in hospitalization and even death.
+NSAIDs, including meloxicam tablets, can cause serious skin side effects such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which may result in hospitalization and even death.
 Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
 Advise patients to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible [see Warnings and Precautions (5.8)].
 
@@ -43,3 +43,27 @@ Instruct patients to seek immediate emergency help [see Warnings and Precautions
 ## 17.8 Effects During Pregnancy
 
 Starting at 30 weeks gestation, meloxicam should be avoided as premature closure of the ductus arteriosus in the fetus may occur [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+
+## 17.9 Effects On Female Fertility
+
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including meloxicam tablets, may be associated with a reversible delay in ovulation.
+For women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended [See Use in Specific Population (8.8)].
+
+Please address medical inquiries to 1-866-562-4616
+
+Manufactured by:
+
+UNICHEM LABORATORIES LTD.
+
+Pilerne Ind.
+Estate,
+
+Pilerne, Bardez, Goa 403511, India
+
+Marketed by:
+
+Rochelle Park, NJ 07662
+
+05-R-11/2013
+
+13006054
