@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 CARDIZEM® LA is supplied as white, capsule-shaped tablets debossed with "B" on one side and the diltiazem content (mg) on the other.
 
