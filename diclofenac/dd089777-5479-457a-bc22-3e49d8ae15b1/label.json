@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022396"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1068-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "diclofenac sodium",
+      "name": "Dyloject"
+    }
+  ],
+  "setid": "dd089777-5479-457a-bc22-3e49d8ae15b1",
+  "source": "dailymed"
+}
