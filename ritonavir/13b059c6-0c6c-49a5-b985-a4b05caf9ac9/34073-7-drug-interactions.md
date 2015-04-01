@@ -25,7 +25,7 @@ Established and Other Potentially Significant Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Ritonavir or Concomitant Drug | Clinical Comments |
 | --- | --- | --- |
-|  |  | HIV-Antiviral Agents |
+| HIV-Antiviral Agents |  |  |
 | HIV-1 Protease Inhibitor: atazanavir | When co-administered with reduced doses of atazanavir and ritonavir ↑ atazanavir (↑ AUC, ↑ Cmax, ↑ Cmin) | Atazanavir plasma concentrations achieved with atazanavir 300 mg once daily and ritonavir 100 mg once daily are higher than those achieved with atazanavir 400 mg once daily. See the complete prescribing information for Reyataz® (atazanavir) for details on co-administration of atazanavir 300 mg once daily with ritonavir 100 mg once daily. |
 | HIV-1 Protease Inhibitor: darunavir | When co-administered with reduced doses of ritonavir ↑ darunavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Prezista® (darunavir) for details on co-administration of darunavir 600 mg twice daily with ritonavir 100 mg twice daily or darunavir 800 mg once daily with ritonavir 100 mg once daily. |
 | HIV-1 Protease Inhibitor: fosamprenavir | When co-administered with reduced doses of ritonavir ↑ amprenavir (↑ AUC, ↑ Cmax, ↑ Cmin) | See the complete prescribing information for Lexiva® (fosamprenavir) for details on co-administration of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily, fosamprenavir 1400 mg once daily with ritonavir 200 mg once daily or fosamprenavir 1400 mg once daily with ritonavir 100 mg once daily. |
@@ -57,6 +57,7 @@ Established and Other Potentially Significant Drug Interactions
 | Antimycobacterial: rifampin | ↓ ritonavir | May lead to loss of virologic response. Alternate antimycobacterial agents such as rifabutin should be considered (see Antimycobacterial: rifabutin, for dose reduction recommendations). |
 | Antiparasitic: atovaquone | ↓ atovaquone | Clinical significance is unknown; however, increase in atovaquone dose may be needed. |
 | Antiparasitic: quinine | ↑ quinine | A dose decrease of quinine may be needed when co-administered with ritonavir. |
+| Antipsychotics: quetiapine | ↑ quetiapine | Initiation of NORVIR in patients taking quetiapine: Consider alternative antiretroviral therapy to avoid increases in quetiapine exposures. If coadministration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring. Initiation of quetiapine in patients taking NORVIR: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. |
 | β-Blockers: metoprolol, timolol | ↑ Beta-Blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Bronchodilator: theophylline | ↓ theophylline | Increased dosage of theophylline may be required; therapeutic monitoring should be considered. |
 | Calcium channel blockers: diltiazem, nifedipine, verapamil | ↑ calcium channel blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. |
