@@ -28,8 +28,12 @@ These adverse reactions may be more common in patients with a prior history of c
 
 ## 5.4 Dihydropyrimidine Dehydrogenase Deficiency
 
-Rarely, unexpected, severe toxicity (eg, stomatitis, diarrhea, neutropenia and neurotoxicity) associated with 5-fluorouracil has been attributed to a deficiency of dihydropyrimidine dehydrogenase (DPD) activity.
-A link between decreased levels of DPD and increased, potentially fatal toxic effects of 5-fluorouracil therefore cannot be excluded.
+Based on postmarketing reports, patients with certain homozygous or certain compound heterozygous mutations in the DPD gene that result in complete or near complete absence of DPD activity are at increased risk for acute early-onset of toxicity and severe, life-threatening, or fatal adverse reactions caused by XELODA (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
+Patients with partial DPD activity may also have increased risk of severe, life-threatening, or fatal adverse reactions caused by XELODA.
+
+Withhold or permanently discontinue XELODA based on clinical assessment of the onset, duration and severity of the observed toxicities in patients with evidence of acute early-onset or unusually severe toxicity, which may indicate near complete or total absence of DPD activity.
+No XELODA dose has been proven safe for patients with complete absence of DPD activity.
+There is insufficient data to recommend a specific dose in patients with partial DPD activity as measured by any specific test.
 
 ## 5.5 Dehydration and Renal Failure
 

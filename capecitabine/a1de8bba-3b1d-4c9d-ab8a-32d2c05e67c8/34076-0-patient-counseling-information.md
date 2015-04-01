@@ -6,6 +6,11 @@ Patients and patients' caregivers should be informed of the expected adverse eff
 As described below, patients taking XELODA should be informed of the need to interrupt treatment and to call their physician immediately if moderate or severe toxicity occurs.
 Patients should be encouraged to recognize the common grade 2 toxicities associated with XELODA treatment See FDA-approved patient labeling (Patient Information).
 
+Dihydropyrimidine Dehydrogenase Deficiency
+
+Patients should be advised to notify their healthcare provider if they have a known DPD deficiency.
+Advise patients if they have complete or near complete absence of DPD activity they are at an increased risk of acute early-onset of toxicity and severe, life-threatening, or fatal adverse reactions caused by XELODA (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity) [see Warnings and Precautions (5.4)].
+
 Diarrhea
 
 Patients experiencing grade 2 diarrhea (an increase of 4 to 6 stools/day or nocturnal stools) or greater or experiencing severe bloody diarrhea with severe abdominal pain and fever should be instructed to stop taking XELODA and to call their physician immediately.

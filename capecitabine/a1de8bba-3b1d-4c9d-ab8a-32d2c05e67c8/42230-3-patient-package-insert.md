@@ -31,7 +31,6 @@ Who should not take XELODA?
 
 Do not take XELODA if you:
 
-- have been told that you lack the enzyme DPD (dihydropyrimidine dehydrogenase).
 - have severe kidney problems.
 - are allergic to capecitabine, 5-fluorouracil, or any of the ingredients in XELODA.
   See the end of this leaflet for a complete list of ingredients in XELODA.
@@ -46,6 +45,7 @@ Before you take XELODA, tell your doctor if you:
 
 - have had heart problems.
 - have kidney or liver problems.
+- have been told that you lack the enzyme DPD (dihydropyrimidine dehydrogenase)
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
   XELODA can harm your unborn baby.
