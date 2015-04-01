@@ -2,7 +2,7 @@ PHARMACY BULK PACKAGE
 
 NOT FOR DIRECT INFUSION
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of UNASYN® and other antibacterial drugs, UNASYN should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of UNASYN® and other antibacterial drugs, UNASYN should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 
 # COMPATIBILITY, RECONSTITUTION AND STABILITY
 
@@ -10,16 +10,14 @@ When concomitant therapy with aminoglycosides is indicated, UNASYN and aminoglyc
 
 # DIRECTIONS FOR USE
 
-## General Dissolution Procedures
+## Intravenous Administration
 
-UNASYN sterile powder for intravenous and intramuscular use may be reconstituted with any of the compatible diluents described in this insert.
+### Directions for Proper Use of Pharmacy Bulk Package
+
+UNASYN sterile powder for intravenous use may be reconstituted with any of the compatible diluents described in this insert.
 Solutions should be allowed to stand after dissolution to allow any foaming to dissipate in order to permit visual inspection for complete solubilization.
 
-## Preparation for Intravenous Use
-
 UNASYN concentrations between 3 and 45 mg (2 to 30 mg ampicillin/1 to 15 mg sulbactam/mL) are recommended for intravenous use.
-
-## Directions For Proper Use of Pharmacy Bulk Package
 
 The 15 gram vial may be reconstituted with either 92 mL Sterile Water for Injection or 0.9% Sodium Chloride Injection.
 The diluent should be added in two separate aliquots in a suitable work area, such as a laminar flow hood.
@@ -44,7 +42,7 @@ Table 6
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Periods |
 | --- | --- | --- |
 | Sterile Water for Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at4°C |
-| 0.9% Sodium Chloride Injection, (USP) | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at 4°C |
+| 0.9% Sodium Chloride Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 21°C 48 hrs at 4°C 72 hrs at 4°C |
 | 5% Dextrose Injection | 30 (20/10) 30 (20/10) 3 (2/1) | 2 hrs at 21°C 4 hrs at 4°C 2 hrs at 21°C |
 | Lactated Ringer's Injection | 45 (30/15) 45 (30/15) | 8 hrs at 21°C 24 hrs at 4°C |
 | M/6 Sodium Lactate Injection | 45 (30/15) 45 (30/15) | 8 hrs at 21°C 12 hrs at 4°C |
@@ -82,8 +80,10 @@ The 1.5 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratorie
 
 The 3 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratories' ADD-Vantage® Flexible Diluent Container containing 0.9% Sodium Chloride Injection, USP, 100 mL or 250 mL sizes.
 
+To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+
 Rx only
 
-LAB-0018-8.0
+LAB-0018-12.0
 
-December 2013
+November 2014

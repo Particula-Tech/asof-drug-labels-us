@@ -1,31 +1,38 @@
 # WARNINGS
 
-SERIOUS AND OCCASIONALLY FATAL HYPERSENSITIVITY (ANAPHYLACTIC) REACTIONS HAVE BEEN REPORTED IN PATIENTS ON PENICILLIN THERAPY.
-THESE REACTIONS ARE MORE APT TO OCCUR IN INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY AND/OR HYPERSENSITIVITY REACTIONS TO MULTIPLE ALLERGENS.
-THERE HAVE BEEN REPORTS OF INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY WHO HAVE EXPERIENCED SEVERE REACTIONS WHEN TREATED WITH CEPHALOSPORINS.
-BEFORE THERAPY WITH A PENICILLIN, CAREFUL INQUIRY SHOULD BE MADE CONCERNING PREVIOUS HYPERSENSITIVITY REACTIONS TO PENICILLINS, CEPHALOSPORINS, AND OTHER ALLERGENS.
-IF AN ALLERGIC REACTION OCCURS, UNASYN SHOULD BE DISCONTINUED AND THE APPROPRIATE THERAPY INSTITUTED.
+## Hypersensitivity
 
-SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
-OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
+Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
+These reactions are more apt to occur in individuals with a history of penicillin hypersensitivity and/or hypersensitivity reactions to multiple allergens.
+There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
+Before therapy with a penicillin, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, and other allergens.
+If an allergic reaction occurs, UNASYN should be discontinued and the appropriate therapy instituted.
+
+## Hepatotoxicity
+
+Hepatic dysfunction, including hepatitis and cholestatic jaundice has been associated with the use of UNASYN.
+Hepatic toxicity is usually reversible; however, deaths have been reported.
+Hepatic function should be monitored at regular intervals in patients with hepatic impairment.
+
+## Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including UNASYN, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
 ## General
 
 A high percentage of patients with mononucleosis who receive ampicillin develop a skin rash.
-Thus, ampicillin class antibiotics should not be administered to patients with mononucleosis.
+Thus, ampicillin class antibacterials should not be administered to patients with mononucleosis.
 In patients treated with UNASYN the possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy.
 If superinfections occur (usually involving Pseudomonas or Candida), the drug should be discontinued and/or appropriate therapy instituted.
 
@@ -38,8 +45,8 @@ They do not treat viral infections (e.g., the common cold).
 When UNASYN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by UNASYN or other antibacterial drugs in the future.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued.
+Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial.
 If this occurs, patients should contact their physician as soon as possible.
 
 ## Drug Interactions
