@@ -1,4 +1,6 @@
-MEDICATION GUIDE PRISTIQ® (pris-TEEK) (desvenlafaxine) Extended-Release Tablets
+# MEDICATION GUIDE
+
+PRISTIQ® (pris-TEEK) (desvenlafaxine) Extended-Release Tablets
 
 Read this Medication Guide before you start taking PRISTIQ and each time you get a refill.
 There may be new information.
@@ -18,12 +20,11 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. How can I watch for and try to prevent suicidal thoughts and actions?
-
-- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -164,15 +165,15 @@ PRISTIQ may also cause other serious side effects, including:
   PRISTIQ and other SNRIs/SSRIs may cause you to have an increased chance of bleeding.
   Taking aspirin, NSAIDs (non-steroidal anti-inflammatory drugs), or blood thinners may add to this risk.
   Tell your healthcare provider right away about any unusual bleeding or bruising.
-- Visual problems Only some people are at risk for these problems.
+- Visual problemsOnly some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-  - eye pain
-  - changes in vision
-  - swelling or redness in or around the eye
-- Symptoms when stopping PRISTIQ (discontinuation symptoms).
+  Symptoms when stopping PRISTIQ (discontinuation symptoms).
   Side effects may occur when stopping PRISTIQ (discontinuation symptoms), especially when therapy is stopped suddenly.
   Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
   Some of these side effects may include:
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
 
 | dizzinessnauseaheadacheirritabilitysleeping problems (insomnia) | anxietyabnormal dreamstirednesssweatingdiarrhea |
 | --- | --- |
@@ -222,12 +223,14 @@ What are the ingredients in PRISTIQ?
 
 Active ingredient: desvenlafaxine
 
-Inactive ingredients: For the 50 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
+Inactive ingredients: For the 25 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate, a film coating which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
+
+For the 50 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
 
 For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate, a film coating which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, iron oxide and FD&C yellow #6.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0539-6.0
+LAB-0539-7
 
-July 2014
+August 2014

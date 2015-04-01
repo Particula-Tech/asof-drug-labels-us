@@ -19,7 +19,7 @@ No difference was observed between placebo and desvenlafaxine treatments for the
 
 ## 12.3 Pharmacokinetics
 
-The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg/day.
+The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg per day.
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4 to 5 days.
 At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
 
@@ -103,8 +103,8 @@ Systemic clearance (CL/F) was decreased by approximately 20% and 36% in patients
 CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5% difference).
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
-The recommended dose in patients with hepatic impairment is 50 mg/day.
-Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.6)].
+The recommended dose in patients with hepatic impairment is 50 mg per day.
+Dose escalation above 100 mg per day is not recommended [see Use in Specific Populations (8.6)].
 
 Renal insufficiency
 

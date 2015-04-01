@@ -177,19 +177,19 @@ Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 | Supine pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
 | Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
-Treatment with PRISTIQ at all doses from 50 mg/day to 400 mg/day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
+Treatment with PRISTIQ at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
 Analyses of patients in PRISTIQ pre-marketing short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
-This was seen at all doses with a suggestion of a higher rate at 400 mg/day.
+This was seen at all doses with a suggestion of a higher rate at 400 mg per day.
 
 Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blood Pressure
 
 | Treatment Group | Proportion of Patients with Sustained Hypertension |
 | --- | --- |
 | Placebo | 0.5% |
-| PRISTIQ 50 mg/day | 1.3% |
-| PRISTIQ 100 mg/day | 0.7% |
-| PRISTIQ 200 mg/day | 1.1% |
-| PRISTIQ 400 mg/day | 2.3% |
+| PRISTIQ 50 mg per day | 1.3% |
+| PRISTIQ 100 mg per day | 0.7% |
+| PRISTIQ 200 mg per day | 1.1% |
+| PRISTIQ 400 mg per day | 2.3% |
 
 Orthostatic hypotension
 

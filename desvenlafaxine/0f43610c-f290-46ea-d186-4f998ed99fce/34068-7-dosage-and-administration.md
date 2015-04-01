@@ -1,22 +1,24 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Instruction for Use
+## 2.1 GENERAL INSTRUCTION FOR USE
 
 The recommended dose for PRISTIQ is 50 mg once daily, with or without food.
-
-In clinical studies, doses of 50 mg to 400 mg per day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg per day and adverse reactions and discontinuations were more frequent at higher doses.
-
-When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.9)].
-
+The 50 mg dose is both a starting dose and the therapeutic dose.
 PRISTIQ should be taken at approximately the same time each day.
 Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or dissolved.
+
+In clinical studies, doses of 10 mg to 400 mg per day were studied.
+In clinical studies, doses of 50 mg to 400 mg per day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg per day and adverse reactions and discontinuations were more frequent at higher doses.
+
+The 25 mg per day dose is intended for a gradual reduction in dose when discontinuing treatment.
+When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.9)].
 
 ## 2.2 Special Populations
 
 Patients with renal impairment
 
 The maximum recommended dose in patients with moderate renal impairment (24-hr creatinine clearance [CrCl] = 30 to 50 mL/min, Cockcroft-Gault [C-G]) is 50 mg per day.
-The maximum recommended dose in patients with severe renal impairment (24-hr CrCl less than 30 mL/min, C-G) or end-stage renal disease (ESRD) is 50 mg every other day.
+The maximum recommended dose in patients with severe renal impairment (24-hr CrCl less than 30 mL/min, C-G) or end-stage renal disease (ESRD) is 25 mg every day or 50 mg every other day.
 Supplemental doses should not be given to patients after dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Patients with hepatic impairment
@@ -37,6 +39,7 @@ Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.
+The 25 mg dose is available for discontinuing therapy.
 
 ## 2.5 Switching Patients From Other Antidepressants to PRISTIQ
 

@@ -113,3 +113,17 @@ Pristiq® (desvenlafaxine) Extended-Release Tablets
 Unit of Use 30 Tablets
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-1210-30
+
+Pristiq® (desvenlafaxine) Extended-Release Tablets
+
+25 mg*
+
+Unit of Use 30 Tablets
+
+Rx only

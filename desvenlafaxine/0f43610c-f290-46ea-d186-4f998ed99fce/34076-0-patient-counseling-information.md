@@ -43,7 +43,7 @@ Advise patients, their families and caregivers to observe for signs of activatio
 Discontinuation
 
 Advise patients not to stop taking PRISTIQ without talking first with their healthcare professional.
-Patients should be aware that discontinuation effects may occur when stopping PRISTIQ [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Patients should be aware that discontinuation effects may occur when stopping PRISTIQ, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Switching Patients From Other Antidepressants to PRISTIQ
 

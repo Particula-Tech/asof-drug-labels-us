@@ -13,7 +13,9 @@ Its octanol:aqueous system (at pH 7.0) partition coefficient is 0.21.
 
 PRISTIQ is formulated as an extended-release tablet for once-a-day oral administration.
 
-Each tablet contains 76 or 152 mg of desvenlafaxine succinate equivalent to 50 or 100 mg of desvenlafaxine, respectively.
+Each tablet contains 38 mg, 76 mg or 152 mg of desvenlafaxine succinate equivalent to 25 mg, 50 mg or 100 mg of desvenlafaxine, respectively.
+
+Inactive ingredients for the 25 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate, a film coating which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
 
 Inactive ingredients for the 50 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
 
