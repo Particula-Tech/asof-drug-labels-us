@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Metronidazole Tablets USP, 250 mg 100s Label Text
 
@@ -12,7 +12,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Metronidazole Tablets USP, 500 mg 100s Label Text
 

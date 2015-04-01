@@ -26,7 +26,7 @@ Hepatic Impairment
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
 For patients with severe hepatic impairment (Child-Pugh C), a reduced dose of metronidazole is recommended.
-For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for metronidazole associated adverse events (see CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION).
+For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for metronidazole associated adverse events (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 Renal Impairment
 
@@ -145,7 +145,7 @@ Alternatively, a nursing mother may choose to pump and discard human milk for th
 
 ## Geriatric Use
 
-In elderly geriatric patients, monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGYandPRECAUTIONS).
+In elderly geriatric patients, monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 Decreased liver function in geriatric patients can result in increased concentrations of metronidazole that may necessitate adjustment of metronidazole dosage (see DOSAGE AND ADMINISTRATION).
 
 ## Pediatric Use

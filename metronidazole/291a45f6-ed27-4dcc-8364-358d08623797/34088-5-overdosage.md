@@ -8,6 +8,4 @@ Neurotoxic effects, including seizures and peripheral neuropathy, have been repo
 
 ## Treatment of Overdosage
 
-There is no specific antidote for metronidazole overdose; therefore, management
-
-of the patient should consist of symptomatic and supportive therapy.
+There is no specific antidote for metronidazole overdose; therefore, management of the patient should consist of symptomatic and supportive therapy.

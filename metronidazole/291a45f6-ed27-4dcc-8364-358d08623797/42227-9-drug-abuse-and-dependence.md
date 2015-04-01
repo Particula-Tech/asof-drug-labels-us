@@ -58,7 +58,7 @@ Dosage Adjustments
 
 Patients With Severe Hepatic Impairment
 
-For patients with severe hepatic impairment (Child-Pugh C), the dose of metronidazole tablets should be reduced by 50% (see CLINICAL PHARMACOLOGYandPRECAUTIONS).
+For patients with severe hepatic impairment (Child-Pugh C), the dose of metronidazole tablets should be reduced by 50% (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
 Patients Undergoing Hemodialysis:
 

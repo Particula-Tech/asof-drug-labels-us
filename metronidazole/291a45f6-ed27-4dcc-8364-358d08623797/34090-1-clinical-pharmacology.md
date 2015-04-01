@@ -46,7 +46,7 @@ Following a single intravenous infusion of 500 mg metronidazole, the mean AUC24 
 There were no significant changes in the AUC24 of hydroxyl-metronidazole in these hepatically impaired patients.
 A reduction in metronidazole dosage by 50% is recommended in patients with severe (Child-Pugh C) hepatic impairment (see DOSAGE AND ADMINISTRATION).
 No dosage adjustment is needed for patients with mild to moderate hepatic impairment.
-Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events (see PRECAUTIONSand DOSAGE AND ADMINISTRATION).
 
 Geriatric Patients
 

@@ -30,11 +30,11 @@ Metronidazole Tablets USP are indicated in the treatment of serious infections c
 Indicated surgical procedures should be performed in conjunction with metronidazole tablets USP therapy.
 In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to metronidazole tablets USP.
 
-INTRA-ABDOMINAL INFECTIONS, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis,B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Clostridium species, Eubacterium species, Peptococcus species, and Peptostreptococcus species.
+INTRA-ABDOMINAL INFECTIONS, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Clostridium species, Eubacterium species, Peptococcus species, and Peptostreptococcus species.
 
 SKIN AND SKIN STRUCTURE INFECTIONS caused by Bacteroides species including the B. fragilis group, Clostridium species, Peptococcus species, Peptostreptococcus species, and Fusobacterium species.
 
-GYNECOLOGIC INFECTIONS, including endometritis, endomyometritis, tubo-ovarian abscess, and postsurgical vaginal cuff infection, caused by Bacteroides species including the B.fragilis group, Clostridium species, Peptococcus species, Peptostreptococcus species, and Fusobacterium species.
+GYNECOLOGIC INFECTIONS, including endometritis, endomyometritis, tubo-ovarian abscess, and postsurgical vaginal cuff infection, caused by Bacteroides species including the B. fragilis group, Clostridium species, Peptococcus species, Peptostreptococcus species, and Fusobacterium species.
 
 BACTERIAL SEPTICEMIA caused by Bacteroides species including the B. fragilis group and Clostridium species.
 
