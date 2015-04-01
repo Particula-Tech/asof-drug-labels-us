@@ -2,20 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D for epilepsy and for manic episodes associated with bipolar disorder [see WARNINGS AND PRECAUTIONS (5.2 and 5.3)].
+Pregnancy Category D for epilepsy and for manic episodes associated with bipolar disorder [see WARNINGS AND PRECAUTIONS (5.2, 5.3)].
 
 Pregnancy Category X for prophylaxis of migraine headaches [see CONTRAINDICATIONS (4)]
 
 Pregnancy Registry
 
-To collect information on the effects of in utero exposure to divalproex sodium delayed-release tablets, physicians should encourage pregnant patients taking divalproex sodium delayed-release tablets to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To collect information on the effects of in utero exposure to divalproex sodium, physicians should encourage pregnant patients taking divalproex sodium delayed-release tablets to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling toll free 1-888-233-2334, and must be done by the patients themselves.
 Information on the registry can be found at the website, http://www.aedpregnancyregistry.org.
 
 Fetal Risk Summary
 
 All pregnancies have a background risk of birth defects (about 3%), pregnancy loss (about 15%), or other adverse outcomes regardless of drug exposure.
-Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects, but also malformations involving other body systems (e.g., craniofacial defects, cardiovascular malformations).
+Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects, but also malformations involving other body systems (e.g., craniofacial defects, cardiovascular malformations, hypospadias, limb malformations).
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see WARNINGS AND PRECAUTIONS (5.3)].
 
@@ -56,12 +56,14 @@ However, discontinuation of the drug may be considered prior to and during pregn
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
 Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
 
-• Patients taking valproate may develop clotting abnormalities [see WARNINGS AND PRECAUTIONS (5.8)].
-A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
-If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
+• Pregnant women taking valproate may develop clotting abnormalities including thrombocytopenia, hypofibrinogenemia, and/or decrease in other coagulation factors, which may result in hemorrhagic complications in the neonate including death [see WARNINGS AND PRECAUTIONS (5.8)].
+If valproate is used in pregnancy, the clotting parameters should be monitored carefully in the mother.
+If abnormal in the mother, then these parameters should also be monitored in the neonate.
 
 • Patients taking valproate may develop hepatic failure [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 Fatal cases of hepatic failure in infants exposed to valproate in utero have also been reported following maternal use of valproate during pregnancy.
+
+• Hypoglycemia has been reported in neonates whose mothers have taken valproate during pregnancy.
 
 Data
 
@@ -71,12 +73,9 @@ There is an extensive body of evidence demonstrating that exposure to valproate 
 Based on published data from the CDC's National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
 The risk of spina bifida following in utero valproate exposure has been estimated to be approximately 1 to 2%.
 
-In one study using NAAED Pregnancy Registry data, 16 cases of major malformations following prenatal valproate exposure were reported among offspring of 149 enrolled women who used valproate during pregnancy.
-Three of the 16 cases were neural tube defects; the remaining cases included craniofacial defects, cardiovascular malformations and malformations of varying severity involving other body systems.
-The NAAED Pregnancy Registry has reported a major malformation rate of 10.7% (95% C.I.
-6.3% to 16.9%) in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy (dose range 500-2,000 mg/day).
-The major malformation rate among the internal comparison group of 1,048 epileptic women who received any other antiepileptic drug monotherapy during pregnancy was 2.9% (95% CI 2.0% to 4.1%).
-These data show a four-fold increased risk for any major malformation (Odds Ratio 4.0; 95% CI 2.1 to 7.4) following valproate exposure in utero compared to the risk following exposure in utero to any other antiepileptic drug monotherapy.
+The NAAED Pregnancy Registry has reported a major malformation rate of 9 to 11% in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy.
+These data show up to a five-fold increased risk for any major malformation following valproate exposure in utero compared to the risk following exposure in utero to other antiepileptic drugs taken in monotherapy.
+The major congenital malformations included cases of neural tube defects, cardiovascular malformations, craniofacial defects (e.g., oral clefts, craniosynostosis), hypospadias, limb malformations (e.g., clubfoot, polydactyly), and malformations of varying severity involving other body systems.
 
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero.
 The largest of these studies is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.

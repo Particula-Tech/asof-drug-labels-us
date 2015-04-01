@@ -32,4 +32,4 @@ Box containing 10 x 10's unit dose tablets NDC 68180-267-13
 
 Recommended storage
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

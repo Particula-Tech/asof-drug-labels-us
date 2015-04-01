@@ -2,7 +2,7 @@
 
 ## 7.1 Effects of Co-Administered Drugs on Valproate Clearance
 
-Drugs that affect the level of expression of hepatic enzymes, particularly those that elevate levels of glucuronosyltransferases, may increase the clearance of valproate.
+Drugs that affect the level of expression of hepatic enzymes, particularly those that elevate levels of glucuronosyltransferases (such as ritonavir), may increase the clearance of valproate.
 For example, phenytoin, carbamazepine, and phenobarbital (or primidone) can double the clearance of valproate.
 Thus, patients on monotherapy will generally have longer half-lives and higher concentrations than patients receiving polytherapy with antiepilepsy drugs.
 

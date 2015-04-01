@@ -26,6 +26,6 @@ There is no evidence that divalproex sodium delayed-release tablet USP is useful
 
 ## 1.4 Important Limitations
 
-Because of the risk to the fetus of decreased IQ, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.4), USE IN SPECIFIC POPULATIONS (8.1), and PATIENT COUNSELING INFORMATION (17.3)].
+Because of the risk to the fetus of decreased IQ, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.4), USE IN SPECIFIC POPULATIONS (8.1), and PATIENT COUNSELING INFORMATION (17)].
 
 Divalproex sodium delayed-release tablets USP are contraindicated for prophylaxis of migraine headaches in women who are pregnant.

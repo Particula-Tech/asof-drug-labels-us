@@ -87,6 +87,8 @@ Thus, in a display of this type, the curve for an effective treatment is shifted
 This Figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for valproate than for placebo.
 For example, 45% of patients treated with valproate had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
 
+Figure 2
+
 The second study assessed the capacity of valproate to reduce the incidence of CPS when administered as the sole AED.
 The study compared the incidence of CPS among patients randomized to either a high or low dose treatment arm.
 Patients qualified for entry into the randomized comparison phase of this study only if 1) they continued to experience 2 or more CPS per 4 weeks during an 8 to 12 week long period of monotherapy with adequate doses of an AED (i.e., phenytoin, carbamazepine, phenobarbital, or primidone) and 2) they made a successful transition over a two week interval to valproate.
@@ -109,6 +111,8 @@ A positive percent reduction indicates an improvement (i.e., a decrease in seizu
 Thus, in a display of this type, the curve for a more effective treatment is shifted to the left of the curve for a less effective treatment.
 This Figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose valproate than for low dose valproate.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose valproate monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose valproate.
+
+Figure 3
 
 ## 14.3 Migraine
 

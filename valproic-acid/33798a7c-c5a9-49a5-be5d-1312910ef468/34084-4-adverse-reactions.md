@@ -1,19 +1,19 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
-
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
 - Hepatic failure[see WARNINGS AND PRECAUTIONS (5.1)]
 - Birth defects[see WARNINGS AND PRECAUTIONS (5.2)]
-- Decreased IQ following in utero exposure[see WARNINGS AND PRECAUTIONS (5.3)]
+- Decreased IQ followingin utero exposure[see WARNINGS AND PRECAUTIONS (5.3)]
 - Pancreatitis[see WARNINGS AND PRECAUTIONS (5.5)]
 - Hyperammonemic encephalopathy[see WARNINGS AND PRECAUTIONS (5.6), (5.9), (5.10)]
 - Suicidal behavior and ideation[see WARNINGS AND PRECAUTIONS(5.7)]
-- Thrombocytopenia[seeWARNINGS AND PRECAUTIONS(5.8)]
-- Hypothermia[seeWARNINGS AND PRECAUTIONS(5.11)]
-- Multi-organ hypersensitivity reactions[seeWARNINGS AND PRECAUTIONS(5.12)]
-- Somnolence in the elderly[seeWARNINGS AND PRECAUTIONS(5.14)]
+- Bleeding and other hematopoietic disorders[see WARNINGS AND PRECAUTIONS(5.8)]
+- Hypothermia[see WARNINGS AND PRECAUTIONS(5.11)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions[see WARNINGS AND PRECAUTIONS(5.12)]
+- Somnolence in the elderly[see WARNINGS AND PRECAUTIONS(5.14)]
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 ## 6.1 Mania
 
@@ -310,7 +310,7 @@ Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-J
 
 Psychiatric
 
-Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
+Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
 Neurologic
 
@@ -322,11 +322,13 @@ Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weaknes
 
 Hematologic
 
-Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leucopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
+Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Endocrine
 
 Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
+
+There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
 Genitourinary
 

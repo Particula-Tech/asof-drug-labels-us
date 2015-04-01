@@ -38,11 +38,10 @@ Call your healthcare provider right away if you get any of the following symptom
 2.
 Divalproex sodium delayed-release tablets may harm your unborn baby.
 
-If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your baby is at risk for serious birth defects.
-The most common birth defects with divalproex sodium delayed-release tablets affect the brain and spinal cord and are called spina bifida or neural tube defects.
+If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
 These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
 These defects can begin in the first month, even before you know you are pregnant.
-Other birth defects can happen.
+Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
 
 Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
 
@@ -52,10 +51,10 @@ If you take divalproex sodium delayed-release tablets during pregnancy for any m
 
 There may be other medicines to treat your condition that have a lower chance of causing birth defects and decreased IQ in your child.
 
-- Women who are pregnant must not take divalproex sodium or Depakene® to prevent migraine headaches.
+- Women who are pregnant must not take divalproex sodium delayed-release tablets to prevent migraine headaches.
 
-All women of childbearing age should talk to their healthcare provider about using other possible treatments instead of divalproex sodium delayed-release tablets.
-If the decision is made to use divalproex sodium delayed-release tablets, you should use effective birth control (contraception).
+All women of childbearing age should talk to their healthcare provider about using other possible treatments instead ofdivalproex sodium delayed-release tablets.
+If the decision is made to usedivalproex sodium delayed-release tablets, you should use effective birth control (contraception).
 
 Tell your healthcare provider right away if you become pregnant while taking divalproex sodium delayed-release tablets.
 You and your healthcare provider should decide if you will continue to take divalproex sodium delayed-release tablets while you are pregnant.
@@ -159,11 +158,11 @@ How should I take divalproex sodium delayed-release tablets?
   Your healthcare provider will tell you how much divalproex sodium delayed-release tablets to take and when to take it.
 - Your healthcare provider may change your dose.
 - Do not change your dose of divalproex sodium delayed-release tablets without talking to your healthcare provider.
-- Do not stop taking divalproex sodium delayed-release tablets without first talking to your healthcare provider.
+- Do not stop takingdivalproex sodium delayed-release tablets without first talking to your healthcare provider.
   Stopping divalproex sodium delayed-release tablets suddenly can cause serious problems.
 - Swallow divalproex sodium delayed-release tablets whole.
   Do not crush or chew divalproex sodium delayed-release tablets.
-  Tell your healthcare provider if you can not swallow divalproex sodium delayed-release tablets whole.
+  Tell your healthcare provider if you cannot swallow divalproex sodium delayed-release tablets whole.
   You may need a different medicine.
 - If you take too much divalproex sodium delayed-release tablets, call your healthcare provider or local Poison Control Center right away.
 
@@ -182,7 +181,7 @@ What are the possible side effects with divalproex sodium delayed-release tablet
 
 Divalproex sodium delayed-release tablets can cause serious side effects including:
 
-- Low blood count: red or purple spots on your skin, bruising, bleeding from your mouth, teeth or nose.
+- Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
 - Low body temperature (hypothermia): drop in your body temperature to less than 950F, feeling tired, confusion, coma.
 - Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
@@ -222,7 +221,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store divalproex sodium delayed-release tablets?
 
-- Store divalproex sodium delayed-release tablets between 59°F to 86°F (15°C to 30°C).
+- Store divalproex sodium delayed-release tablets between 59° to 86°F (15° to 30°C).
 
 Keep divalproex sodium delayed-release tablets and all medicines out of the reach of children.
 
@@ -241,13 +240,11 @@ For more information, go to www.lupinpharmaceuticals.com or call 1-800-399-2561.
 
 What are the ingredients in divalproex sodium delayed-release tablets?
 
-Divalproex sodium delayed-release tablets:
-
 Active ingredient: divalproex sodium
 
 Inactive ingredients:
 
-Divalproex sodium delayed-release tablets: colloidal silicon dioxide, D&C Red No. 30, FD&C Blue No. 2, hydroxylpropyl cellulose, hypromellose, hypromellose phthalate, iron oxide black, iron oxide yellow, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, pregelatinised starch, propylene glycol, shellac, talc, titanium dioxide and triethyl citrate.
+Colloidal silicon dioxide, D&C Red No. 30, FD&C Blue No. 2, hydroxylpropyl cellulose, hypromellose, hypromellose phthalate, iron oxide black, iron oxide yellow, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, pregelatinised starch, propylene glycol, shellac, talc, titanium dioxide and triethyl citrate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -269,4 +266,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: February 2015 ID #240255
+Revised: April 2015 ID#: 240635
