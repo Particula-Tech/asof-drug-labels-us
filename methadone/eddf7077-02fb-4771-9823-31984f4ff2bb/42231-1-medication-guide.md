@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Methadone Hydrochloride Tablets USP, CII
+Methadone Hydrochloride Tablets USP, CII (METH a done HYE droe KLOR ide)
 
 Methadone hydrochloride tablets are:
 
@@ -38,7 +38,7 @@ Tell your healthcare provider if you are:
 - pregnant or planning to become pregnant.
   Prolonged use of methadone hydrochloride tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  Methadone hydrochloride passes into breast milk and may harm your baby.
+  Methadone passes into breast milk and may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking methadone hydrochloride tablets with certain other medicines may cause serious side effects.
 
@@ -80,8 +80,12 @@ For more information go to dailymed.nlm.nih.gov
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-is a trademark of Mallinckrodt LLC.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
+
+© 2014 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Issued 04/2014 Mallinckrodt
+Issued 10/2014
+
+Mallinckrodt™ Pharmaceuticals
