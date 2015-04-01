@@ -25,8 +25,7 @@ Observe human milk-fed infants for sedation and somnolence.
 ## 8.4 Pediatric Use
 
 Safety and efficacy of INTUNIV® in pediatric patients less than 6 years of age have not been established.
-The efficacy of INTUNIV® was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration) and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6-17 who met DSM-IV® criteria for ADHD.
-The effectiveness of INTUNIV® for longer-term use (beyond 15 weeks) has not been systematically evaluated in controlled trials [see Adverse Reactions (6) and Clinical Studies (14)].
+The efficacy of INTUNIV® was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6-17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
 
 Animal Data
 

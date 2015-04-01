@@ -4,6 +4,7 @@ Efficacy of INTUNIV® in the treatment of ADHD was established in children and a
 
 - Five short-term, placebo-controlled monotherapy trials (Studies 1, 2, 4, 5, and 6)
 - One short-term, placebo-controlled adjunctive trial with psychostimulants (Study 3).
+- One long-term, placebo-controlled monotherapy maintenance trial (Study 7).
 
 Studies 1 and 2: Fixed-dose INTUNIV® Monotherapy
 
@@ -22,8 +23,6 @@ Placebo-adjusted changes from baseline were statistically significant for each o
 Dose-responsive efficacy was evident, particularly when data were examined on a weight-adjusted (mg/kg) basis.
 When evaluated over the dose range of 0.01-0.17 mg/kg/day, clinically relevant improvements were observed beginning at doses in the range 0.05-0.08 mg/kg/day.
 Doses up to 0.12 mg/kg/day were shown to provide additional benefit.
-
-Controlled, monotherapy long-term efficacy studies (>15 weeks) have not been conducted.
 
 In the monotherapy trials (Studies 1 and 2), subgroup analyses were performed to identify any differences in response based on gender or age (6-12 vs. 13-17).
 Analyses of the primary outcome did not suggest any differential responsiveness on the basis of gender.
@@ -97,3 +96,17 @@ Table 17: Flexible-Dose studies
 | Study 6 (6—17 years) | INTUNIV® 1—7 mg | 43.1 (5.47) | -23.89 (1.15) | -8.88 (-11.94, -5.81) |
 | Placebo | 43.2 (5.60) | -15.01 (1.16) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
+
+Study 7: Long-Term Maintenance of INTUNIV® Efficacy
+
+Study 7 (315 study) was a double-blind, placebo-controlled, randomized withdrawal trial in pediatric patients aged 6 to 17 years with DSM-IV-TR diagnosis of ADHD.
+The study consisted of an open-label phase, including a 7-week dose optimization period to titrate patients to an optimal dose (maximum 4 mg/day for children and 7 mg/day for adolescents; optimized dose range: 0.05 to 0.12 mg/kg/day) and a 6-week dose maintenance period.
+There were 526 patients included in the open-label phase.
+Among those, 315 patients who met response criteria in the open-label phase were then randomized (1:1, INTUNIV:placebo) in a 26-week, double-blind, randomized withdrawal phase.
+The response criteria were defined by ≥ 30% reduction in ADHD-RS-IV total score and a Clinical Global Impression-Improvement (CGI-I) score of 1 or 2 during the open-label phase.
+A statistically significantly lower proportion of treatment failures occurred among INTUNIV patients compared to placebo at the end of the randomized withdrawal period (Figure 4).
+Treatment failure was defined as a ≥ 50% increase (worsening) in ADHD-RS-IV total score and a ≥ 2-point increase in Clinical Global Impression-Severity (CGI-S) score.
+Patients who met the treatment failure criteria on two consecutive visits or discontinued for any reason were classified as treatment failure.
+
+Figure 4.
+Kaplan-Meier Estimation of Proportion of Patients with Treatment Failure for Children and Adolescents Ages 6-17 (Study 7)

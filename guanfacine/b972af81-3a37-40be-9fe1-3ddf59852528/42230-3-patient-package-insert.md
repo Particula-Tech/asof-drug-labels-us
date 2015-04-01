@@ -114,7 +114,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store INTUNIV®?
 
-- Store INTUNIV® between 59°F to 86°F (15°C to 30°C)
+- Store INTUNIV® between 68°F to 77°F (20°C to 25°C)
 
 Keep INTUNIV® and all medicines out of the reach of children.
 
@@ -144,8 +144,8 @@ Manufactured for Shire US Inc., Wayne, PA 19087.
 
 INTUNIV® is a registered trademark of Shire LLC.
 
-Revised: 11/2014
+Revised: 03/2015
 
-© 2014 Shire US Inc.
+© 2015 Shire US Inc.
 
 This product is covered by US patents including 6,287,599; 6,811,794.

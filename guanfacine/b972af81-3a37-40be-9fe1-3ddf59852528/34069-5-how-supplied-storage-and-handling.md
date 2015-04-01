@@ -9,5 +9,5 @@ INTUNIV® is supplied in 1 mg, 2 mg, 3 mg, and 4 mg strength extended-release ta
 | Debossment (top/bottom) | 503 / 1mg | 503 / 2mg | 503 / 3mg | 503 / 4mg |
 | NDC number | 54092-513-02 | 54092-515-02 | 54092-517-02 | 54092-519-02 |
 
-Storage - Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Storage - Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 See USP Controlled Room Temperature.

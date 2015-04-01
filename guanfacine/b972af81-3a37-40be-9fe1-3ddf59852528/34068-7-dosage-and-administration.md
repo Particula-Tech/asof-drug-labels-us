@@ -12,8 +12,7 @@ Take INTUNIV orally once daily, either in the morning or evening, at approximate
 Begin at a dose of 1 mg/day, and adjust in increments of no more than 1 mg/week.
 
 In monotherapy clinical trials, there was dose- and exposure-related clinical improvement as well as risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events).
-To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for INTUNIV® is 0.05-0.12 mg/kg/day (total daily dose between 1-7 mg.
-(See Table 1).
+To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for INTUNIV® is 0.05-0.12 mg/kg/day (total daily dose between 1-7 mg) (See Table 1).
 
 Table 1: Recommended Target Dose Range for Therapy with INTUNIV®
 
@@ -30,8 +29,6 @@ Table 1: Recommended Target Dose Range for Therapy with INTUNIV®
 In the adjunctive trial which evaluated INTUNIV® treatment with psychostimulants, the majority of patients reached optimal doses in the 0.05-0.12 mg/kg/day range.
 Doses above 4 mg/day have not been studied in adjunctive trials.
 
-Periodically re-evaluate the long-term usefulness of the drug for the individual patient.
-
 ## 2.3 Switching from Immediate-Release Guanfacine to INTUNIV®
 
 If switching from immediate-release guanfacine, discontinue that treatment, and titrate with INTUNIV® following above recommended schedule.
@@ -39,15 +36,25 @@ If switching from immediate-release guanfacine, discontinue that treatment, and 
 Do not substitute for immediate-release guanfacine tablets on a milligram-per-milligram basis, because of differing pharmacokinetic profiles.
 INTUNIV® has significantly reduced Cmax (60% lower), bioavailability (43% lower), and a delayed Tmax (3 hours later) compared to those of the same dose of immediate-release guanfacine [see Clinical Pharmacology (12.3)].
 
-## 2.4 Discontinuation
+## 2.4 Maintenance Treatment
 
-When discontinuing INTUNIV, taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to avoid rebound hypertension.
+Pharmacological treatment of ADHD may be needed for extended periods.
+Healthcare providers should periodically re-evaluate the long-term use of INTUNIV®, and adjust weight-based dosage as needed.
+The majority of children and adolescents reach optimal doses in the 0.05-0.12 mg/kg/day range.
+Doses above 4 mg/day have not been evaluated in children (ages 6-12 years) and above 7 mg/day have not been evaluated in adolescents (ages 13-17 years) [see Clinical Studies (14)].
 
-## 2.5 Missed Doses
+## 2.5 Discontinuation of Treatment
+
+Following discontinuation of INTUNIV®, patients may experience increases in blood pressure and heart rate [see Adverse Reaction (6.1)].
+Patients/caregivers should be instructed not to discontinue INTUNIV® without consulting their health care provider.
+Monitor blood pressure and pulse when reducing the dose or discontinuing the drug.
+Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to avoid rebound hypertension.
+
+## 2.6 Missed Doses
 
 When reinitiating patients to the previous maintenance dose after two or more missed consecutive doses, consider titration based on patient tolerability.
 
-## 2.6 Dosage Adjustment with Concomitant Use of Strong CYP3A4 Inhibitors or Inducers
+## 2.7 Dosage Adjustment with Concomitant Use of Strong CYP3A4 Inhibitors or Inducers
 
 Dosage adjustments for INTUNIV® are recommended with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole), or CYP3A4 inducers (e.g., carbamazepine) (Table 2) [see Drug Interactions (7)].
 

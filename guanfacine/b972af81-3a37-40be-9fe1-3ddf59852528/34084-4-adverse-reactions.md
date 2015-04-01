@@ -10,8 +10,8 @@ The following serious adverse reactions are described elsewhere in the labelling
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect clinical trial exposure to INTUNIV® in 2,299 patients.
-This includes 1,804 patients from completed studies in children and adolescents, ages 6 to 17 years and 495 patients in completed studies in adult healthy volunteers.
+The data described below reflect clinical trial exposure to INTUNIV® in 2,825 patients.
+This includes 2,330 patients from completed studies in children and adolescents, ages 6 to 17 years and 495 patients in completed studies in adult healthy volunteers.
 
 The mean duration of exposure of 446 patients that previously participated in two 2-year, open-label long-term studies was approximately 10 months.
 
@@ -179,6 +179,12 @@ In long-term, open label studies, (mean exposure of approximately 10 months), ma
 Decreases were less pronounced over time.
 Syncope occurred in 1% of pediatric patients in the clinical program.
 The majority of these cases occurred in the long-term, open-label studies.
+
+Discontinuation of Treatment
+
+In a maintenance of efficacy study in children and adolescents [see Clinical Studies (14)], increases in mean systolic and diastolic blood pressure, of approximately 3 mmHg and 1 mmHg respectively, above original baseline were observed upon discontinuation of INTUNIV®.
+The increases in blood pressure were observed in some individuals at the end of the follow up period which ranged between 3 and 26 weeks post final dose.
+Mean increases in pulse of approximately 1.5 bpm were observed at approximately 2 weeks after the last dose of INTUNIV® and then decreased to baseline 4 weeks later.
 
 Effects on Height, Weight, and Body Mass Index (BMI)
 

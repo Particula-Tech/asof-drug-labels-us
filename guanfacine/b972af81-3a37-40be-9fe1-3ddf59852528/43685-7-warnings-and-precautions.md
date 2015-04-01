@@ -20,5 +20,5 @@ Advise patients to avoid use with alcohol.
 
 ## 5.3 Cardiac Conduction Abnormalities
 
-The sympatholytic action of guanfacine may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
+The sympatholytic action of INTUNIV® may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
 Titrate INTUNIV slowly and monitor vital signs frequently in patients with cardiac conduction abnormalities or patients concomitantly treated with other sympatholytic drugs.
