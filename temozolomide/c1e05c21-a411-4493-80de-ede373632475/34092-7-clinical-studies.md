@@ -8,7 +8,7 @@ This was followed by 6 cycles of temozolomide alone (150 or 200 mg/m2) on Days 1
 Patients in the control arm received RT only.
 In both arms, focal radiation therapy was delivered as 60 Gy/30 fractions.
 Focal RT includes the tumor bed or resection site with a 2- to 3-cm margin.
-Pneumocystis carinii pneumonia (PCP) prophylaxis was required during the TMZ + RT, regardless of lymphocyte count, and was to continue until recovery of lymphocyte count to less than or equal to Grade 1.
+Pneumocystis pneumonia (PCP) prophylaxis was required during the TMZ + RT, regardless of lymphocyte count, and was to continue until recovery of lymphocyte count to less than or equal to Grade 1.
 At the time of disease progression, temozolomide was administered as salvage therapy in 161 patients of the 282 (57%) in the RT alone arm, and 62 patients of the 277 (22%) in the temozolomide +RT arm.
 The addition of concomitant and maintenance temozolomide to radiotherapy in the treatment of patients with newly diagnosed GBM showed a statistically significant improvement in overall survival compared to radiotherapy alone (Figure 1).
 The hazard ratio (HR) for overall survival was 0.63 (95% CI for HR=0.52 to 0.75) with a log-rank P<0.0001 in favor of the temozolomide arm.
@@ -27,7 +27,7 @@ Of those patients undergoing resection, 73% underwent a subtotal resection and 2
 Eighteen percent of patients had surgery at the time of first relapse.
 The median time from initial diagnosis to first relapse was 13.8 months (4.2 to 75.4).
 Temozolomide capsules were given for the first 5 consecutive days of a 28-day cycle at a starting dose of 150 mg/m2/day.
-If the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil count was ≥1.5 × 109/L (1500/µL) and the nadir and Day 29, Day 1 of next cycle platelet count was ≥100 × 109/L (100,000/µL), the temozolomide dose was increased to 200 mg/m2/day for the first 5 consecutive days of a 28-day cycle.
+If the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil count was greater than or equal to 1.5 × 109/L (1500/µL) and the nadir and Day 29, Day 1 of next cycle platelet count was greater than or equal to 100 × 109/L (100,000/µL), the temozolomide dose was increased to 200 mg/m2/day for the first 5 consecutive days of a 28-day cycle.
 In the refractory anaplastic astrocytoma population, the overall tumor response rate (CR + PR) was 22% (12/54 patients) and the complete response rate was 9% (5/54 patients).
 The median duration of all responses was 50 weeks (range: 16 to 114 weeks) and the median duration of complete responses was 64 weeks (range:52 to 114 weeks).
 In this population, progression-free survival at 6 months was 45% (95% CI: 31% to 58%) and progression-free survival at 12 months was 29% (95% CI: 16% to 42%).

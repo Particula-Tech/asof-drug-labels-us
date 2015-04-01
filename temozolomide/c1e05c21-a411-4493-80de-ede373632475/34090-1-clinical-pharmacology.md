@@ -32,7 +32,7 @@ The pharmacokinetics of temozolomide have not been studied in patients with seve
 Caution should be exercised when temozolomide is administered to patients with severe renal impairment [see Use in Specific Populations (8.6)].
 Temozolomide has not been studied in patients on dialysis.
 Effect of Hepatic Impairment: A study showed that the pharmacokinetics of temozolomide in patients with mild-to-moderate hepatic impairment (Child-Pugh Class I – II) were similar to those observed in patients with normal hepatic function.
-Caution should be exercised when temozolomide is administered to patients with severe hepatic impairment [see Use in SpecificPopulations (8.7)].
+Caution should be exercised when temozolomide is administered to patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 Effect of Other Drugs on Temozolomide Pharmacokinetics: In a multiple-dose study, administration of temozolomide capsules with ranitidine did not change the Cmax or AUC values for temozolomide or MTIC.
 A population analysis indicated that administration of valproic acid decreases the clearance of temozolomide by about 5% [see Drug Interactions (7.1)].
 A population analysis did not demonstrate any influence of coadministered dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2-receptor antagonists, or phenobarbital on the clearance of orally administered temozolomide.

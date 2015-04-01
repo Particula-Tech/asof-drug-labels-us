@@ -141,7 +141,7 @@ Your doctor will check your blood regularly while you are taking temozolomide ca
 Your doctor may need to change the dose of temozolomide capsules or when you get it depending on your blood cell counts.
 People who are age 70 or older and women may be more likely to have their blood cells affected.
 
-- Pneumocystis carinii Pneumonia (PCP).
+- Pneumocystis pneumonia (PCP).
   PCP is an infection that people can get when their immune system is weak.
   Temozolomide capsules decrease white blood cells, which makes your immune system weaker and can increase your risk of getting PCP.
   All patients taking temozolomide capsules will be watched carefully by their doctor for this infection, especially patients who take steroids.
@@ -151,6 +151,7 @@ People who are age 70 or older and women may be more likely to have their blood 
   Your doctor will watch you for this.
 - Convulsions.
   Convulsions may be severe or life-threatening in people who take temozolomide capsules.
+- Liver side effects have been reported, which very rarely included death.
 
 Common side effects with temozolomide capsules include:
 
@@ -298,13 +299,13 @@ TABLE 3: Temozolomide Dose Levels for Maintenance Treatment
 | --- | --- | --- |
 | –1 | 100 | Reduction for prior toxicity |
 | 0 | 150 | Dose during Cycle 1 |
-| 1 | 200 | Dose during Cycles 2-6 in absence of toxicity |
+| 1 | 200 | Dose during Cycles 2 to 6 in absence of toxicity |
 
 TABLE 4: Temozolomide Dose Reduction or Discontinuation During Maintenance Treatment
 
 | Toxicity | Reduce TMZ by 1 Dose LevelTMZ dose levels are listed in Table 3. | Discontinue TMZ |
 | --- | --- | --- |
-| Absolute Neutrophil Count | less than 1.0 x 109/L | See footnoteTMZ is to be discontinued if dose reduction to less than 100 mg/m2 is required or if the same Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction |
+| Absolute Neutrophil Count | less than 1 x 109/L | See footnoteTMZ is to be discontinued if dose reduction to less than 100 mg/m2 is required or if the same Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction |
 | Platelet Count | less than 50 x 109/L | See footnote |
 | CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4 |
 
@@ -370,9 +371,9 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 100 mg capsules (5 count) | 47335-892-80 |
 | 100 mg capsules (14 count) | 47335-892-21 |
 | 100 mg capsules (20 count) | 47335-892-87 |
-| 140 mg capsules (5 count) | 47335-829-80 |
-| 140 mg capsules (14 count) | 47335-829-21 |
-| 140 mg capsules (20 count) | 47335-829-87 |
+| 140 mg capsules (5 count) | 47335-929-80 |
+| 140 mg capsules (14 count) | 47335-929-21 |
+| 140 mg capsules (20 count) | 47335-929-87 |
 | 180 mg capsules (5 count) | 47335-930-80 |
 | 180 mg capsules (14 count) | 47335-930-21 |
 | 180 mg capsules (20 count) | 47335-930-87 |
@@ -381,7 +382,5 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 250 mg capsules (20 count) | 47335-893-87 |
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
-Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202 Manufactured by: Sun Pharmaceutical Ind.
-Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
-ISS.
-01/2014 PJPI0288B
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 ISS.
+10/2014 PJPI0288C

@@ -57,7 +57,7 @@ TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Thre
 | Taste Perversion | 6 | (2) | 0 |  | 18 | (6) | 0 |  | 11 | (5) | 0 |  |
 
 RT+TMZ = radiotherapy plus temozolomide; NOS = not otherwise specified.
-Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
+Note:Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
 Myelosuppression (neutropenia and thrombocytopenia), which is a known dose-limiting toxicity for most cytotoxic agents, including temozolomide, was observed.
 When laboratory abnormalities and adverse reactions were combined, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8% of the patients, and Grade 3 or Grade 4 platelet abnormalities, including thrombocytopenic reactions, were observed in 14% of the patients treated with temozolomide.
 Refractory Anaplastic Astrocytoma: Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
@@ -71,14 +71,14 @@ Myelosuppression occurred late in the treatment cycle and returned to normal, on
 The median nadirs occurred at 26 days for platelets (range: 21 to 40 days) and 28 days for neutrophils (range: 1 to 44 days).
 Only 14% (22/158) of patients had a neutrophil nadir and 20% (32/158) of patients had a platelet nadir, which may have delayed the start of the next cycle.
 Less than 10% of patients required hospitalization, blood transfusion, or discontinuation of therapy due to myelosuppression.
-In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC<500 cells/µL) and thrombocytopenia (<20,000 cells/µL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
+In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC less than 500 cells/µL) and thrombocytopenia (less than 20,000 cells/µL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
 In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 9.5% (6/63) of patients over age 70 experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 For patients less than or equal to age 70, 7% (62/871) and 5.5% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 Pancytopenia, leukopenia, and anemia have also been reported.
 
 TABLE 8: Adverse Reactions in the Anaplastic Astrocytoma Trial in Adults (≥5%)
 
-|  | No. (%) of Temozolomide Patients (N=158) |  |
+|  | No. (%) of TemozolomidePatients (N=158) |  |
 | --- | --- | --- |
 |  | All Reactions | Grade 3/4 |
 | Any Adverse Reaction | 153 (97) | 79 (50) |
@@ -155,10 +155,12 @@ TABLE 9: Adverse Hematologic Effects (Grade 3 to 4) in the Anaplastic Astrocytom
 
 The following adverse reactions have been identified during postapproval use of temozolomide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug exposure.
-Temozolomide Capsules: allergic reactions, including anaphylaxis, have been reported.
-Erythema multiforme has been reported, which resolved after discontinuation of temozolomide and, in some cases, recurred upon rechallenge.
-Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported.
-There have been reported cases of hepatotoxicity, including elevations of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis.
-Opportunistic infections including Pneumocystis carinii pneumonia (PCP) have also been reported.
-Cases of interstitial pneumonitis/pneumonitis, alveolitis, and pulmonary fibrosis have been reported.
-Prolonged pancytopenia, which may result in aplastic anemia, has been reported, and in some cases has resulted in a fatal outcome.
+Dermatologic disorders: Toxic epidermal necrolysis and Stevens-Johnson syndrome Immune system disorders: Allergic reactions, including anaphylaxis.
+Erythema multiforme, which resolved after discontinuation of temozolomide and, in some cases, recurred upon rechallenge.
+
+Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic anemia and fatal outcomes [see Warnings and Precautions (5.1)].
+
+Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
+
+Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)].
+Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
