@@ -2,95 +2,79 @@
 
 The following adverse reactions are discussed in more details in other sections of labeling:
 
-- Psychiatric Reactions [see Warnings and Precautions (5.1)]
+- Behavioral abnormalities and Psychotic Symptoms [see Warnings and Precautions (5.1)]
 - Suicidal Behavior And Ideation [see Warnings and Precautions (5.2)]
 - Somnolence And Fatigue [see Warnings and Precautions (5.3)]
 - Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
 - Coordination Difficulties [see Warnings and Precautions (5.5)]
-- Withdrawal Seizures [see Warnings and Precautions (5.6)]
 - Hematologic Abnormalities [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The prescriber should be aware that the adverse reaction incidence figures in the following table, obtained when KEPPRA XR was added to concurrent AED therapy, cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical trials.
-Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
-An inspection of these frequencies, however, does provide the prescriber with one basis to estimate the relative contribution of drug and non-drug factors to the adverse reaction incidences in the population studied.
-
 KEPPRA XR Tablets
 
-In the controlled clinical study using KEPPRA XR in patients with partial onset seizures (Study 1), the most frequently reported adverse reactions in patients receiving KEPPRA XR in combination with other AEDs, for events with rates greater than placebo, were irritability and somnolence.
+In the controlled clinical study in patients with partial onset seizures, the most common adverse reactions in patients receiving KEPPRA XR in combination with other AEDs, for events with rates greater than placebo, were irritability and somnolence.
 
-Table 3 lists adverse reactions that occurred in at least 5% of epilepsy patients treated with KEPPRA XR participating in the placebo-controlled study (Study 1) and were numerically more common than in patients treated with placebo.
+Table 3 lists adverse reactions that occurred in at least 5% of epilepsy patients receiving KEPPRA XR in the placebo-controlled study and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA XR or placebo was added to concurrent AED therapy.
-Adverse reactions were usually mild to moderate in intensity.
 
-Table 3: Incidence (%) Of Adverse Reactions In The Placebo-Controlled, Add-On Study By Body System (Adverse Reactions Occurred In At Least 5% Of KEPPRA XR-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 3: Adverse Reactions in the Placebo-Controlled, Add-On Study in Patients Experiencing Partial Onset Seizures
 
-| Body System/ Adverse Reaction | KEPPRA XR (N=77) % | Placebo (N=79) % |
+|  | KEPPRA XR (N=77) % | Placebo (N=79) % |
 | --- | --- | --- |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 5 | 3 |
-| Infections and Infestations |  |  |
 | Influenza | 8 | 4 |
-| Nasopharyngitis | 7 | 5 |
-| Nervous System Disorders |  |  |
 | Somnolence | 8 | 3 |
-| Dizziness | 5 | 3 |
-| Psychiatric Disorders |  |  |
 | Irritability | 7 | 0 |
+| Nasopharyngitis | 7 | 5 |
+| Dizziness | 5 | 3 |
+| Nausea | 5 | 3 |
 
 Discontinuation or Dose Reduction in the KEPPRA XR Controlled Clinical Study
 
-In the controlled clinical study using KEPPRA XR, 5.2% of patients receiving KEPPRA XR and 2.5% receiving placebo discontinued as a result of an adverse reaction.
-The adverse reactions that resulted in discontinuation and that occurred more frequently in KEPPRA XR-treated patients than in placebo-treated patients were asthenia, epilepsy, mouth ulceration, rash and respiratory failure.
+In the controlled clinical study, 5% of patients receiving KEPPRA XR and 3% receiving placebo discontinued as a result of an adverse reaction.
+The adverse reactions that resulted in discontinuation and that occurred more frequently in KEPPRA XR-treated patients than in placebo-treated patients were asthenia, epilepsy, mouth ulceration, rash, and respiratory failure.
 Each of these adverse reactions led to discontinuation in a KEPPRA XR-treated patient and no placebo-treated patients.
-
-Table 4 lists the adverse reactions seen in the controlled studies of immediate-release KEPPRA tablets in adult patients experiencing partial onset seizures.
-Although the pattern of adverse reactions in the KEPPRA XR study seems somewhat different from that seen in partial onset seizure controlled studies for immediate-release KEPPRA tablets, this is possibly due to the much smaller number of patients in this study compared to the immediate-release tablet studies.
-The adverse reactions for KEPPRA XR are expected to be similar to those seen with immediate-release KEPPRA tablets.
 
 Immediate-Release KEPPRA Tablets
 
+Table 4 lists the adverse reactions in the controlled studies of immediate-release KEPPRA tablets in adult patients experiencing partial onset seizures.
+Although the pattern of adverse reactions in the KEPPRA XR study seems somewhat different from that seen in partial onset seizure controlled studies for immediate-release KEPPRA tablets, this is possibly due to the much smaller number of patients in this study compared to the immediate-release tablet studies.
+The adverse reactions for KEPPRA XR are expected to be similar to those seen with immediate-release KEPPRA tablets.
+
 Adults
 
-In controlled clinical studies of immediate-release KEPPRA tablets as adjunctive therapy to other AEDs in adults with partial onset seizures, the most frequently reported adverse reactions, for events with rates greater than placebo, were somnolence, asthenia, infection and dizziness.
+In controlled clinical studies of immediate-release KEPPRA tablets as adjunctive therapy to other AEDs in adults with partial onset seizures, the most common adverse reactions, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
 
-Table 4 lists adverse reactions that occurred in at least 1% of adult epilepsy patients treated with immediate-release KEPPRA tablets participating in placebo-controlled studies and were numerically more common than in patients treated with placebo.
+Table 4 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving immediate-release KEPPRA tablets in placebo-controlled studies and were numerically more common than in patients treated with placebo.
 In these studies, either immediate-release KEPPRA tablets or placebo was added to concurrent AED therapy.
-Adverse reactions were usually mild to moderate in intensity.
 
-Table 4: Incidence (%) Of Adverse Reactions In Placebo-Controlled, Add-On Studies In Adults Experiencing Partial Onset Seizures By Body System (Adverse Reactions Occurred In At Least 1% Of Immediate-Release KEPPRA-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 4: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Adults Experiencing Partial Onset Seizures
 
-| Body System/ Adverse Reaction | Immediate-release KEPPRA (N=769) % | Placebo (N=439) % |
+|  | KEPPRA (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
-| Body as a Whole |  |  |
 | Asthenia | 15 | 9 |
+| Somnolence | 15 | 8 |
 | Headache | 14 | 13 |
 | Infection | 13 | 8 |
-| Pain | 7 | 6 |
-| Digestive System |  |  |
-| Anorexia | 3 | 2 |
-| Nervous System |  |  |
-| Somnolence | 15 | 8 |
 | Dizziness | 9 | 4 |
+| Pain | 7 | 6 |
+| Pharyngitis | 6 | 4 |
 | Depression | 4 | 2 |
 | Nervousness | 4 | 2 |
+| Rhinitis | 4 | 3 |
+| Anorexia | 3 | 2 |
 | Ataxia | 3 | 1 |
 | Vertigo | 3 | 1 |
 | Amnesia | 2 | 1 |
 | Anxiety | 2 | 1 |
+| Cough Increased | 2 | 1 |
+| Diplopia | 2 | 1 |
+| Emotional Lability | 2 | 0 |
 | Hostility | 2 | 1 |
 | Paresthesia | 2 | 1 |
-| Emotional Lability | 2 | 0 |
-| Respiratory System |  |  |
-| Pharyngitis | 6 | 4 |
-| Rhinitis | 4 | 3 |
-| Cough Increased | 2 | 1 |
 | Sinusitis | 2 | 1 |
-| Special Senses |  |  |
-| Diplopia | 2 | 1 |
 
 Pediatric Patients 4 Years to <16 Years
 
@@ -100,71 +84,61 @@ Table 5 lists adverse reactions that occurred in at least 2% of pediatric patien
 In these studies, either immediate-release KEPPRA or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
-Table 5: Incidence (%) Of Adverse Reactions In Pooled Placebo-Controlled, Add-On Studies In Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures By Body System (Adverse Reactions Occurred In At Least 2% Of Patients Treated With Immediate-Release KEPPRA And Occurred More Frequently Than Patients on Placebo)
+Table 5: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures
 
-| Body System/ Adverse Reaction | Immediate-Release KEPPRA (N=165) % | Placebo (N=131) % |
+|  | KEPPRA (N=165) % | Placebo (N=131) % |
 | --- | --- | --- |
-| Ear and Labyrinth Disorders |  |  |
-| Ear Pain | 2 | 1 |
-| Eye Disorders |  |  |
-| Conjunctivitis | 2 | 0 |
-| Gastrointestinal Disorders |  |  |
-| Vomiting | 15 | 12 |
-| Abdominal Pain Upper | 9 | 8 |
-| Diarrhea | 6 | 5 |
-| Constipation | 3 | 1 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 11 | 5 |
-| Infections and Infestations |  |  |
-| Nasopharyngitis | 15 | 12 |
-| Influenza | 3 | 1 |
-| Gastroenteritis | 2 | 0 |
-| Rhinitis | 2 | 0 |
-| Injury, Poisoning and Procedural Complications |  |  |
-| Head Injury | 4 | 0 |
-| Contusion | 3 | 1 |
-| Fall | 3 | 2 |
-| Joint Sprain | 2 | 1 |
-| Metabolism and Nutrition Disorders |  |  |
-| Decreased Appetite | 8 | 2 |
-| Anorexia | 4 | 3 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 2 | 0 |
-| Neck Pain | 2 | 1 |
-| Nervous System |  |  |
 | Headache | 19 | 15 |
+| Nasopharyngitis | 15 | 12 |
+| Vomiting | 15 | 12 |
 | Somnolence | 13 | 9 |
-| Dizziness | 7 | 5 |
-| Lethargy | 6 | 2 |
-| Sedation | 2 | 1 |
-| Psychiatric Disorders |  |  |
+| Fatigue | 11 | 5 |
 | Aggression | 10 | 5 |
+| Abdominal Pain Upper | 9 | 8 |
+| Cough | 9 | 5 |
+| Nasal Congestion | 9 | 2 |
+| Decreased Appetite | 8 | 2 |
 | Abnormal Behavior | 7 | 4 |
+| Dizziness | 7 | 5 |
 | Irritability | 7 | 1 |
+| Pharyngolaryngeal Pain | 7 | 4 |
+| Diarrhea | 6 | 2 |
+| Lethargy | 6 | 5 |
 | Insomnia | 5 | 3 |
 | Agitation | 4 | 1 |
+| Anorexia | 4 | 3 |
+| Head Injury | 4 | 0 |
+| Constipation | 3 | 1 |
+| Contusion | 3 | 1 |
 | Depression | 3 | 1 |
+| Fall | 3 | 2 |
+| Influenza | 3 | 1 |
 | Mood Altered | 3 | 1 |
 | Affect Lability | 2 | 1 |
 | Anxiety | 2 | 1 |
+| Arthralgia | 2 | 0 |
 | Confusional State | 2 | 0 |
+| Conjunctivitis | 2 | 0 |
+| Ear Pain | 2 | 1 |
+| Gastroenteritis | 2 | 0 |
+| Joint Sprain | 2 | 1 |
 | Mood Swings | 2 | 1 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Cough | 9 | 5 |
-| Nasal Congestion | 9 | 2 |
-| Pharyngolaryngeal Pain | 7 | 4 |
+| Neck Pain | 2 | 1 |
+| Rhinitis | 2 | 0 |
+| Sedation | 2 | 1 |
 
 In controlled pediatric clinical studies in patients 4-16 years of age, 7% of patients treated with immediate-release KEPPRA tablets and 9% of patients on placebo discontinued as a result of an adverse event.
 
-In addition, the following adverse reactions were seen in other well-controlled studies of immediate-release KEPPRA tablets: balance disorder, disturbance in attention, eczema, hyperkinesia, memory impairment, myalgia, personality disorders, pruritus, and vision blurred.
+In addition, the following adverse reactions were seen in other controlled studies of immediate-release KEPPRA tablets: balance disorder, disturbance in attention, eczema, hyperkinesia, memory impairment, myalgia, personality disorders, pruritus, and blurred vision.
 
 Comparison of Gender, Age and Race
 
-There are insufficient data for KEPPRA XR to support a statement regarding the distribution of adverse experience reports by gender, age and race.
+There are insufficient data for KEPPRA XR to support a statement regarding the distribution of adverse reactions by gender, age, and race.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions listed above for immediate-release KEPPRA tablets [see Adverse Reactions (6.1)], the following adverse reactions have been identified during post-approval use of immediate-release KEPPRA tablets.
+The following adverse reactions have been identified during postapproval use of immediate-release KEPPRA tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The listing is alphabetized: abnormal liver function test, agranulocytosis, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, leukopenia, muscular weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
+
+The listing is alphabetized: abnormal liver function test, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with immediate-release KEPPRA use; recovery was observed in majority of cases where immediate-release KEPPRA was discontinued.

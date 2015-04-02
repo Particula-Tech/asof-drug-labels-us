@@ -1,10 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved Patient Labeling (Medication Guide).
-
-Counsel patients on the benefits and risks of receiving KEPPRA XR.
-Provide the Medication Guide to patients and/or caregivers, and instruct them to read the Medication Guide prior to taking KEPPRA XR.
-Instruct patients to take KEPPRA XR only as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Behavior and Ideation
 
@@ -14,7 +10,7 @@ Advise patients, their caregivers, and/or families to immediately report behavio
 Psychiatric Reactions and Changes in Behavior
 
 Advise patients that KEPPRA XR may cause changes in behavior (e.g. irritability and aggression).
-In addition, patients should be advised that they may experience changes in behavior that have been seen with other formulations of KEPPRA, which include agitation, anger, anxiety, apathy, depression, hostility, and, in rare cases, psychotic symptoms.
+In addition, patients should be advised that they may experience changes in behavior that have been seen with other formulations of KEPPRA, which include agitation, anger, anxiety, apathy, depression, hostility, and psychotic symptoms.
 
 Effects on Driving or Operating Machinery
 

@@ -25,7 +25,7 @@ These findings suggest that the interaction of levetiracetam with the SV2A prote
 Effects on QTc Interval
 
 The effects of KEPPRA XR on QTc prolongation is expected to be the same as that of immediate-release KEPPRA.
-The effect of immediate-release KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of immediate-release KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
+The effect of immediate-release KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
 The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
 Therefore, there was no evidence of significant QTc prolongation in this study.
 
@@ -33,7 +33,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 
 Overview
 
-Bioavailability of KEPPRA XR tablets is similar to that of the immediate-release KEPPRA Tablets.
+Bioavailability of KEPPRA XR tablets is similar to that of the immediate-release KEPPRA tablets.
 The pharmacokinetics (AUC and Cmax) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
 Plasma half-life of extended-release levetiracetam is approximately 7 hours.
 
@@ -76,9 +76,9 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with impaired renal function [see Use in Specific Populations (8.6) and Dosage and Administration (2.1)].
+Levetiracetam clearance is reduced in patients with impaired renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-Special Populations
+Specific Populations
 
 Elderly
 
@@ -120,9 +120,7 @@ Total body clearance of levetiracetam is reduced in patients with impaired renal
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure.
-
-Dosage should be reduced in patients with impaired renal function receiving levetiracetam; immediate-release levetiracetam should be given to patients on dialysis [see Dosage and Administration (2.1)].
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure [see Dosage and Administration (2.2)].
 
 Hepatic Impairment
 

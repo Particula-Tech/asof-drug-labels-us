@@ -48,7 +48,9 @@ Table 6: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Sei
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) in Study 2 is presented in Figure 1.
 
-Figure 1: Responder Rate (≥50% Reduction From Baseline) In Study 2
+| Figure 1: Responder Rate (≥50% Reduction From Baseline) In Study 2 |
+| --- |
+| * statistically significant versus placebo |
 
 Study 3
 
@@ -69,7 +71,9 @@ Table 7: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Sei
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) in Study 3 is presented in Figure 2.
 
-Figure 2: Responder Rate (≥50% Reduction From Baseline) In Study 3: Period A
+| Figure 2: Responder Rate (≥50% Reduction From Baseline) In Study 3: Period A |
+| --- |
+| * statistically significant versus placebo |
 
 The comparison of immediate-release KEPPRA 2000 mg/day to immediate-release KEPPRA 1000 mg/day for responder rate in Study 3 was statistically significant (P=0.02).
 Analysis of the trial as a cross-over study yielded similar results.
@@ -92,7 +96,9 @@ Table 8: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Sei
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 4 is presented in Figure 3.
 
-Figure 3: Responder Rate (≥50% Reduction From Baseline) In Study 4
+| Figure 3: Responder Rate (≥50% Reduction From Baseline) In Study 4 |
+| --- |
+| * statistically significant versus placebo |
 
 ## 14.3 Immediate-release KEPPRA in Pediatric Patients 4 Years to 16 Years
 
@@ -119,4 +125,6 @@ Table 9: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Sei
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 5 is presented in Figure 4.
 
-Figure 4: Responder Rate (≥ 50% Reduction From Baseline) in Study 5
+| Figure 4: Responder Rate (≥ 50% Reduction From Baseline) in Study 5 |
+| --- |
+| *statistically significant versus placebo |
