@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA018998"
+  ],
+  "inn": "enalapril",
+  "labeler": "OCEANSIDE PHARMACEUTICALS",
+  "package_ndcs": [
+    "68682-710-01",
+    "68682-710-30",
+    "68682-710-90",
+    "68682-711-01",
+    "68682-711-10",
+    "68682-711-30",
+    "68682-711-90",
+    "68682-712-01",
+    "68682-712-10",
+    "68682-712-30",
+    "68682-712-90",
+    "68682-713-01",
+    "68682-713-10",
+    "68682-713-30",
+    "68682-713-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "Enalapril Maleate"
+    }
+  ],
+  "setid": "ebd2a62d-a704-4f8a-a104-749a5296502f",
+  "source": "dailymed"
+}
