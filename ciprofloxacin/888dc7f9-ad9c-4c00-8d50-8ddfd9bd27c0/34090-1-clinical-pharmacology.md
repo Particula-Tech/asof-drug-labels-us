@@ -291,7 +291,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 11.
+The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 12.
 
 ### Diffusion Techniques
 
@@ -330,7 +330,7 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 13.
-For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 12 should be achieved.
+For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 13 should be achieved.
 
 Table 13: Acceptable Quality Control Ranges for Ciprofloxacin
 
