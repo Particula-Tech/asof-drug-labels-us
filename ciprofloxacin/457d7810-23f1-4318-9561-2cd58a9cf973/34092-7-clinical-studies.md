@@ -16,7 +16,7 @@ Table 13: Clinical Response Rates
 |  | Success (%) | Success (%) |
 | Clinical Resolution of Initial Febrile Episode with No Modifications of Empirical RegimenTo be evaluated as a clinical resolution, patients had to have: (1) resolution of fever; (2) microbiological eradication of infection (if an infection was microbiologically documented); (3) resolution of signs/symptoms of infection; and (4) no modification of empirical antibiotic regimen | 63 (27%) | 52 (21.9%) |
 | Clinical Resolution of Initial Febrile Episode Including Patients with Modifications of Empirical Regimen | 187 (80.3%) | 185 (78.1%) |
-| Overall Survival | 224 (96.1%) | 185 (78.1%) |
+| Overall Survival | 224 (96.1%) | 223 (94.1%) |
 
 ## 14.2 Complicated Urinary Tract Infection and Pyelonephritis–Efficacy in Pediatric Patients
 

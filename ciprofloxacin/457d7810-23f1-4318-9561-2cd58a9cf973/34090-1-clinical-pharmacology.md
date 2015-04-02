@@ -31,7 +31,7 @@ Table 10: Steady-state Pharmacokinetic Parameters Following Multiple Oral and In
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours Orally. | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, |
+|  | every 12 hours Orally. | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
 | AUC (mcg•hr/mL) | 13.7AUC 0-12h | 12.7 | 31.6AUC24h = AUC0-12h x 2 | 32.9AUC24h = AUC0-8h x 3 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
@@ -231,7 +231,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5, 6, 7 The MIC values should be interpreted according to criteria provided in Table 10.
+The MICs should be determined using a standardized test method (broth and/or agar).5, 6, 7 The MIC values should be interpreted according to criteria provided in Table 11.
 
 ### Diffusion Techniques
 
