@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA206910"
+  ],
+  "inn": "deferasirox",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0654-15",
+    "0078-0655-15",
+    "0078-0656-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "deferasirox",
+      "name": "Jadenu"
+    }
+  ],
+  "setid": "fee89140-fff1-4443-9f42-24ac004fcda1",
+  "source": "dailymed"
+}
