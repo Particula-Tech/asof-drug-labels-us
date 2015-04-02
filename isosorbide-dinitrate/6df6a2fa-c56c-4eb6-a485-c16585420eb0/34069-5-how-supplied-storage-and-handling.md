@@ -2,13 +2,29 @@
 
 Isosorbide dinitrate tablets, USP are available as follows:
 
-5 mg oral, white, round, bisected tablets, debossed "PAR 020" on one side and supplied in bottles of 100 and 1000 tablets.
+5 mg oral, white, round, bisected tablets, debossed with "PAR 020" on one side and plain on the other side.
 
-10 mg oral, white, round, bisected tablets, debossed "PAR 021" on one side and supplied in bottles of 100 and 1000 tablets.
+Bottles of 100 NDC 49884-020-01
 
-20 mg oral, green, round, bisected tablets, debossed "PAR 022" on one side and supplied in bottles of 100, 500 and 1000 tablets.
+Bottles of 1000 NDC 49884-020-10
 
-30 mg oral, blue, round, bisected tablets, debossed "PAR 009" on one side and supplied in bottles of 100, 500 and 1000 tablets.
+10 mg oral, white, round, bisected tablets, debossed with "PAR 021" on one side and plain on the other side.
+
+Bottles of 100 NDC 49884-021-01
+
+Bottles of 1000 NDC 49884-021-10
+
+20 mg oral, green, round, bisected tablets, debossed with "PAR 022" on one side and plain on the other side.
+
+Bottles of 100 NDC 49884-022-01
+
+Bottles of 1000 NDC 49884-022-10
+
+30 mg oral, blue, round, bisected tablets, debossed with "PAR 009" on one side and plain on the other side.
+
+Bottles of 100 NDC 49884-009-01
+
+Bottles of 1000 NDC 49884-009-10
 
 Store at room temperature, approximately 25°C (77°F).
 Protect from light.

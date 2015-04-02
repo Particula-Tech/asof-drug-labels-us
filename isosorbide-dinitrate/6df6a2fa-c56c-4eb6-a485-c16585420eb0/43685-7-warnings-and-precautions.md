@@ -41,6 +41,10 @@ This effect may be more frequent in patients who have also consumed alcohol.
 The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators.
 Alcohol, in particular, has been found to exhibit additive effects of this variety.
 
+Concomitant use of isosorbide dinitrate with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS).
+
+Concomitant use of isosorbide dinitrate with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
+
 ## Carcinogenesis and Mutagenesis and Impairment of Fertility
 
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
