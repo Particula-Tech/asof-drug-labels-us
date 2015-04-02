@@ -40,7 +40,7 @@ Individuals who have already experienced NAION are at increased risk of NAION re
 Therefore, PDE5 inhibitors, including VIAGRA, should be used with caution in these patients and only when the anticipated benefits outweigh the risks.
 Individuals with "crowded" optic disc are also considered at greater risk for NAION compared to the general population, however, evidence is insufficient to support screening of prospective users of PDE5 inhibitors, including VIAGRA, for this uncommon condition.
 
-There are no controlled clinical data on the safety or efficacy of VIAGRA in patients with retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases).
+There are no controlled clinical data on the safety or efficacy of VIAGRA in patients with retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases); if prescribed, this should be done with caution.
 
 ## 5.4 Hearing Loss
 
