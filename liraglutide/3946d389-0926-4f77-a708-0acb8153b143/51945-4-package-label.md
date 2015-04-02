@@ -1,38 +1,5 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0169-2800-90
-
-List 280090
-
-Saxenda®
-
-liraglutide (rDNA origin) injection
-
-18 mg/3 mL (6 mg/mL)
-
-1×3 mL Prefilled Pen
-
-Sample.
-Not for Resale
-
-For subcutaneous use only
-
-Rx Only
-
-Single Patient Use Only
-
-Discard pen 30 days after first use
-
-Recommended for use with NovoFine® or NovoTwist® disposable needles.
-
-REFRIGERATE – DO NOT FREEZE
-
-Protect from light.
-
-Dispense the enclosed Medication Guide to each patient
-
-# PRINCIPAL DISPLAY PANEL
-
 NDC 0169-2800-15
 
 List 280015

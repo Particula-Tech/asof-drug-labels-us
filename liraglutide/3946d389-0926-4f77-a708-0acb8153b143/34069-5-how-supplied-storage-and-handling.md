@@ -14,7 +14,7 @@ A Saxenda pen should never be shared between patients, even if the needle is cha
 
 Prior to first use, Saxenda should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 7).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
-Do not freeze Saxendaand do not use Saxenda if it has been frozen.
+Do not freeze Saxenda and do not use Saxenda if it has been frozen.
 
 After initial use of the Saxenda pen, the pen can be stored for 30 days at controlled room temperature (59°F to 86°F; 15°C to 30°C) or in a refrigerator (36°F to 46°F; 2°C to 8°C).
 Keep the pen cap on when not in use.

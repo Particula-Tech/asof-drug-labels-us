@@ -66,7 +66,7 @@ Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Pat
 | Insomnia | 1.7 | 2.4 |
 | Anxiety | 1.6 | 2.0 |
 
-- 1.Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
+- •Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
   See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
   T2DM = type 2 diabetes mellitus
 

@@ -49,7 +49,7 @@ Changes in Weight at Week 56 for Studies 1, 2, and 3
 | % of Patients losing greater than or equal to 5% body weight | 62.3% | 34.4% | 49.0% | 16.4% | 44.2% | 21.7% |
 | Difference from placebo (LSMean) (95% CI) | 27.9*(23.9;31.9) |  | 32.6*(25.1;40.1) |  | 22.6*(13.9;31.3) |  |
 | % of Patients losing greater than 10% body weight | 33.9% | 15.4% | 22.4% | 5.5% | 25.4% | 6.9% |
-| Difference from placebo (LSMean)(95% CI) | 18.5*(15.2;21.7) |  | 16.9*(11.7;22.1) |  | 18.5*(11.7;25.3) |  |
+| Difference from placebo (LSMean) (95% CI) | 18.5*(15.2;21.7) |  | 16.9*(11.7;22.1) |  | 18.5*(11.7;25.3) |  |
 | SD = Standard Deviation; CI = Confidence Interval |  |  |  |  |  |  |
 | * p < 0.0001 compared to placebo. Type 1 error was controlled across the three endpoints. |  |  |  |  |  |  |
 | Includes all randomized subjects who had a baseline body weight measurement. All available body weight data during the 56 week treatment period are included in the analysis. In Studies 1 and 2 missing values for week 56 were handled using multiple imputations analysis. In Study 3 missing values for week 56 were handled using weighted regression analysis. |  |  |  |  |  |  |
@@ -63,9 +63,8 @@ Change in body weight (%) from baseline to week 56 (Study 1 on left and Study 2 
 
 The time courses of weight loss with Saxenda and placebo from baseline through week 56 are depicted in Figures 3 and 4.
 
-Figure 3.Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
-
-- 
+Figure 3.
+Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
 
 Figure 4.
 Change from baseline (%) in body weight during Study 3
