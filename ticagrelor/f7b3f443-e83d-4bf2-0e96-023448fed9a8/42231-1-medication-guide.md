@@ -121,6 +121,10 @@ How should I take BRILINTA?
   Do not take two doses at the same time unless your doctor tells you to.
 - •If you take too much BRILINTA or overdose, call your doctor or poison control center right away, or go to the nearest emergency room.
 
+- If you have trouble swallowing the tablet(s).
+- If you are unable to swallow the tablet(s) whole, BRILINTA tablets can be crushed, mixed with water and drunk immediately.
+  The glass should be refilled with water, stirred and the contents drunk.
+
 What are the possible side effects of BRILINTA?
 
 BRILINTA can cause serious side effects, including:
@@ -163,10 +167,10 @@ Active ingredient: ticagrelor
 
 Inactive ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, talc, polyethylene glycol 400, and ferric oxide yellow.
 
-Revised: March 29, 2013
+Revised: 03/2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: AstraZeneca LP, Wilmington, DE 19850
 
-© AstraZeneca 2011, 2013
+© AstraZeneca 2011, 2013, 2014

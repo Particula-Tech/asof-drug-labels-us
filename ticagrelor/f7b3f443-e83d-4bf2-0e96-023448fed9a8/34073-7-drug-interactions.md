@@ -11,7 +11,7 @@ Avoid use of strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, voric
 
 ## 7.2 CYP3A inducers
 
-Avoid use with potent inducers of CYP3A (e.g., rifampin, dexamethasone, phenytoin, carbamazepine and phenobarbital) [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
+Avoid use with potent inducers of CYP3A (e.g., rifampin, phenytoin, carbamazepine and phenobarbital) [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Aspirin
 

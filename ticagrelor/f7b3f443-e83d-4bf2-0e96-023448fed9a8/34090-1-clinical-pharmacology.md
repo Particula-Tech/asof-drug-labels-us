@@ -20,8 +20,6 @@ The insert in Figure 3 shows that after 24 hours, IPA in the ticagrelor group (5
 After 5 days, IPA in the ticagrelor group was similar to IPA in the placebo group.
 It is not known how either bleeding risk or thrombotic risk track with IPA, for either ticagrelor or clopidogrel.
 
-Figure 2 - Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
-
 • Ticagrelor ▲Clopidogrel ■ Placebo
 
 Transitioning from clopidogrel to BRILINTA resulted in an absolute IPA increase of 26.4% and from BRILINTA to clopidogrel resulted in an absolute IPA decrease of 24.5%.
@@ -40,6 +38,8 @@ The mean absolute bioavailability of ticagrelor is about 36%, (range 30%-42%).
 Ingestion of a high-fat meal had no effect on ticagrelor Cmax, but resulted in a 21% increase in AUC.
 The Cmax of its major metabolite was decreased by 22% with no change in AUC.
 BRILINTA can be taken with or without food.
+
+BRILINTA as crushed tablets mixed in water, given orally or administered through a nasogastric tube into the stomach, is bioequivalent to whole tablets (AUC and Cmax within 80-125% for ticagrelor and AR-C124910XX) with a median tmax of 1.0 hour (range 1.0 – 4.0) for ticagrelor and 2.0 hours (range 1.0 – 8.0) for AR-C124910XX.
 
 Distribution
 
@@ -64,10 +64,6 @@ Special Populations
 The effects of age, gender, ethnicity, renal impairment and mild hepatic impairment on the pharmacokinetics of ticagrelor are presented in Figure 4.
 Effects are modest and do not require dose adjustment.
 
-Figure 4 - Impact of intrinsic factors on the pharmacokinetics of ticagrelor
-
-* BRILINTA has not been studied in patients with moderate or severe hepatic impairment.
-
 Pediatric
 
 Ticagrelor has not been evaluated in a pediatric population [see Use in Specific Populations (8.4)].
@@ -90,18 +86,8 @@ Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem).
 CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels.
 P-gp inhibitors (e.g. cyclosporine) increase ticagrelor exposure.
 
-Figure 5 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
-
-* See Dosage and Administration (2).
-
 Effects of BRILINTA on Other Drugs
 
 In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.
 Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
 For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, digoxin and cyclosporine, see Figure 6.
-
-Figure 6 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
-
-* Similar increases in AUC and Cmax were observed for all metabolites
-
-** Monitor digoxin levels with initiation of or change in BRILINTA therapy

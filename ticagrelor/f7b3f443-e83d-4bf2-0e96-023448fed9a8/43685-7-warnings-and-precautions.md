@@ -50,4 +50,4 @@ Avoid use with strong CYP3A inhibitors, such as atazanavir, clarithromycin, indi
 
 ## 5.7 Cytochrome CYP3A Potent Inducers
 
-Avoid use with potent CYP3A inducers, such as rifampin, dexamethasone, phenytoin, carbamazepine, and phenobarbital [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Avoid use with potent CYP3A inducers, such as rifampin, phenytoin, carbamazepine, and phenobarbital [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].

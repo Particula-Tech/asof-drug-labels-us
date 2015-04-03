@@ -4,7 +4,7 @@ NDC -0186-0777-60
 
 60 tablets
 
-BRILINTA™
+BRILINTA®
 
 ticagrelor tablets
 
