@@ -92,7 +92,7 @@ Food delays Tmax to three to four hours but does not alter the extent of absorpt
 
 Glimepiride
 
-Following single oral doses of glimepiride in healthy subjects and multiple oral doses in patients with type 2 diabetes Tmax was observed at two to three hours post-dose.
+Studies with single oral doses of glimepiride in healthy subjects and with multiple oral doses in patients with type 2 diabetes showed peak drug concentrations (Cmax) two to three hours post-dose.
 When glimepiride was given with meals, the mean Cmax and AUC were decreased by 8% and 9%, respectively.
 
 Glimepiride does not accumulate in serum following multiple dosing.
@@ -112,7 +112,7 @@ M-III and M-IV are also extensively bound (>98%) to serum albumin.
 
 Glimepiride
 
-After intravenous (IV) dosing in healthy subjects, Vd/F was 8.8 L (113 mL/kg).
+After intravenous (IV) dosing in healthy subjects, Vd/F was 8.8 L (113 mL/kg), and the total body clearance (CL) was 47.8 mL/min.
 Protein binding was greater than 99.5%.
 
 Metabolism
@@ -155,7 +155,6 @@ Approximately 40% of the total radioactivity was recovered in feces.
 M1 and M2 accounted for approximately 70% (ratio of M1 to M2 was 1:3) of the radioactivity recovered in feces.
 No parent drug was recovered from urine or feces.
 After IV dosing in patients, no significant biliary excretion of glimepiride or its M1 metabolite was observed.
-Total body clearance (CL) after IV dosing was 47.8 mL/min.
 
 Renal Impairment
 
@@ -194,7 +193,7 @@ These changes were not of a magnitude that would be considered clinically releva
 
 Glimepiride
 
-Glimepiride pharmacokinetics in patients with type 2 diabetes ≤65 years and those >65 years was compared in a multiple-dose study using 6 mg daily dose.
+A comparison of glimepiride pharmacokinetics in patients with type 2 diabetes ≤65 years and those >65 years was evaluated in a multiple-dose study using 6 mg daily dose.
 There were no significant differences in glimepiride pharmacokinetics between the two age groups.
 The mean AUC at steady state for the older patients was approximately 13% lower than that for the younger patients; the mean weight-adjusted clearance for the older patients was approximately 11% higher than that for the younger patients.
 
@@ -234,14 +233,6 @@ Obese Patients
 The pharmacokinetics of glimepiride and its metabolites were measured in a single-dose study involving 28 patients with type 2 diabetes who either had normal body weight or were morbidly obese.
 While the Tmax, CL/F, and Vd/F of glimepiride in the morbidly obese patients were similar to those in the normal weight group, the morbidly obese had lower Cmax and AUC than those of normal body weight.
 The mean Cmax, AUC0-24, AUC0-∞ values of glimepiride in normal vs. morbidly obese patients were 547 ± 218 ng/mL vs. 410 ± 124 ng/mL, 3210 ± 1030 hours·ng/mL vs. 2820 ± 1110 hours·ng/mL and 4000 ± 1320 hours·ng/mL versus 3280 ± 1360 hours·ng/mL, respectively.
-
-Other Populations
-
-Glimepiride
-
-There were no important differences in glimepiride metabolism in subjects identified as phenotypically different drug-metabolizers by their metabolism of sparteine.
-The pharmacokinetics of glimepiride in morbidly obese patients were similar to those in the normal weight group, except for a lower Cmax and AUC.
-However, since neither Cmax nor AUC values were normalized for body surface area, the lower values of Cmax and AUC for the obese patients were likely the result of their excess weight and not due to a difference in the kinetics of glimepiride.
 
 Drug-Drug Interactions
 
@@ -329,4 +320,4 @@ The reductions in mean area under the prothrombin time (PT) curve and maximum PT
 Colesevelam
 
 Concomitant administration of colesevelam and glimepiride resulted in reductions in glimepiride AUC0-∞ and Cmax of 18% and 8%, respectively.
-When glimepiride was administered 4 hours prior to colesevelam, there was not significant change in glimepiride AUC0-∞ and Cmax, -6% and 3%, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.5)].
+When glimepiride was administered 4 hours prior to colesevelam, there was not significant change in glimepiride AUC0-∞ and Cmax, -6% and 3%, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.6)].

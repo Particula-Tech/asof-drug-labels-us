@@ -188,10 +188,10 @@ Takeda Pharmaceuticals America, Inc.
 
 Deerfield, IL 60015
 
-Revised: November 2013
+Revised: March 2015
 
 DUETACT and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009 - 2013 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2015 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R12
+DTA007 R13

@@ -15,14 +15,34 @@ Pioglitazone
 An inducer of CYP2C8 (e.g., rifampin) may significantly decrease the exposure (AUC) of pioglitazone.
 Therefore, if an inducer of CYP2C8 is started or stopped during treatment with pioglitazone, changes in diabetes treatment may be needed based on clinical response without exceeding the maximum recommended daily dose of 45 mg for pioglitazone [see Clinical Pharmacology (12.3)].
 
-## 7.3 Miconazole
+## 7.3 Drugs Affecting Glucose Metabolism
+
+Glimepiride
+
+A number of medications affect glucose metabolism and may require DUETACT dose adjustment and particularly close monitoring for hypoglycemia or worsening glycemic control.
+
+The following are examples of medications that may increase the glucose-lowering effect of sulfonylureas including glimepiride, a component of DUETACT, increasing the susceptibility to and/or intensity of hypoglycemia: oral anti-diabetic medications, pramlintide acetate, insulin, angiotensin converting enzyme (ACE) inhibitors, H2 receptor antagonists, fibrates, propoxyphene, pentoxifylline, somatostatin analogs, anabolic steroids and androgens, cyclophosphamide, phenyramidol, guanethidine, fluconazole, sulfinpyrazone, tetracyclines, clarithromycin, disopyramide, quinolones, and those drugs that are highly protein-bound, such as fluoxetine, nonsteroidal anti-inflammatory drugs, salicylates, sulfonamides, chloramphenicol, coumarins, probenecid and monoamine oxidase inhibitors.
+When these medications are administered to a patient receiving DUETACT, monitor the patient closely for hypoglycemia.
+When these medications are withdrawn from a patient receiving DUETACT, monitor the patient closely for worsening glycemic control.
+
+The following are examples of medications that may reduce the glucose-lowering effect of sulfonylureas including glimepiride, leading to worsening glycemic control: danazol, glucagon, somatropin, protease inhibitors, atypical antipsychotic medications (e.g., olanzapine and clozapine), barbiturates, diazoxide, laxatives, rifampin, thiazides and other diuretics, corticosteroids, phenothiazines, thyroid hormones, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics (e.g., epinephrine, albuterol, terbutaline), and isoniazid.
+When these medications are administered to a patient receiving DUETACT, monitor the patient closely for worsening glycemic control.
+When these medications are withdrawn from a patient receiving DUETACT, monitor the patient closely for hypoglycemia.
+
+Beta-blockers, clonidine, and reserpine may lead to either potentiation or weakening of DUETACT’s glucose-lowering effect.
+
+Both acute and chronic alcohol intake may potentiate or weaken the glucose-lowering action of DUETACT in an unpredictable fashion.
+
+The signs of hypoglycemia may be reduced or absent in patients taking sympatholytic drugs such as beta-blockers, clonidine, guanethidine, and reserpine.
+
+## 7.4 Miconazole
 
 Glimepiride
 
 A potential interaction between oral miconazole and sulfonylureas leading to severe hypoglycemia has been reported.
 Whether this interaction also occurs with other dosage forms of miconazole is not known.
 
-## 7.4 CYP2C9 Interactions
+## 7.5 CYP2C9 Interactions
 
 Glimepiride
 
@@ -30,7 +50,7 @@ There may be an interaction between glimepiride and inhibitors (e.g., fluconazol
 Fluconazole may inhibit the metabolism of glimepiride, causing increased plasma concentrations of glimepiride which may lead to hypoglycemia.
 Rifampin may induce the metabolism of glimepiride, causing decreased plasma concentrations of glimepiride which may lead to worsening glycemic control.
 
-## 7.5 Concomitant Administration of Colesevelam
+## 7.6 Concomitant Administration of Colesevelam
 
 Glimepiride
 
