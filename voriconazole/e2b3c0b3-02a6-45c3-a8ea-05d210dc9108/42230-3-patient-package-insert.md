@@ -42,8 +42,9 @@ Do not start taking a new medicine without talking to your healthcare provider o
 
 What should I tell my healthcare provider before taking voriconazole tablets?
 
-- •Before you take voriconazole tablets, tell your healthcare provider if you:
-- •have or ever had an abnormal heart rate or rhythm.
+Before you take voriconazole tablets, tell your healthcare provider if you:
+
+- •have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole tablets.
 - •have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole tablets.
@@ -68,7 +69,7 @@ How should I take voriconazole tablets?
 
 - •Take voriconazole tablets exactly as your healthcare provider tells you to.
 - •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
-- •If you take too much voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room.
+- •If you take too many voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole tablets?
 
@@ -168,14 +169,13 @@ Active ingredient: voriconazole
 
 Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch and a coating containing hypromellose, lactose monohydrate, titanium dioxide and triacetin.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Manufactured in India by Sandoz Private Ltd.
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-May 2014
+February 2015

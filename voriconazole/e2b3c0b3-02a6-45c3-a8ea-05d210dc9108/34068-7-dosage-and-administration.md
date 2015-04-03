@@ -31,7 +31,7 @@ Table 1 Recommended Dosing Regimen
 | --- | --- | --- | --- |
 | IV | IV | Oralc |  |
 | Invasive Aspergillosisd | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
-| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3 to 4 mg/kg q12h | 200 mg q12h |
+| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3 to 4 mg/kg q12he | 200 mg q12h |
 | Esophageal Candidiasis | f | f | 200 mg q12h |
 | Scedosporiosis and Fusariosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
 

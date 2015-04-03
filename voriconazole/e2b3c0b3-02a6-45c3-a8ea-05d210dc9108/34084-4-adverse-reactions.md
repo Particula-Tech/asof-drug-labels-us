@@ -66,7 +66,7 @@ Possibly Related to Therapy or Causality Unknown†
 
 † Study 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
-* Amphotericin B followed by other licensed antifungal therapy **See Warnings and Precautions (5.3)
+* Amphotericin B followed by other licensed antifungal therapy **See WARNINGS AND PRECAUTIONS(5.3)
 
 Visual Disturbances
 
@@ -140,7 +140,7 @@ Cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngiti
 
 Skin and Appendages
 
-Alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticarial.
+Alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses
 
@@ -164,7 +164,7 @@ Patients who develop abnormal liver function tests during voriconazole therapy s
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of voriconazole tablets must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole tablets [see WARNINGS AND PRECAUTIONS (5.2)].
 
-Acute renal failure has been observed in severely ill patients undergoing treatment with voriconazole tablets.
+Acute renal failure has been observed in severely ill patients undergoing treatment with voriconazole.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function.
 It is recommended that patients are monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.

@@ -289,7 +289,8 @@ Tacrolimus (CYP3A4 substrate)
 
 Repeat oral dose administration of voriconazole (400 mg q12h x 1 day, then 200 mg q12h x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively.
 When initiating therapy with voriconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be reduced to one-third of the original dose and followed with frequent monitoring of the tacrolimus blood levels.
-Increased tacrolimus levels have been associated with nephrotoxicity.When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary [see WARNINGS AND PRECAUTIONS (5.1)].
+Increased tacrolimus levels have been associated with nephrotoxicity.
+When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Warfarin (CYP2C9 substrate)
 
@@ -378,10 +379,10 @@ Voriconazole at steady state (400 mg PO q12h for 1 day, then 200 mg q12h for 8 d
 The pharmacokinetics of adjusted doses of voriconazole and efavirenz were studied in healthy male subjects following administration of voriconazole (400 mg PO q12h on Days 2 to 7) with efavirenz (300 mg PO q24h on Days 1 to 7), relative to steady-state administration of voriconazole (400 mg for 1 day, then 200 mg PO q12h for 2 days) or efavirenz (600 mg q24h for 9 days).
 Coadministration of voriconazole 400 mg q12h with efavirenz 300 mg q24h, decreased voriconazole AUCτ by 7% (90% CI: -23%, 13%) and increased Cmax by 23% (90% CI: -1%, 53%); efavirenz AUCτ was increased by 17% (90% CI: 6%, 29%) and Cmax was equivalent.
 
-Coadmistration of standard doses of voriconazole and efavirenz (400 mg q12h or higher) is contraindicated.
+Coadmistration of standard doses of voriconazole and efavirenz (400 mg q24h or higher) is contraindicated.
 
 Voriconazole may be coadministered with efavirenz if the voriconazole maintenance dose is increased to 400 mg q12h and the efavirenz dose is decreased to 300 mg q24h.
-When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored see [DOSAGE AND ADMINISTRATION (2.4), CONTRAINDICATIONS (4) and DRUG INTERACTIONS (7)].
+When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see DOSAGE AND ADMINISTRATION (2.4), CONTRAINDICATIONS (4) and DRUG INTERACTIONS (7)].
 
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer)
 
@@ -497,9 +498,10 @@ Table 9 Susceptibility Interpretive Criteria for Voriconazole1,2
 | Voriconazole | ≤ 1 | 2 | ≥ 4 | ≥ 17 | 14 to 16 | ≤ 13 |
 
 NOTE: Shown are the breakpoints (mcg/mL) for voriconazole against Candida species.
-The susceptible category implies that isolates are inhibited by the usually achievable concentrations of antifungal agent tested when the recommended dosage is used for the site of infection.
-The intermediate category implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies.
+
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
