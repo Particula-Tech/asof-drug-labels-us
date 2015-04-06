@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Overview
 
 The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3), and Adverse Reactions (6.2, 6.3)].
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 

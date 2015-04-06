@@ -2,6 +2,9 @@
 
 See FDA-Approved Patient Labeling
 
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
 FDA-Approved Patient Labeling
 
 VFEND® /VEE-fend/
@@ -47,7 +50,7 @@ What should I tell my healthcare provider before taking VFEND?
 
 Before you take VFEND, tell your healthcare provider if you:
 
-- have or ever had an abnormal heart rate or rhythm.
+- have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting VFEND.
 - have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take VFEND.
@@ -170,8 +173,15 @@ Inactive ingredients:
 
 VFEND IV: sulfobutyl ether beta-cyclodextrin sodium
 
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0668-2.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-September 2014
+Distributed by Roerig Division of Pfizer Inc New York, NY 10017
+
+PREMIERProRx™ is a trademark of Premier, Inc., used under license.
+
+LAB-0668-5.0
+
+March 2015
