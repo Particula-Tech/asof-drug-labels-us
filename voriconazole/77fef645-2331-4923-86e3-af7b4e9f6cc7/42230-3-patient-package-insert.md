@@ -43,7 +43,7 @@ What should I tell my healthcare provider before taking VFEND?
 
 Before you take VFEND, tell your healthcare provider if you:
 
-- have or ever had an abnormal heart rate or rhythm.
+- have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting VFEND.
 - have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take VFEND.
@@ -166,10 +166,15 @@ Inactive ingredients:
 
 VFEND IV: sulfobutyl ether beta-cyclodextrin sodium
 
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
 Distributed by Roerig Division of Pfizer Inc New York, NY 10017
 
 Amerinet Choice is a registered trademark of Amerinet, Inc.
 
-LAB-0633-3.0
+LAB-0633-4.0
 
-October 2014
+March 2015
