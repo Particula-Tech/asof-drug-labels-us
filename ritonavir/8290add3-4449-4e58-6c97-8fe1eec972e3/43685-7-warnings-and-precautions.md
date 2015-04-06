@@ -1,14 +1,17 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Drug Interactions - CYP3A Enzyme Inhibition
+## 5.1 Risk of Serious Adverse Reactions Due to Drug Interactions
 
-KALETRA is a CYP3A inhibitor.
-Initiating treatment with KALETRA in patients receiving medications metabolized by CYP3A or initiating medications metabolized by CYP3A in patients already maintained on KALETRA may result in increased plasma concentrations of concomitant medications.
-Higher plasma concentrations of concomitant medications can result in increased or prolonged therapeutic or adverse effects, potentially leading to severe, life-threatening or fatal events.
-The potential for drug-drug interactions must be considered prior to and during therapy with KALETRA.
-Review of other medications taken by patients and monitoring of patients for adverse effects is recommended during therapy with KALETRA.
+Initiation of KALETRA, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving KALETRA, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of KALETRA, respectively.
+These interactions may lead to:
 
-See Tables 8 and 13 for listing of drugs that are contraindicated for use with KALETRA due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity [see Contraindications (4) and Drug Interactions (7)].
+- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
+- Clinically significant adverse reactions from greater exposures of KALETRA.
+- Loss of therapeutic effect of KALETRA and possible development of resistance.
+
+See Table 13 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during KALETRA therapy; review concomitant medications during KALETRA therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Toxicity in Preterm Neonates
 
