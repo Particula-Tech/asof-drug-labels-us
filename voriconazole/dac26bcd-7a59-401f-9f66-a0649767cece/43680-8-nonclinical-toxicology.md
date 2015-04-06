@@ -11,9 +11,8 @@ In mice, hepatocellular adenomas were detected in males and females and hepatoce
 Voriconazole demonstrated clastogenic activity (mostly chromosome breaks) in human lymphocyte cultures in vitro.
 Voriconazole was not genotoxic in the Ames assay, CHO assay, the mouse micronucleus assay or the DNA repair test (Unscheduled DNA Synthesis assay).
 
-Voriconazole produced a reduction in the pregnancy rates of rats dosed at 50 mg/kg, or 1.6 times the RMD.
-This was statistically significant only in the preliminary study and not in a larger fertility study.
+Voriconazole administration induced no impairment of male or female fertility in rats dosed at 50 mg/kg, or 1.6 times the RMD (recommended maintenance dose).
 
 ## 13.2 Teratogenic Effects
 
-Pregnancy category D [see Warnings and Precautions (5.4), and Use in Specific Populations (8.1)].
+Pregnancy category D [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].

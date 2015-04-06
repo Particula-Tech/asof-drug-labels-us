@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Overview
 
 The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3), and Adverse Reactions (6.2, 6.3)].
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
@@ -30,7 +30,7 @@ Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergil
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
-|  | Voriconazole N = 1655 | Voriconazole N = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N= 131 | Voriconazole N = 200 | Fluconazole N =191 |
+|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
 | Special SensesSee Warnings and Precautions (5.3) |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1.0) |
@@ -91,7 +91,7 @@ If a patient develops a skin lesion consistent with squamous cell carcinoma or m
 
 Less Common Adverse Events
 
-The following adverse events occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
+The following adverse events occurred in <2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 5 above and does not include every event reported in the voriconazole clinical program.
 
