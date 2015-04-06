@@ -12,4 +12,4 @@ Metoprolol tartrate tablets are indicated in the long-term treatment of angina p
 ## Myocardial Infarction
 
 Metoprolol tartrate tablets are indicated in the treatment of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality when used alone or in conjunction with intravenous metoprolol.
-Oral metoprolol tartrate tablets therapy can be initiated after intravenous metoprolol therapy or, alternatively, oral treatment can begin within 3 to 10 days of the acute event (see DOSAGE AND ADMINISTRATION, CONTRAINDICATIONS and WARNINGS).
+Oral metoprolol tartrate tablets therapy can be initiated after intravenous metoprolol therapy or, alternatively, oral treatment can begin within 3 to 10 days of the acute event (see DOSAGE AND ADMINISTRATION, CONTRAINDICATIONS, and WARNINGS).

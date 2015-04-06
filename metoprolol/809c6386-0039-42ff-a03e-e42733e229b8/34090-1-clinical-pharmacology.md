@@ -14,7 +14,7 @@ However, several possible mechanisms have been proposed: (1) competitive antagon
 
 ### Angina Pectoris
 
-By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
+By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
 
 ### Myocardial Infarction
 
@@ -30,7 +30,7 @@ Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing a
 Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
 
 Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within one hour after oral administration, and its duration is dose related.
-For example, a 50% reduction of the maximum effect after single oral doses of 20 mg, 50 mg and 100 mg occurred at 3.3 hours, 5 hours and 6.4 hours, respectively, in normal subjects.
+For example, a 50% reduction of the maximum effect after single oral doses of 20 mg, 50 mg, and 100 mg occurred at 3.3 hours, 5 hours, and 6.4 hours, respectively, in normal subjects.
 After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours.
 When the drug was infused over a 10 minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes.
 Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
@@ -97,7 +97,7 @@ The elimination half-life of metoprolol is considerably prolonged, depending on 
 ### Hypertension
 
 In controlled clinical studies, metoprolol has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100 mg to 450 mg daily.
-In controlled, comparative, clinical studies, metoprolol has been shown to be as effective an antihypertensive agent as propranolol, methyldopa and thiazide-type diuretics, to be equally effective in supine and standing positions.
+In controlled, comparative, clinical studies, metoprolol has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
 
 ### Angina Pectoris
 
@@ -110,7 +110,7 @@ A controlled, comparative, clinical trial showed that metoprolol was indistingui
 In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, metoprolol was shown to reduce 3 month mortality by 36% in patients with suspected or definite myocardial infarction.
 
 Patients were randomized and treated as soon as possible after their arrival in the hospital, once their clinical condition had stabilized and their hemodynamic status had been carefully evaluated.
-Subjects were ineligible if they had hypotension, bradycardia, peripheral signs of shock and/or more than minimal basal rales as signs of congestive heart failure.
+Subjects were ineligible if they had hypotension, bradycardia, peripheral signs of shock, and/or more than minimal basal rales as signs of congestive heart failure.
 Initial treatment consisted of intravenous followed by oral administration of metoprolol or placebo, given in a coronary care or comparable unit.
 Oral maintenance therapy with metoprolol or placebo was then continued for 3 months.
 After this double-blind period, all patients were given metoprolol and followed up to one year.

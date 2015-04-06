@@ -103,5 +103,5 @@ Fever combined with aching and sore throat, laryngospasm and respiratory distres
 
 ## Post-Marketing Experience
 
-The following adverse reactions have been reported during post-approval use of metoprolol tartrate: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
+The following adverse reactions have been reported during post-approval use of metoprolol: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.

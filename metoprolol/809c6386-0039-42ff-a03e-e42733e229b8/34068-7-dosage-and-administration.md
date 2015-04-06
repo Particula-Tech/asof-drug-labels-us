@@ -12,7 +12,7 @@ The effective dosage range of metoprolol tartrate tablets is 100 mg to 450 mg pe
 Dosages above 450 mg per day have not been studied.
 While once daily dosing is effective and can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period, and larger or more frequent daily doses may be required.
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
-Beta1 selectivity diminishes as the dose of metoprolol is increased.
+Beta1 selectivity diminishes as the dose of metoprolol tartrate tablets is increased.
 
 ## Angina Pectoris
 
@@ -65,7 +65,7 @@ Therefore, metoprolol tartrate tablets should be initiated at low doses with cau
 
 ### Geriatric Patients (> 65 Years)
 
-In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## Method of Administration
 
