@@ -2,16 +2,18 @@
 
 When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including important Warnings and Precautions.
 
-## 5.1 Drug Interactions
+## 5.1 Risk of Serious Adverse Reactions Due to Drug Interactions
 
-NORVIR is a CYP3A inhibitor.
-Initiating treatment with NORVIR in patients receiving medications metabolized by CYP3A or initiating medications metabolized by CYP3A in patients already maintained on NORVIR may result in increased plasma concentrations of concomitant medications.
-Higher plasma concentrations of concomitant medications can result in increased or prolonged therapeutic or adverse effects, potentially leading to severe, life-threatening or fatal events.
-The potential for drug-drug interactions must be considered prior to and during therapy with NORVIR.
-Review of other medications taken by patients and monitoring of patients for adverse effects is recommended during therapy with NORVIR.
+Initiation of NORVIR, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving NORVIR, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of NORVIR, respectively.
+These interactions may lead to:
 
-See Table 2 for a listing of drugs that are contraindicated with NORVIR due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
-Also, see Table 5 for a listing of drugs with established and other significant drug interactions [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
+- Clinically significant adverse reactions from greater exposures of NORVIR.
+- Loss of therapeutic effect of NORVIR and possible development of resistance.
+
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during NORVIR therapy; review concomitant medications during NORVIR therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications(4) and Drug Interactions (7)].
 
 ## 5.2 Toxicity in Preterm Neonates
 

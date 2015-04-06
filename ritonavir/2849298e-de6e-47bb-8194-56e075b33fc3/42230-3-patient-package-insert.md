@@ -113,6 +113,7 @@ Especially tell your doctor if you take:
 - steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase), budesonide (Entocort EC, Pulmicort, Rhinocort), or prednisone
 - a narcotic medicine such as methadone (Methadose, Dolophine Hydrochloride) or fentanyl (Abstral, Actiq, Fentora, Lazanda, Onsolis, Duragesic)
 - medicine to treat schizophrenia such as risperidone (Risperdal) or thioridazine
+- medicine to treat psychosis such as quetiapine (Seroquel)
 - medicine to treat erectile dysfunction or pulmonary hypertension such as avanafil (Stendra), sildenafil (Viagra, Revatio), vardenafil (Levitra, Staxyn), tadalafil (Cialis, Adcirca).
   If you are taking avanafil (Stendra), your doctor may need to change it to a different medicine.
 - midazolam by injection
