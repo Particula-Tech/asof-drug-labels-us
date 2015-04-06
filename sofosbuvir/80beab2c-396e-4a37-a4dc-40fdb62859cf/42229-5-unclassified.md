@@ -4,17 +4,17 @@ SOVALDI is a trademark of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-©2014 Gilead Sciences, Inc. All rights reserved.
+©2015 Gilead Sciences, Inc. All rights reserved.
 
-204671-DGS-001
+204671-GS-002
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Issued: November 2014
+Issued: March 2015
 
-SOVALDI is a trademark of Gilead Sciences, Inc., or its related companies.
+SOVALDI and HARVONI are trademarks of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
-©2014 Gilead Sciences, Inc. All rights reserved.
+©2015 Gilead Sciences, Inc. All rights reserved.
 
-204671-GS-001
+204671-GS-002

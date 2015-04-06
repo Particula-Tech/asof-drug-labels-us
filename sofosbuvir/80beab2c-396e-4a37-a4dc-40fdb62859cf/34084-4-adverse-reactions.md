@@ -84,3 +84,12 @@ Isolated, asymptomatic creatine kinase elevation of greater than or equal to 10Ã
 Lipase Elevations
 
 Isolated, asymptomatic lipase elevation of greater than 3Ã—ULN was observed in <1%, 2%, 2%, and 2% of subjects in the SOVALDI + peginterferon alfa + ribavirin 12 weeks, SOVALDI + ribavirin 12 weeks, SOVALDI + ribavirin 24 weeks and peginterferon alfa + ribavirin 24 weeks groups, respectively.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of SOVALDI.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac Disorders
+
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with SOVALDI in combination with another HCV direct acting antiviral [See Warnings and Precautions (5.1), Drug Interactions (7.2)].

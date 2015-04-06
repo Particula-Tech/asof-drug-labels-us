@@ -5,7 +5,7 @@
 Pregnancy Category X: Use with Ribavirin or Peginterferon Alfa/Ribavirin
 
 Extreme caution must be taken to avoid pregnancy in female patients and female partners of male patients while taking this combination.
-Women of childbearing potential and their male partners should not receive ribavirin unless they are using two forms of effective contraception during treatment with ribavirin and for 6 months after treatment has concluded [See Warnings and Precautions (5.1)].
+Women of childbearing potential and their male partners should not receive ribavirin unless they are using two forms of effective contraception during treatment with ribavirin and for 6 months after treatment has concluded [See Warnings and Precautions (5.2)].
 
 In case of exposure during pregnancy, a Ribavirin Pregnancy Registry has been established to monitor maternal-fetal outcomes of pregnancies in female patients and female partners of male patients exposed to ribavirin during treatment and for 6 months following cessation of treatment.
 Healthcare providers and patients are encouraged to report such cases by calling Ribavirin Pregnancy Registry at 1-800-593-2214.
@@ -13,7 +13,7 @@ For patients who are HCV/HIV-1 co-infected and taking concomitant antiretroviral
 
 Animal Data
 
-Significant teratogenic and/or embryocidal effects have been demonstrated in all animal species exposed to ribavirin; and therefore ribavirin is contraindicated in women who are pregnant and in the male partners of women who are pregnant [See Contraindications (4), Warnings and Precautions (5.1) and ribavirin Package Insert].
+Significant teratogenic and/or embryocidal effects have been demonstrated in all animal species exposed to ribavirin; and therefore ribavirin is contraindicated in women who are pregnant and in the male partners of women who are pregnant [See Contraindications (4), Warnings and Precautions (5.2) and ribavirin Package Insert].
 Interferons have abortifacient effects in animals and should be assumed to have abortifacient potential in humans [See peginterferon alfa Package Insert].
 
 Pregnancy Category B: SOVALDI

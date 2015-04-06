@@ -6,7 +6,7 @@ Pregnancy
 
 Ribavirin must not be used by women who are pregnant or by men whose female partners are pregnant.
 Ribavirin therapy should not be initiated until a report of a negative pregnancy test has been obtained immediately before starting therapy.
-When SOVALDI is used in combination with peginterferon/ribavirin or ribavirin, patients must be advised of the teratogenic/embryocidal risks of ribavirin and should be advised that extreme care must be taken to avoid pregnancy in female patients and in female partners of male patients both during treatment and for 6 months after the completion of treatment [See Contraindications (4) and Warnings and Precautions (5.1)].
+When SOVALDI is used in combination with peginterferon/ribavirin or ribavirin, patients must be advised of the teratogenic/embryocidal risks of ribavirin and should be advised that extreme care must be taken to avoid pregnancy in female patients and in female partners of male patients both during treatment and for 6 months after the completion of treatment [See Contraindications (4) and Warnings and Precautions (5.2)].
 
 Women of childbearing potential and their male partners must use at least two forms of effective contraception during treatment and for 6 months after the treatment has been stopped; routine monthly pregnancy tests must be performed during this time.
 

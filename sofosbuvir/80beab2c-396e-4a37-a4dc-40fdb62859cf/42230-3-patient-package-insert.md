@@ -1,4 +1,4 @@
-# Patient Information SOVALDI™ (soh-VAHL-dee) (sofosbuvir) tablets
+# Patient Information SOVALDI® (soh-VAHL-dee) (sofosbuvir) tablets
 
 Read this Patient Information before you start taking SOVALDI and each time you get a refill.
 There may be new information.
@@ -56,6 +56,7 @@ Other medicines may affect how SOVALDI works.
 
 Especially tell your healthcare provider if you take any of the following medicines:
 
+- amiodarone (Cordarone®, Nexterone®, Pacerone®)
 - carbamazepine (Carbatrol®, Epitol®, Equetro®, Tegretol®)
 - oxcarbazepine (Trileptal®, Oxtellar XR™)
 - phenytoin (Dilantin®, Phenytek®)
