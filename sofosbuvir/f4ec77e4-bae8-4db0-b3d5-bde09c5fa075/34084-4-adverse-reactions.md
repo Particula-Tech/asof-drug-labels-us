@@ -33,3 +33,12 @@ Lipase Elevations: Transient, asymptomatic lipase elevations of greater than 3×
 
 Creatine Kinase: Creatine kinase was not assessed in Phase 3 trials of HARVONI.
 Isolated, asymptomatic creatine kinase elevations (Grade 3 or 4) have been previously reported in subjects treated with sofosbuvir in combination with ribavirin or peginterferon/ribavirin in other clinical trials.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of HARVONI.
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac Disorders
+
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with HARVONI [See Warnings and Precautions (5.1), Drug Interactions (7.2)]

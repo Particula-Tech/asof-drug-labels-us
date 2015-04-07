@@ -97,7 +97,7 @@ Population pharmacokinetics analysis in HCV-infected subjects indicated that cir
 Drug Interaction Studies
 
 Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
-P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.1)].
+P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.2)].
 Coadministration with drugs that inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS-331007 plasma concentration; HARVONI may be coadministered with P-gp and/or BCRP inhibitors.
 Neither ledipasvir nor sofosbuvir is a substrate for hepatic uptake transporters OCT1, OATP1B1, or OATP1B3.
 GS-331007 is not a substrate for renal transporters, including organic anion transporter OAT1 or OAT3, or organic cation transporter OCT2.

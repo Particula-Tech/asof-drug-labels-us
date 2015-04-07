@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Drug Interactions
 
 Inform patients that HARVONI may interact with other drugs.
-Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John's wort [see Warnings and Precautions (5.1) and Drug Interactions (7)].
+Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John's wort [see Warnings and Precautions (5.1, 5.2) and Drug Interactions (7)].
 
 Hepatitis C Virus Transmission
 

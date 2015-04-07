@@ -34,6 +34,7 @@ Especially tell your healthcare provider if you take any of the following medici
 
 - an antacid that contains aluminum or magnesium hydroxide.
   If you take an antacid during treatment with HARVONI, take the antacid 4 hours before or 4 hours after you take HARVONI.
+- amiodarone (Cordarone®, Nexterone® Pacerone®)
 - carbamazepine (Carbatrol®, Epitol®, Equetro®, Tegretol®)
 - digoxin (Lanoxin®)
 - efavirenz, emtricitabine, tenofovir disoproxil fumarate (ATRIPLA®)
