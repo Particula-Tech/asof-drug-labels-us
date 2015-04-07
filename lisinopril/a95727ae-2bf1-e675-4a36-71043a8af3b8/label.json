@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA019777"
+  ],
+  "inn": "lisinopril",
+  "labeler": "ALMATICA PHARMA INC.",
+  "package_ndcs": [
+    "52427-438-90",
+    "52427-439-90",
+    "52427-440-90",
+    "52427-441-90",
+    "52427-442-90",
+    "52427-443-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril",
+      "name": "Zestril"
+    }
+  ],
+  "setid": "a95727ae-2bf1-e675-4a36-71043a8af3b8",
+  "source": "dailymed"
+}
