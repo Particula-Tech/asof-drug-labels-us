@@ -11,16 +11,22 @@ OXYCODONE HYDROCHLORIDE TABLETS USP
 Each tablet contains: Oxycodone Hydrochloride USP.......
 5 mg Rx only
 
-Mallinckrodt
+Mallinckrodt™
+
+L00O06 Rev 10/2014
 
 # Package Label - Principal Display Panel - 15 mg Tablets
 
 NDC 0406-8515-01 100 TABLETS
 
 OXYCODONE HYDROCHLORIDE TABLETS USP 15 mg CII Each tablet contains: Oxycodone Hydrochloride USP.......
-15 mg Rx only Mallinckrodt
+15 mg Rx only Mallinckrodt™
+
+L00O08 Rev 10/2014
 
 # Package Label - Principal Display Panel - 30 mg Tablets
 
 NDC 0406-8530-01 100 TABLETS OXYCODONE HYDROCHLORIDE TABLETS USP 30 mg CII Each tablet contains: Oxycodone Hydrochloride USP.......
-30 mg Rx only Mallinckrodt
+30 mg Rx only Mallinckrodt™
+
+L00O09 Rev 10/2014

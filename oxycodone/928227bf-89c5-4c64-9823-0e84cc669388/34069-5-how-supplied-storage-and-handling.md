@@ -9,12 +9,14 @@ NDC 0406-0552-62
 Each Oxycodone Hydrochloride Tablet USP 15 mg is available as a light green round convex tablet with a on one side and “15” above a bisect on the other.
 
 Bottles of 100........................
-NDC 0406-8515-01
+NDC 0406-8515-01 Unit Dose (10 x 10)................
+NDC 0406-8515-62
 
 Each Oxycodone Hydrochloride Tablet USP 30 mg is available as a light blue round convex tablet with a on one side and “30” above a bisect on the other.
 
 Bottles of 100........................
-NDC 0406-8530-01
+NDC 0406-8530-01 Unit Dose (10 x 10)................
+NDC 0406-8530-62
 
 ## DEA Order Form Required
 
@@ -27,10 +29,12 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 To request medical information or to report suspected adverse reactions, contact Product Monitoring at 1-800-778-7898.
 
-is a trademark of Mallinckrodt Inc.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
 
-Mallinckrodt Inc., Hazelwood, MO 63042 USA.
+© 2014 Mallinckrodt.
 
-COVIDIEN™ Mallinckrodt
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Printed in U.S.A. Rev 05/2009
+Rev 10/2014
+
+Mallinckrodt™ Pharmaceuticals
