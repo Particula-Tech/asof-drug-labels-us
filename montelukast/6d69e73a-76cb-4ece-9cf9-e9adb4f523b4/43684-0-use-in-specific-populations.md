@@ -19,8 +19,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of montelukast sodium have been established in adequate and well-controlled studies in pediatric patients with asthma 6 to 14 years of age.
-Safety and efficacy profiles in this age group are similar to those seen in adults [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY, Special Populations (12.3), AND CLINICAL STUDIES (14.1, 14.2)].
+Safety and efficacy of montelukast sodium have been established in adequate and well-controlled studies in pediatric patients with asthma 2 to 14 years of age.
+Safety and efficacy profiles in this age group are similar to those seen in adults [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY, Special Populations (12.3), andCLINICAL STUDIES (14.1, 14.2)].
 
 The efficacy of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 2 to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
 
@@ -31,16 +31,12 @@ Efficacy in this age group is supported by exploratory efficacy assessments from
 The safety of montelukast sodium chewable tablets, 4 mg and 5 mg in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
 A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see ADVERSE REACTIONS (6.1)].
 
-The safety and effectiveness in pediatric patients below the age of 12 months with asthma and 6 months with perennial allergic rhinitis have not been established.
-The safety and effectiveness in pediatric patients below the age of 6 years with exercise-induced bronchoconstriction have not been established.
-
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
 
 Growth Rate in Pediatric Patients
 
 A 56-week, multi-center, double-blind, randomized, active- and placebo-controlled parallel group study was conducted to assess the effect of montelukast sodium on growth rate in 360 patients with mild asthma, aged 6 to 8 years.
-Treatment groups included montelukast 5 mg once daily, placebo, and beclomethasone dipropionate administered as 168 mcg twice daily with a spacer device.
+Treatment groups included montelukast sodium 5 mg once daily, placebo, and beclomethasone dipropionate administered as 168 mcg twice daily with a spacer device.
 For each subject, a growth rate was defined as the slope of a linear regression line fit to the height measurements over 56 weeks.
 The primary comparison was the difference in growth rates between montelukast sodium and placebo groups.
 Growth rates, expressed as least-squares (LS) mean (95% CI) in cm/year, for the montelukast sodium, placebo, and beclomethasone treatment groups were 5.67 (5.46, 5.88), 5.64 (5.42, 5.86), and 4.86 (4.64, 5.08), respectively.

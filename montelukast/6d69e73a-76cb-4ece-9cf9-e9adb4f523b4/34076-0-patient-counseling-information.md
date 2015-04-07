@@ -19,6 +19,8 @@ Patient Information
 
 Montelukast Sodium Tablets
 
+(mon-tell-OO-kast)
+
 Read the Patient Information Leaflet that comes with montelukast sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
@@ -31,12 +33,12 @@ What is montelukastsodiumtablet?
 
 Montelukast sodium tablet is used to:
 
-- 1.Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.
-- Do not take montelukast sodium tablets if you need relief right away for a sudden asthma attack.
-  If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
-- 2.Prevent exercise-induced asthma in people 15 years of age and older.
-- 3.Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
-  Montelukast sodium tablet is used to treat:
+1. 1.Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.
+2. Do not take montelukast sodium tablets if you need relief right away for a sudden asthma attack.
+   If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
+3. 2.Prevent exercise-induced asthma in people 6 years of age and older.
+4. 3.Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
+   Montelukast sodium tablet is used to treat:
 
 - •outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
 - •indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 2 years and older.
@@ -74,7 +76,7 @@ For anyone who takes montelukastsodiumtablets:
 - •You can take montelukast sodium tablets with food or without food.
 - •If you or your child misses a dose of montelukast sodiumtablets just take the next dose at your regular time.
   Do not take 2 doses at the same time.
-- •If you take too much montelukast sodium tablets call your healthcare provider or a Poison Control Center right away.
+- •If you take too many montelukast sodium tablets call your healthcare provider or a Poison Control Center right away.
 
 For adults and children 2 years of age and older with asthma:
 
@@ -86,7 +88,7 @@ For adults and children 2 years of age and older with asthma:
 - •Always have your rescue inhaler medicine with you for asthma attacks.
 - •Do not stop taking or lower the dose of your other asthma medicines unless your healthcare provider tells you to.
 
-For patients 15 years of age and older for the prevention of exercise-induced asthma:
+For patients 6 years of age and older for the prevention of exercise-induced asthma:
 
 - •Take montelukast sodium tablets at least 2 hours before exercise.
 - •Always have your rescue inhaler medicine with you for asthma attacks.
@@ -133,9 +135,7 @@ Montelukast sodiumtablets may cause serious side effects.
 - •Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
   Rarely, this can happen in people with asthma who take montelukast sodium tablets.
   This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
-
-Tell your healthcare provider right away if you get one or more of these symptoms:
-
+  Tell your healthcare provider right away if you get one or more of these symptoms:
 - •a feeling of pins and needles or numbness of arms or legs
 - •a flu-like illness
 - •rash
@@ -166,6 +166,7 @@ Other side effects with montelukast sodiumtablets include:
 - •hepatitis
 - •bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - •joint pain, muscle aches and muscle cramps
+- •bedwetting in children
 - •tiredness, swelling
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -209,12 +210,9 @@ The artificial cherry durarome flavor contain: artificial flavors, maltodextrin,
 
 The cherry flavor contain: artificial flavors, benzyl alcohol, lactic acid, and maltodextrin.
 
-Pediatric use information for patients ages 6 to 14 years of age for prevention of exercise-induced asthma is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 Manufactured in India by Sandoz Private Ltd.
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-January 2014
+February 2015
