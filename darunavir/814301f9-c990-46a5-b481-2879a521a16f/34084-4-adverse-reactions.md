@@ -21,7 +21,7 @@ ADRs to PREZISTA/ritonavir 800/100 mg once daily of at least moderate intensity 
 
 Table 7: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 800/100 mg Once DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥ Grade 2) Occurring in ≥ 2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects
 
-| System Organ Class, Preferred Term, % | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
+| System Organ Class, Preferred Term, % | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C211 |  |
 | Gastrointestinal Disorders |  |  |
@@ -124,7 +124,7 @@ ADRs to PREZISTA/ritonavir 600/100 mg twice daily of at least moderate intensity
 
 Table 9: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥ Grade 2) Occurring in ≥ 2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects
 
-| System Organ Class, Preferred Term, % | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
+| System Organ Class, Preferred Term, % | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C214 |  |
 | Gastrointestinal Disorders |  |  |
@@ -233,7 +233,7 @@ Grade 3 or 4 laboratory abnormalities were ALT increased (Grade 3: 3%; Grade 4: 
 
 Study TMC114-C228
 
-Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 5%), were diarrhea (24%), vomiting (19%),rash (19%), abdominal pain (5%) and anorexia (5%).
+Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 5%), were diarrhea (24%), vomiting (19%), rash (19%), abdominal pain (5%) and anorexia (5%).
 
 There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this study.
 
@@ -252,4 +252,4 @@ Redistribution of body fat has been reported.
 
 Rarely, rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA/ritonavir) has been reported.
 
-In addition, toxic epidermal necrolysis,acute generalized exanthematous pustulosis and drug rash with eosinophilia and systemic symptoms have been reported rarely [see Warnings and Precautions (5.3)].
+In addition, toxic epidermal necrolysis, acute generalized exanthematous pustulosis and drug rash with eosinophilia and systemic symptoms have been reported rarely [see Warnings and Precautions (5.3)].

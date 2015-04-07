@@ -75,7 +75,7 @@ Do not take PREZISTA with any of the following medicines:
 
 - alfuzosin (Uroxatral®)
 - ergot-containing medicines: dihydroergotamine (D.H.E.
-  45®, Embolex®, Migranal®), ergotamine (Cafergot®,Ergomar®) methylergonovine
+  45®, Embolex®, Migranal®), ergotamine (Cafergot®, Ergomar®) methylergonovine
 - cisapride
 - pimozide (Orap®)
 - oral midazolam (Versed®), triazolam (Halcion®)
@@ -146,6 +146,7 @@ The generic name is provided, followed by examples of possible brand names for t
 - phenytoin (Dilantin®, Phenytek®)
 - pravastatin (Pravachol®),
 - propafenone (Rythmol®)
+- quetiapine (Seroquel®)
 - quinidine (Nuedexta®)
 - rifabutin (Mycobutin®)
 - risperidone (Risperdal®)
@@ -266,7 +267,7 @@ Active ingredient: darunavir
 
 Inactive ingredients:
 
-PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment), purified water.
+PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethyl cellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment), purified water.
 
 PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
 The film coating contains: OPADRY® White (polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
@@ -286,10 +287,10 @@ PREZISTA Tablets Janssen Ortho LLC, Gurabo, PR 00778
 
 Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
+Revised: March 2015
+
 NORVIR® is a registered trademark of its respective owner.
 
 PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
-
-Revised: April 2014

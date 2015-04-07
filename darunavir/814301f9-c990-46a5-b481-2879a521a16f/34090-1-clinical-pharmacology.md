@@ -27,7 +27,7 @@ Table 12 displays the population pharmacokinetic estimates of darunavir after or
 
 Table 12: Population Pharmacokinetic Estimates of Darunavir at PREZISTA/ritonavir 800/100 mg Once Daily (Study TMC114-C211, 48-Week Analysis and Study TMC114-C229, 48-Week Analysis) and PREZISTA/ritonavir 600/100 mg Twice Daily (Study TMC114-C214, 48-Week Analysis, Study TMC114-C229, 48-Week Analysis and Integrated Data from Studies TMC114-C213 and TMC114-C202, Primary 24-Week Analysis)
 
-| Parameter | Study TMC114-C211 PREZISTA/ ritonavir 800/100 mg once daily N = 335 | Study TMC114-C229 PREZISTA/ ritonavir 800/100 mg once daily N = 280 | Study TMC114-C214 PREZISTA/ ritonavir 600/100 mg twice daily N = 285 | Study TMC114-C229 PREZISTA/ ritonavir 600/100 mg twice daily N = 278 | Studies TMC114-C213 and TMC114-C202 (integrated data) PREZISTA/ ritonavir 600/100 mg twice daily N =119 |
+| Parameter | Study TMC114-C211 PREZISTA/ ritonavir 800/100 mg once daily N=335 | Study TMC114-C229 PREZISTA/ ritonavir 800/100 mg once daily N=280 | Study TMC114-C214 PREZISTA/ ritonavir 600/100 mg twice daily N=285 | Study TMC114-C229 PREZISTA/ ritonavir 600/100 mg twice daily N=278 | Studies TMC114-C213 and TMC114-C202 (integrated data) PREZISTA/ ritonavir 600/100 mg twice daily N=119 |
 | --- | --- | --- | --- | --- | --- |
 | AUC24h (ng∙h/mL)AUC24h is calculated as AUC12h*2 |  |  |  |  |  |
 | Mean ± Standard Deviation | 93026 ± 27050 | 93334 ± 28626 | 116796 ± 33594 | 114302 ± 32681 | 124698 ± 32286 |
@@ -35,7 +35,7 @@ Table 12: Population Pharmacokinetic Estimates of Darunavir at PREZISTA/ritonavi
 | C0h (ng/mL) |  |  |  |  |  |
 | Mean ± Standard Deviation | 2282 ± 1168 | 2160 ± 1201 | 3490 ± 1401 | 3386 ± 1372 | 3578 ± 1151 |
 | Median (Range) | 2041 (368–7242) | 1896 (184–7881) | 3307 (1517–13198) | 3197 (250–11865) | 3539 (1255–7368) |
-| N = number of subjects with data |  |  |  |  |  |
+| N=number of subjects with data |  |  |  |  |  |
 
 Absorption and Bioavailability
 
@@ -118,16 +118,16 @@ The population pharmacokinetic parameters in pediatric subjects with PREZISTA/ri
 
 Table 13: Population Pharmacokinetic Estimates of Darunavir Exposure (Study TMC114-C230, Study TMC114-C212 and Study TMC114-C228) Following Administration of Doses in Tables 2 and 3
 
-| 10 to less than 15 kgCalculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N = 10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the - Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily. N = 13 |  |  |  |
+| 10 to less than 15 kgCalculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N=10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the - Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily. N=13 |  |  |  |
 | --- | --- | --- | --- | --- |
-| Parameter | Study TMC114-C230 PREZISTA/ritonavir once dailySummary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg q.d. in treatment-naïve HIV-1 infected subjects from 12 to < 18 years of age –Week-48 Analyses N = 12 | Study TMC114-C212 PREZISTA/ ritonavir twice daily N = 74 | Study TMC114-C228 PREZISTA/ ritonavir twice dailySubjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
+| Parameter | Study TMC114-C230 PREZISTA/ritonavir once dailySummary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg q.d. in treatment-naïve HIV-1 infected subjects from 12 to < 18 years of age –Week-48 Analyses N=12 | Study TMC114-C212 PREZISTA/ ritonavir twice daily N=74 | Study TMC114-C228 PREZISTA/ ritonavir twice dailySubjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
 | AUC24h (ng∙h/mL) AUC24h is calculated as AUC12h*2 |  |  |  |  |
 | Mean ± Standard Deviation | 84390 ± 23587 | 126377 ± 34356 | 137896 ± 51420 | 157760 ± 54080 |
 | Median (Range) | 86741 (35527–123325) | 127340 (67054–230720) | 124044 (89688–261090) | 132698 (112310 – 294840) |
 | C0h (ng/mL) |  |  |  |  |
 | Mean ± Standard Deviation | 2141 ± 865 | 3948 ± 1363 | 4510 ± 2031 | 4848 ± 2143 |
 | Median (Range) | 2234 (542–3776) | 3888 (1836–7821) | 4126 (2456–9361) | 3927 (3046 – 10292) |
-| N = number of subjects with data. |  |  |  |  |
+| N=number of subjects with data. |  |  |  |  |
 
 Drug Interactions
 
@@ -165,8 +165,8 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Rilpivirine | 150 mg q.d. | 800/100 mg q.d. | 15 | ↔ | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Tenofovir Disoproxil Fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.16 (0.94–1.42) | 1.21 (0.95–1.54) | 1.24 (0.90–1.69) |
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
-| BoceprevirAUC is AUC(0-last); N = 10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
-| Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N = 14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
+| BoceprevirAUC is AUC(0-last); N=10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
+| Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N=14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Artemether/ Lumefantrine | 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 14 | ↔ | 1.00 (0.93–1.07) | 0.96 (0.90–1.03) | 0.87 (0.77–0.98) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
@@ -177,7 +177,7 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Ranitidine | 150 mg b.i.d. | 400/100 mg b.i.d. | 16 | ↔ | 0.96 (0.89–1.05) | 0.95 (0.90–1.01) | 0.94 (0.90–0.99) |
 | Rifabutin | 150 mg q.o.d. q.o.d. = every other day | 600/100 mg b.i.d. | 11 | ↑ | 1.42 (1.21–1.67) | 1.57 (1.28–1.93) | 1.75 (1.28–2.37) |
 | Sertraline | 50 mg q.d. | 400/100 mg b.i.d. | 13 | ↔ | 1.01 (0.89–1.14) | 0.98 (0.84–1.14) | 0.94 (0.76–1.16) |
-| N = number of subjects with data |  |  |  |  |  |  |  |
+| N=number of subjects with data |  |  |  |  |  |  |  |
 
 Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Darunavir/Ritonavir
 
@@ -205,8 +205,8 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. | 12 | ↑ | 2.29 (1.46–3.59) | 4.05 (2.94–5.59) | 8.00 (6.35–10.1) |
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. with 200 mg b.i.d. etravirine | 10 | ↑ | 1.77 (1.20–2.60) | 3.10 (2.57–3.74) | 5.27 (4.51–6.15) |
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
-| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 12N = 11 for the test arm | ↓ | 0.75 (0.67–0.85) | 0.68 (0.65–0.72) | 0.65 (0.56–0.76) |
-| Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N = 14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
+| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 12N=11 for the test arm | ↓ | 0.75 (0.67–0.85) | 0.68 (0.65–0.72) | 0.65 (0.56–0.76) |
+| Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N=14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Atorvastatin | 40 mg q.d. when administered alone | 300/100 mg b.i.d. | 15 | ↑ | 0.56 (0.48–0.67) | 0.85 (0.76–0.97) | 1.81 (1.37–2.40) |
 |  | 10 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
@@ -238,7 +238,7 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 |  | 25 mg (single dose) when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | S-warfarin | 10 mg single dose | 600/100 mg b.i.d. | 12 | ↓ | 0.92 (0.86–0.97) | 0.79 (0.73–0.85) | - |
 | 7-OH-S-warfarin |  |  | 12 | ↑ | 1.42 (1.24–1.63) | 1.23 (0.97–1.57) | - |
-| N = number of subjects with data;- = no information available |  |  |  |  |  |  |  |
+| N=number of subjects with data;- = no information available |  |  |  |  |  |  |  |
 | A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of darunavir/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 15. |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology

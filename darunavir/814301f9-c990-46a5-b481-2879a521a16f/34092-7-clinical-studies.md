@@ -22,7 +22,7 @@ Table 18 compares the demographic and baseline characteristics between subjects 
 
 Table 18: Demographic and Baseline Characteristics of Subjects in Study TMC114-C211
 
-| PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |  |
+| PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |  |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C211 |  |
 | Demographic Characteristics |  |  |
@@ -45,7 +45,7 @@ Week 192 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from 
 
 Table 19: Virologic Outcome of Randomized Treatment of Study TMC114-C211 at 192 Weeks
 
-|  | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
+|  | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N=343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N=346 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA < 50 copies/mL | 70%95% CI: 1.9; 16.1 | 61% |
 | Virologic failureIncludes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥ 50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol | 12% | 15% |
@@ -53,7 +53,7 @@ Table 19: Virologic Outcome of Randomized Treatment of Study TMC114-C211 at 192 
 | Discontinued study due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window | 5% | 13% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL | 13% | 12% |
 | Missing data during window but on study | < 1% | 0% |
-| N = total number of subjects with data |  |  |
+| N=total number of subjects with data |  |  |
 
 In Study TMC114-C211 at 192 weeks of treatment, the median increase from baseline in CD4+ cell counts was 258 cells/mm3 in the PREZISTA/ritonavir 800/100 mg once daily arm and 263 cells/mm3 in the lopinavir/ritonavir 800/200 mg per day arm.
 Of the PREZISTA/ritonavir subjects with a confirmed virologic response of < 50 copies/mL at Week 48, 81% remained undetectable at Week 192 versus 68% with lopinavir/ritonavir.
@@ -76,7 +76,7 @@ No imbalances between the 2 arms were noted.
 
 Table 20: Demographic and Baseline Characteristics of Subjects in Study TMC114-C229
 
-| PREZISTA/ritonavir 800/100 mg once daily + OBR N = 294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 296 |  |
+| PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 |  |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C229 |  |
 | Demographic Characteristics |  |  |
@@ -114,7 +114,7 @@ Week 48 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from S
 
 Table 21: Virologic Outcome of Randomized Treatment of Study TMC114-C229 at 48 Weeks
 
-| PREZISTA/ritonavir 800/100 mg once daily + OBR N = 294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 296 |  |
+| PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 |  |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C229 |  |
 | Virologic success HIV-1 RNA < 50 copies/mL | 69% | 69% |
@@ -123,7 +123,7 @@ Table 21: Virologic Outcome of Randomized Treatment of Study TMC114-C229 at 48 W
 | Discontinued study due to adverse event or deathPatients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 3% | 4% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL. | 2% | 3% |
 | Missing data during window but on study | 0% | < 1% |
-| N = total number of subjects with data |  |  |
+| N=total number of subjects with data |  |  |
 
 The mean increase from baseline in CD4+ cell counts was comparable for both treatment arms (108 cells/mm3 and 112 cells/mm3 in the PREZISTA/ritonavir 800/100 mg once daily arm and the PREZISTA/ritonavir 600/100 mg twice daily arm, respectively).
 
@@ -141,7 +141,7 @@ Table 22 compares the demographic and baseline characteristics between subjects 
 
 Table 22: Demographic and Baseline Characteristics of Subjects in Study TMC114-C214
 
-| PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |  |
+| PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |  |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C214 |  |
 | Demographic Characteristics |  |  |
@@ -179,7 +179,7 @@ Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from 
 
 Table 23: Virologic Outcome of Randomized Treatment of Study TMC114-C214 at 96 Weeks
 
-|  | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
+|  | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA < 50 copies/mL | 58% | 52% |
 | Virologic failureIncludes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥ 50 copies in the 96-week window and patients who had a change in their OBR that was not permitted by the protocol. | 26% | 33% |
@@ -187,7 +187,7 @@ Table 23: Virologic Outcome of Randomized Treatment of Study TMC114-C214 at 96 W
 | Discontinued study due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 7% | 8% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL. | 8% | 7% |
 | Missing data during window but on study | 1% | < 1% |
-| N = total number of subjects with data |  |  |
+| N=total number of subjects with data |  |  |
 
 In Study TMC114-C214 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 81 cells/mm3 in the PREZISTA/ritonavir 600/100 mg twice daily arm and 93 cells/mm3 in the lopinavir/ritonavir 400/100 mg twice daily arm.
 
@@ -210,7 +210,7 @@ Table 24 compares the demographic and baseline characteristics between subjects 
 
 Table 24: Demographic and Baseline Characteristics of Subjects in the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)
 
-| PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 131 | Comparator PI(s) + OBR N = 124 |  |
+| PREZISTA/ritonavir 600/100 mg twice daily + OBR N=131 | Comparator PI(s) + OBR N=124 |  |
 | --- | --- | --- |
 |  | Randomized Studies TMC114-C213 and TMC114-C202 |  |
 | Demographic Characteristics |  |  |
@@ -291,7 +291,7 @@ Treatment-experienced pediatric subjects between the ages of 3 and less than 6 y
 Twenty-one subjects received at least one dose of PREZISTA/ritonavir.
 
 The 21 subjects had a median age of 4.4 years (range 3 to less than 6 years), and were 48% male, 57% Black, 29%, Caucasian and 14% other.
-The mean baseline plasma HIV-1 was 4.34 log10 copies/mL, the median baseline CD4+ cell count was 927 × 106 cells/l (range: 209 to 2,429 × 106 cells/l) and the median baseline CD4+ percentage was 27.7% (range: 15.6% to 51.1%).
+The mean baseline plasma HIV-1 was 4.34 log10 copies/mL, the median baseline CD4+ cell count was 927 × 106 cells/L (range: 209 to 2,429 × 106 cells/L) and the median baseline CD4+ percentage was 27.7% (range: 15.6% to 51.1%).
 Overall, 24% of subjects had a baseline plasma HIV-1 RNA greater than or equal to 100,000 copies/mL.
 All subjects had used greater than or equal to 2 NRTIs, 62% of subjects had used greater than or equal to 1 NNRTI and 76% had previously used at least one HIV PI.
 

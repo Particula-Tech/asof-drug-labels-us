@@ -44,10 +44,18 @@ Darunavir contains a sulfonamide moiety.
 PREZISTA should be used with caution in patients with a known sulfonamide allergy.
 In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash were similar in subjects with or without a history of sulfonamide allergy.
 
-## 5.5 Drug Interactions
+## 5.5 Risk of Serious Adverse Reactions due to Drug Interactions
 
-See Table 6 for a listing of drugs that are contraindicated for use with PREZISTA/ritonavir due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
-Please refer to Table 11 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
+Initiation of PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PREZISTA/ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of PREZISTA/ritonavir, respectively.
+These interactions may lead to:
+
+- Clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
+- Clinically significant adverse reactions from greater exposures of PREZISTA/ritonavir.
+- Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance.
+
+See Table 11 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.6 Diabetes Mellitus / Hyperglycemia
 
@@ -83,4 +91,4 @@ Because the potential for HIV cross-resistance among PIs has not been fully expl
 
 ## 5.11 Pediatric Patients
 
-Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4) Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
+Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].

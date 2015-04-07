@@ -1,7 +1,7 @@
 # 4 CONTRAINDICATIONS
 
 Co-administration of PREZISTA/ritonavir is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events (narrow therapeutic index).
-These drugs and other contraindicated drugs (which may lead to reduced efficacy of darunavir) are listed in Table 6 [also see Drug Interactions (7.3),Table 11].
+These drugs and other contraindicated drugs (which may lead to reduced efficacy of darunavir) are listed in Table 6 [also see Drug Interactions (7.3), Table 11].
 
 Table 6: Drugs That Are Contraindicated With PREZISTA/ritonavir
 

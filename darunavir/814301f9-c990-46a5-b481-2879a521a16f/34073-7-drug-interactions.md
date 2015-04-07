@@ -18,7 +18,7 @@ Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A 
 Table 11 provides dosing recommendations as a result of drug interactions with PREZISTA/ritonavir.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
 
-Table 11:Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 14 and 15]
+Table 11: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 14 and 15]
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Darunavir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
@@ -45,6 +45,7 @@ Table 11:Established and Other Potentially Significant Drug Interactions: Altera
 | Antimalarials: artemether/lumefantrine | ↓ artemether ↓ dihydroartemisinin ↑ lumefantrine ↔ darunavir | The combination of PREZISTA and artemether/lumefantrine can be used without dose adjustments. However, the combination should be used with caution as increased lumefantrine exposure may increase the risk of QT prolongation. |
 | Antimycobacterial: rifabutin | ↑ darunavir ↑ rifabutin ↑ 25-O-desacetylrifabutin | Dose reduction of rifabutin by at least 75% of the usual dose (300 mg once daily) is recommended (i.e., a maximum dose of 150 mg every other day). Increased monitoring for adverse events is warranted in patients receiving this combination and further dose reduction of rifabutin may be necessary. |
 | The reference regimen for rifabutin was 300 mg once daily |  |  |
+| Antipsychotics: quetiapine | ↑ quetiapine | Initiation of PREZISTA with ritonavir in patients taking quetiapine: Consider alternative antiretroviral therapy to avoid increases in quetiapine exposures. If co-administration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring. Initiation of quetiapine in patients taking PREZISTA with ritonavir: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. |
 | β-Blockers: e.g. metoprolol, timolol | ↑ beta-blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with PREZISTA/ritonavir. |
 | Calcium Channel Blockers: e.g. felodipine, nifedipine, nicardipine | ↑ calcium channel blockers | Plasma concentrations of calcium channel blockers (e.g., felodipine, nifedipine, nicardipine) may increase when PREZISTA/ritonavir are co-administered. Caution is warranted and clinical monitoring of patients is recommended. |
 | Corticosteroid: Systemic: dexamethasone | ↓ darunavir | Systemic dexamethasone induces CYP3A and can thereby decrease darunavir plasma concentrations. This may result in loss of therapeutic effect to PREZISTA. |
