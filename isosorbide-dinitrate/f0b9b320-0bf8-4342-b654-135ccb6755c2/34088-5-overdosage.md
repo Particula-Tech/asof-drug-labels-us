@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Hemodynamic Effects:
+## Hemodynamic Effects
 
 The ill effects of isosorbide dinitrate overdose are generally the results of isosorbide dinitrate’s capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
 These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
@@ -22,7 +22,7 @@ The use of epinephrine or other arterial vasoconstrictors in this setting is lik
 In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard.
 Treatment of isosorbide dinitrate overdose in these patients may be subtle and difficult, and invasive monitoring may be required.
 
-## Methemoglobinemia:
+## Methemoglobinemia
 
 Nitrate ions liberated during metabolism of isosorbide dinitrate can oxidize hemoglobin into methemoglobin.
 Even in patients totally without cytochrome b5 reductase activity, however and even assuming that the nitrate moieties of isosorbide dinitrate are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of isosorbide dinitrate should be required before any of these patients manifests clinically significant (≥10%) methemoglobinemia.

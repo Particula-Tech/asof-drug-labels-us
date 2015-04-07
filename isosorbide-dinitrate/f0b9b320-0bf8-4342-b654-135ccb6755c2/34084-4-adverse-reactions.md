@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 Adverse reactions to isosorbide dinitrate are generally dose-related, and almost all of these reactions are the result of isosorbide dinitrate’s activity as a vasodilator.
 Headache, which may be severe, is the most commonly reported side effect.
@@ -10,6 +10,6 @@ Syncope, crescendo angina, and rebound hypertension have been reported but are u
 Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients.
 Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE).
 
-Data are not available to allow estimation of the frequency of adverse reactions during treatmentwith Isosorbide Dinitrate Tablets (oral).
+Data are not available to allow estimation of the frequency of adverse reactions during treatment with isosorbide dinitrate tablets.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

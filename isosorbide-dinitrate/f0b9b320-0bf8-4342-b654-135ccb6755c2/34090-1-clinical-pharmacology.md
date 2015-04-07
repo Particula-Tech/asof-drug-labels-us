@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 The principal pharmacological action of isosorbide dinitrate is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter.
 Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload).
@@ -13,7 +13,7 @@ In the large majority of these trials, active agents were no more effective than
 Attempts to overcome nitrate tolerance by dose escalation, even to doses far in excess of those used acutely, have consistently failed.
 Only after nitrates have been absent from the body for several hours has their anti-anginal efficacy been restored.
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
 Absorption of isosorbide dinitrate after oral dosing is nearly complete, but bioavailability is highly variable (10% to 90%), with extensive first-pass metabolism in the liver.
 Serum levels reach their maxima about an hour after ingestion.
@@ -24,7 +24,7 @@ Since the clearance exceeds hepatic blood flow, considerable extrahepatic metabo
 Clearance is affected primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
 
 Both metabolites have biological activity, especially the 5-mononitrate.
-With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide; glucuronidation to the 5-mononitrate glucuronide; and denitration/hydration to sorbitol.
+With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide, glucuronidation to the 5-mononitrate glucuronide, and denitration/hydration to sorbitol.
 The 2-mononitrate has been less well studied, but it appears to participate in the same metabolic pathways, with a half-life of about 2 hours.
 
 The daily dose-free interval sufficient to avoid tolerance to organic nitrates has not been well defined.
@@ -35,10 +35,10 @@ Few well-controlled clinical trials of organic nitrates have been designed to de
 In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo.
 The incidence, magnitude, and clinical significance of similar phenomena in patients receiving ISDN have not been studied.
 
-## Clinical trials:
+## Clinical trials
 
 In clinical trials, immediate-release oral isosorbide dinitrate has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg.
-Controlled trials of single oral doses of ISDN have demonstrated effective reductions in exercise-related angina for up to 8 hours.
+Controlled trials of single oral doses of isosorbide dinitrate have demonstrated effective reductions in exercise-related angina for up to 8 hours.
 Anti-anginal activity is present about 1 hour after dosing.
 
 Most controlled trials of multiple-dose oral ISDN taken every 12 hours (or more frequently) for several weeks have shown statistically significant anti-anginal efficacy for only 2 hours after dosing.
@@ -46,5 +46,5 @@ Once-daily regimens, and regimens with one daily dose-free interval of at least 
 The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first.
 
 From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours.
-No dosing regimen for isosorbide dinitrate has, however, ever actually been shown to achieve this duration of effect.
+No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect.
 One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24-hour period.

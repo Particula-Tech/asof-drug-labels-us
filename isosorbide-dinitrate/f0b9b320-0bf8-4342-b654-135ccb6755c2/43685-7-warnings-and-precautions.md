@@ -1,6 +1,6 @@
-# WARNINGS:
+# WARNINGS
 
-Amplification of the vasodilatory effects of Isosorbide Dinitrate Tablets (oral) by sildenafil can result in severe hypotension.
+Amplification of the vasodilatory effects of isosorbide dinitrate tablets by sildenafil can result in severe hypotension.
 The time course and dose dependence of this interaction have not been studied.
 Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
 
@@ -8,9 +8,9 @@ The benefits of immediate-release oral isosorbide dinitrate in patients with acu
 If one elects to use isosorbide dinitrate in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
 Because the effects of oral isosorbide dinitrate are so difficult to terminate rapidly, this formulation is not recommended in these settings.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
-## General:
+## General
 
 Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide dinitrate.
 This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.
@@ -38,33 +38,37 @@ Aspirin and/or acetaminophen, on the other hand, often successfully relieve isos
 Treatment with isosorbide dinitrate may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
 
-## Drug Interactions:
+## Drug Interactions
 
 The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators.
 Alcohol, in particular, has been found to exhibit additive effects of this variety.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Concomitant use of isosorbide dinitrate tablets with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS).
+
+Concomitant use of isosorbide dinitrate tablets with riociguat, a soluable cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
 In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
 
-## Pregnancy Category C:
+## Pregnancy Category C
 
 At oral doses 35 and 150 times the maximum recommended human daily dose, isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits.
 There are no adequate, well-controlled studies in pregnant women.
 Isosorbide dinitrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 It is not known whether isosorbide dinitrate is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when isosorbide dinitrate is administered to a nursing woman.
 
-## Pediatric Use:
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric Use:
+## Geriatric Use
 
-Clinical studies of isosorbide dinitrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of isosorbide dinitrate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
