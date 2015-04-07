@@ -61,7 +61,7 @@ Humalog®, Humalog KwikPen®, HumaPen®, HumaPen® Memoir™, HumaPen® Luxura®
 
 Other product and company names may be the trademarks of their respective owners.
 
-Literature revised February 25, 2015
+Literature revised March 12, 2015
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -70,4 +70,4 @@ www.humalog.com
 Copyright © 1996, 2015, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0001-USPI-20150225
+LOG-0001-USPI-20150312
