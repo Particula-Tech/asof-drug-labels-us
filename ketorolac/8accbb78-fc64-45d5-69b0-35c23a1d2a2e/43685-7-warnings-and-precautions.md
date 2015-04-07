@@ -2,12 +2,12 @@
 
 (See also Boxed WARNING.)
 
-The total combined duration of use of oral ketorolac tromethamine and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
+The total combined duration of use of oral ketorolac tromethamine and intravenous or intramuscular dosing of ketorolac tromethamine is not to exceed 5 days in adults.
 Ketorolac tromethamine is not indicated for use in pediatric patients.
 
 The most serious risks associated with ketorolac tromethamine are:
 
-- Gastrointestinal Effects – Risk of Ulceration, Bleeding and Perforation: Ketorolac tromethamine is contraindicated in patients with previously documented peptic ulcers and/or gastrointestinal (GI) bleeding.
+- •Gastrointestinal Effects – Risk of Ulceration, Bleeding and Perforation: Ketorolac tromethamine is contraindicated in patients with previously documented peptic ulcers and/or gastrointestinal (GI) bleeding.
   Ketorolac tromethamine can cause serious GI adverse events including bleeding, ulceration and perforation, of the stomach, small intestine, or large intestine, which can be fatal.
   These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with ketorolac tromethamine.
 
@@ -36,7 +36,7 @@ The concurrent use of ketorolac tromethamine and therapy that affects hemostasis
 Until data from such studies are available, physicians should carefully weigh the benefits against the risks, and use such concomitant therapy in these patients only extremely cautiously.
 Patients receiving therapy that affects hemostasis should be monitored closely.
 
-In postmarketing experience, postoperative hematomas and other signs of wound bleeding have been reported in association with the peri-operative use of IV or IM dosing of ketorolac tromethamine.
+In postmarketing experience, postoperative hematomas and other signs of wound bleeding have been reported in association with the peri-operative use of intravenous or intramuscular dosing of ketorolac tromethamine.
 Therefore, peri-operative use of ketorolac tromethamine should be avoided and postoperative use be undertaken with caution when hemostasis is critical (see PRECAUTIONS).
 
 Renal Effects
@@ -76,7 +76,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects– Risk of Ulceration, Bleeding, and Perforation).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
 Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 Hypertension
@@ -141,40 +141,27 @@ Information for Patients
 
 Ketorolac tromethamine is a potent NSAID and may cause serious side effects such as gastrointestinal bleeding or kidney failure, which may result in hospitalization and even fatal outcome.
 
-Physicians, when prescribing ketorolac tromethamine, should inform their patients or their guardians of the potential risks of ketorolac tromethamine treatment (see Boxed WARNING, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS sections), instruct patients to seek medical advice if they develop treatment-related adverse events, and advise patients not to give oral ketorolac tromethamine to other family members and to discard any unused drug.
-Remember that the total combined duration of use of oral ketorolac tromethamine and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
+Physicians, when prescribing ketorolac tromethamine, should inform their patients or their guardians of the potential risks of ketorolac tromethamine treatment (see Boxed WARNING, WARNINGS,PRECAUTIONS, and ADVERSE REACTIONS sections), instruct patients to seek medical advice if they develop treatment-related adverse events, and advise patients not to give oral ketorolac tromethamine to other family members and to discard any unused drug.
+Remember that the total combined duration of use of oral ketorolac tromethamine and intravenous or intramuscular dosing of ketorolac tromethamine is not to exceed 5 days in adults.
 Ketorolac tromethamine is not indicated for use in pediatric patients.
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-1.
-Ketorolac tromethamine, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-
-2.
-Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-
-3.
-Ketorolac tromethamine, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-
-4.
-Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-
-5.
-Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-
-6.
-Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-
-7.
-In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it will cause premature closure of the ductus arteriosus.
+- 1.Ketorolac tromethamine, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
+  Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
+- 2.Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+  Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
+- 3.Ketorolac tromethamine, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
+  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
+  Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+- 4.Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+  If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+- 6.Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+- 7.In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it will cause premature closure of the ductus arteriosus.
 
 Laboratory Tests
 
@@ -195,7 +182,7 @@ In vitro studies indicate that, at therapeutic concentrations of salicylate (300
 Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin and tolbutamide did not alter ketorolac tromethamine protein binding.
 
 In a study involving 12 adult volunteers, oral ketorolac tromethamine was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.
-In another study, ketorolac tromethamine dosed IV or IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.
+In another study, ketorolac tromethamine dosed intravenous or intramuscular was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.
 Although these results do not indicate a significant interaction between ketorolac tromethamine and warfarin or heparin, the administration of ketorolac tromethamine to patients taking anticoagulants should be done extremely cautiously and patients should be closely monitored (see WARNINGS and PRECAUTIONS – Hematologic Effects).
 
 The effects of warfarin and NSAIDs, in general, on GI bleeding are synergistic, such that the users of both drugs together have a risk of serious GI bleeding higher than the users of either drug alone.
@@ -250,7 +237,7 @@ When ketorolac tromethamine is administered concurrently with pentoxifylline, th
 
 Nondepolarizing Muscle Relaxants
 
-In postmarketing experience there have been reports of a possible interaction between ketorolac tromethamine IV/IM and nondepolarizing muscle relaxants that resulted in apnea.
+In postmarketing experience there have been reports of a possible interaction between ketorolac tromethamine intravenous /intramuscular and nondepolarizing muscle relaxants that resulted in apnea.
 The concurrent use of ketorolac tromethamine with muscle relaxants has not been formally studied.
 
 Selective Serotonin Reuptake Inhibitors (SSRIs)
@@ -260,7 +247,7 @@ Caution should be used when NSAIDs are administered concomitantly with SSRIs.
 
 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-An 18-month study in mice with oral doses of ketorolac tromethamine tablets at 2 mg/kg/day (0.9 times the human systemic exposure at the recommended IM or IV dose of 30 mg qid, based on area-under-the-plasma-concentration curve [AUC]), and a 24-month study in rats at 5 mg/kg/day (0.5 times the human AUC) showed no evidence of tumorigenicity.
+An 18-month study in mice with oral doses of ketorolac tromethamine tablets at 2 mg/kg/day (0.9 times the human systemic exposure at the recommended intramuscular or intravenous dose of 30 mg qid, based on area-under-the-plasma-concentration curve [AUC]), and a 24-month study in rats at 5 mg/kg/day (0.5 times the human AUC) showed no evidence of tumorigenicity.
 
 Ketorolac tromethamine was not mutagenic in the Ames test, unscheduled DNA synthesis and repair, and in forward mutation assays.
 Ketorolac tromethamine did not cause chromosome breakage in the in vivo mouse micronucleus assay.

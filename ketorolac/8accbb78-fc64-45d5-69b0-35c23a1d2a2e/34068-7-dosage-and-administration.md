@@ -2,15 +2,15 @@
 
 Carefully consider the potential benefits and risks of ketorolac tromethamine and other treatment options before deciding to use ketorolac tromethamine.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals.
-In adults, the combined duration of use of IV or IM dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
-In adults, the use of oral ketorolac tromethamine is only indicated as continuation therapy to IV or IM dosing of ketorolac tromethamine.
-See package insert for ketorolac tromethamine tablets for transition from IV or IM dosing of ketorolac tromethamine (single- or multiple-dose) to multiple-dose oral ketorolac tromethamine.
+In adults, the combined duration of use of intravenous or intramuscular dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
+In adults, the use of oral ketorolac tromethamine is only indicated as continuation therapy to intravenous or intramuscular dosing of ketorolac tromethamine.
+See package insert for ketorolac tromethamine tablets for transition from intravenous or intramuscular dosing of ketorolac tromethamine (single- or multiple-dose) to multiple-dose oral ketorolac tromethamine.
 
 Note: Oral formulation should not be given as an initial dose.
 
 Use minimum effective dose for the individual patient.
 
-Total duration of treatment in adult patients: the combined duration of use of IV or IM dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
+Total duration of treatment in adult patients: the combined duration of use of intravenous or intramuscular dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
 
 KETOROLAC TROMETHAMINE INJECTION
 
@@ -18,28 +18,28 @@ Ketorolac tromethamine injection may be used as a single or multiple dose on a r
 Hypovolemia should be corrected prior to the administration of ketorolac tromethamine (see WARNINGS – Renal Effects).
 Patients should be switched to alternative analgesics as soon as possible, but ketorolac tromethamine therapy is not to exceed 5 days.
 
-When administering ketorolac tromethamine injection, the IV bolus must be given over no less than 15 seconds.
-The IM administration should be given slowly and deeply into the muscle.
-The analgesic effect begins in ~30 minutes with maximum effect in 1 to 2 hours after dosing IV or IM.
+When administering ketorolac tromethamine injection, the intravenous bolus must be given over no less than 15 seconds.
+The intramuscular administration should be given slowly and deeply into the muscle.
+The analgesic effect begins in ~30 minutes with maximum effect in 1 to 2 hours after dosing intravenous or intramuscular.
 Duration of analgesic effect is usually 4 to 6 hours.
 
 Single-Dose Treatment: The following regimen should be limited to single administration use only
 
-IM Dosing
+Intramuscular Dosing
 
-- Patients <65 years of age: One dose of 60 mg.
-- Patients ≥65 years of age, renally impaired and/or less than 50 kg (110 lbs) of body weight: One dose of 30 mg.
+- •Patients <65 years of age: One dose of 60 mg.
+- •Patients ≥65 years of age, renally impaired and/or less than 50 kg (110 lbs) of body weight: One dose of 30 mg.
 
-IV Dosing
+Intravenous Dosing
 
-- Patients <65 years of age: One dose of 30 mg.
-- Patients ≥65 years of age, renally impaired and/or less than 50 kg (110 lbs) of body weight: One dose of 15 mg.
+- •Patients <65 years of age: One dose of 30 mg.
+- •Patients ≥65 years of age, renally impaired and/or less than 50 kg (110 lbs) of body weight: One dose of 15 mg.
 
-Multiple-Dose Treatment (IV or IM)
+Multiple-Dose Treatment (Intravenous or Intramuscular)
 
-- Patients <65 years of age: The recommended dose is 30 mg ketorolac tromethamine injection every 6 hours.
+- •Patients <65 years of age: The recommended dose is 30 mg ketorolac tromethamine injection every 6 hours.
   The maximum daily dose for these populations should not exceed 120 mg.
-- For patients ≥65 years of age, renally impaired patients (see WARNINGS), and patients less than 50 kg (110 lbs): The recommended dose is 15 mg ketorolac tromethamine injection every 6 hours.
+- •For patients ≥65 years of age, renally impaired patients (see WARNINGS), and patients less than 50 kg (110 lbs): The recommended dose is 15 mg ketorolac tromethamine injection every 6 hours.
   The maximum daily dose for these populations should not exceed 60 mg.
 
 For breakthrough pain, do not increase the dose or the frequency of ketorolac tromethamine.

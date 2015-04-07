@@ -10,15 +10,14 @@ In patients taking ketorolac tromethamine or other NSAIDs in clinical trials, th
 | --- | --- | --- |
 | abdominal pain | constipation/diarrhea | dyspepsia |
 | flatulence | GI fullness | GI ulcers (gastric/duodenal) |
-| gross bleeding/perforation | heartburn | nausea* |
+| gross bleeding/perforation | heartburn | nauseaIncidence greater than 10% |
 | stomatitis | vomiting |  |
 | Other experiences: |  |  |
 | abnormal renal function | anemia | dizziness |
 | drowsiness | edema | elevated liver enzymes |
-| headaches* | hypertension | increased bleeding time |
+| headaches | hypertension | increased bleeding time |
 | injection site pain | pruritus | purpura |
 | rashes | tinnitus | sweating |
-| *Incidence greater than 10% |  |  |
 
 Additional adverse experiences reported occasionally (<1% in patients taking ketorolac tromethamine or other NSAIDs in clinical trials) include:
 
@@ -71,12 +70,9 @@ Postmarketing Surveillance Study
 A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamine, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see Tables 3A and 3B).
 This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamine (see Table 3A).
 
-Table 3: Incidence of Clinically Serious G.I.
-Bleeding as Related to Age, Total Daily Dose, and History of G.I.
-Perforation, Ulcer, Bleeding (PUB) after up to 5 Days of Treatment with Ketorolac Tromethamine Injection
-
-| A. Adult Patients without History of PUB |  |  |  |  |  |
+| Table 3: Incidence of Clinically Serious G.I. Bleeding as Related to Age, Total Daily Dose, and History of G.I. Perforation, Ulcer, Bleeding (PUB) after up to 5 Days of Treatment with Ketorolac Tromethamine Injection |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| A. Adult Patients without History of PUB |  |  |  |  |  |
 | Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |  |
 | ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |  |
 | <65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |  |
