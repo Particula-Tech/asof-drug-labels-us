@@ -27,8 +27,3 @@
 100 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LAMICTAL” on one side and “100” on the other side.
 
 200 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LAMICTAL” on one side and “200” on the other side.
-
-## 3.4 Potential Medication Errors
-
-Patients should be strongly advised to visually inspect their tablets to verify that they are receiving LAMICTAL, as opposed to other medications, and that they are receiving the correct formulation of lamotrigine each time they fill their prescription.
-Depictions of the LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets can be found in the Medication Guide.

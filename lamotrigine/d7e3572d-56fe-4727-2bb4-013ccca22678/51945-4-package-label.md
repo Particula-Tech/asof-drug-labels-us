@@ -20,11 +20,13 @@ Each scored tablet contains 25 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
+Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -34,8 +36,8 @@ Made in India
 
 Rx only
 
-10000000128978 Rev.
-10/14
+10000000131786 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -59,11 +61,13 @@ Each scored tablet contains 100 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
+Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -73,8 +77,8 @@ Made in India
 
 Rx only
 
-10000000128979 Rev.
-10/14
+10000000131787 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -98,11 +102,13 @@ Each scored tablet contains 150 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
+Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -112,8 +118,8 @@ Made in India
 
 Rx only
 
-10000000128980 Rev.
-10/14
+10000000131788 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -137,11 +143,13 @@ Each scored tablet contains 200 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
+Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -151,8 +159,8 @@ Made in India
 
 Rx only
 
-10000000128981 Rev.
-10/14
+10000000131789 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -190,12 +198,12 @@ Dispense the enclosed Medication Guide to each patient.
 
 Do not use if blisters are torn, broken, or missing.
 
-GSK
-
 Made in India
 
-10000000130196 Rev.
-11/14
+©2015, the GSK group of companies
+
+10000000132067 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -237,12 +245,12 @@ Dispense the enclosed Medication Guide to each patient.
 
 Do not use if blisters are torn, broken, or missing.
 
-GSK
-
 Made in India
 
-10000000130195 Rev.
-11/14
+©2015, the GSK group of companies
+
+10000000132066 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -284,12 +292,12 @@ Dispense the enclosed Medication Guide to each patient.
 
 Do not use if blisters are torn, broken, or missing.
 
-GSK
-
 Made in India
 
-10000000130194 Rev.
-11/14
+©2015, the GSK group of companies
+
+10000000132065 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -313,11 +321,13 @@ Each tablet contains 2 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) in a dry place.
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -327,8 +337,8 @@ Made in India
 
 Rx only
 
-10000000128976 Rev.
-10/14
+10000000131783 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -352,11 +362,13 @@ Each tablet contains 5 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) in a dry place.
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -366,8 +378,8 @@ Made in India
 
 Rx only
 
-10000000128974 Rev.
-10/14
+10000000131781 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -391,11 +403,13 @@ Each tablet contains 25 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) in a dry place.
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+Distributed by
 
 GlaxoSmithKline
 
@@ -405,8 +419,8 @@ Made in India
 
 Rx only
 
-10000000128975 Rev.
-10/14
+10000000131782 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -436,10 +450,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129915 Rev.
-11/14
+10000000132456 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -469,10 +483,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129917 Rev.
-11/14
+10000000132458 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -502,10 +516,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129916 Rev.
-11/14
+10000000132457 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -535,10 +549,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129914Rev.
-11/14
+10000000132455 Rev.
+2/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -552,7 +566,7 @@ ORALLY DISINTEGRATING TABLETS
 
 Patient Titration Kit
 
-RX ONLY
+RX only
 
 For patients TAKING valproate*
 
@@ -576,12 +590,12 @@ CAUTION: Verify Product Dispensed
 
 GSK
 
-Visit www.LAMICTALODT.com for more information
+Visit www.LAMICTALODT.com for more information.
 
 Rev.
-11/14
+2/15
 
-10000000129909
+10000000132430
 
 PRINCIPAL DISPLAY PANEL
 
@@ -595,7 +609,7 @@ ORALLY DISINTEGRATING TABLETS
 
 Patient Titration Kit
 
-RX ONLY
+RX only
 
 For patients TAKING carbamazepine, phenytoin, phenobarbital, or primidone, and NOT TAKING valproate*
 
@@ -622,9 +636,9 @@ GSK
 Visit www.LAMICTALODT.com for more information.
 
 Rev.
-11/14
+2/15
 
-10000000129910
+10000000132451
 
 PRINCIPAL DISPLAY PANEL
 
@@ -666,6 +680,6 @@ GSK
 Visit www.LAMICTALODT.com for more information
 
 Rev.
-11/14
+2/15
 
-10000000129912
+10000000132453

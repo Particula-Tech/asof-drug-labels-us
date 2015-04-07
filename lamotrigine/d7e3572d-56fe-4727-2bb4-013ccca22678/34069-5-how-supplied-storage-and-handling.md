@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LAMICTAL (lamotrigine) Tablets
+LAMICTAL (lamotrigine) tablets
 
 25 mg, white, scored, shield-shaped tablets debossed with “LAMICTAL” and “25”, bottles of 100 (NDC 0173-0633-02).
 
@@ -32,7 +32,7 @@ LAMICTAL (lamotrigine) Starter Kit for Patients Not Taking Carbamazepine, Phenyt
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-LAMICTAL (lamotrigine) Chewable Dispersible Tablets
+LAMICTAL (lamotrigine) chewable dispersible tablets
 
 2 mg, white to off-white, round tablets debossed with “LTG” over “2”, bottles of 30 (NDC 0173-0699-00).
 ORDER DIRECTLY FROM GlaxoSmithKline 1-800-334-4153.
@@ -43,7 +43,7 @@ ORDER DIRECTLY FROM GlaxoSmithKline 1-800-334-4153.
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
-LAMICTAL ODT (lamotrigine) Orally Disintegrating Tablets
+LAMICTAL ODT (lamotrigine) orally disintegrating tablets
 
 25 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LMT” on one side and “25” on the other, Maintenance Packs of 30 (NDC 0173-0772-02).
 
@@ -59,9 +59,13 @@ LAMICTAL ODT (lamotrigine) Patient Titration Kit for Patients Taking Valproate (
 
 25 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LMT” on one side and “25” on the other, and 50 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LMT” on one side and “50” on the other, blisterpack of 28 tablets (21/25-mg tablets and 7/50-mg tablets) (NDC 0173-0779-00).
 
+Store between 20°C and 25°C (68°F and 77°F); with excursions permitted between 15°C and 30°C (59°F and 86°F).
+
 LAMICTAL ODT (lamotrigine) Patient Titration Kit for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, or Primidone and Not Taking Valproate (Green ODT Kit)
 
 50 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LMT” on one side and “50” on the other, and 100 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LAMICTAL” on one side and “100” on the other, blisterpack of 56 tablets (42/50-mg tablets and 14/100-mg tablets) (NDC 0173-0780-00).
+
+Store between 20°C and 25°C (68°F and 77°F); with excursions permitted between 15°C and 30°C (59°F and 86°F).
 
 LAMICTAL ODT (lamotrigine) Patient Titration Kit for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate (Orange ODT Kit)
 
@@ -69,4 +73,6 @@ LAMICTAL ODT (lamotrigine) Patient Titration Kit for Patients Not Taking Carbama
 
 Store between 20°C and 25°C (68°F and 77°F); with excursions permitted between 15°C and 30°C (59°F and 86°F).
 
-Blisterpacks: If the product is dispensed in a blisterpack, the patient should be advised to examine the blisterpack before use and not use if blisters are torn, broken, or missing.
+Blisterpacks
+
+If the product is dispensed in a blisterpack, the patient should be advised to examine the blisterpack before use and not use if blisters are torn, broken, or missing.

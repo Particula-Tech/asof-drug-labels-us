@@ -2,7 +2,9 @@
 
 ## 14.1 Epilepsy
 
-Monotherapy with LAMICTAL in Adults with Partial-Onset Seizures Already Receiving Treatment with Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug: The effectiveness of monotherapy with LAMICTAL was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial-onset seizures.
+Monotherapy with LAMICTAL in Adults with Partial-Onset Seizures Already Receiving Treatment with Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug
+
+The effectiveness of monotherapy with LAMICTAL was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial-onset seizures.
 The patients experienced at least 4 simple partial-onset, complex partial-onset, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
 LAMICTAL (target dose of 500 mg/day) or valproate (1,000 mg/day) was added to either carbamazepine or phenytoin monotherapy over a 4-week period.
 Patients were then converted to monotherapy with LAMICTAL or valproate during the next 4 weeks, then continued on monotherapy for an additional 12-week period.
@@ -17,7 +19,9 @@ No differences in efficacy based on age, sex, or race were detected.
 
 Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with LAMICTAL, and cannot be interpreted to imply the superiority of LAMICTAL to an adequate dose of valproate.
 
-Adjunctive Therapy with LAMICTAL in Adults with Partial-Onset Seizures: The effectiveness of LAMICTAL as adjunctive therapy (added to other AEDs) was initially established in 3 pivotal, multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial-onset seizures.
+Adjunctive Therapy with LAMICTAL in Adults with Partial-Onset Seizures
+
+The effectiveness of LAMICTAL as adjunctive therapy (added to other AEDs) was initially established in 3 pivotal, multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial-onset seizures.
 The patients had a history of at least 4 partial-onset seizures per month in spite of receiving 1 or more AEDs at therapeutic concentrations and in 2 of the trials were observed on their established AED regimen during baselines that varied between 8 to 12 weeks.
 In the third trial, patients were not observed in a prospective baseline.
 In patients continuing to have at least 4 seizures per month during the baseline, LAMICTAL or placebo was then added to the existing therapy.
@@ -44,14 +48,18 @@ The median change in seizure frequency was a 26% reduction on LAMICTAL compared 
 
 No differences in efficacy based on age, sex, or race, as measured by change in seizure frequency, were detected.
 
-Adjunctive Therapy with LAMICTAL in Pediatric Patients with Partial-Onset Seizures: The effectiveness of LAMICTAL as adjunctive therapy in pediatric patients with partial-onset seizures was established in a multicenter, double-blind, placebo-controlled trial in 199 patients aged 2 to 16 years (n = 98 on LAMICTAL, n = 101 on placebo).
+Adjunctive Therapy with LAMICTAL in Pediatric Patients with Partial-Onset Seizures
+
+The effectiveness of LAMICTAL as adjunctive therapy in pediatric patients with partial-onset seizures was established in a multicenter, double-blind, placebo-controlled trial in 199 patients aged 2 to 16 years (n = 98 on LAMICTAL, n = 101 on placebo).
 Following an 8-week baseline phase, patients were randomized to 18 weeks of treatment with LAMICTAL or placebo added to their current AED regimen of up to 2 drugs.
 Patients were dosed based on body weight and valproate use.
 Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 250 mg/day) and 15 mg/kg/day for the patients not taking valproate (maximum dose: 750 mg/day).
 The primary efficacy endpoint was percentage change from baseline in all partial-onset seizures.
 For the intent-to-treat population, the median reduction of all partial-onset seizures was 36% in patients treated with LAMICTAL and 7% on placebo, a difference that was statistically significant (P<0.01).
 
-Adjunctive Therapy with LAMICTAL in Pediatric and Adult Patients with Lennox-Gastaut Syndrome: The effectiveness of LAMICTAL as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n = 79 on LAMICTAL, n = 90 on placebo).
+Adjunctive Therapy with LAMICTAL in Pediatric and Adult Patients with Lennox-Gastaut Syndrome
+
+The effectiveness of LAMICTAL as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n = 79 on LAMICTAL, n = 90 on placebo).
 Following a 4-week, single-blind, placebo phase, patients were randomized to 16 weeks of treatment with LAMICTAL or placebo added to their current AED regimen of up to 3 drugs.
 Patients were dosed on a fixed-dose regimen based on body weight and valproate use.
 Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 200 mg/day) and 15 mg/kg/day for patients not taking valproate (maximum dose: 400 mg/day).
@@ -59,7 +67,9 @@ The primary efficacy endpoint was percentage change from baseline in major motor
 For the intent-to-treat population, the median reduction of major motor seizures was 32% in patients treated with LAMICTAL and 9% on placebo, a difference that was statistically significant (P<0.05).
 Drop attacks were significantly reduced by LAMICTAL (34%) compared with placebo (9%), as were tonic-clonic seizures (36% reduction versus 10% increase for LAMICTAL and placebo, respectively).
 
-Adjunctive Therapy with LAMICTAL in Pediatric and Adult Patients with Primary Generalized Tonic-Clonic Seizures: The effectiveness of LAMICTAL as adjunctive therapy in patients with PGTC seizures was established in a multicenter, double-blind, placebo-controlled trial in 117 pediatric and adult patients aged 2 years and older (n = 58 on LAMICTAL, n = 59 on placebo).
+Adjunctive Therapy with LAMICTAL in Pediatric and Adult Patients with Primary Generalized Tonic-Clonic Seizures
+
+The effectiveness of LAMICTAL as adjunctive therapy in patients with PGTC seizures was established in a multicenter, double-blind, placebo-controlled trial in 117 pediatric and adult patients aged 2 years and older (n = 58 on LAMICTAL, n = 59 on placebo).
 Patients with at least 3 PGTC seizures during an 8-week baseline phase were randomized to 19 to 24 weeks of treatment with LAMICTAL or placebo added to their current AED regimen of up to 2 drugs.
 Patients were dosed on a fixed-dose regimen, with target doses ranging from 3 to 12 mg/kg/day for pediatric patients and from 200 to 400 mg/day for adult patients based on concomitant AEDs.
 

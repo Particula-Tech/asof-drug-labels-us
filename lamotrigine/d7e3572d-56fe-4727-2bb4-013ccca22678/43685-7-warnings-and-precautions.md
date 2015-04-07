@@ -2,7 +2,9 @@
 
 ## 5.1 Serious Skin Rashes [see Boxed Warning]
 
-Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of LAMICTAL in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy was approximately 0.8% (16 of 1,983).
+Pediatric Population
+
+The incidence of serious rash associated with hospitalization and discontinuation of LAMICTAL in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
 To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
@@ -11,7 +13,9 @@ Additionally, there have been rare cases of toxic epidermal necrolysis with and 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
 
-Adult Population: Serious rash associated with hospitalization and discontinuation of LAMICTAL occurred in 0.3% (11 of 3,348) of adult patients who received LAMICTAL in premarketing clinical trials of epilepsy.
+Adult Population
+
+Serious rash associated with hospitalization and discontinuation of LAMICTAL occurred in 0.3% (11 of 3,348) of adult patients who received LAMICTAL in premarketing clinical trials of epilepsy.
 In the bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received LAMICTAL as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received LAMICTAL as adjunctive therapy.
 No fatalities occurred among these individuals.
 However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
@@ -21,7 +25,9 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered LAMICTAL with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered LAMICTAL in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs
+
+The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
@@ -86,11 +92,17 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Use in Patients with Bipolar Disorder
 
-Acute Treatment of Mood Episodes: Safety and effectiveness of LAMICTAL in the acute treatment of mood episodes have not been established.
+Acute Treatment of Mood Episodes
 
-Children and Adolescents (younger than 18 years): Safety and effectiveness of LAMICTAL in patients younger than 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)].
+Safety and effectiveness of LAMICTAL in the acute treatment of mood episodes have not been established.
 
-Clinical Worsening and Suicide Risk Associated with Bipolar Disorder: Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
+Children and Adolescents (younger than 18 years)
+
+Safety and effectiveness of LAMICTAL in patients younger than 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)].
+
+Clinical Worsening and Suicide Risk Associated with Bipolar Disorder
+
+Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
 Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment or at the time of dose changes.
 
 In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts and should receive careful monitoring during treatment [see Warnings and Precautions (5.4)].
@@ -123,7 +135,7 @@ Medication errors involving LAMICTAL have occurred.
 In particular, the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL clearly.
-Depictions of the LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
+Depictions of the LAMICTAL tablets, chewable dispersible tablets, and orally disintegrating tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL, as well as the correct formulation of LAMICTAL, each time they fill their prescription.
 
 ## 5.8 Concomitant Use with Oral Contraceptives
@@ -172,6 +184,13 @@ Moreover, the capacity of available tests to detect potentially adverse conseque
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
 ## 5.14 Laboratory Tests
+
+False-Positive Drug Test Results
+
+Lamotrigine has been reported to interfere with the assay used in some rapid urine drug screens, which can result in false-positive readings, particularly for phencyclidine (PCP).
+A more specific analytical method should be used to confirm a positive result.
+
+Plasma Concentrations of Lamotrigine
 
 The value of monitoring plasma concentrations of lamotrigine in patients treated with LAMICTAL has not been established.
 Because of the possible pharmacokinetic interactions between lamotrigine and other drugs, including AEDs (see Table 15), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.

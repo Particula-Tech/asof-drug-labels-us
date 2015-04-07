@@ -1,8 +1,8 @@
 MEDICATION GUIDE
 
-LAMICTAL® (la-MIK-tal) (lamotrigine) Tablets and Chewable Dispersible Tablets
+LAMICTAL® (la-MIK-tal) (lamotrigine) tablets and chewable dispersible tablets
 
-LAMICTAL ODT® (lamotrigine) Orally Disintegrating Tablets
+LAMICTAL ODT® (lamotrigine) orally disintegrating tablets
 
 Read this Medication Guide before you start taking LAMICTAL and each time you get a refill.
 There may be new information.
@@ -11,7 +11,8 @@ If you have questions about LAMICTAL, ask your healthcare provider or pharmacist
 
 What is the most important information I should know about LAMICTAL?
 
-- 1.LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+1.
+LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -33,11 +34,11 @@ Call your healthcare provider right away if you have any of the following:
 These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL.
 
-- 2.
-  Other serious reactions, including serious blood problems or liver problems.
-  LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-  You may or may not have a rash with these types of reactions.
-  Call your healthcare provider right away if you have any of these symptoms:
+2.
+Other serious reactions, including serious blood problems or liver problems.
+LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+You may or may not have a rash with these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
 
 - •fever
 - •frequent infections
@@ -47,8 +48,9 @@ A healthcare provider should examine you to decide if you should continue taking
 - •unusual bruising or bleeding
 - •weakness, fatigue
 - •yellowing of your skin or the white part of your eyes
-- 3.
-  Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+3.
+Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -76,8 +78,9 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-- 4.
-  LAMICTAL may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+
+4.
+LAMICTAL may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -100,7 +103,8 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
-- 5.Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
+5.
+Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL:
@@ -111,17 +115,17 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 - These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
   Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
-LAMICTAL (lamotrigine) Tablets
+LAMICTAL (lamotrigine) tablets
 
 | 25 mg, whiteImprinted withLAMICTAL 25 | 100 mg, peachImprinted withLAMICTAL 100 | 150 mg, creamImprinted withLAMICTAL 150 | 200 mg, blueImprinted withLAMICTAL 200 |
 | --- | --- | --- | --- |
 
-LAMICTAL (lamotrigine) Chewable Dispersible Tablets
+LAMICTAL (lamotrigine) chewable dispersible tablets
 
 | 2 mg, whiteImprinted withLTG 2 | 5 mg, whiteImprinted withGX CL2 | 25 mg, whiteImprinted withGX CL5 |
 | --- | --- | --- |
 
-LAMICTAL ODT (lamotrigine) Orally Disintegrating Tablets
+LAMICTAL ODT (lamotrigine) orally disintegrating tablets
 
 | 25 mg, white to off-white Imprinted withLMT on one side25 on the other | 50 mg, white to off-whiteImprinted withLMT on one side50 on the other | 100 mg, white to off-whiteImprinted withLAMICTAL on one side100 on the other | 200 mg, white to off-whiteImprinted withLAMICTAL on one side200 on the other |
 | --- | --- | --- | --- |
@@ -189,9 +193,9 @@ How should I take LAMICTAL?
 - •If you have trouble swallowing LAMICTAL Tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
 - •LAMICTAL ODT should be placed on the tongue and moved around the mouth.
   The tablet will rapidly disintegrate, can be swallowed with or without water, and can be taken with or without food.
-- •LAMICTAL Chewable Dispersible tablets may be swallowed whole, chewed, or mixed in water or diluted fruit juice.
+- •LAMICTAL chewable dispersible tablets may be swallowed whole, chewed, or mixed in water or diluted fruit juice.
   If the tablets are chewed, drink a small amount of water or diluted fruit juice to help in swallowing.
-  To break up LAMICTAL Chewable Dispersible tablets, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
+  To break up LAMICTAL chewable dispersible tablets, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
   Wait at least 1 minute or until the tablets are completely broken up, mix the solution together, and take the whole amount right away.
 - •If you receive LAMICTAL in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
@@ -216,7 +220,7 @@ Common side effects of LAMICTAL include:
 - •abdominal pain
 - •sleepiness
 - •back pain
-- •nausea, vomiting
+- •nausea, vomiting, diarrhea
 - •tiredness
 - •insomnia
 - •dry mouth
@@ -241,6 +245,9 @@ Do not use LAMICTAL for a condition for which it was not prescribed.
 Do not give LAMICTAL to other people, even if they have the same symptoms you have.
 It may harm them.
 
+If you take a urine drug screening test, LAMICTAL may make the test result positive for another drug.
+If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking LAMICTAL.
+
 This Medication Guide summarizes the most important information about LAMICTAL.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about LAMICTAL that is written for healthcare professionals.
@@ -249,19 +256,19 @@ For more information, go to www.lamictal.com or call 1-888-825-5249.
 
 What are the ingredients in LAMICTAL?
 
-LAMICTAL Tablets
+LAMICTAL tablets
 
 Active ingredient: lamotrigine.
 
 Inactive ingredients: lactose; magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, FD&C Yellow No. 6 Lake (100-mg tablet only), ferric oxide, yellow (150-mg tablet only), and FD&C Blue No. 2 Lake (200-mg tablet only).
 
-LAMICTAL Chewable Dispersible Tablets
+LAMICTAL chewable dispersible tablets
 
 Active ingredient: lamotrigine.
 
 Inactive ingredients: blackcurrant flavor, calcium carbonate, low-substituted hydroxypropylcellulose, magnesium aluminum silicate, magnesium stearate, povidone, saccharin sodium, and sodium starch glycolate.
 
-LAMICTAL ODT Orally Disintegrating Tablets
+LAMICTAL ODT orally disintegrating tablets
 
 Active ingredient: lamotrigine.
 
@@ -279,9 +286,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015, the GSK group of companies.
 All rights reserved.
 
-December 2014
+March 2015
 
-LMT:12MG
+LMT:13MG
