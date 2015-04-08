@@ -1,12 +1,6 @@
-For IV infusion only
+Rx only
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZITHROMAX® (azithromycin) and other antibacterial drugs, ZITHROMAX (azithromycin) should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
-
-Licensed from Pliva
-
-Vial-Mate is a registered trademark of Baxter International Inc., Reg.
+Licensed from Pliva Vial-Mate is a registered trademark of Baxter International Inc., Reg.
 U.S. Pat and TM Off.
 
-LAB-0024-12.0
-
-February 2013
+LAB-0024-13.0

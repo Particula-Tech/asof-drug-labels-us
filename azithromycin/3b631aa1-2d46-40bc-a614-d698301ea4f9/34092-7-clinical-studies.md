@@ -1,9 +1,9 @@
-# CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## Community-Acquired Pneumonia
+## 14.1 Community-Acquired Pneumonia
 
-In a controlled study of community-acquired pneumonia performed in the U.S., azithromycin (500 mg as a single daily dose by the intravenous route for 2–5 days, followed by 500 mg/day by the oral route to complete 7–10 days therapy) was compared to cefuroxime (2250 mg/day in three divided doses by the intravenous route for 2–5 days followed by 1000 mg/day in two divided doses by the oral route to complete 7–10 days therapy), with or without erythromycin.
-For the 291 patients who were evaluable for clinical efficacy, the clinical outcome rates, i.e., cure, improved, and success (cure + improved) among the 277 patients seen at 10–14 days post-therapy were as follows:
+In a controlled trial of community-acquired pneumonia performed in the U.S., azithromycin (500 mg as a single daily dose by the intravenous route for 2 to 5 days, followed by 500 mg/day by the oral route to complete 7 to 10 days therapy) was compared to cefuroxime (2250 mg/day in three divided doses by the intravenous route for 2 to 5 days followed by 1000 mg/day in two divided doses by the oral route to complete 7 to 10 days therapy), with or without erythromycin.
+For the 291 patients who were evaluable for clinical efficacy, the clinical outcome rates, i.e., cure, improved, and success (cure + improved) among the 277 patients seen at 10 to 14 days post-therapy were as follows:
 
 | Clinical Outcome | Azithromycin | Comparator |
 | --- | --- | --- |
@@ -12,7 +12,7 @@ For the 291 patients who were evaluable for clinical efficacy, the clinical outc
 | Success (Cure + Improved) | 78% | 74% |
 
 In a separate, uncontrolled clinical and microbiological trial performed in the U.S., 94 patients with community-acquired pneumonia who received azithromycin in the same regimen were evaluable for clinical efficacy.
-The clinical outcome rates, i.e., cure, improved, and success (cure + improved) among the 84 patients seen at 10–14 days post-therapy were as follows:
+The clinical outcome rates, i.e., cure, improved, and success (cure + improved) among the 84 patients seen at 10 to 14 days post-therapy were as follows:
 
 | Clinical Outcome | Azithromycin |
 | --- | --- |
@@ -28,12 +28,12 @@ Combined Bacteriological Eradication Rates for Azithromycin:
 
 | (at last completed visit) | Azithromycin |
 | --- | --- |
-| S. pneumoniae | 64/67 (96%)Nineteen of twenty-four patients (79%) with positive blood cultures for S. pneumoniae were cured (intent-to-treat analysis) with eradication of the pathogen. |
+| S. pneumonia | 64/67 (96%)Nineteen of twenty-four patients (79%) with positive blood cultures for S. pneumoniae were cured (intent-to-treat analysis) with eradication of the pathogen. |
 | H. influenzae | 41/43 (95%) |
-| M. catarrhalis | 9/10 |
-| S. aureus | 9/10 |
+| M. catarrhalis | 9/10 (90%) |
+| S. aureus | 9/10 (90%) |
 
-The presumed bacteriological outcomes at 10–14 days post-therapy for patients treated with azithromycin with evidence (serology and/or culture) of atypical pathogens for both trials were as follows:
+The presumed bacteriological outcomes at 10 to 14 days post-therapy for patients treated with azithromycin with evidence (serology and/or culture) of atypical pathogens for both trials were as follows:
 
 | Evidence of Infection | Total | Cure | Improved | Cure + Improved |
 | --- | --- | --- | --- | --- |
