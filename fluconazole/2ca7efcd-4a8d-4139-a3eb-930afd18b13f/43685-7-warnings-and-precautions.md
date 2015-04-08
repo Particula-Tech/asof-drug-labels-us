@@ -23,7 +23,7 @@
 ## General
 
 Some azoles, including fluconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
-During postmarketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
+During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
 Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
 Fluconazole should be administered with caution to patients with these potentially proarrhythmic conditions.
 Concomitant use of fluconazole and erythromycin has the potential to increase the risk of cardiotoxicity (prolonged QT interval, torsade de pointes) and consequently sudden heart death.
@@ -41,8 +41,8 @@ The convenience and efficacy of the single dose oral tablet of fluconazole regim
 ## Drug Interactions
 
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies and CONTRAINDICATIONS.)
-Fluconazole is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and a moderate inhibitor of CYP3A4.
-In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9 and CYP3A4 coadministered with fluconazole.
+Fluconazole is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and 2C19, and a moderate inhibitor of CYP3A4.
+In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
@@ -51,7 +51,7 @@ Fluconazole reduces the metabolism of tolbutamide, glyburide, and glipizide and 
 When fluconazole is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 Coumarin-type anticoagulants: Prothrombin time may be increased in patients receiving concomitant fluconazole and coumarin-type anticoagulants.
-In postmarketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin.
+In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin.
 Careful monitoring of prothrombin time in patients receiving fluconazole and coumarin-type anticoagulants is recommended.
 Dose adjustment of warfarin may be necessary.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
@@ -114,7 +114,7 @@ Coadministration of fluconazole and quinidine is contraindicated.
 (See CONTRAINDICATIONS.)
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
-Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of T½ of alfentanil following concomitant treatment with fluconazole.
+Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.
 A possible mechanism of action is fluconazole’s inhibition of CYP3A4.
 Dosage adjustment of alfentanil may be necessary.
 Amitriptyline, Nortriptyline: Fluconazole increases the effect of amitriptyline and nortriptyline.
@@ -127,7 +127,7 @@ There was no significant pharmacokinetic interaction between fluconazole and azi
 Carbamazepine: Fluconazole inhibits the metabolism of carbamazepine and an increase in serum carbamazepine of 30% has been observed.
 There is a risk of developing carbamazepine toxicity.
 Dosage adjustment of carbamazepine may be necessary depending on concentration measurements/effect.
-Calcium Channel Blockers: Certain dihydropyridine calcium channel antagonists (nifedipine, isradipine, amlodipine, and felodipine) are metabolized by CYP3A4.
+Calcium Channel Blockers: Certain calcium channel antagonists (nifedipine, isradipine, amlodipine, verapamil, and felodipine) are metabolized by CYP3A4.
 Fluconazole has the potential to increase the systemic exposure of the calcium channel antagonists.
 Frequent monitoring for adverse events is recommended.
 Celecoxib: During concomitant treatment with fluconazole (200 mg daily) and celecoxib (200 mg), the celecoxib Cmax and AUC increased by 68% and 134%, respectively.
@@ -229,7 +229,7 @@ In non-AIDS patients, side effects possibly related to fluconazole treatment wer
 However, there was no consistent difference between the older and younger patients with respect to individual side effects.
 Of the most frequently reported (>1%) side effects, rash, vomiting, and diarrhea occurred in greater proportions of older patients.
 Similar proportions of older patients (2.4%) and younger patients (1.5%) discontinued fluconazole therapy because of side effects.
-In postmarketing experience, spontaneous reports of anemia and acute renal failure were more frequent among patients 65 years of age or older than in those between 12 and 65 years of age.
+In post-marketing experience, spontaneous reports of anemia and acute renal failure were more frequent among patients 65 years of age or older than in those between 12 and 65 years of age.
 Because of the voluntary nature of the reports and the natural increase in the incidence of anemia and renal failure in the elderly, it is however not possible to establish a casual relationship to drug exposure.
 Controlled clinical trials of fluconazole did not include sufficient numbers of patients aged 65 and older to evaluate whether they respond differently from younger patients in each indication.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

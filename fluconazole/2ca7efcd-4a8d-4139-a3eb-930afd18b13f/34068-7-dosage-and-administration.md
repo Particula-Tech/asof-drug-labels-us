@@ -69,6 +69,7 @@ After the loading dose, the daily dose (according to indication) should be based
 | ≤50 (no dialysis) | 50% |
 | Regular dialysis | 100% after each dialysis |
 
+Patients on regular dialysis should receive 100% of the recommended dose after each dialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
 These are suggested dose adjustments based on pharmacokinetics following administration of multiple doses.
 Further adjustment may be needed depending upon clinical condition.
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults: Males: Weight (kg) x (140-age) ————————————— 72 x serum creatinine (mg/100 mL) Females: 0.85 × above value Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
