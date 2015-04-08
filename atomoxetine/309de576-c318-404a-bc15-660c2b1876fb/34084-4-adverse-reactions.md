@@ -161,6 +161,8 @@ Peripheral vascular effects — Raynaud's phenomenon.
 
 General disorders and administration site conditions — Lethargy.
 
+Musculoskeletal System — Rhabdomyolysis.
+
 Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances; tics.
 
 Psychiatric disorders — Depression and depressed mood; anxiety, libido changes.
