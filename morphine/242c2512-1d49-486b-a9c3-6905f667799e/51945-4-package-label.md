@@ -16,14 +16,8 @@ Sugar and Alcohol Free.
 
 Rx only
 
-Mallinckrodt
+Mallinckrodt™
 
-See Package Insert for Complete Prescribing Information.
+L00M90
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-PROTECT FROM LIGHT.
-
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
-
-COVIDIEN™
+Rev 10/2014

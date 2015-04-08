@@ -23,10 +23,12 @@ Figure 1
 
 Tagamet is a registered trademark of Medtech Products Inc.
 
+Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
+
+© 2014 Mallinckrodt.
+
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Issued 07/2012
+Issued 10/2014
 
-Mallinckrodt
-
-COVIDIEN™
+Mallinckrodt™ Pharmaceuticals

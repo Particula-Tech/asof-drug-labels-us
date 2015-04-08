@@ -1,6 +1,8 @@
 # MEDICATION GUIDE
 
-Morphine Sulfate (mor-pheen) (CII) Oral Solution
+Morphine Sulfate (MOR feen SUL fate) (CII)
+
+Oral Solution
 
 | IMPORTANT: Keep morphine sulfate oral solution in a safe place away from children. Accidental use by a child is a medical emergency and can cause death. If a child accidentally takes morphine sulfate oral solution, get emergency help right away. |
 | --- |
@@ -224,7 +226,7 @@ This Medication Guide summarizes the most important information about morphine s
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about morphine sulfate oral solution that is written for healthcare professionals.
 
-For more information about morphine sulfate oral solution, go to www.covidien.com or call Mallinckrodt at 1-800-778-7898.
+For more information about morphine sulfate oral solution, go to www.Mallinckrodt.com or call Mallinckrodt at 1-800-778-7898.
 
 What are the ingredients in morphine sulfate oral solution?
 
