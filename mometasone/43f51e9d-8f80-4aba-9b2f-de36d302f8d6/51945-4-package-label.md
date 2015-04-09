@@ -12,7 +12,7 @@ Not for ophthalmic use.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 15 g Tube Carton
+PRINCIPAL DISPLAY PANEL - 15 g Tube Carton (0085-3149-01)
 
 NDC 0085-3149-01
 
