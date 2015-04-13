@@ -1,4 +1,4 @@
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 24208-463-25
 
