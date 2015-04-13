@@ -44,7 +44,7 @@ The curves demonstrate that both patients assigned to placebo and XEOMIN have a 
 A curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo.
 
 Comparison of each XEOMIN group to the placebo group was statistically significant at p<0.001.
-Initial XEOMIN doses of 120 Units and 240 Units demonstrated no significant difference in effectiveness between the doses..
+Initial XEOMIN doses of 120 Units and 240 Units demonstrated no significant difference in effectiveness between the doses.
 The efficacy of XEOMIN was similar in patients who were botulinum toxin naïve and those who had received botulinum toxin prior to this study.
 
 Examination of age and gender subgroups did not identify differences in response to XEOMIN among these subgroups.

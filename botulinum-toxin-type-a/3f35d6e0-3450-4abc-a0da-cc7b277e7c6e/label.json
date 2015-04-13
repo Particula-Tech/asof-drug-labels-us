@@ -3,10 +3,12 @@
     "BLA125360"
   ],
   "inn": "botulinum-toxin-type-a",
-  "labeler": "Merz Aesthetics. Inc",
+  "labeler": "Merz North America, Inc.",
   "package_ndcs": [
     "46783-160-01",
-    "46783-161-01"
+    "46783-160-10",
+    "46783-161-01",
+    "46783-165-01"
   ],
   "products": [
     {

@@ -4,9 +4,9 @@ Distributed by: Merz Pharmaceuticals, LLC 4215 Tudor Lane Greensboro, NC 27410
 
 and
 
-Merz Aesthetics, Inc. 4133 Courtney Road, Suite 10 Franksville, WI 53126
+Merz North America, Inc. 4133 Courtney Road, Suite 10 Franksville, WI 53126
 
-© 2013 Merz Pharmaceuticals, LLC
+© 2014 Merz Pharmaceuticals, LLC
 
 XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA Patent pending.
 
@@ -16,13 +16,15 @@ Distributed by: Merz Pharmaceuticals, LLC 4215 Tudor Lane Greensboro, NC 27410
 
 and
 
-Merz Aesthetics, Inc. 4133 Courtney Road, Suite 10 Franksville, WI 53126
+Merz North America, Inc. 4133 Courtney Road, Suite 10 Franksville, WI 53126
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Issued 07/2011
 
-© 2013 Merz Pharmaceuticals, LLC XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
+© 2014 Merz Pharmaceuticals, LLC XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 Patent pending.
 
 Botox®, Botox® Cosmetic, Dysport®, and Myobloc® are registered trademarks of their respective owners.
+
+EM00451-01
