@@ -24,4 +24,7 @@ Response during the open-label phase was defined as 17-item HAM-D total score le
 Relapse during the double-blind phase was defined as follows: (1) a 17-item HAM-D score of 14 or greater, (2) a CGI-S score of 3 or greater (with at least a 2-point increase from double-blind baseline), and (3) meeting DSM-IV criteria for major depressive disorder on two consecutive visits at least 11 days apart.
 In the double-blind phase, patients receiving continued EMSAM experienced a significantly longer time to relapse (Figure 2).
 
+Figure 2.
+Kaplan-Meier Estimates of Cumulative Percent of Patients with Relapse (Study 3)
+
 An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age, gender, or race.

@@ -57,7 +57,7 @@ A multi-center, randomized, double-blind, placebo-controlled, flexible-dose tria
 Diagnosis of major depressive disorder (single episode or recurrent, moderate to severe) was based on according DSM-IV criteria and Kiddie Schedule for Affective Disorders and Schizophrenia for School Aged Children (K-SADS).
 Enrolled patients had a Children’s Depression Rating Scale-Revised of ≥ 45 at the screening visit.
 Trial participants were randomized 1:1 to either EMSAM or matching placebo without forced titration for a period of 12 weeks.
-Active treatment consisted of EMSAM transdermal system at a dose of 6 mg/24 hours, 9 mg/24 hours, or 12 mg/24 hours.
+Active treatment consisted of EMSAM transdermal system at a dose of 6 mg per 24 hours, 9 mg per 24 hours, or 12 mg per 24 hours.
 The primary efficacy endpoint was the difference in total score on the Children’s Depression Rating Scale-Revised (CDRS-R) from baseline to the end of study (EOS) (Week 12).
 There was no observed difference in effect on CDRS-R Total Score at Week 12 (EOS) between treatments.
 The mean reduction in CDRS-R Total Score was 21.4 in the EMSAM-treated subjects and 21.5 in those receiving placebo treatment.

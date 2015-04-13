@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 6 mg/24 h
+# PRINCIPAL DISPLAY PANEL - 6 mg/24 h
 
 NDC-49502-900-30
 
@@ -17,7 +17,7 @@ Pharmacist: Dispense with enclosed Medication Guide.
 INSTRUCTIONS FOR APPLICATION
 
 1.
-Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
+Select and prepare an appropriate site on the upper chest or back (below the neck and above the waist), the upper thigh, or the outer surface of the upper arm, as directed in the enclosed Medication Guide.
 
 2.
 Bend both sides of the clear peelable liner.
@@ -40,15 +40,15 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dist. by Mylan Specialty L.P.
-Morgantown, WV 26505
+Morgantown, WV 26505 U.S.A.
 
-Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
 Rx only
 
-S033-93-30C:R7
+S033-93-30C:R8
 
-PRINCIPAL DISPLAY PANEL - 9 mg/24 h
+# PRINCIPAL DISPLAY PANEL - 9 mg/24 h
 
 NDC-49502-901-30
 
@@ -68,7 +68,7 @@ Pharmacist: Dispense with enclosed Medication Guide.
 INSTRUCTIONS FOR APPLICATION
 
 1.
-Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
+Select and prepare an appropriate site on the upper chest or back (below the neck and above the waist), the upper thigh, or the outer surface of the upper arm, as directed in the enclosed Medication Guide.
 
 2.
 Bend both sides of the clear peelable liner.
@@ -91,15 +91,15 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dist. by Mylan Specialty L.P.
-Morgantown, WV 26505
+Morgantown, WV 26505 U.S.A.
 
-Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
 Rx only
 
-S044-93-30C:R7
+S044-93-30C:R8
 
-PRINCIPAL DISPLAY PANEL - 12 mg/24 h
+# PRINCIPAL DISPLAY PANEL - 12 mg/24 h
 
 NDC-49502-902-30
 
@@ -119,7 +119,7 @@ Pharmacist: Dispense with enclosed Medication Guide.
 INSTRUCTIONS FOR APPLICATION
 
 1.
-Select and prepare an appropriate site on the (A) upper chest or back (below the neck and above the waist), (B) upper thigh, or (C) outer surface of the upper arm, as directed in the enclosed Medication Guide.
+Select and prepare an appropriate site on the upper chest or back (below the neck and above the waist), the upper thigh, or the outer surface of the upper arm, as directed in the enclosed Medication Guide.
 
 2.
 Bend both sides of the clear peelable liner.
@@ -142,10 +142,10 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dist. by Mylan Specialty L.P.
-Morgantown, WV 26505
+Morgantown, WV 26505 U.S.A.
 
-Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
 Rx only
 
-S055-93-30C:R7
+S055-93-30C:R8

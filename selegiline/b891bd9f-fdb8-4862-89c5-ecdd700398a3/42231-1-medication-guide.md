@@ -1,4 +1,6 @@
-MEDICATION GUIDE EMSAM® [EM sam] (selegiline transdermal system)
+# MEDICATION GUIDE
+
+EMSAM® [EM sam] (selegiline transdermal system)
 
 Read this Medication Guide carefully before you start using EMSAM and each time you get a refill.
 There may be new information.
@@ -84,7 +86,7 @@ Especially tell your healthcare provider if you take:
 - •medicines called stimulants or uppers (amphetamines)
 - •buspirone, an anxiety medicine
 
-Some of these medicines need to be stopped for at least 1 week before you can start using EMSAM and for 2 weeks after you stop using EMSAM.
+Some of these medicines need to be stopped for at least one week before you can start using EMSAM and for 2 weeks after you stop using EMSAM.
 
 Ask your healthcare provider or pharmacist if you are not sure if you take these medicines.
 
@@ -95,14 +97,14 @@ How should I use EMSAM?
 
 - •Read the “Instructions for Use” at the end of this Medication Guide for information about the right way to use EMSAM.
 - •Use EMSAM exactly as your healthcare provider tells you to use it.
-- •Use only 1 patch at a time.
+- •Use only one patch at a time.
 - •Apply your patch right after you open the sealed pouch.
-- •Change your patch 1 time each day at the same time each day.
+- •Change your patch one time each day at the same time each day.
   Choose a time of day that works best for you.
 - •Your healthcare provider may need to change your dose of EMSAM until it is the right dose for you.
 - •If you use too much EMSAM (overdose) you may have the following symptoms:
 
-| odrowsinessodizzinessofaintingoirritableohyperactiveoagitatedosevere headacheoseeing things that are not thereostiff jawoyour head, neck and spine arch backwards | oseizuresocomaofast or irregular pulse high blood pressureolow blood pressureoblood circulation problemochest painotrouble breathingohigh feverosweatingocool, clammy skin |
+| odrowsinessodizzinessofaintingoirritableohyperactiveoagitatedosevere headacheoseeing things that are not thereostiff jawoyour head, neck and spine arch backwards | oseizuresocomaofast or irregular pulse ohigh blood pressureolow blood pressureoblood circulation problemochest painotrouble breathingohigh feverosweatingocool, clammy skin |
 | --- | --- |
 
 If you have any of these symptoms of EMSAM overdosage, remove your patch right away and call your healthcare provider or go to the nearest hospital emergency room right away.
@@ -158,7 +160,6 @@ If you suddenly have these symptoms, go to the nearest hospital emergency room r
   A hypertensive crisis can happen when you eat certain foods and drink certain beverages while you use EMSAM.
   A hypertensive crisis can lead to stroke and death.
   See “What should I avoid while using EMSAM?”
-
 - A hypertensive crisis can also happen if you use EMSAM with certain other medicines.
   See “Who should not use EMSAM?”
 - Symptoms of a hypertensive crisis include:

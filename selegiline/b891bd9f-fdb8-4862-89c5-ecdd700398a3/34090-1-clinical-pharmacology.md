@@ -48,7 +48,7 @@ The lowest pressor dose was 50 mg in one subject in the 33-day group.
 
 Tyramine pressor doses were also studied in 11 subjects after extended treatment with EMSAM 12 mg per 24 hours.
 At 30, 60, and 90 days, the mean pressor doses (TYR30) of tyramine administered without food were 95 mg, 72 mg, and 88 mg, respectively.
-The lowest pressor dose without food was 25 mg in 3 subjects at day 30 while on EMSAM 12 mg per 24 hours.
+The lowest pressor dose without food was 25 mg in three subjects at day 30 while on EMSAM 12 mg per 24 hours.
 Eight subjects from this study, with a mean tyramine pressor dose of 64 mg at 90 days, were subsequently administered tyramine with food, resulting in a mean pressor dose of 172 mg (2.7 times the mean pressor dose observed without food, p less than 0.003).
 
 With the exception of one study (N = 153), the Phase III clinical development program was conducted without requiring a modified diet (N = 2,553, 1,606 at 6 mg per 24 hours, and 947 at 9 mg per 24 hours or 12 mg per 24 hours).
@@ -112,7 +112,7 @@ EMSAM should not be used in patients less than 18 years of age [see Use in Speci
 Stratification of exposure data following treatment with EMSAM indicated that pre-dose (trough) selegiline plasma concentrations at steady state appeared higher (p = 0.12) in children aged < 12 years old, compared to adolescents aged ≥ 12 years as shown in Table 6.
 
 Table 6.
-Steady State selegiline tough concentrations associated with administration of EMSAM 15 mg/15 cm2 daily for 7 days
+Steady State Selegiline Trough Concentrations Associated with Administration of EMSAM 15 mg/15 cm2 Daily for 7 Days
 
 | Trough Concentration, pg/mL |  |  |
 | --- | --- | --- |
@@ -135,7 +135,7 @@ In subjects who had received EMSAM 6 mg per 24 hours for 7 days, co-administrati
 #### Carbamazepine
 
 Carbamazepine is an enzyme inducer and typically causes decreases in drug exposure; however, approximately 2-fold increased systemic exposure of selegiline and its metabolites, L-amphetamine and L-methamphetamine were seen after single application of EMSAM 6 mg per 24 hours in subjects who had received carbamazepine (400 mg per day) for 14 days.
-Changes in plasma selegiline concentrations were nearly two-fold and variable across the subject population.
+Changes in plasma selegiline concentrations were nearly 2-fold and variable across the subject population.
 Such increases may increase the risk of a hypertensive crisis when carbamazepine is used with EMSAM at any dose [see Contraindications (4), Warnings and Precautions (5.3) and Drug Interaction (7.4)].
 
 #### Ibuprofen
@@ -171,5 +171,5 @@ In subjects who had received EMSAM 6 mg per 24 hours for 10 days, co-administrat
 #### Warfarin
 
 Warfarin is a substrate for CYP2C9 and CYP3A4 metabolism pathways.
-In healthy volunteers titrated with Coumadin® (warfarin sodium) to clinical levels of anticoagulation (INR of 1.5 to 2), co-administration with EMSAM 6 mg per 24 hours for 7 days did not affect the pharmacokinetics of the individual warfarin enantiomers.
+In healthy volunteers titrated with Coumadin®# (warfarin sodium) to clinical levels of anticoagulation (INR of 1.5 to 2), co-administration with EMSAM 6 mg per 24 hours for 7 days did not affect the pharmacokinetics of the individual warfarin enantiomers.
 EMSAM did not alter the clinical pharmacodynamic effects of warfarin as measured by INR, Factor VII or Factor X levels [see Drug Interactions (7.4) and (7.5)].

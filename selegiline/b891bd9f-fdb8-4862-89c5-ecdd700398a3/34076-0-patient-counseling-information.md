@@ -41,7 +41,7 @@ Prescribers should instruct patients on the following:
 - •After you have selected the site for your transdermal system, wash the area gently and thoroughly with soap and warm water.
   Rinse until all soap is removed.
   Dry the area with a clean dry towel.
-- •Just before you apply the transdermal system, remove it from the pouch.
+- •Just before you apply the transdermal system, remove it from the pouch by tearing at the notches (do not use scissors).
   Remove half of the protective backing and throw it away.
   Try not to touch the exposed side (sticky side) of the transdermal system, because the medicine could come off on your fingers.
 - •Press the sticky side of the transdermal system firmly against the skin site that was just washed and dried.
@@ -64,3 +64,5 @@ Prescribers should instruct patients on the following:
 - •If your transdermal system falls off, apply a new transdermal system to a new site and resume your previous schedule.
 - •Only one EMSAM transdermal system should be worn at a time.
 - •Do not cut the EMSAM transdermal system into smaller portions.
+
+#The brand name listed is a trademark of its respective owner.

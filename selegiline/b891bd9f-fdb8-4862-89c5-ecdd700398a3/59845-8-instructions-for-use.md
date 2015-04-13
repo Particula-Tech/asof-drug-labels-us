@@ -1,10 +1,14 @@
-Instructions for Use EMSAM® [EM sam] (selegiline transdermal system)
+# Instructions for Use
+
+EMSAM® [EM sam] (selegiline transdermal system)
 
 Step 1.
 Where to apply EMSAM
 
-- •Place your EMSAM patch on 1 of the following areas (sites) on your body.
+- •Place your EMSAM patch on one of the following areas (sites) on your body.
   See Figure A.
+
+Figure A
 
 - •Do not put the patch near your waist.
   Clothing and movement may make your patch rub off.
@@ -23,30 +27,45 @@ Before you apply EMSAM
 Step 3.
 How to apply EMSAM
 
-- •Remove EMSAM from its sealed pouch.
+- •Remove EMSAM from its sealed pouch by tearing at the notches (do not used scissors).
+  Pull the pouch open.
+  See Figure B.
+
 - •Look at the patch to make sure it is not damaged.
   The patch should separate easily from the protective liner.
   Throw away the patch if the protective liner is hard to remove.
 - •Do not keep or store your EMSAM outside of the sealed pouch.
   Do not cut your EMSAM into smaller pieces.
-- •The EMSAM patch has 3 layers.
+- •The EMSAM patch has three layers.
+  See Figures C and D.
 
 - Layers:
   1. oProtective liner: The protective liner is the layer that you remove before you put the patch on.
+     See Figure C.
   2. oAdhesive with medicine: The adhesive with medicine is the layer that sticks to your skin.
+     See Figure C.
   3. oOutside backing: The outside backing is the layer you see after you put the patch on your skin.
+     See Figure D.
 - •Apply the patch right away after you remove the patch from its sealed pouch.
 - •Hold the patch with the protective liner facing you.
 - •Gently peel half of the protective liner off the patch and throw it away.
-  See Figure B.
+  See Figure E.
+
+Figure E
 
 - •Avoid touching the sticky side of the patch with your fingers.
   If you accidently touch the sticky side of the patch, wash your hands right away so the medicine does not go into the skin on your hands.
 - •Using the other half of the protective liner as a handle, apply the sticky side of the patch to your selected area.
+  See Figure F.
+
 - •Hold an edge of the remaining half of the protective liner and slowly peel it off.
+  See Figure G.
+
 - •After the protective liner is removed, there should not be any adhesive sticking to the liner.
 - •Using your fingers and palm of your hand, press the entire patch firmly into place against your skin.
-  See Figure C.
+  See Figure H.
+
+Figure H
 
 - •Make sure the patch firmly sticks to your skin.
 - •Gently rub the edges of your patch with your fingers to make sure the patch sticks to your skin.
@@ -79,8 +98,8 @@ Removing and disposing of your patch
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 DISTRIBUTED BY: Mylan Specialty L.P.
-Morgantown, WV 26505
+Morgantown, WV 26505 U.S.A.
 
-MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED SEPTEMBER 2014 EMSAM:PIR12
+REVISED MARCH 2015 EMSAM:PIR13
