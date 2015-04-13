@@ -11,12 +11,17 @@ There have been postmarketing reports of venous thromboembolic events, including
 Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
 If a venous thromboembolic event is suspected, discontinue treatment with testosterone cypionate and initiate appropriate workup and management.
 
-Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal or hepatic disease.
+Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
+To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
+Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
+Patients should be informed of the possible risk when deciding whether to use or to continue to use testosterone cypionate.
+
+Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
 
 Gynecomastia may develop and occasionally persists in patients being treated for hypogonadism.
 
 This product contains benzyl alcohol.
-Benzyl alcohol has been reported to be associated with a fatal "Gasping Syndrome" in premature infants.
+Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
 
 Androgen therapy should be used cautiously in healthy males with delayed puberty.
 The effect on bone maturation should be monitored by assessing bone age of the wrist and hand every 6 months.
@@ -75,7 +80,7 @@ Testosterone is also known to increase the number of tumors and decrease the deg
 
 ### Human data.
 
-There are rare reports of hepatocellular carcinoma in patients receiving long-term therapy with androgens in high doses.
+There are rare reports of hepatocellular carcinoma in patients receiving longterm therapy with androgens in high doses.
 Withdrawal of the drugs did not lead to regression of the tumors in all cases.
 
 Geriatric patients treated with androgens may be at an increased risk of developing prostatic hypertrophy and prostatic carcinoma although conclusive evidence to support this concept is lacking.

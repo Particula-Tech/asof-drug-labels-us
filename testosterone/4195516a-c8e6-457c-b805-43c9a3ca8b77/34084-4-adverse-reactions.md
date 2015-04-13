@@ -7,6 +7,8 @@ Oligospermia may occur at high dosages.
 
 Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne.
 
+Cardiovascular Disorders: myocardial infarction, stroke
+
 Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
 
 Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS).
@@ -17,7 +19,7 @@ Nervous system: Increased or decreased libido, headache, anxiety, depression, an
 
 Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions.
 
-Vascular Disorders - venous thromboembolism
+Vascular Disorders: Venous thromboembolism.
 
 Miscellaneous: Inflammation and pain at the site of intramuscular injection.
 

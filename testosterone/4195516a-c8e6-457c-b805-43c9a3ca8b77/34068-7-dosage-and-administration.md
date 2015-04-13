@@ -1,12 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
+Prior to initiating testosterone cypionate, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 Testosterone cypionate injection is for intramuscular use only.
 
 It should not be given intravenously.
 Intramuscular injections should be given deep in the gluteal muscle.
 
 The suggested dosage for testosterone cypionate injection varies depending on the age, sex, and diagnosis of the individual patient.
-Dosage is adjusted according to the patient's response and the appearance of adverse reactions.
+Dosage is adjusted according to the patient’s response and the appearance of adverse reactions.
 
 Various dosage regimens have been used to induce pubertal changes in hypogonadal males; some experts have advocated lower dosages initially, gradually increasing the dose as puberty progresses, with or without a decrease to maintenance levels.
 Other experts emphasize that higher dosages are needed to induce pubertal changes and lower dosages can be used for maintenance after puberty.

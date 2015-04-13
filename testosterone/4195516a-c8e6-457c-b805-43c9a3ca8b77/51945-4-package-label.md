@@ -6,25 +6,35 @@ NDC 0574-0820-01
 
 Testosterone Cypionate Injection, USP
 
+CIII
+
 200 mg/mL
 
 For Intramuscular Use Only
 
-One 1 mL Sterile Vial
+Contains Benzyl Alcohol as a Preservative
+
+ONE 1 mL STERILE VIAL
 
 # PRINCIPAL DISPLAY PANEL - Carton
 
 Rx Only
 
-NDC 0574-0820-01
+NDC 0574-0820-10
 
 Testosterone Cypionate Injection, USP
 
-200 mg/mL
+CIII
+
+2000 mg/10 mL
+
+(200 mg/mL)
 
 For Intramuscular Use Only
 
-One 1 mL Sterile Vial
+Contains Benzyl Alcohol as a Preservative
+
+ONE 10 mL STERILE MULTIPLE-DOSE VIAL
 
 # PRINCIPAL DISPLAY PANEL - Carton
 
@@ -34,22 +44,14 @@ NDC 0574-0827-10
 
 Testosterone Cypionate Injection, USP
 
-200 mg/mL
+CIII
+
+2000 mg/10 mL
+
+(200 mg/mL)
 
 For Intramuscular Use Only
 
-One 10 mL Sterile Multiple Dose Vial
+Contains Benzyl Alcohol as a Preservative
 
-# PRINCIPAL DISPLAY PANEL - Carton
-
-Rx Only
-
-NDC 0574-0827-10
-
-Testosterone Cypionate Injection, USP
-
-200 mg/mL
-
-For Intramuscular Use Only
-
-One 10 mL Sterile Multiple Dose Vial
+One 10 mL Sterile Multiple-Dose Vial

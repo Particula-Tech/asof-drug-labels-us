@@ -2,25 +2,38 @@
 
 Testosterone Cypionate Injection, USP, 200 mg/mL is available as follows:
 
-1 mL vials NDC 0574-0820-01 10 mL vials NDC 0574-0820-10
+1 mL vials - NDC 0574-0820-01
+
+10 mL vials - NDC 0574-0820-10
 
 Vials should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
 Protect from light.
 Use carton to protect contents from light until used.
 
-Manufactured By PharmaForce, Inc. Hilliard, OH 43026
+Manufactured By
 
-Manufactured For Perrigo® Minneapolis, MN 55427
+PharmaForce, Inc.
 
-9Z800 RC J2
+Hilliard, OH 43026
 
-Rev 06-14 B
+Manufactured For
+
+Perrigo®
+
+Minneapolis, MN 55427
+
+9Z800 RC J3
+
+Rev 02-15 C
 
 # HOW SUPPLIED
 
 Testosterone Cypionate Injection, USP, 200 mg/mL is available as follows:
 
-1 mL vials NDC 0574-0820-01 10 mL vials NDC 0574-0827-10
+1 mL vials - NDC 0574-0820-01
+
+10 mL vials - NDC 0574-0827-10
 
 Vials should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light.
@@ -40,8 +53,34 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-8Z100 RC J3
+8Z100 RC J4
 
-Rev 06-14 B
+Rev 02-15 C
 
-PIN323-PER/3
+PIN323-PER/4
+
+# HOW SUPPLIED
+
+Testosterone Cypionate Injection, USP, 200 mg/mL is available as follows:
+
+1 mL vials - NDC 0574-0820-01 10 mL vials - NDC 0574-0827-10
+
+Vials should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Protect from light.
+Use carton to protect contents from light until used.
+
+Manufactured By
+
+Grand River Aseptic Manufacturing
+
+Grand Rapids, MI 49504
+
+Manufactured For
+
+Perrigo®
+
+Minneapolis, MN 55427
+
+2R800 RC J2
+
+Rev 02-15 B
