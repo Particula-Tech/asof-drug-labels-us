@@ -1,3 +1,5 @@
+# PATIENT INFORMATION
+
 Mirapex® (mîr′-ah-pĕx) (pramipexole dihydrochloride) tablets
 
 Read this Patient Information before you start taking MIRAPEX and each time you get a refill.
@@ -71,23 +73,22 @@ Do not stop taking MIRAPEX without talking to your doctor.
 What are the possible side effects of MIRAPEX?
 
 - falling asleep during normal daily activities.
-  MIRAPEX may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
+  MIRAPEX may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you.
   - Some people taking the medicine in MIRAPEX have had car accidents because they fell asleep while driving.
   - Some patients did not feel sleepy before they fell asleep while driving.
     You could fall asleep without any warning.
-    Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you.
 - low blood pressure when you sit or stand up quickly.
-  You may have:
+  You may have:Sit and stand up slowly after you have been sitting or lying down.
   - dizziness
   - nausea
   - fainting
-  - sweating Sit and stand up slowly after you have been sitting or lying down.
+  - sweating
 - unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease, including MIRAPEX, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
   If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
-- seeing visions, hearing sounds or feeling sensations that are not real (hallucinations).
-  Your chance of having hallucinations is higher if you are elderly (age 65 or older).
-  If you have hallucinations, talk with your doctor right away.
+- hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
+  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
+  If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
 - skin cancer (melanoma).
@@ -130,7 +131,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MIRAPEX that is written for healthcare professionals.
 
-For more information, call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For more information, go to www.mirapex.com (or scan the code below to go to www.mirapex.com) or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
 
 What are the ingredients in MIRAPEX?
 
@@ -146,8 +147,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-©2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: August 2013
+Revised: March 2015
 
-10003128/13 OT1338TH062013 10003129/12 IT1322S
+10003128/14 OT1338UD022015 10003129/13 IT1322T

@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C
+
+There are no adequate and well-controlled studies in pregnant women.
 MIRAPEX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 When pramipexole was given to female rats throughout pregnancy, implantation was inhibited at a dose of 2.5 mg/kg/day (5 times the maximum recommended human dose (MRHD) for Parkinson’s disease of 4.5 mg/day on a body surface area (mg/m2) basis).
@@ -36,7 +38,7 @@ There were no apparent differences in efficacy or safety between older and young
 In clinical studies with RLS patients, 22% of patients were at least 65 years old.
 There were no apparent differences in efficacy or safety between older and younger patients.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.
