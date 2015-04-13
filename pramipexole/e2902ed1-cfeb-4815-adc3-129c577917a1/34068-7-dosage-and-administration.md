@@ -22,10 +22,7 @@ Due to the flexible dose design used in clinical trials, specific dose-response 
 MIRAPEX ER tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
 Thereafter, the dose may be reduced by 0.375 mg per day.
 
-Dosing in Patients with Renal Impairment The elimination of pramipexole is dependent on renal function [see Clinical Pharmacology (12.3)].
-Patients with mild renal impairment (a creatinine clearance above 50 mL/min) require no reduction in daily dose.
-
-In patients with moderate renal impairment (creatinine clearance between 30 and 50 mL/min), MIRAPEX ER tablets should initially be taken every other day.
+Dosing in Patients with Renal Impairment In patients with moderate renal impairment (creatinine clearance between 30 and 50 mL/min), MIRAPEX ER tablets should initially be taken every other day.
 Caution should be exercised and careful assessment of therapeutic response and tolerability should be made before increasing to daily dosing after one week, and before any additional titration in 0.375 mg increments up to 2.25 mg per day.
 Dose adjustment should occur no more frequently than at weekly intervals.
 

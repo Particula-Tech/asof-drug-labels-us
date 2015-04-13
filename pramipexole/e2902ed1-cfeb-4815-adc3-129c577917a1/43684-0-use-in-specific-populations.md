@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C
+
+There are no adequate and well-controlled studies in pregnant women.
 MIRAPEX ER should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 When pramipexole was given to female rats throughout pregnancy, implantation was inhibited at a dose of 2.5 mg/kg/day [5 times the maximum recommended human dose (MRHD) on a mg/m2 basis].
@@ -24,7 +26,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety, and efficacy of MIRAPEX ER tablets in pediatric patients have not been evaluated.
+Safety and effectiveness of MIRAPEX ER tablets in pediatric patients have not been evaluated.
 
 ## 8.5 Geriatric Use
 
@@ -33,7 +35,7 @@ This resulted in an increase in elimination half-life from approximately 8.5 hou
 In a placebo-controlled clinical trial of MIRAPEX ER tablets in early Parkinson’s disease, 47% of the 259 patients were ≥65 years of age.
 Among patients receiving MIRAPEX ER tablets, hallucinations were more common in the elderly, occurring in 13% of the patients ≥65 years of age compared to 2% of the patients <65 years of age.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent upon renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].

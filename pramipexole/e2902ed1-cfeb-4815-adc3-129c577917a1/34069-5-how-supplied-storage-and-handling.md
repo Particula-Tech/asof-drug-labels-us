@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 MIRAPEX ER tablets are available as follows:
 
 0.
@@ -24,6 +26,8 @@ Unit of Use Bottles of 30 NDC 0597-0287-30
 4.5 mg: white to off-white, oval, extended-release tablets debossed with "ER" on one side and "4.5" on the other side.
 Unit of Use Bottles of 30 NDC 0597-0116-30
 
-Storage Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+## 16.2 Storage and Handling
+
+Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Protect from exposure to high humidity.
 Store in a safe place out of the reach of children.
