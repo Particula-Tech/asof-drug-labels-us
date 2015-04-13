@@ -9,7 +9,7 @@ Patients should remain under the care of a healthcare provider when using REYATA
 
 Patients should be advised to avoid doing things that can spread HIV infection to others.
 
-- •Do not share or re-use needles or other injection equipment.
+- •Do not share or reuse needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - •Do not have any kind of sex without protection.
   Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.

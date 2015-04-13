@@ -5,7 +5,7 @@
 - •REYATAZ capsules and oral powder must be taken with food.
 - •Do not open the capsules.
 - •The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
-  When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.2,2.3,2.4,2.5) and Drug Interactions (7)].
+  When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.2, 2.3, 2.4, 2.5) and Drug Interactions (7)].
 - •REYATAZ capsules without ritonavir are not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
 - •REYATAZ oral powder must be taken with ritonavir and is not recommended for use in children who weigh less than 10 kg or who weigh 25 kg or more.
   [See Dosage and Administration (2.4).]
@@ -39,7 +39,7 @@ The recommended daily dosage of REYATAZ capsules and ritonavir in pediatric pati
 
 Table 2: Recommended Dosage of REYATAZ Capsules and Ritonavir in Pediatric Patients (6 to less than 18 years of age)a,b
 
-| Body Weight | REYATAZ Daily Dosage | Ritonavir Daily Dosage |
+| Body weight | REYATAZ Daily Dosage | Ritonavir Daily Dosage |
 | --- | --- | --- |
 | Treatment-Naive and Treatment-Experiencedc |  |  |
 | Less than 15 kg | Capsules not recommended | N/A |
@@ -104,7 +104,7 @@ Table 4: Recommended Dosage of REYATAZ and Ritonavir in Pregnant Patientsa
 | Recommended Regimen | 300 mg | 100 mg |
 | Treatment-Experienced During the Second or Third Trimester When Coadministered with either H2RA or Tenofovirb |  |  |
 | In combination with either H2RA or tenofovir | 400 mg | 100 mg |
-| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir and didanosine). bREYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir and H2RA. |  |  |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b REYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir and H2RA. |  |  |
 
 ## 2.6 Renal Impairment
 

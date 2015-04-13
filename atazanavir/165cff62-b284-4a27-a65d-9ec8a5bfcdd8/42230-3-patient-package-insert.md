@@ -28,12 +28,12 @@ When used with other antiretroviral medicines to treat HIV infection, REYATAZ ma
 Reducing the amount of HIV and increasing the CD4+ (T) cells in your blood may help improve your immune system.
 This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
-REYATAZ does notcure HIV infection or AIDS.
+REYATAZ does not cure HIV infection or AIDS.
 You must stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
 
 Avoid doing things that can spread HIV infection to others:
 
-- •Do not share or re-use needles or other injection equipment.
+- •Do not share or reuse needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - •Do not have any kind of sex without protection.
   Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
@@ -133,6 +133,8 @@ If you take any of the following medicines during treatment with REYATAZ, your h
   - •trimipramine (SURMONTIL®)
   - •imipramine (TOFRANIL®, TOFRANIL-PM®)
   - •protriptyline (VIVACTIL®)
+- •the antipsychotic medicine:
+  - •quetiapine (SEROQUEL®)
 - •the chest pain medicine:
   - •bepridil (VASCOR®)
 - •cholesterol-lowering medicines:
@@ -238,7 +240,8 @@ REYATAZ can cause serious side effects, including:
 - •A change in the way your heart beats (heart rhythm change).
   Tell your healthcare provider right away if you get dizzy or lightheaded.
   These could be symptoms of a heart problem.
-- •Skin rash.Skin rash is common with REYATAZ but can sometimes be severe.
+- •Skin rash.
+  Skin rash is common with REYATAZ but can sometimes be severe.
   Skin rash usually goes away within 2 weeks without any change in treatment.
   Severe rash may develop in association with other symptoms which could be serious.
   If you develop a severe rash or a rash with any of the following symptoms, stop taking REYATAZ and call your healthcare provider right away:
@@ -257,7 +260,7 @@ REYATAZ can cause serious side effects, including:
   If you have liver problems, including hepatitis B or C infection, your liver problems may get worse when you take REYATAZ.
   Your healthcare provider will do blood tests to check your liver before you start REYATAZ and during treatment.
   Tell your healthcare provider right away if you get any of the following symptoms:
-  - •your skin or the white part of your eyes turn yellow
+  - •your skin or the white part of your eyes turns yellow
   - •dark “tea-colored” urine
   - •light colored stools
   - •nausea
@@ -267,7 +270,7 @@ REYATAZ can cause serious side effects, including:
   Tell your healthcare provider right away if you get symptoms of kidney stones which may include, pain in your low back or low stomach-area, blood in your urine, or pain when you urinate.
 - •Gallbladder problems have happened in some people who take REYATAZ.
   Tell your healthcare provider right away if you get symptoms of gallbladder problems which may include:
-  - •pain in the right or middle upper stomach-area
+  - •pain in the right or middle upper stomach area
   - •fever
   - •nausea and vomiting
   - •your skin or the white part of your eyes turns yellow
@@ -338,15 +341,17 @@ REYATAZ capsules: crospovidone, lactose monohydrate, and magnesium stearate.
 The capsule shells contain gelatin, FD&C Blue No. 2, titanium dioxide, black iron oxide, red iron oxide, and yellow iron oxide.
 The capsules are printed with ink containing shellac, titanium dioxide, FD&C Blue No. 2, isopropyl alcohol, ammonium hydroxide, propylene glycol, n-butyl alcohol, simethicone, and dehydrated alcohol.
 
-REYATAZ oral powder:aspartame, sucrose, and orange-vanilla flavor.
+REYATAZ oral powder: aspartame, sucrose, and orange-vanilla flavor.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1341313
+Product of Ireland
 
-Revised: June 2014
+1341313A0
+
+Revised: March 2015
 
 VIDEX® and REYATAZ® are registered trademarks of Bristol-Myers Squibb Company.
 COUMADIN® and SUSTIVA® are registered trademarks of Bristol-Myers Squibb Pharma Company.

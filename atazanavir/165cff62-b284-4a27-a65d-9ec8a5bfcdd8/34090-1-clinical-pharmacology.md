@@ -46,6 +46,8 @@ Table 17: Steady-State Pharmacokinetics of Atazanavir in Healthy Subjects or HIV
 
 Figure 1 displays the mean plasma concentrations of atazanavir at steady state after REYATAZ 400 mg once daily (as two 200-mg capsules) with a light meal and after REYATAZ 300 mg (as two 150-mg capsules) with ritonavir 100 mg once daily with a light meal in HIV-infected adult patients.
 
+Figure 1: Mean (SD) Steady-State Plasma Concentrations of Atazanavir 400 mg (n=13) and 300 mg with Ritonavir (n=10) for HIV-Infected Adult Patients
+
 ### Absorption
 
 Atazanavir is rapidly absorbed with a Tmax of approximately 2.5 hours.
@@ -94,7 +96,7 @@ In healthy subjects, the renal elimination of unchanged atazanavir was approxima
 REYATAZ has been studied in adult subjects with severe renal impairment (n=20), including those on hemodialysis, at multiple doses of 400 mg once daily.
 The mean atazanavir Cmax was 9% lower, AUC was 19% higher, and Cmin was 96% higher in subjects with severe renal impairment not undergoing hemodialysis (n=10), than in age-, weight-, and gender‑matched subjects with normal renal function.
 In a 4-hour dialysis session, 2.1% of the administered dose was removed.
-When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cminwere approximately 25% to 43% lower compared to subjects with normal renal function.
+When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cmin were approximately 25% to 43% lower compared to subjects with normal renal function.
 The mechanism of this decrease is unknown.
 REYATAZ is not recommended for use in HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis.
 [See Dosage and Administration (2.6).]
@@ -151,7 +153,7 @@ Table 20: Steady-State Pharmacokinetics of Atazanavir with Ritonavir in HIV-Infe
 
 ### Drug Interaction Data
 
-Atazanavir is a metabolism-dependent CYP3A inhibitor, with a Kinact value of 0.05 to 0.06 min-1 and Ki value of 0.84 to 1.0 µM.
+Atazanavir is a metabolism-dependent CYP3A inhibitor, with a Kinact value of 0.05 to 0.06 min–1 and Ki value of 0.84 to 1.0 µM.
 Atazanavir is also a direct inhibitor for UGT1A1 (Ki=1.9 µM) and CYP2C8 (Ki=2.1 µM).
 
 Atazanavir has been shown in vivo not to induce its own metabolism nor to increase the biotransformation of some drugs metabolized by CYP3A.
@@ -292,7 +294,7 @@ Generally, if multiple PI resistance substitutions were present in the HIV-1 vir
 The I50L substitution has been detected in treatment-experienced patients experiencing virologic failure after long-term treatment.
 Protease cleavage site changes also emerged on ATV treatment but their presence did not correlate with the level of ATV resistance.
 
-Clinical Studies of Pediatric Subjects in AI424-397 (PRINCE I) and AI424-451(PRINCE II): No treatment-emergent ATV-associated substitutions were detected among treatment failures in AI424-397, but four known resistance-associated substitutions to other PIs arose in the viruses from one subject each (L19I/R, M36M/I, H69K/R, and I72I/V).
+Clinical Studies of Pediatric Subjects in AI424-397 (PRINCE I) and AI424-451 (PRINCE II): No treatment-emergent ATV-associated substitutions were detected among treatment failures in AI424-397, but four known resistance-associated substitutions to other PIs arose in the viruses from one subject each (L19I/R, M36M/I, H69K/R, and I72I/V).
 None of these viruses acquired phenotypic resistance to ATV, ATV/RTV, or any NNRTI or NRTI.
 In AI424-451, ATV-associated resistance substitution (I84V) and other PI substitutions arose in the virus of one subject, including M46M/V, V82V/I, I84I/V, and L90L/M; however, these substitutions did not result in phenotypic resistance to ATV (ATV phenotypic fold change: 1.74, using a commercial investigational assay with an ATV cutoff of 2.2 fold change).
 Secondary PI substitutions also arose in the viruses of one subject each, including V11V/I, G16G/E, D30D/G, E35E/D, K45K/R, L63P/S, and I72I/T.

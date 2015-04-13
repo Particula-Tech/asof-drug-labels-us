@@ -54,7 +54,19 @@ Because these events were reported voluntarily during clinical practice, estimat
 If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered.
 [See Adverse Reactions (6.4).]
 
-## 5.7 Diabetes Mellitus/Hyperglycemia
+## 5.7 Risk of Serious Adverse Reactions Due to Drug Interactions
+
+Initiation of REYATAZ with ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving REYATAZ with ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of REYATAZ with ritonavir, respectively.These interactions may lead to:
+
+- •clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
+- •clinically significant adverse reactions from greater exposures of REYATAZ with ritonavir.
+- •loss of therapeutic effect of REYATAZ with ritonavir and possible development of resistance.
+
+See Table 16 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during REYATAZ/ritonavir therapy; review concomitant medications during REYATAZ/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
+
+## 5.8 Diabetes Mellitus/Hyperglycemia
 
 New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV-infected patients receiving protease inhibitor therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
@@ -63,27 +75,27 @@ In those patients who discontinued protease inhibitor therapy, hyperglycemia per
 Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
 [See Adverse Reactions (6.4).]
 
-## 5.8 Immune Reconstitution Syndrome
+## 5.9 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including REYATAZ.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.9 Fat Redistribution
+## 5.10 Fat Redistribution
 
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 
-## 5.10 Hemophilia
+## 5.11 Hemophilia
 
 There have been reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis, in patients with hemophilia type A and B treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced.
 A causal relationship between protease inhibitor therapy and these events has not been established.
 
-## 5.11 Resistance/Cross-Resistance
+## 5.12 Resistance/Cross-Resistance
 
 Various degrees of cross-resistance among protease inhibitors have been observed.
 Resistance to atazanavir may not preclude the subsequent use of other protease inhibitors.

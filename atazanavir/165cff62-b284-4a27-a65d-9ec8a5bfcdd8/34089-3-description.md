@@ -10,7 +10,8 @@ Atazanavir sulfate has the following structural formula:
 Atazanavir sulfate is a white to pale-yellow crystalline powder.
 It is slightly soluble in water (4-5 mg/mL, free base equivalent) with the pH of a saturated solution in water being about 1.9 at 24 ± 3°C.
 
-REYATAZ Capsules are available for oral administration in strengths of 150 mg, 200 mg, or 300 mg of atazanavir, which are equivalent to 170.8 mg, 227.8 mg, or 341.69 mg of atazanavir sulfate, respectively.The capsules also contain the following inactive ingredients: crospovidone, lactose monohydrate, and magnesium stearate.
+REYATAZ Capsules are available for oral administration in strengths of 150 mg, 200 mg, or 300 mg of atazanavir, which are equivalent to 170.8 mg, 227.8 mg, or 341.69 mg of atazanavir sulfate, respectively.
+The capsules also contain the following inactive ingredients: crospovidone, lactose monohydrate, and magnesium stearate.
 The capsule shells contain the following inactive ingredients: gelatin, FD&C Blue No. 2, titanium dioxide, black iron oxide, red iron oxide, and yellow iron oxide.
 The capsules are printed with ink containing shellac, titanium dioxide, FD&C Blue No. 2, isopropyl alcohol, ammonium hydroxide, propylene glycol, n-butyl alcohol, simethicone, and dehydrated alcohol.
 

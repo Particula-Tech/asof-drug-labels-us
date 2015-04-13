@@ -54,7 +54,7 @@ Table 8: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe In
 | Peripheral neurologic symptoms | <1% | 1% | 4% | 3% |  |  |  |
 | Skin and Appendages |  |  |  |  |  |  |  |
 | Rash | 7% | 10% | 5% | 1% |  |  |  |
-| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on regimens containing REYATAZ. cMedian time on therapy. d Includes long-term follow-up. e As a fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |  |  |
+| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on regimens containing REYATAZ. c Median time on therapy. d Includes long-term follow-up. e As a fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |  |  |
 
 ### Treatment-Emergent Adverse Reactions in Treatment-Experienced Patients
 
@@ -251,7 +251,7 @@ Hepatic System: hepatic function abnormalities
 
 Hepatobiliary Disorders: cholelithiasis [see Warnings and Precautions (5.5)], cholecystitis, cholestasis
 
-Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.7)]
+Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.8)]
 
 Musculoskeletal System: arthralgia
 
