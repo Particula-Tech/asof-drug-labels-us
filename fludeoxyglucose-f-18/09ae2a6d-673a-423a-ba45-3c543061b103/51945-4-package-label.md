@@ -1,3 +1,7 @@
-Vial Label
+Vial Label- 30 ml vial
 
-Package (lead shield) label
+Vial Label- 50 ml vial
+
+Lead shield label- 30 ml vial
+
+Lead shield label- 50 ml vial
