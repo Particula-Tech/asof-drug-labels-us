@@ -2,7 +2,9 @@
 
 ZARXIO (zar-zee-oh)
 
-(filgrastim-sndz) injection
+(filgrastim-sndz)
+
+injection
 
 What is ZARXIO?
 
@@ -124,7 +126,9 @@ Instructions for Use
 
 ZARXIO (zar-zee-oh)
 
-(filgrastim-sndz) injection
+(filgrastim-sndz)
+
+injection
 
 Important:
 
@@ -338,6 +342,6 @@ Manufactured by: Sandoz Inc., Princeton, NJ 08540
 
 At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
 
-03-2015M
+03-2015-02M
 
-46154218
+46159459
