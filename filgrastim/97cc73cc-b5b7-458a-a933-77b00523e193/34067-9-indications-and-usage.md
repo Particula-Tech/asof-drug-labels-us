@@ -19,3 +19,7 @@ NEUPOGEN is indicated for the mobilization of autologous hematopoietic progenito
 ## 1.5 Patients with Severe Chronic Neutropenia
 
 NEUPOGEN is indicated for chronic administration to reduce the incidence and duration of sequelae of neutropenia (e.g.‚ fever‚ infections‚ oropharyngeal ulcers) in symptomatic patients with congenital neutropenia‚ cyclic neutropenia‚ or idiopathic neutropenia [see Clinical Studies (14.5)].
+
+## 1.6 Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+
+NEUPOGEN is indicated to increase survival in patients acutely exposed to myelosuppressive doses of radiation [see Clinical Studies (14.6)].

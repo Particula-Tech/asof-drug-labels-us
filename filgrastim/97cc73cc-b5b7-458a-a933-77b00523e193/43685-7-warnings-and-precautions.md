@@ -56,7 +56,7 @@ Monitor platelet counts.
 
 Patients with Cancer Receiving Myelosuppressive Chemotherapy White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving NEUPOGEN at dosages above 5 mcg/kg/day.
 In patients with cancer receiving NEUPOGEN as an adjunct to myelosuppressive chemotherapy‚ to avoid the potential risks of excessive leukocytosis‚ it is recommended that NEUPOGEN therapy be discontinued if the ANC surpasses 10‚000/mm3 after the chemotherapy-induced ANC nadir has occurred.
-Monitor CBCs at least twice weekly during therapy [see Warnings and Precautions (5.13)].
+Monitor CBCs at least twice weekly during therapy.
 Dosages of NEUPOGEN that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
 
 In patients with cancer receiving myelosuppressive chemotherapy‚ discontinuation of NEUPOGEN therapy usually resulted in a 50% decrease in circulating neutrophils within 1 to 2 days‚ with a return to pretreatment levels in 1 to 7 days.
@@ -74,9 +74,9 @@ NEUPOGEN may be started at a reduced dose when the symptoms resolve and the ANC 
 ## 5.11 Potential Effect on Malignant Cells
 
 NEUPOGEN is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony stimulating factor (G-CSF) receptor through which NEUPOGEN acts has also been found on tumor cell lines.
-The possibility that NEUPOGEN acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which NEUPOGEN is not approved, cannot be excluded.
-The safety of NEUPOGEN in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
+The granulocyte-colony stimulating factor (G-CSF) receptor through which filgrastim acts has also been found on tumor cell lines.
+The possibility that filgrastim acts as a growth factor for any tumor type cannot be excluded.
+The safety of filgrastim in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
 When NEUPOGEN is used to mobilize PBPC‚ tumor cells may be released from the marrow and subsequently collected in the leukapheresis product.
 The effect of reinfusion of tumor cells has not been well studied‚ and the limited data available are inconclusive.

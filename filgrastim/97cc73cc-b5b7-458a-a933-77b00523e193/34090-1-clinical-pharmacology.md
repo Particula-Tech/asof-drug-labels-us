@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Colony-stimulating factors, including filgrastim, are glycoproteins that act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation‚ and some end-cell functions.
+Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation.
 
 Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells.
 G-CSF regulates the production of neutrophils within the bone marrow and affects neutrophil progenitor proliferation‚ differentiation, and selected end-cell functions (including enhanced phagocytic ability‚ priming of the cellular metabolism associated with respiratory burst‚ antibody-dependent killing, and the increased expression of some cell surface antigens).
@@ -27,7 +27,7 @@ Such changes were transient and were not associated with clinical sequelae, nor 
 
 Filgrastim exhibits nonlinear pharmacokinetics.
 Clearance is dependent on filgrastim concentration and neutrophil count: G-CSF receptor-mediated clearance is saturated by high concentration of NEUPOGEN and is diminished by neutropenia.
-In addition, filgrastim is cleared by the kidney [see Use in Specific Populations (8.6)].
+In addition, filgrastim is cleared by the kidney.
 
 Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg of filgrastim resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours.
 After intravenous administration, the volume of distribution averaged 150 mL/kg and the elimination half-life was approximately 3.5 hours in both normal subjects and cancer subjects.
@@ -37,12 +37,16 @@ The half-lives were similar for intravenous administration (231 minutes‚ follo
 Continuous 24-hour intravenous infusions of 20 mcg/kg over an 11 to 20-day period produced steady-state serum concentrations of filgrastim with no evidence of drug accumulation over the time period investigated.
 The absolute bioavailability of filgrastim after subcutaneous administration is 60% to 70%.
 
-Specific Populations The pharmacokinetics of filgrastim were studied in pediatric patients with advanced neuroblastoma [see Use in Specific Populations (8.4)], in subjects with renal impairment, and in subjects with hepatic impairment.
+Specific Populations
 
-Pediatric Patients: The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim.
+Patients Acutely Exposed to Myelosuppressive doses of Radiation The pharmacokinetics of filgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
+Based on limited pharmacokinetics data in irradiated non-human primates, the area under the time-concentration curve (AUC), reflecting the exposure to filgrastim in non-human primates at 10 mcg/kg dose of NEUPOGEN, appears to be similar to that in humans at 5 mcg/kg.
+Simulations conducted using the population pharmacokinetic model indicates that the exposures to filgrastim at a Neupogen dose of 10 mcg/kg in patients acutely exposed to myelosuppressive doses of radiation are expected to exceed the exposures at a dose of 10 mcg/kg in irradiated non-human primates.
 
-Renal Impairment: In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
+Pediatric Patients The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim [see Use in Specific Populations (8.4)].
+
+Renal Impairment In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end-stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
 However, dose adjustment in patients with renal impairment is not necessary.
 
-Hepatic Impairment: Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
+Hepatic Impairment Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
 The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, filgrastim dose adjustment for patients with hepatic impairment is not necessary.

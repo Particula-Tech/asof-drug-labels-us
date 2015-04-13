@@ -21,7 +21,8 @@ Monitor CBCs and platelet counts frequently following marrow transplantation.
 
 During the period of neutrophil recovery‚ titrate the daily dosage of NEUPOGEN against the neutrophil response (see Table 1).
 
-Table 1: Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cancer Following BMT
+Table 1.
+Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cancer Following BMT
 
 | Absolute Neutrophil Count | NEUPOGEN Dosage Adjustment |
 | --- | --- |
@@ -54,7 +55,19 @@ Monitor CBCs for Dosage Adjustments During the initial 4 weeks of NEUPOGEN thera
 Once a patient is clinically stable‚ monitor CBCs with differential and platelet counts monthly during the first year of treatment.
 Thereafter, if the patient is clinically stable, less frequent routine monitoring is recommended.
 
-## 2.5 Important Administration Instructions
+## 2.5 Dosage in Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+
+The recommended dose of NEUPOGEN is 10 mcg/kg as a single daily subcutaneous injection for patients exposed to myelosuppressive doses of radiation.
+Administer NEUPOGEN as soon as possible after suspected or confirmed exposure to radiation doses greater than 2 gray (Gy).
+
+Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposure) based on information from public health authorities, biodosimetry if available, or clinical findings such as time to onset of vomiting or lymphocyte depletion kinetics.
+
+Obtain a baseline CBC and then serial CBCs approximately every third day until the ANC remains greater than 1,000/mm3 for 3 consecutive CBCs.
+Do not delay administration of NEUPOGEN if a CBC is not readily available.
+
+Continue administration of NEUPOGEN until the ANC remains greater than 1,000/mm3 for 3 consecutive CBCs or exceeds 10,000/mm3 after a radiation-induced nadir.
+
+## 2.6 Important Administration Instructions
 
 NEUPOGEN is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NEUPOGEN to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
@@ -73,7 +86,7 @@ Administration Instructions for the Prefilled Syringe Persons with latex allergi
 Administration Instructions for Dilution (Vial Only) If required for intravenous administration‚ NEUPOGEN (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
 NEUPOGEN diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
 When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)‚ NEUPOGEN is compatible with glass bottles‚ polyvinyl chloride (PVC) and polyolefin intravenous bags‚ and polypropylene syringes.
-Do not dilute with saline at any time; because the product may precipitate.
+Do not dilute with saline at any time because the product may precipitate.
 
 Diluted NEUPOGEN solution can be stored at room temperature for up to 24 hours.
 This 24 hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.

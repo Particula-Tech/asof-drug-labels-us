@@ -16,7 +16,7 @@ Single-dose‚ preservative-free, prefilled syringe with 27 gauge, ½ inch needl
 - Pack of 1 prefilled syringe (NDC 55513-209-91).
 - Pack of 10 prefilled syringes (NDC 55513-209-10).
 
-The needle cover of the prefilled syringe contains dry natural rubber (a derivative of latex) [see Dosage and Administration (2.5).
+The needle cover of the prefilled syringe contains dry natural rubber (a derivative of latex) [see Dosage and Administration (2.6)].
 
 Store NEUPOGEN at 2° to 8°C (36° to 46°F) in the carton to protect from light.
 Do not leave NEUPOGEN in direct sunlight.

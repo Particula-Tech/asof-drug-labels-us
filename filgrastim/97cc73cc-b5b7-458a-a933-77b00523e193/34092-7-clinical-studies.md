@@ -21,7 +21,7 @@ The safety and efficacy of NEUPOGEN to reduce the time to neutrophil recovery an
 
 In Study 4 the initial induction therapy consisted of intravenous daunorubicin days 1, 2, and 3; cytosine arabinoside days 1 to 7; and etoposide days 1 to 5.
 Patients were randomized to receive subcutaneous NEUPOGEN (n=259) at a dose of 5 mcg/kg/day or placebo (n=262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥1000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
-The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white count (65% - <25,000 /mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
+The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white count (65% < 25,000/mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
 Treatment with NEUPOGEN resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, NEUPOGEN-treated patients 14 days, placebo-treated patients 19 days (p = 0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
@@ -39,7 +39,7 @@ There were 54 patients randomized 1:1:1 to control, NEUPOGEN 10 mcg/kg/day, and 
 The median age was 33 (range 17 to 57) years; 56% males; 69% Hodgkin’s disease and 31% non-Hodgkin’s lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia ANC < 500/mm3.
-A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
+A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the NEUPOGEN-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group, and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 
 In Study 9, patients with Hodgkin’s disease and non-Hodgkin’s lymphoma received a preparative regimen intravenous cyclophosphamide, etoposide, and BCNU (“CVP”).
 There were 43 evaluable patients randomized to continuous subcutaneous infusion NEUPOGEN 10 mcg/kg/day (n=19), NEUPOGEN 30 mcg/kg/day (n=10) and no treatment (n=14) starting the day after marrow infusion for maximum of 28 days.
@@ -111,3 +111,22 @@ Additional efficacy endpoints included a comparison between patients randomized 
 The incidence for each of these 5 clinical parameters was lower in the NEUPOGEN arm compared to the control arm for cohorts in each of the 3 major diagnostic categories.
 An analysis of variance showed no significant interaction between treatment and diagnosis‚ suggesting that efficacy did not differ substantially in the different diseases.
 Although NEUPOGEN substantially reduced neutropenia in all patient groups‚ in patients with cyclic neutropenia‚ cycling persisted but the period of neutropenia was shortened to 1 day.
+
+## 14.6 Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+
+Efficacy studies of NEUPOGEN could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
+Approval of this indication was based on efficacy studies conducted in animals and data supporting the use of NEUPOGEN for other approved indications [see Dosage and Administration (2.1 to 2.4)].
+
+Because of the uncertainty associated with extrapolating animal efficacy data to humans, the selection of human dose for NEUPOGEN is aimed at providing exposures to filgrastim that exceed those observed in animal efficacy studies.
+The 10 mcg/kg daily dose is selected for humans exposed to myelosuppressive doses of radiation because the exposure associated with such a dose is expected to exceed the exposure associated with a 10 mcg/kg dose in non-human primates [see Pharmacokinetics (12.3)].
+The safety of NEUPOGEN at a daily dose of 10 mcg/kg has been assessed on the basis of clinical experience in approved indications.
+
+The efficacy of NEUPOGEN was studied in a randomized, blinded, placebo-controlled study in a non-human primate model of radiation injury.
+The planned sample size was 62 animals, but the study was stopped at the interim analysis with 46 animals because efficacy was established.
+Rhesus macaques were randomized to a control (n = 22) or treated (n = 24) group.
+Animals were exposed to total body irradiation of 7.4 ± 0.15 Gy delivered at 0.8 ± 0.03 Gy/min, representing a dose that would be lethal in 50% of animals by 60 days of follow-up (LD50/60).
+Starting on day 1 after irradiation, animals received daily subcutaneous injections of placebo (5% dextrose in water) or filgrastim (10 mcg/kg/day).
+Blinded treatment was stopped when one of the following criteria was met: ANC ≥ 1,000/mm3 for 3 consecutive days, or ANC ≥ 10,000/mm3 for more than 2 consecutive days within study day 1 to 5, or ANC ≥ 10,000/mm3 any time after study day 5.
+Animals received medical management consisting of intravenous fluids, antibiotics, blood transfusions, and other support as required.
+
+Filgrastim significantly (at 0.023 level of significance) reduced 60-day mortality in the irradiated non-human primates: 21% mortality (5/24) in the filgrastim group compared to 59% mortality (13/22) in the control group.
