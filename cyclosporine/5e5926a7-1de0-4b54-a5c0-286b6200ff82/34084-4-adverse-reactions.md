@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions of Sandimmune® (cyclosporine) therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
+The principal adverse reactions of Sandimmune (cyclosporine) therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
 
 Hypertension
 
@@ -10,7 +10,7 @@ Glomerular Capillary Thrombosis
 
 Glomerular capillary thrombosis has been found in patients treated with cyclosporine and may progress to graft failure.
 The pathologic changes resemble those seen in the hemolytic-uremic syndrome and include thrombosis of the renal microvasculature, with platelet-fibrin thrombi occluding glomerular capillaries and afferent arterioles, microangiopathic hemolytic anemia, thrombocytopenia, and decreased renal function.
-Similar findings have been observed when other immunosuppressives have been employed posttransplantation.
+Similar findings have been observed when other immunosuppressives have been employed post transplantation.
 
 Hypomagnesemia
 
@@ -21,9 +21,9 @@ Clinical Studies
 
 The following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants:
 
-|  | Randomized Kidney Patients |  | All Sandimmune® (cyclosporine) Patients |  |  |
+|  | Randomized Kidney Patients |  | All Sandimmune (cyclosporine) Patients |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Sandimmune® | Azathioprine | Kidney | Heart | Liver |
+|  | Sandimmune | Azathioprine | Kidney | Heart | Liver |
 | Body System/ | (N=227) | (N=228) | (N=705) | (N=112) | (N=75) |
 | Adverse Reactions | % | % | % | % | % |
 | Genitourinary |  |  |  |  |  |
@@ -61,8 +61,8 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 
 | Renal Transplant Patients in Whom Therapy Was Discontinued |  |  |  |
 | --- | --- | --- | --- |
-|  | Randomized Patients |  | All Sandimmune® Patients |
-|  | Sandimmune® | Azathioprine |  |
+|  | Randomized Patients |  | All Sandimmune Patients |
+|  | Sandimmune | Azathioprine |  |
 |  | (N=227) | (N=228) | (N=705) |
 | Reason for Discontinuation | % | % | % |
 | Renal Toxicity | 5.7 | 0 | 5.4 |
@@ -73,17 +73,17 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Hypertension | 0 | 0 | 0.3 |
 | Hematological Abnormalities | 0 | 0.4 | 0 |
 | Other | 0 | 0 | 0.7 |
-| Sandimmune® (cyclosporine) was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
+| Sandimmune (cyclosporine) was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
 Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
 Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported.
-(see WARNINGS)
+(See WARNINGS)
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
-|  | Sandimmune® Treatment | Standard Treatment* |
+|  | Sandimmune Treatment | Standard Treatment* |
 |  | (N=227) | (N=228) |
 | Complication | % of Complications | % of Complications |
 | Septicemia | 5.3 | 4.8 |
@@ -117,3 +117,8 @@ Headache, including Migraine
 
 Cases of migraine have been reported.
 In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
+
+Pain of lower extremities
+
+Isolated cases of pain of lower extremities have been reported in association with cyclosporine.
+Pain of lower extremities has also been noted as part of Calcineurin-Inhibitor Induced Pain Syndrome (CIPS) as described in the literature.

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Cyclosporine, the active principle in Sandimmune® (cyclosporine) is a cyclic polypeptide immunosuppressant agent consisting of 11 amino acids.
+Cyclosporine, the active principle in Sandimmune (cyclosporine) is a cyclic polypeptide immunosuppressant agent consisting of 11 amino acids.
 It is produced as a metabolite by the fungus species Beauveria nivea.
 
 Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic(L-alanyl-D-alanyl-N-methyl-L-leucyl-N-methyl-L-leucyl-N-methyl-L-valyl-3-hydroxy-N,4-dimethyl-L-2-amino-6-octenoyl-L-α-amino-butyryl-N-methylglycyl-N-methyl-L-leucyl-L-valyl-N-methyl-L-leucyl).
@@ -35,7 +35,7 @@ Helv. ………………………………………………………………�
 dissolved in an olive oil, Ph.
 Helv./Labrafil M 1944 CS (polyoxyethylated oleic glycerides) vehicle which must be further diluted with milk, chocolate milk, or orange juice before oral administration.
 
-Sandimmune® Injection (cyclosporine injection, USP) is available in a 5 mL sterile ampul for I.V. administration.
+Sandimmune® Injection (cyclosporine injection, USP) is available in a 5 mL sterile ampul for intravenous (IV) administration.
 
 Each mL contains:
 

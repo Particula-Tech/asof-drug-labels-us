@@ -12,7 +12,7 @@ Unit dose packages of 30 capsules,
 
 3 blister cards of 10 capsules………………………………………………………….NDC 0078-0241-15
 
-Store and Dispense: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store and Dispense: Store at 25°C (77°F); excursions permitted to 15C to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
 
 An odor may be detected upon opening the unit dose container, which will dissipate shortly thereafter.
 This odor does not affect the quality of the product.
@@ -49,4 +49,4 @@ Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2013-37 May 2013
+T2015-46 March 2015

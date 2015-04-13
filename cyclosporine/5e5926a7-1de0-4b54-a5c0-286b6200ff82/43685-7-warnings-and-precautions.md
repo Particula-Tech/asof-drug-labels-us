@@ -1,21 +1,21 @@
 # WARNINGS
 
-Kidney, Liver and Heart Transplant
+Kidney, Liver, and Heart Transplant
 
-(See BOXED WARNING): Sandimmune® (cyclosporine), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
+(See BOXED WARNING): Sandimmune (cyclosporine), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
 
 Nephrotoxicity
 
-It is not unusual for serum creatinine and BUN levels to be elevated during Sandimmune® (cyclosporine) therapy.
+It is not unusual for serum creatinine and BUN levels to be elevated during Sandimmune (cyclosporine) therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
 Nephrotoxicity has been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
-Mild nephrotoxicity was generally noted 2-3 months after transplant and consisted of an arrest in the fall of the preoperative elevations of BUN and creatinine at a range of 35-45 mg/dl and 2.0-2.5 mg/dl, respectively.
+Mild nephrotoxicity was generally noted 2 to 3 months after transplant and consisted of an arrest in the fall of the preoperative elevations of BUN and creatinine at a range of 35 to 45 mg/dl and 2.0 to 2.5 mg/dl, respectively.
 These elevations were often responsive to dosage reduction.
 
 More overt nephrotoxicity was seen early after transplantation and was characterized by a rapidly rising BUN and creatinine.
 Since these events are similar to rejection episodes, care must be taken to differentiate between them.
-This form of nephrotoxicity is usually responsive to Sandimmune® (cyclosporine) dosage reduction.
+This form of nephrotoxicity is usually responsive to Sandimmune (cyclosporine) dosage reduction.
 
 Although specific diagnostic criteria which reliably differentiate renal graft rejection from drug toxicity have not been found, a number of parameters have been significantly associated to one or the other.
 It should be noted however, that up to 20% of patients may have simultaneous nephrotoxicity and rejection.
@@ -33,7 +33,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 |  |  | Graft swelling and tenderness |
 |  |  | Decrease in daily urine volume > 500 mL (or 50%) |
 | Laboratory | CyA serum trough level > 200 ng/mL | CyA serum trough level < 150 ng/mL |
-|  | Gradual rise in Cr (< 0.15 mg/dl/day)a | Rapid rise in Cr (> 0.3 mg/dl/day)a |
+|  | Gradual rise in Cr (< 0.15 mg/dL/day)a | Rapid rise in Cr (> 0.3 mg/dL/day)a |
 |  | Cr plateau < 25% above baseline | Cr > 25% above baseline |
 |  | BUN/Cr ≥ 20 | BUN/Cr < 20 |
 | Biopsy | Arteriolopathy (medial hypertrophya, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) | Endovasculitisc (proliferationa, intimal arteritisb, necrosis, sclerosis) |
@@ -51,12 +51,12 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | Radionuclide Scan | Normal or generally decreased perfusion | Patchy arterial flow |
 |  | Decrease in tubular function | Decrease in perfusion > decrease in tubular function |
 |  | (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
-| Therapy | Responds to decreased Sandimmune® (cyclosporine) | Responds to increased steroids or antilymphocyte globulin |
+| Therapy | Responds to decreased Sandimmune (cyclosporine) | Responds to increased steroids or antilymphocyte globulin |
 
 ap <0.05, bp <0.01, cp <0.001, dp <0.0001
 
 A form of chronic progressive cyclosporine-associated nephrotoxicity is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
-From 5%-15% of transplant recipients will fail to show a reduction in a rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
+From 5% to 15% of transplant recipients will fail to show a reduction in a rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
 Renal biopsies from these patients will demonstrate an interstitial fibrosis with tubular atrophy.
 In addition, toxic tubulopathy, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy may be present.
 Though none of these morphologic changes is entirely specific, a histologic diagnosis of chronic progressive cyclosporine-associated nephrotoxicity requires evidence of these.
@@ -68,9 +68,9 @@ The reversibility of interstitial fibrosis and its correlation to renal function
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 In patients with persistent high elevations of BUN and creatinine who are unresponsive to dosage adjustments, consideration should be given to switching to other immunosuppressive therapy.
-In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the Sandimmune® (cyclosporine) dosage to a very high level in an attempt to reverse the rejection.
+In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the Sandimmune (cyclosporine) dosage to a very high level in an attempt to reverse the rejection.
 
-Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when co-administering Sandimmune with other drugs that may impair renal function.
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Sandimmune with other drugs that may impair renal function.
 (See PRECAUTIONS, Drug Interactions)
 
 Thrombotic Microangiopathy
@@ -78,7 +78,7 @@ Thrombotic Microangiopathy
 Occasionally patients have developed a syndrome of thrombocytopenia and microangiopathic hemolytic anemia which may result in graft failure.
 The vasculopathy can occur in the absence of rejection and is accompanied by avid platelet consumption within the graft as demonstrated by Indium 111 labeled platelet studies.
 Neither the pathogenesis nor the management of this syndrome is clear.
-Though resolution has occurred after reduction or discontinuation of Sandimmune® (cyclosporine) and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans.
+Though resolution has occurred after reduction or discontinuation of Sandimmune (cyclosporine) and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans.
 (See ADVERSE REACTIONS)
 
 Hyperkalemia
@@ -92,14 +92,14 @@ Most reports included patients with significant co-morbidities, underlying condi
 In some cases, mainly in transplant patients, fatal outcomes have been reported (See ADVERSE REACTIONS, Postmarketing Experience)
 
 Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
-This was usually noted during the first month of therapy when high doses of Sandimmune® (cyclosporine) were used.
+This was usually noted during the first month of therapy when high doses of Sandimmune (cyclosporine) were used.
 The chemistry elevations usually decreased with a reduction in dosage.
 
 Malignancies
 
-As in patients receiving other immunosuppressants, those patients receiving Sandimmune® (cyclosporine) are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
+As in patients receiving other immunosuppressants, those patients receiving Sandimmune (cyclosporine) are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
 The increased risk appears related to the intensity and duration of immunosuppression rather than to the use of specific agents.
-Because of the danger of oversuppression of the immune system, which can also increase susceptibility to infection, Sandimmune® (cyclosporine) should not be administered with other immunosuppressive agents except adrenal corticosteroids.
+Because of the danger of oversuppression of the immune system, which can also increase susceptibility to infection, Sandimmune (cyclosporine) should not be administered with other immunosuppressive agents except adrenal corticosteroids.
 The efficacy and safety of cyclosporine in combination with other immunosuppressive agents have not been determined.
 Some malignancies may be fatal.
 Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
@@ -142,17 +142,17 @@ Specific Excipients
 
 Anaphylactic Reactions
 
-Rarely (approximately 1 in 1000), patients receiving Sandimmune® Injection (cyclosporine injection, USP) have experienced anaphylactic reactions.
-Although the exact cause of these reactions is unknown, it is believed to be due to the Cremophor® EL (polyoxyethylated castor oil) used as the vehicle for the I.V. formulation.
+Rarely (approximately 1 in 1000), patients receiving Sandimmune Injection (cyclosporine injection, USP) have experienced anaphylactic reactions.
+Although the exact cause of these reactions is unknown, it is believed to be due to the Cremophor EL (polyoxyethylated castor oil) used as the vehicle for the intravenous (IV) formulation.
 These reactions can consist of flushing of the face and upper thorax, and noncardiogenic pulmonary edema, with acute respiratory distress, dyspnea, wheezing, blood pressure changes, and tachycardia.
 One patient died after respiratory arrest and aspiration pneumonia.
 In some cases, the reaction subsided after the infusion was stopped.
 
-Patients receiving Sandimmune® Injection (cyclosporine injection, USP) should be under continuous observation for at least the first 30 minutes following the start of the infusion and at frequent intervals thereafter.
+Patients receiving Sandimmune Injection (cyclosporine injection, USP) should be under continuous observation for at least the first 30 minutes following the start of the infusion and at frequent intervals thereafter.
 If anaphylaxis occurs, the infusion should be stopped.
 An aqueous solution of epinephrine 1:1000 should be available at the bedside as well as a source of oxygen.
 
-Anaphylactic reactions have not been reported with the soft gelatin capsules or oral solution which lack Cremophor® EL (polyoxyethylated castor oil).
+Anaphylactic reactions have not been reported with the soft gelatin capsules or oral solution which lack Cremophor EL (polyoxyethylated castor oil).
 In fact, patients experiencing anaphylactic reactions have been treated subsequently with the soft gelatin capsules or oral solution without incident.
 
 Alcohol (ethanol)
@@ -161,23 +161,23 @@ The alcohol content (See DESCRIPTION) of Sandimmune should be taken into account
 For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
 The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
 
-Care should be taken in using Sandimmune® (cyclosporine) with nephrotoxic drugs.
+Care should be taken in using Sandimmune (cyclosporine) with nephrotoxic drugs.
 (See PRECAUTIONS)
 
 Conversion from Neoral to Sandimmune
 
-Because Sandimmune® (cyclosporine) is not bioequivalent to Neoral®, conversion from Neoral® to Sandimmune® (cyclosporine) using a 1:1 ratio (mg/kg/day) may result in a lower cyclosporine blood concentration.
-Conversion from Neoral® to Sandimmune® (cyclosporine) should be made with increased blood concentration monitoring to avoid the potential of underdosing.
+Because Sandimmune (cyclosporine) is not bioequivalent to Neoral, conversion from Neoral to Sandimmune (cyclosporine) using a 1:1 ratio (mg/kg/day) may result in a lower cyclosporine blood concentration.
+Conversion from Neoral to Sandimmune (cyclosporine) should be made with increased blood concentration monitoring to avoid the potential of underdosing.
 
 # PRECAUTIONS
 
 ## General
 
-Patients with malabsorption may have difficulty in achieving therapeutic concentrations with Sandimmune® Soft Gelatin Capsules or Oral Solution.
+Patients with malabsorption may have difficulty in achieving therapeutic concentrations with Sandimmune Soft Gelatin Capsules or Oral Solution.
 
 Hypertension
 
-Hypertension is a common side effect of Sandimmune® (cyclosporine) therapy.
+Hypertension is a common side effect of Sandimmune (cyclosporine) therapy.
 (See ADVERSE REACTIONS) Mild or moderate hypertension is more frequently encountered than severe hypertension and the incidence decreases over time.
 Antihypertensive therapy may be required.
 Control of blood pressure can be accomplished with any of the common antihypertensive agents.
@@ -187,4 +187,4 @@ While calcium antagonists can be effective agents in treating cyclosporine-assoc
 
 Vaccination
 
-During treatment with Sandimmune® (cyclosporine), vaccination may be less effective and the use of live attenuated vaccines should be avoided.
+During treatment with Sandimmune (cyclosporine), vaccination may be less effective and the use of live attenuated vaccines should be avoided.
