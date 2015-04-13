@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-Neoral® Soft Gelatin Capsules (cyclosporine capsules, USP) MODIFIED and Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED
+Neoral Soft Gelatin Capsules (cyclosporine capsules, USP) MODIFIED and Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED
 
-Neoral® has increased bioavailability in comparison to Sandimmune®.
-Neoral® and Sandimmune® are not bioequivalent and cannot be used interchangeably without physician supervision.
+Neoral has increased bioavailability in comparison to Sandimmune.
+Neoral and Sandimmune are not bioequivalent and cannot be used interchangeably without physician supervision.
 
-The daily dose of Neoral® should always be given in two divided doses (BID).
-It is recommended that Neoral® be administered on a consistent schedule with regard to time of day and relation to meals.
+The daily dose of Neoral should always be given in two divided doses (BID).
+It is recommended that Neoral be administered on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
 Specific Populations
@@ -29,17 +29,17 @@ Dose reduction may be necessary in patients with severe liver impairment to main
 
 ## Newly Transplanted Patients
 
-The initial oral dose of Neoral® can be given 4-12 hours prior to transplantation or be given postoperatively.
-The initial dose of Neoral® varies depending on the transplanted organ and the other immunosuppressive agents included in the immunosuppressive protocol.
-In newly transplanted patients, the initial oral dose of Neoral® is the same as the initial oral dose of Sandimmune®.
-Suggested initial doses are available from the results of a 1994 survey of the use of Sandimmune® in US transplant centers.
+The initial oral dose of Neoral can be given 4 to 12 hours prior to transplantation or be given postoperatively.
+The initial dose of Neoral varies depending on the transplanted organ and the other immunosuppressive agents included in the immunosuppressive protocol.
+In newly transplanted patients, the initial oral dose of Neoral is the same as the initial oral dose of Sandimmune.
+Suggested initial doses are available from the results of a 1994 survey of the use of Sandimmune in US transplant centers.
 The mean ± SD initial doses were 9±3 mg/kg/day for renal transplant patients (75 centers), 8±4 mg/kg/day for liver transplant patients (30 centers), and 7±3 mg/kg/day for heart transplant patients (24 centers).
 Total daily doses were divided into two equal daily doses.
-The Neoral® dose is subsequently adjusted to achieve a pre-defined cyclosporine blood concentration.
-(See Blood Concentration Monitoring in Transplant Patients, below) If cyclosporine trough blood concentrations are used, the target range is the same for Neoral® as for Sandimmune®.
-Using the same trough concentration target range for Neoral® as for Sandimmune® results in greater cyclosporine exposure when Neoral® is administered.
+The Neoral dose is subsequently adjusted to achieve a pre-defined cyclosporine blood concentration.
+(See Blood Concentration Monitoring in Transplant Patients, below) If cyclosporine trough blood concentrations are used, the target range is the same for Neoral as for Sandimmune.
+Using the same trough concentration target range for Neoral as for Sandimmune results in greater cyclosporine exposure when Neoral is administered.
 (See Pharmacokinetics, Absorption) Dosing should be titrated based on clinical assessments of rejection and tolerability.
-Lower Neoral® doses may be sufficient as maintenance therapy.
+Lower Neoral doses may be sufficient as maintenance therapy.
 
 Adjunct therapy with adrenal corticosteroids is recommended initially.
 Different tapering dosage schedules of prednisone appear to achieve similar results.
@@ -47,41 +47,41 @@ A representative dosage schedule based on the patient’s weight started with 2.
 Steroid doses may be further tapered on an individualized basis depending on status of patient and function of graft.
 Adjustments in dosage of prednisone must be made according to the clinical situation.
 
-## Conversion from Sandimmune® to Neoral® in Transplant Patients
+## Conversion from Sandimmune to Neoral in Transplant Patients
 
-In transplanted patients who are considered for conversion to Neoral® from Sandimmune®, Neoral® should be started with the same daily dose as was previously used with Sandimmune® (1:1 dose conversion).
-The Neoral® dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
-Using the same trough concentration target range for Neoral® as for Sandimmune® results in greater cyclosporine exposure when Neoral® is administered.
-(See Pharmacokinetics, Absorption) Patients with suspected poor absorption of Sandimmune® require different dosing strategies.
-(See Transplant Patients with Poor Absorption of Sandimmune®, below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
+In transplanted patients who are considered for conversion to Neoral from Sandimmune, Neoral should be started with the same daily dose as was previously used with Sandimmune (1:1 dose conversion).
+The Neoral dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
+Using the same trough concentration target range for Neoral as for Sandimmune results in greater cyclosporine exposure when Neoral is administered.
+(See Pharmacokinetics, Absorption) Patients with suspected poor absorption of Sandimmune require different dosing strategies.
+(See Transplant Patients with Poor Absorption of Sandimmune, below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
-Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Neoral®.
+Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Neoral.
 In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
-If the blood trough concentrations are outside the desired range and/or if the clinical safety parameters worsen, the dosage of Neoral® must be adjusted accordingly.
+If the blood trough concentrations are outside the desired range and/or if the clinical safety parameters worsen, the dosage of Neoral must be adjusted accordingly.
 
-## Transplant Patients with Poor Absorption of Sandimmune®
+## Transplant Patients with Poor Absorption of Sandimmune
 
-Patients with lower than expected cyclosporine blood trough concentrations in relation to the oral dose of Sandimmune® may have poor or inconsistent absorption of cyclosporine from Sandimmune®.
-After conversion to Neoral®, patients tend to have higher cyclosporine concentrations.
-Due to the increase in bioavailability of cyclosporine following conversion to Neoral®, the cyclosporine blood trough concentration may exceed the target range.
-Particular caution should be exercised when converting patients to Neoral® at doses greater than 10 mg/kg/day.
-The dose of Neoral® should be titrated individually based on cyclosporine trough concentrations, tolerability, and clinical response.
+Patients with lower than expected cyclosporine blood trough concentrations in relation to the oral dose of Sandimmune may have poor or inconsistent absorption of cyclosporine from Sandimmune.
+After conversion to Neoral, patients tend to have higher cyclosporine concentrations.
+Due to the increase in bioavailability of cyclosporine following conversion to Neoral, the cyclosporine blood trough concentration may exceed the target range.
+Particular caution should be exercised when converting patients to Neoral at doses greater than 10 mg/kg/day.
+The dose of Neoral should be titrated individually based on cyclosporine trough concentrations, tolerability, and clinical response.
 In this population the cyclosporine blood trough concentration should be measured more frequently, at least twice a week (daily, if initial dose exceeds 10 mg/kg/day) until the concentration stabilizes within the desired range.
 
 ## Rheumatoid Arthritis
 
-The initial dose of Neoral® is 2.5 mg/kg/day, taken twice daily as a divided (BID) oral dose.
-Salicylates, nonsteroidal anti-inflammatory agents, and oral corticosteroids may be continued.
+The initial dose of Neoral is 2.5 mg/kg/day, taken twice daily as a divided (BID) oral dose.
+Salicylates, NSAIDs, and oral corticosteroids may be continued.
 (See WARNINGS and PRECAUTIONS, Drug Interactions) Onset of action generally occurs between 4 and 8 weeks.
-If insufficient clinical benefit is seen and tolerability is good (including serum creatinine less than 30% above baseline), the dose may be increased by 0.5-0.75 mg/kg/day after 8 weeks and again after 12 weeks to a maximum of 4 mg/kg/day.
-If no benefit is seen by 16 weeks of therapy, Neoral® therapy should be discontinued.
+If insufficient clinical benefit is seen and tolerability is good (including serum creatinine less than 30% above baseline), the dose may be increased by 0.5–0.75 mg/kg/day after 8 weeks and again after 12 weeks to a maximum of 4 mg/kg/day.
+If no benefit is seen by 16 weeks of therapy, Neoral therapy should be discontinued.
 
 Dose decreases by 25%-50% should be made at any time to control adverse events, e.g., hypertension elevations in serum creatinine (30% above patient’s pretreatment level) or clinically significant laboratory abnormalities.
 (See WARNINGS and PRECAUTIONS)
 
-If dose reduction is not effective in controlling abnormalities or if the adverse event or abnormality is severe, Neoral® should be discontinued.
-The same initial dose and dosage range should be used if Neoral® is combined with the recommended dose of methotrexate.
-Most patients can be treated with Neoral® doses of 3 mg/kg/day or below when combined with methotrexate doses of up to 15 mg/week.
+If dose reduction is not effective in controlling abnormalities or if the adverse event or abnormality is severe, Neoral should be discontinued.
+The same initial dose and dosage range should be used if Neoral is combined with the recommended dose of methotrexate.
+Most patients can be treated with Neoral doses of 3 mg/kg/day or below when combined with methotrexate doses of up to 15 mg/week.
 (See CLINICAL PHARMACOLOGY, Clinical Trials)
 
 There is limited long-term treatment data.
@@ -89,21 +89,21 @@ Recurrence of rheumatoid arthritis disease activity is generally apparent within
 
 ## Psoriasis
 
-The initial dose of Neoral® should be 2.5 mg/kg/day.
-Neoral® should be taken twice daily, as a divided (1.25 mg/kg BID) oral dose.
+The initial dose of Neoral should be 2.5 mg/kg/day.
+Neoral should be taken twice daily, as a divided (1.25 mg/kg BID) oral dose.
 Patients should be kept at that dose for at least 4 weeks, barring adverse events.
 If significant clinical improvement has not occurred in patients by that time, the patient’s dosage should be increased at 2-week intervals.
 Based on patient response, dose increases of approximately 0.5 mg/kg/day should be made to a maximum of 4.0 mg/kg/day.
 
-Dose decreases by 25%-50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥25% above the patient’s pretreatment level), or clinically significant laboratory abnormalities.
-If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Neoral® should be discontinued.
+Dose decreases by 25% to 50% should be made at any time to control adverse events, e.g., hypertension, elevations in serum creatinine (≥25% above the patient’s pretreatment level), or clinically significant laboratory abnormalities.
+If dose reduction is not effective in controlling abnormalities, or if the adverse event or abnormality is severe, Neoral should be discontinued.
 (See Special Monitoring of Psoriasis Patients)
 
 Patients generally show some improvement in the clinical manifestations of psoriasis in 2 weeks.
-Satisfactory control and stabilization of the disease may take 12-16 weeks to achieve.
-Results of a dose-titration clinical trial with Neoral® indicate that an improvement of psoriasis by 75% or more (based on PASI) was achieved in 51% of the patients after 8 weeks and in 79% of the patients after 16 weeks.
+Satisfactory control and stabilization of the disease may take 12 to 16 weeks to achieve.
+Results of a dose-titration clinical trial with Neoral indicate that an improvement of psoriasis by 75% or more (based on PASI) was achieved in 51% of the patients after 8 weeks and in 79% of the patients after 16 weeks.
 Treatment should be discontinued if satisfactory response cannot be achieved after 6 weeks at 4 mg/kg/day or the patient’s maximum tolerated dose.
-Once a patient is adequately controlled and appears stable the dose of Neoral® should be lowered, and the patient treated with the lowest dose that maintains an adequate response (this should not necessarily be total clearing of the patient).
+Once a patient is adequately controlled and appears stable the dose of Neoral should be lowered, and the patient treated with the lowest dose that maintains an adequate response (this should not necessarily be total clearing of the patient).
 In clinical trials, cyclosporine doses at the lower end of the recommended dosage range were effective in maintaining a satisfactory response in 60% of the patients.
 Doses below 2.5 mg/kg/day may also be equally effective.
 
@@ -111,18 +111,18 @@ Upon stopping treatment with cyclosporine, relapse will occur in approximately 6
 In the majority of patients rebound does not occur after cessation of treatment with cyclosporine.
 Thirteen cases of transformation of chronic plaque psoriasis to more severe forms of psoriasis have been reported.
 There were 9 cases of pustular and 4 cases of erythrodermic psoriasis.
-Long term experience with Neoral® in psoriasis patients is limited and continuous treatment for extended periods greater than one year is not recommended.
+Long term experience with Neoral in psoriasis patients is limited and continuous treatment for extended periods greater than one year is not recommended.
 Alternation with other forms of treatment should be considered in the long term management of patients with this life long disease.
 
-## Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED–Recommendations for Administration
+## Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED–Recommendations for Administration
 
-To make Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED more palatable, it should be diluted with orange or apple juice that is at room temperature.
+To make Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED more palatable, it should be diluted with orange or apple juice that is at room temperature.
 Patients should avoid switching diluents frequently.
 Grapefruit juice affects metabolism of cyclosporine and should be avoided.
-The combination of Neoral® solution with milk can be unpalatable.
+The combination of Neoral solution with milk can be unpalatable.
 The effect of milk on the bioavailability of cyclosporine when administered as Neoral Oral Solution has not been evaluated.
 
-Take the prescribed amount of Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED from the container using the dosing syringe supplied, after removal of the protective cover, and transfer the solution to a glass of orange or apple juice.
+Take the prescribed amount of Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED from the container using the dosing syringe supplied, after removal of the protective cover, and transfer the solution to a glass of orange or apple juice.
 Stir well and drink at once.
 Do not allow diluted oral solution to stand before drinking.
 Use a glass container (not plastic).

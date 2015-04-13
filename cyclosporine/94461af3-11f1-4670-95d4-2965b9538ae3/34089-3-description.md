@@ -1,13 +1,13 @@
 # DESCRIPTION
 
-Neoral® is an oral formulation of cyclosporine that immediately forms a microemulsion in an aqueous environment.
+Neoral is an oral formulation of cyclosporine that immediately forms a microemulsion in an aqueous environment.
 
-Cyclosporine, the active principle in Neoral®, is a cyclic polypeptide immunosuppressant agent consisting of 11 amino acids.
+Cyclosporine, the active principle in Neoral, is a cyclic polypeptide immunosuppressant agent consisting of 11 amino acids.
 It is produced as a metabolite by the fungus species Beauveria nivea.
 
 Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic-(L-alanyl-D-alanyl-N-methyl-L-leucyl-N-methyl-L-leucyl-N-methyl-L-valyl-3-hydroxy-N,4-dimethyl-L-2-amino-6-octenoyl-L-α -amino-butyryl-N-methylglycyl-N-methyl-L-leucyl-L-valyl-N-methyl-L-leucyl).
 
-## Neoral® Soft Gelatin Capsules
+## Neoral Soft Gelatin Capsules
 
 (cyclosporine capsules, USP) MODIFIED are available in 25 mg and 100 mg strengths.
 
@@ -25,7 +25,7 @@ alcohol, USP dehydrated.........................................................
 
 Inactive Ingredients: Corn oil-mono-di-triglycerides, polyoxyl 40 hydrogenated castor oil NF, DL-α-tocopherol USP, gelatin NF, glycerol, iron oxide black, propylene glycol USP, titanium dioxide USP, carmine, and other ingredients.
 
-## Neoral® Oral Solution
+## Neoral Oral Solution
 
 (cyclosporine oral solution, USP) MODIFIED is available in 50 mL bottles.
 

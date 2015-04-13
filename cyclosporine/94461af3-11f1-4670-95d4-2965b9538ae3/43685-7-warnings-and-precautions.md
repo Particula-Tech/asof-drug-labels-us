@@ -4,34 +4,34 @@
 
 ## All Patients
 
-Cyclosporine, the active ingredient of Neoral®, can cause nephrotoxicity and hepatotoxicity.
+Cyclosporine, the active ingredient of Neoral, can cause nephrotoxicity and hepatotoxicity.
 The risk increases with increasing doses of cyclosporine.
-Renal dysfunction including structural kidney damage is a potential consequence of Neoral® and therefore renal function must be monitored during therapy.
+Renal dysfunction including structural kidney damage is a potential consequence of Neoral and therefore renal function must be monitored during therapy.
 Care should be taken in using cyclosporine with nephrotoxic drugs.
 (See PRECAUTIONS)
 
-Patients receiving Neoral® require frequent monitoring of serum creatinine.
+Patients receiving Neoral require frequent monitoring of serum creatinine.
 (See Special Monitoring under DOSAGE AND ADMINISTRATION) Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can be associated with the occurrence of structural kidney damage and persistent renal dysfunction.
 
-An increase in serum creatinine and BUN may occur during Neoral® therapy and reflect a reduction in the glomerular filtration rate.
+An increase in serum creatinine and BUN may occur during Neoral therapy and reflect a reduction in the glomerular filtration rate.
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 The frequency and severity of serum creatinine elevations increase with dose and duration of cyclosporine therapy.
 These elevations are likely to become more pronounced without dose reduction or discontinuation.
 
-Because Neoral® is not bioequivalent to Sandimmune®, conversion from Neoral® to Sandimmune® using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
-Conversion from Neoral® to Sandimmune® should be made with increased monitoring to avoid the potential of underdosing.
+Because Neoral is not bioequivalent to Sandimmune, conversion from Neoral to Sandimmune using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
+Conversion from Neoral to Sandimmune should be made with increased monitoring to avoid the potential of underdosing.
 
 ## Kidney, Liver, and Heart Transplant
 
 Nephrotoxicity
 
-Cyclosporine, the active ingredient of Neoral®, can cause nephrotoxicity and hepatotoxicity when used in high doses.
+Cyclosporine, the active ingredient of Neoral, can cause nephrotoxicity and hepatotoxicity when used in high doses.
 It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
-Based on the historical Sandimmune® experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
-Mild nephrotoxicity was generally noted 2-3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35-45 mg/dl and 2.0-2.5 mg/dl respectively.
+Based on the historical Sandimmune experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
+Mild nephrotoxicity was generally noted 2 to 3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35 to 45 mg/dL and 2.0 to 2.5 mg/dL respectively.
 These elevations were often responsive to cyclosporine dosage reduction.
 
 More overt nephrotoxicity was seen early after transplantation and was characterized by a rapidly rising BUN and creatinine.
@@ -46,7 +46,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | Parameter | Nephrotoxicity | Rejection |
 | History | Donor >50 years old or hypotensive Prolonged kidney preservation Prolonged anastomosis time Concomitant nephrotoxic drugs | Anti-donor immune response Retransplant patient |
 | Clinical | Often >6 weeks postopb Prolonged initial nonfunction (acute tubular necrosis) | Often < 4 weeks postopb Fever > 37.5°C Weight gain > 0.5 kg Graft swelling and tenderness Decrease in daily urine volume > 500 mL (or 50%) |
-| Laboratory | CyA serum trough level > 200 ng/mL Gradual rise in Cr (< 0.15 mg/dl/day)a Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (> 0.3 mg/dl/day)a Cr > 25% above baseline BUN/Cr < 20 |
+| Laboratory | CyA serum trough level > 200 ng/mL Gradual rise in Cr (<0.15 mg/dL/day)a Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (> 0.3 mg/dL/day)a Cr > 25% above baseline BUN/Cr < 20 |
 | Biopsy | Arteriolopathy (medial hypertrophy a, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) Tubular atrophy, isometric vacuolization, isolated calcifications Minimal edema Mild focal infiltratesc Diffuse interstitial fibrosis, often striped form | Endovasculitisc (proliferationa, intimal arteritisb, necrosis, sclerosis) Tubulitis with RBCb and WBCb casts, some irregular vacuolization Interstitial edemac and hemorrhageb Diffuse moderate to severe mononuclear infiltratesd Glomerulitis (mononuclear cells)c |
 | Aspiration Cytology | CyA deposits in tubular and endothelial cells Fine isometric vacuolization of tubular cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells These strongly express HLA-DR antigens |
 | Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia > 20% of sediment |
@@ -57,7 +57,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001 |  |  |
 
 A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
-From 5%-15% of transplant recipients who have received cyclosporine will fail to show a reduction in rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
+From 5% to 15% of transplant recipients who have received cyclosporine will fail to show a reduction in rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
 Renal biopsies from these patients will demonstrate one or several of the following alterations: tubular vacuolization, tubular microcalcifications, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy.
 Though none of these morphologic changes is entirely specific, a diagnosis of cyclosporine-associated structural nephrotoxicity requires evidence of these findings.
 
@@ -69,7 +69,7 @@ Reversibility of arteriolopathy has been reported after stopping cyclosporine or
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 
-In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Neoral® dose to excessive blood concentrations.
+In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the Neoral dose to excessive blood concentrations.
 
 Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering Neoral with other drugs that may impair renal function.
 (See PRECAUTIONS, Drug Interactions)
@@ -155,26 +155,26 @@ It is not clear whether the risk with cyclosporine is greater than that in rheum
 Five cases of lymphoma were detected: four in a survey of approximately 2,300 patients treated with cyclosporine for rheumatoid arthritis, and another case of lymphoma was reported in a clinical trial.
 Although other tumors (12 skin cancers, 24 solid tumors of diverse types, and 1 multiple myeloma) were also reported in this survey, epidemiologic analyses did not support a relationship to cyclosporine other than for malignant lymphomas.
 
-Patients should be thoroughly evaluated before and during Neoral® treatment for the development of malignancies.
-Moreover, use of Neoral® therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
+Patients should be thoroughly evaluated before and during Neoral treatment for the development of malignancies.
+Moreover, use of Neoral therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
 
 ## Psoriasis
 
 (See also BOXED WARNING for Psoriasis)
 
-Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Neoral® should be considered before treatment of patients with psoriasis.
-Cyclosporine, the active ingredient in Neoral®, can cause nephrotoxicity and hypertension (See PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
-Patients who may be at increased risk such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive Neoral®.
+Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Neoral should be considered before treatment of patients with psoriasis.
+Cyclosporine, the active ingredient in Neoral, can cause nephrotoxicity and hypertension (See PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
+Patients who may be at increased risk such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive Neoral.
 
-Renal dysfunction is a potential consequence of Neoral® therefore renal function must be monitored during therapy.
+Renal dysfunction is a potential consequence of Neoral therefore renal function must be monitored during therapy.
 
-Patients receiving Neoral® require frequent monitoring of serum creatinine.
+Patients receiving Neoral require frequent monitoring of serum creatinine.
 (See Special Monitoring under DOSAGE AND ADMINISTRATION) Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can cause structural kidney damage and persistent renal dysfunction.
 
-An increase in serum creatinine and BUN may occur during Neoral® therapy and reflects a reduction in the glomerular filtration rate.
+An increase in serum creatinine and BUN may occur during Neoral therapy and reflects a reduction in the glomerular filtration rate.
 
-Kidney biopsies from 86 psoriasis patients treated for a mean duration of 23 months with 1.2-7.6 mg/kg/day of cyclosporine showed evidence of cyclosporine nephropathy in 18/86 (21%) of the patients.
+Kidney biopsies from 86 psoriasis patients treated for a mean duration of 23 months with 1.2 to 7.6 mg/kg/day of cyclosporine showed evidence of cyclosporine nephropathy in 18/86 (21%) of the patients.
 The pathology consisted of renal tubular atrophy and interstitial fibrosis.
 On repeat biopsy of 13 of these patients maintained on various dosages of cyclosporine for a mean of 2 additional years, the number with cyclosporine induced nephropathy rose to 26/86 (30%).
 The majority of patients (19/26) were on a dose of ≥5.0 mg/kg/day (the highest recommended dose is 4 mg/kg/day).
@@ -200,7 +200,7 @@ Patients should not be treated concurrently with cyclosporine and PUVA or UVB, o
 (See CONTRAINDICATIONS) Patients should also be warned to protect themselves appropriately when in the sun, and to avoid excessive sun exposure.
 Patients should be thoroughly evaluated before and during treatment for the presence of malignancies remembering that malignant lesions may be hidden by psoriatic plaques.
 Skin lesions not typical of psoriasis should be biopsied before starting treatment.
-Patients should be treated with Neoral® only after complete resolution of suspicious lesions, and only if there are no other treatment options.
+Patients should be treated with Neoral only after complete resolution of suspicious lesions, and only if there are no other treatment options.
 (See Special Monitoring for Psoriasis Patients)
 
 Special Excipients
@@ -216,7 +216,7 @@ For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 g
 
 Hypertension
 
-Cyclosporine is the active ingredient of Neoral®.
+Cyclosporine is the active ingredient of Neoral.
 Hypertension is a common side effect of cyclosporine therapy which may persist.
 (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION for monitoring recommendations) Mild or moderate hypertension is encountered more frequently than severe hypertension and the incidence decreases over time.
 In recipients of kidney, liver, and heart allografts treated with cyclosporine, antihypertensive therapy may be required.
@@ -232,12 +232,12 @@ Special Monitoring of Rheumatoid Arthritis Patients
 
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
-It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs and after initiation of new nonsteroidal anti-inflammatory drug therapy during Neoral® treatment.
+It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs (NSAIDs) and after initiation of new NSAID therapy during Neoral treatment.
 If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly.
 (See also PRECAUTIONS, General, Hypertension)
 
-In patients who are receiving cyclosporine, the dose of Neoral® should be decreased by 25%-50% if hypertension occurs.
-If hypertension persists, the dose of Neoral® should be further reduced or blood pressure should be controlled with antihypertensive agents.
+In patients who are receiving cyclosporine, the dose of Neoral should be decreased by 25% to 50% if hypertension occurs.
+If hypertension persists, the dose of Neoral should be further reduced or blood pressure should be controlled with antihypertensive agents.
 In most cases, blood pressure has returned to baseline when cyclosporine was discontinued.
 
 In placebo-controlled trials of rheumatoid arthritis patients, systolic hypertension (defined as an occurrence of two systolic blood pressure readings >140 mmHg) and diastolic hypertension (defined as two diastolic blood pressure readings >90 mmHg) occurred in 33% and 19% of patients treated with cyclosporine, respectively.
@@ -246,30 +246,30 @@ The corresponding placebo rates were 22% and 8%.
 Special Monitoring for Psoriasis Patients
 
 Before initiating treatment, a careful dermatological and physical examination, including blood pressure measurements (on at least two occasions) should be performed.
-Since Neoral® is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Neoral®.
-Skin lesions not typical for psoriasis should be biopsied before starting Neoral®.
-Patients with malignant or premalignant changes of the skin should be treated with Neoral® only after appropriate treatment of such lesions and if no other treatment option exists.
+Since Neoral is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Neoral.
+Skin lesions not typical for psoriasis should be biopsied before starting Neoral.
+Patients with malignant or premalignant changes of the skin should be treated with Neoral only after appropriate treatment of such lesions and if no other treatment option exists.
 
 Baseline laboratories should include serum creatinine (on two occasions), BUN, CBC, serum magnesium, potassium, uric acid, and lipids.
 
-The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Neoral® is decreased when the rise in creatinine is greater than or equal to 25% above the patient’s pretreatment level.
-The increase in creatinine is generally reversible upon timely decrease of the dose of Neoral® or its discontinuation.
+The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of Neoral is decreased when the rise in creatinine is greater than or equal to 25% above the patient’s pretreatment level.
+The increase in creatinine is generally reversible upon timely decrease of the dose of Neoral or its discontinuation.
 
 Serum creatinine and BUN should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable.
 If the serum creatinine is greater than or equal to 25% above the patient’s pretreatment level, serum creatinine should be repeated within two weeks.
-If the change in serum creatinine remains greater than or equal to 25% above baseline, Neoral® should be reduced by 25%-50%.
-If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, Neoral® should be reduced by 25%-50%.
-Neoral® should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
-It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Neoral® treatment.
+If the change in serum creatinine remains greater than or equal to 25% above baseline, Neoral should be reduced by 25% to 50%.
+If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, Neoral should be reduced by 25% to 50%.
+Neoral should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
+It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Neoral treatment.
 
 Blood pressure should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable, or more frequently when dosage adjustments are made.
-Patients without a history of previous hypertension before initiation of treatment with Neoral®, should have the drug reduced by 25%-50% if found to have sustained hypertension.
-If the patient continues to be hypertensive despite multiple reductions of Neoral®, then Neoral® should be discontinued.
-For patients with treated hypertension, before the initiation of Neoral® therapy, their medication should be adjusted to control hypertension while on Neoral®.
-Neoral® should be discontinued if a change in hypertension management is not effective or tolerable.
+Patients without a history of previous hypertension before initiation of treatment with Neoral, should have the drug reduced by 25%-50% if found to have sustained hypertension.
+If the patient continues to be hypertensive despite multiple reductions of Neoral, then Neoral should be discontinued.
+For patients with treated hypertension, before the initiation of Neoral therapy, their medication should be adjusted to control hypertension while on Neoral.
+Neoral should be discontinued if a change in hypertension management is not effective or tolerable.
 
 CBC, uric acid, potassium, lipids, and magnesium should also be monitored every 2 weeks for the first 3 months of therapy, and then monthly if the patient is stable or more frequently when dosage adjustments are made.
-Neoral® dosage should be reduced by 25%-50% for any abnormality of clinical concern.
+Neoral dosage should be reduced by 25%–50% for any abnormality of clinical concern.
 
 In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
 
@@ -282,8 +282,8 @@ Patients should also be informed of the risk of hypertension and renal dysfuncti
 Patients should be advised that during treatment with cyclosporine, vaccination may be less effective and the use of live attenuated vaccines should be avoided.
 
 Patients should be given careful dosage instructions.
-Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED should be diluted, preferably with orange or apple juice that is at room temperature.
-The combination of Neoral® Oral Solution (cyclosporine oral solution, USP) MODIFIED with milk can be unpalatable.
+Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED should be diluted, preferably with orange or apple juice that is at room temperature.
+The combination of Neoral Oral Solution (cyclosporine oral solution, USP) MODIFIED with milk can be unpalatable.
 
-Patients should be advised to take Neoral® on a consistent schedule with regard to time of day and relation to meals.
+Patients should be advised to take Neoral on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.

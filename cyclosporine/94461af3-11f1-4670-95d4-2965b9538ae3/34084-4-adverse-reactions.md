@@ -21,13 +21,13 @@ Although magnesium-depletion studies in normal subjects suggest that hypomagnese
 
 Clinical Studies
 
-In controlled studies, the nature, severity, and incidence of the adverse events that were observed in 493 transplanted patients treated with Neoral® were comparable with those observed in 208 transplanted patients who received Sandimmune® in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
+In controlled studies, the nature, severity, and incidence of the adverse events that were observed in 493 transplanted patients treated with Neoral were comparable with those observed in 208 transplanted patients who received Sandimmune in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
 
-Based on the historical experience with Sandimmune®, the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
+Based on the historical experience with Sandimmune, the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
 
-|  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune®) |  |  |
+|  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Sandimmune® | Azathioprine | Kidney | Heart | Liver |
+|  |  | Sandimmune | Azathioprine | Kidney | Heart | Liver |
 | Body System | Adverse Reactions | (N=227)% | (N=228)% | (N=705)% | (N=112)% | (N=75)% |
 | Genitourinary | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular | Hypertension | 26 | 18 | 13 | 53 | 27 |
@@ -49,9 +49,9 @@ Based on the historical experience with Sandimmune®, the following reactions oc
 | Respiratory | Sinusitis | <1 | 0 | 4 | 3 | 7 |
 | Miscellaneous | Gynecomastia | <1 | 0 | <1 | 4 | 3 |
 
-Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune®) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
+Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
-The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Neoral®), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
+The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Neoral), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
@@ -61,7 +61,7 @@ Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported.
 (See WARNINGS)
 
-| Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune® |  |  |
+| Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune |  |  |
 | --- | --- | --- |
 |  | Cyclosporine Treatment | Azathioprine with Steroids* |
 |  | (N=227) | (N=228) |
@@ -94,6 +94,11 @@ Headache, including Migraine
 Cases of migraine have been reported.
 In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
 
+Pain of lower extremities
+
+Isolated cases of pain of lower extremities have been reported in association with cyclosporine.
+Pain of lower extremities has also been noted as part of Calcineurin-Inhibitor Induced Pain Syndrome (CIPS) as described in the literature.
+
 ## Rheumatoid Arthritis
 
 The principal adverse reactions associated with the use of cyclosporine in rheumatoid arthritis are renal dysfunction (See WARNINGS), hypertension (See PRECAUTIONS), headache, gastrointestinal disturbances, and hirsutism/hypertrichosis.
@@ -105,12 +110,12 @@ These elevations are likely to become more pronounced without dose reduction or 
 
 The following adverse events occurred in controlled clinical trials:
 
-| Neoral®/Sandimmune® Rheumatoid Arthritis |  |  |  |  |  |  |  |  |  |  |
+| Neoral/Sandimmune Rheumatoid Arthritis |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Percentage of Patients with Adverse Events ≥3% in any Cyclosporine Treated Group |  |  |  |  |  |  |  |  |  |  |
 |  |  | Studies | Study | Study |  | Study |  | Study |  | Studies |
 |  |  | 651+652+2008 | 302 | 654 |  | 654 |  | 302 |  | 651+652+2008 |
-| Body | Preferred | Sandimmune®† | Sandimmune® | Methotrexate & Sandimmune® |  | Methotrexate & Placebo |  | Neoral® |  | Placebo |
+| Body | Preferred | Sandimmune† | Sandimmune | Methotrexate & Sandimmune |  | Methotrexate & Placebo |  | Neoral |  | Placebo |
 | System | Term | (N=269) | (N=155) | (N=74) |  | (N=73) |  | (N=143) |  | (N=201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% |  | 3% |  | 0% |  | 5% | 2% |
@@ -242,7 +247,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 | Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials |  |  |  |
 | --- | --- | --- | --- |
-| Body System* | Preferred Term | Neoral® (N=182) | Sandimmune® (N=185) |
+| Body System* | Preferred Term | Neoral (N=182) | Sandimmune (N=185) |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
 |  | Influenza-Like Symptoms | 9.9% | 8.1% |
 |  | Upper Respiratory Tract Infections | 7.7% | 11.3% |
@@ -272,7 +277,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 |  | Gum Hyperplasia | 3.8% | 6.0% |
 |  | Nausea | 5.5% | 5.9% |
 | White cell and RES |  | 4.4% | 2.7% |
-| *Total percentage of events within the system **Newly occurring hypertension = SBP≥160 mm Hg and/or DBP≥90 mm Hg |  |  |  |
+| *Total percentage of events within the system **Newly occurring hypertension = SBP ≥160 mm Hg and/or DBP ≥90 mm Hg |  |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 

@@ -9,7 +9,7 @@ Cyclosporine has been shown to be embryo- and fetotoxic in rats and rabbits foll
 Fetal toxicity was noted in rats at 0.8 and rabbits at 5.4 times the transplant doses in humans of 6.0 mg/kg, where dose corrections are based on body surface area.
 Cyclosporine was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardation.
 
-There are no adequate and well-controlled studies in pregnant women therefore, Neoral® should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies in pregnant women therefore, Neoral should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
 
 In pregnant transplant recipients who are being treated with immunosuppressants the risk of premature birth is increased.
 The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
@@ -20,12 +20,12 @@ Pre-term delivery occurred in 47%.
 Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
 Twenty-eight percent of the infants were small for gestational age.
 Neonatal complications occurred in 27%.
-Therefore, the risks and benefits of using Neoral® during pregnancy should be carefully weighed.
+Therefore, the risks and benefits of using Neoral during pregnancy should be carefully weighed.
 
 A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
 Renal function and blood pressure in these children were normal.
 
-Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Neoral® in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Neoral®.
+Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Neoral in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Neoral.
 
 The alcohol content of the Neoral formulations should also be taken into account in pregnant women.
 (See WARNINGS, Special Excipients)
