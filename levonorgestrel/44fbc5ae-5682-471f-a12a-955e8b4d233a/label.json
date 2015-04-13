@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202791"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-637-29"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levonorgestrel and ethinyl estradiol",
+      "name": "Levonorgestrel and Ethinyl Estradiol"
+    }
+  ],
+  "setid": "44fbc5ae-5682-471f-a12a-955e8b4d233a",
+  "source": "dailymed"
+}
