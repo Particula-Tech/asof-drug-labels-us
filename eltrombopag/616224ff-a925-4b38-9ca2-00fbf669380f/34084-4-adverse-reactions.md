@@ -123,3 +123,10 @@ Adverse Reactions (≥10%) from One Open-label Trial in Adults with Severe Aplas
 
 In this trial, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
 Eight patients had a new cytogenetic abnormality reported on therapy, including 5 patients who had complex changes in chromosome 7.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of PROMACTA.
+Because these reactions are reported voluntarily from a population of uncertain size it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+
+Vascular Disorders: Thrombotic microangiopathy with acute renal failure.

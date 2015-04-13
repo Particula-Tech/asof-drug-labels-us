@@ -9,7 +9,7 @@ Discontinue PROMACTA if antiviral therapy is discontinued.
 
 ## 5.2 Hepatotoxicity
 
-PROMACTA can cause liver enzyme elevations[see Adverse Reactions (6.1)].
+PROMACTA can cause liver enzyme elevations [see Adverse Reactions (6.1)].
 Measure serum ALT, AST, and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
 PROMACTA inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubinemia.
 If bilirubin is elevated, perform fractionation.
