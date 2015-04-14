@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Table 7.
-Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
+Effect of Other Drugs on Voriconazole Pharmacokinetics [see CLINICAL PHARMACOLOGY (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg q12h) | Recommendations for Voriconazole Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacolog
 |  | A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for the Metabolism of Voriconazole to be Induced by Efavirenz and Other NNRTIs (Decreased Plasma Exposure) | Careful assessment of voriconazole effectiveness |
 
 Table 8.
-Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
+Effect of Voriconazole on Pharmacokinetics of Other Drugs [see CLINICAL PHARMACOLOGY (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -36,10 +36,10 @@ Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmaco
 | Ergot Alkaloids (CYP450 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated |
 | Cyclosporine (CYP3A4 Inhibition) | AUCτ Significantly Increased; No Significant Effect on Cmax | When initiating therapy with voriconazole in patients already receiving cyclosporine, reduce the cyclosporine dose to one-half of the starting dose and follow with frequent monitoring of cyclosporine blood levels. Increased cyclosporine levels have been associated with nephrotoxicity. When voriconazole is discontinued, cyclosporine concentrations must be frequently monitored and the dose increased as necessary. |
 | MethadoneResults based on in vivo clinical study following repeat oral dosing with 400 mg q12h for 1 day, then 200 mg q12h for 4 days voriconazole to subjects receiving a methadone maintenance dose (30 to 100 mg q24h.) (CYP3A4 Inhibition) | Increased | Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation. Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration. Dose reduction of methadone may be needed |
-| Fentanyl (CYP3A4 Inhibition) | Increased | Reduction in the dose of fentanyl and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with voriconazole. Extended and frequent monitoring for opiate-associated adverse events may be necessary [see Drug Interactions (7)] |
-| Alfentanil (CYP3A4 Inhibition) | Significantly Increased | Reduction in the dose of alfentanil and other opiates metabolized by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole. A longer period for monitoring respiratory and other opiate-associated adverse events may be necessary [see Drug Interactions (7)]. |
-| Oxycodone (CYP3A4 Inhibition) | Significantly Increased | Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with voriconazole. Extended and frequent monitoring for opiate-associated adverse events may be necessary [see Drug Interactions (7)]. |
-| NSAIDsNon-Steroidal Anti-Inflammatory Drug including. ibuprofen and diclofenac (CYP2C9 Inhibition) | Increased | Frequent monitoring for adverse events and toxicity related to NSAIDs. Dose reduction of NSAIDs may be needed. [see Drug Interactions (7)]. |
+| Fentanyl (CYP3A4 Inhibition) | Increased | Reduction in the dose of fentanyl and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with voriconazole. Extended and frequent monitoring for opiate-associated adverse events may be necessary [see DRUG INTERACTIONS (7)] |
+| Alfentanil (CYP3A4 Inhibition) | Significantly Increased | Reduction in the dose of alfentanil and other opiates metabolized by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole. A longer period for monitoring respiratory and other opiate-associated adverse events may be necessary [see DRUG INTERACTIONS (7)]. |
+| Oxycodone (CYP3A4 Inhibition) | Significantly Increased | Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with voriconazole. Extended and frequent monitoring for opiate-associated adverse events may be necessary [see DRUG INTERACTIONS (7)]. |
+| NSAIDsNon-Steroidal Anti-Inflammatory Drug including. ibuprofen and diclofenac (CYP2C9 Inhibition) | Increased | Frequent monitoring for adverse events and toxicity related to NSAIDs. Dose reduction of NSAIDs may be needed. [see DRUG INTERACTIONS (7)]. |
 | Tacrolimus (CYP3A4 Inhibition) | Significantly Increased | When initiating therapy with voriconazole in patients already receiving tacrolimus, reduce the tacrolimus dose to one-third of the starting dose and follow with frequent monitoring of tacrolimus blood levels. Increased tacrolimus levels have been associated with nephrotoxicity. When voriconazole is discontinued, tacrolimus concentrations must be frequently monitored and the dose increased as necessary. |
 | Phenytoin (CYP2C9 Inhibition) | Significantly Increased | Frequent monitoring of phenytoin plasma concentrations and frequent monitoring of adverse effects related to phenytoin. |
 | Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP3A4 Inhibition) | Increased | Monitoring for adverse events related to oral contraceptives is recommended during coadministration. |

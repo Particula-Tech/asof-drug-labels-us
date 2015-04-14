@@ -1,6 +1,6 @@
-# FDA-Approved Patient Labeling Voriconazole for Injection
+# Patient Information Voriconazole for Injection
 
-(vor" i kon' a zole)
+(vor-ah-KON-ah-zole)
 
 Read the Patient Information that comes with voriconazole for injection before you start taking it and each time you get a refill.
 There may be new information.
@@ -42,7 +42,7 @@ What should I tell my healthcare provider before taking voriconazole for injecti
 
 Before you take voriconazole for injection, tell your healthcare provider if you:
 
-- •have or ever had an abnormal heart rate or rhythm.
+- •have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole for injection.
 - •have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole for injection.
@@ -51,7 +51,7 @@ Before you take voriconazole for injection, tell your healthcare provider if you
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole for injection.
 - •are breast-feeding or plan to breast-feed.
-  It is not known if voriconazole for injection passes into breast milk.
+  It is not known if voriconazole passes into breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take voriconazole for injection.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
@@ -155,27 +155,23 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole for injection that is written for health professionals.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.us.sandoz.com.
-
 For more information, call Sandoz Inc. at 1-800-525-8747.
 
 What are the ingredients of voriconazole for injection?
 
 Active ingredient: voriconazole
 
-Inactive ingredients:sulfobutyl ether beta-cyclodextrin sodium
+Inactive ingredients: sulfobutyl ether beta-cyclodextrin sodium
 
-Trademarks are the property of their respective owners.
+The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
-04-2014M
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-46133335
+Finished drug product manufactured by Lek Pharmaceuticals, d.d.
+SI-1526, Ljujana, Slovenia
 
-Manufactured in Slovenia
+for Sandoz Inc., Princeton, NJ 08540
 
-by Lek Pharmaceuticals d.d. for
+Product of India
 
-Sandoz Inc.
-
-Princeton, NJ 08540
+Rev.: February 2015

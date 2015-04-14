@@ -2,11 +2,7 @@
 
 NDC 0781-3416-94
 
-Voriconazole
-
-for
-
-Injection
+Voriconazole for Injection
 
 200 mg/vial
 
@@ -16,7 +12,5 @@ For I.V.
 Infusion Only
 
 Rx only
-
-1 Vial
 
 SANDOZ

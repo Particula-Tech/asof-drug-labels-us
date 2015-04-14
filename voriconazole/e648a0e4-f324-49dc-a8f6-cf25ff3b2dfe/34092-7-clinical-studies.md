@@ -26,7 +26,7 @@ Treatment was then continued with other licensed antifungal therapy (OLAT), incl
 Although initial therapy with conventional amphotericin B was to be continued for at least two weeks, actual duration of therapy was at the discretion of the investigator.
 Patients who discontinued initial randomized therapy due to toxicity or lack of efficacy were eligible to continue in the study with OLAT treatment.
 
-A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 12).
+A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 14).
 A benefit of voriconazole compared to amphotericin B on patient survival at Day 84 was seen with a 71% survival rate on voriconazole compared to 58% on amphotericin B (Table 12).
 
 Table 12 also summarizes the response (success) based on mycological confirmation and species.
@@ -59,7 +59,7 @@ Success in patients who received voriconazole as salvage therapy is presented in
 
 Study 309/604 – Treatment of Patients with Invasive Aspergillosis who were Refractory to, or Intolerant of, other Antifungal Therapy
 
-Additional data regarding response rates in patients who were refractory to, or intolerant of, other antifungal agents are also provided in Table 13.
+Additional data regarding response rates in patients who were refractory to, or intolerant of, other antifungal agents are also provided in Table 15.
 In this non-comparative study, overall mycological eradication for culture-documented infections due to fumigatus and non-fumigatus species of Aspergillus was 36/82 (44%) and 12/30 (40%), respectively, in voriconazole treated patients.
 Patients had various underlying diseases and species other than A. fumigatus contributed to mixed infections in some cases.
 
@@ -100,16 +100,16 @@ Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Poi
 | Baseline Pathogen | Voriconazole | Amphotericin B -- > Fluconazole |
 | --- | --- | --- |
 |  | Clinical and Mycological Success (%) |  |
-| C. albicans | 46/107 (43) | 30/63 (48) |
-| C. tropicalis | 17/53 (32) | 1/16 (6) |
-| C. parapsilosis | 24/45 (53) | 10/19 (53) |
-| C. glabrata | 12/36 (33) | 7/21 (33) |
+| C. albicans | 46/107 (43%) | 30/63 (48%) |
+| C. tropicalis | 17/53 (32%) | 1/16 (6%) |
+| C. parapsilosis | 24/45 (53%) | 10/19 (53%) |
+| C. glabrata | 12/36 (33%) | 7/21 (33%) |
 | C. krusei | 1/4 | 0/1 |
 
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
 In Studies 608 and 309/604 (non-comparative study in patients with invasive fungal infections who were refractory to, or intolerant of, other antifungal agents), voriconazole was evaluated in 35 patients with deep tissue Candida infections.
-A favorable response was seen in 4 of 7 patients with intraabdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
+A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intra-abdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
 
 ## 14.3 Esophageal Candidiasis
 
@@ -125,8 +125,8 @@ Success Rates in Patients Treated for Esophageal Candidiasis
 
 | Population | Voriconazole (%) | Fluconazole (%) | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
 | --- | --- | --- | --- |
-| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2) | 134/141 (95) | 3.2 (-1.1, 7.5) |
-| ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5) | 171/191 (89.5) | -2 (-8.3, 4.3) |
+| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
+| ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5%) | 171/191 (89.5%) | -2 (-8.3, 4.3) |
 
 Microbiologic success rates by Candida species are presented in Table 16.
 
@@ -137,9 +137,9 @@ Clinical and mycological outcome by baseline pathogen in patients with esophagea
 | --- | --- | --- | --- | --- |
 |  | Favorable endoscopic responsePatients with endoscopic and/or mycological assessment at end of therapy. | Mycological eradication | Favorable endoscopic response | Mycological eradication |
 | PathogenSome patients had more than one species isolated at baseline. | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |
-| C.albicans | 134/140 (96) | 90/107 (84) | 147/156 (94) | 91/115 (79) |
-| C.glabrata | 8/8 (100) | 4/7 (57) | 4/4 (100) | 1/4 (25) |
-| C.krusei | 1/1 | 1/1 | 2/2 (100) | 0/0 |
+| C.albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
+| C.glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
+| C.krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
 
 ## 14.4 Other Serious Fungal Pathogens
 
