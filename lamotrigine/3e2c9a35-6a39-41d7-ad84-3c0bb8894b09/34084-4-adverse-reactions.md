@@ -13,10 +13,9 @@ The following adverse reactions are described in more detail in the Warnings and
 
 ## 6.1 Clinical Trial Experience with LAMICTAL XR for Treatment of Primary Generalized Tonic-Clonic and Partial-Onset Seizures
 
-Most Common Adverse Reactions in Clinical Trials: Adjunctive Therapy in Patients with Epilepsy: Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Most Common Adverse Reactions in Clinical Trials
 
-LAMICTAL XR has been evaluated for safety in patients aged 13 years and older with PGTC and partial-onset seizures.
-The most commonly observed adverse reactions in these 2 double-blind, placebo-controlled trials of adjunctive therapy with LAMICTAL XR were, in order of decreasing incidence (treatment difference between LAMICTAL XR and placebo ≥4%): dizziness, tremor/intention tremor, vomiting, and diplopia.
+Adjunctive Therapy in Patients with Epilepsy: Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In these 2 trials, adverse reactions led to withdrawal of 4 (2%) patients in the group receiving placebo and 10 (5%) patients in the group receiving LAMICTAL XR.
 Dizziness was the most common reason for withdrawal in the group receiving LAMICTAL XR (5 patients [3%]).
@@ -25,7 +24,7 @@ The next most common adverse reactions leading to withdrawal in 2 patients each 
 Table 4 displays the incidence of adverse reactions in these two 19-week, double-blind, placebo-controlled trials of patients with PGTC and partial-onset seizures.
 
 Table 4.
-Adverse Reaction Incidence in Double-Blind, Placebo-Controlled, Adjunctive Trials in Patients with Epilepsy (Adverse reactions ≥2% of patients treated with LAMICTAL XR and numerically more frequent than in the placebo group.)
+Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients with Epilepsya
 
 | Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR(n = 190)% | Percent of Patients Receiving Adjunctive Placebo(n = 195)% |
 | --- | --- | --- |
@@ -62,6 +61,8 @@ Adverse Reaction Incidence in Double-Blind, Placebo-Controlled, Adjunctive Trial
 | Vascular disorder |  |  |
 | Hot flush | 2 | 0 |
 
+a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
+
 Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo.
 In clinical trials evaluating immediate-release lamotrigine, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].
 
@@ -77,7 +78,9 @@ There were inadequate data to evaluate the effect of dose and/or concentration o
 However, in a randomized, parallel trial comparing placebo with 300 and 500 mg/day of immediate-release lamotrigine, the incidence of the most common adverse reactions (>5%) such as ataxia, blurred vision, diplopia, and dizziness were dose related.
 Less common adverse reactions (<5%) were not assessed for dose-response relationships.
 
-Monotherapy in Patients with Epilepsy: Adverse reactions observed in this trial were generally similar to those observed and attributed to drug in adjunctive and monotherapy immediate-release lamotrigine and adjunctive LAMICTAL XR placebo-controlled trials.
+Monotherapy in Patients with Epilepsy
+
+Adverse reactions observed in this trial were generally similar to those observed and attributed to drug in adjunctive and monotherapy immediate-release lamotrigine and adjunctive LAMICTAL XR placebo-controlled trials.
 Only 2 adverse events, nasopharyngitis and upper respiratory tract infection, were observed at a rate of >3% and not reported at a similar rate in previous trials.
 Because this trial did not include a placebo control group, causality could not be established [see Clinical Studies (14.3)].
 
@@ -85,7 +88,9 @@ Because this trial did not include a placebo control group, causality could not 
 
 All reported reactions are included except those already listed in the previous tables or elsewhere in the labeling, those too general to be informative, and those not reasonably associated with the use of the drug.
 
-Adjunctive Therapy in Adults with Epilepsy: In addition to the adverse reactions reported above from the development of LAMICTAL XR, the following adverse reactions with an uncertain relationship to lamotrigine were reported during the clinical development of immediate-release lamotrigine for treatment of epilepsy in adults.
+Adjunctive Therapy in Adults with Epilepsy
+
+In addition to the adverse reactions reported above from the development of LAMICTAL XR, the following adverse reactions with an uncertain relationship to lamotrigine were reported during the clinical development of immediate-release lamotrigine for treatment of epilepsy in adults.
 These reactions occurred in ≥2% of patients receiving immediate-release lamotrigine and more frequently than in the placebo group.
 
 Body as a Whole: Headache, flu syndrome, fever, neck pain.
@@ -100,7 +105,9 @@ Skin and Appendages: Rash, pruritus.
 
 Urogenital (female patients only): Vaginitis, amenorrhea, dysmenorrhea.
 
-Monotherapy in Adults with Epilepsy: In addition to the adverse reactions reported above from the development of LAMICTAL XR, the following adverse reactions with an uncertain relationship to lamotrigine were reported during the clinical development of immediate-release lamotrigine for treatment of epilepsy in adults.
+Monotherapy in Adults with Epilepsy
+
+In addition to the adverse reactions reported above from the development of LAMICTAL XR, the following adverse reactions with an uncertain relationship to lamotrigine were reported during the clinical development of immediate-release lamotrigine for treatment of epilepsy in adults.
 These reactions occurred in >2% of patients receiving immediate-release lamotrigine and more frequently than in the placebo group.
 
 Body as a Whole: Chest pain.
@@ -119,7 +126,9 @@ Special Senses: Vision abnormality.
 
 Urogenital (female patients only): Dysmenorrhea.
 
-Other Clinical Trial Experience: Immediate-release lamotrigine has been administered to 6,694 individuals for whom complete adverse reaction data was captured during all clinical trials, only some of which were placebo controlled.
+Other Clinical Trial Experience
+
+Immediate-release lamotrigine has been administered to 6,694 individuals for whom complete adverse reaction data was captured during all clinical trials, only some of which were placebo controlled.
 
 Adverse reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse reactions are defined as those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare adverse reactions are those occurring in fewer than 1/1,000 patients.
 
@@ -159,18 +168,34 @@ Rare: Acute kidney failure, breast neoplasm, creatinine increase, female lactati
 The following adverse reactions have been identified during postapproval use of immediate-release lamotrigine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
+Blood and Lymphatic
 
-Gastrointestinal: Esophagitis.
+Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
 
-Hepatobiliary Tract and Pancreas: Pancreatitis.
+Gastrointestinal
 
-Immunologic: Lupus-like reaction, vasculitis.
+Esophagitis.
 
-Lower Respiratory: Apnea.
+Hepatobiliary Tract and Pancreas
 
-Musculoskeletal: Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
+Pancreatitis.
 
-Neurology: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, nightmares, tics.
+Immunologic
 
-Non-site Specific: Progressive immunosuppression.
+Lupus-like reaction, vasculitis.
+
+Lower Respiratory
+
+Apnea.
+
+Musculoskeletal
+
+Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
+
+Nervous System
+
+Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, nightmares, tics.
+
+Non-site Specific
+
+Progressive immunosuppression.

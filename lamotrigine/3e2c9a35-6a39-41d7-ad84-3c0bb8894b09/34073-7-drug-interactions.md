@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Significant drug interactions with lamotrigine are summarized in Table 5.
+Significant drug interactions with lamotrigine are summarized in this section.
 Additional details of these drug interaction studies, which were conducted using immediate-release lamotrigine, are provided in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)].
 
 Table 5.
@@ -25,3 +25,9 @@ Established and Other Potentially Significant Drug Interactions
 ↑ = Increased (inhibits lamotrigine glucuronidation).
 
 ? = Conflicting data.
+
+Effect of LAMICTAL XR on Organic Cationic Transporter 2 Substrates
+
+Lamotrigine is an inhibitor of renal tubular secretion via organic cationic transporter 2 (OCT2) proteins [see Clinical Pharmacology (12.3)].
+This may result in increased plasma levels of certain drugs that are substantially excreted via this route.
+Coadministration of LAMICTAL XR with OCT2 substrates with a narrow therapeutic index (e.g., dofetilide) is not recommended.

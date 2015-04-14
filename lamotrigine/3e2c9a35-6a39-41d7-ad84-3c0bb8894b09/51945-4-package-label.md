@@ -241,10 +241,10 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129907 Rev.
-11/14
+10000000131958 Rev.
+1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -288,10 +288,10 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129906 Rev.
-11/14
+10000000131957 Rev.
+1/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -335,10 +335,10 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000129908 Rev.
-11/14
+10000000131959 Rev.
+1/15
 
 PRINCIPAL DISPLAY PANEL
 

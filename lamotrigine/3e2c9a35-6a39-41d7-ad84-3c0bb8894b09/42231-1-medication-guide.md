@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-LAMICTAL® (la-MIK-tal) XR™ (lamotrigine) Extended-Release Tablets
+LAMICTAL® (la-MIK-tal) XR™ (lamotrigine) extended-release tablets
 
 Read this Medication Guide before you start taking LAMICTAL XR and each time you get a refill.
 There may be new information.
@@ -9,7 +9,8 @@ If you have questions about LAMICTAL XR, ask your healthcare provider or pharmac
 
 What is the most important information I should know about LAMICTAL XR?
 
-- 1.LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+1.
+LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL XR, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -28,13 +29,15 @@ Call your healthcare provider right away if you have any of the following:
 - •blistering or peeling of your skin
 - •hives
 - •painful sores in your mouth or around your eyes
-- These symptoms may be the first signs of a serious skin reaction.
-  A healthcare provider should examine you to decide if you should continue taking LAMICTAL XR.
-- 2.
-  Other serious reactions, including serious blood problems or liver problems.
-  LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-  You may or may not have a rash with these types of reactions.
-  Call your healthcare provider right away if you have any of these symptoms:
+
+These symptoms may be the first signs of a serious skin reaction.
+A healthcare provider should examine you to decide if you should continue taking LAMICTAL XR.
+
+2.
+Other serious reactions, including serious blood problems or liver problems.
+LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+You may or may not have a rash with these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
 
 - •fever
 - •frequent infections
@@ -44,8 +47,9 @@ Call your healthcare provider right away if you have any of the following:
 - •unusual bruising or bleeding
 - •weakness, fatigue
 - •yellowing of your skin or the white part of your eyes
-- 3.
-  Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
+3.
+Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -73,8 +77,9 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-- 4.
-  LAMICTAL XR may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+
+4.
+LAMICTAL XR may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -97,7 +102,8 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL XR?”
 
-- 5.Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
+5.
+Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL XR:
@@ -109,7 +115,7 @@ When your healthcare provider gives you a prescription for LAMICTAL XR:
 These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL XR.
 Immediately call your pharmacist if you receive a LAMICTAL XR tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
-LAMICTAL XR (lamotrigine) Extended-Release Tablets
+LAMICTAL XR (lamotrigine) extended-release tablets
 
 | 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTALXR 50 | 100 mg, orange with white centerImprinted withLAMICTALXR 100 |
 | --- | --- | --- |
@@ -176,8 +182,8 @@ How should I take LAMICTAL XR?
 - •If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - •LAMICTAL XR can be taken with or without food.
 - •Do not chew, crush, or divide LAMICTAL XR.
-- •Swallow LAMICTAL XR Tablets whole.
-- •If you have trouble swallowing LAMICTAL XR Tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
+- •Swallow LAMICTAL XR tablets whole.
+- •If you have trouble swallowing LAMICTAL XR tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
 - •If you receive LAMICTAL XR in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
 
@@ -221,6 +227,9 @@ Do not use LAMICTAL XR for a condition for which it was not prescribed.
 Do not give LAMICTAL XR to other people, even if they have the same symptoms you have.
 It may harm them.
 
+If you take a urine drug screening test, LAMICTAL XR may make the test result positive for another drug.
+If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking LAMICTAL XR.
+
 This Medication Guide summarizes the most important information about LAMICTAL XR.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about LAMICTAL XR that is written for healthcare professionals.
@@ -244,9 +253,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015, the GSK group of companies.
 All rights reserved.
 
-December 2014
+March 2015
 
-LXR:14MG
+LXR:15MG

@@ -16,6 +16,9 @@ The proportion of patients achieving any particular level of reduction in PGTC s
 For example, 70% of patients randomized to LAMICTAL XR experienced a 50% or greater reduction in PGTC seizure frequency, compared with 32% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
+Figure 1.
+Proportion of Patients by Responder Rate for LAMICTAL XR and Placebo Group (Primary Generalized Tonic-Clonic Seizures Study)
+
 ## 14.2 Adjunctive Therapy for Partial-Onset Seizures
 
 The effectiveness of immediate-release lamotrigine as adjunctive therapy was initially established in 3 pivotal, multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial-onset seizures.
@@ -37,9 +40,6 @@ For example, 44% of patients randomized to LAMICTAL XR experienced a 50% or grea
 Figure 2.
 Proportion of Patients by Responder Rate for LAMICTAL XR and Placebo Group (Partial-Onset Seizure Study)
 
-Figure 2.
-Proportion of Patients by Responder Rate for LAMICTAL XR and Placebo Group (Partial-Onset Seizure Study)
-
 ## 14.3 Conversion to Monotherapy for Partial-Onset Seizures
 
 The effectiveness of LAMICTAL XR as monotherapy for partial-onset seizures was established in a historical control trial in 223 adults with partial-onset seizures.
@@ -48,7 +48,7 @@ Briefly, in this study, patients were randomized to ultimately receive either LA
 The historical control consisted of a pooled analysis of the control groups from 8 studies of similar design, which utilized a subtherapeutic dose of an AED as a comparator.
 Statistical superiority to the historical control was considered to be demonstrated if the upper 95% confidence interval for the proportion of patients meeting escape criteria in patients receiving LAMICTAL XR remained below the lower 95% prediction interval of 65.3% derived from the historical control data.
 
-In this study, patients aged 13 years and older experienced at least 4 partial-onset seizures during an 8-week baseline period with at least 2 seizures occurring during each of 2 consecutive 4-week periods while receiving valproate or a non–enzyme-inducing AED.
+In this study, patients aged 13 years and older experienced at least 4 partial-onset seizures during an 8-week baseline period with at least 1 seizure occurring during each of 2 consecutive 4-week periods while receiving valproate or a non–enzyme-inducing AED.
 LAMICTAL XR was added to either valproate or a non–enzyme-inducing AED over a 6- to 7-week period followed by the gradual withdrawal of the background AED.
 Patients were then continued on monotherapy with LAMICTAL XR for 12 weeks.
 The escape criteria were 1 or more of the following: (1) doubling of average monthly seizure count during any 28 consecutive days, (2) doubling of highest consecutive 2-day seizure frequency during the entire treatment phase, (3) emergence of a new seizure type compared with baseline (4) clinically significant prolongation of generalized tonic-clonic seizures or worsening of seizure considered by the investigator to require intervention.
@@ -56,5 +56,5 @@ These criteria were similar to those in the 8 controlled trials from which the h
 
 The upper 95% confidence limits of the proportion of subjects meeting escape criteria (40.2% at 300 mg/day and 44.5% at 250 mg/day) were below the threshold of 65.3% derived from the historical control data.
 
-Although the study population was not fully comparable with the historical controlled population and the study was not fully blinded, numerous sensitivity analyses supported the primary results.
+Although the study population was not fully comparable with the historical control population and the study was not fully blinded, numerous sensitivity analyses supported the primary results.
 Efficacy was further supported by the established effectiveness of the immediate-release formulation as monotherapy.

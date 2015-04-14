@@ -13,8 +13,3 @@
 250 mg, purple with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 250.”
 
 300 mg, gray with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 300.”
-
-## 3.2 Potential Medication Errors
-
-Patients should be strongly advised to visually inspect their tablets to verify that they are receiving LAMICTAL XR, as opposed to other medications, and that they are receiving the correct formulation of lamotrigine each time they fill their prescription.
-Depictions of the LAMICTAL XR tablets can be found in the Medication Guide.

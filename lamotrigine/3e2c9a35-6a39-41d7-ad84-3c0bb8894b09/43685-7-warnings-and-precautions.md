@@ -5,7 +5,9 @@
 The risk of serious rash caused by treatment with LAMICTAL XR is not expected to differ from that with immediate-release lamotrigine [see Boxed Warning].
 However, the relatively limited treatment experience with LAMICTAL XR makes it difficult to characterize the frequency and risk of serious rashes caused by treatment with LAMICTAL XR.
 
-Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
+Pediatric Population
+
+The incidence of serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
 To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
@@ -16,7 +18,9 @@ In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experien
 
 LAMICTAL XR is not approved in patients younger than 13 years.
 
-Adult Population: Serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received immediate-release lamotrigine in premarketing clinical trials of epilepsy.
+Adult Population
+
+Serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received immediate-release lamotrigine in premarketing clinical trials of epilepsy.
 In worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
 
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.2)].
@@ -24,7 +28,9 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered immediate-release lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered immediate-release lamotrigine in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs
+
+The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
@@ -110,7 +116,7 @@ Medication errors involving LAMICTAL have occurred.
 In particular, the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL XR clearly.
-Depictions of the LAMICTAL XR Extended-Release Tablets can be found in the Medication Guide.
+Depictions of the LAMICTAL XR extended-release tablets can be found in the Medication Guide.
 Each LAMICTAL XR tablet has a distinct color and white center, and is printed with “LAMICTAL XR” and the tablet strength.
 These distinctive features serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 LAMICTAL XR is supplied in round, unit-of-use bottles with orange caps containing 30 tablets.
@@ -164,9 +170,18 @@ Accordingly, although there are no specific recommendations for periodic ophthal
 
 ## 5.13 Laboratory Tests
 
-Plasma Concentrations of Lamotrigine: The value of monitoring plasma concentrations of lamotrigine in patients treated with LAMICTAL XR has not been established.
+False-Positive Drug Test Results
+
+Lamotrigine has been reported to interfere with the assay used in some rapid urine drug screens, which can result in false-positive readings, particularly for phencyclidine (PCP).
+A more specific analytical method should be used to confirm a positive result.
+
+Plasma Concentrations of Lamotrigine
+
+The value of monitoring plasma concentrations of lamotrigine in patients treated with LAMICTAL XR has not been established.
 Because of the possible pharmacokinetic interactions between lamotrigine and other drugs, including AEDs (see Table 6), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
 In general, clinical judgment should be exercised regarding monitoring of plasma levels of lamotrigine and other drugs and whether or not dosage adjustments are necessary.
 
-Effect on Leukocytes: Treatment with LAMICTAL XR caused an increased incidence of subnormal (below the reference range) values in some hematology analytes (e.g., total white blood cells, monocytes).
+Effect on Leukocytes
+
+Treatment with LAMICTAL XR caused an increased incidence of subnormal (below the reference range) values in some hematology analytes (e.g., total white blood cells, monocytes).
 The treatment effect (LAMICTAL XR % - Placebo %) incidence of subnormal counts was 3% for total white blood cells and 4% for monocytes.

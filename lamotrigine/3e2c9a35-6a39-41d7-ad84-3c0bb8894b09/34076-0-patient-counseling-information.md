@@ -2,22 +2,34 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Rash: Prior to initiation of treatment with LAMICTAL XR, inform patients that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and instruct them to report any such occurrence to their healthcare providers immediately.
+Rash
 
-Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure: Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
+Prior to initiation of treatment with LAMICTAL XR, inform patients that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and instruct them to report any such occurrence to their healthcare providers immediately.
+
+Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
+
+Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
 Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.2, 5.3)].
 
-Suicidal Thinking and Behavior: Inform patients, their caregivers, and families that AEDs, including LAMICTAL XR, may increase the risk of suicidal thoughts and behavior.
+Suicidal Thinking and Behavior
+
+Inform patients, their caregivers, and families that AEDs, including LAMICTAL XR, may increase the risk of suicidal thoughts and behavior.
 Instruct them to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts or behavior or thoughts about self-harm.
 Instruct them to immediately report behaviors of concern to their healthcare providers.
 
-Worsening of Seizures: Instruct patients to notify their healthcare providers if worsening of seizure control occurs.
+Worsening of Seizures
 
-Central Nervous System Adverse Effects: Inform patients that LAMICTAL XR may cause dizziness, somnolence, and other symptoms and signs of central nervous system depression.
+Instruct patients to notify their healthcare providers if worsening of seizure control occurs.
+
+Central Nervous System Adverse Effects
+
+Inform patients that LAMICTAL XR may cause dizziness, somnolence, and other symptoms and signs of central nervous system depression.
 Accordingly, instruct them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL XR to gauge whether or not it adversely affects their mental and/or motor performance.
 
-Pregnancy and Nursing: Instruct patients to notify their healthcare providers if they become pregnant or intend to become pregnant during therapy and if they intend to breastfeed or are breastfeeding an infant.
+Pregnancy and Nursing
+
+Instruct patients to notify their healthcare providers if they become pregnant or intend to become pregnant during therapy and if they intend to breastfeed or are breastfeeding an infant.
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -26,26 +38,25 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 Inform patients who intend to breastfeed that LAMICTAL XR is present in breast milk and advise them to monitor their child for potential adverse effects of this drug.
 Discuss the benefits and risks of continuing breastfeeding.
 
-Oral Contraceptive Use: Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
+Oral Contraceptive Use
+
+Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
 Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL XR in combination with these medications.
 
-Discontinuing LAMICTAL XR: Instruct patients to notify their healthcare providers if they stop taking LAMICTAL XR for any reason and not to resume LAMICTAL XR without consulting their healthcare providers.
+Discontinuing LAMICTAL XR
 
-Aseptic Meningitis: Inform patients that LAMICTAL XR may cause aseptic meningitis.
+Instruct patients to notify their healthcare providers if they stop taking LAMICTAL XR for any reason and not to resume LAMICTAL XR without consulting their healthcare providers.
+
+Aseptic Meningitis
+
+Inform patients that LAMICTAL XR may cause aseptic meningitis.
 Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking LAMICTAL XR.
 
-Potential Medication Errors: Medication errors involving LAMICTAL have occurred.
-In particular the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
-Medication errors may also occur between the different formulations of LAMICTAL.
-To reduce the potential of medication errors, write and say LAMICTAL XR clearly.
-Depictions of the LAMICTAL XR Extended-Release Tablets can be found in the Medication Guide.
-Each LAMICTAL XR tablet has a distinct color and white center, and is printed with “LAMICTAL XR” and the tablet strength.
-These distinctive features serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
-LAMICTAL XR is supplied in round, unit-of-use bottles with orange caps containing 30 tablets.
-The label on the bottle includes a depiction of the tablets that further communicates to patients and pharmacists that the medication is LAMICTAL XR and the specific tablet strength included in the bottle.
-The unit-of-use bottle with a distinctive orange cap and distinctive bottle label features serves to identify the different presentations of the drug and thus may help to reduce the risk of medication errors.
-To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription and to immediately talk to their healthcare provider/pharmacist if they receive a LAMICTAL XR tablet without a white center and without “LAMICTAL XR” and the strength printed on the tablet as they may have received the wrong medication [see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
+Potential Medication Errors
+
+To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription [see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
+Refer the patient to the Medication Guide that provides depictions of the LAMICTAL XR extended-release tablets.
 
 LAMICTAL XR and DiffCORE are trademarks of the GSK group of companies.
 
@@ -53,7 +64,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015, the GSK group of companies.
 All rights reserved.
 
-LXR:17PI
+LXR:18PI

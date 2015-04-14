@@ -1,11 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-LAMICTAL XR Extended-Release Tablets are taken once daily, with or without food.
+LAMICTAL XR extended-release tablets are taken once daily, with or without food.
 Tablets must be swallowed whole and must not be chewed, crushed, or divided.
 
 ## 2.1 General Dosing Considerations
 
-Rash: There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL XR with valproate, (2) exceeding the recommended initial dose of LAMICTAL XR, or (3) exceeding the recommended dose escalation for LAMICTAL XR.
+Rash
+
+There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL XR with valproate, (2) exceeding the recommended initial dose of LAMICTAL XR, or (3) exceeding the recommended dose escalation for LAMICTAL XR.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 
@@ -20,16 +22,22 @@ The greater the interval of time since the previous dose, the greater considerat
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
 The half-life of lamotrigine is affected by other concomitant medications [see Clinical Pharmacology (12.3)].
 
-LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine.
+LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation
+
+Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine.
 Drugs that induce glucuronidation include carbamazepine, phenytoin, phenobarbital, primidone, rifampin, estrogen-containing oral contraceptives, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
 Valproate inhibits glucuronidation.
 For dosing considerations for LAMICTAL XR in patients on estrogen-containing contraceptives and atazanavir/ritonavir, see below and Table 5.
 For dosing considerations for LAMICTAL XR in patients on other drugs known to induce or inhibit glucuronidation, see Table 1 and Table 5.
 
-Target Plasma Levels: A therapeutic plasma concentration range has not been established for lamotrigine.
+Target Plasma Levels
+
+A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of LAMICTAL XR should be based on therapeutic response [see Clinical Pharmacology (12.3)].
 
-Women Taking Estrogen-Containing Oral Contraceptives: Starting LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Women Taking Estrogen-Containing Oral Contraceptives
+
+Starting LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of estrogen-containing oral contraceptives.
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL XR based on the concomitant AED or other concomitant medications (see Table 1).
 See below for adjustments to maintenance doses of LAMICTAL XR in women taking estrogen-containing oral contraceptives.
 
@@ -50,25 +58,35 @@ For women taking LAMICTAL XR in addition to carbamazepine, phenytoin, phenobarbi
 The decrease in dose of LAMICTAL XR should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
 In women taking LAMICTAL XR in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL XR should be necessary.
 
-Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy: The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
+Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy
+
+The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of LAMICTAL XR in the presence of progestogens alone will likely not be needed.
 
-Patients Taking Atazanavir/Ritonavir: While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of atazanavir/ritonavir.
+Patients Taking Atazanavir/Ritonavir
+
+While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of atazanavir/ritonavir.
 Dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL XR based on concomitant AED or other concomitant medications (see Tables 1 and 5).
 In patients already taking maintenance doses of LAMICTAL XR and not taking glucuronidation inducers, the dose of LAMICTAL XR may need to be increased if atazanavir/ritonavir is added, or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
 
-Patients with Hepatic Impairment: Experience in patients with hepatic impairment is limited.
+Patients with Hepatic Impairment
+
+Experience in patients with hepatic impairment is limited.
 Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
 
-Patients with Renal Impairment: Initial doses of LAMICTAL XR should be based on patients’ concomitant medications (see Table 1); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Patients with Renal Impairment
+
+Initial doses of LAMICTAL XR should be based on patients’ concomitant medications (see Table 1); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Few patients with severe renal impairment have been evaluated during chronic treatment with immediate-release lamotrigine.
 Because there is inadequate experience in this population, LAMICTAL XR should be used with caution in these patients.
 
-Discontinuation Strategy: For patients receiving LAMICTAL XR in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
+Discontinuation Strategy
+
+For patients receiving LAMICTAL XR in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
 If a decision is made to discontinue therapy with LAMICTAL XR, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.8)].
 
@@ -101,18 +119,22 @@ cDose increases at week 8 or later should not exceed 100 mg daily at weekly inte
 
 ## 2.3 Conversion from Adjunctive Therapy to Monotherapy
 
-The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rashassociated with the rapid titration of LAMICTAL XR.
+The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rash associated with the rapid titration of LAMICTAL XR.
 
 To avoid an increased risk of rash, the recommended maintenance dosage range of LAMICTAL XR as monotherapy is 250 to 300 mg given once daily.
 
 The recommended initial dose and subsequent dose escalations for LAMICTAL XR should not be exceeded [see Boxed Warning].
 
-Conversion from Adjunctive Therapy with Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy with LAMICTAL XR: After achieving a dose of 500 mg/day of LAMICTAL XR using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period.
+Conversion from Adjunctive Therapy with Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy with LAMICTAL XR
+
+After achieving a dose of 500 mg/day of LAMICTAL XR using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period.
 Two weeks after completion of withdrawal of the enzyme-inducing AED, the dosage of LAMICTAL XR may be decreased no faster than 100 mg/day each week to achieve the monotherapy maintenance dosage range of 250 to 300 mg/day.
 
 The regimen for the withdrawal of the concomitant AED is based on experience gained in the controlled monotherapy clinical trial using immediate-release lamotrigine.
 
-Conversion from Adjunctive Therapy with Valproate to Monotherapy with LAMICTAL XR: The conversion regimen involves the 4 steps outlined in Table 2.
+Conversion from Adjunctive Therapy with Valproate to Monotherapy with LAMICTAL XR
+
+The conversion regimen involves the 4 steps outlined in Table 2.
 
 Table 2.
 Conversion from Adjunctive Therapy with Valproate to Monotherapy with LAMICTAL XR in Patients Aged 13 Years and Older with Epilepsy
@@ -124,12 +146,14 @@ Conversion from Adjunctive Therapy with Valproate to Monotherapy with LAMICTAL X
 | Step 3 | Increase to 200 mg/day. | Simultaneously decrease to 250 mg/day and maintain for 1 week. |
 | Step 4 | Increase to 250 or 300 mg/day. | Discontinue. |
 
-Conversion from Adjunctive Therapy with Antiepileptic Drugs other than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy with LAMICTAL XR: After achieving a dosage of 250 to 300 mg/day of LAMICTAL XR using the guidelines in Table 1, the concomitant AED should be withdrawn by 20% decrements each week over a 4-week period.
+Conversion from Adjunctive Therapy with Antiepileptic Drugs other than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy with LAMICTAL XR
+
+After achieving a dosage of 250 to 300 mg/day of LAMICTAL XR using the guidelines in Table 1, the concomitant AED should be withdrawn by 20% decrements each week over a 4-week period.
 No adjustment to the monotherapy dose of LAMICTAL XR is needed.
 
 ## 2.4 Conversion from Immediate-Release Lamotrigine Tablets to LAMICTAL XR
 
-Patients may be converted directly from immediate-release lamotrigine to LAMICTAL XR Extended-Release Tablets.
+Patients may be converted directly from immediate-release lamotrigine to LAMICTAL XR extended-release tablets.
 The initial dose of LAMICTAL XR should match the total daily dose of immediate-release lamotrigine.
 However, some subjects on concomitant enzyme-inducing agents may have lower plasma levels of lamotrigine on conversion and should be monitored [see Clinical Pharmacology (12.3)].
 
