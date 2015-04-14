@@ -2,4 +2,6 @@
 
 ## 7.1 Phosphodiesterase Inhibitors
 
-Avoid co-administration of BiDil with phosphodiesterase inhibitors such as sildenafil, vardenafil, or tadalafil because severe hypotension, syncope, or myocardial ischemia may result [see Warnings and Precautions (5.1)].
+BiDil is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), PDE5 inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
+Do not use BiDil in patients who are taking the soluble guanylate cyclase (sGC) stimulator riociguat.
+Comcomitant use can cause hypotension [see Contraindications (4)].
