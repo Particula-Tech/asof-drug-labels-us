@@ -28,4 +28,4 @@ Cervical Dystonia
 Glabellar Lines
 
 - Each vial contains 300 Units of freeze-dried abobotulinumtoxinA.
-- Box containing 1 vial—NDC 0299-5960-30
+- Box containing 1 vial—NDC 0299-5962-30
