@@ -9,8 +9,6 @@ Abrupt withdrawal of diazepam in such cases may also be associated with a tempor
 
 ## Pregnancy
 
-### Teratogenic Effects
-
 An increased risk of congenital malformations and other developmental abnormalities associated with the use of benzodiazepine drugs during pregnancy has been suggested.
 There may also be non-teratogenic risks associated with the use of benzodiazepines during pregnancy.
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
@@ -121,4 +119,4 @@ Decreases in clearance and protein binding, and increases in volume of distribut
 In such patients, a 2 to 5 fold increase in mean half-life has been reported.
 Delayed elimination has also been reported for the active metabolite desmethyldiazepam.
 Benzodiazepines are commonly implicated in hepatic encephalopathy.
-Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations,Hepatic Insufficiency).
+Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations, Hepatic Insufficiency).
