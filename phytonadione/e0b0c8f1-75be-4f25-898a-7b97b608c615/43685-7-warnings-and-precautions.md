@@ -27,9 +27,7 @@ Studies of carcinogenicity, mutagenesis or impairment of fertility have not been
 
 ## Pregnancy
 
-### Pregnancy Category C
-
-Animal reproduction studies have not been conducted with phytonadione.
+Pregnancy Category C: Animal reproduction studies have not been conducted with phytonadione.
 It is also not known whether phytonadione can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Phytonadione should be given to a pregnant woman only if clearly needed.
 

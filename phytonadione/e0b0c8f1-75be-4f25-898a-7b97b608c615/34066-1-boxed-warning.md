@@ -1,4 +1,4 @@
-# WARNING — INTRAVENOUS USE
+# WARNING - INTRAVENOUS USE
 
 Severe reactions, including fatalities, have occurred during and immediately after the parenteral administration of Phytonadione.
 Typically these severe reactions have resembled hypersensitivity or anaphylaxis, including shock and cardiac and/or respiratory arrest.
