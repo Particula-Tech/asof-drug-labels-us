@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA019888"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "Almatica Pharma Inc.",
+  "package_ndcs": [
+    "52427-435-90",
+    "52427-436-90",
+    "52427-437-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril and hydrochlorothiazide",
+      "name": "Zestoretic"
+    }
+  ],
+  "setid": "0d3a966f-f937-05a8-a90f-5aa52ebbd613",
+  "source": "dailymed"
+}
