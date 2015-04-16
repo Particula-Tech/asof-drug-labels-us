@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-Ketorolac Tromethamine Tablets USP 10mg 100s Label Text
+## Ketorolac Tromethamine Tablets USP 10mg 100s Label Text
 
 NDC 0093-0314-01
 

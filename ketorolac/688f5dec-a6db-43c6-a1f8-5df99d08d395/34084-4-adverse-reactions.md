@@ -54,7 +54,7 @@ Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell’s syndrome, b
 
 Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease)
 
-Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, postoperative wound hemorrhage (rarely requiring blood transfusion - see BoxedWARNING, WARNINGS, and PRECAUTIONS)
+Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, postoperative wound hemorrhage (rarely requiring blood transfusion - see Boxed WARNING, WARNINGS, and PRECAUTIONS)
 
 Metabolic and Nutritional: hyperglycemia, hyperkalemia, hyponatremia
 
@@ -79,9 +79,7 @@ Table 3: Incidence of Clinically Serious GI Bleeding as Related to Age, Total Da
 | ≤ 60 mg | > 60 to 90 mg | > 90 to 120 mg | > 120 mg |  |
 | < 65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |
 | ≥ 65 years of age | 1.2% | 2.8% | 2.2% | 7.7% |
-
 | B. Adult Patients With History of PUB |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Age of Patients | Total Daily Dose of Ketorolac TromethamineIV/IM |  |  |  |
 | ≤ 60 mg | > 60 to 90 mg | > 90 to 120 mg | > 120 mg |  |
 | < 65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |

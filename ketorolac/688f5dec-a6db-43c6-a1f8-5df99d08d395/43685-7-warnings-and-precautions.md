@@ -61,7 +61,7 @@ Because patients with underlying renal insufficiency are at increased risk of de
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without a known previous exposure or hypersensitivity to ketorolac tromethamine.
 Ketorolac tromethamine should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONSand PRECAUTIONS,Preexisting Asthma).
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
 Anaphylactoid reactions, like anaphylaxis, may have a fatal outcome.
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
@@ -150,21 +150,21 @@ Ketorolac tromethamine tablets are not indicated for use in pediatric patients.
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-1. Ketorolac tromethamine, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-2. Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
-3. Ketorolac tromethamine, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it will cause premature closure of the ductus arteriosus.
+- 1.Ketorolac tromethamine, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
+  Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
+- 2.Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+  Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
+- 3.Ketorolac tromethamine, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
+  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
+  Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+- 4.Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+  If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+- 6.Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+- 7.In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it will cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
 
@@ -303,4 +303,4 @@ The safety and effectiveness of ketorolac tromethamine tablets in pediatric pati
 
 ## Geriatric Use (≥ 65 Years of Age)
 
-Because ketorolac tromethamine may be cleared more slowly by the elderly (see CLINICAL PHARMACOLOGY) who are also more sensitive to the dose-related adverse effects of NSAIDs (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation), extreme caution, reduced dosages (see DOSAGE AND ADMINISTRATION), and careful clinical monitoring must be used when treating the elderly with ketorolac tromethamine.
+Because ketorolac tromethamine may be cleared more slowly by the elderly (see CLINICALPHARMACOLOGY) who are also more sensitive to the dose-related adverse effects of NSAIDs (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation), extreme caution, reduced dosages (see DOSAGE AND ADMINISTRATION), and careful clinical monitoring must be used when treating the elderly with ketorolac tromethamine.
