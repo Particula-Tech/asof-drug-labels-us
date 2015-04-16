@@ -29,7 +29,7 @@ Use with Alpha Blockers and Antihypertensives
 
 PDE5 inhibitors, including ADCIRCA, and alpha–adrenergic blocking agents are vasodilators with blood pressure–lowering effects.
 When vasodilators are used in combination, an additive effect on blood pressure may be anticipated.
-In some patients, concomitant use of these two drug classes can lower blood pressure significantly [see Clinical Pharmacology (12.2) and Drug Interactions (7.1)], which may lead to symptomatic hypotension (e.g., fainting).
+In some patients, concomitant use of these two drug classes can lower blood pressure significantly [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)], which may lead to symptomatic hypotension (e.g., fainting).
 Safety of combined use of PDE5 inhibitors and alpha blockers may be affected by other variables, including intravascular volume depletion and use of other antihypertensive drugs [see Drug Interactions (7.1)].
 
 Use with Alcohol

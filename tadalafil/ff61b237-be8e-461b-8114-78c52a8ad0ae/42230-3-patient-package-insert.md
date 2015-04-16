@@ -10,7 +10,7 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about ADCIRCA?
 
-Never take ADCIRCA with any nitrate medicines:
+Never take ADCIRCA with any nitrate or guanylate cyclase stimulator medicines:
 
 - Your blood pressure could drop quickly to an unsafe level
 - You could get dizzy, faint and even have a heart attack or stroke.
@@ -22,7 +22,11 @@ Nitrates include:
 - Other nitrate medicines (isosorbide mononitrate or dinitrate)
 - Street drugs that are inhaled, called “poppers” (amyl nitrate, butyl nitrate or nitrite)
 
-Ask your healthcare provider or pharmacist if you are not sure if you take a nitrate medicine.
+Guanylate cyclase stimulators include:
+
+- Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension
+
+Ask your healthcare provider or pharmacist if you are not sure if you take a nitrate or guanylate cyclase stimulator medicine.
 
 What is ADCIRCA?
 
@@ -36,6 +40,7 @@ Do not take ADCIRCA if you
 
 - take any medicines called nitrates.
 - use recreational drugs called “poppers” like amyl nitrate, butyl nitrate or nitrite.
+- take any medicines called guanylate cyclase stimulators
 - are allergic to tadalafil or any other ingredient in ADCIRCA.
   See “What are the ingredients in ADCIRCA?” at the end of this leaflet.
 
@@ -71,9 +76,9 @@ Before taking ADCIRCA, tell your healthcare provider about all of your medical c
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 ADCIRCA and other medicines may affect each other.
 
-Especially tell your healthcare provider if you take any of these medicines1:
+Especially tell your healthcare provider if you take any of these medicines*:
 
-- nitrates (see “What is the most important information I should know about ADCIRCA?”)
+- nitrates or guanylate cyclase stimulators (see “What is the most important information I should know about ADCIRCA?”)
 - anti-hypertensives, used to treat high blood pressure.
   Your blood pressure could suddenly drop.
   You could get dizzy or faint.
@@ -172,16 +177,16 @@ Rx only
 
 ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 
-1The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
+*The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Revised 04/2014
+Revised 04/2015
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 Marketed by: Lung Biotechnology Inc., a wholly-owned subsidiary of United Therapeutics Corporation
 
-Copyright © 2009, 2014, Eli Lilly and Company.
+Copyright © 2009, 2015, Eli Lilly and Company.
 All rights reserved.
 
-PV 6487 AMP
+ADC-0001-PPI-20150402

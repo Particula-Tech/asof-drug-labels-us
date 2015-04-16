@@ -11,7 +11,7 @@ Renal Impairment
 
 - Mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min): Start dosing at 20 mg once daily.
   Increase to 40 mg once daily based on individual tolerability.
-- Severe (creatinine clearance <30 mL/min and on hemodialysis): Avoid use of ADCIRCA because of increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis [see Warnings and Precautions (5.3) and Use In Specific Populations (8.6)].
+- Severe (creatinine clearance <30 mL/min and on hemodialysis): Avoid use of ADCIRCA because of increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
