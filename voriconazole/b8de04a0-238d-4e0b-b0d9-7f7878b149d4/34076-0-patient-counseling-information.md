@@ -2,4 +2,7 @@
 
 See FDA-Approved Patient Labeling
 
-LAB-0434-5.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com.
+
+LAB-0434-6.0

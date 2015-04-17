@@ -43,7 +43,7 @@ What should I tell my healthcare provider before taking voriconazole?
 
 Before you take voriconazole, tell your healthcare provider if you:
 
-- have or ever had an abnormal heart rate or rhythm.
+- have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole.
 - have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole.
@@ -175,3 +175,8 @@ Inactive ingredients:
 Voriconazole tablets: lactose monohydrate, pregelatinized starch, croscarmellose sodium, povidone, magnesium stearate, and a coating containing hypromellose, titanium dioxide, lactose monohydrate, and triacetin
 
 Voriconazole oral suspension: colloidal silicon dioxide, titanium dioxide, xanthan gum, sodium citrate dihydrate, sodium benzoate, anhydrous citric acid, natural orange flavor, and sucrose
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.greenstonellc.com.
