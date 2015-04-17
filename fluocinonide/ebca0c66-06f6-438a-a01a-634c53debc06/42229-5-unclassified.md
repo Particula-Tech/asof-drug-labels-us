@@ -1,5 +1,5 @@
-For External Use Only
+FOR TOPICAL USE ONLY.
 
 Rx only
 
-Not for Ophthalmic Use
+NOT FOR OPHTHALMIC USE.
