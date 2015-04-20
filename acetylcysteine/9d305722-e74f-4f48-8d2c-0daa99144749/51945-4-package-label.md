@@ -1,19 +1,13 @@
-# Package/Label Display Panel- Carton
+# Package/Label Display Panel
 
 Rx Only
 
-Acetylcysteine Injection
-
-200 mg/mL (6g/30mL)
-
-For Intravenous Use
-
-# Package/Label Display Panel- Label
-
-Rx Only
+NDC 0574-0805-30
 
 Acetylcysteine Injection
 
-200 mg/mL (6g/30mL)
+6 g/30 mL (200 mg/mL)
 
-For Intravenous Use
+MUST BE FURTHER DILUTED PRIOR TO INTRAVENOUS USE
+
+4 X 30 mL Sterile Vials

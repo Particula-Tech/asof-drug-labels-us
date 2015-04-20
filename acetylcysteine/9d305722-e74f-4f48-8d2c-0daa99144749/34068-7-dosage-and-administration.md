@@ -1,50 +1,83 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The total dose of Acetylcysteine Injection is 300 mg/kg administered over 21 hours.
+The total dose of Acetylcysteine Injection is 300 mg/kg given as 3 separate doses and administered over a total of 21 hours.
 Please refer to the guidelines below for dose preparation based upon patient weight.
+The total volume administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction (see Tables 1 and 2).
 
 ## 2.1 Administration Instructions (Three-Bag Method: Loading, Second and Third Dose)
 
-Patients≥40 kg (Table 1):
+Dosing for Patients who weigh 5 kg to 20 kg (Table 1):
 
-Loading Dose: 150 mg/kg in 200 mL of diluent◇ administered over 60 min
+Loading Dose: 150 mg/kg diluted in 3 mL/kg of diluent* administered over 1 hr
 
-Second Dose: 50 mg/kg in 500 mL of diluent administered over 4 hr
+Second Dose: 50 mg/kg diluted in 7 mL/kg of diluent* administered over 4 hrs
 
-Third Dose: 100 mg/kg in 1000 mL of diluent administered over 16 hr
+Third Dose: 100 mg/kg diluted in 14 mL/kg of diluent* administered over 16 hrs
 
-The total volume administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction:
+* Acetylcysteine Injection is compatible with the following diluents; 5% Dextrose in Water, 0.45% Sodium Chloride Injection, and Sterile Water for Injection.
 
-Patients >20 - <40 kg (Table 2):
+See also Section 2.2 Volume Adjustment: Patients less than 40 kg and Requiring Fluid Restriction.
 
-Loading Dose: 150 mg/kg in 100 mL of diluent◇ administered over 60 min
+Dosing for Patients who weigh 21 kg to 40 kg (Table 2):
 
-Second Dose: 50 mg/kg in 250 mL of diluent administered over 4 hr
+Loading Dose: 150 mg/kg diluted in 100 mL of diluent* administered over 1 hr
 
-Third Dose: 100 mg/kg in 500 mL of diluent administered over 16 hr
+Second Dose: 50 mg/kg diluted in 250 mL of diluent* administered over 4 hrs
 
-Patients≤20 kg (Table 3):
+Third Dose: 100 mg/kg diluted in 500 mL of diluent* administered over 16 hrs
 
-Loading Dose: 150 mg/kg in 3 mL/kg of body weight of diluent administered over 60 min
+* Acetylcysteine Injection is compatible with the following diluents; 5% Dextrose in Water, 0.45% Sodium Chloride Injection, and Sterile Water for Injection.
 
-Second Dose: 50 mg/kg in 7 mL/kg of body weight of diluent administered over 4 hr
+See also Section 2.2 Volume Adjustment: Patients less than 40 kg and Requiring Fluid Restriction.
 
-Third Dose: 100 mg/kg in 14 mL/kg of body weight of diluent administered over 16 hr
+Dosing for Patients who weigh 41 kg to 100 kg (Table 3):
 
-◇Acetylcysteine Injection is hyperosmolar (2600 mOsm/L) and is compatible with 5% Dextrose (D5W), 1/2 Normal Saline (0.45% Sodium Chloride Injection, 1/2 NS), and Water for Injection (WFI).
+Loading Dose: 150 mg/kg diluted in 200 mL of diluent* administered over 1 hr
+
+Second Dose: 50 mg/kg diluted in 500 mL of diluent* administered over 4 hrs
+
+Third Dose: 100 mg/kg diluted in 1000 mL of diluent* administered over 16 hrs
+
+* Acetylcysteine Injection is compatible with the following diluents; 5% Dextrose, 0.45% Sodium Chloride Injection, and Sterile Water for Injection.
+
+Patients Weighing More Than 100 kg
+
+No specific studies have been conducted to evaluate the use of or necessity of dosing adjustments in patients weighing over 100 kg.
+Limited information is available regarding the dosing requirements of patients that weigh more than 100 kg.
+The dose of Acetylcysteine Injection recommended in these patients should be a loading dose of 15,000 mg infused over a period of one hour followed by a first maintenance dose of 5,000 mg over 4 hours and a second maintenance dose of 10,000 mg over 16 hours (See Table 3).
+
+Continued Therapy beyond 21 Hours
+
+While there is no clinical trial data to support infusions beyond 21 hours there is literature that supports continued infusion of acetylcysteine in some rare instances.
+In cases of suspected massive overdose, or with concomitant ingestion of other substances, or in patients with preexisting liver disease, the absorption and/or the half-life of acetaminophen may be prolonged, in such cases consideration should be given to the need for continued infusion of N-acetylcysteine beyond 21 hours.
+Acetaminophen levels and ALT/AST & INR should be checked before the end of the 21-hour infusion.
+If acetaminophen levels are still detectable, or in cases in which the ALT/AST are still increasing or the INR remains elevated, the infusion should be continued, and the treating physician should contact a US regional poison center at 1-800-222-1222, or alternatively, a “special health professional assistance line for acetaminophen overdose” at 1-800-525-6115 for assistance with dosing recommendations.
+
+## 2.2 Volume Adjustment: Patients less than 40 kg and Requiring Fluid Restriction
+
+The total volume administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction.
+To avoid fluid overload, the volume of diluent should be reduced as clinically needed.
+If the volume of the infusion is not adjusted, fluid overload can occur, potentially resulting in hyponatremia, seizure and death.
+[see Dosage and Administration (2)].
+
+As Acetylcysteine Injection is hyperosmolar (2600 m0smol/L), caution is advised when the diluent volume is decreased as the hyperosmolarity of the solution is increased.
+See Table 4 below for examples.
+
+*Osmolarity should be adjusted to a physiologically safe level, (generally not less than 150m0smol/L in children).
 
 Single dose vial, preservative-free, discard unused portion.
-If vial was previously opened, do not use for I.V. administration.
+If vial was previously opened, do not use for intravenous administration.
 
 Stability studies indicate that the diluted solution is stable for 24 hours at controlled room temperature.
+
 Note: The color of Acetylcysteine Injection may turn from essentially colorless to a slight pink or purple once the stopper is punctured.
 The color change does not affect the quality of the product.
 
-## 2.2 Renal Impairment
+## 2.3 Renal Impairment
 
 No data are available to determine if a dose adjustment in patients with moderate or severe renal impairment is required.
 
-## 2.3 Hepatic Impairment
+## 2.4 Hepatic Impairment
 
 Although there was a threefold increase in acetylcysteine plasma concentrations in patients with hepatic cirrhosis, no data are available to determine if a dose adjustment in these patients is required.
 The published medical literature does not indicate that the dose of acetylcysteine in patients with hepatic impairment should be reduced.

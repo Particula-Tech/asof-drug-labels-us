@@ -1,4 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Acetylcysteine Injection is available as a 20% solution (200 mg/mL) in 30 mL single dose glass vials.
-Acetylcysteine Injection is sterile and can be used for I.V. administration.
+Each single dose vial contains 6 g/30 mL (200 mg/mL) of Acetylcysteine Injection.
+Acetylcysteine Injection is sterile and can be used for intravenous administration.
