@@ -127,4 +127,4 @@ Rev.
 
 Manufactured by: Takeda GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
+Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC St. Louis, MO 63045, USA

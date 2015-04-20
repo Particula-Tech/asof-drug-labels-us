@@ -35,8 +35,8 @@ Therefore, the use of strong cytochrome P450 enzyme inducers (e.g. rifampicin, p
 
 Manufactured by: Takeda GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
+Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC St. Louis, MO 63045, USA
 
 Daliresp® is a registered trademark of Takeda GmbH.
 
-© 2010-2013 Forest Laboratories, Inc.
+© 2010-2014 Forest Laboratories, Inc.
