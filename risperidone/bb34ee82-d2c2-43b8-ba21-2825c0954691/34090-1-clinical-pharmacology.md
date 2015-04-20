@@ -12,7 +12,7 @@ RISPERDAL® has low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 
 ## 12.2 Pharmacodynamics
 
 The clinical effect from RISPERDAL® CONSTA® results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D2 and 5HT2[see Clinical Pharmacology (12.1)] may explain some of the other effects of RISPERDAL® CONSTA®.
+Antagonism at receptors other than D2 and 5HT2 [see Clinical Pharmacology (12.1)] may explain some of the other effects of RISPERDAL® CONSTA®.
 
 ## 12.3 Pharmacokinetics
 

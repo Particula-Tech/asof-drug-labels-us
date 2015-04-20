@@ -3,13 +3,14 @@
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-RISPERDAL®CONSTA®(risperidone) is not approved for the treatment of dementia-related psychosis (see Boxed Warning).
+RISPERDAL® CONSTA® (risperidone) is not approved for the treatment of dementia-related psychosis (see Boxed Warning).
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 Cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73–97) in trials of oral risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with oral risperidone compared to patients treated with placebo.
-RISPERDAL® CONSTA® is not approved for the treatment of patients with dementia-related psychosis [See also Boxed Warning and Warnings and Precautions (5.1)]
+RISPERDAL® CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
+[see also Boxed Warning and Warnings and Precautions (5.1)]
 
 ## 5.3 Neuroleptic Malignant Syndrome (NMS)
 

@@ -67,8 +67,8 @@ Adverse Reactions in ≥ 2% of RISPERDAL® CONSTA®-Treated Patients with Schizo
 | Adverse Reaction | (N=99) | (N=103) | (N=98) |
 | --- | --- | --- | --- |
 |  | Percentage of Patients Reporting Event |  |  |
-|  | RISPERDAL® | CONSTA® | Placebo |
-| System Organ Class | 25 mg | 50 mg |  |
+|  | RISPERDAL® CONSTA® |  | Placebo |
+| System/Organ Class | 25 mg | 50 mg |  |
 | Eye disorders |  |  |  |
 | Vision blurred | 2 | 3 | 0 |
 | Gastrointestinal disorders |  |  |  |
@@ -234,7 +234,7 @@ Reproductive System and Breast Disorders: vaginal discharge, retrograde ejaculat
 
 Respiratory, Thoracic, and Mediastinal Disorders: epistaxis, wheezing, pneumonia aspiration, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
 
-Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesion, skin disorder, rash erythematous, rash papular, hyperkeratosis, dandruff, seborrheic dermatitis, rash generalised, rash maculopapular
+Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesion, skin disorder, rash erythematous, rash papular, hyperkeratosis, dandruff, seborrheic dermatitis, rash generalized, rash maculopapular
 
 Vascular Disorders: flushing
 
