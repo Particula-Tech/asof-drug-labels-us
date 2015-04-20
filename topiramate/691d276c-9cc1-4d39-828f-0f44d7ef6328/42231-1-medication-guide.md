@@ -1,4 +1,4 @@
-# MEDICATION GUIDE Topiramate (toe PYRE a mate) Extended-Release Capsules
+# MEDICATION GUIDE Topiramate (toe pirʾ a mate) Extended-Release Capsules
 
 Read this Medication Guide before you start taking Topiramate Extended-Release Capsules and each time you get a refill.
 There may be new information.
@@ -85,7 +85,7 @@ What are Topiramate Extended-Release Capsules?
 
 Topiramate Extended-Release Capsules are a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 10 years of age and older,
+- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years of age and older.
 - with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years of age and older.
 
 Who should not take Topiramate Extended-Release Capsules?
@@ -111,8 +111,8 @@ Before taking Topiramate Extended-Release Capsules, tell your healthcare provide
 - are having surgery
 - are pregnant or plan to become pregnant
 - are breastfeeding.
-  The medicine in Topiramate Extended-Release Capsules passes into your breast milk.
-  It is not known if the medicine in Topiramate Extended-Release Capsules that passes into breast milk can harm your baby.
+  Topiramate Extended-Release Capsules passes into your breast milk.
+  It is not known if the Topiramate Extended-Release Capsules that passes into breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take Topiramate Extended-Release Capsules.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -149,7 +149,7 @@ How should I take Topiramate Extended-Release Capsules?
 - Topiramate Extended-Release Capsules can be taken before, during, or after a meal.
   Drink plenty of fluids during the day.
   This may help prevent kidney stones while taking Topiramate Extended-Release Capsules.
-- If you take too many Topiramate Extended-Release Capsules, call your healthcare provider or poison control center right away or go to the nearest emergency room.
+- If you take too much Topiramate Extended-Release Capsules, call your healthcare provider or poison control center right away or go to the nearest emergency room.
 - If you miss a single dose of Topiramate Extended-Release Capsules, take it as soon as you can.
   Do not double your dose.
   If you have missed more than one dose, you should call your healthcare provider for advice.
@@ -188,14 +188,17 @@ Call your healthcare provider right away if you have any of the symptoms above.
 The most common side effects of Topiramate Extended-Release Capsules include:
 
 - tingling of the arms and legs (paresthesia)
-- irregular movement of eyes (nystagmus)
 - not feeling hungry
-- nausea or indigestion
-- a change in the way foods taste
-- diarrhea
 - weight loss
 - nervousness
-- upper respiratory tract infection
+- speech problems
+- tiredness
+- dizziness
+- sleepiness/drowsiness
+- slow reactions
+- difficulty with memory
+- fever
+- abnormal vision
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -237,8 +240,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for USL PHARMA, INC. Denver, CO 80223
 
-Issued: 3/2014
+Revised: 0315
 
 All trademarks are owned by their respective owners.
-
-109018-01

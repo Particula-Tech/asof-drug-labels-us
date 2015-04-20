@@ -39,12 +39,13 @@ Generally, topiramate-induced metabolic acidosis occurs early in treatment altho
 Bicarbonate decrements are usually mild-moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
 
-Adults
+Adult Patients
 
 In adults, the incidence of persistent treatment-emergent decreases in serum bicarbonate (levels of less than 20 mEq/L at two consecutive visits or at the final visit) in controlled clinical trials for adjunctive treatment of epilepsy was 32% for 400 mg per day, and 1% for placebo.
 Metabolic acidosis has been observed at doses as low as 50 mg per day.
-The incidence of persistent treatment-emergent decreases in serum bicarbonate in adults in a controlled clinical trial for monotherapy was 15% for 50 mg per day and 25% for 400 mg per day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day, and 0% for placebo and in the monotherapy trial was 1% for 50 mg per day and 7% for 400 mg per day.
+The incidence of a markedly abnormal low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in the adjunctive therapy trials was 3% for 400 mg per day and 0% for placebo.
+The incidence of persistent treatment-emergent decreases in serum bicarbonate in adult patients (≥16 years of age) in the epilepsy controlled clinical trial for monotherapy was 14% for 50 mg per day and 25% for 400 mg per day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value less than 17 mEq/L and greater than 5 mEq/L decrease from pretreatment) in this trial for adults was 1% for 50 mg per day and 6% for 400 mg per day.
 Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 400 mg per day.
 
 Pediatric Patients (2 years to 16 years of age)
@@ -73,7 +74,7 @@ Long-term, open-label treatment of infants/toddlers, with intractable partial ep
 Reductions in Z SCORES for length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
 
-Risk Mitigation Strategies
+Measurement of Serum Bicarbonate in Epilepsy Patients
 
 Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
@@ -95,9 +96,9 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -128,11 +129,11 @@ The majority of cognitive-related adverse reactions were mild to moderate in sev
 Rapid titration rate and higher initial dose were associated with higher incidences of these reactions.
 Many of these reactions contributed to withdrawal from treatment [see Adverse Reactions (6.1)].
 
-In the adjunctive epilepsy controlled trials conducted with topiramate (using rapid titration such as 100 mg per day to 200mg per day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 42% for 200mg per day, 41% for 400mg per day, 52% for 600mg per day, 56% for 800 and 1,000 mg per day, and 14% for placebo.
+In the adjunctive epilepsy controlled trials conducted with topiramate (using rapid titration such as 100 mg per day to 200 mg per day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 42% for 200 mg per day, 41% for 400 mg per day, 52% for 600 mg per day, 56% for 800 and 1,000 mg per day, and 14% for placebo.
 These dose-related adverse reactions began with a similar frequency in the titration or in the maintenance phase, although in some patients the events began during titration and persisted into the maintenance phase.
 Some patients who experienced one or more cognitive-related adverse reactions in the titration phase had a dose-related recurrence of these reactions in the maintenance phase.
 
-In the monotherapy epilepsy controlled trial conducted with topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50mg per day and 26% for 400mg per day.
+In the monotherapy epilepsy controlled trial conducted with topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
 
 Psychiatric/Behavioral Disturbances
 
@@ -213,7 +214,8 @@ In patients who develop unexplained lethargy, vomiting, or changes in mental sta
 A total of 32/2086 (1.5%) of adults exposed to topiramate during its adjunctive epilepsy therapy development reported the occurrence of kidney stones, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adults exposed to topiramate reported the occurrence of kidney stones.
 As in the general population, the incidence of stone formation among topiramate-treated patients was higher in men.
-Kidney stones have also been reported in pediatric patients.
+Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy.
+
 During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 month to 24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
 Topiramate Extended-Release Capsules are not approved for pediatric patients less than 2 years old [see Use in Specific Populations (8.4)].
 
@@ -234,7 +236,7 @@ Clinical management and assessment should include examination of blood ammonia l
 
 ## 5.12 Paresthesia
 
-Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of topiramate.
+Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of topiramate in adult and pediatric patients.
 Paresthesia was more frequently reported in the monotherapy epilepsy trials conducted with immediate-release topiramate than in the adjunctive therapy epilepsy trials conducted with the same product.
 In the majority of instances, paresthesia did not lead to treatment discontinuation [see Adverse Reactions (6.1)].
 
