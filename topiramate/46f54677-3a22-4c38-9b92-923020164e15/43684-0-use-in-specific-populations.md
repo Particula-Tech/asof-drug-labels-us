@@ -19,10 +19,12 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 
 Human Data
 
-Data from the NAAED Pregnancy Registry indicate an increased risk of oral clefts in infants exposed to topiramate monotherapy during the first trimester of pregnancy.
-The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% - 0.46% in infants exposed to other AEDs, and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
+Data from the NAAED Pregnancy Registry (425 prospective topiramate monotherapy-exposed pregnancies) indicate an increased risk of oral clefts in infants exposed during the first trimester of pregnancy.
+The prevalence of oral clefts among topiramate-exposed infants was 1.2% compared to a prevalence of 0.39% for infants exposed to a reference AED.
+In infants of mothers without epilepsy or treatment with other AEDs, the prevalence was 0.12%.
 For comparison, the Centers for Disease Control and Prevention (CDC) reviewed available data on oral clefts in the United States and found a similar background rate of 0.17%.
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval=CI 3.6-25.7) as compared to the risk in a background population of untreated women.
+
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval [CI] 4.0 to 23.0) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
 The observed rate of oral clefts was 16 times higher than the background rate in the UK, which is approximately 0.2%.
 
@@ -56,7 +58,7 @@ Although the effect of topiramate on labor and delivery in humans has not been e
 
 ## 8.3 Nursing Mothers
 
-Limited data on 5 breastfeeding infants exposed to topiramate showed infant plasma topiramate levels equal to 10-20% of the maternal plasma level.
+Limited data on 5 breastfeeding infants exposed to topiramate showed infant plasma topiramate levels equal to 10 to 20% of the maternal plasma level.
 The effects of this exposure on infants are unknown.
 Caution should be exercised when QUDEXY XR is administered to a nursing woman.
 
@@ -80,7 +82,7 @@ The following pediatric use information is based on studies conducted with immed
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
 In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of immediate-release topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in infants 1 to 24 months of age with refractory partial onset seizures, was assessed.
-After 20 days of double-blind treatment, immediate-release topiramate (at fixed doses of 5 mg/kg, 15 mg/kg, and 25 mg/kg per day) did not demonstrate efficacy compared with placebo in controlling seizures.
+After 20 days of double-blind treatment, immediate-release topiramate (at fixed doses of 5 mg/kg, 15 mg/kg, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
 In general, the adverse reaction profile in this population was similar to that of older pediatric patients, although results from the above controlled study, and an open-label, long-term extension study in these infants/toddlers (1 to 24 months old) suggested some adverse reactions not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications.
 

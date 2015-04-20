@@ -103,10 +103,10 @@ Potential interactions between immediate-release topiramate and standard AEDs we
 The effects of these interactions on mean plasma AUCs are summarized in Table 9.
 Interaction of QUDEXY XR and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 9, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
+In Table 10, the second column (AED concentration) describes what happened to the concentration of the AED listed in the first column when topiramate was added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modified the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 9: Summary of AED Interactions with topiramate
+Table 10: Summary of AED Interactions with topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ Table 9: Summary of AED Interactions with topiramate
 | Valproic acid | 11% decrease | 14% decrease |
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
-| Lamotrigine | NC at TPM doses up to 400mg per day | 13% decrease |
+| Lamotrigine | NC at TPM doses up to 400 mg per day | 13% decrease |
 | NC=Less than 10% change in plasma concentration |  |  |
 | AED=Antiepileptic drug |  |  |
 | NE=Not evaluated |  |  |
@@ -159,7 +159,7 @@ Topiramate treatment can frequently cause metabolic acidosis, a condition for wh
 QUDEXY XR is expected to exhibit the same degree of metabolic acidosis as topiramate.
 
 A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hr) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hr) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 17% and 25%, respectively, when topiramate was added.
+The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.

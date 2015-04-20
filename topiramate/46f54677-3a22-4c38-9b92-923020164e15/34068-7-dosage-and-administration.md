@@ -4,16 +4,38 @@
 
 Adults and Pediatric Patients 10 Years and Older with Partial Onset or Primary Generalized Tonic-Clonic Seizures
 
-The recommended dose for topiramate monotherapy in adults and pediatric patients 10 years of age and older is 400 mg orally once daily.
-Titrate QUDEXY XR according to the following schedule:
+The recommended dose for QUDEXY XR monotherapy in adults and pediatric patients 10 years of age and older is 400 mg orally once daily.
+Titrate QUDEXY XR according to the following schedule (Table 1):
 
-|  | Week 1 | 50 mg once daily |  |
-| --- | --- | --- | --- |
-|  | Week 2 | 100 mg once daily |  |
-|  | Week 3 | 150 mg once daily |  |
-|  | Week 4 | 200 mg once daily |  |
-|  | Week 5 | 300 mg once daily |  |
-|  | Week 6 | 400 mg once daily |  |
+Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
+
+|  | QUDEXY XR Once Daily Dose |
+| --- | --- |
+| Week 1 | 50 mg |
+| Week 2 | 100 mg |
+| Week 3 | 150 mg |
+| Week 4 | 200 mg |
+| Week 5 | 300 mg |
+| Week 6 | 400 mg |
+
+Pediatric Patients 2 to less than 10 Years with Partial Onset or Primary Generalized Tonic-Clonic Seizures
+
+Dosing in patients 2 to less than 10 years is based on weight.
+During the titration period, the initial dose of QUDEXY XR should be 25 mg once daily given at nighttime for the first week.
+Based upon tolerability, the dosage can be increased to 50 mg once daily in the second week.
+Dosage can be increased by 25 mg to 50 mg once daily each subsequent week, as tolerated.
+Titration to the minimum maintenance dose should be attempted over 5 to 7 weeks.
+Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted in weekly increments by 25 mg to 50 mg once daily, up to the maximum recommended maintenance dose for each range of body weight (see Table 2).
+
+Table 2: Monotherapy Target Once Daily Maintenance Dosing for Patients 2 to Less Than 10 Years
+
+| Weight (kg) | Once Daily Dose (mg per day) Minimum Maintenance Dose | Once Daily Dose (mg per day) Maximum Maintenance Dose |
+| --- | --- | --- |
+| Up to 11 | 150 | 250 |
+| 12 to 22 | 200 | 300 |
+| 23 to 31 | 200 | 350 |
+| 32 to 38 | 250 | 350 |
+| Greater than 38 | 250 | 400 |
 
 ## 2.2 Adjunctive Therapy Use
 
@@ -35,7 +57,7 @@ Subsequently, increase the dosage at 1 or 2 week intervals by increments of 1 mg
 Dose titration should be guided by clinical outcome.
 If required, longer intervals between dose adjustments can be used.
 
-In the study of primary generalized tonic-clonic seizures, the assigned dose of 6 mg/kg once daily was reached at the end of 8 weeks [see Clinical Studies (14.3, 14.4 and 14.5)].
+In the study of primary generalized tonic-clonic seizures, the assigned dose of 6 mg/kg once daily was reached at the end of 8 weeks [see Clinical Studies (14.3, 14.4, and 14.5)].
 
 ## 2.3 Dose Modifications in Patients with Renal Impairment
 

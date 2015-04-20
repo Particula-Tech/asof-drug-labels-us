@@ -1,10 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide).
+See FDA-approved Medication Guide.
+Inform patients and their caregivers of the availability of a Medication Guide, and instruct them to read this prior to taking Qudexy XR.
+Instruct patients to take QUDEXY XR only as prescribed.
 
 Administration Instructions
-
-Instruct patients to take QUDEXY XR only as prescribed.
 
 Counsel patients to swallow QUDEXY XR capsules whole or carefully open and sprinkle the entire contents on a spoonful of soft food.
 This drug/food mixture should be swallowed immediately and not chewed.
@@ -12,11 +13,12 @@ Do not store drug/food mixture for future use [See Dosage and Administration (2.
 
 Eye Disorders
 
-Advise patients taking QUDEXY XR to seek immediate medical attention if they experience blurred vision, visual disturbances or periorbital pain [see Warnings and Precautions (5.1 and 5.2)].
+Instruct patients taking QUDEXY XR to seek immediate medical attention if they experience blurred vision, visual disturbances or periorbital pain [see Warnings and Precautions (5.1 and 5.2)].
 
 Oligohydrosis and Hyperthermia
 
-Counsel patients, especially pediatric patients, that QUDEXY XR can cause decreased sweating and increased body temperature, especially in hot weather, and they should seek immediate medical attention if this is noticed [see Warnings and Precautions (5.3)].
+Closely monitor QUDEXY XR-treated patients, especially pediatric patients, for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Counsel patients to contact their healthcare professionals immediately if they develop a high or persistent fever, or decreased sweating [see Warnings and Precautions (5.3)].
 
 Metabolic Acidosis
 
@@ -25,15 +27,15 @@ Warn patients about the potentially significant risk for metabolic acidosis that
 Suicidal Behavior and Ideation
 
 Counsel patients, their caregivers, and families that AEDs, including QUDEXY XR, may increase the risk of suicidal thoughts and behavior and they should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.5)].
+Instruct patients to immediately report behaviors of concern to their healthcare providers [see Warnings and Precautions (5.5)].
 
 Interference with Cognitive and Motor Performance
 
-Warn patients about the potential for somnolence, dizziness, confusion, difficulty concentrating, visual effects and advise them not to drive or operate machinery until they have gained sufficient experience on QUDEXY XR to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.6)].
+Warn patients about the potential for somnolence, dizziness, confusion, difficulty concentrating, visual effects, and advise patients not to drive or operate machinery until they have gained sufficient experience on QUDEXY XR to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.6)].
 
-Advise patients that even when taking QUDEXY XR, or other anticonvulsants, some patients with epilepsy will continue to have unpredictable seizures.
-Therefore, counsel all patients taking QUDEXY XR for epilepsy to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
-Physicians should discuss the appropriate level of caution with their patients, before patients with epilepsy engage in such activities.
+Even when taking QUDEXY XR, or other anticonvulsants, some patients with epilepsy will continue to have unpredictable seizures.
+Therefore, advise all patients taking QUDEXY XR for epilepsy to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
+Discuss the appropriate level of caution with their patients, before patients with epilepsy engage in such activities.
 
 Fetal Toxicity
 
@@ -42,6 +44,7 @@ There may also be risks to the fetus from chronic metabolic acidosis with use of
 
 When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 This is particularly important when QUDEXY XR use is considered for a condition not usually associated with permanent injury or death.
+
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.1)].
 
 Encourage pregnant women using topiramate to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
@@ -54,7 +57,8 @@ Hyperammonemia and Encephalopathy
 Warn patients about the possible development of hyperammonemia with or without encephalopathy.
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
-Patients should be instructed to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.9)].
+
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.9)].
 
 Kidney Stones
 

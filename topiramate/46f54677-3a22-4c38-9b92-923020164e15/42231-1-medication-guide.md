@@ -1,4 +1,4 @@
-# MEDICATION GUIDE QUDEXY™ XR (cue-DEKS-ee ex-arr) (topiramate) Extended-Release Capsules
+# MEDICATION GUIDE QUDEXY® XR (cue-DEKS-ee ex-arr) (topiramate) Extended-Release Capsules
 
 Read this Medication Guide before you start taking QUDEXY XR and each time you get a refill.
 There may be new information.
@@ -85,7 +85,7 @@ What is QUDEXY XR?
 
 QUDEXY XR is a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 10 years of age and older,
+- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years of age and older.
 - with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years of age and older.
 
 Who should not take QUDEXY XR?
@@ -185,17 +185,11 @@ See "What is the most important information I should know about QUDEXY XR?"
 - Dizziness or loss of muscle coordination.
 
 Call your healthcare provider right away if you have any of the symptoms above.
+
 The most common side effects of QUDEXY XR include:
 
-- tingling of the arms and legs (paresthesia)
-- irregular movement of eyes (nystagmus)
-- not feeling hungry
-- nausea or indigestion
-- a change in the way foods taste
-- diarrhea
-- weight loss
-- nervousness
-- upper respiratory tract infection
+| tingling of the arms and legs (paresthesia)not feeling hungryweight lossnervousness | speech problemstirednessdizzinesssleepiness/drowsiness | slow reactionsdifficulty with memoryfeverabnormal vision |
+| --- | --- | --- |
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -237,7 +231,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Issued: 3/2014
+Revised: 03/2015
 
-Qudexy is a trademark of Upsher-Smith Laboratories.
+Qudexy is a registered trademark of Upsher-Smith Laboratories.
 All other marks are owned by their respective owners.
