@@ -7,73 +7,34 @@ No drug interaction studies have been conducted with CADUET and other drugs, alt
 
 Amlodipine
 
-## 7.1 In Vitro Data
+## 7.1 Impact of Other Drugs on Amlodipine
 
-In vitro data in human plasma indicate that amlodipine has no effect on the protein binding of drugs tested (digoxin, phenytoin, warfarin, and indomethacin).
+CYP3A Inhibitors
 
-## 7.2 Cimetidine
+Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical Pharmacology (12.3)].
 
-Co-administration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+CYP3A Inducers
 
-## 7.3 Grapefruit Juice
+No information is available on the quantitative effects of CYP3A inducers on amlodipine.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
 
-Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+Sildenafil
 
-## 7.4 Magnesium and Aluminum Hydroxide Antacid
+Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology (12.2)].
 
-Co-administration of a magnesium and aluminum hydroxide antacid with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+## 7.2 Impact of Amlodipine on Other Drugs
 
-## 7.5 Sildenafil
+Immunosuppressants
 
-A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
-When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
-
-## 7.6 Atorvastatin
-
-Co-administration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.
-
-## 7.7 Digoxin
-
-Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
-
-## 7.8 Ethanol (alcohol)
-
-Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
-
-## 7.9 Warfarin
-
-Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
-
-## 7.10 CYP3A4 Inhibitors
-
-Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
-Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
-However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent.
-Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
-
-## 7.11 CYP3A4 Inducers
-
-No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
-Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
-
-## 7.12 Tacrolimus
-
-There is a risk of increased tacrolimus blood levels when co-administered with amlodipine.
-In order to avoid toxicity of tacrolimus, administration of amlodipine in a patient treated with tacrolimus requires monitoring of tacrolimus blood levels and dose adjustment of tacrolimus when appropriate.
-
-## 7.13 Cyclosporine
-
-A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.
-
-## 7.14 Drug/Laboratory Test Interactions
-
-None known.
+Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].
 
 Atorvastatin
 
 The risk of myopathy during treatment with statins is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine, or strong CYP3A4 inhibitors (e.g., clarithromycin, HIV protease inhibitors, and itraconazole) [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-## 7.15 Strong Inhibitors of CYP3A4
+## 7.3 Strong Inhibitors of CYP3A4
 
 Atorvastatin is metabolized by CYP3A4.
 Concomitant administration of atorvastatin with strong inhibitors of CYP3A4 can lead to increases in plasma concentrations of atorvastatin.
@@ -91,49 +52,49 @@ In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C prot
 Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
 Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see Warnings and Precautions (5.1) and Dosage and Administration (2)].
 
-## 7.16 Grapefruit Juice
+## 7.4 Grapefruit Juice
 
 Contains one or more components that inhibit CYP3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (>1.2 liters per day).
 
-## 7.17 Cyclosporine
+## 7.5 Cyclosporine
 
 Atorvastatin and atorvastatin-metabolites are substrates of the OATP1B1 transporter.
 Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
 Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
 The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions (5.1)].
 
-## 7.18 Gemfibrozil
+## 7.6 Gemfibrozil
 
 Because of an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are co-administered with gemfibrozil, avoid concomitant administration of atorvastatin with gemfibrozil [see Warnings and Precautions (5.1)].
 
-## 7.19 Other Fibrates
+## 7.7 Other Fibrates
 
 The risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates.
 [see Warnings and Precautions (5.1)].
 
-## 7.20 Niacin
+## 7.8 Niacin
 
 The risk of skeletal muscle effects may be enhanced when atorvastatin is used in combination with niacin; consider a reduction in atorvastatin dosage in this setting [see Warnings and Precautions (5.1)].
 
-## 7.21 Rifampin or other Inducers of CYP3A4
+## 7.9 Rifampin or other Inducers of CYP3A4
 
 Concomitant administration of atorvastatin with inducers of CYP3A4 (e.g., efavirenz, rifampin) can lead to variable reductions in plasma concentrations of atorvastatin.
 Because of the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
 
-## 7.22 Digoxin
+## 7.10 Digoxin
 
 When multiple doses of atorvastatin and digoxin were co-administered, steady-state plasma digoxin concentrations increased by approximately 20%.
 Monitor digoxin levels.
 
-## 7.23 Oral Contraceptives
+## 7.11 Oral Contraceptives
 
 Co-administration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol) [see Clinical Pharmacology (12.3)].
 Consider these increases when selecting an oral contraceptive for a woman taking CADUET.
 
-## 7.24 Warfarin
+## 7.12 Warfarin
 
 Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
 
-## 7.25 Colchicine
+## 7.13 Colchicine
 
 Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine.

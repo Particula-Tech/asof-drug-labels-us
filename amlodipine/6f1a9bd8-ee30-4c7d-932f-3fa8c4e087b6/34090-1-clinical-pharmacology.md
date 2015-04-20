@@ -78,6 +78,10 @@ The liver is the primary site of action and the principal site of cholesterol sy
 Drug dosage, rather than systemic drug concentration, correlates better with LDL-C reduction.
 Individualization of drug dosage should be based on therapeutic response [see Dosage and Administration (2)].
 
+Drug interactions
+
+Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -176,9 +180,17 @@ Amlodipine: In patients with moderate to severe heart failure, the increase in A
 
 Effects of Other Drugs on CADUET
 
-Amlodipine: No significant interactions are known.
+Amlodipine:
 
-Atorvastatin: Table 5 shows effects of other drugs on the pharmacokinetics of atorvastatin.
+Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
+
+CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.1)].
+
+Atorvastatin:
+
+Table 5 shows effects of other drugs on the pharmacokinetics of atorvastatin.
 
 Table 5.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
@@ -212,9 +224,22 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 Effects of CADUET on Other Drugs
 
-Amlodipine: No significant interactions are known.
+Amlodipine:
 
-Atorvastatin: Table 6 shows the effects of atorvastatin on the pharmacokinetics of other drugs.
+In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+
+Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7.2)].
+
+Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
+This finding was not observed in CYP3A5 non-expressers (N= 6).
+However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
+Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7.2)].
+
+Atorvastatin:
+
+Table 6 shows the effects of atorvastatin on the pharmacokinetics of other drugs.
 
 Table 6.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
