@@ -11,3 +11,5 @@ Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinem
 Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE).
 
 Data are not available to allow estimation of the frequency of adverse reactions during treatment with Isordil Titradose tablets.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

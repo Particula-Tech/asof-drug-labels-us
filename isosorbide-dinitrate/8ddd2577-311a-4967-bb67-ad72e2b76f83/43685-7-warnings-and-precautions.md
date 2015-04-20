@@ -2,7 +2,7 @@
 
 Amplification of the vasodilatory effects of Isordil by sildenafil can result in severe hypotension.
 The time course and dose dependence of this interaction have not been studied.
-Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of extremities and with central volume expansion.
+Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
 
 The benefits of immediate-release oral isosorbide dinitrate in patients with acute myocardial infarction or congestive heart failure have not been established.
 If one elects to use isosorbide dinitrate in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
