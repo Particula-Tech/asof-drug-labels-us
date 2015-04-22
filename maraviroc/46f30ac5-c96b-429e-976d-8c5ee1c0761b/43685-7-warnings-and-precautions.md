@@ -7,12 +7,12 @@ Severe rash or evidence of systemic allergic reaction including drug-related ras
 These events occurred approximately 1 month after starting treatment.
 Among reported cases of hepatitis, some were observed in the absence of allergic features or with no pre-existing hepatic disease.
 
-Appropriate laboratory testing including ALT, AST, and bilirubin should be conducted prior to initiating therapy with SELZENTRY and at other timepoints during treatment as clinically indicated.
+Appropriate laboratory testing including ALT, AST, and bilirubin should be conducted prior to initiating therapy with SELZENTRY and at other time points during treatment as clinically indicated.
 Hepatic laboratory parameters should be obtained in any patient who develops rash, or signs or symptoms of hepatitis, or allergic reaction.
 Discontinuation of SELZENTRY should be considered in any patient with signs or symptoms of hepatitis, or with increased liver transaminases combined with rash or other systemic symptoms.
 
-Caution should be used when administering SELZENTRY to patients with pre-existing liver dysfunction or who are co-infected with viral hepatitis B or C. The safety and efficacy of SELZENTRY have not been specifically studied in patients with significant underlying liver disorders.
-In trials of treatment-experienced HIV-1-infected subjects, approximately 6% of subjects were co-infected with hepatitis B and approximately 6% were co-infected with hepatitis C. Due to the small number of co-infected subjects studied, no conclusions can be drawn regarding whether they are at an increased risk for hepatic adverse events with administration of SELZENTRY.
+Caution should be used when administering SELZENTRY to patients with pre-existing liver dysfunction or who are co-infected with hepatitis B and/or C virus.
+The safety and efficacy of SELZENTRY have not been specifically studied in patients with significant underlying liver disorders.
 
 ## 5.2 Severe Skin and Hypersensitivity Reactions
 
@@ -29,14 +29,16 @@ Use with caution in patients at increased risk for cardiovascular events.
 Eleven subjects (1.3%) who received SELZENTRY had cardiovascular events, including myocardial ischemia and/or infarction, during the Phase 3 trials in treatment-experienced subjects (total exposure 609 patient-years [300 on SELZENTRY once daily + 309 on SELZENTRY twice daily]), while no subjects who received placebo had such events (total exposure 111 patient-years).
 These subjects generally had cardiac disease or cardiac risk factors prior to use of SELZENTRY, and the relative contribution of SELZENTRY to these events is not known.
 
-In the Phase 2b/3 trial in treatment-naive subjects, 3 subjects (0.8%) who received SELZENTRY had events related to ischemic heart diseases and 5 subjects (1.4%) who received efavirenz had such events (total exposure 506 and 508 patient-years for SELZENTRY and efavirenz, respectively).
+In the Phase 2b/3 trial in treatment-naive subjects, 3 subjects (0.8%) who received SELZENTRY had events related to ischemic heart disease and 5 subjects (1.4%) who received efavirenz had such events (total exposure 506 and 508 patient-years for SELZENTRY and efavirenz, respectively).
 
 When SELZENTRY was administered to healthy volunteers at doses higher than the recommended dose, symptomatic postural hypotension was seen at a greater frequency than in placebo.
 However, when SELZENTRY was given at the recommended dose in HIV-1-infected subjects in Phase 3 trials, postural hypotension was seen at a rate similar to placebo (approximately 0.5%).
 Caution should be used when administering SELZENTRY in patients with a history of or risk factors for postural hypotension, cardiovascular comorbidities, or on concomitant medication known to lower blood pressure.
 Patients with cardiovascular comorbidities could be at increased risk of cardiovascular adverse events triggered by postural hypotension.
 
-Postural Hypotension in Patients With Renal Impairment: An increased risk of postural hypotension may occur in patients with severe renal insufficiency or in those with ESRD due to increased maraviroc exposure in some patients.
+Postural Hypotension in Patients with Renal Impairment
+
+An increased risk of postural hypotension may occur in patients with severe renal insufficiency or in those with ESRD due to increased maraviroc exposure in some patients.
 SELZENTRY should be used in patients with severe renal impairment or ESRD only if they are not receiving a concomitant potent CYP3A inhibitor or inducer.
 However, the use of SELZENTRY in these patients should only be considered when no alternative treatment options are available.
 If patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking 300 mg twice daily, the dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2)].
@@ -52,8 +54,8 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 
 SELZENTRY antagonizes the CCR5 co-receptor located on some immune cells, and therefore could potentially increase the risk of developing infections.
 The overall incidence and severity of infection, as well as AIDS-defining category C infections, were comparable in the treatment groups during the Phase 3 treatment-experienced trials of SELZENTRY.
-While there was a higher rate of certain upper respiratory tract infections reported in the arm receiving SELZENTRY compared with placebo (23% versus 13%), there was a lower rate of pneumonia (2% versus 5%) reported in subjects receiving SELZENTRY.
-A higher incidence of Herpes virus infections (11 per 100 patient-years) was also reported in the arm receiving SELZENTRY when adjusted for exposure compared with placebo (8 per 100 patient-years).
+While there was a higher rate of certain upper respiratory tract infections reported in the treatment arm receiving SELZENTRY compared with placebo (23% versus 13%), there was a lower rate of pneumonia (2% versus 5%) reported in subjects receiving SELZENTRY.
+A higher incidence of Herpes virus infections (11 per 100 patient-years) was also reported in the treatment arm receiving SELZENTRY when adjusted for exposure compared with placebo (8 per 100 patient-years).
 
 In the Phase 2b/3 trial in treatment-naive subjects, the incidence of AIDS-defining Category C events when adjusted for exposure was 1.8 for SELZENTRY compared with 2.4 for efavirenz per 100 patient-years of exposure.
 

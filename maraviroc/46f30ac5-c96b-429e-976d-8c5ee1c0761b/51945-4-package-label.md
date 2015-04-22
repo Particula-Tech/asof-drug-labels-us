@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINICIPAL DISPLAY PANEL
 
 NDC 49702-223-18
 
@@ -16,6 +16,8 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Store at 25°C (77°F); excursions permitted between 15°C and 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
 
+Do not use if printed safety seal under cap is broken or missing.
+
 Dispense in tight containers (USP).
 
 DOSAGE AND USE
@@ -23,6 +25,8 @@ DOSAGE AND USE
 See prescribing information for dosage information.
 
 Each tablet contains 150 mg of maraviroc.
+
+Made in Belgium
 
 Manufactured for:
 
@@ -36,14 +40,12 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-Made in Belgium
-
 Rev.
-9/11
+11/14
 
-413168
+PAA054322
 
-Principal Display Panel
+PRINICIPAL DISPLAY PANEL
 
 NDC 49702-224-18
 
@@ -61,6 +63,8 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Store at 25°C (77°F); excursions permitted between 15°C and 30°C (59°F - 86°F) [see USP Controlled Room Temperature].
 
+Do not use if printed safety seal under cap is broken or missing.
+
 Dispense in tight containers (USP).
 
 DOSAGE AND USE
@@ -68,6 +72,8 @@ DOSAGE AND USE
 See prescribing information for dosage information.
 
 Each tablet contains 300 mg of maraviroc.
+
+Made in Belgium
 
 Manufactured for:
 
@@ -81,9 +87,7 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-Made in Belgium
-
 Rev.
-9/11
+10/14
 
-413169
+PAA054323

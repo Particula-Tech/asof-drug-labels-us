@@ -10,7 +10,9 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Trials in Treatment-Experienced Subjects: The safety profile of SELZENTRY is primarily based on 840 HIV-1-infected subjects who received at least 1 dose of SELZENTRY during two Phase 3 trials.
+Treatment-experienced Subjects
+
+The safety profile of SELZENTRY is primarily based on 840 HIV-1-infected subjects who received at least 1 dose of SELZENTRY during two Phase 3 trials.
 A total of 426 of these subjects received the indicated twice-daily dosing regimen.
 
 Assessment of treatment-emergent adverse events is based on the pooled data from 2 trials in subjects with CCR5-tropic HIV-1 (A4001027 and A4001028).
@@ -19,7 +21,6 @@ The population was 89% male and 84% white, with mean age of 46 years (range: 17 
 Subjects received dose equivalents of 300 mg maraviroc once or twice daily.
 
 The most common adverse events reported with twice-daily therapy with SELZENTRY with frequency rates higher than placebo, regardless of causality, were upper respiratory tract infections, cough, pyrexia, rash, and dizziness.
-Additional adverse events that occurred with once-daily dosing at a higher rate than both placebo and twice-daily dosing were diarrhea, edema, influenza, esophageal candidiasis, sleep disorders, rhinitis, parasomnias, and urinary abnormalities.
 In these 2 trials, the rate of discontinuation due to adverse events was 5% for subjects who received SELZENTRY twice daily + OBT as well as those who received placebo + OBT.
 Most of the adverse events reported were judged to be mild to moderate in severity.
 The data described below occurred with twice-daily dosing of SELZENTRY.
@@ -29,15 +30,17 @@ Correcting for the longer duration of exposure on SELZENTRY compared with placeb
 
 Dizziness or postural dizziness occurred in 8% of subjects on either SELZENTRY or placebo, with 2 subjects (0.5%) on SELZENTRY permanently discontinuing therapy (1 due to syncope, 1 due to orthostatic hypotension) versus 1 subject on placebo (0.5%) permanently discontinuing therapy due to dizziness.
 
-Treatment-emergent adverse events, regardless of causality, from A4001027 and A4001028 are summarized in Table 3.
-Selected events occurring at ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on placebo are not displayed.
+Treatment-emergent adverse events, regardless of causality, from Trials A4001027 and A4001028 are summarized in Table 3.
+Selected events occurring at greater than or equal to 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on placebo are not displayed.
 
 Table 3.
-Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Causality) ≥2% on SELZENTRY (and at a higher rate compared with placebo) Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+Percentage of Subjects with Selected Treatment-emergent Adverse Events (All Causality) Greater than or Equal to 2% on SELZENTRY (and at a higher rate compared with placebo)
+
+Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
 
 |  | SELZENTRYTwice Dailya |  | Placebo |  |
 | --- | --- | --- | --- | --- |
-| Body System/Adverse Event | N = 426(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 309b | N = 209(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 111b |
+| Body System/Adverse Event | (n = 426)% | Exposure-adjusted Rate(per 100 pt-yrs)PYE = 309b | (n = 209)% | Exposure-adjusted Rate(per 100 pt-yrs)PYE = 111b |
 | Eye Disorders |  |  |  |  |
 | Conjunctivitis | 2 | 3 | 1 | 3 |
 | Ocular infections, inflammations, and associated manifestations | 2 | 3 | 1 | 2 |
@@ -95,14 +98,16 @@ a300-mg dose equivalent.
 
 bPYE = Patient-years of exposure.
 
-Laboratory Abnormalities: Table 4 shows the treatment-emergent Grade 3-4 laboratory abnormalities that occurred in >2% of subjects receiving SELZENTRY.
+Laboratory Abnormalities
+
+Table 4 shows the treatment-emergent Grade 3-4 laboratory abnormalities that occurred in greater than 2% of subjects receiving SELZENTRY.
 
 Table 4.
-Maximum Shift in Laboratory Test Values (Without Regard to Baseline)
+Maximum Shift in Laboratory Test Values (without Regard to Baseline)
 
-Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+Incidence Greater than or Equal to 2% of Grade 3-4 Abnormalities (ACTG Criteria) Trials A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
 
-| Laboratory Parameter Preferred Term | Limit | SELZENTRYTwice Daily + OBT(N = 421)a% | Placebo + OBT(N = 207)a% |
+| Laboratory Parameter Preferred Term | Limit | SELZENTRYTwice Daily + OBT(n = 421)a% | Placebo + OBT(n = 207)a% |
 | --- | --- | --- | --- |
 | Aspartate aminotransferase | >5.0 x ULN | 4.8 | 2.9 |
 | Alanine aminotransferase | >5.0 x ULN | 2.6 | 3.4 |
@@ -111,17 +116,19 @@ Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Trials A4001027 and A
 | Lipase | >2.0 x ULN | 4.9 | 6.3 |
 | Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |
 
-aPercentages based on total subjects evaluated for each laboratory parameter.
+a Percentages based on total subjects evaluated for each laboratory parameter.
 
 ULN=upper limit of normal.
 
-Trial in Treatment‑Naive Subjects: Treatment‑Emergent Adverse Events: Treatment‑emergent adverse events, regardless of causality, from Trial A4001026, a double‑blind, comparative, controlled trial in which 721 treatment‑naive subjects received SELZENTRY 300 mg twice daily (N = 360) or efavirenz (N = 361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 5.
-Selected events occurring in ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
+Treatment‑naive Subjects
+
+Treatment‑emergent Adverse Events: Treatment‑emergent adverse events, regardless of causality, from Trial A4001026, a double‑blind, comparative, controlled trial in which 721 treatment‑naive subjects received SELZENTRY 300 mg twice daily (n = 360) or efavirenz 600 mg once daily (n = 361) in combination with lamivudine/zidovudine (COMBIVIR®) for 96 weeks, are summarized in Table 5.
+Selected events occurring in greater than or equal to 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
 
 Table 5.
-Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared with efavirenz) Trial A4001026 (96 Weeks)
+Percentage of Subjects with Selected Treatment-emergent Adverse Events (All Causality) Greater than or Equal to 2% on SELZENTRY (and at a higher rate compared with efavirenz) Trial A4001026 (96 Weeks)
 
-| Body System/Adverse Event | SELZENTRY 300 mg Twice Daily +Zidovudine/Lamivudine(N = 360)% | Efavirenz 600 mg Once Daily +Zidovudine/Lamivudine(N = 361)% |
+| Body System/Adverse Event | SELZENTRY 300 mg Twice Daily +Lamivudine/Zidovudine(n = 360)% | Efavirenz 600 mg Once Daily +Lamivudine/Zidovudine(n = 361)% |
 | --- | --- | --- |
 | Blood and Lymphatic System Disorders |  |  |
 | Anemias NEC | 8 | 5 |
@@ -161,36 +168,38 @@ Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Caus
 | Lipodystrophies | 4 | 3 |
 | Nail and nail bed conditions (excluding infections and infestations) | 6 | 2 |
 
-Laboratory Abnormalities:
+Laboratory Abnormalities
 
 Table 6.
-Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Trial A4001026 (96 Weeks)
+Maximum Shift in Laboratory Test Values (without Regard to Baseline) Incidence Greater than or Equal to 2% of Grade 3-4 Abnormalities (ACTG Criteria) Trial A4001026 (96 Weeks)
 
-| Laboratory Parameter Preferred Term | Limit | SELZENTRY300 mg Twice Daily +Zidovudine/Lamivudine (N = 353)a% | Efavirenz600 mg Once Daily+Zidovudine/Lamivudine (N = 350)a% |
+| Laboratory Parameter Preferred Term | Limit | SELZENTRY300 mg Twice Daily +Lamivudine/Zidovudine (n = 353)a% | Efavirenz600 mg Once Daily+Lamivudine/Zidovudine (n = 350)a% |
 | --- | --- | --- | --- |
 | Aspartate aminotransferase | >5.0 x ULN | 4.0 | 4.0 |
 | Alanine aminotransferase | >5.0 x ULN | 3.9 | 4.0 |
-| Creatine kinase |  | 3.9 | 4.8 |
+| Creatine kinase | – | 3.9 | 4.8 |
 | Amylase | >2.0 x ULN | 4.3 | 6.0 |
 | Absolute neutrophil count | <750/mm3 | 5.7 | 4.9 |
 | Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |
 
-aN = Total number of subjects evaluable for laboratory abnormalities.
+a n = Total number of subjects evaluable for laboratory abnormalities.
 
 ULN=upper limit of normal.
 
 Percentages based on total subjects evaluated for each laboratory parameter.
-If the same subject in a given treatment group had >1 occurrence of the same abnormality, only the most severe is counted.
+If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted.
 
-Less Common Adverse Events in Clinical Trials: The following adverse events occurred in <2% of subjects treated with SELZENTRY.
+Less Common Adverse Events in Clinical Trials
+
+The following adverse events occurred in less than 2% of subjects treated with SELZENTRY or at a rate similar to the comparator.
 These events have been included because of their seriousness and either increased frequency on SELZENTRY or are potential risks due to the mechanism of action.
-Events attributed to the patient’s underlying HIV infection are not listed.
+Events attributed to the subjects’ underlying HIV-1 infection are not listed.
 
 Blood and Lymphatic System: Marrow depression and hypoplastic anemia.
 
 Cardiac Disorders: Unstable angina, acute cardiac failure, coronary artery disease, coronary artery occlusion, myocardial infarction, myocardial ischemia.
 
-Hepatobiliary Disorders: Hepatic cirrhosis, hepatic failure, cholestatic jaundice, portal vein thrombosis, hypertransaminasemia, jaundice.
+Hepatobiliary Disorders: Hepatic cirrhosis, hepatic failure, cholestatic jaundice, portal vein thrombosis, jaundice.
 
 Infections and Infestations: Endocarditis, infective myositis, viral meningitis, pneumonia, treponema infections, septic shock, Clostridium difficile colitis, meningitis.
 
@@ -205,4 +214,6 @@ Nervous System Disorders: Cerebrovascular accident, convulsions and epilepsy, tr
 The following events have been identified during post-approval use of SELZENTRY and are not listed above.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to estimate their frequency or establish a causal relationship to exposure to SELZENTRY.
 
-Skin and Subcutaneous Tissue Disorders: Stevens‑Johnson syndrome (SJS), drug rash with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN).
+Skin and Subcutaneous Tissue Disorders
+
+Stevens‑Johnson syndrome (SJS), drug rash with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN).

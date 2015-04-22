@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dose Recommendations for Patients With Normal Renal Function
+## 2.1 Dose Recommendations for Patients with Normal Renal Function
 
 The recommended dose of SELZENTRY differs based on concomitant medications due to drug interactions (see Table 1).
 SELZENTRY can be taken with or without food.
@@ -13,20 +13,20 @@ Recommended Dosing Regimen
 
 | Concomitant Medications | Dose of SELZENTRY |
 | --- | --- |
-| Potent CYP3A inhibitors (with or without a potent CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir, telaprevir | 150 mg twice daily |
+| Potent CYP3A inhibitors (with or without a potent CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•elvitegravir/ritonavir•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir | 150 mg twice daily |
 | Other concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtide | 300 mg twice daily |
 | Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | 600 mg twice daily |
 
-## 2.2 Dose Recommendations for Patients With Renal Impairment
+## 2.2 Dose Recommendations for Patients with Renal Impairment
 
 Table 2 provides dosing recommendations for patients based on renal function and concomitant medications.
 
 Table 2.
 Recommended Dosing Regimens Based on Renal Function
 
-| Concomitant Medicationsa | Dose of SELZENTRY Based on Renal Function |  |  |  |  |
+| Concomitant Medications | Dose of SELZENTRY Based on Renal Function |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Normal(CrCl >80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-Stage Renal DiseaseOn Regular Hemodialysis |  |
+| Normal(CrCl >80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-stage Renal Diseaseon Regular Hemodialysis |  |
 | Potent CYP3A inhibitors (with or without a CYP3A inducer)a | 150 mg twice daily | 150 mg twice daily | 150 mg twice daily | NR | NR |
 | Other concomitant medicationsa | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice dailyb | 300 mg twice dailyb |
 | Potent CYP3A Inducers (without a potent CYP3A inhibitor)a | 600 mg twice daily | 600 mg twice daily | 600 mg twice daily | NR | NR |
@@ -35,4 +35,4 @@ NR = Not recommended.
 
 aSee Table 1 for the list of concomitant medications.
 
-bThe dose of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Warnings and Precautions (5.3)].
+bThe dose of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Contraindications (4), Warnings and Precautions (5.3)].

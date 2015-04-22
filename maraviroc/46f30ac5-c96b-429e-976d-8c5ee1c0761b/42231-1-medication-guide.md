@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-SELZENTRY® (sell-ZEN-tree) Tablets
+SELZENTRY® (sell-ZEN-tree) tablets
 
 (maraviroc)
 
@@ -41,12 +41,14 @@ General information about SELZENTRY
 SELZENTRY does not cure HIV-1 infection and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 You should remain under the care of a doctor when using SELZENTRY.
 
-Avoid doing things that can spread HIV-1 infection.
+Avoid doing things that can spread HIV-1 infection to others.
 
-- •Do not share needles or other injection equipment.
+- •Do not share or re-use needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - •Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+
+Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 
 How does SELZENTRY work?
 
@@ -55,9 +57,9 @@ SELZENTRY blocks a specific receptor called CCR5 that CCR5-tropic HIV-1 uses to 
 Your healthcare provider will do a blood test to see if you have been infected with CCR5-tropic HIV-1 before prescribing SELZENTRY for you.
 
 - •When used with other anti-HIV medicines, SELZENTRY may:
-- •reduce the amount of HIV-1 in your blood.
-  This is called “viral load”.
-- •increase the number of white blood cells called T (CD4) cells.
+  - •reduce the amount of HIV-1 in your blood.
+    This is called “viral load”.
+  - •increase the number of white blood cells called T (CD4) cells.
 
 SELZENTRY does not work in all people with CCR5-tropic HIV-1 infection.
 
@@ -94,18 +96,18 @@ Your healthcare provider may need to change your dose of SELZENTRY when you take
 
 The levels of SELZENTRY in your blood may change and your healthcare provider may need to adjust your dose of SELZENTRY when taking any of the following medications together with SELZENTRY:
 
-| - darunavir (PREZISTA®) | - delavirdine (RESCRIPTOR®) |
+| - darunavir (PREZISTA®) | - elvitegravir (VITEKTA®) |
 | --- | --- |
-| - lopinavir/ritonavir (KALETRA®, NORVIR®) | - ketoconazole (NIZORAL®) |
-| - atazanavir (REYATAZ®) | - itraconazole (SPORANOX®) |
-| - saquinavir (INVIRASE®) | - clarithromycin (BIAXIN®) |
-| - nelfinavir (VIRACEPT®) | - nefazodone |
-| - indinavir (CRIXIVAN®) | - telithromycin (KETEK®) |
-| - fosamprenavir (LEXIVA®) | - efavirenz (SUSTIVA®, ATRIPLA®) |
-| - etravirine (INTELENCE®) | - rifampin (RIFADIN®, RIFATER®) |
-| - carbamazepine (TEGRETOL®) | - phenobarbital |
-| - phenytoin (DILANTIN®) | - boceprevir (VICTRELIS®) |
-| - ritonavir (NORVIR®) | - telaprevir (INCIVEK™) |
+| - lopinavir/ritonavir (KALETRA®, NORVIR®) | - delavirdine (RESCRIPTOR®) |
+| - atazanavir (REYATAZ®) | - ketoconazole (NIZORAL®) |
+| - saquinavir (INVIRASE®) | - itraconazole (SPORANOX®) |
+| - nelfinavir (VIRACEPT®) | - clarithromycin (BIAXIN®) |
+| - indinavir (CRIXIVAN®) | - nefazodone |
+| - fosamprenavir (LEXIVA®) | - telithromycin (KETEK®) |
+| - etravirine (INTELENCE®) | - efavirenz (SUSTIVA®, ATRIPLA®) |
+| - carbamazepine (TEGRETOL®) | - rifampin (RIFADIN®, RIFATER®) |
+| - phenytoin (DILANTIN®) | - phenobarbital |
+| - ritonavir (NORVIR®) | - boceprevir (VICTRELIS®) |
 
 Do not take products that contain St. John’s wort (Hypericum perforatum).
 St. John’s wort may lower the levels of SELZENTRY in your blood so that it will not work to treat your CCR5-tropic HIV-1 infection.
@@ -210,12 +212,12 @@ Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate (anh
 
 Film-coat: FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc, and titanium dioxide
 
-SELZENTRY is a registered trademark of the ViiV Healthcare group of companies.
+SELZENTRY, LEXIVA, and RESCRIPTOR are registered trademarks of the ViiV Healthcare group of companies.
 
-The brands listed are the trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
+The other brands listed are the trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
 The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
-This Medication Guide has been approved by the US Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for:
 
@@ -229,9 +231,9 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-©2014, the ViiV Healthcare group of companies.
+©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
-March 2014
+April 2015
 
-SEL:5MG
+SEL:6MG

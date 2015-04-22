@@ -10,5 +10,5 @@ Maraviroc is chemically described as 4,4-difluoro-N-{(1S)-3-[exo-3-(3-isopropyl-
 
 The molecular formula is C29H41F2N5O and the structural formula is:
 
-Maraviroc is a white- to pale-colored powder with a molecular weight of 513.67.
+Maraviroc is a white to pale-colored powder with a molecular weight of 513.67.
 It is highly soluble across the physiological pH range (pH 1.0 to 7.5).

@@ -2,7 +2,7 @@
 
 ## 7.1 Effect of Concomitant Drugs on the Pharmacokinetics of Maraviroc
 
-Maraviroc is a substrate of CYP3A and P-glycoprotein (P-gp) and hence its pharmacokinetics are likely to be modulated by inhibitors and inducers of these enzymes/transporters.
+Maraviroc is a substrate of CYP3A and P-glycoprotein (P-gp) and its pharmacokinetics are likely to be modulated by inhibitors and inducers of these enzymes/transporters.
 Therefore, a dose adjustment may be required when maraviroc is coadministered with those drugs [see Dosage and Administration (2)].
 
 Concomitant use of maraviroc and St. John's wort (Hypericum perforatum) or products containing St. John's wort is not recommended.

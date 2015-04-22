@@ -9,19 +9,22 @@ Because animal reproduction studies are not always predictive of human response,
 To monitor maternal-fetal outcomes of pregnant women exposed to SELZENTRY and other antiretroviral agents, an Antiretroviral Pregnancy Registry has been established.
 Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
 
-Animal Data: The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with maraviroc in rats at exposures (AUC) approximately 20-fold higher and in rabbits at approximately 5-fold higher than human exposures at the recommended daily dose (up to 1,000 mg/kg/day in rats and 75 mg/kg/day in rabbits).
+Animal Data
+
+The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with maraviroc in rats at exposures (AUC) approximately 20-fold higher and in rabbits at approximately 5-fold higher than human exposures at the recommended daily dose (up to 1,000 mg per kg per day in rats and 75 mg per kg per day in rabbits).
 During the pre- and postnatal development studies in the offspring, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of maraviroc.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV infection.
+The Centers for Disease Control and Prevention recommend that HIV–1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Studies in lactating rats indicate that maraviroc is extensively excreted in rat milk.
 It is not known whether maraviroc is excreted in human milk.
-Because of the potential for both HIV transmission and serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving SELZENTRY.
+
+Because of both the potential for HIV transmission and the potential for adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving SELZENTRY.
 
 ## 8.4 Pediatric Use
 
-The pharmacokinetics, safety and efficacy of maraviroc in patients younger than 18 years have not been established.
+The pharmacokinetics, safety, and efficacy of maraviroc in patients younger than 18 years have not been established.
 Therefore, maraviroc should not be used in this patient population.
 
 ## 8.5 Geriatric Use
@@ -31,7 +34,7 @@ In general, caution should be exercised when administering SELZENTRY in elderly 
 
 ## 8.6 Renal Impairment
 
-Recommended doses of SELZENTRY for patients with impaired renal function (CrCl ≤80 mL/min) are based on the results of a pharmacokinetic trial conducted in healthy subjects with various degrees of renal impairment.
+Recommended doses of SELZENTRY for patients with impaired renal function (CrCl less than or equal to 80 mL per min) are based on the results of a pharmacokinetic trial conducted in healthy subjects with various degrees of renal impairment.
 The pharmacokinetics of maraviroc in subjects with mild and moderate renal impairment was similar to that in subjects with normal renal function [see Clinical Pharmacology (12.3)].
 A limited number of subjects with mild and moderate renal impairment in the Phase 3 clinical trials (n = 131 and n = 12, respectively) received the same dose of SELZENTRY as that administered to subjects with normal renal function.
 In these subjects there was no apparent difference in the adverse event profile for maraviroc compared with subjects with normal renal function.
@@ -54,5 +57,5 @@ Dosage adjustment based on gender is not necessary.
 ## 8.9 Race
 
 Population pharmacokinetic analysis of pooled Phase 1/2a data indicated exposure was 26.5% higher in Asians (n = 95) as compared with non-Asians (n = 318).
-However, a trial designed to evaluate pharmacokinetic differences between Caucasians (n = 12) and Singaporeans (n = 12) showed no difference between these 2 populations.
+However, a trial designed to evaluate pharmacokinetic differences between whites (n = 12) and Singaporeans (n = 12) showed no difference between these 2 populations.
 No dose adjustment based on race is needed.

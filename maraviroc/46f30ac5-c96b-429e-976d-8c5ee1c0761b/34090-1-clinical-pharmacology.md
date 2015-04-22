@@ -6,31 +6,35 @@ Maraviroc is an antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Exposure-Response Relationship in Treatment-Experienced Subjects: The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 9 samples per subject taken on up to 7 visits), and virologic response was evaluated in 973 treatment-experienced HIV-1-infected subjects with varied optimized background antiretroviral regimens in Trials A4001027 and A4001028.
-The Cmin, baseline viral load, baseline CD4+ cell count, and overall sensitivity score (OSS) were found to be important predictors of virologic success (defined as viral load <400 copies/mL at 24 weeks).
+Exposure-response Relationship in Treatment-experienced Subjects
+
+The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 9 samples per subject taken on up to 7 visits), and virologic response was evaluated in 973 treatment-experienced HIV-1-infected subjects with varied optimized background antiretroviral regimens in Trials A4001027 and A4001028.
+The Cmin, baseline viral load, baseline CD4+ cell count, and overall sensitivity score (OSS) were found to be important predictors of virologic success (defined as viral load less than 400 copies per mL at 24 weeks).
 Table 7 illustrates the proportions of subjects with virologic success (%) within each Cmin quartile for 150-mg twice-daily and 300-mg twice-daily groups.
 
 Table 7.
-Treatment-Experienced Subjects With Virologic Success by Cmin Quartile (Q1-Q4)
+Treatment-experienced Subjects with Virologic Success by Cmin Quartile (Q1-Q4)
 
-|  | 150 mg Twice Daily (With CYP3A Inhibitors) |  |  | 300 mg Twice Daily (Without CYP3A Inhibitors) |  |  |
+|  | 150 mg Twice Daily (with CYP3A Inhibitors) |  |  | 300 mg Twice Daily (without CYP3A Inhibitors) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | N | Median Cmin | % Subjects With Virologic Success | N | Median Cmin | % Subjects With Virologic Success |
-| Placebo | 160 | - | 30.6 | 35 | - | 28.6 |
+|  | n | Median Cmin | % Subjects with Virologic Success | n | Median Cmin | % Subjects with Virologic Success |
+| Placebo | 160 |  | 30.6 | 35 |  | 28.6 |
 | Q1 | 78 | 33 | 52.6 | 22 | 13 | 50.0 |
 | Q2 | 77 | 87 | 63.6 | 22 | 29 | 68.2 |
 | Q3 | 78 | 166 | 78.2 | 22 | 46 | 63.6 |
 | Q4 | 78 | 279 | 74.4 | 22 | 97 | 68.2 |
 
-Exposure-Response Relationship in Treatment-Naive Subjects: The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 12 samples per subject taken on up to 8 visits), and virologic response was evaluated in 294 treatment-naive HIV-1-infected subjects receiving maraviroc 300 mg twice daily in combination with zidovudine/lamivudine in Trial A4001026.
-Table 8 illustrates the proportion (%) of subjects with virologic success <50 copies/mL at 48 weeks within each Cmin quartile for the 300-mg twice-daily dose.
+Exposure-response Relationship in Treatment-naive Subjects
+
+The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1 to 12 samples per subject taken on up to 8 visits), and virologic response was evaluated in 294 treatment-naive HIV–1-infected subjects receiving maraviroc 300 mg twice daily in combination with lamivudine /zidovudine in Trial A4001026.
+Table 8 illustrates the proportion (%) of subjects with virologic success less than 50 copies per mL at 48 weeks within each Cmin quartile for the 300-mg twice-daily dose.
 
 Table 8.
-Treatment-Naive Subjects With Virologic Success by Cmin Quartile (Q1-Q4)
+Treatment-naive Subjects with Virologic Success by Cmin Quartile (Q1-Q4)
 
 |  | 300 mg Twice Daily |  |  |
 | --- | --- | --- | --- |
-|  | N | Median Cmin | % Subjects With Virologic Success |
+|  | n | Median Cmin | % Subjects with Virologic Success |
 | Q1 | 75 | 23 | 57.3 |
 | Q2 | 72 | 39 | 72.2 |
 | Q3 | 73 | 56 | 74.0 |
@@ -38,9 +42,11 @@ Treatment-Naive Subjects With Virologic Success by Cmin Quartile (Q1-Q4)
 
 Eighteen of 75 (24%) subjects in Q1 had no measurable maraviroc concentration on at least one occasion versus 1 of 73 and 1 of 74 in Q3 and Q4, respectively.
 
-Effects on Electrocardiogram: A placebo-controlled, randomized, crossover trial to evaluate the effect on the QT interval of healthy male and female volunteers was conducted with 3 single oral doses of maraviroc and moxifloxacin.
+Effects on Electrocardiogram
+
+A placebo-controlled, randomized, crossover trial to evaluate the effect on the QT interval of healthy male and female volunteers was conducted with 3 single oral doses of maraviroc and moxifloxacin.
 The placebo-adjusted mean maximum (upper 1-sided 95% CI) increases in QTc from baseline after 100, 300, and 900 mg of maraviroc were –2 (0), -1 (1), and 1 (3) msec, respectively, and 13 (15) msec for moxifloxacin 400 mg.
-No subject in any group had an increase in QTc of ≥60 msec from baseline.
+No subject in any group had an increase in QTc of greater than or equal to 60 msec from baseline.
 No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.
 
 ## 12.3 Pharmacokinetics
@@ -48,7 +54,7 @@ No subject experienced an interval exceeding the potentially clinically relevant
 Table 9.
 Mean Maraviroc Pharmacokinetic Parameters
 
-| Patient Population | Maraviroc Dose | N | AUC12 (ng.h/mL) | Cmax (ng/mL) | Cmin (ng/mL) |
+| Patient Population | Maraviroc Dose | n | AUC12 (ng.h/mL) | Cmax (ng/mL) | Cmin (ng/mL) |
 | --- | --- | --- | --- | --- | --- |
 | Healthy volunteers (Phase 1) | 300 mg twice daily | 64 | 2,908 | 888 | 43.1 |
 | Asymptomatic HIV subjects (Phase 2a) | 300 mg twice daily | 8 | 2,550 | 618 | 33.6 |
@@ -58,20 +64,28 @@ Mean Maraviroc Pharmacokinetic Parameters
 
 aThe estimated exposure is lower compared with other trials possibly due to sparse sampling, food effect, compliance, and concomitant medications.
 
-Absorption: Peak maraviroc plasma concentrations are attained 0.5 to 4 hours following single oral doses of 1 to 1,200 mg administered to uninfected volunteers.
+Absorption
+
+Peak maraviroc plasma concentrations are attained 0.5 to 4 hours following single oral doses of 1 to 1,200 mg administered to uninfected volunteers.
 The pharmacokinetics of oral maraviroc are not dose proportional over the dose range.
 
 The absolute bioavailability of a 100‑mg dose is 23% and is predicted to be 33% at 300 mg.
 Maraviroc is a substrate for the efflux transporter P-gp.
 
-Effect of Food on Oral Absorption: Coadministration of a 300‑mg tablet with a high‑fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.
+Effect of Food on Oral Absorption
+
+Coadministration of a 300‑mg tablet with a high‑fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.
 There were no food restrictions in the trials that demonstrated the efficacy and safety of maraviroc [see Clinical Studies (14)].
 Therefore, maraviroc can be taken with or without food at the recommended dose [see Dosage and Administration (2)].
 
-Distribution: Maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha‑1 acid glycoprotein.
+Distribution
+
+Maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha‑1 acid glycoprotein.
 The volume of distribution of maraviroc is approximately 194 L.
 
-Metabolism: Trials in humans and in vitro studies using human liver microsomes and expressed enzymes have demonstrated that maraviroc is principally metabolized by the cytochrome P450 system to metabolites that are essentially inactive against HIV‑1.
+Metabolism
+
+Trials in humans and in vitro studies using human liver microsomes and expressed enzymes have demonstrated that maraviroc is principally metabolized by the cytochrome P450 system to metabolites that are essentially inactive against HIV‑1.
 In vitro studies indicate that CYP3A is the major enzyme responsible for maraviroc metabolism.
 In vitro studies also indicate that polymorphic enzymes CYP2C9, CYP2D6, and CYP2C19 do not contribute significantly to the metabolism of maraviroc.
 
@@ -80,20 +94,26 @@ The most significant circulating metabolite in humans is a secondary amine (~22%
 This polar metabolite has no significant pharmacological activity.
 Other metabolites are products of mono‑oxidation and are only minor components of plasma drug‑related radioactivity.
 
-Excretion: The terminal half‑life of maraviroc following oral dosing to steady state in healthy subjects was 14 to 18 hours.
+Excretion
+
+The terminal half‑life of maraviroc following oral dosing to steady state in healthy subjects was 14 to 18 hours.
 A mass balance/excretion trial was conducted using a single 300‑mg dose of 14C-labeled maraviroc.
 Approximately 20% of the radiolabel was recovered in the urine and 76% was recovered in the feces over 168 hours.
 Maraviroc was the major component present in urine (mean of 8% dose) and feces (mean of 25% dose).
 The remainder was excreted as metabolites.
 
-Hepatic Impairment: Maraviroc is primarily metabolized and eliminated by the liver.
+Hepatic Impairment
+
+Maraviroc is primarily metabolized and eliminated by the liver.
 A trial compared the pharmacokinetics of a single 300‑mg dose of SELZENTRY in subjects with mild (Child‑Pugh Class A, n = 8), and moderate (Child‑Pugh Class B, n = 8) hepatic impairment with pharmacokinetics in healthy subjects (n = 8).
 The mean Cmax and AUC were 11% and 25% higher, respectively, for subjects with mild hepatic impairment, and 32% and 46% higher, respectively, for subjects with moderate hepatic impairment compared with subjects with normal hepatic function.
 These changes do not warrant a dose adjustment.
 Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a potent CYP3A inhibitor compared with following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc‑associated adverse events.
 The pharmacokinetics of maraviroc have not been studied in subjects with severe hepatic impairment [see Warnings and Precautions (5.1)].
 
-Renal Impairment: A trial compared the pharmacokinetics of a single 300‑mg dose of SELZENTRY in subjects with severe renal impairment (CLcr <30 mL/min, n = 6) and ESRD (n = 6) to healthy volunteers (n = 6).
+Renal Impairment
+
+A trial compared the pharmacokinetics of a single 300‑mg dose of SELZENTRY in subjects with severe renal impairment (CLcr less than 30 mL per min, n = 6) and ESRD (n = 6) with healthy volunteers (n = 6).
 Geometric mean ratios for maraviroc Cmax and AUCinf were 2.4‑fold and 3.2‑fold higher, respectively, for subjects with severe renal impairment, and 1.7‑fold and 2.0‑fold higher, respectively, for subjects with ESRD as compared with subjects with normal renal function in this trial.
 Hemodialysis had a minimal effect on maraviroc clearance and exposure in subjects with ESRD.
 Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in previous 300‑mg single‑dose trials of SELZENTRY in healthy volunteers with normal renal function.
@@ -101,14 +121,16 @@ However, maraviroc exposures in the subjects with normal renal function in this 
 Based on the results of this trial, no dose adjustment is recommended for patients with renal impairment receiving SELZENTRY without a potent CYP3A inhibitor or inducer.
 However, if patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, their dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 
-In addition, the trial compared the pharmacokinetics of multiple‑dose SELZENTRY in combination with saquinavir/ritonavir 1,000/100 mg twice daily (a potent CYP3A inhibitor combination) for 7 days in subjects with mild renal impairment (CLcr >50 and ≤80 mL/min, n = 6) and moderate renal impairment (CLcr ≥30 and ≤50 mL/min, n = 6) with healthy volunteers with normal renal function (n = 6).
+In addition, the trial compared the pharmacokinetics of multiple‑dose SELZENTRY in combination with saquinavir/ritonavir 1,000/100 mg twice daily (a potent CYP3A inhibitor combination) for 7 days in subjects with mild renal impairment (CLcr greater than 50 and less than or equal to 80 mL per min, n = 6) and moderate renal impairment (CLcr greater than or equal to 30 and less than or equal to 50 mL per min, n = 6) with healthy volunteers with normal renal function (n = 6).
 Subjects received 150 mg of SELZENTRY at different dose frequencies (healthy volunteers – every 12 hours; mild renal impairment – every 24 hours; moderate renal impairment – every 48 hours).
 Compared with healthy volunteers (dosed every 12 hours), geometric mean ratios for maraviroc AUCtau, Cmax, and Cmin were 50% higher, 20% higher, and 43% lower, respectively, for subjects with mild renal impairment (dosed every 24 hours).
 Geometric mean ratios for maraviroc AUCtau, Cmax, and Cmin were 16% higher, 29% lower, and 85% lower, respectively, for subjects with moderate renal impairment (dosed every 48 hours) compared with healthy volunteers (dosed every 12 hours).
 Based on the data from this trial, no adjustment in dose is recommended for patients with mild or moderate renal impairment [see Dosage and Administration (2.2)].
 
-Effect of Concomitant Drugs on the Pharmacokinetics of Maraviroc: Maraviroc is a substrate of CYP3A and P-gp and hence its pharmacokinetics are likely to be modulated by inhibitors and inducers of these enzymes/transporters.
-The CYP3A/P-gp inhibitors ketoconazole, telaprevir, boceprevir, lopinavir/ritonavir, ritonavir, darunavir/ritonavir, saquinavir/ritonavir, and atazanavir ± ritonavir all increased the Cmax and AUC of maraviroc (see Table 10).
+Effect of Concomitant Drugs on the Pharmacokinetics of Maraviroc
+
+Maraviroc is a substrate of CYP3A and P-gp and hence its pharmacokinetics are likely to be modulated by inhibitors and inducers of these enzymes/transporters.
+The CYP3A/P-gp inhibitors ketoconazole, boceprevir, lopinavir/ritonavir, ritonavir, darunavir/ritonavir, saquinavir/ritonavir, and atazanavir ± ritonavir all increased the Cmax and AUC of maraviroc (see Table 10).
 The CYP3A inducers rifampin, etravirine, and efavirenz decreased the Cmax and AUC of maraviroc (see Table 10).
 
 Tipranavir/ritonavir (net CYP3A inhibitor/P-gp inducer) did not affect the steady‑state pharmacokinetics of maraviroc (see Table 10).
@@ -117,7 +139,7 @@ Cotrimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.
 Table 10.
 Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 
-| Coadministered Drugand Dose | N | Dose of SELZENTRY | Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters With/Without Coadministered Drug(No Effect = 1.00) |  |  |
+| Coadministered Drugand Dose | n | Dose of SELZENTRY | Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters with/without Coadministered Drug(No Effect = 1.00) |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Cmin | AUCtau | Cmax |  |  |  |
 | CYP3A and/or P-gp Inhibitors |  |  |  |  |  |
@@ -129,14 +151,14 @@ Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 | Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) | 2.67(2.32, 3.08) |
 | Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00(6.35, 10.1) | 4.052.94, 5.59 | 2.29(1.46, 3.59) |
 | Boceprevir800 mg t.i.d. | 14 | 150 mg b.i.d. | 2.78(2.40, 3.23) | 3.02(2.53, 3.59) | 3.33(2.54, 4.36) |
-| Telaprevir750 mg t.i.d.b | 13 | 150 mg b.i.d. | 10.17(8.73, 11.85) | 9.49(7.94, 11.34) | 7.81(5.92, 10.32) |
+| Elvitegravir/ritonavir 150 mg/100 mg q.d. | 11 | 150 mg b.i.d. | 4.23(3.47, 5.16) | 2.86(2.33, 3.51) | 2.15(1.71, 2.69) |
 | CYP3A and/or P-gp Inducers |  |  |  |  |  |
 | Efavirenz 600 mg q.d. | 12 | 100 mg b.i.d. | 0.55(0.43, 0.72) | 0.55(0.49, 0.62) | 0.49(0.38, 0.63) |
 | Efavirenz600 mg q.d. | 12 | 200 mg b.i.d.(+ efavirenz):100 mg b.i.d. (alone) | 1.09(0.89, 1.35) | 1.15(0.98, 1.35) | 1.16(0.87, 1.55) |
 | Rifampicin600 mg q.d. | 12 | 100 mg b.i.d. | 0.22(0.17, 0.28) | 0.37(0.33, 0.41) | 0.34(0.26, 0.43) |
 | Rifampicin600 mg q.d. | 12 | 200 mg b.i.d.(+ rifampicin):100 mg b.i.d. (alone) | 0.66(0.54, 0.82) | 1.04(0.89, 1.22) | 0.97(0.72, 1.29) |
 | Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d. | 0.61(0.53, 0.71) | 0.47(0.38, 0.58) | 0.40(0.28, 0.57) |
-| Nevirapinea200 mg b.i.d. (+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.) | 8 | 300 mgsingle dose | - | 1.01(0.65, 1.55) | 1.54(0.94, 2.51) |
+| Nevirapinea200 mg b.i.d. (+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.) | 8 | 300 mgsingle dose | – | 1.01(0.65, 1.55) | 1.54(0.94, 2.51) |
 | CYP3A and/or P-gp Inhibitors and Inducers |  |  |  |  |  |
 | Lopinavir/ritonavir + efavirenz 400 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 300 mg b.i.d. | 6.29(4.72, 8.39) | 2.53(2.24, 2.87) | 1.25(1.01, 1.55) |
 | Saquinavir(soft gel capsules) /ritonavir + efavirenz 1,000 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 100 mg b.i.d. | 8.42(6.46, 10.97) | 5.00(4.26, 5.87) | 2.26(1.64, 3.11) |
@@ -149,10 +171,9 @@ Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 
 aCompared with historical data.
 
-bConducted under fed conditions.
-The geometric mean Cmax of maraviroc is 858 ng/mL when maraviroc is coadministered with telaprevir.
+Effect of Maraviroc on the Pharmacokinetics of Concomitant Drugs
 
-Effect of Maraviroc on the Pharmacokinetics of Concomitant Drugs: Maraviroc is unlikely to inhibit the metabolism of coadministered drugs metabolized by the following cytochrome P enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A) because maraviroc did not inhibit activity of those enzymes at clinically relevant concentrations in vitro.
+Maraviroc is unlikely to inhibit the metabolism of coadministered drugs metabolized by the following cytochrome P enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A) because maraviroc did not inhibit activity of those enzymes at clinically relevant concentrations in vitro.
 Maraviroc does not induce CYP1A2 in vitro.
 
 In vitro results suggest that maraviroc could inhibit P-gp in the gut.
@@ -165,24 +186,28 @@ Coadministration of fosamprenavir 1,400 mg/ritonavir 100 mg once daily and marav
 No dosage adjustment is necessary when SELZENTRY is dosed 150 mg twice daily in combination with fosamprenavir/ritonavir dosed once or twice daily.
 Fosamprenavir should be given with ritonavir when coadministered with SELZENTRY.
 
-Maraviroc had no significant effect on the pharmacokinetics of boceprevir, telaprevir, zidovudine, or lamivudine.
+Maraviroc had no significant effect on the pharmacokinetics of elvitegravir, boceprevir, zidovudine, or lamivudine.
 Maraviroc decreased the Cmin and AUC of raltegravir by 27% and 37%, respectively, which is not clinically significant.
 Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, no effect on the urinary 6β-hydroxycortisol/cortisol ratio, suggesting no induction of CYP3A in vivo.
-Maraviroc had no effect on the debrisoquine metabolic ratio (MR) at 300 mg twice daily or less in vivo and did not cause inhibition of CYP2D6 in vitro until concentrations >100 µM.
-However, there was 234% increase in debrisoquine MR on treatment compared with baseline at 600 mg once daily, suggesting potential inhibition of CYP2D6 at higher dose.
+Maraviroc had no effect on the debrisoquine metabolic ratio (MR) at 300 mg twice daily or less in vivo and did not cause inhibition of CYP2D6 in vitro until concentrations greater than 100 µM.
+However, there was 234% increase in debrisoquine MR on treatment compared with baseline at 600 mg once daily, suggesting potential inhibition of CYP2D6 at higher doses.
 
 ## 12.4 Microbiology
 
-Mechanism of Action: Maraviroc is a member of a therapeutic class called CCR5 co-receptor antagonists.
+Mechanism of Action
+
+Maraviroc is a member of a therapeutic class called CCR5 co-receptor antagonists.
 Maraviroc selectively binds to the human chemokine receptor CCR5 present on the cell membrane, preventing the interaction of HIV-1 gp120 and CCR5 necessary for CCR5-tropic HIV-1 to enter cells.
 CXCR4-tropic and dual-tropic HIV-1 entry is not inhibited by maraviroc.
 
-Antiviral Activity in Cell Culture: Maraviroc inhibits the replication of CCR5-tropic laboratory strains and primary isolates of HIV-1 in models of acute peripheral blood leukocyte infection.
-The mean EC50 value (50% effective concentration) for maraviroc against HIV-1 group M isolates (subtypes A to J and circulating recombinant form AE) and group O isolates ranged from 0.1 to 4.5 nM (0.05 to 2.3 ng/mL) in cell culture.
+Antiviral Activity in Cell Culture
+
+Maraviroc inhibits the replication of CCR5-tropic laboratory strains and primary isolates of HIV-1 in models of acute peripheral blood leukocyte infection.
+The mean EC50 value (50% effective concentration) for maraviroc against HIV-1 group M isolates (subtypes A to J and circulating recombinant form AE) and group O isolates ranged from 0.1 to 4.5 nM (0.05 to 2.3 ng per mL) in cell culture.
 
 When used with other antiretroviral agents in cell culture, the combination of maraviroc was not antagonistic with NNRTIs (delavirdine, efavirenz, and nevirapine), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, and zidovudine), or protease inhibitors (amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and tipranavir).
 Maraviroc was not antagonistic with the HIV fusion inhibitor enfuvirtide.
-Maraviroc was not active against CXCR4-tropic and dual-tropic viruses (EC50 value >10 µM).
+Maraviroc was not active against CXCR4-tropic and dual-tropic viruses (EC50 value greater than 10 µM).
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
 
 Resistance in Cell Culture: HIV-1 variants with reduced susceptibility to maraviroc have been selected in cell culture, following serial passage of 2 CCR5-tropic viruses (CC1/85 and RU570).
@@ -192,59 +217,59 @@ In the RU570 isolate a 3-amino acid residue deletion in the V3 loop, ΔQAI (HXB2
 The relevance of the specific gp120 mutations observed in maraviroc-resistant isolates selected in cell culture to clinical maraviroc resistance is not known.
 Maraviroc-resistant viruses were characterized phenotypically by concentration-response curves that did not reach 100% inhibition in phenotypic drug assays, rather than increases in EC50 values.
 
-Cross-Resistance in Cell Culture: Maraviroc had antiviral activity against HIV-1 clinical isolates resistant to NNRTIs, NRTIs, PIs, and the fusion inhibitor enfuvirtide in cell culture (EC50 values ranged from 0.7 to 8.9 nM (0.36 to 4.57 ng/mL).
+Cross-resistance in Cell Culture: Maraviroc had antiviral activity against HIV-1 clinical isolates resistant to NNRTIs, NRTIs, PIs, and the fusion inhibitor enfuvirtide in cell culture (EC50 values ranged from 0.7 to 8.9 nM [0.36 to 4.57 ng per mL]).
 Maraviroc-resistant viruses that emerged in cell culture remained susceptible to the enfuvirtide and the protease inhibitor saquinavir.
 
 Clinical Resistance: Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc, through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism below), through resistance to background therapy drugs (Table 11), or due to low exposure to maraviroc [see Clinical Pharmacology (12.2)].
 
-Antiretroviral Treatment-Experienced Subjects (Trials A4001027 and A4001028): Week 48 data from treatment-experienced subjects failing maraviroc-containing regimens with CCR5-tropic virus (n = 58) have identified 22 viruses that had decreased susceptibility to maraviroc characterized in phenotypic drug assays by concentration-response curves that did not reach 100% inhibition.
-Additionally, CCR5-tropic virus from 2 of these treatment-failure subjects had ≥3-fold shifts in EC50 values for maraviroc at the time of failure.
+Antiretroviral Treatment-experienced Subjects (Trials A4001027 and A4001028): Week 48 data from treatment-experienced subjects failing maraviroc-containing regimens with CCR5-tropic virus (n = 58) have identified 22 viruses that had decreased susceptibility to maraviroc characterized in phenotypic drug assays by concentration-response curves that did not reach 100% inhibition.
+Additionally, CCR5-tropic virus from 2 of these treatment-failure subjects had greater than or equal to 3-fold shifts in EC50 values for maraviroc at the time of failure.
 
 Fifteen of these viruses were sequenced in the gp120 encoding region and multiple amino acid substitutions with unique patterns in the heterogeneous V3 loop region were detected.
 Changes at either amino acid position 308 or 323 (HXB2 numbering) were seen in the V3 loop in 7 of the subjects with decreased maraviroc susceptibility.
 Substitutions outside the V3 loop of gp120 may also contribute to reduced susceptibility to maraviroc.
 
-Antiretroviral Treatment-Naive Subjects (Trial A4001026): Treatment-naive subjects receiving SELZENTRY had more virologic failures and more treatment-emergent resistance to the background regimen drugs compared with those receiving efavirenz (Table 11).
+Antiretroviral Treatment-naive Subjects (Trial A4001026): Treatment-naive subjects receiving SELZENTRY had more virologic failures and more treatment-emergent resistance to the background regimen drugs compared with those receiving efavirenz (Table 11).
 
 Table 11.
-Development of Resistance to Maraviroc or Efavirenz and Background Drugs in Antiretroviral Treatment-Naive Trial A4001026 for Patients with CCR5-Tropic Virus at Screening Using Enhanced Sensitivity TROFILE® Assay
+Development of Resistance to Maraviroc or Efavirenz and Background Drugs in Antiretroviral Treatment-naive Trial A4001026 for Patients with CCR5-Tropic Virus at Screening Using Enhanced Sensitivity TROFILE® Assay
 
 |  | Maraviroc | Efavirenz |
 | --- | --- | --- |
 | Total N in dataset (as-treated) | 273 | 241 |
 | Total virologic failures (as-treated) | 85 (31%) | 56 (23%) |
 | Evaluable virologic failures with post baseline genotypic and phenotypic data | 73 | 43 |
-| •Lamivudine resistance | 39 (53%) | 13 (30%) |
-| •Zidovudine resistance | 2 (3%) | 0 |
-| •Efavirenz resistance | -- | 23 (53%) |
-| •Phenotypic resistance to maraviroca | 19 (26 %) |  |
+| Lamivudine resistance | 39 (53%) | 13 (30%) |
+| Zidovudine resistance | 2 (3%) | 0 |
+| Efavirenz resistance | – | 23 (53%) |
+| Phenotypic resistance to maraviroca | 19 (26%) | – |
 
 aIncludes subjects failing with CXCR4- or dual/mixed-tropism because these viruses are not intrinsically susceptible to maraviroc.
 
 In an as-treated analysis of treatment-naive subjects at 96 weeks, 32 subjects failed a maraviroc-containing regimen with CCR5-tropic virus and had a tropism result at failure; 7 of these subjects had evidence of maraviroc phenotypic resistance defined as concentration-response curves that did not reach 95% inhibition.
-One additional subject had a ≥3-fold shift in the EC50 value for maraviroc at the time of failure.
+One additional subject had a greater than or equal to 3-fold shift in the EC50 value for maraviroc at the time of failure.
 A clonal analysis of the V3 loop amino acid envelope sequences was performed from 6 of the 7 subjects.
-Changes in V3 loop amino acid sequence differed between each of these different subjects, even for those infected with the same virus clade suggesting that that there are multiple diverse pathways to maraviroc resistance.
+Changes in V3 loop amino acid sequence differed between each of these different subjects, even for those infected with the same virus clade, suggesting that that there are multiple diverse pathways to maraviroc resistance.
 The subjects who failed with CCR5-tropic virus and without a detectable maraviroc shift in susceptibility were not evaluated for genotypic resistance.
 
 Of the 32 maraviroc virologic failures failing with CCR5-tropic virus, 20 (63%) also had genotypic and/or phenotypic resistance to background drugs in the regimen (lamivudine, zidovudine).
 
 Tropism: In both treatment-experienced and treatment-naive subjects, detection of CXCR4-using virus prior to initiation of therapy has been associated with a reduced virologic response to maraviroc.
 
-Antiretroviral Treatment-Experienced Subjects: In the majority of cases, treatment failure on maraviroc was associated with detection of CXCR4-using virus (i.e., CXCR4- or dual/mixed-tropic) which was not detected by the tropism assay prior to treatment.
+Antiretroviral Treatment-experienced Subjects: In the majority of cases, treatment failure on maraviroc was associated with detection of CXCR4-using virus (i.e., CXCR4- or dual/mixed-tropic) which was not detected by the tropism assay prior to treatment.
 CXCR4-using virus was detected at failure in approximately 55% of subjects who failed treatment on maraviroc by Week 48, as compared with 9% of subjects who experienced treatment failure in the placebo arm.
 To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the maraviroc arms and 4 subjects from the placebo arm) in whom CXCR4-using virus was detected at treatment failure.
 From analysis of amino acid sequence differences and phylogenetic data, it was determined that CXCR4-using virus in these subjects emerged from a low level of pre-existing CXCR4-using virus not detected by the tropism assay (which is population-based) prior to treatment rather than from a coreceptor switch from CCR5-tropic virus to CXCR4-using virus resulting from mutation in the virus.
 
 Detection of CXCR4-using virus prior to initiation of therapy has been associated with a reduced virological response to maraviroc.
-Furthermore, subjects failing maraviroc twice daily at Week 48 with CXCR4-using virus had a lower median increase in CD4+ cell counts from baseline (+41 cells/mm3) than those subjects failing with CCR5-tropic virus (+162 cells/mm3).
-The median increase in CD4+ cell count in subjects failing in the placebo arm was +7 cells/mm3.
+Furthermore, subjects failing twice-daily maraviroc at Week 48 with CXCR4-using virus had a lower median increase in CD4+ cell counts from baseline (+41 cells per mm3) than those subjects failing with CCR5-tropic virus (+162 cells per mm3).
+The median increase in CD4+ cell count in subjects failing in the placebo arm was +7 cells per mm3.
 
-Antiretroviral Treatment-Naive Subjects: In a 96-week trial of antiretroviral treatment-naive subjects, 14% (12/85) who had CCR5-tropic virus at screening with an enhanced sensitivity tropism assay (TROFILE) and failed therapy on maraviroc had CXCR4-using virus at the time of treatment failure.
-A detailed clonal analysis was conducted in 2 previously antiretroviral treatment-naive subjects enrolled in a Phase 2a monotherapy trial who had CXCR4-using virus detected after 10 days treatment with maraviroc.
+Antiretroviral Treatment-naive Subjects: In a 96-week trial of antiretroviral treatment-naive subjects, 14% (12 of 85) who had CCR5-tropic virus at screening with an enhanced sensitivity tropism assay (TROFILE) and failed therapy on maraviroc had CXCR4-using virus at the time of treatment failure.
+A detailed clonal analysis was conducted in 2 previously antiretroviral treatment-naive subjects enrolled in a Phase 2a monotherapy trial who had CXCR4-using virus detected after 10 days’ treatment with maraviroc.
 Consistent with the detailed clonal analysis conducted in treatment-experienced subjects, the CXCR4-using variants appear to emerge from outgrowth of a pre-existing undetected CXCR4-using virus.
 Screening with an enhanced sensitivity tropism assay reduced the number of maraviroc virologic failures with CXCR4- or dual/mixed-tropic virus at failure to 12 compared with 24 when screening with the original tropism assay.
-All but one (11/12; 92%) of the maraviroc failures failing with CXCR4 or dual/mixed-tropic virus also had genotypic and phenotypic resistance to the background drug lamivudine at failure and 33% (4 /12) developed zidovudine-associated resistance substitutions.
+All but one (11 of 12; 92%) of the maraviroc failures failing with CXCR4 or dual/mixed-tropic virus also had genotypic and phenotypic resistance to the background drug lamivudine at failure and 33% (4 of 12) developed zidovudine-associated resistance substitutions.
 
-Subjects who had CCR5-tropic virus at baseline and failed maraviroc therapy with CXCR4-using virus had a median increase in CD4+ cell counts from baseline of +113 cells/mm3 while those subjects failing with CCR5-tropic virus had an increase of +135 cells/mm3.
-The median increase in CD4+ cell count in subjects failing in the efavirenz arm was + 95 cells/mm3.
+Subjects who had CCR5-tropic virus at baseline and failed maraviroc therapy with CXCR4-using virus had a median increase in CD4+ cell counts from baseline of +113 cells per mm3 while those subjects failing with CCR5-tropic virus had an increase of +135 cells per mm3.
+The median increase in CD4+ cell count in subjects failing in the efavirenz arm was + 95 cells per mm3.
