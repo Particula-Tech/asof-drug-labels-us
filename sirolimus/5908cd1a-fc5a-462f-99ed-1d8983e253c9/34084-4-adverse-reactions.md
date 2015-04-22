@@ -17,7 +17,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
-The following adverse reactions resulted in a rate of discontinuation of > 5% in clinical trials: creatinine increased, hypertriglyceridemia, and thrombotic thrombocytopenic purpura (TTP).
+The following adverse reactions resulted in a rate of discontinuation of >5% in clinical trials: creatinine increased, hypertriglyceridemia, and thrombotic thrombocytopenic purpura (TTP).
 
 ## 6.1 Clinical Studies Experience in Prophylaxis of Organ Rejection Following Renal Transplantation
 
@@ -37,7 +37,7 @@ Patients receiving 2 mg of sirolimus oral solution per day demonstrated an overa
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE SIROLIMUS TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
+TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE SIROLIMUS TREATMENT GROUPS IN A STUDY OF PROPHYLAXIS OF ORGAN REJECTION FOLLOWING RENAL TRANSPLANTATION (%) AT ≥ 12 MONTHS POST-TRANSPLANTATION (STUDY 2)Patients received cyclosporine and corticosteroids.
 
 | Adverse Reaction | (n = 218) | (n = 208) | (n = 124) |
 | --- | --- | --- | --- |
@@ -63,25 +63,25 @@ ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥ 20% IN AT LEAST ONE OF THE SIR
 | Rash | 10 | 20 | 6 |
 | Edema | 20 | 18 | 15 |
 
-The following adverse reactions were reported less frequently (≥ 3%, but < 20%)
+The following adverse reactions were reported less frequently (≥ 3%, but <20%)
 
 - Body as a Whole – Sepsis, lymphocele, herpes zoster, herpes simplex.
 - Cardiovascular – Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardia.
 - Digestive System – Stomatitis.
 - Hematologic and Lymphatic System – Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia.
-- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia.
+- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus.
 - Musculoskeletal System – Bone necrosis.
 - Respiratory System – Pneumonia, epistaxis.
 - Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
 - Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with sirolimus [see Warnings and Precautions (5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
 
-Less frequently (< 3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
+Less frequently (<3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
 
 Increased Serum Cholesterol and Triglycerides
 
 The use of sirolimus in renal transplant patients was associated with increased serum cholesterol and triglycerides that may require treatment.
 
-In Studies 1 and 2, in de novo renal transplant patients who began the study with fasting, total serum cholesterol < 200 mg/dL or fasting, total serum triglycerides < 200 mg/dL, there was an increased incidence of hypercholesterolemia (fasting serum cholesterol > 240 mg/dL) or hypertriglyceridemia (fasting serum triglycerides > 500 mg/dL), respectively, in patients receiving both sirolimus 2 mg and sirolimus 5 mg compared with azathioprine and placebo controls.
+In Studies 1 and 2, in de novo renal transplant patients who began the study with fasting, total serum cholesterol <200 mg/dL or fasting, total serum triglycerides <200 mg/dL, there was an increased incidence of hypercholesterolemia (fasting serum cholesterol >240 mg/dL) or hypertriglyceridemia (fasting serum triglycerides >500 mg/dL), respectively, in patients receiving both sirolimus 2 mg and sirolimus 5 mg compared with azathioprine and placebo controls.
 
 Treatment of new-onset hypercholesterolemia with lipid-lowering agents was required in 42–52% of patients enrolled in the sirolimus arms of Studies 1 and 2 compared with 16% of patients in the placebo arm and 22% of patients in the azathioprine arm.
 In other sirolimus renal transplant studies, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
@@ -97,7 +97,7 @@ The table below summarizes the incidence of malignancies in the two controlled t
 
 At 24 months (Study 1) and 36 months (Study 2), there were no significant differences among treatment groups.
 
-INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
+TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
 | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -130,7 +130,7 @@ The overall incidence of malignancy was higher in patients receiving sirolimus p
 Conclusions regarding these differences in the incidence of malignancy could not be made because Study 3 was not designed to consider malignancy risk factors or systematically screen subjects for malignancy.
 In addition, more patients in the sirolimus with cyclosporine group had a pretransplantation history of skin carcinoma.
 
-INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
+TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTPatients received cyclosporine and corticosteroids.,Includes patients who prematurely discontinued treatment.
 
 | Malignancy | Nonrandomized (n = 95) | Sirolimus with Cyclosporine Therapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ Overall in this study, a 5-fold increase in the reports of tuberculosis among si
 
 ## 6.5 Pediatrics
 
-Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
+Safety was assessed in a controlled clinical trial in pediatric (<18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with a higher incidence of deterioration of renal function (creatinine increased) compared to calcineurin inhibitor-based therapy, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
 
 ## 6.6 Postmarketing Experience
@@ -183,7 +183,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
   Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including sirolimus [see Warnings and Precautions (5.10)].
   Clostridium difficile enterocolitis.
-- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia.
+- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus.
+- Nervous System - Posterior reversible encephalopathy syndrome.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.

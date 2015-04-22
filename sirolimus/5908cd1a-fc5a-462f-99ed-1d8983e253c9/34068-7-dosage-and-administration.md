@@ -49,7 +49,7 @@ Antibody induction therapy may be used.
 
 ## 2.3 Therapeutic Drug Monitoring
 
-Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
+Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
 
 Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus therapy.
 Careful attention should be made to clinical signs/symptoms, tissue biopsy findings, and laboratory parameters.
@@ -68,7 +68,7 @@ A discussion of different assay methods is contained in Clinical Therapeutics, V
 
 ## 2.4 Patients with Low Body Weight
 
-The initial dosage in patients ≥ 13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
+The initial dosage in patients ≥13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
 The loading dose should be 3 mg/m2.
 
 ## 2.5 Patients with Hepatic Impairment

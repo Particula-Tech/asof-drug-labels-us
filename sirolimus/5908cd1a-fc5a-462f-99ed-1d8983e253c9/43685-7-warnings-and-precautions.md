@@ -79,7 +79,7 @@ Periodic quantitative monitoring of urinary protein excretion is recommended.
 In a study evaluating conversion from calcineurin inhibitors (CNI) to sirolimus in maintenance renal transplant patients 6–120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to sirolimus compared with CNI continuation [see Clinical Studies (14.4), Adverse Reactions (6.4)].
 Patients with the greatest amount of urinary protein excretion prior to sirolimus conversion were those whose protein excretion increased the most after conversion.
 New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse event in 2.2% of the sirolimus conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
-Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.5) was also reported in 9.2% in the sirolimus conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
+Nephrotic range proteinuria (defined as urinary protein to creatinine ratio >3.5) was also reported in 9.2% in the sirolimus conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
 In some patients, reduction in the degree of urinary protein excretion was observed for individual patients following discontinuation of sirolimus.
 The safety and efficacy of conversion from calcineurin inhibitors to sirolimus in maintenance renal transplant patients have not been established.
 

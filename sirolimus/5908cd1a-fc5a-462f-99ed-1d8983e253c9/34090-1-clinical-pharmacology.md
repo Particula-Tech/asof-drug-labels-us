@@ -28,7 +28,7 @@ Sirolimus pharmacokinetics activity have been determined following oral administ
 
 The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the following table.
 
-MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYIn presence of cyclosporine administered 4 hours before sirolimus dosing.,Based on data collected at months 1 and 3 post-transplantation.
+TABLE 4: MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYIn presence of cyclosporine administered 4 hours before sirolimus dosing.,Based on data collected at months 1 and 3 post-transplantation.
 
 |  | Solution | Tablets |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ Sirolimus Concentrations (Chromatographic Equivalent) Observed in Phase 3 Clinic
 
 The following sirolimus concentrations (chromatographic equivalent) were observed in phase 3 clinical studies [see Clinical Studies (14)].
 
-SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
+TABLE 5: SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
 | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) | Mean (ng/mL) | 10th – 90th percentiles (ng/mL) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ Sirolimus was administered as a single, oral dose to subjects with normal hepati
 Compared with the values in the normal hepatic function group, the patients with mild, moderate, and severe hepatic impairment had 43%, 94%, and 189% higher mean values for sirolimus AUC, respectively, with no statistically significant differences in mean Cmax.
 As the severity of hepatic impairment increased, there were steady increases in mean sirolimus t1/2, and decreases in the mean sirolimus clearance normalized for body weight (CL/F/kg).
 
-The maintenance dose of sirolimus should be reduced by approximately one third in patients with mild-to-moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see Dosage and Administration (2.5)].
+The maintenance dose of sirolimus should be reduced by approximately one third in patients with mild to moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see Dosage and Administration (2.5)].
 It is not necessary to modify the sirolimus loading dose in patients with mild, moderate, and severe hepatic impairment.
 Therapeutic drug monitoring is necessary in all patients with hepatic impairment [see Dosage and Administration (2.3)].
 
@@ -123,7 +123,7 @@ The children aged 6–11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71
 The children aged 12–18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
 At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the sirolimus dose at 16 hours after the once-daily cyclosporine dose.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)Sirolimus co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).,As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)
+TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)Sirolimus co-administered with cyclosporine oral solution [MODIFIED] (e.g., Neoral® Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral® Soft Gelatin Capsules).,As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS)
 
 | Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/ml) | AUCт,ss (ng∙h/mL) | CL/FOral-dose clearance adjusted by either body weight (kg) or body surface area (m2). (mL/h/kg) | CL/F (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT 
 
 The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)All subjects received sirolimus oral solution.
+TABLE 7: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)All subjects received sirolimus oral solution.
 
 | Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
 | --- | --- | --- | --- | --- |
@@ -141,8 +141,8 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END
 
 Geriatric
 
-Clinical studies of sirolimus did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
-After the administration of sirolimus oral solution or tablets, sirolimus trough concentration data in renal transplant patients > 65 years of age were similar to those in the adult population 18 to 65 years of age.
+Clinical studies of sirolimus did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
+After the administration of sirolimus oral solution or tablets, sirolimus trough concentration data in renal transplant patients >65 years of age were similar to those in the adult population 18 to 65 years of age.
 
 Gender
 

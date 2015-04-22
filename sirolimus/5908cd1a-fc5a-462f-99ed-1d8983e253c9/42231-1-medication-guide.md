@@ -29,12 +29,12 @@ Sirolimus has not been shown to be safe and effective in people who have had liv
 Serious complications and death may happen in people who take sirolimus after a liver or lung transplant.
 You should not take sirolimus if you have had a liver or lung transplant without talking with your doctor.
 
-See the section “What are the possible side effects of sirolimus?” for information about other side effects of sirolimus.
+See the section "What are the possible side effects of sirolimus?" for information about other side effects of sirolimus.
 
 What is sirolimus?
 
 Sirolimus is a prescription medicine used to prevent rejection (anti-rejection medicine) in people 13 years of age and older who have received a kidney transplant.
-Rejection is when your body’s immune system recognizes the new organ as a “foreign” threat and attacks it.
+Rejection is when your body's immune system recognizes the new organ as a "foreign" threat and attacks it.
 
 Sirolimus is used with other medicines called cyclosporine (Gengraf, Neoral, Sandimmune), and corticosteroids.
 Your doctor will decide:
@@ -80,7 +80,7 @@ Especially tell your doctor if you take:
 - bromocriptine mesylate (Parlodel, Cycloset)
 - danazol
 - medicines to treat HIV or hepatitis C
-- St. John’s Wort
+- St. John's Wort
 
 How should I take sirolimus?
 
@@ -112,7 +112,7 @@ What are the possible side effects of sirolimus?
 
 Sirolimus may cause serious side effects, including:
 
-- See “What is the most important information I should know about sirolimus?”
+- See "What is the most important information I should know about sirolimus?"
 - Serious allergic reactions.
   Tell your doctor or get medical help right away if you get any of following symptoms of an allergic reaction:
   - swelling of your face, eyes, or mouth
@@ -164,6 +164,7 @@ Common side effects with sirolimus include:
 - low red blood cell count (anemia)
 - nausea
 - low platelet count (cells that help blood to clot)
+- high blood sugar (diabetes)
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -190,7 +191,7 @@ Safely throw away medicine that is out of date or no longer needed.
 
 Keep sirolimus and all medicines out of the reach of children.
 
-General Information about sirolimus
+General information about sirolimus
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sirolimus for a condition for which it was not prescribed.
@@ -210,13 +211,13 @@ Active ingredients: sirolimus.
 The inactive ingredients in sirolimus tablets include: sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
 The 0.5 mg and 2 mg dosage strengths also contain yellow iron (ferric) oxide and brown iron (ferric) oxide.
 
-This product’s label may have been updated.
+This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
 
 For sirolimus oral tablets:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0621-1.0
+LAB-0621-2.0
 
-January 2014
+April 2015
