@@ -12,9 +12,9 @@ See FDA-Approved Patient Labeling (Patient Information)
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
-Marketed by: Lung Biotechnology Inc., a wholly-owned subsidiary of United Therapeutics Corporation
+Marketed by: Lung Biotechnology PBC, a wholly-owned subsidiary of United Therapeutics Corporation
 
 Copyright © 2009, 2015, Eli Lilly and Company.
 All rights reserved.
 
-ADC-0001-USPI-20150402
+ADC-0002-USPI-20150421
