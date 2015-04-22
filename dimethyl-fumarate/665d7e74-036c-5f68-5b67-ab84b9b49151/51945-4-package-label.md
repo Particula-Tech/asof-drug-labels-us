@@ -10,7 +10,7 @@ TECFIDERA®
 
 Manufactured by:
 
-Biogen Idec Inc.
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
@@ -28,7 +28,7 @@ TECFIDERA®;
 
 Manufactured by:
 
-Biogen Idec Inc.
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
@@ -46,7 +46,7 @@ TECFIDERA®;
 
 Manufactured by:
 
-Biogen Idec Inc.
+Biogen Inc.
 
 Cambridge, MA 02142 USA
 
