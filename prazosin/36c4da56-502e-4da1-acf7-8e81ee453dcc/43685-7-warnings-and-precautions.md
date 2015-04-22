@@ -17,6 +17,12 @@ More common than loss of consciousness are the symptoms often associated with lo
 The patient should be cautioned about these possible adverse effects and advised what measures to take should they develop.
 The patient should also be cautioned to avoid situations where injury could result should syncope occur during the initiation of MINIPRESS therapy.
 
+## Priapism
+
+Prolonged erections and priapism have been reported with alpha-1 blockers including prazosin in post marketing experience.
+In the event of an erection that persists longer than 4 hours, seek immediate medical assistance.
+If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.
+
 # PRECAUTIONS
 
 ## General
