@@ -18,14 +18,14 @@ Abuse or misuse of DOLOPHINE by crushing, chewing, snorting, or injecting the di
 
 Opioid agonists such as DOLOPHINE are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing DOLOPHINE.
-Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug[see Patient Counseling Information (17)].
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Life Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of long-acting opioids, even when used as recommended.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status[see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DOLOPHINE, the risk is greatest during the initiation of therapy or following a dose increase.
@@ -62,7 +62,7 @@ Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults
 If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
-The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn[see Use in Special Populations (8.1)].
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn [see Use in Special Populations (8.1)].
 
 ## 5.5 Interactions with Central Nervous System Depressants
 

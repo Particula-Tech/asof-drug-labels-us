@@ -2,9 +2,7 @@ WARNING: ADDICTION, ABUSE AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; A
 
 Addiction, Abuse, and Misuse
 
-- DOLOPHINE exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can
-
-lead to overdose and death.
+DOLOPHINE exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing DOLOPHINE, and monitor all patients regularly for the development of these behaviors or conditions [see Warnings and Precautions (5.1)].
 
 Life-threatening Respiratory Depression

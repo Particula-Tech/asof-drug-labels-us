@@ -55,9 +55,9 @@ Dose reduction of methadone may be needed [see Drug Interactions (7.2)].
 
 Antiretroviral drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination: Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone[see Drug Interactions (7.2)].
+Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination: Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7.2)].
 
 Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
-Methadone disposition was not substantially altered[see Drug Interactions (7.2)].
+Methadone disposition was not substantially altered [see Drug Interactions (7.2)].
 
 Zidovudine: Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7.2)].

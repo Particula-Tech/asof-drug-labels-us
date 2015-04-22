@@ -7,6 +7,8 @@ Monitor patients receiving CNS depressants and DOLOPHINE for signs of respirator
 
 When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [Warnings and Precautions (5.5)].
 
+Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
+
 ## 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
 
 Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6 [see Clinical Pharmacology (12.3)].
@@ -19,9 +21,9 @@ Inducers of CYP3A4: CYP450 3A4 inducers may induce the metabolism of methadone a
 If co-administration with DOLOPHINE is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
 After stopping the treatment of a CYP3A4 inducer, as the effects of the inducer decline, methadone plasma concentration will increase which could increase or prolong both the therapeutic and adverse effects, and may cause serious respiratory depression.
-If co-administration or discontinuation of a CYP3A4 inducer with DOLOPHINE is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved[see Clinical Pharmacology (12.3)].
+If co-administration or discontinuation of a CYP3A4 inducer with DOLOPHINE is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
-Paradoxical Effects of Antiretroviral Agents on DOLOPHINE: Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
+Paradoxical Effects of Antiretroviral Agents on DOLOPHINE: Concurrent use of certain antiretroviral agents with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
 This may result in reduced efficacy of DOLOPHINE and could precipitate a withdrawal syndrome.
 Monitor methadone-maintained patients receiving any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the methadone dose accordingly.
 
