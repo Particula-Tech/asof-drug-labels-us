@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA072488",
+    "ANDA072490",
+    "ANDA073481"
+  ],
+  "inn": "fluocinonide",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-0262-15",
+    "0093-0262-30",
+    "0093-0262-92",
+    "0093-0263-15",
+    "0093-0263-30",
+    "0093-0263-92",
+    "0093-0264-15",
+    "0093-0264-30",
+    "0093-0264-92"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluocinonide",
+      "name": "Fluocinonide"
+    },
+    {
+      "form": "OINTMENT",
+      "generic": "fluocinonide",
+      "name": "Fluocinonide"
+    }
+  ],
+  "setid": "986c1ba3-2103-4773-a35c-2c0121a01783",
+  "source": "dailymed"
+}
