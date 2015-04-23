@@ -160,6 +160,6 @@ Alza Corp.
 
 Vacaville, CA 95688
 
-Manufactured for: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Revised: December 2013

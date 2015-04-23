@@ -2,7 +2,7 @@
 
 ## 10.1 Signs and Symptoms
 
-Signs and symptoms of CONCERTA® overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, muscle twitching, convulsion, grand mal convulsion, confusional state, hallucinations (auditory and/or visual), hyperhidrosis, headache, pyrexia, tachycardia, palpitations, heart rate increased, sinus arrhythmia, hypertension, mydriasis, and dry mouth.
+Signs and symptoms of CONCERTA® overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, muscle twitching, convulsion, grand mal convulsion, confusional state, hallucinations (auditory and/or visual), hyperhidrosis, headache, pyrexia, tachycardia, palpitations, heart rate increased, sinus arrhythmia, hypertension, rhabdomyolysis, mydriasis, and dry mouth.
 
 ## 10.2 Recommended Treatment
 
