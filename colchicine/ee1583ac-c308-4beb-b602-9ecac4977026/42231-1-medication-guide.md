@@ -1,6 +1,6 @@
 Medication Guide
 
-ColchicineCapsules
+Colchicine Capsules
 
 What is the most important information I should know about colchicine capsules?
 
