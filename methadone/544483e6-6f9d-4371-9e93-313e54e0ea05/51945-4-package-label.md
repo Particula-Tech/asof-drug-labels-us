@@ -1,6 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
-
-## PRINCIPAL DISPLAY PANEL - METHADOSE
+# PRINCIPAL DISPLAY PANEL - METHADOSE
 
 NDC 0406-0540-34
 
@@ -17,11 +15,11 @@ Each tablet contains: Methadone Hydrochloride USP.......
 
 Rx only
 
-Mallinckrodt
+Mallinckrodt™
 
-L00M10 Rev 08/2013
+L00M10 Rev 12/2014
 
-## PRINCIPAL DISPLAY PANEL - METHADONE HYDROCHLORIDE TABLETS
+# PRINCIPAL DISPLAY PANEL - METHADONE HYDROCHLORIDE TABLETS
 
 NDC 0406-2540-01
 
@@ -29,9 +27,9 @@ NDC 0406-2540-01
 
 METHADONE HYDROCHLORIDE TABLETS (Methadone Hydrochloride Tablets for Oral Suspension USP)
 
-40 mg
-
 CII
+
+40 mg
 
 (Dispersible, Orange Flavored)
 
@@ -40,6 +38,6 @@ Each tablet contains: Methadone Hydrochloride USP.......
 
 Rx only
 
-Mallinckrodt
+Mallinckrodt™
 
-L00M82 Rev 08/2013
+L00M82 Rev 12/2014
