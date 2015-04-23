@@ -25,14 +25,10 @@ ANIMAL STUDIES
 When rats were treated with alprazolam at 3, 10, and 30 mg/kg/day (15 to 150 times the maximum recommended human dose) orally for 2 years, a tendency for a dose related increase in the number of cataracts was observed in females and a tendency for a dose related increase in corneal vascularization was observed in males.
 These lesions did not appear until after 11 months of treatment.
 
-Manufactured by:
+Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
-Actavis Elizabeth LLC
-
-200 Elmora Avenue
-
-Elizabeth, NJ 07207 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 40-9170
 
-Revised — January 2012
+Revised — March 2015
