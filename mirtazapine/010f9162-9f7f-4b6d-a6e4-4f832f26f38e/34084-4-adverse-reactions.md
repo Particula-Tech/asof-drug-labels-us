@@ -123,3 +123,5 @@ In 3 of the 4 cases, however, concomitant drugs were implicated.
 All patients recovered.
 
 Cases of severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
+
+Increased creatine kinase blood levels have also been reported.
