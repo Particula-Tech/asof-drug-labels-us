@@ -1,186 +1,144 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE Cordarone® ′KOR-DU-RŌN (amiodarone HCl)
 
-Cordarone® ′KOR-DU-RŌN Tablets
+What is the most important information I should know about Cordarone?
+Cordarone can cause serious side effects that can lead to death including:
 
-(amiodarone HCl)
-
-Read the Medication Guide that comes with Cordarone Tablets before you start taking them and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
-
-## What is the most important information I should know about Cordarone Tablets?
-
-Cordarone Tablets can cause serious side effects that can lead to death including:
-
-- lung damage
-- liver damage
-- worse heartbeat problems
+- lung problems
+- liver problems
+- worsening heartbeat problems
 - thyroid problems
 
-Call your doctor or get medical help right away if you have any symptoms such as the following:
+Call your doctor or get medical help right away if you have any of the following symptoms during treatment with Cordarone:
 
 - shortness of breath, wheezing, or any other trouble breathing; coughing, chest pain, or spitting up of blood
-- nausea or vomiting; passing brown or dark-colored urine; feel more tired than usual; your skin and whites of your eyes get yellow; or have stomach pain
-- heart pounding, skipping a beat, beating very fast or very slowly; feel light-headed or faint
+- nausea or vomiting, brown or dark-colored urine feel more tired than usual,yellowing of your skin or the whites of your eyes (jaundice), or right upper stomach pain
+- heart pounding, skipping a beat, beating fast or slowly, feel light-headed or faint
 - weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
 
-Because of these possible side effects, Cordarone Tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
+Cordarone should only be used in people with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
 
-Cordarone Tablets can cause other serious side effects.
-See "What are the possible or reasonably likely side effects of Cordarone Tablets?" for more information.
-
-If you get serious side effects during treatment with Cordarone Tablets you may need to stop Cordarone Tablets, have your dose changed, or get medical treatment.
-Talk with your doctor before you stop taking Cordarone Tablets.
+Cordarone can cause other serious side effects.
+See "What are the possible side effects of Cordarone?"
+If you get serious side effects during treatment you may need to stop Cordarone, have your dose changed, or get medical treatment.
+Talk with your doctor before you stop taking Cordarone.
 
 You may still have side effects after stopping Cordarone Tablets because the medicine stays in your body months after treatment is stopped.
 
 Tell all your healthcare providers that you take or took Cordarone Tablets.
-This information is very important for other medical treatments or surgeries you may have.
 
-## What are Cordarone Tablets?
+What is Cordarone?
 
-Cordarone is a medicine used in adults to treat life-threatening heartbeat problems called ventricular arrhythmias, for which other treatment did not work or was not tolerated.
-Cordarone Tablets have not been shown to help people with life-threatening heartbeat problems live longer.
-Treatment with Cordarone Tablets should be started in a hospital to monitor your condition.
-You should have regular check-ups, blood tests, chest x-rays, and eye exams before and during treatment with Cordarone Tablets to check for serious side effects.
+Cordarone is a prescription medicine used to treat life-threatening heartbeat problems called ventricular arrhythmias, for which other treatment did not work or was not tolerated.
+Cordarone has not been shown to help people with life-threatening heartbeat problems live longer.
+Cordarone should be started in a hospital to monitor your condition.
+You should have regular check-ups, blood tests, chest x-rays, and eye exams before and during treatment with Cordarone to check for serious side effects.
 
-Cordarone Tablets have not been studied in children.
+It is not known if Cordarone is safe and effective in children.
 
-## Who should not take Cordarone Tablets?
+Who should not take Cordarone?
 
-Do not take Cordarone Tablets if you:
+Do not take Cordarone if you:
 
-- have certain heart conditions (heart block, very slow heart rate, or slow heart rate with dizziness or lightheadedness)
-- have an allergy to amiodarone, iodine, or any of the other ingredients in Cordarone Tablets.
-  See the end of this Medication Guide for a complete list of ingredients in Cordarone Tablets.
+- have a certain heart condition called heart block with or without a slow heart rate
+- have a slow heart rate with dizziness or lightheadedness, and you do not have an implanted pacemaker
+- are allergic to amiodarone, iodine, or any of the other ingredients in Cordarone.
+  See the end of this Medication Guide for a complete list of ingredients in Cordarone.
 
-## What should I tell my doctor before starting Cordarone Tablets?
+What should I tell my doctor before taking Cordarone
 
-Tell your doctor about all of your medical conditions including if you:
+Before you take Cordarone tell your doctor about all of your medical conditions including if you:
 
 - have lung or breathing problems
 - have liver problems
 - have or had thyroid problems
 - have blood pressure problems
-- are pregnant or planning to become pregnant.
+- are pregnant or plan to become pregnant.
   Cordarone can harm your unborn baby.
   Cordarone can stay in your body for months after treatment is stopped.
-  Therefore, talk with your doctor before you plan to get pregnant.
-- are breastfeeding.
-  Cordarone passes into your milk and can harm your baby.
+  Talk with your doctor before you plan to get pregnant.
+- are breastfeeding or plan to breastfeed.
+  Cordarone can pass into your breast milk and can harm your baby.
+  Talk to your doctor about the best way to feed your baby.
   You should not breast feed while taking Cordarone.
   Also, Cordarone can stay in your body for months after treatment is stopped.
-
-Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
-Cordarone Tablets and certain other medicines can interact with each other causing serious side effects.
-Sometimes the dose of Cordarone Tablets or other medicines must be changed when they are used together.
-Especially, tell your doctor if you are taking:
-
-- antibiotic medicines used to treat infections
-- depression medicines
-- blood thinner medicines
-- HIV or AIDS medicines
-- cimetidine (Tagamet®), a medicine for stomach ulcers or indigestion
-- loratadine (for example: Claritin®, Alavert®), a medicine for allergy symptoms
-- seizure medicines
-- diabetes medicines
-- cyclosporine, an immunosuppressive medicine
-- dextromethorphan, a cough medicine
-- medicines for your heart, circulation, or blood pressure
-- water pills (diuretics)
-- high cholesterol or bile medicines
-- narcotic pain medicines
-- St. John's Wort
+- Tell your doctor about all the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
+  Cordarone and certain other medicines can affect (interact) with each other and cause serious side effects.
+  You can ask your pharmacist for a list of medicines that interact with Cordarone.
 
 Know the medicines you take.
-Keep a list of them with you at all times and show it to your doctor and pharmacist each time you get a new medicine.
-Do not take any new medicines while you are taking Cordarone Tablets unless you have talked with your doctor.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-## How should I take Cordarone Tablets?
+How should I take Cordarone?
 
-- Take Cordarone Tablets exactly as prescribed by your doctor.
-- The dose of Cordarone Tablets you take has been specially chosen for you by your doctor and may change during treatment.
-  Keep taking your medicine until your doctor tells you to stop.
-  Do not stop taking it because you feel better.
-  Your condition may get worse.
-  Talk with your doctor if you have side effects.
-- Your doctor will tell you to take your dose of Cordarone Tablets with or without meals.
-  Make sure you take Cordarone Tablets the same way each time.
-- Do not drink grapefruit juice during treatment with Cordarone Tablets.
-  Grapefruit juice affects how Cordarone is absorbed in the stomach.
-- Taking too many Cordarone Tablets can be dangerous.
-  If you take too many Cordarone Tablets, call your doctor or go to the nearest hospital right away.
-  You may need medical care right away.
-- If you miss a dose, do not take a double dose to make up for the dose you missed.
+- Take Cordarone exactly as your doctor tells you to take it.
+- Your doctor will tell you how much Cordarone to take and when to take it.
+  Cordarone can be taken with or without food.
+  Make sure you take Cordarone the same way each time.
+- If you take too much Cordarone, call your doctor or go to the nearest hospital emergency room right away.
+- If you miss a dose, wait and take your next dose at your regular time.
+  Do not take two doses at the same.
   Continue with your next regularly scheduled dose.
 
-## What should I avoid while taking Cordarone Tablets?
+What should I avoid while taking Cordarone?
 
-- Do not drink grapefruit juice during treatment with Cordarone Tablets.
+- Do not drink grapefruit juice during treatment with Cordarone.
   Grapefruit juice affects how Cordarone is absorbed in the stomach.
-- Avoid exposing your skin to the sun or sun lamps.
-  Cordarone Tablets can cause a photosensitive reaction.
-  Wear sun-block cream or protective clothing when out in the sun.
-- Avoid pregnancy during treatment with Cordarone Tablets.
-  Cordarone can harm your unborn baby.
-- Do not breastfeed while taking Cordarone Tablets.
-  Cordarone passes into your milk and can harm your baby.
+  Avoid sunlight.
+  Cordarone can make your skin sensitive to sun and the light from sunlamps and tanning beds.
+  You could get severe sunburn.
+  Use sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
+  Talk to you doctor if you get sunburn.
 
-## What are the possible or reasonably likely side effects of Cordarone Tablets?
+What are the possible side effects of Cordarone?
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1‑800‑FDA-1088.
-
-Cordarone Tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems, and thyroid problems.
-See "What is the most important information I should know about Cordarone Tablets?"
-
-Some other serious side effects of Cordarone Tablets include:
+See "What is the most important information I should know about Cordarone?"
 
 - vision problems that may lead to permanent blindness.
-  You should have regular eye exams before and during treatment with Cordarone Tablets.
+  You should have regular eye exams before and during treatment with Cordarone.
   Call your doctor if you have blurred vision, see halos, or your eyes become sensitive to light.
+  Tell your doctor if you plan to have laser eye surgery.
 - nerve problems.
-  Cordarone Tablets can cause a feeling of "pins and needles" or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
-- thyroid problems.
-  Cordarone Tablets can cause thyroid problems, including low thyroid function or overactive thyroid function.
-  Your doctor may arrange regular blood tests to check your thyroid function during treatment with Cordarone.
-  Call your doctor if you have weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
+  Cordarone can cause a feeling of "pins and needles" or numbness in the hands, legs, or feet, muscle weakness, uncontrolled movements, poor coordination, and trouble walking.
 - skin problems.
-  Cordarone Tablets can cause your skin to be more sensitive to the sun or to turn a bluish-gray color.
-  In most patients, skin color slowly returns to normal after stopping Cordarone Tablets.
-  In some patients, skin color does not return to normal.
+  Cordarone can cause your skin to be more sensitive to the sun or turn a bluish-gray color.
+  In most people, skin color slowly returns to normal after stopping Cordarone.
+  In some people, skin color does not return to normal.
 
-Other side effects of Cordarone Tablets include nausea, vomiting, constipation, and loss of appetite.
+The most common side effects of Cordarone include:
 
-Call your doctor about any side effect that bothers you.
+- nausea
+- constipation
+- vomiting
+- loss of appetite.
 
-These are not all the side effects with Cordarone Tablets.
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of Cordarone.
 For more information, ask your doctor or pharmacist.
 
-## How should I store Cordarone Tablets?
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-- Store Cordarone Tablets at room temperature.
-  Protect from light.
-  Keep Cordarone Tablets in a tightly closed container.
-- Safely dispose of Cordarone Tablets that are out-of-date or no longer needed.
-- Keep Cordarone Tablets and all medicines out of the reach of children.
+How should I store Cordarone Tablets?
 
-## General information about Cordarone Tablets
+- Store Cordarone at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep Cordarone Tablets in a tightly closed container, and keep Cordarone out of the light.
+
+Keep Cordarone and all medicines out of the reach of children.
+
+General information about the safe and effective use of Cordarone
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Cordarone Tablets for a condition for which it was not prescribed.
-Do not share Cordarone with other people, even if they have the same symptoms that you have.
+Do not use Cordarone for a condition for which it was not prescribed.
+Do not give Cordarone to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-If you have any questions or concerns about Cordarone Tablets, ask your doctor or healthcare provider.
-This Medication Guide summarizes the most important information about Cordarone Tablets.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Cordarone Tablets that was written for healthcare professionals.
+You can ask your doctor or pharmacist for information about Cordarone that was written for health professionals.
 
-|  | This product's Medication Guide may have been updated. For current Medication Guide, please visit www.pfizer.com. |  |
-| --- | --- | --- |
+For more information call 1-800-XXX-XXXX or go to www.pfizer.com.
 
-## What are the ingredients in Cordarone Tablets?
+What are the ingredients in Cordarone Tablets?
 
 Active Ingredient: amiodarone HCl
 
@@ -190,21 +148,9 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Cordarone is a registered trademark of Sanofi-Synthelabo.
 
-Tagamet is a registered trademark of SmithKline Beecham Pharmaceuticals Co.
-
-Claritin is a registered trademark of Schering Corporation.
-
-Alavert is a registered trademark of Wyeth.
-
 ©2004, Wyeth Pharmaceuticals.
 All rights reserved.
 
-Manufactured by Sanofi Winthrop Industrie
+Manufactured by Sanofi Winthrop Industrie 1, rue de la Vierge 33440 Ambares, France
 
-1, rue de la Vierge
-
-33440 Ambares, France
-
-LAB-0565-3.0
-
-December 2014
+LAB-0565-4.0 March 2015

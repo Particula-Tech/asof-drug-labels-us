@@ -31,11 +31,11 @@ Cardiac conduction abnormalities occur infrequently and are reversible on discon
 
 The following side-effect rates are based on a retrospective study of 241 patients treated for 2 to 1,515 days (mean 441.3 days).
 
-## The following side effects were each reported in 10 to 33% of patients:
+## The following side effects were each reported in 10 to 33% of patients
 
 Gastrointestinal: Nausea and vomiting.
 
-## The following side effects were each reported in 4 to 9% of patients:
+## The following side effects were each reported in 4 to 9% of patients
 
 Dermatologic: Solar dermatitis/photosensitivity.
 
@@ -49,7 +49,7 @@ Hepatic: Abnormal liver-function tests.
 
 Respiratory: Pulmonary inflammation or fibrosis.
 
-## The following side effects were each reported in 1 to 3% of patients:
+## The following side effects were each reported in 1 to 3% of patients
 
 Thyroid: Hypothyroidism, hyperthyroidism.
 
@@ -63,7 +63,7 @@ Hepatic: Nonspecific hepatic disorders.
 
 Other: Flushing, abnormal taste and smell, edema, abnormal salivation, coagulation abnormalities.
 
-## The following side effects were each reported in less than 1% of patients:
+## The following side effects were each reported in less than 1% of patients
 
 Blue skin discoloration, rash, spontaneous ecchymosis, alopecia, hypotension, and cardiac conduction abnormalities.
 

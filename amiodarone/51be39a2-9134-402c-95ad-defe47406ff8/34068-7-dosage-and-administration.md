@@ -7,7 +7,9 @@ A uniform, optimal dosage schedule for administration of Cordarone has not been 
 Because of the food effect on absorption, Cordarone should be administered consistently with regard to meals (see "CLINICAL PHARMACOLOGY").
 Individual patient titration is suggested according to the following guidelines:
 
-For life-threatening ventricular arrhythmias, such as ventricular fibrillation or hemodynamically unstable ventricular tachycardia: Close monitoring of the patients is indicated during the loading phase, particularly until risk of recurrent ventricular tachycardia or fibrillation has abated.
+## For life-threatening ventricular arrhythmias, such as ventricular fibrillation or hemodynamically unstable ventricular tachycardia
+
+Close monitoring of the patients is indicated during the loading phase, particularly until risk of recurrent ventricular tachycardia or fibrillation has abated.
 Because of the serious nature of the arrhythmia and the lack of predictable time course of effect, loading should be performed in a hospital setting.
 Loading doses of 800 to 1,600 mg/day are required for 1 to 3 weeks (occasionally longer) until initial therapeutic response occurs.
 (Administration of Cordarone in divided doses with meals is suggested for total daily doses of 1,000 mg or higher, or when gastrointestinal intolerance occurs.)
@@ -29,8 +31,7 @@ In all instances, the physician must be guided by the severity of the individual
 When dosage adjustments are necessary, the patient should be closely monitored for an extended period of time because of the long and variable half-life of Cordarone and the difficulty in predicting the time required to attain a new steady-state level of drug.
 Dosage suggestions are summarized below:
 
-|  | Loading Dose | Adjustment and Maintenance Dose |  |
+|  | Loading Dose (Daily) | Adjustment and Maintenance Dose (Daily) |  |
 | --- | --- | --- | --- |
-|  | (Daily) | (Daily) |  |
 | Ventricular Arrhythmias | 1 to 3 weeks | ~1 month | usual maintenance |
 |  | 800 to 1,600 mg | 600 to 800 mg | 400 mg |
