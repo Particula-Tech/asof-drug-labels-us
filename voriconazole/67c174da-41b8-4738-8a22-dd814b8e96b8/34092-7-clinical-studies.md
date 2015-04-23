@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Voriconazole, administered orally or parenterally, has been evaluated as primary or salvage therapy in 520 patients aged 12 years and older with infections caused by Aspergillus spp., Fusarium spp. and Scedosporium spp.
+Voriconazole, administered orally or parenterally, has been evaluated as primary or salvage therapy in 520 patients aged 12 years and older with infections caused by Aspergillus spp., Fusarium spp., and Scedosporium spp.
 
 ## 14.1 Invasive Aspergillosis
 
@@ -10,7 +10,7 @@ Voriconazole was studied in patients for primary therapy of invasive aspergillos
 
 The efficacy of voriconazole compared to amphotericin B in the primary treatment of acute invasive aspergillosis was demonstrated in 277 patients treated for 12 weeks in a randomized, controlled study (Study 307/602).
 The majority of study patients had underlying hematologic malignancies, including bone marrow transplantation.
-The study also included patients with solid organ transplantation, solid tumors and AIDS.
+The study also included patients with solid organ transplantation, solid tumors, and AIDS.
 The patients were mainly treated for definite or probable invasive aspergillosis of the lungs.
 Other aspergillosis infections included disseminated disease, CNS infections and sinus infections.
 Diagnosis of definite or probable invasive aspergillosis was made according to criteria modified from those established by the National Institute of Allergy and Infectious Diseases Mycoses Study Group/European Organisation for Research and Treatment of Cancer (NIAID MSG/EORTC).
@@ -81,14 +81,14 @@ Combined Response Data in Salvage Patients with Single Aspergillus Species (Stud
 Nineteen patients had more than one species of Aspergillus isolated.
 Success was seen in 4/17 (24%) of these patients.
 
-## 14.2 Candidemia in Nonneutropenic Patients and Other Deep Tissue Candida Infections
+## 14.2 Candidemia in Non-neutropenic Patients and Other Deep Tissue Candida Infections
 
 Voriconazole was compared to the regimen of amphotericin B followed by fluconazole in Study 608, an open label, comparative study in nonneutropenic patients with candidemia associated with clinical signs of infection.
 Patients were randomized in 2:1 ratio to receive either voriconazole (n = 283) or the regimen of amphotericin B followed by fluconazole (n = 139).
 Patients were treated with randomized study drug for a median of 15 days.
 Most of the candidemia in patients evaluated for efficacy was caused by C. albicans (46%), followed by C. tropicalis (19%), C. parapsilosis (17%), C. glabrata (15%) and C. krusei (1%).
 
-An independent Data Review Committee (DRC), blinded to study treatment, reviewed the clinical and mycological data from this study and generated one assessment of response for each patient.
+An independent Data Review Committee (DRC), blinded to study treatment, reviewed the clinical and mycological data from this study, and generated one assessment of response for each patient.
 A successful response required all of the following: resolution or improvement in all clinical signs and symptoms of infection, blood cultures negative for Candida, infected deep tissue sites negative for Candida or resolution of all local signs of infection, and no systemic antifungal therapy other than study drug.
 The primary analysis, which counted DRC-assessed successes at the fixed time point (12 weeks after End of Therapy [EOT]), demonstrated that voriconazole was comparable to the regimen of amphotericin B followed by fluconazole (response rates of 41% and 41%, respectively) in the treatment of candidemia.
 Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
@@ -96,7 +96,7 @@ Patients who did not have a 12-week assessment for any reason were considered a 
 The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 13.
 
 Table 13.
-Overall Success Rates Sustained From EOT to the Fixed 12 Week Follow-Up Time Point by Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12 week assessment for any reason were considered a treatment failure.
+Overall Success Rates Sustained From EOT to the Fixed 12 Week Follow-Up Time Point by Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
 | --- | --- | --- |
@@ -107,10 +107,10 @@ Overall Success Rates Sustained From EOT to the Fixed 12 Week Follow-Up Time Poi
 | C. glabrata | 12/36 (33%) | 7/21 (33%) |
 | C. krusei | 1/4 | 0/1 |
 
-In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6 or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
+In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
 In Studies 608 and 309/604 (non-comparative study in patients with invasive fungal infections who were refractory to, or intolerant of, other antifungal agents), voriconazole was evaluated in 35 patients with deep tissue Candida infections.
-A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection and 0 of 1 with cervical lymph node infection.
+A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
 
 ## 14.3 Esophageal Candidiasis
 
@@ -126,7 +126,7 @@ Success Rates in Patients Treated for Esophageal Candidiasis
 
 | Population | Voriconazole | Fluconazole | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
 | --- | --- | --- | --- |
-| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
+| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
 | ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5%) | 171/191 (89.5%) | -2 (-8.3, 4.3) |
 
 Microbiologic success rates by Candida species are presented in Table 15.
@@ -149,13 +149,13 @@ In pooled analyses of patients, voriconazole was shown to be effective against t
 ### Scedosporium apiospermum
 
 Successful response to voriconazole therapy was seen in 15 of 24 patients (63%).
-Three of these patients relapsed within 4 weeks, including one patient with pulmonary, skin and eye infections, one patient with cerebral disease and one patient with skin infection.
+Three of these patients relapsed within 4 weeks, including one patient with pulmonary, skin and eye infections, one patient with cerebral disease, and one patient with skin infection.
 Ten patients had evidence of cerebral disease and six of these had a successful outcome (one relapse).
 In addition, a successful response was seen in 1 of 3 patients with mixed organism infections.
 
 ### Fusarium spp.
 
 Nine of 21 (43%) patients were successfully treated with voriconazole.
-Of these nine patients, three had eye infections, one had an eye and blood infection, one had a skin infection, one had a blood infection alone, two had sinus infections and one had disseminated infection (pulmonary, skin, hepatosplenic).
+Of these nine patients, three had eye infections, one had an eye and blood infection, one had a skin infection, one had a blood infection alone, two had sinus infections, and one had disseminated infection (pulmonary, skin, hepatosplenic).
 Three of these patients (one with disseminated disease, one with an eye infection and one with a blood infection) had Fusarium solani and were complete successes.
 Two of these patients relapsed, one with a sinus infection and profound neutropenia and one post surgical patient with blood and eye infections.

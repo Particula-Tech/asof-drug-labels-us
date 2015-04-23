@@ -5,16 +5,16 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Overview
 
 The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash and visual disturbances [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
 The data described in Table 2 reflect exposure to voriconazole in 1,655 patients in the therapeutic studies.
-This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and nonneutropenic patients.
+This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and non-neutropenic patients.
 This subgroup does not include healthy subjects and patients treated in the compassionate use and non-therapeutic studies.
 This patient population was 62% male, had a mean age of 46 years (range 11 to 90, including 51 patients aged 12 to 18 years) and was 78% White and 10% Black.
 Five hundred sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
-Table 2 includes all adverse events which were reported at an incidence of ≥ 2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined or study 305, as well as events of concern which occurred at an incidence of < 2%.
+Table 2 includes all adverse events which were reported at an incidence of ≥ 2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of < 2%.
 
 In study 307/602, 381 patients (196 on voriconazole, 185 on amphotericin B) were treated to compare voriconazole to amphotericin B followed by other licensed antifungal therapy in the primary treatment of patients with acute invasive aspergillosis.
 The rate of discontinuation from voriconazole study medication due to adverse events was 21.4% (42/196 patients).
@@ -25,13 +25,13 @@ The rate of discontinuation from voriconazole study medication in Study 305 due 
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
 Table 2.
-Treatment Emergent Adverse Events: Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined or Study 305.
+Treatment Emergent Adverse Events: Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/oral therapy) |  |  | Study 305 (oral therapy) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Voriconazolen = 1,655 | Voriconazolen = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapyn = 185 | Ampho B→Fluconazolen = 131 | Voriconazolen = 200 | Fluconazolen = 191 |  |
-|  | n (%) | n (%) | n (%) | n (%) | n (%) | n (%) |
+| VoriconazoleN = 1,655 | VoriconazoleN = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapyN = 185 | Ampho B→FluconazoleN = 131 | VoriconazoleN = 200 | FluconazoleN = 191 |  |
+|  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | Special SensesSee Warnings and Precautions (5.3) |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1) |
@@ -69,20 +69,20 @@ Voriconazole treatment-related visual disturbances are common.
 In therapeutic trials, approximately 21% of patients experienced abnormal vision, color vision change and/or photophobia.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
-There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema [see Warnings and Precautions (5.3)].
+There have been postmarketing reports of prolonged visual adverse events, including optic neuritis and papilledema [see Warnings and Precautions (5.3)].
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
-In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field and an alteration in color perception.
+In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
 The ERG measures electrical currents in the retina.
 The effects were noted early in administration of voriconazole and continued through the course of study drug dosing.
-Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5)].
+Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.3)].
 
 ### Dermatological Reactions
 
 Dermatological reactions were common in the patients treated with voriconazole.
 The mechanism underlying these dermatologic adverse events remains unknown.
 
-Serious cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necrolysis and erythema multiforme have been reported during treatment with voriconazole.
+Serious cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme have been reported during treatment with voriconazole.
 If a patient develops an exfoliative cutaneous reaction, voriconazole should be discontinued.
 
 In addition, voriconazole has been associated with photosensitivity skin reactions.
@@ -92,7 +92,7 @@ If a patient develops a skin lesion consistent with squamous cell carcinoma or m
 
 ### Less Common Adverse Events
 
-The following adverse events occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (n = 1,655).
+The following adverse events occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N = 1,655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 2 above and does not include every event reported in the voriconazole clinical program.
 
@@ -145,7 +145,7 @@ In study 307/602, patients with definite or probable invasive aspergillosis were
 In study 608, patients with candidemia were randomized to either voriconazole or the regimen of amphotericin B followed by fluconazole.
 
 Table 3.
-Protocol 305- Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
+Protocol 305 - Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Fluconazole |
 | --- | --- | --- | --- |
@@ -157,7 +157,7 @@ Protocol 305- Patients with Esophageal Candidiasis Clinically Significant Labora
 | n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal |  |  |  |
 
 Table 4.
-Protocol 307/602- Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+Protocol 307/602 - Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin BAmphotericin B followed by other licensed antifungal therapy |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -171,7 +171,7 @@ Protocol 307/602- Primary Treatment of Invasive Aspergillosis Clinically Signifi
 | n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |  |  |  |  |
 
 Table 5.
-Protocol 608- Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
+Protocol 608 - Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -184,7 +184,7 @@ Protocol 608- Treatment of Candidemia Clinically Significant Laboratory Test Abn
 | Potassium | < 0.9 x LLN | 43/258 (16.7) | 35/118 (29.7) |  |  |  |  |  |  |  |  |
 | n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |  |  |  |  |  |  |  |  |
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

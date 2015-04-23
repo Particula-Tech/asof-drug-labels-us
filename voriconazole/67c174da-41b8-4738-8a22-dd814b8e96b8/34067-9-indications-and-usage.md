@@ -7,7 +7,7 @@ Voriconazole tablets are indicated for use in patients 12 years of age and older
 In clinical trials, the majority of isolates recovered were Aspergillus fumigatus.
 There was a small number of cases of culture-proven disease due to species of Aspergillus other than A. fumigatus [see Clinical Studies (14.1) and Clinical Pharmacology (12.4)].
 
-## 1.2 Candidemia in Nonneutropenic Patients and the Following Candida Infections: Disseminated Infections in Skin and Infections in Abdomen, Kidney, Bladder Wall and Wounds
+## 1.2 Candidemia in Non-neutropenic Patients and the Following Candida Infections: Disseminated Infections in Skin and Infections in Abdomen, Kidney, Bladder Wall, and Wounds
 
 [See Clinical Studies (14.2) and Clinical Pharmacology (12.4).]
 

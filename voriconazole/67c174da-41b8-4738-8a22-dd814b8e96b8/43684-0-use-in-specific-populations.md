@@ -5,9 +5,9 @@
 ### Teratogenic Effects. Pregnancy Category D
 
 Voriconazole can cause fetal harm when administered to a pregnant woman and should not be taken in pregnancy except in patients where the benefit to the mother clearly outweighs the potential risk to the fetus.
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patients should be informed of the potential hazard to the fetus [see Warnings and Precautions (5.4)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patients should be informed of the potential hazard to the fetus [see Warnings and Precautions (5.4)].
 
 ### Animal Data
 
@@ -31,11 +31,11 @@ Twelve out of 22 (55%) patients had successful response after treatment with a m
 
 Sparse plasma sampling for pharmacokinetics in adolescents was conducted in the therapeutic studies [see Clinical Pharmacology (12.3)].
 
-There have been post-marketing reports of pancreatitis in pediatric patients.
+There have been postmarketing reports of pancreatitis in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-In multiple-dose therapeutic trials of voriconazole, 9.2% of patients were ≥ 65 years of age and 1.8% of patients were ≥ 75 years of age.
+In multiple dose therapeutic trials of voriconazole, 9.2% of patients were ≥ 65 years of age and 1.8% of patients were ≥ 75 years of age.
 In a study in healthy subjects, the systemic exposure (AUC) and peak plasma concentrations (Cmax) were increased in elderly males compared to young males.
 Pharmacokinetic data obtained from 552 patients from ten voriconazole therapeutic trials showed that voriconazole plasma concentrations in the elderly patients were approximately 80% to 90% higher than those in younger patients after either IV or oral administration.
 However, the overall safety profile of the elderly patients was similar to that of the young so no dosage adjustment is recommended [see Clinical Pharmacology (12.3)].
