@@ -34,7 +34,7 @@ Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, IV |
+|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous intravenous |
 | AUC (mcg•hr/mL) | 13.7AUC 0–12h | 12.7 | 31.6AUC24h = AUC0–12h x 2 | 32.9 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
