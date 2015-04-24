@@ -4,9 +4,13 @@
 
 NDC 0093-7314-56
 
-CLOPIDOGREL Tablets, USP 75 mg*
+Clopidogrel Tablets, USP 75 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+Accompanying Medication Guide
+
+to each patient.
 
 Rx only
 
