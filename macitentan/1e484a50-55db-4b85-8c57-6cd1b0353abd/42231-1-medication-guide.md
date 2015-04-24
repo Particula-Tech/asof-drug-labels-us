@@ -1,6 +1,6 @@
 Medication Guide
 
-OPSUMIT (OP-sum-it) (macitentan) tablets
+OPSUMIT® (OP-sum-it) (macitentan) tablets
 
 Read this Medication Guide for Opsumit before you start taking Opsumit and each time you get a refill.
 There may be new information.
