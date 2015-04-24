@@ -26,7 +26,7 @@ When SPORANOX® Capsules were administered as a single 200-mg dose under fasted 
 (See PRECAUTIONS: Drug Interactions.)
 
 Itraconazole exposure is lower with the Capsule formulation than with the Oral Solution when the same dose of drug is given.
-(see WARNINGS)
+(See WARNINGS)
 
 ### Distribution
 

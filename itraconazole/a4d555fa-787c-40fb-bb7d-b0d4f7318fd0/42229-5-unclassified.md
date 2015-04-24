@@ -1,12 +1,12 @@
-© Janssen Pharmaceuticals, Inc 2001
+© Janssen Pharmaceuticals, Inc. 2001
 
-Revised: June 2014
+Revised: 04/2015
 
 Product of Ireland
 
 Capsule contents manufactured by:
 
-Janssen Pharmaceutica N.V.
+Janssen Pharmaceutica, NV.
 
 Olen, Belgium
 

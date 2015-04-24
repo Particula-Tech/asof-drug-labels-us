@@ -126,7 +126,7 @@ Table 5: Postmarketing Reports of Adverse Drug Reactions
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
 | Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
-| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia |
+| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
 | Cardiac Disorders: | Congestive heart failure |

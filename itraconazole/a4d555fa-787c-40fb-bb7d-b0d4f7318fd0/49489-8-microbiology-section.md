@@ -4,9 +4,9 @@
 
 In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
-## Activity In Vitro and In Vivo
+## Activity In Vitro and in Clinical Infections
 
-Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (see Description of Clinical Studies).
+Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE, Description of Clinical Studies).
 
 Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
 
