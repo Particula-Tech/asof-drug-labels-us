@@ -42,12 +42,13 @@ Chlorthalidone
 In patients with renal disease, chlorthalidone may precipitate azotemia.
 If progressive renal impairment becomes evident, as indicated by increased blood urea nitrogen, consider withholding or discontinuing diuretic therapy.
 
-## 5.4 Hypokalemia
+## 5.4 Serum Electrolyte Imbalances
 
-Chlorthalidone
-
+Thiazide diuretics can cause hyponatremia and hypokalemia.
+Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
 Hypokalemia is a dose-dependent adverse reaction that may develop with chlorthalidone.
 Co-administration of digitalis may exacerbate the adverse effects of hypokalemia.
+Monitor serum electrolytes periodically.
 
 Edarbyclor attenuates chlorthalidone-associated hypokalemia.
 In patients with normal potassium levels at baseline, 1.7% of Edarbyclor-treated patients, 0.9% of azilsartan medoxomil-treated patients, and 13.4% of chlorthalidone-treated patients shifted to low potassium values (less than 3.4 mmol/L).
