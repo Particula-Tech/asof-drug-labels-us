@@ -25,7 +25,7 @@ Bicillin C-R is intended for Intramuscular Injection ONLY.
 Do not inject into or near an artery or nerve, or intravenously or admix with other intravenous solutions.
 (See WARNINGS section).
 
-Administer by DEEP INTRAMUSCULAR INJECTION in the upper, outer quadrant of the buttock.
+Administer by DEEP INTRAMUSCULAR INJECTION in the upper, outer quadrant of the buttock (dorsogluteal) or the anterolateral thigh (ventrogluteal).
 In neonates, infants and small children, the midlateral aspect of the thigh may be preferable.
 When doses are repeated, vary the injection site.
 
