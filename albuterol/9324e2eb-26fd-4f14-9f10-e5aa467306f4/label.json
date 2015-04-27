@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205636"
+  ],
+  "inn": "albuterol",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-580-20"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "albuterol sulfate",
+      "name": "ProAir RespiClick"
+    }
+  ],
+  "setid": "9324e2eb-26fd-4f14-9f10-e5aa467306f4",
+  "source": "dailymed"
+}
