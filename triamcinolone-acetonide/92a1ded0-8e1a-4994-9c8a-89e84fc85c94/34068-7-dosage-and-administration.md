@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Apply to the affected area as a thin film as follows: Triamcinolone Acetonide Cream USP, 0.025% two to four times daily; Triamcinolone Acetonide Cream USP, 0.1% and 0.5% two or three times daily depending on the severity of the condition.
 Occlusive dressings may be used for the management of psoriasis or recalcitrant conditions.
