@@ -1,4 +1,4 @@
-For Infiltration and Nerve Block.
+For Infiltration and Nerve Block
 
 Rx only
 
@@ -33,7 +33,7 @@ The Injection is not to be used if its color is pinkish or darker than slightly 
 
 Table 1: Recommended Dosages
 
-| Procedure | Xylocaine (lidocaine hydrochloride)Injection (without epinephrine) |  |  |
+| Procedure | Xylocaine (lidocaine hydrochloride) Injection (without epinephrine) |  |  |
 | --- | --- | --- | --- |
 | Conc (%) | Vol (mL) | Total Dose (mg) |  |
 | Infiltration |  |  |  |
@@ -78,6 +78,6 @@ Manufactured for:
 
 Made in Norway
 
-451142E
+451142F
 
-Revised: June 2013
+Revised: January 2015

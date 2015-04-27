@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Lidocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses thereby effecting local anesthetic action.
+Lidocaine HCl stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses thereby effecting local anesthetic action.
 
 ## Hemodynamics
 
@@ -12,27 +12,27 @@ The net effect is normally a modest hypotension when the recommended dosages are
 
 ## Pharmacokinetics and Metabolism
 
-Information derived from diverse formulations, concentrations and usages reveals that lidocaine is completely absorbed following parenteral administration, its rate of absorption depending, for example, upon various factors such as the site of administration and the presence or absence of a vasoconstrictor agent.
+Information derived from diverse formulations, concentrations and usages reveals that lidocaine HCl is completely absorbed following parenteral administration, its rate of absorption depending, for example, upon various factors such as the site of administration and the presence or absence of a vasoconstrictor agent.
 Except for intravascular administration, the highest blood levels are obtained following intercostal nerve block and the lowest after subcutaneous administration.
 
-The plasma binding of lidocaine is dependent on drug concentration, and the fraction bound decreases with increasing concentration.
-At concentrations of 1 to 4 mcg of free base per mL 60 to 80 percent of lidocaine is protein bound.
+The plasma binding of lidocaine HCl is dependent on drug concentration, and the fraction bound decreases with increasing concentration.
+At concentrations of 1 to 4 mcg of freebase per mL 60 to 80 percent of lidocaine HCl is protein bound.
 Binding is also dependent on the plasma concentration of the alpha-1-acid glycoprotein.
 
-Lidocaine crosses the blood-brain and placental barriers, presumably by passive diffusion.
+Lidocaine HCl crosses the blood-brain and placental barriers, presumably by passive diffusion.
 
-Lidocaine is metabolized rapidly by the liver, and metabolites and unchanged drug are excreted by the kidneys.
+Lidocaine HCl is metabolized rapidly by the liver, and metabolites and unchanged drug are excreted by the kidneys.
 Biotransformation includes oxidative N-dealkylation, ring hydroxylation, cleavage of the amide linkage, and conjugation.
 N-dealkylation, a major pathway of biotransformation, yields the metabolites monoethylglycinexylidide and glycinexylidide.
-The pharmacological/toxicological actions of these metabolites are similar to, but less potent than, those of lidocaine.
-Approximately 90% of lidocaine administered is excreted in the form of various metabolites, and less than 10% is excreted unchanged.
+The pharmacological/toxicological actions of these metabolites are similar to, but less potent than, those of lidocaine HCl.
+Approximately 90% of lidocaine HCl administered is excreted in the form of various metabolites, and less than 10% is excreted unchanged.
 The primary metabolite in urine is a conjugate of 4-hydroxy-2,6-dimethylaniline.
 
-The elimination half-life of lidocaine following an intravenous bolus injection is typically 1.5 to 2 hours.
-Because of the rapid rate at which lidocaine is metabolized, any condition that affects liver function may alter lidocaine kinetics.
+The elimination half-life of lidocaine HCl following an intravenous bolus injection is typically 1.5 to 2 hours.
+Because of the rapid rate at which lidocaine HCl is metabolized, any condition that affects liver function may alter lidocaine HCl kinetics.
 The half-life may be prolonged two-fold or more in patients with liver dysfunction.
-Renal dysfunction does not affect lidocaine kinetics but may increase the accumulation of metabolites.
+Renal dysfunction does not affect lidocaine HCl kinetics but may increase the accumulation of metabolites.
 
-Factors such as acidosis and the use of CNS stimulants and depressants affect the CNS levels of lidocaine required to produce overt systemic effects.
+Factors such as acidosis and the use of CNS stimulants and depressants affect the CNS levels of lidocaine HCl required to produce overt systemic effects.
 Objective adverse manifestations become increasingly apparent with increasing venous plasma levels above 6 mcg free base per mL.
 In the rhesus monkey arterial blood levels of 18 to 21 mcg/mL have been shown to be threshold for convulsive activity.

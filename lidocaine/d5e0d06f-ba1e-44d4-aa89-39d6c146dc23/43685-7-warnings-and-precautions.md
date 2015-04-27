@@ -18,12 +18,15 @@ Local anesthetic solutions containing antimicrobial preservatives (e.g., methylp
 Xylocaine with epinephrine solutions contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.
+Anaphylactic reactions may occur following administration of lidocaine hydrochloride (see ADVERSE REACTIONS).
+
+In the case of severe reaction, discontinue the use of the drug.
 
 # PRECAUTIONS
 
 ## General
 
-The safety and effectiveness of lidocaine depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+The safety and effectiveness of lidocaine HCl depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
 Standard textbooks should be consulted for specific techniques and precautions for various regional anesthetic procedures.
 
 Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
@@ -32,10 +35,10 @@ Syringe aspirations should also be performed before and during each supplemental
 During the administration of epidural anesthesia, it is recommended that a test dose be administered initially and that the patient be monitored for central nervous system toxicity and cardiovascular toxicity, as well as for signs of unintended intrathecal administration, before proceeding.
 When clinical conditions permit, consideration should be given to employing local anesthetic solutions that contain epinephrine for the test dose because circulatory changes compatible with epinephrine may also serve as a warning sign of unintended intravascular injection.
 An intravascular injection is still possible even if aspirations for blood are negative.
-Repeated doses of lidocaine may cause significant increases in blood levels with each repeated dose because of slow accumulation of the drug or its metabolites.
+Repeated doses of lidocaine HCl may cause significant increases in blood levels with each repeated dose because of slow accumulation of the drug or its metabolites.
 Tolerance to elevated blood levels varies with the status of the patient.
 Debilitated, elderly patients, acutely ill patients, and children should be given reduced doses commensurate with their age and physical condition.
-Lidocaine should also be used with caution in patients with severe shock or heart block.
+Lidocaine HCl should also be used with caution in patients with severe shock or heart block.
 
 Lumbar and caudal epidural anesthesia should be used with extreme caution in persons with the following conditions: existing neurological disease, spinal deformities, septicemia, and severe hypertension.
 
@@ -59,8 +62,8 @@ Successful outcome is dependent on early diagnosis, prompt discontinuance of the
 Proper tourniquet technique, as described in publications and standard textbooks, is essential in the performance of intravenous regional anesthesia.
 Solutions containing epinephrine or other vasoconstrictors should not be used for this technique.
 
-Lidocaine should be used with caution in persons with known drug sensitivities.
-Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross sensitivity to lidocaine.
+Lidocaine HCl should be used with caution in persons with known drug sensitivities.
+Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross-sensitivity to lidocaine HCl.
 
 ## Use in the Head and Neck Area
 
@@ -88,23 +91,23 @@ Concurrent administration of vasopressor drugs (for the treatment of hypotension
 
 ## Drug/Laboratory Test Interactions
 
-The intramuscular injection of lidocaine may result in an increase in creatine phosphokinase levels.
-Thus, the use of this enzyme determination, without isoenzyme separation, as a diagnostic test for the presence of acute myocardial infarction may be compromised by the intramuscular injection of lidocaine.
+The intramuscular injection of lidocaine HCl may result in an increase in creatine phosphokinase levels.
+Thus, the use of this enzyme determination, without isoenzyme separation, as a diagnostic test for the presence of acute myocardial infarction may be compromised by the intramuscular injection of lidocaine HCl.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Studies of lidocaine in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
+Studies of lidocaine HCl in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine.
+Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine HCl.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Animal reproduction studies are not always predictive of human response.
-General consideration should be given to this fact before administering lidocaine to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.
+General consideration should be given to this fact before administering lidocaine HCl to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.
 
 ## Labor and Delivery
 
-Local anesthetics rapidly cross the placenta and when used for epidural, paracervical, pudendal or caudal block anesthesia, can cause varying degrees of maternal, fetal and neonatal toxicity (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Local anesthetics rapidly cross the placenta and when used for epidural, paracervical, pudendal or caudal block anesthesia, can cause varying degrees of maternal, fetal and neonatal toxicity (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
 The potential for toxicity depends upon the procedure performed, the type and amount of drug used, and the technique of drug administration.
 Adverse reactions in the parturient, fetus and neonate involve alterations of the central nervous system, peripheral vascular tone and cardiac function.
 
@@ -138,7 +141,7 @@ Allow a 5-minute interval between sides.
 ## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when lidocaine is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when lidocaine HCl is administered to a nursing woman.
 
 ## Pediatric Use
 

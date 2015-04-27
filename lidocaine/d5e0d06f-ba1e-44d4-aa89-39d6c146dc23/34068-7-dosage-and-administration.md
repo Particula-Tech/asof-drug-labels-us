@@ -15,7 +15,7 @@ Dosages should be reduced for children and for the elderly and debilitated patie
 The onset of anesthesia, the duration of anesthesia and the degree of muscular relaxation are proportional to the volume and concentration (i.e., total dose) of local anesthetic used.
 Thus, an increase in volume and concentration of Xylocaine Injection will decrease the onset of anesthesia, prolong the duration of anesthesia, provide a greater degree of muscular relaxation and increase the segmental spread of anesthesia.
 However, increasing the volume and concentration of Xylocaine Injection may result in a more profound fall in blood pressure when used in epidural anesthesia.
-Although the incidence of side effects with lidocaine is quite low, caution should be exercised when employing large volumes and concentrations, since the incidence of side effects is directly proportional to the total dose of local anesthetic agent injected.
+Although the incidence of side effects with lidocaine HCl is quite low, caution should be exercised when employing large volumes and concentrations, since the incidence of side effects is directly proportional to the total dose of local anesthetic agent injected.
 
 For intravenous regional anesthesia, only the 50 mL single dose vial containing Xylocaine (lidocaine HCl) 0.5% Injection should be used.
 
@@ -46,10 +46,10 @@ In epidural anesthesia, the dosage varies with the number of dermatomes to be an
 
 ## Caudal and Lumbar Epidural Block
 
-As a precaution against the adverse experience sometimes observed following unintentional penetration of the subarachnoid space, a test dose such as 2 to 3 mL of 1.5% lidocaine should be administered at least 5 minutes prior to injecting the total volume required for a lumbar or caudal epidural block.
+As a precaution against the adverse experience sometimes observed following unintentional penetration of the subarachnoid space, a test dose such as 2 to 3 mL of 1.5% lidocaine HCl should be administered at least 5 minutes prior to injecting the total volume required for a lumbar or caudal epidural block.
 The test dose should be repeated if the patient is moved in a manner that may have displaced the catheter.
 Epinephrine, if contained in the test dose (10 to 15 mcg have been suggested), may serve as a warning of unintentional intravascular injection.
-If injected into a blood vessel, this amount of epinephrine is likely to produce a transient “epinephrine response” within 45 seconds, consisting of an increase in heart rate and systolic blood pressure, circumoral pallor, palpitations and nervousness in the unsedated patient.
+If injected into a blood vessel, this amount of epinephrine is likely to produce a transient“epinephrine response” within 45 seconds, consisting of an increase in heart rate and systolic blood pressure, circumoral pallor, palpitations and nervousness in the unsedated patient.
 The sedated patient may exhibit only a pulse rate increase of 20 or more beats per minute for 15 or more seconds.
 Patients on beta blockers may not manifest changes in heart rate, but blood pressure monitoring can detect an evanescent rise in systolic blood pressure.
 Adequate time should be allowed for onset of anesthesia after administration of each test dose.
