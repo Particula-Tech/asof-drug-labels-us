@@ -123,9 +123,17 @@ In Study 3, cough events were reported by three patients in the TOBI Podhaler gr
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reaction has been identified during postapproval use of TOBI Podhaler.
+The following adverse reactions have been identified during postapproval use of TOBI Podhaler.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Nervous system disorders
 
 Aphonia
+
+Respiratory, thoracic, and mediastinal disorders
+
+Sputum discolored
+
+General disorders and administration site conditions
+
+Malaise

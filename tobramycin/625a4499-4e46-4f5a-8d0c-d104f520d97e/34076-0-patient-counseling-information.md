@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Information for Patients
 
-Information on the long term efficacy and safety of TOBI Podhaler is limited.
+Information on the long-term efficacy and safety of TOBI Podhaler is limited.
 There is no information in patients with limited pulmonary reserve (FEV1 <25% predicted).
 Decreased susceptibility of Pseudomonas aeruginosa to tobramycin has been seen with use of TOBI Podhaler.
 The relationship between in vitro susceptibility test results and clinical outcome with TOBI Podhaler therapy is not clear.
@@ -59,4 +59,4 @@ Cough
 Inform patients that cough was reported with the use of TOBI Podhaler in clinical trials.
 If coughing that may be experienced with TOBI Podhaler becomes bothersome or cannot be tolerated, advise patients that tobramycin inhalation solution or alternative therapeutic options may be considered.
 
-T2014-106 November 2014
+T2015-39 March 2015

@@ -53,7 +53,7 @@ Tobramycin is an aminoglycoside antimicrobial produced by Streptomyces tenebrari
 It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death.
 
 Tobramycin has in vitro activity against Gram-negative bacteria including P. aeruginosa.
-It is bactericidal in vitro at peak concentrations equal to or slightly greater than the minimum inhibitory concentration.
+It is bactericidal in vitro at peak concentrations equal to or slightly greater than the minimum inhibitory concentration (MIC).
 
 Susceptibility Testing
 
@@ -76,4 +76,4 @@ As other anti-pseudomonal antibiotics were concomitantly utilized in many patien
 
 Other
 
-No trends were observed in the isolation of treatment-emergent bacterial respiratory pathogens (Burkholderia cepacia, Stenotrophomonas maltophilia, Staphylococcus aureus and Achromobacter xylosoxidans).
+No trends were observed in the isolation of treatment-emergent bacterial respiratory pathogens (Burkholderia cepacia, Stenotrophomonas maltophilia, Staphylococcus aureus, and Achromobacter xylosoxidans).

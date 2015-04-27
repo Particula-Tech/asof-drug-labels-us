@@ -18,14 +18,14 @@ Each TOBI Podhaler package contains (See Figure A):
 
 Or:
 
-- A 7 day pack (7-day supply) containing:
+- A 7-day pack (7-day supply) containing:
   - 56 capsules (7 blister cards of 8 capsules).
     Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
   - 1 Podhaler device and its storage case
 
 Or:
 
-- A 1 day pack (1-day supply) containing:
+- A 1-day pack (1-day supply) containing:
   - 8 capsules (1 blister card of 8 capsules).
     Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
   - 1 Podhaler device and its storage case
@@ -36,7 +36,7 @@ Please note the following:
   The powder in the capsule is for you to inhale using the Podhaler device.
 - Only use the Podhaler device contained in this pack.
   Do not use TOBI Podhaler capsules with any other device, and do not use the Podhaler device to take any other medicine.
-- When you start a new weekly (7 day) pack of capsules, use the new Podhaler device that is supplied in the pack and discard the used device and its case.
+- When you start a new weekly (7-day) pack of capsules, use the new Podhaler device that is supplied in the pack and discard the used device and its case.
   Each Podhaler device is only used for one week (7 days).
 - Always keep the TOBI Podhaler capsules in the blister card.
   Only remove 1 capsule at a time just before you are going to use it.
@@ -139,4 +139,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
 
 © Novartis
 
-T2014-108 November 2014
+T2015-41 March 2015

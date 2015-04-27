@@ -77,7 +77,7 @@ How should I use TOBI Podhaler?
   Do not double the dose to make up for the missed dose.
 - After using TOBI Podhaler for 28 days, you should stop using it and wait 28 days.
   After you have stopped using TOBI Podhaler for 28 days, you should start using TOBI Podhaler again for 28 days.
-  Complete the full 28 day course even if you are feeling better.
+  Complete the full 28-day course even if you are feeling better.
   It is important that you keep to the 28-day on, 28-day off cycle (See Figure A).
 
 - If you have been prescribed a 7-day pack of TOBI Podhaler either immediately before or during a 28-day treatment with TOBI Podhaler, then you must count each day of use toward the 28-day on-treatment part of the cycle.
@@ -161,4 +161,4 @@ Some people do not get this infection until later in their lives, while others g
 It is one of the most damaging bacteria for people with cystic fibrosis.
 If the infection is not properly managed, it will continue to damage your lungs causing further problems to your breathing.
 
-T2014-107 November 2014
+T2015-40 March 2015

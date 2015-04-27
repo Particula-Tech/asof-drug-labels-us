@@ -8,7 +8,7 @@ Among the 76 patients treated with TOBI Podhaler, 37% were males and 63% were fe
 Thirty-six patients were between 6 and 12 years of age, and 40 patients were between 13 and 21 years of age.
 Patients had a mean baseline FEV1 of 56% of predicted normal value.
 
-In both studies, >90% of patients received concomitant therapies for cystic fibrosis related indications.
+In both studies, >90% of patients received concomitant therapies for cystic fibrosis-related indications.
 The most frequently used other antibacterial drugs (any route of administration) were azithromycin, ciprofloxacin, and ceftazidime.
 Consistent with the population of cystic fibrosis patients, the most frequently used concomitant medications included oral pancreatic enzyme preparations, mucolytics (especially dornase alfa), and selective β2-adrenoreceptor agonists.
 
