@@ -55,4 +55,4 @@ Table 8.
 
 The duration of effect of famotidine I.V.
 0.5 mg/kg on gastric pH and acid suppression was shown in one study to be longer in pediatric patients <1 month of age than in older pediatric patients.
-This longer duration of gastric acid suppression is consistent with the decreased clearance in pediatric patients <3 months of age (see Table 6.).
+This longer duration of gastric acid suppression is consistent with the decreased clearance in pediatric patients <3 months of age (see Table 6).
