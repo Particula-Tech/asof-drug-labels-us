@@ -10,11 +10,11 @@ For Medical Information Contact: Medical Affairs Department Phone: (866) 822-006
 
 Marketed by UCB, Inc. Smyrna, GA 30080
 
-Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623
+Made in USA
 
-12/2013
+Rev.
+02/2015
 
 METADATE CD is a registered trademark of the UCB Group of companies
 
-©2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in U.S.A.
+©2015, UCB, Inc., Smyrna, GA 30080 All rights reserved.

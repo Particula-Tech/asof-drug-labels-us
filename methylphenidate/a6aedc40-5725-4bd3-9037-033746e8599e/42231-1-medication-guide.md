@@ -144,9 +144,11 @@ The individual capsules contain the following coloring agents: 10 mg capsules: F
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Marketed by UCB, Inc. Smyrna, GA 30080 Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623
+Marketed by UCB, Inc. Smyrna, GA 30080
 
-METADATE CD is a registered trademark of the UCB Group of companies ©2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in U.S.A.
+Made in USA
 
-12/2013
+METADATE CD is a registered trademark of the UCB Group of companies ©2014, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+
+Rev.
+06/2014
