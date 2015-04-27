@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA205831"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Rhodes Pharmaceuticals L.P.",
+  "package_ndcs": [
+    "42858-401-45",
+    "42858-402-45",
+    "42858-403-45",
+    "42858-404-45",
+    "42858-405-45",
+    "42858-406-45",
+    "42858-407-45"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "(methylphenidate hydrochloride)",
+      "name": "APTENSIO XR"
+    }
+  ],
+  "setid": "5adedc01-ebf0-11e3-ac10-0800200c9a66",
+  "source": "dailymed"
+}
