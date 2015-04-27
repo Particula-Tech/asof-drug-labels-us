@@ -1,25 +1,25 @@
 # ADVERSE REACTIONS
 
-TOBI® was generally well tolerated during two clinical studies in 258 cystic fibrosis patients ranging in age from 6 to 48 years.
-Patients received TOBI® in alternating periods of 28 days on and 28 days off drug in addition to their standard cystic fibrosis therapy for a total of 24 weeks.
+TOBI was generally well tolerated during two clinical studies in 258 cystic fibrosis patients ranging in age from 6 to 48 years.
+Patients received TOBI in alternating periods of 28 days on and 28 days off drug in addition to their standard cystic fibrosis therapy for a total of 24 weeks.
 
-Voice alteration and tinnitus were the only adverse experiences reported by significantly more TOBI® -treated patients.
-Thirty-three patients (13%) treated with TOBI® complained of voice alteration compared to 17 (7%) placebo patients.
+Voice alteration and tinnitus were the only adverse experiences reported by significantly more TOBI-treated patients.
+Thirty-three patients (13%) treated with TOBI complained of voice alteration compared to 17 (7%) placebo patients.
 Voice alteration was more common in the on-drug periods.
 
-Eight patients from the TOBI® group (3%) reported tinnitus compared to no placebo patients.
-All episodes were transient, resolved without discontinuation of the TOBI® treatment regimen, and were not associated with loss of hearing in audiograms.
+Eight patients from the TOBI group (3%) reported tinnitus compared to no placebo patients.
+All episodes were transient, resolved without discontinuation of the TOBI treatment regimen, and were not associated with loss of hearing in audiograms.
 Tinnitus is one of the sentinel symptoms of cochlear toxicity, and patients with this symptom should be carefully monitored for high frequency hearing loss.
-The numbers of patients reporting vestibular adverse experiences such as dizziness were similar in the TOBI® and placebo groups.
+The numbers of patients reporting vestibular adverse experiences such as dizziness were similar in the TOBI and placebo groups.
 
-Nine (3%) patients in the TOBI® group and nine (3%) patients in the placebo group had increases in serum creatinine of at least 50% over baseline.
-In all nine patients in the TOBI® group, creatinine decreased at the next visit.
+Nine (3%) patients in the TOBI group and nine (3%) patients in the placebo group had increases in serum creatinine of at least 50% over baseline.
+In all nine patients in the TOBI group, creatinine decreased at the next visit.
 
-Table 1 lists the percent of patients with treatment-emergent adverse experiences (spontaneously reported and solicited) that occurred in >5% of TOBI® patients during the two Phase III studies.
+Table 1 lists the percent of patients with treatment-emergent adverse experiences (spontaneously reported and solicited) that occurred in >5% of TOBI patients during the two Phase III studies.
 
-Table 1: Percent of Patients With Treatment Emergent Adverse Experiences Occurring in >5% of TOBI® Patients
+Table 1: Percent of Patients With Treatment Emergent Adverse Experiences Occurring in >5% of TOBI Patients
 
-| Adverse Event | TOBI® (n=258) % | Placebo (n=262) % |
+| Adverse Event | TOBI (n=258) % | Placebo (n=262) % |
 | --- | --- | --- |
 | Cough Increased | 46.1 | 47.3 |
 | Pharyngitis | 38.0 | 39.3 |
@@ -89,4 +89,8 @@ Aphonia, dysgeusia
 
 Respiratory, thoracic, and mediastinal disorders
 
-Bronchospasm (see WARNINGS – Bronchospasm), oropharyngeal pain
+Bronchospasm (see WARNINGS–Bronchospasm), oropharyngeal pain, sputum increased, chest pain
+
+Metabolism and Nutrition Disorders
+
+Decreased appetite
