@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-(listed alphabetically, under each subsection)
+(Listed alphabetically, under each subsection)
 
 The following adverse reactions have been reported with dexamethasone or other corticosteroids:
 
