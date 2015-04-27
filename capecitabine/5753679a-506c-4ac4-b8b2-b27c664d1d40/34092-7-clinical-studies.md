@@ -74,6 +74,8 @@ Figure 1: Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Popula
 
 a Capecitabine has been demonstrated to be non-inferior to 5-FU/LV.
 
+Figure 2: Kaplan-Meier Estimates of Overall Survival (All Randomized Population)
+
 ## 14.2 Metastatic Colorectal Cancer
 
 General
@@ -140,6 +142,8 @@ Table 15: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 2)
 | Survival (Median, days, 95% C.I.) | 404 (367 to 452) | 369 (338 to 430) |
 | Hazard Ratio (Capecitabine/5-FU/LV) | 0.92 |  |
 | 95% C.I. for Hazard Ratio | (0.78 to 1.09) |  |
+
+Figure 3: Kaplan-Meier Curve for Overall Survival of Pooled Data (Studies 1 and 2)
 
 Capecitabine was superior to 5-FU/LV for objective response rate in Study 1 and Study 2.
 The similarity of capecitabine and 5-FU/LV in these studies was assessed by examining the potential difference between the two treatments.
@@ -208,6 +212,10 @@ Table 17: Efficacy of Capecitabine and Docetaxel Combination vs Docetaxel Monoth
 | Median Days | 442 | 352 | 0.0126 | 0.775 |
 | 95% C.I. | (375 to 497) | (298 to 387) |  |  |
 | Response RateThe response rate reported represents a reconciliation of the investigator and IRC assessments performed by the sponsor according to a predefined algorithm. | 32% | 22% | 0.009 | NA NA = Not Applicable |
+
+Figure 4: Kaplan-Meier Estimates for Time to Disease Progression Capecitabine and Docetaxel vs Docetaxel
+
+Figure 5: Kaplan-Meier Estimates of Survival Capecitabine and Docetaxel vs Docetaxel
 
 Monotherapy
 

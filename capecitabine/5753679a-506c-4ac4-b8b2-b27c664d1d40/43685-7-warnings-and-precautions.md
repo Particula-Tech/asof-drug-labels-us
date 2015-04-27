@@ -43,7 +43,7 @@ Dose modifications should be applied for the precipitating adverse event as nece
 
 Patients with moderate renal impairment at baseline require dose reduction [see Dosage and Administration (2.3)].
 Patients with mild and moderate renal impairment at baseline should be carefully monitored for adverse reactions.
-Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.2), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
+Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.2), Use in Specific Populations (8.7), and ClinicalPharmacology (12.3)].
 
 ## 5.6 Pregnancy
 
@@ -62,7 +62,7 @@ Grade 1 is characterized by any of the following: numbness, dysesthesia/paresthe
 Grade 2 hand-and-foot syndrome is defined as painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.
 Grade 3 hand-and-foot syndrome is defined as moist desquamation, ulceration, blistering or severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
 If grade 2 or 3 hand-and-foot syndrome occurs, administration of capecitabine should be interrupted until the event resolves or decreases in intensity to grade 1.
-Following grade 3 hand-and-foot syndrome, subsequent doses of capecitabine should be decreased [see Dosage and Administration (2.2)].
+Following grade 3 hand-and-foot syndrome, subsequent doses of capecitabine should be decreased [see Dosage andAdministration (2.2)].
 
 ## 5.8 Hyperbilirubinemia
 
@@ -79,7 +79,7 @@ Of the 136 colorectal cancer patients with grade 3 or 4 hyperbilirubinemia, 49 p
 
 In 251 patients with metastatic breast cancer who received a combination of capecitabine and docetaxel, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 7% (n = 17) and grade 4 (> 3 × ULN) hyperbilirubinemia occurred in 2% (n = 5).
 
-If drug-related grade 3 to 4 elevations in bilirubin occur, administration of capecitabine should be immediately interrupted until the hyperbilirubinemia decreases to ≤ 3 X ULN [see recommended dose modifications under Dosage and Administration (2.2)].
+If drug-related grade 3 to 4 elevations in bilirubin occur, administration of capecitabine should be immediately interrupted until the hyperbilirubinemia decreases to ≤ 3 × ULN [see recommended dose modifications under Dosage and Administration (2.2)].
 
 ## 5.9 Hematologic
 

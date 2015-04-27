@@ -42,6 +42,8 @@ Some human carcinomas express this enzyme in higher concentrations than surround
 Following oral administration of capecitabine 7 days before surgery in patients with colorectal cancer, the median ratio of 5-FU concentration in colorectal tumors to adjacent tissues was 2.9 (range from 0.9 to 8).
 These ratios have not been evaluated in breast cancer patients or compared to 5-FU infusion.
 
+Metabolic Pathway of Capecitabine to 5-FU
+
 The enzyme dihydropyrimidine dehydrogenase hydrogenates 5-FU, the product of capecitabine metabolism, to the much less toxic 5-fluoro-5, 6-dihydro-fluorouracil (FUH2).
 Dihydropyrimidinase cleaves the pyrimidine ring to yield 5-fluoro-ureido-propionic acid (FUPA).
 Finally, β-ureido-propionase cleaves FUPA to α-fluoro-β-alanine (FBAL) which is cleared in the urine.

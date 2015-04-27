@@ -29,7 +29,7 @@ Table 1: Capecitabine Tablets Dose Calculation According to Body Surface Area
 
 In Combination With Docetaxel (Metastatic Breast Cancer)
 
-In combination with docetaxel, the recommended dose of capecitabine tablets are 1250 mg/m2 twice daily for 2 weeks followed by a 1-week rest period, combined with docetaxel at 75 mg/m2 as a 1-hour intravenous infusion every 3 weeks.
+In combination with docetaxel, the recommended dose of capecitabine tablets is 1250 mg/m2 twice daily for 2 weeks followed by a 1-week rest period, combined with docetaxel at 75 mg/m2 as a 1-hour intravenous infusion every 3 weeks.
 Pre-medication, according to the docetaxel labeling, should be started prior to docetaxel administration for patients receiving the capecitabine tablets plus docetaxel combination.
 Table 1 displays the total daily dose of capecitabine tablets by body surface area and the number of tablets to be taken at each dose.
 

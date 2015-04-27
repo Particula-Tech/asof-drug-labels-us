@@ -41,6 +41,7 @@ Talk to your doctor before taking capecitabine tablets if you are not sure if yo
 What should I tell my doctor before taking capecitabine tablets?
 
 See “What is the most important information I should know about capecitabine tablets?”.
+
 Before you take capecitabine tablets, tell your doctor if you:
 
 - •have had heart problems.
@@ -71,10 +72,10 @@ How should I take capecitabine tablets?
   Do not crush or cut capecitabine tablets.
 - •Ask your healthcare provider or pharmacist how to safely throw away any unused capecitabine tablets.
 - •If you have side effects with capecitabine tablets, if needed your doctor may decide to:
-- •change your dose of capecitabine tablets
-- •treat you with capecitabine tablets less often
-- •tell you to stop taking capecitabine tablets until certain side effects get better or go away
-- •stop your treatment with capecitabine tablets if you have certain side effects and they are severe
+  - •change your dose of capecitabine tablets
+  - •treat you with capecitabine tablets less often
+  - •tell you to stop taking capecitabine tablets until certain side effects get better or go away
+  - •stop your treatment with capecitabine tablets if you have certain side effects and they are severe
 - •If you take too many capecitabine tablets, call your doctor or go to the nearest emergency room right away.
 
 What are the possible side effects of capecitabine tablets?
@@ -91,12 +92,12 @@ See “What is the most important information I should know about capecitabine t
 - •heart problems.
   Capecitabine tablets can cause heart problems including: heart attack and decreased blood flow to the heart, chest pain, irregular heartbeats, changes in the electrical activity of your heart seen on an electrocardiogram (ECG), problems with your heart muscle, heart failure, and sudden death.
   Stop taking capecitabine tablets and call your doctor right away if you get any of the following symptoms:
-- ochest pain
-- oshortness of breath
-- ofeeling faint
-- oirregular heartbeats or skipping beats
-- osudden weight gain
-- oswollen ankles or legs
+  - ochest pain
+  - oshortness of breath
+  - ofeeling faint
+  - oirregular heartbeats or skipping beats
+  - osudden weight gain
+  - oswollen ankles or legs
 - •unexplained tiredness
 - •loss of too much body fluid (dehydration) and kidney failure.
 - Dehydration can happen with capecitabine tablets and may cause sudden kidney failure that can lead to death.
@@ -104,22 +105,21 @@ See “What is the most important information I should know about capecitabine t
 - Nausea, and vomiting are common with capecitabine tablets.
   If you lose your appetite, feel weak, and have nausea, vomiting, or diarrhea, you can quickly become dehydrated.
 - Stop taking capecitabine tablets and call your doctor right away if you:
-
-- •vomit 2 or more times in a day.
-- •are only able to eat or drink a little now and then, or not at all due to nausea.
-- •have diarrhea.
-  See “diarrhea” above.
+  1. •vomit 2 or more times in a day.
+  2. •are only able to eat or drink a little now and then, or not at all due to nausea.
+  3. •have diarrhea.
+     See “diarrhea” above.
 - •serious skin and mouth reactions.
-- •Capecitabine tablets can cause serious skin reactions that may lead to death.
-  Tell your doctor right away if you develop a skin rash, blisters and peeling of your skin.
-  Your doctor may tell you to stop taking capecitabine tablets if you have a serious skin reaction.
-  Do not take capecitabine tablets again if this happens.
-- •Capecitabine tablets can also cause “hand and foot syndrome.”
-  Hand and foot syndrome is common with capecitabine tablets and can cause you to have numbness and changes in sensation in your hands and feet, or cause redness, pain, swelling of your hands and feet.
-  Stop taking capecitabine tablets and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
-- •you may get sores in your mouth or on your tongue when taking capecitabine tablets.
-  Stop taking capecitabine tablets and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
-  Tell your doctor if you have any side effect that bothers you or that does not go away.
+  - •Capecitabine tablets can cause serious skin reactions that may lead to death.
+    Tell your doctor right away if you develop a skin rash, blisters and peeling of your skin.
+    Your doctor may tell you to stop taking capecitabine tablets if you have a serious skin reaction.
+    Do not take capecitabine tablets again if this happens.
+  - •Capecitabine tablets can also cause “hand and foot syndrome.”
+    Hand and foot syndrome is common with capecitabine tablets and can cause you to have numbness and changes in sensation in your hands and feet, or cause redness, pain, swelling of your hands and feet.
+    Stop taking capecitabine tablets and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
+  - •you may get sores in your mouth or on your tongue when taking capecitabine tablets.
+    Stop taking capecitabine tablets and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
+    Tell your doctor if you have any side effect that bothers you or that does not go away.
 - •increased level of bilirubin in your blood and liver problems.
   Increased bilirubin in your blood is common with capecitabine tablets.
   Your doctor will check you for these problems during treatment with capecitabine tablets.
