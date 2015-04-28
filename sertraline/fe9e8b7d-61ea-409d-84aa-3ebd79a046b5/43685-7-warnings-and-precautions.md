@@ -128,10 +128,6 @@ Caution is advisable in using ZOLOFT in patients with diseases or conditions tha
 Patients with a recent history of myocardial infarction or unstable heart disease were excluded from clinical studies during the product's premarket testing.
 However, the electrocardiograms of 774 patients who received ZOLOFT in double-blind trials were evaluated and the data indicate that ZOLOFT is not associated with the development of significant ECG abnormalities.
 
-During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
-The majority of reports occurred in patients with other risk factors for QTc prolongation/TdP.
-Therefore Zoloft should be used with caution in patients with risk factors for QTc prolongation.
-
 ZOLOFT administered in a flexible dose range of 50 to 200 mg/day (mean dose of 89 mg/day) was evaluated in a post-marketing, placebo-controlled trial of 372 randomized subjects with a DSM-IV diagnosis of major depressive disorder and recent history of myocardial infarction or unstable angina requiring hospitalization.
 Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dl), and clinically significant hepatic dysfunction.
 ZOLOFT treatment initiated during the acute phase of recovery (within 30 days post-MI or post-hospitalization for unstable angina) was indistinguishable from placebo in this study on the following week 16 treatment endpoints: left ventricular ejection fraction, total cardiovascular events (angina, chest pain, edema, palpitations, syncope, postural dizziness, CHF, MI, tachycardia, bradycardia, and changes in BP), and major cardiovascular events involving death or requiring hospitalization (for MI, CHF, stroke, or angina).
@@ -239,10 +235,6 @@ Accordingly, prothrombin time should be carefully monitored when ZOLOFT therapy 
 
 In a study assessing disposition of ZOLOFT (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were significant increases in ZOLOFT mean AUC (50%), Cmax (24%) and half-life (26%) compared to the placebo group.
 The clinical significance of these changes is unknown.
-
-### Drugs that Prolong the QT Interval
-
-The risk of QTc prolongation and/or ventricular arrhythmias (e.g., TdP) is increased with concomitant use of other drugs which prolong the QTc interval (e.g., some antipsychotics and antibiotics) (see PRECAUTIONS).
 
 ### CNS Active Drugs
 
