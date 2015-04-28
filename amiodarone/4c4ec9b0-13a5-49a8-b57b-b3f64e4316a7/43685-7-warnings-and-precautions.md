@@ -95,11 +95,6 @@ If the increase exceeds three times normal, or doubles in a patient with an elev
 In a few cases in which biopsy has been done, the histology has resembled that of alcoholic hepatitis or cirrhosis.
 Hepatic failure has been a rare cause of death in patients treated with amiodarone.
 
-## Severe Bullous Reactions
-
-Life-threatening or even fatal cutaneous reactions, Stevens-Johnson syndrome (SJS), Toxic Epidermal Necrolysis (TEN) (See "ADVERSE REACTIONS").
-If symptoms or signs of SJS, TEN (e.g., progressive skin rash often with blisters or mucosal lesions) are present amiodarone treatment should be discontinued immediately.
-
 ## Loss of Vision
 
 Cases of optic neuropathy and/or optic neuritis, usually resulting in visual impairment, have been reported in patients treated with amiodarone.
@@ -159,11 +154,11 @@ Because of its release of inorganic iodine, or perhaps for other reasons, amioda
 Thyroid function should be monitored prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter or other thyroid dysfunction.
 Because of the slow elimination of amiodarone and its metabolites, high plasma iodide levels, altered thyroid function and abnormal thyroid-function tests may persist for several weeks or even months following Pacerone® (Amiodarone HCl) Tablets withdrawal.
 
-Hypothyroidism has been reported in 2 to 4% of patients in most series, but in 8 to 10% in some series.
-This condition may be identified by relevant clinical symptoms and particularly by elevated serum TSH levels.
+Hypothyroidism has been reported in 2 to 10% of patients receiving amiodarone and may be primary or subsequent to resolution of preceding amiodarone-induced hyperthyroidism.
+This condition may be identified by clinical symptoms and elevated serum TSH levels.
+Cases of severe hypothyroidism and myxedema coma, sometimes fatal, have been reported in association with amiodarone therapy.
 In some clinically hypothyroid amiodarone-treated patients, free thyroxine index values may be normal.
-Hypothyroidism is best managed by Pacerone® Tablets dose reduction and/or thyroid hormone supplement.
-However, therapy must be individualized, and it may be necessary to discontinue Pacerone® Tablets in some patients.
+Manage hypothyroidism by reducing the dose of or discontinuing Pacerone® Tablets and considering the need for thyroid hormone supplement.
 
 Hyperthyroidism occurs in about 2% of patients receiving amiodarone, but the incidence may be higher among patients with prior inadequate dietary iodine intake.
 Amiodarone-induced hyperthyroidism usually poses a greater hazard to the patient than hypothyroidism because of the possibility of thyrotoxicosis and/or arrhythmia breakthrough or aggravation, all of which may result in death.
