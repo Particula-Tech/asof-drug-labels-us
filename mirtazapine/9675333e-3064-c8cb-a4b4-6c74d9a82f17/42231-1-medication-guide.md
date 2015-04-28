@@ -1,6 +1,6 @@
 # Medication Guide
 
-Mirtazapine (mir taz’ a peen) Tablets, USP
+Mirtazapine Tablets, USP (mir taz’ a peen)
 
 Read the Medication Guide that comes with mirtazapine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -65,9 +65,19 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 5.
-Seizures
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 6.
+Seizures
+
+7.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -76,26 +86,26 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-7.
+8.
 Sleepiness.
 It is best to take mirtazapine tablets close to bedtime.
 
-8.
+9.
 Severe skin reactions: Call your doctor right away if you have any or all of the following symptoms:
 
 - severe rash with skin swelling (including on the palms of the hands and soles of the feet)
 - painful reddening of the skin and/or blisters/ulcers on the body or in the mouth
 
-9.
+10.
 Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
 
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-10.
+11.
 Increases in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
-11.
+12.
 Increased cholesterol and triglyceride levels in your blood
 
 Do not stop mirtazapine tablets without first talking to your healthcare provider.
@@ -129,7 +139,7 @@ Do not take mirtazapine tablets:
   See the end of this Medication Guide for a complete list of ingredients in mirtazapine tablets.
 - If you take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- Do not take an MAOI within 2 weeks of stopping mirtazapine tablets unless directed by to do so by your physician.
+- Do not take an MAOI within 2 weeks of stopping mirtazapine tablets unless directed to do so by your physician.
 - Do not start mirtazapine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take mirtazapine tablets close in time to an MAOI may have serious or even life- threatening side effects.
@@ -164,7 +174,7 @@ Before starting mirtazapine tablets, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if mirtazapine tablets will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   Some mirtazapine tablets may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking mirtazapine tablets
 
@@ -236,24 +246,20 @@ This Medication Guide summarizes the most important information about mirtazapin
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about mirtazapine tablets that is written for healthcare professionals.
 
+For more information about mirtazapine tablets call 1-800-706-5575.
+
 What are the ingredients in mirtazapine tablets, USP?
 
 Active ingredient: mirtazapine.
 
 Inactive ingredients:
 
-- 15mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and yellow iron oxide.
-- 30mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide, yellow iron oxide and red iron oxide.
+- 15mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron oxide yellow.
+- 30mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide, iron oxide yellow and iron oxide red.
 - 45mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Manufactured for:
+Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Apotex Inc. Apotex Corp.
-
-Toronto, Ontario Weston, Florida
-
-Canada M9L 1T9 33326
-
-Revised: October 2013
+Revised: April 2015

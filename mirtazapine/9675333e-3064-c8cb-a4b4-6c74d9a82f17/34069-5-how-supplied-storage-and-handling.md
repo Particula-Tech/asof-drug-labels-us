@@ -37,21 +37,11 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 Protect from light and moisture.
 
-APOTEX INC.
+APOTEX INC. MIRTAZAPINE TABLETS, USP 15 mg, 30 mg and 45 mg
 
-MIRTAZAPINE TABLETS, USP
+Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-15 mg, 30 mg and 45 mg
-
-Manufactured by: Manufactured for:
-
-Apotex Inc. Apotex Corp.
-
-Toronto, Ontario Weston, Florida
-
-Canada M9L 1T9 33326
-
-Revised: October 2013
+Revised: April 2015
 
 Rev.
-9
+10

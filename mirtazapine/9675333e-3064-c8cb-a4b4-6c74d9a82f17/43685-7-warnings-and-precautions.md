@@ -75,6 +75,10 @@ If concomitant use of mirtazapine with other serotonergic drugs, including tript
 
 Treatment with mirtazapine tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 # PRECAUTIONS
 
 ## General
@@ -259,7 +263,7 @@ In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg d
 Warfarin
 
 In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
-As at a higher dose of mirtazapine, a more pronounced effect cannot be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
 
 Lithium
 

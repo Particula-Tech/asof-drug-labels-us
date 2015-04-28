@@ -132,7 +132,7 @@ Frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, he
 
 ### Special Senses
 
-Infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
+Infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma, (including angle-closure glaucoma), hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 
 ### Urogenital System
 

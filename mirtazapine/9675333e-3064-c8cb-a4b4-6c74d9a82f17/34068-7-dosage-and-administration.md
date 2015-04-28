@@ -43,3 +43,10 @@ Symptoms associated with the discontinuation or dose reduction of mirtazapine ta
 Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.
 A gradual reduction in the dose over several weeks, rather than abrupt cessation, is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, dose titration should be managed on the basis of the patient’s clinical response (see PRECAUTIONS and ADVERSE REACTIONS).
+
+## Information for Patients
+
+Patients should be advised that taking mirtazapine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre- existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.

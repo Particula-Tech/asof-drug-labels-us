@@ -10,4 +10,4 @@ Mirtazapine is a white to creamy white crystalline powder, which is sparingly so
 
 Mirtazapine tablets, USP are supplied for oral administration as scored film-coated tablets containing 15 or 30 mg of mirtazapine, and unscored film-coated tablets containing 45 mg of mirtazapine.
 Each tablet also contains the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
-In addition, mirtazapine tablets, USP 15 mg and 30 mg contain yellow iron oxide and mirtazapine tablets, USP 30 mg contains red iron oxide.
+In addition, mirtazapine tablets, USP 15 mg and 30 mg contains iron oxide yellow and mirtazapine tablets, USP 30 mg contains iron oxide red.
