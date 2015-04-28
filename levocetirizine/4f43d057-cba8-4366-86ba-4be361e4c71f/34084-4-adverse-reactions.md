@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of levocetirizine dihydrochloride has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions(5)].
+Use of levocetirizine dihydrochloride has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions (5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,7 +28,7 @@ Table 1 lists adverse reactions that were reported in greater than or equal to 2
 
 Table 1: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to Levocetirizine Dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
 
-| Adverse Reactions | Levocetirizine Dihydrochloride2.5 mg(n = 421) | Levocetirizine Dihydrochloride5 mg(n = 1070) | Placebo(n = 912) |
+| Adverse Reactions | Levocetirizine Dihydrochloride 2.5 mg (n = 421) | Levocetirizine Dihydrochloride 5 mg (n = 1070) | Placebo (n = 912) |
 | --- | --- | --- | --- |
 | Somnolence | 22 (5%) | 61 (6%) | 16 (2%) |
 | Nasopharyngitis | 25 (6%) | 40 (4%) | 28 (3%) |
@@ -46,7 +46,7 @@ Table 2 lists adverse reactions that were reported in greater than or equal to 2
 
 Table 2: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 6 to 12 Years Exposed to Levocetirizine Dihydrochloride 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
-| Adverse Reactions | Levocetirizine Dihydrochloride5 mg(n = 243) | Placebo(n = 240) |
+| Adverse Reactions | Levocetirizine Dihydrochloride 5 mg (n = 243) | Placebo (n = 240) |
 | --- | --- | --- |
 | Pyrexia | 10 (4%) | 5 (2%) |
 | Cough | 8 (3%) | 2 (< 1%) |

@@ -47,7 +47,7 @@ Table 5: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of in
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estimate | 95% CI | p-value |  |  |  |  |
+| Estimate | 95% CI |  | p-value |  |  |  |
 | Seasonal Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
 | Levocetirizine Dihydrochloride 5 mg | 118 | 8.40 | 5.20 | 0.89 | (0.30, 1.47) | 0.003 |
 | Placebo | 117 | 8.50 | 6.09 |  |  |  |

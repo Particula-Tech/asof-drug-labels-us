@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Levocetirizine Dihydrochloride Tablets 5 mg 90s Label Text
 
