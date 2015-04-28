@@ -8,6 +8,15 @@ Although rare, fatalities have been reported.
 
 If an allergic reaction occurs, the drug should be discontinued and appropriate therapy instituted.
 
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Tobramycin for Injection, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
 # PRECAUTIONS
 
 ## General
@@ -62,10 +71,6 @@ Such inactivation has not been found in patients with normal renal function who 
 Therapy with tobramycin may result in overgrowth of nonsusceptible organisms.
 If overgrowth of nonsusceptible organisms occurs, appropriate therapy should be initiated.
 
-## Pediatric Use
-
-See Indications and Usage and Dosage and Administration.
-
 ## Information for Patients
 
 Patients should be counseled that antibacterial drugs including tobramycin should only be used to treat bacterial infections.
@@ -81,3 +86,15 @@ If tobramycin is used during pregnancy or if the patient becomes pregnant while 
 Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
+
+Pediatric Use See Indications and Usage and Dosage and Administration.
+
+Geriatric Use Elderly patients may be at a higher risk of developing nephrotoxicity and ototoxicity while receiving tobramycin (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
+Other factors that may contribute to nephrotoxicity and ototoxicity are rising trough levels, excessive peak concentrations, dehydration, concomitant use of other neurotoxic or nephrotoxic drugs, and cumulative dose.
+Peak and trough serum levels should be measured periodically during therapy to assure adequate levels and to avoid potentially toxic levels (see WARNINGS and PRECAUTIONS).
+Tobramycin is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION).
+Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.
+A creatinine clearance determination may be more useful.
+Monitoring of renal function during treatment with aminoglycosides is particularly important in the elderly (see PRECAUTIONS).
+
+This product does not contain sodium.

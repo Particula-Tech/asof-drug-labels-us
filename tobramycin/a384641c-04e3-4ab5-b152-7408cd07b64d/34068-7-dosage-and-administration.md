@@ -6,7 +6,7 @@ Tobramycin for Injection may be given intravenously.
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
 It is desirable to measure both peak and trough serum concentrations (see Warnings box and Precautions).
 
-Administration for Patients With Normal Renal Function-Adults-With Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (seeTable 1).
+Administration for Patients With Normal Renal Function-Adults-With Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours(seeTable 1).
 
 Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (seeTable 1).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
