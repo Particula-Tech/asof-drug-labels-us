@@ -2,10 +2,10 @@
 
 The most serious adverse reactions seen in Asacol HD clinical trials or with other products that contain mesalamine or are metabolized to mesalamine were:
 
-- •Renal impairment, including renal failure (rare) [see Warnings and Precautions (5.1)]
-- •Acute intolerance syndrome [see Warnings and Precautions (5.2)]
-- •Hypersensitivity reactions [see Warnings and Precautions (5.3)]
-- •Hepatic failure [see Warnings and Precautions (5.4)]
+- Renal impairment, including renal failure (rare) [see Warnings and Precautions (5.1)]
+- Acute intolerance syndrome [see Warnings and Precautions (5.2)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.3)]
+- Hepatic failure [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
