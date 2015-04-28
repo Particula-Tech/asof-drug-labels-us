@@ -25,8 +25,8 @@ X-GEN Pharmaceuticals, Inc.Big Flats, NY 14814
 
 United States of America
 
-11/2012
+05/2013
 
-ROCU-PI-01
+ROCU-PI-02
 
 Manufactured in Germany
