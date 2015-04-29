@@ -80,7 +80,7 @@ Concomitant administration of omeprazole and tacrolimus may increase the serum l
 
 ## 7.5 Interactions with Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.10) and Clinical Pharmacology (12)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)andClinical Pharmacology (12)].
 
 ## 7.6 Combination Therapy with Clarithromycin
 

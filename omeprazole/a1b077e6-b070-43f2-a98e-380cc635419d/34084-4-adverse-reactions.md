@@ -40,7 +40,7 @@ None of these occurred at a higher frequency than that reported by patients taki
 The following adverse reactions have been identified during post-approval use of PRILOSEC Delayed-Release Capsules.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise;
+Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, elevated blood pressure, peripheral edema
 

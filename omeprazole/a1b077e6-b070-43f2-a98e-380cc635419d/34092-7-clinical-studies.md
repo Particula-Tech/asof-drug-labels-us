@@ -67,7 +67,7 @@ Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 p
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to PRILOSEC and clarithromycin monotherapies.
 Studies 6 and 7 were conducted in Europe and enrolled 154 and 215 patients, respectively.
-H. pylori infection and duodenal ulcer were confirmed in 148 patients in study 6 and 208 patients in Study 7.
+H. pylori infection and duodenal ulcer were confirmed in 148 patients in Study 6 and 208 patients in Study 7.
 These studies compared the combination regimen with omeprazole monotherapy.
 The results for the efficacy analyses for these studies are described below.
 H. pylori eradication was defined as no positive test (culture or histology) at 4 weeks following the end of treatment, and two negative tests were required to be considered eradicated of H. pylori.
@@ -139,17 +139,17 @@ Results are shown below.
 
 |  | PRILOSEC 20 mg a.m. | PRILOSEC 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
-| All patients | 46(p < 0.005) versus 10 mg(p < 0l.005) versus placebo(n = 205) | 31(n = 199) | 13 (n = 105) |
+| All patients | 46(p < 0.005) versus 10 mg(p < 0.005) versus placebo(n = 205) | 31(n = 199) | 13 (n = 105) |
 | Patients with confirmed GERD | 56(n = 115) | 36(n = 109) | 14 (n = 59) |
 
 ## 14.4 Erosive Esophagitis
 
 In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of PRILOSEC Delayed-Release Capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
-| Week | 20 mgPRILOSEC(n = 83) | 40 mgPRILOSEC(n = 87) | Placebo(n = 43) |
+|  | 20 mgPRILOSEC(n = 83) | 40 mgPRILOSEC(n = 87) | Placebo(n = 43) |
 | --- | --- | --- | --- |
-| 4 | 39(p < 0.01) PRILOSEC versus placebo | 45 | 7 |
-| 8 | 74 | 75 | 14 |
+| Week 4 | 39(p < 0.01) PRILOSEC versus placebo | 45 | 7 |
+| Week 8 | 74 | 75 | 14 |
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of PRILOSEC in the percentage healing rate.
 Other controlled clinical trials have also shown that PRILOSEC is effective in severe GERD.

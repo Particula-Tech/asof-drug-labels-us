@@ -155,16 +155,16 @@ The pharmacokinetics of omeprazole have been investigated in pediatric patients 
 
 Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules.≤ 20 kg2-5 years10 mg | Children> 20 kg6-16 years20 mg | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as entric-coated granules. (mean 76 kg)23-29 years (n=12) |
+| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. ≤ 20 kg2-5 years10 mg | Children > 20 kg6-16 years20 mg | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. (mean 76 kg)23-29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
 | CmaxPlasma concentration adjusted to an oral dose of 1 mg/kg.(ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC(ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| AUC (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
 | Cmax(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
-Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ [see Dosage and Administration (2)].
+Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ [seeDosage and Administration (2)].
 
 Hepatic Impairment
 
@@ -208,7 +208,7 @@ Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological 
 | Susceptible | 108 | 72 | 1 |  | 26 | 9 |
 | Intermediate | 1 |  |  |  | 1 |  |
 | Resistant | 4 |  |  |  | 4 |  |
-| Triple therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
+| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
 | Susceptible | 171 | 153 | 7 |  | 3 | 8 |
 | Intermediate |  |  |  |  |  |  |
 | Resistant | 14 | 4 | 1 |  | 6 | 3 |

@@ -10,7 +10,7 @@ PRILOSEC in combination with clarithromycin and amoxicillin, is indicated for tr
 
 PRILOSEC in combination with clarithromycin is indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
 
-Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14.1) and Dosage and Administration (2)].
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14.1)andDosage and Administration (2)].
 
 Among patients who fail therapy, PRILOSEC with clarithromycin is more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
 In patients who fail therapy, susceptibility testing should be done.
@@ -32,7 +32,7 @@ PRILOSEC is indicated for the short-term treatment (4-8 weeks) of erosive esopha
 
 The efficacy of PRILOSEC used for longer than 8 weeks in these patients has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-If there is recurrence of erosive esophagitis or GERD symptoms (eg, heartburn), additional 4-8 week courses of omeprazole may be considered.
+If there is recurrence of erosive esophagitis or GERD symptoms (e.g., heartburn), additional 4-8 week courses of omeprazole may be considered.
 
 ## 1.4 Maintenance of Healing of Erosive Esophagitis (adults and pediatric patients)
 
@@ -42,4 +42,4 @@ Controlled studies do not extend beyond 12 months [see Clinical Studies (14.4)].
 
 ## 1.5 Pathological Hypersecretory Conditions (adults)
 
-PRILOSEC is indicated for the long-term treatment of pathological hypersecretory conditions (eg, Zollinger-Ellison syndrome, multiple endocrine adenomas and systemic mastocytosis) in adults.
+PRILOSEC is indicated for the long-term treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome, multiple endocrine adenomas and systemic mastocytosis) in adults.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-PRILOSEC (pry-lo-sec)
+PRILOSEC® (pry-lo-sec)
 
 (omeprazole)
 
@@ -111,7 +111,7 @@ Especially tell your doctor if you take:
 - •clopidogrel (Plavix)
 - •St.
   John’s Wort (Hypericum perforatum)
-- •rifampin (Rimactane, Rifater, Rifamate),
+- •rifampin (Rimactane, Rifater, Rifamate)
 - •erlotinib (Tarceva)
 - •methotrexate
 - •mycophenolate mofetil (Cellcept)
@@ -278,7 +278,7 @@ Wilmington, DE 19850
 
 Revised December 2014
 
-PRILOSEC is a registered trademark of the AstraZeneca group of companies.
+PRILOSEC is a trademark of the AstraZeneca group of companies.
 
 ©2014 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
