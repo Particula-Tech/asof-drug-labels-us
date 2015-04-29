@@ -48,6 +48,8 @@ Incidence has been rounded to the nearest whole number.
 The following additional adverse reactions have been identified during postapproval use of Focalin XR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
 
+Musculoskeletal: rhabdomyolysis
+
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
 ## Adverse Events with Other Methylphenidate HCl Products
