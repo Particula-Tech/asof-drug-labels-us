@@ -1,12 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-Primary hyperaldosteronism: Spironolactone tablets may be employed as an initial diagnostic measure to provide presumptive evidence of primary hyperaldosteronism while patients are on normal diets.
+Primary hyperaldosteronism.
+Spironolactone tablets may be employed as an initial diagnostic measure to provide presumptive evidence of primary hyperaldosteronism while patients are on normal diets.
 Long test: Spironolactone tablets are administered at a daily dosage of 400 mg for three to four weeks.
 Correction of hypokalemia and of hypertension provides presumptive evidence for the diagnosis of primary hyperaldosteronism.
 Short test: Spironolactone tablets are administered at a daily dosage of 400 mg for four days.
 If serum potassium increases during spironolactone tablets administration but drops when spironolactone tablets are discontinued, a presumptive diagnosis of primary hyperaldosteronism should be considered.
 After the diagnosis of hyperaldosteronism has been established by more definitive testing procedures, spironolactone tablets may be administered in doses of 100 to 400 mg daily in preparation for surgery.
-For patients who are considered unsuitable for surgery, spironolactone may be employed for long-term maintenance therapy at the lowest effective dosage determined for the individual patient.
+For patients who are considered unsuitable for surgery, spironolactone tablets may be employed for long-term maintenance therapy at the lowest effective dosage determined for the individual patient.
 
 Edema in adults (congestive heart failure, hepatic cirrhosis, or nephrotic syndrome).
 An initial daily dosage of 100 mg of spironolactone tablets administered in either single or divided doses is recommended, but may range from 25 to 200 mg daily.
@@ -21,7 +22,7 @@ Treatment with spironolactone tablets should be continued for at least two weeks
 Subsequently, dosage should be adjusted according to the response of the patient.
 Hypokalemia.
 Spironolactone tablets in a dosage ranging from 25 mg to 100 mg daily are useful in treating a diuretic-induced hypokalemia, when oral potassium supplements or other potassium-sparing regimens are considered inappropriate.
-Severe heart failure in conjunction with standard therapy (NYHA class III–IV).
+Severe heart failure in conjunction with standard therapy (NYHA class III - IV).
 Treatment should be initiated with spironolactone 25 mg once daily if the patient’s serum potassium is ≤5.0 mEq/L and the patient’s serum creatinine is ≤ 2.5 mg/dL.
 Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated.
 Patients who do not tolerate 25 mg once daily may have their dosage reduced to 25 mg every other day.

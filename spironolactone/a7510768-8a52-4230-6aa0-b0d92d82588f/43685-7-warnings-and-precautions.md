@@ -2,7 +2,7 @@
 
 Potassium supplementation.
 Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with spironolactone therapy.
-Excessive potassium intake may cause hyperkalemia in patients receiving spironolactone (see Precautions: Pregnancy).
+Excessive potassium intake may cause hyperkalemia in patients receiving spironolactone (see Precautions: General).
 
 Concomitant administration of spironolactone with the following drugs or potassium sources may lead to severe hyperkalemia:
 
@@ -12,7 +12,7 @@ Concomitant administration of spironolactone with the following drugs or potassi
 - aldosterone blockers
 - non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
 - heparin and low molecular weight heparin
-- other drugs known to cause hyperkalemia
+- other drugs or conditions known to cause hyperkalemia
 - potassium supplements
 - diet rich in potassium
 - salt substitutes containing potassium
@@ -25,9 +25,9 @@ Hyperkalemia in patients with severe heart failure.
 Hyperkalemia may be fatal.
 It is critical to monitor and manage serum potassium in patients with severe heart failure receiving spironolactone.
 Avoid using other potassium-sparing diuretics.
-Avoid using oral potassium supplements inpatients with serum potassium > 3.5 mEq/L.
+Avoid using oral potassium supplements in patients with serum potassium > 3.5 mEq/L.
 The Randomized Spironolactone Evaluation Study excluded patients with a serum creatinine > 2.5 mg/dL or a recent increase in serum creatinine >25%.
-The recommended monitoring for potassium and creatinine is one week after initiation or increase in doseof spironolactone, monthly for the first 3months, then quarterly for a year, and then every 6 months.
+The recommended monitoring for potassium and creatinine is one week after initiation or increase in dose of spironolactone, monthly for the first 3 months, then quarterly for a year, and then every 6 months.
 Discontinue or interrupt treatment for serum potassium > 5 mEq/L or for serum creatinine > 4 mg/dL.
 (See Clinical Studies: Severe heart failure, and Dosage and Administration: Severe heart failure.)
 Spironolactone should be used with caution in patients with impaired hepatic function because minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
@@ -35,7 +35,7 @@ Lithium generally should not be given with diuretics (see Precautions: Drug inte
 
 # PRECAUTIONS
 
-## General
+## General:
 
 All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis, and hyperkalemia.
 
@@ -49,7 +49,7 @@ However, it is important to monitor serum potassium levels because mild hyperkal
 
 If hyperkalemia is present, spironolactone should be discontinued immediately.
 With severe hyperkalemia, the clinical situation dictates the procedures to be employed.
-These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
+These may include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
 These are temporary measures to be repeated as required.
 Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered.
 Persistent hyperkalemia may require dialysis.
@@ -58,7 +58,7 @@ Reversible hyperchloremic metabolic acidosis, usually in association with hyperk
 
 Dilutional hyponatremia, manifested by dryness of the mouth, thirst, lethargy, and drowsiness, and confirmed by a low serum sodium level, may be caused or aggravated, especially when spironolactone is administered in combination with other diuretics, and dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than administration of sodium, except in rare instances when the hyponatremia is life-threatening.
 
-Spironolactone therapy may cause a transient elevation of BUN, especially in patients with preexisting renal impairment.
+Spironolactone therapy may cause a transient elevation of BUN, especially in patients with pre-existing renal impairment.
 Spironolactone may cause mild acidosis.
 
 Gynecomastia may develop in association with the use of spironolactone; physicians should be alert to its possible onset.
@@ -93,11 +93,11 @@ Drug/Laboratory test interactions: Several reports of possible interference with
 Neither the extent nor the potential clinical significance of its interference (which may be assay-specific) has been fully established.
 
 Carcinogenesis, mutagenesis, impairment of fertility: Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
-In an 18-month study using doses of about 50, 150 and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
+In an 18-month study using doses of about 50, 150, and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
 In a 24-month study in which the same strain of rat was administered doses of about 10, 30, 100, and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
 There was also a statistically significant, but not dose-related, increase in benign uterine endometrial stromal polyps in females.
 A dose-related (above 20 mg/kg/day) incidence of myelocytic leukemia was observed in rats fed daily doses of potassium canrenoate (a compound chemically similar to spironolactone and whose primary metabolite, canrenone, is also a major product of spironolactone in man) for a period of one year.
-In two-year studies in the rat, oral administration of potassium canrenoate was associated with myelocytic leukemia and hepatic, thyroid, testicular and mammary tumors.
+In two-year studies in the rat, oral administration of potassium canrenoate was associated with myelocytic leukemia and hepatic, thyroid, testicular, and mammary tumors.
 Neither spironolactone nor potassium canrenoate produced mutagenic effects in tests using bacteria or yeast.
 In the absence of metabolic activation, neither spironolactone nor potassium canrenoate has been shown to be mutagenic in mammalian tests in vitro.
 In the presence of metabolic activation, spironolactone has been reported to be negative in some mammalian mutagenicity tests in vitro and inconclusive (but slightly positive) for mutagenicity in other mammalian tests in vitro.
@@ -105,13 +105,14 @@ In the presence of metabolic activation, potassium canrenoate has been reported 
 
 In a three-litter reproduction study in which female rats received dietary doses of 15 and 50 mg spironolactone/kg/day, there were no effects on mating and fertility, but there was a small increase in incidence of stillborn pups at 50 mg/kg/day.
 When injected into female rats (100 mg/kg/day for 7 days, i.p.), spironolactone was found to increase the length of the estrous cycle by prolonging diestrus during treatment and inducing constant diestrus during a two-week post-treatment observation period.
-These effects were associated with retarded ovarian follicle development and a reduction in circulating estrogen levels, which would be expected to impair mating, fertility and fecundity.
+These effects were associated with retarded ovarian follicle development and a reduction in circulating estrogen levels, which would be expected to impair mating, fertility, and fecundity.
 Spironolactone (100 mg/kg/day), administered i.p. to female mice during a two-week cohabitation period with untreated males, decreased the number of mated mice that conceived (effect shown to be caused by an inhibition of ovulation) and decreased the number of implanted embryos in those that became pregnant (effect shown to be caused by an inhibition of implantation), and at 200 mg/kg, also increased the latency period to mating.
 
-Pregnancy Teratogenic effects Pregnancy Category C:Teratology studies with spironolactone have been carried out in mice and rabbits at doses of up to 20 mg/kg/day.
+Pregnancy: Teratogenic effects.
+Pregnancy Category C. Teratology studies with spironolactone have been carried out in mice and rabbits at doses of up to 20 mg/kg/day.
 On a body surface area basis, this dose in the mouse is substantially below the maximum recommended human dose and, in the rabbit, approximates the maximum recommended human dose.
 No teratogenic or other embryotoxic effects were observed in mice, but the 20 mg/kg dose caused an increased rate of resorption and a lower number of live fetuses in rabbits.
-Because of its anti-androgenic activity and the requirement of testosterone for male morphogenesis, spironolactone may have the potential for adversely affecting sex differentiation of the male during embryogenesis.
+Because of its antiandrogenic activity and the requirement of testosterone for male morphogenesis, spironolactone may have the potential for adversely affecting sex differentiation of the male during embryogenesis.
 When administered to rats at 200 mg/kg/day between gestation days 13 and 21 (late embryogenesis and fetal development), feminization of male fetuses was observed.
 Offspring exposed during late pregnancy to 50 and 100 mg/kg/day doses of spironolactone exhibited changes in the reproductive tract including dose-dependent decreases in weights of the ventral prostate and seminal vesicle in males, ovaries and uteri that were enlarged in females, and other indications of endocrine dysfunction, that persisted into adulthood.
 There are no adequate and well-controlled studies with spironolactone in pregnant women.

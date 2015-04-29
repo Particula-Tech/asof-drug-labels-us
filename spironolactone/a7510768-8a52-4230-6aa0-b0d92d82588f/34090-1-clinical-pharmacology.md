@@ -19,7 +19,7 @@ Sulfur-containing products are the predominant metabolites and are thought to be
 The following pharmacokinetic data were obtained from 12 healthy volunteers following the administration of 100 mg of spironolactone film-coated tablets daily for 15 days.
 On the 15th day, spironolactone was given immediately after a low-fat breakfast and blood was drawn thereafter.
 
-|  | Accumulation Factor: AUC (0–24 hr, day 15)/AUC (0–24 hr, day 1) | Mean Peak Serum Concentration | Mean (SD) Post-Steady State Half-Life |
+|  | Accumulation Factor: AUC (0–24 hr, day 15)/ AUC (0–24 hr, day 1) | Mean Peak Serum Concentration | Mean (SD) Post Steady- State Half-Life |
 | --- | --- | --- | --- |
 | 7-α-(thiomethyl) spirolactone (TMS) | 1.25 | 391 ng/mL at 3.2 hr | 13.8 hr (6.4) (terminal) |
 | 6-β-hydroxy-7-α-(thiomethyl) spirolactone (HTMS) | 1.50 | 125 ng/mL at 5.1 hr | 15.0 hr (4.0) (terminal) |
@@ -29,7 +29,7 @@ On the 15th day, spironolactone was given immediately after a low-fat breakfast 
 The pharmacological activity of spironolactone metabolites in man is not known.
 However, in the adrenalectomized rat the antimineralocorticoid activities of the metabolites C, TMS, and HTMS, relative to spironolactone, were 1.10, 1.28, and 0.32, respectively.
 Relative to spironolactone, their binding affinities to the aldosterone receptors in rat kidney slices were 0.19, 0.86, and 0.06, respectively.
-In humans the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were 0.33 and 0.26, respectively, relative to spironolactone.
+In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were 0.33 and 0.26, respectively, relative to spironolactone.
 However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities.
 Spironolactone and its metabolites are more than 90% bound to plasma proteins.
 The metabolites are excreted primarily in the urine and secondarily in bile.
