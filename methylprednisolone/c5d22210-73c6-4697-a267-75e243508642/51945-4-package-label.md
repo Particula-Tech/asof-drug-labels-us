@@ -6,13 +6,13 @@ NDC 63323-255-03
 
 Methylprednisolone Sodium Succinate for Injection, USP
 
-40 mg
+40 mg per vial
 
 Reconstitute with 1 mL Bacteriostatic Water for Injection with Benzyl Alcohol.
 
 Use within 48 hours after mixing.
 
-For IV or IM Use
+For Intravenous or Intramuscular Use
 
 1 mL
 
@@ -28,15 +28,13 @@ NDC 63323-255-03
 
 Methylprednisolone Sodium Succinate for Injection, USP
 
-40 mg∗
+40 mg∗ per vial
 
-For IM or IV Use
+For Intravenous or Intramuscular Use
+
+1 mL Single Dose Vial
 
 Rx only
-
-1 mL
-
-Single Dose Vials
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 125 mg Single Dose Vial Label
 
@@ -46,13 +44,12 @@ NDC 63323-258-03
 
 Methylprednisolone Sodium Succinate for Injection, USP
 
-125 mg
+125 mg per vial
 
 Reconstitute with 2 mL Bacteriostatic Water for Injection with Benzyl Alcohol.
 
 Use within 48 hours after mixing.
-
-For IV or IM Use
+For Intravenous or Intramuscular Use
 
 2 mL
 
@@ -68,15 +65,15 @@ NDC 63323-258-03
 
 Methylprednisolone Sodium Succinate for Injection, USP
 
-125 mg∗
+125 mg∗ per vial
 
-For IV or IM USE
-
-Rx only
+For Intravenous or Intramuscular Use
 
 2 mL
 
-Single Dose Vials
+Single Dose Vial
+
+Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram∗ Multiple Dose Vial Label
 
@@ -86,19 +83,17 @@ NDC 63323-265-30
 
 Methylprednisolone Sodium Succinate for Injection, USP
 
-1 gram∗
+1 gram∗ per vial
 
-For IM or IV Use
+For Intravenous or Intramuscular Use Recommended Diluent Contains Benzyl Alcohol as a Preservative.
 
-Recommened Diluent Contains Benzyl Alcohol as a Preservative.
+8-125 mg doses
+
+One Multiple dose Vial
 
 Rx only
 
-8-125 mg Doses
-
-One Multiple Dose Vial
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram∗ Multiple Dose Vial Carton
+PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram∗ Multiple Dose Vial Carton Panel
 
 NDC 63323-265-30
 
@@ -106,14 +101,12 @@ NDC 63323-265-30
 
 Methylprednisolone Sodium Succinate for Injection, USP
 
-1 gram∗
+1 gram∗ per vial
 
-For IV or IM Use
+For Intravenous or Intramuscular Use Recommended Diluent Contains Benzyl Alcohol as a Preservative.
 
-Recommened Diluent Contains Benzyl Alcohol as a Preservative.
+8-125 mg doses
 
-8-125 mg Doses
-
-One Multiple Dose Vial
+One Multiple dose Vial
 
 Rx only

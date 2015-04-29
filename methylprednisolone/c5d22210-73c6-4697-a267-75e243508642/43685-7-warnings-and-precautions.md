@@ -1,5 +1,12 @@
 # WARNINGS
 
+## Serious Neurologic Adverse Reactions with Epidural Administration
+
+Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids.
+Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
+These serious neurologic events have been reported with and without use of fluoroscopy.
+The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
+
 ## General
 
 After mixing as directed, methylprednisolone (see DESCRIPTION) contains benzyl alcohol, which is potentially toxic when administered locally to neural tissue.
@@ -9,19 +16,17 @@ The amount of benzyl alcohol from medications is usually considered negligible c
 Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
 The amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use).
-
 Injection of methylprednisolone may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
 In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections.
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
-
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy who are subjected to any unusual stress before, during, and after the stressful situation.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including methylprednisolone, should not be used for the treatment of traumatic brain injury.
 
-## Cardio-Renal
+## Cardio-renal
 
 Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
@@ -50,12 +55,12 @@ Infections with any pathogen (viral, bacterial, fungal, protozoan, or helminthic
 These infections may be mild, but can be severe and at times fatal.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
 Corticosteroids may also mask some signs of current infection.
-Do not use intra-articularly, intra-bursally or for intratendinous administration for local effect in the presence of acute local infection.
+Do not use intra-articularly, intrabursally or for intratendinous administration for local effect in the presence of acute local infection.
 
 A study has failed to establish the efficacy of methylprednisolone sodium succinate in the treatment of sepsis syndrome and septic shock.
 The study also suggests that treatment of these conditions with methylprednisolone sodium succinate may increase the risk of mortality in certain patients (i.e., patients with elevated serum creatinine levels or patients who develop secondary infections after methylprednisolone sodium succinate).
 
-## Fungal Infections
+## Fungal infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
@@ -109,7 +114,7 @@ Corticosteroids should not be used in active ocular herpes simplex.
 
 # PRECAUTIONS
 
-## General
+General
 
 This product, like many other steroid formulations, is sensitive to heat.
 Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial.
@@ -226,13 +231,14 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
-
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
 There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
+
+This product contains benzyl alcohol as a preservative.
+Benzyl alcohol can cross the placenta (seePRECAUTIONS, Pediatric Use).
 
 ## Nursing Mothers
 
@@ -246,7 +252,9 @@ After mixing as directed, this product contains benzyl alcohol as a preservative
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
 The “gasping syndrome” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages > 99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+
+The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
 Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 

@@ -16,6 +16,6 @@ Store solution at 20° to 25°C (68° to 77°F) [see USP Controlled Room Tempera
 
 Use solution within 48 hours after mixing.
 
-451282
+451282A
 
-Issued: May 2013
+Revised: October 2014

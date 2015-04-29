@@ -16,7 +16,7 @@ Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrath
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 
-Musculoskeletal: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, post injection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
+Musculoskeletal: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, post-injection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
 
 Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
 Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration (see WARNINGS, Neurologic).

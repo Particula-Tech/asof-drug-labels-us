@@ -12,13 +12,9 @@ Methylprednisolone sodium succinate is soluble in water; it may be administered 
 
 Methylprednisolone Sodium Succinate for Injection, USP is available in three strengths for intravenous or intramuscular administration.
 
-40 mg (Single Dose Vial)
+40 mg (Single Dose Vial) Each mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 40 mg methylprednisolone; also, 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; 25 mg lactose hydrous; and benzyl alcohol.
 
-Each mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 40 mg methylprednisolone; also, 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; 25 mg lactose hydrous; and benzyl alcohol.
-
-125 mg (Single Dose Vial)
-
-Each 2 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 125 mg methylprednisolone; also, 1.6 mg monobasic sodium phosphate anhydrous;17.4 mg dibasic sodium phosphate dried; and benzyl alcohol.
+125 mg (Single Dose Vial) Each 2 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 125 mg methylprednisolone; also, 1.6 mg monobasic sodium phosphate anhydrous; 17.4 mg dibasic sodium phosphate dried; and benzyl alcohol.
 
 1 g (Multiple Dose Vial) Each 16 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 1 g methylprednisolone; also, 12.8 mg monobasic sodium phosphate anhydrous; 139.2 mg dibasic sodium phosphate dried; and benzyl alcohol.
 
@@ -26,5 +22,5 @@ IMPORTANT- Use only Bacteriostatic Water for Injection with Benzyl Alcohol when 
 
 Use within 48 hours after mixing.
 
-When necessary, the pH of each formula was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8 and the tonicities are, for the 40 mg per mL solution, 0.50 osmolar; for the 125 mg per 2 mL, 0.40 osmolar for the 1g per 16 mL solution is 0.40 isomolar.
+When necessary, the pH of each formula was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8 and the tonicities are, for the 40 mg per mL solution, 0.50 osmolar; for the 125 mg per 2 mL, 0.40 osmolar for the 1 g per 16 mL solution is 0.40 isomolar.
 (Isotonic saline = 0.28 osmolar).
