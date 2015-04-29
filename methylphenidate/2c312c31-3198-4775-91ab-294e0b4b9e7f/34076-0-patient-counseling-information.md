@@ -34,7 +34,7 @@ The Medication Guide included at the end of this insert also includes a timetabl
 Patients or caregivers should avoid touching the adhesive side of the patch during application, in order to avoid absorption of methylphenidate.
 If they do touch the adhesive side of the patch, they should immediately wash their hands after application.
 
-In the event that a patch does not fully adhere to the skin upon application, or is partially or fully detached during wear time, the patch should be discarded according to the directions provided in this label and a new patch should be applied [see Dosage and Administration (2.3)].
+In the event that a patch does not fully adhere to the skin upon application, or is partially or fully detached during wear time, the patch should be discarded according to the directions provided in this label, and a new patch should be applied [see Dosage and Administration (2.3)].
 If a patch is replaced, the total recommended wear time for that day should remain 9 hours, regardless of the number of patches used.
 
 Patches should not be applied or re-applied with dressings, tape, or other common adhesives.
@@ -71,10 +71,10 @@ For more information call 1-877-567-7857 or visit www.daytrana.com.
 
 Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc. Daytrana® is a registered trademark of Noven Therapeutics, LLC.
 
-© 2009, 2013 Noven Pharmaceuticals, Inc.
+© 2009, 2013, 2015 Noven Pharmaceuticals, Inc.
 
 This product is covered by US patents including for use with 6,905,016.
 
-Last Modified: 10/2013
+Last Modified: 04/2015
 
-102086-13
+102086-15

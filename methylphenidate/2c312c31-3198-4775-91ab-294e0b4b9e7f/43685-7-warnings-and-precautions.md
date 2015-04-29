@@ -67,7 +67,7 @@ Signs and symptoms are usually intermittent and mild; however, very rare sequela
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients
 
 ## 5.6 Long-Term Suppression of Growth
 

@@ -21,7 +21,7 @@ Detailed information on serious and adverse reactions of particular importance i
 - Hematologic Monitoring [see Warnings and Precautions (5.10)]
 
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in children aged 6-12 included appetite decreased, insomnia, nausea, vomiting, weight decreased, tic, affect lability, and anorexia.
-The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain and anorexia [see Adverse Reactions (6.1)].
+The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain, and anorexia [see Adverse Reactions (6.1)].
 
 The most common (≥ 2% of subjects) adverse reaction associated with discontinuations in double-blind clinical trials in children or adolescents was application site reactions [see Adverse Reactions (6.3)].
 
@@ -102,11 +102,11 @@ Other adverse reactions leading to discontinuation that occurred with a frequenc
 In addition, the following adverse reactions have been identified during the postapproval use of Daytrana.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to Daytrana exposure.
 
-Cardiac Disorders: palpitation
+Cardiac Disorders: palpitations
 
 Eye Disorders: visual disturbances, blurred vision, mydriasis, accommodation disorder
 
-General Disorders and Administration Site Disorders: application site reactions such as bleeding, bruising, burn, burning, dermatitis, discharge, discoloration, discomfort, dryness, eczema, edema, erosion, erythema, excoriation, exfoliation, fissure, hyperpigmentation, hypopigmentation, induration, infection, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, scab, swelling, ulcer, urticaria, vesicles, and warmth.
+General Disorders and Administration Site Disorders: application site reactions such as bleeding, bruising, burn, burning, dermatitis, discharge, discoloration, discomfort, dryness, eczema, edema, erosion, erythema, excoriation, exfoliation, fissure, hyperpigmentation, hypopigmentation/vitiligo, induration, infection, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, scab, swelling, ulcer, urticaria, vesicles, and warmth.
 
 Immune System Disorders: hypersensitivity reactions including generalized erythematous and urticarial rashes, allergic contact dermatitis, angioedema, and anaphylaxis
 
@@ -148,3 +148,5 @@ Skin/Subcutaneous: scalp hair loss
 Neuroleptic Malignant Syndrome: Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
 In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
+
+Musculoskeletal: rhabdomyolysis
