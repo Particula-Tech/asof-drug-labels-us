@@ -18,4 +18,5 @@ Table 14
 Refrigerate unopened vials of DOXIL at 2°– 8°C (36°– 46°F).
 Do not freeze.
 
-Handle and dispose of DOXIL consistent with recommendations for the handling and disposal of hazardous drugs.1
+DOXIL is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1

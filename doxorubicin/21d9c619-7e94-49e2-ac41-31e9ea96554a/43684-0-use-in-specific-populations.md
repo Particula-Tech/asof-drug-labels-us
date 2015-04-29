@@ -38,7 +38,7 @@ Advise females of reproductive potential to use effective contraception during a
 Males
 
 DOXIL may damage spermatozoa and testicular tissue, resulting in possible genetic fetal abnormalities.
-Males with female sexual partners of reproductive potential should use effective contraception during and for 6 months after treatment with DOXIL [see Nonclinical Toxicology (13.1)].
+Males with female sexual partners of reproductive potential should use effective contraception during and for 6 months after treatment with DOXIL [see Non-clinical Toxicology (13.1)].
 
 Infertility
 

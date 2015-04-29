@@ -64,7 +64,7 @@ Refrigerate diluted DOXIL at 2°C to 8°C (36°F to 46°F) and administer within
 
 Administration
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if a precipitate or foreign matter is present.
 
 Do not use with in-line filters.
@@ -88,6 +88,5 @@ Manage confirmed or suspected extravasation as follows:
 
 ## 2.7 Procedure for Proper Handling and Disposal
 
-Handle and dispose of DOXIL in accordance with recommendations for the handling and disposal of hazardous drugs.1
-
-If DOXIL comes into contact with skin or mucosa, immediately wash thoroughly with soap and water.
+DOXIL is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1 If DOXIL comes into contact with skin or mucosa, immediately wash thoroughly with soap and water.

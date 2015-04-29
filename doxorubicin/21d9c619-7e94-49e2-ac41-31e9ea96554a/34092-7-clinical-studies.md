@@ -112,13 +112,13 @@ The median number of cycles in each treatment arm was 5 (range 1–18).
 
 The baseline demographics and clinical characteristics of the patients with multiple myeloma were similar between treatment arms (Table 12).
 
-Table 12 Summary of Baseline Patient and Disease Characteristics
+Table 12: Summary of Baseline Patient and Disease Characteristics
 
 | Patient Characteristics | DOXIL + bortezomib n=324 | bortezomib n=322 |
 | --- | --- | --- |
 | Median age in years (range) | 61 (28, 85) | 62 (34, 88) |
 | % Male/female | 58 / 42 | 54 / 46 |
-| % Caucasian/Black/other | 90 / 6/ 4 | 94 / 4 / 2% |
+| % Caucasian/Black/other | 90 / 6/ 4 | 94 / 4 / 2 |
 | Disease Characteristics |  |  |
 | % with IgG/IgA/Light chain | 57 / 27 / 12 | 62 / 24 /11 |
 | % β2-microglobulin group |  |  |
@@ -142,7 +142,6 @@ The primary outcome measure was time to progression (TTP).
 TTP was defined as the time from randomization to the first occurrence of progressive disease or death due to progressive disease.
 The combination arm demonstrated significant improvement in TTP.
 As the prespecified primary objective was achieved at the interim analysis, patients in the bortezomib monotherapy group were then allowed to receive the DOXIL + bortezomib combination.
-Survival continued to be followed after the interim analysis and survival data are not mature at this time.
 Efficacy results are as shown in Table 13 and Figure 1.
 
 Table 13: Efficacy of DOXIL in Combination With Bortezomib in the Treatment of Patients With Multiple Myeloma
@@ -159,11 +158,17 @@ Table 13: Efficacy of DOXIL in Combination With Bortezomib in the Treatment of P
 | p-valueStratified log-rank test. | <0.001 |  |
 | Response (n)RR as per EBMT criteria. | 303 | 310 |
 | % Complete Response (CR) | 5 | 3 |
-| %Partial Response (PR) | 43 | 40 |
-| %CR + PR | 48 | 43 |
+| % Partial Response (PR) | 43 | 40 |
+| % CR + PR | 48 | 43 |
 | p-valueCochran-Mantel-Haenszel test adjusted for the stratification factors. | 0.25 |  |
 | Median Duration of Response (months) | 10.2 | 7.0 |
 | (95% CI) | (10.2;12.9) | (5.9;8.3) |
 
 | Figure 1- Time to Progression Kaplan-Meier Curve |
 | --- |
+
+At the final analysis of survival, 78% of subjects in the DOXIL and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had died after a median follow up of 8.6 years.
+The median survival was 33 months in the DOXIL and bortezomib combination therapy group and 31 months in the bortezomib monotherapy group.
+There was no difference observed in overall survival at the final analysis [HR for DOXIL + bortezomib vs. bortezomib= 0.96 (95% CI 0.80, 1.14)].
+
+Seventy-eight percent of subjects in the DOXIL and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had received subsequent therapy.

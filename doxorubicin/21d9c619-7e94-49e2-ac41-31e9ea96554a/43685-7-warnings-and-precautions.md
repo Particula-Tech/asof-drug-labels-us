@@ -22,7 +22,7 @@ Of 239 patients with ovarian cancer treated with DOXIL in Trial 4, 7% of patient
 All occurred during cycle 1 and none during subsequent cycles.
 Across multiple studies of DOXIL monotherapy including this and other studies enrolling 760 patients with various solid tumors, 11% of patients had infusion-related reactions.
 
-Ensure that medications to treat infusion-related reactions and cardiopulmonary resuscitative equipment is available for immediate use prior to initiation of DOXIL.
+Ensure that medications to treat infusion-related reactions and cardiopulmonary resuscitative equipment are available for immediate use prior to initiation of DOXIL.
 Initiate DOXIL infusions at a rate of 1 mg/min and increase rate as tolerated [see Dosage and Administration (2.6)].
 In the event of an infusion-related reaction, temporarily stop the drug until resolution then resume at a reduced infusion rate.
 Discontinue DOXIL infusion for serious or life-threatening infusion-related reactions.

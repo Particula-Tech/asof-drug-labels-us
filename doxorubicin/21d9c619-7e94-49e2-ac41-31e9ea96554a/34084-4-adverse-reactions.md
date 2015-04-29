@@ -159,7 +159,7 @@ Cardiovascular: thrombophlebitis, cardiomyopathy, palpitation, bundle branch blo
 
 Digestive: hepatitis.
 
-Metabolic and Nutritional Disorders: dehydration
+Metabolic and Nutritional Disorders: dehydration.
 
 Respiratory: cough increase, pharyngitis.
 
