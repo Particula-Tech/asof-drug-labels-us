@@ -20,7 +20,7 @@ Safety and effectiveness have not been established for the prophylaxis of episod
 
 ## 1.3 Upper Limb Spasticity
 
-BOTOX is indicated for the treatment of upper limb spasticity in adult patients, to decrease the severity of increased muscle tone in elbow flexors (biceps), wrist flexors (flexor carpi radialis and flexor carpi ulnaris) and finger flexors (flexor digitorum profundus and flexor digitorum sublimis).
+BOTOX is indicated for the treatment of upper limb spasticity in adult patients, to decrease the severity of increased muscle tone in elbow flexors (biceps), wrist flexors (flexor carpi radialis and flexor carpi ulnaris), finger flexors (flexor digitorum profundus and flexor digitorum sublimis), and thumb flexors (adductor pollicis and flexor pollicis longus).
 
 Important limitations
 

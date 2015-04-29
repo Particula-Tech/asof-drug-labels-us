@@ -64,7 +64,7 @@ Otherwise, there were no overall differences in the safety profile following BOT
 Table 15.
 Incidence of Urinary Tract Infection and Urinary Retention according to Age Group during First Placebo-controlled Treatment, Placebo-controlled Clinical Trials in Patients with OAB
 
-|  | <65 Years |  | 65 to 74 Years |  | >75 Years |  |
+|  | <65 Years |  | 65 to 74 Years |  | ≥75 Years |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | BOTOX 100 Units (N=344) | Placebo (N=348) | BOTOX 100 Units (N=169) | Placebo (N=151) | BOTOX 100 Units (N=94) | Placebo (N=86) |
 | Urinary tract infection | 73 (21%) | 23 (7%) | 51 (30%) | 20 (13%) | 36 (38%) | 16 (19%) |

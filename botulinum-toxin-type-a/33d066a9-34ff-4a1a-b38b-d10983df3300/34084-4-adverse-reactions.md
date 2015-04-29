@@ -107,6 +107,10 @@ Table 14: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More
 | Pain in extremity | 7 (6%) | 10 (5%) | 5 (9%) | 8 (4%) |
 | Muscular weakness | 0 | 7 (4%) | 1 (2%) | 2 (1%) |
 
+Twenty two adult patients, enrolled in double-blind placebo controlled studies, received 400 Units or higher of BOTOX for treatment of upper limb spasticity.
+In addition, 44 adults received 400 Units of BOTOX or higher for four consecutive treatments over approximately one year for treatment of upper limb spasticity.
+The type and frequency of adverse reactions observed in patients treated with 400 Units of BOTOX were similar to those reported in patients treated for upper limb spasticity with 360 Units of BOTOX.
+
 Cervical Dystonia
 
 In cervical dystonia patients evaluated for safety in double-blind and open-label studies following injection of BOTOX, the most frequently reported adverse reactions were dysphagia (19%), upper respiratory infection (12%), neck pain (11%), and headache (11%).
@@ -170,7 +174,7 @@ The potential for antibody formation may be minimized by injecting with the lowe
 
 The following adverse reactions have been identified during post-approval use of BOTOX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: abdominal pain; alopecia, including madarosis; anorexia; aspiration pneumonia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry mouth; dysarthria; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; myasthenia gravis; nausea; paresthesia; peripheral neuropathy; pruritus; pyrexia; radiculopathy; respiratory depression and/or respiratory failure; skin rash (including erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption); strabismus; syncope; tinnitus; vertigo; vision blurred; visual disturbances; and vomiting.
+These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; hyperhidrosis; hypoacusis; hypoaesthesia; malaise; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
 
 There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.4, 5.6)].
 

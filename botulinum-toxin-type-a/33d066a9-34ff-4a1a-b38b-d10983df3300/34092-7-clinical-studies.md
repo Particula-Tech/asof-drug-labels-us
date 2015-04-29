@@ -9,7 +9,7 @@ Patients received 20 injections of study drug (5 units of BOTOX or placebo) spac
 
 In both studies, significant improvements compared to placebo in the primary efficacy variable of change from baseline in daily frequency of urinary incontinence episodes were observed for BOTOX 100 Units at the primary time point of week 12.
 Significant improvements compared to placebo were also observed for the secondary efficacy variables of daily frequency of micturition episodes and volume voided per micturition.
-These primary and secondary variables are shown in Tables 16 and 17, and Figures 3 and 4.
+These primary and secondary variables are shown in Tables 16 and 17, and Figures 4 and 5.
 
 Table 16: Baseline and Change from Baseline in Urinary Incontinence Episode Frequency, Micturition Episode Frequency and Volume Voided Per Micturition, Study OAB-1
 
@@ -53,9 +53,9 @@ Table 17: Baseline and Change from Baseline in Urinary Incontinence Episode Freq
 | a Primary variable |  |  |  |  |
 | b Secondary variable |  |  |  |  |
 
-Figure 3: Mean Change from Baseline in Daily Frequency of Urinary Incontinence Episodes following intradetrusor injection in Study OAB-1
+Figure 4: Mean Change from Baseline in Daily Frequency of Urinary Incontinence Episodes following intradetrusor injection in Study OAB-1
 
-Figure 4: Mean Change from Baseline in Daily Frequency of Urinary Incontinence Episodes following intradetrusor injection in Study OAB-2
+Figure 5: Mean Change from Baseline in Daily Frequency of Urinary Incontinence Episodes following intradetrusor injection in Study OAB-2
 
 The median duration of response in Study OAB-1 and OAB-2, based on patient qualification for re-treatment, was 19-24 weeks for the BOTOX 100 Unit dose group compared to 13 weeks for placebo.
 To qualify for re-treatment, at least 12 weeks must have passed since the prior treatment, post-void residual urine volume must have been less than 200 mL and patients must have reported at least 2 urinary incontinence episodes over 3 days.
@@ -68,7 +68,7 @@ These patients were randomized to receive either 200 Units of BOTOX (n=227), 300
 
 In both studies, significant improvements compared to placebo in the primary efficacy variable of change from baseline in weekly frequency of incontinence episodes were observed for BOTOX (200 Units) at the primary efficacy time point at week 6.
 Increases in maximum cystometric capacity and reductions in maximum detrusor pressure during the first involuntary detrusor contraction were also observed.
-These primary and secondary endpoints are shown in Tables 18 and 19, and Figures 5 and 6.
+These primary and secondary endpoints are shown in Tables 18 and 19, and Figures 6 and 7.
 
 No additional benefit of BOTOX 300 Units over 200 Units was demonstrated.
 
@@ -101,9 +101,9 @@ Table 19: Baseline and Change from Baseline in Weekly Urinary Incontinence Episo
 | a Primary endpoint |  |  |  |  |
 | b Secondary endpoint |  |  |  |  |
 
-Figure 5: Mean Change from Baseline in Weekly Frequency of Urinary Incontinence Episodes During Treatment Cycle 1 in Study NDO-1
+Figure 6: Mean Change from Baseline in Weekly Frequency of Urinary Incontinence Episodes During Treatment Cycle 1 in Study NDO-1
 
-Figure 6: Mean Change from Baseline in Weekly Frequency of Urinary Incontinence Episodes During Treatment Cycle 1 in Study NDO-2
+Figure 7: Mean Change from Baseline in Weekly Frequency of Urinary Incontinence Episodes During Treatment Cycle 1 in Study NDO-2
 
 The median duration of response in study NDO-1 and NDO-2, based on patient qualification for re-treatment was 295-337 days (42-48 weeks) for the 200 Units dose group compared to 96-127 days (13-18 weeks) for placebo.
 Re-treatment was based on loss of effect on incontinence episode frequency (50% of effect in Study NDO-1; 70% of effect in Study NDO-2).
@@ -125,15 +125,16 @@ Table 20: Week 24 Key Efficacy Variables for Study 1 and Study 2
 | Change from baseline in total cumulative hours of headache on headache days | -107* | -70 | -134* | -95 |
 | * Significantly different from placebo (p≤0.05) |  |  |  |  |
 
-Patients treated with BOTOX had a significantly greater mean decrease from baseline in the frequency of headache days at most timepoints from Week 4 to Week 24 in Study 1 (Figure 7), and all timepoints from Week 4 to Week 24 in Study 2 (Figure 8), compared to placebo-treated patients.
+Patients treated with BOTOX had a significantly greater mean decrease from baseline in the frequency of headache days at most timepoints from Week 4 to Week 24 in Study 1 (Figure 8), and all timepoints from Week 4 to Week 24 in Study 2 (Figure 9), compared to placebo-treated patients.
 
-Figure 7: Mean Change from Baseline in Number of Headache Days for Study 1
+Figure 8: Mean Change from Baseline in Number of Headache Days for Study 1
 
-Figure 8: Mean Change from Baseline in Number of Headache Days for Study 2
+Figure 9: Mean Change from Baseline in Number of Headache Days for Study 2
 
 ## 14.4 Upper Limb Spasticity
 
-The efficacy and safety of BOTOX for the treatment of upper limb spasticity were evaluated in three randomized, multi-center, double-blind, placebo-controlled studies.
+The efficacy of BOTOX for the treatment of upper limb spasticity was evaluated in three randomized, multi-center, double-blind, placebo-controlled studies (Studies 1, 2, and 3).
+Two additional randomized, multi-center, double-blind, placebo-controlled studies for upper limb spasticity in adults also included the evaluation of the efficacy of BOTOX for the treatment of thumb spasticity (Studies 4 and 5).
 
 Study 1 included 126 patients (64 BOTOX and 62 placebo) with upper limb spasticity (Ashworth score of at least 3 for wrist flexor tone and at least 2 for finger flexor tone) who were at least 6 months post-stroke.
 BOTOX (a total dose of 200 Units to 240 Units) and placebo were injected intramuscularly (IM) into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and if necessary into the adductor pollicis and flexor pollicis longus (see Table 21).
@@ -243,6 +244,45 @@ Table 25: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at 
 | c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles |  |  |  |  |
 | d Dose of BOTOX injected into biceps brachii muscle |  |  |  |  |
 
+Study 4 included 170 patients (87 BOTOX and 83 placebo) with upper limb spasticity who were at least 6 months post-stroke.
+In Study 4, patients received 20 Units of BOTOX into the adductor pollicis and flexor pollicis longus (total BOTOX dose =40 Units in thumb muscles) or placebo (see Table 26).
+Study 5 included 109 patients with upper limb spasticity who were at least 6 months post-stroke.
+In Study 5, patients received 15 Units (low dose) or 20 Units (high dose) of BOTOX into the adductor pollicis and flexor pollicis longus under EMG guidance (total BOTOX low dose =30 Units, total BOTOX high dose =40 Units), or placebo (see Table 26).
+The duration of follow-up in Study 4 and Study 5 was 12 weeks.
+
+Table 26: Study Medication Dose and Injection Sites in Studies 4 and 5
+
+| Muscles Injected | Study 4 |  | Study 5 |  |  |  | Number of Injection Sites for Studies 4 and 5 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BOTOX (Units) | Volume (mL) | BOTOX low dose (Units) | BOTOX high dose (Units) | Volume low dose (mL) | Volume high dose (mL) |  |  |
+| Thumb Adductor Pollicis | 20 | 0.4 | 15 | 20 | 0.3 | 0.4 | 1 |
+| Flexor Pollicis Longus | 20 | 0.4 | 15 | 20 | 0.3 | 0.4 | 1 |
+
+The results of Study 4 for the change from Baseline to Week 6 in thumb flexor tone measured by modified Ashworth Scale and overall treatment response by Physician Global Assessment at week 6 are presented in Table 27.
+
+Table 27: Efficacy Endpoints for Thumb Flexors at Week 6 in Study 4
+
+|  | BOTOX (N=66) | Placebo (N=57) |
+| --- | --- | --- |
+| Median Change from Baseline in Thumb Flexor Muscle Tone on the modified Ashworth Scale††a | -1.0* | 0.0 |
+| Median Physician Global Assessment of Response to Treatment†† | 2.0* | 0.0 |
+| †† Secondary endpoints at Week 6 |  |  |
+| * Significantly different from placebo (p≤0.001) |  |  |
+| a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles |  |  |
+
+In Study 5, the results of the change from Baseline to Week 6 in thumb flexor tone measured by modified Ashworth Scale and Clinical Global Impression (CGI) of functional assessment scale assessed by the physician using an 11-point Numeric Rating Scale [-5 worst possible function to +5 best possible function]) are presented in Table 28.
+
+Table 28: Efficacy Endpoints for Thumb Flexors at Week 6 in Study 5
+
+|  | BOTOX low dose (30 Units) (N=14) | Placebo low dose (N=9) | BOTOX high dose (40 Units) (N=43) | Placebo high dose (N=23) |
+| --- | --- | --- | --- | --- |
+| Median Change from Baseline in Thumb Flexor Muscle Tone on the modified Ashworth Scale†††a | -1.0 | -1.0 | -0.5* | 0.0 |
+| Median change from Baseline in Clinical Global Impression Score by Physician †† | 1.0 | 0.0 | 2.0* | 0.0 |
+| †† Secondary endpoint at Week 6 |  |  |  |  |
+| ††† Other endpoint at Week 6 |  |  |  |  |
+| * Significantly different from placebo (p≤0.010) |  |  |  |  |
+| a BOTOX injected into the adductor pollicis and flexor pollicis longus muscles |  |  |  |  |
+
 ## 14.5 Cervical Dystonia
 
 A randomized, multi-center, double-blind, placebo-controlled study of the treatment of cervical dystonia was conducted.
@@ -259,9 +299,9 @@ The CDSS quantifies the severity of abnormal head positioning and was newly devi
 CDSS allots 1 point for each 5 degrees (or part thereof) of head deviation in each of the three planes of head movement (range of scores up to theoretical maximum of 54).
 The Physician Global Assessment Scale is a 9 category scale scoring the physician's evaluation of the patients' status compared to baseline, ranging from –4 to +4 (very marked worsening to complete improvement), with 0 indicating no change from baseline and +1 slight improvement.
 Pain is also an important symptom of cervical dystonia and was evaluated by separate assessments of pain frequency and severity on scales of 0 (no pain) to 4 (constant in frequency or extremely severe in intensity).
-Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 26.
+Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 29.
 
-Table 26: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
+Table 29: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
 
 |  | Placebo (N=82) | BOTOX (N=88) | 95% CI on Difference |
 | --- | --- | --- | --- |
@@ -283,10 +323,10 @@ There were too few non-Caucasian patients enrolled to draw any conclusions regar
 
 In this study the median total BOTOX dose in patients randomized to receive BOTOX (N=88) was 236 Units, with 25th to 75th percentile ranges of 198 Units to 300 Units.
 Of these 88 patients, most received injections to 3 or 4 muscles; 38 received injections to 3 muscles, 28 to 4 muscles, 5 to 5 muscles, and 5 to 2 muscles.
-The dose was divided amongst the affected muscles in quantities shown in Table 27.
+The dose was divided amongst the affected muscles in quantities shown in Table 30.
 The total dose and muscles selected were tailored to meet individual patient needs.
 
-Table 27: Number of Patients Treated per Muscle and Fraction of Total Dose Injected into Involved Muscles
+Table 30: Number of Patients Treated per Muscle and Fraction of Total Dose Injected into Involved Muscles
 
 | Muscle | Number of Patients Treated in this Muscle (N=88) | Mean % Dose per Muscle | Mid-Range of % Dose per Muscle* |
 | --- | --- | --- | --- |
@@ -317,7 +357,7 @@ Sweat production responders were those patients who demonstrated a reduction in 
 In the three study groups the percentage of patients with baseline HDSS score of 3 ranged from 50% to 54% and from 46% to 50% for a score of 4.
 The median amount of sweat production (averaged for each axilla) was 102 mg, 123 mg, and 114 mg for the placebo, 50 Units and 75 Units groups respectively.
 
-The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 28).
+The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 31).
 
 Duration of response was calculated as the number of days between injection and the date of the first visit at which patients returned to 3 or 4 on the HDSS scale.
 The median duration of response following the first treatment in BOTOX treated patients with either dose was 201 days.
@@ -328,7 +368,7 @@ Treatment responders were defined as subjects showing at least a 50% reduction f
 At week 4 post-injection, the percentages of responders were 91% (219/242) in the BOTOX group and 36% (28/78) in the placebo group, p<0.001.
 The difference in percentage of responders between BOTOX and placebo was 55% (95% CI=43.3, 65.9).
 
-Table 28: Study 1 - Study Outcomes
+Table 31: Study 1 - Study Outcomes
 
 | Treatment Response | BOTOX 50 Units (N=104) | BOTOX 75 Units (N=110) | Placebo (N=108) | BOTOX 50-placebo (95% CI) | BOTOX 75-placebo (95% CI) |
 | --- | --- | --- | --- | --- | --- |

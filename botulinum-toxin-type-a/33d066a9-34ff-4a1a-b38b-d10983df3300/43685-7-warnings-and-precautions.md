@@ -12,7 +12,7 @@ The symptoms are consistent with the mechanism of action of botulinum toxin and 
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, and particularly in those patients who have an underlying condition that would predispose them to these symptoms.
-In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia.
+In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia and upper limb spasticity.
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory disorders occur.
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines) or 100 Units (for severe primary axillary hyperhidrosis) have been reported.

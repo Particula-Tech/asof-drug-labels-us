@@ -7,7 +7,7 @@ They are not interchangeable with other preparations of botulinum toxin products
 
 Indication specific dosage and administration recommendations should be followed.
 When initiating treatment, the lowest recommended dose should be used.
-In treating adult patients for one or more indications, the maximum cumulative dose should generally not exceed 360 Units, in a 3 month interval.
+In treating adult patients for one or more indications, the maximum cumulative dose should not exceed 400 Units, in a 3 month interval.
 
 The safe and effective use of BOTOX depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 Physicians administering BOTOX must understand the relevant neuromuscular and/or orbital anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures.
@@ -17,8 +17,7 @@ Use caution when BOTOX treatment is used in the presence of inflammation at the 
 
 ## 2.2 Preparation and Dilution Technique
 
-BOTOX is supplied in single-use 100 Units and 200 Units per vial.
-Prior to injection, reconstitute each vacuum-dried vial of BOTOX with sterile, non-preserved 0.9% Sodium Chloride Injection USP.
+Prior to injection, reconstitute each vacuum-dried vial of BOTOX with only sterile, preservative-free 0.9% Sodium Chloride Injection USP.
 Draw up the proper amount of diluent in the appropriate size syringe (see Table 1, or for specific instructions for detrusor overactivity associated with a neurologic condition see Section 2.3), and slowly inject the diluent into the vial.
 Discard the vial if a vacuum does not pull the diluent into the vial.
 Gently mix BOTOX with the saline by rotating the vial.
@@ -63,7 +62,7 @@ An intravesical instillation of diluted local anesthetic with or without sedatio
 If a local anesthetic instillation is performed, the bladder should be drained and irrigated with sterile saline before injection.
 
 The recommended dose is 100 Units of BOTOX, and is the maximum recommended dose.
-The recommended dilution is 100 Units/10 mL with 0.9% non-preserved saline solution (see Table 1).
+The recommended dilution is 100 Units/10 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
 Dispose of any unused saline.
 
 Reconstituted BOTOX (100 Units/10 mL) is injected into the detrusor muscle via a flexible or rigid cystoscope, avoiding the trigone.
@@ -89,19 +88,19 @@ The recommended dose is 200 Units of BOTOX per treatment, and should not be exce
 
 200 Unit Vial of BOTOX
 
-- Reconstitute a 200 Unit vial of BOTOX with 6 mL of 0.9% non-preserved saline solution and mix the vial gently.
+- Reconstitute a 200 Unit vial of BOTOX with 6 mL of preservative-free 0.9% Sodium Chloride Injection, USP and mix the vial gently.
 - Draw 2 mL from the vial into each of three 10 mL syringes.
-- Complete the reconstitution by adding 8 mL of 0.9% non-preserved saline solution into each of the 10 mL syringes, and mix gently.
+- Complete the reconstitution by adding 8 mL of preservative-free 0.9% Sodium Chloride Injection, USP into each of the 10 mL syringes, and mix gently.
   This will result in three 10 mL syringes each containing 10 mL (~67 Units in each), for a total of 200 Units of reconstituted BOTOX.
 - Use immediately after reconstitution in the syringe.
   Dispose of any unused saline.
 
 100 Unit Vial of BOTOX
 
-- Reconstitute two 100 Unit vials of BOTOX, each with 6 mL of 0.9% non-preserved saline solution and mix the vials gently.
+- Reconstitute two 100 Unit vials of BOTOX, each with 6 mL of preservative-free 0.9% Sodium Chloride Injection, USP and mix the vials gently.
 - Draw 4 mL from each vial into each of two 10 mL syringes.
   Draw the remaining 2 mL from each vial into a third 10 mL syringe for a total of 4 mL in each syringe.
-- Complete the reconstitution by adding 6 mL of 0.9% non-preserved saline solution into each of the 10 mL syringes, and mix gently.
+- Complete the reconstitution by adding 6 mL of preservative-free 0.9% Sodium Chloride Injection, USP into each of the 10 mL syringes, and mix gently.
   This will result in three 10 mL syringes each containing 10 mL (~67 Units in each), for a total of 200 Units of reconstituted BOTOX.
 - Use immediately after reconstitution in the syringe.
   Dispose of any unused saline.
@@ -147,7 +146,7 @@ Table 2: BOTOX Dosing by Muscle for Chronic Migraine
 ## 2.5 Upper Limb Spasticity
 
 Dosing in initial and sequential treatment sessions should be tailored to the individual based on the size, number and location of muscles involved, severity of spasticity, the presence of local muscle weakness, the patient's response to previous treatment, or adverse event history with BOTOX.
-In clinical trials, doses ranging from 75 Units to 360 Units were divided among selected muscles at a given treatment session.
+In clinical trials, doses ranging from 75 Units to 400 Units were divided among selected muscles (see Table 3 and Figure 2) at a given treatment session.
 
 Table 3: BOTOX Dosing by Muscle for Upper Limb Spasticity
 
@@ -158,11 +157,15 @@ Table 3: BOTOX Dosing by Muscle for Upper Limb Spasticity
 | Flexor Carpi Ulnaris | 12.5 Units-50 Units in 1 site |
 | Flexor Digitorum Profundus | 30 Units-50 Units in 1 site |
 | Flexor Digitorum Sublimis | 30 Units-50 Units in 1 site |
+| Adductor Pollicis | 20 Units in 1 site |
+| Flexor Pollicis Longus | 20 Units in 1 site |
 
-The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with 0.9% non-preserved sterile saline (see Table 1).
+Figure 2: Injection Sites for Upper Limb Spasticity
+
+The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP (see Table 1).
 The lowest recommended starting dose should be used, and no more than 50 Units per site should generally be administered.
 An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
-Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques is recommended.
+Localization of the involved muscles with techniques such as needle electromyographic guidance or nerve stimulation is recommended.
 
 Repeat BOTOX treatment may be administered when the effect of a previous injection has diminished, but generally no sooner than 12 weeks after the previous injection.
 The degree and pattern of muscle spasticity at the time of re-injection may necessitate alterations in the dose of BOTOX and muscles to be injected.
@@ -177,7 +180,7 @@ Dosing in initial and sequential treatment sessions should be tailored to the in
 The initial dose for a patient without prior use of BOTOX should be at a lower dose, with subsequent dosing adjusted based on individual response.
 Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.5, 5.6)].
 
-The recommended dilution is 200 Units/2 mL, 200 Units/4 mL, 100 Units/1 mL, or 100 Units/2 mL with 0.9% non-preserved sterile saline, depending on volume and number of injection sites desired to achieve treatment objectives (see Table 1).
+The recommended dilution is 200 Units/2 mL, 200 Units/4 mL, 100 Units/1 mL, or 100 Units/2 mL with preservative-free 0.9% Sodium Chloride Injection, USP, depending on volume and number of injection sites desired to achieve treatment objectives (see Table 1).
 In general, no more than 50 Units per site should be administered.
 An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
 Localization of the involved muscles with electromyographic guidance may be useful.
@@ -204,9 +207,9 @@ Gently blow off any excess starch powder.
 The hyperhidrotic area will develop a deep blue-black color over approximately 10 minutes.
 
 Each injection site has a ring of effect of up to approximately 2 cm in diameter.
-To minimize the area of no effect, the injection sites should be evenly spaced as shown in Figure 2.
+To minimize the area of no effect, the injection sites should be evenly spaced as shown in Figure 3.
 
-Figure 2: Injection Pattern for Primary Axillary Hyperhidrosis
+Figure 3: Injection Pattern for Primary Axillary Hyperhidrosis
 
 Each dose is injected to a depth of approximately 2 mm and at a 45° angle to the skin surface, with the bevel side up to minimize leakage and to ensure the injections remain intradermal.
 If injection sites are marked in ink, do not inject BOTOX directly through the ink mark to avoid a permanent tattoo effect.
