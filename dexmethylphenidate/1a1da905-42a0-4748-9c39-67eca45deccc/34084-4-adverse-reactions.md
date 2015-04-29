@@ -114,6 +114,8 @@ Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose During Double-
 The following additional adverse reactions have been identified during postapproval use of Focalin XR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
 
+Musculoskeletal: rhabdomyolysis
+
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
 ## 6.6 Adverse Events with Other Methylphenidate HCl Dosage Forms
