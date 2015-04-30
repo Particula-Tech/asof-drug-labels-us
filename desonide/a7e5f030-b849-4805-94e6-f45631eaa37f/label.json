@@ -1,6 +1,5 @@
 {
   "application_numbers": [
-    "ANDA071425",
     "ANDA072354",
     "NDA019048"
   ],
@@ -9,8 +8,8 @@
   "package_ndcs": [
     "0299-5765-02",
     "0299-5765-04",
-    "0299-5770-60",
-    "0299-5775-60"
+    "0299-5770-15",
+    "0299-5770-60"
   ],
   "products": [
     {
@@ -20,11 +19,6 @@
     },
     {
       "form": "LOTION",
-      "generic": "desonide",
-      "name": "DesOwen"
-    },
-    {
-      "form": "OINTMENT",
       "generic": "desonide",
       "name": "DesOwen"
     }

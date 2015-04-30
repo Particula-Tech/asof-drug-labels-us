@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 In controlled clinical trials, the total incidence of adverse reactions associated with the use of desonide was approximately 8%.
 These were: stinging and burning approximately 3%, irritation, contact dermatitis, condition worsened, peeling of skin, itching, intense transient erythema, and dryness/scaliness, each less than 2%.
