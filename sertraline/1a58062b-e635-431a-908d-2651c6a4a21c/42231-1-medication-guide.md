@@ -87,6 +87,14 @@ Symptoms may include:
   - weakness or feeling unsteady
   - confusion, problems concentrating or thinking or memory problems
 
+9.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 Do not stop SERTRALINE HYDROCHLORIDE without first talking to your healthcare provider.
 Stopping SERTRALINE HYDROCHLORIDE too quickly may cause serious symptoms including:
 
@@ -273,6 +281,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0541-4.0
+LAB-0541-6.0
 
-February 2013
+May 2014
