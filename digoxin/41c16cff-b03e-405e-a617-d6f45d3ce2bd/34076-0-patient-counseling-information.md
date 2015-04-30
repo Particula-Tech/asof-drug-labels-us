@@ -9,4 +9,8 @@
 - Advise parents or caregivers that the symptoms of having too high Digoxin Tablets doses may be difficult to recognize in infants and pediatric patients.
   Symptoms such as weight loss, failure to thrive in infants, abdominal pain, and behavioral disturbances may be indications of digoxin toxicity.
 - Suggest to the patient to monitor and record their heart rate and blood pressure daily.
-- Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with Digoxin Tablets.Manufactured By: West-Ward Pharmaceutical Corp. Eatontown, NJ 07724Revised January 2014
+- Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with Digoxin Tablets.
+
+Manufactured By: West-Ward Pharmaceutical Corp. Eatontown, NJ 07724
+
+Revised March 2015
