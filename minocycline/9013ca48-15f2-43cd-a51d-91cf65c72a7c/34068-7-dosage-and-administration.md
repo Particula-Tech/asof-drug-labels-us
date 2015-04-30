@@ -13,7 +13,7 @@ The usual dosage of minocycline hydrochloride capsules is 200 mg initially follo
 Alternatively, if more frequent doses are preferred, two or four 50 mg capsules may be given initially followed by one 50 mg capsule 4 times daily.
 Uncomplicated gonococcal infections other than urethritis and anorectal infections in men: 200 mg initially, followed by 100 mg every 12 hours for a minimum of 4 days, with post-therapy cultures within 2 to 3 days.
 In the treatment of uncomplicated gonococcal urethritis in men, 100 mg every 12 hours for 5 days is recommended.
-For the treatment of syphilis, the usual dosage of minocycline hydrochloride capsules should be administered over a period of 10 to 15 days.
+For the treatment of syphilis, the usual dosage of minocycline hydrochloride should be administered over a period of 10 to 15 days.
 Close follow-up, including laboratory tests, is recommended.
 In the treatment of meningococcal carrier state, the recommended dosage is 100 mg every 12 hours for 5 days.
 Mycobacterium marinum infections: Although optimal doses have not been established, 100 mg every 12 hours for 6 to 8 weeks have been used successfully in a limited number of cases.

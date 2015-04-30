@@ -1,6 +1,6 @@
-# PATIENT INFORMATION ABOUT
+# PATIENT INFORMATION
 
-Minocycline Hydrochloride Capsules, USP (min'' oh sye' kleen hye'' droe klor' ide) Rx only Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking them and each time you get a refill.
+Minocycline Hydrochloride Capsules, USP (min'' oh sye' kleen hye'' droe klor' ide) Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
 What are minocycline hydrochloride capsules?
@@ -32,7 +32,7 @@ Tell your doctor about all of your medical conditions, including if you:
   Minocycline passes into your milk and may harm your baby.
   You should decide whether to use minocycline hydrochloride capsules or breastfeed, but not both.
 
-Tell your doctor about all the medicines you are taking including prescription and non prescription medications, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you are taking including prescription and non-prescription medications, vitamins, and herbal supplements.
 Minocycline hydrochloride capsules and other medicines may interact.
 Especially tell your doctor if you take:
 
@@ -53,12 +53,12 @@ How should I take minocycline hydrochloride capsules?
   Skipping doses or not taking all your minocycline hydrochloride capsules may:
   - Decrease the effectiveness of the treatment
   - Increase the chance that bacteria will develop resistance to minocycline hydrochloride capsules
-  - Take minocycline hydrochloride capsules with a full glass of liquid.
-    Taking minocycline hydrochloride capsules with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
-    Your esophagus is the tube that connects your mouth to your stomach.
-  - Minocycline hydrochloride capsules may be taken with or without food.
-    If you forget to take minocycline hydrochloride capsules, take them as soon as you remember.
-  - If you take too many minocycline hydrochloride capsules, call your doctor or poison control center right away.
+- Take minocycline hydrochloride capsules with a full glass of liquid.
+  Taking minocycline hydrochloride capsules with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
+  Your esophagus is the tube that connects your mouth to your stomach.
+- Minocycline hydrochloride capsules may be taken with or without food.
+  If you forget to take minocycline hydrochloride capsules, take them as soon as you remember.
+- If you take too much minocycline hydrochloride, call your doctor or poison control center right away.
 
 What are the possible side effects of minocycline hydrochloride capsules?
 Minocycline hydrochloride capsules may cause serious side effects.
@@ -87,6 +87,8 @@ Minocycline hydrochloride capsules may also cause:
 
 These are not all the side effects with minocycline hydrochloride capsules.
 Ask your doctor or pharmacist for more information.
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 How should I store minocycline hydrochloride capsules?
 
 - Store minocycline hydrochloride capsules at room temperature and away from excess heat and moisture.
@@ -104,8 +106,8 @@ For more information, you can also call Aurobindo Pharma USA, Inc. at 1-866-850-
 Monday through Friday from 9:00 a.m. to 3:00 p.m.
 Eastern Time.
 What are the ingredients in minocycline hydrochloride capsules?
-Active ingredient: minocycline hydrochloride, USP, 50 mg, 75 mg, and 100 mg Inactive ingredients: Corn starch and magnesium stearate.
+Active ingredient: minocycline hydrochloride USP, 50 mg, 75 mg, and 100 mg Inactive ingredients: Corn starch and magnesium stearate.
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 04/2015
