@@ -1,15 +1,13 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Estrasorb should not be used in women with any of the following conditions:
+ESTRASORB is contraindicated in women with any of the following conditions:
 
-- •Undiagnosed abnormal genital bleeding.
-- •Known, suspected, or history of cancer of the breast.
-- •Known or suspected estrogen-dependent neoplasia.
-- •Active deep vein thrombosis, pulmonary embolism or history of these conditions.
-- •Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
-- •Liver dysfunction or disease.
-- •Estrasorb should not be used in patients with known hypersensitivity to its ingredients.
-- •Known or suspected pregnancy.
-  There is no indication for Estrasorb in pregnancy.
-  There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy.
-  (See PRECAUTIONS.)
+- •Undiagnosed abnormal genital bleeding
+- •Known, suspected, or history of cancer of the breast
+- •Known or suspected estrogen-dependent neoplasia
+- •Active DVT, PE, or history of these conditions.
+- •Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions
+- •Known anaphylactic reaction or angioedema with ESTRASORB
+- •Known liver impairment or disease
+- •Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
+- •Known or suspected pregnancy
