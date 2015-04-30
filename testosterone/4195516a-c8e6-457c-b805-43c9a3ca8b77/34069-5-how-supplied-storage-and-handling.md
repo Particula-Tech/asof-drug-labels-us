@@ -23,9 +23,9 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-9Z800 RC J3
+9Z800 RC J4
 
-Rev 02-15 C
+Rev 04-15 D
 
 # HOW SUPPLIED
 
@@ -53,8 +53,8 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-8Z100 RC J4
+8Z100 RC J5
 
-Rev 02-15 C
+Rev 04-15 D
 
-PIN323-PER/4
+PIN323-PER/5
