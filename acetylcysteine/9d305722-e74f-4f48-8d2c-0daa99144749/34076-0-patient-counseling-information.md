@@ -24,4 +24,4 @@ Minneapolis, MN 55427
 
 9X400 RC J1
 
-Rev 07-14 B
+Rev - 11-14 C

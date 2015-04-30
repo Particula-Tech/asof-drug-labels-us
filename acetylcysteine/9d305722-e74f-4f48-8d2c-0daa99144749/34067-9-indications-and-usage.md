@@ -52,8 +52,7 @@ The nomogram does not apply to patients with RSI.
 Treatment is based on the acetaminophen and elevated AST/ALT levels indicative of potential toxicity due to acetaminophen.
 For specific treatment information regarding the clinical management of repeated supratherapeutic acetaminophen overdose, please contact your regional poison center at 1-800-222-1222, or alternatively, a special health professional assistance line for acetaminophen overdose at 1-800-525-6115.
 
-Figure 2.
-Acetylcysteine Injection Treatment Flow Chart
+Figure 2.Acetylcysteine Injection Treatment Flow Chart
 
 1. 1Acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
 2. 2With an extended-release preparation, an acetaminophen level drawn less than 8 hours post-ingestion may be misleading.
