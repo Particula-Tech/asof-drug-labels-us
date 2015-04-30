@@ -1,4 +1,4 @@
-Revised: June 2014
+Revised: 04/2015
 
 ©Janssen Pharmaceuticals, Inc 2003
 
@@ -6,7 +6,7 @@ Product of Ireland
 
 Manufactured by:
 
-Janssen Pharmaceutica N.V.
+Janssen Pharmaceutica NV.
 
 Beerse, Belgium
 

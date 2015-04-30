@@ -56,10 +56,6 @@ These findings were not observed in a similar mouse carcinogenicity study.
 The clinical relevance of these adenocarcinomas is unknown.
 (See PRECAUTIONS: Carcinogenesis, Mutagenesis, and Impairment of Fertility.)
 
-## Cystic Fibrosis
-
-If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy (see CLINICAL PHARMACOLOGY: Special Populations).
-
 ## Treatment of Severely Neutropenic Patients
 
 SPORANOX® Oral Solution as treatment for oropharyngeal and/or esophageal candidiasis was not investigated in severely neutropenic patients.
@@ -76,6 +72,10 @@ Treatment should be stopped immediately and liver function testing should be con
 ## Neuropathy
 
 If neuropathy occurs that may be attributable to SPORANOX® Oral Solution, the treatment should be discontinued.
+
+## Cystic Fibrosis
+
+If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy (see CLINICAL PHARMACOLOGY: Special Populations).
 
 ## Hearing Loss
 
@@ -130,7 +130,7 @@ Potent inhibitors of CYP3A4 may increase the bioavailability of itraconazole.
 Examples include:
 
 - Antibacterials: ciprofloxacin, clarithromycin, erythromycin
-- Antivirals: ritonavir-boosted darunavir, ritonavir-boosted fosamprenavir, indinavir (see also under 'Drugs that may have their plasma concentrations increased by itraconazole'), ritonavir (see also under 'Drugs that may have their plasma concentrations increased by itraconazole')
+- Antivirals: ritonavir-boosted darunavir, ritonavir-boosted fosamprenavir, indinavir (see also under 'Drugs that may have their plasma concentrations increased by itraconazole'), ritonavir (see also under 'Drugs that may have their plasma concentrations increased by itraconazole') and telaprevir.
 
 It is recommended that these drugs be used with caution when coadministered with itraconazole oral solution.
 It is recommended that patients who must take itraconazole concomitantly with potent inhibitors of CYP3A4 be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of itraconazole, and the itraconazole dose be decreased as deemed necessary.
@@ -156,26 +156,26 @@ Table 1: Drugs that may have their plasma concentrations increased by itraconazo
 |  |  |  |  | Fentanyl: The potential increase in plasma concentrations of fentanyl when coadministered with SPORANOX® may increase the risk of potentially fatal respiratory depression. |
 |  |  |  |  | Sufentanil: No human pharmacokinetic data of an interaction with itraconazole are available. In vitro data suggest that sufentanil is metabolized by CYP3A4 and so potentially increased sufentanil plasma concentrations would be expected when coadministered with SPORANOX®. |
 | Antiarrhythmics | disopyramide, dofetilide, dronedarone, quinidine |  | digoxin | Disopyramide, dofetilide, dronedarone, quinidine: The potential increase in plasma concentrations of these drugs when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QTc prolongation. |
-| Antibacterials |  | rifabutin |  | Rifabutin: See also under 'Drugs that may decrease itraconazole plasma concentrations'. |
-| Anticoagulants and Antiplatelet Drugs |  | rivaroxaban | coumarins, cilostazol, dabigatran | Coumarins: SPORANOX® may enhance the anticoagulant effect of coumarin-like drugs, such as warfarin. |
+| Antibacterials | telithromycin, in subjects with severe renal impairment or severe hepatic impairment | rifabutin | telithromycin | Telithromycin: The potential increase in plasma concentrations of telithromycin in subjects with severe renal impairment or severe hepatic impairment, when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QT prolongation and torsade de pointes. Rifabutin: See also under 'Drugs that may decrease itraconazole plasma concentrations'. |
+| Anticoagulants and Antiplatelet Drugs | ticagrelor | apixaban, rivaroxaban | coumarins, cilostazol, dabigatran | Ticagrelor: The potential increase in plasma concentrations of ticagrelor may increase the risk of bleeding. Coumarins: SPORANOX® may enhance the anticoagulant effect of coumarin-like drugs, such as warfarin. |
 | Anticonvulsants |  | carbamazepine |  | Carbamazepine: In vivo studies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole. Although there are no data regarding the effect of itraconazole on carbamazepine metabolism, because of the similarities between ketoconazole and itraconazole, concomitant administration of SPORANOX® and carbamazepine may inhibit the metabolism of carbamazepine. See also under 'Drugs that may decrease itraconazole plasma concentrations'. |
 | Antidiabetics |  |  | repaglinide, saxagliptin |  |
 | Antihelmintics and Antiprotozoals |  |  | praziquantel |  |
 | Antimigraine Drugs | ergot alkaloids, such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine) |  | eletriptan | Ergot Alkaloids: The potential increase in plasma concentrations of ergot alkaloids when coadministered with SPORANOX® may increase the risk of ergotism, ie. a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities. |
-| Antineoplastics | irinotecan | dasatinib, nilotinib | bortezomib, busulphan, docetaxel, erlotinib, ixabepilone, lapatinib, trimetrexate, vinca alkaloids | Irinotecan: The potential increase in plasma concentrations of irinotecan when coadministered with SPORANOX® may increase the risk of potentially fatal adverse events. |
+| Antineoplastics | irinotecan | axitinib, dabrafenib, dasatinib, ibrutinib, nilotinib, sunitinib | bortezomib, busulphan, docetaxel, erlotinib, imatinib, ixabepilone, ponatinib, lapatinib, trimetrexate, vinca alkaloids | Irinotecan: The potential increase in plasma concentrations of irinotecan when coadministered with SPORANOX® may increase the risk of potentially fatal adverse events. |
 | Antipsychotics, Anxiolytics and Hypnotics | lurasidone, oral midazolam, pimozide, triazolam |  | alprazolam, aripiprazole, buspirone, diazepam, haloperidol, midazolam IV, perospirone, quetiapine, ramelteon, risperidone | Midazolam, triazolam: Coadministration of SPORANOX® and oral midazolam, or triazolam may cause several-fold increases in plasma concentrations of these drugs. This may potentiate and prolong hypnotic and sedative effects, especially with repeated dosing or chronic administration of these agents. |
 |  |  |  |  | Pimozide: The potential increase in plasma concentrations of pimozide when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QTc prolongation and torsade de pointes. |
-| Antivirals |  |  | maraviroc, indinavir, ritonavir saquinavir | Indinavir, ritonavir: See also under 'Drugs that may increase itraconazole plasma concentrations'. |
+| Antivirals |  | simprevir | maraviroc, indinavir, ritonavir, saquinavir | Indinavir, ritonavir: See also under 'Drugs that may increase itraconazole plasma concentrations'. |
 | Beta Blockers |  |  | nadolol |  |
 | Calcium Channel Blockers | felodipine, nisoldipine |  | other dihydropyridines, verapamil | Calcium channel blockers can have a negative inotropic effect which may be additive to those of itraconazole. The potential increase in plasma concentrations of calcium channel blockers when co-administered with SPORANOX® may increase the risk of congestive heart failure. Dihydropyridines: Concomitant administration of SPORANOX® may cause several-fold increases in plasma concentrations of dihydropyridines. Edema has been reported in patients concomitantly receiving SPORANOX® and dihydropyridine calcium channel blockers. |
-| Cardiovascular Drugs, Miscellaneous | ranolazine | aliskiren |  | Ranolazine: The potential increase in plasma concentrations of ranolazine when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QTc prolongation. |
+| Cardiovascular Drugs, Miscellaneous | ranolazine | aliskiren, sildenafil, for the treatment of pulmonary hypertension | bosentan, riociguat | Ranolazine: The potential increase in plasma concentrations of ranolazine when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QTc prolongation. |
 | Diuretics | eplerenone |  |  | Eplerenone: The potential increase in plasma concentrations of eplerenone when coadministered with SPORANOX® may increase the risk of hyperkalemia and hypotension. |
 | Gastrointestinal Drugs | cisapride |  | aprepitant | Cisapride: The potential increase in plasma concentrations of cisapride when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QTc prolongation. |
 | Immunosuppressants |  | everolimus, temsirolimus | budesonide, ciclesonide, cyclosporine, dexamethasone, fluticasone, methylprednisolone, rapamycin (also known as sirolimus), tacrolimus |  |
 | Lipid Regulating Drugs | lovastatin, simvastatin |  | atorvastatin | The potential increase in plasma concentrations of atorvastatin, lovastatin, and simvastatin when coadministered with SPORANOX® may increase the risk of skeletal muscle toxicity, including rhabdomyolysis. |
 | Respiratory Drugs |  | salmeterol |  |  |
-| Urological Drugs |  | vardenafil | fesoterodine. sildenafil, solifenacin, tadalafil, tolterodine |  |
-| Other | colchicine, in subjects with renal or hepatic impairment | colchicine | cinacalcet, tolvaptan | Colchicine: The potential increase in plasma concentrations of colchicine when coadministered with SPORANOX® may increase the risk of potentially fatal adverse events. |
+| Urological Drugs | fesoterodine, in subjects with moderate to severe renal impairment, or moderate to severe hepatic impairment, solifenacin, in subjects with severe renal impairment or moderate to severe hepatic impairment | darifencin, vardenafil | fesoterodine, oxybutynin sildenafil, for the treatment of erectile dysfunction, solifenacin, tadalafil, tolterodine | Fesoterodine: The potential increase in plasma concentrations of the fesoteridine active metabolite may be greater in subjects with moderate to severe renal impairment, or moderate to severe hepatic impairment, which may lead to an increased risk of adverse reactions. Solifenacin: The potential increase in plasma concentrations of solifenacin in subjects with severe renal impairment or moderate to severe hepatic impairment, when coadministered with SPORANOX® may increase the risk of serious cardiovascular events including QT prolongation. |
+| Other | colchicine, in subjects with renal or hepatic impairment | colchicine, conivaptan, tolvaptan | cinacalcet | Colchicine: The potential increase in plasma concentrations of colchicine when coadministered with SPORANOX® may increase the risk of potentially fatal adverse events. Conivaptan and Tolvaptan: A safe and effective dose of either conivaptan or tolvaptan has not been established when coadministered with SPORANOX®. |
 
 ### Drugs that may have their plasma concentrations decreased by itraconazole
 
@@ -228,6 +228,7 @@ HP-β-CD has no antifertile effect, and is not mutagenic.
 #### Pregnancy Category C
 
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40–160 mg/kg/day (5–20× MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10× MRHD).
+Itraconazole has been shown to cross the placenta in a rat model.
 In rats, the teratogenicity consisted of major skeletal defects; in mice, it consisted of encephaloceles and/or macroglossia.
 
 SPORANOX® Oral Solution contains the excipient hydroxypropyl-β-cyclodextrin (HP-β-CD).

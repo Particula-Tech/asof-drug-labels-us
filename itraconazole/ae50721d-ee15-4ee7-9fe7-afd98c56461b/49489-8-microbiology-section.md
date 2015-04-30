@@ -24,7 +24,7 @@ As with other azoles, itraconazole inhibits the 14C-demethylation step in the sy
 Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.
 
-## Activity In Vitro and In Vivo
+## Activity In Vitro and in Clinical Infections
 
 Itraconazole has been shown to be active against most strains of the following microorganism, both in vitro and in clinical infections.
 
@@ -50,7 +50,7 @@ Susceptibility Interpretive Criteria for Itraconazole1,2
 
 | S | I | R |  |
 | --- | --- | --- | --- |
-| Pathogen | Broth Microdilution MICA report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable. The intermediate category implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used. The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies. The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for itraconazole. (µg/mL) at 48 Hours |  |  |
+| Pathogen | Broth Microdilution MICA report of "Susceptible" indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection. A report of intermediate (I) category implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used. The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for itraconazole. A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected. (µg/mL) at 48 Hours |  |  |
 | Candida albicans | ≤ 0.125 | 0.25 – 0.5 | ≥ 1 |
 
 ### Quality Control

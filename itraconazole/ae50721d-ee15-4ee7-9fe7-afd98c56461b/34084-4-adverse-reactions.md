@@ -53,7 +53,7 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 ## Adverse Events Reported from Other Clinical Trials
 
-A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX® Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX® Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials" or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia, tremor, and pulmonary infiltration.
+A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX® Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX® Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials" or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 
 In addition, the following adverse drug reactions were reported in patients who participated in SPORANOX® Oral Solution clinical trials:
 
@@ -106,7 +106,7 @@ Table 3: Postmarketing Reports of Adverse Drug Reactions
 | --- | --- |
 | Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
 | Metabolism and Nutrition Disorders: | Hypertriglyceridemia |
-| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia |
+| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
 | Cardiac Disorders: | Congestive heart failure |
