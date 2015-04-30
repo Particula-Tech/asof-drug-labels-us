@@ -117,3 +117,25 @@ Wilmington, DE 19850
 Product of Belgium
 
 AstraZeneca
+
+# Package/Label Display Panel - Sample
+
+NDC 0310-0297-92
+
+SEROQUEL XR®
+
+quetiapine fumarate
+
+extended-release tablets
+
+50 mg, 200 mg, 300 mg* Once Daily
+
+Rx only
+
+AstraZeneca Pharmaceuticals LP
+
+Wilmington, DE 19850
+
+Product of Belgium
+
+AstraZeneca

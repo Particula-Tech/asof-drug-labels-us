@@ -19,9 +19,15 @@
     "0310-0283-94",
     "0310-0284-39",
     "0310-0284-60",
-    "0310-0284-94"
+    "0310-0284-94",
+    "0310-0297-92"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "quetiapine fumarate",
+      "name": "SEROQUEL"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "quetiapine fumarate",
