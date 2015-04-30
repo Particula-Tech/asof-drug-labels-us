@@ -98,17 +98,13 @@ Active Ingredient: insulin aspart (rDNA origin)
 
 Inactive Ingredients: glycerin, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride and water for injection
 
-Manufactured by:
-
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd, Denmark
+Manufactured by: Novo Nordisk A/S; DK-2880 Bagsvaerd, Denmark
 
 For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 02/2015
+Revised: 04/2015
 
 INSTRUCTIONS FOR USE
 
@@ -186,7 +182,6 @@ After that, you may see a drop of NovoLog® at the needle tip.
 This is normal and does not affect the dose you just received (See Figure L).
 
 - •If you see blood after you take the needle out of your skin, press the injection site lightly with a
-
 - piece of gauze or an alcohol swab.
   Do not rub the area.
 
@@ -253,24 +248,24 @@ You may give other people a serious infection, or get a serious infection from t
 
 Before using the NovoLog® cartridge
 
-- 1.Talk with your healthcare provider for information about where to inject NovoLog® (injection sites) and how to give an injection with your insulin delivery device.
-- 2.Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill® cartridge with the device.
+- •Talk with your healthcare provider for information about where to inject NovoLog® (injection sites) and how to give an injection with your insulin delivery device.
+- •Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill® cartridge with the device.
 
 How to use the NovoLog® cartridge
 
-- 1.Check your insulin.
+- •Check your insulin.
   Just before using your NovoLog® cartridge, check to make sure that you have the right type of insulin.
   This is especially important if you use different types of insulin.
-- 2.Carefully look at the cartridge and the insulin inside it.
+- •Carefully look at the cartridge and the insulin inside it.
   The insulin should be clear and colorless.
   The tamper-resistant foil should be in place before the first use.
   If the foil has been broken or removed before your first use of the cartridge, or if the insulin is cloudy or colored, do not use it.
   Call Novo Nordisk at 1-800-727-6500.
-- 3.Wash your hands well with soap and water.
+- •Wash your hands well with soap and water.
   If you clean your injection site with an alcohol swab, let the injection site dry before you inject.
   Talk with your healthcare provider for guidance on injection sites and how to give an injection with your insulin delivery device.
-- 4.Gather your supplies for injecting NovoLog®.
-- 5.Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
+- •Gather your supplies for injecting NovoLog®.
+- •Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
   Wipe the front rubber stopper of the 3 mL PenFill® cartridge with an alcohol swab, then attach a new needle.
   For NovoFine® needles, remove the big outer needle cap and the inner needle cap.
   Always use a new needle for each injection to prevent infection.
@@ -285,9 +280,9 @@ Do the airshot as described in the device instruction manual.
 
 Giving the injection
 
-- 6.Dial the number of units on the insulin delivery device that you need to inject.
+- •Dial the number of units on the insulin delivery device that you need to inject.
   Inject the right way as shown to you by your healthcare provider.
-- 7.Insert the needle into the skin.
+- •Insert the needle into the skin.
   Inject the dose by pressing the push button all the way in.
   Keep the needle in the skin for at least 6 seconds, and keep the push button pressed all the way in until the needle has been pulled out from the skin.
   This will make sure that the full dose has been given.
@@ -298,28 +293,26 @@ Giving the injection
 
 After the injection
 
-- 8.Do not recap the needle.
+- •Do not recap the needle.
   Recapping can lead to a needle stick injury.
-- 9.Remove the needle from the PenFill® cartridge after each injection.
+- •Remove the needle from the PenFill® cartridge after each injection.
   Keep the 3 mL PenFill® cartridge in the insulin delivery device.
   The needle should not be attached to the 3 mL PenFill® cartridge during storage.
   This will prevent infection or leakage of insulin and will help ensure that you receive the right dose of NovoLog®.
-- 10.Put your used NovoLog Penfill cartridge and needles in a FDA-cleared sharps disposal container right away after use.
+- •Put your used NovoLog Penfill cartridge and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Penfill cartridges in your household trash.
-
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-- omade of a heavy-duty plastic
-- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-- oupright and stable during use
-- oleak-resistant
-- oproperly labeled to warn of hazardous waste inside the container
+- •made of a heavy-duty plastic
+- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- •upright and stable during use
+- •leak-resistant
+- •properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
   Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-
-- 11.Put the pen cap back on the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
+- •Put the pen cap back on the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
 
 Date of Issue: February 2015
 
@@ -589,14 +582,14 @@ NovoLog® FlexPen®
 
 Introduction
 
+Please read the following instructions carefully before using your NovoLog® FlexPen®.
+
 Do not share your NovoLog FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-Please read the following instructions carefully before using your NovoLog® FlexPen®.
-
 NovoLog FlexPen is a disposable dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
-NovoLog FlexPen is designed to be used with NovoFine® needles.
+NovoLog FlexPen is designed to be used with NovoFine®, NovoFine® Plus or NovoTwist® needles.
 
 - Δ NovoLog FlexPen should not be used by people who are blind or have severe visual problems without the help of a person who has good eyesight and who is trained to use the NovoLog FlexPen the right way.
 
@@ -605,10 +598,10 @@ Getting ready
 Make sure you have the following items:
 
 - •NovoLog FlexPen
-- •New NovoFine needle
+- •New NovoFine, NovoFine Plus or NovoTwist needle
 - •Alcohol swab
 
-Preparing Your NovoLog FlexPen
+Preparing your NovoLog FlexPen
 
 Wash your hands with soap and water.
 Before you start to prepare your injection, check the label to make sure that you are taking the right type of insulin.
@@ -678,6 +671,11 @@ Giving the injection
 Do the injection exactly as shown to you by your healthcare provider.
 Your healthcare provider should tell you if you need to pinch the skin before injecting.
 
+Novolog can be injected under the skin (subcutaneously) or your stomach area, buttocks, upper legs (thighs), or upper arms.
+
+For each injection, change (rotate) your injection site within the area of skin that you use.
+Do not use the same injection site for each injection.
+
 I. Insert the needle into your skin.
 
 Inject the dose by pressing the push-button all the way in until the 0 lines up with the pointer (see diagram I). Be careful only to push the button when injecting.
@@ -686,7 +684,7 @@ Turning the dose selector will not inject insulin.
 
 J. Keep the needle in the skin for at least 6 seconds, and keep the push-button pressed all the way in until the needle has been pulled out from the skin (see diagram J). This will make sure that the full dose has been given.
 
-You may see a drop of NovoLog at the needle tip.
+You may see a drop of insulin at the needle tip.
 This is normal and has no effect on the dose you just received.
 If blood appears after you take the needle out of your skin, press the injection site lightly with a finger.
 Do not rub the area.
@@ -695,17 +693,20 @@ After the injection
 
 Do not recap the needle.
 Recapping can lead to a needle stick injury.
-Remove the needle from the NovoLog FlexPen after each injection.
+Remove the needle from the NovoLog FlexPen after each injection and dispose of it.
 This helps to prevent infection, leakage of insulin, and will help to make sure you inject the right dose of insulin.
+
+If you do not have a sharps container, carefully slip the needle into the outer needle cap.
+Safely remove the needle and throw it away as soon as you can.
 
 - •Put your used NovoLog FlexPen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - oupright and stable during use
-  - oleak-resistant
-  - oproperly labeled to warn of hazardous waste inside the container
+  - •made of a heavy-duty plastic
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - •upright and stable during use
+  - •leak-resistant
+  - •properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -717,26 +718,21 @@ It is designed to deliver 300 units.
 
 K. Put the pen cap on the NovoLog FlexPen and store the NovoLog FlexPen without the needle attached (see diagram K).
 
-L. Function Check
+Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
-If your NovoLog FlexPen is not working the right way, follow the steps below:
+How should I store NovoLog FlexPen?
 
-- •Screw on a new NovoFine needle.
-- •Remove the big outer needle cap and the inner needle cap.
-- •Do an airshot as described in "Giving the airshot before each injection".
-- •Put the big outer needle cap onto the needle.
-  Do not put on the inner needle cap.
-- •Turn the dose selector so the dose indicator window shows 20 units.
-- •Hold the NovoLog FlexPen so the needle is pointing down.
-- •Press the push-button all the way in.
-
-The insulin should fill the lower part of the big outer needle cap (see diagram L). If the NovoLog FlexPen has released too much or too little insulin, do the function check again.
-If the same problem happens again, do not use your NovoLog FlexPen and contact Novo Nordisk at 1-800-727-6500.
+- •Store unused NovoLog FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- •Store the FlexPen you are currently using out of the refrigerator below 86°F (30°C) for up to 28 days.
+- •Do not freeze NovoLog.
+  Do not use NovoLog if it has been frozen.
+- •Keep NovoLog away from heat or light.
+- •Unused FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
+- •The NovoLog FlexPen you are using should be thrown away after 28 days, even if it still has insulin left in it.
 
 Maintenance
 
-Your FlexPen is designed to work accurately and safely.
-It must be handled with care.
+For the safe and proper use of your FlexPen be sure to handle it with care.
 Avoid dropping your FlexPen as it may damage it.
 If you are concerned that your FlexPen is damaged, use a new one.
 You can clean the outside of your FlexPen by wiping it with a damp cloth.
@@ -752,14 +748,22 @@ This helps to ensure sterility, prevent leakage of insulin, and will help to mak
 
 Δ Use NovoLog FlexPen as directed to treat your diabetes.
 
-ΔDo not share your Novolog FlexPen or needles with other people.
-You may give other people a serious infection, or get a serious infection from them.
+Δ Do not share your NovoLog FlexPen or needles with other people.
+You may give other people a serious infection, or
+
+get a serious infection from them.
 
 Δ Always use a new needle for each injection.
 
-Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
+Δ Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo
+
+Nordisk.
 
 Δ As a precautionary measure, always carry a spare insulin delivery device in case your NovoLog FlexPen is lost or damaged.
 
 Δ Remember to keep the disposable NovoLog FlexPen with you.
 Do not leave it in a car or other location where it can get too hot or too cold.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration
+
+Revised: 04/2015

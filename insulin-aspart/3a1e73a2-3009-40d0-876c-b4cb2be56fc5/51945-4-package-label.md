@@ -62,7 +62,7 @@ For Single Patient Use Only
 
 Rx only
 
-For use with NovoFine® disposable needles.
+For use with NovoFine®, NovoFine Plus® or NovoTwist® disposable needles.
 
 Keep in a cold place.
 

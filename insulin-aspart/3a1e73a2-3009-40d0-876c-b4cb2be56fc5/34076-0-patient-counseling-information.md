@@ -66,7 +66,7 @@ See separate leaflet.
 
 Rx only
 
-Date of Issue: February 25, 2015
+Date of issue: February 25, 2015
 
 Version: 24
 

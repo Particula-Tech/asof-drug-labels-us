@@ -20,7 +20,7 @@ NovoLog or human insulin was infused until the patient’s blood glucose decreas
 
 ## 12.3 Pharmacokinetics
 
-Absorption -The single substitution of the amino acid proline with aspartic acid at position B28 in NovoLog reduces the molecule's tendency to form hexamers as observed with regular human insulin.
+Absorption - The single substitution of the amino acid proline with aspartic acid at position B28 in NovoLog reduces the molecule's tendency to form hexamers as observed with regular human insulin.
 NovoLog is, therefore, more rapidly absorbed after subcutaneous injection compared to regular human insulin (see Figure 4).
 
 The relative bioavailability of NovoLog (0.15 U/kg) compared to regular human insulin (0.15 U/kg) indicates that the two insulins are absorbed to a similar extent.
