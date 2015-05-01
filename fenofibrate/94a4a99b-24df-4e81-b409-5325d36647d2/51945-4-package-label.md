@@ -1,3 +1,15 @@
-Principal Display Panel NDC 59630-480-30 Triglide® (fenofibrate) tablets 50 mg 30 Tablets RX Only SHIONOGI INC.
+# PRINCIPAL DISPLAY PANEL - 160 mg Tablet Bottle Carton
 
-Principal Display Panel NDC 59630-485-30 Triglide® (fenofibrate) tablets 160 mg 30 Tablets RX Only SHIONOGI INC.
+NDC: 59630-485-30
+
+160 mg
+
+Each tablet contains 160 mg fenofibrate
+
+Triglide® (fenofibrate) tablets 160 mg
+
+Store tablets only in the moisture protective container.
+
+30 Tablets
+
+Rx Only

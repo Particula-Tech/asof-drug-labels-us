@@ -68,8 +68,9 @@ Baseline and regular periodic monitoring of liver tests, including serum ALT (SG
 Elevations in serum creatinine have been reported in patients on fenofibrate.
 These elevations tend to return to baseline following discontinuation of fenofibrate.
 The clinical significance of these observations is unknown.
-Monitor renal function in patients with renal impairment taking Triglide.
-Renal monitoring should also be considered for patients taking Triglide at risk for renal insufficiency such as the elderly and patients with diabetes.
+Consider monitoring renal function in patients taking Triglide who are at risk for renal impairment, such as the elderly and patients with diabetes.
+Triglide should be avoided in patients with mild or moderate renal impairment.
+Triglide is contraindicated in patients with severe renal impairment, including those with end-stage renal disease (ESRD) and those receiving dialysis [see Contraindications (4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.5 Cholelithiasis
 
@@ -81,7 +82,7 @@ Triglide therapy should be discontinued if gallstones are found.
 
 Caution should be exercised when anticoagulants are given in conjunction with Triglide because of the potentiation of coumarin-type anti-coagulant effects in prolonging the prothrombin time/International Normalized Ration (PT/INR).
 The dosage of the anticoagulant should be reduced to maintain the PT/INR at the desired level to prevent bleeding complications.
-Frequent PT/INR determinations are advisable until it has been definitely determined that the PT/INR has stabilized [See Drug Interactions (7.1)].
+Frequent PT/INR determinations are advisable until it has been definitely determined that the PT/INR has stabilized [see Drug Interactions (7.1)].
 
 ## 5.7 Pancreatitis
 

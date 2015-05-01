@@ -15,7 +15,7 @@ The benefits and risks of using Triglide with immunosuppressants and other poten
 
 ## 7.3 Bile-Acid Binding Resins
 
-Since bile acid binding resins may bind other drugs given concurrently, patients should take Triglide at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
+Since bile-acid binding resins may bind other drugs given concurrently, patients should take Triglide at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
 
 ## 7.4 Colchicine
 

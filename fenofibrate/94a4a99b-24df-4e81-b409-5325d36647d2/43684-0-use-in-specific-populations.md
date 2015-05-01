@@ -31,15 +31,14 @@ Safety and effectiveness have not been established in pediatric patients.
 
 Fenofibric acid is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Fenofibric acid exposure is not influenced by age.
-Since elderly patients have a higher incidence of renal impairment, dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
-Elderly patients with normal renal function should require no dose modifications.
+Since elderly patients have a higher incidence of renal impairment, use of Triglide in the elderly should be made on the basis of renal function [see Contraindications (4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 Consider monitoring renal function in elderly patients taking Triglide.
 
 ## 8.6 Renal Impairment
 
-The use of Triglide should be avoided in patients with severe renal impairment [see Contraindications (4)].
-Dose reduction is required in patients with mild to moderate renal impairment [See Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
-Monitoring renal function in patients with renal impairment is recommended.
+Patients with severe renal impairment have 2.7-fold higher exposure of fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared with healthy volunteers.
+Thus, Triglide is contraindicated in patients with severe renal impairment, including those with end-stage renal disease (ESRD) and those receiving dialysis.
+In addition, avoid use in patients with mild or moderate renal impairment [see Contraindications (4), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

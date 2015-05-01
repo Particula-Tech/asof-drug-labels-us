@@ -1,27 +1,19 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised:
+Instruct patients to take Triglide once daily at the prescribed dose, swallowing each tablet whole.
+Additionally, instruct patients not to take chipped or broken tablets.
 
-- of the potential benefits and risks of Triglide.
-- not to use Triglide if there is a known hypersensitivity to fenofibrate or fenofibric acid.
-- of medications that should not be taken in combination with Triglide.
-- that if they are taking coumarin anticoagulants, Triglide may increase their anti-coagulant effect, and increased monitoring may be necessary.
-- to inform their physician of all medications, supplements, and herbal preparations they are taking and any change in their medical condition.
-- to inform a physician prescribing a new medication, that they are taking Triglide.
-- to continue to follow an appropriate lipid-modifying diet while taking Triglide.
-- to take Triglide once daily at the prescribed dose, swallowing each tablet whole.
-- to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
-- to return to their physician’s office for routine monitoring.
+Instruct patients to keep Triglide in the original bottle to protect from moisture.
+The bottle contains a desiccant in the cap to protect tablets from moisture.
+Tablets should not be stored or placed in any other container, such as pill boxes or pill organizers.
 
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
+Instruct patients to continue following an appropriate lipid-modifying diet while taking Triglide.
 
-Manufactured by: Aenova France SAS, 38291 Saint-Quentin-Fallavier, France
+Advise patients not to use Triglide if they have a known hypersensitivity to fenofibrate or fenofibric acid.
 
-Made in France
+Advise patients to promptly report any unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever; onset of abdominal pain or other symptoms consistent with gallstones or pancreatitis; or any other new symptoms.
 
-TRI-PI-03
+Inform patients that if they are taking coumarin anticoagulants, Triglide may increase their anti-coagulant effect and that increased monitoring may be necessary.
 
-Rev.
-01/2013
-
-© Shionogi Inc. All rights reserved.
+Advise patients regarding medications that should not be taken in combination with Triglide or that may necessitate increased monitoring.
+Instruct patients to inform their health care providers regarding all medications, supplements, and herbal preparations that they are taking.

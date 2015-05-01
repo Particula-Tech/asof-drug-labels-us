@@ -1,19 +1,20 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 The active moiety of Triglide is fenofibric acid.
 The pharmacological effects of fenofibric acid in both animals and humans have been extensively studied through oral administration of fenofibrate.
 
-The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of perxisome proliferators activated receptor α (PPARα).
+The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferators activated receptor α (PPARα).
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
+
 The resulting decrease in TG produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be artherogenic due to their susceptibility to oxidation), to large buoyant particles.
 These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
 Activation of PPARα also induces an increase in the synthesis of apoproteins A-I, A-II and HDL-cholesterol.
 
 Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal individuals by increasing the urinary excretion of uric acid.
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 A variety of clinical studies have demonstrated that elevated levels of TC, LDL-C, and apo B, an LDL membrane complex, are associated with human atherosclerosis.
 Similarly, decreased levels of HDL-C and its transport complex, apolipoprotein A (apo AI and apo AII) are associated with the development of atherosclerosis.
@@ -51,7 +52,6 @@ Fenofibric acid is eliminated with a half-life of approximately 16 hours, allowi
 
 Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
 This indicates that a similar dosage regimen can be used in the elderly, without increasing accumulation of the drug or metabolites.
-[See Dosage and Administration (2.4) and Use in Specific Populations (8.5).]
 
 Pediatrics: Pharmacokinetics of Triglide has not been studied in pediatric patients.
 
@@ -61,8 +61,9 @@ Race: The influence of race on the pharmacokinetics of fenofibrate has not been 
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
 Patients with severe renal impairment (creatinine clearance [CrCl ≤ 30 mL/min] < 30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73 m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGRF 30-59 mL/min/1.73 m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-Based on these findings, the use of Triglide should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4).]
+Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73 m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, avoid use of Triglide in patients with mild or moderate renal impairment.
+Triglide is contraindicated for patients with severe renal impairment, including end-stage renal disease (ESRD) or those receiving dialysis [see Contraindications (4) and Use in Special Populations (8.6)].
 
 Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic impairment.
 
@@ -76,32 +77,30 @@ Table 3 describes the effects of fenofibrate on co-administered drugs.
 Table 2.
 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Administration
 
-| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate |  |  | Changes in Fenofibric Acid Exposure |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | AUC |  | Cmax |
-| Lipid-lowering agents |  |  |  |  |  |  |  |
-| Atorvastatin | 20 mg once daily for 10 days |  | Fenofibrate 160 mg1 once daily for 10 days |  | ↓2% | ↓4% |  |
-| Pravastatin | 40 mg as a single dose |  | Fenofibrate 3 x 67 mg2 as a single dose |  | ↓1% | ↓2% |  |
-| Fluvastatin | 40 mg as a single dose |  | Fenofibrate 160 mg1 as a single dose |  | ↓2% | ↓10% |  |
-| Anti-diabetic agents |  |  |  |  |  |  |  |
-| Glimepiride | 1 mg as a single dose |  | Fenofibrate 145 mg1 once daily for 10 days |  | ↑1% | ↓1% |  |
-| Metformin | 850 mg three times daily for 10 days |  | Fenofibrate 54 mg1 three times daily for 10 days |  | ↓9% | ↓6% |  |
-| Rosiglitazone | 8 mg once daily for 5 days |  | Fenofibrate 145 mg1 once daily for 14 days |  | ↑10% | ↑3% |  |
-| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |  |  |
+|  |  |  | AUC | Cmax |
+| --- | --- | --- | --- | --- |
+| Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
+| Lipid-lowering agents |  |  |  |  |
+| Atorvastatin | 20 mg once daily for 10 days | Fenofibrate 160 mgTriCor (fenofibrate) oral tabletonce daily for 10 days | ↓2% | ↓4% |
+| Pravastatin | 40 mg as a single dose | Fenofibrate 3 × 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | ↓1% | ↓2% |
+| Fluvastatin | 40 mg as a single dose | Fenofibrate 160 mg as a single dose | ↓2% | ↓10% |
+| Anti-diabetic agents |  |  |  |  |
+| Glimepiride | 1 mg as a single dose | Fenofibrate 145 mg once daily for 10 days | ↑1% | ↓1% |
+| Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓9% | ↓6% |
+| Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg once daily for 14 days | ↑10% | ↑3% |
 
 Table 3.
 Effects of Fenofibrate on Systemic Exposure of Co-Administered Drugs
 
-| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug |  | Change in Co-Administered Drug Exposure |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Analyte |  | AUC | Cmax |
-| Lipid-lowering agents |  |  |  |  |  |  |
-| Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days |  | Atorvastatin |  | ↓17% | 0% |
-| Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose |  | Pravastatin |  | ↑13% | ↑13% |
-|  |  |  | 3α-Hydroxyl-iso-pravastatin |  | ↑26% | ↑29% |
-| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose |  | (+)-3R, 5S-Fluvastatin |  | ↑15% | ↑16% |
-| Anti-diabetic agents |  |  |  |  |  |  |
-| Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg as a single dose |  | Glimepiride |  | ↑35% | ↑18% |
-| Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days |  | Metformin |  | ↑3% | ↑6% |
-| Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days |  | Rosiglitazone |  | ↑6% | ↓1% |
-| 1 TriCor (fenofibrate) oral tablet 2 TriCor (fenofibrate) oral micronized capsule |  |  |  |  |  |  |
+|  |  | Analyte | AUC | Cmax |
+| --- | --- | --- | --- | --- |
+| Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Change in Co-Administered Drug Exposure |  |  |
+| Lipid-lowering agents |  |  |  |  |
+| Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
+| Fenofibrate 3 × 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
+|  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
+| Fenofibrate 160 mg as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+| Anti-diabetic agents |  |  |  |  |
+| Fenofibrate 145 mg once daily for 10 days | Glimepiride, 1 mg as a single dose | Glimepiride | ↑35% | ↑18% |
+| Fenofibrate 54 mg three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
+| Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |

@@ -11,24 +11,23 @@ Increases in liver function tests were the most frequent events, causing discont
 Table 1.
 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
 
-| Body System Adverse Reaction | Fenofibrate* (N=439) | Placebo (N=365) |
+| BODY SYSTEM Adverse Reaction | FenofibrateDosage equivalent to 200 mg fenofibrate capsules, micronized. Dosage comparable to 160 mg Triglide. (N=439) | Placebo (N=365) |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |
 | Back Pain | 3.4% | 2.5% |
-| Headache | 3.2 % | 2.7 % |
+| Headache | 3.2% | 2.7% |
 | DIGESTIVE |  |  |
 | Nausea | 2.3% | 1.9% |
 | Constipation | 2.1% | 1.4% |
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
-| Abnormal Liver Tests | 7.5%** | 1.4% |
-| Increased AST | 3.4%** | 0.5% |
+| Abnormal Liver Tests | 7.5%Significantly different from placebo. | 1.4% |
+| Increased AST | 3.4% | 0.5% |
 | Increased ALT | 3.0% | 1.6% |
 | Increased Creatine Phosphokinase | 3.0% | 1.4% |
 | RESPIRATORY |  |  |
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
-| * Dosage equivalent to 200 mg fenofibrate capsules, micronized. Dosage comparable to 160 mg Triglide. ** Significantly different from placebo. |  |  |
 
 ## 6.2 Postmarketing Experience
 
