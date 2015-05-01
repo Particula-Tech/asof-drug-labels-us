@@ -18,6 +18,8 @@ This package is not for household use.
 
 Mallinckrodt Pharmaceuticals™
 
+L00A28 Rev 08/2013
+
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/30 mg Bottle
 
 NDC 0406-0484-10
@@ -37,6 +39,8 @@ Rx only
 This package is not for household use.
 
 Mallinckrodt Pharmaceuticals™
+
+L00A34 Rev 08/2013
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 
@@ -59,3 +63,5 @@ Rx only
 This package is not for household use.
 
 Mallinckrodt Pharmaceuticals™
+
+L00A37 Rev 08/2013
