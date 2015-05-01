@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Lamivudine Tablets, 150 mg
+Lamivudine Functionally Scored Tablets, 150 mg
 
-White to off white scored capsule shaped, film coated tablets,debossed on both tablet faces, such that, when broken in half "L" and "5" code is present on both halves of the tablet ("L" on one face and " 5" on the opposite face of the tablet).
+White to off white scored capsule shaped, film coated tablets, debossed on both tablet faces, such that, when broken in half "L" and "5" code is present on both halves of the tablet ("L" on one side and " 5" on the opposite face of the tablet).
 
 Bottle of 60 tablets (NDC 68180-602-07) with child-resistant closure.
 

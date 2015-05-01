@@ -2,52 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Pregnancy Exposure Registry
 
-Pregnancy Category C
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lamivudine tablets during pregnancy.
+Physicians are encouraged to register patients by calling the Antiretroviral Pregnancy Registry at 1-800-258-4263.
 
-There are no adequate and well-controlled studies of lamivudine in pregnant women.
-Animal reproduction studies in rats and rabbits revealed no evidence of teratogenicity.
-Increased early embryolethality occurred in rabbits at exposure levels similar to those in humans.
-Lamivudine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical studies conducted in South Africa.
-The study assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
-These studies were not designed or powered to provide efficacy information.
+Available data from the Antiretroviral Pregnancy Registry show no difference in the risk of overall major birth defects for lamivudine compared with the background rate for major birth defects of 2.7% in the US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+Lamivudine produced embryonic toxicity in rabbits at a dose that produced similar human exposures as the recommended clinical dose.
+The relevance of animal findings to human pregnancy registry data is not known.
+
+Data
+
+Human Data:
+
+Based on prospective reports from the Antiretroviral Pregnancy Registry of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,300 exposed in the first trimester), there was no difference between lamivudine and overall birth defects compared with the background birth defect rate of 2.7% in the US reference population of the MACDP.
+The prevalence of defects in the first trimester was 3.1% (95% CI: 2.6% to 3.7%).
+
+Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
+The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
+These trials were not designed or powered to provide efficacy information.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
-In a subset of subjects, lamivudine amniotic fluid specimens were collected following natural rupture of membranes.
-Amniotic fluid concentrations of lamivudine were typically 2 times greater than maternal serum levels and ranged from 1.2 to 2.5 mcg/mL (150 mg twice daily) and 2.1 to 5.2 mcg/mL (300 mg twice daily).
-It is not known whether risks of adverse events associated with lamivudine are altered in pregnant women compared with other HIV-1-infected patients.
+In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
+Amniotic fluid concentrations of lamivudine were typically 2 times greater than maternal serum levels and ranged from 1.2 to 2.5 mcg per mL (150 mg twice daily) and 2.1 to 5.2 mcg per mL (300 mg twice daily).
 
-Animal reproduction studies performed at oral doses up to 130 and 60 times the adult dose in rats and rabbits, respectively, revealed no evidence of teratogenicity due to lamivudine.
-Increased early embryolethality occurred in rabbits at exposure levels similar to those in humans.
-However, there was no indication of this effect in rats at exposure levels up to 35 times those in humans.
-Based on animal studies, lamivudine crosses the placenta and is transferred to the fetus [see NONCLINICAL TOXICOLOGY (13.2)].
+Animal Data:
 
-Antiretroviral Pregnancy Registry
+Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
+Reproduction studies with orally administered lamivudine have been performed in rats and rabbits at doses producing plasma levels up to approximately 35 times that for the recommended adult HIV dose.
+No evidence of teratogenicity due to lamivudine was observed.
+Evidence of embryo-lethality was seen in the rabbit at exposure levels similar to those observed in humans but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
 
-To monitor maternal-fetal outcomes of pregnant women exposed to lamivudine, a Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1-800-258-4263.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
-Because of the potential for serious adverse reactions in nursing infants and HIV-1 transmission, mothers should be instructed not to breastfeed if they are receiving lamivudine.
-
-Lamivudine is excreted into human milk.
-Samples of breast milk obtained from 20 mothers receiving lamivudine monotherapy (300 mg twice daily) or combination therapy (150 mg lamivudine twice daily and 300 mg zidovudine twice daily) had measurable concentrations of lamivudine.
+Because of the potential for HIV-1 transmission mothers should be instructed not to breastfeed.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of twice-daily lamivudine in combination with other antiretroviral agents have been established in pediatric patients 3 months and older [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3), CLINICAL STUDIES (14.2)].
+The safety and effectiveness of twice-daily lamivudine in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3), CLINICAL STUDIES (14.2)].
 
 ## 8.5 Geriatric Use
 
-Clinical studies of lamivudine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of lamivudine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 In particular, because lamivudine is substantially excreted by the kidney and elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments should be made accordingly [see DOSAGE AND ADMINISTRATION (2.3), CLINICAL PHARMACOLOGY (12.3)].
 
-## 8.6 Patients With Impaired Renal Function
+## 8.6 Patients with Impaired Renal Function
 
 Reduction of the dosage of lamivudine is recommended for patients with impaired renal function [see DOSAGE AND ADMINISTRATION (2.3), CLINICAL PHARMACOLOGY (12.3)].

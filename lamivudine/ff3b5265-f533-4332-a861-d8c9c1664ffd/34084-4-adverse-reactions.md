@@ -9,21 +9,21 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adults - Clinical Trials in HIV-1
 
-The safety profile of lamivudine in adults is primarily based on 3,568 HIV-1-infected patients in 7 clinical trials.
+The safety profile of lamivudine in adults is primarily based on 3,568 HIV-1-infected subjects in 7 clinical trials.
 
 The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea and cough.
 
-Selected clinical adverse reactions in ≥5% of patients during therapy with lamivudine 150 mg twice daily plus RETROVIR® 200 mg 3 times daily for up to 24 weeks are listed in Table 3.
+Selected clinical adverse reactions in greater than or equal to 5% of subjects during therapy with lamivudine 150 mg twice daily plus RETROVIR® 200 mg 3 times daily for up to 24 weeks are listed in Table 3.
 
-Table 3: Selected Clinical Adverse Reactions (≥5% Frequency) in Four Controlled Clinical Trials (NUCA3001, NUCA3002, NUCB3001, NUCB3002)
+Table 3: Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in Four Controlled Clinical Trials (NUCA3001, NUCA3002, NUCB3001, NUCB3002)
 
 | Adverse Reaction | Lamivudine 150 mg Twice Daily plus RETROVIR (n = 251) | RETROVIREither zidovudine monotherapy or zidovudine in combination with zalcitabine.(n = 230) |
 | --- | --- | --- |
-| Body as A whole |  |  |
+| Body as a Whole |  |  |
 | Headache | 35% | 27% |
 | Malaise & fatigue | 27% | 23% |
 | Fever or chills | 10% | 12% |
@@ -52,19 +52,19 @@ Table 3: Selected Clinical Adverse Reactions (≥5% Frequency) in Four Controlle
 
 Pancreatitis:
 
-Pancreatitis was observed in 9 out of 2,613 adult patients (0.3%) who received lamivudine in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see WARNINGS AND PRECAUTIONS (5.5)].
+Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received lamivudine in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see WARNINGS AND PRECAUTIONS (5.5)].
 
 Lamivudine 300 mg Once Daily:
 
-The types and frequencies of clinical adverse reactions reported in patients receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) for 48 weeks were similar.
+The types and frequencies of clinical adverse reactions reported in subjects receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) for 48 weeks were similar.
 
 Selected laboratory abnormalities observed during therapy are summarized in Table 4.
 
-Table 4: Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Adults in Four 24-Week Surrogate Endpoint Studies (NUCA3001, NUCA3002, NUCB3001, NUCB3002) and a Clinical Endpoint Study (NUCB3007)
+Table 4: Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Adults in Four 24-Week Surrogate Endpoint Trials (NUCA3001, NUCA3002, NUCB3001, NUCB3002) and a Clinical Endpoint Trial (NUCB3007)
 
-| Test (Threshold Level) | 24-Week Surrogate Endpoint StudiesThe median duration on study was 12 months. |  | Clinical Endpoint Study |  |
+| Test (Threshold Level) | 24-Week Surrogate Endpoint TrialsThe median duration on study was 12 months. |  | Clinical Endpoint Trial |  |
 | --- | --- | --- | --- | --- |
-|  | Lamivudine plus RETROVIR®* | RETROVIR®*Either zidovudine monotherapy or zidovudine in combination with zalcitabine. | Lamivudine plus Current Therapy | Placebo plus Current TherapyCurrent therapy was either zidovudine, zidovudine plus didanosine, or zidovudine plus zalcitabine. |
+|  | Lamivudine plus RETROVIR | RETROVIREither zidovudine monotherapy or zidovudine in combination with zalcitabine. | Lamivudine plus Current Therapy | Placebo plus Current TherapyCurrent therapy was either zidovudine, zidovudine plus didanosine, or zidovudine plus zalcitabine. |
 | Absolute neutrophil count (<750/mm3) | 7.2% | 5.4% | 15% | 13% |
 | Hemoglobin (<8.0 g/dL) | 2.9% | 1.8% | 2.2% | 3.4% |
 | Platelets (<50,000/mm3) | 0.4% | 1.3% | 2.8% | 3.8% |
@@ -77,13 +77,13 @@ ULN = Upper limit of normal.
 
 ND = Not done.
 
-The frequencies of selected laboratory abnormalities reported in patients receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) were similar.
+The frequencies of selected laboratory abnormalities reported in subjects receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) were similar.
 
-Pediatric Patients – Clinical Trials in HIV-1
+Pediatric Subjects – Clinical Trials in HIV-1
 
-Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with lamivudine 4 mg/kg twice daily plus RETROVIR®* 160 mg/m2 3 times daily in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
+Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with lamivudine 4 mg per kg twice daily plus RETROVIR®* 160 mg per m2 3 times daily in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 
-Table 5: Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG300
+Table 5: Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal to 5% Frequency) in Pediatric Subjects in Trial ACTG300
 
 | Adverse Reaction | Lamivudine plus RETROVIR®(n = 236)* | Didanosine (n = 235) |
 | --- | --- | --- |
@@ -107,20 +107,20 @@ Table 5: Selected Clinical Adverse Reactions and Physical Findings (≥5% Freque
 
 Pancreatitis:
 
-Pancreatitis, which has been fatal in some cases, has been observed in antiretroviral nucleoside-experienced pediatric patients receiving lamivudine alone or in combination with other antiretroviral agents.
-In an open-label dose-escalation study (NUCA2002), 14 patients (14%) developed pancreatitis while receiving monotherapy with lamivudine.
-Three of these patients died of complications of pancreatitis.
-In a second open-label study (NUCA2005), 12 patients (18%) developed pancreatitis.
-In Study ACTG300, pancreatitis was not observed in 236 patients randomized to lamivudine plus RETROVIR®*.
-Pancreatitis was observed in 1 patient in this study who received open-label lamivudine in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see WARNINGS AND PRECAUTIONS (5.5)].
+Pancreatitis, which has been fatal in some cases, has been observed in antiretroviral nucleoside-experienced pediatric subjects receiving lamivudine alone or in combination with other antiretroviral agents.
+In an open-label dose-escalation trial (NUCA2002), 14 subjects (14%) developed pancreatitis while receiving monotherapy with lamivudine.
+Three of these subjects died of complications of pancreatitis.
+In a second open-label trial (NUCA2005), 12 subjects (18%) developed pancreatitis.
+In Trial ACTG300, pancreatitis was not observed in 236 subjects randomized to lamivudine plus RETROVIR®*.
+Pancreatitis was observed in 1 subject in this trial who received open-label lamivudine in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see WARNINGS AND PRECAUTIONS (5.5)].
 
 Paresthesias and Peripheral Neuropathies:
 
-Paresthesias and peripheral neuropathies were reported in 15 patients (15%) in Study NUCA2002, 6 patients (9%) in Study NUCA2005, and 2 patients (<1%) in Study ACTG300.
+Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than1%) in Trial ACTG300.
 
-Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 6.
+Selected laboratory abnormalities experienced by therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 6.
 
-Table 6: Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediatric Patients in Study ACTG300
+Table 6: Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediatric Subjects in Trial ACTG300
 
 | Test (Threshold Level) | Lamivudine plus RETROVIR | Didanosine |
 | --- | --- | --- |
@@ -135,16 +135,16 @@ Table 6: Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediat
 
 Neonates - Clinical Trials in HIV-1
 
-Limited short-term safety information is available from 2 small, uncontrolled studies in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see CLINICAL PHARMACOLOGY (12.3)].
+Limited short-term safety information is available from 2 small, uncontrolled Trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see CLINICAL PHARMACOLOGY (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
 Two other nonfatal gastroenteritis or diarrhea cases were reported, including 1 with convulsions; 1 infant had transient renal insufficiency associated with dehydration.
-The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1-infected patients treated with lamivudine -containing combination regimens.
+The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1-infected patients treated with lamivudine-containing combination regimens.
 Long-term effects of in utero and infant lamivudine exposure are not known.
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following adverse reactions have been reported during postmarketing use of lamivudine.
-Because these reactions are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+The following adverse reactions have been identified during post-approval use of lamivudine.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to lamivudine.
 
 Body as a Whole
