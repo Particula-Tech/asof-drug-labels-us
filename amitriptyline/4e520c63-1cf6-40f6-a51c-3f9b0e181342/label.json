@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA089399"
+  ],
+  "inn": "amitriptyline",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "57664-687-18",
+    "57664-687-88",
+    "57664-688-18",
+    "57664-688-88",
+    "57664-689-18",
+    "57664-689-88",
+    "57664-690-88",
+    "57664-691-88",
+    "57664-692-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amitriptyline hydrochloride",
+      "name": "Amitriptyline Hydrochloride"
+    }
+  ],
+  "setid": "4e520c63-1cf6-40f6-a51c-3f9b0e181342",
+  "source": "dailymed"
+}
