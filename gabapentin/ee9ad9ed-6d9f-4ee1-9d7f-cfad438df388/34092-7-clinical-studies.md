@@ -17,7 +17,7 @@ Controlled PHN Studies: Duration, Dosages, and Number of Patients
 Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
 Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
 Dosages were then to be titrated in 600 to 1200 mg/day increments at 3- to 7-day intervals to the target dose over 3 to 4 weeks.
-Patients. recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+Patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 A mean pain score during baseline of at least 4 was required for randomization.
 Analyses were conducted using the ITT population (all randomized patients who received at least one dose of study medication).
 
@@ -37,7 +37,7 @@ The proportion of responders (those patients reporting at least 50% improvement 
 | Figure 3. Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies |
 | --- |
 
-## 14.2 Epilepsy
+## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
 The effectiveness of NEURONTIN as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
 
@@ -54,7 +54,7 @@ One study compared NEURONTIN 1200 mg/day, in three divided doses with placebo.
 Responder rate was 23% (14/61) in the NEURONTIN group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
 Response ratio was also better in the NEURONTIN group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
 
-A second study compared primarily Neurontin 1200 mg/day, in three divided doses (N=101), with placebo (N=98).
+A second study compared primarily NEURONTIN 1200 mg/day, in three divided doses (N=101), with placebo (N=98).
 Additional smaller NEURONTIN dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
 Responder rate was higher in the NEURONTIN 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
 The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1800 mg group (26%) was statistically significantly superior to the placebo rate.
@@ -85,7 +85,7 @@ Although no formal analysis by gender has been performed, estimates of response 
 There was no consistent pattern indicating that age had any effect on the response to NEURONTIN.
 There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
 
-A fourth study in pediatric patients age 3 to 12 years compared 25 – 35 mg/kg/day NEURONTIN (N=118) with placebo (N=127).
+A fourth study in pediatric patients age 3 to 12 years compared 25 –35 mg/kg/day NEURONTIN (N=118) with placebo (N=127).
 For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the NEURONTIN group (-0.146) than for the placebo group (-0.079).
 For the same population, the responder rate for NEURONTIN (21%) was not significantly different from placebo (18%).
 

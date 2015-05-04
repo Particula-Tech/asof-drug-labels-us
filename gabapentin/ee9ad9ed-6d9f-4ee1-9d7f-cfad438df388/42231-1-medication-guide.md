@@ -100,8 +100,8 @@ How should I take NEURONTIN?
   Your healthcare provider will tell you how much NEURONTIN to take.
   - Do not change your dose of NEURONTIN without talking to your healthcare provider.
   - If you take NEURONTIN tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
-    Half tablets not used within 28 days of breaking should be thrown away
-  - Take NEURONTIN capsules with plenty of water.
+    Half tablets not used within 28 days of breaking should be thrown away.
+  - Take NEURONTIN capsules with water.
 - NEURONTIN tablets can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of NEURONTIN.
 
@@ -123,6 +123,7 @@ See "What is the most important information I should know about NEURONTIN?"
 - problems driving while using NEURONTIN.
   See "What I should avoid while taking Neurontin?"
 - sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
+
 - The most common side effects of NEURONTIN include:
 
 |  | lack of coordinationviral infectionfeeling drowsynausea and vomitingdifficulty with speakingtremorswelling, usually of legs and feet | feeling tiredfeverjerky movementsdifficulty with coordinationdouble visionunusual eye movement |
@@ -154,7 +155,7 @@ This Medication Guide summarizes the most important information about NEURONTIN.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about NEURONTIN that was written for healthcare professionals.
 
-For more information go to http://www.pfizer.com. or call 1-800-438-1985.
+For more information go to http://www.pfizer.com or call 1-800-438-1985.
 
 What are the ingredients in NEURONTIN?
 
@@ -173,6 +174,6 @@ Inactive ingredients in the oral solution: glycerin, xylitol, purified water, an
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com
+For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0397-6.0 September 2014
+LAB-0397-7.0 April 2015
