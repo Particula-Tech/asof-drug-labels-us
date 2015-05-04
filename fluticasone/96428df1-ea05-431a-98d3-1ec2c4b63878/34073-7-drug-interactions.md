@@ -3,8 +3,8 @@
 ## 7.1 Inhibitors of Cytochrome P450 3A4
 
 Fluticasone furoate and vilanterol, the individual components of BREO ELLIPTA, are both substrates of CYP3A4.
-Concomitant administration of the potent CYP3A4 inhibitor ketoconazole increases the systemic exposure to fluticasone furoate and vilanterol.
-Caution should be exercised when considering the coadministration of BREO ELLIPTA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) [see Warnings and Precautions (5.9) and Clinical Pharmacology (12.3)].
+Concomitant administration of the strong CYP3A4 inhibitor ketoconazole increases the systemic exposure to fluticasone furoate and vilanterol.
+Caution should be exercised when considering the coadministration of BREO ELLIPTA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 
 ## 7.2 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 
@@ -13,8 +13,8 @@ Drugs that are known to prolong the QTc interval have an increased risk of ventr
 
 ## 7.3 Beta-Adrenergic Receptor Blocking Agents
 
-Beta-blockers not only block the pulmonary effect of beta-agonists, such as vilanterol, a component of BREO ELLIPTA, but may produce severe bronchospasm in patients with reversible obstructive airways disease.
-Therefore, patients with COPD should not normally be treated with beta-blockers.
+Beta-blockers not only block the pulmonary effect of beta-agonists, such as vilanterol, a component of BREO ELLIPTA, but may also produce severe bronchospasm in patients with COPD or asthma.
+Therefore, patients with COPD or asthma should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents for these patients; cardioselective beta-blockers could be considered, although they should be administered with caution.
 
 ## 7.4 Non–Potassium-Sparing Diuretics

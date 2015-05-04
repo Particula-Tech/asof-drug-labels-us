@@ -2,16 +2,22 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-BREO ELLIPTA: No studies of carcinogenicity, mutagenicity, or impairment of fertility were conducted with BREO ELLIPTA; however, studies are available for the individual components, fluticasone furoate and vilanterol, as described below.
+BREO ELLIPTA
 
-Fluticasone Furoate: Fluticasone furoate produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 9 and 19 mcg/kg/day, respectively (approximately equal to the MRHDID in adults on a mcg/m2 basis).
+No studies of carcinogenicity, mutagenicity, or impairment of fertility were conducted with BREO ELLIPTA; however, studies are available for the individual components, fluticasone furoate and vilanterol, as described below.
+
+Fluticasone Furoate
+
+Fluticasone furoate produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 9 and 19 mcg/kg/day, respectively (approximately 0.5 times the MRHDID in adults on a mcg/m2 basis).
 
 Fluticasone furoate did not induce gene mutation in bacteria or chromosomal damage in a mammalian cell mutation test in mouse lymphoma L5178Y cells in vitro.
 There was also no evidence of genotoxicity in the in vivo micronucleus test in rats.
 
-No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 3 and 9 times, respectively, the MRHDID in adults on a mcg/m2 basis).
+No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 1 and 4 times, respectively, the MRHDID in adults on a mcg/m2 basis).
 
-Vilanterol: In a 2-year carcinogenicity study in mice, vilanterol caused a statistically significant increase in ovarian tubulostromal adenomas in females at an inhalation dose of 29,500 mcg/kg/day (approximately 8,750 times the MRHDID in adults on an AUC basis).
+Vilanterol
+
+In a 2-year carcinogenicity study in mice, vilanterol caused a statistically significant increase in ovarian tubulostromal adenomas in females at an inhalation dose of 29,500 mcg/kg/day (approximately 8,750 times the MRHDID in adults on an AUC basis).
 No increase in tumors was seen at an inhalation dose of 615 mcg/kg/day (approximately 530 times the MRHDID in adults on an AUC basis).
 
 In a 2-year carcinogenicity study in rats, vilanterol caused statistically significant increases in mesovarian leiomyomas in females and shortening of the latency of pituitary tumors at inhalation doses greater than or equal to 84.4 mcg/kg/day (greater than or equal to approximately 45 times the MRHDID in adults on an AUC basis).
