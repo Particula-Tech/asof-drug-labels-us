@@ -29,26 +29,34 @@ Mean total AUA Symptom Scores for both tamsulosin hydrochloride capsules 0.4 mg 
 In Study 1, 400 patients (53% of the originally randomized group) elected to continue in their originally assigned treatment groups in a double-blind, placebo-controlled, 40-week extension trial (138 patients on 0.4 mg, 135 patients on 0.8 mg, and 127 patients on placebo).
 Three hundred twenty-three patients (43% of the originally randomized group) completed one year.
 Of these, 81% (97 patients) on 0.4 mg, 74% (75 patients) on 0.8 mg, and 56% (57 patients) on placebo had a response ≥25% above baseline in total AUA Symptom Score at one year.
-Figure 2A Mean Change from Baseline in Total AUA Symptom Score (0 to 35) Study 1 * indicates significant difference from placebo (p-value ≤0.05).
+Figure 2A Mean Change from Baseline in Total AUA Symptom Score (0 to 35) Study 1
+
+* indicates significant difference from placebo (p-value ≤0.05).
 B = Baseline determined approximately one week prior to the initial dose of double-blind medication at Week 0.
 Subsequent values are observed cases.
 LOCF = Last observation carried forward for patients not completing the 13-week study.
 Note: Patients in the 0.8 mg treatment group received 0.4 mg for the first week.
 Note: Total AUA Symptom Scores range from 0 to 35.
-Figure 2B Mean Change from Baseline in Total AUA Symptom Score (0 to 35) Study 2 * indicates significant difference from placebo (p-value ≤0.05).
+Figure 2B Mean Change from Baseline in Total AUA Symptom Score (0 to 35) Study 2
+
+* indicates significant difference from placebo (p-value ≤0.05).
 Baseline measurement was taken Week 0.
 Subsequent values are observed cases.
 LOCF = Last observation carried forward for patients not completing the 13-week study.
 Note: Patients in the 0.8 mg treatment group received 0.4 mg for the first week.
 Note: Total AUA Symptom Scores range from 0 to 35.
-Figure 3A Mean Increase in Peak Urine Flow Rate (mL/sec) Study 1 * indicates significant difference from placebo (p-value ≤0.05).
+Figure 3A Mean Increase in Peak Urine Flow Rate (mL/sec) Study 1
+
+* indicates significant difference from placebo (p-value ≤0.05).
 B = Baseline determined approximately one week prior to the initial dose of double-blind medication at Week 0.
 Subsequent values are observed cases.
 LOCF = Last observation carried forward for patients not completing the 13-week study.
 Note: The uroflowmetry assessments at Week 0 were recorded 4 to 8 hours after patients received the first dose of double-blind medication.
 Measurements at each visit were scheduled 4 to 8 hours after dosing (approximate peak plasma tamsulosin concentration).
 Note: Patients in the 0.8 mg treatment groups received 0.4 mg for the first week.
-Figure 3B Mean Increase in Peak Urine Flow Rate (mL/sec) Study 2 * indicates significant difference from placebo (p-value ≤0.05).
+Figure 3B Mean Increase in Peak Urine Flow Rate (mL/sec) Study 2
+
+* indicates significant difference from placebo (p-value ≤0.05).
 Baseline measurement was taken Week 0.
 Subsequent values are observed cases.
 LOCF = Last observation carried forward for patients not completing the 13-week study.

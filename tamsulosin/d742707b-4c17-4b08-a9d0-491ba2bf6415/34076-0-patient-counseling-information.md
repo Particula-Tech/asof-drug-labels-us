@@ -4,20 +4,20 @@ See FDA-Approved Patient Labeling (17.6).
 
 ## 17.1 Hypotension
 
-Patients should be told about the possible occurrence of symptoms related to postural hypotension, such as dizziness, when taking tamsulosin hydrochloride capsules, and they should be cautioned about driving, operating machinery, or performing hazardous tasks [ see Warnings and Precautions (5.1) ].
+Patients should be told about the possible occurrence of symptoms related to postural hypotension, such as dizziness, when taking tamsulosin hydrochloride capsules, and they should be cautioned about driving, operating machinery, or performing hazardous tasks [see Warnings and Precautions (5.1)].
 
 ## 17.2 Priapism
 
 Patients should be advised about the possibility of priapism as a result of treatment with tamsulosin hydrochloride capsules and other similar medications.
-Patients should be informed that this reaction is extremely rare, but if not brought to immediate medical attention, can lead to permanent erectile dysfunction (impotence) [ see Warnings and Precautions (5.3) ].
+Patients should be informed that this reaction is extremely rare, but if not brought to immediate medical attention, can lead to permanent erectile dysfunction (impotence) [see Warnings and Precautions (5.3)].
 
 ## 17.3 Screening for Prostate Cancer
 
-Prostate cancer and BPH frequently coexist; therefore, patients should be screened for the presence of prostate cancer prior to treatment with tamsulosin hydrochloride capsules and at regular intervals afterwards [ see Warnings and Precautions (5.4) ] .
+Prostate cancer and BPH frequently coexist; therefore, patients should be screened for the presence of prostate cancer prior to treatment with tamsulosin hydrochloride capsules and at regular intervals afterwards [see Warnings and Precautions (5.4)].
 
 ## 17.4 Intraoperative Floppy Iris Syndrome
 
-Patients considering cataract surgery should be advised to tell their ophthalmologist that they have taken tamsulosin hydrochloride capsules [ see Warnings and Precautions (5.5) ].
+Patients considering cataract or glaucoma surgery should be advised to tell their ophthalmologist that they have taken tamsulosin hydrochloride capsules [see Warnings and Precautions (5.5)].
 
 ## 17.5 Administration
 
@@ -26,7 +26,7 @@ Patients should be advised not to crush or chew the tamsulosin hydrochloride cap
 ## 17.6 FDA-approved Patient Labeling
 
 Patient labeling provided as a separate leaflet is reprinted at the end of this prescribing information.
-PATIENT INFORMATION Tamsulosin Hydrochloride Capsules USP, 0.4 mg Read the Patient Information that comes with tamsulosin hydrochloride capsules before you start taking it and each time you refill your prescription.
+PATIENT INFORMATION Tamsulosin Hydrochloride Capsules USP, 0.4 mg (tam soo' loe sin hye'' droe klor' ide) Read the Patient Information that comes with tamsulosin hydrochloride capsules before you start taking it and each time you refill your prescription.
 The information may have changed.
 This leaflet does not take the place of discussions with your doctor about your medical condition or your treatment.
 What are tamsulosin hydrochloride capsules?
@@ -44,7 +44,7 @@ Before taking tamsulosin hydrochloride capsules, tell your doctor about all your
 - any kidney or liver problems.
 - any history of low blood pressure.
 - any allergies to sulfa or any other medicines.
-- if you are planning to have cataract surgery.
+- if you are planning to have cataract or glaucoma surgery.
 
 Tell your doctor about all the medicines you take, including:
 
@@ -97,9 +97,9 @@ If the symptoms are severe or do not improve, call your doctor.
   Tamsulosin hydrochloride capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
   If priapism is not treated, you may not be able to get an erection in the future.
-- Eye problems during cataract surgery.
-  During cataract surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken tamsulosin hydrochloride capsules.
-  If you need to have cataract surgery, be sure to tell your surgeon if you take or have taken tamsulosin hydrochloride capsules.
+- Eye problems during cataract or glaucoma surgery.
+  During cataract or glaucoma surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken tamsulosin hydrochloride capsules.
+  If you need to have cataract or glaucoma surgery, be sure to tell your surgeon if you take or have taken tamsulosin hydrochloride capsules.
 
 Common side effects of tamsulosin hydrochloride capsules may include:
 
@@ -114,7 +114,8 @@ You may report side effects to FDA at 1-800-FDA-1088, or by visiting www.fda.gov
 What should I avoid while taking tamsulosin hydrochloride capsules?
 Avoid driving, operating machinery, or other dangerous activities, until you know how tamsulosin hydrochloride capsules affect you.
 Tamsulosin hydrochloride capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
-See “ What are the possible side effects of tamsulosin hydrochloride capsules? ” How do I store tamsulosin hydrochloride capsules?
+See “What are the possible side effects of tamsulosin hydrochloride capsules?”
+How do I store tamsulosin hydrochloride capsules?
 Store tamsulosin hydrochloride capsules at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
 Ask your doctor or pharmacist if you have any questions about storing your capsules.
 Keep tamsulosin hydrochloride capsules and all medicines out of the reach of children.
@@ -129,7 +130,7 @@ Therefore, ask your doctor about screening for prostate cancer prior to treatmen
 This patient information leaflet summarizes the most important information about tamsulosin hydrochloride capsules.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tamsulosin hydrochloride capsules that is written for health professionals.
-For more information call Caraco Pharmaceutical Laboratories Ltd. at 1-800-818-4555.
+For more information call Sun Pharmaceutical Industries, Inc. at 1-800-818-4555.
 What are the ingredients in tamsulosin hydrochloride capsules?
 
 - Active Ingredient: tamsulosin hydrochloride
