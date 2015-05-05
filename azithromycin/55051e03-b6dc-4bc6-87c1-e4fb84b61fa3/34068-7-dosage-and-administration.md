@@ -1,8 +1,8 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 [see Indications and Usage (1) and Clinical Pharmacology (12.3)]
 
-## 2.1 Community-Acquired Pneumonia
+## 2.1 Community-acquired pneumonia
 
 The recommended dose of AZITHROMYCIN for Injection for the treatment of adult patients with community-acquired pneumonia due to the indicated organisms is 500 mg as a single daily dose by the intravenous route for at least two days.
 Intravenous therapy should be followed by azithromycin by the oral route at a single, daily dose of 500 mg, administered as two 250-mg tablets to complete a 7- to 10-day course of therapy.
@@ -14,7 +14,7 @@ The recommended dose of AZITHROMYCIN for Injection for the treatment of adult pa
 Intravenous therapy should be followed by azithromycin by the oral route at a single, daily dose of 250 mg to complete a 7-day course of therapy.
 The timing of the switch to oral therapy should be done at the discretion of the physician and in accordance with clinical response.
 
-## 2.3 Preparation of the solution for Intravenous administration
+## 2.3 Preparation of the Solution for Intravenous administration
 
 The infusate concentration and rate of infusion for AZITHROMYCIN for Injection should be either 1 mg/mL over 3 hours or 2 mg/mL over 1 hour.
 AZITHROMYCIN for Injection should not be given as a bolus or as an intramuscular injection.

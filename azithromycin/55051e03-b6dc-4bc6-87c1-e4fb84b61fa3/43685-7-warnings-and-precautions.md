@@ -25,7 +25,7 @@ Cases of torsades de pointes have been spontaneously reported during postmarketi
 Providers should consider the risk of QT prolongation, which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including: • patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure • patients on drugs known to prolong the QT interval • patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
-## 5.4 Clostridium Difficile-Associated Diarrhea
+## 5.4 Clostridiumdfficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AZITHROMYCIN for Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.

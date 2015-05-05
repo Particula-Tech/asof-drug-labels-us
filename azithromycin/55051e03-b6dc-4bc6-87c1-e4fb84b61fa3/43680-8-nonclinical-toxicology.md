@@ -1,12 +1,12 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.
 Azithromycin has shown no mutagenic potential in standard laboratory tests: mouse lymphoma assay, human lymphocyte clastogenic assay, and mouse bone marrow clastogenic assay.
 No evidence of impaired fertility due to azithromycin was found in rats given daily doses up to 10 mg/kg (approximately 0.2 times an adult daily dose of 500 mg based on body surface area).
 
-## 13.2 Animal Pharmacology & OR Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Phospholipidosis (intracellular phospholipid accumulation) has been observed in some tissues of mice, rats, and dogs given multiple oral doses of azithromycin.
 It has been demonstrated in numerous organ systems (e.g., eye, dorsal root ganglia, liver, gallbladder, kidney, spleen, and/or pancreas) in dogs and rats treated with azithromycin at doses which, expressed on the basis of body surface area, are similar to or less than the highest recommended adult human dose.
