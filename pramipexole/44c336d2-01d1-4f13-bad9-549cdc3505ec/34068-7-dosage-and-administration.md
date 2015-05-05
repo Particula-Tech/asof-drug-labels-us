@@ -6,32 +6,32 @@ Pramipexole dihydrochloride tablets are taken orally, with or without food.
 
 If a significant interruption in therapy with pramipexole dihydrochloride tablets has occurred, re-titration of therapy may be warranted.
 
-## 2.2 Parkinson's Disease
+## 2.2 Dosing for Parkinson's Disease
 
 In all clinical studies, dosage was initiated at a subtherapeutic level to avoid intolerable adverse effects and orthostatic hypotension.
 Pramipexole dihydrochloride tablets should be titrated gradually in all patients.
 The dose should be increased to achieve a maximum therapeutic effect, balanced against the principal side effects of dyskinesia, hallucinations, somnolence, and dry mouth.
 
-### Dosing in Patients with Normal Renal Function
+Dosing in Patients with Normal Renal Function
 
-#### Initial Treatment
+Initial Treatment
 
 Doses should be increased gradually from a starting dose of 0.375 mg/day given in three divided doses and should not be increased more frequently than every 5 to 7 days.
-A suggested ascending dosage schedule that was used in clinical studies is shown in the following table:
+A suggested ascending dosage schedule that was used in clinical studies is shown in Table 1:
 
-Table 1 Ascending Dosage Schedule of PramipexoleDihydrochloride Tablets for Parkinson's Disease
+Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Parkinson's Disease
 
 | Week | Dosage (mg) | Total Daily Dose (mg) |
 | --- | --- | --- |
-| 1 | 0.125 TID | 0.375 |
-| 2 | 0.25 TID | 0.75 |
-| 3 | 0.5 TID | 1.5 |
-| 4 | 0.75 TID | 2.25 |
-| 5 | 1 TID | 3 |
-| 6 | 1.25 TID | 3.75 |
-| 7 | 1.5 TID | 4.5 |
+| 1 | 0.125 three times a day | 0.375 |
+| 2 | 0.25 three times a day | 0.75 |
+| 3 | 0.5 three times a day | 1.5 |
+| 4 | 0.75 three times a day | 2.25 |
+| 5 | 1 three times a day | 3 |
+| 6 | 1.25 three times a day | 3.75 |
+| 7 | 1.5 three times a day | 4.5 |
 
-#### Maintenance Treatment
+Maintenance Treatment
 
 Pramipexole dihydrochloride tablets were effective and well tolerated over a dosage range of 1.5 to 4.5 mg/day administered in equally divided doses three times per day with or without concomitant levodopa (approximately 800 mg/day).
 
@@ -43,19 +43,20 @@ The incidence of somnolence reported with pramipexole at a dose of 1.5 mg/day wa
 When pramipexole dihydrochloride tablets are used in combination with levodopa, a reduction of the levodopa dosage should be considered.
 In a controlled study in advanced Parkinson's disease, the dosage of levodopa was reduced by an average of 27% from baseline.
 
-### Dosing in Patients with Renal Impairment
+Dosing in Patients with Renal Impairment
 
-Table 2 Dosing of PramipexoleDihydrochloride Tablets in Parkinson’s Disease Patients with Renal Impairment
+The recommended dosing of pramipexole dihydrochloride tablets in Parkinson’s disease patients with renal impairment is provided in Table 2.
+
+Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson’s Disease Patients with Renal Impairment
 
 | Renal Status | Starting Dose (mg) | Maximum Dose (mg) |
 | --- | --- | --- |
-| Normal to mild impairment (creatinine Cl >50 mL/min) | 0.125 TID | 1.5 TID |
-| Moderate impairment (creatinine Cl =30 to 50 mL/min) | 0.125 BID | 0.75 TID |
-| Severe impairment (creatinine Cl =15 to <30 mL/min) | 0.125 QD | 1.5 QD |
+| Normal to mild impairment (creatinine Cl >50 mL/min) | 0.125 three times a day | 1.5 three times a day |
+| Moderate impairment (creatinine Cl =30 to 50 mL/min) | 0.125 twice a day | 0.75 three times a day |
+| Severe impairment (creatinine Cl =15 to <30 mL/min) | 0.125 once a day | 1.5 once a day |
 | Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) | The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients. |  |
 
-### Discontinuation of Treatment
+Discontinuation of Treatment
 
-Pramipexole dihydrochloride tablets should be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose should be reduced by 0.375 mg per day.
-In some studies, however, abrupt discontinuation was uneventful.
+Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
+Thereafter, the dose may be reduced by 0.375 mg per day.

@@ -1,7 +1,5 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-Click here to enter Nonclinical Toxicology
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year carcinogenicity studies with pramipexole have been conducted in mice and rats.
@@ -17,7 +15,7 @@ These effects were associated with reductions in serum levels of prolactin, a ho
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-### Retinal Pathology in Rats
+Retinal Pathology in Rats
 
 Pathologic changes (degeneration and loss of photoreceptor cells) were observed in the retina of albino rats in the 2-year carcinogenicity study with pramipexole.
 These findings were first observed during week 76 and were dose-dependent in animals receiving 2 or 8 mg/kg/day (plasma AUCs equal to 2.5 and 12.5 times that in humans at the MRHD).
@@ -32,7 +30,7 @@ Evaluation of the retinas of monkeys given 0.1, 0.5, or 2 mg/kg/day of pramipexo
 
 The potential significance of this effect in humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved.
 
-### Fibro-osseous Proliferative Lesions in Mice
+Fibro-osseous Proliferative Lesions in Mice
 
 An increased incidence of fibro-osseous proliferative lesions occurred in the femurs of female mice treated for 2 years with 0.3, 2, or 10 mg/kg/day (0.3, 2.2, and 11 times the MRHD on a mg/m2 basis).
 Similar lesions were not observed in male mice or rats and monkeys of either sex that were treated chronically with pramipexole.

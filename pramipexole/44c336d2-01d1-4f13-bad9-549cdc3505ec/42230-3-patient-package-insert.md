@@ -17,16 +17,16 @@ It is not known if pramipexole dihydrochloride tablets are safe and effective in
 What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
 - •Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
-  - ofeel sleepy during the day from a sleep problem
-  - ohave low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down.
-  - ohave trouble controlling your muscles (dyskinesia)
-  - ohave kidney problems
-  - odrink alcohol.
+  - •feel sleepy during the day from a sleep problem
+  - •have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down.
+  - •have trouble controlling your muscles (dyskinesia)
+  - •have kidney problems
+  - •drink alcohol.
     Alcohol can increase the chance that pramipexole dihydrochloride tablets will make you feel sleepy or fall asleep when you should be awake.
-  - ohave any other medical conditions
-  - oare pregnant or plan to become pregnant.
+  - •have any other medical conditions
+  - •are pregnant or plan to become pregnant.
     It is not known if pramipexole dihydrochloride tablets will harm your unborn baby.
-  - oare breastfeeding or plan to breastfeed.
+  - •are breastfeeding or plan to breastfeed.
     It is not known if pramipexole dihydrochloride passes into your breast milk.
     You and your doctor should decide if you will take pramipexole dihydrochloride tablets or breastfeed.
     You should not do both.
@@ -63,9 +63,9 @@ How should I take pramipexole dihydrochloride tablets?
   Skip the dose you missed and take your next regular dose.
 - •If you have Parkinson’s disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablets slowly as directed by your doctor.
   If you stop pramipexole dihydrochloride tablets too quickly you may have withdrawal symptoms such as:
-  - ofever
-  - oconfusion
-  - osevere muscle stiffness
+  - •fever
+  - •confusion
+  - •severe muscle stiffness
 
 Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
 
@@ -83,35 +83,30 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 
 - •falling asleep during normal daily activities.
   Pramipexole dihydrochloride tablets may cause you to fall asleep while you are doing daily activities such as driving, talking with other people, or eating.
-  - oSome people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
-  - oSome patients did not feel sleepy before they fell asleep while driving.
+  - •Some people taking the medicine in pramipexole dihydrochloride tablets have had car accidents because they fell asleep while driving.
+  - •Some patients did not feel sleepy before they fell asleep while driving.
     You could fall asleep without any warning.
 
 Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you.
 
 - •low blood pressure when you sit or stand up quickly.
   You may have:
-  - odizziness
-  - onausea
-  - ofainting
-  - osweating
+  - •dizziness
+  - •nausea
+  - •fainting
+  - •sweating
 
 Sit and stand up slowly after you have been sitting or lying down.
 
 - •unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
-
-If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
-
-- •seeing visions, hearing sounds or feeling sensations that are not real (hallucinations).
-  Your chance of having hallucinations is higher if you are elderly (age 65 or older).
-
-If you have hallucinations, talk with your doctor right away.
-
-- •uncontrolled sudden movements (dyskinesia).
-
-If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
-
+  If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
+- •hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
+  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).If you have hallucinations or other psychotic-like changes, talk with your doctor right away.uncontrolled sudden movements (dyskinesia)If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
+- •uncontrolled sudden movements (dyskinesia)If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.skin cancer (melanoma).
+  Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
+  It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablets, or from the Parkinson’s disease.
+  People who take pramipexole dihydrochloride tablets should have regular skin examinations to check for melanoma.
 - •skin cancer (melanoma).
   Some people with Parkinson’s disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
   It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablets, or from the Parkinson’s disease.
@@ -137,7 +132,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pramipexole dihydrochloride tablets?
 
-- •Store pramipexole dihydrochloride tablets at 59°F to 86°F (15°C to 30°C).
+- •Store pramipexole dihydrochloride tablets at 68° to 77°F (20° to 25°C).
 - •Keep pramipexole dihydrochloride tablets out of the light.
 - •Keep pramipexole dihydrochloride tablets and all medicines out of the reach of children.
 
@@ -152,11 +147,11 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For more information, call Glenmark Generics Inc., USA at 1 (888)721-7115.
+For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
-Active Ingredient: pramipexole dihydrochloride USP
+Active Ingredient: pramipexole dihydrochloride
 
 Inactive Ingredients: mannitol, corn starch, colloidal silicon dioxide, povidone, and magnesium stearate
 
@@ -164,19 +159,13 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by:
 
-Glenmark Generics Ltd.
-
-Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA
-
-Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-www.glenmarkgenerics.com
-
-March 2013
+April 2015
