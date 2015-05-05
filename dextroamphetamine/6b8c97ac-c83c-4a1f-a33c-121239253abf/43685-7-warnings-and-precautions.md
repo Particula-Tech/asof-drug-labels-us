@@ -97,27 +97,27 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 ## Drug Interactions
 
-### Acidifying agents
+### Acidifying Agents
 
 Gastrointestinal acidifying agents (guanethidine, reserpine, glutamic acid HCl, ascorbic acid, fruit juices, etc.) lower absorption of amphetamines.
 Urinary acidifying agents (ammonium chloride, sodium acid phosphate, etc.) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
 Both groups of agents lower blood levels and efficacy of amphetamine.
 
-### Adrenergic blockers
+### Adrenergic Blockers
 
 Adrenergic blockers are inhibited by amphetamines.
 
-### Alkalinizing agents
+### Alkalinizing Agents
 
 Gastrointestinal alkalinizing agents (sodium bicarbonate, etc.) increase absorption of amphetamines.
 Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concentration of the non-ionized species of the amphetamine molecule, thereby decreasing urinary excretion.
 Both groups of agents increase blood levels and therefore potentiate the actions of amphetamines.
 
-### Antidepressants, tricyclic
+### Antidepressants, Tricyclic
 
 Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
 
-### MAO inhibitors
+### MAO Inhibitors
 
 MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine metabolism.
 This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
@@ -143,7 +143,7 @@ Amphetamines may delay intestinal absorption of ethosuximide.
 
 Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effect of amphetamines.
 
-### Lithium carbonate
+### Lithium Carbonate
 
 The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
 
@@ -151,7 +151,7 @@ The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
 
 Amphetamines potentiate the analgesic effect of meperidine.
 
-### Methenamine therapy
+### Methenamine Therapy
 
 Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
 
@@ -171,7 +171,7 @@ Amphetamines may delay intestinal absorption of phenytoin; co-administration of 
 
 In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
 
-### Veratrum alkaloids
+### Veratrum Alkaloids
 
 Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
 

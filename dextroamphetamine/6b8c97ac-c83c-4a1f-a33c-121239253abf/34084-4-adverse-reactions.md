@@ -21,3 +21,7 @@ Urticaria.
 ## Endocrine
 
 Impotence, changes in libido, frequent or prolonged erections.
+
+## Musculoskeletal
+
+Rhabdomyolysis.

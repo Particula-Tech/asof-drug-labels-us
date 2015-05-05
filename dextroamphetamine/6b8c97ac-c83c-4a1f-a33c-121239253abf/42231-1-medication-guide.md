@@ -72,20 +72,20 @@ Tell your doctor if you or your child is pregnant, planning to become pregnant, 
 
 Can dextroamphetamine sulfate tablets be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child takes including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Dextroamphetamine sulfate tablets and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking dextroamphetamine sulfate tablets.
 
 Your doctor will decide whether dextroamphetamine sulfate tablets can be taken with other medicines.
 
-Especially tell your doctor if you or your child takes:
+Especially tell your doctor if you or your child take:
 
 - Antidepression medicines including MAOIs
 - Blood pressure medicines
 - Antacids
 - Seizure medicines
 
-Know the medicines that you or your child takes.
+Know the medicines that you or your child take.
 Keep a list of your medicines with you to show your doctor and pharmacist.
 
 Do not start any new medicine while taking dextroamphetamine sulfate tablets without talking to your doctor first.
@@ -101,7 +101,7 @@ How should dextroamphetamine sulfate tablets be taken?
 - Your doctor may do regular checks of the blood, heart, and blood pressure while taking dextroamphetamine sulfate tablets.
   Children should have their height and weight checked often while taking dextroamphetamine sulfate tablets.
   Dextroamphetamine sulfate tablets treatment may be stopped if a problem is found during these check-ups.
-- If you or your child takes too much dextroamphetamine sulfate tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
+- If you or your child take too much dextroamphetamine sulfate tablets or overdoses, call your doctor or poison control center right away, or get emergency treatment.
 
 What are possible side effects of dextroamphetamine sulfate tablets?
 
@@ -127,9 +127,10 @@ Common side effects include:
 
 Dextroamphetamine sulfate tablets may affect your or your child's ability to drive or do other dangerous activities.
 
-Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
+Talk to your doctor if you or your child have side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
+Ask your doctor or pharmacist for more information.
 Call your doctor for more medical advice about side effects.
 You may report side effects to Wilshire Pharmaceuticals, Inc. at 1-877-495-6856 or FDA at 1-800-FDA-1088.
 
@@ -165,4 +166,4 @@ Manufactured by Mikart, Inc., Atlanta, GA 30318 for Wilshire Phamaceuticals Inc.
 Code 1029A00
 
 Rev.
-07/14
+02/15
