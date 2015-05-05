@@ -42,8 +42,8 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with impaired renal function [see Use in Specific Populations (8.6) and Dosage and Administration (2.5)].
-Specific Populations: Elderly Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61 to 88 years) with creatinine clearance ranging from 30 to 74 mL/min.
+Levetiracetam clearance is reduced in patients with renal impairment [see Use in Specific Populations (8.6) and Dosage and Administration (2.5)].
+Specific Populations Elderly Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61 to 88 years) with creatinine clearance ranging from 30 to 74 mL/min.
 Following oral administration of twice-daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
 This is most likely due to the decrease in renal function in these subjects.
 Pediatric Patients Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6 to 12 years) after single dose (20 mg/kg).
@@ -61,18 +61,17 @@ Pregnancy Levetiracetam levels may decrease during pregnancy.
 Gender Levetiracetam Cmax and AUC were 20% higher in women (N=11) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 Race Formal pharmacokinetic studies of the effects of race have not been conducted.
-Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
+Cross-study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 Renal Impairment The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function.
 Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
 Clearance of levetiracetam is correlated with creatinine clearance.
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure.
-Dosage should be reduced in patients with impaired renal function receiving levetiracetam, and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.5)].
 Hepatic Impairment In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
 No dose adjustment is needed for patients with hepatic impairment.
-Drug Interactions: In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Drug Interactions In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
 Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.

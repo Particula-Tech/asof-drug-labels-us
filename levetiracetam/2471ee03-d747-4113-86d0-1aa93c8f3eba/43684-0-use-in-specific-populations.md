@@ -2,8 +2,8 @@
 
 ## 8.1 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
-Teratogenic Effects Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Teratogenic Effects Pregnancy Category C There are no adequate and controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 Levetiracetam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Oral administration of levetiracetam to female rats throughout pregnancy and lactation led to increased incidences of minor fetal skeletal abnormalities and retarded offspring growth pre- and/or postnatally at doses ≥350 mg/kg/day (equivalent to the maximum recommended human dose of 3000 mg [MRHD] on a mg/m2 basis) and with increased pup mortality and offspring behavioral alterations at a dose of 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
@@ -16,11 +16,11 @@ When levetiracetam was administered orally to pregnant rats during the period of
 1200 mg/kg/day (4 times the MRHD) was a developmental no effect dose.
 There was no evidence of maternal toxicity in this study.
 Treatment of rats with levetiracetam during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
-Pregnancy Registries To provide information regarding the effects of in utero exposure to levetiracetam, physicians are advised to recommend that pregnant patients taking levetiracetam enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
+Pregnancy Registry To provide information regarding the effects of in utero exposure to levetiracetam, physicians are advised to recommend that pregnant patients taking levetiracetam enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-## 8.2 Labor And Delivery
+## 8.2 Labor and Delivery
 
 The effect of levetiracetam on labor and delivery in humans is unknown.
 
@@ -42,7 +42,7 @@ The target dose was 60 mg/kg/day.
 Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
 Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
 The Achenbach Child Behavior Checklist (CBCL/6 to 18), a standardized validated tool used to assess a child’s competencies and behavioral/emotional problems, was also assessed in this study.
-An analysis of the CBCL/6 to 18 indicated on average a worsening in levetiracetam treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
+An analysis of the CBCL/6 to 18 indicated on average a worsening in levetiracetam-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
 Studies of levetiracetam in juvenile rats (dosing from day 4 through day 52 of age) and dogs (dosing from week 3 through week 7 of age) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m2 basis) did not indicate a potential for age-specific toxicity.
 
 ## 8.5 Geriatric Use
@@ -53,7 +53,7 @@ There were insufficient numbers of elderly subjects in controlled trials of epil
 Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
-## 8.6 Use In Patients With Impaired Renal Function
+## 8.6 Renal Impairment
 
 Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance [see Clinical Pharmacology (12.3)].
 Dose adjustment is recommended for patients with impaired renal function and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].
