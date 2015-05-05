@@ -132,6 +132,8 @@ The following reactions have been reported after administration of other intrava
 Reactions due to technique: hematomas and ecchymoses.
 Hemodynamic reactions: vein cramp and thrombophlebitis following intravenous injection.
 Cardiovascular reactions: rare cases of cardiac arrhythmias, reflex tachycardia, chest pain, cyanosis, hypertension, hypotension, peripheral vasodilatation, shock, and cardiac arrest.
+Endocrine reactions: Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
+Some patients were treated for hypothyroidism.
 Renal reactions: occasionally, transient proteinuria, and rarely, oliguria or anuria.
 Allergic reactions: asthmatic attacks, nasal and conjunctival symptoms, dermal reactions such as urticaria with or without pruritus, as well as pleomorphic rashes, sneezing and lacrimation and, rarely, anaphylactic reactions.
 Rare fatalities have occurred, due to this or unknown causes.

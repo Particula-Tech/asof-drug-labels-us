@@ -187,11 +187,9 @@ Distributed by GE Healthcare Inc. Princeton, NJ 08540 U.S.A.
 
 Manufactured by GE Healthcare Ireland Cork, Ireland
 
-Omnipaque is a trademark of GE Healthcare.
+Omnipaque is a trademark of General Electric Company or one of its subsidiaries.
 GE and the GE Monogram are trademarks of General Electric Company.
 
-Revised March 2012 ONC-4I-CORK
+Revised March 2015 ONC-4J-CORK
 
-1174647 USA
-
-© 2012 General Electric Company - All rights reserved.
+© 2015 General Electric Company - All rights reserved.
