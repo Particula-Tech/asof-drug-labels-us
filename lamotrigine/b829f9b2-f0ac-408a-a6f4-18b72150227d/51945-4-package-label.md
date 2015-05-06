@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
 NDC 51672-4130-1
 
@@ -14,13 +14,13 @@ CAUTION: Verify Product Dispensed
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 NDC 51672-4131-1
 
-Dispense the accompanying Medication Guide to each patient.
-
 100 Tablets
+
+Dispense the accompanying Medication Guide to each patient.
 
 Lamotrigine Tablets, USP
 
@@ -28,17 +28,17 @@ Lamotrigine Tablets, USP
 
 CAUTION: Verify Product Dispensed
 
-Rx only
-
 TARO
 
-PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
 NDC 51672-4132-4
 
-Dispense the accompanying Medication Guide to each patient.
-
 60 Tablets
+
+Dispense the accompanying Medication Guide to each patient.
 
 Lamotrigine Tablets, USP
 
@@ -46,17 +46,17 @@ Lamotrigine Tablets, USP
 
 CAUTION: Verify Product Dispensed
 
-Rx only
-
 TARO
 
-PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
 NDC 51672-4133-4
 
-Dispense the accompanying Medication Guide to each patient.
-
 60 Tablets
+
+Dispense the accompanying Medication Guide to each patient.
 
 Lamotrigine Tablets, USP
 
@@ -64,6 +64,6 @@ Lamotrigine Tablets, USP
 
 CAUTION: Verify Product Dispensed
 
-Rx only
-
 TARO
+
+Rx only

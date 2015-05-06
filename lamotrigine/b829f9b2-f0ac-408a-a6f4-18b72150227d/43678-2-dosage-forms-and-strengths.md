@@ -2,15 +2,18 @@
 
 ## 3.1 Lamotrigine Tablets, USP
 
-25 mg, round, white tablets, scored on one side, embossed with "TARO" on one side and on the other side "LMT" above score and "25" below the score.
+25 mg, round, white, scored tablets.
+One side engraved with "TARO".
+Other side scored and engraved with "LMT" above the score and "25" below the score.
 
-100 mg, round, light peach, scored tablets, embossed with "TARO" on one side and on the other side "LMT" above score and "100" below the score.
+100 mg, round, light peach, scored tablets.
+One side engraved with "TARO".
+Other side scored and engraved with "LMT" above the score and "100" below the score.
 
-150 mg, round, cream tablets, scored on one side, embossed with "TARO" on one side and on the other side "LMT" above score and "150" below the score.
+150 mg, round, cream, scored tablets.
+One side engraved with "TARO".
+Other side scored and engraved with "LMT" above the score and "150" below the score.
 
-200 mg, round, light blue tablets, scored on one side, embossed with "TARO" on one side and on the other side "LMT" above score and "200" below the score.
-
-## 3.4 Potential Medication Errors
-
-Patients should be strongly advised to visually inspect their tablets to verify that they are receiving lamotrigine as well as the correct formulation of lamotrigine each time they fill their prescription.
-Depictions of the Lamotrigine Tablets can be found in the Medication Guide that accompanies the product.
+200 mg, round, light blue, scored tablets.
+One side engraved with "TARO".
+Other side scored and engraved with "LMT" above the score and "200" below the score.
