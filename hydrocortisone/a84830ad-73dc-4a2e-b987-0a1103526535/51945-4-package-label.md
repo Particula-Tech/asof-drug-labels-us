@@ -1,4 +1,4 @@
-# 1oz label
+# 1oz Label
 
 NDC 0316-0186-01
 
@@ -12,7 +12,7 @@ Not for Ophthalmic Use.
 
 1oz (28.4 g)
 
-See crimp of tube for Expiration Date and Batch Number
+See crimp of tube for Expiration Date and Batch Number.
 
 Store at controlled room temperature 15o - 30oC (59o - 86oF).
 
@@ -35,7 +35,7 @@ Johnson City, TN 37604
 
 P6300.00
 
-# 1oz carton
+# 1oz Carton
 
 NDC 0316-0186-01
 
