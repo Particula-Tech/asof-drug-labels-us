@@ -13,7 +13,7 @@ There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an 
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
 
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing atorvastatin.
+Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever, or if muscle signs and symptoms persist after discontinuing atorvastatin.
 Atorvastatin calcium therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 
 The risk of myopathy during treatment with drugs in this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, the hepatitis C protease inhibitor telaprevir, combinations of HIV protease inhibitors, including saquinavir plus ritonavir, lopinavir plus ritonavir, tipranavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, and fosamprenavir plus ritonavir, niacin, or azole antifungals.

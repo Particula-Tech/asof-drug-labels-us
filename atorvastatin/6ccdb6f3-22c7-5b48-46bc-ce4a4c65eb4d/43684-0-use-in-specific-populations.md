@@ -37,13 +37,12 @@ Because another drug in this class passes into human milk and because statins ha
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in patients 10-17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial of 6 months’ duration in adolescent boys and postmenarchal girls.
+Safety and effectiveness in patients 10 to 17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial of 6 months’ duration in adolescent boys and postmenarchal girls.
 Patients treated with atorvastatin calcium had an adverse experience profile generally similar to that of patients treated with placebo.
 The most common adverse experiences observed in both groups, regardless of causality assessment, were infections.
 Doses greater than 20 mg have not been studied in this patient population.
-In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls [see Clinical Studies (14.6); Adverse Reactions, Pediatric Patients (ages 10-17 years) (6.3); and Dosage and Administration, Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10-17 years of age) (2.2)].
+In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls [see Clinical Studies (14.6); Adverse Reactions, Pediatric Patients (ages 10 to 17 years)(6.3); and Dosage and Administration, Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 to 17 years of age) (2.2)].
 Adolescent females should be counseled on appropriate contraceptive methods while on atorvastatin calcium therapy [see Contraindications, Pregnancy (4.3) and Use in Specific Populations, Pregnancy (8.1)].
-Atorvastatin calcium has not been studied in controlled clinical trials involving pre-pubertal patients or patients younger than 10 years of age.
 
 Clinical efficacy with doses up to 80 mg/day for 1 year have been evaluated in an uncontrolled study of patients with homozygous FH including 8 pediatric patients [see Clinical Studies, Homozygous Familial Hypercholesterolemia (14.5)].
 

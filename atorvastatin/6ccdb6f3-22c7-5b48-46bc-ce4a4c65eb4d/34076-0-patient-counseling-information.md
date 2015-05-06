@@ -25,7 +25,7 @@ Patients should be advised that if they become pregnant, they should stop taking
 ## 17.4 Breastfeeding
 
 Women who are breastfeeding should be advised to not use atorvastatin calcium.
-Patients who have a lipid disorder and are breastfeeding, should be advised to discuss the options with their healthcare professional.
+Patients who have a lipid disorder and are breast-feeding, should be advised to discuss the options with their healthcare professional.
 
 PATIENT INFORMATION
 
