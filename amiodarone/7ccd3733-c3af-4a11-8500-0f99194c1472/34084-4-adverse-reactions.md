@@ -12,7 +12,8 @@ There have been spontaneous reports of demyelinating polyneuropathy.
 Gastrointestinal complaints, most commonly nausea, vomiting, constipation, and anorexia, occur in about 25% of patients but rarely require discontinuation of drug.
 These commonly occur during high-dose administration (i.e., loading dose) and usually respond to dose reduction or divided doses.
 
-Ophthalmic abnormalities including optic neuropathy and/or optic neuritis, in some cases progressing to permanent blindness, papilledema, corneal degeneration, photosensitivity, eye discomfort, scotoma, lens opacities, and macular degeneration have been reported (See "WARNINGS").
+Ophthalmic abnormalities including optic neuropathy and/or optic neuritis, in some cases progressing to permanent blindness, papilledema, corneal degeneration, photosensitivity, eye discomfort, scotoma, lens opacities, and macular degeneration have been reported.
+(See "WARNINGS".)
 
 Asymptomatic corneal microdeposits are present in virtually all adult patients who have been on drug for more than 6 months.
 Some patients develop eye symptoms of halos, photophobia, and dry eyes.

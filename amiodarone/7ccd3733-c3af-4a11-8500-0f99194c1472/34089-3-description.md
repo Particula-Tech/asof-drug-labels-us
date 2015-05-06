@@ -6,6 +6,6 @@ Amiodarone is a benzofuran derivative: 2-butyl-3-benzofuranyl 4-[2-(diethylamino
 
 The structural formula is as follows:
 
-Amiodarone HCI is a white to cream-colored crystalline powder.
+Amiodarone HCl is a white to cream-colored crystalline powder.
 It is slightly soluble in water, soluble in alcohol, and freely soluble in chloroform.
 It contains 37.3% iodine by weight.
