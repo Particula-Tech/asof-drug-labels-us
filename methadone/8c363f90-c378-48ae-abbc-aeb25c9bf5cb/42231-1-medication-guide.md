@@ -18,6 +18,6 @@ Roxane Laboratories, Inc., Columbus, Ohio 43216, www.roxane.com or call 1-800-96
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-4056301//06
+4056301//07
 
 Revised April 2014 © RLI, 2014
