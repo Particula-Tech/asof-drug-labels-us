@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
-EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
+The usual dosage and frequency of administration of doxycycline differs from that of the other tetracyclines.
+Exceeding the recommended dosage may result in an increased incidence of side effects.
 Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
 
 In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended.

@@ -1,9 +1,8 @@
 # WARNINGS
 
-THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY AND CHILDHOOD TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
-This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
-TETRACYCLINE DRUGS, THEREFORE, SHOULD NOT BE USED IN THIS AGE GROUP, EXCEPT FOR ANTHRAX, INCLUDING INHALATIONAL ANTHRAX (POST-EXPOSURE), UNLESS OTHER DRUGS ARE NOT LIKELY TO BE EFFECTIVE OR ARE CONTRAINDICATED.
+Tetracycline drugs, therefore, should not be used in this age group, except for anthrax, including inhalational anthrax (post-exposure), unless other drugs are not likely to be effective or are contraindicated.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vibramycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
