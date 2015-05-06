@@ -1,4 +1,3 @@
-# PACKAGING AND STORAGE
+# STORAGE
 
-Store at room temperature 15oC- 30oC (59oF- 86oF) in original container.
-Protect from freezing.
+Store at 20o - 25oC (68o- 77oF) [see USP Controlled Room Temperature]
