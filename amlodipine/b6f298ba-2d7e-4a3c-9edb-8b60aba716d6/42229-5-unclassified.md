@@ -27,9 +27,9 @@ Tell your doctor if you:
 - ever had liver problems
 - are pregnant, or plan to become pregnant.
   Your doctor will decide if amlodipine besylate tablets are the best treatment for you.
-- are breastfeeding.
-  Do not breastfeed while taking amlodipine besylate tablets.
-  You can stop breastfeeding or take a different medicine.
+- are breast-feeding.
+  Do not breast-feed while taking amlodipine besylate tablets.
+  You can stop breast-feeding or take a different medicine.
 
 How should I take amlodipine besylate tablets?
 
@@ -46,7 +46,7 @@ How should I take amlodipine besylate tablets?
 
 What should I avoid while taking amlodipine besylate tablets?
 
-- Do not breastfeed.
+- Do not breast-feed.
   It is not known if amlodipine besylate will pass through your milk.
 - Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
 
@@ -61,6 +61,7 @@ Most side effects are mild or moderate:
 - flushing (hot or warm feeling in your face)
 - arrhythmia (irregular heartbeat)
 - heart palpitations (very fast heartbeat)
+- muscle rigidity, tremor and/or abnormal muscle movement
 
 It is rare, but when you first start taking amlodipine besylate tablets or increase your dose, you may have a heart attack or your angina may get worse.
 If that happens, call your doctor right away or go directly to a hospital emergency room.
@@ -78,4 +79,4 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 They may harm them.
 You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can call 1-866-850-2876.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 05/2015

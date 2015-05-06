@@ -10,8 +10,9 @@ In controlled clinical trials directly comparing amlodipine besylate (N=1730) at
 The most commonly reported side effects more frequent than placebo are reflected in the table below.
 The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
-|  | 2.5 mg N=275 | Amlodipine 5 mg N=296 | 10 mg N=268 | Placebo N=520 |
+|  | Amlodipine |  |  | Placebo N=520 |
 | --- | --- | --- | --- | --- |
+| 2.5 mg N=275 | 5 mg N=296 | 10 mg N=268 |  |  |
 | Edema | 1.8 | 3 | 10.8 | 0.6 |
 | Dizziness | 1.1 | 3.4 | 3.4 | 1.5 |
 | Flushing | 0.7 | 1.4 | 2.6 | 0 |
@@ -59,4 +60,5 @@ In the CAMELOT and PREVENT studies [see Clinical Studies (14.4)], the adverse ev
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following postmarketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
+Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.
 Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.

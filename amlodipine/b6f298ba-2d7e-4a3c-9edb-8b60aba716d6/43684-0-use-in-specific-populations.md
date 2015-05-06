@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
+Teratogenic Effects Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 Amlodipine should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 times2 and 23 times2 the maximum recommended human dose of 10 mg on a mg/m2 basis) during their respective periods of major organogenesis.
 However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
