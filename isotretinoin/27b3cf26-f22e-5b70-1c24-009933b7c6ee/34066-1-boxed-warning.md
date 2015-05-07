@@ -21,19 +21,3 @@ Because of Zenatane teratogenicity and to minimize fetal exposure, Zenatane 
 This program is called iPLEDGE™.
 Zenatane must only be prescribed by prescribers who are registered and activated with the iPLEDGE program.
 Zenatane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).
-
-Table 1 Monthly Required iPLEDGE Interactions
-
-|  | Female Patients of Childbearing Potential | Male Patients, And Female Patients Not of ChildbearingPotential |
-| --- | --- | --- |
-| PRESCRIBER |  |  |
-| Confirms patient counseling | X | X |
-| Enters the 2 contraception methods | X |  |
-| chosen by the patient |  |  |
-| Enters pregnancy test results | X |  |
-| PATIENT |  |  |
-| Answers educational questions before | X |  |
-| every prescription |  |  |
-| Enters 2 forms of contraception | X |  |
-| PHARMACIST |  |  |
-| Contacts system to get an authorization | X | X |
