@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -33,7 +33,7 @@ A decision should be made whether to discontinue nursing or discontinue drug, ta
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of simvastatin in patients 10-17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial in adolescent boys and in girls who were at least 1 year post-menarche.
+Safety and effectiveness of simvastatin in patients 10 to 17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial in adolescent boys and in girls who were at least 1 year post-menarche.
 Patients treated with simvastatin had an adverse reaction profile similar to that of patients treated with placebo.
 Doses greater than 40 mg have not been studied in this population.
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls [see DOSAGE AND ADMINISTRATION (2.5), ADVERSE REACTIONS (6.1), CLINICAL STUDIES (14.2)].
@@ -42,15 +42,15 @@ Simvastatin has not been studied in patients younger than 10 years of age, nor i
 
 ## 8.5 Geriatric Use
 
-FOf the 2,423 patients who received simvastatin in Phase III clinical studies and the 10,269 patients in the Heart Protection Study who received simvastatin, 363 (15%) and 5,366 (52%), respectively were ≥65 years old.
+Of the 2,423 patients who received simvastatin in Phase III clinical studies and the 10,269 patients in the Heart Protection Study who received simvastatin, 363 (15%) and 5,366 (52%), respectively were ≥65 years old.
 In HPS, 615 (6%) were ≥75 years old.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Since advanced age (≥65 years) is a predisposing factor for myopathy, simvastatin should be prescribed with caution in the elderly [see CLINICAL PHARMACOLOGY, (12.3)].
 
-A pharmacokinetic study with simvastatin showed the mean plasma level of statin activity to be approximately 45% higher in elderly patients between 70-78 years of age compared with patients between 18-30 years of age.
+A pharmacokinetic study with simvastatin showed the mean plasma level of statin activity to be approximately 45% higher in elderly patients between 70 to 78 years of age compared with patients between 18 to 30 years of age.
 In 4S, 1,021 (23%) of 4,444 patients were 65 or older.
 Lipid-lowering efficacy was at least as great in elderly patients compared with younger patients, and simvastatin significantly reduced total mortality and CHD mortality in elderly patients with a history of CHD.
-In HPS, 52% of patients were elderly (4,891 patients 65-69 years and 5,806 patients 70 years or older).
+In HPS, 52% of patients were elderly (4,891 patients 65 to 69 years and 5,806 patients 70 years or older).
 The relative risk reductions of CHD death, non-fatal MI, coronary and non-coronary revascularization procedures, and stroke were similar in older and younger patients [see CLINICAL STUDIES (14.1)].
 In HPS, among 32,145 patients entering the active run-in period, there were 2 cases of myopathy/rhabdomyolysis; these patients were aged 67 and 73.
 Of the 7 cases of myopathy/rhabdomyolysis among 10,269 patients allocated to simvastatin, 4 were aged 65 or more (at baseline), of whom one was over 75.

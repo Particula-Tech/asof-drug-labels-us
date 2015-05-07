@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 - Simvastatin tablets USP 5 mg are tan colored, round, biconvex, film-coated tablets debossed with 'LL' on one side and 'C01' on the other side.
 - Simvastatin tablets USP 10 mg are peach colored, oval shaped, biconvex, film-coated tablets debossed with 'LL' on one side and 'C02' on the other side.

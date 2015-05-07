@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Drug therapy is indicated as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
@@ -23,7 +23,7 @@ Simvastatin tablets USP are indicated to:
 
 ## 1.3 Adolescent Patients with Heterozygous Familial Hypercholesterolemia (HeFH)
 
-Simvastatin tablets USP are indicated as an adjunct to diet to reduce total-C, LDL-C, and Apo B levels in adolescent boys and girls who are at least one year post-menarche, 10-17 years of age, with HeFH, if after an adequate trial of diet therapy the following findings are present:
+Simvastatin tablets USP are indicated as an adjunct to diet to reduce total-C, LDL-C, and Apo B levels in adolescent boys and girls who are at least one year post-menarche, 10 to 17 years of age, with HeFH, if after an adequate trial of diet therapy the following findings are present:
 
 1. LDL cholesterol remains ≥190 mg/dL; or
 2. LDL cholesterol remains ≥160 mg/dL and

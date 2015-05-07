@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -29,13 +29,14 @@ Peak plasma concentrations of both active and total inhibitors were attained wit
 While the recommended therapeutic dose range is 5 to 40 mg/day, there was no substantial deviation from linearity of AUC of inhibitors in the general circulation with an increase in dose to as high as 120 mg.
 Relative to the fasting state, the plasma profile of inhibitors was not affected when simvastatin was administered immediately before an American Heart Association recommended low-fat meal.
 
-In a study including 16 elderly patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18-30 years of age.
+In a study including 16 elderly patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18 to 30 years of age.
 Clinical study experience in the elderly (n=1522), suggests that there were no overall differences in safety between elderly and younger patients [see USE IN SPECIFIC POPULATIONS (8.5)].
 
 Kinetic studies with another statin, having a similar principal route of elimination, have suggested that for a given dose level higher systemic exposure may be achieved in patients with severe renal insufficiency (as measured by creatinine clearance).
 
-Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of statins.
-The increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4.
+Simvastatin acid is a substrate of the transport protein OATP1B1.
+Concomitant administration of medicinal products that are inhibitors of the transport protein OATP1B1 may lead to increased plasma concentrations of simvastatin acid and an increased risk of myopathy.
+For example, cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1.
 
 The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma.
 Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.1)].
@@ -59,19 +60,19 @@ TABLE 3 Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin System
 | Grapefruit JuiceThe effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. (high dose) | 200 mL of double-strength TIDDouble-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
 | Grapefruit Juice (low dose) | 8 oz (about 237mL) of single-strengthSingle-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
 | Avoid taking with >10 mg simvastatin, based on clinical and/or postmarketing experience [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
-| Verapamil SR | 240 mg QD Days 1-7 then 240 mg BID on Days 8-10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
+| Verapamil SR | 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
 | Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
 | Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |
 | Dronedarone | 400 mg BID for 14 days | 40 mg QD for 14 days | simvastatin acid simvastatin | 1.96 3.90 | 2.14 3.75 |
 | Avoid taking with >20 mg simvastatin, based on clinical and/or postmarketing experience [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
 | Amiodarone | 400 mg QD for 3 days | 40 mg on Day 3 | simvastatin acid simvastatin | 1.75 1.76 | 1.72 1.79 |
 | Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
-| Ranolazine SR | 1000 mg BID for 7 days | 80 mg on Day 1 and Days 6-9 | simvastatin acid simvastatin | 2.26 1.86 | 2.28 1.75 |
+| Ranolazine SR | 1000 mg BID for 7 days | 80 mg on Day 1 and Days 6 to 9 | simvastatin acid simvastatin | 2.26 1.86 | 2.28 1.75 |
 | Avoid taking with >20 mg simvastatin (or 40 mg for patients who have previously taken 80 mg simvastatin chronically, e.g., for 12 months or more, without evidence of muscle toxicity), based on clinical experience |  |  |  |  |  |
 | Lomitapide | 60 mg QD for 7 days | 40 mg single dose | simvastatin acid simvastatin | 1.7 2 | 1.6 2 |
 | Lomitapide | 10 mg QD for 7 days | 20 mg single dose | simvastatin acid simvastatin | 1.4 1.6 | 1.4 1.7 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Fenofibrate | 160 mg QD x 14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
+| Fenofibrate | 160 mg QD x 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
 | Niacin extended-releaseBecause Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 g/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.4)]. | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor | 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL |
 |  |  |  | active inhibitor | 0.79 | ↓ from 7.0 to 4.7 ng·eq/mL |

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)- recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
 
@@ -38,7 +38,7 @@ United States
 
 MADE IN INDIA.
 
-April 2014 ID: #237136
+May 2015 ID: #240752
 
 1National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
 Pediatrics.

@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Simvastatin Tablets USP, 5 mg are tan colored, round, biconvex, film-coated tablets, debossed with 'LL' on one side and 'C01' on the other side.
 They are supplied as follows:

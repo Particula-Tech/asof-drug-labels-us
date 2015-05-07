@@ -1,11 +1,11 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Clinical Studies in Adults
 
 Reductions in Risk of CHD Mortality and Cardiovascular Events
 
-In 4S, the effect of therapy with simvastatin on total mortality was assessed in 4,444 patients with CHD and baseline total cholesterol 212-309 mg/dL (5.5-8.0 mmol/L).
-In this multicenter, randomized, double-blind, placebo-controlled study, patients were treated with standard care, including diet, and either simvastatin 20-40 mg/day (n=2,221) or placebo (n=2,223) for a median duration of 5.4 years.
+In 4S, the effect of therapy with simvastatin on total mortality was assessed in 4,444 patients with CHD and baseline total cholesterol 212 to 309 mg/dL (5.5 to 8.0 mmol/L).
+In this multicenter, randomized, double-blind, placebo-controlled study, patients were treated with standard care, including diet, and either simvastatin 20 to 40 mg/day (n=2,221) or placebo (n=2,223) for a median duration of 5.4 years.
 Over the course of the study, treatment with simvastatin led to mean reductions in total-C, LDL-C and TG of 25%, 35%, and 10%, respectively, and a mean increase in HDL-C of 8%.
 Simvastatin significantly reduced the risk of mortality by 30% (p=0.0003, 182 deaths in the simvastatin group vs 256 deaths in the placebo group).
 The risk of CHD mortality was significantly reduced by 42% (p=0.00001, 111 vs 189 deaths).
@@ -24,7 +24,7 @@ Additionally, simvastatin resulted in similar decreases in relative risk for tot
 
 The Heart Protection Study (HPS) was a large, multi-center, placebo-controlled, double-blind study with a mean duration of 5 years conducted in 20,536 patients (10,269 on simvastatin 40 mg and 10,267 on placebo).
 Patients were allocated to treatment using a covariate adaptive method3 which took into account the distribution of 10 important baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
-Patients had a mean age of 64 years (range 40-80 years), were 97% Caucasian and were at high risk of developing a major coronary event because of existing CHD (65%), diabetes (Type 2, 26%; Type 1, 3%), history of stroke or other cerebrovascular disease (16%), peripheral vessel disease (33%), or hypertension in males ≥65 years (6%).
+Patients had a mean age of 64 years (range 40 to 80 years), were 97% Caucasian and were at high risk of developing a major coronary event because of existing CHD (65%), diabetes (Type 2, 26%; Type 1, 3%), history of stroke or other cerebrovascular disease (16%), peripheral vessel disease (33%), or hypertension in males ≥65 years (6%).
 At baseline, 3,421 patients (17%) had LDL-C levels below 100 mg/dL, of whom 953 (5%) had LDL-C levels below 80 mg/dL; 7,068 patients (34%) had levels between 100 and 130 mg/dL; and 10,047 patients (49%) had levels greater than 130 mg/dL.
 
 The HPS results showed that simvastatin 40 mg/day significantly reduced: total and CHD mortality; nonfatal MI, stroke, and revascularization procedures (coronary and non-coronary) (see TABLE 4).
@@ -36,14 +36,14 @@ TABLE 4 Summary of Heart Protection Study Results
 |  | (N=10,269) | (N=10,267) | Reduction (%) |  |
 |  | n (%)n = number of patients with indicated event | n (%) | (95% CI) |  |
 | Primary |  |  |  |  |
-| Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6-19) | p=0.0003 |
-| CHD mortality | 587 (5.7) | 707 (6.9) | 18 (8-26) | p=0.0005 |
+| Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6 to 19) | p=0.0003 |
+| CHD mortality | 587 (5.7) | 707 (6.9) | 18 (8 to 26) | p=0.0005 |
 | Secondary |  |  |  |  |
-| Non-fatal MI | 357 (3.5) | 574 (5.6) | 38 (30-46) | p<0.0001 |
-| Stroke | 444 (4.3) | 585 (5.7) | 25 (15-34) | p<0.0001 |
+| Non-fatal MI | 357 (3.5) | 574 (5.6) | 38 (30 to 46) | p<0.0001 |
+| Stroke | 444 (4.3) | 585 (5.7) | 25 (15 to 34) | p<0.0001 |
 | Tertiary |  |  |  |  |
-| Coronary revascularization | 513 (5) | 725 (7.1) | 30 (22-38) | p<0.0001 |
-| Peripheral and other non- coronary revascularization | 450 (4.4) | 532 (5.2) | 16 (5-26) | p=0.006 |
+| Coronary revascularization | 513 (5) | 725 (7.1) | 30 (22 to 38) | p<0.0001 |
+| Peripheral and other non- coronary revascularization | 450 (4.4) | 532 (5.2) | 16 (5 to 26) | p=0.006 |
 
 Two composite endpoints were defined in order to have sufficient events to assess relative risk reductions across a range of baseline characteristics (see Figure 1).
 A composite of major coronary events (MCE) was comprised of CHD mortality and non-fatal MI (analyzed by time-to-first event; 898 patients treated with simvastatin had events and 1,212 patients on placebo had events).
@@ -73,7 +73,7 @@ Modifications of Lipid Profiles
 Primary Hyperlipidemia (Fredrickson type lla and llb)
 
 Simvastatin has been shown to be effective in reducing total-C and LDL-C in heterozygous familial and non-familial forms of hyperlipidemia and in mixed hyperlipidemia.
-Maximal to near maximal response is generally achieved within 4-6 weeks and maintained during chronic therapy.
+Maximal to near maximal response is generally achieved within 4 to 6 weeks and maintained during chronic therapy.
 Simvastatin significantly decreased total-C, LDL-C, total-C/HDL-C ratio, and LDL-C/HDL-C ratio; simvastatin also decreased TG and increased HDL-C (see TABLE 5).
 
 TABLE 5 Mean Response in Patients with Primary Hyperlipidemia and Combined (mixed) Hyperlipidemia (Mean Percent Change from Baseline After 6 to 24 Weeks)
@@ -120,7 +120,7 @@ TABLE 7 Six-week, Lipid-lowering Effects of Simvastatin in Type III Hyperlipidem
 
 Homozygous Familial Hypercholesterolemia
 
-In a controlled clinical study, 12 patients 15-39 years of age with homozygous familial hypercholesterolemia received simvastatin 40 mg/day in a single dose or in 3 divided doses, or 80 mg/day in 3 divided doses.
+In a controlled clinical study, 12 patients 15 to 39 years of age with homozygous familial hypercholesterolemia received simvastatin 40 mg/day in a single dose or in 3 divided doses, or 80 mg/day in 3 divided doses.
 In 11 patients with reductions in LDL-C, the mean LDL-C changes for the 40- and 80-mg doses were 14% (range 8% to 23%, median 12%) and 30% (range 14% to 46%, median 29%), respectively.
 One patient had an increase of 15% in LDL-C.
 Another patient with absent LDL-C receptor function had an LDL-C reduction of 41% with the 80-mg dose.
@@ -131,14 +131,14 @@ In clinical studies, simvastatin did not impair adrenal reserve or significantly
 Small reductions from baseline in basal plasma testosterone in men were observed in clinical studies with simvastatin, an effect also observed with other statins and the bile acid sequestrant cholestyramine.
 There was no effect on plasma gonadotropin levels.
 In a placebo-controlled, 12-week study there was no significant effect of simvastatin 80 mg on the plasma testosterone response to human chorionic gonadotropin.
-In another 24-week study, simvastatin 20-40 mg had no detectable effect on spermatogenesis.
-In 4S, in which 4,444 patients were randomized to simvastatin 20-40 mg/day or placebo for a median duration of 5.4 years, the incidence of male sexual adverse events in the two treatment groups was not significantly different.
+In another 24-week study, simvastatin 20 to 40 mg had no detectable effect on spermatogenesis.
+In 4S, in which 4,444 patients were randomized to simvastatin 20 to 40 mg/day or placebo for a median duration of 5.4 years, the incidence of male sexual adverse events in the two treatment groups was not significantly different.
 Because of these factors, the small changes in plasma testosterone are unlikely to be clinically significant.
 The effects, if any, on the pituitary-gonadal axis in pre-menopausal women are unknown.
 
 ## 14.2 Clinical Studies in Adolescents
 
-In a double-blind, placebo-controlled study, 175 patients (99 adolescent boys and 76 post-menarchal girls) 10-17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (HeFH) were randomized to simvastatin (n=106) or placebo (n=67) for 24 weeks (base study).
+In a double-blind, placebo-controlled study, 175 patients (99 adolescent boys and 76 post-menarchal girls) 10 to 17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (HeFH) were randomized to simvastatin (n=106) or placebo (n=67) for 24 weeks (base study).
 Inclusion in the study required a baseline LDL-C level between 160 and 400 mg/dL and at least one parent with an LDL-C level >189 mg/dL.
 The dosage of simvastatin (once daily in the evening) was 10 mg for the first 8 weeks, 20 mg for the second 8 weeks, and 40 mg thereafter.
 In a 24-week extension, 144 patients elected to continue therapy with simvastatin 40 mg or placebo.
@@ -155,7 +155,7 @@ TABLE 8 Lipid-Lowering Effects of Simvastatin in Adolescent Patients with Hetero
 | Simvastatin | 24 Weeks | 106 | % Change from Baseline (95% CI) | -26.5 (-29.6, -23.3) | -36.8 (-40.5, -33.0) | 8.3 (4.6, 11.9) | -7.9 (-15.8, 0.0) | -32.4 (-35.9, -29.0) |
 |  |  |  | Mean baseline, mg/dL (SD) | 270.2 (44.0) | 203.8 (41.5) | 47.7 (9.0) | 78.3 (46.0) | 179.9 (33.8) |
 
-After 24 weeks of treatment, the mean achieved LDL-C value was 124.9 mg/dL (range: 64.0-289.0 mg/dL) in the simvastatin 40 mg group compared to 207.8 mg/dL (range: 128.0-334.0 mg/dL) in the placebo group.
+After 24 weeks of treatment, the mean achieved LDL-C value was 124.9 mg/dL (range: 64.0 to 289.0 mg/dL) in the simvastatin 40 mg group compared to 207.8 mg/dL (range: 128.0 to 334.0 mg/dL) in the placebo group.
 
 The safety and efficacy of doses above 40 mg daily have not been studied in children with HeFH.
 The long-term efficacy of simvastatin therapy in childhood to reduce morbidity and mortality in adulthood has not been established.

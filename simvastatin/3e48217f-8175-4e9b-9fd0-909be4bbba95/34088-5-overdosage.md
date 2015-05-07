@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Significant lethality was observed in mice after a single oral dose of 9 g/m2.
 No evidence of lethality was observed in rats or dogs treated with doses of 30 and 100 g/m2, respectively.

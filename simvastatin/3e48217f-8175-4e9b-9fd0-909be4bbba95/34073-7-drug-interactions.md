@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Strong CYP3A4 Inhibitors, Cyclosporine, or Danazol
 
@@ -9,7 +9,7 @@ Simvastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity; ther
 
 Elevated plasma levels of HMG-CoA reductase inhibitory activity increases the risk of myopathy and rhabdomyolysis, particularly with higher doses of simvastatin [see WARNINGS AND PRECAUTIONS (5.1) and CLINICAL PHARMACOLOGY (12.3)].
 Concomitant use of drugs labeled as having a strong inhibitory effect on CYP3A4 is contraindicated [see CONTRAINDICATIONS (4)].
-If treatment with itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
+If treatment with itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 
 Cyclosporine or Danazol
 
@@ -34,7 +34,8 @@ The risk of myopathy, including rhabdomyolysis, is increased by concomitant admi
 
 Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In particular, caution should be used when treating Chinese patients with simvastatin doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
-Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see WARNINGS AND PRECAUTIONS (5.1) and CLINICAL PHARMACOLOGY (12.3)].
+Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
+[see WARNINGS AND PRECAUTIONS (5.1) and CLINICAL PHARMACOLOGY (12.3)].
 
 ## 7.5 Digoxin
 
@@ -43,7 +44,7 @@ Patients taking digoxin should be monitored appropriately when simvastatin is in
 
 ## 7.6 Coumarin Anticoagulants
 
-In two clinical studies, one in normal volunteers and the other in hypercholesterolemic patients, simvastatin 20-40 mg/day modestly potentiated the effect of coumarin anticoagulants: the prothrombin time, reported as International Normalized Ratio (INR), increased from a baseline of 1.7 to 1.8 and from 2.6 to 3.4 in the volunteer and patient studies, respectively.
+In two clinical studies, one in normal volunteers and the other in hypercholesterolemic patients, simvastatin 20 to 40 mg/day modestly potentiated the effect of coumarin anticoagulants: the prothrombin time, reported as International Normalized Ratio (INR), increased from a baseline of 1.7 to 1.8 and from 2.6 to 3.4 in the volunteer and patient studies, respectively.
 With other statins, clinically evident bleeding and/or increased prothrombin time has been reported in a few patients taking coumarin anticoagulants concomitantly.
 In such patients, prothrombin time should be determined before starting simvastatin and frequently enough during early therapy to ensure that no significant alteration of prothrombin time occurs.
 Once a stable prothrombin time has been documented, prothrombin times can be monitored at the intervals usually recommended for patients on coumarin anticoagulants.
