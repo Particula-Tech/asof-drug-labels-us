@@ -1,4 +1,4 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
 Hemophilia A: Desmopressin Acetate Injection 4 mcg/mL is indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5%.
 Desmopressin acetate injection will often maintain hemostasis in patients with hemophilia A during surgical procedures and postoperatively when administered 30 minutes prior to scheduled procedure.
@@ -14,7 +14,8 @@ Those von Willebrand’s disease patients who are least likely to respond are th
 Other patients may respond in a variable fashion depending on the type of molecular defect they have.
 Bleeding time and factor VIII coagulant activity, ristocetin cofactor activity, and von Willebrand factor antigen should be checked during administration of desmopressin acetate injection to ensure that adequate levels are being achieved.
 Desmopressin acetate injection is not indicated for the treatment of severe classic von Willebrand’s disease (Type I) and when there is evidence of an abnormal molecular form of factor VIII antigen.
-( See WARNINGS. ) Diabetes Insipidus: Desmopressin acetate injection 4 mcg/mL is indicated as antidiuretic replacement therapy in the management of central (cranial) diabetes insipidus and for the management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region.
+(See WARNINGS.)
+Diabetes Insipidus: Desmopressin acetate injection 4 mcg/mL is indicated as antidiuretic replacement therapy in the management of central (cranial) diabetes insipidus and for the management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region.
 Desmopressin acetate injection is ineffective for the treatment of nephrogenic diabetes insipidus.
 Desmopressin acetate is also available as an intranasal preparation.
 However, this means of delivery can be compromised by a variety of factors that can make nasal insufflation ineffective or inappropriate.

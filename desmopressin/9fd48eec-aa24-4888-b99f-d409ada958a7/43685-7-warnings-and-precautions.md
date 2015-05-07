@@ -36,17 +36,17 @@ In some cases, plasma osmolality may be required.
 ## Drug Interactions
 
 Although the pressor activity of desmopressin acetate is very low compared with the antidiuretic activity, use of doses as large as 0.3 mcg/kg of desmopressin acetate with other pressor agents should be done only with careful patient monitoring.
-The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution.
+The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution.
 Desmopressin acetate has been used with epsilon aminocaproic acid without adverse effects.
 
-## Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 Studies with desmopressin acetate have not been performed to evaluate carcinogenic potential, mutagenic potential or effects on fertility.
 
 ## Pregnancy
 
 Pregnancy Category B Fertility studies have not been done.
-Teratology studies in rats and rabbits at doses from 0.05 to 10 mcg/kg/day (approximately 0.1 times the maximum systemic human exposure in rats and up to 38 times the maximum systemic human exposure in rabbits based on surface area, mg/m 2 ) revealed no harm to the fetus due to desmopressin acetate.
+Teratology studies in rats and rabbits at doses from 0.05 to 10 mcg/kg/day (approximately 0.1 times the maximum systemic human exposure in rats and up to 38 times the maximum systemic human exposure in rabbits based on surface area, mg/m2) revealed no harm to the fetus due to desmopressin acetate.
 There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 Several publications of desmopressin acetate’s use in the management of diabetes insipidus during pregnancy are available; these include a few anecdotal reports of congenital anomalies and low birth weight babies.
@@ -65,7 +65,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Use in infants and pediatric patients will require careful fluid intake restriction to prevent possible hyponatremia and water intoxication.
 Fluid restriction should be discussed with the patient and/or guardian.
-( See WARNINGS .)
+(See WARNINGS.)
 Desmopressin acetate injection 4 mcg/mL should not be used in infants less than three months of age in the treatment of hemophilia A or von Willebrand’s disease; safety and effectiveness in pediatric patients under 12 years of age with diabetes insipidus have not been established.
 
 ## Geriatric Use
@@ -76,7 +76,7 @@ In general, dose selection should be cautious, usually starting at the low end o
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 Desmopressin acetate is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50ml/min).
-( See CLINICAL PHARMACOLOGY , Human Pharmacokinetics and CONTRAINDICATIONS .)
+(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics and CONTRAINDICATIONS.)
 Use of desmopressin acetate injection in geriatric patients will require careful fluid intake restrictions to prevent possible hyponatremia and water intoxication.
 Fluid restriction should be discussed with the patient.
-( See WARNINGS .)
+(See WARNINGS.)

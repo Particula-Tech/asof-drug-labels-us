@@ -1,6 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Desmopressin acetate injection 4 mcg/mL contains as active substance, desmopressin acetate,USP, a synthetic analogue of the natural hormone arginine vasopressin.
+Desmopressin acetate
+
+injection 4 mcg/mL contains as active substance, desmopressin acetate,USP, a synthetic analogue of the natural hormone arginine vasopressin.
 One mL (4 mcg) of desmopressin acetate solution has an antidiuretic activity of about 16 IU; 1 mcg of desmopressin acetate is equivalent to 4 IU.
 Desmopressin acetate has been shown to be more potent than arginine vasopressin in increasing plasma levels of factor VIII activity in patients with hemophilia and von Willebrand’s disease Type I. Dose-response studies were performed in healthy persons, using doses of 0.1 to 0.4 mcg/kg body weight, infused over a 10-minute period.
 Maximal dose response occurred at 0.3 to 0.4 mcg/kg.
