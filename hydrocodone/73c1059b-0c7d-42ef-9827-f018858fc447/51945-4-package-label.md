@@ -145,7 +145,7 @@ Rx only
 325 mg This package is not for household use.
 Mallinckrodt™
 
-L0H105 Rev 09/2014
+L0H105 Rev 11/2014
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Bottle
 
@@ -162,7 +162,7 @@ Rx only
 325 mg This package is not for household use.
 Mallinckrodt™
 
-L0H107 Rev 09/2014
+L0H107 Rev 11/2014
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Bottle
 
@@ -179,4 +179,4 @@ Rx only
 325 mg This package is not for household use.
 Mallinckrodt™
 
-L0H109 Rev 09/2014
+L0H109 Rev 11/2014
