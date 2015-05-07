@@ -1,30 +1,42 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Valcyte tablets cannot be substituted for ganciclovir capsules on a one-to-one basis.
-Inform patients switching from ganciclovir capsules of the risk of overdosage if they take more than the prescribed number of Valcyte tablets [see Dosage and Administration (2.1), Overdosage (10)].
+Serious Adverse Reactions
 
-Adult patients should use Valcyte tablets, not Valcyte for oral solution [see Dosage and Administration (2.1)].
+Inform patients that VALCYTE may cause granulocytopenia (neutropenia), anemia, thrombocytopenia and elevated creatinine levels and that dose modification or discontinuation of dosing may be required.
+Complete blood counts, platelet counts, and creatinine levels should be performed frequently during treatment [see Warnings and Precautions (5.1)].
 
-Valcyte is changed to ganciclovir once it is absorbed into the body.
-Inform all patients that the major toxicities of ganciclovir include granulocytopenia (neutropenia), anemia, and thrombocytopenia and that dose modifications may be required, including discontinuation.
-The importance of close monitoring of blood counts while on therapy should be emphasized.
-Inform patients that ganciclovir has been associated with elevations in serum creatinine.
+Pregnancy and Contraception
 
-Instruct patients to take Valcyte with food to maximize bioavailability.
+Inform females of reproductive potential that VALCYTE causes birth defects in animals.
+Advise them to use effective contraception during and for at least 30 days following treatment with VALCYTE.
+Similarly, advise males to practice barrier contraception during and for at least 90 days following treatment with VALCYTE [see Use in Specific Populations (8.1, 8.3)].
 
-Advise patients that ganciclovir causes decreased sperm production in animals and may cause decreased fertility in humans.
-Advise women of childbearing potential that ganciclovir causes birth defects in animals and should not be used during pregnancy.
-Because of the potential for serious adverse events in nursing infants, instruct mothers not to breast-feed if they are receiving Valcyte.
-Advise women of childbearing potential to use effective contraception during and for at least 30 days following treatment with Valcyte.
-Similarly, advise men to practice barrier contraception during and for at least 90 days following treatment with Valcyte.
+Carcinogenicity
 
-Although there is no information from human studies, advise patients that ganciclovir should be considered a potential carcinogen.
+Advise patients that VALCYTE is considered a potential carcinogen [see Nonclinical Toxicity (13.1)].
 
-Convulsions, sedation, dizziness, ataxia and/or confusion have been reported with the use of Valcyte and/or ganciclovir.
-If they occur, tasks requiring alertness may be affected including the patient's ability to drive and operate machinery.
+Lactation
 
-Inform patients that ganciclovir is not a cure for CMV retinitis, and they may continue to experience progression of retinitis during or following treatment.
-Advise patients to have ophthalmologic follow-up examinations at a minimum of every 4 to 6 weeks while being treated with Valcyte.
+Advise mothers not to breast-feed if they are receiving VALCYTE because of the potential for hematologic toxicity and cancer in nursing infants, and because HIV can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise patients that VALCYTE may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.2), Use in Specific Populations (8.3)].
+
+Impairment of Cognitive Ability
+
+Inform patients that tasks requiring alertness may be affected including the patient's ability to drive and operate machinery as convulsions, sedation, dizziness, ataxia and/or confusion have been reported with the use of VALCYTE [see Adverse Reactions (6.1)].
+
+Use in Patients with CMV Retinitis
+
+Inform patients that VALCYTE is not a cure for CMV retinitis, and they may continue to experience progression of retinitis during or following treatment.
+Advise patients to have ophthalmologic follow-up examinations at a minimum of every 4 to 6 weeks while being treated with VALCYTE.
 Some patients will require more frequent follow-up.
+
+Administration
+
+Inform adult patients that they should use VALCYTE tablets, not VALCYTE for oral solution [see Dosage and Administration (2.1)].
+
+Inform patients to take VALCYTE with food to maximize bioavailability.

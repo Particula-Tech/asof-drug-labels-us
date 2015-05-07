@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 450 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 450 mg Tablet Bottle Label
 
 NDC 0004-0038-22
 
@@ -14,7 +14,7 @@ DO NOT BREAK OR CRUSH TABLETS
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 50 mg/1 mL Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 50 mg/1 mL Bottle Carton
 
 NDC 0004-0039-09
 
