@@ -8,24 +8,51 @@ Herceptin has been shown, in both in vitro assays and in animals, to inhibit the
 Herceptin is a mediator of antibody-dependent cellular cytotoxicity (ADCC).
 In vitro, Herceptin-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
 
-## 12.2 Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-The pharmacokinetics of trastuzumab were studied in women with metastatic breast cancer.
-Short duration intravenous infusions of 10 to 500 mg Herceptin once weekly demonstrated dose-dependent pharmacokinetics.
-Mean half-life increased and clearance decreased with increasing dose level.
-The half-life averaged 2 and 12 days at the 10 and 500 mg dose levels, respectively.
-The volume of distribution of trastuzumab was approximately that of serum volume (44 mL/kg).
-At the highest weekly dose studied (500 mg), mean peak serum concentrations were 377 mcg/mL.
+Cardiac Electrophysiology
 
-In studies using an initial dose of 4 mg/kg followed by a weekly dose of 2 mg/kg, a mean half-life of 6 days (range 1–32 days) was observed.
-Between weeks 16 and 32, trastuzumab serum concentrations reached a steady state with mean trough and peak concentrations of approximately 79 mcg/mL and 123 mcg/mL, respectively.
+The effects of trastuzumab on electrocardiographic (ECG) endpoints, including QTc interval duration, were evaluated in patients with HER2 positive solid tumors.
+Trastuzumab had no clinically relevant effect on the QTc interval duration and there was no apparent relationship between serum trastuzumab concentrations and change in QTcF interval duration in patients with HER2 positive solid tumors.
 
-In a study of women receiving adjuvant therapy for breast cancer, a mean half-life of trastuzumab of 16 days (range: 11–23 days) was observed after an initial dose of 8 mg/kg followed by a dose of 6 mg/kg every three weeks.
-Between weeks 6 and 37, trastuzumab serum concentrations reached a steady-state with mean trough and peak concentrations of 63 mcg/mL and 216 mcg/mL, respectively.
+## 12.3 Pharmacokinetics
 
-In patients with metastatic gastric cancer (Study 7), mean serum trastuzumab trough concentrations at steady state were 24 to 63% lower as compared to the concentrations observed in patients with breast cancer receiving treatment for metastatic disease in combination with paclitaxel, as monotherapy for metastatic disease, or as adjuvant monotherapy.
+The pharmacokinetics of trastuzumab was evaluated in a pooled population pharmacokinetic (PK) model analysis of 1,582 subjects with primarily breast cancer and metastatic gastric cancer (MGC) receiving intravenous Herceptin.
+Total trastuzumab clearance increases with decreasing concentrations due to parallel linear and non-linear elimination pathways.
 
-Sixty-four percent (286/447) of women with metastatic breast cancer had detectable circulating extracellular domain of the HER2 receptor (shed antigen), which ranged as high as 1880 ng/mL (median 11 ng/mL).
-Patients with higher baseline shed antigen levels were more likely to have lower serum trough concentrations.
+Although the average trastuzumab exposure was higher following the first cycle in breast cancer patients receiving the three-weekly schedule compared to the weekly schedule of Herceptin, the average steady-state exposure was essentially the same at both dosages.
+The average trastuzumab exposure following the first cycle and at steady state as well as the time to steady state was higher in breast cancer patients compared to MGC patients at the same dosage; however, the reason for this exposure difference is unknown.
+Additional predicted trastuzumab exposure and PK parameters following the first Herceptin cycle and at steady state exposure are described in Tables 7 and 8, respectively.
 
-Data suggest that the disposition of trastuzumab is not altered based on age or serum creatinine (≤2.0 mg creatinine/dL).
+Population PK based simulations indicate that following discontinuation of Herceptin, concentrations in at least 95% of breast cancer and MGC patients will decrease to approximately 3% of the population predicted steady-state trough serum concentration (approximately 97% washout) by 7 months [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.6)].
+
+Table 7: Population Predicted Cycle 1 PK Exposures (median with 5th - 95th Percentiles) in Breast Cancer and MGC Patients
+
+| Schedule | Primary tumor type | N | Cmin (µg/mL) | Cmax (µg/mL) | AUC0-21days (µg.day/mL) |
+| --- | --- | --- | --- | --- | --- |
+| 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 29.4 (5.8 -59.5) | 178 (117 - 291) | 1373 (736 - 2245) |
+| MGC | 274 | 23.1 (6.1- 50.3) | 132 (84.2 - 225) | 1109 (588 - 1938) |  |
+| 4 mg/kg + 2 mg/kg qw | Breast cancer | 1195 | 37.7 (12.3 - 70.9) | 88.3 (58 - 144) | 1066 (586 - 1754) |
+
+Table 8: Population Predicted Steady State PK Exposures (median with 5th - 95th Percentiles) in Breast Cancer and MGC Patients
+
+| Schedule | Primary tumor type | N | Cmin,ssSteady-state trough serum concentration of trastuzumab (µg/mL) | Cmax,ssMaximum steady-state serum concentration of trastuzumab (µg/mL) | AUCss, 0-21 days (µg.day/mL) | Time to steady-state (week) | Total CL range at steady-state (L/day) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 47.4 (5 - 115) | 179 (107 - 309) | 1794 (673 - 3618) | 12 | 0.173 - 0.283 |
+| MGC | 274 | 32.9 (6.1 - 88.9) | 131 (72.5 - 251) | 1338 (557 - 2875) | 9 | 0.189 - 0.337 |  |
+| 4 mg/kg + 2 mg/kg qw | Breast cancer | 1195 | 66.1 (14.9 – 142) | 109 (51.0 - 209) | 1765 (647 - 3578) | 12 | 0.201 - 0.244 |
+
+Specific Populations: Based on a population pharmacokinetic analysis, no clinically significant differences were observed in the pharmacokinetics of trastuzumab based on age (<65 (n=1294); ≥65 (n=288)), race (Asian (n=264); non-Asian (n=1324)) and renal impairment (mild (creatinine clearance [CLcr] 60 to 90 mL/min) (n=636) or moderate (CLcr 30 to 60 mL/min) (n=133)).
+The pharmacokinetics of trastuzumab in patients with severe renal impairment, end-stage-renal disease with or without hemodialysis, or hepatic impairment is unknown.
+
+Drug Interaction Studies:
+
+There have been no formal drug interaction studies performed with Herceptin in humans.
+Clinically significant interactions between Herceptin and concomitant medications used in clinical trials have not been observed.
+
+Paclitaxel and doxorubicin: Concentrations of paclitaxel and doxorubicin and their major metabolites (i.e., 6-α hydroxyl-paclitaxel [POH], and doxorubicinol [DOL], respectively) were not altered in the presence of trastuzumab when used as combination therapy in clinical trials.
+Trastuzumab concentrations were not altered as part of this combination therapy.
+
+Docetaxel and carboplatin: When Herceptin was administered in combination with docetaxel or carboplatin, neither the plasma concentrations of docetaxel or carboplatin nor the plasma concentrations of trastuzumab was altered.
+
+Cisplatin and capecitabine: In a drug interaction substudy conducted in patients in Study 7, the pharmacokinetics of cisplatin, capecitabine and their metabolites were not altered when administered in combination with Herceptin.

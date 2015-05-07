@@ -11,6 +11,8 @@ The highest absolute incidence occurs when Herceptin is administered with an ant
 Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.2)].
 The safety of continuation or resumption of Herceptin in patients with Herceptin-induced left ventricular cardiac dysfunction has not been studied.
 
+Patients who receive anthracycline after stopping Herceptin may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+
 Cardiac Monitoring
 
 Conduct thorough cardiac assessment, including history, physical examination, and determination of LVEF by echocardiogram or MUGA scan.
@@ -76,8 +78,10 @@ While some patients tolerated Herceptin infusions, others had recurrent severe i
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
 In post marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
-Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy and provide contraception counseling to women of childbearing potential.
-[see Use in Specific Populations (8.1), Patient Counseling Information (17)].
+If the patient becomes pregnant while taking Herceptin or within 7 months following the last dose of Herceptin, apprise the patient of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+
+Advise females of reproductive potential to avoid becoming pregnant while taking Herceptin.
+If contraceptive methods are being considered, use effective contraception during treatment and for at least 7 months after receiving the last dose of Herceptin [see Use in Specific Populations (8.6)].
 
 ## 5.4 Pulmonary Toxicity
 
@@ -108,4 +112,4 @@ Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastat
 
 Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
 Study 7 demonstrated that gene amplification and protein overexpression were not as well correlated as with breast cancer.
-Treatment outcomes for metastatic gastric cancer (Study 7), based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table 12.
+Treatment outcomes for metastatic gastric cancer (Study 7), based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table14.

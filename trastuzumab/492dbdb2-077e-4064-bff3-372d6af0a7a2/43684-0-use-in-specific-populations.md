@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Category D [see Warnings and Precautions (5.3), Nonclinical Toxicology (13.2)]
+Category D [see Warnings and Precautions (5.3)]
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
 In post-marketing reports use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
@@ -16,12 +16,13 @@ If oligohydramnios occurs, perform fetal testing that is appropriate for gestati
 The efficacy of IV hydration in management of oligohydramnios due to Herceptin exposure is not known.
 
 Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy.
-Encourage pregnant women with breast cancer who are using Herceptin to enroll in MotHER the Herceptin Pregnancy Registry: phone 1 800 690 6720.
-[see Patient Counseling Information (17)].
+If Herceptin is administered during pregnancy, or if a patient becomes pregnant while receiving Herceptin or within 7 months following the last dose of Herceptin, immediately report Herceptin exposure to the Genentech Adverse Event Line at 1-888-835-2555.
+Encourage women who may be exposed to Herceptin during pregnancy or within 7 months of conception, to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720.
 
-No teratogenic effects were observed in offspring from reproduction studies in cynomolgus monkeys at doses up to 25 times the recommended weekly human dose of 2 mg/kg trastuzumab.
+No teratogenic effects were observed in offspring from pregnant cynomolgus monkeys administered trastuzumab during the period of organogenesis at doses up to 25 times the recommended weekly human dose of 2 mg/kg.
+Trastuzumab administration to cynomolgus monkeys during early gestation (Days 20 to 50) or late gestation (Days 120 to 150) resulted in offspring with trastuzumab plasma levels of 15 to 28% of maternal plasma levels.
+
 In mutant mice lacking HER2, embryos died in early gestation.
-Trastuzumab exposure was reported at delivery in offspring of cynomolgus monkeys treated during the early (Days 20–50 of gestation) or late (Days 120–150 of gestation) fetal development periods, at levels of 15 to 28% of the maternal blood levels.
 
 ## 8.3 Nursing Mothers
 
@@ -46,3 +47,9 @@ The reported clinical experience is not adequate to determine whether the effica
 
 In Study 7 (metastatic gastric cancer), of the 294 patients treated with Herceptin 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
 No overall differences in safety or effectiveness were observed.
+
+## 8.6 Females of Reproductive Potential
+
+Herceptin can cause embryo-fetal harm when administered during pregnancy.
+Advise females of reproductive potential to avoid becoming pregnant while taking Herceptin.
+If contraceptive methods are being considered, use effective contraception while receiving Herceptin and for at least 7 months following the last dose of Herceptin [see Use in Specific Populations (8.1)].

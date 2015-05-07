@@ -32,7 +32,14 @@ Metastatic Gastric Cancer:
 
 - Administer Herceptin at an initial dose of 8 mg/kg as a 90 minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks until disease progression [see Dosage and Administration (2.2)].
 
-## 2.2 Dose Modifications
+## 2.2 Important Dosing Considerations
+
+If the patient has missed a dose of Herceptin by one week or less, then the usual maintenance dose (weekly schedule: 2 mg/kg; three-weekly schedule: 6 mg/kg) should be administered as soon as possible.
+Do not wait until the next planned cycle.
+Subsequent Herceptin maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
+
+If the patient has missed a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be administered over approximately 90 minutes (weekly schedule: 4 mg/kg; three-weekly schedule: 8 mg/kg), as soon as possible.
+Subsequent Herceptin maintenance doses (weekly schedule: 2 mg/kg; three-weekly schedule 6 mg/kg) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
 
 Infusion Reactions
 

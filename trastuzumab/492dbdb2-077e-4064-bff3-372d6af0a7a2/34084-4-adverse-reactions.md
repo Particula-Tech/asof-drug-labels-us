@@ -25,7 +25,7 @@ The data below reflect exposure to one-year Herceptin therapy across three rando
 The data summarized in Table 3 below, from Study 3, reflect exposure to Herceptin in 1678 patients; the median treatment duration was 51 weeks and median number of infusions was 18.
 Among the 3386 patients enrolled in the observation and one-year Herceptin arms of Study 3 at a median duration of follow-up of 12.6 months in the Herceptin arm, the median age was 49 years (range: 21 to 80 years), 83% of patients were Caucasian, and 13% were Asian.
 
-Table 3: Adverse Reactions for Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm., All GradesThe incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term.:
+Table 3: Adverse Reactions for Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm., All GradesThe incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term.
 
 | Adverse Reaction | (n=1678) | (n=1708) |
 | --- | --- | --- |

@@ -67,7 +67,7 @@ Among the 3222 patients randomized, the median age was 49 (range 22 to 74 years;
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
-The results for DFS for the integrated analysis of Studies 1 and 2, Study 3, and Study 4 and OS results for the integrated analysis of Studies 1 and 2, and Study 3 are presented in Table 7.
+The results for DFS for the integrated analysis of Studies 1 and 2, Study 3, and Study 4 and OS results for the integrated analysis of Studies 1 and 2, and Study 3 are presented in Table 9.
 For Studies 1 and 2, the duration of DFS following a median follow-up of 2.0 years in the AC→TH arm, is presented in Figure 4, and the duration of OS after a median follow-up of 8.3 years in the AC→TH arm is presented in Figure 5.
 The duration of DFS for Study 4 is presented in Figure 6.
 Across all four studies, at the time of definitive DFS analysis, there were insufficient numbers of patients within each of the following subgroups to determine if the treatment effect was different from that of the overall patient population: patients with low tumor grade, patients within specific ethnic/racial subgroups (Black, Hispanic, Asian/Pacific Islander patients), and patients > 65 years of age.
@@ -80,7 +80,7 @@ In the subgroup of patients with hormone receptor-negative disease (ER-negative 
 In the subgroup of patients with tumor size ≤2 cm (n=1604), the hazard ratio for OS was 0.52 (95% CI: 0.39, 0.71).
 In the subgroup of patients with tumor size >2 cm (n=2448), the hazard ratio for OS was 0.67 (95% CI: 0.56, 0.80).
 
-Table 7 Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2, Study 3, and Study 4)
+Table 9: Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2, Study 3, and Study 4)
 
 |  | DFS events | DFS Hazard ratio (95% CI) p value | Deaths (OS events) | OS Hazard ratio p value |
 | --- | --- | --- | --- | --- |
@@ -104,12 +104,12 @@ Figure 4 Duration of Disease-Free Survival in Patients with Adjuvant Treatment o
 Figure 6 Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Study 4)
 
 Exploratory analyses of DFS as a function of HER2 overexpression or gene amplification were conducted for patients in Studies 2 and 3, where central laboratory testing data were available.
-The results are shown in Table 8.
+The results are shown in Table 10.
 The number of events in Study 2 was small with the exception of the IHC 3+/FISH+ subgroup, which constituted 81% of those with data.
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
 The number of events in Study 3 was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH +/IHC unknown subgroups.
 
-Table 8: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification
+Table 10: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification
 
 | HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ Table 8: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpress
 | FISH (+) | 1170 | 0.42 (0.27, 0.64) | 91 | 0.56 (0.13, 2.50) |
 | FISH (−) | 51 | 0.71 (0.04, 11.79) | 8 | — |
 | FISH Unknown | 51 | 0.69 (0.09, 5.14) | 2258 | 0.53 (0.41, 0.69) |
-| IHC < 3+ / FISH (+) | 174 | 1.01 (0.18, 5.65) | 299All cases in this category in study 3 were IHC 2+. | 0.53 (0.20, 1.42) |
+| IHC < 3+ / FISH (+) | 174 | 1.01 (0.18, 5.65) | 299All cases in this category in Study 3 were IHC 2+. | 0.53 (0.20, 1.42) |
 | IHC unknown / FISH (+) | — | — | 724 | 0.59 (0.38, 0.93) |
 
 ## 14.2 Metastatic Breast Cancer
@@ -137,10 +137,10 @@ For those who had received prior anthracycline therapy in the adjuvant setting, 
 Sixty-five percent of patients randomized to receive chemotherapy alone in this study received Herceptin at the time of disease progression as part of a separate extension study.
 
 Based upon the determination by an independent response evaluation committee the patients randomized to Herceptin and chemotherapy experienced a significantly longer median time to disease progression, a higher overall response rate (ORR), and a longer median duration of response, as compared with patients randomized to chemotherapy alone.
-Patients randomized to Herceptin and chemotherapy also had a longer median survival (see Table 9).
+Patients randomized to Herceptin and chemotherapy also had a longer median survival (see Table 11).
 These treatment effects were observed both in patients who received Herceptin plus paclitaxel and in those who received Herceptin plus AC; however the magnitude of the effects was greater in the paclitaxel subgroup.
 
-Table 9: Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
+Table 11: Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer
 
 |  | Herceptin + All Chemotherapy (n = 235) | All Chemotherapy (n = 234) | Herceptin + Paclitaxel (n = 92) | Paclitaxel (n = 96) | Herceptin + ACAC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. (n = 143) | AC (n = 138) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -159,9 +159,9 @@ Table 9: Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast
 | 95% CI | 22, 30 | 17, 24 | 17, 29 | 13, 24 | 23, 33 | 18, 27 |
 | p-value | 0.05 |  | 0.17 |  | 0.16 |  |
 
-Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 10).
+Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 12).
 
-Table 10: Treatment Effects in Study 5 as a Function of HER2 Overexpression or Amplification
+Table 12: Treatment Effects in Study 5 as a Function of HER2 Overexpression or Amplification
 
 | HER2 Assay Result | Number of Patients (N) | Relative RiskThe relative risk represents the risk of progression or death in the Herceptin plus chemotherapy arm versus the chemotherapy arm. for Time to Disease Progression (95% CI) | Relative Risk for Mortality (95% CI) |
 | --- | --- | --- | --- |
@@ -204,9 +204,9 @@ Of these patients, 23% had undergone prior gastrectomy, 7% had received prior ne
 The main outcome measure of Study 7 was overall survival (OS), analyzed by the unstratified log-rank test.
 The final OS analysis based on 351 deaths was statistically significant (nominal significance level of 0.0193).
 An updated OS analysis was conducted at one year after the final analysis.
-The efficacy results of both the final and the updated analyses are summarized in Table 11 and Figure 7.
+The efficacy results of both the final and the updated analyses are summarized in Table 13 and Figure 7.
 
-Table 11: Study 7: Overall Survival in ITT Population
+Table 13: Study 7: Overall Survival in ITT Population
 
 |  | FC Arm N=296 | FC + H Arm N=298 |
 | --- | --- | --- |
@@ -226,9 +226,9 @@ Table 11: Study 7: Overall Survival in ITT Population
 
 Figure 7 Updated Overall Survival in Patients with Metastatic Gastric Cancer (Study 7)
 
-An exploratory analysis of OS in patients based on HER2 gene amplification (FISH) and protein overexpression (IHC) testing is summarized in Table 12.
+An exploratory analysis of OS in patients based on HER2 gene amplification (FISH) and protein overexpression (IHC) testing is summarized in Table 14.
 
-Table 12: Exploratory Analyses by HER2 Status using Updated Overall Survival Results
+Table 14: Exploratory Analyses by HER2 Status using Updated Overall Survival Results
 
 |  | FC (N=296)Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. | FC + H (N=298)Five patients on the Herceptin-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. |
 | --- | --- | --- |
