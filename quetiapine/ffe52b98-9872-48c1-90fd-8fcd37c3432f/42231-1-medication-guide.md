@@ -96,7 +96,7 @@ Before you take quetiapine fumarate tablets, tell your healthcare provider if yo
 - any other medical condition
 - pregnancy or plans to become pregnant.
   It is not known if quetiapine fumarate tablets will harm your unborn baby.
-- breastfeeding or plans to breastfeed.
+- Breast-feeding or plans to breast-feed.
   Quetiapine can pass into your breast milk.
   You and your healthcare provider should decide if you will take quetiapine fumarate tablets or breast-feed.
   You should not do both.
@@ -181,7 +181,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking quetiapine fumarate tablets.
   Tardive dyskinesia may also start after you stop taking quetiapine fumarate tablets.
-- decreased blood pressure (hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position
+- decreased blood pressure (Orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position
 - increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine fumarate tablets and during therapy.
 - low white blood cell count
@@ -194,7 +194,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - increased body temperature
 - difficulty swallowing
-- trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking quetiapine fumarate tablets.
+- trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine fumarate tablets.
   These symptoms usually get better 1 week after you start having them.
 
 The most common side effects of quetiapine fumarate tablets include:
@@ -253,19 +253,11 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by:
 
-Caraco Pharmaceutical Laboratories, Ltd.
+Sun Pharmaceutical Industries, Inc.
 
-1150 Elijah McCoy Drive, Detroit, MI 48202
-
-Manufactured by:
-
-Sun Pharma Laboratories Limited
-
-Survey No. 259/15, Dadra-396 191,
-
-(U.T. of D & NH), India.
+Cranbury, NJ 08512
 
 ISS.
-09/2013
+11/2014
 
-PGPI0246C
+PGPI0246D

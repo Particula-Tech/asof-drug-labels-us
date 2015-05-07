@@ -23,7 +23,7 @@ Mutagenesis
 
 The mutagenic potential of quetiapine was tested in the in vitro Ames bacterial gene mutation assay and in the in vitro mammalian gene mutation assay in Chinese Hamster Ovary cells.
 The clastogenic potential of quetiapine was tested in the in vitro chromosomal aberration assay in cultured human lymphocytes and in the in vivo bone marrow micronucleus assay in rats up to 500 mg/kg which is 6 times the maximum recommended human dose on mg/m2 body surface area.
-Based on weight of evidence quetiapine was not mutagenic or clastogenic in these tests
+Based on weight of evidence quetiapine was not mutagenic or clastogenic in these tests.
 
 Impairment of Fertility
 

@@ -108,9 +108,9 @@ Table 20: Mania Trials
 | Study 2 | Quetiapine(200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5) |
 | Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
 | Placebo | 34 (6.9) | -6.7 (1.6) | -- |  |
-| Study 3 | Quetiapine(Extended Release 200 to 800 mg/day) + mood stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
+| Study 3 | Quetiapine(200 to 800 mg/day) + mood stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
 | Placebo + mood stabilizer | 31.1 (5.5) | -10 (1.5) | -- |  |
-| Study 4 (children and adolescents) | Quetiapine(400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
+| Study 4 | Quetiapine(400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
 | Quetiapine(600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |  |
 | Placebo | 30.7 (5.9) | -9 (1.1) | -- |  |
 | Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
