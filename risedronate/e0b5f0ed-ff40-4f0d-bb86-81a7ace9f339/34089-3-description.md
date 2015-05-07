@@ -11,7 +11,7 @@ It is soluble in water and in aqueous solutions, and essentially insoluble in co
 
 Inactive Ingredients
 
-All dose strengths contain: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
+All dose strengths contain: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized maize starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
 
 Dose strength-specific ingredients include: 75 mg— iron oxide red; 150 mg—FD&C blue #2 aluminum lake.
 For 75 mg and 150 mg strengths - USP dissolution test pending.

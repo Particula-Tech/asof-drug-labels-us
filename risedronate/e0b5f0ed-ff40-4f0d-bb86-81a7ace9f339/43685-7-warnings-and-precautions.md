@@ -30,7 +30,7 @@ Adequate intake of calcium and vitamin D is important in all patients [see Contr
 ## 5.4 Jaw Osteonecrosis
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including risedronate sodium.
-Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other preexisting dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other preexisting dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 The risk of ONJ may increase with duration of exposure to bisphosphonates.
 
 For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.

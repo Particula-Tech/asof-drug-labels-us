@@ -65,7 +65,7 @@ Because these adverse reactions are reported voluntarily from a population of un
 
 Hypersensitivity Reactions
 
-Hypersensitivity and skin reactions have been reported rarely, including angioedema, generalized rash and bullous skin reactions, some severe.
+Hypersensitivity and skin reactions have been reported, including angioedema, generalized rash, bullous skin reactions, Stevens-Johnson syndrome and toxic epidermal necrolysis.
 
 Gastrointestinal Adverse Events
 

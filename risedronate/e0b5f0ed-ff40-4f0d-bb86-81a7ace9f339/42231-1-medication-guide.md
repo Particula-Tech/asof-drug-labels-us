@@ -82,7 +82,7 @@ Do not take risedronate sodium tabletsif you:
 - Have certain problems with your esophagus, the tube that connects your mouth with your stomach
 - Cannot stand or sit upright for at least 30 minutes
 - Have low levels of calcium in your blood
-- Are allergic to risedronate sodium tablets any of its ingredients.
+- Are allergic to risedronate sodium tablets or any of its ingredients.
   A list of ingredients is at the end of this leaflet.
 
 What should I tell my doctor before taking risedronate sodium tablets?
@@ -176,7 +176,6 @@ General information about the safe and effective use of risedronate sodium table
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use risedronate sodium tablets for a condition for which it was not prescribed.
-
 Do not give risedronate sodium tabletsto other people, even if they have the same symptoms you have.
 It may harm them.
 
@@ -190,21 +189,11 @@ What are the ingredients in risedronate sodium tablets?
 
 Active ingredient: risedronate sodium
 
-Inactive ingredients in all dose strengths: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
+Inactive ingredients in all dose strengths: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized maize starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
 
 Inactive ingredients specific to a dose strength: 75 mg— iron oxide red; 150 mg—FD&C blue #2 aluminum lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202 Manufactured by:
-
-Sun Pharma Laboratories Limited
-
-Survey No. 259/15,
-
-Dadra-396 191 (U.T. of D & NH), India
-
-PGPI0143
-
-ISS.
-05/2014
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Limited Survey No. 259/15, Dadra-396 191, (U.T. of D & NH), India PGPI0143B ISS.
+04/2015
