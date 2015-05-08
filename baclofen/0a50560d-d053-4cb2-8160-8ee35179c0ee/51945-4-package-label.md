@@ -19,7 +19,7 @@ Mallinckrodt™ Pharmaceuticals
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05407 Rev 02/2014
+780-05407.01 Rev 08/2014
 
 # Principal Display Panel
 
@@ -32,7 +32,7 @@ Mallinckrodt™ Pharmaceuticals
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05412 Rev 02/2014
+780-05412.01 Rev 08/2014
 
 # Principal Display Panel
 
@@ -45,4 +45,4 @@ Mallinckrodt™ Pharmaceuticals
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-780-05423.01 Rev 05/2014
+780-05423.02 Rev 08/2014
