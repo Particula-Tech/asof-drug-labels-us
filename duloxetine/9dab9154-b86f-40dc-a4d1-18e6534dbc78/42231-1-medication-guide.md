@@ -19,12 +19,8 @@ Duloxetine delayed-release and other antidepressant medicines may cause serious 
 Suicidal thoughts or actions:
 
 - Duloxetine delayed-release and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-- Depression or other serious mental illnesses are the most important causes of suicidal thoughts actions.
-- Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when duloxetine delayed-release is started or when the dose is changed.
-
-Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Watch for these changes and call your healthcare provider right away if you notice: • New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe. • Pay particular attention to such changes when duloxetine delayed-release is started or when the dose is changed. • Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
@@ -86,9 +82,19 @@ Manic episodes:
 - talking more or faster than usual
 
 7.
-Seizures or convulsions
+Visual Problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 8.
+Seizures or convulsions
+
+9.
 Changes in blood pressure.
 Monitor your blood pressure before starting and throughout treatment.
 
@@ -97,7 +103,7 @@ Duloxetine delayed-release may:
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine delayed-release or when increasing the dose.
 
-9.
+10.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 
@@ -107,13 +113,13 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-10.
+11.
 Problems with urination include:
 
 - decreased urine flow
 - unable to pass any urine
 
-11.
+12.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
@@ -138,6 +144,7 @@ Duloxetine delayed-release is also used to treat or manage:
 - Generalized Anxiety Disorder (GAD)
 - Diabetic Peripheral Neuropathic Pain (DPNP)
 - Fibromyalgia (FM)
+- Chronic Musculoskeletal Pain
 
 Talk to your healthcare provider if you do not think that your condition is getting better with duloxetine delayed-release treatment.
 
@@ -145,12 +152,10 @@ Who should not take duloxetine delayed-release capsules?
 
 Do NOT take duloxetine delayed-release if you:
 
-- have uncontrolled narrow-angle glaucoma
 - take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 5 days of stopping duloxetine delayed-release unless directed to do so by your physician.
-
-Do not start duloxetine delayed-release if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+- Do not start duloxetine delayed-release if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take duloxetine delayed-release close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -161,7 +166,8 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
-- take Mellaril* (thioridazine) because this can cause serious heart rhythm problems or sudden death
+
+• take Mellaril* (thioridazine) because this can cause serious heart rhythm problems or sudden death
 
 What should I tell my healthcare provider before taking duloxetine delayed-release capsules?
 
@@ -169,7 +175,8 @@ Ask if you are not sure.
 
 Before starting duloxetine delayed-release, tell your healthcare provider if you:
 
-- Are taking certain drugs such as:
+• Are taking certain drugs such as:
+
 - Triptans used to treat migraine headache
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
 - Tramadol and fentanyl
@@ -180,22 +187,12 @@ Before starting duloxetine delayed-release, tell your healthcare provider if you
 - The blood thinner warfarin (Coumadin*, Jantoven*)
 - Non-steroidal anti-inflammatory drug (NSAID), like ibuprofen, naproxen or aspirin.
 - Over-the-counter supplements such as tryptophan or St. John’s Wort
-- have heart problems or high blood pressure
-- have diabetes (duloxetine delayed-release treatment worsens the control of blood sugar in some patients with diabetes)
-- have liver problems
-- have kidney problems
-- have glaucoma
-- have or had seizures or convulsions
-- have bipolar disorder or mania
-- have low sodium levels in your blood
-- have delayed stomach emptying
-- have or had bleeding problems
-- are pregnant or plan to become pregnant.
-  It is not known if duloxetine delayed-release will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release during pregnancy.
-- are breast-feeding or plan to breast-feed.
-  Some duloxetine may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release.
+
+• have heart problems or high blood pressure • have diabetes (duloxetine delayed-release treatment worsens the control of blood sugar in some patients with diabetes) • have liver problems • have kidney problems • have angle-closure glaucoma • have or had seizures or convulsions • have bipolar disorder or mania • have low sodium levels in your blood • have delayed stomach emptying • have or had bleeding problems • are pregnant or plan to become pregnant.
+It is not known if duloxetine delayed-release will harm your unborn baby.
+Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release during pregnancy. • are breastfeeding or plan to breastfeed.
+Some duloxetine may pass into your breast milk.
+Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Duloxetine delayed-release and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -203,7 +200,8 @@ Duloxetine delayed-release and some medicines may interact with each other, may 
 Your healthcare provider or pharmacist can tell you if it is safe to take duloxetine delayed-release with your other medicines.
 Do not start or stop any medicine while taking duloxetine delayed-release without talking to your healthcare provider first.
 
-If you take duloxetine delayed-release capsules, you should not take any other medicines that contain duloxetine.
+| If you take duloxetine delayed-release capsules, you should not take any other medicines that contain duloxetine. |
+| --- |
 
 How should I take duloxetine delayed-release capsules?
 
@@ -271,12 +269,14 @@ Active ingredient: duloxetine hydrochloride, USP
 Inactive ingredients: ammonium hydroxide, black iron oxide, gelatin, hydroxypropyl cellulose, hydroxypropyl methylcellulose phthalate, hypromellose, potassium hydroxide, propylene glycol, shellac, sugar spheres (sucrose and corn starch), talc, titanium dioxide and triethyl citrate.
 The 20 mg and 30 mg capsules also contain FD&C Blue # 1 Aluminum Lake.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 *Brands listed are trademarks of their respective owners.
 
-Manufactured by: Actavis Elizabeth LLC 200 Elmora Avenue Elizabeth, NJ 07207 USA
+Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
+
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 40-9086
 
-(MG 41-1124/1013)
+(MG 41-1124/0415)

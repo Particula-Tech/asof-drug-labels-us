@@ -70,46 +70,56 @@ Patients should be instructed that discontinuation of duloxetine delayed-release
 Patients with depressive symptoms should be adequately screened for risk of bipolar disorder (e.g. family history of suicide, bipolar disorder, and depression) prior to initiating treatment with duloxetine delayed-release.
 Patients should be advised to report any signs or symptoms of a manic reaction such as greatly increased energy, severe trouble sleeping, racing thoughts, reckless behavior, talking more or faster than usual, unusually grand ideas, and excessive happiness or irritability [see Warnings and Precautions (5.8)].
 
-## 17.13 Seizures
+## 17.13 Angle-Closure Glaucoma
 
-Patients should be advised to inform their physician if they have a history of seizure disorder [see Warnings and Precautions (5.9)].
+Patients should be advised that taking duloxetine delayed-release can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+[See Warnings and Precautions (5.9)]
 
-## 17.14 Effects on Blood Pressure
+## 17.14 Seizures
 
-Patients should be cautioned that duloxetine delayed-release may cause an increase in blood pressure [see Warnings and Precautions (5.10)].
+Patients should be advised to inform their physician if they have a history of seizure disorder [see Warnings and Precautions (5.10)].
 
-## 17.15 Concomitant Medications
+## 17.15 Effects on Blood Pressure
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter medications, since there is a potential for interactions [see Dosage and Administration (2.5), Contraindications (4.1), Warnings and Precautions (5.4 and 5.11), and Drug Interactions (7)].
+Patients should be cautioned that duloxetine delayed-release may cause an increase in blood pressure [see Warnings and Precautions (5.11)].
 
-## 17.16 Hyponatremia
+## 17.16 Concomitant Medications
+
+Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter medications, since there is a potential for interactions [see Dosage and Administration (2.5), Contraindications (4.1), Warnings and Precautions (5.4 and 5.12), and Drug Interactions (7)].
+
+## 17.17 Hyponatremia
 
 Patients should be advised that hyponatremia has been reported as a result of treatment with SNRIs and SSRIs, including duloxetine delayed-release.
-Patients should be advised of the signs and symptoms of hyponatremia [see Warnings and Precautions (5.12)].
+Patients should be advised of the signs and symptoms of hyponatremia [see Warnings and Precautions (5.13)].
 
-## 17.17 Concomitant Illnesses
+## 17.18 Concomitant Illnesses
 
-Patients should be advised to inform their physicians about all of their medical conditions [see Warnings and Precautions (5.13)].
+Patients should be advised to inform their physicians about all of their medical conditions [see Warnings and Precautions (5.14)].
 
-## 17.18 Urinary Hesitancy and Retention
+## 17.19 Urinary Hesitancy and Retention
 
 Duloxetine delayed-release is in a class of medicines that may affect urination.
-Patients should be instructed to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.14)].
+Patients should be instructed to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
 
-## 17.19 Pregnancy and Breast Feeding
+## 17.20 Pregnancy and Breastfeeding
 
 Patients should be advised to notify their physician if they
 
 - become pregnant during therapy
 - intend to become pregnant during therapy
-- are breast feeding [see Dosage and Administration (2.3) and Use in Specific Populations (8.1, 8.2, and 8.3)].
+- are breastfeeding [see Dosage and Administration (2.3) and Use in Specific Populations (8.1, 8.2, and 8.3)].
 
-## 17.20 Interference with Psychomotor Performance
+## 17.21 Interference with Psychomotor Performance
 
 Any psychoactive drug may impair judgment, thinking, or motor skills.
 Although in controlled studies duloxetine delayed-release has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
 Therefore, patients should be cautioned about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine delayed-release therapy does not affect their ability to engage in such activities.
 
-Manufactured by: Actavis Elizabeth LLC 200 Elmora Avenue Elizabeth, NJ 07207 USA
+Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
-40-9086 Revised – October 2013
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+40-9086 Revised – April 2015

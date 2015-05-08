@@ -2,8 +2,8 @@
 
 ## 6.1 Clinical Trial Data Sources
 
-The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=2489), GAD (N=910), DPNP (N=906), and FM (N=876).
-The population studied was 17 to 91 years of age; 65.5%, 62.5%, 61.5%, 42.9%, and 94.9% female; and 86.5%, 81.2%, 86.2 %, 74.0%, and 88% Caucasian for MDD, GAD, DPNP and FM, respectively.
+The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=2489), GAD (N=910), OA (N=239), CLBP (N=600), DPNP (N=906), and FM (N=876).
+The population studied was 17 to 91 years of age; 65.5%, 62.5%, 61.5%, 42.9%, and 94.9% female; and 86.5%, 81.2%, 86.2 %, 74.0%, and 88% Caucasian for MDD, GAD, OA, and CLBP, DPNP and FM, respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
@@ -26,6 +26,12 @@ Common adverse reactions reported as a reason for discontinuation and considered
 Fibromyalgia - Approximately 19.6% (172/876) of the patients who received duloxetine in 3 to 6 month placebo-controlled trials for FM discontinued treatment due to an adverse reaction, compared with 11.8% (63/535) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 1.9%, placebo 0.7%), somnolence (duloxetine 1.5%, placebo 0.0%), and fatigue (duloxetine 1.3%, placebo 0.2%).
 
+Chronic Pain due to Osteoarthritis — Approximately 16.3% (39/239) of the patients who received duloxetine in 13-week, placebo-controlled trials for chronic pain due to OA discontinued treatment due to an adverse reaction, compared with 5.6% (14/248) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 2.9%, placebo 0.8%) and asthenia (duloxetine 1.3%, placebo 0.0%).
+
+Chronic Low Back Pain — Approximately 16.5% (99/600) of the patients who received duloxetine in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.0%, placebo 0.7%), and somnolence (duloxetine 1.0%, placebo 0.0%).
+
 ## 6.3 Most Common Adverse Reactions
 
 Pooled Trials for all Approved Indications - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
@@ -33,6 +39,10 @@ Pooled Trials for all Approved Indications - The most commonly observed adverse 
 Diabetic Peripheral Neuropathic Pain - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
 
 Fibromyalgia - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, dry mouth, constipation, somnolence, decreased appetite, hyperhidrosis, and agitation.
+
+Chronic Pain due to Osteoarthritis - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, fatigue, and constipation.
+
+Chronic Low Back Pain - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
 ## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
 
@@ -124,9 +134,9 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD an
 | l Male patients only |  |  |
 | m Also includes ejaculation failure and ejaculation dysfunction |  |  |
 
-DPNP and FM - Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine delayed-release (determined prior to rounding) in the premarketing acute phase of DPNP and FM placebo-controlled trials and with an incidence greater than placebo.
+DPNP, FM, OA, and CLBP - Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine delayed-release (determined prior to rounding) in the premarketing acute phase of DPNP, FM, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP and FM Placebo-Controlled Trialsa
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP, FM, OA, and CLBP Placebo-Controlled Trialsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -217,15 +227,16 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 ## 6.7 Vital Sign Changes
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.07 mm Hg in systolic blood pressure and 0.62 mm Hg in diastolic blood pressure compared to mean decreases of 1.31 mm Hg systolic and 0.73 mm Hg diastolic in placebo-treated patients.
-There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.10)].
+There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.11)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.40 beats per minute.
 
 ## 6.8 Weight Changes
 
 In placebo-controlled clinical trials, MDD and GAD patients treated with duloxetine delayed-release for up to 10 weeks experienced a mean weight loss of approximately 0.5 kg, compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
-In studies of DPNP and FM patients treated with duloxetine delayed-release for up to 26 weeks experienced a mean weight loss of approximately 0.6 kg compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
+In studies of DPNP, FM, OA, and CLBP, patients treated with duloxetine delayed-release for up to 26 weeks experienced a mean weight loss of approximately 0.6 kg compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
 In one long-term fibromyalgia 60-week uncontrolled study, duloxetine patients had a mean weight increase of 0.7 kg.
+In one long-term CLBP 54-week study (13-week, placebo-controlled acute phase and 41-week, uncontrolled extension phase), duloxetine patients had a mean weight decrease of 0.6 kg in 13 weeks of acute phase compared to study entry, then a mean weight increase of 1.4 kg in 41 weeks of extension phase compared to end of acute phase.
 
 ## 6.9 Laboratory Changes
 
@@ -252,7 +263,7 @@ Ear and Labyrinth Disorders - Frequent: vertigo; Infrequent: ear pain and tinnit
 
 Endocrine Disorders - Infrequent: hypothyroidism.
 
-Eye Disorders - Frequent: vision blurred; Infrequent: diplopia and visual disturbance.
+Eye Disorders - Frequent: vision blurred; Infrequent: diplopia, and visual disturbance.
 
 Gastrointestinal Disorders - Frequent: flatulence; Infrequent: eructation, gastritis, halitosis, and stomatitis; Rare: gastric ulcer, hematochezia, and melena.
 
@@ -285,4 +296,4 @@ Vascular Disorders - Frequent: hot flush; Infrequent: flushing, orthostatic hypo
 The following adverse reactions have been identified during postapproval use of duloxetine delayed-release.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, extrapyramidal disorder, galactorrhea, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

@@ -23,3 +23,8 @@ Duloxetine delayed-release capsules, USP are indicated for the management of neu
 ## 1.4 Fibromyalgia
 
 Duloxetine delayed-release capsules, USP are indicated for the management of fibromyalgia (FM) [see Clinical Studies (14.4)].
+
+## 1.5 Chronic Musculoskeletal Pain
+
+Duloxetine delayed-release capsules, USP are indicated for the management of chronic musculoskeletal pain.
+This has been established in studies in patients with chronic low back pain (CLBP) and chronic pain due to osteoarthritis [see Clinical Studies (14.5)].

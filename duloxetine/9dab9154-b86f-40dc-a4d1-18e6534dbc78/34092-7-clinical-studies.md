@@ -11,9 +11,9 @@ In all 4 studies, duloxetine delayed-release demonstrated superiority over place
 In all of these clinical studies, analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
 
 In another study, 533 patients meeting DSM-IV criteria for MDD received duloxetine delayed-release 60 mg once daily during an initial 12-week open-label treatment phase.
-Two hundred and seventy-eight patients who responded to open label treatment (defined as meeting the following criteria at weeks 10 and 12: a HAMD-17 total score ≤9, Clinical Global Impressions of Severity (CGI-S) ≤2, and not meeting the DSM-IV criteria for MDD) were randomly assigned to continuation of duloxetine delayed-release at the same dose (N=136) or to placebo (N=142) for 6 months.
+Two hundred and seventy-eight patients who responded to open label treatment (defined as meeting the following criteria at weeks 10 and 12: a HAMD-17 total score less than or equal to 9, Clinical Global Impressions of Severity (CGI-S) less than or equal to 2, and not meeting the DSM-IV criteria for MDD) were randomly assigned to continuation of duloxetine delayed-release at the same dose (N=136) or to placebo (N=142) for 6 months.
 Patients on duloxetine delayed-release experienced a statistically significantly longer time to relapse of depression than did patients on placebo.
-Relapse was defined as an increase in the CGI–S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
+Relapse was defined as an increase in the CGI–S score of greater than or equal to 2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
 The effectiveness of duloxetine delayed-release in hospitalized patients with major depressive disorder has not been studied.
 
 ## 14.2 Generalized Anxiety Disorder
@@ -35,7 +35,7 @@ The SDS is a widely used and well-validated scale that measures the extent emoti
 In another study, 887 patients meeting DSM-IV-TR criteria for GAD received duloxetine delayed-release 60 mg to 120 mg once daily during an initial 26-week open-label treatment phase.
 Four hundred and twenty-nine patients who responded to open-label treatment (defined as meeting the following criteria at weeks 24 and 26: a decrease from baseline HAM-A total score by at least 50% to a score no higher than 11, and a Clinical Global Impressions of Improvement [CGI-Improvement] score of 1 or 2) were randomly assigned to continuation of duloxetine delayed-release at the same dose (N=216) or to placebo (N=213) and were observed for relapse.
 Of the patients randomized, 73% had been in a responder status for at least 10 weeks.
-Relapse was defined as an increase in CGI-Severity score at least 2 points to a score ≥4 and a MINI (Mini-International Neuropsychiatric Interview) diagnosis of GAD (excluding duration), or discontinuation due to lack of efficacy.
+Relapse was defined as an increase in CGI-Severity score at least 2 points to a score greater than or equal to 4 and a MINI (Mini-International Neuropsychiatric Interview) diagnosis of GAD (excluding duration), or discontinuation due to lack of efficacy.
 Patients taking duloxetine delayed-release experienced a statistically significantly longer time to relapse of GAD than did patients taking placebo.
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
@@ -45,7 +45,7 @@ Subgroup analyses did not indicate that there were any differences in treatment 
 The efficacy of duloxetine delayed-release for the management of neuropathic pain associated with diabetic peripheral neuropathy was established in 2 randomized, 12-week, double-blind, placebo-controlled, fixed-dose studies in adult patients having diabetic peripheral neuropathic pain for at least 6 months.
 Study DPNP-1 and Study DPNP-2 enrolled a total of 791 patients of whom 592 (75%) completed the studies.
 Patients enrolled had Type I or II diabetes mellitus with a diagnosis of painful distal symmetrical sensorimotor polyneuropathy for at least 6 months.
-The patients had a baseline pain score of ≥4 on an 11-point scale ranging from 0 (no pain) to 10 (worst possible pain).
+The patients had a baseline pain score of greater than or equal to 4 on an 11-point scale ranging from 0 (no pain) to 10 (worst possible pain).
 Patients were permitted up to 4 g of acetaminophen per day as needed for pain, in addition to duloxetine delayed-release.
 Patients recorded their pain daily in a diary.
 
@@ -84,3 +84,55 @@ Additionally, the benefit of up-titration in non-responders to duloxetine delaye
 Patients were initially treated with duloxetine delayed-release 60 mg once daily for eight weeks in open-label fashion.
 Subsequently, completers of this phase were randomized to double-blind treatment with duloxetine delayed-release at either 60 mg once daily or 120 mg once daily.
 Those patients who were considered non-responders, where response was defined as at least a 30% reduction in pain score from baseline at the end of the 8-week treatment, were no more likely to meet response criteria at the end of 60 weeks of treatment if blindly titrated to duloxetine delayed-release 120 mg as compared to those who were blindly continued on duloxetine delayed-release 60 mg.
+
+## 14.5 Chronic Musculoskeletal Pain
+
+Duloxetine delayed-release capsules, USP are indicated for the management of chronic musculoskeletal pain.
+This has been established in studies in patients with chronic low back pain and chronic pain due to osteoarthritis.
+
+Studies in Chronic Low Back Pain: The efficacy of duloxetine delayed-release in chronic low back pain (CLBP) was assessed in two double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study CLBP-1 and Study CLBP-2), and one of 12-weeks duration (CLBP-3).
+CLBP-1 and CLBP-3 demonstrated efficacy of duloxetine delayed-release in the treatment of chronic low back pain.
+Patients in all studies had no signs of radiculopathy or spinal stenosis.
+
+Study CLBP-1: Two hundred thirty-six adult patients (N=115 on duloxetine delayed-release, N=121 on placebo) enrolled and 182 (77%) completed 13-week treatment phase.
+After 7 weeks of treatment, duloxetine delayed-release patients with less than 30% reduction in average daily pain and who were able to tolerate duloxetine 60 mg once daily had their dose of duloxetine delayed-release, in a double-blinded fashion, increased to 120 mg once daily for the remainder of the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking duloxetine delayed-release 60-120 mg daily had a significantly greater pain reduction compared to placebo.
+Randomization was stratified by the patients’ baseline NSAIDs-use status.
+Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
+
+Study CLBP-2: Four hundred and four patients were randomized to receive fixed doses of duloxetine delayed-release daily or a matching placebo (N=59 on duloxetine delayed-release 20 mg, N=116 on duloxetine delayed-release 60 mg, N=112 on duloxetine delayed-release 120 mg, N=117 on placebo) and 267 (66%) completed the entire 13-week study.
+After 13 weeks of treatment, none of the three duloxetine delayed-release doses showed a statistically significant difference in pain reduction compared to placebo.
+
+Study CLBP-3: Four hundred and one patients were randomized to receive fixed doses of duloxetine delayed-release 60 mg daily or placebo (N=198 on duloxetine delayed-release, N=203 on placebo), and 303 (76%) completed the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 12 weeks of treatment, patients taking duloxetine delayed-release 60 mg daily had significantly greater pain reduction compared to placebo.
+
+For various degrees of improvement in pain from baseline to study endpoint, Figures 5 and 6 show the fraction of patients in CLBP-1 and CLBP-3 achieving that degree of improvement.
+The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned the value of 0% improvement.
+
+Studies in Chronic Pain Due to Osteoarthritis:
+
+The efficacy of duloxetine delayed-release in chronic pain due to osteoarthritis was assessed in 2 double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study OA-1 and Study OA-2).
+All patients in both studies fulfilled the ACR clinical and radiographic criteria for classification of idiopathic osteoarthritis of the knee.
+Randomization was stratified by the patients’ baseline NSAIDs-use status.
+Patients assigned to duloxetine delayed-release started treatment in both studies at a dose of 30 mg once daily for one week.
+After the first week, the dose of duloxetine delayed-release was increased to 60 mg once daily.
+After 7 weeks of treatment with duloxetine delayed-release 60 mg once daily, in OA-1 patients with sub-optimal response to treatment (less than 30% pain reduction) and tolerated duloxetine 60 mg once daily had their dose increased to 120 mg.
+However, in OA-2, all patients, regardless of their response to treatment after 7 weeks, were re-randomized to either continue receiving duloxetine delayed-release 60 mg once daily or have their dose increased to 120 mg once daily for the remainder of the study.
+Patients in the placebo treatment groups in both studies received a matching placebo for the entire duration of studies.
+For both studies, efficacy analyses were conducted using 13-week data from the combined duloxetine delayed-release 60 mg and 120 mg once daily treatment groups compared to the placebo group.
+
+Study OA-1: Two hundred fifty-six patients (N=128 on duloxetine delayed-release, N=128 on placebo) enrolled and 204 (80%) completed the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking duloxetine delayed-release had significantly greater pain reduction.
+Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
+
+Study OA-2: Two hundred thirty-one patients (N=111 on duloxetine delayed-release, N=120 on placebo) enrolled and 173 (75%) completed the study.
+Patients had a mean baseline pain of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking duloxetine delayed-release did not show a significantly greater pain reduction.
+
+In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement.
+The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned the value of 0% improvement.

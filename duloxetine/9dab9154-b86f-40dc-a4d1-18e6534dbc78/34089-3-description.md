@@ -11,5 +11,3 @@ Each capsule contains enteric-coated pellets of 22.4, 33.7, or 67.3 mg of duloxe
 These enteric-coated pellets are designed to prevent degradation of the drug in the acidic environment of the stomach.
 Inactive ingredients include ammonium hydroxide, black iron oxide, gelatin, hydroxypropyl cellulose, hydroxypropyl methylcellulose phthalate, hypromellose, potassium hydroxide, propylene glycol, shellac, sugar spheres (sucrose and corn starch), talc, titanium dioxide and triethyl citrate.
 The 20 mg and 30 mg capsules also contain FD&C Blue # 1 Aluminum Lake.
-
-USP Dissolution Test Pending.

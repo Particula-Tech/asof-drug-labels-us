@@ -5,7 +5,7 @@
 Teratogenic Effects, Pregnancy Category C - In animal reproduction studies, duloxetine has been shown to have adverse effects on embryo/fetal and postnatal development.
 
 When duloxetine was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of teratogenicity at doses up to 45 mg/kg/day (7 times the maximum recommended human dose [MRHD, 60 mg/day] and 4 times the human dose of 120 mg/day on a mg/m2 basis, in rat; 15 times the MRHD and 7 times the human dose of 120 mg/day on a mg/m2 basis in rabbit).
-However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (2 times the MRHD and ≈1 times the human dose of 120 mg/day on a mg/m2 basis in rat; 3 times the MRHD and 2 times the human dose of 120 mg/day on a mg/m2 basis in rabbits).
+However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (2 times the MRHD and ≈1 times the human dose of 120 mg/day on a mg/m2 basis in rats; 3 times the MRHD and 2 times the human dose of 120 mg/day on a mg/m2 basis in rabbits).
 
 When duloxetine was administered orally to pregnant rats throughout gestation and lactation, the survival of pups to 1 day postpartum and pup body weights at birth and during the lactation period were decreased at a dose of 30 mg/kg/day (5 times the MRHD and 2 times the human dose of 120 mg/day on a mg/m2 basis); the no-effect dose was 10 mg/kg/day.
 Furthermore, behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity, were observed in pups following maternal exposure to 30 mg/kg/day.
@@ -57,11 +57,14 @@ However, due to Eli Lilly and Company’s marketing exclusivity rights, this dru
 ## 8.5 Geriatric Use
 
 Of the 2,418 patients in premarketing clinical studies of duloxetine delayed-release for MDD, 5.9% (143) were 65 years of age or over.
+Of the 1041 patients in CLBP premarketing studies, 21.2% (221) were 65 years of age or over.
+Of the 487 patients in OA premarketing studies, 40.5% (197) were 65 years of age or over.
 Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years of age or over.
 Of the 1,761 patients in FM premarketing studies, 7.9% (140) were 65 years of age or over.
+
 Premarketing clinical studies of GAD did not include sufficient numbers of subjects age 65 or over to determine whether they respond differently from younger subjects.
-In the MDD, DPNP and FM studies, no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-SSRIs and SNRIs, including duloxetine delayed-release have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.12)].
+In the MDD, DPNP, FM, OA, and CLBP studies, no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+SSRIs and SNRIs, including duloxetine delayed-release have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.13)].
 
 The pharmacokinetics of duloxetine after a single dose of 40 mg were compared in healthy elderly females (65 to 77 years) and healthy middle-age females (32 to 50 years).
 There was no difference in the Cmax, but the AUC of duloxetine was somewhat (about 25%) higher and the half-life about 4 hours longer in the elderly females.
@@ -86,7 +89,7 @@ No specific pharmacokinetic study was conducted to investigate the effects of ra
 
 Patients with clinically evident hepatic insufficiency have decreased duloxetine metabolism and elimination.
 After a single 20 mg dose of duloxetine delayed-release, 6 cirrhotic patients with moderate liver impairment (Child-Pugh Class B) had a mean plasma duloxetine clearance about 15% that of age- and gender-matched healthy subjects, with a 5-fold increase in mean exposure (AUC).
-Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.3) and Warnings and Precautions (5.13)].
+Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.3) and Warnings and Precautions (5.14)].
 
 ## 8.10 Severe Renal Impairment
 
@@ -94,4 +97,4 @@ Limited data are available on the effects of duloxetine in patients with end-sta
 After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with end-stage renal disease receiving chronic intermittent hemodialysis than in subjects with normal renal function.
 The elimination half-life, however, was similar in both groups.
 The AUCs of the major circulating metabolites, 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate, largely excreted in urine, were approximately 7- to 9-fold higher and would be expected to increase further with multiple dosing.
-Population PK analyses suggest that mild to moderate degrees of renal dysfunction (estimated CrCl 30 to 80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.3) and Warnings and Precautions (5.13)].
+Population PK analyses suggest that mild to moderate degrees of renal dysfunction (estimated CrCl 30 to 80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.3) and Warnings and Precautions (5.14)].

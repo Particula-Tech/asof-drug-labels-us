@@ -24,7 +24,7 @@ There is a median 2 hour lag until absorption begins (Tlag), with maximal plasma
 Food does not affect the Cmax of duloxetine, but delays the time to reach peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (AUC) by about 10%.
 There is a 3 hour delay in absorption and a one-third increase in apparent clearance of duloxetine after an evening dose as compared to a morning dose.
 
-The apparent volume of distribution averages about 1640 L. Duloxetine is highly bound (>90%) to proteins in human plasma, binding primarily to albumin and α1-acid glycoprotein.
+The apparent volume of distribution averages about 1640 L. Duloxetine is highly bound (greater than 90%) to proteins in human plasma, binding primarily to albumin and α1-acid glycoprotein.
 The interaction between duloxetine and other highly protein bound drugs has not been fully evaluated.
 Plasma protein binding of duloxetine is not affected by renal or hepatic impairment.
 
@@ -34,6 +34,6 @@ The major biotransformation pathways for duloxetine involve oxidation of the nap
 Both CYP1A2 and CYP2D6 catalyze the oxidation of the naphthyl ring in vitro.
 Metabolites found in plasma include 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate.
 Many additional metabolites have been identified in urine, some representing only minor pathways of elimination.
-Only trace (<1% of the dose) amounts of unchanged duloxetine are present in the urine.
+Only trace (less than 1% of the dose) amounts of unchanged duloxetine are present in the urine.
 Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
 Duloxetine undergoes extensive metabolism, but the major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.

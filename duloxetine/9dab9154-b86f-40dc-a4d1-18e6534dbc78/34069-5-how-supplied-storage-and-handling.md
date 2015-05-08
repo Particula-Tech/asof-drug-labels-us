@@ -13,7 +13,7 @@ Capsules are supplied in bottles of 30 (NDC 0228-2891-03), 90 (NDC 0228-2891-09)
 60 mg – Each capsule with gray opaque body and white opaque cap, printed with and 2892 on both cap and body in black ink contains 67.3 mg of duloxetine hydrochloride, USP equivalent to 60 mg of duloxetine.
 Capsules are supplied in bottles of 30 (NDC 0228-2892-03), 90 (NDC 0228-2892-09) and bottles of 1000 (0228-2892-96).
 
-## 16.2 Storage
+## 16.2 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
 
