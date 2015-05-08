@@ -1,19 +1,69 @@
-# PRINCIPAL DISPLAY PANEL - 1mg/mL Carton
+# Naloxone Hydrochloride Injection, USP - Vial Label (Stock No. 1469)
 
-NDC 76329-1469-5
+IMS, LIMITED So.
+El Monte, CA 91733, U.S.A. 7614690K 1-15
 
-STOCK NO. 1469
+2 mL 2 mg 1 mg / mL
+
+NALOXONE HYDROCHLORIDE INJECTION, USP
+
+FOR I.M., I.V.
+OR S.C.
+USE / SINGLE DOSE SEE INSERT Rx Only
+
+Approx. 0 0.5 1 1.5 mg mL 0 0.5 1 1.5
+
+# Naloxone Hydrochloride Injection, USP - Carton (Stock No. 1469)
+
+MIN-I-JET® Prefilled Syringe
 
 Rx Only
 
-MIN-I-JET® Prefilled Syringe
+NDC 76329-1469-1 STOCK NO. 1469
 
 NALOXONE HYDROCHLORIDE INJ., USP (1 mg/mL)
 
 2 mg per 2 mL
 
-FOR INTRAVENOUS, INTRAMUSCULAR OR SUBCUTANEOUS USE / A NARCOTIC ANTAGONIST
+FOR INTRAVENOUS, INTRAMUSCULAR OR SUBCUTANEOUS USE / AN OPIOID ANTAGONIST
 
 MIN-I-JET® 21 G. X 1-1/2" NEEDLE
 
-NDC 76329-3369-1 STOCK NO. 3369 Rx Only Luer-Jet™ Luer-Lock Prefilled Syringe NALOXONE HYDROCHLORIDE INJ., USP (1/mg/mL) 2 mg per 2 mL FOR INTRAVENOUS, INTRAMUSCULAR OR SUBCUTANEOUS USE / A NARCOTIC ANTAGONIST LUER-JET™ LUER-LOCK PREFILLED SYRINGE
+2 mL single dose disposable prefilled syringe Single use, do not reuse or resterilize.
+
+# Naloxone Hydrochloride Injection, USP - Vial Label (Stock No. 3369)
+
+IMS, LIMITED So.
+El Monte, CA 91733, U.S.A. 7633690B 8-11
+
+2 mL 2 mg 1 mg / mL
+
+NALOXONE HYDROCHLORIDE INJECTION, USP
+
+FOR I.M., I.V.
+OR S.C.
+USE / SINGLE DOSE SEE INSERT Rx Only
+
+Approx. 0 0.5 1 1.5 mg mL 0 0.5 1 1.5
+
+# Naloxone Hydrochloride Injection, USP - Carton (Stock No. 3369)
+
+Luer-Lock Prefilled Syringe
+
+Rx Only
+
+NDC 76329-3369-1 STOCK NO. 3369
+
+NALOXONE HYDROCHLORIDE INJ., USP (1 mg/mL)
+
+2 mg per 2 mL
+
+FOR INTRAVENOUS, INTRAMUSCULAR
+
+OR SUBCUTANEOUS USE AS AN OPIOID ANTAGONIST
+
+LUER-JETTM LUER-LOCK PREFILLED SYRINGE
+
+2 mL single dose disposable prefilled syringe
+
+Single use, do not reuse or resterilize.
