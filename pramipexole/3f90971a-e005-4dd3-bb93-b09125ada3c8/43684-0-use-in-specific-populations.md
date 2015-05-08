@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
+Teratogenic Effects Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 Pramipexole dihydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 When pramipexole was given to female rats throughout pregnancy, implantation was inhibited at a dose of 2.5 mg/kg/day (5 times the maximum recommended human dose (MRHD) for Parkinson’s disease of 4.5 mg/day on a body surface area (mg/m2) basis).
 Administration of 1.5 mg/kg/day of pramipexole to pregnant rats during the period of organogenesis (gestation days 7 through 16) resulted in a high incidence of total resorption of embryos.
@@ -30,7 +30,7 @@ This resulted in an increase in elimination half-life from approximately 8.5 hou
 In clinical studies with Parkinson’s disease patients, 38.7% of patients were older than 65 years.
 There were no apparent differences in efficacy or safety between older and younger patients, except that the relative risk of hallucination associated with the use of pramipexole dihydrochloride tablets was increased in the elderly.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.

@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Pramipexole Dihydrochloride Tablets Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
+Pramipexole Dihydrochloride Tablets (pram" i pex' ole dye hye" droe klor' ide) Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -93,10 +93,10 @@ Sit and stand up slowly after you have been sitting or lying down.
 
 If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 
-- seeing visions, hearing sounds or feeling sensations that are not real (hallucinations).
-  Your chance of having hallucinations is higher if you are elderly (age 65 or older).
+- hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
+  Your chance of having hallucinations and other pasychotic-like behavior is higher if you are elderly (age 65 or older).
 
-If you have hallucinations, talk with your doctor right away.
+If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 
 - uncontrolled sudden movements (dyskinesia).
 
@@ -141,4 +141,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in pramipexole dihydrochloride tablets?
 Active Ingredient: pramipexole dihydrochloride Inactive Ingredients: colloidal silicon dioxide, corn starch, magnesium stearate, mannitol, and povidone This Patient Information has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 04/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 05/2015
