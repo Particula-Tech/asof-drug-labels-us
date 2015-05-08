@@ -1,1 +1,5 @@
-# Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
+
+NDC 68462-310-65
+
+CalcipotrieneOintment 0.005%
