@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Doxycycline is a broad-spectrum antibiotic synthetically derived from oxytetracycline, and is available as doxycycline hyclate (doxycycline hydrochloride hemiethanolate hemihydrate) for oral administration.
+Doxycycline is an antibacterial drug synthetically derived from oxytetracycline, and is available as doxycycline hyclate (doxycycline hydrochloride hemiethanolate hemihydrate) for oral administration.
 
 The structural formula of doxycycline hyclate is
 
@@ -12,12 +12,12 @@ Doxycycline has a high degree of lipoid solubility and a low affinity for calciu
 It is highly stable in normal human serum.
 Doxycycline will not degrade into an epianhydro form.
 
-Each capsule, for oral administration, contains Doxycycline Hyclate, equivalent to 50 mg or 100 mg of Doxycycline.
+Each capsule, for oral administration, contains doxycycline hyclate, equivalent to 50 mg or 100 mg of doxycycline.
 
-Each tablet, for oral administration, contains Doxycycline Hyclate, equivalent to 100 mg of Doxycycline.
+Each tablet, for oral administration, contains doxycycline hyclate, equivalent to 100 mg of doxycycline.
 
-Doxycycline Hyclate Capsules USP 50 mg and 100 mg contain the following inactive ingredients: magnesium stearate and microcrystalline cellulose.
+Doxycycline hyclate capsules, USP 50 mg and 100 mg contain the following inactive ingredients: magnesium stearate and microcrystalline cellulose.
 
-The capsule shells contain: FD&C Blue No. 1, gelatin, silicon dioxide, sodium lauryl sulfate and titanium dioxide.
+The capsule shells contain: FD&C Blue No. 1, gelatin and titanium dioxide.
 
-Doxycycline Hyclate Tablets USP 100 mg contain the following inactive ingredients: croscarmellose sodium, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium lauryl sulfate and titanium dioxide.
+Doxycycline hyclate tablets, USP 100 mg contain the following inactive ingredients: croscarmellose sodium, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium lauryl sulfate and titanium dioxide.

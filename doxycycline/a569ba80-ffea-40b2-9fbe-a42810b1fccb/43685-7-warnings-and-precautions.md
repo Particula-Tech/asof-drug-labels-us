@@ -10,11 +10,21 @@ Treatment with antibacterial agents alters the normal flora of the colon leading
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+
+CDAD must be considered in all patients who present with diarrhea following the use of antibacterial drugs.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline.
+Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
+Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
+Concomitant use of isotretinoin and doxycycline should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+
+Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
+If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
+Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
 All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg/kg every 6 hours.
@@ -34,13 +44,10 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## General
 
-As with other antibiotic preparations, use of this drug may result in overgrowth of nonsusceptible organisms, including fungi.
-If superinfection occurs, the antibiotic should be discontinued and appropriate therapy instituted.
+As with other antibacterial drugs, use of doxycycline may result in overgrowth of nonsusceptible organisms, including fungi.
+If superinfection occurs, doxycycline should be discontinued and appropriate therapy instituted.
 
-Bulging fontanels in infants and benign intracranial hypertension in adults have been reported in individuals receiving tetracyclines.
-These conditions disappeared when the drug was discontinued.
-
-Incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy, when indicated.
+Incision and drainage or other surgical procedures should be performed in conjunction with antibacterial therapy, when indicated.
 
 Doxycycline offers substantial but not complete suppression of the asexual blood stages of Plasmodium strains.
 
@@ -53,35 +60,25 @@ Prescribing doxycycline hyclate in the absence of proven or strongly suspected b
 
 Patients taking doxycycline for malaria prophylaxis should be advised:
 
-- that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
-- to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
-- that doxycycline prophylaxis:
-  - should begin 1 to 2 days before travel to the malarious area,
-  - should be continued daily while in the malarious area and after leaving the malarious area,
-  - should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
-  - should not exceed 4 months.
+- that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria. - to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent). - that doxycycline prophylaxis: -should begin 1 to 2 days before travel to the malarious area, - should be continued daily while in the malarious area and after leaving the malarious area, - should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area, - should not exceed 4 months.
 
 All patients taking doxycycline should be advised:
 
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs.
-  Sunscreen or sunblock should be considered.
-  (See WARNINGS.)
-- to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration.
-  (See ADVERSE REACTIONS.)
-- that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
-  However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk.
-  (See Drug Interactions.)
-- that the absorption of tetracyclines is reduced when taking bismuth subsalicylate.
-  (See Drug Interactions.)
-- that the use of doxycycline might increase the incidence of vaginal candidiasis.
+Sunscreen or sunblock should be considered.
+(See WARNINGS.) - to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration.
+(See ADVERSE REACTIONS.) - that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
+However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk.
+(See DRUG INTERACTIONS.) - that the absorption of tetracyclines is reduced when taking bismuth subsalicylate.
+(See DRUG INTERACTIONS.) - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
 Patients should be counseled that antibacterial drugs, including doxycycline hyclate should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When doxycycline hyclate is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by doxycycline hyclate or other antibacterial drugs in the future.
 
-Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+Diarrhea is a common problem caused by antibacterial drugs, which usually ends when the antibacterials are discontinued.
+Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
@@ -102,7 +99,7 @@ Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
+The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
@@ -113,16 +110,16 @@ False elevations of urinary catecholamine levels may occur due to interference w
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
-However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).
+However, there has been evidence of oncogenic activity in rats in studies with the related antibacterial drugs, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).
 
-Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibiotics (tetracycline, oxytetracycline).
+Likewise, although mutagenicity studies of doxycycline have not been conducted, positive results in in vitro mammalian cell assays have been reported for related antibacterial drugs (tetracycline, oxytetracycline).
 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
 
 ## Pregnancy:
 
-Teratogenic effects.
+Teratogenic Effects.
 Pregnancy Category D:
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
@@ -136,7 +133,7 @@ This association was not seen when the analysis was confined to maternal treatme
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of agec.
 
-Nonteratogenic effects: (See WARNINGS).
+Nonteratogenic Effects: (See WARNINGS.)
 
 ## Labor and Delivery
 
