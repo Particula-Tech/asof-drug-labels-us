@@ -11,8 +11,9 @@ If you have any questions about REVATIO, ask your doctor or pharmacist.
 
 What is the most important information I should know about REVATIO?
 
-Never take REVATIO with any nitrate medicines.
+Never take REVATIO with any nitrate or guanylate cyclase stimulator medicines.
 Your blood pressure could drop quickly to an unsafe level.
+
 Nitrate medicines include:
 
 - Medicines that treat chest pain (angina)
@@ -20,7 +21,11 @@ Nitrate medicines include:
 - Isosorbide mononitrate or dinitrate
 - Street drugs called "poppers" (amyl nitrate or nitrite)
 
-Ask your doctor or pharmacist if you are not sure if you are taking a nitrate medicine.
+Guanylate cyclase stimulators include:
+
+- Riociguat (Adempas)
+
+Ask your doctor or pharmacist if you are not sure if you are taking a nitrate or a guanylate cyclase stimulator medicine.
 
 What is REVATIO?
 
@@ -41,6 +46,8 @@ Who should not take REVATIO?
 Do not take REVATIO if you:
 
 - take nitrate medicines.
+  See "What is the most important information I should know about REVATIO?"
+- take guanylate cyclase stimulator medicines.
   See "What is the most important information I should know about REVATIO?"
 - are allergic to sildenafil or any other ingredient in REVATIO.
   See "What are the ingredients in REVATIO?" at the end of this leaflet.
@@ -69,6 +76,8 @@ The doses of some of your medicines may need to be adjusted while you take REVAT
 Especially tell your doctor if you take
 
 - Nitrate medicines.
+  See "What is the most important information I should know about REVATIO?"
+- Riociguat (Adempas).
   See "What is the most important information I should know about REVATIO?"
 - Ritonavir (Norvir®) or other medicines used to treat HIV infection
 - Ketoconazole (Nizoral®)
@@ -168,4 +177,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-9.0 April 2014
+LAB-0335-10.0 April 2015
