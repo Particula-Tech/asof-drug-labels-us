@@ -1,66 +1,87 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-When possible, to reduce the risk of developing cardiotoxicity in patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives such as trastuzumab, doxorubicin-based therapy should be delayed until the other agents have cleared from the circulation (See WARNINGS and PRECAUTIONS, General ).
-Care in the administration of doxorubicin will reduce the chance of perivenous infiltration (see WARNINGS ).
-It may also decrease the chance of local reactions such as urticaria and erythematous streaking.
-On intravenous administration of doxorubicin, extravasation may occur with or without an accompanying burning or stinging sensation, even if blood returns well on aspiration of the infusion needle.
-If any signs or symptoms of extravasation have occurred, the injection or infusion should be immediately terminated and restarted in another vein.
-If extravasation is suspected, intermittent application of ice to the site for 15 min. q.i.d. x 3 days may be useful.
-The benefit of local administration of drugs has not been clearly established.
-Because of the progressive nature of extravasation reactions, close observation and plastic surgery consultation are recommended.
-Blistering, ulceration, and/or persistent pain are indications for wide excision surgery, followed by split- thickness skin grafting.
-The most commonly used dose schedule when used as a single agent is 60 to 75 mg/m 2 as a single intravenous injection administered at 21-day intervals.
-The lower dosage should be given to patients with inadequate marrow reserves due to old age, or prior therapy, or neoplastic marrow infiltration.
-Doxorubicin has been used concurrently with other approved chemotherapeutic agents.
-Evidence is available that in some types of neoplastic disease, combination chemotherapy is superior to single agents.
-The benefits and risks of such therapy continue to be elucidated.
-When used in combination with other chemotherapy drugs, the most commonly used dosage of doxorubicin is 40 to 60 mg/m 2 given as a single intravenous injection every 21 to 28 days.
-In a large randomized study (NSABP B-15) of patients with early breast cancer involving axillary lymph nodes (see CLINICAL PHARMACOLOGY, Clinical Studies and ADVERSE REACTIONS, Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy ), the combination dosage regimen of AC (doxorubicin 60 mg/m 2 and cyclophosphamide 600 mg/m 2 ) was administered intravenously on day 1 of each 21-day treatment cycle.
-Four cycles of treatment were administered.
+## 2.1 Recommended Dose
 
-## Dose Modifications
+Adjuvant Breast Cancer
 
-Patients in the NSABP B-15 study could have dose modifications of AC to 75% of the starting doses for neutropenic fever/infection.
-When necessary, the next cycle of treatment cycle was delayed until the absolute neutrophil count (ANC) was ≥1000 cells/mm 3 and the platelet count was ≥100,000 cells/mm 3 and nonhematologic toxicities had resolved.
-Doxorubicin dosage must be reduced in case of hyperbilirubinemia as follows:
+The recommended dose of doxorubicin hydrochloride is 60 mg/m2 administered as an intravenous bolus on day 1 of each 21-day treatment cycle, in combination with cyclophosphamide, for a total of four cycles [see Clinical Studies (14)].
 
-| Plasma bilirubin concentration (mg/dL) | Dosage reduction (%) |
+Metastatic Disease, Leukemia, or Lymphoma
+
+- The recommended dose of doxorubicin hydrochloride when used as a single agent is 60 to 75 mg/m2 intravenously every 21 days.
+- The recommended dose of doxorubicin hydrochloride, when administered in combination with other chemotherapy drugs, is 40 to 75 mg/m2 intravenously every 21 to 28 days.
+- Consider use of the lower doxorubicin dose in the recommended dose range or longer intervals between cycles for heavily pretreated patients, elderly patients, or obese patients.
+- Cumulative doses above 550 mg/m2 are associated with an increased risk of cardiomyopathy [see Warnings and Precautions (5.1)].
+
+## 2.2 Dose Modifications
+
+Cardiac Impairment
+
+Discontinue doxorubicin in patients who develop signs or symptoms of cardiomyopathy.
+
+Hepatic Impairment
+
+Doxorubicin hydrochloride is contraindicated in patients with severe hepatic impairment (Child-Pugh Class C or serum bilirubin >5 mg/dL) [see Contraindications (4)].
+
+Decrease the dose of doxorubicin hydrochloride in patients with elevated serum total bilirubin concentrations as follows:
+
+| Serum bilirubin concentration | Doxorubicin Hydrochloride Dose reduction |
 | --- | --- |
-| 1.2 to 3 | 50 |
-| 3.1 to 5 | 75 |
+| 1.2 to 3 mg/dL | 50 % |
+| 3.1 to 5 mg/dL | 75 % |
+| greater than 5 mg/dL | Do not initiate doxorubicin hydrochloride Discontinue doxorubicin hydrochloride |
 
-## Directions for Use
+[see Warnings and Precautions (5.5) and Use in Specific Population (8.7)]
 
-It is recommended that doxorubicin be slowly administered into the tubing of a freely running intravenous infusion of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP.
-The tubing should be attached to a Butterfly ® needle inserted preferably into a large vein.
-If possible, avoid veins over joints or in extremities with compromised venous or lymphatic drainage.
-The rate of administration is dependent on the size of the vein, and the dosage.
-However, the dose should be administered in not less than 3 to 5 minutes.
-Local erythematous streaking along the vein as well as facial flushing may be indicative of too rapid an administration.
-A burning or stinging sensation may be indicative of perivenous infiltration and, if this occurs, the infusion should be immediately terminated and restarted in another vein.
-Perivenous infiltration may occur painlessly.
-Doxorubicin should not be mixed with heparin or fluorouracil since it has been reported that these drugs are incompatible to the extent that a precipitate may form.
-Contact with alkaline solutions should be avoided since this can lead to hydrolysis of doxorubicin.
-Until specific compatibility data are available, it is not recommended that doxorubicin be mixed with other drugs.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+## 2.3 Preparation and Administration
 
-## Handling and Disposal
+Preparation for Continuous Intravenous Infusion
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.
-1 to 4 There is no general agreement that all the procedures recommended in the guidelines are necessary or appropriate.
-However, given the toxic nature of this substance, the following protective recommendations are provided:
+Dilute doxorubicin hydrochloride solution in 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP.
+Protect from light following preparation until completion of infusion.
 
-- Personnel should be trained in good technique for handling.
-- Pregnant staff should be excluded from working with this drug.
-- Personnel handling doxorubicin should wear protective clothing: goggles, gowns, and disposable gloves and masks.
-- All items used for administration, or cleaning, including gloves, should be placed in high-risk waste-disposal bags for high-temperature incineration.
-- Spillage or leakage should be treated with dilute sodium hypochlorite (1% available chlorine) solution, preferably by soaking, and then water.
-- All cleaning materials should be disposed of as indicated previously.
-- In case of skin contact, thoroughly wash the affected area with soap and water or sodium bicarbonate solution.
-  However, do not abrade the skin by using a scrub brush.
-- In case of contact with the eye(s), hold back the eyelid(s) and flush the affected eye(s) with copious amounts of water for at least 15 minutes.
-  Then seek medical evaluation by a physician.
-- Always wash hands after removing gloves.
+Administration
 
-Caregivers of pediatric patients receiving doxorubicin should be counseled to take precautions (such as wearing latex gloves) to prevent contact with the patient’s urine and other body fluids for at least 5 days after each treatment.
+Visually inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Discard if the solution is discolored, cloudy, or contains particulate matter.
+
+Storage of vials of doxorubicin hydrochloride injection under refrigerated conditions can result in the formation of a gelled product.
+Place gelled product at room temperature [15º to 30ºC (59º to 86ºF)] for 2 to 4 hours to return the product to a slightly viscous, mobile solution.
+
+Administration by Intravenous Injection:
+
+- Administer doxorubicin hydrochloride as an intravenous injection through a central intravenous line or a secure and free-flowing peripheral venous line containing 0.9% Sodium Chloride Injection, USP, 0.45% Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP.
+- Administer doxorubicin hydrochloride intravenously over 3 to 10 minutes.
+  Decrease the rate of doxorubicin hydrochloride administration if erythematous streaking along the vein proximal to the site of infusion or facial flushing occur.
+
+Administration by Continuous Intravenous Infusion:
+
+- Infuse only through a central catheter.
+  Decrease the rate of doxorubicin hydrochloride administration if erythematous streaking along the vein proximal to the site of infusion or facial flushing occur.
+- Protect from light from preparation for infusion until completion of infusion.
+
+Management of Suspected Extravasation
+
+Discontinue doxorubicin hydrochloride for burning or stinging sensation or other evidence indicating peri­venous infiltration or extravasation.
+Manage confirmed or suspected extravasation as follows:
+
+- Do not remove the needle until attempts are made to aspirate extravasated fluid.
+- Do not flush the line.
+- Avoid applying pressure to the site.
+- Apply ice to the site intermittently for 15 min 4 times a day for 3 days.
+- If the extravasation is in an extremity, elevate the extremity.
+- In adults, consider administration of dexrazoxane [see Warnings and Precautions (5.3)].
+
+Incompatibility with Other Drugs
+
+Do not admix doxorubicin hydrochloride with other drugs.
+If doxorubicin hydrochloride is mixed with heparin or fluorouracil a precipitate may form.
+Avoid contact with alkaline solutions which can lead to hydrolysis of doxorubicin hydrochloride.
+
+## 2.4 Procedures for Proper Handling and Disposal
+
+Handle and dispose of doxorubicin hydrochloride consistent with recommendations for the handling and disposal of hazardous drugs.1
+
+Treat accidental contact with the skin or eyes immediately by copious lavage with water, or soap and water, or sodium bicarbonate solution.
+Do not abrade the skin by using a scrub brush.
+Seek medical attention.
