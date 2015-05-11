@@ -1,11 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
+## Mechanism of Action
+
 Parkinson's disease is a progressive, neurodegenerative disorder of the extrapyramidal nervous system affecting the mobility and control of the skeletal muscular system.
 Its characteristic features include resting tremor, rigidity, and bradykinetic movements.
 Symptomatic treatments, such as levodopa therapies, may permit the patient better mobility.
-
-## Mechanism of Action
-
 Current evidence indicates that symptoms of Parkinson's disease are related to depletion of dopamine in the corpus striatum.
 Administration of dopamine is ineffective in the treatment of Parkinson's disease apparently because it does not cross the blood-brain barrier.
 However, levodopa, the metabolic precursor of dopamine, does cross the blood-brain barrier, and presumably is converted to dopamine in the brain.
@@ -38,3 +37,14 @@ In clinical pharmacologic studies, simultaneous administration of carbidopa and 
 
 Pyridoxine hydrochloride (vitamin B6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
 Carbidopa inhibits this action of pyridoxine; therefore, carbidopa and levodopa tablets can be given to patients receiving supplemental pyridoxine (vitamin B6).
+
+## Special Populations
+
+Geriatric: A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
+However, the systemic exposure (AUC) of levodopa was increased by 55% in elderly subjects compared to young subjects.
+Based on another study in forty patients with Parkinson’s disease, there was a correlation between age of patients and the increase of AUC of levodopa following administration of levodopa and an inhibitor of peripheral dopa decarboxylase.
+AUC of levodopa was increased by 28% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr).
+Additionally, mean value of Cmax for levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr) (see PRECAUTIONS, Geriatric Use).
+
+The AUC of carbidopa was increased in elderly subjects (n=10, 65 to 76 yr) by 29% compared to young subjects (n=24, 23 to 64 yr) following IV administration of 50 mg levodopa with carbidopa (50 mg).
+This increase is not considered a clinically significant impact.
