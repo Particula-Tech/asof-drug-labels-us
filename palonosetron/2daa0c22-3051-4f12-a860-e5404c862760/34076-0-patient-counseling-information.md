@@ -16,10 +16,12 @@ Serotonin Syndrome
 Advise patients of the possibility of serotonin syndrome especially with concomitant use of AKYNZEO and another serotonergic agent such as medications to treat depression and migraines.
 Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms, with or without gastrointestinal symptoms [see Warnings and Precautions (5.2)].
 
-Jointly manufactured by Catalent Pharma Solutions, Somerset, NJ and Helsinn Birex Pharmaceuticals, Dublin, Ireland for Helsinn Healthcare SA, Switzerland
+Manufactured by Helsinn Birex Pharmaceuticals, Dublin, Ireland for Helsinn Healthcare SA, Switzerland
 
-Distributed and marketed by Eisai Inc., Woodcliff Lake, NJ 07677, under license of Helsinn Healthcare SA, Switzerland
+Distributed by Eisai Inc., Woodcliff Lake, NJ 07677, under license of Helsinn Healthcare SA, Switzerland
 
-AKYNZEO is a registered trademark of Helsinn Healthcare, SA, Lugano, Switzerland
+Marketed by Eisai Inc., Woodcliff Lake, NJ 07677 and Helsinn Therapeutics Inc., Bridgewater, NJ08807, under license of Helsinn Healthcare SA, Switzerland
 
-© 2014 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 201227
+AKYNZEO is a registered trademark of Helsinn Healthcare SA, Lugano, Switzerland
+
+© 2014 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 202999

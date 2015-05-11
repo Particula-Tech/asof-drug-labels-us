@@ -141,12 +141,10 @@ An in vivo study has confirmed that netupitant is a moderate inhibitor of CYP3A4
 
 Based on the in vitro studies, netupitant and its metabolites’ are unlikely to have in vivo drug-drug interaction via inhibition of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 at the clinical dose of 300 mg.
 
-Netupitant and its metabolites, M1, M2 and M3, are not inducers of CYP1A2, CYP2C9, CYP2C19 and CYP3A4.
-Their induction potential of CYP2B6 is unknown.
+Netupitant and its metabolites, M1, M2 and M3, are not inducers of CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4.
 
 Based on in vitro studies, netupitant is an inhibitor of P-gp and BCRP transporters.
-In addition, metabolite M2 is a substrate for P-gp.
-Netupitant’s potential for being a substrate for P-gp is unknown.
+In addition, netupitant is not a substrate for P-gp, metabolite M2 is a substrate for P-gp.
 In vitro studies indicate that netupitant and its three major metabolites are unlikely to have in vivo drug-drug interactions with human efflux transporters BSEP, MRP2, and human uptake transporters OATP1B1, OATP1B3, OAT1, OAT3, OCT1, and OCT2 at the clinical dose of 300 mg.
 
 In vitro studies, palonosetron does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and CYP3A4/5 or induce CYP1A2, CYP2D6 or CYP3A4/5.

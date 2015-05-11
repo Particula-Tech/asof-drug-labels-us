@@ -1,7 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NDC # 62856-796-01, AKYNZEO (300 mg netupitant/0.5 mg palonosetron).
-AKYNZEO is supplied as hard gelatin capsules with white body and caramel cap with “HE1” printed on the body, one capsule per blister.
+AKYNZEO (300 mg netupitant/0.5 mg palonosetron) capsules: hard gelatin capsules with white body and caramel cap with “HE1” printed on the body.
+They are supplied as follows:
+
+NDC # 62856-796-01: pack of one capsule in one blister
+
+NDC # 62856-796-04: pack of four capsules (two capsules per blister strip).
 
 Storage
 
