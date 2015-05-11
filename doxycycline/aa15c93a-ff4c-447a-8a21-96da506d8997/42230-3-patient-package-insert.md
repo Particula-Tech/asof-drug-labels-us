@@ -1,17 +1,15 @@
-# Patient Information
-
 PATIENT INFORMATION ORACEA (Or-RAY-sha) (doxycycline) capsules Read this Patient Information before you start taking ORACEA and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or treatment.
 What is ORACEA?
-ORACEA is a tetracycline class medicine.
+ORACEA is a tetracycline-class medicine.
 ORACEA is a prescription medicine used in adults to treat only pimples or bumps (papules and pustules) caused by a condition called rosacea.
 ORACEA does not lessen redness caused by rosacea.
 ORACEA should not be used for the treatment or prevention of infections.
 It is not known if ORACEA is: • effective for use for longer than 16 weeks. • safe for use longer than 9 months. • safe and effective in children.
 ORACEA should not be used in infants and children less than 8 years of age because it may cause stained teeth in infants and children.
 Who should not take ORACEA?
-Do not take ORACEA if you are allergic to doxycycline or other medicines in the tetracycline class.
+Do not take ORACEA if you are allergic to doxycycline or other medicines in the tetracycline-class.
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 What should I tell my doctor before taking ORACEA?
 Before you take ORACEA tell your doctor if you: • have kidney problems. • have liver problems. • have diarrhea or watery stools. • have vision problems. • have had surgery on your stomach (gastric surgery). • have or had a yeast or fungal infection in your mouth or vagina. • have any other medical condition. • are pregnant or plan to become pregnant.
@@ -57,7 +55,8 @@ These are not all the possible side effects of ORACEA.
 For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137 How should I store ORACEA? • Store ORACEA at room temperature between 59°F to 86°F (15°C to 30°C). • Keep ORACEA in a tightly closed container. • Keep ORACEA inside container and out of light.
+You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137.
+How should I store ORACEA? • Store ORACEA at room temperature between 59°F to 86°F (15°C to 30°C). • Keep ORACEA in a tightly closed container. • Keep ORACEA inside container and out of light.
 Keep ORACEA and all medicine out of the reach of children.
 General information about ORACEA Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not take ORACEA for a condition for which it was not prescribed.
@@ -69,7 +68,6 @@ You can also ask your doctor or pharmacist for information that is written for h
 What are the ingredients in ORACEA?
 Active ingredient: doxycycline Inactive ingredients: hypromellose, iron oxide red, iron oxide yellow, methacrylic acid copolymer, polyethylene glycol, Polysorbate 80, sugar spheres, talc, titanium dioxide, and triethyl citrate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Revised: 07/2013 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: Catalent Pharma Solutions, LLC Winchester, Kentucky 40391 USA All trademarks are the property of their respective owners.
-P51382-0
+Marketed by: GALDERMA LABORATORIES, L.P.
+Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners.
+P52631-0

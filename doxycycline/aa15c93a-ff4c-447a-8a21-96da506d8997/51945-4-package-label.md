@@ -25,8 +25,12 @@ Store at controlled room temperature of 15°C - 30°C (59°F - 86°F).
 Keep out of reach of children
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: Catalent Pharma Solutions, LLC Winchester, Kentucky 40391 USA Galderma is a registered trademark.
+Fort Worth, Texas 76177 USA Galderma is a registered trademark.
 
 www.oracea.com
 
-30154-0508
+P52630-0
+
+LOT
+
+EXP
