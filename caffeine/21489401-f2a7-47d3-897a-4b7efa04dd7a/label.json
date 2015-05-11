@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020793"
+  ],
+  "inn": "caffeine",
+  "labeler": "West-Ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6164-01",
+    "0641-6164-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "caffeine citrate",
+      "name": "CAFCIT"
+    }
+  ],
+  "setid": "21489401-f2a7-47d3-897a-4b7efa04dd7a",
+  "source": "dailymed"
+}
