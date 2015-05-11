@@ -3,17 +3,17 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of quetiapine is unknown.
-However, it has been proposed that the efficacy of quetiapine in schizophrenia and its mood stabilizing properties in bipolar depression and mania are mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5HT2) antagonism.
-Antagonism at receptors other than dopamine and 5HT2 with similar receptor affinities may explain some of the other effects of quetiapine.
+However, it has been proposed that the efficacy of quetiapine in schizophrenia and its mood stabilizing properties in bipolar depression and mania are mediated through a combination of dopamine type 2 (D 2) and serotonin type 2 (5HT 2) antagonism.
+Antagonism at receptors other than dopamine and 5HT 2 with similar receptor affinities may explain some of the other effects of quetiapine.
 
-Quetiapine's antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
+Quetiapine's antagonism of histamine H 1 receptors may explain the somnolence observed with this drug.
 
-Quetiapine's antagonism of adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
+Quetiapine's antagonism of adrenergic α 1 receptors may explain the orthostatic hypotension observed with this drug.
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148nM, respectively), dopamine D1 and D2 (IC50s=1268 & 329nM, respectively), histamine H1 (IC50=30nM), and adrenergic α1 and α2receptors (IC50s=94 & 271nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s > 5000 nM).
+Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT 1A and 5HT 2 (IC 50s=717 & 148nM, respectively), dopamine D 1 and D 2 (IC 50s=1268 & 329nM, respectively), histamine H 1 (IC50=30nM), and adrenergic α1 and α2receptors (IC 50s=94 & 271nM, respectively).
+Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC 50s > 5000 nM).
 
 Effect on QT Interval
 
@@ -42,7 +42,7 @@ Absorption
 
 Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
-The bioavailability of quetiapine is marginally affected by administration with food, with Cmax and AUC values increased by 25% and 15%, respectively.
+The bioavailability of quetiapine is marginally affected by administration with food, with C max and AUC values increased by 25% and 15%, respectively.
 
 Distribution
 
@@ -62,7 +62,7 @@ In vitro studies using human liver microsomes revealed that the cytochrome P450 
 
 Age
 
-Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [seeDosage and Administration (2.3)].
+Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender
 
@@ -78,7 +78,7 @@ Smoking has no effect on the oral clearance of quetiapine.
 
 Renal Insufficiency
 
-Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
+Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m 2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m 2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients.[see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency
@@ -116,6 +116,6 @@ Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 | --- | --- | --- | --- |
 | Coadministered drug | Quetiapine |  |  |
 | Lorazepam | 2 mg, single dose | 250 mg three times daily | Oral clearance of lorazepam reduced by 20% |
-| Divalproex | 500 mg twice daily | 150 mg twice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | C max and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
 | Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg three times daily | No effect on steady-state pharmacokinetics of lithium |
 | Antipyrine | 1 g, single dose | 250 mg three times daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |

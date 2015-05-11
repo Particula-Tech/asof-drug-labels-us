@@ -105,7 +105,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults:
 
-Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo Controlled StudiesIncludes quetiapine and quetiapine extended release data
+Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo Controlled Studies Includes quetiapine and quetiapine extended release data
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -140,15 +140,15 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 240 mg/dL | Schizophrenia6 weeks duration | Quetiapine | 137 | 24 (18%) |
+| Total Cholesterol ≥ 240 mg/dL | Schizophrenia 6 weeks duration | Quetiapine | 137 | 24 (18%) |
 | Placebo | 92 | 6 (7%) |  |  |
-| Bipolar Depression8 weeks duration | Quetiapine | 463 | 41 (9%) |  |
+| Bipolar Depression 8 weeks duration | Quetiapine | 463 | 41 (9%) |  |
 | Placebo | 250 | 15 (6%) |  |  |
 | Triglycerides≥200 mg/dL | Schizophrenia | Quetiapine | 120 | 26 (22%) |
 | Placebo | 70 | 11 (16%) |  |  |
 | Bipolar Depression | Quetiapine | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
-| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | naParameters not measured in the quetiapine registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies. | na |
+| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | Quetiapine | na Parameters not measured in the quetiapine registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies. | na |
 | Placebo | na | na |  |  |
 | Bipolar Depression | Quetiapine | 465 | 29 (6%) |  |
 | Placebo | 256 | 12 (5%) |  |  |
@@ -165,9 +165,9 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 200 mg/dL | Schizophrenia13 to 17 years, 6 weeks duration | Quetiapine | 107 | 13 (12%) |
+| Total Cholesterol ≥ 200 mg/dL | Schizophrenia 13 to 17 years, 6 weeks duration | Quetiapine | 107 | 13 (12%) |
 | Placebo | 56 | 1 (2%) |  |  |
-| Bipolar Mania10 to 17 years, 3 weeks duration | Quetiapine | 159 | 16 (10%) |  |
+| Bipolar Mania 10 to 17 years, 3 weeks duration | Quetiapine | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
 | Triglycerides ≥150 mg/dL | Schizophrenia | Quetiapine | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
@@ -195,13 +195,13 @@ Table 6: Proportion of Patients with Weight Gain ≥ 7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body Weight | Schizophreniaup to 6 weeks duration | Quetiapine | 391 | 89 (23%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia up to 6 weeks duration | Quetiapine | 391 | 89 (23%) |
 | Placebo | 206 | 11 (6%) |  |  |
-| Bipolar Mania (monotherapy)up to 12 weeks duration | Quetiapine | 209 | 44 (21%) |  |
+| Bipolar Mania (monotherapy) up to 12 weeks duration | Quetiapine | 209 | 44 (21%) |  |
 | Placebo | 198 | 13 (7%) |  |  |
-| Bipolar Mania (adjunct therapy)up to 3 weeks duration | Quetiapine | 196 | 25 (13%) |  |
+| Bipolar Mania (adjunct therapy) up to 3 weeks duration | Quetiapine | 196 | 25 (13%) |  |
 | Placebo | 203 | 8 (4%) |  |  |
-| Bipolar Depressionup to 8 weeks duration | Quetiapine | 554 | 47 (8%) |  |
+| Bipolar Depression up to 8 weeks duration | Quetiapine | 554 | 47 (8%) |  |
 | Placebo | 295 | 7 (2%) |  |  |
 
 Children and Adolescents:
@@ -252,7 +252,7 @@ However, some patients may require treatment with quetiapine despite the presenc
 
 ## 5.7 Hypotension
 
-Quetiapine may induce orthostatic hypotension associated with dizziness, tachycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonist properties.
+Quetiapine may induce orthostatic hypotension associated with dizziness, tachycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α 1-adrenergic antagonist properties.
 Syncope was reported in 1% (28/3265) of the patients treated with quetiapine, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
@@ -276,7 +276,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine at the first sign of a decline in WBC in absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue quetiapine and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue quetiapine and have their WBC followed until recovery.
 
 ## 5.10 Cataracts
 
@@ -323,15 +323,15 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 8: Incidence of shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mlU/L at any time., Includes quetiapine and quetiapine extended release data.
+Table 8: Incidence of shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trials Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Shifts in total T 4, free T 4, total T 3 and free T 3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mlU/L at any time., Includes quetiapine and quetiapine extended release data.
 
-| Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
+| Total T 4 |  | Free T 4 |  | Total T 3 |  | Free T 3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
 | 3.4 % (37/1097) | 0.6% (4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5673) | 0.0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
 
-In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
+In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T 3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T 4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
 
 Children and Adolescents:
 
@@ -352,7 +352,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, mammary gland and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [seeNonclinical Toxicology (13.1)].
+Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
 
 ## 5.15 Potential for Cognitive and Motor Impairment
 

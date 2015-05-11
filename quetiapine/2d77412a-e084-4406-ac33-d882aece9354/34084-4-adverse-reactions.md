@@ -142,7 +142,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 
 | Preferred Term | QUETIAPINE (n=698) | PLACEBO (n=347) |
 | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation. | 57% | 15% |
+| Somnolence Somnolence combines adverse reaction terms somnolence and sedation. | 57% | 15% |
 | Dry Mouth | 44% | 13% |
 | Dizziness | 18% | 7% |
 | Constipation | 10% | 4% |
@@ -257,10 +257,10 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 
 | Preferred Term | Quetiapine 400 mg (n=73) | Quetiapine 800 mg (n=74) | Placebo (n=75) |
 | --- | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reactions terms somnolence and sedation | 33% | 35% | 11% |
+| Somnolence Somnolence combines adverse reactions terms somnolence and sedation | 33% | 35% | 11% |
 | Dizziness | 8% | 15% | 5% |
 | Dry Mouth | 4% | 10% | 1% |
-| TachycardiaTachycardia combines adverse reaction terms tachycardia and sinus tachycardia | 6% | 11% | 0% |
+| Tachycardia Tachycardia combines adverse reaction terms tachycardia and sinus tachycardia | 6% | 11% | 0% |
 | Irritability | 3% | 5% | 0% |
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
@@ -289,12 +289,12 @@ Table 14 Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the
 
 | Preferred Term | Quetiapine 400 mg (n-95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation | 50% | 57% | 14% |
+| Somnolence Somnolence combines adverse reaction terms somnolence and sedation | 50% | 57% | 14% |
 | Dizziness | 19% | 17% | 2% |
 | Nausea | 6% | 10% | 4% |
 | Fatigue | 14% | 9% | 4% |
 | Increased Appetite | 10% | 9% | 1% |
-| TachycardiaTachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 9% | 1% |
+| Tachycardia Tachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 9% | 1% |
 | Dry Mouth | 7% | 7% | 0% |
 | Vomiting | 8% | 7% | 3% |
 | Nasal Congestion | 3% | 6% | 2% |
@@ -342,7 +342,7 @@ Table 16 presents a listing of patients with adverse reactions associated with e
 
 Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
-| Preferred TermThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
+| Preferred Term There were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
 | Parkinsonism | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 | 1 | 1.1 |
@@ -357,7 +357,7 @@ It is important to emphasize that, although the reactions reported occurred duri
 
 Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increasedadjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
+Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased adjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
 
 Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
@@ -385,7 +385,7 @@ Laboratory, ECG and vital sign changes observed in clinical studies Laboratory C
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
+Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
 [see Warnings and Precautions (5.9)
 
 Transaminase Elevations

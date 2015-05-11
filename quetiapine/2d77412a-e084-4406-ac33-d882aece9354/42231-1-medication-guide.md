@@ -4,6 +4,8 @@ Medication Guide
 
 Quetiapine Fumarate Tablets
 
+(kwe-TYE-a-peen FUE-ma-rate)
+
 Read this Medication Guide before you start taking quetiapine fumarate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
@@ -295,13 +297,8 @@ Accord Healthcare Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Limited Intas Pharmaceuticals, Ahmedabad -380 009, India.
 
-Intas Pharmaceuticals Limited, Plot No. 5, 6 & 7, Pharmez, Sarkhej-Bavla, National Highway No. 8-A, Near Village Matoda, Tal Sanand, Ahmedabad - 382 213, Gujarat, India
+10 8057 6 658084
 
-10 8057 5 650834
-
-51 4163 0 705074
-
-Issued December 2013
+Issued November 2014

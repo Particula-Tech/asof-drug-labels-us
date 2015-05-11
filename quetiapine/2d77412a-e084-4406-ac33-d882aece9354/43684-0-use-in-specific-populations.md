@@ -18,12 +18,12 @@ Neonates exposed to antipsychotic drugs (including quetiapine), during the third
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Animal Data When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect at doses up to 2.4 times the maximum recommended human dose (MRHD) for schizophrenia of 800 mg/day based on mg/m2 body surface area.
+Animal Data When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect at doses up to 2.4 times the maximum recommended human dose (MRHD) for schizophrenia of 800 mg/day based on mg/m 2 body surface area.
 However, there was evidence of embryo-fetal toxicity, which included delays in skeletal ossification occurring at approximately 1 and 2 times the MRHD of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
 In addition, fetal weights were decreased in both species.
 Maternal toxicity (observed as decreased body weights and/or death) occurred at 2 times the MRHD in rats and approximately 1 to 2 times the MRHD (all doses tested) in rabbits.
 
-In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.12, and 0.24 times the MRHD of 800 mg/day based on mg/m2 body surface area.
+In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.12, and 0.24 times the MRHD of 800 mg/day based on mg/m 2 body surface area.
 However, in a preliminary peri/postnatal study, there were increases in fetal and pup death, and decreases in mean litter weight at 3 times the MRHD.
 
 ## 8.2 Labor and Delivery
