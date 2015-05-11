@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category C: Risk Summary Neonates exposed to antipsychotic drugs (including aripiprazole tablets) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms.
+Teratogenic Effects Pregnancy Category C: Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy.
+For more information contact the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
+Risk Summary Neonates exposed to antipsychotic drugs (including aripiprazole tablets) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms.
 Adequate and well controlled studies with aripiprazole tablets have not been conducted in pregnant women.
 Animal reproduction studies were conducted with aripiprazole in rats and rabbits during organogenesis, and in rats during the pre- and post-natal period.
 Oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses higher than the maximum recommended human dose (MRHD) produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
@@ -15,9 +17,9 @@ Monitor neonates for extrapyramidal and/or withdrawal symptoms.
 Data Animal Data In animal studies, aripiprazole demonstrated developmental toxicity, including possible teratogenic effects in rats and rabbits.
 Pregnant rats were treated with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the maximum recommended human dose [MRHD] on a mg/m2 basis) of aripiprazole during the period of organogenesis.
 Gestation was slightly prolonged at 30 mg/kg/day.
-Treatment at the high dose of 30 mg/kg/day caused a slight delay in fetal development (decreased fetal weight), undescended testes and delayed skeletal ossification (also seen at 10 mg/kg/day).
+Treatment at the high dose of 30 mg/kg/day caused a slight delay in fetal development (decreased fetal weight), undescended testes, and delayed skeletal ossification (also seen at 10 mg/kg/day).
 There were no adverse effects on embryofetal or pup survival.
-Delivered offspring had decreased body weights (10 and 30 mg/kg), and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
+Delivered offspring had decreased body weights (10 and 30 mg/kg/day), and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
 Postnatally, delayed vaginal opening was seen at 10 and 30 mg/kg/day and impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post-implantation loss, likely mediated through effects on female offspring) was seen at 30 mg/kg/day.
 Some maternal toxicity was seen at 30 mg/kg/day however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 Pregnant rabbits were treated with oral doses of 10, 30, and 100 mg/kg/day (2, 3, and 11 times human exposure at MRHD based on AUC and 6, 19, and 65 times the MRHD based on mg/m2) of aripiprazole during the period of organogenesis.
@@ -38,28 +40,27 @@ Bipolar I Disorder Safety and effectiveness in pediatric patients with bipolar m
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 The efficacy of adjunctive aripiprazole tablets with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
 However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
-Additional information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole).
+Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole).
+Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 Juvenile Animal Studies Aripiprazole in juvenile rats caused mortality, CNS clinical signs, impaired memory and learning, and delayed sexual maturation when administered at oral doses of 10, 20, 40mg/kg/day from weaning (21 days old) through maturity (80 days old).
 At 40mg/kg/day, mortality, decreased activity, splayed hind limbs, hunched posture, ataxia, tremors and other CNS signs were observed in both genders.
 In addition, delayed sexual maturation was observed in males.
 At all doses and in a dose-dependent manner, impaired memory and learning, increased motor activity, and histopathology changes in the pituitary (atrophy), adrenals (adrenocortical hypertrophy), mammary glands (hyperplasia and increased secretion), and female reproductive organs (vaginal mucification, endometrial atrophy, decrease in ovarian corpora lutea) were observed.
 The changes in female reproductive organs were considered secondary to the increase in prolactin serum levels.
-A No Observed Adverse Effect Level (NOAEL) could not be determined and, at the lowest tested dose of 10mg/kg/day, there is no safety margin relative to the systemic exposures (AUC0to24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day.
+A No Observed Adverse Effect Level (NOAEL) could not be determined and, at the lowest tested dose of 10mg/kg/day, there is no safety margin relative to the systemic exposures (AUC0 to 24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day.
 All drug-related effects were reversible after a 2-month recovery period, and most of the drug effects in juvenile rats were also observed in adult rats from previously conducted studies.
-Aripiprazole in juvenile dogs (2 months old) caused CNS clinical signs of tremors, hypoactivity, ataxia, recumbency and limited use of hind limbs when administered orally for 6 months at 3, 10, 30mg/kg/day.
+Aripiprazole in juvenile dogs (2 months old) caused CNS clinical signs of tremors, hypoactivity, ataxia, recumbency and limited use of hind limbs when administered orally for 6 months at 3, 10, 30 mg/kg/day.
 Mean body weight and weight gain were decreased up to 18% in females in all drug groups relative to control values.
-A NOAEL could not be determined and, at the lowest tested dose of 3mg/kg/day, there is no safety margin relative to the systemic exposures (AUC 0to24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day.
+A NOAEL could not be determined and, at the lowest tested dose of 3 mg/kg/day, there is no safety margin relative to the systemic exposures (AUC 0 to 24) for aripiprazole or its major active metabolite in adolescents at the maximum recommended pediatric dose of 15 mg/day.
 All drug-related effects were reversible after a 2-month recovery period.
-Pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
 No dosage adjustment is recommended for elderly patients [see also BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 Of the 13,543 patients treated with oral aripiprazole tablets in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Aripiprazole tablets are not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania,or another indication did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Aripiprazole tablets are not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see also BOXED WARNINGand WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 8.6 CYP2D6 Poor Metabolizers
 
@@ -68,8 +69,8 @@ Approximately 8% of Caucasians and 3 to 8% of Black/African Americans cannot met
 
 ## 8.7 Hepatic and Renal Impairment
 
-No dosage adjustment for aripiprazole tablets is required on the basis of a patient’s hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15), or renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment for aripiprazole tablets is required on the basis of a patient's hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15), or renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see CLINICAL PHARMACOLOGY (12.3)].
 
 ## 8.8 Other Specific Populations
 
-No dosage adjustment for aripiprazole tablets are required on the basis of a patient's sex, race, or smoking status [see CLINICAL PHARMACOLOGY (12.3)].
+No dosage adjustment for aripiprazole tablets are required on the basis of a patient's sex, race, or smoking status [see CLINICAL PHARMACOLOGY (12.3)]

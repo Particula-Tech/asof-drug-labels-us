@@ -26,7 +26,7 @@ Keep a list of all medicines to show the healthcare provider.
 Do not start new medicines without first checking with your healthcare provider. • Not all antidepressant medicines prescribed for children are FDA approved for use in children.
 Talk to your child’s healthcare provider for more information.
 What are aripiprazole tablets?
-Aripiprazole tablets are prescription medicine used to treat: O Schizophrenia  O manic or mixed episodes that happen with bipolar I disorder Who should not take Aripiprazole tablets?
+Aripiprazole tablets are prescription medicine used to treat: O Schizophrenia  O manic or mixed episodes that happen with bipolar I disorder It is not known if aripiprazole tablets are safe or effective in children: • under 13 years of age with schizophrenia • under 10 years of age with bipolar I disorder Who should not take Aripiprazole tablets?
 Do not take aripiprazole tablets if you are allergic to aripiprazole or any of the ingredients in aripiprazole tablets.
 See the end of this Medication Guide for a complete list of ingredients in aripiprazole tablets.
 What should I tell my healthcare provider before taking aripiprazole tablets?
@@ -75,7 +75,7 @@ This Medication Guide summarizes the most important information about aripiprazo
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about aripiprazole tablets that was written for healthcare professionals.
 What are the ingredients in aripiprazole tablets?
-Active ingredient: aripiprazole Inactive ingredients: corn starch, FD&C Blue #2/Indigo Carmine Al, ferric oxide red, ferric oxide yellow, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose Pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
+Active ingredient: aripiprazole USP Inactive ingredients: corn starch, FD&C Blue #2/Indigo Carmine Al, ferric oxide red, ferric oxide yellow, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY ® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

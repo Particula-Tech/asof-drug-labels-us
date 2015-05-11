@@ -4,7 +4,7 @@
 
 Increased Mortality Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Aripiprazole tablets are not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
-Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease In three, 10-week, placebo-controlled studies of aripiprazole tablets in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of 3% and aripiprazole tablets incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole tablets 5%], somnolence (including sedation) [placebo 3%, aripiprazole tablets 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole tablets 5%], excessive salivation [placebo 0%, aripiprazole tablets 4%], and lightheadedness [placebo 1%, aripiprazole tablets 4%].
+Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease In three, 10-week, placebo-controlled studies of aripiprazole tablets in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and aripiprazole tablets incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole tablets 5%], somnolence (including sedation) [placebo 3%, aripiprazole tablets 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole tablets 5%], excessive salivation [placebo 0%, aripiprazole tablets 4%], and lightheadedness [placebo 1%, aripiprazole tablets 4%].
 The safety and efficacy of aripiprazole tablets in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with aripiprazole tablets, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
 
@@ -21,10 +21,10 @@ Suicide is a known risk of depression and certain other psychiatric disorders, a
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
-The pooled analyses of placebo-controlled trials in children and adolescents with Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications.
+There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 3.
 Table 3:
@@ -40,13 +40,13 @@ Table 3:
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
-It is unknown whether the suicidality risk extends to longer-term use, i.e, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, ie, beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for indications, both psychiatric and nonpsychiatric.
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for MDD as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-Families and caregivers of patients being treated with antidepressants for indications, both psychiatric and nonpsychiatric, should be altered about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for aripiprazole tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
@@ -110,7 +110,7 @@ Table 4: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials i
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole tablets | 31/822 | 3.8 |
 | Placebo | 22/605 | 3.6 |  |  |
-| Borderlineto High (≥100 mg/dL and <126 mg/dLto ≥ 126 mg/dL) | Aripiprazole tablets | 31/76 | 17.6 |  |
+| Borderlineto High (≥100 mg/dL and <126 mg/dLto ≥ 126 mg/dL) | Aripiprazole tablets | 31/176 | 17.6 |  |
 | Placebo | 13/142 | 9.2 |  |  |
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole tablets-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
@@ -189,14 +189,14 @@ To adjust for normal growth, z-scores were derived (measured in standard deviati
 A z-score change <0.5 SD is considered not clinically significant.
 After 26 weeks, the mean change in z-score was 0.09 SD.
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
-Pediatric use information is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY ® (aripiprazole) product.
+However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.7 Orthostatic Hypotension
 
 Aripiprazole tablets may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole tablets (n=2467) included (aripiprazole tablets incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole tablets included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%).
-[see ADVERSE REACTIONS (6.1)] The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole tablets was not meaningfully different from placebo (aripiprazole tablets incidence, placebo incidence): in adult oral aripiprazole tablets¬-treated patients (4%, 2%), in pediatric oral aripiprazole tablets-treated patients aged 6 to 18 years (0.4%, 1%).
+[see ADVERSE REACTIONS (6.1)] The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole tablets was not meaningfully different from placebo (aripiprazole tablets incidence, placebo incidence): in adult oral aripiprazole tablets-treated patients (4%, 2%), in pediatric oral aripiprazole tablets-treated patients aged 6 to 18 years (0.4%, 1%).
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 [see DRUG INTERACTIONS (7.1)].
 
@@ -226,15 +226,15 @@ Despite the relatively modest increased incidence of these events compared to pl
 ## 5.11 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing aripiprazole tablets for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (eg, exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
+Appropriate care is advised when prescribing aripiprazole tablets for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.2)].
 
 ## 5.12 Suicide
 
-The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in psychotic illnesses and bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for aripiprazole tablets should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
 
 ## 5.13 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including aripiprazole tablets.
-Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
+Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
 Aripiprazole tablets and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.2)].

@@ -3,8 +3,8 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unknown.
-However, the efficacy of aripiprazole is mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
-Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (eg, the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
+However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
+Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the other clinical effects of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
 ## 12.2 Pharmacodynamics
 
@@ -18,12 +18,12 @@ Aripiprazole tablets activity is presumably primarily due to the parent drug, ar
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.
-At steady-state, the pharmacokinetics of aripiprazole are dose-proportional.
+At steady-state, the pharmacokinetics of aripiprazole is dose-proportional.
 Elimination of aripiprazole is mainly through hepatic metabolism involving two P450 isozymes, CYP2D6 and CYP3A4.
 For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is about 146 hours.
 ORAL ADMINISTRATION Absorption Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 Aripiprazole tablets can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-¬aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro¬-aripiprazole.
+Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-¬aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 Distribution The steady-state volume of distribution of aripiprazole following intravenous administration is high (404 L or 4.9 L/kg), indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
 In healthy human volunteers administered 0.5 mg/day to 30 mg/day aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
@@ -43,4 +43,4 @@ Figure 3: The effects of aripiprazole on pharmacokinetics of other drugs
 
 Studies in Specific Populations Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with aripiprazole tablets (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
-Figure 4 Effects of intrinsic factors on aripiprazole pharmacokinetics Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics:
+Figure 4: Effects of intrinsic factors on aripiprazole pharmacokinetics Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics
