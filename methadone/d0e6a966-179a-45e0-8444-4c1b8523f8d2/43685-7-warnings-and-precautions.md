@@ -25,8 +25,7 @@ Contact local state professional licensing board or state controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of long-acting opioids, even when used as recommended.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [seeOverdosage (10)].Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone, the risk is greatest during the initiation of therapy or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.

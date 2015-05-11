@@ -5,4 +5,4 @@ Methadone Hydrochloride IntensolTM (Oral Concentrate USP) is contraindicated in 
 - •Significant respiratory depression
 - •Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
 - •Known or suspected paralytic ileus
-- •Hypersensitivity (e.g., anaphylaxis) to methadone [see Adverse Reactions (6)]
+- •Hypersensitivity (e.g., anaphylaxis) to methadone [seeAdverse Reactions (6)]
