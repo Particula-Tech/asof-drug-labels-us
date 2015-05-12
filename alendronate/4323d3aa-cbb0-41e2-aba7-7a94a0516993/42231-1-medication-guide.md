@@ -159,8 +159,8 @@ They may harm them.
 This Medication Guide summarizes the most important information about alendronate sodium tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about alendronate sodium tablets that is written for health professionals.
-For more information, call 1-800-206-7821.
+For more information, call Northstar Rx LLC at 1-800-206-7821.
 What are the ingredients in alendronate sodium tablets?
 Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: corn starch, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 02/2014
+Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 04/2015

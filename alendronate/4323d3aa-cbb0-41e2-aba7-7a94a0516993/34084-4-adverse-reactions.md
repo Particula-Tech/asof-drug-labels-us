@@ -78,7 +78,7 @@ Weekly Dosing The safety of alendronate 35 mg once weekly compared to alendronat
 The overall safety and tolerability profiles of once weekly alendronate 35 mg and alendronate 5 mg daily were similar.
 The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either once weekly alendronate 35 mg, alendronate 5 mg/day or placebo are presented in Table 3.
 
-Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Grater Than or Equal to 1% of Patients
+Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 | Alendronate 5 mg/day % (n=642) | Placebo % (n=648) | Alendronate 5 mg/day % (n=361) | Once Weekly Alendronate 35 mg % (n=362) |  |
 | --- | --- | --- | --- | --- |
