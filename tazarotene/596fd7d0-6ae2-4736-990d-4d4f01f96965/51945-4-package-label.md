@@ -2,7 +2,7 @@ PRODUCT DISPLAY PANEL
 
 NDC 0145-0020-03
 
-Fabior™
+Fabior®
 
 (tazarotene) Foam, 0.1%
 
@@ -14,8 +14,9 @@ Store upright
 
 Rx only
 
-©2012 Stiefel Laboratories, Inc.
+©2014 Stiefel Laboratories, Inc.
 
-Rev 1/13
+Rev.
+5/14
 
-10000000110596
+10000000124106
