@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA203691"
+  ],
+  "inn": "temozolomide",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-801-14",
+    "65162-801-51",
+    "65162-802-14",
+    "65162-802-51",
+    "65162-803-14",
+    "65162-803-51",
+    "65162-804-14",
+    "65162-804-51",
+    "65162-805-14",
+    "65162-805-51",
+    "65162-806-51"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "temozolomide",
+      "name": "Temozolomide"
+    }
+  ],
+  "setid": "6c8529ec-8936-4fec-a1a5-2b285c7e4859",
+  "source": "dailymed"
+}
