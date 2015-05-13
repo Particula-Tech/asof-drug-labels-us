@@ -65,7 +65,7 @@ CAUTIONS
 | 9) The first key press shows the Morning Dose on the display. Press Check for on the display. The number on your display is the Morning Dose of DUOPA your healthcare provider prescribed for you. |  |  |
 | 10) The second key press starts Morning Dose delivery. Press a second time to deliver the Morning Dose.The display shows a countdown of your Morning Dose. |  |  |
 | PUMP STATUS: After the Morning Dose finishes, the pump will automatically begin delivering the Continuous Rate. RUN will appear on the display. This completes DUOPA delivery for your Morning Procedure. |  |  |
-| 11) Insert pump into the carrying bag (see Figure J). |  |  |
+| 11) Insert pump into the carrying bag (see Figure J). Other carrying cases are also available. Refer to the specific Instructions for Use, which accompanies your carrying case. |  |  |
 | 12) Wear the bag over your shoulder or neck: Place the bag strap over your shoulder or neck (see Figure K).Make sure the pump is in correct position (see Figure L). |  |  |
 
 | Extra Dose |
@@ -167,4 +167,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 | --- | --- | --- |
 | Pump manufactured by: Smiths Medical ASD, Inc. 1265 Grey Fox Road St. Paul, MN 55112 USA Tel: 1-800-258-5361 www.smiths-medical.com |  |  |
 
-03-B052 Revised: January 2015
+03-B169 Revised: May 2015

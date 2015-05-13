@@ -26,7 +26,7 @@ The plasma concentrations versus time profile for levodopa with DUOPA 16-hour in
 
 Absorption and Bioavailability
 
-Following 16-hour intrajejunal infusion of DUOPA, peak plasma levels of levodopa is reached at 2.5 hours.
+Following initiation of the 16-hour intrajejunal infusion of DUOPA, peak plasma levels of levodopa is reached at 2.5 hours.
 The absorption of levodopa may be decreased in patients on a high-protein diet because levodopa competes with certain amino acids for transport across the gut wall.
 The gastric emptying rate does not influence the absorption of DUOPA since it is administered by continuous intestinal infusion.
 In a cross-study population pharmacokinetic analysis, DUOPA had comparable bioavailability to the oral immediate-release carbidopa-levodopa (25/100 mg) tablets (over-encapsulated tablets).

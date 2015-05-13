@@ -26,7 +26,7 @@ In clinical studies, 416 patients with advanced Parkinson’s disease received D
 In a 12-week, active-controlled clinical trial (Study 1), a total of 71 patients with advanced Parkinson’s disease were enrolled and had a PEG-J procedure.
 Of these, 37 patients received DUOPA and 34 received oral immediate-release carbidopa-levodopa.
 
-The most common adverse reactions for DUOPA (incidence at least 7% greater than oral immediate-release carbidopa-levodopa) were: complication of device insertion, nausea, depression, peripheral edema, hypertension, upper respiratory tract infection, oropharyngeal pain, and incision site erythema.
+The most common adverse reactions for DUOPA (incidence at least 7% greater than oral immediate-release carbidopa-levodopa) were: complication of device insertion, nausea, depression, peripheral edema, hypertension, upper respiratory tract infection, oropharyngeal pain, atelectasis, and incision site erythema.
 
 Table 3 lists the incidence of adverse reactions occurring in the DUOPA-treated group (requiring at least 2 patients in this group) in Study 1 when the incidence was numerically greater than that for oral immediate-release carbidopa-levodopa.
 
@@ -70,4 +70,4 @@ The most common adverse reactions associated with complications due to naso-jeju
 
 The most common adverse reactions associated with complications due to PEG-J insertion were: abdominal pain, abdominal discomfort, abdominal distension, flatulence, or pneumoperitoneum.
 
-Additional adverse reactions that were co-reported with complication of naso-jejunal and PEG-J insertion included upper abdominal pain upper, duodenal ulcer, duodenal ulcer hemorrhage, erosive duodenitis, erosive gastritis erosive, gastrointestinal hemorrhage, peritonitis, post-operative abscess, and small intestine ulcer.
+Additional adverse reactions that were co-reported with complication of naso-jejunal and PEG-J insertion included upper abdominal pain, duodenal ulcer, duodenal ulcer hemorrhage, erosive duodenitis, erosive gastritis, gastrointestinal hemorrhage, peritonitis, post-operative abscess, and small intestine ulcer.

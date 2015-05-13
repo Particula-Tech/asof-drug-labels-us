@@ -53,7 +53,7 @@ The steps for determining the initial DUOPA daily dosing (Morning Dose and Conti
 | a. | Determine the amount of oral immediate-release levodopa that the patient received from oral immediate-release carbidopa-levodopa doses throughout the previous day (16 waking hours), in milligrams. Do not include the doses of oral immediate-release carbidopa-levodopa taken at night when calculating the levodopa amount. |
 | b. | Subtract the first oral levodopa dose in milligrams taken by the patient on the previous day (determined in Step 1 (a)) from the total oral levodopa dose in milligrams taken over 16 waking hours (determined in Step 2 (a)). Divide the result by 20 mg/mL. This is the dose of DUOPA administered as a Continuous Dose (in mL) over 16 hours. |
 | c. | The hourly infusion rate (mL per hour) is obtained by dividing the Continuous Dose by 16 (hours). This value will be programmed into the pump as the continuous rate. |
-| d. | If persistent or numerous “Off” periods occur during the 16-hour infusion, consider increasing the Continuous Dose or using the Extra Dose function. If dyskinesia or levodopa-related adverse reactions occur, consider decreasing the Continuous Dose or stopping the infusion until the adverse reactions subside. |
+| d. | If persistent or numerous “Off” periods occur during the 16-hour infusion, consider increasing the Continuous Dose or using the Extra Dose function. If dyskinesia or DUOPA-related adverse reactions occur, consider decreasing the Continuous Dose or stopping the infusion until the adverse reactions subside. |
 
 DUOPA Titration
 
@@ -71,11 +71,11 @@ If there was an inadequate clinical response within 1 hour of the Morning Dose o
 - If the Morning Dose on the preceding day was less than or equal to 6 mL, increase the Morning Dose by 1 mL.
 - If the Morning Dose on the preceding day was greater than 6 mL, increase the Morning Dose by 2 mL.
 
-If the patient experienced dyskinesias or levodopa-related adverse reactions within 1 hour of the Morning Dose on the preceding day, decrease the Morning Dose by 1 mL.
+If the patient experienced dyskinesias or DUOPA-related adverse reactions within 1 hour of the Morning Dose on the preceding day, decrease the Morning Dose by 1 mL.
 
 Continuous Dose Adjustment
 
-Consider increasing the Continuous Dose based on the number and volume of Extra Doses of DUOPA (i.e., total amount of levodopa component) that was needed for the previous day and the patient’s clinical response.
+Consider increasing the Continuous Dose based on the number and volume of Extra Doses of DUOPA (i.e., total amount of levodopa component) that were needed for the previous day and the patient’s clinical response.
 
 Consider decreasing the Continuous Dose if the patient experienced troublesome dyskinesia, or other troublesome DUOPA-related adverse reactions on the preceding day:
 
@@ -105,7 +105,7 @@ Recommended Tubing Sets for Long-Term PEG-J DUOPA Administration
 
 | Product Name | Manufacturer |
 | --- | --- |
-| AbbVie™ PEG 15 and 20 Fr AbbVie™ J | AbbVie Inc. AbbVie Inc. |
+| AbbVie PEG 15 and 20 Fr AbbVie J | AbbVie Inc. AbbVie Inc. |
 | EndoVive™ Standard PEG Kit – Pull Method EndoVive™ Two-Port Through the PEG Jejunal Feeding Tube Kit | Boston Scientific Corp. Boston Scientific Corp. |
 
 Table 2.
@@ -113,7 +113,7 @@ Recommended Tubing Sets for Short-Term Naso-Jejunal DUOPA Administration
 
 | Product Name | Manufacturer |
 | --- | --- |
-| AbbVie™ NJ | AbbVie Inc. |
+| AbbVie NJ | AbbVie Inc. |
 | NJFT-10 | Wilson-Cook Medical, Inc. |
 | Kangaroo™ Naso-Jejunal Feeding Tube | Covidien |
 | Kangaroo™ | Covidien |

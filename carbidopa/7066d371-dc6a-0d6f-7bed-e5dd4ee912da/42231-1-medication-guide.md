@@ -171,7 +171,7 @@ DUOPA may cause serious side effects, including:
   It is not known if the chance of having melanoma is higher because of the medicines used to treat Parkinson’s disease, like DUOPA, or from the Parkinson’s disease.
   People who use DUOPA should have their skin checked regularly for melanoma by a qualified healthcare professional.
 - Abnormal blood tests.
-  DUOPA may cause chances in certain blood tests, especially certain hormone and kidney function blood tests.
+  DUOPA may cause changes in certain blood tests, especially certain hormone and kidney function blood tests.
 - Worsening of the increased pressure in your eyes (glaucoma).
   The pressure in your eyes should be checked after starting DUOPA.
 - The most common side effects of DUOPA include:
