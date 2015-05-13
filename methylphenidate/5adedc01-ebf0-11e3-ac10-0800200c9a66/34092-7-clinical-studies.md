@@ -29,7 +29,7 @@ Patients could then enter another open-label phase for up to 21 months.
 
 The primary efficacy endpoint was the mean decrease from baseline to the end of Week 1 in the ADHD-RS-IV Total Score.
 Each of the four APTENSIO XR doses (10 mg, 15 mg, 20 mg, and 40 mg/day) was compared to placebo at the end of week 1.
-For both the 20 mg/day and the 40 mg/day doses, APTENSIO XR was superior to placebo in reduction of the ADHD-RS-IV Total Score, but not for the 10mg/day or the 15 mg/day doses.
+For both the 20 mg/day and the 40 mg/day doses, APTENSIO XR was superior to placebo in reduction of the ADHD-RS-IV Total Score, but not for the 10 mg/day or the 15 mg/day doses.
 
 A total of 221 patients completed the 1-week double-blind phase.
 Among those, 200 (90.5%) completed the 11-week open label phase and 173 (86.5%) patients continued into the 21-month open-label extension phase.

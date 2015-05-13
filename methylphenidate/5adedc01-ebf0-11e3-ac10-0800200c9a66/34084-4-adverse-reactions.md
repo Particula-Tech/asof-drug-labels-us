@@ -54,7 +54,7 @@ Table 1: Common Adverse Reactions Occurring in ≥ 2% of Pediatric Patients (6 t
 | Metabolism and Nutritional |  |  |
 | Decreased Appetite | 4.9% | 0% |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post approval use of methylphenidate products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

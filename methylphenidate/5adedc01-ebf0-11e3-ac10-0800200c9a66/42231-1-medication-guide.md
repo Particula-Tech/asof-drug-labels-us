@@ -168,6 +168,6 @@ Inactive Ingredients: sugar spheres, hypromelloses, polyethylene glycol, ammonio
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816 Manufactured by: Patheon, Greenville, North Carolina 27834
+Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816 Manufactured by: Patheon Manufacturing Services LLC, Greenville, North Carolina 27834
 
 Issued April 2015
