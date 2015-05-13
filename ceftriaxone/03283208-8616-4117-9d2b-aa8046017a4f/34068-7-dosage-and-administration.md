@@ -33,7 +33,6 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
-For infections caused by Staphylococcus aureus(MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
@@ -68,8 +67,8 @@ As with all intramuscular preparations, ceftriaxone should be injected well with
 | 250 mg/mL | 350 mg/mL |  |
 | 250 mg | 0.9 mL | – |
 | 500 mg | 1.8 mL | 1 mL |
-| 1 gm | 3.6 mL | 2.1 mL |
-| 2 gm | 7.2 mL | 4.2 mL |
+| 1 g | 3.6 mL | 2.1 mL |
+| 2 g | 7.2 mL | 4.2 mL |
 
 ### Intravenous Administration
 
@@ -81,8 +80,8 @@ Reconstitute vials with an appropriate IV diluent (see DOSAGE AND ADMINISTRATION
 | --- | --- |
 | 250 mg | 2.4 mL |
 | 500 mg | 4.8 mL |
-| 1 gm | 9.6 mL |
-| 2 gm | 19.2 mL |
+| 1 g | 9.6 mL |
+| 2 g | 19.2 mL |
 
 After reconstitution, each 1 mL of solution contains approximately 100 mg equivalent of ceftriaxone.
 Withdraw entire contents and dilute to the desired concentration with the appropriate IV diluent.
