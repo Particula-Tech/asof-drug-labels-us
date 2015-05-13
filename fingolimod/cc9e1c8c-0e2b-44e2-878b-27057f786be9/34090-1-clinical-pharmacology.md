@@ -21,18 +21,18 @@ Fingolimod treatment is not associated with a decrease in cardiac output.
 
 Potential to Prolong the QT Interval
 
-In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTc, with the upper bound of the 90% confidence interval (CI) of 14.0 msec.
+In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTc, with the upper boundary of the 90% confidence interval (CI) of 14.0 msec.
 There is no consistent signal of increased incidence of QTc outliers, either absolute or change from baseline, associated with fingolimod treatment.
-In MS studies, there was no clinically relevant prolongation of QT interval, but patients at risk for QT prolongation were not included in clinical studies.
+In MS studies, there was no clinically relevant prolongation of the QT interval, but patients at risk for QT prolongation were not included in clinical studies.
 
 Immune System
 
 Effects on Immune Cell Numbers in the Blood
 
-In a study in which 12 subjects received GILENYA 0.5 mg daily, the lymphocyte count decreased to approximately 60% of baseline within 4-6 hours after the first dose.
-With continued daily dosing, the lymphocyte count continued to decrease over a 2-week period, reaching a nadir count of approximately 500 cells/μL or approximately 30% of baseline.
-In a placebo-controlled study in 1272 MS patients (of whom 425 received fingolimod 0.5 mg daily and 418 received placebo), 18% (N=78) of patients on fingolimod 0.5 mg reached a nadir of <200 cells/μL on at least 1 occasion.
-No patient on placebo reached a nadir of <200 cells/μL.
+In a study in which 12 subjects received GILENYA 0.5 mg daily, the lymphocyte count decreased to approximately 60% of baseline within 4 to 6 hours after the first dose.
+With continued daily dosing, the lymphocyte count continued to decrease over a 2-week period, reaching a nadir count of approximately 500 cells/mcL or approximately 30% of baseline.
+In a placebo-controlled study in 1272 MS patients (of whom 425 received fingolimod 0.5 mg daily and 418 received placebo), 18% (N=78) of patients on fingolimod 0.5 mg reached a nadir of <200 cells/mcL on at least 1 occasion.
+No patient on placebo reached a nadir of <200 cells/mcL.
 Low lymphocyte counts are maintained with chronic daily dosing of GILENYA 0.5 mg daily.
 
 Chronic fingolimod dosing leads to a mild decrease in the neutrophil count to approximately 80% of baseline.
@@ -87,11 +87,10 @@ Fingolimod is extensively distributed to body tissues with a volume of distribut
 
 Metabolism
 
-The biotransformation of fingolimod in humans occurs by 3 main pathways: by reversible stereoselective phosphorylation to the pharmacologically active (S)-enantiomer of fingolimod-phosphate, by oxidative biotransformation mainly via the cytochrome P450 4F2 isoenzyme and subsequent fatty acid-like degradation to inactive metabolites, and by formation of pharmacologically inactive non-polar ceramide analogs of fingolimod.
+The biotransformation of fingolimod in humans occurs by 3 main pathways: by reversible stereoselective phosphorylation to the pharmacologically active (S)-enantiomer of fingolimod-phosphate, by oxidative biotransformation catalyzed mainly by the cytochrome P450 4F2 (CYP4F2) and possibly other CYP4F isoenzymes with subsequent fatty acid-like degradation to inactive metabolites, and by formation of pharmacologically inactive non-polar ceramide analogs of fingolimod.
 
-Fingolimod is primarily metabolized via human CYP4F2 with a minor contribution of CYP2D6, 2E1, 3A4, and 4F12.
-Inhibitors or inducers of these isozymes might alter the exposure of fingolimod or fingolimod-phosphate.
-The involvement of multiple CYP isoenzymes in the oxidation of fingolimod suggests that the metabolism of fingolimod will not be subject to substantial inhibition in the presence of an inhibitor of a single specific CYP isozyme.
+Inhibitors or inducers of CYP4F2 and possibly other CYP4F isozymes might alter the exposure of fingolimod or fingolimod-phosphate.
+In vitro studies in hepatocytes indicated that CYP3A4 may contribute to fingolimod metabolism in the case of strong induction of CYP3A4.
 
 Following single oral administration of [14C] fingolimod, the major fingolimod-related components in blood, as judged from their contribution to the AUC up to 816 hours post-dose of total radiolabeled components, are fingolimod itself (23.3%), fingolimod-phosphate (10.3%), and inactive metabolites [M3 carboxylic acid metabolite (8.3%), M29 ceramide metabolite (8.9%), and M30 ceramide metabolite (7.3%)].
 
@@ -103,7 +102,20 @@ Blood levels of fingolimod-phosphate decline in parallel with those of fingolimo
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites.
 Fingolimod and fingolimod-phosphate are not excreted intact in urine but are the major components in the feces with amounts of each representing less than 2.5% of the dose.
 
-Special Populations
+Specific Populations
+
+Geriatric Patients
+
+The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in elderly patients.
+However, clinical experience in patients aged above 65 years is limited.
+
+Gender
+
+Gender has no clinically significant influence on fingolimod and fingolimod-phosphate pharmacokinetics.
+
+Race
+
+The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of non-white patients in the clinical program.
 
 Renal Impairment
 
@@ -116,38 +128,25 @@ A study in patients with mild or moderate renal impairment has not been conducte
 
 Hepatic Impairment
 
-In subjects with mild, moderate, or severe hepatic impairment, no change in fingolimod Cmax was observed, but fingolimod AUC was increased respectively by 12%, 44%, and 103%.
-In patients with severe hepatic impairment, fingolimod-phosphate Cmax was decreased by 22% and AUC was not substantially changed.
+In subjects with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, and C), no change in fingolimod Cmax was observed, but fingolimod AUC0-∞ was increased respectively by 12%, 44%, and 103%.
+In patients with severe hepatic impairment (Child-Pugh class C), fingolimod-phosphate Cmax was decreased by 22% and AUC0-96 hours was decreased by 29%.
 The pharmacokinetics of fingolimod-phosphate was not evaluated in patients with mild or moderate hepatic impairment.
 The apparent elimination half-life of fingolimod is unchanged in subjects with mild hepatic impairment, but is prolonged by about 50% in patients with moderate or severe hepatic impairment.
 
-Patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions is greater [see Warnings and Precautions (5.6)].
+Patients with severe hepatic impairment (Child-Pugh class C) should be closely monitored, as the risk of adverse reactions is greater [see Warnings and Precautions (5.6)].
 
-No dose adjustment is needed in patients with mild or moderate hepatic impairment.
+No dose adjustment is needed in patients with mild or moderate hepatic impairment (Child-Pugh class A and B).
 
-Race
-
-The effects of race on fingolimod and fingolimod-phosphate pharmacokinetics cannot be adequately assessed due to a low number of non-white patients in the clinical program.
-
-Gender
-
-Gender has no clinically significant influence on fingolimod and fingolimod-phosphate pharmacokinetics.
-
-Geriatric Patients
-
-The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in elderly patients.
-However, clinical experience in patients aged above 65 years is limited.
-
-Pharmacokinetic Interactions
+Drug Interactions
 
 Ketoconazole
 
-The coadministration of ketoconazole (a potent inhibitor of CYP3A and CYP4F) 200 mg twice daily at steady-state and a single dose of fingolimod 5 mg led to a 70% increase in AUC of fingolimod and fingolimod-phosphate.
+The coadministration of ketoconazole (a potent inhibitor of CYP3A and CYP4F) 200 mg twice-daily at steady-state and a single dose of fingolimod 5 mg led to a 70% increase in AUC of fingolimod and fingolimod-phosphate.
 Patients who use GILENYA and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is greater [see Drug Interactions (7)].
 
 Carbamazepine
 
-The coadministration of carbamazepine (a potent CYP450 enzyme inducer) 600 mg twice daily at steady-state and a single dose of fingolimod 2 mg decreased blood concentrations (AUC) of fingolimod and fingolimod-phosphate by approximately 40%.
+The coadministration of carbamazepine (a potent CYP450 enzyme inducer) 600 mg twice-daily at steady-state and a single dose of fingolimod 2 mg decreased blood concentrations (AUC) of fingolimod and fingolimod-phosphate by approximately 40%.
 The clinical impact of this decrease is unknown.
 
 Other strong CYP450 enzyme inducers, e.g., rifampicin, phenytoin, phenobarbital, and St. John’s wort, may also reduce AUC of fingolimod and fingolimod-phosphate.
@@ -155,20 +154,21 @@ The clinical impact of this potential decrease is unknown.
 
 Potential of Fingolimod and Fingolimod-phosphate to Inhibit the Metabolism of Comedications
 
-In vitro inhibition studies in pooled human liver microsomes and specific metabolic probe substrates demonstrate that fingolimod has little or no capacity to inhibit the activity of the following CYP450 enzymes: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, or CYP4A9/11, and similarly fingolimod-phosphate has little or no capacity to inhibit the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 at concentrations up to 3 orders of magnitude of therapeutic concentrations.
-Therefore, fingolimod and fingolimod-phosphate are unlikely to reduce the clearance of drugs that are mainly cleared through metabolism by the major cytochrome P450 isoenzymes described above.
+In vitro inhibition studies using pooled human liver microsomes and specific metabolic probe substrates demonstrate that fingolimod has little or no capacity to inhibit the activity of the following CYP enzymes: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, or CYP4A9/11 (fingolimod only), and similarly fingolimod-phosphate has little or no capacity to inhibit the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 at concentrations up to 3 orders of magnitude of therapeutic concentrations.
+Therefore, fingolimod and fingolimod-phosphate are unlikely to reduce the clearance of drugs that are mainly cleared through metabolism by the major CYP isoenzymes described above.
 
 Potential of Fingolimod and Fingolimod-phosphate to Induce its Own and/or the Metabolism of Comedications
 
 Fingolimod was examined for its potential to induce human CYP3A4, CYP1A2, CYP4F2, and MDR1 (P-glycoprotein) mRNA and CYP3A, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP4F2 activity in primary human hepatocytes.
-Fingolimod did not induce mRNA or activity of the different CYP450 enzymes and MDR1 with respect to the vehicle control; therefore, no clinically relevant induction of the tested CYP450 enzymes or MDR1 by fingolimod are expected at therapeutic concentrations.
+Fingolimod did not induce mRNA or activity of the different CYP enzymes and MDR1 with respect to the vehicle control; therefore, no clinically relevant induction of the tested CYP enzymes or MDR1 by fingolimod are expected at therapeutic concentrations.
 Fingolimod-phosphate was also examined for its potential to induce mRNA and/or activity of human CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A, CYP4F2, CYP4F3B, and CYP4F12.
 Fingolimod-phosphate is not expected to have clinically significant induction effects on these enzymes at therapeutic dose of fingolimod.
+In vitro experiments did not provide an indication of CYP induction by fingolimod-phosphate.
 
 Transporters
 
-Fingolimod as well as fingolimod-phosphate are not expected to inhibit the uptake of comedications and/or biologics transported by OATP1B1, OATP1B3, or NTCP.
-Similarly, they are not expected to inhibit the efflux of comedications and/or biologics transported by the breast cancer resistant protein (MXR), the bile salt export pump (BSEP), the multidrug resistance-associated protein 2 (MRP2), and MDR1-mediated transport at therapeutic concentrations.
+Based on in vitro data, fingolimod as well as fingolimod-phosphate are not expected to inhibit the uptake of comedications and/or biologics transported by the organic anion transporting polypeptides OATP1B1, OATP1B3, or the sodium taurocholate co-transporting polypeptide (NTCP).
+Similarly, they are not expected to inhibit the efflux of comedications and/or biologics transported by the breast cancer resistance protein (BCRP), the bile salt export pump (BSEP), the multidrug resistance-associated protein 2 (MRP2), or P-glycoprotein (P-gp) at therapeutic concentrations.
 
 Oral Contraceptives
 
@@ -179,7 +179,8 @@ No interaction studies have been performed with oral contraceptives containing o
 Cyclosporine
 
 The pharmacokinetics of single-dose fingolimod was not altered during coadministration with cyclosporine at steady-state, nor was cyclosporine steady-state pharmacokinetics altered by fingolimod.
-These data indicate that GILENYA is unlikely to reduce the clearance of drugs mainly cleared by CYP3A4 and show that the potent inhibition of transporters MDR1, MRP2, and OATP-C does not influence fingolimod disposition.
+These data indicate that GILENYA is unlikely to reduce or increase the clearance of drugs cleared mainly by CYP3A4.
+Potent inhibition of transporters MDR1 (P-gp), MRP2, and OATP-1B1 does not influence fingolimod disposition.
 
 Isoproterenol, Atropine, Atenolol, and Diltiazem
 

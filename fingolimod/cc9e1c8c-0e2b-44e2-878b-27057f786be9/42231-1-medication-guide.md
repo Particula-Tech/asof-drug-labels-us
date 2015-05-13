@@ -2,7 +2,7 @@
 
 GILENYA® (je-LEN-yah) (fingolimod) capsules
 
-Read this Medication Guide before you start using Gilenya and each time you get a refill.
+Read this Medication Guide before you start using GILENYA and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your health problem or treatment.
 
@@ -99,7 +99,7 @@ Before you take GILENYA, tell your doctor about all your medical conditions, inc
 - a fever or infection, or you are unable to fight infections due to a disease or taking medicines that lower your immune system.
   Tell your doctor if you have had chicken pox or have received the vaccine for chicken pox.
   Your doctor may do a blood test for chicken pox virus.
-  You may need to get the vaccine for chicken pox and then wait 1 month before you start taking GILENYA.
+  You may need to get the full course of the vaccine for chicken pox and then wait 1 month before you start taking GILENYA.
 - eye problems, especially an inflammation of the eye called uveitis.
 - diabetes
 - breathing problems, including during your sleep
@@ -120,7 +120,7 @@ Before you take GILENYA, tell your doctor about all your medical conditions, inc
   You should not do both.
 
 Tell your doctor about all the medicines you take or have recently taken, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take medicines that affect your immune system, or have taken them in the past.
+Especially tell your doctor if you take medicines that affect your immune system, including corticosteroids, or have taken them in the past.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your doctor and pharmacist when you get a new medicine.
@@ -129,7 +129,7 @@ Using GILENYA and other medicines together may affect each other causing serious
 
 Especially tell your doctor if you take vaccines.
 Tell your doctor if you have been vaccinated within 1 month before you start taking GILENYA.
-You should not get certain vaccines while you take GILENYA and for at least 2 months after you stop taking GILENYA.
+You should not get certain vaccines, called live attenuated vaccines, while you take GILENYA and for at least 2 months after you stop taking GILENYA.
 If you take certain vaccines, you may get the infection the vaccine should have prevented.
 Vaccines may not work as well when given during GILENYA treatment.
 
@@ -161,9 +161,11 @@ See "What is the most important information I should know about GILENYA?"
 
 Serious side effects include:
 
-- swelling and narrowing of the blood vessels in your brain that may lead to a stroke or bleeding.
-  This problem usually gets better when you stop taking GILENYA.
-  Call your doctor right away if you have any of the following symptoms of a stroke or bleeding in your brain, including:
+- swelling and narrowing of the blood vessels in your brain.
+  A condition called PRES (Posterior reversible encephalopathy syndrome) has occurred rarely in patients taking GILENYA.
+  Symptoms of PRES usually get better when you stop taking GILENYA.
+  However, if left untreated it may lead to a stroke.
+  Call your doctor right away if you have any of the following symptoms:
   - sudden headache
   - confusion
   - seizures
@@ -187,11 +189,14 @@ Serious side effects include:
 The most common side effects of GILENYA include:
 
 - headache
-- flu
-- diarrhea
-- back pain
 - abnormal liver tests
+- diarrhea
 - cough
+- flu
+- sinusitis
+- back pain
+- abdominal pain
+- pain in arms or legs
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -235,6 +240,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2014-87
+T2015-86
 
-Revised: August 2014
+Revised: May 2014

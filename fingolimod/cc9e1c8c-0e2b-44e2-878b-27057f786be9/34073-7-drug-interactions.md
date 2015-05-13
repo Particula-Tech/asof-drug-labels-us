@@ -15,12 +15,12 @@ Vaccines
 
 GILENYA reduces the immune response to vaccination.
 Vaccination may be less effective during and for up to 2 months after discontinuation of treatment with GILENYA [see Clinical Pharmacology (12.2)].
-The use of live attenuated vaccines should be avoided during and for 2 months after treatment with GILENYA because of the risk of infection.
+Avoid the use of live attenuated vaccines during and for 2 months after treatment with GILENYA because of the risk of infection.
 
-Antineoplastic, Immunosuppressive, or Immunomodulating Therapies
+Antineoplastic, Immunosuppressive, or Immune-Modulating Therapies
 
-Antineoplastic, immunosuppressive, or immune-modulating therapies are expected to increase the risk of immunosuppression.
-Use caution when switching patients from long-acting therapies with immune effects such as natalizumab or mitoxantrone [see Warnings and Precautions (5.2)].
+Antineoplastic, immune-modulating, or immunosuppressive therapies, (including corticosteroids) are expected to increase the risk of immunosuppression, and the risk of additive immune system effects must be considered if these therapies are coadministered with GILENYA.
+When switching from drugs with prolonged immune effects, such as natalizumab, teriflunomide or mitoxantrone, the duration and mode of action of these drugs must be considered to avoid unintended additive immunosuppressive effects when initiating GILENYA [see Warnings and Precautions (5.2)].
 
 Drugs That Slow Heart Rate or Atrioventricular Conduction (e.g., beta blockers or diltiazem)
 

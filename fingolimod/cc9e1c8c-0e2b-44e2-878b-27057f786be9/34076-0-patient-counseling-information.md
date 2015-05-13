@@ -1,17 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-A Medication Guide is required for distribution with GILENYA.
-Encourage patients to read the GILENYA Medication Guide.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Benefits and Risks
-
-Summarize for patients the benefits and potential risks of treatment with GILENYA.
-Tell patients to take GILENYA once daily as prescribed.
 Tell patients not to discontinue GILENYA without first discussing this with the prescribing physician.
-Advise patients to contact their physician if they accidently take more Gilenya than prescribed.
+Advise patients to contact their physician if they accidently take more GILENYA than prescribed.
 
 Cardiac Effects
 
@@ -23,7 +15,7 @@ Risk of Infections
 
 Inform patients that they may be more likely to get infections when taking GILENYA, and that they should contact their physician if they develop symptoms of infection.
 Advise patients that the use of some vaccines should be avoided during treatment with GILENYA and for 2 months after discontinuation.
-Advise patients who have not had chickenpox or vaccination to consider VZV vaccination prior to commencing treatment with GILENYA.
+Recommend to patients that they delay treatment with GILENYA until after VZV vaccination if they have not had chickenpox or a previous VZV vaccination.
 Inform patients that prior or concomitant use of drugs that suppress the immune system may increase the risk of infection.
 
 Macular Edema
@@ -47,8 +39,8 @@ Discuss with women of childbearing age whether they are pregnant, might be pregn
 Advise women of childbearing age of the need for effective contraception during GILENYA treatment and for 2 months after stopping GILENYA.
 Advise the patient that if she should nevertheless become pregnant, she should immediately inform her physician.
 
-Persistence of GILENYA Effects After Drug Discontinuation
+Persistence of GILENYA Effects after Drug Discontinuation
 
 Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose.
 
-T2014-86 August 2014
+T2015-85 May 2015

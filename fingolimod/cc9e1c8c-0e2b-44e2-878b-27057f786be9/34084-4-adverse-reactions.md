@@ -9,63 +9,68 @@ The following serious adverse reactions are described elsewhere in labeling:
 - Respiratory Effects [see Warnings and Precautions (5.5)]
 - Liver Injury [see Warnings and Precautions (5.6)]
 
-The most frequent adverse reactions (incidence ≥10% and >placebo) for GILENYA 0.5 mg were headache, influenza, diarrhea, back pain, liver enzyme elevations, and cough.
-The only adverse event leading to treatment interruption reported at an incidence >1% for GILENYA 0.5 mg was serum transaminase elevations (3.8%).
-
 ## 6.1 Clinical Trials Experience
 
-A total of 1703 patients on GILENYA (0.5 or 1.25 mg once daily) constituted the safety population in the 2 controlled studies in patients with relapsing-remitting MS (RRMS) [see Clinical Studies (14)].
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Study 1 was a 2-year placebo-controlled clinical study in 1272 MS patients treated with GILENYA 0.5 mg (N=425), GILENYA 1.25 mg (N=429), or placebo (N=418).
+In clinical trials (Studies 1, 2, and 3), a total of 1212 patients with relapsing forms of multiple sclerosis received GILENYA 0.5 mg.
+This included 783 patients who received GILENYA 0.5 mg in the 2-year placebo-controlled trials (Studies 1 and 3) and 429 patients who received GILENYA 0.5 mg in the 1 year active-controlled trial (Study 2).
+The overall exposure in the controlled trials was equivalent to 1716 person-years.
+Approximately 1000 patients received at least 2 years of treatment with GILENYA 0.5 mg.
+In all clinical studies, including uncontrolled extension studies, the exposure to GILENYA 0.5 mg was approximately 4119 person-years.
 
-Table 1 Adverse Reactions in Study 1 (Occurring in ≥1% of Patients and Reported for GILENYA 0.5 mg at ≥1% Higher Rate than for Placebo)
+In placebo-controlled trials, the most frequent adverse reactions (incidence ≥10% and >placebo) for GILENYA 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity.
+Adverse events that led to treatment discontinuation and occurred in more than 1% of patients taking GILENYA 0.5 mg were serum transaminase elevations (4.7% compared to 1% on placebo) and basal cell carcinoma (1% compared to 0.5% on placebo).
 
-| Primary System Organ Class Preferred Term | GILENYA 0.5 mg N=425 % | Placebo N=418 % |
+Table 1 lists adverse reactions that occurred in ≥ 1% of GILENYA-treated patients and ≥ 1% higher rate than for placebo.
+
+Table 1 Adverse Reactions Reported in Studies 1 and 3 (Occurring in ≥1% of Patients and Reported for GILENYA 0.5 mg at ≥1% Higher Rate than for Placebo)
+
+| Primary System Organ Class Preferred Term | GILENYA 0.5 mg N=783 % | Placebo N=773 % |
 | --- | --- | --- |
 | Infections |  |  |
-| Influenza viral infections | 13 | 10 |
-| Herpes viral infections | 9 | 8 |
-| Bronchitis | 8 | 4 |
-| Sinusitis | 7 | 5 |
-| Gastroenteritis | 5 | 3 |
-| Tinea infections | 4 | 1 |
+| Influenza | 11 | 8 |
+| Sinusitis | 11 | 8 |
+| Bronchitis | 8 | 5 |
+| Herpes zoster | 2 | 1 |
+| Tinea versicolor | 2 | <1 |
 | Cardiac Disorders |  |  |
-| Bradycardia | 4 | 1 |
+| Bradycardia | 3 | 1 |
 | Nervous system disorders |  |  |
-| Headache | 25 | 23 |
-| Dizziness | 7 | 6 |
-| Paresthesia | 5 | 4 |
-| Migraine | 5 | 1 |
+| Headache | 25 | 24 |
+| Migraine | 6 | 4 |
 | Gastrointestinal disorders |  |  |
-| Diarrhea | 12 | 7 |
+| Nausea | 13 | 12 |
+| Diarrhea | 13 | 10 |
+| Abdominal pain | 11 | 10 |
 | General disorders and administration site conditions |  |  |
-| Asthenia | 3 | 1 |
+| Asthenia | 2 | 1 |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Back pain | 12 | 7 |
+| Back pain | 10 | 9 |
+| Pain in extremity | 10 | 7 |
 | Skin and subcutaneous tissue disorders |  |  |
-| Alopecia | 4 | 2 |
-| Eczema | 3 | 2 |
-| Pruritus | 3 | 1 |
+| Alopecia | 3 | 2 |
+| Actinic keratosis | 2 | 1 |
 | Investigations |  |  |
-| ALT/AST increased | 14 | 5 |
-| GGT increased | 5 | 1 |
-| Weight decreased | 5 | 3 |
+| Liver transaminase elevations (ALT/GGT/AST) | 15 | 4 |
 | Blood triglycerides increased | 3 | 1 |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
-| Cough | 10 | 8 |
-| Dyspnea | 8 | 5 |
-| Psychiatric disorders |  |  |
-| Depression | 8 | 7 |
+| Cough | 12 | 11 |
+| Dyspnea | 9 | 7 |
 | Eye disorders |  |  |
-| Vision blurred | 4 | 1 |
-| Eye pain | 3 | 1 |
+| Vision blurred | 4 | 2 |
 | Vascular disorders |  |  |
-| Hypertension | 6 | 4 |
+| Hypertension | 8 | 4 |
 | Blood and lymphatic system disorders |  |  |
-| Lymphopenia | 4 | 1 |
-| Leukopenia | 3 | <1 |
+| Lymphopenia | 7 | <1 |
+| Leukopenia | 2 | <1 |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |
+| Skin papilloma | 3 | 2 |
+| Basal cell carcinoma | 2 | 1 |
 
-Adverse reactions in Study 2, a 1-year active-controlled (versus interferon beta-1a, n=431) study including 849 patients with MS treated with fingolimod, were generally similar to those in Study 1.
+Adverse reactions of dizziness, pneumonia, eczema and pruritus were also reported in Studies 1 and 3 but did not meet the reporting rate criteria for inclusion in Table 1 (difference was less than 1%).
+
+Adverse reactions with GILENYA 0.5 mg in Study 2, the 1-year active-controlled (versus interferon beta-1a) study were generally similar to those in Studies 1 and 3.
 
 Vascular Events
 
@@ -73,5 +78,5 @@ Vascular events, including ischemic and hemorrhagic strokes, and peripheral arte
 
 Lymphomas
 
-Cases of lymphoma (cutaneous T-cell lymphoproliferative disorders or diffuse B-cell lymphoma) were reported in premarketing clinical trials in MS patients receiving GILENYA at, or above, the recommended dose of 0.5 mg.
-Based on the small number of cases and short duration of exposure, the relationship to GILENYA remains uncertain.
+Cases of lymphoma have occurred in premarketing clinical trials and in the postmarketing setting.
+The relationship to GILENYA remains uncertain.

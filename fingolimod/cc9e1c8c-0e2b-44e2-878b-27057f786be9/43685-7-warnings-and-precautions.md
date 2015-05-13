@@ -7,12 +7,12 @@ Because of a risk for bradyarrhythmia and atrioventricular (AV) blocks, patients
 Reduction in Heart Rate
 
 After the first dose of GILENYA, the heart rate decrease starts within an hour.
-On Day 1, the maximal decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8- 10 hours postdose.
+On Day 1, the maximum decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8 to 10 hours postdose.
 Because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose.
 In some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours.
 Heart rates below 40 beats per minute were rarely observed.
-Adverse reactions of symptomatic bradycardia following the first dose were reported in 0.5% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
-Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and chest pain that usually resolved within the first 24 hours on treatment.
+In controlled clinical trials, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving GILENYA 0.5 mg and in 0.1% of patients on placebo.
+Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
 
 Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
@@ -20,9 +20,10 @@ With continued dosing, the heart rate returns to baseline within 1 month of chro
 Atrioventricular Blocks
 
 Initiation of GILENYA treatment has resulted in transient AV conduction delays.
-In controlled clinical trials, adverse reactions of first-degree AV block (prolonged PR interval on ECG) following the first dose were reported in 0.1% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
-Second-degree AV blocks following the first dose were also identified in 0.1% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
-In a study of 698 patients with available 24-hour Holter monitoring data after their first dose (N=351 on GILENYA 0.5 mg and N=347 on placebo), second-degree AV blocks, Mobitz types I (Wenckebach) and/or II, were reported in 3.7% (N=13) of patients receiving GILENYA 0.5 mg and 2% (N=7) of patients on placebo.
+In controlled clinical trials, first-degree AV block after the first dose occurred in 4.7% of patients receiving GILENYA and 1.6% of patients on placebo.
+In a study of 697 patients with available 24-hour Holter monitoring data after their first dose (N=351 receiving GILENYA and N=346 on placebo), second-degree AV blocks (Mobitz Types I [Wenckebach] or 2:1 AV blocks) occurred in 4% (N=14) of patients receiving GILENYA and 2% (N=7) of patients on placebo.
+Of the 14 patients receiving GILENYA, 7 patients had 2:1 AV block (5 patients within the first 6 hours postdose and 2 patients after 6 hours postdose).
+All second degree AV blocks on placebo were Mobitz Type I and occurred after the first 12 hours postdose.
 The conduction abnormalities were usually transient and asymptomatic, and resolved within the first 24 hours on treatment, but they occasionally required treatment with atropine or isoproterenol.
 
 Postmarketing Experience
@@ -39,39 +40,54 @@ Risk of Infections
 GILENYA causes a dose-dependent reduction in peripheral lymphocyte count to 20%–30% of baseline values because of reversible sequestration of lymphocytes in lymphoid tissues.
 GILENYA may therefore increase the risk of infections, some serious in nature [see Clinical Pharmacology (12.2)].
 
-Before initiating treatment with GILENYA, a recent CBC (i.e., within 6 months) should be available.
+Before initiating treatment with GILENYA, a recent CBC (i.e., within 6 months or after discontinuation of prior therapy) should be available.
 Consider suspending treatment with GILENYA if a patient develops a serious infection, and reassess the benefits and risks prior to reinitiation of therapy.
 Because the elimination of fingolimod after discontinuation may take up to 2 months, continue monitoring for infections throughout this period.
 Instruct patients receiving GILENYA to report symptoms of infections to a physician.
 Patients with active acute or chronic infections should not start treatment until the infection(s) is resolved.
 
-Two patients died of herpetic infections during GILENYA controlled studies in the premarketing database (1 disseminated primary herpes zoster and 1 herpes simplex encephalitis).
-In both cases, the patients were receiving a fingolimod dose (1.25 mg) higher than recommended for the treatment of MS (0.5 mg), and had received high-dose corticosteroid therapy for suspected MS relapse.
-No deaths due to viral infections occurred in patients treated with GILENYA 0.5 mg in the premarketing database.
+In MS placebo-controlled trials, the overall rate of infections (72%) with GILENYA was similar to placebo.
+However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in GILENYA-treated patients.
+Serious infections occurred at a rate of 2.3% in the GILENYA group versus 1.6% in the placebo group.
 
-In MS controlled studies, the overall rate of infections (72%) and serious infections (2%) with GILENYA 0.5 mg was similar to placebo.
-However, bronchitis and, to a lesser extent, pneumonia were more common in GILENYA-treated patients.
+Herpes Viral Infections
+
+In placebo-controlled trials, the rate of herpetic infections was 9% in patients receiving GILENYA 0.5 mg and 7% on placebo.
+
+Two patients died of herpetic infections during controlled trials.
+One death was due to disseminated primary herpes zoster and the other to herpes simplex encephalitis.
+In both cases, the patients were taking a 1.25 mg dose of fingolimod (higher than the recommended 0.5 mg dose) and had received high-dose corticosteroid therapy to treat suspected MS relapses.
+
+Serious, life-threatening events of disseminated varicella zoster and herpes simplex infections, including cases of encephalitis and multiorgan failure, have occurred with GILENYA 0.5 mg in the postmarketing setting.
+One of these events was fatal.
+Include disseminated herpetic infections in the differential diagnosis of patients who are receiving GILENYA and present with an atypical MS relapse or multiorgan failure.
 
 Prior and Concomitant Treatment with Antineoplastic, Immunosuppressive, or Immune-Modulating Therapies
 
-GILENYA has not been administered concomitantly with antineoplastic, immunosuppressive, or immune-modulating therapies used for treatment of MS. Concomitant use of GILENYA with any of these therapies would be expected to increase the risk of immunosuppression [see Drug Interactions (7)].
+In clinical studies, patients who received GILENYA did not receive concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies used for treatment of MS. Concomitant use of GILENYA with any of these therapies, and also with corticosteroids, would be expected to increase the risk of immunosuppression [see Drug Interactions (7)].
 
-When switching from other immunosuppressive medications, the duration and mode of action of such substances must be considered when initiating Gilenya to avoid additive immunosuppressive effects.
+When switching to GILENYA from immune-modulating or immunosuppressive medications, consider the duration of their effects and their mode of action to avoid unintended additive immunosuppressive effects.
 
 Varicella Zoster Virus Antibody Testing/Vaccination
 
-As for any immune-modulating drug, before initiating GILENYA therapy, patients without a history of chickenpox or without vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV.
-VZV vaccination of antibody-negative patients should be considered prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur.
+Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV before initiating GILENYA.
+VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur.
 
 ## 5.3 Macular Edema
 
-In patients receiving GILENYA 0.5 mg, macular edema occurred in 0.4% of patients.
-An adequate ophthalmologic evaluation should be performed at baseline and 3-4 months after treatment initiation.
-If patients report visual disturbances at any time while on GILENYA therapy, additional ophthalmologic evaluation should be undertaken.
+Fingolimod increases the risk of macular edema.
+Perform an examination of the fundus including the macula in all patients before starting treatment, again 3–4 months after starting treatment, and again at any time after a patient reports visual disturbances while on GILENYA therapy.
 
-In MS controlled studies involving 1204 patients treated with GILENYA 0.5 mg and 861 patients treated with placebo, macular edema with or without visual symptoms was reported in 0.4% of patients treated with GILENYA 0.5 mg and 0.1% of patients treated with placebo; it occurred predominantly in the first 3-4 months of therapy.
-Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmologic examination.
-Macular edema generally improved or resolved with or without treatment after drug discontinuation, but some patients had residual visual acuity loss even after resolution of macular edema.
+A dose-dependent increase in the risk of macular edema occurred in the GILENYA clinical development program.
+
+In 2-year, double-blind, placebo-controlled studies in patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with GILENYA 0.5 mg and 0.4% of patients (3/773) treated with placebo.
+Macular edema occurred predominantly during the first 3 to 4 months of therapy.
+These clinical trials excluded patients with diabetes mellitus, a known risk factor for macular edema (see below Macular Edema in Patients with History of Uveitis or Diabetes Mellitus).
+Symptoms of macular edema included blurred vision and decreased visual acuity.
+Routine ophthalmological examination detected macular edema in some patients with no visual symptoms.
+Macular edema generally partially or completely resolved with or without treatment after drug discontinuation.
+Some patients had residual visual acuity loss even after resolution of macular edema.
+Macular edema has also been reported in patients taking GILENYA 0.5 mg in the postmarketing setting, usually within the first 6 months of treatment.
 
 Continuation of GILENYA in patients who develop macular edema has not been evaluated.
 A decision on whether or not to discontinue GILENYA therapy should include an assessment of the potential benefits and risks for the individual patient.
@@ -81,13 +97,13 @@ Macular Edema in Patients with History of Uveitis or Diabetes Mellitus
 
 Patients with a history of uveitis and patients with diabetes mellitus are at increased risk of macular edema during GILENYA therapy.
 The incidence of macular edema is also increased in MS patients with a history of uveitis.
-The rate was approximately 20% in patients with a history of uveitis versus 0.6% in those without a history of uveitis, in the combined experience with all doses of fingolimod.
-MS patients with diabetes mellitus or a history of uveitis should undergo an ophthalmologic evaluation prior to initiating GILENYA therapy and have regular follow-up ophthalmologic evaluations while receiving GILENYA therapy.
+In the combined clinical trial experience with all doses of fingolimod, the rate of macular edema was approximately 20% in MS patients with a history of uveitis versus 0.6% in those without a history of uveitis.
 GILENYA has not been tested in MS patients with diabetes mellitus.
+In addition to the examination of the fundus including the macula prior to treatment and at 3–4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
 ## 5.4 Posterior Reversible Encephalopathy Syndrome
 
-There have been rare cases of posterior reversible encephalopathy syndrome (PRES) reported in patients receiving Gilenya.
+There have been rare cases of posterior reversible encephalopathy syndrome (PRES) reported in patients receiving GILENYA.
 Symptoms reported included sudden onset of severe headache, altered mental status, visual disturbances, and seizure.
 Symptoms of PRES are usually reversible but may evolve into ischemic stroke or cerebral hemorrhage.
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
@@ -96,11 +112,11 @@ If PRES is suspected, GILENYA should be discontinued.
 ## 5.5 Respiratory Effects
 
 Dose-dependent reductions in forced expiratory volume over 1 second (FEV1) and diffusion lung capacity for carbon monoxide (DLCO) were observed in patients treated with GILENYA as early as 1 month after treatment initiation.
-At Month 24, the reduction from baseline in the percent of predicted values for FEV1 was 3.1% for GILENYA 0.5 mg and 2% for placebo.
-For DLCO, the reductions from baseline in percent of predicted values at Month 24 were 3.8% for GILENYA 0.5 mg and 2.7% for placebo.
+In 2-year placebo-controlled trials, the reduction from baseline in the percent of predicted values for FEV1 at the time of last assessment on drug was 2.8% for GILENYA 0.5 mg and 1.0% for placebo.
+For DLCO, the reduction from baseline in percent of predicted values at the time of last assessment on drug was 3.3% for GILENYA 0.5 mg and 0.5% for placebo.
 The changes in FEV1 appear to be reversible after treatment discontinuation.
 There is insufficient information to determine the reversibility of the decrease of DLCO after drug discontinuation.
-In MS controlled trials, dyspnea was reported in 5% of patients receiving GILENYA 0.5 mg and 4% of patients receiving placebo.
+In MS placebo-controlled trials, dyspnea was reported in 9% of patients receiving GILENYA 0.5 mg and 7% of patients receiving placebo.
 Several patients discontinued GILENYA because of unexplained dyspnea during the extension (uncontrolled) studies.
 GILENYA has not been tested in MS patients with compromised respiratory function.
 
@@ -111,12 +127,12 @@ Spirometric evaluation of respiratory function and evaluation of DLCO should be 
 Elevations of liver enzymes may occur in patients receiving GILENYA.
 Recent (i.e., within last 6 months) transaminase and bilirubin levels should be available before initiation of GILENYA therapy.
 
-During clinical trials, 3-fold the upper limit of normal (ULN) or greater elevation in liver transaminases occurred in 8% of patients treated with GILENYA 0.5 mg, as compared to 2% of patients on placebo.
-Elevations 5-fold the ULN occurred in 2% of patients on GILENYA and 1% of patients on placebo.
+In 2-year placebo-controlled clinical trials, elevation of liver transaminases to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
+Elevations 5-fold the ULN or greater occurred in 4.5% of patients on GILENYA and 1% of patients on placebo.
+The majority of elevations occurred within 6 to 9 months.
 In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times the ULN.
-Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to drug.
-The majority of elevations occurred within 6-9 months.
 Serum transaminase levels returned to normal within approximately 2 months after discontinuation of GILENYA.
+Recurrence of liver transaminase elevations occurred with rechallenge in some patients.
 
 Liver enzymes should be monitored in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
 GILENYA should be discontinued if significant liver injury is confirmed.
@@ -131,12 +147,12 @@ Because it takes approximately 2 months to eliminate GILENYA from the body, wome
 
 ## 5.8 Blood Pressure Effects
 
-In MS clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
+In MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
 ## 5.9 Immune System Effects Following GILENYA Discontinuation
 
 Fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of GILENYA.
-Lymphocyte counts generally return to the normal range within 1-2 months of stopping therapy [see Clinical Pharmacology (12.2)].
+Lymphocyte counts generally return to the normal range within 1–2 months of stopping therapy [see Clinical Pharmacology (12.2)].
 Because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see Drug Interactions (7)].

@@ -2,7 +2,7 @@
 
 Recommended Dose
 
-The recommended dose of GILENYA is 0.5 mg orally once daily.
+The recommended dose of GILENYA is 0.5 mg orally once-daily.
 Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
 GILENYA can be taken with or without food.
 
@@ -19,7 +19,7 @@ Additional observation should be instituted until the finding has resolved in th
 
 - The heart rate 6 hours postdose is <45 bpm
 - The heart rate 6 hours postdose is at the lowest value postdose (suggesting that the maximum pharmacodynamic effect on the heart may not have occurred)
-- The ECG 6-hours postdose shows new onset second degree or higher atrioventricular (AV) block
+- The ECG 6 hours postdose shows new onset second degree or higher atrioventricular (AV) block
 
 Should postdose symptomatic bradycardia occur, initiate appropriate management, begin continuous ECG monitoring, and continue observation until the symptoms have resolved.
 
@@ -27,7 +27,7 @@ Should a patient require pharmacologic intervention for symptomatic bradycardia,
 
 Patients with some preexisting conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, uncontrolled hypertension, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sinoatrial heart block) may poorly tolerate the GILENYA-induced bradycardia, or experience serious rhythm disturbances after the first dose of GILENYA.
 Prior to treatment with GILENYA, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and, if treated with GILENYA, should be monitored overnight with continuous ECG in a medical facility after the first dose.
-GILENYA is contraindicated in patients who in the last 6 months experienced myocardial infarction, unstable angina, stroke, transient ischemic attack (TIA), decompensated heart failure requiring hospitalization or Class III/IV heart failure) [see Contraindications (4)].
+GILENYA is contraindicated in patients who in the last 6 months experienced myocardial infarction, unstable angina, stroke, transient ischemic attack (TIA), decompensated heart failure requiring hospitalization or Class III/IV heart failure [see Contraindications (4)].
 
 Since initiation of GILENYA treatment results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (>450 msec males, >470 msec females) before dosing or during 6 hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Drug Interactions (7)].
 
