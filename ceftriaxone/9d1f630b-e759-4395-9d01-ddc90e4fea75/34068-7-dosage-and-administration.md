@@ -35,7 +35,6 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
-For infections caused by Staphylococcus aureus(MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
@@ -59,7 +58,7 @@ No dosage adjustment is necessary for patients with impairment of renal or hepat
 
 Ceftriaxone should be administered intravenously by infusion over a period of 30 minutes
 
-ADD-Vantage® Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 gm or 2 gm ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage® Flexible Diluent Container.
+ADD-Vantage® Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 g or 2 g ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage® Flexible Diluent Container.
 (See Instructions For Use of the ADD-Vantage® System at the end of this package insert.)
 
 ## Compatibility and Stability

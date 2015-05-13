@@ -48,7 +48,7 @@ Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARM
 
 Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of ceftriaxone are administered.
 
-Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the ceftriaxone dosage should not exceed 2 gm daily.
+Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the ceftriaxone dosage should not exceed 2 g daily.
 
 Alterations in prothrombin times have occurred rarely in patients treated with ceftriaxone.
 Patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition) may require monitoring of prothrombin time during ceftriaxone treatment.
@@ -95,7 +95,7 @@ Ceftriaxone showed no potential for mutagenic activity in these studies.
 
 ### Impairment of Fertility
 
-Ceftriaxone produced no impairment of fertility when given intravenously to rats at daily doses up to 586 mg/kg/day, approximately 20 times the recommended clinical dose of 2 gm/day.
+Ceftriaxone produced no impairment of fertility when given intravenously to rats at daily doses up to 586 mg/kg/day, approximately 20 times the recommended clinical dose of 2 g/day.
 
 ## Pregnancy
 

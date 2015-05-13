@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Average plasma concentrations of ceftriaxone following a single 30-minute intravenous (IV) infusion of a 0.5, 1 or 2 gm dose and intramuscular (IM) administration of a single 0.5 (250 mg/mL or 350 mg/mL concentrations) or 1 gm dose in healthy subjects are presented in Table 1.
+Average plasma concentrations of ceftriaxone following a single 30-minute intravenous (IV) infusion of a 0.5, 1 or 2 g dose and intramuscular (IM) administration of a single 0.5 (250 mg/mL or 350 mg/mL concentrations) or 1 g dose in healthy subjects are presented in Table 1.
 
 Table 1.
 Ceftriaxone Plasma Concentrations After Single Dose Administration
@@ -8,16 +8,16 @@ Ceftriaxone Plasma Concentrations After Single Dose Administration
 | Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |  |
-| 0.5 gm IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
-| 0.5 gm IM 250 mg/mL | 22 | 33 | 38 | 35 | 30 | 26 | 16 | ND | 5 |
-| 0.5 gm IM 350 mg/mL | 20 | 32 | 38 | 34 | 31 | 24 | 16 | ND | 5 |
-| 1 gm IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
-| 1 gm IM | 40 | 68 | 76 | 68 | 56 | 44 | 29 | ND | ND |
-| 2 gm lV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
+| 0.5 g IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
+| 0.5 g IM 250 mg/mL | 22 | 33 | 38 | 35 | 30 | 26 | 16 | ND | 5 |
+| 0.5 g IM 350 mg/mL | 20 | 32 | 38 | 34 | 31 | 24 | 16 | ND | 5 |
+| 1 g IV | 151 | 111 | 88 | 67 | 53 | 43 | 28 | 18 | 9 |
+| 1 g IM | 40 | 68 | 76 | 68 | 56 | 44 | 29 | ND | ND |
+| 2 g lV | 257 | 192 | 154 | 117 | 89 | 74 | 46 | 31 | 15 |
 | ND = Not determined. |  |  |  |  |  |  |  |  |  |
 
 Ceftriaxone was completely absorbed following IM administration with mean maximum plasma concentrations occurring between 2 and 3 hours post-dose.
-Multiple IV or IM doses ranging from 0.5 to 2 gm at 12- to 24-hour intervals resulted in 15% to 36% accumulation of ceftriaxone above single dose values.
+Multiple IV or IM doses ranging from 0.5 to 2 g at 12- to 24-hour intervals resulted in 15% to 36% accumulation of ceftriaxone above single dose values.
 
 Ceftriaxone concentrations in urine are shown in Table 2.
 
@@ -27,17 +27,17 @@ Urinary Concentrations of Ceftriaxone After Single Dose Administration
 | Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0 to 2 hr | 2 to 4 hr | 4 to 8 hr | 8 to 12 hr | 12 to 24 hr | 24 to 48 hr |  |
-| 0.5 gm IV | 526 | 366 | 142 | 87 | 70 | 15 |
-| 0.5 gm IM | 115 | 425 | 308 | 127 | 96 | 28 |
-| 1 gm IV | 995 | 855 | 293 | 147 | 132 | 32 |
-| 1 gm IM | 504 | 628 | 418 | 237 | ND | ND |
-| 2 gm IV | 2692 | 1976 | 757 | 274 | 198 | 40 |
+| 0.5 g IV | 526 | 366 | 142 | 87 | 70 | 15 |
+| 0.5 g IM | 115 | 425 | 308 | 127 | 96 | 28 |
+| 1 g IV | 995 | 855 | 293 | 147 | 132 | 32 |
+| 1 g IM | 504 | 628 | 418 | 237 | ND | ND |
+| 2 g IV | 2692 | 1976 | 757 | 274 | 198 | 40 |
 | ND = Not determined. |  |  |  |  |  |  |
 
 Thirty-three percent to 67% of a ceftriaxone dose was excreted in the urine as unchanged drug and the remainder was secreted in the bile and ultimately found in the feces as microbiologically inactive compounds.
-After a 1 gm IV dose, average concentrations of ceftriaxone, determined from 1 to 3 hours after dosing, were 581 mcg/mL in the gallbladder bile, 788 mcg/mL in the common duct bile, 898 mcg/mL in the cystic duct bile, 78.2 mcg/gm in the gallbladder wall and 62.1 mcg/mL in the concurrent plasma.
+After a 1 g IV dose, average concentrations of ceftriaxone, determined from 1 to 3 hours after dosing, were 581 mcg/mL in the gallbladder bile, 788 mcg/mL in the common duct bile, 898 mcg/mL in the cystic duct bile, 78.2 mcg/g in the gallbladder wall and 62.1 mcg/mL in the concurrent plasma.
 
-Over a 0.15 to 3 gm dose range in healthy adult subjects, the values of elimination half-life ranged from 5.8 to 8.7 hours; apparent volume of distribution from 5.78 to 13.5 L; plasma clearance from 0.58 to 1.45 L/hour; and renal clearance from 0.32 to 0.73 L/hour.
+Over a 0.15 to 3 g dose range in healthy adult subjects, the values of elimination half-life ranged from 5.8 to 8.7 hours; apparent volume of distribution from 5.78 to 13.5 L; plasma clearance from 0.58 to 1.45 L/hour; and renal clearance from 0.32 to 0.73 L/hour.
 Ceftriaxone is reversibly bound to human plasma proteins, and the binding decreased from a value of 95% bound at plasma concentrations of <25 mcg/mL to a value of 85% bound at 300 mcg/mL.
 Ceftriaxone crosses the blood placenta barrier.
 
@@ -57,9 +57,8 @@ Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Men
 | Range (mcg/mL) | 1.3 to 18.5 | 1.3 to 44 |
 | Time after dose (hr) | 3.7 (± 1.6) | 3.3 (± 1.4) |
 
-Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction (Table 4); therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 gm per day.
-Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis.
-In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced.
+Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone were only minimally altered in elderly subjects and in patients with renal impairment or hepatic dysfunction (Table 4); therefore, dosage adjustments are not necessary for these patients with ceftriaxone dosages up to 2 g per day.
+Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis; in six of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced.
 
 Table 4.
 Average Pharmacokinetic Parameters of Ceftriaxone in Humans
@@ -106,7 +105,7 @@ Resistance to ceftriaxone is primarily through hydrolysis by beta-lactamase, alt
 
 Interaction with Other Antimicrobials In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
 
-Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
+Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section:
 
 - •Gram-negative bacteria Acinetobactercalcoaceticus Enterobacteraerogenes Enterobacter cloacae Escherichia coli Haemophilusinfluenzae Haemophilusparainfluenzae Klebsiellaoxytoca Klebsiellapneumoniae Moraxella catarrhalis Morganellamorganii Neisseria gonorrhoeae Neisseria meningitidis Proteus mirabilis Proteus vulgaris Pseudomonas aeruginosa Serratiamarcescens
 - •Gram-positive bacteria Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus pyogenes Viridans group streptococci
@@ -144,22 +143,22 @@ Susceptibility Test Interpretive Criteria for Ceftriaxone.
 | Pathogen | Minimum Inhibitory Concentrations (mcg/ml) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | (S)Susceptible | (I)Intermediate | (R)Resistant | (S)Susceptible | (I)Intermediate | (R)Resistant |  |
-| Enterobacteriaceae | ≤ 1 | 2 | ≥4 | ≥ 23 | 20 to 22 | ≤19 |
-| Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤2 | - | - | ≥26 | - | - |
+| EnterobacteriaceaeSusceptibility interpretive criteria for Enterobacteriaceae are based on a dose of 1 gram IV q 24h. For isolates with intermediate susceptibility, use a dose of 2 grams IV q 24h in patients with normal renal function. | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20 to 22 | ≤19 |
+| Haemophilus influenzaeFor Haemophilus influenzae, susceptibility interpretive criteria are based on a dose of 2 grams IV every 24 hours in patients with normal renal function.,The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 2 | - | - | ≥26 | - | - |
 | Neisseria gonorrhoeae | ≤ 0.25 | - | - | ≥ 35 | - | - |
 | Neisseria meningitidis | ≤ 0.12 | - | - | ≥ 34 | - | - |
 | Streptococcus pneumoniaeDisc diffusion interpretive criteria for ceftriaxone discs against Streptococcus pneumoniae are not available, however, isolates of pneumococci with oxacillin zone diameters of >20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone. Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤ 19 mm. The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤ 19 mm. meningitis isolates | ≤ 0.5 | 1 | ≥ 2 | - | - | - |
-| Streptococcus pneumoniae non-meningitis isolates | ≤1 | 2 | ≥4 | - | - | - |
-| Streptococcus species beta-hemolytic group | ≤0.5 | - | - | ≥ 24 | - | - |
+| Streptococcus pneumoniae non-meningitis isolates | ≤ 1 | 2 | ≥ 4 | - | - | - |
+| Streptococcus species beta-hemolytic group | ≤ 0.5 | - | - | ≥ 24 | - | - |
 | Viridans group streptococci | ≤ 1 | 2 | ≥ 4 | ≥27 | 25 to 26 | ≤24 |
-| Anaerobic bacteria (agar method) | ≤16 | 32 | ≥64 | - | - | - |
+| Anaerobic bacteria (agar method) | ≤ 1 | 2 | ≥ 4 | - | - | - |
 | Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
 
-A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of Susceptible indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration at the site of infection.
 A report of Intermediate indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test1,2,3,4.
 Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
