@@ -12,7 +12,9 @@ Each tablet contains: Morphine Sulfate USP.......15 mg
 
 PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
 
-Mallinckrodt
+Mallinckrodt™
+
+L00M24 04/2015
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -28,7 +30,9 @@ Each tablet contains: Morphine Sulfate USP.......30 mg
 
 PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
 
-Mallinckrodt
+Mallinckrodt™
+
+LOOM27 Rev 10/2014
 
 # PRINCIPAL DISPLAY PANEL - 60 mg
 
@@ -44,7 +48,9 @@ Each tablet contains: Morphine Sulfate USP.......60 mg
 
 PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
 
-Mallinckrodt
+Mallinckrodt™
+
+L00M29 Rev 10/2014
 
 # PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -62,7 +68,9 @@ for use in opioid-tolerant patients only
 
 PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
 
-Mallinckrodt
+Mallinckrodt™
+
+L00M38 Rev 10/2014
 
 # PRINCIPAL DISPLAY PANEL - 200 mg
 
@@ -80,4 +88,6 @@ for use in opioid-tolerant patients only
 
 PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED WITH PRODUCT
 
-Mallinckrodt
+Mallinckrodt™
+
+L00M42 10/2014
