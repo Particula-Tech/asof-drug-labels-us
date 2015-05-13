@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA206143"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-800-60",
+    "55513-800-80",
+    "55513-810-60",
+    "55513-810-80"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ivabradine hydrochloride",
+      "name": "Corlanor"
+    }
+  ],
+  "setid": "92018a65-38f6-45f7-91d4-a34921b81d0d",
+  "source": "dailymed"
+}
