@@ -36,7 +36,7 @@ Carbidopa reduces the amount of levodopa required to produce a given response by
 Elimination half-life of levodopa in the presence of carbidopa is about 1.5 hours.
 Following carbidopa and levodopa extended-release tablets, the apparent half-life of levodopa may be prolonged because of continuous absorption.
 In healthy elderly subjects (56 to 67 years old) the mean time-to-peak concentration of levodopa after a single dose of carbidopa and levodopa extended-release tablets 50 mg/200 mg was about 2 hours as compared to 0.5 hours after standard carbidopa and levodopa tablets.
-The maximum concentration of levodopa after a single dose of carbidopa and levodopa extended-release tablets was about 35% of the standard carbidopa and levodopa tablets (1151 vs. 3256 ng/mL).
+The maximum concentration of levodopa after a single dose of carbidopa and levodopa extended-release tablets was about 35% of the standard carbidopa and levodopa tablets (1,151 vs. 3,256 ng/mL).
 The extent of availability of levodopa from carbidopa and levodopa extended-release tablets was about 70 to 75% relative to intravenous levodopa or standard carbidopa and levodopa tablets in the elderly.
 The absolute bioavailability of levodopa from carbidopa and levodopa extended-release tablets (relative to I.V.) in young subjects was shown to be only about 44%.
 The extent of availability and the peak concentrations of levodopa were comparable in the elderly after a single dose and at steady state after t.i.d. administration of carbidopa and levodopa extended-release tablets 50 mg/200 mg.
@@ -50,3 +50,14 @@ At steady state, carbidopa bioavailability from carbidopa and levodopa extended-
 
 Pyridoxine hydrochloride (vitamin B6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
 Carbidopa inhibits this action of pyridoxine.
+
+## Special Populations
+
+Geriatric: A study in eight young healthy subjects (21 to 22 yr) and eight elderly healthy subjects (69 to 76 yr) showed that the absolute bioavailability of levodopa was similar between young and elderly subjects following oral administration of levodopa and carbidopa.
+However, the systemic exposure (AUC) of levodopa was increased by 55% in elderly subjects compared to young subjects.
+Based on another study in forty patients with Parkinson’s disease, there was a correlation between age of patients and the increase of AUC of levodopa following administration of levodopa and an inhibitor of peripheral dopa decarboxylase.
+AUC of levodopa was increased by 28% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr).
+Additionally, mean value of Cmax for levodopa was increased by 24% in elderly patients (≥ 65 yr) compared to young patients (< 65 yr) (see PRECAUTIONS, Geriatric Use).
+
+The AUC of carbidopa was increased in elderly subjects (n=10, 65 to 76 yr) by 29% compared to young subjects (n=24, 23 to 64 yr) following IV administration of 50 mg levodopa with carbidopa (50 mg).
+This increase is not considered a clinically significant impact.

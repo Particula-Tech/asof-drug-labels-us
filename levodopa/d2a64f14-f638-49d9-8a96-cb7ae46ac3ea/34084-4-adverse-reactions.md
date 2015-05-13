@@ -70,19 +70,19 @@ The following adverse experiences have been reported in postmarketing experience
 Gastrointestinal: Taste alterations, dark saliva.
 
 Hypersensitivity: Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
-Nervous System/Psychiatric: Neuroleptic malignant syndrome (NMS, see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Nervous System/Psychiatric: Increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Skin: Alopecia, flushing, dark sweat.
 Urogenital: Dark urine.
 Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations and may occur with carbidopa and levodopa extended-release tablets are: Cardiovascular: Phlebitis.
 Gastrointestinal: Gastrointestinal bleeding, development of duodenal ulcer, sialorrhea, bruxism, hiccups, flatulence, burning sensation of tongue.
 Hematologic: Hemolytic and non-hemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
-Hypersensitivity: Henoch-Schonlein purpura.
+Hypersensitivity: Henoch-Schönlein purpura.
 Metabolic: Weight gain, edema.
 Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner's syndrome, nightmares.
 
 Skin: Malignant melanoma (see also CONTRAINDICATIONS), increased sweating.
 
-Special Senses: Oculogyric crises, mydriasis, diplopia.
+Special Senses: Oculogyric crisis, mydriasis, diplopia.
 
 Urogenital: Urinary retention, priapism.
 

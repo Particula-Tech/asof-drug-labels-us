@@ -35,7 +35,7 @@ Guidelines for Initial Conversion from Carbidopa and Levodopa Tablets to Carbido
 | 300 to 400 | 200 mg b.i.d. |
 | 500 to 600 | 300 mg b.i.d. or 200 mg t.i.d. |
 | 700 to 800 | A total of 800 mg in 3 or more divided doses (e.g., 300 mg a.m., 300 mg early p.m., and 200 mg later p.m.) |
-| 900 to 1000 | A total of 1000 mg in 3 or more divided doses (e.g., 400 mg a.m., 400 mg early p.m., and 200 mg later p.m.) |
+| 900 to 1,000 | A total of 1,000 mg in 3 or more divided doses (e.g., 400 mg a.m., 400 mg early p.m., and 200 mg later p.m.) |
 
 Patients currently treated with levodopa without a decarboxylase inhibitor: Levodopa must be discontinued at least twelve hours before therapy with carbidopa and levodopa extended-release tablets is started.
 Carbidopa and levodopa extended-release tablets should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage.
@@ -46,8 +46,8 @@ Initial dosage should not be given at intervals of less than 6 hours.
 ## Titration with Carbidopa and Levodopa Extended-Release Tablets
 
 Following initiation of therapy, doses and dosing intervals may be increased or decreased depending upon therapeutic response.
-Most patients have been adequately treated with doses of carbidopa and levodopa extended-release tablets that provide 400 to 1600 mg of levodopa per day, administered as divided doses at intervals ranging from 4 to 8 hours during the waking day.
-Higher doses of carbidopa and levodopa extended-release tablets (2400 mg or more of levodopa per day) and shorter intervals (less than 4 hours) have been used, but are not usually recommended.
+Most patients have been adequately treated with doses of carbidopa and levodopa extended-release tablets that provide 400 to 1,600 mg of levodopa per day, administered as divided doses at intervals ranging from 4 to 8 hours during the waking day.
+Higher doses of carbidopa and levodopa extended-release tablets (2,400 mg or more of levodopa per day) and shorter intervals (less than 4 hours) have been used, but are not usually recommended.
 When doses of carbidopa and levodopa extended-release tablets are given at intervals of less than 4 hours, and/or if the divided doses are not equal, it is recommended that the smaller doses be given at the end of the day.
 An interval of at least 3 days between dosage adjustments is recommended.
 
@@ -64,7 +64,7 @@ A dose of carbidopa and levodopa tablets 25 mg/100 mg or 10 mg/100 mg (one half 
 
 ## Interruption of Therapy
 
-Sporadic cases of a symptom complex resembling Neuroleptic Malignant Syndrome (NMS) have been associated with dose reductions and withdrawal of carbidopa and levodopa tablets or carbidopa and levodopa extended-release tablets.
+Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and withdrawal of carbidopa and levodopa tablets or carbidopa and levodopa extended-release tablets.
 Patients should be observed carefully if abrupt reduction or discontinuation of carbidopa and levodopa extended-release tablets is required, especially if the patient is receiving neuroleptics.
 (See WARNINGS).
 If general anesthesia is required, carbidopa and levodopa extended-release tablets may be continued as long as the patient is permitted to take oral medication.
