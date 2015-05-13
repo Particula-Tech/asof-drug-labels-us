@@ -25,5 +25,5 @@ Week 2 and 4 Bacteriologic Eradication Rates in the Per Protocol Analysis in the
 | --- | --- | --- | --- | --- |
 | No.Analyzed | No. Erad.(%) | No.Analyzed | No. Erad.(%) |  |
 | Streptococcus pneumoniae | 38 | 32 (84) | 35 | 25 (71) |
-| Haemophilusinfluenzae | 33 | 28 (85) | 31 | 22 (71) |
+| Haemophilus influenzae | 33 | 28 (85) | 31 | 22 (71) |
 | Moraxella catarrhalis | 15 | 12 (80) | 15 | 9 (60) |

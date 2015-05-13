@@ -7,11 +7,11 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 Flagyl® is a registered trademark of G.D.
 Searle & Co.
 
-05-2013M
+03-2015M
 
-46110819
+46159524
 
-EN-3290
+EN-3856
 
 Manufactured by Sandoz GmbH for Hospira Worldwide, Inc.
 
