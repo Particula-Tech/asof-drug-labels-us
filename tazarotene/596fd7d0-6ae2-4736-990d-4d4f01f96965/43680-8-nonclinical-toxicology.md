@@ -30,4 +30,4 @@ However, there was a significant decrease in the number of estrous stages and an
 AUC at the highest dose in rats was 42 times the AUC in acne patients treated with 2 mg/cm2 of FABIOR Foam 0.1% over a 15% body surface area.
 
 Reproductive capabilities of F1 animals, including F2 survival and development, were not affected by topical administration of tazarotene gel to female F0 parental rats from gestation day 16 through lactation day 20 at the maximum tolerated dose of 0.125 mg/kg/day.
-Based on data from another study, AUC in rats would be equivalent to 7.6 times the AUC in acne patients treated with 2 mg/cm2 of FABIOR Foam 0.1% over a 15% body surface area.
+Based on data from another study, the AUC in rats would be equivalent to 7.6 times the AUC in acne patients treated with 2 mg/cm2 of FABIOR Foam 0.1% over a 15% body surface area.

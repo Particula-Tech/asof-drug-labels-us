@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-In 2 multi-center, randomized, double-blind, vehicle-controlled studies, a total of 1,485 subjects with moderate-to-severe acne vulgaris were randomized 1:1 to FABIOR Foam or vehicle applied once daily for 12 weeks.
+In 2 multi-center, randomized, double-blind, vehicle-controlled trials, a total of 1,485 subjects with moderate-to-severe acne vulgaris were randomized 1:1 to FABIOR Foam or vehicle applied once daily for 12 weeks.
 Acne severity was evaluated using lesion counts and the 6-point Investigator’s Global Assessment (IGA) scale (see Table 2).
 At baseline, 80% of subjects were graded as “moderate” or Grade 3 and 20% were graded as “severe” or Grade 4 on the IGA scale.
 At baseline, subjects had an average of 79.8 total lesions of which the mean number of inflammatory lesions was 31.9 and the mean number of non-inflammatory lesions was 47.8.
 Subjects ranged in age from 12 to 45 years, with 860 (58%) subjects aged 12 to 17 years; 428 (29%) subjects aged 18 to 25 years; 143 (10%) subjects aged 26 to 35 years and 54 (4%) subjects aged 36 to 45 years.
-Subjects enrolled in the studies by race were white (77%), black (15%), Asian (4%), and other (4%).
+Subjects enrolled in the trials by race were white (77%), black (15%), Asian (4%), and other (4%).
 Hispanics comprised 18% of the population.
 An equal number of males (49%) and females (51%) were enrolled.
 Treatment success was defined as a score of “clear” (Grade 0) or “almost clear” (Grade 1) and at least 2‑grade improvement from the baseline score to Week 12.

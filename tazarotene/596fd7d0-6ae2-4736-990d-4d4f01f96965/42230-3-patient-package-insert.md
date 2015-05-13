@@ -9,11 +9,11 @@ FABIOR
 Foam
 
 IMPORTANT: For skin use only.
-Do not get FABIOR Foam in your eyes, mouth or vagina.
+Do not get FABIOR Foam in your eyes, mouth, or vagina.
 
 Read the Patient Information that comes with FABIOR Foam before you start using it and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking with your doctor about your condition or treatment.
+This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 
 What is FABIOR Foam?
 
@@ -75,11 +75,11 @@ How should I use FABIOR Foam?
 - •Gently clean the affected area (face and/or upper trunk) with a mild cleanser and dry completely before using FABIOR Foam.
 - •Apply FABIOR Foam one time each day, before going to bed, to the affected areas (face and/or upper trunk) where you have acne lesions.
   Use enough foam to cover the entire affected area with a thin film of FABIOR Foam.
-- •Keep FABIOR Foam away from your eyes, eyelids, mouth, and vagina.
+- •Keep FABIOR Foam away from your eyes, mouth, and vagina.
   If FABIOR Foam comes into contact with your eyes, rinse them well with water.
 - •Wash your hands after applying FABIOR Foam.
 - •If you use too much FABIOR Foam, you may get redness, peeling, or skin irritation in the treated area.
-  Call your doctor if this happens, or if you accidently swallow FABIOR Foam.
+  Call your doctor if this happens, or if you accidentally swallow FABIOR Foam.
 - •Follow your doctor's directions for other routine skin care and the use of make-up.
 - •You may also use a moisturizer as needed.
 
@@ -191,7 +191,7 @@ Active ingredient: tazarotene
 Inactive ingredients: butylated hydroxytoluene, ceteareth-12, citric acid anhydrous, diisopropyl adipate, light mineral oil, potassium citrate monohydrate, potassium sorbate, purified water, and sorbic acid.
 The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant.
 
-The Patient Information leaflet has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration
 
 FABIOR is a registered trademark of the GlaxoSmithKline group of companies, used under license by Stiefel Laboratories, Inc.
 

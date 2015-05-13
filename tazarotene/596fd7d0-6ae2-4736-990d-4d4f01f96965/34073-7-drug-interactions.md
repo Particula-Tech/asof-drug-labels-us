@@ -6,7 +6,7 @@ Concomitant dermatologic medications and cosmetics that have a strong drying eff
 It is recommended to postpone treatment until the effects of these products subside before use of FABIOR Foam is started.
 
 Concomitant use with oxidizing agents, such as benzoyl peroxide, may cause degradation of tazarotene and may reduce the clinical efficacy of tazarotene.
-If combination therapy is required, they should be applied at different times of the day (e.g. one in the morning and the other in the evening).
+If combination therapy is required, they should be applied at different times of the day (e.g., one in the morning and the other in the evening).
 
 The impact of tazarotene on the pharmacokinetics of progestin-only oral contraceptives (i.e., minipills) has not been evaluated.
 

@@ -41,7 +41,7 @@ Treatment should be discontinued if the irritation persists.
 ## 5.4 Photosensitivity and Risk for Sunburn
 
 Because of heightened burning susceptibility, exposure to sunlight (including sunlamps) should be avoided.
-Patients must be warned to use sunscreens and protective clothing when using Fabior Foam.
+Patients must be warned to use sunscreens and protective clothing when using FABIOR Foam.
 Patients with sunburn should be advised not to use FABIOR Foam until fully recovered.
 Patients who may have considerable sun exposure due to their occupation and those patients with inherent sensitivity to sunlight should exercise particular caution when using FABIOR Foam and ensure that the precautions are observed [see FDA-approved patient labeling].
 Due to the potential for photosensitivity resulting in greater risk for sunburn, FABIOR Foam should be used with caution in patients with a personal or family history of skin cancer.
