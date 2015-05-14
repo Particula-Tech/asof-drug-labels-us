@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 120 mL Bottle Label
 
 NDC 64370-375-01
 
-HemangeolTM
+Hemangeol®
 
 (propranolol hydrochloride)
 
@@ -18,7 +18,7 @@ PRINCIPAL DISPLAY PANEL - 120 mL Carton Label
 
 NDC 64370-375-01
 
-HemangeolTM
+Hemangeol®
 
 (propranolol hydrochloride)
 

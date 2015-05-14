@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-HEMANGEOL™ (he-man je-ohl)
+HEMANGEOL® (he-man je-ohl)
 
 (propranolol hydrochloride oral solution)
 
@@ -109,4 +109,4 @@ Manufactured for: Pierre Fabre Pharmaceuticals, Inc., Parsippany, NJ 07054
 
 For more information, call 1-855-PFPHARM (737-4276)
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: March 2014
+This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: Jan 2015

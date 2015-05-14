@@ -7,7 +7,7 @@ Propranolol hydrochloride is a synthetic beta-adrenergic receptor blocking agent
 Its structural formula is shown in Figure 1:
 
 Figure 1.
-Propranolol HCl structure
+Propranolol HCl Structure
 
 Molecular formula: C16H21NO2-HCl
 

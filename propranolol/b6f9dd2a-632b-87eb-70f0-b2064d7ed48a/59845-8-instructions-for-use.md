@@ -1,6 +1,6 @@
 Instructions for Use
 
-HEMANGEOL™ (he-man je-ohl)
+HEMANGEOL® (he-man je-ohl)
 
 (propranolol hydrochloride oral solution)
 
@@ -123,4 +123,4 @@ Parsippany, NJ 07054
 
 Made in France
 
-Issued: March 2014
+Issued: May 2015
