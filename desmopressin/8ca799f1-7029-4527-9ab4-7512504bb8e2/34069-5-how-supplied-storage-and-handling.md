@@ -1,7 +1,6 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
-Desmopressin Acetate Nasal Solution, 0.01% is supplied in a bottle with nasal pump dispenser with dust cover and with patient instructions in the following size: 5 mL bottles - Prod.
-No. 34207
+Desmopressin Acetate Nasal Spray Solution, 10 mcg/0.1 mL is supplied in a bottle with nasal pump dispenser with dust cover and with patient instructions in the following size: 5 mL bottle - NDC 24208-342-05
 
 ## Storage:
 

@@ -1,13 +1,49 @@
-# Principal Display Panel
+# Principal Display Panel-Desmopressin Acetate Nasal Spray Solution, 10 mcg/0.1 mL
 
 NDC 24208-342-05
 
-Desmopressin Acetate Nasal Solution, 0.01%
+BAUSCH + LOMB
 
-50 doses of 10 mcg
+Desmopressin
+
+Acetate
+
+Nasal Spray
+
+Solution,
+
+10 mcg/0.1 mL
 
 Rx only
 
-[icon- nose] [icon- spray] [icon- 0.01%] [icon- 5 mL]
+5 mL
 
-Bausch & Lomb
+Bottle
+
+50 sprays
+
+10 mcg per spray
+
+# Principal Display Panel-Desmopressin Acetate Nasal Spray Solution, 10 mcg/0.1 mL
+
+NDC 24208-342-05
+
+BAUSCH + LOMB
+
+Desmopressin
+
+Acetate Nasal
+
+Spray Solution,
+
+10 mcg/0.1 mL
+
+Rx only
+
+50 sprays
+
+10 mcg per spray
+
+5 mL
+
+bottle

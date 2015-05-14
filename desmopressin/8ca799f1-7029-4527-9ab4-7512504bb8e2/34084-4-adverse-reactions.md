@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 Infrequently, high dosages of intranasal desmopressin acetate have produced transient headache and nausea.
 Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps.
@@ -9,7 +9,7 @@ The following table lists the percentage of patients having adverse experiences 
 
 Desmopressin Acetate
 
-|  | Placebo (N=59) | 20 μg (N=60) | 40 μg (N=61) |
+|  | Placebo (N=59) | 20 mcg (N=60) | 40 mcg (N=61) |
 | --- | --- | --- | --- |
 | Adverse Reaction | % | % | % |
 | BODY AS A WHOLE |  |  |  |

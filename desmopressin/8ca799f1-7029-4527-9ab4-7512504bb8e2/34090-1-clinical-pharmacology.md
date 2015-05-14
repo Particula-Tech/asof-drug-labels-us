@@ -1,7 +1,7 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Desmopressin acetate is a synthetic analog of the natural hormone arginine vasopressin.
-One mL (0.1 mg) of intranasal desmopressin acetate has an antidiuretic activity of about 400 IU; 10 μg of desmopressin acetate is equivalent to 40 IU.
+One mL (0.1 mg) of intranasal desmopressin acetate has an antidiuretic activity of about 400 international units; 10 mcg of desmopressin acetate is equivalent to 40 international units.
 
 1.
 The biphasic half-lives for desmopressin acetate were 7.8 and 75.5 minutes for the fast and slow phases, compared with 2.5 and 14.5 minutes for Iysine vasopressin, another form of the hormone used in this condition.
@@ -15,7 +15,7 @@ Desmopressin acetate administered intranasally has an antidiuretic effect about 
 
 ## Human Pharmacokinetics
 
-Desmopressin acetate nasal solution is mainly excreted in the urine.
-A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2mcg) injection demonstrated a difference in desmopressin acetate nasal solution terminal half-life.
+Desmopressin acetate nasal spray solution is mainly excreted in the urine.
+A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in desmopressin acetate nasal spray solution terminal half-life.
 Terminal half-life significantly increased from 3 hours in normal healthy patients to 9 hours in patients with severe renal impairment.
-(See CONTRAINDICATION:.)
+(See CONTRAINDICATION.)
