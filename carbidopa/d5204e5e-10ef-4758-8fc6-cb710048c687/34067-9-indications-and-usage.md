@@ -1,10 +1,12 @@
 # INDICATIONS AND USAGE
 
-Carbidopa Tablets are indicated for use with carbidopa-levodopa or with levodopa in the treatment of the symptoms of idiopathic Parkinson’s disease (paralysis agitans), postencephalitic parkinsonism, and symptomatic parkinsonism, which may follow injury to the nervous system by carbon monoxide intoxication and/or manganese intoxication.
+Carbidopa Tablets are indicated for use with carbidopa-levodopa or with levodopa in the treatment of the symptoms of idiopathic Parkinson’s disease (paralysis agitans), postencephalitic parkinsonism, and symptomatic parkinsonism which may follow injury to the nervous system by carbon monoxide intoxication and/or manganese intoxication.
 
 Carbidopa is for use with carbidopa-levodopa in patients for whom the dosage of carbidopa-levodopa provides less than adequate daily dosage (usually 70 mg daily) of carbidopa.
 
-Carbidopa is for use with levodopa in the occasional patient whose dosage requirement of carbidopa and levodopa necessitates separate titration of each medication Carbidopa is used with carbidopa-levodopa or with levodopa to permit the administration of lower doses of levodopa with reduced nausea and vomiting, more rapid dosage titration, and with a somewhat smoother response.
+Carbidopa is for use with levodopa in the occasional patient whose dosage requirement of carbidopa and levodopa necessitates separate titration of each entity.
+
+Carbidopa is used with carbidopa-levodopa or with levodopa to permit the administration of lower doses of levodopa with reduced nausea and vomiting, more rapid dosage titration, and with a somewhat smoother response.
 However, patients with markedly irregular (“on-off”) responses to levodopa have not been shown to benefit from the addition of carbidopa.
 
 Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, supplemental pyridoxine (vitamin B6), can be given to patients when they are receiving carbidopa and levodopa concomitantly or as carbidopa-levodopa.

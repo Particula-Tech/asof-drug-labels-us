@@ -11,12 +11,12 @@ Some patients taking carbidopa-levodopa may not have adequate reduction in nause
 When these patients are taking carbidopa-levodopa, 25 mg of Carbidopa may be given with the first dose of carbidopa-levodopa each day.
 Additional doses of 12.5 mg or 25 mg may be given during the day with each dose of carbidopa-levodopa.
 Carbidopa may be given with any dose carbidopa-levodopa as required for optimum therapeutic response.
-The maximum daily dosage of carbidopa, given as Carbidopa and as carbidopa- levodopa), should not exceed 200 mg.
+The maximum daily dosage of carbidopa, given as Carbidopa and as carbidopa-levodopa), should not exceed 200 mg.
 
 ## Patients Requiring Individual Titration of Carbidopa and Levodopa Dosage
 
 Although carbidopa-levodopa is the most frequently used of carbidopa and levodopa administration, there may be an occasional patient who requires individually titrated doses of these two drugs.
-In these patients, carbidopa should be initiated at a dosage of 25 mg three or four times a day.
+In these patients, Carbidopa should be initiated at a dosage of 25 mg three or four times a day.
 The two drugs should be given at the same time, starting with no more than one-fifth (20%) to one-fourth (25%) of the previous or recommended daily dosage of levodopa when given without Carbidopa.
 In patients already receiving levodopa therapy, at least twelve hours should elapse between the last dose of levodopa and initiation of therapy with Carbidopa and levodopa.
 A convenient way to initiate therapy in these patients is in the morning following a night when the patient has not taken levodopa for at least twelve hours.
@@ -35,7 +35,7 @@ However, the dosage of such other standard antiparkinsonian drugs may require ad
 
 ## Interruption of Therapy
 
-Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and withdrawal of carbidopa-levodopa) or carbidopa-levodopa Extended Release.
+Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and withdrawal of carbidopa-levodopa or carbidopa-levodopa Extended Release.
 Patients should be observed carefully if abrupt reduction or discontinuation of carbidopa-levodopa or carbidopa-levodopa Extended-Release is required, especially if the patient is receiving neuroleptics.
 (See WARNINGS.)
 

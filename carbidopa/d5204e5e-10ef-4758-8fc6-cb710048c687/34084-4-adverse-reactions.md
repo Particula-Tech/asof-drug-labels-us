@@ -27,6 +27,8 @@ Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
 Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, neuroleptic malignant syndrome (NMS, see WARNINGS), bradykinetic episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Convulsions also have occurred; however, a causal relationship with Carbidopa and levodopa, has not been established.
 
+Respiratory: upper respiratory infection, dyspnea, pharyngeal pain, cough.
+
 Skin: flushing, increased sweating, malignant melanoma (see also CONTRAINDICATIONS), rash, alopecia, dark sweat.
 
 Special Senses: oculogyric crises, diplopia, blurred vision, dilated pupils.

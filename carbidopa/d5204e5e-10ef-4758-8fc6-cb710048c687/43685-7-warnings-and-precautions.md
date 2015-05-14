@@ -31,7 +31,7 @@ There is insufficient information to establish that dose reduction will eliminat
 ## Hyperpyrexia and Confusion
 
 Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa-levodopa, or carbidopa-levodopa extended-release.
-Therefore, patients should be observed carefully when the dosage of levodopa or arbidopalevodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
+Therefore, patients should be observed carefully when the dosage of levodopa or carbidopa-levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 
 NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
 Neurological findings, including muscle rigidity, involuntary movements, altered consciousness, mental status changes; other disturbances, such as autonomic dysfunction, tachycardia, tachypnea, sweating, hyper- or hypotension; laboratory findings, such as creatine phosphokinase elevation, leukocytosis, myoglobinuria, and increased serum myoglobin, have been reported.
@@ -48,16 +48,14 @@ Dopamine agonists, such as bromocriptine, and muscle relaxants, such as dantrole
 
 ## General
 
-As with levodopa alone, periodic evaluations of hepatic, hematopoietic, cardiovascular, and renal function are recommended during extended concomitant therapy with Carbidopa and levodopa, or with Carbidopa and carbidopa-levodopa or any combination of these drugs.
+As with levodopa alone, periodic evaluations of hepatic, hematopoietic, cardiovascular, and renal function are recommended during extended concomitant therapy with Carbidopa and levodopa, or with Carbidopa and carbidopa-levodopa, or any combination of these drugs.
 
 ### Impulse Control/Compulsive Behaviors
 
 Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, binge eating, and other intense urges.
 Patients may be unable to control these urges while taking one or more of the medications that are used for the treatment of Parkinson’s disease and that increase central dopaminergic tone, including Carbidopa taken with levodopa and carbidopa.
 In some cases, although not all, these urges were reported to have stopped when the dose of anti-Parkinson medications was reduced or discontinued.
-Because patients may not
-
-recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with Carbidopa.
+Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with Carbidopa.
 Physicians should consider dose reduction or stopping Carbidopa or levodopa if a patient develops such urges while taking Carbidopa with carbidopa/levodopa.
 
 ### Hallucinations/Psychotic-Like Behavior
@@ -92,7 +90,7 @@ Ideally, periodic skin examinations should be performed by appropriately qualifi
 It is important that Carbidopa with levodopa be taken at regular intervals according to the schedule outlined by the health care provider.
 Caution patients not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa-levodopa preparations without first consulting a physician.
 
-Advise patients that sometimes a ‘wearing-off’ effect may occur at the end of the dosing Interval.
+Advise patients that sometimes a ‘wearing-off’ effect may occur at the end of the dosing interval.
 Tell patients to notify the prescriber if such response poses a problem to lifestyle.
 
 Patients should be advised that occasionally dark color (red, brown, or black) may appear in saliva, urine, or sweat after ingestion of Carbidopa and levodopa.
@@ -105,7 +103,7 @@ The above factors may reduce the clinical effectiveness of the Carbidopa and lev
 
 Alert patients to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
 Advise patients to exercise caution while driving or operating machinery and that if they have experience somnolence and/or sudden sleep onset, they must refrain from these activities.
-(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence General.)
+(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence.)
 
 There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including Carbidopa and levodopa.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
@@ -130,7 +128,7 @@ Symptomatic postural hypotension has occurred when Carbidopa, given with levodop
 Therefore, when therapy with Carbidopa, given with or without levodopa or carbidopa-levodopa combination products, is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving monoamine oxidase inhibitors (Type A or B), see CONTRAINDICATIONS.
-Concomitant therapy with selegiline and rasigiline and carbidopa and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
+Concomitant therapy with selegiline or rasigiline and carbidopa or carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
 

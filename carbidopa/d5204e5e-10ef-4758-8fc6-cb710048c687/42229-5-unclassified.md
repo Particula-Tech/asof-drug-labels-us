@@ -6,11 +6,10 @@ Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach
 
 Distributed By: Oceanside Pharmaceuticals,
 
-a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
 
-Rev.
-February 2014
+Revised June 2014
 
-LB0100-00
+LB0100-01
 
-9036300
+9036301
