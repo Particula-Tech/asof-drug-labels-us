@@ -116,7 +116,7 @@ It may harm them.
 This Patient Information leaflet summarizes the most important information about TOUJEO.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about TOUJEO that is written for health professionals.
-For more information, go to www.TOUJEO.com or call 1-800-663-1610.
+For more information, go to www.TOUJEO.com or call 1-800-633-1610.
 
 What are the ingredients in TOUJEO?
 
@@ -125,4 +125,4 @@ What are the ingredients in TOUJEO?
 
 Manufactured By: sanofi-aventis U.S., LLC, Bridgewater, NJ 08807
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Approved: February 2015
+This Patient Information has been approved by the U.S. Food and Drug Administration Approved: February 2015 Revised May 2015

@@ -243,6 +243,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Date of Revision: February 2015
+Date of Revision: May 2015
 
 ©2015 sanofi-aventis U.S. LLC
