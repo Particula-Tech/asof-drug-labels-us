@@ -15,7 +15,7 @@ Physicians administering BOTOX Cosmetic must understand the relevant neuromuscul
 
 BOTOX Cosmetic is supplied in single-use 50 Units and 100 Units per vial.
 Prior to intramuscular injection, reconstitute each vacuum-dried vial of BOTOX Cosmetic with sterile, preservative-free 0.9% Sodium Chloride Injection USP.
-Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL for glabellar lines and 24 Units in 0.6 ml for lateral canthal lines (see Table 1).
+Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL for glabellar lines and 24 Units in 0.6 mL for lateral canthal lines (see Table 1).
 Then slowly inject the diluent into the vial.
 Discard the vial if a vacuum does not pull the diluent into the vial.
 Gently mix BOTOX Cosmetic with the saline by rotating the vial.
