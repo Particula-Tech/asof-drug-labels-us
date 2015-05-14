@@ -1,3 +1,2 @@
-Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202 Manufactured by: Sun Pharmaceutical Ind.
-Ltd. Acme Plaza, Andheri-Kurla Road Andheri (East), Mumbai - 400 059, India PGPI0145 ISS.
-07/2010
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 PGPI0145B ISS.
+10/2014

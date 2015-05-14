@@ -2,7 +2,7 @@
 
 The toxic levels for lithium are close to the therapeutic levels.
 It is therefore important that patients and their families be cautioned to watch for early symptoms and to discontinue the drug and inform the physician should they occur.
-Toxic symptoms are listed in detail under ADVERSE REACTIONS .
+Toxic symptoms are listed in detail under ADVERSE REACTIONS.
 Treatment No specific antidote for lithium poisoning is known.
 Early symptoms of lithium toxicity can usually be treated by reduction of cessation of dosage of the drug and resumption of the treatment at a lower dose after 24 to 48 hours.
 In severe cases of lithium poisoning, the first and foremost goal of treatment consists of elimination of this ion from the patient.

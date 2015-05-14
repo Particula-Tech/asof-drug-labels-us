@@ -14,13 +14,13 @@ Morphologic changes have also been seen in bipolar patients never exposed to lit
 The relationship between renal functional and morphologic changes and their association with lithium therapy has not been established.
 When kidney function is assessed, for baseline data prior to starting lithium therapy or thereafter, routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24 hour urine volume) and glomerular function (e.g., serum creatinine or creatinine clearance).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for reevaluation of treatment.
-Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels ( see DOSAGE AND ADMINISTRATION ).
+Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels (see DOSAGE AND ADMINISTRATION).
 
 # PRECAUTIONS
 
 ## General
 
-The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside ( see DOSAGE AND ADMINISTRATION ).
+The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside (see DOSAGE AND ADMINISTRATION).
 The distribution space of lithium approximates that of total body water.
 Lithium is primarily excreted in urine with insignificant excretion in feces.
 Renal excretion of lithium is proportional to its plasma concentration.
@@ -41,6 +41,7 @@ Caution patients about activities requiring alertness (e.g., operating vehicles 
 ## Drug interactions
 
 Combined use of haloperidol and lithium.
+
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leucocytosis, elevated serum enzymes, BUN and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
 A causal relationship between these events and the concomitant administration of lithium and haloperidol has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
 The possibility of similar adverse interactions with other antipsychotic medication exists.
@@ -48,7 +49,9 @@ Lithium may prolong the effects of neuromuscular blocking agents.
 Therefore, neuromuscular blocking agents should be given with caution to patients receiving lithium.
 Caution should be used when lithium and diuretics or angiotensin converting enzyme (ACE) inhibitors are used concomitantly because sodium loss may reduce the renal clearance of lithium and increase serum lithium levels with risk of lithium toxicity.
 When such combinations are used, the lithium dosage may need to be decreased, and more frequent monitoring of lithium plasma levels is recommended.
-Non-steroidal anti-inflammatory drugs (NSAIDS) Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
+Non-steroidal anti-inflammatory drugs (NSAIDS)
+
+Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
 In some cases, lithium toxicity has resulted from interactions between an NSAID and lithium.
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
 There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.

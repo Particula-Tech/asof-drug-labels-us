@@ -1,6 +1,8 @@
 # ADVERSE REACTIONS
 
-Lithium toxicity The likelihood of toxicity increases with increasing serum lithium levels.
+Lithium toxicity
+
+The likelihood of toxicity increases with increasing serum lithium levels.
 Serum lithium levels greater than 1.5 mEq/L carry a greater risk than lower levels.
 However, patients sensitive to lithium may exhibit toxic signs at serum levels below 1.5 mEq/L.
 Diarrhea, vomiting, drowsiness, muscular weakness and lack of coordination may be early signs of lithium toxicity, and can occur at lithium levels below 2 mEq/L.
@@ -18,13 +20,14 @@ Cardiovascular Cardiac arrhythmia, hypotension, peripheral circulatory collapse,
 Neurological Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
 If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields and eventual blindness due to optic atrophy.
 Lithium should be discontinued, if clinically possible, if this syndrome occurs.
+
 Gastrointestinal Anorexia, nausea, vomiting, diarrhea.
 Genitourinary Albuminuria, oliguria, polyuria, glycosuria.
 Dermatologic Drying and thinning of hair, anesthesia of skin, chronic folliculitis, xerosis cutis, alopecia and exacerbation of psoriasis.
 Autonomic Nervous System Blurred vision, dry mouth.
-Thyroid Abnormalities Euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T 3 and T 4 .
+Thyroid Abnormalities Euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
 Iodine 131 uptake may be elevated.
-( See PRECAUTIONS ).
+(See PRECAUTIONS).
 Paradoxically, rare cases of hyperthyroidism have been reported.
 EEG Changes Diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.
 EKG Changes Reversible flattening, isoelectricity or inversion of T-waves.
