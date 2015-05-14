@@ -7,7 +7,17 @@ Caution should be given to prescribing EDURANT with drugs that may reduce the ex
 In healthy subjects, supratherapeutic doses of rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the QTc interval of the electrocardiogram [see Drug Interactions (7) and Clinical Pharmacology (12.2)].
 EDURANT should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes.
 
-## 5.2 Depressive Disorders
+## 5.2 Skin and Hypersensitivity Reactions
+
+Severe skin and hypersensitivity reactions have been reported during the postmarketing experience, including cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), with rilpivirine-containing regimens.
+While some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunctions, including elevations in hepatic serum biochemistries.
+During the Phase 3 clinical trials, treatment-related rashes with at least Grade 2 severity were reported in 3% of subjects receiving EDURANT.
+No grade 4 rash was reported.
+Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6 and 6.2)].
+Discontinue EDURANT immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis or eosinophilia.
+Clinical status including laboratory parameters should be monitored and appropriate therapy should be initiated.
+
+## 5.3 Depressive Disorders
 
 The adverse reaction depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) has been reported with EDURANT.
 During the Phase 3 trials (N = 1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among EDURANT (n = 686) or efavirenz (n = 682) was 9% and 8%, respectively.
@@ -17,7 +27,7 @@ The incidence of discontinuation due to depressive disorders among EDURANT or ef
 Suicidal ideation was reported in 4 subjects in each arm while suicide attempt was reported in 2 subjects in the EDURANT arm.
 Patients with severe depressive symptoms should seek immediate medical evaluation to assess the possibility that the symptoms are related to EDURANT, and if so, to determine whether the risks of continued therapy outweigh the benefits.
 
-## 5.3 Hepatotoxicity
+## 5.4 Hepatotoxicity
 
 Hepatic adverse events have been reported in patients receiving a rilpivirine containing regimen.
 Patients with underlying hepatitis B or C, or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations with use of EDURANT.
@@ -25,13 +35,13 @@ A few cases of hepatic toxicity have been reported in patients receiving a rilpi
 Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with EDURANT is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in transaminases prior to treatment initiation.
 Liver enzyme monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
 
-## 5.4 Fat Redistribution
+## 5.5 Fat Redistribution
 
 Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 
-## 5.5 Immune Reconstitution Syndrome
+## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EDURANT.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia or tuberculosis), which may necessitate further evaluation and treatment.

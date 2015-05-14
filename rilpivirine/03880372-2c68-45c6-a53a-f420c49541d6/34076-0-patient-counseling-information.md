@@ -30,6 +30,10 @@ EDURANT should not be co-administered with the following drugs, as significant d
 For patients concomitantly receiving rifabutin, the EDURANT dose should be increased to 50 mg once daily, taken with a meal.
 When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal.
 
+Patients should be informed that skin reactions ranging from mild to severe, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported with rilpivirine-containing regimens.
+Instruct patients to immediately stop taking EDURANT tablets and seek medical attention if they develop a rash associated with any of the following symptoms: fever, blisters, mucosal involvement, eye inflammation (conjunctivitis), severe allergic reaction causing a swelling of the face, eyes, lips, mouth, tongue or throat, which may lead to difficulty swallowing or breathing, and any signs and symptoms of liver problems as it may be a sign of a more serious reaction.
+Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be performed and appropriate therapy will be initiated.
+
 Patients should be informed that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with EDURANT.
 If they experience depressive symptoms, they should seek immediate medical evaluation.
 

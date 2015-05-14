@@ -188,7 +188,7 @@ Antiviral Activity in Cell Culture
 Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected T-cell line with a median EC50 value for HIV-1IIIB of 0.73 nM (0.27 ng/mL).
 Rilpivirine demonstrated limited activity in cell culture against HIV-2 with a median EC50 value of 5220 nM (range 2510 to 10830 nM) (920 to 3970 ng/mL).
 
-Rilpivirine demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 to 1.01 nM (0.03 to 0.37 ng/ml) and was less active against group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/ml).
+Rilpivirine demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 to 1.01 nM (0.03 to 0.37 ng/mL) and was less active against group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/ml).
 
 The antiviral activity of rilpivirine was not antagonistic when combined with the NNRTIs efavirenz, etravirine or nevirapine; the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir or zidovudine; the PIs amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir or tipranavir; the fusion inhibitor enfuvirtide; the CCR5 co-receptor antagonist maraviroc, or the integrase strand transfer inhibitor raltegravir.
 

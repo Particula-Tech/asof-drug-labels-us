@@ -2,8 +2,9 @@
 
 The following adverse drug reactions (ADRs) are discussed in greater detail in other sections of the package insert:
 
-- Depressive Disorders [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- Depressive Disorders [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -151,7 +152,9 @@ The pharmacokinetic exposure of rilpivirine in co-infected subjects was comparab
 
 ## 6.2 Postmarketing Experience
 
-Adverse reactions have been identified during post-marketing in patients receiving a rilpivirine containing regimen.
+Adverse reactions have been identified during postmarketing experience in patients receiving a rilpivirine containing regimen.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Renal and Genitourinary Disorders: nephrotic syndrome
+
+Skin and Subcutaneous Tissue Disorders: Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)

@@ -139,6 +139,16 @@ WHAT ARE THE POSSIBLE SIDE EFFECTS OF EDURANT?
 
 EDURANT can cause serious side effects including:
 
+- Severe skin rash and allergic reactions.
+  Skin rash is a common side effect of EDURANT.
+  Rash can be serious.
+  Call your doctor right away if you get a rash.
+  In some cases, your rash may need to be treated in a hospital.
+  If you get a rash with any of the following symptoms, stop taking EDURANT tablets and seek medical help right away:
+  - severe allergic reaction causing a swelling of the face, eyes, lips, mouth, tongue or throat, which may lead to difficulty swallowing or breathing
+  - mouth sores or blisters on your body
+  - inflamed eye (conjunctivitis)
+  - fever, dark urine, or pain on the right side of the stomach-area (abdominal pain).
 - Depression or mood changes.
   Tell your doctor right away if you have any of the following symptoms:
   - feeling sad or hopeless
@@ -209,4 +219,4 @@ EDURANT® is a registered trademark of Johnson & Johnson
 
 © Janssen Products, LP 2011
 
-Issued May 2014
+Issued May 2015
