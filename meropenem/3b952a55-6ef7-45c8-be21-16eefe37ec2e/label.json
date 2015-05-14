@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202106"
+  ],
+  "inn": "meropenem",
+  "labeler": "B. Braun Medical Inc.",
+  "package_ndcs": [
+    "0264-3183-11",
+    "0264-3185-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "meropenem and sodium chloride",
+      "name": "Meropenem and Sodium Chloride"
+    }
+  ],
+  "setid": "3b952a55-6ef7-45c8-be21-16eefe37ec2e",
+  "source": "dailymed"
+}
