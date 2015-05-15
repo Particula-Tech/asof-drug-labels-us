@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA201849"
+  ],
+  "inn": "glucagon",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-596-13"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "glucagon",
+      "name": "Glucagon"
+    }
+  ],
+  "setid": "e4be1c0e-0fe6-45a0-9229-5cde98434b84",
+  "source": "dailymed"
+}
