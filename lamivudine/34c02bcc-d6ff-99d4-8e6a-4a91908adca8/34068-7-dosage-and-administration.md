@@ -2,8 +2,9 @@
 
 ## 2.1 Adult Patients
 
-The recommended oral dose of lamivudine tablets in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
-If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+- The recommended oral dose of lamivudine tablets in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+  If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+- Lamivudine tablets may be taken with or without food.
 
 ## 2.2 Pediatric Patients
 
@@ -28,7 +29,7 @@ Dosing of lamivudine tablets are adjusted in accordance with renal function.
 Dosage adjustments are listed in Table 2 [see Clinical Pharmacology (12.3)].
 
 Table 2.
-Adjustment of Dosage of Lamivudine Tablets in Adults and Adolescents (≥30 kg) in Accordance with Creatinine Clearance
+Adjustment of Dosage of Lamivudine Tablets in Adults and Adolescents (≥25 kg) in Accordance with Creatinine Clearance
 
 | Creatinine Clearance (mL/min) | Recommended Dosage of Lamivudine |
 | --- | --- |

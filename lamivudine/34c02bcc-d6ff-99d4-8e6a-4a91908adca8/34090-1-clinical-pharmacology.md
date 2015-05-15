@@ -16,7 +16,6 @@ The steady-state pharmacokinetic properties of the lamivudine 300-mg tablet once
 Lamivudine tablets 300 mg once daily resulted in lamivudine exposures that were similar to lamivudine tablets 150 mg twice daily with respect to plasma AUC24,ss; however, Cmax,ss was 66% higher and the trough value was 53% lower compared with the 150-mg twice-daily regimen.
 Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24,ss and Cmax24,ss; however, trough values were lower compared with the 150-mg twice-daily regimen.
 Inter-subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations.
-The clinical significance of observed differences for both plasma lamivudine concentrations and intracellular lamivudine triphosphate concentrations is not known.
 
 Absorption and Bioavailability
 
@@ -68,7 +67,7 @@ Pharmacokinetic Parameters (Mean ± SD) after a Single 300-mg Oral Dose of Lamiv
 | >60 mL/min(n = 6) | 10-30 mL/min(n = 4) | <10 mL/min(n = 6) |  |
 | Creatinine clearance (mL/min) | 111 ± 14 | 28 ± 8 | 6 ± 2 |
 | Cmax (mcg/mL) | 2.6 ± 0.5 | 3.6 ± 0.8 | 5.8 ± 1.2 |
-| AUC∞ (mcg•hr/mL) | 11.0 ± 1.7 | 48.0 ± 19 | 157 ± 74 |
+| AUC∞ (mcg•h/mL) | 11.0 ± 1.7 | 48.0 ± 19 | 157 ± 74 |
 | Cl/F (mL/min) | 464 ± 76 | 114 ± 34 | 36 ± 11 |
 
 Exposure (AUC∞), Cmax, and half-life increased with diminishing renal function (as expressed by creatinine clearance).
@@ -111,11 +110,11 @@ At the dose of 8 mg/kg/day, CSF lamivudine concentrations in 8 subjects ranged f
 
 Limited, uncontrolled pharmacokinetic and safety data are available from administration of lamivudine (and zidovudine) to 36 infants aged up to 1 week of age in 2 trials in South Africa.
 In these trials, lamivudine clearance was substantially reduced in 1-week-old neonates relative to pediatric subjects (aged over 3 months) studied previously.
-There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.1)].
+There is insufficient information to establish the time course of changes in clearance between the immediate neonatal period and the age-ranges over 3 months old [see Adverse Reactions (6.2)].
 
 Geriatric Patients
 
-The pharmacokinetics of lamivudine after administration of lamivudine tablets to subjects over 65 years of age have not been studied [see Use in Specific Populations (8.5)].
+The pharmacokinetics of lamivudine after administration of lamivudine tablets to subjects over 65 years have not been studied [see Use in Specific Populations (8.5)].
 
 Gender
 

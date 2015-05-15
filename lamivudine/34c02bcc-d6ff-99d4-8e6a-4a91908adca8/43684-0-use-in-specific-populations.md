@@ -25,9 +25,8 @@ The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150
 These trials were not designed or powered to provide efficacy information.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
-In a subset of subjects, lamivudine amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
+In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Amniotic fluid concentrations of lamivudine were typically 2 times greater than maternal serum levels and ranged from 1.2 to 2.5 mcg/mL (150 mg twice daily) and 2.1 to 5.2 mcg/mL (300 mg twice daily).
-It is not known whether risks of adverse events associated with lamivudine are altered in pregnant women compared with other HIV-1-infected patients.
 
 Animal Data
 
@@ -46,7 +45,7 @@ Because of the potential for HIV-1 transmission mothers should be instructed not
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of twice-daily lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of twice-daily lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2) Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 
