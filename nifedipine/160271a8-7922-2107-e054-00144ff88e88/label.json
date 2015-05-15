@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203126"
+  ],
+  "inn": "nifedipine",
+  "labeler": "TWi Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24979-010-12",
+    "24979-011-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "nifedipine",
+      "name": "Nifedipine"
+    }
+  ],
+  "setid": "160271a8-7922-2107-e054-00144ff88e88",
+  "source": "dailymed"
+}
