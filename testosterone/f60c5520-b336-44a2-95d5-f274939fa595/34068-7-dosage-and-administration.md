@@ -1,5 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
+Prior to initiating testosterone cypionate, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 Testosterone cypionate injection is for intramuscular use only.
 
 It should not be given intravenously.
