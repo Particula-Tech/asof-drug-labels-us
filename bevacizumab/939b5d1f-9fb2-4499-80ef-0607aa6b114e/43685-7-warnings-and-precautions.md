@@ -139,8 +139,17 @@ In clinical studies, infusion reactions with the first dose of Avastin were unco
 Stop infusion if a severe infusion reaction occurs and administer appropriate medical therapy.
 [See Dosage and Administration (2.4).]
 
-## 5.11 Ovarian Failure
+## 5.11 Embryo-fetal Toxicity
+
+Avastin may cause fetal harm based on the drug's mechanism of action and findings from animal studies.
+Congenital malformations were observed with the administration of bevacizumab to pregnant rabbits during organogenesis every 3 days at a dose as low as a clinical dose of 10 mg/kg.
+Furthermore, animal models link angiogenesis and VEGF and VEGF Receptor 2 (VEGFR2) to critical aspects of female reproduction, embryo-fetal development, and postnatal development.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with and for 6 months after the last dose of Avastin.
+[See Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1).]
+
+## 5.12 Ovarian Failure
 
 The incidence of ovarian failure was higher (34% vs. 2%) in premenopausal women receiving Avastin in combination with mFOLFOX chemotherapy as compared to those receiving mFOLFOX chemotherapy alone for adjuvant treatment for colorectal cancer, a use for which Avastin is not approved.
 Inform females of reproductive potential of the risk of ovarian failure prior to starting treatment with Avastin.
-[See Adverse Reactions (6.1), Use in Specific Populations (8.6).]
+[See Adverse Reactions (6.1), Use in Specific Populations (8.3).]

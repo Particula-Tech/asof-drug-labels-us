@@ -11,8 +11,8 @@ The following serious adverse reactions are discussed in greater detail in other
 - Hypertensive Crisis [See Dosage and Administration (2.4), Warnings and Precautions (5.7).]
 - Posterior Reversible Encephalopathy Syndrome [See Dosage and Administration (2.4), Warnings and Precautions (5.8).]
 - Proteinuria [See Dosage and Administration (2.4), Warnings and Precautions (5.9).]
-- Infusion Reactions [See Dosage and Administration (2.4), Warnings and Precautions (5.10)]
-- Ovarian Failure [See Warnings and Precautions (5.11), Use in Specific Populations (8.6).]
+- Infusion Reactions [See Dosage and Administration (2.4), Warnings and Precautions (5.10).]
+- Ovarian Failure [See Warnings and Precautions (5.12), Use in Specific Populations (8.1).]
 
 The most common adverse reactions observed in Avastin patients at a rate > 10% and at least twice the control arm rate, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis Some of the adverse reactions are commonly seen with chemotherapy; however, Avastin may exacerbate these reactions when combined with chemotherapeutic agents.
 Examples include palmar-plantar erythrodysaesthesia syndrome with pegylated liposomal doxorubicin or capecitabine peripheral sensory neuropathy with paclitaxel or oxaliplatin, and nail disorders or alopecia with paclitaxel.
@@ -107,7 +107,7 @@ New cases of ovarian failure were identified in 34% (32/95) of women receiving A
 After discontinuation of Avastin treatment, recovery of ovarian function at all time points during the post-treatment period was demonstrated in 22% (7/32) of the Avastin-treated women.
 Recovery of ovarian function is defined as resumption of menses, a positive serum β-HCG pregnancy test, or a FSH level < 30 mIU/mL during the post-treatment period.
 Long term effects of Avastin exposure on fertility are unknown.
-[See Warnings and Precautions (5.11), Use in Specific Populations (8.6).]
+[See Warnings and Precautions (5.12), Use in Specific Populations (8.3).]
 
 Post-Treatment Vascular Events
 
@@ -353,8 +353,6 @@ Body as a Whole: Polyserositis
 Cardiovascular: Pulmonary hypertension, PRES, Mesenteric venous occlusion
 
 Eye disorders (from unapproved intravitreal use for treatment of various ocular disorders): Permanent loss of vision; Endophthalmitis (infectious and sterile); Intraocular inflammation; Retinal detachment; Increased intraocular pressure; Hemorrhage including conjunctival, vitreous hemorrhage or retinal hemorrhage; Vitreous floaters; Ocular hyperemia; Ocular pain or discomfort
-
-Fetal abnormalities: Cases of fetal abnormalities have been observed in women treated with Avastin alone or in combination with known embryotoxic chemotherapeutics (see Section 8.1 USE IN SPECIFIC POPULATIONS, Pregnancy).
 
 Gastrointestinal: Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
 
