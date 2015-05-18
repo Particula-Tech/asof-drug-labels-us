@@ -259,9 +259,9 @@ Figure F
   See Figure G.
 
 - Figure G
+
 - •Remove the inhaler from your mouth and hold your breath for about 3 to 4 seconds (or as long as comfortable for you).
   See Figure H.
-
 - •Remove the inhaler from your mouth and hold your breath for about 3 to 4 seconds (or as long as comfortable for you).
   See Figure H.
 
