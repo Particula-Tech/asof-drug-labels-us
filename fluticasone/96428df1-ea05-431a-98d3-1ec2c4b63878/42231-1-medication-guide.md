@@ -18,8 +18,8 @@ BREO ELLIPTA can cause serious side effects, including:
 - •Call your healthcare provider if breathing problems worsen over time while using BREO ELLIPTA.
   You may need different treatment.
 - •Get emergency medical care if:
-  - ○your breathing problems worsen quickly
-  - ○you use your rescue inhaler, but it does not relieve your breathing problems.
+  - •your breathing problems worsen quickly
+  - •you use your rescue inhaler, but it does not relieve your breathing problems.
 - •For people with asthma, BREO ELLIPTA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as an inhaled corticosteroid.When your asthma is well controlled, your healthcare provider may tell you to stop taking BREO ELLIPTA.
   Your healthcare provider will decide if you can stop BREO ELLIPTA without loss of asthma control.
   Your healthcare provider may prescribe a different asthma control medicine for you, such as an inhaled corticosteroid.
@@ -36,7 +36,6 @@ What is BREO ELLIPTA?
 - •BREO ELLIPTA should not be used in children and adolescents.
   It is not known if BREO ELLIPTA is safe and effective in children and adolescentsyounger than 18 years of age.
 - •BREO ELLIPTA is used for COPD and asthma as follows:
-
 - COPD:
 - BREO ELLIPTA 100/25 is a prescription medicine used to treat COPD.
   COPD is a chronic lung disease that includes chronic bronchitis, emphysema, or both.
@@ -113,14 +112,14 @@ Read the step-by-step instructions for using BREO ELLIPTA at the end of this Med
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - ○your breathing problems get worse.
-  - ○you need to use your rescue inhaler more often than usual.
-  - ○your rescue inhaler does not work as well to relieve your symptoms.
-  - ○you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
-  - ○you use 1 whole canister of your rescue inhaler in 8 weeks.
-  - ○your peak flow meter results decrease.
+  - •your breathing problems get worse.
+  - •you need to use your rescue inhaler more often than usual.
+  - •your rescue inhaler does not work as well to relieve your symptoms.
+  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
+  - •you use 1 whole canister of your rescue inhaler in 8 weeks.
+  - •your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - ○you have asthma and your symptoms do not improve after using BREO ELLIPTA regularly for 1 week.
+  - •you have asthma and your symptoms do not improve after using BREO ELLIPTA regularly for 1 week.
 
 What are the possible side effects with BREO ELLIPTA?
 
@@ -133,38 +132,38 @@ BREO ELLIPTA can cause serious side effects, including:
   People with COPD have a higher chance of getting pneumonia.
   BREO ELLIPTA may increase the chance of getting pneumonia.
   Call your healthcare provider if you notice any of the following symptoms:
-  - ○increase in mucus (sputum) production
-  - ○change in mucus color
-  - ○fever
-  - ○chills
-  - ○increased cough
-  - ○increased breathing problems
+  - •increase in mucus (sputum) production
+  - •change in mucus color
+  - •fever
+  - •chills
+  - •increased cough
+  - •increased breathing problems
 - •weakened immune system and increased chance of getting infections (immunosuppression)
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled corticosteroid (such as BREO ELLIPTA).
   During this transition period, when your body is under stress from fever, trauma (such as a car accident), infection, surgery, or worse COPD symptoms, adrenal insufficiency can get worse and may cause death.
 - Symptoms of adrenal insufficiency include:
-  1. ○feeling tired
-  2. ○lack of energy
-  3. ○weakness
-  4. ○nausea and vomiting
-  5. ○low blood pressure
+  1. •feeling tired
+  2. •lack of energy
+  3. •weakness
+  4. •nausea and vomiting
+  5. •low blood pressure
 - •sudden breathing problems immediately after inhaling your medicine.
   If you have sudden breathing problems immediately after inhaling your medicine, stop taking BREO ELLIPTA and call your healthcare provider right away.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - ○rash
-  - ○hives
-  - ○swelling of your face, mouth, and tongue
-  - ○breathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •effects on heart
-  - ○increased blood pressure
-  - ○a fast or irregular heartbeat, awareness of heartbeat
-  - ○chest pain
+  - •increased blood pressure
+  - •a fast or irregular heartbeat, awareness of heartbeat
+  - •chest pain
 - •effects on nervous system
-  - ○tremor
-  - ○nervousness
+  - •tremor
+  - •nervousness
 - •bone thinning or weakness (osteoporosis)
 - •eye problems including glaucoma and cataracts.
   You should have regular eye exams while using BREO ELLIPTA.

@@ -47,15 +47,15 @@ BREO ELLIPTA 100/25 demonstrated a larger increase in the weighted mean FEV1 (0 
 Table 4.
 Least Squares Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough FEV1 at 6 Months
 
-| Treatment | n | Weighted Mean FEV1 (0-4 h)a (mL) |  |  |  | Trough FEV1b (mL) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Difference from |  |  |  | Difference from |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate100 mcg(95% CI) |  | Fluticasone Furoate200 mcg(95% CI) | Placebo (95% CI) | Vilanterol25 mcg(95% CI) |  |  |
-| Trial 1 |  |  |  |  |  |  |  |
-| BREO ELLIPTA 100/25 | 204 | 214(161, 266) | 168(116, 220) | –– |  | 144(91, 197) | 45(-8, 97) |
-| BREO ELLIPTA 200/25 | 205 | 209(157, 261) | –– | 168(117, 219) |  | 131(80, 183) | 32(-19, 83) |
-| Trial 2 |  |  |  |  |  |  |  |
-| BREO ELLIPTA 100/25 | 206 | 173(123, 224) | 120(70, 170) | –– |  | 115(60, 169) | 48(-6, 102) |
+| Treatment | n | Weighted Mean FEV1 (0-4 h)a (mL) |  |  | Trough FEV1b (mL) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Difference from |  |  | Difference from |  |  |  |
+| Placebo(95% CI) | Fluticasone Furoate100 mcg(95% CI) | Fluticasone Furoate200 mcg(95% CI) | Placebo (95% CI) | Vilanterol25 mcg(95% CI) |  |  |
+| Trial 1 |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 204 | 214(161, 266) | 168(116, 220) | –– | 144(91, 197) | 45(-8, 97) |
+| BREO ELLIPTA 200/25 | 205 | 209(157, 261) | –– | 168(117, 219) | 131(80, 183) | 32(-19, 83) |
+| Trial 2 |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 206 | 173(123, 224) | 120(70, 170) | –– | 115(60, 169) | 48(-6, 102) |
 
 a At Day 168.
 
