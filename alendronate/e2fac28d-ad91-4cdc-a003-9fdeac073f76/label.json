@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076768"
+  ],
+  "inn": "alendronate",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-223-16",
+    "69097-223-76",
+    "69097-224-16",
+    "69097-224-76"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alendronate sodium",
+      "name": "ALENDRONATE SODIUM"
+    }
+  ],
+  "setid": "e2fac28d-ad91-4cdc-a003-9fdeac073f76",
+  "source": "dailymed"
+}
