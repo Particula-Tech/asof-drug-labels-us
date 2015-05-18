@@ -13,7 +13,7 @@ Quetiapine's antagonism of adrenergic α 1 receptors may explain the orthostatic
 ## 12.2 Pharmacodynamics
 
 Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT 1A and 5HT 2 (IC 50s=717 & 148nM, respectively), dopamine D 1 and D 2 (IC 50s=1268 & 329nM, respectively), histamine H 1 (IC50=30nM), and adrenergic α1 and α2receptors (IC 50s=94 & 271nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC 50s > 5000 nM).
+Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC 50s> 5000 nM).
 
 Effect on QT Interval
 
