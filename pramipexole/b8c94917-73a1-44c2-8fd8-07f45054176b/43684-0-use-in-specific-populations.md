@@ -35,7 +35,7 @@ This resulted in an increase in elimination half-life from approximately 8.5 hou
 In clinical studies with Parkinson’s disease patients, 38.7% of patients were older than 65 years.
 There were no apparent differences in efficacy or safety between older and younger patients, except that the relative risk of hallucination associated with the use of pramipexole dihydrochloride tablets was increased in the elderly.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.

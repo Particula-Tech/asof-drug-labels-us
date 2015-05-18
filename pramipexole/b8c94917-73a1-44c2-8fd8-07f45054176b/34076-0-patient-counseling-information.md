@@ -43,11 +43,11 @@ Because the teratogenic potential of pramipexole has not been completely establi
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
 Manufactured for: Macleods Pharma USA, INC,.
 Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised AUGUST 2013
+Revised April 2015
 
 ## PATIENT INFORMATION
 
-•Read this Patient Information before you start taking pramipexole dihydrochloride this medicine and each time you get a refill.
+Read this Patient Information before you start taking pramipexole dihydrochloride and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 What is pramipexole dihydrochloride tablet?
@@ -56,7 +56,9 @@ Pramipexole dihydrochloride is a prescription medicine used to treat:
 - signs and symptoms of Parkinson's disease (PD)
 
 It is not known if pramipexole dihydrochloride tablet is safe and effective in children.
-What should I tell my doctor before taking pramipexole dihydrochloride tablet? ♦Before taking pramipexole dihydrochloride tablet, tell your doctor if you:
+What should I tell my doctor before taking pramipexole dihydrochloride tablet?
+
+- Before taking pramipexole dihydrochloride tablet, tell your doctor if you:
 
 - feel sleepy during the day from a sleep problem
 - have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
@@ -99,9 +101,13 @@ You could fall asleep without any warning.
 Tell your doctor right away if you fall asleep while you are doing activities such as talking, eating, driving, or if you feel sleepier than normal for you. •low blood pressure when you sit or stand up quickly.
 You may have: o dizziness o nausea o fainting o sweating Sit and stand up slowly after you have been sitting or lying down. •unusual urges.
 Some people who take certain medicines to treat Parkinson's disease, including pramipexole dihydrochloride tablet, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
-If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor. •seeing visions, hearing sounds or feeling sensations that are not real (hallucinations).
-Your chance of having hallucinations is higher if you are elderly (age 65 or older).
-If you have hallucinations, talk with your doctor right away. •uncontrolled sudden movements (dyskinesia).
+If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
+
+- hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
+  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
+  If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
+
+•uncontrolled sudden movements (dyskinesia).
 If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor. •skin cancer (melanoma).
 Some people with Parkinson's disease may have a higher chance of having melanoma than people who do not have Parkinson’s disease.
 It is not known if the chance of having melanoma is higher because of the medicines to treat Parkinson’s disease, like pramipexole dihydrochloride tablet, or from the Parkinson's disease.
@@ -110,8 +116,8 @@ The most common side effects in people taking pramipexole dihydrochloride tablet
 Tell your doctor if you have any side effect that bothers you.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-How should I store pramipexole dihydrochloride tablet? •Store pramipexole dihydrochloride tablet at 20 - 25°C (68 - 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP controlled Room Temperature). •Keep pramipexole dihydrochloride tablet out of the light. •Keep pramipexole dihydrochloride tablet and all medicines out of the reach of children.
-General Information about the safe and effective use of Pramipexole Dihydrochloride Tablet.
+How should I store pramipexole dihydrochloride tablet? •Store pramipexole dihydrochloride tablet at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F). •Keep pramipexole dihydrochloride tablet out of the light. •Keep pramipexole dihydrochloride tablet and all medicines out of the reach of children.
+General Information about the safe and effective use of pramipexole dihydrochloride tablet.
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use pramipexole dihydrochloride tablet for a condition for which it was not prescribed.
 Do not give pramipexole dihydrochloride tablet to other people, even if they have the same symptoms that you have.
@@ -128,6 +134,8 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised AUGUST 2013
+Revised April 2015
 
 The brands listed are trademarks of their respective owners and are not trademarks of Macleods Pharmaceutical Ltd. The makers of these brands are not affiliated with and do not endorse Macleods Pharmaceutical Ltd. or its products.
+
+PM01805502

@@ -42,9 +42,7 @@ Patients receiving selegiline or anticholinergics had responses similar to patie
 
 Studies in Patients with Advanced Parkinson's Disease
 
-In the advanced Parkinson's disease study, the primary assessments were the UPDRS and daily diaries that quantified amounts of "on" and "off" time.Patients in the advanced Parkinson's disease study (N=360) had a mean disease duration of 9 years, had been exposed to levodopa for long periods of time (mean 8 years), used concomitant levodopa during
-
-the trial, and had "on-off" periods.
+In the advanced Parkinson's disease study, the primary assessments were the UPDRS and daily diaries that quantified amounts of "on" and "off" time.Patients in the advanced Parkinson's disease study (N=360) had a mean disease duration of 9 years, had been exposed to levodopa for long periods of time (mean 8 years), used concomitant levodopa duringthe trial, and had "on-off" periods.
 
 The advanced Parkinson's disease study was a double-blind, placebo-controlled, parallel trial consisting of a 7-week dose-escalation period and a 6-month maintenance period.
 Patients were all treated with concomitant levodopa products and could additionally be on concomitant selegiline, anticholinergics, amantadine, or any combination.
