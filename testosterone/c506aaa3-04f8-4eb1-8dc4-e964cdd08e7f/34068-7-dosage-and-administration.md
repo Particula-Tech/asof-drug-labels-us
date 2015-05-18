@@ -4,6 +4,8 @@ Dosage and Administration for AndroGel 1% differs from AndroGel 1.62%.
 For dosage and administration of AndroGel 1.62% refer to its full prescribing information.
 (2)
 
+Prior to initiating AndroGel 1%, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1 Dosing and Dose Adjustment
 
 The recommended starting dose of AndroGel 1% is 50 mg of testosterone (4 pump actuations, two 25 mg packets, or one 50 mg packet), applied topically once daily in the morning to the shoulders and upper arms and/or abdomen area (preferably at the same time every day).

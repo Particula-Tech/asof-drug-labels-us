@@ -33,15 +33,6 @@ Of 129 hypogonadal men who were appropriately titrated with AndroGel 1% and who 
 
 In patients treated with AndroGel 1%, there were no observed differences in the average daily serum testosterone concentrations at steady-state based on age, cause of hypogonadism, or body mass index.
 
-AndroGel 1% 50 mg/day and 100 mg/day resulted in significant increases over time in total body mass and total body lean mass, while total body fat mass and the percent body fat decreased significantly.
-These changes were maintained for 180 days of treatment during the original study.
-Changes in the 75 mg dose group were similar.
-Bone mineral density in both hip and spine increased significantly from Baseline to Day 180 with AndroGel 1% 100 mg.
-
-AndroGel 1% treatment at 50 mg/day and 100 mg/day for 90 days produced significant improvement in libido (measured by sexual motivation, sexual activity and enjoyment of sexual activity as assessed by patient responses to a questionnaire).
-The degree of penile erection as subjectively estimated by the patients, increased with AndroGel 1% treatment, as did the subjective score for “satisfactory duration of erection.”
-AndroGel 1% treatment at 50 mg/day and 100 mg/day produced positive effects on mood and fatigue.
-Similar changes were seen after 180 days of treatment and in the group treated with the 75 mg dose.
 DHT concentrations increased in parallel with testosterone concentrations at AndroGel 1% doses of 50 mg/day and 100 mg/day, but the DHT/T ratio stayed within the normal range, indicating enhanced availability of the major physiologically active androgen.
 Serum estradiol (E2) concentrations increased significantly within 30 days of starting treatment with AndroGel 1% 50 or 100 mg/day and remained elevated throughout the treatment period but remained within the normal range for eugonadal men.
 Serum levels of SHBG decreased very slightly (1 to 11%) during AndroGel 1% treatment.

@@ -54,6 +54,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2014 AbbVie Inc.
+© 2015 AbbVie Inc.
 
-A090630058412-Revised November, 2014
+A090630059176-Revised May, 2015

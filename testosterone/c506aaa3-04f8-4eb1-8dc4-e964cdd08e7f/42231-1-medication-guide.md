@@ -38,9 +38,11 @@ What is the most important information I should know about ANDROGEL 1%?
 What is ANDROGEL 1%?
 
 ANDROGEL 1% is a prescription medicine that contains testosterone.
-ANDROGEL 1% is used to treat adult males who have low or no testosterone.
+ANDROGEL 1% is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
 Your healthcare provider will test your blood before you start and while you are taking ANDROGEL 1%.
+
+It is not known if ANDROGEL 1% is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if ANDROGEL 1% is safe or effective in children younger than 18 years old.
 Improper use of ANDROGEL 1% may affect bone growth in children.
@@ -154,13 +156,14 @@ ANDROGEL 1% can cause serious side effects including:
   - being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use ANDROGEL 1%.
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke
 - In large doses ANDROGEL 1% may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
 - Enlarged or painful breasts.
 - Have problems breathing while you sleep (sleep apnea).
-- Blood clots in the legs or lungs.
-  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
-  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your healthcare provider right away if you have any of the serious side effects listed above.
 
@@ -214,6 +217,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2014 AbbVie Inc.
+© 2015 AbbVie Inc.
 
-A090630058412-Revised November, 2014
+A090630059176-Revised May, 2015

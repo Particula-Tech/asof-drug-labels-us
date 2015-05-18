@@ -5,10 +5,9 @@
 Endogenous androgens, including testosterone and dihydrotestosterone (DHT), are responsible for the normal growth and development of the male sex organs and for maintenance of secondary sex characteristics.
 These effects include the growth and maturation of prostate, seminal vesicles, penis and scrotum; the development of male hair distribution, such as facial, pubic, chest and axillary hair; laryngeal enlargement, vocal chord thickening, alterations in body musculature and fat distribution.
 Testosterone and DHT are necessary for the normal development of secondary sex characteristics.
-Male hypogonadism results from insufficient secretion of testosterone and is characterized by low serum testosterone concentrations.
-Signs/symptoms associated with male hypogonadism include erectile dysfunction and decreased sexual desire, fatigue and loss of energy, mood depression, regression of secondary sexual characteristics and osteoporosis.
 
-Male hypogonadism can present as primary hypogonadism caused by defects of the gonads, such as Klinefelter’s Syndrome or Leydig cell aplasia while secondary hypogonadism is the failure of the hypothalamus or pituitary to produce sufficient gonadotropins (FSH, LH).
+Male hypogonadism, a clinical syndrome resulting from insufficient secretion of testosterone, has two main etiologies.
+Primary hypogonadism is caused by defects of the gonads, such as Klinefelter’s syndrome or Leydig cell aplasia, whereas secondary hypogonadism is the failure of the hypothalamus (or pituitary) to produce sufficient gonadotropins (FSH, LH).
 
 ## 12.2 Pharmacodynamics
 

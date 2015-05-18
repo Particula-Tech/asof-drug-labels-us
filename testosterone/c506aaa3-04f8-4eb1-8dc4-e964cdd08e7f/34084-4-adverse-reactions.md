@@ -84,8 +84,8 @@ The first occurrence of a pre-specified, post-baseline increase in serum PSA was
 
 Four patients met this criterion by having a serum PSA >6 ng/mL and in these, maximum serum PSA values were 6.2 ng/mL, 6.6 ng/mL, 6.7 ng/mL, and 10.7 ng/mL.
 In two of these patients, prostate cancer was detected on biopsy.
-The first patient's PSA levels were 4.7 ng/mL and 6.2 ng/mL at baseline and at Month 6/Final, respectively.
-The second patient's PSA levels were 4.2 ng/mL, 5.2 ng/mL, 5.8 ng/mL, and 6.6 ng/mL at baseline, Month 6, Month 12, and Final, respectively.
+The first patient’s PSA levels were 4.7 ng/mL and 6.2 ng/mL at baseline and at Month 6/Final, respectively.
+The second patient’s PSA levels were 4.2 ng/mL, 5.2 ng/mL, 5.8 ng/mL, and 6.6 ng/mL at baseline, Month 6, Month 12, and Final, respectively.
 
 ## 6.2 Postmarketing Experience
 
@@ -96,6 +96,7 @@ Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel 1% by 
 
 | Blood and the lymphatic system disorders: | Elevated Hgb, Hct (polycythemia) |
 | --- | --- |
+| Cardiovascular disorders: | Myocardial infarction, stroke |
 | Endocrine disorders: | Hirsutism |
 | Gastrointestinal disorders: | Nausea |
 | General disorders and administration site reactions: | Asthenia, edema, malaise |
