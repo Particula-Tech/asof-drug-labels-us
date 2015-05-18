@@ -1,4 +1,4 @@
-# WARNING: RISK OF HYPERSENSITIVITY REACTIONS, LACTIC ACIDOSIS, AND SEVERE HEPATOMEGALY
+# WARNING: HYPERSENSITIVITY REACTIONS, LACTIC ACIDOSIS, AND SEVERE HEPATOMEGALY
 
 Hypersensitivity Reactions: Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir tablets (abacavir sulfate).
 
@@ -11,7 +11,8 @@ Screening is also recommended prior to reinitiation of abacavir in patients of u
 HLA-B*5701-negative patients may develop a suspected hypersensitivity reaction to abacavir; however, this occurs significantly less frequently than in HLA-B*5701-positive patients.
 
 Regardless of HLA-B*5701 status, permanently discontinue abacavir if hypersensitivity cannot be ruled out, even when other diagnoses are possible.
-Following a hypersensitivity reaction to abacavir, NEVER restart abacavir tablets or any other abacavir-containing product because more severe symptoms can occur within hours and may include life threatening hypotension and death.
+
+Following a hypersensitivity reaction to abacavir, NEVER restart abacavir tablets or any other abacavir-containing product because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
 
 Reintroduction of abacavir tablets or any other abacavir-containing product, even in patients who have no identified history or unrecognized symptoms of hypersensitivity to abacavir therapy, can result in serious or fatal hypersensitivity reactions.
 Such reactions can occur within hours [see Warnings and Precautions (5.1)].

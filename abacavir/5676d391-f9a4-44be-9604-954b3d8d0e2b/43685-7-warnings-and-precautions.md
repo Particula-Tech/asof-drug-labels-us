@@ -69,7 +69,7 @@ Make patients aware that a hypersensitivity reaction can occur with reintroducti
 Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 
 CNA106030 (PREDICT-1), a randomized, double-blind trial, evaluated the clinical utility of prospective HLA-B*5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir-naive HIV-1-infected adults (n = 1,650).
-In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66/847) to 3.4% (27/803).
+In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66 of 847) to 3.4% (27 of 803).
 Based on this trial, it is estimated that 61% of patients with the HLA-B*5701 allele will develop a clinically suspected hypersensitivity reaction during the course of abacavir treatment compared with 4% of patients who do not have the HLA-B*5701 allele.
 
 Screening for carriage of the HLA-B*5701 allele is recommended prior to initiating treatment with abacavir.
@@ -108,3 +108,8 @@ In a published prospective, observational, epidemiological trial designed to inv
 In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).
+
+## 5.6 Use with Other Abacavir-containing Products
+
+Abacavir tablets are one of multiple abacavir-containing products.
+Concomitant administration of abacavir tablets with other products containing abacavir is not recommended.

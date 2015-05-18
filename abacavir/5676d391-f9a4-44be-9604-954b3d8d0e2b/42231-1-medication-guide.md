@@ -1,4 +1,6 @@
-MEDICATION GUIDE ABACAVIR TABLETS, USP (a bak′ a vir sul′ fate) 300 mg
+# MEDICATION GUIDE
+
+ABACAVIR TABLETS, USP (a bak′ a vir sul′ fate) 300 mg
 
 Read this Medication Guide before you start taking abacavir tablets and each time you get a refill.
 There may be new information.
@@ -7,8 +9,8 @@ Be sure to carry your Abacavir Tablets Warning Card with you at all times.
 
 What is the most important information I should know about abacavir tablets?
 
-- 1.Serious allergic reaction (hypersensitivity reaction).
-  Abacavir tablets contain abacavir (also contained in EPZICOM® and TRIZIVIR®).
+- •Serious allergic reaction (hypersensitivity reaction).
+  Abacavir tablets contain abacavir (also contained in EPZICOM®, TRIUMEQ®, and TRIZIVIR®).
   Patients taking abacavir tablets may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
   Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
   Your healthcare provider can determine with a blood test if you have this gene variation.
@@ -24,34 +26,33 @@ What is the most important information I should know about abacavir tablets?
 
 - A list of these symptoms is on the Warning Card your pharmacist gives you.
   Carry this Warning Card with you at all times.
-- If you stop abacavir tablets because of an allergic reaction, never take abacavir tablets (abacavir sulfate) or any other abacavir-containing medicine (EPZICOM® and TRIZIVIR®) again.
+- If you stop abacavir tablets because of an allergic reaction, never take abacavir tablets (abacavir sulfate) or any other abacavir-containing medicine (EPZICOM, TRIUMEQ, and TRIZIVIR) again.
   If you take abacavir tablets or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death.
   If you stop abacavir tablets for any other reason, even for a few days, and you are not allergic to abacavir, talk with your healthcare provider before taking it again.
   Taking abacavir tablets again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to it before.
   If your healthcare provider tells you that you can take abacavir again, start taking it when you are around medical help or people who can call a healthcare provider if you need one.
-- 2.Lactic Acidosis (buildup of acid in the blood).
+
+- •Lactic Acidosis (buildup of acid in the blood).
   Some human immunodeficiency virus (HIV) medicines, including abacavir tablets, can cause a rare but serious condition called lactic acidosis.
   Lactic acidosis is a serious medical emergency that can cause death and must be treated in the hospital.
 - Call your healthcare provider right away if you get any of the following signs or symptoms of lactic acidosis:
-- 
-  - •you feel very weak or tired
-  - •you have unusual (not normal) muscle pain
-  - •you have trouble breathing
-  - •you have stomach pain with nausea and vomiting
-  - •you feel cold, especially in your arms and legs
-  - •you feel dizzy or light-headed
-  - •you have a fast or irregular heartbeat
-- 3.Serious liver problems.
+  1. •you feel very weak or tired
+  2. •you have unusual (not normal) muscle pain
+  3. •you have trouble breathing
+  4. •you have stomach pain with nausea and vomiting
+  5. •you feel cold, especially in your arms and legs
+  6. •you feel dizzy or light-headed
+  7. •you have a fast or irregular heartbeat
+- •Serious liver problems.
   Some people who have taken medicines like abacavir tablets have developed serious liver problems called hepatotoxicity, with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
   Hepatomegaly with steatosis is a serious medical emergency that can cause death.
 - Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
-- 
-  - •your skin or the white part of your eyes turns yellow (jaundice)
-  - •your urine turns dark
-  - •your bowel movements (stools) turn light in color
-  - •you don’t feel like eating food for several days or longer
-  - •you feel sick to your stomach (nausea)
-  - •you have lower stomach area (abdominal) pain
+  1. •your skin or the white part of your eyes turns yellow (jaundice)
+  2. •your urine turns dark
+  3. •your bowel movements (stools) turn light in color
+  4. •you don’t feel like eating food for several days or longer
+  5. •you feel sick to your stomach (nausea)
+  6. •you have lower stomach area (abdominal) pain
 - You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight, or have been taking nucleoside analogue medicines for a long time.
 
 What is abacavir?
@@ -81,23 +82,24 @@ Before you take abacavir tablets, tell your healthcare provider if you:
 - •have hepatitis B virus infection or have other liver problems.
 - •have heart problems, smoke, or have diseases that increase your risk of heart disease such as high blood pressure, high cholesterol, or diabetes.
 - •are pregnant or plan to become pregnant.
-  It is not known if abacavir will harm your unborn baby.
+  Taking abacavir during pregnancy has not been associated with an increased risk of birth defects.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - •Pregnancy Registry.
   If you take abacavir tablets while you are pregnant, talk to your healthcare provider about how you can take part in the Pregnancy Registry for abacavir tablets.
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
 - •are breastfeeding or plan to breastfeed.
-  Do not breastfeed.
-  We do not know if abacavir can be passed to your baby in your breast milk and whether it could harm your baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-- •Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+  Do not breastfeed if you take abacavir tablets.
+  - •You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
 Especially tell your healthcare provider if you take:
 
 - •alcohol
 - •methadone
-- •TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine)
-- •EPZICOM® (abacavir sulfate and lamivudine)
+- •TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine)
+- •EPZICOM (abacavir sulfate and lamivudine)
+- •TRIUMEQ (abacavir, dolutegravir, and lamivudine)
 
 Ask your healthcare provider if you are not sure if you take one of the medicines listed above.
 
@@ -112,6 +114,9 @@ How should I take abacavir tablets?
 - •Abacavir is taken by mouth as a tablet or a liquid.
 - •Abacavir tablets may be taken with or without food.
 - •Do not skip doses.
+  If you miss a dose of abacavir, take it as soon as you remember.
+  Do not take two doses at the same time.
+  If you are not sure about your dosing, call your healthcare provider.
 - •Children aged 3 months and older can also take abacavir.
   The child’s healthcare provider will decide the right dose and whether the child should take the tablet or liquid, based on the child’s weight.
   The dose should not be more than the recommended adult dose.
@@ -161,17 +166,16 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store abacavir tablets?
 
 - •Store abacavir tablets at 20° to 25°C (68° to 77°F).
-- •Do not freeze abacavir tablets.
 - •Keep abacavir tablets and all medicines out of the reach of children.
 
 General information for safe and effective use of abacavir tablets
 
 Avoid doing things that can spread HIV infection to others.
 
-- •Do not share needles or other injection equipment.
+- •Do not re-use or share needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - •Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use abacavir for a condition for which it was not prescribed.
@@ -198,4 +202,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75055524 REVISED NOVEMBER 2014 MX:ABCV:R4
+REVISED APRIL 2015 75056591 MX:ABCV:R5

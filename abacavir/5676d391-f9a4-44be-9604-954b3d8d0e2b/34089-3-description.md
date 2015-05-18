@@ -6,8 +6,8 @@ Abacavir sulfate is the enantiomer with 1S, 4R absolute configuration on the cyc
 It has a molecular formula of (C14H18N6O)2•H2SO4 and a molecular weight of 670.76 daltons.
 It has the following structural formula:
 
-Abacavir sulfate, USP is an off-white to cream colored crystalline powder with a solubility of approximately 77 mg/mL in distilled water at 25°C.
-It has an octanol/water (pH 7.1 to 7.3) partition coefficient (log P) of approximately 1.20 at 25°C.
+Abacavir sulfate, USP is an off-white to cream colored crystalline powder with a solubility of approximately 77 mg per mL in distilled water at 25°C.
+It has an octanol per water (pH 7.1 to 7.3) partition coefficient (log P) of approximately 1.20 at 25°C.
 
 Abacavir tablets, USP are for oral administration.
 Each tablet contains abacavir sulfate, USP equivalent to 300 mg of abacavir as active ingredient and the following inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, red iron oxide, sodium starch glycolate, titanium dioxide and yellow iron oxide.
