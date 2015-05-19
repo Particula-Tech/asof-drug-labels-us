@@ -37,9 +37,11 @@ What is the most important information I should know about ANDROGEL 1.62%?
 What is ANDROGEL 1.62%?
 
 ANDROGEL 1.62% is a prescription medicine that contains testosterone.
-ANDROGEL 1.62% is used to treat adult males who have low or no testosterone.
+ANDROGEL 1.62% is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
 Your healthcare provider will test your blood before you start and while you are taking ANDROGEL 1.62%.
+
+It is not known if AndroGel 1.62% is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if ANDROGEL 1.62% is safe or effective in children younger than 18 years old.
 Improper use of ANDROGEL 1.62% may affect bone growth in children.
@@ -127,7 +129,7 @@ If you are using ANDROGEL 1.62% pump:
   You may also apply ANDROGEL 1.62% directly to the application site.
 - Wash your hands with soap and water right away.
 
-| Find Your Dose as Prescribed by Your Healthcare Provider |  | Application Method |
+| Find Your Dose as Prescribed by YourHealthcare Provider |  | Application Method |
 | --- | --- | --- |
 | 1 PUMP DEPRESSION | 20.25 mg | Apply 1 pump depression of ANDROGEL 1.62% to 1 upper arm and shoulder. |
 | 2 PUMP DEPRESSIONS | 40.5 mg | Apply 1 pump depression of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply 1 pump depression of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
@@ -144,7 +146,7 @@ If you are using ANDROGEL 1.62% packets:
 - ANDROGEL 1.62% should be applied right away.
 - Wash your hands with soap and water right away.
 
-| Find Your Dose as Prescribed by Your Healthcare Provider |  | Application Method |
+| Find Your Dose as Prescribed by YourHealthcare Provider |  | Application Method |
 | --- | --- | --- |
 | One 20.25 mg packet | 20.25 mg | Apply 1 packet of ANDROGEL 1.62% to 1 upper arm and shoulder. |
 | One 40.5 mg packet | 40.5 mg | Apply half of the 40.5 mg packet of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply the remaining packet contents to the opposite upper arm and shoulder. |
@@ -167,13 +169,14 @@ ANDROGEL 1.62% can cause serious side effects including:
   - being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use ANDROGEL 1.62%.
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling, or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke.
 - In large doses ANDROGEL 1.62% may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
 - Enlarged or painful breasts.
 - Have problems breathing while you sleep (sleep apnea).
-- Blood clots in the legs or lungs.
-  Signs and symptoms of a blood clot in your leg can include leg pain, swelling, or redness.
-  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your healthcare provider right away if you have any of the serious side effects listed above.
 
@@ -229,6 +232,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2014 AbbVie Inc.
+© 2015 AbbVie Inc.
 
-A090630058411 November, 2014
+A090630059177-Revised May, 2015

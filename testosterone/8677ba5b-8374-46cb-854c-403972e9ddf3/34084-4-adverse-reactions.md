@@ -63,6 +63,7 @@ Table 5: Adverse Reactions from Post Approval Experience of AndroGel 1% by Syste
 | System Organ Class | Adverse Reaction |
 | --- | --- |
 | Blood and lymphatic system disorders: | Elevated hemoglobin or hematocrit, polycythemia, anemia |
+| Cardiovascular disorders: | Myocardial infarction, stroke |
 | Endocrine disorders: | Hirsutism |
 | Gastrointestinal disorders: | Nausea |
 | General disorders: | Asthenia, edema, malaise |
