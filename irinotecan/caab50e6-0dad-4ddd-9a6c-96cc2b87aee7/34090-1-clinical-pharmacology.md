@@ -39,8 +39,7 @@ Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Para
 | 125 (N=64) | 1,660 ±797 | 10,200 ±3,270 | 5.8* ±0.7 | 110 ±48.5 | 13.3 ±6.01 | 26.3 ±11.9 | 229 ±108 | 10.4* ±3.1 |
 | 340 (N=6) | 3,392 ±874 | 20,604 ±6,027 | 11.7† ±1.0 | 234 ±69.6 | 13.9 ±4.0 | 56.0 ±28.2 | 474 ±245 | 21.0† ±4.3 |
 | Cmax - Maximum plasma concentration |  |  |  |  |  |  |  |  |
-| AUC0–24 - Area under the plasma concentration-time curve from time |  |  |  |  |  |  |  |  |
-| 0 to 24 hours after the end of the 90-minute infusion |  |  |  |  |  |  |  |  |
+| AUC0–24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90-minute infusion |  |  |  |  |  |  |  |  |
 | t1/2 - Terminal elimination half-life |  |  |  |  |  |  |  |  |
 | Vz - Volume of distribution of terminal elimination phase |  |  |  |  |  |  |  |  |
 | CL - Total systemic clearance |  |  |  |  |  |  |  |  |
@@ -55,12 +54,12 @@ The plasma protein to which irinotecan and SN-38 predominantly binds is albumin.
 
 Metabolism
 
-The metabolic conversion of irinotecan to the active metabolite SN-38 is mediated by carboxylesterase enzymes and primarily occurs in the liver.
+Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases to form the active metabolite SN-38, and UGT1A1 mediating glucuronidation of SN-38 to form the inactive glucuronide metabolite SN-38G.
+Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive oxidation products, one of which can be hydrolyzed by carboxylesterase to release SN-38.
 In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
-SN-38 is subsequently conjugated predominantly by the enzyme UDP-glucuronosyl transferase 1A1 (UGT1A1) to form a glucuronide metabolite.
 UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
 Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
-In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2)].
+In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2.2)].
 SN-38 glucuronide had 1/50 to 1/100 the activity of SN-38 in cytotoxicity assays using two cell lines in vitro.
 
 Excretion
@@ -95,4 +94,8 @@ Effect of Renal Impairment
 
 The influence of renal impairment on the pharmacokinetics of irinotecan has not been evaluated.
 Therefore, caution should be undertaken in patients with impaired renal function.
-Irinotecan is not recommended for use in patients on dialysis [see Use in Specific Populations (8.6)].
+Irinotecan hydrochloride injection is not recommended for use in patients on dialysis [see Use in Specific Populations (8.6)].
+
+Drug Interactions
+
+Dexamethasone, a moderate CYP3A4 inducer, does not appear to alter the pharmacokinetics of irinotecan.

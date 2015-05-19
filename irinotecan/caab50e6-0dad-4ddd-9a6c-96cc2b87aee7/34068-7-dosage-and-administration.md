@@ -90,7 +90,7 @@ Freezing Irinotecan Hydrochloride Injection, USP and admixtures of Irinotecan Hy
 The Irinotecan Hydrochloride Injection, USP solution should be used immediately after reconstitution as it contains no antibacterial preservative.
 Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 4 hours if kept at room temperature.
-If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench), Irinotecan Hydrochloride Injection, USP solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+If reconstitution and dilution are performed under strict aseptic conditions (e.g., on Laminar Air Flow bench), Irinotecan Hydrochloride Injection, USP solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 
 ## 2.5 Safe Handling
 

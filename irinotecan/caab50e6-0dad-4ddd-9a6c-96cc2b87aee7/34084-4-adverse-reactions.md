@@ -24,7 +24,7 @@ The first dose of at least one cycle of irinotecan hydrochloride injection was r
 Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
 Thirteen (4.3%) patients discontinued treatment with irinotecan hydrochloride injection because of adverse events.
-The adverse events in Table 3 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
+The adverse events in Table 3 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 3.
 Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectum*
@@ -80,7 +80,7 @@ Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metasta
 | CARDIOVASCULAR |  |  |
 | Vasodilation (flushing) | 11 | 0 |
 | * Severity of adverse events based on NCI CTC (version 1.0) |  |  |
-| † Occurring > 24 hours after administration of irinotecan hydrochloride injection |  |  |
+| † Occurring >24 hours after administration of irinotecan hydrochloride injection |  |  |
 | ‡ Occurring ≤24 hours after administration of irinotecan hydrochloride injection |  |  |
 | § Primarily upper respiratory infections |  |  |
 | ¶ Not applicable; complete hair loss = NCI grade 2 |  |  |
@@ -96,13 +96,13 @@ Hospitalizations due to serious adverse events occurred at least once in 60% (18
 Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based therapy discontinued treatment due to adverse events.
 
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
-Table 4 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in CLINICAL STUDIES (14.1).
+Table 4 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
 Table 4: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan Therapy*
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
-| Adverse Event | Irinotecan N=189 | BSC † N=90 | Irinotecan N=127 | 5-FU N=129 |
+| Adverse Event | Irinotecan N=189 | BSC† N=90 | Irinotecan N=127 | 5-FU N=129 |
 | TOTAL Grade 3/4 Adverse Events | 79 | 67 | 69 | 54 |
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea | 22 | 6 | 22 | 11 |
@@ -130,7 +130,7 @@ Table 4: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparat
 | Hepatic‡ | 9 | 7 | 9 | 6 |
 | DERMATOLOGIC |  |  |  |  |
 | Hand and foot syndrome | 0 | 0 | 0 | 5 |
-| Cutaneous signs § | 2 | 0 | 1 | 3 |
+| Cutaneous signs§ | 2 | 0 | 1 | 3 |
 | RESPIRATORY¶ | 10 | 8 | 5 | 7 |
 | NEUROLOGIC# | 12 | 13 | 9 | 4 |
 | CARDIOVASCULARþ | 9 | 3 | 4 | 2 |
@@ -152,7 +152,7 @@ The 8.5% incidence of akathisia, however, is within the range reported for use o
 The following adverse reactions have been identified during post approval use of irinotecan hydrochloride injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Myocardial ischemic events have been observed following irinotecan therapy.
+Myocardial ischemic events have been observed following irinotecan hydrochloride injection therapy.
 Thromboembolic events have been observed in patients receiving irinotecan hydrochloride injection.
 
 Symptomatic pancreatitis, asymptomatic pancreatic enzyme elevation have been reported.
@@ -162,5 +162,5 @@ Hyponatremia, mostly with diarrhea and vomiting, has been reported.
 
 Transient dysarthria has been reported in patients treated with irinotecan hydrochloride injection; in some cases, the event was attributed to the cholinergic syndrome observed during or shortly after infusion of irinotecan.
 
-Interaction between irinotecan and neuromuscular blocking agents cannot be ruled out.
+Interaction between irinotecan hydrochloride injection and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.

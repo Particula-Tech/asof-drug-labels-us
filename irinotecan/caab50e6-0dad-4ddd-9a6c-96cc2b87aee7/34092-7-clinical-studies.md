@@ -118,7 +118,7 @@ Figure 1.
 Survival Second-Line Irinotecan vs Best Supportive Care (BSC) Study 7
 
 Figure 2.
-Survival Second-Line Irinotecan vs Infusional 5-FU Study 8
+Survival Second-Line Irinotecan vs Infusion 5-FU Study 8
 
 Table 7.
 Once-Every-3-Week Dosage Schedule: Study Results

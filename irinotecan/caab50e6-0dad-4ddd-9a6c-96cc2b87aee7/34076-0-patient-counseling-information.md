@@ -17,6 +17,6 @@
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China ©2014 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China ©2015 Sagent Pharmaceuticals, Inc.
 
-Revised: September 2014
+Revised: January 2015
