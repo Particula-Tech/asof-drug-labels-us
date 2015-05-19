@@ -13,7 +13,7 @@ Atelvia should not be taken before breakfast.
 
 Instruct patients to swallow Atelvia tablets whole.
 Patients should not chew, cut, or crush the tablet because of a potential for oropharyngeal irritation, and because the tablet coating is an important part of the delayed-release formulation.
-Patients should not lie down for 30 minutes after taking the medication
+Patients should not lie down for 30 minutes after taking the medication.
 
 Instruct patients that if they develop symptoms of esophageal disease (such as difficulty or pain upon swallowing, retrosternal pain or severe persistent or worsening heartburn) they should consult their physician before continuing Atelvia [see Warnings and Precautions (5.2)].
 

@@ -1,21 +1,3 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - Carton
+# PRINCIPAL DISPLAY PANEL
 
-N 0430-0979-03
-
-Rx Only
-
-Atelvia® 35 mg (risedronate sodium) delayed-release tablets
-
-Dispense the enclosed Medication Guide to each patient.
-
-Once-a-Week
-
-4 tablets
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - Blister
-
-35 mg
-
-Atelvia® 35 mg
-
-(risedronate sodium) delayed-release tablets
+NDC 0430-0979-03 Atelvia® 35 mg (risedronate sodium) delayed-release tablets Once-a-Week - 4 tablets

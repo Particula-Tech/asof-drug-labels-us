@@ -10,16 +10,16 @@ Atelvia 35 mg once-a-week administered after breakfast was shown to be non-infer
 Table 2 presents the primary efficacy analysis, percent change in lumbar spine BMD, in the intent-to-treat population with last observation carried forward (LOCF).
 
 Table 2.
-Lumbar Spine BMD - Percent Change from Baseline at Endpointat 1 year LOCF
+Lumbar Spine BMD - Percent Change from Baseline at Endpoint[a]
 
 |  | Risedronate sodium immediate-release 5 mg Daily | Atelvia 35 mg Once-a-Week Following Breakfast |
 | --- | --- | --- |
 |  | N = 307 | N = 307 |
 | Primary Efficacy (LOCF) |  |  |
 | n | 270 | 261 |
-| LS Mean (95% CI) | 3.1Indicates a statistically significant difference from baseline determined from 95% CI unadjusted for multiple comparisons. (2.7, 3.5) | 3.3 (2.9, 3.7) |
-| LS Mean DifferenceLS Mean Difference is 5 mg daily minus 35 mg weekly treatment. (95% CI) |  | -0.2 (-0.8, 0.3) |
-| N = number of intent-to-treat patients within specified treatment; n = number of patients with values at the visit.LS = Least Squares |  |  |
+| LS Mean (95% CI) | 3.1* (2.7, 3.5) | 3.3* (2.9, 3.7) |
+| LS Mean Difference[b] (95% CI) |  | -0.2 (-0.8, 0.3) |
+| N = number of intent-to-treat patients within specified treatment; n = number of patients with values at the visit. *Indicates a statistically significant difference from baseline determined from 95% CI unadjusted for multiple comparisons. LS = Least Squares [a] at 1 year LOCF [b] LS Mean Difference is 5 mg daily minus 35 mg weekly treatment. |  |  |
 
 Fracture efficacy with risedronate sodium immediate-release 5 mg daily
 
@@ -41,7 +41,7 @@ The reduction in risk seen in the subgroup of patients who had 2 or more vertebr
 Table 3.
 The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Vertebral Fractures
 
-|  | Proportion of Patients with Fracture (%)Calculated by Kaplan-Meier methodology. |  |  |  |
+|  | Proportion of Patients with Fracture (%)a |  |  |  |
 | --- | --- | --- | --- | --- |
 | VERT NA | Placebo N = 678 | Risedronate sodium5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
 | New and Worsening |  |  |  |  |
@@ -61,6 +61,7 @@ The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Ver
 | 0 to 1 Year | 13.3 | 5.6 | 7.7 | 61 |
 | 0 to 2 Years | 24.7 | 11.6 | 13.1 | 59 |
 | 0 to 3 Years | 29.0 | 18.1 | 10.9 | 49 |
+| aCalculated by Kaplan-Meier methodology. |  |  |  |  |
 
 Effect on Osteoporosis-Related Nonvertebral Fractures
 
@@ -94,13 +95,13 @@ Table 4 displays the significant increases in BMD seen at the lumbar spine, femo
 In both VERT studies (VERT MN and VERT NA), risedronate sodium immediate-release 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment, and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
 
 Table 4.
-Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate sodium Immediate-Release 5 mg or Placebo at EndpointThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used.
+Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate sodium Immediate-Release 5 mg or Placebo at Endpointa
 
-|  | VERT MNThe duration of the studies was 3 years. |  | VERT NA |  | BMD MNThe duration of the studies was 1.5 to 2 years. |  | BMD NA |  |
+|  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
 | Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
 | Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
 | Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
-| Midshaft Radius | -1.5BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). | 0.2 | -1.2 | 0.1 | ND |  | ND |  |
-| ND = analysis not done |  |  |  |  |  |  |  |  |
+| Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
+| aThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. bThe duration of the studies was 3 years. cThe duration of the studies was 1.5 to 2 years. *BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). ND = analysis not done |  |  |  |  |  |  |  |  |
