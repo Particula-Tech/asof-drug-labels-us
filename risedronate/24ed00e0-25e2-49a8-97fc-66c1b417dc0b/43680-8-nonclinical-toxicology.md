@@ -40,6 +40,6 @@ The observed delay in fracture healing is similar to other bisphosphonates.
 This effect did not occur at a dose approximately 0.5 times the human daily dose.
 
 The Schenk rat assay, based on histologic examination of the epiphyses of growing rats after drug treatment, demonstrated that risedronate did not interfere with bone mineralization even at the highest dose tested, which was approximately 3500 times the lowest antiresorptive dose in this model (1.5 mcg/kg/day) and approximately 800 times the human daily dose of 5 mg.
-This indicates that Actonel administered at the therapeutic dose is unlikely to induce osteomalacia.
+This indicates that ACTONEL administered at the therapeutic dose is unlikely to induce osteomalacia.
 
 Dosing multiples provided above are based on the recommended human dose of 5 mg/day and normalized using body surface area (mg/m2).

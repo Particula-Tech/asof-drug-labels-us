@@ -2,41 +2,41 @@
 
 ## 12.1 Mechanism of Action
 
-Actonel has an affinity for hydroxyapatite crystals in bone and acts as an antiresorptive agent.
-At the cellular level, Actonel inhibits osteoclasts.
+ACTONEL has an affinity for hydroxyapatite crystals in bone and acts as an antiresorptive agent.
+At the cellular level, ACTONEL inhibits osteoclasts.
 The osteoclasts adhere normally to the bone surface, but show evidence of reduced active resorption (for example, lack of ruffled border).
-Histomorphometry in rats, dogs, and minipigs showed that Actonel treatment reduces bone turnover (activation frequency, that is, the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
+Histomorphometry in rats, dogs, and minipigs showed that ACTONEL treatment reduces bone turnover (activation frequency, that is, the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
 
 ## 12.2 Pharmacodynamics
 
-Actonel treatment decreases the elevated rate of bone turnover that is typically seen in postmenopausal osteoporosis.
-In clinical trials, administration of Actonel to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).
+ACTONEL treatment decreases the elevated rate of bone turnover that is typically seen in postmenopausal osteoporosis.
+In clinical trials, administration of ACTONEL to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).
 At the 5 mg dose, decreases in deoxypyridinoline/creatinine were evident within 14 days of treatment.
 Changes in bone formation markers were observed later than changes in resorption markers, as expected, due to the coupled nature of bone resorption and bone formation; decreases in bone-specific alkaline phosphatase of about 20% were evident within 3 months of treatment.
 Bone turnover markers reached a nadir of about 40% below baseline values by the sixth month of treatment and remained stable with continued treatment for up to 3 years.
 Bone turnover is decreased as early as 14 days and maximally within about 6 months of treatment, with achievement of a new steady-state that more nearly approximates the rate of bone turnover seen in premenopausal women.
-In a 1-year study comparing daily versus weekly oral dosing regimens of Actonel for the treatment of osteoporosis in postmenopausal women, Actonel 5 mg daily and Actonel 35 mg once-a-week decreased urinary collagen cross-linked N-telopeptide by 60% and 61%, respectively.
-In addition, serum bone-specific alkaline phosphatase was also reduced by 42% and 41% in the Actonel 5 mg daily and Actonel 35 mg once-a-week groups, respectively.
-When postmenopausal women with osteoporosis were treated for 1 year with Actonel 5 mg daily or Actonel 75 mg two consecutive days per month, urinary collagen cross-linked N-telopeptide was decreased by 54% and 52%, respectively, and serum bone-specific alkaline phosphatase was reduced by 36% and 35%, respectively.
-In a 1–year study comparing Actonel 5 mg daily versus Actonel 150 mg once-a-month in women with postmenopausal osteoporosis, urinary collagen cross-linked N-telopeptide was decreased by 52% and 49%, respectively, and serum bone-specific alkaline phosphatase was reduced by 31% and 32%, respectively.
+In a 1-year study comparing daily versus weekly oral dosing regimens of ACTONEL for the treatment of osteoporosis in postmenopausal women, ACTONEL 5 mg daily and ACTONEL 35 mg once-a-week decreased urinary collagen cross-linked N-telopeptide by 60% and 61%, respectively.
+In addition, serum bone-specific alkaline phosphatase was also reduced by 42% and 41% in the ACTONEL 5 mg daily and ACTONEL 35 mg once-a-week groups, respectively.
+When postmenopausal women with osteoporosis were treated for 1 year with ACTONEL 5 mg daily or ACTONEL 75 mg two consecutive days per month, urinary collagen cross-linked N-telopeptide was decreased by 54% and 52%, respectively, and serum bone-specific alkaline phosphatase was reduced by 36% and 35%, respectively.
+In a 1–year study comparing ACTONEL 5 mg daily versus ACTONEL 150 mg once-a-month in women with postmenopausal osteoporosis, urinary collagen cross-linked N-telopeptide was decreased by 52% and 49%, respectively, and serum bone-specific alkaline phosphatase was reduced by 31% and 32%, respectively.
 
 Osteoporosis in Men
 
-In a 2-year study of men with osteoporosis, treatment with Actonel 35 mg once-a-week resulted in a mean decrease from baseline compared to placebo of 16% (placebo 20%; Actonel 35 mg 37%) for the bone resorption marker urinary collagen cross-linked N-telopeptide, 45% (placebo -6%; Actonel 35 mg 39%) for the bone resorption marker serum C-telopeptide, and 27% (placebo -2%; Actonel 35 mg 25%) for the bone formation marker serum bone-specific alkaline phosphatase.
+In a 2-year study of men with osteoporosis, treatment with ACTONEL 35 mg once-a-week resulted in a mean decrease from baseline compared to placebo of 16% (placebo 20%; ACTONEL 35 mg 37%) for the bone resorption marker urinary collagen cross-linked N-telopeptide, 45% (placebo -6%; ACTONEL 35 mg 39%) for the bone resorption marker serum C-telopeptide, and 27% (placebo -2%; ACTONEL 35 mg 25%) for the bone formation marker serum bone-specific alkaline phosphatase.
 
 Glucocorticoid-Induced Osteoporosis
 
 Osteoporosis with glucocorticoid use occurs as a result of inhibited bone formation and increased bone resorption resulting in net bone loss.
-Actonel decreases bone resorption without directly inhibiting bone formation.
+ACTONEL decreases bone resorption without directly inhibiting bone formation.
 
-In two 1-year clinical trials in the treatment and prevention of glucocorticoid-induced osteoporosis, Actonel 5 mg decreased urinary collagen cross-linked N-telopeptide (a marker of bone resorption), and serum bone-specific alkaline phosphatase (a marker of bone formation) by 50% to 55% and 25% to 30%, respectively, within 3 to 6 months after initiation of therapy.
+In two 1-year clinical trials in the treatment and prevention of glucocorticoid-induced osteoporosis, ACTONEL 5 mg decreased urinary collagen cross-linked N-telopeptide (a marker of bone resorption), and serum bone-specific alkaline phosphatase (a marker of bone formation) by 50% to 55% and 25% to 30%, respectively, within 3 to 6 months after initiation of therapy.
 
 Paget’s Disease
 
 Paget’s disease of bone is a chronic, focal skeletal disorder characterized by greatly increased and disordered bone remodeling.
 Excessive osteoclastic bone resorption is followed by osteoblastic new bone formation, leading to the replacement of the normal bone architecture by disorganized, enlarged, and weakened bone structure.
 
-In pagetic patients treated with Actonel 30 mg daily for 2 months, bone turnover returned to normal in a majority of patients as evidenced by significant reductions in serum alkaline phosphatase (a marker of bone formation), and in urinary hydroxyproline/creatinine and deoxypyridinoline/creatinine (markers of bone resorption).
+In pagetic patients treated with ACTONEL 30 mg daily for 2 months, bone turnover returned to normal in a majority of patients as evidenced by significant reductions in serum alkaline phosphatase (a marker of bone formation), and in urinary hydroxyproline/creatinine and deoxypyridinoline/creatinine (markers of bone resorption).
 
 ## 12.3 Pharmacokinetics
 
@@ -52,7 +52,7 @@ Food Effect
 The extent of absorption of a 30 mg dose (three 10 mg tablets) when administered 0.5 hours before breakfast is reduced by 55% compared to dosing in the fasting state (no food or drink for 10 hours prior to or 4 hours after dosing).
 Dosing 1 hour prior to breakfast reduces the extent of absorption by 30% compared to dosing in the fasting state.
 Dosing either 0.5 hours prior to breakfast or 2 hours after dinner (evening meal) results in a similar extent of absorption.
-Actonel is effective when administered at least 30 minutes before breakfast.
+ACTONEL is effective when administered at least 30 minutes before breakfast.
 
 Distribution
 
@@ -76,7 +76,7 @@ In osteopenic postmenopausal women, the terminal exponential half-life was 561 h
 
 Specific Populations
 
-Pediatric: Actonel is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
+Pediatric: ACTONEL is not indicated for use in pediatric patients [see Pediatric Use (8.4)].
 
 Gender: Bioavailability and pharmacokinetics following oral administration are similar in men and women.
 
@@ -87,7 +87,7 @@ Race: Pharmacokinetic differences due to race have not been studied.
 
 Renal Impairment: Risedronate is excreted unchanged primarily via the kidney.
 As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
-Actonel is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
+ACTONEL is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
 Hepatic Impairment: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.

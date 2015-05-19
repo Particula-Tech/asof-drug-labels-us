@@ -1,93 +1,19 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 5 mg label
+# PRINCIPAL DISPLAY PANEL
 
-NDC 0430-0471-15
+NDC 0430-0471-15 Actonel® (risedronate sodium) tablets 5 mg x 30 Tablets
 
-Dispense the enclosed Medication Guide to each patient
+# PRINCIPAL DISPLAY PANEL
 
-Actonel®
+NDC 0430-0470-15 Actonel® (risedronate sodium) tablets 30 mg x 30 tablets
 
-(risedronate sodium) tablets
+# PRINCIPAL DISPLAY PANEL
 
-5 mg
+NDC 0430-0472-03 Actonel®(risedronate sodium) tablets 35 mg x 4 weeks - Once-a-Week
 
-30 Tablets
+# PRINCIPAL DISPLAY PANEL
 
-0471G051
+NDC 0430-0477-02 Actonel® (risedronate sodium) tablets 75 mg x 2 - Two Consecutive Days-a-Month
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 30 mg label
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only
-
-NDC 0430-0470-15
-
-Dispense the enclosed Medication Guide to each patient
-
-Actonel®
-
-(risedronate sodium) tablets
-
-30 mg
-
-30 Tablets
-
-0470G052
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 35 mg label
-
-4 Week Supply
-
-4 tablets
-
-NDC 0430-0472-03
-
-Dispense the enclosed Medication Guide to each patient
-
-Actonel®
-
-(risedronate sodium) tablets
-
-35 mg
-
-Once-a-Week
-
-4 tablets
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 75 mg label
-
-One Month Pack
-
-(2 tablets)
-
-Actonel®
-
-(risedronate sodium) tablets
-
-75 mg
-
-NDC 0430-0477-02
-
-Dispense the enclosed Medication Guide to each patient
-
-Two Consecutive Days-a-Month
-
-day 1 day 2
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 150 mg label
-
-One Month Pack
-
-(1 tablet)
-
-NDC 0430-0478-01
-
-Dispense the enclosed Medication Guide to each patient
-
-Actonel®
-
-(risedronate sodium) tablets
-
-150 mg
-
-Once-a-Month
-
-1 tablet
+NDC 0430-0478-01 Actonel® (risedronate sodium) tablets 150 mg x 1 tablet - Once-a-Month

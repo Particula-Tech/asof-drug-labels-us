@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Actonel® is available as follows:
+ACTONEL® is available as follows:
 
 5 mg film-coated, oval, yellow tablets with RSN on 1 face and 5 mg on the other.
 NDC 0430-0471-15 bottle of 30
