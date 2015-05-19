@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - Tablets - Carton 5 mg
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Pouch Carton
 
 Maxalt® (rizatriptan benzoate)
 
@@ -10,17 +10,17 @@ Each tablet contains 7.265 mg of rizatriptan benzoate, equivalent to 5 mg rizatr
 
 18 Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
-Manuf. by: MSD, Ltd. Cramlington, Northumberland, NE23 3JU, UK
+Manuf. by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Rizatriptan benzoate (active ingred.)
 Made in Ireland.
-Formulated in UK.
+Formulated in China.
 
-PRINCIPAL DISPLAY PANEL - Tablets - Carton 10 mg
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Pouch Carton
 
 Maxalt® (rizatriptan benzoate)
 
@@ -32,17 +32,17 @@ Each tablet contains 14.53 mg of rizatriptan benzoate, equivalent to 10 mg rizat
 
 18 Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
-Manuf. by: MSD, Ltd. Cramlington, Northumberland, NE23 3JU, UK
+Manuf. by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Rizatriptan benzoate (active ingred.)
 Made in Ireland.
-Formulated in UK.
+Formulated in China.
 
-PRINCIPAL DISPLAY PANEL - Orally Disintegrating Tablets - Carton 5 mg
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Case Carton - Orally Disintegrating Tablets
 
 Maxalt-MLT® (rizatriptan benzoate) ORALLY DISINTEGRATING TABLETS
 
@@ -56,7 +56,7 @@ Phenylketonurics: contains phenylalanine (a component of aspartame) 1.05 mg per 
 
 6 Carrying Cases, Each Containing 3 Orally Disintegrating Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
@@ -68,7 +68,7 @@ Rizatriptan benzoate (active ingred.)
 Made in Ireland.
 Formulated in UK.
 
-PRINCIPAL DISPLAY PANEL - Orally Disintegrating Tablets - Carton 10 mg
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Case Carton - Orally Disintegrating Tablets
 
 Maxalt-MLT® (rizatriptan benzoate) ORALLY DISINTEGRATING TABLETS
 
@@ -82,7 +82,7 @@ Phenylketonurics: contains phenylalanine (a component of aspartame) 2.10 mg per 
 
 6 Carrying Cases, Each Containing 3 Orally Disintegrating Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
