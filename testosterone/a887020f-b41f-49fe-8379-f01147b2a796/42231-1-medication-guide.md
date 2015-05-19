@@ -33,9 +33,11 @@ What is the most important information I should know about testosterone gel?
 What is testosterone gel?
 
 Testosterone gel is a prescription medicine that contains testosterone.
-Testosterone gel is used to treat adult males who have low or no testosterone and with conditions associated with low or no testosterone.
+Testosterone gel is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
-Your healthcare provider will test your blood before you start and while you use testosterone gel.
+Your healthcare provider will test your blood before you start and while you are taking testosterone gel.
+
+It is not known if testosterone gel is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if testosterone gel is safe or effective in children younger than 18 years old.
 Improper use of testosterone gel may affect bone growth in children.
@@ -163,6 +165,7 @@ Testosterone gel can cause serious side effects including:
 - Blood clots in your legs or lungs.
   Signs and symptoms of a blood clot in your legs can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke.
 - In large doses testosterone gel may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
 - Enlarged or painful breasts.
@@ -184,7 +187,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of testosterone gel.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store testosterone gel?
@@ -221,4 +224,4 @@ Manufactured for USL PHARMA, INC. Denver, CO 80223
 
 MADE IN CANADA
 
-Issued: 6/2014
+Revised 0515
