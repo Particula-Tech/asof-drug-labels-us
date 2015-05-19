@@ -1,3 +1,5 @@
+# ​
+
 WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; LIFE-THREATENING QT PROLONGATION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and TREATMENT FOR OPIOID ADDICTION
 
 Addiction, Abuse, and Misuse Methadone hydrochloride tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.

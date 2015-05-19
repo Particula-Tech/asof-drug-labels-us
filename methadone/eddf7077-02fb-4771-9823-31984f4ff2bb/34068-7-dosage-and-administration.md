@@ -17,7 +17,7 @@ Consider the following important factors that differentiate methadone from other
 - There is high interpatient variability in absorption, metabolism, and relative analgesic potency.
   Population-based equianalgesic conversion ratios between methadone and other opioids are not accurate when applied to individuals.
 - The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
-- Steady-state plasma concentrations, and full analgesic effects, are not attained until 3 to 5 days after initiation of dosing.
+- Steady-state plasma concentrations, and full analgesic effects, are not attained until at least 3 to 5 days on a dose, and may take longer in some patients.
 
 Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with methadone hydrochloride tablets [see Warnings and Precautions (5.2)].
@@ -91,13 +91,14 @@ Continually reevaluate patients receiving methadone hydrochloride tablets to ass
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
 
-Because steady-state plasma concentrations are approximated within 24 to 36 hours, methadone hydrochloride tablets dosage adjustments may be done every 1 to 2 days.
-
+Because of individual variability in the pharmacokinetic profile (i.e., terminal half-life (T1/2) from 8 to 59 hours in different studies [see Clinical Pharmacology (12.3)]), titrate methadone hydrochloride tablets slowly, with dose increases no more frequent than every 3 to 5 days.
+However, because of this high variability, some patients may require substantially longer periods between dose increases (up to 12 days).
+Monitor patients closely for the development of potentially life-threatening adverse reactions (e.g., CNS and respiratory depression).
 Patients who experience breakthrough pain may require a dose increase of methadone hydrochloride tablets, or may need rescue medication with an appropriate dose of an immediate-release medication.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the methadone hydrochloride tablets dose.
 
 If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced and/or the dosing interval adjusted (i.e., every 8 hours or every 12 hours).
-Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reations.
 
 ## 2.4 Discontinuation of Methadone Hydrochloride Tablets for Pain
 

@@ -38,3 +38,11 @@ Instruct nursing mothers to talk to the baby’s healthcare provider immediately
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services).
 
 Disposal of Unused Methadone Hydrochloride Tablets Advise patients to flush the unused tablets down the toilet when methadone hydrochloride tablets are no longer needed.
+
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
+
+© 2015 Mallinckrodt.
+
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
+
+Issued: 04/2015

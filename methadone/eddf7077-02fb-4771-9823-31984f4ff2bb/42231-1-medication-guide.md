@@ -51,7 +51,7 @@ When taking methadone hydrochloride tablets:
   If it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
 - If you take methadone hydrochloride tablets for opioid addiction and miss a dose, take your next dose the following day as scheduled.
   Do not take extra doses.
-  Taking more than the prescribed dose may cause you to overdose because methadone hydrochloride builds up in your body over time.
+  Taking more than the prescribed dose may cause you to overdose because methadone builds up in your body over time.
 - Do not crush, dissolve, snort or inject methadone hydrochloride tablets because this may cause you to overdose and die.
 - Call your healthcare provider if the dose you are taking does not control your pain.
 - Do not stop taking methadone hydrochloride tablets without talking to your healthcare provider.
@@ -78,14 +78,10 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
+Manufactured by: Mallinckrodt Inc., Hazelwood, MO 63042 USA, www.Mallinckrodt.com or call 1-800-778-7898
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
-
-© 2014 Mallinckrodt.
-
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
-
-Issued 10/2014
+Revised: April 2015
 
 Mallinckrodt™ Pharmaceuticals
