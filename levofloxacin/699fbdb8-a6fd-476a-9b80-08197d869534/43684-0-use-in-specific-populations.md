@@ -16,8 +16,7 @@ Because of the potential for serious adverse reactions from levofloxacin in nurs
 
 ## 8.4 Pediatric Use
 
-Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species.
-[see Warnings and Precautions (5.10) and Animal Toxicology and/or Pharmacology (13.2)].
+Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species [see Warnings and Precautions (5.10) and Animal Toxicology and/or Pharmacology (13.2)].
 
 Pharmacokinetics following intravenous administration
 

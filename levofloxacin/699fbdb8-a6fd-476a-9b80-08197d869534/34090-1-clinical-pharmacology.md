@@ -132,7 +132,7 @@ The apparent total body clearance and apparent volume of distribution were not a
 
 Renal Impairment
 
-Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
+Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
 Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 Hepatic Impairment
@@ -253,7 +253,7 @@ The MIC values should be interpreted according to the criteria outlined in Table
 Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculums concentrations.
+One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 9.

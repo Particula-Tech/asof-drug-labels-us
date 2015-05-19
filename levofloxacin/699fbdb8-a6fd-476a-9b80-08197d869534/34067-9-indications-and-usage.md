@@ -70,10 +70,10 @@ Levofloxacin is indicated for the treatment of uncomplicated urinary tract infec
 ## 1.13 Inhalational Anthrax (Post-Exposure)
 
 Levofloxacin is indicated for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
-The effectiveness of levofloxacin is based on plasma concentrations achieved in humans, a surrogate marker considered likely to predict clinical benefit.
+The effectiveness of levofloxacin is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 Levofloxacin has not been tested in humans for the post-exposure prevention of inhalation anthrax.
 The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.
-Prolonged levofloxacin therapy in adults should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1), (2.2) and Clinical Studies (14.9)].
+Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1), (2.2) and Clinical Studies (14.9)].
 
 ## 1.14 Plague
 

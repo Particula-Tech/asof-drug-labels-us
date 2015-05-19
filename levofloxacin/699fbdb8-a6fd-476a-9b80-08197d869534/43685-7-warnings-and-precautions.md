@@ -10,8 +10,7 @@ Factors, in addition to age and corticosteroid use, that may independently incre
 Tendinitis and tendon rupture have been reported in patients taking fluoroquinolones who do not have the above risk factors.
 Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
 Levofloxacin should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
-Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
-[see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug [see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
 
 ## 5.2 Exacerbation of Myasthenia Gravis
 
