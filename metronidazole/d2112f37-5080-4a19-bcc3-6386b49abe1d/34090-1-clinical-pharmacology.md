@@ -99,8 +99,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-For anaerobic bacteria, the susceptibility to metronidazole can be determined by the reference broth and/or agar method.
-1,2
+For anaerobic bacteria, the susceptibility to metronidazole can be determined by the reference broth and/or agar method.1,2
 
 The MIC values should be interpreted according to the criteria provided in the following table.
 
@@ -119,7 +118,7 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2 Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
 
 | Acceptable Quality Control Ranges for Metronidazole |  |  |
 | --- | --- | --- |

@@ -112,7 +112,9 @@ Interference is due to the similarity in absorbance peaks of NADH (340nm) and me
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Tumors affecting the liver, lung, mammary and lymphatic tissues have been detected in several studies of metronidazole in rats and mice, but not hamsters.Pulmonary tumors have been observed in all six reported studies in the mouse, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only).
+Tumors affecting the liver, lung, mammary and lymphatic tissues have been detected in several studies of metronidazole in rats and mice, but not hamsters.
+
+Pulmonary tumors have been observed in all six reported studies in the mouse, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only).
 Malignant tumors were increased in male mice treated at approximately 1500 mg/m2 (similar to the maximum recommended daily dose, based on body surface area comparisons).
 Malignant lymphomas and pulmonary neoplasms were also increased with lifetime feeding of the drug to mice.
 Mammary and hepatic tumors were increased among female rats administered oral metronidazole compared to concurrent controls.
@@ -140,7 +142,9 @@ Many studies included first trimester exposures.
 One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in utero; however, these findings were not confirmed.
 In addition, more than ten randomized, placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery.
 Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy.
-Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.Metronidazole crosses the placental barrier and its effects on the human fetal organogenesis are not known.
+Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
+
+Metronidazole crosses the placental barrier and its effects on the human fetal organogenesis are not known.
 Reproduction studies have been performed in rats, rabbits and mice at doses similar to the maximum recommended daily dose based on body surface area comparisons.
 There was no evidence of harm to the fetus due to metronidazole.
 
