@@ -1,3 +1,3 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Topically applied mometasone furoate topical solution USP, 0.1% can be absorbed in sufficient amounts to produce systemic effects (see PRECAUTIONS).
+Topically applied Mometasone Furoate Topical Solution USP, 0.1% can be absorbed in sufficient amounts to produce systemic effects [see Warnings and Precautions (5.1)].

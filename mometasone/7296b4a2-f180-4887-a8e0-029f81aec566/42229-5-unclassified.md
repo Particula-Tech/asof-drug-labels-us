@@ -1,14 +1,15 @@
-For Dermatologic Use Only Not for Ophthalmic Use
+Made in Israel
 
-Rx Only
+Manufactured By Perrigo
 
-MADE IN ISRAEL
+Yeruham 80500, Israel
 
-MANUFACTURED BY PERRIGO® YERUHAM 80500, ISRAEL
+Distributed By
 
-DISTRIBUTED BY PERRIGO® ALLEGAN, MI 49010
+Perrigo®
 
-Rev.
-1/08
+Allegan, MI 49010 • www.perrigo.com
 
-: 5D800 RC J3
+5D800 RC J4
+
+Rev 10-13
