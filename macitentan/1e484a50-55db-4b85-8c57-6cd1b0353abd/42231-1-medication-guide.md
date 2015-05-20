@@ -138,6 +138,6 @@ Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Actelion Pharmaceuticals US, Inc. 5000 Shoreline Court, Ste.
-200 South San Francisco, CA 94080, USA Issued: February 2015 ACT20150219
+200 South San Francisco, CA 94080, USA Issued: April 2015 ACT20150512
 
 © 2015 Actelion Pharmaceuticals US, Inc. All rights reserved.
