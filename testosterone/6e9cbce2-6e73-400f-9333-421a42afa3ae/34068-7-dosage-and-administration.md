@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Prior to initiating AXIRON, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1 Dosing and Dose Adjustment
 
 The recommended starting dose of AXIRON (testosterone) topical solution is 60 mg of testosterone (2 pump actuations) applied once daily.

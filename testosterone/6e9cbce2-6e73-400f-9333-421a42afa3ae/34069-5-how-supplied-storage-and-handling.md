@@ -6,7 +6,7 @@ AXIRON (testosterone) topical solution is available as a metered-dose pump conta
 The pump is capable of dispensing 90 mL of solution in 60 metered pump actuations.
 One pump actuation delivers 30 mg of testosterone in 1.5 mL of solution.
 Each metered-dose pump is supplied with an applicator.
-Neither the bottle nor the applicator cup contains latex.
+The bottle and the applicator cup are not made with natural rubber latex.
 
 NDC 0002-1975-90
 

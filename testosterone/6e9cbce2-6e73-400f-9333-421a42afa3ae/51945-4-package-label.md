@@ -1,4 +1,4 @@
-PACKAGE LABEL – Axiron Bottle 30mg 1ct
+# PACKAGE LABEL – Axiron Bottle 30mg
 
 If the seal is broken before first use, contact your pharmacist
 

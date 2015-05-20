@@ -41,4 +41,6 @@ No serious adverse reactions to AXIRON were reported during either the 120 day t
 The following adverse reactions have been identified during postapproval use of AXIRON.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Cardiovascular Disorders: myocardial infarction, stroke [see Warnings and Precautions (5.5)].
+
 Vascular Disorders: Venous thromboembolism [see Warnings and Precautions (5.4)].

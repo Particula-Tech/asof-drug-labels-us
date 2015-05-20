@@ -1,4 +1,4 @@
-Medication Guide
+# Medication Guide
 
 AXIRON® (AXE-e-RON) CIII
 
@@ -41,9 +41,11 @@ Signs and symptoms in women may include:
 What is AXIRON?
 
 AXIRON is a prescription medicine that contains testosterone.
-AXIRON is used to treat adult males who have low or no testosterone.
+AXIRON is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
 Your healthcare provider will test your blood before you start and while you are taking AXIRON.
+
+It is not known if AXIRON is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if AXIRON is safe and effective in children younger than 18 years old.
 Improper use of AXIRON may affect bone growth in children.
@@ -155,13 +157,14 @@ AXIRON can cause serious side effects including:
   - being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use AXIRON.
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke.
 - In large doses AXIRON may lower your sperm count.
 - Swelling of your ankles, feet, or body.
 - Enlarged or painful breasts.
 - Problems breathing while you sleep (sleep apnea).
-- Blood clots in the legs or lungs.
-  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
-  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your healthcare provider right away if you have any of the serious side effects listed above.
 
@@ -212,12 +215,12 @@ Active ingredient: testosterone.
 
 Inactive ingredients: ethanol, isopropyl alcohol, octisalate, and povidone.
 
-The bottle or applicator cup does not contain latex.
+The bottle and the applicator cup are not made with natural rubber latex.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2014
+Revised: 05/2015
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-AXR-0001-MG-20140619
+AXR-0002-MG-20150511
