@@ -110,3 +110,7 @@ Alopecia.
 Vascular Disorders
 
 Raynaud's phenomenon.
+
+Musculoskeletal and Connective Tissue Disorders
+
+Rhabdomyolysis

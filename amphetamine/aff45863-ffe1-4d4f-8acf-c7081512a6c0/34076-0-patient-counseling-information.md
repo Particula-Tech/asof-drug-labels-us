@@ -59,7 +59,7 @@ ADDERALL XR® is a registered trademark of Shire LLC
 
 ADDERALL® is a registered trademark of Shire LLC, under license to Duramed Pharmaceuticals, Inc.
 
-Copyright© 2013 Shire US Inc.
+Copyright© 2015 Shire US Inc.
 
 Rev.
-12/2013
+04/2015

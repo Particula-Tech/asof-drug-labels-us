@@ -169,5 +169,5 @@ The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
-ADDERALL XR® is a registered trademark of Shire LLC © 2013 Shire US Inc Rev.
-12/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+ADDERALL XR® is a registered trademark of Shire LLC © 2015 Shire US Inc Rev.
+04/2015 This Medication Guide has been approved by the U.S. Food and Drug Administration.
