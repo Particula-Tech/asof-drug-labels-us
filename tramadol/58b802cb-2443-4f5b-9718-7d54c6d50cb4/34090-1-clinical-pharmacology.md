@@ -62,7 +62,7 @@ Oral administration of tramadol hydrochloride with food does not significantly a
 Distribution
 
 The volume of distribution of tramadol was 2.6 and 2.9 liters/kg in male and female subjects, respectively, following a 100 mg intravenous dose.
-The binding of tramadol to human plasma proteins is approximately 20% and binding also appears to be independent of concentration up to 10 μg/mL.
+The binding of tramadol to human plasma proteins is approximately 20% and binding also appears to be independent of concentration up to 10 mcg/mL.
 Saturation of plasma protein binding occurs only at concentrations outside the clinically relevant range.
 
 Metabolism

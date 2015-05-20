@@ -13,7 +13,7 @@ Concomitant use of tramadol hydrochloride increases the seizure risk in patients
 
 Administration of tramadol hydrochloride may enhance the seizure risk in patients taking:
 
-- MAO inhibitors (see alsoWARNINGS, Use with MAO Inhibitors and Serotonin Re-Uptake Inhibitors),
+- MAO inhibitors (see also WARNINGS, Use with MAO Inhibitors and Serotonin Re-Uptake Inhibitors),
 - Neuroleptics, or
 - Other drugs that reduce the seizure threshold.
 
@@ -33,7 +33,7 @@ Tramadol-related deaths have occurred in patients with previous histories of emo
 ## Serotonin Syndrome Risk
 
 The development of a potentially life-threatening serotonin syndrome may occur with the use of tramadol products, including tramadol hydrochloride, particularly with concomitant use of serotonergic drugs such as SSRIs, SNRIs, TCAs, MAOIs, and triptans, with drugs which impair metabolism of serotonin (including MAOIs), and with drugs which impair metabolism of tramadol (CYP2D6 and CYP3A4 inhibitors).
-This may occur within the recommended dose (seeCLINICAL PHARMACOLOGY, Pharmacokinetics).
+This may occur within the recommended dose (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 Serotonin syndrome may include mental-status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
@@ -142,12 +142,12 @@ Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHAR
 Serotonergic Drugs
 
 There have been postmarketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
-Caution is advised when tramadol hydrochloride is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John’s Wort.
+Caution is advised when tramadol hydrochloride is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John’s Wort.
 If concomitant treatment of tramadol hydrochloride with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 Triptans
 
-Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when tramadol hydrochloride is coadministered with a triptan.
+Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when tramadol hydrochloride is co-administered with a triptan.
 If concomitant treatment of tramadol hydrochloride with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 Use With Carbamazepine
@@ -229,7 +229,7 @@ The effect of tramadol hydrochloride, if any, on the later growth, development, 
 ## Nursing Mothers
 
 Tramadol hydrochloride is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
-Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours postdose was 100 μg of tramadol (0.1% of the maternal dose) and 27 μg of M1.
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours postdose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
 ## Pediatric Use
 
