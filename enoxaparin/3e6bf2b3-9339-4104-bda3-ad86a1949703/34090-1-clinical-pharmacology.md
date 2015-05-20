@@ -65,9 +65,9 @@ The source of the gender difference in these parameters has not been conclusivel
 Geriatric: Apparent clearance and Amax derived from anti-Factor Xa values following single and multiple SC dosing in geriatric subjects were close to those observed in young subjects.
 Following once a day SC dosing of 40 mg enoxaparin, the Day 10 mean area under anti-Factor Xa activity versus time curve (AUC) was approximately 15% greater than the mean Day 1 AUC value [see Dosage and Administration (2.3) and Use in Specific Populations (8.5)].
 
-Renal Impairment: A linear relationship between anti-Factor Xa plasma clearance and creatinine clearance at steady-state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function.
-Anti-Factor Xa exposure represented by AUC, at steady-state, is marginally increased in mild (creatinine clearance 50–80 mL/min) and moderate (creatinine clearance 30–50 mL/min) renal impairment after repeated subcutaneous 40 mg once-daily doses.
-In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady-state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
+Renal Impairment: A linear relationship between anti-Factor Xa plasma clearance and creatinine clearance at steady state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function.
+Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in mild (creatinine clearance 50–80 mL/min) and moderate (creatinine clearance 30–50 mL/min) renal impairment after repeated subcutaneous 40 mg once-daily doses.
+In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
 
 Hemodialysis: In a single study, elimination rate appeared similar but AUC was two-fold higher than control population, after a single 0.25 or 0.5 mg/kg intravenous dose.
 

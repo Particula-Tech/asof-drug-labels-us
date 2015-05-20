@@ -162,7 +162,7 @@ Table 12 Serious Adverse Events Occurring at ≥ 0.5% Incidence in Enoxaparin So
 | Lung edema | 11 (0.70) | 11 (0.72) |
 | Pneumonia | 13 (0.82) | 9 (0.59) |
 
-Adverse Reactions in Enoxaparin Sodium Injection-Treated Patients with Acute ST-Segment Elevation Myocardial Infarction
+Adverse Reactions in Enoxaparin Sodium Injection-Treated Patients with Acute ST-Segment Elevation Myocardial Infarction:
 
 In a clinical trial in patients with acute ST-segment elevation myocardial infarction, the only adverse reaction that occurred at a rate of at least 0.5% in the enoxaparin sodium injection group was thrombocytopenia (1.5%).
 

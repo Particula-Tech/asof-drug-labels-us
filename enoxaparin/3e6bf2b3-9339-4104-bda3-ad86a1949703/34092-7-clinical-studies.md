@@ -139,7 +139,7 @@ Table 20 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein
 | Indication | Dosing Regimen |  |  |
 | Enoxaparin Sodium Inj. 20 mg q.d. SC | Enoxaparin Sodium Inj. 40 mg q.d. SC | Placebo |  |
 | All Treated Medical Patients During Acute Illness | 351 (100) | 360 (100) | 362 (100) |
-| Treatment FailuresTreatment failures during therapy, between Days 1 and 14. Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
+| Treatment FailureTreatment failures during therapy, between Days 1 and 14. Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
 | Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval 8.8 to 15.7) | 16 (4.4) (95% CI 2.3 to 6.6) | 41 (11.3) (95% CI 8.1 to 14.6) |
 | Proximal DVT (%) | 13 (3.7) | 5 (1.4) | 14 (3.9) |
 
