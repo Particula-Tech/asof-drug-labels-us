@@ -84,4 +84,6 @@ Among all subjects (n=306) who received Natesto at any dose in the 90-day clinic
 The following adverse reactions have been identified during post-approval use of testosterone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Cardiovascular Disorders: myocardial infarction, stroke [see Warnings and Precautions (5.6)].
+
 Vascular Disorders: Venous thromboembolism [see Warnings and Precautions (5.5)]

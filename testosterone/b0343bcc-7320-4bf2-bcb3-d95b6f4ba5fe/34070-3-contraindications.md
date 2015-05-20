@@ -6,4 +6,4 @@ Natesto is contraindicated in women who are or who may become pregnant, or who a
 Natesto may cause fetal harm when administered to a pregnant woman.
 Natesto may cause serious adverse reactions in nursing infants.
 Exposure of a fetus or nursing infant to androgens may result in varying degrees of virilization.
-If a pregnant woman is exposed to Natesto, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1, 8.3)].
+If a pregnant woman is exposed to Natesto, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1, 8.3)].

@@ -4,8 +4,11 @@ Natesto (Na-tes-to) CIII
 
 (testosterone) nasal gel
 
-- Natesto is a prescription medicine that contains testosterone and is used to treat adult males who have low or no testosterone and with conditions associated with low or no testosterone.
+What is Natesto?
+
+- Natesto is a prescription medicine that contains testosterone and is used to treat adult males who have low or no testosterone due to certain medical conditions.
 - Your healthcare provider will test the testosterone level in your blood before you start and while you are using Natesto.
+- It is not known if Natesto is safe or effective to treat men who have low testosterone due to aging.
 - It is not known if Natesto is safe or effective in children less than 18 years old.
   Improper use of Natesto may affect bone growth in children.
 - Natesto is a controlled substance (CIII) because it contains testosterone that can be a target for people who abuse prescription medicines.
@@ -69,6 +72,7 @@ Natesto may cause serious side effects, including:
 - Blood clots in your legs or lungs.
   Signs and symptoms of a blood clot in your legs can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke.
 - In large doses, Natesto may lower your sperm count.
 - Possible increased risk of liver problems.
   Signs and symptoms of liver problems may include: Nausea or vomiting, yellowing of your skin or whites of your eyes, dark urine, or pain on the right side of your stomach area (abdominal pain).

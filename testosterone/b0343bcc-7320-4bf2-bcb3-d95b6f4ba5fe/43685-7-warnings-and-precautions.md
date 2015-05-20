@@ -39,15 +39,22 @@ There have been postmarketing reports of venous thromboembolic events, including
 Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for (DVT) and those who present with acute shortness of breath for PE.
 If a venous thromboembolic event is suspected, discontinue treatment with Natesto and initiate appropriate workup and management [see Adverse Reactions (6.2)].
 
-## 5.6. Use in Women
+## 5.6 Cardiovascular Risk
+
+Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
+To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
+Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
+Patients should be informed of this possible risk when deciding whether to use or to continue to use Natesto.
+
+## 5.7. Use in Women
 
 Due to lack of controlled studies in women and potential virilizing effects, Natesto is not indicated for use in women.
 
-## 5.7. Potential for Adverse Effects on Spermatogenesis
+## 5.8. Potential for Adverse Effects on Spermatogenesis
 
 With large doses of exogenous androgens, including Natesto, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH), which could possibly lead to adverse effects on semen parameters, including sperm count.
 
-## 5.8. Hepatic Adverse Effects
+## 5.9. Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatitis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatitis can be a life-threatening or fatal complication.
@@ -56,32 +63,32 @@ Natesto is not known to cause these adverse effects.
 Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (e.g., jaundice).
 If these occur, promptly discontinue Natesto while the cause is evaluated.
 
-## 5.9. Edema
+## 5.10. Edema
 
 Androgens, including Natesto, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal, or hepatic disease.
 In addition to discontinuation of the drug, diuretic therapy may be required.
 
-## 5.10. Gynecomastia
+## 5.11. Gynecomastia
 
 Gynecomastia may develop and may persist in patients being treated with androgens, including Natesto, for hypogonadism.[see Adverse Reactions (6.1)].
 
-## 5.11. Sleep Apnea
+## 5.12. Sleep Apnea
 
 The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity and chronic lung disease.
 
-## 5.12. Lipids
+## 5.13. Lipids
 
 Changes in the serum lipid profile may occur.
 Monitor the lipid profile periodically, particularly after starting testosterone therapy.
 Changes in serum lipid profile may require discontinuation of testosterone therapy.
 
-## 5.13. Hypercalcemia
+## 5.14. Hypercalcemia
 
 Androgens, including Natesto, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.14. Decreased Thyroxine-binding Globulin
+## 5.15. Decreased Thyroxine-binding Globulin
 
 Androgens, including Natesto, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
 Free thyroid hormone concentrations remain unchanged; however, and there is no clinical evidence of thyroid dysfunction.

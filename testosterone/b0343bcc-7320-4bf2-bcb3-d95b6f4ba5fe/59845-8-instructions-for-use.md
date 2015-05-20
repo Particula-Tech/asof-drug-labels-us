@@ -68,6 +68,6 @@ Marketed by: Endo Pharmaceuticals Inc., Malvern, PA 19355
 Manufactured by: Haupt Pharma Amareg GmbH, Donaustaufer Str.
 378, Regensburg, Bavaria D-93055, Germany
 
-Approved: November 2014
+Approved: 05/2015
 
-40021377
+40022328-05/15

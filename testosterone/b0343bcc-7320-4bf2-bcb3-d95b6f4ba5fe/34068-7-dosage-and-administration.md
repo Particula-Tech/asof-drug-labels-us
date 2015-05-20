@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Prior to initiating Natesto, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1. Dosing
 
 The recommended dose of Natesto is 11 mg of testosterone (2 pump actuations; 1 actuation per nostril) administered intranasally three times daily for a total daily dose of 33 mg.

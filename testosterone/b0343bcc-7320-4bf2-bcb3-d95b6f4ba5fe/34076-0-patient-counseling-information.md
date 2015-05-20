@@ -31,9 +31,4 @@ Patients Should be Advised of the Following Instructions For Use
 - Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, mood, nasal irritation or rhinitis.
 - Never share Natesto with anyone.
 
-© 2014 Endo Pharmaceuticals Inc. All rights reserved.
-
-Marketed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
-
-Manufactured by: Haupt Pharma Amareg GmbH Donaustaufer Str.
-378 Regensburg, Bavaria D-93055, Germany
+40022328-05/15
