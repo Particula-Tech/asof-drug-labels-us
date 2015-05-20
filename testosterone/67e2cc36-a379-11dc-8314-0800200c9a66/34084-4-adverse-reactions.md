@@ -7,6 +7,8 @@ When administered to a pregnant woman, androgens cause virilization of the exter
 Male – Gynecomastia, and excessive frequency and duration of penile erections.
 Oligospermia may occur at high dosages (see CLINICAL PHARMACOLOGY).
 
+Cardiovascular Disorders – myocardial infarction, stroke
+
 Skin and Appendages – Hirsutism, male pattern baldness, and acne.
 
 Fluid and Electrolyte Disturbances – Retention of sodium, chloride, water, potassium, calcium (see WARNINGS), and inorganic phosphates.

@@ -1,5 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
+Prior to initiating DELATESTRYL, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 Dosage and duration of therapy with DELATESTRYL® (Testosterone Enanthate Injection, USP) will depend on age, sex, diagnosis, patient’s response to treatment, and appearance of adverse effects.
 When properly given, injections of DELATESTRYL are well tolerated.
 Care should be taken to slowly inject the preparation deeply into the gluteal muscle, being sure to follow the usual precautions for intramuscular administration, such as the avoidance of intravascular injection (see PRECAUTIONS).

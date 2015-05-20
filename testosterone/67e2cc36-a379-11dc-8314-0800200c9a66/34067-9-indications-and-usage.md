@@ -4,11 +4,13 @@ Males DELATESTRYL® (Testosterone Enanthate Injection, USP) is indicated for rep
 
 Primary hypogonadism (congenital or acquired) – Testicular failure due to cryptorchidism, bilateral torsion, orchitis, vanishing testis syndrome, or orchidectomy.
 
-Hypogonadotropic hypogonadism (congenital or acquired) – Idiopathic gonadotropin or luteinizing hormone-releasing hormone (LHRH) deficiency, or pituitary-hypothalamic injury from tumors, trauma, or radiation.
+Hypogonadotropic hypogonadism (congenital or acquired) – Gonadotropin or luteinizing hormone-releasing hormone (LHRH) deficiency, or pituitary-hypothalamic injury from tumors, trauma, or radiation.
 (Appropriate adrenal cortical and thyroid hormone replacement therapy are still necessary, however, and are actually of primary importance.)
 
 If the above conditions occur prior to puberty, androgen replacement therapy will be needed during the adolescent years for development of secondary sexual characteristics.
 Prolonged androgen treatment will be required to maintain sexual characteristics in these and other males who develop testosterone deficiency after puberty.
+
+Safety and efficacy of DELATESTRYL in men with “age-related hypogonadism” (also referred to as “late-onset hypogonadism”) have not been established.
 
 Delayed puberty – DELATESTRYL® (Testosterone Enanthate Injection, USP) may be used to stimulate puberty in carefully selected males with clearly delayed puberty.
 These patients usually have a familial pattern of delayed puberty that is not secondary to a pathological disorder; puberty is expected to occur spontaneously at a relatively late date.
