@@ -38,6 +38,7 @@ Table 4 - Adverse Drug Reactions from Post approval Experience of FORTESTA by Sy
 | Reproductive system and breast disorders | Erectile dysfunction, and priapism |
 | Skin and subcutaneous tissue disorders | Allergic dermatitis, erythema, rash, and papular rash. |
 | Vascular disorders | Venous thromboembolism |
+| Cardiovascular disorders | Myocardial infarction, stroke |
 
 Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarketing surveillance of testosterone gel products.
 Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.

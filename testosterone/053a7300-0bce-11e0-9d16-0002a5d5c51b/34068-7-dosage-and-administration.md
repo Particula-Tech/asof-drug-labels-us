@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Prior to initiating, FORTESTA confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1 Dosing and Dose Adjustment
 
 The recommended starting dose of FORTESTA is 40 mg of testosterone (4 pump actuations) applied once daily to the thighs in the morning.

@@ -33,48 +33,55 @@ There have been Postmarketing reports of venous thromboembolic events, including
 Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
 If a venous thromboembolic event is suspected, discontinue treatment with FORTESTA and initiate appropriate workup and management.
 
-## 5.5 Use in Women
+## 5.5 Cardiovascular Risk
+
+Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
+To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
+Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
+Patients should be informed of this possible risk when deciding whether to use or to continue to use FORTESTA.
+
+## 5.6 Use in Women
 
 Due to the lack of controlled evaluations in women and potential virilizing effects, FORTESTA is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-## 5.6 Potential for Adverse Effects on Spermatogenesis
+## 5.7 Potential for Adverse Effects on Spermatogenesis
 
 With large doses of exogenous androgens, including FORTESTA, spermatogenesis may be suppressed through feedback inhibition of pituitary FSH which could possibly lead to adverse effects on semen parameters including sperm count.
 
-## 5.7 Hepatic Adverse Effects
+## 5.8 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g. methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with testosterone enanthate has produced multiple hepatic adenomas.
 FORTESTA is not known to cause these adverse effects.
 
-## 5.8 Edema
+## 5.9 Edema
 
 Androgens, including FORTESTA, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal, or hepatic disease [see Adverse Reactions (6.2)].
 
-## 5.9 Gynecomastia
+## 5.10 Gynecomastia
 
 Gynecomastia may develop and persist in patients being treated with androgens, including FORTESTA, for hypogonadism.
 
-## 5.10 Sleep Apnea
+## 5.11 Sleep Apnea
 
 The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity or chronic lung diseases.
 
-## 5.11 Lipids
+## 5.12 Lipids
 
 Changes in serum lipid profile may require dose adjustment or discontinuation of testosterone therapy.
 
-## 5.12 Hypercalcemia
+## 5.13 Hypercalcemia
 
 Androgens, including FORTESTA, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.13 Decreased Thyroxine-binding globulin
+## 5.14 Decreased Thyroxine-binding globulin
 
 Androgens, including FORTESTA, may decrease concentrations of thyroxin-binding globulins, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
 Free thyroid hormone concentrations remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
-## 5.14 Flammability
+## 5.15 Flammability
 
 Alcohol based products, including FORTESTA, are flammable; therefore, patients should be advised to avoid smoking, fire or flame until the FORTESTA gel has dried.
