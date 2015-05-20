@@ -46,9 +46,13 @@ For more information about the AVEED REMS Program go to www.AveedREMS.com or cal
 
 What is AVEED?
 AVEED is a prescription medicine that contains testosterone.
-AVEED is used to treat adult males who have low or no testosterone and conditions associated with low or no testosterone.
+AVEED is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
 AVEED is only for adult males who need testosterone replacement therapy and when the benefit of receiving AVEED is more than the risk of POME and anaphylaxis.
+
+Your healthcare provider will test your blood before you start and while you are taking AVEED.
+
+It is not known if AVEEDis safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if AVEED is safe and effective for use in children younger than 18 years old.
 Improper use of AVEED may affect bone growth in children.
@@ -114,6 +118,10 @@ o increased urination at night o trouble starting your urine stream o having to 
 - changes in certain blood tests
 - possible increased risk of prostate cancer.
   Your doctor should check you for prostate cancer or any other prostate problems before you receive and while you are receiving AVEED.
+- blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- possible increased risk of heart attack or stroke.
 - in large doses AVEED may lower your sperm count.
 - liver problems.
   Symptoms of liver problems may include:
@@ -124,9 +132,6 @@ o nausea or vomiting o yellowing of your skin or whites of your eyes o dark urin
   This may cause serious problems for people who have heart, kidney, or liver disease.
 - enlarged or painful breasts.
 - have problems breathing while you sleep (sleep apnea).
-- blood clots in the legs or lungs.
-  Signs and symptoms of a blood clot in your leg can include pain, swelling or redness.
-  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your doctor right away if you have any of the serious side effects listed above.
 
@@ -169,10 +174,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
 
-AVEED is a trademark of Endo Pharmaceuticals Inc.
+AVEED is a registered trademark of Endo Pharmaceuticals Inc.
 
-© 2014 Endo Pharmaceuticals Solutions Inc. All rights reserved.
+© 2015 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
-Approved: 09/2014
+Approved: 05/2015
 
-84299820
+84718564

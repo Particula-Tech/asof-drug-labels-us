@@ -36,6 +36,6 @@ Manufactured for: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
 
 AVEED is a registered trademark of Endo Pharmaceuticals Inc.
 
-© 2014 Endo Pharmaceuticals Solutions Inc. All rights reserved.
+© 2015 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
-84299820
+84718564

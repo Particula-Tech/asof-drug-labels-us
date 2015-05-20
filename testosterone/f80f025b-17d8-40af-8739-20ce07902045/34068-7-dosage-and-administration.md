@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Prior to initiating Aveed, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1 Dosage
 
 Aveed is for intramuscular use only.
@@ -14,9 +16,9 @@ The recommended dose of Aveed is 3 mL (750 mg) injected intramuscularly, followe
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Remove the plastic cap from the vial.
-Do not remove the aluminum ring or crimp seal.
-To facilitate the removal of medication from the vial, you can draw 3 mL of air into the syringe and inject into the vial to create positive pressure within the vial chamber.
+Carefully remove the gray plastic cap from the top of the vial by lifting it up from the edges with your fingers or by pushing the bottom edge of the cap upward using the top of your thumb.
+Remove only the gray plastic cap while leaving the aluminum metal ring and crimp seal around the gray rubber stopper in place.
+To facilitate the removal of medication from the vial, you can draw 3 mL of air into the syringe and inject it through the gray rubber stopper into the vial to create positive pressure within the vial chamber.
 
 Withdraw 3 mL (750 mg) of Aveed solution from the vial.
 Expel excess air bubbles from the syringe.

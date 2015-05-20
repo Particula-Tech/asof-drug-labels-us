@@ -99,7 +99,7 @@ Musculoskeletal and Connective Tissue Disorders: musculoskeletal chest pain, mus
 
 Neoplasms Benign, Malignant and Unspecified (including cysts and polyps): prostate cancer, prostatic intraepithelial neoplasia
 
-Nervous System Disorders: cerebrovascular insufficiency, reversible ischemic neurological deficiency, transient ischemic attack
+Nervous System Disorders: stroke, cerebrovascular insufficiency, reversible ischemic neurological deficiency, transient ischemic attack
 
 Psychiatric Disorders: aggression, anxiety, depression, insomnia, irritability, Korsakoff’s psychosis non-alcoholic, male orgasmic disorder, nervousness, restlessness, sleep disorder
 
