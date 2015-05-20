@@ -15,12 +15,12 @@ In combination with 5-fluorouracil, oxaliplatin exhibits in vitro and in vivo an
 
 The reactive oxaliplatin derivatives are present as a fraction of the unbound platinum in plasma ultrafiltrate.
 The decline of ultrafilterable platinum levels following oxaliplatin administration is triphasic, characterized by two relatively short distribution phases (t1/2α; 0.43 hours and t1/2β; 16.8 hours) and a long terminal elimination phase (t1/2γ; 391 hours).
-Pharmacokinetic parameters obtained after a single 2-hour intravenous infusion of Oxaliplatin Injection at a dose of 85 mg/m2 expressed as ultrafilterable platinum were Cmax of 0.814 mcg/mL and volume of distribution of 440 L. Interpatient and intrapatient variability in ultrafilterable platinum exposure (AUC0-48hr) assessed over 3 cycles was moderate to low (23% and 6%, respectively).
+Pharmacokinetic parameters obtained after a single 2-hour intravenous infusion of Oxaliplatin at a dose of 85 mg/m2 expressed as ultrafilterable platinum were Cmax of 0.814 mcg/mL and volume of distribution of 440 L. Interpatient and intrapatient variability in ultrafilterable platinum exposure (AUC0-48hr) assessed over 3 cycles was moderate to low (23% and 6%, respectively).
 A pharmacodynamic relationship between platinum ultrafiltrate levels and clinical safety and effectiveness has not been established.
 
 Distribution
 
-At the end of a 2-hour infusion of Oxaliplatin Injection, approximately 15% of the administered platinum is present in the systemic circulation.
+At the end of a 2-hour infusion of Oxaliplatin, approximately 15% of the administered platinum is present in the systemic circulation.
 The remaining 85% is rapidly distributed into tissues or eliminated in the urine.
 In patients, plasma protein binding of platinum is irreversible and is greater than 90%.
 The main binding proteins are albumin and gamma-globulins.
@@ -37,7 +37,7 @@ Up to 17 platinum-containing derivatives have been observed in plasma ultrafiltr
 Elimination
 
 The major route of platinum elimination is renal excretion.
-At five days after a single 2-hour infusion of Oxaliplatin Injection, urinary elimination accounted for about 54% of the platinum eliminated, with fecal excretion accounting for only about 2%.
+At five days after a single 2-hour infusion of Oxaliplatin, urinary elimination accounted for about 54% of the platinum eliminated, with fecal excretion accounting for only about 2%.
 Platinum was cleared from plasma at a rate (10 – 17 L/h) that was similar to or exceeded the average human glomerular filtration rate (GFR; 7.5 L/h).
 There was no significant effect of gender on the clearance of ultrafilterable platinum.
 The renal clearance of ultrafilterable platinum is significantly correlated with GFR.
@@ -46,16 +46,20 @@ Pharmacokinetics in Special Populations
 
 Pediatric
 
-[see Use In Specific Patient Populations (8.4)].
+[See Use In Specific Patient Populations (8.4)].
 
 Renal Impairment
 
-The AUC0-48hr of platinum in the plasma ultrafiltrate increases as renal function decreases.
-The AUC0-48hr of platinum in patients with mild (creatinine clearance, CLcr 50 to 80 mL/min), moderate (CLcr 30 to < 50 mL/min) and severe renal (CLcr < 30 mL/min) impairment is increased by about 60, 140 and 190%, respectively, compared to patients with normal renal function (CLcr > 80 mL/min) [see Adverse Reactions (6), Drug Interactions (7) and Use In Specific Patient Populations (8.6)].
+A study was conducted in 38 patients with advanced GI cancer and varying degrees of renal impairment.
+Patients in the normal (creatinine clearance (CrCL) >80 mL/min, N=11), mild (CrCL=50-80 mL/min, N=13), and moderate (CrCL=30-49 mL/min, N=10) groups were treated with 85 mg/m2 Oxaliplatin and those in the severe (CrCL <30 mL/min, N=4) group were treated with 65 mg/m2 Oxaliplatin.
+The mean AUC of unbound platinum was 40%, 95%, and 342% higher in the mild, moderate, and severe groups, respectively, than in the normal group.
+Mean Cmax of unbound platinum appeared to be similar among the normal, mild and moderate renal function groups, but was 38% higher in the severe group than in the normal group.
+Caution should be exercised in renally impaired patients [see Use in Specific Populations (8.6)].
+The starting dose of Oxaliplatin should be reduced in patients with severe renal impairment [see Dosage and Administration (2.2)].
 
 Drug - Drug Interactions
 
-No pharmacokinetic interaction between 85 mg/m2 of Oxaliplatin Injection and infusional 5-fluorouracil has been observed in patients treated every 2 weeks, but increases of 5-fluorouracil plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 of Oxaliplatin Injection administered every 3 weeks.
+No pharmacokinetic interaction between 85 mg/m2 of Oxaliplatin and infusional 5-fluorouracil has been observed in patients treated every 2 weeks, but increases of 5-fluorouracil plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 of Oxaliplatin administered every 3 weeks.
 In vitro, platinum was not displaced from plasma proteins by the following medications: erythromycin, salicylate, sodium valproate, granisetron, and paclitaxel.
 In vitro, oxaliplatin is not metabolized by, nor does it inhibit, human cytochrome P450 isoenzymes.
 No P450-mediated drug-drug interactions are therefore anticipated in patients.

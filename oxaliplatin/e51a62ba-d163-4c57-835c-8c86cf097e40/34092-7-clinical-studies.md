@@ -1,13 +1,13 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Combination Adjuvant Therapy with Oxaliplatin Injection and Infusional 5-fluorouracil/leucovorin in Patients with Colon Cancer
+## 14.1 Combination Adjuvant Therapy with Oxaliplatin and Infusional 5-fluorouracil/leucovorin in Patients with Stage II or III Colon Cancer
 
-An international, multicenter, randomized study compared the efficacy and evaluated the safety of Oxaliplatin Injection in combination with an infusional schedule of 5-fluorouracil/leucovorin to infusional 5-fluorouracil/leucovorin alone, in patients with stage II (Dukes’ B2) or III (Dukes’ C) colon cancer who had undergone complete resection of the primary tumor.
-The primary objective of the study was to compare the 3-year disease-free survival (DFS) in patients receiving Oxaliplatin Injection and infusional 5-fluorouracil/leucovorin to those receiving 5-fluorouracil/leucovorin alone.
+An international, multicenter, randomized study compared the efficacy and evaluated the safety of Oxaliplatin in combination with an infusional schedule of 5-fluorouracil/leucovorin to infusional 5-fluorouracil/leucovorin alone, in patients with stage II (Dukes’ B2) or III (Dukes’ C) colon cancer who had undergone complete resection of the primary tumor.
+The primary objective of the study was to compare the 3-year disease-free survival (DFS) in patients receiving Oxaliplatin and infusional 5-fluorouracil/leucovorin to those receiving 5-fluorouracil/leucovorin alone.
 Patients were to be treated for a total of 6 months (i.e., 12 cycles).
 A total of 2246 patients were randomized; 1123 patients per study arm.
-Patients in the study had to be between 18 and 75 years of age, have histologically proven stage II (T3-T4 N0 M0; Dukes’ B2) or III (any T N1-2 M0; Dukes’ C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., ≥ 15 cm from the anal margin) and undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease.
-Patients had to have had no prior chemotherapy, immunotherapy or radiotherapy, and have an ECOG performance status of 0,1, or 2 (KPS ≥ 60%), absolute neutrophil count (ANC) > 1.5x109/L, platelets ≥ 100x109/L, serum creatinine ≤ 1.25 x ULN total bilirubin < 2 x ULN, AST/ALT < 2 x ULN and carcino-embyrogenic antigen (CEA) < 10 ng/mL.
+Patients in the study had to be between 18 and 75 years of age, have histologically proven stage II (T3-T4 N0 M0; Dukes’ B2) or III (any T N1-2 M0; Dukes’ C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., ≥15 cm from the anal margin) and undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease.
+Patients had to have had no prior chemotherapy, immunotherapy or radiotherapy, and have an ECOG performance status of 0,1, or 2 (KPS ≥60%), absolute neutrophil count (ANC) >1.5x109/L, platelets ≥100x109/L, serum creatinine ≤1.25 x ULN total bilirubin <2 x ULN, AST/ALT <2 x ULN and carcino-embyrogenic antigen (CEA) <10 ng/mL.
 Patients with preexisting peripheral neuropathy (NCI grade ≥ 1) were ineligible for this trial.
 
 The following table shows the dosing regimens for the two arms of the study.
@@ -16,7 +16,7 @@ Table 15 - Dosing Regimens in Adjuvant Therapy Study
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin +5-FU/LV(FOLFOX4) (N =1123) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks12 cycles |
+| Oxaliplatin + 5-FU/LV(FOLFOX4) (N =1123) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks12 cycles |
 | 5-FU/LV (N=1123) | Day 1: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV: 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks12 cycles |
 
 The following tables show the baseline characteristics and dosing of the patient population entered into this study.
@@ -24,7 +24,7 @@ The baseline characteristics were well balanced between arms.
 
 Table 16 - Patient Characteristics in Adjuvant Therapy Study
 
-|  | Oxaliplatin + Infusional5-FU/LVN=1123 | Infusional 5-FU/LVN=1123 |
+|  | Oxaliplatin + Infusional 5-FU/LV N=1123 | Infusional 5-FU/LV N=1123 |
 | --- | --- | --- |
 | Sex: Male (%) | 56.1 | 52.4 |
 | Female (%) | 43.9 | 47.6 |
@@ -64,102 +64,98 @@ Table 16 - Patient Characteristics in Adjuvant Therapy Study
 
 Table 17 - Dosing in Adjuvant Therapy Study
 
-|  | Oxaliplatin + Infusional5-FU/LVN=1108 | Infusional 5-FU/LVN=1111 |
+|  | Oxaliplatin + Infusional5-FU/LVN=1108 | Infusional5-FU/LVN=1111 |
 | --- | --- | --- |
 | Median Relative Dose Intensity (%) |  |  |
 | 5-FU | 84.4 | 97.7 |
-| Oxaliplatin Injection | 80.5 | N/A |
+| Oxaliplatin | 80.5 | N/A |
 | Median Number of Cycles | 12 | 12 |
-| Median Number of cycles with Oxaliplatin Injection | 11 | N/A |
+| Median Number of Cycles with Oxaliplatin | 11 | N/A |
 
 The following table and figures summarize the disease-free survival (DFS) results in the overall randomized population and in patients with stage II and III disease based on an ITT analysis.
 The median duration of follow-up was approximately 77 months.
 
 Table 18 - Summary of DFS analysis - ITT analysis
 
-| Parameter | Oxaliplatin + Infusional5-FU/LV | Infusional5-FU/LV |
-| --- | --- | --- |
-| Overall |  |  |
-| N | 1123 | 1123 |
-| Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |
-| Disease-free survival % [95% CI]* | 73.3 [70.7, 76.0] | 67.4 [64.6, 70.2] |
-| Hazard ratio [95% CI] ** | 0.80 [0.68, 0.93] |  |
-| Stratified Logrank test | p=0.003 |  |
-| Stage III (Dukes’ C) |  |  |
-| N | 672 | 675 |
-| Number of events –relapse or death (%) | 226 (33.6) | 271 (40.1) |
-| Disease-free survival % [95% CI] * | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |
-| Hazard ratio [95% CI] ** | 0.78 [0.65, 0.93] |  |
-| Logrank test | p=0.005 |  |
-| Stage II (Dukes’ B2) |  |  |
-| N | 451 | 448 |
-| Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |
-| Disease-free survival % [95% CI]* | 83.7 [80.2, 87.1] | 79.9 [76.2, 83.7] |
-| Hazard ratio [95% CI] ** | 0.84 [0.62, 1.14] |  |
-| Logrank test | p=0.258 |  |
-| Data cut off for disease free survival 1 June 2006*Disease-free survival at 5 years**A hazard ratio of less than 1.00 favors Oxaliplatin Injection + Infusional 5-fluorouracil/leucovorin. |  |  |
+| Parameter | Oxaliplatin + Infusional5-FU/LV | Infusional5-FU/LV |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Overall |  |  |  |  |  |  |  |  |  |  |  |
+| N | 1123 | 1123 |  |  |  |  |  |  |  |  |  |
+| Number of events – relapse or death (%) | 304 (27.1) | 360 (32.1) |  |  |  |  |  |  |  |  |  |
+| Disease-free survival % [95% CI]* | 73.3 [70.7, 76.0] | 67.4 [64.6, 70.2] |  |  |  |  |  |  |  |  |  |
+| Hazard ratio [95% CI] ** | 0.80 [0.68, 0.93] |  |  |  |  |  |  |  |  |  |  |
+| Stratified Logrank test | p=0.003 |  |  |  |  |  |  |  |  |  |  |
+| Stage III (Dukes’ C) |  |  |  |  |  |  |  |  |  |  |  |
+| N | 672 | 675 |  |  |  |  |  |  |  |  |  |
+| Number of events – relapse or death (%) | 226 (33.6) | 271 (40.1) |  |  |  |  |  |  |  |  |  |
+| Disease-free survival % [95% CI] * | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |  |  |  |  |  |  |  |  |  |
+| Hazard ratio [95% CI] ** | 0.78 [0.65, 0.93] |  |  |  |  |  |  |  |  |  |  |
+| Logrank test | p=0.005 |  |  |  |  |  |  |  |  |  |  |
+| Stage II (Dukes’ B2) |  |  |  |  |  |  |  |  |  |  |  |
+| N | 451 | 448 |  |  |  |  |  |  |  |  |  |
+| Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |  |  |  |  |  |  |  |  |  |
+| Disease-free survival % [95% CI]* | 83.7 [80.2, 87.1] | 79.9 [76.2, 83.7] |  |  |  |  |  |  |  |  |  |
+| Hazard ratio [95% CI] ** | 0.84 [0.62, 1.14] |  |  |  |  |  |  |  |  |  |  |
+| Logrank test | p=0.258 |  |  |  |  |  |  |  |  |  |  |
+| Data cut off for disease free survival 1 June 2006 * Disease-free survival at 5 years ** A hazard ratio of less than 1.00 favors Oxaliplatin + Infusional 5-fluorouracil/leucovorin. |  |  |  |  |  |  |  |  |  |  |  |
 
-In the overall and stage III colon cancer populations DFS was statistically significantly improved in the Oxaliplatin Injection combination arm compared to infusional 5-fluorouracil/leucovorin alone.
+In the overall and stage III colon cancer populations DFS was statistically significantly improved in the Oxaliplatin combination arm compared to infusional 5-fluorouracil/leucovorin alone.
 However, a statistically significant improvement in DFS was not noted in Stage II patients.
 
-Figure 2 shows the DFS Kaplan-Meier curves for the comparison of Oxaliplatin Injection and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone for the overall population (ITT analysis).
+Figure 2 shows the DFS Kaplan-Meier curves for the comparison of Oxaliplatin and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone for the overall population (ITT analysis).
 
-Figure 3 shows the DFS Kaplan-Meier curves for the comparison of Oxaliplatin Injection and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone in Stage III patients.
-
-Figure 2 - DFS Kaplan-Meier curves by treatment arm (cutoff: 1 June 2006) - ITT population
-
-Figure 3 - DFS Kaplan-Meier curves by treatment arm in Stage III patients (cutoff: 1 June 2006) - ITT population
+Figure 3 shows the DFS Kaplan-Meier curves for the comparison of Oxaliplatin and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone in Stage III patients.
 
 The following table summarizes the overall survival (OS) results in the overall randomized population and in patients with stage II and III disease, based on the ITT analysis.
 
-Table 19 – Summary of OS analysis – ITT analysis
+Table 19 - Summary of OS analysis - ITT analysis
 
-| Parameter | Oxaliplatin + Infusional5-FU/LV | Infusional 5-FU/LV |
-| --- | --- | --- |
-| Overall |  |  |
-| N | 1123 | 1123 |
-| Number of death events (%) | 245 (21.8) | 283 (25.2) |
-| Hazard ratio* [95% CI] | 0.84 [0.71, 1.00] |  |
-| Stage III (Dukes’ C) |  |  |
-| N | 672 | 675 |
-| Number of death events (%) | 182 (27.1) | 220 (32.6) |
-| Hazard ratio* [95% CI] | 0.80 [0.65, 0.97] |  |
-| Stage II (Dukes’ B2) |  |  |
-| N | 451 | 448 |
-| Number of death events (%) | 63 (14.0) | 63 (14.1) |
-| Hazard ratio* [95% CI] | 1.00 [0.70, 1.41] |  |
-| * A hazard ratio of less than 1.00 favors Oxaliplatin Injection + Infusional 5-fluorouracil/leucovorinData cut off for overall survival 16 January 2007 |  |  |
+| Parameter | Oxaliplatin + Infusional5-FU/LV | Infusional5-FU/LV |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Overall |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N | 1123 | 1123 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of death events (%) | 245 (21.8) | 283 (25.2) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hazard ratio* [95% CI] | 0.84 [0.71, 1.00] |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stage III (Dukes’ C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N | 672 | 675 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of death events (%) | 182 (27.1) | 220 (32.6) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hazard ratio* [95% CI] | 0.80 [0.65, 0.97] |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stage II (Dukes’ B2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N | 451 | 448 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of death events (%) | 63 (14.0) | 63 (14.1) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hazard ratio* [95% CI] | 1.00 [0.70, 1.41] |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * A hazard ratio of less than 1.00 favors Oxaliplatin + Infusional 5-fluorouracil/leucovorin Data cut off for overall survival 16 January 2007 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## 14.2 Combination Therapy with Oxaliplatin Injection and 5-fluorouracil/leucovorin in Patients Previously Untreated for Advanced Colorectal Cancer
+## 14.2 Combination Therapy with Oxaliplatin and 5-fluorouracil/leucovorin in Patients Previously Untreated for Advanced Colorectal Cancer
 
 A North American, multicenter, open-label, randomized controlled study was sponsored by the National Cancer Institute (NCI) as an intergroup study led by the North Central Cancer Treatment Group (NCCTG).
 The study had 7 arms at different times during its conduct, four of which were closed due to either changes in the standard of care, toxicity, or simplification.
 During the study, the control arm was changed to irinotecan plus 5-fluorouracil/leucovorin.
-The results reported below compared the efficacy and safety of two experimental regimens, Oxaliplatin Injection in combination with infusional 5-fluorouracil/leucovorin and a combination of Oxaliplatin Injection plus irinotecan, to an approved control regimen of irinotecan plus 5-fluorouracil/leucovorin in 795 concurrently randomized patients previously untreated for locally advanced or metastatic colorectal cancer.
+The results reported below compared the efficacy and safety of two experimental regimens, Oxaliplatin in combination with infusional 5-fluorouracil/leucovorin and a combination of Oxaliplatin plus irinotecan, to an approved control regimen of irinotecan plus 5-fluorouracil/leucovorin in 795 concurrently randomized patients previously untreated for locally advanced or metastatic colorectal cancer.
 After completion of enrollment, the dose of irinotecan plus 5-fluorouracil/leucovorin was decreased due to toxicity.
 Patients had to be at least 18 years of age, have known locally advanced, locally recurrent, or metastatic colorectal adenocarcinoma not curable by surgery or amenable to radiation therapy with curative intent, histologically proven colorectal adenocarcinoma, measurable or evaluable disease, with an ECOG performance status 0,1, or 2.
-Patients had to have granulocyte count ≥ 1.5 x 109/L, platelets ≥ 100 x 109/L, hemoglobin ≥ 9.0 gm/dL, creatinine ≤ 1.5 x ULN, total bilirubin ≤ 1.5 mg/dL, AST ≤ 5 x ULN, and alkaline phosphatase ≤ 5 x ULN.
+Patients had to have granulocyte count ≥1.5 x 109/L, platelets ≥100 x 109/L, hemoglobin ≥9.0 gm/dL, creatinine ≤1.5 x ULN, total bilirubin ≤1.5 mg/dL, AST ≤5 x ULN, and alkaline phosphatase ≤5 x ULN.
 Patients may have received adjuvant therapy for resected Stage II or III disease without recurrence within 12 months.
-The patients were stratified for ECOG performance status (0, 1 vs. 2), prior adjuvant chemotherapy (yes vs. no), prior immunotherapy (yes vs. no), and age (<65 vs. ≥ 65 years).
+The patients were stratified for ECOG performance status (0, 1 vs. 2), prior adjuvant chemotherapy (yes vs. no), prior immunotherapy (yes vs. no), and age (<65 vs. ≥65 years).
 Although no post study treatment was specified in the protocol, 65 to 72% of patients received additional post study chemotherapy after study treatment discontinuation on all arms.
-Fifty-eight percent of patients on the Oxaliplatin Injection plus 5-fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan plus 5-fluorouracil/leucovorin arm received oxaliplatin-containing regimens.
+Fifty-eight percent of patients on the Oxaliplatin plus 5-fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan plus 5-fluorouracil/leucovorin arm received oxaliplatin-containing regimens.
 Oxaliplatin was not commercially available during the trial.
 
 The following table presents the dosing regimens of the three arms of the study.
 
-Table 20 – Dosing Regimens in Patients Previously Untreated for Advanced Colorectal Cancer Clinical Trial
+Table 20 - Dosing Regimens in Patients Previously Untreated for Advanced Colorectal Cancer Clinical Trial
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin +5-FUL/LV(FOLFOX4)(N=267) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
-| irinotecan +5-FU/LV (IFL) (N=264) | Day 1: irinotecan 125 mg/m2 as a 90–min infusion + LV 20 mg/m2 as a 15-min infusion or intravenous push, followed by 5-FU 500 mg/m2 intravenous bolus weekly x 4 | every 6 weeks |
-| Oxaliplatin +irinotecan(IROX)(N=264) | Day 1: Oxaliplatin: 85 mg/m2 intravenous (2-hour infusion) + irinotecan 200 mg/m2 intravenous over 30 minutes | every 3 weeks |
+| Oxaliplatin + 5-FU/LV (FOLFOX4) (N=267) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| Irinotecan + 5-FU/LV(IFL) (N=264) | Day 1: Irinotecan 125 mg/m2 as a 90–min infusion + LV 20 mg/m2 as a 15-min infusion or intravenous push, followed by 5-FU 500 mg/m2 intravenous bolus weekly x 4 | every 6 weeks |
+| Oxaliplatin + Irinotecan(IROX) (N=264) | Day 1: Oxaliplatin: 85 mg/m2 intravenous (2-hour infusion) + irinotecan 200 mg/m2 intravenous over 30 minutes | every 3 weeks |
 
 The following table presents the demographics of the patient population entered into this study.
 
-Table 21 – Patient Demographics in Patients Previously Untreated for Advanced Colorectal Cancer Clinical Trial
+Table 21 - Patient Demographics in Patients Previously Untreated for Advanced Colorectal Cancer Clinical Trial
 
-|  | Oxaliplatin +5-FU/LVN=267 | irinotecan +5-FU/LVN=264 | Oxaliplatin +irinotecanN=264 |
+|  | Oxaliplatin + 5-FU/LVN=267 | Irinotecan + 5-FU/LVN=264 | Oxaliplatin + IrinotecanN=264 |
 | --- | --- | --- | --- |
 | Sex: Male (%) | 58.8 | 65.2 | 61.0 |
 | Female (%) | 41.2 | 34.8 | 39.0 |
@@ -180,70 +176,68 @@ Table 21 – Patient Demographics in Patients Previously Untreated for Advanced 
 | Prior surgery (%) | 74.5 | 79.2 | 81.8 |
 | Prior adjuvant (%) | 15.7 | 14.8 | 15.2 |
 
-The length of a treatment cycle was 2 weeks for the Oxaliplatin Injection and 5-fluorouracil/leucovorin regimen; 6 weeks for the irinotecan plus 5-fluorouracil/leucovorin regimen; and 3 weeks for the Oxaliplatin Injection plus irinotecan regimen.
-The median number of cycles administered per patient was 10 (23.9 weeks) for the Oxaliplatin Injection and 5-fluorouracil/leucovorin regimen, 4 (23.6 weeks) for the irinotecan plus 5-fluorouracil/leucovorin regimen, and 7 (21.0 weeks) for the Oxaliplatin Injection plus irinotecan regimen.
-Patients treated with the Oxaliplatin Injection and 5-fluorouracil/leucovorin combination had a significantly longer time to tumor progression based on investigator assessment, longer overall survival, and a significantly higher confirmed response rate based on investigator assessment compared to patients given irinotecan plus 5-fluorouracil/leucovorin.
+The length of a treatment cycle was 2 weeks for the Oxaliplatin and 5-fluorouracil/leucovorin regimen; 6 weeks for the irinotecan plus 5-fluorouracil/leucovorin regimen; and 3 weeks for the Oxaliplatin plus irinotecan regimen.
+The median number of cycles administered per patient was 10 (23.9 weeks) for the Oxaliplatin and 5-fluorouracil/leucovorin regimen, 4 (23.6 weeks) for the irinotecan plus 5-fluorouracil/leucovorin regimen, and 7 (21.0 weeks) for the Oxaliplatin plus irinotecan regimen.
+Patients treated with the Oxaliplatin and 5-fluorouracil/leucovorin combination had a significantly longer time to tumor progression based on investigator assessment, longer overall survival, and a significantly higher confirmed response rate based on investigator assessment compared to patients given irinotecan plus 5-fluorouracil/leucovorin.
 The following table summarizes the efficacy results.
 
-Table 22 – Summary of Efficacy
+Table 22 - Summary of Efficacy
 
-|  | Oxaliplatin +5-FU/LVN=267 | irinotecan +5-FU/LVN=264 | Oxaliplatin +irinotecanN=264 |
-| --- | --- | --- | --- |
-| Survival (ITT) |  |  |  |
-| Number of deaths N (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |
-| Median survival (months) | 19.4 | 14.6 | 17.6 |
-| Hazard Ratio and (95% confidence interval) | 0.65(0.53-0.80)* |  |  |
-| P-value | <0.0001* | - | - |
-| TTP (ITT, investigator assessment) |  |  |  |
-| Percentage of progressors | 82.8 | 81.8 | 89.4 |
-| Median TTP (months) | 8.7 | 6.9 | 6.5 |
-| Hazard Ratio and (95% confidence interval)*** | 0.74(0.61-0.89)* |  |  |
-| P-value | 0.0014* | - | - |
-| Response Rate (investigator assessment)** |  |  |  |
-| Patients with measurable disease | 210 | 212 | 215 |
-| Complete response N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |
-| Partial response N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |
-| Complete and partial response N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |
-| 95% confidence interval | (38.5 – 52.0) | (26.2 – 38.9) | (28.1 – 40.8) |
-| P-value | 0.0080* | - | - |
-| *Compared to irinotecan plus 5-fluorouracil/leucovorin (IFL) arm**Based on all patients with measurable disease at baselineThe numbers in the response rate and TTP analysis are based on unblinded investigator assessment.***A hazard ratio of less than 1.00 favors Oxaliplatin Injection + Infusional 5-fluorouracil/leucovorin. |  |  |  |
+|  | Oxaliplatin + 5-FU/LVN=267 | Irinotecan + 5-FU/LVN=264 | Oxaliplatin + IrinotecanN=264 |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Survival (ITT) |  |  |  |  |  |  |  |  |  |  |
+| Number of deaths N (%) | 155 (58.1) | 192 (72.7) | 175 (66.3) |  |  |  |  |  |  |  |
+| Median survival (months) | 19.4 | 14.6 | 17.6 |  |  |  |  |  |  |  |
+| Hazard Ratio and (95% confidence interval) | 0.65 (0.53-0.80)* |  |  |  |  |  |  |  |  |  |
+| P-value | <0.0001* | - | - |  |  |  |  |  |  |  |
+| TTP (ITT, investigator assessment) |  |  |  |  |  |  |  |  |  |  |
+| Percentage of progressors | 82.8 | 81.8 | 89.4 |  |  |  |  |  |  |  |
+| Median TTP (months) | 8.7 | 6.9 | 6.5 |  |  |  |  |  |  |  |
+| Hazard Ratio and (95% confidence interval)*** | 0.74 (0.61-0.89)* |  |  |  |  |  |  |  |  |  |
+| P-value | 0.0014* | - | - |  |  |  |  |  |  |  |
+| Response Rate (investigator assessment)** |  |  |  |  |  |  |  |  |  |  |
+| Patients with measurable disease | 210 | 212 | 215 |  |  |  |  |  |  |  |
+| Complete response N (%) | 13 (6.2) | 5 (2.4) | 7 (3.3) |  |  |  |  |  |  |  |
+| Partial response N (%) | 82 (39.0) | 64 (30.2) | 67 (31.2) |  |  |  |  |  |  |  |
+| Complete and partial response N (%) | 95 (45.2) | 69 (32.5) | 74 (34.4) |  |  |  |  |  |  |  |
+| 95% confidence interval | (38.5 – 52.0) | (26.2 – 38.9) | (28.1 – 40.8) |  |  |  |  |  |  |  |
+| P-value | 0.0080* | - | - |  |  |  |  |  |  |  |
+| * Compared to irinotecan plus 5-fluorouracil/leucovorin (IFL) arm ** Based on all patients with measurable disease at baseline The numbers in the response rate and TTP analysis are based on unblinded investigator assessment. *** A hazard ratio of less than 1.00 favors Oxaliplatin + Infusional 5-fluorouracil/leucovorin. |  |  |  |  |  |  |  |  |  |  |
 
-Figure 4 illustrates the Kaplan-Meier survival curves for the comparison of Oxaliplatin Injection and 5-fluorouracil/leucovorin combination and Oxaliplatin Injection plus irinotecan to irinotecan plus 5-fluorouracil/leucovorin.
+Figure 4 illustrates the Kaplan-Meier survival curves for the comparison of Oxaliplatin and 5-fluorouracil/leucovorin combination and Oxaliplatin plus irinotecan to irinotecan plus 5-fluorouracil/leucovorin.
 
-Figure 4 – Kaplan-Meier Overall Survival by treatment arm
-
-A descriptive subgroup analysis demonstrated that the improvement in survival for Oxaliplatin Injection plus 5-fluorouracil/leucovorin compared to irinotecan plus 5-fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant therapy, and number of organs involved.
-An estimated survival advantage in Oxaliplatin Injection plus 5-fluorouracil/leucovorin versus irinotecan plus 5-fluorouracil/leucovorin was seen in both genders; however it was greater among women than men.
+A descriptive subgroup analysis demonstrated that the improvement in survival for Oxaliplatin plus 5-fluorouracil/leucovorin compared to irinotecan plus 5-fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant therapy, and number of organs involved.
+An estimated survival advantage in Oxaliplatin plus 5-fluorouracil/leucovorin versus irinotecan plus 5-fluorouracil/leucovorin was seen in both genders; however it was greater among women than men.
 Insufficient subgroup sizes prevented analysis by race.
 
-## 14.3 Combination Therapy with Oxaliplatin Injection and 5-fluorouracil/leucovorin in Previously Treated Patients with Advanced Colorectal Cancer
+## 14.3 Combination Therapy with Oxaliplatin and 5-fluorouracil/leucovorin in Previously Treated Patients with Advanced Colorectal Cancer
 
-A multicenter, open-label, randomized, three-arm controlled study was conducted in the US and Canada comparing the efficacy and safety of Oxaliplatin Injection in combination with an infusional schedule of 5-fluorouracil/leucovorin to the same dose and schedule of 5-fluorouracil/leucovorin alone and to single agent oxaliplatin in patients with advanced colorectal cancer who had relapsed/progressed during or within 6 months of first-line therapy with bolus 5-fluorouracil/leucovorin and irinotecan.
+A multicenter, open-label, randomized, three-arm controlled study was conducted in the US and Canada comparing the efficacy and safety of Oxaliplatin in combination with an infusional schedule of 5-fluorouracil/leucovorin to the same dose and schedule of 5-fluorouracil/leucovorin alone and to single agent oxaliplatin in patients with advanced colorectal cancer who had relapsed/progressed during or within 6 months of first-line therapy with bolus 5-fluorouracil/leucovorin and irinotecan.
 The study was intended to be analyzed for response rate after 450 patients were enrolled.
 Survival will be subsequently assessed in all patients enrolled in the completed study.
 Accrual to this study is complete, with 821 patients enrolled.
-Patients in the study had to be at least 18 years of age, have unresectable, measurable, histologically proven colorectal adenocarcinoma, with a Karnofsky performance status > 50%.
-Patients had to have SGOT(AST) and SGPT(ALT) ≤ 2x the institution’s upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case ≤ 5x ULN was permitted.
-Patients had to have alkaline phosphatase ≤ 2x the institution’s ULN, unless liver metastases were present and documented at baseline by CT or MRI scan, in which cases ≤ 5x ULN was permitted.
+Patients in the study had to be at least 18 years of age, have unresectable, measurable, histologically proven colorectal adenocarcinoma, with a Karnofsky performance status >50%.
+Patients had to have SGOT(AST) and SGPT(ALT) ≤2x the institution’s upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case ≤5x ULN was permitted.
+Patients had to have alkaline phosphatase ≤2x the institution’s ULN, unless liver metastases were present and documented at baseline by CT or MRI scan, in which cases ≤5x ULN was permitted.
 Prior radiotherapy was permitted if it had been completed at least 3 weeks before randomization.
 The dosing regimens of the three arms of the study are presented in the table below.
 
-Table 23 – Dosing Regimens in Refractory and Relapsed Colorectal Cancer Clinical Trial
+Table 23 - Dosing Regimens in Refractory and Relapsed Colorectal Cancer Clinical Trial
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin + 5-FU/LV(N =152) | Day 1: Oxaliplatin Injection: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| Oxaliplatin + 5-FU/LV(N =152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | 5-FU/LV(N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by 5-FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
-| Oxaliplatin (N=156) | Day 1: Oxaliplatin Injection 85 mg/m2 (2-hour infusion) | every 2 weeks |
+| Oxaliplatin(N=156) | Day 1: Oxaliplatin 85 mg/m2 (2-hour infusion) | every 2 weeks |
 
-Patients entered into the study for evaluation of response must have had at least one unidimensional lesion measuring ≥ 20 mm using conventional CT or MRI scans, or ≥ 10 mm using a spiral CT scan.
+Patients entered into the study for evaluation of response must have had at least one unidimensional lesion measuring ≥20 mm using conventional CT or MRI scans, or ≥10 mm using a spiral CT scan.
 Tumor response and progression were assessed every 3 cycles (6 weeks) using the Response Evaluation Criteria in Solid Tumors (RECIST) until radiological documentation of progression or for 13 months following the first dose of study drug(s), whichever came first.
 Confirmed responses were based on two tumor assessments separated by at least 4 weeks.
 The demographics of the patient population entered into this study are shown in the table below.
 
-Table 24 – Patient Demographics in Refractory and Relapsed Colorectal Cancer Clinical Trial
+Table 24 - Patient Demographics in Refractory and Relapsed Colorectal Cancer Clinical Trial
 
-|  | 5-FU/LV(N = 151) | OxaliplatinInjection(N = 156) | OxaliplatinInjection+ 5-FU/LV(N = 152) |
+|  | 5-FU/LV(N = 151) | Oxaliplatin(N = 156) | Oxaliplatin + 5-FU/LV(N = 152) |
 | --- | --- | --- | --- |
 | Sex: Male (%) | 54.3 | 60.9 | 57.2 |
 | Female (%) | 45.7 | 39.1 | 42.8 |
@@ -267,32 +261,33 @@ Table 24 – Patient Demographics in Refractory and Relapsed Colorectal Cancer C
 | Liver only | 22.5 | 25.6 | 18.4 |
 | Liver + other | 60.3 | 59.0 | 53.3 |
 
-The median number of cycles administered per patient was 6 for the Oxaliplatin Injection and 5-fluorouracil/leucovorin combination and 3 each for 5-fluorouracil/leucovorin alone and Oxaliplatin Injection alone.
+The median number of cycles administered per patient was 6 for the Oxaliplatin and 5-fluorouracil/leucovorin combination and 3 each for 5-fluorouracil/leucovorin alone and Oxaliplatin alone.
 
-Patients treated with the combination of Oxaliplatin Injection and 5-fluorouracil/leucovorin had an increased response rate compared to patients given 5-fluorouracil/leucovorin or oxaliplatin alone.
+Patients treated with the combination of Oxaliplatin and 5-fluorouracil/leucovorin had an increased response rate compared to patients given 5-fluorouracil/leucovorin or oxaliplatin alone.
 The efficacy results are summarized in the tables below.
 
 Table 25 - Response Rates (ITT Analysis)
 
-| Best Response | 5-FU/LV(N=151) | Oxaliplatin Injection(N=156) | Oxaliplatin Injection +5-FU/LV(N=152) |
+| Best Response | 5-FU/LV(N = 151) | Oxaliplatin(N = 156) | Oxaliplatin + 5-FU/LV(N = 152) |
 | --- | --- | --- | --- |
 | CR | 0 | 0 | 0 |
 | PR | 0 | 2 (1%) | 13 (9%) |
-| p-value | 0.0002 for 5-FU/LV vs. Oxaliplatin Injection + 5-FU/LV |  |  |
+| p-value | 0.0002 for 5-FU/LV vs. Oxaliplatin + 5-FU/LV |  |  |
 | 95%CI | 0-2.4% | 0.2-4.6% | 4.6-14.2% |
 
-Table 26 - Summary of Radiographic Time to Progression*
+Table 26 - Summary of Radiographic Time to ProgressionThis is not an ITT analysis.
+Events were limited to radiographic disease progression documented by independent review of radiographs.
+Clinical progression was not included in this analysis, and 18% of patients were excluded from the analysis based on unavailability of the radiographs for independent review.
 
-| Arm | 5-FU/LV(N=151) | Oxaliplatin Injection(N=156) | Oxaliplatin Injection +5-FU/LV(N=152) |
+| Arm | 5-FU/LV(N = 151) | Oxaliplatin(N = 156) | Oxaliplatin + 5-FU/LV(N = 152) |
 | --- | --- | --- | --- |
-| No. of Progressors | 74 | 101 | 50 |
+| No. of progressors | 74 | 101 | 50 |
 | No. of patients with no radiological evaluation beyond baseline | 22(15%) | 16(10%) | 17(11%) |
 | Median TTP (months) | 2.7 | 1.6 | 4.6 |
-| 95% CI | 1.8-3.0 | 1.4-2.7 | 4.2-6.1 |
-| *This is not an ITT analysis. Events were limited to radiographic disease progression documented by independent review of radiographs. Clinical progression was not included in this analysis, and 18% of patients were excluded from the analysis based on unavailability of the radiographs for independent review. |  |  |  |
+| 95%CI | 1.8-3.0 | 1.4-2.7 | 4.2-6.1 |
 
 At the time of the interim analysis 49% of the radiographic progression events had occurred.
 In this interim analysis an estimated 2-month increase in median time to radiographic progression was observed compared to 5-fluorouracil/leucovorin alone.
 
-Of the 13 patients who had tumor response to the combination of Oxaliplatin Injection and 5-fluorouracil/leucovorin, 5 were female and 8 were male, and responders included patients <65 years old and ≥ 65 years old.
+Of the 13 patients who had tumor response to the combination of Oxaliplatin and 5-fluorouracil/leucovorin, 5 were female and 8 were male, and responders included patients <65 years old and ≥65 years old.
 The small number of non-Caucasian participants made efficacy analyses in these populations uninterpretable.
