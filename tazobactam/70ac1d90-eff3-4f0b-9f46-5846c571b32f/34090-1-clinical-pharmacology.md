@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Ceftolozane/tazobactam is an antibacterial drug [see Clinical Pharmacology (12.4)].
+ZERBAXA is an antibacterial drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -12,20 +12,19 @@ The exposure-response analyses in Phase 2 trials support the recommended dose of
 
 Cardiac Electrophysiology
 
-In a randomized, positive and placebo-controlled crossover thorough QTc study, 51 healthy subjects were administered a single therapeutic dose 1.5 gram (1 g/0.5 g) and a supratherapeutic dose 4.5 gram (3 g/1.5 g) of ceftolozane/tazobactam.
-No significant effects of ceftolozane/tazobactam on heart rate, electrocardiogram morphology, PR, QRS, or QT interval were detected.
+In a randomized, positive and placebo-controlled crossover thorough QTc study, 51 healthy subjects were administered a single therapeutic dose of ZERBAXA 1.5 gram (ceftolozane 1 g and tazobactam 0.5 g) and a supratherapeutic dose of ZERBAXA 4.5 gram (ceftolozane 3 g and tazobactam 1.5 g). No significant effects of ZERBAXA on heart rate, electrocardiogram morphology, PR, QRS, or QT interval were detected.
 Therefore, ZERBAXA does not affect cardiac repolarization.
 
 ## 12.3 Pharmacokinetics
 
-The mean pharmacokinetic parameters of ZERBAXA in healthy adults with normal renal function after single and multiple 1-hour intravenous infusions of ZERBAXA (ceftolozane/tazobactam, 1 g/0.5 g) administered every 8 hours are summarized in Table 6.
+The mean pharmacokinetic parameters of ZERBAXA in healthy adults with normal renal function after single and multiple 1-hour intravenous infusions of ZERBAXA 1.5 gram (ceftolozane 1 g and tazobactam 0.5 g) administered every 8 hours are summarized in Table 6.
 Pharmacokinetic parameters were similar for single- and multiple-dose administration.
 
-Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane/tazobactam) After Single and Multiple 1 g/0.5 g Intravenous 1-hour Infusions of ZERBAXA Every 8 Hours in Healthy Adults
+Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) After Single and Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) Every 8 Hours in Healthy Adults
 
 | Day 1 (n=9)N = 9, one outlier subject excluded from descriptive statistics | Day 10 (n=10) | Day 1 (n=9) | Day 10 (n=10) |  |
 | --- | --- | --- | --- | --- |
-| PK parameters | Ceftolozane/Tazobactam (1 g/0.5 g every 8 hours) |  |  |  |
+| PK parameters | ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) every 8 hours |  |  |  |
 | Ceftolozane |  | Tazobactam |  |  |
 | Cmax (mcg/mL) | 69.1 (11) | 74.4 (14) | 18.4 (16) | 18 (8) |
 | tmax (h)Median (minimum, maximum) presented | 1.02 (1.01, 1.1) | 1.07 (1, 1.1) | 1.02 (0.99, 1.03) | 1.01 (1, 1.1) |
@@ -33,13 +32,13 @@ Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane/ta
 | t½ (h) | 2.77 (30) | 3.12 (22) | 0.91 (26)N = 8, one subject excluded from descriptive statistics as the concentration-time profile did not exhibit a terminal log-linear phase and t½ could not be calculated | 1.03 (19) |
 
 The Cmax and AUC of ZERBAXA increase in proportion to dose.
-Plasma levels of ZERBAXA do not increase appreciably following multiple intravenous infusions of up to 2 g/1 g (ceftolozane/tazobactam) administered every 8 hours for up to 10 days in healthy adults with normal renal function.
+Plasma levels of ZERBAXA do not increase appreciably following multiple intravenous infusions of ZERBAXA up to 3 g (ceftolozane 2 g and tazobactam 1 g) administered every 8 hours for up to 10 days in healthy adults with normal renal function.
 The elimination half-life (t½) of ceftolozane is independent of dose.
 
 Distribution
 
 The binding of ceftolozane and tazobactam to human plasma proteins is approximately 16% to 21% and 30%, respectively.
-The mean (CV%) steady-state volume of distribution of ZERBAXA in healthy adult males (n = 51) following a single 1 g/0.5 g (ceftolozane/tazobactam) intravenous dose of ZERBAXA was 13.5 L (21%) and 18.2 L (25%) for ceftolozane and tazobactam, respectively, similar to extracellular fluid volume.
+The mean (CV%) steady-state volume of distribution of ZERBAXA in healthy adult males (n = 51) following a single intravenous dose of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) was 13.5 L (21%) and 18.2 L (25%) for ceftolozane and tazobactam, respectively, similar to extracellular fluid volume.
 
 Metabolism
 
@@ -49,7 +48,7 @@ The beta-lactam ring of tazobactam is hydrolyzed to form the pharmacologically i
 Excretion
 
 Ceftolozane and the tazobactam metabolite M1 are eliminated by the kidneys.
-Following administration of a single ceftolozane/tazobactam 1 g/0.5 g intravenous dose to healthy male adults, greater than 95% of ceftolozane was excreted in the urine as unchanged parent drug.
+Following administration of a single ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) intravenous dose to healthy male adults, greater than 95% of ceftolozane was excreted in the urine as unchanged parent drug.
 More than 80% of tazobactam was excreted as the parent compound with the remainder excreted as the tazobactam M1 metabolite.
 After a single dose of ZERBAXA, renal clearance of ceftolozane (3.41 – 6.69 L/h) was similar to plasma CL (4.10 to 6.73 L/h) and similar to the glomerular filtration rate for the unbound fraction, suggesting that ceftolozane is eliminated by the kidney via glomerular filtration.
 
@@ -64,7 +63,7 @@ The respective tazobactam dose normalized geometric mean AUC increased approxima
 To maintain similar systemic exposures to those with normal renal function, dosage adjustment is required [see Dosage and Administration (2.2)].
 
 In subjects with ESRD on HD, approximately two-thirds of the administered ZERBAXA dose is removed by HD.
-The recommended dose in subjects with ESRD on HD is a single loading dose of ZERBAXA (ceftolozane/tazobactam), 500 mg/250 mg, followed by a 100 mg/50 mg maintenance dose of ZERBAXA administered every 8 hours for the remainder of the treatment period.
+The recommended dose in subjects with ESRD on HD is a single loading dose of ZERBAXA 750 mg (ceftolozane 500 mg and tazobactam 250 mg), followed by a ZERBAXA 150 mg (ceftolozane 100 mg and tazobactam 50 mg) maintenance dose administered every 8 hours for the remainder of the treatment period.
 On HD days, administer the dose at the earliest possible time following completion of HD [see Dosage and Administration (2.2)].
 
 Hepatic Impairment
@@ -144,7 +143,7 @@ Clinical isolates may produce multiple beta-lactamases, express varying levels o
 Culture and susceptibility information and local epidemiology should be considered in selecting or modifying antibacterial therapy.
 
 ZERBAXA demonstrated in vitro activity against Enterobacteriaceae in the presence of some extended-spectrum beta-lactamases (ESBLs) and other beta-lactamases of the following groups: TEM, SHV, CTX-M, and OXA.
-ZERBAXA is not active against bacteria that produce serine carbapenamases [K. pneumoniae carbapenemase (KPC)], and metallo-beta lactamases.
+ZERBAXA is not active against bacteria that produce serine carbapenemases [K. pneumoniae carbapenemase (KPC)], and metallo-beta lactamases.
 
 In ZERBAXA clinical trials, some isolates of E. coli and K. pneumoniae, that produced beta-lactamases, were susceptible to ZERBAXA (minimum inhibitory concentration ≤ 2 mcg/mL).
 These isolates produced one or more beta-lactamases of the following enzyme groups: CTX-M, OXA, TEM, or SHV.
@@ -187,7 +186,7 @@ Gram-negative bacteria
 Escherichia coli Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 2 mcg/mL for ceftolozane/tazobactam.
+At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 2 mcg/mL for ceftolozane and tazobactam.
 The safety and effectiveness of ZERBAXA in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-negative bacteria
@@ -196,7 +195,11 @@ Acinetobacter baumannii Burkholderia cepacia Citrobacter freundii Citrobacter ko
 
 Gram-positive bacteria
 
-Streptococcus agalactiae Streptococcus intermedius Streptococcus pyogenes Streptococcus pneumoniae Anaerobic bacteria Fusobacterium spp.
+Streptococcus agalactiae Streptococcus intermedius Streptococcus pyogenes Streptococcus pneumoniae
+
+Anaerobic bacteria
+
+Fusobacterium spp.
 Prevotella spp.
 
 Susceptibility Test Methods
@@ -207,7 +210,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial MICs.
-Ceftolozane/tazobactam susceptibility testing is performed with a fixed 4 mcg/mL concentration of tazobactam.
+Ceftolozane and tazobactam susceptibility testing is performed with a fixed 4 mcg/mL concentration of tazobactam.
 These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
 The MICs should be determined using a standardized test method (broth, and/or agar).1,4 The MIC values should be interpreted according to the criteria in Table 7.
 
@@ -215,12 +218,12 @@ Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,4 This procedure uses paper disks impregnated with 30 mcg of ceftolozane and 10 mcg of tazobactam to test the susceptibility of microorganisms to ceftolozane/tazobactam.
+The zone size should be determined using a standardized test method.2,4 This procedure uses paper disks impregnated with 30 mcg of ceftolozane and 10 mcg of tazobactam to test the susceptibility of microorganisms to ceftolozane and tazobactam.
 The disk diffusion should be interpreted according to the criteria in Table 7.
 
 Anaerobic Techniques
 
-For anaerobic bacteria, the susceptibility to ceftolozane/tazobactam can be determined by standardized test method.3 The MIC values obtained should be interpreted according to criteria provided in Table 7.
+For anaerobic bacteria, the susceptibility to ceftolozane and tazobactam can be determined by standardized test method.3 The MIC values obtained should be interpreted according to criteria provided in Table 7.
 
 Table 7: Susceptibility Interpretive Criteria for Ceftolozane/Tazobactam
 
@@ -241,7 +244,7 @@ A report of "Resistant" indicates that the antimicrobial is not likely to inhibi
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard ceftolozane/tazobactam powder should provide the following range of MIC values provided in Table 8.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard ceftolozane and tazobactam powder should provide the following range of MIC values provided in Table 8.
 For the diffusion technique using the 30 mcg ceftolozane/10 mcg tazobactam disk, the criteria provided in Table 8 should be achieved.4
 
 Table 8: Acceptable Quality Control Ranges for Ceftolozane/Tazobactam

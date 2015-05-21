@@ -36,7 +36,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the 1015 patients treated with ZERBAXA in the Phase 3 clinical trials, 250 (24.6%) were 65 years or older, including 113 (11.1%) 75 years or older.
 The incidence of adverse events in both treatment groups was higher in older subjects (65 years or older) in the trials for both indications.
-In the cIAI trial, cure rates in the elderly (age 65 years and older) in the ceftolozane/tazobactam plus metronidazole arm were 69/100 (69%) and in the comparator arm were 70/85 (82.4%).
+In the cIAI trial, cure rates in the elderly (aged 65 years and older) in the ZERBAXA plus metronidazole arm were 69/100 (69%) and in the comparator arm were 70/85 (82.4%).
 This finding in the elderly population was not observed in the cUTI trial.
 
 ZERBAXA is substantially excreted by the kidney and the risk of adverse reactions to ZERBAXA may be greater in patients with impaired renal function.

@@ -2,8 +2,9 @@
 
 ## 16.1 How Supplied
 
-ZERBAXA (ceftolozane/tazobactam) for Injection is supplied in single-use vials containing 1 g ceftolozane (equivalent to 1.147 g of ceftolozane sulfate) and 0.5 g tazobactam (equivalent to 0.537 g of tazobactam sodium) per vial.
+ZERBAXA 1.5 g (ceftolozane and tazobactam) for injection is supplied in single-dose vials containing ceftolozane 1 g (equivalent to 1.147 g of ceftolozane sulfate) and tazobactam 0.5 g (equivalent to 0.537 g of tazobactam sodium) per vial.
 Vials are supplied in cartons containing 10 vials.
+
 (NDC 67919-030-01)
 
 ## 16.2 Storage and Handling

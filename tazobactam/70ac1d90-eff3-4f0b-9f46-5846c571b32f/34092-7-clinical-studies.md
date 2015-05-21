@@ -2,7 +2,7 @@
 
 ## 14.1 Complicated Intra-abdominal Infections
 
-A total of 979 adults hospitalized with cIAI were randomized and received study medications in a multinational, double-blind study comparing ZERBAXA (ceftolozane/tazobactam 1 g/0.5 g intravenously every 8 hours) plus metronidazole (500 mg intravenously every 8 hours) to meropenem (1 g intravenously every 8 hours) for 4 to 14 days of therapy.
+A total of 979 adults hospitalized with cIAI were randomized and received study medications in a multinational, double-blind study comparing ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) intravenously every 8 hours plus metronidazole (500 mg intravenously every 8 hours) to meropenem (1 g intravenously every 8 hours) for 4 to 14 days of therapy.
 Complicated intra-abdominal infections included appendicitis, cholecystitis, diverticulitis, gastric/duodenal perforation, perforation of the intestine, and other causes of intra-abdominal abscesses and peritonitis.
 The majority of patients (75%) were from Eastern Europe; 6.3% were from the United States.
 
@@ -20,7 +20,7 @@ Clinical cure rates at the TOC visit by pathogen in the MITT population are pres
 
 Table 9: Clinical Cure Rates in a Phase 3 Trial of Complicated Intra-Abdominal Infections
 
-| Analysis Population | ZERBAXA plus metronidazoleZERBAXA 1 g/0.5 g intravenously every 8 hours + metronidazole 500 mg intravenously every 8 hours n/N (%) | Meropenem1 gram intravenously every 8 hours n/N (%) | Treatment Difference (95% CI)The 95% confidence interval (CI) was calculated as an unstratified Wilson Score CI. |
+| Analysis Population | ZERBAXA plus metronidazoleZERBAXA 1.5 g intravenously every 8 hours + metronidazole 500 mg intravenously every 8 hours n/N (%) | Meropenem1 gram intravenously every 8 hours n/N (%) | Treatment Difference (95% CI)The 95% confidence interval (CI) was calculated as an unstratified Wilson Score CI. |
 | --- | --- | --- | --- |
 | MITT | 323/389 (83) | 364/417 (87.3) | -4.3 (-9.2, 0.7) |
 | ME | 259/275 (94.2) | 304/321 (94.7) | -0.5 (-4.5, 3.2) |
@@ -53,7 +53,7 @@ Isolates of a specific genotype were seen in patients who were deemed to be eith
 
 ## 14.2 Complicated Urinary Tract Infections, including Pyelonephritis
 
-A total of 1068 adults hospitalized with cUTI (including pyelonephritis) were randomized and received study medications in a multinational, double-blind study comparing ZERBAXA (ceftolozane/tazobactam 1 g/0.5 g intravenously every 8 hours) to levofloxacin (750 mg intravenously once daily) for 7 days of therapy.
+A total of 1068 adults hospitalized with cUTI (including pyelonephritis) were randomized and received study medications in a multinational, double-blind study comparing ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) intravenously every 8 hours to levofloxacin (750 mg intravenously once daily) for 7 days of therapy.
 The primary efficacy endpoint was defined as complete resolution or marked improvement of the clinical symptoms and microbiological eradication (all uropathogens found at baseline at ≥105 were reduced to <104 CFU/mL) at the test-of-cure (TOC) visit 7 (± 2) days after the last dose of study drug.
 The primary efficacy analysis population was the microbiologically modified intent-to-treat (mMITT) population, which included all patients who received study medication and had at least 1 baseline uropathogen.
 The key secondary efficacy endpoint was the composite microbiological and clinical cure response at the TOC visit in the microbiologically evaluable (ME) population, which included protocol-adherent mMITT patients with a urine culture at the TOC visit.
@@ -72,7 +72,7 @@ Among patients infected with a levofloxacin-susceptible organism at baseline, th
 
 Table 11: Composite Microbiological and Clinical Cure Rates in a Phase 3 Trial of Complicated Urinary Tract Infections
 
-| Analysis Population | ZERBAXA1 g/0.5 g (ceftolozane/tazobactam) intravenously every 8 hours n/N (%) | Levofloxacin750 mg intravenously once daily n/N (%) | Treatment Difference (95% CI)The 95% confidence interval was based on the stratified Newcombe method. |
+| Analysis Population | ZERBAXAZERBAXA 1.5 g intravenously every 8 hours n/N (%) | Levofloxacin750 mg intravenously once daily n/N (%) | Treatment Difference (95% CI)The 95% confidence interval was based on the stratified Newcombe method. |
 | --- | --- | --- | --- |
 | mMITT | 306/398 (76.9) | 275/402 (68.4) | 8.5 (2.3, 14.6) |
 | Levofloxacin resistant baseline pathogen(s) | 60/100 (60) | 44/112 (39.3) |  |

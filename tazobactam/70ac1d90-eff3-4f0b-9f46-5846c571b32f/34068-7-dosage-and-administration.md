@@ -2,15 +2,15 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended dosage regimen of ZERBAXA (ceftolozane/tazobactam) for Injection is 1.5 g (1 g/0.5 g) administered every 8 hours by intravenous infusion over 1 hour in patients 18 years or older and with normal renal function or mild renal impairment.
+The recommended dosage regimen is ZERBAXA 1.5 gram (g) (ceftolozane 1 g and tazobactam 0.5 g) for injection administered every 8 hours by intravenous infusion over 1 hour in patients 18 years or older and with normal renal function or mild renal impairment.
 The duration of therapy should be guided by the severity and site of infection and the patient's clinical and bacteriological progress (Table 1).
 
-Table 1: Dosage of ZERBAXA by Infection in Patients with Creatinine Clearance (CrCl) Greater than 50 mL/min
+Table 1: Dosage of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) by Infection in Patients with Creatinine Clearance (CrCl) Greater than 50 mL/min
 
 | Infection | Dose | Frequency | Infusion Time (hours) | Duration of Treatment |
 | --- | --- | --- | --- | --- |
-| Complicated Intra-abdominal InfectionsUsed in conjunction with metronidazole 500 mg intravenously every 8 hours | 1.5 g (1 g/0.5 g) | Every 8 Hours | 1 | 4-14 days |
-| Complicated Urinary Tract Infections, including Pyelonephritis | 1.5 g (1 g/0.5 g) | Every 8 Hours | 1 | 7 days |
+| Complicated Intra-abdominal InfectionsUsed in conjunction with metronidazole 500 mg intravenously every 8 hours | 1.5 g | Every 8 Hours | 1 | 4-14 days |
+| Complicated Urinary Tract Infections, including Pyelonephritis | 1.5 g | Every 8 Hours | 1 | 7 days |
 
 ## 2.2 Patients with Renal Impairment
 
@@ -20,11 +20,11 @@ For patients with changing renal function, monitor CrCl at least daily and adjus
 
 Table 2: Dosage of ZERBAXA in Patients with Renal Impairment
 
-| Estimated CrCl (mL/min)CrCl estimated using Cockcroft-Gault formula | Recommended Dosage Regimen for ZERBAXAAll doses of ZERBAXA are administered over 1 hour. |
+| Estimated CrCl (mL/min)CrCl estimated using Cockcroft-Gault formula | Recommended Dosage Regimen for ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g)All doses of ZERBAXA are administered over 1 hour. |
 | --- | --- |
-| 30 to 50 | Ceftolozane/tazobactam 750 mg (500 mg/250 mg) intravenously every 8 hours |
-| 15 to 29 | Ceftolozane/tazobactam 375 mg (250 mg/125 mg) intravenously every 8 hours |
-| End-stage renal disease (ESRD) on hemodialysis (HD) | A single loading dose of ceftolozane/tazobactam 750 mg (500 mg/250 mg) followed by a 150 mg (100 mg/50 mg) maintenance dose administered every 8 hours for the remainder of the treatment period (on hemodialysis days, administer the dose at the earliest possible time following completion of dialysis) |
+| 30 to 50 | 750 mg (500 mg and 250 mg) intravenously every 8 hours |
+| 15 to 29 | 375 mg (250 mg and 125 mg) intravenously every 8 hours |
+| End-stage renal disease (ESRD) on hemodialysis (HD) | A single loading dose of 750 mg (500 mg and 250 mg) followed by a 150 mg (100 mg and 50 mg) maintenance dose administered every 8 hours for the remainder of the treatment period (on hemodialysis days, administer the dose at the earliest possible time following completion of dialysis) |
 
 ## 2.3 Preparation of Solutions
 
@@ -42,12 +42,12 @@ Add the withdrawn volume to an infusion bag containing 100 mL of 0.9% Sodium Chl
 
 Table 3: Preparation of Doses
 
-| Ceftolozane/Tazobactam Dose | Volume to Withdraw from Reconstituted Vial |
+| ZERBAXA (ceftolozane and tazobactam) Dose | Volume to Withdraw from Reconstituted Vial |
 | --- | --- |
-| 1.5 g (1 g/0.5 g) | 11.4 mL (entire contents) |
-| 750 mg (500 mg/250 mg) | 5.7 mL |
-| 375 mg (250 mg/125 mg) | 2.9 mL |
-| 150 mg (100 mg/50 mg) | 1.2 mL |
+| 1.5 g (1 g and 0.5 g) | 11.4 mL (entire contents) |
+| 750 mg (500 mg and 250 mg) | 5.7 mL |
+| 375 mg (250 mg and 125 mg) | 2.9 mL |
+| 150 mg (100 mg and 50 mg) | 1.2 mL |
 
 Inspect drug products visually for particulate matter and discoloration prior to use.
 ZERBAXA infusions range from clear, colorless solutions to solutions that are clear and slightly yellow.

@@ -20,7 +20,7 @@ Table 5 lists adverse reactions occurring in 1% or greater of patients receiving
 
 Table 5: Adverse Reactions Occurring in 1% or Greater of Patients Receiving ZERBAXA in Phase 3 Clinical Trials
 
-| ZERBAXAThe ZERBAXA (ceftolozane/tazobactam) for Injection dose was 1 g/0.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) | Meropenem (N=497) | ZERBAXA (N=533) | Levofloxacin (N=535) |  |
+| ZERBAXAThe ZERBAXA for injection dose was 1.5 g intravenously every 8 hours, adjusted to match renal function where appropriate. In the cIAI trials, ZERBAXA was given in conjunction with metronidazole. (N=482) | Meropenem (N=497) | ZERBAXA (N=533) | Levofloxacin (N=535) |  |
 | --- | --- | --- | --- | --- |
 | Preferred Term | Complicated Intra-abdominal Infections |  | Complicated Urinary Tract Infections, Including Pyelonephritis |  |
 | Nausea | 38 (7.9) | 29 (5.8) | 15 (2.8) | 9 (1.7) |
