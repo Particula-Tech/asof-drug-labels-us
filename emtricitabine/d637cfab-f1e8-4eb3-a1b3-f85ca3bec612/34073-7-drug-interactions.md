@@ -23,7 +23,7 @@ Coadministration of rilpivirine with drugs that increase gastric pH may decrease
 ## 7.3 Drugs Affecting Renal Function
 
 Because emtricitabine and tenofovir are primarily eliminated by the kidneys through a combination of glomerular filtration and active tubular secretion, coadministration of COMPLERA with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of emtricitabine, tenofovir, and/or other renally eliminated drugs.
-Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
+Some examples of drugs that are eliminated by active tubular secretion include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.4)].
 
 ## 7.4 QT Prolonging Drugs
 
@@ -47,13 +47,13 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | Azole Antifungal Agents: fluconazole itraconazole ketoconazole posaconazole voriconazole | ↑ rilpivirine,This interaction study has been performed with a dose higher than the recommended dose for rilpivirine. The dosing recommendation is applicable to the recommended dose of rilpivirine 25 mg once daily. ↓ ketoconazole, | Concomitant use of COMPLERA with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes). No dose adjustment is required when COMPLERA is coadministered with azole antifungal agents. Clinically monitor for breakthrough fungal infections when azole antifungals are coadministered with COMPLERA. |
 | H2-Receptor Antagonists: cimetidine famotidine nizatidine ranitidine | ↔ rilpivirine, (famotidine taken 12 hours before rilpivirine or 4 hours after rilpivirine) ↓ rilpivirine, (famotidine taken 2 hours before rilpivirine) | The combination of COMPLERA and H2-receptor antagonists should be used with caution as coadministration may cause significant decreases in rilpivirine plasma concentrations (increase in gastric pH). H2-receptor antagonists should only be administered at least 12 hours before or at least 4 hours after COMPLERA. |
 | Macrolide or Ketolide Antibiotics: clarithromycin erythromycin telithromycin | ↑ rilpivirine ↔ clarithromycin ↔ erythromycin ↔ telithromycin | Concomitant use of COMPLERA with clarithromycin, erythromycin or telithromycin may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes). Where possible, alternatives such as azithromycin should be considered. |
-| Narcotic Analgesics: methadone | ↓ R(–) methadone ↓ S(+) methadone ↔ rilpivirine ↔ methadone (when used with tenofovir) | No dose adjustments are required when initiating coadministration of methadone with COMPLERA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
+| Narcotic Analgesics: methadone | ↓ R(−) methadone ↓ S(+) methadone ↔ rilpivirine ↔ methadone (when used with tenofovir) | No dose adjustments are required when initiating coadministration of methadone with COMPLERA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
 
 ## 7.6 Drugs with No Observed or Predicted Interactions with COMPLERA
 
 No clinically significant drug interactions have been observed between emtricitabine and the following medications: famciclovir or tenofovir DF.
 Similarly, no clinically significant drug interactions have been observed between tenofovir DF and the following medications: entecavir, methadone, oral contraceptives, ribavirin, or tacrolimus in studies conducted in healthy subjects.
 
-No clinically significant drug interactions have been observed between rilpivirine and the following medications: acetaminophen, atorvastatin, chlorzoxazone, ethinyl estradiol, norethindrone, sildenafil, telaprevir, or tenofovir DF.
+No clinically significant drug interactions have been observed between rilpivirine and the following medications: acetaminophen, atorvastatin, chlorzoxazone, ethinyl estradiol,norethindrone, sildenafil, telaprevir, or tenofovir DF.
 Rilpivirine did not have a clinically significant effect on the pharmacokinetics of digoxin or metformin.
 No clinically relevant drug-drug interaction is expected when rilpivirine is coadministered with ribavirin.

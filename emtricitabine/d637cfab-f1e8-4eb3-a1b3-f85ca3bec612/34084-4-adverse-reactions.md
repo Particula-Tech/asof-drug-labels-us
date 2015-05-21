@@ -4,11 +4,12 @@ The following adverse drug reactions are discussed in other sections of the labe
 
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [See Boxed Warning, Warnings and Precautions (5.1)].
 - Severe Acute Exacerbations of Hepatitis B [See Boxed Warning, Warnings and Precautions (5.2)].
-- New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.3)].
-- Depressive Disorders [See Warnings and Precautions (5.5)].
-- Hepatotoxicity [See Warnings and Precautions (5.6)].
-- Bone Effects of Tenofovir DF [See Warnings and Precautions (5.7)].
-- Immune Reconstitution Syndrome [See Warnings and Precautions (5.10)].
+- Skin and Hypersensitivity Reactions [See Warnings and Precautions (5.3)].
+- New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.4)].
+- Depressive Disorders [See Warnings and Precautions (5.6)].
+- Hepatotoxicity [See Warnings and Precautions (5.7)].
+- Bone Effects of Tenofovir DF [See Warnings and Precautions (5.8)].
+- Immune Reconstitution Syndrome [See Warnings and Precautions (5.11)].
 
 ## 6.1 Adverse Reactions from Clinical Trials Experience
 
@@ -107,7 +108,7 @@ Table 2 Selected Laboratory Abnormalities (Grades 1–4) Reported in Subjects Wh
 | N = number of subjects per treatment group |  |  |  |
 | Note: Percentages were calculated versus the number of subjects in ITT population with emtricitabine + tenofovir DF as background regimen. |  |  |  |
 
-Emtricitabine or Tenofovir Disoproxil Fumarate: The following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of increased pancreatic amylase (>2.0 x ULN), increased serum amylase (>175 U/L), increased lipase (>3.0 x ULN), increased alkaline phosphatase (>550 U/L), increased or decreased serum glucose (<40 or >250 mg/dL), increased glycosuria (≥3+), increased creatine kinase (M: >990 U/L; F: >845 U/L), decreased neutrophils (<750/mm3) and increased hematuria (>75 RBC/HPF) occurred.
+Emtricitabine or Tenofovir Disoproxil Fumarate: The following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir DF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of increased pancreatic amylase (>2.0 × ULN), increased serum amylase (>175 U/L), increased lipase (>3.0 × ULN), increased alkaline phosphatase (>550 U/L), increased or decreased serum glucose (<40 or >250 mg/dL), increased glycosuria (≥3+), increased creatine kinase (M: >990 U/L; F: >845 U/L), decreased neutrophils (<750/mm3) and increased hematuria (>75 RBC/HPF) occurred.
 
 Adrenal Function
 
@@ -150,8 +151,12 @@ The pharmacokinetic exposure of rilpivirine in coinfected subjects was comparabl
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of rilpivirine- or tenofovir DF-containing regimens.
+The following adverse reactions have been identified during postmarketing experience in patients receiving rilpivirine- or tenofovir DF-containing regimens.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+COMPLERA:
+
+Skin and Subcutaneous Tissue Disorders Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms)
 
 Rilpivirine:
 

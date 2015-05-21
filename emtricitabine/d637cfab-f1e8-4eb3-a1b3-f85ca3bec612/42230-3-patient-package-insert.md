@@ -202,6 +202,15 @@ What are the possible side effects of COMPLERA?
 COMPLERA can cause serious side effects, including:
 
 - See "What is the most important information I should know about COMPLERA?"
+- Severe skin rash and allergic reactions.
+  Skin rash is a common side effect of COMPLERA.
+  Rash can be serious.
+  Call your doctor right away if you get a rash.
+  In some cases, rash and allergic reaction may need to be treated in a hospital.If you get a rash with any of the following symptoms, stop taking COMPLERA and call your doctor or get medical help right away:
+  - severe allergic reactions causing a swollen face, lips, mouth, tongue or throat, which may lead to difficulty swallowing or breathing
+  - mouth sores or blisters on your body
+  - inflamed eyes (conjunctivitis)
+  - fever, dark urine, or pain on the right side of the stomach-area (abdominal pain).
 - New or worse kidney problems, including kidney failure, can happen in some people who take COMPLERA.
   Your healthcare provider should do blood tests to check your kidneys before starting treatment with COMPLERA.
   If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys during your treatment with COMPLERA.
@@ -280,17 +289,3 @@ Inactive ingredients: pregelatinized starch, lactose monohydrate, microcrystalli
 The tablet film coating contains polyethylene glycol, hypromellose, lactose monohydrate, triacetin, titanium dioxide, iron oxide red, FD&C Blue #2 aluminum lake, FD&C Yellow #6 aluminum lake.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
-
-Manufactured and distributed by:
-
-Gilead Sciences, Inc.
-
-Foster City, CA 94404
-
-Revised: September 2014
-
-COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
-Edurant is a trademark of Janssen Pharmaceuticals, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
-All other trademarks referenced herein are the property of their respective owners.
-
-202123-GS-007

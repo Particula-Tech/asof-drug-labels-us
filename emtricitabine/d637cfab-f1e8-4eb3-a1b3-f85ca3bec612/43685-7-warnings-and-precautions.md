@@ -17,7 +17,17 @@ In some patients infected with HBV and treated with EMTRIVA®, the exacerbations
 Patients who are coinfected with HIV-1 and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with COMPLERA.
 If appropriate, initiation of anti-hepatitis B therapy may be warranted.
 
-## 5.3 New Onset or Worsening Renal Impairment
+## 5.3 Skin and Hypersensitivity Reactions
+
+Severe skin and hypersensitivity reactions have been reported during the postmarketing experience, including cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) with rilpivirine-containing regimens.
+While some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunctions, including elevations in hepatic serum biochemistries.
+During the Phase 3 clinical trials, treatment-related rashes with at least Grade 2 severity were reported in 1% of subjects receiving rilpivirine plus emtricitabine/tenofovir DF.
+Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6.1 and 6.2)].
+
+Discontinue COMPLERA immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis or eosinophilia.
+Clinical status including laboratory parameters should be monitored and appropriate therapy should be initiated.
+
+## 5.4 New Onset or Worsening Renal Impairment
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir DF [See Adverse Reactions (6.2)].
 
@@ -34,14 +44,14 @@ Persistent or worsening bone pain, pain in extremities, fractures and/or muscula
 Emtricitabine and tenofovir are principally eliminated by the kidney; however, rilpivirine is not.
 Since COMPLERA is a combination product and the dose of the individual components cannot be altered, patients with estimated creatinine clearance below 50 mL per minute should not receive COMPLERA.
 
-## 5.4 Drug Interactions
+## 5.5 Drug Interactions
 
 Caution should be given to prescribing COMPLERA with drugs that may reduce the exposure of rilpivirine [See Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 In healthy subjects, supratherapeutic doses of rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the QTc interval of the electrocardiogram [See Drug Interactions (7) and Clinical Pharmacology (12.2)].
 COMPLERA should be used with caution when coadministered with a drug with a known risk of Torsade de Pointes.
 
-## 5.5 Depressive Disorders
+## 5.6 Depressive Disorders
 
 The adverse reaction depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) has been reported with rilpivirine.
 During the Phase 3 trials (N=1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among rilpivirine (N=686) or efavirenz (N=682) was 9% and 8%, respectively.
@@ -51,7 +61,7 @@ The incidence of discontinuation due to depressive disorders among rilpivirine o
 Suicidal ideation was reported in 4 subjects in each arm while suicide attempt was reported in 2 subjects in the rilpivirine arm.
 Patients with severe depressive symptoms should seek immediate medical evaluation to assess the possibility that the symptoms are related to COMPLERA, and if so, to determine whether the risks of continued therapy outweigh the benefits.
 
-## 5.6 Hepatotoxicity
+## 5.7 Hepatotoxicity
 
 Hepatic adverse events have been reported in patients receiving a rilpivirine containing regimen.
 Patients with underlying hepatitis B or C, or marked elevations in liver-associated tests prior to treatment may be at increased risk for worsening or development of liver-associated test elevations with use of COMPLERA.
@@ -59,7 +69,7 @@ A few cases of hepatic toxicity have been reported in patients receiving a rilpi
 Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with COMPLERA is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in liver-associated tests prior to treatment initiation.
 Liver-associated test monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
 
-## 5.7 Bone Effects of Tenofovir DF
+## 5.8 Bone Effects of Tenofovir DF
 
 Bone Mineral Density:
 
@@ -76,20 +86,20 @@ Mineralization Defects:
 
 Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir DF [See Adverse Reactions (6.2)].
 Arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
-Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [See Warnings and Precautions (5.3)].
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir DF [See Warnings and Precautions (5.4)].
 
-## 5.8 Coadministration with Other Products
+## 5.9 Coadministration with Other Products
 
 COMPLERA should not be administered concurrently with other medicinal products containing the active components emtricitabine or tenofovir DF (ATRIPLA®, EMTRIVA, STRIBILD®, TRUVADA®, VIREAD), with medicinal products containing lamivudine (Epivir®, Epivir-HBV®, Epzicom®, Combivir®, Trizivir®), or with adefovir dipivoxil (HEPSERA).
 COMPLERA should not be administered with rilpivirine (Edurant) unless needed for dose adjustment (e.g., with rifabutin) [See Dosage and Administration (2) and Drug Interactions (7.5)].
 
-## 5.9 Fat Redistribution
+## 5.10 Fat Redistribution
 
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are unknown.
 A causal relationship has not been established.
 
-## 5.10 Immune Reconstitution Syndrome
+## 5.11 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including the components of COMPLERA.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.

@@ -29,25 +29,22 @@ Patients should be advised that:
 - Patients with HIV-1 should be tested for hepatitis B virus (HBV) before initiating antiretroviral therapy.
   Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA or VIREAD [See Warnings and Precautions (5.2)].
   COMPLERA should not be discontinued without first informing their healthcare provider.
+- Patients should be informed that skin reactions ranging from mild to severe, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported with COMPLERA.
+  Instruct patients to immediately stop taking COMPLERA and seek medical attention if they develop a rash associated with any of the following symptoms: fever, blisters, mucosal involvement, eye inflammation (conjunctivitis), severe allergic reaction causing swelling of the face, eyes, lips, mouth, tongue or throat which may lead to difficulty swallowing or breathing, and any signs and symptoms of liver problems, as they may be a sign of a more serious reaction.
+  Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be performed and appropriate therapy will be initiated [See Warnings and Precautions (5.3)].
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
-  COMPLERA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.3)].
-- COMPLERA may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [See Warnings and Precautions (5.4)].
+  COMPLERA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.4)].
+- COMPLERA may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [See Warnings and Precautions (5.5)].
 - COMPLERA should not be coadministered with the following drugs, as significant decreases in rilpivirine plasma concentrations may occur due to CYP3A enzyme induction or gastric pH increase, which may result in loss of virologic response and possible resistance to COMPLERA or to the class of NNRTIs: the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin; the antimycobacterials rifampin, rifapentine; proton pump inhibitors, such as esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole; the glucocorticoid systemic dexamethasone (more than a single dose); or St. John's wort (Hypericum perforatum) [See Contraindications (4)].
 - For patients receiving rifabutin, an additional 25 mg tablet of rilpivirine (Edurant) once per day is recommended to be taken concomitantly with COMPLERA and with a meal for the duration of rifabutin coadministration.
 - Patients should be informed that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with COMPLERA.
-  If they experience depressive symptoms, they should seek immediate medical evaluation [See Warnings and Precautions (5.5)].
-- Patients should be informed that hepatotoxicity has been reported with COMPLERA [See Warnings and Precautions (5.6)].
+  If they experience depressive symptoms, they should seek immediate medical evaluation [See Warnings and Precautions (5.6)].
+- Patients should be informed that hepatotoxicity has been reported with COMPLERA [See Warnings and Precautions (5.7)].
 - Decreases in bone mineral density have been observed with the use of VIREAD.
-  Bone mineral density (BMD) monitoring should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [See Warnings and Precautions (5.7)].
+  Bone mineral density (BMD) monitoring should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [See Warnings and Precautions (5.8)].
 - COMPLERA should not be coadministered with ATRIPLA, EMTRIVA, STRIBILD, TRUVADA, or VIREAD; or with drugs containing lamivudine, including Combivir, Epivir or Epivir-HBV, Epzicom, or Trizivir; or with HEPSERA.
-  COMPLERA should not be coadministered with rilpivirine (Edurant) unless needed for dose adjustment (e.g., with rifabutin) [See Warnings and Precautions (5.8)].
-- Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [See Warnings and Precautions (5.9)].
+  COMPLERA should not be coadministered with rilpivirine (Edurant) unless needed for dose adjustment (e.g., with rifabutin) [See Warnings and Precautions (5.9)].
+- Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known [See Warnings and Precautions (5.10)].
 - In some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
   It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-  Patients should be advised to inform their healthcare provider immediately of any symptoms of infection [See Warnings and Precautions (5.10)].
-
-Manufactured and distributed by:
-
-Gilead Sciences, Inc.
-
-Foster City, CA 94404
+  Patients should be advised to inform their healthcare provider immediately of any symptoms of infection [See Warnings and Precautions (5.11)].

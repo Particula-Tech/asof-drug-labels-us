@@ -12,7 +12,7 @@ The effect of rilpivirine at the recommended dose of 25 mg once daily on the QTc
 The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction was 2.0 (5.0) milliseconds (i.e., below the threshold of clinical concern).
 
 When supratherapeutic doses of 75 mg once daily and 300 mg once daily of rilpivirine were studied in healthy adults, the maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline-correction were 10.7 (15.3) and 23.3 (28.4) milliseconds, respectively.
-Steady-state administration of rilpivirine 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6-fold and 6.7-fold, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of rilpivirine [See Warnings and Precautions (5.4)].
+Steady-state administration of rilpivirine 75 mg once daily and 300 mg once daily resulted in a mean steady-state Cmax approximately 2.6-fold and 6.7-fold, respectively, higher than the mean Cmax observed with the recommended 25 mg once daily dose of rilpivirine [See Warnings and Precautions (5.5)].
 
 ## 12.3 Pharmacokinetics
 
@@ -101,7 +101,7 @@ Pharmacokinetics of emtricitabine, rilpivirine and tenofovir have not been fully
 Patients with Renal Impairment
 
 Emtricitabine and Tenofovir Disoproxil Fumarate: The pharmacokinetics of emtricitabine and tenofovir DF are altered in subjects with renal impairment.
-In subjects with creatinine clearance below 50 mL per minute or with end stage renal disease requiring dialysis, Cmax, and AUC of emtricitabine and tenofovir were increased [See Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+In subjects with creatinine clearance below 50 mL per minute or with end stage renal disease requiring dialysis, Cmax, and AUC of emtricitabine and tenofovir were increased [See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 
 Rilpivirine: Population pharmacokinetic analysis indicated that rilpivirine exposure was similar in HIV-1-infected subjects with mild renal impairment relative to HIV-1-infected subjects with normal renal function.
 There is limited or no information regarding the pharmacokinetics of rilpivirine in patients with moderate or severe renal impairment or in patients with end-stage renal disease, and rilpivirine concentrations may be increased due to alteration of drug absorption, distribution, and metabolism secondary to renal dysfunction [See Use in Specific Populations (8.6)].
@@ -169,7 +169,7 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 | Acetaminophen | 500 mg single dose | 150 mg once dailyThe Interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. | 16 | ↑ 9 (↑ 1 to ↑ 18) | ↑ 16 (↑ 10 to ↑ 22) | ↑ 26 (↑ 16 to ↑ 38) |
 | Atorvastatin | 40 mg once daily | 150 mg once daily | 16 | ↓ 9 (↓ 21 to ↑ 6) | ↓ 10 (↓ 19 to ↓ 1) | ↓ 10 (↓ 16 to ↓ 4) |
 | Chlorzoxazone | 500 mg single dose taken 2 hours after rilpivirine | 150 mg once daily | 16 | ↑ 17 (↑ 8 to ↑ 27) | ↑ 25 (↑ 16 to ↑ 35) | ↑ 18 (↑ 9 to ↑ 28) |
-| Ethinyl estradiol/ Norethindrone | 0.035 mg once daily/1 mg once daily | 25 mg once daily | 16 | ↔ | ↔ | ↔ |
+| Ethinyl estradiol/Norethindrone | 0.035 mg once daily/1 mg once daily | 25 mg once daily | 16 | ↔ | ↔ | ↔ |
 | Famotidine | 40 mg single dose taken 12 hours before rilpivirine | 150 mg single dose | 24 | ↓ 1 (↓ 16 to ↑ 16) | ↓ 9 (↓ 22 to ↑ 7) | NA |
 | 40 mg single dose taken 2 hours before rilpivirine | 150 mg single dose | 23 | ↓ 85 (↓ 88 to ↓ 81) | ↓ 76 (↓ 80 to ↓ 72) | NA |  |
 | 40 mg single dose taken 4 hours after rilpivirine | 150 mg single dose | 24 | ↑ 21 (↑ 6 to ↑ 39) | ↑ 13 (↑ 1 to ↑ 27) | NA |  |
@@ -194,11 +194,11 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | 2-hydroxy-atorvastatin | 16 | ↑ 58 (↑ 33 to ↑ 87) | ↑ 39 (↑ 29 to ↑ 50) | ↑ 32 (↑ 10 to ↑ 58) |  |  |
 | 4-hydroxy-atorvastatin | 16 | ↑ 28 (↑ 15 to ↑ 43) | ↑ 23 (↑ 13 to ↑ 33) | NA |  |  |
 | Chlorzoxazone | 500 mg single dose taken 2 hours after rilpivirine | 150 mg once daily | 16 | ↓ 2 (↓ 15 to ↑ 13) | ↑ 3 (↓ 5 to ↑ 13) | NA |
-| Digoxin | 0.5 mg single dose | 25 mg once daily | 22 | ↑ 6 (↓ 3 to ↑ 17) | ↓ 2 (↓ 7 to ↑ 4)AUC(0-last) | NA |
+| Digoxin | 0.5 mg single dose | 25 mg once daily | 22 | ↑ 6 (↓ 3 to ↑ 17) | ↓ 2 (↓ 7 to ↑ 4)AUC(0–last) | NA |
 | Ethinyl estradiol | 0.035 mg once daily | 25 mg once daily | 17 | ↑ 17 (↑ 6 to ↑ 30) | ↑ 14 (↑ 10 to ↑ 19) | ↑ 9 (↑ 3 to ↑ 16) |
 | Norethindrone | 1 mg once daily | 17 | ↓ 6 (↓ 17 to ↑ 6) | ↓ 11 (↓ 16 to ↓ 6) | ↓ 1 (↓ 10 to ↑ 8) |  |
 | Ketoconazole | 400 mg once daily | 150 mg once daily | 14 | ↓ 15 (↓ 20 to ↓ 10) | ↓ 24 (↓ 30 to ↓ 18) | ↓ 66 (↓ 75 to ↓ 54) |
-| R(–) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
+| R(−) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
 | S(+) methadone | 13 | ↓ 13 (↓ 22 to ↓ 3) | ↓ 16 (↓ 26 to ↓ 4) | ↓ 21 (↓ 33 to ↓ 8) |  |  |
 | Metformin | 850 mg single dose | 25 mg once daily | 20 | ↑ 2 (↓ 5 to ↑ 10) | ↓ 3 (↓ 10 to ↑ 6)N (maximum number of subjects with data) for AUC(0–∞)=15 | NA |
 | Omeprazole | 20 mg once daily | 150 mg once daily | 15 | ↓ 14 (↓ 32 to ↑ 9) | ↓ 14 (↓ 24 to ↓ 3) | NA |
