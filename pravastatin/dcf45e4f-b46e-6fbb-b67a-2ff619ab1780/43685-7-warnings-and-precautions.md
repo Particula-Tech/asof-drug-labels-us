@@ -16,6 +16,7 @@ IMNM is characterized by: proximal muscle weakness and elevated serum CPK, which
 
 All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin.
 
+Pravastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 Pravastatin therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
 The risk of myopathy during treatment with statins is increased with concurrent therapy with either erythromycin, cyclosporine, niacin, or fibrates.

@@ -2,6 +2,8 @@
 
 ## 8.1 Pregnancy
 
+Teratogenic Effects
+
 Pregnancy Category X
 
 [See Contraindications (4.3).]

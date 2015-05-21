@@ -14,7 +14,7 @@ Limit pravastatin to 40 mg once daily for concomitant use with clarithromycin [s
 
 ## 7.3 Colchicine
 
-The risk of myopathy/rhabdomyolysis is increased with concomitant administration of colchicines [see Warnings and Precautions (5.1)].
+The risk of myopathy/rhabdomyolysis is increased with concomitant administration of colchicine [see Warnings and Precautions (5.1)].
 
 ## 7.4 Gemfibrozil
 
