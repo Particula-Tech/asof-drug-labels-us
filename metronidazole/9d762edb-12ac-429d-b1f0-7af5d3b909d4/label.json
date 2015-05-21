@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018657"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-9541-24"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "metronidazole",
+      "name": "Metronidazole"
+    }
+  ],
+  "setid": "9d762edb-12ac-429d-b1f0-7af5d3b909d4",
+  "source": "dailymed"
+}
