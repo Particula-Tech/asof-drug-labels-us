@@ -7,10 +7,10 @@ TYSABRI is a colorless and clear to slightly opalescent solution for dilution pr
 TYSABRI is available only through registered infusion centers participating in the TOUCH® Prescribing Program.
 To locate these infusion centers, contact Biogen Idec at 1-800-456-2255.
 
-TYSABRI single-use vials must be refrigerated between 2 to 8°C (36° to 46°F).
+TYSABRI single-use vials must be refrigerated between 2°C to 8°C (36°F to 46°F).
 Do not use beyond the expiration date stamped on the carton and vial label.
 DO NOT SHAKE OR FREEZE.
 Protect from light.
 
-If not used immediately, store the diluted TYSABRI solution for infusion at 2 to 8°C (36° to 46°F).
+If not used immediately, store the diluted TYSABRI solution for infusion at 2°C to 8°C (36°F to 46°F).
 TYSABRI solution for infusion must be administered within 8 hours of preparation.

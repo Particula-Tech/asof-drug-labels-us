@@ -16,13 +16,15 @@ These factors should be considered in the context of expected benefit when initi
 
 Table 1: Estimated United States Incidence of PML Stratified by Risk Factor
 
-| Anti-JCV Antibody Negative** | TYSABRI Exposure† | Anti-JCV Antibody Positive* |  |
+| Anti-JCV Antibody Negative | TYSABRI Exposure† | Anti-JCV Antibody Positive |  |
 | --- | --- | --- | --- |
 | No Prior Immunosuppressant Use | Prior Immunosuppressant Use |  |  |
 | <1/1,000 | 1-24 months | <1/1,000 | 1/1,000 |
-| 25-48 months | 3/1,000 | 13/1,000 |  |
-| 49-72 months | 7/1,000 | 9/1,000 |  |
-| Notes: *Based on US postmarketing PML data as of September 3, 2013, and TYSABRI use data as of August 31, 2013. **Calculation based on 2 cases of anti-JCV antibody negative PML in patients exposed for at least 1 month of therapy as of September 3, 2013. Data for anti-JCV antibody negative patients reflects worldwide exposure. †Data beyond 6 years of treatment are limited. The anti-JCV antibody status was determined using an anti-JCV antibody test (ELISA) that has been analytically and clinically validated and is configured with detection and inhibition steps to confirm the presence of JCV-specific antibodies with an analytical false negative rate of 3%. |  |  |  |
+| 25-48 months | 3/1,000 | 12/1,000 |  |
+| 49-72 months | 6/1,000 | 13/1,000 |  |
+| Notes: The risk estimates are based on postmarketing data in the United States from approximately 69,000 TYSABRI exposed patients. |  |  |  |
+| †Data beyond 6 years of treatment are limited. |  |  |  |
+| The anti-JCV antibody status was determined using an anti-JCV antibody test (ELISA) that has been analytically and clinically validated and is configured with detection and inhibition steps to confirm the presence of JCV-specific antibodies with an analytical false negative rate of 3%. |  |  |  |
 
 Infection by the JC virus is required for the development of PML.
 Anti-JCV antibody testing should not be used to diagnose PML.
@@ -36,7 +38,7 @@ For purposes of risk assessment, a patient with a positive anti-JCV antibody tes
 When assessed, anti-JCV antibody status should be determined using an analytically and clinically validated immunoassay.
 Anti-JCV antibody testing should not be performed for at least two weeks following plasma exchange due to the removal of antibodies from the serum.
 
-There are no known interventions that can reliably prevent PML or adequately treat PML if it occurs.
+There are no known interventions that can reliably prevent PML or that can adequately treat PML if it occurs.
 It is not known whether early detection of PML and discontinuation of TYSABRI will mitigate the disease.
 PML has been reported following discontinuation of TYSABRI in patients who did not have findings suggestive of PML at the time of discontinuation.
 Patients should continue to be monitored for any new signs or symptoms that may be suggestive of PML for at least six months following discontinuation of TYSABRI.
@@ -56,17 +58,17 @@ The progression of deficits usually leads to death or severe disability over wee
 Withhold TYSABRI dosing immediately at the first sign or symptom suggestive of PML.
 
 For diagnosis of PML, an evaluation including a gadolinium-enhanced MRI scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA are recommended.
-If the initial evaluations for PML are negative but clinical suspicion for PML remains, continue to withhold TYSABRI dosing and repeat the evaluations.
+If the initial evaluations for PML are negative but clinical suspicion for PML remains, continue to withhold TYSABRI dosing, and repeat the evaluations.
 
 There are no known interventions that can adequately treat PML if it occurs.
-Three sessions of plasma exchange over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients alpha-4 integrin receptor binding remained high.
+Three sessions of plasma exchange over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients, alpha-4 integrin receptor binding remained high.
 Adverse events which may occur during plasma exchange include clearance of other medications and volume shifts, which have the potential to lead to hypotension or pulmonary edema.
 Although plasma exchange has not been studied in TYSABRI treated patients with PML, it has been used in such patients in the postmarketing setting to remove TYSABRI more quickly from the circulation.
-Anti-JCV antibody testing should not be performed during or for at least two weeks following plasma exchange due to the removal of antibodies from the serum.
+Anti-JCV antibody testing should not be performed during or for at least two weeks following plasma exchange because of the removal of antibodies from the serum.
 
 Immune reconstitution inflammatory syndrome (IRIS) has been reported in the majority of TYSABRI treated patients who developed PML and subsequently discontinued TYSABRI.
 In almost all cases, IRIS occurred after plasma exchange was used to eliminate circulating TYSABRI.
-It presents as a clinical decline in the patient's condition after TYSABRI removal (and in some cases after apparent clinical improvement) that may be rapid, can lead to serious neurological complications or death and is often associated with characteristic changes in the MRI.
+It presents as a clinical decline in the patient's condition after TYSABRI removal (and in some cases after apparent clinical improvement) that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes in the MRI.
 TYSABRI has not been associated with IRIS in patients discontinuing treatment with TYSABRI for reasons unrelated to PML.
 In TYSABRI-treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
 Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
@@ -86,9 +88,9 @@ Selected requirements of the TOUCH® Prescribing Program include the following:
   - – Evaluate patients three months after the first infusion, six months after the first infusion, every six months thereafter, and for at least six months after discontinuing TYSABRI.
   - – Determine every six months whether patients should continue on treatment and, if so, authorize treatment for another six months.
   - – Submit to Biogen Idec the “TYSABRI Patient Status Report and Reauthorization Questionnaire” six months after initiating treatment and every six months thereafter.
-  - – Complete an “Initial Discontinuation Questionnaire” when TYSABRI is discontinued and a “6-Month Discontinuation Questionnaire” following discontinuation of TYSABRI.
-  - – Report cases of PML, hospitalizations due to opportunistic infections, or deaths to Biogen Idec at 1-800-456-2255 as soon as possible.
-- Patients must be enrolled in the TOUCH Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI and complete and sign the Patient-Prescriber Enrollment Form.
+  - – Complete an “Initial Discontinuation Questionnaire” when TYSABRI is discontinued, and a “6-Month Discontinuation Questionnaire” following discontinuation of TYSABRI.
+  - – Report cases of PML, hospitalizations due to opportunistic infections, and deaths to Biogen Idec at 1-800-456-2255 as soon as possible.
+- Patients must be enrolled in the TOUCH Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient-Prescriber Enrollment Form.
 - Pharmacies and infusion centers must be specially certified to dispense or infuse TYSABRI.
 
 ## 5.3. Herpes Encephalitis and Meningitis
@@ -111,20 +113,20 @@ TYSABRI should be discontinued in patients with jaundice or other evidence of si
 
 ## 5.5. Hypersensitivity/Antibody Formation
 
-Hypersensitivity reactions have occurred in patients receiving TYSABRI, including serious systemic reactions (e.g., anaphylaxis) which occurred at an incidence of <1%.
+Hypersensitivity reactions have occurred in patients receiving TYSABRI, including serious systemic reactions (e.g., anaphylaxis), which occurred at an incidence of <1%.
 These reactions usually occur within two hours of the start of the infusion.
 Symptoms associated with these reactions can include urticaria, dizziness, fever, rash, rigors, pruritus, nausea, flushing, hypotension, dyspnea, and chest pain.
 Generally, these reactions are associated with antibodies to TYSABRI.
 
-If a hypersensitivity reaction occurs, discontinue administration of TYSABRI and initiate appropriate therapy.
+If a hypersensitivity reaction occurs, discontinue administration of TYSABRI, and initiate appropriate therapy.
 Patients who experience a hypersensitivity reaction should not be re-treated with TYSABRI.
 Hypersensitivity reactions were more frequent in patients with antibodies to TYSABRI compared to patients who did not develop antibodies to TYSABRI in both MS and CD studies.
 Therefore, the possibility of antibodies to TYSABRI should be considered in patients who have hypersensitivity reactions [see Adverse Reactions (6.2)].
 
 Antibody testing: If the presence of persistent antibodies is suspected, antibody testing should be performed.
 Antibodies may be detected and confirmed with sequential serum antibody tests.
-Antibodies detected early in the treatment course (e.g., within the first six months) may be transient and disappear with continued dosing.
-Repeat testing at three months after the initial positive result is recommended in patients in whom antibodies are detected to confirm that antibodies are persistent.
+Antibodies detected early in the treatment course (e.g., within the first six months) may be transient and may disappear with continued dosing.
+It is recommended that testing be repeated three months after an initial positive result to confirm that antibodies are persistent.
 Prescribers should consider the overall benefits and risks of TYSABRI in a patient with persistent antibodies.
 
 Experience with monoclonal antibodies, including TYSABRI, suggests that patients who receive therapeutic monoclonal antibodies after an extended period without treatment may be at higher risk of hypersensitivity reactions than patients who received regularly scheduled treatment.

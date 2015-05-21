@@ -5,7 +5,6 @@
 Pregnancy Category C. TYSABRI has been shown to reduce pup survival in guinea pigs when given in doses 7 times the human dose, and has been shown to have hematologic effects on the fetus in monkeys when given in doses 2.3 times the human dose [see Nonclinical Toxicology (13.2)].
 There are no adequate and well-controlled studies in pregnant women.
 TYSABRI should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-If a woman becomes pregnant while taking TYSABRI, consider enrolling her in the TYSABRI Pregnancy Exposure Registry by calling 1-800-456-2255.
 
 ## 8.3. Nursing Mothers
 

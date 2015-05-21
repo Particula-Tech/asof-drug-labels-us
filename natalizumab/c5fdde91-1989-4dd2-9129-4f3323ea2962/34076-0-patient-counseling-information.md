@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 General Counseling Information
 
@@ -38,7 +38,7 @@ Instruct patients to report immediately if they experience symptoms such as feve
 Hepatotoxicity
 
 Inform patients that TYSABRI may cause liver injury.
-Instruct patients treated with Tysabri to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+Instruct patients treated with TYSABRI to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
@@ -50,14 +50,12 @@ Immunosuppression/Infections
 Inform patients that TYSABRI may lower the ability of their immune system to fight infections.
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms of infection [see Warnings and Precautions (5.6)].
 
-I61061-21
+I61061-22
 
 TYSABRI (natalizumab)
 
-Manufactured by: Biogen Idec Inc. 14 Cambridge Center Cambridge, MA 02142 USA 1-800-456-2255
+Manufactured by: Biogen Idec Inc. Cambridge, MA 02142 USA 1-800-456-2255
 
-© 2013 Biogen Idec Inc. All rights reserved.
-
-TYSABRI®, AVONEX®, and TOUCH® are registered trademarks of Biogen Idec.
+© 2015 Biogen Idec Inc. All rights reserved.
 
 U.S. Patent Numbers: 5,840,299; 6,602,503

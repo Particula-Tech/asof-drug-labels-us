@@ -14,7 +14,7 @@ TYSABRI should not be used with concomitant immunosuppressants (e.g., 6-mercapto
 Aminosalicylates may be continued during treatment with TYSABRI.
 
 If the patient with Crohn's disease has not experienced therapeutic benefit by 12 weeks of induction therapy, discontinue TYSABRI.
-For patients with Crohn's disease that start TYSABRI while on chronic oral corticosteroids, commence steroid tapering as soon as a therapeutic benefit of TYSABRI has occurred; if the patient with Crohn's disease cannot be tapered off of oral corticosteroids within six months of starting TYSABRI, discontinue TYSABRI.
+For patients with Crohn's disease who start TYSABRI while on chronic oral corticosteroids, commence steroid tapering as soon as a therapeutic benefit of TYSABRI has occurred; if the patient with Crohn's disease cannot be tapered off of oral corticosteroids within six months of starting TYSABRI, discontinue TYSABRI.
 Other than the initial six-month taper, prescribers should consider discontinuing TYSABRI for patients who require additional steroid use that exceeds three months in a calendar year to control their Crohn's disease.
 
 ## 2.3. Dilution Instructions
@@ -25,14 +25,14 @@ Other than the initial six-month taper, prescribers should consider discontinuin
    Inspect the TYSABRI vial for particulate material and discoloration prior to dilution and administration.
    If visible particulates are observed and/or the liquid in the vial is discolored, the vial must not be used.
 3. To prepare the solution, withdraw 15 mL of TYSABRI concentrate from the vial using a sterile needle and syringe.
-   Inject the concentrate into 100 mL 0.9% Sodium Chloride Injection, USP.
+   Inject the concentrate into 100 mL of 0.9% Sodium Chloride Injection, USP.
    No other IV diluents may be used to prepare the TYSABRI solution.
 4. Gently invert the TYSABRI solution to mix completely.
    Do not shake.
    Inspect the solution visually for particulate material prior to administration.
 5. The final dosage solution has a concentration of 2.6 mg/mL.
-6. Following dilution, infuse TYSABRI solution immediately, or refrigerate solution at 2 to 8°C, and use within 8 hours.
-   If stored at 2 to 8°C, allow the solution to warm to room temperature prior to infusion.
+6. Following dilution, infuse TYSABRI solution immediately, or refrigerate solution at 2°C to 8°C, and use within 8 hours.
+   If stored at 2°C to 8°C, allow the solution to warm to room temperature prior to infusion.
    DO NOT FREEZE.
 
 ## 2.4. Administration Instructions
