@@ -17,22 +17,3 @@ Table 2 summarizes the mean testosterone concentrations on Day 30 for patients r
 | Cavg (ng/dL) | 365 ± 187 | 612 ± 286 | 216 ± 79 |
 | Cmax (ng/dL) | 538 ± 371 | 897 ± 565 | 271 ± 110 |
 | Cmin (ng/dL) | 223 ± 126 | 394 ±189 | 164 ± 64 |
-
-At Day 30, patients receiving Testim 100 mg daily showed significant improvement from baseline in multiple sexual function parameters as measured by patient questionnaires when compared to placebo.
-These parameters included sexual motivation, sexual desire, sexual activity and spontaneous erections.
-For Testim 100 mg, improvements in sexual motivation, spontaneous erections, and sexual desire were maintained through Day 90.
-Sexual enjoyment and satisfaction with erection duration were improved compared to baseline but these improvements were not significant compared to the placebo group.
-
-In Testim-treated patients, the number of days in which sexual activity was reported to occur increased by 123% from baseline at Day 30 and was still increased from baseline by 59% at Day 90.
-The number of days with spontaneous erections increased by 137% at Day 30 and was maintained at 78% at Day 90 for Testim-treated patients compared to baseline.
-
-Table 3 summarizes the changes in body composition at Day 90 for patients receiving Testim 50 mg or 100 mg as measured by standardized whole body DEXA (Dual-Energy X-ray Absorptiometry) scanning.
-
-| Table 3: Effect of Testim on Lean Body Mass, Total Fat Mass and % Body Fat |  |  |  |
-| --- | --- | --- | --- |
-| Days of Treatment | Lean Body Mass (Muscle) (kg) | Total Fat Mass (kg) | % Body Fat |
-| Baseline | 61.6 | 29.4 | 30.9 |
-| Day 90 | 63.3 | 28.6 | 29.8 |
-| Change from Baseline | ↑1.6 | ↓0.8 | ↓1.1 |
-
-At Day 90, mean increases from baseline in lean body mass and mean decreases from baseline in total fat mass and percent body fat in Testim-treated patients were significant when compared to placebo-treated patients.

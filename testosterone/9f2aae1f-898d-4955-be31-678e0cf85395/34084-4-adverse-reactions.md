@@ -54,3 +54,7 @@ In at least one reported case, the reporter considered the possibility of second
 Vascular Disorders
 
 Venous thromboembolism [see Warnings and Precautions (5.4)]
+
+Cardiovascular Disorders
+
+Myocardial infarction, stroke [see Warnings and Precautions (5.5)]

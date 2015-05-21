@@ -10,21 +10,21 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about Testim?
 
-1. Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using Testim.
-   Signs and symptoms of early puberty in a child may include: Testim can transfer from your body to others.
-   - enlarged penis or clitoris
-   - early development of pubic hair
-   - increased erections or sex drive
-   - aggressive behavior
-2. Women and children should avoid contact with the unwashed or unclothed area where Testim has been applied to your skin.
-   Stop using Testim and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to Testim.
-   Signs and symptoms of exposure to Testim in children may include: Signs and symptoms of exposure to Testim in women may include:
-   - enlarged penis or clitoris
-   - early development of pubic hair
-   - increased erections or sex drive
-   - aggressive behavior
-   - changes in body hair
-   - a large increase in acne
+- Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using Testim.
+  Signs and symptoms of early puberty in a child may include: Testim can transfer from your body to others.
+  - enlarged penis or clitoris
+  - early development of pubic hair
+  - increased erections or sex drive
+  - aggressive behavior
+- Women and children should avoid contact with the unwashed or unclothed area where Testim has been applied to your skin.
+  Stop using Testim and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to Testim.
+  Signs and symptoms of exposure to Testim in children may include: Signs and symptoms of exposure to Testim in women may include:
+  - enlarged penis or clitoris
+  - early development of pubic hair
+  - increased erections or sex drive
+  - aggressive behavior
+  - changes in body hair
+  - a large increase in acne
 
 To lower the risk of transfer of Testim from your body to others, you should follow these important instructions:
 
@@ -38,9 +38,11 @@ To lower the risk of transfer of Testim from your body to others, you should fol
 What is Testim?
 
 Testim is a prescription medicine that contains testosterone.
-Testim is used to treat adult males who have low or no testosterone.
+Testim is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
 Your healthcare provider will test your blood before you start and while you use Testim.
+
+It is not known if Testim is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if Testim is safe or effective in children younger than 18 years old.
 Improper use of testosterone in children may affect bone growth.
@@ -136,6 +138,7 @@ Testim can cause serious side effects including:
 - Blood clots in the legs or lungs.
   Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke.
 - In large doses Testim may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
   This may cause serious problems for people who have heart, kidney or liver disease.
@@ -191,18 +194,10 @@ Inactive ingredients: purified water, pentadecalactone, carbopol, acrylates, pro
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Manufactured for:
+Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA
 
-Auxilium Pharmaceuticals, Inc.
+By: DPT Laboratories, Ltd. San Antonio, TX 78215
 
-Chesterbrook, PA 19087 USA
+PL-0705-002.f
 
-By: DPT Laboratories, Ltd.
-
-San Antonio, TX 78215
-
-PL-0705-002.e
-
-######
-
-Revised: 06/2014
+Revised: 05/2015
