@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202593"
+  ],
+  "inn": "capecitabine",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-072-12",
+    "16729-073-29"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "capecitabine",
+      "name": "CAPECITABINE"
+    }
+  ],
+  "setid": "8345d55e-ad02-4726-a04b-1a46e3337a4b",
+  "source": "dailymed"
+}
