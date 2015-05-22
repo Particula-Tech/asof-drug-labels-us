@@ -1,13 +1,17 @@
 {
   "application_numbers": [
-    "ANDA078908"
+    "ANDA078908",
+    "ANDA202731"
   ],
   "inn": "dexmethylphenidate",
   "labeler": "Teva Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-5550-01",
     "0093-5551-01",
-    "0093-5552-01"
+    "0093-5552-01",
+    "0093-5553-01",
+    "0093-5554-01",
+    "0093-5562-01"
   ],
   "products": [
     {

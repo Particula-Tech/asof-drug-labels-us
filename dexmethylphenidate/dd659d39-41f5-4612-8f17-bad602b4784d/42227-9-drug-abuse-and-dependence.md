@@ -6,4 +6,4 @@ Dexmethylphenidate hydrochloride extended-release capsules, like other methylphe
 
 ## 9.2 Abuse
 
-See complete boxed warning for drug abuse and dependence information at the beginning of Full Prescribing Information.
+See thecomplete boxed warning for drug abuse and dependence information at the beginning of Full Prescribing Information.

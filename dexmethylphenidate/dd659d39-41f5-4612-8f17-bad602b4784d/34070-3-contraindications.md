@@ -7,7 +7,7 @@ Dexmethylphenidate hydrochloride extended-release capsules are contraindicated i
 ## 4.2 Hypersensitivity to Methylphenidate
 
 Dexmethylphenidate hydrochloride extended-release capsules are contraindicated in patients known to be hypersensitive to methylphenidate, or other components of the product.
-Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate [see Adverse Reactions (6.5 and 6.6)].
+Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate [see Adverse Reactions (6.5, 6.6)].
 
 ## 4.3 Glaucoma
 

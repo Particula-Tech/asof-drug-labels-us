@@ -1,12 +1,12 @@
 # MEDICATION GUIDE
 
-Dexmethylphenidate (dex meth ill FEN i date)Hydrochloride Extended-Release Capsules CII
+Dexmethylphenidate (dex meth ill FEN i date) Hydrochloride Extended-Release Capsules CII
 
 Read the Medication Guide that comes with dexmethylphenidate hydrochloride extended-release capsules before you or your child starts taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with dexmethylphenidate hydrochloride extended-release capsules.
 
-| What is the most important information I should know about dexmethylphenidate hydrochloride extended-release capsules? The following have been reported with use of dexmethylphenidate hydrochloride and other stimulant medicines.1. Heart-related problems:• sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting dexmethylphenidate hydrochloride extended-release capsules. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dexmethylphenidate hydrochloride extended-release capsules. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dexmethylphenidate hydrochloride extended-release capsules.2. Mental (Psychiatric) problems:All Patients • new or worse behavior and thought problems• new or worse bipolar illness• new or worse aggressive behavior or hostilityChildren and Teenagers• new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dexmethylphenidate hydrochloride extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red •Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.•Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules. |
+| What is the most important information I should know about dexmethylphenidate hydrochloride extended-release capsules? The following have been reported with use of dexmethylphenidate hydrochloride and other stimulant medicines.1. Heart-related problems:• sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting dexmethylphenidate hydrochloride extended-release capsules. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dexmethylphenidate hydrochloride extended-release capsules. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dexmethylphenidate hydrochloride extended-release capsules.2. Mental (Psychiatric) problems:All Patients • new or worse behavior and thought problems• new or worse bipolar illness• new or worse aggressive behavior or hostilityChildren and Teenagers• new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dexmethylphenidate hydrochloride extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.3. Circulation problems in fingers and toes[Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. •Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.•Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules. |
 | --- |
 
 What are dexmethylphenidate hydrochloride extended-release capsules?
@@ -24,10 +24,10 @@ Who should not take dexmethylphenidate hydrochloride extended-release capsules?
 
 Dexmethylphenidate hydrochloride extended-release capsules should not be taken if you or your child:
 
-- •are very anxious, tense, or agitated
-- •have an eye problem called glaucoma
+- •are very anxious, tense, or agitated.
+- •have an eye problem called glaucoma.
 - •have tics or Tourette’s syndrome, or a family history of Tourette’s syndrome.
-  Tics are hard to control repeated movements or sounds.
+  Tics are hard-to-control repeated movements or sounds.
 - •are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
 - •are allergic to anything in dexmethylphenidate hydrochloride extended-release capsules.
   See the end of this Medication Guide for a complete list of ingredients.
@@ -43,11 +43,11 @@ Before starting dexmethylphenidate hydrochloride extended-release capsules tell 
 - •seizures or have had an abnormal brain wave test (EEG)
 - •circulation problems in fingers or toes
 
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breast-feeding.
+Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
 Can dexmethylphenidate hydrochloride extended-release capsules be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines that you or your child takes including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Dexmethylphenidate hydrochloride extended-release capsules and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking dexmethylphenidate hydrochloride extended-release capsules.
 
@@ -90,24 +90,18 @@ See “What is the most important information I should know about dexmethylpheni
 
 Other serious side effects include:
 
-- •Serious allergic reactions (symptoms can be difficulty breathing, swelling of the face, neck and throat, rashes and hives, fever)
+- •serious allergic reactions (symptoms can be difficulty breathing, swelling of the face, neck and throat, rashes and hives, fever)
 - •slowing of growth (height and weight) in children
 - •seizures, mainly in patients with a history of seizures
-- •Painful and prolonged erections (priapism) have occurred with methylphenidate.
+- •painful and prolonged erections (priapism) have occurred with methylphenidate.
   If you or your child develop priapism seek medical help right away.
   Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 - •eyesight changes or blurred vision
 
 Common side effects include:
 
-- •headache
-- •decreased appetite
-- •upset stomach
-- •dry mouth
-- •dizziness
-- •trouble sleeping
-- •nervousness
-- •anxiety
+| •headache•upset stomach•trouble sleeping•anxiety | •decreased appetite•dry mouth•dizziness•nervousness |
+| --- | --- |
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
@@ -122,7 +116,7 @@ How should I store dexmethylphenidate hydrochloride extended-release capsules?
 - •Store dexmethylphenidate hydrochloride extended-release capsules in a safe place at room temperature, 20° to 25°C (68° to 77°F).
 - •Keep dexmethylphenidate hydrochloride extended-release capsules and all medicines out of the reach of children.
 
-General information about dexmethylphenidate hydrochloride extended-release capsules
+General information about dexmethylphenidate hydrochloride extended-release capsules.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use dexmethylphenidate hydrochloride extended-release capsules for a condition for which they were not prescribed.
@@ -138,14 +132,14 @@ What are the ingredients in dexmethylphenidate hydrochloride extended-release ca
 
 Active Ingredient: dexmethylphenidate hydrochloride
 
-Inactive ingredients: ammonio methacrylate copolymer, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, gelatin, hypromellose, iron oxide black, methacrylic acid copolymer, non-pareil seeds (which contain corn starch and sucrose), polyethylene glycol, propylene glycol, shellac glaze, talc, titanium dioxide and triethyl citrate.
-Additionally, 5 mg capsules contain FD&C blue no. 1; 10 mg capsules contain D&C yellow no. 10 and 15 mg capsules contain FD&C green no. 3.
+Inactive Ingredients: ammonio methacrylate copolymer, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, gelatin, hypromellose, iron oxide black, methacrylic acid copolymer, non-pareil seeds (which contain corn starch and sucrose), polyethylene glycol, propylene glycol, shellac glaze, talc, titanium dioxide and triethyl citrate.
+Additionally, 5 mg capsules contain FD&C blue no. 1; 10 mg and 30 mg capsules contain D&C yellow no. 10; 15 mg capsules contain FD&C green no. 3; and 40 mg capsules contain FD&C blue no. 1 and FD&C green no. 3.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-B 2/2014
+C 4/2015

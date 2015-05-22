@@ -1,6 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information for Patients
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with dexmethylphenidate and should counsel them in its appropriate use.
 A patient Medication Guide is available for dexmethylphenidate hydrochloride extended-release capsules.
@@ -11,18 +13,18 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 Priapism
 
 Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
-Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.10)]
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.10)].
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
-- •Instruct patients beginning treatment with dexmethylphenidate hydrochloride extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
+- •Instruct patients beginning treatment with dexmethylphenidate hydrochloride extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - •Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
-- •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules
+- •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride extended-release capsules.
 - •Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-B 2/2014
+D 4/2015

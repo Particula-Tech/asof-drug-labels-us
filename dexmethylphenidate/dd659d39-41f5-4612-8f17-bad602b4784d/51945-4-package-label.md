@@ -51,3 +51,61 @@ Rx only
 100 CAPSULES
 
 TEVA
+
+# Package/Label Display Panel
+
+## Dexmethylphenidate Hydrochloride Extended-Release Capsules, 20 mg CII 100s Label Text
+
+NDC 0093-5553-01
+
+CII
+
+DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules, 20 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only
+
+100 CAPSULES
+
+TEVA
+
+# Package/Label Display Panel
+
+## Dexmethylphenidate Hydrochloride Extended-Release Capsules, 30 mg CII 100s Label Text
+
+NDC 0093-5554-01
+
+CII
+
+DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules
+
+30 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only
+
+100 CAPSULES
+
+TEVA
+
+# Package/Label Display Panel
+
+## Dexmethylphenidate Hydrochloride Extended-Release Capsules, 40 mg CII 100s Label Text
+
+NDC 0093-5562-01
+
+CII
+
+DEXMETHYLPHENIDATE HYDROCHLORIDE Extended-Release Capsules
+
+40 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only
+
+100 CAPSULES
+
+TEVA

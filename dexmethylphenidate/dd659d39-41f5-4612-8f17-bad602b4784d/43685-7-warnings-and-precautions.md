@@ -19,7 +19,7 @@ Stimulant medications cause a modest increase in average blood pressure (about 2
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
 Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
-## 5.3 Assessing Cardiovascular Status in Patients Being Treated With Stimulant Medications
+## 5.3 Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
 
 Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
@@ -47,7 +47,7 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 ## 5.8 Long-Term Suppression of Growth
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-In the 7 week double-blind placebo-controlled study of dexmethylphenidate hydrochloride extended-release capsules, the mean weight gain was greater for patients receiving placebo (+0.4 kg) than for patients receiving dexmethylphenidate hydrochloride extended-release capsules (-0.5 kg).
+In the 7 week, double-blind, placebo-controlled study of dexmethylphenidate hydrochloride extended-release capsules, the mean weight gain was greater for patients receiving placebo (+0.4 kg) than for patients receiving dexmethylphenidate hydrochloride extended-release capsules (-0.5 kg).
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
@@ -69,7 +69,7 @@ Stimulants, including dexmethylphenidate hydrochloride extended-release capsules
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treating with ADHD stimulants.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## 5.12 Visual Disturbance

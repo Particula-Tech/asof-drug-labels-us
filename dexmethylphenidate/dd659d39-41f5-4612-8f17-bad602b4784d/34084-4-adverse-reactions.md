@@ -9,11 +9,11 @@ In the tables and listings that follow, MedDRA terminology has been used to clas
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## 6.1 Adverse Events Associated With Discontinuation of Treatment in Acute Clinical Studies With Dexmethylphenidate Hydrochloride Extended-Release Capsules - Children
+## 6.1 Adverse Events Associated with Discontinuation of Treatment in Acute Clinical Studies with Dexmethylphenidate Hydrochloride Extended-Release Capsules - Children
 
 Overall, 50 of 684 children treated with dexmethylphenidate hydrochloride immediate-release formulation (7.3%) experienced an adverse event that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
-None of the 53 dexmethylphenidate hydrochloride extended-release capsule-treated pediatric patients discontinued treatment due to adverse events in the 7 week placebo-controlled study.
+None of the 53 dexmethylphenidate hydrochloride extended-release capsule-treated pediatric patients discontinued treatment due to adverse events in the 7 week, placebo-controlled study.
 
 ## 6.2 Adverse Events Occurring at an Incidence of 5% or More Among Dexmethylphenidate Hydrochloride Extended-Release Capsule-Treated Patients - Children
 
@@ -42,29 +42,29 @@ Occurring During Double-Blind Treatment–Pediatric Patients
 | Psychiatric Disorders | 26% | 15% |
 | Anxiety | 6% | 0% |
 
-Table 2 below enumerates the incidence of dose-related adverse events that occurred during a fixed-dose, double-blind, placebo controlled trial of dexmethylphenidate hydrochloride extended-release capsules up to 30 mg/day versus placebo in children and adolescents with ADHD.
+Table 2 below enumerates the incidence of dose-related adverse events that occurred during a fixed-dose, double-blind, placebo-controlled trial of dexmethylphenidate hydrochloride extended-release capsules up to 30 mg/day versus placebo in children and adolescents with ADHD.
 
 Table 2.
-Dose-Related Adverse Events From a Fixed-Dose Study of Double-Blind Treatment in Pediatric Patients by Organ-System and Preferred Term
+Dose-Related Adverse Events from a Fixed-dose Study of Double-Blind Treatment in Pediatric Patients by Organ-System and Preferred Term
 
 | ADVERSEEVENT | Dexmethylphenidate Hydrochloride Extended-Release Capsules | Dexmethylphenidate Hydrochloride Extended-Release Capsules | Dexmethylphenidate Hydrochloride Extended-Release Capsules | Placebo |
 | --- | --- | --- | --- | --- |
 | 10 mg/d | 20 mg/d | 30 mg/d |  |  |
 | N = 64 | N = 60 | N = 58 | N = 63 |  |
-| Gastrointestinal disorders | 22% | 23% | 29% | 24% |
+| Gastrointestinal Disorders | 22% | 23% | 29% | 24% |
 | Vomiting | 2% | 8% | 9% | 0 |
-| Metabolism andnutritional disorders | 16% | 17% | 22% | 5% |
+| Metabolism andNutritional Disorders | 16% | 17% | 22% | 5% |
 | Anorexia | 5% | 5% | 7% | 0 |
 | Psychiatric Disorders | 19% | 20% | 38% | 8% |
 | Insomnia | 5% | 8% | 17% | 3% |
 | Depression | 0 | 0 | 3% | 0 |
-| Mood swings | 0 | 0 | 3% | 2% |
-| Other Adverse events |  |  |  |  |
+| Mood Swings | 0 | 0 | 3% | 2% |
+| Other Adverse Events |  |  |  |  |
 | Irritability | 0 | 2% | 5% | 0 |
 | Nasal Congestion | 0 | 0 | 5% | 0 |
 | Pruritus | 0 | 0 | 3% | 0 |
 
-## 6.3 Adverse Events Associated With Discontinuation of Treatment in Clinical Studies With Dexmethylphenidate Hydrochloride Extended-Release Capsules - Adults
+## 6.3 Adverse Events Associated with Discontinuation of Treatment in Clinical Studies with Dexmethylphenidate Hydrochloride Extended-Release Capsules - Adults
 
 In the adult placebo-controlled study, 10.7% of the dexmethylphenidate hydrochloride extended-release capsule-treated patients and 7.5% of the placebo-treated patients discontinued for adverse events.
 Among dexmethylphenidate hydrochloride extended-release capsule-treated patients, insomnia (1.8%, n = 3), feeling jittery (1.8%, n = 3), anorexia (1.2%, n = 2), and anxiety (1.2%, n = 2) were the reasons for discontinuation reported by more than 1 patient.
@@ -98,14 +98,14 @@ Occurring During Double-Blind Treatment–Adults
 | Respiratory, Thoracic and Mediastinal Disorders | 16% | 9% | 15% | 8% |
 | Pharyngolaryngeal Pain | 4% | 4% | 7% | 2% |
 
-Two other adverse reactions occurring in clinical trials with dexmethylphenidate hydrochloride extended-release capsules at a frequency greater than placebo, but which were not dose related were: Feeling jittery (12% and 2%, respectively) and Dizziness (6% and 2%, respectively).
+Two other adverse reactions occurring in clinical trials with dexmethylphenidate hydrochloride extended-release capsules at a frequency greater than placebo, but which were not dose related were: feeling jittery (12% and 2%, respectively) and dizziness (6% and 2%, respectively).
 
 Table 4 summarizes changes in vital signs and weight that were recorded in the adult study (N = 218) of dexmethylphenidate hydrochloride extended-release capsules in the treatment of ADHD.
 
 Table 4.
 Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose During Double-Blind Treatment – Adults
 
-|  | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 20 mg (N = 57) | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 30 mg (N = 54) | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 40 mg (N = 54) | Placebo (N = 53) |
+|  | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 20 mg(N = 57) | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 30 mg(N = 54) | Dexmethylphenidate Hydrochloride Extended-Release Capsule, 40 mg(N = 54) | Placebo(N = 53) |
 | --- | --- | --- | --- | --- |
 | Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6.0 ± 10.1 | -1.4 ± 9.3 |
 | Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
@@ -116,9 +116,11 @@ Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose During Double-
 The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate hydrochloride extended-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
 
+Musculoskeletal: rhabdomyolysis
+
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-## 6.6 Adverse Events With Other Methylphenidate HCl Dosage Forms
+## 6.6 Adverse Events with Other Methylphenidate HCl Dosage Forms
 
 Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
 In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed below may also occur.
@@ -147,8 +149,8 @@ Psychiatric: transient depressed mood, aggressive behavior, libido changes
 
 Skin/Subcutaneous: scalp hair loss
 
-Urogenital: Priapism
+Urogenital: priapism
 
 Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
-In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
+In a single report, a 10-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
