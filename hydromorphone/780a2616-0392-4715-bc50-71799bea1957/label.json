@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204278"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-0293-01",
+    "0574-0294-01",
+    "0574-0295-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "hydromorphone hydrochloride",
+      "name": "hydromorphone hydrochloride"
+    }
+  ],
+  "setid": "780a2616-0392-4715-bc50-71799bea1957",
+  "source": "dailymed"
+}
