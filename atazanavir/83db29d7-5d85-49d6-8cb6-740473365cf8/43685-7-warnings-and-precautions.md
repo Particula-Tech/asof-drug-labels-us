@@ -59,12 +59,17 @@ In these patients, hepatic laboratory testing should be conducted prior to initi
 
 ## 5.7 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-Coadministration of EVOTAZ with medications that are metabolized by CYP3A may lead to increased exposures of these medications through inhibition of CYP3A, which may increase the risk of clinically significant adverse reactions (including life-threatening or fatal reactions) associated with the concomitant medications.
-Coadministration of EVOTAZ with CYP3A inducers may lead to lower exposures of atazanavir and cobicistat and loss of efficacy of atazanavir and possible resistance.
-Therefore, consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4), Drug Interactions (7)].
+Initiation of EVOTAZ, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving EVOTAZ, may increase plasma concentrations of medications metabolized by CYP3A.
 
-When used with concomitant medications, EVOTAZ may result in different drug interactions than those observed or expected with atazanavir coadministered with ritonavir.
-Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with atazanavir coadministered with ritonavir to certain EVOTAZ interactions [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of EVOTAZ, respectively.
+These interactions may lead to:
+
+- •clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
+- •clinically significant adverse reactions from greater exposures of EVOTAZ.
+- •loss of therapeutic effect of EVOTAZ and possible development of resistance.
+
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.8 Antiretrovirals that are Not Recommended
 

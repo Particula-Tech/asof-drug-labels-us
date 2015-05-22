@@ -210,7 +210,7 @@ Manufactured for: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Product of Canada
 
-1337404A0 Issued January 2015
+1337404A1 Revised May 2015
 
 REYATAZ and EVOTAZ are trademarks of Bristol-Myers Squibb Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
