@@ -10,14 +10,14 @@ In kidney, liver, and heart transplant patients Cyclosporine Oral Solution USP M
 Increased susceptibility to infection and the possible development of lymphoma and other neoplasms may result from the increase in the degree of immunosuppression in transplant patients.
 
 Cyclosporine Oral Solution USP MODIFIED has increased bioavailability in comparison to Sandimmune® (Cyclosporine Oral Solution USP).
-Cyclosporine Oral Solution USP MODIFIED and Sandimmune® (Cyclosporine Oral Solution USP) are not bioequivalent and cannot be used interchangeably without physician supervision.
-For a given trough concentration, cyclosporine exposure will be greater with Cyclosporine Oral Solution USP MODIFIED than with Sandimmune® (Cyclosporine Oral Solution USP).
-If a patient who is receiving exceptionally high doses of Sandimmune® (Cyclosporine Oral Solution USP) is converted to Cyclosporine Oral Solution USP MODIFIED, particular caution should be exercised.
+Cyclosporine Oral Solution USP MODIFIED and Sandimmune (Cyclosporine Oral Solution USP) are not bioequivalent and cannot be used interchangeably without physician supervision.
+For a given trough concentration, cyclosporine exposure will be greater with Cyclosporine Oral Solution USP MODIFIED than with Sandimmune (Cyclosporine Oral Solution USP).
+If a patient who is receiving exceptionally high doses of Sandimmune (Cyclosporine Oral Solution USP) is converted to Cyclosporine Oral Solution USP MODIFIED, particular caution should be exercised.
 Cyclosporine blood concentrations should be monitored in transplant and rheumatoid arthritis patients taking Cyclosporine Oral Solution USP MODIFIED to avoid toxicity due to high concentrations.
 Dose adjustments should be made in transplant patients to minimize possible organ rejection due to low concentrations.
 Comparison of blood concentrations in the published literature with blood concentrations obtained using current assays must be done with detailed knowledge of the assay methods employed.
 
-For Psoriasis Patients (see also Boxed WARNINGS above)
+For Psoriasis Patients (See also BOXED WARNING above)
 
 Psoriasis patients previously treated with PUVA and to a lesser extent, methotrexate or other immunosuppressive agents, UVB, coal tar, or radiation therapy, are at an increased risk of developing skin malignancies when taking Cyclosporine Oral Solution USP MODIFIED.
 

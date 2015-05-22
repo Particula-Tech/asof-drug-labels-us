@@ -1,1 +1,1 @@
-Prescribing Information
+7313 Rx only Prescribing Information

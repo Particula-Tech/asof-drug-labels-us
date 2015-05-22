@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL, Part 1 of 2
+# Package/Label Display Panel, Part 1 of 2
 
-# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+# Package/Label Display Panel, Part 2 of 2
 
 ## CycloSPORINE Oral Solution USP Modified 100 mg/mL 50 mL Label Text
 

@@ -1,6 +1,6 @@
 # WARNINGS
 
-(See also Boxed WARNING)
+(See also BOXED WARNING.)
 
 ## All Patients
 
@@ -9,7 +9,7 @@ The risk increases with increasing doses of cyclosporine.
 Renal dysfunction including structural kidney damage is a potential consequence of Cyclosporine Oral Solution USP MODIFIED and therefore renal function must be monitored during therapy.
 Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
 
-Patients receiving Cyclosporine Oral Solution USP MODIFIED require frequent monitoring of serum creatinine (see DOSAGE AND ADMINISTRATION, Special Monitoring).
+Patients receiving Cyclosporine Oral Solution USP MODIFIED require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can be associated with the occurrence of structural kidney damage and persistent renal dysfunction.
 
@@ -18,8 +18,8 @@ Impaired renal function at any time requires close monitoring, and frequent dosa
 The frequency and severity of serum creatinine elevations increase with dose and duration of cyclosporine therapy.
 These elevations are likely to become more pronounced without dose reduction or discontinuation.
 
-Because Cyclosporine Oral Solution USP MODIFIED is not bioequivalent to Sandimmune® (Cyclosporine Oral Solution USP), conversion from Cyclosporine Oral Solution USP MODIFIED to Sandimmune® (Cyclosporine Oral Solution USP) using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
-Conversion from Cyclosporine Oral Solution USP MODIFIED to Sandimmune® (Cyclosporine Oral Solution USP) should be made with increased monitoring to avoid the potential of underdosing.
+Because Cyclosporine Oral Solution USP MODIFIED is not bioequivalent to Sandimmune (Cyclosporine Oral Solution USP), conversion from Cyclosporine Oral Solution USP MODIFIED to Sandimmune (Cyclosporine Oral Solution USP) using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
+Conversion from Cyclosporine Oral Solution USP MODIFIED to Sandimmune (Cyclosporine Oral Solution USP) should be made with increased monitoring to avoid the potential of underdosing.
 
 ## Kidney, Liver, and Heart Transplant
 
@@ -29,7 +29,7 @@ Cyclosporine, the active ingredient of Cyclosporine Oral Solution USP MODIFIED, 
 It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
-Based on the historical Sandimmune® (Cyclosporine Oral Solution USP) experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
+Based on the historical Sandimmune (Cyclosporine Oral Solution USP) experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
 Mild nephrotoxicity was generally noted 2 to 3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35 to 45 mg/dL and 2 to 2.5 mg/dL respectively.
 These elevations were often responsive to cyclosporine dosage reduction.
 
@@ -48,27 +48,27 @@ Nephrotoxicity vs. Rejection
 | Prolonged kidney preservation | Retransplant patient |  |
 | Prolonged anastomosis time |  |  |
 | Concomitant nephrotoxic drugs |  |  |
-| Clinical | Often > 6 weeks postopbbp < 0.01 | Often < 4 weeks postopb |
+| Clinical | Often > 6 weeks postopp < 0.01 | Often < 4 weeks postop |
 | Prolonged initial nonfunction | Fever > 37.5°C |  |
 | (acute tubular necrosis) | Weight gain > 0.5 kg Graft swelling and tendernessDecrease in daily urine volume > 500 mL (or 50%) |  |
 | Laboratory | CyA serum trough level > 200 ng/mL | CyA serum trough level < 150 ng/mL |
-| Gradual rise in Cr (< 0.15 mg/dL/day)aap < 0.05 | Rapid rise in Cr (> 0.3 mg/dL/day)a |  |
+| Gradual rise in Cr (< 0.15 mg/dL/day)p < 0.05 | Rapid rise in Cr (> 0.3 mg/dL/day) |  |
 | Cr plateau < 25% above baseline | Cr > 25% above baseline |  |
 | BUN/Cr ≥ 20 | BUN/Cr < 20 |  |
-| Biopsy | Arteriolopathy (medial hypertrophya, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) | Endovasculitisccp < 0.001 (proliferationa, intimal arteritisb, necrosis, sclerosis) |
-| Tubular atrophy, isometric vacuolization, isolated calcifications | Tubulitis with RBCb and WBCb casts, some irregular vacuolization |  |
-| Minimal edema | Interstitial edemac and hemorrhageb |  |
-| Mild focal infiltratesc | Diffuse moderate to severe mononuclear infiltratesddp < 0.0001 |  |
-| Diffuse interstitial fibrosis, often striped form | Glomerulitis (mononuclear cells)c |  |
+| Biopsy | Arteriolopathy (medial hypertrophy, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) | Endovasculitisp < 0.001 (proliferation, intimal arteritis, necrosis, sclerosis) |
+| Tubular atrophy, isometric vacuolization, isolated calcifications | Tubulitis with RBC and WBC casts, some irregular vacuolization |  |
+| Minimal edema | Interstitial edema and hemorrhage |  |
+| Mild focal infiltrates | Diffuse moderate to severe mononuclear infiltratesp < 0.0001 |  |
+| Diffuse interstitial fibrosis, often striped form | Glomerulitis (mononuclear cells) |  |
 | Aspiration Cytology | CyA deposits in tubular and endothelial cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells |
 | Fine isometric vacuolization of tubular cells | These strongly express HLA-DR antigens |  |
 | Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia > 20% of sediment |
-| Manometry | Intracapsular pressure < 40 mm Hgb | Intracapsular pressure > 40 mm Hgb |
+| Manometry | Intracapsular pressure < 40 mm Hg | Intracapsular pressure > 40 mm Hg |
 | Ultrasonography | Unchanged graft cross sectional area | Increase in graft cross sectional area AP diameter ≥ Transverse diameter |
 | Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parachyma approaching that of psoas, loss of hilar fat |
 | Radionuclide Scan | Normal or generally decreased perfusion | Patchy arterial flow |
 | Decrease in tubular function | Decrease in perfusion > decrease in tubular function |  |
-| (131I-hippuran) > decrease in perfusion (99m Tc DTPA) | Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |  |
+| (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |  |
 | Therapy | Responds to decreased cyclosporine | Responds to increased steroids or antilymphocyte globulin |
 
 A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
@@ -170,7 +170,7 @@ Moreover, use of Cyclosporine Oral Solution USP MODIFIED therapy with other immu
 
 ## Psoriasis
 
-(See also Boxed WARNINGS for Psoriasis)
+(See also BOXED WARNING for Psoriasis)
 
 Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Cyclosporine Oral Solution USP MODIFIED should be considered before treatment of patients with psoriasis.
 Cyclosporine, the active ingredient in Cyclosporine Oral Solution USP MODIFIED, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
@@ -178,7 +178,7 @@ Patients who may be at increased risk such as those with abnormal renal function
 
 Renal dysfunction is a potential consequence of Cyclosporine Oral Solution USP MODIFIED therefore renal function must be monitored during therapy.
 
-Patients receiving Cyclosporine Oral Solution USP MODIFIED require frequent monitoring of serum creatinine (see DOSAGE AND ADMINISTRATION, Special Monitoring).
+Patients receiving Cyclosporine Oral Solution USP MODIFIED require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
 If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can cause structural kidney damage and persistent renal dysfunction.
 
@@ -240,7 +240,7 @@ During treatment with cyclosporine, vaccination may be less effective; and the u
 
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
-It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of non-steroidal anti-inflammatory drugs and after initiation of new non-steroidal anti-inflammatory drug therapy during Cyclosporine Oral Solution USP MODIFIED treatment.
+It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs (NSAIDs) and after initiation of new NSAID therapy during Cyclosporine Oral Solution USP MODIFIED treatment.
 If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly (see also PRECAUTIONS, General, Hypertension).
 
 In patients who are receiving cyclosporine, the dose of Cyclosporine Oral Solution USP MODIFIED should be decreased by 25% to 50% if hypertension occurs.
@@ -267,7 +267,7 @@ If the serum creatinine is greater than or equal to 25% above the patient’s pr
 If the change in serum creatinine remains greater than or equal to 25% above baseline, Cyclosporine Oral Solution USP MODIFIED should be reduced by 25% to 50%.
 If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, Cyclosporine Oral Solution USP MODIFIED should be reduced by 25% to 50%.
 Cyclosporine Oral Solution USP MODIFIED should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
-It is advisable to monitor serum creatinine after an increase of the dose of non-steroidal anti-inflammatory drug and after initiation of new non-steroidal anti-inflammatory therapy during Cyclosporine Oral Solution USP MODIFIED treatment.
+It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during Cyclosporine Oral Solution USP MODIFIED treatment.
 
 Blood pressure should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable, or more frequently when dosage adjustments are made.
 Patients without a history of previous hypertension before initiation of treatment with Cyclosporine Oral Solution USP MODIFIED, should have the drug reduced by 25% to 50% if found to have sustained hypertension.
@@ -280,7 +280,7 @@ Cyclosporine Oral Solution USP MODIFIED dosage should be reduced by 25% to 50% f
 
 In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
 
-## Information for Patients
+### Information for Patients
 
 Patients should be advised that any change of cyclosporine formulation should be made cautiously and only under physician supervision because it may result in the need for a change in dosage.
 
@@ -298,7 +298,7 @@ The combination of Cyclosporine Oral Solution USP MODIFIED with milk can be unpa
 Patients should be advised to take Cyclosporine Oral Solution USP MODIFIED on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
-## Laboratory Tests
+### Laboratory Tests
 
 In all patients treated with cyclosporine, renal and liver functions should be assessed repeatedly by measurement of serum creatinine, BUN, serum bilirubin, and liver enzymes.
 Serum lipids, magnesium, and potassium should also be monitored.
@@ -306,16 +306,21 @@ Cyclosporine blood concentrations should be routinely monitored in transplant pa
 
 ## Drug Interactions
 
-### A. Effects of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
+### A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
 
 All of the individual drugs cited below are well substantiated to interact with cyclosporine.
-In addition, concomitant use of non-steroidal anti-inflammatory drugs with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
+In addition, concomitant use of NSAIDs with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
 Caution should be exercised when using other drugs which are known to impair renal function (see WARNINGS, Nephrotoxicity).
 
 #### Drugs That May Potentiate Renal Dysfunction
 
-| Antibiotics ciprofloxacin gentamicin tobramycin vancomycin trimethoprim with sulfamethoxazole | Antineoplastics melphalan Antifungals amphotericin B ketoconazole | Anti-inflammatory Drugsazapropazon colchicine diclofenac naproxen sulindac | Gastrointestinal Agents cimetidine ranitidine Immunosuppressives tacrolimus Other Drugsfibric acid derivatives (e.g., bezafibrate, fenofibrate), methotrexate |
-| --- | --- | --- | --- |
+| Antibiotics | Antineoplastics | Antifungals | Anti-inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
+| --- | --- | --- | --- | --- | --- | --- |
+| ciprofloxacin | melphalan | amphotericin B | azapropazon | cimetidine | tacrolimus | fibric acid derivatives (e.g., bezafibrate, fenofibrate) |
+| gentamicin |  | ketoconazole | colchicine | ranitidine |  | methotrexate |
+| tobramycin |  |  | diclofenac |  |  |  |
+| vancomycin |  |  | naproxen |  |  |  |
+| trimethoprim with sulfamethoxazole |  |  | sulindac |  |  |  |
 
 During the concomitant use of a drug that may exhibit additive or synergistic renal impairment with cyclosporine, close monitoring of renal function (in particular serum creatinine) should be performed.
 If a significant impairment of renal function occurs, the dosage of the coadministered drug should be reduced or an alternative treatment considered.
@@ -327,10 +332,19 @@ Appropriate Cyclosporine Oral Solution USP MODIFIED dosage adjustment to achieve
 
 #### 1. Drugs That Increase Cyclosporine Concentrations
 
-| Calcium Channel Blockersdiltiazem nicardipine verapamil | Antifungals fluconazole itraconazole ketoconazole voriconazole | Antibiotics azithromycin clarithromycin erythromycin quinupristin/ dalfopristin | Glucocorticoids methylprednisolone | Other Drugs allopurinol amiodarone bromocriptine colchicine danazol imatinib metoclopramide nefazodone oral contraceptives |
+| Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
+| diltiazem | fluconazole | azithromycin | methylprednisolone | allopurinol |
+| nicardipine | itraconazole | clarithromycin |  | amiodarone |
+| verapamil | ketoconazole | erythromycin |  | bromocriptine |
+|  | voriconazole | quinupristin/dalfopristin |  | colchicine |
+|  |  |  |  | danazol |
+|  |  |  |  | imatinib |
+|  |  |  |  | metoclopramide |
+|  |  |  |  | nefazodone |
+|  |  |  |  | oral contraceptives |
 
-##### HIV Protease Inhibators
+##### HIV Protease Inhibitors
 
 The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
 Care should be exercised when these drugs are administered concomitantly.
@@ -341,12 +355,19 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 
 #### 2. Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
-| Antibiotics nafcillin rifampin | Anticonvulsantscarbamazepine oxcarbazepine phenobarbital phenytoin | Other Drugs / Dietary Supplements bosentan octreotide orlistat St. John’s Wort sulfinpyrazone terbinafine ticlopidine |
-| --- | --- | --- |
+| Antibiotics | Anticonvulsants | Other Drugs / Dietary Supplements |  |
+| --- | --- | --- | --- |
+| nafcillin | carbamazepine | bosentan | St. John’s Wort |
+| rifampin | oxcarbazepine | octreotide |  |
+|  | phenobarbital | orlistat |  |
+|  | phenytoin | sulfinpyrazone |  |
+|  |  | terbinafine |  |
+|  |  | ticlopidine |  |
 
 ##### Bosentan
 
-Coadministration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Coadministration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30%, and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Coadministration of cyclosporine with bosentan should be avoided.
 
 ##### Boceprevir
 
@@ -356,10 +377,10 @@ Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosp
 
 Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5 fold and 1.3 fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
 
-##### St. John's Wort
+##### St. John’s Wort
 
-There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement, St. John’s Wort.
-This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in sub-therapeutic levels, rejection of transplanted organs, and graft loss.
+There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement St. John’s Wort.
+This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
 
 ##### Rifabutin
 
@@ -369,11 +390,12 @@ Care should be exercised when these two drugs are administered concomitantly.
 
 ### B. Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents
 
-Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
+Cyclosporine is an inhibitor of CYP3A4 and of multiple drug efflux transporters (e.g., P-glycoprotein) and may increase plasma concentrations of comedications that are substrates of CYP3A4, P-glycoprotein or organic anion transporter proteins.
 
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), and, aliskiren, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), and, aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
+
 See the full prescribing information of the other drug for further information and specific recommendations.
-The decision on coadministration of cyclosporine with other drugs or agents should be made by the physician following the careful assessment of benefits and risks.
+The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
 
 #### Digoxin
 
@@ -388,19 +410,20 @@ If colchicine is used concurrently with cyclosporine, a reduction in the dosage 
 
 #### HMG-CoA Reductase Inhibitors (Statins)
 
-Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and rarely, fluvastatin.
+Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and, rarely, fluvastatin.
 When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
 Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
 
 #### Repaglinide
 
 Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to 3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
+In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one-half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to 3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
 Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
 #### Ambrisentan
 
 Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted in mean increases in ambrisentan AUC and Cmax of approximately 2 fold and 1.5 fold, respectively, compared to ambrisentan alone.
+When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose.
 
 #### Anthracycline antibiotics
 
@@ -417,7 +440,14 @@ The coadministration of cyclosporine with aliskiren is not recommended.
 
 #### Bosentan
 
-In healthy subjects, coadministration of bosentan and cyclosporine resulted in mean increases in dose-normalized bosentan trough concentrations on day 1 and day 8 of approximately 21 fold and 2 fold, respectively, compared to when bosentan was given alone as a single dose on day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on day 1 and 2-fold on day 8 (steady state)) compared to when bosentan was given alone as a single dose on day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+Coadministration of cyclosporine with bosentan should be avoided.
+
+#### Dabigatran
+
+The effect of cyclosporine on dabigatran concentrations had not been formally studied.
+Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine.
+Coadministration of cyclosporine with dabigatran should be avoided.
 
 #### Potassium-Sparing Diuretics
 
@@ -425,9 +455,9 @@ Cyclosporine should not be used with potassium-sparing diuretics because hyperka
 Caution is also required when cyclosporine is coadministered with potassium sparing drugs (e.g., angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium containing drugs as well as in patients on a potassium rich diet.
 Control of potassium levels in these situations is advisable.
 
-#### Non-steroidal Anti-inflammatory Drug (NSAID) Interactions
+#### Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
 
-Clinical status and serum creatinine should be closely monitored when cyclosporine is used with non-steroidal anti-inflammatory agents in rheumatoid arthritis patients (see WARNINGS).
+Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients (see WARNINGS).
 
 Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepentaacetic acid (DTPA) and (p-aminohippuric acid) PAH clearances.
 Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood concentrations and occasional reports of reversible decreases in renal function.
@@ -509,13 +539,13 @@ Cyclosporine has been shown to be embryo- and fetotoxic in rats and rabbits foll
 Fetal toxicity was noted in rats at 0.8 and rabbits at 5.4 times the transplant doses in humans of 6 mg/kg, where dose corrections are based on body surface area.
 Cyclosporine was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardation.
 
-There are no adequate and well-controlled studies in pregnant women, therefore, Cyclosporine Oral Solution USP MODIFIED should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies in pregnant women therefore, Cyclosporine Oral Solution USP MODIFIED should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
 
 In pregnant transplant recipients who are being treated with immunosuppressants the risk of premature birth is increased.
 The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
 The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
 Sixteen fetal losses occurred.
-Most of the pregnancies (85 of 100) were complicated by disorders; including pre-eclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility, and fetoplacental dysfunction.
+Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility, and fetoplacental dysfunction.
 Pre-term delivery occurred in 47%.
 Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
 Twenty-eight percent of the infants were small for gestational age.
