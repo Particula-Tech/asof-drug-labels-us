@@ -2,13 +2,9 @@
 
 ## 3.1 AVELOX Tablets
 
-- •Containing moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin)
-- •Oblong, dull red film-coated tablets
-- •Imprinted with BAYER on one side and M400 on the other
+Oblong, dull red, film-coated tablets imprinted with “BAYER” on one side and “M400” on the other containing moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin).
 
-## 3.2 AVELOX IV
+## 3.2 AVELOX Injection
 
-- •Containing 400 mg moxifloxacin in 0.8% saline (moxifloxacin hydrochloride in sodium chloride injection) with pH ranging from 4.1 to 4.6.
-- •Ready-to-use 250 mL latex-free flexibags.
-  No further dilution is necessary
-- •Sterile, preservative free, 0.8% sodium chloride aqueous solution of moxifloxacin hydrochloride
+Ready-to-use 250 mL flexibags containing moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin) in 0.8% sodium chloride aqueous solution.
+The appearance of the intravenous solution is yellow.

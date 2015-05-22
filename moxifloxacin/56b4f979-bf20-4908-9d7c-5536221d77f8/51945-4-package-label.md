@@ -1,4 +1,4 @@
-Avelox® I.V.
+Avelox® IV
 
 (moxifloxacinHCl in NaCl injection)
 
@@ -8,25 +8,12 @@ INFUSE OVER A PERIOD OF 60 MINUTES
 
 NDC 0085-1737-01 08917631
 
-Avelox Five Tablet Carton
+NDC 0085-1733-01
 
-08917542 NDC 0085-1733-03
-
-Aveloxmoxifloxacin HCI Tablets
-
-FIVE TABLETS
-
-ABC PACK
-
-AVELOX BRONCHITIS COURSE
-
-For Acute Bacterial Exacerbation of Chronic Bronchitis
+(moxifloxacin hydrochloride) Equivalent to 400 mg moxifloxacin
 
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-One Tablet, Once Daily for Just 5 Days
+30 Tablets
 
 Rx Only
-
-This pack is intended for the teatment of brochitis.
-Other conditions may require a longer duration of therapy.
