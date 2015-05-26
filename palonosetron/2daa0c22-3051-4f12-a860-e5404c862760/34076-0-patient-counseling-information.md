@@ -24,4 +24,4 @@ Marketed by Eisai Inc., Woodcliff Lake, NJ 07677 and Helsinn Therapeutics Inc., 
 
 AKYNZEO is a registered trademark of Helsinn Healthcare SA, Lugano, Switzerland
 
-© 2014 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 202999
+© 2015 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 202999
