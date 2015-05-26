@@ -24,3 +24,5 @@ Store at controlled room temperature, 20°-25°C (68°-77°F) [See USP Controlle
 Rx only
 
 ANI Pharmaceuticals, Inc. Baudette, MN 5662
+
+Carton Label
