@@ -27,7 +27,7 @@ Pharmacokinetics: In a multiple-dose pharmacokinetic study in male volunteers fo
 Tmax values were 1.25 hours and 0.85 hours.
 Cmax values were 15 ng/mL and 41 ng/mL.
 The AUC trapezoidal values were 33 h(ng/mL) and 108 h(ng/mL), respectively, for the 5 and 10 mg doses following the last 6 hour dose.
-Pharmacokinetics in elderly male volunteers (N = 11) were comparable to those in younger men.
+Pharmacokinetics in elderly male volunteers (N=11) were comparable to those in younger men.
 In five healthy elderly female volunteers, the mean Cmax and AUC were approximately twice that of elderly males and young normal male volunteers.
 
 When taken with a high fat meal by 12 healthy male volunteers, there was a decrease in the rate of absorption of pilocarpine from pilocarpine hydrochloride tablets.
@@ -43,7 +43,9 @@ Peak plasma levels were also increased by about 30% and half-life was increased 
 
 There were no significant differences in the pharmacokinetics of oral pilocarpine in volunteer subjects (N=8) with renal insufficiency (mean creatinine clearances 25.4 mL/min; range 9.8 – 40.8 mL/min) compared to the pharmacokinetics previously observed in normal volunteers.
 
-Clinical Studies:Head & Neck Cancer Patients: A 12 week randomized, double-blind, placebo-controlled study in 207 patients (142 men, 65 women) was conducted in patients whose mean age was 58.5 years with a range of 19 to 77; the racial distribution was Caucasian 95%, Black 4%, and other 1%.
+Clinical Studies: Head & Neck Cancer Patients:
+
+A 12 week randomized, double-blind, placebo-controlled study in 207 patients (142 men, 65 women) was conducted in patients whose mean age was 58.5 years with a range of 19 to 77; the racial distribution was Caucasian 95%, Black 4%, and other 1%.
 In this population, a statistically significant improvement in mouth dryness occurred in the 5 and 10 mg pilocarpine hydrochloride tablets treated patients compared to placebo treated patients.
 The 5 and 10 mg treated patients could not be distinguished.
 (See Pharmacodynamics section for flow study details.)
@@ -83,10 +85,10 @@ The treatment groups were 2.5 mg pilocarpine tablets, 5 mg pilocarpine hydrochlo
 All treatments were administered on a four times a day regimen.
 
 After 12 weeks of treatment, statistically significant global improvement of dry mouth was observed at a dose of 5 mg compared with placebo.
-The 2.5 mg (10mg/day) group was not significantly different than placebo.
+The 2.5 mg (10 mg/day) group was not significantly different than placebo.
 However, a subgroup of patients with rheumatoid arthritis tended to improve in global assessments at both the 2.5 mg q.i.d.
 (9 patients) and 5 mg q.i.d.
-(16 patients) dose (10-20 mg/ day).
+(16 patients) dose (10-20 mg/day).
 The clinical significance of this finding is unknown.
 
 Patients' assessments of specific dry mouth symptoms such as severity of dry mouth, mouth discomfort, ability to sleep without drinking water, and decreased use of saliva substitutes were also found to be consistent with the significant global improvement described when measured after 6 weeks and 12 weeks of pilocarpine hydrochloride tablets use.

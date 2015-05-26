@@ -7,7 +7,7 @@ The majority of patients were between 50 and 64 years (51%), 33% were 65 years a
 
 The most frequent adverse experiences associated with pilocarpine hydrochloride tablets were a consequence of the expected pharmacologic effects of pilocarpine.
 
-|  | (30mg/day) | (15mg/day) |  |
+|  | (30 mg/day) | (15 mg/day) |  |
 | --- | --- | --- | --- |
 | Adverse Event | Pilocarpine HCl |  | Placebo |
 |  | 10 mg t.i.d. | 5 mg t.i.d. | (t.i.d.) |
@@ -39,7 +39,7 @@ In addition, the following adverse events (≥3% incidence) were reported at dos
 | Pharyngitis | 3 | 8 |
 | Hypertension | 3 | 1 |
 
-The following events were reported with treated head and neck cancer patients at incidences of 1% to 2% at dosages of 7.5 to 30 mg/ day: abnormal vision, conjunctivitis, dysphagia, epistaxis, myalgias, pruritus, rash, sinusitis, tachycardia, taste perversion, tremor, voice alteration.
+The following events were reported with treated head and neck cancer patients at incidences of 1% to 2% at dosages of 7.5 to 30 mg/day: abnormal vision, conjunctivitis, dysphagia, epistaxis, myalgias, pruritus, rash, sinusitis, tachycardia, taste perversion, tremor, voice alteration.
 
 The following events were reported rarely in treated head and neck cancer patients (<1%): Causal relation is unknown.
 
@@ -111,7 +111,7 @@ In addition, the following adverse events (≥3% incidence) were reported at dos
 | Rash | 2 | 3 |
 | Infection | 2 | 6 |
 
-The following events were reported in Sjogren's patients at incidences of 1% to 2% at dosing of 20 mg/day: accidental injury, allergic reaction, back pain, blurred vision, constipation, increased cough, edema, epistaxis, face edema, fever, flatulence, glossitis, lab test abnormalities, including chemistry, hematology, and urinalysis, myalgia, palpitation, pruritus, somnolence, stomatitis, tachycardia, tinnitus, urinary incontinence, urinary tract infection, vaginitis.
+The following events were reported in Sjogren's patients at incidences of 1% to 2% at dosing of 20 mg/day: accidental injury, allergic reaction, back pain, blurred vision, constipation, increased cough, edema, epistaxis, face edema, fever, flatulence, glossitis, lab test abnormalities, including chemistry, hematology, and urinalysis, myalgia, palpitation, pruritus, somnolence, stomatitis, tachycardia, tinnitus, urinary incontinence, urinary tract infection, and vaginitis.
 
 The following events were reported rarely in treated Sjogren's patients (<1%) at dosing of 10-30 mg/day: Causal relation is unknown.
 
@@ -133,13 +133,15 @@ Respiratory: bronchitis, dyspnea, hiccup, laryngismus, laryngitis, pneumonia, vi
 
 Skin: alopecia, contact dermatitis, dry skin, eczema, erythema nodosum, exfoliative dermatitis, herpes simplex, skin ulcer, vesiculobullous rash
 
-Special senses: cataract, conjunctivitis, dry eyes, ear disorder, ear pain, eye disorder, eye hemorrhage, glaucoma, lacrimation disorder, retinal disorder, taste perversion, abnormal vision
+Special Senses: cataract, conjunctivitis, dry eyes, ear disorder, ear pain, eye disorder, eye hemorrhage, glaucoma, lacrimation disorder, retinal disorder, taste perversion, abnormal vision
 
 Urogenital: breast pain, dysuria, mastitis, menorrhagia, metrorrhagia, ovarian disorder, pyuria, salpingitis, urethral pain, urinary urgency, vaginal hemorrhage, vaginal moniliasis
 
 The following adverse experiences have been reported rarely with ocular pilocarpine: A-V block, agitation, ciliary congestion, confusion, delusion, depression, dermatitis, middle ear disturbance, eyelid twitching, malignant glaucoma, iris cysts, macular hole, shock, and visual hallucination.
 
-MANAGEMENT OF OVERDOSE: Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.
+MANAGEMENT OF OVERDOSE
+
+Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.
 100 mg of pilocarpine is considered potentially fatal.
 Overdosage should be treated with atropine titration (0.5 mg to 1.0 mg given subcutaneously or intravenously) and supportive measures to maintain respiration and circulation.
 Epinephrine

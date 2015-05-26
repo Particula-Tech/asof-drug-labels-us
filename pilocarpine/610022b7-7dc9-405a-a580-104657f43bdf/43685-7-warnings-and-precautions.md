@@ -103,7 +103,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Head and Neck Cancer Patients: In the placebo-controlled clinical trials (see Clinical Studies section) the mean age of patients was approximately 58 years (range 19 to 80).
+Head & Neck Cancer Patients: In the placebo-controlled clinical trials (see Clinical Studies section) the mean age of patients was approximately 58 years (range 19 to 80).
 Of these patients, 97/369 (61/217 receiving pilocarpine) were over the age of 65 years.
 In the healthy volunteer studies, 15/150 subjects were over the age of 65 years.
 In both study populations, the adverse events reported by those over 65 years and those 65 years and younger were comparable.
