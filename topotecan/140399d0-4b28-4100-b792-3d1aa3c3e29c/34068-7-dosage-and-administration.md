@@ -21,22 +21,22 @@ After recovery to Grade 1 or less, reduce the dose of HYCAMTIN by 0.4 mg/m2/day 
 Hematologic Toxicities:
 
 - Do not administer subsequent courses of HYCAMTIN capsules until neutrophils recover to greater than 1,000 cells/mm3, platelets recover to greater than 100,000 cells/mm3, hemoglobin levels recover to greater than or equal to 9.0 g/dL (with transfusion if necessary).
-- Renal Impairment:
-- The recommended starting doses of HYCAMTIN capsules in patients with moderate and severe renal impairment are as follows:
 
 - •Dose reduce HYCAMTIN capsules by 0.4 mg/m2/day for:
-  - ∘neutrophil counts of less than 500 cells/mm3 associated with fever or infection or lasting for 7 days or more;
-  - ∘neutrophil counts of 500 to 1,000 cells/mm3 lasting beyond day 21 of the treatment course;
-  - ∘platelet counts less than 25,000 cells/mm3.Renal Impairment:The recommended starting doses of HYCAMTIN capsules in patients with moderate and severe renal impairment are as follows:
+  - neutrophil counts of less than 500 cells/mm3 associated with fever or infection or lasting for 7 days or more;
+  - neutrophil counts of 500 to 1,000 cells/mm3 lasting beyond day 21 of the treatment course;
+  - platelet counts less than 25,000 cells/mm3.
+- Renal Impairment:
+- The recommended starting doses of HYCAMTIN capsules in patients with moderate and severe renal impairment are as follows:
 
 Table 1.
 Dose Reduction Guidelines for Renal Impairment
 
-| Degree of Renal Impairment | Creatinine Clearance (mL/min) | Dose (mg/m2)/day |
+| Degree of Renal Impairment | Creatinine Clearancea (mL/min) | Dose (mg/m2)/day |
 | --- | --- | --- |
 | Moderate | 30 – 49 | 1.5b |
 | Severe | <30 | 0.6b |
 
-a Calculated with the Cockroft-Gault method using ideal body weight.
+aCalculated with the Cockroft-Gault method using ideal body weight.
 
-b Dose can be increased after the first course by 0.4 mg/m2/day if no severe hematologic or gastrointestinal toxicities occur.
+bDose can be increased after the first course by 0.4 mg/m2/day if no severe hematologic or gastrointestinal toxicities occur.

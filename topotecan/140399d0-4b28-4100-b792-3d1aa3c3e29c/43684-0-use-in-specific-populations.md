@@ -41,7 +41,7 @@ No overall differences in effectiveness were observed between patients 65 years 
 
 The systemic exposure to both topotecan lactone and total topotecan increased in patients with renal impairment compared with that in patients with normal renal function.
 No dosage adjustment is recommended for patients with mild renal impairment (CLcr = 50-79 mL/min).
-Adjust the dose of HYCAMTINcapsules in patients with moderate (CLcr = 30-49 mL/min) and severe (CLcr <30 mL/min) renal impairment[see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+Adjust the dose of HYCAMTIN capsules in patients with moderate (CLcr = 30-49 mL/min) and severe (CLcr <30 mL/min) renal impairment [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 ## 8.7 Females and Males of Reproductive Potential
 
