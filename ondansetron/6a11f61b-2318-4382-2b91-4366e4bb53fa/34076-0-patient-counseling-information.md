@@ -17,6 +17,6 @@ Ondansetron Injection, USP should be avoided in these patients, since they may b
   Concomitant use of apomorphine and Ondansetron may cause a significant drop in blood pressure and loss of consciousness.
 - •Inform patients that Ondansetron may cause headache, drowsiness/sedation, constipation, fever and diarrhea.
 
-EN-3579
+EN-3819
 
 Hospira, Inc., Lake Forest, IL 60045 USA

@@ -69,8 +69,8 @@ Pharmacokinetics in Pediatric Cancer Patients 1 Month to 18 Years of Age
 | Subjects and Age Group | N | CL (L/h/kg) | Vdss (L/kg) | T½ (h) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Geometric Mean |  | Mean |  |  |  |  |  |
-| Pediatric Cancer Patients 4 to 18 years of age | N = 21 | 0.599 | 1.9 | 2.8 |  |  |  |  |  |
-| Population PK Patientsa 1 month to 48 months of age | N = 115 | 0.582 | 3.65 | 4.9 |  |  |  |  |  |
+| Pediatric Cancer Patients4 to 18 years of age | N = 21 | 0.599 | 1.9 | 2.8 |  |  |  |  |  |
+| Population PK Patientsa1 month to 48 months of age | N = 115 | 0.582 | 3.65 | 4.9 |  |  |  |  |  |
 | a Population PK (Pharmacokinetic) Patients: 64% cancer patients and 36% surgery patients. |  |  |  |  |  |  |  |  |  |
 
 Based on the population pharmacokinetic analysis, cancer patients 6 to 48 months of age who receive a dose of 0.15 mg/kg of intravenous ondansetron every 4 hours for 3 doses would be expected to achieve a systemic exposure (AUC) consistent with the exposure achieved in previous pediatric studies in cancer patients (4 to 18 years of age) at similar doses.
@@ -88,9 +88,9 @@ Pharmacokinetics in Pediatric Surgery Patients 1 Month to 12 Years of Age
 | Subjects and Age Group | N | CL (L/h/kg) | Vdss (L/kg) | T½ (h) |
 | --- | --- | --- | --- | --- |
 |  |  | Geometric Mean |  | Mean |
-| Pediatric Surgery Patients 3 to 12 years of age | N = 21 | 0.439 | 1.65 | 2.9 |
-| Pediatric Surgery Patients 5 to 24 months of age | N = 22 | 0.581 | 2.3 | 2.9 |
-| Pediatric Surgery Patients 1 month to 4 months of age | N = 19 | 0.401 | 3.5 | 6.7 |
+| Pediatric Surgery Patients3 to 12 years of age | N = 21 | 0.439 | 1.65 | 2.9 |
+| Pediatric Surgery Patients5 to 24 months of age | N = 22 | 0.581 | 2.3 | 2.9 |
+| Pediatric Surgery Patients1 month to 4 months of age | N = 19 | 0.401 | 3.5 | 6.7 |
 
 In general, surgical and cancer pediatric patients younger than 18 years tend to have a higher ondansetron clearance compared to adults leading to a shorter half-life in most pediatric patients.
 In patients 1 month to 4 months of age, a longer half-life was observed due to the higher volume of distribution in this age group.
