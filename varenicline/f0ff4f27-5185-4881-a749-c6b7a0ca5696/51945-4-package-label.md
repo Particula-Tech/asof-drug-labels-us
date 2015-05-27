@@ -58,7 +58,7 @@ Contains: 1 Starting Pack (0.5 mg* × 11 tablets) and (1 mg† × 14 tablets) 1 
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Label
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0468-56
 
@@ -70,7 +70,7 @@ Chantix® (varenicline) tablets
 
 56 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Label
+# PRINCIPAL DISPLAY PANEL - 1 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0469-56
 
