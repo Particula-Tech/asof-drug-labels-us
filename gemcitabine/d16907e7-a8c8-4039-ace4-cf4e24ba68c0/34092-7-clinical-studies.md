@@ -25,21 +25,21 @@ Table 11: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in
 
 Table 12: Randomized Trial of Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer - Efficacy Outcomes
 
-|  | Gemcitabine/Carboplatin (N=178) | Carboplatin (N=178) |
-| --- | --- | --- |
-| Progression-free Survival Median (95% CIa) months Hazard Ratio (95% CI) | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) |
-| 0.72 (0.57, 0.90) |  |  |
-| p-valueb | p=0.0038 |  |
-| Overall Survival Median (95% CI) months Hazard Ratio (95% CI) p-valueb | 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) |
-| 0.98 (0.78, 1.24) |  |  |
-| p=0.8977 |  |  |
-| Investigator Reviewed Overall Response Rate | 47.2% | 30.9% |
-| p-valuee | p=0.0016 |  |
-| CRd PR plus PRNMe | 14.6% 32.6% | 6.2% 24.7% |
-| Independently Reviewed Overall Response Ratef p-valuee CRd PR plus PRNMe | 46.3% | 35.6% |
-| p=0.11 |  |  |
-| 9.1% 37.2% | 4.0% 31.7% |  |
-| a CI=confidence intervalb Complete response c Partial response plus partial response, non-measurable disease d Log Rank, unadjusted e Chi Square f Independently reviewed cohort - Gemcitabine/Carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam |  |  |
+|  | Gemcitabine/Carboplatin (N=178) | Carboplatin (N=178) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Progression-free Survival Median (95% CIa) months | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) |  |  |  |
+| Hazard Ratio (95% CI) | 0.72 (0.57, 0.90) |  |  |  |  |
+| p-valueb | p=0.0038 |  |  |  |  |
+| Overall Survival Median (95% CI) months | 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) |  |  |  |
+| Hazard Ratio (95% CI) | 0.98 (0.78, 1.24) |  |  |  |  |
+| p-valueb | p=0.8977 |  |  |  |  |
+| Investigator Reviewed Overall Response Rate | 47.2% | 30.9% |  |  |  |
+| p-valuee | p=0.0016 |  |  |  |  |
+| CRd PR plus PRNMe | 14.6% 32.6% | 6.2% 24.7% |  |  |  |
+| Independently Reviewed Overall Response Ratef | 46.3% | 35.6% |  |  |  |
+| p-valuee | p=0.11 |  |  |  |  |
+| CRd PR plus PRNMe | 9.1% 37.2% | 4.0% 31.7% |  |  |  |
+| a CI=confidence interval b Complete response c Partial response plus partial response, non-measurable disease d Log Rank, unadjusted e Chi Square f Independently reviewed cohort - Gemcitabine/Carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam |  |  |  |  |  |
 
 Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine plus Carboplatin versus Carboplatin in Ovarian Cancer (N=356)
 
@@ -77,7 +77,7 @@ Table 13: Randomized Trial of Gemcitabine plus Paclitaxel versus Paclitaxel in B
 | p-value | Not Significant |  |
 | Overall Response Rate (95% CI) p-value | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) |
 | p<0.0001 |  |  |
-| a Karnofsky Performance Status.b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm.c Based on the ITT population. |  |  |
+| a Karnofsky Performance Status. b These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. c Based on the ITT population. |  |  |
 
 Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine plus Paclitaxel versus Paclitaxel Breast Cancer Study (N=529)
 
@@ -122,7 +122,7 @@ Table 14: Randomized Trials of Gemcitabine plus Cisplatin in Patients with NSCLC
 | p-valuef | p=0.009 |  | p=0.015 |  |
 | Tumor Response | 26% | 10% | 33% | 14% |
 | p-valuef | p<0.0001 |  | p=0.01 |  |
-| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days.b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days.c N/A Not applicable.d Karnofsky Performance Status.e CI=confidence intervalsf p-value two-sided Fisher’s Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
+| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A Not applicable. d Karnofsky Performance Status. e CI=confidence intervals f p-value two-sided Fisher’s Exact test for difference in binomial proportions; log rank test for time-to-event analyses. |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
 
@@ -133,12 +133,12 @@ In the second trial, all patients received gemcitabine 1000 mg/m2 intravenously 
 The primary efficacy outcome measure in both trials was “clinical benefit response”.
 A patient was considered to have had a clinical benefit response if either occurred:
 
-- The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
+- •The patient achieved a ≥50% reduction in pain intensity (Memorial Pain Assessment Card) or analgesic consumption, or a 20-point or greater improvement in performance status (Karnofsky Performance Status) for a period of at least 4 consecutive weeks, without showing any sustained worsening in any of the other parameters.
   Sustained worsening was defined as 4 consecutive weeks with either any increase in pain intensity or analgesic consumption or a 20-point decrease in performance status occurring during the first 12 weeks of therapy.
 
 OR
 
-- The patient was stable on all of the aforementioned parameters, and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
+- •The patient was stable on all of the aforementioned parameters, and showed a marked, sustained weight gain (≥7% increase maintained for ≥4 weeks) not due to fluid accumulation.
 
 The randomized trial enrolled 126 patients across 17 sites in the US and Canada.
 The demographic and entry characteristics were similar between the arms (Table 15).
@@ -161,6 +161,6 @@ Table 15: Randomized Trial of Gemcitabine versus 5-Fluorouracil in Pancreatic Ca
 | p-valueb | p=0.0009 |  |
 | Time to Disease Progression Median (95% CI) | 2.1 months (1.9, 3.4) | 0.9 months (0.9, 1.1) |
 | p-valueb | p=0.0013 |  |
-| a Karnofsky Performance Status.b p-value for clinical benefit response calculated using the two-sided test for difference in binomial proportions. All other p‑values are calculated using log rank test. |  |  |
+| a Karnofsky Performance Status. b p-value for clinical benefit response calculated using the two-sided test for difference in binomial proportions. All other p-values are calculated using log rank test. |  |  |
 
 Figure 4: Kaplan-Meier Survival Curve

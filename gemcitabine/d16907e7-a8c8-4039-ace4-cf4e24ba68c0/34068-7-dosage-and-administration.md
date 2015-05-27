@@ -71,8 +71,8 @@ Recommended Dose and Schedule
 The recommended dose of gemcitabine is 1000 mg/m2 over 30 minutes intravenously.
 The recommended treatment schedule:
 
-- Weeks 1-8: weekly dosing for the first 7 weeks followed by one week rest.
-- After week 8: weekly dosing on Days 1, 8, and 15 of 28-day cycles.
+- •Weeks 1-8: weekly dosing for the first 7 weeks followed by one week rest.
+- •After week 8: weekly dosing on Days 1, 8, and 15 of 28-day cycles.
 
 Dose Modifications
 
@@ -92,10 +92,10 @@ Table 4: Recommended Dose Reductions for Gemcitabine for Myelosuppression in Pan
 
 Permanently discontinue Gemcitabine for any of the following
 
-- Unexplained dyspnea or other evidence of severe pulmonary toxicity
-- Severe hepatic toxicity
-- Hemolytic-Uremic Syndrome
-- Capillary Leak Syndrome
+- •Unexplained dyspnea or other evidence of severe pulmonary toxicity
+- •Severe hepatic toxicity
+- •Hemolytic-Uremic Syndrome
+- •Capillary Leak Syndrome
 
 Withhold gemcitabine or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
