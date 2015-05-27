@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA207946"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Janssen Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "50458-606-01",
+    "50458-607-01",
+    "50458-608-01",
+    "50458-609-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "paliperidone palmitate",
+      "name": "INVEGA TRINZA"
+    }
+  ],
+  "setid": "c39e65d7-fa44-4e4c-8b12-a654d3ed0eae",
+  "source": "dailymed"
+}
