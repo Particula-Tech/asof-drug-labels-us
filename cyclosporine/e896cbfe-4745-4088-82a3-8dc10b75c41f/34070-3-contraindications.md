@@ -6,7 +6,7 @@ Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) is contraindicated in
 
 ## Rheumatoid Arthritis
 
-Rheumatoid arthritis patients with abnormal renal function, uncontrolled hypertension or malignancies should not receive Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
+Rheumatoid arthritis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
 
 ## Psoriasis
 

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-## Gengraf® Capsules (Cyclosporine Capsules, USP [MODIFIED])
+## Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED])
 
 ### 25 mg
 
@@ -21,8 +21,8 @@ In the original unit-dose container at controlled room temperature 68°-77°F (2
 
 Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation.
 
-© AbbVie Inc. 2014
+© AbbVie Inc. 2015
 
 AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-03-B071 December, 2014
+03-B161 May, 2015

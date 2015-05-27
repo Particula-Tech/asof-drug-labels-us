@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Kidney, Liver and Heart Transplantation
+## Kidney, Liver, and Heart Transplantation
 
 Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]) is indicated for the prophylaxis of organ rejection in kidney, liver, and heart allogeneic transplants.
 Cyclosporine (MODIFIED) has been used in combination with azathioprine and corticosteroids.
