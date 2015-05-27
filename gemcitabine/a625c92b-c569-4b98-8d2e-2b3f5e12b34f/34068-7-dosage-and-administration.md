@@ -10,14 +10,12 @@ Carboplatin AUC 4 should be administered intravenously on Day 1 after gemcitabin
 Patients should be monitored prior to each dose with a complete blood count, including differential counts.
 Patients should have an absolute granulocyte count ≥1500 x 106/L and a platelet count ≥100,000 x 106/L prior to each cycle.
 
-Dose Modifications
-
-Gemcitabine dosage adjustments for hematological toxicity within a cycle of treatment is based on the granulocyte and platelet counts taken on Day 8 of therapy.
+Dose Modifications Gemcitabine dosage adjustments for hematological toxicity within a cycle of treatment is based on the granulocyte and platelet counts taken on Day 8 of therapy.
 If marrow suppression is detected, gemcitabine dosage should be modified according to guidelines in Table 1.
 
 Table 1: Day 8 Dosage Reduction Guidelines for Gemcitabine in Combination with Carboplatin
 
-| Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
+| Absolute granulocyte count(x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- |
 | ≥1500 | and | ≥100,000 | 100 |
 | 1000-1499 | and/or | 75,000-99,999 | 50 |
@@ -29,11 +27,11 @@ For carboplatin dosage adjustment, see manufacturer’s prescribing information.
 Dose adjustment for gemcitabine in combination with carboplatin for subsequent cycles is based upon observed toxicity.
 The dose of gemcitabine in subsequent cycles should be reduced to 800 mg/m2 on Days 1 and 8 in case of any of the following hematologic toxicities:
 
-- Absolute granulocyte count <500 x 106/L for more than 5 days
-- Absolute granulocyte count <100 x 106/L for more than 3 days
-- Febrile neutropenia
-- Platelets <25,000 x 106/L
-- Cycle delay of more than one week due to toxicity
+- •Absolute granulocyte count <500 x 106/L for more than 5 days
+- •Absolute granulocyte count <100 x 106/L for more than 3 days
+- •Febrile neutropenia
+- •Platelets <25,000 x 106/L
+- •Cycle delay of more than one week due to toxicity
 
 If any of the above toxicities recur after the initial dose reduction, for the subsequent cycle, gemcitabine should be given on Day 1 only at 800 mg/m2.
 
@@ -44,9 +42,7 @@ Paclitaxel should be administered at 175 mg/m2 on Day 1 as a 3-hour intravenous 
 Patients should be monitored prior to each dose with a complete blood count, including differential counts.
 Patients should have an absolute granulocyte count ≥1500 x 106/L and a platelet count ≥100,000 x 106/L prior to each cycle.
 
-Dose Modifications
-
-Gemcitabine dosage adjustments for hematological toxicity is based on the granulocyte and platelet counts taken on Day 8 of therapy.
+Dose Modifications Gemcitabine dosage adjustments for hematological toxicity is based on the granulocyte and platelet counts taken on Day 8 of therapy.
 If marrow suppression is detected, gemcitabine dosage should be modified according to the guidelines in Table 2.
 
 Table 2: Day 8 Dosage Reduction Guidelines for Gemcitabine in Combination with Paclitaxel
@@ -70,9 +66,7 @@ With the 3-week schedule, gemcitabine should be administered intravenously at 12
 Cisplatin at a dose of 100 mg/m2 should be administered intravenously after the infusion of gemcitabine on Day 1.
 See prescribing information for cisplatin administration and hydration guidelines.
 
-Dose Modifications
-
-Dosage adjustments for hematologic toxicity may be required for gemcitabine and for cisplatin.
+Dose Modifications Dosage adjustments for hematologic toxicity may be required for gemcitabine and for cisplatin.
 Gemcitabine dosage adjustment for hematological toxicity is based on the granulocyte and platelet counts taken on the day of therapy.
 Patients receiving gemcitabine should be monitored prior to each dose with a complete blood count (CBC), including differential and platelet counts.
 If marrow suppression is detected, therapy should be modified or suspended according to the guidelines in Table 3.
@@ -86,9 +80,7 @@ During combination therapy with cisplatin, serum creatinine, serum potassium, se
 Gemcitabine should be administered by intravenous infusion at a dose of 1000 mg/m2 over 30 minutes once weekly for up to 7 weeks (or until toxicity necessitates reducing or holding a dose), followed by a week of rest from treatment.
 Subsequent cycles should consist of infusions once weekly for 3 consecutive weeks out of every 4 weeks.
 
-Dose Modifications
-
-Dosage adjustment is based upon the degree of hematologic toxicity experienced by the patient [see Warnings and Precautions (5.2)].
+Dose Modifications Dosage adjustment is based upon the degree of hematologic toxicity experienced by the patient [see Warnings and Precautions (5.2)].
 Clearance in women and the elderly is reduced and women were somewhat less able to progress to subsequent cycles [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 Patients receiving gemcitabine should be monitored prior to each dose with a complete blood count (CBC), including differential and platelet count.
