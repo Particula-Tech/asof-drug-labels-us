@@ -11,7 +11,7 @@ ZYVOX I.V.
 Injection is supplied as a ready-to-use sterile isotonic solution for intravenous infusion.
 Each mL contains 2 mg of linezolid.
 Inactive ingredients are sodium citrate, citric acid, and dextrose in an aqueous vehicle for intravenous administration.
-The sodium (Na+) content is 0.38 mg/mL (5 mEq/300-mL bag; 3.3 mEq/200-mL bag; and 1.7 mEq/100-mL bag).
+The sodium (Na+) content is 0.38 mg/mL (5 mEq/300-mL bag and 1.7 mEq/100-mL bag).
 
 ZYVOX Tablet for oral administration contains 600 mg linezolid as a film-coated compressed tablet.
 Inactive ingredients are corn starch, microcrystalline cellulose, hydroxypropylcellulose, sodium starch glycolate, magnesium stearate, hypromellose, polyethylene glycol, titanium dioxide, and carnauba wax.
