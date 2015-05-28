@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA203047"
+  ],
+  "inn": "valacyclovir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-704-01",
+    "31722-704-05",
+    "31722-704-30",
+    "31722-704-31",
+    "31722-704-32",
+    "31722-704-60",
+    "31722-704-90",
+    "31722-705-01",
+    "31722-705-05",
+    "31722-705-30",
+    "31722-705-60",
+    "31722-705-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valacyclovir",
+      "name": "Valacyclovir"
+    }
+  ],
+  "setid": "7f5e96e0-534c-47a5-bb79-926088afc73c",
+  "source": "dailymed"
+}
