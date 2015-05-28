@@ -1,11 +1,15 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL-Bottle Label-1.5 mg
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 1.5 mg
 
-NDC 62756-145-86 Rivastigmine Tartrate Capsules equivalent to 1.5 mg base Rx only 60 CAPSULES SUN PHARMACEUTICAL INDUSTRIES LTD.
+NDC 62756-145-86 Rivastigmine Tartrate Capsules equivalent to 1.5 mg base Rx only 60 Capsules SUN PHARMA
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL-Carton-3 mg
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 3 mg
 
-NDC 62756-146-61 Rivastigmine Tartrate Capsules equivalent to 3 mg base Rx only 100 (10 x 10) Unit Dose Capsules SUN PHARMACEUTICAL INDUSTRIES LTD.
+NDC 62756-146-86 Rivastigmine Tartrate Capsules equivalent to 3 mg base Rx only 60 Capsules SUN PHARMA
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL-Bottle Label-4.5 mg
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 4.5 mg
 
-NDC 62756-147-86 Rivastigmine Tartrate Capsules equivalent to 4.5 mg base Rx only 60 CAPSULES SUN PHARMACEUTICAL INDUSTRIES LTD.
+NDC 62756-147-86 Rivastigmine Tartrate Capsules equivalent to 4.5 mg base Rx only 60 Capsules SUN PHARMA
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 6 mg
+
+NDC 62756-148-86 Rivastigmine Tartrate Capsules equivalent to 6 mg base Rx only 60 Capsules SUN PHARMA
