@@ -1,46 +1,5 @@
 PRINCIPAL DISPLAY PANEL
 
-NDC 0173-0633-02
-
-LAMICTAL®
-
-(LAMOTRIGINE)
-
-TABLETS
-
-25 mg
-
-100 Tablets
-
-CAUTION: Verify Product Dispensed
-
-Dispense the accompanying Medication Guide to each patient.
-
-Each scored tablet contains 25 mg of lamotrigine.
-
-See Prescribing Information for dosage information.
-
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place.
-
-Do not accept if printed seal under cap is missing or broken.
-
-Dispense in a tight container as defined in the USP.
-
-Distributed by
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in India
-
-Rx only
-
-10000000131786 Rev.
-2/15
-
-PRINCIPAL DISPLAY PANEL
-
 NDC 0173-0642-55
 
 LAMICTAL®

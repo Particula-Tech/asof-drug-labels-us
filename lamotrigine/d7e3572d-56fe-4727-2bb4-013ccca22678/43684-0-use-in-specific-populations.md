@@ -48,6 +48,8 @@ Caution should be exercised when LAMICTAL is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
+Epilepsy
+
 LAMICTAL is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
 Safety and efficacy of LAMICTAL used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
@@ -55,7 +57,12 @@ LAMICTAL was associated with an increased risk for infectious adverse reactions 
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Safety and effectiveness in patients younger than 18 years with bipolar disorder have not been established.
+Bipolar Disorder
+
+Safety and efficacy of LAMICTAL for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking LAMICTAL (n = 87) and were twice as common compared to patients taking placebo (n = 86) were influenza (LAMICTAL 8%, placebo 2%), oropharyngeal pain (LAMICTAL 8%, placebo 2%), vomiting (LAMICTAL 6%, placebo 2%), contact dermatitis (LAMICTAL 5%, placebo 2%), upper abdominal pain (LAMICTAL 5%, placebo 1%), and suicidal ideation (LAMICTAL 5%, placebo 0%).
+
+Juvenile Animal Data
 
 In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
 The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2 basis.

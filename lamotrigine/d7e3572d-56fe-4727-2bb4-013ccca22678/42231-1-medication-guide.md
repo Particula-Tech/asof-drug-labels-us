@@ -1,13 +1,10 @@
 MEDICATION GUIDE
 
-LAMICTAL® (la-MIK-tal) (lamotrigine) tablets and chewable dispersible tablets
+LAMICTAL® (la-MIK-tal) (lamotrigine) tablets
+
+LAMICTAL® (lamotrigine) chewable dispersible tablets
 
 LAMICTAL ODT® (lamotrigine) orally disintegrating tablets
-
-Read this Medication Guide before you start taking LAMICTAL and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
-If you have questions about LAMICTAL, ask your healthcare provider or pharmacist.
 
 What is the most important information I should know about LAMICTAL?
 
@@ -16,7 +13,7 @@ LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or 
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL, but is more likely to happen within the first 2 to 8 weeks of treatment.
-Children aged between 2 and 16 years have a higher chance of getting this serious skin rash while taking LAMICTAL.
+Children and teenagers aged between 2 and 17 years have a higher chance of getting this serious skin rash while taking LAMICTAL.
 
 The risk of getting a serious skin rash is higher if you:
 
@@ -73,14 +70,14 @@ Do not stop LAMICTAL without first talking to a healthcare provider.
 - •Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-How can I watch for early symptoms of suicidal thoughts and actions?
+How can I watch for early symptoms of suicidal thoughts and actions in myself or a family member?
 
 - •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
 4.
-LAMICTAL may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+LAMICTAL may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -98,13 +95,13 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Meningitis has many causes other than LAMICTAL, which your doctor would check for if you developed meningitis while taking LAMICTAL.
 
-LAMICTAL can have other serious side effects.
+LAMICTAL can cause other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
 5.
-Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
+People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL:
@@ -112,7 +109,7 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 - •Make sure you can read it clearly.
 - •Talk to your pharmacist to check that you are given the correct medicine.
 - •Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
-- These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
+- These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL tablets, chewable dispersible tablets, and orally disintegrating tablets.
   Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
 LAMICTAL (lamotrigine) tablets
@@ -127,20 +124,24 @@ LAMICTAL (lamotrigine) chewable dispersible tablets
 
 LAMICTAL ODT (lamotrigine) orally disintegrating tablets
 
-| 25 mg, white to off-white Imprinted withLMT on one side25 on the other | 50 mg, white to off-whiteImprinted withLMT on one side50 on the other | 100 mg, white to off-whiteImprinted withLAMICTAL on one side100 on the other | 200 mg, white to off-whiteImprinted withLAMICTAL on one side200 on the other |
+| 25 mg, white to off-whiteImprinted withLMT on one side25 on the other | 50 mg, white to off-whiteImprinted withLMT on one side50 on the other | 100 mg, white to off-whiteImprinted withLAMICTAL on one side100 on the other | 200 mg, white to off-whiteImprinted withLAMICTAL on one side200 on the other |
 | --- | --- | --- | --- |
 
 What is LAMICTAL?
 
 LAMICTAL is a prescription medicine used:
 
-- 1.together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
-- 2.alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
-- 3.for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people aged 18 years and older who have been treated for mood episodes with other medicine.
+- •together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
+- •alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
+- •for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
 
-It is not known if LAMICTAL is safe or effective in children or teenagers younger than 18 years with mood disorders such as bipolar disorder or depression.
+It is not known if LAMICTAL is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
 
 It is not known if LAMICTAL is safe or effective when used alone as the first treatment of seizures.
+
+It is not known if LAMICTAL is safe or effective for people with mood episodes who have not already been treated with other medicines.
+
+LAMICTAL should not be used for acute treatment of manic or mixed mood episodes.
 
 Who should not take LAMICTAL?
 
@@ -157,7 +158,7 @@ Before taking LAMICTAL, tell your healthcare provider about all of your medical 
 - •are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).
+  Stopping these medicines while you are taking LAMICTAL may cause side effects (such as dizziness, lack of coordination, or double vision).
   Starting these medicines may lessen how well LAMICTAL works.
 - •are pregnant or plan to become pregnant.
   It is not known if LAMICTAL will harm your unborn baby.
@@ -170,7 +171,8 @@ Before taking LAMICTAL, tell your healthcare provider about all of your medical 
   Call your baby’s healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take LAMICTAL.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
 If you use LAMICTAL with certain other medicines, they can affect each other, causing side effects.
 
 How should I take LAMICTAL?
@@ -193,8 +195,8 @@ How should I take LAMICTAL?
 - •If you have trouble swallowing LAMICTAL Tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
 - •LAMICTAL ODT should be placed on the tongue and moved around the mouth.
   The tablet will rapidly disintegrate, can be swallowed with or without water, and can be taken with or without food.
-- •LAMICTAL chewable dispersible tablets may be swallowed whole, chewed, or mixed in water or diluted fruit juice.
-  If the tablets are chewed, drink a small amount of water or diluted fruit juice to help in swallowing.
+- •LAMICTAL chewable dispersible tablets may be swallowed whole, chewed, or mixed in water or fruit juice mixed with water.
+  If the tablets are chewed, drink a small amount of water or fruit juice mixed with water to help in swallowing.
   To break up LAMICTAL chewable dispersible tablets, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medicine) in a glass or spoon.
   Wait at least 1 minute or until the tablets are completely broken up, mix the solution together, and take the whole amount right away.
 - •If you receive LAMICTAL in a blisterpack, examine the blisterpack before use.
@@ -202,9 +204,11 @@ How should I take LAMICTAL?
 
 What should I avoid while taking LAMICTAL?
 
-Do not drive a car or operate complex, hazardous machinery until you know how LAMICTAL affects you.
+Do not drive, operate machinery, or do other dangerous activities until you know how LAMICTAL affects you.
 
 What are the possible side effects of LAMICTAL?
+
+LAMICTAL can cause serious side effects.
 
 See “What is the most important information I should know about LAMICTAL?”
 
@@ -218,12 +222,16 @@ Common side effects of LAMICTAL include:
 - •fever
 - •lack of coordination
 - •abdominal pain
+- •infections, including seasonal flu
 - •sleepiness
 - •back pain
-- •nausea, vomiting, diarrhea
+- •nausea, vomiting
+- •diarrhea
 - •tiredness
 - •insomnia
 - •dry mouth
+- •stuffy nose
+- •sore throat
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -238,7 +246,7 @@ How should I store LAMICTAL?
 - •Store LAMICTAL at room temperature between 68oF and 77oF (20oC and 25oC).
 - •Keep LAMICTAL and all medicines out of the reach of children.
 
-General information about LAMICTAL
+General information about the safe and effective use of LAMICTAL.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use LAMICTAL for a condition for which it was not prescribed.
@@ -289,6 +297,6 @@ Research Triangle Park, NC 27709
 ©2015, the GSK group of companies.
 All rights reserved.
 
-March 2015
+May 2015
 
-LMT:13MG
+LMT:14MG

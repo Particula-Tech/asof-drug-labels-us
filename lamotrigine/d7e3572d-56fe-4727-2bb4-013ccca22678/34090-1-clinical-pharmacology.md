@@ -72,7 +72,7 @@ Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with E
 a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for T max. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies.
 
-bCarbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Absorption
@@ -81,7 +81,7 @@ Lamotrigine is rapidly and completely absorbed after oral administration with ne
 The bioavailability is not affected by food.
 Peak plasma concentrations occur anywhere from 1.4 to 4.8 hours following drug administration.
 The lamotrigine chewable/dispersible tablets were found to be equivalent, whether administered as dispersed in water, chewed and swallowed, or swallowed whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
-In terms of rate and extent of absorption, lamotrigine orally disintegrating tablets whether disintegrated in the mouth or swallowed whole with water were equivalent to the lamotrigine compressed tablets swallowed with water.
+In terms of rate and extent of absorption, lamotrigine orally disintegrating tablets, whether disintegrated in the mouth or swallowed whole with water, were equivalent to the lamotrigine compressed tablets swallowed with water.
 
 Dose Proportionality
 
@@ -120,7 +120,7 @@ Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -154,23 +154,23 @@ Summary of Drug Interactions with Lamotrigine
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
-aFrom adjunctive clinical trials and volunteer trials.
+a From adjunctive clinical trials and volunteer trials.
 
-bNet effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials.
+b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials.
 
-cThe effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
+c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
 
-dModest decrease in levonorgestrel.
+d Modest decrease in levonorgestrel.
 
 e Slight decrease, not expected to be clinically meaningful.
 
-fCompared with historical controls.
+f Compared with historical controls.
 
-gNot administered, but an active metabolite of carbamazepine.
+g Not administered, but an active metabolite of carbamazepine.
 
 h Not administered, but an active metabolite of oxcarbazepine.
 
-iNot administered, but an active metabolite of risperidone.
+i Not administered, but an active metabolite of risperidone.
 
 j Slight increase, not expected to be clinically meaningful.
 
@@ -365,12 +365,12 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |
 | Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
 
-aCarbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
-bTwo subjects were included in the calculation for mean Tmax.
+b Two subjects were included in the calculation for mean T max.
 
-cParameter not estimated.
+c Parameter not estimated.
 
 Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).

@@ -78,7 +78,9 @@ For the intent-to-treat population, the median percent reduction in PGTC seizure
 
 ## 14.2 Bipolar Disorder
 
-The effectiveness of LAMICTAL in the maintenance treatment of bipolar I disorder was established in 2 multicenter, double-blind, placebo-controlled trials in adult patients who met DSM-IV criteria for bipolar I disorder.
+Adults
+
+The effectiveness of LAMICTAL in the maintenance treatment of bipolar I disorder was established in 2 multicenter, double-blind, placebo-controlled trials in adult patients (aged 18 to 82 years) who met DSM-IV criteria for bipolar I disorder.
 Trial 1 enrolled patients with a current or recent (within 60 days) depressive episode as defined by DSM-IV and Trial 2 included patients with a current or recent (within 60 days) episode of mania or hypomania as defined by DSM-IV.
 Both trials included a cohort of patients (30% of 404 subjects in Trial 1 and 28% of 171 patients in Trial 2) with rapid cycling bipolar disorder (4 to 6 episodes per year).
 
@@ -89,11 +91,15 @@ The primary endpoint was TIME (time to intervention for a mood episode or one th
 The mood episode could be depression, mania, hypomania, or a mixed episode.
 
 In Trial 1, patients received double-blind monotherapy with LAMICTAL 50 mg/day (n = 50), LAMICTAL 200 mg/day (n = 124), LAMICTAL 400 mg/day (n = 47), or placebo (n = 121).
-LAMICTAL (200- and 400-mg/day treatment groups combined) was superior to placebo in delaying the time to occurrence of a mood episode.
+LAMICTAL (200- and 400-mg/day treatment groups combined) was superior to placebo in delaying the time to occurrence of a mood episode (Figure 1).
 Separate analyses of the 200- and 400-mg/day dose groups revealed no added benefit from the higher dose.
 
 In Trial 2, patients received double-blind monotherapy with LAMICTAL (100 to 400 mg/day, n = 59), or placebo (n = 70).
-LAMICTAL was superior to placebo in delaying time to occurrence of a mood episode.
+LAMICTAL was superior to placebo in delaying time to occurrence of a mood episode (Figure 2).
 The mean dose of LAMICTAL was about 211 mg/day.
 
 Although these trials were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 trials revealed a statistically significant benefit for LAMICTAL over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.
+
+Figure 1: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 1)
+
+Figure 2: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 2)

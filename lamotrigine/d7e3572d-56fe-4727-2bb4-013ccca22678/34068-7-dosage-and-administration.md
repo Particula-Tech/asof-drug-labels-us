@@ -10,7 +10,7 @@ Therefore, it is important that the dosing recommendations be followed closely.
 
 The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
 
-LAMICTAL Starter Kits and LAMICTAL ODT® Patient Titration Kits provide LAMICTAL at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications, for patients with epilepsy (older than 12 years) and bipolar I disorder (aged 18 years and older) and are intended to help reduce the potential for rash.
+LAMICTAL Starter Kits and LAMICTAL ODT® Patient Titration Kits provide LAMICTAL at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications, for patients with epilepsy (older than 12 years) and bipolar I disorder (adults) and are intended to help reduce the potential for rash.
 The use of LAMICTAL Starter Kits and LAMICTAL ODT Patient Titration Kits is recommended for appropriate patients who are starting or restarting LAMICTAL [see How Supplied/Storage and Handling (16)].
 
 It is recommended that LAMICTAL not be restarted in patients who discontinued due to rash associated with prior treatment with lamotrigine unless the potential benefits clearly outweigh the risks.
@@ -25,7 +25,7 @@ Because lamotrigine is metabolized predominantly by glucuronic acid conjugation,
 Drugs that induce glucuronidation include carbamazepine, phenytoin, phenobarbital, primidone, rifampin, estrogen-containing oral contraceptives, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
 Valproate inhibits glucuronidation.
 For dosing considerations for LAMICTAL in patients on estrogen-containing contraceptives and atazanavir/ritonavir, see below and Table 13.
-For dosing considerations for LAMICTAL in patients on other drugs known to induce or inhibit glucuronidation, see Table 1, Table 2, Table 5, Table 6, and Table 13.
+For dosing considerations for LAMICTAL in patients on other drugs known to induce or inhibit glucuronidation, see Tables 1, 2, 5-6, and 13.
 
 Target Plasma Levels for Patients with Epilepsy or Bipolar Disorder
 
@@ -35,7 +35,7 @@ Dosing of LAMICTAL should be based on therapeutic response [see Clinical Pharmac
 Women Taking Estrogen-Containing Oral Contraceptives
 
 Starting LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL should be necessary solely based on the use of estrogen-containing oral contraceptives.
-Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED or other concomitant medications (see Table 1 or Table 5).
+Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of LAMICTAL in women taking estrogen-containing oral contraceptives.
 
 Adjustments to the Maintenance Dose of LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives:
@@ -44,7 +44,7 @@ Adjustments to the Maintenance Dose of LAMICTAL in Women Taking Estrogen-Contain
 
 (2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
-Dose increases should not exceed the recommended rate (see Table 1 or Table 5) unless lamotrigine plasma levels or clinical response support larger increases.
+Dose increases should not exceed the recommended rate (see Tables 1 and 5) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
 Increased lamotrigine plasma levels could result in additional adverse reactions, such as dizziness, ataxia, and diplopia.
 If adverse reactions attributable to LAMICTAL consistently occur during the pill-free week, dose adjustments to the overall maintenance dose may be necessary.
@@ -77,7 +77,7 @@ Escalation and maintenance doses may be adjusted according to clinical response.
 
 Patients with Renal Impairment
 
-Initial doses of LAMICTAL should be based on patients’ concomitant medications (see Tables 1-3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Initial doses of LAMICTAL should be based on patients’ concomitant medications (see Tables 1-3 and 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Few patients with severe renal impairment have been evaluated during chronic treatment with LAMICTAL.
 Because there is inadequate experience in this population, LAMICTAL should be used with caution in these patients.
 
@@ -85,14 +85,13 @@ Discontinuation Strategy
 
 Epilepsy: For patients receiving LAMICTAL in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
-If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.8)].
 
 Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 
 Bipolar Disorder: In the controlled clinical trials, there was no increase in the incidence, type, or severity of adverse reactions following abrupt termination of LAMICTAL.
-In clinical trials in patients with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
-However, there were confounding factors that may have contributed to the occurrence of seizures in these patients with bipolar disorder.
-Discontinuation of LAMICTAL should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
+Discontinuation of LAMICTAL should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.8)].
 
 ## 2.2 Epilepsy—Adjunctive Therapy
 
@@ -115,16 +114,17 @@ Escalation Regimen for LAMICTAL in Patients Older than 12 Years with Epilepsy
 | Usual maintenance dose | 100 to 200 mg/day with valproate alone | 225 to 375 mg/day(in 2 divided doses) | 300 to 500 mg/day(in 2 divided doses) |
 |  | 100 to 400 mg/day with valproate and other drugs that induce glucuronidation(in 1 or 2 divided doses) |  |  |
 
-- aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-- bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-  Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-  Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+
+bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
+Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
+Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Patients Aged 2 to 12 Years
 
 Recommended dosing guidelines are summarized in Table 2.
 
-Smaller starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by smaller starting doses and slower dose escalations.
+Lower starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by lower starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
 Maintenance doses in patients weighing less than 30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
@@ -145,10 +145,11 @@ Escalation Regimen for LAMICTAL in Patients Aged 2 to 12 Years with Epilepsy
 
 Note: Only whole tablets should be used for dosing.
 
-- a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-- b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-  Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-  Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+
+b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
+Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
+Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 3.
 The Initial Weight-Based Dosing Guide for Patients Aged 2 to 12 Years Taking Valproate (Weeks 1 to 4) with Epilepsy
@@ -201,10 +202,16 @@ No specific dosing guidelines can be provided for conversion to monotherapy with
 
 ## 2.4 Bipolar Disorder
 
-The goal of maintenance treatment with LAMICTAL is to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy.
+The goal of maintenance treatment with LAMICTAL is to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Indications and Usage (1)].
+
+Patients taking LAMICTAL for more than 16 weeks should be periodically reassessed to determine the need for maintenance treatment.
+
+Adults
+
 The target dose of LAMICTAL is 200 mg/day (100 mg/day in patients taking valproate, which decreases the apparent clearance of lamotrigine, and 400 mg/day in patients not taking valproate and taking either carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitor lopinavir/ritonavir that increase the apparent clearance of lamotrigine).
 In the clinical trials, doses up to 400 mg/day as monotherapy were evaluated; however, no additional benefit was seen at 400 mg/day compared with 200 mg/day [see Clinical Studies (14.2)].
 Accordingly, doses above 200 mg/day are not recommended.
+
 Treatment with LAMICTAL is introduced, based on concurrent medications, according to the regimen outlined in Table 5.
 If other psychotropic medications are withdrawn following stabilization, the dose of LAMICTAL should be adjusted.
 In patients discontinuing valproate, the dose of LAMICTAL should be doubled over a 2-week period in equal weekly increments (see Table 6).
@@ -214,10 +221,10 @@ The dose of LAMICTAL may then be further adjusted to the target dose (200 mg) as
 If other drugs are subsequently introduced, the dose of LAMICTAL may need to be adjusted.
 In particular, the introduction of valproate requires reduction in the dose of LAMICTAL [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations for LAMICTAL should not be exceeded [see Boxed Warning].
+To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations of LAMICTAL should not be exceeded [see Boxed Warning].
 
 Table 5.
-Escalation Regimen for LAMICTAL in Patients with Bipolar Disorder
+Escalation Regimen for LAMICTAL in Adults with Bipolar Disorder
 
 |  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
@@ -227,29 +234,27 @@ Escalation Regimen for LAMICTAL in Patients with Bipolar Disorder
 | Week 6 | 100 mg daily | 200 mg daily | 300 mg daily, in divided doses |
 | Week 7 | 100 mg daily | 200 mg daily | up to 400 mg daily, in divided doses |
 
-- aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-- bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-  Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-  Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+
+b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
+Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
+Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 6.
-Dosage Adjustments to LAMICTAL in Patients with Bipolar Disorder Following Discontinuation of Psychotropic Medications
+Dosage Adjustments to LAMICTAL in Adults with Bipolar Disorder Following Discontinuation of Psychotropic Medications
 
 |  | Discontinuation of Psychotropic Drugs (excluding Valproate,a Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb) | After Discontinuation of Valproatea | After Discontinuation of Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb |
 | --- | --- | --- | --- |
-| Current dose of LAMICTAL (mg/day)100 | Current dose of LAMICTAL (mg/day)400 |  |  |
+| Current Dose of LAMICTAL (mg/day)100 | Current Dose of LAMICTAL (mg/day)400 |  |  |
 | Week 1 | Maintain current dose of LAMICTAL | 150 | 400 |
 | Week 2 | Maintain current dose of LAMICTAL | 200 | 300 |
 | Week 3 onward | Maintain current dose of LAMICTAL | 200 | 200 |
 
-- aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-- bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
-  Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
-  Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-The benefit of continuing treatment in patients who had been stabilized in an 8- to 16-week open-label phase with LAMICTAL was established in 2 randomized, placebo-controlled clinical maintenance trials [see Clinical Studies (14.2)].
-However, the optimal duration of treatment with LAMICTAL has not been established.
-Thus, patients should be periodically reassessed to determine the need for maintenance treatment.
+bDrugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
+Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
+Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 ## 2.5 Administration of LAMICTAL Chewable Dispersible Tablets
 

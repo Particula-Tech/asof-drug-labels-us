@@ -41,7 +41,7 @@ Discuss the benefits and risks of continuing breastfeeding.
 Oral Contraceptive Use
 
 Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL in combination with these medications.
 
 Discontinuing LAMICTAL
@@ -71,4 +71,4 @@ Research Triangle Park, NC 27709
 ©2015, the GSK group of companies.
 All rights reserved.
 
-LMT:14PI
+LMT:15PI
