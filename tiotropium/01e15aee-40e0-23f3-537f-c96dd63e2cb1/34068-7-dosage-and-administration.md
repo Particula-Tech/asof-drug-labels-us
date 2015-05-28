@@ -1,0 +1,19 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Recommended Dosage
+
+The recommended dose of STIOLTO RESPIMAT is two inhalations once-daily at the same time of the day.
+Do not use STIOLTO RESPIMAT more than two inhalations every 24 hours.
+
+## 2.2 Administration Information
+
+For oral inhalation only.
+
+Prior to first use, the STIOLTO RESPIMAT cartridge is inserted into the STIOLTO RESPIMAT inhaler and the unit is primed.
+When using the unit for the first time, patients are to actuate the inhaler toward the ground until an aerosol cloud is visible and then repeat the process three more times.
+The unit is then considered primed and ready for use.
+If not used for more than 3 days, patients are to actuate the inhaler once to prepare the inhaler for use.
+If not used for more than 21 days, patients are to actuate the inhaler until an aerosol cloud is visible and then repeat the process three more times to prepare the inhaler for use [see Patient Counseling Information (17)].
+
+No dosage adjustment is required for geriatric, hepatically-impaired, or renally-impaired patients.
+However, patients with moderate to severe renal impairment given STIOLTO RESPIMAT should be monitored closely for anticholinergic effects [see Warnings and Precautions (5.9), Use in Specific Populations (8.5, 8.6, 8.7), and Clinical Pharmacology (12.3)].

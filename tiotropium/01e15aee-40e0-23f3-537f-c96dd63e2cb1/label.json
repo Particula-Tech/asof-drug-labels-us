@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA206756"
+  ],
+  "inn": "tiotropium",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0597-0155-28",
+    "0597-0155-31",
+    "0597-0155-61"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "tiotropium bromide and olodaterol",
+      "name": "Stiolto Respimat"
+    }
+  ],
+  "setid": "01e15aee-40e0-23f3-537f-c96dd63e2cb1",
+  "source": "dailymed"
+}
