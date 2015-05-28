@@ -50,38 +50,40 @@ Your doctor will decide if Itraconazole is the right treatment for you.
 Some patients should not take Itraconazole because they may have certain health problems or may be taking certain medicines that could lead to serious or life-threatening medical problems.
 
 Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
-Also tell your doctor about any other medical conditions you have had, especially heart, lung, liver or kidney conditions; or if you have had an allergic reaction to itraconazole or any other antifungal medicines.
+Also tell your doctor about any other medical conditions you have had, especially heart, lung, liver or kidney conditions; or if you have cystic fibrosis, or have had an allergic reaction to itraconazole or any other antifungal medicines.
 
 Never take Itraconazole if you:
 
 - have had heart failure, including congestive heart failure.
 - are taking any of the medicines listed below.
-  Dangerous or even life-threatening abnormal heartbeats could result:
-  - quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
-  - dofetilide (such as Tikosyn™)
+  Dangerous or even life-threatening side effects could result:
   - cisapride (such as Propulsid®)
-  - pimozide (such as Orap®)
-  - methadone (such as Dolophine®)
-  - disopyramide (such as Norpace®)
-  - dronedarone (such as Multaq®)
-  - ranolazine (such as Ranexa®)
-- are taking any of the following medicines:
-  - lovastatin (such as Mevacor®, Advicor®, Altocor™)
-  - simvastatin (such as Zocor®)
-  - triazolam (such as Halcion®)
-  - midazolam (such as Versed®)
-  - lurasidone (such as Latuda®)
-  - nisoldipine (such as Sular®)
-  - felodipine (such as Plendil®)
-  - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
-  - eplerenone (such as Inspra®)
-  - irinotecan (such as Camptosar®)
   - colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment]
+  - disopyramide (such as Norpace®)
+  - dofetilide (such as Tikosyn™)
+  - dronedarone (such as Multaq®)
+  - eplerenone (such as Inspra®)
+  - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
+  - felodipine (such as Plendil®)
+  - fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
+  - irinotecan (such as Camptosar®)
+  - lovastatin (such as Mevacor®, Advicor®, Altocor™)
+  - lurasidone (such as Latuda®)
+  - methadone (such as Dolophine®)
+  - midazolam (such as Versed®)
+  - nisoldipine (such as Sular®)
+  - pimozide (such as Orap®)
+  - quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
+  - ranolazine (such as Ranexa®)
+  - simvastatin (such as Zocor®)
+  - solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment]
+  - telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment]
+  - ticagrelor (such as Brilinta®)
+  - triazolam (such as Halcion®)
 - have ever had an allergic reaction to itraconazole.
 
-Taking Itraconazole with certain other medicines could lead to serious or life-threatening medical problems.
-For example, taking fentanyl, a strong opioid narcotic pain medicine, with Itraconazole could cause serious side effects, including trouble breathing, that may be life-threatening.
-Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking.
+Taking Itraconazole with certain other medicines may lead to serious or life-threatening medical problems.
+Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
 Your doctor will decide if Itraconazole is the right treatment for you.
 
 WHAT SHOULD I KNOW ABOUT ITRACONAZOLE AND PREGNANCY OR BREAST FEEDING?
@@ -187,7 +189,7 @@ You can ask your doctor or pharmacist for information about Itraconazole that is
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-Revised June 2014
+Revised May 2015
 
 Product of Ireland
 

@@ -126,7 +126,7 @@ Table 5: Postmarketing Reports of Adverse Drug Reactions
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
 | Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
-| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia |
+| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, tremor |
 | Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
 | Cardiac Disorders: | Congestive heart failure |
@@ -138,7 +138,7 @@ Table 5: Postmarketing Reports of Adverse Drug Reactions
 | Renal and Urinary Disorders: | Urinary incontinence, pollakiuria |
 | Reproductive System and Breast Disorders: | Erectile dysfunction |
 | General Disorders and Administration Site Conditions: | Peripheral edema |
-| Investigations | Blood creatine phosphokinase increased |
+| Investigations: | Blood creatine phosphokinase increased |
 
 There is limited information on the use of itraconazole during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
