@@ -33,7 +33,11 @@ No major deviation from dose proportionality was observed in the dose range of 2
 However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).
 
 Systemic exposure of abiraterone is increased when abiraterone acetate is administered with food.
-Abiraterone Cmax and AUC0–∞ were approximately 7- and 5-fold higher, respectively, when abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal.
+In healthy subjects abiraterone Cmax and AUC0–∞ were approximately 7- and 5-fold higher, respectively, when a single dose of abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal compared to overnight fasting.
+Abiraterone AUC0–∞ was approximately 7-fold or 1.6-fold higher, respectively, when a single dose of abiraterone acetate was administered 2 hours after or 1 hour before a medium fat meal (25% fat, 491 calories) compared to overnight fasting.
+
+Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.
+
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in increased and highly variable exposures.
 Therefore, no food should be consumed for at least two hours before the dose of ZYTIGA is taken and for at least one hour after the dose of ZYTIGA is taken.
 The tablets should be swallowed whole with water [see Dosage and Administration (2.1)].
@@ -86,7 +90,7 @@ In a clinical pharmacokinetic interaction study of healthy subjects pretreated w
 
 In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1)].
 
-In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000mg abiraterone acetate [see Drug Interactions (7.2)].
+In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate [see Drug Interactions (7.2)].
 
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
 There are no clinical data available to confirm transporter based interaction.

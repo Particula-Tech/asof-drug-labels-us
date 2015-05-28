@@ -84,7 +84,7 @@ Table 7: Radiographic Progression-free Survival of Patients Treated with Either 
 | Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors ZYTIGA (95% CI) | 0.425 (0.347, 0.522) |  |
 | NR=Not reached |  |  |
 
-Figure 3 – Kaplan Meier Curves of Radiographic Progression-free Survival in Study 2 (Intent-to-Treat Analysis)
+Figure 3: Kaplan Meier Curves of Radiographic Progression-free Survival in Study 2 (Intent-to-Treat Analysis)
 
 The primary efficacy analyses are supported by the following prospectively defined endpoints.
 The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR=0.580; 95% CI: [0.487, 0.691], p < 0.0001).

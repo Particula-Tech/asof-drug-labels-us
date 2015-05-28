@@ -3,8 +3,7 @@
 ## 5.1 Hypertension, Hypokalemia and Fluid Retention Due to Mineralocorticoid Excess
 
 ZYTIGA may cause hypertension, hypokalemia, and fluid retention as a consequence of increased mineralocorticoid levels resulting from CYP17 inhibition [see Clinical Pharmacology (12.1)].
-In the two randomized clinical trials, grade 3 to 4 hypertension occurred in 2% of patients, grade 3 to 4 hypokalemia in 4% of patients, and grade 3 to 4 edema in 1% of patients treated with ZYTIGA.
-[see Adverse Reactions (6)].
+In the two randomized clinical trials, grade 3 to 4 hypertension occurred in 2% of patients, grade 3 to 4 hypokalemia in 4% of patients, and grade 3 to 4 edema in 1% of patients treated with ZYTIGA [see Adverse Reactions (6)].
 
 Co-administration of a corticosteroid suppresses adrenocorticotropic hormone (ACTH) drive, resulting in a reduction in the incidence and severity of these adverse reactions.
 Use caution when treating patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, e.g., those with heart failure, recent myocardial infarction or ventricular arrhythmia.
@@ -38,10 +37,3 @@ If at any time AST or ALT rise above five times the ULN, or the bilirubin rises 
 Re-treatment with ZYTIGA at a reduced dose level may take place only after return of liver function tests to the patient's baseline or to AST and ALT less than or equal to 2.5× ULN and total bilirubin less than or equal to 1.5× ULN [see Dosage and Administration (2.2)].
 
 The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater than or equal to 20× ULN and/or bilirubin greater than or equal to 10× ULN is unknown.
-
-## 5.4 Increased ZYTIGA Exposures with Food
-
-ZYTIGA must be taken on an empty stomach.
-No food should be consumed for at least two hours before the dose of ZYTIGA is taken and for at least one hour after the dose of ZYTIGA is taken.
-Abiraterone Cmax and AUC0–∞ (exposure) were increased up to 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a meal compared to a fasted state.
-The safety of these increased exposures when multiple doses of abiraterone acetate are taken with food has not been assessed [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].

@@ -5,7 +5,6 @@ The following are discussed in more detail in other sections of the labeling:
 - Hypertension, Hypokalemia, and Fluid Retention due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
 - Adrenocortical Insufficiency [see Warnings and Precautions (5.2)].
 - Hepatotoxicity [see Warnings and Precautions (5.3)].
-- Increased ZYTIGA Exposures with Food [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -22,7 +21,7 @@ The most common laboratory abnormalities (>20%) reported in the two randomized c
 Study 1: Metastatic CRPC Following Chemotherapy
 
 Study 1 enrolled 1195 patients with metastatic CRPC who had received prior docetaxel chemotherapy.
-Patients were not eligible if AST and/or ALT ≥2.5 ×ULN in the absence of liver metastases.
+Patients were not eligible if AST and/or ALT ≥2.5× ULN in the absence of liver metastases.
 Patients with liver metastases were excluded if AST and/or ALT >5× ULN.
 
 Table 1 shows adverse reactions on the ZYTIGA arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
