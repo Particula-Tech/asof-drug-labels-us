@@ -83,13 +83,10 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village - Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad - 382 210.
-India.
+Manufactured By:
 
-Intas Pharmaceuticals Limited, Plot No. 5, 6 & 7, Pharmez, Sarkhej-Bavla, National Highway No. 8-A, Near Village Matoda, Tal Sanand, Ahmedabad - 382 213, Gujarat, India
+Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 8057 5 650834
+10 8057 6 658084
 
-51 4163 0 705074
-
-Issued December 2013
+Issued November 2014
