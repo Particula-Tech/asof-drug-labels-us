@@ -31,6 +31,11 @@ Blood counts should be performed weekly until recovery if the ANC falls below 1.
 Fatal and severe hepatotoxicity have been reported in patients receiving TEMODAR.
 Perform liver function tests at baseline, midway through the first cycle, prior to each subsequent cycle, and approximately two to four weeks after the last dose of TEMODAR.
 
+Additionally, hepatitis due to hepatitis B virus (HBV) reactivation, in some cases resulting in death, has been reported.
+Screen patients for HBV infection before treatment initiation.
+Monitor patients with evidence of prior HBV infection for clinical and laboratory signs of hepatitis or HBV reactivation during and for several months following treatment with TEMODAR.
+Discontinue therapy for patients with evidence of active hepatitis B infection.
+
 ## 5.6 Use in Pregnancy
 
 TEMODAR can cause fetal harm when administered to a pregnant woman.

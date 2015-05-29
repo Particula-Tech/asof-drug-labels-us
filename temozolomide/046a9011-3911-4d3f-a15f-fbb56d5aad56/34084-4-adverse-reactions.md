@@ -177,7 +177,7 @@ Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic an
 
 Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
 
-Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)], reactivation of infections such as cytomegalovirus and hepatitis B.
+Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)] and primary and reactivated cytomegalovirus, reactivation of hepatitis B infections, including some cases with fatal outcomes [see Warnings and Precautions (5.5)].
 
 Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
 

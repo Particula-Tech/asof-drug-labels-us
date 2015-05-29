@@ -33,6 +33,7 @@ Tell your doctor about all your medical conditions, including if you:
   See "Who should not take TEMODAR?"
 - have kidney problems
 - have liver problems
+- are or have been infected with hepatitis B virus
 - are pregnant.
   See "What is the most important information I should know about TEMODAR?"
 - are breast-feeding.
@@ -130,6 +131,11 @@ People who are age 70 or older and women may be more likely to have their blood 
   TEMODAR decreases white blood cells, which makes your immune system weaker and can increase your risk of getting PCP.
   All patients taking TEMODAR will be watched carefully by their doctor for this infection, especially patients who take steroids.
   Tell your doctor if you have any of the following signs and symptoms of PCP infection: shortness of breath and/or fever, chills, dry cough.
+- Reinfection with hepatitis B virus.
+  In some cases, patients who have had hepatitis because of a hepatitis B virus infection might have a repeat attack of hepatitis.
+  Tell the doctor if you think you have had a hepatitis B virus infection in the past.
+  Infection with hepatitis B virus causes inflammation of the liver which may show as mild fever, feeling of sickness, fatigue, loss of appetite, joint and/or abdominal pain and yellowing of whites of the eyes, skin and tongue.
+  If you experience any of these symptoms immediately contact your doctor.
 - Secondary cancers.
   Blood problems such as myelodysplastic syndrome and secondary cancers, such as a certain kind of leukemia, can happen in people who take TEMODAR.
   Your doctor will watch you for this.
