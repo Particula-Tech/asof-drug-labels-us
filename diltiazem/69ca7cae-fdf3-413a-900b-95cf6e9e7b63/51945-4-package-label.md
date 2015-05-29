@@ -4,9 +4,9 @@
 
 NDC 0093-0318-01
 
-DILTIAZEM
+Diltiazem
 
-HYDROCHLORIDE
+Hydrochloride
 
 Tablets USP
 
@@ -24,9 +24,9 @@ TEVA
 
 NDC 0093-0319-01
 
-DILTIAZEM
+Diltiazem
 
-HYDROCHLORIDE
+Hydrochloride
 
 Tablets USP
 
@@ -44,9 +44,9 @@ TEVA
 
 NDC 0093-0320-01
 
-DILTIAZEM
+Diltiazem
 
-HYDROCHLORIDE
+Hydrochloride
 
 Tablets USP
 
@@ -64,9 +64,9 @@ TEVA
 
 NDC 0093-0321-01
 
-DILTIAZEM
+Diltiazem
 
-HYDROCHLORIDE
+Hydrochloride
 
 Tablets USP
 
