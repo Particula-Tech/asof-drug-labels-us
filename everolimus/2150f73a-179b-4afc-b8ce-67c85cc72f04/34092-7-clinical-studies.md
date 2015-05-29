@@ -47,7 +47,7 @@ Other endpoints included safety, objective response rate [ORR (complete response
 
 Patients were randomized 1:1 to receive either AFINITOR 10 mg/day (n=207) or placebo (n=203).
 Demographics were well balanced (median age 58 years, 55% male, 79% Caucasian).
-Cross-over from placebo to open-label AFINITOR occurred in 73% (148/203) of patients.
+Of the 203 patients randomized to best supportive care, 172 patients (85%) received AFINITOR following documented radiologic progression.
 
 The trial demonstrated a statistically significant improvement in PFS (median 11.0 months versus 4.6 months), resulting in a 65% risk reduction in investigator-determined PFS (HR 0.35; 95%CI: 0.27 to 0.45; p<0.001) (see Table 13 and Figure 2).
 PFS improvement was observed across all patient subgroups, irrespective of prior somatostatin analog use.
@@ -63,8 +63,8 @@ Table 13: Progression-free Survival Results
 | Adjudicated radiological reviewa |  | 11.4 (10.8 to 14.8) | 5.4 (4.3 to 5.6) | 0.34 (0.26 to 0.44) | <0.001 |
 | a includes adjudication for discrepant assessments between investigator radiological review and central radiological review |  |  |  |  |  |
 
-Investigator-determined response rate was low (4.8%) in the AFINITOR arm and there were no complete responses.
-The overall survival results are not yet mature and no statistically significant treatment-related difference in OS was noted [HR=1.05 (95% CI: 0.71 to 1.55)].
+Investigator-determined response rate was 4.8% in the AFINITOR arm and there were no complete responses.
+Overall survival was not statistically significantly different between study arms [HR=0.94 (95% CI 0.73 to 1.20); p=0.30].
 
 Lack of Efficacy in Locally Advanced or Metastatic Functional Carcinoid Tumors
 
