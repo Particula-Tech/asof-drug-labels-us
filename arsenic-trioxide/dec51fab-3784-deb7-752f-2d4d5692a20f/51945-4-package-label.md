@@ -1,4 +1,6 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel, Part 1 of 2
+
+# Package/Label Display Panel, Part 2 of 2
 
 ## Trisenox® (arsenic trioxide) Injection 1 mg/mL, 10 x 10 mL Ampules Carton Text
 
