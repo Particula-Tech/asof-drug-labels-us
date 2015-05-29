@@ -11,20 +11,6 @@
    J Trauma.
    1977; 17:835–836.
 
-Distributed by:
+LAB-0647-4.0
 
-Monarch Pharmaceuticals, Inc.
-
-Bristol, TN 37620
-
-(A wholly owned subsidiary of King Pharmaceuticals, Inc.)
-
-Manufactured by:
-
-King Pharmaceuticals, Inc.
-
-Bristol, TN 37620
-
-LAB-0647-3.0
-
-March 2013
+January 2014

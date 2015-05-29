@@ -26,9 +26,9 @@ SILVADENE® CREAM 1% (silver sulfadiazine)
 
 20 grams
 
-Pfizer Injectables
-
 Rx only
+
+Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 50 g Jar Label
 
@@ -40,6 +40,6 @@ SILVADENE® CREAM 1% (silver sulfadiazine)
 
 FOR TOPICAL USE ONLY
 
-Pfizer Injectables
-
 Rx only
+
+Pfizer Injectables
