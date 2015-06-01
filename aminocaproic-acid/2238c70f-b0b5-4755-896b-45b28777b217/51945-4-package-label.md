@@ -1,15 +1,15 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Bottle Label – 16 Fl.
+Bottle Label – 8 Fl.
 Oz.
-(473 mL) NDC 49411-052-16 AMICAR® Aminocaproic Acid Oral Solution 0.25 grams/mL Rx only 16 Fl.
+(236.5 mL) NDC 49411-052-08 AMICAR® Aminocaproic Acid Oral Solution 0.25 grams/mL Rx only 8 Fl.
 Oz.
-(473 mL)
+(236.5 mL)
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Bottle Label – 500 mg NDC 49411-050-01 500 mg AMICAR® Aminocaproic Acid Tablets Rx Only 100 Tablets
+Bottle Label – 500 mg NDC 49411-050-30 500 mg AMICAR® Aminocaproic Acid Tablets Rx Only 30 Tablets
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Bottle Label – 1000 mg NDC 49411-051-01 1000 mg AMICAR® Aminocaproic Acid Tablets Rx Only 100 Tablets
+Bottle Label – 1000 mg NDC 49411-051-30 1000 mg AMICAR® Aminocaproic Acid Tablets Rx Only 30 Tablets

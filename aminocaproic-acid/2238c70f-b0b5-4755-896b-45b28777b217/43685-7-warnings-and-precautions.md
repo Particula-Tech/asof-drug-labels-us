@@ -27,7 +27,7 @@ AMICAR inhibits both the action of plasminogen activators and to a lesser degree
 The drug should NOT be administered without a definite diagnosis and/or laboratory finding indicative of hyperfibrinolysis (hyperplasminemia).1 Inhibition of fibrinolysis by aminocaproic acid may theoretically result in clotting or thrombosis.
 However, there is no definite evidence that administration of aminocaproic acid has been responsible for the few reported cases of intravascular clotting which followed this treatment.
 Rather, it appears that such intravascular clotting was most likely due to the patient's preexisting clinical condition, e.g., the presence of DIC.
-It has been postulated that extravascular clots formed in vivo may not undergo spontaneous Iysis as do normal clots.
+It has been postulated that extravascular clots formed in vivo may not undergo spontaneous lysis as do normal clots.
 
 Reports have appeared in the literature of an increased incidence of certain neurological deficits such as hydrocephalus, cerebral ischemia, or cerebral vasospasm associated with the use of antifibrinolytic agents in the treatment of subarachnoid hemorrhage (SAH).
 All of these events have also been described as part of the natural course of SAH, or as a consequence of diagnostic procedures such as angiography.
@@ -38,7 +38,7 @@ Aminocaproic acid should not be administered with Factor IX Complex concentrates
 ## Laboratory Tests
 
 The use of AMICAR should be accompanied by tests designed to determine the amount of fibrinolysis present.
-There are presently available: (a) general tests such as those for the determination of the Iysis of a clot of blood or plasma; and (b) more specific tests for the study of various phases of the fibrinolytic mechanisms.
+There are presently available: (a) general tests such as those for the determination of the lysis of a clot of blood or plasma; and (b) more specific tests for the study of various phases of the fibrinolytic mechanisms.
 These latter tests include both semiquantitative and quantitative techniques for the determination of profibrinolysin, fibrinolysin, and antifibrinolysin.
 
 ## Drug Laboratory Test Interactions
