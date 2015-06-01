@@ -1,4 +1,4 @@
-WARNING: LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL EXPOSURE, ABUSE POTENTIAL and TREATMENT FOR OPIOID ADDICTION
+# WARNING: LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL EXPOSURE, ABUSE POTENTIAL and TREATMENT FOR OPIOID ADDICTION
 
 Life-Threatening Respiratory Depression Respiratory depression, including fatal cases, have been reported during initiation and conversion of patients to methadone, and even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.1)].
 Proper dosing and titration are essential and methadone hydrochloride tablets for oral suspension should only be prescribed by healthcare professionals who are knowledgeable in the use of methadone for detoxification and maintenance treatment of opioid addiction.

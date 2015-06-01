@@ -18,7 +18,7 @@ Available as a white, round tablet, debossed with “METHADOSE 40” on one side
 
 Bottles of 100……NDC 0406-0540-34
 
-Methadone Hydrochloride Tablets USP (Dispersible, Orange Flavored), 40 mg:
+Methadone Hydrochloride Tablets for Oral Suspension, USP (Dispersible, Orange Flavored), 40 mg:
 
 Available as a speckled orange colored, rounded rectangular tablet, debossed with “M” over “2540” on one side, a quadrisect on the other with an orange odor.
 

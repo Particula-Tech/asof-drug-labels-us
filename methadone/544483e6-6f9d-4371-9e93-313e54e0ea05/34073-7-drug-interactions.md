@@ -33,7 +33,7 @@ Pharmacodynamic interactions may occur with concomitant use of methadone hydroch
 
 Similarly, monitor patients closely when prescribing methadone hydrochloride tablets for oral suspension concomitantly with drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia) that may prolong the QT interval, including diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
 
-## 7.4 Opioid Antagonists, Mixed Agonist/Antagonists, and Partial Agonists
+## 7.4 Opioid Antagonists, Mixed Agonists/Antagonists, and Partial Agonists
 
 As with other mu-agonists, patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists.
 Examples of such agents are naloxone, naltrexone, pentazocine, nalbuphine, butorphanol, and buprenorphine.

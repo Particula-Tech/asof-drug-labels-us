@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Each METHADOSE™ Dispersible Tablets for oral administration following dispersion in a liquid contains: 40 mg of methadone hydrochloride and is a white round dispersible tablet.
+Each METHADOSE™ Dispersible Tablet for oral administration following dispersion in a liquid contains: 40 mg of methadone hydrochloride and is a white round dispersible tablet.
 
 Each Methadone Hydrochloride Tablets USP (dispersible, orange flavored) for oral administration following dispersion in a liquid contains: 40 mg of methadone hydrochloride and is an orange rectangular dispersible tablet.
 

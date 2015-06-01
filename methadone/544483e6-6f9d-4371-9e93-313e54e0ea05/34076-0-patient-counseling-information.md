@@ -45,10 +45,14 @@ Breastfeeding Instruct nursing mothers using methadone hydrochloride tablets for
 Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services).
 
-METHADOSE is a trademark of Mallinckrodt LLC.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
+
+© 2014 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Printed in U.S.A. Issue 04/2014
+Issue 01/2015
 
-Mallinckrodt
+Mallinckrodt™
+
+Pharmaceuticals
