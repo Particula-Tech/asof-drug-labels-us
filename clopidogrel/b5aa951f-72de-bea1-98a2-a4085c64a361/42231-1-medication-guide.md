@@ -191,9 +191,18 @@ Jantoven® is a registered trademark of USL Pharma.
 
 RX only
 
-Manufactured by:Dr.
-Reddy’s Laboratories Limited
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
+
+or
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Srikakulam - 532 409 INDIA
 
 Revised: 0115

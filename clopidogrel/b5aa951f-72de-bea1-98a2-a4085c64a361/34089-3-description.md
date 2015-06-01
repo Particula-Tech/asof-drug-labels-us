@@ -13,5 +13,5 @@ It has a specific optical rotation of between +53° and + 58°.
 Clopidogrel for oral administration is provided as white, film coated, round, biconvex tablets debossed with “R” on one side and “196” on other side.
 Each tablet contains 97.875 mg of clopidogrel bisulfate which is the molar equivalent to 75 mg of clopidogrel base.
 
-Each tablet contains microcrystalline cellulose, colloidal silicon dioxide and magnesium stearate as inactive ingredients.
+Each tablet contains colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, mannitol and microcrystalline cellulose as inactive ingredients.
 The film coating contains hypromellose 2910-5cP, polyethylene glycol 400 and titanium dioxide.
