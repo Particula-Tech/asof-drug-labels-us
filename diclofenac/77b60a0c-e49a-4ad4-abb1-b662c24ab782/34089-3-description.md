@@ -6,7 +6,7 @@ The chemical name is 2-[(2,6-dichlorophenyl)amino] benzeneacetic acid, monopotas
 The structural formula is:
 
 C14H10Cl2KNO2 M.W.
-334.25
+334.24
 
 Diclofenac potassium is a faintly yellowish white to light beige, virtually odorless, slightly hygroscopic crystalline powder.
 It is freely soluble in methanol, soluble in ethanol and water, and practically insoluble in chloroform and in dilute acid.

@@ -1,20 +1,22 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Diclofenac K Tablets 50 mg 100s Label Text
+## Diclofenac Potassium Tablets 50 mg 100s Label Text
 
 NDC 0093-0948-01
 
-DICLOFENAC POTASSIUM
+Diclofenac
+
+Potassium
 
 Tablets USP
 
 50 mg
 
-PHARMACIST: PLEASE DISPENSE
+PHARMACIST: Dispense the
 
-WITH MEDICATION GUIDE PROVIDED
+Medication Guide provided
 
-SEPARATELY
+separately to each patient.
 
 Rx only
 
