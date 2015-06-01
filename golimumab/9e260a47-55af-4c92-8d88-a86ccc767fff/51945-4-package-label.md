@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
 NDC 57894-350-01
 
-Simponi® ARIA™ golimumab
+Simponi ARIA® golimumab
 
 50 mg/4 mL
 

@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-SIMPONI® ARIA® (SIM-puh-nee AHR-ee-uh) (golimumab) For Infusion
+SIMPONI ARIA® (SIM-puh-nee AHR-ee-uh) (golimumab) For Infusion
 
 Read the Medication Guide for SIMPONI ARIA before each infusion.
 There may be new information.
