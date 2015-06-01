@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA077132"
+  ],
+  "inn": "risedronate",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-3098-19",
+    "0093-3098-29",
+    "0093-3098-44",
+    "0093-3099-56",
+    "0093-3100-56"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "Risedronate Sodium"
+    }
+  ],
+  "setid": "dddcd321-4d2e-4643-bf3c-7b752b33ba39",
+  "source": "dailymed"
+}
