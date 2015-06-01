@@ -1,0 +1,23 @@
+# HOW SUPPLIED
+
+Clomipramine Hydrochloride Capsules USP
+
+Capsules 25 mg – ivory body imprinted in black with “” and melon-yellow cap imprinted in black with “25 mg”
+
+Bottles of 100...................................
+NDC 0406-8806-01
+
+Capsules 50 mg – ivory body imprinted in black with “” and aqua blue cap imprinted in black with “50 mg”
+
+Bottles of 100...................................
+NDC 0406-8807-01
+
+Capsules 75 mg – ivory body imprinted in black with “” and yellow cap imprinted in black with “75 mg”
+
+Bottles of 100...................................
+NDC 0406-8808-01
+
+Storage – Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
+Dispense in well-closed containers with a child-resistant closure.
+Protect from moisture.

@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA019906"
+  ],
+  "inn": "clomipramine",
+  "labeler": "Mallinckrodt, Inc.",
+  "package_ndcs": [
+    "0406-8806-01",
+    "0406-8807-01",
+    "0406-8808-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "CLOMIPRAMINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "d7cee3fa-d05c-4702-8f75-f446627bdb49",
+  "source": "dailymed"
+}
