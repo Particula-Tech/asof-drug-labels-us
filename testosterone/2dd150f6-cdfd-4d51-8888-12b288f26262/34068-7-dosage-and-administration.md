@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Prior to initiating Vogelxo, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1 Dosing and Dose Adjustment
 
 The recommended starting dose of Vogelxo is 50 mg of testosterone (one tube, one packet, or 4 pump actuations) applied topically once daily at approximately the same time each day to clean, dry intact skin of the shoulders and/or upper arms.
@@ -48,7 +50,7 @@ Application sites should be allowed to dry completely prior to dressing.
 
 Hands should be washed thoroughly with soap and water after Vogelxo has been applied.
 
-Avoid fire, flame or smoking during the application of Vogelxo until the Vogelxo has dried [see Warnings and Precautions (5.2, 5.14)].
+Avoid fire, flame or smoking during the application of Vogelxo until the Vogelxo has dried [see Warnings and Precautions (5.2, 5.15)].
 
 In order to prevent transfer to another person, clothing should be worn to cover the application sites.
 If direct skin-to-skin contact of the application site(s) with another person is anticipated, the application sites must be washed thoroughly with soap and water [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].

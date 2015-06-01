@@ -53,6 +53,10 @@ In a few cases, however, enlarged genitalia did not fully return to age-appropri
 In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported.
 In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user's shirts and/or other fabrics, such as towels and sheets [see Warnings and Precautions (5.2)].
 
+Cardiovascular Disorders:
+
+Myocardial infarction, stroke [see Warnings and Precautions (5.5)]
+
 Vascular Disorders:
 
 Venous thromboembolism [see Warnings and Precautions (5.4)].

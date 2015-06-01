@@ -32,9 +32,11 @@ What is the most important information I should know about Vogelxo?
 What is Vogelxo?
 
 Vogelxo is a prescription medicine that contains testosterone.
-Vogelxo is used to treat adult males who have low or no testosterone and with conditions associated with low or no testosterone.
+Vogelxo is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
-Your healthcare provider will test your blood before you start and while you use Vogelxo.
+Your healthcare provider will test your blood before you start and while you are taking Vogelxo.
+
+It is not known if Vogelxo is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if Vogelxo is safe or effective in children younger than 18 years old.
 Improper use of Vogelxo may affect bone growth in children.
@@ -165,6 +167,7 @@ Vogelxo can cause serious side effects including:
 - Blood clots in your legs or lungs.
   Signs and symptoms of a blood clot in your legs can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+- Possible increased risk of heart attack or stroke.
 - In large doses Vogelxo may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
 - Enlarged or painful breasts.
@@ -186,7 +189,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of Vogelxo.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Vogelxo?
@@ -223,4 +226,4 @@ Distributed by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
 MADE IN CANADA
 
-Issued: 6/2014
+Revised 0515
