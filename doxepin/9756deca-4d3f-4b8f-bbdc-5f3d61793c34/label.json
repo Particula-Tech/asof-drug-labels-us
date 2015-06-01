@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020126"
+  ],
+  "inn": "doxepin",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-511-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "PRUDOXIN"
+    }
+  ],
+  "setid": "9756deca-4d3f-4b8f-bbdc-5f3d61793c34",
+  "source": "dailymed"
+}
