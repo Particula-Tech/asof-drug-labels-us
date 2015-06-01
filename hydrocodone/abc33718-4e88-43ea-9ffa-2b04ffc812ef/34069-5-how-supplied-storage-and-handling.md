@@ -36,17 +36,7 @@ A Schedule CS-II Controlled Substance.
 
 DEA Order Form Required.
 
-Manufactured by:
-
-Amneal Pharmaceuticals of NY
-
-Hauppauge, NY 11788
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
+Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
 
 Rev.
-08-2014-00
+05-2015-01
