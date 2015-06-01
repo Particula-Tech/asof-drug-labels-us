@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA065110"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-5740-19",
+    "0093-5740-65",
+    "0093-5741-19",
+    "0093-5741-65",
+    "0093-5742-19",
+    "0093-5742-65"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "cyclosporine",
+      "name": "Cyclosporine"
+    }
+  ],
+  "setid": "2de1e8b1-625f-43ce-a1d5-d543be208b11",
+  "source": "dailymed"
+}
