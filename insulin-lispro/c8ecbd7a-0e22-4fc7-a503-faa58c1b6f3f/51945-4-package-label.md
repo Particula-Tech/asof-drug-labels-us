@@ -1,4 +1,4 @@
-# PACKAGE CARTON – HUMALOG 10 mL vial
+PACKAGE CARTON – HUMALOG 10 mL vial
 
 NDC 0002-7510-01
 
@@ -22,7 +22,7 @@ humalog.com
 
 Lilly
 
-# PACKAGE CARTON – HUMALOG KwikPen
+PACKAGE CARTON – HUMALOG KwikPen
 
 NDC 0002-8799-59
 
@@ -50,7 +50,7 @@ prefilled insulin delivery device
 
 Read Insulin Delivery Device Instructions for Use
 
-# PACKAGE CARTON – HUMALOG Cartridge 3mL
+PACKAGE CARTON – HUMALOG Cartridge 3mL
 
 NDC 0002-7516-59
 
@@ -79,3 +79,31 @@ and Owen Mumford, Ltd.'s Autopen® 3 mL insulin delivery device.
 www.humalog.com
 
 Lilly
+
+PACKAGE CARTON – HUMALOG U200 KwikPen 2ct
+
+NDC 0002-7712-27
+
+Humalog KwikPen®
+
+insulin lispro injection
+
+For Single Patient Use Only
+
+200 units per mL (U-200)
+
+prefilled insulin delivery device
+
+2 x 3 mL Prefilled Pens
+
+Rx only
+
+For subcutaneous use.
+
+Read Insulin Delivery Device Instructions for Use.
+
+NEEDLES NOT INCLUDED
+
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
+
+DO NOT TRANSFER TO A SYRINGE SEVERE OVERDOSE CAN RESULT

@@ -18,7 +18,7 @@ The rate of insulin absorption, and consequently the onset of activity are known
 
 a Baseline insulin concentration was maintained by infusion of 0.2 mU/min/kg human insulin.
 
-Intravenous Administration of HUMALOG — The glucose lowering effect of intravenously administered HUMALOG was tested in 21 patients with type 1 diabetes.
+Intravenous Administration of HUMALOG U-100 — The glucose lowering effect of intravenously administered HUMALOG was tested in 21 patients with type 1 diabetes.
 For the study, the patients' usual doses of insulin were held and blood glucose concentrations were allowed to reach a stable range of 200 to 260 mg/dL during a one to three hours run-in phase.
 The run-in phase was followed by a 6-hour assessment phase.
 During the assessment phase, patients received intravenous HUMALOG at an initial infusion rate of 0.5 units/hour.
@@ -29,7 +29,7 @@ All patients achieved the targeted glucose range at some point during the 6-hour
 At the endpoint, blood glucose was within the target range (100 to 160 mg/dL) for 17 of 20 patients treated with HUMALOG.
 The average time (±SE) required to attain near normoglycemia was 129 ± 14 minutes for HUMALOG.
 
-Table 4: Mean Blood Glucose Concentrations (mg/dL) During Intravenous Infusions of HUMALOG
+Table 4: Mean Blood Glucose Concentrations (mg/dL) During Intravenous Infusions of HUMALOG U-100
 
 | Time from Start of Infusion (minutes) | Mean Blood Glucose (mg/dL) Intravenousa |
 | --- | --- |
@@ -43,19 +43,30 @@ Table 4: Mean Blood Glucose Concentrations (mg/dL) During Intravenous Infusions 
 | 360 | 122 ± 25 |
 | a Results shown as mean ± SD |  |
 
+The pharmacodynamics of a single 20 unit dose of HUMALOG U-200 administered subcutaneously were compared to the pharmacodynamics of a single 20 unit dose of HUMALOG U-100 administered subcutaneously in a euglycemic clamp study enrolling healthy subjects.
+In this study, the overall, maximum, and time to maximum glucose lowering effect were similar between HUMALOG U-200 and HUMALOG U-100.
+The mean area under the glucose infusion rate curves (measure of overall pharmacodynamic effect) were 125 g and 126 g for HUMALOG U-200 and HUMALOG U-100, respectively.
+The maximum glucose infusion rate was 534 mg/min and 559 mg/min and the corresponding median time (min, max) to maximum effect were 2.8 h (0.5 h – 6.3 h) and 2.4 h (0.5 h – 4.7 h) for HUMALOG U-200 and HUMALOG U-100, respectively.
+
 ## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability — Studies in healthy volunteers and patients with diabetes demonstrated that HUMALOG is absorbed more quickly than regular human insulin.
 In healthy volunteers given subcutaneous doses of HUMALOG ranging from 0.1 to 0.4 unit/kg, peak serum levels were seen 30 to 90 minutes after dosing.
 When healthy volunteers received equivalent doses of regular human insulin, peak insulin levels occurred between 50 to 120 minutes after dosing.
-Similar results were seen in patients with type 1 diabetes (see Figure 2).
+Similar results were seen in patients with type 1 diabetes (see Figure 3).
 
 a Baseline insulin concentration was maintained by infusion of 0.2 mU/min/kg human insulin.
 
-HUMALOG was absorbed at a consistently faster rate than regular human insulin in healthy male volunteers given 0.2 unit/kg at abdominal, deltoid, or femoral subcutaneous sites.
+HUMALOG U-100 was absorbed at a consistently faster rate than regular human insulin in healthy male volunteers given 0.2 unit/kg at abdominal, deltoid, or femoral subcutaneous sites.
 After HUMALOG was administered in the abdomen, serum drug levels were higher and the duration of action was slightly shorter than after deltoid or thigh administration.
 Bioavailability of HUMALOG is similar to that of regular human insulin.
 The absolute bioavailability after subcutaneous injection ranges from 55% to 77% with doses between 0.1 to 0.2 unit/kg, inclusive.
+
+The results of a study in healthy subjects demonstrated that HUMALOG U-200 is bioequivalent to HUMALOG U-100 following administration of a single 20 unit dose.
+
+The mean observed area under the serum insulin concentration-time curve from time zero to infinity was 2360 pmol hr/L and 2390 pmol hr/L for HUMALOG U-200 and HUMALOG U-100, respectively.
+The corresponding mean peak serum insulin concentration was 795 pmol/L and 909 pmol/L for HUMALOG U-200 and HUMALOG U-100, respectively.
+The median time to maximum concentration was 1.0 hour for both formulations.
 
 Distribution — When administered intravenously as bolus injections of 0.1 and 0.2 U/kg dose in two separate groups of healthy subjects, the mean volume of distribution of HUMALOG appeared to decrease with increase in dose (1.55 and 0.72 L/kg, respectively) in contrast to that of regular human insulin for which, the volume of distribution was comparable across the two dose groups (1.37 and 1.12 L/kg for 0.1 and 0.2 U/kg dose, respectively).
 
@@ -68,25 +79,13 @@ Accordingly, HUMALOG demonstrated a mean t1/2 of 0.85 hours (51 minutes) and 0.9
 
 Specific Populations
 
-Age — The effect of age on the pharmacokinetics of HUMALOG has not been studied.
-However, in large clinical trials, sub-group analysis based on age did not indicate any difference in postprandial glucose parameters between HUMALOG and regular human insulin.
-
-Gender — The effect of gender on the pharmacokinetics of HUMALOG has not been studied.
-However, in large clinical trials, sub-group analysis based on gender did not indicate any difference in postprandial glucose parameters between HUMALOG and regular human insulin.
+The effects of age, gender, race, obesity, pregnancy, or smoking on the pharmacokinetics of HUMALOG have not been studied.
 
 Renal Impairment — Type 2 diabetic patients with varying degree of renal impairment showed no difference in pharmacokinetics of regular insulin and HUMALOG.
 However, the sensitivity of the patients to insulin did change, with an increased response to insulin as the renal function declined.
 Some studies with human insulin have shown increased circulating levels of insulin in patients with renal impairment.
-Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with renal dysfunction [see Warnings and Precautions (5.6)].
+Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with renal dysfunction.
 
 Hepatic Impairment — Type 2 diabetic patients with impaired hepatic function showed no effect on the pharmacokinetics of HUMALOG as compared to patients with no hepatic dysfunction.
 However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure.
 Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with hepatic dysfunction.
-
-Race — The effects of race on the pharmacokinetics and pharmacodynamics of HUMALOG have not been studied.
-
-Obesity — The effect of obesity on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.
-
-Pregnancy — The effect of pregnancy on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied [see Use in Specific Populations (8.1)].
-
-Smoking — The effect of smoking on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.

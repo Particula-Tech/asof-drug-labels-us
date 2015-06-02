@@ -26,9 +26,10 @@ Use of HUMALOG is compatible with breastfeeding, but women with diabetes who are
 
 ## 8.4 Pediatric Use
 
-HUMALOG is approved for use in children for subcutaneous daily injections and for subcutaneous continuous infusion by external insulin pump.
+HUMALOG is approved for use in children for subcutaneous daily injections [see Clinical Studies (14)].
+Only the U-100 formulation of HUMALOG is approved for use in children by continuous subcutaneous infusion in insulin pumps.
 HUMALOG has not been studied in pediatric patients younger than 3 years of age.
-HUMALOG has not been studied in pediatric patients with type 2 diabetes [see Clinical Studies (14)].
+HUMALOG has not been studied in pediatric patients with type 2 diabetes.
 
 As in adults, the dosage of HUMALOG must be individualized in pediatric patients based on metabolic needs and results of frequent monitoring of blood glucose.
 
@@ -38,3 +39,11 @@ Of the total number of subjects (n=2834) in eight clinical studies of HUMALOG, t
 The majority of these had type 2 diabetes.
 HbA1c values and hypoglycemia rates did not differ by age.
 Pharmacokinetic/pharmacodynamic studies to assess the effect of age on the onset of HUMALOG action have not been performed.
+
+## 8.6 Renal Impairment
+
+Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent HUMALOG dose adjustment and more frequent blood glucose monitoring [see Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent HUMALOG dose adjustment and more frequent blood glucose monitoring [see Clinical Pharmacology (12.3)].

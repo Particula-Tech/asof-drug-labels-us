@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of HUMALOG were studied in children, adolescent, and adult patients with type 1 diabetes (n=789) and adult patients with type 2 diabetes (n=722).
+The safety and efficacy of HUMALOG U-100 were studied in children, adolescent, and adult patients with type 1 diabetes (n=789) and adult patients with type 2 diabetes (n=722).
 
 ## 14.1 Type 1 Diabetes – Adults and Adolescents
 
@@ -82,7 +82,7 @@ Table 7: Pediatric Subcutaneous Administration of HUMALOG in Type 1 Diabetes
 
 ## 14.4 Type 1 Diabetes – Adults Continuous Subcutaneous Insulin Infusion
 
-To evaluate the administration of HUMALOG via external insulin pumps, two open-label, crossover design studies were performed in patients with type 1 diabetes.
+To evaluate the administration of HUMALOG U-100 via external insulin pumps, two open-label, crossover design studies were performed in patients with type 1 diabetes.
 One study involved 39 patients, ages 19 to 58 years, treated for 24 weeks with HUMALOG or regular human insulin.
 After 12 weeks of treatment, the mean HbA1c values decreased from 7.8% to 7.2% in the HUMALOG-treated patients and from 7.8% to 7.5% in the regular human insulin-treated patients.
 Another study involved 60 patients (mean age 39, range 15 to 58 years) treated for 24 weeks with either HUMALOG or buffered regular human insulin.
@@ -91,7 +91,7 @@ Rates of hypoglycemia were comparable between treatment groups in both studies.
 
 ## 14.5 Type 1 Diabetes – Pediatric Continuous Subcutaneous Insulin Infusion
 
-A randomized, 16-week, open-label, parallel design, study of children and adolescents with type 1 diabetes (n=298) aged 4 to 18 years compared two subcutaneous infusion regimens administered via an external insulin pump: insulin aspart (n=198) or HUMALOG (n=100).
+A randomized, 16-week, open-label, parallel design, study of children and adolescents with type 1 diabetes (n=298) aged 4 to 18 years compared two subcutaneous infusion regimens administered via an external insulin pump: insulin aspart (n=198) or HUMALOG U-100 (n=100).
 These two treatments resulted in comparable changes from baseline in HbA1c and comparable rates of hypoglycemia after 16 weeks of treatment (see Table 8).
 Infusion site reactions were similar between groups.
 

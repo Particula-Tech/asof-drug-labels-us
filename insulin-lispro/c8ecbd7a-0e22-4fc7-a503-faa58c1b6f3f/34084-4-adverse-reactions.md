@@ -1,9 +1,11 @@
 # 6 ADVERSE REACTIONS
 
+Observed with HUMALOG U-100
+
 The following adverse reactions are discussed elsewhere:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)].
-- Hypokalemia [see Warnings and Precautions (5.5)].
+- Hypokalemia [see Warnings and Precautions (5.6)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -13,38 +15,38 @@ The frequencies of Treatment-Emergent Adverse Events during HUMALOG clinical tri
 
 Table 1: Treatment-Emergent Adverse Events in Patients with Type 1 Diabetes Mellitus (adverse events with frequency ≥5%)
 
-| Events, n (%) | Lispro (n=81) | Regular human insulin (n=86) | Total (n=167) |
-| --- | --- | --- | --- |
-| Flu syndrome | 28 (34.6) | 28 (32.6) | 56 (33.5) |
-| Pharyngitis | 27 (33.3) | 29 (33.7) | 56 (33.5) |
-| Rhinitis | 20 (24.7) | 25 (29.1) | 45 (26.9) |
-| Headache | 24 (29.6) | 19 (22.1) | 43 (25.7) |
-| Pain | 16 (19.8) | 14 (16.3) | 30 (18.0) |
-| Cough increased | 14 (17.3) | 15 (17.4) | 29 (17.4) |
-| Infection | 11 (13.6) | 18 (20.9) | 29 (17.4) |
-| Nausea | 5 (6.2) | 13 (15.1) | 18 (10.8) |
-| Accidental injury | 7 (8.6) | 10 (11.6) | 17 (10.2) |
-| Surgical procedure | 5 (6.2) | 12 (14.0) | 17 (10.2) |
-| Fever | 5 (6.2) | 10 (11.6) | 15 (9.0) |
-| Abdominal pain | 6 (7.4) | 7 (8.1) | 13 (7.8) |
-| Asthenia | 6 (7.4) | 7 (8.1) | 13 (7.8) |
-| Bronchitis | 6 (7.4) | 6 (7.0) | 12 (7.2) |
-| Diarrhea | 7 (8.6) | 5 (5.8) | 12 (7.2) |
-| Dysmenorrhea | 5 (6.2) | 6 (7.0) | 11 (6.6) |
-| Myalgia | 6 (7.4) | 5 (5.8) | 11 (6.6) |
-| Urinary tract infection | 5 (6.2) | 4 (4.7) | 9 (5.4) |
+| Events, n (%) | Lispro (n=81) | Regular human insulin (n=86) |
+| --- | --- | --- |
+| Flu syndrome | 28 (34.6) | 28 (32.6) |
+| Pharyngitis | 27 (33.3) | 29 (33.7) |
+| Rhinitis | 20 (24.7) | 25 (29.1) |
+| Headache | 24 (29.6) | 19 (22.1) |
+| Pain | 16 (19.8) | 14 (16.3) |
+| Cough increased | 14 (17.3) | 15 (17.4) |
+| Infection | 11 (13.6) | 18 (20.9) |
+| Nausea | 5 (6.2) | 13 (15.1) |
+| Accidental injury | 7 (8.6) | 10 (11.6) |
+| Surgical procedure | 5 (6.2) | 12 (14.0) |
+| Fever | 5 (6.2) | 10 (11.6) |
+| Abdominal pain | 6 (7.4) | 7 (8.1) |
+| Asthenia | 6 (7.4) | 7 (8.1) |
+| Bronchitis | 6 (7.4) | 6 (7.0) |
+| Diarrhea | 7 (8.6) | 5 (5.8) |
+| Dysmenorrhea | 5 (6.2) | 6 (7.0) |
+| Myalgia | 6 (7.4) | 5 (5.8) |
+| Urinary tract infection | 5 (6.2) | 4 (4.7) |
 
 Table 2: Treatment-Emergent Adverse Events in Patients with Type 2 Diabetes Mellitus (adverse events with frequency ≥5%)
 
-| Events, n (%) | Lispro (n=714) | Regular human insulin (n=709) | Total (n=1423) |
-| --- | --- | --- | --- |
-| Headache | 63 (11.6) | 66 (9.3) | 149 (10.5) |
-| Pain | 77 (10.8) | 71 (10.0) | 148 (10.4) |
-| Infection | 72 (10.1) | 54 (7.6) | 126 (8.9) |
-| Pharyngitis | 47 (6.6) | 58 (8.2) | 105 (7.4) |
-| Rhinitis | 58 (8.1) | 47 (6.6) | 105 (7.4) |
-| Flu syndrome | 44 (6.2) | 58 (8.2) | 102 (7.2) |
-| Surgical procedure | 53 (7.4) | 48 (6.8) | 101 (7.1) |
+| Events, n (%) | Lispro (n=714) | Regular human insulin (n=709) |
+| --- | --- | --- |
+| Headache | 63 (11.6) | 66 (9.3) |
+| Pain | 77 (10.8) | 71 (10.0) |
+| Infection | 72 (10.1) | 54 (7.6) |
+| Pharyngitis | 47 (6.6) | 58 (8.2) |
+| Rhinitis | 58 (8.1) | 47 (6.6) |
+| Flu syndrome | 44 (6.2) | 58 (8.2) |
+| Surgical procedure | 53 (7.4) | 48 (6.8) |
 
 Insulin initiation and intensification of glucose control
 
@@ -55,7 +57,7 @@ Lipodystrophy
 
 Long-term use of insulin, including HUMALOG, can cause lipodystrophy at the site of repeated insulin injections or infusion.
 Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue), and may affect insulin absorption.
-Rotate insulin injection or infusion sites within the same region to reduce the risk of lipodystrophy [see Dosage and Administration (2.2, 2.3)].
+Rotate insulin injection or infusion sites within the same region to reduce the risk of lipodystrophy [see Dosage and Administration (2.2)].
 
 Weight gain
 
@@ -65,13 +67,13 @@ Peripheral Edema
 
 Insulin, including HUMALOG, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
-Adverse Reactions with Continuous Subcutaneous Insulin Infusion (CSII)
+Adverse Reactions with Continuous Subcutaneous Insulin Infusion (CSII) — HUMALOG U-100
 
-In a 12-week, randomized, crossover study in adult patients with type 1 diabetes (n=39), the rates of catheter occlusions and infusion site reactions were similar for HUMALOG and regular human insulin treated patients (see Table 3).
+In a 12-week, randomized, crossover study in adult patients with type 1 diabetes (n=39), the rates of catheter occlusions and infusion site reactions were similar for HUMALOG U-100 and regular human insulin treated patients (see Table 3).
 
 Table 3: Catheter Occlusions and Infusion Site Reactions
 
-|  | HUMALOG (n=38) | Regular human insulin (n=39) |
+|  | HUMALOG U-100 (n=38) | Regular human insulin (n=39) |
 | --- | --- | --- |
 | Catheter occlusions/month | 0.09 | 0.10 |
 | Infusion site reactions | 2.6% (1/38) | 2.6% (1/39) |
@@ -102,7 +104,9 @@ There was no statistically significant relationship between the change in the to
 
 ## 6.2 Postmarketing Experience
 
+HUMALOG U-100
+
 The following additional adverse reactions have been identified during post-approval use of HUMALOG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Medication errors in which other insulins have been accidentally substituted for HUMALOG have been identified during postapproval use [see Patient Counseling Information (17.2)].
+Medication errors in which other insulins have been accidentally substituted for HUMALOG have been identified during postapproval use [see Patient Counseling Information (17.4)].

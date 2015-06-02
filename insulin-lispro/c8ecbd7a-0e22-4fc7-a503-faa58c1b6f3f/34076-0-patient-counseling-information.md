@@ -1,25 +1,47 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Never Share a Humalog KwikPen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges, or Syringe Between Patients
+## 17.1 Never Share a HUMALOG KwikPen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges, or Syringe Between Patients
 
-Advise patients that they must never share a Humalog KwikPen, cartridge, or reusable pen compatible with Lilly 3 mL cartridges1 with another person, even if the needle is changed.
-Advise patients using Humalog vials not to share needles or syringes with another person.
+Advise patients that they must never share a HUMALOG KwikPen, cartridge, or reusable pen compatible with Lilly 3 mL cartridges with another person, even if the needle is changed.
+Advise patients using HUMALOG vials not to share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
-## 17.2 Instructions for All Patients
+## 17.2 Hypoglycemia
 
-Patients should be instructed on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia.
-Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
-Refer patients to the HUMALOG Patient Information Leaflet for additional information.
+Instruct patients on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of HUMALOG therapy.
+Instruct patients on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
+Instruct patients on the management of hypoglycemia.
 
-Women with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy.
+Inform patients that their ability to concentrate and react may be impaired as a result of hypoglycemia.
+Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery [see Warnings and Precautions (5.3)].
 
-Accidental mix-ups between HUMALOG and other insulins have been reported.
-To avoid medication errors between HUMALOG and other insulins, patients should be instructed to always check the insulin label before each injection.
+## 17.3 Hypersensitivity Reactions
 
-## 17.3 For Patients Using Continuous Subcutaneous Insulin Pumps
+Advise patients that hypersensitivity reactions have occurred with HUMALOG.
+Inform patients on the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
+
+## 17.4 Medication Errors
+
+Instruct patients to always check the insulin label before each injection to avoid mix-ups between insulin products.
+
+Inform patients that HUMALOG U-200 contains 2 times as much insulin in 1 mL as HUMALOG U-100.
+
+Inform patients that the HUMALOG U-200 KwikPen dose window shows the number of units of HUMALOG U-200 to be injected and that no dose conversion is required.
+
+Instruct patients to NOT transfer HUMALOG U-200 from the HUMALOG KwikPen to a syringe.
+The markings on the syringe will not measure the dose correctly and this can result in overdosage and severe hypoglycemia.
+
+## 17.5 Administration Instruction for HUMALOG U-200
+
+Instruct patients to NOT mix HUMALOG U-200 with any other insulin.
+
+## 17.6 Women of Reproductive Potential
+
+Advise females of reproductive potential with diabetes to inform their doctor if they are pregnant or are contemplating pregnancy [see Use in Specific Populations (8.1)].
+
+## 17.7 Instructions For Patients Using Continuous Subcutaneous Insulin Pumps
 
 Patients using external pump infusion therapy should be trained appropriately.
 
@@ -32,6 +54,7 @@ HUMALOG is recommended for use in pump systems suitable for insulin infusion suc
 Before using HUMALOG in a pump system, read the pump label to make sure the pump is indicated for continuous delivery of fast-acting insulin.
 HUMALOG is recommended for use in any reservoir and infusion sets that are compatible with insulin and the specific pump.
 Please see recommended reservoir and infusion sets in the pump manual.
+Do not use HUMALOG U-200 in an external insulin pump.
 
 To avoid insulin degradation, infusion set occlusion, and loss of the preservative (metacresol), insulin in the reservoir should be replaced at least every 7 days; infusion sets and infusion set insertion sites should be changed at least every 3 days.
 
@@ -44,8 +67,7 @@ This is especially pertinent for rapid acting insulin analogs that are more rapi
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Problems include pump malfunction, infusion set occlusion, leakage, disconnection or kinking, and degraded insulin.
 Less commonly, hypoglycemia from pump malfunction may occur.
-If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their healthcare professionals.
-[See Dosage and Administration (2.3), Warnings and Precautions (5.8), and How Supplied/Storage and Handling (16)].
+If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their healthcare professionals [see Dosage and Administration (2.2) and How Supplied/Storage and Handling (16.2)].
 
 ____________
 
@@ -61,7 +83,7 @@ Humalog®, Humalog KwikPen®, HumaPen®, HumaPen® Memoir™, HumaPen® Luxura®
 
 Other product and company names may be the trademarks of their respective owners.
 
-Literature revised March 12, 2015
+Literature revised May 26, 2015
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -70,4 +92,4 @@ www.humalog.com
 Copyright © 1996, 2015, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0001-USPI-20150312
+LOG-0003-USPI-20150526

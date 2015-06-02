@@ -1,11 +1,21 @@
 # 7 DRUG INTERACTIONS
 
-A number of drugs affect glucose metabolism and may require insulin dose adjustment and particularly close monitoring.
+## 7.1 Drugs That May Increase the Risk of Hypoglycemia
 
-Following are some of the examples:
+The risk of hypoglycemia associated with HUMALOG use may be increased when co-administered with antidiabetic agents, salicylates, sulfonamide antibiotics, monoamine oxidase inhibitors, fluoxetine, pramlintide, disopyramide, fibrates, propoxyphene, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, and somatostatin analogs (e.g., octreotide).
+Dose adjustment and increased frequency of glucose monitoring may be required when HUMALOG is co-administered with these drugs.
 
-- Drugs That May Increase the Blood-Glucose-Lowering Effect of HUMALOG and Susceptibility to Hypoglycemia: Oral antidiabetic agents, salicylates, sulfonamide antibiotics, monoamine oxidase inhibitors, fluoxetine, pramlintide, disopyramide, fibrates, propoxyphene, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, and somatostatin analogs (e.g., octreotide).
-- Drugs That May Reduce the Blood-Glucose-Lowering Effect of HUMALOG: corticosteroids, isoniazid, niacin, estrogens, oral contraceptives, phenothiazines, danazol, diuretics, sympathomimetic agents (e.g., epinephrine, albuterol, terbutaline), somatropin, atypical antipsychotics, glucagon, protease inhibitors, and thyroid hormones.
-- Drugs That May Increase or Reduce the Blood-Glucose-Lowering Effect of HUMALOG: beta-blockers, clonidine, lithium salts, and alcohol.
-  Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
-- Drugs That May Reduce the Signs of Hypoglycemia: beta-blockers, clonidine, guanethidine, and reserpine.
+## 7.2 Drugs That May Decrease the Blood Glucose Lowering Effect of HUMALOG
+
+The glucose lowering effect of HUMALOG may be decreased when co-administered with corticosteroids, isoniazid, niacin, estrogens, oral contraceptives, phenothiazines, danazol, diuretics, sympathomimetic agents (e.g., epinephrine, albuterol, terbutaline), somatropin, atypical antipsychotics, glucagon, protease inhibitors, and thyroid hormones.
+Dose adjustment and increased frequency of glucose monitoring may be required when HUMALOG is co-administered with these drugs.
+
+## 7.3 Drugs That May Increase or Decrease the Blood Glucose Lowering Effect of HUMALOG
+
+The glucose lowering effect of HUMALOG may be increased or decreased with co-administered with beta-blockers, clonidine, lithium salts, and alcohol.
+Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
+Dose adjustment and increased frequency of glucose monitoring may be required when HUMALOG is co-administered with these drugs.
+
+## 7.4 Drugs That May Blunt Signs and Symptoms of Hypoglycemia
+
+The signs and symptoms of hypoglycemia [see Warnings and Precautions (5.3)] may be blunted when beta-blockers, clonidine, guanethidine, and reserpine are co-administered with HUMALOG.

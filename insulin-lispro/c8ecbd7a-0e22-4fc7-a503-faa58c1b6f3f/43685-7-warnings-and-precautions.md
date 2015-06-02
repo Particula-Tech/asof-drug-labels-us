@@ -1,80 +1,68 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a Humalog KwikPen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges, or Syringe Between Patients
+## 5.1 Never Share a HUMALOG KwikPen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges1, or Syringe Between Patients
 
-Humalog KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges1 must never be shared between patients, even if the needle is changed.
-Patients using Humalog vials must never share needles or syringes with another person.
+HUMALOG KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
+Patients using HUMALOG vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
-## 5.2 Dose Adjustment and Monitoring
+## 5.2 Hyper- or Hypoglycemia with Changes in Insulin Regimen
 
-Glucose monitoring is essential for patients receiving insulin therapy.
-Changes to an insulin regimen should be made cautiously and only under medical supervision.
-Changes in insulin strength, manufacturer, type, or method of administration may result in the need for a change in insulin dose.
-Concomitant oral antidiabetic treatment may need to be adjusted.
-
-As with all insulin preparations, the time course of action for HUMALOG may vary in different individuals or at different times in the same individual and is dependent on many conditions, including the site of injection, local blood supply, or local temperature.
-Patients who change their level of physical activity or meal plan may require adjustment of insulin dosages.
+Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+These changes should be made cautiously and under close medical supervision and the frequency of blood glucose monitoring should be increased.
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse effect associated with insulins, including HUMALOG.
-The risk of hypoglycemia increases with tighter glycemic control.
-Patients must be educated to recognize and manage hypoglycemia.
-Hypoglycemia can happen suddenly and symptoms may be different for each person and may change from time to time.
-Severe hypoglycemia can cause seizures and may be life-threatening or cause death.
+Hypoglycemia is the most common adverse reaction associated with insulins, including HUMALOG.
+Severe hypoglycemia can cause seizures, may be life-threatening, or cause death.
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
-The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulations.
-Other factors such as changes in food intake (e.g., amount of food or timing of meals), injection site, exercise, and concomitant medications may also alter the risk of hypoglycemia [see Drug Interactions (7)].
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
 
-As with all insulins, use caution in patients with hypoglycemia unawareness and in patients who may be predisposed to hypoglycemia (e.g., the pediatric population and patients who fast or have erratic food intake).
-The patient's ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
+Risk Factors for Hypoglycemia
 
-Rapid changes in serum glucose levels may induce symptoms similar to hypoglycemia in persons with diabetes, regardless of the glucose value.
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as longstanding diabetes, diabetic nerve disease, use of medications such as beta-blockers [see Drug Interactions (7)], or intensified diabetes control.
-These situations may result in severe hypoglycemia (and, possibly, loss of consciousness) prior to the patient's awareness of hypoglycemia.
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin preparations, the glucose lowering effect time course of HUMALOG may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
-## 5.4 Hypersensitivity and Allergic Reactions
+Risk Mitigation Strategies for Hypoglycemia
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including HUMALOG [see Adverse Reactions (6.1)].
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
 
-## 5.5 Hypokalemia
+## 5.4 Hypoglycemia Due to Medication Errors
+
+Accidental mix-ups between basal insulin products and other insulins, particularly rapid-acting insulins, have been reported.
+To avoid medication errors between HUMALOG and other insulins, instruct patients to always check the insulin label before each injection.
+
+Do not transfer HUMALOG U-200 from the HUMALOG KwikPen to a syringe.
+The markings on the insulin syringe will not measure the dose correctly and can result in overdosage and severe hypoglycemia [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
+
+## 5.5 Hypersensitivity Reactions
+
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including HUMALOG.
+If hypersensitivity reactions occur, discontinue HUMALOG; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6.1)].
+HUMALOG is contraindicated in patients who have had hypersensitivity reactions to HUMALOG or any of its excipients [see Contraindications (4)].
+
+## 5.6 Hypokalemia
 
 All insulin products, including HUMALOG, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
-Use caution in patients who may be at risk for hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations and patients receiving intravenously administered insulin).
+Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
-## 5.6 Renal or Hepatic Impairment
-
-Frequent glucose monitoring and insulin dose reduction may be required in patients with renal or hepatic impairment [see Clinical Pharmacology (12.3)].
-
-## 5.7 Mixing of Insulins
-
-HUMALOG for subcutaneous injection should not be mixed with insulin preparations other than NPH insulin.
-If HUMALOG is mixed with NPH insulin, HUMALOG should be drawn into the syringe first.
-Injection should occur immediately after mixing.
-
-Do not mix HUMALOG with other insulins for use in an external subcutaneous infusion pump.
-
-## 5.8 Subcutaneous Insulin Infusion Pumps
-
-When used in an external insulin pump for subcutaneous infusion, HUMALOG should not be diluted or mixed with any other insulin.
-Change the HUMALOG in the reservoir at least every 7 days, change the infusion sets and the infusion set insertion site at least every 3 days.
-HUMALOG should not be exposed to temperatures greater than 98.6°F (37°C).
-
-Malfunction of the insulin pump or infusion set or insulin degradation can rapidly lead to hyperglycemia and ketosis.
-Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
-Interim subcutaneous injections with HUMALOG may be required.
-Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see Dosage and Administration (2.3), How Supplied/Storage and Handling (16), and Patient Counseling Information (17.3)].
-
-## 5.9 Drug Interactions
-
-Some medications may alter insulin requirements and the risk for hypoglycemia or hyperglycemia [see Drug Interactions (7)].
-
-## 5.10 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
 Patients treated with insulin, including HUMALOG, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
+
+## 5.8 Hyperglycemia and Ketoacidosis Due to Insulin Pump Device Malfunction
+
+Malfunction of the insulin pump or insulin infusion set or insulin degradation can rapidly lead to hyperglycemia and ketoacidosis.
+Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
+Interim subcutaneous injections with HUMALOG may be required.
+Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17.7)].

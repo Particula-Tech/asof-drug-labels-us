@@ -1,38 +1,59 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage Considerations
+## 2.1 Important Administration Instructions
 
-When given subcutaneously, HUMALOG has a more rapid onset of action and a shorter duration of action than regular human insulin.
+- Always check insulin labels before administration [see Warnings and Precautions (5.4)].
+- Inspect HUMALOG visually before use.
+  It should appear clear and colorless.
+  Do not use HUMALOG if particulate matter or coloration is seen.
+- Do NOT mix HUMALOG U-100 with other insulins when administering using a continuous subcutaneous infusion pump.
+- Do NOT transfer HUMALOG U-200 from the KwikPen to a syringe for administration [see Warnings and Precautions (5.4)].
+- Do NOT perform dose conversion when using either the HUMALOG U-100 or U-200 KwikPens.
+  The dose window shows the number of insulin units to be delivered and no conversion is needed.
+- Do NOT mix HUMALOG U-200 with any other insulins.
+- Do NOT administer HUMALOG U-200 using a continuous subcutaneous infusion pump (i.e., insulin pump).
+- Do NOT administer HUMALOG U200 intravenously.
 
-The dosage of HUMALOG must be individualized.
-Blood glucose monitoring is essential in all patients receiving insulin therapy.
+## 2.2 Route of Administration
 
-The total daily insulin requirement may vary and is usually between 0.5 to 1 unit/kg/day.
-Insulin requirements may be altered during stress, major illness, or with changes in exercise, meal patterns, or coadministered drugs.
+Subcutaneous Injection: HUMALOG U-100 or U-200
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+- Administer the dose of HUMALOG U-100 or HUMALOG U-200 within fifteen minutes before a meal or immediately after a meal by injection into the subcutaneous tissue of the abdominal wall, thigh, upper arm, or buttocks.
+  To reduce the risk of lipodystrophy, rotate the injection site within the same region from one injection to the next [see Adverse Reactions (6)].
+- HUMALOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
 
-## 2.2 Subcutaneous Administration
+Continuous Subcutaneous Infusion (Insulin Pump); HUMALOG U-100 ONLY
 
-HUMALOG should be given within 15 minutes before a meal or immediately after a meal.
+- Do NOT administer HUMALOG U-200 using a continuous subcutaneous infusion pump.
+- Administer HUMALOG U-100 by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
+  Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Follow healthcare provider recommendations when setting basal and meal time infusion rate.
+- Do NOT dilute or mix HUMALOG U-100 when administering by continuous subcutaneous infusion.
+- Change HUMALOG U-100 in the pump reservoir at least every 7 days.
+- Change the infusion sets and the infusion set insertion site at least every 3 days.
+- Do NOT expose HUMALOG U-100 in the pump reservoir to temperatures greater than 98.6°F (37°C).
+- Use HUMALOG U-100 in pump systems suitable for insulin infusion [see Patient Counseling Information (17.7)].
 
-HUMALOG given by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
+Intravenous Administration; HUMALOG U-100 ONLY
 
-HUMALOG administered by subcutaneous injection should be given in the abdominal wall, thigh, upper arm, or buttocks.
-Injection sites should be rotated within the same region (abdomen, thigh, upper arm, or buttocks) from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Do NOT administer HUMALOG U-200 intravenously.
+- Dilute HUMALOG U-100 to concentrations from 0.1 unit/mL to 1.0 unit/mL using 0.9% sodium chloride.
+- Administer HUMALOG U-100 intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6) and How Supplied/Storage and Handling (16.4)].
 
-## 2.3 Continuous Subcutaneous Infusion (Insulin Pump)
+## 2.3 Dosage Information
 
-HUMALOG may be administered by continuous subcutaneous infusion by an external insulin pump.
-Do not use diluted or mixed insulins in external insulin pumps.
-Infusion sites should be rotated within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
-Change the HUMALOG in the reservoir at least every 7 days, change the infusion sets and the infusion set insertion site at least every 3 days.
+- Individualize and adjust the dosage of HUMALOG based on route of administration, the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
+- Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.6, 8.7)].
+- Do NOT perform dose conversion when using either the HUMALOG U-100 or U-200 KwikPens.
+  The dose window shows the number of insulin units to be delivered and no conversion is needed.
 
-The initial programming of the external insulin infusion pump should be based on the total daily insulin dose of the previous regimen.
-Although there is significant variability among patients, approximately 50% of the total dose is usually given as meal-related boluses of HUMALOG and the remainder is given as a basal infusion.
-HUMALOG is recommended for use in pump systems suitable for insulin infusion such as MiniMed, Disetronic, and other equivalent pumps [see For Patients Using Continuous Subcutaneous Insulin Pumps (17.3)].
+## 2.4 Dosage Adjustment Due to Drug Interactions
 
-## 2.4 Intravenous Administration
+- Dosage adjustment may be needed when HUMALOG is coadministered with certain drugs [see Drug Interactions (7)].
+- Dosage adjustment may be needed when switching from another insulin to HUMALOG [see Warnings and Precautions (5.2)].
+- Instructions for Mixing with Other Insulins
 
-HUMALOG can be administered intravenously under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.5), How Supplied/Storage and Handling (16.4)].
-HUMALOG should be used at concentrations from 0.1 unit/mL to 1.0 unit/mL in infusion systems containing 0.9% sodium chloride.
+| HUMALOG U-100 subcutaneous injection route | HUMALOG U-100 may be mixed with NPH insulin preparations ONLY.If HUMALOG U-100 is mixed with NPH insulin, HUMALOG U-100 should be drawn into the syringe first. Injection should occur immediately after mixing. |
+| --- | --- |
+| HUMALOG U-100 continuous subcutaneous infusion route (Insulin Pump) | Do NOT mix HUMALOG U-100 with any other insulin. |
+| HUMALOG U-200 subcutaneous injection route | Do NOT mix with any other insulin. |
