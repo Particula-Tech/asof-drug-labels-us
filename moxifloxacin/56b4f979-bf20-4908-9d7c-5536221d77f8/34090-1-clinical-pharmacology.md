@@ -23,7 +23,7 @@ Co-administration with a high fat meal (that is, 500 calories from fat) does not
 
 Consumption of 1 cup of yogurt with moxifloxacin does not affect the rate or extent of the systemic absorption (that is, area under the plasma concentration time curve (AUC).
 
-Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given ora
+Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |

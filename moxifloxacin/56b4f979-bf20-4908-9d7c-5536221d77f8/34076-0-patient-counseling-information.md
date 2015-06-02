@@ -24,7 +24,6 @@ Inform patients about the following serious adverse reactions associated with AV
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - •Exacerbation of Myasthenia Gravis: Instruct patients to inform their physician of any history of myasthenia gravis, as fluoroquinolones like AVELOX may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Advise patients to seek medical care right away if they have any worsening muscle weakness or breathing problems.
-
 - •Prolongation of the QT interval: AVELOX may produce changes in the electrocardiogram (QTc interval prolongation).
   AVELOX should be avoided in patients receiving Class IA (for example quinidine, procainamide) or Class III (for example amiodarone, sotalol) antiarrhythmic agents.
   AVELOX may add to the QTc prolonging effects of other drugs such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants.
