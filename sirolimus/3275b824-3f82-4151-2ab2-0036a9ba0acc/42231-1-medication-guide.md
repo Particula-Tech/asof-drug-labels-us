@@ -1,36 +1,25 @@
 MEDICATION GUIDE
 
-RAPAMUNE® /RAAP-a-mune/
+RAPAMUNE® (RAAP-a-mune) (sirolimus)Tablets
 
-(sirolimus)
-
-Tablets
-
-RAPAMUNE® /RAAP-a-mune/
-
-(sirolimus)
-
-Oral Solution
-
-Read this Medication Guide before you start taking Rapamune and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor or other healthcare provider about your medical condition or your treatment.
+RAPAMUNE® (RAAP-a-mune) (sirolimus) Oral Solution
 
 What is the most important information I should know about RAPAMUNE?
 
 Rapamune can cause serious side effects, including:
 
 1. increased risk of getting infections
+
 2. increased risk of getting certain cancers
 
-1.
+3.
 Increased risk of getting infections.
 Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
 Your doctor may put you on medicine to help prevent some of these infections.
 
 Call your doctor right away if you have symptoms of infection including fever or chills while taking Rapamune.
 
-2.
+4.
 Increased risk of getting certain cancers.
 People who take Rapamune have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
 Talk with your doctor about your risk for cancer.
@@ -52,7 +41,10 @@ Your doctor will decide:
 - if RAPAMUNE is right for you, and
 - how to best use it with cyclosporine and corticosteroids after your transplant.
 
-It is not known if RAPAMUNE is safe and effective in children 13 years or younger.
+It is not known if RAPAMUNE is safe and effective in children under 13 years of age.
+
+RAPAMUNE is a prescription medicine also used to treat lymphangioleiomyomatosis (LAM).
+LAM is a rare progressive lung disease that affects predominantly women of childbearing age.
 
 Who should not take RAPAMUNE?
 
@@ -73,7 +65,7 @@ Before taking RAPAMUNE, tell your doctor if you:
   You and your doctor should decide if you will take RAPAMUNE or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using RAPAMUNE with certain medicines may affect each other causing serious side effects.
 
 RAPAMUNE may affect the way other medicines work, and other medicines may affect how RAPAMUNE works.
@@ -94,6 +86,7 @@ Especially tell your doctor if you take:
 
 How should I take RAPAMUNE?
 
+- Read the Instructions for Use that comes with your RAPAMUNE for information about the right way to take RAPAMUNE oral solution
 - Take RAPAMUNE exactly as your doctor tells you to take it.
 - Your doctor will tell you how much RAPAMUNE to take and when to take it.
   Do not change your dose of RAPAMUNE unless your doctor tells you to.
@@ -101,7 +94,7 @@ How should I take RAPAMUNE?
 - Do not stop taking RAPAMUNE or your other anti-rejection medicines unless your doctor tells you to.
 - Your doctor will check the levels of RAPAMUNE in your blood.
   Your doctor may change your dose of RAPAMUNE depending on your blood test results.
-- RAPAMUNE is taken by mouth once a day.
+- RAPAMUNE is taken by mouth 1 time each day.
 - Do not crush, chew, or split RAPAMUNE tablets.
   Tell your doctor if you cannot swallow RAPAMUNE tablets.
   Your doctor can prescribe RAPAMUNE as a solution.
@@ -111,7 +104,6 @@ How should I take RAPAMUNE?
   Do not take RAPAMUNE with grapefruit juice.
 - RAPAMUNE oral solution can develop a slight haze when it is refrigerated.
   If this happens, bring the RAPAMUNE Oral Solution to room temperature and then gently shake the bottle until the haze goes away.
-- See the end of the package insert for detailed Instructions for Use about how to correctly prepare and take a dose of RAPAMUNE oral solution.
 - If you get RAPAMUNE oral solution on your skin, wash the area with soap and water.
 - If you get RAPAMUNE oral solution in your eyes, rinse your eyes with water.
 - If you have taken more medicine than you were told, contact a doctor or go to the nearest hospital emergency department right away.
@@ -169,7 +161,7 @@ RAPAMUNE may cause serious side effects, including:
   When RAPAMUNE is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
 
-Common side effects with RAPAMUNE include:
+The most common side effects of RAPAMUNE in people with renal transplant include:
 
 - high blood pressure
 - pain (including stomach and joint pain)
@@ -181,6 +173,20 @@ Common side effects with RAPAMUNE include:
 - nausea
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
+
+The most common side effects of RAPAMUNE in people with LAM include:
+
+- mouth sores
+- diarrhea
+- stomach pain
+- nausea
+- sore throat
+- acne
+- chest pain
+- upper respiratory tract infection
+- headache
+- dizziness
+- sore muscles.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -195,15 +201,13 @@ How should I store RAPAMUNE?
 RAPAMUNE tablets:
 
 - Store RAPAMUNE tablets at room temperature between 68°F to 77°F (20°C to 25°C).
-- Blister cards and strips:
-  - Keep the tablets in the original blister container and use the outer carton to protect blister cards and strips from light.
-- Bottles
-  - Keep the bottle of RAPAMUNE tablets tightly closed.
+- Blister cards and strips: Keep the tablets in the original blister container and use the outer carton to protect blister cards and strips from light.
+- Bottles: Keep the bottle of RAPAMUNE tablets tightly closed.
 
 RAPAMUNE oral solution:
 
-- Store bottles of RAPAMUNE oral solution in the refrigerator at 36°F to 46°F (2°C to 8°C).
-  Protect from light.
+- Store bottles of RAPAMUNE oral solution in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Protect from light.
 - If necessary, bottles of RAPAMUNE oral solution can be stored at room temperature up to 77°F (25°C) for up to 15 days.
 - When a bottle of RAPAMUNE oral solution is opened, it should be used within 1 month.
 - Use any diluted RAPAMUNE oral solution right away.
@@ -215,7 +219,7 @@ Safely throw away medicine that is out of date or no longer needed.
 
 Keep RAPAMUNE and all medicines out of the reach of children.
 
-General Information about RAPAMUNE
+General Information about the safe and effective use of RAPAMUNE.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use RAPAMUNE for a condition for which it was not prescribed.
@@ -230,23 +234,21 @@ For more information, go to www.rapamune.com or call 1-800-934-5556.
 
 What are the ingredients in RAPAMUNE?
 
-Active ingredients: sirolimus.
+Active ingredients: sirolimus
 
-Inactive ingredients in RAPAMUNE Oral Solution are: Phosal 50 PG® (phosphatidylcholine, propylene glycol, mono- and di-glycerides, ethanol, soy fatty acids, and ascorbyl palmitate) and polysorbate 80.
+Inactive ingredients: RAPAMUNE Oral Solution: Phosal 50 PG® (phosphatidylcholine, propylene glycol, mono- and di-glycerides, ethanol, soy fatty acids, and ascorbyl palmitate) and polysorbate 80.
 RAPAMUNE Oral Solution contains 1.5%-2.5% ethanol.
 
-The inactive ingredients in RAPAMUNE Tablets include: sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
+Inactive ingredients: RAPAMUNE Tablets: sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
 The 0.5 mg and 2 mg dosage strengths also contain yellow iron (ferric) oxide and brown iron (ferric) oxide.
 
-For Rapamune Oral Tablets:
-
-For Rapamune Oral Solution:
+For Rapamune Oral Tablets and Oral Solution:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0578-3.0
+LAB-0578-4.0
 
-March 2015.
+May 2015
 
 INSTRUCTIONS FOR USE
 

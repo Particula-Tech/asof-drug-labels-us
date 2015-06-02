@@ -5,7 +5,7 @@
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression.
 The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7-3.2% (for Rapamune-treated patients) versus 0.6-0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1) and (6.2)].
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
-Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use Rapamune.
+Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use Rapamune for prophylaxis of organ rejection in patients receiving renal transplants.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient.
 
@@ -29,7 +29,7 @@ The safety and efficacy of Rapamune as immunosuppressive therapy have not been e
 
 ## 5.4 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis and hypersensitivity vasculitis, have been associated with the administration of Rapamune [see Adverse Reactions (6.6)].
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis and hypersensitivity vasculitis, have been associated with the administration of Rapamune [see Adverse Reactions (6.7)].
 
 ## 5.5 Angioedema
 
@@ -48,7 +48,7 @@ There have also been reports of fluid accumulation, including peripheral edema, 
 ## 5.7 Hyperlipidemia
 
 Increased serum cholesterol and triglycerides requiring treatment occurred more frequently in patients treated with Rapamune compared with azathioprine or placebo controls in Studies 1 and 2 [see Adverse Reactions (6.1)].
-There were increased incidences of hypercholesterolemia (43-46%) and/or hypertriglyceridemia (45-57%) in patients receiving Rapamune compared with placebo controls (each 23%).
+There were increased incidences of hypercholesterolemia (43–46%) and/or hypertriglyceridemia (45-57%) in patients receiving Rapamune compared with placebo controls (each 23%).
 The risk/benefit should be carefully considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 
 Any patient who is administered Rapamune should be monitored for hyperlipidemia.
@@ -86,8 +86,8 @@ The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in
 ## 5.10 Latent Viral Infections
 
 Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
-These include BK virus-associated nephropathy, which has been observed in patients receiving immunosuppressants, including Rapamune.
-This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see Adverse Reactions (6.6)].
+These include BK virus-associated nephropathy, which has been observed in renal transplant patients receiving immunosuppressants, including Rapamune.
+This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see Adverse Reactions (6.7)].
 Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
 Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
@@ -102,7 +102,7 @@ In transplant patients, physicians should also consider the risk that reduced im
 
 Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
 In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
-The risk may be increased as the trough sirolimus concentration increases [see Adverse Reactions (6.6)].
+The risk may be increased as the trough sirolimus concentration increases [see Adverse Reactions (6.7)].
 
 ## 5.12 De Novo Use Without Cyclosporine
 
@@ -113,19 +113,19 @@ These findings were also observed in a similar treatment group of another clinic
 
 ## 5.13 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy (HUS/TTP/TMA)
 
-The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Adverse Reactions (6.6)].
+The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Adverse Reactions (6.7)].
 
 ## 5.14 Antimicrobial Prophylaxis
 
-Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
+Cases of Pneumocystis carinii pneumonia have been reported in transplant patients not receiving antimicrobial prophylaxis.
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for 1 year following transplantation.
 
 Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
 
-## 5.15 Assay for Sirolimus Therapeutic Drug Monitoring
+## 5.15 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
-Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.3)].
+Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.5)].
 
 ## 5.16 Skin Cancer Events
 

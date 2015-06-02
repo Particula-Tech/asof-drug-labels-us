@@ -1,9 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Rapamune is to be administered orally once daily, consistently with or without food [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Rapamune is to be administered orally once daily, consistently with or without food [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 Tablets should not be crushed, chewed or split.
 Patients unable to take the tablets should be prescribed the solution and instructed in its use.
+
+## 2.1 General Dosing Guidance for Renal Transplant Patients
 
 The initial dose of Rapamune should be administered as soon as possible after transplantation.
 It is recommended that Rapamune be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and or/cyclosporine capsules (MODIFIED) [see Drug Interactions (7.2)].
@@ -19,20 +21,20 @@ Sirolimus trough concentrations should be monitored at least 3 to 4 days after a
 Two milligrams (2 mg) of Rapamune Oral Solution have been demonstrated to be clinically equivalent to 2 mg Rapamune Tablets; hence, are interchangeable on a mg-to-mg basis.
 However, it is not known if higher doses of Rapamune Oral Solution are clinically equivalent to higher doses of Rapamune Tablets on a mg‑to‑mg basis [see Clinical Pharmacology (12.3)].
 
-## 2.1 Patients at Low- to Moderate-Immunologic Risk
+## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
 
 ### Rapamune and Cyclosporine Combination Therapy
 
 For de novo renal transplant patients, it is recommended that Rapamune Oral Solution and Tablets be used initially in a regimen with cyclosporine and corticosteroids.
 A loading dose of Rapamune equivalent to 3 times the maintenance dose should be given, i.e. a daily maintenance dose of 2 mg should be preceded with a loading dose of 6 mg.
-Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see Dosage and Administration (2.3)].
+Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see Dosage and Administration (2.5)].
 
 ### Rapamune Following Cyclosporine Withdrawal
 
-At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the Rapamune dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see Dosage and Administration (2.3)].
+At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the Rapamune dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see Dosage and Administration (2.5)].
 Because cyclosporine inhibits the metabolism and transport of sirolimus, sirolimus concentrations may decrease when cyclosporine is discontinued, unless the Rapamune dose is increased [see Clinical Pharmacology (12.3)].
 
-## 2.2 Patients at High-Immunologic Risk
+## 2.3 Renal Transplant Patients at High-Immunologic Risk
 
 In patients with high-immunologic risk, it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first 12 months following transplantation [see Clinical Studies (14.3)].
 The safety and efficacy of this combination in high-immunologic risk patients has not been studied beyond the first 12 months.
@@ -40,14 +42,24 @@ Therefore, after the first 12 months following transplantation, any adjustments 
 
 For patients receiving Rapamune with cyclosporine, Rapamune therapy should be initiated with a loading dose of up to 15 mg on day 1 post-transplantation.
 Beginning on day 2, an initial maintenance dose of 5 mg/day should be given.
-A trough level should be obtained between days 5 and 7, and the daily dose of Rapamune should thereafter be adjusted [see Dosage and Administration (2.3)].
+A trough level should be obtained between days 5 and 7, and the daily dose of Rapamune should thereafter be adjusted [see Dosage and Administration (2.5)].
 
-The starting dose of cyclosporine should be up to 7 mg/kg/day in divided doses and the dose should subsequently be adjusted to achieve target whole blood trough concentrations [see Dosage and Administration (2.3)].
+The starting dose of cyclosporine should be up to 7 mg/kg/day in divided doses and the dose should subsequently be adjusted to achieve target whole blood trough concentrations [see Dosage and Administration (2.5)].
 Prednisone should be administered at a minimum of 5 mg/day.
 
 Antibody induction therapy may be used.
 
-## 2.3 Therapeutic Drug Monitoring
+## 2.4 Dosing in Patients with Lymphangioleiomyomatosis
+
+For patients with lymphangioleiomyomatosis, the initial Rapamune dose should be 2 mg/day.
+Sirolimus whole blood trough concentrations should be measured in 10–20 days, with dosage adjustment to maintain concentrations between 5–15 ng/mL [see Dosage and Administration (2.5)].
+
+In most patients, dose adjustments can be based on simple proportion: new Rapamune dose = current dose × (target concentration/current concentration).
+Frequent Rapamune dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or under dosing because sirolimus has a long half-life.
+Once Rapamune maintenance dose is adjusted, patients should continue on the new maintenance dose for at least 7 to 14 days before further dosage adjustment with concentration monitoring.
+Once a stable dose is achieved, therapeutic drug monitoring should be performed at least every three months.
+
+## 2.5 Therapeutic Drug Monitoring
 
 Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the Rapamune dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
 
@@ -66,21 +78,21 @@ Since results are assay and laboratory dependent, and the results may change ove
 Therefore, communication should be maintained with the laboratory performing the assay.
 A discussion of different assay methods is contained in Clinical Therapeutics, Volume 22, Supplement B, April 2000 [see References (15)].
 
-## 2.4 Patients with Low Body Weight
+## 2.6 Patients with Low Body Weight
 
 The initial dosage in patients ≥ 13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
 The loading dose should be 3 mg/m2.
 
-## 2.5 Patients with Hepatic Impairment
+## 2.7 Patients with Hepatic Impairment
 
 It is recommended that the maintenance dose of Rapamune be reduced by approximately one third in patients with mild or moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment.
 It is not necessary to modify the Rapamune loading dose [see Clinical Pharmacology (12.3)].
 
-## 2.6 Patients with Renal Impairment
+## 2.8 Patients with Renal Impairment
 
 Dosage adjustment is not needed in patients with impaired renal function [see Use in Specific Populations (8.7)].
 
-## 2.7 Instructions for Dilution and Administration of Rapamune Oral Solution
+## 2.9 Instructions for Dilution and Administration of Rapamune Oral Solution
 
 The amber oral dose syringe should be used to withdraw the prescribed amount of Rapamune Oral Solution from the bottle.
 Empty the correct amount of Rapamune from the syringe into only a glass or plastic container holding at least two (2) ounces (1/4 cup, 60 mL) of water or orange juice.

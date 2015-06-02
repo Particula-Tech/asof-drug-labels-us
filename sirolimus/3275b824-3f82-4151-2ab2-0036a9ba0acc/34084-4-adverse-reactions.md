@@ -15,9 +15,12 @@ The following adverse reactions are discussed in greater detail in other section
 - Interstitial lung disease [see Warnings and Precautions (5.11)]
 - Increased risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see Warnings and Precautions (5.13)].
 
-The most common (≥ 30%) adverse reactions observed with Rapamune in clinical studies are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
+The most common (≥ 30%) adverse reactions observed with Rapamune in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
-The following adverse reactions resulted in a rate of discontinuation of > 5% in clinical trials: creatinine increased, hypertriglyceridemia, and thrombotic thrombocytopenic purpura (TTP).
+The most common (≥ 20%) adverse reactions observed with Rapamune in the clinical study for the treatment of LAM are: stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+
+The following adverse reactions resulted in a rate of discontinuation of > 5% in clinical trials for renal transplant rejection prophylaxis: creatinine increased, hypertriglyceridemia, and thrombotic thrombocytopenic purpura (TTP).
+In patients with LAM, 11% of subjects discontinued due to adverse reactions, with no single adverse reaction leading to discontinuation in more than one patient being treated with Rapamune.
 
 ## 6.1 Clinical Studies Experience in Prophylaxis of Organ Rejection Following Renal Transplantation
 
@@ -70,7 +73,7 @@ The following adverse reactions were reported less frequently (≥ 3%, but < 20%
 - Cardiovascular – Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardia.
 - Digestive System – Stomatitis.
 - Hematologic and Lymphatic System – Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia.
-- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus
+- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus.
 - Musculoskeletal System – Bone necrosis.
 - Respiratory System – Pneumonia, epistaxis.
 - Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
@@ -146,7 +149,7 @@ TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY
 | Other Malignancy | 3.2 | 3.3 | 1.9 |
 | a: Patients received cyclosporine and corticosteroids.b: Includes patients who prematurely discontinued treatment.c: Patients may be counted in more than one category. |  |  |  |
 
-## 6.3 High-Immunologic Risk Patients
+## 6.3 High-Immunologic Risk Renal Transplant Patients
 
 Safety was assessed in 224 patients who received at least one dose of sirolimus with cyclosporine [see Clinical Studies (14.3)].
 Overall, the incidence and nature of adverse events was similar to those seen in previous combination studies with Rapamune.
@@ -165,14 +168,20 @@ In the subset of patients with a baseline glomerular filtration rate of greater 
 
 Overall in this study, a 5-fold increase in the reports of tuberculosis among sirolimus (11/551) and comparator (1/273) treatment groups was observed with 2:1 randomization scheme.
 
-## 6.5 Pediatrics
+## 6.5 Pediatric Renal Transplant Patients
 
 Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
 The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with a higher incidence of deterioration of renal function (creatinine increased) compared to calcineurin inhibitor-based therapy, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
 
-## 6.6 Postmarketing Experience
+## 6.6 Patients with Lymphangioleiomyomatosis
 
-The following adverse reactions have been identified during post-approval use of Rapamune.
+Safety was assessed in a controlled trial involving 89 patients with lymphangioleiomyomatosis, 46 of whom were treated with Rapamune [see Clinical Studies (14.7)].
+The adverse drug reactions observed in this trial were consistent with the known safety profile for renal transplant patients receiving Rapamune, with the addition of weight decreased which was reported at a greater incidence with Rapamune when compared to placebo.
+Adverse reactions occurring at a frequency of ≥ 20% in the Rapamune treatment group and greater than placebo include stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+
+## 6.7 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of Rapamune in transplant patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Body as a Whole – Lymphedema.
@@ -186,7 +195,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
   Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including Rapamune [see Warnings and Precautions (5.10)].
   Clostridium difficile enterocolitis.
-- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus
+- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus.
 - Nervous system - Posterior reversible encephalopathy syndrome.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
