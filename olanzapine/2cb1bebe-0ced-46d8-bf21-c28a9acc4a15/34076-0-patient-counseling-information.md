@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved Medication Guide for the oral formulations.
 
@@ -26,36 +26,36 @@ Olanzapine is not approved for elderly patients with dementia-related psychosis 
 Patients and caregivers should be counseled that a potentially fatal symptom complex sometimes referred to as NMS has been reported in association with administration of antipsychotic drugs, including olanzapine.
 Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
 
-## 17.4 Hyperglycemia
+## 17.4 Hyperglycemia and Diabetes Mellitus
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions.
 Patients should be monitored regularly for worsening of glucose control.
 Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking olanzapine [see Warnings and Precautions (5.4)].
 
-## 17.5 Hyperlipidemia
+## 17.5 Dyslipidemia
 
-Patients should be counseled that hyperlipidemia has occurred during treatment with olanzapine.
-Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.5)].
+Patients should be counseled that dyslipidemia has occurred during treatment with olanzapine.
+Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.4)].
 
 ## 17.6 Weight Gain
 
 Patients should be counseled that weight gain has occurred during treatment with olanzapine.
-Patients should have their weight monitored regularly [see Warnings and Precautions (5.6)].
+Patients should have their weight monitored regularly [see Warnings and Precautions (5.4)].
 
 ## 17.7 Orthostatic Hypotension
 
-Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration and in association with the use of concomitant drugs that may potentiate the orthostatic effect of olanzapine, e.g., diazepam or alcohol [see Warnings and Precautions (5.8) and Drug Interactions (7)].
+Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration and in association with the use of concomitant drugs that may potentiate the orthostatic effect of olanzapine, e.g., diazepam or alcohol [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 Patients should be advised to change positions carefully to help prevent orthostatic hypotension, and to lie down if they feel dizzy or faint, until they feel better.
 Patients should be advised to call their doctor if they experience any of the following signs and symptoms associated with orthostatic hypotension: dizziness, fast or slow heart beat, or fainting.
 
 ## 17.8 Potential for Cognitive and Motor Impairment
 
-Because olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Warnings and Precautions (5.12)].
+Because olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 ## 17.9 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.13)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.11)].
 
 ## 17.10 Concomitant Medication
 
@@ -81,9 +81,9 @@ Pediatric Use — Olanzapine is indicated for treatment of schizophrenia and man
 Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
 Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
 Safety and effectiveness of olanzapine in patients under 13 years of age have not been established.
-Safety and effectiveness of olanzapine and fluoxetine in combination in patients < 10 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
+Safety and effectiveness of olanzapine and fluoxetine in combination in patients < 10 years of age have not been established [see Warnings and Precautions (5.4) and Use in Specific Populations (8.4)].
 
-Safety and effectiveness information for pediatric patients (10-17 years) is approved for Eli Lilly and Company's olanzapine tablets and olanzapine orally disintegrating tablets.
+Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company's olanzapine tablets and olanzapine orally disintegrating tablets.
 However, due to Eli Lilly and Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
@@ -102,7 +102,7 @@ For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8049346 Revised June 2014
+8054434 Revised April 2015
 
 Medication Guide
 
@@ -180,7 +180,7 @@ Olanzapine tablets or orally disintegrating tablets are a prescription medicine 
 Olanzapine tablets or orally disintegrating tablets have not been approved for use in children under 13 years of age.
 Olanzapine tablets or orally disintegrating tablets in combination with fluoxetine has not been approved for use in children under 10 years of age.
 
-Safety and effectiveness information for pediatric patients (10-17 years) is approved for Eli Lilly and Company's olanzapine tablets and olanzapine orally disintegrating tablets.
+Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company's olanzapine tablets and olanzapine orally disintegrating tablets.
 However, due to Eli Lilly and Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
@@ -256,41 +256,28 @@ What are the possible side effects of olanzapine tablets or orally disintegratin
 
 Serious side effects may happen when you take olanzapine tablets or orally disintegrating tablets, including:
 
-• See "What is the most important information I should know about olanzapine tablets or orally disintegrating tablets?", which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
-
-• Increased incidence of stroke or "mini-strokes" called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
-Olanzapine tablets or orally disintegrating tablets are not approved for these patients.
-
-• Neuroleptic Malignant Syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including olanzapine tablets or orally disintegrating tablets.
-NMS can cause death and must be treated in a hospital.
-Call your doctor right away if you become severely ill and have any of these symptoms:
-
-• high fever
-
-• excessive sweating
-
-• rigid muscles
-
-• confusion
-
-• changes in your breathing, heartbeat, and blood pressure.
-
-• Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
-These movements usually affect the face and tongue.
-Tardive dyskinesia may not go away, even if you stop taking olanzapine tablets or orally disintegrating tablets.
-It may also start after you stop taking olanzapine tablets or orally disintegrating tablets.
-Tell your doctor if you get any body movements that you can not control.
-
-• Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
-
-• Difficulty swallowing, that can cause food or liquid to get into your lungs.
-
-• Seizures: Tell your doctor if you have a seizure during treatment with olanzapine tablets or orally disintegrating tablets.
-
-• Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
-It is important for you to drink water to avoid dehydration.
-Call your doctor right away if you become severely ill and have any of these symptoms of dehydration:
-
+- See "What is the most important information I should know about olanzapine tablets or orally disintegrating tablets?", which describes the increased risk of death in elderly people with dementia-related psychosis and the risks of high blood sugar, high cholesterol and triglyceride levels, and weight gain.
+- Increased incidence of stroke or "mini-strokes" called transient ischemic attacks (TIAs) in elderly people with dementia-related psychosis (elderly people who have lost touch with reality due to confusion and memory loss).
+  Olanzapine tablets or orally disintegrating tablets are not approved for these patients.
+- Neuroleptic Malignant Syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including olanzapine tablets or orally disintegrating tablets.
+  NMS can cause death and must be treated in a hospital.
+  Call your doctor right away if you become severely ill and have any of these symptoms:
+- high fever
+- excessive sweating
+- rigid muscles
+- confusion
+- changes in your breathing, heartbeat, and blood pressure.
+- Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
+  These movements usually affect the face and tongue.
+  Tardive dyskinesia may not go away, even if you stop taking olanzapine tablets or orally disintegrating tablets.
+  It may also start after you stop taking olanzapine tablets or orally disintegrating tablets.
+  Tell your doctor if you get any body movements that you can not control.
+- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
+- Difficulty swallowing, that can cause food or liquid to get into your lungs.
+- Seizures: Tell your doctor if you have a seizure during treatment with olanzapine tablets or orally disintegrating tablets.
+- Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
+  It is important for you to drink water to avoid dehydration.
+  Call your doctor right away if you become severely ill and have any of these symptoms of dehydration:
 - sweating too much or not at all
 - dry mouth
 - feeling very hot
@@ -299,7 +286,7 @@ Call your doctor right away if you become severely ill and have any of these sym
 
 Common side effects of olanzapine tablets or orally disintegrating tablets include: lack of energy, dry mouth, increased appetite, sleepiness, tremor (shakes), having hard or infrequent stools, dizziness, changes in behavior, or restlessness.
 
-Other common side effects in teenagers (13-17 years old) include: headache, stomach-area (abdominal) pain, pain in your arms or legs, or tiredness.
+Other common side effects in teenagers (13 to 17 years old) include: headache, stomach-area (abdominal) pain, pain in your arms or legs, or tiredness.
 Teenagers experienced greater increases in prolactin, liver enzymes, and sleepiness, as compared with adults.
 
 Tell your doctor about any side effect that bothers you or that does not go away.
@@ -352,4 +339,4 @@ For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8049347 Revised June 2014
+8054435 Revised April 2015

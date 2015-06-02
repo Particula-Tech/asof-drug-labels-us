@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 - None with olanzapine monotherapy.
 - When using olanzapine and fluoxetine in combination, also refer to the Contraindications section of the package insert for olanzapine and fluoxetine hydrochloride capsules.

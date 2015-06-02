@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 
@@ -50,10 +50,10 @@ The primary rating instrument used for assessing manic symptoms in these trials 
 The primary outcome in these trials was change from baseline in the Y-MRS total score.
 The results of the trials follow:
 
-(1) In one 3-week placebo-controlled trial (n=67) which involved a dose range of olanzapine (5-20 mg/day, once daily, starting at 10 mg/day), olanzapine was superior to placebo in the reduction of Y-MRS total score.
+(1) In one 3-week placebo-controlled trial (n=67) which involved a dose range of olanzapine (5 to 20 mg/day, once daily, starting at 10 mg/day), olanzapine was superior to placebo in the reduction of Y-MRS total score.
 In an identically designed trial conducted simultaneously with the first trial, olanzapine demonstrated a similar treatment difference, but possibly due to sample size and site variability, was not shown to be superior to placebo on this outcome.
 
-(2) In a 4-week placebo-controlled trial (n=115) which involved a dose range of olanzapine (5-20 mg/day, once daily, starting at 15 mg/day), olanzapine was superior to placebo in the reduction of Y-MRS total score.
+(2) In a 4-week placebo-controlled trial (n=115) which involved a dose range of olanzapine (5 to 20 mg/day, once daily, starting at 15 mg/day), olanzapine was superior to placebo in the reduction of Y-MRS total score.
 
 (3) In another trial, 361 patients meeting DSM-IV criteria for a manic or mixed episode of bipolar I disorder who had responded during an initial open-label treatment phase for about 2 weeks, on average, to olanzapine 5 to 20 mg/day were randomized to either continuation of olanzapine at their same dose (n=225) or to placebo (n=136), for observation of relapse.
 Approximately 50% of the patients had discontinued from the olanzapine group by day 59 and 50% of the placebo group had discontinued by day 23 of double-blind treatment.
@@ -66,10 +66,10 @@ These trials included patients with or without psychotic features and with or wi
 The results of the trials follow:
 
 (1) In one 6-week placebo-controlled combination trial, 175 outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms (Y-MRS ≥16) were randomized to receive either olanzapine or placebo, in combination with their original therapy.
-Olanzapine (in a dose range of 5-20 mg/day, once daily, starting at 10 mg/day) combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.2 mEq/L or 50 μg/mL to 125 μg/mL, respectively) was superior to lithium or valproate alone in the reduction of Y-MRS total score.
+Olanzapine (in a dose range of 5 to 20 mg/day, once daily, starting at 10 mg/day) combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.2 mEq/L or 50 mcg/mL to 125 mcg/mL, respectively) was superior to lithium or valproate alone in the reduction of Y-MRS total score.
 
 (2) In a second 6-week placebo-controlled combination trial, 169 outpatients on lithium or valproate therapy with inadequately controlled manic or mixed symptoms (Y-MRS ≥16) were randomized to receive either olanzapine or placebo, in combination with their original therapy.
-Olanzapine (in a dose range of 5-20 mg/day, once daily, starting at 10 mg/day) combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.2 mEq/L or 50 μg/mL to 125 μg/mL, respectively) was superior to lithium or valproate alone in the reduction of Y-MRS total score.
+Olanzapine (in a dose range of 5 to 20 mg/day, once daily, starting at 10 mg/day) combined with lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.2 mEq/L or 50 mcg/mL to 125 mcg/mL, respectively) was superior to lithium or valproate alone in the reduction of Y-MRS total score.
 
 Adolescents
 

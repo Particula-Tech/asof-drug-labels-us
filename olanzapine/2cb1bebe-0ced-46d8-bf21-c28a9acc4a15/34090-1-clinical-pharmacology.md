@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -8,14 +8,14 @@ The mechanism of action of olanzapine in the treatment of acute manic or mixed e
 
 ## 12.2 Pharmacodynamics
 
-Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki=4, 11, and 5 nM, respectively), dopamine D1-4 (Ki=11-31 nM), histamine H1 (Ki=7 nM), and adrenergic α1 receptors (Ki=19 nM).
-Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki=57 nM) and muscarinic M1-5 (Ki=73, 96, 132, 32, and 48 nM, respectively).
+Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki=4, 11, and 5 nM, respectively), dopamine D1 - 4 (Ki=11 to 31 nM), histamine H1 (Ki=7 nM), and adrenergic α1 receptors (Ki=19 nM).
+Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki=57 nM) and muscarinic M1 - 5 (Ki=73, 96, 132, 32, and 48 nM, respectively).
 Olanzapine binds weakly to GABAA, BZD, and β-adrenergic receptors (Ki>10 μM).
 
 Antagonism at receptors other than dopamine and 5HT2 may explain some of the other therapeutic and side effects of olanzapine.
-Olanzapine’s antagonism of muscarinic M1-5 receptors may explain its anticholinergic-like effects.
-Olanzapine’s antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
-Olanzapine’s antagonism of adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
+Olanzapine's antagonism of muscarinic M1 - 5 receptors may explain its anticholinergic-like effects.
+Olanzapine's antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
+Olanzapine's antagonism of adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
 
 ## 12.3 Pharmacokinetics
 

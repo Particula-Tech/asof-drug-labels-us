@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Olanzapine 2.5 mg tablets, USP are yellow colored, round, biconvex, uncoated tablets, debossed with "2.5" on one side and "66" on other side.
 The 5 mg tablets are yellow colored, round, biconvex, uncoated tablets, debossed with "5" on one side and "67" on other side.
