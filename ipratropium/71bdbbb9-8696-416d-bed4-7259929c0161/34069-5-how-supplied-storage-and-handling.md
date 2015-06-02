@@ -11,9 +11,7 @@ NDC 0054-0046-41: Bottle of 15 mL (165 metered sprays)
 
 ## Storage
 
-Store tightly closed at 25°C (77°F); excursions
-
-permitted to 15° to 30°C (59° to 86°F).
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Avoid freezing.
 Keep out of reach of children.
@@ -23,8 +21,8 @@ Address medical inquiries to Roxane Laboratories, Inc. at 800-962-8364.
 
 Patients should be reminded to read and follow the accompanying “Patient’s Instructions for Use”, which should be dispensed with the product.
 
-10001010/05
+10001010/06
 
-Revised March 2011
+Revised May 2015
 
-© RLI, 2011
+© RLI, 2015

@@ -20,6 +20,8 @@ To Use:
 Remove the clear plastic dust cap and the green safety clip from the nasal spray pump (Figure 1).
 The safety clip prevents the accidental discharge of the spray in your pocket or purse.
 
+Figure 1
+
 2.
 The nasal spray pump must be primed before Ipratropium Bromide Nasal Spray 0.06% is used for the first time.
 To prime the pump, hold the bottle with your thumb at the base and your index and middle fingers on the white shoulder area.
@@ -29,11 +31,15 @@ The pump is now primed and can be used.
 Your pump should not have to be reprimed unless you have not used the medication for more than 24 hours; repriming the pump will only require two sprays.
 If you have not used your nasal spray for more than seven days, repriming the pump will require seven sprays.
 
+Figure 2
+
 3.Before using Ipratropium Bromide Nasal Spray 0.06%, blow your nose gently to clear your nostrils if necessary.
 
 4.
 Close one nostril by gently placing your finger against the side of your nose, tilt your head slightly forward and, keeping the bottle upright, insert the nasal tip into the other nostril (Figure 3).
 Point the tip toward the back and outer side of the nose.
+
+Figure 3
 
 5.
 Press firmly and quickly upwards with the thumb at the base while holding the white shoulder portion of the pump between your index and middle fingers.
@@ -60,6 +66,8 @@ If the nasal tip becomes clogged, remove the clear plastic dust cap and safety c
 Hold the nasal tip under running, warm tap water (Figure 4) for about a minute.
 Dry the nasal tip, reprime the nasal spray pump (step 2 above), and replace the plastic dust cap and safety clip.
 
+Figure 4
+
 Caution:
 
 Ipratropium Bromide Nasal Spray 0.06% is intended to relieve your rhinorrhea (runny nose) with regular use.
@@ -80,15 +88,15 @@ If you are pregnant or breast feeding your baby, be sure to tell your physician 
 
 ## Storage
 
-Store tightly closed at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Avoid freezing.
 Keep out of reach of children.
 
 Address medical inquiries to Roxane Laboratories, Inc. at 800-962-8364.
 
-10001010/05
+10001010/06
 
-Revised March 2011
+Revised May 2015
 
-© RLI, 2011
+© RLI, 2015

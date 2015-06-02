@@ -4,6 +4,10 @@ The active ingredient in Ipratropium Bromide Nasal Spray is ipratropium bromide 
 It is an anticholinergic agent chemically described as 8-azoniabicyclo [3.2.1] octane, 3-(3-hydroxy-1-oxo-2- phenylpropoxy)-8-methyl-8-(1-methylethyl)-, bromide monohydrate (3-endo, 8-syn)-: a synthetic quaternary ammonium compound, chemically related to atropine.
 The structural formula is:
 
+ipratropium bromide monohydrate C20H30BrNO3 • H2O Mol.
+Wt.
+430.4
+
 Ipratropium bromide is a white to off-white crystal- line substance, freely soluble in water and methanol, sparingly soluble in ethanol, and insoluble in non-polar media.
 In aqueous solution, it exists in an ionized state as a quaternary ammonium compound.
 
