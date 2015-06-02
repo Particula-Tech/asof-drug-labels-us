@@ -56,19 +56,37 @@ The presence of duloxetine metabolites in breast milk was not examined.
 
 ## 8.4 Pediatric Use
 
+Generalized Anxiety Disorder
+
+In pediatric patients aged 7 to 17 years, efficacy was demonstrated in one 10-week, placebo-controlled trial.
+The study included 272 pediatric patients with GAD of which 47% were 7 to 11 years of age.
+Duloxetine demonstrated superiority over placebo as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score [see CLINICAL STUDIES (14.2)].
+The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
+
+Major Depressive Disorder
+
+Efficacy was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients with MDD, age 7 to 17.
+Neither duloxetine nor an active control (indicated for treatment of pediatric depression) was superior to placebo.
+Thus, safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with MDD.
+
+The most frequently observed adverse reactions in the clinical trials included nausea, headache, decreased weight, and abdominal pain.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine [see ADVERSE REACTIONS (6.11)].
+
+Use of duloxetine in a child or adolescent must balance the potential risks with the clinical need [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+
 Animal Data
 
 Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
 These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, for a child); the no-effect-level was 20 mg/kg/day (≈1 times the MRHD, for a child).
 
-Information describing two additional clinical studies performed by Eli Lilly and Company that failed to demonstrate pediatric efficacy is approved for Eli Lilly and Company's Duloxetine Delayed-release Capsules.
-However, due to Eli Lilly and Company's marketing exclusivity rights, this drug product is not labelled with that pediatric information.
-
 ## 8.5 Geriatric Use
 
 Of the 2,418 patients in premarketing clinical studies of duloxetine for MDD, 5.9% (143) were 65 years of age or over.
+Of the 1041 patients in CLBP premarketing studies, 21.2% (221) were 65 years of age or over.
+Of the 487 patients in OA premarketing studies, 40.5% (197) were 65 years of age or over.
 Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years of age or over.
-In the MDD, GAD, and DPNP studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In the MDD, GAD, and DPNP, OA, and CLBP studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including duloxetine have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see WARNINGS AND PRECAUTIONS (5.13)].
 
 In an analysis of data from all placebo-controlled-trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo.

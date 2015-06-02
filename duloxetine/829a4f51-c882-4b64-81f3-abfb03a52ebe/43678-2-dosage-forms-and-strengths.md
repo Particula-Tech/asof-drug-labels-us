@@ -6,4 +6,6 @@ Duloxetine is available as delayed-release capsules:
 
 30 mg: Size '3' capsules with dark blue cap and white body imprinted with "LU" in white ink on cap and "Q02" in black ink on body, containing six white to off white mini tablets.
 
+40 mg: Size '2' Capsules with white cap and white body imprinted with "LU" on cap and "H25" in black ink on body, containing eight white to off white mini tablets.
+
 60 mg: Size '1' capsules with dark blue cap and green body imprinted with "LU" in white ink on cap and "Q03" in black ink on body, containing twelve white to off white mini tablets.

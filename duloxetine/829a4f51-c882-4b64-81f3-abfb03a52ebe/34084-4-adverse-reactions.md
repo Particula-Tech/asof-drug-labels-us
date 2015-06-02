@@ -27,8 +27,8 @@ Reactions reported during the studies were not necessarily caused by the therapy
 
 Adults
 
-The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), and DPNP (N=906).
-The population studied was 17 to 89 years of age; 65.7%, 60.8%, and 42.9% female; and 81.8%, 72.6%, and 74.0% Caucasian for MDD, GAD, and DPNP, respectively.
+The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), and DPNP (N=906).
+The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6% and 42.9% female; and 81.8%, 72.6%, 85.3%, and 74.0% Caucasian for MDD, GAD, OA and CLBP, and DPNP, respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see CLINICAL STUDIES (14)].
 The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
 
@@ -56,6 +56,16 @@ Diabetic Peripheral Neuropathic Pain
 Approximately 12.9% (117/906) of the patients who received duloxetine in placebo-controlled trials for DPNP discontinued treatment due to an adverse reaction, compared with 5.1% (23/448) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.5%, placebo 0.7%), dizziness (duloxetine 1.2%, placebo 0.4%), and somnolence (duloxetine 1.1%, placebo 0.0%).
 
+Chronic Pain due to Osteoarthritis
+
+Approximately 15.7% (79/503) of the patients who received duloxetine in 13-week, placebo-controlled trials for chronic pain due to OA discontinued treatment due to an adverse reaction, compared with 7.3% (37/508) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 2.2%, placebo 1.0%).
+
+Chronic Low Back Pain
+
+Approximately 16.5% (99/600) of the patients who received duloxetine in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.0%, placebo 0.7%), and somnolence (duloxetine 1.0%, placebo 0.0%).
+
 ## 6.3 Most Common Adult Adverse Reactions
 
 Pooled Trials for All Approved Indications
@@ -65,6 +75,14 @@ The most commonly observed adverse reactions in duloxetine -treated patients (in
 Diabetic Peripheral Neuropathic Pain
 
 The most commonly observed adverse reactions in duloxetine -treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
+
+Chronic Pain due to Osteoarthritis
+
+The most commonly observed adverse reactions in duloxetine-treated patients (as defined above) were nausea, fatigue, constipation, dry mouth, insomnia, somnolence, and dizziness.
+
+Chronic Low Back Pain
+
+The most commonly observed adverse reactions in duloxetine-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
 ## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Adult Placebo- Controlled Trials
 
@@ -146,11 +164,11 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | iAlso includes loss of libido |  |  |
 | jAlso includes anorgasmia |  |  |
 
-DPNP
+DPNP, OA, and CLBP
 
-Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP placebo-controlled trials and with an incidence greater than placebo.
+Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, OA, and CLBP Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |

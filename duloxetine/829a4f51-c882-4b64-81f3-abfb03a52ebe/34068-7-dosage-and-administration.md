@@ -36,6 +36,15 @@ If a decision is made to increase the dose beyond 60 mg once daily, increase dos
 The maximum dose studied was 120 mg per day.
 Safety of doses above 120 mg once daily has not been adequately evaluated [see CLINICAL STUDIES (14.2)].
 
+Children and Adolescents (7 to 17 years of age)
+
+Initiate duloxetine delayed-release capsules USP at a dose of 30 mg once daily for 2 weeks before considering an increase to 60 mg.
+The recommended dose range is 30 to 60 mg once daily.
+Some patients may benefit from doses above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+The safety of doses above 120 mg once daily has not been evaluated [see CLINICAL STUDIES (14.2)].
+
 ## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
 
 Administer duloxetine delayed-release capsules USP 60 mg once daily.
@@ -43,6 +52,12 @@ There is no evidence that doses higher than 60 mg confer additional significant 
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
 Since diabetes is frequently complicated by renal disease, consider a lower starting dose and gradual increase in dose for patients with renal impairment [see DOSAGE AND ADMINISTRATION (2.6), USE IN SPECIFIC POPULATIONS (8.10), and CLINICAL PHARMACOLOGY (12.3)].
+
+## 2.5 Dosage for Treatment of Chronic Musculoskeletal Pain
+
+Administer duloxetine delayed-release capsules USP 60 mg once daily.
+Begin treatment at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+There is no evidence that higher doses confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see CLINICAL STUDIES (14.5)].
 
 ## 2.6 Dosing in Special Populations
 

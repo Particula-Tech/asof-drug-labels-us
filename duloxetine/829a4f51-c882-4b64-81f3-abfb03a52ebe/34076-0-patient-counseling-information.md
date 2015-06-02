@@ -67,7 +67,7 @@ Instruct patients that discontinuation of duloxetine may be associated with symp
 • Activation of Mania or Hypomania
 
 Adequately screen patients with depressive symptoms for risk of bipolar disorder (e.g. family history of suicide, bipolar disorder, and depression) prior to initiating treatment with duloxetine.
-Advice patients to report any signs or symptoms of a manic reaction such as greatly increased energy, severe trouble sleeping, racing thoughts, reckless behavior, talking more or faster than usual, unusually grand ideas, and excessive happiness or irritability [see WARNINGS AND PRECAUTIONS (5.8)].
+Advise patients to report any signs or symptoms of a manic reaction such as greatly increased energy, severe trouble sleeping, racing thoughts, reckless behavior, talking more or faster than usual, unusually grand ideas, and excessive happiness or irritability [see WARNINGS AND PRECAUTIONS (5.8)].
 
 • Angle-Closure Glaucoma
 
@@ -109,6 +109,13 @@ Advise patients to notify their physician if they:
 - intend to become pregnant during therapy
 - are nursing[see USE IN SPECIFIC POPULATIONS (8.1, 8.3)]
 
+• Pediatric Use
+
+Safety and efficacy of duloxetine in patients 7 to 17 years of age have been established for the treatment of GAD.
+The types of adverse reactions observed with duloxetine in children and adolescents were generally similar to those observed in adults.
+The safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with other indications.
+[See USE IN SPECIFIC POPULATIONS (8.4)].
+
 • Interference with Psychomotor Performance
 
 Any psychoactive drug may impair judgment, thinking, or motor skills.
@@ -131,4 +138,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 2015 ID#: 240246
+Revised: May 25, 2015 ID#: 241415

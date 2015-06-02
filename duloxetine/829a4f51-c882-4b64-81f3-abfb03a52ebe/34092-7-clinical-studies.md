@@ -3,8 +3,9 @@
 The efficacy of duloxetine has been established in the following adequate and well-controlled trials:
 
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults[see CLINICAL STUDIES (14.1)].
-- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults and 1 maintenance trial in adults[see CLINICAL STUDIES (14.2)].
+- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults and 1 maintenance trial in adults, and 1 short term trial in children and adolescents[see CLINICAL STUDIES (14.2)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults[see CLINICAL STUDIES (14.3)].
+- Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) and one 13-week trial in adult patients with chronic pain due to osteoarthritis[see CLINICAL STUDIES (14.5)]
 
 ## 14.1 Major Depressive Disorder
 
@@ -64,6 +65,13 @@ In this study, the starting dose was 30 mg once daily for 2 weeks before further
 The mean dose for patients completing the 10-week acute treatment phase was 50.95 mg.
 Patients treated with duloxetine (N=151) demonstrated significantly greater improvement compared with placebo (N=140) on mean change from baseline to endpoint as measured by the Hamilton Anxiety Rating Scale total score (Study 5 in Table 8).
 
+The efficacy of duloxetine in the treatment of pediatric patients 7 to 17 years of age with generalized anxiety disorder (GAD) was established in 1 flexible-dose randomized, double-blind, placebo-controlled trial in pediatric outpatients with GAD (based on DSM-IV criteria).
+
+In this study, the starting dose was 30 mg once daily for 2 weeks.
+Further dose increases in 30 mg increments up to 120 mg once daily were allowed based on investigator judgment of clinical response and tolerability.
+The mean dose for patients completing the 10-week treatment phase was 57.6 mg/day.
+In this study, duloxetine (N=135) demonstrated superiority over placebo (N=137) from baseline to endpoint as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score (Study 6 in Table 8).
+
 Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure |  |  |
@@ -78,6 +86,8 @@ Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety 
 | (HAM-A) | Placebo | 25.0 (5.82) | -9.2 (0.67) | -- |
 | Study 5 (Elderly) | Duloxetine (60 to 120 mg/day) b | 24.6 (6.21) | -15.9 (0.63) | -4.2 (-5.9, -2.5) |
 | (HAM-A) | Placebo | 24.5 (7.05) | -11.7 (0.67) | -- |
+| Study 6 (Pediatric) | Duloxetine (30 to 120 mg/day) b | 17.5 (1.98) | -9.7 (0.50) | -2.7 (-4.0, -1.3) |
+| (PARS for GAD) | Placebo | 17.4 (2.24) | 17.4 (2.24) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
 | aDifference (drug minus placebo) in least squares mean change from baseline. |  |  |  |  |
 | bDose statistically significantly superior to placebo. |  |  |  |  |
@@ -103,3 +113,67 @@ Some patients experienced a decrease in pain as early as week 1, which persisted
 Figure 3: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - DPNP-1
 
 Figure 4: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - DPNP-2
+
+## 14.5 Chronic Musculoskeletal Pain
+
+Duloxetine is indicated for the management of chronic musculoskeletal pain.
+This has been established in studies in patients with chronic low back pain and chronic pain due to osteoarthritis.
+
+Studies in Chronic Low Back Pain
+
+The efficacy of duloxetine in chronic low back pain (CLBP) was assessed in two double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study CLBP-1 and Study CLBP-2), and one of 12-weeks duration (CLBP-3).
+CLBP-1 and CLBP-3 demonstrated efficacy of duloxetine in the treatment of chronic low back pain.
+Patients in all studies had no signs of radiculopathy or spinal stenosis.
+
+Study CLBP-1:
+
+Two hundred thirty-six adult patients (N=115 on duloxetine, N=121 on placebo) enrolled and 182 (77%) completed 13-week treatment phase.
+After 7 weeks of treatment, duloxetine patients with less than 30% reduction in average daily pain and who were able to tolerate duloxetine 60 mg once daily had their dose of duloxetine, in a double-blinded fashion, increased to 120 mg once daily for the remainder of the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking duloxetine 60 to 120 mg daily had a significantly greater pain reduction compared to placebo.
+Randomization was stratified by the patient's baseline NSAIDs use status.
+Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
+
+Study CLBP-2:
+
+Four hundred and four patients were randomized to receive fixed doses of duloxetine daily or a matching placebo (N=59 on duloxetine 20 mg, N=116 on duloxetine 60 mg, N=112 on duloxetine 120 mg, N=117 on placebo) and 267 (66%) completed the entire 13-week study.
+After 13 weeks of treatment, none of the three duloxetine doses showed a statistically significant difference in pain reduction compared to placebo.
+
+Study CLBP-3:
+
+Four hundred and one patients were randomized to receive fixed doses of duloxetine 60 mg daily or placebo (N=198 on duloxetine, N=203 on placebo), and 303 (76%) completed the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 12 weeks of treatment, patients taking duloxetine 60 mg daily had significantly greater pain reduction compared to placebo.
+
+For various degrees of improvement in pain from baseline to study endpoint, Figures 7 and 8 show the fraction of patients in CLBP-1 and CLBP-3 achieving that degree of improvement.
+The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned the value of 0% improvement.
+
+Studies in Chronic Pain Due to Osteoarthritis
+
+The efficacy of duloxetine in chronic pain due to osteoarthritis was assessed in 2 double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study OA-1 and Study OA-2).
+All patients in both studies fulfilled the ACR clinical and radiographic criteria for classification of idiopathic osteoarthritis of the knee.
+Randomization was stratified by the patients' baseline NSAIDs-use status.
+Patients assigned to duloxetine started treatment in both studies at a dose of 30 mg once daily for one week.
+After the first week, the dose of duloxetine was increased to 60 mg once daily.
+After 7 weeks of treatment with duloxetine 60 mg once daily, in OA-1 patients with sub-optimal response to treatment (<30% pain reduction) and tolerated duloxetine 60 mg once daily had their dose increased to 120 mg.
+However, in OA-2, all patients, regardless of their response to treatment after 7 weeks, were re-randomized to either continue receiving duloxetine 60 mg once daily or have their dose increased to 120 mg once daily for the remainder of the study.
+Patients in the placebo treatment groups in both studies received a matching placebo for the entire duration of studies.
+For both studies, efficacy analyses were conducted using 13-week data from the combined duloxetine 60 mg and 120 mg once daily treatment groups compared to the placebo group.
+
+Study OA-1:
+
+Two hundred fifty-six patients (N=128 on duloxetine, N=128 on placebo) enrolled and 204 (80%) completed the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking duloxetine had significantly greater pain reduction.
+Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
+
+Study OA-2:
+
+Two hundred thirty-one patients (N=111 on duloxetine, N=120 on placebo) enrolled and 173 (75%) completed the study.
+Patients had a mean baseline pain of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking duloxetine did not show a significantly greater pain reduction.
+
+In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement.
+The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned the value of 0% improvement.

@@ -2,7 +2,7 @@ Medication Guide
 
 Duloxetine (doo-LOX-e-teen) Delayed-release Capsules USP,
 
-20 mg, 30 mg and 60 mg
+20 mg, 30 mg, 40 mg and 60 mg
 
 Rx Only
 
@@ -61,13 +61,14 @@ What else do I need to know about antidepressant medicines?
 
 What are duloxetine delayed-release capsules?
 
-Duloxetine delayed-release capsules are a prescription medicine used to treat a certain type of depression called Major Depressive Disorder (MDD).
+Duloxetine delayed-release capsule is a prescription medicine used to treat a certain type of depression called Major Depressive Disorder (MDD).
 Duloxetine delayed-release capsule belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
 
 Duloxetine delayed-release capsules are also used to treat or manage:
 
 - Generalized Anxiety Disorder (GAD)
 - Diabetic Peripheral Neuropathic Pain (DPNP)
+- Chronic Musculoskeletal Pain
 
 Who should not take duloxetine delayed-release capsules?
 
@@ -248,6 +249,15 @@ The most common side effects of duloxetine delayed-release capsules include:
 - increased sweating
 - dizziness
 
+Common possible side effects in children and adolescents who take duloxetine delayed-release capsules include:
+
+- Nausea
+- decreased weight
+- dizziness
+
+Side effects in adults may also occur in children and adolescents who take duloxetine delayed release capsules.
+Children and adolescents should have height and weight monitored during treatment.
+
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of duloxetine delayed-release capsules.
@@ -304,4 +314,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 2015 ID#: 240247
+Revised: May 25, 2015 ID#: 241416
