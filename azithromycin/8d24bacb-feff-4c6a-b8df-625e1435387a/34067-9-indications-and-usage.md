@@ -15,4 +15,5 @@ due to Chlamydophila pneumoniae, Haemophilus influenzae, Legionella pneumophila,
 due to Chlamydia trachomatis, Neisseria gonorrhoeae, or Mycoplasma hominis in patients who require initial intravenous therapy.
 If anaerobic microorganisms are suspected of contributing to the infection, an antimicrobial agent with anaerobic activity should be administered in combination with ZITHROMAX.
 
-ZITHROMAX for injection should be followed by ZITHROMAX by the oral route as required [see Dosage and Administration (2)].
+ZITHROMAX for injection should be followed by ZITHROMAX by the oral route as required.
+[see Dosage and Administration (2)]

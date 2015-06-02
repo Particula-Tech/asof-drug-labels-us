@@ -5,7 +5,7 @@
 Teratogenic Effects.
 Pregnancy Category B: Reproductive and development studies have not been conducted using IV administration of azithromycin to animals.
 Reproduction studies have been performed in rats and mice using oral administration at doses up to moderately maternally toxic dose concentrations (i.e., 200 mg/kg/day).
-These daily doses in rats and mice based on body surface area, are estimated to be 4 and 2 times, respectively, an adult daily dose of 500 mg.
+These daily doses in rats and mice]based on body surface area, are estimated to be 4 and 2 times, respectively, an adult daily dose of 500 mg.
 In the animal studies, no evidence of harm to the fetus due to azithromycin was found.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, azithromycin should be used during pregnancy only if clearly needed.
@@ -36,4 +36,4 @@ The geriatric population may respond with a blunted natriuresis to salt loading.
 The total sodium content from dietary and non-dietary sources may be clinically important with regard to such diseases as congestive heart failure.
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-[see Warnings and Precautions (5.3)].
+[see Warnings and Precautions (5.3)]

@@ -2,10 +2,10 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients on azithromycin therapy.
 [see Contraindications (4.1)]
 
-, Fatalities have been reported.
+Fatalities have been reported.
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is unknown at present.
@@ -30,7 +30,7 @@ Providers should consider the risk of QT prolongation, which can be fatal when w
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 
-## 5.4 Clostridium Difficile-Associated Diarrhea
+## 5.4 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX (azithromycin for injection), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -49,10 +49,11 @@ Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndr
 
 ## 5 6 Infusion Site Reactions
 
-ZITHROMAX for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes [see Dosage and Administration (2)].
+ZITHROMAX for injection should be reconstituted and diluted as directed and administered as an intravenous infusion over not less than 60 minutes.
+[see Dosage and Administration (2)]
 
 Local IV site reactions have been reported with the intravenous administration of azithromycin.
-The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hours (1 mg/mL as 500 mL infusion) [see Adverse Reactions (6)].
+The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hr (1 mg/mL as 500 mL infusion) [see Adverse Reactions (6)].
 All volunteers who received infusate concentrations above 2.0 mg/mL experienced local IV site reactions and, therefore, higher concentrations should be avoided.
 
 ## 5.7 Development of Drug-Resistant Bacteria
