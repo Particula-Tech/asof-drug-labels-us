@@ -20,7 +20,8 @@ In a placebo-controlled, crossover study (n=12), montelukast sodium inhibited ea
 
 The effect of montelukast sodium on eosinophils in the peripheral blood was examined in clinical trials.
 In patients with asthma aged 2 years and older who received montelukast sodium, a decrease in mean peripheral blood eosinophil counts ranging from 9% to 15% was noted, compared with placebo, over the double-blind treatment periods.
-In patients with seasonal allergic rhinitis aged 15 years and older who received montelukast sodium, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of montelukast sodium The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see Clinical Studies (14)].
+In patients with seasonal allergic rhinitis aged 15 years and older who received montelukast sodium, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of montelukast sodium.
+The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see Clinical Studies (14)].
 
 ## 12.3 Pharmacokinetics
 

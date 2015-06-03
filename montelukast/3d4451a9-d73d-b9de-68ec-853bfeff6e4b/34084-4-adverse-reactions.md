@@ -12,11 +12,11 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Greater than that in Patients Treated with Placebo,
+Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Greater than that in Patients Treated with Placebo
 
 |  | Montelukast Sodium 10 mg/day(montelukast) (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
-| Body As A Whole Pain, abdominal Asthenia/fatigue Fever Trauma Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious Nervous System/Psychiatric Headache Dizziness Respiratory System Disorders Influenza Cough Congestion, nasal Skin/Skin Appendages Disorder Rash Laboratory Adverse Experiences* ALT increased AST increased Pyuria | 2.9 1.8 1.5 1.0 2.1 1.7 1.5 18.4 1.9 4.2 2.7 1.6 1.6 2.1 1.6 1.0 | 2.5 1.2 0.9 0.8 1.1 1.0 0.5 18.1 1.4 3.9 2.4 1.3 1.2 2.0 1.2 0.9 |
+| Body As A Whole Pain, abdominal Asthenia/fatigue Fever Trauma Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious Nervous System/Psychiatric Headache Dizziness Respiratory System Disorders Influenza Cough Congestion, nasal Skin/Skin Appendages Disorder Rash Laboratory Adverse Experiences* ALT increased AST increased Pyuria | 2.9 1.8 1.5 1 2.1 1.7 1.5 18.4 1.9 4.2 2.7 1.6 1.6 2.1 1.6 1 | 2.5 1.2 0.9 0.8 1.1 1 0.5 18.1 1.4 3.9 2.4 1.3 1.2 2 1.2 0.9 |
 
 * Number of patients tested (montelukast sodium and placebo, respectively): ALT and AST, 1935, 1170; pyuria, 1924, 1159.
 
@@ -36,8 +36,7 @@ In pediatric patients 6 to 14 years of age receiving montelukast sodium, the fol
 The frequency of less common adverse events was comparable between montelukast sodium and placebo.
 With prolonged treatment, the adverse experience profile did not significantly change.
 
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The safety profile of montelukast sodium, when administered as a single dose for prevention of EIB in pediatric patients 6 years of age and older, was consistent with the safety profile previously described for montelukast sodium.
 
 In studies evaluating growth rate, the safety profile in these pediatric patients was consistent with the safety profile previously described for montelukast sodium.
 In a 56-week, double-blind study evaluating growth rate in pediatric patients 6 to 8 years of age receiving montelukast sodium, the following events not previously observed with the use of montelukast sodium in this age group occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: headache, rhinitis (infective), varicella, gastroenteritis, atopic dermatitis, acute bronchitis, tooth infection, skin infection, and myopia.
@@ -47,6 +46,15 @@ Pediatric Patients 2 to 5 Years of Age with Asthma
 Montelukast sodium has been evaluated for safety in 573 pediatric patients 2 to 5 years of age in single- and multiple-dose studies.
 Cumulatively, 426 pediatric patients 2 to 5 years of age were treated with montelukast sodium for at least 3 months, 230 for 6 months or longer, and 63 patients for one year or longer in clinical trials.
 In pediatric patients 2 to 5 years of age receiving montelukast sodium, the following events occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: fever, cough, abdominal pain, diarrhea, headache, rhinorrhea, sinusitis, otitis, influenza, rash, ear pain, gastroenteritis, eczema, urticaria, varicella, pneumonia, dermatitis, and conjunctivitis.
+
+Pediatric Patients 6 to 23 Months of Age with Asthma
+
+Safety and effectiveness in pediatric patients younger than 12 months of age with asthma have not been established.
+
+Montelukast sodium has been evaluated for safety in 175 pediatric patients 6 to 23 months of age.
+The safety profile of montelukast sodium in a 6-week, double-blind, placebo-controlled clinical study was generally similar to the safety profile in adults and pediatric patients 2 to 14 years of age.
+In pediatric patients 6 to 23 months of age receiving montelukast sodium, the following events occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: upper respiratory infection, wheezing; otitis media; pharyngitis, tonsillitis, cough; and rhinitis.
+The frequency of less common adverse events was comparable between montelukast sodium and placebo.
 
 Adults and Adolescents 15 Years of Age and Older with Seasonal Allergic Rhinitis
 
@@ -69,9 +77,10 @@ Montelukast sodium administered once daily had a safety profile consistent with 
 In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
 The incidence of somnolence was similar to that of placebo.
 
-Pediatric Patients 2 years to 14 Years of Age with Perennial Allergic Rhinitis
+Pediatric Patients 6 Months to 14 Years of Age with Perennial Allergic Rhinitis
 
 The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
+The safety in patients 6 to 23 months of age is supported by data from pharmacokinetic and safety and efficacy studies in asthma in this pediatric population and from adult pharmacokinetic studies.
 
 ## 6.2 Post-Marketing Experience
 

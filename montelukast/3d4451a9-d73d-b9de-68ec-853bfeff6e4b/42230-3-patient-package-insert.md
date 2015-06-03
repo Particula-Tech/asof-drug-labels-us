@@ -17,13 +17,13 @@ Montelukast sodium does not contain a steroid.
 Montelukast sodium is used to:
 
 1.
-Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.
+Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 12 months and older.
 
 Do not take montelukast sodium if you need relief right away for a sudden asthma attack.
 If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
 
 2.
-Prevent exercise-induced asthma in people 15 years of age and older.
+Prevent exercise-induced asthma in people 6 years of age and older.
 
 3.
 Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
@@ -31,7 +31,7 @@ Montelukast sodium is used to treat:
 
 • outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
 
-• indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 2 years and older.
+• indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 6 months and older.
 
 Who should not take Montelukast sodium?
 
@@ -71,7 +71,7 @@ Do not take 2 doses at the same time.
 
 • If you take too much montelukast sodium, call your healthcare provider or a Poison Control Center right away.
 
-For adults and children 2 years of age and older with asthma:
+For adults and children 12 months of age and older with asthma:
 
 • Take montelukast sodium 1 time each day, in the evening.
 Continue to take montelukast sodium every day for as long as your healthcare provider prescribes it, even if you have no asthma symptoms.
@@ -85,7 +85,7 @@ If you get an asthma attack, you should follow the instructions your healthcare 
 
 • Do not stop taking or lower the dose of your other asthma medicines unless your healthcare provider tells you to.
 
-For patients 15 years of age and older for the prevention of exercise-induced asthma:
+For patients 6 years of age and older for the prevention of exercise-induced asthma:
 
 • Take montelukast sodium at least 2 hours before exercise.
 
@@ -96,7 +96,7 @@ Talk to your healthcare provider about your treatment for exercise-induced asthm
 
 • Do not take 2 doses of montelukast sodium within 24 hours (1 day).
 
-For adults and children 2 years of age and older with seasonal allergic rhinitis, or for adults and children 2 years of age and older with perennial allergic rhinitis:
+For adults and children 2 years of age and older with seasonal allergic rhinitis, or for adults and children 6 months of age and older with perennial allergic rhinitis:
 
 • Take montelukast sodium 1 time each day, at about the same time each day.
 
@@ -228,7 +228,7 @@ How should I store montelukast sodium?
 
 General Information about the safe and effective use of montelukast sodium
 
-Medicines are sometimes· prescribed for purposes other than those mentioned in Patient Information Leaflets.
+Medicines are sometimes prescribed for purposes other than those mentioned in Patient Information Leaflets.
 Do not use montelukast sodium for a condition for which it was not prescribed.
 Do not give montelukast sodium to other people even if they have the same symptoms you have.
 It may harm them.
@@ -251,9 +251,6 @@ The film coating consists of: hypromellose, iron oxide yellow, iron oxide red, i
 
 People with Phenylketonuria: Montelukast sodium 4 mg (montelukast) chewable tablets contain 0.6 mg of phenylalanine, and montelukast sodium 5 mg (montelukast) chewable tablets contain 0.75 mg of phenylalanine.
 
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 To reorder additional patient information sheets, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
 
 Rx only
@@ -264,4 +261,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0115
+Revised: 0615

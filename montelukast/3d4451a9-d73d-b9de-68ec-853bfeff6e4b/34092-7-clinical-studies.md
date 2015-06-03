@@ -16,7 +16,7 @@ In both studies after 12 weeks, a random subset of patients receiving montelukas
 
 The results of the U.S. trial on the primary endpoint, morning FEV1, expressed as mean percent change from baseline averaged over the 12-week treatment period, are shown in FIGURE 2.
 
-Compared with placebo, treatment with one montelukast sodium 10 mg (montelukast) tablet daily in the evening resulted in a statistically significant increase in FEV1 percent change from baseline (13.0%-change in the group treated with montelukast sodium vs. 4.2%-change in the placebo group, p<0.001); the change from baseline in FEV1 for montelukast sodium was 0.32 liters compared with 0.10 liters for placebo, corresponding to a between-group difference of 0.22 liters (p<0.001, 95% CI 0.17 liters, 0.27 liters).
+Compared with placebo, treatment with one montelukast sodium 10 mg (montelukast) tablet daily in the evening resulted in a statistically significant increase in FEV1 percent change from baseline (13%-change in the group treated with montelukast sodium vs. 4.2%-change in the placebo group, p<0.001); the change from baseline in FEV1 for montelukast sodium was 0.32 liters compared with 0.10 liters for placebo, corresponding to a between-group difference of 0.22 liters (p<0.001, 95% CI 0.17 liters, 0.27 liters).
 The results of the Multinational trial on FEV1 were similar.
 
 Figure 2: FEV1 Mean Percent Change from Baseline
@@ -29,7 +29,7 @@ Trial: Montelukast sodium N=406; Placebo N=270)
 The effect of montelukast sodium on other primary and secondary endpoints, represented by the Multinational study is shown in TABLE 2.
 Results on these endpoints were similar in the US study.
 
-Table 2: Effect of Montelukast Sodium on Primary and Secondary Endpointsin Placebo-controlled Trials
+Table 2: Effect of Montelukast Sodium on Primary and Secondary Endpoints in a Multinational Placebo-controlled Trials
 
 (ANOVA Model)
 
@@ -86,7 +86,7 @@ Separate trials in adults evaluated the ability of montelukast sodium to add to 
 One randomized, placebo-controlled, parallel-group trial (n=226) enrolled adults with stable asthma with a mean FEV1 of approximately 84% of predicted who were previously maintained on various inhaled corticosteroids (delivered by metered-dose aerosol or dry powder inhalers).
 The median age was 41.5 years (range 16 to 70); 52.2% were females and 47.8% were males.
 
-The ethnic/racial distribution in this study was 92.0% Caucasian, 3.5% Black, 2.2% Hispanic, and 2.2% Asian.
+The ethnic/racial distribution in this study was 92% Caucasian, 3.5% Black, 2.2% Hispanic, and 2.2% Asian.
 The types of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate (mean dose, 1203 mcg/day), triamcinolone acetonide (mean dose, 2004 mcg/day), f1unisolide (mean dose, 1971 mcg/day), f1uticasone propionate (mean dose, 1083 mcg/day), or budesonide (mean dose, 1192 mcg/day).
 Some of these inhaled corticosteroids were non-U.S-approved formulations, and doses expressed may not be ex-actuator.
 The pre-study inhaled corticosteroid requirements were reduced by approximately 37% during a 5- to 7-week placebo run-in period designed to titrate patients toward their lowest effective inhaled corticosteroid dose.
@@ -102,7 +102,7 @@ The effect of montelukast sodium on the bronchoconstrictor response to aspirin o
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
-Exercise-Induced Bronchoconstriction (Adults and Adolescents 15 years of age and older)
+Exercise-Induced Bronchoconstriction (Adults, Adolescents, and Pediatric Patients 6 years of age and older)
 
 The efficacy of montelukast sodium 10 mg, (montelukast) when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
 Exercise challenge testing was conducted at 2 hours, 8.5 or 12 hours, and 24 hours following administration of a single dose of study drug (montelukast sodium 10 mg (montelukast) or placebo).
@@ -112,7 +112,7 @@ The results for the mean maximum percent fall at each timepoint in Study A are s
 
 Table 3: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47)
 
-ANOVAModel
+ANOVA Model
 
 | Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for montelukast sodium versus Placebo (95%Cl)* |
 | --- | --- | --- | --- |
@@ -123,8 +123,23 @@ ANOVAModel
 
 *Least squares-mean
 
-Pediatric use information for patients ages 6 to 14 years of age for acute prevention of exercise-induced bronchoconstriction (EIB) is approved for Merck Sharp & Dohme Corp’s montelukast tablet products.
-However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The efficacy of montelukast sodium 5 mg chewable tablets, when given as a single dose 2 hours before exercise for the prevention of EIB, was investigated in one multinational, randomized, double-blind, placebo-controlled crossover study that included a total of 64 pediatric patients 6 to 14 years of age with EIB.
+Exercise challenge testing was conducted at 2 hours and 24 hours following administration of a single dose of study drug (montelukast sodium 5 mg or placebo).
+The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge.
+A single dose of montelukast sodium 5 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise (TABLE 4).
+Similar results were shown at 24 hours post-dose (a secondary endpoint).
+Some patients were protected from EIB at 24 hours after administration; however, some patients were not.
+No timepoints were assessed between 2 and 24 hours post-dose.
+
+Table 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
+
+| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for montelukast sodium versus Placebo (95%Cl)* |
+| --- | --- | --- | --- |
+|  | Montelukast Sodium | Placebo |  |
+| 2 hours | 15 | 20 | -5 (-9, -1) |
+| 24 hours | 13 | 17 | -4 (-7, -1) |
+
+*Least squares-mean
 
 The efficacy of montelukast sodium for prevention of EIB in patients below 6 years of age has not been established.
 
@@ -151,7 +166,7 @@ The primary outcome variable was mean change· from baseline in daytime nasal sy
 
 Four of the five trials showed a significant reduction in daytime nasal symptoms scores with montelukast sodium 10-mg (montelukast) tablets compared with placebo.
 The results of one trial are shown below.
-The median age in this trial was 35.0 years (range 15 to 81); 65.4% were females and 34.6% were males.
+The median age in this trial was 35 years (range 15 to 81); 65.4% were females and 34.6% were males.
 The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other origins, 5.8% Black, and 4.8% Hispanic.
 The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received montelukast sodium tablets, loratadine, and placebo are shown in TABLE 5.
 The remaining three trials that demonstrated efficacy showed similar results.
@@ -160,7 +175,7 @@ Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 
 (ANCOVA Model)
 
-| Treatment Group (N) | BaselineMean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
+| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
 | Montelukast Sodium 10 mg (montelukast) (344) | 2.09 | -0.39 | -0.13† (-0.21, -0.06) |
 | Placebo(351) | 2.10 | -0.26 | N.A. |
@@ -179,7 +194,7 @@ The two studies enrolled a total of 3357 patients, of whom 1632 received montelu
 Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by history and a positive skin test to at least one relevant perennial allergen (dust mites, animal dander, and/or mold spores), who had active symptoms at the time of study entry, were enrolled.
 
 In the study in which efficacy was demonstrated, the median age was 35 years (range 15 to 81); 64.1% were females and 35.9% were males.
-The ethnic/racial distribution in this study was 83.2% Caucasian, 8.1% Black, 5.4% Hispanic, 2.3% Asian, and 1.0% other origins.
+The ethnic/racial distribution in this study was 83.2% Caucasian, 8.1% Black, 5.4% Hispanic, 2.3% Asian, and 1% other origins.
 Montelukast sodium 10-mg (montelukast) tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 6); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
 
 Table 6: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis
@@ -198,5 +213,5 @@ Table 6: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 The other 6-week study evaluated montelukast sodium 10 mg (montelukast) (n=626), placebo (n=609), and an active-control (cetirizine 10 mg; n=120).
 The primary analysis compared the mean change from baseline in daytime nasal symptoms score for montelukast sodium vs. placebo over the first 4 weeks of treatment; the study was not designed for statistical comparison between montelukast sodium and the active-control.
 The primary outcome variable included nasal itching in addition to nasal congestion, rhinorrhea, and sneezing.
-The estimated difference between montelukast sodium and placebo was -0.04 with a 95% Cl of(-0.09, 0.01).
-The estimated difference between the active-control and placebo was -0.10 with a 95% Cl of (-0.19, -0.01).
+The estimated difference between montelukast sodium and placebo was -0.04 with a 95% CI of(-0.09, 0.01).
+The estimated difference between the active-control and placebo was -0.10 with a 95% CI of (-0.19, -0.01).
