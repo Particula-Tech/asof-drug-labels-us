@@ -22,7 +22,7 @@ Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate (MPA)
 | Multiple Dose |  |  |  |  |  |  |
 | 10 mg Following Day 7 dose | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15.0) | 40564 (38256) | 41963 (38402) |
 
-A. Absorption
+### A. Absorption
 
 No specific investigation on the absolute bioavailability of MPA in humans has been conducted.
 MPA is rapidly absorbed from the gastrointestinal tract, and maximum MPA concentrations are obtained between 2 to 4 hours after oral administration.
@@ -31,30 +31,32 @@ Administration of PROVERA with food increases the bioavailability of MPA.
 A 10 mg dose of PROVERA, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
 The half-life of MPA was not changed with food.
 
-B. Distribution
+### B. Distribution
 
-MPA is approximately 90% protein bound, primarily to albumin; no MPA binding occurs with sex-hormone binding globulin.
+MPA is approximately 90% protein bound, primarily to albumin; no MPA binding occurs with sex hormone binding globulin.
 
-C. Metabolism
+### C. Metabolism
 
-Following oral dosing, MPA is extensively metabolized in the liver via hydroxylation, with subsequent conjugation and elimination in the urine
+Following oral dosing, MPA is extensively metabolized in the liver via hydroxylation, with subsequent conjugation and elimination in the urine.
 
-D. Excretion
+### D. Excretion
 
 Most MPA metabolites are excreted in the urine as glucuronide conjugates with only minor amounts excreted as sulfates.
 
-E. Special Populations
+### E. Specific Populations
 
-Renal Insufficiency
-
-The pharmacokinetics of MPA in patients with varying degrees of renal insufficiency have not been investigated.
-
-Hepatic Insufficiency
+#### Hepatic Insufficiency
 
 MPA is almost exclusively eliminated via hepatic metabolism.
 In 14 patients with advanced liver disease, MPA disposition was significantly altered (reduced elimination).
 In patients with fatty liver, the mean percent dose excreted in the 24-hour urine as intact MPA after a 10 mg or 100 mg dose was 7.3% and 6.4%, respectively.
 
-F. Drug Interactions
+#### Renal Insufficiency
 
-No formal pharmacokinetic drug interaction studies have been conducted with PROVERA
+The effect of renal impairment on the pharmacokinetics of PROVERA has not been studied.
+
+### F. Drug Interactions
+
+Medroxyprogesterone acetate (MPA) is metabolized in-vitro primarily by hydroxylation via the CYP3A4.
+Specific drug-drug interaction studies evaluating the clinical effects with CYP3A4 inducers or inhibitors on MPA have not been conducted.
+Inducers and/or inhibitors of CYP3A4 may affect the metabolism of MPA.

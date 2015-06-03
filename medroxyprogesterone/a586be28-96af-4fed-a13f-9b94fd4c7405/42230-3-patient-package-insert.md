@@ -1,10 +1,10 @@
 # PATIENT INFORMATION
 
-PROVERA® (medroxyprogesterone acetate tablets, USP)
+PROVERA (pro-VE-rah) (medroxyprogesterone acetate tablets, USP)
 
-Read this PATIENT INFORMATION before you start taking PROVERA and read the patient information each time you refill your PROVERA prescription.
+Read this Patient Information before you start taking PROVERA and read what you get each time you refill your PROVERA prescription.
 There may be new information.
-This information does not take the place of talking to your health care provider about your medical condition or your treatment.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 What is PROVERA?
 
@@ -16,53 +16,43 @@ PROVERA is used to:
 
 - Treat menstrual periods that have stopped or to treat abnormal uterine bleeding.
   Women with a uterus who are not pregnant, who stop having regular menstrual periods or who begin to have irregular menstrual periods may have a drop in their progesterone level.
-  Talk with your health care provider about whether PROVERA is right for you.
-- Reduce your chances of getting cancer of the uterus.
-  In postmenopausal women with a uterus who use estrogens, taking progestin in combination with estrogen will reduce your chances of getting cancer of the uterus.
+  Talk with your healthcare provider about whether PROVERA is right for you.
+- Reduce your chances of getting cancer of the uterus (womb).
+  In postmenopausal women with a uterus who use estrogens, taking progestin in combination with estrogen will reduce your chance of getting cancer of the uterus (womb).
 
 Who should not take PROVERA?
 
 Do not start taking PROVERA if you:
 
-- Have undiagnosed vaginal bleeding
-- Currently have or have had certain cancers
+- have unusual vaginal bleeding
+- currently have or have had certain cancers Estrogen plus progestin may increase your chance of getting certain types of cancers, including cancer of the breast.
+  If you have or have had cancer, talk with your healthcare provider about whether you should use PROVERA.
+- had a stroke or heart attack
+- currently have or have had blood clots
+- currently have or have had liver problems
+- are allergic to PROVERA or any of its ingredients See the list of ingredients in PROVERA at the end of this leaflet.
+- think you may be pregnant PROVERA is not for pregnant women.
+  If you think you may be pregnant, you should have a pregnancy test and know the results.
+  Do not use PROVERA if the test is positive and talk to your healthcare provider.
+  There may be an increased risk of minor birth defects in children whose mothers take PROVERA during the first 4 months of pregnancy.
+  PROVERA should not be used as a test for pregnancy.
 
-Estrogen plus progestin may increase your chance of getting certain cancers, including cancer of the breast.
-If you have or have had cancer, talk with your health care provider about whether you should use PROVERA.
+What should I tell my healthcare provider before taking PROVERA?
+Before you take PROVERA, tell your healthcare provider if you:
 
-- Had a stroke or heart attack in the past year
-- Currently have or have had blood clots
-- Currently have or have had liver problems
-- Think you may be pregnant
+- have any other medical problems Your healthcare provider may need to check you more carefully if you have certain conditions such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis (severe pelvic pain), lupus, or problems with your heart, liver, thyroid, kidneys, or have high calcium in your blood.
+- are going to have surgery or will be on bed rest Your healthcare provider will let you know if you need to stop taking PROVERA.
+- are breast feeding The hormone in PROVERA can pass into your breast milk.
 
-Tell you health care provider if you think that you may be pregnant or having a miscarriage.
-There may be an increased risk of minor birth defects in children whose mothers take this drug during the first 4 months of pregnancy.
-If you take PROVERA and later find out you were pregnant when you took it, be sure to discuss this with your doctor as soon as possible.
-
-PROVERA should not be used as a test for pregnancy.
-
-- Are allergic to any of the ingredients in PROVERA
-
-See the list of ingredients in PROVERA at the end of this leaflet.
-
-Tell your health care provider:
-
-- If you are breastfeeding.
-  The hormone in PROVERA can pass into your breast milk.
-- About all of your medical problems.
-  Your health care provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing); epilepsy (seizures); migraine headaches; endometriosis (severe pelvic pain); lupus; problems with your heart, liver, thyroid, or kidneys; or if you have high calcium levels in your blood.
-- About all the medicines you take.
-  This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
-  Some medicines may affect how PROVERA works.
-  PROVERA may also affect how other medicines work.
-- If you are going to have surgery or will be on bed rest.
-  If you are taking estrogen in addition to PROVERA, you may need to stop taking estrogen and PROVERA.
+Tell your healthcare provider about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Some medicines may affect how PROVERA works.
+PROVERA may also affect how other medicines work.
 
 How should I take PROVERA?
 
-Start at the lowest dose and talk to your health care provider about how well that dose is working for you.
+Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
 The lowest effective dose of PROVERA has not been determined.
-You and your health care provider should talk regularly (every 3-6 months) about the dose you are taking and whether you still need treatment with PROVERA.
+You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether you still need treatment with PROVERA.
 
 1. Absence of menstrual period: PROVERA may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
 2. Abnormal Uterine Bleeding: PROVERA may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
@@ -72,92 +62,88 @@ What are the possible side effects of PROVERA?
 
 The following side effects have been reported with the use of PROVERA alone:
 
-- Breast tenderness
-- Breast milk secretion
-- Breakthrough bleeding
-- Spotting (minor vaginal bleeding)
-- Irregular periods
-- Amenorrhea (absence of menstrual periods)
-- Vaginal secretions
-- Headaches
-- Nervousness
-- Dizziness
-- Depression
-- Insomnia, sleepiness, fatigue
-- Premenstrual syndrome-like symptoms
-- Thrombophlebitis (inflamed veins)
-- Blood clot
-- Itching, hives, skin rash
-- Acne
-- Hair loss, hair growth
-- Abdominal discomfort
-- Nausea
-- Bloating
-- Fever
-- Increase in weight
-- Swelling
-- Changes in vision and sensitivity to contact lenses
+- breast tenderness
+- breast milk secretion
+- breakthrough bleeding
+- spotting (minor vaginal bleeding)
+- irregular periods
+- amenorrhea (absence of menstrual periods)
+- vaginal secretions
+- headaches
+- nervousness
+- dizziness
+- depression
+- insomnia, sleepiness, fatigue
+- premenstrual syndrome-like symptoms
+- thrombophlebitis (inflamed veins)
+- blood clot
+- itching, hives, skin rash
+- acne
+- hair loss, hair growth
+- abdominal discomfort
+- nausea
+- bloating
+- fever
+- increase in weight
+- swelling
+- changes in vision and sensitivity to contact lenses
 
-If you have hives, problems breathing, swelling of the face, mouth, tongue or neck, contact your healthcare provider right away.
+Call your healthcare provider right away if you get hives, problems breathing, swelling of the face, mouth, tongue or neck
 
 The following side effects have been reported with the use of PROVERA with an estrogen.
 
-Side effects are grouped by how serious they are and how often they happen when you are treated:
+Side effects are grouped by how serious they are and how often they happen when you are treated.
 
-Serious but less common side effects of estrogen include:
+Serious, but less common side effects include:
 
-- Breast cancer
-- Cancer of the uterus
-- Stroke
-- Heart attack
-- Blood clots
-- Dementia
-- Gallbladder disease
-- Ovarian cancer
-- High blood pressure
-- Liver problems
-- High blood sugar
-- Enlargement of benign tumors of the uterus ("fibroids")
+- heart attack
+- stroke
+- blood clots
+- dementia
+- breast cancer
+- cancer of the uterus
+- cancer of the ovary
+- high blood pressure
+- high blood sugar
+- gallbladder disease
+- liver problems
+- changes in your thyroid hormone levels
+- enlargements of benign tumors ("fibroids")
 
-Some of the warning signs of these serious side effects include:
+Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
-- Breast lumps
-- Unusual vaginal bleeding
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
-- Yellowing of the skin, eyes or nail beds
+- new breast lumps
+- unusual vaginal bleeding
+- changes in vision and speech
+- sudden new severe headaches
+- severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+- memory loss or confusion
 
-Call your health care provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
+Less serious, but common side effects include:
 
-Less serious but common side effects include:
-
-- Headache
-- Breast pain
-- Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
-- Nausea and vomiting
-- Hair loss
-- Fluid retention
-- Vaginal yeast infection
+- headache
+- breast pain
+- irregular vaginal bleeding or spotting
+- stomach or abdominal cramps, bloating
+- nausea and vomiting
+- hair loss
+- fluid retention
+- vaginal yeast infection
 
 These are not all the possible side effects of PROVERA with or without estrogen.
-For more information, ask your health care provider or pharmacist.
+For more information, ask your healthcare provider or pharmacist for advice about side effects.
+Tell your healthcare provider if you have side effect that bothers you or does not go away.
+You may report side effects to Pfizer at 1-800-438-1985 or FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with PROVERA?
 
-- Talk with your health care provider regularly about whether you should continue taking PROVERA.
-  The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus.
-- See your health care provider right away if you get vaginal bleeding while taking PROVERA.
-- Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your health care provider tells you otherwise.
+- Talk with your healthcare provider regularly about whether you should continue taking PROVERA.
+  The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus (womb).
+- See your healthcare provider right away if you get vaginal bleeding while taking PROVERA.
+- Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
   If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have a higher chance of getting heart disease.
-  Ask your health care provider for ways to lower your chance of getting heart disease.
+  Ask your healthcare provider for ways to lower your chance of getting heart disease.
 
 General information about safe and effective use of PROVERA
 
@@ -185,4 +171,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0365-6.0 December 2014
+LAB-0365-7.0 May 2015
