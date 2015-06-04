@@ -13,4 +13,4 @@ Concomitant use in patients taking pimozide is contraindicated [see Drug Interac
 
 ## 4.3 Hypersensitivity to Escitalopram or Citalopram
 
-Escitalopram oxalate, USP is contraindicated in patients with a hypersensitivity to escitalopram or citalopram or any of the inactive ingredients in escitalopram oxalate oral solution.
+Escitalopram oxalate, USP is contraindicated in patients with a hypersensitivity to escitalopram or citalopram or any of the inactive ingredients in escitalopram oral solution.

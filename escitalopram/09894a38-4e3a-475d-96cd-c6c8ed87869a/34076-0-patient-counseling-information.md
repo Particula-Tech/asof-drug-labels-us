@@ -71,11 +71,11 @@ Antidepressants are not intended for use in the adolescent who exhibits symptoms
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
 
-Trademarks are the property of their respective owners.
+* Trademarks are the property of their respective owners.
 
 Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-11-2014-01
+12-2014-02
