@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved labeling (Medication Guide)
+See FDA-Approved patient labeling (Medication Guide)
 
 Instruct patients to read the Medication Guide before starting therapy with risedronate sodium tablets and to re-read it each time the prescription is renewed.
 
@@ -11,7 +11,7 @@ Specifically, risedronate sodium tablets should be taken at least 30 minutes bef
 
 Instruct patients to take risedronate sodium tablets while in an upright position (sitting or standing) with a full glass of plain water (6 to 8 ounces) to facilitate delivery to the stomach, and thus reduce the potential for esophageal irritation.
 
-Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.2)].
+Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
 
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal irritation.
 
@@ -44,19 +44,14 @@ Patients should be instructed that any time they have a medical problem they thi
 
 All registered trademarks in this document are the property of their respective owners.
 
-APOTEX INC.
-
-Risedronate Sodium Tablets, USP
-
-75 mg, 150 mg
+APOTEX INC. Risedronate Sodium Tablets, USP 75 mg, 150 mg
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, ON | Weston, Florida |
-| Canada | 33326, USA |
-| M9L 1T9 |  |
+| Canada M9L 1T9 | 33326, USA |
 
-Revised: May 2014
+Revised: April 2015
 
-Revision: 8b
+Revision: 9

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Risedronate sodium tablets, USP are pyridinyl bisphosphonates that inhibit osteoclast-mediated bone resorption and modulate bone metabolism.
+Risedronate sodium tablets, USP are pyridinyl bisphosphonates that inhibit osteoclast-mediated bone resorption and modulates bone metabolism.
 Each risedronate sodium tablet, USP for oral administration contains the equivalent of 75, or 150 mg of anhydrous risedronate sodium in the form of the hemi-pentahydrate.
 The empirical formula for risedronate sodium hemi-pentahydrate is C7H10NO7P2Na •2.5 H2O.
 The chemical name of risedronate sodium is [1-hydroxy-2-(3-pyridinyl)ethylidene]bis[phosphonic acid] monosodium salt.

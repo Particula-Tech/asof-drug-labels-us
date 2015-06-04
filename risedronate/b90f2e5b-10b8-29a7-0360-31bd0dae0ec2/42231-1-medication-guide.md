@@ -1,8 +1,6 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-Risedronate Sodium Tablets, USP
-
-(ris-e-drone-nate soe-dee-um)
+Risedronate Sodium Tablets, USP (ris-e-drone-nate soe-dee-um)
 
 Read the Medication Guide that comes with risedronate sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -177,19 +175,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 All registered trademarks in this document are the property of their respective owners.
 
-APOTEX INC.
-
-Risedronate Sodium Tablets, USP
-
-75 mg, 150 mg
+APOTEX INC. Risedronate Sodium Tablets, USP 75 mg, 150 mg
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, ON | Weston, Florida |
-| Canada | 33326, USA |
-| M9L 1T9 |  |
+| Canada M9L 1T9 | 33326, USA |
 
-Revised: May 2014
+Revised: April 2015
 
-Revision: 8b
+Revision: 9
