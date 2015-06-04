@@ -28,9 +28,9 @@ However, re-treatment with Zoledronic Acid Injection may be considered in patien
 
 - Prior to administration of each dose of Zoledronic Acid Injection, obtain a serum creatinine and creatinine clearance should be calculated based on actual body weight using Cockcroft-Gault formula before each Zoledronic Acid Injection dose.
   Zoledronic Acid Injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
-  A 5 mg dose of Zoledronic Acid Injection administered intravenously is recommended for patients with creatinine clearance greater than 35 mL/min.
+  A 5 mg dose of Zoledronic Acid Injection administered intravenously is recommended for patients with creatinine clearance greater than or equal to 35 mL/min.
   There are no safety or efficacy data to support the adjustment of the Zoledronic Acid Injection dose based on baseline renal function.
-  Therefore, no dose adjustment is required in patients with CrCl greater than 35 mL/min [see Contraindications (4), Warnings and Precautions (5.3)].
+  Therefore, no dose adjustment is required in patients with CrCl greater than or equal to 35 mL/min [see Contraindications (4), Warnings and Precautions (5.3)].
 - A routine oral examination should be performed by the prescriber prior to initiation of Zoledronic Acid Injection treatment [see Warnings and Precautions (5.4)].
 
 ## 2.8 Calcium and Vitamin D Supplementation
@@ -42,7 +42,7 @@ However, re-treatment with Zoledronic Acid Injection may be considered in patien
 
 The Zoledronic Acid Injection infusion time must not be less than 15 minutes given over a constant infusion rate.
 
-The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
+The intravenous infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 
 Zoledronic Acid Injection solution for infusion must not be allowed to come in contact with any calcium or other divalent cation-containing solutions, and should be administered as a single intravenous solution through a separate infusion line.
 
