@@ -7,5 +7,6 @@ Sildenafil citrate, USP is designated chemically as 1-[[3-(6,7-dihydro-1-methyl-
 
 Sildenafil citrate, USP is a white to off-white crystalline powder with a solubility of 3.5 mg/mL in water and a molecular weight of 666.7.
 
-Sildenafil Tablets: Sildenafil tablets are formulated as white to off-white, round shaped film-coated tablets with 20 mg of sildenafil for oral administration.
+Sildenafil Tablets: Sildenafil tablets are formulated as white to off-white, round shaped film-coated tablets for oral administration.
+Each tablet contains sildenafil citrate, USP equivalent to 20 mg of sildenafil.
 In addition to the active ingredient, sildenafil citrate, USP, each tablet contains the following inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.

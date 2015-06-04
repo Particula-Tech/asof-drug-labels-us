@@ -12,3 +12,11 @@ See FDA-approved patient labeling (Patient Information).
 
 This product’s label may have been updated.
 For current full prescribing information, please visit www.amneal.com
+
+Manufactured by: Amneal Pharmaceuticals Co. (I) Pvt.
+Ltd. Ahmedabad, INDIA 382220
+
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+
+Rev.
+03-2015-00

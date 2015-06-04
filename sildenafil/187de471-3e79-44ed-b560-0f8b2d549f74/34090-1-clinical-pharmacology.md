@@ -17,7 +17,29 @@ The inhibition of PDE-5 in these tissues by sildenafil may be the basis for the 
 
 ## 12.2 Pharmacodynamics
 
-Effects of Sildenafil Citrateon Blood Pressure
+Effects of Sildenafil Citrate on Hemodynamic Measures
+
+Patients on all sildenafil citrate doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo in a study with no background vasodilators [Study 1 in Clinical Studies (14)].
+Data on other hemodynamic measures for the sildenafil citrate 20 mg three times a day and placebo dosing regimens is displayed in Table 3.
+The relationship between these effects and improvements in 6-minute walk distance is unknown.
+
+Table 3.
+Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the Sildenafil Citrate 20 mg Three Times a Day and Placebo Group
+
+|  | Placebo (n = 65)* | Sildenafil Citrate 20 mg three times a day (n = 65)* |
+| --- | --- | --- |
+| mPAP (mmHg) | 0.6 (-0.8, 2) | -2.1 (-4.3, 0) |
+| PVR (dyn•s/cm5) | 49 (-54, 153) | -122 (-217, -27) |
+| SVR (dyn•s/cm5) | -78 (-197, 41) | -167 (-307, -26) |
+| RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
+| CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
+| HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
+
+mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate *The number of patients per treatment group varied slightly for each parameter due to missing assessments.
+
+In another study evaluating lower doses of sildenafil 1 mg, 5 mg and 20 mg [Study 3 in Clinical Studies (14)], there were no significant differences in the effects on hemodynamic variables between doses.
+
+Effects of Sildenafil Citrate on Blood Pressure
 
 Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
 The decrease in blood pressure was most notable approximately 1 to 2 hours after dosing, and was not different from placebo at 8 hours.
@@ -25,15 +47,15 @@ Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses 
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4)].
 
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
-After chronic dosing of 80 mg TID to patients with PAH, no clinically relevant effects on ECG were reported.
+After chronic dosing of 80 mg three times a day to patients with PAH, no clinically relevant effects on ECG were reported.
 
-After chronic dosing of 80 mg TID sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9 mmHg and 8.4 mmHg, respectively.
+After chronic dosing of 80 mg three times a day sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9 mmHg and 8.4 mmHg, respectively.
 
-After chronic dosing of 80 mg TID sildenafil to patients with systemic hypertension, the mean change from baseline in systolic and diastolic blood pressures was a decrease of 9.4 mmHg and 9.1 mmHg, respectively.
+After chronic dosing of 80 mg three times a day sildenafil to patients with systemic hypertension, the mean change from baseline in systolic and diastolic blood pressures was a decrease of 9.4 mmHg and 9.1 mmHg, respectively.
 
-After chronic dosing of 80 mg TID sildenafil to patients with PAH, lesser reductions than above in systolic and diastolic blood pressures were observed (a decrease in both of 2 mmHg).
+After chronic dosing of 80 mg three times a day sildenafil to patients with PAH, lesser reductions than above in systolic and diastolic blood pressures were observed (a decrease in both of 2 mmHg).
 
-Effects of Sildenafil Citrateon Vision
+Effects of Sildenafil Citrate on Vision
 
 At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
@@ -112,17 +134,18 @@ Effects of Sildenafil on Other Drugs
 CYP3A Inhibitors and Beta Blockers
 
 Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
-Sildenafil exposure without concomitant medication is shown to be 5-fold higher at a dose of 80 mg TID compared to its exposure at a dose of 20 mg TID.
+Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 
-CYP3A4 inducers
+CYP3A4 Inducers
 
-Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 3-fold increase in sildenafil clearance when it was co-administered with mild CYP3A inducers, which is consistent with the effect of bosentan on sildenafil clearance in healthy volunteers.
 Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
+
+Population pharmacokinetic analysis of data from patients in clinical trials indicated approximately 3-fold the sildenafil clearance when it was co-administered with mild CYP3A inducers.
 
 Epoprostenol
 
-The mean reduction of sildenafil (80 mg TID) bioavailability due to co-administration of epoprostenol was 28%, resulting in about 22% lower mean average steady-state concentrations.
+The mean reduction of sildenafil (80 mg TID three times a day) bioavailability due to when co-administeredationofwith epoprostenol was 28%, resulting in about 22% lower mean average steady-state concentrations.
 Therefore, the slight decrease of sildenafil exposure in the presence of epoprostenol is not considered clinically relevant.
 The effect of sildenafil on epoprostenol pharmacokinetics is not known.
 
