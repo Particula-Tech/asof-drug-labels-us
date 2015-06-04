@@ -21,7 +21,7 @@ Safety and pharmacokinetic data are limited in patients with severe renal impair
 Preexisting renal insufficiency and multiple cycles of Zoledronic Acid Injection and other bisphosphonates are risk factors for subsequent renal deterioration with Zoledronic Acid Injection.
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
-Zoledronic Acid Injection treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
+Zoledronic Acid Injection treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment [see Dosage and Administration (2.1)].
 In the clinical studies, patients with serum creatinine greater than 400 μmol/L or greater than 4.5 mg/dL were excluded.
 
 Zoledronic Acid Injection treatment is not recommended in patients with bone metastases with severe renal impairment.
@@ -88,5 +88,6 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Hypocalcemia has been reported in patients treated with Zoledronic Acid Injection.
 Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
 In some instances, hypocalcemia may be life-threatening.
-Hypocalcemia must be corrected before initiating Zoledronic Acid Injection.
+Caution is advised when Zoledronic Acid Injection is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
+Serum calcium should be measured and hypocalcemia must be corrected before initiating Zoledronic Acid Injection.
 Adequately supplement patients with calcium and vitamin D.
