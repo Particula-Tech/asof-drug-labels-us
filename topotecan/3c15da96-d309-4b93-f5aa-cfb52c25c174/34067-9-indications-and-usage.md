@@ -1,11 +1,13 @@
 # 1 INDICATIONS AND USAGE
 
-HYCAMTIN is indicated for the treatment of:
+## 1.1 Ovarian Cancer
 
-- •metastatic carcinoma of the ovary after failure of initial or subsequent chemotherapy.
-- •small cell lung cancer sensitive disease after failure of first-line chemotherapy.
-  In clinical studies submitted to support approval, sensitive disease was defined as disease responding to chemotherapy but subsequently progressing at least 60 days (in the Phase 3 study) or at least 90 days (in the Phase 2 studies) after chemotherapy [see Clinical Studies(14)].
+HYCAMTIN for injection, as a single agent, is indicated for the treatment of patients with metastatic carcinoma of the ovary after disease progression on or after initial or subsequent chemotherapy.
 
-HYCAMTIN in combination with cisplatin is indicated for the treatment of:
+## 1.2 Small Cell Lung Cancer
 
-- •Stage IV-B, recurrent, or persistent carcinoma of the cervix which is not amenable to curative treatment with surgery and/or radiation therapy.
+HYCAMTIN for injection, as a single agent, is indicated for the treatment of patients with small cell lung cancer with platinum-sensitive disease who progressed at least 60 days after initiation of first‑line chemotherapy.
+
+## 1.3 Cervical Cancer
+
+HYCAMTIN for injection in combination with cisplatin is indicated for the treatment of patients with Stage IV-B, recurrent, or persistent carcinoma of the cervix not amenable to curative treatment.

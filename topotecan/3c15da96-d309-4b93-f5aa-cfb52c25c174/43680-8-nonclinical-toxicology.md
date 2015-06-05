@@ -10,5 +10,5 @@ Topotecan did not cause mutations in bacterial cells.
 
 Topotecan given to female rats prior to mating at a dose of 1.4 mg/m2 IV (about equal to the clinical dose on a mg/m2 basis) caused superovulation possibly related to inhibition of follicular atresia.
 This dose given to pregnant female rats also caused increased pre-implantation loss.
-Studies in dogs given 0.4 mg/m2 IV (about 1/4th the clinical dose on a mg/m2 basis) of topotecan daily for a month suggest that treatment may cause an increase in the incidence of multinucleated spermatogonial giant cells in the testes.
+Studies in dogs given 0.4 mg/m2 IV (about 0.25 times the clinical dose on a mg/m2 basis) of topotecan daily for a month suggest that treatment may cause an increase in the incidence of multinucleated spermatogonial giant cells in the testes.
 Topotecan may impair fertility in women and men.

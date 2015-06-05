@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0007-4201-01
 
@@ -15,7 +15,7 @@ For Intravenous Use
 Rx only
 
 Store at controlled room temperature between 20o and 25oC (68o and 77oF) [see USP].
-Protect from light; product is light-sensitive.
+Protect from light in original carton.
 
 Dosage: See accompanying prescribing information.
 Hycamtin is cytotoxic.
@@ -28,4 +28,4 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-10000000023714
+DEVCOMP-0004140

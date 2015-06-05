@@ -1,7 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-HYCAMTIN for Injection is supplied in 4-mg (free base) single-dose vials.
+## 16.1 How Supplied
+
+HYCAMTIN for injection is supplied as a sterile, lyophilized, buffered, light yellow to greenish powder.
+HYCAMTIN for Injection is supplied in 4-mg (free base) single‑dose vials.
 
 NDC 0007-4201-01 (package of 1)
 
-Storage: Store the vials protected from light in the original cartons at controlled room temperature between 20° and 25°C (68° and 77°F) [see USP].
+## 16.2 Storage and Handling
+
+Store at controlled room temperature between 20°C and 25°C (68°F and 77°F) [see USP].
+Protect from light in original carton.
+Handle and dispose of HYCAMTIN for injection consistent with recommendations for the handling and disposal of hazardous drugs1.

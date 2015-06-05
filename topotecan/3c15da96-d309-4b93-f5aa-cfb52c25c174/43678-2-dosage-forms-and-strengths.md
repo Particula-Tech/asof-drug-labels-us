@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-4-mg (free base) single-dose vial; light yellow to greenish powder.
+For injection: 4 mg (topotecan free base) lyophilized powder in single-use vial for reconstitution; light yellow to greenish powder.
