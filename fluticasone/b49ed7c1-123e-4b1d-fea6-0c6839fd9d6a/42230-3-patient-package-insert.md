@@ -60,7 +60,7 @@ Tell your healthcare provider about all of your health conditions, including if 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 FLOVENT HFA and certain other medicines may interact with each other.
 This may cause serious side effects.
-Especially, tell your healthcare provider if you takeantifungal or anti-HIV medicines.
+Especially, tell your healthcare provider if you take antifungal or anti-HIV medicines.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -71,7 +71,7 @@ Read the step-by-step instructions for using FLOVENT HFA at the end of this Pati
 
 - •Do not use FLOVENT HFA unless your healthcare provider has taught you how to use the inhaler and you understand how to use it correctly.
 - •Children should use FLOVENT HFA with an adult’s help, as instructed by the child’s healthcare provider.
-- •Flovent HFA comes in 3 different strengths.
+- •FLOVENT HFA comes in 3 different strengths.
   Your healthcare provider has prescribed the strength that is best for you.
 - •Use FLOVENT HFA exactly as your healthcare provider tells you to use it.
   Do not use FLOVENT HFA more often than prescribed.
@@ -103,7 +103,7 @@ FLOVENT HFA can cause serious side effects, including:
 - •weakened immune system and increased chance of getting infections (immunosuppression).
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
-  This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT HFAHFA).
+  This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT HFA).
   When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.
 - Symptoms of adrenal insufficiency include:
   1. •feeling tired
@@ -146,7 +146,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store FLOVENT HFA?
 
 - •Store FLOVENT HFA at room temperature between 68°F and 77°F (20°C and 25°C) with the mouthpiece down.
-- •The contents of your FLOVENT HFA inhaler are under pressure.Do not puncture.
+- •The contents of your FLOVENT HFA inhaler are under pressure.
+  Do not puncture.
   Do not use or store near heat or open flame.
   Temperatures above 120°F may cause the canister to burst.
 - •Do not throw into fire or an incinerator.
@@ -176,7 +177,7 @@ Instructions for Use
 
 For Oral Inhalation Only
 
-Your FLOVENT HFA
+Your FLOVENT HFA inhaler
 
 - •The metal canister holds the medicine.
   See Figure A.
@@ -186,7 +187,7 @@ Figure A
 - •The canister has a counter to show how many sprays of medicine you have left.
   The number shows through a window in the back of the actuator.
   See Figure B.
-- 
+
 - Figure B
 
 - •The counter starts at 124.
@@ -213,15 +214,13 @@ Priming your FLOVENT HFA inhaler
 - •Before you use FLOVENT HFA for the first time, you must prime the inhaler so that you will get the right amount of medicine when you use it.
 - •To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
   Then spray the inhaler 1 time into the air away from your face.
-  See Figure C.Avoid spraying in eyes.
-- 
+  See Figure C. Avoid spraying in eyes.
 
 Figure C
 
 - •Shake and spray the inhaler like this 3 more times to finish priming it.
   The counter should now read 120.
   See Figure D.
-- 
 
 Figure D
 
@@ -247,11 +246,10 @@ See Figure E.
 
 Figure E
 
-- Step 3.
-  Breathe out through your mouth and push as much air from your lungs as you can.
-  Put the mouthpiece in your mouth and close your lips around it.
-  See Figure F.
-- 
+Step 3.
+Breathe out through your mouth and push as much air from your lungs as you can.
+Put the mouthpiece in your mouth and close your lips around it.
+See Figure F.
 
 Figure F
 
@@ -273,7 +271,6 @@ Repeat steps 2 through 6.
   Spit out the water.
   Do not swallow it.
   See Figure G.
-- 
 
 Figure G
 
@@ -297,16 +294,14 @@ Figure H
   Use a clean cotton swab dampened with water to clean the small circular opening where the medicine sprays out of the canister.
   Gently twist the swab in a circular motion to take off any medicine.
   See Figure I. Repeat with a new swab dampened with water to take off any medicine still at the opening.
-- 
 
 Figure I
 
-Step 11.
-Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-Let the actuator air-dry overnight.
-
-Step 12.
-Put the cap back on the mouthpiece after the actuator has dried.
+- Step 11.
+  Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+  Let the actuator air-dry overnight.
+- Step 12.
+  Put the cap back on the mouthpiece after the actuator has dried.
 
 Replacing your FLOVENT HFA inhaler
 

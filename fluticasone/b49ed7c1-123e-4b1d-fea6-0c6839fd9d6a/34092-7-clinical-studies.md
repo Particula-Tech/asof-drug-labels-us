@@ -37,7 +37,7 @@ Figure 2 displays the mean percent change from baseline in FEV1 from Week 1 thro
 This trial also used predetermined criteria for lack of efficacy, resulting in withdrawal of more subjects in the placebo group; therefore, pulmonary function results at Endpoint are also displayed.
 
 Figure 2.
-A 12-Week Clinical Trial in Subjects Aged 12 Years and Older Already Receiving Daily Inhaled Corticosteroids: Mean Percent Change from Baselinein FEV1 Prior to AM Dose (Trial 2)
+A 12-Week Clinical Trial in Subjects Aged 12 Years and Older Already Receiving Daily Inhaled Corticosteroids: Mean Percent Change from Baseline in FEV1 Prior to AM Dose (Trial 2)
 
 In both trials, use of VENTOLIN, AM and PM PEF, and asthma symptom scores showed numerical improvement with FLOVENT HFA compared with placebo.
 

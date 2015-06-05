@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0718-20
 
@@ -10,13 +10,13 @@ Inhalation Aerosol
 
 For oral inhalation with FLOVENT HFA actuator only.
 
-Attention Pharmacist: Dispense with enclosed “Patient Information.”
+Attention Pharmacist: Detach Patient Information leaflet from package insert and dispense with inhaler.
 
 See prescribing information for dosage information.
 
 Rx only
 
-With Dose Counter
+With Counter
 
 Net Wt.
 10.6g
@@ -25,12 +25,12 @@ Net Wt.
 
 Made in UK
 
-©2013, GlaxoSmithKline
+©2015, the GSK group of companies
 
-10000000120650 Rev.
-9/13
+62000000003138 Rev.
+2/15
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0719-20
 
@@ -42,13 +42,13 @@ Inhalation Aerosol
 
 For oral inhalation with FLOVENT HFA actuator only.
 
-Attention Pharmacist: Dispense with enclosed “Patient Information.”
+Attention Pharmacist: Detach Patient Information leaflet from package insert and dispense with inhaler.
 
 See prescribing information for dosage information.
 
 Rx only
 
-With Dose Counter
+With Counter
 
 Net Wt.
 12 g
@@ -57,12 +57,12 @@ Net Wt.
 
 Made in Singapore
 
-©2013, GlaxoSmithKline
+©2015, the GSK group of companies
 
-10000000120662 Rev.
-9/13
+62000000003142 Rev.
+2/15
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0720-20
 
@@ -74,13 +74,13 @@ Inhalation Aerosol
 
 For oral inhalation with FLOVENT HFA actuator only.
 
-Attention Pharmacist: Dispense with enclosed “Patient Information.”
+Attention Pharmacist: Detach Patient Information leaflet from package insert and dispense with inhaler.
 
 See prescribing information for dosage information.
 
 Rx only
 
-With Dose Counter
+With Counter
 
 Net Wt.
 12 g
@@ -89,7 +89,7 @@ Net Wt.
 
 Made in Singapore
 
-©2013, GlaxoSmithKline
+©2015, the GSK group of companies
 
-10000000120661 Rev.
-9/13
+62000000003146 Rev.
+2/15
