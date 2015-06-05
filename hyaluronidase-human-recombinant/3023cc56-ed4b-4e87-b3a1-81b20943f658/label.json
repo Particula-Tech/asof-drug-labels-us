@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021859"
+  ],
+  "inn": "hyaluronidase-human-recombinant",
+  "labeler": "Halozyme, Inc.",
+  "package_ndcs": [
+    "18657-117-01",
+    "18657-117-02",
+    "18657-117-04",
+    "18657-117-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hyaluronidase (human recombinant)",
+      "name": "HYLENEX Recombinant"
+    }
+  ],
+  "setid": "3023cc56-ed4b-4e87-b3a1-81b20943f658",
+  "source": "dailymed"
+}
