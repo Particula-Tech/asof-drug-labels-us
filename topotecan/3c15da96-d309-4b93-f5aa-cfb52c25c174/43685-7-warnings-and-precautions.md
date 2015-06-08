@@ -10,12 +10,11 @@ Severe myelotoxicity has been reported when HYCAMTIN is used in combination with
 
 Neutropenia
 
-Monotherapy: Grade 4 neutropenia (less than 500 cells/mm3) occurred in 78% of patients, with a median duration of 7 days and was most common during Course 1 of treatment (58% of patients).
-Grade 4 neutropenia associated with infection occurred in 13% of patients and febrile neutropenia occurred in 5% of patients.
-Sepsis occurred in 4% of patients and was fatal in 1% of patients.
-Pancytopenia has been reported.
-
-Combination with cisplatin: Grade 4 neutropenia occurred in 48% of patients.
+- •Monotherapy: Grade 4 neutropenia (less than 500 cells/mm3) occurred in 78% of patients, with a median duration of 7 days and was most common during Course 1 of treatment (58% of patients).
+  Grade 4 neutropenia associated with infection occurred in 13% of patients and febrile neutropenia occurred in 5% of patients.
+  Sepsis occurred in 4% of patients and was fatal in 1% of patients.
+  Pancytopenia has been reported.
+- •Combination with cisplatin: Grade 4 neutropenia occurred in 48% of patients.
 
 Thrombocytopenia
 
