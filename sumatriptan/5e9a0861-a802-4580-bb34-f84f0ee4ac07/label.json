@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA022239"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Endo Pharmaceuticals",
+  "package_ndcs": [
+    "63481-229-01",
+    "63481-229-06",
+    "63481-229-51",
+    "63481-229-54",
+    "63481-367-01",
+    "63481-367-06",
+    "63481-367-51",
+    "63481-367-54"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sumatriptan",
+      "name": "Sumavel DosePro"
+    }
+  ],
+  "setid": "5e9a0861-a802-4580-bb34-f84f0ee4ac07",
+  "source": "dailymed"
+}
