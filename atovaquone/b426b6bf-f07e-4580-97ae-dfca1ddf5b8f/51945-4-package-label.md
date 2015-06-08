@@ -1,4 +1,4 @@
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0665-18
 
@@ -34,7 +34,7 @@ Made in India
 A107757 Rev.
 6/12
 
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0547-00
 
@@ -53,12 +53,13 @@ Each 5 mL sachet (1 teaspoonful) contains 750 mg atovaquone.
 Store at 15o to 25oC (59o to 77oF).
 DO NOT FREEZE.
 
-Rx only
-
 See accompanying prescribing information for Dosage and Administration.
+
+Rx only
 
 Contains 42 sachets of 5 mL each
 
-©2012, GlaxoSmithKline
+©2015, the GSK group of companies
 
-A107852
+A133004 Rev.
+2/15

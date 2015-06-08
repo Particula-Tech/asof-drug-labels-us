@@ -1,25 +1,23 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Dosage
+## 2.1 Dosage for the Prevention of P. jiroveci Pneumonia
 
-### Prevention of PCP: Adults and Adolescents (13 to 16 Years)
+The recommended oral dosage is 1,500 mg (10 mL) once daily administered with food.
 
-The recommended oral dose is 1,500 mg (10 mL) once daily administered with a meal.
+## 2.2 Dosage for the Treatment of Mild-to-Moderate P. jiroveci Pneumonia
 
-### Treatment of Mild-to-Moderate PCP: Adults and Adolescents (13 to 16 Years)
+The recommended oral dosage is 750 mg (5 mL) twice daily (total daily dose = 1,500 mg) administered with food for 21 days.
 
-The recommended oral dose is 750 mg (5 mL) administered with meals twice daily for 21 days (total daily dose 1,500 mg).
+## 2.3 Important Administration Instructions
 
-Note: Failure to administer MEPRON Suspension with meals may result in lower plasma atovaquone concentrations and may limit response to therapy (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+Administer MEPRON oral suspension with food to avoid lower plasma atovaquone concentrations that may limit response to therapy [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
-## Administration
+MEPRON Foil Pouch
 
-### Foil Pouch
+- •Open each 5-mL pouch by removing tab at perforation and tear at notch.
+- •For a 5-mL dose, take entire contents either by placing directly into the mouth or by dispensing into a dosing spoon (5 mL) or cup prior to administration by mouth.
+- •For a 10-mL dose, take the entire contents of two pouches.
 
-Open pouch by removing tab at perforation and tear at notch.
-Take entire contents by mouth.
-Can be discharged into a dosing spoon or cup or directly into the mouth.
+MEPRON Bottle
 
-### Bottle
-
-SHAKE BOTTLE GENTLY BEFORE USING.
+Shake bottle gently before administering the recommended dosage.
