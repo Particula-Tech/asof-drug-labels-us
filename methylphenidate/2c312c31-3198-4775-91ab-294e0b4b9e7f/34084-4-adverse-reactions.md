@@ -106,7 +106,7 @@ Cardiac Disorders: palpitations
 
 Eye Disorders: visual disturbances, blurred vision, mydriasis, accommodation disorder
 
-General Disorders and Administration Site Disorders: application site reactions such as bleeding, bruising, burn, burning, dermatitis, discharge, discoloration, discomfort, dryness, eczema, edema, erosion, erythema, excoriation, exfoliation, fissure, hyperpigmentation, hypopigmentation/vitiligo, induration, infection, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, scab, swelling, ulcer, urticaria, vesicles, and warmth.
+General Disorders and Administration Site Disorders: application site reactions such as bleeding, bruising, burn, burning, dermatitis, discharge, discoloration, discomfort, dryness, eczema, edema, erosion, erythema, excoriation, exfoliation, fissure, hyperpigmentation, hypopigmentation, induration, infection, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, scab, swelling, ulcer, urticaria, vesicles, and warmth.
 
 Immune System Disorders: hypersensitivity reactions including generalized erythematous and urticarial rashes, allergic contact dermatitis, angioedema, and anaphylaxis
 
