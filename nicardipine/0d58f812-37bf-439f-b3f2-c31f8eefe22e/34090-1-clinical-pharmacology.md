@@ -75,7 +75,7 @@ Pulmonary Function
 
 In two well-controlled studies of patients with obstructive airway disease treated with oral nicardipine, no evidence of increased bronchospasm was seen.
 In one of the studies, oral nicardipine improved forced expiratory volume 1 second (FEV1) and forced vital capacity (FVC) in comparison with metoprolol.
-Adverse experiences reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease are similar to all patients treated with oral nic
+Adverse experiences reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease are similar to all patients treated with oral nicardipine.
 
 ## 12.3 Pharmacokinetics
 

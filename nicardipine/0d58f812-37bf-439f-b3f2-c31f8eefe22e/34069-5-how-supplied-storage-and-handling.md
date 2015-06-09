@@ -20,15 +20,15 @@ Protect from light, store in carton until ready to use.
 
 | Manufactured by: | Marketed by: |
 | --- | --- |
-| Baxter Healthcare Corporation | Cornerstone Therapeutics, Inc. |
+| Baxter Healthcare Corporation | Chiesi USA, Inc. |
 | Deerfield, IL 60015 USA | Cary, NC 27518 USA |
 
 To report an adverse event, record the lot number and call Medical Information at 1-888-661-9260.
 
 CARDENE® is a registered trademark of EKR Therapeutics, Inc. Galaxy is a registered trademark of Baxter International Inc. U.S. Patent Numbers 7612102 and 7659291
 
-Revised July 2014
+Revised April 2015
 
-CTCI-001-0114-01-SPL
+CTCI-001-1014-02-SPL
 
-07-19-73-339
+07-19-73-960
