@@ -298,7 +298,7 @@ All subjects had used greater than or equal to 2 NRTIs, 62% of subjects had used
 Twenty subjects (95%) completed the 48 week period.
 One subject prematurely discontinued treatment due to vomiting assessed as related to ritonavir.
 
-The proportion of subjects with HIV-1 RNA less than 50 copies/mL at Week 48 was 71%..
+The proportion of subjects with HIV-1 RNA less than 50 copies/mL at Week 48 was 71%.
 The mean increase in CD4+ percentage from baseline was 4%.
 The mean change in CD4+ cell count from baseline was 187 × 106 cells/L.
 

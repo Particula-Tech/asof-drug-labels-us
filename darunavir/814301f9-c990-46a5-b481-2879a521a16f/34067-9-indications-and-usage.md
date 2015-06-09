@@ -15,5 +15,5 @@ The indication for treatment-naïve pediatric patients or antiretroviral treatme
 
 In treatment-experienced adult and pediatric patients, the following points should be considered when initiating therapy with PREZISTA/ritonavir:
 
-- Treatment history and, when available, genotypic or phenotypic testing should guide the use of PREZISTA/ritonavir [see Clinical Pharmacology (12.4)].
-- The use of other active agents with PREZISTA/ritonavir is associated with a greater likelihood of treatment response [see Clinical Pharmacology (12.4) and Clinical Studies (14.3)].
+- Treatment history and, when available, genotypic or phenotypic testing should guide the use of PREZISTA/ritonavir [see Microbiology (12.4)].
+- The use of other active agents with PREZISTA/ritonavir is associated with a greater likelihood of treatment response [see Microbiology (12.4) and Clinical Studies (14.3)].

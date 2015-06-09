@@ -44,7 +44,7 @@ Twice daily dosing
 
 Once daily dosing
 
-- Results from one trial in treatment-naive pediatric subjects 12 to less than 18 years of age demonstrating similar darunavir plasma exposures, virologic response rate and safety profile compared to treatment-naive adults.
+- Results from one trial in treatment-naïve pediatric subjects 12 to less than 18 years of age demonstrating similar darunavir plasma exposures, virologic response rate and safety profile compared to treatment-naïve adults.
 - Results from population pharmacokinetic modeling and simulation in children 3 to less than 12 years of age predicting similar darunavir plasma exposures compared to treatment-naïve adults.
   Although no clinical trial was conducted to collect exposure-safety data, the predicted exposures from the once daily dosing is supported by exposures observed in a pediatric clinical trial where twice-daily dosing was administered.
 
@@ -65,7 +65,7 @@ Table 2: Recommended dose for pediatric patients weighing 10 kg to less than 15 
 | Greater than or equal to 13 kg to less than 14 kg | PREZISTA 4.6 mL (455 mg) with ritonavir 1 mL (80 mg) |
 | Greater than or equal to 14 kg to less than 15 kg | PREZISTA 5 mL (490 mg) with ritonavir 1.2 mL (96 mg) |
 
-Pediatric patients weighing at least 15 kg
+• Pediatric patients weighing at least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 

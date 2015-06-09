@@ -158,7 +158,7 @@ Psychiatric Disorders: abnormal dreams
 
 Skin and Subcutaneous Tissue Disorders: pruritus, urticaria
 
-Laboratory abnormalities:
+Laboratory abnormalities
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented inTable 10.
 

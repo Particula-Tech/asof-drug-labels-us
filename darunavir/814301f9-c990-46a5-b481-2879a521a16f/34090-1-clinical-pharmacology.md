@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Darunavir is an HIV-1 antiviral drug [see Clinical Pharmacology (12.4)].
+Darunavir is an HIV-1 antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -109,7 +109,7 @@ The pharmacokinetics of darunavir in combination with ritonavir in 93 antiretrov
 
 PREZISTA/ritonavir administered once daily:
 
-The pharmacokinetics of darunavir in combination with ritonavir in 12 antiretroviral treatment-naïve HIV-1-infected pediatric subjects 12 to less than 18 years of age and weighing at least 40 kg receiving PREZISTA/ritonavir 800/100 mg once daily resulted in similar darunavir exposures when compared to the darunavir exposure achieved in treatment-naive adults receiving PREZISTA/ritonavir 800/100 mg once daily.
+The pharmacokinetics of darunavir in combination with ritonavir in 12 antiretroviral treatment-naïve HIV-1-infected pediatric subjects 12 to less than 18 years of age and weighing at least 40 kg receiving PREZISTA/ritonavir 800/100 mg once daily resulted in similar darunavir exposures when compared to the darunavir exposure achieved in treatment-naïve adults receiving PREZISTA/ritonavir 800/100 mg once daily.
 [see Dosage and Administration (2.2)].
 
 Based on population pharmacokinetic modeling and simulation, the proposed PREZISTA/ritonavir once daily dosing regimens for pediatric patients 3 to less than 12 years of age is predicted to result in similar darunavir exposures when compared to the darunavir exposures achieved in treatment-naïve adults receiving PREZISTA/ritonavir 800/100 mg once daily [see Dosage and Administration (2.2)].
@@ -133,12 +133,13 @@ Drug Interactions
 
 [See also Contraindications (4), Warnings and Precautions (5.5), and Drug Interactions (7).]
 
-Darunavir co-administered with ritonavir is an inhibitor of CYP3A and CYP2D6.
-Co-administration of darunavir and ritonavir with drugs primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events.
+Darunavir co-administered with ritonavir is an inhibitor of CYP3A, CYP2D6, and P-gp.
+Co-administration of darunavir and ritonavir with drugs primarily metabolized by CYP3A and CYP2D6, or are transported by P-gp, may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events.
 
 Darunavir and ritonavir are metabolized by CYP3A.
+In vitro data indicate that darunavir may be a P-gp substrate.
 Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and ritonavir, resulting in lowered plasma concentrations of darunavir and ritonavir.
-Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir.
+Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A or P-gp may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir.
 
 Drug interaction studies were performed with darunavir and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
 The effects of co-administration of darunavir on the AUC, Cmax, and Cmin values are summarized in Table 14 (effect of other drugs on darunavir) and Table 15 (effect of darunavir on other drugs).
@@ -167,6 +168,7 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
 | BoceprevirAUC is AUC(0-last); N=10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
 | Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N=14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
+| Simeprevir | 50 mg q.d. The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with darunavir/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group. | 800 mg q.d. | 25Maximum number of subjects | ↑ | 1.04 (0.99–1.10) | 1.18 (1.11–1.25) | 1.31 (1.13–1.52) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Artemether/ Lumefantrine | 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 14 | ↔ | 1.00 (0.93–1.07) | 0.96 (0.90–1.03) | 0.87 (0.77–0.98) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
@@ -174,8 +176,9 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Ketoconazole | 200 mg b.i.d. | 400/100 mg b.i.d. | 14 | ↑ | 1.21 (1.04–1.40) | 1.42 (1.23–1.65) | 1.73 (1.39–2.14) |
 | Omeprazole | 20 mg q.d. | 400/100 mg b.i.d. | 16 | ↔ | 1.02 (0.95–1.09) | 1.04 (0.96–1.13) | 1.08 (0.93–1.25) |
 | Paroxetine | 20 mg q.d. | 400/100 mg b.i.d. | 16 | ↔ | 0.97 (0.92–1.02) | 1.02 (0.95–1.10) | 1.07 (0.96–1.19) |
+| Pitavastatin | 4 mg q.d. | 800/100 mg q.d. | 27 | ↔ | 1.06 (1.00–1.12) | 1.03 (0.95–1.12) | NA |
 | Ranitidine | 150 mg b.i.d. | 400/100 mg b.i.d. | 16 | ↔ | 0.96 (0.89–1.05) | 0.95 (0.90–1.01) | 0.94 (0.90–0.99) |
-| Rifabutin | 150 mg q.o.d. q.o.d. = every other day | 600/100 mg b.i.d. | 11 | ↑ | 1.42 (1.21–1.67) | 1.57 (1.28–1.93) | 1.75 (1.28–2.37) |
+| Rifabutin | 150 mg q.o.d.q.o.d. = every other day | 600/100 mg b.i.d. | 11 | ↑ | 1.42 (1.21–1.67) | 1.57 (1.28–1.93) | 1.75 (1.28–2.37) |
 | Sertraline | 50 mg q.d. | 400/100 mg b.i.d. | 13 | ↔ | 1.01 (0.89–1.14) | 0.98 (0.84–1.14) | 0.94 (0.76–1.16) |
 | N=number of subjects with data |  |  |  |  |  |  |  |
 
@@ -207,6 +210,7 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
 | Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 12N=11 for the test arm | ↓ | 0.75 (0.67–0.85) | 0.68 (0.65–0.72) | 0.65 (0.56–0.76) |
 | Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N=14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
+| Simeprevir | 50 mg q.d. The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with darunavir/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group. | 800/100 mg q.d. | 25Maximum number of subjects | ↑ | 1.79 (1.55–2.06) | 2.59 (2.15–3.11) | 4.58 (3.54–5.92) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Atorvastatin | 40 mg q.d. when administered alone | 300/100 mg b.i.d. | 15 | ↑ | 0.56 (0.48–0.67) | 0.85 (0.76–0.97) | 1.81 (1.37–2.40) |
 |  | 10 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
@@ -230,6 +234,7 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Omeprazole | 40 mg single dose | 600/100 mg b.i.d. | 12 | ↓ | 0.66 (0.48–0.90) | 0.58 (0.50–0.66) | - |
 | 5-hydroxy omeprazole |  |  |  | ↓ | 0.93 (0.71–1.21) | 0.84 (0.77–0.92) | - |
 | Paroxetine | 20 mg q.d. | 400/100 mg b.i.d. | 16 | ↓ | 0.64 (0.59–0.71) | 0.61 (0.56–0.66) | 0.63 (0.55–0.73) |
+| Pitavastatin | 4 mg q.d. | 800/100 mg q.d. | 27 | ↓ | 0.96 (0.84–1.09) | 0.74 (0.69–0.80) | NA |
 | Pravastatin | 40 mg single dose | 600/100 mg b.i.d. | 14 | ↑ | 1.63 (0.95–2.82) | 1.81 (1.23–2.66) | - |
 | Rifabutin | 150 mg q.o.d. q.o.d. = every other day when administered with PREZISTA/ritonavir | 600/100 mg b.i.d. In comparison to rifabutin 300 mg q.d. | 11 | ↑ | 0.72 (0.55–0.93) | 0.93 (0.80–1.09) | 1.64 (1.48–1.81) |
 | 25-O-desacetyl-rifabutin | 300 mg q.d. when administered alone |  | 11 | ↑ | 4.77 (4.04–5.63) | 9.81 (8.09–11.9) | 27.1 (22.2–33.2) |
@@ -282,7 +287,7 @@ Examination of isolates from subjects who failed on PREZISTA/ritonavir 800/100 m
 Isolates from 2 subjects developed PI resistance associated substitutions associated with decreased susceptibility to darunavir; 1 subject isolate in the PREZISTA/ritonavir 800/100 mg once daily arm, developed substitutions V32I, M46I, L76V and I84V associated with a 24-fold decreased susceptibility to darunavir, and 1 subject isolate in the PREZISTA/ritonavir 600/100 mg twice daily arm developed substitutions L33F and I50V associated with a 40-fold decreased susceptibility to darunavir.
 In the PREZISTA/ritonavir 800/100 mg once daily and PREZISTA/ritonavir 600/100 mg twice daily groups, isolates from 7 (7/60, 12%) and 4 (4/42, 10%) virologic failures, respectively, developed decreased susceptibility to an NRTI included in the treatment regimen.
 
-Clinical studies of PREZISTA/ritonavir in treatment-naive subjects: In the 192-week as-treated analysis censoring those who discontinued before Week 4 of the Phase 3 Study TMC114-C211, the percentage of virologic failures (never suppressed, rebounders and discontinued before achieving suppression) was 22% (64/288) in the group of subjects receiving PREZISTA/ritonavir 800/100 mg once daily compared to 29% (76/263) of subjects receiving lopinavir/ritonavir 800/200 mg per day.
+Clinical studies of PREZISTA/ritonavir in treatment-naïve subjects: In the 192-week as-treated analysis censoring those who discontinued before Week 4 of the Phase 3 Study TMC114-C211, the percentage of virologic failures (never suppressed, rebounders and discontinued before achieving suppression) was 22% (64/288) in the group of subjects receiving PREZISTA/ritonavir 800/100 mg once daily compared to 29% (76/263) of subjects receiving lopinavir/ritonavir 800/200 mg per day.
 In the PREZISTA/ritonavir arm, emergent PI resistance-associated substitutions were identified in 11 of the virologic failures with post-baseline genotypic data (n=43).
 However, none of the darunavir virologic failures had a decrease in darunavir susceptibility (greater than 7-fold change) at failure.
 In the comparator lopinavir/ritonavir arm, emergent PI resistance-associated substitutions were identified in 17 of the virologic failures with post-baseline genotypic data (n=53), but none of the lopinavir/ritonavir virologic failures had decreased susceptibility to lopinavir (greater than 10-fold change) at failure.

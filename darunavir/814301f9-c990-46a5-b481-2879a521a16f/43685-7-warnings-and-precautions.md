@@ -50,7 +50,7 @@ Initiation of PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medic
 Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of PREZISTA/ritonavir, respectively.
 These interactions may lead to:
 
-- Clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
+- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
 - Clinically significant adverse reactions from greater exposures of PREZISTA/ritonavir.
 - Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance.
 

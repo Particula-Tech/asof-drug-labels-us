@@ -77,8 +77,11 @@ Do not take PREZISTA with any of the following medicines:
 - ergot-containing medicines: dihydroergotamine (D.H.E.
   45®, Embolex®, Migranal®), ergotamine (Cafergot®, Ergomar®) methylergonovine
 - cisapride
+- colchicine, if you have liver or kidney problems
+- dronedarone (Multaq®)
 - pimozide (Orap®)
 - oral midazolam (Versed®), triazolam (Halcion®)
+- ranolazine (Ranexa®)
 - the herbal supplement St. John's Wort (Hypericum perforatum)
 - the cholesterol lowering medicines lovastatin (Mevacor®, Altoprev®, Advicor®) or simvastatin (Zocor®, Simcor®, Vytorin®)
 - rifampin (Rifadin®, Rifater®, Rifamate®, Rimactane®)
@@ -117,43 +120,66 @@ The generic name is provided, followed by examples of possible brand names for t
   PREZISTA might reduce the effectiveness of estrogen-based contraceptives.
   You must take additional precautions for birth control such as a condom.
 - medicines to prevent organ transplant rejection such as cyclosporine (Gengraf®, Sandimmune®, Neoral®), tacrolimus (Prograf®), sirolimus (Rapamune®)
+- any medicines that contain steroids
 - amiodarone (Pacerone®, Cardarone®)
+- amitriptyline
+- amlodipine
+- apixaban (Eliquis®)
 - artemether/lumefantrine (Coartem®)
 - atorvastatin (Lipitor®)
+- avanafil (Stendra®)
 - bepridil (Bepadin®, Vascor®)
 - boceprevir (Victrelis™)
 - bosentan (Tracleer®)
+- budesonide (Entocort®, Pulmicort Flexhaler®, Pulmicort respules®, Rhinocort®, Symbicort®, Uceris®)
 - buprenorphine (Butrans®, Buprenex®, Subutex®)
 - buprenorphine/naloxone (Suboxone®, Zubsolv®)
+- buspirone
 - carbamazepine (Carbatrol®, Equetro®, Tegretol®, Epitol®)
+- carvedilol (Coreg®)
 - clarithromycin (Prevpac®, Biaxin®)
 - colchicine (Colcrys®, Col-Probenecid®)
+- dabigatran etexilate (Pradaxa®)
+- dasatinib (Sprycel®)
 - desipramine (Norpramin®)
 - dexamethasone (Ozurdex®)
+- diazepam (Valium®)
 - digoxin (Lanoxin®)
+- diltiazem
+- disopyramide (Norpace®)
+- estazolam
+- everolimus (Zortress®, Afinitor®)
 - felodipine (Plendil®)
 - flecainide (Tambocor®)
 - fluticasone (Advair Diskus®, Veramyst®, Flovent®, Flonase®)
+- imipramine
 - itraconazole (Sporanox®, Onmel®)
 - ketoconazole (Nizoral®)
 - lidocaine (Xylocaine Viscous®)
 - methadone (Methadose®)
 - metoprolol (Lopressor®, Toprol-XL®)
+- mexiletine (Mexitil®)
 - nicardipine (Cardene®)
 - nifedipine (Procardia®, Adalat CC®, Afeditab CR®)
+- nilotinib (Tasigna®)
+- nortriptyline
 - paroxetine (Paxil®, Pexeva®)
 - phenobarbital
 - phenytoin (Dilantin®, Phenytek®)
-- pravastatin (Pravachol®),
+- posaconazole
+- pravastatin (Pravachol®)
 - propafenone (Rythmol®)
 - quetiapine (Seroquel®)
 - quinidine (Nuedexta®)
 - rifabutin (Mycobutin®)
+- rifapentine (Priftin®)
 - risperidone (Risperdal®)
+- rivaroxaban (Xaralto®)
 - rosuvastatin (Crestor®)
 - salmeterol (Advair®, Serevent®)
 - sertraline (Zoloft®)
 - sildenafil (Viagra®, Revatio®)
+- simeprevir (OLYSIO™)
 - tadalafil (Cialis®, Adcirca®)
 - telaprevir (IncivekTM)
 - thioridazine (Mellaril®)
@@ -161,7 +187,11 @@ The generic name is provided, followed by examples of possible brand names for t
 - trazodone (Oleptro®, Desyrel®)
 - warfarin (Coumadin®, Jantoven®)
 - vardenafil (Levitra®, Staxyn®)
+- verapamil
+- vinblastine
+- vincristine (Marquibo®)
 - voriconazole (VFend®)
+- zolpidem (Ambien®)
 
 This is not a complete list of medicines that you should tell your healthcare provider that you are taking.
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -228,8 +258,12 @@ PREZISTA can cause side effects including:
 
 The most common side effects of PREZISTA include:
 
-| diarrheanausearash | headacheabdominal painvomiting |
-| --- | --- |
+- diarrhea
+- nausea
+- rash
+- headache
+- abdominal pain
+- vomiting
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -267,7 +301,7 @@ Active ingredient: darunavir
 
 Inactive ingredients:
 
-PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethyl cellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment), purified water.
+PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment), purified water.
 
 PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
 The film coating contains: OPADRY® White (polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
@@ -287,7 +321,7 @@ PREZISTA Tablets Janssen Ortho LLC, Gurabo, PR 00778
 
 Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
-Revised: March 2015
+Revised: May 2015
 
 NORVIR® is a registered trademark of its respective owner.
 
