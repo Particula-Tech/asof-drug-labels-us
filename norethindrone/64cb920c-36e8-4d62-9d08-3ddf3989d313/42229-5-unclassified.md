@@ -11,7 +11,7 @@ Amneal Pharmaceuticals
 Glasgow, KY 42141
 
 Rev.
-08-2012
+03-2013
 
 Manufactured by:
 

@@ -4,6 +4,8 @@ Norethindrone acetate tablets, USP, 5 mg, are supplied as white to off-white ova
 
 They are available as follows:
 
+Bottles of 30: NDC 65162-475-03
+
 Bottles of 50: NDC 65162-475-05
 
 Bottles of 90: NDC 65162-475-09
