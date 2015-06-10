@@ -13,11 +13,11 @@ If used together, the dose of CRESTOR should not exceed 10 mg once daily [seeCli
 
 ## 7.3 Protease Inhibitors
 
-Coadministration of rosuvastatin with certain protease inhibitors given in combination with ritonavir has differing effects on rosuvastatin exposure.
-The protease inhibitor combinations lopinavir/ritonavir and atazanavir/ritonavir increase rosuvastatin exposure (AUC) up to threefold [see Table 4 –Clinical Pharmacology (12.3)].
-For these combinations the dose of CRESTOR should not exceed 10 mg once daily.
-The combinations of tipranavir/ritonavir or fosamprenavir/ritonavir produce little or no change in rosuvastatin exposure.
-Caution should be exercised when rosuvastatin is coadministered with protease inhibitors given in combination with ritonavir [seeDosage and Administration (2.5),Warnings and Precautions (5.1) andClinical Pharmacology (12.3)].
+Coadministration of rosuvastatin with certain protease inhibitors has differing effects on rosuvastatin exposure.
+Simeprevir, which is a hepatitis C virus (HCV) protease inhibitor, or combinations of atazanavir/ritonavir or lopinavir/ritonavir, which are HIV-1 protease inhibitors, increase rosuvastatin exposure (AUC) up to threefold [see Table 4 –Clinical Pharmacology (12.3)].
+For these protease inhibitors, the dose of CRESTOR should not exceed 10 mg once daily.
+The combinations of fosamprenavir/ritonavir or tipranavir/ritonavir, which are HIV-1 protease inhibitors, produce little or no change in rosuvastatin exposure.
+Caution should be exercised when rosuvastatin is coadministered with protease inhibitors [seeDosage and Administration (2.5),Warnings and Precautions (5.1) andClinical Pharmacology (12.3)].
 
 ## 7.4 Coumarin Anticoagulants
 

@@ -42,7 +42,7 @@ Patients taking gemfibrozil
 Initiate CRESTOR therapy with 5 mg once daily.
 The dose of CRESTOR should not exceed 10 mg once daily [seeWarnings and Precautions (5.1) and Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
-Patients taking lopinavir and ritonavir or atazanavir and ritonavir
+Patients taking atazanavir and ritonavir, lopinavir and ritonavir, or simeprevir
 
 Initiate CRESTOR therapy with 5 mg once daily.
 The dose of CRESTOR should not exceed 10 mg once daily [seeWarnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].

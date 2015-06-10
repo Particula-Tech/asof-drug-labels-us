@@ -69,7 +69,7 @@ Especially tell your doctor if you take:
 
 - •cyclosporine (a medicine for your immune system)
 - •gemfibrozil (a fibric acid medicine for lowering cholesterol)
-- •HIV protease inhibitors (such as lopinavir, ritonavir, fosamprenavir, tipranavir, or atazanavir)
+- •anti-viral medicines including HIV or hepatitis C protease inhibitors (such as lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, or simeprevir)
 - •certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole
 - •coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
 - •niacin or nicotinic acid
@@ -104,24 +104,23 @@ CRESTOR may cause serious side effects, including:
 - •Muscle pain, tenderness and weakness (myopathy).
   Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
   Tell your doctor right away if:
-  - oyou have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take CRESTOR.
-  - oyou have muscle problems that do not go away even after your doctor has told you to stop taking CRESTOR.
+  - •you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take CRESTOR.
+  - •you have muscle problems that do not go away even after your doctor has told you to stop taking CRESTOR.
     Your doctor may do further tests to diagnose the cause of your muscle problems.
 - Your chances of getting muscle problems are higher if you:
-- 
-  - oare taking certain other medicines while you take CRESTOR
-  - oare 65 years of age or older
-  - ohave thyroid problems (hypothyroidism) that are not controlled
-  - ohave kidney problems
-  - oare taking higher doses of CRESTOR
+  1. •are taking certain other medicines while you take CRESTOR
+  2. •are 65 years of age or older
+  3. •have thyroid problems (hypothyroidism) that are not controlled
+  4. •have kidney problems
+  5. •are taking higher doses of CRESTOR
 - •Liver problems.
   Your doctor should do blood tests to check your liver before you start taking CRESTOR and if you have symptoms of liver problems while you take CRESTOR.
   Call your doctor right away if you have any of the following symptoms of liver problems:
-  - ofeel unusually tired or weak
-  - oloss of appetite
-  - oupper belly pain
-  - odark urine
-  - oyellowing of your skin or the whites of your eyes
+  - •feel unusually tired or weak
+  - •loss of appetite
+  - •upper belly pain
+  - •dark urine
+  - •yellowing of your skin or the whites of your eyes
 
 The most common side effects may include: headache, muscle aches and pains, abdominal pain, weakness, and nausea.
 
@@ -167,7 +166,7 @@ For more information, go to the CRESTOR website at www.crestor.com or call 1-800
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2013
+© AstraZeneca 2015
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
@@ -177,6 +176,6 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised July, 2014
+Revised June, 2015
 
 ASTRAZENECA
