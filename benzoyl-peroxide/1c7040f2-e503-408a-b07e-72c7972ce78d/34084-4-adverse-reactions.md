@@ -1,9 +1,28 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-During clinical trials, all patients were graded for facial erythema, peeling, burning, and dryness on the following scale: 0 = absent, 1 = mild, 2 = moderate, and 3 = severe.
-The percentage of patients that had symptoms present before treatment (at baseline) and during treatment were as follows:
+The following adverse reaction is described in more detail in the Warnings and Precautions section of the label:
 
-(Percentages derived by # subjects with symptom score/# enrolled clindamycin phosphate and benzoyl peroxide gel, 1.2%/5% subjects, n = 397).
+- •Colitis [see Warnings and Precautions (5.1)].
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+During clinical trials, 397 subjects used clindamycin phosphate and benzoyl peroxide gel, 1.2%/5% once daily for 11 weeks for the treatment of moderate to moderately severe facial acne vulgaris.
+All subjects were graded for facial local skin reactions (erythema, peeling, burning, and dryness) on the following scale: 0 = absent, 1 = mild, 2 = moderate, and 3 = severe.
+
+The percentage of subjects that had symptoms present before treatment (at baseline) and during treatment is presented in Table 1.
+
+Table 1.
+Local Skin Reactions With Use Of Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%
+
+Combined Results From Five Trials (n=397)
+
+(Percentages derived by number of subjects receiving clindamycin phosphate and benzoyl peroxide gel, 1.2%/5% with symptom score/number of enrolled subjects receiving clindamycin phosphate and benzoyl peroxide gel, 1.2%/5%).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of clindamycin phosphate and benzoyl peroxide gel, 1.2%/5%.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Anaphylaxis, as well as allergic reactions leading to hospitalization, has been reported in postmarketing use with clindamycin phosphate and benzoyl peroxide gel, 1.2%/5%.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

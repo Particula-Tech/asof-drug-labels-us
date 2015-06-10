@@ -1,5 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% is indicated for the topical treatment of inflammatory acne vulgaris.
+## 1.1 Indication
 
-Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% has not been demonstrated to have any additional benefit when compared to benzoyl peroxide alone in the same vehicle when used for the treatment of non-inflammatory acne.
+Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% is indicated for the topical treatment of inflammatory acne vulgaris in patients 12 years and older.
+
+## 1.2 Limitations of Use
+
+Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% has not been demonstrated to have any additional benefit when compared with benzoyl peroxide alone in the same vehicle when used for the treatment of non-inflammatory acne.
