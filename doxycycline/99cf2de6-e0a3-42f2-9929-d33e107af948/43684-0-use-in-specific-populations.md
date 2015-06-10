@@ -35,4 +35,6 @@ Because of the effects of drugs of the tetracycline-class on tooth development a
 Clinical studies of DORYX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
+DORYX 50 mg tablets contain 3 mg (0.131 mEq) of sodium.
+
 DORYX 200 mg tablets contain 12 mg (0.522 mEq) of sodium.
