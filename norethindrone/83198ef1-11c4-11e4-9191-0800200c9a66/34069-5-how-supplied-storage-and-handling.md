@@ -16,7 +16,7 @@ Storage Conditions
 Prior to dispensing to the patient, store refrigerated 2°C to 8°C (36°F to 46°F).
 After dispensing to the patient, CombiPatch can be stored at room temperature between 20ºC to 25ºC (66ºF to 77ºF) for up to 6 months.
 For the Pharmacist: When CombiPatch is dispensed to the patient, place an expiration date on the label.
-The date should not exceed either six months from the date of sale or the expiration date, whichever comes first.
+The date should not exceed either 6 months from the date of sale or the expiration date, whichever comes first.
 
 Store the systems in the sealed foil pouch.
 
@@ -24,16 +24,4 @@ Do not store the system in areas where extreme temperatures can occur.
 
 Keep this and all medicines out of the reach of children.
 
-Vivelle® is a registered trademark of Novartis Pharmaceuticals Corporation.
-
-CombiPatch® is a registered trademark of Noven Pharmaceuticals, Inc.
-
-Manufactured by: Noven Pharmaceuticals Inc. Miami, FL 33186
-
-Distributed by: Noven Therapeutics, LLC Miami, FL 33186
-
-© 2004, 2014 Noven Pharmaceuticals, Inc.
-
-For more information call 1-800-455-8070 or visit www.combipatch.com.
-
-102538 08/2014
+Vivelle® is a registered trademark of Novartis Corporation. & Vivelle-Dot® is a registered trademark of Novartis AG.

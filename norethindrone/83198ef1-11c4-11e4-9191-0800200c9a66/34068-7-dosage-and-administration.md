@@ -1,9 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-When estrogen therapy is prescribed for a postmenopausal woman with a uterus, a progestin should be initiated to reduce the risk of endometrial cancer.
-A woman without a uterus does not need progestin.
+Generally, when estrogen therapy is prescribed for a postmenopausal woman with a uterus, a progestin should be considered to reduce the risk of endometrial cancer.
+A woman without a uterus generally does not need a progestin.
+In some cases, however, hysterectomized women with a history of endometriosis may need a progestin.
 Use of estrogen-alone or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (for example at 3-month to 6-month intervals) to determine whether treatment is still necessary.
+Postmenopausal women should be reevaluated periodically as clinically appropriate to determine whether treatment is still necessary.
 Adequate diagnostic measures, such as directed or random endometrial sampling, when indicated, should be undertaken to rule out malignancy in a postmenopausal woman with a uterus with undiagnosed persistent or recurring abnormal genital bleeding.
 
 Initiation of Therapy
@@ -27,19 +28,22 @@ For all regimens, women should be reevaluated at 3- to 6-month intervals to dete
 
 Continuous Combined Regimen
 
-A CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm2) matrix transdermal system is worn continuously on the lower abdomen.
+CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm2) matrix transdermal system is used for continuous uninterrupted treatment applied twice weekly on the lower abdomen.
+A new system should be applied to the skin every 3 to 4 days (twice weekly) during a 28-day cycle.
+
 Additionally, a dose of 0.05 mg estradiol/0.25 mg NETA (16 cm2 system) is available if a greater progestin dose is desired.
-A new system should be applied twice weekly during a 28-day cycle.
 Irregular bleeding may occur particularly in the first six months, but generally decreases with time, and often to an amenorrheic state.
 
 Continuous Sequential Regimen
 
 CombiPatch can be applied as a sequential regimen in combination with an estradiol-only transdermal delivery system.
 
-In this treatment regimen, a 0.05 mg per day (nominal delivery rate) estradiol transdermal system (Vivelle) is worn for the first 14 days of a 28-day cycle, replacing the system twice weekly according to product directions.
-For the remaining 14 days of the 28-day cycle, CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm2) transdermal system should be applied to the lower abdomen.
+In this treatment regimen, a 0.05 mg per day (nominal delivery rate) estradiol transdermal system (Vivelle-Dot®) is worn for the first 14 days of a 28-day cycle, replacing the system every 3 to 4 days (twice weekly) according to product directions.
+
+For the remaining 14 days of the 28-day cycle, CombiPatch 0.05 mg estradiol/0.14 mg NETA per day (9 cm2) transdermal system should be worn continuously on the lower abdomen.
+The CombiPatch system should be replaced every 3 to 4 days (twice weekly) during this 14-day period in the 28-day cycle.
+
 Additionally, a dose of 0.05 mg estradiol/0.25 mg NETA (16 cm2 system) is available if a greater progestin dose is desired.
-The CombiPatch system should be replaced twice weekly during this period in the cycle.
 Women should be advised that monthly withdrawal bleeding often occurs.
 
 Application of the System

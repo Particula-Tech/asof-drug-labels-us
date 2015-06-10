@@ -7,27 +7,27 @@ In the Continuous Combined regimen, CombiPatch was applied throughout the 3 cycl
 In the Continuous Sequential regimen, an estradiol-only transdermal system (Vivelle® 0.05 mg) was applied twice weekly during the first 14 days of a 28-day cycle; CombiPatch was applied for the remaining 14 days of the cycle and replaced twice weekly, as well.
 The mean number of hot flushes at baseline were 10 to 11 per day and 11 to 12 per day in the Continuous Combined and Continuous Sequential regimen trials, respectively.
 The mean number and intensity of daily hot flushes (intent-to-treat population) was significantly reduced from baseline to endpoint with either the Continuous Combined or Continuous Sequential administration of CombiPatch at all doses as compared to placebo (intent-to-treat population).
-(See Tables 3 and 4.)
+(See Tables 3 and 4)
 
 Table 3.
-Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flushes per Day in CombiPatch® Continuous Combined Transdermal Therapy
+Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flushes per Day in CombiPatch Continuous Combined Transdermal Therapy
 
-|  | CombiPatch® Continuous Combined |  | Placebo |
+|  | CombiPatch Continuous Combined |  | Placebo |
 | --- | --- | --- | --- |
 | Adjusted Mean Change from Baseline1 | 0.05/0.14 mg per day2 n=57 | 0.05/0.25 mg per day2 n=52 | n=51 |
 | Number of Hot Flushes3 | -9.35 | -8.95 | -6.2 |
 | Daily Intensity of Hot Flushes3,4 | -4.65,6 | -5.05 | -2.87 |
-| 1Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA). 2Represents the milligrams of estradiol/NETA delivered daily by each system. 3Population represents those patients who had baseline and endpoint observations. 4The intensity of hot flushes was evaluated on a scale of 0 to 9 (none=0, mild=1-3, moderate= 4-6, severe=7-9). 5P value versus placebo = <0.001. 6Total number of patients with available data is 56. 7Total number of patients with available data is 50. |  |  |  |
+| 1Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA). 2Represents the milligrams of estradiol/NETA delivered daily by each system. 3Population represents those patients who had baseline and endpoint observations. 4The intensity of hot flushes was evaluated on a scale of 0 to 9 (none=0, mild=1-3, moderate= 4-6, severe=7-9). 5P-value versus placebo = <0.001. 6Total number of patients with available data is 56. 7Total number of patients with available data is 50. |  |  |  |
 
 Table 4.
-Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flushes per Day in CombiPatch® Continuous Sequential Transdermal Therapy
+Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flushes per Day in CombiPatch Continuous Sequential Transdermal Therapy
 
 |  | CombiPatch® Continuous Combined |  | Placebo |
 | --- | --- | --- | --- |
 | Adjusted Mean Change from Baseline1 | 0.05/0.14 mg per day2 n=54 | 0.05/0.25 mg per day2 n=59 | n=53 |
 | Number of Hot Flushes3 | -9.35 | -9.55 | -5.5 |
 | Daily Intensity of Hot Flushes3,4 | -4.45 | -4.55 | -2.1 |
-| 1Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA). 2Represents the milligrams of estradiol/NETA delivered daily by each system. 3Population represents those patients who had baseline and endpoint observations. 4The intensity of hot flushes was evaluated on a scale of 0 to 9 (none=0, mild=1-3, moderate= 4-6, severe=7-9). 5P value versus placebo = <0.001. |  |  |  |
+| 1Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA). 2Represents the milligrams of estradiol/NETA delivered daily by each system. 3Population represents those patients who had baseline and endpoint observations. 4The intensity of hot flushes was evaluated on a scale of 0 to 9 (none=0, mild=1-3, moderate= 4-6, severe=7-9). 5P-value versus placebo = <0.001. |  |  |  |
 
 Effects on the Endometrium
 
@@ -37,15 +37,15 @@ Progestins counter the estrogenic effects by decreasing the number of nuclear es
 Clinical studies indicate that the addition of a progestin to an estrogen regimen at least 12 days per cycle reduces the incidence of endometrial hyperplasia and the potential risk of adenocarcinoma in women with intact uteri.
 The addition of a progestin to an estrogen regimen has not been shown to interfere with the efficacy of estrogen therapy for its approved indications.
 
-CombiPatch was effective in reducing the incidence of estrogen-induced endometrial hyperplasia after 1 year of therapy in 2 Phase II clinical trials.
+CombiPatch was effective in reducing the incidence of estrogen-induced endometrial hyperplasia after 1 year of therapy in two clinical trials.
 Nine hundred fifty-five (955) postmenopausal women (with intact uteri) were treated with (i) a continuous regimen of CombiPatch alone (Continuous Combined regimen), (ii) a sequential regimen with an estradiol-only (Vivelle 0.05 mg) transdermal system followed by a CombiPatch transdermal system (Continuous Sequential regimen), or (iii) continuous regimen with an estradiol-only transdermal system (Vivelle 0.05 mg).
 The incidence of endometrial hyperplasia (primary endpoint) was significantly less after 1 year of therapy with either CombiPatch regimen than with the estradiol-only transdermal system.
 Tables 5 and 6 summarize these results (intent-to-treat populations).
 
 Table 5.
-Incidence of Endometrial Hyperplasia in a Continuous Combined CombiPatch® Regimen
+Incidence of Endometrial Hyperplasia in a Continuous Combined CombiPatch Regimen
 
-|  | CombiPatch® Continuous Combined |  | Vivelle® Continuous |
+|  | CombiPatch Continuous Combined |  | Vivelle Continuous |
 | --- | --- | --- | --- |
 |  | 0.05/0.14 mg per day1 | 0.05/0.25 mg per day1 | 0.05 mg per day |
 | Number of Patients with Biopsies2 | 123 | 98 | 103 |
@@ -53,9 +53,9 @@ Incidence of Endometrial Hyperplasia in a Continuous Combined CombiPatch® Regim
 | 1Represents milligrams of estradiol/NETA delivered daily by each system. 2Biopsy after 12 cycles of treatment or hyperplasia before cycle 12. 3Comparison of continuous combined regimen versus estradiol-only patch was significant (p <0.001). 4This patient had hyperplasia at baseline. 5One of 39 patients had hyperplasia in an endometrial polyp. |  |  |  |
 
 Table 6.
-Incidence of Endometrial Hyperplasia in a Continuous Sequential CombiPatch® Regimen
+Incidence of Endometrial Hyperplasia in a Continuous Sequential CombiPatch Regimen
 
-|  | CombiPatch® Continuous Sequential |  | Vivelle® Continuous |
+|  | CombiPatch Continuous Sequential |  | Vivelle Continuous |
 | --- | --- | --- | --- |
 |  | 0.05/0.14 mg per day1 | 0.05/0.25 mg per day1 | 0.05 mg per day |
 | Number of Patients with Biopsies2 | 117 | 114 | 115 |
@@ -70,11 +70,13 @@ Women who experienced bleeding usually characterized it as light (intensity of 1
 (See Figure 1)
 
 Figure 1.
-Incidence of Cumulative Amenorrhea* in CombiPatch® Continuous Combined Transdermal Therapy by Cycle Over a 1-Year Period (Intent-to-Treat Population) *Cumulative amenorrhea is defined as the absence of bleeding for the duration of a 28-day cycle and sustained to the end of the study.
+Incidence of Cumulative Amenorrhea* in CombiPatch Continuous Combined Transdermal Therapy by Cycle Over a 1-Year Period (Intent-to-Treat Population)
+
+*Cumulative amenorrhea is defined as the absence of bleeding for the duration of a 28-day cycle and sustained to the end of the study.
 
 Women’s Health Initiative Studies
 
-The Women’s Health Initiative (WHI) enrolled approximately 27,000 predominantly healthy postmenopausal women in 2 substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
+The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of coronary heart disease (CHD) [defined as nonfatal MI, silent MI and CHD death], with invasive breast cancer as the primary adverse outcome.
 A “global index” included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other cause.
 These substudies did not evaluate the effects of CE plus MPA or CE-alone on menopausal symptoms.
@@ -117,7 +119,7 @@ Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI a
 | bResults are based on centrally adjudicated data. |  |  |  |  |
 | cNominal confidence intervals (CI) unadjusted for multiple looks and multiple comparisons. |  |  |  |  |
 | dNot included in “global index”. |  |  |  |  |
-| eIncludes metastatic and nonmetastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |  |
+| eIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |  |
 | fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. |  |  |  |  |
 | gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |  |
 
@@ -160,14 +162,14 @@ Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIa
 | fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. |  |  |  |  |
 | gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |  |
 
-For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.
+For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures9.
 The absolute excess risk of events included in the “global index” was a nonsignificant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
-No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
+No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years (see Table 8).
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in distribution of stroke subtype or severity, including fatal strokes, in women receiving CE-alone compared to placebo.
-Estrogen-alone increased the risk for ischemic stroke, and this excess was present in all subgroups of women examined.
+Estrogen-alone increased the risk for ischemic stroke, and this excess was present in all subgroups of women examined10 (see Table 8).
 
 Timing of the initiation of estrogen therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age, a nonsignificant trend toward reduced risk for CHD [HR 0.63 (95 percent, CI 0.36 to 1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46 to 1.11)].

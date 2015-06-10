@@ -1,6 +1,6 @@
 # Patient Information
 
-CombiPatch® (käm-bē `pach) (estradiol/norethindrone acetate transdermal system)
+CombiPatch (käm-bē `pach) (estradiol/norethindrone acetate transdermal system)
 
 Read this Patient Information before you start using CombiPatch and each time you get a refill.
 There may be new information.
@@ -78,8 +78,9 @@ How should I use CombiPatch?
   This area must be clean, dry, and free of powder, oil or lotion for your CombiPatch to stick to your skin.
 - Apply your CombiPatch to a different area of your lower abdomen each time.
   Do not use the same application site 2 times in the same week.
-- Do not apply CombiPatch to your breasts.
+- Do not apply CombiPatch to or near your breasts.
 - If you forget to apply a new CombiPatch, you should apply a new CombiPatch as soon as possible.
+- Once in place, the transdermal system should not be exposed to the sun for prolonged periods of time.
 - You and your healthcare provider should talk regularly (every 3 to 6 months) about your dose and whether you still need treatment with CombiPatch.
 
 How do I change CombiPatch?
@@ -135,7 +136,7 @@ Less serious, but common side effects include:
 
 These are not all the possible side effects of CombiPatch.
 For more information, ask your healthcare provider or pharmacist.
-Tell your healthcare provider if you have any side effects that bother you or does not go away
+Tell your healthcare provider if you have any side effects that bother you or does not go away.
 
 You may report side effects to Noven at 1-800-455-8070 or to FDA at 1-800-FDA-1088.
 
@@ -169,7 +170,7 @@ It may harm them.
 This leaflet provides a summary of the most important information about CombiPatch.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about CombiPatch that is written for health professionals.
-You can get more information by calling 1-800-455-8070.
+You can get more information by calling 1-800-455-8070
 
 What are the ingredients in CombiPatch?
 
@@ -177,4 +178,4 @@ Active Ingredients: estradiol and norethindrone acetate
 
 Inactive Ingredients: acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
 
-102538 08/2014
+102538 05/2015

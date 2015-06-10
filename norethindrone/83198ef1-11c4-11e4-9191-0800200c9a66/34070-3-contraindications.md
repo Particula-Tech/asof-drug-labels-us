@@ -7,7 +7,7 @@ CombiPatch is contraindicated in women with any of the following conditions:
 3. Known or suspected estrogen-dependent neoplasia.
 4. Active DVT, PE, or history of these conditions.
 5. Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions.
-6. Known anaphylactic reaction or angioedema or hypersensitivity to CombiPatch.
+6. Known anaphylactic reaction or angioedema or hypersensitivity with CombiPatch.
 7. Known liver impairment or disease.
 8. Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
 9. Known or suspected pregnancy.

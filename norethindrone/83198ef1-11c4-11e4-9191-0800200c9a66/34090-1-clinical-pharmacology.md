@@ -78,12 +78,12 @@ Estradiol: Estradiol, estrone, and estriol are excreted in the urine along with 
 Estradiol has a short elimination half-life of approximately 2 to 3 hours; therefore, a rapid decline in serum levels is observed after the CombiPatch estradiol/NETA transdermal system is removed.
 Within 4 to 8 hours serum estradiol concentrations return to untreated, postmenopausal levels (less than 20 pg/mL).
 
-Concentration data from Phase II and III studies indicate that the pharmacokinetics of estradiol did not change over time, suggesting no evidence of the accumulation of estradiol following extended patch wear periods (up to 1 year).
+Concentration data from clinical trials indicate that the pharmacokinetics of estradiol did not change over time, suggesting no evidence of the accumulation of estradiol following extended patch wear periods (up to 1 year).
 
 Norethindrone: The elimination half-life of norethindrone is reported to be 6 to 8 hours.
 Norethindrone serum concentrations diminish rapidly and are less than 50 pg/mL within 48 hours after removal of the CombiPatch transdermal delivery system.
 
-Concentration data from Phase II and III studies indicate that the pharmacokinetics of norethindrone did not change over time, suggesting no evidence of the accumulation of norethindrone following extended patch wear periods (up to 1 year).
+Concentration data from clinical trials indicate that the pharmacokinetics of norethindrone did not change over time, suggesting no evidence of the accumulation of norethindrone following extended patch wear periods (up to 1 year).
 
 Special Populations
 

@@ -1,11 +1,11 @@
-# INSTRUCTIONS FOR USE
+# Instructions for Use
 
 CombiPatch (käm-bē `pach) (estradiol/norethindrone acetate transdermal system)
 
 Step 1.
 Pick the days you will change your CombiPatch.
 
-- You will need to change your patch every 3 to 4 days.
+- You will need to change your patch every 3 to 4 days (twice weekly).
 
 Step 2.
 Remove CombiPatch from the pouch.
@@ -48,6 +48,7 @@ Press the CombiPatch firmly onto your skin.
 Note:
 
 - Bathing, swimming, or showering will not affect the CombiPatch.
+- Once in place, the patch should not be exposed to the sun for prolonged periods of time.
 - If your CombiPatch falls off reapply it.
   If you cannot reapply the CombiPatch, apply a new CombiPatch to another area (See Figures C, D and E) and continue to follow your original placement schedule.
 - If you stop using your CombiPatch or forget to apply a new CombiPatch as scheduled you may have spotting, or bleeding, and your symptoms may come back.
@@ -67,6 +68,6 @@ Distributed by: Noven Therapeutics, LLC Miami, FL 33186
 
 For more information call 1-800-455-8070 or visit www.combipatch.com.
 
-© 2004, 2014 Noven Pharmaceuticals, Inc.
+© 2004, 2014, 2015 Noven Pharmaceuticals, Inc.
 
-102538 08/2014
+102538 05/2015

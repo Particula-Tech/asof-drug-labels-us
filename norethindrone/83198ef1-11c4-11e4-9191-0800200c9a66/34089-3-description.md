@@ -8,7 +8,7 @@ Two systems are available, providing the following in vivo delivery rates of est
 | --- | --- | --- | --- |
 | 9 cm2 round | 0.62 | 2.7 | 0.05/0.14 |
 | 16 cm2 round | 0.51 | 4.8 | 0.05/0.25 |
-| 1NETA = norethindrone acetate. 2Based on in vivo/in vitro flux data, delivery of both components per day via skin of average permeability (interindividual variation in skin permeability is approximately 20 percent). |  |  |  |
+| 1NETA=norethindrone acetate. 2Based on in vivo/in vitro flux data, delivery of both components per day via skin of average permeability (interindividual variation in skin permeability is approximately 20 percent). |  |  |  |
 
 Estradiol USP (estradiol) is a white to creamy white, odorless, crystalline powder, chemically described as estra-1,3,5(10)-triene-3,17β-diol.
 The molecular weight of estradiol is 272.39 and the molecular formula is C18H24O2.

@@ -5,11 +5,11 @@ See BOXED WARNING, WARNINGS, and PRECAUTIONS.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Table 9.
-All Adverse Reactions Regardless of Relationship Reported at a Frequency of Greater than or Equal to 5 percent with CombiPatch®
+All Adverse Reactions Regardless of Relationship Reported at a Frequency of Greater than or Equal to 5 percent with CombiPatch
 
 |  | VASOMOTOR SYMPTOM STUDIES |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | CombiPatch® 0.05/0.14 mg per day1 | CombiPatch® 0.05/0.25 mg per day1 | Placebo |  |
+|  | CombiPatch 0.05/0.14 mg per day† | CombiPatch 0.05/0.25 mg per day† | Placebo |  |
 |  | n=113 | n=112 | n=107 |  |
 | Body as a Whole | 46% | 48% | 41% |  |
 | Abdominal Pain | 7% | 6% | 4% |  |
@@ -34,7 +34,7 @@ All Adverse Reactions Regardless of Relationship Reported at a Frequency of Grea
 | Rhinitis | 7% | 13% | 9% |  |
 | Sinusitis | 4% | 9% | 9% |  |
 | Skin and Appendages | 8% | 17% | 16% |  |
-| Application Site Reaction | 2% | 6% | 4% |  |
+| Application Site Reaction* | 2% | 6% | 4% |  |
 | Urogenital | 54% | 63% | 28% |  |
 | Breast Pain | 25% | 31% | 7% |  |
 | Dysmenorrhea | 20% | 21% | 5% |  |
@@ -42,14 +42,15 @@ All Adverse Reactions Regardless of Relationship Reported at a Frequency of Grea
 | Menstrual Disorder | 6% | 12% | 2% |  |
 | Papanicolaou Smear Suspicious | 8% | 4% | 5% |  |
 | Vaginitis | 6% | 13% | 5% |  |
-| 1Represents milligrams of estradiol/NETA delivered daily by each system. |  |  |  |  |
+| †Represents milligrams of estradiol/NETA delivered daily by each system. |  |  |  |  |
+| *Application site reactions includes localized bleeding, bruising, burning, discomfort, dryness, eczema, edema, erythema, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, skin discoloration, skin pigmentation, swelling, urticaria, and vesicles. |  |  |  |  |
 
 Table 10.
-All Adverse Reactions Regardless of Relationship Reported at a Frequency of Greater than or Equal to 5 percent with CombiPatch®
+All Adverse Reactions Regardless of Relationship Reported at a Frequency of Greater than or Equal to 5 percent with CombiPatch
 
 |  | ENDOMETRIAL HYPERPLASIA STUDIES |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | CombiPatch® 0.05/0.14 mg per day1 n=325 | CombiPatch® 0.05/0.25 mg per day1 n=312 | Vivelle® 0.05 mg per day n=318 |  |
+|  | CombiPatch 0.05/0.14 mg per day† n=325 | CombiPatch 0.05/0.25 mg per day† n=312 | Vivelle 0.05 mg per day n=318 |  |
 | Body as a Whole | 61% | 60% | 59% |  |
 | Abdominal Pain | 12% | 14% | 16% |  |
 | Accidental Injury | 10% | 11% | 8% |  |
@@ -83,7 +84,7 @@ All Adverse Reactions Regardless of Relationship Reported at a Frequency of Grea
 | Sinusitis | 10% | 12% | 12% |  |
 | Skin and Appendages | 38% | 37% | 31% |  |
 | Acne | 4% | 5% | 4% |  |
-| Application Site Reaction | 20% | 23% | 17% |  |
+| Application Site Reaction* | 20% | 23% | 17% |  |
 | Rash | 6% | 5% | 3% |  |
 | Urogenital | 71% | 79% | 74% |  |
 | Breast Enlargement | 2% | 7% | 2% |  |
@@ -94,11 +95,12 @@ All Adverse Reactions Regardless of Relationship Reported at a Frequency of Grea
 | Menstrual Disorder | 17% | 19% | 14% |  |
 | Vaginal Hemorrhage | 3% | 6% | 12% |  |
 | Vaginitis | 9% | 13% | 13% |  |
-| 1Represents milligrams of estradiol/NETA delivered daily by each system. |  |  |  |  |
+| †Represents milligrams of estradiol/NETA delivered daily by each system. |  |  |  |  |
+| *Application site reactions includes localized bleeding, bruising, burning, discomfort, dryness, eczema, edema, erythema, inflammation, irritation, pain, papules, paresthesia, pruritus, rash, skin discoloration, skin pigmentation, swelling, urticaria, and vesicles. |  |  |  |  |
 
 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of CombiPatch.
+The following additional adverse reactions have been identified during post-approval use of CombiPatch.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Genitourinary System
@@ -123,10 +125,8 @@ Skin discoloration.
 
 Central Nervous System
 
-Affect lability, libido disorder, migraine, vertigo, paraesthesia.
+Affect lability, libido disorder, migraine, vertigo, paresthesia.
 
 Miscellaneous
 
 Angioedema, hypersensitivity, weight increased.
-
-Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.

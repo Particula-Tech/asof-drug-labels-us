@@ -1,9 +1,10 @@
 # Drug Interactions
 
+No drug interaction studies have been conducted with CombiPatch.
 In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
-Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
-Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and may result in side effects.
+Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, anticonvulsants (e.g., phenobarbital, phenytoin and carbamazepine), phenylbutazone, and anti-infectives (e.g., rifampin, rifabutin, nevirapine and efavirenz) may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
+Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir, nelfinavir and grapefruit juice may increase plasma concentrations of estrogens and may result in side effects.
 
 Adhesion
 
