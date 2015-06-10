@@ -145,8 +145,8 @@ This product is covered by US patents including 5,837,284, 5,908,850, 6,228,398,
 
 Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-By Alkermes Gainesville LLC Gainesville, GA 30504
+By Recro Gainesville LLC Gainesville, GA 30504
 
 © Novartis
 
-T2013-122 December 2013
+T2015-95 June 2015
