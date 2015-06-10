@@ -1,7 +1,4 @@
-# FDA-APPROVED PATIENT LABELING
-
-| PATIENT INFORMATION ANDRODERM® (an-dro-derm) CIII (testosterone transdermal system) for topical use |
-| --- |
+PATIENT INFORMATION ANDRODERM® (an-dro-derm) CIII (testosterone transdermal system) for topical use
 
 Read this Patient Information before you start taking ANDRODERM and each time you get a refill.
 There may be new information.
@@ -10,9 +7,11 @@ This information does not take the place of talking with your healthcare provide
 What is ANDRODERM?
 
 ANDRODERM is a prescription medicine that contains testosterone.
-ANDRODERM is used to treat adult males who have low or no testosterone.
+ANDRODERM is used to treat adult males who have low or no testosterone due to certain medical conditions.
 
 Your healthcare provider will test your blood for testosterone before you start and while you are taking ANDRODERM.
+
+It is not known if ANDRODERM is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if ANDRODERM is safe and effective in children younger than 18 years old.
 Improper use of ANDRODERM may affect bone growth in children.
@@ -73,10 +72,8 @@ How should I use ANDRODERM?
 - ANDRODERM does not need to be removed during sex or while you take a shower or bath.
 - Strenuous exercise or excessive perspiration may loosen your ANDRODERM patch or cause it to fall off.
 - If your ANDRODERM patch becomes loose, smooth it down again by rubbing your finger firmly around the edges.
-  Do not tape ANDRODERM patches to your skin.
-  - If your ANDRODERM patch falls off before noon, put on a new ANDRODERM patch and wear it until you put on a new ANDRODERM patch at your regular time.
-  - If your ANDRODERM patch falls off after noon, do not put on a new one.
-    Wait and apply your ANDRODERM patch at your regular time.
+  Do not tape ANDRODERM patches to your skin. • If your ANDRODERM patch falls off before noon, put on a new ANDRODERM patch and wear it until you put on a new ANDRODERM patch at your regular time. • If your ANDRODERM patch falls off after noon, do not put on a new one.
+  Wait and apply your ANDRODERM patch at your regular time.
 - You should change your ANDRODERM patch every 24 hours.
   You should remove the old patch before applying the new one.
 - You should change (rotate) your ANDRODERM application site every day.
@@ -95,30 +92,25 @@ Applying ANDRODERM:
 - Avoid areas of skin that are oily, perspire heavily, or are covered with hair, since ANDRODERM may not stick well to these areas.
 - ANDRODERM is to be applied to your back, stomach area (abdomen), upper arms, or thighs only (See Figure A and Figure B). Do not apply ANDRODERM to any other parts of your body such as your scrotum, buttocks or over a bony area.
 
-| 1. Open the foil pouch. Tear along the edge and remove the patch from the pouch (See Figure C). Do not cut the ANDRODERM protective pouch. |  |  |  |
-| --- | --- | --- | --- |
-| 2. Remove the protective plastic liner and silver disc from the patch. Hold on to the tabs on the patch and the protective plastic liner and gently pull the two apart to remove the plastic liner and silver disc from the patch (See Figure D).This will expose the adhesive and central reservoir area on the patch (See Figure E). The patch should pull off easily from the protective plastic liner. Do not use the ANDRODERM patch if the liner is hard to pull off. Throw away the ANDRODERM patch and get a new one. |  |  |  |
-| 3Check the protective plastic liner. You should not see any glue (adhesive) sticking to the liner. Do not use the ANDRODERM patch if you see any adhesive sticking to the liner. Throw away the ANDRODERM patch and get a new one. |  |  |  |
-| 4. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
+| 1. Open the foil pouch. Tear along the edge and remove the patch from the pouch (See Figure C). Do not cut the ANDRODERM protective pouch. |  |
+| --- | --- |
+| 2. Remove the protective plastic liner and silver disc from the patch. Hold on to the tabs on the patch and the protective plastic liner and gently pull the two apart to remove the plastic liner and silver disc from the patch (See Figure D). This will expose the adhesive and central reservoir area on the patch (See Figure E). The patch should pull off easily from the protective plastic liner. Do not use the ANDRODERM patch if the liner is hard to pull off. Throw away the ANDRODERM patch and get a new one. |  |
+| 3. Check the protective plastic liner. You should not see any glue (adhesive) sticking to the liner. Do not use the ANDRODERM patch if you see any adhesive sticking to the liner. Throw away the ANDRODERM patch and get a new one. Throw away the clear plastic liner and silver disc. |  |
+| 4. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |
 
 What are the possible side effects of ANDRODERM?
 
 ANDRODERM can cause serious side effects including:
 
 - If you already have an enlargement of your prostate gland your signs and symptoms may get worse while using ANDRODERM.
-  This can include:
-  - increased urination at night
-  - trouble starting your urine stream
-  - having to pass urine many times during the day
-  - having an urge that you have to go to the bathroom right away
-  - having a urine accident
-  - being unable to pass urine or weak urine flow
+  This can include: • increased urination at night • trouble starting your urine stream • having to pass urine many times during the day • having an urge that you have to go to the bathroom right away • having a urine accident • being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use ANDRODERM.
 - Blood clots in the legs or lungs.
   Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
   This can include pain, swelling or redness of your legs.
+- Possible increased risk of heart attack or stroke.
 - In large doses ANDRODERM may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
 - Enlarged or painful breasts.
@@ -183,10 +175,8 @@ Inactive ingredients:
 
 For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
-Manufactured By: Watson Laboratories, Inc. Salt Lake City, UT 84108 USA
-
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Content Updated: June 2014 196664-03
+Content Updated: 05/2015

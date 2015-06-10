@@ -4,11 +4,11 @@ See "FDA-approved patient labeling (Patient Information)."
 
 Patients should be informed of the following information:
 
-## 17.1 Use in Men with Known or Suspected Prostate or Breast Cancer
+- Use in Men with Known or Suspected Prostate or Breast Cancer
 
 Men with known or suspected prostate or breast cancer should not use ANDRODERM [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-## 17.2 Potential Adverse Reactions with Androgens
+- Potential Adverse Reactions with Androgens
 
 Patients should be informed that treatment with androgens may lead to adverse reactions that include:
 
@@ -16,9 +16,7 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Breathing disturbances, including those associated with sleep, or excessive daytime sleepiness
 - Too frequent or persistent erections of the penis
 - Nausea, vomiting, changes in skin color, or ankle swelling
-
-## 17.3 Patients Should be Advised of these Application Instructions
-
+- Patients Should be Advised of these Application Instructions
 - ANDRODERM should not be applied to the scrotum.
 - ANDRODERM should not be applied over a bony prominence or on a part of the body that could be subject to prolonged pressure during sleep or sitting.
   Application to these sites has been associated with burn-like blister reactions.
@@ -40,7 +38,5 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Avoid swimming or showering until 3 hours following application of ANDRODERM [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
 
 For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
-
-Manufactured By: Watson Laboratories, Inc. Salt Lake City, UT 84108 USA
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA

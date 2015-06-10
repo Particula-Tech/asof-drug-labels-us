@@ -2,6 +2,8 @@
 
 ## 2.1 Dosing Information
 
+Prior to initiating ANDRODERM, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 The recommended starting dose is one ANDRODERM 4 mg/day system (not two 2 mg/day systems) applied nightly for 24 hours, delivering approximately 4 mg of testosterone per day.
 To ensure proper dosing, approximately 2 weeks after starting therapy, the early morning serum testosterone concentration should be measured following system application the previous evening.
 Serum concentrations outside the range of 400 - 930 ng/dL require increasing the daily dose to 6 mg (i.e., one 4 mg/day and one 2 mg/day system) or decreasing the daily dose to 2 mg (i.e., one 2 mg/day system), maintaining nightly application.

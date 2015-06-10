@@ -16,9 +16,11 @@ One subject who received ANDRODERM 4 mg/day treatment had serum testosterone Cav
 The mean (SD) serum testosterone Cmax following treatment with the 2 mg/day (N = 4) and 4 mg/day (N = 31) systems was 648 (145) ng/dL and 696 (158) ng/dL, respectively.
 Table 3 summarizes testosterone Cavg categories by treatment.
 
-| Table 3. Testosterone Cavg Categories on Day 28 after One Titration on Day 15 |  |
-| --- | --- |
+Table 3.
+Testosterone Cavg Categories on Day 28 after One Titration on Day 15
+
 | Cavg Category | Current Testosterone User N = 35 |
+| --- | --- |
 | 300 - 1030 ng/dL (n (%) (95% CI)) | 34/35 (97%) (85%, 100%) |
 | < 300 ng/dL (n (%)) | 1/35 (3%) |
 
