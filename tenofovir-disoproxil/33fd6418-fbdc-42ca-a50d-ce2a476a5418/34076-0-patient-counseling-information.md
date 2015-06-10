@@ -1,10 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use).
-
-Information for Patients
-
-Patients should be advised that:
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 - VIREAD is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
   Patients should remain under the care of a physician when using VIREAD.
@@ -16,7 +12,7 @@ Patients should be advised that:
   - Do not breastfeed.
     Tenofovir is excreted in breast milk and it is not known whether it can harm the baby.
     Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-- The long term effects of VIREAD are unknown.
+- The long-term effects of VIREAD are unknown.
 - VIREAD tablets and oral powder are for oral ingestion only.
 - VIREAD should not be discontinued without first informing their physician.
 - If you have HIV-1 infection, with or without HBV coinfection, it is important to take VIREAD with combination therapy.

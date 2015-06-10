@@ -57,8 +57,7 @@ Under normal circumstances, BMD increases rapidly in pediatric patients.
 In HIV-1 infected subjects aged 2 years to less than 18 years, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
 Total body BMD gain was less in the VIREAD-treated HIV-1 infected pediatric subjects as compared to the control groups.
 Similar trends were observed in chronic hepatitis B infected adolescent subjects aged 12 years to less than 18 years.
-In all pediatric trials, skeletal growth (height) appeared to be unaffected.
-[See Adverse Reactions (6.1)].
+In all pediatric trials, skeletal growth (height) appeared to be unaffected [See Adverse Reactions (6.1)].
 
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 Assessment of BMD should be considered for adults and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.

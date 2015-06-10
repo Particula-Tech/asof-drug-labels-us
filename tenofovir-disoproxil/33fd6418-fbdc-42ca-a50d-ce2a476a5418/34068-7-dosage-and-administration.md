@@ -9,7 +9,7 @@ For patients unable to swallow VIREAD tablets, the oral powder formulation (7.5 
 In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
 Safety and efficacy in pediatric patients with chronic hepatitis B weighing less than 35 kg have not been established.
 
-## 2.2 Recommended Dose in Pediatric Patients 2 Years to Less Than 12 Years of Age
+## 2.2 Recommended Dose in Pediatric Patients 2 Years to Less than 12 Years of Age
 
 HIV-1 Infection
 

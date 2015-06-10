@@ -106,7 +106,7 @@ At baseline, subjects had a mean Knodell necroinflammatory score of 8.4; mean pl
 
 The primary data analysis was conducted after all subjects reached 48 weeks of treatment and results are summarized below.
 
-The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 20).
+The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL (69 IU/mL) and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 20).
 
 Table 20 Histological, Virological, Biochemical, and Serological Response at Week 48
 
@@ -125,15 +125,15 @@ Treatment Beyond 48 Weeks
 
 In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to VIREAD and HEPSERA, respectively) were eligible to roll over to open-label VIREAD with no interruption in treatment.
 
-In Study 0102, 304 of 375 subjects (81%) continued in the study through Week 240.
-Among subjects randomized to VIREAD followed by open-label treatment with VIREAD, 82% had HBV DNA < 400 copies/mL, and 69% had ALT normalization at Week 240.
-Among subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 88% had HBV DNA < 400 copies/mL and 76% had ALT normalization through Week 240.
-No subject in either treatment group experienced HBsAg loss/seroconversion through Week 240.
+In Study 0102, 266 of 347 subjects who entered the open-label period (77%) continued in the study through Week 384.
+Among subjects randomized to VIREAD followed by open-label treatment with VIREAD, 73% had HBV DNA <400 copies/ml (69 IU/ml), and 63% had ALT normalization at Week 384.
+Among subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 80% had HBV DNA <400 copies/mL (69 IU/mL) and 70% had ALT normalization through Week 384.
+At Week 384, both HBsAg loss and seroconversion were approximately 1% in both treatment groups.
 
-In Study 0103, 185 of 266 subjects (69%) continued in the study through Week 240.
-Among subjects randomized to VIREAD, 63% had HBV DNA < 400 copies/mL, 44% had ALT normalization, and 34% had HBeAg loss (26% seroconversion to anti-HBe antibody) through Week 240.
-Among subjects randomized to HEPSERA followed by up to 192 weeks of open-label treatment with VIREAD, 64% had HBV DNA < 400 copies/mL, 54% had ALT normalization, and 34% had HBeAg loss (29% seroconversion to anti-HBe antibody) through Week 240.
-At Week 240, HBsAg loss was 9% in both treatment groups, and seroconversion to anti-HBs was 7% for the subjects initially randomized to VIREAD and 9% for subjects initially randomized to HEPSERA.
+In Study 0103, 146 of 238 subjects who entered the open-label period (61%) continued in the study through Week 384.
+Among subjects randomized to VIREAD, 49% had HBV DNA <400 copies/mL (69 IU/mL), 42% had ALT normalization, and 20% had HBeAg loss (13% seroconversion to anti-HBe antibody) through Week 384.
+Among subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 56% had HBV DNA <400 copies/mL (69 IU/mL), 50% had ALT normalization, and 28% had HBeAg loss (19% seroconversion to anti-HBe antibody) through Week 384.
+At Week 384, HBsAg loss and seroconversion were 11% and 8% respectively, in subjects initially randomized to VIREAD and 12% and 10%, respectively, in subjects initially randomized to HEPSERA.
 
 Of the originally randomized and treated 641 subjects in the two studies, liver biopsy data from 328 subjects who received continuing open-label treatment with VIREAD monotherapy were available for analysis at baseline, Week 48 and Week 240.
 There were no apparent differences between the subset of subjects who had liver biopsy data at Week 240 and those subjects remaining on open-label VIREAD without biopsy data that would be expected to affect histological outcomes at Week 240.
@@ -151,9 +151,9 @@ The mean age of subjects randomized to VIREAD was 47 years (range 18–73), 74% 
 At baseline, 54% of subjects were HBeAg-negative, 46% were HBeAg-positive, and 56% had abnormal ALT.
 Subjects had a mean HBV DNA of 6.4 log10 copies/mL and mean serum ALT of 71 U/L at baseline.
 
-After 96 weeks of treatment, 126 of 141 subjects (89%) randomized to VIREAD had HBV DNA < 400 copies/mL, and 49 of 79 subjects (62%) with abnormal ALT at baseline had ALT normalization.
+After 96 weeks of treatment, 126 of 141 subjects (89%) randomized to VIREAD had HBV DNA < 400 copies/mL (69 IU/mL), and 49 of 79 subjects (62%) with abnormal ALT at baseline had ALT normalization.
 Among the HBeAg-positive subjects randomized to VIREAD, 10 of 65 subjects (15%) experienced HBeAg loss, and 7 of 65 subjects (11%) experienced anti-HBe seroconversion through Week 96.
-The proportion of subjects with HBV DNA concentrations below 400 copies/mL at Week 96 was similar between the VIREAD monotherapy and the comparator arms.
+The proportion of subjects with HBV DNA concentrations below 400 copies/mL (69 IU/mL) at Week 96 was similar between the VIREAD monotherapy and the comparator arms.
 
 Across the combined chronic hepatitis B treatment trials, the number of subjects with adefovir-resistance associated substitutions at baseline was too small to establish efficacy in this subgroup.
 
@@ -166,5 +166,5 @@ At baseline, 69% subjects were HBeAg-negative, and 31% were HBeAg-positive.
 Subjects had a mean Child-Pugh score of 7, a mean MELD score of 12, mean HBV DNA of 5.8 log10 copies/mL and mean serum ALT of 61 U/L at baseline.
 Trial endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0.5 mg/dL or confirmed serum phosphorus of < 2 mg/dL [See Adverse Reactions (6.1)].
 
-At 48 weeks, 31/44 (70%) and 12/26 (46%) Viread-treated subjects achieved an HBV DNA < 400 copies/mL, and normalized ALT, respectively.
+At 48 weeks, 31/44 (70%) and 12/26 (46%) Viread-treated subjects achieved an HBV DNA < 400 copies/mL (69 IU/mL), and normalized ALT, respectively.
 The trial was not designed to evaluate treatment impact on clinical endpoints such as progression of liver disease, need for liver transplantation, or death.

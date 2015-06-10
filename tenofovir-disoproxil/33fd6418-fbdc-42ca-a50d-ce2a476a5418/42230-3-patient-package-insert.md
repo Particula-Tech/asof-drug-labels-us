@@ -27,7 +27,7 @@ VIREAD can cause serious side effects, including:
   In some cases these liver problems can lead to death.
   Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take VIREAD.
   Call your healthcare provider right away if you have any of the following symptoms of liver problems:
-  - Your skin or the white part of your eyes turns yellow (jaundice).
+  - your skin or the white part of your eyes turns yellow (jaundice).
   - dark "tea-colored" urine
   - light-colored bowel movements (stools)
   - loss of appetite for several days or longer
@@ -208,6 +208,6 @@ VIREAD Oral Powder: mannitol, hydroxypropyl cellulose, ethylcellulose, and silic
 
 Tablet Coating:
 
-VIREAD tablets 300 mg: Opadry II Y–30–10671–A, which contains FD&C blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+VIREAD tablets 300 mg: Opadry II Y-30-10671-A, which contains FD&C blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
 
 VIREAD tablets 150, 200 and 250 mg: Opadry II 32K-18425, which contains hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.

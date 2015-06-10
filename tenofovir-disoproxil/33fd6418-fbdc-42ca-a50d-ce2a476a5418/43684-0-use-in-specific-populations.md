@@ -16,10 +16,10 @@ Reproduction studies have been performed in rats and rabbits at doses up to 14 a
 
 ## 8.3 Nursing Mothers
 
-Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
+Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is secreted in human milk.
 The impact of this exposure in breastfed infants is unknown.
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving VIREAD.
+Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving VIREAD.
 
 ## 8.4 Pediatric Use
 
@@ -51,7 +51,7 @@ In Study 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to les
 At study entry, the mean HBV DNA was 8.1 log10 copies/mL and mean ALT was 101 U/L.
 Of 52 subjects treated with VIREAD, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide-experienced.
 Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine experience.
-At Week 72, 88% (46/52) of subjects in the VIREAD group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL.
+At Week 72, 88% (46/52) of subjects in the VIREAD group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
 Among subjects with abnormal ALT at baseline, 74% (26/35) of subjects receiving VIREAD had normalized ALT at Week 72 compared to 31% (13/42) in the placebo group.
 One VIREAD-treated subject experienced sustained HBsAg-loss and seroconversion to anti-HBs during the first 72 weeks of study participation.
 

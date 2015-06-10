@@ -15,7 +15,7 @@ VIREAD is available as tablets or as an oral powder.
 
 VIREAD tablets are for oral administration in strengths of 150, 200, 250, and 300 mg of tenofovir disoproxil fumarate, which are equivalent to 123, 163, 204 and 245 mg of tenofovir disoproxil, respectively.
 Each tablet contains the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
-The 300 mg tablets are coated with Opadry II Y–30–10671–A, which contains FD&C blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+The 300 mg tablets are coated with Opadry II Y-30-10671-A, which contains FD&C blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
 The 150, 200, and 250 mg tablets are coated with Opadry II 32K-18425, which contains hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
 
 VIREAD oral powder is available for oral administration as white, taste-masked, coated granules containing 40 mg of tenofovir disoproxil fumarate per gram of oral powder, which is equivalent to 33 mg of tenofovir disoproxil.

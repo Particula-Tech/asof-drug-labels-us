@@ -26,13 +26,13 @@ VIREAD should not be coadministered with atazanavir without ritonavir.
 
 Lopinavir/ritonavir, atazanavir coadministered with ritonavir, and darunavir coadministered with ritonavir have been shown to increase tenofovir concentrations [See Clinical Pharmacology (12.3)].
 Tenofovir disoproxil fumarate is a substrate of P-glycoprotein (Pgp) and breast cancer resistance protein (BCRP) transporters.
-When tenofovir disoproxil fumarate is co-administered with an inhibitor of these transporters, an increase in absorption may be observed.
+When tenofovir disoproxil fumarate is coadministered with an inhibitor of these transporters, an increase in absorption may be observed.
 Patients receiving VIREAD concomitantly with lopinavir/ritonavir, ritonavir-boosted atazanavir, or ritonavir-boosted darunavir should be monitored for VIREAD-associated adverse reactions.
 VIREAD should be discontinued in patients who develop VIREAD-associated adverse reactions.
 
 ## 7.3 Drugs Affecting Renal Function
 
 Since tenofovir is primarily eliminated by the kidneys [See Clinical Pharmacology (12.3)], coadministration of VIREAD with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
-Some examples include, but are not limited to cidofovir, acyclovir, valacyclovir, ganciclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
+Some examples include, but are not limited to, cidofovir, acyclovir, valacyclovir, ganciclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [See Warnings and Precautions (5.3)].
 
 In the treatment of chronic hepatitis B, VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil).

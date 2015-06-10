@@ -52,9 +52,9 @@ Gender: Tenofovir pharmacokinetics are similar in male and female subjects.
 Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 11).
 Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of VIREAD 300 mg (tablet) or 8 mg/kg of body weight (powder) up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
 
-Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV–1–infected Pediatric Patients
+Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1-infected Pediatric Patients
 
-|  | 12 to <18 Year (N=8) | 2 to <12 Years (N=23) |
+|  | 12 to <18 Years (N=8) | 2 to <12 Years (N=23) |
 | --- | --- | --- |
 | Dose and Formulation | 300 mg Tablet | 8 mg/kg Oral Powder |
 | Cmax (µg/mL) | 0.38 ± 0.13 | 0.24 ± 0.13 |
@@ -162,7 +162,7 @@ Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B
 Resistance
 
 HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
-These viruses expressed a K65R substitution in reverse transcriptase and showed a 2–4 fold reduction in susceptibility to tenofovir.
+These viruses expressed a K65R substitution in reverse transcriptase and showed a 2- to 4- fold reduction in susceptibility to tenofovir.
 
 In Study 903 of treatment-naïve subjects (VIREAD + lamivudine + efavirenz versus stavudine + lamivudine + efavirenz) [See Clinical Studies (14.1)], genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of efavirenz and lamivudine resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
 The K65R substitution occurred in 8/47 (17%) analyzed patient isolates on the VIREAD arm and in 2/49 (4%) analyzed patient isolates on the stavudine arm.
@@ -223,18 +223,18 @@ In cell culture combination antiviral activity studies of tenofovir with the nuc
 
 Resistance
 
-Cumulative VIREAD genotypic resistance has been evaluated annually for up to 240 weeks in Studies 0102, 0103, 0106, 0108, and 0121 with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of VIREAD monotherapy and remained viremic with HBV DNA greater than or equal to 400 copies/mL at the end of each study year (or at discontinuation of VIREAD monotherapy) using an as-treated analysis.
-In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on VIREAD monotherapy (15% versus 4%, respectively).
+Cumulative VIREAD genotypic resistance has been evaluated annually for up to 384 weeks in Studies 0102, 0103, 0106, 0108, and 0121 with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of VIREAD monotherapy and remained viremic with HBV DNA greater than or equal to 400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of VIREAD monotherapy) using an as-treated analysis.
+In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on VIREAD monotherapy (15% versus 5%, respectively).
 
 HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 16); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
 
 Table 16 Amino Acid Substitutions in Viremic Subjects Across HBV Trials of VIREAD
 
-|  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (N=246) and 0103 (N=171) receiving up to 240 weeks of treatment with VIREAD. | HEPSERA-Experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (N=195) and 0106 (N=52) receiving up to 192 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. | Lamivudine- Resistant (N=136)Lamivudine-resistant subjects from Study 0121 (N=136) receiving up to 96 weeks of treatment with VIREAD after switching to VIREAD from lamivudine. |  |
+|  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (N=246) and 0103 (N=171) receiving up to 384 weeks of treatment with VIREAD. | HEPSERA-Experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. | Lamivudine- Resistant (N=136)Lamivudine-resistant subjects from Study 0121 (N=136) receiving up to 96 weeks of treatment with VIREAD after switching to VIREAD from lamivudine. |  |
 | --- | --- | --- | --- | --- |
 |  | Compensated Liver Disease |  |  | Decompensated Liver Disease (N=39)Subjects with decompensated liver disease from Study 0108 (N=39) receiving up to 48 weeks of treatment with VIREAD. |
-| Viremic at Last Time Point on VIREAD | 35/417 (8%) | 34/247 (14%) | 9/136 (7%) | 7/39 (18%) |
-| Treatment-Emergent Amino Acid SubstitutionsDenominator includes those subjects who were viremic at last time point on VIREAD monotherapy and had evaluable paired genotypic data. | 19Of the 19 subjects with treatment-emergent amino acid substitutions during Studies 0102 and 0103, 5 subjects had substitutions at conserved sites and 14 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on VIREAD./33 (58%) | 10Of the 10 HEPSERA-experienced subjects with treatment-emergent amino acid substitutions, 2 subjects had substitutions at conserved sites and 8 had substitutions only at polymorphic sites./27 (37%) | 6Of the 6 lamivudine-resistant subjects with treatment-emergent substitutions during Study 0121, 3 subjects had substitutions at conserved sites and 3 had substitutions only at polymorphic sites./8 (75%) | 3/5 (60%) |
+| Viremic at Last Time Point on VIREAD | 38/417 (9%) | 37/247 (15%) | 9/136 (7%) | 7/39 (18%) |
+| Treatment-Emergent Amino Acid SubstitutionsDenominator includes those subjects who were viremic at last time point on VIREAD monotherapy and had evaluable paired genotypic data. | 18Of the 18 subjects with treatment-emergent amino acid substitutions during Studies 0102 and 0103, 5 subjects had substitutions at conserved sites and 13 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on VIREAD./32 (56%) | 11Of the 11 HEPSERA-experienced subjects with treatment-emergent amino acid substitutions, 2 subjects had substitutions at conserved sites and 9 had substitutions only at polymorphic sites./31 (35%) | 6Of the 6 lamivudine-resistant subjects with treatment-emergent substitutions during Study 0121, 3 subjects had substitutions at conserved sites and 3 had substitutions only at polymorphic sites./8 (75%) | 3/5 (60%) |
 
 Cross-Resistance
 
@@ -249,5 +249,5 @@ HBV strains expressing the adefovir resistance-associated substitutions rtA181V 
 Strains containing the rtA181T substitution showed changes in susceptibility to tenofovir ranging from 0.9- to 1.5-fold that of wild type virus.
 
 One hundred fifty-two subjects initiating VIREAD therapy in Studies 0102, 0103, 0106, 0108, and 0121 harbored HBV with known resistance substitutions to HBV nucleos(t)ide analogue reverse transcriptase inhibitors: 14 with adefovir resistance-associated substitutions (rtA181S/T/V and/or rtN236T), 135 with lamivudine resistance-associated substitutions (rtM204I/V), and 3 with both adefovir and lamivudine resistance-associated substitutions.
-Following up to 240 weeks of VIREAD treatment, 11 of the 14 subjects with adefovir-resistant HBV, 124 of the 135 subjects with lamivudine-resistant HBV, and 2 of the 3 subjects with both adefovir- and lamivudine-resistant HBV achieved and maintained virologic suppression (HBV DNA less than 400 copies/mL).
+Following up to 384 weeks of VIREAD treatment, 10 of the 14 subjects with adefovir-resistant HBV, 124 of the 135 subjects with lamivudine-resistant HBV, and 2 of the 3 subjects with both adefovir- and lamivudine-resistant HBV achieved and maintained virologic suppression (HBV DNA less than 400 copies/mL [69 IU/mL]).
 Three of the 5 subjects whose virus harbored both the rtA181T/V and rtN236T substitutions remained viremic.
