@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077770"
+  ],
+  "inn": "desoximetasone",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-496-14",
+    "45802-496-96"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "desoximetasone",
+      "name": "desoximetasone"
+    }
+  ],
+  "setid": "4025ed23-a591-4754-8dbb-4da18f49a3e3",
+  "source": "dailymed"
+}
