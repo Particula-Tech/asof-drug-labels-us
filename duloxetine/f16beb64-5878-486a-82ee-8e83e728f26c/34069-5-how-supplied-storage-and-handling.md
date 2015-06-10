@@ -13,7 +13,7 @@ available in the following strengths, colors, imprints, and presentations:
 | Cap color | Green | Blue | Blue |
 | Cap imprint | 381 | 382 | 383 |
 | Body imprint | 381 | 382 | 383 |
-| Capsule size | 4 | 3 | 1 |
+| Capsule Size | 4 | 3 | 1 |
 | Presentations and NDC Codes |  |  |  |
 | Bottles of 30 CRC | 47335-381-83 | 47335-382-83 | 47335-383-83 |
 | Bottles of 60 CRC | 47335-381-86 | - | - |
@@ -23,7 +23,7 @@ available in the following strengths, colors, imprints, and presentations:
 | Bottles of 1000 NCRC | 47335-381-18 | 47335-382-18 | 47335-383-18 |
 | Unit dose blisters of 100 | 47335-381-61 | 47335-382-61 | 47335-383-61 |
 
-## 16.2 Storage
+## 16.2 Storage and Handling
 
 Store duloxetine delayed-release capsules USP at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F) [see USP Controlled Room Temperature].
 Dispense in a tightly closed container.

@@ -9,6 +9,7 @@ Although the exact mechanisms of the antidepressant, central pain inhibitory and
 Preclinical studies have shown that duloxetine is a potent inhibitor of neuronal serotonin and norepinephrine reuptake and a less potent inhibitor of dopamine reuptake.
 Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors in vitro.
 Duloxetine does not inhibit monoamine oxidase (MAO).
+
 Duloxetine is in a class of drugs known to affect urethral resistance.
 If symptoms of urinary hesitation develop during treatment with duloxetine, consideration should be given to the possibility that they might be drug-related.
 
@@ -17,14 +18,17 @@ If symptoms of urinary hesitation develop during treatment with duloxetine, cons
 Duloxetine has an elimination half-life of about 12 hours (range 8 to 17 hours) and its pharmacokinetics are dose proportional over the therapeutic range.
 Steady-state plasma concentrations are typically achieved after 3 days of dosing.
 Elimination of duloxetine is mainly through hepatic metabolism involving two P450 isozymes, CYP1A2 and CYP2D6.
-Absorption and Distribution - Orally administered duloxetine hydrochloride is well absorbed.
+
+Absorption and Distribution — Orally administered duloxetine hydrochloride is well absorbed.
 There is a median 2 hour lag until absorption begins (Tlag), with maximal plasma concentrations (Cmax) of duloxetine occurring 6 hours post dose.
 Food does not affect the Cmax of duloxetine, but delays the time to reach peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (AUC) by about 10%.
 There is a 3 hour delay in absorption and a one-third increase in apparent clearance of duloxetine after an evening dose as compared to a morning dose.
-The apparent volume of distribution averages about 1640 L. Duloxetine is highly bound (>90%) to proteins in human plasma, binding primarily to albumin and α1-acid glycoprotein.
+
+The apparent volume of distribution averages about 1,640 L. Duloxetine is highly bound (>90%) to proteins in human plasma, binding primarily to albumin and α1-acid glycoprotein.
 The interaction between duloxetine and other highly protein bound drugs has not been fully evaluated.
 Plasma protein binding of duloxetine is not affected by renal or hepatic impairment.
-Metabolism and Elimination - Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
+
+Metabolism and Elimination — Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
 Duloxetine comprises about 3% of the total radiolabeled material in the plasma, indicating that it undergoes extensive metabolism to numerous metabolites.
 The major biotransformation pathways for duloxetine involve oxidation of the naphthyl ring followed by conjugation and further oxidation.
 Both CYP1A2 and CYP2D6 catalyze the oxidation of the naphthyl ring in vitro.
