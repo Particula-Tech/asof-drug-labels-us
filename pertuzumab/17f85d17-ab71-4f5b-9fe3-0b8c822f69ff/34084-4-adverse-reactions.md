@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)]
-- Left Ventricular Dysfunction [see Warnings and Precautions (5.2)]
+- Left Ventricular Dysfunction [see Warnings and Precautions (5.1)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.2)]
 - Infusion-Related Reactions [see Warnings and Precautions (5.3)]
 - Hypersensitivity Reactions/Anaphylaxis [see Warnings and Precautions (5.4)]
 

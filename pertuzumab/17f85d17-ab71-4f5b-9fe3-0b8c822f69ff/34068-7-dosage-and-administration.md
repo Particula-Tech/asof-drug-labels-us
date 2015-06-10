@@ -45,11 +45,11 @@ Left Ventricular Ejection Fraction (LVEF):
 Withhold PERJETA and trastuzumab dosing for at least 3 weeks for either:
 
 - a drop in LVEF to less than 45% or
-- LVEF of 45% to 49% with a 10% or greater absolute decrease below pretreatment values [see Warnings and Precautions (5.2)]
+- LVEF of 45% to 49% with a 10% or greater absolute decrease below pretreatment values [see Warnings and Precautions (5.1)]
 
 PERJETA may be resumed if the LVEF has recovered to greater than 49% or to 45% to 49% associated with less than a 10% absolute decrease below pretreatment values.
 
-If after a repeat assessment within approximately 3 weeks, the LVEF has not improved, or has declined further, PERJETA and trastuzumab should be discontinued, unless the benefits for the individual patient are deemed to outweigh the risks [see Warnings and Precautions (5.2)].
+If after a repeat assessment within approximately 3 weeks, the LVEF has not improved, or has declined further, PERJETA and trastuzumab should be discontinued, unless the benefits for the individual patient are deemed to outweigh the risks [see Warnings and Precautions (5.1)].
 
 Infusion-Related Reactions
 

@@ -1,22 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Embryo-Fetal Toxicity
-
-PERJETA can cause fetal harm when administered to a pregnant woman.
-Treatment of pregnant cynomolgus monkeys with pertuzumab resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal death.
-If PERJETA is administered during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
-
-Verify pregnancy status prior to the initiation of PERJETA.
-Advise patients of the risks of embryo-fetal death and birth defects and the need for contraception during and after treatment.
-Advise patients to contact their healthcare provider immediately if they suspect they may be pregnant.
-If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
-Encourage women who may be exposed during pregnancy to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 [see Patient Counseling Information (17)].
-
-Monitor patients who become pregnant during PERJETA therapy for oligohydramnios.
-If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
-The efficacy of intravenous hydration in the management of oligohydramnios due to PERJETA exposure is not known.
-
-## 5.2 Left Ventricular Dysfunction
+## 5.1 Left Ventricular Dysfunction
 
 Decreases in LVEF have been reported with drugs that block HER2 activity, including PERJETA.
 In Study 1, for patients with MBC, PERJETA in combination with trastuzumab and docetaxel was not associated with increases in the incidence of symptomatic left ventricular systolic dysfunction (LVSD) or decreases in LVEF compared with placebo in combination with trastuzumab and docetaxel [see Clinical Studies (14.1)].
@@ -39,6 +23,22 @@ PERJETA has not been studied in patients with a pretreatment LVEF value of ≤ 5
 Assess LVEF prior to initiation of PERJETA and at regular intervals (e.g., every three months in the metastatic setting and every six weeks in the neoadjuvant setting) during treatment to ensure that LVEF is within the institution's normal limits.
 If LVEF is < 45%, or is 45% to 49% with a 10% or greater absolute decrease below the pretreatment value, withhold PERJETA and trastuzumab and repeat LVEF assessment within approximately 3 weeks.
 Discontinue PERJETA and trastuzumab if the LVEF has not improved or has declined further, unless the benefits for the individual patient outweigh the risks [see Dosage and Administration (2.2)].
+
+## 5.2 Embryo-Fetal Toxicity
+
+PERJETA can cause fetal harm when administered to a pregnant woman.
+Treatment of pregnant cynomolgus monkeys with pertuzumab resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal death.
+If PERJETA is administered during pregnancy, or if the patient becomes pregnant while receiving this drug or within 7 months following the last dose of PERJETA in combination with trastuzumab, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+
+Verify pregnancy status prior to the initiation of PERJETA.
+Advise patients of the risks of embryo-fetal death and birth defects and the need for contraception during and after treatment.
+Advise patients to contact their healthcare provider immediately if they suspect they may be pregnant.
+If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA or within 7 months following the last dose of PERJETA in combination with trastuzumab, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
+Encourage women who may be exposed during pregnancy or within 7 months for PERJETA in combination with trastuzumab prior to conception, to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 [see Patient Counseling Information (17)].
+
+Monitor patients who become pregnant during PERJETA therapy for oligohydramnios.
+If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
+The efficacy of intravenous hydration in the management of oligohydramnios due to PERJETA exposure is not known.
 
 ## 5.3 Infusion-Related Reactions
 

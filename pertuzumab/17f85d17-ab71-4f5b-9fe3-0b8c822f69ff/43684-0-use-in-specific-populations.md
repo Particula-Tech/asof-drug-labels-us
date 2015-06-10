@@ -10,10 +10,10 @@ There are no adequate and well-controlled studies of PERJETA in pregnant women.
 Based on findings in animal studies, PERJETA can cause fetal harm when administered to a pregnant woman.
 The effects of PERJETA are likely to be present during all trimesters of pregnancy.
 Pertuzumab administered to pregnant cynomolgus monkeys resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal deaths at clinically relevant exposures of 2.5 to 20-fold greater than the recommended human dose, based on Cmax.
-If PERJETA is administered during pregnancy, or if a patient becomes pregnant while receiving PERJETA, the patient should be apprised of the potential hazard to the fetus.
+If PERJETA is administered during pregnancy, or if a patient becomes pregnant while receiving PERJETA or within 7 months following the last dose of PERJETA in combination with trastuzumab, the patient should be apprised of the potential hazard to the fetus.
 
-If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
-Encourage women who may be exposed during pregnancy to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 [see Patient Counseling Information (17)].
+If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA or within 7 months following the last dose of PERJETA in combination with trastuzumab, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
+Encourage women who may be exposed during pregnancy or within 7 months for PERJETA in combination with trastuzumab prior to conception, to enroll in the MotHER Pregnancy Registry by contacting 1-800-690-6720 [see Patient Counseling Information (17)].
 
 Animal Data
 
@@ -28,7 +28,7 @@ Pertuzumab exposure was reported in offspring from all treated groups, at levels
 ## 8.3 Nursing Mothers
 
 It is not known whether PERJETA is excreted in human milk, but human IgG is excreted in human milk.
-Because many drugs are secreted in human milk and because of the potential for serious adverse reactions in nursing infants from PERJETA, a decision should be made whether to discontinue nursing, or discontinue drug, taking into account the elimination half-life of PERJETA and the importance of the drug to the mother [See Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+Because many drugs are secreted in human milk and because of the potential for serious adverse reactions in nursing infants from PERJETA, a decision should be made whether to discontinue nursing, or discontinue drug, taking into account the elimination half-life of PERJETA and the importance of the drug to the mother [See Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
@@ -45,10 +45,10 @@ Based on a population pharmacokinetic analysis, no significant difference was ob
 
 PERJETA can cause embryo-fetal harm when administered during pregnancy.
 Counsel patients regarding pregnancy prevention and planning.
-Advise females of reproductive potential to use effective contraception while receiving PERJETA and for 6 months following the last dose of PERJETA.
+Advise females of reproductive potential to use effective contraception while receiving PERJETA and for 7 months following the last dose of PERJETA in combination with trastuzumab.
 
-If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
-Encourage women who may be exposed during pregnancy to enroll in the MotHER Pregnancy Registry by contacting1-800-690-6720 [see Patient Counseling Information (17)].
+If PERJETA is administered during pregnancy or if a patient becomes pregnant while receiving PERJETA or within 7 months following the last dose of PERJETA in combination with trastuzumab, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555.
+Encourage women who may be exposed during pregnancy or within 7 months for PERJETA in combination with trastuzumab prior to conception, to enroll in the MotHER Pregnancy Registry by contacting1-800-690-6720 [see Patient Counseling Information (17)].
 
 ## 8.7 Renal Impairment
 
