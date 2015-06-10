@@ -11,4 +11,4 @@ Divalproex sodium delayed-release tablets USP are supplied in three dosage stren
 
 Inactive Ingredients
 
-Divalproex sodium delayed-release tablets USP contain: colloidal silicon dioxide, D&C Red No. 30, FD&C Blue No. 2, hydroxylpropyl cellulose, hypromellose, hypromellose phthalate, iron oxide black, iron oxide yellow, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, pregelatinised starch, propylene glycol, shellac, talc, titanium dioxide, triethyl citrate.
+Divalproex sodium delayed-release tablets USP: colloidal silicon dioxide, D&C Red No. 30, FD&C Blue No. 2, hydroxylpropyl cellulose, hypromellose, hypromellose phthalate, iron oxide black, iron oxide yellow, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, pregelatinised starch, propylene glycol, shellac, talc, titanium dioxide, triethyl citrate.

@@ -16,7 +16,7 @@ Study 1
 
 | YMRS Total Score |  |  |  |
 | --- | --- | --- | --- |
-| Group | BaselineMean score at baseline | BL to Wk 3Change from baseline to week 3 (LOCF) | DifferenceDifference in change from baseline to week 3 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo |
+| Group | BaselineMean score at baseline | BL to Wk 3Change from baseline to Week 3 (LOCF) | DifferenceDifference in change from baseline to Week 3 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo |
 | Placebo | 28.8 | + 0.2 |  |
 | Divalproex sodium delayed-release tablets | 28.5 | - 9.5 | 9.7 |
 | BPRS-A Total Score |  |  |  |
@@ -72,7 +72,7 @@ PBO = placebo, DVPX = Divalproex sodium delayed-release tablets
 
 The efficacy of valproate in reducing the incidence of complex partial seizures (CPS) that occur in isolation or in association with other seizure types was established in two controlled trials.
 
-In one multiclinic, placebo controlled study employing an add-on design, (adjunctive therapy) 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium delayed-release tablets or placebo.
+In one, multiclinic, placebo controlled study employing an add-on design, (adjunctive therapy) 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium delayed-release tablets or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 

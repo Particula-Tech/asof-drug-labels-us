@@ -306,7 +306,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatologic
 
-Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
 Psychiatric
 
@@ -326,7 +326,7 @@ Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic wi
 
 Endocrine
 
-Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
+Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
