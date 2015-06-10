@@ -138,8 +138,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 By Alkermes Gainesville LLC Gainesville, GA 30504
+Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 By Recro Gainesville LLC Gainesville, GA 30504
 
 © Novartis
 
-T2013-124 December 2013
+T2015-94 June 2015
