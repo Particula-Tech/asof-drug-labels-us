@@ -1,8 +1,8 @@
 # WARNINGS
 
-Kidney, Liver and Heart Transplant
+Kidney, Liver, and Heart Transplant
 
-(See boxed WARNINGS.)
+(See BOXED WARNINGS.)
 
 Cyclosporine capsules, (NON-MODIFIED), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
 
@@ -36,7 +36,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 |  |  | Decrease in daily urine volume > 500 mL |
 |  |  | (or 50%) |
 | Laboratory | CyA serum trough level > 200 ng/mL | CyA serum trough level < 150 ng/mL |
-|  | Gradual rise in Cr (< 0.15 mg/dl/day)a | Rapid rise in Cr (> 0.3 mg/dl/day)a |
+|  | Gradual rise in Cr (< 0.15 mg/dL/day)a | Rapid rise in Cr (> 0.3 mg/dL/day)a |
 |  | Cr plateau < 25% above baseline | Cr > 25% above baseline |
 |  | BUN/Cr ≥ 20 | BUN/Cr < 20 |
 | Biopsy | Arteriolopathy (medial hypertrophya, | Endovasculitisc (proliferationa, |
@@ -158,7 +158,7 @@ Specific Excipients
 
 Alcohol (methanol)
 
-The alcohol content (see DESCRIPTION) of cyclosporine capsules should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breast feeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+The alcohol content (see DESCRIPTION) of cyclosporine capsules should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breastfeeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
 For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
 The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
 
@@ -204,7 +204,7 @@ Renal and liver functions should be assessed repeatedly by measurement of BUN, s
 A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
 
 All of the individual drugs cited below are well substantiated to interact with cyclosporine.
-In addition, concomitant use of nonsteroidal anti-inflammatory drugs with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
+In addition, concomitant use of nonsteroidal anti-inflammatory drugs (NSAIDs) with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
 Caution should be exercised when using other drugs which are known to impair renal function (see WARNINGS, Nephrotoxicity).
 
 ### Drugs That May Potentiate Renal Dysfunction
@@ -214,14 +214,14 @@ Caution should be exercised when using other drugs which are known to impair ren
 | ciprofloxacingentamicintobramycin trimethoprim with sulfamethoxazole vancomycin | melphalan | amphotericin Bketoconazole | azapropazoncolchicinediclofenacnaproxen sulindac | cimetidine ranitidine | tacrolimus | fibric acid derivatives (e.g., bezafibrate, fenofibrate) methotrexate |
 
 During the concomitant use of a drug that may exhibit additive or synergistic renal impairment potential with cyclosporine, close monitoring of renal function (in particular serum creatinine) should be performed.
-If a significant impairment of renal function occurs, reduction in the dosage of cyclosporine and/or co-administered drug or an alternative treatment should be considered.
+If a significant impairment of renal function occurs, reduction in the dosage of cyclosporine and/or coadministered drug or an alternative treatment should be considered.
 
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
 Appropriate cyclosporine capsules dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see Blood Concentration Monitoring).
 
-### 1.Drugs That Increase Cyclosporine Concentrations
+### 1. Drugs That Increase Cyclosporine Concentrations
 
 | CalciumChannel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
@@ -244,7 +244,7 @@ Grapefruit juice
 
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
 
-### 2.Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
+### 2. Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
 | Antibiotics | Anticonvulsants | Other Drugs/DietarySupplements |  |
 | --- | --- | --- | --- |
@@ -258,14 +258,15 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 Bosentan
 
 Co-administration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30% and 60%, respectively, compared to when cyclosporine was given alone (see also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Coadministration of cyclosporine with bosentan should be avoided.
 
 Boceprevir
 
-Co-administration of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and Cmax of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone.
+Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and Cmax of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone.
 
 Telaprevir
 
-Co-administration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
+Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
 
 St. John’s Wort
 
@@ -280,11 +281,12 @@ Care should be exercised when these two drugs are administered concomitantly.
 
 ### B. Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents
 
-Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
+Cyclosporine is an inhibitor of CYP3A4 and of multiple drug efflux transporters (e.g., P-glycoprotein) and may increase plasma concentrations of comedications that are substrates of CYP3A4, P-glycoprotein, or organic anion transporter proteins.
 
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins) and aliskiren, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins) and aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
+
 See the full prescribing information of the other drug for further information and specific recommendations.
-The decision on co-­administration of cyclosporine with other drugs or agents should be made by the physician following the careful assessment of benefits and risks.
+The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
 
 #### Digoxin
 
@@ -311,7 +313,8 @@ Close monitoring of blood glucose level is advisable for a patient taking cyclos
 
 #### Ambrisentan
 
-Co-administration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone.
+Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted mean increases in ambrisentan AUC and Cmax of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone.
+When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose.
 
 #### Anthracycline antibiotics
 
@@ -320,15 +323,22 @@ High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) 
 #### Aliskiren
 
 Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
-In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5 fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
+In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
 The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2.0 hours).
 The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
-Co-administration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
+Coadministration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
 The co-administration of cyclosporine with aliskiren is not recommended.
 
 #### Bosentan
 
-In healthy subjects, co-administration of bosentan and cyclosporine resulted in mean increases in dose-normalized bosentan trough concentrations on day 1 and day 8 of approximately 21-fold and 2 fold, respectively, compared to when bosentan was given alone as a single dose on day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on day 1 and 2-fold on day 8 (steady state)) compared to when bosentan was given alone as a single dose on day 1 (see also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety).
+Coadministration of cyclosporine with bosentan should be avoided.
+
+#### Dabigatran
+
+The effect of cyclosporine on dabigatran concentrations had not been formally studied.
+Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine.
+Coadministration of cyclosporine with dabigatran should be avoided.
 
 #### Potassium sparing diuretics
 
@@ -338,7 +348,7 @@ Control of potassium levels in these situations is advisable.
 
 ### Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
 
-Clinical status and serum creatinine should be closely monitored when cyclosporine is used with nonsteroidal anti-inflammatory agents in rheumatoid arthritis patients (see WARNINGS).
+Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients (see WARNINGS).
 
 Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99MTc-diethylenetriaminepentaacetic acid (DTPA) and (ρ-aminohippuric acid) PAH clearances.
 Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood levels and occasional reports of reversible decreases in renal function.
@@ -375,7 +385,7 @@ Psoriasis patients receiving other immunosuppressive agents or radiation therapy
 During treatment with cyclosporine, vaccination may be less effective.
 The use of live vaccines should be avoided.
 
-For additional information on Cyclosporine Drug Interactions, please write to: Apotex Corp., Consumer Affairs, 2400 N. Commerce Parkway, Suite 400, Weston, FL 33326.
+For additional information on Cyclosporine Drug Interactions, please contact Apotex Corp., at 1800-706-5575 or FDA at 1-800-FDA-1088.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 

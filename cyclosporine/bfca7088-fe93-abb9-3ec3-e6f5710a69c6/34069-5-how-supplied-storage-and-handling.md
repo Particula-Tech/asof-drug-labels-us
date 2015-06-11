@@ -14,15 +14,15 @@ Hard gelatin capsules with a reddish brown opaque body and a reddish brown opaqu
 
 Store and Dispense
 
-Store at 20° to 25°C (66° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (66° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container [see USP].
 
 APOTEX INC. CYCLOSPORINE CAPSULES, USP 25 mg and 100 mg
 
-Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
+Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: April 2014 Rev.
-9
+Revised: April 2015 Rev.
+10
 
 *Neoral® (cyclosporine capsules, USP) MODIFIED manufactured by Novartis.

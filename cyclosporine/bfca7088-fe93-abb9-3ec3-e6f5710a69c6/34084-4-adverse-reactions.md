@@ -10,7 +10,7 @@ Glomerular Capillary Thrombosis
 
 Glomerular capillary thrombosis has been found in patients treated with cyclosporine and may progress to graft failure.
 The pathologic changes resemble those seen in the hemolytic-uremic syndrome and include thrombosis of the renal microvasculature, with platelet-fibrin thrombi occluding glomerular capillaries and afferent arterioles, microangiopathic hemolytic anemia, thrombocytopenia, and decreased renal function.
-Similar findings have been observed when other immunosuppressives have been employed posttransplantation.
+Similar findings have been observed when other immunosuppressives have been employed post transplantation.
 
 Hypomagnesemia
 
@@ -109,3 +109,8 @@ Headache, including Migraine
 
 Cases of migraine have been reported.
 In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
+
+Pain of lower extremities
+
+Isolated cases of pain of lower extremities have been reported in association with cyclosporine.
+Pain of lower extremities has also been noted as part of Calcineurin-Inhibitor Induced Pain Syndrome (CIPS) as described in the literature.
