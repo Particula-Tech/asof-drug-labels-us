@@ -1,6 +1,8 @@
 PATIENT INFORMATION LEAFLET
 
-DESLORATADINE TABLETS
+DESLORATADINE (DES-lor-A-ta-deen)
+
+TABLETS
 
 Rx only
 
@@ -16,8 +18,8 @@ Desloratadine tablets are prescription medicine that contains the medicine deslo
 
 Desloratadine tablets are used to help control the symptoms of:
 
-- seasonal allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 2 years of age and older.
-- perennial allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 6 months of age and older.
+- seasonal allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 12 years of age and older.
+- perennial allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 12 years of age and older.
 
 Desloratadine tablets are not for children younger than 6 months of age.
 
@@ -99,7 +101,7 @@ You may report side effects to Lupin Pharmaceuticals, Inc at 1-800-399-2561 or F
 
 How should I store desloratadine tablets?
 
-• Store desloratadine tablets between 59°F to 86°F (15°C to 30°C).
+• Store at 25° C (77° F); excursions permitted to 15° to 30° C (59° to 86° F).
 
 • Desloratadine tablets are sensitive to heat.
 Do not store above 86°F (30°C).
@@ -125,6 +127,8 @@ Active ingredient: desloratadine
 
 Inactive ingredients in desloratadine tablets: anhydrous lactose, colloidal silicon dioxide, FD&C Blue#2/Indigo Carmine Aluminium Lake, hydrogenated vegetable oil, hypromellose, microcrystalline cellulose, polyethylene glycol, pregelatinised starch and titanium dioxide.
 
+The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
@@ -141,4 +145,4 @@ Goa 403 722
 
 INDIA
 
-Revised: July 2014 ID#238185
+Revised: June 2015 ID#: 241268

@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 In the event of overdose, consider standard measures to remove any unabsorbed drug.
 Symptomatic and supportive treatment is recommended.

@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Seasonal Allergic Rhinitis
 
@@ -15,7 +15,7 @@ This supports the safety of administering desloratadine tablets to adult patient
 Desloratadine tablets, 5 mg once daily significantly reduced the Total Symptom Score (the sum of individual scores of nasal and non-nasal symptoms) in patients with seasonal allergic rhinitis.
 See Table 3.
 
-Table 3 TOTAL SYMPTOM SCORE (TSS) Changes in a 2 Week Clinical Trial in Patients with Seasonal Allergic Rhinitis
+Table 3 TOTAL SYMPTOM SCORE (TSS) Changes in a 2-Week Clinical Trial in Patients with Seasonal Allergic Rhinitis
 
 | Treatment Group (n) | Mean Baseline* (SEM) | Change from Baseline** (SEM) | Placebo Comparison (P-value) |
 | --- | --- | --- | --- |
