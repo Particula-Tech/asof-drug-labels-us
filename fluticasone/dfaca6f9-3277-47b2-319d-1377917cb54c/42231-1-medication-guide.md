@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 ADVAIR® [ad′ vair] HFA 45/21
 
@@ -132,7 +132,8 @@ ADVAIR HFA can cause serious side effects, including:
 - •See “What is the most important information I should know about ADVAIR HFA?”
 - •fungal infection in your mouth or throat (thrush).
   Rinse your mouth with water without swallowing after using ADVAIR HFA to help decrease your chance of getting thrush.
-- •pneumonia.ADVAIR HFA contains the same medicine found in ADVAIR DISKUS® (fluticasone propionate and salmeterol inhalation powder).
+- •pneumonia.
+  ADVAIR HFA contains the same medicine found in ADVAIR DISKUS® (fluticasone propionate and salmeterol inhalation powder).
   ADVAIR DISKUS is used to treat people with asthma and people with chronic obstructive pulmonary disease (COPD).
   People with COPD have a higher chance of getting pneumonia.
   ADVAIR DISKUS may increase the chance of you getting pneumonia.
@@ -149,12 +150,8 @@ ADVAIR HFA can cause serious side effects, including:
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as ADVAIR HFA).
   When your body is under stress such as from fever, trauma (such as a car accident), infection, surgery, or worse COPD symptoms, adrenal insufficiency can get worse and may cause death.
-- Symptoms of adrenal insufficiency include:
-  1. •feeling tired
-  2. •lack of energy
-  3. •weakness
-  4. •nausea and vomiting
-  5. •low blood pressure
+  - Symptoms of adrenal insufficiency include:
+
 - •sudden breathing problems immediately after inhaling your medicine.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
@@ -234,7 +231,6 @@ Your ADVAIR HFA inhaler
 - •The canister has a counter to show how many sprays of medicine you have left.
   The number shows through a window in the back of the actuator.
   See Figure B.
-- 
 
 - •The counter starts at either 124 or 064, depending on which size inhaler you have.
   The number will count down by 1 each time you spray the inhaler.
@@ -260,12 +256,10 @@ Priming your ADVAIR HFA inhaler
 - •To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
   Then spray the inhaler 1 time into the air away from your face.
   See Figure C. Avoid spraying in eyes.
-- 
 
 - •Shake and spray the inhaler like this 3 more times to finish priming it.
   The counter should now read 120 or 060, depending on which size inhaler you have.
   See Figure D.
-- 
 
 - •You must prime your inhaler again if you have not used it in more than 4 weeks or if you drop it.
   Take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
@@ -276,52 +270,47 @@ How to use your ADVAIR HFA inhaler
 
 Follow these steps every time you use ADVAIR HFA.
 
-Step 1.
-Make sure the canister fits firmly in the actuator.
-The counter should show through the window in the actuator.
+- Step 1.
+  Make sure the canister fits firmly in the actuator.
+  The counter should show through the window in the actuator.
 
 Shake the inhaler well for 5 seconds before each spray.
 
 Take the cap off the mouthpiece of the actuator.
 Look inside the mouthpiece for foreign objects, and take out any you see.
 
-Step 2.
-Hold the inhaler with the mouthpiece down.
-See Figure E.
+- Step 2.
+  Hold the inhaler with the mouthpiece down.
+  See Figure E.
 
-Step 3.
-Breathe out through your mouth and push as much air from your lungs as you can.
-Put the mouthpiece in your mouth and close your lips around it.
-See Figure F.
-
-- 
+- Step 3.
+  Breathe out through your mouth and push as much air from your lungs as you can.
+  Put the mouthpiece in your mouth and close your lips around it.
+  See Figure F.
 
 Step 4.
 Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
 See Figure F.
 
-Step 5.
-After the spray comes out, take your finger off the canister.
-After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
-
-Step 6.
-Hold your breath for about 10 seconds, or for as long as is comfortable.
-Breathe out slowly as long as you can.
+- Step 5.
+  After the spray comes out, take your finger off the canister.
+  After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+- Step 6.
+  Hold your breath for about 10 seconds, or for as long as is comfortable.
+  Breathe out slowly as long as you can.
 
 Wait about 30 seconds and shake the inhaler well for 5 seconds.
 Repeat steps 2 through 6.
 
-Step 7.
-Rinse your mouth with water after breathing in the medicine.
-Spit out the water.
-Do not swallow it.
-See Figure G.
+- Step 7.
+  Rinse your mouth with water after breathing in the medicine.
+  Spit out the water.
+  Do not swallow it.
+  See Figure G.
 
-- 
-
-Step 8.
-Put the cap back on the mouthpiece after every time you use the inhaler.
-Make sure it snaps firmly into place.
+- Step 8.
+  Put the cap back on the mouthpiece after every time you use the inhaler.
+  Make sure it snaps firmly into place.
 
 Cleaning your ADVAIR HFA inhaler
 
@@ -329,24 +318,20 @@ Clean your inhaler at least 1 time each week after your evening dose.
 You may not see any medicine build-up on the inhaler, but it is important to keep it clean so medicine build-up will not block the spray.
 See Figure H.
 
-Step 9.
-Take the cap off the mouthpiece.
-The strap on the cap will stay attached to the actuator.
-Do not take the canister out of the plastic actuator.
+- Step 9.
+  Take the cap off the mouthpiece.
+  The strap on the cap will stay attached to the actuator.
+  Do not take the canister out of the plastic actuator.
+- Step 10.
+  Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
+  Carefully twist the swab in a circular motion to take off any medicine.
+  See Figure I.
 
-Step 10.
-Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
-Carefully twist the swab in a circular motion to take off any medicine.
-See Figure I.
-
-- 
-
-Step 11.
-Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-Let the actuator air-dry overnight.
-
-Step 12.
-Put the cap back on the mouthpiece after the actuator has dried.
+- Step 11.
+  Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+  Let the actuator air-dry overnight.
+- Step 12.
+  Put the cap back on the mouthpiece after the actuator has dried.
 
 Replacing your ADVAIR HFA inhaler
 

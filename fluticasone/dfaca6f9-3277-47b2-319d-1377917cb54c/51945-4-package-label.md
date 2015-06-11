@@ -22,14 +22,14 @@ See prescribing information for dosage information.
 
 RX only
 
-With Dose Counter
+With Counter
 
 120 Metered Actuations
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000127494 Rev.
-10/14
+10000000132553 Rev.
+3/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -55,14 +55,14 @@ See prescribing information for dosage information.
 
 RX only
 
-With Dose Counter
+With Counter
 
 120 Metered Actuations
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000127495 Rev.
-10/14
+10000000132527 Rev.
+3/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -88,11 +88,11 @@ See prescribing information for dosage information.
 
 RX only
 
-With Dose Counter
+With Counter
 
 120 Metered Actuations
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
-10000000127496 Rev.
-8/14
+10000000132528 Rev.
+3/15
