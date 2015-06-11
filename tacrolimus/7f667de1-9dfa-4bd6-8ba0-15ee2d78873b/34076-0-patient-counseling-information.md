@@ -60,6 +60,6 @@ Manufactured by: Astellas Ireland Co., Ltd. Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Revised: September 2013
+Revised: May 2015
 
-13H057-PRG
+15B012-PRG-SPL
