@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021926"
+  ],
+  "inn": "naproxen",
+  "labeler": "Pernix Therapeutics",
+  "package_ndcs": [
+    "65224-850-09",
+    "65224-860-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sumatriptan succinate and naproxen sodium",
+      "name": "Treximet"
+    }
+  ],
+  "setid": "67311f35-35cc-469d-a6eb-cf615af5403a",
+  "source": "dailymed"
+}
