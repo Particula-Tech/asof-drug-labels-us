@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Selegiline capsules are indicated as an adjunct in the management of Parkinsonian patients being treated with levodopa/carbidopa who exhibit deterioration in the quality of their response to this therapy.
+Selegiline capsules, USP are indicated as an adjunct in the management of Parkinsonian patients being treated with levodopa/carbidopa who exhibit deterioration in the quality of their response to this therapy.
 There is no evidence from controlled studies that selegiline has any beneficial effect in the absence of concurrent levodopa therapy.
 
 Evidence supporting this claim was obtained in randomized controlled clinical investigations that compared the effects of added selegiline or placebo in patients receiving levodopa/carbidopa.

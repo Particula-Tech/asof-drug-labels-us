@@ -49,7 +49,7 @@ Rare hypertensive reactions with selegiline at recommended doses associated with
 Consequently, it may be useful to inform patients (or their families) about the signs and symptoms associated with MAOI induced hypertensive reactions.
 In particular, patients should be urged to report, immediately, any severe headache or other atypical or unusual symptoms not previously experienced.
 
-There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone, that are generally used for the treatment of Parkinson’s disease, including selegiline.
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, other intense urges and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone, that are generally used for the treatment of Parkinson’s disease, including selegiline.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with selegiline.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking selegiline.
@@ -88,7 +88,7 @@ No teratogenic effects were observed in a study of embryo-fetal development in S
 No teratogenic effects were observed in a study of embryo-fetal development in New Zealand White rabbits at oral doses of 5, 25, and 50 mg/kg or 10, 48, and 95 times the human therapeutic dose on a mg/m2 basis; however, in this study, the number of litters produced at the two higher doses was less than recommended for assessing teratogenic potential.
 In the rat study, there was a decrease in fetal body weight at the highest dose tested.
 In the rabbit study, increases in total resorptions and % post-implantation loss, and a decrease in the number of live fetuses per dam occurred at the highest dose tested.
-In peri- and postnatal development study in Sprague-Dawley rats (oral doses of 4, 16, and 64 mg/kg or 4, 15, and 62 times the human therapeutic dose on a mg/m2 basis), an increase in the number of stillbirths and decreases in the number of pups per dam, pup survival, and pup body weight (at birth and throughout the lactation period) were observed at the two highest doses.
+In a peri- and postnatal development study in Sprague-Dawley rats (oral doses of 4, 16, and 64 mg/kg or 4, 15, and 62 times the human therapeutic dose on a mg/m2 basis), an increase in the number of stillbirths and decreases in the number of pups per dam, pup survival, and pup body weight (at birth and throughout the lactation period) were observed at the two highest doses.
 At the highest dose tested, no pups born alive survived to Day 4 postpartum.
 Postnatal development at the highest dose tested in dams could not be evaluated because of the lack of surviving pups.
 The reproductive performance of the untreated offspring was not assessed.
