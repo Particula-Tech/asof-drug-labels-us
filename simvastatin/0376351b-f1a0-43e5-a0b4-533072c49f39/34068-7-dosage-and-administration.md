@@ -28,7 +28,6 @@ Patients taking Amiodarone, Amlodipine or Ranolazine
 
 The recommended dosage is 40 mg/day in the evening [see Dosage and Administration, Restricted Dosing for 80 mg (2.2)].
 Simvastatin tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
-
 Simvastatin exposure is approximately doubled with concomitant use of lomitapide; therefore, the dose of simvastatin tablets should be reduced by 50% if initiating lomitapide.
 Simvastatin tablets dosage should not exceed 20 mg/day (or 40 mg/day for patients who have previously taken simvastatin tablets 80 mg/day chronically, e.g., for 12 months or more, without evidence of muscle toxicity) while taking lomitapide.
 

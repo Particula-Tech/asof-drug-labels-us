@@ -5,7 +5,7 @@
 Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness or weakness with creatine kinase (CK) above ten times the upper limit of normal (ULN).
 Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
 The risk of myopathy is increased by high levels of statin activity in plasma.
-Predisposing factors for myopathy include advanced age (≥65 years), female gender,uncontrolled hypothyroidism, and renal impairment.
+Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
 The risk of myopathy, including rhabdomyolysis, is dose related.
 In a clinical trial database in which 41,413 patients were treated with simvastatin, 24,747 (approximately 60%) of whom were enrolled in studies with a median follow-up of at least 4 years, the incidence of myopathy was approximately 0.03% and 0.08% at 20 and 40 mg/day, respectively.
 The incidence of myopathy with 80 mg (0.61%) was disproportionately higher than that observed at the lower doses.
@@ -15,22 +15,18 @@ In a clinical trial in which 12,064 patients with a history of myocardial infarc
 The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in patients on 80 mg/day was approximately 0.4% compared with 0% for patients on 20 mg/day.
 The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
 In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
-
 The risk of myopathy, including rhabdomyolysis, is greater in patients on simvastatin 80 mg compared with other statin therapies with similar or greater LDL-C-lowering efficacy and compared with lower doses of simvastatin.
 Therefore, the 80 mg dose of simvastatin should be used only in patients who have been taking simvastatin 80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Dosage and Administration, Restricted Dosing for 80 mg (2.2)].
 If, however, a patient who is currently tolerating the 80 mg dose of simvastatin needs to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin, that patient should be switched to an alternative statin with less potential for the drug-drug interaction.
 Patients should be advised of the increased risk of myopathy, including rhabdomyolysis, and to report promptly any unexplained muscle pain, tenderness or weakness.
 If symptoms occur, treatment should be discontinued immediately.
 [See Warnings and Precautions (5.2).]
-
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
-
 All patients starting therapy with simvastatin, or whose dose of simvastatin is being increased, should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing simvastatin.
 Simvastatin therapy should be discontinued immediately if myopathy is diagnosed or suspected.
 In most cases, muscle symptoms and CK increases resolved when treatment was promptly discontinued.
 Periodic CK determinations may be considered in patients starting therapy with simvastatin or whose dose is being increased, but there is no assurance that such monitoring will prevent myopathy.
-
 Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories, including renal insufficiency usually as a consequence of long-standing diabetes mellitus.
 Such patients merit closer monitoring.
 Simvastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
@@ -46,9 +42,7 @@ If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy wi
 [See Contraindications (4) and Drug Interactions (7.1).]
 
 The combined use of simvastatin with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
-
-Caution should be used when prescribing other fibrates with simvastatin, as these agents can cause myopathy when given alone and the risk is increased when they are co-administered [see Drug Interactions (7.2)].
-
+Caution should be used when prescribing other fibrates with simvastatin, as these agents can cause myopathy when given alone and the risk is increased when they are coadministered [see Drug Interactions (7.2)].
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see Drug Interactions (7.7)].
 
 The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)].

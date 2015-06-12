@@ -28,8 +28,9 @@ Relative to the fasting state, the plasma profile of inhibitors was not affected
 In a study including 16 elderly patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18 to 30 years of age.
 Clinical study experience in the elderly (n=1522), suggests that there were no overall differences in safety between elderly and younger patients [see Use in Specific Populations (8.5)].
 Kinetic studies with another statin, having a similar principal route of elimination, have suggested that for a given dose level higher systemic exposure may be achieved in patients with severe renal insufficiency (as measured by creatinine clearance).
-Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of statins.
-The increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4.
+Simvastatin acid is a substrate of the transport protein OATP1B1.
+Concomitant administration of medicinal products that are inhibitors of the transport protein OATP1B1 may lead to increased plasma concentrations of simvastatin acid and an increased risk of myopathy.
+For example, cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1.
 The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma.
 Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
