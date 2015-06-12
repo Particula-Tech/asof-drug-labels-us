@@ -27,3 +27,13 @@ Dr. Reddy’s Laboratories Limited
 Bachepalli – 502 325 INDIA
 
 Revised: 1213
+
+or
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Srikakulam - 532 409 INDIA
+
+Revised: 0115
