@@ -1,16 +1,17 @@
-# HOW SUPPLIED
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-Nicardipine hydrochloride injection 25 mg/10 mL (2.5 mg/mL) single dose vials are available in cartons of 10 as follows:
+## 16.1 How Supplied
+
+Nicardipine hydrochloride Injection, for intravenous use after dilution, is supplied in 10 mL single dose vials and are available in cartons of 10 as follows:
 
 25 mg/10 mL (2.5 mg/mL) - NDC 0517-0735-10
 
-Store at 20ºC to 25ºC (68ºF to 77ºF) [See USP Controlled Room Temperature].
+## 16.2 Storage and Handling
 
-Freezing does not adversely affect the product, but exposure to elevated temperatures should be avoided.
+Store at controlled room temperature 20° to 25°C (68° to 77°F), refer to USP Controlled Room Temperature.
 
-Protect from light.
-Store vials in carton until used.
-
-RQ1033-02 Revised February 2012
+Protect from freezing.
+Avoid excessive heat.
+Protect from light, store in carton until ready to use.
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967
