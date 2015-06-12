@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.9)].
+Pregnancy Category D [seeWarnings and Precautions (5.9)].
 There are no adequate and well-controlled studies of Zoledronic acid Injection in pregnant women.
 Zoledronic acid Injection may cause fetal harm when administered to a pregnant woman.
 Bisphosphonates, such as Zoledronic acid Injection, are incorporated into the bone matrix and are gradually released over periods of weeks to years.
@@ -30,7 +30,8 @@ Adverse maternal effects were associated with, and may have been caused by, drug
 
 ## 8.3 Nursing Mothers
 
-It is not known whether Zoledronic acid is excreted in human milk and because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Zoledronic acid Injection, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+It is not known whether Zoledronic acid is excreted in human milk.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Zoledronic acid Injection, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 Zoledronic acid binds to bone long term and may be released over weeks to years.
 
 ## 8.4 Pediatric Use
@@ -38,19 +39,19 @@ Zoledronic acid binds to bone long term and may be released over weeks to years.
 Zoledronic acid Injection is not indicated for use in children.
 
 The safety and effectiveness of zoledronic acid was studied in a one-year, active-controlled trial of 152 pediatric subjects (74 receiving zoledronic acid).
-The enrolled population was subjects with severe osteogenesis imperfecta, aged 1-17 years, 55% male, 84% Caucasian, with a mean lumbar spine bone mineral density (BMD) of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
+The enrolled population was subjects with severe osteogenesis imperfecta, aged 1 to 17 years, 55% male, 84% Caucasian, with a mean lumbar spine bone mineral density (BMD) of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
-The adverse events observed with Zoledronic acid Injection use in children did not raise any new safety findings beyond those previously seen in adults treated for hypercalcemia of malignancy.
+The adverse events observed with Zoledronic acid Injection use in children did not raise any new safety findings beyond those previously seen in adults treated for hypercalcemia of malignancy or bone metastases.
 However, adverse reactions seen more commonly in pediatric patients included pyrexia (61%), arthralgia (26%), hypocalcemia (22%) and headache (22%).
 These reactions, excluding arthralgia, occurred most frequently within 3 days after the first infusion and became less common with repeat dosing.
 Because of long-term retention in bone, Zoledronic acid Injection should only be used in children if the potential benefit outweighs the potential risk.
 
-Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3-8 years and 6 in the age group of 9-17 years) infused with 0.05 mg/kg dose over 30 min. Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng•h/mL, respectively.
+Plasma zoledronic acid concentration data was obtained from 10 patients with severe osteogenesis imperfecta (4 in the age group of 3 to 8 years and 6 in the age group of 9 to 17 years) infused with 0.05 mg/kg dose over 30 min. Mean Cmax and AUC(0-last) was 167 ng/mL and 220 ng•h/mL, respectively.
 The plasma concentration time profile of zoledronic acid in pediatric patients represent a multi-exponential decline, as observed in adult cancer patients at an approximately equivalent mg/kg dose.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of Zoledronic acid Injection in hypercalcemia of malignancy included 34 patients who were 65 years of age or older.
-No significant differences in response rate or adverse reactions were seen in geriatric patients receiving Zoledronic acid Injection as compared to younger patients.
+No significant differences in response rate or adverse reactions were seen in geriatric patients receiving Zoledronic acid Injection as compared to younger patients Controlled clinical studies of Zoledronic acid Injection in the treatment of multiple myeloma and bone metastases of solid tumors in patients over age 65 revealed similar efficacy and safety in older and younger patients.
 Because decreased renal function occurs more commonly in the elderly, special care should be taken to monitor renal function.
