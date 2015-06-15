@@ -3,13 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanisms by which gabapentin produces its analgesic and antiepileptic actions are unknown.
-In animal models of analgesia, gabapentin prevents allodynia (pain-related behavior in response to a normally innocuous stimulus) and hyperalgesia (exaggerated response to painful stimuli).
-Gabapentin prevents pain-related responses in several models of neuropathic pain in rats and mice (e.g., spinal nerve ligation models, spinal cord injury model, acute herpes zoster infection model).
-Gabapentin also decreases pain-related responses after peripheral inflammation (carrageenan footpad test, late phase of formalin test), but does not alter immediate pain-related behaviors (rat tail flick test, formalin footpad acute phase).
-The relevance of these models to human pain is not known.
-Gabapentin exhibits antiseizure activity in mice and rats in both the maximal electroshock and pentylenetetrazole seizure models and other preclinical models (e.g., strains with genetic epilepsy, etc.). The relevance of these models to human epilepsy is not known.
-Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake or degradation.
-Gabapentin did not exhibit affinity for a number of other common receptor ion channel, or transporter proteins.
+Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake, or degradation.
 In vitro studies have shown that gabapentin binds with high-affinity to the α2δ subunit of voltage-activated calcium channels; however, the relationship of this binding to the therapeutic effects of gabapentin is unknown.
 
 ## 12.3 Pharmacokinetics
@@ -27,20 +21,17 @@ Gabapentin elimination half-life is 5 to 7 hours and is unaltered by dose or fol
 Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance.
 In elderly patients, and in patients with impaired renal function, gabapentin plasma clearance is reduced.
 Gabapentin can be removed from plasma by hemodialysis.
-Special Populations Adult Patients With Renal Insufficiency Subjects (N=60) with renal insufficiency (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
+Special Populations Adult Patients with Renal Impairment Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
-Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min.
-Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 Hemodialysis In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
-Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects.
-Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 Hepatic Disease Because gabapentin is not metabolized, no study was performed in patients with hepatic impairment.
 Age The effect of age was studied in subjects 20 to 80 years of age.
 Apparent oral clearance (CL/F) of gabapentin decreased as age increased, from about 225 mL/min in those under 30 years of age to about 125 mL/min in those over 70 years of age.
 Renal clearance (CLr) and CLr adjusted for body surface area also declined with age; however, the decline in the renal clearance of gabapentin with age can largely be explained by the decline in renal function.
-Reduction of gabapentin dose may be required in patients who have age related compromised renal function.
-[see Dosage and Administration (2.3) and Use in Specific Populations (8.4)] Pediatric Gabapentin pharmacokinetics were determined in 48 pediatric subjects between the ages of 1 month and 12 years following a dose of approximately 10 mg/kg.
+[see Dosage and Administration (2.4) and Use in Specific Populations (8.5)] Pediatric Gabapentin pharmacokinetics were determined in 48 pediatric subjects between the ages of 1 month and 12 years following a dose of approximately 10 mg/kg.
 Peak plasma concentrations were similar across the entire age group and occurred 2 to 3 hours postdose.
 In general, pediatric subjects between 1 month and <5 years of age achieved approximately 30% lower exposure (AUC) than that observed in those 5 years of age and older.
 Accordingly, oral clearance normalized per body weight was higher in the younger children.
@@ -53,7 +44,7 @@ Higher oral clearance values were observed in children <5 years of age compared 
 The clearance was highly variable in infants <1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
 The oral volume of distribution normalized per body weight was constant across the age range.
-These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.2)].
+These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.3)].
 Gender Although no formal study has been conducted to compare the pharmacokinetics of gabapentin in men and women, it appears that the pharmacokinetic parameters for males and females are similar and there are no significant gender differences.
 Race Pharmacokinetic differences due to race have not been studied.
 Because gabapentin is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
@@ -86,7 +77,6 @@ The Cmax of norethindrone was 13% higher when it was coadministered with gabapen
 
 Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide) Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
 This decrease in bioavailability was about 10% when gabapentin was administered 2 hours after Maalox.
-It is recommended that gabapentin be taken at least 2 hours following Maalox administration.
 Probenecid Probenecid is a blocker of renal tubular secretion.
 Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
 This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.

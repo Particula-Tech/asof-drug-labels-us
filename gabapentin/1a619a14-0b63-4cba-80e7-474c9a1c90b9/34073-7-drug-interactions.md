@@ -16,7 +16,7 @@ A literature article reported that when a 60 mg controlled-release morphine caps
 Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
-## 7.4 MAALOX (aluminum hydroxide, magnesium hydroxide)
+## 7.4 Maalox(aluminum hydroxide, magnesium hydroxide)
 
 The mean bioavailability of gabapentin was reduced by about 20% with concomitant use of an antacid (Maalox®) containing magnesium and aluminum hydroxides.
 It is recommended that gabapentin be taken at least 2 hours following Maalox administration [see Clinical Pharmacology (12.3)].

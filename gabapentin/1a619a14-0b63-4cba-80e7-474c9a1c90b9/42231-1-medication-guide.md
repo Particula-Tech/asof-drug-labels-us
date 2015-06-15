@@ -93,7 +93,7 @@ How should I take gabapentin capsules?
 - Take gabapentin capsules exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
   - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
-  - Take gabapentin capsules with plenty of water.
+  - Take gabapentin capsules with water.
 - Gabapentin capsules can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
 
@@ -109,7 +109,7 @@ What are the possible side effects of gabapentin capsules?
 Gabapentin capsules may cause serious side effects including: See “What is the most important information I should know about gabapentin capsules?”
 
 - problems driving while using gabapentin capsules.
-  See “What I should avoid while taking gabapentin capsules?”
+  See “What should I avoid while taking gabapentin capsules?”
 - sleepiness and dizziness
 - The most common side effects of gabapentin capsules include:
   - lack of coordination
@@ -150,4 +150,4 @@ The empty hard gelatin capsule shell consists of gelatin, sodium lauryl sulfate,
 In addition 300 mg also contains yellow iron oxide and 400 mg also contains yellow iron oxide and red iron oxide.
 The capsules are printed with edible ink containing black iron oxide and shellac.
 This Medication Guide has been approved by the U.S. Food and Drug Administration. * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 10/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 05/2015

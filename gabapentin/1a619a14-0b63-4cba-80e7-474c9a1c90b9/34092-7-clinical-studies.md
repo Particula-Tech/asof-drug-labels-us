@@ -30,7 +30,7 @@ Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2 The proporti
 Figure 3.
 Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
-## 14.2 Epilepsy
+## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
 The effectiveness of gabapentin as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
 Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
