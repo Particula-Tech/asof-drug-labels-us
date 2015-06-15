@@ -7,13 +7,13 @@ Dose adjustments are based upon the platelet count response.
 Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.3)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting PROMACTA and decreased within 1 to 2 weeks after discontinuing PROMACTA [see Clinical Studies (14.1)].
 
-Initial Dose Regimen: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
+Initial Dose Regimen:Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
 
-For ITP patients of East Asian ancestry, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.8), Clinical Pharmacology (12.3)].
+For patients of East Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.8), Clinical Pharmacology (12.3)].
 
-For ITP patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-For ITP patients of East Asian ancestry with hepatic impairment (Child-Pugh Class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
+For patients of East Asian ancestry with ITP and hepatic impairment (Child-Pugh Class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
 
 Monitoring and Dose Adjustment: After initiating PROMACTA, adjust the dose to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
@@ -22,16 +22,16 @@ During therapy with PROMACTA, assess CBCs with differentials, including platelet
 Obtain CBCs with differentials, including platelet counts, monthly thereafter.
 
 Table 1.
-Dose Adjustments of PROMACTA in Adults with Chronic Immune (Idiopathic) Thrombocytopenia
+Dose Adjustments of PROMACTA in Patients with Chronic Immune (Idiopathic) Thrombocytopenia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
 | <50 x 109/L following at least 2 weeks of PROMACTA | Increase daily dose by 25 mg to a maximum of 75 mg/day. For patients taking 12.5 mg once daily, increase the dose to 25 mg daily before increasing the dose amount by 25 mg. |
-| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
+| ≥200 x 109/L to ≤400 x 109/L at any time | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments.For patients taking 25 mg once daily, decrease the dose to 12.5 mg once daily. |
 | >400 x 109/L | Stop PROMACTA; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is <150 x 109/L, reinitiate therapy at a daily dose reduced by 25 mg. For patients taking 25 mg once daily, reinitiate therapy at a daily dose of 12.5 mg. |
 | >400 x 109/L after 2 weeks of therapy at lowest dose of PROMACTA | Discontinue PROMACTA. |
 
-In ITP patients with hepatic impairment (Child-Pugh Class A, B, C), after initiating PROMACTA or after any subsequent dosing increase, wait 3 weeks before increasing the dose.
+In patients with ITP and hepatic impairment (Child-Pugh Class A, B, C), after initiating PROMACTA or after any subsequent dosing increase, wait 3 weeks before increasing the dose.
 
 Modify the dosage regimen of concomitant ITP medications, as medically appropriate, to avoid excessive increases in platelet counts during therapy with PROMACTA.
 Do not administer more than one dose of PROMACTA within any 24-hour period.
@@ -84,7 +84,7 @@ Hematologic response requires dose titration, generally up to 150 mg, and may ta
 
 Initial Dose Regimen: Initiate PROMACTA at a dose of 50 mg once daily.
 
-For severe aplastic anemia in patients of East Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.8)(8.6), Clinical Pharmacology (12.3)].
+For patients with severe aplastic anemia of East Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6, 8.8), Clinical Pharmacology (12.3)].
 
 Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 50-mg increments every 2 weeks as necessary to achieve the target platelet count greater than or equal to 50 x 109/L as necessary.
 Do not exceed a dose of 150 mg daily.
@@ -112,4 +112,4 @@ Excessive platelet count responses (as outlined in Table 3) or important liver t
 
 Take PROMACTA on an empty stomach (1 hour before or 2 hours after a meal) [see Clinical Pharmacology (12.3)].
 
-Allow at least a 4-hour interval between PROMACTA and other medications (e.g., antacids), calcium-rich foods (e.g., dairy products and calcium fortified juices), or supplements containing polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Drug Interactions (7.1)].
+Allow at least a 4-hour interval between PROMACTA and other medications (e.g., antacids), calcium-rich foods (e.g., dairy products and calcium-fortified juices), or supplements containing polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Drug Interactions (7.1)].

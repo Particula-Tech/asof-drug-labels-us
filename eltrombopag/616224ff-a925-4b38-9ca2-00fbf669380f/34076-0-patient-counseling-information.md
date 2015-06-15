@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
 
 Prior to treatment, patients should fully understand and be informed of the following risks and considerations for PROMACTA:
 

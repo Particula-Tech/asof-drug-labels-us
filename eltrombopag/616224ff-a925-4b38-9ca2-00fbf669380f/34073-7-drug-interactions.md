@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-In vitro, CYP1A2, CYP2C8, UDP-glucuronosyltransferase (UGT)1A1 and UGT1A3 are involved in the metabolism of eltrombopag.
-In vitro, eltrombopag inhibits the following metabolic or transporter systems: CYP2C8, CYP2C9, UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, UGT2B15, OATP1B1 and breast cancer resistance protein (BCRP) [see Clinical Pharmacology (12.3)].
+In vitro, CYP1A2, CYP2C8, UGT1A1, and UGT1A3 are involved in the metabolism of eltrombopag.
+In vitro, eltrombopag inhibits the following metabolic or transporter systems: CYP2C8, CYP2C9, UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, UGT2B15, OATP1B1, and breast cancer resistance protein (BCRP) [see Clinical Pharmacology (12.3)].
 
 ## 7.1 Polyvalent Cations (Chelation)
 
@@ -28,6 +28,6 @@ Hepatitis C Virus (HCV) Protease Inhibitors: Coadministration of PROMACTA with e
 No dose adjustments are recommended.
 Drug interactions with other HCV protease inhibitors have not been evaluated.
 
-## 7.4 Peginterferon Alfa 2a/b Therapy
+## 7.4 Peginterferon alfa-2a/b Therapy
 
-Coadministration of peginterferon alfa 2a (PEGASYS®) or 2b (PEGINTRON®) did not affect eltrombopag exposure in 2 randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].
+Coadministration of peginterferon alfa-2a (PEGASYS®) or 2b (PEGINTRON®) did not affect eltrombopag exposure in two randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].

@@ -21,7 +21,7 @@ Tell your healthcare provider right away if you have any of these signs and symp
 - •yellowing of the skin or the whites of the eyes (jaundice)
 - •unusual darkening of the urine
 - •unusual tiredness
-- •right upper stomach area pain
+- •right upper stomach area (abdomen) pain
 - •confusion
 - •swelling of the stomach area (abdomen)
 
@@ -29,21 +29,24 @@ See “What are the possible side effects of PROMACTA?” for other side effects
 
 What is PROMACTA?
 
-PROMACTA is a prescription medicine used to treat people with:
+PROMACTA is a prescription medicine used to treat:
 
-- •low blood platelet counts due to chronic immune (idiopathic) thrombocytopenia (ITP), when other medicines to treat your ITP or surgery to remove the spleen have not worked well enough
+- •adults and children 6 years of age and older with low blood platelet counts due to chronic immune (idiopathic) thrombocytopenia (ITP), when other medicines to treat ITP or surgery to remove the spleen have not worked well enough.
+
+PROMACTA is also used to treat patients with:
+
 - •low blood platelet counts due to chronic hepatitis C virus (HCV) infection before and during treatment with interferon
-- •severe aplastic anemia (SAA) when other medicines to treat your SAA have not worked well enough
+- •severe aplastic anemia (SAA) when other medicines to treat SAA have not worked well enough
 
-PROMACTA is used to try to raise your platelet count in order to lower your risk for bleeding.
+PROMACTA is used to try to raise platelet counts in order to lower your risk for bleeding.
 
-PROMACTA is not used to make your platelet count normal.
+PROMACTA is not used to make platelet counts normal.
 
 PROMACTA is for treatment of certain people with low platelet counts caused by chronic ITP, chronic HCV, or SAA not low platelet counts caused by other conditions or diseases.
 
 It is not known if PROMACTA is safe and effective when used with other antiviral medicines that are approved to treat chronic hepatitis C.
 
-It is not known if PROMACTA is safe and effective in children.
+It is not known if PROMACTA is safe and effective in children with chronic hepatitis C or severe aplastic anemia or in children younger than 6 years with ITP.
 
 What should I tell my healthcare provider before taking PROMACTA?
 
@@ -70,8 +73,8 @@ Certain other medicines may affect the way PROMACTA works.
 
 Especially tell your healthcare provider if you take:
 
-- •certain medicines used to treat high cholesterol, called “statins”
-- •a blood thinner medicine
+- •certain medicines used to treat high cholesterol, called “statins”.
+- •a blood thinner medicine.
 
 Certain medicines may keep PROMACTA from working correctly.
 Take PROMACTA at least 4 hours before or 4 hours after taking these products:
@@ -90,7 +93,7 @@ How should I take PROMACTA?
   Do not stop taking PROMACTA without talking with your healthcare provider first.
   Do not change your dose or schedule for taking PROMACTA unless your healthcare provider tells you to change it.
 - •Take PROMACTA on an empty stomach, either 1 hour before or 2 hours after eating food.
-- •Take PROMACTA at least 4 hours before or 4 hours after eating dairy products and calcium fortified juices.
+- •Take PROMACTA at least 4 hours before or 4 hours after eating dairy products and calcium-fortified juices.
 - •If you miss a dose of PROMACTA, wait and take your next scheduled dose.
   Do not take more than one dose of PROMACTA in one day.
 - •If you take too much PROMACTA, you may have a higher risk of serious side effects.
@@ -123,60 +126,49 @@ PROMACTA may cause serious side effects, including:
   Your healthcare provider will check your eyes before and during your treatment with PROMACTA.
   Tell your healthcare provider about any changes in your eyesight while taking PROMACTA.
 
-The most common side effects of PROMACTA when used to treat chronic ITP are:
+The most common side effects of PROMACTA in adults when used to treat chronic ITP are:
 
-- •nausea
-- •diarrhea
-- •upper respiratory tract infection.
-  Symptoms may include runny nose, stuffy nose, and sneezing
-- •vomiting
-- •muscle aches
-- •urinary tract infection.
-  Symptoms may include frequent or urgent need to urinate, low fever in some people, pain or burning with urination.
-- •pain or swelling (inflammation) in your throat or mouth (oropharyngeal pain and pharyngitis)
-- •abnormal liver function tests
-- •back pain
-- •“flu” like symptoms (influenza) including fever, headache, tiredness, cough, sore throat, and body aches
-- •skin tingling, itching, or burning
-- •rash
+| •nausea | •pain or swelling (inflammation) in your throat or mouth (oropharyngeal pain and pharyngitis) |
+| --- | --- |
+| •diarrhea | •abnormal liver function tests |
+| •upper respiratory tract infection. Symptoms may include runny nose, stuffy nose, and sneezing | •back pain |
+| •vomiting | •“flu”-like symptoms (influenza) including fever, headache, tiredness, cough, sore throat, and body aches |
+| •muscle aches | •skin tingling, itching, or burning |
+| •urinary tract infection. Symptoms may include frequent or urgent need to urinate, low fever in some people, pain or burning with urination. | •rash |
+
+The most common side effects of PROMACTA in children 6 years and older when used to treat chronic ITP are:
+
+| •upper respiratory tract infection. Symptoms may include runny nose, stuffy nose, and sneezing. | •pain or swelling (inflammation) in your throat or mouth (oropharyngeal pain) |
+| --- | --- |
+| •pain or swelling (inflammation) in your nose or throat (nasopharyngitis) | •toothache |
+| •runny, stuffy nose (rhinitis) | •abnormal liver function tests |
+| •stomach (abdominal) pain | •diarrhea |
+| •cough | •rash |
+|  | •vitamin D deficiency |
 
 The most common side effects when PROMACTA is used in combination with other medicines to treat chronic HCV are:
 
-- •low red blood cell count (anemia)
-- •fever
-- •tiredness
-- •headache
-- •nausea
-- •diarrhea
-- •decreased appetite
-- •“flu” like symptoms (influenza) including fever, headache, tiredness, cough, sore throat, and body aches
-- •feeling weak
-- •trouble sleeping
-- •cough
-- •itching
-- •chills
-- •muscle aches
-- •hair loss
-- •swelling in your ankles, feet, and legs
+| •low red blood cell count (anemia) | •feeling weak |
+| --- | --- |
+| •fever | •trouble sleeping |
+| •tiredness | •cough |
+| •headache | •itching |
+| •nausea | •chills |
+| •diarrhea | •muscle aches |
+| •decreased appetite | •hair loss |
+| •“flu”-like symptoms (influenza) including fever, headache, tiredness, cough, sore throat, and body aches | •swelling in your ankles, feet, and legs |
 
 The most common side effects when PROMACTA is used to treat severe aplastic anemia are:
 
-- •nausea
-- •feeling tired
-- •cough
-- •diarrhea
-- •headache
-- •pain in arms, legs, hands or feet
-- •shortness of breath
-- •fever
-- •dizziness
-- •pain in the nose or throat
-- •abdominal pain
-- •bruising
-- •muscle spasms
-- •abnormal liver function tests
-- •joint pain
-- •runny nose
+| •nausea | •dizziness |
+| --- | --- |
+| •feeling tired | •pain in the nose or throat |
+| •cough | •abdominal pain |
+| •diarrhea | •bruising |
+| •headache | •muscle spasms |
+| •pain in arms, legs, hands or feet | •abnormal liver function tests |
+| •shortness of breath | •joint pain |
+| •fever | •runny nose |
 
 Laboratory tests may show abnormal changes to the cells in your bone marrow.
 
@@ -190,7 +182,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PROMACTA tablets?
 
-- •Store PROMACTA at room temperature between 68oF to 77oF (20oC to 25oC).
+- •Store PROMACTA tablets at room temperature between 68oF to 77oF (20oC to 25oC).
 - •Keep PROMACTA tightly closed in the bottle given to you.
 - •The PROMACTA bottle may contain a desiccant pack to help keep your medicine dry.
   Do not remove the desiccant pack from the bottle.
@@ -217,7 +209,7 @@ Active ingredient: eltrombopag olamine.
 Inactive ingredients:
 
 - •Tablet Core: magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
-- •Coating: hypromellose (12.5 mg, 25 mg, 50 mg, and 75 mg tablets) or polyvinyl alcohol and talc (100 mg tablet), polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5 mg tablet), and FD&C Yellow No. 6 aluminum lake (25 mg tablet), FD&C Blue No. 2 aluminum lake (50 mg tablet), Iron Oxide Red and Iron Oxide Black (75 mg tablet), or Iron Oxide Yellow and Iron Oxide Black (100 mg tablet).
+- •Coating: hypromellose (12.5-mg, 25-mg, 50-mg, and 75-mg tablets) or polyvinyl alcohol and talc (100-mg tablet), polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5-mg tablet), and FD&C Yellow No. 6 aluminum lake (25-mg tablet), FD&C Blue No. 2 aluminum lake (50-mg tablet), Iron Oxide Red and Iron Oxide Black (75-mg tablet), or Iron Oxide Yellow and Iron Oxide Black (100-mg tablet).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -227,9 +219,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015, the GSK group of companies.
 All rights reserved.
 
-Revised: August 2014
+Revised: June 2015
 
-PRM:8MG
+PRM:9MG
