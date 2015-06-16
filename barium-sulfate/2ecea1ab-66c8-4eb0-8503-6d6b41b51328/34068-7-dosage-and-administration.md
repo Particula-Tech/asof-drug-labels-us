@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-The volume and concentration of LIQUID E-ZPAQUE ® to be administered will depend on the degree and extent of contrast required in the area(s) under examination and on the equipment and technique employed.
+The volume and concentration of LIQUID E-Z-PAQUE® to be administered will depend on the degree and extent of contrast required in the area(s) under examination and on the equipment and technique employed.
 
-Use undiluted for single contrast filled stomach with small bowel follow-through (typical adult dose: 150 mL to 340 mL); routine small bowel (typical adult dose: 340 mL to 750 mL); followthrough small bowel after double contrast upper GI study (typical adult dose: 340 mL to 750 mL).
+Use undiluted for single contrast filled stomach with small bowel follow-through (typical adult dose: 150 mL to 340 mL); routine small bowel (typical adult dose: 340 mL to 750 mL); follow through small bowel after double contrast upper GI study (typical adult dose: 340 mL to 750 mL).
 
 ## MRI Technical Note
 
