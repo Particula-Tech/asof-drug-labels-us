@@ -3,25 +3,33 @@
 NDC 23635-408-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Release Tablets CII 8 mg Rx only Each tablet contains: Hydromorphone Hydrochloride USP.......
 8 mg For opioid tolerant patients only Dispense the accompanying Medication Guide to each patient Mallinckrodt Pharmaceuticals™
 
-62062-03 Rev 04/2014
+62062-03
+
+Rev 04/2014
 
 # PRINCIPAL DISPLAY PANEL - 12 mg
 
 NDC 23635-412-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Release Tablets CII 12 mg Rx only Each tablet contains: Hydromorphone Hydrochloride USP.......
 12 mg For opioid tolerant patients only Dispense the accompanying Medication Guide to each patient Mallinckrodt Pharmaceuticals™
 
-62063-03 Rev 04/2014
+62063-03
+
+Rev 04/2014
 
 # PRINCIPAL DISPLAY PANEL - 16 mg
 
 NDC 23635-416-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Release Tablets CII 16 mg Rx only Each tablet contains: Hydromorphone Hydrochloride USP.......
 16 mg For opioid tolerant patients only Dispense the accompanying Medication Guide to each patient Mallinckrodt Pharmaceuticals™
 
-62064-03 04/2014
+62064-03
+
+Rev 04/2014
 
 # PRINCIPAL DISPLAY PANEL - 32 mg
 
 NDC 23635-432-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Release Tablets CII 32 mg Rx only Each tablet contains: Hydromorphone Hydrochloride USP.......
 32 mg For opioid tolerant patients only Dispense the accompanying Medication Guide to each patient Mallinckrodt Pharmaceuticals™
 
-70408-03 04/2014
+70408-03
+
+Rev 04/2014

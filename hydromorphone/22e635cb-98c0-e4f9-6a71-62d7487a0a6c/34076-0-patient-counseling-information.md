@@ -8,7 +8,7 @@ Instruct patients not to share EXALGO with others and to take steps to protect E
 Life-threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting EXALGO or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-Accidental Ingestion Inform patients that accidental Ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Accidental Ingestion Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
 Instruct patients to take steps to store EXALGO securely and to dispose of unused EXALGO by flushing the tablets down the toilet.
 
 Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of EXALGO during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3)].
@@ -41,7 +41,7 @@ Pregnancy Advise female patients that EXALGO can cause fetal harm and to inform 
 
 Disposal Advise patients to flush the unused tablets down the toilet when EXALGO is no longer needed.
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company. © 2014 Mallinckrodt.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company. © 2015 Mallinckrodt.
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA www.Exalgo.com or call 1-800-778-7898
 

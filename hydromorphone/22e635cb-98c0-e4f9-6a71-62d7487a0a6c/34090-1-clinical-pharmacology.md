@@ -85,7 +85,7 @@ Excretion Approximately 75% of the administered dose is excreted in urine.
 Most of the administered hydromorphone dose is excreted as metabolites.
 Approximately 7% and 1% of the dose are excreted as unchanged hydromorphone in urine and feces, respectively.
 
-Specific Populations Geriatric Patients Based on data obtained from a study using immediate-release hydromorphone, the pharmacokinetics of hydromorphone in healthy elderly subjects (65 to 74 years old) are similar to the pharmacokinetics in healthy young subjects.
+Specific Populations Geriatric Patients Population PK analysis performed on plasma concentration data from 407 osteoarthritis (OA) patients using EXALGO showed an average 11% increase in hydromorphone AUC in the elderly group (65 to 75 years of age) when compared to the younger age group (less than or equal to 65 years of age).
 
 Pediatric Patients The pharmacokinetics of EXALGO were not evaluated in a pediatric population.
 
