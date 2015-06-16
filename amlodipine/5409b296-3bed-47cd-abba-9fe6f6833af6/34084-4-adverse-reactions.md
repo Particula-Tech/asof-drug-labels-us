@@ -4,14 +4,14 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
-In general, treatment with amlodipine was well-tolerated at doses up to 10 mg daily.
-Most adverse reactions reported during therapy with amlodipine were of mild or moderate severity.
-In controlled clinical trials directly comparing amlodipine (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine because of adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
+Amlodipine besylate has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
+In general, treatment with amlodipine besylate was well-tolerated at doses up to 10 mg daily.
+Most adverse reactions reported during therapy with amlodipine besylate were of mild or moderate severity.
+In controlled clinical trials directly comparing amlodipine (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine besylate because of adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
 The most commonly reported side effects more frequent than placebo are reflected in the table below.
 The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
-|  |  | Amlodipine |  | Placebo |
+|  |  | Amlodipine besylate |  | Placebo |
 | --- | --- | --- | --- | --- |
 |  | 2.5mg N=275 | 5mg N=296 | 10mg N=268 | N=520 |
 | Edema | 1.8 | 3.0 | 10.8 | 0.6 |
@@ -21,7 +21,7 @@ The incidence (%) of side effects that occurred in a dose related manner are as 
 
 Other adverse reactions that were not clearly dose related but were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
 
-|  | Amlodipine (%) | Placebo (%) |
+|  | Amlodipine besylate (%) | Placebo (%) |
 | --- | --- | --- |
 |  | N=1730 | N=1250 |
 | Fatigue | 4.5 | 2.8 |
@@ -31,7 +31,7 @@ Other adverse reactions that were not clearly dose related but were reported wit
 
 For several adverse experiences that appear to be drug and dose related, there was a greater incidence in women than men associated with amlodipine treatment as shown in the following table:
 
-|  | Amlodipine |  | Placebo |  |
+|  | Amlodipine besylate |  | Placebo |  |
 | --- | --- | --- | --- | --- |
 |  | Male=% (N=1218) | Female=% (N=512) | Male=% (N=914) | Female=% (N=336) |
 | Edema | 5.6 | 14.6 | 1.4 | 5.1 |
@@ -69,7 +69,7 @@ Hemopoietic: leukopenia, purpura, thrombocytopenia.
 
 1 These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
 
-Amlodipine therapy has not been associated with clinically significant changes in routine laboratory tests.
+Amlodipine besylate therapy has not been associated with clinically significant changes in routine laboratory tests.
 No clinically relevant changes were noted in serum potassium, serum glucose, total triglycerides, total cholesterol, HDL cholesterol, uric acid, blood urea nitrogen, or creatinine.
 
 In the CAMELOT and PREVENT studies [see Clinical Studies (14.4)], the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
@@ -81,4 +81,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following postmarketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 
-Amlodipine has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.
+Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.
+
+Amlodipine besylate has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.

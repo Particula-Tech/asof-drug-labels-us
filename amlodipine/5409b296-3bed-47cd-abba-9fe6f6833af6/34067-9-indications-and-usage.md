@@ -4,7 +4,7 @@
 
 Amlodipine besylate tablet, USP is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
-These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including Amlodipine besylate tablet, USP.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including amlodipine besylate tablet, USP.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than one drug to achieve blood pressure goals.
@@ -35,4 +35,4 @@ Amlodipine besylate tablet, USP may be used as monotherapy or in combination wit
 
 Angiographically Documented CAD
 
-In patients with recently documented CAD by angiography and without heart failure or an ejection fraction <40%, Amlodipine besylate tablet, USP is indicated to reduce the risk of hospitalization for angina and to reduce the risk of a coronary revascularization procedure.
+In patients with recently documented CAD by angiography and without heart failure or an ejection fraction <40%, amlodipine besylate tablet, USP is indicated to reduce the risk of hospitalization for angina and to reduce the risk of a coronary revascularization procedure.

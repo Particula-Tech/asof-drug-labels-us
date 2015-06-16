@@ -14,39 +14,43 @@ Amlodipine is a peripheral arterial vasodilator that acts directly on vascular s
 
 The precise mechanisms by which amlodipine relieves angina have not been fully delineated, but are thought to include the following:
 
-Exertional Angina: In patients with exertional angina, amlodipine reduces the total peripheral resistance (after load) against which the heart works and reduces the rate pressure product, and thus myocardial oxygen demand, at any given level of exercise.
+Exertional Angina: In patients with exertional angina, amlodipine besylate reduces the total peripheral resistance (after load) against which the heart works and reduces the rate pressure product, and thus myocardial oxygen demand, at any given level of exercise.
 
-Vasospastic Angina: Amlodipine has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro.
-This inhibition of coronary spasm is responsible for the effectiveness of amlodipine in vasospastic (Prinzmetal's or variant) angina.
+Vasospastic Angina: Amlodipine besylate has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro.
+This inhibition of coronary spasm is responsible for the effectiveness of amlodipine besylate in vasospastic (Prinzmetal's or variant) angina.
 
 ## 12.2 Pharmacodynamics
 
-Hemodynamics: Following administration of therapeutic doses to patients with hypertension, amlodipine produces vasodilation resulting in a reduction of supine and standing blood pressures.
+Hemodynamics: Following administration of therapeutic doses to patients with hypertension, amlodipine besylate produces vasodilation resulting in a reduction of supine and standing blood pressures.
 These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
-Although the acute intravenous administration of amlodipine decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.
+Although the acute intravenous administration of amlodipine besylate decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.
 
 With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
-The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (Diastolic pressure 105–114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90–104 mmHg).
+The magnitude of reduction in blood pressure with amlodipine besylate is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (Diastolic pressure 105–114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90–104 mmHg).
 Normotensive subjects experienced no clinically significant change in blood pressures (+1/–2 mmHg).
 
-In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
+In hypertensive patients with normal renal function, therapeutic doses of amlodipine besylate resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 
-As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
-In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
+As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine besylate have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
+In hemodynamic studies, amlodipine besylate has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
 Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
-Electrophysiologic Effects: Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
+Electrophysiologic Effects: Amlodipine besylate does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
 In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.
-Similar results were obtained in patients receiving amlodipine and concomitant beta-blockers.
-In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
-In clinical trials with angina patients alone, amlodipine therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
+Similar results were obtained in patients receiving amlodipine besylate and concomitant beta-blockers.
+In clinical studies in which amlodipine besylate was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
+In clinical trials with angina patients alone, amlodipine besylate therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
-## 12.3 Pharmacokinetics and Metabolism
+Drug interactions
 
-After oral administration of therapeutic doses of amlodipine, absorption produces peak plasma concentrations between 6 and 12 hours.
+Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
+
+## 12.3 Pharmacokinetics
+
+After oral administration of therapeutic doses of amlodipine besylate, absorption produces peak plasma concentrations between 6 and 12 hours.
 Absolute bioavailability has been estimated to be between 64 and 90%.
-The bioavailability of amlodipine is not altered by the presence of food.
+The bioavailability of amlodipine besylate is not altered by the presence of food.
 
 Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.
 Ex vivo studies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.
@@ -59,7 +63,32 @@ Patients with renal failure may therefore receive the usual initial dose.
 Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose may be required.
 A similar increase in AUC was observed in patients with moderate to severe heart failure.
 
+Drug interactions
+
+In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+Impact of other drugs on amlodipine
+
+Co‑administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
+
+CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.1)].
+
+Impact of amlodipine on other drugs
+
+Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
+
+Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7.2)].
+
+Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
+This finding was not observed in CYP3A5 non‑expressers (N= 6).
+However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
+Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7.2)].
+
 ## 12.4 Pediatric Patients
 
-Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine between 1.25 mg and 20 mg.
+Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine besylate between 1.25 mg and 20 mg.
 Weight adjusted clearance and volume of distribution were similar to values in adults.
