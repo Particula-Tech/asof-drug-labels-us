@@ -39,7 +39,7 @@ You have a higher risk for heart disease if you:
 
 What is IMITREX?
 
-IMITREX is a prescription medicine used to treat acute migraine headaches with or without aura and acute cluster headaches in adults who have been diagnosed with migraine or cluster headaches.
+IMITREX Injection is a prescription medicine used to treat acute migraine headaches with or without aura and acute cluster headaches in adults who have been diagnosed with migraine or cluster headaches.
 
 IMITREX is not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar (rare form of migraine with aura) migraines.
 
@@ -52,8 +52,9 @@ Who should not take IMITREX?
 Do not take IMITREX if you have:
 
 - •heart problems or a history of heart problems
-- •narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- •narrowing of blood vessels to your legs, arms, stomach, or kidneys (peripheral vascular disease)
 - •uncontrolled high blood pressure
+- •severe liver problems
 - •hemiplegic migraines or basilar migraines.
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
@@ -68,6 +69,7 @@ Do not take IMITREX if you have:
   - •dihydroergotamine (D.H.E.
     45®, MIGRANAL®)
 - Ask your healthcare provider if you are not sure if your medicine is listed above.
+
 - •an allergy to sumatriptan or any of the ingredients in IMITREX.
   See the end of this leaflet for a complete list of ingredients in IMITREX.
 
@@ -81,6 +83,7 @@ Before you take IMITREX, tell your healthcare provider about all of your medical
 - •smoke
 - •are overweight
 - •have heart problems or family history of heart problems or stroke
+- •have kidney problems
 - •have liver problems
 - •have had epilepsy or seizures
 - •are not using effective birth control
@@ -91,7 +94,7 @@ Before you take IMITREX, tell your healthcare provider about all of your medical
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
-Using IMITREX with certain other medicines can affect each other, causing serious side effects.
+IMITREX and certain other medicines can affect each other, causing serious side effects.
 
 Especially tell your healthcare provider if you take anti-depressant medicines called:
 
@@ -113,9 +116,9 @@ How should I take IMITREX?
 - •Your healthcare provider may change your dose.
   Do not change your dose without first talking with your healthcare provider.
 - •For adults, the usual dose is a single injection given just below the skin.
-- •You should give an injection as soon as the symptoms of your headache start, but it may be given at any time during a migraine attack.
+- •You should give an injection as soon as the symptoms of your headache start, but it may be given at any time during a migraine or cluster headache attack.
 - •If you did not get any relief after the first injection, do not give a second injection without first talking with your healthcare provider.
-- •You can take a second injection 1 hour after the first injection, but not sooner, if your headache came back after your first injection.
+- •If your headache comes back or you only get some relief after your first injection, you can take a second injection 1 hour after the first injection, but not sooner.
 - •Do not take more than 12 mg in a 24‑hour period.
 - •If you use too much IMITREX, call your healthcare provider or go to the nearest hospital emergency room right away.
 - •You should write down when you have headaches and when you take IMITREX so you can talk with your healthcare provider about how IMITREX is working for you.
@@ -149,24 +152,25 @@ These serious side effects include:
   - •burning or aching pain in your feet or toes while resting
   - •numbness, tingling, or weakness in your legs
   - •cold feeling or color changes in 1 or both legs or feet
+- •hives (itchy bumps); swelling of your tongue, mouth, or throat
 - •medication overuse headaches.
   Some people who use too many IMITREX injections may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
 - •serotonin syndrome.
   Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti‑depressant medicines called SSRIs or SNRIs.
-  Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
-- 
-  - •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
-  - •fast heartbeat
-  - •changes in blood pressure
-  - •high body temperature
-  - •tight muscles
-  - •trouble walking
+
+- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+  1. •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  2. •fast heartbeat
+  3. •changes in blood pressure
+  4. •high body temperature
+  5. •tight muscles
+  6. •trouble walking
 - •seizures.
   Seizures have happened in people taking IMITREX who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take IMITREX.
 
-The most common side effects of IMITREX include:
+The most common side effects of IMITREX Injection include:
 
 - •pain or redness at your injection site
 - •tingling or numbness in your fingers or toes
@@ -212,20 +216,20 @@ Inactive ingredients: sodium chloride, water for injection
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-IMITREX, AMERGE, TREXIMET are registered trademarks of GlaxoSmithKline.
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+IMITREX and AMERGE are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2015, the GSK group of companies.
 All rights reserved.
 
-October 2012
+June 2015
 
-IMJ:3PPI
+IMJ:4PPI
 
 Patient Instructions for Use
 
@@ -403,17 +407,17 @@ Figure O
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-AMERGE, IMITREX, IMITREX STATdose System, IMITREX STATdose Pen, and TREXIMET are registered trademarks of GlaxoSmithKline.
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+AMERGE, IMITREX, IMITREX STATdose System, and IMITREX STATdose Pen are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2015, the GSK group of companies.
 All rights reserved.
 
-October 2012
+June 2015
 
-IMJ:3PIL
+IMJ:4PIL

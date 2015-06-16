@@ -2,7 +2,7 @@
 
 IMITREX Injection contains sumatriptan (base) as the succinate salt and is supplied as a clear, colorless to pale yellow, sterile, nonpyrogenic solution as follows:
 
-Prefilled Syringe and/or Autoinjector Pen: Each pack contains a Patient Information and Patients Instructions for Use leaflet.
+Prefilled Syringe and/or Autoinjector Pen: Each pack contains a Patient Information and Patient Instructions for Use leaflet.
 
 - •IMITREX STATdose System®, 4 mg, containing 1 IMITREX STATdose Pen, 2 prefilled single-dose syringe cartridges, and 1 carrying case (NDC 0173-0739-00).
 - •IMITREX STATdose System, 6 mg, containing 1 IMITREX STATdose Pen, 2 prefilled single-dose syringe cartridges, and 1 carrying case (NDC 0173-0479-00).
