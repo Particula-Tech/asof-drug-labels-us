@@ -10,6 +10,7 @@ The optimal response in such patients is usually obtained with more gradual dosa
 
 Parenteral medication, administered intramuscularly in doses of 2 to 5 mg, is utilized for prompt control of the acutely agitated schizophrenic patient with moderately severe to very severe symptoms.
 Depending on the response of the patient, subsequent doses may be given, administered as often as every hour, although 4 to 8 hour intervals may be satisfactory.
+The maximum dose is 20 mg/day.
 
 Controlled trials to establish the safety and effectiveness of intramuscular administration in children have not been conducted.
 
@@ -24,7 +25,7 @@ Since this dose is only an initial estimate, it is recommended that careful moni
 In this way, dosage adjustments, either upward or downward, can be quickly accomplished.
 Depending on the patient's clinical status, the first oral dose should be given within 12–24 hours following the last parenteral dose.
 
-## Instructions for Opening Ampule
+## INSTRUCTIONS FOR OPENING AMPULE
 
 | 1.Medication often rests in the top part of the ampule. Before breaking the ampule, lightly tap the top of the ampule with your finger until all fluid moves to the bottom portion of the ampule. The ampule has a colored ring(s) and colored point which aids in the placement of fingers while breaking the ampule. | Step 1 |
 | --- | --- |
