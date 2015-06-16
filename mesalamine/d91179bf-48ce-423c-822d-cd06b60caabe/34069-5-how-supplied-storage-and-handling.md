@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Asacol (mesalamine) Delayed-Release Tablets are available as red-brown, capsule-shaped tablets containing 400 mg mesalamine and imprinted with “0752 DR” in black.
+Asacol Delayed-Release Tablets: 400 mg (red-brown, capsule-shaped tablets containing 400 mg mesalamine and imprinted with “0752 DR” in black.
 
 NDC 0430-0752-27 Bottle of 180 tablets
 
