@@ -2,8 +2,8 @@
 
 ## 14.1 Studies in Men
 
-The efficacy of finasteride tablets USP was demonstrated in men (88% Caucasian) with mild to moderate androgenetic alopecia (male pattern hair loss) between 18 and 41 years of age.
-In order to prevent seborrheic dermatitis which might confound the assessment of hair growth in these studies, all men, whether treated with finasteride or placebo, were instructed to use a specified, medicated, tar-based shampoo (Neutrogena T/Gel®Shampoo) during the first 2 years of the studies.
+The efficacy of finasteride tablets USP was demonstrated in men (88% Caucasian)with mild to moderate androgenetic alopecia (male pattern hair loss) between 18 and 41 years of age.
+In order to prevent seborrheic dermatitis which might confound the assessment of hair growth in these studies, all men, whether treated with finasteride or placebo, were instructed to use a specified, medicated, tar-based shampoo (Neutrogena T/Gel® Shampoo)during the first 2 years of the studies.
 There were three double-blind, randomized, placebo-controlled studies of 12-month duration.
 The two primary endpoints were hair count and patient self-assessment; the two secondary endpoints were investigator assessment and ratings of photographs.
 In addition, information was collected regarding sexual function (based on a self-administered questionnaire) and non-scalp body hair growth.

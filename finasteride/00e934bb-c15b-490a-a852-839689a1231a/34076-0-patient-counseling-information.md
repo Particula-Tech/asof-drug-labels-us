@@ -17,5 +17,8 @@ Patients should be informed that there was an increase in high-grade prostate ca
 Physicians should instruct their patients to promptly report any changes in their breasts such as lumps, pain or nipple discharge.
 Breast changes including breast enlargement, tenderness and neoplasm have been reported [see Adverse Reactions (6.1)].
 Physicians should instruct their patients to read the patient package insert before starting therapy with finasteride tablets USPand to read it again each time the prescription is renewed so that they are aware of current information for patients regarding finasteride tablets USP.
+Manufactured for:
 
-Manufactured for: Camber Pharmaceuticals, Inc. 2020211 Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad-500 055, India.
+Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 Manufactured By:
+
+HETEROTM Hetero Labs Limited 22-110,I.D.A., Jeedimetla, Hyderabad-500 055, India.

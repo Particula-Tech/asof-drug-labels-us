@@ -9,7 +9,7 @@ In humans, Type I 5α-reductase is predominant in the sebaceous glands of most r
 Type I 5α-reductase is responsible for approximately one-third of circulating DHT.
 The Type II 5α-reductase isozyme is primarily found in prostate, seminal vesicles, epididymides, and hair follicles as well as liver, and is responsible for two-thirds of circulating DHT.
 In humans, the mechanism of action of finasteride is based on its preferential inhibition of the Type II isozyme.
-Using native tissues (scalp and prostate), in vitro binding studies examining the potential of finasteride to inhibit either isozyme revealed a 100-fold selectivity for the human Type II 5α-reductase over Type I isozyme (IC50=500 and 4.2 nM for Type I and II, respectively).
+Using native tissues (scalp and prostate), in vitro binding studies examining the potential of finasteride to inhibit either isozyme revealed a 100-fold selectivity for the human Type II 5α-reductase over Type I isozyme (IC 50=500 and 4.2 nM for Type I and II, respectively).
 For both isozymes, the inhibition by finasteride is accompanied by reduction of the inhibitor to dihydrofinasteride and adduct formation with NADP+.
 The turnover for the enzyme complex is slow (t1/2 approximately 30 days for the Type II enzyme complex and 14 days for the Type I complex).
 Inhibition of Type II 5α-reductase blocks the peripheral conversion of testosterone to DHT, resulting in significant decreases in serum and tissue DHT concentrations.
@@ -67,7 +67,7 @@ Mean terminal half-life is approximately 5 to 6 hours in men 18 to 60 years of a
 | Half-Life (hours)* | 4.5 (1.6) |
 
 *First-dose values; all other parameters are last-dose values Renal Impairment No dosage adjustment is necessary in patients with renal impairment.
-In patients with chronic renal impairment, with creatinine clearances ranging from 9.0 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14C-finasteride were similar to those obtained in healthy volunteers.
+In patients with chronic renal impairment, with creatinine clearances ranging from 9 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14C-finasteride were similar to those obtained in healthy volunteers.
 Urinary excretion of metabolites was decreased in patients with renal impairment.
 This decrease was associated with an increase in fecal excretion of metabolites.
 Plasma concentrations of metabolites were significantly higher in patients with renal impairment (based on a 60% increase in total radioactivity AUC).

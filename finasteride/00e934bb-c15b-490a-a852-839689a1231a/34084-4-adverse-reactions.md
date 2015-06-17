@@ -44,14 +44,14 @@ During the 4- to 6-year placebo- and comparator-controlled Medical Therapy of Pr
 During the 4-year placebo-controlled PLESS study that enrolled 3040 men, there were 2 cases of breast cancer in placebo-treated men, but no cases were reported in men treated with finasteride tablets USP, 5 mg.
 During the 7-year placebo-controlled Prostate Cancer Prevention Trial (PCPT) that enrolled 18,882 men, there was 1 case of breast cancer in men treated with finasteride tablets USP, 5 mg, and 1 case of breast cancer in men treated with placebo.
 The relationship between long-term use of finasteride and male breast neoplasia is currently unknown.
-The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial that enrolled 18,882 healthy men ≥55 years of age with a normal digital rectal examination and a PSA ≤3.0 ng/mL.
+The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial that enrolled 18,882 healthy men ≥55 years of age with a normal digital rectal examination and a PSA ≤3 ng/mL.
 Men received either finasteride tablets USP, 5 mg or placebo daily.
 Patients were evaluated annually with PSA and digital rectal exams.
 Biopsies were performed for elevated PSA, an abnormal digital rectal exam, or the end of study.
 The incidence of Gleason score 8 to 10 prostate cancer was higher in men treated with finasteride (1.8%) than in those treated with placebo (1.1%).
 In a 4-year placebo-controlled clinical trial with another 5α-reductase inhibitor [AVODART (dutasteride)], similar results for Gleason score 8 to 10 prostate cancer were observed (1% dutasteride vs 0.5% placebo).
 The clinical significance of these findings with respect to use of finasteride tablets USP, 1 mg by men is unknown.
-No clinical benefit has been demonstrated in patients with prostate cancer treated with finasteride tablets USP, 5 mg.
+No Clinical benefit has been demonstrated in patients with prostate cancer treated with finasteride tablets USP, 5 mg.
 Finasteride tablets USP, 5 mg are not approved to reduce the risk of developing prostate cancer.
 
 ## 6.2 Postmarketing Experience
