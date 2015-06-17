@@ -2,6 +2,8 @@ MEDICATION GUIDE
 
 Zoledronic acid Injection
 
+(ZOE-le-DRON-ik AS-id)
+
 Read the Medication Guide that comes with zoledronic acid injection before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment.
@@ -138,4 +140,4 @@ Your risk of kidney problems is higher if you:
   What are the ingredients in Zoledronic Acid Injection?
   Active ingredient: zoledronic acid monohydrate Inactive ingredients: mannitol and sodium citrate.
   This Medication Guide has been approved by the U.S. Food and Drug Administration.Rx Only Manufactured by: Gland Pharma Limited D.P.
-  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0513
+  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0515

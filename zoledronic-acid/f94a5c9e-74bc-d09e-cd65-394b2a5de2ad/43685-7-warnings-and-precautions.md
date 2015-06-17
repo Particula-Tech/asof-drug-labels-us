@@ -10,14 +10,14 @@ Pre-existing hypocalcemia and disturbances of mineral metabolism (e.g., hypopara
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended for these patients [see Contraindications (4)].
 
 Hypocalcemia following zoledronic acid injection administration is a significant risk in Paget’s disease.
-All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [seeDosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17)].
+All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2.8), Adverse Reactions (6.1), Information for Patients (17)].
 
 ## 5.3 Renal Impairment
 
 A single dose of zoledronic acid injection should not exceed 5 mg and the duration of infusion should be no less than 15 minutes [see Dosage and Administration (2)].
 
 Zoledronic acid injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
-[See Contraindications (4.2)].
+[See Contraindications (4)].
 If history or physical signs suggest dehydration, zoledronic acid injection therapy should be withheld until normovolemic status has been achieved.
 [See Post-marketing Experience (6.2)].
 
@@ -39,7 +39,9 @@ Consider monitoring creatinine clearance in patients at-risk for ARF who are tak
 Osteonecrosis of the jaw (ONJ) has been reported in patients treated with bisphosphonates, including zoledronic acid.
 Most cases have been in cancer patients treated with intravenous bisphosphonates undergoing dental procedures.
 A routine oral examination should be performed by the prescriber prior to initiation of bisphosphonate treatment.
-A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with a history of concomitant risk factors (e.g., cancer, chemotherapy, radiotherapy, corticosteroids, poor oral hygiene, pre-existing dental disease or infection, anemia, coagulopathy).
+A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with a history of concomitant risk factors (e.g., cancer, chemotherapy, angiogenesis inhibitors, radiotherapy, corticosteroids, poor oral hygiene, pre-existing dental disease or infection, anemia, coagulopathy).
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
+Concomitant administration of drugs associated with ONJ may increase the risk of developing ONJ.
 
 While on treatment, patients with concomitant risk factors should avoid invasive dental procedures if possible.
 For patients who develop ONJ while on bisphosphonate therapy, dental surgery may exacerbate the condition.
