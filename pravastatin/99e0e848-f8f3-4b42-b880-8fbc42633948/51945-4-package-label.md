@@ -4,7 +4,9 @@
 
 NDC 0093-7270-10
 
-PRAVASTATIN SODIUM Tablets, USP 80 mg
+Pravastatin
+
+Sodium Tablets, USP 80 mg
 
 Rx only
 
