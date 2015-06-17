@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020789"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Concordia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59212-680-10",
+    "59212-681-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "Zonegran"
+    }
+  ],
+  "setid": "d12de43e-3ac3-4335-bc85-70d7366a91eb",
+  "source": "dailymed"
+}
