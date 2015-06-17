@@ -15,8 +15,10 @@ Epic Pharma, LLC
 
 Laurelton, NY 11413
 
-Issued 02/10
+Manufactured in USA
 
-MF501ISS02/10
+Revised December 2014
+
+MF501REV12/14
 
 OE1084
