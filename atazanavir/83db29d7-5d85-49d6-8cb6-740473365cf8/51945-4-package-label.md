@@ -1,4 +1,4 @@
-# EVOTAZ (atazanavir sulfate and cobicistat) tablet Representative Packaging
+# EVOTAZ (atazanavir and cobicistat) tablet Representative Packaging
 
 See HOW SUPPLIED section for a complete list of available packages of EVOTAZ.
 
