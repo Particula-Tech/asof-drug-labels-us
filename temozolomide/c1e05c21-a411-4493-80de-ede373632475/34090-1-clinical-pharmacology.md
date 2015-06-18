@@ -10,7 +10,7 @@ Alkylation (methylation) occurs mainly at the O6 and N7 positions of guanine.
 
 Absorption: Temozolomide is rapidly and completely absorbed after oral administration with a peak plasma concentration (Cmax) achieved in a median Tmax of 1 hour.
 Food reduces the rate and extent of temozolomide absorption.
-Mean peak plasma concentration and AUC decreased by 32% and 9%, respectively, and median Tmax increased by 2-fold (from 1to 2.25 hours) when temozolomide was administered after a modified high-fat breakfast.
+Mean peak plasma concentration and AUC decreased by 32% and 9%, respectively, and median Tmax increased by 2-fold (from 1 to 2.25 hours) when temozolomide was administered after a modified high-fat breakfast.
 Following a single oral dose of 150 mg/m2, the geometric mean Cmax values for temozolomide and MTIC were 7.5 mcg/mL and 282 ng/mL, respectively.
 Following a single oral dose of 150 mg/m2, the geometric mean AUC values for temozolomide and MTIC were 23.4 mcg·hr/mL and 864 ng·hr/mL, respectively.
 Distribution: Temozolomide has a mean apparent volume of distribution of 0.4 L/kg (%CV=13%).

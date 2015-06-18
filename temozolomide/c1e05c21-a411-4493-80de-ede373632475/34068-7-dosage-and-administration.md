@@ -11,7 +11,7 @@ No dose reductions are recommended during the concomitant phase; however, dose i
 The temozolomide dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 × 109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 1.
-Pneumocystis pneumonia (PCP)prophylaxis is required during the concomitant administration of temozolomide and radiotherapy and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
+Pneumocystis pneumonia (PCP)prophylaxis is required during the concomitant administration of temozolomide and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
 TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
@@ -23,11 +23,11 @@ TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant 
 
 Maintenance Phase: Cycle 1: Four weeks after completing the temozolomide + RT phase, temozolomide is administered for an additional 6 cycles of maintenance treatment.
 Dosage in Cycle 1 (maintenance) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 × 109 /L, and the platelet count is greater than or equal to 100 × 109/L.
+Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 × 109 /L, and the platelet count is greater than or equal to 100 × 109/L.
 The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 Dose Reduction or Discontinuation During Maintenance: Dose reductions during the maintenance phase should be applied according to Tables 2 and 3.
-During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose of temozolomide) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
+During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose of temozolomide) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1,500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of temozolomide should not be started until the ANC and platelet count exceed these levels.
 Dose reductions during the next cycle should be based on the lowest blood counts and worst nonhematologic toxicity during the previous cycle.
 Dose reductions or discontinuations during the maintenance phase should be applied according to Tables 2 and 3.
@@ -50,10 +50,10 @@ TABLE 3: Temozolomide Dose Reduction or Discontinuation During Maintenance Treat
 
 TMZ=temozolomide; CTC=Common Toxicity Criteria.
 Patients with Refractory Anaplastic Astrocytoma: For adults the initial dose is 150 mg/m2 once daily for 5 consecutive days per 28-day treatment cycle.
-For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are greater than or equal to 1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 × 109/L (100,000/µL), the temozolomide dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
-During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
+For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are greater than or equal to 1.5 × 109/L (1,500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 × 109/L (100,000/µL), the temozolomide dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
+During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1,500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of temozolomide should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to less than 1 × 109/L (1000/µL) or the platelet count is less than 50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
+If the ANC falls to less than 1 × 109/L (1,000/µL) or the platelet count is less than 50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
 Temozolomide therapy can be continued until disease progression.
 In the clinical trial, treatment could be continued for a maximum of 2 years, but the optimum duration of therapy is not known.
 TABLE 4: Dosing Modification Table
@@ -129,7 +129,7 @@ TABLE 6: Suggested Capsule Combinations Based on Daily Dose in Adults
 
 ## 2.2 Preparation and Administration
 
-In clinical trials, temozolomide capsules were administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12.3)] and consistency of administration with respect to food is recommended.
+In clinical trials, temozolomide capsules were administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12.3)], and consistency of administration with respect to food is recommended.
 There are no dietary restrictions with temozolomide capsules.
 To reduce nausea and vomiting, temozolomide capsules should be taken on an empty stomach.
 Bedtime administration may be advised.

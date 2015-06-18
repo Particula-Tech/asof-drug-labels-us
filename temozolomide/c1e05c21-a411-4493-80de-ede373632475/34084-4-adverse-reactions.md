@@ -78,7 +78,7 @@ Pancytopenia, leukopenia, and anemia have also been reported.
 
 TABLE 8: Adverse Reactions in the Anaplastic Astrocytoma Trial in Adults (≥5%)
 
-|  | No. (%) of TemozolomidePatients (N=158) |  |
+|  | No. (%) of Temozolomide Patients (N=158) |  |
 | --- | --- | --- |
 |  | All Reactions | Grade 3/4 |
 | Any Adverse Reaction | 153 (97) | 79 (50) |
@@ -162,5 +162,5 @@ Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic an
 
 Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
 
-Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)].
-Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
+Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3),reactivation of infections such as cytomegalovirus and hepatitis B. Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
+Endocrine disorders: Diabetes insipidus

@@ -27,7 +27,7 @@ Of those patients undergoing resection, 73% underwent a subtotal resection and 2
 Eighteen percent of patients had surgery at the time of first relapse.
 The median time from initial diagnosis to first relapse was 13.8 months (4.2 to 75.4).
 Temozolomide capsules were given for the first 5 consecutive days of a 28-day cycle at a starting dose of 150 mg/m2/day.
-If the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil count was greater than or equal to 1.5 × 109/L (1500/µL) and the nadir and Day 29, Day 1 of next cycle platelet count was greater than or equal to 100 × 109/L (100,000/µL), the temozolomide dose was increased to 200 mg/m2/day for the first 5 consecutive days of a 28-day cycle.
+If the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil count was greater than or equal to 1.5 × 109/L (1,500/µL) and the nadir and Day 29, Day 1 of next cycle platelet count was greater than or equal to 100 × 109/L (100,000/µL), the temozolomide dose was increased to 200 mg/m2/day for the first 5 consecutive days of a 28-day cycle.
 In the refractory anaplastic astrocytoma population, the overall tumor response rate (CR + PR) was 22% (12/54 patients) and the complete response rate was 9% (5/54 patients).
 The median duration of all responses was 50 weeks (range: 16 to 114 weeks) and the median duration of complete responses was 64 weeks (range:52 to 114 weeks).
 In this population, progression-free survival at 6 months was 45% (95% CI: 31% to 58%) and progression-free survival at 12 months was 29% (95% CI: 16% to 42%).
