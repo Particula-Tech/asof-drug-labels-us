@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206473"
+  ],
+  "inn": "linezolid",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-4883-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "linezolid",
+      "name": "Linezolid"
+    }
+  ],
+  "setid": "c401f1a8-cc37-461b-bfef-f2e156629bf8",
+  "source": "dailymed"
+}
