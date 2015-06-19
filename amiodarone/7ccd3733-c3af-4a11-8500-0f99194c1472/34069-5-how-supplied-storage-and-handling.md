@@ -1,6 +1,7 @@
 # HOW SUPPLIED
 
-Amiodarone HCl Tablets, 100 mg are round, flat, beveled edge, white tablets; one side plain, the second side scored and engraved with "TARO" above the score and "55" below the score line and are available as follows:
+Amiodarone HCl Tablets, 100 mg are round, flat, beveled edge, white tablets; one side plain, the second side engraved with "TARO" at the top and "55" below.
+They are available as follows:
 
 | Bottles of 30 Tablets | NDC 51672-4055-6 |
 | --- | --- |

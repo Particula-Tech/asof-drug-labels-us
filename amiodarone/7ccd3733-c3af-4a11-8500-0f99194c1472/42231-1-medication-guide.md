@@ -148,4 +148,4 @@ Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C yellow No. 10 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: April 2015 71008-0415-13
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: June 2015 71008-0615-14
