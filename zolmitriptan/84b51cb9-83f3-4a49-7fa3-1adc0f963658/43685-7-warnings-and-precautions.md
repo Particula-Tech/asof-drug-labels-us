@@ -5,9 +5,9 @@
 ZOMIG is contraindicated in patients with ischemic or vasospastic coronary artery disease (CAD).
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of ZOMIG.
 Some of these reactions occurred in patients without known CAD.
-5 HT1 agonists including ZOMIG may cause coronary artery vasospasm (Prinzmetal’s Angina), even in patients without a history of CAD.
+5-HT1 agonists including ZOMIG may cause coronary artery vasospasm (Prinzmetal’s Angina), even in patients without a history of CAD.
 
-Perform a cardiovascular evaluation in triptan naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving ZOMIG.
+Perform a cardiovascular evaluation in triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving ZOMIG.
 Do not administer ZOMIG if there is evidence of CAD or coronary artery vasospasm [see Contraindications (4)].
 For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administrating the first ZOMIG dose in a medically-supervised setting and performing an electrocardiogram (ECG) immediately following ZOMIG administration.
 For such patients, consider periodic cardiovascular evaluation in intermittent long-term users of ZOMIG.
@@ -18,11 +18,11 @@ Life‑threatening disturbances of cardiac rhythm including ventricular tachycar
 Discontinue ZOMIG if these disturbances occur.
 Patients with Wolff-Parkinson‑White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders should not receive ZOMIG [see Contraindications (4)].
 
-## 5.3 Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure
+## 5.3 Chest, Throat, Neck, and/or Jaw Pain/Tightness/Pressure
 
 As with other 5‑HT1 agonists, sensations of tightness, pain, pressure, and heaviness in the precordium, throat, neck, and jaw commonly occur after treatment with ZOMIG and is usually non-cardiac in origin.
 However, if a cardiac origin is suspected, patients should be evaluated.
-Patients shown to have CAD and those with Prinzmetal’s variant angina should not receive 5 HT1 agonists [see Contraindications (4)].
+Patients shown to have CAD and those with Prinzmetal’s variant angina should not receive 5-HT1 agonists [see Contraindications (4)].
 
 ## 5.4 Cerebrovascular Events
 

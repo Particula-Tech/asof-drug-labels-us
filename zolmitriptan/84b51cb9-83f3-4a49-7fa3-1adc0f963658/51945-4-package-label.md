@@ -14,11 +14,11 @@ ZOMIG is a trademark of the AstraZeneca group of companies.
 
 ©AstraZeneca 2013
 
-IMPAX PHARMACEUTICALS
+IMPAX LABORATORIES
 
 Manufactured by: AstraZeneca UK Limited, Macclesfield, Cheshire UK
 
-Distributed by: Impax Pharmaceuticals,
+Distributed by: Impax Specialty Pharma,
 
 A Division of Impax Laboratories, Inc.,
 

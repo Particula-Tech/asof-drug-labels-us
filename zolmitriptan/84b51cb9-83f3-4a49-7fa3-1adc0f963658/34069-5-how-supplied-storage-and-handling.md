@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-The ZOMIG Nasal Spray device is a blue colored plastic device with a gray protection cap, labeled to indicate the nominal dose.
+The ZOMIG Nasal Spray device is a blue-colored plastic device with a gray protection cap, labeled to indicate the nominal dose.
 Each ZOMIG Nasal Spray device administers a single dose of ZOMIG.
 
 ZOMIG Nasal Spray is supplied as a clear to pale yellow solution of zolmitriptan, buffered to a pH 5.0.

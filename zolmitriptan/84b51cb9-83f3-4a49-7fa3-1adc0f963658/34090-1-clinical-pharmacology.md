@@ -10,7 +10,7 @@ The therapeutic activity of ZOMIG for the treatment of migraine headache is thou
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+Absorption
 
 Zolmitriptan nasal spray is rapidly absorbed via the nasopharynx as detected in a Photon Emission Tomography (PET) study using 11C zolmitriptan.
 The mean relative bioavailability of the nasal spray formulation is 102%, compared with the oral tablet.
@@ -19,23 +19,23 @@ The time at which maximum plasma concentrations were observed was similar after 
 Plasma concentrations of zolmitriptan are sustained for 4 to 6 hours after dosing.
 Zolmitriptan and its active N-desmethyl metabolite display linear kinetics after single or multiple doses of ZOMIG nasal spray over the dose range of 0.1 to 10 mg.
 
-The pharmacokinetics of the N desmethyl metabolite are similar to that of zolmitriptan for all nasal spray dosages.
-The N desmethyl metabolite is detected in plasma by 15 minutes and peak plasma concentration is generally achieved by 3 hours after administration.
+The pharmacokinetics of the N-desmethyl metabolite are similar to that of zolmitriptan for all nasal spray dosages.
+The N-desmethyl metabolite is detected in plasma by 15 minutes and peak plasma concentration is generally achieved by 3 hours after administration.
 Food has no significant effect on the bioavailability of zolmitriptan.
 
-Distribution:
+Distribution
 
 Plasma protein binding of zolmitriptan is 25% over the concentration range of 10‑1000 ng/mL.
 The mean apparent volume of distribution for zolmitriptan nasal spray formulation is 8.4 L/kg.
 
-Metabolism:
+Metabolism
 
 Zolmitriptan is converted to an active N‑desmethyl metabolite such that the metabolite concentrations are about two-thirds that of zolmitriptan.
 Because the 5HT1B/1D potency of the metabolite is 2 to 6 times that of the parent compound, the metabolite may contribute a substantial portion of the overall effect after ZOMIG administration.
 
-Excretion:
+Excretion
 
-The mean elimination half life for zolmitriptan and N‑desmethyl metabolite following single or multiple nasal spray administration are approximately 3 hours, similar to the half‑life values seen after oral tablet administration.
+The mean elimination half life for zolmitriptan and N‑desmethyl metabolite following single or multiple nasal spray administration are approximately 3 hours, similar to the half-life values seen after oral tablet administration.
 
 In a study with orally administered zolmitriptan, total radioactivity recovered in urine and feces was 65% and 30% of the administered dose, respectively.
 In urine, unchanged zolmitriptan and N‑desmethyl metabolite accounted for 8% and 4% of the dose, respectively, whereas the inactive indole acetic acid and N‑oxide metabolites accounted for 31% and 7% of the dose, respectively.
@@ -43,7 +43,7 @@ In urine, unchanged zolmitriptan and N‑desmethyl metabolite accounted for 8% a
 Mean total plasma clearance for zolmitriptan nasal spray is 25.9 mL/min/kg, of which one-sixth is renal clearance.
 The renal clearance is greater than the glomerular filtration rate suggesting renal tubular secretion.
 
-Special Populations:
+Specific Populations
 
 Age:
 
@@ -55,7 +55,7 @@ Mean plasma concentrations of orally administered zolmitriptan were up to 1.5‑
 
 Race:
 
-There are no significant difference in the pharmacokinetics of orally administered zolmitriptan in Japanese and Caucasians.
+There are no significant differences in the pharmacokinetics of orally administered zolmitriptan in Japanese and Caucasians.
 
 Renal Impairment:
 
@@ -70,16 +70,16 @@ Seven out of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/o
 
 Hypertensive Patients:
 
-No differences in the pharmacokinetics of oral zolmitriptan or its effects on blood pressure were seen in mild‑to‑moderate hypertensive volunteers compared with normotensive controls.
+No differences in the pharmacokinetics of oral zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensive volunteers compared with normotensive controls.
 
-Drug Interactions:
+Drug Interactions
 
 All drug interaction studies were performed in healthy volunteers using a single 10 mg dose of zolmitriptan and a single dose of the other drug except where otherwise noted.
 Eight drug interaction studies have been performed with zolmitriptan tablets and one study (xylometazoline) was performed with nasal spray.
 
 Xylometazoline:
 
-An in vivo drug interaction study with ZOMIG Nasal Spray indicated that 1 spray (100µL dose) of xylometazoline (0.1% w/v), a decongestant, administered 30 minutes prior to a 5 mg nasal dose of zolmitriptan did not alter the pharmacokinetics of zolmitriptan.
+An in vivo drug interaction study with ZOMIG nasal spray indicated that 1 spray (100 µL dose) of xylometazoline (0.1% w/v), a decongestant, administered 30 minutes prior to a 5 mg nasal dose of zolmitriptan did not alter the pharmacokinetics of zolmitriptan.
 
 Fluoxetine:
 

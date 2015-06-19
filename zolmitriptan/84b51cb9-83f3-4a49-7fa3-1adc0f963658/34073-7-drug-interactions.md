@@ -17,7 +17,7 @@ Concomitant use of other 5-HT1B/1D agonists (including triptans) within 24 hours
 ## 7.4 Cimetidine
 
 Following administration of cimetidine, the half‑life and AUC of ZOMIG and its active metabolites were approximately doubled [see Clinical Pharmacology (12.3)].
-If cimetidine and ZOMIG are used concomitantly, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24 hour period [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+If cimetidine and ZOMIG are used concomitantly, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 7.5 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 
