@@ -31,7 +31,6 @@ Who should not take capecitabine tablets?
 
 Do not take capecitabine tablets if you:
 
-- •have been told that you lack the enzyme DPD (dihydropyrimidine dehydrogenase).
 - •have severe kidney problems.
 - •are allergic to capecitabine, 5-fluorouracil, or any of the ingredients in capecitabine tablets.
   See the end of this leaflet for a complete list of ingredients in capecitabine tablets.
@@ -46,6 +45,7 @@ Before you take capecitabine tablets, tell your doctor if you:
 
 - •have had heart problems.
 - •have kidney or liver problems.
+- •have been told that you lack the enzyme DPD (dihydropyrimidine dehydrogenase)
 - •have any other medical conditions.
 - •are pregnant or plan to become pregnant.
   Capecitabine tablets can harm your unborn baby.
@@ -187,4 +187,4 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-C 10/2014
+D 4/2015
