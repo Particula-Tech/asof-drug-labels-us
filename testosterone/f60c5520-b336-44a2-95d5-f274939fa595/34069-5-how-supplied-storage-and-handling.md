@@ -6,3 +6,10 @@ Testosterone Cypionate Injection, USP, 200 mg/mL is a clear, pale yellow oleagin
 
 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
 Protect from light.
+
+Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+Estrada do Rio da Mό, no 8, 8A e 8B - Fervença, - 2705-906 Terrugem SNT, PORTUGAL
+
+Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
+
+Revised: 05/2015 PIN300-WES/7
