@@ -47,7 +47,7 @@ Gastrointestinal: Cholestasis, dry mouth, hepatocellular damage, dyspepsia, vomi
 
 Other Senses: Taste perversion.
 
-Musculoskeletal System: myalgia.
+Musculoskeletal System: Myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 

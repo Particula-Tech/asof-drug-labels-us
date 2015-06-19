@@ -121,7 +121,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Do not use if the solution is cloudy or precipitated or if the seal is not intact.
 
-## Directions for IV Use of Fluconazole Injection in Plastic containers
+## Directions for Intravenous Use of Fluconazole Injection in Plastic containers
 
 Do not remove unit from overwrap until ready for use.
 The overwrap is a moisture barrier.

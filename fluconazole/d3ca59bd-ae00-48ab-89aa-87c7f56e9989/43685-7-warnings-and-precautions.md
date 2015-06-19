@@ -262,7 +262,7 @@ HMG-CoA reductase inhibitors should be discontinued if a marked increase in crea
 
 ### Losartan:
 
-Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin Il-receptor antagonism which occurs during treatment with losartan.
+Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin II-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
 
 ### Methadone:
