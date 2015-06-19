@@ -6,21 +6,23 @@ While parenterally administered MPA inhibits gonadotropin production, which in t
 
 ## Pharmacokinetics
 
-The pharmacokinetics of MPA were determined in 20 postmenopausal women following a single-dose administration of eight medroxyprogesterone acetate 2.5 mg tablets or a single administra- tion of two medroxyprogesterone acetate 10 mg tablets under fasting conditions.
-In another study, the steady-state pharmacokinetics of MPA were determined under fasting conditions in 30 post- menopausal women following daily administration of one medroxyprogesterone acetate 10 mg tablet for 7 days.
-In both studies, MPA was quantified in serum using a validated gas chroma- tography-mass spectrometry (GC-MS) method.
+The pharmacokinetics of MPA were determined in 20 postmenopausal women following a single-dose administration of eight medroxyprogesterone acetate 2.5 mg tablets or a single administration of two medroxyprogesterone acetate 10 mg tablets under fasting conditions.
+In another study, the steady-state pharmacokinetics of MPA were determined under fasting conditions in 30 postmenopausal women following daily administration of one medroxyprogesterone acetate 10 mg tablet for 7 days.
+In both studies, MPA was quantified in serum using a validated gas chromatography-mass spectrometry (GC-MS) method.
 Estimates of the pharmacokinetic parameters of MPA after single and multiple doses of medroxyprogesterone acetate tablets were highly variable and are summarized in Table 1.
 
 Table 1.
 Mean (SD) Pharmacokinetic Parameters for Medroxyprogesterone Acetate (MPA)
 
-| TabletStrength | Cmax(ng/mL) | Tmax(h) | Auc0-(∞)(ng·h/mL) | t½(h) | Vd/f(L) | CL/f(mL/min) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Single Dose |  |  |  |  |  |  |  |
-| 2 x 10 mg | 1.01 (0.599) | 2.65 (1.41) | 6.95 (3.39) | 12.1 (3.49) | 78024(47220) | 64110(42662) |  |
-| 8 x 2.5 mg | 0.805 (0.413) | 2.22 (1.39) | 5.62 (2.79) | 11.6 (2.81) | 62748(40146) | 74123(35126) |  |
-| Multiple Dose |  |  |  |  |  |  |  |
-| 10 mgFollowing Day 7 dose | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15) | 40564(38256) | 41963(38402) |  |
+| TabletStrength | Cmax(ng/mL) | Tmax(h) | Auc0-(∞)(ng·h/mL) | t½(h) | Vd/f(L) | CL/f(mL/min) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Single Dose |  |  |  |  |  |  |
+| 2 x 10 mg | 1.01 (0.599) | 2.65 (1.41) | 6.95 (3.39) | 12.1 (3.49) | 78024(47220) | 64110(42662) |
+| 8 x 2.5 mg | 0.805 (0.413) | 2.22 (1.39) | 5.62 (2.79) | 11.6 (2.81) | 62748(40146) | 74123(35126) |
+| Multiple Dose |  |  |  |  |  |  |
+| 10 mg * | 0.71 (0.35) | 2.83 (1.83) | 6.01 (3.16) | 16.6 (15) | 40564(38256) | 41963(38402) |
+
+*Following Day 7 dose
 
 ### A. Absorption
 
@@ -28,7 +30,7 @@ No specific investigation on the absolute bioavailability of MPA in humans has b
 MPA is rapidly absorbed from the gastrointestinal tract, and maximum MPA concentrations are obtained between 2 to 4 hours after oral administration.
 
 Administration of medroxyprogesterone acetate with food increases the bioavailability of MPA.
-A 10 mg dose of medroxyprogesterone acetate, taken immediately before or after a meal, in- creased MPA Cmax (50 to 70%) and AUC (18 to 33%).
+A 10 mg dose of medroxyprogesterone acetate, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
 The half-life of MPA was not changed with food.
 
 ### B. Distribution
@@ -43,11 +45,7 @@ Following oral dosing, MPA is extensively metabolized in the liver via hydroxyla
 
 Most MPA metabolites are excreted in the urine as glucuronide conjugates with only minor amounts excreted as sulfates.
 
-### E. Special Populations
-
-#### Renal Insufficiency
-
-The pharmacokinetics of MPA in patients with varying degrees of renal insufficiency have not been investigated.
+### E. Specific Populations
 
 #### Hepatic Insufficiency
 
@@ -55,6 +53,12 @@ MPA is almost exclusively eliminated via hepatic metabolism.
 In 14 patients with advanced liver disease, MPA disposition was significantly altered (reduced elimination).
 In patients with fatty liver, the mean percent dose excreted in the 24-hour urine as intact MPA after a 10 mg or 100 mg dose was 7.3% and 6.4%, respectively.
 
+#### Renal Insufficiency
+
+The effect of renal impairment on the pharmacokinetics of medroxyprogesterone acetate has not been studied.
+
 ### F. Drug Interactions
 
-No formal pharmacokinetic drug interaction studies have been conducted with medroxyprogesterone acetate.
+Medroxyprogesterone acetate (MPA) is metabolized in-vitro primarily by hydroxylation via the CYP3A4.
+Specific drug-drug interaction studies evaluating the clinical effects with CYP3A4 inducers or inhibitors on MPA have not been conducted.
+Inducers and/or inhibitors of CYP3A4 may affect the metabolism of MPA.

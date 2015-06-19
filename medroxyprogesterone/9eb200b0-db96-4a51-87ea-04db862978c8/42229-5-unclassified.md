@@ -1,6 +1,7 @@
-Iss.
-4/2010 11001645
+0872
+
+0873
+
+0779
 
 Rx only
-
-(Three Patient Information Leaflet Enclosed-Tear at Perforation)
