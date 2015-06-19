@@ -32,4 +32,4 @@ Distributed by: Fera Pharmaceuticals, LLC, Locust Valley, NY, 11560
 
 U.S. Patents 6,544,555; 6,669,948; 6,723,341
 
-Rev 05/14 PPL-002
+Rev 06/15 PPL-002

@@ -36,77 +36,57 @@ The clinical relevance of this finding has not been evaluated.
 
 ## 12.4 Microbiology
 
-Amoxicillin is a semi-synthetic antimicrobial belonging to the penicillin class of antimicrobials with activity against gram-positive bacteria.
-
 Mechanism of Action
 
-Amoxicillin exerts its bactericidal action against susceptible organisms during the stage of multiplication.
-It acts through the inhibition of biosynthesis of cell wall mucopeptide.
+Amoxicillin is similar to penicillin in its bacterial action against susceptible organisms during the stage of active multiplication.
+It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria.
 
 Mechanism of Resistance
 
 To date there are no known mechanisms of resistance to penicillin or amoxicillin in Streptococcus pyogenes.
 
-MOXATAG has been shown to be active in vitro against isolates of the microorganism S. pyogenes and in clinical infections as described in the INDICATIONS AND USAGE section.
+Antimicrobial Activity
 
-Facultative Gram-Positive Bacteria:
+Amoxicillin has been shown to be active in vitro against isolates of the microorganism S. pyogenes and in clinical infections as described in the INDICATIONS AND USAGE section.
+
+Gram-Positive Bacteria:
 
 Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptibility breakpoint of amoxicillin (as determined by susceptibility tests using the class representative agents penicillin or ampicillin).
 
-Facultative Gram-Positive Bacteria:
+Gram-Positive Bacteria:
 
 Streptococcus spp.
-(Group B, C, and G; β-hemolytic)
+(Group B, C, and G; Beta-hemolytic)
 
 Susceptibility Test Methods:
 
-When available, the clinical microbiology laboratory should provide cumulative results of the in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
-
-Susceptibility testing of penicillins (such as amoxicillin) and other β-lactams approved by FDA for the treatment of Group A streptococcus (S. pyogenes) is not routinely necessary for clinical purposes.
-Isolates of Group A streptococcus resistant to amoxicillin have not been recognized and therefore all isolates can be considered susceptible to amoxicillin.
-However, susceptibility tests can be conducted using dilution or diffusion techniques employing penicillin or ampicillin to predict susceptibility to amoxicillin.
 
 Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial MICs.
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure1,2.
-Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of penicillin or ampicillin.
-The susceptibility of Group A streptococcus to penicillin or amoxicillin should be interpreted according to the criteria in Table 2.
+The MICs should be determined using a standardized method (broth or agar)1,2.
 
-Diffusion Technique
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure3 requires the use of a standardized inoculum concentration.
-This procedure uses paper disks impregnated with 10 units penicillin or 10 mcg ampicillin to test the susceptibility of S. pyogenes to penicillin or amoxicillin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test should be interpreted according to the criteria in Table 2.
-
-Table 2.
-Susceptibility Test Results Interpretive Criteria for Beta-Hemolytic Streptococci including Streptococcus pyogenes
-
-| Antimicrobial | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |
-| --- | --- | --- |
-| Penicillin | ≤0.12 = Susceptible | ≥24 = Susceptible |
-| Ampicillin | ≤0.25 = Susceptible | ≥24 = Susceptible |
-
-The current absence of data on resistant isolates precludes defining any categories other than “Susceptible”.
-Isolates yielding results suggestive of a “nonsusceptible” category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.
+Susceptibility of beta-hemolytic streptococcal isolates to amoxicillin may be inferred by testing penicillin.
+An organism that is susceptible to penicillin can be considered susceptible to amoxicillin when used for approved indications2.
+If testing is performed, any beta hemolytic streptococcal isolate found to be nonsusceptible should be reidentified, retested, and if confirmed, submitted to a public health laboratory.
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-Standard penicillin or ampicillin powders should provide the MIC ranges provided in Table 3.
-For the disk diffusion technique using the 10 unit penicillin disk or 10 μg ampicillin disk the criteria in Table 3 should be achieved.
+Standardized susceptibility test procedures1,2 require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
+Standard amoxicillin powder should provide the following range of MIC values provided in Table 22.
 
-Table 3.
-Acceptable Quality Control Ranges for Susceptibility Testing
+Table 2.
+Acceptable Quality Control Ranges for Amoxicillina
 
-| QC Organism | Antimicrobial | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |
-| --- | --- | --- | --- |
-| Streptococcus pneumoniae | Penicillin | 0.25 – 1 | 24 – 30 |
-| ATCC 49619 | Ampicillin | 0.06 – 0.25 | 30 – 36 |
-| ATCC = American Type Culture Collection |  |  |  |
+| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
+| --- | --- | --- |
+| Streptococcus pneumoniae ATCCb 49619 | 0.03–0.12 | --- |
+| Klebsiella pneumoniae ATCC 700603 | >128 | --- |
+| aQC limits for testing E. coli 35218 when tested on Haemophilus Test Medium (HTM) are greater than 256 mcg/mL for amoxicillin; testing amoxicillin may help to determine if the isolate has maintained its ability to produce beta-lactamase2. |  |  |
+| bATCC = American Type Culture Collection |  |  |

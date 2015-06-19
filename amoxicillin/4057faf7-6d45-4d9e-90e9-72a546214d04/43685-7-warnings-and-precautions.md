@@ -16,6 +16,7 @@ Oxygen, intravenous steroids, and airway management, including intubation, shoul
 
 Clostridium difficile Associated Diarrhea (CDAD) has been reported with nearly all antibacterial agents, including amoxicillin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
