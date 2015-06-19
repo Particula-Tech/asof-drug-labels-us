@@ -26,7 +26,7 @@ Females: 0.85 x above value
 | Recommended MERREM I.V. Dosage Schedule for Adult Patients with Renal Impairment |  |  |
 | --- | --- | --- |
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
-| Greater than 50 | Recommended dose (500 mg cSSSI and 1gram Intra-abdominal) | Every 8 hours |
+| Greater than 50 | Recommended dose (500 mg cSSSI and 1 gram Intra-abdominal) | Every 8 hours |
 | Greater than 25-50 | Recommended dose | Every 12 hours |
 | 10-25 | One-half recommended dose | Every 12 hours |
 | Less than 10 | One-half recommended dose | Every 24 hours |
@@ -38,9 +38,9 @@ There is inadequate information regarding the use of MERREM I.V. in patients on 
 Pediatric Patients 3 Months of Age and Older
 
 For pediatric patients 3 months of age and older, the MERREM I.V. dose is 10 mg/kg, 20 mg/kg, or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (complicated skin and skin structure, intra-abdominal or meningitis).
-(See dosing table below.)
+See dosing table below.
 Pediatric patients weighing over 50 kg should be administered MERREM I.V. at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 gram every 8 hours for intra-abdominal infections and 2 grams every 8 hours for meningitis.
-MERREM I.V. should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes - 5 minutes.
+MERREM I.V. should be given as intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 
 There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
 
@@ -58,7 +58,7 @@ When treating complicated skin and skin structure infections caused by P. aerugi
 Pediatric Patients Less Than 3 Months of Age
 
 For pediatric patients (with normal renal function) less than 3 months of age, with intra-abdominal infections, the MERREM I.V. dose is based on gestational age (GA) and postnatal age (PNA).
-(See dosing table below).
+See dosing table below.
 MERREM I.V. should be given as intravenous infusion over 30 minutes.
 
 | Recommended MERREM I.V. Dosage Schedule for Pediatric Patients Less than 3 Months of Age with Complicated Intra-Abdominal Infections and Normal Renal Function |  |  |
@@ -86,7 +86,7 @@ Shake to dissolve and let stand until clear.
 For Infusion
 
 Infusion vials (500 mg and 1 gram) may be directly constituted with a compatible infusion fluid.
-Alternatively, an injection vial may be constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and(2.6)].
+Alternatively, an injection vial may be constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
 
 WARNING: Do not use flexible container in series connections.
 

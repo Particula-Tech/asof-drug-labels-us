@@ -27,7 +27,7 @@ The following table provides the results for the overall as well as subgroup com
 The following clinical efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-| MICROORGANISMSPatients may have more than one pretreatment pathogen. | MERREM I.V. nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups. (%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N (%) |
+| MICROORGANISMSPatients may have more than one pretreatment pathogen. | MERREM I.V. nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups.(%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N (%) |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus,methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -55,9 +55,9 @@ Using strict evaluability criteria and microbiologic eradication and clinical cu
 | Treatment Arm | No. evaluable/ No. enrolled (%) | Microbiologic Eradication Rate | Clinical Cure Rate | Outcome |
 | --- | --- | --- | --- | --- |
 | meropenem | 146/516 (28%) | 98/146 (67%) | 101/146 (69%) |  |
-| imipenem | 65/220 (30%) | 40/65 (62%) | 42/65 (65%) | Meropenem equivalent to control |
-| cefotaxime/ metronidazole | 26/85 (30%) | 22/26 (85%) | 22/26 (85%) | Meropenem not equivalent to control |
-| clindamycin/ tobramycin | 50/212 (24%) | 38/50 (76%) | 38/50 (76%) | Meropenem equivalent to control |
+| imipenem | 65/220 (30%) | 40/65 (62%) | 42/65 (65%) | meropenem equivalent to control |
+| cefotaxime/ metronidazole | 26/85 (30%) | 22/26 (85%) | 22/26 (85%) | meropenem not equivalent to control |
+| clindamycin/ tobramycin | 50/212 (24%) | 38/50 (76%) | 38/50 (76%) | meropenem equivalent to control |
 
 The finding that meropenem was not statistically equivalent to cefotaxime/metronidazole may have been due to uneven assignment of more seriously ill patients to the meropenem arm.
 Currently there is no additional information available to further interpret this observation.
@@ -69,9 +69,9 @@ A comparable number of patients were found to be clinically evaluable (ranging f
 
 Patients were defined as clinically not cured if any one of the following three criteria were met:
 
-- At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
-- During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
-- Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
+- 1.At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+- 2.During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
+- 3.Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
 Using the definition, the following efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.

@@ -256,4 +256,4 @@ Table 4 Acceptable Quality Control Ranges for Meropenem
 | Bacteroides fragilisUsing the Reference Agar Dilution procedure.ATCC 25285 | 0.03–0.25 |  |
 | Bacteroides thetaiotaomicronATCC 29741 | 0.125-0.5 |  |
 | Eubacterium lentumATCC 43055 | 0.125-1 |  |
-| Clostridium dificileATCC 700057 | 0.5-4 |  |
+| Clostridium difficileATCC 700057 | 0.5-4 |  |

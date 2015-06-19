@@ -23,11 +23,11 @@ Use of MERREM I.V. in pediatric patients 3 months of age and older with complica
 Intra-abdominal Infections
 
 Use of MERREM I.V. in pediatric patients 3 months of age and older with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from pediatric pharmacokinetics studies and controlled clinical trials in pediatric patients.
-Use of MERREM I.V. in pediatric patients less than 3 months of age with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from a pediatric pharmacokinetic and safety study [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Use of MERREM I.V. in pediatric patients less than 3 months of age with intra-abdominal infections is supported by evidence from adequate and well-controlled studies in adults with additional data from a pediatric pharmacokinetic and safety study [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3)andClinical Studies (14.2)].
 
 Bacterial Meningitis
 
-Use of MERREM I.V. in pediatric patients 3 months of age and older with bacterial meningitis is supported by evidence from adequate and well-controlled studies in the pediatric population [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+Use of MERREM I.V. in pediatric patients 3 months of age and older with bacterial meningitis is supported by evidence from adequate and well-controlled studies in the pediatric population [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3)andClinical Studies (14.3)].
 
 ## 8.5 Geriatric Use
 
