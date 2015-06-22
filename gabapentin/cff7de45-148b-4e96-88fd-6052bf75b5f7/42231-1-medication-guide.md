@@ -97,8 +97,8 @@ How should I take gabapentin?
   Your healthcare provider will tell you how much gabapentin to take.
   - Do not change your dose of gabapentin without talking to your healthcare provider.
   - If you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
-    Half tablets not used within 28 days of breaking should be thrown away
-  - Take gabapentin capsules with plenty of water.
+    Half tablets not used within 28 days of breaking should be thrown away.
+  - Take gabapentin capsules with water.
 - Gabapentin tablets can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin.
 
@@ -160,13 +160,13 @@ The 300-mg capsule shell also contains: yellow iron oxide.
 
 The 400-mg capsule shell also contains: red iron oxide, and yellow iron oxide.
 
-Inactive ingredients in the tablets: poloxamer 407, copovidone cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, and candelilla wax.
+Inactive ingredients in the tablets: poloxamer 407, copovidone, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, and candelilla wax.
 
 Inactive ingredients in the oral solution: glycerin, xylitol, purified water, and artificial flavor.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com
+For current full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0437-8.0 January 2015
+LAB-0437-9.0 June 2015

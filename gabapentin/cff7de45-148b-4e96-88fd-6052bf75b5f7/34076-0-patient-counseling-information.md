@@ -1,11 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
-
-Medication Guide
-
-Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking gabapentin.
-Instruct patients to take gabapentin only as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
@@ -25,8 +20,9 @@ Accordingly, advise them neither to drive a car nor to operate other complex mac
 
 Suicidal Thinking and Behavior
 
-Patients, their caregivers, and families should be counseled that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.3)].
+Counsel the patient, their caregivers, and families that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior.
+Advise patients of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.7)].
 
 Use in Pregnancy
 

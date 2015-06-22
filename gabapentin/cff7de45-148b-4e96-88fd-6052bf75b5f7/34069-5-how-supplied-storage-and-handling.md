@@ -35,4 +35,4 @@ Gabapentin capsules, tablets, and oral solution are supplied as follows:
 
 Store gabapentin tablets and capsules at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-Store gabapentin oral solution refrigerated, 2°C to 8°C (36°F to 46°F)
+Store gabapentin oral solution refrigerated, 2°C to 8°C (36°F to 46°F).

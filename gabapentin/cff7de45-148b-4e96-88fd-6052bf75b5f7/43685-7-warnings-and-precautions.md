@@ -67,7 +67,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
+TABLE 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -113,9 +113,3 @@ Some of these could represent seizure-related deaths in which the seizure was no
 This represents an incidence of 0.0038 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with epilepsy not receiving gabapentin (ranging from 0.0005 for the general population of epileptics to 0.003 for a clinical trial population similar to that in the gabapentin program, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or raise further concern depends on comparability of the populations reported upon to the gabapentin cohort and the accuracy of the estimates provided.
-
-## 5.11 Laboratory Tests
-
-Clinical trials data do not indicate that routine monitoring of clinical laboratory parameters is necessary for the safe use of gabapentin.
-The value of monitoring gabapentin blood concentrations has not been established.
-Gabapentin may be used in combination with other antiepileptic drugs without concern for alteration of the blood concentrations of gabapentin or of other antiepileptic drugs.

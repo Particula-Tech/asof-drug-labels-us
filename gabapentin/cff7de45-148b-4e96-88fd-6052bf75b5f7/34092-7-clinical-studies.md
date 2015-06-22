@@ -37,7 +37,7 @@ The proportion of responders (those patients reporting at least 50% improvement 
 | Figure 3. Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies |
 | --- |
 
-## 14.2 Epilepsy
+## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
 The effectiveness of gabapentin as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
 
@@ -54,7 +54,7 @@ One study compared gabapentin 1200 mg/day, in three divided doses with placebo.
 Responder rate was 23% (14/61) in the gabapentin group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
 Response ratio was also better in the gabapentin group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
 
-A second study compared primarily gabapentin 1200 mg/day, in three divided doses gabapentin (N=101), with placebo (N=98).
+A second study compared primarily gabapentin 1200 mg/day, in three divided doses (N=101), with placebo (N=98).
 Additional smaller gabapentin dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
 Responder rate was higher in the gabapentin 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
 The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1800 mg group (26%) was statistically significantly superior to the placebo rate.
