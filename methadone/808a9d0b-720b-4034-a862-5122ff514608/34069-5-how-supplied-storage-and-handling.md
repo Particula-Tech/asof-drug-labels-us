@@ -11,12 +11,14 @@ Methadose™ Sugar-Free Oral Concentrate (methadone hydrochloride oral concentra
 Dispense in tight containers, protected from light.
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Methadose is a trademark of Mallinckrodt Inc.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
+
+© 2014 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
 Made in USA
 
-COVIDIEN™ Mallinckrodt
+Mallinckrodt™ Pharmaceuticals
 
-Rev 10/2009
+Rev 10/2014
