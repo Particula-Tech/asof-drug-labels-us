@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022370"
+  ],
+  "inn": "tramadol",
+  "labeler": "Trigen Laboratories, LLC",
+  "package_ndcs": [
+    "13811-689-30",
+    "13811-690-30",
+    "13811-691-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tramadol hydrochloride",
+      "name": "ConZip"
+    }
+  ],
+  "setid": "c0bc7218-3fd0-4646-96f4-25355fc84aa9",
+  "source": "dailymed"
+}
