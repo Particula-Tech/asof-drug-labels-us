@@ -99,3 +99,4 @@ Pulmonary: acute asthma exacerbations.
 Skin: rash (occasionally with photosensitivity), pruritus, alopecia, severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.
 
 Special Senses: uveitis, scleritis or episcleritis.
+Cholesteatoma of the external auditory canal (focal osteonecrosis).
