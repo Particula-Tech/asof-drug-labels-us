@@ -3,16 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanisms by which gabapentin produces its analgesic and antiepileptic actions are unknown.
-
-In animal models of analgesia, gabapentin prevents allodynia (pain-related behavior in response to a normally innocuous stimulus) and hyperalgesia (exaggerated response to painful stimuli).
-Gabapentin prevents pain-related responses in several models of neuropathic pain in rats and mice (e.g., spinal nerve ligation models, spinal cord injury model, acute herpes zoster infection model).
-Gabapentin also decreases pain-related responses after peripheral inflammation (carrageenan footpad test, late phase of formalin test), but does not alter immediate pain-related behaviors (rat tail flick test, formalin footpad acute phase).
-The relevance of these models to human pain is not known.
-
-Gabapentin exhibits antiseizure activity in mice and rats in both the maximal electroshock and pentylenetetrazole seizure models and other preclinical models (e.g., strains with genetic epilepsy, etc.). The relevance of these models to human epilepsy is not known.
-
 Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake or degradation.
-Gabapentin did not exhibit affinity for a number of other common receptor ion channel, or transporter proteins.
 In vitro studies have shown that gabapentin binds with high-affinity to the α2δ subunit of voltage-activated calcium channels; however, the relationship of this binding to the therapeutic effects of gabapentin is unknown.
 
 ## 12.3 Pharmacokinetics
@@ -47,17 +38,13 @@ Adult Patients With Renal Insufficiency
 
 Subjects (N=60) with renal insufficiency (mean creatinine clearance ranging from 13–114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
-Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min.
-
-Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 
 Hemodialysis
 
 In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
-Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects.
-
-Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Hepatic Disease
 
@@ -164,7 +151,6 @@ Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide)
 
 Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
 This decrease in bioavailability was about 10% when gabapentin was administered 2 hours after Maalox.
-It is recommended that gabapentin be taken at least 2 hours following Maalox administration.
 
 Probenecid
 

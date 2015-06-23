@@ -19,7 +19,7 @@ aGiven in 3 divided doses (TID)
 Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
 Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
 Dosages were then to be titrated in 600 to 1200 mg/day increments at 3- to 7-day intervals to the target dose over 3 to 4 weeks.
-Patients. recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+Patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 A mean pain score during baseline of at least 4 was required for randomization.
 Analyses were conducted using the ITT population (all randomized patients who received at least one dose of study medication).
 
@@ -41,7 +41,7 @@ The proportion of responders (those patients reporting at least 50% improvement 
 Figure 3.
 Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
-## 14.2 Epilepsy
+## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
 The effectiveness of gabapentin as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
 
