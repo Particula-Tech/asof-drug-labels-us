@@ -15,13 +15,13 @@ Table 7: Summary of AED Interactions with Oxcarbazepine
 
 | AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |
-| Carbamazepine | 400 to 2000 | 900 | ncnc denotes a mean change of less than 10% | 40% decrease [CI: 17% decrease, 57% decrease] |
-| Phenobarbital | 100 to 150 | 600 to 1800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
-| Phenytoin | 250 to 500 | 600 to 1800 >1200 to 2400 | ncPediatrics up to 40% increaseMean increase in adults at high oxcarbazepine doses [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
-| Valproic acid | 400 to 2800 | 600 to 1800 | nc | 18% decrease [CI: 13% decrease, 40% decrease] |
+| Carbamazepine | 400 to 2,000 | 900 | ncnc denotes a mean change of less than 10% | 40% decrease [CI: 17% decrease, 57% decrease] |
+| Phenobarbital | 100 to 150 | 600 to 1,800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
+| Phenytoin | 250 to 500 | 600 to 1,800 >1,200 to 2,400 | ncPediatrics up to 40% increaseMean increase in adults at high oxcarbazepine doses [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
+| Valproic acid | 400 to 2,800 | 600 to 1,800 | nc | 18% decrease [CI: 13% decrease, 40% decrease] |
 
-In vivo, the plasma levels of phenytoin increased by up to 40% when oxcarbazepine was given at doses above 1200 mg/day.
-Therefore, when using doses of oxcarbazepine greater than 1200 mg/day during adjunctive therapy, a decrease in the dose of phenytoin may be required.
+In vivo, the plasma levels of phenytoin increased by up to 40% when oxcarbazepine was given at doses above 1,200 mg/day.
+Therefore, when using doses of oxcarbazepine greater than 1,200 mg/day during adjunctive therapy, a decrease in the dose of phenytoin may be required.
 The increase of phenobarbital level, however, is small (15%) when given with oxcarbazepine.
 Strong inducers of cytochrome P450 enzymes (i.e., carbamazepine, phenytoin and phenobarbital) have been shown to decrease the plasma levels of MHD (29% to 40%).
 No autoinduction has been observed with oxcarbazepine.

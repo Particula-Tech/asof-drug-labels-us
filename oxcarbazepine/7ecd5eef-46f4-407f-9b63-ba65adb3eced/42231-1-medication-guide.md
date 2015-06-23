@@ -174,5 +174,17 @@ You can ask your pharmacist or healthcare provider for the full prescribing info
 For more information, call 1-800-818-4555 What are the ingredients in oxcarbazepine tablets?
 Active ingredient: oxcarbazepine Inactive ingredients: Colloidal silicon dioxide, povidone, polyethylene glycol, croscarmellose sodium, microcrystalline cellulose, crospovidone, sodium stearyl fumarate, hypromellose, polysorbate 80, titanium dioxide and yellow iron oxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 PJPI0158C ISS.
-06/2014
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+
+Manufactured by:
+
+Sun Pharmaceutical Industries Ltd.
+
+Halol-Baroda Highway,
+
+Halol-389 350, Gujarat, India.
+
+PJPI0158D
+
+ISS.
+04/2015

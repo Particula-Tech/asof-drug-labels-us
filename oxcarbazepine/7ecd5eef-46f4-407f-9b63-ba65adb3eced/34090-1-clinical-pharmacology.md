@@ -22,7 +22,7 @@ The half-life of the parent is about two hours, while the half-life of MHD is ab
 Absorption Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
 After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range 3 to 13) hours.
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine is given twice a day.
-At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2400 mg/day.
+At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2,400 mg/day.
 Effect of Food:Food has no effect on the rate and extent of absorption of oxcarbazepine from oxcarbazepine tablets.
 Therefore, oxcarbazepine tablets can be taken with or without food.
 Distribution The apparent volume of distribution of MHD is 49L.

@@ -95,7 +95,7 @@ Use of oxcarbazepine has been associated with central nervous system-related adv
 The most significant of these can be classified into three general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
 Adult Patients In one large, fixed-dose study, oxcarbazepine was added to existing AED therapy (up to three concomitant AEDs).
 By protocol, the dosage of the concomitant AEDs could not be reduced as oxcarbazepine was added, reduction in oxcarbazepine dosage was not allowed if intolerance developed, and patients were discontinued if unable to tolerate their highest target maintenance doses.
-In this trial, 65% of patients were discontinued because they could not tolerate the 2400 mg/day dose of oxcarbazepine on top of existing AEDs.
+In this trial, 65% of patients were discontinued because they could not tolerate the 2,400 mg/day dose of oxcarbazepine on top of existing AEDs.
 The adverse events seen in this study were primarily CNS related and the risk for discontinuation was dose related.
 In this trial, 7.1% of oxcarbazepine-treated patients and 4% of placebo-treated patients experienced a cognitive adverse event.
 The risk of discontinuation for these events was about 6.5 times greater on oxcarbazepine than on placebo.
@@ -103,8 +103,8 @@ In addition, 26% of oxcarbazepine-treated patients and 12% of placebo-treated pa
 The risk of discontinuation for somnolence was about 10 times greater on oxcarbazepine than on placebo.
 Finally, 28.7% of oxcarbazepine-treated patients and 6.4% of placebo-treated patients experienced ataxia or gait disturbances.
 The risk for discontinuation for these events was about seven times greater on oxcarbazepine than on placebo.
-In a single placebo-controlled monotherapy trial evaluating 2400 mg/day of oxcarbazepine, no patients in either treatment group discontinued double-blind treatment because of cognitive adverse events, somnolence, ataxia, or gait disturbance.
-In the two dose-controlled conversion to monotherapy trials comparing 2400 mg/day and 300 mg/day oxcarbazepine, 1.1% of patients in the 2400 mg/day group discontinued double-blind treatment because of somnolence or cognitive adverse events compared to 0% in the 300 mg/day group.
+In a single placebo-controlled monotherapy trial evaluating 2,400 mg/day of oxcarbazepine, no patients in either treatment group discontinued double-blind treatment because of cognitive adverse events, somnolence, ataxia, or gait disturbance.
+In the two dose-controlled conversion to monotherapy trials comparing 2,400 mg/day and 300 mg/day oxcarbazepine, 1.1% of patients in the 2,400 mg/day group discontinued double-blind treatment because of somnolence or cognitive adverse events compared to 0% in the 300 mg/day group.
 In these trials, no patients discontinued because of ataxia or gait disturbances in either treatment group.
 Pediatric Patients A study was conducted in pediatric patients (3 to 17 years old) with inadequately controlled partial seizures in which oxcarbazepine was added to existing AED therapy (up to two concomitant AEDs).
 By protocol, the dosage of concomitant AEDs could not be reduced as oxcarbazepine was added.
@@ -115,15 +115,17 @@ In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated 
 Finally, 23.2% of oxcarbazepine-treated patients and 7% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
-## 5.8 Multi-Organ Hypersensitivity
+## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 
-Multi-organ hypersensitivity reactions have occurred in close temporal association (median time to detection 13 days: range 4 to 60) to the initiation of oxcarbazepine therapy in adult and pediatric patients.
-Although there have been a limited number of reports, many of these cases resulted in hospitalization and some were considered life threatening.
-Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-These may include hematologic and lymphatic (e.g., eosinophilia, thrombocytopenia, lymphadenopathy, leukopenia, neutropenia, splenomegaly), hepatobiliary (e.g., hepatitis, liver function test abnormalities), renal (e.g., proteinuria, nephritis, oliguria, renal failure), muscles and joints (e.g., joint swelling, myalgia, arthralgia, asthenia), nervous system (e.g., hepatic encephalopathy), respiratory (e.g., dyspnea, pulmonary edema, asthma, bronchospasm, interstitial lung disease), hepatorenal syndrome, pruritus, and angioedema.
-Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
-If this reaction is suspected, oxcarbazepine should be discontinued and an alternative treatment started.
-Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility [see Warnings and Precautions (5.3)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with oxcarbazepine.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Oxcarbazepine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with DRESS/multi-organ hypersensitivity would indicate this to be a possibility [see Warnings and Precautions (5.3)].
 
 ## 5.9 Hematologic Events
 
