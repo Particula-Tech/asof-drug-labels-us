@@ -64,7 +64,7 @@ Patients should be advised to discontinue GLUCOPHAGE or GLUCOPHAGE XR immediatel
 Once a patient is stabilized on any dose level of GLUCOPHAGE or GLUCOPHAGE XR, gastrointestinal symptoms, which are common during initiation of metformin therapy, are unlikely to be drug related.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
-Patients should be counselled against excessive alcohol intake, either acute or chronic, while receiving GLUCOPHAGE or GLUCOPHAGE XR.
+Patients should be counseled against excessive alcohol intake, either acute or chronic, while receiving GLUCOPHAGE or GLUCOPHAGE XR.
 
 GLUCOPHAGE or GLUCOPHAGE XR alone does not usually cause hypoglycemia, although it may occur when GLUCOPHAGE or GLUCOPHAGE XR is used in conjunction with oral sulfonylureas and insulin.
 When initiating combination therapy, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and responsible family members.
@@ -128,7 +128,7 @@ Fertility of male or female rats was unaffected by metformin when administered a
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category B
+### Teratogenic Effects:
 
 Recent information strongly suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities.
 Most experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.

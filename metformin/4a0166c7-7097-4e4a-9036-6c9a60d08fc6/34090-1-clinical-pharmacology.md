@@ -64,7 +64,7 @@ No pharmacokinetic studies of metformin have been conducted in patients with hep
 
 Limited data from controlled pharmacokinetic studies of GLUCOPHAGE in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see Table 1).
-GLUCOPHAGE (metformin hydrochloride) Tablets and GLUCOPHAGE XR (metformin hydrochloride) Extended-Release Tablets treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
+GLUCOPHAGE Tablets and GLUCOPHAGE XR Extended-Release Tablets treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Table 1: Select Mean (±S.D.)
 Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of GLUCOPHAGE
@@ -85,13 +85,7 @@ Metformin Pharmacokinetic Parameters Following Single or Multiple Oral Doses of 
 | Mild (CLcrg 61-90 mL/min) (5) | 1.86 (±0.52) | 3.20 (±0.45) | 384 (±122) |
 | Moderate (CLcr 31-60 mL/min) (4) | 4.12 (±1.83) | 3.75 (±0.50) | 108 (±57) |
 | Severe (CLcr 10-30 mL/min) (6) | 3.93 (±0.92) | 4.01 (±1.10) | 130 (±90) |
-| a All doses given fasting except the first 18 doses of the multiple dose studies |  |  |  |
-| b Peak plasma concentration |  |  |  |
-| c Time to peak plasma concentration |  |  |  |
-| d Combined results (average means) of five studies: mean age 32 years (range 23-59 years) |  |  |  |
-| e Kinetic study done following dose 19, given fasting |  |  |  |
-| f Elderly subjects, mean age 71 years (range 65-81 years) |  |  |  |
-| g CLcr = creatinine clearance normalized to body surface area of 1.73 m2 |  |  |  |
+| a All doses given fasting except the first 18 doses of the multiple dose studies b Peak plasma concentration c Time to peak plasma concentration d Combined results (average means) of five studies: mean age 32 years (range 23-59 years) e Kinetic study done following dose 19, given fasting f Elderly subjects, mean age 71 years (range 65-81 years) g CLcr = creatinine clearance normalized to body surface area of 1.73 m2 |  |  |  |
 
 ### Pediatrics
 
@@ -120,7 +114,7 @@ Table 2: GLUCOPHAGE vs Placebo Summary of Mean Changes from Baseline* in Fasting
 | FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 –53.0 | 237.7 6.3 | NS** 0.001 |
 | Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 –1.4 | 8.2 0.4 | NS** 0.001 |
 | Body Weight (lbs) Baseline Change at FINAL VISIT | 201.0 –1.4 | 206.0 –2.4 | NS** NS** |
-| * All patients on diet therapy at Baseline |  | ** Not statistically significant |  |
+| * All patients on diet therapy at Baseline ** Not statistically significant |  |  |  |
 
 A 29-week, double-blind, placebo-controlled study of GLUCOPHAGE and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL) (see Table 3).
 Patients randomized to the combination arm started therapy with GLUCOPHAGE 500 mg and glyburide 20 mg.
@@ -135,18 +129,18 @@ Compared to results of glyburide treatment alone, the net differences with combi
 
 Table 3: Combined GLUCOPHAGE/Glyburide (Comb) vs Glyburide (Glyb) or GLUCOPHAGE (GLU) Monotherapy: Summary of Mean Changes from Baseline* in Fasting Plasma Glucose, HbA1c, and Body Weight, at Final Visit (29-week study)
 
-|  | Comb (n=213) | Glyb (n=209) | GLU (n=210) | Glyb vs Comb | GLU vs Comb | GLU vs Glyb |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | p-values |  |  |
-| Fasting Plasma Glucose (mg/dL) |  |  |  |  |  |  |
-| Baseline Change at FINAL VISIT | 250.5 –63.5 | 247.5 13.7 | 253.9 –0.9 | NS** 0.001 | NS** 0.001 | NS** 0.025 |
-| Hemoglobin A1c (%) |  |  |  |  |  |  |
-| Baseline Change at FINAL VISIT | 8.8 –1.7 | 8.5 0.2 | 8.9 –0.4 | NS** 0.001 | NS** 0.001 | 0.007 0.001 |
-| Body Weight (lbs) |  |  |  |  |  |  |
-| Baseline Change at FINAL VISIT | 202.2 0.9 | 203.0 –0.7 | 204.0 –8.4 | NS** 0.011 | NS** 0.001 | NS** 0.001 |
-| * All patients on glyburide, 20 mg/day, at Baseline |  |  |  | ** Not statistically significant |  |  |
+|  | Comb (n=213) | Glyb (n=209) | GLU (n=210) | Glyb vs Comb | GLU vs Comb | GLU vs Glyb |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | p-values |  |  |  |  |  |  |
+| Fasting Plasma Glucose (mg/dL) |  |  |  |  |  |  |  |  |  |  |
+| Baseline Change at FINAL VISIT | 250.5 –63.5 | 247.5 13.7 | 253.9 –0.9 | NS** 0.001 | NS** 0.001 | NS** 0.025 |  |  |  |  |
+| Hemoglobin A1c (%) |  |  |  |  |  |  |  |  |  |  |
+| Baseline Change at FINAL VISIT | 8.8 –1.7 | 8.5 0.2 | 8.9 –0.4 | NS** 0.001 | NS** 0.001 | 0.007 0.001 |  |  |  |  |
+| Body Weight (lbs) |  |  |  |  |  |  |  |  |  |  |
+| Baseline Change at FINAL VISIT | 202.2 0.9 | 203.0 –0.7 | 204.0 –8.4 | NS** 0.011 | NS** 0.001 | NS** 0.001 |  |  |  |  |
+| * All patients on glyburide, 20 mg/day, at Baseline ** Not statistically significant |  |  |  |  |  |  |  |  |  |  |
 
-The magnitude of the decline in fasting blood glucose concentration following the institution of GLUCOPHAGE (metformin hydrochloride) Tablets therapy was proportional to the level of fasting hyperglycemia.
+The magnitude of the decline in fasting blood glucose concentration following the institution of GLUCOPHAGE Tablets therapy was proportional to the level of fasting hyperglycemia.
 Patients with type 2 diabetes with higher fasting glucose concentrations experienced greater declines in plasma glucose and glycosylated hemoglobin.
 
 In clinical studies, GLUCOPHAGE, alone or in combination with a sulfonylurea, lowered mean fasting serum triglycerides, total cholesterol, and LDL cholesterol levels, and had no adverse effects on other lipid levels (see Table 4).
@@ -173,14 +167,13 @@ The improvement in glycemic control was achieved at the final study visit with 1
 
 Table 5: Combined GLUCOPHAGE/Insulin vs Placebo/Insulin Summary of Mean Changes from Baseline in HbA1c and Daily Insulin Dose
 
-|  | GLUCOPHAGE/ Insulin (n=26) | Placebo/ Insulin (n=28) | Treatment Difference Mean ± SE |
-| --- | --- | --- | --- |
-| Hemoglobin A1c (%) |  |  |  |
-| Baseline Change at FINAL VISIT | 8.95 –2.10 | 9.32 –1.56 | –0.54 ± 0.43a |
-| Insulin Dose (U/day) |  |  |  |
-| Baseline Change at FINAL VISIT | 93.12 –0.15 | 94.64 15.93 | –16.08 ± 7.77b |
-| a Statistically significant using analysis of covariance with baseline as covariate (p=0.04) Not significant using analysis of variance (values shown in table) |  |  |  |
-| b Statistically significant for insulin (p=0.04) |  |  |  |
+|  | GLUCOPHAGE/ Insulin (n=26) | Placebo/ Insulin (n=28) | Treatment Difference Mean ± SE |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hemoglobin A1c (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline Change at FINAL VISIT | 8.95 –2.10 | 9.32 –1.56 | –0.54 ± 0.43a |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Insulin Dose (U/day) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline Change at FINAL VISIT | 93.12 –0.15 | 94.64 15.93 | –16.08 ± 7.77b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Statistically significant using analysis of covariance with baseline as covariate (p=0.04) Not significant using analysis of variance (values shown in table) b Statistically significant for insulin (p=0.04) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 A second double-blind, placebo-controlled study (n=51), with 16 weeks of randomized treatment, demonstrated that in patients with type 2 diabetes controlled on insulin for 8 weeks with an average HbA1c of 7.46 ± 0.97%, the addition of GLUCOPHAGE maintained similar glycemic control (HbA1c 7.15 ± 0.61 vs 6.97 ± 0.62 for GLUCOPHAGE plus insulin and placebo plus insulin, respectively) with 19% less insulin versus baseline (reduction of 23.68 ± 30.22 vs an increase of 0.43 ± 25.20 units for GLUCOPHAGE plus insulin and placebo plus insulin, p<0.01).
 In addition, this study demonstrated that the combination of GLUCOPHAGE plus insulin resulted in reduction in body weight of 3.11 ± 4.30 lbs, compared to an increase of 1.30 ± 6.08 lbs for placebo plus insulin, p=0.01.
@@ -213,42 +206,39 @@ Table 6: Summary of Mean Changes from Baseline* in HbA1c, Fasting Plasma Glucose
 | Baseline | 192.9 | 191.8 | 188.3 | 195.4 | 192.5 | 194.3 |
 | Change at FINAL VISIT | –1.3 | –1.3 | –0.7 | –1.5 | –2.2 | –1.8 |
 | p-valuea | NS** | NS** | NS** | NS** | NS** | – |
-| * All patients on diet therapy at Baseline |  |  |  |  |  |  |
-| a All comparisons versus Placebo |  |  |  |  |  |  |
-| ** Not statistically significant |  |  |  |  |  |  |
+| * All patients on diet therapy at Baseline a All comparisons versus Placebo ** Not statistically significant |  |  |  |  |  |  |
 
-Compared with placebo, improvement in glycemic control was seen at all dose levels of GLUCOPHAGE XR (metformin hydrochloride) Extended-Release Tablets and treatment was not associated with any significant change in weight (see DOSAGE AND ADMINISTRATION for dosing recommendations for GLUCOPHAGE and GLUCOPHAGE XR).
+Compared with placebo, improvement in glycemic control was seen at all dose levels of GLUCOPHAGE XR Extended-Release Tablets and treatment was not associated with any significant change in weight (see DOSAGE AND ADMINISTRATION for dosing recommendations for GLUCOPHAGE and GLUCOPHAGE XR).
 
-A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE (metformin hydrochloride) Tablets, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
+A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE Tablets, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
 The GLUCOPHAGE dose had not necessarily been titrated to achieve a specific level of glycemic control prior to study entry.
 Patients qualified for the study if HbA1c was ≤8.5% and FPG was ≤200 mg/dL.
 Changes in glycemic control and body weight are shown in Table 7.
 
 Table 7: Summary of Mean Changes from Baseline* in HbA1c, Fasting Plasma Glucose, and Body Weight at Week 12 and at Final Visit (24-week study)
 
-| 1000 mg Once Daily | 1500 mg Once Daily |  |  |
-| --- | --- | --- | --- |
-|  | GLUCOPHAGE 500 mg Twice Daily | GLUCOPHAGE XR |  |
-| Hemoglobin A1c (%) | (n=67) | (n=72) | (n=66) |
-| Baseline | 7.06 | 6.99 | 7.02 |
-| Change at 12 Weeks | 0.14 | 0.23 | 0.04 |
-| (95% CI) | (–0.03, 0.31) | (0.10, 0.36) | (–0.08, 0.15) |
-| Change at FINAL VISIT | 0.14a | 0.27 | 0.13 |
-| (95% CI) | (–0.04, 0.31) | (0.11, 0.43) | (–0.02, 0.28) |
-| FPG (mg/dL) | (n=69) | (n=72) | (n=70) |
-| Baseline | 127.2 | 131.0 | 131.4 |
-| Change at 12 Weeks | 12.9 | 9.5 | 3.7 |
-| (95% CI) | (6.5, 19.4) | (4.4, 14.6) | (–0.4, 7.8) |
-| Change at FINAL VISIT | 14.0 | 11.5 | 7.6 |
-| (95% CI) | (7.0, 21.0) | (4.4, 18.6) | (1.0, 14.2) |
-| Body Weight (lbs) | (n=71) | (n=74) | (n=71) |
-| Baseline | 210.3 | 202.8 | 192.7 |
-| Change at 12 Weeks | 0.4 | 0.9 | 0.7 |
-| (95% CI) | (–0.4, 1.5) | (0.0, 2.0) | (–0.4, 1.8) |
-| Change at FINAL VISIT | 0.9 | 1.1 | 0.9 |
-| (95% CI) | (–0.4, 2.2) | (–0.2, 2.4) | (–0.4, 2.0) |
-| * All patients on GLUCOPHAGE 500 mg twice daily at Baseline |  |  |  |
-| a n=68 |  |  |  |
+| 1000 mg Once Daily | 1500 mg Once Daily |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | GLUCOPHAGE 500 mg Twice Daily | GLUCOPHAGE XR |  |  |  |  |  |  |  |  |
+| Hemoglobin A1c (%) | (n=67) | (n=72) | (n=66) |  |  |  |  |  |  |  |
+| Baseline | 7.06 | 6.99 | 7.02 |  |  |  |  |  |  |  |
+| Change at 12 Weeks | 0.14 | 0.23 | 0.04 |  |  |  |  |  |  |  |
+| (95% CI) | (–0.03, 0.31) | (0.10, 0.36) | (–0.08, 0.15) |  |  |  |  |  |  |  |
+| Change at FINAL VISIT | 0.14a | 0.27 | 0.13 |  |  |  |  |  |  |  |
+| (95% CI) | (–0.04, 0.31) | (0.11, 0.43) | (–0.02, 0.28) |  |  |  |  |  |  |  |
+| FPG (mg/dL) | (n=69) | (n=72) | (n=70) |  |  |  |  |  |  |  |
+| Baseline | 127.2 | 131.0 | 131.4 |  |  |  |  |  |  |  |
+| Change at 12 Weeks | 12.9 | 9.5 | 3.7 |  |  |  |  |  |  |  |
+| (95% CI) | (6.5, 19.4) | (4.4, 14.6) | (–0.4, 7.8) |  |  |  |  |  |  |  |
+| Change at FINAL VISIT | 14.0 | 11.5 | 7.6 |  |  |  |  |  |  |  |
+| (95% CI) | (7.0, 21.0) | (4.4, 18.6) | (1.0, 14.2) |  |  |  |  |  |  |  |
+| Body Weight (lbs) | (n=71) | (n=74) | (n=71) |  |  |  |  |  |  |  |
+| Baseline | 210.3 | 202.8 | 192.7 |  |  |  |  |  |  |  |
+| Change at 12 Weeks | 0.4 | 0.9 | 0.7 |  |  |  |  |  |  |  |
+| (95% CI) | (–0.4, 1.5) | (0.0, 2.0) | (–0.4, 1.8) |  |  |  |  |  |  |  |
+| Change at FINAL VISIT | 0.9 | 1.1 | 0.9 |  |  |  |  |  |  |  |
+| (95% CI) | (–0.4, 2.2) | (–0.2, 2.4) | (–0.4, 2.0) |  |  |  |  |  |  |  |
+| * All patients on GLUCOPHAGE 500 mg twice daily at Baseline a n=68 |  |  |  |  |  |  |  |  |  |  |
 
 After 12 weeks of treatment, there was an increase in mean HbA1c in all groups; in the GLUCOPHAGE XR 1000 mg group, the increase from baseline of 0.23% was statistically significant (see DOSAGE AND ADMINISTRATION).
 
@@ -256,43 +246,43 @@ Changes in lipid parameters in the previously described placebo-controlled dose-
 
 Table 8: Summary of Mean Percent Changes from Baseline* in Major Lipid Variables at Final Visit (16-week study)
 
-|  | 500 mg Once Daily | 1000 mg Once Daily | 1500 mg Once Daily | 2000 mg Once Daily | 1000 mg Twice Daily |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | GLUCOPHAGE XR |  |  |  |  | Placebo |
-| Total Cholesterol (mg/dL) | (n=120) | (n=113) | (n=110) | (n=126) | (n=117) | (n=110) |
-| Baseline | 210.3 | 218.1 | 214.6 | 204.4 | 208.2 | 208.6 |
-| Mean % Change at FINAL VISIT | 1.0% | 1.7% | 0.7% | –1.6% | –2.6% | 2.6% |
-| Total Triglycerides (mg/dL) | (n=120) | (n=113) | (n=110) | (n=126) | (n=117) | (n=110) |
-| Baseline | 220.2 | 211.9 | 198.0 | 194.2 | 179.0 | 211.7 |
-| Mean % Change at FINAL VISIT | 14.5% | 9.4% | 15.1% | 14.9% | 9.4% | 10.9% |
-| LDL-Cholesterol (mg/dL) | (n=119) | (n=113) | (n=109) | (n=126) | (n=117) | (n=107) |
-| Baseline | 131.0 | 134.9 | 135.8 | 125.8 | 131.4 | 131.9 |
-| Mean % Change at FINAL VISIT | –1.4% | –1.6% | –3.5% | –3.3% | –5.5% | 3.2% |
-| HDL-Cholesterol (mg/dL) | (n=120) | (n=108) | (n=108) | (n=125) | (n=117) | (n=108) |
-| Baseline | 40.8 | 41.6 | 40.6 | 40.2 | 42.4 | 39.4 |
-| Mean % Change at FINAL VISIT | 6.2% | 8.6% | 5.5% | 6.1% | 7.1% | 5.8% |
-| * All patients on diet therapy at Baseline |  |  |  |  |  |  |
+|  | 500 mg Once Daily | 1000 mg Once Daily | 1500 mg Once Daily | 2000 mg Once Daily | 1000 mg Twice Daily |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | GLUCOPHAGE XR |  |  |  |  | Placebo |  |  |  |  |  |  |  |  |  |  |  |
+| Total Cholesterol (mg/dL) | (n=120) | (n=113) | (n=110) | (n=126) | (n=117) | (n=110) |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 210.3 | 218.1 | 214.6 | 204.4 | 208.2 | 208.6 |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | 1.0% | 1.7% | 0.7% | –1.6% | –2.6% | 2.6% |  |  |  |  |  |  |  |  |  |  |  |
+| Total Triglycerides (mg/dL) | (n=120) | (n=113) | (n=110) | (n=126) | (n=117) | (n=110) |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 220.2 | 211.9 | 198.0 | 194.2 | 179.0 | 211.7 |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | 14.5% | 9.4% | 15.1% | 14.9% | 9.4% | 10.9% |  |  |  |  |  |  |  |  |  |  |  |
+| LDL-Cholesterol (mg/dL) | (n=119) | (n=113) | (n=109) | (n=126) | (n=117) | (n=107) |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 131.0 | 134.9 | 135.8 | 125.8 | 131.4 | 131.9 |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | –1.4% | –1.6% | –3.5% | –3.3% | –5.5% | 3.2% |  |  |  |  |  |  |  |  |  |  |  |
+| HDL-Cholesterol (mg/dL) | (n=120) | (n=108) | (n=108) | (n=125) | (n=117) | (n=108) |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 40.8 | 41.6 | 40.6 | 40.2 | 42.4 | 39.4 |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | 6.2% | 8.6% | 5.5% | 6.1% | 7.1% | 5.8% |  |  |  |  |  |  |  |  |  |  |  |
+| * All patients on diet therapy at Baseline |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Changes in lipid parameters in the previously described study of GLUCOPHAGE and GLUCOPHAGE XR are shown in Table 9.
 
 Table 9: Summary of Mean Percent Changes from Baseline* in Major Lipid Variables at Final Visit (24-week study)
 
-|  | 500 mg Twice Daily | 1000 mg Once Daily | 1500 mg Once Daily |
-| --- | --- | --- | --- |
-|  | GLUCOPHAGE | GLUCOPHAGE XR |  |
-| Total Cholesterol (mg/dL) | (n=68) | (n=70) | (n=66) |
-| Baseline | 199.0 | 201.9 | 201.6 |
-| Mean % Change at FINAL VISIT | 0.1% | 1.3% | 0.1% |
-| Total Triglycerides (mg/dL) | (n=68) | (n=70) | (n=66) |
-| Baseline | 178.0 | 169.2 | 206.8 |
-| Mean % Change at FINAL VISIT | 6.3% | 25.3% | 33.4% |
-| LDL-Cholesterol (mg/dL) | (n=68) | (n=70) | (n=66) |
-| Baseline | 122.1 | 126.2 | 115.7 |
-| Mean % Change at FINAL VISIT | −1.3% | −3.3% | −3.7% |
-| HDL-Cholesterol (mg/dL) | (n=68) | (n=70) | (n=65) |
-| Baseline | 41.9 | 41.7 | 44.6 |
-| Mean % Change at FINAL VISIT | 4.8% | 1.0% | –2.1% |
-| * All patients on GLUCOPHAGE 500 mg twice daily at Baseline |  |  |  |
+|  | 500 mg Twice Daily | 1000 mg Once Daily | 1500 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | GLUCOPHAGE | GLUCOPHAGE XR |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Cholesterol (mg/dL) | (n=68) | (n=70) | (n=66) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 199.0 | 201.9 | 201.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | 0.1% | 1.3% | 0.1% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Triglycerides (mg/dL) | (n=68) | (n=70) | (n=66) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 178.0 | 169.2 | 206.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | 6.3% | 25.3% | 33.4% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LDL-Cholesterol (mg/dL) | (n=68) | (n=70) | (n=66) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 122.1 | 126.2 | 115.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | −1.3% | −3.3% | −3.7% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| HDL-Cholesterol (mg/dL) | (n=68) | (n=70) | (n=65) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Baseline | 41.9 | 41.7 | 44.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean % Change at FINAL VISIT | 4.8% | 1.0% | –2.1% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * All patients on GLUCOPHAGE 500 mg twice daily at Baseline |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## Pediatric Clinical Studies
 
@@ -306,6 +296,4 @@ Table 10: GLUCOPHAGE vs Placebo (Pediatricsa) Summary of Mean Changes from Basel
 | Baseline Change at FINAL VISIT | 162.4 –42.9 | 192.3 21.4 | <0.001 |
 | Body Weight (lbs) | (n=39) | (n=38) |  |
 | Baseline Change at FINAL VISIT | 205.3 –3.3 | 189.0 –2.0 | NS** |
-| a Pediatric patients mean age 13.8 years (range 10-16 years) |  |  |  |
-| * All patients on diet therapy at Baseline |  |  |  |
-| ** Not statistically significant |  |  |  |
+| a Pediatric patients mean age 13.8 years (range 10-16 years) * All patients on diet therapy at Baseline ** Not statistically significant |  |  |  |

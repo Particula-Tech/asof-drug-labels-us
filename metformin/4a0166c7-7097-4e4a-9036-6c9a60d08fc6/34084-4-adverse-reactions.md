@@ -26,15 +26,17 @@ Adverse reactions reported in greater than 5% of the GLUCOPHAGE XR patients, and
 
 Table 12: Most Common Adverse Reactions (>5.0 Percent) in Placebo-Controlled Studies of GLUCOPHAGE XR*
 
-|  | % of Patients |  |
-| --- | --- | --- |
-| Adverse Reaction | GLUCOPHAGE XR (n=781) | Placebo (n=195) |
-| Diarrhea | 9.6 | 2.6 |
-| Nausea/Vomiting | 6.5 | 1.5 |
-| * Reactions that were more common in GLUCOPHAGE XR- than placebo-treated patients. |  |  |
+|  | % of Patients |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Adverse Reaction | GLUCOPHAGE XR (n=781) | Placebo (n=195) |  |  |  |
+| Diarrhea | 9.6 | 2.6 |  |  |  |
+| Nausea/Vomiting | 6.5 | 1.5 |  |  |  |
+| * Reactions that were more common in GLUCOPHAGE XR- than placebo-treated patients. |  |  |  |  |  |
 
 Diarrhea led to discontinuation of study medication in 0.6% of patients treated with GLUCOPHAGE XR.
 Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of GLUCOPHAGE XR patients and were more commonly reported with GLUCOPHAGE XR than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
+
+Liver function test abnormalities or hepatitis, resolving upon metformin discontinuation, have been reported very rarely.
 
 ## Pediatric Patients
 

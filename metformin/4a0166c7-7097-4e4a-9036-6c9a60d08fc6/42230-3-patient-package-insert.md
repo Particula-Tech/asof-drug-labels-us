@@ -43,16 +43,16 @@ Most of the conditions listed below can increase your chance of getting lactic a
 
 Do not take GLUCOPHAGE or GLUCOPHAGE XR if you:
 
-- have kidney problems
-- have liver problems
-- have heart failure that is treated with medicines, such as Lanoxin® (digoxin) or Lasix® (furosemide)
-- drink a lot of alcohol.
+- •have kidney problems
+- •have liver problems
+- •have heart failure that is treated with medicines, such as Lanoxin® (digoxin) or Lasix® (furosemide)
+- •drink a lot of alcohol.
   This means you binge drink for short periods or drink all the time
-- are seriously dehydrated (have lost a lot of water from your body)
-- are going to have an x-ray procedure with injection of dyes (contrast agents)
-- are going to have surgery
-- develop a serious condition, such as heart attack, severe infection, or a stroke
-- are 80 years or older and you have NOT had your kidney function tested
+- •are seriously dehydrated (have lost a lot of water from your body)
+- •are going to have an x-ray procedure with injection of dyes (contrast agents)
+- •are going to have surgery
+- •develop a serious condition, such as heart attack, severe infection, or a stroke
+- •are 80 years or older and you have NOT had your kidney function tested
 
 Tell your doctor if you are pregnant or plan to become pregnant.
 GLUCOPHAGE and GLUCOPHAGE XR may not be right for you.
@@ -85,12 +85,12 @@ There is no evidence that GLUCOPHAGE or GLUCOPHAGE XR causes harm to the liver o
 
 Tell your doctor if you:
 
-- have an illness that causes severe vomiting, diarrhea or fever, or if you drink a much lower amount of liquid than normal.
+- •have an illness that causes severe vomiting, diarrhea or fever, or if you drink a much lower amount of liquid than normal.
   These conditions can lead to severe dehydration (loss of water in your body).
   You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.
-- plan to have surgery or an x-ray procedure with injection of dye (contrast agent).
+- •plan to have surgery or an x-ray procedure with injection of dye (contrast agent).
   You may need to stop taking GLUCOPHAGE or GLUCOPHAGE XR for a short time.
-- start to take other medicines or change how you take a medicine.
+- •start to take other medicines or change how you take a medicine.
   GLUCOPHAGE and GLUCOPHAGE XR can affect how well other drugs work, and some drugs can affect how well GLUCOPHAGE and GLUCOPHAGE XR work.
   Some medicines may cause high blood sugar.
 
@@ -122,13 +122,13 @@ Lactic acidosis is a medical emergency that must be treated in a hospital.
 
 Signs of lactic acidosis are:
 
-- feeling very weak, tired, or uncomfortable
-- unusual muscle pain
-- trouble breathing
-- unusual or unexpected stomach discomfort
-- feeling cold
-- feeling dizzy or lightheaded
-- suddenly developing a slow or irregular heartbeat
+- •feeling very weak, tired, or uncomfortable
+- •unusual muscle pain
+- •trouble breathing
+- •unusual or unexpected stomach discomfort
+- •feeling cold
+- •feeling dizzy or lightheaded
+- •suddenly developing a slow or irregular heartbeat
 
 If your medical condition suddenly changes, stop taking GLUCOPHAGE or GLUCOPHAGE XR and call your doctor right away.
 This may be a sign of lactic acidosis or another serious side effect.
@@ -153,3 +153,8 @@ You can ask your doctor or pharmacist for the information about GLUCOPHAGE and G
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use GLUCOPHAGE or GLUCOPHAGE XR for a condition for which it was not prescribed.
 Do not share your medicine with other people.
+
+GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
+Licensed to Bristol-Myers Squibb Company.
+Other brands listed are the trademarks of their respective owners.
+Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1125493A9 Rev January 2009

@@ -26,7 +26,7 @@ Occasionally, the inactive ingredients of GLUCOPHAGE XR will be eliminated in th
 In general, clinically significant responses are not seen at doses below 1500 mg per day.
 However, a lower recommended starting dose and gradually increased dosage is advised to minimize gastrointestinal symptoms.
 
-The usual starting dose of GLUCOPHAGE (metformin hydrochloride) Tablets is 500 mg twice a day or 850 mg once a day, given with meals.
+The usual starting dose of GLUCOPHAGE Tablets is 500 mg twice a day or 850 mg once a day, given with meals.
 Dosage increases should be made in increments of 500 mg weekly or 850 mg every 2 weeks, up to a total of 2000 mg per day, given in divided doses.
 Patients can also be titrated from 500 mg twice a day to 850 mg twice a day after 2 weeks.
 For those patients requiring additional glycemic control, GLUCOPHAGE may be given to a maximum daily dose of 2550 mg per day.
