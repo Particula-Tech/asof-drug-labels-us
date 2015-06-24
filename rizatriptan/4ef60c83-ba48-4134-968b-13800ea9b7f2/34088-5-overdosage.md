@@ -6,6 +6,9 @@ Some adult patients who received 40 mg of rizatriptan either a single dose or as
 
 In a clinical pharmacology study in which 12 adult subjects received rizatriptan, at total cumulative doses of 80 mg (given within four hours), two of the subjects experienced syncope, dizziness, bradycardia including third degree AV block, vomiting, and/or incontinence.
 
+In the long-term, open label study, involving 606 treated pediatric migraineurs 12 to 17 years of age (of which 432 were treated for at least 12 months), 151 patients (25%) took two 10 mg doses of rizatriptan benzoate orally disintegrating tablets within a 24 hour period.
+Adverse reactions for 3 of these patients included abdominal discomfort, fatigue, and dyspnea.
+
 In addition, based on the pharmacology of rizatriptan benzoate, hypertension or myocardial ischemia could occur after overdosage.
 Gastrointestinal decontamination, (i.e., gastric lavage followed by activated charcoal) should be considered in patients suspected of an overdose with rizatriptan benzoate.
 Clinical and electrocardiographic monitoring should be continued for at least 12 hours, even if clinical symptoms are not observed.

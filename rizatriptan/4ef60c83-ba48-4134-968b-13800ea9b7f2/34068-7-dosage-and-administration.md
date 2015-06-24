@@ -13,8 +13,10 @@ The safety of treating, on average, more than four headaches in a 30 day period 
 
 ## 2.2 Dosing Information in Pediatric Patients (Age 6 to 17 Years)
 
-Information related to dosage of rizatriptan benzoate for pediatric patients (6 to 17 years old) is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Tablets.
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that dosage information.
+Dosing in pediatric patients is based on the patient’s body weight.
+The recommended dose of rizatriptan benzoate tablets is 5 mg in patients weighing less than 40 kg (88 lb), and 10 mg in patients weighing 40 kg (88 lb) or more.
+
+The efficacy and safety of treatment with more than one dose of rizatriptan benzoate tablets within 24 hours in pediatric patients 6 to 17 years of age have not been established.
 
 ## 2.4 Dosage Adjustment for Patients on Propranolol
 
@@ -24,5 +26,5 @@ In adult patients taking propranolol, only the 5 mg dose of rizatriptan benzoate
 
 Pediatric Patients
 
-Dosage adjustment information of rizatriptan benzoate for pediatric patients (6 to 17 years old) taking propranolol is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Tablets.
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that dosage adjustment information.
+For pediatric patients weighing ≥ 40 kg (88 lb) taking propranolol, only a single 5 mg dose of rizatriptan benzoate tablets is recommended (maximum dose of 5 mg in a 24 hour period).
+Rizatriptan benzoate tablets should not be prescribed to propranolol-treated prediatric patients who weigh less than 40 kg (88 lbs) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

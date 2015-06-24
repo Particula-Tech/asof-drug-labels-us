@@ -36,9 +36,9 @@ Toronto, Canada M1B 2K9
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-C 12/2012
+D 6/2015

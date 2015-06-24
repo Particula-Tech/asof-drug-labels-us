@@ -30,8 +30,10 @@ Rizatriptan is extensively excreted in rat milk, with levels in milk at least 5 
 
 Safety and effectiveness in pediatric patients under 6 years of age have not been established.
 
-Information related to the efficacy and safety of rizatriptan benzoate in the acute treatment of migraine in patients aged 6 to 17 years is approved for Merck & Co., Inc.’s Rizatriptan Benzoate Tablets.
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information [see Clinical Studies (14.2)].
+The efficacy and safety of rizatriptan benzoate in the acute treatment of migraine in patients aged 6 to 17 years was established in an adequate and well-controlled study [see Clinical Studies (14.2)].
+
+The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate to those who received placebo.
+The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
 
 ## 8.5 Geriatric Use
 

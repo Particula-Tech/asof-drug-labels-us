@@ -2,9 +2,9 @@
 
 Rizatriptan benzoate tablets are supplied as follows:
 
-5 mg (base) – white to off-white, capsule-shaped tablets, one side of the tablet debossed with the number "93", the other side debossed with the number "7471", in unit dose boxes of 18 (6x3).
+5 mg (base) – white to off-white, capsule-shaped tablets, one side of the tablet debossed with the number “93”, the other side debossed with the number “7471”, in unit dose boxes of 18 (6x3), NDC 0093-7471-43.
 
-10 mg (base) – white to off-white, capsule-shaped tablets, one side of the tablet debossed with the number "93", the other side debossed with the number "7472", in unit dose boxes of 18 (6x3).
+10 mg (base) – white to off-white, capsule-shaped tablets, one side of the tablet debossed with the number “93”, the other side debossed with the number “7472”, in unit dose boxes of 18 (6x3), NDC 0093-7472-43.
 
 Storage
 

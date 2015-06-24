@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Rizatriptan Benzoate Tablets 5 mg 18 UD Box Text
 
@@ -15,7 +15,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Rizatriptan Benzoate Tablets 10 mg 18 UD Box Text
 
