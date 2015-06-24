@@ -23,7 +23,7 @@ For testing aerobic gram-negative microorganisms (Enterobacteriaceae), Acinetoba
 | 8.0 | Intermediate (I) |
 | ≥16.0 | Resistant (R) |
 
-For testing Haemophilus influenzae2 and Streptococcus pneumonia3:
+For testing Haemophilus influenzae2 and Streptococcus pneumonia 3:
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
