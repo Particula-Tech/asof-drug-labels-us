@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022014"
+  ],
+  "inn": "estradiol",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-2067-00",
+    "0574-2067-27"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "estradiol",
+      "name": "Evamist"
+    }
+  ],
+  "setid": "9a0aa631-133d-406b-9d32-8a1a99af4e50",
+  "source": "dailymed"
+}
