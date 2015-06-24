@@ -1,7 +1,3 @@
-PHARMACY BULK PACKAGE -
+PHARMACY BULK PACKAGE-NOT FOR DIRECT INFUSION
 
-NOT FOR DIRECT INFUSION
-
-PHARMACY BULK PACKAGE-
-
-NOT FOR DIRECT INFUSION
+Reconstituted stock solution must be transferred and further diluted for I.V. infusion
