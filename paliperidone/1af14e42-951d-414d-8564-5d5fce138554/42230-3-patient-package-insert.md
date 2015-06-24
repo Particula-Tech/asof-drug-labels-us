@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-INVEGA® SUSTENNA® (In-VEY-guh Suss-TEN-uh) (paliperidone palmitate) Extended-Release Injectable Suspension
+INVEGA SUSTENNA® (In-VEY-guh Suss-TEN-uh) (paliperidone palmitate) Extended-Release Injectable Suspension
 
 Read this Patient Information carefully before you receive INVEGA SUSTENNA and each time you receive it.
 There may be new information.
@@ -95,8 +95,8 @@ INVEGA SUSTENNA may cause serious side effects, including:
   Metabolic changes may include high blood sugar (hyperglycemia), diabetes mellitus and changes in the fat levels in your blood (dyslipidemia), and weight gain.
 - low blood pressure and fainting
 - changes in your blood cell counts
-- high level of prolactin in your blood (hyperprolactemia).
-  INVEGA SUSTENNA may cause a rise in the blood levels of a hormone called prolactin (hyperprolactemia) that may cause side effects including missed menstrual periods, leakage of milk from the breasts, development of breasts in men, or problems with erection
+- high level of prolactin in your blood (hyperprolactinemia).
+  INVEGA SUSTENNA may cause a rise in the blood levels of a hormone called prolactin (hyperprolactinemia) that may cause side effects including missed menstrual periods, leakage of milk from the breasts, development of breasts in men, or problems with erection
 - problems thinking clearly and moving your body
 - seizures
 - difficulty swallowing that can cause food or liquid to get into your lungs
@@ -134,8 +134,10 @@ Active ingredient: paliperidone palmitate
 
 Inactive ingredients: polysorbate 20, polyethylene glycol 4000, citric acid monohydrate, disodium hydrogen phosphate anhydrous, sodium dihydrogen phosphate monohydrate, sodium hydroxide, and water for injection
 
-Manufactured by: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, Janssen Pharmaceuticals, Inc. 2009
+Manufactured by: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+© Janssen Pharmaceuticals, Inc. 2009
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: November 2014
+Revised: June 2015

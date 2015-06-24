@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Patient Information)
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe INVEGA® SUSTENNA®.
+Physicians are advised to discuss the following issues with patients for whom they prescribe INVEGA SUSTENNA®.
 
 Orthostatic Hypotension
 
@@ -10,15 +10,15 @@ Patients should be advised that there is risk of orthostatic hypotension, partic
 
 Interference with Cognitive and Motor Performance
 
-Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® SUSTENNA® therapy does not affect them adversely, as INVEGA® SUSTENNA® has the potential to impair judgment, thinking, or motor skills [see Warnings and Precautions (5.10)].
+Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA SUSTENNA® therapy does not affect them adversely, as INVEGA SUSTENNA® has the potential to impair judgment, thinking, or motor skills [see Warnings and Precautions (5.10)].
 
 Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with INVEGA® SUSTENNA® [see Use in Specific Populations (8.1)].
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with INVEGA SUSTENNA® [see Use in Specific Populations (8.1)].
 
 Nursing
 
-Inform patients and caregivers that INVEGA® SUSTENNA® is present in human breast milk; there is a potential for serious adverse reactions in nursing infants.
+Inform patients and caregivers that INVEGA SUSTENNA® is present in human breast milk; there is a potential for serious adverse reactions in nursing infants.
 Advise patients that the decision whether to discontinue nursing or to discontinue the drug should take into account the importance of the drug to the patient [see Use in Specific Populations (8.3)].
 
 Concomitant Medication
@@ -29,7 +29,7 @@ Heat Exposure and Dehydration
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.14)].
 
-INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
+INVEGA SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
 
 Product of Ireland
 
