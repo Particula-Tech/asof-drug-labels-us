@@ -3,17 +3,18 @@
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
 - Lymphoma and Other Malignancies [see Box Warning, Warnings and Precautions (5.2)]
-- Serious Infections [see Box Warning, Warnings and Precautions (5.3)]
-- Polyoma Virus Infections [see Box Warning, Warnings and Precautions (5.4)]
-- CMV Infections [see Box Warning, Warnings and Precautions (5.5)]
+- Serious Infections [see Boxed Warning, Warnings and Precautions (5.3)]
+- Polyoma Virus Infections [see Boxed Warning, Warnings and Precautions (5.4)]
+- CMV Infections [see Boxed Warning, Warnings and Precautions (5.5)]
 - New Onset Diabetes After Transplant [see Warnings and Precautions (5.6)]
 - Nephrotoxicity [see Warnings and Precautions (5.7)]
 - Neurotoxicity [see Warnings and Precautions (5.8)]
 - Hyperkalemia [see Warnings and Precautions (5.9)]
 - Hypertension [see Warnings and Precautions (5.10)]
-- Anaphylaxis with Tacrolimus Injection [see Warnings and Precautions(5.11)]
-- Myocardial Hypertrophy [see Warnings and Precautions (5.14)]
-- Pure Red Cell Aplasia [see Warnings and Precautions (5.16)]
+- Anaphylaxis with Tacrolimus Injection [see Warnings and Precautions (5.11)]
+- Myocardial Hypertrophy [see Warnings and Precautions (5.15)]
+- Pure Red Cell Aplasia [see Warnings and Precautions (5.17)]
+- Gastrointestinal Perforation [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -399,7 +400,7 @@ Other reactions include:
 
 Cardiovascular
 
-Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy [see Warnings and Precautions (5.14)].
+Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy [see Warnings and Precautions (5.15)].
 
 Gastrointestinal
 
@@ -407,7 +408,7 @@ Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastrooesophageal r
 
 Hemic/Lymphatic
 
-Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.16)]
+Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.17)]
 
 Infections
 

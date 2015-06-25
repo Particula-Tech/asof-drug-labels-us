@@ -1,7 +1,8 @@
 # 7 DRUG INTERACTIONS
 
 Since tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes may increase tacrolimus whole blood concentrations.
-Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13) and Clinical Pharmacology (12.3)].
+Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13) and Clinical Pharmacology (12.3)].Dose adjustments may be needed along with frequent monitoring of tacrolimus whole blood trough concentrations when tacrolimus is administered with CYP3A inhibitors or inducers.
+In addition, patients should be monitored for adverse reactions including changes in renal function and QT prolongation [see Warnings and Precautions (5.7) and (5.14)].
 
 ## 7.1 Mycophenolic Acid Products
 
@@ -67,5 +68,7 @@ Monitoring of whole blood concentrations and appropriate dosage adjustments of t
 
 ## 7.11 Others
 
-Bromocriptine, nefazodone, metoclopramide, danazol, ethinyl estradiol, amiodarone and methylprednisolone may inhibit CYP3A metabolism of tacrolimus and increase tacrolimus whole blood concentrations.
-Monitoring of blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are co-administered.
+Bromocriptine, nefazodone, metoclopramide, danazol, ethinylestradiol, amiodarone, methylprednisolone and herbal productscontaining schisandra sphenanthera extracts may inhibit CYP3Ametabolism of tacrolimus and increase tacrolimus whole bloodconcentrations.
+Monitoring of blood concentrations andappropriate dosage adjustments of tacrolimus are recommendedwhen these drugs and tacrolimus are co-administered.and herbal productscontaining schisandra sphenanthera extracts may inhibit CYP3Ametabolism of tacrolimus and increase tacrolimus whole bloodconcentrations.
+Monitoring of blood concentrations andappropriate dosage adjustments of tacrolimus are recommendedwhen these drugs and tacrolimus are co-administered.may inhibit CYP3Ametabolism of tacrolimus and increase tacrolimus whole bloodconcentrations.
+Monitoring of blood concentrations andappropriate dosage adjustments of tacrolimus are recommendedwhen these drugs and tacrolimus are co-administered.
