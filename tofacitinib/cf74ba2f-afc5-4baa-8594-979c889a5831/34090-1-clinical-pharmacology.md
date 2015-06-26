@@ -13,7 +13,7 @@ However, the relevance of specific JAK combinations to therapeutic effectiveness
 ## 12.2 Pharmacodynamics
 
 Treatment with XELJANZ was associated with dose-dependent reductions of circulating CD16/56+ natural killer cells, with estimated maximum reductions occurring at approximately 8–10 weeks after initiation of therapy.
-These changes generally resolved within 2–6 weeks after discontinuation of treatment.
+These changes generally resolved within 2-6 weeks after discontinuation of treatment.
 Treatment with XELJANZ was associated with dose-dependent increases in B cell counts.
 Changes in circulating T-lymphocyte counts and T-lymphocyte subsets (CD3+, CD4+ and CD8+) were small and inconsistent.
 The clinical significance of these changes is unknown.
@@ -66,7 +66,7 @@ Drug Interactions
 
 Potential for XELJANZ to Influence the PK of Other Drugs
 
-In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 185 times the steady state Cmax of a 5 mg twice daily dose.
+In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 160 times the steady state Cmax of a 5 mg twice daily dose.
 These in vitro results were confirmed by a human drug interaction study showing no changes in the PK of midazolam, a highly sensitive CYP3A4 substrate, when coadministered with XELJANZ.
 
 In rheumatoid arthritis patients, the oral clearance of tofacitinib does not vary with time, indicating that tofacitinib does not normalize CYP enzyme activity in rheumatoid arthritis patients.

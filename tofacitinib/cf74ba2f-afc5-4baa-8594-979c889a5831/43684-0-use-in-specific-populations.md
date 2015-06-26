@@ -42,7 +42,11 @@ Of the 3315 patients who enrolled in Studies I to V, a total of 505 rheumatoid a
 The frequency of serious infection among XELJANZ-treated subjects 65 years of age and older was higher than among those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
 
-## 8.6 Hepatic Impairment
+## 8.6 Use in Diabetics
+
+As there is a higher incidence of infection in diabetic population in general, caution should be used when treating patients with diabetes.
+
+## 8.7 Hepatic Impairment
 
 XELJANZ-treated patients with moderate hepatic impairment had greater tofacitinib levels than XELJANZ-treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 Higher blood levels may increase the risk of some adverse reactions, therefore, XELJANZ dose should be reduced to 5 mg once daily in patients with moderate hepatic impairment [see Dosage and Administration (2.4)].
@@ -50,7 +54,7 @@ XELJANZ has not been studied in patients with severe hepatic impairment; therefo
 No dose adjustment is required in patients with mild hepatic impairment.
 The safety and efficacy of XELJANZ have not been studied in patients with positive hepatitis B virus or hepatitis C virus serology.
 
-## 8.7 Renal Impairment
+## 8.8 Renal Impairment
 
 XELJANZ-treated patients with moderate and severe renal impairment had greater tofacitinib blood levels than XELJANZ-treated patients with normal renal function; therefore, XELJANZ dose should be reduced to 5 mg once daily in patients with moderate and severe renal impairment [see Dosage and Administration (2.4)].
 In clinical trials, XELJANZ was not evaluated in rheumatoid arthritis patients with baseline creatinine clearance values (estimated by the Cockroft-Gault equation) less than 40 mL/min.

@@ -8,7 +8,7 @@
 
 ## 2.2 Dosage Modifications due to Serious Infections and Cytopenias
 
-(See Tables 1, 2, and 3 below.)
+(see Tables 1, 2, and 3 below.)
 
 - It is recommended that XELJANZ not be initiated in patients with an absolute lymphocyte count less than 500 cells/mm3, an absolute neutrophil count (ANC) less than 1000 cells/mm3 or who have hemoglobin levels less than 9 g/dL.
 - Dose interruption is recommended for management of lymphopenia, neutropenia and anemia [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].

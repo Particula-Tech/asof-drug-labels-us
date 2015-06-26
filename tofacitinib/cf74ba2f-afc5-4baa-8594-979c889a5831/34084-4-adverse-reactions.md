@@ -89,9 +89,9 @@ Liver Enzyme Elevations
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3× ULN) were observed in patients treated with XELJANZ.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dose, resulted in decrease or normalization of liver enzymes.
 
-In the controlled monotherapy trials (0–3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
+In the controlled monotherapy trials (0-3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
 
-In the controlled background DMARD trials (0–3 months), ALT elevations greater than 3× ULN were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
+In the controlled background DMARD trials (0-3 months), ALT elevations greater than 3× ULN were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
 In these trials, AST elevations greater than 3× ULN were observed in 0.6%, 0.5% and 0.4% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
 
 One case of drug-induced liver injury was reported in a patient treated with XELJANZ 10 mg twice daily for approximately 2.5 months.
@@ -135,6 +135,8 @@ Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 
 Other adverse reactions occurring in controlled and open-label extension studies included:
 
 Blood and lymphatic system disorders: Anemia
+
+Infections and infestations: Diverticulitis
 
 Metabolism and nutrition disorders: Dehydration
 

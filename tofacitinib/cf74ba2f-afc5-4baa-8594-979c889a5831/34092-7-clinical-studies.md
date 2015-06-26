@@ -3,7 +3,7 @@
 The XELJANZ clinical development program included two dose-ranging trials and five confirmatory trials.
 Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 
-DOSE-RANGING TRIALS
+Dose-Ranging Trials
 
 Dose selection for XELJANZ was based on two pivotal dose-ranging trials.
 
@@ -22,7 +22,7 @@ Figure 4: Proportion of Patients with ACR20 Response at Month 3 in Dose-Ranging 
 
 Study 1 was a dose-ranging monotherapy trial not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority to adalimumab.
 
-CONFIRMATORY TRIALS
+Confirmatory Trials
 
 Study I was a 6-month monotherapy trial in which 610 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to a DMARD (nonbiologic or biologic) received XELJANZ 5 or 10 mg twice daily or placebo.
 At the Month 3 visit, all patients randomized to placebo treatment were advanced in a blinded fashion to a second predetermined treatment of XELJANZ 5 or 10 mg twice daily.

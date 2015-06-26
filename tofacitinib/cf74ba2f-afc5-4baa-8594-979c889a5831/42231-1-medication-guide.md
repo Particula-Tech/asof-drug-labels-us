@@ -21,6 +21,8 @@ Some people have died from these infections.
 
 You should not start taking XELJANZ if you have any kind of infection unless your healthcare provider tells you it is okay.
 
+You may be at a higher risk of developing shingles.
+
 Before starting XELJANZ, tell your healthcare provider if you:
 
 - think you have an infection or have symptoms of an infection such as: fever, sweating, or chillsmuscle achescoughshortness of breathblood in phlegmweight loss warm, red, or painful skin or sores on your bodydiarrhea or stomach painburning when you urinate or urinating more often than normalfeeling very tired
@@ -185,4 +187,4 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarme
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0535-2.0 March 2014
+LAB-0535-3.0 June 2015

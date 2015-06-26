@@ -3,7 +3,7 @@
 ## 5.1 Serious Infections
 
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in rheumatoid arthritis patients receiving XELJANZ.
-The most common serious infections reported with XELJANZ included pneumonia, cellulitis, herpes zoster and urinary tract infection [see Adverse Reactions (6.1)].
+The most common serious infections reported with XELJANZ included pneumonia, cellulitis, herpes zoster, urinary tract infection, and diverticulitis [see Adverse Reactions (6.1)].
 Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus, and BK virus were reported with XELJANZ.
 Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
 
@@ -39,6 +39,7 @@ Viral reactivation, including cases of herpes virus reactivation (e.g., herpes z
 The impact of XELJANZ on chronic viral hepatitis reactivation is unknown.
 Patients who screened positive for hepatitis B or C were excluded from clinical trials.
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with XELJANZ.
+The risk of herpes zoster is increased in patients treated with XELJANZ and appears to be higher in patients treated with XELJANZ in Japan.
 
 ## 5.2 Malignancy and Lymphoproliferative Disorders
 
@@ -80,7 +81,7 @@ Neutropenia
 Treatment with XELJANZ was associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to placebo.
 
 Avoid initiation of XELJANZ treatment in patients with a low neutrophil count (i.e., ANC less than 1000 cells/mm3).
-For patients who develop a persistent ANC of 500–1000 cells/mm3, interrupt XELJANZ dosing until ANC is greater than or equal to 1000 cells/mm3.
+For patients who develop a persistent ANC of 500-1000 cells/mm3, interrupt XELJANZ dosing until ANC is greater than or equal to 1000 cells/mm3.
 In patients who develop an ANC less than 500 cells/mm3, treatment with XELJANZ is not recommended.
 
 Monitor neutrophil counts at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
