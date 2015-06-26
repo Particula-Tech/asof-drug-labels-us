@@ -34,6 +34,6 @@ In pediatric patient studies worldwide (n=704), tachycardia occurred at an incid
 
 ## 6.2 Post-Marketing Experience
 
-In clinical practice, there have been reports, of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide injection, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
+In clinical practice, there have been reports of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide injection, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
 
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.

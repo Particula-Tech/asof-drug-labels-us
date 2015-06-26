@@ -12,6 +12,6 @@ Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India
 
 Code No.: AP/DRUGS/103/97
 
-“PREMIERPro™Rx” is a registered trademark of Premier, Inc., used under license.
+PREMIERProRx™ is a trademark of Premier, Inc., used under license.
 
-LEA-019588-00 REVISED MAY 2014 MI:ROCUIJ:R4
+REVISED MARCH 2015 LEA-019588-01 MI:ROCUIJ:R5

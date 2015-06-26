@@ -6,7 +6,7 @@
 
 Developmental toxicology studies have been performed with rocuronium bromide in pregnant, conscious, nonventilated rabbits and rats.
 Inhibition of neuromuscular function was the endpoint for high-dose selection.
-The maximum tolerated dose served as the high-dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from day 6 to 18 of pregnancy.
+The maximum tolerated dose served as the high-dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from Day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from Day 6 to 18 of pregnancy.
 High-dose treatment caused acute symptoms of respiratory dysfunction due to the pharmacological activity of the drug.
 Teratogenicity was not observed in these animal species.
 The incidence of late embryonic death was increased at the high-dose in rats, most likely due to oxygen deficiency.
@@ -30,7 +30,7 @@ Onset time and clinical duration varied with dose, the age of the patient, and a
 The overall analysis of ECG data in pediatric patients indicates that the concomitant use of rocuronium bromide with general anesthetic agents can prolong the QTc interval.
 The data also suggest that rocuronium bromide may increase heart rate.
 However, it was not possible to conclusively identify an effect of rocuronium bromide independent of that of anesthesia and other factors.
-Additionally, when examining plasma levels of rocuronium bromide in correlation to QTc interval prolongation, no relationship was observed [see Dosage and Administration (2.5), Warnings and Precautions (5.8) and Clinical Studies (14.3)].
+Additionally, when examining plasma levels of rocuronium bromide in correlation to QTc interval prolongation, no relationship was observed [see Dosage and Administration (2.5), Warnings and Precautions (5.8), and Clinical Studies (14.3)].
 
 Rocuronium bromide injection is not recommended for rapid sequence intubation in pediatric patients.
 Recommendations for use in pediatric patients are discussed in other sections [see Dosage and Administration (2.5) and Clinical Pharmacology (12.2)].
@@ -40,7 +40,7 @@ Recommendations for use in pediatric patients are discussed in other sections [s
 Rocuronium bromide was administered to 140 geriatric patients (65 years or greater) in U.S. clinical trials and 128 geriatric patients in European clinical trials.
 The observed pharmacokinetic profile for geriatric patients (n=20) was similar to that for other adult surgical patients [see Clinical Pharmacology (12.3)].
 Onset time and duration of action were slightly longer for geriatric patients (n=43) in clinical trials.
-Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see Dosage and Administration (2.5), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
+Clinical experiences and recommendations for use in geriatric patients are discussed in other sections [see Dosage and Administration (2.5), Warnings and Precautions (5.4), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
 
 ## 8.6 Patients with Hepatic Impairment
 

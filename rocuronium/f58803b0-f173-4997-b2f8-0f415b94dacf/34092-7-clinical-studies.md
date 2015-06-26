@@ -2,7 +2,7 @@
 
 In U.S. clinical studies, a total of 1,137 patients received rocuronium bromide injection, including 176 pediatric, 140 geriatric, 55 obstetric, and 766 other adults.
 Most patients (90%) were ASA physical status I or II, about 9% were ASA III, and 10 patients (undergoing coronary artery bypass grafting or valvular surgery) were ASA IV.
-In European clinical studies, a total of 1,394 patients received rocuronium bromide injection, including 52 pediatric, 128 geriatric (65 years or greater) and 1,214 other adults.
+In European clinical studies, a total of 1,394 patients received rocuronium bromide injection, including 52 pediatric, 128 geriatric (65 years or greater), and 1,214 other adults.
 
 ## 14.1 Adult Patients
 
@@ -46,8 +46,7 @@ Therefore, rocuronium bromide is not recommended for rapid sequence induction in
 
 Rocuronium bromide was evaluated in 55 geriatric patients (ages 65 to 80 years) in six clinical studies.
 Doses of 0.6 mg/kg provided excellent to good intubating conditions in a median (range) time of 2.3 (1 to 8) minutes.
-Recovery times from 25% to 75% after these doses were not prolonged in geriatric patients compared to other adult patients.
-[See Dosage and Administration (2.5) and Use in Specific Populations (8.5).]
+Recovery times from 25% to 75% after these doses were not prolonged in geriatric patients compared to other adult patients [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
 ## 14.3 Pediatric Patients
 

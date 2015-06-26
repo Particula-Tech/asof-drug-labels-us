@@ -9,8 +9,7 @@ If these antibiotics are used in conjunction with rocuronium bromide, prolongati
 
 In 2 of 4 patients receiving chronic anticonvulsant therapy, apparent resistance to the effects of rocuronium bromide was observed in the form of diminished magnitude of neuromuscular block, or shortened clinical duration.
 As with other non-depolarizing neuromuscular blocking drugs, if rocuronium bromide is administered to patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to non-depolarizing muscle relaxants.
-While the mechanism for development of this resistance is not known, receptor up-regulation may be a contributing factor.
-[See Warnings and Precautions (5.9).]
+While the mechanism for development of this resistance is not known, receptor up-regulation may be a contributing factor [see Warnings and Precautions (5.9)].
 
 ## 7.3 Inhalation Anesthetics
 

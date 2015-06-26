@@ -15,20 +15,20 @@ Table 4 presents intubating conditions in patients with intubation initiated at 
 
 Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) Time to Completion of Intubation in Patients with Intubation Initiated at 60 to 70 Seconds
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Percent of Patients With Excellent or Good Intubating Conditions | Time to Completion of Intubation [min] |
+| Rocuronium Bromide Dose (mg/kg) Administered Over 5 sec | Percent of Patients with Excellent or Good Intubating Conditions | Time to Completion of Intubation (min) |
 | --- | --- | --- |
-| AdultsExcludes patients undergoing Cesarean section 18 to 64 yrs |  |  |
+| AdultsExcludes patients undergoing Cesarean section. 18 to 64 yrs |  |  |
 | 0.45 (n=43) | 86% | 1.6 (1.0–7.0) |
 | 0.6 (n=51) | 96% | 1.6 (1.0–3.2) |
-| InfantsPediatric patients were under halothane anesthesia 3 mo to 1 yr 0.6 (n=18) | 100% | 1.0 (1.0-1.5) |
+| InfantsPediatric patients were under halothane anesthesia. 3 mo to 1 yr 0.6 (n=18) | 100% | 1.0 (1.0-1.5) |
 | Pediatric 1 to 12 yrs 0.6 (n=12) | 100% | 1.0 (0.5–2.3) |
-| Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement Good intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
+| Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement. Good intubating conditions = same as excellent but with some diaphragmatic movement. |  |  |
 
 Table 5 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under opioid/nitrous oxide/oxygen anesthesia in adults and geriatric patients, and under halothane anesthesia in pediatric patients.
 
 Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Opioid/Nitrous Oxide/Oxygen Anesthesia (Adults) and Halothane Anesthesia (Pediatric Patients)
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |  |  |  |
+| Rocuronium Bromide Dose (mg/kg) Administered Over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adults 18 to 64 yrs |  |  |  |  |  |  |
 | 0.45 (n=50) | 1.3 (0.8–6.2) | 3.0 (1.3–8.2) | 22 (12–31) |  |  |  |
@@ -45,18 +45,18 @@ Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | Pediatric 1 to 12 yrs |  |  |  |  |  |  |
 | 0.6 (n=27) | 0.8 (0.4–2.0) | 1.0 (0.5–3.3) | 26 (17–39) |  |  |  |
 | 0.8 (n=18) | — | 0.5 (0.3–1.0) | 30 (17–56) |  |  |  |
-| n = the number of patients who had time to maximum block recorded Clinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
+| n = the number of patients who had time to maximum block recorded. Clinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
 
 Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
 
 Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 [min] |  |  |  |  |  |  |  |
+| Rocuronium Bromide Dose (mg/kg) Administered Over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Neonates birth to <28 days |  |  |  |  |  |  |  |  |  |
 | 0.45 (n=5) | 1.1 (0.6-2.2) | 40.3 (32.5–62.6) |  |  |  |  |  |  |  |
-| 0.6 (n=10) | 1.0 (02-2.1) | 49.7 (16.6-119.0) |  |  |  |  |  |  |  |
-| 1 (n=6) | 0.6 (03-1.8) | 114.4 (92.6-136.3) |  |  |  |  |  |  |  |
+| 0.6 (n=10) | 1.0 (0.2-2.1) | 49.7 (16.6-119.0) |  |  |  |  |  |  |  |
+| 1 (n=6) | 0.6 (0.3-1.8) | 114.4 (92.6-136.3) |  |  |  |  |  |  |  |
 | Infants 28 days to ≤3 mo |  |  |  |  |  |  |  |  |  |
 | 0.45 (n=9) | 0.5 (0.4-1.3) | 49.1 (13.5-79.9) |  |  |  |  |  |  |  |
 | 0.6 (n=11) | 0.4 (0.2-0.8) | 59.8 (32.3-87.8) |  |  |  |  |  |  |  |
@@ -72,7 +72,7 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | Adolescents >11 to ≤ 17 yrs |  |  |  |  |  |  |  |  |  |
 | 0.45 (n=18) | 1.0 (0.5-1.7) | 37.5 (18.3-65.7) |  |  |  |  |  |  |  |
 | 0.6 (n=31) | 0.9 (0.2-2.1) | 41.4 (16.3-91.2) |  |  |  |  |  |  |  |
-| 1 (n=4) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |  |  |  |  |  |  |  |
+| 1 (n=14) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |  |  |  |  |  |  |  |
 | n = the number of patients with the highest number of observations for time to maximum block or reappearance T3. |  |  |  |  |  |  |  |  |  |
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
@@ -122,7 +122,7 @@ These population-based estimates and a measure of the estimate variability are c
 Following intravenous administration of rocuronium bromide, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged.
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.5)].
 
 Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
@@ -130,7 +130,7 @@ Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs
 | --- | --- | --- |
 | Clearance (L/kg/hr) | 0.25 (0.08) | 0.21 (0.06) |
 | Volume of Distribution at Steady State (L/kg) | 0.25 (0.04) | 0.22 (0.03) |
-| t1/2β Elimination (hr) | 1.4 (0.4) | 1.5 (0.4) |
+| t1/2 β Elimination (hr) | 1.4 (0.4) | 1.5 (0.4) |
 
 In general, studies with normal adult subjects did not reveal any differences in the pharmacokinetics of rocuronium due to gender.
 
@@ -147,9 +147,9 @@ Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and He
 
 | PK Parameters | Normal Renal and Hepatic Function | Renal Transplant Patients | Hepatic Dysfunction Patients |
 | --- | --- | --- | --- |
-| Clearance (L/kg/hr) | 0.16 (0.05)Differences in the calculated t1/2β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques. | 0.13 (0.04) | 0.13 (0.06) |
+| Clearance (L/kg/hr) | 0.16 (0.05)Differences in the calculated t1/2 β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques. | 0.13 (0.04) | 0.13 (0.06) |
 | Volume of Distribution at Steady State (L/kg) | 0.26 (0.03) | 0.34 (0.11) | 0.53 (0.14) |
-| t1/2β Elimination (hr) | 2.4 (0.8) | 2.4 (1.1) | 4.3 (2.6) |
+| t1/2 β Elimination (hr) | 2.4 (0.8) | 2.4 (1.1) | 4.3 (2.6) |
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.
@@ -171,7 +171,7 @@ Table 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patient
 | 3 to <12 mos | 1 to <3 yrs | 3 to <8 yrs |  |
 | Clearance (L/kg/hr) | 0.35 (0.08) | 0.32 (0.07) | 0.44 (0.16) |
 | Volume of Distribution at Steady State (L/kg) | 0.30 (0.04) | 0.26 (0.06) | 0.21 (0.03) |
-| t1/2β Elimination (hr) | 1.3 (0.5) | 1.1 (0.7) | 0.8 (0.3) |
+| t1/2 β Elimination (hr) | 1.3 (0.5) | 1.1 (0.7) | 0.8 (0.3) |
 
 Pharmacokinetics of rocuronium bromide were evaluated using a population analysis of the pooled pharmacokinetic datasets from 2 trials under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
 All pharmacokinetic parameters were found to be linearly proportional to body weight.
@@ -183,7 +183,7 @@ Table 10: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patien
 
 | PK Parameters | Patient Age Range |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Birth to <28 days | 28 Days to ≤3 mos | 3 mos to ≤2 yrs | 2 to ≤11 yrs | 11 to ≤17 yrs |  |
-| Clearance (L/kg/hr) | 0.31 (0.07) | 0.30 (0.08) | 0.33 (0.10) | 0.35 (0.09) | 0.29 (0.14) |
+| Birth to <28 days | 28 days to ≤3 mos | 3 mos to ≤2 yrs | 2 to ≤11 yrs | 11 to ≤17 yrs |  |
+| CL (L/kg/hr) | 0.31 (0.07) | 0.30 (0.08) | 0.33 (0.10) | 0.35 (0.09) | 0.29 (0.14) |
 | Volume of Distribution (L/kg) | 0.42 (0.06) | 0.31 (0.03) | 0.23 (0.03) | 0.18 (0.02) | 0.18 (0.01) |
-| t1/2β Elimination (hr) | 1.1 (0.2) | 0.9 (0.3) | 0.8 (0.2) | 0.7 (0.2) | 0.8 (0.3) |
+| t1/2 β (hr) | 1.1 (0.2) | 0.9 (0.3) | 0.8 (0.2) | 0.7 (0.2) | 0.8 (0.3) |
