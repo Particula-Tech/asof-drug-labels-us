@@ -4,7 +4,6 @@ The following adverse reactions are described in greater detail, in other sectio
 
 - •Bradycardia and AV block [see Warnings and Precautions (5.1)]
 - •Heart failure [see Warnings and Precautions (5.2)]
-- •Hypotension [see Warnings and Precautions (5.3)]
 - •Acute hepatic injury [see Warnings and Precautions (5.3)]
 - •Severe Skin reactions [see Warnings and Precautions (5.4)]
 
