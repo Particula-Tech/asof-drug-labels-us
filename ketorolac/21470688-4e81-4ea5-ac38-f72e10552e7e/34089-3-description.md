@@ -20,7 +20,7 @@ Ketorolac Tromethamine Drug Substance:
 | Molecular Formula: | C 15H 13NO 3 · C 4H 11NO 3 |
 | Molecular Weight: | 376.40 g/mole |
 
-Omidria is a clear, colorless, sterile solution concentrate with a pH of approximately 6.3.
+Omidria is a clear, colorless to slightly yellow, sterile solution concentrate with a pH of approximately 6.3.
 
 Each vial of Omidria contains:
 

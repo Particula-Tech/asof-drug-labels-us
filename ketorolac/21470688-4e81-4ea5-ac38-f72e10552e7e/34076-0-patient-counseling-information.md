@@ -8,8 +8,10 @@ Omeros Corporation
 
 Seattle, WA 98119
 
-© Omeros 2014
+© Omeros 2013-2015
 
 US Patents 8,173,707 and 8,586,633; additional patents pending.
 
-Revised: 05/2014
+OMIDRIA ® and the OMIDRIA ® Logo are registered trademarks of Omeros Corporation.
+
+Revised: 06/2015

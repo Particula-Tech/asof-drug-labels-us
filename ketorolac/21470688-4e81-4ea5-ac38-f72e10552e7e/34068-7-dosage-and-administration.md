@@ -6,4 +6,4 @@ Irrigation solution is to be used as needed for the surgical procedure.
 
 The storage period for the diluted product is not more than 4 hours at room temperature or 24 hours under refrigerated conditions.
 
-Do not use if the solution is colored or cloudy, or if it contains particulate matter.
+Do not use if the solution is cloudy or if it contains particulate matter.
