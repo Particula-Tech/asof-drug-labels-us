@@ -1,5 +1,9 @@
-Prescribing Information as of July 2009
+Distributed by:
 
-Manufactured by: JHP Pharmaceuticals, LLC, Rochester, MI 48307
+Par Pharmaceutical Companies, Inc.
 
-3000828C
+Chestnut Ridge, NY 10977
+
+3000828D
+
+I04/15 OS109J-01-90-01

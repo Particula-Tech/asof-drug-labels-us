@@ -12,4 +12,4 @@ In another study the incidence was found to be approximately 1%.
 The following local adverse events have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch/.
