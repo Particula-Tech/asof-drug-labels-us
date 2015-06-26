@@ -10,7 +10,7 @@ When administered by the intravenous route to pregnant rabbits, sumatriptan was 
 IMITREX Injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Oral administration of sumatriptan to pregnant rats during the period of organogenesis resulted in an increased incidence of fetal blood vessel (cervicothoracic and umbilical) abnormalities.
-The highest no-effect dose for embryofetal developmental toxicity in rates was 60 mg/kg/day, or approximately 100 times the single maximum recommended human dose (MRHD) of 6 mg administered subcutaneously on a mg/m2 basis.
+The highest no-effect dose for embryofetal developmental toxicity in rats was 60 mg/kg/day, or approximately 100 times the single maximum recommended human dose (MRHD) of 6 mg administered subcutaneously on a mg/m2 basis.
 Oral administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in increased incidences of embryolethality and fetal cervicothoracic vascular and skeletal abnormalities.
 Intravenous administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in an increased incidence of embryolethality.
 The highest oral and intravenous no-effect doses for developmental toxicity in rabbits were 15 and 0.75 mg/kg/day, or approximately 50 and 2 times, respectively, the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
