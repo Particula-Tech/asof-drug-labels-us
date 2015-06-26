@@ -29,7 +29,7 @@ Strides Pharma Inc.
 
 Lambertville, NJ 08530 USA
 
-Revised: 11/2014
+Revised: 04/2015
 
 PATIENT INFORMATION
 
@@ -62,4 +62,4 @@ Strides Pharma Inc.
 
 Lambertville, NJ 08530 USA
 
-Revised: 11/2014
+Revised: 04/2015

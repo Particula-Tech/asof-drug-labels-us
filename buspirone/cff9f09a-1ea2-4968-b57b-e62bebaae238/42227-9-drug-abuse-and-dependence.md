@@ -16,3 +16,6 @@ Following chronic administration in the rat, abrupt withdrawal of buspirone did 
 
 Although there is no direct evidence that buspirone causes physical dependence or drug-seeking behavior, it is difficult to predict from experiments the extent to which a CNS-active drug will be misused, diverted, and/or abused once marketed.
 Consequently, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of buspirone misuse or abuse (e.g., development of tolerance, incrementation of dose, drug-seeking behavior).
+
+Call your doctor for medical advice about side effects.
+You may report side effects to Strides Pharma Inc. at 1-877-244-9825 or go to www.stridesarco.com.
