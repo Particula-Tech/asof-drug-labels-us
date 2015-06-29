@@ -43,11 +43,7 @@ Following oral dosing, MPA is extensively metabolized in the liver via hydroxyla
 
 Most MPA metabolites are excreted in the urine as glucuronide conjugates with only minor amounts excreted as sulfates.
 
-### E. Special Populations
-
-#### Renal Insufficiency
-
-The pharmacokinetics of MPA in patients with varying degrees of renal insufficiency have not been investigated.
+### E. Specific Populations
 
 #### Hepatic Insufficiency
 
@@ -55,6 +51,12 @@ MPA is almost exclusively eliminated via hepatic metabolism.
 In 14 patients with advanced liver disease, MPA disposition was significantly altered (reduced elimination).
 In patients with fatty liver, the mean percent dose excreted in the 24-hour urine as intact MPA after a 10 mg or 100 mg dose was 7.3% and 6.4%, respectively.
 
+#### Renal Insufficiency
+
+The effect of renal impairment on the pharmacokinetics of MPA has not been studied.
+
 ### F. Drug Interactions
 
-No formal pharmacokinetic drug interaction studies have been conducted with MPA.
+Medroxyprogesterone acetate (MPA) is metabolized in-vitro primarily by hydroxylation via the CYP3A4.
+Specific drug-drug interaction studies evaluating the clinical effects with CYP3A4 inducers or inhibitors on MPA have not been conducted.
+Inducers and/or inhibitors of CYP3A4 may affect the metabolism of MPA.

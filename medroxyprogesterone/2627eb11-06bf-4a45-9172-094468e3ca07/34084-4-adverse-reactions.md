@@ -4,7 +4,7 @@ See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice
 
-The following adverse reactions have been reported in women taking progestins, including MPA tablets, without concomitant estrogens treatment:
+The following adverse reactions have been reported in women taking MPA tablets, without concomitant estrogens treatment:
 
 1.
 Genitourinary system
@@ -47,7 +47,7 @@ Miscellaneous
 
 Hypersensitivity reactions (for example, anaphylaxis and anaphylactoid reactions, angioedema), rash (allergic) with and without pruritus, change in weight (increase or decrease), pyrexia, edema/fluid retention, fatigue, decreased glucose tolerance.
 
-The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
+The following adverse reactions have been reported with estrogen plus progestin therapy.
 
 1.
 Genitourinary system
@@ -87,4 +87,4 @@ Headache; migraine; dizziness; mental depression; chorea; nervousness; mood dist
 8.
 Miscellaneous
 
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaplylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
