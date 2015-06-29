@@ -11,10 +11,10 @@ Advise patients:
 
 For further product information, please call our medical communications department toll-free at 1-866-928-6180.
 
-Manufactured for: Mist Pharmaceuticals, LLC Cranford, NJ 07016 By: Aptalis Pharmatech, Inc. Vandalia, OH 45377
+Manufactured for: Mist Pharmaceuticals, LLC Cranford, NJ 07016 By: Adare Pharmaceuticals, Inc. Vandalia, OH 45377
 
 Marketed and distributed by: Mist Pharmaceuticals, LLC Cranford, NJ 07016
 
-INDERAL® XL, a DIFFUCAPS® DRUG DELIVERY PRODUCT MANUFACTURED BY Aptalis Pharmatech, Inc.
+INDERAL® XL, a DIFFUCAPS® DRUG DELIVERY PRODUCT MANUFACTURED BY Adare Pharmaceuticals, Inc., Vandalia, OH 45377
 
-242F000
+242F001

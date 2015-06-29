@@ -8,7 +8,7 @@ Hypotension and bradycardia have been reported following propranolol overdose an
 Glucagon can exert potent inotropic and chronotropic effects and may be particularly useful for the treatment of hypotension or depressed myocardial function after a propranolol overdose.
 
 Glucagon should be administered as 50‑150 mcg/kg intravenously followed by continuous drip of 1‑5 mg/hour for positive chronotropic effect.
-Isoproterenol, dopamine or phosphodiesterase; inhibitors may also be useful.
+Isoproterenol, dopamine or phosphodiesterase inhibitors may also be useful.
 Epinephrine, however, may provoke uncontrolled hypertension.
 Bradycardia can be treated with atropine or isoproterenol.
 Serious bradycardia may require temporary cardiac pacing.
