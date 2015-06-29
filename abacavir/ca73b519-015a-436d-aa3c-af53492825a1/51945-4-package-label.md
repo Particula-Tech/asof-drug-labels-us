@@ -12,34 +12,16 @@ TABLETS
 
 Rx only
 
-60 Tablets
-
-Each tablet contains abacavir sulfate equivalent to 300 mg of abacavir.
-
-Store at controlled room temperature of 20° to 25°C (68° to 77°F) (see USP).
-
-See prescribing information for dosage information.
-
 Notice to Authorized Dispenser:
 
 Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning Card from the carton.
 
-Manufactured for:
-
-ViiV Healthcare
-
-Research Triangle Park, NC 27709
-
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+60 Tablets
 
 Made in UK
 
-10000000095110 Rev.
-5/11
+10000000097247 Rev.
+9/11
 
 PRINCIPAL DISPLAY PANEL
 
@@ -55,36 +37,15 @@ ORAL SOLUTION
 
 Rx only
 
-240 mL
-
-Each mL contains abacavir sulfate equivalent to 20 mg of abacavir.
-
-Store at controlled room temperature of 20° to 25°C (68° to 77°F)
-
-(see USP).
-DO NOT FREEZE.
-
-See prescribing information for dosage information.
-
 Notice to Authorized Dispenser:
 
 Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning Card from the carton.
 
-Manufactured for:
+240 mL
 
-ViiV Healthcare
+Made in Canada
 
-Research Triangle Park, NC 27709
+©2015, the ViiV Healthcare group of companies
 
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in UK
-
-©2011, ViiV Healthcare
-
-Rev.
-4/11 A094812
+A135361 Rev.
+6/15

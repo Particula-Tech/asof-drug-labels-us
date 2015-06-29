@@ -38,6 +38,9 @@ Median time to onset was 9 days; 89% appeared within the first 6 weeks; 95% of s
 Figure 1.
 Hypersensitivity-related Symptoms Reported with Greater than or Equal to 10% Frequency in Clinical Trials (n = 206 Subjects)
 
+Figure 1.
+Hypersensitivity-related Symptoms Reported with Greater than or Equal to 10% Frequency in Clinical Trials (n = 206 Subjects)
+
 Other less common signs and symptoms of hypersensitivity include lethargy, myolysis, edema, abnormal chest x-ray findings (predominantly infiltrates, which can be localized), and paresthesia.
 Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, and death have occurred in association with hypersensitivity reactions.
 In one trial, 4 subjects (11%) receiving ZIAGEN 600 mg once daily experienced hypotension with a hypersensitivity reaction compared with 0 subjects receiving ZIAGEN 300 mg twice daily.
