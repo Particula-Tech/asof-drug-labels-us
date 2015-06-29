@@ -86,6 +86,14 @@ CARDURA XL may cause serious side effects including:
 - intraoperative floppy iris syndrome (IFIS).
   IFIS can happen during eye surgery to people who are taking or have taken alpha-blockers such as CARDURA XL.
   If you have an eye surgery for a clouding of the eye (cataract) planned, tell your eye doctor that you are using CARDURA XL or have taken an alpha-blocker before.
+- blockage of the digestive tract.
+  There have been rare reports of symptoms of blockage in the digestive tract in patients with prior history of narrowing or blockage of the digestive tract.
+  These symptoms are severe and persistent abdominal pain/cramping/bloating.
+  If you know you have a narrowing of your digestive tract and you experience these symptoms, contact your healthcare provider.
+- prolonged erection of the penis.
+  Extremely rarely, CARDURA XL and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
+  This condition is serious, and if untreated it can be followed by permanent inability to have an erection.
+  If you have a prolonged abnormal erection, call your doctor or go to an emergency room as soon as possible.
 
 The most common side effects of CARDURA XL include:
 
@@ -127,4 +135,4 @@ Active Ingredient: doxazosin mesylate
 
 Inactive Ingredients: polyethylene oxide, sodium chloride, hypromellose, red ferric oxide, titanium dioxide, magnesium stearate, cellulose acetate, Macrogol®, pharmaceutical glaze, and black iron oxide.
 
-LAB-0425-1.0 July 2011
+LAB-0425-2.0 June 2015

@@ -43,3 +43,8 @@ If symptoms of angina pectoris should newly appear or worsen, CARDURA XL should 
 ## 5.8 CYP 3A4 Inhibitors
 
 Caution should be exercised when concomitantly administering CARDURA XL with a strong CYP 3A4 inhibitor, such as atanazavir, clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, or voriconazole.
+
+## 5.9 Priapism
+
+Rarely (probably less frequently than once in every several thousand patients), alpha-1 antagonists, including doxazosin, have been associated with priapism (painful penile erection, sustained for hours and unrelieved by sexual intercourse or masturbation).
+Because this condition can lead to permanent impotence if not promptly treated, patients must be advised about the seriousness of the condition.
