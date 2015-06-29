@@ -16,7 +16,7 @@ What is DELESTROGEN used for?
 
 DELESTROGEN is used after menopause to:
 
-- reduce moderate to severe hot flashes.
+- •reduce moderate to severe hot flashes.
   Estrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
@@ -26,7 +26,7 @@ DELESTROGEN is used after menopause to:
   In some women, the symptoms are mild, and they will not need estrogens.
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN.
-- treat moderate to severe dryness, itching, and burning in and around the vagina.
+- •treat moderate to severe dryness, itching, and burning in and around the vagina.
   You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN to control these problems.
   If you use DELESTROGEN only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 
@@ -34,28 +34,28 @@ Who should not take DELESTROGEN?
 
 Do not start taking DELESTROGEN if you:
 
-- have unusual vaginal bleeding.
-- currently have or have had certain cancers.
+- •have unusual vaginal bleeding.
+- •currently have or have had certain cancers.
   Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or had cancer, talk with your healthcare provider about whether you should take DELESTROGEN.
-- had a stroke or heart attack in the past year.
-- currently have or have had blood clots.
-- currently have or have had liver problems.
-- are allergic to DELESTROGEN or any of its ingredients.
+- •had a stroke or heart attack in the past year.
+- •currently have or have had blood clots.
+- •currently have or have had liver problems.
+- •are allergic to DELESTROGEN or any of its ingredients.
   See the end of this leaflet for a list of ingredients in DELESTROGEN.
-- think you may be pregnant.
+- •think you may be pregnant.
 
 Tell your healthcare provider:
 
-- if you are breastfeeding.
+- •if you are breastfeeding.
   The hormone in DELESTROGEN can pass into your milk.
-- about all of your medical problems.
+- •about all of your medical problems.
   Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- about all the medicines you take.
+- •about all the medicines you take.
   This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how DELESTROGEN works.
   DELESTROGEN may also affect how your other medicines work.
-- if you are going to have surgery or will be on bed rest.
+- •if you are going to have surgery or will be on bed rest.
   You may need to stop taking estrogens.
 
 How should I take DELESTROGEN?
@@ -70,70 +70,84 @@ Storage at low temperatures may result in the separation of some crystalline mat
 Note: A dry needle and syringe should be used.
 Use of a wet needle or syringe may cause the solution to become cloudy; however, this does not affect the potency of the material.
 
-1. Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
-2. Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
-   The lowest effective dose of DELESTROGEN has not been determined.
-   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with DELESTROGEN.
+- 1.Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
+- 2.Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
+  The lowest effective dose of DELESTROGEN has not been determined.
+  You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with DELESTROGEN.
 
 How should I dispose of used syringes and needles?
 
-1. Do not re-use needles or syringes.
-2. Do not throw the needles and syringes in household waste.
-   These should be discarded into an appropriate container (such as a sharps container) immediately after use.
-   Refer to state or local laws and regulations for appropriate container requirements.
-3. Make sure the container is tightly capped.
-4. Strategically place the container so as to minimize handling and keep out of the reach of children.
-5. Label the container indicating the presence of used needles/sharps.
-6. For disposal of containers containing used needles and syringes refer to the state or local laws and regulations or as instructed by your healthcare provider or pharmacist.
-7. Refer to your health care provider or pharmacist for guidance, and for additional information contact the Coalition for Safe Community Needle Disposal online at
+- 1.Do not re-use needles or syringes.
+- 2.Do not throw the needles and syringes in household waste.
+  These should be discarded into an appropriate container (such as a sharps container) immediately after use.
+  Refer to state or local laws and regulations for appropriate container requirements.
+- 3.Make sure the container is tightly capped.
+- 4.Strategically place the container so as to minimize handling and keep out of the reach of children.
+- 5.Label the container indicating the presence of used needles/sharps.
+- 6.For disposal of containers containing used needles and syringes refer to the state or local laws and regulations or as instructed by your healthcare provider or pharmacist.
+- 7.Refer to your health care provider or pharmacist for guidance, and for additional information contact the Coalition for Safe Community Needle Disposal online at
 
 http://www.safeneedledisposal.org or refer to the FDA website Needles and Other Sharps at http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/HomeHealthandConsumer/ConsumerProducts/Sharps/default.htm
+
+How should I dispose of expired or unused DELESTROGEN?
+
+- 1.Do not flush unused DELESTROGEN or pour down the sink or drain.
+- 2.Refer to the state or local laws and regulations for the safest and proper disposal of injectable medications.
+  Contact your city or county government’s household trash and recycling service to find out if a drug take-back program is available in your community.
+  You can also refer to your health care provider or pharmacist for guidance.
+- 3.For additional information refer to the following FDA websites:
+
+Disposal of Unused Medicines: What You Should Know
+
+http://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/ensuringsafeuseofmedicine/safedisposalofmedicines/ucm186187.htm
+
+How to Dispose of Unused Medicines http://www.fda.gov/downloads/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/UnderstandingOver-the-CounterMedicines/ucm107163.pdf
 
 What are the possible side effects of estrogens?
 
 Less common but serious side effects include:
 
-- Breast cancer
-- Cancer of the uterus
-- Stroke
-- Heart attack
-- Blood clots
-- Dementia
-- Gallbladder disease
-- Ovarian cancer
+- •Breast cancer
+- •Cancer of the uterus
+- •Stroke
+- •Heart attack
+- •Blood clots
+- •Dementia
+- •Gallbladder disease
+- •Ovarian cancer
 
 These are some of the warning signs of serious side effects:
 
-- Breast lumps
-- Unusual vaginal bleeding
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
+- •Breast lumps
+- •Unusual vaginal bleeding
+- •Dizziness and faintness
+- •Changes in speech
+- •Severe headaches
+- •Chest pain
+- •Shortness of breath
+- •Pains in your legs
+- •Changes in vision
+- •Vomiting
 
 Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
 Common side effects include:
 
-- Headache
-- Breast pain
-- Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
-- Nausea and vomiting
-- Hair loss
+- •Headache
+- •Breast pain
+- •Irregular vaginal bleeding or spotting
+- •Stomach/abdominal cramps, bloating
+- •Nausea and vomiting
+- •Hair loss
 
 Other side effects include:
 
-- High blood pressure
-- Liver problems
-- High blood sugar
-- Fluid retention
-- Enlargement of benign tumors of the uterus ("fibroids")
-- Vaginal yeast infection
+- •High blood pressure
+- •Liver problems
+- •High blood sugar
+- •Fluid retention
+- •Enlargement of benign tumors of the uterus ("fibroids")
+- •Vaginal yeast infection
 
 These are not all the possible side effects of DELESTROGEN.
 For more information, ask your healthcare provider or pharmacist.
@@ -160,7 +174,7 @@ Keep DELESTROGEN out of the reach of children.
 This leaflet provides a summary of the most important information about DELESTROGEN.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about DELESTROGEN that is written for health professionals.
-You can get more information by calling the toll free number 1-866-923-2547.
+You can get more information by calling the toll free number 1-800-828-9393.
 
 What are the ingredients in DELESTROGEN?
 
@@ -173,3 +187,15 @@ How should I store DELESTROGEN?
 
 Store DELESTROGEN at room temperature between 20° to 25°C (68° to 77°F).
 (See USP Controlled Room Temperature.)
+
+Manufactured by:
+
+Par Pharmaceutical Companies, Inc.
+
+Spring Valley, NY 10977
+
+Issued: 09/14
+
+OS110J-1-90-01
+
+3001078E

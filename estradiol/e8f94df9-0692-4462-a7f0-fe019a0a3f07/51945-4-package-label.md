@@ -1,47 +1,41 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Vial Label
 
 NDC 42023-110-01
 
-5 mL MULTIPLE DOSE
-
-10 mg per mL
-
 DELESTROGEN® (estradiol valerate injection, USP)
 
-Read all sides
+50 mg/5 mL
 
-Rx Only
+(10 mg/mL)
 
-JHP PHARMACEUTICALS
+For Intramuscular Use Only
 
-# PRINCIPAL DISPLAY PANEL - 20 mg Carton
+5 mL Multiple Dose Vial
+
+# PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Label
 
 NDC 42023-111-01
 
-5 mL MULTIPLE DOSE
-
-20 mg per mL
-
 DELESTROGEN® (estradiol valerate injection, USP)
 
-Read all sides
+100 mg/5 mL
 
-Rx Only
+(20 mg/mL)
 
-JHP PHARMACEUTICALS
+For Intramuscular Use Only
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Carton
+- 5 mL Multiple Dose Vial
+
+# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Label
 
 NDC 42023-112-01
 
-5 mL MULTIPLE DOSE
-
-40 mg per mL
-
 DELESTROGEN® (estradiol valerate injection, USP)
 
-Read all sides
+200 mg/5 mL
 
-Rx Only
+(40 mg/mL)
 
-JHP PHARMACEUTICALS
+For Intramuscular Use Only
+
+- 5 mL Multiple Dose Vial

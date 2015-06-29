@@ -22,11 +22,11 @@ Because of these risks, estrogens with or without progestins should be prescribe
 
 WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT DELESTROGEN (AN ESTROGEN HORMONE)?
 
-- Estrogens increase the chances of getting cancer of the uterus.
+- •Estrogens increase the chances of getting cancer of the uterus.
   Report any unusual vaginal bleeding right away while you are taking estrogens.
   Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
+- •Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.
   Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots.
   Using estrogens with progestins may increase your risk of dementia.
   You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN.
