@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204737"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "ALVOGEN INC.",
+  "package_ndcs": [
+    "47781-335-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "pyridostigmine bromide",
+      "name": "Pyridostigmine Bromide"
+    }
+  ],
+  "setid": "93454159-0c58-1980-34b9-4038a2260420",
+  "source": "dailymed"
+}
