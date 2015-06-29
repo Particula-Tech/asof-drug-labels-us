@@ -25,7 +25,7 @@ Advise patients to report any signs of new or worsening medical conditions such 
 Instructions for Safe Administration
 
 The first self-injection should be performed under the supervision of a qualified healthcare professional.
-If a patient or caregiver is to administer SIMPONI, he/she should be instructed in injection techniques and their ability to inject subcutaneously should be assessed to ensure the proper administration of SIMPONI
+If a patient or caregiver is to administer SIMPONI, he/she should be instructed in injection techniques and their ability to inject subcutaneously should be assessed to ensure the proper administration of SIMPONI.
 
 Advise the patient to read the FDA-approved Instructions for Use and provide the following instructions to patients:
 
