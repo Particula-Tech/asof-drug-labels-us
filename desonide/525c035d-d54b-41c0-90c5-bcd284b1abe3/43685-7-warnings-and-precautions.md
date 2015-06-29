@@ -16,7 +16,7 @@ Recovery of HPA axis function is generally prompt upon discontinuation of topica
 Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur requiring supplemental systemic corticosteroids.
 For information on systemic supplementation, see prescribing information for those products.
 
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS-Pediatric Use).
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS - Pediatric Use).
 
 If irritation develops, Desonide Ointment, 0.05% should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
@@ -35,19 +35,12 @@ FOR EXTERNAL USE ONLY.
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1.
-This medication is to be used as directed by the physician.
-It is for external use only.
-Avoid contact with the eyes.
-
-2.
-This medication should not be used for any disorder other than that for which it was prescribed.
-
-3.
-The treated skin area should not be bandaged, otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
-
-4.
-Patients should report to their physician any signs of local adverse reactions.
+1. 1.This medication is to be used as directed by the physician.
+   It is for external use only.
+   Avoid contact with the eyes.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged, otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions.
 
 ## Laboratory Tests -
 
@@ -65,7 +58,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic, m
 
 ### Teratogenic Effects:
 
-#### Pregnancy Category C
+#### Pregnancy Category C -
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.

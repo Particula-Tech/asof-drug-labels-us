@@ -12,7 +12,6 @@ Distributed By Perrigo
 
 Allegan, MI 49010 • www.perrigo.com
 
-Rev.
-01/13
+Rev 05-15
 
-:1F100 RC J4
+: 1F100 RC JX1
