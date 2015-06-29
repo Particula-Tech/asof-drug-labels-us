@@ -5,10 +5,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Immune-mediated pneumonitis [see Warnings and Precautions (5.1)].
 - Immune-mediated colitis [see Warnings and Precautions (5.2)].
 - Immune-mediated hepatitis [see Warnings and Precautions (5.3)].
-- Immune-mediated hypophysitis [see Warnings and Precautions (5.4)].
+- Immune-mediated endocrinopathies [see Warnings and Precautions (5.4)].
 - Renal failure and immune-mediated nephritis [see Warnings and Precautions (5.5)].
-- Immune-mediated hyperthyroidism and hypothyroidism [see Warnings and Precautions (5.6)].
-- Immune-mediated adverse reactions [see Warnings and Precautions (5.7)].
+- Other immune-mediated adverse reactions [see Warnings and Precautions (5.6)].
+- Infusion-related reactions [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 

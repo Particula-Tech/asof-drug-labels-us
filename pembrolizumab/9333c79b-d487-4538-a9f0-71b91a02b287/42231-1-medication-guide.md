@@ -23,17 +23,18 @@ Call or see your doctor right away if you develop any symptoms of the following 
 - Liver problems (hepatitis).
   Signs and symptoms of hepatitis may include:
   - yellowing of your skin or the whites of your eyes
-  - dark urine
   - nausea or vomiting
-  - feeling less hungry than usual
   - pain on the right side of your stomach area (abdomen)
+  - dark urine
+  - feeling less hungry than usual
   - bleeding or bruising more easily than normal
-- Hormone gland problems (especially the thyroid, pituitary, and adrenal glands).
+- Hormone gland problems (especially the thyroid, pituitary, adrenal glands, and pancreas).
   Signs and symptoms that your hormone glands are not working properly may include:
   - rapid heart beat
-  - weight loss
+  - weight loss or weight gain
   - increased sweating
-  - weight gain
+  - feeling more hungry or thirsty
+  - urinating more often than usual
   - hair loss
   - feeling cold
   - constipation
@@ -50,11 +51,20 @@ Call or see your doctor right away if you develop any symptoms of the following 
   - changes in eyesight
   - severe or persistent muscle or joint pains
   - severe muscle weakness
+- Infusion (IV) reactions, that can sometimes be severe and life-threatening.
+  Signs and symptoms of infusion reactions may include:
+  - chills or shaking
+  - shortness of breath or wheezing
+  - itching or rash
+  - flushing
+  - dizziness
+  - fever
+  - feeling like passing out
 
 Getting medical treatment right away may help keep these problems from becoming more serious.
 
 Your doctor will check you for these problems during treatment with KEYTRUDA.
-Your doctor may treat you with corticosteroid medicines and delay or completely stop treatment with KEYTRUDA if you have severe side effects.
+Your doctor may treat you with corticosteroid medicines and delay or completely stop treatment with KEYTRUDA, if you have severe side effects.
 
 What is KEYTRUDA?
 
@@ -76,12 +86,12 @@ Before you receive KEYTRUDA, tell your doctor if you:
 - have lung or breathing problems
 - have liver problems
 - have any other medical problems
-- are pregnant or plan to become pregnant.
+- are pregnant or plan to become pregnant
   - KEYTRUDA may harm your unborn baby.
   - Females who are able to become pregnant should use an effective method of birth control during and for at least 4 months after the last dose of KEYTRUDA.
     Talk to your doctor about birth control methods that you can use during this time.
   - Tell your doctor right away if you become pregnant during treatment with KEYTRUDA.
-- are breastfeeding or plan to breastfeed.
+- Are breastfeeding or plan to breastfeed.
   - It is not known if KEYTRUDA passes into your breast milk.
   - Do not breastfeed during treatment with KEYTRUDA.
 
