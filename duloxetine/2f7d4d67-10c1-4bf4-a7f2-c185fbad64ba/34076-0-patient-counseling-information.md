@@ -56,3 +56,10 @@ See FDA-approved patient labeling (Medication Guide).
 - Interference with Psychomotor Performance — Any psychoactive drug may impair judgment, thinking, or motor skills.
   Although in controlled studies CYMBALTA has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that CYMBALTA therapy does not affect their ability to engage in such activities.
+
+Literature revised June 2015
+
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2004, 2015, Eli Lilly and Company.
+All rights reserved.
+
+CYM-0006-USPI-20150618

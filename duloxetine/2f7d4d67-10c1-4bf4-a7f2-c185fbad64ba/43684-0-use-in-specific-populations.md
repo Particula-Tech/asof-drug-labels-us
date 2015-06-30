@@ -60,7 +60,7 @@ The safety and effectiveness in pediatric patients less than 7 years of age have
 
 Major Depressive Disorder — Efficacy was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients with MDD, age 7-17.
 Neither CYMBALTA nor an active control (indicated for treatment of pediatric depression) was superior to placebo.
-Thus, safety and effectiveness of CYMBALTA have not been established in pediatric patients less than 18 years of age with MDD.
+The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
 
 The most frequently observed adverse reactions in the clinical trials included nausea, headache, decreased weight, and abdominal pain.
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
