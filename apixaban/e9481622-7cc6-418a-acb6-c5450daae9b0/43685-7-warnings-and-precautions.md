@@ -4,11 +4,11 @@
 
 Premature discontinuation of any oral anticoagulant, including ELIQUIS, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in atrial fibrillation patients.
-If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.5) and Clinical Studies (14.1)].
+If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4) and Clinical Studies (14.1)].
 
 ## 5.2 Bleeding
 
-ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
+ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding [see Dosage and Administration (2.1) and Adverse Reactions (6.1)].
 
 Concomitant use of drugs affecting hemostasis increases the risk of bleeding.
 These include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitors, and nonsteroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)].

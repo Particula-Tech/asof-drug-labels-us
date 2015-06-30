@@ -94,14 +94,14 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban
 
-* ESRD subjects maintained with chronic and stable hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Creatinine clearance 15 to 29 mL/min. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations.
+* ESRD subjects maintained with chronic and stable hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) are present.
 
-A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
+Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
 
-The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects.
+Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects.
 No dose adjustment is required based on race/ethnicity.
 
-In subjects with ESRD, a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min started 2 hours after administration of a single 5 mg dose of apixaban, the AUC of apixaban was 17% greater compared to those with normal renal function.
+Hemodialysis in ESRD subjects: Following a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min started 2 hours after administration of a single 5 mg dose of apixaban, the AUC of apixaban was 17% greater compared to those with normal renal function.
 The dialysis clearance of apixaban is approximately 18 mL/min resulting in a 14% decrease in exposure due to hemodialysis compared to off-dialysis period.
 
 Protein binding was similar (92%-94%) between healthy controls and the on-dialysis and off-dialysis periods.

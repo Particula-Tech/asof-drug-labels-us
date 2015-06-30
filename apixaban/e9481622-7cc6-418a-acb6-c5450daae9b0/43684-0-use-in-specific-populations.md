@@ -38,8 +38,16 @@ In the ADVANCE-1, ADVANCE-2, and ADVANCE-3 clinical studies, 50% of subjects wer
 In the AMPLIFY and AMPLIFY-EXT clinical studies, >32% of subjects were 65 and older and >13% were 75 and older.
 No clinically significant differences in safety or effectiveness were observed when comparing subjects in different age groups.
 
-## 8.6 End-Stage Renal Disease Patients Maintained with Hemodialysis
+## 8.6 Renal Impairment
 
-Patients with ESRD with or without hemodialysis were not studied in clinical efficacy and safety studies with ELIQUIS; therefore, the dosing recommendation for patients with nonvalvular atrial fibrillation is based on pharmacokinetic and pharmacodynamic (anti-Factor Xa activity) data in subjects with ESRD maintained on dialysis.
-The recommended dose for ESRD patients maintained with hemodialysis is 5 mg orally twice daily.
-For ESRD patients maintained with hemodialysis with one of the following patient characteristics, age ≥80 years or body weight ≤60 kg, reduce dose to 2.5 mg twice daily [see Dosage and Administration (2.7) and Clinical Pharmacology (12.2, 12.3)].
+No dose adjustment is recommended for patients with renal impairment alone, including those with end-stage renal disease (ESRD) maintained on hemodialysis, except nonvalvular atrial fibrillation patients who meet the criteria for dosage adjustment [see Dosage and Administration (2.1)].
+
+Patients with ESRD (CrCl <15 mL/min) receiving or not receiving hemodialysis were not studied in clinical efficacy and safety studies with ELIQUIS; therefore, the dosing recommendations are based on pharmacokinetic and pharmacodynamic (anti-Factor Xa activity) data in subjects with ESRD maintained on dialysis [see Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+No dose adjustment is required in patients with mild hepatic impairment (Child-Pugh class A).
+
+Because patients with moderate hepatic impairment (Child-Pugh class B) may have intrinsic coagulation abnormalities and there is limited clinical experience with ELIQUIS in these patients, dosing recommendations cannot be provided [see Clinical Pharmacology (12.2)].
+
+ELIQUIS is not recommended in patients with severe hepatic impairment (Child-Pugh class C) [see Clinical Pharmacology (12.2)].

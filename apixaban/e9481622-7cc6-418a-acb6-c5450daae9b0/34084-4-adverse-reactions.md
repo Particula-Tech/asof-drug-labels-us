@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-### Reduction of Risk of Stroke and Systemic Embolism in Nonvalvular Atrial Fibrillation
+### Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
 
 The safety of ELIQUIS was evaluated in the ARISTOTLE and AVERROES studies [see Clinical Studies (14)], including 11,284 patients exposed to ELIQUIS 5 mg twice daily and 602 patients exposed to ELIQUIS 2.5 mg twice daily.
 The duration of ELIQUIS exposure was ≥12 months for 9375 patients and ≥24 months for 3369 patients in the two studies.
@@ -168,7 +168,7 @@ Bleeding results from the AMPLIFY-EXT study are summarized in Table 7.
 
 Table 7: Bleeding Results in the AMPLIFY-EXT Study
 
-|  | ELIQUIS 2.5 mg N=840 n (%) | ELIQUIS 5 mg N=811 n (%) | Placebo N=826 n (%) |
+|  | ELIQUIS 2.5 mg bid N=840 n (%) | ELIQUIS 5 mg bid N=811 n (%) | Placebo N=826 n (%) |
 | --- | --- | --- | --- |
 | Major | 2 (0.2) | 1 (0.1) | 4 (0.5) |
 | CRNM* | 25 (3.0) | 34 (4.2) | 19 (2.3) |
@@ -181,7 +181,7 @@ Adverse reactions occurring in ≥1% of patients in the AMPLIFY-EXT study are li
 
 Table 8: Adverse Reactions Occurring in ≥1% of Patients Undergoing Extended Treatment for DVT and PE in the AMPLIFY-EXT Study
 
-|  | ELIQUIS 2.5 mg N=840 n (%) | ELIQUIS 5 mg N=811 n (%) | Placebo N=826 n (%) |
+|  | ELIQUIS 2.5 mg bid N=840 n (%) | ELIQUIS 5 mg bid N=811 n (%) | Placebo N=826 n (%) |
 | --- | --- | --- | --- |
 | Epistaxis | 13 (1.5) | 29 (3.6) | 9 (1.1) |
 | Hematuria | 12 (1.4) | 17 (2.1) | 9 (1.1) |

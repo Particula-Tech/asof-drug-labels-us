@@ -58,7 +58,7 @@ Figure 5: Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics
 
 At the end of the ARISTOTLE study, warfarin patients who completed the study were generally maintained on a VKA with no interruption of anticoagulation.
 ELIQUIS patients who completed the study were generally switched to a VKA with a 2-day period of coadministration of ELIQUIS and VKA, so that some patients may not have been adequately anticoagulated after stopping ELIQUIS until attaining a stable and therapeutic INR.
-During the 30 days following the end of the study, there were 21 stroke or systemic embolism events in the 6791 patients (0.3%) in the ELIQUIS arm compared to 5 in the 6569 patients (0.1%) in the warfarin arm [see Dosage and Administration (2.5)].
+During the 30 days following the end of the study, there were 21 stroke or systemic embolism events in the 6791 patients (0.3%) in the ELIQUIS arm compared to 5 in the 6569 patients (0.1%) in the warfarin arm [see Dosage and Administration (2.4)].
 
 ### AVERROES
 
@@ -121,7 +121,7 @@ Table 12: Summary of Key Efficacy Analysis Results During the Intended Treatment
 
 |  | ADVANCE-1 |  |  | ADVANCE-2 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Events during 12-day treatment period | ELIQUIS 2.5 mg po bid | Enoxaparin 30 mg sc q12h | Relative Risk (95% CI) P-value | ELIQUIS 2.5 mg po bid | Enoxaparin 40 mg sc qd | Relative Risk (95% CI)P-value |  |  |  |  |
+| Events during 12-day treatment period | ELIQUIS 2.5 mg po bid | Enoxaparin 30 mg sc q12h | Relative Risk (95% CI) P-value | ELIQUIS 2.5 mg po bid | Enoxaparin 40 mg scqd | Relative Risk (95% CI)P-value |  |  |  |  |
 | Number of Patients | N=1157 | N=1130 |  | N=976 | N=997 |  |  |  |  |  |
 | Total VTE†/All-cause death | 104 (8.99%) (7.47, 10.79) | 100 (8.85%) (7.33, 10.66) | 1.02 (0.78, 1.32) NS | 147 (15.06%) (12.95, 17.46) | 243 (24.37%) (21.81, 27.14) | 0.62 (0.51, 0.74) p<0.0001 |  |  |  |  |
 | Number of Patients | N=1599 | N=1596 |  | N=1528 | N=1529 |  |  |  |  |  |
@@ -169,8 +169,7 @@ Table 13: Efficacy Results in the AMPLIFY Study
 | VTE-related death† | 12 (0.4%) | 16 (0.6%) |  |
 | VTE or all-cause death | 84 (3.2%) | 104 (4.0%) | 0.82 (0.61, 1.08) |
 | VTE or CV-related death | 61 (2.3%) | 77 (2.9%) | 0.80 (0.57, 1.11) |
-| * Noninferior compared to enoxaparin/warfarin (P-value <0.0001). |  |  |  |
-| † Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
+| * Noninferior compared to enoxaparin/warfarin (P-value <0.0001). † Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
 
 In the AMPLIFY study, patients were stratified according to their index event of PE (with or without DVT) or DVT (without PE).
 Efficacy in the initial treatment of VTE was consistent between the two subgroups.
@@ -190,7 +189,7 @@ In the AMPLIFY-EXT study, both doses of ELIQUIS were superior to placebo in the 
 
 Table 14: Efficacy Results in the AMPLIFY-EXT Study
 
-|  | ELIQUIS 2.5 mg N=840 | ELIQUIS 5 mg N=813 | Placebo N=829 | ELIQUIS 2.5 mg vs Placebo | ELIQUIS 5 mg vs Placebo |
+|  | ELIQUIS 2.5 mg bid N=840 | ELIQUIS 5 mg bid N=813 | Placebo N=829 | ELIQUIS 2.5 mg bid vs Placebo | ELIQUIS 5 mg bid vs Placebo |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  | Relative Risk (95% CI) |  |
 |  | n (%) |  |  |  |  |

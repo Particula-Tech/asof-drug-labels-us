@@ -6,6 +6,12 @@
 
 The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.
 
+The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with at least two of the following characteristics:
+
+- ●age ≥80 years
+- ●body weight ≤60 kg
+- ●serum creatinine ≥1.5 mg/dL
+
 ### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily.
@@ -16,65 +22,43 @@ The initial dose should be taken 12 to 24 hours after surgery.
 
 ### Treatment of DVT and PE
 
-The recommended dose of ELIQUIS is 10 mg taken orally twice daily for 7 days, followed by 5 mg taken orally twice daily.
+The recommended dose of ELIQUIS is 10 mg taken orally twice daily for the first 7 days of therapy.
+After 7 days, the recommended dose is 5 mg taken orally twice daily.
 
 ### Reduction in the Risk of Recurrence of DVT and PE
 
 The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily after at least 6 months of treatment for DVT or PE [see Clinical Studies (14.3)].
 
-## 2.2 Dosage Adjustments
-
-In patients with nonvalvular atrial fibrillation: The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with any 2 of the following characteristics:
-
-- ●age ≥80 years
-- ●body weight ≤60 kg
-- ●serum creatinine ≥1.5 mg/dL
-
-Coadministration with strong dual CYP3A4 and P-gp inhibitors: For patients receiving ELIQUIS doses greater than 2.5 mg twice daily, reduce the dose by 50% when ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin) [see Clinical Pharmacology (12.3)].
-
-In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with strong dual inhibitors of CYP3A4 and P-gp [see Drug Interactions (7.1)].
-
-## 2.3 Missed Dose
+## 2.2 Missed Dose
 
 If a dose of ELIQUIS is not taken at the scheduled time, the dose should be taken as soon as possible on the same day and twice-daily administration should be resumed.
 The dose should not be doubled to make up for a missed dose.
 
-## 2.4 Temporary Interruption for Surgery and Other Interventions
+## 2.3 Temporary Interruption for Surgery and Other Interventions
 
 ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding.
 ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be non-critical in location and easily controlled.
 Bridging anticoagulation during the 24 to 48 hours after stopping ELIQUIS and prior to the intervention is not generally required.
 ELIQUIS should be restarted after the surgical or other procedures as soon as adequate hemostasis has been established.
 
-## 2.5 Converting from or to ELIQUIS
+## 2.4 Converting from or to ELIQUIS
 
 Switching from warfarin to ELIQUIS: Warfarin should be discontinued and ELIQUIS started when the international normalized ratio (INR) is below 2.0.
 
 Switching from ELIQUIS to warfarin: ELIQUIS affects INR, so that initial INR measurements during the transition to warfarin may not be useful for determining the appropriate dose of warfarin.
-If continuous anticoagulation is necessary, discontinue ELIQUIS and begin both a parenteral anticoagulant and warfarin at the time the next dose of ELIQUIS would have been taken, discontinuing the parenteral anticoagulant when INR reaches an acceptable range.
+One approach is to discontinue ELIQUIS and begin both a parenteral anticoagulant and warfarin at the time the next dose of ELIQUIS would have been taken, discontinuing the parenteral anticoagulant when INR reaches an acceptable range.
 
-Switching between ELIQUIS and anticoagulants other than warfarin: Discontinue one being taken and begin the other at the next scheduled dose.
+Switching from ELIQUIS to anticoagulants other than warfarin (oral or parenteral): Discontinue ELIQUIS and begin taking the new anticoagulant other than warfarin at the usual time of the next dose of ELIQUIS.
 
-## 2.6 Hepatic Impairment
+Switching from anticoagulants other than warfarin (oral or parenteral) to ELIQUIS: Discontinue the anticoagulant other than warfarin and begin taking ELIQUIS at the usual time of the next dose of the anticoagulant other than warfarin.
 
-No dose adjustment is required in patients with mild hepatic impairment.
+## 2.5 Strong Dual Inhibitors of CYP3A4 and P-glycoprotein
 
-Because patients with moderate hepatic impairment may have intrinsic coagulation abnormalities and there is limited clinical experience with ELIQUIS in these patients, dosing recommendations cannot be provided [see Clinical Pharmacology (12.2)].
+For patients receiving ELIQUIS doses of 5 mg or 10 mg twice daily, reduce the dose by 50% when ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin) [see Clinical Pharmacology (12.3)].
 
-ELIQUIS is not recommended in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with strong dual inhibitors of CYP3A4 and P-gp [see Drug Interactions (7.1)].
 
-## 2.7 Renal Impairment
-
-The dosing adjustment for patients with moderate renal impairment and nonvalvular atrial fibrillation is described above [see Dosage and Administration (2.2)].
-The recommended dose for nonvalvular atrial fibrillation patients with end-stage renal disease (ESRD) maintained on hemodialysis is 5 mg twice daily.
-Reduce dose to 2.5 mg twice daily if one of the following patient characteristics (age ≥80 years or body weight ≤60 kg) is present [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-
-No dose adjustment is required for the following indications:
-
-- ●for the prophylaxis of DVT, which may lead to PE, in patients who have undergone hip or knee replacement surgery.
-- ●for the treatment of DVT and PE, and for the reduction in the risk of recurrent DVT and PE.
-
-## 2.8 Administration Options
+## 2.6 Administration Options
 
 For patients who are unable to swallow whole tablets, 5 mg and 2.5 mg ELIQUIS tablets may be crushed and suspended in 60 mL D5W and immediately delivered through a nasogastric tube (NGT) [see Clinical Pharmacology (12.3)].
 Information regarding the administration of crushed and suspended ELIQUIS tablets swallowed by mouth is not available.
