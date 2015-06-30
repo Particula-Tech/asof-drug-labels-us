@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017351"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Meda Pharmaceuticals",
+  "package_ndcs": [
+    "0037-6830-15"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "hydrocortisone acetate",
+      "name": "Cortifoam"
+    }
+  ],
+  "setid": "0093b694-9fcb-46ae-b1ab-7d0fa204c6c8",
+  "source": "dailymed"
+}
