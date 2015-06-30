@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adverse reactions occurring at a rate of ≥3%, excluding those reported more commonly in placebo, encountered in the INNOPRAN XL placebo-controlled hypertension trials and plausibly related to treatment are shown in Table 1.
 
 Table 1.
-Treatment Emergent Adverse Reactions Reported In ≥3% of Subjects
+Treatment-Emergent Adverse Reactions Reported In ≥3% of Subjects
 
 |  |  | INNOPRAN XL |  |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Autoimmune: Systemic lupus erythematosus (SLE).
 
 Cardiovascular: exacerbation of peripheral arterial disease, arterial insufficiency, usually of the Raynaud type.
 
-Central Nervous System: Light-headedness, mental depression, insomnia, lassitude, weakness, fatigue visual disturbances, hallucinations, vivid dreams, short-term memory loss, emotional lability, slightly clouded sensorium, paresthesia of hands
+Central Nervous System: Light-headedness, mental depression, insomnia, lassitude, weakness, fatigue, visual disturbances, hallucinations, vivid dreams, short-term memory loss, emotional lability, slightly clouded sensorium, paresthesia of hands.
 
 Gastrointestinal: Nausea, vomiting, epigastric distress, abdominal cramping, diarrhea, mesenteric arterial thrombosis, ischemic colitis.
 
@@ -38,6 +38,6 @@ Genitourinary: Male impotence; Peyronie’s disease.
 
 Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
 
-Musculoskeletal: Myopathy, myotonia
+Musculoskeletal: Myopathy, myotonia.
 
 Skin and mucous membranes: Stevens-Johnson syndrome, toxic epidermal necrolysis, dry eyes, exfoliative dermatitis, erythema multiforme, urticaria, alopecia, SLE-like reactions, and psoriasisiform rashes.

@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no adequate and well controlled studies in pregnant women.
+Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women.
 Intrauterine growth retardation, small placentas, and congenital anomalies have been reported for neonates whose mothers received propranolol HCl during pregnancy.
 
 Animal Data: In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.

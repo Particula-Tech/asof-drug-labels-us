@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INNOPRAN XL (propranolol hydrochloride) Extended Release Capsules are supplied as capsules containing either 80 mg, or 120 mg propranolol hydrochloride imprinted with “InnoPran XL”.
+INNOPRAN XL (propranolol hydrochloride) Extended-Release Capsules are supplied as capsules containing either 80 mg, or 120 mg propranolol hydrochloride imprinted with “InnoPran XL”.
 
 | Strength | Color | Bands | NDC 24090-xxx-xx |  |
 | --- | --- | --- | --- | --- |
