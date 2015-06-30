@@ -109,7 +109,7 @@ Following oral administration, only 9% of olodaterol and/or its metabolites was 
 More than 90% of the dose was excreted within 6 and 5 days following intravenous and oral administration, respectively.
 Following inhalation, excretion of unchanged olodaterol in urine within the dosing interval in healthy volunteers at steady state accounted for 5% to 7% of the dose.
 
-Drug Interactions STIOLTO RESPIMAT Pharmacokinetic drug interaction studies with STIOLTO RESPIMAT have not been performed; however such studies have been conducted with individual components tiotropium and olodaterol.
+Drug Interactions STIOLTO RESPIMAT Pharmacokinetic drug interaction studies with STIOLTO RESPIMAT have not been performed; however, such studies have been conducted with individual components tiotropium and olodaterol.
 
 When tiotropium and olodaterol were administered in combination by the inhaled route, the pharmacokinetic parameters for each component were similar to those observed when each active substance was administered separately.
 
@@ -122,15 +122,15 @@ Common concomitant medications (long-acting beta2-adrenergic agonists (LABA), in
 Olodaterol Drug-drug interaction studies were carried out using fluconazole as a model inhibitor of CYP 2C9 and ketoconazole as a potent P-gp (and CYP3A4, 2C8, 2C9) inhibitor.
 
 Fluconazole: Co-administration of 400 mg fluconazole once a day for 14 days had no relevant effect on systemic exposure to olodaterol.
-Ketoconazole: Co-administration of 400 mg ketoconazole once a day for 14 days increased olodaterol Cmax by 66% and AUC0–1 by 68%.
+Ketoconazole: Co-administration of 400 mg ketoconazole once a day for 14 days increased olodaterol Cmax by 66% and AUC0-1 by 68%.
 Tiotropium: Co-administration of tiotropium bromide, delivered as a fixed-dose combination with olodaterol, for 21 days had no relevant effect on systemic exposure to olodaterol, and vice versa.
 
 Specific Populations Olodaterol A pharmacokinetic meta-analysis showed that no dose adjustment is necessary based on the effect of age, gender, and weight on systemic exposure in COPD patients after inhalation of olodaterol.
 
-Geriatric Patients Tiotropium As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (347 ml/min in COPD patients <65 years to 275 ml/min in COPD patients ≥65 years).
+Geriatric Patients Tiotropium As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (347 mL/min in COPD patients <65 years to 275 mL/min in COPD patients ≥65 years).
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values.
 
-Renal Impairment Tiotropium Following inhaled administration of therapeutic doses of tiotropium to steady-state to patients with COPD, mild renal impairment (creatinine clearance 60-90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ss values.
+Renal Impairment Tiotropium Following inhaled administration of therapeutic doses of tiotropium to steady-state to patients with COPD, mild renal impairment (creatinine clearance 60-90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ssvalues.
 Moderate renal impairment (creatinine clearance 30-60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
 In COPD patients with severe renal impairment (CLCR <30 mL/min), a single intravenous administration of tiotropium bromide resulted in 94% higher AUC0-4 and 52% higher Cmax compared to COPD patients with normal renal function.
 

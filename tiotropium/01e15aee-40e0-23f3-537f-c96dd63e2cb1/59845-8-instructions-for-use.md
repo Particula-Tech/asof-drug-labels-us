@@ -2,7 +2,7 @@ Instructions for Use
 
 STIOLTOTM RESPIMAT® (sti-OL-to- RES peh mat) (tiotropium bromide and olodaterol) Inhalation Spray
 
-For Oral Inhalation Only Do not spray STIOLTO RESPIMAT into your eyes.
+For Oral Inhalation Only Do not spray STIOLTO RESPIMAT into your eyes
 
 Read these Instructions for Use before you start using STIOLTO RESPIMAT and each time you get a refill.
 There may be new information.
@@ -30,7 +30,7 @@ The STIOLTO RESPIMAT inhaler
 | Figure 7 | Step 7. Point the STIOLTO RESPIMAT inhaler toward the ground (away from your face). Press the dose release button. See Figure 7. Close the light green cap. Repeat Steps 5, 6, and 7 until a spray is visible. Once the spray is visible, you must repeat Steps 5, 6, and 7 three more times to make sure the inhaler is prepared for use. Your STIOLTO RESPIMAT inhaler is now ready to use. These steps will not affect the number of doses available. After preparation and initial priming, your STIOLTO RESPIMAT inhaler will be able to deliver the labeled number of doses (30 or 14). |  |
 | Daily Dosing |  |  |
 | Figure A | Step A. Hold the STIOLTO RESPIMAT inhaler upright, with the light green cap closed, so you do not accidentally release a dose of medicine. Turn the clear base in the direction of the black arrows on the label until it clicks (half a turn). See Figure A. |  |
-| Figure B | Step B. Flip the light green cap until it snaps fully open. Breathe out slowly and fully, and then close your lips around the end of the mouthpiece without covering the air vents. See Figure B. Point your STIOLTO RESPIMAT inhaler to the back of your throat. While taking in a slow, deep breath through your mouth, press the dose release button and continue to breathe in slowly for as long as you can. Hold your breath for 10 seconds or for as long as comfortable. Step C. Repeat Steps A and B so that you get the full dose.Close the light green cap until you use your STIOLTO RESPIMAT inhaler again. |  |
+| Figure B | Step B. Flip the light green cap until it snaps fully open. Breathe out slowly and fully, and then close your lips around the end of the mouthpiece without covering the air vents. See Figure B. Point your STIOLTO RESPIMAT inhaler to the back of your throat. While taking in a slow, deep breath through your mouth, press the dose release button and continue to breathe in slowly for as long as you can. Hold your breath for 10 seconds or for as long as comfortable. Step C. Repeat Steps A and B so that you get the full dose. Close the light green cap until you use your STIOLTO RESPIMAT inhaler again. |  |
 |  | Helpful Hints for Daily Dosing: Using the STIOLTO RESPIMAT inhaler requires 3 simple steps. A helpful way to remember the steps for Daily Dosing is to remember TOP: Turn the clear base Open the cap and close your lips around the mouthpiece Press the dose-release button and inhale These steps should be performed 2 times to receive the proper dose of medicine. |  |
 | If your STIOLTO RESPIMAT inhaler has not been used for more than 3 days, spray 1 puff toward the ground to prepare the inhaler for use. If your STIOLTO RESPIMAT inhaler has not been used for more than 21 days, repeat Steps 5, 6, and 7 until a spray is visible. Then repeat Steps 5, 6, and 7 three more times to prepare the inhaler for use. The STIOLTO RESPIMAT inhaler should be discarded no later than 3 months from the date the cartridge is inserted into the inhaler. For more information about STIOLTO RESPIMAT or a video demonstration on how to use STIOLTO RESPIMAT, go to www.STIOLTO.com, or scan the code below. You may also call 1-800-542-6257 or (TTY) 1-800-459-9906 for further information about STIOLTO RESPIMAT. |  |  |
 | When should I get a new STIOLTO RESPIMAT inhaler? |  |  |
@@ -45,6 +45,7 @@ The STIOLTO RESPIMAT inhaler
 | I can turn the clear base past the point where it clicks? | Either the dose release button has been pressed, or the clear base has been turned too far. | With the light green cap closed, turn the clear base until it clicks (half a turn). |
 
 How should I care for my STIOLTO RESPIMAT inhaler?
+
 Clean the mouthpiece, including the metal part inside the mouthpiece, with a damp cloth or tissue only, at least 1 time a week.
 Any minor discoloration in the mouthpiece does not affect your STIOLTO RESPIMAT inhaler.
 
@@ -67,6 +68,6 @@ Copyright © 2015 Boehringer Ingelheim International GmbH.
 
 ALL RIGHTS RESERVED
 
-Revised: May 2015
+Revised: June 2015
 
-IT6053AE202015 305630-01
+IT6053DF192015 305630-03

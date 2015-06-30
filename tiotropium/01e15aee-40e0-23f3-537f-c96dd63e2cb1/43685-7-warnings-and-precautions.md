@@ -8,8 +8,7 @@
   The increased risk of asthma-related death is considered a class effect of long-acting beta2-adrenergic agonists, including olodaterol, one of the active ingredients in STIOLTO RESPIMAT.
   No study adequate to determine whether the rate of asthma-related death is increased in patients treated with STIOLTO RESPIMAT has been conducted.
   The safety and efficacy of STIOLTO RESPIMAT in patients with asthma have not been established.
-  STIOLTO RESPIMAT is not indicated for the treatment of asthma.
-  [See Contraindications (4)]
+  STIOLTO RESPIMAT is not indicated for the treatment of asthma [See Contraindications (4)].
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 

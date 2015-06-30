@@ -24,7 +24,7 @@ Drugs that are known to prolong the QTc interval may be associated with an incre
 Beta-adrenergic receptor antagonists (beta-blockers) and the olodaterol component of STIOLTO RESPIMAT may interfere with the effect of each other when administered concurrently.
 Beta-blockers not only block the therapeutic effects of beta-agonists, but may produce severe bronchospasm in COPD patients.
 Therefore, patients with COPD should not normally be treated with beta-blockers.
-However, under certain circumstances, e.g. as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with COPD.
+However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with COPD.
 In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution.
 
 ## 7.6 Anticholinergics

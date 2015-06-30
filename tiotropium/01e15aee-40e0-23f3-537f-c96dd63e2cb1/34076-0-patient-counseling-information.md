@@ -55,6 +55,6 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 SPIRIVA®, HandiHaler®, STRIVERDI®, STIOLTO™ and RESPIMAT® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2015 Boehringer Ingelheim International GmbH, ALL RIGHTS RESERVED
+Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT6053AE202015 305630-01
+IT6053DF192015 305630-03
