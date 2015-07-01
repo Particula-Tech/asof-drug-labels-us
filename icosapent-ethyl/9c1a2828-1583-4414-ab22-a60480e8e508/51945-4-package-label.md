@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 120 Capsule Bottle Label
+# PRINCIPAL DISPLAY PANEL - 120 Capsule Bottle Label
 
 NDC 52937-001-20
 

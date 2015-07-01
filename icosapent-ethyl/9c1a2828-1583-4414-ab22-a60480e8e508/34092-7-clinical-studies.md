@@ -34,4 +34,4 @@ The reduction in TG observed with VASCEPA was not associated with elevations in 
 
 The effect of VASCEPA on the risk of pancreatitis in patients with severe hypertriglyceridemia has not been determined.
 
-The effect of VASCEPA on cardiovascular mortality and morbidity in patients with severe hypertriglyceridemia levels has not been determined.
+The effect of VASCEPA on cardiovascular mortality and morbidity in patients with severe hypertriglyceridemia has not been determined.
