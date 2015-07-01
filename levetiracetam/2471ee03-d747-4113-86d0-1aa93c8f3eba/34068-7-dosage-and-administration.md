@@ -12,21 +12,51 @@ Levetiracetam tablets should not be chewed or crushed.
 
 ## 2.2 Dosing for Partial Onset Seizures
 
-Adults 16 Years and Older Initiate treatment with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
+Adults 16 Years and Older
+
+Initiate treatment with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg.
 There is no evidence that doses greater than 3000 mg/day confer additional benefit.
-Pediatric Patients Dosing information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-4 Years to < 16 Years Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+
+Pediatric Patients
+
+1 Month to < 6 Months
+
+Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
+Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
+In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
+The effectiveness of lower doses has not been studied.
+
+6 Months to <4 Years:
+
+Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+Increase the daily dose in 2 weeks by an increment of 20 mg/kg to the recommended daily dose of 50 mg/kg (25 mg/kg twice daily).
+If a patient cannot tolerate a daily dose of 50 mg/kg, the daily dose may be reduced.
+In the clinical trial, the mean daily dose was 47 mg/kg in this age group.
+
+4 Years to < 16 Years
+
+Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
 If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
 In the clinical trial, the mean daily dose was 44 mg/kg.
 The maximum daily dose was 3000 mg/day.
+
 For levetiracetam tablet dosing in pediatric patients weighing 20 to 40 kg, initiate treatment with a daily dose of 500 mg given as twice daily dosing (250 mg twice daily).
 Increase the daily dose every 2 weeks by increments of 500 mg to a maximum recommended daily dose of 1500 mg (750 mg twice daily).
+
 For levetiracetam tablet dosing in pediatric patients weighing more than 40 kg, initiate treatment with a daily dose of 1000 mg/day given as twice daily dosing (500 mg twice daily).
 Increase the daily dose every 2 weeks by increments of 1000 mg/day to a maximum recommended daily dose of 3000 mg (1500 mg twice daily).
-Levetiracetam Oral Solution Weight-Based Dosing Calculation For Pediatric Patients The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients: Daily dose (mg/kg/day) x patient weight (kg) Total daily dose (mL/day) = ----------------------------------------------------------- 100 mg/mL
+
+Levetiracetam Oral Solution Weight-Based Dosing Calculation For Pediatric Patients
+
+The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
+
+Daily dose (mg/kg/day) x patient weight (kg)
+
+Total daily dose (mL/day) = -------------------------------------------------------------
+
+100 mg/mL
 
 ## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
 

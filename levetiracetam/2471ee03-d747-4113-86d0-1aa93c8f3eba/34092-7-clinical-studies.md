@@ -81,8 +81,19 @@ Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 | *statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
-Clinical trial information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Effectiveness in Partial Onset Seizures in Pediatric Patients 1 Month to <4 Years with Epilepsy
+
+The effectiveness of levetiracetam as adjunctive therapy in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 5), conducted at 62 sites in North America, South America, and Europe in pediatric patients 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
+Eligible patients on a stable dose of 1 to 2 AEDs, who experienced at least 2 partial onset seizures during the 48-hour baseline video EEG were randomized to receive either levetiracetam or placebo.
+The enrolled population included 116 patients (levetiracetam N=60, placebo N=56) with refractory partial onset seizures, whether or not secondarily generalized.
+Randomization was stratified by age range as follows: 1 month to less than 6 months of age (N=4 treated with levetiracetam), 6 months to less than 1 year of age (N=8 treated with levetiracetam), 1 year to less than 2 years of age (N=20 treated with levetiracetam), and 2 years to less than 4 years of age (N=28 treated with levetiracetam).
+The study consisted of a 5-day evaluation period which included a 1-day titration period followed by a 4-day maintenance period.
+Levetiracetam dosing was determined by age and weight as follows: children 1 month to less than 6 months old were randomized to a target dose of 40 mg/kg/day, and children 6 months to less than 4 years old were randomized to a target dose of 50 mg/kg/day.
+The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG performed during the last two days of the 4-day maintenance period.
+A total of 109 patients were included in the efficacy analysis.
+A statistically significant difference between levetiracetam and placebo was observed (see Figure 5).
+The treatment effect associated with levetiracetam was consistent across age groups.
 
 ## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 

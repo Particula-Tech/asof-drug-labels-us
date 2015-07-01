@@ -37,7 +37,7 @@ What are levetiracetam tablets?
 
 Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- partial onset seizures in people 4 years of age and older with epilepsy
+- partial onset seizures in people 1 month of age and older with epilepsy
 - myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
@@ -145,9 +145,5 @@ You can ask your pharmacist or healthcare provider for information about levetir
 You can also get information about levetiracetam tablets by calling 1-866-850-2876.
 What are the ingredients of levetiracetam tablets?
 Active ingredient: levetiracetam Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, purified water and additional agents listed below: 250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake 500 mg tablets: iron oxide yellow 750 mg tablets: FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake and iron oxide red.
-
-Information on the use of levetiracetam in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 04/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 06/2015
