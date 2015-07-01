@@ -2,7 +2,7 @@
 
 ## 14.1 Bridging Study to Demonstrate Pharmacokinetic Equivalence between Extended-Release and Immediate-Release Topiramate Formulations
 
-The basis for approval of the extended-release formulation (Trokendi XR™) included the studies described below using an immediate-release formulation and the demonstration of the pharmacokinetic equivalence of Trokendi XR™ to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
+The basis for approval of the extended-release formulation (TROKENDI XR®) included the studies described below using an immediate-release formulation and the demonstration of the pharmacokinetic equivalence of TROKENDI XR® to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
 
 The clinical studies described in the following sections were conducted using immediate-release topiramate.
 
@@ -17,7 +17,7 @@ Forty-nine percent of subjects had no prior AED treatment and 17% had a diagnosi
 Any AED therapy used for temporary or emergency purposes was discontinued prior to randomization.
 In the double-blind phase, 470 patients were randomized to titrate up to 50 mg per day or 400 mg per day of topiramate.
 If the target dose could not be achieved, patients were maintained on the maximum tolerated dose.
-Fifty eight percent of patients achieved the maximal dose of 400 mg per day for greater than 2 weeks, and patients who did not tolerate 150 mg per day were discontinued.
+Fifty-eight percent of patients achieved the maximal dose of 400 mg per day for greater than 2 weeks, and patients who did not tolerate 150 mg per day were discontinued.
 
 The primary efficacy assessment was a between-group comparison of time to first seizure during the double-blind phase.
 Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg per day group over the topiramate 50 mg per day group (p=0.0002, log rank test; Figure 1).
@@ -77,7 +77,7 @@ Following randomization, patients began the double-blind phase of treatment.
 Patients received active drug beginning at 25 or 50 mg per day; the dose was then increased by 25 mg to 150 mg per day increments every other week until the assigned dosage of 125, 175, 225 or 400 mg per day based on patients' weight to approximate a dosage of 6 mg/kg/day per day was reached, unless intolerance prevented increases.
 After titration, patients entered an 8-week stabilization period.
 
-## 14.4 Adjunctive Therapy in Patients With Primary Generalized Tonic-Clonic Seizures
+## 14.4 Adjunctive Therapy in Patients with Primary Generalized Tonic-Clonic Seizures
 
 The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years old and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo.
 
@@ -89,7 +89,7 @@ Following randomization, patients began the double-blind phase of treatment.
 Patients received active drug beginning at 50 mg per day for four weeks; the dose was then increased by 50 mg to 150 mg per day increments every other week until the assigned dose of 175, 225 or 400 mg per day based on patients' body weight to approximate a dosage of 6 mg/kg/day was reached, unless intolerance prevented increases.
 After titration, patients entered a 12-week stabilization period.
 
-## 14.5 Adjunctive Therapy in Patients With Lennox-Gastaut Syndrome
+## 14.5 Adjunctive Therapy in Patients with Lennox-Gastaut Syndrome
 
 The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial comparing a single dosage of topiramate with placebo in patients 2 years of age and older (Study 10).
 
@@ -106,7 +106,7 @@ As described above, a global improvement in seizure severity was also assessed i
 
 Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
-| Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/ kg/dayFor Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
+| Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/dayFor Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Target Topiramate Dosage (mg per day) |  |  |  |  |  |  |  |  |
 | Partial Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
@@ -140,7 +140,7 @@ Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | 10 | N | 49 | -- | -- | -- | -- | -- | 46 |
 | Median % Reduction | -5.1 | -- | -- | -- | -- | -- | 14.8 |  |
 | % Responders | 14 |  |  |  |  |  | 28p=0.071; |  |
-| Improvement in Seizure SeverityPercent of subjects who were minimally, much, or very much improved from baseline. | 28 |  |  |  |  |  | 52 |  |
+| Improvement in Seizure SeverityPercentage of subjects who were minimally, much, or very much improved from baseline. | 28 |  |  |  |  |  | 52 |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 

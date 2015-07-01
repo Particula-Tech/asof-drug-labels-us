@@ -7,16 +7,17 @@ The following adverse reactions are discussed in more detail in other sections o
 - Metabolic Acidosis [see Warnings and Precautions (5.3)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- Fetal Toxicity [see Warnings and Precautions (5.7)]
+- Fetal Toxicity [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]]
 - Withdrawal of Antiepileptic Drugs [see Warnings and Precautions (5.8)]
 - Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.9)]
 - Kidney Stones [see Warnings and Precautions (5.10)]
 - Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.11)]
 - Paresthesia [see Warnings and Precautions (5.12)]
+- Visual Field Defects [see Warnings and Precautions 5.14]
 
 The data described in the following sections were obtained using immediate-release topiramate tablets in studies of patients with epilepsy.
-Trokendi XR™ has not been studied in a randomized, placebo-controlled Phase III clinical study in the epilepsy patient population.
-However, it is expected that Trokendi XR™ would produce a similar adverse reaction profile as immediate-release topiramate.
+TROKENDI XR® has not been studied in a randomized, placebo-controlled Phase III clinical study in the epilepsy patient population.
+However, it is expected that TROKENDI XR® would produce a similar adverse reaction profile as immediate-release topiramate.
 
 ## 6.1 Clinical Trials Experience
 
@@ -52,7 +53,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Central & Peripheral Nervous System Disorders |  |  |
 | Paresthesia | 21 | 40 |
 | Dizziness | 13 | 14 |
-| Hypoasthesia | 4 | 5 |
+| Hypoesthesia | 4 | 5 |
 | Ataxia | 3 | 4 |
 | Hypertonia | 0 | 3 |
 | Gastro-intestinal System Disorders |  |  |
@@ -60,7 +61,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Constipation | 1 | 4 |
 | Gastritis | 0 | 3 |
 | Dry Mouth | 1 | 3 |
-| Gastroesophogeal Reflux | 1 | 2 |
+| Gastroesophageal Reflux | 1 | 2 |
 | Liver and Biliary System Disorders |  |  |
 | Gamma-GT Increased | 1 | 3 |
 | Metabolic and Nutritional Disorders |  |  |
@@ -73,7 +74,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Depression | 7 | 9 |
 | Difficulty with Concentration/Attention | 7 | 8 |
 | Anxiety | 4 | 6 |
-| Pychomotor Slowing | 3 | 5 |
+| Psychomotor Slowing | 3 | 5 |
 | Mood Problems | 2 | 5 |
 | Confusion | 3 | 4 |
 | Cognitive Problem NOS | 1 | 4 |
@@ -103,7 +104,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Micturition Frequency | 0 | 2 |
 
 Table 3: Incidence of Treatment-Emergent Adverse Reactions in the Monotherapy Epilepsy Trial in Pediatric Patients (Ages 10 up to 16 Years)Values represent the percentage of patients reporting a given adverse event.
-Patients may have reported more than one adverse event during the study and can be included in more than one adverse event category Where Incidence Was at Least 5% in the 400 mg/day Immediate-Release Topiramate Group and Greater than the Rate in the 50mg/day Immediate-Release Topiramate Group
+Patients may have reported more than one adverse event during the study and can be included in more than one adverse event category Where Incidence Was at Least 5% in the 400 mg/day Immediate-Release Topiramate Group and Greater than the Rate in the 50 mg/day Immediate-Release Topiramate Group
 
 | Adverse Reaction | (N=57) | (N=57) |
 | --- | --- | --- |
@@ -141,8 +142,8 @@ The most common dose-related adverse reactions at dosages of 200 mg to 1,000 mg 
 
 Adverse reactions associated with the use of topiramate at dosages of 5 mg/kg/day to 9 mg/kg/day in controlled trials in pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome that were seen at greater frequency in topiramate-treated patients were: fatigue, somnolence, anorexia, nervousness, difficulty with concentration/attention, difficulty with memory, aggressive reaction, and weight decrease [see Table 7].
 
-In controlled clinical trials in adults, 11% of patients receiving topiramate 200 to 400mg per day as adjunctive therapy discontinued due to adverse reactions.
-This rate appeared to increase at dosages above 400mg per day.
+In controlled clinical trials in adults, 11% of patients receiving topiramate 200 to 400 mg per day as adjunctive therapy discontinued due to adverse reactions.
+This rate appeared to increase at dosages above 400 mg per day.
 Adverse events associated with discontinuing therapy included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue, and paresthesia and increased at dosages above 400 mg per day.
 None of the pediatric patients who received topiramate adjunctive therapy at 5 mg/kg/day to 9 mg/kg/day in controlled clinical trials discontinued due to adverse reactions.
 
@@ -189,7 +190,7 @@ Patient may have reported more than one adverse reaction during the study and ca
 | Tremor | 6 | 9 | 9 |
 | Language problems | 1 | 6 | 10 |
 | Coordination abnormal | 2 | 4 | 4 |
-| Hypoaesthesia | 1 | 2 | 1 |
+| Hypoesthesia | 1 | 2 | 1 |
 | Gait abnormal | 1 | 3 | 2 |
 | Muscle contractions involuntary | 1 | 2 | 2 |
 | Stupor | 0 | 2 | 1 |
@@ -207,7 +208,7 @@ Patient may have reported more than one adverse reaction during the study and ca
 | Hearing decreased | 1 | 2 | 1 |
 | Metabolic and Nutritional Disorders |  |  |  |
 | Weight decrease | 3 | 9 | 13 |
-| Musculo-Skeletal System Disorders |  |  |  |
+| Musculoskeletal System Disorders |  |  |  |
 | Myalgia | 1 | 2 | 2 |
 | Skeletal pain | 0 | 1 | 0 |
 | Platelet, Bleeding & Clotting Disorders |  |  |  |
@@ -281,7 +282,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Body as a Whole-General Disorders |  |  |
 | Fatigue | 4 | 9 |
 | Chest pain | 1 | 2 |
-| Cardiovasular Disorders, General |  |  |
+| Cardiovascular Disorders, General |  |  |
 | Hypertension | 0 | 2 |
 | Central & Peripheral Nervous System Disorders |  |  |
 | Paresthesia | 2 | 9 |
@@ -334,7 +335,7 @@ Table 6: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled
 | Weight Decrease | 3 | 4 | 9 | 13 |
 
 Table 7: Incidence (%) of Adverse Reaction in Placebo-Controlled, Adjunctive Epilepsy Trial in Pediatric Patients (Ages 2 Years to 16 Years)Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
-Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category,Reactions that Occurred in at Least 1% of Topiramate-Treated Patients and Occurred More Frequently in Topiramate-Treated Than Placebo-Treated Patients (Study 8)
+Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category,Reactions that occurred in at least 1% of topiramate-treated patients and occurred more frequently in topiramate-treated than placebo-treated patients (Study 8)
 
 | Adverse Reaction | (N=101) | (N=98) |
 | --- | --- | --- |
@@ -426,7 +427,7 @@ Laboratory Abnormalities
 Topiramate decreases serum bicarbonate [see Warnings and Precautions (5.3)]
 
 Immediate-release topiramate treatment was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies.
-Similar effects should be anticipated with use of Trokendi XR™.
+Similar effects should be anticipated with use of TROKENDI XR®.
 
 Controlled trials of adjunctive topiramate treatment of adults for partial onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate, 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate, 1% placebo), and decreased serum potassium (0.4 % topiramate, 0.1 % placebo).
 The clinical significance of these abnormalities has not been clearly established.

@@ -22,11 +22,11 @@ Human Data
 Data from the NAAED Pregnancy Registry indicate an increased risk of oral clefts in infants exposed to topiramate monotherapy during the first trimester of pregnancy.
 The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% - 0.46% in infants exposed to other AEDs, and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
 For comparison, the Centers for Disease Control and Prevention (CDC) reviewed available data on oral clefts in the United States and found a similar background rate of 0.17%.
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval=CI 3.6-25.7) as compared to the risk in a background population of untreated women.
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval=CI4.0-23.0) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
 The observed rate of oral clefts was 16 times higher than the background rate in the UK, which is approximately 0.2%.
 
-Topiramate treatment can cause metabolic acidosis (see Warnings and Precautions (5.3)].
+Topiramate treatment can cause metabolic acidosis [(see Warnings and Precautions (5.3)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.3)].
 Newborns of mothers treated with topiramate should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
@@ -35,18 +35,20 @@ Animal Data
 
 Topiramate has demonstrated selective developmental toxicity, including teratogenicity, in multiple animal species at clinically relevant doses.
 When oral doses of 20 mg/kg, 100 mg/kg, or 500 mg/kg were administered to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
-The low dose is approximately 0.2 times the recommended human dose (RHD) 400mg per day on a mg/m2 basis.
+The low dose is approximately 0.2 times the recommended human dose (RHD) 400 mg per day on a mg/m2 basis.
 Fetal body weights and skeletal ossification were reduced at 500 mg/kg in conjunction with decreased maternal body weight gain.
 
 In rat studies (oral doses of 20 mg/kg, 100 mg/kg, and 500 mg/kg or 0.2 mg/kg, 2.5 mg/kg, 30 mg/kg, and 400 mg/kg), the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased among the offspring of dams treated with 400 mg/kg (10 times the RHD on a mg/m2 basis) or greater during the organogenesis period of pregnancy.
 Embryotoxicity (reduced fetal body weights, increased incidence of structural variations) was observed at doses as low as 20 mg/kg (0.5 times the RHD on a mg/m2 basis).
 Clinical signs of maternal toxicity were seen at 400 mg/kg and above, and maternal body weight gain was reduced during treatment with 100 mg/kg or greater.
+
 In rabbit studies (20 mg/kg, 60 mg/kg, and 180 mg/kg or 10 mg/kg, 35 mg/kg, and 120 mg/kg orally during organogenesis), embryo/fetal mortality was increased at 35 mg/kg (2 times the RHD on a mg/m2 basis) or greater, and teratogenic effects (primarily rib and vertebral malformations) were observed at 120 mg/kg (6 times the RHD on a mg/m2 basis).
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg and above.
-When female rats were treated during the latter part of gestation and throughout lactation (0.2 mg/kg, 4 mg/kg, 20 mg/kg, and 100 mg/kg or 2, 20, and 200 mg/kg), offspring exhibited decreased viability and delayed physical development at 200 mg/kg (5 times the RHD on a mg/m2 basis) and reductions in pre-and/or postweaning body weight gain at 2mg/kg (0.05 times the RHD on a mg/m2 basis) and above.
+
+When female rats were treated during the latter part of gestation and throughout lactation (0.2 mg/kg, 4 mg/kg, 20 mg/kg, and 100 mg/kg or 2, 20, and 200 mg/kg), offspring exhibited decreased viability and delayed physical development at 200 mg/kg (5 times the RHD on a mg/m2 basis) and reductions in pre-and/or postweaning body weight gain at 2 mg/kg (0.05 times the RHD on a mg/m2 basis) and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg or greater.
 
-In a rat embryo/fetal development study with a postnatal component (0.2 mg/kg, 2.5 mg/kg, 30 mg/kg, or 400mg/kg during organogenesis; noted above), pups exhibited delayed physical development at 400 mg/kg (10 times the RHD on a mg/m2 basis) and persistent reductions in body weight gain at 30 mg/kg (1 times the RHD on a mg/m2 basis) and higher.
+In a rat embryo/fetal development study with a postnatal component (0.2 mg/kg, 2.5 mg/kg, 30 mg/kg, or 400 mg/kg during organogenesis; noted above), pups exhibited delayed physical development at 400 mg/kg (10 times the RHD on a mg/m2 basis) and persistent reductions in body weight gain at 30 mg/kg (1 times the RHD on a mg/m2 basis) and higher.
 
 ## 8.2 Labor and Delivery
 
@@ -56,21 +58,21 @@ Although the effect of topiramate on labor and delivery in humans has not been e
 
 Limited data on 5 breastfeeding infants exposed to topiramate showed infant plasma topiramate levels equal to 10-20% of the maternal plasma level.
 The effects of this exposure on infants are unknown.
-Caution should be exercised when Trokendi XR™ is administered to a nursing woman.
+Caution should be exercised when TROKENDI XR® is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
 Seizures in Pediatric Patients 6 Years of Age and Older
 
-Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, Trokendi XR™ is recommended only for children age 6 or older.
+Because the capsule must be swallowed whole, and may not be sprinkled on food, crushed or chewed, TROKENDI XR® is recommended only for children age 6 or older.
 
-The safety and effectiveness of Trokendi XR™ in pediatric patients is based on controlled trials with immediate-release topiramate [see Clinical Studies (14)].
+The safety and effectiveness of TROKENDI XR® in pediatric patients is based on controlled trials with immediate-release topiramate [see Clinical Studies (14)].
 
 The adverse reactions (both common and serious) in pediatric patients are similar to those seen in adults [see Warnings and Precautions (5) and Adverse Reactions (6)].
 
 These include, but are not limited to:
 
-- oligohydrosis and hyperthermia [see Warnings and Precautions (5.2]).
+- oligohydrosis and hyperthermia [see Warnings and Precautions (5.2)].
 - dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.3)].
 - dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.9)].
 
@@ -105,7 +107,7 @@ There was a suggestion that this effect was dose-related.
 However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment related or reflects the patient's underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.6)].
 
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
-It is not possible to know whether this mortality rate is related to immediate-release topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1month to 24 months) with partial epilepsy is not known.
+It is not possible to know whether this mortality rate is related to immediate-release topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 month to 24 months) with partial epilepsy is not known.
 
 Other Pediatric Studies
 
@@ -127,7 +129,7 @@ Evaluation of effectiveness and safety of topiramate in clinical trials has show
 
 ## 8.7 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance less than 30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance greater than70 mL/min/1.73m2).
+The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance less than 30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance greater than 70 mL/min/1.73m2).
 One-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients Undergoing Hemodialysis
