@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022522"
+  ],
+  "inn": "roflumilast",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-0095-30",
+    "0310-0095-39",
+    "0310-0095-90",
+    "0310-0095-95"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "Daliresp"
+    }
+  ],
+  "setid": "c9a1d0a8-581f-4f91-a2b8-f419192d0ebf",
+  "source": "dailymed"
+}
