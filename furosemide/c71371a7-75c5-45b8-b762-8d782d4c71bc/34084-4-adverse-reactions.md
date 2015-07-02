@@ -53,7 +53,7 @@ Dermatologic-Hypersensitivity Reactions
 6. Urticaria
 7. Rash
 8. Pruritus
-9. Stevens-Johnson Syndrome
+9. StevensJohnson Syndrome
 10. Toxic epidermal necrolysis
 
 Cardiovascular Reaction
