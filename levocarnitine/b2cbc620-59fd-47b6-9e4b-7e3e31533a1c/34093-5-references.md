@@ -50,5 +50,3 @@
   1991.
   Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
   Metabolism 40:1305-1310.
-
-PREVIOUS EDITION IS OBSOLETE Date of Issue: XX/13 VPI-12

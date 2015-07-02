@@ -34,12 +34,10 @@ See USP.
 
 Dosage: See package insert.
 Rx only.
-OL(H)-3 07/08
+OL(H)-4 07/14
 
 MFD by: Hi-Tech Pharmacal Co., Inc.
 
 Amityville, NY 11701
 
-Rev 171:01 07/08
-
-Bottle Label
+Rev 171:02 07/14
