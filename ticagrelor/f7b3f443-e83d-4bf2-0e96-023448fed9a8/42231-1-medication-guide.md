@@ -121,9 +121,10 @@ How should I take BRILINTA?
   Do not take two doses at the same time unless your doctor tells you to.
 - •If you take too much BRILINTA or overdose, call your doctor or poison control center right away, or go to the nearest emergency room.
 
-- If you have trouble swallowing the tablet(s).
-- If you are unable to swallow the tablet(s) whole, BRILINTA tablets can be crushed, mixed with water and drunk immediately.
-  The glass should be refilled with water, stirred and the contents drunk.
+If you have trouble swallowing the tablet(s).
+
+If you are unable to swallow the tablet(s) whole, BRILINTA tablets can be crushed, mixed with water and drunk immediately.
+The glass should be refilled with water, stirred and the contents drunk.
 
 What are the possible side effects of BRILINTA?
 
