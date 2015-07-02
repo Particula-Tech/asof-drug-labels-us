@@ -14,7 +14,7 @@ All patients should be instructed about the symptoms of hypocalcemia and the imp
 
 ## 5.3 Renal Impairment
 
-A single dose of Zoledronic Acid Injection should not exceed 5 mg and the duration of infusion should be no less than 15 minutes [see Dosage and Administration (2.1)].
+A single dose of Zoledronic Acid Injection should not exceed 5 mg and the duration of infusion should be no less than 15 minutes [see Dosage and Administration (2)].
 
 Zoledronic Acid Injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment [see Contraindications (4)].
 If history or physical signs suggest dehydration, Zoledronic Acid Injection therapy should be withheld until normovolemic status has been achieved [see Post-Marketing Experience (6.2)].
