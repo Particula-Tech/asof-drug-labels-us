@@ -55,7 +55,7 @@ Because of the potential for HIV-1 transmission in breastfed infants, advise wom
 ## 8.4 Pediatric Use
 
 The safety, efficacy, and pharmacokinetic profiles of KALETRA in pediatric patients below the age of 14 days have not been established.
-KALETRA once daily has not been evaluated in pediatric patients.
+KALETRA should not be administered once daily in pediatric patients.
 
 An open-label, multi-center, dose-finding trial was performed to evaluate the pharmacokinetic profile, tolerability, safety and efficacy of KALETRA oral solution containing lopinavir 80 mg/mL and ritonavir 20 mg/mL at a dose of 300/75 mg/m2 twice daily plus two NRTIs in HIV-infected infants ≥14 days and < 6 months of age.
 Results revealed that infants younger than 6 months of age generally had lower lopinavir AUC12 than older children (6 months to 12 years of age), however, despite the lower lopinavir drug exposure observed, antiviral activity was demonstrated as reflected in the proportion of subjects who achieved HIV-1 RNA <400 copies/mL at Week 24 [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
@@ -70,6 +70,11 @@ Patients also had saquinavir mesylate added to their regimen.
 This strategy was intended to assess whether higher than approved doses of KALETRA could overcome protease inhibitor cross-resistance.
 High doses of KALETRA exhibited a safety profile similar to those observed in previous trials; changes in HIV-1 RNA were less than anticipated; three patients had HIV-1 RNA <400 copies/mL at Week 48.
 CD4+ cell count increases were noted in the eight patients who remained on treatment for 48 weeks [see Adverse Reactions (6.2), Clinical Pharmacology (12.3)].
+
+A prospective multicenter, randomized, open-label study evaluated the efficacy and safety of twice-daily versus once-daily dosing of KALETRA tablets dosed by weight as part of combination antiretroviral therapy (cART) in virologically suppressed HIV-1 infected children (n=173).
+Children were eligible when they were aged < 18 years, ≥ 15 kg in weight, receiving cART that included KALETRA, HIV-1 ribonucleic acid (RNA) < 50 copies/mL for at least 24 weeks and able to swallow tablets.
+At week 24, efficacy (defined as the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL) was significantly higher in subjects receiving twice daily dosing compared to subjects receiving once daily dosing.
+The safety profile was similar between the two treatment arms although there was a greater incidence of diarrhea in the once daily treated subjects.
 
 ## 8.5 Geriatric Use
 

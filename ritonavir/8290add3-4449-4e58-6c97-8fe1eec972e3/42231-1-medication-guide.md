@@ -165,8 +165,8 @@ Especially tell your doctor if you take:
 - rivaroxaban (Xarelto®)
 - rosuvastatin (Crestor®)
 - salmeterol (Serevent®) or salmeterol when taken in combination with fluticasone (Advair Diskus®, Advair HFA®)
+- simeprevir (Olysio®)
 - tadalafil (Adcirca®) for the treatment of pulmonary arterial hypertension
-- telaprevir (Incivek®)
 - trazodone (Oleptro®)
 - valproate (Depakote®, Depakene®, Depacon®)
 - voriconazole (Vfend®)
@@ -336,10 +336,10 @@ KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-Revised: March 2015
+Revised: June 2015
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
 © 2015 AbbVie Inc. All rights reserved.
 
-03-B124
+03-B159
