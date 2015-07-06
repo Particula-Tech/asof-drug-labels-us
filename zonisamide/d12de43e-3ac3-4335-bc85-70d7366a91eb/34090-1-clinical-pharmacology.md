@@ -22,53 +22,93 @@ However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acido
 
 ## Pharmacokinetics:
 
+## Absorption
+
 Following a 200–400 mg oral zonisamide dose, peak plasma concentrations (range: 2–5 µg/mL) in normal volunteers occur within 2–6 hours.
 In the presence of food, the time to maximum concentration is delayed, occurring at 4–6 hours, but food has no effect on the bioavailability of zonisamide.
-Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells (RBC) than in plasma.
-The pharmacokinetics of zonisamide are dose proportional in the range of 200–400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
+Zonisamide absorption is dose-proportional in the range of 200-400 mg.
+Cmax and AUC, however, increase disproportionately at 800 mg, possibly due to saturable binding of zonisamide to red blood cells.
 Once a stable dose is reached, steady state is achieved within 14 days.
-The elimination half-life of zonisamide in plasma is about 63 hours.
-The elimination half-life of zonisamide in RBC is approximately 105 hours.
+
+## Distribution
 
 The apparent volume of distribution (V/F) of zonisamide is about 1.45 L/kg following a 400 mg oral dose.
 Zonisamide, at concentrations of 1.0–7.0 µg/mL, is approximately 40% bound to human plasma proteins.
+Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells than in plasma.
 Protein binding of zonisamide is unaffected in the presence of therapeutic concentrations of phenytoin, phenobarbital or carbamazepine.
 
-## Metabolism and Excretion:
+## Metabolism and Elimination
 
 Following oral administration of 14C-zonisamide to healthy volunteers, only zonisamide was detected in plasma.
 Zonisamide is excreted primarily in urine as parent drug and as the glucuronide of a metabolite.
-Following multiple dosing, 62% of the 14C dose was recovered in the urine, with 3% in the feces by day 10.
-Zonisamide undergoes acetylation to form N-acetyl zonisamide and reduction to form the open ring metabolite, 2–sulfamoylacetyl phenol (SMAP).
+Following multiple dosing, 62% of the radiolabeled dose was recovered in the urine, with 3% in the feces by day 10.
+Zonisamide undergoes acetylation by N-acetyl-transferases to form N-acetyl zonisamide and reduction to form the open ring metabolite, 2–sulfamoylacetyl phenol (SMAP).
 Of the excreted dose, 35% was recovered as zonisamide, 15% as N-acetyl zonisamide, and 50% as the glucuronide of SMAP.
 Reduction of zonisamide to SMAP is mediated by cytochrome P450 isozyme 3A4 (CYP3A4).
 Zonisamide does not induce its own metabolism.
-Plasma clearance of zonisamide is approximately 0.30–0.35 mL/min/kg in patients not receiving enzyme-inducing antiepilepsy drugs (AEDs).
+The plasma clearance of oral zonisamide is approximately 0.30–0.35 mL/min/kg in patients not receiving enzyme-inducing antiepilepsy drugs (AEDs).
 The clearance of zonisamide is increased to 0.5 mL/min/kg in patients concurrently on enzyme-inducing AEDs.
 
-Renal clearance is about 3.5 mL/min.
-The clearance of an oral dose of zonisamide from RBC is 2 mL/min.
+After a single-dose administration, renal clearance of zonisamide is approximately 3.5 mL/min.
+The clearance of an oral dose of zonisamide from red blood cells is 2 mL/min.
+The elimination half-life of zonisamide in plasma is approximately 63 hours.
+The elimination half-life of zonisamide in red blood cells is approximately 105 hours.
 
-## Special Populations:
+## Specific Populations:
 
-Renal Insufficiency: Single 300 mg zonisamide doses were administered to three groups of volunteers.
+Renal Impairment: Single 300 mg zonisamide doses were administered to three groups of volunteers.
 Group 1 was a healthy group with a creatinine clearance ranging from 70–152 mL/min.
 Group 2 and Group 3 had creatinine clearances ranging from 14.5–59 mL/min and 10–20 mL/min, respectively.
 Zonisamide renal clearance decreased with decreasing renal function (3.42, 2.50, 2.23 mL/min, respectively).
 Marked renal impairment (creatinine clearance < 20 mL/min) was associated with an increase in zonisamide AUC of 35% (see DOSAGE AND ADMINISTRATION section).
 
-Hepatic Disease: The pharmacokinetics of zonisamide in patients with impaired liver function have not been studied (see DOSAGE AND ADMINISTRATION section).
+Hepatic Impairment: The pharmacokinetics of zonisamide in patients with impaired liver function have not been studied (see DOSAGE AND ADMINISTRATION section).
 
 Age: The pharmacokinetics of a 300 mg single dose of zonisamide was similar in young (mean age 28 years) and elderly subjects (mean age 69 years).
 
 Gender and Race: Information on the effect of gender and race on the pharmacokinetics of zonisamide is not available.
 
-Interactions of Zonisamide with Other Antiepilepsy Drugs (AEDs):
+Effects of ZONEGRAN on cytochrome P450 enzymes
 
-Concurrent medication with drugs that either induce or inhibit CYP3A4 may alter serum concentrations of zonisamide.
-Concomitant administration of phenytoin and carbamazepine increases zonisamide plasma clearance from 0.30–0.35 mL/min/kg to 0.35–0.5 mL/min/kg.
-The half-life of zonisamide is decreased to 27 hours by phenytoin, to 38 hours by phenobarbital and carbamazepine, and to 46 hours by valproate.
-Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactions subsection).
+In vitro studies using human liver microsomes show insignificant (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4, 2B6 or 2C8 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
+Therefore, ZONEGRAN is not expected to affect the pharmacokinetics of other drugs via cytochrome P450-mediated mechanisms.
+
+Potential for ZONEGRAN to affect other drugs
+
+Anti-epileptic drugs
+
+In epileptic patients, steady-state dosing with ZONEGRAN resulted in no clinically relevant pharmacokinetic effects on carbamazepine, lamotrigine, phenytoin, or sodium valproate.
+
+Oral contraceptives
+
+In healthy subjects, steady state dosing with ZONEGRAN did not affect serum concentrations of ethinylestradiol or norethisterone in a combined oral contraceptive.
+
+CYP2D6 substrates
+
+Coadministration of multiple dosing of zonisamide up to 400 mg/day with single 50-mg doses of desipramine did not significantly affect the pharmacokinetic parameters of desipramine, a probe drug for CYP2D6 activity.
+
+P-gp substrate
+
+An in vitro study showed that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L.
+There is a theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
+
+Caution is advised when starting or stopping ZONEGRAN or changing the ZONEGRAN dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine)
+
+Potential for Medicinal Product to Affect ZONEGRAN
+
+Concomitant medications that can induce or inhibit CYP3A4 or N-acetyl-transferases may affect the pharmacokinetics of zonisamide.
+Drugs which inhibit or induce glucuronide conjugation are not expected to influence the pharmacokinetics of zonisamide.
+
+The absence of a clinically significant pharmacokinetic interaction between zonisamide and lamotrigine indicates a low potential for zonisamide to interact with substances which are metabolized by UDP-GT.
+
+CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
+The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27-38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
+
+These effects are unlikely to be of clinical significance when ZONEGRAN is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the ZONEGRAN dose may be required.
+If co-administration with a potent CYP3A4 inducer (e.g., rifampicin) is necessary, the patient should be closely monitored and the dose of ZONEGRAN and other drugs that are CYP3A4 substrate may need to be adjusted.
+
+CYP3A4 Inhibition: Steady-state dosing of either ketoconazole (400 mg/day) or cimetidine (1200 mg/day) had no clinically relevant effects on the single dose pharmacokinetics of zonisamide given to healthy subjects.
+Therefore, modification of ZONEGRAN dosing is not necessary when co-administered with known CYP3A4 inhibitors.
 
 Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
 

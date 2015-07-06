@@ -187,7 +187,7 @@ Active ingredient: zonisamide
 Inactive ingredients in ZONEGRAN 25 mg and ZONEGRAN 100 mg capsules: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and titanium dioxide.
 The ZONEGRAN 100 mg capsule also contains: FD&C Red No. 40 and FD&C Yellow No. 6.
 
-Revised May 2015
+Revised July 2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

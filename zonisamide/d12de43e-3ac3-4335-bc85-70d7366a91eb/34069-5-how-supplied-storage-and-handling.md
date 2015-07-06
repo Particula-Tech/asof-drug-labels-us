@@ -17,4 +17,4 @@ ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and l
 
 © 2015 Concordia Pharmaceuticals Inc.
 
-Revised: 5/2015
+Revised: 7/2015
