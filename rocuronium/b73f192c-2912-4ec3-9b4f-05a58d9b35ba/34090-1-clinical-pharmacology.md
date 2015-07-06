@@ -8,8 +8,6 @@ This action is antagonized by acetylcholinesterase inhibitors, such as neostigmi
 
 ## 12.2 Pharmacodynamics
 
-12.2 Pharmacodynamics
-
 The ED95 (dose required to produce 95% suppression of the first [T1] mechanomyographic [MMG] response of the adductor pollicis muscle [thumb] to indirect supramaximal train-of-four stimulation of the ulnar nerve) during opioid/nitrous oxide/oxygen anesthesia is approximately 0.3 mg/kg.
 Patient variability around the ED95 dose suggests that 50% of patients will exhibit T1 depression of 91% to 97%.
 

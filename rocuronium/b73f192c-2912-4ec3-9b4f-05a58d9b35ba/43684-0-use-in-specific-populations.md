@@ -17,8 +17,6 @@ Rocuronium bromide should be used during pregnancy only if the potential benefit
 The use of rocuronium bromide in Cesarean section has been studied in a limited number of patients [see Clinical Studies (14.1)].
 Rocuronium bromide is not recommended for rapid sequence induction in Cesarean section patients.
 
-## 8.3 Nursing Mothers
-
 ## 8.4 Pediatric Use
 
 The use of rocuronium bromide has been studied in pediatric patients 3 months to 14 years of age under halothane anesthesia.
@@ -33,7 +31,7 @@ However, it was not possible to conclusively identify an effect of rocuronium br
 Additionally, when examining plasma levels of rocuronium bromide in correlation to QTc interval prolongation, no relationship was observed [see Dosage and Administration (2.5), Warnings and Precautions (5.8), and Clinical Studies (14.3)].
 
 Rocuronium bromide is not recommended for rapid sequence intubation in pediatric patients.
-Recommendations for use in pediatric patients are discussed in other sections [see Dosage and Administration (2.5) and Clinical Pharmacology (12.2)].
+Recommendations for use in pediatric patients are discussed in other sections [seeDosage and Administration (2.5) and Clinical Pharmacology (12.2)].
 
 ## 8.5 Geriatric Use
 

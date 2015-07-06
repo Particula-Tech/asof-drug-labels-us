@@ -7,7 +7,7 @@ Doses of rocuronium bromide injection should be individualized and a peripheral 
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide.
 
-In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9, 5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
+In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9,5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
 
 ## 2.1 Dose for Tracheal Intubation
 
@@ -61,8 +61,10 @@ Pediatric Patients: The recommended initial intubation dose of rocuronium bromid
 
 For sevoflurane (induction) rocuronium bromide doses of 0.45 mg/kg and 0.6 mg/kg in general produce excellent to good intubating conditions within 75 seconds.
 When halothane is used, a 0.6 mg/kg dose of rocuronium bromide resulted in excellent to good intubating conditions within 60 seconds.
+
 The time to maximum block for an intubating dose was shortest in infants (28 days up to 3 months) and longest in neonates (birth to less than 28 days).
 The duration of clinical relaxation following an intubating dose is shortest in children (greater than 2 years up to 11 years) and longest in infants.
+
 When sevoflurane is used for induction and isoflurane/nitrous oxide for maintenance of general anesthesia, maintenance dosing of rocuronium bromide can be administered as bolus doses of 0.15 mg/kg at reappearance of T3 in all pediatric age groups.
 Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7 to 10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
 
@@ -73,12 +75,13 @@ Additional information for administration to pediatric patients of all age group
 
 The infusion of rocuronium bromide must be individualized for each patient.
 The rate of administration should be adjusted according to the patient"s twitch response as monitored with the use of a peripheral nerve stimulator.
-Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following similar total exposure to single bolus doses [see Clinical Pharmacology (12.2)].
+Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following similar total exposure to single bolus doses [seeClinical Pharmacology (12.2)].
 
 Rocuronium bromide is not recommended for rapid sequence intubation in pediatric patients.
 
-Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
-No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2, 12.3)].
+Geriatric Patients: Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22-73), 62 (49-75), and 94 (64-138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
+No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide infusion were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
+[See also Warnings and Precautions (5.4).]
 
 Patients with Renal or Hepatic Impairment: No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg rocuronium bromide.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
