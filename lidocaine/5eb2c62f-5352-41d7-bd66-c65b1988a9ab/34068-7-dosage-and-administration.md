@@ -4,8 +4,7 @@ When Lidocaine Ointment USP, 5% is used concomitantly with other products contai
 
 ## Adult
 
-A single application should not exceed 5 g of Lidocaine Ointment USP, 5% containing 250 mg of lidocaine base (equivalent chemically to approximately 300 mg of Lidocaine hydrochloride).
-This is roughly equivalent to squeezing a six (6) inch length of ointment from the tube.
+A single application should not exceed 5 g of Lidocaine Ointment USP, 5% containing 250 mg of lidocaine base (equivalent chemically to approximately 300 mg of lidocaine hydrochloride).
 In a 70 kg adult this dose equals 3.6 mg/kg (1.6 mg/lb) lidocaine base.
 No more than 17-20 g of ointment or 850-1000 mg lidocaine base should be administered in any one day.
 

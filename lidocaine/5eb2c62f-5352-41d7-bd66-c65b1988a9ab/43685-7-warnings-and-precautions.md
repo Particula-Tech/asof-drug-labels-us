@@ -5,7 +5,7 @@ PATIENTS SHOULD BE INSTRUCTED TO STRICTLY ADHERE TO THE RECOMMENDED DOSAGE AND A
 
 THE MANAGEMENT OF SERIOUS ADVERSE REACTIONS MAY REQUIRE THE USE OF RESUSCITATIVE EQUIPMENT, OXYGEN, AND OTHER RESUSCITATIVE DRUGS.
 
-Lidocaine Ointment USP, 5% should be used with extreme caution in the presence of sepsis or severely traumatized mucosa in the area of application, since under such conditions there is the potential for rapid systemic absorption.
+Lidocaine Ointment USP, 5% should be used with extreme caution in the presence of sepsis, or severely traumatized mucosa in the area of application, since under such conditions there is the potential for rapid systemic absorption.
 
 # PRECAUTIONS
 
@@ -31,11 +31,10 @@ Successful outcome is dependent on early diagnosis, prompt discontinuance of the
 When topical anesthetics are used in the mouth, the patient should be aware that the production of topical anesthesia may impair swallowing and thus enhance the danger of aspiration.
 For this reason, food should not be ingested for 60 minutes following the use of local anesthetic preparations in the mouth or throat area.
 This is particularly important in children because of their frequency of eating.
-
 Numbness of the tongue or buccal mucosa may enhance the danger of unintentional biting trauma.
 Food and chewing gum should not be taken while the mouth or throat area is anesthetized.
 
-## Carcinogenesis, mutagenesis, impairment of fertility:
+## Carcinogenesis, mutagenesis, impairment of fertility
 
 Studies of lidocaine in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
 
@@ -64,4 +63,4 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Dosage in children should be reduced, commensurate with age, body weight and physical condition.
 Caution must be taken to avoid overdosage when applying Lidocaine Ointment USP, 5% to large areas of injured or abraded skin, since the systemic absorption of lidocaine may be increased under such conditions.
-(See DOSAGE and ADMINISTRATION.)
+(See DOSAGE AND ADMINISTRATION.)

@@ -1,11 +1,5 @@
-Rx only
-
 DO NOT USE IN THE EYES.
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
+Rx only
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
-
-Revised: September, 2011
-
-LPK-5118-1 160
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 TARO is a registered trademark of Taro Pharmaceuticals U.S.A., Inc. Revised: November, 2014

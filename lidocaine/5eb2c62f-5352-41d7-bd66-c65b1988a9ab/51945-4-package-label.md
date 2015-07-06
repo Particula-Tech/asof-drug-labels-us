@@ -8,7 +8,6 @@ Lidocaine Ointment USP, 5% (Spearmint flavored)
 
 FOR TOPICAL USE ONLY.
 DO NOT USE IN THE EYES.
-
 For Health Professional/Institutional Use Only.
 Not For Household Use.
 
