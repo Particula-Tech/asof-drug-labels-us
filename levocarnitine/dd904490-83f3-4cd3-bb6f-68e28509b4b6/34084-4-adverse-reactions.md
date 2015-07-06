@@ -6,5 +6,9 @@ Gastrointestinal adverse reactions with CARNITOR® (levocarnitine) Oral Solution
 Decreasing the dosage often diminishes or eliminates drug-related patient body odor or gastrointestinal symptoms when present.
 Tolerance should be monitored very closely during the first week of administration, and after any dosage increases.
 
+Rhabdomyolysis has been reported to occur in patients receiving levocarnitine.
+
 Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.
 In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
+
+Various reports of hypoglycemia, vitamin K deficiency and abnormal prothrombin levels have also been reported with the use of levocarnitine.

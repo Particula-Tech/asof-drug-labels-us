@@ -19,8 +19,8 @@ Chronic administration of high doses of oral levocarnitine in patients with seve
 
 ## Drug Interactions
 
-Reports of INR increase with the use of warfarin-like products have been observed.
-INR levels should be monitored.
+Reports of INR increase with the use of warfarin have been observed.
+It is recommended that INR levels be monitored in patients on warfarin therapy after the initiation of treatment with levocarnitine or after dose adjustments.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

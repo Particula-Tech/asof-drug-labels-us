@@ -29,17 +29,14 @@ Avoid excess heat.
 Protect from freezing.
 
 Store at controlled room temperature (25°C).
-
 See USP.
 
 Dosage: See package insert.
 Rx only.
 
 REV.
-173:00 05/07 OSFL(H)-1
+173:01 07/14 OSFL(H)-2 07/14
 
 MFD by: Hi-Tech Pharmacal Co., Inc.
 
 Amityville, NY 11701
-
-Bottle Label
