@@ -1,0 +1,61 @@
+# 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the label:
+
+- Use in Patients with Advanced Liver Disease [see Warnings and Precautions (5.1)]
+- Liver-related Events [see Warnings and Precautions (5.2)]
+- Respiratory Events [see Warnings and Precautions (5.3)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The overall safety profile of ORKAMBI is based on the pooled data from 1108 patients with CF 12 years and older who are homozygous for the F508del mutation in the CFTR gene and who received at least one dose of study drug in 2 double-blind, placebo-controlled, Phase 3 clinical trials, each with 24 weeks of treatment (Trials 1 and 2).
+Of the 1108 patients, 49% were female and 99% were Caucasian; 369 patients received ORKAMBI every 12 hours and 370 received placebo.
+
+The proportion of patients who prematurely discontinued study drug due to adverse events was 5% for patients treated with ORKAMBI and 2% for patients who received placebo.
+
+Serious adverse reactions, whether considered drug-related or not by the investigators, that occurred more frequently in patients treated with ORKAMBI included pneumonia, hemoptysis, cough, increased blood creatine phosphokinase, and transaminase elevations.
+These occurred in 1% or less of patients.
+
+Table 1 shows adverse reactions occurring in ≥5% of patients with CF treated with ORKAMBI who are homozygous for the F508del mutation in the CFTR gene that also occurred at a higher rate than in patients who received placebo in the two double-blind, placebo-controlled trials.
+
+Table 1: Incidence of Adverse Drug Reactions in ≥5% of ORKAMBI-Treated Patients Who are Homozygous for the F508del Mutation in the CFTR Gene in 2 Placebo-Controlled Phase 3 Clinical Trials of 24 Weeks Duration
+
+| Adverse Reaction (Preferred Term) | ORKAMBI N=369 (%) | Placebo N=370 (%) |
+| --- | --- | --- |
+| Dyspnea | 48 (13) | 29 (8) |
+| Nasopharyngitis | 48 (13) | 40 (11) |
+| Nausea | 46 (13) | 28 (8) |
+| Diarrhea | 45 (12) | 31 (8) |
+| Upper respiratory tract infection | 37 (10) | 20 (5) |
+| Fatigue | 34 (9) | 29 (8) |
+| Respiration abnormal | 32 (9) | 22 (6) |
+| Blood creatine phosphokinase increased | 27 (7) | 20 (5) |
+| Rash | 25 (7) | 7 (2) |
+| Flatulence | 24 (7) | 11 (3) |
+| Rhinorrhea | 21 (6) | 15 (4) |
+| Influenza | 19 (5) | 8 (2) |
+
+Description of Selected Adverse Drug Reactions
+
+Liver-related Adverse Reactions
+
+In Trials 1 and 2, the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN elevations was similar between patients treated with ORKAMBI and those who received placebo.
+Three patients who received ORKAMBI had liver-related serious adverse reactions, including 2 reported as transaminase elevations and 1 as hepatic encephalopathy, compared to none in the placebo group.
+Of these three, one had elevated transaminases (>3 × ULN) associated with bilirubin elevation >2 × ULN.
+Following discontinuation or interruption of ORKAMBI, transaminases decreased to <3 × ULN.
+
+Among 6 patients with pre-existing cirrhosis and/or portal hypertension who received ORKAMBI, worsening liver function with increased ALT, AST, bilirubin, and hepatic encephalopathy was observed in one patient.
+The event occurred within 5 days of the start of dosing and resolved following discontinuation of ORKAMBI [see Warnings and Precautions (5.1, 5.2)].
+
+Respiratory Adverse Reactions
+
+In Trials 1 and 2, the incidence of respiratory symptom-related adverse reactions (e.g., chest discomfort, dyspnea, and respiration abnormal) was more common in patients treated with ORKAMBI (22%) compared to patients who received placebo (14%).
+The incidence of these adverse reactions was more common in patients treated with ORKAMBI with lower pre-treatment FEV1.
+In patients treated with ORKAMBI, the majority of the events began during the first week of treatment [see Warnings and Precautions (5.3)].
+
+Menstrual Abnormalities
+
+In Trials 1 and 2, the incidence of combined menstrual abnormality adverse reactions (e.g., amenorrhea, dysmenorrhea, menorrhagia, menstrual irregular) was more common in female patients treated with ORKAMBI (10%) compared to placebo (2%).
+These events occurred more frequently in the subset of female patients treated with ORKAMBI who were using hormonal contraceptives (27%) compared to those not using hormonal contraceptives (3%) [see Warnings and Precautions (5.4) and Drug Interactions (7.11)].

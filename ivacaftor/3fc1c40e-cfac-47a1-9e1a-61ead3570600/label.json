@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206038"
+  ],
+  "inn": "ivacaftor",
+  "labeler": "Vertex Pharmaceuticals Incorporated",
+  "package_ndcs": [
+    "51167-809-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lumacaftor and ivacaftor",
+      "name": "ORKAMBI"
+    }
+  ],
+  "setid": "3fc1c40e-cfac-47a1-9e1a-61ead3570600",
+  "source": "dailymed"
+}
