@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205572"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-850-74"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "Moxifloxacin"
+    }
+  ],
+  "setid": "a4e28b09-714b-46e7-b4e6-0163cad78fc5",
+  "source": "dailymed"
+}
