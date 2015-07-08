@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Considerations
 
-Rash: There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine tablets with valproate, (2) exceeding the recommended initial dose of lamotrigine tablets, or (3) exceeding the recommended dose escalation for lamotrigine tablets.
+Rash There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine tablets with valproate, (2) exceeding the recommended initial dose of lamotrigine tablets, or (3) exceeding the recommended dose escalation for lamotrigine tablets.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 
@@ -14,20 +14,20 @@ The greater the interval of time since the previous dose, the greater considerat
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
 The half-life of lamotrigine is affected by other concomitant medications [see Clinical Pharmacology (12.3)].
 
-Lamotrigine Tablets Added to Drugs Known to Induce or Inhibit Glucuronidation: Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine.
+Lamotrigine Tablets Added to Drugs Known to Induce or Inhibit Glucuronidation Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine.
 Drugs that induce glucuronidation include carbamazepine, phenytoin, phenobarbital, primidone, rifampin, estrogen-containing oral contraceptives, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir.
 Valproate inhibits glucuronidation.
 For dosing considerations for lamotrigine tablets in patients on estrogen-containing contraceptives and atazanavir/ritonavir, see below and Table 13.
 For dosing considerations for lamotrigine tablets in patients on other drugs known to induce or inhibit glucuronidation, see Table 1, Table 2, Table 5, Table 6, and Table 13.
 
-Target Plasma Levels for Patients With Epilepsy or Bipolar Disorder: A therapeutic plasma concentration range has not been established for lamotrigine.
+Target Plasma Levels for Patients With Epilepsy or Bipolar Disorder A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of lamotrigine tablets should be based on therapeutic response [see Clinical Pharmacology (12.3)].
 
-Women Taking Estrogen-Containing Oral Contraceptives:Starting Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Women Taking Estrogen-Containing Oral Contraceptives Starting Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine tablets based on the concomitant AED or other concomitant medications (see Table 1 or Table 5).
 See below for adjustments to maintenance doses of lamotrigine tablets in women taking estrogen-containing oral contraceptives.
 
-Adjustments to the Maintenance Dose of Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives:
+Adjustments to the Maintenance Dose of Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives
 
 (1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of lamotrigine tablets will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
 
@@ -44,25 +44,25 @@ For women taking lamotrigine tablets in addition to carbamazepine, phenytoin, ph
 The decrease in dose of lamotrigine tablets should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
 In women taking lamotrigine tablets in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of lamotrigine tablets should be necessary.
 
-Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy: The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
+Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of lamotrigine tablets in the presence of progestogens alone will likely not be needed.
 
-Patients Taking Atazanavir/Ritonavir: While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of atazanavir/ritonavir.
+Patients Taking Atazanavir/Ritonavir While atazanavir/ritonavir does reduce the lamotrigine plasma concentration, no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of atazanavir/ritonavir.
 Dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine tablets based on concomitant AED or other concomitant medications (see Tables 1, 2, and 5).
 In patients already taking maintenance doses of lamotrigine tablets and not taking glucuronidation inducers, the dose of lamotrigine tablets may need to be increased if atazanavir/ritonavir is added, or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
 
-Patients With Hepatic Impairment: Experience in patients with hepatic impairment is limited.
+Patients With Hepatic Impairment Experience in patients with hepatic impairment is limited.
 Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
 
-Patients With Renal Impairment: Initial doses of lamotrigine tablets should be based on patients' concomitant medications (see Tables 1 to 3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Patients With Renal Impairment Initial doses of lamotrigine tablets should be based on patients' concomitant medications (see Tables 1 to 3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine tablets.
 Because there is inadequate experience in this population, lamotrigine tablets should be used with caution in these patients.
 
-Discontinuation Strategy:Epilepsy: For patients receiving lamotrigine tablets in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
+Discontinuation Strategy Epilepsy: For patients receiving lamotrigine tablets in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
 If a decision is made to discontinue therapy with lamotrigine tablets, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
 
@@ -78,7 +78,10 @@ Discontinuation of lamotrigine tablets should involve a step-wise reduction of d
 This section provides specific dosing recommendations for patients older than 12 years and patients aged 2 to 12 years.
 Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AEDs or other concomitant medications (see Table 1 for patients older than 12 years and Table 2 for patients aged 2 to 12 years).
 A weight-based dosing guide for patients aged 2 to 12 years on concomitant valproate is provided in Table 3.
-Patients Older Than 12 Years: Recommended dosing guidelines are summarized in Table 1.
+
+Patients Older Than 12 Years
+
+Recommended dosing guidelines are summarized in Table 1.
 
 Table 1.
 Escalation Regimen for Lamotrigine Tablets in Patients Older Than 12 Years With Epilepsy
@@ -91,7 +94,10 @@ Escalation Regimen for Lamotrigine Tablets in Patients Older Than 12 Years With 
 | Usual maintenance dose | 100 to 200 mg/day with valproate alone 100 to 400 mg/day with valproate and other drugs that induce glucuronidation (in 1 or 2 divided doses) | 225 to 375 mg/day (in 2 divided doses) | 300 to 500 mg/day (in 2 divided doses) |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)]. |  |  |  |
 
-Patients Aged 2 to 12 Years: Recommended dosing guidelines are summarized in Table 2.
+Patients Aged 2 to 12 Years
+
+Recommended dosing guidelines are summarized in Table 2.
+
 Smaller starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by smaller starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
 It may take several weeks to months to achieve an individualized maintenance dose.
@@ -120,7 +126,9 @@ The Initial Weight-Based Dosing Guide for Patients Aged 2 to 12 Years Taking Val
 | 27.1 kg | 34 kg | 4 mg every day | 8 mg every day |
 | 34.1 kg | 40 kg | 5 mg every day | 10 mg every day |
 
-Usual Adjunctive Maintenance Dose for Epilepsy: The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive trials in which the efficacy of lamotrigine tablets was established.
+Usual Adjunctive Maintenance Dose for Epilepsy:
+
+The usual maintenance doses identified in Tables 1 and 2 are derived from dosing regimens employed in the placebo-controlled adjunctive trials in which the efficacy of lamotrigine tablets was established.
 In patients receiving multidrug regimens employing carbamazepine, phenytoin, phenobarbital, or primidone without valproate, maintenance doses of adjunctive lamotrigine tablets as high as 700 mg/day have been used.
 In patients receiving valproate alone, maintenance doses of adjunctive lamotrigine tablets as high as 200 mg/day have been used.
 The advantage of using doses above those recommended in Tables 1 to 4 has not been established in controlled trials.
@@ -133,10 +141,10 @@ The recommended maintenance dose of lamotrigine tablets as monotherapy is 500 mg
 
 To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations for lamotrigine tablets should not be exceeded [see Boxed Warning].
 
-Conversion From Adjunctive Therapy With Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy With Lamotrigine Tablets: After achieving a dose of 500 mg/day of lamotrigine tablets using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period.
+Conversion From Adjunctive Therapy With Carbamazepine, Phenytoin, Phenobarbital, or Primidone to Monotherapy With Lamotrigine Tablets After achieving a dose of 500 mg/day of lamotrigine tablets using the guidelines in Table 1, the concomitant enzyme-inducing AED should be withdrawn by 20% decrements each week over a 4-week period.
 The regimen for the withdrawal of the concomitant AED is based on experience gained in the controlled monotherapy clinical trial.
 
-Conversion From Adjunctive Therapy With Valproate to Monotherapy With Lamotrigine Tablets: The conversion regimen involves the 4 steps outlined in Table 4.
+Conversion From Adjunctive Therapy With Valproate to Monotherapy With Lamotrigine Tablets The conversion regimen involves the 4 steps outlined in Table 4.
 
 Table 4.
 Conversion From Adjunctive Therapy With Valproate to Monotherapy With Lamotrigine Tablets in Patients Aged 16 Years and Older With Epilepsy
@@ -148,7 +156,7 @@ Conversion From Adjunctive Therapy With Valproate to Monotherapy With Lamotrigin
 | Step 3 | Increase to 300 mg/day and maintain for 1 week. | Simultaneously decrease to 250 mg/day and maintain for 1 week. |
 | Step 4 | Increase by 100 mg/day every week to achieve maintenance dose of 500 mg/day. | Discontinue. |
 
-Conversion From Adjunctive Therapy With Antiepileptic Drugs Other Than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy With Lamotrigine Tablets: No specific dosing guidelines can be provided for conversion to monotherapy with lamotrigine tablets with AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.
+Conversion From Adjunctive Therapy With Antiepileptic Drugs Other Than Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate to Monotherapy With Lamotrigine Tablets No specific dosing guidelines can be provided for conversion to monotherapy with lamotrigine tablets with AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.
 
 ## 2.4 Bipolar Disorder
 

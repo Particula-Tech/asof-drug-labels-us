@@ -198,7 +198,7 @@ Common side effects of lamotrigine tablets include:
 - abdominal pain
 - sleepiness
 - back pain
-- nausea, vomiting
+- nausea, vomiting, dairrhea
 - tiredness
 - insomnia
 - dry mouth
@@ -221,15 +221,14 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use lamotrigine tablets for a condition for which it was not prescribed.
 Do not give lamotrigine tablets to other people, even if they have the same symptoms you have.
 They may harm them.
-
+If you take a urine drug screening test, lamotrigine tablets may make the test result positive for another drug.
+If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking lamotrigine tablets.
 This Medication Guide summarizes the most important information about lamotrigine tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamotrigine tablets that is written for healthcare professionals.
-
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 What are the ingredients in lamotrigine tablets?
-
 Active ingredient: lamotrigine.
 
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only).
@@ -238,4 +237,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 05/2015

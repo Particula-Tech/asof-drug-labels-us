@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Significant drug interactions with lamotrigine are summarized in Table 13.
+Significant drug interactions with lamotrigine are summarized in this section.
 Additional details of these drug interaction studies are provided in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)].
 
 Table 13.
@@ -17,3 +17,9 @@ Established and Other Potentially Significant Drug Interactions
 | Rifampin | ↓ lamotrigine | Decreased lamotrigine AUC approximately 40%. |
 | Valproate | ↑ lamotrigine ? valproate | Increased lamotrigine concentrations slightly more than 2-fold. There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |
 | ↓ = Decreased (induces lamotrigine glucuronidation). ↑ = Increased (inhibits lamotrigine glucuronidation). ? = Conflicting data. |  |  |
+
+Effect of Lamotrigine on Organic Cationic Transporter 2 Substrates
+
+Lamotrigine is an inhibitor of renal tubular secretion via organic cationic transporter 2 (OCT2) proteins [see Clinical Pharmacology (12.3)].
+This may result in increased plasma levels of certain drugs that are substantially excreted via this route.
+Coadministration of lamotrigine with OCT2 substrates with a narrow therapeutic index (e.g., dofetilide) is not recommended.
