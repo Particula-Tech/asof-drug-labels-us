@@ -46,6 +46,9 @@ The elimination of drug from tissue distribution depends largely upon the abilit
 
 Various pharmacokinetic parameters of the local anesthetics can be significantly altered by the presence of hepatic or renal disease, addition of epinephrine, factors affecting urinary pH, renal blood flow, the route of drug administration, and the age of the patient.
 The half-life of bupivacaine in adults is 3.5 ± 2 hours and in neonates 8.1 hours.
+In clinical studies, elderly patients exhibited a greater spread and higher maximal level of analgesia than younger patients.
+Elderly patients also reached the maximal level of analgesia more rapidly than younger patients, and exhibited a faster onset of motor blockade.
+The total plasma clearance was decreased and the terminal half-life was lengthened in these patients.
 
 Amide-type local anesthetics such as bupivacaine are metabolized primarily in the liver via conjugation with glucuronic acid.
 Patients with hepatic disease, especially those with severe hepatic disease, may be more susceptible to the potential toxicities of the amide-type local anesthetics.
@@ -53,6 +56,6 @@ Pipecoloxylidine is the major metabolite of bupivacaine.
 
 The kidney is the main excretory organ for most local anesthetics and their metabolites.
 Urinary excretion is affected by renal perfusion and factors affecting urinary pH.
-Only 5% of bupivacaine is excreted unchanged in the urine.
+Only 6% of bupivacaine is excreted unchanged in the urine.
 
 When administered in recommended doses and concentrations, bupivacaine does not ordinarily produce irritation or tissue damage and does not cause methemoglobinemia.

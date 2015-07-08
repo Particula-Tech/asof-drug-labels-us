@@ -5,8 +5,8 @@ Bupivacaine Spinal (Bupivacaine in Dextrose Injection, USP) is supplied in 2 mL 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-Revised: 01/2013
+Revised: 6/2015
 
-EN-3185
+EN-3967
 
 Hospira, Inc., Lake Forest, IL 60045 USA

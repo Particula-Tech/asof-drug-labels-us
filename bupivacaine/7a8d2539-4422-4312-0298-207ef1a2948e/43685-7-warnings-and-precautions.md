@@ -40,6 +40,7 @@ Restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling
 Spinal anesthetics should be used with caution in patients with severe disturbances of cardiac rhythm, shock, or heart block.
 
 Sympathetic blockade occurring during spinal anesthesia may result in peripheral vasodilation and hypotension, the extent depending on the number of dermatomes blocked.
+Patients over 65 years, particularly those with hypertension, may be at increased risk for experiencing the hypotensive effects of Bupivacaine Spinal.
 Blood pressure should, therefore, be carefully monitored especially in the early phases of anesthesia.
 Hypotension may be controlled by vasoconstrictors in dosages depending on the severity of hypotension and response of treatment.
 The level of anesthesia should be carefully monitored because it is not always controllable in spinal techniques.
@@ -60,15 +61,15 @@ Successful outcome is dependent on early diagnosis, prompt discontinuance of the
 
 The following conditions may preclude the use of spinal anesthesia, depending upon the physician’s evaluation of the situation and ability to deal with the complications or complaints which may occur:
 
-- Pre-existing diseases of the central nervous system, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
-- Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
+- •Pre-existing diseases of the central nervous system, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
+- •Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
   Trauma to a blood vessel during the conduct of spinal anesthesia may, in some instances, result in uncontrollable central nervous system hemorrhage or soft tissue hemorrhage.
-- Chronic backache and preoperative headache.
-- Hypotension and hypertension.
-- Technical problems (persistent paresthesias, persistent bloody tap).
-- Arthritis or spinal deformity.
-- Extremes of age.
-- Psychosis or other causes of poor cooperation by the patient.
+- •Chronic backache and preoperative headache.
+- •Hypotension and hypertension.
+- •Technical problems (persistent paresthesias, persistent bloody tap).
+- •Arthritis or spinal deformity.
+- •Extremes of age.
+- •Psychosis or other causes of poor cooperation by the patient.
 
 Information for Patients: When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of spinal anesthesia.
 Also, when appropriate, the physician should discuss other information including adverse reactions in the Bupivacaine Spinal (Bupivacaine in Dextrose Injection, USP) package insert.
@@ -95,7 +96,7 @@ The high doses are approximately 30-times the daily maximum recommended human do
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level being approximately 8-times the MRHD on a BSA basis.
 
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg, decreased pup survival was observed at the high dose.
+In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg/day, decreased pup survival was observed at the high dose.
 The high dose is approximately 30-times the daily MRHD of 12 mg/day on a BSA basis.
 
 Labor and Delivery: Spinal anesthesia has a recognized use during labor and delivery.
@@ -126,3 +127,12 @@ Nursing Mothers: It is not known whether local anesthetic drugs are excreted in 
 Because many drugs are excreted in human milk, caution should be exercised when local anesthetic drugs are administered to a nursing woman.
 
 Pediatric Use: Until further experience is gained in patients younger than 18 years, administration of Bupivacaine Spinal in this age group is not recommended.
+
+Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk of developing hypotension while undergoing spinal anesthesia with Bupivacaine Spinal (see PRECAUTIONS, General and ADVERSE REACTIONS, Cardiovascular System).
+
+Elderly patients may require lower doses of Bupivacaine Spinal (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
+
+In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+
+This product is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
