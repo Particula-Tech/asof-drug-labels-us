@@ -1,12 +1,12 @@
 For Oral Use Rx Only
 
-MANUFACTURED AND DISTRIBUTED BY
+Distributed By
 
-PERRIGO®
+Perrigo®
 
-ALLEGAN, MI 49010
+Allegan, MI 49010
+
+www.perrigo.com
 
 Rev.
-06/08
-
-2F100 RC J2
+06/12

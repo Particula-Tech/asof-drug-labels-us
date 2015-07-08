@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Actions
+## Mechanism of Actions:
 
 Cetirizine, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H1 receptors.
 The antihistaminic activity of cetirizine has been clearly documented in a variety of animal and human models.
@@ -10,22 +10,22 @@ In vitro receptor binding studies have shown no measurable affinity for other th
 Autoradiographic studies with radiolabeled cetirizine in the rat have shown negligible penetration into the brain.
 Ex vivo experiments in the mouse have shown that systemically administered cetirizine does not significantly occupy cerebral H1 receptors.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
-Absorption
+Absorption:
 
 Cetirizine was rapidly absorbed with a time to maximum concentration (Tmax) of approximately 1 hour following oral administration of tablets or syrup in adults.
 Comparable bioavailability was found between the tablet and syrup dosage forms.
 When healthy volunteers were administered multiple doses of cetirizine (10 mg tablets once daily for 10 days), a mean peak plasma concentration (Cmax) of 311 ng/mL was observed.
 No accumulation was observed.
 Cetirizine pharmacokinetics were linear for oral doses ranging from 5 to 60 mg.
-Food had no effect on the extent of cetirizine exposure (AUC) but Tmax was delayed by 1.7 hours and Cmax was decreased by 23% in the presence of food.
+Food had no effect on the extent of cetirizine exposure (AUC) but Tmax was delayed by 1.7 hours and Cmaxwas decreased by 23% in the presence of food.
 
-Distribution
+Distribution:
 
 The mean plasma protein binding of cetirizine is 93%, independent of concentration in the range of 25-1000 ng/mL, which includes the therapeutic plasma levels observed.
 
-Metabolism
+Metabolism:
 
 A mass balance study in 6 healthy male volunteers indicated that 70% of the administered radioactivity was recovered in the urine and 10% in the feces.
 Approximately 50% of the radioactivity was identified in the urine as unchanged drug.
@@ -33,7 +33,7 @@ Most of the rapid increase in peak plasma radioactivity was associated with pare
 Cetirizine is metabolized to a limited extent by oxidative O-dealkylation to a metabolite with negligible antihistaminic activity.
 The enzyme or enzymes responsible for this metabolism have not been identified.
 
-Elimination
+Elimination:
 
 The mean elimination half-life in 146 healthy volunteers across multiple pharmacokinetic studies was 8.3 hours and the apparent total body clearance for cetirizine was approximately 53 mL/min.
 
@@ -46,27 +46,27 @@ The disposition of theophylline was not altered by concomitant cetirizine admini
 
 Special Populations
 
-Pediatric Patients
+Pediatric Patients:
 
 In pediatric patients aged 2 to 5 years who received 5 mg of cetirizine, the mean Cmax was 660 ng/mL.
-Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 81 - 111% greater and the elimination half-life was 33 to 41% shorter in the pediatric population than in adults.
+Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 81-111% greater and the elimination half-life was 33 to 41% shorter in the pediatric population than in adults.
 In pediatric patients aged 6 to 23 months who received a single dose of 0.25 mg/kg cetirizine oral solution (mean dose 2.3 mg), the mean Cmax was 390 ng/mL.
 Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 304% greater and the elimination half-life was 63% shorter in this pediatric population compared to adults.
 The average AUC(0-t) in children 6 months to <2 years of age receiving the maximum dose of cetirizine solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine tablets once a day.
 
-Effect of Gender
+Effect of Gender:
 
 The effect of gender on cetirizine pharmacokinetics has not been adequately studied.
 
-Effect of Race
+Effect of Race:
 
 No race-related differences in the kinetics of cetirizine have been observed.
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 Cetirizine hydrochloride at doses of 5 and 10 mg strongly inhibited the wheal and flare caused by intradermal injection of histamine in 19 pediatric volunteers (aged 5 to 12 years) and the activity persisted for at least 24 hours.
 In a 35-day study in children aged 5 to 12, no tolerance to the antihistaminic (suppression of wheal and flare response) effects of cetirizine hydrochloride was found.
-In 10 infants 7 to 25 months of age who received 4 to 9 days of cetirizine in an oral solution (0.25 mg/kg bid), there was a 90% inhibition of histamine-induced (10 mg/mL) cutaneous wheal and 87% inhibition of the flare 12 hours after administration of the last dose.
+In 10 infants 7 to 25 month of age who received 4 to 9 days of cetirizine in an oral solution (0.25 mg/kg bid), there was a 90% inhibition of histamine-induced (10 mg/mL) cutaneous wheal and 87% inhibition of the flare 12 hours after administration of the last dose.
 The clinical relevance of this suppression of histamine-induced wheal and flare response on skin testing is unknown.
 
 The effects of intradermal injection of various other mediators or histamine releasers were also inhibited by cetirizine, as was response to a cold challenge in patients with cold-induced urticaria.
@@ -95,7 +95,7 @@ In a six-week, placebo-controlled study of 186 patients (aged 12 to 64 years) wi
 In a two-week, placebo-controlled clinical trial, a subset analysis of 65 pediatric (aged 6 to 11 years) allergic rhinitis patients with asthma showed cetirizine hydrochloride did not alter pulmonary function.
 These studies support the safety of administering cetirizine hydrochloride to pediatric and adult allergic rhinitis patients with mild to moderate asthma.
 
-## Clinical Studies
+## Clinical Studies:
 
 Multicenter, randomized, double-blind, clinical trials comparing cetirizine 5 to 20 mg to placebo in patients 12 years and older with perennial allergic rhinitis were conducted in the United States.
 Two of these showed significant reductions in symptoms of perennial allergic rhinitis for up to 8 weeks in duration.

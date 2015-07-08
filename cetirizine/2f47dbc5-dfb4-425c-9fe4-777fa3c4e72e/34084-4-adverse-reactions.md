@@ -26,9 +26,7 @@ Adverse Experiences Reported in Pediatric Patients Aged 6 to 11 Years in Placebo
 The following events were observed infrequently (less than 2%), in either 3982 adults and children 12 years and older or in 659 pediatric patients aged 6 to 11 years who received cetirizine hydrochloride in U.S. trials, including an open adult study of six months duration.
 A causal relationship of these infrequent events with cetirizine hydrochloride administration has not been established.
 
-Autonomic Nervous System: anorexia, flushing, increased salivation, urinary
-
-retention.
+Autonomic Nervous System: anorexia, flushing, increased salivation, urinary retention.
 
 Cardiovascular: cardiac failure, hypertension, palpitation, tachycardia.
 
@@ -48,9 +46,7 @@ Psychiatric: abnormal thinking, agitation, amnesia, anxiety, decreased libido, d
 
 Respiratory System: bronchitis, dyspnea, hyperventilation, increased sputum, pneumonia, respiratory disorder, rhinitis, sinusitis, upper respiratory tract infection.
 
-Reproductive: dysmenorrhea, female breast pain, intermenstrual bleeding,
-
-leukorrhea, menorrhagia, vaginitis.
+Reproductive: dysmenorrhea, female breast pain, intermenstrual bleeding, leukorrhea, menorrhagia, vaginitis.
 
 Reticuloendothelial: lymphadenopathy.
 

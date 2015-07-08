@@ -8,6 +8,6 @@ Cetirizine Hydrochloride Syrup, 1 mg/mL is available as follows:
 
 480 mL amber plastic bottle (NDC 45802-626-43)
 
-## STORAGE
+## STORAGE:
 
 Store at 20°-25°C (68°-77°F) excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature]; or Store refrigerated, 2°-8°C (36°-46°F).
