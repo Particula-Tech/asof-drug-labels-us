@@ -1,3 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-Propranolol Hydrochloride Injection, USP 1 mg/mL NDC 00143-9872-01
+NDC 0143-9872-01 PROPRANOLOL HYDROCHLORIDE INJECTION, USP 1 mg/mL FOR IV USE ONLY Rx ONLY 1 mL Single Dose Vial USUAL DOSAGE: See package insert.
+Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+
+NDC 0143-9872-10 10 x 1 mL Single Dose Vials PROPRANOLOL HYDROCHLORIDE INJECTION, USP 1 mg/mL FOR IV USE ONLY Rx ONLY

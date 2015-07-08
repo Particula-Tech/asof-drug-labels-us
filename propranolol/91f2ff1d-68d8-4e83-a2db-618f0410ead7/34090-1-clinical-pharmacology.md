@@ -4,26 +4,26 @@
 
 Propranolol is a nonselective beta-adrenergic receptor blocking agent possessing no other autonomic nervous system activity.
 It specifically competes with beta-adrenergic receptor stimulating agents for available receptor sites.
-When access to beta-receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
+When access to beta‑receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
 At doses greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
 ## Mechanism of Action
 
 The effects of propranolol are due to selective blockade of beta-adrenergic receptors, leaving alpha-adrenergic responses intact.
-There are two well-characterized subtypes of beta receptors (beta 1 and beta2); propranolol interacts with both subtypes equally.
+There are two well-characterized subtypes of beta receptors (beta1 and beta2); propranolol interacts with both subtypes equally.
 Beta1-adrenergic receptors are found primarily in the heart.
 Blockade of cardiac beta1-adrenergic receptors leads to a decrease in the activity of both normal and ectopic pacemaker cells and a decrease in A-V nodal conduction velocity.
 All of these actions can contribute to antiarrhythmic activity and control of ventricular rate during arrhythmias.
-Blockade of cardiac beta1-adrenergic receptors also decreases the myocardial force of contraction and may provoke cardiac decompensation in patients with minimal cardiac reserve.
+Blockade of cardiac beta1‑adrenergic receptors also decreases the myocardial force of contraction and may provoke cardiac decompensation in patients with minimal cardiac reserve.
 
-Beta2-adrenergic receptors are found predominantly in smooth muscle—vascular, bronchial, gastrointestinal and genitourinary.
+Beta2-adrenergic receptors are found predominantly in smooth muscle–vascular, bronchial, gastrointestinal and genitourinary.
 Blockade of these receptors results in constriction.
 Clinically, propranolol may exacerbate respiratory symptoms in patients with obstructive pulmonary diseases such as asthma and emphysema (see CONTRAINDICATIONS and WARNINGS).
 
 Propranolol’s beta blocking effects are attributable to its S(-) enantiomer.
 
-## Pharmacokinetics And Drug Metabolism
+## Pharmacokinetics and Drug Metabolism
 
 ### Distribution
 
@@ -41,12 +41,12 @@ Following single-dose intravenous administration, side-chain oxidative products 
 Of these, only the primary ring oxidative product (4-hydroxypropranolol) possesses beta-adrenergic receptor blocking activity.
 
 In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
-Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
+Side‑chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
 4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
 ## Pharmacodynamics
 
-As propranolol concentration increases, so does its beta-blocking effect, as evidenced by a reduction in exercise-induced tachycardia (n=6 normal volunteers).
+As propranolol concentration increases, so does its beta-blocking effect, as evidenced by a reduction in exercise-induced tachycardia (n = 6 normal volunteers).
 
 ## Special Populations
 
@@ -68,7 +68,7 @@ When adjusted for weight, there were no gender-related differences in eliminatio
 
 ### Obesity
 
-In a study of intravenously administered propranolol, obese subjects had a higher AUC (161 versus 109 hr•µg/L) and lower total clearance than did non-obese subjects.
+In a study of intravenously administered propranolol, obese subjects had a higher AUC (161 versus 109 hr·mcg/L) and lower total clearance than did non-obese subjects.
 Propranolol plasma protein binding was similar in both groups.
 
 ### Renal Insufficiency
@@ -76,10 +76,10 @@ Propranolol plasma protein binding was similar in both groups.
 The pharmacokinetics of propranolol and its metabolites were evaluated in 15 subjects with varying degrees of renal function after propranolol administration via the intravenous and oral routes.
 When compared with normal subjects, an increase in fecal excretion of propranolol conjugates was observed in patients with increased renal impairment.
 Propranolol was also evaluated in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, following a single oral dose of 40 mg of propranolol.
-The peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2- to 3-fold higher (161 ng/mL) than those observed in the dialysis patients (47 ng/mL) and in the healthy subjects (26 ng/mL).
+The peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2- to 3-fold higher (161 ng/mL) than those observed in the dialysis patients (47 ng/‌mL) and in the healthy subjects (26 ng/mL).
 Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
 
-Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P450 activity.
+Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P-450 activity.
 
 ### Hepatic Insufficiency
 
@@ -164,7 +164,7 @@ Co-administration of chlorpromazine with propranolol resulted in increased plasm
 #### Anti-Ulcer Drugs
 
 Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol concentrations by about 40%.
-Co-administration with aluminum hydroxide gel (1200 mg) resulted in a 50% decrease in propranolol concentrations.
+Co‑administration with aluminum hydroxide gel (1200 mg) resulted in a 50% decrease in propranolol concentrations.
 
 Co-administration of metoclopramide with propranolol did not have a significant effect on propranolol’s pharmacokinetics.
 

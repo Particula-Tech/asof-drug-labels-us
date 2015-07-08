@@ -3,7 +3,7 @@
 ## Cardiac Failure
 
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
-Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
+Although beta‑blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
 ## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
@@ -83,16 +83,16 @@ Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and 
 Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with propranolol.
 
 The clearance of lidocaine is reduced when administered with propranolol.
-Lidocaine toxicity has been reported following coadministration with propranolol.
+Lidocaine toxicity has been reported following co-administration with propranolol.
 
-Caution should be exercised when administering propranolol with drugs that slow A-V nodal conduction, e.g. digitalis, lidocaine and calcium channel blockers.
+Caution should be exercised when administering propranolol with drugs that slow A-V nodal conduction, e.g., digitalis, lidocaine and calcium channel blockers.
 
 #### Calcium Channel Blockers
 
 Caution should be exercised when patients receiving a beta-blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects.
 Both agents may depress myocardial contractility or atrioventricular conduction.
 
-There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
+There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta‑blockers.
 
 Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
 
@@ -130,7 +130,7 @@ Also, propranolol may reduce sensitivity to dobutamine stress echocardiography i
 
 #### Non-Steroidal Anti-Inflammatory Drugs
 
-Nonsteroidal anti-inflammatory drugs (NSAIDS) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents.
+Non-steroidal anti-inflammatory drugs (NSAIDs) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents.
 
 Administration of indomethacin with propranolol may reduce the efficacy of propranolol in reducing blood pressure and heart rate.
 
@@ -155,7 +155,7 @@ Hypotension and cardiac arrest have been reported with the concomitant use of pr
 
 Thyroxine may result in a lower than expected T3 concentration when used concomitantly with propranolol.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In dietary administration studies in which mice and rats were treated with propranolol hydrochloride for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
 On a body surface area basis, this dose in the mouse and rat is, respectively, about equal to and about twice the maximum recommended human oral daily dose (MRHD) of 640 mg propranolol hydrochloride.
@@ -189,7 +189,7 @@ Safety and effectiveness of propranolol in pediatric patients have not been esta
 ## Geriatric Use
 
 Clinical studies of intravenous propranolol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Elderly subjects have decreased clearance and a longer mean elimination half-life.
+Elderly subjects have decreased clearance and a longer mean elimination half‑life.
 These findings suggest that dose adjustment of propranolol injection may be required for elderly patients (see CLINICAL PHARMACOLOGY, Special Populations, Geriatric).
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of the decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 

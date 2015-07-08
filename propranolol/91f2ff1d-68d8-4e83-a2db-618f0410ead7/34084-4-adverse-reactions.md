@@ -15,7 +15,7 @@ Bradycardia; congestive heart failure; intensification of AV block; hypotension;
 ## Central Nervous System
 
 Light-headedness; mental depression manifested by insomnia, lassitude, weakness, fatigue; reversible mental depression progressing to catatonia; visual disturbances; hallucinations; vivid dreams; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics.
-For immediate-release formulations, fatigue, lethargy, and vivid dreams appear dose related.
+For immediate‑release formulations, fatigue, lethargy, and vivid dreams appear dose-related.
 
 ## Gastrointestinal
 
@@ -41,3 +41,5 @@ In extremely rare instances, systemic lupus erythematosus has been reported.
 
 Alopecia, LE-like reactions, psoriaform rashes, dry eyes, male impotence, and Peyronie’s disease have been reported rarely.
 Oculomucocutaneous reactions involving the skin, serous membranes and conjunctivae reported for a beta-blocker (practolol) have not been associated with propranolol.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
