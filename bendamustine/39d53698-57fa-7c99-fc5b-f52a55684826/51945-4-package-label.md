@@ -2,9 +2,11 @@
 
 ## Treanda® (bendamustine HCl) Injection 45 mg/0.5 mL Single-Dose Vial, Carton Text
 
-NEW CONCENTRATION
+Do NOT use with devices that
 
-AND STORAGE INFORMATION
+contain polycarbonate or
+
+acrylonitrile butadiene-styrene (ABS).
 
 NDC 63459-395-02 Rx only
 
@@ -34,9 +36,11 @@ Retain in carton until time of use.
 
 ## Treanda® (bendamustine HCl) Injection 180 mg/2 mL Single-Dose Vial, Carton Text
 
-NEW CONCENTRATION
+Do NOT use with devices that
 
-AND STORAGE INFORMATION
+contain polycarbonate or
+
+acrylonitrile butadiene-styrene (ABS).
 
 NDC 63459-396-02 Rx only
 
