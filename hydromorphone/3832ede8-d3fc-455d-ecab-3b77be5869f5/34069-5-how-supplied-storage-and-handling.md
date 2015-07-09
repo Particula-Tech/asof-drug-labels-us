@@ -15,7 +15,7 @@ Implementation of more effective accounting procedures and measures to restrict 
 | --- | --- | --- | --- | --- |
 | 0409-2634-01 | Vial | 10 mg/mL | 1 mL | Box of 10 vials |
 | 0409-2634-05 | DILUTE PRIOR TO USE. FOR USE IN THE PREPARATION OF LARGE VOLUME PARENTERAL SOLUTIONS.Vial | 50 mg (10 mg/mL) | 5 mL | Box of 10 vials |
-| 0409-2634-50 | Vial | 500 mg (10 mg/ mL) | 50 mL | Single dose vial |
+| 0409-2634-50 | Vial | 500 mg (10 mg/mL) | 50 mL | Single dose vial |
 
 No added preservative.
 
@@ -28,6 +28,4 @@ Store at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
 
 CAUTION: DEA Order Form Required.
 
-EN-3332
-
-Manufactured by Hospira, Inc Lake Forest, IL 60045, USA
+EN-3836 Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA

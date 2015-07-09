@@ -5,7 +5,7 @@
 Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is a 10 mg/mL concentrated solution of hydromorphone, and is intended for use in opioid-tolerant patients only.
 Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
 
-Do not confuse Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) with standard parenteral formulations of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY), as overdose and death could result.
+Do not confuse Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) with standard parenteral formulations of Hydromorphone Hydrochloride Injection, USP as overdose and death could result.
 
 Morphine does not convert to hydromorphone on a milligram per milligram basis.
 Use Table 1 when converting a patient from morphine to hydromorphone to avoid errors that can lead to overdose or death.

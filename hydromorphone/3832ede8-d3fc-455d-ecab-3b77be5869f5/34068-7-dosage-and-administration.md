@@ -31,14 +31,14 @@ If excessive opioid side effects are observed early in the dosing interval, redu
 If this results in breakthrough pain at the end of the dosing interval, the dosing interval may need to be shortened.
 Dose titration should be guided more by the need for analgesia and the severity of adverse events than the absolute dose of opioid employed.
 
-## 2.3 Initiation of Therapy
+## 2.3 Initiation of Therapy in Opioid-Naïve Patients
 
-Always initiate dosing in opioid-naïve patients using standard parenteral formulations of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY).
+Always initiate dosing in opioid-naïve patients using standard parenteral formulations of Hydromorphone Hydrochloride Injection, USP.
 Never administer Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) to opioid-naïve patients.
 
 ### 2.3.1 Subcutaneous or Intramuscular Administration
 
-The usual starting dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is 1 mg to 2 mg every 2 to 3 hours as necessary.
+The usual starting dose of Hydromorphone Hydrochloride Injection, USP is 1 mg to 2 mg every 2 to 3 hours as necessary.
 Depending on the clinical situation, the initial starting dose may be lowered in patients who are opioid naïve.
 Adjust the dose according to the severity of pain, the severity of adverse events, as well as the patient’s underlying disease and age.
 
@@ -51,11 +51,11 @@ The initial dose should be reduced in the elderly or debilitated and may be lowe
 
 ### 2.3.3 Hepatic Impairment
 
-Start patients with hepatic impairment on one-fourth to one-half the usual Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) starting dose depending on the extent of impairment [see Clinical Pharmacology, Pharmacokinetics (12.3)].
+Start patients with hepatic impairment on one-fourth to one-half the usual Hydromorphone Hydrochloride Injection, USP starting dose depending on the extent of impairment [see Clinical Pharmacology (12.3)].
 
 ### 2.3.4 Renal Impairment
 
-Start patients with renal impairment on one-fourth to one-half the usual Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) depending on the degree of impairment [see Clinical Pharmacology, Pharmacokinetics (12.3)].
+Start patients with renal impairment on one-fourth to one-half the usual Hydromorphone Hydrochloride Injection, USP starting dose depending on the degree of impairment [see Clinical Pharmacology (12.3)].
 
 ## 2.4 Conversion from Prior Opioid
 
@@ -89,7 +89,7 @@ Use Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) only for patients 
 Because of its high concentration, the delivery of precise doses of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) may be difficult if low doses of hydromorphone are required.
 Therefore, use Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) only if the amount of Hydromorphone required can be delivered accurately with this formulation.
 
-Base the starting dose for Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) on the prior dose of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) or on the prior dose of an alternate opioid as described above in Section 2.4 Conversion from Prior Opioid and Table 1.
+Base the starting dose for hydromorphone hydrochloride injection, USP (HIGH POTENCY) on the prior dose of Hydromorphone Hydrochloride Injection, USP or on the prior dose of an alternate opioid as described above in Section 2.4 Conversion from Prior Opioid and Table 1.
 
 ## 2.6 Administration
 
