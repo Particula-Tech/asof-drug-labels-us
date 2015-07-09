@@ -6,6 +6,7 @@ Topicort® (desoximetasone) Topical Spray, 0.25% is a clear colorless liquid sup
 
 - 30 mL (NDC 51672-5281-3)
 - 50 mL (NDC 51672-5281-4)
+- 100 mL (2-50 mL bottles) (NDC 51672-5281-6)
 - 100 mL (NDC 51672-5281-7)
 
 Store at controlled room temperature between 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F).
