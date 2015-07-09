@@ -6,7 +6,7 @@ Coadministration of empagliflozin with diuretics resulted in increased urine vol
 
 ## 7.2 Insulin or Insulin Secretagogues
 
-Coadministration of empagliflozin with insulin or insulin secretagogues increases the risk for hypoglycemia [see Warnings and Precautions (5.3)]
+Coadministration of empagliflozin with insulin or insulin secretagogues increases the risk for hypoglycemia [see Warnings and Precautions (5.3)].
 
 ## 7.3 Positive Urine Glucose Test
 

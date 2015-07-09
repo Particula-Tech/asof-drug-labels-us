@@ -19,7 +19,7 @@ Inform female patients of child bearing age that the use of JARDIANCE during pre
 Based on animal data, JARDIANCE may cause fetal harm in the second and third trimesters.
 Instruct patients to report pregnancies to their physicians as soon as possible.
 
-Inform nursing mothers to discontinue JARDIANCE or nursing, taking into account the important of the drug to the mother.
+Inform nursing mothers to discontinue JARDIANCE or nursing, taking into account the importance of the drug to the mother.
 It is not known if JARDIANCE is excreted in breast milk; however, based on animal data, JARDIANCE may cause harm to nursing infants.
 
 Hypotension Inform patients that hypotension may occur with JARDIANCE and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].

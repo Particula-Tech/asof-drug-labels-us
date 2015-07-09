@@ -70,7 +70,7 @@ The relevance of this observation to patients with renal impairment is unknown.
 
 Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
-a empagliflozin, 50 mg, once daily; b empagliflozin, 25 mg, single dose; c empagliflozin, 25 mg, once daily; d empagliflozin, 10 mg, single dose
+aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
 
 Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torasemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 

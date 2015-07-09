@@ -51,19 +51,18 @@ Volume Depletion JARDIANCE causes an osmotic diuresis, which may lead to intrava
 In the pool of five placebo-controlled clinical trials, adverse reactions related to volume depletion (e.g., blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolemia, orthostatic hypotension, and syncope) were reported by 0.3%, 0.5%, and 0.3% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg respectively.
 JARDIANCE may increase the risk of hypotension in patients at risk for volume contraction [see Warnings and Precautions (5.1) and Use in Specific Populations (8.5, 8.6)].
 
-Increased Urination In the pool five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on JARDIANCE than on placebo (see Table 1).
+Increased Urination In the pool of five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on JARDIANCE than on placebo (see Table 1).
 Specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 
 Impairment in Renal Function Use of JARDIANCE was associated with increases in serum creatinine and decreases in eGFR (see Table 2).
-Patients with moderate renal impairment at baseline had larger mean changes.
-[see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
+Patients with moderate renal impairment at baseline had larger mean changes [see Warnings and Precautions (5.2) and Use in Specific Populations (8.5, 8.6)].
 
 Table 2 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 24-week Placebo-Controlled Studies and Renal Impairment Study
 
 |  |  | Pool of 24-Week Placebo-Controlled Studies |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo | JARDIANCE 10 mg | JARDIANCE 25 mg |  |  |
-| Baseline | N | 825 | 830 | 822 |
+| Baseline Mean | N | 825 | 830 | 822 |
 | Creatinine (mg/dL) | 0.84 | 0.85 | 0.85 |  |
 | eGFR (mL/min/1.73 m2) | 87.3 | 87.1 | 87.8 |  |
 | Week 12 Change | N | 771 | 797 | 783 |
@@ -91,7 +90,7 @@ Table 2 Changes from Baseline in Serum Creatinine and eGFR in the Pool of Four 2
 Hypoglycemia The incidence of hypoglycemia by study is shown in Table 3.
 The incidence of hypoglycemia increased when JARDIANCE was administered with insulin or sulfonylurea [see Warnings and Precautions (5.3)].
 
-Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Controlled Clinical Studies
+Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studies
 
 | Monotherapy (24 weeks) | Placebo (n=229) | JARDIANCE 10 mg (n=224) | JARDIANCE 25 mg (n=223) |
 | --- | --- | --- | --- |
@@ -106,21 +105,24 @@ Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Controlled Clin
 | In Combination with Pioglitazone +/- Metformin (24 weeks) | Placebo (n=165) | JARDIANCE 10 mg + Pioglitazone +/- Metformin (n=165) | JARDIANCE 25 mg + Pioglitazone +/- Metformin (n=168) |
 | Overall (%) | 1.8% | 1.2% | 2.4% |
 | Severe (%) | 0% | 0% | 0% |
-| In Combination with Insulin (18 weeksc) | Placebo (n=170) | JARDIANCE 10 mg (n=169) | JARDIANCE 25 mg (n=155) |
+| In Combination with Basal Insulin (18 weeksc) | Placebo (n=170) | JARDIANCE 10 mg (n=169) | JARDIANCE 25 mg (n=155) |
 | Overall (%) | 20.6% | 19.5% | 28.4% |
 | Severe (%) | 0% | 0% | 1.3% |
+| In Combination with MDI Insulin +/- Metformin (18 weeksc) | Placebo (n=188) | JARDIANCE 10 mg (n=186) | JARDIANCE 25 mg (n=189) |
+| Overall (%) | 37.2% | 39.8% | 41.3% |
+| Severe (%) | 0.5% | 0.5% | 0.5% |
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL |  |  |  |
 | bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |  |
 | cInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
 
-Genital Mycotic Infections In the pool five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with JARDIANCE compared to placebo, occurring in 0.9%, 4.1%. and 3.7% of patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
+Genital Mycotic Infections In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with JARDIANCE compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either JARDIANCE 10 or 25 mg.
 
 Genital mycotic infections occurred more frequently in female than male patients (see Table 1).
 
 Phimosis occurred more frequently in male patients treated with JARDIANCE 10 mg (less than 0.1%) and JARDIANCE 25 mg (0.1%) than placebo (0%).
 
-Urinary Tract Infections In the pool five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with JARDIANCE compared to placebo (see Table 1).
+Urinary Tract Infections In the pool of five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with JARDIANCE compared to placebo (see Table 1).
 Patients with a history of chronic or recurrent urinary tract infections were more likely to experience a urinary tract infection.
 The rate of treatment discontinuation due to urinary tract infections was 0.1%, 0.2%, and 0.1% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 
