@@ -2,6 +2,8 @@ Rx only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of doxycycline hyclate and other antibacterial drugs, doxycycline hyclate should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
+Manufactured by: Mutual Pharmaceutical Industries, Inc. Philadelphia, PA 19124
+
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 07, September 2014
+Rev 08, April 2015
