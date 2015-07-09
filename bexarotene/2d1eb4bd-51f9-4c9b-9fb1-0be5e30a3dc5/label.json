@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203174"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-6955-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "bexarotene",
+      "name": "Bexarotene"
+    }
+  ],
+  "setid": "2d1eb4bd-51f9-4c9b-9fb1-0be5e30a3dc5",
+  "source": "dailymed"
+}
