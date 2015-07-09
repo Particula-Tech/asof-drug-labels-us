@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA078355"
+  ],
+  "inn": "desloratadine",
+  "labeler": "Virtus Pharmaceuticals",
+  "package_ndcs": [
+    "69543-107-10",
+    "69543-107-30",
+    "69543-107-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "desloratadine",
+      "name": "Desloratadine"
+    }
+  ],
+  "setid": "0fe374d0-c14b-4102-b568-eb79165fc7ef",
+  "source": "dailymed"
+}
