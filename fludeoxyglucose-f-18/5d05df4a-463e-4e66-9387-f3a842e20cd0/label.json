@@ -1,11 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA203920"
+  ],
   "inn": "fludeoxyglucose-f-18",
   "labeler": "Triad Isotopes, Inc.",
   "package_ndcs": [
-    "60055-647-10",
-    "60055-647-20",
-    "60055-647-30"
+    "60055-334-30"
   ],
   "products": [
     {

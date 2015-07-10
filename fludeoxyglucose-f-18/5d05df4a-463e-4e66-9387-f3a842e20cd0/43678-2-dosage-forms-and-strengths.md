@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Supplied as 10, 20 or 30 mL vials containing 0.185 - 17.575 GBq (5 - 475 mCi/mL) of Fludeoxyglucose F 18 Injection (pH may be adjusted with sodium citrates) for intravenous administration.
+Available in 30 mL multiple-dose glass vials containing 0.74 - 11.1GBq (20 - 300 mCi/mL) of Fludeoxyglucose F 18 Injection and 4.5 mg of sodium chloride in citrate buffer for intravenous administration.

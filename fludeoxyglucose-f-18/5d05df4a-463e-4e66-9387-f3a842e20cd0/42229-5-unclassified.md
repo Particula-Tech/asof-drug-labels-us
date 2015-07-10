@@ -1,5 +1,7 @@
-Caution: Rx ONLY
+RX ONLY
 
-Manufactured by: Triad Isotopes, Inc. 5215 Langford Park Dr. Norcross, GA, 30071
+# Manufactured & Distributed by:
 
-Distributed by: Triad Isotopes, Inc. 5215 Langford Park Dr. Norcross, GA, 30071
+Triad Isotopes, Inc.
+
+Orlando, Florida

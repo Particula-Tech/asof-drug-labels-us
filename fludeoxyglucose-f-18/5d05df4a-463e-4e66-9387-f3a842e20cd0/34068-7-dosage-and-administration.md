@@ -3,7 +3,7 @@
 Fludeoxyglucose F18 Injection emits radiation.
 Use procedures to minimize radiation exposure.
 Calculate the final dose from the end of synthesis (EOS) time using proper radioactive decay factors.
-Assay the final dose in a properly calibrated dose calibrator before administration to the patient [see Description (11.2)].
+Assay the final dose in a properly calibrated dose calibrator before administration to the patient [see Description(11.2)].
 
 ## 2.1 Recommended Dose for Adults
 
@@ -11,16 +11,16 @@ Within the oncology, cardiology and neurology settings, the recommended dose for
 
 ## 2.2 Recommended Dose for Pediatric Patients
 
-Within the neurology setting, the recommended dose for pediatric patients is 2.6 mCi (96.2 MBq), as an intravenous injection.
-The optimal dose adjustment on the basis of body size or weight has not been determined [see Use in Special Populations (8.4)].
+Within the neurology setting, the recommended dose for pediatric patients is 2.6 mCi, as an intravenous injection.
+The optimal dose adjustment on the basis of body size or weight has not been determined [see Use in Special Populations(8.4)].
 
 ## 2.3 Patient Preparation
 
 - To minimize the radiation absorbed dose to the bladder, encourage adequate hydration.
   Encourage the patient to drink water or other fluids (as tolerated) in the 4 hours before their PET study.
 - Encourage the patient to void as soon as the imaging study is completed and as often as possible thereafter for at least one hour.
-- Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [see Warnings and Precautions (5.2)].
-  Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 – 6 hours prior to the drug's injection.
+- Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [see Warnings and Precautions(5.2)].
+  Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 – 6 hours prior to the drug’s injection.
 - In the cardiology setting, administration of glucose-containing food or liquids (e.g., 50 – 75 grams) prior to Fludeoxyglucose F 18 Injection facilitates localization of cardiac ischemia.
 
 ## 2.4 Radiation Dosimetry
@@ -32,11 +32,12 @@ These dissimilarities in absorbed radiation dose are due to developmental age va
 The identified critical organs (in descending order) across all age groups evaluated are the urinary bladder, heart, pancreas, spleen, and lungs.
 
 Table 1.
-Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injection
+Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injection MIRDOSE 2 software was used to calculate the radiation absorbed dose.
+Assumptions on the biodistribution based on data from Gallagher et al.1 and Jones et al.2
 
 | Organ | Newborn (3.4 kg) | 1-year old (9.8 kg) | 5-year old (19 kg) | 10-year old (32 kg) | 15-year old (57 kg) | Adult (70 kg) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bladder wall | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
+| Bladder wallThe dynamic bladder model with a uniform voiding frequency of 1.5 hours was used. | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
 | Heart wall | 2.4 | 1.2 | 0.70 | 0.44 | 0.29 | 0.22 |
 | Pancreas | 2.2 | 0.68 | 0.33 | 0.25 | 0.13 | 0.096 |
 | Spleen | 2.2 | 0.84 | 0.46 | 0.29 | 0.19 | 0.14 |
@@ -44,11 +45,11 @@ Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of
 | Kidneys | 0.81 | 0.34 | 0.19 | 0.13 | 0.089 | 0.074 |
 | Ovaries | 0.80 | 0.8 | 0.19 | 0.11 | 0.058 | 0.053 |
 | Uterus | 0.79 | 0.35 | 0.19 | 0.12 | 0.076 | 0.062 |
-| LLI wall | 0.69 | 0.28 | 0.15 | 0.097 | 0.060 | 0.051 |
+| LLI wallLLI = lower large intestine; | 0.69 | 0.28 | 0.15 | 0.097 | 0.060 | 0.051 |
 | Liver | 0.69 | 0.31 | 0.17 | 0.11 | 0.076 | 0.058 |
 | Gallbladder wall | 0.69 | 0.26 | 0.14 | 0.093 | 0.059 | 0.049 |
 | Small intestine | 0.68 | 0.29 | 0.15 | 0.096 | 0.060 | 0.047 |
-| ULI wall | 0.67 | 0.27 | 0.15 | 0.090 | 0.057 | 0.046 |
+| ULI wallULI = upper large intestine | 0.67 | 0.27 | 0.15 | 0.090 | 0.057 | 0.046 |
 | Stomach wall | 0.65 | 0.27 | 0.14 | 0.089 | 0.057 | 0.047 |
 | Adrenals | 0.65 | 0.28 | 0.15 | 0.095 | 0.061 | 0.048 |
 | Testes | 0.64 | 0.27 | 0.14 | 0.085 | 0.052 | 0.041 |

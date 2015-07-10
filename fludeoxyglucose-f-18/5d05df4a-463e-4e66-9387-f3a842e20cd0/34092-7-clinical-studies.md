@@ -5,7 +5,7 @@
 The efficacy of Fludeoxyglucose F 18 Injection in positron emission tomography cancer imaging was demonstrated in 16 independent studies.
 These studies prospectively evaluated the use of Fludeoxyglucose F 18 in patients with suspected or known malignancies, including non-small cell lung cancer, colo-rectal, pancreatic, breast, thyroid, melanoma, Hodgkin's and non-Hodgkin's lymphoma, and various types of metastatic cancers to lung, liver, bone, and axillary nodes.
 All these studies had at least 50 patients and used pathology as a standard of truth.
-The Fludeoxyglucose F 18 Injection doses in the studies ranged from 200 MBq to 740 MBq (5.4 to 20 mCi) with a median and mean dose of 370 MBq (10 mCi).
+The Fludeoxyglucose F 18 Injection doses in the studies ranged from 200 MBq to 740 MBq with a median and mean dose of 370 MBq.
 
 In the studies, the diagnostic performance of Fludeoxyglucose F 18 Injection varied with the type of cancer, size of cancer, and other clinical conditions.
 False negative and false positive scans were observed.

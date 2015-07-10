@@ -3,11 +3,11 @@
 ## 11.1 Chemical Characteristics
 
 Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging.
-The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C6H1118FO5 with a molecular weight of 181.26, and has the following chemical structure:
+The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C6H1118FO5with a molecular weight of 181.26, and has the following chemical structure:
 
-Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless solution.
-Each mL contains between 0.185 to 17.575 GBq (5 - 475 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS.
-The pH of the solution is between 4.5 and 7.5 and may be adjusted with sodium citrates.
+Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless citrate buffered solution.
+Each mL contains between 0.740 to 11.1GBq (20.0-300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer.
+The pH of the solution is between 4.5 and 7.5.
 The solution is packaged in a multiple-dose glass vial and does not contain any preservative.
 
 ## 11.2 Physical Characteristics
@@ -21,15 +21,12 @@ Principal Radiation Emission Data for Fluorine F 18
 | Radiation/Emission | % Per Disintegration | Mean Energy |
 | --- | --- | --- |
 | Positron(β+) | 96.73 | 249.8 keV |
-| Gamma(±) | 193.46 | 511.0 keV |
+| Gamma(±)Produced by positron annihilation From: Kocher, D.C. Radioactive Decay Tables DOE/TIC-I 1026, 89 (1981) | 193.46 | 511.0 keV |
 
-From: Kocher, D.C.
-Radioactive Decay Tables DOE/TIC-I 1026, 89 (1981)
-
-The specific gamma ray constant for fluorine F 18 is 5.7 R/hr/mCi (1.35 × 10-6 Gy/hr/kBq) at 1 cm.
-The half-value layer (HVL) for the 511 keV photons is 4.1 mm lead (Pb).
+The specific gamma ray constant (point source air kerma coefficient) for fluorine F 18 is 5.7 R/hr/mCi (1.35 x 10 -6 Gy/hr/kBq) at 1 cm.
+The half-value layer (HVL) for the 511 keV photons is 4 mm lead (Pb).
 The range of attenuation coefficients for this radionuclide as a function of lead shield thickness is shown in Table 3.
-For example, the interposition of an 8.3 mm thickness of Pb, with a coefficient of attenuation of 0.25, will decrease the external radiation by 75%.
+For example, the interposition of an 8 mm thickness of Pb, with a coefficient of attenuation of 0.25, will decrease the external radiation by 75%.
 
 Table 3.
 Radiation Attenuation of 511 keV Photons by lead (Pb) shielding
@@ -37,11 +34,12 @@ Radiation Attenuation of 511 keV Photons by lead (Pb) shielding
 | Shield thickness (Pb) mm | Coefficient of attenuation |
 | --- | --- |
 | 0 | 0.00 |
-| 4.1 | 0.50 |
-| 8.3 | 0.25 |
-| 13.2 | 0.10 |
-| 26.4 | 0.01 |
-| 52.8 | 0.001 |
+| 4 | 0.50 |
+| 8 | 0.25 |
+| 13 | 0.10 |
+| 26 | 0.01 |
+| 39 | 0.001 |
+| 52 | 0.0001 |
 
 For use in correcting for physical decay of this radionuclide, the fractions remaining at selected intervals after calibration are shown in Table 4.
 
@@ -50,7 +48,7 @@ Physical Decay Chart for Fluorine F 18
 
 | Minutes | Fraction Remaining |
 | --- | --- |
-| 0 | 1.000 |
+| 0calibration time | 1.000 |
 | 15 | 0.909 |
 | 30 | 0.826 |
 | 60 | 0.683 |
