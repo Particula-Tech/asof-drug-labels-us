@@ -1,20 +1,14 @@
 # WARNINGS
 
-Hypersensitivity Reactions to Cefepime, Cephalosporins, Penicillins, or Other Drugs
-
-Before therapy with MAXIPIME for Injection is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefepime, cephalosporins, penicillins, or other drugs.
+Hypersensitivity Reactions to Cefepime, Cephalosporins, Penicillins, or Other Drugs Before therapy with MAXIPIME for Injection is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefepime, cephalosporins, penicillins, or other drugs.
 Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibiotics has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy.
 If an allergic reaction to MAXIPIME occurs, discontinue the drug.
 
-Use in Patients with Renal Impairment
-
-In patients with creatinine clearance less than or equal to 60 mL/min, adjust the dose of MAXIPIME (cefepime hydrochloride) to compensate for the slower rate of renal elimination [see DOSAGE AND ADMINISTRATION].
+Use in Patients with Renal Impairment In patients with creatinine clearance less than or equal to 60 mL/min, adjust the dose of MAXIPIME (cefepime hydrochloride) to compensate for the slower rate of renal elimination [see DOSAGE AND ADMINISTRATION].
 Because high and prolonged serum cefepime concentrations can occur from usual dosages in patients with renal impairment, the cefepime dosage should be reduced when it is administered to such patients.
 Continued dosage should be determined by degree of renal impairment, severity of infection, and susceptibility of the causative organisms.
 
-Neurotoxicity
-
-During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus (see ADVERSE REACTIONS: Postmarketing Experience).
+Neurotoxicity During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus (see ADVERSE REACTIONS: Postmarketing Experience).
 Most cases occurred in patients with renal impairment who did not receive appropriate dosage adjustment.
 However, some cases of neurotoxicity occurred in patients receiving a dosage adjustment appropriate for their degree of renal impairment.
 In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.

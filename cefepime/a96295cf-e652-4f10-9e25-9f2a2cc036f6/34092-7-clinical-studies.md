@@ -30,10 +30,10 @@ For all outcome measures, cefepime was therapeutically equivalent to ceftazidime
 
 Table 7: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patients
 
-| Outcome Measures | % Response |  |
+|  | % Response |  |
 | --- | --- | --- |
-| Cefepime | Ceftazidime |  |
-| (n=164) | (n=153) |  |
+|  | Cefepime | Ceftazidime |
+| Outcome Measures | (n=164) | (n=153) |
 | Primary episode resolved with no treatment modification, no new febrile episodes or infection, and oral antibiotics allowed for completion of treatment | 51 | 55 |
 | Primary episode resolved with no treatment modification, no new febrile episodes or infection and no post-treatment oral antibiotics | 34 | 39 |
 | Survival, any treatment modification allowed | 93 | 97 |

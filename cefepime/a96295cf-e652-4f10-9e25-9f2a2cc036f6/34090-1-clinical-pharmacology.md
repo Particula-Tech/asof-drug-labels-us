@@ -42,8 +42,8 @@ Table 2: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmac
 | 4 h | 6.9 | 16 | 31.5 |
 | 8 h | 1.9 | 4.5 | 8.7 |
 | 12 h | 0.7 | 1.4 | 2.3 |
-| Cmax,mcg/mL | 13.9 (3.4) | 29.6 (4.4) | 57.5 (9.5) |
-| Tmax,h | 1.4 (0.9) | 1.6 (0.4) | 1.5 (0.4) |
+| Cmax, mcg/mL | 13.9 (3.4) | 29.6 (4.4) | 57.5 (9.5) |
+| Tmax, h | 1.4 (0.9) | 1.6 (0.4) | 1.5 (0.4) |
 | AUC, h•mcg/mL | 60 (8) | 137 (11) | 262 (23) |
 | Number of subjects (male) | 6 | 6 | 12 |
 
@@ -156,15 +156,17 @@ The disc diffusion interpretive criteria are provided in Table 4.
 
 Table 4: Susceptibility Test Interpretive Criteria for Cefepime¥
 
-| Pathogen | Minimum Inhibitory Concentrations(mcg/ml) |  |  | Disk Diffusion (Zone diameters in mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
-| Enterobacteriaceae | ≤ 2 | 4 to 8* | ≥ 16 | ≥ 25 | 19 to 24* | ≤ 18 |
-| Pseudomonas aeruginosa§ | ≤ 8 | - | ≥ 16 | >18 | - | < 17 |
-| Streptococcus pneumoniaeb non-meningitis isolates | ≤ 1 | 2 | ≥ 4 | - | - | - |
-| Streptococcus pyogenes | ≤ 0.5 | - | - | ≥ 24 | - | - |
-| Viridans group streptococci | ≤ 0.5 | - | - | ≥ 24 | - | - |
-| ¥For patients with renal impairment see Table 11 in Dosage and Administration *For isolates of Enterobacteriaceae with intermediate susceptibility, use a dose of 2g every 8 hours in patients with normal renal function §For Pseudomonas aeruginosa, use 2 g IV every 8 hours in patients with normal renal function bSusceptibility of staphylococci to cefepime may be deduced from testing only penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Enterobacteriaceae | ≤2 | 4 to 8* | ≥16 | ≥25 | 19 to 24* | ≤18 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pseudomonas aeruginosa§ | ≤8 | - | ≥16 | >18 | - | <17 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Streptococcus pneumoniaeb non-meningitis isolates | ≤1 | 2 | ≥4 | - | - | - |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Streptococcus pyogenes | ≤0.5 | - | - | ≥24 | - | - |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Viridans group streptococci | ≤1 | 2 | ≥4 | ≥24 | 22 to 23 | ≤21 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ¥For patients with renal impairment see Table 11 in Dosage and Administration *For isolates of Enterobacteriaceae with intermediate susceptibility, use a dose of 2g every 8 hours in patients with normal renal function §For P. aeruginosa, use 2 g IV every 8 hours in patients with normal renal function bFor non-meningitis isolates, a penicillin MIC of ≤ 0.06 mcg/ml (or oxacillin zone ≥ 20mm) can predict susceptibility to cefepime. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Susceptibility of staphylococci to cefepime may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of Intermediate indicates that the results should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.

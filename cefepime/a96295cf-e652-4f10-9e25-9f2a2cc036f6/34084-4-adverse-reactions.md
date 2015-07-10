@@ -15,7 +15,7 @@ The following adverse events (Table 8) were thought to be probably related to ce
 
 Table 8: Adverse Reactions Cefepime Multiple-Dose Dosing Regimens Clinical Trials—North America
 
-| INCIDENCE EQUAL TO OR GREATER THAN 1% | Local reactions (3 %), including phlebitis (1.3%), pain and/or inflammation (0.6%)*; rash (1.1%) |
+| INCIDENCE EQUAL TO OR GREATER THAN 1% | Local reactions (3%), including phlebitis (1.3%), pain and/or inflammation (0.6%)*; rash (1.1%) |
 | --- | --- |
 | INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis (including pseudomembranous colitis), diarrhea, erythema, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting, anemia |
 | * Local reactions, irrespective of relationship to cefepime in those patients who received intravenous infusion (n=3048). |  |
@@ -27,17 +27,16 @@ The following (Table 9) adverse laboratory changes, irrespective of relationship
 
 Table 9: Adverse Laboratory Changes Cefepime Multiple-Dose Dosing Regimens Clinical Trials—North America
 
-| INCIDENCE EQUAL TO OR GREATER THAN 1% | Positive Coombs’ test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%), eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |
-| --- | --- |
-| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Increased alkaline phosphatase, BUN, calcium, creatinine, phosphorus, potassium, total bilirubin; decreased calcium*, hematocrit, neutrophils, platelets, WBC |
-| * Hypocalcemia was more common among elderly patients. Clinical consequences from changes in either calcium or phosphorus were not reported. |  |
+| INCIDENCE EQUAL TO OR GREATER THAN 1% | Positive Coombs’ test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%), eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |  |  |
+| --- | --- | --- | --- |
+| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Increased alkaline phosphatase, BUN, calcium, creatinine, phosphorus, potassium, total bilirubin; decreased calcium*, hematocrit, neutrophils, platelets, WBC |  |  |
+| * Hypocalcemia was more common among elderly patients. Clinical consequences from changes in either calcium or phosphorus were not reported. |  |  |  |
 
 A similar safety profile was seen in clinical trials of pediatric patients (see PRECAUTIONS: Pediatric Use).
 
 Postmarketing Experience
 
 In addition to the events reported during North American clinical trials with cefepime, the following adverse experiences have been reported during worldwide postmarketing experience.
-
 Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus have been reported.
 Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of neurotoxicity occurred in patients receiving an appropriate dosage adjustment for their degree of renal impairment.
 If neurotoxicity associated with cefepime therapy occurs, consider discontinuing cefepime or making appropriate dosage adjustments in patients with renal impairment.

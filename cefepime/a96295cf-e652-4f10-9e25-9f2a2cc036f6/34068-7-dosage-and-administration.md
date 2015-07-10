@@ -5,17 +5,17 @@ MAXIPIME should be administered intravenously over approximately 30 minutes.
 
 Table 10: Recommended Dosage Schedule for MAXIPIME in Patients with CrCL Greater Than 60 mL/min†
 
-| Site and Type of Infection | Dose | Frequency | Duration (days) |
-| --- | --- | --- | --- |
-| Adults |  |  |  |
-| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa§, K. pneumoniae, or Enterobacter species | 1 to 2 g IV | Every 8 to 12 hours | 10 |
-| Empiric therapy for febrile neutropenic patients (See INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | Every 8 hours | 7** |
-| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5 to 1 g IV/IM*** | Every 12 hours | 7 to 10 |
-| Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* | 2 g IV | Every 12 hours | 10 |
-| Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | Every 12 hours | 10 |
-| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa§, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) | 2 g IV | Every 8 to 12 hours | 7 to 10 |
-| Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. |  |  |  |
-| †Adjust dose in patients with CrCL less than or equal to 60 mL/min *including cases associated with concurrent bacteremia **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. ***Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the intramuscular route is considered to be a more appropriate route of drug administration. §For Pseudomonas aeruginosa, use 2 g IV every 8 hours (50 mg per kg per dose in pediatric patients 2 months up to 16 years) |  |  |  |
+| Site and Type of Infection | Dose |  | Frequency | Duration (days) |
+| --- | --- | --- | --- | --- |
+| Adults |  |  |  |  |
+| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa§, K. pneumoniae, or Enterobacter species |  | 1 to 2 g IV | Every 8 to 12 hours | 10 |
+| Empiric therapy for febrile neutropenic patients (See INDICATIONS AND USAGE and CLINICAL STUDIES.) |  | 2 g IV | Every 8 hours | 7** |
+| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* |  | 0.5 to 1 g IV/IM*** | Every 12 hours | 7 to 10 |
+| Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* |  | 2 g IV | Every 12 hours | 10 |
+| Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes |  | 2 g IV | Every 12 hours | 10 |
+| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa§, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) |  | 2 g IV | Every 8 to 12 hours | 7 to 10 |
+| Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. |  |  |  |  |
+| †Adjust dose in patients with CrCL less than or equal to 60 mL/min *including cases associated with concurrent bacteremia **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. ***Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the intramuscular route is considered to be a more appropriate route of drug administration. §For Pseudomonas aeruginosa, use 2 g IV every 8 hours (50 mg per kg per dose in pediatric patients 2 months up to 16 years) |  |  |  |  |
 
 Patients with Hepatic Impairment
 
@@ -30,10 +30,9 @@ The recommended doses of MAXIPIME in patients with renal impairment are presente
 When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
-| Males: Creatinine Clearance (mL/min) = | Weight (kg) x (140–age) |
-| --- | --- |
-| 72 × serum creatinine (mg/dL) |  |
-| Females: 0.85 × above value |  |
+Males: Creatinine Clearance (mL/min) = Weight (kg) x (140–age) 72 × serum creatinine (mg/dL)
+
+Females: 0.85 × above value
 
 Table 11: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 
@@ -44,8 +43,7 @@ Table 11: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Ren
 | 11 to 29 | 500 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours |
 | Less than 11 | 250 mg every 24 hours | 250 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours |
 | CAPD | 500 mg every 48 hours | 1 g every 48 hours | 2 g every 48 hours | 2 g every 48 hours |
-| Hemodialysis* | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |
-| *On hemodialysis days, cefepime should be administered following hemodialysis. Whenever possible, cefepime should be administered at the same time each day. |  |  |  |  |
+| HemodialysisOn hemodialysis days, cefepime should be administered following hemodialysis. Whenever possible, cefepime should be administered at the same time each day. | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |
 
 In patients undergoing continuous ambulatory peritoneal dialysis, MAXIPIME may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 11).
 
@@ -68,7 +66,7 @@ However, during infusion of a solution containing cefepime, it is desirable to d
 ADD-Vantage™ vials are to be constituted only with 50 mL or 100 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection in ADD-Vantage flexible diluent containers.
 (See ADD-Vantage Vial Instructions for Use.)
 
-Intramuscular Administration: For intramuscular administration, MAXIPIME (cefepime hydrochloride) should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1 % Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 12).
+Intramuscular Administration: For intramuscular administration, MAXIPIME (cefepime hydrochloride) should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 12).
 
 Preparation of MAXIPIME solutions is summarized in Table 12.
 
@@ -89,22 +87,22 @@ MAXIPIME admixture compatibility information is summarized in Table 13.
 
 Table 13: Cefepime Admixture Stability
 
-|  |  |  | Stability Time for |  |
-| --- | --- | --- | --- | --- |
-| MAXIPIME Concentration | Admixture and Concentration | IV Infusion Solutions | RT/L (20° to 25°C) | Refrigeration (2° to 8°C) |
-| 40 mg/mL | Amikacin 6 mg/mL | NS or D5W | 24 hours | 7 days |
-| 40 mg/mL | Ampicillin 1 mg/mL | D5W | 8 hours | 8 hours |
-| 40 mg/mL | Ampicillin 10 mg/mL | D5W | 2 hours | 8 hours |
-| 40 mg/mL | Ampicillin 1 mg/mL | NS | 24 hours | 48 hours |
-| 40 mg/mL | Ampicillin 10 mg/mL | NS | 8 hours | 48 hours |
-| 4 mg/mL | Ampicillin 40 mg/mL | NS | 8 hours | 8 hours |
-| 4 to 40 mg/mL | Clindamycin Phosphate 0.25 to 6 mg/mL | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Heparin 10 to 50 units/mL | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Potassium Chloride 10 to 40 mEq/L | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Theophylline 0.8 mg/mL | D5W | 24 hours | 7 days |
-| 1 to 4 mg/mL | na | Aminosyn™ II 4.25% with electrolytes and calcium | 8 hours | 3 days |
-| 0.125 to 0.25 mg/mL | na | Inpersol™ with 4.25% dextrose | 24 hours | 7 days |
-| NS = 0.9% Sodium Chloride Injection D5W = 5% Dextrose Injection na = not applicableRT/L = Ambient room temperature and light |  |  |  |  |
+|  |  |  | Stability Time for |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MAXIPIME Concentration | Admixture and Concentration | IV Infusion Solutions | RT/L (20° to 25°C) | Refrigeration (2° to 8°C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 mg/mL | Amikacin 6 mg/mL | NS or D5W | 24 hours | 7 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 mg/mL | Ampicillin 1 mg/mL | D5W | 8 hours | 8 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 mg/mL | Ampicillin 10 mg/mL | D5W | 2 hours | 8 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 mg/mL | Ampicillin 1 mg/mL | NS | 24 hours | 48 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 mg/mL | Ampicillin 10 mg/mL | NS | 8 hours | 48 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 mg/mL | Ampicillin 40 mg/mL | NS | 8 hours | 8 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 to 40 mg/mL | Clindamycin Phosphate 0.25 to 6 mg/mL | NS or D5W | 24 hours | 7 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 mg/mL | Heparin 10 to 50 units/mL | NS or D5W | 24 hours | 7 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 mg/mL | Potassium Chloride 10 to 40 mEq/L | NS or D5W | 24 hours | 7 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 mg/mL | Theophylline 0.8 mg/mL | D5W | 24 hours | 7 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 to 4 mg/mL | na | Aminosyn™ II 4.25% with electrolytes and calcium | 8 hours | 3 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0.125 to 0.25 mg/mL | na | Inpersol™ with 4.25% dextrose | 24 hours | 7 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NS = 0.9% Sodium Chloride Injection D5W = 5% Dextrose Injection na = not applicable RT/L = Ambient room temperature and light |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Solutions of MAXIPIME, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
 However, if concurrent therapy with MAXIPIME is indicated, each of these antibiotics can be administered separately.
