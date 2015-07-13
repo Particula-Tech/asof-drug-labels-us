@@ -1,3 +1,3 @@
 # STORAGE AND HANDLING SECTION
 
-Store SIMBRINZA™ at 2 - 25°C (36 - 77°F).
+Store SIMBRINZA at 2 - 25°C (36 - 77°F).

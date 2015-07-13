@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES SECTION
 
-Two clinical trials of 3 months duration were conducted in patients with open-angle glaucoma or ocular hypertension to compare the IOP-lowering effect of SIMBRINZA™ (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2% dosed three times daily (TID) to individually administered 1% brinzolamide three times daily and 0.2% brimonidine tartrate three times daily.
+Two clinical trials of 3 months duration were conducted in patients with open-angle glaucoma or ocular hypertension to compare the IOP-lowering effect of SIMBRINZA (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2% dosed three times daily (TID) to individually administered 1% brinzolamide three times daily and 0.2% brimonidine tartrate three times daily.
 Mean IOP values at baseline are presented in Table 1.
 
 Table 1.
 Mean (SD) IOP values at baseline
 
-|  |  | SIMBRINZA™ | Brinzolamide | Brimonidine |
+|  |  | SIMBRINZA | Brinzolamide | Brimonidine |
 | --- | --- | --- | --- | --- |
 | Study 1 |  | (n=209) | (n=224) | (n=216) |
 |  | 8 AM | 26.9 (2.63) | 27.1 (2.64) | 27.0 (2.56) |
@@ -19,12 +19,12 @@ Mean (SD) IOP values at baseline
 |  | 3 PM | 24.4 (3.67) | 24.4 (3.58) | 24.0 (3.39) |
 |  | 5 PM | 24.1 (3.71) | 24.2 (3.86) | 23.7 (3.58) |
 
-The IOP-lowering effect of SIMBRINZA™ was 1 to 3 mmHg greater than monotherapy with either 1% brinzolamide or 0.2% brimonidine tartrate throughout the duration of the trials.
+The IOP-lowering effect of SIMBRINZA ophthalmic suspension was 1 to 3 mmHg greater than monotherapy with either 1% brinzolamide or 0.2% brimonidine tartrate throughout the duration of the trials.
 Least Square Mean IOP (mmHg) and the results at Week 2, Week 6 and Month 3 for each study are provided in Table 2.
 
 Table 2 Mean IOP (mmHg) by Treatment Group and Treatment Difference in Mean IOP
 
-|  | SIMBRINZA™ | Brinzolamide |  | Brimonidine |  |
+|  | SIMBRINZA | Brinzolamide |  | Brimonidine |  |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 | (N=209) | (N=224) |  | (N=216) |  |
 |  | Mean | Mean | Difference (95%CI)** | Mean | Difference (95%CI)** |

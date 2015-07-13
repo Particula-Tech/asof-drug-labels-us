@@ -11,7 +11,7 @@ Developmental toxicity studies performed in rats with oral doses of 0.66 mg brim
 Dosing at this level resulted in a plasma drug concentration approximately 100 times higher than that seen in humans at the recommended human ophthalmic dose.
 In animal studies, brimonidine crossed the placenta and entered into the fetal circulation to a limited extent.
 There are no adequate and well-controlled studies in pregnant women.
-SIMBRINZA™ should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+SIMBRINZA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
@@ -20,14 +20,14 @@ No other effects were observed.
 However, following oral administration of 14C-brinzolamide to lactating rats, radioactivity was found in milk at concentrations below those in the blood and plasma.
 In animal studies, brimonidine was excreted in breast milk.
 It is not known whether brinzolamide and brimonidine tartrate are excreted in human milk following topical ocular administration.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from SIMBRINZA™ (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2%, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from SIMBRINZA (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2%, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
 The individual component, brinzolamide, has been studied in pediatric glaucoma patients 4 weeks to 5 years of age.
 The individual component, brimonidine tartrate, has been studied in pediatric patients 2 to 7 years old.
 Somnolence (50-83%) and decreased alertness was seen in patients 2 to 6 years old.
-SIMBRINZA™ is contraindicated in children under the age of 2 years [see Contraindications (4.3)].
+SIMBRINZA ophthalmic suspension is contraindicated in children under the age of 2 years [see Contraindications (4.2)].
 
 ## 8.5 Geriatric Use
 

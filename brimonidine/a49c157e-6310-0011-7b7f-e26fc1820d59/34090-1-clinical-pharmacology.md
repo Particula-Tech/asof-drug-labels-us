@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-SIMBRINZA™ is comprised of two components: brinzolamide (carbonic anhydrase inhibitor) and brimonidine tartrate (alpha 2 adrenergic receptor agonist).
+SIMBRINZA is comprised of two components: brinzolamide (carbonic anhydrase inhibitor) and brimonidine tartrate (alpha 2 adrenergic receptor agonist).
 Each of these two components decreases elevated intraocular pressure.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
 The higher the level of intraocular pressure, the greater the likelihood of glaucomatous field loss and optic nerve damage.
