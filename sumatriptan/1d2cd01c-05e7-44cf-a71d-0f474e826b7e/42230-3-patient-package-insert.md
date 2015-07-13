@@ -63,7 +63,8 @@ Do not take sumatriptan tabletsif you have:
   - •sumatriptan and naproxen (TREXIMET®*)
   - •ergotamines (CAFERGOT®*, ERGOMAR®*, MIGERGOT®*)
   - •dihydroergotamine (D.H.E.
-    45®*, MIGRANAL®*)Ask your healthcare provider if you are not sure if your medicine is listed above.
+    45®*, MIGRANAL®*)
+  - Ask your healthcare provider if you are not sure if your medicine is listed above.
 - •an allergy to sumatriptan or any of the ingredients in sumatriptan tablets.
   See the end of this leaflet for a complete list of ingredients in sumatriptan tablets.
 
@@ -150,7 +151,8 @@ These serious side effects include:
   Some people who use too many sumatriptan tablets may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with sumatriptan tablets.
 - •Serotonin syndrome.
-  Serotonin syndrome is a rare but serious problem that can happen in people using sumatriptan tablets, especially if sumatriptan tablets are used with antidepressant medicines called SSRIs or SNRIs.Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+  Serotonin syndrome is a rare but serious problem that can happen in people using sumatriptan tablets, especially if sumatriptan tablets are used with antidepressant medicines called SSRIs or SNRIs.
+- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
 - •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
 - •fast heartbeat
 - •changes in blood pressure
@@ -196,7 +198,7 @@ You can ask your healthcare provider or pharmacist for information about sumatri
 
 For more information call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
-What are the ingredients in sumatriptan tablets?
+What are the ingredients in sumatriptan tablets, USP?
 
 Active ingredient: sumatriptan succinate, USP
 
@@ -208,4 +210,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JANUARY 2014 SUMA:R4p
+REVISED JULY 2015 SUMA:R5p

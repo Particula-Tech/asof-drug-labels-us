@@ -25,15 +25,15 @@ Adverse Reactions Reported by at Least 2% of Patients Treated with Sumatriptan T
 
 | Adverse Reaction | Percentage of Patients Reporting |  |  |  |
 | --- | --- | --- | --- | --- |
-| Sumatriptan Tablets25 mg(n = 417) | Sumatriptan Tablets50 mg(n = 771) | Sumatriptan Tablets100 mg(n = 437) | PlaceboTablets(n = 309) |  |
-| Atypical sensations Paresthesia (all types) Sensation warm/cold | 5 | 6 | 6 | 4 |
-| 3 | 5 | 3 | 2 |  |
-| 3 | 2 | 3 | 2 |  |
-| Pain and other pressure sensations Chest-Pain/tightness/pressure and/or heaviness Neck/throat/jaw-pain/tightness/pressure Pain-location specified Other-pressure/tightness/heaviness | 6 | 6 | 8 | 4 |
-| 1 | 2 | 2 | 1 |  |
-| < 1 | 2 | 3 | < 1 |  |
-| 2 | 1 | 1 | 1 |  |
-| 1 | 1 | 3 | 2 |  |
+| Sumatriptan Tablets 25 mg(n = 417) | Sumatriptan Tablets 50 mg(n = 771) | Sumatriptan Tablets 100 mg(n = 437) | PlaceboTablets(n = 309) |  |
+| Atypical sensations | 5 | 6 | 6 | 4 |
+| Paresthesia (all types) | 3 | 5 | 3 | 2 |
+| Sensation warm/cold | 3 | 2 | 3 | 2 |
+| Pain and other pressure sensations | 6 | 6 | 8 | 4 |
+| Chest-Pain/tightness/pressure and/or heaviness | 1 | 2 | 2 | 1 |
+| Neck/throat/jaw-pain/tightness/pressure | < 1 | 2 | 3 | < 1 |
+| Pain-location specified | 2 | 1 | 1 | 1 |
+| Other-pressure/tightness/heaviness | 1 | 1 | 3 | 2 |
 | Neurological Vertigo | < 1 | < 1 | 2 | < 1 |
 | Other Malaise/fatigue | 2 | 2 | 3 | < 1 |
 

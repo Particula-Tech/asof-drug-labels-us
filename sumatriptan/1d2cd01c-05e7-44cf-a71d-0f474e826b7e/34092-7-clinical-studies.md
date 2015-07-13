@@ -24,7 +24,7 @@ Percentage of Patients with Headache Response (Mild or No Headache) 2 and 4 Hour
 |  | Sumatriptan Tablets25 mg |  | Sumatriptan Tablets50 mg |  | Sumatriptan Tablets100 mg |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |  |
-| Trial 1 | 52%P < 0.05 in comparison with placebo. | 67 % | 61%,P < 0.05 in comparison with 25 mg. | 78%, | 62%, | 79%, | 27% | 38% |
+| Trial 1 | 52%P < 0.05 in comparison with placebo. | 67% | 61%,P < 0.05 in comparison with 25 mg. | 78%, | 62%, | 79%, | 27% | 38% |
 | (n = 298) |  | (n = 296) |  | (n = 296) |  | (n = 94) |  |  |
 | Trial 2 | 52% | 70% | 50% | 68% | 56% | 71% | 26% | 38% |
 | (n = 66) |  | (n = 62) |  | (n = 66) |  | (n = 65) |  |  |

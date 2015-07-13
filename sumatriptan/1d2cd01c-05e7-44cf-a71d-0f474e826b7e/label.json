@@ -5,11 +5,8 @@
   "inn": "sumatriptan",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
-    "0378-5630-01",
     "0378-5630-59",
-    "0378-5631-01",
     "0378-5631-59",
-    "0378-5632-01",
     "0378-5632-59"
   ],
   "products": [
