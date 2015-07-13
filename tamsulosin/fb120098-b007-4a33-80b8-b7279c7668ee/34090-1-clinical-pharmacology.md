@@ -17,7 +17,7 @@ Tamsulosin hydrochloride capsules are not intended for use as an antihypertensiv
 
 ## 12.2 Pharmacodynamics
 
-Urologic pharmacodynamic effects have been evaluated in neurologically impaired pediatric patients and in adults with BPH [see Use in Specific Populations (8.4) and Clinical Studies (14)].
+Urologic pharmacodynamic effects have been evaluated in neurologically impaired pediatric patients and in adults with BPH [see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL STUDIES (14)].
 
 ## 12.3 Pharmacokinetics
 
@@ -33,12 +33,14 @@ Effect of Food
 The time to maximum concentration (Tmax) is reached by 4 to 5 hours under fasting conditions and by 6 to 7 hours when tamsulosin hydrochloride capsules are administered with food.
 Taking tamsulosin hydrochloride capsules under fasted conditions results in a 30% increase in bioavailability (AUC) and 40% to 70% increase in peak concentrations (Cmax) compared to fed conditions (Figure 1).
 
+Figure 1 Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Dose Administration of Tamsulosin Hydrochloride Capsules, 0.4 mg Under Fasted and Fed conditions (n=8)
+
 The effects of food on the pharmacokinetics of tamsulosin hydrochloride are consistent regardless of whether a tamsulosin hydrochloride capsule is taken with a light breakfast or a high-fat breakfast (Table 2).
 
 Table 2 Mean (± S.D.)
 Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
 
-| Pharmacokinetic Parameter | 0.4 mg QD to healthy volunteers; n=23 (age range 18-32 years) |  | 0.8 mg QD to healthy volunteers; n=22 (age range 55-75 years) |  |  |
+| Pharmacokinetic Parameter | 0.4 mg QD to healthy volunteers; n=23 (age range 18 to 32 years) |  | 0.8 mg QD to healthy volunteers; n=22 (age range 55 to 75 years) |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Light Breakfast | Fasted | Light Breakfast | High-Fat Breakfast | Fasted |
 | Cmin (ng/mL) | 4 ± 2.6 | 3.8 ± 2.5 | 12.3 ± 6.7 | 13.5 ± 7.6 | 13.3 ± 13.3 |
@@ -47,7 +49,8 @@ Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules 0.4 mg On
 | Tmax (hours) | 6 | 4 | 7 | 6.6 | 5 |
 | T1/2 (hours) | - | - | - | - | 14.9 ± 3.9 |
 | AUCτ (ng•hr/mL) | 151 ± 81.5 | 199 ± 94.1 | 440 ± 195 | 449 ± 217 | 557 ± 257 |
-| Cmin = observed minimum concentration Cmax = observed maximum tamsulosin hydrochloride plasma concentration Tmax = median time-to-maximum concentration T1/2 = observed half-life AUCτ = area under the tamsulosin hydrochloride plasma time curve over the dosing interval |  |  |  |  |  |
+
+Cmin = observed minimum concentration Cmax = observed maximum tamsulosin hydrochloride plasma concentration Tmax = median time-to-maximum concentration T1/2 = observed half-life AUCτ = area under the tamsulosin hydrochloride plasma time curve over the dosing interval
 
 Distribution
 
@@ -63,7 +66,7 @@ There is no enantiomeric bioconversion from tamsulosin hydrochloride [R(-) isome
 Tamsulosin hydrochloride is extensively metabolized by cytochrome P450 enzymes in the liver and less than 10% of the dose is excreted in urine unchanged.
 However, the pharmacokinetic profile of the metabolites in humans has not been established.
 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6, as well as via some minor participation of other CYP isoenzymes.
-Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin [see Warnings and Precautions(5.2) and Drug Interactions (7.1)].
+Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin [see WARNINGS AND PRECAUTIONS(5.2) and DRUG INTERACTIONS (7.1)].
 The metabolites of tamsulosin hydrochloride undergo extensive conjugation to glucuronide or sulfate prior to renal excretion.
 
 Incubations with human liver microsomes showed no evidence of clinically significant metabolic interactions between tamsulosin hydrochloride and amitriptyline, albuterol (beta agonist), glyburide (glibenclamide) and finasteride (5alpha-reductase inhibitor for treatment of BPH).
@@ -82,26 +85,26 @@ Specific Populations
 
 Pediatric Use
 
-Tamsulosin hydrochloride capsules are not indicated for use in pediatric populations [see Use in Specific Populations (8.4)].
+Tamsulosin hydrochloride capsules are not indicated for use in pediatric populations [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 Geriatric (Age) Use
 
 Cross-study comparison of tamsulosin hydrochloride capsules overall exposure (AUC) and half-life indicates that the pharmacokinetic disposition of tamsulosin hydrochloride may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
-Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects of age 55 to 75 years compared to subjects of age 20 to 32 years [see Use in Specific Populations (8.5)].
+Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects of age 55 to 75 years compared to subjects of age 20 to 32 years [see USE IN SPECIFIC POPULATIONS (8.5)].
 
 Renal Impairment
 
 The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30≤CLcr<70 mL/min/1.73 m2) or moderate-severe (10≤CLcr<30 mL/min/1.73 m2) renal impairment and 6 normal subjects (CLcr>90 mL/min/1.73 m2).
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride, as well as the intrinsic clearance, remained relatively constant.
 Therefore, patients with renal impairment do not require an adjustment in tamsulosin hydrochloride capsules dosing.
-However, patients with endstage renal disease (CLcr<10 mL/min/1.73 m2) have not been studied [see Use in Specific Populations (8.6)].
+However, patients with endstage renal disease (CLcr<10 mL/min/1.73 m2) have not been studied [see USE IN SPECIFIC POPULATIONS (8.6)].
 
 Hepatic Impairment
 
 The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic impairment (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly, with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
 Therefore, patients with moderate hepatic impairment do not require an adjustment in tamsulosin hydrochloride capsules dosage.
-Tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [see Use in Specific Populations(8.7)].
+Tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [seeUSE IN SPECIFIC POPULATIONS(8.7)].
 
 Drug Interactions
 
@@ -110,53 +113,53 @@ Cytochrome P450 Inhibition
 Strong and Moderate Inhibitors of CYP3A4 or CYP2D6
 
 The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
-Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions(5.2) and Clinical Pharmacology (12.3)].
-The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see WARNINGS AND PRECAUTIONS(5.2) and CLINICAL PHARMACOLOGY (12.3)].
+The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.1)].
 
 The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
-Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see Warnings and Precautions(5.2) and Drug Interactions (7.1)].
+Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see WARNINGS AND PRECAUTIONS(5.2) and DRUG INTERACTIONS (7.1)].
 A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
 A fraction of the population (about 7% of Caucasians and 2% of African Americans) are CYP2D6 PMs.
-Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride 0.4 mg is coadministered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin hydrochloride 0.4 mg is co-administered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin hydrochloride 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.1)].
 
-The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see Warnings and Precautions (5.2) and Drug Interactions(7.1)].
+The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS(7.1)].
 
-The effects of coadministration of both a CYP3A4 and a CYP2D6 inhibitor with tamsulosin hydrochloride capsules have not been evaluated.
-However, there is a potential for significant increase in tamsulosin exposure when tamsulosin hydrochloride 0.4 mg is co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors [see Warnings and Precautions (5.2) and Drug Interactions(7.1)].
+The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with tamsulosin hydrochloride capsules have not been evaluated.
+However, there is a potential for significant increase in tamsulosin exposure when tamsulosin hydrochloride 0.4 mg is co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS(7.1)].
 
 Cimetidine
 
 The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range 21 to 38 years).
-Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see Warnings and Precautions(5.2) and Drug Interactions (7.1)].
+Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see WARNINGS AND PRECAUTIONS(5.2) and DRUG INTERACTIONS (7.1)].
 
 Other Alpha Adrenergic Blocking Agents
 
-The pharmacokinetic and pharmacodynamic interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents may be expected [see Warnings and Precautions\(5.2) and Drug Interactions(7.2)].
+The pharmacokinetic and pharmacodynamic interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents may be expected [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS(7.2)].
 
 PDE5 Inhibitors
 
 Caution is advised when alpha adrenergic blocking agents, including tamsulosin hydrochloride, are co-administered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
-Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.3)].
 
 Warfarin
 
 A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted.
 Results from limited in vitro and in vivo studies are inconclusive.
-Therefore, caution should be exercised with concomitant administration of warfarin and tamsulosin hydrochloride capsules [see Warnings and Precautions (5.2) and Drug Interactions (7.4)].
+Therefore, caution should be exercised with concomitant administration of warfarin and tamsulosin hydrochloride capsules [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.4)].
 
 Nifedipine, Atenolol, Enalapril
 
 In three studies in hypertensive subjects (age range 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n=8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared to placebo (n=4 per study).
-Therefore, dosage adjustments are not necessary when tamsulosin hydrochloride capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see Drug Interactions(7.5)].
+Therefore, dosage adjustments are not necessary when tamsulosin hydrochloride capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see DRUG INTERACTIONS(7.5)].
 
 Digoxin and Theophylline
 
 In two studies in healthy volunteers (n=10 per study; age range 19 to 39 years) receiving tamsulosin hydrochloride capsules 0.4 mg/day for 2 days, followed by tamsulosin hydrochloride capsules 0.8 mg/day for 5 to 8 days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
-Therefore, dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is administered concomitantly with digoxin or theophylline [see Drug Interactions (7.6)].
+Therefore, dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is administered concomitantly with digoxin or theophylline [see DRUG INTERACTIONS (7.6)].
 
 Furosemide
 
 The pharmacokinetic and pharmacodynamic interaction between tamsulosin hydrochloride capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range 21 to 40 years).
 Tamsulosin hydrochloride capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
-While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see Drug Interactions (7.7)].
+While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see DRUG INTERACTIONS (7.7)].

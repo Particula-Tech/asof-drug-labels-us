@@ -1,44 +1,45 @@
 # PATIENT INFORMATION
 
-Tamsulosin Hydrochloride Capsules USP, 0.4 mg
+TamsulosinHydrochloride Capsules, USP
+
+(tam-soo-LOE-sin)
 
 Read the Patient Information that comes with tamsulosin hydrochloride capsules before you start taking it and each time you refill your prescription.
 The information may have changed.
 This leaflet does not take the place of discussions with your doctor about your medical condition or your treatment.
 
-What is tamsulosin hydrochloride capsules, USP?
+What is tamsulosin hydrochloride capsules?
 Tamsulosin hydrochloride is a prescription alpha-blocker medicine used to treat the signs and symptoms of benign prostatic hyperplasia (BPH), a condition your doctor may refer to as an enlarged prostate.
 
 - •tamsulosin hydrochloride is not for women.
 - •tamsulosin hydrochloride is not for children.
 
-Who should not take tamsulosin hydrochloride capsules, USP?
+Who should not take tamsulosin hydrochloride capsules?
 Do not take tamsulosin hydrochloride capsules if you are allergic to any of its ingredients.
 See the end of this leaflet for a complete list of ingredients in tamsulosin hydrochloride capsules.
 
-What should I tell my doctor before using tamsulosin hydrochloride capsules, USP?
-Before taking tamsulosin hydrochloride capsules, USP tell your doctor about all your medical conditions including:
+What should I tell my doctor before using tamsulosin hydrochloride capsules?
+Before taking tamsulosin hydrochloride capsules tell your doctor about all your medical conditions including:
 
 - •any kidney or liver problems.
 - •any history of low blood pressure.
 - •any allergies to sulfa or any other medicines.
-- •if you are planning to have cataract surgery.
+- •if you are planning to have cataract or glaucoma surgery.
 
 Tell your doctor about all the medicines you take including:
 
 - •any prescription medicines, including blood pressure medicines.
 - •any non-prescription medicines, including vitamins and herbal supplements.
-
-Some of your other medicines may affect the way tamsulosin hydrochloride capsules work.
-Especially tell your doctor if you take a medicine for high blood pressure.
-You should not take tamsulosin hydrochloride if you are already taking certain blood pressure medicines.
+- Some of your other medicines may affect the way tamsulosin hydrochloride capsules work.
+  Especially tell your doctor if you take a medicine for high blood pressure.
+  You should not take tamsulosin hydrochloride if you are already taking certain blood pressure medicines.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
-How should I take tamsulosin hydrochloride capsules, USP?
+How should I take tamsulosin hydrochloride capsules?
 
-- •Take tamsulosin hydrochloride exactly as prescribed by your doctor.
+- •Take tamsulosin hydrochloride capsules exactly as prescribed by your doctor.
 - •Do not crush, chew, or open tamsulosin hydrochloride capsules.
 - •Take tamsulosin hydrochloride one time each day, about 30 minutes after the same meal each day.
   For example, you may take tamsulosin hydrochloride 30 minutes after dinner each day.
@@ -48,7 +49,7 @@ How should I take tamsulosin hydrochloride capsules, USP?
 - •If you stop or forget to take tamsulosin hydrochloride for several days, talk with your doctor before starting again.
 - •If you take more tamsulosin hydrochloride capsules than prescribed, call your doctor right away.
 
-What are the possible side effects of tamsulosin hydrochloride capsules, USP?
+What are the possible side effects of tamsulosin hydrochloride capsules?
 
 Possible side effects of tamsulosin hydrochloride may include:
 
@@ -63,9 +64,8 @@ Change positions slowly from lying down to sitting up or from a sitting to a sta
 If you begin to feel dizzy, sit or lie down until you feel better.
 If the symptoms are severe or do not improve, call your doctor
 
-- 
-  - ∘Allergic reactions.
-    Makeyour doctor aware of any allergic reactions you may experience while taking tamsulosin hydrochloride capsules.
+- •Allergic reactions.
+  Make your doctor aware of any allergic reactions you may experience while taking tamsulosin hydrochloride capsules.
 
 Allergic reactions may include:
 
@@ -85,9 +85,9 @@ Get medical help right away if you have any of the following reactions:
   Tamsulosin hydrochloride capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
   If priapism is not treated, you may not be able to get an erection in the future.
-- •Eye problems during cataract surgery.
-  During cataract surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken tamsulosin hydrochloride capsules.
-  If you need to have cataract surgery, be sure to tell your surgeon if you take or have taken tamsulosin hydrochloride capsules.
+- •Eye problems during cataract or glaucoma surgery.
+  During cataract or glaucoma surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken tamsulosin hydrochloride capsules.
+  If you need to have cataract or glaucoma surgery, be sure to tell your surgeon if you take or have taken tamsulosin hydrochloride capsules.
 
 Common side effects of tamsulosin hydrochloride capsules may include:
 
@@ -101,12 +101,12 @@ Tell your doctor if you have any side effect that bothers you or that does not g
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088, or by visiting www.fda.gov/medwatch.
 
-What should I avoid while taking tamsulosin hydrochloride capsules, USP?
+What should I avoid while taking tamsulosin hydrochloride capsules?
 Avoid driving, operating machinery, or other dangerous activities, until you know how tamsulosin hydrochloride affects you.
 Tamsulosin hydrochloride capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
-See "What are the possible side effects of tamsulosin hydrochloride capsules, USP?"
+See "What are the possible side effects of tamsulosin hydrochloride capsules?"
 
-How do I store tamsulosin hydrochloride capsules, USP?
+How do I store tamsulosin hydrochloride capsules?
 Store tamsulosin hydrochloride capsules at 68°F (20°C) to 77°F (25°C).
 Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable.
 Ask your doctor or pharmacist if you have any questions about storing your capsules.
@@ -131,18 +131,15 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tamsulosin hydrochloride that is written for health professionals.
 For more information call Sandoz Inc. at 1-800-525-8747.
 
-What are the ingredients in tamsulosin hydrochloride capsules, USP?
+What are the ingredients in tamsulosin hydrochloride capsules?
 
 - •Active Ingredient: tamsulosin hydrochloride
 - •Inactive Ingredients: colloidal silicon dioxide, methacrylic acid copolymer, microcrystalline cellulose, polyacrylate dispersion, polysorbate 80, sodium lauryl sulfate and talc.
 - •The capsule shell consists of FD&C Blue # 2, gelatin, iron oxide red, iron oxide yellow and titanium dioxide.
 - •The capsule is printed with black pharmaceutical ink which is made of iron oxide black, propylene glycol and shellac.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
 Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-Revised: August 2011
+Revised: November 2014
