@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA050793"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-042-01",
+    "45802-042-02"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clindamycin phosphate",
+      "name": "Clindesse"
+    }
+  ],
+  "setid": "fe8bb204-f173-44fe-803b-b08f2ec5aa31",
+  "source": "dailymed"
+}

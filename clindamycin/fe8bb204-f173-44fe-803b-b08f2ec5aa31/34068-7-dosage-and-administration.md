@@ -1,0 +1,5 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+The recommended dose is the complete contents of a single pre-filled applicator containing 5 g of Clindesse cream administered once intravaginally at any time of the day.
+
+Not for ophthalmic, dermal, or oral use.
