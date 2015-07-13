@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090051"
+  ],
+  "inn": "memantine",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-229-07",
+    "68180-229-11",
+    "68180-229-13",
+    "68180-230-07",
+    "68180-230-11",
+    "68180-230-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "memantine hydrochloride",
+      "name": "Memantine hydrochloride"
+    }
+  ],
+  "setid": "1b4a0162-9cb4-4ba6-8c02-95c2955734ae",
+  "source": "dailymed"
+}
