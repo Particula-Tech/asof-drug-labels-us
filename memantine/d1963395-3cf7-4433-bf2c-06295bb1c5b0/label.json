@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA090058"
+  ],
+  "inn": "memantine",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-321-08",
+    "47335-321-18",
+    "47335-321-86",
+    "47335-321-88",
+    "47335-322-08",
+    "47335-322-13",
+    "47335-322-18",
+    "47335-322-83",
+    "47335-322-86",
+    "47335-322-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "memantine hydrochloride",
+      "name": "Memantine Hydrochloride"
+    }
+  ],
+  "setid": "d1963395-3cf7-4433-bf2c-06295bb1c5b0",
+  "source": "dailymed"
+}
