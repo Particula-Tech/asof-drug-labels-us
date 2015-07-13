@@ -16,7 +16,7 @@ Lenses may be reinserted 15 minutes following administration of RESTASIS® ophth
 
 Advise patients that the emulsion from one individual single-use vial is to be used immediately after opening for administration to one or both eyes, and the remaining contents should be discarded immediately after administration.
 
-© 2013 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
+© 2014 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
 See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
-71876US17
+71876US18

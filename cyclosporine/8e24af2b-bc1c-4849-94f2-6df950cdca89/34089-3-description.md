@@ -5,6 +5,9 @@ Cyclosporine's chemical name is Cyclo[[(E)-(2S,3R,4R)-3-hydroxy-4-methyl-2-(meth
 
 Structural Formula
 
+Formula: C62H111N11O12 Mol.
+Wt.: 1202.6
+
 Cyclosporine is a fine white powder.
 RESTASIS® appears as a white opaque to slightly translucent homogeneous emulsion.
 It has an osmolality of 230 to 320 mOsmol/kg and a pH of 6.5-8.0.
