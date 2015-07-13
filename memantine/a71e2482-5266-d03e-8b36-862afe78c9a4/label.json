@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA090048"
+  ],
+  "inn": "memantine",
+  "labeler": "Dr. Reddys Laboratories Limited",
+  "package_ndcs": [
+    "55111-596-01",
+    "55111-596-05",
+    "55111-596-30",
+    "55111-596-60",
+    "55111-596-78",
+    "55111-596-79",
+    "55111-597-01",
+    "55111-597-05",
+    "55111-597-30",
+    "55111-597-60",
+    "55111-597-78",
+    "55111-597-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "memantine",
+      "name": "Memantine"
+    }
+  ],
+  "setid": "a71e2482-5266-d03e-8b36-862afe78c9a4",
+  "source": "dailymed"
+}
