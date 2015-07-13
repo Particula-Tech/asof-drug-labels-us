@@ -7,4 +7,4 @@ NDC 65293-001-01
 
 Store Angiomax dosage units at 20-25°C (68-77°F).
 Excursions to 15-30°C permitted.
-[See USP Controlled Room Temperature.]
+[see USP Controlled Room Temperature].

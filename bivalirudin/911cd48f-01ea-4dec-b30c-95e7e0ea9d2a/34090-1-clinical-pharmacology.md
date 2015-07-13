@@ -6,7 +6,7 @@ Angiomax directly inhibits thrombin by specifically binding both to the catalyti
 Thrombin is a serine proteinase that plays a central role in the thrombotic process, acting to cleave fibrinogen into fibrin monomers and to activate Factor XIII to Factor XIIIa, allowing fibrin to develop a covalently cross-linked framework which stabilizes the thrombus; thrombin also activates Factors V and VIII, promoting further thrombin generation, and activates platelets, stimulating aggregation and granule release.
 The binding of Angiomax to thrombin is reversible as thrombin slowly cleaves the Angiomax-Arg3-Pro4 bond, resulting in recovery of thrombin active site functions.
 
-In in vitro studies, Angiomax inhibited both soluble (free) and clot-bound thrombin, was not neutralized by products of the platelet release reaction, and prolonged the activated partial thromboplastin time (aPTT), thrombin time (TT), and prothrombin time (PT) of normal human plasma in a concentration-dependent manner.
+In vitro studies, Angiomax inhibited both soluble (free) and clot-bound thrombin, was not neutralized by products of the platelet release reaction, and prolonged the activated partial thromboplastin time (aPTT), thrombin time (TT), and prothrombin time (PT) of normal human plasma in a concentration-dependent manner.
 The clinical relevance of these findings is unknown.
 
 ## 12.2 Pharmacodynamics
@@ -27,12 +27,11 @@ Angiomax is cleared from plasma by a combination of renal mechanisms and proteol
 The disposition of Angiomax was studied in PTCA patients with mild, moderate, and severe renal impairment.
 Drug elimination was related to glomerular filtration rate (GFR).
 Total body clearance was similar for patients with normal renal function and with mild renal impairment (60-89 mL/min).
-Clearance was reduced in patients with moderate and severe renal impairment and in dialysis-dependent patients (See Table 6 for pharmacokinetic parameters).
+Clearance was reduced in patients with moderate and severe renal impairment and in dialysis-dependent patients (see Table 6 for pharmacokinetic parameters).
 
 Angiomax is hemodialyzable, with approximately 25% cleared by hemodialysis.
 
-Table 6.
-PK Parameters in Patients with Renal Impairment*
+Table 6: PK Parameters in Patients with Renal Impairment*
 
 | Renal Function (GFR, mL/min) | Clearance (mL/min/kg) | Half-life (min) |
 | --- | --- | --- |

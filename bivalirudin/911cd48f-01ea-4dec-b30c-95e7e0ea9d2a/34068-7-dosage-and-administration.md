@@ -29,7 +29,7 @@ No reduction in the bolus dose is needed for any degree of renal impairment.
 The infusion dose of Angiomax may need to be reduced, and anticoagulant status monitored in patients with renal impairment.
 Patients with moderate renal impairment (30-59 mL/min) should receive an infusion of 1.75 mg/kg/h.
 If the creatinine clearance is less than 30 mL/min, reduction of the infusion rate to 1 mg/kg/h should be considered.
-If a patient is on hemodialysis, the infusion rate should be reduced to 0.25 mg/kg/h [see Use In Specific Population (8.6)].
+If a patient is on hemodialysis, the infusion rate should be reduced to 0.25 mg/kg/h [see Use in Specific Population (8.6)].
 
 ## 2.3 Instructions for Administration
 
@@ -37,7 +37,7 @@ Angiomax is intended for intravenous bolus injection and continuous infusion aft
 To each 250 mg vial, add 5 mL of Sterile Water for Injection, USP.
 Gently swirl until all material is dissolved.
 Each reconstituted vial should be further diluted in 50 mL of 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL (e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
-The dose to be administered is adjusted according to the patient's weight (See Table 1).
+The dose to be administered is adjusted according to the patient's weight (see Table 1).
 
 If the low-rate infusion is used after the initial infusion, a lower concentration bag should be prepared.
 In order to prepare this bag, reconstitute the 250 mg vial with 5 mL of Sterile Water for Injection, USP.
@@ -45,12 +45,11 @@ Gently swirl until all material is dissolved.
 Each reconstituted vial should be further diluted in 500 mL of 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 0.5 mg/mL.
 The infusion rate to be administered should be selected from the right-hand column in Table 1.
 
-Table 1.
-Dosing Table
+Table 1: Dosing Table
 
-|  | Using 5 mg/mL Concentration |  | Using 0.5 mg/mL Concentration |
+| Weight (kg) | Using 5 mg/mL Concentration |  | Using 5 mg/mL Concentration |
 | --- | --- | --- | --- |
-| Weight (kg) | Bolus 0.75 mg/k (mL) | Infusion 1.75 mg/kg/h (mL/h) | Subsequent Low-rate Infusion 0.2 mg/kg/h (mL/h) |
+|  | Bolus 0.75 mg/k (mL) | Infusion 1.75 mg/kg/h (mL/h) | Subsequent Low-rate Infusion 0.2 mg/kg/h (mL/h) |
 | 43-47 | 7 | 16 | 18 |
 | 48-52 | 7.5 | 17.5 | 20 |
 | 53-57 | 8 | 19 | 22 |

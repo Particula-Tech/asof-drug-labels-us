@@ -3,7 +3,7 @@
 ## 14.1 PCI/PTCA
 
 Angiomax has been evaluated in five randomized, controlled interventional cardiology trials reporting 11,422 patients.
-Stents were deployed in 6062 of the patients in these trials - mainly in trials performed since 1995.
+Stents were deployed in 6062 of the patients in these trials – mainly in trials performed since 1995.
 Percutaneous transluminal coronary angioplasty, atherectomy or other procedures were performed in the remaining patients.
 
 REPLACE-2 Trial
@@ -32,11 +32,11 @@ Stents were deployed in 85% of patients.
 Ninety-nine percent of patients received aspirin and 86% received thienopyridines prior to study treatment.
 
 Angiomax was administered as a 0.75 mg/kg bolus followed by a 1.75 mg/kg/h infusion for the duration of the procedure.
-The activated clotting time (ACT - measured by a Hemochron® device) was measured 5 min after the first bolus of study medication.
+The activated clotting time (ACT – measured by a Hemochron® device) was measured 5 min after the first bolus of study medication.
 If the ACT was <225 seconds, an additional bolus of 0.3 mg/kg was given.
 At investigator discretion, the infusion could be continued following the procedure for up to 4 hours.
-The median infusion duration was 44 min. Heparin was administered as a 65 U/kg bolus.
-The activated clotting time (ACT - measured by a Hemochron® device) was measured 5 min after the first bolus of study medication.
+The median infusion duration was 44 min. Heparin was administered as a 65U/kg bolus.
+The activated clotting time (ACT – measured by a Hemochron® device) was measured 5 min after the first bolus of study medication.
 If the ACT was <225 seconds, an additional bolus of 20 units/kg was given.
 GPIs (either abciximab or eptifibatide) were given according to manufacturers' instructions.
 Both randomized groups could be given "provisional" treatments during the PCI at investigator discretion, but under double-blind conditions.
@@ -51,10 +51,9 @@ For the composite endpoint of death, MI, or urgent revascularization adjudicated
 However, major hemorrhage was reported significantly less frequently in the Angiomax with provisional GPI arm (2.4%) compared to the heparin plus GPI arm (4.1%).
 Study outcomes are shown in Table 7.
 
-Table 7.
-Incidences of Clinical Endpoints at 30 Days for REPLACE-2, a Randomized Double-blind Clinical Trial
+Table 7: Incidences of Clinical Endpoints at 30 Days for REPLACE-2, a Randomized Double-blind Clinical Trial
 
-| Intent-to-treat Population | ANGIOMAX with "Provisional" GPI n=2994 | HEPARIN + GPI n=3008 |
+| Intent-to-treat Population | ANGIOMAX with "Provisional" GPI N=2994 | HEPARIN + GPI N=3008 |
 | --- | --- | --- |
 | Efficacy Endpoints |  |  |
 | Death, MI, or urgent revascularization | 7.6% | 7.1% |
@@ -62,8 +61,8 @@ Incidences of Clinical Endpoints at 30 Days for REPLACE-2, a Randomized Double-b
 | MI | 7.0% | 6.2% |
 | Urgent revascularization | 1.2% | 1.4% |
 | Safety Endpoint |  |  |
-| Major hemorrhage*† | 2.4% | 4.1% |
-| * Defined as intracranial bleeding, retroperitoneal bleeding, a transfusion of ≥2 units of blood/blood products, a fall in Hgb >4 g/dL, whether or not bleeding site is identified, spontaneous or non-spontaneous blood loss with a decrease in Hgb >3 g/dL. † p-value <0.001 between groups. |  |  |
+| Major hemorrhage12 | 2.4% | 4.1% |
+| 1 Defined as intracranial bleeding, retroperitoneal bleeding, a transfusion of >2 units of blood/blood products, a fall in Hgb >4 g/dL, whether or not bleeding site is identified, spontaneous or non-spontaneous blood loss with a decrease in Hgb >3 g/dL 2 p-value <0.001 between groups |  |  |
 
 At 12 months' follow-up, mortality was 1.9% among patients randomized to Angiomax with "provisional" GPIs and 2.5% among patients randomized to heparin plus GPI.
 
@@ -102,20 +101,19 @@ The median duration of hospitalization was 4 days for both the Angiomax and the 
 The rates of procedural failure were similar in the Angiomax and heparin treatment groups.
 Study outcomes are shown in Table 8.
 
-Table 8.
-Incidences of In-hospital Clinical Endpoints in BAT Trial Occurring within 7 Days
+Table 8: Incidences of In-hospital Clinical Endpoints in BAT Trial Occurring within 7 Days
 
-| All Patients | ANGIOMAX n=2161 | HEPARIN n=2151 |
+| All Patients | ANGIOMAX N=2161 | HEPARIN N=2151 |
 | --- | --- | --- |
 | Efficacy Endpoints |  |  |
-| Procedural failure* | 7.9% | 9.3% |
+| Procedural failure1 | 7.9% | 9.3% |
 | Death, MI, revascularization | 6.2% | 7.9% |
 | Death | 0.2% | 0.2% |
-| MI† | 3.3% | 4.2% |
-| Revascularization‡ | 4.2% | 5.6% |
+| MI2 | 3.3% | 4.2% |
+| Revascularization3 | 4.2% | 5.6% |
 | Safety Endpoint |  |  |
-| Major hemorrhage§ | 3.5% | 9.3% |
-| * The protocol-specified primary endpoint (a composite of death or MI or clinical deterioration of cardiac origin requiring revascularization or placement of an aortic balloon pump or angiographic evidence of abrupt vessel closure). † Defined as: Q-wave MI; CK-MB elevation ≥2 x ULN, new ST- or T-wave abnormality, and chest pain ≥30 min; OR new LBBB with chest pain ≥30 min and/or elevated CK-MB enzymes; OR elevated CK-MB and new ST- or T-wave abnormality without chest pain; OR elevated CK-MB. ‡ Defined as: any revascularization procedure, including angioplasty, CABG, stenting, or placement of an intra-aortic balloon pump. § Defined as the occurrence of any of the following: intracranial bleeding, retroperitoneal bleeding, clinically overt bleeding with a decrease in Hgb ≥3 g/dL or leading to a transfusion of ≥2 units of blood. |  |  |
+| Major hemorrhage4 | 3.5% | 9.3% |
+| 1 The protocol-specified primary endpoint (a composite of death or MI or clinical deterioration of cardiac origin requiring revascularization or placement of an aortic balloon pump or angiographic evidence of abrupt vessel closure). 2 Defined as: Q-wave MI; CK-MB elevation ≥2 x ULN, new ST- or T-wave abnormality, and chest pain ≥30 min; OR new LBBB with chest pain ≥30 min and/or elevated CK-MB enzymes; OR elevated CK-MB and new ST- or T-wave abnormality without chest pain; OR elevated CK-MB. 3 Defined as: any revascularization procedure, including angioplasty, CABG, stenting, or placement of an intra-aortic balloon pump. 4 Defined as the occurrence of any of the following: intracranial bleeding, retroperitoneal bleeding, clinically overt bleeding with a decrease in Hgb ≥3 g/dL or leading to a transfusion of ≥2 units of blood. |  |  |
 
 AT-BAT Trial
 
