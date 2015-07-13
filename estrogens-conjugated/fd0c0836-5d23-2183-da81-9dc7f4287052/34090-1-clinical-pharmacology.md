@@ -37,17 +37,17 @@ TABLE 3: PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (C
 
 | DRUG | 2 × 0.625 mg CE/2.5 mg MPA Combination Tablets (n = 54) |  |  |  | 2 × 0.625 mg CE/5 mg MPA Combination Tablets (n = 51) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg•h/mL) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg•h/mL) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg∙h/mL) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg∙h/mL) |
 | Unconjugated Estrogens |  |  |  |  |  |  |  |  |
 | Estrone | 175 (23) | 7.6 (24) | 31.6 (23) | 5358 (34) | 124 (43) | 10 (35) | 62.2 (137) | 6303 (40) |
 | BA* -Estrone | 159 (26) | 7.6 (24) | 16.9 (34) | 3313 (40) | 104 (49) | 10 (35) | 26.0 (100) | 3136 (51) |
 | Equilin | 71 (31) | 5.8 (34) | 9.9 (35) | 951 (43) | 54 (43) | 8.9 (34) | 15.5 (53) | 1179 (56) |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) |
 | Conjugated Estrogens |  |  |  |  |  |  |  |  |
 | Total Estrone | 6.6 (38) | 6.1 (28) | 20.7 (34) | 116 (59) | 6.3 (48) | 9.1 (29) | 23.6 (36) | 151 (42) |
 | BA* -Total Estrone | 6.4 (39) | 6.1 (28) | 15.4 (34) | 100 (57) | 6.2 (48) | 9.1 (29) | 20.6 (35) | 139 (40) |
 | Total Equilin | 5.1 (45) | 4.6 (35) | 11.4 (25) | 50 (70) | 4.2 (52) | 7.0 (36) | 17.2 (131) | 72 (50) |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) |
 | Medroxyprogesterone Acetate |  |  |  |  |  |  |  |  |
 | MPA | 1.5 (40) | 2.8 (54) | 37.6 (30) | 37 (30) | 4.8 (31) | 2.4 (50) | 46.3 (39) | 102 (28) |
 | BA* = Baseline adjusted Cmax = peak plasma concentration tmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz) AUC = total area under the concentration-time curve |  |  |  |  |  |  |  |  |
@@ -57,17 +57,17 @@ PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (CE) AND ME
 
 | DRUG | 4 × 0.45 mg CE/1.5 mg MPA Combination (n = 65) |  |  |  |
 | --- | --- | --- | --- | --- |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg•h/mL) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (pg/mL) | tmax (h) | t1/2 (h) | AUC (pg∙h/mL) |
 | Unconjugated Estrogens |  |  |  |  |
 | Estrone | 149 (35) | 8.9 (35) | 37.5 (35) | 6641 (39) |
 | BA* -Estrone | 130 (40) | 8.9 (35) | 21.2 (35) | 3799 (47) |
 | Equilin | 83 (38) | 8.3 (48) | 15.9 (44) | 1889 (40) |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) |
 | Conjugated Estrogens |  |  |  |  |
 | Total Estrone | 5.4 (49) | 7.9 (48) | 22.4 (53) | 119 (48) |
 | BA* -Total Estrone | 5.2 (48) | 7.9 (48) | 15.1 (29) | 100 (47) |
 | Total Equilin | 4.3 (42) | 6.5 (45) | 11.6 (31) | 74 (48) |
-| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng•h/mL) |
+| PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) |
 | Medroxyprogesterone Acetate |  |  |  |  |
 | MPA | 0.7 (66) | 2.0 (52) | 26.2 (35) | 5.0 (61) |
 | BA* = Baseline adjusted Cmax = peak plasma concentration tmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz) AUC = total area under the concentration-time curve |  |  |  |  |

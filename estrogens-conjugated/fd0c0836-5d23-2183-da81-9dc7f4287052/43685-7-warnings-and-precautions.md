@@ -42,7 +42,7 @@ The increase in VTE risk was demonstrated during the first year and persisted3 [
 Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 In the WHI estrogen-alone substudy, the risk of VTE was increased for women receiving daily CE (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
-The increase in VTE risk was demonstrated during the first 2 years4[see Clinical Studies (14.6)].
+The increase in VTE risk was demonstrated during the first 2 years4 [see Clinical Studies (14.6)].
 Should a VTE occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.

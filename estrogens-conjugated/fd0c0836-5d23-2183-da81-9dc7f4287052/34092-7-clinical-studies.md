@@ -35,7 +35,7 @@ In a 1-year clinical trial of 1,376 women (average age 54 ± 4.6 years) randomiz
 
 TABLE 6: INCIDENCE OF ENDOMETRIAL HYPERPLASIA AFTER ONE YEAR OF TREATMENT
 
-|  | 0.625 mg/ 2.5 mg | 0.625 mg/ 5 mg | 0.625 mg/ 5 mg | 0.625 mg |
+|  | 0.625 mg/2.5 mg | 0.625 mg/5 mg | 0.625 mg/5 mg | 0.625 mg |
 | --- | --- | --- | --- | --- |
 |  | --------------------------Groups------------------------- |  |  |  |
 |  | PREMPRO | PREMPRO | PREMPHASE | Premarin |
@@ -54,7 +54,7 @@ TABLE 7: INCIDENCE OF ENDOMETRIAL HYPERPLASIA/CANCERAll cases of hyperplasia/can
 AFTER ONE YEAR OF TREATMENTTwo (2) primary pathologists evaluated each endometrial biopsy.
 Where there was lack of agreement on the presence or absence of hyperplasia/cancer between the two, a third pathologist adjudicated (consensus).
 
-| Patient | Prempro 0.625 mg/ 2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/ 1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/ 1.5 mg | Premarin 0.3 mg |
+| Patient | Prempro 0.625 mg/2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/1.5 mg | Premarin 0.3 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | -----------------------------------Groups--------------------------------- |  |  |  |  |  |
 | Total number of patients | 331 | 348 | 331 | 338 | 327 | 326 |
@@ -66,7 +66,7 @@ TABLE 8: OSTEOPOROSIS AND METABOLIC SUBSTUDY, INCIDENCE OF ENDOMETRIAL HYPERPLAS
 AFTER TWO YEARS OF TREATMENTTwo (2) primary pathologists evaluated each endometrial biopsy.
 Where there was lack of agreement on the presence or absence of hyperplasia/cancer between the two, a third pathologist adjudicated (consensus).
 
-| Patient | Prempro 0.625 mg/ 2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/ 1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/ 1.5 mg | Premarin 0.3 mg |
+| Patient | Prempro 0.625 mg/2.5 mg | Premarin 0.625 mg | Prempro 0.45 mg/1.5 mg | Premarin 0.45 mg | Prempro 0.3 mg/1.5 mg | Premarin 0.3 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | -------------------------------Groups------------------------------ |  |  |  |  |  |
 | Total number of patients | 75 | 65 | 75 | 74 | 79 | 73 |

@@ -13,5 +13,3 @@ Inform postmenopausal women of possible serious adverse reactions of estrogen pl
 ## 17.3 Possible Less Serious but Common Adverse Reactions with Estrogen Plus Progestin Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen plus progestin therapy such as headache, breast pain and tenderness, nausea and vomiting.
-
-## FDA-Approved Patient Labeling

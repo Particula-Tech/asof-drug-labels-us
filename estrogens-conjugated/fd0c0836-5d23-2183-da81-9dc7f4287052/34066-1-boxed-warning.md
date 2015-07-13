@@ -39,25 +39,3 @@ It is unknown whether this finding applies to younger postmenopausal women [see 
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and other dosage forms of estrogens.
 
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
-
-What is the most important information I should know about PREMPRO and PREMPHASE (combinations of estrogens and a progestin)?
-
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function)
-- Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots
-- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia
-- Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)
-- Using estrogen-alone may increase your chances of getting strokes or blood clots
-- Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- You and your healthcare provider should talk regularly about whether you still need treatment with PREMPRO or PREMPHASE
-
-What is the most important information I should know about PREMPRO and PREMPHASE (combinations of estrogens and a progestin)?
-
-- Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function)
-- Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots
-- Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia
-- Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)
-- Using estrogen-alone may increase your chances of getting strokes or blood clots
-- Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older
-- You and your healthcare provider should talk regularly about whether you still need treatment with PREMPRO or PREMPHASE

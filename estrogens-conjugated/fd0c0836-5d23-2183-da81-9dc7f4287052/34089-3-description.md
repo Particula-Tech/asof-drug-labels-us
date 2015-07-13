@@ -11,7 +11,9 @@ The chemical name for MPA is pregn-4-ene-3, 20-dione, 17-(acetyloxy)-6-methyl-, 
 Its molecular formula is C24H34O4, with a molecular weight of 386.53.
 Its structural formula is:
 
-PREMPRO 0.3 mg/1.5 mg, 0.45 mg/1.5 mg, and 0.625 mg/2.5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, microcrystalline cellulose, hypromellose, hydroxypropyl cellulose, sucrose, Eudragit NE 30D, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
+PREMPRO 0.3 mg/1.5 mg and 0.45 mg/1.5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, microcrystalline cellulose, carnauba wax, hypromellose, hydroxypropyl cellulose, sucrose, Eudragit NE 30D, lactose monohydrate, magnesium stearate, polyethylene glycol, titanium dioxide, yellow iron oxide, propylene glycol and black iron oxide.
+
+PREMPRO 0.625 mg/2.5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, microcrystalline cellulose, hypromellose, hydroxypropyl cellulose, sucrose, Eudragit NE 30D, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
 
 PREMPRO 0.625 mg/5 mg tablets contain the following inactive ingredients: calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
 

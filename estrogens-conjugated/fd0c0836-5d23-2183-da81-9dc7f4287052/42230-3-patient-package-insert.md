@@ -1,10 +1,13 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 PREMPRO® (Conjugated Estrogens/Medroxyprogesterone Acetate Tablets) PREMPHASE® (Conjugated Estrogens plus Medroxyprogesterone Acetate Tablets)
 
 Read this PATIENT INFORMATION before you start taking PREMPRO or PREMPHASE and read what you get each time you refill your PREMPRO or PREMPHASE prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+| What is the most important information I should know about PREMPRO and PREMPHASE (combinations of estrogens and a progestin)? Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function)Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or olderDo not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementiaUsing estrogen-alone may increase your chance of getting cancer of the uterus (womb)Using estrogen-alone may increase your chances of getting strokes or blood clotsUsing estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or olderYou and your healthcare provider should talk regularly about whether you still need treatment with PREMPRO or PREMPHASE |
+| --- |
 
 What is PREMPRO or PREMPHASE?
 
@@ -137,7 +140,9 @@ What are the ingredients in PREMPRO and PREMPHASE?
 PREMPRO contains the same conjugated estrogens found in Premarin, which are a mixture of sodium estrone sulfate and sodium equilin sulfate and other components, including sodium sulfate conjugates, 17α-dihydroequilin, 17α-estradiol and 17β-dihydroequilin.
 PREMPRO also contains either 1.5, 2.5, or 5 mg of medroxyprogesterone acetate.
 
-PREMPRO 0.3 mg/1.5 mg, 0.45 mg/1.5 mg, and 0.625 mg/2.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
+PREMPRO 0.3 mg/1.5 mg and 0.45 mg/1.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, carnauba wax, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, titanium dioxide, yellow iron oxide, propylene glycol and black iron oxide.
+
+PREMPRO 0.625 mg/2.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
 
 PREMPRO 0.625 mg/5 mg tablets also contain calcium phosphate tribasic, carnauba wax, Eudragit NE 30D, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sucrose, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
 
@@ -180,7 +185,7 @@ The appearance of PREMARIN tablets is a trademark of Pfizer Inc. The appearance 
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-| This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com |
+| This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com. |
 | --- |
 
-LAB-0504-6.0 09/2012
+LAB-0504-7.0 March 2015

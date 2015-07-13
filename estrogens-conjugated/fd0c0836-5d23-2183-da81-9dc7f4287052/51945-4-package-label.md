@@ -12,7 +12,7 @@ Rx only
 
 0.3 mg / 1.5 mg
 
-Each cream tablet contains 0.3 mg of Premarin® brand of conjugated estrogens and 1.5 mg of medroxyproges- terone acetate.
+Each cream tablet contains 0.3 mg of Premarin® brand of conjugated estrogens and 1.5 mg of medroxyprogesterone acetate.
 
 Directions for Use: Take one tablet each day until all tablets have been taken.
 See accompanying information.
@@ -27,15 +27,16 @@ PREMPRO 0.3 mg/1.5 mg
 
 Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
 
-MADE IN USA (includes foreign content)
+MADE IN IRELAND
 
 www.PREMPRO.com
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP XXXXXX
+LOT As per P.O.
+EXP As per P.O.
 
-12943401
+PAA059861
 
 # PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Carton
 
@@ -130,15 +131,16 @@ PREMPRO 0.45 mg/1.5 mg
 
 Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
 
-MADE IN USA (includes foreign content)
+MADE IN IRELAND
 
 www.PREMPRO.com
 
 WEEK 1 WEEK 2 WEEK 3 WEEK 4
 
-LOT XXXXXXX EXP XXXXXX
+LOT As per P.O.
+EXP As per P.O.
 
-12943701
+PAA059798
 
 # PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Carton
 
