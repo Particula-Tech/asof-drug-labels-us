@@ -6,4 +6,4 @@ Patients and caregivers should be instructed to take donepezil hydrochloride onl
 Patients and caregivers should be instructed that donepezil hydrochloride can be taken with or without food.
 Donepezil hydrochloride tablets 23 mg should be swallowed whole without the tablets being split, crushed or chewed.
 Patients and caregivers should be advised that the product may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue and decreased appetite.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2015

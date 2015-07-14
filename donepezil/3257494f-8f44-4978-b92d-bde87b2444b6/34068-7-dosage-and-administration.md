@@ -20,6 +20,6 @@ Results of a controlled clinical trial in moderate to severe Alzheimer's Disease
 
 The recommended starting dose of donepezil hydrochloride tablets is 5 mg once daily.
 Evidence from the controlled trials in mild to moderate Alzheimer’s disease indicates that the 10 mg dose, with a one week titration, is likely to be associated with a higher incidence of cholinergic adverse events compared to the 5 mg dose.
-In open-label trials using a 6-week titration, the type and frequency of these same adverse events were similar between the 5 mg and 10 mg dose groups.
+In open-label trials using a 6 week titration, the type and frequency of these same adverse events were similar between the 5 mg and 10 mg dose groups.
 Therefore, because donepezil hydrochloride tablets steady state is achieved about 15 days after it is started and because the incidence of untoward effects may be influenced by the rate of dose escalation, a dose of 10 mg should not be administered until patients have been on a daily dose of 5 mg for 4 to 6 weeks.
 A dose of 23 mg once daily can be administered once patients have been on a dose of 10 mg once daily for at least 3 months.

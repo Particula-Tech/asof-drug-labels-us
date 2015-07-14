@@ -1,11 +1,11 @@
 # PATIENT PACKAGE INSERT
 
-Donepezil Hydrochloride Tablets USP Read the Patient Information that comes with donepezil hydrochloride tablets before the patient starts taking them and each time you get a refill.
+Donepezil Hydrochloride Tablets USP (doe nep' e zil hye'' droe klor' ide) Read the Patient Information that comes with donepezil hydrochloride tablets before the patient starts taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 What are donepezil hydrochloride tablets?
-Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg, 10 mg and 23 mg.
+Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg.
 Donepezil hydrochloride tablets are a prescription medicine to treat mild, moderate, and severe Alzheimer’s disease.
 Donepezil hydrochloride tablets can help with mental function and with doing daily tasks.
 Donepezil hydrochloride tablets do not work the same in all people.
@@ -121,4 +121,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in donepezil hydrochloride tablets?
 Active ingredient: donepezil hydrochloride Inactive ingredients: hypromellose, lactose monohydrate, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (maize), talc, and titanium dioxide.
 In addition, the 10 mg tablets also contain yellow iron oxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2015

@@ -21,7 +21,7 @@ Most Frequent Adverse Events Seen in Association with the Use of Donepezil Hydro
 These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue and anorexia.
 These adverse events were often of mild intensity and transient, resolving during continued donepezil hydrochloride treatment without the need for dose modification.
 There is evidence to suggest that the frequency of these common adverse events may be affected by the rate of titration.
-An open-label study was conducted with 269 patients who received placebo in the 15- and 30-week studies.
+An open-label study was conducted with 269 patients who received placebo in the 15 and 30-week studies.
 These patients were titrated to a dose of 10 mg/day over a 6-week period.
 The rates of common adverse events were lower than those seen in patients titrated to 10 mg/day over one week in the controlled clinical trials and were comparable to those seen in patients on 5 mg/day.
 See Table 2 for a comparison of the most common adverse events following one and six week titration regimens.
@@ -211,9 +211,6 @@ The events cited reflect experience gained under closely monitored conditions of
 In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
 Table 6 lists adverse events that were reported in at least 2% of patients who received 23 mg/day of donepezil hydrochloride and at a higher frequency than those receiving 10 mg/day of donepezil hydrochloride in a controlled clinical trial that compared the two doses.
 In this study, there were no important differences in the type of adverse events in patients taking donepezil hydrochloride with or without memantine.
-
-Table 6.
-Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer’s Disease in at Least 2% of Patients and Higher in the 23 mg/day Group
 
 Table 6.
 Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer’s Disease in at Least 2% of Patients and Higher in the 23 mg/day Group
