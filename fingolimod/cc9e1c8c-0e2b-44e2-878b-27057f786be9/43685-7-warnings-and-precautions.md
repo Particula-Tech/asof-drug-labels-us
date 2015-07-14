@@ -62,6 +62,11 @@ Serious, life-threatening events of disseminated varicella zoster and herpes sim
 One of these events was fatal.
 Include disseminated herpetic infections in the differential diagnosis of patients who are receiving GILENYA and present with an atypical MS relapse or multiorgan failure.
 
+Cryptococcal infections
+
+Cryptococcal infections, including cases of cryptococcal meningitis, have been reported with GILENYA in the postmarketing setting.
+Patients with symptoms and signs consistent with cryptococcal meningitis should undergo prompt diagnostic evaluation and treatment.
+
 Prior and Concomitant Treatment with Antineoplastic, Immunosuppressive, or Immune-Modulating Therapies
 
 In clinical studies, patients who received GILENYA did not receive concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies used for treatment of MS. Concomitant use of GILENYA with any of these therapies, and also with corticosteroids, would be expected to increase the risk of immunosuppression [see Drug Interactions (7)].

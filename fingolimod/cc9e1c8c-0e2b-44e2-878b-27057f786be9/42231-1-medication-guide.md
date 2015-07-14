@@ -54,6 +54,7 @@ Call your doctor right away if you have any of these symptoms of an infection:
 - chills
 - nausea
 - vomiting
+- headache accompanied by fever, neck stiffness, sensitivity to light, nausea, and/or confusion (these may be symptoms of meningitis)
 
 3.
 A problem with your vision called macular edema.
@@ -240,6 +241,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2015-86
+T2015-110
 
-Revised: May 2014
+Revised: July 2015
