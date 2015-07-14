@@ -130,7 +130,7 @@ Less serious but common side effects include:
 These are not all the possible side effects of medroxyprogesterone acetate tablets with or without estrogen.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
 Tell your healthcare provider if you have side effect that bothers you or does not go away.
-You may report side effects to Pfizer at 1-800-438-1985 or FDA at 1-800-FDA-1088.
+You may report side effects to Greenstone LLC at 1-800-438-1985 or FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with medroxyprogesterone acetate tablets?
 
@@ -166,4 +166,4 @@ The 2.5 mg tablet contains FD&C Yellow No. 6.
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0147-25.0 June 2015
+LAB-0147-5.0 June 2015
