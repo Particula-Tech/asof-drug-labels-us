@@ -6,15 +6,15 @@ Colestid® colestipol hydrochloride for oral suspension, USP
 
 5 grams Rx only
 
-# PRINCIPAL DISPLAY PANEL - 30 x 5 g Packet Carton
+# PRINCIPAL DISPLAY PANEL - 5 g Packet Carton
 
-NDC 0009-0260-01
+NDC 0009-0260-04
 
 Pfizer Colestid®
 
 colestipol hydrochloride for oral suspension, USP
 
-30 Foil Packets – 5 grams each Rx only
+90 foil packets – 5 grams each Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 g Bottle Label
 
@@ -92,9 +92,7 @@ Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
 
 Pfizer NDC 0009-0370-05
 
-Flavored Colestid®
-
-colestipol hydrochloride for oral suspension
+Flavored Colestid® colestipol hydrochloride for oral suspension
 
 NUTRASWEET® BRAND SWEETENER
 
