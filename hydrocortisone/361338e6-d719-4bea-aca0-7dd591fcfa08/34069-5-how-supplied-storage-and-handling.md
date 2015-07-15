@@ -1,11 +1,9 @@
 # HOW SUPPLIED
 
-Pandel® (hydrocortisone probutate) Cream, 0.1%, a white to off-white opaque cream is supplied as follows:
-
-15 g tubes NDC 10337-0153-15 45 g tubes NDC 10337-0153-46 80 g tubes NDC 10337-0153-80 Store at controlled room temperature 15°-30°C (59°-86°F).
+Pandel® (hydrocortisone probutate) Cream, 0.1%, a white to off-white opaque cream is supplied as follows: 45 g tubes NDC 10337-0153-46 80 g tubes NDC 10337-0153-80 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Manufactured by:
 
-PharmaDerm® A division of Fougera Pharmaceuticals Inc. Melville, New York 11747 www.pharmaderm.com
+PharmaDerm® A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747 www.pharmaderm.com
 
-I8153C/IF8153C R12/11 #323
+I8153D/46148213A R10/14 #323

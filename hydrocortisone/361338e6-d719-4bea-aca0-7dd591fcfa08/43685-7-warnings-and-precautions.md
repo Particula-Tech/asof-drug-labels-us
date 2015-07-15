@@ -49,11 +49,7 @@ If no improvement is seen within two weeks, contact the physician.
 
 Laboratory Tests: The following tests may be helpful in evaluating if HPA axis suppression does occur:
 
-ACTH stimulation test
-
-A.M. plasma cortisol test
-
-Urinary free cortisol test
+- ACTH stimulation test A.M. plasma cortisol test Urinary free cortisol test
 
 Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
 

@@ -2,34 +2,28 @@
 
 PharmaDerm®
 
-NDC 10337-153-15
+NDC 10337-153-80
 
-Pandel®
+Pandel® (hydrocortisone probutate) Cream, 0.1%
 
-(hydrocortisone probutate) Cream, 0.1%
-
-FOR DERMATOLOGIC USE ONLY
-
-NOT FOR OPHTHALMIC USE
+FOR DERMATOLOGIC USE ONLY.
+NOT FOR OPHTHALMIC USE.
 
 Rx only
 
-15 g
+80 g
 
 # PRINCIPAL DISPLAY PANEL - CONTAINER
 
 PharmaDerm®
 
-NDC 10337-153-15
+NDC 10337-153-80
 
-Pandel®
+Pandel® (hydrocortisone probutate) Cream, 0.1%
 
-(hydrocortisone probutate) Cream, 0.1%
-
-FOR DERMATOLOGIC USE ONLY
-
-NOT FOR OPHTHALMIC USE
+FOR DERMATOLOGIC USE ONLY.
+NOT FOR OPHTHALMIC USE.
 
 Rx only
 
-15 g
+80 g
