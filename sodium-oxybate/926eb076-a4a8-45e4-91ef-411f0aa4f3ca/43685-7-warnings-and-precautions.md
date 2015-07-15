@@ -10,7 +10,7 @@ In addition, if short-term use of an opioid (e.g. post- or perioperative) is req
 
 Healthcare providers should caution patients about operating hazardous machinery, including automobiles or airplanes, until they are reasonably certain that Xyrem does not affect them adversely (e.g., impair judgment, thinking, or motor skills).
 Patients should not engage in hazardous occupations or activities requiring complete mental alertness or motor coordination, such as operating machinery or a motor vehicle or flying an airplane, for at least 6 hours after taking the second nightly dose of Xyrem.
-Patients should be queried about CNS depression‑related events upon initiation of Xyrem therapy and periodically thereafter [see Warnings and Precautions (5.3)].
+Patients should be queried about CNS depression‐related events upon initiation of Xyrem therapy and periodically thereafter [see Warnings and Precautions (5.3)].
 
 ## 5.2 Abuse and Misuse
 
@@ -20,17 +20,17 @@ Abuse of illicit GHB, either alone or in combination with other CNS depressants,
 The rapid onset of sedation, coupled with the amnestic features of Xyrem, particularly when combined with alcohol, has proven to be dangerous for the voluntary and involuntary user (e.g., assault victim).
 Because illicit use and abuse of GHB have been reported, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of GHB (e.g. increase in size or frequency of dosing, drug-seeking behavior, feigned cataplexy) [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.2)].
 
-## 5.3 Xyrem Success Program
+## 5.3 Xyrem REMS Program
 
-Because of the risks of central nervous system depression and abuse/misuse, Xyrem is available only through a restricted distribution program called the Xyrem Success Program.
+Because of the risks of central nervous system depression and abuse/misuse, Xyrem is available only through a restricted distribution program called the Xyrem REMS Program.
 
-Required components of the Xyrem Success Program are:
+Required components of the Xyrem REMS Program include:
 
-- •Use of a centralized pharmacy
-- •Healthcare Providers who prescribe Xyrem must complete the enrollment forms and comply with the requirements.
-- •To receive Xyrem, patients must understand the risks and benefits of Xyrem.
+- •Healthcare Providers who prescribe Xyrem are specially certified
+- •Xyrem will be dispensed only by the central pharmacy that is specially certified
+- •Xyrem will be dispensed and shipped only to patients who are enrolled in the XYREM REMS Program with documentation of safe use
 
-Further information is available at www.XYREM.com or 1-866-XYREM88® (1-866-997-3688).
+Further information is available at www.XYREMREMS.com or 1-866-XYREM88® (1-866-997-3688).
 
 ## 5.4 Respiratory Depression and Sleep-Disordered Breathing
 
@@ -41,7 +41,7 @@ In a study assessing the respiratory-depressant effects of Xyrem at doses up to 
 One of the four patients with preexisting, moderate-to-severe sleep apnea had significant worsening of the apnea/hypopnea index during treatment.
 
 In a study assessing the effects of Xyrem 9 g per night in 50 patients with obstructive sleep apnea, Xyrem did not increase the severity of sleep-disordered breathing and did not adversely affect the average duration and severity of oxygen desaturation overall.
-However, there was a significant increase in the number of central apneas in patients taking Xyrem, and clinically significant oxygen desaturation (≤55%) was measured in three patients (6%) after Xyrem administration, with one patient withdrawing from the study and two continuing after single brief instances of desaturation.
+However, there was a significant increase in the number of central apneas in patients taking Xyrem, and clinically significant oxygen desaturation (≤ 55%) was measured in three patients (6%) after Xyrem administration, with one patient withdrawing from the study and two continuing after single brief instances of desaturation.
 Prescribers should be aware that increased central apneas and clinically relevant desaturation events have been observed with Xyrem administration.
 
 In clinical trials in 128 patients with narcolepsy, two subjects had profound CNS depression, which resolved after supportive respiratory intervention.

@@ -43,7 +43,7 @@ In Trial N2, the response was numerically similar for patients treated with dose
 
 ## 14.2 Excessive Daytime Sleepiness in Narcolepsy
 
-The effectiveness of Xyrem in the treatment of excessive daytime sleepiness in patients with narcolepsy was established in two randomized, double-blind, placebo-controlled trials (Trials N3 and N4) (see Tables 7 to 9).
+The effectiveness of Xyrem in the treatment of excessive daytime sleepiness in patients with narcolepsy was established in two randomized, double-blind, placebo-controlled trials (Trials N3 and N4) (see Tables 5 to 7).
 Seventy-eight percent of patients in Trial N3 were also being treated with CNS stimulants.
 
 Trial N3 was a multicenter randomized, double-blind, placebo-controlled, parallel-group trial that evaluated 228 patients with moderate to severe symptoms at entry into the study including a median Epworth Sleepiness Scale (see below) score of 18, and a Maintenance of Wakefulness Test (see below) score of 8.3 minutes.

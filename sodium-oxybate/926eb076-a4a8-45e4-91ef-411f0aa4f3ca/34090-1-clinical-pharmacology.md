@@ -16,7 +16,7 @@ Absorption
 Following oral administration, sodium oxybate is absorbed rapidly across the clinical dose range, with an absolute bioavailability of about 88%.
 The average peak plasma concentrations (Cmax) following administration of each of the two 2.25 g doses given under fasting conditions 4 hours apart were similar.
 The average time to peak plasma concentration (Tmax) ranged from 0.5 to 1.25 hours.
-Following oral administration, the plasma levels of sodium oxybate increased more than dose-proportionally, with blood levels increasing 3.7‑fold as total daily dose is doubled from 4.5 g to 9 g. Single doses greater than 4.5 g have not been studied.
+Following oral administration, the plasma levels of sodium oxybate increased more than dose-proportionally, with blood levels increasing 3.7‐fold as total daily dose is doubled from 4.5 g to 9 g. Single doses greater than 4.5 g have not been studied.
 Administration of Xyrem immediately after a high-fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2 hr) and a reduction in Cmax by a mean of 59% and of systemic exposure (AUC) by 37%.
 
 Distribution
@@ -40,7 +40,7 @@ On average, less than 5% of unchanged drug appears in human urine within 6 to 8 
 Fecal excretion is negligible.
 Sodium oxybate has an elimination half-life of 0.5 to 1 hour.
 
-### Specific Populations
+### Specific Population
 
 Geriatric
 

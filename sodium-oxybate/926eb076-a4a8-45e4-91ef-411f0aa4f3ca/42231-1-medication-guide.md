@@ -26,9 +26,9 @@ Call your doctor right away if you have any of these serious side effects.
   - •death
 - •Do not drive a car, use heavy machinery, fly an airplane, or do anything that is dangerous or that requires you to be fully awake for at least 6 hours after you take Xyrem.
   You should not do those activities until you know how Xyrem affects you.
-- •Xyrem is available only by prescription and filled through the central pharmacy in the Xyrem Success Program.
+- •Xyrem is available only by prescription and filled through the central pharmacy in the Xyrem REMS Program.
   Before you receive Xyrem, your doctor or pharmacist will make sure that you understand how to use Xyrem safely and effectively.
-  If you have any questions about Xyrem, ask your doctor or call the Xyrem Success Program® at 1-866-997-3688.
+  If you have any questions about Xyrem, ask your doctor or call the Xyrem REMS Program at 1-866-997-3688.
 
 What is Xyrem?
 
@@ -166,7 +166,7 @@ This Medication Guide summarizes the most important information about Xyrem.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Xyrem that is written for health professionals.
 
-For more information, go to www.XYREM.com or call the Xyrem Success Program at 1-866-997-3688.
+For more information, go to www.XYREMREMS.com or call the Xyrem REMS Program at 1-866-997-3688.
 
 What are the ingredients in Xyrem?
 Active Ingredients: sodium oxybate
@@ -174,7 +174,7 @@ Active Ingredients: sodium oxybate
 Inactive Ingredients: purified water and malic acid
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Revised: April 2014
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Revised: April 2015
 
 ## Instructions for Use
 
@@ -300,4 +300,4 @@ Step 9.
 - •While sitting in bed, drink all of the second Xyrem dose and put the cap back on the second pharmacy container before lying down to continue sleeping.
 
 Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: April 2014
+Revised: April 2015

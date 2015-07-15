@@ -2,7 +2,7 @@
 
 Limitations of Use
 
-Xyrem may only be dispensed to patients enrolled in the Xyrem Success Program [see Warnings and Precautions (5.3)].
+Xyrem may only be dispensed to patients enrolled in the Xyrem REMS Program [see Warnings and Precautions (5.3)].
 
 ## 1.1 Cataplexy in Narcolepsy
 

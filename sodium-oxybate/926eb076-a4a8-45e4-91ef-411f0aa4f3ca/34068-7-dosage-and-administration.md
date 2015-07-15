@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Healthcare professionals who prescribe Xyrem must enroll in the Xyrem Success Program and must comply with the requirements to ensure safe use of Xyrem [see Warnings and Precautions (5.3)].
+Healthcare professionals who prescribe Xyrem must enroll in the Xyrem REMS Program and must comply with the requirements to ensure safe use of Xyrem [see Warnings and Precautions (5.3)].
 
 ## 2.1 Dosing Information
 
@@ -35,7 +35,7 @@ The recommended starting dose in patients with hepatic impairment is 2.25 g per 
 
 ## 2.4 Dose Adjustment with Co-administration of Divalproex Sodium
 
-Pharmacokinetic and pharmacodynamics interactions have been observed when Xyrem is co-administered with divalproex sodium.
+Pharmacokinetic and pharmacodynamic interactions have been observed when Xyrem is co-administered with divalproex sodium.
 For patients already stabilized on Xyrem, it is recommended that addition of divalproex sodium should be accompanied by an initial reduction in the nightly dose of Xyrem by at least 20%.
 For patients already taking divalproex sodium, it is recommended that prescribers use a lower starting Xyrem dose with introducing Xyrem.
 Prescribers should monitor patient response and adjust dose accordingly [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
