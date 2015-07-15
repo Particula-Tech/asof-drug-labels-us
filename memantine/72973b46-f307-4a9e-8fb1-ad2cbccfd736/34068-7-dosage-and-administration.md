@@ -1,0 +1,26 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+The recommended starting dose of Memantine HCl is 5 mg once daily.
+The dose should be increased in 5 mg increments to 10 mg/day (5 mg twice daily), 15 mg/day (5 mg and 10 mg as separate doses), and 20 mg/day (10 mg twice daily).
+The minimum recommended interval between dose increases is one week.
+The dosage shown to be effective in controlled clinical trials is 20 mg/day.
+
+Memantine HCl can be taken with or without food.
+If a patient misses a single dose of Memantine HCl, that patient should not double up on the next dose.
+The next dose should be taken as scheduled.
+
+If a patient fails to take Memantine HCl for several days, dosing may need to be resumed at lower doses and retitrated as described above.
+
+Do not mix Memantine HCl oral solution with any other liquid.
+The oral solution is administered with a dosing device that comes with the drug and consists of a syringe, syringe adaptor cap, tubing and other supplies a patient needs to administer the drug.
+The supplied syringe should be used to withdraw the correct volume of oral solution and the oral solution should be slowly squirted into the corner of the patient's mouth.
+
+Special Populations
+
+Renal Impairment
+
+A target dose of 5 mg twice daily is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockroft-Gault equation).
+
+Hepatic Impairment
+
+Memantine HCl should be administered with caution to patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

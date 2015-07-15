@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "NDA021487"
+  ],
+  "inn": "memantine",
+  "labeler": "Actavis Pharma, Inc",
+  "package_ndcs": [
+    "0591-3011-07",
+    "0591-3870-44",
+    "0591-3870-45",
+    "0591-3870-60",
+    "0591-3875-44",
+    "0591-3875-45",
+    "0591-3875-60",
+    "0591-3900-87"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "memantine hydrochloride",
+      "name": "memantine hydrochloride"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "memantine hydrochloride",
+      "name": "memantine hydrochloride"
+    },
+    {
+      "form": "TABLET",
+      "generic": "memantine hydrochloride",
+      "name": "memantine hydrochloride"
+    }
+  ],
+  "setid": "72973b46-f307-4a9e-8fb1-ad2cbccfd736",
+  "source": "dailymed"
+}
