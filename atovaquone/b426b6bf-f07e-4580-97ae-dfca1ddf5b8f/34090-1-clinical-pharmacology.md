@@ -54,7 +54,7 @@ Analysis of these data established a relationship between plasma atovaquone conc
 Table 6.
 Relationship between Plasma Atovaquone Concentration and Successful Treatment
 
-| Steady‑state Plasma Atovaquone Concentrations(mcg/mL) | Successful TreatmentaNo. Successes/No. in Group (%) |  |  |  |
+| Steady‑state Plasma Atovaquone Concentrations (mcg/mL) | Successful TreatmentaNo. Successes/No. in Group (%) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Observed |  | Predictedb |  |  |
 | 0 to <5 | 0/6 | 0% | 1.5/6 | 25% |
@@ -64,11 +64,10 @@ Relationship between Plasma Atovaquone Concentration and Successful Treatment
 | 20 to <25 | 18/18 | 100% | 17.8/18 | 99% |
 | 25+ | 6/6 | 100% | 6/6 | 100% |
 
-aSuccessful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
-This analysis was based on data from subjects for whom both outcome and steady-state plasma atovaquone concentration data were available.
-
-b Based on logistic regression analysis.
+- aSuccessful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
+  Improvement in clinical and respiratory measures was assessed using a composite of parameters that included oral body temperature, respiratory rate, severity scores for cough, dyspnea, and chest pain/tightness.
+  This analysis was based on data from subjects for whom both outcome and steady-state plasma atovaquone concentration data were available.
+- b Based on logistic regression analysis.
 
 A dosing regimen of MEPRON suspension for the treatment of mild‑to‑moderate PCP was selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well tolerated and associated with the highest treatment success rates (Table 6).
 In an open‑label PCP treatment trial with MEPRON suspension, dosing regimens of 1,000 mg once daily, 750 mg twice daily, 1,500 mg once daily, and 1,000 mg twice daily were explored.
@@ -84,7 +83,7 @@ Tetracycline: Concomitant treatment with tetracycline has been associated with a
 
 Metoclopramide: Concomitant treatment with metoclopramide has been associated with decreased bioavailability of atovaquone.
 
-Indinavir:Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady‑state AUC and Cmax of indinavir, but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI: 8%, 35%]).
+Indinavir: Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady‑state AUC and Cmax of indinavir, but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI: 8%, 35%]).
 
 Trimethoprim/Sulfamethoxazole: The possible interaction between atovaquone and TMP‑SMX was evaluated in 6 HIV-1-infected adult volunteers as part of a larger multiple‑dose, dose‑escalation, and chronic dosing trial of MEPRON suspension.
 In this crossover trial, MEPRON suspension 500 mg once daily (not the approved dosage), or TMP‑SMX tablets (trimethoprim 160 mg and sulfamethoxazole 800 mg) twice daily, or the combination were administered with food to achieve steady state.

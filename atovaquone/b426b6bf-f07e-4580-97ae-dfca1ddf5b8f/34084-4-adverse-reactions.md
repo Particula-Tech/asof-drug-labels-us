@@ -1,5 +1,9 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are discussed in other sections of the labeling:
+
+- •Hepatotoxicity [see Warnings and Precautions (5.2)].
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -27,7 +31,7 @@ Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontin
 | Diarrhea | 3.2 | 0.2 |
 | Vomiting | 2.2 | 0.6 |
 
-Aerosolized Pentamidine Comparative Trial:In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
+Aerosolized Pentamidine Comparative Trial: In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
 Subjects received MEPRON suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
 Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of MEPRON suspension or aerosolized pentamidine.
 
@@ -78,7 +82,7 @@ Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX C
 
 Two percent of subjects treated with MEPRON and 7% of subjects treated with TMP‑SMX had therapy prematurely discontinued due to elevations in ALT/AST.
 
-Pentamidine Comparative Trial:In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
+Pentamidine Comparative Trial: In the pentamidine comparative trial (n = 174), the majority of subjects in the primary therapy trial population (n = 145) were white (72%) and male (97%); the mean age was 37 years.
 Subjects received MEPRON 750 mg (three 250‑mg tablets) 3 times daily for 21 days or a 3- to 4‑mg/kg single pentamidine isethionate IV infusion daily for 21 days; the median durations of exposure were 21 and 14 days, respectively.
 
 Table 4 summarizes the clinical adverse reactions reported by ≥10% of the primary therapy trial population regardless of attribution.

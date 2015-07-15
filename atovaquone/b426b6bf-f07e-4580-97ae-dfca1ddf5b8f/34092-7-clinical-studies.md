@@ -84,7 +84,7 @@ Outcome of Treatment for PCP-positive Subjects Enrolled in the TMP-SMX Comparati
 | -Unevaluable | 22 | 14% | 16 | 10% |
 | Required alternate PCP therapy during trial | 55 | 34% | 55 | 34% |
 
-aAs defined by the protocol and described in trial description above.
+- aAs defined by the protocol and described in trial description above.
 
 The failure rate due to lack of response was significantly higher for subjects receiving MEPRON, while the failure rate due to an adverse reaction was significantly higher for subjects receiving TMP‑SMX.
 
