@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions have been very common in virtually all series of patients treated with amiodarone HCl for ventricular arrhythmias with relatively large doses of drug (400 mg/day and above), occurring in about three-fourths of all patients and causing discontinuation in 7 to 18%.
+Adverse reactions have been very common in virtually all series of patients treated with amiodarone for ventricular arrhythmias with relatively large doses of drug (400 mg/day and above), occurring in about three-fourths of all patients and causing discontinuation in 7 to 18%.
 The most serious reactions are pulmonary toxicity, exacerbation of arrhythmia and rare serious liver injury (see "WARNINGS"), but other adverse effects constitute important problems.
 They are often reversible with dose reduction or cessation of amiodarone treatment.
 Most of the adverse effects appear to become more frequent with continued treatment beyond six months, although rates appear to remain relatively constant beyond one year.
@@ -56,7 +56,7 @@ The following side effects were each reported in less than 1% of patients:
 
 Blue skin discoloration, rash, spontaneous ecchymosis, alopecia, hypotension and cardiac conduction abnormalities.
 
-In surveys of almost 5,000 patients treated in open U.S. studies and in published reports of treatment with amiodarone HCl, the adverse reactions most frequently requiring discontinuation of amiodarone included pulmonary infiltrates or fibrosis, paroxysmal ventricular tachycardia, congestive heart failure and elevation of liver enzymes.
+In surveys of almost 5,000 patients treated in open U.S. studies and in published reports of treatment with amiodarone, the adverse reactions most frequently requiring discontinuation of amiodarone included pulmonary infiltrates or fibrosis, paroxysmal ventricular tachycardia, congestive heart failure and elevation of liver enzymes.
 Other symptoms causing discontinuations less often included visual disturbances, solar dermatitis, blue skin discoloration, hyperthyroidism and hypothyroidism.
 
 ## Postmarketing Reports

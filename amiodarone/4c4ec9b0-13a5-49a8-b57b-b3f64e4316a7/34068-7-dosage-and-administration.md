@@ -20,7 +20,7 @@ Upon starting Pacerone® Tablets therapy, an attempt should be made to gradually
 When adequate arrhythmia control is achieved, or if side effects become prominent, Pacerone® Tablets dose should be reduced to 600 to 800 mg/day for one month and then to the maintenance dose, usually 400 mg/day (see "CLINICAL PHARMACOLOGY, Monitoring Effectiveness").
 Some patients may require larger maintenance doses, up to 600 mg/day, and some can be controlled on lower doses.
 Pacerone® Tablets may be administered as a single daily dose, or in patients with severe gastrointestinal intolerance, as a b.i.d. dose.
-In each patient, the chronic maintenance dose should be determined according to antiarrhythmic effect as assessed by symptoms, Holter recordings and/or programmed electrical stimulation, and by patient tolerance.
+In each patient, the chronic maintenance dose should be determined according to antiarrhythmic effect as assessed by symptoms, Holter recordings, and/or programmed electrical stimulation and by patient tolerance.
 Plasma concentrations may be helpful in evaluating nonresponsiveness or unexpectedly severe toxicity (see "CLINICAL PHARMACOLOGY").
 
 The lowest effective dose should be used to prevent the occurrence of side effects.

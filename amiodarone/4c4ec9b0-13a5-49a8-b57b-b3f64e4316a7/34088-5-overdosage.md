@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-There have been cases, some fatal, of amiodarone HCl overdose.
+There have been cases, some fatal, of amiodarone overdose.
 
 In addition to general supportive measures, the patient's cardiac rhythm and blood pressure should be monitored, and if bradycardia ensues, a β-adrenergic agonist or a pacemaker may be used.
 Hypotension with inadequate tissue perfusion should be treated with positive inotropic and/or vasopressor agents.

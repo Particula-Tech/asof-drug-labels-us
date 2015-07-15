@@ -20,4 +20,4 @@ For further product information and current package insert, please visit www.pac
 
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Revised 0215
+Revised 0515

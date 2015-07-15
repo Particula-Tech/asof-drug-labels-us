@@ -7,6 +7,6 @@ Amiodarone hydrochloride, the active ingredient in Pacerone® Tablets, is a benz
 
 The structural formula is as follows:
 
-Amiodarone HCl is a white to cream-colored crystalline powder.
+Amiodarone hydrochloride is a white to cream-colored crystalline powder.
 It is slightly soluble in water, soluble in alcohol and freely soluble in chloroform.
 It contains 37.3% iodine by weight.
