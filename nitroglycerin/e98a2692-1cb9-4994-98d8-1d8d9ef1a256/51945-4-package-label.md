@@ -1,12 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 0.1 mg/hr
+# PRINCIPAL DISPLAY PANEL – 0.1 mg/hr
 
 30 Systems
 
-www.mylan.com
-
-NDC 0378-9102-93
-
-Rx only
+NDC 0378-9102-93 Rx only
 
 Nitroglycerin Transdermal System 0.1 mg/hr
 
@@ -37,19 +33,17 @@ Instructions for Application
 - 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
 - 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
+Mylan.com
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9102-93-30C:R5
+M9102-93-30C:R6
 
-PRINCIPAL DISPLAY PANEL - 0.2 mg/hr
+# PRINCIPAL DISPLAY PANEL - 0.2 mg/hr
 
 30 Systems
 
-www.mylan.com
-
-NDC 0378-9104-93
-
-Rx only
+NDC 0378-9104-93 Rx only
 
 Nitroglycerin Transdermal System 0.2 mg/hr
 
@@ -80,19 +74,17 @@ Instructions for Application
 - 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
 - 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
+Mylan.com
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9104-93-30C:R7
+M9104-93-30C:R8
 
-PRINCIPAL DISPLAY PANEL - 0.4 mg/hr
+# PRINCIPAL DISPLAY PANEL - 0.4 mg/hr
 
 30 Systems
 
-www.mylan.com
-
-NDC 0378-9112-93
-
-Rx only
+NDC 0378-9112-93 Rx only
 
 Nitroglycerin Transdermal System 0.4 mg/hr
 
@@ -123,19 +115,17 @@ Instructions for Application
 - 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
 - 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
+Mylan.com
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9112-93-30C:R7
+M9112-93-30C:R8
 
-PRINCIPAL DISPLAY PANEL - 0.6 mg/hr
+# PRINCIPAL DISPLAY PANEL - 0.6 mg/hr
 
 30 Systems
 
-www.mylan.com
-
-NDC 0378-9116-93
-
-Rx only
+NDC 0378-9116-93 Rx only
 
 Nitroglycerin Transdermal System 0.6 mg/hr
 
@@ -166,6 +156,8 @@ Instructions for Application
 - 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
 - 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
+Mylan.com
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9116-93-30C:R7
+M9116-93-30C:R8

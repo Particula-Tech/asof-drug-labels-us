@@ -1,4 +1,4 @@
-Patient Information
+# Patient Information
 
 How to use
 
@@ -33,20 +33,20 @@ Nitroglycerin Transdermal Patch
   Hold the patch with the wording facing away from you.
   The slit should now be facing toward you.
   Rotate the patch as necessary to place the slit in an up and down position.
-- 
+
 - 2.Bend both sides of the clear peelable liner away from you at the slit.
-- 
+
 - 3.Slowly peel off only one of the strips of the clear liner.
   Do not touch the exposed sticky side of the patch.
-- 
+
 - 4.Using the remaining strip as a “handle”, apply the exposed sticky side of the patch to the skin.
   Press the sticky side on the chosen skin site and smooth down.
-- 
+
 - 5.Fold back the unattached side of the patch.
   Grasp the remaining strip and remove it while applying the remainder of the patch to the skin.
   Press the patch on the skin and smooth down with the palm of your hand.
   Once the patch is in place, do not test the adhesion by pulling on it.
-- 
+
 - When Nitroglycerin Transdermal Patch is applied to your body, the nitroglycerin contained in the patch begins to flow from the adhesive surface through your skin at a uniform rate.
 - 6.After applying the patch, wash hands to remove any drug.
 - 7.At the time recommended by your doctor, remove and discard the patch.
@@ -87,10 +87,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
-Mylan Pharmaceuticals Inc.
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Morgantown, WV 26505 U.S.A.
-
-REVISED NOVEMBER 2014
-
-PL:NTG:R12
+REVISED NOVEMBER 2014 PL:NTG:R12

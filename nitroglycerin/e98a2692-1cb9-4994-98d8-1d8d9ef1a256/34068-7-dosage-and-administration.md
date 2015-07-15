@@ -8,6 +8,6 @@ Thus, an appropriate dosing schedule for nitroglycerin patches would include a d
 Although some well controlled clinical trials using exercise tolerance testing have shown maintenance of effectiveness when patches are worn continuously, the large majority of such controlled trials have shown the development of tolerance (i.e., complete loss of effect) within the first 24 hours after therapy was initiated.
 Dose adjustment, even to levels much higher than generally used, did not restore efficacy.
 
-## PATIENT INSTRUCTIONS FOR APPLICATION OF SYSTEM
+PATIENT INSTRUCTIONS FOR APPLICATION OF SYSTEM
 
 A patient leaflet is supplied with each carton.
