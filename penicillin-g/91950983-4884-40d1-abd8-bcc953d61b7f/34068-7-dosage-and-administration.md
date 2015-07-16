@@ -16,7 +16,7 @@ The usual dose recommendations are as follows:
 | Tetanus (adjunctive therapy to human tetanus immune globulin) |  |
 | Diphtheria (adjunctive therapy to antitoxin and for the prevention of the carrier state) | 2 to 3 million units/day in divided doses for 10 to 12 days |
 | Erysipelothrix endocarditis | 12 to 20 million units/day for 4 to 6 weeks |
-| Fusospirochetosis (severe infections of the oropharnyx [Vincent's], lower respiratory tract and genital area) | 5 to 10 million units/day |
+| Fusospirochetosis (severe infections of the oropharnyx [Vincent’s], lower respiratory tract and genital area) | 5 to 10 million units/day |
 | Listeria infections |  |
 | Meningitis | 15 to 20 million units/day for 2 weeks |
 | Endocarditis | 15 to 20 million units/day for 4 weeks |
@@ -35,7 +35,7 @@ This product should not be administered to patients requiring less than one mill
 | --- | --- |
 | Serious infections, such as pneumonia and endocarditis, due to susceptible strains of streptococci (including S. pneumoniae) and meningococcus | 150,000 units/kg/day divided in equal doses every 4 to 6 hours; duration depends on infecting organism and type of infection. |
 | Meningitis caused by susceptible strains of pneumococcus and meningococcus | 250,000 units/kg/day divided in equal doses every 4 hours for 7 to 14 days depending on the infecting organism (maximum dose of 12 to 20 million units/day) |
-| Disseminated Gonococcal infections (penicillin-susceptible strains) | weight less than 45 kg.: |
+| Disseminated Gonococcal infections (penicillin-susceptible strains) | weight less than 45 kg: |
 | Arthritis | 100,000 units/kg/day in 4 equally divided doses for 7 to 10 days |
 | Meningitis | 250,000 units/kg/day in equal doses every 4 hours for 10 to 14 days |
 | Endocarditis | 250,000 units/kg/day in equal doses every 4 hours for 4 weeks |
@@ -85,7 +85,7 @@ When the required volume of solvent is greater than the capacity of the vial, th
 Penicillin G Potassium for Injection, USP is highly water soluble.
 It may be dissolved in small amounts of Water for Injection, or Sterile Isotonic Sodium Chloride Solution for Parenteral Use.
 All solutions should be stored in a refrigerator.
-When refrigerated, pencillin solutions may be stored for seven days without significant loss of potency.
+When refrigerated, penicillin solutions may be stored for seven days without significant loss of potency.
 
 Buffered Penicillin G Potassium for Injection may be given intramuscularly or by continuous intravenous drip for dosages of 500,000, 1,000,000 or 5,000,000 units.
 It is also suitable for intrapleural, intraarticular, and other local installations.

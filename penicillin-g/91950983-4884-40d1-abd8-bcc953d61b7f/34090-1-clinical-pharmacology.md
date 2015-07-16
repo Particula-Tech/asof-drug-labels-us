@@ -42,7 +42,7 @@ Penicillin G is bactericidal against penicillin-susceptible microorganisms durin
 It acts by inhibiting biosynthesis of cell-wall mucopeptide.
 It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci.
 Penicillin G is highly active in vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci and Nelsseriameningitidis.
-Other organisms susceptible in vitro to penicillin G are Nelsseriagonorrhoeae, Corynebacteriumdiphtheriae, Bacillus anthracis, clostridia, Actinomycesspecies, Spirillum minus, Streptobacillusmonillformis, Listeria monocytogenes, and leptospira; Treponemapallidumis extremely susceptible.
+Other organisms susceptible in vitro to penicillin G are Nelsseriagonorrhoeae, Corynebacteriumdiphtheriae, Bacillus anthracis, clostridia, Actinomycesspecies, Spirillum minus, Streptobacillusmonillformis, Listeria monocytogenes, and leptospira; Treponema pallidum is extremely susceptible.
 
 Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains of Escherichia coli, Proteus mirabilis, salmonella, shigella, Enterobacteraerogenes(formerly Aerobacteraerogenes) and Alcaligenesfaecalis.
 Penicillin G is no longer considered a drug of choice for infections caused by these organisms.
@@ -66,17 +66,16 @@ Table 1 Zone Diameter Interpretive Standards (nearest whole mm)
 | L. monocytogenes | ≥ 20 | -- | ≤ 19 |
 | Non-enterococcal streptococci | ≥ 28 | 20-27 | ≤ 19 |
 
-A report of "susceptible" indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of "moderately susceptible" suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
-A report of "resistant" indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
+A report of “susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
+A report of “moderately susceptible” suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
+A report of “resistant” indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
 
 Standardized procedures require the use of laboratory control organisms.
 The 10 U penicillin G disk should give the following zone diameters:
 
 | Organism | Zone Diameter (mm) |
 | --- | --- |
-| Staphylococcus aureus |  |
-| ATCC 25923 | 26-37 |
+| Staphylococcus aureus ATCC 25923 | 26-37 |
 
 ### Dilution techniques
 
@@ -99,7 +98,7 @@ Standard penicillin G powder should provide the following MIC values:
 
 | Organism | MIC |
 | --- | --- |
-| S. aureusATCC 29213 | 0.2 – 1 mcg/mL |
+| S. aureus ATCC 29213 | 0.2 – 1 mcg/mL |
 | Enterococcus faecalis ATCC 29212 | 1 – 4 mcg/mL |
 
 For anaerobic bacteria the MIC of penicillin G can be determined by agar or broth dilution (including microdilution) techniques3.

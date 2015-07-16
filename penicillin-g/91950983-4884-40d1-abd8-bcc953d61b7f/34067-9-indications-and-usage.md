@@ -13,13 +13,13 @@ Appropriate culture and susceptibility tests should be done before treatment in 
 | Botulism (adjunctive therapy to antitoxin), gas gangrene, and tetanus (adjunctive therapy to human tetanus immune globulin) | Clostridium species |
 | Diphtheria (adjunctive therapy to antitoxin and prevention of the carrier state) | Corynebacteriumdiphtheriae |
 | Erysipelothrix endocarditis | Erysipelothrixrhusiopthiae |
-| Fusospirochetosis (severe infections of the oropharynx [Vincent's], lower respiratory tract and genital area) | Fusobacteriumspecies and spirochetes |
+| Fusospirochetosis (severe infections of the oropharynx [Vincent’s], lower respiratory tract and genital area) | Fusobacteriumspecies and spirochetes |
 | Listeria infections including meningitis and endocarditis | Listeria monocytogenes |
 | Pasteurella infections including bacteremia and meningitis | Pasteurellamultocida |
 | Haverhill fever | Streptobacillusmoniliformis |
 | Rat-bite fever | Spirillum minus or Streptobacillusmoniliformis |
 | Disseminated gonococcal infections | Neisseria gonorrhoeae(penicillin-susceptible) |
-| Syphilis (congenital and neurosyphilis) | Treponemapallidum |
+| Syphilis (congenital and neurosyphilis) | Treponema pallidum |
 | Meningococcal meningitis and/or septicemia | Neisseria meningitidis |
 | Gram-negative bacillary infections (bacteremias) | Escherichia coli, Enterobacteraerogenes, Alcaligenesfaecalis, salmonella, shigella and Proteus mirabilis, Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. |
 

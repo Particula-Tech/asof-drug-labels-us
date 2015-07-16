@@ -12,7 +12,7 @@ Pseudomembranous colitis has been reported with nearly all antibacterial agents,
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficileis one primary cause of "antibiotic-associated colitis".
+Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “antibiotic-associated colitis”.
 
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
@@ -62,7 +62,7 @@ These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazi
 
 ## Drug/Laboratory Test Interactions
 
-After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix®.
+After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix®.
 
 Penicillin G has been associated with pseudoproteinuria by certain test methods.
 
