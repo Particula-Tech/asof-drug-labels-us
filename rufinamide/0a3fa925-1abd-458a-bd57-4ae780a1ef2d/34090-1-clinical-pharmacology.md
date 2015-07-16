@@ -1,13 +1,13 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown.
 
 The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel.
 Rufinamide (≥ 1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC50 of 3.8 μM).
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Overview
 
@@ -64,16 +64,24 @@ Age
 - Pediatrics Based on a population analysis which included a total of 115 patients, including 85 pediatric patients (24 patients ages 1 to 3 years, 40 patients ages 4 to 11 years, and 21 patients ages 12 to 17 years), the pharmacokinetics of rufinamide was similar across all age groups.
 - Elderly The results of a study evaluating single-dose (400 mg) and multiple dose (800 mg per day for 6 days) pharmacokinetics of rufinamide in 8 healthy elderly subjects (65-80 years old) and 7 younger healthy subjects (18-45 years old) found no significant age-related differences in the pharmacokinetics of rufinamide.
 
-Sex Population pharmacokinetic analyses of females show a 6-14% lower apparent clearance of rufinamide compared to males.
+Sex
+
+Population pharmacokinetic analyses of females show a 6-14% lower apparent clearance of rufinamide compared to males.
 This effect is not clinically important.
 
-Race In a population pharmacokinetic analysis of clinical studies, no difference in clearance or volume of distribution of rufinamide was observed between the black and Caucasian subjects, after controlling for body size.
+Race
+
+In a population pharmacokinetic analysis of clinical studies, no difference in clearance or volume of distribution of rufinamide was observed between the black and Caucasian subjects, after controlling for body size.
 Information on other races could not be obtained because of smaller numbers of these subjects.
 
-Renal Impairment Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL per min) was similar to that of healthy subjects.
+Renal Impairment
+
+Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL per min) was similar to that of healthy subjects.
 Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and Cmax by 29% and 16%, respectively.
 
-Drug Interactions Based on in vitro studies, rufinamide shows little or no inhibition of most cytochrome P450 enzymes at clinically relevant concentrations, with weak inhibition of CYP 2E1.
+Drug Interactions
+
+Based on in vitro studies, rufinamide shows little or no inhibition of most cytochrome P450 enzymes at clinically relevant concentrations, with weak inhibition of CYP 2E1.
 Drugs that are substrates of CYP 2E1 (e.g., chlorzoxazone) may have increased plasma levels in the presence of rufinamide, but this has not been studied.
 
 Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.

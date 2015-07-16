@@ -14,7 +14,7 @@ You will need the following supplies: See Figure A
 
 Figure A
 
-| Your total daily dose of BANZEL Oral Suspension is______mL. Take BANZEL in 2 equally divided doses: Morning dose = _____mL Evening dose =______mL Note: The doctor may change your dose, especially when you are first starting BANZEL Oral Suspension. If your morning and evening doses are more than 20 mL each, measure each dose using either: 2 syringes, or1 syringe, taking two steps to draw up the medicine in that same syringe |
+| Your total daily dose of BANZEL Oral Suspension is______mL. Take BANZEL in 2 equally divided doses: Morning dose = _____mL Evening dose =______mL Note: The doctor may change your dose, especially when you are first starting BANZEL Oral Suspension. If your morning and evening doses are more than 20 mL each, measure each dose using either: 2 syringes, or 1 syringe, taking two steps to draw up the medicine in that same syringe |
 | --- |
 
 Step 1.
@@ -66,8 +66,9 @@ Figure H
 Step 7.
 If the dose is more than 20 mL, you can either use:
 
-- 2 syringes, or
-- 1 syringe, taking two steps to draw up the medicine in that same syringe
+• 2 syringes, or
+
+• 1 syringe, taking two steps to draw up the medicine in that same syringe
 
 For example:
 

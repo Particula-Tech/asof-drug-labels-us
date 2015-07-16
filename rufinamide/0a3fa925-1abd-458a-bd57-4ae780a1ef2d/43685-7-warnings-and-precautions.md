@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Behavior and Ideation
+## 5.1Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including BANZEL, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -35,7 +35,7 @@ Should suicidal thoughts and behavior emerge during treatment, consider whether 
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.2 Central Nervous System Reactions
+## 5.2Central Nervous System Reactions
 
 Use of BANZEL has been associated with central nervous system-related adverse reactions in the controlled clinical trial of patients 4 years or older with Lennox-Gastaut Syndrome.
 The most significant of these can be classified into two general categories: 1) somnolence or fatigue, and 2) coordination abnormalities, dizziness, gait disturbances, and ataxia.
@@ -51,7 +51,7 @@ None of these reactions led to study discontinuation.
 
 Accordingly, patients should be advised not to drive or operate machinery until they have gained sufficient experience on BANZEL to gauge whether it adversely affects their ability to drive or operate machinery.
 
-## 5.3 QT Shortening
+## 5.3QT Shortening
 
 Formal cardiac ECG studies demonstrated shortening of the QT interval (mean = 20 msec, for doses >2400 mg twice daily) with BANZEL.
 In a placebo-controlled study of the QT interval, a higher percentage of BANZEL-treated subjects (46% at 2400 mg, 46% at 3200 mg, and 65% at 4800 mg) had a QT shortening of greater than 20 msec at Tmax compared to placebo (5-10%).
@@ -67,33 +67,33 @@ Non-clinical data also indicate that QT shortening is associated with ventricula
 Patients with Familial Short QT syndrome should not be treated with BANZEL.
 Caution should be used when administering BANZEL with other drugs that shorten the QT interval [see Contraindications (4)].
 
-## 5.4 Multi-organ Hypersensitivity Reactions
+## 5.4Multi-organ Hypersensitivity/Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Multi-organ Hypersensitivity Syndrome, a serious condition sometimes induced by antiepileptic drugs, has occurred in association with BANZEL therapy in clinical trials.
-One patient experienced rash, urticaria, facial edema, fever, elevated eosinophils, stuperous state, and severe hepatitis, beginning on day 29 of Banzel therapy and extending over a course of 30 days of continued Banzel therapy with resolution 11 days after discontinuation.
-Additional possible cases presented with rash and one or more of the following: fever, elevated liver function studies, hematuria, and lymphadenopathy.
-These cases occurred in pediatric patients less than 12 years of age, within 4 weeks of treatment initiation, and were noted to resolve and/or improve upon BANZEL discontinuation.
-This syndrome has been reported with other anticonvulsants and typically, although not exclusively, presents with fever and rash associated with other organ system involvement.
-Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
-If this reaction is suspected, BANZEL should be discontinued and alternative treatment started.
-In addition, rare cases of DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) and Stevens-Johnson syndrome have been reported in association with rufinamide therapy post marketing.
-If an antiepileptic drug hypersensitivity syndrome is suspected, rufinamide should be discontinued and alternative treatment started.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has been reported in patients taking antiepileptic drugs, including BANZEL.
+DRESS may be fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 
-All patients who develop a rash while taking BANZEL must be closely supervised.
+All cases of DRESS identified in clinical trials with BANZEL occurred in pediatric patients less than 12 years of age, occurred within 4 weeks of treatment initiation, and resolved or improved with BANZEL discontinuation.
+DRESS has also been reported in adult and pediatric patients taking BANZEL in the postmarketing setting.
 
-## 5.5 Withdrawal of AEDs
+If DRESS is suspected, the patient should be evaluated immediately, BANZEL should be discontinued, and alternative treatment should be started.
+
+## 5.5Withdrawal of AEDs
 
 As with all antiepileptic drugs, BANZEL should be withdrawn gradually to minimize the risk of precipitating seizures, seizure exacerbation, or status epilepticus.
 If abrupt discontinuation of the drug is medically necessary, the transition to another AED should be made under close medical supervision.
 In clinical trials, BANZEL discontinuation was achieved by reducing the dose by approximately 25% every 2 days.
 
-## 5.6 Status Epilepticus
+## 5.6Status Epilepticus
 
 Estimates of the incidence of treatment emergent status epilepticus among patients treated with BANZEL are difficult because standard definitions were not employed.
 In a controlled Lennox-Gastaut Syndrome trial, 3 of 74 (4.1%) BANZEL-treated patients had episodes that could be described as status epilepticus in the BANZEL-treated patients compared with none of the 64 patients in the placebo-treated patients.
 In all controlled trials that included patients with different epilepsies, 11 of 1240 (0.9%) BANZEL-treated patients had episodes that could be described as status epilepticus compared with none of 635 patients in the placebo-treated patients.
 
-## 5.7 Leukopenia
+## 5.7Leukopenia
 
 BANZEL has been shown to reduce white cell count.
 Leukopenia (white cell count < 3X109 L) was more commonly observed in BANZEL-treated patients 43 of 1171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.

@@ -1,14 +1,14 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.1)]
 - Central Nervous System Reactions [see Warnings and Precautions (5.2)]
 - QT Shortening [see Warnings and Precautions (5.3)]
-- Multi-Organ Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- Multi-Organ Hypersensitivity/Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)]
 - Leukopenia [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -129,3 +129,10 @@ Metabolic and Nutritional Disorders: Frequent: decreased appetite, increased app
 
 Renal and Urinary Disorders: Frequent: pollakiuria.
 Infrequent: urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
+
+## 6.2Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of BANZEL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Dermatologic: Stevens-Johnson syndrome and other serious skin rashes with mucosal involvement.

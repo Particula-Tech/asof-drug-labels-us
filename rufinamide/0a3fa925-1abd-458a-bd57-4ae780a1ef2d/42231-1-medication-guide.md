@@ -1,10 +1,4 @@
-Medication Guide
-
-BANZEL (ban-'zel)
-
-[rufinamide]
-
-Tablets and Oral Suspension
+Medication Guide BANZEL (ban-‘zel) [rufinamide] Tablets and Oral Suspension
 
 Read this Medication Guide before you start taking BANZEL and each time you get a refill.
 There may be new information.
@@ -18,29 +12,39 @@ Stopping BANZEL suddenly can cause serious problems.
 
 BANZEL can cause serious side effects, including:
 
-1. Like other antiepileptic drugs, BANZEL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
-   Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-   Do not stop BANZEL without first talking to a healthcare provider.
-   - thoughts about suicide or dying
-   - attempt to commit suicide
-   - new or worse depression
-   - new or worse anxiety
-   - feeling agitated or restless
-   - panic attacks
-   - trouble sleeping (insomnia)
-   - new or worse irritability
-   - acting aggressive, being angry, or violent
-   - acting on dangerous impulses
-   - an extreme increase in activity and talking (mania)
-   - other unusual changes in behavior or mood
-   - Suicidal thoughts or actions can be caused by things other than medicines.
-     If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-   - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-   - Keep all follow-up visits with your healthcare provider as scheduled.
-   - Stopping BANZEL suddenly can cause serious problems.
-     Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-2. BANZEL may cause you to feel sleepy, tired, weak, dizzy or have problems with coordination and walking.
+1.
+Like other antiepileptic drugs, BANZEL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+
+- thoughts about suicide or dying
+- attempt to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
+- Suicidal thoughts or actions can be caused by things other than medicines.
+  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+
+How can I watch for early symptoms of suicidal thoughts and actions?
+
+- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Do not stop BANZEL without first talking to a healthcare provider.
+
+- Stopping BANZEL suddenly can cause serious problems.
+  Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+
+2.
+BANZEL may cause you to feel sleepy, tired, weak, dizzy, or have problems with coordination and walking.
 
 What is BANZEL?
 
@@ -65,10 +69,9 @@ Before you take BANZEL, tell your healthcare provider if you:
   Tell your healthcare provider right away if you become pregnant while taking BANZEL.
   You and your healthcare provider will decide if you should take BANZEL while you are pregnant.
 - BANZEL may make certain types of birth control less effective.
-  Talk to your healthcare provider about the best birth control methods for you while you take BANZEL.
-  - If you become pregnant while taking BANZEL, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-    You can enroll in this registry by calling 1-888-233-2334.
-    The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
+  Talk to your healthcare provider about the best birth control methods for you while you take BANZEL. ○ If you become pregnant while taking BANZEL, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+  You can enroll in this registry by calling 1-888-233-2334.
+  The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
 - are breastfeeding or plan to breastfeed.
   BANZEL may pass into your breast milk.
   You and your healthcare provider should decide if you will take BANZEL or breastfeed.
@@ -102,9 +105,9 @@ What should I avoid while taking BANZEL?
 - Do not drive, operate heavy machinery, or do other dangerous activities until you know how BANZEL affects you.
   BANZEL can slow your thinking and motor skills.
 
-What are the possible side effects of BANZEL
+What are the possible side effects of BANZEL?
 
-See "What is the most important information I should know about BANZEL?"
+See “What is the most important information I should know about BANZEL?”
 
 BANZEL may cause serious side effects including:
 
@@ -147,7 +150,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store BANZEL?
 
-- Store BANZEL tablets and oral suspension at 59°F to 86°F (15°C to 30°C).
+- Store BANZEL tablets and oral suspension at 59ºF to 86ºF (15ºC to 30ºC).
 
 Tablets
 
@@ -178,18 +181,22 @@ What are the ingredients in BANZEL?
 
 Tablets
 
-Active ingredient: rufinamide Inactive ingredients: colloidal silicon dioxide, corn starch crosscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulphate, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+Active ingredient: rufinamide
+
+Inactive ingredients: colloidal silicon dioxide, corn starch crosscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulphate, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
 
 Oral Suspension
 
-Active ingredient: rufinamide Inactive ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, hydroxyethylcellulose, anhydrous citric acid, simethicone emulsion 30%, poloxamer 188, methylparaben, propylparaben, propylene glycol, potassium sorbate, noncrystallizing sorbitol solution 70%, orange flavor.
+Active ingredient: rufinamide
+
+Inactive ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, hydroxyethylcellulose, anhydrous citric acid, simethicone emulsion 30%, poloxamer 188, methylparaben, propylparaben, propylene glycol, potassium sorbate, noncrystallizing sorbitol solution 70%, orange flavor.
 
 The oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.
 
 Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
 
-Revised February 2015
+Revised June 2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

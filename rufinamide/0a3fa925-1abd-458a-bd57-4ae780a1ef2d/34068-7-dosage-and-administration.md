@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage Information
+## 2.1Dosage Information
 
 Pediatric patients (1 year to less than 17 years)
 
@@ -26,17 +26,17 @@ The dosing syringe should be inserted into the adapter and the dose withdrawn fr
 The cap should be replaced after each use.
 The cap fits properly when the adapter is in place [see Patient Counseling Information (17)].
 
-## 2.3 Dosing in Patients Undergoing Hemodialysis
+## 2.3Dosing in Patients Undergoing Hemodialysis
 
 Hemodialysis may reduce exposure to a limited (about 30%) extent.
 Accordingly, adjusting the BANZEL dose during the dialysis process should be considered [see Clinical Pharmacology (12.3)].
 
-## 2.4 Dosing in Patients with Hepatic Disease
+## 2.4Dosing in Patients with Hepatic Disease
 
 Use of BANZEL in patients with hepatic impairment has not been studied.
 Therefore, use in patients with severe hepatic impairment is not recommended.
-Caution should be exercised in treating patients with mild to moderate hepatic impairment [see Use in Specific Populations, (8.7)].
+Caution should be exercised in treating patients with mild to moderate hepatic impairment [see Use in Specific Populations (8.7)].
 
-## 2.5 Dosing in Patients Taking Valproate
+## 2.5Dosing in Patients Taking Valproate
 
-Patients taking valproate should begin BANZEL at a dose lower than 10 mg/kg per day in pediatric patients or 400 mg per day in adults [seeDrug Interactions (7.2)].
+Patients taking valproate should begin BANZEL at a dose lower than 10 mg/kg per day in pediatric patients or 400 mg per day in adults [see Drug Interactions (7.2)].

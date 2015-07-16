@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category C
 
@@ -24,33 +24,33 @@ To provide information regarding the effects of in utero exposure to BANZEL, phy
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 Rufinamide is likely to be excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from BANZEL, a decision should be made whether to discontinue nursing or discontinue the drug taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Safety and effectiveness have been established in pediatric patients 1 to 17 years of age.
 The effectiveness of BANZEL in pediatric patients 4 years of age and older was based upon an adequate and well-controlled trial of BANZEL that included both adults and pediatric patients, 4 years of age and older, with Lennox Gastaut Syndrome.
-The effectiveness in patients in patients 1 to less than 4 years was based upon a bridging pharmacokinetic and safety study [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14)].
+The effectiveness in patients 1 to less than 4 years was based upon a bridging pharmacokinetic and safety study [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14)].
 The pharmacokinetics of rufinamide in the pediatric patients, ages 1 to less than 4 years of age is similar to children older than 4 years of age and adults [see Clinical Pharmacology (12.3)].
 
 Safety and effectiveness in pediatric patients below the age of 1 year has not been established.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Clinical studies of BANZEL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Pharmacokinetics of rufinamide in the elderly are similar to that in the young subjects [see Clinical Pharmacology (12.3)].
 
-## 8.6 Renal Impairment
+## 8.6Renal Impairment
 
 Rufinamide pharmacokinetics in patients with severe renal impairment (creatinine clearance < 30 mL/min) was similar to that of healthy subjects.
-Dose adjustment in patients undergoing dialysis should be considered [seeClinical Pharmacology (12.3)].
+Dose adjustment in patients undergoing dialysis should be considered [see Clinical Pharmacology (12.3)].
 
-## 8.7 Hepatic Impairment
+## 8.7Hepatic Impairment
 
 Use of BANZEL in patients with severe hepatic impairment (Child-Pugh score 10 to 15) is not recommended.
 Caution should be exercised in treating patients with mild (Child-Pugh score 5 to 6) to moderate (Child-Pugh score 7 to 9) hepatic impairment.

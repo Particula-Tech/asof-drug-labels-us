@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
@@ -16,10 +16,10 @@ The oral suspension is available in bottles of 460 mL (NDC 62856-584-46).
 
 ## 16.2 Storage and Handling
 
-Store the tablets at 25°C (77°F); excursions permitted to 15°- 30°C (59°F - 86°F).
+Store the tablets at 25ºC (77ºF); excursions permitted to 15º- 30ºC (59ºF - 86ºF).
 Protect from moisture.
 Replace cap securely after opening.
 
-Store the oral suspension at 25°C (77°F); excursions permitted to 15°- 30°C (59°F - 86°F).
+Store the oral suspension at 25ºC (77ºF); excursions permitted to 15º- 30ºC (59ºF - 86ºF).
 Replace cap securely after opening.
 The cap fits properly in place when the adapter is in place.
