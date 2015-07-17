@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021870"
+  ],
+  "inn": "fludeoxyglucose-f-18",
+  "labeler": "THE FEINSTEIN INSTITUTE FOR MEDICAL RESEARCH",
+  "package_ndcs": [
+    "13267-234-45"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fludeoxyglucose f18",
+      "name": "Fludeoxyglucose"
+    }
+  ],
+  "setid": "dfd91498-4bfc-4d45-a9a3-cee6153ae573",
+  "source": "dailymed"
+}
