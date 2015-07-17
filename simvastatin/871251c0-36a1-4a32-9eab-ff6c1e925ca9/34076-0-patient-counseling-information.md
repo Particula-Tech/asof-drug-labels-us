@@ -29,8 +29,24 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use simvastatin tablets.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA
+Manufactured For:
 
-Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
+Accord Healthcare, Inc.,
 
-10 9351 0 653415 Issued April 2014
+1009, Slater Road,
+
+Suite 210-B,
+
+Durham, NC 27703,
+
+USA
+
+Manufactured By:
+
+Intas Pharmaceuticals Limited,
+
+Ahmedabad -380 009, India.
+
+10 9351 1 659550
+
+Issued February 2015
