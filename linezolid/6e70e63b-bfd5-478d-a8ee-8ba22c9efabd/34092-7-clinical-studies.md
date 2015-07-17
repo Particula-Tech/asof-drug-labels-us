@@ -116,7 +116,7 @@ Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vanc
 
 Infections due to Gram-positive Bacteria
 
-A safety and efficacy study provided experience on the use of ZYVOX in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, catheter-related bacteremia, bacteremia of unidentified source, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
+A safety and efficacy study provided experience on the use of ZYVOX in pediatric patients for the treatment of nosocomial pneumonia, complicated skin and skin structure infections, and other infections due to Gram-positive bacterial pathogens, including methicillin-resistant and -susceptible Staphylococcus aureus and vancomycin-resistant Enterococcus faecium.
 Pediatric patients ranging in age from birth through 11 years with infections caused by the documented or suspected Gram-positive bacteria were enrolled in a randomized, open-label, comparator-controlled trial.
 One group of patients received ZYVOX I.V.
 Injection 10 mg/kg every 8 hours followed by ZYVOX for Oral Suspension 10 mg/kg every 8 hours.
@@ -129,17 +129,14 @@ After the study was completed, 13 additional patients ranging from 4 days throug
 Table 19 provides clinical cure rates by pathogen for microbiologically evaluable patients including microbiologically evaluable patients with vancomycin-resistant Enterococcus faecium from the extension of this study.
 
 Table 18.
-Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients by Baseline Diagnosis
+Cure Rates at the Test-of-Cure Visit for Intent-to-Treat, Modified Intent-to-Treat, and Clinically Evaluable Pediatric Patients for the Overall Population and by Select Baseline Diagnosis
 
 | Population | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) | ZYVOX n/N (%) | Vancomycin n/N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | ITT |  | MITTMITT = ITT patients with an isolated Gram-positive pathogen at baseline |  | Clinically Evaluable |  |
 | Any diagnosis | 150/186 (81) | 69/83 (83) | 86/108 (80) | 44/49 (90) | 106/117 (91) | 49/54 (91) |
-| Bacteremia of unidentified source | 22/29 (76) | 11/16 (69) | 8/12 (67) | 7/8 (88) | 14/17 (82) | 7/9 (78) |
-| Catheter-related bacteremia | 30/41 (73) | 8/12 (67) | 25/35 (71) | 7/10 (70) | 21/25(84) | 7/9 (78) |
 | Complicated skin and skin structure infections | 61/72 (85) | 31/34 (91) | 37/43 (86) | 22/23 (96) | 46/49 (94) | 26/27 (96) |
 | Nosocomial pneumonia | 13/18 (72) | 11/12 (92) | 5/6 (83) | 4/4 (100) | 7/7 (100) | 5/5 (100) |
-| Other infections | 24/26 (92) | 8/9 (89) | 11/12 (92) | 4/4 (100) | 18/19 (95) | 4/4 (100) |
 
 Table 19.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Pediatric Patients with Infections due to Gram-positive Pathogens
