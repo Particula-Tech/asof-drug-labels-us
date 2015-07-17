@@ -12,18 +12,18 @@ Patients should be advised to promptly discontinue Trospium Chloride Extended-Re
 Prior to treatment, patients should fully understand the risks and benefits of Trospium Chloride Extended-Release Capsules.
 In particular, patients should be informed not to take Trospium Chloride Extended-Release Capsules if they:
 
-- have urinary retention;
-- gastric retention;
-- uncontrolled narrow-angle glaucoma;
-- are allergic to any component of Trospium Chloride Extended-Release Capsules.
+- •have urinary retention;
+- •gastric retention;
+- •uncontrolled narrow-angle glaucoma;
+- •are allergic to any component of Trospium Chloride Extended-Release Capsules.
 
 ## 17.3 Administration
 
 Patients should be instructed regarding the recommended dosing and administration of Trospium Chloride Extended-Release Capsules:
 
-- Take one Trospium Chloride Extended-Release Capsule daily in the morning with water.
-- Take Trospium Chloride Extended-Release Capsules on an empty stomach or at least 1 hour before a meal.
-- Use of alcoholic beverages within 2 hours of dosing with Trospium Chloride Extended-Release Capsules is not recommended.
+- •Take one Trospium Chloride Extended-Release Capsule daily in the morning with water.
+- •Take Trospium Chloride Extended-Release Capsules on an empty stomach or at least 1 hour before a meal.
+- •Use of alcoholic beverages within 2 hours of dosing with Trospium Chloride Extended-Release Capsules is not recommended.
 
 ## 17.4 Adverse Reactions
 

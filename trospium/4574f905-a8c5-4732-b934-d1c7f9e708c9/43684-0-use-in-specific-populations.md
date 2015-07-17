@@ -39,7 +39,7 @@ In subjects ages 75 and over, three reported a fall and in one of them a relatio
 ## 8.6 Renal Impairment
 
 Severe renal impairment (creatinine clearance < 30 mL/minute) may significantly alter the disposition of Trospium Chloride Extended-Release Capsules.
-In a study of immediate-release trospium chloride, 4.2-fold and 1.8-fold increases in mean AUC(0-∞) and Cmax, respectively, were detected in patients with severe renal impairment.
+In a study of immediate-release trospium chloride, 4.2-fold and 1.8-fold increases in mean AUC(0–∞) and Cmax, respectively, were detected in patients with severe renal impairment.
 Use of Trospium Chloride Extended-Release Capsules is not recommended in patients with severe renal impairment [see WARNINGS AND PRECAUTIONS (5.4) and CLINICAL PHARMACOLOGY (12.3)].
 The pharmacokinetics of trospium chloride have not been studied in patients with creatinine clearance ranging from 30 to 80 mL/min.
 
@@ -48,6 +48,6 @@ Trospium is known to be substantially excreted by the kidney, and the risk of ad
 ## 8.7 Hepatic Impairment
 
 There is no information regarding the effect of severe hepatic impairment on exposure to Trospium Chloride Extended-Release Capsules.
-In a study of patients with mild and with moderate hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
+In a study of patients with mild and with moderate hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0–∞) decreased 5% and 15%, respectively, compared to healthy subjects.
 The clinical significance of these findings is unknown.
 Caution is advised, however, when administering Trospium Chloride Extended-Release Capsules to patients with moderate to severe hepatic impairment.

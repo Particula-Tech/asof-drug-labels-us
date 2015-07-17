@@ -41,14 +41,13 @@ A summary of mean (± standard deviation) pharmacokinetic parameters for a singl
 
 Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral Dose of Trospium Chloride Extended-Release Capsules in Healthy Volunteers
 
-| Treatment | AUC(0-24) (ng•h/mL) | Cmax (ng/mL) | TmaxTmax expressed as median (range). (h) | t ½ t½ was determined following multiple (10) doses. (h) |
+| Treatment | AUC(0-24) (ng•h/mL) | Cmax (ng/mL) | TmaxTmax expressed as median (range). (h) | t ½t½ was determined following multiple (10) doses. (h) |
 | --- | --- | --- | --- | --- |
 | Trospium Chloride Extended-Release Capsules 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0 to 7.5) | 36 ± 22 |
 
 The mean sample concentration-time (+ standard deviation) profile for Trospium Chloride Extended-Release Capsules is shown in Figure 1.
 
-| Figure 1: Mean (+SD) Concentration-Time Profile for a Single 60 mg Oral Dose of Trospium Chloride Extended-Release Capsules in Healthy Volunteers |
-| --- |
+Figure 1: Mean (+SD) Concentration-Time Profile for a Single 60 mg Oral Dose of Trospium Chloride Extended-Release Capsules in Healthy Volunteers
 
 Administration of Trospium Chloride Extended-Release Capsules immediately after a high (50%) fat-content meal reduced the oral bioavailability of trospium chloride by 35% for AUC(0-Tlast) and by 60% for Cmax.
 Other pharmacokinetic parameters such as Tmax and t½ were unchanged in the presence of food.
@@ -65,7 +64,7 @@ Metabolism: The metabolic pathway of trospium in humans has not been fully defin
 Of the dose absorbed following oral administration, metabolites account for approximately 40% of the excreted dose.
 The major metabolic pathway of trospium is hypothesized as ester hydrolysis with subsequent conjugation of benzylic acid to form azoniaspironortropanol with glucuronic acid.
 Cytochrome P450 does not contribute significantly to the elimination of trospium.
-Data taken from in vitro studies of human liver microsomes investigating the inhibitory effect of trospium on seven cytochrome P450 isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4) suggest a lack of inhibition at clinically relevant concentrations.
+Data taken from in vitro studies of human liver microsomes, investigating the inhibitory effect of trospium on seven cytochrome P450 isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4), suggest a lack of inhibition at clinically relevant concentrations.
 
 Excretion: The plasma half-life for trospium following oral administration of Trospium Chloride Extended-Release Capsules is approximately 35 hours.
 After oral administration of an immediate-release formulation of 14C-labeled trospium chloride, a majority of the dose (85.2%) was recovered in feces and a smaller amount (5.8% of the dose) was recovered in urine.
@@ -84,7 +83,7 @@ While the systemic exposure of trospium on average was comparable with and witho
 Metformin: A drug interaction study was conducted in which Trospium Chloride Extended-Release Capsules 60 mg once daily was co-administered with Glucophage® (metformin hydrochloride) 500 mg twice daily under steady-state conditions in 44 healthy subjects.
 Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
 The effect of decrease in trospium exposure on the efficacy of Trospium Chloride Extended-Release Capsules is unknown.
-The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg Trospium Chloride Extended-Release Capsules once daily under fasted condition.
+The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg Trospium Chloride Extended- Release Capsules once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown.
 
 Specific Populations
@@ -99,7 +98,7 @@ Gender: Gender differences in pharmacokinetics of Trospium Chloride Extended-Rel
 Data from healthy subjects suggests lower exposure in males compared to females.
 
 Hepatic Impairment: There is no information regarding the effect of severe hepatic impairment on exposure to Trospium Chloride Extended-Release Capsules.
-In a study of patients with mild (Child-Pugh score 5 to 6) and with moderate (Child-Pugh score 7 to 8) hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63% respectively, and mean AUC(0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
+In a study of patients with mild (Child-Pugh score 5 to 6) and with moderate (Child-Pugh score 7 to 8) hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63% respectively, and mean AUC0(0–∞) decreased 5% and 15%, respectively, compared to healthy subjects.
 
 Renal Impairment: The pharmacokinetics of Trospium Chloride Extended-Release Capsules in patients with severe renal impairment has not been evaluated.
 In a study of an immediate-release formulation of trospium chloride, 4.2-fold and 1.8-fold increases in mean AUC(0–∞) and Cmax, respectively, were detected in patients with severe renal impairment (creatinine clearance < 30 mL/minute), compared with healthy subjects, along with the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours).

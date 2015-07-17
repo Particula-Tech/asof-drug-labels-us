@@ -54,7 +54,7 @@ Table 2: Incidence of treatment-emergent adverse events reported in at least 2% 
 | Nasopharyngitis | 10 (1.7) | 17 (2.9) |
 | Influenza | 9 (1.5) | 13 (2.2) |
 
-Additional adverse events reported in less than 2% of Trospium Chloride Extended-Release Capsules treated patients and twice as frequent for Trospium Chloride Extended-Release Capsules compared to placebo, regardless of reported relationship to treatment were: tachycardia, dry eyes, abdominal pain, dyspepsia, abdominal distension, constipation aggravated, nasal dryness, and rash.
+Additional adverse events reported in < 2% of Trospium Chloride Extended-Release Capsules treated patients and twice as frequent for Trospium Chloride Extended-Release Capsules compared to placebo, regardless of reported relationship to treatment were: tachycardia, dry eyes, abdominal pain, dyspepsia, abdominal distension, constipation aggravated, nasal dryness, and rash.
 
 In the open-label treatment phase, the most common TEAEs reported in the 769 patients with at least 6 months exposure to Trospium Chloride Extended-Release Capsules were: constipation, and dry mouth.
 Urinary tract infection and rash was also reported in several patients, including one of each judged by the investigator to be possibly related to treatment.
@@ -62,7 +62,7 @@ Several adverse events were reported as severe in the open-label treatment phase
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during post-approval use of trospium chloride.
+The following adverse reactions have been identified during postapproval use of trospium chloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, "hypertensive crisis"; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – dizziness, confusion, vision abnormal, hallucinations, somnolence, and delirium; Musculoskeletal – rhabdomyolysis; General – rash.
+Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – dizziness, confusion, vision abnormal, hallucinations, somnolence, and delirium; Musculoskeletal – rhabdomyolysis; General – rash.

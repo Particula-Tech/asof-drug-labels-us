@@ -10,18 +10,18 @@ What are Trospium Chloride Extended-Release Capsules?
 
 Trospium Chloride Extended-Release Capsules are a prescription medicine used to treat adults with overactive bladder who have the following symptoms:
 
-- a strong need to urinate right away;
-- leaking or wetting accidents due to a strong need to urinate right away;
-- a need to urinate often.
+- •a strong need to urinate right away;
+- •leaking or wetting accidents due to a strong need to urinate right away;
+- •a need to urinate often.
 
 Who should not take Trospium Chloride Extended-Release Capsules?
 
 Do not take Trospium Chloride Extended-Release Capsules if you:
 
-- have trouble emptying your bladder;
-- have delayed or slow emptying of your stomach;
-- have an eye problem called "uncontrolled narrow-angle glaucoma";
-- are allergic to Trospium Chloride Extended-Release Capsules or any of its ingredients.
+- •have trouble emptying your bladder;
+- •have delayed or slow emptying of your stomach;
+- •have an eye problem called “uncontrolled narrow-angle glaucoma”;
+- •are allergic to Trospium Chloride Extended-Release Capsules or any of its ingredients.
   See the end of this leaflet for a complete list of ingredients.
 
 Trospium Chloride Extended-Release Capsules have not been studied in children under the age of 18 years.
@@ -30,14 +30,14 @@ What should I tell my doctor before starting Trospium Chloride Extended-Release 
 
 Tell your doctor about all of your medical conditions including if you:
 
-- have any stomach or intestinal problems or problems with constipation;
-- have trouble emptying your bladder or have a weak urine stream;
-- have an eye problem called narrow-angle glaucoma;
-- have kidney problems;
-- have liver problems;
-- are pregnant or planning to become pregnant.
+- •have any stomach or intestinal problems or problems with constipation;
+- •have trouble emptying your bladder or have a weak urine stream;
+- •have an eye problem called narrow-angle glaucoma;
+- •have kidney problems;
+- •have liver problems;
+- •are pregnant or planning to become pregnant.
   It is not known if Trospium Chloride Extended-Release Capsules can harm your unborn baby.
-- are breastfeeding.
+- •are breastfeeding.
   It is not known if Trospium Chloride Extended-Release Capsules pass into breast milk and if it can harm your baby.
   You should talk to your doctor about the best way to feed your baby if you are taking Trospium Chloride Extended-Release Capsules.
 
@@ -52,10 +52,10 @@ How should I take Trospium Chloride Extended-Release Capsules?
 
 Take Trospium Chloride Extended-Release Capsules exactly as prescribed.
 
-- Take one Trospium Chloride Extended-Release Capsule daily in the morning with water.
-- Take Trospium Chloride Extended-Release Capsules on an empty stomach or at least 1 hour before a meal.
-- Do not take alcohol within 2 hours of taking Trospium Chloride Extended-Release Capsules.
-- If you take too much Trospium Chloride Extended-Release Capsules, call your local Poison Control Center or go to an emergency room right away.
+- •Take one Trospium Chloride Extended-Release Capsule daily in the morning with water.
+- •Take Trospium Chloride Extended-Release Capsules on an empty stomach or at least 1 hour before a meal.
+- •Do not take alcohol within 2 hours of taking Trospium Chloride Extended-Release Capsules.
+- •If you take too much Trospium Chloride Extended-Release Capsules, call your local Poison Control Center or go to an emergency room right away.
 
 What are the possible side effects of Trospium Chloride Extended-Release Capsules?
 
@@ -65,15 +65,15 @@ If you experience these symptoms, you should stop taking Trospium Chloride Exten
 
 The most common side effects with Trospium Chloride Extended-Release Capsules are:
 
-- dry mouth;
-- constipation.
+- •dry mouth;
+- •constipation.
 
 Trospium Chloride Extended-Release Capsules may cause other less common side effects, including:
 
-- trouble emptying the bladder;
-- blurred vision and drowsiness.
+- •trouble emptying the bladder;
+- •blurred vision and drowsiness.
   Do not drive or operate heavy machinery until you know how Trospium Chloride Extended-Release Capsules affects you.
-- heat prostration.
+- •heat prostration.
   Due to decreased sweating, heat prostration can occur when drugs such as Trospium Chloride Extended-Release Capsules are used in a hot environment.
 
 Tell your doctor if you have any side effects that bother you or that do not go away.
@@ -83,9 +83,9 @@ For more information, ask your doctor, healthcare professional or pharmacist.
 
 How should I store Trospium Chloride Extended-Release Capsules?
 
-- Keep Trospium Chloride Extended-Release Capsules and all other medicines out of the reach of children.
-- Store Trospium Chloride Extended- Release Capsules at room temperature, 68° to 77°F (20° to 25°C).
-- Safely dispose of Trospium Chloride Extended-Release Capsules that are out of date or that you no longer need.
+- •Keep Trospium Chloride Extended-Release Capsules and all other medicines out of the reach of children.
+- •Store Trospium Chloride Extended-Release Capsules at room temperature, 68° to 77°F (20° to 25°C).
+- •Safely dispose of Trospium Chloride Extended-Release Capsules that are out of date or that you no longer need.
 
 General information about Trospium Chloride Extended-Release Capsules
 
@@ -97,17 +97,44 @@ It may harm them.
 This leaflet summarizes the most important information about Trospium Chloride Extended-Release Capsules.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Trospium Chloride Extended-Release Capsules that is written for health professionals.
-You can also call Perrigo for more information at 1-800-328-5113.
+You can also call Perrigo for more information at 1-866-634-9120.
 
 What are the ingredients in Trospium Chloride Extended-Release Capsules?
 
 Active Ingredient: trospium chloride.
 
-Inactive Ingredients: collidal silicon dioxide, magnesium aluminum silicate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, povidone, sodium chloride, stearic acid, talc, FD&C yellow no. 6.
+Inactive Ingredients: colloidal silicon dioxide, magnesium aluminum silicate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, povidone, sodium chloride, stearic acid, talc, FD&C yellow no. 6.
 
-The capsule shell contains: ferric oxide, gelatin, potassium hydroxide, propylene glycol, shellac, sodium lauryl sulfate, titanium dioxide.
+The capsule shell contains: black iron oxide, gelatin, potassium hydroxide, propylene glycol, shellac, sodium lauryl sulfate and titanium dioxide.
 
-Manufactured for Perrigo® Minneapolis, MN 55427 Rev 03-13 A Manufactured by Sidmak Laboratories (India) Pvt.
-Ltd. Plot No. 20, Pharmacity, Selaqui Industrial Area, Dehradun-248197 Uttarakhand, India
+Manufactured For
+
+Perrigo®
+
+Minneapolis, MN 55427
+
+Rev 05-14 C
+
+1G400 RC J2
+
+Manufactured By
+
+Sidmak Laboratories (India) Pvt.
+Ltd.
+
+Plot No. 20, Pharmacity,
+
+Selaqui Industrial Area,
+
+Dehradun-248197
+
+Uttarakhand, India
+
+P2081001
+
+4270190/PI/02
+
+M.L.
+No. 38/UA/2007
 
 Glucophage® is a registered trademark of Merck Santé S.A.S.

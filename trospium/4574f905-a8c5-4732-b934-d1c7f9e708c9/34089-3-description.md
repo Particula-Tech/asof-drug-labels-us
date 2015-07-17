@@ -5,9 +5,9 @@ The empirical formula of trospium chloride is C25H30ClNO3 and its molecular weig
 The structural formula of trospium chloride is represented below:
 
 Trospium chloride is a fine, colorless to slightly yellow, crystalline solid.
-The compound's solubility in water is approximately 1 g/2 mL.
+The compound’s solubility in water is approximately 1 g/2 mL.
 
 Trospium Chloride Extended-Release Capsules contain 60 mg of trospium chloride, a muscarinic antagonist, for oral administration.
-Each capsule also contains the following inactive ingredients: collidal silicon dioxide, magnesium aluminum silicate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, povidone, sodium chloride, stearic acid, talc, FD&C yellow no. 6.
+Each capsule also contains the following inactive ingredients: colloidal silicon dioxide, magnesium aluminum silicate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, povidone, sodium chloride, stearic acid, talc, FD&C yellow no. 6.
 
-The capsule shell contains: ferric oxide, gelatin, potassium hydroxide, propylene glycol, shellac, sodium lauryl sulfate, titanium dioxide.
+The capsule shell contains: black iron oxide, gelatin, potassium hydroxide, propylene glycol, shellac, sodium lauryl sulfate and titanium dioxide.

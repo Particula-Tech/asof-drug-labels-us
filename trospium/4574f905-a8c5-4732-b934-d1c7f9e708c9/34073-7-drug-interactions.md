@@ -4,7 +4,7 @@ Trospium is metabolized by ester hydrolysis and excreted by the kidneys through 
 Based on in vitro data, no clinically relevant metabolic drug-drug interactions are anticipated with Trospium Chloride Extended-Release Capsules.
 However, some drugs which are actively secreted by the kidney may interact with Trospium Chloride Extended-Release Capsules by competing for renal tubular secretion.
 
-The concomitant use of Trospium Chloride Extended-Release Capsules with other antimuscarinic agents that produce dry mouth, constipation and other anticholinergic effects may increase the frequency and/or severity of such effects.
+The concomitant use of Trospium Chloride Extended-Release Capsules with other antimuscarinic agents that produce dry mouth and constipation and other anticholinergic effects may increase the frequency and/or severity of such effects.
 Trospium Chloride Extended-Release Capsules may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 
 ## 7.1 Digoxin

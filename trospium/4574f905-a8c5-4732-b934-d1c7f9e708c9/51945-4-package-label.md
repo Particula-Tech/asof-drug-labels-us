@@ -11,5 +11,3 @@ Trospium Chloride Extended-Release Capsules 60 mg
 Pharmacist: Dispense in this unit-of-use child resistant container with the patient information leaflet provided.
 
 30 Capsules Unit-of-Use
-
-Perrigo®

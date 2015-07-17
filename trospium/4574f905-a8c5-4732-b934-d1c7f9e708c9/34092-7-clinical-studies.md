@@ -32,9 +32,13 @@ Table 4: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 |  | 4 | 17.2 (2.5) | 30.0 (3.1) | 0.0007 |
 |  | 12 | 18.9 (2.8) | 29.8 (3.2) | 0.0039 |
 
-| Figure 2: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 1 |
-| --- |
-| Figure 3: Mean Change from Baseline in Incontinence Episodes/Week by Visit: Study 1 |
+Figure 2: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 1
+
+- WEEK OF TREATMENT
+
+Figure 3: Mean Change from Baseline in Incontinence Episodes/Week by Visit: Study 1
+
+- WEEK OF TREATMENT
 
 Study 2 included 543 patients in both Trospium Chloride Extended-Release Capsules 60 mg and placebo groups and was identical in design to Study 1.
 As illustrated in Table 5 and Figures 4 and 5, Trospium Chloride Extended-Release Capsules demonstrated statistically significantly (p<0.01) greater reductions in urinary frequency and incontinence episodes, and increases in void volume when compared to placebo at Weeks 4 and 12.
@@ -42,7 +46,7 @@ However, at Week 1, statistically significant reductions were seen in urinary in
 
 Table 5: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence Episodes and Void Volume in Study 2
 
-| Efficacy Endpointtreatment differences assessed by rank ANOVA for intent-to-treat population, last observation carried forward (ITT:LOCF) data set | Week | Placebo | Trospium Chloride Extended-Release Capsules | P-Value |
+| Efficacy Endpoint | Week | Placebo | Trospium Chloride Extended-Release Capsules | P-Value |
 | --- | --- | --- | --- | --- |
 | Urinary frequency / 24 hours |  | (N=276) | (N=267) |  |
 | Mean Baseline | 0 | 12.9 (0.2) | 12.8 (0.2) |  |
@@ -60,6 +64,10 @@ Table 5: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence 
 |  | 4 | 19.6 (3.1) | 29.3 (3.0) | 0.0020 |
 |  | 12 | 17.8 (3.3) | 31.5 (3.4) | 0.0014 |
 
-| Figure 4: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 2 |
-| --- |
-| Figure 5: Mean Change from Baseline in Incontinence Episodes/Week by Visit: Study 2 |
+Figure 4: Mean Change from Baseline in Urinary Frequency/24 hours by Visit: Study 2
+
+- WEEK OF TREATMENT
+
+Figure 5: Mean Change from Baseline in Incontinence Episodes/Week by Visit: Study 2
+
+- WEEK OF TREATMENT
