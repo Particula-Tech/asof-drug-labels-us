@@ -8,7 +8,7 @@ The following are drug interactions for which monitoring is recommended:
 ## 7.1 Drugs Metabolized by CYP2D6
 
 Since mirabegron is a moderate CYP2D6 inhibitor, the systemic exposure of drugs metabolized by CYP2D6 enzyme such as metoprolol and desipramine is increased when co-administered with mirabegron.
-Therefore, appropriate monitoring and dose adjustment may be necessary when Myrbetriq is co-administered with these drugs, especially with narrow therapeutic index CYP2D6 substrates, such as thioridazine, flecainide, and propafenone [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Therefore, appropriate monitoring and dose adjustment may be necessary when MYRBETRIQ® is co-administered with these drugs, especially with narrow therapeutic index CYP2D6 substrates, such as thioridazine, flecainide, and propafenone [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Digoxin
 

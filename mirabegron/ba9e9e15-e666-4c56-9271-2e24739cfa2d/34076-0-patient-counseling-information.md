@@ -2,10 +2,24 @@
 
 See FDA-approved patient labeling (Patient Information)
 
-Inform patients that Myrbetriq may increase blood pressure.
+Inform patients that MYRBETRIQ® may increase blood pressure.
 Periodic blood pressure determinations are recommended, especially in patients with hypertension.
-Myrbetriq has also been associated with infrequent urinary tract infections, rapid heart beat, rash, and pruritus.
+MYRBETRIQ® has also been associated with infrequent urinary tract infections, rapid heartbeat, rash, and pruritus.
 Inform patients that urinary retention has been reported when taking mirabegron in combination with antimuscarinic drugs used in the treatment of overactive bladder.
-Instruct patients to contact their physician if they experience these effects while taking Myrbetriq.
+Instruct patients to contact their physician if they experience these effects while taking MYRBETRIQ®.
 
-Patients should read the patient leaflet entitled “Patient Information” before starting therapy with Myrbetriq.
+Patients should read the patient leaflet entitled “Patient Information” before starting therapy with MYRBETRIQ®.
+
+Rx Only
+
+PRODUCT OF JAPAN OR IRELAND – See bottle label or blister package for origin
+
+Manufactured by: Astellas Pharma Technologies, Inc. Norman, Oklahoma 73072
+
+Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, Illinois 60062
+
+MYRBETRIQ® is a registered trademark of Astellas Pharma Inc. All other trademarks or registered trademarks are the property of their respective owners.
+
+© 2015 Astellas Pharma US, Inc.
+
+Revised: July 2015 15F042-MIR

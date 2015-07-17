@@ -1,8 +1,8 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – 25 mg
 
 NDC 0469-2601-30
 
-Myrbetriq® (mirabegron) extended release tablets 25 mg
+MYRBETRIQ® (mirabegron) extended release tablets 25 mg
 
 Once-Daily
 
@@ -13,11 +13,11 @@ Do not cut, crush, or chew tablet.
 
 Rx Only
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL – 50 mg
 
 NDC 0469-2602-30
 
-Myrbetriq® (mirabegron) extended release tablets 50 mg
+MYRBETRIQ® (mirabegron) extended release tablets 50 mg
 
 Once-Daily
 
