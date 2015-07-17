@@ -10,6 +10,8 @@ They are supplied as follows:
 
 68682-710-01 bottles of 100 (with desiccant)
 
+68682-710-10 bottles of 1,000 (with desiccant)
+
 Enalapril maleate tablets, 5 mg, are white, rounded triangle shaped tablet with “VASO 5” on one side and scored on the other.
 
 They are supplied as follows:
@@ -53,6 +55,8 @@ Keep container tightly closed.
 Protect from moisture.
 Dispense in a tight container as per USP, if product package is subdivided.
 
+Vasotec® is a registered trademark of Valeant Pharmaceuticals North America LLC.
+
 Manufactured for:
 
 Oceanside Pharmaceuticals, a division of
@@ -69,7 +73,9 @@ Steinbach, MB R5G 1Z7, Canada
 
 Made in Canada
 
-LB0103-00 Rev.
-03/15
+20000940
 
-9450100
+Rev.
+05/15
+
+9450101

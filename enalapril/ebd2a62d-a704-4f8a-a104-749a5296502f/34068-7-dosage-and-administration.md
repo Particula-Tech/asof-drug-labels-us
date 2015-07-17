@@ -27,7 +27,7 @@ The dosage may be titrated upward until blood pressure is controlled or to a max
 | Normal Renal Function | >80 mL/min | 5 mg |
 | Mild Impairment | ≤80 >30 mL/min | 5 mg |
 | Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
-| Dialysis Patients |  | 2.5 mg on dialysis days |
+| Dialysis Patients* | - | 2.5 mg on dialysis days† |
 | *See WARNINGS, Anaphylactoid reactions during membrane exposure.†Dosage on nondialysis days should be adjusted depending on the blood pressure response. |  |  |
 
 Heart Failure

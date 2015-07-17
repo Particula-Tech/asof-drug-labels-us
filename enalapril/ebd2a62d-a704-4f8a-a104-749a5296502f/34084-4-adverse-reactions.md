@@ -1,18 +1,18 @@
 # ADVERSE REACTIONS
 
-Enalapril has been evaluated for safety in more than 10,000 patients, including over 1000 patients treated for one year or more.
-Enalapril has been found to be generally well tolerated in controlled clinical trials involving 2987 patients.
+Enalapril maleate has been evaluated for safety in more than 10,000 patients, including over 1000 patients treated for one year or more.
+Enalapril maleate has been found to be generally well tolerated in controlled clinical trials involving 2987 patients.
 For the most part, adverse experiences were mild and transient in nature.
 In clinical trials, discontinuation of therapy due to clinical adverse experiences was required in 3.3 percent of patients with hypertension and in 5.7 percent of patients with heart failure.
 The frequency of adverse experiences was not related to total daily dosage within the usual dosage ranges.
-In patients with hypertension the overall percentage of patients treated with enalapril reporting adverse experiences was comparable to placebo.
+In patients with hypertension the overall percentage of patients treated with enalapril maleate reporting adverse experiences was comparable to placebo.
 
 HYPERTENSION
 
-Adverse experiences occurring in greater than one percent of patients with hypertension treated with enalapril in controlled clinical trials are shown below.
-In patients treated with enalapril, the maximum duration of therapy was three years; in placebo treated patients the maximum duration of therapy was 12 weeks.
+Adverse experiences occurring in greater than one percent of patients with hypertension treated with enalapril maleate in controlled clinical trials are shown below.
+In patients treated with enalapril maleate, the maximum duration of therapy was three years; in placebo treated patients the maximum duration of therapy was 12 weeks.
 
-|  | Enalapril Maleate (n=2314) Incidence (discontinuation) | Placebo (n=230) Incidence |
+|  | Enalapril Maleate (n = 2314) Incidence (discontinuation) | Placebo (n = 230) Incidence |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Fatigue | 3.0 (<0.1) | 2.6 |
@@ -31,14 +31,12 @@ In patients treated with enalapril, the maximum duration of therapy was three ye
 
 HEART FAILURE
 
-Adverse experiences occurring in greater than one percent of patients with heart failure treated with enalapril are shown below.
+Adverse experiences occurring in greater than one percent of patients with heart failure treated with enalapril maleate are shown below.
 The incidences represent the experiences from both controlled and uncontrolled clinical trials (maximum duration of therapy was approximately one year).
-In the placebo treated patients, the incidences reported are from the controlled trials (maximum duration of
+In the placebo treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
+The percentage of patients with severe heart failure (NYHA Class IV) was 29 percent and 43 percent for patients treated with enalapril maleate and placebo, respectively.
 
-therapy is 12 weeks).
-The percentage of patients with severe heart failure (NYHA Class IV) was 29 percent and 43 percent for patients treated with enalapril and placebo, respectively.
-
-|  | Enalapril Maleate (n=673) Incidence (discontinuation) | Placebo (n=339) Incidence |
+|  | Enalapril Maleate (n = 673) Incidence (discontinuation) | Placebo (n = 339) Incidence |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Orthostatic Effects | 2.2 (0.1) | 0.3 |
@@ -86,7 +84,7 @@ Nervous/Psychiatric: Depression, confusion, ataxia, somnolence, insomnia, nervou
 
 Respiratory: Bronchospasm, rhinorrhea, sore throat and hoarseness, asthma, upper respiratory infection, pulmonary infiltrates, eosinophilic pneumonitis.
 
-Skin: Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome,pemphigus, herpes zoster, erythema multiforme, urticaria, pruritus, alopecia, flushing, diaphoresis, photosensitivity.
+Skin: Exfoliative dermatitis, toxic epidermal necrolysis, Stevens-Johnson syndrome, pemphigus, herpes zoster, erythema multiforme, urticaria, pruritus, alopecia, flushing, diaphoresis, photosensitivity.
 
 Special Senses: Blurred vision, taste alteration, anosmia, tinnitus, conjunctivitis, dry eyes, tearing.
 
@@ -94,9 +92,9 @@ Urogenital: Renal failure, oliguria, renal dysfunction (see PRECAUTIONS and DOSA
 
 Miscellaneous: A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, rash and other dermatologic manifestations.
 
-Angioedema: Angioedema has been reported in patients receiving enalapril, with an incidence higher in black than in non-black patients.
+Angioedema: Angioedema has been reported in patients receiving enalapril maleate, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
-If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with enalapril should be discontinued and appropriate therapy instituted immediately (see WARNINGS).
+If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with enalapril maleate should be discontinued and appropriate therapy instituted immediately (see WARNINGS).
 
 Hypotension: In the hypertensive patients, hypotension occurred in 0.9 percent and syncope occurred in 0.5 percent of patients following the initial dose or during extended therapy.
 Hypotension or syncope was a cause for discontinuation of therapy in 0.1 percent of hypertensive patients.
@@ -117,17 +115,16 @@ Hyperkalemia (see PRECAUTIONS), hyponatremia.
 
 Creatinine, Blood Urea Nitrogen:
 
-In controlled clinical trials minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 0.2 percent of patients with essential hypertension treated with enalapril alone.
+In controlled clinical trials minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 0.2 percent of patients with essential hypertension treated with enalapril maleate alone.
 Increases are more likely to occur in patients receiving concomitant diuretics or in patients with renal artery stenosis (see PRECAUTIONS).
-In patients with heart failure who were also receiving diuretics with or without digitalis, increases in blood urea nitrogen or serum creatinine, usually reversible upon discontinuation of enalapril and/or other concomitant diuretic therapy, were observed in about 11 percent of patients.
-
+In patients with heart failure who were also receiving diuretics with or without digitalis, increases in blood urea nitrogen or serum creatinine, usually reversible upon discontinuation of enalapril maleate and/or other concomitant diuretic therapy, were observed in about 11 percent of patients.
 Increases in blood urea nitrogen or creatinine were a cause for discontinuation in 1.2 percent of patients.
 
 Hematology:
 
-Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g percent and 1.0 vol percent, respectively) occur frequently in either hypertension or congestive heart failure patients treated with enalapril but are rarely of clinical importance unless another cause of anemia coexists.
+Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g percent and 1.0 vol percent, respectively) occur frequently in either hypertension or congestive heart failure patients treated with enalapril maleate but are rarely of clinical importance unless another cause of anemia coexists.
 In clinical trials, less than 0.1 percent of patients discontinued therapy due to anemia.
-Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
+Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficiency, has been reported; a causal relationship to enalapril maleate cannot be excluded.
 
 Liver Function Tests
 
