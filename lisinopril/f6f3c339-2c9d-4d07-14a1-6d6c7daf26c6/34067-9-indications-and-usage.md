@@ -1,21 +1,31 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Hypertension
+## 1.1 Hypertension
 
-PRINIVIL is indicated for the treatment of hypertension.
-It may be used alone as initial therapy or concomitantly with other classes of antihypertensive agents.
+PRINIVIL is indicated for the treatment of hypertension in adult patients and pediatric patients 6 years of age and older to lower blood pressure.
+Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes.
 
-## Heart Failure
+Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
+Many patients will require more than 1 drug to achieve blood pressure goals.
+For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program's Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 
-PRINIVIL is indicated as adjunctive therapy in the management of heart failure in patients who are not responding adequately to diuretics and digitalis.
+Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
+The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
 
-## Acute Myocardial Infarction
+Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
+Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-PRINIVIL is indicated for the treatment of hemodynamically stable patients within 24 hours of acute myocardial infarction, to improve survival.
-Patients should receive, as appropriate, the standard recommended treatments such as thrombolytics, aspirin and beta-blockers.
+Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
+These considerations may guide selection of therapy.
 
-In using PRINIVIL, consideration should be given to the fact that another angiotensin converting enzyme inhibitor, captopril, has caused agranulocytosis, particularly in patients with renal impairment or collagen vascular disease, and that available data are insufficient to show that PRINIVIL does not have a similar risk.
-(See WARNINGS.)
+PRINIVIL may be administered alone or with other antihypertensive agents [see Clinical Studies (14.1)].
 
-In considering use of PRINIVIL, it should be noted that in controlled clinical trials ACE inhibitors have an effect on blood pressure that is less in Black patients than in non-Blacks.
-In addition, it should be noted that Black patients receiving ACE inhibitors have been reported to have a higher incidence of angioedema compared to non-Blacks (see WARNINGS, Anaphylactoid and Possibly Related Reactions, Head and Neck Angioedema).
+## 1.2 Heart Failure
+
+PRINIVIL is indicated to reduce signs and symptoms of heart failure in patients who are not responding adequately to diuretics and digitalis [see Clinical Studies (14.2)].
+
+## 1.3 Acute Myocardial Infarction
+
+PRINIVIL is indicated for the reduction of mortality in treatment of hemodynamically stable patients within 24 hours of acute myocardial infarction.
+Patients should receive, as appropriate, the standard recommended treatments such as thrombolytics, aspirin and beta-blockers [see Clinical Studies (14.3)].

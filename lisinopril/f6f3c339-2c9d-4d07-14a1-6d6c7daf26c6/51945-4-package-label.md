@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 0006-0019-54
 
@@ -14,7 +14,7 @@ Rx only
 
 90 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 0006-0106-54
 
@@ -30,7 +30,7 @@ Rx only
 
 90 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 20 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
 NDC 0006-0207-54
 
