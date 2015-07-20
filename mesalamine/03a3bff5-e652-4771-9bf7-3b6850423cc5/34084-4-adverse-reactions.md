@@ -12,7 +12,7 @@ The most serious adverse reactions seen in Asacol HD clinical trials or with oth
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Asacol HD has been evaluated in 896 patients with ulcerative colitis in controlled studies.
-Three six-week, active-controlled studies were conducted comparing Asacol HD 4.8 grams/day with Asacol (mesalamine) 2.4 grams/day in patients with mildly to moderately active ulcerative colitis.
+Three six- week, active-controlled studies were conducted comparing Asacol HD 4.8 grams/day with Asacol (mesalamine) 2.4 grams/day in patients with mildly to moderately active ulcerative colitis.
 In these studies, 727 patients were dosed with the Asacol HD tablet and 732 patients were dosed with the Asacol 400 mg tablet.
 (One Asacol HD 800 mg tablet cannot be substituted for two Asacol 400 mg tablets [see Clinical Pharmacology (12.3)].)
 
@@ -30,7 +30,7 @@ The majority involved the gastrointestinal system.
 Table 1.
 Adverse Reactions Occurring in 1 Percent or More of All Treated Patients (Three studies combined)
 
-|  | AsacolOne Asacol HD 800 mg tablet cannot be substituted for two Asacol 400 mg tablets [see Clinical Pharmacology (12.3)]. 2.4 g/day | Asacol HD 4.8 g/day |
+|  | Asacol* 2.4 g/day | Asacol HD* 4.8 g/day |
 | --- | --- | --- |
 |  | (400 mg Tablet) | (800 mg Tablet) |
 | Adverse Reaction | (N = 732) | (N = 727) |
@@ -46,7 +46,9 @@ Adverse Reactions Occurring in 1 Percent or More of All Treated Patients (Three 
 | Influenza | 1.2 % | 1.0 % |
 | Pyrexia | 1.2 % | 0.7 % |
 | Cough | 1.4 % | 0.3 % |
-| N = number of patients within specified treatment group Percent = percentage of patients in category and treatment group |  |  |
+| N = number of patients within specified treatment group |  |  |
+| Percent = percentage of patients in category and treatment group |  |  |
+| *One Asacol HD 800 mg tablet cannot be substituted for two Asacol 400 mg tablets [see Clinical Pharmacology (12.3)]. |  |  |
 
 ## 6.2 Postmarketing Experience
 

@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 Asacol® HD (mesalamine) delayed-release tablets are available as red-brown, capsule-shaped tablets containing 800 mg mesalamine and imprinted with “WC 800” in black.
 

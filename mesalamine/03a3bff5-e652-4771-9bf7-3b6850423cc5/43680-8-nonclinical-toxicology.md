@@ -17,5 +17,5 @@ Doses of 170 and 360 mg/kg/day (about 0.3 and 0.6 times the recommended human do
 
 In mice, oral doses of 4000 mg/kg/day (approximately 3.4 times the recommended human dose) for three months produced tubular nephrosis, multifocal/diffuse tubulo-interstitial inflammation, and multifocal/diffuse papillary necrosis.
 
-In dogs, single doses of 6000 mg (approximately 6.25 times the recommended human dose) of delayed-release mesalamine tablets resulted in renal papillary necrosis but were not fatal.
+In dogs, single doses of 6000 mg (approximately 6.25 times the recommended human dose) of delayed- release mesalamine tablets resulted in renal papillary necrosis but were not fatal.
 Renal changes have occurred in dogs given chronic administration of mesalamine at doses of 80 mg/kg/day (0.5 times the recommended human dose).

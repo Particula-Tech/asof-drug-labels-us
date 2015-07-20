@@ -7,7 +7,7 @@ Mucosal production of arachidonic acid (AA) metabolites, both through the cycloo
 
 ## 12.3 Pharmacokinetics
 
-Plasma concentrations of mesalamine (5-aminosalicylic acid; 5-ASA) and its metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA) are highly variable following administration of Asacol HD tablets.
+Plasma concentrations of mesalamine (5-aminosalicylic acid; 5-ASA) and its metabolite, N-acetyl-5- aminosalicylic acid (N-Ac-5-ASA) are highly variable following administration of Asacol HD tablets.
 The time to peak plasma concentration (tmax) is prolonged for mesalamine and N-Ac-5-ASA with the median values from various studies ranging from 10 to 16 hours, reflecting the delayed-release characteristics.
 Based on cumulative urinary recovery of mesalamine and N-Ac-5-ASA from single dose studies in healthy volunteers, approximately 20 percent of the orally administered mesalamine in Asacol HD tablets is systemically absorbed.
 The absorbed mesalamine is rapidly acetylated in the gut mucosal wall and by the liver to N-Ac-5-ASA which is excreted mainly by the kidney.
@@ -21,7 +21,8 @@ PK parameters in healthy subjects following administration of two 800 mg tablets
 | --- | --- | --- |
 | AUCtau (mcg h/mL) | 20 ± 14 | 25 ± 11 |
 | Cmax (mcg/mL) | 5.0 ± 4.0 | 4.6 ± 2.5 |
-| t1/2 (h) | 12.6 ± 10.9n = 11 | 23.6 ± 11.2n = 6 |
+| t1/2 (h) | 12.6 ± 10.9* | 23.6 ± 11.2# |
+| *n = 11, #n = 6 |  |  |
 
 A high fat meal does not affect the extent of systemic exposure to mesalamine after single-dose administration of Asacol HD, but mesalamine Cmax decreases by 47 percent and tmax is delayed by 14 hours under fed conditions.
 

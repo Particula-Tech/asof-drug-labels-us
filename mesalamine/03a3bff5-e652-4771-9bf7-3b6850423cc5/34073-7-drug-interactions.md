@@ -5,7 +5,7 @@ However, the following interactions between mesalamine-containing products and o
 
 ## 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
 
-The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti-inflammatory drugs (NSAIDs) may increase the risk of renal reactions [see Warnings and Precautions (5.1)].
+The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti- inflammatory drugs (NSAIDs) may increase the risk of renal reactions [see Warnings and Precautions (5.1)].
 
 ## 7.2 Azathioprine or 6-mercaptopurine
 
