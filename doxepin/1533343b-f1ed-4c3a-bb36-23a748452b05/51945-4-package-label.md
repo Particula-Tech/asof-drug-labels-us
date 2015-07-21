@@ -62,7 +62,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM3125A12
+RM3125A13
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
