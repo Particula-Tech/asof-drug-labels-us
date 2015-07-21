@@ -13,16 +13,10 @@ EPIVIR can cause serious side effects, including:
   Lactic acidosis can be hard to identify early because the symptoms could seem like symptoms of other health problems.
   Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
 
-| ounusual (not normal) muscle painotrouble breathingostomach pain with nausea and vomiting | ofeel cold, especially in your arms and legsofeel dizzy or light-headedohave a fast or irregular heartbeat |
+| •feel very weak or tired•unusual (not normal) muscle pain•trouble breathing•stomach pain with nausea and vomiting | •feel cold, especially in your arms and legs•feel dizzy or light-headed•have a fast or irregular heartbeat |
 | --- | --- |
 
-- •Severe liver problems.
-  Severe liver problems can happen in people who take EPIVIR or similar medicines.
-  In some cases these liver problems can lead to death.
-  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take EPIVIR.
-  Call your healthcare provider right away if you get any of the following signs of liver problems:
-
-| oyour skin or the white part of your eyes turns yellow (jaundice)odark or “tea-colored” urineolight-colored stools (bowel movements) | oloss of appetite for several days or longeronauseaopain, aching, or tenderness on the right side of your stomach area |
+| •your skin or the white part of your eyes turns yellow (jaundice)•dark or “tea-colored” urine•light-colored stools (bowel movements) | •loss of appetite for several days or longer•nausea•pain, aching, or tenderness on the right side of your stomach area |
 | --- | --- |
 
 You may be more likely to get lactic acidosis or severe liver problems if you are female, very overweight (obese), or have been taking nucleoside analog medicines for a long time or have risks for liver problems.
@@ -128,7 +122,7 @@ See “What is the most important information I should know about EPIVIR?”.
 - •Risk of inflammation of the pancreas (pancreatitis).
   Children may be at risk for developing pancreatitis during treatment with EPIVIR if they:
 
-| ohave taken nucleoside analogue medicines in the past | ohave a history of pancreatitisohave other risk factors for pancreatitis |
+| •have taken nucleoside analogue medicines in the past | •have a history of pancreatitis•have other risk factors for pancreatitis |
 | --- | --- |
 
 Call your healthcare provider right away if your child develops signs and symptoms of pancreatitis including severe upper stomach-area pain, with or without nausea and vomiting.
@@ -144,7 +138,7 @@ Your healthcare provider may tell you to stop giving EPIVIR to your child if the
 
 The most common side effects of EPIVIR in adults include:
 
-| oheadacheonauseaogenerally not feeling wellotiredness | onasal signs and symptomsodiarrheaocough |
+| •headache•nausea•generally not feeling well•tiredness | •nasal signs and symptoms•diarrhea•cough |
 | --- | --- |
 
 The most common side effects of EPIVIR in children include fever and cough.
