@@ -29,6 +29,6 @@ CARDENE® is a registered trademark of EKR Therapeutics, Inc. Galaxy is a regist
 
 Revised April 2015
 
-CTCI-001-1014-02-SPL
+CTCI-001-1014-02-SPL-1
 
 07-19-73-960
