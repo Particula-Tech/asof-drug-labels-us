@@ -19,7 +19,7 @@ The incidence of NSAID-induced duodenal ulcer was also significantly reduced wit
 
 Table 2
 
-|  | Placebo | bid | tid | qid |
+|  | Placebo | bid | Tid | qid |
 | --- | --- | --- | --- | --- |
 | Misoprostol 200 mcg Dosage Regimen |  |  |  |  |
 | Gastric ulcer | 11% | 6%Misoprostol significantly different from placebo (p<0.05) | 3% | 3% |
@@ -36,4 +36,4 @@ Table 3
 | Diclofenac sodium/misoprostol 50 tid | 3%Statistically significantly different from diclofenac (p<0.05) | 6% |
 | Diclofenac sodium/misoprostol 75 bid | 4% | 3% |
 | diclofenac sodium 75 mg bid | 11% | 7% |
-| placebo | 3% | 1% |
+| Placebo | 3% | 1% |

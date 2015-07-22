@@ -9,3 +9,5 @@ Diclofenac sodium/misoprostol tablets should not be given to patients who have e
 Severe, rarely fatal, anaphylactic-like reactions to diclofenac sodium have been reported in such patients (see WARNINGS- Anaphylactic Reactions, and PRECAUTIONS- Preexisting Asthma).
 
 Diclofenac sodium/misoprostol tablets are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see boxed CONTRAINDICATIONS AND WARNINGS).
+
+Diclofenac sodium/misoprostol tablets are contraindicated in patients with active gastrointestinal bleeding (see WARNINGS).

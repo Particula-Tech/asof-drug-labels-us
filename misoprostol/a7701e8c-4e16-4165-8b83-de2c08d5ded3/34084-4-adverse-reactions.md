@@ -37,17 +37,19 @@ Overall, there were no significant differences in the safety profile of diclofen
 
 Other adverse experiences reported occasionally or rarely with diclofenac sodium/misoprostol tablets, diclofenac or other NSAIDs, or misoprostol are:
 
-Body as a whole: Asthenia, death, fatigue, fever, infection, malaise, sepsis, chills.
+Body as a whole: Asthenia, death, fatigue, fever, infection, malaise, sepsis, chills, edema.
 
 Cardiovascular system: Arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased CPK, increased LDH, myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
 
 Central and peripheral nervous system: Coma, convulsions, dizziness, drowsiness, headache, hyperesthesia, hypertonia, hypoesthesia, insomnia, meningitis, migraine, neuralgia, paresthesia, somnolence, stroke, tremor, vertigo.
 
+Congenital, familial and genetic disorders: birth defects
+
 Digestive: Anorexia, appetite changes, constipation, dry mouth, dysphagia, enteritis, esophageal ulceration, esophagitis, eructation, gastritis, gastroesophageal reflux, GI bleeding, GI neoplasm benign, glossitis, heartburn, hematemesis, hemorrhoids, intestinal perforation, peptic ulcer, stomatitis and ulcerative stomatitis, tenesmus, vomiting.
 
-Female reproductive disorders: Breast pain, dysmenorrhea, intermenstrual bleeding, leukorrhea, menstrual disorder, menorrhagia, vaginal hemorrhage.
+Female reproductive disorders: Breast pain, dysmenorrhea, intermenstrual bleeding, leukorrhea, menstrual disorder, menorrhagia, vaginal hemorrhage, vaginitis, uterine cramping, uterine hemorrhage.
 
-Hemic and lymphatic system: Agranulocytosis, anemia, aplastic anemia, coagulation time increased, ecchymosis, eosinophilia, epistaxis, hemolytic anemia, leukocytosis, leukopenia, lymphadenopathy, melena, pancytopenia, pulmonary embolism, purpura, rectal bleeding, thrombocythemia, thrombocytopenia.
+Hemic and lymphatic system: Agranulocytosis, anemia, aplastic anemia, coagulation time increased, ecchymosis, eosinophilia, epistaxis, hemolytic anemia, leukocytosis, leukopenia, lymphadenopathy, melena, pancytopenia, pulmonary embolism, purpura, rectal bleeding, thrombocythemia, thrombocytopenia, decreased hematocrit.
 
 Hypersensitivity: Angioedema, laryngeal/pharyngeal edema, urticaria.
 
@@ -55,15 +57,17 @@ Liver and biliary system: Abnormal hepatic function, bilirubinemia, hepatitis, j
 
 Male reproductive disorders: Impotence, perineal pain.
 
-Metabolic and nutritional: Alanine aminotransferase increased, alkaline phosphatase increased, aspartate aminotransferase increased, BUN increased, dehydration, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, hyponatremia, periorbital edema, porphyria, weight changes.
+Metabolic and nutritional: Alanine aminotransferase increased, alkaline phosphatase increased, aspartate aminotransferase increased, BUN increased, dehydration, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, hyponatremia, periorbital edema, porphyria, weight changes, fluid retention.
 
 Musculoskeletal system: Arthralgia, myalgia.
+
+Pregnancy, puerperium and perinatal conditions: abnormal uterine contractions, uterine rupture/perforation, retained placenta, amniotic fluid embolism, incomplete abortion, premature birth, fetal death.
 
 Psychiatric: Anxiety, concentration impaired, confusion, depression, disorientation, dream abnormalities, hallucinations, irritability, nervousness, paranoia, psychotic reaction.
 
 Respiratory system: Asthma, coughing, dyspnea, hyperventilation, pneumonia, respiratory depression.
 
-Skin and appendages: Acne, alopecia, bruising, eczema, erythema multiforme, exfoliative dermatitis, pemphigoid reaction, photosensitivity, pruritus, pruritus ani, rash, skin ulceration, Stevens-Johnson syndrome, sweating increased, toxic epidermal necrolysis.
+Skin and appendages: Acne, alopecia, bruising, eczema, erythema multiforme, exfoliative dermatitis, pemphigoid reaction, photosensitivity, pruritus, pruritus ani, rash, skin ulceration, Stevens-Johnson syndrome, sweating increased, toxic epidermal necrolysis, cutaneous reactions (bullous eruption).
 
 Special senses: Hearing impairment, taste loss, taste perversion, tinnitus.
 
