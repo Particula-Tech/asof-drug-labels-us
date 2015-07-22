@@ -15,19 +15,19 @@ A maximum of 4 g should not be exceeded during a 24-hour period.
 
 The usual duration of therapy is 7 to 10 days; however, infections of the bone and joint, lower respiratory tract and endocardium may require longer treatment.
 
-## Dosage Adjustments
+### Dosage Adjustments
 
-## Patients with Severe Hepatic Impairment
+#### Patients with Severe Hepatic Impairment
 
 For patients with severe hepatic impairment (Child-Pugh C), the metronidazole dose should be reduced by 50% (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
-## Patients Undergoing Hemodialysis
+### Patients Undergoing Hemodialysis
 
 Hemodialysis removes significant amounts of metronidazole and its metabolites from systemic circulation.
 The clearance of metronidazole will depend on the type of dialysis membrane used, the duration of the dialysis session, and other factors.
 If the administration of metronidazole cannot be separated from a hemodialysis session, supplementation of metronidazole dosage following a hemodialysis session should be considered, depending on the patient’s clinical situation (see CLINICAL PHARMACOLOGY).
 
-## Prophylaxis
+### Prophylaxis
 
 For surgical prophylactic use, to prevent postoperative infection in contaminated or potentially contaminated colorectal surgery, the recommended dosage schedule for adults is:
 

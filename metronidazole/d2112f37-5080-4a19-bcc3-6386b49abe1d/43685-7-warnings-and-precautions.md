@@ -22,22 +22,22 @@ The appearance of abnormal neurologic signs and symptoms demands the prompt eval
 
 ## General
 
-## Hepatic Impairment
+### Hepatic Impairment
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
 For patients with severe hepatic impairment (Child-Pugh C), a reduced dose of METRONIDAZOLE INJECTION, USP is recommended.
 For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for metronidazole associated adverse events (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-## Renal Impairment
+### Renal Impairment
 
 Patients with end-stage renal disease may excrete metronidazole and metabolites slowly in the urine, resulting in significant accumulation of metronidazole metabolites.
 Monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY).
 
-## Fungal Superinfections
+### Fungal Superinfections
 
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with Metronidazole Injection, USP and requires treatment with a candicidal agent.
 
-## Use in Patients with Blood Dyscrasias
+### Use in Patients with Blood Dyscrasias
 
 Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
@@ -46,7 +46,7 @@ A mild leukopenia has been observed during its administration; however, no persi
 
 Total and differential leukocyte counts are recommended before, during, and after prolonged or repeated courses of metronidazole therapy.
 
-## Sodium Retention
+### Sodium Retention
 
 Administration of solutions containing sodium ions may result in sodium retention.
 Care should be taken when administering Metronidazole Injection, USP to patients receiving corticosteroids or to patients predisposed to edema.
@@ -61,7 +61,7 @@ Prescribing Metronidazole Injection, USP in the absence of a proven or strongly 
 
 Discontinue consumption of alcoholic beverages or products containing propylene glycol while taking Metronidazole Injection, USP and for at least three days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur (see CONTRAINDICATIONS, PRECAUTIONS-Drug Interactions).
 
-## Treatment of Bacterial Infections
+### Treatment of Bacterial Infections
 
 Patients should be counseled that antibacterial drugs including Metronidazole Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).

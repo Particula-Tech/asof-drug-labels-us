@@ -32,5 +32,5 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
 Baxter and Viaflex are registered trademarks of Baxter International Inc. ATCC is a registered trademark of the American Type Culture Collection
 
-07-19-72-917 Rev.
-March 2014
+07-19-75-254 Rev.
+July 2015

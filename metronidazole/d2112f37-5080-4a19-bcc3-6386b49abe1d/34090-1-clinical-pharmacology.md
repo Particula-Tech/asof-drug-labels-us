@@ -15,12 +15,12 @@ Bactericidal concentrations of metronidazole have also been detected in pus from
 Following a single intravenous dose of metronidazole 500 mg, 4 healthy subjects who underwent gastrointestinal endoscopy had peak gastric juice metronidazole concentrations of 5 to 6 mcg/mL at one hour post-dose.
 In patients receiving intravenous metronidazole in whom gastric secretions are continuously removed by nasogastric aspiration, sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels.
 
-### Metabolism
+## Metabolism
 
 The metabolites of metronidazole result primarily from side-chain oxidation [1-(ß-hydroxyethyl)-2-hydroxymethyl-5-nitroimidazole and 2-methyl-5-nitroimidazole-1-yl-acetic acid] and glucuronide conjugation.
 Both the parent compound and the hydroxyl metabolite possess in vitro antimicrobial activity.
 
-### Excretion
+## Excretion
 
 The major route of elimination of metronidazole and its metabolites is via the urine (60-80% of the dose), with approximately 20% of the amount excreted appearing as unchanged metronidazole.
 Renal clearance of metronidazole is approximately 10 mL/min/1.73 m2.
@@ -64,13 +64,21 @@ In infants whose gestational ages were between 28 and 40 weeks, the correspondin
 
 ### Mechanism of Action
 
-Metronidazole exerts antibacterial effects in an anaerobic environment by the following possible mechanism: Once metronidazole enters the organism, the drug is reduced by intra-cellular electron transport proteins.
-Because of this alteration to the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug’s intracellular transport.
-Presumably, free radicals are formed which, in turn, react with cellular components resulting in death of bacteria.
+Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes.
+Once metronidazole enters the organism by passive diffusion and is activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport proteins such as ferredoxin, transfer of an electron to the nitro group of the metronidazole, and formation of a short-lived nitroso free radical.
+Because of this alteration of the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug’s intracellular transport.
+The reduced form of metronidazole and free radicals can interact with DNA leading to inhibition of DNA synthesis and DNA degradation leading to death of bacteria.
+The precise mechanism of action of metronidazole is unclear.
 
-Metronidazole is active against most obligate anaerobes, but does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+### Drug Resistance
 
-Activity In Vitro and In Vivo
+A potential for development of resistance exists against metronidazole.
+
+Resistance may be due to multiple mechanisms that include decreased uptake of the drug, altered reduction efficiency, overexpression of the efflux pumps, inactivation of the drug, and/or increased DNA damage repair.
+
+Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+
+Activity In Vitro and in Clinical Infections
 
 Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
@@ -90,12 +98,12 @@ Gram-negative anaerobes
 
 Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens)
 
-## Susceptibility Test Methods
+## Susceptibility Tests
 
 When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial or community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-### Anaerobic Techniques
+### For Anaerobes
 
 Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -103,26 +111,28 @@ For anaerobic bacteria, the susceptibility to metronidazole can be determined by
 
 The MIC values should be interpreted according to the criteria provided in the following table.
 
-| Susceptibility Test Interpretive Criteria for MetronidazoleAgar dilution method is recommended for all anaerobes.Broth microdilution method is only recommended for testing Bacteroides fragilis group; for this group the MIC values for agar or broth microdilution are considered equivalent. |  |
+| Susceptibility Test Interpretive Criteria for Metronidazole against AnaerobesAgar dilution method is recommended for all anaerobes.Broth microdilution method is only recommended for testing Bacteroides fragilis group; for this group the MIC values for agar or broth microdilution are considered equivalent. |  |
 | --- | --- |
 | MIC (mcg/mL) | Interpretation |
 | ≤ 8 | Susceptible (S) |
 | 16 | Intermediate (I) |
 | ≥ 32 | Resistant (R) |
 
-A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug product can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 
-Quality Control
+A report of Intermediate (I) implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
+A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-| Acceptable Quality Control Ranges for Metronidazole |  |  |
+## Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2 Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
+
+| Acceptable Quality Control Ranges for Metronidazole against Anaerobes |  |  |
 | --- | --- | --- |
-| QC Strain | Minimum Inhibitory concentration (mcg/mL) |  |
+| Quality Control Strain | Minimum Inhibitory concentration (mcg/mL) |  |
 | Agar | Broth |  |
 | Bacteroides fragilis ATCC 25285 | 0.25-1.0 | 0.25-2.0 |
 | Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.0 | 0.5-4.0 |
+| Clostridium difficile ATCC 700057 | 0.125-0.5 | - |
+| Eggerthella lenta ATCC 43055 | - | 0.125-0.5 |
