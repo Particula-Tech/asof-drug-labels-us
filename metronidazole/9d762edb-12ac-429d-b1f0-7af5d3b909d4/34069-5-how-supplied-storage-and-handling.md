@@ -2,7 +2,8 @@
 
 Metronidazole Injection, USP is supplied in 100 mL single dose plastic containers, each containing an iso-osmotic, buffered solution of 500 mg metronidazole as follows:
 
-2B3422 NDC 0338-9541-24 500 mg/100 mL
+| 2B3422 | NDC 0338-9541-24 | 500 mg/100 mL |
+| --- | --- | --- |
 
 Store at controlled room temperature (77°F or 25°C) and protect from light during storage.
 Do not remove unit from overwrap until ready for use.

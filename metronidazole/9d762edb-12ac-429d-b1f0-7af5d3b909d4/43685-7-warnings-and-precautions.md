@@ -22,22 +22,22 @@ The appearance of abnormal neurologic signs and symptoms demands the prompt eval
 
 ## General
 
-## Hepatic Impairment
+### Hepatic Impairment
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
 For patients with severe hepatic impairment (Child-Pugh C), a reduced dose of METRONIDAZOLE INJECTION, USP is recommended.
 For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for metronidazole associated adverse events (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-## Renal Impairment
+### Renal Impairment
 
 Patients with end-stage renal disease may excrete metronidazole and metabolites slowly in the urine, resulting in significant accumulation of metronidazole metabolites.
 Monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY).
 
-## Fungal Superinfections
+### Fungal Superinfections
 
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with Metronidazole Injection, USP and requires treatment with a candicidal agent.
 
-## Use in Patients with Blood Dyscrasias
+### Use in Patients with Blood Dyscrasias
 
 Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
@@ -46,22 +46,22 @@ Monitoring for Leukopenia
 
 Total and differential leukocyte counts are recommended before, during, and after prolonged or repeated courses of metronidazole therapy.
 
-## Sodium Retention
+### Sodium Retention
 
 Administration of solutions containing sodium ions may result in sodium retention.
 Care should be taken when administering Metronidazole Injection, USP to patients receiving corticosteroids or to patients predisposed to edema.
 
-## Drug-Resistant Bacteria
+### Drug-Resistant Bacteria
 
 Prescribing Metronidazole Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
-## Interaction with Alcohol
+### Interaction with Alcohol
 
 Discontinue consumption of alcoholic beverages or products containing propylene glycol while taking Metronidazole Injection, USP and for at least three days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur (see CONTRAINDICATIONS, PRECAUTIONS-Drug Interactions).
 
-## Treatment of Bacterial Infections
+### Treatment of Bacterial Infections
 
 Patients should be counseled that antibacterial drugs including Metronidazole Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -70,36 +70,36 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 ## Drug Interactions
 
-## Disulfiram
+### Disulfiram
 
 Psychotic reactions have been reported in alcoholic patients who are using metronidazole and disulfiram concurrently.
 Metronidazole should not be given to patients who have taken disulfiram within the last two weeks (see CONTRAINDICATIONS).
 
-## Alcoholic Beverages
+### Alcoholic Beverages
 
 Abdominal cramps, nausea, vomiting, headaches and flushing may occur if alcoholic beverages or products containing propylene glycol are consumed during or following metronidazole therapy (see CONTRAINDICATIONS).
 
-## Warfarin and other Oral Anticoagulants
+### Warfarin and other Oral Anticoagulants
 
 Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
 When Metronidazole Injection, USP is prescribed for patients on this type of anticoagulant therapy, prothrombin time and INR should be carefully monitored.
 
-## Lithium
+### Lithium
 
 In patients stabilized on relatively high doses of lithium, short-term metronidazole therapy has been associated with elevation of serum lithium and, in a few cases, signs of lithium toxicity.
 Serum lithium and serum creatinine levels should be obtained several days after beginning metronidazole to detect any increase that may precede clinical symptoms of lithium intoxication.
 
-## Busulfan
+### Busulfan
 
 Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
 Metronidazole should not be administered concomitantly with busulfan unless the benefit outweighs the risk.
 If no therapeutic alternatives to metronidazole are available, and concomitant administration with busulfan is medically needed, frequent monitoring of busulfan plasma concentration should be performed and the busulfan dose should be adjusted accordingly.
 
-## Drugs that Inhibit CYP450 Enzymes
+### Drugs that Inhibit CYP450 Enzymes
 
 The simultaneous administration of drugs that decrease microsomal liver enzyme activity, such as cimetidine, may prolong the half-life and decrease plasma clearance of metronidazole.
 
-## Drugs that Induce CYP450 Enzymes
+### Drugs that Induce CYP450 Enzymes
 
 The simultaneous administration of drugs that induce microsomal liver enzyme activity, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma levels; impaired clearance of phenytoin has also been reported.
 

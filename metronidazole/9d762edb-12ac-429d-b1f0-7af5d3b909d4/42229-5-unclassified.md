@@ -35,7 +35,5 @@ Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed i
 
 Baxter and Viaflex are registered trademarks of Baxter International Inc. ATCC is a registered trademark of the American Type Culture Collection PremierPro Rx is a trademark of Premier, Inc. used under license
 
-07-19-71-839
-
-Rev.
-Mar 2014
+07-19-75-255 Rev.
+July 2015
