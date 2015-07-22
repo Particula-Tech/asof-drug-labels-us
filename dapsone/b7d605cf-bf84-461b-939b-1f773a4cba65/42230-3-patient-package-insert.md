@@ -1,91 +1,17 @@
-ACZONE® (dapsone) Gel 5%
+| PATIENT INFORMATION ACZONE® (AK-zōn) (dapsone) Gel, 5% |  |  |
+| --- | --- | --- |
+| Important: For use on skin only (topical use). Do not use ACZONE® Gel, 5% in or on your mouth, eyes, or vagina. |  |  |
+| What is ACZONE® Gel, 5%? ACZONE® Gel, 5% is a prescription medicine used on your skin (topical) to treat acne vulgaris. ACZONE® Gel has not been studied in children under 12 years of age. |  |  |
+| Before using ACZONE® Gel, 5%, tell your doctor about all of your medical conditions, including if you: Have glucose-6-phosphate dehydrogenase deficiency (G6PD) Have higher than normal levels of methemoglobin in your blood (methemoglobinemia) Are pregnant or plan to become pregnant. It is not known if ACZONE® Gel, 5 % will harm your unborn baby. Are breastfeeding or plan to breastfeed. ACZONE® Gel, 5% can pass into your breast milk and may harm your baby. You and your doctor should decide if you will use ACZONE® Gel, 5% or breastfeed. You should not do both. |  |  |
+| Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Especially tell your doctor if you are using acne medicines that contain benzoyl peroxide. Use of benzoyl peroxide with ACZONE® Gel, 5% at the same time may cause your skin or facial hair to temporarily turn yellow or orange at the site of application. |  |  |
+| How should I use ACZONE® Gel, 5%? Use ACZONE® Gel, 5% exactly as your doctor tells you. Apply ACZONE® Gel, 5% twice a day. Gently wash and pat dry the areas of your skin where you will apply ACZONE® Gel, 5%. Apply a pea-sized amount of ACZONE® Gel, 5% in a thin layer to the areas of your skin that have acne. Rub ACZONE® Gel, 5% in gently and completely. It may feel gritty and you may see particles in the gel. Make sure to put the cap back on the ACZONE® Gel tube. Close it tightly. Wash your hands after applying ACZONE® Gel, 5%. Do not swallow ACZONE® Gel. If you swallow ACZONE® Gel, call your doctor or poison control center right away. If your acne does not get better after using ACZONE® Gel, 5% for 12 weeks, talk to your doctor about continuing treatment. |  |  |
+| What are the possible side effects of ACZONE® Gel, 5%? ACZONE® Gel, 5% may cause serious side effects, including: Decrease of oxygen in your blood caused by a certain type of abnormal red blood cell (methemoglobinemia). Stop using ACZONE® Gel, 5% and get medical help right away if your lips, nail beds, or the inside of your mouth turns grey or blue. Breakdown of red blood cells (hemolytic anemia). Some people with G6PD deficiency using ACZONE® Gel, 5% have developed mild hemolytic anemia. Stop using ACZONE® Gel, 5% and tell your doctor right away if you get any of the following signs and symptoms: |  |  |
+| back pain dark brown urine | shortness of breath fever | tiredness or weakness yellow or pale skin |
+| The most common side effects of ACZONE® Gel, 5% include oiliness, peeling, dryness, and redness of the skin being treated. These are not all of the possible side effects of ACZONE® Gel, 5%. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
+| How should I store ACZONE® Gel, 5%? Store ACZONE® Gel, 5% at room temperature 68ºF to 77ºF (20ºC to 25ºC). Protect ACZONE® Gel, 5% from freezing. |  |  |
+| Keep ACZONE® Gel, 5% and all medicines out of the reach of children. |  |  |
+| General information about the safe and effective use of ACZONE® Gel, 5%? Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ACZONE® Gel, 5% for a condition for which it was not prescribed. Do not give ACZONE® Gel, 5% to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or doctor for information about ACZONE® Gel, 5% that is written for health professionals. |  |  |
+| What are the ingredients in ACZONE® Gel, 5%? Active ingredient: dapsone Inactive ingredients: carbomer homopolymer type C, diethylene glycol monoethyl ether, methylparaben, sodium hydroxide, and purified water, USP. © 2015 Allergan, Inc., Irvine, CA 92612, U.S.A. ®marks owned by Allergan, Inc. Patented. See: www.allergan.com/products/patent_notices Made in the U.S.A. For more information, call 1-800-433-8871 |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Revised: July 2015 |
 
-Read this important information before you start using ACZONE® (AK-zôn) Gel and each time you refill your prescription.
-There may be new information that you need to know.
-This summary is not meant to take the place of your doctor's advice.
-If you have any questions or want more information about ACZONE® Gel, ask your doctor or pharmacist.
-
-What is ACZONE® Gel?
-
-ACZONE® Gel is a prescription medicine used on your skin (topical) to treat acne in people 12 years and older.
-
-ACZONE® Gel has not been studied in children under 12 years of age.
-
-Who should not use ACZONE® Gel?
-
-Do not use ACZONE® Gel if you are allergic to any of the ingredients in ACZONE® Gel or if you are younger than 12 years of age.
-
-Active ingredient: dapsone.
-Inactive ingredients: Carbomer homopolymer type C, diethylene glycol monoethyl ether (DGME), methylparaben, sodium hydroxide, and purified water.
-
-What should I tell my doctor before using ACZONE® Gel?
-
-Tell your doctor about all of your medical conditions, including if you:
-
-- are pregnant or planning to become pregnant.
-  It is not known if ACZONE® Gel may harm your unborn baby.
-  You and your doctor will need to decide if ACZONE® is right for you.
-- are breastfeeding.
-  ACZONE® Gel passes into your milk and may harm your baby.
-  You should choose either to use ACZONE® Gel, or breastfeed, but not both.
-  Talk to your doctor about the best way to feed your baby while using ACZONE® Gel.
-- have glucose-6-phosphate dehydrogenase deficiency.
-
-Tell your doctor about all the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
-Especially, tell your doctor if you are using any other medicines applied to the skin, such as acne medicines with benzoyl peroxide.
-
-How do I use ACZONE® Gel?
-
-- Use ACZONE® Gel exactly as prescribed by your doctor.
-  ACZONE® Gel is usually used on your affected skin twice a day, once in the morning and once in the evening.
-- Wash the areas of your skin where you will apply ACZONE® Gel.
-  Gently pat your skin dry with a clean towel.
-- Apply a thin layer of ACZONE® Gel to the areas of your skin that have acne.
-  A pea-sized amount of ACZONE® Gel will usually be enough.
-- Rub the medicine in gently and completely.
-- Make sure to put the cap back on the ACZONE® Gel tube.
-  Close it tightly.
-- Wash your hands after applying ACZONE® Gel.
-- Keep ACZONE® Gel away from your mouth and eyes.
-  Do not swallow ACZONE® Gel.
-  If you swallow ACZONE® Gel, call your doctor or poison control center right away.
-- If your acne does not get better after using ACZONE® Gel for 12 weeks, talk to your doctor about other treatments for acne.
-
-What are the possible side effects of ACZONE® Gel?
-
-Like all medicines, ACZONE® Gel can cause some side effects.
-The most common side effects of ACZONE® Gel are dryness, redness, oiliness and peeling of the skin being treated.
-
-When the active ingredient of ACZONE® Gel (called dapsone) is taken orally as a pill, it has been related to the abnormal breakdown of red blood cells (hemolytic anemia).
-If you have glucose-6-phosphate dehydrogenase deficiency, you may have a greater risk for lowering your hemoglobin level.
-However, using ACZONE® Gel on the skin is not expected to put enough dapsone in the blood to cause clinical symptoms of hemolytic anemia.
-You are advised to be alert for signs and symptoms suggestive of this type of anemia (sudden onset of: back pain, breathlessness, tiredness/weakness with daily activities, dark-brown urine, high fever and yellow or pale skin).
-If you experience these signs and symptoms, stop use and call your doctor immediately.
-
-Use of benzoyl peroxide together with ACZONE® Gel at the same time may cause your skin to temporarily turn yellow or orange at the site of application.
-
-This is not a complete list of all the possible side effects.
-Call your doctor if you have any side effects that do not go away or bother you.
-If you have any questions, ask your doctor or pharmacist.
-
-How should I store ACZONE® Gel?
-
-Store ACZONE® Gel at room temperature 68º to 77ºF.
-Do not freeze ACZONE® Gel.
-
-Keep ACZONE® Gel out of the reach of children less than 12 years of age.
-
-Where can I find more information about ACZONE® Gel?
-
-If you have any questions or want more information about ACZONE® Gel, ask your doctor or pharmacist.
-Your doctor or pharmacist can also give you a copy of the ACZONE® Gel Package Insert written for health professionals.
-Ask them to explain anything you do not understand.
-
-You may call 1-800-433-8871 to obtain more information about ACZONE® Gel.
-
-ACZONE® (dapsone) Gel, 5%
-
-© 2013 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices Made in the U.S.A.
-
-72205US13
+72716US11

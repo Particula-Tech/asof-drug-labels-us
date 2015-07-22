@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Serious adverse reactions reported in patients treated with ACZONE® Gel, 5%, during clinical trials included but were not limited to the following:
 
@@ -59,3 +59,10 @@ The adverse event profile in this study was consistent with that observed in the
 ## 6.2 Experience with Oral Use of Dapsone
 
 Although not observed in the clinical trials with ACZONE® Gel (topical dapsone) serious adverse reactions have been reported with oral use of dapsone, including agranulocytosis, hemolytic anemia, peripheral neuropathy (motor loss and muscle weakness), and skin reactions (toxic epidermal necrolysis, erythema multiforme, morbilliform and scarlatiniform reactions, bullous and exfoliative dermatitis, erythema nodosum, and urticaria).
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of ACZONE® Gel, 5%.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Methemoglobinemia has been identified during postmarketing use of ACZONE® Gel, 5% [see Warnings and Precautions (5.1)].

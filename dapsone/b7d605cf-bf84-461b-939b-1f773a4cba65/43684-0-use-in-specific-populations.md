@@ -53,4 +53,4 @@ There were no changes from baseline in haptoglobin or lactate dehydrogenase duri
 The proportion of subjects who experienced decreases in hemoglobin ≥1 g/dL was similar between ACZONE® Gel, 5% and vehicle treatment (8 of 58 subjects had such decreases during ACZONE® treatment compared to 7 of 56 subjects during vehicle treatment among subjects with at least one on-treatment hemoglobin assessment).
 Subgroups based on gender, race, or G6PD enzyme activity did not display any differences in laboratory results from the overall study group.
 There was no evidence of clinically significant hemolytic anemia in this study.
-Some of these subjects developed laboratory changes suggestive of mild hemolysis.
+Some of these subjects developed laboratory changes suggestive of hemolysis.
