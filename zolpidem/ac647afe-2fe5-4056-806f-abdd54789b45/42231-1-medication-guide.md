@@ -2,7 +2,7 @@ MEDICATION GUIDE
 
 Zolpidem Tartrate (zole-PI-dem TAR-trate)
 
-Extended-Release Tablets USP, 6.25 mg and 12.5 mg C-IV
+Extended-Release Tablets USP, 6.25 mg and 12.5 mg CIV
 
 Rx only
 
@@ -197,4 +197,4 @@ Goa 403 722
 
 INDIA
 
-Revised: January 2015 ID #: 239583
+Revised: June 2015 ID #: 241552
