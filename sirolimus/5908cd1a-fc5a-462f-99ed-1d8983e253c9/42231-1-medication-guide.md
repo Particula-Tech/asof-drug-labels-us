@@ -2,25 +2,22 @@
 
 Sirolimus Tablets
 
-Read this Medication Guide before you start taking sirolimus and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor or other healthcare provider about your medical condition or your treatment.
-
 What is the most important information I should know about sirolimus?
 
 Sirolimus can cause serious side effects, including:
 
 1. increased risk of getting infections
+
 2. increased risk of getting certain cancers
 
-1.
+3..
 Increased risk of getting infections.
 Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
 Your doctor may put you on medicine to help prevent some of these infections.
 
 Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
 
-2.
+4.
 Increased risk of getting certain cancers.
 People who take sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
 Talk with your doctor about your risk for cancer.
@@ -42,7 +39,10 @@ Your doctor will decide:
 - if sirolimus is right for you, and
 - how to best use it with cyclosporine and corticosteroids after your transplant.
 
-It is not known if sirolimus is safe and effective in children 13 years or younger.
+It is not known if sirolimus is safe and effective in children under 13 years of age.
+
+SIROLIMUS is a prescription medicine also used to treat lymphangioleiomyomatosis (LAM).
+LAM is a rare progressive lung disease that affects predominantly women of childbearing age.
 
 Who should not take sirolimus?
 
@@ -63,7 +63,7 @@ Before taking sirolimus, tell your doctor if you:
   You and your doctor should decide if you will take sirolimus or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
 
 Sirolimus may affect the way other medicines work, and other medicines may affect how sirolimus works.
@@ -84,6 +84,7 @@ Especially tell your doctor if you take:
 
 How should I take sirolimus?
 
+- Read the Instructions for Use that comes with your SIROLIMUS for information about the right way to take SIROLIMUS tablets
 - Take sirolimus exactly as your doctor tells you to take it.
 - Your doctor will tell you how much sirolimus to take and when to take it.
   Do not change your dose of sirolimus unless your doctor tells you to.
@@ -91,7 +92,7 @@ How should I take sirolimus?
 - Do not stop taking sirolimus or your other anti-rejection medicines unless your doctor tells you to.
 - Your doctor will check the levels of sirolimus in your blood.
   Your doctor may change your dose of sirolimus depending on your blood test results.
-- Sirolimus is taken by mouth once a day.
+- Sirolimus is taken by mouth 1 time each day.
 - Do not crush, chew, or split sirolimus tablets.
   Tell your doctor if you cannot swallow sirolimus tablets.
   Your doctor can prescribe sirolimus as a solution.
@@ -153,7 +154,7 @@ Sirolimus may cause serious side effects, including:
   When sirolimus is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
 
-Common side effects with sirolimus include:
+The most common side effects of sirolimus in people with renal transplant include:
 
 - high blood pressure
 - pain (including stomach and joint pain)
@@ -165,6 +166,20 @@ Common side effects with sirolimus include:
 - nausea
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
+
+The most common side effects of SIROLIMUS in people with LAM include:
+
+- mouth sores
+- diarrhea
+- stomach pain
+- nausea
+- sore throat
+- acne
+- chest pain
+- upper respiratory tract infection
+- headache
+- dizziness
+- sore muscles.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -179,10 +194,8 @@ How should I store sirolimus?
 Sirolimus tablets:
 
 - Store sirolimus tablets at room temperature between 68°F to 77°F (20°C to 25°C).
-- Blister cards and strips:
-  - Keep the tablets in the original blister container and use the outer carton to protect blister cards and strips from light.
-- Bottles
-  - Keep the bottle of sirolimus tablets tightly closed.
+- Blister cards and strips:Keep the tablets in the original blister container and use the outer carton to protect blister cards and strips from light.
+- Bottles: Keep the bottle of sirolimus tablets tightly closed.
 
 Do not use sirolimus after the expiration date, which is located on the blister and carton.
 The expiration date refers to the last day of that month.
@@ -191,7 +204,7 @@ Safely throw away medicine that is out of date or no longer needed.
 
 Keep sirolimus and all medicines out of the reach of children.
 
-General information about sirolimus
+General information about the safe and effective use of sirolimus.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sirolimus for a condition for which it was not prescribed.
@@ -206,9 +219,9 @@ For more information about sirolimus call 1-800-438-1985.
 
 What are the ingredients in sirolimus?
 
-Active ingredients: sirolimus.
+Active ingredients: sirolimus
 
-The inactive ingredients in sirolimus tablets include: sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
+Inactive ingredients: sirolimus tablets: sucrose, lactose, polyethylene glycol 8000, calcium sulfate, microcrystalline cellulose, pharmaceutical glaze, talc, titanium dioxide, magnesium stearate, povidone, poloxamer 188, polyethylene glycol 20,000, glyceryl monooleate, carnauba wax, dl-alpha tocopherol, and other ingredients.
 The 0.5 mg and 2 mg dosage strengths also contain yellow iron (ferric) oxide and brown iron (ferric) oxide.
 
 This product's label may have been updated.
@@ -218,6 +231,6 @@ For sirolimus oral tablets:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0621-2.0
+LAB-0621-3.0
 
-April 2015
+May 2015

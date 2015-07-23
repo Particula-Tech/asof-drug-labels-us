@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Prophylaxis of Organ Rejection
+## 14.1 Prophylaxis of Organ Rejection in Renal Transplant Patients
 
 Sirolimus Oral Solution
 
@@ -113,7 +113,7 @@ Sirolimus Tablets
 
 The safety and efficacy of sirolimus oral solution and sirolimus tablets for the prevention of organ rejection following renal transplantation were demonstrated to be clinically equivalent in a randomized, multicenter, controlled trial [see Clinical Pharmacology (12.3)].
 
-## 14.2 Cyclosporine Withdrawal Study
+## 14.2 Cyclosporine Withdrawal Study in Renal Transplant Patients
 
 The safety and efficacy of sirolimus as a maintenance regimen were assessed following cyclosporine withdrawal at 3 to 4 months after renal transplantation.
 Study 3 was a randomized, multicenter, controlled trial conducted at 57 centers in Australia, Canada, and Europe.
@@ -181,7 +181,7 @@ Although the initial protocol was designed for 36 months, there was a subsequent
 The results for the cyclosporine withdrawal group at months 48 and 60 were consistent with the results at month 36.
 Fifty-two percent (112/215) of the patients in the sirolimus with cyclosporine withdrawal group remained on therapy to month 60 and showed sustained GFR.
 
-## 14.3 High-Immunologic Risk Patients
+## 14.3 High-Immunologic Risk Renal Transplant Patients
 
 Sirolimus was studied in a one-year, clinical trial in high risk patients (Study 4) who were defined as Black transplant recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reasons and/or patients with high panel-reactive antibodies (PRA; peak PRA level >80%).
 Patients received concentration-controlled sirolimus and cyclosporine (MODIFIED), and corticosteroids per local practice.
@@ -258,7 +258,7 @@ The study also failed to demonstrate non-inferiority, with respect to the compos
 The number of deaths in the sirolimus conversion group (15/393, 3.8%) was higher than in the CNI continuation group (3/214, 1.4%), although the difference was not statistically significant.
 The rates of premature study discontinuation (primarily due to adverse events or lack of efficacy), adverse events overall (infections, specifically), and biopsy-proven acute liver graft rejection at 12 months were all significantly greater in the sirolimus conversion group compared to the CNI continuation group.
 
-## 14.6 Pediatrics
+## 14.6 Pediatric Renal Transplant Patients
 
 Sirolimus was evaluated in a 36-month, open-label, randomized, controlled clinical trial at 14 North American centers in pediatric (aged 3 to <18 years) renal transplant patients considered to be at high-immunologic risk for developing chronic allograft nephropathy, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy.
 Seventy-eight (78) subjects were randomized in a 2:1 ratio to sirolimus (sirolimus target concentrations of 5 to 15 ng/mL, by chromatographic assay, n = 53) in combination with a calcineurin inhibitor and corticosteroids or to continue calcineurin-inhibitor-based immunosuppressive therapy (n = 25).
@@ -267,3 +267,20 @@ The cumulative incidence of efficacy failure up to 36 months was 45.3% in the si
 There was one death in each group.
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections [see Warnings and Precautions (5.8)].
 This study does not support the addition of sirolimus to calcineurin-inhibitor-based immunosuppressive therapy in this subpopulation of pediatric renal transplant patients.
+
+## 14.7 Lymphangioleiomyomatosis (LAM) Patients
+
+The safety and efficacy of sirolimus for treatment of lymphangioleiomyomatosis were assessed in a randomized, double-blind, multicenter, controlled trial.
+This study compared sirolimus (dose-adjusted to maintain blood trough concentrations between 5–15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period.
+Eighty-nine (89) patients were enrolled; 43 patients were randomized to receive placebo and 46 patients to receive sirolimus.
+The primary endpoint was the difference between the groups in the rate of change (slope) per month in forced expiratory volume in 1 second (FEV1).
+During the treatment period, the FEV1 slope was -12±2 mL per month in the placebo group and 1±2 mL per month in the sirolimus group (treatment difference = 13 mL (95% CI: 7, 18).
+The absolute between-group difference in the mean change in FEV1 during the 12-month treatment period was 153 mL, or approximately 11% of the mean FEV1 at enrollment.
+Similar improvements were seen for forced vital capacity (FVC).
+After discontinuation of sirolimus, the decline in lung function resumed in the sirolimus group and paralleled that in the placebo group (see Figure 1).
+
+| FIGURE 1: CHANGE IN FORCED EXPIRATORY VOLUME IN 1 SECOND (FEV1) DURING THE TREATMENT AND OBSERVATION PHASES OF THE STUDY IN LAM PATIENTS |
+| --- |
+
+The rate of change over 12 months of vascular endothelial growth factor-D (VEGF-D), a lymphangiogenic growth factor which has been shown to be elevated in patients with LAM, was significantly different in the sirolimus-treated group (-88.0 ± 16.6 pg/mL/month) compared to placebo (-2.42 ± 17.2 pg/mL/month) with a treatment difference of -86 pg/mL/month (95% CI: -133, -39).
+The absolute between-group difference in the mean change in VEGF-D during the 12-month treatment period was -1017.2, or approximately 50% of the mean VEGF-D at enrollment.
