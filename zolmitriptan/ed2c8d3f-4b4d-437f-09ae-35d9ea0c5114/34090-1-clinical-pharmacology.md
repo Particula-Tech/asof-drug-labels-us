@@ -121,6 +121,8 @@ Table 1: Percentage of Patients with Headache Response (Mild or no Headache) 2 H
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment is depicted in Figure 1.
 
+Figure 1: Estimated Probability Of Achieving Initial Headache ResponseWithin 4 Hours*
+
 *Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with zolmitriptan.
 The averages displayed are based on pooled data from 3 placebo controlled, outpatient trials providing evidence of efficacy (Trials 2, 3 and 5).
 Patients not achieving headache response or taking additional treatment prior to 4 hours were censored at 4 hours.
@@ -129,6 +131,8 @@ For patients with migraine associated photophobia, phonophobia, and nausea at ba
 
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
+
+Figure 2: The Estimated Probability Of Patients Taking A Second Dose Or Other Medication For Migraines Over The 24 Hours Following The Initial Dose Of Study Treatment*
 
 *This Kaplan-Meier plot is based on data obtained in 3 placebo controlled clinical trials (Study 2, 3 and 5).
 Patients not using additional treatments were censored at 24 hours.
@@ -146,6 +150,8 @@ At 2 hours post-dosing response rates in patients treated with ZOMIG-ZMT 2.5 mg 
 The difference was statistically significant.
 The estimated probability of achieving an initial headache response by 2 hours following treatment with ZOMIG-ZMT Tablets is depicted in Figure 3.
 
+Figure 3: Estimated Probability of Achieving Initial Headache Response by 2 Hours
+
 Figure 3 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with ZOMIG-ZMT Tablets or placebo.
 Patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
 
@@ -153,6 +159,8 @@ For patients with migraine-associated photophobia, phonophobia and nausea at bas
 
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 4.
+
+Figure 4: The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines Over the 24 Hours Following The Initial Dose of Study Treatment
 
 In this Kaplan-Meier plot, patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
