@@ -100,9 +100,9 @@ However, the duration of exposure associated with increased risk is not consiste
 
 In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 
-- After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
-  The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
-  The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
+After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
+The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
 In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).

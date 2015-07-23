@@ -35,8 +35,6 @@ This difference is due to the absence of first pass metabolism when estradiol is
 In a bioavailability study, the Climara 6.5 cm2 was studied with the Climara 12.5 cm2 as reference.
 The mean estradiol levels in serum from the two sizes are shown in Figure 1.
 
-Figure 1: Mean Serum 17ß -Estradiol Concentrations versus Time Profile following Application of a 6.5 cm2 Transdermal System and Application of a 12.5 cm2 Climara Transdermal System
-
 Dose proportionality was demonstrated for the Climara 6.5 cm2 transdermal system as compared to the Climara 12.5 cm2 transdermal system in a 2-week crossover study with a 1-week washout period between the two-transdermal systems in 24 postmenopausal women.
 
 Dose proportionality was also demonstrated for the Climara transdermal system (12.5 cm2 and 25 cm2) in a 1-week study conducted in 54 postmenopausal women.

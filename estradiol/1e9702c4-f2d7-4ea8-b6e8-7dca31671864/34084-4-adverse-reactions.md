@@ -9,10 +9,10 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-- The data described below reflect pooled data from 5 clinical trials of Climara.
-  A total of 614 women were exposed to Climara for 3 months (193 women at 0.025 mg per day, 201 women at 0.05 mg per day, 194 women at 0.1 mg per day) in randomized, double-blind trials of clinical efficacy versus placebo and versus active comparator.
-  All women were postmenopausal, had a serum estradiol level of less than 20 pg/mL, and a minimum of five moderate to severe hot flushes per week or a minimum of 15 hot flushes per week of any severity at baseline.
-  Included in this table are an additional 25 postmenopausal hysterectomized women exposed to Climara 0.025 mg per day for 6 to 24 months (N=16 at 24 months) in a randomized, double-blind, placebo-controlled study of Climara for the prevention of osteoporosis.
+The data described below reflect pooled data from 5 clinical trials of Climara.
+A total of 614 women were exposed to Climara for 3 months (193 women at 0.025 mg per day, 201 women at 0.05 mg per day, 194 women at 0.1 mg per day) in randomized, double-blind trials of clinical efficacy versus placebo and versus active comparator.
+All women were postmenopausal, had a serum estradiol level of less than 20 pg/mL, and a minimum of five moderate to severe hot flushes per week or a minimum of 15 hot flushes per week of any severity at baseline.
+Included in this table are an additional 25 postmenopausal hysterectomized women exposed to Climara 0.025 mg per day for 6 to 24 months (N=16 at 24 months) in a randomized, double-blind, placebo-controlled study of Climara for the prevention of osteoporosis.
 
 Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Percent and More Frequent in Women Receiving Climara
 

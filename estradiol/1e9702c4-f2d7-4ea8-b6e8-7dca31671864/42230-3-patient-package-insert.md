@@ -1,6 +1,6 @@
 # Patient Package Insert
 
-- Patient Information
+Patient Information
 
 Climara (Klī-mâr-uh)
 

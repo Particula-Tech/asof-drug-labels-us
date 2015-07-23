@@ -51,8 +51,6 @@ Figure 3: Mean Percent Change from Baseline in Lumbar Spine (A-P View) Bone Mine
 Percent change in BMD of the total hip (see Figure 4) was also statistically significantly different from placebo for all active treatment groups.
 This figure is based on 74 percent of the randomized subjects (95 on active drug and 34 on placebo).
 
-Figure 4: Mean Percent Change from Baseline in Total Hip by Treatment and Time Last Observation Carried Forward
-
 ## 14.3 Women's Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
