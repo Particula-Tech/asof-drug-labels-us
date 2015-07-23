@@ -51,7 +51,7 @@ In transplanted patients who are considered for conversion to Gengraf® from San
 The Gengraf® dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
 Using the same trough concentration target range for Gengraf® as for Sandimmune® (cyclosporine) results in greater cyclosporine exposure when Gengraf® is administered.
 (See Pharmacokinetics, Absorption) Patients with suspected poor absorption of Sandimmune® (cyclosporine) require different dosing strategies.
-(See Transplant Patients with Poor Absorption of Sandimmune® (cyclosporine), below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
+(See Transplant Patients with Poor Absorption of Sandimmune®(cyclosporine), below) In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
 Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Gengraf®.
 In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
