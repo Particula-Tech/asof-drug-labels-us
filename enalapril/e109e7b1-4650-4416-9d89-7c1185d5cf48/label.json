@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA075459",
+    "ANDA075496"
+  ],
+  "inn": "enalapril",
+  "labeler": "Northstar RxLLC",
+  "package_ndcs": [
+    "16714-442-01",
+    "16714-442-02",
+    "16714-443-01",
+    "16714-443-02",
+    "16714-444-01",
+    "16714-444-02",
+    "16714-445-01",
+    "16714-445-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "Enalapril Maleate"
+    }
+  ],
+  "setid": "e109e7b1-4650-4416-9d89-7c1185d5cf48",
+  "source": "dailymed"
+}
