@@ -25,9 +25,7 @@ Doses should be given so as not to disturb the child's sleep pattern.
 The recommended dose is 30 to 40 mg/kg/day divided into three to four doses (see Individualization of Dosage).
 Patients with milder disease may be adequately treated with 20 mg/kg/day.
 
-In patients with juvenile arthritis, doses above 50 mg/kg/day are not recommended because they have not been studied and doses exceeding the upper recommended dose of 40 mg/kg/day may increase the
-
-risk of causing serious adverse events.
+In patients with juvenile arthritis, doses above 50 mg/kg/day are not recommended because they have not been studied and doses exceeding the upper recommended dose of 40 mg/kg/day may increase the risk of causing serious adverse events.
 The therapeutic response may require from a few days to several weeks to be achieved.
 Once a clinical effect is obtained, the dosage should be lowered to the smallest dose of ibuprofen needed to maintain adequate control of symptoms.
 
@@ -35,7 +33,7 @@ Pediatric patients receiving doses above 30 mg/kg/day or if abnormal liver funct
 
 ## ADULTS
 
-### Primary Dysmenorrhea:
+### Primary Dysmenorrhea
 
 For the treatment of primary dysmenorrhea, beginning with the earliest onset of such pain, Ibuprofen Oral Suspension should be given in a dose of 400 mg every 4 hours, as necessary, for the relief of pain.
 

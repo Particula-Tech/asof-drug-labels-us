@@ -25,18 +25,7 @@ In vivo studies indicate that ibuprofen is well absorbed orally from the suspens
 
 Table 1
 
-Pharmacokinetic Parameters of Ibuprofen Oral Suspension
-
-[Mean values (% coefficient of variation)]
-
-| Dose | 200 mg(2.8 mg/kg) in Adults | 10 mg/kg in FebrileChildren |
-| --- | --- | --- |
-| Formulation | Suspension | Suspension |
-| Number of Patients | 24 | 18 |
-| AUCinf (μg•h/mL) | 64(27%) | 155(24%) |
-| Cmax (μg/mL) | 19(22%) | 55(23%) |
-| Tmax (h) | 0.79(69%) | 0.97(57%) |
-| CI/F (mL/h/kg) | 45.6(22%) | 68.6(22%) |
+Pharmacokinetic Parameters of Ibuprofen Oral Suspension [Mean values (% coefficient of variation)]
 
 Legend: AUCinf = Area-under-the-curve to infinity
 
@@ -44,7 +33,7 @@ Tmax = Time-to-peak plasma concentration
 
 Cmax = Peak plasma concentration
 
-CI/F = Clearance divided by fraction at drug absorbed
+Cl/F = Clearance divided by fraction at drug absorbed
 
 ## Antacids -
 

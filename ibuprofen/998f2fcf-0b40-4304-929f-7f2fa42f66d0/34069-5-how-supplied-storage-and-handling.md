@@ -11,3 +11,12 @@ Bottle of 16 FL OZ (473 mL) (NDC 45802-952-43)
 Shake well before using.
 Store at 20 - 25°C (68 - 77°F) [see USP Controlled Room Temperature].
 Do not freeze.
+
+Manufactured and Distributed By
+
+Perrigo®
+
+Allegan, MI 49010 ● www.perrigo.com
+
+Rev.
+10/12
