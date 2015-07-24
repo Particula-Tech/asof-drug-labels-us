@@ -54,7 +54,7 @@ It is recommended that CellCept Oral Suspension be constituted by the pharmacist
 
 CellCept Oral Suspension should not be mixed with any other medication.
 
-Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits.
+Mycophenolate mofetil has demonstrated teratogenic effects in humans.
 There are no adequate and well-controlled studies in pregnant women (see WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, and HANDLING AND DISPOSAL).
 Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with water.
@@ -89,7 +89,7 @@ CellCept Intravenous must be reconstituted and diluted to a concentration of 6 m
 CellCept Intravenous is incompatible with other intravenous infusion solutions.
 Following reconstitution, CellCept Intravenous must be administered by slow intravenous infusion over a period of NO LESS THAN 2 HOURS by either peripheral or central vein.
 
-CAUTION: CELLCEPT INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
+CAUTION: CELLCEPT INTRAVENOUS SOLUTION MUST NOT BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
 
 ## Preparation of Infusion Solution (6 mg/mL)
 

@@ -169,21 +169,23 @@ The safety profile of intravenous CellCept was similar to that of intravenous az
 
 ## Postmarketing Experience
 
-Congenital Disorders
+### Congenital Disorders
 
-Embryofetal Toxicity
+#### Embryofetal Toxicity
 
-Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
+Congenital malformations, including ear, facial, cardiac and nervous system malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
 
-Digestive
+### Digestive
 
 Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
-Hematologic and Lymphatic
+### Hematologic and Lymphatic
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept in combination with other immunosuppressive agents.
+Cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with CellCept in combination with other immunosuppressive agents.
 
-Infections (see WARNINGS: Serious Infections, New or Reactivated Viral Infections)
+### Infections
+
+(see WARNINGS: Serious Infections, New or Reactivated Viral Infections)
 
 - Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally.
 - There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
@@ -193,6 +195,6 @@ Infections (see WARNINGS: Serious Infections, New or Reactivated Viral Infection
   This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
 - Viral reactivation has been reported in patients infected with HBV or HCV.
 
-Respiratory
+### Respiratory
 
 Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving CellCept.

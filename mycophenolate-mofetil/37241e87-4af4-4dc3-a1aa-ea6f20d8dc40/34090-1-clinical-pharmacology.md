@@ -115,7 +115,7 @@ Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 | Healthy Volunteers (n=6) | 1 g | 0.63 (±0.14) | 24.3 (±5.73) | 29.0 (±5.78) |
 | Alcoholic Cirrhosis (n=18) | 1 g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
 
-Renal Insufficiency
+#### Renal Insufficiency
 
 In a single-dose study, MMF was administered as capsule or intravenous infusion over 40 minutes.
 Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment [glomerular filtration rate (GFR) <25 mL/min/1.73 m2] was about 75% higher relative to that observed in healthy volunteers (GFR >80 mL/min/1.73 m2).
@@ -137,7 +137,7 @@ The pharmacokinetics of mycophenolate mofetil are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
 At high concentrations of MPAG (>100 µg/mL), hemodialysis removes only small amounts of MPAG.
 
-Hepatic Insufficiency
+#### Hepatic Insufficiency
 
 In a single-dose (1 g oral) study of 18 volunteers with alcoholic cirrhosis and 6 healthy volunteers, hepatic MPA glucuronidation processes appeared to be relatively unaffected by hepatic parenchymal disease when pharmacokinetic parameters of healthy volunteers and alcoholic cirrhosis patients within this study were compared.
 However, it should be noted that for unexplained reasons, the healthy volunteers in this study had about a 50% lower AUC as compared to healthy volunteers in other studies, thus making comparisons between volunteers with alcoholic cirrhosis and healthy volunteers difficult.
@@ -146,7 +146,7 @@ Hepatic disease with other etiologies, such as primary biliary cirrhosis, may sh
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 µg∙h/mL (±15.5).
 
-Pediatrics
+#### Pediatrics
 
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving CellCept oral suspension at a dose of 600 mg/m2 bid (up to a maximum of 1 g bid) after allogeneic renal transplantation.
 The pharmacokinetic data for MPA is provided in Table 3.
@@ -176,12 +176,12 @@ There was wide variability in the data.
 As observed in adults, early posttransplant MPA AUC values were approximately 45% to 53% lower than those observed in the later posttransplant period (>3 months).
 MPA AUC values were similar in the early and late posttransplant period across the 1 year to 18 year age range.
 
-Gender
+#### Gender
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
 Mean (±SD) MPA AUC(0-12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) µg∙h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) µg/mL in the females.
 These differences are not of clinical significance.
 
-Geriatrics
+#### Geriatrics
 
 Pharmacokinetics in the elderly have not been studied.

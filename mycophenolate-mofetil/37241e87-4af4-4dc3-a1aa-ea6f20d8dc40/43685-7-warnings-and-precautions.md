@@ -5,7 +5,7 @@
 ## Embryofetal Toxicity
 
 Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant female.
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney (see PRECAUTIONS: Pregnancy).
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney and nervous system (see PRECAUTIONS: Pregnancy).
 
 ## Pregnancy Exposure Prevention and Planning
 
@@ -71,7 +71,7 @@ The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative co
 In some cases, PRCA was found to be reversible with dose reduction or cessation of CellCept therapy.
 In transplant patients, however, reduced immunosuppression may place the graft at risk.
 
-CAUTION: CELLCEPT INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
+CAUTION: CELLCEPT INTRAVENOUS SOLUTION MUST NOT BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
 # PRECAUTIONS
 
@@ -156,7 +156,7 @@ In view of the significant reduction in the AUC of MPA by cholestyramine, cautio
 
 ## Patients with HGPRT Deficiency
 
-On theoretical grounds, because CellCept is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+CellCept is an IMPDH (inosine monophosphate dehydrogenase) inhibitor; therefore it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
 
 ## Immunizations
 
@@ -222,9 +222,15 @@ Therefore, CellCept is not recommended to be given with cholestyramine or other 
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
 The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
+Cyclosporine A interferes with MPA enterohepatic recirculation.
 In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30-50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
-This information should be taken into consideration when MMF is used without cyclosporine.
+This information should be taken into consideration when MMF is used without cyclosporine; changes in MPA exposure should be expected when switching patients from cyclosporine A to one of the immunosuppressants which do not interfere with MPA's enterohepatic cycle (e.g., tacrolimus; belatacept).
+
+### Telmisartan
+
+Concommitant administration of telmisartan and CellCept resulted in an approximately 30% decrease in mycophenolic acid (MPA) concentrations.
+Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and activity.
 
 ### Ganciclovir
 
@@ -309,11 +315,11 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ## Pregnancy
 
-#### Pregnancy Category D
+### Pregnancy Category D
 
 See WARNINGS section.
 
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system.
 In animal studies, congenital malformations and pregnancy loss occurred when pregnant rats and rabbits received mycophenolic acid at dose multiples similar to and less than clinical doses.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 

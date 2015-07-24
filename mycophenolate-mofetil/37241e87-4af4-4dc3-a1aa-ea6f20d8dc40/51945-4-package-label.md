@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 250 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Carton
 
 NDC 0004-0259-43
 
@@ -17,7 +17,9 @@ For additional Medication Guides call 1-800-617-8191 or visit www.gene.com/gene/
 
 Genentech
 
-# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Carton
+10163788
+
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton
 
 NDC 0004-0260-43
 
@@ -36,6 +38,8 @@ For additional Medication Guides call 1-800-617-8191 or visit www.gene.com/gene/
 
 Genentech
 
+10163787
+
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
 NDC 0004-0298-09
@@ -48,7 +52,9 @@ CellCept® Intravenous (mycophenolate mofetil hydrochloride for injection)
 
 Genentech
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Carton
+10146407
+
+# PRINCIPAL DISPLAY PANEL - 200 mg/mL Bottle Carton
 
 NDC 0004-0261-29
 

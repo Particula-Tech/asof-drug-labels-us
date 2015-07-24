@@ -50,9 +50,9 @@ Do not freeze.
 
 Supplied in a 20 mL, sterile vial containing the equivalent of 500 mg mycophenolate mofetil as the hydrochloride salt in cartons of 4 vials:
 
-| NDC Number |
-| --- |
-| NDC 0004-0298-09 |
+NDC Number
+
+NDC 0004-0298-09
 
 ### Storage
 
