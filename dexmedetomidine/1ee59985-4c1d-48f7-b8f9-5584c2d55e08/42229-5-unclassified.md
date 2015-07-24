@@ -1,5 +1,7 @@
-Prescribing Information as of July 2014.
+Manufactured by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
 
-Manufactured and Distributed by: JHP Pharmaceuticals, LLC Rochester, MI 48307
+I09/14
 
-3003391A
+OS146J-01-90-01
+
+3003391B

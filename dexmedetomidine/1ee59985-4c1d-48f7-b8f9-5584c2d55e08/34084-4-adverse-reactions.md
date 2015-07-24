@@ -6,8 +6,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Use of dexmedetomidine hydrochloride has been associated with the following serious adverse reactions:
 
-- Hypotension, bradycardia and sinus arrest [see Warnings and Precautions (5.2)]
-- Transient hypertension [see Warnings and Precautions (5.3)]
+- •Hypotension, bradycardia and sinus arrest [see Warnings and Precautions (5.2)]
+- •Transient hypertension [see Warnings and Precautions (5.3)]
 
 Most common treatment-emergent adverse reactions, occurring in greater than 2% of patients in procedural sedation studies include hypotension, bradycardia and dry mouth.
 

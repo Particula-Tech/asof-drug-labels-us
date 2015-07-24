@@ -2,9 +2,9 @@
 
 ## 2.1 Dosing Guidelines
 
-- Dexmedetomidine hydrochloride injection dosing should be individualized and titrated to desired clinical response.
-- Dexmedetomidine hydrochloride injection is not indicated for infusions lasting longer than 24 hours.
-- Dexmedetomidine hydrochloride injection should be administered using a controlled infusion device.
+- •Dexmedetomidine hydrochloride injection dosing should be individualized and titrated to desired clinical response.
+- •Dexmedetomidine hydrochloride injection is not indicated for infusions lasting longer than 24 hours.
+- •Dexmedetomidine hydrochloride injection should be administered using a controlled infusion device.
 
 ## 2.2 Dosage Information
 
@@ -47,12 +47,12 @@ Dexmedetomidine hydrochloride has been shown to be incompatible when administere
 
 Dexmedetomidine hydrochloride has been shown to be compatible when administered with the following intravenous fluids:
 
-- 0.9% sodium chloride in water
-- 5% dextrose in water
-- 20% mannitol
-- Lactated Ringer's solution
-- 100 mg/mL magnesium sulfate solution
-- 0.3% potassium chloride solution
+- •0.9% sodium chloride in water
+- •5% dextrose in water
+- •20% mannitol
+- •Lactated Ringer's solution
+- •100 mg/mL magnesium sulfate solution
+- •0.3% potassium chloride solution
 
 ## 2.6 Compatibility with Natural Rubber
 

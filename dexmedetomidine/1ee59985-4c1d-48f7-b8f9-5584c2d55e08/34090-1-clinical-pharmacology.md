@@ -49,7 +49,7 @@ Metabolism
 
 Dexmedetomidine undergoes almost complete biotransformation with very little unchanged dexmedetomidine excreted in urine and feces.
 Biotransformation involves both direct glucuronidation as well as cytochrome P450 mediated metabolism.
-The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to inactive metabolites; aliphatic hydroxylation (mediated primarily by CYP2A6) of dexmedetomidine to generate 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy­ dexmedetomidine, and 3-carboxy-dexmedetomidine; and N-methylation of dexmedetomidine to generate 3-hydroxy N-methyl-dexmedetomidine, 3-carboxy N-methyl-dexmedetomidine, and dexmedetomidine-N-methyl O-glucuronide.
+The major metabolic pathways of dexmedetomidine are: direct N-glucuronidation to inactive metabolites; aliphatic hydroxylation (mediated primarily by CYP2A6) of dexmedetomidine to generate 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy‑dexmedetomidine, and 3-carboxy-dexmedetomidine; and N-methylation of dexmedetomidine to generate 3-hydroxy N-methyl-dexmedetomidine, 3-carboxy N-methyl-dexmedetomidine, and dexmedetomidine-N-methyl O-glucuronide.
 
 Elimination
 

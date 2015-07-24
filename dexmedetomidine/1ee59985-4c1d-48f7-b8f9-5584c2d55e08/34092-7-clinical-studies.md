@@ -48,7 +48,7 @@ Table 6: Ramsay Level of Sedation Scale
 
 Table 7: Key Efficacy Results of Procedural Sedation Studies
 
-| Study | Loading Infusion Treatment Arm | Number of Patients EnrolledBased on ITT population defined as all randomized and treated patients. | % Not Requiring Midazolam Rescue | Confidence Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | ConfidenceNormal approximation to the binomial with continuity correction. Intervals of the Mean Rescue Dose |
+| Study | Loading Infusion Treatment Arm | Number of Patients EnrolledBased on ITT population defined as all randomized and treated patients. | % Not Requiring Midazolam Rescue | ConfidenceNormal approximation to the binomial with continuity correction. Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidence Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 | Dexmedetomidine Hydrochloride 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |
 | Dexmedetomidine Hydrochloride 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |
