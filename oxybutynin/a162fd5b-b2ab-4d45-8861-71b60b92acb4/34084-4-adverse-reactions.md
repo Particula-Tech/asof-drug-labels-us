@@ -16,9 +16,9 @@ Adverse reactions reported in the pivotal trials are summarized in Tables 1 and 
 
 Table 1: Number (%) of adverse reactions occurring in ≥ 2% of OXYTROL-treated patients and greater in the OXYTROL group than in the placebo group (Study 1).
 
-| Adverse Reaction | Placebo (N = 132) | OXYTROL (3.9 mg/day) (N = 125) |  |  |
+| Adverse Reaction | Placebo (N = 132) |  | OXYTROL (3.9 mg/day) (N = 125) |  |
 | --- | --- | --- | --- | --- |
-| N | % | N | % |  |
+|  | N | % | N | % |
 | Application site pruritus | 8 | 6.1% | 21 | 16.8% |
 | Dry mouth | 11 | 8.3% | 12 | 9.6% |
 | Application site erythema | 3 | 2.3% | 7 | 5.6% |
@@ -28,9 +28,9 @@ Table 1: Number (%) of adverse reactions occurring in ≥ 2% of OXYTROL-treated 
 
 Table 2: Number (%) of adverse reactions occurring in ≥ 2% of OXYTROL-treated patients and greater in the OXYTROL group than in the placebo group (Study 2).
 
-| Adverse Reaction | Placebo (N = 117) | OXYTROL (3.9 mg/day) (N = 121) |  |  |
+| Adverse Reaction | Placebo (N = 117) |  | OXYTROL (3.9 mg/day) (N = 121) |  |
 | --- | --- | --- | --- | --- |
-| N | % | N | % |  |
+|  | N | % | N | % |
 | Application site pruritus | 5 | 4.3% | 17 | 14.0% |
 | Application site erythema | 2 | 1.7% | 10 | 8.3% |
 | Dry mouth | 2 | 1.7% | 5 | 4.1% |
@@ -46,11 +46,15 @@ Adverse reactions that resulted in discontinuation were reported by 11.2% of OXY
 Most of these discontinuations were due to application site reaction.
 In the two pivotal studies, no patient discontinued OXYTROL treatment due to dry mouth.
 
-In the open-label extension, the most common treatment-related adverse reactions were: application site pruritus, application site erythema and dry mouth.
+In the open-label extension, the most common treatment-related adverse reactions were: application site pruritus, application site erythema, and dry mouth.
 
 In a controlled clinical trial of skin sensitization, none of the 103 test subjects demonstrated skin hypersensitivity to OXYTROL.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of OXYTROL: dizziness and somnolence.
+The following adverse reactions have been identified during post approval use of OXYTROL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous System Disorders: dizziness, somnolence, confusion
+
+Psychiatric Disorders: hallucinations

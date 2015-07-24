@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+Pregnancy Category B
 
 There are no adequate and well-controlled studies using OXYTROL in pregnant women.
 OXYTROL should be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus.

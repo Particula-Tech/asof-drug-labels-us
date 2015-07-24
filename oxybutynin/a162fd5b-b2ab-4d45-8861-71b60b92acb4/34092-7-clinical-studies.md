@@ -12,7 +12,7 @@ The majority of patients were Caucasian (91%) and female (92%) with a mean age o
 Entry criteria required that patients have urge or mixed incontinence (with a predominance of urge), urge incontinence episodes of ≥ 10 per week, and ≥ 8 micturitions per day.
 The patient’s medical history and a urinary diary during the treatment-free baseline period confirmed the diagnosis of urge incontinence.
 Approximately 80% of patients had no prior pharmacological treatment for incontinence.
-Changes in weekly incontinence episodes, urinary frequency, and urinary void volume between placebo and active treatment groups are summarized in Table 4
+Changes in weekly incontinence episodes, urinary frequency, and urinary void volume between placebo and active treatment groups are summarized in Table 4.
 
 Table 4: Mean and median change from baseline to end of treatment (Week 12 or last observation carried forward) in incontinence episodes, urinary frequency, and urinary void volume in patients treated with OXYTROL 3.9 mg/day or placebo for 12 weeks (Study 1).
 
@@ -22,17 +22,19 @@ Table 4: Mean and median change from baseline to end of treatment (Week 12 or la
 | Weekly Incontinence Episodes |  |  |  |  |
 | Baseline | 37.7 (24.0) | 30 | 34.3 (18.2) | 31 |
 | Reduction | 19.2 (21.4) | 15 | 21.0 (17.1) | 19 |
-| p value vs. placebo | - |  | 0.0265Comparison significant if p < 0.05 |  |
+| p value vs. placebo | - |  | 0.0265ß |  |
 | Daily Urinary Frequency |  |  |  |  |
 | Baseline | 12.3 (3.5) | 11 | 11.8 (3.1) | 11 |
 | Reduction | 1.6 (3.0) | 1 | 2.2 (2.5) | 2 |
-| p value vs. placebo | - |  | 0.0313 |  |
+| p value vs. placebo | - |  | 0.0313ß |  |
 | Urinary Void Volume (mL) |  |  |  |  |
 | Baseline | 175.9 (69.5) | 166.5 | 171.6 (65.1) | 168 |
 | Increase | 10.5 (56.9) | 5.5 | 31.6 (65.6) | 26 |
-| p value vs. placebo | - |  | 0.0009Comparison significant if p ≤ 0.0167 |  |
+| p value vs. placebo | - |  | 0.0009à |  |
 
-Study 2 was a randomized, double-blind study of OXYTROL 3.9 mg/day versus active and placebo controls conducted in 361 patients.
+ß Comparison significant if p < 0.05 à Comparison significant if p ≤ 0.0167
+
+Study 2 was a randomized, double-blind, study of OXYTROL 3.9 mg/day versus active and placebo controls conducted in 361 patients.
 The 12-week double-blind treatment included an OXYTROL dose of 3.9 mg/day, an active comparator, and placebo.
 The majority of patients were Caucasian (95%) and female (93%) with a mean age of 64 years (range, 18 to 89 years).
 Entry criteria required that all patients have urge or mixed incontinence (with a predominance of urge) and had achieved a beneficial response from the anticholinergic treatment they were using at the time of study entry.
@@ -48,15 +50,17 @@ Table 5: Mean and median change from baseline to end of treatment (Week 12 or la
 | Daily Incontinence Episodes |  |  |  |  |
 | Baseline | 5.0 (3.2) | 4 | 4.7 (2.9) | 4 |
 | Reduction | 2.1 (3.0) | 2 | 2.9 (3.0) | 3 |
-| p value vs. placebo | - |  | 0.0137Comparison significant if p < 0.05 |  |
+| p value vs. placebo | - |  | 0.0137£ |  |
 | Daily Urinary Frequency |  |  |  |  |
 | Baseline | 12.3 (3.3) | 12 | 12.4 (2.9) | 12 |
 | Reduction | 1.4 (2.7) | 1 | 1.9 (2.7) | 2 |
-| p value vs. placebo | - |  | 0.1010 |  |
+| p value vs. placebo | - |  | 0.1010£ |  |
 | Urinary Void Volume (mL) |  |  |  |  |
 | Baseline | 175.0 (68.0) | 171.0 | 164.8 (62.3) | 160 |
 | Increase | 9.3 (63.1) | 5.5 | 32.0 (55.2) | 24 |
-| p value vs. placebo | - |  | 0.0010 |  |
+| p value vs. placebo | - |  | 0.0010£ |  |
+
+£ Comparison significant if p < 0.05
 
 Adhesion
 
