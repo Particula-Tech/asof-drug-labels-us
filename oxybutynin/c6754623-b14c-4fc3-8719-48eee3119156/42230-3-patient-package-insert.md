@@ -1,7 +1,6 @@
-# FDA-approved patient labeling
+FDA-approved patient labeling
 
-| Patient Information GELNIQUE [Gel-nēk] 3% (oxybutynin) gel 3% Topical |
-| --- |
+Patient Information GELNIQUE [Gel-nēk] 3% (oxybutynin) gel 3% Topical
 
 Important: For use on the skin only (topical).
 Do not get GELNIQUE 3% in or near your eyes, nose, or mouth.
@@ -34,10 +33,7 @@ What should I tell my doctor before using GELNIQUE 3%?
 Before you use GELNIQUE 3%, tell your doctor if you:
 
 - have problems emptying your bladder completely
-- have stomach problems including:
-  - constipation or difficulty in emptying your bowels
-  - inflamed bowels (ulcerative colitis)
-  - inflammation of the tube between your mouth and stomach (gastric reflux disease or esophagitis)
+- have stomach problems including: • constipation or difficulty in emptying your bowels • inflamed bowels (ulcerative colitis) • inflammation of the tube between your mouth and stomach (gastric reflux disease or esophagitis)
 - have generalized muscle weakness (myasthenia gravis)
 - are pregnant or are planning to become pregnant.
   It is not known if GELNIQUE 3% will harm your unborn baby.
@@ -153,8 +149,10 @@ Active ingredient: oxybutynin Inactive ingredients: diethylene glycol monoethyl 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: January 2013
+Content Updated: January 2013
+
+219404-01

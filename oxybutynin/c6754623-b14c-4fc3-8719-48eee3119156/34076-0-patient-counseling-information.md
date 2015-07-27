@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-“See FDA-approved patient labeling (Patient Information)”
+See FDA-approved patient labeling (Patient Information)
 
-## 17.1 Instructions for Use
+Instructions for Use
 
 Inform patients of the following:
 
@@ -24,17 +24,15 @@ Inform patients of the following:
 - If you get the gel in your eyes, thoroughly rinse your eyes right away with warm, clean water to flush out any gel.
   Seek medical attention if needed.
 
-## 17.2 Important Anticholinergic Adverse Reactions
+Important Anticholinergic Adverse Reactions
 
 Patients should be informed that anticholinergic (antimuscarinic) agents, such as GELNIQUE 3%, may produce clinically significant adverse reactions related to anticholinergic pharmacological activity.
 Heat prostration (due to decreased sweating) can occur when anticholinergics such as GELNIQUE 3% are used in a hot environment.
 Because anticholinergic (antimuscarinic) agents, such as GELNIQUE 3%, may produce dizziness or blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until this product's effects have been determined.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic (antimuscarinic) agents such as GELNIQUE 3%.
 
-Patient Information [see attached Patient Information leaflet]
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
-
-Revised: January 2013
+Content Updated: July 2015

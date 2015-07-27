@@ -25,11 +25,11 @@ Avoid open fire or smoking until gel has dried.
 
 ## 5.5 Central Nervous System Effects
 
-Drugs containing oxybutynin are associated with anticholinergic central nervous system (CNS) effects [see Adverse Reactions (6.1)].
-A variety of CNS anticholinergic effects have been reported, including headache, dizziness, and somnolence.
-Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment or increasing the dose.
+Drugs containing oxybutynin are associated with anticholinergic central nervous system (CNS) effects.
+A variety of CNS anticholinergic effects have been reported, including headache, dizziness, somnolence, confusion and hallucinations.
+Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment.
 Advise patients not to drive or operate heavy machinery until they know how GELNIQUE 3% affects them.
-If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
+If a patient experiences anticholinergic CNS effects, drug discontinuation should be considered.
 
 ## 5.6 Myasthenia Gravis
 

@@ -1,3 +1,0 @@
-# RECENT MAJOR CHANGES
-
-WARNINGS AND PRECAUTIONS, Central Nervous System Effects (5.5) 11/2012

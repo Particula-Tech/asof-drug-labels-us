@@ -27,8 +27,6 @@ Table 2: Pharmacokinetic Parameters (mean values) for Oxybutynin (84 mg/day) 3% 
 | Thigh | 286.9 | 5.8 | 36 |
 | Upper Arm/Shoulder | 329.1 | 8.8 | 24 |
 
-Figure 1: Mean (including SD) plasma oxybutynin concentrations versus time after application of GELNIQUE 3% to the abdomen (Site A), thigh (Site B), and upper arm/shoulder (Site C) (N = 25).
-
 Distribution
 
 Oxybutynin is widely distributed in body tissues following systemic absorption.

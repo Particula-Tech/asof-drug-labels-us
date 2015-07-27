@@ -26,13 +26,23 @@ There were no clinically meaningful changes in vital signs, laboratory values, o
 
 Table 1: Commonly Reported Adverse Reactions that were reported in greater than 3% of patients treated with GELNIQUE 3% and at an incidence greater than placebo.
 
-| Preferred TermEach patient is counted only once within each treatment, body system and preferred term. All percentages are based on number of patients in the ITT population within each treatment group as denominator. | Treatment Group |  |
+|  | Treatment Group |  |
 | --- | --- | --- |
-| Oxybutynin 84 mg/day (N = 214) | Placebo (N = 202) |  |
-| n (%) | n (%) |  |
+| Preferred Term* | Oxybutynin 84 mg/day (N = 214) | Placebo (N = 202) |
+|  | n (%) | n (%) |
 | Dry mouth | 26 (12.1) | 10 (5.0) |
 | Application site erythema | 8 (3.7) | 2 (1.0) |
 | Application site rash | 7 (3.3) | 1 (0.5) |
 
+* Each patient is counted only once within each treatment, body system and preferred term.
+All percentages are based on number of patients in the ITT population within each treatment group as denominator.
+
 During the 24-week open-label safety extension, the most commonly reported ARs were urinary tract infection and nasopharyngitis reported in 4 patients each (5.2%), followed by conjunctivitis and application site erythema (both occurred in 3 patients [3.9%]).
 One patient prematurely discontinued due to the application site erythema and pruritus (both considered to be of mild severity).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of GELNIQUE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous System Disorders: dizziness, somnolence, confusion Psychiatric Disorders: hallucinations

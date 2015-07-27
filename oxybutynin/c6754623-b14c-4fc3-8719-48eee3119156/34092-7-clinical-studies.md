@@ -13,23 +13,25 @@ Statistically significant improvements in daily urinary frequency (p = 0.0010) a
 The mean difference from placebo for GELNIQUE 3% (84 mg) was -2.3 for urinary incontinence episodes per week in a group of patients with a mean of greater than 40 incontinence episodes per week at baseline.
 Mean and median change from baseline in weekly incontinence episodes (primary endpoint), daily urinary frequency, and urinary void volume (secondary endpoints) between placebo and GELNIQUE 3% are summarized in Table 3.
 
-Table 3: Mean (SD) and median change from baseline to Week 12 in incontinence episodes, urinary frequency, and urinary void volume: Intent-To-Treat population (LOCFLast-Observation-Carried-Forward imputation for missing data).
+Table 3: Mean (SD) and median change from baseline to Week 12 in Incontinence episodes, urinary frequency, and urinary void volume: Intent-To-Treat population (LOCF¶).
 
 | Parameter | Placebo (N = 202) |  | GELNIQUE 3% (84 mg/day) (N = 214) |  |
 | --- | --- | --- | --- | --- |
-| Mean (SD) | Median | Mean (SD) | Median |  |
+|  | Mean (SD) | Median | Mean (SD) | Median |
 | Weekly Urinary Incontinence Episodes |  |  |  |  |
 | Baseline | 45.8 (31.87) | 40.9 | 43.6 (27.90) | 37.3 |
 | Reduction | -18.1 (28.81) | -14.0 | -20.4 (24.39) | -16.4 |
 | Mean difference [GELNIQUE 3% – placebo] (SE) |  |  | -2.3 (2.65) |  |
-| P-valueP-value is based on ANCOVA analysis on rank-transformed datavs. placebo |  |  | 0.0445Comparison is significant if p ≤ 0.05 |  |
+| P-value† vs. placebo |  |  | 0.0445‡ |  |
 | Daily Urinary Frequency |  |  |  |  |
 | Baseline | 11.5 (3.34) | 11.0 | 11.3 (2.87) | 10.7 |
 | Reduction | -1.9 (3.34) | - 1.7 | - 2.6 (2.66) | - 2.3 |
 | Mean difference [GELNIQUE 3% - placebo] (SE) |  |  | - 0.7 (0.30) |  |
-| P-valuevs. placebo |  |  | 0.0010Comparison is significant if p ≤ 0.0125, adjusting for multiplicity |  |
+| P-value† vs. placebo |  |  | 0.0010§ |  |
 | Urinary Void Volume (mL) |  |  |  |  |
 | Baseline | 184.5 (85.71) | 173.4 | 196.9 (88.11) | 189.2 |
 | Increase | 9.8 (64.98) | 5.7 | 32.7 (77.25) | 26.6 |
 | Mean difference [GELNIQUE 3% – placebo] (SE) |  |  | 23.0 (7.24) |  |
-| P-valuevs. placebo |  |  | < 0.0001 |  |
+| P-value† vs. placebo |  |  | < 0.0001§ |  |
+
+¶ Last-Observation-Carried-Forward imputation for missing data † P-value is based on ANCOVA analysis on rank-transformed data ‡ Comparison is significant if p ≤ 0.05 § Comparison is significant if p ≤ 0.0125, adjusting for multiplicity
