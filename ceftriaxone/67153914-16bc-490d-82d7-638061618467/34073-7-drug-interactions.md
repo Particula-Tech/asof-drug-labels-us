@@ -10,4 +10,4 @@ Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompati
 Precipitation of ceftriaxone-calcium can occur when Ceftriaxone for Injection and Dextrose Injection is mixed with calcium-containing solutions in the same IV administration line.
 Ceftriaxone for Injection and Dextrose Injection must not be administered simultaneously with calcium-containing IV solutions.
 Ceftriaxone for Injection and Dextrose Injection and calcium-containing solutions may be administered sequentially.
-[see Warnings and Precautions (5.2)].
+[see Warnings and Precautions (5.2)]

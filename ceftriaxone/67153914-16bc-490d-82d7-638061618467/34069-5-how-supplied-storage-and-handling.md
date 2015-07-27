@@ -25,4 +25,4 @@ Use only if prepared solution is clear and free from particulate matter.
 
 Do not use in series connection.
 
-Do not introduce additives into the DUPLEX container.
+Do not introduce additives into the DUPLEX® container.

@@ -10,7 +10,7 @@ The following serious adverse reactions to ceftriaxone are described below and e
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The following reactions occurred in ≤ 6% of the patients:
+The following reactions occurred in less than or equal to 6% of the patients:
 
 - Local reactions—pain, induration, tenderness, and phlebitis after IV administration.
 - Hypersensitivity—rash, pruritus, fever or chills.
@@ -32,16 +32,14 @@ The following adverse reactions have been reported during postapproval use of ce
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to readily estimate their frequency or establish a causal relationship to drug exposure.
 
 - Gastrointestinal—stomatitis and glossitis.
-- Genitourinary—oliguria.
-- Dermatologic—exanthema, allergic dermatitis, urticaria, edema.
-
-Cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
-
-Anaphylaxis (including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis and thrombocytopenia) has been reported.
+- Genitourinary—oliguria, ureteric obstruction, post-renal acute renal failure
+- Hepatic—hepatitis.
+- Dermatologic— severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis), exanthema, allergic dermatitis, urticaria, and edema.
+- Immunologic – Anaphylaxis (anaphylactic shock, transient leucopenia, neutropenia, agranulocytosis and thrombocytopenia).
 
 ## 6.3 Cephalosporin-class Adverse Reactions
 
 In addition to the adverse reactions listed above that have been observed in patients treated with ceftriaxone, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials:
 
-- Adverse Reactions: Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction, toxic nephropathy, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, and superinfection.
-- Altered Laboratory Tests: Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH.
+- Adverse Reactions: Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction, toxic nephropathy, reversible hyperactivity, hypertonia, hepatic dysfunction including hepatitis, cholestasis, aplastic anemia, hemorrhage, and superinfection.
+- Altered Laboratory Tests: Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated lactic acid dehydrogenase (LDH).

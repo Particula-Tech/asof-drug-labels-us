@@ -28,7 +28,7 @@ The molecular weight of Hydrous Dextrose USP is 198.17.
 After removing the peelable foil strip, activating the seals, and thoroughly mixing, the reconstituted drug product is intended for single intravenous use.
 When reconstituted, the approximate osmolality for the reconstituted solution for Ceftriaxone for Injection and Dextrose Injection is 290 mOsmol/kg.
 
-The DUPLEX® Container is not made with natural rubber latex, PVC, or DEHP.
+Not made with natural rubber latex, PVC or DEHP.
 
 The DUPLEX® dual chamber container is made from a specially formulated material.
 The product (diluent and drug) contact layer is a mixture of thermoplastic rubber and a polypropylene ethylene copolymer that contains no plasticizers.

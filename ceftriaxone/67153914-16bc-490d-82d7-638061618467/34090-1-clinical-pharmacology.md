@@ -102,7 +102,7 @@ Resistance to ceftriaxone is primarily through hydrolysis by beta-lactamase, alt
 
 Interaction with Other Antimicrobials In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
 
-Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the Indications and Usage (1) section:
+Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)]:
 
 - Gram-negative bacteria
   - Acinetobacter calcoaceticus
@@ -153,21 +153,22 @@ However, the efficacy of ceftriaxone in treating clinical infections due to thes
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-#### Dilution techniques:
+#### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method 3,5 (broth and/or agar).
 The MIC values should be interpreted according to criteria provided in Table 6.
 
-#### Diffusion techniques:
+#### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.4,5.This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
+The zone size should be determined using a standardized test method 4,5.
+This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
 The disk diffusion interpretive criteria are provided in Table 6.
 
-#### Anaerobic techniques:
+#### Anaerobic Techniques
 
 For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method 5,6.
 The MIC values obtained should be interpreted according to the criteria provided in Table 6.
@@ -177,24 +178,24 @@ Susceptibility Test Interpretive Criteria for Ceftriaxone.
 
 | Pathogen | Minimum Inhibitory Concentrations (mcg/ml) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| S | I | R | S | I | R |  |
-| Enterobacteriaceae | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20 - 22 | ≤ 19 |
-| HaemophilusinfluenzaeThe current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 2 | - | - | ≥ 26 | - | - |
+| (S)Susceptible | (I)Intermediate | (R)Resistant | (S)Susceptible | (I)Intermediate | (R)Resistant |  |
+| EnterobacteriaceaeSusceptibility interpretive criteria for Enterobacteriaceae are based on a dose of 1 gram IV q 24h. For isolates with intermediate susceptibility, use a dose of 2 grams IV q 24h in patients with normal renal function. | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20 - 22 | ≤ 19 |
+| Haemophilus influenzae For Haemophilus influenza, susceptibility interpretive criteria are based on a dose of 2 grams IV every 24 hours in patients with normal renal function.The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 2 | - | - | ≥ 26 | - | - |
 | Neisseria gonorrhoeae | ≤ 0.25 | - | - | ≥ 35 | - | - |
 | Neisseria meningitidis | ≤ 0.12 | - | - | ≥ 34 | - | - |
-| Streptococcus pneumoniae meningitis isolates | ≤ 0.5 | 1 | ≥ 2 | - | - | - |
-| Streptococcus pneumoniaeDisk diffusion interpretive criteria for ceftriaxone disks against Streptococcus pneumoniae are not available, however, non-meningitis isolates of pneumococci with oxacillin zone diameters of >20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone. Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤ 19 mm. The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤ 19 mm.non-meningitis isolates | ≤ 1 | 2 | ≥ 4 | - | - | - |
+| Streptococcus pneumoniae meningitis isolatesDisk diffusion interpretive criteria for ceftriaxone disks against Streptococcus pneumoniae are not available, however, non-meningitis isolates of pneumococci with oxacillin zone diameters of >20 mm are susceptible (MIC ≤ 0.06 mcg/mL) to penicillin and can be considered susceptible to ceftriaxone. Streptococcus pneumoniae isolates should not be reported as penicillin (ceftriaxone) resistant or intermediate based solely on an oxacillin zone diameter of ≤ 19 mm. The ceftriaxone MIC should be determined for those isolates with oxacillin zone diameters ≤ 19 mm. | ≤ 0.5 | 1 | ≥ 2 | - | - | - |
+| Streptococcus pneumoniaenon-meningitis isolates | ≤ 1 | 2 | ≥ 4 | - | - | - |
 | Streptococcus species beta-hemolytic group | ≤ 0.5 | - | - | ≥ 24 | - | - |
 | Viridans group streptococci | ≤ 1 | 2 | ≥ 4 | ≥ 27 | 25 - 26 | ≤ 24 |
-| Anaerobic bacteria (agar method) | ≤ 16 | 32 | ≥ 64 | - | - | - |
+| Anaerobic bacteria (agar method) | ≤ 1 | 2 | ≥ 4 | - | - | - |
 
 Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
-A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration at the site of infection.
 A report of Intermediate (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 #### Quality Control
 
@@ -205,7 +206,7 @@ For the diffusion technique using the 30 mcg disk, the criteria in Table 7 shoul
 Table 7.
 Acceptable Quality Control Ranges for Ceftriaxone
 
-| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone diameters (mm) |
+| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC® 25922 | 0.03 - 0.12 | 29 - 35 |
 | Staphylococcus aureus ATCC® 25923 | — | 22 - 28 |

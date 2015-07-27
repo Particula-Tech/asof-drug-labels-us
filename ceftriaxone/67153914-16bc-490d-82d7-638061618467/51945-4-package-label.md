@@ -35,15 +35,17 @@ Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
 
-The DUPLEX Container is Latex-free, PVC-free, and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
 B. Braun Medical Inc.
 
+Bethlehem, PA 18018-3524
+
 Rx only
 
-Made in USA
+Produced in USA with ingredients from USA and Italy.
 
-Y37-002-397 LD-206-2
+Y37-002-502 LD-206-3
 
 PEEL HERE
 
@@ -93,15 +95,17 @@ Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
 
-The DUPLEX Container is Latex-free, PVC-free, and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
 B. Braun Medical Inc.
 
+Bethlehem, PA 18018-3524
+
 Rx only
 
-Made in USA
+Produced in USA with ingredients from USA and Italy.
 
-Y37-002-398 LD-207-2
+Y37-002-503 LD-207-3
 
 PEEL HERE
 

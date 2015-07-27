@@ -1,9 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone for Injection and Dextrose Injection and other antibacterial drugs, Ceftriaxone for Injection and Dextrose Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
-In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
-
 Ceftriaxone for Injection and Dextrose Injection is indicated for the treatment of the following infections when caused by susceptible bacteria.
 
 ## 1.1 Lower Respiratory Tract Infections
@@ -45,3 +41,9 @@ Ceftriaxone sodium has also been used successfully in a limited number of cases 
 
 The preoperative administration of a single 1 g dose of Ceftriaxone for Injection and Dextrose Injection may reduce the incidence of postoperative infections in patients undergoing surgical procedures classified as contaminated or potentially contaminated (e.g., vaginal or abdominal hysterectomy or cholecystectomy for chronic calculous cholecystitis in high-risk patients, such as those over 70 years of age, with acute cholecystitis not requiring therapeutic antimicrobials, obstructive jaundice or common duct bile stones) and in surgical patients for whom infection at the operative site would present serious risk (e.g., during coronary artery bypass surgery).
 Although ceftriaxone sodium has been shown to have been as effective as cefazolin in the prevention of infection following coronary artery bypass surgery, no placebo-controlled trials have been conducted to evaluate any cephalosporin antibacterial in the prevention of infection following coronary artery bypass surgery.
+
+## 1.10 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone for Injection and Dextrose Injection and other antibacterial drugs, Ceftriaxone for Injection and Dextrose Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
