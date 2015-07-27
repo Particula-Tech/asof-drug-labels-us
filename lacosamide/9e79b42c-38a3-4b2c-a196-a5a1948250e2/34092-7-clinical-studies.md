@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Monotherapy in Patients with Partial Onset Seizures
+## 14.1 Monotherapy in Patients with Partial-Onset Seizures
 
 The efficacy of VIMPAT in monotherapy was established in a historical-control, multicenter, randomized trial that included 425 patients, age 16 to 70 years, with partial-onset seizures (Study 1).
 To be included in Study 1, patients were required to be taking stable doses of 1 or 2 marketed antiepileptic drugs.
 This treatment continued into the 8 week baseline period.
-To remain in the study, patients were required to have at least 2 partial onset seizures per 28 days during the 8 week baseline period.
+To remain in the study, patients were required to have at least 2 partial-onset seizures per 28 days during the 8 week baseline period.
 The baseline period was followed by a 3 week titration period, during which VIMPAT was added to the ongoing antiepileptic regimen.
 This was followed by a 16-week maintenance period (i.e., a 6-week withdrawal period for background antiepileptic drugs, followed by a 10-week monotherapy period).
 Patients were randomized 3 to 1 to receive VIMPAT 400 mg/day or VIMPAT 300 mg/day.
@@ -21,7 +21,7 @@ For the VIMPAT 400 mg/day group, the estimate of the percentage of patients meet
 The upper limit of the 2-sided 95% CI (36%) was below the threshold of 65% derived from the historical control data, meeting the pre-specified criteria for efficacy.
 VIMPAT 300 mg/day also met the pre-specified criteria for efficacy.
 
-## 14.2 Adjunctive Therapy in Patients with Partial Onset Seizures
+## 14.2 Adjunctive Therapy in Patients with Partial-Onset Seizures
 
 The efficacy of VIMPAT as adjunctive therapy in partial-onset seizures was established in three 12-week, randomized, double-blind, placebo-controlled, multicenter trials in adult patients (Study 2, Study 3, and Study 4).
 Enrolled patients had partial-onset seizures with or without secondary generalization, and were not adequately controlled with 1 to 3 concomitant AEDs.
@@ -32,7 +32,7 @@ In these 3 trials, patients had a mean duration of epilepsy of 24 years and a me
 Study 2 compared doses of VIMPAT 200, 400, and 600 mg/day with placebo.
 Study 3 compared doses of VIMPAT 400 and 600 mg/day with placebo.
 Study 4 compared doses of VIMPAT 200 and 400 mg/day with placebo.
-In all three trials, following an 8-week baseline phase to establish baseline seizure frequency prior to randomization, subjects were randomized and titrated to the randomized dose (a 1-step back-titration of VIMPAT 100 mg/day or placebo was allowed in the case of intolerable adverse events at the end of the titration phase).
+In all three trials, following an 8-week baseline phase to establish baseline seizure frequency prior to randomization, patients were randomized and titrated to the randomized dose (a 1-step back-titration of VIMPAT 100 mg/day or placebo was allowed in the case of intolerable adverse events at the end of the titration phase).
 During the titration phase, in all 3 adjunctive therapy trials, treatment was initiated at 100 mg/day (50 mg twice daily), and increased in weekly increments of 100 mg/day to the target dose.
 The titration phase lasted 6 weeks in Study 2 and Study 3, and 4 weeks in Study 4.
 In all three trials, the titration phase was followed by a maintenance phase that lasted 12 weeks, during which patients were to remain on a stable dose of VIMPAT.

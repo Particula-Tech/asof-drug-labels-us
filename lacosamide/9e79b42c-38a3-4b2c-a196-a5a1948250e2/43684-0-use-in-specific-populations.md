@@ -44,7 +44,7 @@ Because many drugs are excreted into human milk, a decision should be made wheth
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VIMPAT in pediatric patients <17 years have not been established.
+The safety and effectiveness of VIMPAT in pediatric patients less than 17 years of age have not been established.
 
 Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential related adverse effects on CNS development cannot be ruled out.
@@ -56,19 +56,19 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately assess the effectiveness of VIMPAT in this population.
 
 No VIMPAT dose adjustment based on age is necessary.
-In elderly patients, dose titration should be performed with caution [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+In elderly patients, dose titration should be performed with caution [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
-A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
+A maximum dose of 300 mg per day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renally impaired patients, dose titration should be performed with caution [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+In all renally impaired patients, dose titration should be performed with caution [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
-## 8.7 Patients with Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
-A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
+A maximum dose of 300 mg per day is recommended for patients with mild to moderate hepatic impairment.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
-VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.

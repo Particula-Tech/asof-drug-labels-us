@@ -21,7 +21,7 @@ Multiorgan Hypersensitivity Reactions
 
 Patients should be aware that VIMPAT may cause serious hypersensitivity reactions affecting multiple organs such as the liver and kidney.
 VIMPAT should be discontinued if a serious hypersensitivity reaction is suspected.
-Patients should also be instructed to report promptly to their physicians any symptoms of liver toxicity (e.g. fatigue, jaundice, dark urine).
+Patients should also be instructed to report promptly to their physicians any symptoms of liver toxicity (e.g., fatigue, jaundice, dark urine).
 
 Pregnancy Registry
 

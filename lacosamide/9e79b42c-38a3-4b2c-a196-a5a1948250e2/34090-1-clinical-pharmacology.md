@@ -72,35 +72,19 @@ Renal Impairment
 - Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
 - The AUC of VIMPAT was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
-  No dose adjustment is considered necessary in mildly and moderately renal impaired subjects.
-  A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
   VIMPAT is effectively removed from plasma by hemodialysis.
-  Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
-  Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
-  In all renally impaired patients, the dose titration should be performed with caution [see Dosage and Administration (2.3)].
+  Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50% [see Dosage and Administration (2.3)].
 
 Hepatic Impairment
 
 - Lacosamide undergoes metabolism.
   Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50-60% higher AUC compared to healthy subjects).
-  The dose titration should be performed with caution in patients with hepatic impairment.
-  A maximum dose of 300 mg/day is recommended for patients with mild or moderate hepatic impairment.
-
-- Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
-  A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
-  The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment.
-  VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4)].
-  Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+  The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.4)].
 
 Geriatric
 
 - In the elderly (>65 years), dose and body-weight normalized AUC and Cmax is about 20% increased compared to young subjects (18-64 years).
   This may be related to body weight and decreased renal function in elderly subjects.
-  Dose reduction is not considered to be necessary.
-
-Pediatric Patients
-
-- Pharmacokinetics of VIMPAT have not been studied in pediatric patients.
 
 Gender
 

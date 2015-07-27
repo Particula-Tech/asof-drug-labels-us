@@ -164,10 +164,9 @@ What are the ingredients in VIMPAT?
 - Oral solution inactive ingredients: purified water, sorbitol solution, glycerin, polyethylene glycol, carboxymethylcellulose sodium, acesulfame potassium, methylparaben, flavoring (including natural and artificial flavors, propylene glycol, aspartame, and maltol), anhydrous citric acid and sodium chloride.
 - Injection inactive ingredients: sodium chloride, water for injection, hydrochloric acid
 
-Manufactured for UCB, Inc. Smyrna, GA 30080
-
-Revised 08/2014
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+| Manufactured for UCB, Inc. Smyrna, GA 30080 |
+| --- |
+| Revised 08/2014 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |
 
 VIMPAT® is a registered trademark under license from Harris FRC Corporation and covered by one or more claims of U.S. Patent 38,551.

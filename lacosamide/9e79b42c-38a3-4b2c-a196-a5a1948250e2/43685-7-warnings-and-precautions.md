@@ -59,7 +59,7 @@ VIMPAT should be used with caution in patients with known conduction problems (e
 In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state maintenance dose, is recommended.
 In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route.
 One case of profound bradycardia was observed in a patient during a 15-minute infusion of 150 mg VIMPAT.
-There were two postmarketing reports of third degree AV block in patients with significant cardiac history and also receiving metoprolol and amlodipine during infusion of VIMPAT injection at doses higher than recommended [see Adverse Reactions (6.1) and Drug Interactions (7.3)].
+There were two postmarketing reports of third degree AV block in patients with significant cardiac history and also receiving metoprolol and amlodipine during infusion of VIMPAT injection at doses higher than recommended [see Adverse Reactions (6.1), Drug Interactions (7.2)].
 
 Atrial fibrillation and Atrial flutter
 
