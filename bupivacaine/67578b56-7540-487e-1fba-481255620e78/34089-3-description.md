@@ -15,7 +15,7 @@ It is a homologue of mepivacaine and is chemically related to lidocaine.
 All three of these anesthetics contain an amide linkage between the aromatic nucleus and the amino, or piperidine group.
 They differ in this respect from the procaine-type local anesthetics, which have an ester linkage.
 
-MARCAINE — Sterile isotonic solutions containing sodium chloride.
+MARCAINE—Sterile isotonic solutions containing sodium chloride.
 In multiple-dose vials, each mL also contains 1 mg methylparaben as antiseptic preservative.
 The pH of these solutions is adjusted to between 4 and 6.5 with sodium hydroxide or hydrochloric acid.
 

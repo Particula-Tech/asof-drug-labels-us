@@ -1,8 +1,8 @@
-Marcaine™
+MarcaineTM
 
 Bupivacaine Hydrochloride Injection, USP
 
-Marcaine™
+MarcaineTM
 
 With Epinephrine 1:200,000 (as bitartrate)
 

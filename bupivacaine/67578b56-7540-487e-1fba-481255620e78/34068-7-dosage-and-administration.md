@@ -80,4 +80,4 @@ Recommended Concentrations and Doses of MARCAINE
 | Sympathetic | 0.25% | 20-50 | 50-125 | — |
 | Dental3 | 0.5% w/epi | 1.8-3.6 per site | 9-18 per site | — |
 | Epidural3 Test Dose | 0.5% w/epi | 2-3 | 10-15 (10-15 micrograms epinephrine) | — |
-| 1With continuous (intermittent) techniques, repeat doses increase the degree of motor block. The first repeat dose of 0.5% may produce complete motor block. Intercostal nerve block with 0.25% may also produce complete motor block for intra-abdominal surgery.2For single-dose use, not for intermittent epidural technique. Not for obstetrical anesthesia.3See PRECAUTIONS.4Solutions with or without epinephrine. |  |  |  |  |
+| 1 With continuous (intermittent) techniques, repeat doses increase the degree of motor block. The first repeat dose of 0.5% may produce complete motor block. Intercostal nerve block with 0.25% may also produce complete motor block for intra-abdominal surgery. 2 For single-dose use, not for intermittent epidural technique. Not for obstetrical anesthesia. 3 See PRECAUTIONS. 4 Solutions with or without epinephrine. |  |  |  |  |
