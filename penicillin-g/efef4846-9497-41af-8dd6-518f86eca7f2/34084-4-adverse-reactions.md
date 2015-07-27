@@ -1,14 +1,54 @@
 # ADVERSE REACTIONS
 
-Penicillin is a substance of low toxicity but does have a significant index of sensitization.
-The following hypersensitivity reactions have been reported: skin rashes ranging from maculopapular eruptions to exfoliative dermatitis; urticaria; and reactions resembling serum sickness, including chills, fever, edema, arthralgia and prostration.
-Severe and occasionally fatal anaphylaxis has occurred (see WARNINGS).
+## Body as a whole
 
-Hemolytic anemia, leucopenia, thrombocytopenia, nephropathy, and neuropathy are rarely observed adverse reactions and are usually associated with high intravenous dosage.
-Patients given continuous intravenous therapy with penicillin G potassium in high dosage (10 million to 100 million units daily) may suffer severe or even fatal potassium poisoning, particularly if renal insufficiency is present.
-Hyperreflexia, convulsions, and coma may be indicative of this syndrome.
+The Jarisch-Herxheimer reaction is a systemic reaction, that may occur after the initiation of penicillin therapy in patients with syphilis or other spirochetal infections (i.e., Lyme disease and Relapsing fever).
+The reaction begins one or two hours after initiation of therapy and disappears within 12 to 24 hours.
+It is characterized by fever, chills, myalgias, headache, exacerbation of cutaneous lesions, tachycardia, hyperventilation, vasodilation with flushing and mild hypotension.
+The pathogenesis of the Herxheimer reaction may be due to the release from the spirochetes of heat-stable pyrogen.
 
-Cardiac arrhythmias and cardiac arrest may also occur.
-(High dosage of penicillin G sodium may result in congestive heart failure due to high sodium intake.)
+## Hypersensitivity reactions
 
-The Jarisch-Herxheimer reaction has been reported in patients treated for syphilis.
+The reported incidence of allergic reactions to all penicillins ranges from 0.7 to 10 percent in different studies (see Warnings).
+Sensitization is usually the result of previous treatment with a penicillin, but some individuals have had immediate reactions when first treated.
+In such cases, it is postulated that prior exposure to penicillin may have occurred via trace amounts present in milk or vaccines.
+
+Two types of allergic reactions to penicillin are noted clinically – immediate and delayed.
+
+Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see Warnings).
+Such immediate anaphylactic reactions are very rare and usually occur after parenteral therapy, but a few cases of anaphylaxis have been reported following oral therapy.
+Another type of immediate reaction, an accelerated reaction, may occur between 20 minutes and 48 hours after administration and may include urticaria, pruritus, fever and, occasionally, laryngeal edema.
+
+Delayed reactions to penicillin therapy usually occur within 1–2 weeks after initiation of therapy.
+Manifestations include serum sickness-like symptoms, i.e., fever, malaise, urticaria, myalgia, arthralgia, abdominal pain and various skin rashes, ranging from maculopapular eruptions to exfoliative dermatitis.
+
+Contact dermatitis has been observed in individuals who prepare penicillin solutions.
+
+## Gastrointestinal system
+
+Pseudomembranous colitis has been reported with the onset occurring during or after penicillin G treatment.
+Nausea, vomiting, stomatitis, black or hairy tongue, and other symptoms of gastrointestinal irritation may occur, especially during oral therapy.
+
+## Hematologic system
+
+Reactions include neutropenia, which resolves after penicillin therapy is discontinued; Coombs-positive hemolytic anaemia, an uncommon reaction, occurs in patients treated with intravenous penicillin G in doses greater than 10 million units/day and who have previously received large doses of the drug; and with large doses of penicillin, a bleeding diathesis can occur secondary to platelet dysfunction.
+
+## Metabolic
+
+Penicillin G Potassium, USP (1 million units contains 1.7 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
+
+## Nervous system
+
+Neurotoxic reactions including hyperreflexia, myoclonic twitches, seizures and coma have been reported following the administration of massive intravenous doses, and are more likely in patients with impaired renal function.
+
+## Urogenital system
+
+Renal tubular damage and interstitial nephritis have been associated with large intravenous doses of penicillin G. Manifestations of this reaction may include fever, rash, eosinophilia, proteinuria, eosinophiluria, hematuria and a rise in serum urea nitrogen.
+
+Discontinuation of penicillin G results in resolution in the majority of patients.
+
+## Local reactions
+
+Phlebitis and thrombophlebitis may occur, and pain at the injection site has been reported with intravenous administration.
+
+To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
