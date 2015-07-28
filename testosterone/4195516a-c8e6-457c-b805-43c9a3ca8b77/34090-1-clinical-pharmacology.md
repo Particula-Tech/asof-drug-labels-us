@@ -2,7 +2,7 @@
 
 Endogenous androgens are responsible for normal growth and development of the male sex organs and for maintenance of secondary sex characteristics.
 These effects include growth and maturation of the prostate, seminal vesicles, penis, and scrotum; development of male hair distribution, such as beard, pubic, chest, and axillary hair; laryngeal enlargement, vocal cord thickening, and alterations in body musculature and fat distribution.
-Drugs in this class also cause retention of nitrogen, sodium, potassium, and phosphorous, and decreased urinary excretion of calcium.
+Drugs in this class also cause retention of nitrogen, sodium, potassium, and phosphorus, and decreased urinary excretion of calcium.
 Androgens have been reported to increase protein anabolism and decrease protein catabolism.
 Nitrogen balance is improved only when there is sufficient intake of calories and protein.
 

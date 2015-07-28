@@ -16,15 +16,18 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of the possible risk when deciding whether to use or to continue to use testosterone cypionate.
 
-Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal or hepatic disease.
+Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal or hepatic disease.
 
 Gynecomastia may develop and occasionally persists in patients being treated for hypogonadism.
 
-This product contains benzyl alcohol.
-Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
+The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
+Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+Premature and low-birth weight infants may be more likely to develop toxicity.
 
 Androgen therapy should be used cautiously in healthy males with delayed puberty.
 The effect on bone maturation should be monitored by assessing bone age of the wrist and hand every 6 months.
+
 In children, androgen treatment may accelerate bone maturation without producing compensatory gain in linear growth.
 This adverse effect may result in compromised adult stature.
 The younger the child the greater the risk of compromising final mature height.
@@ -49,9 +52,7 @@ Testosterone cypionate is not for intravenous use.
 
 Patients should be instructed to report any of the following: nausea, vomiting, changes in skin color, ankle swelling, too frequent or persistent erections of the penis.
 
-## Laboratory tests:
-
-Hemoglobin and hematocrit levels (to detect polycythemia) should be checked periodically in patients receiving long-term androgen administration.
+Laboratory tests: Hemoglobin and hematocrit levels (to detect polycythemia) should be checked periodically in patients receiving long-term androgen administration.
 
 Serum cholesterol may increase during androgen therapy.
 
@@ -76,11 +77,11 @@ Free thyroid hormone levels remain unchanged, however, and there is no clinical 
 Testosterone has been tested by subcutaneous injection and implantation in mice and rats.
 The implant induced cervical-uterine tumors in mice, which metastasized in some cases.
 There is suggestive evidence that injection of testosterone into some strains of female mice increases their susceptibility to hepatoma.
-Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically-induced carcinomas of the liver in rats.
+Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically induced carcinomas of the liver in rats.
 
 ### Human data.
 
-There are rare reports of hepatocellular carcinoma in patients receiving longterm therapy with androgens in high doses.
+There are rare reports of hepatocellular carcinoma in patients receiving long-term therapy with androgens in high doses.
 Withdrawal of the drugs did not lead to regression of the tumors in all cases.
 
 Geriatric patients treated with androgens may be at an increased risk of developing prostatic hypertrophy and prostatic carcinoma although conclusive evidence to support this concept is lacking.
@@ -90,6 +91,8 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 ### Teratogenic Effects.
 
 Pregnancy Category X. (See CONTRAINDICATIONS.)
+Benzyl alcohol can cross the placenta.
+See WARNINGS.
 
 ## Nursing mothers:
 

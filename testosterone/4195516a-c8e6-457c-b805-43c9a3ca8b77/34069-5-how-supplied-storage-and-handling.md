@@ -4,12 +4,14 @@ Testosterone Cypionate Injection, USP, 200 mg/mL is available as follows:
 
 1 mL vials - NDC 0574-0820-01
 
-10 mL vials - NDC 0574-0820-10
+10 mL vials - NDC 0574-0827-10
 
 Vials should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-
 Protect from light.
 Use carton to protect contents from light until used.
+
+This product’s label may have been updated.
+For current full prescribing information, please visit www.perrigo.com
 
 Manufactured By
 
@@ -23,38 +25,6 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-9Z800 RC J4
+9Z800 RC J5
 
-Rev 04-15 D
-
-# HOW SUPPLIED
-
-Testosterone Cypionate Injection, USP, 200 mg/mL is available as follows:
-
-1 mL vials - NDC 0574-0820-01
-
-10 mL vials - NDC 0574-0827-10
-
-Vials should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-Protect from light.
-Use carton to protect contents from light until used.
-
-Made in Portugal
-
-Manufactured By
-
-Hikma Farmacéutica SA
-
-Terrugem Sintra, Portugal
-
-Distributed By
-
-Perrigo®
-
-Minneapolis, MN 55427
-
-8Z100 RC J5
-
-Rev 04-15 D
-
-PIN323-PER/5
+Rev 06-15 E

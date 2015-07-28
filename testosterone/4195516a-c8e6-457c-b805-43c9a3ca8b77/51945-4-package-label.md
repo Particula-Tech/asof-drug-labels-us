@@ -35,23 +35,3 @@ For Intramuscular Use Only
 Contains Benzyl Alcohol as a Preservative
 
 ONE 10 mL STERILE MULTIPLE-DOSE VIAL
-
-# PRINCIPAL DISPLAY PANEL - Carton
-
-Rx Only
-
-NDC 0574-0827-10
-
-Testosterone Cypionate Injection, USP
-
-CIII
-
-2000 mg/10 mL
-
-(200 mg/mL)
-
-For Intramuscular Use Only
-
-Contains Benzyl Alcohol as a Preservative
-
-One 10 mL Sterile Multiple-Dose Vial
