@@ -12,7 +12,7 @@ Adult and Adolescent Subjects Aged 12 Years and Older: Two multicenter, 12-week,
 Table 1 reports the incidence of adverse reactions in these 2 trials.
 
 Table 1.
-Adverse Reactions with SEREVENT DISKUS with ≥3 Incidence and More Common than Placebo in Adult and Adolescent Subjects wsith Asthma
+Adverse Reactions with SEREVENT DISKUS with ≥3 Incidence and More Common than Placebo in Adult and Adolescent Subjects with Asthma
 
 | Adverse Event | Percent of Subjects |  |  |
 | --- | --- | --- | --- |

@@ -212,6 +212,8 @@ Your SEREVENT DISKUS inhaler
 
 Figure A
 
+Figure A
+
 Read this information before you start using your SEREVENT DISKUS inhaler:
 
 - •Take SEREVENT DISKUS out of the foil pouch just before you use it for the first time.
