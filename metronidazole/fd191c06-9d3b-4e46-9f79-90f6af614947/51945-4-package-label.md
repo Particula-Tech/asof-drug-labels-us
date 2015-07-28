@@ -1,22 +1,22 @@
-# PRINCIPAL DISPLAY PANEL - 100 mL Bag
-
-NDC 0264-5535-32 D5353-5224
-
-100 mL PAB® Container
+# PRINCIPAL DISPLAY PANEL - 100 mL fill Bag
 
 Metronidazole Injection USP
 
 METRONIDAZOLE 500 mg (5 mg/mL)
 
+REF D5353-5224 NDC 0264-5535-32 HK 41283 100 mL fill
+
+PAB® Container
+
 Protect from light until use.
 For Intravenous Infusion Only.
 
-Each 100 mL contains: Metronidazole USP 500 mg Sodium Chloride USP 740 mg; Dibasic Sodium Phosphate •7H2O USP 112 mg; Citric Acid Anhydrous USP 40 mg Water for Injection USP, qs
+Each 100 mL contains: Metronidazole USP 500 mg; Sodium Chloride USP 740 mg; Dibasic Sodium Phosphate•7H2O USP 112 mg; Citric Acid Anhydrous USP 40 mg; Water for Injection USP, qs
 
 pH: 5.8 (4.5-7.0) Calc.
 Osmolarity: 297 mOsmol/liter Sodium content: 13.5 mEq/container
 
-CAUTION: DO NOT ADMIX WITH OTHER DRUGS.
+CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
 
 Sterile, nonpyrogenic.
 Single dose plastic container.
@@ -29,25 +29,40 @@ Avoid excessive heat.
 Protect from freezing.
 See Package Insert.
 
-Rx only Made in USA Y94-002-847 HK-41283
+Not made with natural rubber latex, PVC or DEHP.
 
-Latex-free; PVC-free; DEHP-free PAB is a registered trademark of B. Braun Medical Inc.
+Rx only
 
-B. Braun Medical Inc. Irvine, CA USA 92614-5895
+PAB is a registered trademark of B. Braun Medical Inc. B. Braun Medical Inc.
 
-LOT EXP
+Bethlehem, PA 18018-3524 USA 1-800-227-2862 www.bbraun.com API from Italy
 
-# PRINCIPAL DISPLAY PANEL - 100 mL Container Carton
+Y94-003-306 LD-491-2
 
-Four 100 mL PAB® Containers NDC 0264-5535-32 D5353-5224 Metronidazole Injection USP
+LOT
+
+EXP
+
+# PRINCIPAL DISPLAY PANEL - 100 mL fill Container Carton
+
+Metronidazole Injection USP
 
 METRONIDAZOLE 500 mg/Container (5 mg/mL)
+
+Four 100 mL PAB® Containers
+
+REF D5353-5224 NDC 0264-5535-32 HK 41283
 
 Protect from light until use.
 For Intravenous Infusion Only.
 
-Each 100 mL contains: Metronidazole USP 500 mg Sodium Chloride USP 740 mg; Dibasic Sodium Phosphate •7H2O USP 112 mg; Citric Acid Anhydrous USP 40 mg Water for Injection USP, qs pH: 5.8 (4.5-7.0) Calc.
-Osmolarity: 297 mOsmol/liter Sodium content: 13.5 mEq/container CAUTION: DO NOT ADMIX WITH OTHER DRUGS.
+Each 100 mL contains: Metronidazole USP 500 mg; Sodium Chloride USP 740 mg; Dibasic Sodium Phosphate•7H2O USP 112 mg; Citric Acid Anhydrous USP 40 mg; Water for Injection USP, qs
+
+pH: 5.8 (4.5-7.0) Calc.
+Osmolarity: 297 mOsmol/liter Sodium content: 13.5 mEq/container
+
+CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
+
 Sterile, nonpyrogenic.
 Single dose plastic container.
 Discard unused portion.
@@ -59,10 +74,16 @@ Avoid excessive heat.
 Protect from freezing.
 See Package Insert.
 
-Rx only The PAB Container is Latex-free, PVC-free, and DEHP-free.
+Not made with natural rubber latex, PVC or DEHP.
 
-Made in USA PAB is a registered trademark of B. Braun Medical Inc.
+Rx only
 
-B. Braun Medical Inc. Irvine, CA USA 92614-5895
+PAB is a registered trademark of B. Braun Medical Inc.
 
-X12-002-425 HK-41283
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 www.bbraun.com API from Italy
+
+X12-002-477 LD-492-2
+
+LOT
+
+EXP

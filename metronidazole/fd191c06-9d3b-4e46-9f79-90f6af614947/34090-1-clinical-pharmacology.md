@@ -26,41 +26,83 @@ In one study newborn infants appeared to demonstrate diminished capacity to elim
 The elimination half-life, measured during the first three days of life, was inversely related to gestational age.
 In infants whose gestational ages were between 28 and 40 weeks, the corresponding elimination half-lives ranged from 109 to 22.5 hours.
 
-## MICROBIOLOGY
+## Microbiology
 
-Metronidazole is active in vitro against most obligate anaerobes, but does not appear to possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+### Mechanism of Action
+
+Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes.
+Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical.
+Because of this alteration of the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug’s intracellular transport.
+The reduced form of metronidazole and free radicals may interact with DNA leading to inhibition of DNA synthesis, DNA degradation, and death of bacteria.
+The precise mechanism of action of metronidazole is unclear.
+
+### Drug Resistance
+
+A potential for development of resistance exists against metronidazole.
+
+Resistance may be due to multiple mechanisms that include decreased uptake of the drug, altered reduction efficiency, overexpression of the efflux pumps, inactivation of the drug, and/or increased DNA damage repair.
+
+Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+
+### Activity In Vitro and in Clinical Infections
+
 Against susceptible organisms, metronidazole is generally bactericidal at concentrations equal to or slightly higher than the minimal inhibitory concentrations.
-Metronidazole has been shown to have in vitro and clinical activity against the following organisms:
+Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and clinical infections as described in the INDICATIONS AND USAGE section.
 
-Anaerobic gram-negative bacilli, including:
+### Gram negative anaerobes:
 
-Bacteroides species, including the Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus)
+- Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus)
+- Fusobacterium species
 
-Fusobacterium species
+### Gram positive anaerobes:
 
-Anaerobic gram-positive bacilli, including:
+- Clostridium species
+- Eubacterium species
+- Peptococcus species
+- Peptostreptococcus
 
-Clostridium species and susceptible strains of Eubacterium
+The following in vitro data are available, but their clinical significance is unknown: Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials:
 
-Anaerobic gram-positive cocci, including:
+### Gram negative anaerobes
 
-Peptococcus species
+- Bacteroides fragilis group (B. caccae, B. uniformis)
+- Prevotella species (P. bivia, P. buccae, P. disiens)
 
-Peptostreptococcus species
+## Susceptibility Tests:
 
-## SUSCEPTIBILITY TESTS
+When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Bacteriologic studies should be performed to determine the causative organisms and their susceptibility to metronidazole; however, the rapid, routine susceptibility testing of individual isolates of anaerobic bacteria is not always practical, and therapy may be started while awaiting these results.
+### For Anaerobes
 
-Quantitative methods give the most accurate estimates of susceptibility to antibacterial drugs.
-A standardized agar dilution method and a broth microdilution method are recommended.1
+Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+For anaerobic bacteria, the susceptibility to metronidazole should be determined using a standardized method (broth and/or agar).1, 2
 
-Control strains are recommended for standardized susceptibility testing.
-Each time the test is performed, one or more of the following strains should be included: Clostridium perfringens ATCC® 13124, Bacteroides fragilis ATCC® 25285, and Bacteroides thetaiotaomicron ATCC® 29741.
-The mode metronidazole MICs for those three strains are reported to be 0.25, 0.25 and 0.5 mcg/mL, respectively.
+The MIC values obtained should be interpreted according to the criteria provided in Table 1:
 
-A clinical laboratory test is considered under acceptable control if the results of the control strains are within one doubling dilution of the mode MICs reported for metronidazole.
+| Table 1: Susceptibility Test Interpretive Criteria for Metronidazole against AnaerobesAgar dilution method is recommended for all anaerobesBroth dilution method is recommended for testing of Bacteroides fragilis group only; for this group, MIC values by agar and broth dilution methods are consisered equivalent |  |
+| --- | --- |
+| MIC (mcg/mL) | Interpretation |
+| ≤ 8 | Susceptible (S) |
+| 16 | Intermediate (I) |
+| ≥32 | Resistant (R) |
 
-A bacterial isolate may be considered susceptible if the MIC value for metronidazole is not more than 16 mcg/mL.
-An organism is considered "resistant" if the MIC is greater than 16 mcg/mL.
-A report of "resistant" from the laboratory indicates that the infecting organism is not likely to respond to therapy.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+
+A report of Intermediate (I) implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+
+A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
+
+### Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1, 2 Standard metronidazole powder should provide the MIC values shown in Table 2.
+
+| Table 2: Acceptable Quality Control Ranges for Metronidazole against Anaerobes |  |  |
+| --- | --- | --- |
+| Quality control strain | Minimum inhibitory concentration (mcg/mL) |  |
+| Agar | Broth |  |
+| Bacteroides fragilis ATCC® 25285 | 0.25 – 1.0 | 0.25 – 2.0 |
+| Bacteroides thetaiotaomicron ATCC® 29741 | 0.5 – 2.0 | 0.5 – 4.0 |
+| Clostridium difficile ATCC® 700057 | 0.125 - 0.5 | - |
+| Eggerthella lenta ATCC® 43055 | - | 0.125 - 0.5 |

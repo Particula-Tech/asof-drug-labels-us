@@ -12,7 +12,7 @@ The recommended dosage schedule for Adults is:
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
-Close monitoring of plasma metronidazole levels and toxicity is recommended.2
+Close monitoring of plasma metronidazole levels and toxicity is recommended.3
 
 In patients receiving metronidazole injection in whom gastric secretions are continuously removed by nasogastric aspiration, sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels.
 
