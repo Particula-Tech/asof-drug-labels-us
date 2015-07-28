@@ -1,4 +1,4 @@
-# Patient Information SOVALDI® (soh-VAHL-dee) (sofosbuvir) tablets
+# Patient Information SOVALDI ® (soh-VAHL-dee) (sofosbuvir) tablets
 
 Read this Patient Information before you start taking SOVALDI and each time you get a refill.
 There may be new information.
@@ -56,16 +56,16 @@ Other medicines may affect how SOVALDI works.
 
 Especially tell your healthcare provider if you take any of the following medicines:
 
-- amiodarone (Cordarone®, Nexterone®, Pacerone®)
-- carbamazepine (Carbatrol®, Epitol®, Equetro®, Tegretol®)
-- oxcarbazepine (Trileptal®, Oxtellar XR™)
-- phenytoin (Dilantin®, Phenytek®)
-- phenobarbital (Luminal®)
-- rifabutin (Mycobutin®)
-- rifampin (Rifadin®, Rifamate®, Rifater®, Rimactane®)
-- rifapentine (Priftin®)
+- amiodarone (Cordarone ®, Nexterone ®, Pacerone ®)
+- carbamazepine (Carbatrol ®, Epitol ®, Equetro ®, Tegretol ®)
+- oxcarbazepine (Trileptal ®, Oxtellar XR™)
+- phenytoin (Dilantin ®, Phenytek ®)
+- phenobarbital (Luminal ®)
+- rifabutin (Mycobutin ®)
+- rifampin (Rifadin ®, Rifamate ®, Rifater ®, Rimactane ®)
+- rifapentine (Priftin ®)
 - St. John's wort (Hypericum perforatum) or a product that contains St. John's wort
-- tipranavir (Aptivus®)
+- tipranavir (Aptivus ®)
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -84,7 +84,7 @@ How should I take SOVALDI?
 
 What are the possible side effects of SOVALDI?
 
-See "What is the most important information I should know about SOVALDI?"
+See " What is the most important information I should know about SOVALDI?"
 
 The most common side effects of SOVALDI when used in combination with ribavirin include:
 

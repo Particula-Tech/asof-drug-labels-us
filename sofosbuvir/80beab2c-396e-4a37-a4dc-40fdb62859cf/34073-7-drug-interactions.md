@@ -16,11 +16,11 @@ The intracellular metabolic activation pathway of sofosbuvir is mediated by gene
 
 Drug interaction information for SOVALDI with potential concomitant drugs is summarized in Table 5.
 The drug interactions described are based on potential drug interactions that may occur with SOVALDI.
-The table is not all-inclusive [See Warnings and Precautions (5.1,5.3) and Clinical Pharmacology (12.3)].
+The table is not all-inclusive [See Warnings and Precautions (5.1, 5.3) and Clinical Pharmacology (12.3)].
 
-Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
+Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction This table is not all inclusive.
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease. | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on Concentration ↓ = decrease. | Clinical Comment |
 | --- | --- | --- |
 | Antiarrhythmics: amiodarone | Effect on amiodarone and sofosbuvir concentrations unknown | Coadministration of amiodarone with SOVALDI in combination with another DAA may result in serious symptomatic bradycardia. The mechanism of this effect is unknown. Coadministration of amiodarone with SOVALDI in combination with another DAA is not recommended; if coadministration is required, cardiac monitoring is recommended [See Warnings and Precautions (5.1), Adverse Reactions (6.2)]. |
 | Anticonvulsants: carbamazepine phenytoin phenobarbital oxcarbazepine | ↓ sofosbuvir ↓ GS-331007 | Coadministration of SOVALDI with carbamazepine, phenytoin, phenobarbital or oxcarbazepine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of SOVALDI. Coadministration is not recommended. |

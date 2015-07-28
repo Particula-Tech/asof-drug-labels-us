@@ -45,7 +45,7 @@ No dose adjustment of SOVALDI is warranted in geriatric patients [See Clinical P
 ## 8.6 Renal Impairment
 
 No dose adjustment of SOVALDI is required for patients with mild or moderate renal impairment.
-The safety and efficacy of SOVALDI have not been established in patients with severe renal impairment (eGFR <30 mL/min/1.73m2) or end stage renal disease (ESRD) requiring hemodialysis.
+The safety and efficacy of SOVALDI have not been established in patients with severe renal impairment (eGFR <30 mL/min/1.73m 2) or end stage renal disease (ESRD) requiring hemodialysis.
 No dose recommendation can be given for patients with severe renal impairment or ESRD [See Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Refer also to ribavirin and peginterferon alfa prescribing information for patients with CrCl <50 mL/min.
 

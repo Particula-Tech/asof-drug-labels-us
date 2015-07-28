@@ -12,8 +12,8 @@ The mechanism for this effect is unknown.
 Coadministration of amiodarone with SOVALDI in combination with another direct acting antiviral (DAA) is not recommended.
 For patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered SOVALDI and another DAA:
 
-- Counsel patients about the risk of serious symptomatic bradycardia
-- Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
+- Counsel patients about the risk of serious symptomatic bradycardiaCounsel patients about the risk of serious symptomatic bradycardia
+- Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
 
 Patients who are taking SOVALDI in combination with another DAA who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.
 
@@ -23,6 +23,9 @@ Patients who develop signs or symptoms of bradycardia should seek medical evalua
 
 ## 5.2 Pregnancy: Use with Ribavirin or Peginterferon Alfa/Ribavirin
 
+Ribavirin may cause birth defects and/or death of the exposed fetus and animal studies have shown that interferons have abortifacient effects.
+Extreme care must be taken to avoid pregnancy in female patients and in female partners of male patients.
+Ribavirin therapy should not be started unless a report of a negative pregnancy test has been obtained immediately prior to initiation of therapy.
 Ribavirin may cause birth defects and/or death of the exposed fetus and animal studies have shown that interferons have abortifacient effects [See Contraindications (4)].
 Extreme care must be taken to avoid pregnancy in female patients and in female partners of male patients.
 Ribavirin therapy should not be started unless a report of a negative pregnancy test has been obtained immediately prior to initiation of therapy.
