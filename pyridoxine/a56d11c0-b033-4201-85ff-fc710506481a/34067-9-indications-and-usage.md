@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Pyridoxine Hydrochloride Injection is effective for the treatment of pyridoxine deficiency as seen in the following:
 

@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Pyridoxine Hydrochloride Injection may be administered intramuscularly or intravenously.
 In cases of dietary deficiency, the dosage is 10 to 20 mg daily for 3 weeks.

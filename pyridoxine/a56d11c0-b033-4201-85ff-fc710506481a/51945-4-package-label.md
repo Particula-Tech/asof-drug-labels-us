@@ -6,7 +6,7 @@ NDC 63323-180-01
 
 PYRIDOXINE HCl INJECTION, USP
 
-100 mg/mL
+100 mg per mL
 
 For IM or IV Use
 
@@ -24,10 +24,8 @@ NDC 63323-180-01
 
 PYRIDOXINE HCl INJECTION, USP
 
-100 mg/mL
+100 mg per mL
 
-For IM or IV Use
+For Intramuscular or Intravenous Use
 
-1 mL Multiple Dose Vial
-
-Rx only
+1 mL Rx only Multiple Dose Vial

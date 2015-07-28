@@ -1,7 +1,7 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Pyridoxine Hydrochloride Injection, USP is a sterile solution of pyridoxine hydrochloride in Water for Injection.
-Each mL contains 100 mg pyridoxine hydrochloride and 0.5% chlorobutanol anhydrous (chloral deriv.). pH adjusted with sodium hydroxide if necessary (2.0 - 3.8).
+Each mL contains 100 mg pyridoxine hydrochloride and 0.5% chlorobutanol anhydrous (chloral deriv.). pH adjusted with sodium hydroxide if necessary (2.0 to 3.8).
 
 Pyridoxine hydrochloride is a colorless or white crystal or a white crystalline powder.
 One gram dissolves in 5 mL of water.

@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Natural substances that have vitamin B6 activity are pyridoxine in plants and pyridoxal or pyridoxamine in animals.
 All 3 are converted to pyridoxal phosphate by the enzyme pyridoxal kinase.

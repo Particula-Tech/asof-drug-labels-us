@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 WARNING: This product contains aluminum that may be toxic.
 Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.
@@ -7,7 +7,7 @@ Premature neonates are particularly at risk because their kidneys are immature, 
 Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity.
 Tissue loading may occur at even lower rates of administration.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
