@@ -136,7 +136,7 @@ Plavix can cause serious side effects including:
   - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-Tell your doctor if you develop an allergic reaction while taking Plavix.
+Tell your doctor if you develop an allergic reaction including skin reactions while taking Plavix.
 
 These are not all the possible side effects of Plavix.
 For more information, ask your doctor or pharmacist.

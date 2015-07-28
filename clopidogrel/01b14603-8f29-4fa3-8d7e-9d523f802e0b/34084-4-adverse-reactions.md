@@ -89,5 +89,5 @@ Because these reactions are reported voluntarily from a population of an unknown
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension
