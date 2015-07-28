@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019012"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "Mechanical Servants, LLC",
+  "package_ndcs": [
+    "29485-1465-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ibuprofen",
+      "name": "Motrin IB"
+    }
+  ],
+  "setid": "5715910e-33be-49bd-8a1f-eeb46320e28d",
+  "source": "dailymed"
+}
