@@ -13,3 +13,5 @@ Escitalopram oxalate is available as tablets.
 Escitalopram tablets USP are film-coated, round tablets containing escitalopram oxalate in strengths equivalent to 5 mg, 10 mg, and 20 mg escitalopram base.
 The 10 and 20 mg tablets are scored.
 Inactive ingredients for 5 mg, 10 mg and 20 mg strengths include croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, silicified microcrystalline cellulose, talc and titanium dioxide.
+
+Escitalopram tablets USP meets USP Dissolution Test 2.
