@@ -6,8 +6,8 @@ Doxorubicin hydrochloride liposome injection is indicated for the treatment of p
 
 ## 1.2 AIDS-Related Kaposi's Sarcoma
 
-Doxorubicin hydrochloride liposome injection is indicated for the treatment of AIDS-related Kaposi’s sarcoma in patients after failure of prior systemic chemotherapy or intolerance to such therapy.
+Doxorubicin hydrochloride liposome injection is indicated for the treatment of AIDS-related Kaposi's sarcoma in patients after failure of prior systemic chemotherapy or intolerance to such therapy.
 
 ## 1.3 Multiple Myeloma
 
-Doxorubicin hydrochloride liposome injection in combination with bortezomib is indicated for the treatment of patients with multiple myeloma who have not previously received bortezomib and have received at least one prior therapy.
+Doxorubicin hydrochloride liposome injection, in combination with bortezomib, is indicated for the treatment of patients with multiple myeloma who have not previously received bortezomib and have received at least one prior therapy.

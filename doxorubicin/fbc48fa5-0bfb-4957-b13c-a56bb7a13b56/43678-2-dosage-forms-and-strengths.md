@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- Single use vial: 20 mg/10 mL
-- Single use vial: 50 mg/25 mL
+Doxorubicin hydrochloride liposomal injection: single use vials contain 20 mg/10 mL and 50 mg/25 mL doxorubicin hydrochloride as a translucent, red liposomal dispersion.
