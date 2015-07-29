@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090041"
+  ],
+  "inn": "memantine",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "53746-169-10",
+    "53746-169-30",
+    "53746-169-60",
+    "53746-173-10",
+    "53746-173-30",
+    "53746-173-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "memantine",
+      "name": "Memantine hydrochloride"
+    }
+  ],
+  "setid": "054069b5-7aac-4106-821f-ebf7fd531b4f",
+  "source": "dailymed"
+}
