@@ -3,20 +3,23 @@
 The efficacy of duloxetine has been established in the following adequate and well-controlled trials:
 
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults [see Clinical Studies (14.1)].
-- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, and 1 maintenance trial in adults [see Clinical Studies (14.2)].
+- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults [see Clinical Studies (14.2)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults [see Clinical Studies (14.3)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) and one 13-week trial in adult patients with chronic pain due to osteoarthritis [see Clinical Studies (14.5)].
+
+Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.1 Major Depressive Disorder
 
 The efficacy of duloxetine as a treatment for depression was established in 4 randomized, double-blind, placebo-controlled, fixed-dose studies in adult outpatients (18 to 83 years) meeting DSM-IV criteria for major depression.
 In 2 studies, patients were randomized to duloxetine 60 mg once daily (N=123 and N=128, respectively) or placebo (N=122 and N=139, respectively) for 9 weeks; in the third study, patients were randomized to duloxetine 20 or 40 mg twice daily (N=86 and N=91, respectively) or placebo (N=89) for 8 weeks; in the fourth study, patients were randomized to duloxetine 40 or 60 mg twice daily (N=95 and N=93, respectively) or placebo (N=93) for 8 weeks.
 There is no evidence that doses greater than 60 mg/day confer additional benefits.
-In all 4 studies, duloxetine demonstrated superiority over placebo as measured by improvement in the 17-item Hamilton Depression Rating Scale (HAMD-17) total score (Studies 1 to 4 in Table 6).
+In all 4 studies, duloxetine demonstrated superiority over placebo as measured by improvement in the 17-item Hamilton Depression Rating Scale (HAMD-17) total score (Studies 1 to 4 in Table 7).
 
 In all of these clinical studies, analyses of the relationship between treatment outcome and age, gender, and race did not suggest any differential responsiveness on the basis of these patient characteristics.
 
-Table 6: Summary of the Primary Efficacy Results for Studies in Major Depressive Disorder
+Table 7: Summary of the Primary Efficacy Results for Studies in Major Depressive Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure: HAMD-17 |  |  |
 | --- | --- | --- | --- | --- |
@@ -46,7 +49,7 @@ The mean dose for completers at endpoint in the flexible-dose studies was 104.75
 The fixed-dose study evaluated duloxetine doses of 60 mg once daily (N=168) and 120 mg once daily (N=170) compared to placebo (N=175) over a 9-week treatment period.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
 
-In all 3 studies, duloxetine demonstrated superiority over placebo as measured by greater improvement in the Hamilton Anxiety Scale (HAM-A) total score (Studies 1 to 3 in Table 7) and by the Sheehan Disability Scale (SDS) global functional impairment score.
+In all 3 studies, duloxetine demonstrated superiority over placebo as measured by greater improvement in the Hamilton Anxiety Scale (HAM-A) total score (Studies 1 to 3 in Table 8) and by the Sheehan Disability Scale (SDS) global functional impairment score.
 The SDS is a composite measurement of the extent emotional symptoms disrupt patient functioning in 3 life domains: work/school, social life/leisure activities, and family life/home responsibilities.
 
 In another study, 887 patients meeting DSM-IV-TR criteria for GAD received duloxetine 60 mg to 120 mg once daily during an initial 26-week open-label treatment phase.
@@ -57,7 +60,7 @@ Patients taking duloxetine experienced a statistically significantly longer time
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 
-Table 7: Summary of the Primary Efficacy Results for Studies in General Anxiety Disorder
+Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure |  |  |
 | --- | --- | --- | --- | --- |
@@ -71,6 +74,9 @@ Table 7: Summary of the Primary Efficacy Results for Studies in General Anxiety 
 | Placebo | 25 (5.82) | -9.2 (0.67) | -- |  |
 
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included.
+
+Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.3 Diabetic Peripheral Neuropathic Pain
 

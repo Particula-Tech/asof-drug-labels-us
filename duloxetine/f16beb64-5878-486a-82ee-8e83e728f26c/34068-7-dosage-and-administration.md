@@ -25,6 +25,8 @@ While a 120 mg once daily dose was shown to be effective, there is no evidence t
 Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
 The safety of doses above 120 mg once daily has not been adequately evaluated.
 Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
+Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
 

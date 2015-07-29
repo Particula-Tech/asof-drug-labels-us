@@ -53,6 +53,16 @@ Advise patients to notify their physician if they:
 - intend to become pregnant during therapy
 - are nursing [see Use in Specific Populations (8.1, 8.3)].
 
+- Pediatric Use ―
+
+Pediatric use information for patients ages 7 to 17 years with GAD is approved for Eli Lilly and Company, Inc.'s Cymbalta® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The safety and effectiveness of CYMBALTA have not been established in pediatric patients less than 18 years of age with other indications.
+
+[See Use in Specific Populations (8.4)].
+
+The safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with other indications.
+
 - Interference with Psychomotor Performance — Any psychoactive drug may impair judgment, thinking, or motor skills.
   Although in controlled studies duloxetine delayed-release capsules have not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine delayed-release capsules therapy does not affect their ability to engage in such activities.

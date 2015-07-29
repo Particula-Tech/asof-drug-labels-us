@@ -20,15 +20,15 @@ The following serious adverse reactions are described below and elsewhere in the
 ## 6.1 Clinical Trial Data Sources
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 Reactions reported during the studies were not necessarily caused by the therapy, and the frequencies do not reflect investigator impression (assessment) of causality.
-
-Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3,779), GAD (N=1,018), OA (N=503), CLBP (N=600), and DPNP (N=906).
-The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, and 42.9% female; and 81.8%, 72.6%, 85.3%, and 74% Caucasian for MDD, GAD, OA and CLBP, and DPNP, respectively.
+Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3,779), GAD (N=1,018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1,294).
+The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and another indication, respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
-The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
+Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
+Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
@@ -83,7 +83,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Great
 
 Pooled MDD and GAD Trials — Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine and with an incidence greater than placebo.
 
-Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled Trials For GAD, there were no adverse events that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years.The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -122,9 +122,9 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
 
-DPNP, OA, and CLBP — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
+DPNP, another indication, OA, and CLBP — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP, another indication, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, OA, and CLBP Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, another indication, OA, and CLBP Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding, however, the percentages displayed in the table are rounded to the nearest integer
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -252,9 +252,58 @@ Skin and Subcutaneous Tissue Disorders — Frequent: pruritus; Infrequent: cold 
 
 Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
+## 6.11 Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
+
+The adverse drug reaction profile observed in pediatric clinical trials (children and adolescents) was consistent with the adverse drug reaction profile observed in adult clinical trials.
+The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see Adverse Reactions (6.5)].
+The most common (≥5% and twice placebo) adverse reactions observed in pediatric clinical trials include: nausea, diarrhea, decreased weight, and dizziness.
+
+Table 6 provides the incidence of treatment-emergent adverse reactions in pediatric placebo- controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
+
+Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10- week Pediatric Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+
+| System Organ Class / Adverse Reaction | Percentage of Pediatric Patients Reporting Reaction |  |
+| --- | --- | --- |
+| Duloxetine (N=476) | Placebo (N=362) |  |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 18 | 8 |
+| Abdominal PainAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. | 13 | 10 |
+| Vomiting | 9 | 4 |
+| Diarrhea | 6 | 3 |
+| Dry Mouth | 2 | 1 |
+| General Disorders and Administration Site Conditions |  |  |
+| FatigueAlso includes asthenia. | 7 | 5 |
+| Investigations |  |  |
+| Decreased WeightFrequency based on weight measurement meeting potentially clinically significant threshold of ≥3.5% weight loss (N=467 duloxetine; N=354 Placebo). | 14 | 6 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased Appetite | 10 | 5 |
+| Nervous System Disorders |  |  |
+| Headache | 18 | 13 |
+| SomnolenceAlso includes hypersomnia and sedation. | 11 | 6 |
+| Dizziness | 8 | 4 |
+| Psychiatric Disorders |  |  |
+| InsomniaAlso includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. | 7 | 4 |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Oropharyngeal Pain | 4 | 2 |
+| Cough | 3 | 1 |
+
+Other adverse reactions that occurred at an incidence of less than 2% but were reported by more duloxetine treated patients than placebo treated patients and are associated duloxetine treatment: abnormal dreams (including nightmare), anxiety, flushing (including hot flush), hyperhidrosis, palpitations, pulse increased, and tremor.
+
+Discontinuation-emergent symptoms have been reported when stopping duloxetine.
+The most commonly reported symptoms following discontinuation of duloxetine in pediatric clinical trials have included headache, dizziness, insomnia, and abdominal pain [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
+
+Growth (Height and Weight) – Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
+While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
+Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
+
+Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
+Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 6.12 Postmarketing Spontaneous Reports
 
 The following adverse reactions have been identified during post approval use of duloxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, colitis (microscopic or unspecified), cutaneous vasculitis (sometimes associated with systemic involvement), extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

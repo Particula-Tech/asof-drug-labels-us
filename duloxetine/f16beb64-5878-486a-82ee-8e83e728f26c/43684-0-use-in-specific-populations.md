@@ -48,14 +48,19 @@ The presence of duloxetine metabolites in breast milk was not examined.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population has not been established [see Boxed Warning and Warnings and Precautions (5.1)].
+The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
+
+Safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with MDD.
 
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
-Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine.
+Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine [see Adverse Reactions (6.11)].
+
+Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
+Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 Animal Data — Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
 These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, for a child); the no-effect-level was 20 mg/kg/day (≈1 times the MRHD, for a child).
-Information describing two additional clinical studies performed by Eli Lilly and Company that failed to demonstrate pediatric efficacy is approved for Eli Lilly and Company's Duloxetine Delayed-Release Capsules.
-However, due to Eli Lilly and Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
@@ -63,7 +68,7 @@ Of the 2,418 patients in premarketing clinical studies of duloxetine for MDD, 5.
 Of the 1,041 patients in CLBP premarketing studies, 21.2% (221) were 65 years of age or over.
 Of the 487 patients in OA premarketing studies, 40.5% (197) were 65 years of age or over.
 Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years of age or over.
-In the MDD, GAD, DPNP, OA, and CLBP studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In the MDD, DPNP, OA, CLBP and other studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including duloxetine have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.13)].
 
 In an analysis of data from all placebo-controlled-trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo.
@@ -71,11 +76,6 @@ The increased risk appears to be proportional to a patient’s underlying risk f
 Underlying risk appears to increase steadily with age.
 As elderly patients tend to have a higher prevalence of risk factors for falls such as medications, medical comorbidities and gait disturbances, the impact of increasing age by itself on falls during treatment with duloxetine is unclear.
 Falls with serious consequences including bone fractures and hospitalizations have been reported [see Warnings and Precautions (5.3) and Adverse Reactions (6.10)].
-
-The pharmacokinetics of duloxetine after a single dose of 40 mg were compared in healthy elderly females (65 to 77 years) and healthy middle-age females (32 to 50 years).
-There was no difference in the Cmax, but the AUC of duloxetine was somewhat (about 25%) higher and the half-life about 4 hours longer in the elderly females.
-Population pharmacokinetic analyses suggest that the typical values for clearance decrease by approximately 1% for each year of age between 25 to 75 years of age; but age as a predictive factor only accounts for a small percentage of between-patient variability.
-Dosage adjustment based on the age of the patient is not necessary.
 
 ## 8.6 Gender
 

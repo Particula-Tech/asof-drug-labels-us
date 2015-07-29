@@ -254,7 +254,14 @@ The most common side effects of duloxetine delayed-release capsules include:
 - increased sweating
 - dizziness
 
+Common possible side effects in children and adolescents who take duloxetine delayed-release capsules include:
+
+- nausea
+- decreased weight
+- dizziness
+
 Side effects in adults may also occur in children and adolescents who take duloxetine delayed-release capsules.
+Children and adolescents should have height and weight monitored during treatment.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -315,6 +322,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-05/2015
+06/2015
 
 PJPI0217D
