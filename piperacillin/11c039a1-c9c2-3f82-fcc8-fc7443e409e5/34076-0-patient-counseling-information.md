@@ -9,5 +9,5 @@ Diarrhea is a common problem caused by antibacterial drugs which usually ends wh
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the drug.
 If this occurs, patients should contact their physician as soon as possible.
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.-pfizer.com or call our medical communications department toll-free at 1-800-438-1985. |  |
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com or call our medical communications department toll-free at 1-800-438-1985. |  |
 | --- | --- | --- |

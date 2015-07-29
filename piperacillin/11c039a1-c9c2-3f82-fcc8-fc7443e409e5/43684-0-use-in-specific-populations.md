@@ -47,7 +47,7 @@ In patients with creatinine clearance ≤ 40 mL/min and dialysis patients (hemod
 
 ## 8.7 Hepatic Impairment
 
-Dosage adjustment of ZOSYN is not warranted in patients with hepatic cirrhosis [See Clinical Pharmacology (12.3)].
+Dosage adjustment of ZOSYN is not warranted in patients with hepatic cirrhosis [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Cystic Fibrosis
 

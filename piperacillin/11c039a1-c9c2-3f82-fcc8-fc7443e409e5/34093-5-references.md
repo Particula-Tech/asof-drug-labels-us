@@ -16,4 +16,4 @@
 
 CLINITEST®is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-GALAXY® is a registered trademark of Baxter International, Inc.
+GALAXY is a registered trademark of Baxter International, Inc.

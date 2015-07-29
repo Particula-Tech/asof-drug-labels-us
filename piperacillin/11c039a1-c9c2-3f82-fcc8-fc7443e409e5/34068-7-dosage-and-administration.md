@@ -147,19 +147,19 @@ Do not refreeze thawed ZOSYN.
 Due to the in vitro inactivation of aminoglycosides by piperacillin, ZOSYN and aminoglycosides are recommended for separate administration.
 ZOSYN and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated [see Drug Interactions (7.1)].
 
-In circumstances where co-administration via Y-site is necessary, ZOSYN formulations containing EDTA are compatible for simultaneous coadministration via Y-site infusion only with the following aminoglycosides under the following conditions:
+In circumstances where co-administration via Y-site is necessary, ZOSYN formulations containing EDTA are compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
 
 Table 2: Compatibility with Aminoglycosides
 
 | Aminoglycoside | ZOSYN Dose (grams) | ZOSYN Diluent Volume Diluent volumes apply only to single vials and bulk pharmacy containers (mL) | Aminoglycoside Concentration Range The concentration ranges in Table 2 are based on administration of the aminoglycoside in divided doses (10–15 mg/kg/day in two daily doses for amikacin and 3–5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- | --- |
-| Amikacin | 2.25, 3.375, 4.5 | 50, 100, 150 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
-| Gentamicin | 2.25 3.375ZOSYN 3.375 g per 50 mL GALAXY® containers are NOT compatible with gentamicin for coadministration via a Y-site due to the higher concentrations of piperacillin and tazobactam. 4.5 | 50, 100 150 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
+| Amikacin | 2.25 3.375 4.5 | 50 100 150 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
+| Gentamicin | 2.25 3.375ZOSYN 3.375 g per 50 mL GALAXY containers are NOT compatible with gentamicin for co-administration via a Y-site due to the higher concentrations of piperacillin and tazobactam. 4.5 | 50 100 150 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
 
-Only the concentration and diluents for amikacin or gentamicin with the dosages of ZOSYN listed above have been established as compatible for coadministration via Y-site infusion.
-Simultaneous coadministration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by ZOSYN.
+Only the concentration and diluents for amikacin or gentamicin with the dosages of ZOSYN listed above have been established as compatible for co-administration via Y-site infusion.
+Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by ZOSYN.
 
-ZOSYN is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
+ZOSYN is not compatible with tobramycin for simultaneous co-administration via Y-site infusion.
 Compatibility of ZOSYN with other aminoglycosides has not been established.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
