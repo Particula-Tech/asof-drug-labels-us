@@ -1,136 +1,150 @@
-Patient Information About DROXIA® Capsules (generic name = hydroxyurea)
+# Patient Information DROXIA® (drock-SEE-yuh) (hydroxyurea capsules, USP)
+
+Read this Patient Information before you start using DROXIA (hydroxyurea) and each time you get a refill.
+There may be new information.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
+You and your healthcare provider should talk about DROXIA when you start taking it and at regular checkups.
+
+What is the most important information I should know about DROXIA?
+
+DROXIA can cause serious side effects including:
+
+- •Low blood counts are common with DROXIA, including low red blood cells, white blood cells, and platelets, and can be severe and life-threatening.
+  If your white blood cell count becomes very low, you are at increased risk for infection.
+  Your healthcare provider will check your blood cell counts before and during treatment with DROXIA.
+  Your healthcare provider may change your dose or tell you to stop taking DROXIA if you have low blood cell counts.
+  Tell your healthcare provider right away if you get any of the following symptoms:
+  - •fever
+  - •chills
+  - •body aches
+  - •feeling very tired
+  - •shortness of breath
+  - •bleeding
+- •Cancer.
+  Some people have developed cancer, such as leukemia and skin cancer, after taking DROXIA for a long time.
+  Your healthcare provider will check you for cancer.
+  You should protect your skin from the sun using sunblock, hats, and sun-protective clothing.
+
+DROXIA may cause harm to your unborn baby.
+
+For females taking DROXIA who can become pregnant:
+
+- •You should talk with your healthcare provider about the risks of DROXIA to your unborn child.
+- •You should use effective birth control during and after treatment with DROXIA for at least 30 days after treatment.
+- •Tell your healthcare provider right away if you become pregnant or think you may be pregnant.
+
+For males taking DROXIA:
+
+- •Males should use effective contraception during and after treatment with DROXIA for at least 1 year after therapy.
+
+For females NOT taking DROXIA who can become pregnant:
+
+- •You should ensure that your male partner, who is/has taken DROXIA, uses effective contraception during and after treatment for at least 1 year after therapy.
+
+DROXIA may cause fertility problems in males and females.
+Talk to your healthcare provider if this is a concern for you.
+
+See “What are the possible side effects of DROXIA?” for more information about side effects.
 
 What is DROXIA?
 
-DROXIA (hydroxyurea capsules, USP) is a prescription medicine that is used to reduce the frequency of painful crises and reduce the need for blood transfusions in adults with sickle cell anemia.
-How DROXIA works is not certain but it may work by reducing the number of white blood cells and/or increasing red blood cells that carry fetal hemoglobin (HbF).
-Fetal hemoglobin may prevent sickling.
+DROXIA is a prescription medicine that is used to reduce the frequency of painful crises and reduce the need for blood transfusions in people with sickle cell anemia with recurrent moderate to severe painful crises.
 
-What is Sickle Cell Anemia?
+It is not known if DROXIA is safe and effective in children.
 
-Sickle cell anemia is an inherited disorder of the red blood cells.
-Red blood cells carry oxygen to all parts of the body by using a protein called hemoglobin.
-Normal red blood cells contain only normal hemoglobin and are shaped like indented disks.
-These cells are very flexible and move easily through small blood vessels.
+Who should not take DROXIA?
 
-In sickle cell anemia, the red blood cells contain sickle hemoglobin, which causes them to change to a rigid, spiked shape (sickle shape) after oxygen is released.
-Sickled cells get stuck and form plugs in small blood vessels.
-These plugs restrict blood flow, causing damage to surrounding tissues resulting in a painful crisis.
+Do not take DROXIA if you are allergic to hydroxyurea or any of the ingredients in DROXIA.
+See the end of this leaflet for a list of the ingredients in DROXIA.
 
-Because there are blood vessels in all parts of the body, painful crises can occur anywhere in your body.
-In addition, sickle cells are trapped and destroyed in the liver and spleen.
-This results in a shortage of red blood cells (anemia).
+Before taking DROXIA, tell your healthcare provider about all of your medical conditions, including if you:
 
-Will DROXIA cure my Sickle Cell Anemia?
+- •have kidney problems or are receiving hemodialysis
+- •have liver problems
+- •have human immunodeficiency virus (HIV).
+  Taking DROXIA with certain HIV medicines can cause serious reactions and may lead to death.
+- •have increased level of uric acid in your blood (hyperuricemia)
+- •have a history of receiving interferon therapy or are currently receiving interferon therapy
+- •are pregnant or plan to become pregnant.
+  See “What is the most important information I should know about DROXIA?”
+- •are breastfeeding or plan to breastfeed.
+  DROXIA can pass into your breast milk.
+  Do not breastfeed during treatment with DROXIA.
+  Talk to your healthcare provider about the best way to feed your baby.
 
-No. However, DROXIA may help you better control your sickle cell anemia, but it is important to follow your doctor’s instructions carefully.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Especially tell your healthcare provider if you take an antiretroviral medicine.
+Taking DROXIA with certain antiretroviral medicines can cause serious side effects and may lead to death.
 
-In a study of adults taking recommended doses, daily treatment with DROXIA resulted in fewer painful crises, fewer patients with “acute chest syndrome” (a pneumonia-like condition that leads to difficulty in breathing) and less need for blood transfusions.
+How should I take DROXIA?
 
-Who should not take DROXIA capsules?
+- •Take DROXIA exactly as your healthcare provider tells you.
+- •DROXIA is taken 1 time a day.
+- •Your healthcare provider will determine the right starting dose of DROXIA for you based on your weight.
+  Your dose will then be increased slowly to your maximum tolerated dose (a dose that does not produce severely low blood counts).
+- •If you take too much DROXIA, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •DROXIA is a medicine that must be handled with care.
+  People who are not taking DROXIA should not be exposed to it.
+  To decrease the risk of exposure, you or your caregivers should do the following when handling DROXIA:
+  - •Wear disposable gloves when handling DROXIA capsules or bottles containing DROXIA.
+  - •Wash your hands before and after handling DROXIA capsules or bottles containing DROXIA.
+  - •Do not open the capsules.
+  - •Avoid contact with crushed or opened capsules.
+    If contact from crushed or opened capsules happens on the skin, wash the skin area right away with soap and water.
+    If contact from crushed or opened capsules happens on the eye(s), flush the eye(s) thoroughly with water or isotonic eyewash designated for that purpose for at least 15 minutes.
+  - •If the powder from the capsule is spilled, wipe it up right away with a damp disposable towel, and throw it away in a closed container, such as a plastic bag; as should the empty capsules.
+    The spill areas should then be cleaned three times using a detergent solution followed by clean water.
 
-Do not take DROXIA capsules if you are allergic to any of the ingredients.
-Besides the active ingredient hydroxyurea, DROXIA capsules contain the following inactive ingredients: citric acid, gelatin, lactose, magnesium stearate, sodium phosphate, titanium dioxide, and capsule colorants.
-Tell your doctor if you think you have ever had an allergic reaction.
+What are the possible side effects of DROXIA?
 
-If you get pregnant, DROXIA may harm or cause death to your unborn child.
-You should not become pregnant while taking DROXIA.
-Make sure you use a contraceptive method.
-Tell your doctor if you become pregnant or plan to become pregnant while taking DROXIA.
+DROXIA may cause serious side effects, including:
 
-How do I take DROXIA capsules?
+- •See “What is the most important information I should know about DROXIA?”
+- •Skin ulcers have happened in people who take DROXIA.
+  This has occurred most often in people who receive interferon therapy or have a history of interferon therapy.
+  Your healthcare provider will stop treatment with DROXIA if you develop any skin ulcers.
 
-Always follow your doctor’s instructions carefully when taking DROXIA capsules or any prescription medication.
-The usual dose of DROXIA may range from as few as one to several capsules per day.
-DROXIA is usually taken once a day.
-You should try to take it at the same time each day.
-Your doctor will determine the proper starting dose of DROXIA for you based on your weight and blood count.
-The dose will then be increased slowly to your maximum tolerated dose (maximum dose that does NOT produce severely low blood counts).
-Your doctor should measure your blood counts every two weeks after you begin treatment with DROXIA.
-Depending on the results, your dosage may be adjusted or the drug may be stopped for a while.
+The most common side effects of DROXIA include:
 
-If you accidentally take an overdose of DROXIA capsules, seek medical attention immediately.
-Contact your doctor, local Poison Control Center, or emergency room.
+- •hair loss
+- •enlarged red blood cells (macrocytosis).
+  Macrocytosis can make it difficult to detect a decrease of folic acid in people taking DROXIA.
+  Your healthcare provider may prescribe a folic acid supplement for you.
+- •bleeding
+- •brown or black colored nails
 
-How do I handle DROXIA capsules safely?
+These are not all the possible side effects of DROXIA.
+For more information, ask your healthcare provider or pharmacist.
 
-DROXIA is a medication that must be handled with care.
-People who are not taking DROXIA should not be exposed to it.
-To decrease the risk of exposure, wear disposable gloves when handling DROXIA or bottles containing DROXIA.
-Anyone handling DROXIA should wash their hands before and after contact with the bottle or capsules.
-If the powder from the capsule is spilled, it should be wiped up immediately with a damp disposable towel and discarded in a closed container, such as a plastic bag.
-DROXIA should be kept out of the reach of children and pets.
-Contact your doctor or pharmacist for instructions on how to dispose of outdated capsules.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-What if I miss a dose of DROXIA capsules?
+How Should I store DROXIA?
 
-Try not to miss your dose of DROXIA, but if you do, take it as soon as possible.
-If it is almost time for your next dose, skip the missed dose and resume your regular dosing schedule.
-Do not take two doses during the same day.
-If you miss more than one dose, call your doctor for instructions.
+- •Store DROXIA at room temperature between 68°F to 77°F (20°C to 25°C).
+  Keep the bottle tightly closed.
+- •Call your healthcare provider for instructions on how to throw away (dispose of) DROXIA that is out of date or no longer needed.
 
-What should I avoid while taking DROXIA capsules?
+Keep DROXIA and all medicines out of the reach of children.
+Keep DROXIA away from pets.
 
-Some other medications can increase your risk of experiencing serious side effects from DROXIA.
-While you are taking DROXIA capsules, you should inform your doctor of all prescription and over-the-counter medicines that you are taking.
+General information about the safe and effective use of DROXIA
 
-In nursing mothers, DROXIA is present in breast milk.
-Because of the potential for side effects in the newborn, you should discontinue nursing your baby while taking DROXIA.
-
-What are the possible side effects of DROXIA capsules?
-
-As with other medicines, DROXIA may cause unwanted effects, although it is not always possible to tell whether such effects are caused by DROXIA, another medication you may be taking, or your sickle cell anemia.
-Any side effects or unusual symptoms that you experience should be reported to your doctor, particularly if they persist or are troublesome.
-
-The most serious side effects of DROXIA involve the blood, and may include severely low white blood cell counts (leukopenia, neutropenia), which can decrease your resistance to infections, severely low red blood cell counts (anemia), or severely low platelet counts (thrombocytopenia), which can cause bleeding.
-Almost all patients who received DROXIA in clinical studies needed to have their medication stopped for a time to allow their low blood counts to return to acceptable levels.
-
-The side effects reported most often by adults with sickle cell anemia participating in studies of DROXIA included hair loss, skin rash, fever, stomach and/or bowel disturbances, weight gain, bleeding, virus infection, and discolored nails (melanonychia), but these were equally common in people getting a placebo (sugar pill).
-
-Skin cancer and leukemia, which can be fatal, have been reported in patients receiving long-term hydroxyurea for conditions other than sickle cell anemia.
-In laboratory tests, DROXIA causes changes in chromosomes and DNA (genetic material) that strongly suggest it can cause cancer in people, especially if it is taken for a long time.
-
-Skin ulcers have been seen in patients taking DROXIA therapy.
-Contact your doctor if skin ulcers develop while you are taking DROXIA.
-
-Are regular blood counts necessary while taking DROXIA capsules?
-
-Yes.
-Your doctor should measure your blood counts every two weeks while you are taking DROXIA.
-Your DROXIA dose will require adjustment based on these regular blood counts.
-Serious problems can occur if the DROXIA dose is not adjusted on time.
-
-What else should I know about DROXIA capsules?
-
-If you have kidney or liver disease, close monitoring of your blood count, kidney and liver function will be required.
-If you have kidney disease, your dose of DROXIA may be started at a lower level and increased gradually.
-
-Because it may not be possible to detect a deficiency of folic acid in patients taking DROXIA, your doctor may prescribe a folic acid supplement for you.
-
-What else should I do to control my sickle cell crises?
-
-Because painful crises can be brought on by factors such as infection, dehydration, worsening anemia, emotional stress, extreme temperature exposure, or ingestion of substances such as alcohol or other recreational drugs, you should be aware of the following general guidelines that will help keep you pain-free:
-
-- Seek immediate medical attention when a fever develops or signs of infection appear.
-- Avoid smoking and drinking more than 1 to 2 alcoholic beverages a day.
-- Drink 8 to 10 glasses of water or other fluid each day.
-- Avoid any types of physical exertion that seem to bring on painful crises or other discomfort.
-- Avoid extreme temperature changes and dress appropriately in hot and cold weather.
-
-What should I know if I am HIV-positive?
-
-Because of serious, life-threatening side effects associated with DROXIA used in combination with certain medications for HIV, your doctor should closely monitor your pancreas and liver function with frequent physical examinations and laboratory blood tests.
-The combination of DROXIA, ZERIT® (stavudine) and VIDEX® (didanosine) should be avoided.
-Some studies have shown a decrease in the number of CD4 (T-cells) for HIV-positive patients taking DROXIA.
-Although DROXIA is approved by the U.S. Food and Drug Administration for treating sickle cell anemia, it is not approved for treating HIV infection.
-
-This medicine was prescribed for your particular condition.
-Do not use DROXIA capsules for another condition or give it to others.
-
-This summary does not include everything there is to know about DROXIA capsules.
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-If you have questions or concerns, or want more information about DROXIA capsules, your physician and pharmacist have the complete prescribing information upon which this guide is based.
-You may want to read it and discuss it with your doctor.
-Remember, no written summary can replace careful discussion with your doctor.
+Do not use DROXIA for a condition for which it was not prescribed.
+Do not give DROXIA to other people, even if they have the same symptoms you have.
+It may harm them.
+You can ask your healthcare provider or pharmacist for information about DROXIA that is written for health professionals.
 
+What are the ingredients of DROXIA?
+
+Active ingredient: hydroxyurea
+
+Inactive ingredients: citric acid, gelatin, lactose, magnesium stearate, sodium phosphate, titanium dioxide, and capsule colorants: FD&C Blue No. 1 and FD&C Green No. 3 (200 mg capsules); D&C Red No. 28, D&C Red No. 33, and FD&C Blue No. 1 (300 mg capsules); D&C Red No. 28, D&C Red No. 33, and D&C Yellow No. 10 (400 mg capsules).
+
+Manufactured for: Bristol-Myers Squibb Company, Princeton, New Jersey 08543 USA Product of Italy
+
+For more information, go to www.BMS.com or call 1-800-721-5072.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+1357793 Revised: July 2015
