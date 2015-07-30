@@ -16,7 +16,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of GELNIQUE in pediatric patients have not been established.
+The safety and effectiveness of GELNIQUE 10% have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 

@@ -2,7 +2,7 @@
 
 [See FDA-Approved Patient Labeling]
 
-## 17.1 Instructions for Use
+Instructions for Use
 
 GELNIQUE is for topical application only and should not be ingested.
 
@@ -14,7 +14,7 @@ Application sites should be covered with clothing if close skin-to-skin contact 
 Alcohol based gels are flammable.
 Avoid open fire or smoking until the gel has dried.
 
-## 17.2 Important Anticholinergic Adverse Reactions
+Important Anticholinergic Adverse Reactions
 
 Patients should be informed that anticholinergic (antimuscarinic) agents, such as GELNIQUE, may produce clinically significant adverse reactions related to anticholinergic pharmacological activity including:
 
@@ -23,3 +23,7 @@ Patients should be informed that anticholinergic (antimuscarinic) agents, such a
 - Dizziness or blurred vision.
   Patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until GELNIQUE’s effects have been determined.
 - Drowsiness that may be worsened by alcohol.
+
+For all medical inquiries contact: Actavis Pharma, Inc. Medical Communications Parsippany, NJ 07054 800-272-5525
+
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA

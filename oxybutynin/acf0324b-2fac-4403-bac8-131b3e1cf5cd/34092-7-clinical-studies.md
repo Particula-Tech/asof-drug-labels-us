@@ -13,9 +13,9 @@ Mean and median change from baseline in daily incontinence episodes (primary end
 
 Table 3: Mean and median change from baseline for incontinence episodes, urinary frequency, and urinary void volume at Week 12 (LOCF*).
 
-| Mean (SD) | Median | Mean (SD) | Median |  |
+|  | GELNIQUE 1 gram (N = 389) |  | Placebo (N = 400) |  |
 | --- | --- | --- | --- | --- |
-| Parameter | GELNIQUE 1 gram (N = 389) |  | Placebo (N = 400) |  |
+| Parameter | Mean (SD) | Median | Mean (SD) | Median |
 | Daily Incontinence Episodes |  |  |  |  |
 | Baseline | 5.4 (3.26) | 4.7 | 5.4 (3.28) | 4.7 |
 | Change from baseline | -3.0 (2.73) | -2.7 | -2.5 (3.06) | -2.0 |

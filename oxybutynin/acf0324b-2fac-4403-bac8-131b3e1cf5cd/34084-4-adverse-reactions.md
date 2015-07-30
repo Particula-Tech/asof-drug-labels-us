@@ -36,3 +36,10 @@ The most common adverse reaction leading to drug discontinuation was application
 The most common adverse reactions reported during the 14-week open-label extension study were application site reactions (6.0%) and dry mouth (1.9%).
 The most common reason for premature discontinuation was application site reactions (9 patients or 4.2%).
 Two of these 9 patients experienced application site reactions of severe intensity (dermatitis, urticaria, and erythema).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of GELNIQUE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous System Disorders: dizziness, somnolence, confusion Psychiatric Disorders: hallucinations

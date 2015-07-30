@@ -1,4 +1,4 @@
-# FDA-Approved Patient Labeling
+FDA-Approved Patient Labeling
 
 PATIENT INFORMATION
 
@@ -37,10 +37,7 @@ What should I tell my healthcare provider before using GELNIQUE?
 Before you use GELNIQUE, tell your healthcare provider if you:
 
 - have problems emptying your bladder completely
-- have stomach problems including:
-  - constipation or difficulty emptying your bowels
-  - ulcerative colitis (inflamed bowels)
-  - gastric reflux disease or esophagitis (inflammation of the tube between your mouth and stomach)
+- have stomach problems including: o constipation or difficulty emptying your bowels o ulcerative colitis (inflamed bowels) o gastric reflux disease or esophagitis (inflammation of the tube between your mouth and stomach)
 - have Myasthenia Gravis (generalized muscle weakness)
 - are pregnant or plan to become pregnant
 - are breastfeeding or plan to breastfeed
@@ -155,8 +152,8 @@ Active Ingredient: oxybutynin chloride
 
 Inactive Ingredients: alcohol, USP; glycerin, USP; hydroxypropyl cellulose, NF; sodium hydroxide, NF; and purified water, USP.
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+For all medical inquiries contact: Actavis Pharma, Inc. Medical Communications Parsippany, NJ 07054 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: October 2012
+Revised: July 2015
