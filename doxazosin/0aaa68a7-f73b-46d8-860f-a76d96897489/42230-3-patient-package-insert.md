@@ -6,8 +6,8 @@ Rx only
 
 Read this leaflet:
 
-- before you start taking doxazosin tablets
-- each time you get a new prescription.
+- •before you start taking doxazosin tablets
+- •each time you get a new prescription.
 
 You and your doctor should discuss this treatment and your BPH symptoms before you start taking doxazosin tablets and at your regular checkups.
 This leaflet does NOT take the place of discussions with your doctor.
@@ -22,25 +22,25 @@ This gland surrounds the tube that drains the urine from the bladder.
 The symptoms of BPH can be caused by a tensing of the enlarged muscle in the prostate gland which blocks the passage of urine.
 This can lead to such symptoms as:
 
-- a weak or start-and-stop stream when urinating
-- a feeling that the bladder is not completely emptied after urination
-- a delay or difficulty in the beginning of urination
-- a need to urinate often during the day and especially at night
-- a feeling that you must urinate immediately
+- •a weak or start-and-stop stream when urinating
+- •a feeling that the bladder is not completely emptied after urination
+- •a delay or difficulty in the beginning of urination
+- •a need to urinate often during the day and especially at night
+- •a feeling that you must urinate immediately
 
 Treatment Options for BPH
 
 The four main treatment options for BPH are:
 
-- If you are not bothered by your symptoms, you and your doctor may decide on a program of “watchful waiting.”
+- •If you are not bothered by your symptoms, you and your doctor may decide on a program of “watchful waiting.”
   It is not an active treatment like taking medication or surgery but involves having regular checkups to see if your condition is getting worse or causing problems.
-- Treatment with doxazosin tablets or other similar drugs.
+- •Treatment with doxazosin tablets or other similar drugs.
   Doxazosin tablets are the medication your doctor has prescribed for you.
   See “What Doxazosin Tablets Do,” below.
-- Treatment with the medication class of 5-alpha reductase inhibitors (e.g., Proscar®).
+- •Treatment with the medication class of 5-alpha reductase inhibitors (e.g., Proscar®).
   It can cause the prostate to shrink.
   It may take 6 months or more for the full benefit of finasteride to be seen.
-- Various surgical procedures.
+- •Various surgical procedures.
   Your doctor can describe these procedures to you.
   The best procedure for you depends on your BPH symptoms and medical condition.
 
@@ -49,23 +49,23 @@ What Doxazosin Tablets Do
 Doxazosin tablets work on a specific type of muscle found in the prostate, causing it to relax.
 This in turn decreases the pressure within the prostate, thus improving the flow of urine and your symptoms.
 
-- Doxazosin tablets help relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
+- •Doxazosin tablets help relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
   It does not change the size of the prostate.
   The prostate may continue to grow; however, a larger prostate is not necessarily related to more symptoms or to worse symptoms.
   Doxazosin tablets can decrease your symptoms and improve urinary flow, without decreasing the size of the prostate.
-- If doxazosin tablets are helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
+- •If doxazosin tablets are helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
   Doxazosin tablets have been studied in over 900 patients for up to 2 years and the drug has been shown to continue to work during long-term treatment.
   Even though you take doxazosin tablets and they may help you, doxazosin tablets may not prevent the need for surgery in the future.
-- Doxazosin tablets do not affect PSA levels.
+- •Doxazosin tablets do not affect PSA levels.
   PSA is the abbreviation for Prostate Specific Antigen.
   Your doctor may have done a blood test called PSA.
   You may want to ask your doctor more about this if you have had a PSA test done.
 
 Other Important Facts
 
-- You should see an improvement of your symptoms within 1 to 2 weeks.
+- •You should see an improvement of your symptoms within 1 to 2 weeks.
   In addition to your other regular checkups you will need to continue seeing your doctor regularly to check your progress regarding your BPH and to monitor your blood pressure.
-- Doxazosin tablets are not a treatment for prostate cancer.
+- •Doxazosin tablets are not a treatment for prostate cancer.
   Your doctor has prescribed doxazosin tablets for your BPH and not for prostate cancer; however, a man can have BPH and prostate cancer at the same time.
   Doctors usually recommend that men be checked for prostate cancer once a year when they turn 50 (or 40 if a family member has had prostate cancer).
   A higher incidence of prostate cancer has been noted in men of African-American descent.
@@ -94,39 +94,33 @@ It is important to get up slowly from a chair or bed at any time until you learn
 You should not drive or do any hazardous tasks until you are used to the effects of the medication.
 If you begin to feel dizzy, sit or lie down until you feel better.
 
-- You will start with a 1 mg dose of doxazosin tablets once daily.
+- •You will start with a 1 mg dose of doxazosin tablets once daily.
   Then the once daily dose will be increased as your body gets used to the effects of the medication.
   Follow your doctor’s instructions about how to take doxazosin tablets.
   You must take it every day at the dose prescribed.
   Talk with your doctor if you don’t take it for a few days for some reason; you may then need to restart the medication at a 1 mg dose, increase your dose gradually and again be cautious about possible dizziness.
   Do not share doxazosin tablets with anyone else; they were prescribed only for you.
-- Other side effects you could have while taking doxazosin tablets, in addition to lowering of the blood pressure, include dizziness, fatigue (tiredness), swelling of the feet and shortness of breath.
+- •Other side effects you could have while taking doxazosin tablets, in addition to lowering of the blood pressure, include dizziness, fatigue (tiredness), swelling of the feet and shortness of breath.
   Most side effects are mild.
   However, you should discuss any unexpected effects you notice with your doctor.
-- WARNING: Extremely rarely, doxazosin tablets and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
+- •WARNING: Extremely rarely, doxazosin tablets and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
   This condition is serious, and if untreated it can be followed by permanent inability to have an erection.
   If you have a prolonged abnormal erection, call your doctor or go to an emergency room as soon as possible.
-- Tell your surgeon if you take or have taken doxazosin tablets if you plan to have surgery for cataracts (clouding of the eye).
+- •Tell your surgeon if you take or have taken doxazosin tablets if you plan to have surgery for cataracts (clouding of the eye).
   During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken doxazosin tablets.
-- If you use doxazosin tablets with an oral erectile dysfunction medicine (phosphodiesterase-5 (PDE-5) inhibitor), it can cause a sudden drop in your blood pressure and you can become dizzy or faint.
+- •If you use doxazosin tablets with an oral erectile dysfunction medicine (phosphodiesterase-5 (PDE-5) inhibitor), it can cause a sudden drop in your blood pressure and you can become dizzy or faint.
   Talk with your healthcare provider before using PDE-5 inhibitors.
-- Keep doxazosin tablets and all medicines out of the reach of children.
+- •Keep doxazosin tablets and all medicines out of the reach of children.
 
 FOR MORE INFORMATION ABOUT DOXAZOSIN TABLETS AND BPH TALK WITH YOUR DOCTOR, NURSE, PHARMACIST OR OTHER HEALTHCARE PROVIDER.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-Manufactured In India By:
+Manufactured In India For:
 
-PIRAMAL ENTERPRISES LIMITED
+TEVA PHARMACEUTICALS USA, INC.
 
-Pithampur, Madhya Pradesh, India
-
-Manufactured For:
-
-TEVA PHARMACEUTICALS USA
-
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-E 11/2013
+F 5/2015

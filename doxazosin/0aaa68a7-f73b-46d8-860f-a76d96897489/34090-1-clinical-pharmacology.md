@@ -54,6 +54,8 @@ The proportion of patients who responded with a maximum flow rate improvement of
 A significantly greater improvement was also seen in average flow rate with doxazosin mesylate (1.6 mL/sec) than with placebo (0.2 mL/sec).
 The onset and time course of symptom relief and increased urinary flow from STUDY 1 are illustrated in Figure 1.
 
+Figure 1 – Study 1
+
 In BPH patients (N = 450) treated for up to 2 years in open-label studies, doxazosin mesylate therapy resulted in significant improvement above baseline in urinary flow rates and BPH symptoms.
 The significant effects of doxazosin mesylate were maintained over the entire treatment period.
 
@@ -118,7 +120,7 @@ The area under the curve after morning dosing was, however, 11% less than that a
 The pharmacokinetics of doxazosin mesylate in young (< 65 years) and elderly (≥ 65 years) subjects were similar for plasma half-life values and oral clearance.
 Pharmacokinetic studies in elderly patients and patients with renal impairment have shown no significant alterations compared to younger patients with normal renal function.
 Administration of a single 2 mg dose to patients with cirrhosis (Child-Pugh Class A) showed a 40% increase in exposure to doxazosin.
-There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin [e.g., cimetidine (see PRECAUTIONS,Drug Interactions)].
+There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin [e.g., cimetidine (see PRECAUTIONS, Drug Interactions)].
 As with any drug wholly metabolized by the liver, use of doxazosin mesylate in patients with altered liver function should be undertaken with caution.
 
 In two placebo-controlled studies of normotensive and hypertensive BPH patients, in which doxazosin was administered in the morning and the titration interval was two weeks and one week, respectively, trough plasma concentrations of doxazosin mesylate were similar in the two populations.

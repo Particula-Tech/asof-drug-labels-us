@@ -71,7 +71,7 @@ As alpha1 antagonists can cause orthostatic effects, it is important to evaluate
 If hypotension occurs, the patient should be placed in the supine position and, if this measure is inadequate, volume expansion with intravenous fluids or vasopressor therapy may be used.
 A transient hypotensive response is not a contraindication to further doses of doxazosin mesylate.
 
-## Information for Patients (See Patient Package Insert)
+## Information for Patients (See)
 
 Patients should be made aware of the possibility of syncopal and orthostatic symptoms, especially at the initiation of therapy, and urged to avoid driving or hazardous tasks for 24 hours after the first dose, after a dosage increase, and after interruption of therapy when treatment is resumed.
 They should be cautioned to avoid situations where injury could result should syncope occur during initiation of doxazosin therapy.

@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Doxazosin Tablets USP 1 mg 100s Label Text
 
 NDC 0093-2070-01
 
-DOXAZOSIN Tablets USP 1 mg*
+Doxazosin Tablets USP 1 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
@@ -14,13 +14,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Doxazosin Tablets USP 2 mg 100s Label Text
 
 NDC 0093-2069-01
 
-DOXAZOSIN Tablets USP 2 mg*
+Doxazosin Tablets USP 2 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
@@ -30,13 +30,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Doxazosin Tablets USP 4 mg 100s Label Text
 
 NDC 0093-2068-01
 
-DOXAZOSIN Tablets USP 4 mg*
+Doxazosin Tablets USP 4 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
@@ -46,13 +46,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Doxazosin Tablets USP 8 mg 100s Label Text
 
 NDC 0093-2067-01
 
-DOXAZOSIN Tablets USP 8 mg*
+Doxazosin Tablets USP 8 mg*
 
 PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
 
