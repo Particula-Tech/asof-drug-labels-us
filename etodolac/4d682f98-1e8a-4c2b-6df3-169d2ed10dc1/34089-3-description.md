@@ -9,5 +9,5 @@ The molecular weight of the base is 287.37.
 It has a pKa of 4.65 and an n-octanol:water partition coefficient of 11.4 at pH 7.4.
 The molecular formula for etodolac is C17H21NO3, and it has the following structural formula:
 
-Each tablet, for oral administration, contains 400 mg or 500 mg of etodolac.
+Each etodolac tablet, USP is for oral administration, contains 400 mg or 500 mg of etodolac.
 In addition, each tablet contains the following inactive ingredients: crospovidone, hydroxypropyl cellulose, hypromellose, magnesium stearate, methylcellulose, polyethylene glycol and titanium dioxide.

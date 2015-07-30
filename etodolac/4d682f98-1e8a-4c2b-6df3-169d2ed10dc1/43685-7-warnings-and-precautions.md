@@ -1,36 +1,46 @@
 # WARNINGS
 
-## CARDIOVASCULAR EFFECTS
+Cardiovascular Effects
 
-### Cardiovascular Thrombotic Events
+Cardiovascular Thrombotic Events Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
-Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
-Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
+The concurrent use of aspirin and an NSAID, such as etodolac, increases the risk of serious gastrointestinal (GI) events (see WARNINGS).
 
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG (see CONTRAINDICATIONS).
 
-### Hypertension
+Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
-NSAIDs, including etodolac, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+Avoid the use of etodolac in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If etodolac is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+
+Hypertension NSAIDs, including etodolac, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 NSAIDs, including etodolac, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-### Congestive Heart Failure and Edema
+Heart Failure and Edema The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
-Fluid retention and edema have been observed in some patients taking NSAIDs.
-Etodolac should be used with caution in patients with fluid retention or heart failure.
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of [active moiety] may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers (ARBs)] (see Drug Interactions).
 
-### Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding, and Perforation
+Avoid the use of etodolac in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If etodolac is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
-NSAIDs, including etodolac, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine or large intestine, which can be fatal.
+Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding, and Perforation NSAIDs, including etodolac, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for 1 year.
@@ -48,9 +58,7 @@ Patients and physicians should remain alert for signs and symptoms of GI ulcerat
 This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
-### Renal Effects
-
-Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+Renal Effects Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
 Patients at a greater risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
@@ -58,27 +66,23 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 Renal pelvic transitional epithelial hyperplasia, a spontaneous change occurring with variable frequency, was observed with increased frequency in treated male rats in a 2-year chronic study.
 
-### Advanced Renal Disease
-
-No information is available from controlled clinical studies regarding the use of etodolac in patients with advanced renal disease.
+Advanced Renal Disease No information is available from controlled clinical studies regarding the use of etodolac in patients with advanced renal disease.
 Therefore, treatment with etodolac is not recommended in these patients with advanced renal disease.
-If etodolac therapy must be initiated, close monitoring of the patient's renal function is advisable.
+If etodolac therapy must be initiated, close monitoring of the patient’s renal function is advisable.
 
-### Anaphylactoid Reactions
-
-As with other NSAIDS, anaphylactoid reactions may occur in patients without prior exposure to etodolac.
+Anaphylactoid Reactions As with other NSAIDS, anaphylactoid reactions may occur in patients without prior exposure to etodolac.
 Etodolac should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
 Fatal reactions have been reported in such patients (see CONTRAINDICATIONS and PRECAUTIONS, General, Pre-existing Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
-### Skin Reactions
+Skin Reactions
 
 NSAIDs, including etodolac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-### Pregnancy
+Pregnancy
 
 In late pregnancy, the third trimester, as with other NSAIDs, etodolac should be avoided because it may cause premature closure of the ductus arteriosus (see PRECAUTIONS, Pregnancy, Non-teratogenic Effects).
 
@@ -123,17 +127,14 @@ Since cross reactivity, including bronchospasm, between aspirin and other nonste
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-1. Etodolac, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
+1. Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately (see WARNINGS).
 2. Etodolac, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects.
-   Risk of Ulceration, Bleeding, and Perforation).
+   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects, Risk of Ulceration, Bleeding, and Perforation).
 3. Etodolac, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+4. Heart Failure And Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
@@ -149,60 +150,40 @@ If clinical signs and symptoms consistent with liver or renal disease develop or
 
 ## Drug Interactions
 
-### ACE-inhibitors
+ACE-inhibitors Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
+This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors (see PRECAUTIONS, General, Renal Effects).
 
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors (see WARNINGS).
-
-### Antacids
-
-The concomitant administration of antacids has no apparent effect on the extent of absorption of etodolac.
+Antacids The concomitant administration of antacids has no apparent effect on the extent of absorption of etodolac.
 However, antacids can decrease the peak concentration reached by 15% to 20% but have no detectable effect on the time-to-peak.
 
-### Aspirin
-
-When etodolac is administered with aspirin, its protein binding is reduced, although the clearance of free etodolac is not altered.
+Aspirin When etodolac is administered with aspirin, its protein binding is reduced, although the clearance of free etodolac is not altered.
 The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of etodolac and aspirin is not generally recommended because of the potential of increased adverse effects.
 
-### Cyclosporine, Digoxin, Methotrexate
-
-Etodolac, like other NSAIDs, through effects on renal prostaglandins, may cause changes in the elimination of these drugs leading to elevated serum levels of cyclosporine, digoxin, methotrexate, and increased toxicity.
+Cyclosporine, Digoxin, Methotrexate Etodolac, like other NSAIDs, through effects on renal prostaglandins, may cause changes in the elimination of these drugs leading to elevated serum levels of cyclosporine, digoxin, methotrexate, and increased toxicity.
 Nephrotoxicity associated with cyclosporine may also be enhanced.
 Patients receiving these drugs who are given etodolac, or any other NSAID, and particularly those patients with altered renal function, should be observed for the development of the specific toxicities of these drugs.
 NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
 This may indicate that they could enhance the toxicity of methotrexate.
 Caution should be used when NSAIDs are administered concomitantly with methotrexate.
 
-### Diuretics
-
-Etodolac has no apparent pharmacokinetic interaction when administered with furosemide or hydrochlorothiazide.
+Diuretics Etodolac has no apparent pharmacokinetic interaction when administered with furosemide or hydrochlorothiazide.
 Nevertheless, clinical studies, as well as postmarketing observations have shown that etodolac can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 
-### Glyburide
+Glyburide Etodolac has no apparent pharmacokinetic interaction when administered with glyburide.
 
-Etodolac has no apparent pharmacokinetic interaction when administered with glyburide.
-
-### Lithium
-
-NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
+Lithium NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
 The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
 These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
 Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
 
-### Phenylbutazone
-
-Phenylbutazone causes increase (by about 80%) in the free fraction of etodolac.
+Phenylbutazone Phenylbutazone causes increase (by about 80%) in the free fraction of etodolac.
 Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
 
-### Phenytoin
+Phenytoin Etodolac has no apparent pharmacokinetic interaction when administered with phenytoin.
 
-Etodolac has no apparent pharmacokinetic interaction when administered with phenytoin.
-
-### Warfarin
-
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than that of users of either drug alone.
+Warfarin The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than that of users of either drug alone.
 Short-term pharmacokinetic studies have demonstrated that concomitant administration of warfarin and etodolac results in reduced protein binding of warfarin, but there was no change in the clearance of free warfarin.
 There was no significant difference in the pharmacodynamic effect of warfarin administered alone and warfarin administered with etodolac as measured by prothrombin time.
 Thus, concomitant therapy with warfarin and etodolac should not require dosage adjustment of either drug.
@@ -269,4 +250,4 @@ Elderly patients may be more sensitive to the antiprostaglandin effects of NSAID
 In particular, elderly or debilitated patients who receive NSAID therapy seem to tolerate gastrointestinal ulceration or bleeding less well than other individuals, and most spontaneous reports of fatal GI events are in this population.
 
 Etodolac is eliminated primarily by the kidney.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS, Renal Effects).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see PRECAUTIONS, Renal Effects).
