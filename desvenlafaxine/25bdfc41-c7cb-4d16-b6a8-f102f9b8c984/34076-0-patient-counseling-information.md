@@ -33,7 +33,8 @@ Angle Closure Glaucoma
 Patients should be advised that taking desvenlafaxine can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.5)].
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+[see Warnings and Precautions (5.5)]
 
 Activation of Mania/Hypomania
 
@@ -42,7 +43,7 @@ Advise patients, their families and caregivers to observe for signs of activatio
 Discontinuation
 
 Advise patients not to stop taking desvenlafaxine without talking first with their healthcare professional.
-Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Patients should be aware that discontinuation effects may occur when stopping desvenlafaxine, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Switching Patients From Other Antidepressants to desvenlafaxine
 
