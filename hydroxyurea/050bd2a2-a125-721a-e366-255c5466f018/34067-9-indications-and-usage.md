@@ -1,5 +1,6 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Significant tumor response to HYDREA (hydroxyurea capsules, USP) has been demonstrated in melanoma, resistant chronic myelocytic leukemia, and recurrent, metastatic, or inoperable carcinoma of the ovary.
+HYDREA is indicated for the treatment of:
 
-Hydroxyurea used concomitantly with irradiation therapy is intended for use in the local control of primary squamous cell (epidermoid) carcinomas of the head and neck, excluding the lip.
+- •Resistant chronic myeloid leukemia.
+- •Locally advanced squamous cell carcinomas of the head and neck (excluding the lip) in combination with chemoradiation.
