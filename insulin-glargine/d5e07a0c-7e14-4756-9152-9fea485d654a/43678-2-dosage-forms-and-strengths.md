@@ -1,6 +1,7 @@
 # 3. DOSAGE FORMS AND STRENGTHS
 
-LANTUS solution for injection 100 Units per mL is available as:
+Injection: 100 units per mL of insulin glargine.
+LANTUS is available as:
 
-- -10 mL Vial (1000 Units/10 mL)
-- -3 mL SoloStar® disposable insulin device (300 Units/3 mL)
+- 10 mL vial
+- 3 mL SoloStar prefilled pen

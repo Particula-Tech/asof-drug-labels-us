@@ -1,400 +1,149 @@
-sanofi-aventis U.S. LLC
-
-Bridgewater, NJ 08807
-
-A SANOFI COMPANY
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 ©2015 sanofi-aventis U.S. LLC
 
-Patient Information LANTUS® SOLOSTAR® 3 mL disposable insulin delivery device (300 units per device) 100 units per mL (U-100) (insulin glargine [recombinant DNA origin] injection)
+LANTUS, TOUJEO and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
-- What is the most important information I should know about LANTUS?
-- What is LANTUS?
-- Who should NOT take LANTUS?
-- How should I use LANTUS?
-- Mixing with LANTUS
-- Instructions for Use
-- What can affect how much insulin I need?
-- What are the possible side effects of LANTUS and other insulins?
-- How should I store LANTUS?
-- General Information about LANTUS
+Instructions for Use LANTUS® (LAN-tus) (insulin glargine injection) for subcutaneous use 10 mL Vial (100 Units/mL, U-100)
 
-Read this "Patient Information" that comes with LANTUS (LAN-tus) before you start using it and each time you get a refill because there may be new information.
-This leaflet does not take the place of talking with your healthcare provider about your condition or treatment.
-If you have questions about LANTUS or about diabetes, talk with your healthcare provider.
+Read the Instructions for Use before you start taking LANTUS and each time you get a new LANTUS vial.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is the most important information I should know about LANTUS?
+Do not share your LANTUS syringes with other people even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
 
-- Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.
-  You may give other people a serious infection, or get a serious infection from them.
-- Do not change the insulin you are using without talking to your healthcare provider.
-  Any change of insulin should be made cautiously and only under medical supervision.
-  Changes in insulin strength, manufacturer, type (for example: Regular, NPH, analogs), species (beef, pork, beef-pork, human) or method of manufacture (recombinant DNA versus animal-source insulin) may need a change in the dose.
-  This dose change may be needed right away or later on during the first several weeks or months on the new insulin.
-  Doses of oral anti-diabetic medicines may also need to change, if your insulin is changed.
-- You must test your blood sugar levels while using an insulin, such as LANTUS.
-  Your healthcare provider will tell you how often you should test your blood sugar level, and what to do if it is high or low.
-- Do NOT dilute or mix LANTUS with any other insulin or solution.
-  It will not work and you may lose blood sugar control, which could be serious.
-- LANTUS comes as U-100 insulin and contains 100 units of LANTUS per milliliter (mL).
-  One milliliter of U-100 insulin contains 100 units of insulin.
-  (1 mL = 1 cc).
+Supplies needed to give your injection:
 
-What is Diabetes?
+- a LANTUS 10 mL vial
+- a U-100 insulin syringe and needle
+- 2 alcohol swabs
+- 1 sharps container for throwing away used needles and syringes.
+  See "Disposing of used needles and syringes" at the end of these instructions.
 
-- Your body needs insulin to turn sugar (glucose) into energy.
-  If your body does not make enough insulin, you need to take more insulin so you will not have too much sugar in your blood.
-- Insulin injections are important in keeping your diabetes under control.
-  But the way you live, your diet, careful checking of your blood sugar levels, exercise, and planned physical activity, all work with your insulin to help you control your diabetes.
+Preparing your LANTUS dose:
 
-What is LANTUS?
+- Wash your hands with soap and water or with alcohol.
+- Check the LANTUS label to make sure you are taking the right type of insulin.
+  This is especially important if you use more than 1 type of insulin.
+- Check the insulin to make sure it is clear and colorless.
+  Do not use LANTUS if it is colored or cloudy, or if you see particles in the solution.
+- Do not use LANTUS after the expiration date stamped on the label or 28 days after you first use it.
+- Always use a syringe that is marked for U-100 insulin.
+  If you use a syringe other than a U-100 insulin syringe, you may get the wrong dose of insulin.
+- Always use a new syringe or needle for each injection.
+  Do not reuse or share your syringes or needles with other people.
+  You may give other people a serious infection or get a serious infection from them.
 
-- LANTUS (insulin glargine [recombinant DNA origin]) is a long-acting insulin.
-  Because Lantus is made by recombinant DNA technology (rDNA) and is chemically different from the insulin made by the human body, it is called an insulin analog.
-  LANTUS is used to treat patients with diabetes for the control of high blood sugar.
-  It is used once a day to lower blood glucose.
-- LANTUS is a clear, colorless, sterile solution for injection under the skin (subcutaneously).
-- The active ingredient in LANTUS is insulin glargine.
-  The concentration of insulin glargine is 100 units per milliliter (mL), or U-100.
-  LANTUS also contains zinc, metacresol, glycerol, and water for injection as inactive ingredients.
-  Hydrochloric acid and/or sodium hydroxide may be added to adjust the pH.
-- You need a prescription to get LANTUS.
-  Always be sure you receive the right insulin from the pharmacy.
+Step 1:
 
-Who should NOT take LANTUS?
+If you are using a new vial, remove the protective cap.
+Do not remove the stopper.
 
-Do not take LANTUS if you are allergic to insulin glargine or any of the inactive ingredients in LANTUS.
-Check with your healthcare provider if you are not sure.
+Step 2:
 
-- Before starting LANTUS, tell your healthcare provider about all your medical conditions including if you:
-  - have liver or kidney problems.
-    Your dose may need to be adjusted.
-  - are pregnant or plan to become pregnant.
-    It is not known if LANTUS may harm your unborn baby.
-    It is very important to maintain control of your blood sugar levels during pregnancy.
-    Your healthcare provider will decide which insulin is best for you during your pregnancy.
-  - are breast-feeding or plan to breast-feed.
-    It is not known whether LANTUS passes into your milk.
-    Many medicines, including insulin, pass into human milk, and could affect your baby.
-    Talk to your healthcare provider about the best way to feed your baby.
-  - are taking any other medicines including prescription and non-prescription medicines, vitamins and herbal supplements.
-  - if you take any other medicines, especially ones commonly called TZDs (thiazolidinediones).
-  - if you have heart failure or other heart problems.
-    If you have heart failure, it may get worse while you take TZDs with LANTUS.
+Wipe the top of the vial with an alcohol swab.
+You do not have to shake the vial of LANTUS before use.
 
-How should I use LANTUS?
+Step 3:
 
-See the "Instructions for SoloStar Use" section for additional information.
+Draw air into the syringe equal to your insulin dose.
+Put the needle through the rubber top of the vial and push the plunger to inject the air into the vial.
 
-- Follow the instructions given by your healthcare provider about the type or types of insulin you are using.
-  Do not make any changes with your insulin unless you have talked to your healthcare provider.
-  Your insulin needs may change because of illness, stress, other medicines, or changes in diet or activity level.
-  Talk to your healthcare provider about how to adjust your insulin dose.
-- You may take LANTUS at any time during the day but you must take it at the same time every day.
-- Only use LANTUS that is clear and colorless.
-  If your LANTUS is cloudy or slightly colored, return it to your pharmacy for a replacement.
-- Follow your healthcare provider's instructions for testing your blood sugar.
-- Inject LANTUS under your skin (subcutaneously) in your upper arm, abdomen (stomach area), or thigh (upper leg).
-  Never inject it into a vein or muscle.
-- Change (rotate) injection sites within the same body area.
-- Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.
-  You may give other people a serious infection, or get a serious infection from them.
-- Do not reuse needles.
-  Disposable needles should be used only once.
-  Used needle should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
-  Such containers should be sealed and disposed of properly.
+Step 4:
 
-Mixing with LANTUS
+Leave the syringe in the vial and turn both upside down.
+Hold the syringe and vial firmly in one hand.
+Make sure the tip of the needle is in the insulin.
+With your free hand, pull the plunger to withdraw the correct dose into the syringe.
 
-- Do NOT dilute or mix LANTUS with any other insulin or solution.
-  It will not work as intended and you may lose blood sugar control, which could be serious.
+Step 5:
 
-Instructions for SoloStar Use
+Before you take the needle out of the vial, check the syringe for air bubbles.
+If bubbles are in the syringe, hold the syringe straight up and tap the side of the syringe until the bubbles float to the top.
+Push the bubbles out with the plunger and draw insulin back in until you have the correct dose.
 
-It is important to read, understand, and follow the step-by-step instructions in the "SoloStar Instruction Leaflet" before using SoloStar disposable insulin Pen.
-Failure to follow the instructions may result in getting too much or too little insulin.
-If you have lost your leaflet or have a question, go to www.lantus.com or call 1-800-633-1610.
+Step 6:
 
-The following general notes should be taken into consideration before injecting LANTUS:
+Remove the needle from the vial.
+Do not let the needle touch anything.
+You are now ready to inject.
 
-- Always wash your hands before handling the SoloStar disposable insulin Pen.
-- Always attach a new needle before use.
-  BD Ultra-Fine™ needles† are compatible with SoloStar.
-  These are sold separately and are manufactured by BD.
-- Always perform the safety test before use.
-- Check the insulin solution in the pen to make sure it is clear, colorless, and free of particles.
-  If it is not, throw it away.
-- Do NOT mix or dilute LANTUS with any other insulin or solution.
-  LANTUS will not work if it is mixed or diluted and you may lose blood sugar control, which could be serious.
-- Decide on an injection area - either upper arm, thigh, or abdomen.
-  Do not use the same injection site as your last injection.
-- After injecting LANTUS, leave the needle in the skin for an additional 10 seconds.
-  Then pull the needle straight out.
-  Gently press on the spot where you injected yourself for a few seconds.
+Giving your LANTUS injection:
+
+- Inject your insulin exactly as your healthcare provider has shown you.
+- Change (rotate) your injection site for each injection.
+
+Step 7:
+
+Choosing your injection site: LANTUS is injected under the skin (subcutaneously) of your upper arm, thigh, or stomach area (abdomen).
+Wipe the skin with an alcohol swab to clean the injection site.
+Let the injection site dry before you inject your dose.
+
+Step 8:
+
+- Pinch the skin.
+- Insert the needle in the way your healthcare provider showed you.
+- Release the skin.
+- Slowly push in the plunger of the syringe all the way, making sure you have injected all the insulin.
+- Leave the needle in the skin for about 10 seconds.
+
+Step 9:
+
+- Pull the needle straight out of your skin.
+- Gently press the injection site for several seconds.
   Do not rub the area.
-- Do not drop the SoloStar disposable insulin Pen.
+- Do not recap the used needle.
+  Recapping the needle can lead to a needle stick injury.
 
-If your blood glucose reading is high or low, tell your healthcare provider so the dose can be adjusted.
+Disposing of used needles and syringes:
 
-What can affect how much insulin I need?
-
-Illness.
-Illness may change how much insulin you need.
-It is a good idea to think ahead and make a "sick day" plan with your healthcare provider in advance so you will be ready when this happens.
-Be sure to test your blood sugar more often and call your healthcare provider if you are sick.
-
-Medicines.
-Many medicines can affect your insulin needs.
-Other medicines, including prescription and non-prescription medicines, vitamins, and herbal supplements, can change the way insulin works.
-You may need a different dose of insulin when you are taking certain other medicines.
-Know all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-You may want to keep a list of the medicines you take.
-You can show this list to your healthcare provider and pharmacists anytime you get a new medicine or refill.
-Your healthcare provider will tell you if your insulin dose needs to be changed.
-
-Meals.
-The amount of food you eat can affect your insulin needs.
-If you eat less food, skip meals, or eat more food than usual, you may need a different dose of insulin.
-Talk to your healthcare provider if you change your diet so that you know how to adjust your LANTUS and other insulin doses.
-
-Alcohol.
-Alcohol, including beer and wine, may affect the way LANTUS works and affect your blood sugar levels.
-Talk to your healthcare provider about drinking alcohol.
-
-Exercise or Activity level.
-Exercise or activity level may change the way your body uses insulin.
-Check with your healthcare provider before you start an exercise program because your dose may need to be changed.
-
-Travel.
-If you travel across time zones, talk with your healthcare provider about how to time your injections.
-When you travel, wear your medical alert identification.
-Take extra insulin and supplies with you.
-
-Pregnancy or nursing.
-The effects of LANTUS on an unborn child or on a nursing baby are unknown.
-Therefore, tell your healthcare provider if you are planning to have a baby, are pregnant, or nursing a baby.
-Good control of diabetes is especially important during pregnancy and nursing.
-
-What are the possible side effects of LANTUS and other insulins?
-
-Insulins, including LANTUS, can cause hypoglycemia (low blood sugar), hyperglycemia (high blood sugar), allergy, and skin reactions.
-
-Hypoglycemia (low blood sugar):
-
-Hypoglycemia is often called an "insulin reaction" or "low blood sugar".
-It may happen when you do not have enough sugar in your blood.
-Common causes of hypoglycemia are illness, emotional or physical stress, too much insulin, too little food or missed meals, and too much exercise or activity.
-
-Early warning signs of hypoglycemia may be different, less noticeable or not noticeable at all in some people.
-That is why it is important to check your blood sugar as you have been advised by your healthcare provider.
-
-Hypoglycemia can happen with:
-
-- Taking too much insulin.
-  This can happen when too much insulin is injected.
-- Not enough carbohydrate (sugar or starch) intake.
-  This can happen if a meal or snack is missed or delayed.
-- Vomiting or diarrhea that decreases the amount of sugar absorbed by your body.
-- Intake of alcohol.
-- Medicines that affect insulin.
-  Be sure to discuss all your medicines with your healthcare provider.
-  Do not start any new medicines until you know how they may affect your insulin dose.
-- Medical conditions that can affect your blood sugar levels or insulin.
-  These conditions include diseases of the adrenal glands, the pituitary, the thyroid gland, the liver, and the kidney.
-- Too much glucose use by the body.
-  This can happen if you exercise too much or have a fever.
-- Injecting insulin the wrong way or in the wrong injection area.
-
-Hypoglycemia can be mild to severe.
-Its onset may be rapid.
-Some patients have few or no warning symptoms, including:
-
-- patients with diabetes for a long time
-- patients with diabetic neuropathy (nerve problems)
-- or patients using certain medicines for high blood pressure or heart problems.
-
-Hypoglycemia may reduce your ability to drive a car or use mechanical equipment and you may risk injury to yourself or others.
-
-Severe hypoglycemia can be dangerous and can cause temporary or permanent harm to your heart or brain.
-It may cause unconsciousness, seizures, or death.
-
-Symptoms of hypoglycemia may include:
-
-- anxiety, irritability, restlessness, trouble concentrating, personality changes, mood changes, or other abnormal behavior
-- tingling in your hands, feet, lips, or tongue
-- dizziness, light-headedness, or drowsiness
-- nightmares or trouble sleeping
-- headache
-- blurred vision
-- slurred speech
-- palpitations (fast heart beat)
-- sweating
-- tremor (shaking)
-- unsteady gait (walking).
-
-If you have hypoglycemia often or it is hard for you to know if you have the symptoms of hypoglycemia, talk to your healthcare provider.
-
-Mild to moderate hypoglycemia is treated by eating or drinking carbohydrates such as fruit juice, raisins, sugar candies, milk or glucose tablets.
-Talk to your healthcare provider about the amount of carbohydrates you should eat to treat mild to moderate hypoglycemia.
-
-Severe hypoglycemia may require the help of another person or emergency medical people.
-A person with hypoglycemia who is unable to take foods or liquids with sugar by mouth, or is unconscious needs medical help fast and will need treatment with a glucagon injection or glucose given intravenously (IV).
-Without medical help right away, serious reactions or even death could happen.
-
-Hyperglycemia (high blood sugar):
-
-Hyperglycemia happens when you have too much sugar in your blood.
-Usually, it means there is not enough insulin to break down the food you eat into energy your body can use.
-Hyperglycemia can be caused by a fever, an infection, stress, eating more than you should, taking less insulin than prescribed, or it can mean your diabetes is getting worse.
-
-Hyperglycemia can happen with:
-
-- Insufficient (too little) insulin.
-  This can happen from:
-  - - injecting too little or no insulin
-  - - incorrect storage (freezing, excessive heat)
-  - - use after the expiration date.
-- Too much carbohydrate intake.
-  This can happen if you eat larger meals, eat more often, or increase the amount of carbohydrate in your meals.
-- Medicines that affect insulin.
-  Be sure to discuss all your medicines with your healthcare provider.
-  Do not start any new medicines until you know how they may affect your insulin dose.
-- Medical conditions that affect insulin.
-  These medical conditions include fevers, infections, heart attacks, and stress.
-- Injecting insulin the wrong way or in the wrong injection area.
-
-Testing your blood or urine often will let you know if you have hyperglycemia.
-If your tests are often high, tell your healthcare provider so your dose of insulin can be changed.
-
-Hyperglycemia can be mild or severe.
-It can progress to diabetic ketoacidosis (DKA) or very high glucose levels (hyperosmolar coma) and result in unconsciousness and death.
-
-Although diabetic ketoacidosis occurs most often in patients with type 1 diabetes,it can also happen in patients with type 2 diabetes who become very sick.
-Because some patients get few symptoms of hyperglycemia, it is important to check your blood sugar/urine sugar and ketones regularly.
-
-Symptoms of hyperglycemia include:
-
-- confusion or drowsiness
-- increased thirst
-- decreased appetite, nausea, or vomiting
-- rapid heart rate
-- increased urination and dehydration (too little fluid in your body).
-
-Symptoms of DKA also include:
-
-- fruity smelling breath
-- fast, deep breathing
-- stomach area (abdominal) pain.
-
-Severe or continuing hyperglycemia or DKA needs evaluation and treatment right away by your healthcare provider.
-
-Do not use LANTUS to treat diabetic ketoacidosis.
-
-Other possible side effects of LANTUS include:
-
-Serious allergic reactions:
-
-Some times severe, life-threatening allergic reactions can happen with insulin.
-If you think you are having a severe allergic reaction, get medical help right away.
-Signs of insulin allergy include:
-
-- rash all over your body
-- shortness of breath
-- wheezing (trouble breathing)
-- fast pulse
-- sweating
-- low blood pressure.
-
-Reactions at the injection site:
-
-Injecting insulin can cause the following reactions on the skin at the injection site:
-
-- little depression in the skin (lipoatrophy)
-- skin thickening (lipohypertrophy)
-- red, swelling, itchy skin (injection site reaction).
-
-You can reduce the chance of getting an injection site reaction if you change (rotate) the injection site each time.
-An injection site reaction should clear up in a few days or a few weeks.
-If injection site reactions do not go away or keep happening call your healthcare provider.
-
-Swelling of your hands and feet (edema)
-
-Weight gain
-
-Heart Failure.
-Taking certain diabetes pills called thiazolidinediones or "TZDs" with LANTUS may cause heart failure in some people.
-This can happen even if you have never had heart failure or heart problems before.
-If you already have heart failure it may get worse while you take TZDs with LANTUS.
-Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS.
-Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
-
-- shortness of breath
-- swelling of your ankles or feet
-- sudden weight gain
-
-During treatment with TZDs and LANTUS, the TZD dose may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
-
-Tell your healthcare provider if you have any side effects that bother you.
-
-These are not all the side effects of LANTUS.
-Ask your healthcare provider or pharmacist for more information.
+- Put your used needles and syringes in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and syringes in your household trash.
+- If you do not have a FDA-cleared sharps container, you may use a household container that is:
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
 How should I store LANTUS?
 
-- Unopened SoloStar:Store new unopened SoloStar disposable insulin pen in a refrigerator (not the freezer) between 36°F to 46°F (2°C to 8°C).
-  Do not freeze LANTUS.
-  Keep LANTUS out of direct heat and light.
-  If a disposable insulin pen has been frozen or overheated, throw it away.
-- Open (In-Use) SoloStar:Once SoloStar is opened (in-use), SoloStar should NOT be refrigerated but should be kept at room temperature (below 86°F [30°C]) away from direct heat and light.
-  The opened (in-use) SoloStar kept at room temperature must be discarded after 28 days.
+- Store unused LANTUS vials in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Store in-use (opened) LANTUS vials in a refrigerator or at room temperature below 86°F (30°C).
+- Do not freeze LANTUS.
+- Keep LANTUS out of direct heat and light.
+- If a vial has been frozen or overheated, throw it away.
+- The LANTUS vials you are using should be thrown away after 28 days, even if it still has insulin left in it.
 
-These storage conditions are summarized in the following table:
+This Instructions for Use have been approved by the U.S. Food and Drug Administration.
+Revised: July/2015
 
-|  | Not in-use (unopened) Refrigerated | Not in-use (unopened) Room Temperature | In-use (opened) Room Temperature (Do not refrigerate) |
-| --- | --- | --- | --- |
-| 3 mL SoloStar disposable insulin device | Until expiration date | 28 days | 28 days |
+| Patient Information LANTUS® (LAN-tus) (insulin glargine injection) for subcutaneous use, 100 Units/mL (U-100) |
+| --- |
+| Do not share your LANTUS SoloStar® pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.What is LANTUS?LANTUS is a long-acting man-made insulin used to control high blood sugar in adults with diabetes mellitus. LANTUS is not for use to treat diabetic ketoacidosis.It is not known if LANTUS is safe and effective in children less than 6 years of age with type 1 diabetes.It is not known if LANTUS is safe and effective in children with type 2 diabetes. |
+| Who should not use LANTUS?Do not use LANTUS if you: are having an episode of low blood sugar (hypoglycemia)have an allergy to insulin glargine or any of the ingredients in LANTUS. See the end of this Patient Information leaflet for a complete list of ingredients in LANTUS. |
+| What should I tell my healthcare provider before using LANTUS?Before using LANTUS, tell your healthcare provider about all your medical conditions including if you: have liver or kidney problemstake other medicines, especially ones called TZDs (thiazolidinediones)have heart failure or other heart problems. If you have heart failure, it may get worse while you take TZDs with LANTUS.are pregnant, planning to become pregnant, or are breastfeeding. It is not known if LANTUS may harm your unborn baby or breastfeeding baby. Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.Before you start using LANTUS, talk to your healthcare provider about low blood sugar and how to manage it. |
+| How should I use LANTUS? Read the detailed Instructions for Use that come with your LANTUS SoloStar disposable prefilled pen.Use LANTUS exactly as your healthcare provider tells you to. Your healthcare provider should tell you how much LANTUS to use and when to use it.Know the amount of LANTUS you use. Do not change the amount of LANTUS you use unless your healthcare provider tells you to.Check your insulin label each time you give your injection to make sure you are using the correct insulin.LANTUS comes in a SoloStar disposable prefilled pen that you must use to give your LANTUS. The dose counter on your pen shows your dose of LANTUS. Do not make any dose changes unless your healthcare provider tells you to.Do not use a syringe to remove LANTUS from your SoloStar disposable prefilled pen.Do not re-use needles. Always use a new needle for each injection. Re-use of needles increases your risk of having blocked needles, which may cause you to get the wrong dose of LANTUS. Using a new needle for each injection lowers your risk of getting an infection. If your needle is blocked, follow the instructions in Step 3 of the Instructions for Use.You may take LANTUS at any time during the day but you must take it at the same time every day.LANTUS is injected under your skin (subcutaneously). Do not use LANTUS in an insulin pump or inject LANTUS into your vein (intravenously).Change (rotate) injection your sites within area you chose with each dose. Do not use the exact spot for each injectionDo not mix LANTUS with any other type of insulin or liquid medicine.Check your blood sugar levels. Ask your healthcare provider what your blood sugar should be and when you should check your blood sugar levels. Keep LANTUS and all medicines out of the reach of children. |
+| Your dose of LANTUS may need to change because of: a change in level of physical activity or exercise, weight gain or loss, increased stress, illness, change in diet, or because of the medicines you take. |
+| What should I avoid while using LANTUS?While using LANTUS do not: drive or operate heavy machinery, until you know how LANTUS affects youdrink alcohol or use over-the-counter medicines that contain alcohol |
+| What are the possible side effects of LANTUS and other insulins?LANTUS may cause serious side effects that can lead to death, including: low blood sugar (hypoglycemia). Signs and symptoms that may indicate low blood sugar include: dizziness or light-headedness, sweating, confusion, headache, blurred vision, slurred speech, shakiness, fast heartbeat, anxiety, irritability or mood change, hunger severe allergic reaction (whole body reaction). Get medical help right away if you have any of these signs or symptoms of a severe allergic reaction: a rash over your whole body, trouble breathing, a fast heartbeat, or sweating low potassium in your blood (hypokalemia).Heart failure. Taking certain diabetes pills called TZDs (thiazolidinediones) with LANTUS may cause heart failure in some people. This can happen even if you have never had heart failure or heart problems before. If you already have heart failure it may get worse while you take TZDs with LANTUS. Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS. Tell your healthcare provider if you have any new or worse symptoms of heart failure including: shortness of breath, swelling of your ankles or feet, sudden weight gain Treatment with TZDs and LANTUS may need to be changed or stopped by your healthcare provider if you have new or worse heart failure. Get emergency medical help if you have: trouble breathing; shortness of breath; fast heartbeat; swelling of your face, tongue, or throat; sweating; extreme drowsiness; dizziness; confusion. The most common side effects of LANTUS include: low blood sugar (hypoglycemia); weight gain; allergic reactions, including reactions at your injection site; skin thickening or pits at the injection site (lipodystrophy). These are not all the possible side effects of LANTUS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| General information about the safe and effective use of LANTUS.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use LANTUS for a condition for which it was not prescribed. It may harm them. This Patient Information leaflet summarizes the most important information about LANTUS. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about LANTUS that is written for healthcare professionals. For more information about LANTUS call 1-800-633-1610 or go to the website www.lantus.com. |
+| What are the ingredients in LANTUS? Active ingredient: insulin glargine3 ml SoloStar prefilled pen inactive ingredients: zinc, m-cresol, glycerol and water for injection Hydrocholoric acid and sodium hydroxide may be added to adjust the pH. |
+| Manufactured By: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 |
 
-- Do not use SoloStar with LANTUS after the expiration date stamped on the label.
-- Do not use LANTUS if it is cloudy, colored, or if you see particles.
+This Patient Information has been approved by the U.S. Food and Drug Administration Approved: July/2015
 
-General Information about LANTUS
-
-- Use LANTUS only to treat your diabetes.
-  Do not give or share LANTUS with another person, even if they have diabetes also.
-  It may harm them.
-- This leaflet summarizes the most important information about LANTUS.
-  If you would like more information, talk with your healthcare provider.
-  You can ask your healthcare provider or pharmacist for information about LANTUS that is written for healthcare professionals.
-  For more information about LANTUS call 1-800-633-1610 or go to website www.lantus.com.
-
-ADDITIONAL INFORMATION
-
-DIABETES FORECAST is a national magazine designed especially for patients with diabetes and their families and is available by subscription from the American Diabetes Association (ADA), P.O.
-Box 363, Mt.
-Morris, IL 61054-0363, 1-800-DIABETES (1-800-342-2383).
-You may also visit the ADA website at www.diabetes.org.
-
-Another publication, COUNTDOWN, is available from the Juvenile Diabetes Research Foundation International (JDRF), 120 Wall Street, 19th Floor, New York, New York 10005, 1-800-JDF-CURE (1-800-533-2873).
-You may also visit the JDRF website at www.jdf.org.
-
-To get more information about diabetes, check with your healthcare professional or diabetes educator or visit www.DiabetesWatch.com.
-
-Additional information about LANTUS can be obtained by calling 1-800-633-1610 or by visiting www.lantus.com.
-
-Rev.
-February 2015
-
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
-
-©2015sanofi-aventis U.S. LLC
-
-Lantus® and SoloStar® are a registered trademark of sanofi-aventis U.S. LLC †The brands listed are the trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC
-
-LANTUS® SOLOSTAR® (insulin glargine [rDNA origin] injection)
+LANTUS® SOLOSTAR® (insulin glargine injection)
 
 Instruction Leaflet
 
-Your healthcare professional has decided that SoloStar® is right for you.
+Your healthcare professional has decided that SoloStar is right for you.
 Talk with your healthcare professional about proper injection technique before using SoloStar.
 
 Read these instructions carefully before using your SoloStar.
@@ -422,7 +171,7 @@ Important information for use of SoloStar:
   You may give other people a serious infection, or get a serious infection from them.
 - Do not reuse needles.
   Always attach a new needle before each use.
-  BD Ultra-Fine® needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC are compatible with SoloStar.
+- BD Ultra-Fine® needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC are compatible with SoloStar.
   These are sold separately and are manufactured by BD.
   Contact your healthcare professional for further information.
 - Always perform the safety test before each injection.
@@ -435,7 +184,7 @@ Step 1.
 Check the insulin
 
 - A.Check the label on your SoloStar to make sure you have the correct insulin.
-  The Lantus® SoloStar® is grey with a purple injection button.
+  The Lantus SoloStar is grey with a purple injection button.
 - B.Take off the pen cap.
 - C.Check the appearance of your insulin.
   Lantus is a clear insulin.
@@ -534,13 +283,14 @@ Cold insulin is more painful to inject.
 
 Keep SoloStar out of the reach and sight of children.
 
-Keep your SoloStar in cool storage (36°F - 46°F [2°C – 8°C]) until first use.
+Keep your SoloStar in cool storage (36°F – 46°F [2°C – 8°C]) until first use.
 Do not allow it to freeze.
 Do not put it next to the freezer compartment of your refrigerator, or next to a freezer pack.
 
 Once you take your SoloStar out of cool storage, for use or as a spare, you can use it for up to 28 days.
 During this time it can be safely kept at room temperature up to 86°F (30°C).
 Do not use it after this time.
+SoloStar in use must not be stored in a refrigerator.
 
 Do not use SoloStar after the expiration date printed on the label of the pen or on the carton.
 
@@ -561,10 +311,8 @@ It should be handled with care.
 Avoid situations where SoloStar might be damaged.
 If you are concerned that your SoloStar may be damaged, use a new one.
 
-SoloStar in use must not be stored in a refrigerator.
-
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Date of revision: February 2015
+Date of revision: July 2015
 
 ©2015 sanofi-aventis U.S. LLC

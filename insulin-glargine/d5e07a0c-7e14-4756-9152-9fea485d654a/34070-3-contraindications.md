@@ -2,4 +2,5 @@
 
 LANTUS is contraindicated
 
-- In patients with hypersensitivity to LANTUS or one of its excipients [See Warnings and Precautions (5.4)].
+- During episodes of hypoglycemia [see Warnings and Precautions (5.3)].
+- In patients with hypersensitivity to LANTUS or one of its excipients [see Warnings and Precautions (5.5)].

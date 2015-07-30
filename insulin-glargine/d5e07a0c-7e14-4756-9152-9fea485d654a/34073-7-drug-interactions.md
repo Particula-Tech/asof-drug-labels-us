@@ -1,12 +1,19 @@
 # 7. DRUG INTERACTIONS
 
-A number of drugs affect glucose metabolism and may require insulin dose adjustment and particularly close monitoring.
+Table 8 includes clinically significant drug interactions with LANTUS.
 
-The following are examples of drugs that may increase the blood-glucose-lowering effect of insulins including LANTUS and, therefore, increase the susceptibility to hypoglycemia: oral anti-diabetic products, pramlintide, angiotensin converting enzyme (ACE) inhibitors, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, propoxyphene, pentoxifylline, salicylates, somatostatin analogs, and sulfonamide antibiotics.
+Table 8: Clinically Significant Drug Interactions with LANTUS
 
-The following are examples of drugs that may reduce the blood-glucose-lowering effect of insulins including LANTUS: corticosteroids, niacin, danazol, diuretics, sympathomimetic agents (e.g., epinephrine, albuterol, terbutaline), glucagon, isoniazid, phenothiazine derivatives, somatropin, thyroid hormones, estrogens, progestogens (e.g., in oral contraceptives), protease inhibitors and atypical antipsychotic medications (e.g. olanzapine and clozapine).
-
-Beta-blockers, clonidine, lithium salts, and alcohol may either potentiate or weaken the blood-glucose-lowering effect of insulin.
-Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
-
-The signs of hypoglycemia may be reduced or absent in patients taking sympatholytic drugs such as beta-blockers, clonidine, guanethidine, and reserpine.
+| Drugs That May Increase the Risk of Hypoglycemia |  |
+| --- | --- |
+| Drugs: | Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics. |
+| Intervention: | Dose reductions and increased frequency of glucose monitoring may be required when LANTUS is co-administered with these drugs. |
+| Drugs That May Decrease the Blood Glucose Lowering Effect of LANTUS |  |
+| Drugs: | Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones |
+| Intervention: | Dose increases and increased frequency of glucose monitoring may be required when LANTUS is co-administered with these drugs. |
+| Drugs That May Increase or Decrease the Blood Glucose Lowering Effect of LANTUS |  |
+| Drugs: | Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. |
+| Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when LANTUS is co-administered with these drugs. |
+| Drugs That May Blunt Signs and Symptoms of Hypoglycemia |  |
+| Drugs: | beta-blockers, clonidine, guanethidine, and reserpine |
+| Intervention: | Increased frequency of glucose monitoring may be required when LANTUS is co-administered with these drugs. |

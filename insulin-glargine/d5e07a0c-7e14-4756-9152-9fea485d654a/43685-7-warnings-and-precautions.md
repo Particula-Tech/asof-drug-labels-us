@@ -1,77 +1,59 @@
 # 5. WARNINGS AND PRECAUTIONS
 
-## 5.1 Never share a LANTUS SoloStar pen or syringe or needle between patients
+## 5.1 Never Share a LANTUS SoloStar Prefilled Pen, Syringe, or Needle between Patients
 
-LANTUS SoloStar pens must never be shared between patients, even if the needle is changed.
+LANTUS SoloStar prefilled pens must never be shared between patients, even if the needle is changed.
 Patients using LANTUS vials must never reuse or share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
-## 5.2 Dosage adjustment and monitoring
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Glucose monitoring is essential for all patients receiving insulin therapy.
-Changes to an insulin regimen should be made cautiously and only under medical supervision.
+Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+For patients with type 2 diabetes, dosage adjustments of concomitant oral and anti-diabetic products may be needed.
 
-Changes in insulin strength, manufacturer, type, or method of administration may result in the need for a change in insulin dose or an adjustment in concomitant oral anti-diabetic treatment.
+## 5.3 Hypoglycemia
 
-As with all insulin preparations, the time course of action for LANTUS may vary in different individuals or at different times in the same individual and is dependent on many conditions, including the local blood supply, local temperature, and physical activity.
+Hypoglycemia is the most common adverse reaction associated with insulin, including LANTUS.
+Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
-## 5.3 Administration
+Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.
 
-Do not administer LANTUS intravenously or via an insulin pump.
-The intended duration of activity of LANTUS is dependent on injection into subcutaneous tissue
+Risk Factors for Hypoglycemia
 
-Intravenous administration of the usual subcutaneous dose could result in severe hypoglycemia [see Warnings and Precautions (5.4)].
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin preparations, the glucose lowering effect time course of LANTUS may vary in different individuals or at different times in the same individual and depends on may conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [See Use in Specific Populations (8.6, 8.7)].
 
-Do not dilute or mix LANTUS with any other insulin or solution.
-If LANTUS is diluted or mixed, the solution may become cloudy, and the pharmacokinetic or pharmacodynamic profile (e.g., onset of action, time to peak effect) of LANTUS and the mixed insulin may be altered in an unpredictable manner.
-When LANTUS and regular human insulin were mixed immediately before injection in dogs, a delayed onset of action and a delayed time to maximum effect for regular human insulin was observed.
-The total bioavailability of the mixture was also slightly decreased compared to separate injections of LANTUS and regular human insulin.
-The relevance of these observations in dogs to humans is unknown.
+Risk Mitigation Strategies for Hypoglycemia
 
-## 5.4 Hypoglycemia
+Patients and caregivers must be educated to recognize and manage hypoglycemia.
+Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
+In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
 
-Hypoglycemia is the most common adverse reaction of insulin, including LANTUS.
-The risk of hypoglycemia increases with intensive glycemic control.
-Patients must be educated to recognize and manage hypoglycemia.
-Severe hypoglycemia can lead to unconsciousness or convulsions and may result in temporary or permanent impairment of brain function or death.
-Severe hypoglycemia requiring the assistance of another person or parenteral glucose infusion or glucagon administration has been observed in clinical trials with insulin, including trials with LANTUS.
+The long-acting effect of LANTUS may delay recovery from hypoglycemia.
 
-The timing of hypoglycemia usually reflects the time-action profile of the administered insulin formulations.
-Other factors such as changes in food intake (e.g., amount of food or timing of meals), exercise, and concomitant medications may also alter the risk of hypoglycemia [See Drug Interactions (7)].
+## 5.4 Medication Errors
 
-The prolonged effect of subcutaneous LANTUS may delay recovery from hypoglycemia.
-Patients being switched from twice daily NPH insulin to once-daily LANTUS should have their initial LANTUS dose reduced by 20% from the previous total daily NPH dose to reduce the risk of hypoglycemia [see Dosage and Administration (2.3)].
+Accidental mix-ups among insulin products, particularly between long-acting insulins and rapid-acting insulins, have been reported.
+To avoid medication errors between LANTUS and other insulins, instruct patients to always check the insulin label before each injection [see Adverse Reactions (6.3)].
 
-As with all insulins, use caution in patients with hypoglycemia unawareness and in patients who may be predisposed to hypoglycemia (e.g., the pediatric population and patients who fast or have erratic food intake).
-The patient's ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
-
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as longstanding diabetes, diabetic neuropathy, use of medications such as beta-blockers, or intensified glycemic control.
-These situations may result in severe hypoglycemia (and, possibly, loss of consciousness) prior to the patient's awareness of hypoglycemia.
-
-## 5.5 Hypersensitivity and allergic reactions
+## 5.5 Hypersensitivity and Allergic Reactions
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including LANTUS.
+If hypersensitivity reactions occur, discontinue LANTUS; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6.1)].
+LANTUS is contraindicated in patients who have had hypersensitivity reactions to insulin glargine or one of the excipients [see Contraindications (4)].
 
-## 5.6 Renal impairment
+## 5.6 Hypokalemia
 
-Due to its long duration of action, Lantus is not recommended during periods of rapidly declining renal function because of the risk for prolonged hypoglycemia.
+All insulin products, including LANTUS, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
+Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
-Although studies have not been performed in patients with diabetes and renal impairment, a reduction in the LANTUS dose may be required in patients with renal impairment because of reduced insulin metabolism, similar to observations found with other insulins.
-[See Clinical Pharmacology (12.3)].
-
-## 5.7 Hepatic impairment
-
-Due to its long duration of action, Lantus is not recommended during periods of rapidly declining hepatic function because of the risk for prolonged hypoglycemia.
-
-Although studies have not been performed in patients with diabetes and hepatic impairment, a reduction in the LANTUS dose may be required in patients with hepatic impairment because of reduced capacity for gluconeogenesis and reduced insulin metabolism, similar to observations found with other insulins.
-[See Clinical Pharmacology (12.3)].
-
-## 5.8 Drug interactions
-
-Some medications may alter insulin requirements and subsequently increase the risk for hypoglycemia or hyperglycemia [See Drug Interactions (7)].
-
-## 5.9 Fluid retention and heart failure with concomitant use of PPAR-gamma agonists
+## 5.7 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.

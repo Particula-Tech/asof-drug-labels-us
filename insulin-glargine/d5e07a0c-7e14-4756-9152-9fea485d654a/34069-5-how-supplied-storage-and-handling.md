@@ -1,13 +1,13 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How supplied
+## 16.1 How Supplied
 
-LANTUS solution for injection 100 units per mL (U-100) is available as:
+LANTUS (insulin glargine injection) is supplied as a solution containing 100 units per mL (U-100) of insulin glargine and is available in:
 
 | Dosage Unit/Strength | Package size | NDC # 0088 |
 | --- | --- | --- |
 | 10 mL vials 100 Units/mL | Pack of 1 | 2220-33 |
-| 3 mL SoloStar® disposable insulin device 100 Units/mL | package of 5 | 2219-05 |
+| 3 mL SoloStar prefilled pen 100 Units/mL | package of 5 | 2219-05 |
 
 Needles are not included in the packs.
 
@@ -17,36 +17,13 @@ BD Ultra-Fine™ needlesThe brands listed are the registered trademarks of their
 
 LANTUS should not be stored in the freezer and should not be allowed to freeze.
 Discard LANTUS if it has been frozen.
+Protect LANTUS from direct heat and light.
 
-Unopened Vial/ SoloStar disposable insulin device:
+Storage conditions are summarized in the following table:
 
-Unopened LANTUS vials, cartridge systems and SoloStar device should be stored in a refrigerator, 36°F – 46°F (2°C – 8°C).
-Discard after the expiration date.
-
-Open (In-Use) Vial:
-
-Vials must be discarded 28 days after being opened.
-If refrigeration is not possible, the open vial can be kept unrefrigerated for up to 28 days away from direct heat and light, as long as the temperature is not greater than 86°F (30°C).
-
-Open (In-Use) SoloStar disposable insulin device:
-
-The opened (in-use) SoloStar should NOT be refrigerated but should be kept at room temperature (below 86°F [30°C]) away from direct heat and light.
-The opened (in-use) SoloStar device must be discarded 28 days after being opened.
-
-These storage conditions are summarized in the following table:
-
-|  | Not in-use (unopened) Refrigerated | Not in-use (unopened) Room Temperature | In-use (opened) (See Temperature Below) |
+|  | (36°F – 46°F [2°C – 8°C]) | (below 86°F [30°C]) | (See Temperature Below) |
 | --- | --- | --- | --- |
+|  | Not in-use (unopened) | Not in-use (unopened) | In-use (opened) |
+|  | Refrigerated | Room Temperature |  |
 | 10 mL Vial | Until expiration date | 28 days | 28 days Refrigerated or room temperature |
-| 3 mL SoloStar® disposable insulin device | Until expiration date | 28 days | 28 days Room temperature only (Do not refrigerate) |
-
-## 16.3 Preparation and handling
-
-Parenteral drug products should be inspected visually prior to administration whenever the solution and the container permit.
-LANTUS must only be used if the solution is clear and colorless with no particles visible.
-
-Mixing and diluting: LANTUS must NOT be diluted or mixed with any other insulin or solution [See Warnings and Precautions (5.3)].
-
-Vial: The syringes must not contain any other medicinal product or residue.
-
-SoloStar: If SoloStar disposable insulin device, malfunctions, LANTUS may be drawn from the cartridge system or from SoloStar into a U-100 syringe and injected.
+| 3 mL SoloStar prefilled pen | Until expiration date | 28 days | 28 days Room temperature only (Do not refrigerate) |
