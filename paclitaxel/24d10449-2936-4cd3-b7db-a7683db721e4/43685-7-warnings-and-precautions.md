@@ -38,7 +38,7 @@ After ruling out infectious etiology and upon making a diagnosis of pneumonitis,
 ## 5.5 Hypersensitivity
 
 Severe and sometimes fatal hypersensitivity reactions, including anaphylactic reactions, have been reported.
-Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be re-challenged with this drug.
+Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be rechallenged with this drug.
 
 ## 5.6 Hepatic Impairment
 

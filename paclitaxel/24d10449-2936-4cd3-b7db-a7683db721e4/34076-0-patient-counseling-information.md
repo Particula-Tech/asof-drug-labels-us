@@ -17,10 +17,10 @@ See FDA-approved patient labeling
 
 Manufactured for: Celgene Corporation Summit, NJ 07901
 
-ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2014 Abraxis BioScience, LLC.
+ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2015 Abraxis BioScience, LLC.
 All Rights Reserved.
 Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation.
 
 U.S. Patent Numbers: See www.celgene.com.
 
-ABRPI.008/PPI.008 12/14
+ABRPI.009/PPI.009 07/15

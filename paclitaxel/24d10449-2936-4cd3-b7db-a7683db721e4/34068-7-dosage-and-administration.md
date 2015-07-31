@@ -130,18 +130,19 @@ AVOID ERRORS, READ ENTIRE PREPARATION INSTRUCTIONS PRIOR TO RECONSTITUTION.
 
 Each mL of the reconstituted formulation will contain 5 mg/mL paclitaxel.
 
-Calculate the exact total dosing volume of 5 mg/mL suspension required for the patient: Dosing volume (mL) = Total dose (mg)/5 (mg/mL).
-
 The reconstituted suspension should be milky and homogenous without visible particulates.
 If particulates or settling are visible, the vial should be gently inverted again to ensure complete resuspension prior to use.
 Discard the reconstituted suspension if precipitates are observed.
 Discard any unused portion.
 
+Calculate the exact total dosing volume of 5 mg/mL suspension required for the patient and slowly withdraw the dosing volume of the reconstituted suspension from the vial(s) into a syringe: Dosing volume (mL)=Total dose (mg)/5 (mg/mL).
+
 Inject the appropriate amount of reconstituted ABRAXANE into an empty, sterile intravenous bag [plasticized polyvinyl chloride (PVC) containers, PVC or non-PVC type intravenous bag].
 The use of specialized DEHP-free solution containers or administration sets is not necessary to prepare or administer ABRAXANE infusions.
-The use of an in-line filter is not recommended.
+The use of medical devices containing silicone oil as a lubricant (ie, syringes and intravenous bags) to reconstitute and administer ABRAXANE may result in the formation of proteinaceous strands.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Visually inspect the reconstituted ABRAXANE suspension in the intravenous bag prior to administration.
+Discard the reconstituted suspension if proteinaceous strands, particulate matter or discoloration are observed.
 
 ## 2.8 Stability
 

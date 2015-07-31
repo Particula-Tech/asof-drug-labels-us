@@ -28,6 +28,9 @@ The safety and effectiveness of ABRAXANE in pediatric patients have not been eva
 Of the 229 patients in the randomized study who received ABRAXANE for the treatment of metastatic breast cancer, 13% were at least 65 years of age and < 2% were 75 years or older.
 No toxicities occurred notably more frequently among patients who received ABRAXANE.
 
+A subsequent pooled analysis was conducted in 981 patients receiving ABRAXANE monotherapy for metastatic breast cancer, of which 15% were 65 years of age or older and 2% were 75 years of age or older.
+A higher incidence of epistaxis, diarrhea, dehydration, fatigue and peripheral edema was found in patients 65 years of age or older.
+
 Of the 514 patients in the randomized study who received ABRAXANE and carboplatin for the first-line treatment of non-small cell lung cancer, 31% were 65 years or older and 3.5% were 75 years or older.
 Myelosuppression, peripheral neuropathy, and arthralgia were more frequent in patients 65 years or older compared to patients younger than 65 years old.
 No overall difference in effectiveness, as measured by response rates, was observed between patients 65 years or older compared to patients younger than 65 years old.
@@ -42,7 +45,7 @@ Clinical studies of ABRAXANE did not include sufficient number of patients with 
 The exposure to paclitaxel may be higher in patients with hepatic impairment than in patients with normal hepatic function.
 Reduce ABRAXANE starting dose in patients with moderate to severe hepatic impairment.
 Do not administer ABRAXANE to patients with total bilirubin > 5 x ULN or AST > 10 x ULN [see Dosage and Administration (2.4), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
-Do not administer to patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment see Dosage and Administration (2.4)].
+Do not administer to patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment [see Dosage and Administration (2.4)].
 
 ## 8.7 Patients with Renal Impairment
 

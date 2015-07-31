@@ -4,7 +4,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The most common adverse reactions (≥ 20%) with single-agent use of ABRAXANE in metastatic breast cancer are alopecia, neutropenia, sensory neuropathy, abnormal ECG, fatigue/asthenia, myalgia/arthralgia, AST elevation, alkaline phosphatase elevation, anemia, nausea, infections, and diarrhea [see Adverse Reactions (6.1)].
 
-The most common adverse reactions (≥ 20%) of ABRAXANE in combination with carboplatin for non-small cell lung cancer are anemia, neutropenia, thrombocytopenia, alopecia, peripheral neuropathy, nausea, and fatigue [see Adverse Reactions (6.2)] The most common serious adverse reactions of ABRAXANE in combination with carboplatin for non-small cell lung cancer are anemia (4%) and pneumonia (3%).
+The most common adverse reactions (≥ 20%) of ABRAXANE in combination with carboplatin for non-small cell lung cancer are anemia, neutropenia, thrombocytopenia, alopecia, peripheral neuropathy, nausea, and fatigue [see Adverse Reactions (6.2)].
+The most common serious adverse reactions of ABRAXANE in combination with carboplatin for non-small cell lung cancer are anemia (4%) and pneumonia (3%).
 The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are neutropenia (3%), thrombocytopenia (3%), and peripheral neuropathy (1%).
 The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia (24%), thrombocytopenia (13%), and anemia (6%).
 The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (41%), thrombocytopenia (30%), and anemia (16%).
@@ -252,7 +253,7 @@ Risk factors for sepsis included biliary obstruction or presence of biliary sten
 Pneumonitis Pneumonitis occurred in 4% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine alone.
 Two of 17 patients in the ABRAXANE arm with pneumonitis died.
 
-## 6.4 Post-Marketing Experience with ABRAXANE and other Paclitaxel Formulations
+## 6.4 Postmarketing Experience with ABRAXANE and other Paclitaxel Formulations
 
 Unless otherwise noted, the following discussion refers to the adverse reactions that have been identified during post-approval use of ABRAXANE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
