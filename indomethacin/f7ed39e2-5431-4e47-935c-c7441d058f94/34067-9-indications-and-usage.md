@@ -5,8 +5,8 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 Indomethacin capsules have been found effective in active stages of the following:
 
-1. Moderate to severe rheumatoid arthritis including acute flares of chronic disease.
-2. Moderate to severe ankylosing spondylitis.
-3. Moderate to severe osteoarthritis.
-4. Acute painful shoulder (bursitis and/or tendinitis).
-5. Acute gouty arthritis.
+- 1.Moderate to severe rheumatoid arthritis including acute flares of chronic disease.
+- 2.Moderate to severe ankylosing spondylitis.
+- 3.Moderate to severe osteoarthritis.
+- 4.Acute painful shoulder (bursitis and/or tendinitis).
+- 5.Acute gouty arthritis.
