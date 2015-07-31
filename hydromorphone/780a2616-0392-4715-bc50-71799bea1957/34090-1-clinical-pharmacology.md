@@ -94,7 +94,7 @@ Specific Populations
 
 Geriatric Patients
 
-Based on data obtained from a study using immediate-release hydromorphone, the pharmacokinetics of hydromorphone in healthy elderly subjects (65 to 74 years old) are similar to the pharmacokinetics in healthy young subjects.
+Population PK analysis performed on plasma concentration data from 407 osteoarthritis (OA) patients using hydromorphone hydrochloride extended release tablets showed an average 11% increase in hydromorphone AUC in the elder grou (65 to 75 years of age) when compared to the younger age group (less than or equal to 65 years of age).
 
 Pediatric Patients
 

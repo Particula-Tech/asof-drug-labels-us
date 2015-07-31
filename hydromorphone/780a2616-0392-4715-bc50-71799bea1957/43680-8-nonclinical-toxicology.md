@@ -20,4 +20,4 @@ Hydromorphone was not clastogenic in either the in vitro human lymphocyte chromo
 
 Impairment of Fertility
 
-Hydromorphone given orally to rats during the mating period caused a slight but statistically significant reduction in implantations at 6.25 mg/kg/day (~1.2 times the human dose of 32 mg/day based on a body surface area comparision).
+Hydromorphone given orally to rats during the mating period caused a slight but statistically significant reduction in implantations at 6.25 mg/kg/day (~1.2 times the human exposure following to 32 mg/day).

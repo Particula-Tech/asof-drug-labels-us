@@ -7,7 +7,7 @@ Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdos
 
 Treatment of Overdose
 
-In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
+In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 

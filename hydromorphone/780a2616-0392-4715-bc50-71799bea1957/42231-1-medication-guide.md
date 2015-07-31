@@ -1,6 +1,6 @@
 # Medication Guide
 
-Hydromorphone Hydrochloride (hy-druh-mor-fon hy-druh-klawr-ahyd) Extended-Release Tablets, CII
+Hydromorphone Hydrochloride (hy-druh-mor-fonhy-druh-klawr-ahyd) Extended-Release Tablets, CII
 
 Hydromorphone hydrochloride extended release tablets are:
 

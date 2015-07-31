@@ -75,6 +75,6 @@ Minneapolis, MN 55427
 
 2203000
 
-1B500 RC J6
+1B500 RC J7
 
-Rev 08-14 E
+Rev 06-15 F
