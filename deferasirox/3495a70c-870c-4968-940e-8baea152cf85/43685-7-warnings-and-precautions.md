@@ -35,12 +35,13 @@ Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairmen
 Reduce the starting dose in patients with moderate (Child-Pugh B) hepatic impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.7)].
 Patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment may be at higher risk for hepatic toxicity.
 
-## 5.3 Gastrointestinal (GI) Hemorrhage
+## 5.3 Gastrointestinal (GI) Ulceration, Hemorrhage, and Perforation
 
 GI hemorrhage, including deaths, has been reported, especially in elderly patients who had advanced hematologic malignancies and/or low platelet counts.
 Nonfatal upper GI irritation, ulceration and hemorrhage have been reported in patients, including children and adolescents, receiving Exjade [see Adverse Reactions (6.1)].
 Monitor for signs and symptoms of GI ulceration and hemorrhage during Exjade therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
 The risk of gastrointestinal hemorrhage may be increased when administering Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
+There have been reports of ulcers complicated with gastrointestinal perforation (including fatal outcome) [see Adverse Reactions (6.2)].
 
 ## 5.4 Bone Marrow Suppression
 
@@ -64,14 +65,14 @@ Exjade is contraindicated in patients with known hypersensitivity to Exjade.
 ## 5.7 Severe Skin Reactions
 
 Severe skin reactions, including Stevens-Johnson syndrome (SJS) and erythema multiforme, have been reported during Exjade therapy [see Adverse Reactions (6.2)].
-If SJS or erythema multiforme is suspected, discontinue Exjade and evaluate.
+If SJS or erythema multiforme is suspected, discontinue Exjade immediately and do not reintroduce Exjade therapy.
 
 ## 5.8 Skin Rash
 
 Rashes may occur during Exjade treatment [see Adverse Reactions (6.1)].
 For rashes of mild to moderate severity, Exjade may be continued without dose adjustment, since the rash often resolves spontaneously.
 In severe cases, interrupt treatment with Exjade.
-Reintroduction at a lower dose with escalation may be considered in combination with a short period of oral steroid administration.
+Reintroduction at a lower dose with escalation may be considered after resolution of the rash.
 
 ## 5.9 Auditory and Ocular Abnormalities
 

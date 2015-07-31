@@ -22,8 +22,10 @@
   Serious allergic reactions (which include swelling of the throat) have been reported in patients taking Exjade, usually within the first month of treatment.
   If reactions are severe, advise patients to stop taking Exjade and contact their doctor immediately [see Warnings and Precautions (5.6, 5.7, 5.8)].
 
-Manufactured by: Novartis Pharma Stein AG Stein, Switzerland Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
+
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2013-93 October 2013
+T2015-113 July 2013

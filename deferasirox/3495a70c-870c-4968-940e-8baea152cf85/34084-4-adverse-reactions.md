@@ -114,8 +114,8 @@ Number (%) of NTDT Patients with Increases in Serum Creatinine or SGPT/ALT
 |  | EXJADE | Placebo | EXJADE |
 |  | N=110 | N=56 | N=130 |
 | Laboratory Parameter | n (%) | n (%) | n (%) |
-| Serum creatinine (>33% increase from baseline and >ULN at ≥2 consecutive postbaseline values) | 3 (3%) | 0 | 2 (2%) |
-| SGPT/ALT (>5 x ULN and >2 x baseline) | 1 (1%) | 1 (2%) | 2 (2%) |
+| Serum creatinine (>33% increase from baseline and >ULN at ≥2 consecutive postbaseline values) | 3 (3) | 0 | 2 (2) |
+| SGPT/ALT (>5 x ULN and >2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
 
 Proteinuria
 
@@ -137,10 +137,10 @@ Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (SJS), leukocyt
 
 Immune system disorders: hypersensitivity reactions (including anaphylaxis and angioedema)
 
-Renal and urinary disorders: acute renal failure, tubulointerstitial nephritis
+Renal and urinary disorders: renal tubular necrosis, acute renal failure, tubulointerstitial nephritis
 
 Hepatobiliary disorders: hepatic failure
 
-Gastrointestinal disorders: gastrointestinal hemorrhage
+Gastrointestinal disorders: gastrointestinal hemorrhage, gastrointestinal perforation
 
 Blood and lymphatic system disorders: worsening anemia

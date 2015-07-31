@@ -94,8 +94,7 @@ Pediatric Patients (ages 2-15 years):
 
 All Patients (regardless of age):
 
-- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate upper limit of normal or for creatinine clearance <40 mL/min.
-  [see Contraindications (4)]
+- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate upper limit of normal or for creatinine clearance <40 mL/min [see Contraindications (4)].
 
 Non-Transfusion-Dependent Thalassemia Syndromes
 
