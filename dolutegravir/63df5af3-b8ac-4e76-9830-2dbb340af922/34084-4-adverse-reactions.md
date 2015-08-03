@@ -30,7 +30,7 @@ Treatment-emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades
 
 | System Organ Class/ Preferred Term | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs (N = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs (N = 405) | TIVICAY 50 mg + EPZICOM Once Daily (N = 414) | ATRIPLA Once Daily (N = 419) |  |
+| TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
 | Psychiatric |  |  |  |  |
 | Insomnia | <1% | <1% | 3% | 2% |
 | Depression | <1% | <1% | 1% | 2% |
@@ -99,7 +99,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-naïve Subjects i
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily +2 NRTIs(N = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(N = 405) | TIVICAY 50 mg + EPZICOM Once Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |  |
+| TIVICAY 50 mg Once Daily +2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
 | ALT |  |  |  |  |
 | Grade 2 (>2.5-5.0 x ULN) | 4% | 4% | 2% | 5% |
 | Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | <1% | <1% |
@@ -129,7 +129,7 @@ Mean Change from Baseline in Fasted Lipid Values in Treatment-naïve Subjects in
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs(N = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs(N = 405) | TIVICAY 50 mg + EPZICOM Once Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |  |
+| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
 | Cholesterol (mg/dL) | 8.1 | 10.1 | 23.2 | 28.0 |
 | HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.2 | 7.4 |
 | LDL cholesterol (mg/dL) | 5.1 | 6.1 | 14.5 | 18.0 |

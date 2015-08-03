@@ -9,7 +9,7 @@ Clinical status, including liver aminotransferases, should be monitored and appr
 Delay in stopping treatment with TIVICAY or other suspect agents after the onset of hypersensitivity may result in a life-threatening reaction.
 TIVICAY is contraindicated in patients who have experienced a previous hypersensitivity reaction to dolutegravir.
 
-## 5.2 Effects on Serum Liver Biochemistries in Patients with Hepatitis B or C Coinfection
+## 5.2 Effects on Serum Liver Biochemistries in Patients with Hepatitis B or C Co-infection
 
 Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TIVICAY [see Adverse Reactions (6.1)].
 In some cases the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.

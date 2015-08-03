@@ -22,7 +22,7 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 and SINGLE at Week 96 (Sn
 
 |  | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs (N = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs (N = 405) | TIVICAY 50 mg + EPZICOM Once Daily (N = 414) | ATRIPLA Once Daily (N = 419) |  |
+| TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
 | HIV-1 RNA <50 copies/mL | 82% | 78% | 80% | 72% |
 | Treatment differencea | 4.9% (95% CI: -0.6%, 10.3%) |  | 8.0% (95% CI: 2.3%, 13.8%) |  |
 | Virologic nonresponseb | 5% | 10% | 7% | 8% |
@@ -82,7 +82,7 @@ Week 48 outcomes for SAILING are shown in Table 13.
 Table 13.
 Virologic Outcomes of Randomized Treatment in SAILING at 48 Weeks (Snapshot Algorithm)
 
-|  | TIVICAY 50 mg Once Daily + BRa(N = 354) | Raltegravir 400 mg Twice Daily + BRa(N = 361) |
+|  | TIVICAY 50 mg Once Daily + BRa(n = 354) | Raltegravir 400 mg Twice Daily + BRa(n = 361) |
 | --- | --- | --- |
 | HIV-1 RNA <50 copies/mL | 71% | 64% |
 | Adjustedb treatment difference | 7.4% (95% CI: 0.7%, 14.2%) |  |
@@ -136,7 +136,7 @@ Week 48 virologic outcomes for VIKING-3 are shown in Table 14.
 Table 14.
 Virologic Outcomes of Treatment of VIKING-3 at 48 Weeks (Snapshot Algorithm)
 
-|  | TIVICAY 50 mg Twice Daily + OBT(N = 183) |
+|  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |
 | --- | --- |
 | HIV-1 RNA <50 copies/mL | 63% |
 | Virologic nonresponse | 32% |

@@ -24,8 +24,7 @@ Drugs that induce those enzymes and transporters may decrease dolutegravir plasm
 
 Coadministration of dolutegravir and other drugs that inhibit these enzymes may increase dolutegravir plasma concentration.
 
-Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir.
-(Table 5) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir (Table 5) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
 Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, telaprevir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
 

@@ -210,6 +210,9 @@ In the comparator raltegravir arm, 21 of 49 (43%) subjects with post-baseline re
 
 Treatment-experienced, Integrase Strand Transfer Inhibitor-experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
 
+In VIKING-4 (ING116529),30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screeningwere randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
+Virologic responses at Week 48 by baseline genotypic and phenotypic INSTI-resistance categories and the INSTI resistance-associated substitutions that emerged on dolutegravir treatment in VIKING-4 were consistent with those seen in VIKING-3.
+
 Response by Baseline Genotype
 
 Of the 183 subjects with baseline data, 30% harbored virus with a substitution at Q148, and 33% had no primary INSTI-resistance substitutions (T66A/I/K, E92Q/V, Y143R/C/H, Q148H/R/K, and N155H) at baseline, but had historical genotypic evidence of INSTI-resistance substitutions, phenotypic evidence of elvitegravir or raltegravir resistance, or genotypic evidence of INSTI-resistance substitutions at screening.
@@ -221,7 +224,7 @@ In addition, a diminished virologic response of 40% (6 of 15) was observed when 
 Table 10.
 Response by Baseline Integrase Genotype in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
-| Baseline Genotype | Week 48 (<50 copies/mL) N = 175 |
+| Baseline Genotype | Week 48 (<50 copies/mL) n = 175 |
 | --- | --- |
 | Overall Response | 66% (116/175) |
 | No Q148 substitutiona | 74% (92/124) |
@@ -244,7 +247,7 @@ The data are provided to guide clinicians on the likelihood of virologic success
 Table 11.
 Response by Baseline Dolutegravir Phenotype (Fold-change from Reference) in Subjects with Prior Experience to an Integrase Strand Transfer Inhibitor in VIKING-3
 
-| Baseline Dolutegravir Phenotype (Fold-change from Reference) | Response at Week 48 (<50 copies/mL) Subset N = 163 |
+| Baseline Dolutegravir Phenotype (Fold-change from Reference) | Response at Week 48 (<50 copies/mL) Subset n = 163 |
 | --- | --- |
 | Overall Response | 64% (104/163) |
 | <3-fold change | 72% (83/116) |
@@ -255,7 +258,7 @@ Integrase Strand Transfer Inhibitor Treatment-emergent Resistance
 
 There were 50 subjects with virologic failure on the dolutegravir twice-daily regimen in VIKING-3 with HIV-1 RNA greater than 400 copies per mL at the failure timepoint, Week 48 or beyond, or the last timepoint on trial.
 Thirty-nine subjects with virologic failure had resistance data that were used in the Week 48 analysis.
-In the Week 48 resistance analysis, 85% (33 of 39) of the subjects with virologic failure had treatment-emergent INSTI-resistance substitutions in their isolates.
+In the Week 48 resistance analysis 85% (33 of 39) of the subjects with virologic failure had treatment-emergent INSTI-resistance substitutions in their isolates.
 The most common treatment-emergent INSTI-resistance substitution was T97A.
 Other frequently emergent INSTI-resistance substitutions included L74M, I or V, E138K or A, G140S, Q148H, R or K, M154I, or N155H.
 Substitutions E92Q, Y143R or C/H, S147G, V151A, and E157E/Q each emerged in 1 to 3 subjects’ isolates.
@@ -263,7 +266,7 @@ At failure, the median dolutegravir fold-change from reference was 61-fold (rang
 
 Resistance to one or more background drugs in the dolutegravir twice-daily regimen also emerged in 49% (19 of 39) subjects in the Week 48 resistance analysis.
 
-Cross-Resistance
+Cross-resistance
 
 Site-directed Integrase Strand Transfer Inhibitor-resistant Mutant HIV-1 and HIV-2 Strains: The susceptibility of dolutegravir was tested against 60 INSTI-resistant site-directed mutant HIV-1 viruses (28 with single substitutions and 32 with 2 or more substitutions) and 6 INSTI-resistant site-directed mutant HIV-2 viruses.
 The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
