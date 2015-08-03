@@ -65,7 +65,7 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | b The terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), and hepatic enzyme were combined under liver enzymes. |  |  |
 | c Patients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection. |  |  |
 
-## 6.4 Vital Signs and Laboratory Studies
+Vital Signs and Laboratory Studies
 
 Vital Sign Changes — Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials.
 Intramuscular olanzapine for injection was associated with bradycardia, hypotension, and tachycardia in clinical trials [see Warnings and Precautions (5)].
@@ -81,12 +81,13 @@ ALT elevations ≥5 times ULN were observed in 2% (29/1438) of olanzapine-treate
 ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
 No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
 
-Rare postmarketing reports of hepatitis have been received.
-Very rare cases of cholestatic or mixed liver injury have also been reported in the postmarketing period.
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, high GGT levels were recorded in ≥1% (88/5245) of patients.
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
 Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.13)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, elevated uric acid was recorded in ≥3% (171/4641) of patients.
 
 Olanzapine Monotherapy in Adolescents: In placebo-controlled clinical trials of adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), greater frequencies for the following treatment-emergent findings, at anytime, were observed in laboratory analytes compared to placebo: elevated ALT (≥3X ULN in patients with ALT at baseline <3X ULN), (12% vs 2%); elevated AST (28% vs 4%); low total bilirubin (22% vs 7%); elevated GGT (10% vs 1%); and elevated prolactin (47% vs 7%).
 
@@ -99,19 +100,19 @@ ECG Changes — In pooled studies of adults as well as pooled studies of adolesc
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
 This increase in heart rate may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.6)].
 
-## 6.5 Postmarketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ZYPREXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
 
-Literature revised December 19, 2014
+Literature revised July 23, 2015
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1997, 2014, Eli Lilly and Company.
+Copyright © 1997, 2015, Eli Lilly and Company.
 All rights reserved.
 
-ZYP-0001-USPI-20141219
+ZYP-0002-USPI-20150723

@@ -8,9 +8,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Adults
 
-The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 8661 adult patients with approximately 4165 patient-years of exposure to oral olanzapine and 722 patients with exposure to intramuscular olanzapine for injection.
-This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer's disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer's disease representing approximately 29 patient-years of exposure; (4) 5788 patients from 88 additional oral olanzapine clinical trials as of December 31, 2001; and (5) 722 patients who participated in intramuscular olanzapine for injection premarketing trials in agitated patients with schizophrenia, bipolar I disorder (manic or mixed episodes), or dementia.
-In addition, information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure, is included below.
+The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 10,504 adult patients with approximately 4765 patient-years of exposure to olanzapine plus 722 patients with exposure to intramuscular olanzapine for injection.
+This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer's disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer's disease representing approximately 29 patient-years of exposure; (4) 5788 additional patients from 88 oral olanzapine clinical trials as of December 31, 2001; (5) 1843 additional patients from 41 olanzapine clinical trials as of October 31, 2011; and (6) 722 patients who participated in intramuscular olanzapine for injection premarketing trials in agitated patients with schizophrenia, bipolar I disorder (manic or mixed episodes), or dementia.
+Also included below is information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure.
 
 The conditions and duration of treatment with olanzapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, weights, laboratory analytes, ECGs, chest x-rays, and results of ophthalmologic examinations.
@@ -352,9 +352,9 @@ Reactions are classified by body system using the following definitions: frequen
 
 - Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
 - Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
-- Digestive System — Infrequent: nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
-- Hemic and Lymphatic System — Infrequent: leukopenia, thrombocytopenia.
-- Metabolic and Nutritional Disorders — Infrequent: alkaline phosphatase increased, bilirubinemia, hypoproteinemia.
+- Digestive System — Infrequent: abdominal distension, nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
+- Hemic and Lymphatic System — Infrequent: thrombocytopenia.
+- Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased; Infrequent: bilirubinemia, hypoproteinemia.
 - Musculoskeletal System — Rare: osteoporosis.
 - Nervous System — Infrequent: ataxia, dysarthria, libido decreased, stupor; Rare: coma.
 - Respiratory System — Infrequent: epistaxis; Rare: lung edema.
