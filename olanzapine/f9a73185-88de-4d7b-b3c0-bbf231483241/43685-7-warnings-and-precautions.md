@@ -307,6 +307,8 @@ However, some patients may require treatment with olanzapine despite the presenc
 ZYPREXA RELPREVV may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17.8)].
 Syncope-related adverse reactions were reported in 0.1% of patients treated with ZYPREXA RELPREVV in clinical studies.
 
+From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
+
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
 For patients in this population who have never taken oral olanzapine, tolerability should be established with oral olanzapine prior to initiating treatment with ZYPREXA RELPREVV [see Dosage and Administration (2.1)].
 
@@ -363,7 +365,7 @@ Such adverse reactions were not often the basis for discontinuations from olanza
 In 5 placebo-controlled studies of oral olanzapine in elderly patients with dementia-related psychosis (n=1184), the following treatment-emergent adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
 The rate of discontinuation due to adverse reactions was significantly greater with oral olanzapine than placebo (13% vs 7%).
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
-Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3), and Patient Counseling Information (17.11)].
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3), and Patient Counseling Information (17.3)].
 
 Olanzapine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
@@ -397,4 +399,4 @@ In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=19
 
 ## 5.16 Laboratory Tests
 
-Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.6) and Patient Counseling Information (17.4, 17.5)].
+Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.6) and Patient Counseling Information (17.5, 17.6)].

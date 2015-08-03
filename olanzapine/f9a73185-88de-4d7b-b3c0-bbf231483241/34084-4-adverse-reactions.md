@@ -7,7 +7,7 @@ This database includes safety data from 6 open-label studies and 2 double-blind 
 Additionally, data obtained from patients treated with oral olanzapine are also presented below.
 Adverse reactions were assessed by the collection of adverse reactions, vital signs, weights, laboratory analytes, ECGs, and the results of physical and ophthalmologic examinations.
 In the tables and tabulations that follow for ZYPREXA RELPREVV, the MedDRA terminology has been used to classify reported adverse reactions.
-Data obtained from oral olanzapine studies was reported using the COSTART dictionary.
+Data obtained from oral olanzapine studies was reported using the COSTART and MedDRA dictionaries.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
@@ -152,6 +152,11 @@ Local Injection Site Reactions
 Eleven ZYPREXA RELPREVV-treated patients (3.6%) and 0 placebo-treated patients experienced treatment-emergent injection-related adverse reactions (injection site pain, buttock pain, injection site mass, induration, injection site induration) in the placebo-controlled database.
 The most frequently occurring treatment-emergent adverse reaction was injection site pain (2.3% ZYPREXA RELPREVV-treated; 0% placebo-treated).
 
+Other Adverse Reactions Observed During the Clinical Trial Evaluation of Olanzapine for Extended-Release Injectable Suspension
+
+Injection site abscess has been reported in clinical trials with ZYPREXA RELPREVV therapy.
+Isolated cases required surgical intervention.
+
 Commonly Observed Adverse Reactions During the Clinical Trial Evaluation of Oral Olanzapine
 
 In clinical trials of oral olanzapine monotherapy for the treatment of schizophrenia in adult patients, treatment-emergent adverse reactions with an incidence of 5% or greater in the olanzapine treatment arm and at least twice that of placebo were: postural hypotension, constipation, weight gain, dizziness, personality disorder, and akathisia.
@@ -164,9 +169,9 @@ Reactions are classified by body system using the following definitions: frequen
 
 - Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
 - Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
-- Digestive System — Infrequent: nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
-- Hemic and Lymphatic System — Infrequent: leukopenia, thrombocytopenia.
-- Metabolic and Nutritional Disorders — Infrequent: alkaline phosphatase increased, bilirubinemia, hypoproteinemia.
+- Digestive System — Infrequent: abdominal distension, nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
+- Hemic and Lymphatic System — Infrequent: thrombocytopenia.
+- Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased; Infrequent: bilirubinemia, hypoproteinemia.
 - Musculoskeletal System — Rare: osteoporosis.
 - Nervous System — Infrequent: ataxia, dysarthria, libido decreased, stupor; Rare: coma.
 - Respiratory System — Infrequent: epistaxis; Rare: lung edema.
@@ -179,7 +184,7 @@ They are included here because of their seriousness.
 
 2 Adjusted for gender.
 
-## 6.4 Vital Signs and Laboratory Studies
+Vital Signs and Laboratory Studies
 
 Laboratory Changes
 
@@ -187,6 +192,9 @@ ZYPREXA RELPREVV in Adults: Statistically significant within group mean changes 
 There were no statistically significant differences between ZYPREXA RELPREVV and placebo in the incidence of potentially clinically significant changes in any of the laboratory values studied.
 
 Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from oral olanzapine (in a 24-week double-blind study), were observed for the following: gamma-glutamyltransferase (GGT) and sodium.
+
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, high GGT levels were recorded in ≥1% (88/5245) of patients.
+
 Statistically significant differences were observed between ZYPREXA RELPREVV and oral olanzapine for the incidence of treatment-emergent low platelet count (0% ZYPREXA RELPREVV vs 1% oral olanzapine); and low total bilirubin (2.8% ZYPREXA RELPREVV vs 0.7% for oral olanzapine).
 There was a statistically significant difference between ZYPREXA RELPREVV and oral olanzapine in potentially clinically significant changes for high leukocyte count (0% ZYPREXA RELPREVV vs 1% oral olanzapine).
 
@@ -198,6 +206,8 @@ In 3 of these patients, liver enzymes reverted to the normal range despite conti
 Within the larger premarketing ZYPREXA RELPREVV database of 1886 patients with baseline ALT ≤90 IU/L, the incidence of ALT elevation to >200 IU/L was 0.8%.
 None of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while ZYPREXA RELPREVV treatment was continued.
 
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, elevated uric acid was recorded in ≥3% (171/4641) of patients.
+
 Olanzapine Monotherapy in Adults: An assessment of the premarketing experience for oral olanzapine revealed an association with asymptomatic increases in ALT, AST, and GGT.
 Within the original premarketing database of about 2400 adult patients with baseline ALT ≤90 IU/L, the incidence of ALT elevations to >200 IU/L was 2% (50/2381).
 None of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while olanzapine treatment was continued.
@@ -206,9 +216,6 @@ In placebo-controlled oral olanzapine monotherapy studies in adults, clinically 
 ALT elevations ≥5 times ULN were observed in 2% (29/1438) of olanzapine-treated patients, compared to 0.3% (4/1196) of placebo-treated patients.
 ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
 No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
-
-Rare postmarketing reports of hepatitis have been received for patients taking different formulations of olanzapine.
-Very rare cases of cholestatic or mixed liver injury have also been reported in the postmarketing period.
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
@@ -219,7 +226,9 @@ Between-group comparisons for pooled placebo-controlled trials revealed no signi
 Oral olanzapine use was associated with a mean increase in heart rate of 2.4 beats per minute compared to no change among placebo patients.
 This slight tendency to tachycardia may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.9)].
 
-## 6.5 Postmarketing Experience
+## 6.4 Postmarketing Experience
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
+Additionally, injection site abscess has been reported in postmarketing reports with ZYPREXA RELPREVV therapy.
+Isolated cases required surgical intervention.
