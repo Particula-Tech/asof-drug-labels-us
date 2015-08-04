@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078936"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-2350-10",
+    "0378-2350-93",
+    "0378-2351-10",
+    "0378-2351-93"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "esomeprazole magnesium",
+      "name": "Esomeprazole Magnesium"
+    }
+  ],
+  "setid": "e04e7c84-59c8-4a1d-8dfc-d72588b97b59",
+  "source": "dailymed"
+}
