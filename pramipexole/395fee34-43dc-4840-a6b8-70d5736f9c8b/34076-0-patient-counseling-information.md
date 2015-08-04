@@ -1,48 +1,48 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+Advice the patient to read the FDA-approved patient labeling (Patient Information).
 
-## 17.1 Dosing Instructions
+Dosing Instructions
 
 Instruct patients to take pramipexole dihydrochloride tablets only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
 Pramipexole dihydrochloride tablets can be taken with or without food.
-If patients develop nausea, they should be advised that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
+If patients develop nausea, advise that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
 
 Pramipexole is the active ingredient that is in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
 Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride tablets.
 
-## 17.2 Sedating Effects
+Sedating Effects
 
-Patients should be alerted to the potential sedating effects associated with pramipexole dihydrochloride tablets, including somnolence and the possibility of falling asleep while engaged in activities of daily living.
-Since somnolence is a frequent adverse event with potentially serious consequences, patients should neither drive a car nor engage in other potentially dangerous activities until they have gained sufficient experience with pramipexole dihydrochloride tablets to gauge whether or not it affects their mental and/or motor performance adversely.
+Alert patients to the potential sedating effects associated with pramipexole dihydrochloride tablets, including somnolence and the possibility of falling asleep while engaged in activities of daily living.
+Since somnolence is a frequent adverse reaction with potentially serious consequences, patients should neither drive a car nor engage in other potentially dangerous activities until they have gained sufficient experience with pramipexole dihydrochloride tablets to gauge whether or not it affects their mental and/or motor performance adversely.
 Advise patients that if increased somnolence or new episodes of falling asleep during activities of daily living (e.g., conversations or eating) are experienced at any time during treatment, they should not drive or participate in potentially dangerous activities until they have contacted their physician.
-Because of possible additive effects, caution should be advised when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions(5.1)].
+Because of possible additive effects, advice caution when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (5.1)].
 
-## 17.3 Impulse Control Symptoms Including Compulsive Behaviors
+Impulse Control Symptoms Including Compulsive Behaviors
 
-Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges, binge eating and/or other intense urges and the inability to control these urges while taking pramipexole dihydrochloride tablets [see Warnings and Precautions (5.3)].
+Alert patients and their caregivers to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges, binge eating and/or other intense urges and the inability to control these urges while taking pramipexole dihydrochloride tablets [see Warnings and Precautions (5.3)].
 
-## 17.4 Hallucinations
+Hallucinations and Pyschotic-like Behavior
 
-Patients should be informed that hallucinations can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
+Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
 
-## 17.5 Postural (Orthostatic) Hypotension
+Postural (Orthostatic) Hypotension
 
 Advise patients that they may develop postural (orthostatic) hypotension, with or without symptoms such as dizziness, nausea, fainting or blackouts, and sometimes, sweating.
 Hypotension may occur more frequently during initial therapy.
-Accordingly, caution patients against rising rapidly after sitting or lying down, especially if they have been doing so for prolonged periods and especially at the initiation of treatment with pramipexole dihydrochloride tablets [see Warnings and Precautions (5.2)].
+Accordingly, caution patients against rising rapidly after sitting or lying down, especially if they have been doing so for prolonged periods and especially at the initiation of treatment with Pramipexole dihydrochloride tablets [see Warnings and Precautions (5.2)].
 
-## 17.6 Pregnancy
+Pregnancy
 
 Because the teratogenic potential of pramipexole has not been completely established in laboratory animals, and because experience in humans is limited, advise women to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-## 17.7 Nursing Mothers
+Nursing Mothers
 
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
 Rev.
-04/14
+06/15

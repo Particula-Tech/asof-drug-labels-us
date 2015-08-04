@@ -24,10 +24,10 @@ Investigative studies demonstrated that pramipexole reduced the rate of disk she
 In a comparative study, degeneration and loss of photoreceptor cells occurred in albino rats after 13 weeks of treatment with 25 mg/kg/day of pramipexole (54 times the MRHD on a mg/m2 basis) and constant light (100 lux) but not in pigmented rats exposed to the same dose and higher light intensities (500 lux).
 Thus, the retina of albino rats is considered to be uniquely sensitive to the damaging effects of pramipexole and light.
 Similar changes in the retina did not occur in a 2-year carcinogenicity study in albino mice treated with 0.3, 2, or 10 mg/kg/day (0.3, 2.2 and 11 times the MRHD on a mg/m2 basis).
-Evaluation of the retinas of monkeys given 0.1, 0.5, or 2 mg/kg/day of pramipexole (0.4, 2.2, and 8.6 times the MRHD on a mg/m2 basis) for 12 months and minipigs given 0.3, 1, or 5 mg/kg/day of pramipexole for 13 weeks also detected no changes.
+Evaluation of the retinas of monkeys given 0.1, 0.5, or 2.0 mg/kg/day of pramipexole (0.4, 2.2, and 8.6 times the MRHD on a mg/m2 basis) for 12 months and minipigs given 0.3, 1, or 5 mg/kg/day of pramipexole for 13 weeks also detected no changes.
 
 The potential significance of this effect in humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved.
 
-Fibro-osseous Proliferative Lesions in Mice An increased incidence of fibro-osseous proliferative lesions occurred in the femurs of female mice treated for 2 years with 0.3, 2, or 10 mg/kg/day (0.3, 2.2, and 11 times the MRHD on a mg/m2 basis).
+Fibro-osseous Proliferative Lesions in Mice An increased incidence of fibro-osseous proliferative lesions occurred in the femurs of female mice treated for 2 years with 0.3, 2.0, or 10 mg/kg/day (0.3, 2.2, and 11 times the MRHD on a mg/m2 basis).
 Similar lesions were not observed in male mice or rats and monkeys of either sex that were treated chronically with pramipexole.
 The significance of this lesion to humans is not known.

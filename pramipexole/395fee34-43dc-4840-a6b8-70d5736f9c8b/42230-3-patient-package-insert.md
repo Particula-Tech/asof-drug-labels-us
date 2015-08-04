@@ -1,22 +1,22 @@
 PATIENT INFORMATION
 
-PramipexoleDihydrochloride Tablets
+Pramipexole dihydrochloride tablets
 
 Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
-What is pramipexoledihydrochloride tablets?
+What is pramipexole dihydrochloride tablets?
 
-Pramipexole dihydrochloride tablets are a prescription medicine used to treat:
+Pramipexole dihydrochloride tablets is a prescription medicine used to treat:
 
 - signs and symptoms of Parkinson's disease (PD)
 
-It is not known if pramipexoledihydrochloride tablets are safe and effective in children.
+It is not known if pramipexole dihydrochloride tablets is safe and effective in children.
 
-What should I tell my doctor before taking pramipexoledihydrochloridetablets ?
+What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
-Before taking pramipexoledihydrochloride tablets, tell your doctor if you:
+• Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
 
 - feel sleepy during the day from a sleep problem
 - have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
@@ -28,7 +28,7 @@ Before taking pramipexoledihydrochloride tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if pramipexole dihydrochloride tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  It is not known if pramipexole dihydrochloride passes into your breast milk.
+  It is not known if pramipexole dihydrochloride tablets passes into your breast milk.
   You and your doctor should decide if you will take pramipexole dihydrochloride tablets or breastfeed.
   You should not do both.
 
@@ -41,8 +41,9 @@ Especially tell your doctor if you take:
 
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   Pramipexole dihydrochloride tablets may not work as well if you take these medicines.
-- extended-release pramipexole.
-  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and pramipexole dihydrochloride tablets ER. you should not take pramipexole dihydrochloride tablets.
+- extended-release pramipexole (Pramipexole dihydrochloride tablets ER).
+  Pramipexole is the active ingredient in both Pramipexole dihydrochloride tablets and pramipexole dihydrochloride tablets ER.
+  If you are taking pramipexole dihydrochloride tablets ER, you should not take pramipexole dihydrochloride tablets.
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
@@ -50,13 +51,13 @@ Ask your doctor for a list of these medicines if you are not sure.
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
-How should I take pramipexoledihydrochloride tablets?
+How should I take pramipexole dihydrochloride tablets?
 
 - Take pramipexole dihydrochloride tablets exactly as your doctor tells you to take it.
 - Your doctor will tell you how much pramipexole dihydrochloride tablets to take and when to take it.
   Do not take more or less pramipexole dihydrochloride tablets than your doctor tells you to.
 - Your doctor may change your dose if needed.
-- pramipexole dihydrochloride tablets can be taken with or without food.
+- Pramipexole dihydrochloride tablets can be taken with or without food.
   Taking pramipexole dihydrochloride tablets with food may lower your chances of getting nausea.
 - If you take more pramipexole dihydrochloride tablets than your doctor recommends, call your doctor or go to the nearest hospital emergency room right away.
 - If you miss a dose, do not double your next dose.
@@ -67,17 +68,17 @@ How should I take pramipexoledihydrochloride tablets?
   - confusion
   - severe muscle stiffness
 
-Do not stop taking pramipexoledihydrochloride tablets without talking to your doctor.
+Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
 
-What should I avoid while taking pramipexoledihydrochloride tablets?
+What should I avoid while taking pramipexole dihydrochloride tablets?
 
 - Do not drink alcohol while taking pramipexole dihydrochloride tablets.
   It can increase your chance of having serious side effects.
-  See “What are the possible side effects of pramipexole dihydrochloride tablets ?”
+  See “What are the possible side effects of pramipexole dihydrochloride tablets?”
 - Do not drive a car, operate a machine, or do other dangerous activities until you know how pramipexole dihydrochloride tablets affects you.
   Sleepiness caused by pramipexole dihydrochloride tablets can happen as late as 1 year after you start your treatment.
 
-What are the possible side effects of pramipexoledihydrochloride tablets ?
+What are the possible side effects of pramipexole dihydrochloride tablets?
 
 Pramipexole dihydrochloride tablets may cause serious side effects, including:
 
@@ -101,10 +102,10 @@ Sit and stand up slowly after you have been sitting or lying down.
 
 - unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
-  If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
-- seeing visions, hearing sounds or feeling sensations that are not real (hallucinations).
-  Your chance of having hallucinations is higher if you are elderly (age 65 or older).
-  If you have hallucinations, talk with your doctor right away.
+- If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
+- hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusion beliefs and disorganized thinking).
+  Your chance of having hallucinations and other psychotic-like behaviour is higher if yo are elderly (age 65 or older).
+  If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
 - skin cancer (melanoma).
@@ -130,13 +131,13 @@ Tell your doctor if you have any side effect that bothers you.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store pramipexoledihydrochloride tablets?
+How should I store pramipexole dihydrochloride tablets?
 
-- Store pramipexole dihydrochloride tablets at 20º to 25ºC (68º to 77ºF);(see USP controlled Room Temperature).
+- Store pramipexole dihydrochloride tablets at 20ºC to 25ºC (68ºF to 77ºF);(see USP controlled Room Temperature).
 - Keep pramipexole dihydrochloride tablets out of the light.
 - Keep pramipexole dihydrochloride tablets and all medicines out of the reach of children.
 
-General Information about the safe and effective use of pramipexoledihydrochloride tablets.
+General Information about the safe and effective use of pramipexole dihydrochloride tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use pramipexole dihydrochloride tablets for a condition for which it was not prescribed.
@@ -149,7 +150,7 @@ You can ask your pharmacist or doctor for information about pramipexole dihydroc
 
 For more information, call ScieGen Pharmaceuticals, Inc. at 1-855-724-3436.
 
-What are the ingredients in pramipexoledihydrochloridetablets ?
+What are the ingredients in pramipexole dihydrochloride tablets?
 
 Active Ingredient: pramipexole dihydrochloride USP Inactive Ingredients: Mannitol, corn starch, colloidal silicon dioxide, povidone and magnesium stearate.
 
@@ -159,5 +160,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev.
-04/14
+Rev: 06/15

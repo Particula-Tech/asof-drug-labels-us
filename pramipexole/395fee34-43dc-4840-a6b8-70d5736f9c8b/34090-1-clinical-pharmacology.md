@@ -11,7 +11,7 @@ The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 ## 12.2 Pharmacodynamics
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
-All subjects initiated treatment with 0.375 mg extended release pramipexole tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily.
+All subjects initiated treatment with 0.375 mg extended release pramipexole tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily, a faster rate of titration than recommended in the label.
 No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
 The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
 
@@ -63,7 +63,7 @@ In patients with varying degrees of renal impairment, pramipexole clearance corr
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
 
 Drug Interactions Carbidopa/levodopa: Carbidopa/levodopa did not influence the pharmacokinetics of pramipexole in healthy volunteers (N=10).
-Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa Cmaxby about 40% and a decrease in Tmaxfrom 2.5 to 0.5 hours.
+Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa Cmax by about 40% and a decrease in Tmax from 2.5 to 0.5 hours.
 
 Selegiline: In healthy volunteers (N=11), selegiline did not influence the pharmacokinetics of pramipexole.
 
@@ -71,7 +71,7 @@ Amantadine: Population pharmacokinetic analyses suggest that amantadine may slig
 
 Cimetidine: Cimetidine, a known inhibitor of renal tubular secretion of organic bases via the cationic transport system, caused a 50% increase in pramipexole AUC and a 40% increase in half-life (N=12).
 
-Probenecid: Probenecid, a known inhibitor of renal tubular secretion of organic acids via the anionic transporter, did not noticeably influence pramipexole pharmacokinetics (N=12).
+Probenecid: Probenecid, a known inhibitor of renal tubular secretion of organic acids via the anionic transporter, did not noticeably influence Pramipexole pharmacokinetics (N=12).
 
 Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole.
 Other known organic cation transport substrates and/or inhibitors (e.g., cisplatin and procainamide) may also decrease the clearance of pramipexole.

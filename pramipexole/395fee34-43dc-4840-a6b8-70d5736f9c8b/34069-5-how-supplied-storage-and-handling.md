@@ -1,8 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 Pramipexole dihydrochloride tablets are available as follows:
 
-0.125 mg, white to off-white, round, flat, beveled edge uncoated tablets, debossed with ‘SG’ on one side ‘126’ on other side’.
+0.125 mg, white to off-white, round, flat, beveled edge uncoated tablets, debossed with ‘SG’ on one side ‘126’ on other side.
 
 NDC 50228-126-90, bottle of 90 tablets
 
@@ -38,7 +40,9 @@ NDC 50228-131-90, bottle of 90 tablets
 
 NDC 50228-131-10, bottle of 1000 tablets
 
-Storage Store at 20º to 25ºC (68º to 77ºF); [see USP Controlled Room Temperature].
+## 16.2 Storage and Handling
+
+Store at 20ºC to 25ºC (68ºF to 77ºF); (see USP Controlled Room Temperature).
 Protect from light.
 
 Store in a safe place out of the reach of children.
