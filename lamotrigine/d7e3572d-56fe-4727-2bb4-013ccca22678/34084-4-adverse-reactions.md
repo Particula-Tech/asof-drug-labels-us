@@ -239,10 +239,10 @@ a Adverse reactions that occurred in at least 2% of patients treated with LAMICT
 
 Bipolar Disorder in Adults
 
-The most common adverse reactions seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in adult patients (aged 18 to 82 years) with bipolar disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration are included in Table 12.
+The most common adverse reactions seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in adult patients (aged 18 to 82 years) with bipolar disorder in the 2 double-blind placebo-controlled trials of 18 months’ duration are included in Table 12.
 Adverse reactions that occurred in at least 5% of patients and were numerically more frequent during the dose-escalation phase of LAMICTAL in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
 
-During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
+During the monotherapy phase of the double-blind placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions that most commonly led to discontinuation of LAMICTAL were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
 Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for bipolar disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 

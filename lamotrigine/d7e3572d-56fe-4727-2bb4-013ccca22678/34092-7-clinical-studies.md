@@ -86,7 +86,7 @@ Both trials included a cohort of patients (30% of 404 subjects in Trial 1 and 28
 
 In both trials, patients were titrated to a target dose of 200 mg of LAMICTAL as add-on therapy or as monotherapy with gradual withdrawal of any psychotropic medications during an 8- to 16-week open-label period.
 Overall 81% of 1,305 patients participating in the open-label period were receiving 1 or more other psychotropic medications, including benzodiazepines, selective serotonin reuptake inhibitors (SSRIs), atypical antipsychotics (including olanzapine), valproate, or lithium, during titration of LAMICTAL.
-Patients with a CGI-severity score of 3 or less maintained for at least 4 continuous weeks, including at least the final week on monotherapy with LAMICTAL, were randomized to a placebo-controlled, double-blind treatment period for up to 18 months.
+Patients with a CGI-severity score of 3 or less maintained for at least 4 continuous weeks, including at least the final week on monotherapy with LAMICTAL, were randomized to a placebo-controlled double-blind treatment period for up to 18 months.
 The primary endpoint was TIME (time to intervention for a mood episode or one that was emerging, time to discontinuation for either an adverse event that was judged to be related to bipolar disorder, or for lack of efficacy).
 The mood episode could be depression, mania, hypomania, or a mixed episode.
 
