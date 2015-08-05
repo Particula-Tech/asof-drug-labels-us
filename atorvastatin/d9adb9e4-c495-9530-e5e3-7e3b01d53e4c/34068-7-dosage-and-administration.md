@@ -2,9 +2,9 @@
 
 ## 2.1 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
 
-The recommended starting dose of atorvastatin calcium tablets is 10 or 20 mg once daily.
+The recommended starting dose of atorvastatin calcium tablets are 10 or 20 mg once daily.
 Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
-The dosage range of atorvastatin calcium tablets is 10 to 80 mg once daily.
+The dosage range of atorvastatin calcium tablets are 10 to 80 mg once daily.
 Atorvastatin calcium tablets can be administered as a single dose at any time of the day, with or without food.
 The starting dose and maintenance doses of atorvastatin calcium tablets should be individualized according to patient characteristics such as goal of therapy and response (see current NCEP Guidelines).
 After initiation and/or upon titration of atorvastatin calcium tablets, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.

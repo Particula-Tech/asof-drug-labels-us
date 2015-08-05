@@ -15,7 +15,7 @@ In rat and rabbit animal reproduction studies, atorvastatin revealed no evidence
 ATORVASTATIN SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING AGE ONLY WHEN SUCH PATIENTS ARE HIGHLY UNLIKELY TO CONCEIVE AND HAVE BEEN INFORMED OF THE POTENTIAL HAZARDS.
 If the patient becomes pregnant while taking this drug, atorvastatin should be discontinued immediately and the patient apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
 
-## 4.4 Nursing mothers
+## 4.4 Nursing Mothers
 
 It is not known whether atorvastatin is excreted into human milk; however a small amount of another drug in this class does pass into breast milk.
 Because statins have the potential for serious adverse reactions in nursing infants, women who require atorvastatin treatment should not breastfeed their infants [see Use in Specific Populations (8.3)].
