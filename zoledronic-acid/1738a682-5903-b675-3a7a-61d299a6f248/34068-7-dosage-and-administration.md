@@ -51,13 +51,13 @@ For patients with abnormal baseline creatinine, increase of 1 mg/dL
 In the clinical studies, zoledronic acid injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zoledronic acid injection should be re-initiated at the same dose as that prior to treatment interruption.
 
-Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 
 ## 2.3. Preparation of Solution
 
 Zoledronic acid injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer’s solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg /5 mL Single-Use Vial
+4 mg/5 mL Single-Use Vial
 
 Vials of zoledronic acid injection concentrate for infusion contain overfill allowing for the withdrawal of 5 mL of concentrate (equivalent to 4 mg zoledronic acid).
 This concentrate should immediately be diluted in 100 mL of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP, following proper aseptic technique, and administered to the patient by infusion.

@@ -31,7 +31,7 @@ Adverse maternal effects were associated with, and may have been caused by, drug
 
 ## 8.3 Nursing Mothers
 
-It is not known whether zoledronic acid injection is excreted in human milk.
+It is not known whether zoledronic acid is excreted in human milk.
 Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from zoledronic acid injection, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 Zoledronic acid binds to bone long term and may be released over weeks to years.
 

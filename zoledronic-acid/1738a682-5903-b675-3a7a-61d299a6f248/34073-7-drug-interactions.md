@@ -4,7 +4,7 @@ In vitro studies indicate that the plasma protein binding of zoledronic acid is 
 In vitro studies also indicate that zoledronic acid does not inhibit microsomal CYP450 enzymes.
 In vivo studies showed that zoledronic acid is not metabolized, and is excreted into the urine as the intact drug.
 
-## 7.1 Aminoglycosides and calcitonin
+## 7.1 Aminoglycosides and Calcitonin
 
 Caution is advised when bisphosphonates are administered with aminoglycosides or calcitonin, since these agents may have an additive effect to lower serum calcium level for prolonged periods.
 This effect has not been reported in zoledronic acid injection clinical trials.

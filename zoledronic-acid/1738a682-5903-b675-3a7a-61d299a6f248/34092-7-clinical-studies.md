@@ -27,7 +27,7 @@ The results of these secondary analyses for zoledronic acid injection 4 mg and p
 
 Table 10: Secondary Efficacy Variables in Pooled HCM Studies
 
-|  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  |
+|  | Zoledronic Acid Injection4 mg |  | Pamidronate 90 mg |  |
 | --- | --- | --- | --- | --- |
 | Complete Response | N | Response Rate | N | Response Rate |
 | By Day 4 | 86 | 45.3% | 99 | 33.3% |
@@ -35,7 +35,8 @@ Table 10: Secondary Efficacy Variables in Pooled HCM Studies
 | Duration of Response | N | Median Duration (Days) | N | Median Duration (Days) |
 | Time to Relapse | 86 | 30* | 99 | 17 |
 | Duration of Complete Response | 76 | 32 | 69 | 18 |
-| * P less than 0.05 versus pamidronate 90 mg. |  |  |  |  |
+
+* P less than 0.05 versus. pamidronate 90 mg.
 
 ## 14.2 Clinical Trials in Multiple Myeloma and Bone Metastases of Solid Tumors
 
@@ -82,7 +83,7 @@ Table 12: Zoledronic Acid Injection Compared to Placebo in Patients with Bone Me
 In the breast cancer and myeloma trial, efficacy was determined by a noninferiority analysis comparing zoledronic acid injection to pamidronate 90 mg for the proportion of patients with a SRE.
 This analysis required an estimation of pamidronate efficacy.
 Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI = 7.3%, 18.9%).
-Results of the comparison of treatment zoledronic acid injection compared to pamidronate are given in Table 13.
+Results of the comparison of treatment with zoledronic acid injection compared to pamidronate are given in Table 13.
 
 Table 13: Zoledronic Acid Injection Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer
 

@@ -224,7 +224,7 @@ Renal Toxicity
 In the bone metastases trials, renal deterioration was defined as an increase of 0.5 mg/dL for patients with normal baseline creatinine (<1.4 mg/dL) or an increase of 1 mg/dL for patients with an abnormal baseline creatinine (≥1.4 mg/dL).
 The following are data on the incidence of renal deterioration in patients receiving zoledronic acid injection 4 mg over 15 minutes in these trials (see Table 9).
 
-Table 9: Percentage of Patients with Treatment Emergent Renal Function Deterioration by Baseline Serum Creatinine*
+Table 9: Percentage of Patients with Treatment-Emergent Renal Function Deterioration by Baseline Serum Creatinine*
 
 | Patient Population/Baseline Creatinine |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -285,7 +285,8 @@ In some cases, symptoms resolved with topical steroids.
 Hypersensitivity Reactions
 
 There have been rare reports of allergic reaction with intravenous zoledronic acid including angioedema and bronchoconstriction.
-Very rare cases of anaphylactic reaction/shock have also been reported.
+Very rare cases of anaphylactic reaction/shock have been reported.
+Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been reported.
 
 Additional adverse reactions reported in postmarketing use include:
 
