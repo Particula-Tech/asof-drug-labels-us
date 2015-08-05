@@ -7,8 +7,6 @@ Medroxyprogesterone acetate inhibits (in the usual dose range) the secretion of 
 Because of its prolonged action and the resulting difficulty in predicting the time of withdrawal bleeding following injection, medroxyprogesterone acetate is not recommended in secondary amenorrhea or dysfunctional uterine bleeding.
 In these conditions oral therapy is recommended.
 
-The text of the patient insert for progestational drugs is set forth below.
-
 Rx only
 
-LAB-0143-3.0 May 2006
+LAB-0143-4.0 June 2015

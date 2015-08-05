@@ -1,17 +1,98 @@
 # ADVERSE REACTIONS
 
-–(See WARNINGS for possible adverse effects on the fetus) –breakthrough bleeding –spotting –change in menstrual flow –amenorrhea –headache –nervousness –dizziness –edema –change in weight (increase or decrease) –changes in cervical erosion and cervical secretions –cholestatic jaundice, including neonatal jaundice –breast tenderness and galactorrhea –skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash –acne, alopecia and hirsutism –rash (allergic) with and without pruritis –anaphylactoid reactions and anaphylaxis –mental depression –pyrexia –fatigue –insomnia –nausea –somnolence
+See PRECAUTIONS for possible adverse effects on the fetus
+
+## Reproductive System and Breast Disorders
+
+- –breakthrough bleeding
+- –spotting
+- –change in menstrual flow
+- –amenorrhea
+- –changes in cervical erosion and cervical secretions
+- –breast tenderness and galactorrhea
+- –erectile dysfunction
+
+## Nervous System Disorders
+
+- –headache
+- –dizziness
+- –somnolence
+- –convulsions
+
+## Psychiatric Disorders
+
+- –nervousness
+- –euphoria
+- –mental depression
+- –insomnia
+
+## General Disorders and Administration Site Conditions
+
+- –edema
+- –pyrexia
+- –fatigue
+- –malaise
+
+## Investigations
+
+- –change in weight (increase or decrease)
+
+## Hepatobiliary Disorders
+
+- –cholestatic jaundice, including neonatal jaundice
+
+## Skin and Subcutaneous Tissue Disorders
+
+- –skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash
+- –acne, alopecia and hirsutism
+- –rash (allergic) with and without pruritis
+
+## Immune System Disorders
+
+- –anaphylactoid reactions and anaphylaxis
+- –angioedema
+
+## Gastrointestinal Disorders
+
+- –nausea
+
+## Endocrine Disorders
+
+- –corticoid-like effects (e.g., Cushingoid syndrome)
+
+## Metabolism and Nutrition Disorders
+
+- –hypercalcemia
 
 In a few instances there have been undesirable sequelae at the site of injection, such as residual lump, change in color of skin, or sterile abscess.
 
-A statistically significant association has been demonstrated between use of estrogen-progestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism.
+A statistically significant association has been demonstrated between use of estrogen-pro-gestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism.
 For this reason patients on progestin therapy should be carefully observed.
 There is also evidence suggestive of an association with neuro-ocular lesions, e.g. retinal thrombosis and optic neuritis.
 
 The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs:
 
-–rise in blood pressure in susceptible individuals –premenstrual syndrome –changes in libido –changes in appetite –cystitis-like syndrome –headache –nervousness –fatigue –backache –hirsutism –loss of scalp hair –erythema multiforma –erythema nodosum –hemorrhagic eruption –itching –dizziness
+- –rise in blood pressure in susceptible individuals
+- –premenstrual syndrome
+- –changes in libido
+- –changes in appetite
+- –cystitis-like syndrome
+- –headache
+- –nervousness
+- –fatigue
+- –backache
+- –hirsutism
+- –loss of scalp hair
+- –erythema multiforma
+- –erythema nodosum
+- –hemorrhagic eruption
+- –itching
+- –dizziness
 
 The following laboratory results may be altered by the use of estrogen-progestin combination drugs:
 
-–increased sulfobromophthalein retention and other hepatic function tests –coagulation tests: increase in prothrombin factors VII, VIII, IX, and X –metyrapone test –pregnanediol determinations –thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values
+- –increased sulfobromophthalein retention and other hepatic function tests
+- –coagulation tests: increase in prothrombin factors VII, VIII, IX, and X
+- –metyrapone test
+- –pregnanediol determinations
+- –thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values

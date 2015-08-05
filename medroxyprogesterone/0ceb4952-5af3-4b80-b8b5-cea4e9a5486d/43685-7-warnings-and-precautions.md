@@ -1,37 +1,18 @@
 # WARNINGS
 
-## 1. Pregnancy
-
-The use of progestational drugs during the first four months of pregnancy is not recommended.
-Progestational agents have been used beginning with the first trimester of pregnancy in attempts to prevent abortion but there is no evidence that such use is effective.
-Furthermore, the use of progestational agents, with their uterine-relaxant properties, in patients with fertilized defective ova may cause a delay in spontaneous abortion.
-
-## 2. Intrauterine Exposure
-
-Several reports suggest an association between intrauterine exposure to progestational drugs in the first trimester of pregnancy and genital abnormalities in male and female fetuses.
-The risk of hypospadias (5 to 8 per 1,000 male births in the general population) may be approximately doubled with exposure to these drugs.
-There are insufficient data to quantify the risk to exposed female fetuses, but insofar as some of these drugs induce mild virilization of the external genitalia of the female fetus, and because of the increased association of hypospadias in the male fetus, it is prudent to avoid the use of these drugs during the first trimester of pregnancy.
-
-If the patient is exposed to DEPO-PROVERA Sterile Aqueous Suspension during the first four months of pregnancy or if she becomes pregnant while taking this drug, she should be apprised of the potential risks to the fetus.
-
-## 3. Thromboembolic Disorders
+## 1. Thromboembolic Disorders
 
 The physician should be alert to the earliest manifestations of thrombotic disorder (thrombophlebitis, cerebrovascular disorder, pulmonary embolism, and retinal thrombosis).
 Should any of these occur or be suspected, the drug should be discontinued immediately.
 
-## 4. Ocular Disorders
+## 2. Ocular Disorders
 
 Medication should be discontinued pending examination if there is a sudden partial or complete loss of vision, or if there is a sudden onset of proptosis, diplopia or migraine.
 If examination reveals papilledema or retinal vascular lesions, medication should be withdrawn.
 
-## 5. Lactation
+## 3. Multi-dose Use
 
-Detectable amounts of drug have been identified in the milk of mothers receiving progestational drugs.
-The effect of this on the nursing infant has not been determined.
-
-## 6. Multi-dose Use
-
-Multi-dose use of DEPOPROVERA Sterile Aqueous Suspension from a single vial requires special care to avoid contamination.
+Multi-dose use of DEPO-PROVERA Sterile Aqueous Suspension from a single vial requires special care to avoid contamination.
 Although initially sterile, any multi-dose use of vials may lead to contamination unless strict aseptic technique is observed.
 
 # PRECAUTIONS
@@ -42,25 +23,29 @@ It is good medical practice for all women to have annual history and physical ex
 The physical examination, however, may be deferred until after initiation of DEPO-PROVERA if requested by the woman and judged appropriate by the clinician.
 The physical examination should include special reference to blood pressure, breasts, abdomen and pelvic organs, including cervical cytology and relevant laboratory tests.
 In case of undiagnosed, persistent or recurrent abnormal vaginal bleeding, appropriate measures should be conducted to rule out malignancy.
-Women with a strong family history of breast cancer or who have breast nodules should be monitored with particular care.
 
-## 2. Fluid Retention
+## 2. Breast Cancer
+
+Women who have or have had a history of breast cancer should be advised against the use of DEPO-PROVERA, as breast cancer may be hormonally sensitive.
+Women with a strong family history of breast cancer should be monitored with particular care.
+
+## 3. Fluid Retention
 
 Because progestational drugs may cause some degree of fluid retention, conditions which might be influenced by this condition, such as epilepsy, migraine, asthma, cardiac or renal dysfunction, require careful observation.
 
-## 3. Vaginal Bleeding
+## 4.Vaginal Bleeding
 
 In cases of breakthrough bleeding, as in all cases of irregular bleeding per vaginum, nonfunctional causes should be borne in mind and adequate diagnostic measures undertaken.
 
-## 4. Depression
+## 5. Depression
 
 Patients who have a history of psychic depression should be carefully observed and the drug discontinued if the depression recurs to a serious degree.
 
-## 5. Masking of Climacteric
+## 6.Masking of Climacteric
 
 The age of the patient constitutes no absolute limiting factor although treatment with progestin may mask the onset of the climacteric.
 
-## 6. Use with Estrogen
+## 7. Use with Estrogen
 
 Studies of the addition of a progestin product to an estrogen replacement regimen for seven or more days of a cycle of estrogen administration have reported a lowered incidence of endometrial hyperplasia.
 Morphological and biochemical studies of endometrial suggest that 10–13 days of a progestin are needed to provide maximal maturation of the endometrium and to eliminate any hyperplastic changes.
@@ -73,45 +58,91 @@ A decrease in glucose tolerance has been observed in a small percentage of patie
 The mechanism of this decrease is obscure.
 For this reason, diabetic patients should be carefully observed while receiving such therapy.
 
-## 7. Prolonged Use
+## 8. Hepatic Dysfunction
+
+Monitor patients for hepatic dysfunction periodically and temporarily interrupt DEPO-PROVERA Sterile Aqueous Suspension use if the patient develops hepatic dysfunction.
+Do not resume use until markers of liver function return to normal.
+
+## 9. Decrease in Bone Mineral Density
+
+Medroxyprogesterone acetate given as 150 mg intramuscularly every three months reduces serum estrogen levels and is associated with loss of bone mineral density (BMD).
+This loss of BMD is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
+It is unknown if use of Depo-Provera by younger women will reduce peak bone mass and increase the risk for osteoporotic fracture in later life.
+An evaluation of BMD may be appropriate in some patients who use higher doses of medroxyprogesterone acetate for long-term treatment of endometrial or renal carcinoma.
+
+## 10. Effects on the Hypothalmic-Pituitary-Adrenal Axis
+
+Some patients receiving medroxyprogesterone acetate may exhibit suppressed adrenal function.
+Medroxyprogesterone acetate may have cortisol-like glucocorticoid activity and provide negative feedback to the hypothalamus or pituitary.
+This may result in decreased plasma cortisol levels, decreased cortisol secretion, and low plasma ACTH levels.
+
+The use of DEPO-PROVERA Sterile Aqueous Suspension may, due to its cortisol-like glucocorticoid activity, also produce Cushingoid symptoms such as weight gain, edema/fluid retention, and facial swelling.
+
+## 11. Prolonged Use
 
 The effect of prolonged use of DEPO-PROVERA Sterile Aqueous Suspension at the recommended doses on pituitary, ovarian, adrenal, hepatic, and uterine function is not known.
 
-## 8. Multi-dose Use
+## 12. Interference with Laboratory Tests
+
+The use of DEPO-PROVERA Sterile Aqueous Suspension may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
+[See LABORATORY TEST INTERACTIONS].
+
+## 13. Multi-dose Use
 
 When multi-dose vials are used, special care to prevent contamination of the contents is essential.
 There is some evidence that benzalkonium chloride is not an adequate antiseptic for sterilizing DEPO-PROVERA Sterile Aqueous Suspension multi-dose vials.
 A povidone-iodine solution or similar product is recommended to cleanse the vial top prior to aspiration of contents.
-(See WARNINGS)
+[See WARNINGS].
+
+## 14. Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term intramuscular administration of Medroxyprogesterone acetate (MPA) has been shown to produce mammary tumors in beagle dogs.
+There is no evidence of a carcinogenic effect associated with the oral administration of MPA to rats and mice.
+Medroxyprogesterone acetate was not mutagenic in a battery of in vitro or in vivo genetic toxicity assays.
+
+Medroxyprogesterone acetate at high doses is an anti-fertility drug and return to ovulation and fertility may be delayed after stopping treatment.
+
+## 15. Pregnancy
+
+### Teratogenic effects
+
+It is not known whether medroxyprogesterone acetate can cause fetal harm when administered to a pregnant woman.
+Medroxyprogesterone acetate should be given to a pregnant woman only if clearly needed.
+
+## 16. Nursing Mothers
+
+Published studies report the presence of medroxyprogesterone acetate in human milk.
+Caution should be exercised when medroxyprogesterone acetate is administered to a nursing woman.
+
+## 17. Pediatric Use
+
+Safety and efficacy of DEPO- PROVERA for endometrial and renal carcinoma have not been established in pediatric patients.
+
+Depo-Provera is associated with loss of BMD which is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
+(See PRECAUTIONS: Decrease in Bone Mineral Density)
 
 ## DRUG INTERACTIONS
 
 Aminoglutethimide administered concomitantly with DEPO-PROVERA Sterile Aqueous Suspension may significantly depress the serum concentrations of medroxyprogesterone acetate.
 DEPO-PROVERA users should be warned of the possibility of decreased efficacy with the use of this or any related drugs.
 
+### In vitro
+
+Medroxyprogesterone acetate is metabolized primarily by hydroxylation via the CYP3A4.
+Though no formal drug interaction trials have been conducted, concomitant administration of strong CYP3A inhibitors is expected to increase concentrations of medroxyprogesterone acetate, whereas the concomitant administration of strong CYP3A inducers is expected to decrease medroxyprogesterone acetate concentrations.
+Therefore, coadministration with strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconazole) or strong CYP3A inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentin, phenobarbital, St. John's Wort) should be avoided.
+
 ## LABORATORY TEST INTERACTIONS
 
 The pathologist should be advised of progestin therapy when relevant specimens are submitted.
 The following laboratory tests may be affected by progestins including DEPO-PROVERA Sterile Aqueous Suspension:
 
-1. a)Plasma and urinary steroid levels are decreased (e.g. progesterone, estradiol, pregnanediol, testosterone, cortisol).
-2. b)Gonadotropin levels are decreased.
-3. c)Sex-hormone binding globulin concentrations are decreased.
-4. d)Protein bound iodine and butanol extractable protein bound iodine may increase.
-   T3 uptake values may decrease.
-5. e)Coagulation test values for prothrombin (Factor II), and Factors VII, VIII, IX, and X may increase.
-6. f)Sulfobromophthalein and other liver function test values may be increased.
-7. g)The effects of medroxyprogesterone acetate on lipid metabolism are inconsistent.
-   Both increases and decreases in total cholesterol, triglycerides, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol have been observed in studies.
-
-## CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
-
-Long-term intramuscular administration of Medroxyprogesterone acetate (MPA) has been shown to produce mammary tumors in beagle dogs.
-There is no evidence of a carcinogenic effect associated with the oral administration of MPA to rats and mice.
-Medroxyprogesterone acetate was not mutagenic in a battery of in vitro or in vivo genetic toxicity assays.
-
-Medroxyprogesterone acetate at high doses is an anti-fertility drug and high doses would be expected to impair fertility until the cessation of treatment.
-
-## INFORMATION FOR THE PATIENT
-
-See Patient Information at end of insert.
+- a)Plasma and urinary steroid levels are decreased (e.g. progesterone, estradiol, pregnanediol, testosterone, cortisol).
+- b)Gonadotropin levels are decreased.
+- c)Sex-hormone binding globulin concentrations are decreased.
+- d)Protein bound iodine and butanol extractable protein bound iodine may increase.
+  T3 uptake values may decrease.
+- e)Coagulation test values for prothrombin (Factor II), and Factors VII, VIII, IX, and X may increase.
+- f)Sulfobromophthalein and other liver function test values may be increased.
+- g)The effects of medroxyprogesterone acetate on lipid metabolism are inconsistent.
+  Both increases and decreases in total cholesterol, triglycerides, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol have been observed in studies.
