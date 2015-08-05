@@ -2,14 +2,16 @@
 
 ## 2.1 Adult Patients
 
-PREZISTA must be co-administered with ritonavir to exert its therapeutic effect.
-Failure to correctly co-administer PREZISTA with ritonavir will result in plasma levels of darunavir that will be insufficient to achieve the desired antiviral effect and will alter some drug interactions.
+PREZISTA must be co-administered with cobicistat or ritonavir to exert its therapeutic effect.
+Failure to correctly co-administer PREZISTA with cobicistat or ritonavir will result in plasma levels of darunavir that will be insufficient to achieve the desired antiviral effect and will alter some drug interactions.
 
 Patients who have difficulty swallowing PREZISTA tablets can use the 100 mg/mL PREZISTA oral suspension.
 
+Cobicistat is not indicated for use in twice daily regimens.
+
 Treatment-Naïve Adult Patients
 
-The recommended oral dose of PREZISTA is 800 mg (one 800 mg tablet or 8 mL of the oral suspension) taken with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL of a 80 mg/mL ritonavir oral solution) once daily and with food.
+The recommended oral dose of PREZISTA is 800 mg (one 800 mg tablet or 8 mL of the oral suspension) taken with cobicistat 150 mg (one 150 mg tablet) or ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL of a 80 mg/mL ritonavir oral solution) once daily and with food.
 An 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe.
 
 Treatment-Experienced Adult Patients
@@ -18,8 +20,7 @@ Table 1: Treatment-Experienced Adult Patients
 
 | With no darunavir resistance associated substitutionsV11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | With at least one darunavir resistance associated substitution |
 | --- | --- |
-| Formulations: PREZISTA tablets or oral suspension (100 mg/mL) and ritonavir tablets/capsules (100 mg) or solution (80 mg/mL) |  |
-| PREZISTA 800 mg (one 800 mg tablet) or 8 mLAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe (oral suspension) once daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) once daily and with food | PREZISTA 600 mg (e.g. one 600 mg tablet) or 6 mL (oral suspension) twice daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) twice daily and with food |
+| PREZISTA 800 mg (one 800 mg tablet) or 8 mLAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe (oral suspension) once daily with cobicistat 150 mg (one 150 mg tablet) or ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) once daily and with food | PREZISTA 600 mg (e.g. one 600 mg tablet) or 6 mL (oral suspension) twice daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) twice daily and with food Cobicistat is not indicated for use in twice daily regimens |
 
 For antiretroviral treatment-experienced patients genotypic testing is recommended.
 However, when genotypic testing is not feasible, PREZISTA/ritonavir 600/100 mg twice daily dosing is recommended.
@@ -30,6 +31,8 @@ Healthcare professionals should pay special attention to accurate dose selection
 
 Prescribers should select the appropriate dose of PREZISTA/ritonavir for each individual child based on body weight (kg) and should not exceed the recommended dose for adults.
 
+Cobicistat is not indicated for use in the pediatric population.
+
 Before prescribing PREZISTA, children weighing greater than or equal to 15 kg should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow a tablet, the use of PREZISTA oral suspension should be considered.
 
@@ -38,19 +41,19 @@ PREZISTA should be taken with ritonavir and with food.
 
 The recommendations for the PREZISTA/ritonavir dosage regimens were based on the following:
 
-Twice daily dosing
+Twice Daily Dosing
 
 - Results from two trials in treatment-experienced pediatric subjects 3 to less 18 years of age demonstrating similar darunavir plasma exposures, virologic response rate and safety profile compared to treatment-experienced adults.
 
-Once daily dosing
+Once Daily Dosing
 
 - Results from one trial in treatment-naïve pediatric subjects 12 to less than 18 years of age demonstrating similar darunavir plasma exposures, virologic response rate and safety profile compared to treatment-naïve adults.
 - Results from population pharmacokinetic modeling and simulation in children 3 to less than 12 years of age predicting similar darunavir plasma exposures compared to treatment-naïve adults.
   Although no clinical trial was conducted to collect exposure-safety data, the predicted exposures from the once daily dosing is supported by exposures observed in a pediatric clinical trial where twice-daily dosing was administered.
 
-Dosing recommendations for treatment-naïve pediatric patients or antiretroviral treatment-experienced pediatric patients with no darunavir resistance associated substitutions
+Dosing Recommendations for Treatment-Naïve Pediatric Patients or Antiretroviral Treatment-Experienced Pediatric Patients with No Darunavir Resistance Associated Substitutions
 
-• Pediatric patients weighing at least 10 kg but less than 15 kg
+- Pediatric patients weighing at least 10 kg but less than 15 kg
 
 The weight-based dose in antiretroviral treatment-naïve pediatric patients or antiretroviral treatment-experienced pediatric patients with no darunavir resistance associated substitutions is PREZISTA 35 mg/kg once daily with ritonavir 7 mg/kg once daily using the following table.
 
@@ -65,7 +68,7 @@ Table 2: Recommended dose for pediatric patients weighing 10 kg to less than 15 
 | Greater than or equal to 13 kg to less than 14 kg | PREZISTA 4.6 mL (455 mg) with ritonavir 1 mL (80 mg) |
 | Greater than or equal to 14 kg to less than 15 kg | PREZISTA 5 mL (490 mg) with ritonavir 1.2 mL (96 mg) |
 
-• Pediatric patients weighing at least 15 kg
+- Pediatric patients weighing at least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 
@@ -78,9 +81,9 @@ Table 3: Recommended dose for pediatric patients weighing at least 15 kg who are
 | Greater than or equal to 30 kg to less than 40 kg | PREZISTA 675 mg with ritonavir 100 mg | PREZISTA 6.8 mLThe 675 mg dose using darunavir tablets for this weight group is rounded up to 6.8 mL for suspension dosing convenience.The 6.8 mL and 8 mL darunavir dose should be taken as two (3.4 mL or 4 mL respectively) administrations with the included oral dosing syringe (675 mg) with ritonavir 1.25 mL (100 mg) |
 | Greater than or equal to 40 kg | PREZISTA 800 mg with ritonavir 100 mg | PREZISTA 8 mL (800 mg) with ritonavir 1.25 mL (100 mg) |
 
-Dosing recommendations for treatment-experienced pediatric patients with at least one darunavir resistance associated substitutions
+Dosing Recommendations for Treatment-Experienced Pediatric Patients With At Least One Darunavir Resistance Associated Substitutions
 
-• Pediatric patients weighing at least 10 kg but less than 15 kg
+- Pediatric patients weighing at least 10 kg but less than 15 kg
 
 The weight-based dose in antiretroviral treatment-experienced pediatric patients with at least one darunavir resistance associated substitution is PREZISTA 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily using the following table:
 
@@ -95,7 +98,7 @@ Table 4: Recommended dose for pediatric patients weighing 10 kg to less than 15 
 | Greater than or equal to 13 kg to less than 14 kg | PREZISTA 2.6 mL (260 mg) with ritonavir 0.5 mL (40 mg) |
 | Greater than or equal to 14 kg to less than 15 kg | PREZISTA 2.8 mL (280 mg) with ritonavir 0.6 mL (48 mg) |
 
-• Pediatric patients weighing at least 15 kg
+- Pediatric patients weighing at least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed with PREZISTA oral tablet(s) or suspension using the following table:
 
@@ -113,4 +116,4 @@ Do not use PREZISTA/ritonavir in pediatric patients below 3 years of age [see Wa
 ## 2.3 Patients with Hepatic Impairment
 
 No dose adjustment is required in patients with mild or moderate hepatic impairment.
-No data are available regarding the use of PREZISTA/ritonavir when co-administered to subjects with severe hepatic impairment; therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No data are available regarding the use of PREZISTA/cobicistat or PREZISTA/ritonavir when co-administered to subjects with severe hepatic impairment; therefore, PREZISTA/cobicistat or PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

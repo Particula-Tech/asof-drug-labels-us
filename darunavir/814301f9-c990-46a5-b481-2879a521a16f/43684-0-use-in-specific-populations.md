@@ -27,6 +27,8 @@ Because of both the potential for HIV transmission and the potential for serious
 
 ## 8.4 Pediatric Use
 
+Cobicistat is not indicated for use in the pediatric population.
+
 Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.11), Use in Specific Populations (8.1), Clinical Pharmacology (12.3) and Nonclinical Toxicology (13.2)].
 
 The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir were evaluated in treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighting at least 10 kg.
@@ -47,12 +49,14 @@ In general, caution should be exercised in the administration and monitoring of 
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment of PREZISTA/ritonavir is necessary for patients with either mild or moderate hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of PREZISTA/ritonavir in subjects with severe hepatic impairment.
-Therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No dose adjustment of PREZISTA/cobicistat or PREZISTA/ritonavir is necessary for patients with either mild or moderate hepatic impairment.
+No pharmacokinetic or safety data are available regarding the use of PREZISTA/cobicistat or PREZISTA/ritonavir in subjects with severe hepatic impairment.
+Therefore, PREZISTA/cobicistat or PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-infected subjects with moderate renal impairment (CrCL between 30–60 mL/min, n=20).
 No pharmacokinetic data are available in HIV-1-infected patients with severe renal impairment or end stage renal disease; however, because the renal clearance of darunavir is limited, a decrease in total body clearance is not expected in patients with renal impairment.
-As darunavir and ritonavir are highly bound to plasma proteins, it is unlikely that they will be significantly removed by hemodialysis or peritoneal dialysis [see Clinical Pharmacology (12.3)].
+As darunavir, cobicistat and ritonavir are highly bound to plasma proteins, it is unlikely that they will be significantly removed by hemodialysis or peritoneal dialysis [see Clinical Pharmacology (12.3)].
+
+Please refer to cobicistat U.S. prescribing information for additional information.

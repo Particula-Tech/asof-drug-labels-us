@@ -20,14 +20,16 @@ General
 Darunavir is primarily metabolized by CYP3A.
 Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir.
 When a single dose of PREZISTA 600 mg was given orally in combination with 100 mg ritonavir twice daily, there was an approximate 14-fold increase in the systemic exposure of darunavir.
-Therefore, PREZISTA should only be used in combination with 100 mg of ritonavir to achieve sufficient exposures of darunavir.
+Cobicistat 150 mg has shown pharmacokinetic enhancing effects on darunavir 800 mg q.d. similar to that of ritonavir 100 mg.
+Therefore, PREZISTA should only be used in combination with a pharmacoenhancer (150 mg of cobicistat or 100 mg of ritonavir) to achieve sufficient exposures of darunavir.
+Please refer to cobicistat U.S. prescribing information for additional information on pharmacokinetics of darunavir in combination of 150 mg cobicistat.
 
 The pharmacokinetics of darunavir, co-administered with low dose ritonavir (100 mg), has been evaluated in healthy adult volunteers and in HIV-1-infected subjects.
 Table 12 displays the population pharmacokinetic estimates of darunavir after oral administration of PREZISTA/ritonavir 600/100 mg twice daily [based on sparse sampling in 285 patients in study TMC114-C214, 278 patients in Study TMC114-C229 and 119 patients (integrated data) from Studies TMC114-C202 and TMC114-C213] and PREZISTA/ritonavir 800/100 mg once daily [based on sparse sampling in 335 patients in Study TMC114-C211 and 280 patients in Study TMC114-C229] to HIV-1-infected patients.
 
 Table 12: Population Pharmacokinetic Estimates of Darunavir at PREZISTA/ritonavir 800/100 mg Once Daily (Study TMC114-C211, 48-Week Analysis and Study TMC114-C229, 48-Week Analysis) and PREZISTA/ritonavir 600/100 mg Twice Daily (Study TMC114-C214, 48-Week Analysis, Study TMC114-C229, 48-Week Analysis and Integrated Data from Studies TMC114-C213 and TMC114-C202, Primary 24-Week Analysis)
 
-| Parameter | Study TMC114-C211 PREZISTA/ ritonavir 800/100 mg once daily N=335 | Study TMC114-C229 PREZISTA/ ritonavir 800/100 mg once daily N=280 | Study TMC114-C214 PREZISTA/ ritonavir 600/100 mg twice daily N=285 | Study TMC114-C229 PREZISTA/ ritonavir 600/100 mg twice daily N=278 | Studies TMC114-C213 and TMC114-C202 (integrated data) PREZISTA/ ritonavir 600/100 mg twice daily N=119 |
+| Parameter | Study TMC114-C211 PREZISTA / ritonavir 800/100 mg once daily N=335 | Study TMC114-C229 PREZISTA / ritonavir 800/100 mg once daily N=280 | Study TMC114-C214 PREZISTA / ritonavir 600/100 mg twice daily N=285 | Study TMC114-C229 PREZISTA / ritonavir 600/100 mg twice daily N=278 | Studies TMC114-C213 and TMC114-C202 (integrated data) PREZISTA / ritonavir 600/100 mg twice daily N=119 |
 | --- | --- | --- | --- | --- | --- |
 | AUC24h (ng∙h/mL)AUC24h is calculated as AUC12h*2 |  |  |  |  |  |
 | Mean ± Standard Deviation | 93026 ± 27050 | 93334 ± 28626 | 116796 ± 33594 | 114302 ± 32681 | 124698 ± 32286 |
@@ -77,7 +79,7 @@ Darunavir is primarily metabolized by the liver.
 The steady-state pharmacokinetic parameters of darunavir were similar after multiple dose co-administration of PREZISTA/ritonavir 600/100 mg twice daily to subjects with normal hepatic function (n=16), mild hepatic impairment (Child-Pugh Class A, n=8), and moderate hepatic impairment (Child-Pugh Class B, n=8).
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been evaluated [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
-Hepatitis B or Hepatitis C Virus Co-infection
+Hepatitis B or Hepatitis C Virus Co-Infection
 
 The 48-week analysis of the data from Studies TMC114-C211 and TMC114-C214 in HIV-1-infected subjects indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
 
@@ -118,30 +120,30 @@ The population pharmacokinetic parameters in pediatric subjects with PREZISTA/ri
 
 Table 13: Population Pharmacokinetic Estimates of Darunavir Exposure (Study TMC114-C230, Study TMC114-C212 and Study TMC114-C228) Following Administration of Doses in Tables 2 and 3
 
-| 10 to less than 15 kgCalculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N=10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the - Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily. N=13 |  |  |  |
+|  |  |  | 10 to less than 15 kgCalculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N=10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the – Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily. N=13 |
 | --- | --- | --- | --- | --- |
-| Parameter | Study TMC114-C230 PREZISTA/ritonavir once dailySummary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg q.d. in treatment-naïve HIV-1 infected subjects from 12 to < 18 years of age –Week-48 Analyses N=12 | Study TMC114-C212 PREZISTA/ ritonavir twice daily N=74 | Study TMC114-C228 PREZISTA/ ritonavir twice dailySubjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
+| Parameter | Study TMC114-C230 PREZISTA/ritonavir once dailySummary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg q.d. in treatment-naïve HIV-1 infected subjects from 12 to <18 years of age – Week-48 Analyses N=12 | Study TMC114-C212 PREZISTA/ritonavir twice daily N=74 | Study TMC114-C228 PREZISTA/ritonavir twice dailySubjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
 | AUC24h (ng∙h/mL) AUC24h is calculated as AUC12h*2 |  |  |  |  |
 | Mean ± Standard Deviation | 84390 ± 23587 | 126377 ± 34356 | 137896 ± 51420 | 157760 ± 54080 |
-| Median (Range) | 86741 (35527–123325) | 127340 (67054–230720) | 124044 (89688–261090) | 132698 (112310 – 294840) |
+| Median (Range) | 86741 (35527–123325) | 127340 (67054–230720) | 124044 (89688–261090) | 132698 (112310–294840) |
 | C0h (ng/mL) |  |  |  |  |
 | Mean ± Standard Deviation | 2141 ± 865 | 3948 ± 1363 | 4510 ± 2031 | 4848 ± 2143 |
-| Median (Range) | 2234 (542–3776) | 3888 (1836–7821) | 4126 (2456–9361) | 3927 (3046 – 10292) |
+| Median (Range) | 2234 (542–3776) | 3888 (1836–7821) | 4126 (2456–9361) | 3927 (3046–10292) |
 | N=number of subjects with data. |  |  |  |  |
 
 Drug Interactions
 
 [See also Contraindications (4), Warnings and Precautions (5.5), and Drug Interactions (7).]
 
-Darunavir co-administered with ritonavir is an inhibitor of CYP3A, CYP2D6, and P-gp.
-Co-administration of darunavir and ritonavir with drugs primarily metabolized by CYP3A and CYP2D6, or are transported by P-gp, may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events.
+Darunavir co-administered with cobicistat or ritonavir is an inhibitor of CYP3A, CYP2D6, and P-gp.
+Co-administration of darunavir and cobicistat or ritonavir with drugs primarily metabolized by CYP3A and CYP2D6, or are transported by P-gp, may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events.
 
-Darunavir and ritonavir are metabolized by CYP3A.
+Darunavir, cobicistat and ritonavir are metabolized by CYP3A.
 In vitro data indicate that darunavir may be a P-gp substrate.
-Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and ritonavir, resulting in lowered plasma concentrations of darunavir and ritonavir.
-Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A or P-gp may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir.
+Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and cobicistat or ritonavir, resulting in lowered plasma concentrations of darunavir and cobicistat or ritonavir.
+Co-administration of darunavir and cobicistat or ritonavir and other drugs that inhibit CYP3A or P-gp may decrease the clearance of darunavir and cobicistat or ritonavir and may result in increased plasma concentrations of darunavir and cobicistat or ritonavir.
 
-Drug interaction studies were performed with darunavir and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
+Drug interaction studies were performed with darunavir/ritonavir and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
 The effects of co-administration of darunavir on the AUC, Cmax, and Cmin values are summarized in Table 14 (effect of other drugs on darunavir) and Table 15 (effect of darunavir on other drugs).
 For information regarding clinical recommendations, see Drug Interactions (7).
 
@@ -149,14 +151,14 @@ Several interaction studies have been performed with a dose other than the recom
 
 Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Presence of Co-administered Drugs
 
-| Co-Administered Drug | Darunavir/ ritonavir | Cmax | AUC | Cmin |  |  |  |
+| Co-Administered Drug | Darunavir/ritonavir | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose/Schedule |  | N | PK | LS Mean Ratio (90% CI) of Darunavir Pharmacokinetic Parameters With/Without Co-administered Drug No Effect =1.00 |  |  |
 | Co-Administration With Other HIV Protease Inhibitors |  |  |  |  |  |  |  |
 | Atazanavir | 300 mg q.d.q.d. = once daily | 400/100 mg b.i.d. b.i.d. = twice daily | 13 | ↔ | 1.02 (0.96–1.09) | 1.03 (0.94–1.12) | 1.01 (0.88–1.16) |
 | Indinavir | 800 mg b.i.d. | 400/100 mg b.i.d. | 9 | ↑ | 1.11 (0.98–1.26) | 1.24 (1.09–1.42) | 1.44 (1.13–1.82) |
-| Lopinavir/ Ritonavir | 400/100 mg b.i.d. | 1200/100 mg b.i.d.The pharmacokinetic parameters of darunavir in this study were compared with the pharmacokinetic parameters following administration of darunavir/ritonavir 600/100 mg b.i.d. | 14 | ↓ | 0.79 (0.67–0.92) | 0.62 (0.53–0.73) | 0.49 (0.39–0.63) |
-|  | 533/133.3 mg b.i.d. | 1200 mg b.i.d. | 15 | ↓ | 0.79 (0.64–0.97) | 0.59 (0.50–0.70) | 0.45 (0.38–0.52) |
+|  | 400/100 mg b.i.d. | 1200/100 mg b.i.d.The pharmacokinetic parameters of darunavir in this study were compared with the pharmacokinetic parameters following administration of darunavir/ritonavir 600/100 mg b.i.d. | 14 | ↓ | 0.79 (0.67–0.92) | 0.62 (0.53–0.73) | 0.49 (0.39–0.63) |
+| Lopinavir/ Ritonavir | 533/133.3 mg b.i.d. | 1200 mg b.i.d. | 15 | ↓ | 0.79 (0.64–0.97) | 0.59 (0.50–0.70) | 0.45 (0.38–0.52) |
 | Saquinavir hard gel capsule | 1000 mg b.i.d. | 400/100 mg b.i.d. | 14 | ↓ | 0.83 (0.75–0.92) | 0.74 (0.63–0.86) | 0.58 (0.47–0.72) |
 | Co-Administration With Other HIV Antiretrovirals |  |  |  |  |  |  |  |
 | Didanosine | 400 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.93 (0.86–1.00) | 1.01 (0.95–1.07) | 1.07 (0.95–1.21) |
@@ -166,7 +168,7 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Rilpivirine | 150 mg q.d. | 800/100 mg q.d. | 15 | ↔ | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Tenofovir Disoproxil Fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.16 (0.94–1.42) | 1.21 (0.95–1.54) | 1.24 (0.90–1.69) |
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
-| BoceprevirAUC is AUC(0-last); N=10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
+| BoceprevirAUC is AUC(0–last); N=10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
 | Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N=14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | Simeprevir | 50 mg q.d. The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with darunavir/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group. | 800 mg q.d. | 25Maximum number of subjects | ↑ | 1.04 (0.99–1.10) | 1.18 (1.11–1.25) | 1.31 (1.13–1.52) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
@@ -180,11 +182,11 @@ Table 14: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Ranitidine | 150 mg b.i.d. | 400/100 mg b.i.d. | 16 | ↔ | 0.96 (0.89–1.05) | 0.95 (0.90–1.01) | 0.94 (0.90–0.99) |
 | Rifabutin | 150 mg q.o.d.q.o.d. = every other day | 600/100 mg b.i.d. | 11 | ↑ | 1.42 (1.21–1.67) | 1.57 (1.28–1.93) | 1.75 (1.28–2.37) |
 | Sertraline | 50 mg q.d. | 400/100 mg b.i.d. | 13 | ↔ | 1.01 (0.89–1.14) | 0.98 (0.84–1.14) | 0.94 (0.76–1.16) |
-| N=number of subjects with data |  |  |  |  |  |  |  |
+| N = number of subjects with data |  |  |  |  |  |  |  |
 
 Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Darunavir/Ritonavir
 
-| Co-Administered Drug | Darunavir/ ritonavir | Cmax | AUC | Cmin |  |  |  |
+| Co-Administered Drug | Darunavir/ritonavir | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose/Schedule |  | N | PK | LS Mean Ratio (90% CI) of Co-Administered Drug Pharmacokinetic Parameters With/Without Darunavir No effect =1.00 |  |  |
 | Co-Administration With Other HIV Protease Inhibitors |  |  |  |  |  |  |  |
@@ -243,7 +245,7 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 |  | 25 mg (single dose) when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | S-warfarin | 10 mg single dose | 600/100 mg b.i.d. | 12 | ↓ | 0.92 (0.86–0.97) | 0.79 (0.73–0.85) | - |
 | 7-OH-S-warfarin |  |  | 12 | ↑ | 1.42 (1.24–1.63) | 1.23 (0.97–1.57) | - |
-| N=number of subjects with data;- = no information available |  |  |  |  |  |  |  |
+| N = number of subjects with data;- = no information available |  |  |  |  |  |  |  |
 | A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of darunavir/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 15. |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
@@ -319,9 +321,9 @@ Diminished virologic responses were observed in subjects with 5 or more baseline
 
 Table 16: Response to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Number of IAS-Defined Primary PI Resistance-Associated Substitutions: As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
 
-| # IAS-Defined Primary PI Substitutions | Overall | De Novo ENF | Re-Used/ No ENF |
+| # IAS-Defined Primary PI Substitutions | Overall | de novo ENF | Re-Used/No ENF |
 | --- | --- | --- | --- |
-|  | Studies TMC114-C213, TMC114-C202, TMC114-C215 < 50 copies/mL at Week 96 N=439 |  |  |
+|  | Studies TMC114-C213, TMC114-C202, TMC114-C215 <50 copies/mL at Week 96 N=439 |  |  |
 | All | 44% (192/439) | 54% (61/112) | 40% (131/327) |
 | 0 – 4 | 50% (162/322) | 58% (49/85) | 48% (113/237) |
 | 5 | 22% (16/74) | 47% (9/19) | 13% (7/55) |
@@ -336,11 +338,11 @@ Response rates assessed by baseline darunavir phenotype are shown in Table 17.
 These baseline phenotype groups are based on the select patient populations in the Studies TMC114-C213, TMC114-C202, and TMC114-C215, and are not meant to represent definitive clinical susceptibility breakpoints for PREZISTA/ritonavir.
 The data are provided to give clinicians information on the likelihood of virologic success based on pre-treatment susceptibility to darunavir.
 
-Table 17: Response (HIV-1 RNA < 50 copies/mL at Week 96) to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Darunavir Phenotype and by Use of Enfuvirtide (ENF): As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
+Table 17: Response (HIV-1 RNA <50 copies/mL at Week 96) to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Darunavir Phenotype and by Use of Enfuvirtide (ENF): As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
 
-| Baseline DRV Phenotype | All | De Novo ENF | Re-Used/ No ENF |
+| Baseline DRV Phenotype | All | de novo ENF | Re-Used/No ENF |
 | --- | --- | --- | --- |
-|  | Proportion of Subjects with < 50 copies/mL at Week 96 N=417 |  |  |
+|  | Proportion of Subjects with <50 copies/mL at Week 96 N=417 |  |  |
 | Overall | 175/417 (42%) | 61/112 (54%) | 131/327 (40%) |
 | 0 – 7 | 148/270 (55%) | 44/65 (68%) | 104/205 (51%) |
 | > 7 – 20 | 16/53 (30%) | 7/17 (41%) | 9/36 (25%) |

@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 PREZISTA (pre-ZIS-ta) (darunavir) Oral Suspension
 
@@ -8,7 +8,7 @@ Read this Patient Information before you start taking PREZISTA and each time you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Also read the Patient Information leaflet for NORVIR® (ritonavir).
+Also read the Patient Information leaflet for TYBOST®(cobicistat) or NORVIR® (ritonavir) depending on what your doctor has prescribed to you.
 
 What is the most important information I should know about PREZISTA?
 
@@ -16,7 +16,7 @@ What is the most important information I should know about PREZISTA?
   It is important to know the medicines that should not be taken with PREZISTA.
   See the section "Who should not take PREZISTA?"
 - PREZISTA may cause liver problems.
-  Some people taking PREZISTA in combination with NORVIR® (ritonavir) have developed liver problems which may be life-threatening.
+  Some people taking PREZISTA in combination with TYBOST®(cobicistat) or NORVIR® (ritonavir) have developed liver problems which may be life-threatening.
   Your healthcare provider should do blood tests before and during your combination treatment with PREZISTA.
   If you have chronic hepatitis B or C infection, your healthcare provider should check your blood tests more often because you have an increased chance of developing liver problems.
 - Tell your healthcare provider if you have any of the below signs and symptoms of liver problems.
@@ -31,7 +31,7 @@ What is the most important information I should know about PREZISTA?
 PREZISTA may cause severe or life-threatening skin reactions or rash.
 Sometimes these skin reactions and skin rashes can become severe and require treatment in a hospital.
 You should call your healthcare provider immediately if you develop a rash.
-However, stop taking PREZISTA and ritonavir combination treatment and call your healthcare provider immediately if you develop any skin changes with symptoms below:
+However, stop taking PREZISTA and cobicistat or ritonavir combination treatment and call your healthcare provider immediately if you develop any skin changes with symptoms below:
 
 - fever
 - tiredness
@@ -94,10 +94,10 @@ What should I tell my doctor before I take PREZISTA?
 PREZISTA may not be right for you.
 Before taking PREZISTA, tell your healthcare provider if you:
 
-- have liver problems, including hepatitis B or hepatitis C
-- are allergic to sulfa medicines
-- have high blood sugar (diabetes)
-- have hemophilia
+- have liver problems, including hepatitis B or hepatitis C.
+- are allergic to sulfa medicines.
+- have high blood sugar (diabetes).
+- have hemophilia.
 - are pregnant or planning to become pregnant.
   It is not known if PREZISTA will harm your unborn baby.
   Pregnancy Registry: You and your healthcare provider will need to decide if taking PREZISTA is right for you.
@@ -118,7 +118,7 @@ The generic name is provided, followed by examples of possible brand names for t
 - medicine to treat HIV
 - estrogen-based contraceptives (birth control).
   PREZISTA might reduce the effectiveness of estrogen-based contraceptives.
-  You must take additional precautions for birth control such as a condom.
+  You must take additional precautions for birth control such as a condom
 - medicines to prevent organ transplant rejection such as cyclosporine (Gengraf®, Sandimmune®, Neoral®), tacrolimus (Prograf®), sirolimus (Rapamune®)
 - any medicines that contain steroids
 - amiodarone (Pacerone®, Cardarone®)
@@ -181,7 +181,7 @@ The generic name is provided, followed by examples of possible brand names for t
 - sildenafil (Viagra®, Revatio®)
 - simeprevir (OLYSIO™)
 - tadalafil (Cialis®, Adcirca®)
-- telaprevir (IncivekTM)
+- telaprevir (Incivek™)
 - thioridazine (Mellaril®)
 - timolol (Cosopt®, Betimol®, Timoptic®, Isatolol®, Combigan®)
 - trazodone (Oleptro®, Desyrel®)
@@ -202,9 +202,9 @@ Do not start any new medicines while you are taking PREZISTA without first talki
 How should I take PREZISTA?
 
 - Take PREZISTA every day exactly as prescribed by your healthcare provider.
-- You must take ritonavir (NORVIR®) at the same time as PREZISTA.
+- You must take cobicistat (TYBOST®) or ritonavir (NORVIR®) at the same time as PREZISTA.
 - Do not change your dose of PREZISTA or stop treatment without talking to your healthcare provider first.
-- Take PREZISTA and ritonavir (NORVIR®) with food.
+- Take PREZISTA and cobicistat (TYBOST®) or ritonavir (NORVIR®) with food.
 - Swallow PREZISTA tablets whole with a drink.
   If you have difficulty swallowing PREZISTA tablets, PREZISTA oral suspension is also available.
   Your health care provider will help decide whether PREZISTA tablets or oral suspension is right for you.
@@ -250,7 +250,7 @@ PREZISTA can cause side effects including:
   The changes may include an increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the back, chest, and stomach area.
   Loss of fat from the legs, arms, and face may also happen.
   The exact cause and long-term health effects of these conditions are not known.
-- Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV medicines.
+- Changes in your immune system (Immune Reconstitution Inflammatory Syndrome) can happen when you start taking HIV medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Call your healthcare provider right away if you start having new symptoms after starting your HIV medicine.
 - Increased bleeding for hemophiliacs.
@@ -301,7 +301,7 @@ Active ingredient: darunavir
 
 Inactive ingredients:
 
-PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor, hydrochloric acid (for pH adjustment), purified water.
+PREZISTA Oral Suspension: citric acid monohydrate, hydrochloric acid (for pH adjustment), hydroxypropyl cellulose, masking flavor, methylparaben sodium, microcrystalline cellulose, purified water, sodium carboxymethylcellulose, strawberry cream flavor, sucralose.
 
 PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
 The film coating contains: OPADRY® White (polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
@@ -314,17 +314,25 @@ The film coating contains: OPADRY® Dark Red (iron oxide red, polyethylene glyco
 
 This Patient Information has been approved by the U.S Food and Drug Administration.
 
-Product of Ireland Manufactured by: PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
+Product of Ireland
+
+Manufactured by:
+
+PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
 Beerse, Belgium
 
 PREZISTA Tablets Janssen Ortho LLC, Gurabo, PR 00778
 
-Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
+Manufactured for:
 
-Revised: May 2015
+Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
+
+Revised: June 2015
 
 NORVIR® is a registered trademark of its respective owner.
 
 PREZISTA® is a registered trademark of Janssen Pharmaceuticals
+
+TYBOST® is a registered trademark of its respective owner.
 
 © Janssen Pharmaceuticals, Inc. 2006

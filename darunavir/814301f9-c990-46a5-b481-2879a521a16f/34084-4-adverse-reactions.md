@@ -4,7 +4,7 @@ The overall safety profile of PREZISTA/ritonavir 800/100 mg once daily and PREZI
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Due to the need for co-administration of PREZISTA with ritonavir, please refer to ritonavir prescribing information for ritonavir-associated adverse reactions.
+Due to the need for co-administration of PREZISTA with cobicistat or ritonavir, please refer to cobicistat U.S. prescribing information for cobicistat-associated adverse reactions and ritonavir U.S. prescribing information for ritonavir-associated adverse reactions.
 
 ## 6.1 Clinical Trials Experience: Treatment-Naïve Adults
 
@@ -30,14 +30,14 @@ Table 7: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 800/100 
 | Nausea | 4% | 4% |
 | Vomiting | 2% | 4% |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatigue | < 1% | 3% |
+| Fatigue | <1% | 3% |
 | Metabolism and Nutrition Disorders |  |  |
-| Anorexia | 2% | < 1% |
+| Anorexia | 2% | <1% |
 | Nervous System Disorders |  |  |
 | Headache | 7% | 6% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 6% | 7% |
-| N=total number of subjects per treatment group TDF = tenofovir disoproxil fumarate FTC = emtricitabine |  |  |
+| N=total number of subjects per treatment group TDF=tenofovir disoproxil fumarate FTC=emtricitabine |  |  |
 
 Less Common Adverse Reactions
 
@@ -59,7 +59,7 @@ Psychiatric Disorders: abnormal dreams
 
 Skin and Subcutaneous Tissue Disorders: angioedema, pruritus, Stevens-Johnson Syndrome, urticaria
 
-Laboratory abnormalities:
+Laboratory Abnormalities
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-naïve adult subjects treated with PREZISTA/ritonavir 800/100 mg once daily are presented in Table 8.
 
@@ -72,18 +72,18 @@ Table 8: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Alanine Aminotransferase |  |  |  |
 | Grade 2 | > 2.5 to ≤ 5.0 × ULN | 9% | 9% |
 | Grade 3 | > 5.0 to ≤ 10.0 × ULN | 3% | 3% |
-| Grade 4 | > 10.0 × ULN | < 1% | 3% |
+| Grade 4 | > 10.0 × ULN | <1% | 3% |
 | Aspartate Aminotransferase |  |  |  |
 | Grade 2 | > 2.5 to ≤ 5.0 × ULN | 7% | 10% |
 | Grade 3 | > 5.0 to ≤ 10.0 × ULN | 4% | 2% |
 | Grade 4 | > 10.0 × ULN | 1% | 3% |
 | Alkaline Phosphatase |  |  |  |
 | Grade 2 | > 2.5 to ≤ 5.0 × ULN | 1% | 1% |
-| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 0% | < 1% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | 0% | <1% |
 | Grade 4 | > 10.0 × ULN | 0% | 0% |
 | Hyperbilirubinemia |  |  |  |
-| Grade 2 | > 1.5 to ≤ 2.5 × ULN | < 1% | 5% |
-| Grade 3 | > 2.5 to ≤ 5.0 × ULN | < 1% | < 1% |
+| Grade 2 | > 1.5 to ≤ 2.5 × ULN | <1% | 5% |
+| Grade 3 | > 2.5 to ≤ 5.0 × ULN | <1% | <1% |
 | Grade 4 | > 5.0 × ULN | 0% | 0% |
 | Triglycerides |  |  |  |
 | Grade 2 | 5.65–8.48 mmol/L 500–750 mg/dL | 3% | 10% |
@@ -97,17 +97,17 @@ Table 8: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 9% | 6% |
 | Elevated Glucose Levels |  |  |  |
 | Grade 2 | 6.95–13.88 mmol/L 126–250 mg/dL | 11% | 10% |
-| Grade 3 | 13.89–27.75 mmol/L 251–500 mg/dL | 1% | < 1% |
+| Grade 3 | 13.89–27.75 mmol/L 251–500 mg/dL | 1% | <1% |
 | Grade 4 | > 27.75 mmol/L > 500 mg/dL | 0% | 0% |
 | Pancreatic Lipase |  |  |  |
 | Grade 2 | > 1.5 to ≤ 3.0 × ULN | 3% | 2% |
-| Grade 3 | > 3.0 to ≤ 5.0 × ULN | < 1% | 1% |
-| Grade 4 | > 5.0 × ULN | 0% | < 1% |
+| Grade 3 | > 3.0 to ≤ 5.0 × ULN | <1% | 1% |
+| Grade 4 | > 5.0 × ULN | 0% | <1% |
 | Pancreatic Amylase |  |  |  |
 | Grade 2 | > 1.5 to ≤ 2.0 × ULN | 5% | 2% |
 | Grade 3 | > 2.0 to ≤ 5.0 × ULN | 5% | 4% |
-| Grade 4 | > 5.0 × ULN | 0% | < 1% |
-| N=total number of subjects per treatment group TDF = tenofovir disoproxil fumarate FTC = emtricitabine |  |  |  |
+| Grade 4 | > 5.0 × ULN | 0% | <1% |
+| N=total number of subjects per treatment group TDF=tenofovir disoproxil fumarate FTC=emtricitabine |  |  |  |
 
 ## 6.2 Clinical Trials Experience: Treatment-Experienced Adults
 
@@ -122,13 +122,13 @@ The most common clinical ADRs to PREZISTA/ritonavir 600/100 mg twice daily (grea
 
 ADRs to PREZISTA/ritonavir 600/100 mg twice daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 9 and subsequent text below the table.
 
-Table 9: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥ Grade 2) Occurring in ≥ 2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects
+Table 9: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥ Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects
 
 | System Organ Class, Preferred Term, % | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
 |  | Randomized Study TMC114-C214 |  |
 | Gastrointestinal Disorders |  |  |
-| Abdominal distension | 2% | < 1% |
+| Abdominal distension | 2% | <1% |
 | Abdominal pain | 6% | 3% |
 | Diarrhea | 14% | 20% |
 | Dyspepsia | 2% | 1% |
@@ -139,12 +139,12 @@ Table 9: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 
 | Fatigue | 2% | 1% |
 | Metabolism and Nutrition Disorders |  |  |
 | Anorexia | 2% | 2% |
-| Diabetes mellitus | 2% | < 1% |
+| Diabetes mellitus | 2% | <1% |
 | Nervous System Disorders |  |  |
 | Headache | 3% | 3% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 7% | 3% |
-| N=total number of subjects per treatment group OBR = optimized background regimen |  |  |
+| N=total number of subjects per treatment group OBR=optimized background regimen |  |  |
 
 Less Common Adverse Reactions
 
@@ -158,9 +158,9 @@ Psychiatric Disorders: abnormal dreams
 
 Skin and Subcutaneous Tissue Disorders: pruritus, urticaria
 
-Laboratory abnormalities
+Laboratory Abnormalities
 
-Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented inTable 10.
+Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented in Table 10.
 
 Table 10: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale
 
@@ -175,15 +175,15 @@ Table 10: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treat
 | Aspartate Aminotransferase |  |  |  |
 | Grade 2 | > 2.5 to ≤ 5.0 × ULN | 6% | 6% |
 | Grade 3 | > 5.0 to ≤ 10.0 × ULN | 2% | 2% |
-| Grade 4 | > 10.0 × ULN | < 1% | 2% |
+| Grade 4 | > 10.0 × ULN | <1% | 2% |
 | Alkaline Phosphatase |  |  |  |
-| Grade 2 | > 2.5 to ≤ 5.0 × ULN | < 1% | 0% |
-| Grade 3 | > 5.0 to ≤ 10.0 × ULN | < 1% | < 1% |
+| Grade 2 | > 2.5 to ≤ 5.0 × ULN | <1% | 0% |
+| Grade 3 | > 5.0 to ≤ 10.0 × ULN | <1% | <1% |
 | Grade 4 | > 10.0 × ULN | 0% | 0% |
 | Hyperbilirubinemia |  |  |  |
-| Grade 2 | > 1.5 to ≤ 2.5 × ULN | < 1% | 2% |
-| Grade 3 | > 2.5 to ≤ 5.0 × ULN | < 1% | < 1% |
-| Grade 4 | > 5.0 × ULN | < 1% | 0% |
+| Grade 2 | > 1.5 to ≤ 2.5 × ULN | <1% | 2% |
+| Grade 3 | > 2.5 to ≤ 5.0 × ULN | <1% | <1% |
+| Grade 4 | > 5.0 × ULN | <1% | 0% |
 | Triglycerides |  |  |  |
 | Grade 2 | 5.65–8.48 mmol/L 500–750 mg/dL | 10% | 11% |
 | Grade 3 | 8.49–13.56 mmol/L 751–1200 mg/dL | 7% | 10% |
@@ -196,23 +196,23 @@ Table 10: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treat
 | Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 8% | 9% |
 | Elevated Glucose Levels |  |  |  |
 | Grade 2 | 6.95–13.88 mmol/L 126–250 mg/dL | 10% | 11% |
-| Grade 3 | 13.89–27.75 mmol/L 251–500 mg/dL | 1% | < 1% |
-| Grade 4 | > 27.75 mmol/L > 500 mg/dL | < 1% | 0% |
+| Grade 3 | 13.89–27.75 mmol/L 251–500 mg/dL | 1% | <1% |
+| Grade 4 | > 27.75 mmol/L > 500 mg/dL | <1% | 0% |
 | Pancreatic Lipase |  |  |  |
 | Grade 2 | > 1.5 to ≤ 3.0 × ULN | 3% | 4% |
-| Grade 3 | > 3.0 to ≤ 5.0 × ULN | 2% | < 1% |
-| Grade 4 | > 5.0 × ULN | < 1% | 0% |
+| Grade 3 | > 3.0 to ≤ 5.0 × ULN | 2% | <1% |
+| Grade 4 | > 5.0 × ULN | <1% | 0% |
 | Pancreatic Amylase |  |  |  |
 | Grade 2 | > 1.5 to ≤ 2.0 × ULN | 6% | 7% |
 | Grade 3 | > 2.0 to ≤ 5.0 × ULN | 7% | 3% |
 | Grade 4 | > 5.0 × ULN | 0% | 0% |
-| N=total number of subjects per treatment group OBR = optimized background regimen |  |  |  |
+| N=total number of subjects per treatment group OBR=optimized background regimen |  |  |  |
 
 ## 6.3 Serious ADRs
 
 The following serious ADRs of at least moderate intensity (greater than or equal to Grade 2) occurred in the Phase 2b studies and Phase 3 studies with PREZISTA/ritonavir: abdominal pain, acute hepatitis, acute pancreatitis, anorexia, asthenia, diabetes mellitus, diarrhea, fatigue, headache, hepatic enzyme increased, hypercholesterolemia, hyperglycemia, hypertriglyceridemia, immune reconstitution syndrome, low density lipoprotein increased, nausea, pancreatic enzyme increased, rash, Stevens-Johnson Syndrome, and vomiting.
 
-## 6.4 Patients co-infected with hepatitis B and/or hepatitis C virus
+## 6.4 Patients Co-Infected with Hepatitis B and/or Hepatitis C Virus
 
 In subjects co-infected with hepatitis B or C virus receiving PREZISTA/ritonavir, the incidence of adverse events and clinical chemistry abnormalities was not higher than in subjects receiving PREZISTA/ritonavir who were not co-infected, except for increased hepatic enzymes [see Warnings and Precautions (5.2)].
 The pharmacokinetic exposure in co-infected subjects was comparable to that in subjects without co-infection.
@@ -245,7 +245,7 @@ There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this s
 
 ## 6.6 Postmarketing Experience
 
-The following events have been identified during post approval use of PREZISTA.
+The following events have been identified during post approval use of PREZISTA/ritonavir.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Redistribution of body fat has been reported.
