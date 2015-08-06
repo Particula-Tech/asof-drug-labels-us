@@ -15,8 +15,9 @@ The following adverse reactions are also discussed in other sections of the labe
 - Gastrointestinal (GI) Hemorrhage [see Warnings and Precautions (5.3)]
 - Bone Marrow Suppression [see Warnings and Precautions (5.4)]
 - Hypersensitivity [see Warnings and Precautions (5.6)]
-- Skin Toxicity [see Warnings and Precautions (5.7)]
-- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.8)]
+- Severe Skin Reactions [see Warnings and Precautions (5.7)]
+- Skin Rash [see Warnings and Precautions (5.8)]
+- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.9)]
 
 Transfusional Iron Overload
 
@@ -138,10 +139,10 @@ Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (SJS), leukocyt
 
 Immune system disorders: hypersensitivity reactions (including anaphylaxis and angioedema)
 
-Renal and urinary disorders: acute renal failure, tubulointerstitial nephritis
+Renal and urinary disorders: renal tubular necrosis, acute renal failure, tubulointerstitial nephritis
 
 Hepatobiliary disorders: hepatic failure
 
-Gastrointestinal disorders: gastrointestinal hemorrhage
+Gastrointestinal disorders: gastrointestinal hemorrhage, gastrointestinal perforation
 
 Blood and lymphatic system disorders: worsening anemia

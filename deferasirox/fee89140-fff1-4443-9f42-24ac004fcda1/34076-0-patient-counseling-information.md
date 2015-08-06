@@ -5,7 +5,7 @@
 - Advise patients to take the tablet with water or other liquids [see Dosage and Administration (2.3)].
 - Advise patients to store JADENU in a dry, room-temperature environment [see How Supplied/Storage and Handling (16)].
 - Caution patients not to take aluminum-containing antacids and JADENU simultaneously [see Drug Interactions (7.1)].
-- Because auditory and ocular disturbances have been reported with deferasirox, conduct auditory testing and ophthalmic testing before starting JADENU treatment and thereafter at regular intervals [see Warnings and Precautions (5.8)].
+- Because auditory and ocular disturbances have been reported with deferasirox, conduct auditory testing and ophthalmic testing before starting JADENU treatment and thereafter at regular intervals [see Warnings and Precautions (5.9)].
 - Caution patients experiencing dizziness to avoid driving or operating machinery [see Adverse Reactions (6.1)].
 - Caution patients about the potential for the development of GI ulcers or bleeding when taking JADENU in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants [see Warnings and Precautions (5.3)].
 - Caution patients about potential loss of effectiveness of drugs metabolized by CYP3A4 (e.g., cyclosporine, simvastatin, hormonal contraceptive agents) when JADENU is administered with these drugs [see Drug Interactions (7.2)].
@@ -20,10 +20,10 @@
   There have been reports of severe kidney and liver problems, blood disorders, stomach hemorrhage and death in patients taking JADENU [see Warnings and Precautions (5.1, 5.2, 5.3, 5.4, 5.5)].
 - Skin rashes may occur during JADENU treatment and if severe, interrupt treatment.
   Serious allergic reactions (which include swelling of the throat) have been reported in patients taking JADENU, usually within the first month of treatment.
-  If reactions are severe, advise patients to stop taking JADENU and contact their doctor immediately [see Warnings and Precautions (5.6, 5.7)].
+  If reactions are severe, advise patients to stop taking JADENU and contact their doctor immediately [see Warnings and Precautions (5.6, 5.7, 5.8)].
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2015-37 March 2015
+T2015-126 August 2015

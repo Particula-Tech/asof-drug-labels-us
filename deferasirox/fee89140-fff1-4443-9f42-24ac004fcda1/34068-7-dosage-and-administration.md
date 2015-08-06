@@ -10,7 +10,7 @@ Prior to starting therapy, obtain:
 - serum ferritin level
 - baseline serum creatinine in duplicate (due to variations in measurements) and determine the ClCr (Cockcroft-Gault method) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
 - serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]
-- baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.8)]
+- baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.9)]
 
 The recommended initial dose of JADENU for patients 2 years of age and older is 14 mg per kg body weight orally, once daily.
 Calculate doses (mg per kg per day) to the nearest whole tablet.
@@ -21,7 +21,7 @@ Make dose adjustments in steps of 3.5 or 7 mg per kg and tailor adjustments to t
 In patients not adequately controlled with doses of 21 mg per kg (e.g., serum ferritin levels persistently above 2500 mcg/L and not showing a decreasing trend over time), doses of up to 28 mg per kg may be considered.
 Doses above 28 mg per kg are not recommended.
 
-If the serum ferritin falls consistently below 500 mcg/L, consider temporarily interrupting therapy with JADENU [see Warnings and Precautions (5.9)].
+If the serum ferritin falls consistently below 500 mcg/L, consider temporarily interrupting therapy with JADENU [see Warnings and Precautions (5.10)].
 
 ## 2.2 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -33,7 +33,7 @@ Prior to starting therapy, obtain:
 - Serum ferritin level on at least 2 measurements 1 month apart [see Clinical Studies (14)]
 - Baseline serum creatinine in duplicate (due to variations in measurements) and determine the ClCr (Cockcroft-Gault method) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
 - Serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]
-- Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.8)]
+- Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.9)]
 
 Initiating therapy:
 
