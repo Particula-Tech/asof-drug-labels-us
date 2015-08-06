@@ -96,7 +96,7 @@ Table 4 Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial S
 | Difference from placebo (adjusted mean) | -0.5* |  |
 | % Patients achieving HbA1c of ≤ 7.0 | 27 | 9 |
 | †intent to treat population using last observation carried forward between group change from baseline in HbA1c |  |  |
-| ‡ patients in the “metformin + sulfonylurea only” subgroup are also counted in the “adjunct to 1-2 oral anti-diabetic medications” subgroup |  |  |
+| ‡ patients in the "metformin + sulfonylurea only" subgroup are also counted in the "adjunct to 1-2 oral anti-diabetic medications" subgroup |  |  |
 | P-value is based on an ANCOVA model with treatment and center as fixed effects, and baseline HbA1c as covariates; *p<0.001 |  |  |
 
 ## 14.3 Changes in Lipids and Blood Pressure

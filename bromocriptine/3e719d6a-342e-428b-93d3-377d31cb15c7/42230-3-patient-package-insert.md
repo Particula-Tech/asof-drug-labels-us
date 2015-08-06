@@ -1,4 +1,4 @@
-Patient Information CYCLOSET® [Si' klo' set] (Bromocriptine Mesylate) Tablets
+Patient Information CYCLOSET® [Si'klo'set] (Bromocriptine Mesylate) Tablets
 
 Read the Patient Information before you start taking CYCLOSET and each time you get a refill.
 There may be new information.

@@ -12,5 +12,5 @@
   Use caution when co-administering drugs that are strong inhibitors, inducers, or substrates of CYP3A4 (e.g., azole antimycotics, HIV protease inhibitors) [See Phamacokinetics (12.3)].
 - There are postmarketing reports of hypertension and tachycardia when bromocriptine was co-administered with sympathomimetic drugs (e.g. phenylpropanolamine and isometheptene) in postpartum women.
   There are limited clinical trial data supporting the safety of co-administering sympathomimetic drugs and CYCLOSET for more than 10 days.
-  Therefore, concomitant use of these agents with CYCLOSETfor more than 10 days duration is not recommended.
+  Therefore, concomitant use of these agents with CYCLOSET for more than 10 days duration is not recommended.
   Also, there are limited clinical trial data supporting the safety of selective 5-hydroxytryptamine1B (5-HT1B) agonists (e.g. sumatriptan) used concurrently with CYCLOSET and the concomitant use of these agents with CYCLOSET should be avoided.
