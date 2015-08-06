@@ -70,9 +70,9 @@ Rx only
 
 U-100
 
-For use in Eli Lilly and Company's HumaPen MEMOIRTM
+For use in Eli Lilly and Company's HumaPen® MEMOIRTM
 
-and HumaPen® LUXURATM HD insulin delivery devices
+and HumaPen® LUXURA® HD insulin delivery devices
 
 and Owen Mumford, Ltd.'s Autopen® 3 mL insulin delivery device.
 
