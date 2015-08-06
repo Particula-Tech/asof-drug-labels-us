@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category D
 
@@ -19,15 +19,15 @@ Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 Closely observe infants with histories of in utero exposure to Diovan for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 It is not known whether Diovan is excreted in human milk.
 Diovan was excreted in the milk of lactating rats; however, animal breast milk drug levels may not accurately reflect human breast milk levels.
 Because many drugs are excreted into human milk and because of the potential for adverse reactions in nursing infants from Diovan, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
-The antihypertensive effects of Diovan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies(14.1)].
+The antihypertensive effects of Diovan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of Diovan have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
 Diovan was generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
 
@@ -48,7 +48,7 @@ Neonates with a history of in utero exposure to Diovan:
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
@@ -57,12 +57,12 @@ Of the 2,511 patients with heart failure randomized to valsartan in the Valsarta
 In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
 There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
-## 8.6 Renal Impairment
+## 8.6Renal Impairment
 
 Safety and effectiveness of Diovan in patients with severe renal impairment (CrCl ≤30 mL/min) have not been established.
 No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60) renal impairment.
 
-## 8.7 Hepatic Impairment
+## 8.7Hepatic Impairment
 
 No dose adjustment is necessary for patients with mild-to-moderate liver disease.
 No dosing recommendations can be provided for patients with severe liver disease.

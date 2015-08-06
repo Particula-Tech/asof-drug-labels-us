@@ -1,6 +1,6 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Hypertension
+## 2.1Adult Hypertension
 
 The recommended starting dose of Diovan (valsartan) is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
 Patients requiring greater reductions may be started at the higher dose.
@@ -17,7 +17,7 @@ Diovan may be administered with other antihypertensive agents.
 
 Diovan may be administered with or without food.
 
-## 2.2 Pediatric Hypertension 6 to 16 Years of Age
+## 2.2Pediatric Hypertension 6 to 16 Years of Age
 
 For children who can swallow capsules, the usual recommended starting dose is 1.3 mg/kg once daily (up to 40 mg total).
 (Doses below 80 mg are available only in the tablet form.)
@@ -27,11 +27,11 @@ Doses higher than 2.7 mg/kg (up to 160 mg) once daily have not been studied in p
 For children who cannot swallow capsules or tablets, or children for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths of Diovan, the use of a suspension is recommended.
 The suspension preparation instructions are available based on the Diovan tablet form.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2[see Pediatric Use (8.4)].
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2 [see Pediatric Use (8.4)].
 
 Diovan is not recommended for patients <6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
-## 2.3 Heart Failure
+## 2.3Heart Failure
 
 The recommended starting dose of Diovan is 40 mg twice daily.
 (Doses below 80 mg are available only in the tablet form.)
@@ -39,7 +39,7 @@ Uptitration to 80 mg and 160 mg twice daily should be done to the highest dose, 
 Consideration should be given to reducing the dose of concomitant diuretics.
 The maximum daily dose administered in clinical trials is 320 mg in divided doses.
 
-## 2.4 Post-Myocardial Infarction
+## 2.4Post-Myocardial Infarction
 
 Diovan may be initiated as early as 12 hours after a myocardial infarction.
 The recommended starting dose of Diovan is 20 mg twice daily.

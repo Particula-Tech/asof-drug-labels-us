@@ -1,6 +1,6 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-## 14.1 Hypertension
+## 14.1Hypertension
 
 Adult Hypertension
 
@@ -21,7 +21,7 @@ The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
 
-The blood pressure lowering effect of valsartan and thiazide-type diuretics are approximately additive.
+The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
@@ -50,7 +50,7 @@ Overall, the dose-dependent antihypertensive effect of valsartan was consistent 
 
 In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
 
-## 14.2 Heart Failure
+## 14.2Heart Failure
 
 The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF <40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
 Although Val-HeFT’s primary goal was to examine the effect of valsartan when added to an ACE inhibitor, about 7% were not receiving an ACE inhibitor.
@@ -64,9 +64,9 @@ These results are summarized in the following table.
 | --- | --- | --- | --- | --- |
 |  | (N=2,499) | (N=2,511) | (95% CI*) | p-value |
 | All-cause mortality | 484 | 495 | 1.02 | 0.8 |
-|  | (19.4%) | (19.7%) | (0.90-1.15) |  |
+|  | (19.4%) | (19.7%) | (0.90–1.15) |  |
 | HF morbidity | 801 | 723 | 0.87 | 0.009 |
-|  | (32.1%) | (28.8%) | (0.79-0.97) |  |
+|  | (32.1%) | (28.8%) | (0.79–0.97) |  |
 | * CI = Confidence Interval |  |  |  |  |
 
 Although the overall morbidity result favored valsartan, this result was largely driven by the 7% of patients not receiving an ACE inhibitor, as shown in the following table.
@@ -100,7 +100,7 @@ In patients not receiving an ACE inhibitor, valsartan-treated patients had an in
 Effects were generally consistent across subgroups defined by age and gender for the population of patients not receiving an ACE inhibitor.
 The number of black patients was small and does not permit a meaningful assessment in this subset of patients.
 
-## 14.3 Post-Myocardial Infarction
+## 14.3Post-Myocardial Infarction
 
 The VALsartan In Acute myocardial iNfarcTion trial (VALIANT) was a randomized, controlled, multinational, double-blind study in 14,703 patients with acute myocardial infarction and either heart failure (signs, symptoms or radiological evidence) or left ventricular systolic dysfunction (ejection fraction ≤40% by radionuclide ventriculography or ≤35% by echocardiography or ventricular contrast angiography).
 Patients were randomized within 12 hours to 10 days after the onset of myocardial infarction symptoms to one of three treatment groups: valsartan (titrated from 20 or 40 mg twice daily to the highest tolerated dose up to a maximum of 160 mg twice daily), the ACE inhibitor, captopril (titrated from 6.25 mg three times daily to the highest tolerated dose up to a maximum of 50 mg three times daily), or the combination of valsartan plus captopril.
@@ -114,12 +114,12 @@ The primary endpoint was time to all-cause mortality.
 Secondary endpoints included (1) time to cardiovascular (CV) mortality, and (2) time to the first event of cardiovascular mortality, reinfarction, or hospitalization for heart failure.
 The results are summarized in the following table.
 
-|  | Valsartan vs. Captopril (N=4,909) (N=4,909) |  |  | Valsartan + Captopril vs. Captopril (N=4,885) (N=4,909) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | No. of Deaths Valsartan/Captopril | Hazard Ratio CI | p-value | No. of Deaths Comb/Captopril | Hazard Ratio CI | p-value |
-| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) | 0.98 | 941 (19.3%) /958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
-| CV mortality | 827 (16.8%) /830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |
-| CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%) /1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |
+|  | Valsartan vs. Captopril (N=4,909) (N=4,909) |  |  |  |  | Valsartan + Captopril vs. Captopril (N=4,885) (N=4,909) |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | No. of Deaths Valsartan/Captopril |  | Hazard Ratio CI |  | p-value | No. of Deaths Comb/Captopril | Hazard Ratio CI | p-value |
+| All-cause mortality | 979 (19.9%) /958 (19.5%) | 1.001 (0.902, 1.111) |  | 0.98 |  | 941 (19.3%) /958 (19.5%) | 0.984 (0.886, 1.093) | 0.73 |
+| CV mortality | 827 (16.8%) /830 (16.9%) | 0.976 (0.875, 1.090) |  |  |  |  |  |  |
+| CV mortality, hospitalization for HF, and recurrent non-fatal MI | 1,529 (31.1%) /1,567 (31.9%) | 0.955 (0.881, 1.035) |  |  |  |  |  |  |
 
 There was no difference in overall mortality among the three treatment groups.
 There was thus no evidence that combining the ACE inhibitor captopril and the angiotensin II blocker valsartan was of value.

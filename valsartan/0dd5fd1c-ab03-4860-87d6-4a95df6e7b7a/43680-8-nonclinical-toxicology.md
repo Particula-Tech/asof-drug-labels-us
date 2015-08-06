@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of carcinogenicity when valsartan was administered in the diet to mice and rats for up to 2 years at doses up to 160 and 200 mg/kg/day, respectively.
 These doses in mice and rats are about 2.6 and 6 times, respectively, the maximum recommended human dose on a mg/m2 basis.
@@ -13,7 +13,7 @@ Valsartan had no adverse effects on the reproductive performance of male or fema
 This dose is 6 times the maximum recommended human dose on a mg/m2 basis.
 (Calculations assume an oral dose of 320 mg/day and a 60-kg patient.)
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2Animal Toxicology and/or Pharmacology
 
 Reproductive Toxicology Studies
 

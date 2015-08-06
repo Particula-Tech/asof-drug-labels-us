@@ -1,6 +1,6 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
-## 1.1 Hypertension
+## 1.1Hypertension
 
 Diovan® (valsartan) is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
@@ -22,12 +22,12 @@ These considerations may guide selection of therapy.
 
 Diovan may be used alone or in combination with other antihypertensive agents.
 
-## 1.2 Heart Failure
+## 1.2Heart Failure
 
 Diovan is indicated for the treatment of heart failure (NYHA class II-IV).
 In a controlled clinical trial, Diovan significantly reduced hospitalizations for heart failure.
 There is no evidence that Diovan provides added benefits when it is used with an adequate dose of an ACE inhibitor [see Clinical Studies (14.2)].
 
-## 1.3 Post-Myocardial Infarction
+## 1.3Post-Myocardial Infarction
 
 In clinically stable patients with left ventricular failure or left ventricular dysfunction following myocardial infarction, Diovan is indicated to reduce cardiovascular mortality [see Clinical Studies (14.3)].

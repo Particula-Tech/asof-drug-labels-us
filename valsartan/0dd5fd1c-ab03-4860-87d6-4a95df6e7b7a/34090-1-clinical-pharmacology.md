@@ -1,6 +1,6 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
@@ -20,7 +20,7 @@ Valsartan does not bind to or block other hormone receptors or ion channels know
 
 Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and angiotensin II circulating levels do not overcome the effect of valsartan on blood pressure.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 Valsartan inhibits the pressor effect of angiotensin II infusions.
 An oral dose of 80 mg inhibits the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours.
@@ -33,7 +33,7 @@ In multiple-dose studies in hypertensive patients with stable renal insufficienc
 
 In multiple-dose studies in hypertensive patients, valsartan had no notable effects on total cholesterol, fasting triglycerides, fasting serum glucose, or uric acid.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.

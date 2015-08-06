@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal Toxicity
+## 5.1Fetal Toxicity
 
 Pregnancy Category D
 
@@ -9,7 +9,7 @@ Resulting oligohydramnios can be associated with fetal lung hypoplasia and skele
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Diovan as soon as possible [see Use in Specific Populations (8.1)].
 
-## 5.2 Hypotension
+## 5.2Hypotension
 
 Excessive hypotension was rarely seen (0.1%) in patients with uncomplicated hypertension treated with Diovan alone.
 In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur.
@@ -23,14 +23,14 @@ In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in 
 If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
-## 5.3 Impaired Renal Function
+## 5.3Impaired Renal Function
 
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan.
 Monitor renal function periodically in these patients.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan [see Drug Interactions (7)].
 
-## 5.4 Hyperkalemia
+## 5.4Hyperkalemia
 
 Some patients with heart failure have developed increases in potassium.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.

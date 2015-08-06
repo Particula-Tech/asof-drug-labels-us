@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 Diovan (valsartan) is a nonpeptide, orally active, and specific angiotensin II receptor blocker acting on the AT1 receptor subtype.
 

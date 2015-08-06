@@ -1,6 +1,6 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -107,7 +107,7 @@ Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated 
 | Blood creatinine increased | 0.6% | 0.4% |
 | Rash NOS | 0.2% | 0.6% |
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following additional adverse reactions have been reported in postmarketing experience:
 
