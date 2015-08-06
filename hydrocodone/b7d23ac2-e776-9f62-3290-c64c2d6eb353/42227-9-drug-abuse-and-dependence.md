@@ -47,7 +47,7 @@ In Vitro Testing In vitro physical and chemical tablet manipulation studies were
 Results support that HYSINGLA ER resists crushing, breaking, and dissolution using a variety of tools and solvents and retains some extended-release properties despite manipulation.
 When subjected to an aqueous environment, HYSINGLA ER gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a hypodermic needle.
 
-Clinical Abuse Potential Studies Studies in Non-dependent Opioid Abusers Two randomized, double-blind, placebo and active-controlled clinical studies in non-dependent recreational opioid users were conducted to characterize the abuse potential of HYSINGLA ER following physical manipulation and administration via the intranasal and oral routes.
+Clinical Abuse Potential Studies Studies in Non-dependent Opioid Abusers Two randomized, double-blind, placebo and active-comparator studies in non-dependent opioid abusers were conducted to characterize the abuse potential of HYSINGLA ER following physical manipulation and administration via the intranasal and oral routes.
 For both studies, drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking, and 100 represents maximum liking.
 Response to whether the subject would take the study drug again was measured on a unipolar scale of 0 to 100 where 0 represents the strongest negative response (“definitely would not take drug again”) and 100 represents the strongest positive response (“definitely would take drug again”).
 
@@ -58,7 +58,7 @@ Incomplete dosing due to granules falling from the subjects’ nostrils occurred
 The intranasal administration of tampered HYSINGLA ER was associated with statistically significantly lower mean and median scores for drug liking and take drug again (P<0.001 for both), compared with powdered hydrocodone as summarized in Table 3.
 
 Table 3.
-Summary of Maximum Scores (Emax) on Drug Liking and Take Drug Again VAS Following intranasal Administration of HYSINGLA ER and Hydrocodone Powder in Nondependent Opioid Abusers
+Summary of Maximum Scores (Emax) on Drug Liking and Take Drug Again VAS Following intranasal Administration of HYSINGLA ER and Hydrocodone Powder in Non-dependent Opioid Abusers
 
 | VAS Scale (100 point) | HYSINGLA ER Manipulated | Hydrocodone Powder |
 | --- | --- | --- |

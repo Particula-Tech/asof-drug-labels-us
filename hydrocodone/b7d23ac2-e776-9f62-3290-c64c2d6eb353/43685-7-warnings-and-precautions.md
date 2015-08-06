@@ -121,10 +121,10 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 Avoid the use of mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) in patients who have received, or are receiving, a course of therapy with a full opioid agonist analgesic, including HYSINGLA ER.
 In these patients, mixed agonist/antagonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
 
-## 5.14 QTc Interval Prolongation
+## 5.14 QT Interval Prolongation
 
 QTc prolongation has been observed with HYSINGLA ER following daily doses of 160 mg [see Clinical Pharmacology (12.2)].
 This observation should be considered in making clinical decisions regarding patient monitoring when prescribing HYSINGLA ER in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or who are taking medications that are known to prolong the QTc interval.
 
 HYSINGLA ER should be avoided in patients with congenital long QT syndrome.
-In patients who develop QTc prolongation, consider reducing the dose by 33 – 50%, or changing to an alternate analgesic.
+In patients who develop QTc prolongation, consider reducing the dose by 33 - 50%, or changing to an alternate analgesic.

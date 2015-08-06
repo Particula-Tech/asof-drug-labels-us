@@ -14,4 +14,4 @@ If opioid use is required for a prolonged period in a pregnant woman, advise the
 
 Cytochrome P450 3A4 Interaction The concomitant use of HYSINGLA ER with all cytochrome P450 3A4 inhibitors may result in an increase in hydrocodone plasma concentrations, which could increase or prolong adverse drug effects and may cause potentially fatal respiratory depression.
 In addition, discontinuation of a concomitantly used cytochrome P450 3A4 inducer may result in an increase in hydrocodone plasma concentration.
-Monitor patients receiving HYSINGLA ER and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
+Monitor patients receiving HYSINGLA ER and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.11), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

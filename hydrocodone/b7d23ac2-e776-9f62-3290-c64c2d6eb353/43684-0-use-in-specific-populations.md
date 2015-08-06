@@ -60,6 +60,6 @@ Initiate therapy with 1/2 the initial dose of HYSINGLA ER in patients with sever
 
 ## 8.7 Renal Impairment
 
-No dose adjustment is need in patients with mild renal impairment.
+No dose adjustment is needed in patients with mild renal impairment.
 Patients with moderate or severe renal impairment or end stage renal disease have higher plasma concentrations than those with normal renal function.
 Initiate therapy with 1/2 the initial dose of HYSINGLA ER in these patients and monitor closely for adverse events such as respiratory depression [see Clinical Pharmacology (12.3)].

@@ -113,13 +113,13 @@ Gender Systemic exposure of hydrocodone (Cmax and AUC) was similar between males
 
 Hepatic Impairment After a single dose of 20 mg HYSINGLA ER in subjects (8 each) with normal hepatic function, mild, moderate or severe hepatic impairment based on Child-Pugh classifications, mean hydrocodone Cmax values were 16, 15, 17, and 18 ng/mL, respectively.
 Mean hydrocodone AUC values were 342, 310, 390, and 415 ng.hr/mL for subjects with normal hepatic function, mild, moderate or severe hepatic impairment, respectively.
-Mean hydrocodone Cmax values were -6%, 5%, and 5% and AUC values were -14%, 13%, and 4% in patients with mild, moderate or severe hepatic impairment, respectively, when compared with subjects with normal hepatic functions.
+Geometric mean hydrocodone Cmax values were -6%, 5%, and 5% and AUC values were -14%, 13%, and 4% in patients with mild, moderate or severe hepatic impairment, respectively, when compared with subjects with normal hepatic functions.
 
 The mean in vivo plasma protein binding of hydrocodone across the groups was similar, ranging from 33% to 37% [see Use in Specific Populations (8.6)].
 
-Renal Impairment After a single dose of 60 mg HYSINGLA ER in subjects (8 each) with normal renal function, mild, moderate, or severe renal impairment based on Cockcroft-Gault criteria and end stage renal disease patients, mean hydrocodone Cmax values were 40, 50, 51, 46, and 38 ng/mL, respectively.
-Mean hydrocodone AUC values were 754, 942, 1222, 1220, and 932 ng.hr/mL for subjects with normal renal function, mild, moderate or severe renal impairment and ESRD, respectively.
-Hydrocodone Cmax values were 14%, 23%, 11% and -13% and AUC values were 13%, 61%, 57% and 4% higher in patients with mild, moderate or severe renal impairment or end stage renal disease, respectively [see Use in Specific Populations (8.7)].
+Renal Impairment After a single dose of 60 mg HYSINGLA ER in subjects (8 each) with normal renal function, mild, moderate, or severe renal impairment based on Cockcroft-Gault criteria and end stage renal disease (with dialysis) patients, mean hydrocodone Cmax values were 40, 50, 51, 46, and 38 ng/mL, respectively.
+Mean hydrocodone AUC values were 754, 942, 1222, 1220, and 932 ng.hr/mL for subjects with normal renal function, mild, moderate or severe renal impairment and ESRD with dialysis, respectively.
+Hydrocodone Cmax values were 14%, 23%, 11% and -13% and AUC values were 13%, 61%, 57% and 4% higher in patients with mild, moderate or severe renal impairment or end stage renal disease with dialysis, respectively [see Use in Specific Populations (8.7)].
 
 Drug Interaction Studies CYP3A4 Co-administration of HYSINGLA ER (20 mg single dose) and CYP3A4 inhibitor ketoconazole (200 mg BID for 6 days) increased mean hydrocodone AUC and Cmax by 135% and 78%, respectively [see Warnings and Precautions (5.11) and Drug Interactions (7.1)].
 

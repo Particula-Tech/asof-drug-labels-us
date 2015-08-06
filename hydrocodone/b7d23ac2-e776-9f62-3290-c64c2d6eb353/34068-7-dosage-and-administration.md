@@ -4,7 +4,7 @@
 
 HYSINGLA ER should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experienceand risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with HYSINGLA ER [see Warnings and Precautions (5.2)].
 
 HYSINGLA ER is administered orally once daily (every 24 hours).
