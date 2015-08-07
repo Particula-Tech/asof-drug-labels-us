@@ -1,8 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is a combination drug product intended as a treatment for tension headache.
+Butalbital, acetaminophen, caffeine, and codeine phosphate capsules is a combination drug product intended as a treatment for tension headache.
 
-Butalbital, Acetaminophen, and Caffeine Tablets, USP consists of a fixed combination of butalbital 50 mg, acetaminophen 325 mg and caffeine 40 mg.
+Butalbital, acetaminophen, and caffeine tablets, USP consists of a fixed combination of butalbital 50 mg, acetaminophen 325 mg and caffeine 40 mg.
 The role each component plays in the relief of the complex of symptoms known as tension headache is incompletely understood.
 
 ## Pharmacokinetics
@@ -20,7 +20,7 @@ The plasma half-life is about 35 hours.
 Urinary excretion products include parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
 Of the material excreted in the urine, 32% is conjugated.
 
-The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5-20 mcg/mL.
+The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5 to 20 mcg/mL.
 This falls within the range of plasma protein binding (20 to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
 The plasma-to-blood concentration ratio was almost unity indicating that there is no preferential distribution of butalbital into either plasma or blood cells [see OVERDOSAGE for toxicity information].
 

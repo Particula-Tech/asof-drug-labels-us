@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Following an acute overdosage of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, toxicity may result from the barbiturate, the codeine, or the acetaminophen.
+Following an acute overdosage of butalbital, acetaminophen, caffeine, and codeine phosphate capsules, toxicity may result from the barbiturate, the codeine, or the acetaminophen.
 Toxicity due to the caffeine is less likely, due to the relatively small amounts in this formulation.
 
 ## Signs and Symptoms
@@ -12,13 +12,13 @@ Convulsions may occur.
 In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necrosis, hypoglycemic coma, and coagulation defects may also occur.
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis, and general malaise.
-Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to72 hours post-ingestion.
+Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion.
 
 Acute caffeine poisoning may cause insomnia, restlessness, tremor, and delirium, tachycardia, and extrasystoles.
 
 ## Treatment
 
-A single or multiple drug overdose with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+A single or multiple drug overdose with butalbital, acetaminophen, caffeine, and codeine phosphate capsules is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated.
 Assisted or controlled ventilation should also be considered.
