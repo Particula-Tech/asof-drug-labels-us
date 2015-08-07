@@ -4,7 +4,9 @@
 
 Hypersensitivity reactions have been reported with the use of abacavir or dolutegravir, components of TRIUMEQ.
 
-Abacavir: Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir-containing regimens.
+Abacavir
+
+Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir-containing regimens.
 See full prescribing information for ZIAGEN® (abacavir).
 Patients who carry the HLA-B*5701 allele are at high risk for experiencing a hypersensitivity reaction to abacavir.
 All patients should be screened for the HLA-B*5701 allele prior to initiating therapy with abacavir or reinitiation of abacavir therapy unless HLA-B*5701 information is available.
@@ -16,7 +18,7 @@ Regardless of HLA-B*5701 status, permanently discontinue TRIUMEQ if hypersensiti
 Symptoms indicating a multi-organ clinical syndrome usually appear within the first 6 weeks of treatment with abacavir (median time to onset was 9 days), although the reaction may occur at any time during therapy.
 The reaction is typically characterized by the presentation of key signs or symptoms in 2 or more of the following groups: (1) fever; (2) rash; (3) gastrointestinal (including nausea, vomiting, diarrhea, or abdominal pain); (4) constitutional (including generalized malaise, fatigue, or achiness); (5) respiratory (including dyspnea, cough, or pharyngitis).
 
-Other signs and symptoms of hypersensitivity include lethargy, headache, myolysis, edema, abnormal chest x‑ ray findings (predominantly infiltrates, which can be localized), arthralgia, and paresthesia.
+Other signs and symptoms of hypersensitivity include lethargy, headache, myolysis, edema, abnormal chest x‑ray findings (predominantly infiltrates, which can be localized), arthralgia, and paresthesia.
 Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, and death have occurred in association with hypersensitivity reactions.
 Physical findings associated with hypersensitivity to abacavir in some subjects include lymphadenopathy, mucous membrane lesions (conjunctivitis and mouth ulcerations), and rash.
 The rash usually appears maculopapular or urticarial, but may be variable in appearance.
@@ -40,7 +42,9 @@ Make patients aware that a hypersensitivity reaction can occur with reintroducti
 In any patient treated with abacavir, the clinical diagnosis of hypersensitivity reaction must remain the basis of clinical decision‑making.
 Even in the absence of the HLA-B*5701 allele, it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds, due to the potential for a severe or even fatal reaction.
 
-Dolutegravir: Hypersensitivity reactions have been reported and were characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury.
+Dolutegravir
+
+Hypersensitivity reactions have been reported and were characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury.
 The events were reported in less than 1% of subjects receiving TIVICAY® in Phase 3 clinical trials.
 Discontinue TRIUMEQ and other suspect agents immediately if signs or symptoms of hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters or peeling of the skin, oral blisters or lesions, conjunctivitis, facial edema, hepatitis, eosinophilia, angioedema, difficulty breathing).
 Clinical status, including liver aminotransferases, should be monitored and appropriate therapy initiated.
@@ -57,20 +61,26 @@ Treatment with TRIUMEQ should be suspended in any patient who develops clinical 
 
 ## 5.3 Patients with Hepatitis B or C Virus Co-infection
 
-Effects on Serum Liver Biochemistries: Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ [see Adverse Reactions (6.1)].
+Effects on Serum Liver Biochemistries
+
+Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ [see Adverse Reactions (6.1)].
 See full prescribing information for TIVICAY (dolutegravir).
 In some cases the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.
 Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with TRIUMEQ are recommended in patients with underlying hepatic disease such as hepatitis B or C.
 
-Posttreatment‑exacerbations of Hepatitis: Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
+Posttreatment exacerbations of Hepatitis
+
+Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
 See full prescribing information for EPIVIR (lamivudine).
 Patients should be closely monitored with both clinical and laboratory follow‑up for at least several months after stopping treatment.
 
-Emergence of Lamivudine‑resistant HBV: Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV.
+Emergence of Lamivudine‑resistant HBV
+
+Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in subjects dually infected with HIV-1 and HBV.
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV‑1‑infected subjects who have received lamivudine‑containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 See full prescribing information for EPIVIR (lamivudine).
 
-## 5.4 Use with Interferon- and Ribavirinbased Regimens
+## 5.4 Use with Interferon- and Ribavirin-based Regimens
 
 Patients receiving interferon alfa with or without ribavirin and TRIUMEQ should be closely monitored for treatment‑associated toxicities, especially hepatic decompensation.
 See full prescribing information for EPIVIR (lamivudine).

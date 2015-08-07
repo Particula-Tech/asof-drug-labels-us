@@ -2,10 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Drug Interactions: Do not coadminister TRIUMEQ with dofetilide (TIKOSYN®) because the interaction between dofetilide and dolutegravir can result in potentially life-threatening adverse events [see Contraindications (4)].
+Drug Interactions
+
+Do not coadminister TRIUMEQ with dofetilide (TIKOSYN®) because the interaction between dofetilide and dolutegravir can result in potentially life-threatening adverse events [see Contraindications (4)].
 Patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products.
 
-Hypersensitivity Reaction: Inform patients:
+Hypersensitivity Reaction
+
+Inform patients:
 
 - •that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of TRIUMEQ, and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about TRIUMEQ.
   (The complete text of the Medication Guide is reprinted at the end of this document.)
@@ -21,22 +25,32 @@ Hypersensitivity Reaction: Inform patients:
 
 Inform patients that they should not take TRIUMEQ with ATRIPLA, COMBIVIR®, COMPLERA®, EMTRIVA®, EPIVIR, EPIVIR‑HBV®, EPZICOM, STRIBILD®, TRIZIVIR, TRUVADA®, or ZIAGEN.
 
-Lactic Acidosis/Hepatomegaly: Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Warnings and Precautions (5.2)].
+Lactic Acidosis/Hepatomegaly
 
-Patients with Hepatitis B or C Co-infection: Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ and advise patients to have laboratory testing before and during therapy [see Warnings and Precautions (5.3)].
+Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Warnings and Precautions (5.2)].
+
+Patients with Hepatitis B or C Co-infection
+
+Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ and advise patients to have laboratory testing before and during therapy [see Warnings and Precautions (5.3)].
 
 Advise patients co‑infected with HIV‑1 and HBV that worsening of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
 Advise patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.3)].
 
 Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
 
-Immune Reconstitution Syndrome: In some patients with advanced HIV infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+Immune Reconstitution Syndrome
+
+In some patients with advanced HIV infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
 It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
 Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.5)].
 
-Redistribution/Accumulation of Body Fat: Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.6)].
+Redistribution/Accumulation of Body Fat
 
-Information About HIV‑1 Infection: TRIUMEQ is not a cure for HIV‑1 infection and patients may continue to experience illnesses associated with HIV‑1 infection, including opportunistic infections.
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.6)].
+
+Information About HIV‑1 Infection
+
+TRIUMEQ is not a cure for HIV‑1 infection and patients may continue to experience illnesses associated with HIV‑1 infection, including opportunistic infections.
 Patients must remain on continuous HIV therapy to control HIV‑1infection and decrease HIV-related illness.
 Inform patients that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
 
@@ -90,7 +104,7 @@ Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-©2014, the ViiV Healthcare group of companies.
+©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
-TRM:1PI
+TRM:2PI

@@ -14,7 +14,7 @@ In vitro, dolutegravir did not induce CYP1A2, CYP2B6, CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
 In drug interaction trials, dolutegravir did not have a clinically relevant effect on the pharmacokinetics of the following drugs: tenofovir, methadone, midazolam, rilpivirine, and oral contraceptives containing norgestimate and ethinyl estradiol.
-Using cross-study comparisons to historical pharmacokinetic data for each interacting drug, dolutegravir did not appear to affect the pharmacokinetics of the following drugs: atazanavir, darunavir, efavirenz, etravirine, fosamprenavir, lopinavir, ritonavir, and telaprevir.
+Using cross-study comparisons to historical pharmacokinetic data for each interacting drug, dolutegravir did not appear to affect the pharmacokinetics of the following drugs: atazanavir, darunavir, efavirenz, etravirine, fosamprenavir, lopinavir, ritonavir, and boceprevir.
 
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Dolutegravir
 
@@ -26,7 +26,9 @@ Coadministration of dolutegravir and other drugs that inhibit these enzymes may 
 
 Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir (Table 5) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
-Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, telaprevir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
+In vitro, dolutegravir was not a substrate of OATP1B1, or OATP1B3.
+
+Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
@@ -47,18 +49,23 @@ Established and Other Potentially Significant Drug Interactions for Dolutegravir
 | Non-nucleoside reverse transcriptase inhibitor:Nevirapine | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
 | Protease inhibitor:Fosamprenavir/ritonavira Tipranavir/ritonavira | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
 | Other Agents |  |  |
-| Oxcarbazepine Phenytoin Phenobarbital Carbamazepine St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
+| Carbamazepinea | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from TRIUMEQ. |
+| Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
 | Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking medications containing polyvalent cations. |
 | Oral calcium and iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | Administer TRIUMEQ 2 hours before or 6 hours after taking supplements containing calcium or iron. Alternatively, TRIUMEQ and supplements containing calcium or iron can be taken together with food. |
-| Metformin | ↑Metformin | Consider metformin dose reductions when coadministered with TRIUMEQ. |
+| Metformina | ↑Metformin | With concomitant use, limit the total daily dose of metformin to 1,000 mg either when starting metformin or TRIUMEQ. When stopping TRIUMEQ, the metformin dose may require an adjustment. Monitoring of blood glucose when initiating concomitant use and after withdrawal of TRIUMEQ is recommended. |
 | Rifampina | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
 
-aSee Clinical Pharmacology (12.3) Table 9 for magnitude of interaction.
+aSee Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction.
 
-Ethanol: Abacavir: Abacavir has no effect on the pharmacokinetic properties of ethanol.
-Ethanol decreases the elimination of abacavir causing an increase in overall exposure [see ClinicalPharmacology (12.3)].
+Ethanol
 
-Methadone: Abacavir: The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
+Abacavir: Abacavir has no effect on the pharmacokinetic properties of ethanol.
+Ethanol decreases the elimination of abacavir causing an increase in overall exposure [see Clinical Pharmacology (12.3)].
+
+Methadone
+
+Abacavir: The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
 In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
 The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir.

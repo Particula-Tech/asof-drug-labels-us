@@ -7,10 +7,14 @@ Reproduction studies with the components of TRIUMEQ have been performed in anima
 Animal reproduction studies are not always predictive of human response.
 TRIUMEQ should be used during pregnancy only if the potential benefit outweigh the risks.
 
-Antiretroviral Pregnancy Registry: To monitor maternal‑fetal outcomes of pregnant women exposed to TRIUMEQ or other antiretroviral agents, an Antiretroviral Pregnancy Registry has been established.
+Antiretroviral Pregnancy Registry
+
+To monitor maternal‑fetal outcomes of pregnant women exposed to TRIUMEQ or other antiretroviral agents, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1‑800‑258‑4263.
 
-Animal Data: Dolutegravir: Reproduction studies performed in rats and rabbits at doses up to 50 times the human dose of 50 mg once daily have revealed no evidence of impaired fertility or harm to the fetus due to dolutegravir.
+Animal Data
+
+Dolutegravir: Reproduction studies performed in rats and rabbits at doses up to 50 times the human dose of 50 mg once daily have revealed no evidence of impaired fertility or harm to the fetus due to dolutegravir.
 
 Oral administration of dolutegravir to pregnant rats at doses up to 1,000 mg per kg daily, approximately 50 times the 50-mg once-daily human clinical exposure based on AUC, from days 6 to 17 of gestation did not elicit maternal toxicity, developmental toxicity, or teratogenicity.
 
@@ -33,12 +37,18 @@ The Centers for Disease Control and Prevention recommend that HIV‑1‑infected
 
 Because of both the potential for HIV‑1 transmission and the potential for serious adverse reactions in nursing infants, instruct mothers not to breastfeed.
 
-Dolutegravir: Studies in lactating rats and their offspring indicate that dolutegravir was present in rat milk.
+Dolutegravir
+
+Studies in lactating rats and their offspring indicate that dolutegravir was present in rat milk.
 It is not known whether dolutegravir is excreted in human breast milk.
 
-Abacavir: Abacavir is excreted in the milk of lactating rats.
+Abacavir
 
-Lamivudine: Lamivudine is excreted in human breast milk.
+Abacavir is excreted in the milk of lactating rats.
+
+Lamivudine
+
+Lamivudine is excreted in human breast milk.
 
 ## 8.4 Pediatric Use
 

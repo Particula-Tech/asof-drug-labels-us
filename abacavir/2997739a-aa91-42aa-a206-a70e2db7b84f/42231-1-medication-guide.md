@@ -4,7 +4,7 @@ TRIUMEQ® (TRI-u-meck)
 
 (abacavir, dolutegravir, and lamivudine)
 
-Tablets
+tablets
 
 Read this Medication Guide before you start taking TRIUMEQ and each time you get a refill.
 There may be new information.
@@ -71,7 +71,7 @@ Call your healthcare provider right away if you get any of the following signs o
 You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight, or have been taking nucleoside analogue medicines for a long time.
 
 - •Worsening of hepatitis B virus in people who have HIV-1 infection.
-  If youhave HIV-1 and hepatitis B virus infections, your hepatitis virus infection may get worse if you stop taking TRIUMEQ.
+  If you have HIV-1 and hepatitis B virus infections, your hepatitis virus infection may get worse if you stop taking TRIUMEQ.
   To help avoid this: Take TRIUMEQ exactly as prescribed.
   - •Do not run out of TRIUMEQ.
 - •Do not stop TRIUMEQ without talking to your healthcare provider.
@@ -104,7 +104,8 @@ TRIUMEQ may help:
 
 - •Do not share or re-use needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- •Do not have any kind of sex without protection.Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- •Do not have any kind of sex without protection.
+  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 - Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 
 Who should not take TRIUMEQ?
@@ -155,7 +156,7 @@ You should not take TRIUMEQ if you also take:
 
 Tell your healthcare provider if you take:
 
-- •antacids, laxatives or other medicines that contain aluminum, magnesium, sucralfate (CARAFATE®), or buffered medicines.
+- •antacids, laxatives, or other medicines that contain aluminum, magnesium, sucralfate (CARAFATE®), or buffered medicines.
   TRIUMEQ should be taken at least 2 hours before or 6 hours after you take these medicines.
 - •anti-seizure medicines:
   - •oxcarbazepine (TRILEPTAL®)
@@ -283,9 +284,9 @@ EPIVIR-HBV is a registered trademark of the GSK group of companies.
 The other brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
 The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
-©2014, the ViiV Healthcare group of companies.
+©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
-Issued: August 2014
+Revised: August 2015
 
-TRM:1MG
+TRM:2MG

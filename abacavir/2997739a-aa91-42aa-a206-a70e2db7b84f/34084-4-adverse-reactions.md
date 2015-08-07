@@ -15,7 +15,9 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Treatment-emergent Adverse Drug Reactions (ADRs): The safety assessment of TRIUMEQ is primarily based on the analyses of data from a randomized, international, multicenter, double-blind, active-controlled trial, SINGLE (ING114467) and supported by data in treatment-experienced, INSTI-naïve subjects from SAILING (ING111762) and by data from other treatment-naïve trials.
+Treatment-emergent Adverse Drug Reactions (ADRs)
+
+The safety assessment of TRIUMEQ is primarily based on the analyses of data from a randomized, international, multicenter, double-blind, active-controlled trial, SINGLE (ING114467) and supported by data in treatment-experienced, INSTI-naïve subjects from SAILING (ING111762) and by data from other treatment-naïve trials.
 See full prescribing information for TIVICAY.
 
 Treatment-naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir sulfate and lamivudine (EPZICOM®) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (n = 419).
@@ -26,7 +28,7 @@ Treatment-emergent ADRs of moderate to severe intensity observed in at least 2% 
 Table 2.
 Treatment-emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in Treatment-naïve Subjects in SINGLE (Week 96 Analysis)
 
-| Adverse Reaction | TIVICAY + EPZICOMOnce Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |
+| Adverse Reaction | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | Psychiatric |  |  |
 | Insomnia | 3% | 2% |
@@ -54,7 +56,9 @@ See full prescribing information for TIVICAY.
 
 The ADRs observed in the subset of subjects who received TIVICAY + EPZICOM were generally consistent with those seen in the overall treatment-naïve patient population.
 
-Less Common Adverse Reactions Observed in Clinical Trials: The following adverse reactions occurred in less than 2% of treatment-naïve or treatment-experienced subjects in any one trial.
+Less Common Adverse Reactions Observed in Clinical Trials
+
+The following adverse reactions occurred in less than 2% of treatment-naïve or treatment-experienced subjects in any one trial.
 These events have been included because of their seriousness and/or assessment of potential causal relationship.
 
 Gastrointestinal Disorders: Abdominal pain, abdominal distention, abdominal discomfort, dyspepsia, flatulence, gastroesophageal reflux disease, upper abdominal pain, vomiting.
@@ -69,19 +73,23 @@ Musculoskeletal Disorders: Arthralgia, myositis.
 
 Nervous: Somnolence.
 
-Psychiatric: Nightmare and sleep disorder.
+Psychiatric: Suicidal ideation, attempt, behavior, or completion.
+These events were observed primarily in subjects with a pre-existing history of depression or other psychiatric illness.
+Nightmare and sleep disorder.
 
 Renal and Urinary Disorders: Renal impairment.
 
 Skin and Subcutaneous Tissue Disorders: Pruritus.
 
-Laboratory Abnormalities: Treatment-naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in SINGLE are presented in Table 3.
+Laboratory Abnormalities
+
+Treatment-naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in SINGLE are presented in Table 3.
 The mean change from baseline observed for selected lipid values is presented in Table 4.
 
 Table 3.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-naïve Subjects in SINGLE (Week 96 Analysis)
 
-| Laboratory Abnormality | TIVICAY + EPZICOMOnce Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |
+| Laboratory Abnormality | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | ALT |  |  |
 | Grade 2 (>2.5-5.0 x ULN) | 2% | 5% |
@@ -107,7 +115,7 @@ ULN = Upper limit of normal.
 Table 4.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-naïve Subjects in SINGLE (Week 96 Analysisa)
 
-| Lipid | TIVICAY + EPZICOMOnce Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |
+| Lipid | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | Cholesterol (mg/dL) | 23.2 | 28.0 |
 | HDL cholesterol (mg/dL) | 5.2 | 7.4 |
@@ -119,7 +127,9 @@ Fifty-five subjects initiated a lipid-lowering agent post-baseline; their last f
 
 Treatment-experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naïve trials.
 
-Hepatitis C Virus Co-infection: In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
+Hepatitis C Virus Co-infection
+
+In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
 Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.
 Grades 2 to 4 ALT abnormalities in hepatitis C co-infected compared with HIV mono-infected subjects receiving TRIUMEQ were observed in 15% and 2% (vs.
 24% and 4% of subjects treated with ATRIPLA), respectively [see Warnings and Precautions (5.3)].
@@ -130,7 +140,9 @@ Increases in serum creatinine occurred within the first 4 weeks of treatment and
 In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.32 mg per dL to 0.59 mg per dL) was observed after 96 weeks of treatment.
 Creatinine increases were similar in treatment-experienced subjects.
 
-Abacavir Sulfate and Lamivudine: Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides.
+Abacavir Sulfate and Lamivudine
+
+Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides.
 Additional laboratory abnormalities observed in clinical trials of EPIVIR (in combination with other antiretroviral treatment) were thrombocytopenia and elevated levels of bilirubin, amylase, and lipase.
 
 ## 6.2 Postmarketing Experience

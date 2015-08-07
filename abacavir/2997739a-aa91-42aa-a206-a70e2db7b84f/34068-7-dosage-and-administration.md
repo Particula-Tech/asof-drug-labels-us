@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Screening for HLAB*5701 Allele Prior to Starting TRIUMEQ
+## 2.1 Screening for HLA-B*5701 Allele Prior to Starting TRIUMEQ
 
 Screen for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ [see Boxed Warning, Warnings and Precautions (5.1)].
 
@@ -18,4 +18,4 @@ Dosing Recommendations for TRIUMEQ with Coadministered Medications
 
 | Coadministered Drug | Dosing Recommendation |
 | --- | --- |
-| Efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, or rifampin | The recommended dolutegravir dosage regimen is 50 mg twice daily. An additional dolutegravir 50-mg tablet, separated by 12 hours from TRIUMEQ, should be taken. |
+| Efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, carbamazepine, or rifampin | The recommended dolutegravir dosage regimen is 50 mg twice daily. An additional dolutegravir 50-mg tablet, separated by 12 hours from TRIUMEQ, should be taken. |

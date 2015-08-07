@@ -6,14 +6,16 @@ The efficacy of TRIUMEQ is supported by data from a randomized, controlled trial
 See full prescribing information for TIVICAY.
 The efficacy of dolutegravir, in combination with at least two active background regimens in treatment-experienced, INSTI-naïve subjects is supported by data from SAILING (ING111762) (refer to the prescribing information for TIVICAY).
 
-Treatment-naïve Subjects: In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir disoproxil fumarate (ATRIPLA).
+Treatment-naïve Subjects
+
+In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir disoproxil fumarate (ATRIPLA).
 At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV‑1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 Week 96 outcomes for SINGLE are provided in Table 11.
 
 Table 11.
 Virologic Outcomes of Randomized Treatment in SINGLE at 96 Weeks (Snapshot Algorithm)
 
-|  | TIVICAY + EPZICOM Once Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |
+|  | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
 | HIV‑1 RNA <50 copies/mL | 80% | 72% |
 | Treatment differencea | 8.0% (95% CI: 2.3%, 13.8%) |  |
@@ -48,5 +50,7 @@ Treatment differences were maintained across baseline characteristics including 
 The adjusted mean changes in CD4+ cell counts from baseline were 325 cells per mm3 in the group receiving TIVICAY + EPZICOM and 281 cells per mm3 for the ATRIPLA group at 96 weeks.
 The adjusted difference between treatment arms and 95% CI was 44.0 cells per mm3 (14.3 cells per mm3, 73.6 cells per mm3) (adjusted for pre-specified stratification factors: baseline HIV‑1 RNA, baseline CD4+ cell count, and multiplicity).
 
-Treatment-experienced: In SAILING, there were 715 subjects included in the efficacy and safety analyses (see full prescribing information for TIVICAY).
-At Week 48, 71% of subjects randomized to TIVICAY plus background regimen versus 64% of subjects randomized to raltegravir plus background regimen had HIV‑1 RNA less than 50 copies per mL [treatment difference and 95% CI: 7.4% (0.7%, 14.2%)].
+Treatment-experienced
+
+In SAILING, there were 715 subjects included in the efficacy and safety analyses (see full prescribing information for TIVICAY).
+At Week 48, 71% of subjects randomized to TIVICAY plus background regimen versus 64% of subjects randomized to raltegravir plus background regimen had HIV‑1 RNA less than 50 copies per mL (treatment difference and 95% CI: 7.4% [0.7%, 14.2%]).

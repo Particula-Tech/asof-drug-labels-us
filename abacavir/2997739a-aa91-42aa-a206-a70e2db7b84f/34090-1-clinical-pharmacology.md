@@ -6,20 +6,26 @@ TRIUMEQ is an HIV-1 antiviral agent [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Effects on Electrocardiogram: A thorough QT trial has been conducted for dolutegravir.
+Effects on Electrocardiogram
+
+A thorough QT trial has been conducted for dolutegravir.
 Neither the effects of abacavir nor lamivudine as single entities or the combination of abacavir, dolutegravir, and lamivudine on the QT interval have been evaluated.
 
 In a randomized, placebo-controlled, cross-over trial, 42 healthy subjects received single-dose oral administrations of placebo, dolutegravir 250‑mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
 Dolutegravir did not prolong the QTc interval over 24 hours postdose.
 
-Effects on Renal Function: The effect of dolutegravir on renal function was evaluated in an open-label, randomized, 3-arm, parallel, placebo-controlled trial in healthy subjects (n = 37) who received dolutegravir 50 mg once daily (n = 12), dolutegravir 50 mg twice daily (n = 13), or placebo once daily (n = 12) for 14 days.
+Effects on Renal Function
+
+The effect of dolutegravir on renal function was evaluated in an open-label, randomized, 3-arm, parallel, placebo-controlled trial in healthy subjects (n = 37) who received dolutegravir 50 mg once daily (n = 12), dolutegravir 50 mg twice daily (n = 13), or placebo once daily (n = 12) for 14 days.
 A decrease in creatinine clearance, as determined by 24-hour urine collection, was observed with both doses of dolutegravir after 14 days of treatment in subjects who received 50 mg once daily (9% decrease) and 50 mg twice daily (13% decrease).
 Neither dose of dolutegravir had a significant effect on the actual glomerular filtration rate (determined by the clearance of probe drug, iohexol) or effective renal plasma flow (determined by the clearance of probe drug, para-amino hippurate) compared with the placebo.
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetics in Adults: One TRIUMEQ tablet was bioequivalent to one dolutegravir (TIVICAY) tablet (50 mg) plus one abacavir and lamivudine fixed-dose combination tablet (EPZICOM) under fasted conditions in healthy subjects (n = 62).
+Pharmacokinetics in Adults
+
+One TRIUMEQ tablet was bioequivalent to one dolutegravir (TIVICAY) tablet (50 mg) plus one abacavir and lamivudine fixed-dose combination tablet (EPZICOM) under fasted conditions in healthy subjects (n = 62).
 
 Abacavir: Following oral administration, abacavir is rapidly absorbed and extensively distributed.
 After oral administration of a single dose of 600 mg of abacavir in 20 subjects, Cmax was 4.26 ± 1.19 mcg per mL (mean ± SD) and AUC∞ was 11.95 ± 2.51 mcg•hour per mL.
@@ -66,12 +72,16 @@ In humans, the only known metabolite is the trans-sulfoxide metabolite (approxim
 In most single-dose trials in HIV–1-infected subjects, HBV-infected subjects, or healthy subjects with serum sampling for 24 hours after dosing, the observed mean elimination half-life (t½) ranged from 5 to 7 hours.
 In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 
-Effect of Food on Oral Absorption: TRIUMEQ may be taken with or without food.
+Effect of Food on Oral Absorption
+
+TRIUMEQ may be taken with or without food.
 Overall, when compared with fasted conditions, administration of TRIUMEQ to healthy adult subjects with a high-fat meal (53% fat, 869 calories) resulted in decreased Cmax for abacavir and increased Cmax and AUC for dolutegravir.
 Lamivudine exposures were not affected by food.
 With a high-fat meal, the Cmax of abacavir decreased 23% and the Cmax and AUC of dolutegravir increased 37% and 48%, respectively.
 
-Special Populations: Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated.
+Special Populations
+
+Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated.
 
 Abacavir: The pharmacokinetic properties of abacavir have not been determined in patients with impaired renal function.
 
@@ -115,7 +125,9 @@ Gender: There are no significant or clinically relevant gender differences in th
 
 Race: There are no significant or clinically relevant racial differences in pharmacokinetics of the individual components (dolutegravir, abacavir, or lamivudine) based on the available information that was analyzed for each of the individual components.
 
-Drug Interactions: The drug interaction trials described were conducted with dolutegravir, abacavir, and/or lamivudine as single entities; no drug interaction trials have been conducted using the combination of abacavir, dolutegravir, and lamivudine.
+Drug Interactions
+
+The drug interaction trials described were conducted with dolutegravir, abacavir, and/or lamivudine as single entities; no drug interaction trials have been conducted using the combination of abacavir, dolutegravir, and lamivudine.
 No clinically significant drug interactions are expected between dolutegravir, abacavir, and lamivudine.
 
 Dosing recommendations as a result of established and other potentially significant drug-drug interactions with dolutegravir or abacavir are provided in Section 7.3 [see Drug Interactions (7)].
@@ -127,11 +139,15 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |
+| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | — |
+| Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | — |
 | Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |
 | Midazolam 3 mg | 25 mg once daily | 10 | — | 0.95 (0.79 to 1.15) | — |
 | Norelgestromin 0.25 mg | 50 mg twice daily | 15 | 0.89 (0.82 to 0.97) | 0.98 (0.91 to 1.04) | 0.93 (0.85 to 1.03) |
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.10 (0.99 to 1.22) | 1.06 (0.98 to 1.16) | 1.21 (1.07 to 1.38) |
 | Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |
+
+a The number of subjects represents the maximum number of subjects that were evaluated.
 
 Table 9.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
@@ -141,7 +157,6 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Atazanavir 400 mg once daily | 30 mg once daily | 12 | 1.50 (1.40 to 1.59) | 1.91 (1.80 to 2.03) | 2.80 (2.52 to 3.11) |
 | Atazanavir/ritonavir 300/100 mg once daily | 30 mg once daily | 12 | 1.34 (1.25 to 1.42) | 1.62 (1.50 to 1.74) | 2.21 (1.97 to 2.47) |
-| Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |
 | Darunavir/ritonavir 600/100 mg twice daily | 30 mg once daily | 15 | 0.89 (0.83 to 0.97) | 0.78 (0.72 to 0.85) | 0.62 (0.56 to 0.69) |
 | Efavirenz 600 mg once daily | 50 mg once daily | 12 | 0.61 (0.51 to 0.73) | 0.43 (0.35 to 0.54) | 0.25 (0.18 to 0.34) |
 | Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |
@@ -149,28 +164,31 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |
 | Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |
 | Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |
+| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |
+| Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |
+| Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
 | Antacid (Maalox®) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
 | Antacid (Maalox®) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
+| Boceprevir 800 mg every 8 hours | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
 | Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
-| Ferrous fuarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
-| Ferrous fuarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
-| Ferrous fuarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
+| Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |
+| Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
+| Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
+| Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
 | Multivitamin (One-A-Day®) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
 | Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |
 | Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |
 | Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |
 | Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |
 | Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |
-| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |
-| Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
-| Telaprevir 750 mg every 8 hours | 50 mg once daily | 15 | 1.18 (1.11 to 1.26) | 1.25 (1.19 to 1.31) | 1.40 (1.29 to 1.51) |
-| Boceprevir 800 mg every 8 hours | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
 
 a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily.
 
 b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily.
+
+c The number of subjects represents the maximum number of subjects that were evaluated.
 
 Abacavir or Lamivudine: The drug interactions described are based on trials conducted with abacavir or lamivudine as single entities.
 
@@ -205,7 +223,9 @@ a The drug-drug interaction was only evaluated in males.
 
 ## 12.4 Microbiology
 
-Mechanism of Action: Dolutegravir: Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle.
+Mechanism of Action
+
+Dolutegravir: Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle.
 Strand transfer biochemical assays using purified recombinant HIV-1 integrase and pre-processed substrate DNA resulted in IC50 values of 2.7 nM and 12.6 nM.
 
 Abacavir: Abacavir is a carbocyclic synthetic nucleoside analogue.
@@ -216,7 +236,9 @@ Lamivudine: Lamivudine is a synthetic nucleoside analogue.
 Intracellularly lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP).
 The principal mode of action of 3TC-TP is inhibition of RT via DNA chain termination after incorporation of the nucleotide analogue.
 
-Antiviral Activity in Cell Culture: Dolutegravir: Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean concentration of drug necessary to effect viral replication by 50 percent (EC50) values of 0.5 nM (0.21 ng per mL) to 2.1 nM (0.85 ng per mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
+Antiviral Activity in Cell Culture
+
+Dolutegravir: Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean concentration of drug necessary to effect viral replication by 50 percent (EC50) values of 0.5 nM (0.21 ng per mL) to 2.1 nM (0.85 ng per mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
 Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a median EC50 value of 0.54 nM (range: 0.41 to 0.60 nM) in a viral susceptibility assay using the integrase coding region from clinical isolates.
 Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV‑1 clinical isolates with median EC50 values of 0.18 nM (n = 3, range: 0.09 to 0.5 nM), 0.08 nM (n = 5, range: 0.05 to 2.14 nM) 0.12 nM (n = 4, range: 0.05 to 0.51 nM), 0.17 nM (n = 3, range: 0.16 to 0.35 nM), 0.24 nM (n = 3, range: 0.09 to 0.32 nM), 0.17 nM (range: 0.07 to 0.44 nM), 0.2 nM (n = 3, range: 0.02 to 0.87 nM), and 0.42 nM (n = 3, range: 0.41 to 1.79 nM) for clades A, B, C, D, E, F, and G, and group O viruses, respectively.
 Dolutegravir EC50 values against three HIV-2 clinical isolates in PBMC assays ranged from 0.09 nM to 0.61 nM.
@@ -231,21 +253,29 @@ EC50 values were in the range of 0.003 to 15 μM (1 μM = 0.23 mcg per mL).
 The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B) respectively.
 The EC50 values against HIV‑2 isolates (n = 4) from 0.003 to 0.120 μM in PBMCs.
 
-Antiviral Activity in Combination with Other Antiviral Agents: Neither dolutegravir, abacavir, nor lamivudine were antagonistic to all tested anti-HIV agents.
+Antiviral Activity in Combination with Other Antiviral Agents
+
+Neither dolutegravir, abacavir, nor lamivudine were antagonistic to all tested anti-HIV agents.
 See full prescribing information for ZIAGEN (abacavir), TIVICAY (dolutegravir), and EPIVIR (lamivudine).
 
-Resistance in Cell Culture: Dolutegravir: Dolutegravir-resistant viruses were selected in cell culture starting from different wild-type HIV‑1 strains and clades.
+Resistance in Cell Culture
+
+Dolutegravir: Dolutegravir-resistant viruses were selected in cell culture starting from different wild-type HIV‑1 strains and clades.
 Amino acid substitutions E92Q, G118R, S153F or Y, G193E or R263K emerged in different passages and conferred decreased susceptibility to dolutegravir of up to 4-fold.
 
 Abacavir and Lamivudine: HIV-1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture with amino acid substitutions M184V/I, K65R, L74V, and Y115F in HIV-1 RT.
 Substitution at M184I or V causes high-level resistance to lamivudine and approximately 2-fold decreased susceptibility to abacavir.
 Substitutions K65R, L74M, or Y115F with M184I or V conferred a 7- fold to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
 
-Resistance in Clinical Subjects: Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM of SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 9 with HIV-1 RNA greater than 400 copies per mL at failure or last visit through Week 96 and having resistance data).
+Resistance in Clinical Subjects
+
+Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM of SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 8 with HIV-1 RNA greater than 400 copies per mL at failure or last visit through Week 96 and having resistance data).
 One subject in SINGLE with 275 copies per mL HIV-1 RNA had a treatment-emergent integrase substitution (E157Q/P) detected at Week 24, but no corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to abacavir and lamivudine, components of TRIUMEQ, was observed in the arm receiving dolutegravir + EPZICOM in the SINGLE trial.
 
-Cross Resistance: Dolutegravir: The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
+Cross-resistance
+
+Dolutegravir: The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
 Combinations of multiple substitutions T66K/L74M, E92Q/N155H, G140C/Q148R, G140S/Q148H, R or K, Q148R/N155H, T97A/G140S/Q148, and substitutions at E138/G140/Q148 showed a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.5-fold to 21-fold from reference).
 In HIV-2 mutants, combinations of substitutions A153G/N155H/S163G and E92Q/T97A/N155H/S163D conferred 4-fold decreases in dolutegravir susceptibility, and E92Q/N155H and G140S/Q148R showed 8.5-fold and 17-fold decreases in dolutegravir susceptibility, respectively.
 
