@@ -75,8 +75,6 @@ These events have been included because of their seriousness and assessment of p
 
 Gastrointestinal Disorders: Abdominal pain, abdominal discomfort, flatulence, upper abdominal pain, vomiting.
 
-General Disorders: Fatigue.
-
 Hepatobiliary Disorders: Hepatitis.
 
 Musculoskeletal Disorders: Myositis.

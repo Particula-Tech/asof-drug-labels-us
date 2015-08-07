@@ -200,11 +200,11 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Revised: December 2014
+Revised: August 2015
 
-TVC:3PIL
+TVC:4PIL
 
-©2014, the ViiV Healthcare group of companies.
+©2015, the ViiV Healthcare group of companies.
 All rights reserved.
 
 TIVICAY and LEXIVA are registered trademarks of the ViiV Healthcare group of companies.

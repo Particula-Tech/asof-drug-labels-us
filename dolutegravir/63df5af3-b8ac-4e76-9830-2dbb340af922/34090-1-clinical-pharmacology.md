@@ -125,11 +125,15 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |
+| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93 | _ |
+| Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | _ |
 | Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |
 | Midazolam 3 mg | 25 mg once daily | 10 | _ | 0.95 (0.79 to 1.15) | _ |
 | Norelgestromin 0.25 mg | 50 mg twice daily | 15 | 0.89 (0.82 to 0.97) | 0.98 (0.91 to 1.04) | 0.93 (0.85 to 1.03) |
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.10 (0.99 to 1.22) | 1.06 (0.98 to 1.16) | 1.21 (1.07 to 1.38) |
 | Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |
+
+a The number of subjects represents the maximum number of subjects that were evaluated.
 
 Table 9.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
@@ -139,7 +143,6 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Atazanavir 400 mg once daily | 30 mg once daily | 12 | 1.50 (1.40 to 1.59) | 1.91 (1.80 to 2.03) | 2.80 (2.52 to 3.11) |
 | Atazanavir/ritonavir 300/100 mg once daily | 30 mg once daily | 12 | 1.34 (1.25 to 1.42) | 1.62 (1.50 to 1.74) | 2.21 (1.97 to 2.47) |
-| Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |
 | Darunavir/ritonavir 600/100 mg twice daily | 30 mg once daily | 15 | 0.89 (0.83 to 0.97) | 0.78 (0.72 to 0.85) | 0.62 (0.56 to 0.69) |
 | Efavirenz 600 mg once daily | 50 mg once daily | 12 | 0.61 (0.51 to 0.73) | 0.43 (0.35 to 0.54) | 0.25 (0.18 to 0.34) |
 | Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |
@@ -147,11 +150,16 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |
 | Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |
 | Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |
+| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |
+| Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |
+| Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
 | Antacid (Maalox®) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
 | Antacid (Maalox®) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
+| Boceprevir 800 mg every 8 hours | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
 | Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
+| Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
@@ -161,14 +169,12 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |
 | Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |
 | Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |
-| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |
-| Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
-| Telaprevir 750 mg every 8 hours | 50 mg once daily | 15 | 1.18 (1.11 to 1.26) | 1.25 (1.19 to 1.31) | 1.40 (1.29 to 1.51) |
-| Boceprevir 800 mg every 8 hours | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
 
 aComparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily.
 
 bComparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily.
+
+cThe number of subjects represents the maximum number of subjects that were evaluated.
 
 ## 12.4 Microbiology
 
@@ -210,7 +216,7 @@ In the comparator raltegravir arm, 21 of 49 (43%) subjects with post-baseline re
 
 Treatment-experienced, Integrase Strand Transfer Inhibitor-experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
 
-In VIKING-4 (ING116529),30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screeningwere randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
+In VIKING-4 (ING116529),30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screening were randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
 Virologic responses at Week 48 by baseline genotypic and phenotypic INSTI-resistance categories and the INSTI resistance-associated substitutions that emerged on dolutegravir treatment in VIKING-4 were consistent with those seen in VIKING-3.
 
 Response by Baseline Genotype

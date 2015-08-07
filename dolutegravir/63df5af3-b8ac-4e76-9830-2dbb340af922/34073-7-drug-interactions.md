@@ -14,7 +14,7 @@ In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
 In drug interaction trials, dolutegravir did not have a clinically relevant effect on the pharmacokinetics of the following drugs: tenofovir, methadone, midazolam, rilpivirine, and oral contraceptives containing norgestimate and ethinyl estradiol.
-Using cross-study comparisons to historical pharmacokinetic data for each interacting drug, dolutegravir did not appear to affect the pharmacokinetics of the following drugs: atazanavir, darunavir, efavirenz, etravirine, fosamprenavir, lopinavir, ritonavir, boceprevir, and telaprevir.
+Using cross-study comparisons to historical pharmacokinetic data for each interacting drug, dolutegravir did not appear to affect the pharmacokinetics of the following drugs: atazanavir, darunavir, efavirenz, etravirine, fosamprenavir, lopinavir, ritonavir, and boceprevir.
 
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Dolutegravir
 
@@ -26,7 +26,9 @@ Coadministration of dolutegravir and other drugs that inhibit these enzymes may 
 
 Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir (Table 5) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
-Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, telaprevir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
+In vitro, dolutegravir was not a substrate of OATP1B1, or OATP1B3.
+
+Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
@@ -45,12 +47,13 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 | Non-nucleoside reverse transcriptase inhibitor:Nevirapine | ↓Dolutegravir | Avoid coadministration with nevirapine because there are insufficient data to make dosing recommendations. |
 | Protease Inhibitor:Fosamprenavir/ritonaviraTipranavir/ritonavira | ↓Dolutegravir | Adjust dose of TIVICAY to 50 mg twice daily for treatment-naïve and treatment-experienced, INSTI-naïve patients. Use alternative combinations that do not include metabolic inducers where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b |
 | Other Agents |  |  |
-| Oxcarbazepine Phenytoin Phenobarbital Carbamazepine St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TIVICAY because there are insufficient data to make dosing recommendations. |
+| Carbamazepinea | ↓Dolutegravir | Adjust dose of TIVICAY to 50 mg twice daily in treatment-naïve or treatment-experienced, INSTI-naïve patients. Use alternative treatment that does not include carbamazepine where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b |
+| Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TIVICAY because there are insufficient data to make dosing recommendations. |
 | Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TIVICAY 2 hours before or 6 hours after taking medications containing polyvalent cations. |
 | Oral calcium or iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | Administer TIVICAY 2 hours before or 6 hours after taking supplements containing calcium or iron. Alternatively, TIVICAY and supplements containing calcium or iron can be taken together with food. |
-| Metformin | ↑Metformin | Consider metformin dose reductions when coadministered with TIVICAY. |
+| Metformin | ↑Metformin | With concomitant use, limit the total daily dose of metformin to 1,000 mg either when starting metformin or TIVICAY. When stopping TIVICAY, the metformin dose may require an adjustment. Monitoring of blood glucose when initiating concomitant use and after withdrawal of TIVICAY is recommended. |
 | Rifampina | ↓Dolutegravir | Adjust dose of TIVICAY to 50 mg twice daily for treatment-naïve and treatment-experienced, INSTI-naïve patients. Use alternatives to rifampin where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b |
 
-a See Clinical Pharmacology (12.3)Table 9 for magnitude of interaction.
+a See Clinical Pharmacology (12.3)Table 8 or Table 9 for magnitude of interaction.
 
-b The lower dolutegravir exposures observed in INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) upon coadministration with potent inducers may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents.
+b The lower dolutegravir exposures observed in INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) upon coadministration with certain inducers may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents.
