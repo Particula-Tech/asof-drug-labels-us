@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205650"
+  ],
+  "inn": "pyridostigmine",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-659-01",
+    "68382-659-05",
+    "68382-659-06",
+    "68382-659-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pyridostigmine bromide",
+      "name": "pyridostigmine bromide"
+    }
+  ],
+  "setid": "44e8c2dd-3931-4508-9fa7-5a660d6dfddb",
+  "source": "dailymed"
+}
