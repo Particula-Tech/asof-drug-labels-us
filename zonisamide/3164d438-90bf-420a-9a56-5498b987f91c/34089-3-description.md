@@ -10,7 +10,10 @@ The chemical structure is:
 Zonisamide is supplied for oral administration as capsules containing 25 mg, 50 mg or 100 mg zonisamide, USP.
 Each capsule contains the labeled amount of zonisamide plus the following inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, gelatin, and titanium dioxide.
 
-In addition, individual empty hard gelatin capsule shell contains: 50 mg: Black iron oxide.
+In addition, individual empty hard gelatin capsule shell contains:
+
+50 mg: Black iron oxide.
+
 100 mg: FD&C Blue #1 and FD&C Red #40.
 
 The imprinting ink contains black iron oxide, shellac glaze, propylene glycol and also contains either FD & C Blue No. 2, FD & C Red No. 40, FD & C Blue No. 1 and D & C Yellow No.10 or strong ammonia solution and potassium hydroxide.

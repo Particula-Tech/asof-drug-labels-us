@@ -5,9 +5,7 @@ Such reactions may occur when a sulfonamide is readministered irrespective of th
 If signs of hypersensitivity or other serious reactions occur, discontinue zonisamide immediately.
 Specific experience with sulfonamide-type adverse reaction to zonisamide is described below.
 
-## Serious Skin Reactions
-
-Consideration should be given to discontinuing zonisamide in patients who develop an otherwise unexplained rash.
+Serious Skin Reactions: Consideration should be given to discontinuing zonisamide in patients who develop an otherwise unexplained rash.
 If the drug is not discontinued, patients should be observed frequently.
 Seven deaths from severe rash [i.e., Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)] were reported in the first 11 years of marketing in Japan.
 All of the patients were receiving other drugs in addition to zonisamide.
@@ -16,18 +14,16 @@ Although this rate is greater than background, it is probably an underestimate o
 There were no confirmed cases of SJS or TEN in the U.S., European, or Japanese development programs.
 
 In the U.S. and European randomized controlled trials, 6 of 269 (2.2%) zonisamide patients discontinued treatment because of rash compared to none on placebo.
-Across all trials during the U.S. and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient-years of exposure).
-During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient years).
+Across all trials during the U.S. and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1,000 patient-years of exposure).
+During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1,000 patient years).
 Rash usually occurred early in treatment, with 85% reported within 16 weeks in the U.S. and European studies and 90% reported within two weeks in the Japanese studies.
 There was no apparent relationship of dose to the occurrence of rash.
 
-## Serious Hematologic Events
-
-Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis were reported in the first 11 years of marketing in Japan, rates greater than generally accepted background rates.
+Serious Hematologic Events: Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis were reported in the first 11 years of marketing in Japan, rates greater than generally accepted background rates.
 There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the U.S., European, or Japanese development programs.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
-## Oligohidrosis and Hyperthermia in Pediatric Patients
+Oligohidrosis and Hyperthermia in Pediatric Patients:
 
 Oligohidrosis, sometimes resulting in heat stroke and hospitalization, is seen in association with zonisamide in pediatric patients.
 
@@ -50,7 +46,7 @@ Caution should be used when zonisamide is prescribed with other drugs that predi
 
 The practitioner should be aware that the safety and effectiveness of zonisamide in pediatric patients have not been established, and that zonisamide is not approved for use in pediatric patients.
 
-## Suicidal Behavior and Ideation
+Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including zonisamide, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -71,7 +67,7 @@ Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 3.
 Risk by indication for antiepileptic drugs in the pooled analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -87,9 +83,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Cognitive/Neuropsychiatric Adverse Events subsection below).
 
-## Metabolic Acidosis:
-
-Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Tests subsection).
+Metabolic Acidosis: Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Tests subsection).
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
 
 Generally, zonisamide-induced metabolic acidosis occurs early in treatment, but it can develop at any time during treatment.
@@ -126,22 +120,16 @@ The incidence of a persistent markedly abnormally low serum bicarbonate value wa
 Some patients experienced moderately severe serum bicarbonate decrements down to a level as low as 10 mEq/L.
 The relatively high frequencies of varying severities of metabolic acidosis observed in this study of pediatric patients (compared to the frequency and severity observed in various clinical trial development programs in adults) suggest that pediatric patients may be more likely to develop metabolic acidosis than adults.
 
-## Seizures on Withdrawal
-
-As with other AEDs, abrupt withdrawal of zonisamide in patients with epilepsy may precipitate increased seizure frequency or status epilepticus.
+Seizures on Withdrawal: As with other AEDs, abrupt withdrawal of zonisamide in patients with epilepsy may precipitate increased seizure frequency or status epilepticus.
 Dose reduction or discontinuation of zonisamide should be done gradually.
 
-## Teratogenicity
-
-Women of child bearing potential who are given zonisamide should be advised to use effective contraception.
+Teratogenicity: Women of child bearing potential who are given zonisamide should be advised to use effective contraception.
 Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
 A variety of fetal abnormalities, including cardiovascular defects, and embryo-fetal deaths occurred at maternal plasma levels similar to or lower than therapeutic levels in humans.
 These findings suggest that the use of zonisamide during pregnancy in humans may present a significant risk to the fetus (see PRECAUTIONS, Pregnancy subsection).
 Zonisamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Cognitive/Neuropsychiatric Adverse Events
-
-Use of zonisamide was frequently associated with central nervous system-related adverse events.
+Cognitive/Neuropsychiatric Adverse Events: Use of zonisamide was frequently associated with central nervous system-related adverse events.
 The most significant of these can be classified into three general categories: 1) psychiatric symptoms, including depression and psychosis, 2) psychomotor slowing, difficulty with concentration, and speech or language problems, in particular, word-finding difficulties, and 3) somnolence or fatigue.
 
 In placebo-controlled trials, 2.2% of patients discontinued zonisamide or were hospitalized for depression compared to 0.4% of placebo patients.
@@ -161,17 +149,17 @@ Patients should be cautioned about this possibility and special care should be t
 
 # PRECAUTIONS
 
-## General
+## General:
 
 Somnolence is commonly reported, especially at higher doses of zonisamide (see WARNINGS: Cognitive/Neuropsychiatric Adverse Events subsection).
 Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering zonisamide to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populations subsection).
 
-## Kidney Stones
+Kidney Stones:
 
-Among 991 patients treated during the development of zonisamide, 40 patients (4%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
+Among 991 patients treated during the development of zonisamide, 40 patients (4%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1,000 patient-years of exposure (40 patients with 1,168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
-The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
+The rate of occurrence of kidney stones was 28.7 per 1,000 patient-years of exposure in the first six months, 62.6 per 1,000 patient-years of exposure between 6 and 12 months, and 24.3 per 1,000 patient-years of exposure after 12 months of use.
 There are no normative sonographic data available for either the general population or patients with epilepsy.
 Although the clinical significance of the sonographic findings may not be certain, the development of nephrolithiasis may be related to metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 The analyzed stones were composed of calcium or urate salts.
@@ -181,9 +169,7 @@ It is unknown, however, whether these measures will reduce the risk of stone for
 Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8 % of a subset of zonisamide treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
 The incidence of kidney stone as an adverse event was 3 % (see WARNINGS, Metabolic Acidosis subsection).
 
-## Effect on Renal Function
-
-In several clinical studies, zonisamide was associated with a statistically significant 8% mean increase from baseline of serum creatinine and blood urea nitrogen (BUN) compared to essentially no change in the placebo patients.
+Effect on Renal Function: In several clinical studies, zonisamide was associated with a statistically significant 8% mean increase from baseline of serum creatinine and blood urea nitrogen (BUN) compared to essentially no change in the placebo patients.
 The increase appeared to persist over time but was not progressive; this has been interpreted as an effect on glomerular filtration rate (GFR).
 There were no episodes of unexplained acute renal failure in clinical development in the U.S., Europe, or Japan.
 The decrease in GFR appeared within the first 4 weeks of treatment.
@@ -192,20 +178,16 @@ There is no information about reversibility, after drug discontinuation, of the 
 Zonisamide should be discontinued in patients who develop acute renal failure or a clinically significant sustained increase in the creatinine/BUN concentration.
 Zonisamide should not be used in patients with renal failure (estimated GFR < 50 mL/min) as there has been insufficient experience concerning drug dosing and toxicity.
 
-## Sudden Unexplained Death in Epilepsy
-
-During the development of zonisamide capsules, nine sudden unexplained deaths occurred among 991 patients with epilepsy receiving zonisamide for whom accurate exposure data are available.
-This represents an incidence of 7.7 deaths per 1000 patient years.
-Although this rate exceeds that expected in a healthy population, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with refractory epilepsy not receiving zonisamide (ranging from 0.5 per 1000 patient-years for the general population of patients with epilepsy, to 2 to 5 per 1000 patient-years for patients with refractory epilepsy; higher incidences range from 9 to 15 per 1000 patient-years among surgical candidates and surgical failures).
+Sudden Unexplained Death in Epilepsy: During the development of zonisamide capsules, nine sudden unexplained deaths occurred among 991 patients with epilepsy receiving zonisamide for whom accurate exposure data are available.
+This represents an incidence of 7.7 deaths per 1,000 patient years.
+Although this rate exceeds that expected in a healthy population, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with refractory epilepsy not receiving zonisamide (ranging from 0.5 per 1,000 patient-years for the general population of patients with epilepsy, to 2 to 5 per 1,000 patient-years for patients with refractory epilepsy; higher incidences range from 9 to 15 per 1,000 patient-years among surgical candidates and surgical failures).
 Some of the deaths could represent seizure-related deaths in which the seizure was not observed.
 
-## Status Epilepticus
-
-Estimates of the incidence of treatment emergent status epilepticus in zonisamide-treated patients are difficult because a standard definition was not employed.
+Status Epilepticus: Estimates of the incidence of treatment emergent status epilepticus in zonisamide-treated patients are difficult because a standard definition was not employed.
 Nonetheless, in controlled trials, 1.1% of patients treated with zonisamide had an event labeled as status epilepticus compared to none of the patients treated with placebo.
 Among patients treated with zonisamide across all epilepsy studies (controlled and uncontrolled), 1% of patients had an event reported as status epilepticus.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking zonisamide capsules.
 Patients should be instructed to take zonisamide capsules only as prescribed.
@@ -225,46 +207,25 @@ Patients should be advised as follows: (See Medication Guide)
 7. Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations (possible manifestations of metabolic acidosis).
 8. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during zonisamide therapy.
    Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
-   Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-   This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-   To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
 
-## Laboratory Tests
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
+
+## Laboratory Tests:
 
 In several clinical studies, zonisamide was associated with a mean increase in the concentration of serum creatinine and blood urea nitrogen (BUN) of approximately 8% over the baseline measurement.
 Consideration should be given to monitoring renal function periodically (see PRECAUTIONS, Effect on Renal Function subsection).
 
 Zonisamide increases serum chloride and alkaline phosphatase and decreases serum bicarbonate (see WARNINGS, Metabolic Acidosis subsection), phosphorus, calcium, and albumin.
 
-## Drug Interactions
-
-### Effects of zonisamide on the pharmacokinetics of other antiepilepsy drugs (AEDs)
-
-Zonisamide had no appreciable effect on the steady state plasma concentrations of phenytoin, carbamazepine, or valproate during clinical trials.
-Zonisamide did not inhibit mixed-function liver oxidase enzymes (cytochrome P450), as measured in human liver microsomal preparations, in vitro.
-Zonisamide is not expected to interfere with the metabolism of other drugs that are metabolized by cytochrome P450 isozymes.
-
-### Effects of other drugs on zonisamide pharmacokinetics
-
-Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
-The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27 and 38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
-Concurrent medication with drugs that either induce or inhibit CYP3A4 would be expected to alter serum concentrations of zonisamide.
-
-### Interaction with cimetidine
-
-Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).
-
-### Drug Interactions with CNS Depressants
-
-Concomitant administration of zonisamide and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
+Drug Interactions with CNS Depressants: Concomitant administration of zonisamide and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 
-### Other Carbonic Anhydrase Inhibitors
-
-Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Other Carbonic Anhydrase Inhibitors: Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection).
 
-## Carcinogenicity, Mutagenesis, Impairment of Fertility
+## Carcinogenicity, Mutagenesis, Impairment of Fertility:
 
 No evidence of carcinogenicity was found in mice or rats following dietary administration of zonisamide for two years at doses of up to 80 mg/kg/day.
 In mice, this dose is approximately equivalent to the maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 basis.
@@ -276,13 +237,15 @@ Zonisamide was not mutagenic or clastogenic in other in vitro assays (Ames, mous
 Rats treated with zonisamide (20, 60, or 200 mg/kg) before mating and during the initial gestation phase showed signs of reproductive toxicity (decreased corpora lutea, implantations, and live fetuses) at all doses.
 The low dose in this study is approximately 0.5 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
 
-## Pregnancy
+## Pregnancy:
 
-Pregnancy Category C (see WARNINGS, Teratogenicity subsection): Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
+Pregnancy Category C (see WARNINGS, Teratogenicity subsection):
+
+Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
 Zonisamide was teratogenic in multiple animal species.
 
 Zonisamide treatment causes metabolic acidosis in humans.
-The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
+The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus’ ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the non-pregnant state.
 (See WARNINGS, Metabolic Acidosis subsection.)
 
@@ -319,16 +282,16 @@ To provide information regarding the effects of in utero exposure to zonisamide,
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 The effects of zonisamide on labor and delivery in humans are unknown.
 
-## Use in Nursing Mothers
+## Use in Nursing Mothers:
 
 Zonisamide is excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from zonisamide, a decision should be made whether to discontinue nursing or to discontinue drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+## Pediatric Use:
 
 The safety and effectiveness of zonisamide in children under age 16 have not been established.
 Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
@@ -337,7 +300,7 @@ Chronic untreated metabolic acidosis in pediatric patients may cause nephrolithi
 A reduction in growth rate may eventually decrease the maximal height achieved.
 The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.
 
-## Geriatric Use
+## Geriatric Use:
 
 Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populations subsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
