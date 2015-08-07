@@ -1,10 +1,8 @@
-Cardiovascular Risk
+Cardiovascular Thrombotic Events
 
-- •NSAIDs1 may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction (MI), and stroke, which can be fatal.
-  This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
-  (See WARNINGS).
-- •Etodolac capsules are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (See WARNINGS).
+- •Nonsteroidal anti-inflammatory drugs (NSAIDs1) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use (See WARNINGS).
+- •Etodolac capsules are contraindicated in the setting of coronary artery bypass graft (CABG) surgery (See CONTRAINDICATIONS and WARNINGS).
 
 Gastrointestinal Risk
 

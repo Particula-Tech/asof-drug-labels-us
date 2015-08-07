@@ -28,7 +28,7 @@ Special senses - Blurred vision, tinnitus.
 
 Urogenital system - Dysuria, urinary frequency.
 
-Musculoskeletal—Arthralgia.
+Musculoskeletal - Arthralgia.
 
 * Drug-related patient complaints occurring in 3 to 9% of patients treated with etodolac.
 
@@ -81,7 +81,7 @@ Special senses - Conjunctivitis, deafness, taste perversion, loss of taste.
 
 Urogenital system - Cystitis, hematuria, leukorrhea, renal calculus, interstitial nephritis, uterine bleeding irregularities, renal impairment.
 
-Musculoskeletal—Muscle pain.
+Musculoskeletal - Muscle pain.
 
 ## Additional Adverse Reactions Reported with NSAIDs
 
