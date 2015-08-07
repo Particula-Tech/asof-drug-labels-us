@@ -1,16 +1,20 @@
 ARICEPT PATIENT PACKAGE INSERT
 
-ARICEPT® (Air-eh-sept) (donepezil hydrochloride) tablets
+ARICEPT® (Air-eh-sept)
+
+(donepezil hydrochloride) tablets
 
 - Tablets: 5 mg, 10 mg, and 23 mg
 
-ARICEPT® ODT (Air-eh-sept oh-dee-tee) (donepezil hydrochloride) orally disintegrating tablets
+ARICEPT® ODT (Air-eh-sept oh-dee-tee)
+
+(donepezil hydrochloride) orally disintegrating tablets
 
 - ODT Tablets: 5 mg and 10 mg
 
 Read the Patient Information that comes with ARICEPT before the patient starts taking it and each time you get a refill.
 There may be new information.
-This leaflet does not take the place of talking with the doctor about Alzheimer's disease or treatment for it.
+This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 
 What is ARICEPT?
@@ -18,7 +22,7 @@ What is ARICEPT?
 ARICEPT comes as ARICEPT film-coated tablets in dosage strengths of 5 mg, 10 mg, and 23 mg, and as ARICEPT Orally Disintegrating Tablets (ODT; 5 mg and 10 mg).
 Except where indicated, all the information about ARICEPT in this leaflet also applies to ARICEPT ODT.
 
-ARICEPT is a prescription medicine to treat mild, moderate and severe Alzheimer's disease.
+ARICEPT is a prescription medicine to treat mild, moderate, and severe Alzheimer’s disease.
 ARICEPT can help with mental function and with doing daily tasks.
 ARICEPT does not work the same in all people.
 Some people may:
@@ -28,20 +32,20 @@ Some people may:
 - Get worse over time but slower than expected
 - Not change and then get worse as expected
 
-ARICEPT does not cure Alzheimer's disease.
-All patients with Alzheimer's disease get worse over time, even if they take ARICEPT.
+ARICEPT does not cure Alzheimer’s disease.
+All patients with Alzheimer’s disease get worse over time, even if they take ARICEPT.
 
 ARICEPT has not been approved as a treatment for any medical condition in children.
 
 Who should not take ARICEPT?
 
 The patient should not take ARICEPT if allergic to any of the ingredients in ARICEPT or to medicines that contain piperidines.
-Ask the patient's doctor if you are not sure.
+Ask the patient’s doctor if you are not sure.
 See the end of this leaflet for a list of ingredients in ARICEPT.
 
 What should I tell the doctor before the patient takes ARICEPT?
 
-Tell the doctor about all the patient's present or past health problems.
+Tell the doctor about all the patient’s present or past health problems.
 Include:
 
 - Any heart problems including problems with irregular, slow, or fast heartbeats
@@ -62,7 +66,7 @@ ARICEPT and other medicines may affect each other.
 
 Be particularly sure to tell the doctor if the patient takes aspirin or medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
 There are many NSAID medicines, both prescription and non-prescription.
-Ask the doctor or pharmacist if you are not sure if any of the patient's medicines are NSAIDs.
+Ask the doctor or pharmacist if you are not sure if any of the patient’s medicines are NSAIDs.
 Taking NSAIDs and ARICEPT together may make the patient more likely to get stomach ulcers.
 
 ARICEPT taken with certain medicines used for anesthesia may cause side effects.
@@ -73,7 +77,7 @@ Tell the responsible doctor or dentist that the patient takes ARICEPT before the
 - dental surgery or procedures.
 
 Know the medicines that the patient takes.
-Keep a list of all the patient's medicines.
+Keep a list of all the patient’s medicines.
 Show it to the doctor or pharmacist before the patient starts a new medicine.
 
 How should the patient take ARICEPT?
@@ -83,7 +87,7 @@ How should the patient take ARICEPT?
   Talk with the doctor first.
 - Give ARICEPT one time each day.
   ARICEPT can be taken with or without food.
-- ARICEPT 23 mg tablets should be swallowed whole without the tablets being split, crushed or chewed.
+- ARICEPT 23 mg tablets should be swallowed whole without the tablets being split, crushed, or chewed.
 - ARICEPT ODT melts on the tongue.
   The patient should drink some water after the tablet melts.
 - If you miss giving the patient a dose of ARICEPT, just wait.
@@ -109,7 +113,7 @@ ARICEPT may cause the following serious side effects:
 Call the doctor right away if the patient has:
 
 - fainting.
-- heartburn or stomach pain that is new or won't go away.
+- heartburn or stomach pain that is new or won’t go away.
 - nausea or vomiting, blood in the vomit, dark vomit that looks like coffee grounds.
 - bowel movements or stools that look like black tar.
 - new or worse asthma or breathing problems.
@@ -135,18 +139,16 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should ARICEPT be stored?
 
-Store ARICEPT at room temperature between 59° to 86°F (15° to 30°C).
+Store ARICEPT at room temperature between 59º to 86ºF (15º to 30ºC).
 
 Keep ARICEPT and all medicines out of the reach of children.
 
-General information about ARICEPT
-
-Medicines are sometimes prescribed for conditions that are not mentioned in this Patient Information Leaflet.
+General information about ARICEPT Medicines are sometimes prescribed for conditions that are not mentioned in this Patient Information Leaflet.
 Do not use ARICEPT for a condition for which it was not prescribed.
 Do not give ARICEPT to people other than the patient, even if they have the same symptoms as the patient, as it may harm them.
 
 This leaflet summarizes the most important information about ARICEPT.
-If you would like more information talk with the patient's doctor.
+If you would like more information talk with the patient’s doctor.
 You can ask your pharmacist or doctor for information about ARICEPT that is written for health professionals.
 For more information, go to www.ARICEPT.com, or call 1-800-760-6029.
 
@@ -159,13 +161,13 @@ Inactive ingredients:
 - ARICEPT 5 mg and 10 mg film-coated tablets: lactose monohydrate, cornstarch, microcrystalline cellulose, hydroxypropyl cellulose, and magnesium stearate.
   The film coating contains talc, polyethylene glycol, hypromellose, and titanium dioxide.
   Additionally, the 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
-- ARICEPT 23 mg film-coated tablets: ethylcellulose, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and methacrylic acid copolymer, Type C. The reddish color film coating includes ferric oxide, hypromellose 2910, polyethylene glycol 8000, talc and titanium dioxide.
+- ARICEPT 23 mg film-coated tablets: ethylcellulose, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and methacrylic acid copolymer, Type C. The reddish color film coating includes ferric oxide, hypromellose 2910, polyethylene glycol 8000, talc, and titanium dioxide.
 - ARICEPT ODT 5 mg and 10 mg tablets: carrageenan, mannitol, colloidal silicon dioxide, and polyvinyl alcohol.
   The 10 mg tablet contains yellow iron oxide (synthetic) as a coloring agent.
 
 ARICEPT® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd
 
-Distributed and Marketed by Eisai Inc., Woodcliff Lake, NJ 07677 Marketed by Pfizer Inc, New York, NY 10017
+Distributed by Eisai Inc., Woodcliff Lake, NJ 07677 Marketed by Pfizer Inc, New York, NY 10017
 
 Rx Only
 
