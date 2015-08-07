@@ -40,9 +40,7 @@ Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/mL Vial Label
 
-1 mL Vial
-
-NDC 0009-0417-01
+1 mL Vial NDC 0009-0417-01
 
 Depo®- Testosterone
 
@@ -52,11 +50,11 @@ testosterone cypionate injection, USP
 
 CIII
 
-For IM use only
-
-Pfizer Injectables
+For intramuscular use only
 
 Rx only
+
+Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/mL Vial Carton
 
