@@ -1,11 +1,11 @@
 # PRINCIPAL DISPLAY PANEL
 
-Isosorbide Dinitrate Tablets, USP (oral) 5 mg 0143-1769
+Isosorbide Dinitrate Tablets, USP 5 mg 0143-1769-01
 
 # PRINCIPAL DISPLAY PANEL
 
-Isosorbide Dinitrate Tablets, USP (oral) 10 mg 0143-1171
+Isosorbide Dinitrate Tablets, USP 10 mg 0143-1771-01
 
 # PRINCIPAL DISPLAY PANEL
 
-Isosorbide Dinitrate Tablets, USP (oral) 20 mg 0143-1772
+Isosorbide Dinitrate Tablets, USP 20 mg 0143-1772-01
