@@ -150,7 +150,7 @@ This Medication Guide summarizes the most important information about TRADJENTA.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about TRADJENTA that is written for health professionals.
 
-For more information, go to www.TRADJENTA.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For more information, go to www.TRADJENTA.com (or scan the code below to go to www.TRADJENTA.com) or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in TRADJENTA?
 
@@ -179,12 +179,12 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Revised: May 2014
+Revised: July 2015
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253PE302014 10007261/08
+IT5253QG222015 10007261/09
 
-IT5437L 10007237/08
+IT5437M 10007237/09

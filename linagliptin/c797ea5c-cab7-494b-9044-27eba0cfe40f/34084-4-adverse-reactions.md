@@ -39,7 +39,7 @@ Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
 A concurrent glucose measurement was not required or was normal in some patients.
 Therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
 
-In the study of patients receiving TRADJENTA as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self measured blood glucose ≤70 mg/dL, was noted between the TRADJENTA- (31.4%) and placebo- (32.9%) treated groups.
+In the study of patients receiving TRADJENTA as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose ≤70 mg/dL, was noted between the TRADJENTA- (31.4%) and placebo- (32.9%) treated groups.
 During the same time period, severe hypoglycemic events, defined as requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 11 (1.7%) of TRADJENTA treated patients and 7 (1.1%) of placebo treated patients.
 Events that were considered life-threatening or required hospitalization were reported in 3 (0.5%) patients on TRADJENTA and 1 (0.2%) on placebo.
 
@@ -70,3 +70,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.1)]
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.3)]
 - Rash
+- Mouth ulceration, stomatitis

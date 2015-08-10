@@ -260,7 +260,7 @@ The mean total daily insulin dose at baseline was 42 units for patients treated 
 Background baseline diabetes therapy included use of: insulin alone (16.1%), insulin combined with metformin only (75.5%), insulin combined with metformin and pioglitazone (7.4%), and insulin combined with pioglitazone only (1%).
 The mean change from baseline to Week 24 in the daily dose of insulin was +1.3 IU in the placebo group and +0.6 IU in the TRADJENTA group.
 The mean change in body weight from baseline to Week 24 was similar in the two treatment groups.
-The rate of hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self measured blood glucose was also similar in both groups (21.4% TRADJENTA; 22.9% placebo) in the first 24 weeks of the study.
+The rate of hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose was also similar in both groups (21.4% TRADJENTA; 22.9% placebo) in the first 24 weeks of the study.
 
 Table 11 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Insulin*
 
