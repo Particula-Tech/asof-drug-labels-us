@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA205917"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "West-Ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9596-01",
+    "0143-9596-25",
+    "0143-9624-01",
+    "0143-9624-25",
+    "0143-9625-01",
+    "0143-9625-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "4db985c4-3ba2-4967-898b-35af77f150de",
+  "source": "dailymed"
+}
