@@ -92,7 +92,7 @@ Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI ARIA-Treated Patie
 
 Other and less common clinical trial adverse drug reactions
 
-Adverse drug reactions that do not appear in Table 1 or that occurred <1% in SIMPONI ARIA -treated patients during Trial 1 through Week 24 that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
+Adverse drug reactions that do not appear in Table 1 or that occurred <1% in SIMPONI ARIA-treated patients during Trial 1 through Week 24 that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
 
 Infections and Infestations: Superficial fungal infection, sinusitis, abscess, lower respiratory tract infection (pneumonia), pyelonephritis
 

@@ -94,3 +94,8 @@ Physical Function Response in Patients with RA
 
 Physical function was assessed by the disability index of the Health Assessment Questionnaire (HAQ-DI).
 At Week 14, the SIMPONI ARIA + MTX group showed greater mean improvement in the HAQ-DI compared with placebo + MTX (0.5 compared to 0.2; 95% confidence interval for difference [0.2, 0.4]).
+
+Other Health-Related Outcomes
+
+General health status was assessed by the 36-item Short Form Health Survey (SF-36).
+In Trial 1, patients receiving SIMPONI ARIA + MTX demonstrated greater improvement from baseline compared with placebo + MTX in physical component summary (PCS), mental component summary (MCS) scores and in all 8 domains of the SF-36.
