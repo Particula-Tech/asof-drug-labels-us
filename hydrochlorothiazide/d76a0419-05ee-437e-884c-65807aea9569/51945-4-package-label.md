@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 Package Label – 80 mg/12.5 mg
 
-Rx Only NDC 0078-0314-06
+Rx Only NDC 0078-0314-34
 
 Diovan HCT®
 
@@ -10,7 +10,7 @@ valsartan and hydrochlorothiazide, USP
 
 80 mg/12.5 mg
 
-100 tablets-Unit Dose
+90 tablets
 
 PRINCIPAL DISPLAY PANEL
 

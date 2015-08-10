@@ -21,7 +21,7 @@ Monitor renal function periodically in patients receiving valsartan and NSAID th
 
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If comedication is considered necessary, monitoring of serum potassium is advisable.
 
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.

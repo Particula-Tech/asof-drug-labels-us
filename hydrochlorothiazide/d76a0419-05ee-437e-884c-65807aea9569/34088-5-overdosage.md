@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Valsartan – Hydrochlorothiazide: Limited data are available related to overdosage in humans.
+Valsartan-Hydrochlorothiazide: Limited data are available related to overdosage in humans.
 The most likely manifestations of overdosage would be hypotension and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.
 Depressed level of consciousness, circulatory collapse and shock have been reported.
 If symptomatic hypotension should occur, supportive treatment should be instituted.

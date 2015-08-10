@@ -124,7 +124,7 @@ Rare cases of rhabdomyolysis have been reported in patients receiving angiotensi
 
 Hydrochlorothiazide:
 
-The following additional adverse reactions have been reported in post-marketing experience with hydrochlorothiazide:
+The following additional adverse reactions have been reported in postmarketing experience with hydrochlorothiazide:
 
 Acute renal failure, renal disorder, aplastic anemia, erythema multiforme, pyrexia, muscle spasm, asthenia, acute angle-closure glaucoma, bone marrow failure, worsening of diabetes control, hypokalemia, blood lipids increased, hyponatremia, hypomagnesemia, hypercalcemia, hypochloremic alkalosis, impotence, and visual impairment.
 

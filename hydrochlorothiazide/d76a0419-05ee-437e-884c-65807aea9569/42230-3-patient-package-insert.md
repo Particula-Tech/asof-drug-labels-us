@@ -13,7 +13,7 @@ There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 If you have any questions about DIOVAN HCT, ask your doctor or pharmacist.
 
-| What is the most important information I should know about DIOVAN HCT? Diovan HCT can cause harm or death to an unborn baby. Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant. If you get pregnant while taking Diovan HCT, tell your doctor right away. |
+| What is the most important information I should know about DIOVAN HCT? DIOVAN HCT can cause harm or death to an unborn baby. Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant. If you get pregnant while taking DIOVAN HCT, tell your doctor right away. |
 | --- |
 
 What is DIOVAN HCT?
@@ -72,11 +72,11 @@ Especially, tell your doctor if you take:
 - narcotic pain medicines
 - sleeping pills
 - lithium, a medicine used in some types of depression (Eskalith®, Lithobid®, Lithium Carbonate, Lithium Citrate)
-- aspirin or other medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), like ibuprofen or naproxen
+- aspirin or other medicines called non-steroidal anti-inflammatory Drugs
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 
 Ask your doctor if you are not sure if you are taking 1 of these medicines.
@@ -200,4 +200,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2014-31 March 2014
+T2015-121 July 2015

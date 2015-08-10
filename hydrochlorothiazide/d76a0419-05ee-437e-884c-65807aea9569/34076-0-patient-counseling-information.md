@@ -2,6 +2,8 @@
 
 Information for Patients
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Diovan HCT during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
@@ -13,4 +15,4 @@ All patients should be cautioned that inadequate fluid intake, excessive perspir
 
 Potassium Supplements: A patient receiving Diovan HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
-T2014-93 September 2014
+T2015-120 July 2015
