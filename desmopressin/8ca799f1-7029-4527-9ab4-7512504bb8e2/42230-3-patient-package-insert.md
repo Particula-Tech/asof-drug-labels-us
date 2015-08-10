@@ -23,24 +23,24 @@ Possible signs of overdose may include confusion, drowsiness, continuing headach
 
 USING YOUR DESMOPRESSIN ACETATE NASAL SPRAY PUMP
 
-- 1.Remove protective cap.
-- 2.The spray pump must be primed prior to the first use.
+- •Remove protective cap.
+- •The spray pump must be primed prior to the first use.
   To prime the pump, hold the bottle as shown in Figure A and press down with a quick and firm motion a total of five (5) times.
   This initial priming is very important to assure you receive the correct amount of the solution when you begin to administer the product.
   The bottle is filled with extra solution to accommodate for this priming activity.
-- 3.Once primed, the spray pump will deliver the correct amount of solution each time it is pressed.
+- •Once primed, the spray pump will deliver the correct amount of solution each time it is pressed.
   To administer, hold bottle upright as shown in Figure A and place the spray nozzle in nostril.
   Then press the spray pump once with a quick and firm motion.
   To ensure dosing accuracy, it is very important to hold the bottle upright while administering the solution; it may be necessary to lean your head slightly forward so as to not tilt the bottle.
   Tilting the bottle, especially when less than half of the solution is left, may cause the pump to not dispense correctly.
   NOTE - If necessary, clear nasal passages before administering.
-- 4.If a higher dose (or more than one spray) is prescribed, spray half the dose in each nostril.
+- •If a higher dose (or more than one spray) is prescribed, spray half the dose in each nostril.
   For example, if 4 sprays are prescribed, administer two sprays into each nostril.
   Please note that the spray pump cannot be used for doses less than 10 micrograms or doses other than multiples of 10 micrograms.
-- 5.Replace the protective cap on bottle after use and store in the refrigerator in an upright position.
+- •Replace the protective cap on bottle after use and store in the refrigerator in an upright position.
   The pump will stay primed for up to one week under refrigeration.
   If the product has not been used for a period of one week, re-prime the pump by pressing once.
-- 6.We have included a convenient check-off chart to assist you in keeping track of the number of sprays (doses) used.
+- •We have included a convenient check-off chart to assist you in keeping track of the number of sprays (doses) used.
   This will help assure that you receive the labeled 50 sprays (doses) after the initial priming activity.
   As mentioned above, please discard any remaining solution after administering the 50 sprays as the correct dosage cannot be assured past this point.
 
