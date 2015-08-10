@@ -9,7 +9,7 @@ In oral studies conducted in rats and rabbits, fingolimod demonstrated developme
 In rats, the highest no-effect dose was less than the recommended human dose (RHD) of 0.5 mg/day on a body surface area (mg/m2) basis.
 The most common fetal visceral malformations in rats included persistent truncus arteriosus and ventricular septal defect.
 The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis.
-Because it takes approximately 2 months to eliminate fingolimod from the body, potential risks to the fetus may persist after treatment ends [see Warnings and Precautions (5.7, 5.9)].
+Because it takes approximately 2 months to eliminate fingolimod from the body, potential risks to the fetus may persist after treatment ends [see Warnings and Precautions (5.8, 5.10)].
 GILENYA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Pregnancy Registry
@@ -54,7 +54,7 @@ GILENYA should be used with caution in patients aged 65 years and over, reflecti
 
 ## 8.6 Hepatic Impairment
 
-Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
 
 No dose adjustment is needed in patients with mild or moderate hepatic impairment.
 

@@ -57,6 +57,19 @@ Call your doctor right away if you have any of these symptoms of an infection:
 - headache accompanied by fever, neck stiffness, sensitivity to light, nausea, and/or confusion (these may be symptoms of meningitis)
 
 3.
+Progressive multifocal leukoencephalopathy (PML).
+PML is a rare brain infection that usually leads to death or severe disability.
+If PML happens, it usually happens in people with weakened immune systems.
+It is important that you call your doctor right away if you have any new or worsening medical problems that have lasted several days, including problems with:
+
+- thinking
+- eyesight
+- strength
+- balance
+- weakness on 1 side of your body
+- using your arms and legs
+
+4.
 A problem with your vision called macular edema.
 Macular edema can cause some of the same vision symptoms as an MS attack (optic neuritis).
 You may not notice any symptoms with macular edema.
@@ -241,6 +254,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2015-110
+T2015-128
 
-Revised: July 2015
+Revised: August 2015

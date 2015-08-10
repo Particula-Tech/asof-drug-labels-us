@@ -18,6 +18,13 @@ Advise patients that the use of some vaccines should be avoided during treatment
 Recommend to patients that they delay treatment with GILENYA until after VZV vaccination if they have not had chickenpox or a previous VZV vaccination.
 Inform patients that prior or concomitant use of drugs that suppress the immune system may increase the risk of infection.
 
+Progressive Multifocal Leukoencephalopathy
+
+Inform patients that a case of progressive multifocal leukoencephalopathy (PML) and a case of probable PML have occurred in patients who received GILENYA.
+Inform the patient that PML is characterized by a progression of deficits and usually leads to death or severe disability over weeks or months.
+Instruct the patient of the importance of contacting their doctor if they develop any symptoms suggestive of PML.
+Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes [see Warnings and Precautions (5.3)].
+
 Macular Edema
 
 Advise patients that GILENYA may cause macular edema, and that they should contact their physician if they experience any changes in their vision.
@@ -43,4 +50,4 @@ Persistence of GILENYA Effects after Drug Discontinuation
 
 Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose.
 
-T2015-109 July 2015
+T2015-127 August 2015

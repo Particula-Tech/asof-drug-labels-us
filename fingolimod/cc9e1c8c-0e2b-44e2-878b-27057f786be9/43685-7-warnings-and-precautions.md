@@ -78,7 +78,21 @@ Varicella Zoster Virus Antibody Testing/Vaccination
 Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against varicella zoster virus (VZV) should be tested for antibodies to VZV before initiating GILENYA.
 VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur.
 
-## 5.3 Macular Edema
+## 5.3 Progressive Multifocal Leukoencephalopathy
+
+A case of progressive multifocal leukoencephalopathy (PML) and a case of probable PML occurred in patients with MS who received GILENYA in the post marketing setting.
+PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
+One patient developed PML after taking GILENYA for approximately 2.5 years.
+The other patient developed probable PML after taking GILENYA for approximately 4 years.
+The diagnosis of probable PML was based on MRI findings and the detection of JCV DNA in the CSF in the absence of clinical signs or symptoms specific to PML.
+The patients had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
+The patients were also not taking any immunosuppressive or immunomodulatory medications concomitantly.
+
+At the first sign or symptom suggestive of PML, withhold GILENYA and perform an appropriate diagnostic evaluation.
+MRI signs may be apparent before clinical symptoms.
+Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+## 5.4 Macular Edema
 
 Fingolimod increases the risk of macular edema.
 Perform an examination of the fundus including the macula in all patients before starting treatment, again 3–4 months after starting treatment, and again at any time after a patient reports visual disturbances while on GILENYA therapy.
@@ -106,7 +120,7 @@ In the combined clinical trial experience with all doses of fingolimod, the rate
 GILENYA has not been tested in MS patients with diabetes mellitus.
 In addition to the examination of the fundus including the macula prior to treatment and at 3–4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
-## 5.4 Posterior Reversible Encephalopathy Syndrome
+## 5.5 Posterior Reversible Encephalopathy Syndrome
 
 There have been rare cases of posterior reversible encephalopathy syndrome (PRES) reported in patients receiving GILENYA.
 Symptoms reported included sudden onset of severe headache, altered mental status, visual disturbances, and seizure.
@@ -114,7 +128,7 @@ Symptoms of PRES are usually reversible but may evolve into ischemic stroke or c
 Delay in diagnosis and treatment may lead to permanent neurological sequelae.
 If PRES is suspected, GILENYA should be discontinued.
 
-## 5.5 Respiratory Effects
+## 5.6 Respiratory Effects
 
 Dose-dependent reductions in forced expiratory volume over 1 second (FEV1) and diffusion lung capacity for carbon monoxide (DLCO) were observed in patients treated with GILENYA as early as 1 month after treatment initiation.
 In 2-year placebo-controlled trials, the reduction from baseline in the percent of predicted values for FEV1 at the time of last assessment on drug was 2.8% for GILENYA 0.5 mg and 1.0% for placebo.
@@ -127,7 +141,7 @@ GILENYA has not been tested in MS patients with compromised respiratory function
 
 Spirometric evaluation of respiratory function and evaluation of DLCO should be performed during therapy with GILENYA if clinically indicated.
 
-## 5.6 Liver Injury
+## 5.7 Liver Injury
 
 Elevations of liver enzymes may occur in patients receiving GILENYA.
 Recent (i.e., within last 6 months) transaminase and bilirubin levels should be available before initiation of GILENYA therapy.
@@ -145,18 +159,18 @@ Patients with preexisting liver disease may be at increased risk of developing e
 
 Because GILENYA exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 5.7 Fetal Risk
+## 5.8 Fetal Risk
 
 Based on animal studies, GILENYA may cause fetal harm.
 Because it takes approximately 2 months to eliminate GILENYA from the body, women of childbearing potential should use effective contraception to avoid pregnancy during and for 2 months after stopping GILENYA treatment.
 
-## 5.8 Blood Pressure Effects
+## 5.9 Blood Pressure Effects
 
 In MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
-## 5.9 Immune System Effects Following GILENYA Discontinuation
+## 5.10 Immune System Effects Following GILENYA Discontinuation
 
 Fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of GILENYA.
 Lymphocyte counts generally return to the normal range within 1–2 months of stopping therapy [see Clinical Pharmacology (12.2)].

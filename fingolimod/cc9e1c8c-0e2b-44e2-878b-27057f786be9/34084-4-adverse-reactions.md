@@ -4,10 +4,11 @@ The following serious adverse reactions are described elsewhere in labeling:
 
 - Bradyarrhythmia and Atrioventricular Blocks [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
-- Macular Edema [see Warnings and Precautions (5.3)]
-- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.4)]
-- Respiratory Effects [see Warnings and Precautions (5.5)]
-- Liver Injury [see Warnings and Precautions (5.6)]
+- Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Macular Edema [see Warnings and Precautions (5.4)]
+- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.5)]
+- Respiratory Effects [see Warnings and Precautions (5.6)]
+- Liver Injury [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
