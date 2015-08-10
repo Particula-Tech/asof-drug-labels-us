@@ -23,7 +23,7 @@ Intravenous cyclophosphamide was not permitted within the previous 6 months or d
 Trial 2 was conducted primarily in North America and Europe.
 Trial 3 was conducted in South America, Eastern Europe, Asia, and Australia.
 
-Baseline concomitant medications included corticosteroids (Trial 2: 76%, Trial 3: 96%), immunosuppressives (Trial 2: 56%, Trial 3: 42%; including azathioprine, methotrexate and mycophenolate), and antimalarials (Trial 2: 63%, Trial 3: 67%).
+Baseline concomitant medications included corticosteroids (Trial 2: 76%, Trial 3: 96%), immunosuppressives (Trial 2: 56%, Trial 3: 42%; including azathioprine, methotrexate, and mycophenolate), and antimalarials (Trial 2: 63%, Trial 3: 67%).
 Most patients (>70%) were receiving 2 or more classes of SLE medications.
 
 In Trial 2 and Trial 3, more than 50% of patients had 3 or more active organ systems at baseline.
@@ -67,17 +67,23 @@ b The 1-mg/kg dose is not recommended.
 
 The reduction in disease activity seen in the SRI was related primarily to improvement in the most commonly involved organ systems namely, mucocutaneous, musculoskeletal, and immune.
 
-Effect in Black/African-American Patients: Exploratory sub-group analyses of SRI response rate in patients of black race were performed.
+Effect in Black/African-American Patients
+
+Exploratory sub-group analyses of SRI response rate in patients of black race were performed.
 In Trial 2 and Trial 3 combined, the SRI response rate in black patients (N = 148) in groups receiving BENLYSTA was less than that in the group receiving placebo (22/50 or 44% for placebo, 15/48 or 31% for BENLYSTA 1 mg/kg, and 18/50 or 36% for BENLYSTA 10 mg/kg).
 In Trial 1, black patients (N = 106) in the groups receiving BENLYSTA did not appear to have a different response than the rest of the trial population.
 Although no definitive conclusions can be drawn from these subgroup analyses, caution should be used when considering treatment with BENLYSTA in black/African-American SLE patients.
 
-Effect on Concomitant Steroid Treatment: In Trial 2 and Trial 3, 46% and 69% of patients, respectively, were receiving prednisone at doses >7.5 mg/day at baseline.
+Effect on Concomitant Steroid Treatment
+
+In Trial 2 and Trial 3, 46% and 69% of patients, respectively, were receiving prednisone at doses >7.5 mg/day at baseline.
 The proportion of patients able to reduce their average prednisone dose by at least 25% to ≤7.5 mg/day during Weeks 40 through 52 was not consistently significantly different for BENLYSTA relative to placebo in both trials.
 In Trial 2, 17% of patients receiving BENLYSTA 10 mg/kg and 19% of patients receiving BENLYSTA 1 mg/kg achieved this level of steroid reduction compared with 13% of patients receiving placebo.
 In Trial 3, 19%, 21%, and 12% of patients receiving BENLYSTA 10 mg/kg, BENLYSTA 1 mg/kg, and placebo, respectively, achieved this level of steroid reduction.
 
-Effect on Severe SLE Flares: The probability of experiencing a severe SLE flare, as defined by a modification of the SELENA Trial flare criteria which excluded severe flares triggered only by an increase of the SELENA-SLEDAI score to >12, was calculated for both Trials 2 and 3.
+Effect on Severe SLE Flares
+
+The probability of experiencing a severe SLE flare, as defined by a modification of the SELENA Trial flare criteria which excluded severe flares triggered only by an increase of the SELENA-SLEDAI score to >12, was calculated for both Trials 2 and 3.
 The proportion of patients having at least 1 severe flare over 52 weeks was not consistently significantly different for BENLYSTA relative to placebo in both trials.
 In Trial 2, 18% of patients receiving BENLYSTA 10 mg/kg and 16% of patients receiving BENLYSTA 1 mg/kg had a severe flare compared with 24% of patients receiving placebo.
 In Trial 3, 14%, 18%, and 23% of patients receiving BENLYSTA 10 mg/kg, BENLYSTA 1 mg/kg and placebo, respectively, had a severe flare.

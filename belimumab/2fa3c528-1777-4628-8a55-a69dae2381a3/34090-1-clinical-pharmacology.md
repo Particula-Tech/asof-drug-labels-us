@@ -32,14 +32,18 @@ Population Pharmacokinetic Parameters in Patients with SLE after Intravenous Inf
 | Systemic clearance (CL, mL/day) | 215 |
 | Volume of distribution (Vss, L) | 5.29 |
 
-a Intravenous infusions were administered at 2‑ week intervals for the first 3 doses and at 4‑ week intervals thereafter.
+a Intravenous infusions were administered at 2‑week intervals for the first 3 doses and at 4‑week intervals thereafter.
 
-Drug Interactions: No formal drug interaction studies have been conducted with BENLYSTA.
+Drug Interactions
+
+No formal drug interaction studies have been conducted with BENLYSTA.
 Concomitant use of mycophenolate, azathioprine, methotrexate, antimalarials, NSAIDs, aspirin, and HMG-CoA reductase inhibitors did not significantly influence belimumab pharmacokinetics.
 Coadministration of steroids and angiotensin-converting enzyme (ACE) inhibitors resulted in an increase of systemic clearance of belimumab that was not clinically significant because the magnitude was well within the range of normal variability of clearance.
 The effect of belimumab on the pharmacokinetics of other drugs has not been evaluated.
 
-Special Populations: The following information is based on the population pharmacokinetic analysis.
+Special Populations
+
+The following information is based on the population pharmacokinetic analysis.
 
 Age: Age did not significantly influence belimumab pharmacokinetics in the trial population, where the majority of subjects (70%) were aged between 18 and 45 years.
 No pharmacokinetic data are available in pediatric patients.

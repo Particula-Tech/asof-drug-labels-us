@@ -23,12 +23,12 @@ Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided
 
 Rx only
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
 Rev.
-10/14
+7/15
 
-10000000129614
+10000000136069
 
 PRINCIPAL DISPLAY PANEL
 
@@ -55,9 +55,9 @@ Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided
 
 Rx only
 
-©2014, the GSK group of companies
+©2015, the GSK group of companies
 
 Rev.
-10/14
+07/15
 
-10000000129616
+10000000136070

@@ -18,7 +18,9 @@ Other treatment-related findings were limited to the expected reversible reducti
 B-cell numbers recovered after the cessation of belimumab treatment by about 1 year post-partum in adult monkeys and by 3 months of age in infant monkeys.
 IgM levels in infants exposed to belimumab in utero recovered by 6 months of age.
 
-Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to BENLYSTA, a pregnancy registry has been established.
+Pregnancy Registry
+
+To monitor maternal-fetal outcomes of pregnant women exposed to BENLYSTA, a pregnancy registry has been established.
 Healthcare professionals are encouraged to register patients and pregnant women are encouraged to enroll themselves by calling 1-877-681-6296.
 
 ## 8.3 Nursing Mothers
@@ -33,7 +35,7 @@ Safety and effectiveness of BENLYSTA have not been established in children.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of BENLYSTA did not include sufficient numbers of subjects aged 65 or over to determine whether they respond differently from younger subjects.
+Clinical studies of BENLYSTA did not include sufficient numbers of subjects aged 65 or older to determine whether they respond differently from younger subjects.
 Use with caution in elderly patients.
 
 ## 8.6 Race

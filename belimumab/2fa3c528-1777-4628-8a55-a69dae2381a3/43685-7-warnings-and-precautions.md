@@ -21,7 +21,9 @@ The most frequent serious infections included pneumonia, urinary tract infection
 Infections leading to discontinuation of treatment occurred in 0.7% of patients receiving BENLYSTA and 1.0% of patients receiving placebo.
 Infections resulting in death occurred in 0.3% (4/1,458) of patients treated with BENLYSTA and in 0.1% (1/675) of patients receiving placebo.
 
-Progressive Multifocal Leukoencephalopathy (PML): Cases of JC virus-associated PML resulting in neurological deficits, including fatal cases, have been reported in patients with SLE receiving immunosuppressants, including BENLYSTA.
+Progressive Multifocal Leukoencephalopathy (PML)
+
+Cases of JC virus-associated PML resulting in neurological deficits, including fatal cases, have been reported in patients with SLE receiving immunosuppressants, including BENLYSTA.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 Consider the diagnosis of PML in any patient presenting with new-onset or deteriorating neurological signs and symptoms and consult with a neurologist or other appropriate specialist as clinically indicated.
 In patients with confirmed PML, consider stopping immunosuppressant therapy, including BENLYSTA.
