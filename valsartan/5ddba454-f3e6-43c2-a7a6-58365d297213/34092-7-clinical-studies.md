@@ -21,7 +21,7 @@ The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
 
-The blood pressure lowering effect of valsartan and thiazide-type diuretics are approximately additive.
+The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.

@@ -66,8 +66,8 @@ Especially tell your doctor if you take:
   Your doctor may check the amount of potassium in your blood periodically
 - a salt substitute.
   Your doctor may check the amount of potassium in your blood periodically
-- Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 - Lithium, a medicine used in some types of depression
 
@@ -175,4 +175,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2014-29 March 2014
+T2015-117 July 2015

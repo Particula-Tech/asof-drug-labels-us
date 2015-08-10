@@ -10,17 +10,17 @@ CYP 450 Interactions: In vitro metabolism studies indicate that CYP 450 mediated
 Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
 Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
 
-Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g. spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Trials 14.3].
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Trials (14.3)].
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Diovan and other agents that affect the RAS.
 
@@ -42,7 +42,7 @@ Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocr
 One valsartan patient discontinued treatment for microcytic anemia.
 
 Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan-treated patients.
-Three patients (< 0.1%) treated with valsartan discontinued treatment for elevated liver chemistries.
+Three patients (<0.1%) treated with valsartan discontinued treatment for elevated liver chemistries.
 
 Neutropenia: Neutropenia was observed in 1.9% of patients treated with Diovan and 0.8% of patients treated with placebo.
 
