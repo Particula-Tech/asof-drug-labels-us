@@ -11,6 +11,8 @@ Administration of the lowest dose assessed in rabbits (0.1 mg per kg) resulted i
 There are no adequate and well-controlled studies in pregnant women.
 EYLEA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
+Females of reproductive potential should use effective contraception prior to the initial dose, during treatment, and for at least 3 months after the last intravitreal injection of EYLEA.
+
 ## 8.3 Nursing Mothers
 
 It is unknown whether aflibercept is excreted in human milk.
