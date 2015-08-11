@@ -37,16 +37,14 @@ Serious side effects can happen in people taking JENTADUETO, including:
    - are 80 years of age or older and have not had your kidneys tested
 2. Inflammation of the pancreas (pancreatitis) which may be severe and lead to death.
    Certain medical problems make you more likely to get pancreatitis.
-   Before you start taking JENTADUETO: Tell your doctor if you have ever had:
+   Before you start taking JENTADUETO: Tell your doctor if you have ever had:Stop taking JENTADUETO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
+   The pain may be felt going from your abdomen through to your back.
+   The pain may happen with or without vomiting.
+   These may be symptoms of pancreatitis.
    - inflammation of your pancreas (pancreatitis)
    - stones in your gallbladder (gallstones)
    - a history of alcoholism
    - high blood triglyceride levels
-
-Stop taking JENTADUETO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
-The pain may be felt going from your abdomen through to your back.
-The pain may happen with or without vomiting.
-These may be symptoms of pancreatitis.
 
 What is JENTADUETO?
 
@@ -127,7 +125,7 @@ How should I take JENTADUETO?
 - Your doctor will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C.
 - Your doctor will do blood tests to check how well your kidneys are working before and during your treatment with JENTADUETO.
 
-What are the possible side effects of JENTADUETO tablets?
+What are the possible side effects of JENTADUETO?
 
 JENTADUETO may cause serious side effects, including:
 
@@ -167,7 +165,7 @@ Tell your doctor if you have any side effects that bother you or that do not go 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store JENTADUETO tablets?
+How should I store JENTADUETO?
 
 - Store JENTADUETO between 68°F and 77°F (20°C and 25°C).
 - Keep tablets dry.
@@ -217,12 +215,12 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Revised: July 2014
+Revised: July 2015
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5571JG312014 300661-05
+IT5571LG222015 300661-06
 
-IT5645G 302118-04
+IT5645I 302118-05

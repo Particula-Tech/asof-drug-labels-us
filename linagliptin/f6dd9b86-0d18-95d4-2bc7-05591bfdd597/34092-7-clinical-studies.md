@@ -37,7 +37,7 @@ Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 | Baseline (mean) | 203 | 195 | 191 | 199 | 191 | 196 |
 | Change from baseline (adjusted mean****) | 10 | -9 | -16 | -33 | -32 | -49 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -19 (-31, -6) | -26 (-38, -14) | -43 (-56, -31) | -42 (-55, -30) | -60 (-72, -47) |
-| *Total daily dose of linagliptin is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138. ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
+| *Total daily dose of linagliptin is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138 ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
 Figure 1 Adjusted Mean Change from Baseline for A1C (%) over 24 Weeks with Linagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise - FAS completers
 
@@ -77,7 +77,7 @@ Changes in body weight from baseline were not clinically significant in either t
 ## 14.3 Add-On Combination Therapy with Metformin
 
 A total of 701 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of linagliptin in combination with metformin.
-Patients already on metformin (n=491) at a dose of at least 1500 mg per day were randomized after completing a 2-week open-label placebo run-in period.
+Patients already on metformin (n=491) at a dose of at least 1500 mg per day were randomized after completing a 2-week, open-label, placebo run-in period.
 Patients on metformin and another antihyperglycemic agent (n=207) were randomized after a run-in period of approximately 6 weeks on metformin (at a dose of at least 1500 mg per day) in monotherapy.
 Patients were randomized to the addition of either linagliptin 5 mg or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with glimepiride rescue.
@@ -95,7 +95,7 @@ Table 8 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combi
 | Baseline (mean) | 8.1 | 8.0 |
 | Change from baseline (adjusted mean***) | -0.5 | 0.15 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -0.6 (-0.8, -0.5) | -- |
-| Patients [n (%)] achieving A1C <7% ** | 127 (26.2) | 15 (9.2) |
+| Patients [n (%)] achieving A1C <7%** | 127 (26.2) | 15 (9.2) |
 | FPG (mg/dL) |  |  |
 | Number of patients | n=495 | n=159 |
 | Baseline (mean) | 169 | 164 |
@@ -106,7 +106,7 @@ Table 8 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combi
 | Baseline (mean) | 270 | 274 |
 | Change from baseline (adjusted mean***) | -49 | 18 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -67 (-95, -40) | -- |
-| * Full analysis population using last observation on study **Linagliptin 5 mg + Metformin, n=485; Placebo + Metformin, n=163. ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
+| * Full analysis population using last observation on study **Linagliptin 5 mg + Metformin, n=485; Placebo + Metformin, n=163 ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
 
 ## 14.4 Active-Controlled Study vs Glimepiride in Combination with Metformin
 
@@ -185,7 +185,7 @@ The mean total daily insulin dose at baseline was 42 units for patients treated 
 Background baseline diabetes therapy included use of: insulin alone (16.1%), insulin combined with metformin only (75.5%), insulin combined with metformin and pioglitazone (7.4%), and insulin combined with pioglitazone only (1%).
 The mean change from baseline to Week 24 in the daily dose of insulin was +1.3 IU in the placebo group and +0.6 IU in the linagliptin group.
 The mean change in body weight from baseline to Week 24 was similar in the two treatment groups.
-The rate of hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self measured blood glucose was also similar in both groups (21.4% linagliptin; 22.9% placebo) in the first 24 weeks of the study.
+The rate of hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose was also similar in both groups (21.4% linagliptin; 22.9% placebo) in the first 24 weeks of the study.
 
 Table 11 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combination with Insulin*
 

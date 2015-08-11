@@ -30,7 +30,7 @@ If symptoms of allergic reactions (such as rash, skin flaking or peeling, urtica
 Missed Dose Instruct patients to take JENTADUETO only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
-Alcohol Intake Warn patients against excessive alcohol intake, either acute or chronic, while receiving JENTADUETO [see Warnings and Precautions (5.7)].
+Alcohol Intake Warn patients against excessive alcohol intake, either acute or chronic, while receiving JENTADUETO [see Warnings and Precautions (5.8)].
 
 Blood Glucose and A1C Monitoring Inform patients that response to all diabetic therapies should be monitored by periodic measurements of blood glucose and A1C levels, with a goal of decreasing these levels toward the normal range.
 A1C monitoring is especially useful for evaluating long-term glycemic control.

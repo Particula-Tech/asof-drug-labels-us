@@ -20,7 +20,7 @@ Metformin
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.10)] and does not cause hyperinsulinemia.
+Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.5)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -219,7 +219,7 @@ Metformin hydrochloride
 
 Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |
@@ -235,7 +235,7 @@ Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dose of Metformin* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | AUC† | Cmax |  |  |  |
 | No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |
