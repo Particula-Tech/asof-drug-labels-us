@@ -8,6 +8,7 @@ Table 1 Drugs that are Contraindicated with STRIBILD
 | Drug Class | Drugs within class that are contraindicated with STRIBILD | Clinical Comment |
 | --- | --- | --- |
 | Alpha 1-Adrenoreceptor Antagonist | Alfuzosin | Potential for increased alfuzosin concentrations, which can result in hypotension. |
+| Anticonvulsants | Carbamazepine Phenobarbital Phenytoin | Potential for decreased cobicistat and elvitegravir plasma concentrations, which may result in loss of therapeutic effect and development of resistance. |
 | Antimycobacterial | Rifampin | Rifampin is a potent inducer of CYP450 metabolism and may cause significant decrease in the plasma concentration of elvitegravir and cobicistat. This may result in loss of therapeutic effect to STRIBILD. |
 | Ergot Derivatives | Dihydroergotamine Ergotamine Methylergonovine | Potential for serious and/or life-threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for serious and/or life-threatening events such as cardiac arrhythmias. |

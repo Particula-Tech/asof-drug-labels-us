@@ -103,6 +103,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88,1.10) | 0.98 (0.91,1.06) | 1.00 (0.90,1.11) |  |  |  |
 | 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74,0.91) | 0.85 (0.79,0.91) | 0.90 (0.82,0.99) |  |  |  |
 | 20 mL single dose given 2 hours after elvitegravir | 10 | 0.79 (0.71,0.88) | 0.80 (0.75,0.86) | 0.80 (0.73,0.89) |  |  |  |
+| Carbamazepine | 200 twice daily | 150 once daily | Cobicistat 150 once daily | 12 | 0.55 (0.49,0.61) | 0.31 (0.28,0.33) | 0.03 (0.02,0.04) |
 | Famotidine | 40 once daily given 12 hours after elvitegravir | 150 once daily | Cobicistat 150 once daily | 10 | 1.02 (0.89,1.17) | 1.03 (0.95,1.13) | 1.18 (1.05,1.32) |
 | 40 once daily given simultaneously with elvitegravir | 16 | 1.00 (0.92,1.10) | 1.03 (0.98,1.08) | 1.07 (0.98,1.17) |  |  |  |
 | Ketoconazole | 200 twice daily | 150 once daily | RTV 100 once daily | 18 | 1.17 (1.04,1.33) | 1.48 (1.36,1.62) | 1.67 (1.48,1.88) |
@@ -111,7 +112,6 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | 20 once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92,1.15) | 1.05 (0.93,1.18) | 1.10 (0.92,1.32) |  |  |  |
 | Rifabutin | 150 once every other day | 150 once daily | Cobicistat 150 once daily | 12 | 0.91 (0.84,0.99) | 0.79 (0.74,0.85) | 0.33 (0.27,0.40) |
 | Rosuvastatin | 10 single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83,1.07) | 1.02 (0.91,1.14) | 0.98 (0.83,1.16) |
-| Telaprevir | 750 three times daily | 150 once daily | 150 once daily | 16 | 0.79 (0.74,0.85) | 0.84 (0.79,0.89) | 1.29 (1.14,1.46) |
 
 Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Elvitegravir plus Cobicistat, Cobicistat, or STRIBILDAll interaction studies conducted in healthy volunteers.
 
@@ -120,6 +120,8 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir DoseN/A = Not Applicable (mg) | Cobicistat Booster Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic ParametersNC = Not Calculated (90% CI); No effect = 1.00 |  |  |
 | Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98 to 1.27) | 1.35 (1.18 to 1.55) | 1.66 (1.43 to 1.93) |
 | Norbuprenorphine | 1.24 (1.03 to 1.49) | 1.42 (1.22 to 1.67) | 1.57 (1.31 to 1.88) |  |  |  |  |
+| Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
+| Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |
 | Desipramine | 50 single dose | N/A | 150 once daily | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
 | Digoxin | 0.5 single dose | N/A | 150 once daily | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
 | Naloxone | 4 – 6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61, 0.85) | 0.72 (0.59, 0.87) | N/A |
@@ -130,7 +132,6 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
 | 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |
 | Rosuvastatin | 10 single dose | 150 single dose | 150 single dose | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
-| Telaprevir | 750 three times daily | 150 once daily | 150 once daily | 15 | 1.06 (0.97, 1.16) | 1.13 (1.00, 1.29) | 1.15 (1.05, 1.25) |
 
 ## 12.4 Microbiology
 

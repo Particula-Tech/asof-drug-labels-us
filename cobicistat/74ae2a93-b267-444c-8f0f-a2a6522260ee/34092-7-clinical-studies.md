@@ -67,5 +67,5 @@ Table 11 Virologic Outcomes of Randomized Treatment in Study 115 and Study 121 a
 | Virologic FailureIncludes subjects who had ≥50 copies/mL in the Week 48 window, subjects who discontinued early due to lack or loss of efficacy, subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥50 copies/mL. | 1% | 1% | 1% | 1% |
 | No Virologic Data in Week 48 Window | 6% | 12% | 6% | 11% |
 | Discontinued Study Drug Due to AE or DeathIncludes subjects who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 2% | 1% | 2% | 1% |
-| Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA <50 copies/mLIncludes subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy, eg., withdrew consent, loss to follow-up, etc. | 4% | 10% | 4% | 9% |
+| Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA <50 copies/mLIncludes subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc. | 4% | 10% | 4% | 9% |
 | Missing Data During Window but on Study Drug | 0% | 0% | 0% | 1% |

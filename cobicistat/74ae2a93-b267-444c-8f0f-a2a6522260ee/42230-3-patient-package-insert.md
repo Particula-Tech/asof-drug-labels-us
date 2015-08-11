@@ -55,7 +55,7 @@ What is STRIBILD?
 STRIBILD is a prescription medicine that is used without other antiretroviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in adults:
 
 - who have not received anti-HIV-1 medicines in the past, or
-- to replace their current anti-HIV-1 medcines:
+- to replace their current anti-HIV-1 medicines:
   - in people who have been on the same anti-HIV-1 medicine regimen for at least 6 months, and
   - who have an amount of HIV-1 in their blood (this is called 'viral load') that is less than 50 copies/mL, and
   - have never failed past HIV-1 treatment.
@@ -91,6 +91,7 @@ Do not take STRIBILD if you also take a medicine that contains:
 
 - alfuzosin hydrochloride (UROXATRAL®)
 - cisapride (PROPULSID®, PROPULSID QUICKSOLV®)
+- carbamazepine (CARBATROL®, EPITOL®, EQUETRO®, TEGRETOL®, TEGRETOL-XR®, TERIL®)
 - ergot-containing medicines, including:
   - dihydroergotamine mesylate (D.H.E.
     45®, MIGRANAL®)
@@ -98,6 +99,8 @@ Do not take STRIBILD if you also take a medicine that contains:
   - methylergonovine maleate (ERGOTRATE®, METHERGINE®)
 - lovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
 - midazolam, when taken by mouth
+- phenobarbital (LUMINAL®)
+- phenytoin (DILANTIN®, PHENYTEK®)
 - pimozide (ORAP®)
 - rifampin (RIFADIN®, RIFAMATE®, RIFATER®, RIMACTANE®)
 - sildenafil (REVATIO®), when used for treating the lung problem, pulmonary arterial hypertension (PAH)
@@ -128,73 +131,13 @@ Before taking STRIBILD, tell your healthcare provider if you:
 
 Talk with your healthcare provider about the best way to feed your baby.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
-STRIBILD may affect the way other medicines work, and other medicines may affect how STRIBILD works.
-
-You should not take STRIBILD if you also take:
-
-- any other medicines to treat HIV-1 infection
-- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, VIREAD®, TRUVADA®)
-- other medicines that contain cobicistat (TYBOST®) or elvitegravir (VITEKTA®)
-- other medicines that contain emtricitabine or lamivudine (ATRIPLA®, COMPLERA®, TRUVADA®, COMBIVIR®, EMTRIVA®, EPIVIR® or EPIVIR-HBV®, EPZICOM®, TRIUMEQ®, TRIZIVIR®,)
-- adefovir (HEPSERA®)
-- ritonavir (NORVIR®, KALETRA®)
-
-Especially tell your healthcare provider if you take:
-
-- hormone-based contraceptives (such as birth control pills, vaginal rings, injections, and patches)
-- an antacid medicine that contains aluminum, magnesium hydroxide, or calcium carbonate.
-  Take antacids at least 2 hours before or after you take STRIBILD.
-- medicines to treat depression
-- medicines to prevent organ transplant rejection
-- medicines to treat high blood pressure
-- any of the following medicines:
-  - amiodarone (CORDARONE®, PACERONE®)
-  - atorvastatin (LIPITOR®, CADUET®)
-  - bepridil hydrochloride (VASCOR®, BEPADIN®)
-  - bosentan (TRACLEER®)
-  - buspirone
-  - carbamazepine (CARBATROL®, EPITOL®, EQUETRO®, TEGRETOL®)
-  - clarithromycin (BIAXIN®, PREVPAC®)
-  - clonazepam (KLONOPIN®)
-  - clorazepate (GEN-XENE®, TRANXENE®)
-  - colchicine (COLCRYS®)
-  - medicines that contain dexamethasone
-  - diazepam (VALIUM®)
-  - digoxin (LANOXIN®)
-  - disopyramide (NORPACE®)
-  - estazolam
-  - ethosuximide (ZARONTIN®)
-  - flecainide (TAMBOCOR®)
-  - flurazepam
-  - fluticasone (FLOVENT®, FLONASE®, FLOVENT® DISKUS®, FLOVENT® HFA, VERAMYST®)
-  - itraconazole (SPORANOX®)
-  - ketoconazole (NIZORAL®)
-  - lidocaine (XYLOCAINE®)
-  - mexiletine
-  - oxcarbazepine (TRILEPTAL®)
-  - perphenazine
-  - phenobarbital (LUMINAL®)
-  - phenytoin (DILANTIN®, PHENYTEK®)
-  - propafenone (RYTHMOL®)
-  - quinidine (NEUDEXTA®)
-  - rifabutin (MYCOBUTIN®)
-  - rifapentine (PRIFTIN®)
-  - risperidone (RISPERDAL®, RISPERDAL CONSTA®)
-  - salmeterol (SEREVENT®) or salmeterol when taken in combination with fluticasone (ADVAIR DISKUS®, ADVAIR HFA®)
-  - sildenafil (VIAGRA®), tadalafil (CIALIS®) or vardenafil (LEVITRA®, STAXYN®), for the treatment of erectile dysfunction (ED).
-    If you get dizzy or faint (low blood pressure), have vision changes or have an erection that last longer than 4 hours, call your healthcare provider or get medical help right away.
-  - tadalafil (ADCIRCA®), for the treatment of pulmonary arterial hypertension
-  - thioridazine
-  - voriconazole (VFEND®)
-  - warfarin (COUMADIN®, JANTOVEN®)
-  - zolpidem (AMBIEN®, EDLULAR®, INTERMEZZO®, ZOLPIMIST®)
-
-Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
-Do not start any new medicines while you are taking STRIBILD without first talking with your healthcare provider or pharmacist.
-
-Know the medicines you take.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Some medicines may interact with STRIBILD.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
+
+- You can ask your healthcare provider or pharmacist for a list of medicines that interact with STRIBILD.
+- Do not start a new medicine without telling your healthcare provider.
+  Your healthcare provider can tell you if it is safe to take STRIBILD with other medicines.
 
 How should I take STRIBILD?
 
@@ -204,6 +147,7 @@ How should I take STRIBILD?
 - Take STRIBILD with food.
 - Do not change your dose or stop taking STRIBILD without first talking with your healthcare provider.
   Stay under a healthcare provider's care when taking STRIBILD.
+- If you need to take a medicine for indigestion (antacid) that contains aluminum and magnesium hydroxide or calcium carbonate during treatment with STRIBILD, take it at least 2 hours before or after you take STRIBILD.
 - Do not miss a dose of STRIBILD.
   If you miss a dose of STRIBILD, take the missed dose as soon as you remember.
   If it is almost time for your next dose of STRIBILD, do not take the missed dose.
@@ -279,10 +223,12 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-Revised: 12/2014
+Revised: 07/2015
+
+© 2015 Gilead Sciences, Inc. All rights reserved.
 
 COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, TYBOST, VIREAD, and VITEKTA are trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-203100-GS-004
+203100-GS-005
