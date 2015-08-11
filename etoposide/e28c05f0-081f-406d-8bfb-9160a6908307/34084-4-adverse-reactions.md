@@ -8,30 +8,30 @@ A total of 98 patients received total doses at or above 450 mg/m2 on a 5 consecu
 
 Summary of Adverse Events Reported With Single-Agent ETOPOPHOS Following Course 1 at Total Five Day Doses of ≥450 mg/m2
 
-|  |  | Percent of Patients |
-| --- | --- | --- |
-| Hematologic toxicity |  |  |
-| Leukopenia | <4000/mm3 | 91 |
-|  | <1000/mm3 | 17 |
-| Neutropenia | <2000/mm3 | 88 |
-|  | <500/mm3 | 37 |
-| Thrombocytopenia | <100,000/mm3 | 23 |
-|  | <50,000/mm3 | 9 |
-| Anemia | <11 g/dL | 72 |
-|  | <8 g/dL | 19 |
-| Gastrointestinal toxicity |  |  |
-| Nausea and/or vomiting |  | 37 |
-| Anorexia |  | 16 |
-| Mucositis |  | 11 |
-| Constipation |  | 8 |
-| Abdominal Pain |  | 7 |
-| Diarrhea |  | 6 |
-| Taste Alteration |  | 6 |
-| Asthenia/Malaise |  | 39 |
-| Alopecia |  | 33 |
-| Chills and/or Fever |  | 24 |
-| Dizziness |  | 5 |
-| Extravasation/Phlebitis |  | 5 |
+|  | Percent of Patients |
+| --- | --- |
+| Hematologic toxicity |  |
+| Leukopenia <4000/mm3 | 91 |
+| <1000/mm3 | 17 |
+| Neutropenia <2000/mm3 | 88 |
+| <500/mm3 | 37 |
+| Thrombocytopenia <100,000/mm3 | 23 |
+| <50,000/mm3 | 9 |
+| Anemia <11 g/dL | 72 |
+| <8 g/dL | 19 |
+| Gastrointestinal toxicity |  |
+| Nausea and/or vomiting | 37 |
+| Anorexia | 16 |
+| Mucositis | 11 |
+| Constipation | 8 |
+| Abdominal Pain | 7 |
+| Diarrhea | 6 |
+| Taste Alteration | 6 |
+| Asthenia/Malaise | 39 |
+| Alopecia | 33 |
+| Chills and/or Fever | 24 |
+| Dizziness | 5 |
+| Extravasation/Phlebitis | 5 |
 
 Since etoposide phosphate is converted to etoposide, those adverse experiences that are associated with VePesid can be expected to occur with ETOPOPHOS.
 
@@ -77,7 +77,7 @@ Reversible alopecia, sometimes progressing to total baldness, was observed in up
 
 ## Other Toxicities
 
-The following adverse reactions have been reported: abdominal pain, aftertaste, constipation, dysphagia, fever, transient cortical blindness, interstitial pneumonitis/pulmonary fibrosis, optic neuritis, pigmentation, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, toxic epidermal necrolysis, and radiation recall dermatitis.
+The following adverse reactions have been reported: abdominal pain, aftertaste, constipation, dysphagia, fever, transient cortical blindness, interstitial pneumonitis/pulmonary fibrosis, optic neuritis, pigmentation, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, toxic epidermal necrolysis, radiation recall dermatitis, arrhythmia, and myocardial infarction.
 Hepatic toxicity may be seen.
 
 Local soft tissue toxicity has been reported following extravasation of ETOPOPHOS.

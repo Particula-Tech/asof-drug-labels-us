@@ -1,5 +1,7 @@
 # WARNINGS
 
+## Myelosuppression
+
 Patients being treated with ETOPOPHOS must be frequently observed for myelosuppression both during and after therapy.
 Myelosuppression resulting in death has been reported following etoposide administration.
 Dose-limiting bone marrow suppression is the most significant toxicity associated with ETOPOPHOS therapy.
@@ -7,6 +9,8 @@ Therefore, the following studies should be obtained at the start of therapy and 
 The occurrence of a platelet count below 50,000/mm3 or an absolute neutrophil count below 500/mm3 is an indication to withhold further therapy until the blood counts have sufficiently recovered.
 The toxicity of rapidly infused ETOPOPHOS in patients with impaired renal or hepatic function has not been adequately evaluated.
 The toxicity profile of ETOPOPHOS when infused at doses >175 mg/m2 has not been delineated.
+
+## Anaphylaxis
 
 Physicians should be aware of the possible occurrence of an anaphylactic reaction manifested by chills, fever, tachycardia, bronchospasm, dyspnea, and hypotension.
 Higher rates of anaphylactic-like reactions have been reported in children who received infusions of etoposide at concentrations higher than those recommended.
@@ -19,6 +23,8 @@ Injection site reactions may occur during the administration of ETOPOPHOS (see A
 Closely monitor the infusion site for possible infiltration during drug administration.
 No specific treatment for extravasation reactions is known.
 
+## Pregnancy
+
 ETOPOPHOS can cause fetal harm when administered to a pregnant woman.
 Etoposide has been shown to be teratogenic in mice and rats, and it is therefore likely that ETOPOPHOS is also teratogenic.
 
@@ -28,6 +34,20 @@ An intraperitoneal dose of 1.5 mg/kg (about 1/10 of the human dose on a mg/m2 ba
 
 If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be warned of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant.
+
+## Infertility
+
+In male patients, ETOPOPHOS may result in oligospermia, azoospermia, and permanent loss of fertility.
+Sperm counts have been reported to return to normal levels in some men, and in some cases has occurred several years after the end of therapy.
+ETOPOPHOS may damage spermatozoa and testicular tissue, resulting in possible genetic fetal abnormalities.
+Males with female sexual partners of reproductive potential should use condoms during treatment with ETOPOPHOS and for at least 4 months after the final dose.
+
+In females of reproductive potential, ETOPOPHOS may cause infertility and result in amenorrhea.
+Premature menopause can occur with ETOPOPHOS.
+Recovery of menses and ovulation is related to age at treatment.
+Advise females of reproductive potential to use effective contraception during treatment with ETOPOPHOS and for at least 6 months after the final dose.
+
+## Acute Leukemia
 
 ETOPOPHOS should be considered a potential carcinogen in humans.
 The occurrence of acute leukemia with or without a preleukemic phase has been reported in rare instances in patients treated with etoposide alone or in association with other neoplastic agents.
@@ -49,6 +69,11 @@ Patients with low serum albumin may be at an increased risk for etoposide associ
 
 Caution should be exercised when administering ETOPOPHOS with drugs that are known to inhibit phosphatase activities (e.g., levamisole hydrochloride).
 High-dose cyclosporin A resulting in concentrations above 2000 ng/mL administered with oral etoposide has led to an 80% increase in etoposide exposure with a 38% decrease in total body clearance of etoposide compared to etoposide alone.
+
+Concomitant use of antiepileptic medications including phenytoin, phenobarbital, carbamazepine, and valproic acid is associated with increased etoposide clearance and reduced efficacy of ETOPOPHOS.
+
+Concomitant warfarin therapy may result in elevated international normalized ratio (INR).
+Close monitoring of INR is recommended.
 
 ## Laboratory Tests
 
