@@ -52,8 +52,8 @@ Adverse Experiences in Active-Controlled Clinical Trials of MALARONE for Prophyl
 | Any neuropsychiatric event | 20 | (14) | 37 | (29) | 16 | (10) | 20 | (10) |
 | Any GI event | 49 | (16) | 50 | (19) | 43 | (12) | 54 | (20) |
 
-- a Adverse experiences that started while receiving active study drug.
-- b Mean duration of dosing based on recommended dosing regimens.
+- aAdverse experiences that started while receiving active study drug.
+- bMean duration of dosing based on recommended dosing regimens.
 
 In a third active‑controlled study, MALARONE (n = 110) was compared with chloroquine/proguanil (n = 111) for the prophylaxis of malaria in 221 non-immune pediatric patients (2 to 17 years of age).
 The mean duration of exposure was 23 days for MALARONE, 46 days for chloroquine, and 43 days for proguanil, reflecting the different recommended dosage regimens for these products.

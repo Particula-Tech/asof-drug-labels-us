@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- Patients should be instructed:
+Patients should be instructed:
 
 - •to take MALARONE at the same time each day with food or a milky drink.
 - •to take a repeat dose of MALARONE if vomiting occurs within 1 hour after dosing.

@@ -53,7 +53,7 @@ Apparent Clearance for Atovaquone and Proguanil in Patients as a Function of Bod
 | 31-40 kg | 95 | 2.76 ± 2.07(0.97-12.5) | 91 | 49.5 ± 8.30(25.8-71.5) |
 | >40 kg | 368 | 6.61 ± 3.92(1.32-20.3) | 282 | 67.9 ± 19.9(14.0-145) |
 
-- a SD = standard deviation.
+a SD = standard deviation.
 
 The pharmacokinetics of atovaquone and proguanil in patients with body weight below 11 kg have not been adequately characterized.
 
@@ -93,8 +93,9 @@ Point Estimates (90% CI) for Proguanil and Cycloguanil Parameters in Subjects Wi
 
 ND = not determined due to lack of quantifiable data.
 
-- a Ratio of geometric means.
-- b Mean difference.
+a Ratio of geometric means.
+
+b Mean difference.
 
 Drug Interactions: There are no pharmacokinetic interactions between atovaquone and proguanil at the recommended dose.
 

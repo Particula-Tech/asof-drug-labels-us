@@ -18,7 +18,7 @@ Prevention of Parasitemiaa in Placebo Controlled Clinical Trials of MALARONE for
 | Failed to complete study | 57 | 46 |
 | Developed parasitemia (P. falciparum) | 2 | 92 |
 
-- a Free of parasitemia during the 10 to 12-week period of prophylactic therapy.
+a Free of parasitemia during the 10 to 12-week period of prophylactic therapy.
 
 In another study, 330 Gabonese pediatric patients (weighing 13 to 40 kg, and aged 4 to 14 years) who had received successful open‑label radical cure treatment with artesunate, were randomized to receive either MALARONE (dosage based on body weight) or placebo in a double‑blind fashion for 12 weeks.
 Blood smears were obtained weekly and any time malaria was suspected.
@@ -45,7 +45,7 @@ Prevention of Parasitemiaa in Active-Controlled Clinical Trials of MALARONE for 
 | Failed to complete study | 14 | 6 | 4 |
 | Developed parasitemia (P. falciparum) | 0 | 0 | 3 |
 
-- a Free of parasitemia during the period of prophylactic therapy.
+a Free of parasitemia during the period of prophylactic therapy.
 
 A third randomized, open‑label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and 2 to 17 years of age) who were at risk of contracting malaria by traveling to an endemic area.
 The mean duration of travel was 15 days (range 1 to 30 days).
@@ -92,11 +92,14 @@ Parasitological Response in 8 Clinical Trials of MALARONE for Treatment of P. fa
 | Philippines | 54 | 100.0% | Chloroquine (Cq)Cq and P/S | 2332 | 30.4%87.5% |
 | Peru | 19 | 100.0% | ChloroquineP/S | 137 | 7.7%100.0% |
 
-- a MALARONE = 1,000 mg atovaquone and 400 mg proguanil hydrochloride (or equivalent based on body weight for patients weighing ≤ 40 kg) once daily for 3 days.
-- b Elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days.
-- c Patients hospitalized only for acute care.
-  Follow‑up conducted in outpatients.
-- d Study in pediatric patients 3 to 12 years of age.
+a MALARONE = 1,000 mg atovaquone and 400 mg proguanil hydrochloride (or equivalent based on body weight for patients weighing ≤40 kg) once daily for 3 days.
+
+b Elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days.
+
+c Patients hospitalized only for acute care.
+Follow‑up conducted in outpatients.
+
+d Study in pediatric patients 3 to 12 years of age.
 
 When these 8 trials were pooled and 2 additional trials evaluating MALARONE alone (without a comparator arm) were added to the analysis, the overall efficacy (elimination of parasitemia with no recurrent parasitemia during follow‑up for 28 days) in 521 evaluable patients was 98.7%.
 
