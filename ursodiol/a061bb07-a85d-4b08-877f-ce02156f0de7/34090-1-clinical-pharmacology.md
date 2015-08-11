@@ -26,19 +26,19 @@ Although liver injury has not been associated with ursodiol therapy, a reduced c
 Ursodiol suppresses hepatic synthesis and secretion of cholesterol, and also inhibits intestinal absorption of cholesterol.
 It appears to have little inhibitory effect on synthesis and secretion into bile of endogenous bile acids, and does not appear to affect secretion of phospholipids into bile.
 
-With repeated dosing, bile ursodeoxycholic acid concentrations reach a steady state in about 3 weeks.
+With repeated dosing, bile ursodeoxycholic acid concentrations reach a steady-state in about 3 weeks.
 Although insoluble in aqueous media, cholesterol can be solubilized in at least two different ways in the presence of dihydroxy bile acids.
 In addition to solubilizing cholesterol in micelles, ursodiol acts by an apparently unique mechanism to cause dispersion of cholesterol as liquid crystals in aqueous media.
-Thus, even though administration of high doses (e.g., 15-18 mg/kg/day) does not result in a concentration of ursodiol higher than 60% of the total bile acid pool, ursodiol-rich bile effectively solubilizes cholesterol.
+Thus, even though administration of high doses (e.g., 15 - 18 mg/kg/day) does not result in a concentration of ursodiol higher than 60% of the total bile acid pool, ursodiol-rich bile effectively solubilizes cholesterol.
 The overall effect of ursodiol is to increase the concentration level at which saturation of cholesterol occurs.
 
 The various actions of ursodiol combine to change the bile of patients with gallstones from cholesterol-precipitating to cholesterol-solubilizing, thus resulting in bile conducive to cholesterol stone dissolution.
 
-After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5%-10% of its steady-state level in about 1 week.
+After ursodiol dosing is stopped, the concentration of the bile acid in bile falls exponentially, declining to about 5 to 10% of its steady-state level in about 1 week.
 
 ## Clinical Results
 
-Gallstone Dissolution On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with ursodiol doses ranging from about 5-20 mg/kg/day, an ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
+Gallstone Dissolution On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6 to 78 months with ursodiol doses ranging from about 5 - 20 mg/kg/day, an ursodiol dose of about 8 - 10 mg/kg/day appeared to be the best dose.
 With an ursodiol dose of about 10 mg/kg/day, complete stone dissolution can be anticipated in about 30% of unselected patients with uncalcified gallstones < 20 mm in maximal diameter treated for up to 2 years.
 Patients with calcified gallstones prior to treatment, or patients who develop stone calcification or gallbladder nonvisualization on treatment, and patients with stones > 20 mm in maximal diameter rarely dissolve their stones.
 The chance of gallstone dissolution is increased up to 50% in patients with floating or floatable stones (i.e., those with high cholesterol content), and is inversely related to stone size for those < 20 mm in maximal diameter.
@@ -48,7 +48,7 @@ Age, sex, weight, degree of obesity, and serum cholesterol level are not related
 A nonvisualizing gallbladder by oral cholecystogram prior to the initiation of therapy is not a contraindication to ursodiol therapy (the group of patients with nonvisualizing gallbladders in the ursodiol studies had complete stone dissolution rates similar to the group of patients with visualizing gallbladders).
 However, gallbladder nonvisualization developing during ursodiol treatment predicts failure of complete stone dissolution and in such cases therapy should be discontinued.
 
-Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a >70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.
+Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a > 70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.
 
 Stone recurrence after dissolution with ursodiol therapy was seen within 2 years in 8/27 (30%) of patients in the U.K. studies.
 Of 16 patients in the U.K. study whose stones had previously dissolved on chenodiol but later recurred, 11 had complete dissolution on ursodiol.
