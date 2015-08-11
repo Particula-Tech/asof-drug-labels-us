@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Information on Amlodipine
+Amlodipine
 
 Single oral doses of amlodipine maleate equivalent to 40 mg/kg and 100 mg/kg amlodipine in mice and rats, respectively, caused deaths.
 Single oral doses equivalent to 4 or more mg/kg amlodipine in dogs (11 or more times the maximum recommended human dose on a mg/m2 basis) caused a marked peripheral vasodilation and hypotension.
@@ -16,7 +16,7 @@ If hypotension remains unresponsive to these conservative measures, consider adm
 As amlodipine is highly protein bound, hemodialysis is not likely to be of benefit.
 Administration of activated charcoal to healthy volunteers immediately or up to two hours after ingestion of amlodipine has been shown to significantly decrease amlodipine absorption.
 
-Information on Valsartan
+Valsartan
 
 Limited data are available related to overdosage in humans.
 The most likely effect of overdose with valsartan would be peripheral vasodilation, hypotension, and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.

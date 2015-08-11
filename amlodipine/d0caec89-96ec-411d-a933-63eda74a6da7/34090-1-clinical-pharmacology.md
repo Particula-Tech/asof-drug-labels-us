@@ -61,6 +61,12 @@ In clinical trials with angina patients alone, amlodipine therapy did not alter 
 
 Amlodipine has indications other than hypertension which can be found in the Norvasc* package insert.
 
+Drug Interactions
+
+Sildenafil
+
+When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7)].
+
 Valsartan
 
 Valsartan inhibits the pressor effect of angiotensin II infusions.
@@ -125,20 +131,20 @@ Special Populations
 
 Geriatric
 
-Studies with Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in peak plasma levels, elimination half-life and AUC.
+Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in peak plasma levels, elimination half-life and AUC.
 
-Studies with Valsartan: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
+Valsartan: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 No dosage adjustment is necessary.
 
 Gender
 
-Studies with Valsartan: Pharmacokinetics of valsartan does not differ significantly between males and females.
+Valsartan: Pharmacokinetics of valsartan does not differ significantly between males and females.
 
 Renal Insufficiency
 
-Studies with Amlodipine: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
+Amlodipine: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
 
-Studies with Valsartan: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
+Valsartan: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
 Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
 No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
@@ -146,9 +152,9 @@ In the case of severe renal disease, exercise care with dosing of valsartan.
 
 Hepatic Insufficiency
 
-Studies with Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40% to 60%.
+Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40% to 60%.
 
-Studies with Valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
+Valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
 In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
 Care should be exercised in patients with liver disease.
 
@@ -156,24 +162,23 @@ Drug Interactions
 
 In vitro data in human plasma indicate that amlodipine has no effect on the protein binding of digoxin, phenytoin, warfarin and indomethacin.
 
-Cimetidine: Coadministration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+Impact of other drugs on amlodipine
 
-Grapefruit juice: Coadministration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
 
-Maalox® (antacid): Coadministration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7)].
 
-Sildenafil: A single 100 mg dose of sildenafil (Viagra®**) in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
-When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+Impact of amlodipine on other drugs
 
-Atorvastatin: Coadministration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
+Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 
-Digoxin: Coadministration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7)].
 
-Warfarin: Coadministration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7)].
 
-Simvastatin: Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
-
-CYP3A4 Inhibitors: Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
-Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
-However, strong inhibitors of CYP3A4 (i.e., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5-to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
+This finding was not observed in CYP3A5 non-expressers (N= 6).
+However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
+Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7)].

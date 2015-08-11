@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Studies with Amlodipine
+Amlodipine
 
 Rats and mice treated with amlodipine maleate in the diet for up to 2 years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg amlodipine/kg/day, showed no evidence of a carcinogenic effect of the drug.
 For the mouse, the highest dose was, on mg/m2 basis, similar to the MRHD of 10 mg amlodipine/day.
@@ -13,7 +13,7 @@ Mutagenicity studies conducted with amlodipine maleate revealed no drug-related 
 
 There was no effect on the fertility of rats treated orally with amlodipine maleate (males for 64 days and females for 14 days prior to mating) at doses of up to 10 mg amlodipine/kg/day (about 10 times the MRHD of 10 mg/day on a mg/m2 basis).
 
-Studies with Valsartan
+Valsartan
 
 There was no evidence of carcinogenicity when valsartan was administered in the diet to mice and rats for up to 2 years at concentrations calculated to provide doses of up to 160 and 200 mg/kg/day, respectively.
 These doses in mice and rats are about 2.4 and 6 times, respectively, the MRHD of 320 mg/day on a mg/m2 basis.
@@ -27,7 +27,7 @@ This dose is about 6 times the MRHD on a mg/m2 basis.
 
 ## 13.3 Developmental Toxicity Studies
 
-Studies with Amlodipine
+Amlodipine
 
 No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively, about 10 and 20 times the MRHD of 10 mg amlodipine on a mg/m2 basis) during their respective periods of major organogenesis.
 (Calculations based on a patient weight of 60 kg.)
@@ -36,7 +36,7 @@ Amlodipine maleate has been shown to prolong both the gestation period and the d
 There are no adequate and well-controlled studies in pregnant women.
 Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Studies with Valsartan
+Valsartan
 
 No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
 However, significant decreases in fetal weight, pup birth weight, pup survival rate, and slight delays in developmental milestones were observed in studies in which parental rats were treated with valsartan at oral, maternally toxic (reduction in body weight gain and food consumption) doses of 600 mg/kg/day during organogenesis or late gestation and lactation.
@@ -44,7 +44,7 @@ In rabbits, fetotoxicity (i.e., resorptions, litter loss, abortions, and low bod
 The no observed adverse effect doses of 600, 200, and 2 mg/kg/day in mice, rats and rabbits, respectively, are about 9, 6, and 0.1 times the MRHD of 320 mg/day on a mg/m2 basis.
 (Calculations based on a patient weight of 60 kg.)
 
-Studies with Amlodipine Besylate and Valsartan
+Amlodipine Besylate and Valsartan
 
 In the oral embryofetal development study in rats using amlodipine besylate plus valsartan at doses equivalent to 5 mg/kg/day amlodipine plus 80 mg/kg/day valsartan, 10 mg/kg/day amlodipine plus 160 mg/kg/day valsartan, and 20 mg/kg/day amlodipine plus 320 mg/kg/day valsartan, treatment-related maternal and fetal effects (developmental delays and alterations noted in the presence of significant maternal toxicity) were noted with the high dose combination.
 The no-observed-adverse-effect level (NOAEL) for embryofetal effects was 10 mg/kg/day amlodipine plus 160 mg/kg/day valsartan.

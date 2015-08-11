@@ -4,9 +4,7 @@ PATIENT INFORMATION
 
 EXFORGE (X-phorj)
 
-(amlodipine and valsartan)
-
-Tablets
+(amlodipine and valsartan) Tablets
 
 Read the Patient Information that comes with EXFORGE before you start taking it and each time you get a refill.
 There may be new information.
@@ -51,7 +49,7 @@ Some of your other medicines and EXFORGE could affect each other, causing seriou
 
 Especially tell your doctor if you take:
 
-- simvastatin or other cholesterol lowering medicine
+- simvastatin or other cholesterol-lowering medicine
 - other medicines for high blood pressure or a heart problem
 - water pills (diuretics)
 - potassium supplements.
@@ -59,9 +57,9 @@ Especially tell your doctor if you take:
 - a salt substitute.
   Your doctor may check the amount of potassium in your blood periodically.
 - nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-- medicines used to prevent and treat fungal skin infections (such as Ketoconazole, itraconazole)
+- medicines used to prevent and treat fungal skin infections (such as ketoconazole, itraconazole)
 - medicines used to treat bacterial infections (such as clarithromycin, telithromycin)
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 - lithium, a medicine used in some types of depression
 
@@ -173,12 +171,8 @@ If high blood pressure is not treated, it can lead to stroke, heart attack, hear
 
 **Viagra® is a registered trademark of Pfizer, Inc.
 
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 ©Novartis
 
-T2014-33 March 2014
+T2015-123 July 2015

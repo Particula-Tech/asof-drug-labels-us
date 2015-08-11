@@ -2,18 +2,37 @@
 
 No drug interaction studies have been conducted with Exforge and other drugs, although studies have been conducted with the individual amlodipine and valsartan components.
 
-Studies with Amlodipine
+Amlodipine
 
-Simvastatin: Coadministration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+Impact of Other Drugs on Amlodipine
 
-CYP3A4 Inhibitors: Coadministration with CYP3A4 inhibitors (moderate and strong) result in increased systemic exposure to amlodipine warranting dose reduction.
-Monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A4 inhibitors to determine the need for dose adjustment.
+CYP3A Inhibitors
 
-CYP3A4 Inducers: No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
-Blood pressure should be monitored when amlodipine is coadministered with CYP3A4 inducers.
+Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical Pharmacology (12.3)].
 
-Studies with Valsartan
+CYP3A Inducers
+
+No information is available on the quantitative effects of CYP3A inducers on amlodipine.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
+
+Sildenafil
+
+Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology (12.2)].
+
+Impact of Amlodipine on Other Drugs
+
+Simvastatin
+
+Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
+
+Immunosuppressants
+
+Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].
+
+Valsartan
 
 No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
 The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
@@ -24,9 +43,9 @@ Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhi
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
 CYP 450 Interactions: In vitro metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and coadministered drugs are unlikely because of low extent of metabolism [see Pharmacokinetics, Valsartan (12.3)].
