@@ -54,6 +54,20 @@ MERZ
 
 Dispense the enclosed Medication Guide to each patient.
 
+# PRINCIPAL DISPLAY PANEL - 50 Units/Vial Label - Physician Sample
+
+Physician Sample - not for resale
+
+incobotulinumtoxinA
+
+XEOMIN® for Injection
+
+50 units/vial
+
+For Intramuscular Use.
+Single-use vial; Discard unused portion.
+Usual dosage: see package insert.
+
 # PRINCIPAL DISPLAY PANEL - 50 Units/Vial Carton - Physician Sample
 
 Rx Only NDC 0259-4150-01
@@ -65,6 +79,20 @@ XEOMIN® for Injection
 MERZ
 
 50 units/vial
+
+# PRINCIPAL DISPLAY PANEL - 100 Units/Vial Label - Physician Sample
+
+Physician Sample - not for resale
+
+incobotulinumtoxinA
+
+XEOMIN® for Injection
+
+100 units/vial
+
+For Intramuscular Use.
+Single-use vial; Discard unused portion.
+Usual dosage: see package insert.
 
 # PRINCIPAL DISPLAY PANEL - 100 Units/Vial Carton - Physician Sample
 
