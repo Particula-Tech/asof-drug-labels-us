@@ -21,12 +21,12 @@ In these 2 trials, adverse reactions led to withdrawal of 4 (2%) patients in the
 Dizziness was the most common reason for withdrawal in the group receiving LAMICTAL XR (5 patients [3%]).
 The next most common adverse reactions leading to withdrawal in 2 patients each (1%) were rash, headache, nausea, and nystagmus.
 
-Table 4 displays the incidence of adverse reactions in these two 19-week, double-blind, placebo-controlled trials of patients with PGTC and partial-onset seizures.
+Table 4 displays the incidence of adverse reactions in these two 19-week, double-blind, placebo-controlled trials of patients with PGTC and partial onset seizures.
 
 Table 4.
 Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients with Epilepsya
 
-| Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR(n = 190)% | Percent of Patients Receiving Adjunctive Placebo(n = 195)% |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR (n = 190) | Percent of Patients Receiving Adjunctive Placebo (n = 195) |
 | --- | --- | --- |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 3 | <1 |
@@ -61,7 +61,7 @@ Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients w
 | Vascular disorder |  |  |
 | Hot flush | 2 | 0 |
 
-a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
+aAdverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
 
 Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo.
 In clinical trials evaluating immediate-release lamotrigine, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].
@@ -78,9 +78,7 @@ There were inadequate data to evaluate the effect of dose and/or concentration o
 However, in a randomized, parallel trial comparing placebo with 300 and 500 mg/day of immediate-release lamotrigine, the incidence of the most common adverse reactions (>5%) such as ataxia, blurred vision, diplopia, and dizziness were dose related.
 Less common adverse reactions (<5%) were not assessed for dose-response relationships.
 
-Monotherapy in Patients with Epilepsy
-
-Adverse reactions observed in this trial were generally similar to those observed and attributed to drug in adjunctive and monotherapy immediate-release lamotrigine and adjunctive LAMICTAL XR placebo-controlled trials.
+Monotherapy in Patients with Epilepsy: Adverse reactions observed in this trial were generally similar to those observed and attributed to drug in adjunctive and monotherapy immediate-release lamotrigine and adjunctive LAMICTAL XR placebo-controlled trials.
 Only 2 adverse events, nasopharyngitis and upper respiratory tract infection, were observed at a rate of >3% and not reported at a similar rate in previous trials.
 Because this trial did not include a placebo control group, causality could not be established [see Clinical Studies (14.3)].
 
@@ -135,32 +133,41 @@ Adverse reactions are further classified within body system categories and enume
 Cardiovascular System: Infrequent: Hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation.
 
 Dermatological: Infrequent: Acne, alopecia, hirsutism, maculopapular rash, urticaria.
+
 Rare: Leukoderma, multiforme erythema, petechial rash, pustular rash.
 
 Digestive System: Infrequent: Dysphagia, liver function tests abnormal, mouth ulceration.
+
 Rare: Gastrointestinal hemorrhage, hemorrhagic colitis, hepatitis, melena, stomach ulcer.
 
 Endocrine System: Rare: Goiter, hypothyroidism.
 
 Hematologic and Lymphatic System: Infrequent: Ecchymosis, leukopenia.
+
 Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, thrombocytopenia.
 
 Metabolic and Nutritional Disorders: Infrequent: Aspartate transaminase increased.
+
 Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, gamma glutamyl transpeptidase increase, hyperglycemia.
 
 Musculoskeletal System: Rare: Muscle atrophy, pathological fracture, tendinous contracture.
 
 Nervous System: Frequent: Confusion.
+
 Infrequent: Akathisia, apathy, aphasia, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, stupor.
+
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, neuralgia, paralysis, peripheral neuritis.
 
 Respiratory System: Rare: Hiccup, hyperventilation.
 
 Special Senses: Frequent: Amblyopia.
+
 Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, tinnitus.
+
 Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, visual field defect.
 
 Urogenital System: Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinence.
+
 Rare: Acute kidney failure, breast neoplasm, creatinine increase, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency.
 
 ## 6.3 Postmarketing Experience with Immediate-Release Lamotrigine

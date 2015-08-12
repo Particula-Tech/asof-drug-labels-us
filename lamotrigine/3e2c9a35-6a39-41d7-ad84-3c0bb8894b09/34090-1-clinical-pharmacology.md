@@ -64,7 +64,7 @@ Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotr
 | Valproate | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
 | Antiepileptic drugs other than enzyme-inducing antiepileptic drugsa or valproate | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
 
-a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
+aEnzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
 
 Dose Proportionality
 
@@ -310,7 +310,9 @@ Risperidone
 In a 14 healthy volunteers study, multiple oral doses of lamotrigine 400 mg daily had no clinically significant effect on the single-dose pharmacokinetics of risperidone 2 mg and its active metabolite 9-OH risperidone.
 Following the coadministration of risperidone 2 mg with lamotrigine, 12 of the 14 volunteers reported somnolence compared with 1 out of 20 when risperidone was given alone, and none when lamotrigine was administered alone.
 
-Topiramate: Topiramate resulted in no change in plasma concentrations of lamotrigine.
+Topiramate
+
+Topiramate resulted in no change in plasma concentrations of lamotrigine.
 Administration of lamotrigine resulted in a 15% increase in topiramate concentrations.
 
 Valproate
@@ -353,7 +355,7 @@ Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of i
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
 Gender: The clearance of lamotrigine is not affected by gender.
-However, during dose escalation of immediate-release lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations, unadjusted for weight, were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
+However, during dose escalation of immediate-release lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations unadjusted for weight were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
 Race: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.
 

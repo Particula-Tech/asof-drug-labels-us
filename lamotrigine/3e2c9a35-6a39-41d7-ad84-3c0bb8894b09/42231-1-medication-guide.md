@@ -207,7 +207,9 @@ Common side effects of LAMICTAL XR include:
 
 Other common side effects that have been reported with another form of LAMICTAL include headache, sleepiness, blurred vision, runny nose, and rash.
 
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
+Tell your healthcare provider about any side effe
+
+ct that bothers you or that does not go away.
 
 These are not all the possible side effects of LAMICTAL XR.
 For more information, ask your healthcare provider or pharmacist.

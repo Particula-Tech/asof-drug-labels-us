@@ -27,7 +27,7 @@ Lamotrigine decreases fetal folate concentrations in rat, an effect known to be 
 Pregnancy Registry
 
 To provide information regarding the effects of in utero exposure to LAMICTAL XR, physicians are advised to recommend that pregnant patients taking LAMICTAL XR enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
+This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org.
 
 ## 8.2 Labor and Delivery

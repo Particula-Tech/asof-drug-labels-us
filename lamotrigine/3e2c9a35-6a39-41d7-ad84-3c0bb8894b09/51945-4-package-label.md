@@ -24,7 +24,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15-30oC (59-86oF).
+Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 
@@ -35,9 +35,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-9/14
+3/15
 
-A129061
+A133778
 
 PRINCIPAL DISPLAY PANEL
 
@@ -65,7 +65,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 – 30oC (59 – 86oF).
+Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 
@@ -76,9 +76,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-9/14
+3/15
 
-A129062
+A133779
 
 PRINCIPAL DISPLAY PANEL
 
@@ -106,7 +106,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 – 30oC (59 – 86oF).
+Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 
@@ -117,9 +117,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-9/14
+3/15
 
-A129063
+A133780
 
 PRINCIPAL DISPLAY PANEL
 
@@ -147,7 +147,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 – 30oC (59 – 86oF).
+Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 
@@ -158,9 +158,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-9/14
+3/15
 
-A129064
+A133781
 
 PRINCIPAL DISPLAY PANEL
 
@@ -188,7 +188,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
+Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 
@@ -199,9 +199,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-10/14
+3/15
 
-A129066
+A133783
 
 PRINCIPAL DISPLAY PANEL
 
@@ -366,7 +366,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
+Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
 
 Visit www.LAMICTALXR.com
 
@@ -377,6 +377,6 @@ RTP, NC 27709
 Made in India
 
 Rev.
-10/14
+3/15
 
-A129065
+A133782
