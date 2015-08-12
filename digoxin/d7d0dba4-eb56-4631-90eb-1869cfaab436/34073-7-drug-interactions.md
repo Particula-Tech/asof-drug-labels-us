@@ -5,49 +5,52 @@ Prescribers should consult the prescribing information of any drug which is co-p
 
 ## 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors
 
-Digoxin is a substrate of P-glycoprotein.
-Drugs that induce or inhibit P-glycoprotein in intestine or kidney have the potential to alter digoxin pharmacokinetics.
+Digoxin is a substrate of P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary-intestinal secretion.
+Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
 
 ## 7.2 Pharmacokinetic Drug Interactions
 
-| Digoxin concentrations increased greater than 50% |  |  |  |
-| --- | --- | --- | --- |
-|  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
-| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |
-| Captopril | 58% | 39% |  |
-| Clarithromycin | NA | 70% |  |
-| Dronedarone | NA | 150% |  |
-| Gentamicin | 129-212% | NA |  |
-| Erythromycin | 100% | NA |  |
-| Itraconazole | 80% | NA |  |
-| Nitrendipine | 57% | 15% |  |
-| Propafenone | NA | 60-270% |  |
-| Quinidine | 100% | NA |  |
-| Ranolazine | 50% | NA |  |
-| Ritonavir | NA | 86% |  |
-| Tetracycline | 100% | NA |  |
-| Verapamil | 50-75% | NA |  |
-| Digoxin concentrations increased less than 50% |  |  |  |
-| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring. |
-| Carvedilol | 16% | 14% |  |
-| Diltiazem | 20% | NA |  |
-| Indomethacin | 40% | NA |  |
-| Nefazodone | 27% | 15% |  |
-| Nifedipine | 45% | NA |  |
-| Propantheline | 24% | 24% |  |
-| Quinine | NA | 33% |  |
-| Saquinavir | 27% | 49% |  |
-| Spironolactone | 25% | NA |  |
-| Telmisartan | 20-49% | NA |  |
-| Tolvaptan | 30% | NA |  |
-| Trimethoprim | 22-28% | NA |  |
-| Digoxin concentrations increased, but magnitude is unclear |  |  |  |
-| Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole, rabeprazole, |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
-| Digoxin concentrations decreased |  |  |  |
-| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate, sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20-40% as necessary. |
-| No significant Digoxin exposure changes |  |  |  |
-| Please refer to section 12 for a complete list of drugs which were studied but reported no significant changes on digoxin exposure. |  |  | No additional actions are required. |
-| NA – Not available/reported |  |  |  |
+| Digoxin concentrations increased greater than 50% |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |  |
+| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |  |
+| Captopril | 58% | 39% |  |  |
+| Clarithromycin | NA | 70% |  |  |
+| Dronedarone | NA | 150% |  |  |
+| Gentamicin | 129-212% | NA |  |  |
+| Erythromycin | 100% | NA |  |  |
+| Itraconazole | 80% | NA |  |  |
+| Lapatinib | NA | 180% |  |  |
+| Nitrendipine | 57% | 15% |  |  |
+| Propafenone | NA | 60-270% |  |  |
+| Quinidine | 100% | NA |  |  |
+| Ranolazine | 50% | NA |  |  |
+| Ritonavir | NA | 86% |  |  |
+| Telaprevir | 50% | 85% |  |  |
+| Tetracycline | 100% | NA |  |  |
+| Verapamil | 50-75% | NA |  |  |
+| Digoxin concentrations increased less than 50% |  |  |  |  |
+| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring. |  |
+| Carvedilol | 16% | 14% |  |  |
+| Conivaptan | 33% | 43% |  |  |
+| Diltiazem | 20% | NA |  |  |
+| Indomethacin | 40% | NA |  |  |
+| Nefazodone | 27% | 15% |  |  |
+| Nifedipine | 45% | NA |  |  |
+| Propantheline | 24% | 24% |  |  |
+| Quinine | NA | 33% |  |  |
+| Rabeprazole | 29% | 19% |  |  |
+| Saquinavir | 27% | 49% |  |  |
+| Spironolactone | 25% | NA |  |  |
+| Telmisartan | 20-49% | NA |  |  |
+| Ticagrelor | 31% | 28% |  |  |
+| Tolvaptan | 30% | 20% |  |  |
+| Trimethoprim | 22-28% | NA |  |  |
+| Digoxin concentrations increased, but magnitude is unclear |  |  |  |  |
+| Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |  |
+| Digoxin concentrations decreased |  |  |  |  |
+| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate, sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20-40% as necessary. |  |
+| NA – Not available/reported |  |  |  |  |
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
@@ -75,7 +78,7 @@ DLIS are present in up to half of all neonates and in varying percentages of pre
 The measured levels of DLIS (as digoxin equivalents) are usually low (0.2-0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic.
 
 In some assays, spironolactone, canrenone, and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL.
-Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha or Dashen, can cause similar interference.
+Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha or Dashen can cause similar interference.
 
 Spironolactone and DLIS are much more extensively protein-bound than digoxin.
 As a result, assays of free digoxin levels in protein-free ultrafiltrate (which tend to be about 25% less than total levels, consistent with the usual extent of protein binding) are less affected by spironolactone or DLIS.

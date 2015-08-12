@@ -8,7 +8,7 @@ Where possible, LANOXIN should be used in combination with a diuretic and an ang
 
 ## 1.2 Heart Failure in Pediatric Patients
 
-Digoxin increases myocardial contractility in pediatric patients with heart failure.
+LANOXIN increases myocardial contractility in pediatric patients with heart failure.
 
 ## 1.3 Atrial Fibrillation in Adults
 

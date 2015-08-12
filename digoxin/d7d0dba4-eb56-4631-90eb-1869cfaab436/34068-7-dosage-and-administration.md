@@ -5,7 +5,7 @@
 In selecting a LANOXIN dosing regimen, it is important to consider factors that affect digoxin blood levels (e.g., body weight, age, renal function, concomitant drugs) since toxic levels of digoxin are only slightly higher than therapeutic levels.
 Dosing can be either initiated with a loading dose followed by maintenance dosing if rapid titration is desired or initiated with maintenance dosing without a loading dose.
 
-Consider interruption or reduction in LANOXIN digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
+Consider interruption or reduction in LANOXIN dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
 Use digoxin solution to obtain the appropriate dose in infants, young pediatric patients, or patients with very low body weight.
 
@@ -49,20 +49,20 @@ Reduce the dose of LANOXIN in patients whose lean weight is an abnormally small 
 Table 3.
 Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Functiona
 
-| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |  |  |
-| 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |  |  |
-| 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |  |  |
-| 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |  |  |
-| 40 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 13 |  |  |
-| 50 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 12 |  |  |
-| 60 mL/min |  | 125 | 187.5 | 250 | 250 | 312.5 | 312.5 | 375 | 11 |  |  |
-| 70 mL/min |  | 187.5 | 187.5 | 250 | 250 | 312.5 | 375 | 375 | 10 |  |  |
-| 80 mL/min |  | 187.5 | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 9 |  |  |
-| 90 mL/min |  | 187.5 | 250 | 250 | 312.5 | 375 | 437.5 | 437.5 | 8 |  |  |
-| 100 mL/min |  | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 500 | 7 |  |  |
-| a Doses are rounded to the nearest dose possible using whole LANOXIN tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. b For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |  |  |
+| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
+| 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |
+| 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |
+| 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |
+| 40 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 13 |
+| 50 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 12 |
+| 60 mL/min |  | 125 | 187.5 | 250 | 250 | 312.5 | 312.5 | 375 | 11 |
+| 70 mL/min |  | 187.5 | 187.5 | 250 | 250 | 312.5 | 375 | 375 | 10 |
+| 80 mL/min |  | 187.5 | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 9 |
+| 90 mL/min |  | 187.5 | 250 | 250 | 312.5 | 375 | 437.5 | 437.5 | 8 |
+| 100 mL/min |  | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 500 | 7 |
+| a Doses are rounded to the nearest dose possible using whole LANOXIN tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. bFor adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
 
 ## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 

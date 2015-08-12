@@ -6,12 +6,12 @@ All of digoxin’s actions are mediated through its effects on Na-K ATPase.
 This enzyme, the “sodium pump,” is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells.
 By inhibiting Na-K ATPase, digoxin
 
-- •causes increased availability of intracellular calcium in the myocardium and conduction system, with consequent increased inotropy, increased automaticity, and reduced conduction velocity
-- •indirectly causes parasympathetic stimulation of the autonomic nervous system, with consequent effects on the sino-atrial (SA) and atrioventricular (AV) nodes
-- •reduces catecholamine reuptake at nerve terminals, rendering blood vessels more sensitive to endogenous or exogenous catecholamines
-- •increases baroreceptor sensitization, with consequent increased carotid sinus nerve activity and enhanced sympathetic withdrawal for any given increment in mean arterial pressure
-- •increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves
-- •allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels.
+- causes increased availability of intracellular calcium in the myocardium and conduction system, with consequent increased inotropy, increased automaticity, and reduced conduction velocity
+- indirectly causes parasympathetic stimulation of the autonomic nervous system, with consequent effects on the sino-atrial (SA) and atrioventricular (AV) nodes
+- reduces catecholamine reuptake at nerve terminals, rendering blood vessels more sensitive to endogenous or exogenous catecholamines
+- increases baroreceptor sensitization, with consequent increased carotid sinus nerve activity and enhanced sympathetic withdrawal for any given increment in mean arterial pressure
+- increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves
+- allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels.
 
 The cardiologic consequences of these direct and indirect effects are an increase in the force and velocity of myocardial systolic contraction (positive inotropic action), a slowing of the heart rate (negative chronotropic effect), decreased conduction velocity through the AV node, and a decrease in the degree of activation of the sympathetic nervous system and renin-angiotensin system (neurohormonal deactivating effect).
 
@@ -79,7 +79,7 @@ In healthy volunteers with normal renal function, digoxin has a half-life of 1.5
 The half-life in anuric patients is prolonged to 3.5-5 days.
 Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to extravascular tissues.
 
-Special Populations:Geriatrics: Because of age-related declines in renal function, elderly patients would be expected to eliminate digoxin more slowly than younger subjects.
+Special Populations: Geriatrics: Because of age-related declines in renal function, elderly patients would be expected to eliminate digoxin more slowly than younger subjects.
 Elderly patients may also exhibit a lower volume of distribution of digoxin due to age-related loss of lean muscle mass.
 Thus, the dosage of digoxin should be carefully selected and monitored in elderly patients [see Use in Specific Populations (8.5)].
 
@@ -95,9 +95,3 @@ Therefore, titrate carefully in these patients based on clinical response, and b
 
 Race: The impact of race differences on digoxin pharmacokinetics have not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.
-
-Drug-drug Interactions
-
-Based on literature reports no significant changes in digoxin exposure were reported when digoxin was co-administered with the following drugs:
-
-alfuzosin, aliskiren, amlodipine, aprepitant, argatroban, aspirin, atorvastatin, benazepril, bisoprolol, black cohosh, bosentan, candesartan, citalopram, clopidogrel, colesevelam, dipyridamole, disopyramide, donepezil, doxazosin, dutasteride, echinacea, enalapril, eprosartan, ertapenem, escitalopram, esmolol, ezetimibe, famciclovir, felodipine, finasteride, flecainide, fluvastatin, fondaparinux, galantamine, gemifloxacin, grapefruit juice, irbesartan, isradipine, ketorlac, levetiracetam, levofloxacin, lisinopril, losartan, lovastatin, meloxicam, mexilitine, midazolam, milk thistle, moexipril, montelukast, moxifloxacin, mycophenolate, nateglinide, nesiritide, nicardipine, nisoldipine, olmesartan, orlistat, pantoprazole, paroxetine, perindopril, pioglitazone, pravastatin, prazosin, procainamide, quinapril, raloxifene, ramipril, repaglinide, rivastigmine, rofecoxib, ropinirole, rosiglitazone, rosuvastatin, sertraline, sevelamer, simvastatin, sirolimus, solifenacin, tamsulosin, tegaserod, terbinafine, tiagabine, ticlopidine, tigecycline, topiramate, torsemide, tramadol, trandolapril, triamterene, trospium, trovafloxacin, valacyclovir, valsartan, varenicline, voriconazole, zaleplon, zolpidem

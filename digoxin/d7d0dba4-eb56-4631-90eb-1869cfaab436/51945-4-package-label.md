@@ -6,9 +6,10 @@ LANOXIN® (digoxin) Tablets, USP
 
 62.5 mcg (0.0625 mg)
 
-Each tablet contains 62.5 mcg (0.0625 mg)
+Each tablet contains 62.5 mcg (0.0625 mg).
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC.
+Greenville, NC 27834
 
 Made in Germany Rx only
 
@@ -31,9 +32,10 @@ LANOXIN® (digoxin) Tablets, USP
 
 125 mcg (0.125 mg)
 
-Each scored tablet contains 125 mcg (0.125 mg)
+Each scored tablet contains 125 mcg (0.125 mg).
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC.
+Greenville, NC 27834
 
 Made in Germany Rx only
 
@@ -56,9 +58,10 @@ LANOXIN® (digoxin) Tablets, USP
 
 187.5 mcg (0.1875 mg)
 
-Each tablet contains 187.5 mcg (0.1875 mg)
+Each tablet contains 187.5 mcg (0.1875 mg).
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC.
+Greenville, NC 27834
 
 Made in Germany Rx only
 
@@ -81,9 +84,10 @@ LANOXIN® (digoxin) Tablets, USP
 
 250 mcg (0.25 mg)
 
-Each scored tablet contains 250 mcg (0.25 mg)
+Each scored tablet contains 250 mcg (0.25 mg).
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC.
+Greenville, NC 27834
 
 Made in Germany Rx only
 
@@ -106,13 +110,14 @@ LANOXIN® (digoxin) Tablets, USP
 
 125 mcg (0.125 mg)
 
-Each scored tablet contains 125 mcg (0.125 mg)
+Each scored tablet contains 125 mcg (0.125 mg).
 
 GOVERNMENT USE ONLY
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC.
+Greenville, NC 27834
 
-Made in USA Rx only
+Made in Germany Rx only
 
 100196 Rev.
 9/14
@@ -133,13 +138,14 @@ LANOXIN® (digoxin) Tablets, USP
 
 250 mcg (0.25 mg)
 
-Each scored tablet contains 250 mcg (0.25 mg)
+Each scored tablet contains 250 mcg (0.25 mg).
 
 GOVERNMENT USE ONLY
 
-Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC Greenville, NC 27834
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511 Mfd. by Patheon Manufacturing Services LLC.
+Greenville, NC 27834
 
-Made in USA Rx only
+Made in Germany Rx only
 
 100198 Rev.
 9/14
