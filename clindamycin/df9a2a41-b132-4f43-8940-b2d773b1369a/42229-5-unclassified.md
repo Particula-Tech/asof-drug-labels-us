@@ -2,4 +2,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-LAB-0040-10.0 June 2014
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0040-11.0 June 2015
