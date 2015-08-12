@@ -1,28 +1,13 @@
 {
   "application_numbers": [
-    "NDA018828",
-    "NDA019909",
     "NDA020089"
   ],
   "inn": "acyclovir",
   "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
-    "0173-0945-55",
-    "0173-0949-55",
-    "0173-0953-96",
-    "0173-0991-55"
+    "0173-0945-55"
   ],
   "products": [
-    {
-      "form": "CAPSULE",
-      "generic": "acyclovir",
-      "name": "ZOVIRAX"
-    },
-    {
-      "form": "SUSPENSION",
-      "generic": "acyclovir",
-      "name": "ZOVIRAX"
-    },
     {
       "form": "TABLET",
       "generic": "acyclovir",

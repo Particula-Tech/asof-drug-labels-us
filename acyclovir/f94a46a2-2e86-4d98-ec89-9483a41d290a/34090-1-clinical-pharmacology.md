@@ -23,8 +23,8 @@ Acyclovir Peak and Trough Concentrations at Steady State
 
 | Parameter | 200 mg | 400 mg | 800 mg |
 | --- | --- | --- | --- |
-|  | 0.83 mcg/mL | 1.21 mcg/mL | 1.61 mcg/mL |
-|  | 0.46 mcg/mL | 0.63 mcg/mL | 0.83 mcg/mL |
+| Table 2. Acyclovir Peak and Trough Concentrations at Steady State | 0.83 mcg/mL | 1.21 mcg/mL | 1.61 mcg/mL |
+| Table 2. Acyclovir Peak and Trough Concentrations at Steady State | 0.46 mcg/mL | 0.63 mcg/mL | 0.83 mcg/mL |
 
 There was no effect of food on the absorption of acyclovir (n = 6); therefore, ZOVIRAX Capsules, Tablets, and Suspension may be administered with or without food.
 
