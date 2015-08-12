@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 231 g Packet Label
+# PRINCIPAL DISPLAY PANEL - 231 g Can Label
 
 NDC 0245-0036-23
 
-Prevalite® Powder (Cholestyramine for Oral Suspention, USP)
+Prevalite® Powder (Cholestyramine for Oral Suspension, USP) Orange Flavor
 
-4 grams cholestyramine resin, USP, per scoopful†
+4 grams cholestyramine resin USP, per scoopful†
 
 NUTRASWEET®* BRAND SWEETENER
 
@@ -18,4 +18,4 @@ Scoop enclosed
 
 UPSHER-SMITH
 
-*NutraSweet and the NutraSweet symbol are registered trademarks of the NutraSweet Company
+*NutraSweet and the NutraSweet symbol are registered trademarks of The NutraSweet Company
