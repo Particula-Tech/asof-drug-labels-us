@@ -1,3 +1,19 @@
+# PRINCIPAL DISPLAY PANEL - 50 units/vial Label - 46783-161
+
+incobotulinumtoxinA
+
+XEOMIN® FOR INJECTION
+
+50 units/vial
+
+For Intramuscular Use One single use vial per carton.
+Discard Unused Portion.
+WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
+
+Lot:
+
+EXP:
+
 PRINCIPAL DISPLAY PANEL - 50 units/vial Carton - 46783-161
 
 Rx Only NDC 46783-161-01
@@ -16,6 +32,22 @@ WARNING: Dosing units of botulinum toxins are not interchangeable between commer
 
 MERZ AESTHETICS™
 
+# PRINCIPAL DISPLAY PANEL - 100 units/vial Label - 46783-160
+
+incobotulinumtoxinA
+
+XEOMIN® FOR INJECTION
+
+100 units/vial
+
+For Intramuscular Use One single use vial per carton.
+Discard Unused Portion.
+WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
+
+Lot:
+
+EXP:
+
 PRINCIPAL DISPLAY PANEL - 100 units/vial Carton
 
 Rx Only NDC 46783-160-01
@@ -33,6 +65,60 @@ Discard Unused Portion.
 WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
 
 MERZ AESTHETICS™
+
+# PRINCIPAL DISPLAY PANEL - 100 units/vial Label - Sample
+
+Physician Sample – not for resale
+
+incobotulinumtoxinA
+
+XEOMIN® FOR INJECTION
+
+100 units/vial
+
+For Intramuscular Use One single use vial per carton.
+Discard Unused Portion.
+WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
+
+Lot:
+
+EXP:
+
+# PRINCIPAL DISPLAY PANEL - 100 units/vial Carton - Sample
+
+Rx Only NDC 46783-160-10
+
+incobotulinumtoxinA XEOMIN® FOR INJECTION
+
+For Intramuscular Use
+
+Dispense the enclosed Medication Guide to each patient.
+One single use vial per carton.
+Discard Unused Portion.
+
+100 units/vial
+
+WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
+
+MERZ AESTHETICS™
+
+# PRINCIPAL DISPLAY PANEL - 50 units/vial Label - Sample - 46783-165
+
+Physician Sample – not for resale
+
+incobotulinumtoxinA
+
+XEOMIN® FOR INJECTION
+
+50 units/vial
+
+For Intramuscular Use One single use vial per carton.
+Discard Unused Portion.
+WARNING: Dosing units of botulinum toxins are not interchangeable between commercial products.
+
+Lot:
+
+EXP:
 
 PRINCIPAL DISPLAY PANEL - 50 units/vial Carton - 46783-165
 
