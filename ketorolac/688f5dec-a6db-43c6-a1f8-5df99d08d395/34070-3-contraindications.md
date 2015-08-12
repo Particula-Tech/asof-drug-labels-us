@@ -11,7 +11,7 @@ Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported i
 
 Ketorolac tromethamine is contraindicated as prophylactic analgesic before any major surgery.
 
-Ketorolac tromethamine is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+Ketorolac tromethamine is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
 
 Ketorolac tromethamine is contraindicated in patients with advanced renal impairment or in patients at risk for renal failure due to volume depletion (see WARNINGS for correction of volume depletion).
 

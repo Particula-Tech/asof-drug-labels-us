@@ -1,6 +1,6 @@
 WARNING
 
-Ketorolac tromethamine tablets, a non-steroidal anti-inflammatory drug (NSAID), are indicated for the short-term (up to 5 days in adults), management of moderately severe acute pain that requires analgesia at the opioid level and only as continuation treatment following IV or IM dosing of ketorolac tromethamine, if necessary.
+Ketorolac tromethamine tablets, a nonsteroidal anti-inflammatory drug (NSAID), are indicated for the short-term (up to 5 days in adults), management of moderately severe acute pain that requires analgesia at the opioid level and only as continuation treatment following IV or IM dosing of ketorolac tromethamine, if necessary.
 The total combined duration of use of ketorolac tromethamine tablets and ketorolac tromethamine should not exceed 5 days.
 
 Ketorolac tromethamine tablets are not indicated for use in pediatric patients and they are NOT indicated for minor or chronic painful conditions.
@@ -13,12 +13,11 @@ GASTROINTESTINAL RISK
   Therefore, ketorolac tromethamine is CONTRAINDICATED in patients with active peptic ulcer disease, in patients with recent gastrointestinal bleeding or perforation, and in patients with a history of peptic ulcer disease or gastrointestinal bleeding.
   Elderly patients are at greater risk for serious gastrointestinal events (see WARNINGS).
 
-CARDIOVASCULAR RISK
+CARDIOVASCULAR THOMBOTIC EVENTS
 
-- •NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-  This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS and CLINICAL STUDIES).
-- •Ketorolac tromethamine is CONTRAINDICATED for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- •Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use (see WARNINGS and PRECAUTIONS).
+- •Ketorolac tromethamine tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see CONTRAINDICATIONS and WARNINGS).
 
 RENAL RISK
 
@@ -26,7 +25,7 @@ RENAL RISK
 
 RISK OF BLEEDING
 
-- 1.Ketorolac tromethamine inhibits platelet function and is, therefore, CONTRAINDICATED in patients with suspected or confirmed cerebrovascular bleeding, patients with hemorrhagic diathesis, incomplete hemostasis and those at high risk of bleeding (see WARNINGS and PRECAUTIONS).
+- •Ketorolac tromethamine inhibits platelet function and is, therefore, CONTRAINDICATED in patients with suspected or confirmed cerebrovascular bleeding, patients with hemorrhagic diathesis, incomplete hemostasis and those at high risk of bleeding (see WARNINGS and PRECAUTIONS).
 
 Ketorolac tromethamine is CONTRAINDICATED as prophylactic analgesic before any major surgery.
 

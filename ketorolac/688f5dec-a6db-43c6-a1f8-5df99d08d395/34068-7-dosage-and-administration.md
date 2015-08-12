@@ -9,7 +9,7 @@ Transition from IV or IM dosing of ketorolac tromethamine (single- or multiple-d
 
 Patients age 17 to 64: 20 mg PO once followed by 10 mg q4 to 6 hours prn not > 40 mg/day
 
-Patients age ≥ 65, renally impaired, and/or weight < 50 kg (110 lbs): 10 mg PO once followed by 10 mg q4 to 6 hours prn not> 40 mg/day
+Patients age ≥ 65, renally impaired, and/or weight < 50 kg (110 lbs): 10 mg PO once followed by 10 mg q4 to 6 hours prn not > 40 mg/day
 
 Note:
 
