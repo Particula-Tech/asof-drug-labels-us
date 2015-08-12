@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090043"
+  ],
+  "inn": "memantine",
+  "labeler": "Upsher-Smith Laboratories, Inc",
+  "package_ndcs": [
+    "0832-1112-60",
+    "0832-1113-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "memantine hydrochloride",
+      "name": "Memantine Hydrochloride"
+    }
+  ],
+  "setid": "6e0ade9e-b721-4701-bcb7-de464e19e707",
+  "source": "dailymed"
+}
