@@ -6,14 +6,33 @@ No clinically relevant interaction was observed.
 
 Amlodipine
 
-Simvastatin: Coadministration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+Impact of other Drugs on Amlodipine
 
-CYP3A4 Inhibitors: Coadministration with CYP3A inhibitors (moderate and strong) result in increased systemic exposure to amlodipine warranting dose reduction.
-Monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A4 inhibitors to determine the need for dose adjustment.
+CYP3A Inhibitors
 
-CYP3A4 Inducers: No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
-Blood pressure should be monitored when amlodipine is coadministered with CYP3A4 inducers.
+Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical Pharmacology (12.3)].
+
+CYP3A Inducers
+
+No information is available on the quantitative effects of CYP3A inducers on amlodipine.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
+
+Sildenafil
+
+Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology (12.2)].
+
+Impact of Amlodipine on other Drugs
+
+Simvastatin
+
+Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
+
+Immunosuppressants
+
+Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].
 
 Valsartan
 
@@ -24,14 +43,14 @@ In vitro metabolism studies have indicated that CYP450 mediated drug interaction
 
 Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
 
-Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.

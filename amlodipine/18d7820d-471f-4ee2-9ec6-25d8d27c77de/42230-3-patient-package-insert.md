@@ -58,7 +58,7 @@ Some of your other medicines and EXFORGE HCT could affect each other, causing se
 
 Especially tell your doctor if you take:
 
-- simvastatin or other cholesterol lowering medicine
+- simvastatin or other cholesterol-lowering medicine
 - other medicines for high blood pressure or a heart problem
 - water pills (“diuretics”)
 - potassium supplements.
@@ -77,7 +77,7 @@ Especially tell your doctor if you take:
 - certain cancer medicines, like cyclophosphamide or methotrexate
 - medicines used to prevent and treat fungal infections (such as ketoconazole, itraconazole)
 - medicines used to treat bacterial infections (such as clarithromycin, telithromycin)
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 
 Know the medicines you take.
@@ -189,12 +189,8 @@ Medicines that lower blood pressure lower your chance of having a stroke or hear
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2014-65 June 2014
+T2015-125 July 2015
