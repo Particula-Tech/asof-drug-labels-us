@@ -6,12 +6,12 @@ All of digoxin’s actions are mediated through its effects on Na-K ATPase.
 This enzyme, the “sodium pump,” is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells.
 By inhibiting Na-K ATPase, digoxin
 
-- causes increased availability of intracellular calcium in the myocardium and conduction system, with consequent increased inotropy, increased automaticity, and reduced conduction velocity
-- indirectly causes parasympathetic stimulation of the autonomic nervous system, with consequent effects on the sino-atrial (SA) and atrioventricular (AV) nodes
-- reduces catecholamine reuptake at nerve terminals, rendering blood vessels more sensitive to endogenous or exogenous catecholamines
-- increases baroreceptor sensitization, with consequent increased carotid sinus nerve activity and enhanced sympathetic withdrawal for any given increment in mean arterial pressure
-- increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves
-- allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels.
+- •causes increased availability of intracellular calcium in the myocardium and conduction system, with consequent increased inotropy, increased automaticity, and reduced conduction velocity
+- •indirectly causes parasympathetic stimulation of the autonomic nervous system, with consequent effects on the sino-atrial (SA) and atrioventricular (AV) nodes
+- •reduces catecholamine reuptake at nerve terminals, rendering blood vessels more sensitive to endogenous or exogenous catecholamines
+- •increases baroreceptor sensitization, with consequent increased carotid sinus nerve activity and enhanced sympathetic withdrawal for any given increment in mean arterial pressure
+- •increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves
+- •allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels.
 
 The cardiologic consequences of these direct and indirect effects are an increase in the force and velocity of myocardial systolic contraction (positive inotropic action), a slowing of the heart rate (negative chronotropic effect), decreased conduction velocity through the AV node, and a decrease in the degree of activation of the sympathetic nervous system and renin-angiotensin system (neurohormonal deactivating effect).
 
@@ -80,9 +80,3 @@ Therefore, titrate carefully in these patients based on clinical response and ba
 
 Race: The impact of race differences on digoxin pharmacokinetics has not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.
-
-Drug-drug Interactions
-
-Based on literature reports no significant changes in digoxin exposure were reported when IV digoxin was co-administered with the following drugs:
-
-clarithromycin, carvedilol, isradipine, losartan and rifampin

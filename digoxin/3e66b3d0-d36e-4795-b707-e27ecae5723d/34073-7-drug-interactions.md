@@ -5,8 +5,8 @@ Prescribers should consult the prescribing information of any drug which is co-p
 
 ## 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors
 
-Digoxin is a substrate of P-glycoprotein.
-Drugs that induce or inhibit P-glycoprotein in intestine or kidney have the potential to alter digoxin pharmacokinetics.
+Digoxin is a substrate of P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary-intestinal secretion.
+Therefore, drugs that induce/ inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
 
 ## 7.2 Pharmacokinetic Drug Interactions
 
@@ -26,8 +26,6 @@ Table below provides available interaction data using digoxin IV formulation (NA
 | Quinine | NA | 34-38% |  |
 | Spironolactone | NA | 44% |  |
 | Verapamil | NA | 24% |  |
-| No significant Digoxin exposure changes |  |  |  |
-| Please refer to section 12 for a complete list of drugs that were studied but reported no significant changes on digoxin exposure. |  |  | No additional actions are required. |
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 
