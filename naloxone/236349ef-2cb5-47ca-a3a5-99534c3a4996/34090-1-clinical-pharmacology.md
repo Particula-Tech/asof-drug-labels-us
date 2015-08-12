@@ -11,6 +11,7 @@ In the presence of physical dependence on opioids, naloxone hydrochloride will p
 However, in the presence of opioid dependence, opiate withdrawal symptoms may appear within minutes of naloxone hydrochloride administration and subside in about 2 hours.
 The severity and duration of the withdrawal syndrome are related to the dose of naloxone hydrochloride and to the degree and type of opioid dependence.
 While the mechanism of action of naloxone hydrochloride is not fully understood, in vitro evidence suggests that naloxone hydrochloride antagonizes opioid effects by competing for the μ, κ and σ opiate receptor sites in the CNS, with the greatest affinity for the μ receptor.
+
 When naloxone hydrochloride is administered intravenously (I.V.), the onset of action is generally apparent within two minutes.
 The onset of action is slightly less rapid when it is administered subcutaneously (S.C.) or intramuscularly (I.M.).
 The duration of action is dependent upon the dose and route of administration of naloxone hydrochloride.

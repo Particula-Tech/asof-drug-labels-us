@@ -17,3 +17,5 @@ Syringe Assembly Directions: The MIN-I-JET® syringe with needle, illustrated be
 Assembly directions remain essentially the same.
 
 USE ASEPTIC TECHNIQUE Do not assemble until ready to use.
+
+*CAUTION: IMPROPER ENGAGING MAY CAUSE GLASS BREAKAGE AND SUBSEQUENT INJURY.
