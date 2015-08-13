@@ -50,7 +50,7 @@ testosterone cypionate injection, USP
 
 CIII
 
-For intramuscular use only
+For IM use only
 
 Rx only
 
