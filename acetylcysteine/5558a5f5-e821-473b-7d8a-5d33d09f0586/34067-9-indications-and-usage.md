@@ -2,13 +2,9 @@
 
 Acetylcysteine is indicated as adjuvant therapy for patients with abnormal, viscid, or inspissated mucous secretions in such conditions as:
 
-Chronic bronchopulmonary disease
+Chronic bronchopulmonary disease (chronic emphysema, emphysema with bronchitis, chronic asthmatic bronchitis, tuberculosis, bronchiectasis and primary amyloidosis of the lung)
 
-(chronic emphysema, emphysema with bronchitis, chronic asthmatic bronchitis, tuberculosis, bronchiectasis and primary amyloidosis of the lung)
-
-Acute bronchopulmonary disease
-
-(pneumonia, bronchitis, tracheobronchitis)
+Acute bronchopulmonary disease (pneumonia, bronchitis, tracheobronchitis)
 
 Pulmonary complications of cystic fibrosis
 

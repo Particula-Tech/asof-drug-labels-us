@@ -103,63 +103,63 @@ These data are intended to serve only as a guide for predicting compounding prob
 If it is deemed advisable to prepare an admixture, it should be administered as soon as possible after preparation.
 Do not store unused mixtures.
 
-| IN VITRO COMPATIBILITY1 TESTS OF ACETYLCYSTEINE |  |  |  |
-| --- | --- | --- | --- |
-|  |  | RATIO TESTED6 |  |
-| PRODUCT AND/OR AGENT | COMPATIBILITYRATING | ACETYL-CYSTEINE | PRODUCTOR AGENT |
-| ANESTHETIC, GAS |  |  |  |
-| Halothane | Compatible | 20% | Infinite |
-| Nitrous Oxide | Compatible | 20% | Infinite |
-| ANESTHETIC, LOCAL |  |  |  |
-| Cocaine HCl | Compatible | 10% | 5% |
-| Lidocaine HCl | Compatible | 10% | 2% |
-| Tetracaine HCl | Compatible | 10% | 1% |
-| ANTIBACTERIALS (A parenteral form of each antibiotic was used) |  |  |  |
-| Bacitracin2.3 (mix and use at once) | Compatible | 10% | 5,000 U/mL |
-| Chloramonenicol Sodium Succinate | Compatible | 20% | 20 mg/mL |
-| Carbenicillin Disodium2(mix and use at once) | Compatible | 10% | 125 mg/mL |
-| Gentamicin Sulfate2 | Compatible | 10% | 20 mg/mL |
-| Kanamycin Sulfate2(mix and use at once) | Compatible | 10% | 167 mg/mL |
-|  | Compatible | 17% | 85 mg/mL |
-| Lincomycin HCl2 | Compatible | 10% | 150 mg/mL |
-| Neomycin Sulfate2 | Compatible | 10% | 100 mg/mL |
-| Novobiocin Sodium2 | Compatible | 10% | 25 mg/mL |
-| Penicillin G Potassium2(mix and use at once) | CompatibleCompatible | 10%10% | 25,000 U/mL100,000 U/mL |
-| Polymyxin B Sulfate2 | Compatible | 10% | 50,000 U/mL |
-| Cephalothin Sodium | Compatible | 10% | 110 mg/mL |
-| Colistimethate Sodium2(mix and use at once) | Compatible | 10% | 37.5 mg/mL |
-| Vancomycin HCl2 | Compatible | 10% | 25 mg/mL |
-| Amphotercin B | Incompatible | 4%-15% | 1-4 mg/mL |
-| Chlortetracycline HCl2 | Incompatible | 10% | 12.5 mg/mL |
-| Erythromycin Lactobionate | Incompatible | 10% | 15 mg/mL |
-| Oxytetracycline HCl | Incompatible | 10% | 12.5 mL |
-| Ampicillin Sodium | Incompatible | 10% | 50 mg/mL |
-| Tetracycline HCl | Incompatible | 10% | 12.5 mg/mL |
-| BRONCHODILATORS |  |  |  |
-| Isoproterenol HCl2 | Compatible | 3% | 0.5% |
-| Isoproterenol HCl2 | Compatible | 10% | 0.05% |
-| Isoproterenol HCl2 | Compatible | 20% | 0.05% |
-| Isoproterenol HCl | Compatible | 13.3% (2 parts) | .33% (1 part) |
-| Isoetharine HCl | Compatible | 13.3% (2 parts) | (1 part) |
-| Epinephrine HCl | Compatible | 13.3% (2 parts) | .33% (1 part) |
-| CONTRAST MEDIA |  |  |  |
-| Iodized Oil | Incompatible | 20%/20 mL | 40%/10 mL |
-| DECONGESTANTS |  |  |  |
-| Phenylephrine HCl2 | Compatible | 3% | .25% |
-| Phenylephrine HCl | Compatible | 13.3% (2 parts) | .17% (1 part) |
-| ENZYMES |  |  |  |
-| Chymotrypsin | Incompatible | 5% | 400 γ /mL |
-| Trypsin | Incompatible | 5% | 400 γ /mL |
-| SOLVENTS |  |  |  |
-| Alcohol | Compatible | 12% | 10%-20% |
-| Propylene Glycol | Compatible | 3% | 10% |
-| STEROIDS |  |  |  |
-| Dexamethasone Sodium Phosphate | Compatible | 16% | 0.8 mg/mL |
-| Prednisolone Sodium Phosphate5 | Compatible | 16.7% | 3.3 mg/mL |
-| OTHER AGENTS |  |  |  |
-| Hydrogen Peroxide | Incompatible | (All ratios) |  |
-| Sodium Bicarbonate | Compatible | 20% (1 part) | 4.2% (1 part) |
-| The rating, Incompatible, is based on the formation of a precipitate, a change in clarity, immiscibility or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture.The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility. All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing.The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing. Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixtures incompatible. These are listed in footnotes 3, 4, and 5.A strong odor developed after storage for 24 hours at room temperature.The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT.A light tan color developed after storage for 24 hours at room temperature.Entries are final concentrations. Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions. |  |  |  |
+| IN VITRO COMPATIBILITY1 TESTS OF ACETYLCYSTEINE |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | RATIO TESTED6 |  |
+| PRODUCT AND/OR AGENT |  | COMPATIBILITYRATING | ACETYL-CYSTEINE | PRODUCTOR AGENT |
+| ANESTHETIC, GAS |  |  |  |  |
+| Halothane |  | Compatible | 20% | Infinite |
+| Nitrous Oxide |  | Compatible | 20% | Infinite |
+| ANESTHETIC, LOCAL |  |  |  |  |
+| Cocaine HCl |  | Compatible | 10% | 5% |
+| Lidocaine HCl |  | Compatible | 10% | 2% |
+| Tetracaine HCl |  | Compatible | 10% | 1% |
+| ANTIBACTERIALS (A parenteral form of each antibiotic was used) |  |  |  |  |
+| Bacitracin2.3 (mix and use at once) |  | Compatible | 10% | 5,000 U/mL |
+| Chloramonenicol Sodium Succinate |  | Compatible | 20% | 20 mg/mL |
+| Carbenicillin Disodium2 (mix and use at once) |  | Compatible | 10% | 125 mg/mL |
+| Gentamicin Sulfate2 |  | Compatible | 10% | 20 mg/mL |
+| Kanamycin Sulfate2 (mix and use at once) |  | Compatible | 10% | 167 mg/mL |
+|  |  | Compatible | 17% | 85 mg/mL |
+| Lincomycin HCl2 |  | Compatible | 10% | 150 mg/mL |
+| Neomycin Sulfate2 |  | Compatible | 10% | 100 mg/mL |
+| Novobiocin Sodium2 |  | Compatible | 10% | 25 mg/mL |
+| Penicillin G Potassium2 (mix and use at once) |  | CompatibleCompatible | 10%10% | 25,000 U/mL100,000 U/mL |
+| Polymyxin B Sulfate2 |  | Compatible | 10% | 50,000 U/mL |
+| Cephalothin Sodium |  | Compatible | 10% | 110 mg/mL |
+| Colistimethate Sodium2 (mix and use at once) |  | Compatible | 10% | 37.5 mg/mL |
+| Vancomycin HCl2 |  | Compatible | 10% | 25 mg/mL |
+| Amphotercin B |  | Incompatible | 4%-15% | 1-4 mg/mL |
+| Chlortetracycline HCl2 |  | Incompatible | 10% | 12.5 mg/mL |
+| Erythromycin Lactobionate |  | Incompatible | 10% | 15 mg/mL |
+| Oxytetracycline HCl |  | Incompatible | 10% | 12.5 mL |
+| Ampicillin Sodium |  | Incompatible | 10% | 50 mg/mL |
+| Tetracycline HCl |  | Incompatible | 10% | 12.5 mg/mL |
+| BRONCHODILATORS |  |  |  |  |
+| Isoproterenol HCl2 |  | Compatible | 3% | 0.5% |
+| Isoproterenol HCl2 |  | Compatible | 10% | 0.05% |
+| Isoproterenol HCl2 |  | Compatible | 20% | 0.05% |
+| Isoproterenol HCl |  | Compatible | 13.3% (2 parts) | .33% (1 part) |
+| Isoetharine HCl |  | Compatible | 13.3% (2 parts) | (1 part) |
+| Epinephrine HCl |  | Compatible | 13.3% (2 parts) | .33% (1 part) |
+| CONTRAST MEDIA |  |  |  |  |
+| Iodized Oil |  | Incompatible | 20%/20 mL | 40%/10 mL |
+| DECONGESTANTS |  |  |  |  |
+| Phenylephrine HCl2 |  | Compatible | 3% | .25% |
+| Phenylephrine HCl |  | Compatible | 13.3% (2 parts) | .17% (1 part) |
+| ENZYMES |  |  |  |  |
+| Chymotrypsin |  | Incompatible | 5% | 400 γ /mL |
+| Trypsin |  | Incompatible | 5% | 400 γ /mL |
+| SOLVENTS |  |  |  |  |
+| Alcohol |  | Compatible | 12% | 10%-20% |
+| Propylene Glycol |  | Compatible | 3% | 10% |
+| STEROIDS |  |  |  |  |
+| Dexamethasone Sodium Phosphate |  | Compatible | 16% | 0.8 mg/mL |
+| Prednisolone Sodium Phosphate5 |  | Compatible | 16.7% | 3.3 mg/mL |
+| OTHER AGENTS |  |  |  |  |
+| Hydrogen Peroxide |  | Incompatible | (All ratios) |  |
+| Sodium Bicarbonate |  | Compatible | 20% (1 part) | 4.2% (1 part) |
+| 1. The rating, Incompatible, is based on the formation of a precipitate, a change in clarity, immiscibility or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture. The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility. All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing. 2. The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing. Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixtures incompatible. These are listed in footnotes 3, 4, and 5. 3. A strong odor developed after storage for 24 hours at room temperature. 4. The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT. 5. A light tan color developed after storage for 24 hours at room temperature. 6. Entries are final concentrations. Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions. |  |  |  |  |
 
 | Acetylcysteine As An Antidote For Acetaminophen Overdose |
 | --- |
@@ -172,26 +172,31 @@ Regardless of the quantity of acetaminophen reported to have been ingested, admi
 Do not await results of assays for acetaminophen level before initiating treatment with acetylcysteine.
 The following procedures are recommended:
 
-1. The stomach should be emptied promptly by lavage or by inducing emesis with syrup of ipecac.
-   Syrup of ipecac should be given in a dose of 15 mL for children up to age 12, and 30 mL for adolescents and adults followed immediately by drinking copious amounts of water.
-   The dose should be repeated if emesis does not occur in 20 minutes.
-2. In the case of a mixed drug overdose activated charcoal may be indicated.
-   However, if activated charcoal has been administered, lavage before administering acetylcysteine treatment.
-   Activated charcoal adsorbs acetylcysteine in vitro and may do so in patients and thereby may reduce its effectiveness.
-3. Draw blood for predetoxification acetaminophen plasma assay and for baseline SGOT, SGPT, bilirubin, prothrombin time, creatinine, BUN, blood sugar and electrolytes.
-4. Administer the loading dose of acetylcysteine, 140 mg per kg of body weight.
-   (Prepare acetylcysteine for oral administration as described in the Specific Dosage Guide and Preparation table.)
-5. Determine subsequent action based on predetoxification plasma acetaminophen information.
-   Choose ONE of the following four courses of therapy.A.
-   Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below):Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
-   The maintenence dose is then repeated at 4-hour intervals for a total of 17 doses.
-   Monitor hepatic and renal function and electrolytes throughout the detoxification process.B.
-   Predetoxification acetaminophen level could not be obtained:Proceed as in A.C.
-   Predetoxification acetaminophen level is clearly in the nontoxic range (beneath the dashed line on the nomogram) and you know that acetaminophen overdose occured at least 4 hours before the predetoxification acetaminophen plasma assays:Discontinue administration of acetylcysteine.D.
-   Predetoxification acetaminophen level was in the non-toxic range, but time of ingestion was unknown or less than 4 hours.Because the level of acetaminophen at the time of the predetoxification assay may not be a peak value (peak may not be achieved before 4 hours post-ingestion), obtain a second plasma level in order to decide whether or not the full 17-dose detoxification treatment is necessary.
-6. If the patient vomits any oral dose within 1 hour of administration, repeat that dose.
-7. In the occasional instances where the patient is persistently unable to retain the orally administered acetylcysteine, the antidote may be administered by duodenal intubation.
-8. Repeat SGOT, SGPT, bilirubin, prothrombin time, creatinine, BUN, blood sugar and electrolytes daily if the acetaminophen plasma level is in the potentially toxic range as discussed below.
+- 1.The stomach should be emptied promptly by lavage or by inducing emesis with syrup of ipecac.
+  Syrup of ipecac should be given in a dose of 15 mL for children up to age 12, and 30 mL for adolescents and adults followed immediately by drinking copious amounts of water.
+  The dose should be repeated if emesis does not occur in 20 minutes.
+- 2.
+  In the case of a mixed drug overdose activated charcoal may be indicated.
+  However, if activated charcoal has been administered, lavage before administering acetylcysteine treatment.
+  Activated charcoal adsorbs acetylcysteine in vitro and may do so in patients and thereby may reduce its effectiveness.
+- 3.
+  Draw blood for predetoxification acetaminophen plasma assay and for baseline SGOT, SGPT, bilirubin, prothrombin time, creatinine, BUN, blood sugar and electrolytes.
+- 4.
+  Administer the loading dose of acetylcysteine, 140 mg per kg of body weight.
+  (Prepare acetylcysteine for oral administration as described in the Specific Dosage Guide and Preparation table.)
+- 5.
+  Determine subsequent action based on predetoxification plasma acetaminophen information.
+  Choose ONE of the following four courses of therapy.
+  1. A.Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below): Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
+     The maintenence dose is then repeated at 4-hour intervals for a total of 17 doses.
+     Monitor hepatic and renal function and electrolytes throughout the detoxification process.
+  2. B. Predetoxification acetaminophen level could not be obtained: Proceed as in A.
+  3. C. Predetoxification acetaminophen level is clearly in the nontoxic range (beneath the dashed line on the nomogram) and you know that acetaminophen overdose occured at least 4 hours before the predetoxification acetaminophen plasma assays: Discontinue administration of acetylcysteine.
+  4. D. Predetoxification acetaminophen level was in the non-toxic range, but time of ingestion was unknown or less than 4 hours.
+     Because the level of acetaminophen at the time of the predetoxification assay may not be a peak value (peak may not be achieved before 4 hours post-ingestion), obtain a second plasma level in order to decide whether or not the full 17-dose detoxification treatment is necessary.
+- 6.If the patient vomits any oral dose within 1 hour of administration, repeat that dose.
+- 7.In the occasional instances where the patient is persistently unable to retain the orally administered acetylcysteine, the antidote may be administered by duodenal intubation.
+- 8.Repeat SGOT, SGPT, bilirubin, prothrombin time, creatinine, BUN, blood sugar and electrolytes daily if the acetaminophen plasma level is in the potentially toxic range as discussed below.
 
 Preparation of Acetylcysteine For Oral Administration — Oral administration requires dilution of the 20% solution with diet cola, or other diet soft drinks, to a final concentration of 5% (see Dosage Guide and Preparation table).
 If administered via gastric tube or Miller-Abbott tube, water may be used as the diluent.
@@ -207,12 +212,14 @@ IF AN ASSAY FOR ACETAMINOPHEN CANNOT BE OBTAINED, IT IS NECESSARY TO ASSUME THAT
 
 Interpretation of Acetaminophen Assays:
 
-1. When results of the plasma acetaminophen assay are available refer to the nomogram below to determine if plasma concentration is in the potentially toxic range.
-   Values above the solid line connecting 200 mcg/mL at 4 hours with 50 mcg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
-   (Do not wait for assay results to begin acetylcysteine treatment.)
-2. If the predetoxification plasma level is above the broken line continue with maintenance doses of acetylcysteine.
-   It is better to err on the safe side and thus the broken line is placed 25% below the solid line which defines possible toxicity.
-3. If the predetoxification plasma level is below the broken line described above, there is minimal risk of hepatic toxicity and acetylcysteine treatment can be discontinued.
+- 1.When results of the plasma acetaminophen assay are available refer to the nomogram below to determine if plasma concentration is in the potentially toxic range.
+  Values above the solid line connecting 200 mcg/mL at 4 hours with 50 mcg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
+  (Do not wait for assay results to begin acetylcysteine treatment.)
+- 2.
+  If the predetoxification plasma level is above the broken line continue with maintenance doses of acetylcysteine.
+  It is better to err on the safe side and thus the broken line is placed 25% below the solid line which defines possible toxicity.
+- 3.
+  If the predetoxification plasma level is below the broken line described above, there is minimal risk of hepatic toxicity and acetylcysteine treatment can be discontinued.
 
 Acetaminophen Assay Methodology:
 
@@ -227,7 +234,6 @@ HPLC:
 1.
 Blair, D and Rumack, BH, Clin Chem.
 1977; 23(4):743−745.
-
 2.
 Howie, D, Andriaenssens, Pl, Prescott, LF.
 J Pharm Pharmacol 1977; 29(4):235−237.
@@ -246,10 +252,10 @@ Lancet 1975; 1(May 17):1147-1148.
 
 SUPPORTIVE TREATMENT OF ACETAMINOPHEN OVERDOSE
 
-1. Maintain fluid and electrolyte balance based on clinical evaluation of state of hydration and serum electrolytes.
-2. Treat as necessary for hypoglycemia.
-3. Administer vitamin K1 if prothrombin time ratio exceeds 1.5 or fresh frozen plasma if the prothrombin time ratio exceeds 3.0.
-4. Diuretics and forced diuresis should be avoided (See table on preceding page).
+- 1.Maintain fluid and electrolyte balance based on clinical evaluation of state of hydration and serum electrolytes.
+- 2.Treat as necessary for hypoglycemia.
+- 3.Administer vitamin K1 if prothrombin time ratio exceeds 1.5 or fresh frozen plasma if the prothrombin time ratio exceeds 3.0.
+- 4.Diuretics and forced diuresis should be avoided (See table on preceding page).
 
 DOSAGE GUIDE AND PREPARATION
 
