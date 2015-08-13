@@ -1,12 +1,12 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenicity, Mutagenicity, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity
+Carcinogenesis
 
 Studies to evaluate the carcinogenic potential of DYSPORT® have not been conducted.
 
-Mutagenicity
+Mutagenesis
 
 Genotoxicity studies have not been conducted for DYSPORT®.
 

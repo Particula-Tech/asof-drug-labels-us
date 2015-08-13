@@ -29,18 +29,28 @@ Glabellar Lines
 
 DYSPORT® is not recommended for use in pediatric patients less than 18 years of age.
 
+Upper Limb Spasticity
+
+Safety and effectiveness in pediatric patients have not been established [see Warnings and Precautions (5.2)].
+
 ## 8.5 Geriatric Use
 
 Cervical Dystonia
 
 There were insufficient numbers of patients aged 65 and over in the clinical studies to determine whether they respond differently than younger patients.
-In general, elderly patients should be observed to evaluate their tolerability of DYSPORT®, due to the greater frequency of concomitant disease and other drug therapy [see Dosage and Administration (2.1.1)].
+In general, elderly patients should be observed to evaluate their tolerability of DYSPORT®, due to the greater frequency of concomitant disease and other drug therapy [see Dosage and Administration (2.1)].
 
 Glabellar Lines
 
 Of the total number of subjects in the placebo-controlled clinical studies of DYSPORT®, 8 (1%) were 65 and over.
 Efficacy was not observed in subjects 65 years and over [see Clinical Studies (14.2)].
-For the entire safety database of geriatric subjects, although there was no increase in the incidence of eyelid ptosis, geriatric subjects did have an increase in the number of ocular adverse events compared to younger subjects (11% vs. 5%) [see Dosage and Administration (2.2)].
+For the entire safety database of geriatric subjects, although there was no increase in the incidence of eyelid ptosis, geriatric subjects did have an increase in the number of ocular adverse reactions compared to younger subjects (11% vs. 5%) [see Dosage and Administration (2.2)].
+
+Upper Limb Spasticity
+
+Of the total number of subjects in placebo controlled clinical studies of DYSPORT®, 28.0 percent were 65 and over, while 8.2 percent were 75 and over.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Ethnic Groups
 

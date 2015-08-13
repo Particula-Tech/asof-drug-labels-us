@@ -1,18 +1,37 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Instructions for Safe Use
+
 The potency Units of DYSPORT® are specific to the preparation and assay method utilized.
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT® cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+Reconstituted DYSPORT® is intended for intramuscular injection only.
 
 Reconstitution instructions are specific for each of the 300 Unit vial and the 500 Unit vial.
-These volumes yield concentrations specific for the use for each indication.
+These volumes yield concentrations specific for the use for each indication (Table 1).
 
-## 2.1 Cervical Dystonia
+Table 1: Dilution Instructions for DYSPORT® Vials (500 Units and 300 Units)
+
+| DiluentPreservative-free 0.9% Sodium Chloride Injection, USP Only per 500 Unit Vial | Resulting Dose Units per 0.1 mL | Diluent per 300 Unit Vial | Resulting Dose Units per 0.1 mL |
+| --- | --- | --- | --- |
+| 1 mL | 50 Units | 0.6 mL | 50 Units |
+| 2.5 mL | 20 Units | 1.5 mL | 20 Units |
+| -- | -- | 2.5 mL | 12 Units |
+| 5 mLWhen using 5 mL of diluent for a 500 Unit vial of DYSPORT®, complete the following steps (see also 2.4 Dosing in Upper Limb Spasticity). Reconstitute a 500 Unit vial of DYSPORT® with 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, gently mix, and set the vial aside.Withdraw 2.5 mL of Preservative-free 0.9% Sodium Chloride Injection, USP, into a 5 mL syringe.Take the 5 mL syringe with 2.5 mL Preservative-free 0.9% Sodium Chloride Injection, USP, and draw up the DYSPORT® solution from the reconstituted vial without inverting and mix gently. The resulting concentration will be 10 units/0.1 mL.Use immediately after reconstitution in the syringe. Dispose of any unused saline. | 10 Units | 3 mL | 10 Units |
+| Note: These dilutions are calculated for an injection volume of 0.1 mL. A decrease or increase in the DYSPORT® dose is also possible by administering a smaller or larger injection volume (i.e. 0.05 mL (50% decrease in dose), 0.08 mL (20% decrease in dose) or 0.15 mL (50% increase in dose)). |  |  |  |
+
+After reconstitution, DYSPORT® should be used for only one injection session and for only one patient.
+Once reconstituted, DYSPORT® should be stored in the original container, in a refrigerator at 2 °C to8°C (36 °F to 46°F), protected from light for up to 24 hours.
+It must be discarded if not used within 24 hours.
+Do not freeze reconstituted DYSPORT®.
+Discard the vial and needle in accordance with local regulations.
+
+## 2.2 Dosing in Cervical Dystonia
 
 The recommended initial dose of DYSPORT® for the treatment of cervical dystonia is 500 Units given intramuscularly as a divided dose among affected muscles in patients with or without a history of prior treatment with botulinum toxin.
-(A description of the average DYSPORT® dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Table 5 of Section 14.1, Clinical Studies – Cervical Dystonia.)
+(A description of the average DYSPORT® dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Table 8 of Section 14.1, Clinical Studies – Cervical Dystonia.)
 Limiting the dose injected into the sternocleidomastoid muscle may reduce the occurrence of dysphagia.
 Clinical studies with DYSPORT® in cervical dystonia suggest that the peak effect occurs between two and four weeks after injection.
-Simultaneous EMG-guided application of DYSPORT® may be helpful in locating active muscles not identified by physical examination alone.
+Simultaneous EMG-guided application of DYSPORT® may be helpful in locating active muscles.
 
 Dose Modification
 
@@ -21,23 +40,24 @@ Uncontrolled open-label studies also suggest that the total dose administered in
 Re-treatment, if needed, should not occur in intervals of less than 12 weeks.
 Doses above 1000 Units have not been systematically evaluated.
 
-2.1.1 Special Populations
+Special Populations
 
 Adults and elderly
 
 The starting dose of 500 Units recommended for cervical dystonia is applicable to adults of all ages [see Use in Specific Populations (8.5)].
 
-Children
+Pediatric Patients
 
-The safety and effectiveness of DYSPORT® in the treatment of cervical dystonia in pediatric patients less than 18 years of age has not been assessed [see Warnings and Precautions (5.2)].
+The safety and effectiveness of DYSPORT® in the treatment in pediatric patients less than 18 years of age has not been assessed [see Warnings and Precautions (5.2)].
 
-2.1.2 Instructions for Preparation and Administration
+Instructions for Preparation and Administration for the Treatment of Cervical Dystonia
 
 DYSPORT® is supplied as a single-use vial.
-Each 500 Unit vial of DYSPORT® is to be reconstituted with 1 mL of 0.9% Sodium Chloride Injection USP (without preservative) to yield a solution of 500 Units per mL.
-Each 300 Unit vial of DYSPORT® is to be reconstituted with 0.6 mL of 0.9% Sodium Chloride Injection USP (without preservative) to yield a solution equivalent to 250 Units per 0.5 mL.
+Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT®.
+Each 500 Unit vial of DYSPORT® is to be reconstituted with 1 mL of preservative- free 0.9% Sodium Chloride Injection USP to yield a solution of 50 Units per 0.1 mL.
+Each 300 Unit vial of DYSPORT® is to be reconstituted with 0.6 mL of preservative-free 0.9% Sodium Chloride Injection USP to yield a solution equivalent to 50 Units per 0.1 mL.
 
-Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 1.0 mL or 0.6 mL of sterile, 0.9% Sodium Chloride Injection USP (without preservative) for 500 and 300 Unit vials, respectively.
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 1 mL or 0.6 mL of sterile, preservative- free 0.9% Sodium Chloride Injection USP for 500 Unit and 300 Unit vials, respectively.
 Insert the needle into the DYSPORT® vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
@@ -49,15 +69,13 @@ Reconstituted DYSPORT® should be a clear, colorless solution, free of particula
 Expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach an appropriately sized new sterile needle.
 
-Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within 24 hours.
-Do not freeze reconstituted DYSPORT®.
 Discard the vial and needle in accordance with local regulations.
 
-## 2.2 Glabellar Lines
+## 2.3 Dosing in Glabellar Lines
 
 The dose of DYSPORT® for the treatment of glabellar lines is a total of 50 Units given intramuscularly in five equal aliquots of 10 Units each to achieve clinical effect (see Figure 1).
 
-2.2.1 Special Populations
+Special Populations
 
 Adults
 
@@ -68,19 +86,19 @@ Repeat dose clinical studies demonstrated continued efficacy with up to four rep
 It should be administered no more frequently than every three months.
 When used for re-treatment, DYSPORT® should be reconstituted and injected using the same techniques as the initial treatment.
 
-Children
+Pediatric Patients
 
 DYSPORT® for glabellar lines is not recommended for use in pediatric patients less than 18 years of age [see Warnings and Precautions (5.2)].
 
-2.2.2 Instructions for Preparation and Administration
+Instructions for Preparation and Administration for the Treatment of Glabellar Lines
 
 DYSPORT® is supplied as a single-use vial.
-Each 300 Unit vial of DYSPORT® is to be reconstituted with 2.5 mL of 0.9% Sodium Chloride Injection USP (without preservative) prior to injection.
-The concentration of the resulting solution will be 10 Units per 0.08 mL to be delivered in five equally divided aliquots of 0.08 mL each.
-DYSPORT® may also be reconstituted with 1.5 mL of 0.9% Sodium Chloride Injection USP (without preservative) for a solution of 10 Units per 0.05 mL to be delivered in five equally divided aliquots of 0.05 mL each.
+Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT®.
+Each 300 Unit vial of DYSPORT® is to be reconstituted with 2.5 mL of preservative-free 0.9% Sodium Chloride Injection USP prior to injection.
+The concentration of the resulting solution will be 10 Units per 0.08 mL (12 Units per 0.1 mL) to be delivered in five equally divided aliquots of 0.08 mL each.
+DYSPORT® may also be reconstituted with 1.5 mL of preservative-free 0.9% Sodium Chloride Injection USP for a solution of 10 Units per 0.05 mL (20 Units per 0.1 mL) to be delivered in five equally divided aliquots of 0.05 mL each.
 
-Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2.5 mL or 1.5 mL of 0.9% Sodium Chloride Injection USP (without preservative).
-Insert the needle into the DYSPORT® vial.
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2.5 mL or 1.5 mL of preservative- free 0.9% Sodium Chloride Injection USP Insert the needle into the DYSPORT® vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
 Do not use the vial if no vacuum is observed.
@@ -92,11 +110,9 @@ Draw a single patient dose of DYSPORT® into a sterile syringe.
 Expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach a 30 gauge needle.
 
-Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within 24 hours.
-Do not freeze reconstituted DYSPORT®.
 Discard the vial and needle in accordance with local regulations.
 
-2.2.3 Injection Technique
+Injection Technique
 
 Glabellar facial lines arise from the activity of the lateral corrugator and vertical procerus muscles.
 These can be readily identified by palpating the tensed muscle mass while having the patient frown.
@@ -118,3 +134,61 @@ Inject patients with a total of 50 Units in five equally divided aliquots.
 Using a 30 gauge needle, inject 10 Units of DYSPORT® into each of five sites, two in each corrugator muscle, and one in the procerus muscle (see Figure 1).
 
 Figure 1
+
+## 2.4 Dosing in Upper Limb Spasticity
+
+Special Populations
+
+Adults
+
+Dosing in initial and subsequent treatment sessions should be tailored to the individual based on the size, number and location of muscles involved, severity of spasticity, the presence of local muscle weakness, the patient's response to previous treatment, and/or adverse event history with DYSPORT®.
+In the pivotal clinical trial, doses of 500 Units and 1000 Units were divided among selected muscles, Table 2 and Figure 2, at a given treatment session.
+
+No more than 1 mL should generally be administered at any single injection site.
+
+Table 2: DYSPORT® Dosing by Muscle for Upper Limb Spasticity
+
+| Muscles Injected | Recommended Dose DYSPORT® | Recommended Number of Injection(s) per Muscle |
+| --- | --- | --- |
+| Flexor carpi radialis (FCR) | 100 Units to 200 Units | 1 to 2 |
+| Flexor carpi ulnaris (FCU) | 100 Units to 200 Units | 1 to 2 |
+| Flexor digitorum profundus (FDP) | 100 Units to 200 Units | 1 to 2 |
+| Flexor digitorum superficialis (FDS) | 100 Units to 200 Units | 1 to 2 |
+| Brachialis | 200 Units to 400 Units | 1 to 2 |
+| Brachioradialis | 100 Units to 200 Units | 1 to 2 |
+| Biceps Brachii (BB) | 200 Units to 400 Units | 1 to 2 |
+| Pronator Teres | 100 Units to 200 Units | 1 |
+
+Figure 2: Muscles for Injection for Upper Limb Spasticity
+
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique e.g. electromyography, electrical stimulation is recommended to target the injection sites.
+
+Repeat DYSPORT® treatment should be administered when the effect of a previous injection has diminished, but no sooner than 12 weeks after the previous injection.
+A majority of patients in clinical studies were retreated between 12-16 weeks; however some patients had a longer duration of response, i.e. 20 weeks.
+The degree and pattern of muscle spasticity at the time of re-injection may necessitate alterations in the dose of DYSPORT® and muscles to be injected.
+Clinical improvement may be expected one week after administration of DYSPORT®.
+
+Pediatric Patients
+
+The safety and effectiveness of DYSPORT® in the treatment of upper limb spasticity in pediatric patients less than 18 years of age has not been demonstrated.
+[see Warnings and Precautions (5.2)]
+
+Instructions for Preparation and Administration for the Treatment of Upper Limb Spasticity in Adults
+
+DYSPORT® is supplied as a single-use vial.
+Only use sterile preservative-free 0.9% Sodium Chloride Injection, USP for reconstitution of DYSPORT®.
+The recommended concentration is 100 Units/mL or 200 Units/mL with preservative-free 0.9% Sodium Chloride Injection USP) (see Table 1).
+
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up the required volume (Table 1) of preservative-free 0.9% Sodium Chloride Injection USP.
+
+Insert the needle into the DYSPORT® vial.
+The partial vacuum will begin to pull the saline into the vial.
+No more than 2.5 mL of saline should be introduced into the vial (see footnote in Table 1).
+Do not use the vial if a vacuum is absent.
+Gently swirl to dissolve.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+Reconstituted DYSPORT® should be a clear, colorless solution, free of particulate matter; otherwise it should not be injected.
+Expel any air bubbles in the syringe barrel.
+Remove the needle used to reconstitute the product and attach an appropriately sized new sterile needle.
+
+Discard the vial and needle in accordance with local regulations.
