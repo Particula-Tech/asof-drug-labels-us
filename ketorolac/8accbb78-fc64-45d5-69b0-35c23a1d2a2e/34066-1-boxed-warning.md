@@ -14,12 +14,11 @@ GASTROINTESTINAL RISK
   Therefore, ketorolac tromethamine is CONTRAINDICATED in patients with active peptic ulcer disease, in patients with recent gastrointestinal bleeding or perforation, and in patients with a history of peptic ulcer disease or gastrointestinal bleeding.
   Elderly patients are at greater risk for serious gastrointestinal events (see WARNINGS).
 
-CARDIOVASCULAR RISK
+CARDIOVASCULAR THROMBOTIC EVENTS
 
-- •NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-  This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS and CLINICAL STUDIES).
-- •Ketorolac tromethamine is CONTRAINDICATED for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- •Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use (see WARNINGS and PRECAUTIONS).
+- •Ketorolac tromethamine is CONTRAINDICATED in the setting of coronary artery bypass graft (CABG) surgery (see CONTRAINDICATIONS and WARNINGS).
 
 RENAL RISK
 

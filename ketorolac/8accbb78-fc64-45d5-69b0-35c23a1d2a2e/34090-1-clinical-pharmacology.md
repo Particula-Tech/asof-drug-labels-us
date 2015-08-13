@@ -20,19 +20,20 @@ Comparison of Intravenous, Intramuscular and Oral Pharmacokinetics
 The pharmacokinetics of ketorolac tromethamine, following intravenous, intramuscular and oral doses of ketorolac tromethamine are compared in Table 1.
 In adults, the extent of bioavailability following administration of the ORAL and INTRAMUSCULAR forms of ketorolac tromethamine was equal to that following an intravenous bolus.
 
-| Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean±SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Oral† | Intramuscular* |  |  | Intravenous Bolus‡ |  |  |  |  |
-| Pharmacokinetic Parameters (units) |  | 10 mg | 15 mg | 30 mg |  | 60 mg |  | 15 mg |  | 30 mg |
-| Bioavailability (extent) |  | 100% |  |  |  |  |  |  |  |  |
-| Tmax1 (min) |  | 44±34 | 33±21** | 44±29 |  | 33±21** |  | 1.1±0.7** |  | 2.9±1.8 |
-| Cmax2 (mcg/mL) [Single-dose] |  | 0.87±0.22 | 1.14±0.32** | 2.42±0.68 |  | 4.55±1.27** |  | 2.47±0.51** |  | 4.65±0.96 |
-| Cmax (mcg/mL) [steady state qid] |  | 1.05±0.26** | 1.56±0.44** | 3.11±0.87** |  | N/A†† |  | 3.09±1.17** |  | 6.85±2.61 |
-| Cmin3 (mcg/mL) [steady state qid] |  | 0.29±0.07** | 0.47±0.13** | 0.93±0.26** |  | N/A |  | 0.61±0.21** |  | 1.04±0.35 |
-| Cavg4 (mcg/mL) [steady state qid] |  | 0.59±0.2** | 0.94±0.29** | 1.88±0.59** |  | N/A |  | 1.09±0.3** |  | 2.17±0.59 |
-| Vβ5 (L/kg) |  | ———— 0.175±0.039 ———— |  |  |  | 0.210±0.044 |  |  |  |  |
-| % Dose metabolized = <50% Dose excreted in urine = 91 |  | % Dose excreted in feces = 6 % Plasma protein binding = 99 |  |  |  |  | 1Time-to-peak plasma concentration2Peak plasma concentration3Trough plasma concentration4Average plasma concentration5Volume of distribution |  |  |  |
-| †Derived from PO pharmacokinetic studies in 77 normal fasted volunteers*Derived from intramuscular pharmacokinetic studies in 54 normal volunteers‡Derived from intravenous pharmacokinetic studies in 24 normal volunteers††Not applicable because 60 mg is only recommended as a single dose**Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |  |  |  |  |
+Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean±SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
+
+|  |  | Oral† |  | Intramuscular* |  |  |  | Intravenous Bolus‡ |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pharmacokinetic Parameters (units) |  | 10 mg |  | 15 mg | 30 mg | 60 mg |  | 15 mg | 30 mg |
+| Bioavailability (extent) |  | 100% |  |  |  |  |  |  |  |
+| Tmax1 (min) |  | 44±34 |  | 33±21** | 44±29 | 33±21** |  | 1.1±0.7** | 2.9±1.8 |
+| Cmax2 (mcg/mL) [Single-dose] |  | 0.87±0.22 |  | 1.14±0.32** | 2.42±0.68 | 4.55±1.27** |  | 2.47±0.51** | 4.65±0.96 |
+| Cmax (mcg/mL) [steady state qid] |  | 1.05±0.26** |  | 1.56±0.44** | 3.11±0.87** | N/A†† |  | 3.09±1.17** | 6.85±2.61 |
+| Cmin3 (mcg/mL) [steady state qid] |  | 0.29±0.07** |  | 0.47±0.13** | 0.93±0.26** | N/A |  | 0.61±0.21** | 1.04±0.35 |
+| Cavg4 (mcg/mL) [steady state qid] |  | 0.59±0.2** |  | 0.94±0.29** | 1.88±0.59** | N/A |  | 1.09±0.3** | 2.17±0.59 |
+| Vβ5 (L/kg) |  | ———— 0.175±0.039 ———— |  |  |  |  |  | 0.210±0.044 |  |
+| % Dose metabolized = <50% Dose excreted in urine = 91 |  |  | % Dose excreted in feces = 6 % Plasma protein binding = 99 |  |  |  | 1 Time-to-peak plasma concentration2 Peak plasma concentration3 Trough plasma concentration4 Average plasma concentration5 Volume of distribution |  |  |
+| † Derived from PO pharmacokinetic studies in 77 normal fasted volunteers* Derived from intramuscular pharmacokinetic studies in 54 normal volunteers‡ Derived from intravenous pharmacokinetic studies in 24 normal volunteers†† Not applicable because 60 mg is only recommended as a single dose** Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |  |  |  |
 
 Linear Kinetics
 
@@ -48,6 +49,7 @@ The ketorolac tromethamine racemate has been shown to be highly protein bound (9
 Nevertheless, plasma concentrations as high as 10 mcg/mL will only occupy approximately 5% of the albumin binding sites.
 Thus, the unbound fraction for each enantiomer will be constant over the therapeutic range.
 A decrease in serum albumin, however, will result in increased free drug concentrations.
+
 Ketorolac tromethamine is excreted in human milk (see PRECAUTIONS – Nursing Mothers).
 
 Metabolism
@@ -110,13 +112,14 @@ Race
 
 Pharmacokinetic differences due to race have not been identified.
 
-| Table 2: The Influence of Age, Liver and Kidney Function, on the Clearance and Terminal Half-life of Ketorolac Tromethamine (INTRAMUSCULAR 1 and ORAL2) in Adult Populations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Total Clearance [in L/h/kg]3 |  | Terminal Half-life [in hours] |  |  |  |  |  |  |  |  |  |  |  |  |
-| Type of Subjects | INTRAMUSCULARMean (range) | ORALMean (range) | INTRAMUSCULARMean (range) | ORALMean (range) |  |  |  |  |  |  |  |  |  |  |  |
-| Normal Subjects Intramuscular (n = 54) mean age = 32, range = 18-60 Oral (n = 77) mean age = 32, range = 20-60 | 0.023 (0.010-0.046) | 0.025 (0.013-0.050) | 5.3 (3.5-9.2) | 5.3 (2.4-9) |  |  |  |  |  |  |  |  |  |  |  |
-| Healthy Elderly Subjects Intramuscular (n = 13), Oral (n = 12) mean age = 72, range = 65-78 | 0.019 (0.013-0.034) | 0.024 (0.018-0.034) | 7 (4.7-8.6) | 6.1 (4.3-7.6) |  |  |  |  |  |  |  |  |  |  |  |
-| Patients with Hepatic Dysfunction Intramuscular and Oral (n = 7) mean age = 51, range = 43-64 | 0.029 (0.013-0.066) | 0.033 (0.019-0.051) | 5.4 (2.2-6.9) | 4.5 (1.6-7.6) |  |  |  |  |  |  |  |  |  |  |  |
-| Patients with Renal Impairment Intramuscular (n = 25), Oral (n = 9) serum creatinine = 1.9-5.0 mg/dL, mean age (Intramuscular) = 54, range = 35-71mean age (Oral) = 57, range = 39‑70 | 0.015 (0.005-0.043) | 0.016 (0.007-0.052) | 10.3 (5.9-19.2) | 10.8 (3.4-18.9) |  |  |  |  |  |  |  |  |  |  |  |
-| Renal Dialysis Patients Intramuscular and Oral (n = 9) mean age = 40, range = 27-63 | 0.016 (0.003-0.036) | – | 13.6 (8.0-39.1) | – |  |  |  |  |  |  |  |  |  |  |  |
-| 1Estimated from 30 mg single intramuscular doses of ketorolac tromethamine 2Estimated from 10 mg single oral doses of ketorolac tromethamine 3Liters/hour/kilogram Intravenous-Administration: In normal subjects (n=37), the total clearance of 30 mg intravenous-administered Ketorolac Tromethamine was 0.030 (0.017-0.051) L/h/kg. The terminal half-life was 5.6 (4.0-7.9) hours. (See Kinetics in Special Populations for use of intravenous dosing of ketorolac tromethamine in pediatric patients.) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Table 2: The Influence of Age, Liver and Kidney Function, on the Clearance and Terminal Half-life of Ketorolac Tromethamine (INTRAMUSCULAR1 and ORAL2) in Adult Populations
+
+|  | Total Clearance [in L/h/kg]3 |  | Terminal Half-life [in hours] |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Type of Subjects | INTRAMUSCULARMean (range) | ORALMean (range) | INTRAMUSCULARMean (range) | ORALMean (range) |  |  |  |  |  |  |  |  |  |  |
+| Normal Subjects Intramuscular (n = 54) mean age = 32, range = 18-60 Oral (n = 77) mean age = 32, range = 20-60 | 0.023 (0.010-0.046) | 0.025 (0.013-0.050) | 5.3 (3.5-9.2) | 5.3 (2.4-9) |  |  |  |  |  |  |  |  |  |  |
+| Healthy Elderly Subjects Intramuscular (n = 13), Oral (n = 12) mean age = 72, range = 65-78 | 0.019 (0.013-0.034) | 0.024 (0.018-0.034) | 7 (4.7-8.6) | 6.1 (4.3-7.6) |  |  |  |  |  |  |  |  |  |  |
+| Patients with Hepatic Dysfunction Intramuscular and Oral (n = 7) mean age = 51, range = 43-64 | 0.029 (0.013-0.066) | 0.033 (0.019-0.051) | 5.4 (2.2-6.9) | 4.5 (1.6-7.6) |  |  |  |  |  |  |  |  |  |  |
+| Patients with Renal Impairment Intramuscular (n = 25), Oral (n = 9) serum creatinine = 1.9-5.0 mg/dL, mean age (Intramuscular) = 54, range = 35-71mean age (Oral) = 57, range = 39‑70 | 0.015 (0.005-0.043) | 0.016 (0.007-0.052) | 10.3 (5.9-19.2) | 10.8 (3.4-18.9) |  |  |  |  |  |  |  |  |  |  |
+| Renal Dialysis Patients Intramuscular and Oral (n = 9) mean age = 40, range = 27-63 | 0.016 (0.003-0.036) | – | 13.6 (8.0-39.1) | – |  |  |  |  |  |  |  |  |  |  |
+| 1 Estimated from 30 mg single intramuscular doses of ketorolac tromethamine 2 Estimated from 10 mg single oral doses of ketorolac tromethamine 3 Liters/hour/kilogram Intravenous-Administration: In normal subjects (n=37), the total clearance of 30 mg intravenous-administered Ketorolac Tromethamine was 0.030 (0.017-0.051) L/h/kg. The terminal half-life was 5.6 (4.0-7.9) hours. (See Kinetics in Special Populations for use of intravenous dosing of ketorolac tromethamine in pediatric patients.) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

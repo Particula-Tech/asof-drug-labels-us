@@ -43,7 +43,7 @@ Special Senses: abnormal taste, abnormal vision, blurred vision, hearing loss
 
 Urogenital: cystitis, dysuria, hematuria, increased urinary frequency, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure, urinary retention
 
-Other rarely observed reactions (reported from postmarketing experience in patients taking ketorolactromethamine or other NSAIDs) are:
+Other rarely observed reactions (reported from postmarketing experience in patients taking ketorolac tromethamine or other NSAIDs) are:
 
 Body as a Whole: angioedema, death, hypersensitivity reactions such as anaphylaxis, anaphylactoid reaction, laryngeal edema, tongue edema (see WARNINGS), myalgia
 
@@ -70,9 +70,12 @@ Postmarketing Surveillance Study
 A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamine, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see Tables 3A and 3B).
 This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamine (see Table 3A).
 
-| Table 3: Incidence of Clinically Serious G.I. Bleeding as Related to Age, Total Daily Dose, and History of G.I. Perforation, Ulcer, Bleeding (PUB) after up to 5 Days of Treatment with Ketorolac Tromethamine Injection |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+Table 3: Incidence of Clinically Serious G.I.
+Bleeding as Related to Age, Total Daily Dose, and History of G.I.
+Perforation, Ulcer, Bleeding (PUB) after up to 5 Days of Treatment with Ketorolac Tromethamine Injection
+
 | A. Adult Patients without History of PUB |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |  |
 | ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |  |
 | <65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |  |

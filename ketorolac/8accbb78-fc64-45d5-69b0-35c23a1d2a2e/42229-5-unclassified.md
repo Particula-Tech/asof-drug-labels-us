@@ -1,5 +1,5 @@
-Tromethamine
-
 Injection, USP
 
 FOR INTRAVENOUS/INTRAMUSCULAR USE (15 mg and 30 mg) FOR INTRAMUSCULAR USE ONLY (60 mg)
+
+Rx only
