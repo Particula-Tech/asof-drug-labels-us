@@ -2,30 +2,38 @@
 
 ASMANEX® HFA (mometasone furoate) Inhalation Aerosol
 
-How to use your ASMANEX HFA:
-
-Before using your ASMANEX HFA, read the complete instructions and use only as directed.
+Read these Instructions for Use before you start using ASMANEX HFA and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 The parts of your ASMANEX HFA:
 
-There are 2 main parts to your ASMANEX HFA inhaler: the metal canister that holds the medicine and the plastic actuator that sprays the medicine from the canister.
-The inhaler also has a cap that covers the mouthpiece of the actuator (see Figure 1).
-The cap from the mouthpiece must be removed before use.
-The inhaler contains "120" actuations (puffs).
+There are 2 main parts to your ASMANEX HFA inhaler: the metal canister that holds the medicine and the blue plastic actuator that sprays the medicine from the canister.
 
-The inhaler comes with a dose counter located on the plastic actuator (see Figure 1).
-The counter display will show the number of actuations (puffs) of medicine remaining.
-The first time you use ASMANEX HFA the dose counter will show "124" actuations remaining.
-Each time you press the canister, a puff of medicine is released and the counter will count down by 1.
-The counter will stop counting at 0.
+- The inhaler also has a pink cap that covers the mouthpiece of the actuator (see Figure 1).
+  The cap from the mouthpiece must be removed before use.
+  The inhaler contains "120" actuations (puffs).
 
-- You should not remove the canister from the actuator because reinsertion may cause the counter to count down by 1 and discharge a puff.
+- The inhaler comes with a dose counter located on the plastic actuator (see Figure 1).
+  The counter display will show the number of actuations (puffs) of medicine remaining.
+  The first time you use ASMANEX HFA the dose counter will show "124" actuations remaining.
+  Each time you press the canister, a puff of medicine is released and the counter will count down by 1.
+  The counter will stop counting at 0.
+
+Important Information:
+
+- Use ASMANEX HFA exactly as your healthcare provider tells you to.
+- Remove the cap from the mouthpiece of the actuator before using ASMANEX HFA.
+- Do not remove the canister from the actuator because:
+  - you may not receive the correct amount of medication.
+  - the dose counter may not function properly.
+  - if you try to insert the canister back into the actuator this may cause the dose counter to count down by 1 and may discharge a puff.
 - Use the ASMANEX HFA canister only with the actuator supplied with the product.
   Do not use parts of the ASMANEX HFA inhaler with parts from any other inhalation medicine.
 
 Before using your ASMANEX HFA:
 
-Remove the cap from the mouthpiece of the actuator (see Figure 2).
+Remove the cap from the mouthpiece of the actuator before using ASMANEX HFA (see Figure 2).
 Check the mouthpiece for objects before use.
 Make sure the canister is fully inserted into the actuator.
 
@@ -89,8 +97,9 @@ Routine cleaning instructions:
 
 - Remove the cap off the mouthpiece.
   Wipe the inside and outside surfaces of the actuator mouthpiece with a clean, dry, lint-free tissue or cloth.
+  Do not wash or put any parts of your inhaler in water.
   Put the cap back on the mouthpiece after cleaning.
+- Do not remove the canister from the actuator.
 - Do not attempt to unblock the actuator with a sharp object, such as a pin.
-- Do not wash or put any parts of your inhaler in water.
 
-This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.

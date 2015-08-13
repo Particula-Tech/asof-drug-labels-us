@@ -61,3 +61,14 @@ Use Daily for Best Effect
 Advise patients to use ASMANEX HFA at regular intervals, since its effectiveness depends on regular use.
 Maximum benefit may not be achieved for 1 week or longer after starting treatment.
 If symptoms do not improve after 2 weeks of therapy or if the condition worsens, instruct patients to contact their physician.
+
+Instructions for Use
+
+Instruct patients regarding the following:
+
+- Read the Patient Information before use and follow the Instructions for Use carefully.
+- Remind patients to:
+  - Remove the cap from the mouthpiece of the actuator before use.
+  - Not remove the canister from the actuator.
+  - Not wash inhaler in water.
+    The mouthpiece should be cleaned using a dry wipe after every 7 days of use.
