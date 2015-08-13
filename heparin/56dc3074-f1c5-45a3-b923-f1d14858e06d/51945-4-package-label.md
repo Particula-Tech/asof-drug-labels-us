@@ -118,15 +118,27 @@ Rx only
 
 Multidose Vials
 
-PRINCIPAL DISPLAY PANEL - 2 mL Single Dose Vial Carton
+# PRINCIPAL DISPLAY PANEL - 2 mL Single Dose Vial Label
 
-25—2 mL Single Dose Vials
+NDC 0069-0043-02
 
 HEPARIN Sodium Injection, USP
 
+2,000 USP units/2 mL (1,000 USP units/mL)
+
+Preservative-Free Single Dose Vial Rx only
+
+NOT for Lock Flush
+
+# PRINCIPAL DISPLAY PANEL - 2 mL Single Dose Vial Carton
+
+Twenty-five—2 mL Single Dose Vials
+
 NDC 0069-0043-01 Contains 25 of NDC 0069-0043-02
 
-1,000 USP units per mL 2 mL Single Dose Vials
+HEPARIN Sodium Injection, USP
+
+2,000 USP units/2 mL (1,000 USP units per mL)
 
 Derived from porcine intestinal tissue
 
@@ -134,7 +146,7 @@ For subcutaneous or intravenous use
 
 Pfizer Injectables
 
-10697000 LOT/EXP IMPRINT AREA
+PAA043615 LOT/EXP IMPRINT AREA
 
 Preservative-Free
 
@@ -142,13 +154,15 @@ NOT for Lock Flush
 
 Rx only
 
+Single Dose Vials
+
 # PRINCIPAL DISPLAY PANEL - 30 mL Multidose Vial Label
 
 NDC 0069-0137-01
 
 HEPARIN Sodium Injection, USP
 
-30,000 USP units/30mL (1,000 USP units/mL)
+30,000 USP units/30 mL (1,000 USP units/mL)
 
 Warning: Contains Benzyl Alcohol
 
