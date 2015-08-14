@@ -44,7 +44,7 @@ Genital herpes is a sexually transmitted disease.
 It causes small, painful blisters on your genital area.
 You can spread genital herpes to others, even when you have no symptoms.
 If you are sexually active, you can still pass herpes to your partner, even if you are taking valacyclovir tablets.
-Valacyclovir tablets, taken every day as prescribed and used with the following safer sex practices , can lower the chances of passing genital herpes to your partner.
+Valacyclovir tablets, taken every day as prescribed and used with the following safer sex practices, can lower the chances of passing genital herpes to your partner.
 
 - Do not have sexual contact with your partner when you have any symptom or outbreak of genital herpes.
 - Use a condom made of latex or polyurethane whenever you have sexual contact.
@@ -54,9 +54,9 @@ Who should not take valacyclovir tablets?
 Do not take valacyclovir tablets if you are allergic to any of its ingredients or to acyclovir.
 The active ingredient is valacyclovir.
 See the end of this leaflet for a complete list of ingredients in valacyclovir tablets.
-Before taking valacyclovir tablets, tell your healthcare provider: About all your medical conditions , including:
+Before taking valacyclovir tablets, tell your healthcare provider: About all your medical conditions, including:
 
-- if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV disease or “AIDS”.
+- if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV disease or "AIDS".
   Patients with these conditions may have a higher chance for getting a blood disorder called thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS).
   TTP/HUS can result in death.
 - if you have kidney problems.

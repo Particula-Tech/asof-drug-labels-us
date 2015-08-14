@@ -13,7 +13,7 @@ Recurrent Episodes: The recommended dosage of valacyclovir tablets for treatment
 Initiate treatment at the first sign or symptom of an episode.
 Suppressive Therapy: The recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
-In HIV-infected patients with a CD4+ cell count ≥100 cells/mm 3 , the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV-infected patients with a CD4+ cell count ≥100 cells/mm3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 Reduction of Transmission: The recommended dosage of valacyclovir tablets for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 Herpes Zoster: The recommended dosage of valacyclovir tablets for treatment of herpes zoster is 1 gram 3 times daily for 7 days.
 Therapy should be initiated at the earliest sign or symptom of herpes zoster and is most effective when started within 48 hours of the onset of rash.
@@ -24,7 +24,7 @@ Cold Sores (Herpes Labialis): The recommended dosage of valacyclovir tablets for
 Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 Chickenpox: The recommended dosage of valacyclovir tablets for treatment of chickenpox in immunocompetent pediatric patients 2 to <18 years of age is 20 mg/kg administered 3 times daily for 5 days.
 The total dose should not exceed 1 gram 3 times daily.
-Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)] .
+Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 ## 2.3 Extemporaneous Preparation of Oral Suspension
 
@@ -43,16 +43,16 @@ Prepare Suspension at Time of Dispensing as Follows:
 - Rinse the mortar at least 3 times with approximately 5 mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
 - Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
 - Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
-- The prepared suspension should be labeled with the following information “Shake well before using.
+- The prepared suspension should be labeled with the following information "Shake well before using.
   Store suspension between 2° to 8°C (36° to 46°F) in a refrigerator.
-  Discard after 28 days.”
+  Discard after 28 days."
 
 *The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.
 
 ## 2.4 Patients With Renal Impairment
 
-Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)] .
-Data are not available for the use of valacyclovir tablets in pediatric patients with a creatinine clearance <50 mL/min/1.73 m 2 .
+Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+Data are not available for the use of valacyclovir tablets in pediatric patients with a creatinine clearance <50 mL/min/1.73 m2.
 
 Table 1.
 Valacyclovir Tablets Dosage Recommendations for Adults With Renal Impairment

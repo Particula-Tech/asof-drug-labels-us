@@ -13,7 +13,7 @@ The efficacy and safety of valacyclovir tablets, USP for the suppression of geni
 Reduction of Transmission: Valacyclovir tablets, USP are indicated for the reduction of transmission of genital herpes in immunocompetent adults.
 The efficacy of valacyclovir tablets, USP for the reduction of transmission of genital herpes beyond 8 months in discordant couples has not been established.
 The efficacy of valacyclovir tablets, USP for the reduction of transmission of genital herpes in individuals with multiple partners and non-heterosexual couples has not been established.
-Safer sex practices should be used with suppressive therapy (see current Centers for Disease Control and Prevention [CDC] Sexually Transmitted Diseases Treatment Guidelines ).
+Safer sex practices should be used with suppressive therapy (see current Centers for Disease Control and Prevention [CDC] Sexually Transmitted Diseases Treatment Guidelines).
 Herpes Zoster: Valacyclovir tablets, USP are indicated for the treatment of herpes zoster (shingles) in immunocompetent adults.
 The efficacy of valacyclovir tablets, USP when initiated more than 72 hours after the onset of rash and the efficacy and safety of valacyclovir tablets, USP for treatment of disseminated herpes zoster have not been established.
 
@@ -22,7 +22,7 @@ The efficacy of valacyclovir tablets, USP when initiated more than 72 hours afte
 Cold Sores (Herpes Labialis): Valacyclovir tablets, USP are indicated for the treatment of cold sores (herpes labialis) in pediatric patients ≥12 years of age.
 The efficacy of valacyclovir tablets, USP initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
 Chickenpox: Valacyclovir tablets, USP are indicated for the treatment of chickenpox in immunocompetent pediatric patients 2 to <18 years of age.
-Based on efficacy data from clinical studies with oral acyclovir, treatment with valacyclovir tablets, USP should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)] .
+Based on efficacy data from clinical studies with oral acyclovir, treatment with valacyclovir tablets, USPshould be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
 
 ## 1.3 Limitations of Use
 

@@ -53,11 +53,11 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to valacyclovir hydrochloride.
 General: Facial edema, hypertension, tachycardia.
-Allergic: Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)] .
-CNS Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), (8.6)] .
+Allergic: Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)].
+CNS Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), (8.6)].
 Eye: Visual abnormalities.
 Gastrointestinal: Diarrhea.
 Hepatobiliary Tract and Pancreas: Liver enzyme abnormalities, hepatitis.
-Renal: Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5), (8.6)] .
-Hematologic: Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)] .
+Renal: Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5), (8.6)].
+Hematologic: Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
 Skin: Erythema multiforme, rashes including photosensitivity, alopecia.
