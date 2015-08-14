@@ -16,19 +16,19 @@ Who should not use ONEXTON Gel?
 
 Do not use ONEXTON Gel if you have:
 
-- had an allergic reaction to clindamycin, benzoyl peroxide, lincomycin or any of the ingredients in ONEXTON Gel.
+- •had an allergic reaction to clindamycin, benzoyl peroxide, lincomycin or any of the ingredients in ONEXTON Gel.
   See the end of this leaflet for a complete list of ingredients in ONEXTON Gel.
-- Crohn’s disease or ulcerative colitis
-- had inflammation of the colon (colitis), or severe diarrhea with past antibiotic use
+- •Crohn’s disease or ulcerative colitis
+- •had inflammation of the colon (colitis), or severe diarrhea with past antibiotic use
 
 What should I tell my doctor before using ONEXTON Gel?
 
 Before using ONEXTON Gel, tell your doctor about all of your medical conditions, including if you:
 
-- plan to have surgery with general anesthesia
-- are pregnant or plan to become pregnant.
+- •plan to have surgery with general anesthesia
+- •are pregnant or plan to become pregnant.
   It is not known if ONEXTON Gel will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if ONEXTON Gel passes into your breast milk.
   ONEXTON Gel contains the medicine clindamycin.
   Clindamycin when taken by mouth or by injection has been reported to appear in breast milk.
@@ -37,41 +37,47 @@ Before using ONEXTON Gel, tell your doctor about all of your medical conditions,
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and skin products you use.
 Using other topical acne products may increase the irritation of your skin when used with ONEXTON Gel.
 
-- Especially tell your doctor if you take a medicine that contains erythromycin.
+- •Especially tell your doctor if you take a medicine that contains erythromycin.
   ONEXTON Gel should not be used with products that contain erythromycin.
 
 How should I use ONEXTON Gel?
 
-- Use ONEXTON Gel exactly as your doctor tells you to use it.
-- Apply ONEXTON Gel to your face 1 time each day.
-- Before you apply ONEXTON Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
-- To apply ONEXTON Gel to your face, use the pump to dispense 1 pea-sized amount of ONEXTON Gel onto your fingertip (See Figure 1).
+- •Use ONEXTON Gel exactly as your doctor tells you to use it.
+- •Apply ONEXTON Gel to your face 1 time each day.
+- •Before you apply ONEXTON Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+- •To apply ONEXTON Gel to your face, use the pump to dispense 1 pea-sized amount of ONEXTON Gel onto your fingertip (See Figure 1).
   One pea-sized amount of ONEXTON Gel should be enough to cover your entire face.
-  Figure 1
-- Dot the 1 pea-sized amount of ONEXTON Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+
+| Figure 1 |
+| --- |
+
+- •Dot the 1 pea-sized amount of ONEXTON Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
   See Figure 2.
-  Figure 2
-- After applying the ONEXTON Gel this way, spread the gel over your face and gently rub it in.
+
+| Figure 2 |
+| --- |
+
+- •After applying the ONEXTON Gel this way, spread the gel over your face and gently rub it in.
   It is important to spread the gel over your whole face.
-- Wash your hands with soap and water after applying ONEXTON Gel.
-- If your doctor tells you to put ONEXTON Gel on other areas of your skin with acne, be sure to ask how much you should use.
-- Do not use more ONEXTON Gel than prescribed.
+- •Wash your hands with soap and water after applying ONEXTON Gel.
+- •If your doctor tells you to put ONEXTON Gel on other areas of your skin with acne, be sure to ask how much you should use.
+- •Do not use more ONEXTON Gel than prescribed.
 
 What should I avoid while using ONEXTON Gel?
 
-- Limit your time in sunlight.
+- •Limit your time in sunlight.
   Avoid using tanning beds or sun lamps.
   If you have to be in sunlight, wear a wide-brimmed hat or other protective clothing, and a sunscreen with SPF 15 rating or higher.
-- Avoid getting ONEXTON Gel in your hair or on colored fabric.
+- •Avoid getting ONEXTON Gel in your hair or on colored fabric.
   ONEXTON Gel may bleach hair or colored fabric.
 
 What are possible side effects with ONEXTON Gel?
 
 ONEXTON Gel may cause serious side effects, including:
 
-- Inflammation of the colon (colitis).
+- •Inflammation of the colon (colitis).
   Stop using ONEXTON Gel and call your doctor right away if you have severe watery diarrhea, or bloody diarrhea.
-- Allergic reactions.
+- •Allergic reactions.
   Stop using ONEXTON Gel, call your doctor and get help right away if you get severe itching, swelling of your face, eyes, lips, tongue or throat, or trouble breathing.
 
 The most common side effect with ONEXTON Gel is skin irritation.
@@ -87,11 +93,11 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 
 How should I store ONEXTON Gel?
 
-- Store ONEXTON Gel at room temperature at or below 77°F (25°C).
+- •Store ONEXTON Gel at room temperature at or below 77°F (25°C).
   Do not freeze.
-- Store pump upright.
-- Keep the container tightly closed.
-- The expiration date of ONEXTON Gel is 10 weeks from the date you fill your prescription.
+- •Store pump upright.
+- •Keep the container tightly closed.
+- •The expiration date of ONEXTON Gel is 10 weeks from the date you fill your prescription.
   Safely throw away expired ONEXTON Gel.
 
 Keep ONEXTON Gel and all medicines out of the reach of children.
@@ -110,7 +116,21 @@ Active ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 3.75%
 
 Inactive ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water
 
-Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA By: Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada L5N 6L6 Made in Canada
+Manufactured By:
+
+Contract Pharmaceuticals Limited, Mississauga, Ontario, Canada L5N 6L6
+
+Or
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec, H7L 4A8, Canada
+
+Manufactured for:
+
+Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+
+Made in Canada
 
 U.S. Patents 5,733,886 and 8,288,434
 
@@ -118,5 +138,14 @@ For more information about ONEXTON Gel, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+Contract Pharmaceuticals Limited PI:
+
 9389300 Rev.
 11/2014
+
+Valeant Pharmaceuticals International Inc. PI:
+
+9432701
+
+Rev.
+12/2014

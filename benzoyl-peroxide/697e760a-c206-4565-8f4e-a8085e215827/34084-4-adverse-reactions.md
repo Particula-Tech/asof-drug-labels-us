@@ -2,9 +2,9 @@
 
 The following adverse reaction is described in more detail in the Warnings and Precautions section of the label:
 
-- Colitis [see Warnings and Precautions (5.1)].
+- •Colitis [see Warnings and Precautions (5.1)].
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates observed in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -26,7 +26,7 @@ Results from the Phase 3 Trial of ONEXTON Gel 1.2%/3.75% (N = 243)
 | Burning | 5 | <1 | <1 | 7 | 1 | <1 | 3 | <1 | 0 |
 | Stinging | 5 | <1 | 0 | 7 | 0 | <1 | 3 | 0 | <1 |
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 Because postmarketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
