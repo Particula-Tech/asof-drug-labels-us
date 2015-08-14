@@ -25,7 +25,7 @@ Absorption and Bioavailability
 
 After subcutaneous injection of LANTUS in healthy subjects and in patients with diabetes, the insulin serum concentrations indicated a slower, more prolonged absorption and a relatively constant concentration/time profile over 24 hours with no pronounced peak in comparison to NPH insulin.
 
-Metabolism and Elimination:
+Metabolism and Elimination
 
 A metabolism study in humans indicates that insulin glargine is partly metabolized at the carboxyl terminus of the B chain in the subcutaneous depot to form two active metabolites with in vitro activity similar to that of human insulin, M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin).
 Unchanged drug and these degradation products are also present in the circulation.

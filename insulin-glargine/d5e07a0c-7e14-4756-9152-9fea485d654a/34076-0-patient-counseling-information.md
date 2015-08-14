@@ -38,7 +38,7 @@ Pregnancy
 
 Advise patients to inform their health care professional if they are pregnant or are contemplating pregnancy.
 
-Refer patients to the LANTUS "Patient Information" for additional information about thepotential side effects of insulin therapy, including lipodystrophy (and the need to rotate injection sites within the same body region), weight gain, allergic reactions, and hypoglycemia.
+Refer patients to the LANTUS "Patient Information" for additional information about the potential side effects of insulin therapy, including lipodystrophy (and the need to rotate injection sites within the same body region), weight gain, allergic reactions, and hypoglycemia.
 
 FDA Approved Patient Labeling
 

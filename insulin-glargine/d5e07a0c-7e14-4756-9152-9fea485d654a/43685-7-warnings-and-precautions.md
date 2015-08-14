@@ -24,7 +24,7 @@ Symptomatic awareness of hypoglycemia may be less pronounced in patients with lo
 Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulin preparations, the glucose lowering effect time course of LANTUS may vary in different individuals or at different times in the same individual and depends on may conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+As with all insulin preparations, the glucose lowering effect time course of LANTUS may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
 Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
 Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [See Use in Specific Populations (8.6, 8.7)].
 
