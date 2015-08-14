@@ -6,4 +6,6 @@ Distributed by:
 
 Cubist Pharmaceuticals U.S. Lexington, MA 02421 USA
 
-November 2014
+July 2015
+
+uspi-mk3009-i-1507r000
