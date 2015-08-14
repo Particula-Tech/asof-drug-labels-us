@@ -4,7 +4,7 @@ ZERBAXA (ceftolozane and tazobactam) is an antibacterial combination product con
 
 Ceftolozane sulfate is a semi-synthetic antibacterial drug of the beta-lactam class for parenteral administration.
 The chemical name of ceftolozane sulfate is 1H-Pyrazolium, 5-amino-4-[[[(2-aminoethyl)amino]carbonyl]amino]-2-[[(6R,7R)-7-[[(2Z)-2-(5-amino-1,2,4-thiadiazol-3-yl)-2-[(1-carboxy-1-methylethoxy)imino]acetyl]amino]-2-carboxy-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-en-3-yl]methyl]-1-methyl-,sulfate (1:1).
-The molecular formula is C23H31N12O8S2+•HSO4- and the molecular weight is 764.77.
+The molecular formula is C23H31N12O8S2+∙HSO4- and the molecular weight is 764.77.
 
 Figure 1: Chemical structure of ceftolozane sulfate
 
@@ -14,5 +14,5 @@ The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
 
 Figure 2: Chemical structure of tazobactam sodium
 
-ZERBAXA 1.5 g (ceftolozane and tazobactam) for injection is a white to yellow sterile powder for reconstitution consisting of ceftolozane 1g (equivalent to 1.147 g of ceftolozane sulfate) and tazobactam 0.5 g (equivalent to 0.537 g of tazobactam sodium) per vial, packaged in single-dose glass vials.
+ZERBAXA 1.5 g (ceftolozane and tazobactam) for injection is a white to yellow sterile powder for reconstitution consisting of ceftolozane 1 g (equivalent to 1.147 g of ceftolozane sulfate) and tazobactam 0.5 g (equivalent to 0.537 g of tazobactam sodium) per vial, packaged in single-dose glass vials.
 The product contains sodium chloride (487 mg/vial) as a stabilizing agent, citric acid (21 mg/vial), and L-arginine (approximately 600 mg/vial) as excipients.

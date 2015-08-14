@@ -48,10 +48,10 @@ Table 10: Clinical Cure Rates by Pathogen in a Phase 3 Trial of Complicated Intr
 
 In a subset of the E. coli and K. pneumoniae isolates from both arms of the cIAI Phase 3 trial that met pre-specified criteria for beta-lactam susceptibility, genotypic testing identified certain ESBL groups (e.g., TEM, SHV, CTX-M, OXA) in 53/601 (9%).
 Cure rates in this subset were similar to the overall trial results.
-In vitro susceptibility testing showed that some of these isolates were susceptible to ZERBAXA (MIC ≤ 2 mcg/mL), while some others were not susceptible (MIC > 2 mcg/mL).
+In vitro susceptibility testing showed that some of these isolates were susceptible to ZERBAXA (MIC ≤ 2 mcg/mL), while some others were not susceptible (MIC >2 mcg/mL).
 Isolates of a specific genotype were seen in patients who were deemed to be either successes or failures.
 
-## 14.2 Complicated Urinary Tract Infections, including Pyelonephritis
+## 14.2 Complicated Urinary Tract Infections, Including Pyelonephritis
 
 A total of 1068 adults hospitalized with cUTI (including pyelonephritis) were randomized and received study medications in a multinational, double-blind study comparing ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) intravenously every 8 hours to levofloxacin (750 mg intravenously once daily) for 7 days of therapy.
 The primary efficacy endpoint was defined as complete resolution or marked improvement of the clinical symptoms and microbiological eradication (all uropathogens found at baseline at ≥105 were reduced to <104 CFU/mL) at the test-of-cure (TOC) visit 7 (± 2) days after the last dose of study drug.
@@ -90,5 +90,5 @@ Table 12: Composite Microbiological and Clinical Cure Rates in a Phase 3 Trial o
 
 In a subset of the E. coli and K. pneumoniae isolates from both arms of the cUTI Phase 3 trial that met pre-specified criteria for beta-lactam susceptibility, genotypic testing identified certain ESBL groups (e.g., TEM, SHV, CTX-M, OXA) in 104/687 (15%).
 Cure rates in this subset were similar to the overall trial results.
-In vitro susceptibility testing showed that some of these isolates were susceptible to ZERBAXA (MIC ≤ 2 mcg/mL), while some others were not susceptible (MIC > 2 mcg/mL).
+In vitro susceptibility testing showed that some of these isolates were susceptible to ZERBAXA (MIC ≤2 mcg/mL), while some others were not susceptible (MIC >2 mcg/mL).
 Isolates of a specific genotype were seen in patients who were deemed to be either successes or failures.

@@ -1,4 +1,9 @@
-Distributed by: Cubist Pharmaceuticals U.S. Lexington, MA 02421 USA
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-©2015 Cubist Pharmaceuticals.
-All rights reserved.
+Manufactured by: Steri-Pharma, LLC Syracuse, NY 13202, USA
+
+For patent information: www.merck.com/product/patent/home.html
+
+Copyright © 2015 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+uspi-mk7625a-iv-1507r000

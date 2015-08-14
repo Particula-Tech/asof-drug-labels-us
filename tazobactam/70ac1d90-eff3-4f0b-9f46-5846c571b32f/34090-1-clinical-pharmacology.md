@@ -22,14 +22,14 @@ Pharmacokinetic parameters were similar for single- and multiple-dose administra
 
 Table 6: Mean (CV%) Plasma Pharmacokinetic Parameters of ZERBAXA (ceftolozane and tazobactam) After Single and Multiple Intravenous 1-hour Infusions of ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) Every 8 Hours in Healthy Adults
 
-| Day 1 (n=9)N = 9, one outlier subject excluded from descriptive statistics | Day 10 (n=10) | Day 1 (n=9) | Day 10 (n=10) |  |
+| Day 1 (n=9)N=9, one outlier subject excluded from descriptive statistics | Day 10 (n=10) | Day 1 (n=9) | Day 10 (n=10) |  |
 | --- | --- | --- | --- | --- |
 | PK parameters | ZERBAXA 1.5 g (ceftolozane 1 g and tazobactam 0.5 g) every 8 hours |  |  |  |
 | Ceftolozane |  | Tazobactam |  |  |
 | Cmax (mcg/mL) | 69.1 (11) | 74.4 (14) | 18.4 (16) | 18 (8) |
 | tmax (h)Median (minimum, maximum) presented | 1.02 (1.01, 1.1) | 1.07 (1, 1.1) | 1.02 (0.99, 1.03) | 1.01 (1, 1.1) |
-| AUC (mcg•h/mL)AUC for Day 1 = AUClast and AUC for Day 10 = steady state AUC (AUCτ,ss). Daily AUC at steady state is calculated by multiplying the Day 10 AUC values by three (e.g., 546 mcg•h/mL for ceftolozane and 75 mcg•h/mL for tazobactam) | 172 (14) | 182 (15) | 24.4 (18) | 25 (15) |
-| t½ (h) | 2.77 (30) | 3.12 (22) | 0.91 (26)N = 8, one subject excluded from descriptive statistics as the concentration-time profile did not exhibit a terminal log-linear phase and t½ could not be calculated | 1.03 (19) |
+| AUC (mcg∙h/mL)AUC for Day 1 = AUClast and AUC for Day 10 = steady state AUC (AUCΤ,SS). Daily AUC at steady state is calculated by multiplying the Day 10 AUC values by three (e.g., 546 mcg∙h/mL for ceftolozane and 75 mcg∙h/mL for tazobactam) | 172 (14) | 182 (15) | 24.4 (18) | 25 (15) |
+| t½ (h) | 2.77 (30) | 3.12 (22) | 0.91 (26)N=8, one subject excluded from descriptive statistics as the concentration-time profile did not exhibit a terminal log-linear phase and t½ could not be calculated | 1.03 (19) |
 
 The Cmax and AUC of ZERBAXA increase in proportion to dose.
 Plasma levels of ZERBAXA do not increase appreciably following multiple intravenous infusions of ZERBAXA up to 3 g (ceftolozane 2 g and tazobactam 1 g) administered every 8 hours for up to 10 days in healthy adults with normal renal function.
@@ -143,12 +143,12 @@ Clinical isolates may produce multiple beta-lactamases, express varying levels o
 Culture and susceptibility information and local epidemiology should be considered in selecting or modifying antibacterial therapy.
 
 ZERBAXA demonstrated in vitro activity against Enterobacteriaceae in the presence of some extended-spectrum beta-lactamases (ESBLs) and other beta-lactamases of the following groups: TEM, SHV, CTX-M, and OXA.
-ZERBAXA is not active against bacteria that produce serine carbapenemases [K. pneumoniae carbapenemase (KPC)], and metallo-beta lactamases.
+ZERBAXA is not active against bacteria that produce serine carbapenemases [K. pneumoniae carbapenemase (KPC)], and metallo-beta-lactamases.
 
-In ZERBAXA clinical trials, some isolates of E. coli and K. pneumoniae, that produced beta-lactamases, were susceptible to ZERBAXA (minimum inhibitory concentration ≤ 2 mcg/mL).
+In ZERBAXA clinical trials, some isolates of E. coli and K. pneumoniae, that produced beta-lactamases, were susceptible to ZERBAXA (minimum inhibitory concentration ≤2 mcg/mL).
 These isolates produced one or more beta-lactamases of the following enzyme groups: CTX-M, OXA, TEM, or SHV.
 
-Some of these beta-lactamases were also produced by isolates of E. coli and K. pneumoniae that were not susceptible to ZERBAXA (minimum inhibitory concentration > 2 mcg/mL).
+Some of these beta-lactamases were also produced by isolates of E. coli and K. pneumoniae that were not susceptible to ZERBAXA (minimum inhibitory concentration >2 mcg/mL).
 These isolates produced one or more beta-lactamases of the following enzyme groups: CTX-M, OXA, TEM, or SHV.
 
 ZERBAXA demonstrated in vitro activity against P. aeruginosa isolates tested that had chromosomal AmpC, loss of outer membrane porin (OprD), or up-regulation of efflux pumps (MexXY, MexAB).
@@ -159,7 +159,7 @@ Isolates resistant to other cephalosporins may be susceptible to ZERBAXA, althou
 
 Interaction with Other Antimicrobials
 
-In vitro synergy studies suggest no antagonism between ZERBAXA and other antibacterial drugs (e.g., meropenem, amikacin, aztreonam, levofloxacin, tigecycline rifampin, linezolid, daptomycin, vancomycin, and metronidazole).
+In vitro synergy studies suggest no antagonism between ZERBAXA and other antibacterial drugs (e.g., meropenem, amikacin, aztreonam, levofloxacin, tigecycline, rifampin, linezolid, daptomycin, vancomycin, and metronidazole).
 
 List of Microorganisms
 
@@ -167,40 +167,67 @@ ZERBAXA has been shown to be active against the following bacteria, both in vitr
 
 Complicated Intra-abdominal Infections
 
-Gram-negative bacteria
+Gram-negative bacteria:
 
-Enterobacter cloacae Escherichia coli Klebsiella oxytoca Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
+- Enterobacter cloacae
+- Escherichia coli
+- Klebsiella oxytoca
+- Klebsiella pneumoniae
+- Proteus mirabilis
+- Pseudomonas aeruginosa
 
-Gram-positive bacteria
+Gram-positive bacteria:
 
-Streptococcus anginosus Streptococcus constellatus Streptococcus salivarius
+- Streptococcus anginosus
+- Streptococcus constellatus
+- Streptococcus salivarius
 
-Anaerobic bacteria
+Anaerobic bacteria:
 
-Bacteroides fragilis
+- Bacteroides fragilis
 
 Complicated Urinary Tract Infections, Including Pyelonephritis
 
-Gram-negative bacteria
+Gram-negative bacteria:
 
-Escherichia coli Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
+- Escherichia coli
+- Klebsiella pneumoniae
+- Proteus mirabilis
+- Pseudomonas aeruginosa
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 2 mcg/mL for ceftolozane and tazobactam.
 The safety and effectiveness of ZERBAXA in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-Gram-negative bacteria
+Gram-negative bacteria:
 
-Acinetobacter baumannii Burkholderia cepacia Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Haemophilus influenzae Moraxella catarrhalis Morganella morganii Pantoea agglomerans Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia liquefacians Serratia marcescens
+- Acinetobacter baumannii
+- Burkholderia cepacia
+- Citrobacter freundii
+- Citrobacter koseri
+- Enterobacter aerogenes
+- Enterobacter cloacae
+- Haemophilus influenzae
+- Moraxella catarrhalis
+- Morganella morganii
+- Pantoea agglomerans
+- Proteus vulgaris
+- Providencia rettgeri
+- Providencia stuartii
+- Serratia liquefaciens
+- Serratia marcescens
 
-Gram-positive bacteria
+Gram-positive bacteria:
 
-Streptococcus agalactiae Streptococcus intermedius Streptococcus pyogenes Streptococcus pneumoniae
+- Streptococcus agalactiae
+- Streptococcus intermedius
+- Streptococcus pyogenes
+- Streptococcus pneumoniae
 
-Anaerobic bacteria
+Anaerobic bacteria:
 
-Fusobacterium spp.
-Prevotella spp.
+- Fusobacterium spp.
+- Prevotella spp.
 
 Susceptibility Test Methods
 
@@ -227,7 +254,7 @@ For anaerobic bacteria, the susceptibility to ceftolozane and tazobactam can be 
 
 Table 7: Susceptibility Interpretive Criteria for Ceftolozane/Tazobactam
 
-|  | S | I | R | S | I | R |
+| S | I | R | S | I | R |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
 | Enterobacteriaceae | ≤2/4 | 4/4 | ≥8/4 | --- | --- | --- |

@@ -6,7 +6,7 @@ ZERBAXA™ (ceftolozane and tazobactam) for injection is indicated for the treat
 
 ZERBAXA used in combination with metronidazole is indicated for the treatment of complicated intra-abdominal infections (cIAI) caused by the following Gram-negative and Gram-positive microorganisms: Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, and Streptococcus salivarius.
 
-## 1.2 Complicated Urinary Tract Infections, including Pyelonephritis
+## 1.2 Complicated Urinary Tract Infections, Including Pyelonephritis
 
 ZERBAXA is indicated for the treatment of complicated urinary tract infections (cUTI), including pyelonephritis, caused by the following Gram-negative microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, and Pseudomonas aeruginosa.
 

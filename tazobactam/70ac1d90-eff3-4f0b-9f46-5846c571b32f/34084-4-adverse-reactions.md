@@ -54,24 +54,14 @@ Less Common Adverse Reactions
 
 The following selected adverse reactions were reported in ZERBAXA-treated subjects at a rate of less than 1%:
 
-Cardiac disorders: tachycardia, angina pectoris
-
-Gastrointestinal disorders: ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic
-
-General disorders and administration site conditions: infusion site reactions
-
-Infections and infestations: candidiasis, oropharyngeal, fungal urinary tract infection
-
-Investigations: increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test
-
-Metabolism and nutrition disorders: hyperglycemia, hypomagnesemia, hypophosphatemia
-
-Nervous system disorders: ischemic stroke
-
-Renal and urinary system: renal impairment, renal failure
-
-Respiratory, thoracic and mediastinal disorders: dyspnea
-
-Skin and subcutaneous tissue disorders: urticaria
-
-Vascular disorders: venous thrombosis
+- Cardiac disorders: tachycardia, angina pectoris
+- Gastrointestinal disorders: ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic
+- General disorders and administration site conditions: infusion site reactions
+- Infections and infestations: candidiasis, oropharyngeal, fungal urinary tract infection
+- Investigations: increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test
+- Metabolism and nutrition disorders: hyperglycemia, hypomagnesemia, hypophosphatemia
+- Nervous system disorders: ischemic stroke
+- Renal and urinary system: renal impairment, renal failure
+- Respiratory, thoracic and mediastinal disorders: dyspnea
+- Skin and subcutaneous tissue disorders: urticaria
+- Vascular disorders: venous thrombosis
