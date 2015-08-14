@@ -24,19 +24,27 @@ NEUPOGEN is contraindicated in patients with a history of serious allergic react
 
 Sickle cell crisis, in some cases fatal, has been reported with the use of NEUPOGEN in patients with sickle cell trait or sickle cell disease.
 
-## 5.5 Alveolar Hemorrhage and Hemoptysis
+## 5.5 Glomerulonephritis
+
+Glomerulonephritis has occurred in patients receiving NEUPOGEN.
+The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
+Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of NEUPOGEN.
+If glomerulonephritis is suspected, evaluate for cause.
+If causality is likely, consider dose-reduction or interruption of NEUPOGEN.
+
+## 5.6 Alveolar Hemorrhage and Hemoptysis
 
 Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization have been reported in NEUPOGEN-treated healthy donors undergoing peripheral blood progenitor cell (PBPC) collection mobilization.
 Hemoptysis resolved with discontinuation of NEUPOGEN.
 The use of NEUPOGEN for PBPC mobilization in healthy donors is not an approved indication.
 
-## 5.6 Capillary Leak Syndrome
+## 5.7 Capillary Leak Syndrome
 
 Capillary leak syndrome (CLS) has been reported after G-CSF administration, including NEUPOGEN, and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration.
 Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
 Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
 
-## 5.7 Patients with Severe Chronic Neutropenia
+## 5.8 Patients with Severe Chronic Neutropenia
 
 Confirm the diagnosis of SCN before initiating NEUPOGEN therapy.
 
@@ -47,23 +55,22 @@ Abnormal cytogenetics and MDS have been associated with the eventual development
 The effect of NEUPOGEN on the development of abnormal cytogenetics and the effect of continued NEUPOGEN administration in patients with abnormal cytogenetics or MDS are unknown.
 If a patient with SCN develops abnormal cytogenetics or myelodysplasia‚ the risks and benefits of continuing NEUPOGEN should be carefully considered.
 
-## 5.8 Thrombocytopenia
+## 5.9 Thrombocytopenia
 
 Thrombocytopenia has been reported in patients receiving NEUPOGEN.
 Monitor platelet counts.
 
-## 5.9 Leukocytosis
+## 5.10 Leukocytosis
 
 Patients with Cancer Receiving Myelosuppressive Chemotherapy White blood cell counts of 100‚000/mm3 or greater were observed in approximately 2% of patients receiving NEUPOGEN at dosages above 5 mcg/kg/day.
 In patients with cancer receiving NEUPOGEN as an adjunct to myelosuppressive chemotherapy‚ to avoid the potential risks of excessive leukocytosis‚ it is recommended that NEUPOGEN therapy be discontinued if the ANC surpasses 10‚000/mm3 after the chemotherapy-induced ANC nadir has occurred.
 Monitor CBCs at least twice weekly during therapy.
 Dosages of NEUPOGEN that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
-
 In patients with cancer receiving myelosuppressive chemotherapy‚ discontinuation of NEUPOGEN therapy usually resulted in a 50% decrease in circulating neutrophils within 1 to 2 days‚ with a return to pretreatment levels in 1 to 7 days.
 
 Peripheral Blood Progenitor Cell Collection and Therapy During the period of administration of NEUPOGEN for PBPC mobilization in patients with cancer, discontinue NEUPOGEN if the leukocyte count rises to > 100,000/mm3.
 
-## 5.10 Cutaneous Vasculitis
+## 5.11 Cutaneous Vasculitis
 
 Cutaneous vasculitis has been reported in patients treated with NEUPOGEN.
 In most cases‚ the severity of cutaneous vasculitis was moderate or severe.
@@ -71,17 +78,17 @@ Most of the reports involved patients with SCN receiving long-term NEUPOGEN ther
 Hold NEUPOGEN therapy in patients with cutaneous vasculitis.
 NEUPOGEN may be started at a reduced dose when the symptoms resolve and the ANC has decreased.
 
-## 5.11 Potential Effect on Malignant Cells
+## 5.12 Potential Effect on Malignant Cells
 
 NEUPOGEN is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony stimulating factor (G-CSF) receptor through which filgrastim acts has also been found on tumor cell lines.
+The granulocyte-colony-stimulating factor (G-CSF) receptor through which filgrastim acts has also been found on tumor cell lines.
 The possibility that filgrastim acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
 When NEUPOGEN is used to mobilize PBPC‚ tumor cells may be released from the marrow and subsequently collected in the leukapheresis product.
 The effect of reinfusion of tumor cells has not been well studied‚ and the limited data available are inconclusive.
 
-## 5.12 Simultaneous Use with Chemotherapy and Radiation Therapy Not Recommended
+## 5.13 Simultaneous Use with Chemotherapy and Radiation Therapy Not Recommended
 
 The safety and efficacy of NEUPOGEN given simultaneously with cytotoxic chemotherapy have not been established.
 Because of the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy‚ do not use NEUPOGEN in the period 24 hours before through 24 hours after the administration of cytotoxic chemotherapy [see Dosage and Administration (2.2)].
@@ -89,7 +96,7 @@ Because of the potential sensitivity of rapidly dividing myeloid cells to cytoto
 The safety and efficacy of NEUPOGEN have not been evaluated in patients receiving concurrent radiation therapy.
 Avoid the simultaneous use of NEUPOGEN with chemotherapy and radiation therapy.
 
-## 5.13 Nuclear Imaging
+## 5.14 Nuclear Imaging
 
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.

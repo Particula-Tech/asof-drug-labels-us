@@ -6,19 +6,18 @@ The following serious adverse reactions are discussed in greater detail in other
 - Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
 - Serious Allergic Reactions [see Warnings and Precautions (5.3)]
 - Sickle Cell Disorders [see Warnings and Precautions (5.4)]
-- Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.5)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.6)]
-- Thrombocytopenia [see Warnings and Precautions (5.8)]
-- Leukocytosis [see Warnings and Precautions (5.9)]
-- Cutaneous Vasculitis [see Warnings and Precautions (5.10)]
+- Glomerulonephritis [See Warnings and Precautions (5.5)]
+- Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.6)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
+- Thrombocytopenia [see Warnings and Precautions (5.9)]
+- Leukocytosis [see Warnings and Precautions (5.10)]
+- Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherapy
-
-The following adverse reaction data in Table 2 are from three randomized, placebo-controlled studies in patients with:
+Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherapy The following adverse reaction data in Table 2 are from three randomized, placebo-controlled studies in patients with:
 
 - small cell lung cancer receiving standard dose chemotherapy with cyclophosphamide‚ doxorubicin‚ and etoposide (Study 1)
 - small cell lung cancer receiving ifosfamide, doxorubicin‚ and etoposide (Study 2), and
@@ -133,9 +132,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - acute respiratory distress syndrome [see Warnings and Precautions (5.2)]
 - anaphylaxis [see Warnings and Precautions (5.3)]
 - sickle cell disorders [see Warnings and Precautions (5.4)]
-- alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.5)]
-- capillary leak syndrome [see Warnings and Precautions (5.6)]
-- leukocytosis [see Warnings and Precautions (5.9)]
-- cutaneous vasculitis [see Warnings and Precautions (5.10)]
+- glomerulonephritis [see Warnings and Precautions (5.5)]
+- alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.6)]
+- capillary leak syndrome [see Warnings and Precautions (5.7)]
+- leukocytosis [see Warnings and Precautions (5.10)]
+- cutaneous vasculitis [see Warnings and Precautions (5.11)]
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with NEUPOGEN

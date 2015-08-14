@@ -1,38 +1,65 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - vial, 300 mcg
+# PRINCIPAL DISPLAY PANEL
 
-10 x 1 mL Single Use Vials NDC 55513-530-10
+NDC 55513-530-10
 
-AMGEN®
+10 – 1 mL Single Use Vials
 
-Neupogen® Filgrastim A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
+Amgen®
+
+Neupogen®
+
+Filgrastim
+
+A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 300 mcg
 
-300 mcg/1 mL (3 x 107 Units/1 mL) For Subcutaneous or Intravenous Use Only Sterile Solution – No Preservative
+300 mcg/1 mL
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+(3 x 107 Units/1 mL)
+
+For Subcutaneous or Intravenous Use Only
+
+Sterile Solution – No Preservative
+
+Refrigerate at 2º to 8ºC (36º to 46ºF).
+
 Avoid Shaking.
 
-Amgen Inc. Thousand Oaks, CA 91320 U.S.A U.S. License No. 1080
+Amgen Inc. Thousand Oaks, CA 91320 U.S.A.
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - vial, 480 mcg
+U.S. License No. 1080
 
-10 x 1.6 mL Single Use Vials NDC 55513-546-10
+# PRINCIPAL DISPLAY PANEL
+
+NDC 55513-546-10
+
+10 – 1.6 mL Single Use Vials
 
 AMGEN®
 
-Neupogen® Filgrastim A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
+Neupogen®
+
+Filgrastim
+
+A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 480 mcg
 
-480 mcg/1.6 mL 300 mcg/1 mL (3 x 107 Units/1 mL) For Subcutaneous or Intravenous Use Only Sterile Solution – No Preservative
+480 mcg/1.6 mL 300 mcg/1 mL (3 x 107 Units/1 mL)
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+For Subcutaneous or Intravenous Use Only
+
+Sterile Solution – No Preservative
+
+Refrigerate at 2º to 8ºC (36º to 46ºF).
 Avoid Shaking.
 
-Amgen Inc. Thousand Oaks, CA 91320 U.S.A U.S. License No. 1080
+Amgen Inc. Thousand Oaks, CA 91320 U.S.A.
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - prefilled syringe, 300 mcg (1)
+U.S. License No. 1080
+
+# PRINCIPAL DISPLAY PANEL
 
 NDC 55513-924-91
 
@@ -58,7 +85,7 @@ This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+Refrigerate at 2º to 8ºC (36º to 46ºF).
 Avoid Shaking.
 
 Rx Only
@@ -67,7 +94,7 @@ Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
 
 Thousand Oaks, CA 91320 U.S.A.
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - prefilled syringe, 300 mcg (10)
+# PRINCIPAL DISPLAY PANEL
 
 NDC 55513-924-10
 
@@ -93,7 +120,7 @@ This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+Refrigerate at 2º to 8ºC (36º to 46ºF).
 Avoid Shaking.
 
 Rx Only
@@ -104,7 +131,7 @@ Thousand Oaks, CA 91320 U.S.A.
 
 U.S. License No. 1080
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - syringe, 480 mcg (1)
+# PRINCIPAL DISPLAY PANEL
 
 NDC 55513-209-91
 
@@ -130,7 +157,7 @@ This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+Refrigerate at 2º to 8ºC (36º to 46ºF).
 Avoid Shaking.
 
 Rx Only
@@ -141,7 +168,7 @@ Thousand Oaks, CA 91320 U.S.A.
 
 U.S. License No. 1080
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - prefilled syringe, 480 mcg (10)
+# PRINCIPAL DISPLAY PANEL
 
 NDC 55513-209-10
 
@@ -167,7 +194,7 @@ This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+Refrigerate at 2º to 8ºC (36º to 46ºF).
 Avoid Shaking.
 
 Rx Only

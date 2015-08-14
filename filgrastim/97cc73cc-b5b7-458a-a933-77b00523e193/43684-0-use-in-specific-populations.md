@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category C
 
@@ -17,7 +17,7 @@ In pregnant rats, no maternal or fetal effects were observed at doses up to 575 
 
 Offspring of rats administered filgrastim during the peri-natal and lactation periods exhibited a delay in external differentiation and growth retardation (≥ 20 mcg/kg/day) and slightly reduced survival rate (100 mcg/kg/day).
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 It is not known whether NEUPOGEN is excreted in human milk.
 Because many drugs are excreted in human milk‚ caution should be exercised if NEUPOGEN is administered to women who are breastfeeding.
@@ -39,7 +39,7 @@ Long-term follow-up data from the postmarketing surveillance study suggest that 
 Limited data from patients who were followed in the phase 3 study for 1.5 years did not suggest alterations in sexual maturation or endocrine function.
 
 Pediatric patients with congenital types of neutropenia (Kostmann’s syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic NEUPOGEN treatment.
-The relationship of these events to NEUPOGEN administration is unknown [see Warnings and Precautions (5.7) and Adverse Reactions (6)].
+The relationship of these events to NEUPOGEN administration is unknown [see Warnings and Precautions (5.8) and Adverse Reactions (6)].
 
 The use of NEUPOGEN to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on studies conducted in animals and clinical data supporting the use of NEUPOGEN in other approved indications [see Dosage and Administration (2.1 to 2.4) and Clinical Studies (14.6)].
 

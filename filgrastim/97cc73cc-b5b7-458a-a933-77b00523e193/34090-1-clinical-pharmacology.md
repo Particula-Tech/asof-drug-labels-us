@@ -11,7 +11,7 @@ G-CSF is not species-specific and has been shown to have minimal direct in vivo 
 ## 12.2 Pharmacodynamics
 
 In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ NEUPOGEN administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.
-This increase in neutrophil counts was observed whether NEUPOGEN was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily)‚or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
+This increase in neutrophil counts was observed whether NEUPOGEN was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily)‚ or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
 With discontinuation of NEUPOGEN therapy‚ neutrophil counts returned to baseline in most cases within 4 days.
 Isolated neutrophils displayed normal phagocytic (measured by zymosan-stimulated chemoluminescence) and chemotactic (measured by migration under agarose using N-formyl-methionyl-leucyl-phenylalanine [fMLP] as the chemotaxin) activity in vitro.
 
@@ -39,9 +39,9 @@ The absolute bioavailability of filgrastim after subcutaneous administration is 
 
 Specific Populations
 
-Patients Acutely Exposed to Myelosuppressive doses of Radiation The pharmacokinetics of filgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
+Patients Acutely Exposed to Myelosuppressive Doses of Radiation The pharmacokinetics of filgrastim is not available in patients acutely exposed to myelosuppressive doses of radiation.
 Based on limited pharmacokinetics data in irradiated non-human primates, the area under the time-concentration curve (AUC), reflecting the exposure to filgrastim in non-human primates at 10 mcg/kg dose of NEUPOGEN, appears to be similar to that in humans at 5 mcg/kg.
-Simulations conducted using the population pharmacokinetic model indicates that the exposures to filgrastim at a Neupogen dose of 10 mcg/kg in patients acutely exposed to myelosuppressive doses of radiation are expected to exceed the exposures at a dose of 10 mcg/kg in irradiated non-human primates.
+Simulations conducted using the population pharmacokinetic model indicates that the exposures to filgrastim at a NEUPOGEN dose of 10 mcg/kg in patients acutely exposed to myelosuppressive doses of radiation are expected to exceed the exposures at a dose of 10 mcg/kg in irradiated non-human primates.
 
 Pediatric Patients The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim [see Use in Specific Populations (8.4)].
 
