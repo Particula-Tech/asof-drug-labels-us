@@ -2,11 +2,11 @@ ATTENTION PHARMACISTS: Detach “Patient’s Instructions for Use” from packag
 
 Prescribing Information
 
-# IPRATROPIUM BROMIDE Nasal Solution 0.06% NASAL SPRAY 21 mcg/spray
+# IPRATROPIUM BROMIDE Nasal Solution 0.06% NASAL SPRAY 42 mcg/spray
 
 Read complete instructions carefully before using.
 
-In order to ensure proper dosing, do not attempt to change the size of the spray open- ing.
+In order to ensure proper dosing, do not attempt to change the size of the spray opening.
 
 Ipratropium Bromide Nasal Spray 0.06% is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with the common cold or seasonal allergic rhinitis for adults and children age 5 years and older.
 Ipratropium Bromide Nasal Spray 0.06% does not relieve nasal congestion or sneezing, associated with the common cold or seasonal allergic rhinitis.
