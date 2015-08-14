@@ -4,16 +4,20 @@ Ceftriaxone in the ADD-Vantage® Vial is intended for intravenous infusion only,
 
 Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
+
 Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
-However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see WARNINGS).
+However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (seeWARNINGS).
 
 There have been no reports of an interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
 
 ## Neonates
 
-Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone for injection (see CONTRAINDICATIONS).
+Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone for injection.
+Ceftriaxone is contraindicated in premature neonates (see CONTRAINDICATIONS).
 
-Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CONTRAINDICATIONS).
+Ceftriaxone is contraindicated in neonates (≤ 28 days) if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CONTRAINDICATIONS).
+
+Intravenous doses should be given over 60 minutes in neonates to reduce the risk of bilirubin encephalopathy.
 
 ## Pediatric Patients
 
@@ -50,18 +54,23 @@ The usual duration of therapy is 4 to 14 days; in complicated infections, longer
 
 When treating infections caused by Streptococcus pyogenes, therapy should be continued for at least 10 days.
 
-No dosage adjustment is necessary for patients with impairment of renal or hepatic function.
+No dosage adjustment is necessary for patients with impairment of renal or hepatic function (see PRECAUTIONS).
+
+The dosages recommended for adults require no modification in elderly patients, up to 2 g per day, provided there is no severe renal and hepatic impairment (see PRECAUTIONS).
 
 ## Directions for Use
 
 ### Intravenous Administration
 
-Ceftriaxone should be administered intravenously by infusion over a period of 30 minutes
+Ceftriaxone should be administered intravenously by infusion over a period of 30 minutes, except in neonates where administration over 60 minutes is recommended to reduce the risk of bilirubin encephalopathy.
 
 ADD-Vantage® Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 g or 2 g ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage® Flexible Diluent Container.
 (See Instructions For Use of the ADD-Vantage® System at the end of this package insert.)
 
 ## Compatibility and Stability
+
+Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone for injection vials or to further dilute a reconstituted vial for IV administration.
+Particulate formation can result.
 
 Ceftriaxone has been shown to be compatible with Flagyl® IV (metronidazole hydrochloride).
 The concentration should not exceed 5 to 7.5 mg/mL metronidazole hydrochloride with ceftriaxone 10 mg/mL as an admixture.
@@ -70,13 +79,10 @@ No compatibility studies have been conducted with the Flagyl® IV RTU® (metroni
 Metronidazole at concentrations greater than 8 mg/mL will precipitate.
 Do not refrigerate the admixture as precipitation will occur.
 
-Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures.
+Vancomycin, amsacrine, aminoglycosides, and fluconazole are incompatible with ceftriaxone in admixtures.
 When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
 
-Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone for injection.
-Particulate formation can result.
-
-Ceftriaxone solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to the possible incompatibility (see WARNINGS).
+Ceftriaxone for injection solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to possible incompatibility (see WARNINGS).
 
 Ceftriaxone sodium sterile powder should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] and protected from light.
 After reconstitution, protection from normal light is not necessary.

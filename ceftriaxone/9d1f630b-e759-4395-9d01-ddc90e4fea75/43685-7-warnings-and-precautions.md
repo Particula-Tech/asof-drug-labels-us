@@ -1,13 +1,14 @@
 # WARNINGS
 
-## Hypersensitivity
+## Hypersensitivity Reactions
 
-BEFORE THERAPY WITH CEFTRIAXONE IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEPHALOSPORINS, PENICILLINS OR OTHER DRUGS.
-THIS PRODUCT SHOULD BE GIVEN CAUTIOUSLY TO PENICILLIN-SENSITIVE PATIENTS.
-ANTIBIOTICS SHOULD BE ADMINISTERED WITH CAUTION TO ANY PATIENT WHO HAS DEMONSTRATED SOME FORM OF ALLERGY, PARTICULARLY TO DRUGS.
-SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPINEPHRINE AND OTHER EMERGENCY MEASURES.
+Before therapy with ceftriaxone for injection is instituted, careful inquiry should be made to determine whether the patient has had previous hypersensitivity reactions to cephalosporins, penicillins and other beta-lactam agents or other drugs.
+This product should be given cautiously to penicillin and other beta-lactam agent-sensitive patients.
+Antibacterial drugs should be administered with caution to any patient who has demonstrated some form of allergy, particularly to drugs.
+Serious acute hypersensitivity reactions may require the use of subcutaneous epinephrine and other emergency measures.
 
-As with other cephalosporins, anaphylactic reactions with fatal outcome have been reported, even if a patient is not known to be allergic or previously exposed.
+As with all beta-lactam antibacterial agents, serious and occasionally fatal hypersensitivity reactions (i.e., anaphylaxis) have been reported.
+In case of severe hypersensitivity reactions, treatment with ceftriaxone must be discontinued immediately and adequate emergency measures must be initiated.
 
 ## Interaction with Calcium-Containing Products
 
@@ -17,7 +18,7 @@ Ceftriaxone must not be administered simultaneously with calcium-containing IV s
 However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid.
 In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-## Clostridium difficile
+## Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ceftriaxone, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -38,48 +39,54 @@ If a patient develops anemia while on ceftriaxone, the diagnosis of a cephalospo
 
 # PRECAUTIONS
 
-## General
-
-Prescribing ceftriaxone for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
-
-Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of ceftriaxone is similar to that of other cephalosporins.
-
-Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
-
-Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of ceftriaxone are administered.
-
-Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the ceftriaxone dosage should not exceed 2 g daily.
-
-Alterations in prothrombin times have occurred rarely in patients treated with ceftriaxone.
-Patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition) may require monitoring of prothrombin time during ceftriaxone treatment.
-Vitamin K administration (10 mg weekly) may be necessary if the prothrombin time is prolonged before or during therapy.
-
+Development of Drug-resistant Bacteria: Prescribing ceftriaxone in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 Prolonged use of ceftriaxone may result in overgrowth of nonsusceptible organisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 
-Ceftriaxone for injection should be prescribed with caution in individuals with a history of gastrointestinal disease, especially colitis.
+Patients with Renal or Hepatic Impairment: Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
+Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of ceftriaxone are administered.
 
-There have been reports of sonographic abnormalities in the gallbladder of patients treated with ceftriaxone; some of these patients also had symptoms of gallbladder disease.
-These abnormalities appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
-The chemical nature of the sonographically detected material has been determined to be predominantly a ceftriaxone-calcium salt.
-The condition appears to be transient and reversible upon discontinuation of ceftriaxone for injection and institution of conservative management.
-Therefore, ceftriaxone should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
+Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the ceftriaxone dosage should not exceed 2 g daily.
 
-Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported rarely in patients treated with ceftriaxone.
+Ceftriaxone is not removed by peritoneal- or hemodialysis.
+In patients undergoing dialysis no additional supplementary dosing is required following the dialysis.
+In patients with both severe renal and hepatic dysfunction, close clinical monitoring for safety and efficacy is advised.
+
+Effect on Prothrombin Time: Alterations in prothrombin times have occurred in patients treated with ceftriaxone.
+Monitor prothrombin time during ceftriaxone treatment in patients with impaired vitamin K synthesis or low vitamin K stores (eg, chronic hepatic disease and malnutrition).
+Vitamin K administration (10 mg weekly) may be necessary if the prothrombin time is prolonged before or during therapy.
+
+Concomitant use of ceftriaxone with Vitamin K antagonists may increase the risk of bleeding.
+Coagulation parameters should be monitored frequently, and the dose of the anticoagulant adjusted accordingly, both during and after treatment with ceftriaxone (see ADVERSE REACTIONS).
+
+Gallbladder Pseudolithiasis: Ceftriaxone-calcium precipitates in the gallbladder have been observed in patients receiving ceftriaxone.
+These precipitates appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
+The probability of such precipitates appears to be greatest in pediatric patients.
+Patients may be asymptomatic or may develop symptoms of gallbladder disease.
+The condition appears to be reversible upon discontinuation of ceftriaxone sodium and institution of conservative management.
+Discontinue ceftriaxone sodium in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
+
+Urolithiasis and Post-Renal Acute Renal Failure: Ceftriaxone-calcium precipitates in the urinary tract have been observed in patients receiving ceftriaxone and may be detected as sonographic abnormalities.
+The probability of such precipitates appears to be greatest in pediatric patients.
+Patients may be asymptomatic or may develop symptoms of urolithiasis, and ureteral obstruction and post-renal acute renal failure.
+The condition appears to be reversible upon discontinuation of ceftriaxone sodium and institution of appropriate management.
+Ensure adequate hydration in patients receiving ceftriaxone.
+Discontinue ceftriaxone in patients who develop signs and symptoms suggestive of urolithiasis, oliguria or renal failure and/or the sonographic findings described above.
+
+Pancreatitis: Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported in patients treated with ceftriaxone.
 Most patients presented with risk factors for biliary stasis and biliary sludge (preceding major therapy, severe illness, total parenteral nutrition).
 A cofactor role of ceftriaxone-related biliary precipitation cannot be ruled out.
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including ceftriaxone for injection should only be used to treat bacterial infections.
-They do not treat viral infections (e.g., the common cold).
-When ceftriaxone for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ceftriaxone for injection or other antibacterial drugs in the future.
-
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
-If this occurs, patients should contact their physician as soon as possible.
+- •Patients should be counseled that antibacterial drugs including ceftriaxone for injection should only be used to treat bacterial infections.
+  They do not treat viral infections (e.g., common cold).
+- •When ceftriaxone for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+  Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ceftriaxone for injection or other antibacterial drugs in the future.
+- •Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+  If this occurs, patients should contact their physician as soon as possible.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -129,4 +136,16 @@ Ceftriaxone should not be administered to hyperbilirubinemic neonates, especiall
 Of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day (see CLINICAL PHARMACOLOGY).
+The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day provided there is no severe renal and hepatic impairment (see CLINICAL PHARMACOLOGY).
+
+## Influence on Diagnostic Tests
+
+In patients treated with ceftriaxone the Coombs’ test may become positive.
+Ceftriaxone for injection, like other antibacterial drugs, may result in positive test results for galactosemia.
+
+Nonenzymatic methods for the glucose determination in urine may give false-positive results.
+For this reason, urine-glucose determination during therapy with ceftriaxone should be done enzymatically.
+
+The presence of ceftriaxone may falsely lower estimated blood glucose values obtained with some blood glucose monitoring systems.
+Please refer to instructions for use for each system.
+Alternative testing methods should be used if necessary.

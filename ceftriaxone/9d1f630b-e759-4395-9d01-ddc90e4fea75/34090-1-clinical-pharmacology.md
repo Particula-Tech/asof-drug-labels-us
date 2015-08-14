@@ -5,9 +5,9 @@ Average plasma concentrations of ceftriaxone following a single 30-minute intrav
 Table 1.
 Ceftriaxone Plasma Concentrations After Single Dose Administration
 
-| Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | 0.5 g IVIV doses were infused at a constant rate over 30 minutes. | 82 | 59 | 48 | 37 | 29 | 23 | 15 | 10 | 5 |
 | 0.5 g IM 250 mg/mL | 22 | 33 | 38 | 35 | 30 | 26 | 16 | ND | 5 |
 | 0.5 g IM 350 mg/mL | 20 | 32 | 38 | 34 | 31 | 24 | 16 | ND | 5 |
@@ -24,9 +24,9 @@ Ceftriaxone concentrations in urine are shown in Table 2.
 Table 2.
 Urinary Concentrations of Ceftriaxone After Single Dose Administration
 
-| Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0 to 2 hr | 2 to 4 hr | 4 to 8 hr | 8 to 12 hr | 12 to 24 hr | 24 to 48 hr |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 | 0.5 g IV | 526 | 366 | 142 | 87 | 70 | 15 |
 | 0.5 g IM | 115 | 425 | 308 | 127 | 96 | 28 |
 | 1 g IV | 995 | 855 | 293 | 147 | 132 | 32 |
@@ -63,7 +63,7 @@ Ceftriaxone was not removed to any significant extent from the plasma by hemodia
 Table 4.
 Average Pharmacokinetic Parameters of Ceftriaxone in Humans
 
-| Subject Group | EliminationHalf-Life(hr) | PlasmaClearance(L/hr) | Volume ofDistribution(L) |
+| Subject Group | Elimination Half-Life (hr) | Plasma Clearance (L/hr) | Volume of Distribution (L) |
 | --- | --- | --- | --- |
 | Healthy Subjects | 5.8 to 8.7 | 0.58 to 1.45 | 5.8 to 13.5 |
 | Elderly Subjects(mean age, 70.5 yr) | 8.9 | 0.83 | 10.7 |
@@ -103,7 +103,11 @@ Ceftriaxone has activity in the presence of some beta-lactamases, both penicilli
 
 Resistance to ceftriaxone is primarily through hydrolysis by beta-lactamase, alteration of penicillin-binding proteins (PBPs), and decreased permeability.
 
-Interaction with Other Antimicrobials In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
+### Interaction with Other Antimicrobials
+
+In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
+
+### Antibacterial Activity
 
 Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section:
 
@@ -126,23 +130,21 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Dilution techniques: Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 1,3.
-The MIC values should be interpreted according to criteria provided in Table 5.
+The MICs should be determined using a standardized test method.1,3 The MIC values should be interpreted according to criteria provided in Table 5.
 
 Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,3.This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
+The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
 The disk diffusion interpretive criteria are provided in Table 5.
 
-Anaerobic techniques: For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method 3,4.
-The MIC values obtained should be interpreted according to the criteria provided in Table 5.
+Anaerobic techniques: For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method.3,4 The MIC values obtained should be interpreted according to the criteria provided in Table 5.
 
 Table 5.
 Susceptibility Test Interpretive Criteria for Ceftriaxone.
 
-| Pathogen | Minimum Inhibitory Concentrations (mcg/ml) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
+| (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| (S)Susceptible | (I)Intermediate | (R)Resistant | (S)Susceptible | (I)Intermediate | (R)Resistant |  |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/ml) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
 | EnterobacteriaceaeSusceptibility interpretive criteria for Enterobacteriaceae are based on a dose of 1 gram IV q 24h. For isolates with intermediate susceptibility, use a dose of 2 grams IV q 24h in patients with normal renal function. | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20 to 22 | ≤19 |
 | Haemophilus influenzaeFor Haemophilus influenzae, susceptibility interpretive criteria are based on a dose of 2 grams IV every 24 hours in patients with normal renal function.,The current absence of data on resistant isolates precludes defining any category other than ‘Susceptible’. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 2 | - | - | ≥26 | - | - |
 | Neisseria gonorrhoeae | ≤ 0.25 | - | - | ≥ 35 | - | - |
@@ -152,7 +154,8 @@ Susceptibility Test Interpretive Criteria for Ceftriaxone.
 | Streptococcus species beta-hemolytic group | ≤ 0.5 | - | - | ≥ 24 | - | - |
 | Viridans group streptococci | ≤ 1 | 2 | ≥ 4 | ≥27 | 25 to 26 | ≤24 |
 | Anaerobic bacteria (agar method) | ≤ 1 | 2 | ≥ 4 | - | - | - |
-| Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
+
+Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
 A report of Susceptible indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration at the site of infection.
 A report of Intermediate indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -160,14 +163,13 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test1,2,3,4.
-Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
+Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.1,2,3,4 Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 6 should be achieved.
 
 Table 6.
 Acceptable Quality Control Ranges for Ceftriaxone
 
-| QC Strain | Minimum InhibitoryConcentrations(mcg/mL) | Disk DiffusionZone diameters(mm) |
+| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone diameters (mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC 25922 | 0.03 to 0.12 | 29 to 35 |
 | Staphylococcus aureus ATCC 25923 | ---------- | 22 to 28 |

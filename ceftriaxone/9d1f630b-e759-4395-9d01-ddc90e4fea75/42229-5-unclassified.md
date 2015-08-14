@@ -80,10 +80,10 @@ ADD-Vantage® is a trademark of Hospira, Inc.
 
 Printed in Austria
 
-03-2015M
+07-2015M
 
-46159522
+46165448
 
-EN-3855
+EN-3977
 
 Manufactured by Sandoz GmbH, Kundl, Austria

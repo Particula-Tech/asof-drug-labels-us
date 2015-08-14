@@ -10,7 +10,7 @@
 4. 4.Clinical and Laboratory Standards Institute (CLSI).
    Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria; Approved Standard - Eighth Edition.
    CLSI document M11-A8.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2012
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, PA 19087 USA, 2012.
 5. 5.Barnett ED, Teele DW, Klein JO, et al. Comparison of Ceftriaxone and Trimethoprim-Sulfamethoxazole for Acute Otitis Media.
    Pediatrics.
    Vol. 99, No. 1, January 1997.
