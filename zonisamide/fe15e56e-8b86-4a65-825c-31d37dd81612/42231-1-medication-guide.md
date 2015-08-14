@@ -1,5 +1,7 @@
 # Medication Guide Zonisamide Capsules USP
 
+(zoe nis’ a mide)
+
 Read this Medication Guide before you start taking zonisamide capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -8,20 +10,20 @@ This information does not take the place of talking to your healthcare provider 
 
 Zonisamide may cause serious side effects, including:
 
-1. 1.Serious skin rash that can cause death.
-2. 2.Less sweating and increase in your body temperature (fever).
-3. 3.Suicidal thoughts or actions in some people.
-4. 4.Increased level of acid in your blood (metabolic acidosis).
-5. 5.Problems with your concentration, attention, memory, thinking, speech, or language.
-6. 6.Blood cell changes such as reduced red and white blood cell counts.
+- 1.Serious skin rash that can cause death.
+- 2.Less sweating and increase in your body temperature (fever).
+- 3.Suicidal thoughts or actions in some people.
+- 4.Increased level of acid in your blood (metabolic acidosis).
+- 5.Problems with your concentration, attention, memory, thinking, speech, or language.
+- 6.Blood cell changes such as reduced red and white blood cell counts.
 
 These serious side effects are described below.
 
-1. 1.Zonisamide may cause a serious skin rash that can cause death.
-   These serious skin reactions are more likely to happen when you begin taking zonisamide within the first 4 months of treatment but may occur at later times.
-2. 2.Zonisamide may cause you to sweat less and to increase your body temperature (fever).
-   You may need to be hospitalized for this.
-   You should watch for decreased sweating and fever, especially when it is hot and especially in children taking zonisamide.
+- 1.Zonisamide may cause a serious skin rash that can cause death.
+  These serious skin reactions are more likely to happen when you begin taking zonisamide within the first 4 months of treatment but may occur at later times.
+- 2.Zonisamide may cause you to sweat less and to increase your body temperature (fever).
+  You may need to be hospitalized for this.
+  You should watch for decreased sweating and fever, especially when it is hot and especially in children taking zonisamide.
 
 Call your health care provider right away if you have:
 
@@ -198,7 +200,7 @@ This Medication Guide summarizes the most important information about zonisamide
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about zonisamide that is written for health professionals.
 
-For more information, go to www.glenmarkgenerics.com or call 1 (888)721-7115.
+For more information, call 1 (888)721-7115.
 
 ## What are the ingredients in zonisamide capsules?
 
@@ -221,13 +223,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-May 2012
+July 2015

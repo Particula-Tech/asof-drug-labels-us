@@ -214,22 +214,22 @@ Patients should be instructed to take zonisamide only as prescribed.
 
 Patients should be advised as follows: (See Medication Guide)
 
-1. 1.Zonisamide may produce drowsiness, especially at higher doses.
-   Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on zonisamide sufficient to determine whether it affects their performance.
-   Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
-2. 2.Patients should contact their physician immediately if a skin rash develops or seizures worsen.
-3. 3.Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
-   Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
-4. 4.Patients should contact their physician immediately if a child has been taking zonisamide and is not sweating as usual with or without a fever.
-5. 5.Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
-6. 6.Suicidal Thinking and Behavior – Patients, their caregivers, and families should be counseled that AEDs, including zonisamide, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-   Behaviors of concern should be reported immediately to healthcare providers.
-7. 7.Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations (possible manifestations of metabolic acidosis).
-8. 8.As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during zonisamide therapy.
-   Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
-   Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-   This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-   To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
+- 1.Zonisamide may produce drowsiness, especially at higher doses.
+  Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on zonisamide sufficient to determine whether it affects their performance.
+  Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
+- 2.Patients should contact their physician immediately if a skin rash develops or seizures worsen.
+- 3.Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
+  Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
+- 4.Patients should contact their physician immediately if a child has been taking zonisamide and is not sweating as usual with or without a fever.
+- 5.Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
+- 6.Suicidal Thinking and Behavior – Patients, their caregivers, and families should be counseled that AEDs, including zonisamide, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+  Behaviors of concern should be reported immediately to healthcare providers.
+- 7.Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations (possible manifestations of metabolic acidosis).
+- 8.As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during zonisamide therapy.
+  Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
+  Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+  This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+  To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
 
 ## Laboratory Tests
 
@@ -238,33 +238,11 @@ Consideration should be given to monitoring renal function periodically (see PRE
 
 Zonisamide increases serum chloride and alkaline phosphatase and decreases serum bicarbonate (see WARNINGS, Metabolic Acidosis subsection), phosphorus, calcium, and albumin.
 
-## Drug Interactions
-
-### Effects of zonisamide on the pharmacokinetics of other antiepilepsy drugs (AEDs):
-
-Zonisamide had no appreciable effect on the steady state plasma concentrations of phenytoin, carbamazepine, or valproate during clinical trials.
-Zonisamide did not inhibit mixed-function liver oxidase enzymes (cytochrome P450), as measured in human liver microsomal preparations, in vitro.
-Zonisamide is not expected to interfere with the metabolism of other drugs that are metabolized by cytochrome P450 isozymes.
-
-### Effects of other drugs on zonisamide pharmacokinetics:
-
-Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
-The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27–38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
-Concurrent medication with drugs that either induce or inhibit CYP3A4 would be expected to alter serum concentrations of zonisamide.
-
-### Interaction with cimetidine:
-
-Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).
-
-### Drug Interactions with CNS Depressants:
-
-Concomitant administration of zonisamide and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
+Drug Interactions with CNS depressants: Concomitant administration of zonisamide and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 
-### Other Carbonic Anhydrase Inhibitors:
-
-Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection)
+Other Carbonic Anhydrase Inhibitors: Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection).
 
 ## Carcinogenicity, Mutagenesis, Impairment of Fertility
 
@@ -336,7 +314,6 @@ Because of the potential for serious adverse reactions in nursing infants from z
 
 The safety and effectiveness of zonisamide in children under age 16 have not been established.
 Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
-
 Zonisamide commonly causes metabolic acidosis in pediatric patients (see WARNINGS, Metabolic Acidosis subsection).
 Chronic untreated metabolic acidosis in pediatric patients may cause nephrolithiasis and/or nephrocalcinosis, osteoporosis and/or osteomalacia (potentially resulting in rickets), and may reduce growth rates.
 A reduction in growth rate may eventually decrease the maximal height achieved.
