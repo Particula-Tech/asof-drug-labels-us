@@ -14,7 +14,7 @@ Pseudomembranous colitis has been reported with nearly all antibacterial agents,
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by clostridium difficile, is one primary cause of “antibiotic-associated colitis”.
+Studies indicate that a toxin produced by Clostridium difficile, is one primary cause of “antibiotic-associated colitis”.
 
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
@@ -35,11 +35,11 @@ Prescribing ampicillin in the absence of a proven or strongly suspected bacteria
 
 ## Information For The Patient
 
-1. The patient should inform the physician of any history of sensitivity to allergens, including previous hypersensitivity reactions to penicillins and cephalosporins (see WARNINGS).
-2. The patient should discontinue ampicillin and contact the physician immediately if any side effect occurs (see WARNINGS).
-3. Ampicillin should be taken with a full glass (8 oz) of water, one-half hour before or two hours after meals.
-4. Diabetic patients should consult with the physician before changing diet or dosage of diabetes medication (see PRECAUTIONS–Drug/Laboratory Test Interactions).
-5. Patients should be counseled that antibacterial drugs including ampicillin should only be used to treat bacterial infections.
+1. 1.The patient should inform the physician of any history of sensitivity to allergens, including previous hypersensitivity reactions to penicillins and cephalosporins (see WARNINGS).
+2. 2.The patient should discontinue ampicillin and contact the physician immediately if any side effect occurs (see WARNINGS).
+3. 3.Ampicillin should be taken with a full glass (8 oz) of water, one-half hour before or two hours after meals.
+4. 4.Diabetic patients should consult with the physician before changing diet or dosage of diabetes medication (see PRECAUTIONS–Drug/Laboratory Test Interactions).
+5. 5.Patients should be counseled that antibacterial drugs including ampicillin should only be used to treat bacterial infections.
    They do not treat viral infections (e.g., the common cold).
    When ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
    Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ampicillin or other antibacterial drugs in the future.
@@ -67,7 +67,7 @@ ORAL CONTRACEPTIVES: May be less effective and increased breakthrough bleeding m
 
 PROBENECID: May decrease renal tubular secretion of ampicillin resulting in increased blood levels and/or ampicillin toxicity.
 
-## Drug/Laboratory Test Interaction
+## Drug/Laboratory Test Interactions
 
 After treatment with ampicillin, a false-positive reaction for glucose in the urine may occur with copper sulfate tests (Benedict’s solution, Fehling’s solution, or Clinitest® tablets) but not with enzyme based tests such as Clinistix® and Tes-Tape®.
 

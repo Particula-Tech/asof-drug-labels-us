@@ -14,17 +14,6 @@ NDC 0781-2145-01 in bottles of 100
 
 NDC 0781-2145-05 in bottles of 500
 
-Store at 20°-25°C (68°- 77°F) (see USP Controlled Room Temperature).
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight container.
-
-Rev.
-11-2006
-
-8077
-
-399658
-
-Manufactured in Austria by Sandoz GmbH
-
-for Sandoz Inc., Princeton, NJ 08540

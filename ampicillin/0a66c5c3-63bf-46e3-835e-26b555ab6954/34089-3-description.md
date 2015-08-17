@@ -5,4 +5,4 @@ Ampicillin is designated chemically as (2S, 5R, 6R)-6-[(R)-2-Amino-2-phenylaceta
 Its structural formula is:
 
 Ampicillin Capsules, USP for oral administration provide ampicillin trihydrate equivalent to 250 mg and 500 mg ampicillin.
-Inactive ingredients: black iron oxide, gelatin, magnesium stearate and titanium dioxide.
+Inactive ingredients: black iron oxide, gelatin, magnesium stearate, titanium dioxide, shellac, propylene glycol, ammonium hydroxide, and potassium hydroxide.

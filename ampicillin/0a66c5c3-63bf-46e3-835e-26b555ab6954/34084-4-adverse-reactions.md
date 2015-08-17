@@ -14,7 +14,7 @@ The eruption usually disappears in three to seven days.
 Other hypersensitivity reactions that have been reported are: skin rash, pruritus, urticaria, erythema multiforme, and an occasional case of exfoliative dermatitis.
 Anaphylaxis is the most serious reaction experienced and has usually been associated with the parenteral dosage form of the drug.
 
-NOTE: Urticaria, other skin rashes, and serum sicknesslike reactions may be controlled by antihistamines, and, if necessary, systemic corticosteroids.
+NOTE: Urticaria, other skin rashes, and serum sickness-like reactions may be controlled by antihistamines, and, if necessary, systemic corticosteroids.
 Whenever such reactions occur, ampicillin should be discontinued unless, in the opinion of the physician, the condition being treated is life-threatening, and amenable only to ampicillin therapy.
 Serious anaphylactoid reactions require emergency measures (see WARNINGS).
 
@@ -25,5 +25,3 @@ These reactions are usually reversible on discontinuation of therapy and are bel
 
 Other adverse reactions that have been reported with the use of ampicillin are laryngeal stridor and high fever.
 An occasional patient may complain of sore mouth or tongue as with any oral penicillin preparation.
-
-(See Reverse)
