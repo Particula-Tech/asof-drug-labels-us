@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA010515"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-4330-01",
+    "0187-4330-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isuprel"
+    }
+  ],
+  "setid": "743515bf-af8c-4014-9e4a-bf6972811ea1",
+  "source": "dailymed"
+}
