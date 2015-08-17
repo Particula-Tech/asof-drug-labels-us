@@ -35,26 +35,28 @@ However, in stable renal transplant patients, mycophenolate mofetil capsules and
 
 Patients should be instructed to take a missed dose as soon as they remember, except if it is near the next scheduled dose, and then continue to take mycophenolate mofetil at the usual times.
 
-Note: If required, mycophenolate mofetil oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
+Note:
+
+If required, mycophenolate mofetil oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
 ### Patients With Hepatic Impairment
 
 No dose adjustments are recommended for renal patients with severe hepatic parenchymal disease.
-However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies (see CLINICAL PHARMACOLOGY,Pharmacokinetics).
+However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 No data are available for cardiac transplant patients with severe hepatic parenchymal disease.
 
 ### Geriatrics
 
-The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS,Geriatric Use).
+The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS, Geriatric Use).
 
 ## Dosage Adjustments
 
 In renal transplant patients with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of mycophenolate mofetil capsules or mycophenolate mofetil tablets greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
-No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY,Pharmacokineticsand PRECAUTIONS,Patients With Renal Impairment).
+No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY, Pharmacokinetics and PRECAUTIONS, Patients With Renal Impairment).
 
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 Mycophenolate mofetil capsules and mycophenolate mofetil tablets may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-If neutropenia develops (ANC < 1.3 x 103/µL), dosing with mycophenolate mofetil capsules and mycophenolate mofetil tablets should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, Neutropenia;ADVERSE REACTIONS; and PRECAUTIONS,Laboratory Tests).
+If neutropenia develops (ANC < 1.3 x 103/µL), dosing with mycophenolate mofetil capsules and mycophenolate mofetil tablets should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, Neutropenia; ADVERSE REACTIONS; and PRECAUTIONS, Laboratory Tests).

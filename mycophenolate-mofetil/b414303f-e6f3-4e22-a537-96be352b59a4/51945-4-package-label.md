@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Mycophenolate Mofetil Capsules USP 250 mg 500s Label Text
 
@@ -14,7 +14,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Mycophenolate Mofetil Tablets USP 500 mg 500s Label Text
 
