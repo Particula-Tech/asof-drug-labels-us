@@ -103,19 +103,23 @@ Ceftriaxone has activity in the presence of some beta-lactamases, both penicilli
 
 Resistance to ceftriaxone is primarily through hydrolysis by beta-lactamase, alteration of penicillin-binding proteins (PBPs), and decreased permeability.
 
-Interaction with Other Antimicrobials In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
+### Interaction with Other Antimicrobials
+
+In an in vitro study antagonistic effects have been observed with the combination of chloramphenicol and ceftriaxone.
+
+### Antibacterial Activity
 
 Ceftriaxone has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section:
 
-- •Gram-negative bacteria Acinetobacter calcoaceticus Enterobacter aerogenes Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Neisseria meningitidis Proteus mirabilis Proteus vulgaris Pseudomonas aeruginosa Serratia marcescens
+- •Gram-negative bacteria Acinetobactercalcoaceticus Enterobacteraerogenes Enterobacter cloacae Escherichia coli Haemophilusinfluenzae Haemophilusparainfluenzae Klebsiellaoxytoca Klebsiellapneumoniae Moraxella catarrhalis Morganellamorganii Neisseria gonorrhoeae Neisseria meningitidis Proteus mirabilis Proteus vulgaris Pseudomonas aeruginosa Serratiamarcescens
 - •Gram-positive bacteria Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus pyogenes Viridans group streptococci
-- •Anaerobic bacteria Bacteroides fragilis Clostridium species Peptostreptococcus species
+- •Anaerobic bacteria Bacteroidesfragilis Clostridium species Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ceftriaxone.
 However, the efficacy of ceftriaxone in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
-- •Gram-negative bacteria Citrobacter diversus Citrobacter freundii Providencia species (including Providencia rettgeri) Salmonella species (including Salmonella typhi) Shigella species
+- •Gram-negative bacteria Citrobacterdiversus Citrobacterfreundii Providencia species (including Providenciarettgeri) Salmonella species (including Salmonella typhi) Shigella species
 - •Gram-positive bacteria Streptococcus agalactiae
 - •Anaerobic bacteria Porphyromonas (Bacteroides) melaninogenicus Prevotella (Bacteroides) bivius
 
@@ -126,16 +130,14 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Dilution techniques: Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method1,3.
-The MIC values should be interpreted according to criteria provided in Table 5.
+The MICs should be determined using a standardized test method.1,3 The MIC values should be interpreted according to criteria provided in Table 5.
 
 Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,3.This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
+The zone size should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 30 mcg ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
 The disk diffusion interpretive criteria are provided in Table 5.
 
-Anaerobic techniques: For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method 3,4.
-The MIC values obtained should be interpreted according to the criteria provided in Table 5.
+Anaerobic techniques: For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by a standardized agar test method.3,4 The MIC values obtained should be interpreted according to the criteria provided in Table 5.
 
 Table 5.
 Susceptibility Test Interpretive Criteria for Ceftriaxone.
@@ -152,7 +154,8 @@ Susceptibility Test Interpretive Criteria for Ceftriaxone.
 | Streptococcus species beta-hemolytic group | ≤ 0.5 | - | - | ≥ 24 | - | - |
 | Viridans group streptococci | ≤ 1 | 2 | ≥ 4 | ≥ 27 | 25 to 26 | ≤ 24 |
 | Anaerobic bacteria (agar method) | ≤ 1 | 2 | ≥ 4 | - | - | - |
-| Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
+
+Susceptibility of staphylococci to ceftriaxone may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
 A report of Susceptible indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration at the site of infection.
 A report of Intermediate indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -160,8 +163,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test1,2,3,4.
-Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
+Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.1,2,3,4 Standard ceftriaxone powder should provide the following range of MIC values noted in Table 6.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 6 should be achieved.
 
 Table 6.
@@ -172,9 +174,9 @@ Acceptable Quality Control Ranges for Ceftriaxone
 | Escherichia coli ATCC 25922 | 0.03 to 0.12 | 29 to 35 |
 | Staphylococcus aureus ATCC 25923 | ---------- | 22 to 28 |
 | Staphylococcus aureus ATCC 29213 | 1 to 8 | --------- |
-| Haemophilus influenzae ATCC 49247 | 0.06 to 0.25 | 31 to 39 |
+| Haemophilusinfluenzae ATCC 49247 | 0.06 to 0.25 | 31 to 39 |
 | Neisseria gonorrhoeae ATCC 49226 | 0.004 to 0.015 | 39 to 51 |
 | Pseudomonas aeruginosa ATCC 27853 | 8 to 64 | 17 to 23 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03 to 0.12 | 30 to 35 |
-| Bacteroides fragilis ATCC 25285 (agar method) | 32 to 128 | --------- |
-| Bacteroides thetaiotaomicron ATCC 29741 (agar method) | 64 to 256 | --------- |
+| Bacteroidesfragilis ATCC 25285 (agar method) | 32 to 128 | --------- |
+| Bacteroidesthetaiotaomicron ATCC 29741 (agar method) | 64 to 256 | --------- |

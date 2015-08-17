@@ -20,7 +20,7 @@ appropriate I.V. diluent for parenteral administration.
 For Intravenous Use.
 Rx only
 
-THIS PACKGE IS NOT INTENDED
+THIS PACKAGE IS NOT INTENDED
 
 TO BE DISPENSED AS A UNIT.
 
