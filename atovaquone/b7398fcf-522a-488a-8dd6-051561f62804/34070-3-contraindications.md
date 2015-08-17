@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Atovaquone Suspension is contraindicated for patients who develop or have a history of potentially life-threatening allergic reactions to any of the components of the formulation.
+Atovaquone oral suspension, USP is contraindicated in patients who develop or have a history of hypersensitivity reactions (e.g., angioedema, bronchospasm, throat tightness, urticaria) to atovaquone or any of the components of atovaquone oral suspension.

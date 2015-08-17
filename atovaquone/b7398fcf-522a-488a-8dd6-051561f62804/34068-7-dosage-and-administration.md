@@ -1,13 +1,17 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Dosage: Prevention of PCP: Adults and Adolescents (13 to 16 Years): The recommended oral dose is 1,500 mg (10 mL) once daily administered with a meal.
+## 2.1 Dosage for the Prevention of P. jiroveci Pneumonia
 
-Treatment of Mild-to-Moderate PCP: Adults and Adolescents (13 to 16 Years): The recommended oral dose is 750 mg (5 mL) administered with meals twice daily for 21 days (total daily dose 1,500 mg).
+The recommended oral dosage is 1,500 mg (10 mL) once daily administered with food.
 
-Note: Failure to administer Atovaquone Suspension with meals may result in lower plasma atovaquone concentrations and may limit response to therapy (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
+## 2.2 Dosage for the Treatment of Mild-to-Moderate P. jiroveci Pneumonia
 
-Administration
+The recommended oral dosage is 750 mg (5 mL) twice daily (total daily dose = 1,500 mg) administered with food for 21 days.
 
-Bottle
+## 2.3 Important Administration Instructions
 
-SHAKE BOTTLE GENTLY BEFORE USING.
+Administer atovaquone oral suspension, USP with food to avoid lower plasma atovaquone concentrations that may limit response to therapy [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+
+Atovaquone oral suspension, USP Bottle
+
+Shake bottle gently before administering the recommended dosage.
