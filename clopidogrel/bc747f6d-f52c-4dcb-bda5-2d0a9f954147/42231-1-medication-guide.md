@@ -145,7 +145,7 @@ Clopidogrel tablets can cause serious side effects including:
   - •vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
+Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -155,7 +155,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store clopidogrel tablets?
 
-- •Store clopidogrel tablets at 20° to 25°C (68° to 77°F).
+- •Store clopidogrel tablets at 68° to 77°F (20° to 25°C).
 
 Keep clopidogrel tablets and all medicines out of the reach of children.
 
@@ -180,7 +180,7 @@ Inactive ingredients: crospovidone, hydrogenated vegetable oil, hydroxypropyl ce
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, INC.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
 Manufactured In Israel By:
 
@@ -196,4 +196,4 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-C 11/2014
+D 7/2015

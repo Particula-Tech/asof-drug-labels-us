@@ -20,6 +20,6 @@ Although a higher dose regimen in poor metabolizers increases antiplatelet respo
 
 ## 2.4 Use With Proton Pump Inhibitors (PPI)
 
-Avoid using omeprazole or esomeprazole with clopidogrel tablets USP.
+Avoid using omeprazole or esomeprazole with clopidogrel tablets.
 Omeprazole and esomeprazole significantly reduce the antiplatelet activity of clopidogrel tablets.
 When concomitant administration of a PPI is required, consider using another acid-reducing agent with minimal or no CYP2C19 inhibitory effect on the formation of clopidogrel active metabolite [see Warnings and Precautions (5.1), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

@@ -8,7 +8,7 @@ Clopidogrel Tablets, USP 75 mg*
 
 PHARMACIST: Dispense the
 
-Accompanying Medication Guide
+accompanying Medication Guide
 
 to each patient.
 

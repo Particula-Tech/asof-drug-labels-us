@@ -12,7 +12,7 @@ In clinical studies, omeprazole was shown to reduce the antiplatelet activity of
 A higher dose regimen of clopidogrel concomitantly administered with omeprazole increases antiplatelet response; an appropriate dose regimen has not been established.
 A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel.
 Consider using another acid-reducing agent with minimal or no CYP2C19 inhibitory effect on the formation of clopidogrel active metabolite.
-Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Dosage and Administration (2.4), WarningsandPrecautions (5.1) and Clinical Pharmacology (12.3)].
+Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Dosage and Administration (2.4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 

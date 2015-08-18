@@ -8,7 +8,7 @@ The metabolism of clopidogrel to its active metabolite can be impaired by geneti
 
 Proton Pump Inhibitors
 
-Avoid concomitant use of clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel [see Drug Interactions (7.1) andDosage and Administration (2.4)].
+Avoid concomitant use of clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
 
 ## 5.2 General Risk of Bleeding
 
@@ -37,4 +37,4 @@ It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schi
 
 ## 5.6 Cross-Reactivity Among Thienopyridines
 
-Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].
+Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2)andAdverse Reactions (6.2)].
