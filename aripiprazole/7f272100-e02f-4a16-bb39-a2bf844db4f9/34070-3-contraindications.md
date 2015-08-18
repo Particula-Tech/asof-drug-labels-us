@@ -1,0 +1,4 @@
+# 4 CONTRAINDICATIONS
+
+Aripiprazole oral solution is contraindicated in patients with a history of a hypersensitivity reaction to aripiprazole, USP.
+Reactions have ranged from pruritus/urticaria to anaphylaxis [see ADVERSE REACTIONS (6.2)].

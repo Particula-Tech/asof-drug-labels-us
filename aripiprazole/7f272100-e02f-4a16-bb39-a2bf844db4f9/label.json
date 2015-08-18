@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203906"
+  ],
+  "inn": "aripiprazole",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-893-74"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "aripiprazole",
+      "name": "Aripiprazole"
+    }
+  ],
+  "setid": "7f272100-e02f-4a16-bb39-a2bf844db4f9",
+  "source": "dailymed"
+}
