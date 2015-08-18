@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA019463"
+  ],
+  "inn": "timolol",
+  "labeler": "VALEANT PHARMACEUTICALS NORTH AMERICA LLC",
+  "package_ndcs": [
+    "0187-1496-05",
+    "0187-1496-99",
+    "0187-1498-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "timolol maleate",
+      "name": "Timoptic"
+    }
+  ],
+  "setid": "c1293d51-b633-486c-8e13-fcf60063faeb",
+  "source": "dailymed"
+}
