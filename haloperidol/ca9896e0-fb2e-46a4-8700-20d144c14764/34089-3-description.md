@@ -1,11 +1,11 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Haloperidol decanoate is the decanoate ester of the butyrophenone, haloperidol.
 It has a markedly extended duration of effect.
 It is available as a colorless/pink to yellow amber solution in sesame oil in sterile form for intramuscular (IM) injection.
 The structural formula of haloperidol decanoate, 4-(4-chlorophenyl)-1-[4-(4-fluorophenyl)-4-oxobutyl]-4 piperidinyl decanoate, is:
 
-C31H41CIFNO3 M.W.
+C31H41ClFNO3 M.W.
 530.12
 
 Haloperidol decanoate is almost insoluble in water (0.01 mg/mL), but is soluble in most organic solvents.

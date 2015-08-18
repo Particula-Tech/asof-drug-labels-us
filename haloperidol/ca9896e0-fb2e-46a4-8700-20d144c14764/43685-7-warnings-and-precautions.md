@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 ## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
@@ -65,7 +65,7 @@ Therefore, if the above signs and symptoms appear, especially in the elderly, th
 
 Although not reported with haloperidol, decreased serum cholesterol and/or cutaneous and ocular changes have been reported in patients receiving chemically-related drugs.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## Leukopenia, Neutropenia, and Agranulocytosis
 

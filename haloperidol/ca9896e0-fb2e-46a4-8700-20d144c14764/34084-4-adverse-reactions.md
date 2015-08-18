@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Adverse reactions following the administration of Haloperidol Decanoate Injection are those of haloperidol.
 Since vast experience has accumulated with haloperidol, the adverse reactions are reported for that compound as well as for haloperidol decanoate.

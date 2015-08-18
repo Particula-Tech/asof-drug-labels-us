@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Haloperidol decanoate is the long-acting form of haloperidol.
 The basic effects of haloperidol decanoate are no different from those of haloperidol with the exception of duration of action.

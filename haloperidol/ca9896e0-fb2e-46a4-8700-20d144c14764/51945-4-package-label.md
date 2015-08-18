@@ -8,13 +8,11 @@ Haloperidol Decanoate Injection
 
 250 mg*/5 mL (50 mg*/mL)
 
-*as haloperidol
+Intramuscular Use Only
 
-IM Use Only
+5 mL Rx only
 
-5 mL Multiple Dose Vial
-
-Rx only
+Multiple Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate 5 mL Multiple Dose Vial Carton Panel
 
@@ -26,9 +24,7 @@ Haloperidol Decanoate Injection
 
 250 mg*/5 mL (50 mg*/mL)
 
-*as haloperidol
-
-IM Use Only
+Intramuscular Use Only
 
 5 mL Multiple Dose Vial
 
@@ -46,11 +42,9 @@ Haloperidol Decanoate Injection
 
 *as haloperidol
 
-IM Use Only
+Intramuscular Use Only
 
-1 mL
-
-Rx only
+1 mL Rx only
 
 Sterile
 
@@ -66,9 +60,7 @@ Haloperidol Decanoate Injection
 
 100 mg*/mL
 
-*as haloperidol
-
-IM Use Only
+Intramuscular Use Only
 
 1 mL
 

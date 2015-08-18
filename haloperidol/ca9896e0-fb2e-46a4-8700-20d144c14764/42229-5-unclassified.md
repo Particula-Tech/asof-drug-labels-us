@@ -2,6 +2,6 @@ For IM Injection Only
 
 Rx only
 
-45803I
+45803J
 
-Revised: October 2012
+Revised: February 2015

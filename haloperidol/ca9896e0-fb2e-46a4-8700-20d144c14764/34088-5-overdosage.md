@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 While overdosage is less likely to occur with a parenteral than with an oral medication, information pertaining to haloperidol is presented, modified only to reflect the extended duration of action of haloperidol decanoate.
 

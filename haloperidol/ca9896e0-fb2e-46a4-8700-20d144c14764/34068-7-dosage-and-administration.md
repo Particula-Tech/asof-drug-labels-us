@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Haloperidol Decanoate Injection should be administered by deep intramuscular injection.
 A 21 gauge needle is recommended.
@@ -36,11 +36,11 @@ The usual maintenance range is 10 to 15 times the previous daily dose in oral ha
 
 HALOPERIDOL DECANOATE DOSING RECOMMENDATIONS
 
-| Patients | Monthly1st Month | Maintenance |
+| Patients | Monthly 1st Month | Maintenance |
 | --- | --- | --- |
-| Stabilized on low daily oral doses (up to 10 mg/day) | 10 to 15 x DailyOral Dose | 10 to 15 x Previous DailyOral Dose |
+| Stabilized on low daily oral doses (up to 10 mg/day) | 10 to 15 x Daily Oral Dose | 10 to 15 x Previous Daily Oral Dose |
 | Elderly or Debilitated |  |  |
-| High dose | 20 x DailyOral Dose | 10 to 15 x Previous DailyOral Dose |
+| High dose | 20 x Daily Oral Dose | 10 to 15 x Previous Daily Oral Dose |
 | Risk of relapse |  |  |
 | Tolerant to oral haloperidol |  |  |
 
