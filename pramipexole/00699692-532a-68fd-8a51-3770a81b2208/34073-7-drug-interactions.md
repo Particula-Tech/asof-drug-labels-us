@@ -1,0 +1,5 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Dopamine Antagonists
+
+Since pramipexole is a dopamine agonist, it is possible that dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide, may diminish the effectiveness of pramipexole dihydrochloride extended-release tablets.

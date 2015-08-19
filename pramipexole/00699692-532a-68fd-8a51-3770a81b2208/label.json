@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA203354"
+  ],
+  "inn": "pramipexole",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-611-30",
+    "55111-612-30",
+    "55111-613-30",
+    "55111-614-30",
+    "55111-615-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "pramipexole dihydrochloride",
+      "name": "Pramipexole dihydrochloride"
+    }
+  ],
+  "setid": "00699692-532a-68fd-8a51-3770a81b2208",
+  "source": "dailymed"
+}
