@@ -4,11 +4,11 @@
 
 Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use tacrolimus.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
-The physicians responsible for maintenance therapy should have complete information requisite for the follow up of the patient [see Box Warning].
+The physicians responsible for maintenance therapy should have complete information requisite for the follow up of the patient [see Boxed Warning].
 
 ## 5.2 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Box Warning].
+Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
@@ -19,7 +19,7 @@ The risk of PTLD appears greatest in those individuals who are EBV seronegative,
 
 ## 5.3 Serious Infections
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Box Warning and Warnings and Precautions (5.4, 5.5)].
+Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections [see Boxed Warning and Warnings and Precautions (5.4, 5.5)].
 These infections may lead to serious, including fatal, outcomes.
 Because of the danger of oversuppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution.
 
@@ -82,7 +82,7 @@ This syndrome is characterized by reversal of symptoms upon reduction or discont
 Coma and delirium, in the absence of PRES, have also been associated with high plasma concentrations of tacrolimus.
 Seizures have occurred in adult and pediatric patients receiving tacrolimus [see Adverse Reactions (6.1)].
 
-Less severe neurotoxicities, include tremors, parathesias, headache, and other changes in motor function, mental status, and sensory function [see Adverse Reactions (6.1)].
+Less severe neurotoxicities, include tremors, paresthesias, headache, and other changes in motor function, mental status, and sensory function [see Adverse Reactions (6.1)].
 Tremor and headache have been associated with high whole-blood concentrations of tacrolimus and may respond to dosage adjustment.
 
 ## 5.9 Hyperkalemia

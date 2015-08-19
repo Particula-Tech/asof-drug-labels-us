@@ -2,10 +2,10 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Lymphoma and Other Malignancies [see Box Warning, Warnings and Precautions (5.2)]
-- Serious Infections [see Box Warning, Warnings and Precautions (5.3)]
-- Polyoma Virus Infections [see Box Warning, Warnings and Precautions (5.4)]
-- CMV Infections [see Box Warning, Warnings and Precautions (5.5)]
+- Lymphoma and Other Malignancies [see Boxed Warning, Warnings and Precautions (5.2)]
+- Serious Infections [see Boxed Warning, Warnings and Precautions (5.3)]
+- Polyoma Virus Infections [see Boxed Warning, Warnings and Precautions (5.4)]
+- CMV Infections [see Boxed Warning, Warnings and Precautions (5.5)]
 - New Onset Diabetes After Transplant [see Warnings and Precautions (5.6)]
 - Nephrotoxicity [see Warnings and Precautions (5.7)]
 - Neurotoxicity [see Warnings and Precautions (5.8)]
