@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 2.5 mL Vial Label
 
-2.5 mL Vial
-
-NDC 0009-0626-01
+2.5 mL Vial NDC 0009-0626-01
 
 Depo-Provera®
 
