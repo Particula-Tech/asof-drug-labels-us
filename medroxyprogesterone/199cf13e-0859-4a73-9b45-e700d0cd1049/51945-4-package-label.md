@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 150 mg/mL Vial Label
 
 NDC 0009-0746-30 Rx only
 
