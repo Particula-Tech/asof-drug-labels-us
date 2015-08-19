@@ -20,7 +20,6 @@ Yarker Y et al. Oxybutynin: A review of its Pharmacodynamic and Pharmacokinetic 
 Drugs & Aging.
 1995; 6(3): 243-262.
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
+Revised 0615
 
-102770-02 Rev.
-0512
+Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369

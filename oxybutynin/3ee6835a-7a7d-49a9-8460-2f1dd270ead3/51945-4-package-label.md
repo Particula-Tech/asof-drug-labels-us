@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg - 100 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 0832-0038-00
 

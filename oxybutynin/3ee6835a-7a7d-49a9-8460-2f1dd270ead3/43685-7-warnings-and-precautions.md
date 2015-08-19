@@ -54,7 +54,7 @@ The concomitant use of oxybutynin with other anticholinergic drugs or with other
 Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 This may be of concern for drugs with a narrow therapeutic index.
 
-Mean oxybutynin chloride plasma concentrations were approximately 3-4 fold higher when oxybutynin chloride was administered with ketoconazole, a potent CYP3A4 inhibitor.
+Mean oxybutynin chloride plasma concentrations were approximately 3 to 4 fold higher when oxybutynin chloride was administered with ketoconazole, a potent CYP3A4 inhibitor.
 
 Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC).
 The clinical relevance of such potential interactions is not known.
@@ -85,7 +85,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 The safety and efficacy of oxybutynin chloride administration have been demonstrated for pediatric patients 5 years of age and older (see DOSAGE AND ADMINISTRATION).
 
 The safety and efficacy of oxybutynin chloride tablets were studied in 30 children in a 24-week, open-label trial.
-Patients were aged 5-15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
+Patients were aged 5 to 15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
 Study results demonstrated that the administration of oxybutynin chloride was associated with improvement in clinical and urodynamic parameters.
 
 At total daily doses ranging from 5 mg to 15 mg, treatment with oxybutynin chloride tablets was associated with an increase from baseline in mean urine volume per catheterization from 122 mL to 145 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 168 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 43% to 61%.
@@ -97,4 +97,4 @@ As there is insufficient clinical data for pediatric populations under age 5, ox
 ## Geriatric Use
 
 Clinical studies of oxybutynin chloride did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2-3 hours to 5 hours.2,3,4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2 to 3 hours to 5 hours.2,3,4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

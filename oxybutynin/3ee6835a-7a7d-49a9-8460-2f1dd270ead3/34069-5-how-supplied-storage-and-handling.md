@@ -1,15 +1,13 @@
 # HOW SUPPLIED
 
-Oxybutynin Chloride Tablets, USP are supplied in the following form:
+Oxybutynin chloride tablets, USP are supplied in the following form:
 
 As 5 mg-round, white, 5/16" diameter, single-scored tablets, debossed 832 and 38, in bottles of 100 (NDC 0832-0038-00), 500 (NDC 0832-0038-50) and 1000 (NDC 0832-0038-10).
 
 Pharmacist: Dispense in tight, light-resistant container as defined in the USP.
 
-Store at 20-25°C (68-77°F).
-Excursions permitted to 15-30°C (59-86°F).
+Store at 20° to 25°C (68° to 77°F).
+Excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
 Keep out of reach of children.
-
-Rx only
