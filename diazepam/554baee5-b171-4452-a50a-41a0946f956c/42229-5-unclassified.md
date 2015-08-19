@@ -22,6 +22,8 @@ The complete flumazenil package insert, including CONTRAINDICATIONS, WARNINGS, a
 
 Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 
+VALIUM is a registered trademark of Hoffmann-La Roche, Inc.
+
 Distributed by:
 
 Genentech USA, Inc.
@@ -32,8 +34,8 @@ A Member of the Roche Group
 
 South San Francisco, CA 94080-4990
 
-Revised: October 2013
+Revised: August 2015
 
-© 2013 Genentech, Inc. All rights reserved.
+© 2015 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
