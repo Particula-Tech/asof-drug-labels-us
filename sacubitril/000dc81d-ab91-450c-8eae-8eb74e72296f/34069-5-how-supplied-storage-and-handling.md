@@ -12,4 +12,3 @@ All strengths are packaged in bottles and unit dose blister packages (10 strips 
 
 Store at 25°C (77°F) with excursions between 15°C and 30°C (59°F and 86°F) permitted [see USP Controlled Room Temperature].
 Protect from moisture.
-Store in the original package.
