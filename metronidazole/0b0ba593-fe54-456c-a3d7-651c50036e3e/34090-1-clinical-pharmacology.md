@@ -39,7 +39,7 @@ Renal clearance of metronidazole is approximately 10 mL/min/1.73 m2.1 The averag
 
 Decreased renal function does not alter the single-dose pharmacokinetics of metronidazole.
 
-Subjects with end-stage renal disease (ESRD; CLCR=8.1±9.1mL/min) and who received a single intravenous infusion of metronidazole 500 mg had no significant change in metronidazole pharmacokinetics but had 2-fold higher Cmax of hydroxy-metronidazole and 5-fold higher Cmax of metronidazole acetate, compared to healthy subjects with normal renal function (CLCR=126±16 mL/min).
+Subjects with end-stage renal disease (ESRD; CLCR=8.1±9.1 mL/min) and who received a single intravenous infusion of metronidazole 500 mg had no significant change in metronidazole pharmacokinetics but had 2-fold higher Cmax of hydroxy-metronidazole and 5-fold higher Cmax of metronidazole acetate, compared to healthy subjects with normal renal function (CLCR=126±16 mL/min).
 Thus, on account of the potential accumulation of metronidazole metabolites in ESRD patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
 
 ## Effect of Dialysis
@@ -73,59 +73,22 @@ In infants whose gestational ages were between 28 and 40 weeks, the correspondin
 
 ### Mechanism of Action
 
-Metronidazole exerts antibacterial effects in an anaerobic environment by the following possible mechanism: Once metronidazole enters the organism, the drug is reduced by intracellular electron transport proteins.
-Because of this alteration to the metronidazole molecule, a concentration gradient is maintained which promotes the drug's intracellular transport.
-Presumably, free radicals are formed which, in turn, react with cellular components resulting in death of the bacteria.
+Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes.
+Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport proteins such as ferredoxin, transfer of an electron to the nitro group of the metronidazole, and formation of a short-lived nitroso free radical.
+Because of this alteration of the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug's intracellular transport.
+The reduced form of metronidazole and free radicals can interact with DNA leading to inhibition of DNA synthesis and DNA degradation leading to death of bacteria.
+The precise mechanism of action of metronidazole is unclear.
 
-Metronidazole is active against most obligate anaerobes, but does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+### Drug Resistance
 
-#### Activity In Vitro and In Vivo
+A potential for development of resistance exists against metronidazole.
 
-Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Resistance may be due to multiple mechanisms that include decreased uptake of the drug, altered reduction efficiency, overexpression of the efflux pumps, inactivation of the drug, and/or increased DNA damage repair.
 
-Gram-positive anaerobes: Clostridium species Eubacterium species Peptococcus species Peptostreptococcus species
+Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
 
-Gram-negative anaerobes: Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus) Fusobacterium species Porphyromonas species
+### Activity In Vitro
 
-The following in vitro data are available, but their clinical significance is unknown:
+- Bacteroides species Gardnerella vaginalis Mobiluncus species Peptostreptococcus species
 
-Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC's) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
-
-Gram-negative anaerobes Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens)
-
-### Susceptibility Test Methods
-
-When available, the clinical microbiology laboratory should provide results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug product for treatment.
-
-### Anaerobic techniques
-
-Quantitative methods are used to determine antimicrobial inhibitory concentrations (MICs) provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-For anaerobic bacteria, the susceptibility to metronidazole can be determined by the reference broth and/or agar dilution method3,4.
-The MIC values obtained should be interpreted according to the following criteria:
-
-Susceptibility Test Interpretive Criteria for Metronidazole
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 8 | Susceptible (S) |
-| 16 | Intermediate (I) |
-| ≥ 32 | Resistant (R) |
-
-A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug product can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-### Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2 Standard metronidazole powder should provide a value within the MIC ranges noted in the following table:
-
-Acceptable Quality Control Ranges for Metronidazole
-
-|  | Agar | Broth |
-| --- | --- | --- |
-| QC Strain | Minimum Inhibitory Concentration (mcg/mL) |  |
-| Bacteroides fragilis ATCC 25285 | 0.25–1.0 | 0.25–2.0 |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.5–2.0 | 0.5–4.0 |
+Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis.

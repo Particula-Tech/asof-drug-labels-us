@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In two multicenter clinical trials, a total of 270 patients received 750 mg FLAGYL ER tablets orally once daily for 7 days, and 287 were treated with a comparator agent administered intravaginally once daily for 7 days (See CLINICAL STUDIES).5,6
+In two multicenter clinical trials, a total of 270 patients received 750 mg FLAGYL ER tablets orally once daily for 7 days, and 287 were treated with a comparator agent administered intravaginally once daily for 7 days (See CLINICAL STUDIES).3,4
 
 Most adverse events were described as being of mild or moderate severity.
 Among patients taking FLAGYL ER who reported headaches, 10% considered them severe, and less than 2% of reported episodes of nausea were considered severe.
