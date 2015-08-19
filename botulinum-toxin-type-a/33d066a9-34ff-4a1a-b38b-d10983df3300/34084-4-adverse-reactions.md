@@ -4,7 +4,7 @@ The following adverse reactions to BOTOX (onabotulinumtoxinA) for injection are 
 
 - Spread of Toxin Effects [see Warnings and Precautions (5.2)]
 - Hypersensitivity [see Contraindications (4.1) and Warnings and Precautions (5.4)]
-- Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia [see Warnings and Precautions (5.6)]
+- Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.6)]
 - Bronchitis and Upper Respiratory Tract Infections in Patients Treated for Spasticity [see Warnings and Precautions (5.10)]
 - Urinary Retention in Patients Treated for Bladder Dysfunction [see Warnings and Precautions (5.13)]
 

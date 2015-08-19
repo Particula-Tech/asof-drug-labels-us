@@ -19,8 +19,8 @@ What is the most important information I should know about BOTOX and BOTOX Cosme
 
 BOTOX and BOTOX Cosmetic may cause serious side effects that can be life threatening, including:
 
-- • Problems breathing or swallowing
-- • Spread of toxin effects
+- Problems breathing or swallowing
+- Spread of toxin effects
 
 These problems can happen hours, days, to weeks after an injection of BOTOX or BOTOX Cosmetic.
 Call your doctor or get medical help right away if you have any of these problems after treatment with BOTOX or BOTOX Cosmetic:
@@ -204,12 +204,13 @@ Active ingredient: botulinum toxin type A
 
 Inactive ingredients: human albumin and sodium chloride
 
-Revised: 04/2015
+Revised: 08/2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2015 Allergan, Inc. ® marks owned by Allergan, Inc. Patented.
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2015 Allergan.
+All rights reserved. ® marks owned by Allergan, Inc. Patented.
 See: www.allergan.com/products/patent_notices Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 
-72309US16 72312US16 72511US13
+72309US17 72312US17 72511US14

@@ -19,14 +19,13 @@ No definitive serious adverse event reports of distant spread of toxin effect as
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), strabismus, or for chronic migraine at the labeled doses have been reported.
 
-## 5.3 Injections In or Near Vulnerable Anatomic Structures
+## 5.3 Serious Adverse Reactions with Unapproved Use
 
-Care should be taken when injecting in or near vulnerable anatomic structures.
-Serious adverse events including fatal outcomes have been reported in patients who had received BOTOX injected directly into salivary glands, the oro-lingual-pharyngeal region, esophagus and stomach.
-Safety and effectiveness have not been established for indications pertaining to these injection sites.
-Some patients had pre-existing dysphagia or significant debility.
-Pneumothorax associated with injection procedure has been reported following the administration of BOTOX near the thorax.
-Caution is warranted when injecting in proximity to the lung, particularly the apices.
+Serious adverse reactions, including excessive weakness, dysphagia, and aspiration pneumonia, with some adverse reactions associated with fatal outcomes, have been reported in patients who received BOTOX injections for unapproved uses.
+In these cases, the adverse reactions were not necessarily related to distant spread of toxin, but may have resulted from the administration of BOTOX to the site of injection and/or adjacent structures.
+In several of the cases, patients had pre-existing dysphagia or other significant disabilities.
+There is insufficient information to identify factors associated with an increased risk for adverse reactions associated with the unapproved uses of BOTOX.
+The safety and effectiveness of BOTOX for unapproved uses have not been established.
 
 ## 5.4 Hypersensitivity Reactions
 
@@ -37,25 +36,24 @@ One fatal case of anaphylaxis has been reported in which lidocaine was used as t
 
 ## 5.5 Pre-Existing Neuromuscular Disorders
 
-Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
-Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Adverse Reactions (6.1)].
+Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored when given botulinum toxin.
+Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from therapeutic doses of BOTOX [see Adverse Reactions (6.1)].
 
-## 5.6 Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia
+## 5.6 Dysphagia and Breathing Difficulties
 
 Treatment with BOTOX and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
-In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
-When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.2)].
+In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or oropharyngeal muscles that control swallowing or breathing [see Warnings and Precautions (5.2)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
 Aspiration may result from severe dysphagia and is a particular risk when treating patients in whom swallowing or respiratory function is already compromised.
 
-Treatment of cervical dystonia with botulinum toxins may weaken neck muscles that serve as accessory muscles of ventilation.
+Treatment with botulinum toxins may weaken neck muscles that serve as accessory muscles of ventilation.
 This may result in a critical loss of breathing capacity in patients with respiratory disorders who may have become dependent upon these accessory muscles.
-There have been postmarketing reports of serious breathing difficulties, including respiratory failure, in cervical dystonia patients.
+There have been postmarketing reports of serious breathing difficulties, including respiratory failure.
 
-Patients with smaller neck muscle mass and patients who require bilateral injections into the sternocleidomastoid muscle have been reported to be at greater risk for dysphagia.
+Patients with smaller neck muscle mass and patients who require bilateral injections into the sternocleidomastoid muscle for the treatment of cervical dystonia have been reported to be at greater risk for dysphagia.
 Limiting the dose injected into the sternocleidomastoid muscle may reduce the occurrence of dysphagia.
 Injections into the levator scapulae may be associated with an increased risk of upper respiratory infection and dysphagia.
 

@@ -10,10 +10,8 @@ When initiating treatment, the lowest recommended dose should be used.
 In treating adult patients for one or more indications, the maximum cumulative dose should not exceed 400 Units, in a 3 month interval.
 
 The safe and effective use of BOTOX depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
-Physicians administering BOTOX must understand the relevant neuromuscular and/or orbital anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures.
 An understanding of standard electromyographic techniques is also required for treatment of strabismus and of upper limb spasticity, and may be useful for the treatment of cervical dystonia.
-
-Use caution when BOTOX treatment is used in the presence of inflammation at the proposed injection site(s) or when excessive weakness or atrophy is present in the target muscle(s).
+Physicians administering BOTOX must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
 
 ## 2.2 Preparation and Dilution Technique
 
