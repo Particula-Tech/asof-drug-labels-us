@@ -7,9 +7,9 @@ If such a reaction occurs, therapy with ipratropium bromide nasal solution 0.06%
 
 ## General
 
-1. Effects Seen with Anticholinergic Drugs: Ipratropium bromide nasal solution 0.06% (Nasal Spray) should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
-2. Use in Hepatic or Renal Disease: Ipratropium bromide nasal solution 0.06% (Nasal Spray) has not been studied in patients with hepatic or renal insufficiency.
-   It should be used with caution in those patient populations.
+- 1.Effects Seen with Anticholinergic Drugs: Ipratropium bromide nasal solution 0.06% (Nasal Spray) should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
+- 2.Use in Hepatic or Renal Disease: Ipratropium bromide nasal solution 0.06% (Nasal Spray) has not been studied in patients with hepatic or renal insufficiency.
+  It should be used with caution in those patient populations.
 
 ## Information for Patients
 
