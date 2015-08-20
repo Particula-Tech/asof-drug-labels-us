@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Isordil® (isosorbide dinitrate) Oral Titradose™ Tablets are available as follows:
+Isordil ® (isosorbide dinitrate) Oral Titradose™ Tablets are available as follows:
 
 5 mg, round, pink tablets imprinted "BPI 152" on one side and deeply scored on reverse side:
 
@@ -18,7 +18,7 @@ Keep bottles tightly closed.
 
 Dispense in a light-resistant, tight container.
 
-Isordil® is a registered trademark of Valeant Pharmaceuticals North America LLC
+Isordil ® is a registered trademark of Valeant Pharmaceuticals North America LLC
 
 Manufactured for:
 

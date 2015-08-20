@@ -2,7 +2,7 @@
 
 NDC 0187-0152-01
 
-Isordil®5 (isosorbide dinitrate)
+Isordil ®5 (isosorbide dinitrate)
 
 5 mg
 
@@ -18,7 +18,7 @@ Valeant Pharmaceuticals North America LLC
 
 NDC 0187-0192-01
 
-Isordil®40 (isosorbide dinitrate)
+Isordil ®40 (isosorbide dinitrate)
 
 40 mg
 
