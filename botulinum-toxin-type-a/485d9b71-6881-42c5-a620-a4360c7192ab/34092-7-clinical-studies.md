@@ -26,16 +26,11 @@ Table 4: Investigator's Assessment of Glabellar Line Severity at Maximum Frown �
 
 | Day | BOTOX Cosmetic | Placebo | Differencea |
 | --- | --- | --- | --- |
-| 7 | 74% | 6% | 68% |
-|  | 299/405 | 8/132 | (62, 74) |
-| 30b | 80% | 3% | 77% |
-|  | 325/405 | 4/132 | (72, 82) |
-| 60 | 70% | 2% | 69% |
-|  | 283/403 | 2/130 | (64, 74) |
-| 90 | 48% | 2% | 45% |
-|  | 192/403 | 3/128 | (40, 51) |
-| 120 | 25% | 2% | 24% |
-|  | 102/403 | 2/128 | (19, 29) |
+| 7 | 74% 299/405 | 6% 8/132 | 68% (62, 74) |
+| 30b | 80% 325/405 | 3% 4/132 | 77% (72, 82) |
+| 60 | 70% 283/403 | 2% 2/130 | 69% (64, 74) |
+| 90 | 48% 192/403 | 2% 3/128 | 45% (40, 51) |
+| 120 | 25% 102/403 | 2% 2/128 | 24% (19, 29) |
 | a 95% confidence intervals are shown in parenthesis |  |  |  |
 | b Day 30: Co-Primary Efficacy Time point, p<0.001 |  |  |  |
 
@@ -43,16 +38,11 @@ Table 5: Subject's Assessment of Change in Appearance of Glabellar Lines – Res
 
 | Day | BOTOX Cosmetic | Placebo | Differencea |
 | --- | --- | --- | --- |
-| 7 | 82% | 9% | 73% |
-|  | 334/405 | 12/132 | (68, 80) |
-| 30b | 89% | 7% | 83% |
-|  | 362/405 | 9/132 | (77, 88) |
-| 60 | 82% | 4% | 78% |
-|  | 330/403 | 5/130 | (73, 83) |
-| 90 | 63% | 3% | 60% |
-|  | 254/403 | 4/128 | (54, 66) |
-| 120 | 39% | 1% | 38% |
-|  | 157/403 | 1/128 | (33, 43) |
+| 7 | 82% 334/405 | 9% 12/132 | 73% (68, 80) |
+| 30b | 89% 362/405 | 7% 9/132 | 83% (77, 88) |
+| 60 | 82% 330/403 | 4% 5/130 | 78% (73, 83) |
+| 90 | 63% 254/403 | 3% 4/128 | 60% (54, 66) |
+| 120 | 39% 157/403 | 1% 1/128 | 38% (33, 43) |
 | a 95% confidence intervals are shown in parenthesis |  |  |  |
 | b Day 30: Co-Primary Efficacy Time point, p<0.001 |  |  |  |
 
@@ -64,14 +54,10 @@ Table 6: Investigator's and Subject's Assessment – Responder Rates for Subject
 
 | Assessment | Age Group | BOTOX Cosmetic (N=405) | Placebo (N=132) | Differencea |
 | --- | --- | --- | --- | --- |
-| Investigators | <65 | 83% | 2% | 81% |
-| (maximal frown) |  | 316/382 | 2/123 | (77, 86) |
-| Subjects | <65 | 91% | 7% | 84% |
-|  |  | 346/382 | 8/123 | (79, 90) |
-| Investigators | ≥65 | 39% | 22% | 17% |
-| (maximal frown) |  | 9/23 | 2/9 | (-17, 51) |
-| Subjects | ≥65 | 70% | 11% | 58% |
-|  |  | 16/23 | 1/9 | (31, 86) |
+| Investigators (maximal frown) | <65 | 83% 316/382 | 2% 2/123 | 81% (77, 86) |
+| Subjects | <65 | 91% 346/382 | 7% 8/123 | 84% (79, 90) |
+| Investigators (maximal frown) | ≥65 | 39% 9/23 | 22% 2/9 | 17% (-17, 51) |
+| Subjects | ≥65 | 70% 16/23 | 11% 1/9 | 58% (31, 86) |
 | a 95% confidence intervals are shown in parenthesis |  |  |  |  |
 
 Exploratory analyses by gender suggested that responder rates in the BOTOX Cosmetic treated group were higher for women than for men for both the investigator assessment (Day 30; 85% of 334 women, 59% of 71 men) and the Subject Assessment (Day 30; 93% of women, 72% of men).
@@ -89,7 +75,7 @@ In the 7-month Study 2, subjects were randomized to receive either BOTOX Cosmeti
 Subjects received the same 24 Units regimen for LCL as in Study 1, and the labeled 20 Units (5 injections, 4 Units per site) for GL.
 Subjects received the same treatment at days 1 and 120.
 
-The primary efficacy measure was the assessment of LCL severity at maximum smile using the 4-point Facial Wrinkle Scale with Photonumeric Guide (FWS; 0=none, 1= mild, 2= moderate, 3=severe).
+The primary efficacy measure was the assessment of LCL severity at maximum smile using the 4-point Facial Wrinkle Scale with Photonumeric Guide (FWS; 0=none, 1= mild, 2=moderate, 3=severe).
 The FWS assessment was performed independently by both investigators and subjects.
 The primary timepoint was day 30 following the first treatment, as compared to baseline.
 

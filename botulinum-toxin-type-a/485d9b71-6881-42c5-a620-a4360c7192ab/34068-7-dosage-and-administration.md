@@ -9,7 +9,7 @@ Indication specific dosage and administration recommendations should be followed
 In treating adult patients for one or more indications with BOTOX and BOTOX Cosmetic, the maximum cumulative dose should generally not exceed 360 Units, in a 3 month interval.
 
 The safe and effective use of BOTOX Cosmetic depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
-Physicians administering BOTOX Cosmetic must understand the relevant neuromuscular and/or orbital anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures [see Warnings and Precautions (5.3)].
+Physicians administering BOTOX Cosmetic must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
 
 ## 2.2 Preparation and Dilution Technique
 

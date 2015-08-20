@@ -4,7 +4,7 @@ The following adverse reactions to BOTOX Cosmetic (onabotulinumtoxinA) for injec
 
 - Spread of Toxin Effects [see Warnings and Precautions (5.2)]
 - Hypersensitivity [see Contraindications (4.1) and Warnings and Precautions (5.4)]
-- Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia [see Warnings and Precautions (5.7)]
+- Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,14 +28,10 @@ Table 2: Adverse Reactions Reported by ≥1% of the BOTOX Cosmetic treated Patie
 
 | Adverse Reactions by System Organ Class | BOTOX Cosmetic (N=405) | Placebo (N=130) |
 | --- | --- | --- |
-| General Disorders and Administration Site Conditions |  |  |
-| Facial pain | 6 (1%) | 0 (0%) |
-| Nervous System Disorders |  |  |
-| Facial paresis | 5 (1%) | 0 (0%) |
-| Eye Disorders |  |  |
-| Eyelid ptosis | 13 (3%) | 0 (0%) |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Muscular Weakness | 6 (1%) | 0 (0%) |
+| General Disorders and Administration Site Conditions Facial pain | 6 (1%) | 0 (0%) |
+| Nervous System Disorders Facial paresis | 5 (1%) | 0 (0%) |
+| Eye Disorders Eyelid ptosis | 13 (3%) | 0 (0%) |
+| Musculoskeletal and Connective Tissue Disorders Muscular Weakness | 6 (1%) | 0 (0%) |
 
 Lateral Canthal Lines
 
@@ -43,10 +39,9 @@ Table 3 lists selected adverse reactions reported within 90 days following injec
 
 Table 3: Adverse Reaction Reported by ≥1% of BOTOX Cosmetic treated Patients and More Frequent than in Placebo-treated Patients Within 90 Days, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Lateral Canthal Lines
 
-| Adverse Reactions by System Organ Class | BOTOX Cosmetic 24 Units (N=526) | Placebo (N=530) |
+| Adverse Reactions by System Organ Class | BOTOXCosmetic24 Units(N=526) | Placebo(N=530) |
 | --- | --- | --- |
-| Eye disorders |  |  |
-| Eyelid edema | 5 (1%) | 0 (0%) |
+| Eye disorders Eyelid edema | 5 (1%) | 0 (0%) |
 
 ## 6.2 Immunogenicity
 

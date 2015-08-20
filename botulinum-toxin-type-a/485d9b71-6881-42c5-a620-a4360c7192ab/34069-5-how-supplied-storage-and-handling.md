@@ -2,7 +2,9 @@
 
 BOTOX Cosmetic is supplied in a single-use vial in the following sizes:
 
-50 Units: NDC 0023-3919-50 100 Units: NDC 0023-9232-01
+50 Units: NDC 0023-3919-50
+
+100 Units: NDC 0023-9232-01
 
 The top and bottom flaps of the BOTOX Cosmetic cartons have a tamper-evident seal that contains a translucent silver Allergan logo.
 Vials of BOTOX Cosmetic have a holographic film on the vial label that contains the name “Allergan” within horizontal lines of rainbow color.

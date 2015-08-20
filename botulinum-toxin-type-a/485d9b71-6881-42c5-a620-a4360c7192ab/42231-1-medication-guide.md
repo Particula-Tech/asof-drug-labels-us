@@ -1,4 +1,4 @@
-MEDICATION GUIDE BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection
+MEDICATION GUIDE BOTOX® BOTOX®Cosmetic(Boe-tox) (onabotulinumtoxinA) for Injection
 
 Read the Medication Guide that comes with BOTOX or BOTOX Cosmetic before you start using it and each time it is given to you.
 There may be new information.
@@ -194,14 +194,15 @@ Active ingredient: botulinum toxin type A
 
 Inactive ingredients: human albumin and sodium chloride
 
-Revised: 04/2015
+Revised: 08/2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2015 Allergan, Inc. ® marks owned by Allergan, Inc. Patented.
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2015 Allergan.
+All rights reserved. ® marks owned by Allergan, Inc. Patented.
 See: www.allergan.com/products/patent_notices
 
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 
-72284US17
+72284US18
