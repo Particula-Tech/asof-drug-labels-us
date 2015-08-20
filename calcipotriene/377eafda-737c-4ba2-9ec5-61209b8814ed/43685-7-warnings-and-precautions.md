@@ -1,3 +1,7 @@
+# WARNINGS
+
+Contact dermatitis, including allergic contact dermatitis, has been observed with the use of Calcipotriene Cream.
+
 # PRECAUTIONS
 
 ## General

@@ -6,7 +6,7 @@ Rx only
 
 WARNING: Keep Out of Reach of Children
 
-Each gram contains 0.05 mg of calcipotriene in a cream base of cetearyl alcohol, ceteth-20, diazolidinyl urea, dichlorobenzyl alcohol, dibasic sodium phosphate, edetate disodium, glycerin, mineral oil, petrolatum, and water.
+Each gram contains 0.05 mg of calcipotriene in a cream base of cetearyl alcohol, ceteth-20, diazolidinyl urea, dichlorobenzyl alcohol, dibasic sodium phosphate, edetate disodium, dl-alpha tocopherol, glycerin, mineral oil, petrolatum, and water.
 
 For Topical Dermatologic Use Only.
 Not for Ophthalmic, Oral, or Intravaginal Use.
@@ -28,7 +28,7 @@ Rx only
 
 WARNING: Keep Out of Reach of Children
 
-Each gram contains 0.05 mg of calcipotriene in a cream base of cetearyl alcohol, ceteth-20, diazolidinyl urea, dichlorobenzyl alcohol, dibasic sodium phosphate, edetate disodium, glycerin, mineral oil, petrolatum, and water.
+Each gram contains 0.05 mg of calcipotriene in a cream base of cetearyl alcohol, ceteth-20, diazolidinyl urea, dichlorobenzyl alcohol, dibasic sodium phosphate, edetate disodium, dl-alpha tocopherol, glycerin, mineral oil, petrolatum, and water.
 
 For Topical Dermatologic Use Only.
 Not for Ophthalmic, Oral, or Intravaginal Use.
