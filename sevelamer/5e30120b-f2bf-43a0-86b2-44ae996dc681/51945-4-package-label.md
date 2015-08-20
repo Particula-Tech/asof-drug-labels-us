@@ -89,49 +89,18 @@ USUAL DOSAGE:
 
 SEE PACKAGE INSERT FOR DOSAGE INFORMATION.
 
-Bottle Label - Principal Display Panel – 800 mg - U.K.
-Source
-
-EACH TABLET CONTAINS:
-
-Active Ingredient: Sevelamer hydrochloride….800 mg.
-
-Inactive Ingredients:
-
-Hypromellose, diacetylated monoglyceride, colloidal silicon dioxide, and stearic acid.
-
-Dispense in a tight container.
-
-Protect from moisture.
-
-Store at 25ºC (77ºF).
-
-GENZYME
+# PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label - U.K. Source
 
 NDC 58468-0021-1
 
-Renagel® Tablets
+Renagel® Tablets (sevelamer hydrochloride) 800 mg
 
-(sevelamer hydrochloride) 800 mg
-
-180 Tablets
+180 TABLETS
 
 Rx only
 
-Manufactured by:
-
-Genzyme Ireland Ltd.
-
-For: Genzyme Corporation
-
-500 Kendall Street
-
-Cambridge, MA 02142 USA
-
-800 mg
+Manufactured By: Genzyme Ireland Ltd. For: Genzyme Corporation 500 Kendall Street Cambridge, MA 02142 USA
 
 Country of origin: U.K.
 
-USUAL DOSAGE:
-
-SEE PACKAGE INSERT FOR DOSAGE INFORMATION.
+800 mg
