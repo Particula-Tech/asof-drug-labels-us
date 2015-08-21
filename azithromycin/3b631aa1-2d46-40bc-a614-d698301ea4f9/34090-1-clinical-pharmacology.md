@@ -15,13 +15,13 @@ QTc interval prolongation was studied in a randomized, placebo-controlled parall
 Co- administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
 In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
-Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hour is higher than the mean Cmax of azithromycin following the administration of a 1500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
+Since the mean Cmax of azithromycin following a 500 mg IV dose given over 1 hr is higher than the mean Cmax of azithromycin following the administration of a 1500 mg oral dose, it is possible that QTc may be prolonged to a greater extent with IV azithromycin at close proximity to a one hour infusion of 500 mg.
 
 ## 12.3 Pharmacokinetics
 
-In patients hospitalized with community-acquired pneumonia receiving single daily one-hour intravenous infusions for 2 to 5 days of 500-mg azithromycin at a concentration of 2 mg/mL, the mean Cmax ± S.D. achieved was 3.63 ± 1.60 mcg/mL, while the 24-hour trough level was 0.20 ± 0.15 mcg/mL, and the AUC24 was 9.60 ± 4.80 mcg∙h/mL.
+In patients hospitalized with community-acquired pneumonia receiving single daily one-hour intravenous infusions for 2 to 5 days of 500 mg azithromycin at a concentration of 2 mg/mL, the mean Cmax ± S.D. achieved was 3.63 ± 1.60 mcg/mL, while the 24-hour trough level was 0.20 ± 0.15 mcg/mL, and the AUC24 was 9.60 ± 4.80 mcg∙h/mL.
 
-The mean Cmax, 24-hour trough and AUC24 values were 1.14 ± 0.14 mcg/mL, 0.18 ± 0.02 mcg/mL, and 8.03 ±0.86 mcg∙ h/mL, respectively, in normal volunteers receiving a 3-hour intravenous infusion of 500 mg azithromycin at a concentration of 1 mg/mL.
+The mean Cmax, 24-hour trough and AUC24 values were 1.14 ± 0.14 mcg/mL, 0.18 ± 0.02 mcg/mL, and 8.03 ±0.86 mcg∙ hr/mL, respectively, in normal volunteers receiving a 3-hour intravenous infusion of 500 mg azithromycin at a concentration of 1 mg/mL.
 Similar pharmacokinetic values were obtained in patients hospitalized with community-acquired pneumonia who received the same 3-hour dosage regimen for 2–5 days.
 
 | 0.5 | 1 | 2 | 3 | 4 | 6 | 8 | 12 | 24 |  |
@@ -32,9 +32,9 @@ Similar pharmacokinetic values were obtained in patients hospitalized with commu
 
 Comparison of the plasma pharmacokinetic parameters following the 1st and 5th daily doses of 500 mg intravenous azithromycin showed only an 8% increase in Cmax but a 61% increase in AUC24 reflecting a threefold rise in C24 trough levels.
 
-Following single-oral doses of 500 mg azithromycin (two 250 mg capsules) to 12 healthy volunteers, Cmax, trough level, and AUC24 were reported to be 0.41 mcg/mL, 0.05 mcg/mL, and 2.6 mcg∙h/mL, respectively.
+Following single-oral doses of 500 mg azithromycin (two 250 mg capsules) to 12 healthy volunteers, Cmax, trough level, and AUC24 were reported to be 0.41 mcg/mL, 0.05 mcg/mL, and 2.6 mcg∙hr/mL, respectively.
 These oral values are approximately 38%, 83%, and 52% of the values observed following a single 500-mg I.V.
-3-hour infusion (Cmax: 1.08 mcg/mL, trough: 0.06 mcgg/mL, and AUC24: 5.0 mcg∙h/mL).
+3-hour infusion (Cmax: 1.08 mcg/mL, trough: 0.06 mcg/mL, and AUC24: 5.0 mcg∙hr/mL).
 Thus, plasma concentrations are higher following the intravenous regimen throughout the 24-hour interval.
 
 Distribution
@@ -42,8 +42,8 @@ Distribution
 The serum protein binding of azithromycin is variable in the concentration range approximating human exposure, decreasing from 51% at 0.02 mcg/mL to 7% at 2 mcg/mL.
 
 Tissue concentrations have not been obtained following intravenous infusions of azithromycin, but following oral administration in humans azithromycin has been shown to penetrate into tissues, including skin, lung, tonsil, and cervix.
-Tissue levels were determined following a single oral dose of 500-mg azithromycin in 7 gynecological patients.
-Approximately 17 hours after dosing, azithromycin concentrations were 2.7 mcg/g in ovarian tissue, 3.5 mcg/g in uterine tissue, and 3.3 mcg/g in salpinx.
+Tissue levels were determined following a single oral dose of 500 mg azithromycin in 7 gynecological patients.
+Approximately 17 hr after dosing, azithromycin concentrations were 2.7 mcg/g in ovarian tissue, 3.5 mcg/g in uterine tissue, and 3.3 mcg/g in salpinx.
 Following a regimen of 500 mg on the first day followed by 250 mg daily for 4 days, concentrations in the cerebrospinal fluid were less than 0.01 mcg/mL in the presence of non-inflamed meninges.
 
 Metabolism
@@ -52,10 +52,9 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 Elimination
 
-Plasma concentrations of azithromycin following single 500-mg oral and IV doses declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hours.
-The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
+Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hr. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
 
-In a multiple-dose study in 12 normal volunteers utilizing a 500-mg (1 mg/mL) one-hour intravenous-dosage regimen for five days, the amount of administered azithromycin dose excreted in urine in 24 hours was about 11% after the 1st dose and 14% after the 5th dose.
+In a multiple-dose study in 12 normal volunteers utilizing a 500 mg (1 mg/mL) one-hour intravenous-dosage regimen for five days, the amount of administered azithromycin dose excreted in urine in 24 hr was about 11% after the 1st dose and 14% after the 5th dose.
 These values are greater than the reported 6% excreted unchanged in urine after oral administration of azithromycin.
 Biliary excretion is a major route of elimination for unchanged drug, following oral administration.
 
@@ -64,7 +63,7 @@ Specific Populations
 Renal Insufficiency
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
-Following the oral administration of a single 1,000-mg dose of azithromycin, mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+Following the oral administration of a single 1,000 mg dose of azithromycin, mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 increased 61% and 35%, respectively in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
 Hepatic Insufficiency
@@ -171,7 +170,7 @@ Dilution techniques
 Quantitative methods are used to determine minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method 1,2 (broth, and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 1.
+The MIC values should be interpreted according to criteria provided in Table 3.
 
 Diffusion techniques
 
@@ -179,9 +178,9 @@ Quantitative methods that require measurement of zone diameters can provide repr
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using standardized methods2,3.
 This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
-The disk diffusion interpretive criteria are provided in Table 1.
+The disk diffusion interpretive criteria are provided in Table 3.
 
-Table 1.
+Table 3.
 Susceptibility Interpretive Criteria for Azithromycin
 
 | S | I | R | S | I | R |  |
@@ -200,10 +199,10 @@ A report of "Resistant" indicates that the antimicrobial is not likely to inhibi
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3.
-Standard azithromycin powder should provide the following range of MIC values provided in Table 2.
-For the diffusion technique using the 15-mcg azithromycin disk the criteria provided in Table 2 should be achieved.
+Standard azithromycin powder should provide the following range of MIC values provided in Table 4.
+For the diffusion technique using the 15-mcg azithromycin disk the criteria provided in Table 4 should be achieved.
 
-Table 2: Acceptable Quality Control Ranges for Susceptibility Testing
+Table 4: Acceptable Quality Control Ranges for Susceptibility Testing
 
 | Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
 | --- | --- | --- |
