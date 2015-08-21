@@ -2,6 +2,6 @@
 
 Tablets
 
-Tizanidine Tablets USP, 2 mg are white to off white, oval, flat, beveled edged tablets embossed with “R179” on one side and “bisecting score” on other side.
+Tizanidine Tablets USP, 2 mg are white to off white, oval, flat, beveled edged tablets debossed with “R179” on one side and “bisecting score” on other side.
 
-Tizanidine Tablets USP, 4 mg are white to off white, oval, flat, beveled edged tablets embossed with “R180” on one side and “quadrisecting score” on other side.
+Tizanidine Tablets USP, 4 mg are white to off white, oval, flat, beveled edged tablets debossed with “R180” on one side and “quadrisecting score” on other side.
