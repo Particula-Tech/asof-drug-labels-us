@@ -159,12 +159,12 @@ These serious side effects include:
 - •serotonin syndrome.
   Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti‑depressant medicines called SSRIs or SNRIs.
 - Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
-  1. 1.mental changes such as seeing things that are not there (hallucinations), agitation, or coma
-  2. 2.fast heartbeat
-  3. 3.changes in blood pressure
-  4. 4.high body temperature
-  5. 5.tight muscles
-  6. 6.trouble walking
+  1. •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  2. •fast heartbeat
+  3. •changes in blood pressure
+  4. •high body temperature
+  5. •tight muscles
+  6. •trouble walking
 - •seizures.
   Seizures have happened in people taking IMITREX who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take IMITREX.
@@ -273,8 +273,6 @@ The tamper-evident seals over the 2 Syringe Cartridges are labeled “A” and �
 Always use the Syringe Cartridge marked “A” before the one marked “B” to help you keep track of your doses.
 Do not use if either seal is broken or missing when you first open the Carrying Case.
 
-Figure A
-
 2.
 Tear off one of the tamper-evident seals (see Figure A). Throw away the seal.
 Open the lid over the Syringe Cartridge.
@@ -287,19 +285,13 @@ Check to make sure the white Priming Rod is not sticking out from the lower end 
 If it is sticking out, put the Pen back into the Carrying Case and press down firmly until you feel it click.
 Take the Pen out of the Carrying Case.
 
-Figure B
-
 4.
 Put the Pen in the Cartridge Pack.
 Turn it to the right (clockwise) until it will not turn any more (about half a turn) (see Figure C).
 
-Figure C
-
 5.
 Hold the loaded Pen by the ridges and pull it straight out (see Figure D). You may need to pull hard on the Pen, but this is normal.
 Do not press the Blue Button yet.
-
-Figure D
 
 The Pen is now ready to use.
 Do not put the loaded Pen back into the Carrying Case because that will damage the needle.
@@ -310,10 +302,6 @@ Before injecting your medicine, choose an area with a fatty tissue layer (see Fi
 
 To prepare the area of skin where IMITREX is to be injected, wipe the injection site with an alcohol swab.
 Do not touch this area again before giving the injection.
-
-Figure E
-
-Figure F
 
 6.
 Without pushing the Blue Button, press the loaded Pen firmly against the skin so that the grey barrel slides down toward the blue section that holds the Syringe Cartridge (see Figure D). (This releases the Safety Catch that keeps the Pen from firing by mistake until you are ready.)
@@ -327,8 +315,6 @@ If the Pen is taken away from the skin too soon, not all the medicine will come 
 After 5 seconds, carefully take the Pen away from your skin.
 The needle will be showing (see Figure G). Do not touch the needle.
 
-Figure G
-
 How to unload the IMITREX STATdose Pen after taking your medicine
 
 Right after you take a dose with the Pen, you need to return the used Syringe Cartridge to the Cartridge Pack.
@@ -336,19 +322,13 @@ Right after you take a dose with the Pen, you need to return the used Syringe Ca
 9.
 Push the Pen down into the empty side of the Cartridge Pack as far as it will go (see Figure H).
 
-Figure H
-
 10.
 Turn the Pen to the left (counterclockwise) about half a turn until it is released from the Syringe Cartridge (see Figure I).
-
-Figure I
 
 11.
 Pull the empty Pen out of the Cartridge Pack (see Figure J).
 
 Because the Pen has now been used, the white Priming Rod will stick out from the lower end of the Pen (see Figure J).
-
-Figure J
 
 12.
 Close the Cartridge Pack lid over the used Syringe Cartridge.
@@ -373,12 +353,8 @@ Open the Carrying Case lid.
 15.
 Hold the Carrying Case with one hand and press the 2 buttons on either side of the Carrying Case (see Figure K).
 
-Figure K
-
 16.
 Gently pull out the Cartridge Pack with the other hand (see Figure L).
-
-Figure L
 
 17.
 Throw away the Cartridge Pack or dispose of it as instructed by your healthcare provider.
@@ -391,18 +367,12 @@ How to insert a new Cartridge Pack
 Take the new Cartridge Pack out of its box.
 Do not take off the tamper‑ evident seals (see Figure M).
 
-Figure M
-
 19.
 Put the Cartridge Pack in the Carrying Case.
 Slide it down smoothly (see Figure N).
 
-Figure N
-
 20.
 The Cartridge Pack will click into place when the 2 buttons show through the holes in the Carrying Case (see Figure O). Close the lid.
-
-Figure O
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -417,6 +387,6 @@ Research Triangle Park, NC 27709
 ©2015, the GSK group of companies.
 All rights reserved.
 
-June 2015
+August 2015
 
-IMJ:4PIL
+IMJ:5PIL
