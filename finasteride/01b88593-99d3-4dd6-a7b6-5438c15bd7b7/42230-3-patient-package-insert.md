@@ -33,7 +33,7 @@ How should I take finasteride tablets?
 
 - Take finasteride tablets exactly as your healthcare provider tells you to take them.
 - You may take finasteride tablets with or without food.
-- If you forget to take finasteride tablets do not take an extra tablet.
+- If you forget to take finasteride tablets, do not take an extra tablet.
   Just take the next tablet as usual.
 
 Finasteride tablets will not work faster or better if you take them more than once a day.
@@ -92,4 +92,4 @@ What are the ingredients in finasteride tablets?
 Active ingredient: finasteride.
 Inactive ingredients: docusate sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch (maize), sodium starch glycolate, talc, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Distributed by: Citron Pharma LLC Suite-1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Issued: 07/2014
+Distributed by: Citron Pharma LLC Suite-1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 02/2015
