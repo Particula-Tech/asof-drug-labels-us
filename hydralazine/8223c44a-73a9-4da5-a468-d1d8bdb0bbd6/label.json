@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040388"
+  ],
+  "inn": "hydralazine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-614-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "hydralazine hydrochloride",
+      "name": "Hydralazine Hydrochloride"
+    }
+  ],
+  "setid": "8223c44a-73a9-4da5-a468-d1d8bdb0bbd6",
+  "source": "dailymed"
+}
