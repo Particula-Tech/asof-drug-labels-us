@@ -1,0 +1,49 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Teratogenic Effects: Pregnancy Category C There are no adequate and well-controlled studies of entecavir tablets in pregnant women.
+Because animal reproduction studies are not always predictive of human response, entecavir tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to entecavir tablets, an Antiretroviral Pregnancy Registry has been established.
+Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
+Animal Data Animal reproduction studies with entecavir in rats and rabbits revealed no evidence of teratogenicity.
+Developmental toxicity studies were performed in rats and rabbits.
+There were no signs of embryofetal or maternal toxicity when pregnant animals received oral entecavir at approximately 28 (rat) and 212 (rabbit) times the human exposure achieved at the highest recommended human dose of 1 mg/day.
+In rats, maternal toxicity, embryofetal toxicity (resorptions), lower fetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at exposures 3100 times those in humans.
+In rabbits, embryofetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13th rib were observed at exposures 883 times those in humans.
+In a peri­postnatal study, no adverse effects on offspring occurred when rats received oral entecavir at exposures greater than 94 times those in humans.
+
+## 8.2 Labor & Delivery
+
+There are no studies in pregnant women and no data on the effect of entecavir tablets on transmission of HBV from mother to infant.
+Therefore, appropriate interventions should be used to prevent neonatal acquisition of HBV.
+
+## 8.3 Nursing Mothers
+
+It is not known whether entecavir tablets are excreted into human milk; however, entecavir is excreted into the milk of rats.
+Because many drugs are excreted into human milk and because of the potential for serious adverse reactions in nursing infants from entecavir tablets, a decision should be made to discontinue nursing or to discontinue entecavir tablets taking into consideration the importance of continued hepatitis B therapy to the mother and the known benefits of breastfeeding.
+
+## 8.4 Pediatric Use
+
+The efficacy and safety of entecavir tablets have not been established in patients less than 2 years of age.
+Use of entecavir tablets in this age group has not been evaluated because treatment of HBV in this age group is rarely required.
+Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
+However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
+
+## 8.5 Geriatric Use
+
+Clinical studies of entecavir tablets did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
+Entecavir is substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.4)].
+
+## 8.6 Racial/Ethnic Groups
+
+There are no significant racial differences in entecavir pharmacokinetics.
+
+## 8.7 Renal Impairment
+
+Dosage adjustment of entecavir tablet is recommended for patients with creatinine clearance less than 50 mL/min, including patients on hemodialysis or CAPD [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+
+## 8.8 Liver Transplant Recipients
+
+If entecavir tablets treatment is determined to be necessary for a liver transplant recipient who has received or is receiving an immunosuppressant that may affect renal function, such as cyclosporine or tacrolimus, renal function must be carefully monitored both before and during treatment with entecavir tablets [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

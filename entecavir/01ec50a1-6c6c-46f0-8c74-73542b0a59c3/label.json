@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205740"
+  ],
+  "inn": "entecavir",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-833-30",
+    "31722-833-31",
+    "31722-833-32",
+    "31722-833-90",
+    "31722-834-30",
+    "31722-834-31",
+    "31722-834-32",
+    "31722-834-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "entecavir",
+      "name": "Entecavir"
+    }
+  ],
+  "setid": "01ec50a1-6c6c-46f0-8c74-73542b0a59c3",
+  "source": "dailymed"
+}
