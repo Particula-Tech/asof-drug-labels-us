@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202126"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "Sun Pharmaceuticals Industries Inc.",
+  "package_ndcs": [
+    "57664-596-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    }
+  ],
+  "setid": "4fe788bc-4ad1-4b32-83d3-dcbfcd8429aa",
+  "source": "dailymed"
+}
