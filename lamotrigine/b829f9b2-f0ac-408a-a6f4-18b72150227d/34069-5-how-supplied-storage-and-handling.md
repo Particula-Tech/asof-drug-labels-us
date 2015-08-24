@@ -13,7 +13,7 @@ Other side scored and engraved with "LMT" above the score and "25" below the sco
 | Bottles of 1000 | NDC 51672-4130-3 |
 | Unit dose packages of 100 | NDC 51672-4130-0 |
 
-Store at 20°-25°C (68°-77°F)[see USP Controlled Room Temperature] in a dry place.
+Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] in a dry place.
 
 Lamotrigine Tablets USP, 100 mg:
 
@@ -56,30 +56,6 @@ Other side scored and engraved with "LMT" above the score and "200" below the sc
 
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-Lamotrigine Starter Kit for Patients Taking Valproate
+Blisterpacks
 
-25-mg, round, white, scored tablets.
-One side engraved with "TARO".
-Other side scored and engraved with "LMT" above the score and "25" below the score, 3 blistercards of 7 tablets and 1 blistercard of 14 tablets (NDC 51672-4130-8).
-
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] in a dry place.
-
-Lamotrigine Starter Kit for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, or Primidone and Not Taking Valproate
-
-25-mg, round, white, scored tablets.
-One side engraved with "TARO".
-Other side scored and engraved with "LMT" above the score and "25" below the score and 100-mg, round, light peach, scored tablets.
-One side engraved with "TARO".
-Other side scored and engraved with "LMT" above the score and "100" below the score, bottle of 84, 25-mg tablets and 2 blistercards of 7, 100-mg tablets (NDC 51672-4134-5).
-
-Store at 20°-25°C (68°-77°F)[see USP Controlled Room Temperature] in a dry place and protect from light.
-
-Lamotrigine Starter Kit for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate
-
-25-mg, round, white, scored tablets.
-One side engraved with "TARO".
-Other side scored and engraved with "LMT" above the score and "25" below the score and 100-mg, round, light peach, scored tablets.
-One side engraved with "TARO".
-Other side scored and engraved with "LMT" above the score and "100" below the score, bottle of 42, 25-mg tablets and blister card of 7, 100-mg tablets (NDC 51672-4134-2).
-
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
+If the product is dispensed in a blisterpack, the patient should be advised to examine the blisterpack before use and not use if blisters are torn, broken, or missing.

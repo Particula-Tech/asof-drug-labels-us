@@ -14,8 +14,9 @@ Safety and effectiveness of lamotrigine have not been established (1) as initial
 
 ## 1.2 Bipolar Disorder
 
-Lamotrigine is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in adults (aged 18 years and older) treated for acute mood episodes with standard therapy.
-The effectiveness of lamotrigine in the acute treatment of mood episodes has not been established.
+Lamotrigine is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.1)].
 
-The effectiveness of lamotrigine as maintenance treatment was established in 2 placebo-controlled trials in patients with bipolar I disorder as defined by DSM-IV [see Clinical Studies (14.2)].
-The physician who elects to prescribe lamotrigine for periods extending beyond 16 weeks should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+Limitations of Use
+
+Treatment of acute manic or mixed episodes is not recommended.
+Effectiveness of lamotrigine in the acute treatment of mood episodes has not been established.
