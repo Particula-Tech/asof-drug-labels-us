@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078188"
+  ],
+  "inn": "irinotecan",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-193-52",
+    "63323-193-55"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Irinotecan Hydrochloride"
+    }
+  ],
+  "setid": "ee45f127-8450-4455-a945-a1f5707f1d39",
+  "source": "dailymed"
+}
