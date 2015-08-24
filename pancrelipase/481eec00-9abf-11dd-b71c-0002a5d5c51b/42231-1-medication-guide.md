@@ -19,7 +19,8 @@ Call your doctor right away if you have any unusual or severe:
 Take PERTZYE exactly as prescribed by your doctor.
 Do not take more or less PERTZYE than directed by your doctor.
 
-What is PERTZYE?PERTZYE is a prescription medicine for people who cannot digest food normally because their pancreas does not make enough enzymes due to cystic fibrosis or other conditions.
+What is PERTZYE?
+PERTZYE is a prescription medicine for people who cannot digest food normally because their pancreas does not make enough enzymes due to cystic fibrosis or other conditions.
 
 PERTZYE capsules contain a mixture of digestive enzymes including lipases, proteases and amylases from pig pancreas.
 PERTZYE is safe and effective in children when taken as prescribed by your doctor.
@@ -65,16 +66,6 @@ Giving PERTZYE to children and adults
 5. If you forget to take PERTZYE, wait until your next meal and take your usual number of capsules.
    Take your next dose at your usual time.
    Do not take two doses at one time.
-
-​Giving PERZYE to infants (children up to 12 months)
-
-1. Give PERTZYE right before each feeding of formula or breast milk
-2. Do not mix PERTZYE capsule contents directly into formula or breast milk
-3. Open the capsule and mix the contents with a small amount of applesauce, the kind found in baby food jars that you buy at the store, or other food recommended by your doctor.
-   You may also empty the contents directly into your child's mouth.
-4. If you mix the PERTZYE microspheres with food, give the PERTZYE-food mixture right away.
-5. Give your child enough liquid to completely swallow the PERTZYE contents or the PERTZYE-food mixture.
-6. Look in your child's mouth to make sure that all of the medicine has been swallowed.
 
 What are the possible side effects of PERTZYE?
 
@@ -131,19 +122,14 @@ For more information, go to www.digestivecare.com or call 1-877-882-5950.
 What are the ingredients in PERTZYE?
 Active Ingredients: lipase, protease, amylase
 
-Inactive Ingredients: sodium bicarbonate, sodium carbonate, cellulose acetate phthalate, sodium starch glycolate, diethyl phthalate, ursodiol, polyvinylpyrrolidone, and talc.
-
-The hard gelatin capsule shells contain: gelatin and water
-
-The green imprinting ink on the 4,000 units of lipase; 14,375 units of protease; 15,125 units of amylase capsules contain: FD&C Blue #1, FD&C Yellow #10, black iron oxide, ethanol, methanol, n-butyl alcohol, propylene glycol, shellac and ammonium hydroxide.
-
-The blue imprinting ink on the 8,000 units of lipase; 28,750 units of protease; 30,250 units of amylase capsules contain: FD&C Blue #1, ethanol, methanol, n-butyl alcohol, propylene glycol, shellac and ammonium hydroxide.
-The red imprinting ink on the 16,000 units of lipase; 57,500 units of protease; 60,500 units of amylase capsules contain: FD&C Red #40, povidone, titanium dioxide, dehydrated alcohol, sodium hydroxide, butyl alcohol, propylene glycol, isopropyl alcohol, and shellac.
+Inactive Ingredients: The hard gelatin capsules contain: sodium bicarbonate, sodium carbonate, cellulose acetate phthalate, sodium starch glycolate, diethyl phthalate, ursodiol, polyvinylpyrrolidone, and talc.
+The imprinting ink on the 8,000 units of lipase; 28,750 units of protease; 30,250 of amylase capsules contain: FD&C Blue #1, ethanol, methanol, n-butyl alcohol, propylene glycol, shellac and ammonium hydroxide.
+The imprinting ink on the 16,000 units of lipase; 57,500 units of protease; 60,500 of amylase capsules contain: FD&C Red #40, povidone, titanium dioxide, dehydrated alcohol, sodium hydroxide, butyl alcohol, propylene glycol, isopropyl alcohol, and shellac.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured in the USA by:
 
-Digestive Care, Inc. Bethlehem, PA 18017 Issued: June 2014
+Digestive Care, Inc. Bethlehem, PA 18017 Issued: May 2012
 
-© 2014 Digestive Care, Inc.
+© 2012 Digestive Care, Inc.
