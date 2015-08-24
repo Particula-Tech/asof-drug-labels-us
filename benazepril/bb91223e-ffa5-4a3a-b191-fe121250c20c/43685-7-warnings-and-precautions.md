@@ -132,8 +132,10 @@ Monitor renal function periodically in patients receiving benazepril and NSAID t
 
 The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
 
-Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
-Closely monitor blood pressure, renal function and electrolytes in patients on benazepril hydrochloride and other agents that block the RAS.
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual Blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypertension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
+In general, avoid combined use of RAS inhibitors.
+Closely monitor blood pressure, renal function and electrolytes in patients on benazepril hydrochloride and other agents that affect the RAS.
 
 Do not co-administer aliskiren with benazepril hydrochloride in patients with diabetes.
 Avoid use of aliskiren with benazepril hydrochloride in patients with renal impairment (GFR <60 ml/min).

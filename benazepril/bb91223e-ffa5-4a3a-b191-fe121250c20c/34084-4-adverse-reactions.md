@@ -10,9 +10,9 @@ The most common reasons for discontinuation were headache (0.6%) and cough (0.5%
 
 The side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with benazepril hydrochloride tablets are shown below.
 
-Patients in U.S. Placebo-Controlled Studies
+PATIENTS IN U.S. PLACEBO-CONTROLLED STUDIES
 
-|  | Benazepril Hydrochloride Tablets (N=964) |  | Placebo (N=496) |  |
+|  | BENAZEPRIL HYDROCHLORIDE TABLETS (N=964) | PLACEBO (N=496) |  |  |
 | --- | --- | --- | --- | --- |
 |  | N | % | N | % |
 | Headache | 60 | 6.2 | 21 | 4.2 |
@@ -30,7 +30,7 @@ Hematologic: Thrombocytopenia and hemolytic anemia.
 
 Neurologic and Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
 
-Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, and sweating.
+Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.
 
 Another potentially important adverse experience, eosinophilic pneumonitis, has been attributed to other ACE inhibitors.
 
@@ -41,4 +41,4 @@ Pediatric Patients: The adverse experience profile for pediatric patients appear
 Hemoglobin: Decreases in hemoglobin (a low value and a decrease of 5 g/dL) were rare, occurring in only 1 of 2,014 patients receiving benazepril hydrochloride tablets alone and in 1 of 1,357 patients receiving benazepril hydrochloride tablets plus a diuretic.
 No U.S. patients discontinued treatment because of decreases in hemoglobin.
 
-Other (causal relationships unknown): Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes, leukopenia, eosinophilia, and proteinuria.
+Other (causal relationships unknown): Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.

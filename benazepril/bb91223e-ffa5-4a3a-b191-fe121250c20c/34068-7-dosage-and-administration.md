@@ -28,7 +28,7 @@ In children, doses of benazepril hydrochloride between 0.1 and 0.6 mg/kg once da
 Based on this, the recommended starting dose of benazepril hydrochloride is 0.2 mg/kg once per day as monotherapy.
 Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in pediatric patients.
 
-For pediatric patients who cannot swallow tablets, or for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths for benazepril hydrochloride tablets, follow the suspension preparation instructions below to administer benazepril hydrochloride tablets as a suspension.
+For pediatric patients who cannot swallow tablets, or for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths for benazepril hydrochloride tablets, follow the suspension preparation instructions below to administer benazepril HCL as a suspension.
 
 Treatment with benazepril hydrochloride tablets is not advised for children below the age of 6 years (see PRECAUTIONS, Pediatric Use) and in pediatric patients with glomerular filtration rate <30 mL, as there are insufficient data available to support a dosing recommendation in these groups.
 

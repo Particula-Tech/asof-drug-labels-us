@@ -11,14 +11,14 @@ Benazepril hydrochloride tablets, USP, 40 mg, are round, blue, film-coated table
 Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
 Protect from moisture.
 
-Dispense in a tight container (USP).
+Dispense in tight container (USP).
 
-You may report side effects to Solco Healthcare US, LLC at 1-866-257-2597 or FDA at 1-800-FDA-1088
+To report SUSPECTED ADVERSE REACTIONS, contact Solco Healthcare US, LLC at 1-866-257-2597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512
+Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
 
-Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd Linhai, Zhejiang 317024, China
+Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
 
-Version: 01/2014
+Version: 05/2015
 
-07713-01
+07713-02
