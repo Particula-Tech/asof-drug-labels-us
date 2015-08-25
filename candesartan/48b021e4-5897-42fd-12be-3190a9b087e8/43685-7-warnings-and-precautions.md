@@ -42,6 +42,11 @@ In such patients, ATACAND HCT therapy should be started under close medical supe
 
 ## Impaired Renal Function
 
+Monitor renal function periodically in patients treated with ATACAND HCT.
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing oliguria, progressive azotemia, or acute renal failure on ATACAND HCT.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on ATACAND HCT.
+
 ## Potassium Abnormalities
 
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
