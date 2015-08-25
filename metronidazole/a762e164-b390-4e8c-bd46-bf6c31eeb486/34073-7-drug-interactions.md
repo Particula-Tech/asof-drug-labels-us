@@ -8,7 +8,7 @@ The concurrent use of tetracycline hydrochloride, a component of PYLERA, with me
 ## 7.2 Disulfiram
 
 Psychotic reactions have been reported in alcoholic patients who are using metronidazole, a component of PYLERA and disulfiram concurrently.
-PYLERA should not be given to patients who have taken disulfiram within the last 2 weeks [See Contraindications (4.2)].
+PYLERA should not be given to patients who have taken disulfiram within the last two weeks [See Contraindications (4.2)].
 
 ## 7.3 Alcohol
 
