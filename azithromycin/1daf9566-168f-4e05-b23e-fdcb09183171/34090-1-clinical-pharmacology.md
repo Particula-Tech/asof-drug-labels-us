@@ -14,7 +14,7 @@ In comparison to chloroquine alone, the maximum mean (95% upper confidence bound
 
 ## 12.3 Pharmacokinetics
 
-Zmax is an extended release microsphere formulation.
+Zmax is an extended-release microsphere formulation.
 Based on data obtained from studies evaluating the pharmacokinetics of azithromycin in healthy adult subjects a higher peak serum concentration (Cmax) and greater systemic exposure (AUC 0–24) of azithromycin are achieved on the day of dosing following a single 2 g dose of Zmax versus 1.5 g of azithromycin tablets administered over 3 days (500 mg/day) or 5 days (500 mg on day 1, 250 mg/day on days 2–5) [Table 2].
 Consequently, due to these different pharmacokinetic profiles, Zmax is not interchangeable with azithromycin tablet 3-day and 5-day dosing regimens.
 
@@ -24,17 +24,17 @@ Mean (SD) Pharmacokinetic Parameters for Azithromycin on Day 1 Following the Adm
 | Zmax [N=41]N = 21 for AUC0–∞ and t1/2 | 3-day Cmax, Tmax and AUC0–24 values for Day 1 only [N=12] | 5-day [N=12] |  |
 | --- | --- | --- | --- |
 | Pharmacokinetic ParameterZmax, 3-day and 5-day regimen parameters obtained from separate pharmacokinetic studies | Azithromycin Regimen |  |  |
-| Cmax (µg/mL) | 0.821 (0.281) | 0.441 (0.223) | 0.434 (0.202) |
+| Cmax (mcg/mL) | 0.821 (0.281) | 0.441 (0.223) | 0.434 (0.202) |
 | TmaxMedian (range) (hr) | 5.0 (2.0–8.0) | 2.5 (1.0–4.0) | 2.5 (1.0–6.0) |
-| AUC0–24 (µg∙hr/mL) | 8.62 (2.34) | 2.58 (0.84) | 2.60 (0.71) |
-| AUC0–∞Total AUC for the 1-day, 3-day and 5-day regimens (µg∙hr/mL) | 20.0 (6.66) | 17.4 (6.2) | 14.9 (3.1) |
+| AUC0–24 (mcg∙hr/mL) | 8.62 (2.34) | 2.58 (0.84) | 2.60 (0.71) |
+| AUC0–∞Total AUC for the 1-day, 3-day and 5-day regimens (mcg∙hr/mL) | 20.0 (6.66) | 17.4 (6.2) | 14.9 (3.1) |
 | t1/2 (hr) | 58.8 (6.91) | 71.8 (14.7) | 68.9 (13.8) |
 | SD = standard deviation Cmax = maximum serum concentration Tmax = time to Cmax AUC = area under concentration vs. time curve t1/2 = terminal serum half-life |  |  |  |
 
 Absorption
 
 The bioavailability of Zmax relative to azithromycin immediate release (IR) (powder for oral suspension) was 83%.
-On average, peak serum concentrations were achieved approximately 2.5 hours later following Zmax administration and were lower by 57%, compared to 2 g azithromycin IR.
+On average, peak serum concentrations were achieved approximately 2.5 hr later following Zmax administration and were lower by 57%, compared to 2 g azithromycin IR.
 Thus, single 2 g doses of Zmax and azithromycin IR are not bioequivalent and are not interchangeable.
 
 Effect of food on absorption: A high-fat meal increased the rate and extent of absorption of a 2 g dose of Zmax (115% increase in Cmax, and 23% increase in AUC0–72) compared to the fasted state.
@@ -44,7 +44,7 @@ Effect of antacids: Following the administration of Zmax with an aluminum and ma
 
 Distribution
 
-The serum protein binding of azithromycin is concentration dependent, decreasing from 51% at 0.02 µg/mL to 7% at 2 µg/mL.
+The serum protein binding of azithromycin is concentration dependent, decreasing from 51% at 0.02 mcg/mL to 7% at 2 mcg/mL.
 Following oral administration, azithromycin is widely distributed throughout the body with an apparent steady-state volume of distribution of 31.1 L/kg.
 
 Azithromycin concentrates in fibroblasts, epithelial cells, macrophages, and circulating neutrophils and monocytes.
@@ -59,17 +59,17 @@ Azithromycin Exposure Data in White Blood Cells and Lung Following a 2 g Single 
 
 | A single 2 g dose of Zmax |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| WBC | Cmax (µg/mL) | AUC0–24 (µg∙hr/mL) | AUC0–120 (µg∙hr/mL) | Ct=120Azithromycin concentration at 120 hours after the start of dosing (µg/mL) |
+| WBC | Cmax (mcg/mL) | AUC0–24 (mcg∙hr/mL) | AUC0–120 (mcg∙hr/mL) | Ct=120Azithromycin concentration at 120 hr after the start of dosing (mcg/mL) |
 | MNLData are presented as mean (standard deviation) | 116 (40.2) | 1790 (540) | 4710 (1100) | 16.2 (5.51) |
 | PMNL | 146 (66.0) | 2080 (650) | 10000 (2690) | 81.7 (23.3) |
-| LUNG | Cmax (µg/mL) | AUC0–24 (µg∙hr/mL) | AUC0–72 (µg∙hr/mL) |  |
+| LUNG | Cmax (mcg/mL) | AUC0–24 (mcg∙hr/mL) | AUC0–72 (mcg∙hr/mL) |  |
 | ALVEOLAR CELLCmax and AUC were calculated based on composite profile (n = 4 subjects/time point/formulation). | 669 | 7028 | 20403 | - |
 | ELF | 3.2 | 17.6 | 131 | - |
-|  | Cmax (µg/g) | AUC0–24 (µg∙hr/g) | AUC0–72 (µg∙hr/g) |  |
+|  | Cmax (mcg/g) | AUC0–24 (mcg∙hr/g) | AUC0–72 (mcg∙hr/g) |  |
 | LUNG TISSUE | 37.9 | 505 | 1693 | - |
 | Abbreviation: WBC: white blood cells; MNL: mononuclear leukocytes; PMNL: polymorphonuclear leukocytes; ELF: Epithelial lining fluid |  |  |  |  |
 
-Following a regimen of 500 mg of azithromycin tablets on the first day and 250 mg daily for 4 days, only very low concentrations were noted in cerebrospinal fluid (less than 0.01 µg/mL) in the presence of non-inflamed meninges.
+Following a regimen of 500 mg of azithromycin tablets on the first day and 250 mg daily for 4 days, only very low concentrations were noted in cerebrospinal fluid (less than 0.01 mcg/mL) in the presence of non-inflamed meninges.
 
 Metabolism
 
@@ -77,8 +77,7 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 Excretion
 
-Serum azithromycin concentrations following a single 2 g dose of Zmax declined in a polyphasic pattern with a terminal elimination half-life of 59 hours.
-The prolonged terminal half-life is thought to be due to a large apparent volume of distribution.
+Serum azithromycin concentrations following a single 2 g dose of Zmax declined in a polyphasic pattern with a terminal elimination half-life of 59 hr. The prolonged terminal half-life is thought to be due to a large apparent volume of distribution.
 
 Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
 Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.
@@ -105,7 +104,7 @@ Although there was high inter-patient variability in systemic exposure (AUC and 
 Table 4.
 Mean (SD) Pharmacokinetic Parameters for Azithromycin Following Administration of a Single Dose of Zmax (60 mg/kg, maximum dose of 2 g) to Pediatric Subjects Aged 3 Months to 16 Years
 
-| Cmax (µg/mL) | TmaxMedian (range) presented only for Tmax (hr) | AUC(0–24) (µg∙hr/mL) | AUC(0–∞) (µg∙hr/mL) |  |
+| Cmax (mcg/mL) | TmaxMedian (range) presented only for Tmax (hr) | AUC(0–24) (mcg∙hr/mL) | AUC(0–∞) (mcg∙hr/mL) |  |
 | --- | --- | --- | --- | --- |
 | Treatment Group | Pharmacokinetic Parameters |  |  |  |
 | Group 1 (N = 6) [3 to 18 months] | 0.74 (0.20) | 3 (3–3) | 6.29 (1.17) | 14.1 (2.16) (n = 3) |
@@ -116,7 +115,7 @@ Mean (SD) Pharmacokinetic Parameters for Azithromycin Following Administration o
 | Group 6 (N = 6) [>12 to 16 years] | 0.98 (0.35) | 3 (3–6) | 11.0 (4.78) | 21.3 (9.37) |
 | Pooled 1–6 (N = 36) [On an empty stomach] | 1.27 (0.53) | 3 (3–6) | 13.1 (5.78) | 25.2 (10.7) (n = 32) |
 | Group 7One subject vomited immediately after dosing and discontinued from the study (N = 7) [Fed; 18 months to 8 years] | 1.41 (0.62) | 3 (1.5–3.1) | 7.43 (3.00) | 18.9 (3.57) (n = 3) |
-| Empty stomach = dosed with Zmax at least 1 hour before or 2 hours after a meal (Groups I–VI) Fed = dosed with Zmax within 5 minutes of consuming an age-appropriate high-fat breakfast (Group VII) |  |  |  |  |
+| Empty stomach = dosed with Zmax at least 1 hr before or 2 hr after a meal (Groups I–VI) Fed = dosed with Zmax within 5 minutes of consuming an age-appropriate high-fat breakfast (Group VII) |  |  |  |  |
 
 Gender
 

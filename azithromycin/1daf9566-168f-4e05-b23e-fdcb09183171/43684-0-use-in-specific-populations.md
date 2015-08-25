@@ -19,7 +19,7 @@ Safety and effectiveness in the treatment of pediatric patients under 6 months o
 
 Community-Acquired Pneumonia: The safety and effectiveness of Zmax have been established in pediatric patients 6 months of age or older with community-acquired pneumonia due to Chlamydophila pneumoniae, Mycoplasma pneumoniae, Haemophilus influenzae or Streptococcus pneumoniae.
 Use of Zmax for these patients is supported by evidence from adequate and well-controlled studies of Zmax in adults with additional safety and pharmacokinetic data in pediatric patients.
-[See DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6), CLINICAL PHARMACOLOGY (12.3)]
+[See Dosage and Administration (2.2), Adverse reactions (6), Clinical Pharmacology (12.3)]
 
 Acute bacterial sinusitis: Safety and effectiveness in the treatment of pediatric patients with acute bacterial sinusitis have not been established.
 
@@ -30,13 +30,13 @@ Data collected from the azithromycin capsule and tablet formulations indicate th
 In clinical trials of Zmax, 17% of subjects were at least 65 years of age (214/1292) and 5% of subjects (59/1292) were at least 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmia than younger patients.
-[See WARNINGS AND PRECAUTIONS (5.5)].
+[See Warnings and Precautions (5.5)].
 
 ## 8.6 Renal Impairment
 
 No dosage adjustment is recommended for patients GFR >10 mL/min.
 Caution should be exercised when Zmax is administered to patients with GFR <10 mL/min, due to a higher incidence of gastrointestinal adverse events (8 of 19 subjects) observed in a limited number of subjects with GFR <10 mL/min.
-[See CLINICAL PHARMACOLOGY (12)]
+[See Clinical Pharmacology (12)]
 
 ## 8.7 Gender
 

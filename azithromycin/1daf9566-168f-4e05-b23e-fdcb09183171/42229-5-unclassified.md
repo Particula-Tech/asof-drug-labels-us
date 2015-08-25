@@ -4,4 +4,4 @@ Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc. Ketek® is a 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0606-2.0
+LAB-0606-3.0 May 2015

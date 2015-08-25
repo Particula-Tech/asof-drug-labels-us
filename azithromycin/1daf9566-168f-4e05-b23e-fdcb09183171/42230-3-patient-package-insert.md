@@ -1,6 +1,6 @@
 # FDA-approved patient labeling
 
-Read the Patient Information that comes with Zmax ® carefully before you or your child take it.
+Read the Patient Information that comes with Zmax® carefully before you or your child take it.
 This leaflet does not take the place of talking with your doctor about you or your child's medical condition or treatment.
 Only your doctor can decide if Zmax is right for you or your child.
 
@@ -35,7 +35,7 @@ Who should not take Zmax?
 
 Talk with your doctor or pharmacist if you have questions about your medicine allergies.
 
-Before you start Zmax...
+Before you start Zmax
 
 Tell your doctor about all your or your child's medical problems including if you or your child:
 
@@ -55,7 +55,8 @@ Keep a list of your medicines and show it to your doctor or pharmacist when you 
 Do I need to prepare Zmax?
 
 - If you get Zmax in liquid form, it is ready to take.
-- If you get Zmax as dry powder, you must add water to the bottle before you take it.
+- If you get Zmax as dry powder, you must add water to the bottle
+- before you take it.
   To prepare Zmax:
   1. Open the bottle: To open the bottle, press down on the cap and twist.
   2. Use a measuring cup to add 60 mL (1/4 cup) water to the Zmax bottle.
@@ -65,15 +66,15 @@ How do I take Zmax?
 
 - Keep Zmax at room temperature between 59ºF to 86ºF (15º to 30ºC).
 - Shake the bottle well before using.
-- Take Zmax or give it to your child within 12 hours after it has been prepared by the pharmacy or you add water to the powder.
+- Take Zmax or give it to your child within 12 hr after it has been prepared by the pharmacy or you add water to the powder.
 - Take Zmax or give it to your child exactly how your doctor prescribes it.
   This will help to treat you or your child's infection and decrease the chance that Zmax or other antibiotics will not work to treat infections in the future.
   - Adults: take all the medicine in the bottle.
   - Children: give your child the amount of Zmax prescribed by your doctor and throw away the rest of the medicine.
   - To be sure that you give your child the right dose of Zmax, use a dosing spoon, medicine syringe, or cup.
-- Take Zmax on an empty stomach (at least 1 hour before eating or 2 hours after eating).
+- Take Zmax on an empty stomach (at least 1 hr before eating or 2 hr after eating).
 - You can take antacids with Zmax.
-- If you or your child throws up (vomits) within one hour of taking Zmax, call your doctor right away to see if more medicine is needed.
+- If you or your child throws up (vomits) within one hr of taking Zmax, call your doctor right away to see if more medicine is needed.
   Do not give your child more Zmax unless your doctor tells you to.
 - If your child takes too much Zmax, call your doctor right away or go to the nearest hospital emergency room.
 
@@ -82,17 +83,18 @@ How will I know Zmax is working?
 Zmax needs time to work, so you or your child may not feel better right away.
 If you or your child's symptoms do not get better in a few days, call your doctor.
 
-What are possible side effects of Zmax?
+What are the possible side effects of Zmax?
 
 Zmax may cause serious side effects.
 These happened in a small number of patients.
 Call your doctor right away or get emergency treatment if you or your child have any of the following:
 
 - Serious allergic reaction or serious skin reaction: Get emergency help right away if you or your child has:
-  - Hives, skin rash, sores in your mouth, or your skin blisters and peels
+  - Skin rash (hives), sores in your mouth, or your skin blisters and peels
   - Trouble swallowing,
   - Swelling of your face, eyes, lips, tongue or throat
   - Wheezing or trouble breathing
+  - New onset of fever and swollen lymph nodes
 
 These symptoms could go away and then come back.
 

@@ -4,13 +4,13 @@
 
 Zmax should be taken as a single 2 g dose.
 Zmax provides a full course of antibacterial therapy in a single oral dose.
-It is recommended that Zmax be taken on an empty stomach (at least 1 hour before or 2 hours following a meal).
+It is recommended that Zmax be taken on an empty stomach (at least 1 hr before or 2 hr following a meal).
 
-## 2.2 Pediatric patients
+## 2.2 Pediatric Patients
 
 For pediatric patients 6 months and older, Zmax should be taken as a single dose of 60 mg/kg (equivalent to 27 mg/lb) body weight.
 The Zmax dose in mL is equivalent to the child's weight in lb (1 mL/lb dose, see Table 1 below), for a body weight of less than 75 lb (34 kg).
-It is recommended that Zmax be taken on an empty stomach (at least 1 hour before or 2 hours following a meal).
+It is recommended that Zmax be taken on an empty stomach (at least 1 hr before or 2 hrs following a meal).
 
 Pediatric patients weighing 75 lb (34 kg) or more should receive the adult dose (2 g).
 
@@ -37,19 +37,19 @@ Zmax Pediatric Dosage Guidelines: 1-dose regimen
 | 70 | 32 | 1890 | 70 |
 | ≥75 | 34 | 2000 | Consume entire contents of bottle |
 
-## 2.3 Additional treatment after vomiting with Zmax
+## 2.3 Additional Treatment after Vomiting with Zmax
 
 In the event that a patient vomits within 5 minutes of administration, the health care provider should consider additional antibiotic treatment since there would be minimal absorption of azithromycin.
 Since insufficient data exist on absorption of azithromycin if a patient vomits between 5 and 60 minutes following administration, alternative therapy should be considered.
 Neither a second dose of Zmax nor alternative treatment is warranted if vomiting occurs ≥60 minutes following administration, in patients with normal gastric emptying.
 In patients with delayed gastric emptying, alternative therapy should be considered.
 
-## 2.4 Instructions for the pharmacist
+## 2.4 Instructions for the Pharmacist
 
 Constitute with 60 mL of water and replace cap.
 Shake bottle well before dispensing.
 Do not refrigerate.
-Constituted suspension should be consumed within 12 hours.
+Constituted suspension should be consumed within 12 hr.
 
 For pediatric dosing in patients weighing less than 75 lb (34 kg), use of a dosing device is recommended.
 The pharmacist should inform the patient's caregiver that any suspension remaining after dosing MUST be discarded.

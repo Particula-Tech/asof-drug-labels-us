@@ -27,14 +27,14 @@ Community-Acquired Pneumonia
 
 Adult subjects with a diagnosis of mild-to-moderate community-acquired pneumonia were evaluated in two, randomized, double-blind, multicenter studies.
 In both studies, clinical and microbiologic evaluations were conducted for all subjects at the Test of Cure (TOC) visit, 7 to 14 days post-treatment.
-In the first study, 247 subjects were treated with a single 2 g oral dose of Zmax and 252 subjects were treated with clarithromycin extended release, 1 g orally QD for 7 days.
+In the first study, 247 subjects were treated with a single 2 g oral dose of Zmax and 252 subjects were treated with clarithromycin extended-release, 1 g orally QD for 7 days.
 In the second study, 211 subjects were treated with a single 2.0 g oral dose of Zmax and 212 subjects were treated with levofloxacin, 500 mg orally QD for 7 days.
 A patient was considered a cure if signs and symptoms related to the acute infection had resolved, or if clinical improvement was such that no additional antibiotics were deemed necessary; in addition, the chest x-ray performed at the TOC visit was to be either improved or stable.
 The clinical response at TOC for the primary population, Clinical Per Protocol Subjects, is presented in the table below.
 
 |  | ZMAX | COMPARATOR |
 | --- | --- | --- |
-| ZMAX VS. CLARITHROMYCIN EXTENDED RELEASE | N=202 | N=209 |
+| ZMAX VS. CLARITHROMYCIN EXTENDED-RELEASE | N=202 | N=209 |
 | CURE | 187 (92.6%) | 198 (94.7%) |
 | FAILURE | 15 (7.4%) | 11 (5.3%) |
 | ZMAX VS. LEVOFLOXACIN | N=174 | N=189 |

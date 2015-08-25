@@ -9,6 +9,5 @@ Before constitution, store dry powder at or below 30°C (86°F).
 After constitution, store suspension at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 Do not refrigerate or freeze.
 
-Constituted suspension should be consumed within 12 hours.
-For adult patients, the entire bottle should be consumed.
+Constituted suspension should be consumed within 12 hr. For adult patients, the entire bottle should be consumed.
 For pediatric patients, any suspension remaining after dosing MUST be discarded.
