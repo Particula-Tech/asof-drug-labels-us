@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Ammonia N 13 Injection is packaged in 30 or 50 mL multiple dose vials containing between 1.11 GBq to 48.1 GBq (30 mCi to 1300 mCi) of [13N] ammonia, at the end of synthesis (EOS) reference time, in 0.9% sodium chloride injection solution.
-The recommended dose of radioactivity (10-20 mCi, 370-740 MBq) is associated with a theoretical mass dose of 0.05-0.1 picomoles (8.47- 16.94 picograms) of Ammonia.
+The recommended dose of radioactivity (10-20 mCi, 370-740 MBq) is associated with a theoretical mass dose of 0.5-1.0 picomoles (8.47- 16.94 picograms) of Ammonia.
 
 NDC� Code: 30 mL Vial:����������� NDC 52768-100-30 50 mL Vial:����������� NDC 52768-100-50
 
