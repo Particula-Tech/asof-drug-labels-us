@@ -47,7 +47,7 @@ The mean change from baseline in trough FEV1 was greater among subjects receivin
 Table 3.
 Change from Baseline in Trough FEV1 (mL) at Week 24 – Trial 1
 
-| Trough FEV1 (Week 24) | Placebo(n = 113) | ARNUITY ELLIPTA 100 mcg(n = 111) | Fluticasone Propionate 250 mcg Twice Daily(n = 107) |
+| Trough FEV1 (Week 24) | Placebo(n = 113) | ARNUITY ELLIPTA100 mcg(n = 111) | Fluticasone Propionate250 mcg Twice Daily(n = 107) |
 | --- | --- | --- | --- |
 | Least squares mean | 2,372 | 2,519 | 2,517 |
 | Least squares mean change (SE) | 15 (39.4) | 161 (39.8) | 159 (40.6) |

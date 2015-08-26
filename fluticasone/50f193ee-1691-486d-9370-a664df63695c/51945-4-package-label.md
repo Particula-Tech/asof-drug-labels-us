@@ -12,14 +12,16 @@ Rx Only
 
 FOR ORAL INHALATION ONLY
 
-Each blister contains 100 mcg of fluticasone furoate.
+Each blister contains 100 mcg of fluticasone furoate and lactose monohydrate.
 
 1 Ellipta® Inhaler containing 1 Foil Strip of 30 Blisters
 
 Made in Singapore
 
-DEVCOMP-0002987 Rev.
-8/14
+©2014, the GSK group of companies
+
+10000000127598 Rev.
+9/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -35,11 +37,13 @@ Rx Only
 
 FOR ORAL INHALATION ONLY
 
-Each blister contains 200 mcg of fluticasone furoate.
+Each blister contains 200 mcg of fluticasone furoate and lactose monohydrate.
 
 1 Ellipta® Inhaler containing 1 Foil Strip of 30 Blisters
 
 Made in Singapore
 
-DEVCOMP-0002997 Rev.
-8/14
+©2014, the GSK group of companies
+
+10000000127628 Rev.
+10/14
