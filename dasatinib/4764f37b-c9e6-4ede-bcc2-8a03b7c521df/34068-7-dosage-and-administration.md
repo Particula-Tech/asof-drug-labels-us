@@ -6,16 +6,16 @@ Tablets should not be crushed or cut; they should be swallowed whole.
 SPRYCEL can be taken with or without a meal, either in the morning or in the evening.
 
 In clinical studies, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
-The effect of stopping treatment after the achievement of a complete cytogenetic response (CCyR) has not been investigated.
+The effect of stopping treatment on long-term disease outcome after the achievement of a cytogenetic response (including complete cytogenetic response [CCyR]) or major molecular response (MMR) is not known.
 
 ## 2.1 Dose Modification
 
-Concomitant Strong CYP3A4 inducers: The use of concomitant strong CYP3A4 inducers may decrease dasatinib plasma concentrations and should be avoided (eg, dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, phenobarbital).
+Concomitant Strong CYP3A4 inducers: The use of concomitant strong CYP3A4 inducers may decrease dasatinib plasma concentrations and should be avoided (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, phenobarbital).
 St. John’s Wort may decrease dasatinib plasma concentrations unpredictably and should be avoided.
 If patients must be coadministered a strong CYP3A4 inducer, based on pharmacokinetic studies, a SPRYCEL dose increase should be considered.
 If the dose of SPRYCEL is increased, the patient should be monitored carefully for toxicity [see Drug Interactions (7.2)].
 
-Concomitant Strong CYP3A4 inhibitors: CYP3A4 inhibitors (eg, ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole) may increase dasatinib plasma concentrations.
+Concomitant Strong CYP3A4 inhibitors: CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole) may increase dasatinib plasma concentrations.
 Grapefruit juice may also increase plasma concentrations of dasatinib and should be avoided.
 
 Selection of an alternate concomitant medication with no or minimal enzyme inhibition potential, if possible, is recommended.
@@ -25,8 +25,7 @@ For patients taking SPRYCEL 140 mg daily, a dose decrease to 40 mg daily should 
 These reduced doses of SPRYCEL are predicted to adjust the area under the curve (AUC) to the range observed without CYP3A4 inhibitors.
 However, there are no clinical data with these dose adjustments in patients receiving strong CYP3A4 inhibitors.
 If SPRYCEL is not tolerated after dose reduction, either the strong CYP3A4 inhibitor must be discontinued, or SPRYCEL should be stopped until treatment with the inhibitor has ceased.
-When the strong inhibitor is discontinued, a washout period of approximately 1 week should be allowed before the SPRYCEL dose is increased.
-[See Drug Interactions (7.1).]
+When the strong inhibitor is discontinued, a washout period of approximately 1 week should be allowed before the SPRYCEL dose is increased [see Drug Interactions (7.1)].
 
 ## 2.2 Dose Escalation
 
@@ -50,4 +49,4 @@ Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 ### Non-hematological adverse reactions
 
 If a severe non-hematological adverse reaction develops with SPRYCEL use, treatment must be withheld until the event has resolved or improved.
-Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
+Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the severity and recurrence of the event [see Warnings and Precautions (5.1)].

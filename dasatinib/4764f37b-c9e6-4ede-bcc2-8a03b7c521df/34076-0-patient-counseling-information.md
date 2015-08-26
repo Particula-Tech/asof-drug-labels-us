@@ -1,50 +1,54 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-## 17.1 Bleeding
+### Bleeding
 
 Patients should be informed of the possibility of serious bleeding and to report immediately any signs or symptoms suggestive of hemorrhage (unusual bleeding or easy bruising).
 
-## 17.2 Myelosuppression
+### Myelosuppression
 
 Patients should be informed of the possibility of developing low blood cell counts; they should be instructed to report immediately should fever develop, particularly in association with any suggestion of infection.
 
-## 17.3 Fluid Retention
+### Fluid Retention
 
-Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, or shortness of breath) and to seek medical attention if those symptoms arise.
+Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, dry cough, chest pain on respiration, or shortness of breath) and to seek medical attention promptly if those symptoms arise.
 
-## 17.4 Embryo-fetal Toxicity
+### Embryo-Fetal Toxicity
 
-Patients should be informed that SPRYCEL can cause fetal harm when administered to a pregnant woman.
-Women should be advised of the potential hazard to the fetus and to avoid becoming pregnant.
-If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1, 8.8)].
+- •Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+- •Advise females of reproductive potential to avoid pregnancy, which may include use of effective contraception during treatment with SPRYCEL and for 30 days after the final dose.
+  Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking SPRYCEL [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1, 8.3)].
 
-## 17.5 Gastrointestinal Complaints
+### Lactation
+
+- •Advise women that breastfeeding is not recommended during treatment with SPRYCEL and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
+
+### Gastrointestinal Complaints
 
 Patients should be informed that they may experience nausea, vomiting, or diarrhea with SPRYCEL.
-If these symptoms are significant, they should seek medical attention.
+If these symptoms are bothersome or persistent, they should seek medical attention.
 
-## 17.6 Pain
+### Pain
 
 Patients should be informed that they may experience headache or musculoskeletal pain with SPRYCEL.
-If these symptoms are significant, they should seek medical attention.
+If these symptoms are bothersome or persistent, they should seek medical attention.
 
-## 17.7 Fatigue
+### Fatigue
 
 Patients should be informed that they may experience fatigue with SPRYCEL.
-If this symptom is significant, they should seek medical attention.
+If this symptom is bothersome or persistent, they should seek medical attention.
 
-## 17.8 Rash
+### Rash
 
 Patients should be informed that they may experience skin rash with SPRYCEL.
-If this symptom is significant, they should seek medical attention.
+If this symptom is bothersome or persistent, they should seek medical attention.
 
-## 17.9 Lactose
+### Lactose
 
 Patients should be informed that SPRYCEL contains 135 mg of lactose monohydrate in a 100-mg daily dose and 189 mg of lactose monohydrate in a 140-mg daily dose.
 
-## 17.10 Missed Dose
+### Missed Dose
 
 If the patient misses a dose of SPRYCEL, the patient should take the next scheduled dose at its regular time.
 The patient should not take two doses at the same time.

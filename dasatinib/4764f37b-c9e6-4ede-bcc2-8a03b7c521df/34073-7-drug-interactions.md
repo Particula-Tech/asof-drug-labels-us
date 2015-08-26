@@ -19,7 +19,7 @@ When 30 mL of aluminum hydroxide/magnesium hydroxide was administered to the sam
 Simultaneous administration of SPRYCEL with antacids should be avoided.
 If antacid therapy is needed, the antacid dose should be administered at least 2 hours prior to or 2 hours after the dose of SPRYCEL.
 
-H2 Antagonists/Proton Pump Inhibitors: Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (eg, famotidine and omeprazole) is likely to reduce dasatinib exposure.
+H2 Antagonists/Proton Pump Inhibitors: Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (e.g., famotidine and omeprazole) is likely to reduce dasatinib exposure.
 In a trial of 24 healthy subjects, administration of a single 50-mg dose of SPRYCEL 10 hours following famotidine reduced the AUC and Cmax of dasatinib by 61% and 63%, respectively.
 In a trial of 14 healthy subjects, administration of a single 100-mg dose of SPRYCEL 22 hours following a 40-mg omeprazole dose at steady state reduced the AUC and Cmax of dasatinib by 43% and 42%, respectively.
 The concomitant use of H2 antagonists or proton pump inhibitors with SPRYCEL is not recommended.

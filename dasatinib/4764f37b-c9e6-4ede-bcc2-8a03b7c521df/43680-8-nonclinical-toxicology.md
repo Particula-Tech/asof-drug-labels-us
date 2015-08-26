@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a two-year carcinogenicity study, rats were administered oral doses of dasatinib at 0.3, 1, and 3 mg/kg/day.
+In a 2-year carcinogenicity study, rats were administered oral doses of dasatinib at 0.3, 1, and 3 mg/kg/day.
 The highest dose resulted in a plasma drug exposure (AUC) level approximately 60% of the human exposure at 100 mg once daily.
 Dasatinib induced a statistically significant increase in the combined incidence of squamous cell carcinomas and papillomas in the uterus and cervix of high-dose females and prostate adenoma in low-dose males.
 

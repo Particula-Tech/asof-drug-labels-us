@@ -7,14 +7,14 @@ Based on modeling studies, dasatinib is predicted to bind to multiple conformati
 
 In vitro, dasatinib was active in leukemic cell lines representing variants of imatinib mesylate sensitive and resistant disease.
 Dasatinib inhibited the growth of chronic myeloid leukemia (CML) and acute lymphoblastic leukemia (ALL) cell lines overexpressing BCR-ABL.
-Under the conditions of the assays, dasatinib was able to overcome imatinib resistance resulting from BCR-ABL kinase domain mutations, activation of alternate signaling pathways involving the SRC family kinases (LYN, HCK), and multi-drug resistance gene overexpression.
+Under the conditions of the assays, dasatinib was able to overcome imatinib resistance resulting from BCR- ABL kinase domain mutations, activation of alternate signaling pathways involving the SRC family kinases (LYN, HCK), and multi-drug resistance gene overexpression.
 
 ## 12.3 Pharmacokinetics
 
 ### Absorption
 
 Maximum plasma concentrations (Cmax) of dasatinib are observed between 0.5 and 6 hours (Tmax) following oral administration.
-Dasatinib exhibits dose proportional increases in AUC and linear elimination characteristics over the dose range of 15 mg to 240 mg/day.
+Dasatinib exhibits dose proportional increases in AUC and linear elimination characteristics over the dose range of 15 to 240 mg/day.
 The overall mean terminal half-life of dasatinib is 3 to 5 hours.
 
 Data from a trial of 54 healthy subjects administered a single, 100-mg dose of dasatinib 30 minutes following consumption of a high-fat meal resulted in a 14% increase in the mean AUC of dasatinib.
