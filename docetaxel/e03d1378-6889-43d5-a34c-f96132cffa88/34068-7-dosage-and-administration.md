@@ -63,7 +63,7 @@ Docetaxel Injection in combination with doxorubicin and cyclophosphamide should 
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
 Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection dose reduced to 60 mg/ m2.
 Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection dose decreased to 60 mg/ m2.
-Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have their dosage of Docetaxel Injection reduced from 75 to 60 mg/ m2.
+Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have their dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
 If the patient continues to experience these reactions at 60 mg/ m2, treatment should be discontinued.
 
 Non-Small Cell Lung Cancer
@@ -84,7 +84,7 @@ Prostate Cancer
 Combination therapy with Docetaxel Injection for hormone-refractory metastatic prostate cancer
 
 Docetaxel Injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
-Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 to 60 mg/ m2.
+Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/ m2.
 If the patient continues to experience these reactions at 60 mg/m2, the treatment should be discontinued.
 
 Gastric or Head and Neck Cancer

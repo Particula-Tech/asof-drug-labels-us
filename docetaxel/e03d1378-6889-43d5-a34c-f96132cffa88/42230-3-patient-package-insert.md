@@ -1,8 +1,8 @@
 # Patient Information
 
-Docetaxel Injection
+Docetaxel (doe-se-TAKS-el) Injection
 
-(Pronounced as doe-se-TAKS-el)
+Intravenous Infusion
 
 Read this Patient Information before you receive your first treatment with Docetaxel Injection and each time before you are treated.
 There may be new information.
@@ -44,7 +44,7 @@ Your body may hold too much fluid (severe fluid retention) during treatment with
 This can be life threatening.
 To decrease the chance of this happening, you must take another medicine, a corticosteroid, before each Docetaxel Injection treatment.
 You must take the corticosteroid exactly as your doctor tells you.
-Tell your doctor or nurse before your Docetaxel Injection treatment if you forget to take corticosteroid dose or do not take it as your doctor tells you.
+Tell your doctor or nurse before your Docetaxel Injection treatment if you forget to take the corticosteroid dose or do not take it as your doctor tells you.
 
 What is Docetaxel Injection?
 
@@ -56,11 +56,11 @@ Docetaxel Injection is a prescription anti-cancer medication used to treat certa
 - •stomach cancer
 - •head and neck cancer
 
-The effectiveness of Docetaxel Injection in children has not been established.
+It is not known if Docetaxel Injection is effective in children.
 
-Who should not take Docetaxel Injection?
+Who should not receive Docetaxel Injection?
 
-Do not take Docetaxel Injection if you:
+Do not receive Docetaxel Injection if you:
 
 - •have had a severe allergic reaction to:
   - odocetaxel, the active ingredient in Docetaxel Injection, or
@@ -74,21 +74,23 @@ What should I tell my doctor before receiving Docetaxel Injection?
 Before you receive Docetaxel Injection, tell your doctor if you:
 
 - •are allergic to any medicines.
-  See "Who should not take Docetaxel Injection?"
-  Also, see the end of this leaflet for a list of the ingredients in Docetaxel Injection.
+  See "Who should not receive Docetaxel Injection?"
+  Also, see the end of this leaflet for a complete list of the ingredients in Docetaxel Injection.
 - •have liver problems
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
   Docetaxel Injection can harm your unborn baby.
-- •are breast-feeding or plan to breast-feed.
+  You should not become pregnant during treatment with Docetaxel Injection.
+  Talk to your doctor about effective birth control while receiving Docetaxel Injection.
+- •are breastfeeding or plan to breastfeed.
   It is not known if Docetaxel Injection passes into your breast milk.
-  You and your doctor should decide if you will take Docetaxel Injection or breast-feed.
+  You and your doctor should decide if you will receive Docetaxel Injection or breastfeed.
 
-Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel Injection may affect the way other medicines work, and other medicines may affect the way Docetaxel Injection works.
 
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How will I receive Docetaxel Injection?
 
@@ -96,7 +98,7 @@ How will I receive Docetaxel Injection?
 - •Docetaxel Injection is usually given every 3 weeks.
 - •Your doctor will decide how long you will receive treatment with Docetaxel Injection.
 - •Your doctor will check your blood cell counts and other blood tests during your treatment with Docetaxel Injection to check for side effects of Docetaxel Injection.
-- •Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking Docetaxel Injection.
+- •Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving Docetaxel Injection.
 
 What are the possible side effects of Docetaxel Injection?
 
@@ -104,10 +106,14 @@ Docetaxel Injection may cause serious side effects including death.
 
 - •See "What is the most important information I should know about Docetaxel Injection?"
 - •Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take Docetaxel Injection along with certain other medicines.
-  Tell your doctor about all the medicines you take.
-- •Other Blood Disorders - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
+- •Other Blood Disorders.
+  Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
 - •Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - •Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+- •Vision Problems including blurred vision or loss of vision.
+- •Docetaxel Injection contains alcohol.
+  The alcohol content in Docetaxel Injection may impair your ability to drive or use machinery right after receiving Docetaxel Injection.
+  Consider whether you should drive, operate machinery or do other dangerous activities right after you receive Docetaxel Injection treatment.
 
 The most common side effects of Docetaxel Injection include:
 
@@ -125,7 +131,7 @@ The most common side effects of Docetaxel Injection include:
 - •hair loss
 - •rash
 - •redness of the eye, excess tearing
-- •skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin.
+- •skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin
 - •tissue damage if Docetaxel Injection leaks out of the vein into the tissues
 
 Tell your doctor if you have any side effect that bothers you or does not go away.
@@ -141,15 +147,15 @@ General information about Docetaxel Injection
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 This Patient Information leaflet summarizes the most important information about Docetaxel Injection.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about Docetaxel Injection that is written for healthcare professionals.
+You can ask your pharmacist or doctor for information about Docetaxel Injection that is written for health professionals.
 
-For more information contact Sandoz Inc., at 1-800-525-8747.
+For more information, call 1-800-525-8747.
 
 What are the ingredients in Docetaxel Injection?
 
 Active ingredient: docetaxel
 
-Inactive ingredients include: citric acid, ethanol, polyethylene glycol 300, and polysorbate 80
+Inactive ingredients: alcohol, citric acid, polyethylene glycol 300, and polysorbate 80
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancersTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Day 1 Date:________ Time: _____AM_____ PM Day 2 Date:________ Time: _____AM_____ PM(Docetaxel Injection Treatment Day) Day 3 Date:________ Time: _____AM_____ PM |  |
 | --- | --- |
@@ -168,4 +174,4 @@ Nfg.KG
 
 A-4866 Unterach, Austria
 
-August 2013
+Revised: July 2014
