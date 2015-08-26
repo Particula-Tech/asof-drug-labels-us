@@ -80,7 +80,7 @@ The patient using this drug should be cautioned accordingly.
 
 Use RYBIX ODT with great caution in patients taking monoamine oxidase inhibitors.
 Animal studies have shown increased deaths with combined administration.
-Concomitant use of tramadol with MAO inhibitors or SSRI’s increases the risk of adverse events, including seizure and serotonin syndrome.
+Concomitant use of tramadol with MAO inhibitors or SSRI's increases the risk of adverse events, including seizure and serotonin syndrome.
 
 ## Misuse, Abuse and Diversion
 
@@ -151,7 +151,7 @@ CYP2D6 and CYP3A4 Inhibitors
 Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHARMACOLOGY, Pharmacokinetics), such as quinidine, fluoxetine, paroxetine and amitriptyline (CYP2D6 inhibitors), and ketoconazole and erythromycin (CYP3A4 inhibitors), may reduce metabolic clearance of tramadol increasing the risk for serious adverse events including seizures and serotonin syndrome.
 
 Serotonergic Drugs There have been postmarketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
-Caution is advised when RYBIX ODT is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John’s Wort.
+Caution is advised when RYBIX ODT is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.
 If concomitant treatment of RYBIX ODT with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 Triptans Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when RYBIX ODT is coadministered with a triptan.
@@ -166,7 +166,7 @@ The clinical consequences of these findings are unknown.
 In vitro drug interaction studies in human liver microsomes indicate that tramadol has no effect on quinidine metabolism.
 
 Potential for Other Drugs to Affect Tramadol In vitro drug interaction studies in human liver microsomes indicate that concomitant administration with inhibitors of CYP2D6 such as fluoxetine, paroxetine, and amitriptyline could result in some inhibition of the metabolism of tramadol.
-Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John’s Wort, with Ultram® may affect the metabolism of tramadol leading to altered tramadol exposure.
+Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John's Wort, with Ultram® may affect the metabolism of tramadol leading to altered tramadol exposure.
 
 Potential for Tramadol to Affect Other Drugs In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when tramadol is administered concomitantly at therapeutic doses.
 Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.

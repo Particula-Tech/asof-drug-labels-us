@@ -11,8 +11,8 @@ Table 2: Cumulative Incidence of Adverse Reactions for Tramadol Hydrochloride in
 
 |  | Up to 7 Days | Up to 30 Days | Up to 90 Days |
 | --- | --- | --- | --- |
-| Dizziness/Vertigo Nausea Constipation Headache Somnolence Vomiting Pruritus “CNS Stimulation”1 Asthenia Sweating Dyspepsia Dry Mouth Diarrhea | 26% 24% 24% 18% 16% 9% 8% 7% 6% 6% 5% 5% 5% | 31% 34% 38% 26% 23% 13% 10% 11% 11% 7% 9% 9% 6% | 33% 40% 46% 32% 25% 17% 11% 14% 12% 9% 13% 10% 10% |
-| 1 “CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional liability, and hallucinations. |  |  |  |
+| Dizziness/Vertigo Nausea Constipation Headache Somnolence Vomiting Pruritus "CNS Stimulation"1 Asthenia Sweating Dyspepsia Dry Mouth Diarrhea | 26% 24% 24% 18% 16% 9% 8% 7% 6% 6% 5% 5% 5% | 31% 34% 38% 26% 23% 13% 10% 11% 11% 7% 9% 9% 6% | 33% 40% 46% 32% 25% 17% 11% 14% 12% 9% 13% 10% 10% |
+| 1 "CNS Stimulation" is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional liability, and hallucinations. |  |  |  |
 
 Incidence 1% to less than 5%, possibly casually related: the following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with tramadol exists.
 

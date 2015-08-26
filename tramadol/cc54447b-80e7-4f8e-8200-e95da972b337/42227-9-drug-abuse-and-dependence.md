@@ -9,9 +9,9 @@ Addiction is a primary, chronic, neurobiologic disease, with genetic, psychosoci
 Drug addiction is characterized by behaviors that include one or more of the following: impaired control over drug use, compulsive use, use for non-medical purposes, and continued use despite harm or risk of harm, and craving.
 Drug addiction is a treatable disease, utilizing a multidisciplinary approach, but relapse is common.
 
-“Drug-seeking” behavior is very common in addicts and drug abusers.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-“Doctor shopping” to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+"Drug-seeking" behavior is very common in addicts and drug abusers.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated "loss" of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+"Doctor shopping" to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
 Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.

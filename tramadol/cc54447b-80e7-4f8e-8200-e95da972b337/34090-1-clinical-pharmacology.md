@@ -69,8 +69,8 @@ One metabolite (O – desmethyltramadol, denoted M1) is pharmacologically active
 Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition, which may affect the therapeutic response (see PRECAUTIONS, Drug Interaction).
 
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450.
-These individuals are “poor metabolizers” of debrisoquine, dextromethorphan, tricyclic antidepressants, among other drugs.
-Based on a population PK analysis of Phase I studies in healthy subjects, concentrations of tramadol were approximately 20% higher in “poor metabolizers” versus “extensive metabolizers,” while M1 concentrations were 40% lower.
+These individuals are "poor metabolizers" of debrisoquine, dextromethorphan, tricyclic antidepressants, among other drugs.
+Based on a population PK analysis of Phase I studies in healthy subjects, concentrations of tramadol were approximately 20% higher in "poor metabolizers" versus "extensive metabolizers," while M1 concentrations were 40% lower.
 Concomitant therapy with inhibitors of CYP2D6 such as fluoxetine, paroxetine and quinidine could result in significant drug interactions.
 In vitro drug interaction studies in human liver microsomes indicate that inhibitors of CYP2D6 such as fluoxetine and its metabolite norfluoxetine, amitriptyline and quinidine inhibit the metabolism of tramadol to various degrees, suggesting that concomitant administration of these compounds could result in increases in tramadol concentrations and decreased concentrations of M1.
 The full pharmacological impact of these alterations in terms of either efficacy or safety is unknown.

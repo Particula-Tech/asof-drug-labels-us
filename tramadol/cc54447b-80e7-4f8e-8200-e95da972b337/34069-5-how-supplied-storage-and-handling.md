@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Rybix ® ODT (tramadol hydrochloride) Orally Disintegrating Tablets are 50 mg white tablet, debossed with “T” on one side and “50” on the other side, and supplied in cartons of 30 tablets (5 cards of 6 single dose units) in child resistant blister packs.
+Rybix ® ODT (tramadol hydrochloride) Orally Disintegrating Tablets are 50 mg white tablet, debossed with "T" on one side and "50" on the other side, and supplied in cartons of 30 tablets (5 cards of 6 single dose units) in child resistant blister packs.
 
 NDC 59630-825-03
 
