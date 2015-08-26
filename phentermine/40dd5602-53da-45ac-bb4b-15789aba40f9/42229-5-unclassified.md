@@ -2,13 +2,13 @@ Manufactured for VIVUS, Inc. by Catalent Pharma Solutions, LLC 1100 Enterprise D
 
 Copyright © 2012 - 2014 VIVUS, Inc. All rights reserved.
 
-09/2014
+10/2014
 
 VIVUS, Inc 351 East Evelyn Avenue Mountain View, CA 94041 USA
 
 US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; and 8,580,299
 
-Qsymia is a registered trademark of VIVUS, Inc. © 2012 - 2014, VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS, Inc.
 
 Who should not take Qsymia?
 
@@ -175,8 +175,6 @@ US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; and 8,
 
 Qsymia is a registered trademark of VIVUS, Inc.
 
-© 2012 - 2014, VIVUS, Inc.
-
-Issued: 09/2014
+Issued: 10/2014
 
 PH-03-002-06
