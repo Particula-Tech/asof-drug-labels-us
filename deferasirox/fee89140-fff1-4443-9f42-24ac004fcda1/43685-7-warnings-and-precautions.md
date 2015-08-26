@@ -65,7 +65,7 @@ JADENU is contraindicated in patients with known hypersensitivity to JADENU.
 ## 5.7 Severe Skin Reactions
 
 Severe skin reactions, including Stevens-Johnson syndrome (SJS) and erythema multiforme, have been reported during deferasirox therapy [see Adverse Reactions (6.2)].
-If SJS or erythema multiforme is suspected, discontinue JADENU immediately and do not reintroduce Jadenu therapy.
+If SJS or erythema multiforme is suspected, discontinue JADENU immediately and do not reintroduce JADENU therapy.
 
 ## 5.8 Skin Rash
 
