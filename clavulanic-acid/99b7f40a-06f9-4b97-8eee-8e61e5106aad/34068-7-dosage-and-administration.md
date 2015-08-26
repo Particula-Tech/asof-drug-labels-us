@@ -1,16 +1,17 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Amoxicillin and Clavulanate Potassium for Oral Suspension, 600 mg/42.9 mg per 5 mL, does not contain the same amount of clavulanic acid (asthe potassium salt) as any of the other suspensions of Amoxicillin and Clavulanate Potassium.
-Amoxicillin and Clavulanate Potassium for Oral Suspension, 600 mg/42.9 mg per 5 mL contains 42.9 mg of clavulanic acid per 5 mL, whereas the 200 mg/28.5 mg per 5 mL suspension ofAmoxicillin and Clavulanate Potassium contains 28.5 mg of clavulanic acid per 5 mL and the 400 mg/57 mg per 5 mL suspension contains 57 mg of clavulanic acid per 5 mL.
-Therefore, the 200 mg/28.5 mg per 5 mL and 400 mg/57 mg per 5 mL suspensions of Amoxicillin and Clavulanate Potassium should not be substituted for Amoxicillin and Clavulanate Potassium for Oral Suspension, 600 mg/42.9 mg per 5 mL as they are not interchangeable.
+Amoxicillin and clavulanate potassium for oral suspension, USP does not contain the same amount of clavulanic acid (as the potassium salt) as any of the other suspensions of amoxicillin and clavulanate potassium.
+Amoxicillin and clavulanate potassium for oral suspension, USP contains 42.9 mg of clavulanic acid per 5 mL, whereas the 200 mg/5 mL suspension of amoxicillin and clavulanate potassium contains 28.5 mg of clavulanic acid per 5 mL and the 400 mg/5 mL suspension contains 57 mg of clavulanic acid per 5 mL.
+Therefore, the 200 mg/28.5 mg per 5 mL and 400 mg/57 mg per 5 mL suspensions of amoxicillin and clavulanate potassium should notbe substituted for amoxicillin and clavulanate potassium for oral suspension, USP as they are not interchangeable.
 
-## Dosage
+Dosage
 
-## Pediatric Patients 3 Months and Older
+Pediatric Patients 3 Months and Older
 
-Based on the amoxicillin component (600 mg per 5 mL), the recommended dose of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
+Based on the amoxicillin component (600 mg per 5 mL), the recommended dose of amoxicillin and clavulanate potassium for oral suspension, USP is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
+This dose provides 6.4 mg/kg/day of the clavulanic acid component.
 
-| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL Providing 90 mg/kg/day |
+| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for Oral Suspension, USP Providing 90 mg/kg/day |
 | --- | --- |
 | 8 | 3 mL twice daily |
 | 12 | 4.5 mL twice daily |
@@ -21,26 +22,27 @@ Based on the amoxicillin component (600 mg per 5 mL), the recommended dose of Am
 | 32 | 12 mL twice daily |
 | 36 | 13.5 mL twice daily |
 
-## Pediatric Patients Weighing 40 kg and More
+Pediatric Patients Weighing 40 kg and More
 
-Experience with Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/42.9 mg per 5 mL formulation) in this group is not available.
+Experience with amoxicillin and clavulanate potassium for oral suspension, USP in this group is not available.
 
-## Adults
+Adults
 
-Experience with Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/5 mL formulation) in adults is not available and adults who have difficulty swallowing should not be given Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/42.9 mg per 5 mL) in place of the 500 mg/125 mg or 875 mg/125 mg tablet of Amoxicillin and Clavulanate Potassium.
+Experience with amoxicillin and clavulanate potassium for oral suspension, USP in adults is not available and adults who have difficulty swallowing should not be given amoxicillin and clavulanate potassium for oral suspension, USP in place of the 500-mg or 875-mg tablet of amoxicillin and clavulanate potassium.
 
-Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals (see WARNINGS).
+Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals (see WARNINGSAND PRECAUTIONS(5).
 
-## Directions for Mixing Oral Suspension
+Directions for Mixing Oral Suspension
 
 Prepare a suspension at time of dispensing as follows: Tap bottle until all the powder flows freely.
 Add approximately 2/3 of the total amount of water for reconstitution (see table below) and shake vigorously to suspend powder.
 Add remainder of the water and again shake vigorously.
 
-Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/42.9 mg per 5 mL Suspension)
+Amoxicillin and Clavulanate Potassium for Oral Suspension
 
-| Bottle Size | Amount of Water Required for Reconstitution |
+| Amoxicillin and Clavulanate Potassium for Oral Suspension |  |
 | --- | --- |
+| Bottle Size | Amount of Water Required for Reconstitution |
 | 75 mL | 62 mL |
 | 125 mL | 103 mL |
 | 200 mL | 165 mL |
@@ -49,7 +51,7 @@ Each teaspoonful (5 mL) will contain 600 mg amoxicillin as the trihydrate and 42
 
 NOTE: SHAKE ORAL SUSPENSION WELL BEFORE USING.
 
-## Administration
+Administration
 
-To minimize the potential for gastrointestinal intolerance, Amoxicillin and Clavulanate Potassium for Oral Suspension USP, 600 mg/42.9 mg per 5 mL should be taken at the start of a meal.
-Absorption of clavulanate potassium may be enhanced when Amoxicillin and Clavulanate Potassium for Oral Suspension USP, 600 mg/42.9 mg per 5 mL is administered at the start of a meal.
+To minimize the potential for gastrointestinal intolerance, Amoxicillin and Clavulanate Potassium for Oral Suspension, USP should be taken at the start of a meal.
+Absorption of clavulanate potassium may be enhanced when Amoxicillin and Clavulanate Potassium for Oral Suspension, USP is administered at the start of a meal.

@@ -1,13 +1,11 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL and other antibacterial drugs, Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/ 42.9 mg per 5 mL should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
-
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Following overdosage, patients have experienced primarily gastrointestinal symptoms including stomach and abdominal pain, vomiting, and diarrhea.
-Rash, hyperactivity, or drowsiness have also been observed in a small number of patients.
+Rash, hyperactivity, or drowsiness has also been observed in a small number of patients.
 
-In the case of overdosage, discontinue Amoxicillin and Clavulanate Potassium for Oral Suspension, 600 mg/42.9 mg per 5 mL treat symptomatically, and institute supportive measures as required.
+In the case of overdosage, discontinue amoxicillin and clavulanate potassium for oral suspension, treat symptomatically, and institute supportive measures as required.
 If the overdosage is very recent and there is no contraindication, an attempt at emesis or other means of removal of drug from the stomach may be performed.
-A prospective study of 51 pediatric patients at a poison control center suggested that overdosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms and do not require gastric emptying.4
+A prospective study of 51 pediatric patients at a poison control center suggested that overdosage of less than 250 mg/kg of amoxicillin is not associated with significant clinical symptoms and does not require gastric emptying.4
 
 Interstitial nephritis resulting in oliguric renal failure has been reported in a small number of patients after overdosage with amoxicillin.
 
