@@ -75,9 +75,14 @@ Careful follow-up of weight and height in children ages 7 to 10 years who were r
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
-## 5.7 Visual Disturbance
+## 5.7 Chemical Leukoderma:
 
-Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
+Daytrana use may result in a persistent loss of skin pigmentation at the application site.
+Loss of pigmentation, in some cases, has been reported at other sites distant from the application site.Chemical leukoderma can mimic the appearance of vitiligo, particularly when the loss of skin pigmentation involves areas beyond the application site.
+Individuals with a history of vitiligo and/or a family history of vitiligo may be more at risk.
+Skin depigmentation may persist even after Daytrana use is discontinued.
+Monitor for signs of skin depigmentation, and advise patients to immediately inform their healthcare provider if changes in skin pigmentation occur.
+Discontinue the Daytrana patch in patients with chemical leukoderma.
 
 ## 5.8 Contact Sensitization
 
@@ -99,13 +104,17 @@ No cases of systemic sensitization have been observed in clinical trials of Dayt
 Patients who develop contact sensitization to Daytrana and require oral treatment with methylphenidate should be initiated on oral medication under close medical supervision.
 It is possible that some patients sensitized to methylphenidate by exposure to Daytrana may not be able to take methylphenidate in any form.
 
-## 5.9 Patients Using External Heat
+## 5.9 Visual Disturbance
+
+Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
+
+## 5.10 Patients Using External Heat
 
 Patients should be advised to avoid exposing the Daytrana application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch.
 When heat is applied to Daytrana after patch application, both the rate and extent of absorption are significantly increased.
 The temperature-dependent increase in methylphenidate absorption can be greater than 2-fold [see Clinical Pharmacology (12.3)].
 This increased absorption can be clinically significant and can result in overdose of methylphenidate [see Overdosage (10)].
 
-## 5.10 Hematologic Monitoring
+## 5.11 Hematologic Monitoring
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.

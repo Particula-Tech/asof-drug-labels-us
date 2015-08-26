@@ -2,7 +2,7 @@
 
 Detailed information on serious and adverse reactions of particular importance is provided in the Boxed Warning and Warnings and Precautions (5) sections:
 
-- Drug dependence [see box Warning]
+- Drug dependence [see Boxed Warning]
 - Hypersensitivity to Methylphenidate [see Contraindications (4.1)]
 - Marked anxiety, tension, or agitation [see Contraindications (4.2)]
 - Glaucoma [see Contraindications (4.3)]
@@ -15,10 +15,11 @@ Detailed information on serious and adverse reactions of particular importance i
 - Priapism [see Warnings and Precautions (5.4)]
 - Peripheral Vasculopathy [see Warnings and Precautions (5.5)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.6)]
-- Visual Disturbance [see Warnings and Precautions (5.7)]
+- Chemical Leukoderma [see Warnings and Precautions (5.7)]
 - Contact Sensitization [see Warnings and Precautions (5.8)]
-- External Heat [see Warnings and Precautions (5.9)]
-- Hematologic Monitoring [see Warnings and Precautions (5.10)]
+- Visual Disturbance [see Warnings and Precautions (5.9)]
+- External Heat [see Warnings and Precautions (5.10)]
+- Hematologic Monitoring [see Warnings and Precautions (5.11)]
 
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in children aged 6-12 included appetite decreased, insomnia, nausea, vomiting, weight decreased, tic, affect lability, and anorexia.
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain, and anorexia [see Adverse Reactions (6.1)].
@@ -141,7 +142,7 @@ Blood/lymphatic: leukopenia and/or anemia
 
 Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
 
-Psychiatric: transient depressed mood
+Psychiatric: transient depressed mood, hallucination, nervousness, libido changes
 
 Skin/Subcutaneous: scalp hair loss
 

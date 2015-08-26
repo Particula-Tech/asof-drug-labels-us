@@ -1,8 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide
-
-## 17.1 Information for Patients
+Advise patients to read the FDA-approved patient labeling (Medication Guide).
+Information for Patients
 
 Priapism
 
@@ -15,6 +14,12 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Daytrana
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+Chemical Leukoderma
+
+Advise patients of the possibility of a persistent loss of skin pigmentation at the application site.
+Loss of pigmentation has also been reported, in some cases, beyond the application site.
+Advise patients to immediately inform their healthcare provider if changes in skin pigmentation occur [see Warnings and Precautions (5.7)].
 
 Parents and patients should be informed to apply Daytrana to a clean, dry site on the hip, which is not oily, damaged, or irritated.
 The site of application must be alternated daily.
@@ -71,10 +76,10 @@ For more information call 1-877-567-7857 or visit www.daytrana.com.
 
 Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc. Daytrana® is a registered trademark of Noven Therapeutics, LLC.
 
-© 2009, 2013, 2015 Noven Pharmaceuticals, Inc.
+© 2009, 2013 Noven Pharmaceuticals, Inc.
 
-This product is covered by US patents including for use with 6,905,016.
+This product is covered by US patents including for use with 6,905,016 and 8,186,506.
 
-Last Modified: 04/2015
+Last Modified: 08/2015
 
-102086-15
+102086-13
