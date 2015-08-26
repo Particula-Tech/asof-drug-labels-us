@@ -1,6 +1,8 @@
 PATIENT INFORMATION
 
-HALAVEN® (HAL-ih-ven) (eribulin mesylate) Injection
+HALAVEN® (HAL-ih-ven)
+
+(eribulin mesylate) Injection
 
 Read this leaflet before you start receiving HALAVEN and before each injection.
 There may be new information.
@@ -13,29 +15,25 @@ Your healthcare provider should do blood tests regularly to check your blood cel
 - HALAVEN can cause a decrease in white blood cell count (neutropenia).
   This can make you more likely to get serious infections that could lead to death.
   You may need treatment in the hospital with antibiotic medicines.
-- Call your healthcare provider right away if you develop any of these symptoms of infection while you are receiving HALAVEN:
-  - fever (temperature above 100.5°F)
-  - chills
-  - cough
-  - burning or pain when you urinate.
+- Call your healthcare provider right away if you develop any of these symptoms of infection while you are receiving HALAVEN: o fever (temperature above 100.5°F) o chills o cough o burning or pain when you urinate.
 - HALAVEN can cause numbness, tingling, or burning in your hands and feet (neuropathy).
   Tell your healthcare provider if you have any of these symptoms.
 
-See "What are possible side effects of HALAVEN?" for more information about side effects.
+See “What are possible side effects of HALAVEN?” for more information about side effects.
 
 What is HALAVEN?
 
-HALAVEN is a prescription medicine used to treat people with breast cancer:
+HALAVEN is a prescription medicine used to treat people with breast cancer or sarcoma:
 
 - that has spread to other parts of their body, and
-- who have already received certain types of anticancer medicines after their breast cancer has spread.
+- who have already received certain types of anticancer medicines after their cancer has spread.
 
 What should I tell my healthcare provider before receiving HALAVEN?
 
 Before you receive HALAVEN, tell your healthcare provider if you:
 
 - have liver or kidney problems.
-- have heart problems, including a problem called "congenital long QT syndrome."
+- have heart problems, including a problem called “congenital long QT syndrome.”
 - are pregnant or plan to become pregnant.
   HALAVEN may harm your unborn baby.
   Talk with your healthcare provider about birth control methods to prevent pregnancy while you receive HALAVEN.
@@ -53,7 +51,7 @@ Keep a list of your medicines to show to your healthcare provider and pharmacist
 How will I receive HALAVEN?
 
 - HALAVEN is injected directly into your vein.
-- HALAVEN is given in "cycles" of treatment, with each cycle lasting 21 days.
+- HALAVEN is given in “cycles” of treatment, with each cycle lasting 21 days.
 - You will receive an injection 1 time each week for two weeks in a row (day 1 and day 8 of a treatment cycle).
 - Your healthcare provider may need to decrease your dose of HALAVEN or change how often you receive it, depending on your blood test results.
 
@@ -61,7 +59,7 @@ What are the possible side effects of HALAVEN?
 
 HALAVEN may cause serious side effects, including:
 
-- See "What is the most important information I should know about HALAVEN?"
+- See “What is the most important information I should know about HALAVEN?”
 - HALAVEN can cause changes in your heartbeat (called QTc prolongation).
   This can cause irregular heartbeats that may lead to death.
   Your healthcare provider will decide if you need heart monitoring (electrocardiogram or ECG), or blood tests during your treatment with HALAVEN to watch for this problem.
@@ -92,7 +90,9 @@ For more information, go to www.HALAVEN.com or call Eisai Inc. at 1-877-873-4724
 
 What are the ingredients in HALAVEN?
 
-Active Ingredients: eribulin mesylate Inactive Ingredients: ethanol, water
+Active Ingredients: eribulin mesylate
+
+Inactive Ingredients: ethanol, water
 
 HALAVEN® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd.
 

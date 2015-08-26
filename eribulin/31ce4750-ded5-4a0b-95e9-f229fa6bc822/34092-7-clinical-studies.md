@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Breast Cancer
+
 Study 1 was an open-label, randomized, multicenter trial of 762 patients with metastatic breast cancer who received at least two chemotherapeutic regimens for the treatment of metastatic disease and experienced disease progression within 6 months of their last chemotherapeutic regimen.
 Patients were required to receive prior anthracycline- and taxane- based chemotherapy for adjuvant or metastatic disease.
 Patients were randomized (2:1) to receive HALAVEN (n=508) or a single agent therapy selected prior to randomization (control arm, n=254).
@@ -13,14 +15,14 @@ Patient demographic and baseline characteristics were comparable between the tre
 The median age was 55 (range: 27 to 85 years) and 92% were White.
 Sixty-four percent of patients were enrolled in North America/Western Europe/Australia, 25% in Eastern Europe/Russia, and 11% in Latin America/South Africa.
 Ninety-one percent of patients had a baseline ECOG performance status of 0 or 1.
-Tumor prognostic characteristics, including estrogen receptor status (positive: 67%, negative: 28%), progesterone receptor status (positive: 49%, negative: 39%), HER2/neu receptor status (positive: 16%, negative: 74%), triple negative status (ER-,PR-,HER2/neu-: 19%), presence of visceral disease (82%, including 60% liver and 38% lung) and bone disease (61%), and number of sites of metastases (greater than two: 50%), were also similar in the HALAVEN and control arms.
+Tumor prognostic characteristics, including estrogen receptor status (positive: 67%, negative: 28%), progesterone receptor status (positive: 49%, negative: 39%), HER2/neu receptor status (positive: 16%, negative: 74%), triple negative status (ER-, PR-, HER2/neu-: 19%), presence of visceral disease (82%, including 60% liver and 38% lung) and bone disease (61%), and number of sites of metastases (greater than two: 50%), were also similar in the HALAVEN and control arms.
 Patients received a median of four prior chemotherapy regimens in both arms.
 
-In Study 1, a statistically significant improvement in overall survival was observed in patients randomized to the HALAVEN arm compared to the control arm (see Table 3).
+In Study 1, a statistically significant improvement in overall survival was observed in patients randomized to the HALAVEN arm compared to the control arm (see Table 4).
 An updated, unplanned survival analysis, conducted when 77% of events had been observed (see Figure 1), was consistent with the primary analysis.
 In patients randomized to HALAVEN, the objective response rate by the RECIST criteria was 11% (95% CI: 8.6%, 14.3%) and the median response duration was 4.2 months (95% CI: 3.8, 5.0 months).
 
-Table 3 Comparison of Overall Survival in HALAVEN and Control Arm - Study 1
+Table 4 Comparison of Overall Survival in HALAVEN and Control Arm - Study 1
 
 | Overall Survival | HALAVEN (n=508) | Control Arm (n=254) |
 | --- | --- | --- |
@@ -34,4 +36,15 @@ Table 3 Comparison of Overall Survival in HALAVEN and Control Arm - Study 1
 | Median, months (95% CI) | 13.2 (12.1, 14.4) | 10.6 (9.2, 12.0) |
 | CI = confidence interval a Based on Cox proportional hazards model stratified by geographic region, HER2 status, and prior capecitabine therapy. b Based on a log-rank test stratified by geographic region, HER2 status, and prior capecitabine therapy. |  |  |
 
-Figure 1 Updated Overall Survival Analysis for Study 1
+## 14.2 Soft Tissue Sarcoma
+
+The patients (n=452) in the pivotal sarcoma study, Study 2, had inoperable, locally recurrent or metastatic soft tissue sarcoma of 1 of 2 subtypes – leiomyosarcoma or liposarcoma.
+Patients had received at least 2 prior chemotherapy regimens, 1 of which must have been an anthracycline (unless contraindicated).
+
+Patients must have progressed within 6 months of their last chemotherapeutic regimen.
+They were randomized 1:1 to receive either HALAVEN 1.4 mg/m2 on Days 1 and 8 of a 21 day cycle or dacarbazine 850 mg/m2, 1000 mg/m2 or 1200 mg/m2 (dose determined by the investigator prior to randomization), every 21 days.
+
+In Study 2, a statistically significant improvement in overall survival was observed in patients randomized to the HALAVEN arm compared to the dacarbazine arm.
+This translated into a 2 month improvement in median OS (13.5 months for HALAVEN treated patients vs. 11.5 months for dacarbazine treated patients), with a HR of 0.768 (CI 0.618, 0.954) and a statistically significant P value of 0.0169 (see Figure 2).
+
+The secondary endpoint of PFS (2.6 months median on each arm, HR 0.877, p=0.229) did not show significant differences between the two treatment groups.

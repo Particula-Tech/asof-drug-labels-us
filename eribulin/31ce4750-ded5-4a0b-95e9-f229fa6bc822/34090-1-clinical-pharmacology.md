@@ -13,7 +13,7 @@ No accumulation of eribulin is observed with weekly administration.
 
 Metabolism
 
-Unchanged eribulin was the major circulating species in plasma following administration of 14C‑eribulin to patients.
+Unchanged eribulin was the major circulating species in plasma following administration of 14C-eribulin to patients.
 Metabolite concentrations represented <0.6% of parent compound, confirming that there are no major human metabolites of eribulin.
 Cytochrome P450 3A4 (CYP3A4) negligibly metabolizes eribulin in vitro.
 
@@ -55,13 +55,6 @@ Administration of HALAVEN at a dose of 1.1 mg/m2 to patients with mild hepatic i
 
 Renal Impairment
 
-​A study evaluated the PK of eribulin in patients with moderate (CrCl: 30-49 mL/min; n=7) and severe (CrCl: 15-29 mL/min; n=6) renal impairment.
+A study evaluated the PK of eribulin in patients with moderate (CrCl: 30-49 mL/min; n=7) and severe (CrCl: 15-29 mL/min; n=6) renal impairment.
 Compared to patients with normal renal function (CrCl ≥ 80 mL/min; n=6), patients with moderate and severe renal impairment have 1.5-fold higher eribulin dose-normalized exposures.
 However for patients with mild renal impairment the data indicate no dose adjustment is necessary [see Dosage and Administration (2.1), Use in Specific Populations (8.7)].
-
-## 12.6 Cardiac Electrophysiology
-
-The effect of HALAVEN on the QTc interval was assessed in an open-label, uncontrolled, multicenter, single-arm dedicated QT trial.
-A total of 26 patients with solid tumors received 1.4 mg/m2 of HALAVEN on Days 1 and 8 of a 21-day cycle.
-A delayed QTc prolongation was observed on Day 8, with no prolongation observed on Day 1.
-The maximum mean QTcF change from baseline (95% upper confidence interval) was 11.4 (19.5) ms.
