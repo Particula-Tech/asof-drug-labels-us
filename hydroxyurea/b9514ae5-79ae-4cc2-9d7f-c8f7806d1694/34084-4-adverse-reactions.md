@@ -1,25 +1,30 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Reported adverse reactions are bone marrow depression (leukopenia, anemia, and thrombocytopenia), gastrointestinal symptoms (stomatitis, anorexia, nausea, vomiting, diarrhea, and constipation), and dermatological reactions such as maculopapular rash, skin ulceration, dermatomyositis-like skin changes, peripheral and facial erythema.
-Hyperpigmentation, atrophy of skin and nails, scaling, and violet papules have been observed in some patients after several years of long-term daily maintenance therapy with hydroxyurea capsules.
-Skin cancer has been reported.
-Cutaneous vasculitic toxicities, including vasculitic ulcerations and gangrene, have occurred in patients with myeloproliferative disorders during therapy with hydroxyurea.
-These vasculitic toxicities were reported most often in patients with a history of, or currently receiving, interferon therapy (see WARNINGS).
-Dysuria and alopecia have been reported.
-Large doses may produce moderate drowsiness.
-Neurological disturbances have occurred and were limited to headache, dizziness, disorientation, hallucinations, and convulsions.
-Hydroxyurea capsules may cause temporary impairment of renal tubular function accompanied by elevations in serum uric acid, blood urea nitrogen (BUN), and creatinine levels.
-Abnormal bromsulphalein (BSP) retention has been reported.
-Fever, chills, malaise, edema, asthenia, and elevation of hepatic enzymes have also been reported.
+The following adverse reactions are described in detail in other labeling sections:
+
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Malignancies [see Warnings and Precautions (5.2)]
+- •Embryo-fetal toxicity [see Warnings and Precautions (5.3)]
+- •Vasculitic toxicities [see Warnings and Precautions (5.4)]
+- •Risks with concomitant use of antiretroviral drugs [see Warnings and Precautions (5.5)]
+- •Radiation recall [see Warnings and Precautions (5.6)]
+- •Macrocytosis [see Warnings and Precautions (5.7)]
+
+Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of hydroxyurea.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
+
+- •Gastrointestinal disorders: stomatitis, anorexia, nausea, vomiting, diarrhea, and constipation
+- •Skin and subcutaneous tissue disorders: maculopapular rash, skin ulceration, dermatomyositis-like skin changes, peripheral and facial erythema, hyperpigmentation, atrophy of skin and nails, scaling, violet papules, and alopecia
+- •Renal and urinary disorders: dysuria, elevations in serum uric acid, blood urea nitrogen (BUN), and creatinine levels
+- •Nervous system disorders: headache, dizziness, drowsiness, disorientation, hallucinations, and convulsions
+- •General Disorders: fever, chills, malaise, edema, and asthenia
+- •Hepatobiliary disorders: elevation of hepatic enzymes
+- •Respiratory disorders: diffuse pulmonary infiltrates, dyspnea, and pulmonary fibrosis
 
 Adverse reactions observed with combined hydroxyurea and irradiation therapy are similar to those reported with the use of hydroxyurea or radiation treatment alone.
 These effects primarily include bone marrow depression (anemia and leukopenia), gastric irritation, and mucositis.
 Almost all patients receiving an adequate course of combined hydroxyurea and irradiation therapy will demonstrate concurrent leukopenia.
-Platelet depression (< 100,000 cells/mm3) has occurred in the presence of marked leukopenia.
-Hydroxyurea capsules may potentiate some adverse reactions usually seen with irradiation alone, such as gastric distress and mucositis.
-
-The association of hydroxyurea with the development of acute pulmonary reactions consisting of diffuse pulmonary infiltrates, fever, and dyspnea has been reported.
-Pulmonary fibrosis also has been reported.
-
-In HIV-infected patients who received hydroxyurea in combination with antiretroviral agents, in particular, didanosine plus stavudine, fatal and nonfatal pancreatitis and hepatotoxicity, and severe peripheral neuropathy have been reported.
-Patients treated with hydroxyurea in combination with didanosine, stavudine, and indinavir in Study ACTG 5025 showed a median decline in CD4 cells of approximately 100/mm3 (see WARNINGS and PRECAUTIONS).
+Platelet depression (<100,000 cells/mm3) has occurred in the presence of marked leukopenia.
+Hydroxyurea may potentiate some adverse reactions usually seen with irradiation alone, such as gastric distress and mucositis.

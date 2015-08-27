@@ -1,65 +1,37 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Procedures for proper handling and disposal of cytotoxic drugs should be considered.
-Several guidelines on this subject have been published.1-4
+## 2.1 Dosing Information
 
-To minimize the risk of dermal exposure, always wear impervious gloves when handling bottles containing hydroxyurea capsules.
-Hydroxyurea capsules should not be opened.
-Personnel should avoid exposure to crushed or opened capsules.
-If contact with crushed or opened capsules occurs, wash immediately and thoroughly.
-More information is available in the references listed below.
+Hydroxyurea is used alone or in conjunction with other antitumor agents or radiation therapy to treat neoplastic diseases.
+Individualize treatment based on tumor type, disease state, response to treatment, patient risk factors, and current clinical practice standards.
 
-Because of the rarity of melanoma, resistant chronic myelocytic leukemia, carcinoma of the ovary, and carcinomas of the head and neck in pediatric patients, dosage regimens have not been established.
+Base all dosage on the patient’s actual or ideal weight, whichever is less.
 
-All dosage should be based on the patient’s actual or ideal weight, whichever is less.
-Concurrent use of hydroxyurea capsules with other myelosuppressive agents may require adjustment of dosages.
+Hydroxyurea is a cytotoxic drug.
+Follow applicable special handling and disposal procedures [see References (15)].
 
-Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
+Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.7)].
 
-## Solid Tumors
+## 2.2 Dose Modifications for Toxicity
 
-### Intermittent Therapy
+Monitor for the following and reduce the dose or discontinue hydroxyurea accordingly:
 
-80 mg/kg administered orally as a single dose every third day
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Cutaneous vasculitis [see Warnings and Precautions (5.4)]
 
-### Continuous Therapy
+Monitor blood counts at least once a week during hydroxyurea therapy.
+Severe anemia must be corrected before initiating therapy with hydroxyurea.
+Consider dose modifications for other toxicities.
 
-20 to 30 mg/kg administered orally as a single dose daily
+## 2.3 Dose Modifications for Renal Impairment
 
-### Concomitant Therapy with Irradiation
+Reduce the dose of hydroxyurea by 50% in patients with measured creatinine clearance of less than 60 mL/min or with end-stage renal disease (ESRD) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-#### Carcinoma of the head and neck
+| Creatinine Clearance(mL/min) | Recommended Hydroxyurea Initial Dose(mg/kg daily) |
+| --- | --- |
+| ≥60 | 15 |
+| <60 or ESRD* | 7.5 |
 
-80 mg/kg administered orally as a single dose every third day
+* On dialysis days, administer hydroxyurea to patients following hemodialysis.
 
-Administration of hydroxyurea should begin at least seven days before initiation of irradiation and continued during radiotherapy as well as indefinitely afterwards provided that the patient may be kept under adequate observation and evidences no unusual or severe reactions.
-
-## Resistant Chronic Myelocytic Leukemia
-
-Until the intermittent therapy regimen has been evaluated, CONTINUOUS therapy (20 to 30 mg/kg administered orally as a single dose daily) is recommended.
-
-An adequate trial period for determining the antineoplastic effectiveness of hydroxyurea is six weeks of therapy.
-When there is regression in tumor size or arrest in tumor growth, therapy should be continued indefinitely.
-Therapy should be interrupted if the white blood cell count drops below 2500/mm3, or the platelet count below 100,000/mm3.
-In these cases, the counts should be reevaluated after three days, and therapy resumed when the counts return to acceptable levels.
-Since the hematopoietic rebound is prompt, it is usually necessary to omit only a few doses.
-If prompt rebound has not occurred during combined hydroxyurea capsules and irradiation therapy, irradiation may also be interrupted.
-However, the need for postponement of irradiation has been rare; radiotherapy has usually been continued using the recommended dosage and technique.
-Severe anemia, if it occurs, should be corrected without interrupting hydroxyurea therapy.
-Because hematopoiesis may be compromised by extensive irradiation or by other antineoplastic agents, it is recommended that hydroxyurea be administered cautiously to patients who have recently received extensive radiation therapy or chemotherapy with other cytotoxic drugs.
-
-Pain or discomfort from inflammation of the mucous membranes at the irradiated site (mucositis) is usually controlled by measures such as topical anesthetics and orally administered analgesics.
-If the reaction is severe, hydroxyurea therapy may be temporarily interrupted; if it is extremely severe, irradiation dosage may, in addition, be temporarily postponed.
-However, it has rarely been necessary to terminate these therapies.
-
-Severe gastric distress, such as nausea, vomiting, and anorexia, resulting from combined therapy may usually be controlled by temporary interruption of hydroxyurea administration.
-
-## Renal Insufficiency
-
-As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea capsules in patients with renal impairment (see PRECAUTIONS and CLINICAL PHARMACOLOGY).
-Close monitoring of hematologic parameters is advised in these patients.
-
-## Hepatic Insufficiency
-
-There are no data that support specific guidance for dosage adjustment in patients with hepatic impairment.
 Close monitoring of hematologic parameters is advised in these patients.

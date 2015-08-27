@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Hydroxyurea Capsules USP 500 mg 100s Label Text
 
