@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA206217"
+  ],
+  "inn": "entecavir",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-841-30",
+    "65862-841-90",
+    "65862-841-99",
+    "65862-842-30",
+    "65862-842-90",
+    "65862-842-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "entecavir",
+      "name": "Entecavir"
+    }
+  ],
+  "setid": "def332bf-2906-4a6c-b85d-dfb56bb94312",
+  "source": "dailymed"
+}
