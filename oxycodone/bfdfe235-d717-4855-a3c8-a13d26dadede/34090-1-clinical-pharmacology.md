@@ -88,11 +88,11 @@ This high oral bioavailability is due to low pre-systemic and/or first-pass meta
 
 Plasma Oxycodone Concentration over Time
 
-Dose proportionality has been established for OXYCONTIN 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 3).
+Dose proportionality has been established for OXYCONTIN 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 5).
 Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OXYCONTIN.
 In a study comparing 10 mg of OXYCONTIN every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
-TABLE 3
+TABLE 5
 
 | Mean [% coefficient of variation] |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -162,18 +162,22 @@ Oxymorphone peak plasma concentrations and AUC values are lower by 30% and 40%.
 These differences are accompanied by increases in some, but not other, drug effects.
 The mean elimination t½ for oxycodone increased by 2.3 hours.
 
+Pediatric Use
+
+In the pediatric age group of 11 years of age and older, systemic exposure of oxycodone is expected to be similar to adults at any given dose of OXYCONTIN.
+
 Drug-Drug Interactions
 
 CYP3A4 Inhibitors
 
-CYP3A4 is the major enzyme involved in noroxycodone formation.
-Co-administration of OXYCONTIN (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7.3)].
+CYP3A4 is the major isoenzyme involved in noroxycodone formation.
+Co-administration of OXYCONTIN (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7.2)].
 
 CYP3A4 Inducers
 
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Drug Interactions (7.3)].
+A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Drug Interactions (7.2)].
 
 CYP2D6 Inhibitors
 
 Oxycodone is metabolized in part to oxymorphone via CYP2D6.
-While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OXYCONTIN [see Drug Interactions (7.3)].
+While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OXYCONTIN [see Drug Interactions (7.2)].

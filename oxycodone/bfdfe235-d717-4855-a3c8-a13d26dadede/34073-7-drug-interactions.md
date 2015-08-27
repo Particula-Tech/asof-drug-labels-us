@@ -5,19 +5,14 @@
 The concomitant use of OXYCONTIN and other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma, or death.
 Monitor patients receiving CNS depressants and OXYCONTIN for signs of respiratory depression, sedation, and hypotension.
 
-When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.6) and Warnings and Precautions (5.4)].
 
-## 7.2 Muscle Relaxants
-
-Oxycodone may enhance the neuromuscular blocking action of true skeletal muscle relaxants and produce an increased degree of respiratory depression.
-Monitor patients receiving muscle relaxants and OXYCONTIN for signs of respiratory depression that may be greater than otherwise expected.
-
-## 7.3 Drugs Affecting Cytochrome P450 Isoenzymes
+## 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
 
 Inhibitors of CYP3A4 and 2D6
 
 Because the CYP3A4 isoenzyme plays a major role in the metabolism of oxycodone, drugs that inhibit CYP3A4 activity may cause decreased clearance of oxycodone which could lead to an increase in oxycodone plasma concentrations and result in increased or prolonged opioid effects.
-These effects could me more pronounced with concomitant use of CYP2D6 and 3A4 inhibitors.
+These effects could be more pronounced with concomitant use of CYP2D6 and 3A4 inhibitors.
 If co-administration with OXYCONTIN is necessary, monitor patients for respiratory depression and sedation at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP3A4
@@ -27,10 +22,15 @@ If co-administration with OXYCONTIN is necessary, monitor for signs of opioid wi
 
 After stopping the treatment of a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase which could increase or prolong both the therapeutic and adverse effects, and may cause serious respiratory depression [see Clinical Pharmacology (12.3)].
 
-## 7.4 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+## 7.3 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
 
 Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of oxycodone or precipitate withdrawal symptoms.
 Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving OXYCONTIN.
+
+## 7.4 Muscle Relaxants
+
+Oxycodone may enhance the neuromuscular blocking action of true skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Monitor patients receiving muscle relaxants and OXYCONTIN for signs of respiratory depression that may be greater than otherwise expected.
 
 ## 7.5 Diuretics
 

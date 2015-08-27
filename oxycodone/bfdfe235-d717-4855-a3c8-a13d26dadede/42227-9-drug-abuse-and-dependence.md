@@ -43,28 +43,28 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 Abuse Deterrence Studies
 
 OXYCONTIN is formulated with inactive ingredients intended to make the tablet more difficult to manipulate for misuse and abuse.
-For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCONTIN resulting from a change in formulation, in this section, the original formulation of OXYCONTIN, which is no longer marketed, will be referred to as “original OXYCONTIN” and the reformulated, currently marketed product will be referred to as “OXYCONTIN".
+For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCONTIN resulting from a change in formulation, in this section, the original formulation of OXYCONTIN, which is no longer marketed, will be referred to as “original OxyContin” and the reformulated, currently marketed product will be referred to as “OXYCONTIN".
 
 In Vitro Testing In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
-Results support that, relative to original OXYCONTIN, there is an increase in the ability of OXYCONTIN to resist crushing, breaking, and dissolution using a variety of tools and solvents.
+Results support that, relative to original OxyContin, there is an increase in the ability of OXYCONTIN to resist crushing, breaking, and dissolution using a variety of tools and solvents.
 The results of these studies also support this finding for OXYCONTIN relative to an immediate-release oxycodone.
 When subjected to an aqueous environment, OXYCONTIN gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a needle.
 
 Clinical Studies In a randomized, double-blind, placebo-controlled 5-period crossover pharmacodynamic study, 30 recreational opioid users with a history of intranasal drug abuse received intranasally administered active and placebo drug treatments.
-The five treatment arms were finely crushed OXYCONTIN 30 mg tablets, coarsely crushed OXYCONTIN 30 mg tablets, finely crushed original OXYCONTIN 30 mg tablets, powdered oxycodone HCl 30 mg, and placebo.
-Data for finely crushed OXYCONTIN, finely crushed original OXYCONTIN, and powdered oxycodone HCl are described below.
+The five treatment arms were finely crushed OXYCONTIN 30 mg tablets, coarsely crushed OXYCONTIN 30 mg tablets, finely crushed original OxyContin 30 mg tablets, powdered oxycodone HCl 30 mg, and placebo.
+Data for finely crushed OXYCONTIN, finely crushed original OxyContin, and powdered oxycodone HCl are described below.
 
 Drug liking was measured on a bipolar drug liking scale of 0 to 100 where 50 represents a neutral response of neither liking nor disliking, 0 represents maximum disliking and 100 represents maximum liking.
 Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response, 0 represents the strongest negative response (“definitely would not take drug again”) and 100 represents the strongest positive response (“definitely would take drug again”).
 
 Twenty-seven of the subjects completed the study.
-Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 34% (n = 10) of subjects with finely crushed OXYCONTIN, compared with 7% (n = 2) of subjects with finely crushed original OXYCONTIN and no subjects with powdered oxycodone HCl.
+Incomplete dosing due to granules falling from the subjects’ nostrils occurred in 34% (n = 10) of subjects with finely crushed OXYCONTIN, compared with 7% (n = 2) of subjects with finely crushed original OxyContin and no subjects with powdered oxycodone HCl.
 
-The intranasal administration of finely crushed OXYCONTIN was associated with a numerically lower mean and median drug liking score and a lower mean and median score for take drug again, compared to finely crushed original OXYCONTIN or powdered oxycodone HCl as summarized in Table 2.
+The intranasal administration of finely crushed OXYCONTIN was associated with a numerically lower mean and median drug liking score and a lower mean and median score for take drug again, compared to finely crushed original OxyContin or powdered oxycodone HCl as summarized in Table 4.
 
-Table 2: Summary of Maximum Drug Liking (Emax) Data Following Intranasal Administration
+Table 4: Summary of Maximum Drug Liking (Emax) Data Following Intranasal Administration
 
-| VAS Scale (100 mm)* |  | OXYCONTIN (finely crushed) | Original OXYCONTIN (finely crushed) | Oxycodone HCl (powdered) |
+| VAS Scale (100 mm)* |  | OXYCONTIN (finely crushed) | Original OxyContin (finely crushed) | Oxycodone HCl (powdered) |
 | --- | --- | --- | --- | --- |
 | Drug Liking | Mean (SE) | 80.4 (3.9) | 94.0 (2.7) | 89.3 (3.1) |
 | Median (Range) | 88 (36-100) | 100 (51-100) | 100 (50-100) |  |
@@ -80,9 +80,9 @@ Thirty-three percent (n = 9) of subjects had a reduction of at least 30% in drug
 
 Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for OXYCONTIN vs. oxycodone HCl, N=27 Following Intranasal Administration
 
-The results of a similar analysis of drug liking for finely crushed OXYCONTIN relative to finely crushed original OXYCONTIN were comparable to the results of finely crushed OXYCONTIN relative to powdered oxycodone HCl.
-Approximately 43% (n = 12) of subjects had no reduction in liking with OXYCONTIN relative to original OXYCONTIN.
-Approximately 57% (n = 16) of subjects had some reduction in drug liking, 36% (n = 10) of subjects had a reduction of at least 30% in drug liking, and approximately 29% (n = 8) of subjects had a reduction of at least 50% in drug liking with OXYCONTIN compared to original OXYCONTIN.
+The results of a similar analysis of drug liking for finely crushed OXYCONTIN relative to finely crushed original OxyContin were comparable to the results of finely crushed OXYCONTIN relative to powdered oxycodone HCl.
+Approximately 43% (n = 12) of subjects had no reduction in liking with OXYCONTIN relative to original OxyContin.
+Approximately 57% (n = 16) of subjects had some reduction in drug liking, 36% (n = 10) of subjects had a reduction of at least 30% in drug liking, and approximately 29% (n = 8) of subjects had a reduction of at least 50% in drug liking with OXYCONTIN compared to original OxyContin.
 
 Summary The in vitro data demonstrate that OXYCONTIN has physicochemical properties expected to make abuse via injection difficult.
 The data from the clinical study, along with support from the in vitro data, also indicate that OXYCONTIN has physicochemical properties that are expected to reduce abuse via the intranasal route.
@@ -104,7 +104,7 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine), or partial agonists (buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-OXYCONTIN should not be abruptly discontinued [see Dosage and Administration (2.4)].
+OXYCONTIN should not be abruptly discontinued [see Dosage and Administration (2.9)].
 If OXYCONTIN is abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.

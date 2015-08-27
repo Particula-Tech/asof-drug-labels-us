@@ -12,6 +12,8 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 ## 6.1 Clinical Trial Experience
 
+Adult Clinical Trial Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of OXYCONTIN was evaluated in double-blind clinical trials involving 713 patients with moderate to severe pain of various etiologies.
@@ -20,9 +22,9 @@ The average total daily dose was approximately 105 mg per day.
 
 OXYCONTIN may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [see Overdosage (10)].
 
-The most common adverse reactions (>5%) reported by patients in clinical trials comparing OXYCONTIN with placebo are shown in Table 1 below:
+The most common adverse reactions (>5%) reported by patients in clinical trials comparing OXYCONTIN with placebo are shown in Table 2 below:
 
-TABLE 1: Common Adverse Reactions (>5%)
+TABLE 2: Common Adverse Reactions (>5%)
 
 | Adverse Reaction | OXYCONTIN (n=227) | Placebo (n=45) |
 | --- | --- | --- |
@@ -74,7 +76,7 @@ Investigations: ST depression
 
 Metabolism and nutrition disorders: dehydration
 
-Nervous system disorders: syncope, migraine, abnormal gait, amnesia, hyperkinesia, hypesthesia, hypotonia, paresthesia, speech disorder, stupor, tremor, vertigo, taste perversion
+Nervous system disorders: syncope, migraine, abnormal gait, amnesia, hyperkinesia, hypoesthesia, hypotonia, paresthesia, speech disorder, stupor, tremor, vertigo, taste perversion
 
 Psychiatric disorders: depression, agitation, depersonalization, emotional lability, hallucination
 
@@ -86,9 +88,69 @@ Respiratory, thoracic and mediastinal disorders: cough increased, voice alterati
 
 Skin and subcutaneous tissue disorders: dry skin, exfoliative dermatitis
 
+Clinical Trial Experience in Pediatric Patients 11 Years and Older
+
+The safety of OXYCONTIN has been evaluated in one clinical trial with 140 patients 11 to 16 years of age.
+The median duration of treatment was approximately three weeks.
+The most frequently reported adverse events were vomiting, nausea, headache, pyrexia, and constipation
+
+Table 3 includes a summary of the incidence of treatment emergent adverse events reported in ≥5% of patients.
+
+Table 3: Incidence of Adverse Reactions Reported in ≥ 5.0% Patients 11 to 16 Years
+
+| System Organ Class Preferred Term |  | 11 to 16 Years (N=140) n (%) |
+| --- | --- | --- |
+| Any Adverse Event >= 5% |  | 71 (51) |
+| GASTROINTESTINAL DISORDERS |  | 56 (40) |
+|  | Vomiting | 30 |
+|  |  | (21) |
+|  | Nausea | 21 (15) |
+|  | Constipation | 13 (9) |
+|  | Diarrhea | 8 (6) |
+| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  | 32 |
+|  |  | (23) |
+|  | Pyrexia | 15 (11) |
+| METABOLISM AND NUTRITION DISORDERS |  | 9 (6) |
+|  | Decreased appetite | 7 (5) |
+| NERVOUS SYSTEM DISORDERS |  | 37 |
+|  |  | (26) |
+|  | Headache | 20 (14) |
+|  | Dizziness | 12 (9) |
+| SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  | 23 (16) |
+|  | Pruritus | 8 (6) |
+
+The following adverse reactions occurred in a clinical trial of OXYCONTIN in patients 11 to 16 years of age with an incidence between ≥1.0% and < 5.0%.
+Events are listed within each System/Organ Class.
+
+Blood and lymphatic system disorders: febrile neutropenia, neutropenia
+
+Cardiac disorders: tachycardia
+
+Gastrointestinal disorders: abdominal pain, gastroesophageal reflux disease
+
+General disorders and administration site conditions: fatigue, pain, chills, asthenia
+
+Injury, poisoning, and procedural complications: procedural pain, seroma
+
+Investigations: oxygen saturation decreased, alanine aminotransferase increased, hemoglobin decreased, platelet count decreased, neutrophil count decreased, red blood cell count decreased, weight decreased
+
+Metabolic and nutrition disorders: hypochloremia, hyponatraemia
+
+Musculoskeletal and connective tissue disorders: pain in extremity, musculoskeletal pain
+
+Nervous system disorders: somnolence, hypoesthesia, lethargy, paresthesia
+
+Psychiatric disorders: insomnia, anxiety, depression, agitation
+
+Renal and urinary disorders: dysuria, urinary retention
+
+Respiratory, thoracic, and mediastinal disorders: oropharyngeal pain
+
+Skin and subcutaneous tissue disorders: hyperhidrosis, rash
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of controlled-release oxycodone: abuse, addiction, amenorrhea, cholestasis, death, dental caries, increased hepatic enzymes, hyperalgesia, hypogonadism, hyponatremia, ileus, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
+The following adverse reactions have been identified during post-approval use of controlled-release oxycodone: abuse, addiction, aggression, amenorrhea, cholestasis, completed suicide, death, dental caries, increased hepatic enzymes, hyperalgesia, hypogonadism, hyponatremia, ileus, intentional overdose, mood altered, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, suicidal attempt, suicidal ideation, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
 
 Anaphylaxis has been reported with ingredients contained in OXYCONTIN.
 Advise patients how to recognize such a reaction and when to seek medical attention.

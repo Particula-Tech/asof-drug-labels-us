@@ -51,7 +51,7 @@ Hypotension and profound sedation, coma, or respiratory depression may result if
 
 When considering the use of OXYCONTIN in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
 Additionally, evaluate the patient’s use of alcohol or illicit drugs that can cause CNS depression.
-If the decision to begin OXYCONTIN therapy is made, start with 1/3 to 1/2 the usual dose of OXYCONTIN, monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.1) and Dosage and Administration (2.2)].
+If the decision to begin OXYCONTIN therapy is made, start with 1/3 to 1/2 the usual dose of OXYCONTIN, monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.1) and Dosage and Administration (2.6)].
 
 ## 5.5 Use in Elderly, Cachectic, and Debilitated Patients
 
@@ -106,7 +106,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including OXYCONTIN.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
 
-When discontinuing OXYCONTIN, gradually taper the dose [see Dosage and Administration (2.4)].
+When discontinuing OXYCONTIN, gradually taper the dose [see Dosage and Administration (2.9)].
 Do not abruptly discontinue OXYCONTIN.
 
 ## 5.13 Driving and Operating Machinery
@@ -123,7 +123,7 @@ Inhibition of CYP3A4 activity by its inhibitors, such as macrolide antibiotics (
 CYP450 inducers, such as rifampin, carbamazepine, and phenytoin, may induce the metabolism of oxycodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
 
 If co-administration is necessary, caution is advised when initiating OXYCONTIN treatment in patients currently taking, or discontinuing, CYP3A4 inhibitors or inducers.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 5.15 Laboratory Monitoring
 

@@ -41,7 +41,14 @@ Withdrawal signs can occur in breast-fed infants when maternal administration of
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of OXYCONTIN in pediatric patients below the age of 18 years have not been established.
+The safety and efficacy of OXYCONTIN have been established in pediatric patients ages 11 to 16 years.
+Use of OXYCONTIN is supported by evidence from adequate and well-controlled trials with OXYCONTIN in adults as well as an open-label study in pediatric patients ages 6 to 16 years.
+However, there were insufficient numbers of patients less than 11 years of age enrolled in this study to establish the safety of the product in this age group.
+
+The safety of OXYCONTIN in pediatric patients was evaluated in 155 patients previously receiving and tolerating opioids for at least 5 consecutive days with a minimum of 20 mg per day of oxycodone or its equivalent on the two days immediately preceding dosing with OXYCONTIN.
+Patients were started on a total daily dose ranging between 20 mg and 100 mg depending on prior opioid dose.
+
+The most frequent adverse events observed in pediatric patients were vomiting, nausea, headache, pyrexia, and constipation [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Trials (14)].
 
 ## 8.5 Geriatric Use
 

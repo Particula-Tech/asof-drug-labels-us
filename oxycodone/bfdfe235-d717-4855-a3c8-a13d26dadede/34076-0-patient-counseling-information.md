@@ -12,6 +12,8 @@ Life-Threatening Respiratory Depression
 Inform patients of the risk of life-threatening respiratory depression including information that the risk is greatest when starting OXYCONTIN or when the dose is increased and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
+To guard against excessive exposure to OXYCONTIN by young children, advise caregivers to strictly adhere to recommended OXYCONTIN dosing.
+
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
@@ -67,6 +69,6 @@ Healthcare professionals can telephone Purdue Pharma’s Medical Services Depart
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2014, Purdue Pharma L.P.
+©2015, Purdue Pharma L.P.
 
-U.S. Patent Numbers 6,488,963; 7,129,248; 7,674,799; 7,674,800; 7,683,072; 7,776,314; 8,114,383; 8,309,060; and 8,337,888.
+U.S. Patent Numbers 6,488,963; 7,129,248; 7,674,799; 7,674,800; 7,683,072; 8,114,383; 8,309,060; 8,337,888; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,060,976 and 9,073,933.
