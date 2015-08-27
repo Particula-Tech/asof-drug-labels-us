@@ -1,5 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-PROCYSBI can be administered with electrolyte (except bicarbonate) and mineral replacements necessary for management of Fanconi Syndrome as well as vitamin D and thyroid hormone.
-An in-vitro study indicates cysteamine bitartrate is not an inhibitor of CYP enzymes (CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4).
-The potential for cysteamine to affect the pharmacokinetics of other drugs via these enzymes is low.
+## 7.1 Drugs that Increase Gastric pH
+
+Drugs that increase the gastric pH (e.g., proton pump inhibitors, medications containing bicarbonate or carbonate) may alter the pharmacokinetics of cysteamine due to the premature release of cysteamine from PROCYSBI and increase WBC cystine concentration.
+Concomitant administration of 20 mg omeprazole did not significantly affect the pharmacokinetics of cysteamine when PROCYSBI was administered with 240 mL of orange juice [Clinical Pharmacology (12.3)].
+The effect of omeprazole on the pharmacokinetics of cysteamine was not studied after PROCYSBI administration with water.
+Monitor WBC cystine concentration when drugs that increase the gastric pH are concomitantly used [see Dosage and Administration (2.4)].
+
+## 7.2 Use with Alcohol
+
+Consumption of alcohol with PROCYSBI may increase the rate of cysteamine release and/or adversely alter the pharmacokinetic properties, as well as the effectiveness and safety of PROCYSBI.
+Therefore, do not consume alcoholic beverages during treatment with PROCYSBI [see Dosage and Administration (2.4)].
+
+## 7.3 Other Medications Used for the Management of Fanconi syndrome
+
+PROCYSBI can be administered with other electrolyte and mineral replacements necessary for management of Fanconi syndrome, as well as vitamin D and thyroid hormone.

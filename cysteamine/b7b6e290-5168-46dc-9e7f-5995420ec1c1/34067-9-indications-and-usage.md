@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-PROCYSBI is indicated for the management of nephropathic cystinosis in adults and children ages 6 years and older.
+PROCYSBI is indicated for the treatment of nephropathic cystinosis in adult and pediatric patients 2 years of age and older.
