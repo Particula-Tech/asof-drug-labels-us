@@ -128,7 +128,7 @@ Clopidogrel tablets can cause serious side effects including:
   - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
+Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -163,4 +163,4 @@ Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellu
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 Jantoven® is a registered trademark of USL Pharma.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 08/2015

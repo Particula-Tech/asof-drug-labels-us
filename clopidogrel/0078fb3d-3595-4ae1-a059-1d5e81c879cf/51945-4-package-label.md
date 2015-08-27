@@ -1,4 +1,4 @@
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 75 mg (30 Tablet Bottle)
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 75 mg (30 Tablets Bottle)
 
 NDC 65862-357-30 Clopidogrel Tablets, USP 75 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Rx only 30 Tablets AUROBINDO
