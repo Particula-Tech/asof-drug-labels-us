@@ -8,12 +8,11 @@ REGLAN Injection (metoclopramide injection, USP) 5 mg metoclopramide base (as th
 
 30 mL single dose vials in cartons of 25 (NDC 60977-451-03).
 
-| Container | Total Contents # | Concentration# | Administration |
+| Container | Total ContentsMetoclopramide base (as the monohydrochloride monohydrate) | Concentration | Administration |
 | --- | --- | --- | --- |
 | 2 mL single dose vial | 10 mg | 5 mg/mL | FOR IV or IM ADMINISTRATION |
 | 10 mL single dose vial | 50 mg | 5 mg/mL | FOR IV INFUSION ONLY; DILUTE BEFORE USING |
 | 30 mL single dose vial | 150 mg | 5 mg/mL | FOR IV INFUSION ONLY; DILUTE BEFORE USING |
-| # Metoclopramide base (as the monohydrochloride monohydrate) |  |  |  |
 
 Store vials in carton until used.
 Do not store open single dose vials for later use, as they contain no preservative.
