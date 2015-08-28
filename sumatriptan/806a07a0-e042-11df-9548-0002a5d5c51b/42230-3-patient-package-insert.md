@@ -1,4 +1,10 @@
-Patient Information ZECUITY® (zeh-CUE-eh-tee) (sumatriptan succinate) Iontophoretic Transdermal System (TDS) for topical use
+# PATIENT INFORMATION
+
+- ZECUITY® (zeh-CUE-eh-tee)
+
+(sumatriptan iontophoretic transdermal system)
+
+for topical use
 
 Read this Patient Information before you start using ZECUITY and each time you get a refill.
 There may be new information.
@@ -13,25 +19,25 @@ Heart problems may lead to death.
 
 Stop using ZECUITY and get emergency medical help right away if you have any of the following symptoms of a heart attack:
 
-- discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
-- chest pain or chest discomfort that feels like an uncomfortable heavy pressure, squeezing, fullness, or pain
-- pain or discomfort in your arms, back, neck, jaw, or stomach
-- shortness of breath with or without chest discomfort
-- breaking out in a cold sweat
-- nausea or vomiting
-- feeling lightheaded
+- •discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+- •chest pain or chest discomfort that feels like an uncomfortable heavy pressure, squeezing, fullness, or pain
+- •pain or discomfort in your arms, back, neck, jaw, or stomach
+- •shortness of breath with or without chest discomfort
+- •breaking out in a cold sweat
+- •nausea or vomiting
+- •feeling lightheaded
 
 ZECUITY is not for people with risk factors for heart disease unless a heart exam is done and shows no problem.
 You have a higher risk for heart disease if you:
 
-- have high blood pressure
-- have high cholesterol levels
-- smoke
-- are overweight
-- have diabetes
-- have a family history of heart disease
-- are a female who has gone through menopause
-- are a male over age 40
+- •have high blood pressure
+- •have high cholesterol levels
+- •smoke
+- •are overweight
+- •have diabetes
+- •have a family history of heart disease
+- •are a female who has gone through menopause
+- •are a male over age 40
 
 What is ZECUITY?
 
@@ -48,45 +54,46 @@ Who should not use ZECUITY?
 
 Do not use ZECUITY if you have:
 
-- heart problems or a history of heart problems
-- had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
-- narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
-- uncontrolled high blood pressure
-- hemiplegic migraines or basilar migraines.
+- •heart problems or a history of heart problems
+- •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
+- •narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- •uncontrolled high blood pressure
+- •hemiplegic migraines or basilar migraines.
   If you are not sure if you have these types of migraines, ask your healthcare provider
-- taken any of the following medicines in the last 24 hours:
-  - almotriptan (AXERT®)
-  - eletriptan (RELPAX®)
-  - frovatriptan (FROVA®)
-  - naratriptan (AMERGE®)
-  - rizatriptan (MAXALT®, MAXALT-MLT®)
-  - sumatriptan and naproxen (TREXIMET®)
-  - ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
-  - dihydroergotamine (D.H.E.
-    45®, MIGRANAL®) Ask your healthcare provider if you are not sure if your medicine is listed above.
-- severe liver problems
-- an allergy to sumatriptan, the medicine in ZECUITY, or any of the components in ZECUITY TDS.
+- •taken any of the following medicines in the last 24 hours:
+  - oalmotriptan (AXERT®)
+  - oeletriptan (RELPAX®)
+  - ofrovatriptan (FROVA®)
+  - onaratriptan (AMERGE®)
+  - orizatriptan (MAXALT®, MAXALT-MLT®)
+  - osumatriptan and naproxen (TREXIMET®)
+  - oergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - odihydroergotamine (D.H.E.
+    45®, MIGRANAL®)
+- Ask your healthcare provider if you are not sure if your medicine is listed above.
+- •severe liver problems
+- •an allergy to sumatriptan, the medicine in ZECUITY, or any of the components in ZECUITY TDS.
   See the end of this leaflet for a complete list of ingredients in ZECUITY.
 
 What should I tell my healthcare provider before using ZECUITY?
 
 Before you use ZECUITY, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have high blood pressure
-- have high cholesterol
-- have diabetes
-- smoke
-- are overweight
-- are a female who has gone through menopause
-- have heart problems or family history of heart problems or stroke
-- have liver problems
-- have had epilepsy or seizures
-- are not using effective birth control
-- have or have had any side effects caused by the use of electrical devices.
+- •have high blood pressure
+- •have high cholesterol
+- •have diabetes
+- •smoke
+- •are overweight
+- •are a female who has gone through menopause
+- •have heart problems or family history of heart problems or stroke
+- •have liver problems
+- •have had epilepsy or seizures
+- •are not using effective birth control
+- •have or have had any side effects caused by the use of electrical devices.
   Talk to your healthcare provider if you are not sure if you have a medical electronic device or sensitivities to electrical devices.
-- are pregnant or plan to become pregnant.
+- •are pregnant or plan to become pregnant.
   It is not known if ZECUITY will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if the medicine in ZECUITY passes into your breast milk.
   You and your healthcare provider should decide if you will use ZECUITY or breastfeed.
   You should not do both.
@@ -97,10 +104,10 @@ Using ZECUITY with certain other medicines can affect each other, causing seriou
 
 Especially tell your healthcare provider if you take anti-depressant medicines called:
 
-- selective serotonin reuptake inhibitors (SSRIs)
-- serotonin norepinephrine reuptake inhibitors (SNRIs)
-- tricyclic antidepressants (TCAs)
-- monoamine oxidase inhibitors (MAOIs)
+- •selective serotonin reuptake inhibitors (SSRIs)
+- •serotonin norepinephrine reuptake inhibitors (SNRIs)
+- •tricyclic antidepressants (TCAs)
+- •monoamine oxidase inhibitors (MAOIs)
 
 Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
@@ -109,86 +116,92 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 
 How should I use ZECUITY?
 
-- Read the Instructions for Use in the package that comes with your ZECUITY TDS for information about the right way to use ZECUITY TDS.
-- Certain people should apply their first dose of ZECUITY in their healthcare provider’s office or in another medical setting.
+- •Read the Instructions for Use in the package that comes with your ZECUITY TDS for information about the right way to use ZECUITY TDS.
+- •Certain people should apply their first dose of ZECUITY in their healthcare provider’s office or in another medical setting.
   Ask your healthcare provider if you should use your first dose in a medical setting.
-- ZECUITY is for use on the skin only.
-- Use ZECUITY exactly as your healthcare provider tells you to.
-- Apply 1 ZECUITY to your upper arm or thigh.
-- Do not apply ZECUITY to other areas of your body.
+- •ZECUITY is for use on the skin only.
+- •Use ZECUITY exactly as your healthcare provider tells you to.
+- •Apply 1 ZECUITY to your upper arm or thigh.
+- •Do not apply ZECUITY to other areas of your body.
   Talk to your healthcare provider if you are not sure where to apply ZECUITY.
-- If your headache comes back or you only get some relief from your headache, you may apply a second ZECUITY to your other arm or thigh, no sooner than 2 hours after the activation of the previously applied ZECUITY.
-- Do not apply more than 2 ZECUITY in 24 hours.
-- If you use too much ZECUITY, call your healthcare provider or go to the nearest hospital emergency room right away.
-- It is not known if using more than 4 ZECUITY in 1 month is safe.
+- •If your headache comes back or you only get some relief from your headache, you may apply a second ZECUITY to your other arm or thigh, no sooner than 2 hours after the activation of the previously applied ZECUITY.
+- •Do not apply more than 2 ZECUITY in 24 hours.
+- • If you use too much ZECUITY, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •It is not known if using more than 4 ZECUITY in 1 month is safe.
 
 What should I avoid while using ZECUITY?
 
-- Do not bathe, shower, or swim while wearing ZECUITY.
-- ZECUITY can cause dizziness, weakness, or drowsiness.
+• Do not bathe, shower, or swim while wearing ZECUITY.
+
+- • ZECUITY can cause dizziness, weakness, or drowsiness.
   If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
-- You should remove ZECUITY before you have a Magnetic Resonance Imaging (MRI) procedure.
+- •You should remove ZECUITY before you have a Magnetic Resonance Imaging (MRI) procedure.
 
 What are the possible side effects of ZECUITY?
 
-See "What is the most important information I should know about ZECUITY?"
+See “What is the most important information I should know about ZECUITY?”
 
 ZECUITY may cause serious side effects including:
 
-- injury during a Magnetic Resonance Imaging (MRI).
+- •injury during a Magnetic Resonance Imaging (MRI).
   The ZECUITY TDS contains metal parts and must be removed before an MRI.
-- allergic contact dermatitis (ACD).
+- •allergic contact dermatitis (ACD).
   Some people have had a serious skin reaction called allergic contact dermatitis (ACD) where ZECUITY is applied.
-  Symptoms of ACD include: You should stop using ZECUITY and call your healthcare provider if you have any of the symptoms of ACD.
+  Symptoms of ACD include:
+  - oitching, redness, or irritation of skin
+  - oblistering or peeling of your skin
+  - owarmth or tenderness of skin
+  - oblisters that ooze, drain, or crust over
+- You should stop using ZECUITY and call your healthcare provider if you have any of the symptoms of ACD.
   If you have or have had ACD while using ZECUITY and need to take sumatriptan by mouth or injection, your first dose of sumatriptan should be given in your healthcare provider’s office or in another medical setting.
-  - itching, redness, or irritation of skin
-  - blistering or peeling of your skin
-  - warmth or tenderness of skin
-  - blisters that ooze, drain, or crust over
-- changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
-- stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+- •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- •stomach and intestinal problems (gastrointestinal and colonic ischemic events).
   Symptoms of gastrointestinal and colonic ischemic events include:
-  - sudden or severe stomach pain
-  - stomach pain after meals
-  - weight loss
-  - nausea or vomiting
-  - constipation or diarrhea
-  - bloody diarrhea
-  - fever
-- problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  - osudden or severe stomach pain
+  - ostomach pain after meals
+  - oweight loss
+  - onausea or vomiting
+  - oconstipation or diarrhea
+  - obloody diarrhea
+  - ofever
+- •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
   Symptoms of peripheral vascular ischemia include:
-  - cramping and pain in your legs or hips
-  - feeling of heaviness or tightness in your leg muscles
-  - burning or aching pain in your feet or toes while resting
-  - numbness, tingling, or weakness in your legs
-  - cold feeling or color changes in 1 or both legs or feet
-- medication overuse headaches.
+  - ocramping and pain in your legs or hips
+  - ofeeling of heaviness or tightness in your leg muscles
+  - oburning or aching pain in your feet or toes while resting
+  - onumbness, tingling, or weakness in your legs
+  - ocold feeling or color changes in 1 or both legs or feet
+- •medication overuse headaches.
   Some people who use too many ZECUITY may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with sumatriptan.
-- serotonin syndrome.
+- •serotonin syndrome.
   Serotonin syndrome is a rare but serious problem that can happen in people using ZECUITY, especially if ZECUITY is used with anti-depressant medicines called SSRIs or SNRIs.
-  Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
-  Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
-  - mental changes such as seeing things that are not there (hallucinations), agitation, or coma
-  - fast heartbeat
-  - changes in blood pressure
-  - high body temperature
-  - tight muscles
-  - trouble walking
-  - nausea, vomiting, or diarrhea
-- increases in blood pressure.
+
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+
+Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+
+- 
+  - omental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - ofast heartbeat
+  - ochanges in blood pressure
+  - ohigh body temperature
+  - otight muscles
+  - otrouble walking
+  - onausea, vomiting, or diarrhea
+- •increases in blood pressure.
   You should not use ZECUITY if you have uncontrolled high blood pressure.
-- serious allergic reactions.
+- •serious allergic reactions.
   Get medical help right away if you have any of these symptoms of a serious allergic reaction:
-  - swelling of your face, lips, mouth, or tongue
-  - trouble breathing
-  - wheezing
-  - severe itching
-  - skin rash, redness, or swelling
-  - dizziness or fainting
-  - fast heartbeat or pounding in your chest (tachycardia)
-  - sweating
-- seizures.
+- oswelling of your face, lips, mouth, or tongue
+- otrouble breathing
+- owheezing
+- osevere itching
+- oskin rash, redness, or swelling
+- odizziness or fainting
+- ofast heartbeat or pounding in your chest (tachycardia)
+- osweating
+- •seizures.
   Seizures have happened in people taking sumatriptan who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take ZECUITY.
 
@@ -207,8 +220,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZECUITY?
 
-- Store ZECUITY at room temperature between 68°F to 77°F (20°C to 25°C).
-- Do not store ZECUITY in the refrigerator or freezer.
+- •Store ZECUITY at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Do not store ZECUITY in the refrigerator or freezer.
 
 Keep ZECUITY and all medicines out of the reach of children.
 
@@ -231,8 +244,33 @@ Active ingredient: sumatriptan succinate
 
 Inactive ingredients:
 
-- Sumatriptan Reservoir Card and pad: purified water, basic butylated methacrylate copolymer (polyamine), lauric acid, adipic acid, methylparaben, and non-woven viscose pad.
-- Salt Reservoir Card and pad: purified water, hydroxypropylcellulose, sodium chloride, methylparaben, and non-woven viscose pad.
-- Iontophoretic device: medical grade adhesive fabric, foam and plastic dome containing an activation button, coin cell lithium batteries, and electronics.
+- •Sumatriptan Reservoir Card and pad: purified water, basic butylated methacrylate copolymer (polyamine), lauric acid, adipic acid, methylparaben, and non-woven viscose pad.
+- •Salt Reservoir Card and pad: purified water, hydroxypropylcellulose, sodium chloride, methylparaben, and non-woven viscose pad.
+- •Iontophoretic device: medical grade adhesive fabric, foam and plastic dome containing an activation button, coin cell lithium batteries, and electronics.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+ZECUITY® is a registered trademark of NuPathe Inc. The other brands listed are trademarks of their respective owners and are not trademarks of NuPathe.
+The makers of these brands are not affiliated with and do not endorse NuPathe or its products.
+
+Manufactured for NuPathe Inc. by LTS
+
+Lohmann Therapie-Systeme AG, D-56626
+
+Andernach, Germany
+
+and by LTS Lohmann Therapy Systems Corp.,
+
+West Caldwell, NJ 07006
+
+NuPathe, Inc., is a wholly-owned subsidiary of Teva Pharmaceuticals USA, Inc.
+
+©2014 Teva Pharmaceuticals USA, Inc.
+
+All rights reserved.
+
+ZECPL-001
+
+Revised: April 2014
+
+Teva logo

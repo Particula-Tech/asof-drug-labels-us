@@ -3,7 +3,7 @@
 ## 7.1 Ergot-Containing Drugs
 
 Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
-Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and ZECUITY within 24 hours of each other is contraindicated [see Warnings and Precautions (4)].
+Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and ZECUITY within 24 hours of each other is contraindicated [see Contraindications (4)].
 
 ## 7.2 Monoamine Oxidase-A Inhibitors
 

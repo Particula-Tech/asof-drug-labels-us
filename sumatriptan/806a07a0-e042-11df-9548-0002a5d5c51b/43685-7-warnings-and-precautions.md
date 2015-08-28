@@ -2,7 +2,7 @@
 
 ## 5.1 Risk of Injury During Magnetic Resonance Imaging (MRI) Procedure
 
-Zecuity contains metal parts and must be removed before an MRI procedure.
+ZECUITY contains metal parts and must be removed before an MRI procedure.
 
 ## 5.2 Allergic Contact Dermatitis
 

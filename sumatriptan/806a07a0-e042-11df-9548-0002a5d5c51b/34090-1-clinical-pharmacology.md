@@ -38,7 +38,7 @@ After a single ZECUITY dose, the mean sumatriptan half-life was 3.1 hours.
 
 Migraine Effect: Similar pharmacokinetic values were observed during a migraine attack compared to a migraine-free period following ZECUITY administration on the upper arm in 18 patients with a diagnosis of migraine.
 
-External Heat Source: A heat effect study in 12 healthy adult subjects demonstrated similar pharmacokinetic values without and with the application of an external heat source (40ºC heat wrap placed over top of the ZECUITY TDS for the 4 hour dosing period).
+External Heat Source: A heat effect study in 12 healthy adult subjects demonstrated similar pharmacokinetic values without and with the application of an external heat source (40°C heat wrap placed over top of the ZECUITY TDS for the 4 hour dosing period).
 
 Special Populations:
 
@@ -48,7 +48,7 @@ No significant pharmacokinetic differences were observed.
 
 Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined.
 
-Hepatic Impairment: The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
+Hepatic Impairment:The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
 There were no significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in moderately hepatically impaired subjects compared with healthy controls.
 The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
 The use of ZECUITY in this population is contraindicated [see Contraindications (4)].

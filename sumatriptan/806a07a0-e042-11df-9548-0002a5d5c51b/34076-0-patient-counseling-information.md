@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-How to Use ZECUITY
+- How to Use ZECUITY
 
 Advise patients to carefully read the Patient Instructions for Use.
 Only patients who are able to understand and follow the instructions should use ZECUITY.
@@ -13,7 +13,7 @@ Advise patients not to bathe, shower or swim while wearing ZECUITY.
 
 Advise patients that upon removal of the ZECUITY TDS, most patients experience some skin redness under the transdermal system, which usually disappears within 24 hours.
 
-Advise patients that Zecuity is single-use and should not be cut.
+Advise patients that ZECUITY is single-use and should not be cut.
 Advise patients that no more than two ZECUITY TDS should be used in a 24 hour period, and that a second ZECUITY TDS should not be applied until at least 2 hours after activation of the first ZECUITY TDS [see Dosage and Administration (2)].
 
 Instruct patients to apply the ZECUITY TDS to the upper arm or thigh and not to other areas of the body.
@@ -23,11 +23,11 @@ Advise patients that the ZECUITY TDS should not be applied to a previous applica
 
 Inform patients that the safety of using more than 4 ZECUITY in one month has not been established.
 
-Risk of Injury during Magnetic Resonance Imaging (MRI) procedure
+- Risk of Injury during Magnetic Resonance Imaging (MRI) procedure
 
-Inform patients that Zecuity contains metal parts and must be removed before an MRI procedure.
+Inform patients that ZECUITY contains metal parts and must be removed before an MRI procedure.
 
-Potential for Allergic Contact Dermatitis
+- Potential for Allergic Contact Dermatitis
 
 Caution patients about the potential for developing allergic contact dermatitis (ACD) after use of ZECUITY.
 Inform patients of the signs and symptoms of ACD, and instruct patients to seek medical advice if they develop skin lesions suggestive of ACD.
@@ -45,22 +45,42 @@ Inform patients that anaphylactic/anaphylactoid reactions have occurred in patie
 Such reactions can be life threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Warnings and Precautions (5.11)].
 
-Medication Overuse Headache
+- Medication Overuse Headache
 
 Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.8)].
 
-Pregnancy
+- Pregnancy
 
 Inform patients that ZECUITY should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+- Nursing Mothers
 
 Advise patients to notify their physician if they are breast-feeding or plan to breast-feed [see Use in Specific Populations (8.3)].
 
-Ability To Perform Complex Tasks
+- Ability To Perform Complex Tasks
 
 Since migraines or treatment with sumatriptan may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after using ZECUITY.
 
-Serotonin Syndrome
+- Serotonin Syndrome
 
 Caution patients about the risk of serotonin syndrome with the use of ZECUITY or other triptans, particularly during combined use with SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.9) and Drug Interactions (7.4)].
+
+Manufactured for NuPathe Inc. by LTS
+
+Lohmann Therapie-Systeme AG, D-56626
+
+Andernach, Germany
+
+and by LTS Lohmann Therapy Systems Corp.,
+
+West Caldwell, NJ 07006
+
+NuPathe, Inc., is a wholly-owned subsidiary of Teva Pharmaceuticals USA, Inc.
+
+©2014 Teva Pharmaceuticals USA, Inc.
+
+All rights reserved.
+
+ZEC-001
+
+Teva logo

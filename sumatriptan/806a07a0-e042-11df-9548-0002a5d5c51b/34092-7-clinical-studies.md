@@ -15,8 +15,9 @@ As shown in Table 4, a significantly greater proportion of patients had no heada
 
 Table 4: Percentage of Patients with No Headache Pain, With Headache Pain Relief, No Nausea, No Photophobia, and No Phonophobia Two Hours After TDS Activation
 
-| Two Hours After ZECUITY TDS Activation | ZECUITY (n = 226) | Placebo (n = 228) | p value |
+| Two Hours After ZECUITY TDS Activation |  |  | p value |
 | --- | --- | --- | --- |
+| ZECUITY (n = 226) | Placebo (n = 228) |  |  |
 | No Headache Pain | 18% | 9% | 0.0092 |
 | With Headache Pain Relief | 53% | 29% | <0.0001 |
 | No Nausea | 84% | 63% | <0.0001 |

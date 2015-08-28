@@ -11,8 +11,6 @@ There is no evidence of benefit for the use of a second ZECUITY TDS to treat hea
 ZECUITY should be applied to dry intact, non-irritated skin on the upper arm or thigh on a site that is relatively hair free and is without scars, tattoos, abrasions, or other skin conditions (i.e., generalized skin irritation or disease including eczema, psoriasis, melanoma, contact dermatitis).
 ZECUITY should not be applied to a previous application site until the site remains erythema free for at least 3 days.
 
-Figure 1: Applied Transdermal System
-
 ZECUITY delivers 6.5 mg of sumatriptan over 4 hours.
 Once applied, the activation button must be pushed, and the red light emitting diode (LED) will turn on.
 ZECUITY TDS must be applied and activated within 15 minutes of initiation of assembly.
