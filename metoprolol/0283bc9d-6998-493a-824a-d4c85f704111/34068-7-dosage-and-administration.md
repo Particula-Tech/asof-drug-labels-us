@@ -26,10 +26,8 @@ If treatment is to be discontinued, gradually decrease the dosage over a period 
 
 ## Myocardial Infarction
 
-### Early Treatment:
-
-During the early phase of definite or suspected acute myocardial infarction, initiate treatment with Lopressor as soon as possible after the patient's arrival in the hospital.
-Such treatment should be initiated in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized.
+Early Treatment: During the early phase of definite or suspected acute myocardial infarction, initiate treatment with Lopressor as soon as possible after the patient’s arrival in the hospital.
+Such treatment should be initiated in a coronary care or similar unit immediately after the patient’s hemodynamic condition has stabilized.
 
 Begin treatment in this early phase with the intravenous administration of three bolus injections of 5 mg of Lopressor each; give the injections at approximately 2-minute intervals.
 During the intravenous administration of Lopressor, monitor blood pressure, heart rate, and electrocardiogram.
@@ -40,7 +38,7 @@ Thereafter, the maintenance dosage is 100 mg twice daily (see Late Treatment bel
 Start patients who appear not to tolerate the full intravenous dose on Lopressor tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.
 In patients with severe intolerance, discontinue Lopressor (see WARNINGS).
 
-### Late Treatment:
+## Late Treatment:
 
 Start patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason on Lopressor tablets, 100 mg twice daily, as soon as their clinical condition allows.
 Continue therapy for at least 3 months.

@@ -26,7 +26,7 @@ Isolated cases of transaminase, alkaline phosphatase, and lactic dehydrogenase e
 Hypersensitive Reactions: Pruritus or rash have occurred in about 5 of 100 patients.
 Very rarely, photosensitivity and worsening of psoriasis has been reported.
 
-Miscellaneous: Peyronie's disease has been reported in fewer than 1 of 100,000 patients.
+Miscellaneous: Peyronie’s disease has been reported in fewer than 1 of 100,000 patients.
 Musculoskeletal pain, blurred vision, and tinnitus have also been reported.
 
 There have been rare reports of reversible alopecia, agranulocytosis, and dry eyes.
@@ -47,7 +47,7 @@ Cardiovascular: In the randomized comparison of Lopressor and placebo described 
 | Hypotension (systolic BP <90 mmHg) | 27.4% | 23.2% |
 | Bradycardia (heart rate <40 beats/min) | 15.9% | 6.7% |
 | Second- or third-degree heart block | 4.7% | 4.7% |
-| First-degree heart block (P-R =0.26 sec) | 5.3% | 1.9% |
+| First-degree heart block (P-R ≥0.26 sec) | 5.3% | 1.9% |
 | Heart failure | 27.5% | 29.6% |
 
 Respiratory: Dyspnea of pulmonary origin has been reported in fewer than 1 of 100 patients.

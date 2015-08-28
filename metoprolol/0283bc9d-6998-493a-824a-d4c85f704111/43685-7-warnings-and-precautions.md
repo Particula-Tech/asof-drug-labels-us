@@ -1,55 +1,14 @@
 # WARNINGS
 
-## Heart Failure
+Heart Failure
 
 Beta blockers, like Lopressor, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
 If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
 It may be necessary to lower the dose of Lopressor or to discontinue it.
 
-## Ischemic Heart Disease
-
-Do not abruptly discontinue Lopressor therapy in patients with coronary artery disease.
-Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with beta-blockers.
-When discontinuing chronically administered Lopressor, particularly in patients with coronary artery disease, the dosage should be gradually reduced over a period of 1-2 weeks and the patient should be carefully monitored.
-If angina markedly worsens or acute coronary insufficiency develops, Lopressor administration should be reinstated promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken.
-Patients should be warned against interruption or discontinuation of therapy without the physician's advice.
-Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue Lopressor therapy abruptly even in patients treated only for hypertension.
-
-## Use During Major Surgery
-
-Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
-
-## Bradycardia
-
-Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of Lopressor.
-Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk.
-Monitor heart rate and rhythm in patients receiving Lopressor.
-If severe bradycardia develops, reduce or stop Lopressor.
-
-## Exacerbation of Bronchospastic Disease
-
-Patients with bronchospastic disease,should, in general, not receive beta blockers, including Lopressor.
-Because of its relative beta1 selectivity, however, Lopressor may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
-Because beta1 selectivity is not absolute use the lowest possible dose of Lopressor and consider administering Lopressor in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
-Bronchodilators, including beta2 agonists, should be readily available or administered concomitantly.
-
-## Diabetes and Hypoglycemia
-
-Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-
-## Pheochromocytoma
-
-If Lopressor is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
-Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
-
-## Thyrotoxicosis
-
-Lopressor may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
-Avoid abrupt withdrawal of beta blockade, which might precipitate a thyroid storm.
-
 # PRECAUTIONS
 
-## Risk of Anaphylactic Reactions
+Risk of Anaphylactic Reactions
 
 While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
@@ -60,7 +19,7 @@ Advise patients to take Lopressor regularly and continuously, as directed, with 
 If a dose should be missed, the patient should take only the next scheduled dose (without doubling it).
 Patients should not discontinue Lopressor without consulting the physician.
 
-Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient's response to therapy with Lopressor has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking Lopressor.
+Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient’s response to therapy with Lopressor has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking Lopressor.
 
 ## Drug Interactions
 

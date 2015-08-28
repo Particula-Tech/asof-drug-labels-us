@@ -16,6 +16,10 @@ However, several possible mechanisms have been proposed: (1) competitive antagon
 
 By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, Lopressor reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
 
+## Myocardial Infarction
+
+The precise mechanism of action of Lopressor in patients with suspected or definite myocardial infarction is not known.
+
 ## Pharmacodynamics
 
 Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, Lopressor is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
@@ -76,14 +80,20 @@ The elimination half-life of metoprolol is considerably prolonged, depending on 
 
 ## Clinical Studies:
 
-Hypertension In controlled clinical studies, Lopressor has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100-450 mg daily.
+Hypertension
+
+In controlled clinical studies, Lopressor has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100-450 mg daily.
 In controlled, comparative, clinical studies, Lopressor has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
 
-Angina Pectoris In controlled clinical trials, Lopressor, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
+Angina Pectoris
+
+In controlled clinical trials, Lopressor, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
 The dosage used in these studies ranged from 100-400 mg daily.
 A controlled, comparative, clinical trial showed that Lopressor was indistinguishable from propranolol in the treatment of angina pectoris.
 
-Myocardial Infarction In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, Lopressor was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
+Myocardial Infarction
+
+In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, Lopressor was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
 
 Patients were randomized and treated as soon as possible after their arrival in the hospital, once their clinical condition had stabilized and their hemodynamic status had been carefully evaluated.
 Subjects were ineligible if they had hypotension, bradycardia, peripheral signs of shock, and/or more than minimal basal rales as signs of congestive heart failure.
