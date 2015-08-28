@@ -1,4 +1,6 @@
-PATIENT INFORMATION ESTRADIOL TRANSDERMAL SYSTEM CONTINUOUS DELIVERY (ONCE-WEEKLY), USP Estradiol (es″ tra dye′ ol)
+# PATIENT INFORMATION
+
+ESTRADIOL TRANSDERMAL SYSTEM, USP CONTINUOUS DELIVERY (ONCE-WEEKLY) Estradiol (es″ tra dye′ ol)
 
 Read this Patient Information before you start using estradiol transdermal system continuous delivery (once-weekly) and each time you get a refill.
 There may be new information.
@@ -208,11 +210,7 @@ Inactive ingredient: propylene glycol, povidone, anhydrous colloidal silicon dio
 
 Instructions for Use
 
-ESTRADIOL TRANSDERMAL SYSTEM
-
-CONTINUOUS DELIVERY (ONCE-WEEKLY), USP
-
-Estradiol (es″ tra dye′ ol)
+ESTRADIOL TRANSDERMAL SYSTEM, USP CONTINUOUS DELIVERY (ONCE-WEEKLY) Estradiol (es″ tra dye′ ol)
 
 Read this Patient Information before you start using estradiol transdermal system continuous delivery (once-weekly) and each time you get a refill.
 There may be new information.
@@ -282,4 +280,4 @@ This Patient Information and Instructions for Use have been approved by the U.S 
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2014 ETS:R22
+REVISED MAY 2015 ETS:R23

@@ -2,27 +2,27 @@
 
 ## 16.1 How Supplied
 
-Estradiol Transdermal System, 0.025 mg/day Continuous Delivery (Once-Weekly), USP – each 7.75 cm2 system contains 0.97 mg of estradiol USP
+Estradiol Transdermal System, USP 0.025 mg/day Continuous Delivery (Once-Weekly) – each 7.75 cm2 system contains 0.97 mg of estradiol USP
 
 NDC 0378-3349-99 Individual Carton of 4 systems
 
-Estradiol Transdermal System, 0.0375 mg/day Continuous Delivery (Once-Weekly), USP – each 11.625 cm2 system contains 1.46 mg of estradiol USP
+Estradiol Transdermal System, USP 0.0375 mg/day Continuous Delivery (Once-Weekly) – each 11.625 cm2 system contains 1.46 mg of estradiol USP
 
 NDC 0378-3360-99 Individual Carton of 4 systems
 
-Estradiol Transdermal System, 0.05 mg/day Continuous Delivery (Once-Weekly), USP – each 15.5 cm2 system contains 1.94 mg of estradiol USP
+Estradiol Transdermal System, USP 0.05 mg/day Continuous Delivery (Once-Weekly) – each 15.5 cm2 system contains 1.94 mg of estradiol USP
 
 NDC 0378-3350-99 Individual Carton of 4 systems
 
-Estradiol Transdermal System, 0.06 mg/day Continuous Delivery (Once-Weekly), USP – each 18.6 cm2 system contains 2.33 mg of estradiol USP
+Estradiol Transdermal System, USP 0.06 mg/day Continuous Delivery (Once-Weekly) – each 18.6 cm2 system contains 2.33 mg of estradiol USP
 
 NDC 0378-3361-99 Individual Carton of 4 systems
 
-Estradiol Transdermal System, 0.075 mg/day Continuous Delivery (Once-Weekly), USP – each 23.25 cm2 system contains 2.91 mg of estradiol USP
+Estradiol Transdermal System, USP 0.075 mg/day Continuous Delivery (Once-Weekly) – each 23.25 cm2 system contains 2.91 mg of estradiol USP
 
 NDC 0378-3351-99 Individual Carton of 4 systems
 
-Estradiol Transdermal System, 0.1 mg/day Continuous Delivery (Once-Weekly), USP – each 31 cm2 system contains 3.88 mg of estradiol USP
+Estradiol Transdermal System, USP 0.1 mg/day Continuous Delivery (Once-Weekly) – each 31 cm2 system contains 3.88 mg of estradiol USP
 
 NDC 0378-3352-99 Individual Carton of 4 systems
 

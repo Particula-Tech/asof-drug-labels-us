@@ -1,12 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 0.025 mg/day
-
-NDC 0378-3349-99
-
-Estradiol Transdermal System, 0.025 mg/day
-
-Continuous Delivery (Once-Weekly), USP
+# PRINCIPAL DISPLAY PANEL - 0.025 mg/day
 
 4 Systems
+
+NDC 0378-3349-99 Rx only
+
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) 0.025 mg/day
 
 Contents: Each 7.75 cm2 system contains 0.97 mg estradiol USP to provide 0.025 mg of estradiol per day.
 The inactive ingredients are propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
@@ -22,21 +20,21 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: See attached prescribing information.
 Apply immediately upon removal from pouch.
 
-Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
+Each Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) is intended to be worn for 7 days.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M3349-99-4C:R4
+Mylan.com
 
-PRINCIPAL DISPLAY PANEL - 0.0375 mg/day
+M3349-99-4C:R6
 
-NDC 0378-3360-99
-
-Estradiol Transdermal System, 0.0375 mg/day
-
-Continuous Delivery (Once-Weekly), USP
+# PRINCIPAL DISPLAY PANEL - 0.0375 mg/day
 
 4 Systems
+
+NDC 0378-3360-99 Rx only
+
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) 0.0375 mg/day
 
 Contents: Each 11.625 cm2 system contains 1.46 mg estradiol USP to provide 0.0375 mg of estradiol per day.
 The inactive ingredients are propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
@@ -52,21 +50,21 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: See attached prescribing information.
 Apply immediately upon removal from pouch.
 
-Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
+Each Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) is intended to be worn for 7 days.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M3360-99-4C:R3
+Mylan.com
 
-PRINCIPAL DISPLAY PANEL - 0.05 mg/day
+M3360-99-4C:R5
 
-NDC 0378-3350-99
-
-Estradiol Transdermal System, 0.05 mg/day
-
-Continuous Delivery (Once-Weekly), USP
+# PRINCIPAL DISPLAY PANEL - 0.05 mg/day
 
 4 Systems
+
+NDC 0378-3350-99 Rx only
+
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) 0.05 mg/day
 
 Contents: Each 15.5 cm2 system contains 1.94 mg estradiol USP to provide 0.05 mg of estradiol per day.
 The inactive ingredients are propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
@@ -82,21 +80,21 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: See attached prescribing information.
 Apply immediately upon removal from pouch.
 
-Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
+Each Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) is intended to be worn for 7 days.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M3350-99-4C:R5
+Mylan.com
 
-PRINCIPAL DISPLAY PANEL - 0.06 mg/day
+M3350-99-4C:R7
 
-NDC 0378-3361-99
-
-Estradiol Transdermal System, 0.06 mg/day
-
-Continuous Delivery (Once-Weekly), USP
+# PRINCIPAL DISPLAY PANEL - 0.06 mg/day
 
 4 Systems
+
+NDC 0378-3361-99 Rx only
+
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) 0.06 mg/day
 
 Contents: Each 18.6 cm2 system contains 2.33 mg estradiol USP to provide 0.06 mg of estradiol per day.
 The inactive ingredients are propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
@@ -112,21 +110,21 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: See attached prescribing information.
 Apply immediately upon removal from pouch.
 
-Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
+Each Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) is intended to be worn for 7 days.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M3361-99-4C:R2
+Mylan.com
 
-PRINCIPAL DISPLAY PANEL - 0.075 mg/day
+M3361-99-4C:R4
 
-NDC 0378-3351-99
-
-Estradiol Transdermal System, 0.075 mg/day
-
-Continuous Delivery (Once-Weekly), USP
+# PRINCIPAL DISPLAY PANEL - 0.075 mg/day
 
 4 Systems
+
+NDC 0378-3351-99 Rx only
+
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) 0.075 mg/day
 
 Contents: Each 23.25 cm2 system contains 2.91 mg estradiol USP to provide 0.075 mg of estradiol per day.
 The inactive ingredients are propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
@@ -142,21 +140,21 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: See attached prescribing information.
 Apply immediately upon removal from pouch.
 
-Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
+Each Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) is intended to be worn for 7 days.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M3351-99-4C:R4
+Mylan.com
 
-PRINCIPAL DISPLAY PANEL - 0.1 mg/day
+M3351-99-4C:R6
 
-NDC 0378-3352-99
-
-Estradiol Transdermal System, 0.1 mg/day
-
-Continuous Delivery (Once-Weekly), USP
+# PRINCIPAL DISPLAY PANEL - 0.1 mg/day
 
 4 Systems
+
+NDC 0378-3352-99 Rx only
+
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) 0.1 mg/day
 
 Contents: Each 31 cm2 system contains 3.88 mg estradiol USP to provide 0.1 mg of estradiol per day.
 The inactive ingredients are propylene glycol, povidone, anhydrous colloidal silicon dioxide, pressure sensitive acrylic adhesive, copolymer foam, polyester film, and brown ink (yellow iron oxide pigment, red iron oxide pigment and carbon black pigment).
@@ -172,8 +170,10 @@ Store at 20° to 25°C (68° to 77°F).
 Usual Dosage: See attached prescribing information.
 Apply immediately upon removal from pouch.
 
-Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
+Each Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) is intended to be worn for 7 days.
 
-MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M3352-99-4C:R5
+Mylan.com
+
+M3352-99-4C:R7
