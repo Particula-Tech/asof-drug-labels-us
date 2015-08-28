@@ -6,7 +6,7 @@ Store Upright
 
 Symbicort® 160/4.5
 
-Budesonide 160 mcg/formoterol fumarate dehydrate 4.5 mcg
+budesonide 160 mcg/formoterol fumarate dehydrate 4.5 mcg
 
 INHALATION AEROSOL
 
@@ -18,8 +18,7 @@ Dispense with enclosed Medication Guide.
 
 Rx only
 
-Mfd.
-For: AstraZeneca LP, Wilmington, DE 19850
+Mfd. for: AstraZeneca LP, Wilmington, DE 19850
 
 By: AstraZeneca Dunkerque Production
 
@@ -37,7 +36,7 @@ Store Upright
 
 Symbicort® 80/4.5
 
-Budesonide 80 mcg/formoterol fumarate dehydrate 4.5 mcg
+budesonide 80 mcg/formoterol fumarate dehydrate 4.5 mcg
 
 INHALATION AEROSOL
 
@@ -51,7 +50,7 @@ Rx only
 
 Mfd. for: AstraZeneca LP, Wilmington, DE 19850
 
-By: AstraZeenca Dunkerque Production
+By: AstraZeneca Dunkerque Production
 
 Dunkerque, France
 
