@@ -1,4 +1,4 @@
-NDC 0032–1203–70
+NDC 0032-1203-70
 
 70 Capsules
 
@@ -14,7 +14,29 @@ Dispense enclosed Medication Guide to each patient.
 
 Rx only abbvie
 
-NDC 0032–1206–01
+NDC-0032-1203-64
+
+70 Capsules
+
+CREON® (pancrelipase) Delayed-Release Capsules
+
+DOSE BY LIPASE UNITS: Lipase 3,000 USP Units, Protease 9,500 USP Units, Amylase 15,000 USP Units
+
+Each capsule contains pancrelipase in enteric-coated spheres.
+
+DISPENSE IN ORIGINAL CONTAINER
+
+Dispense enclosed Medication Guide to each patient.
+
+Rx only
+
+PROFESSIONAL SAMPLE
+
+NOT FOR RESALE
+
+abbvie
+
+NDC 0032-1206-01
 
 100 Capsules
 
@@ -30,7 +52,7 @@ Rx only
 
 abbvie
 
-NDC 0032–1206–07
+NDC 0032-1206-07
 
 250 Capsules
 
@@ -46,7 +68,7 @@ Rx only
 
 abbvie
 
-NDC 0032–1212–07
+NDC 0032-1212-07
 
 250 Capsules
 
@@ -62,7 +84,7 @@ Rx only
 
 abbvie
 
-NDC 0032–1224–01
+NDC 0032-1224-01
 
 100 Capsules
 
@@ -78,7 +100,7 @@ Rx only
 
 abbvie
 
-NDC 0032–3016–13
+NDC 0032-3016-13
 
 100 Capsules
 
