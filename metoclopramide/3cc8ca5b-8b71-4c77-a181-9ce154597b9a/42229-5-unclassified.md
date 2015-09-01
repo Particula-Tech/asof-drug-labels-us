@@ -4,4 +4,4 @@ Manufactured By:
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R07/10
+R10/12

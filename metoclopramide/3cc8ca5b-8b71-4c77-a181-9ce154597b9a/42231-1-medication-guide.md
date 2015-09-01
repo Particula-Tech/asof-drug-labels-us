@@ -12,22 +12,22 @@ What is the most important information I should know about Metoclopramide?
 
 Metoclopramide can cause serious side effects, including:
 
-Abnormal muscle movements called tardive dyskinesia (TD).
+Abnormal muscle movements called tardive dyskinesia.
 These movements happen mostly in the face muscles.
-You can not control these movements.
+You cannot control these movements.
 They may not go away even after stopping Metoclopramide.
-There is no treatment for TD, but symptoms may lessen or go away over time after you stop taking Metoclopramide
+There is no treatment for tardive dyskinesia, but symptoms may lessen or go away over time after you stop taking Metoclopramide
 
-Your chances for getting TD go up:
+Your chances for getting tardive dyskinesia go up:
 
 - the longer you take Metoclopramide and the more Metoclopramide you take.
   You should not take Metoclopramide for more than 12 weeks.
 - if you are older, especially if you are a woman
 - if you have diabetes
 
-It is not possible for your doctor to know if you will get TD if you take Metoclopramide.
+It is not possible for your doctor to know if you will get tardive dyskinesia if you take Metoclopramide.
 
-Call your doctor right away if you get movements you can not stop or control, such as:
+Call your doctor right away if you get movements you cannot stop or control, such as:
 
 - lip smacking, chewing, or puckering up your mouth
 - frowning or scowling
@@ -90,9 +90,9 @@ Especially tell your doctor if you take:
 
 - another medicine that contains Metoclopramide, such as REGLAN tablets, REGLAN ODT.
 - a blood pressure medicine
-- a medicine for depression, especially an Monoamine Oxidase Inhibitor (MAOI)
+- a medicine for depression, especially a Monoamine Oxidase Inhibitor (MAOI)
 - insulin
-- a medicine that can make you sleepy, such an anti-anxiety medicine, sleep medicines, and narcotics.
+- a medicine that can make you sleepy, such as anti-anxiety medicine, sleep medicines, and narcotics.
 
 If you are not sure if your medicine is one listed above, ask your doctor or pharmacist.
 
@@ -117,7 +117,7 @@ What are the possible side effects of Metoclopramide?
 
 Metoclopramide can cause serious side effects, including:
 
-- Abnormal muscle movements.
+- Tardive dyskinesia (abnormal muscle movements).
   See "What is the most important information I need to know about Metoclopramide?"
 - Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia).
   These muscle spasms can cause abnormal movements and body positions.
@@ -162,7 +162,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Metoclopramide?
 
-- Keep Metoclopramide at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep Metoclopramide at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
 - Keep Metoclopramide in the bottle it comes in.
   Keep the bottle closed tightly.
 
@@ -188,6 +188,6 @@ Inactive ingredients: citric acid, FD&C Yellow No. 6 (Sunset Yellow), flavoring,
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R07/10
+R10/12
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

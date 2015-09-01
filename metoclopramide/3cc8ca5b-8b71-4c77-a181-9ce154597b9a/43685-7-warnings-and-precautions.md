@@ -15,9 +15,7 @@ Parkinsonian-like symptoms have occurred, more commonly within the first 6 month
 These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
 Patients with pre-existing Parkinson's disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
 
-## Tardive Dyskinesia
-
-(see Boxed Warnings)
+Tardive Dyskinesia (see Boxed Warnings)
 
 Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
 The risk of developing tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
