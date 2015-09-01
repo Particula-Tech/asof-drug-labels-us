@@ -7,11 +7,9 @@ The following adverse reactions are discussed in greater detail in other section
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see WARNINGS AND PRECAUTIONS (5.4)].
 - Pancreatitis [see WARNINGS AND PRECAUTIONS (5.5)].
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trials Experience in Adult Subjects
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-Adults - Clinical Trials in HIV-1
 
 The safety profile of lamivudine in adults is primarily based on 3,568 HIV-1-infected subjects in 7 clinical trials.
 
@@ -23,7 +21,7 @@ Table 3: Selected Clinical Adverse Reactions (Greater than or Equal to 5% Freque
 
 | Adverse Reaction | Lamivudine 150 mg Twice Daily plus RETROVIR (n = 251) | RETROVIREither zidovudine monotherapy or zidovudine in combination with zalcitabine.(n = 230) |
 | --- | --- | --- |
-| Body as a Whole |  |  |
+| Body as A Whole |  |  |
 | Headache | 35% | 27% |
 | Malaise & fatigue | 27% | 23% |
 | Fever or chills | 10% | 12% |
@@ -79,7 +77,7 @@ ND = Not done.
 
 The frequencies of selected laboratory abnormalities reported in subjects receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) were similar.
 
-Pediatric Subjects – Clinical Trials in HIV-1
+## 6.2 Clinical Trials Experience in Pediatric Subjects
 
 Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with lamivudine 4 mg per kg twice daily plus RETROVIR®* 160 mg per m2 3 times daily in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 
@@ -133,7 +131,10 @@ Table 6: Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediat
 | Total Amylase (>2.5 x ULN) | 3% | 3% |
 | ULN = Upper limit of normal. |  |  |
 
-Neonates - Clinical Trials in HIV-1
+Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's EPIVIR® (lamivudine) tablets and oral solution.
+However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Neonates
 
 Limited short-term safety information is available from 2 small, uncontrolled Trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see CLINICAL PHARMACOLOGY (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
@@ -141,7 +142,7 @@ Two other nonfatal gastroenteritis or diarrhea cases were reported, including 1 
 The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1-infected patients treated with lamivudine-containing combination regimens.
 Long-term effects of in utero and infant lamivudine exposure are not known.
 
-## 6.2 Postmarketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of lamivudine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

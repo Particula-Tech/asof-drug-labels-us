@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Lamivudine Functionally Scored Tablets, 150 mg
+Lamivudine Scored Tablets, 150 mg
 
 White to off white scored capsule shaped, film coated tablets, debossed on both tablet faces, such that, when broken in half "L" and "5" code is present on both halves of the tablet ("L" on one side and " 5" on the opposite face of the tablet).
 

@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Lactic Acidosis/Hepatomegaly
 
 Inform patients that some HIV medicines, including lamivudine, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see WARNINGS AND PRECAUTIONS (5.1)].
@@ -11,12 +13,12 @@ Advise patients to discuss any changes in regimen with their physician [see WARN
 
 Differences in Formulations of Lamivudine
 
-Advise patients that lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) as EPIVIR-HBV tablets.
+Advise patients that lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) as EPIVIR-HBV tablets and oral solution.
 If a decision is made to include lamivudine in the HIV-1 treatment regimen of a patient co-infected with HIV-1 and HBV, the formulation and dosage of lamivudine in lamivudine tablets (not EPIVIR-HBV) should be used [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Use with Other Lamivudine- and Emtricitabine-containing Products
 
-Lamivudine tablets should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR®* (lamivudine/zidovudine) tablets, EPZICOM®* (abacavir sulfate and lamivudine) tablets, TRIZIVIR®* (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA®* (efavirenz, emtricitabine, and tenofovir), EMTRIVA®* (emtricitabine), STRIBILD®* (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA®* (emtricitabine and tenofovir), or COMPLERA®* (rilpivirine/emtricitabine/tenofovir) [see WARNINGS AND PRECAUTIONS (5.3)].
+Lamivudine tablets should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR®* (lamivudine/zidovudine) tablets, EPZICOM®* (abacavir sulfate and lamivudine) tablets, TRIUMEQ®* (dolutegravir, abacavir, lamivudine), TRIZIVIR®* (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA®* (efavirenz, emtricitabine, and tenofovir), EMTRIVA®* (emtricitabine), STRIBILD®* (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA®* (emtricitabine and tenofovir), or COMPLERA®* (rilpivirine/emtricitabine/tenofovir) [see WARNINGS AND PRECAUTIONS (5.3)].
 
 HIV-1/HCV Co-infection
 
@@ -38,6 +40,9 @@ Patients should be told that sustained decreases in plasma HIV-1 RNA have been a
 Patients should remain under the care of a physician when using lamivudine tablets.
 
 Patients should be informed to take all HIV medications exactly as prescribed.
+If you miss a dose of lamivudine tablets, take it as soon as you remember.
+Do not take 2 doses at the same time.
+If you are not sure about your dosing, call your healthcare provider.
 
 Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
 
@@ -65,4 +70,4 @@ Goa - 403722
 
 India
 
-Revised: May 2015 ID#: 241213
+Revised: September 2015 ID#: 242334

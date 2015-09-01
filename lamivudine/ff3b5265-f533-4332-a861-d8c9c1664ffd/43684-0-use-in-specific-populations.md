@@ -44,7 +44,7 @@ Because of the potential for HIV-1 transmission mothers should be instructed not
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of twice-daily lamivudine in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see ADVERSE REACTIONS (6.1), CLINICAL PHARMACOLOGY (12.3), CLINICAL STUDIES (14.2)].
+The safety and effectiveness of lamivudine in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see DOSAGE AND ADMIISTRATION (2.2), ADVERSE REACTIONS (6.2), CLINICAL PHARMACOLOGY (12.3), CLINICAL STUDIES (14.2)].
 
 ## 8.5 Geriatric Use
 
