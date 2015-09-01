@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202080"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Egalet US Inc.",
+  "package_ndcs": [
+    "69344-113-11",
+    "69344-213-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "OXAYDO"
+    }
+  ],
+  "setid": "cff0c64a-63f5-4b3c-909a-cdecf6755cbe",
+  "source": "dailymed"
+}

@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL - NDC 69344-113-11 - 5 mg 100-count Bottle Label
+
+# PRINCIPAL DISPLAY PANEL - NDC 69344-213-11 - 7.5 mg 100-count Bottle Label
