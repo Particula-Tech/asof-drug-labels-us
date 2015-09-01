@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA206406"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Veloxis Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "68992-3010-1",
+    "68992-3010-3",
+    "68992-3040-1",
+    "68992-3040-3",
+    "68992-3075-1",
+    "68992-3075-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tacrolimus",
+      "name": "Envarsus"
+    }
+  ],
+  "setid": "de2315b0-6344-43ac-9aea-3e3b68d828e7",
+  "source": "dailymed"
+}
