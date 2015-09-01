@@ -1,17 +1,16 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Effects of Other Drugs on the Metabolism of Donepezil Hydrochloride Tablets
-
-Ketoconazole and quinidine, inhibitors of CYP450, 3A4 and 2D6, respectively, inhibit donepezil metabolism in vitro.
-Whether there is a clinical effect of quinidine is not known.
-In a 7-day crossover study in 18 healthy volunteers, ketoconazole (200 mg q.d.) increased mean Donepezil (5 mg q.d.) concentrations (AUC 0-24 and Cmax) by 36%.
-The clinical relevance of this increase in concentration is unknown.
-Inducers of CYP 3A4 (e.g., phenytoin, carbamazepine, dexamethasone, rifampin, and phenobarbital) could increase the rate of elimination of donepezil hydrochloride tablets.
-
-## 7.2 Use with Anticholinergics
+## 7.1 Use with Anticholinergics
 
 Because of their mechanism of action, cholinesterase inhibitors have the potential to interfere with the activity of anticholinergic medications.
 
-## 7.3 Use with Cholinomimetics and Other Cholinesterase Inhibitors
+## 7.2 Use with Cholinomimetics and Other Cholinesterase Inhibitors
 
-A synergistic effect may be expected when cholinesterase inhibitors are given concurrently with succinylcholine, similar neuromuscular blocking agents or cholinergic agonists such as bethanechol.
+Pregnancy Category C
+
+There are no adequate or well-controlled studies in pregnant women.
+Donepezil hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of 23 mg/day on a mg/m2basis) and 10 mg/kg/day (approximately 7 times the MRHD on a mg/m2basis), respectively.
+Oral administration of donepezil (1, 3, 10 mg/kg/day) to rats during late gestation and throughout lactation to weaning produced an increase in stillbirths and reduced offspring survival through postpartum day 4 at the highest dose.
+The no-effect dose of 3 mg/kg/day is approximately equal to the MRHD on a mg/m2basis.
