@@ -8,7 +8,7 @@ This product is intended to prevent pregnancy.
 It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 68 mg Carton
+# PRINCIPAL DISPLAY PANEL - 68 mg Implant Blister Pack Carton
 
 NDC 0052-4330-01 1 applicator containing 1 subdermal implant
 
