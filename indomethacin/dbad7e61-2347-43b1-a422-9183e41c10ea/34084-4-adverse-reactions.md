@@ -1,23 +1,23 @@
 # ADVERSE REACTIONS
 
 The adverse reactions for indomethacin capsules listed in the following table have been arranged into two groups: 1) incidence greater than 1% and (2) incidence less than 1%.
-The incidence for group (1) was obtained from 33 doubleblind controlled clinical trails reported in the literature (1,092 patients).
+The incidence for group (1) was obtained from 33 double-blind controlled clinical trails reported in the literature (1,092 patients).
 The incidence for group (2) was based on reports in clinical trials, in the literature, and on voluntary reports since marketing.
 The probability of a causal relationship exists between indomethacin and these adverse reactions, some of which have been reported only rarely.
 
-In controlled clinical trials, the incidence of adverse reactions to Indomethacin Extended-Release Capsules and equal 24-hour doses of indomethacin capsules were similar.
+In controlled clinical trials, the incidence of adverse reactions to indomethacin extended-release capsules and equal 24-hour doses of indomethacin capsules were similar.
 
 | Incidence greater than 1% | Incident less than 1% |  |
 | --- | --- | --- |
 | GASTROINTESTINAL |  |  |
-| nausea* with or without | anorexia | Gastrointestinal bleeding without |
+| nausea* with or without | anorexia | gastrointestinal bleeding without |
 | vomiting | bloating (including distention) | obvious ulcer formation and |
-| Dyspepsia * (including | flatulence | Perforation of preexisting sigmoid |
+| dyspepsia* (including | flatulence | perforation of preexisting sigmoid |
 | indigestion, heartburn and | peptic ulcer | lesions (diverticulum, carcinoma, |
 | epigastric pain) | gastroenteritis | etc.) development of ulcerative |
 | diarrhea | rectal bleeding | and regional ileitis |
-| abdominal distress or pain | procitis | ulcerative stomatitis |
-| Colitis constipation | single or multiple ulcerations. | toxic hepatitis and jaundice (some |
+| abdominal distress or pain | proctitis | ulcerative stomatitis |
+| colitis constipation | single or multiple ulcerations, | toxic hepatitis and jaundice (some |
 |  | including perforation and | fatal cases have been reported) |
 |  | hemorrhage of the esophagus, |  |
 |  | stomach, duodenum or small |  |
@@ -36,10 +36,10 @@ In controlled clinical trials, the incidence of adverse reactions to Indomethaci
 | SPECIAL SENSES |  |  |
 | tinnitus | ocular-corneal deposits and | blurred vision |
 |  | retinal disturbances, including | diplopia |
-|  | those of macula, have been | Hearing disturbances, deafness |
+|  | those of macula, have been | hearing disturbances, deafness |
 |  | reported in some patients on |  |
 |  | prolonged therapy with |  |
-|  | Indomethacin |  |
+|  | indomethacin |  |
 | CARDIOVASCULAR |  |  |
 | none | hypertension | congestive heart failure |
 |  | hypotension | arrhythmia; palpitations |
@@ -51,15 +51,15 @@ In controlled clinical trials, the incidence of adverse reactions to Indomethaci
 |  | fluid retention | hyperkalemia |
 |  | flushing or sweating |  |
 | INTEGUMENTARY |  |  |
-| none | pruritus | exfoliate dermatitis |
+| none | pruritus | exfoliative dermatitis |
 |  | rash; urticaria | erythema nodosum |
 |  | petechiae or ecchymosis | loss of hair |
 |  |  | Stevens-Johnson syndrome |
 |  |  | erythema multiforme |
 |  |  | toxic epidermal necrolysis |
 | HEMATOLOGIC |  |  |
-| none | leukopemia | aplastic anemia |
-|  | bone marrow depression | demolytic anemia |
+| none | leukopenia | aplastic anemia |
+|  | bone marrow depression | hemolytic anemia |
 |  | anemia secondary to obvious or | agranulocytosis |
 |  | occult gastrointestinal bleeding | thrombocytopenic purpura |
 |  |  | disseminated intravascular |
@@ -75,7 +75,7 @@ In controlled clinical trials, the incidence of adverse reactions to Indomethaci
 |  | vaginal bleeding | renal insufficiency including |
 |  | proteinuria | renal failure |
 |  | nephrotic syndrome |  |
-|  | interstitial nephritis |  |
+|  | interstital nephritis |  |
 | MISCELLANEOUS |  |  |
 | none | epistasis |  |
 |  | breast changes, including |  |
@@ -87,7 +87,7 @@ Causal Relationship Unknown: Other reactions have been reported but occurred und
 However, in these rarely reported events, the possibility cannot be excluded.
 Therefore, these observations are being listed to serve as alerting information to physicians:
 
-A rare occurrence of fulminant necrotizing lasciitis, particularly in association with Group A β-hemolytic streptococcus, has been described in persons treated with nonsteroidal anti-inflammatory agents, including indomethacin, sometimes with fatal outcome (see also PRECAUTIONS, General).
+A rare occurrence of fulminant necrotizing fasciitis, particularly in association with Group A β-hemolytic streptococcus, has been described in persons treated with nonsteroidal anti-inflammatory agents, including indomethacin, sometimes with fatal outcome [see also PRECAUTIONS, General].
 
 Cardiovascular: Thrombophlebitis.
 

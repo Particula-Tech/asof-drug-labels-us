@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 The following symptoms may be observed following overdosage: nausea, vomiting, intense headache, dizziness, mental confusion, disorientation, or lethargy.
-There have been reports of paresthesias, numbness, and convulsions.
+There have been reports of paraesthesias, numbness, and convulsions.
 
 Treatment is symptomatic and supportive.
 The stomach should be emptied as quickly as possible if the ingestion is recent.

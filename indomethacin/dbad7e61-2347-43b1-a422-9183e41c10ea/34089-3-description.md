@@ -1,7 +1,6 @@
 # DESCRIPTION
 
 Indomethacin cannot be considered a simple analgesic and should not be used in conditions other than those recommended under INDICATION AND USAGE.
-
 Indomethacin is a non-steroidal anti-inflammatory indole derivative designated chemically as 1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indole-3-acetic acid.
 Indomethacin is practically insoluble in water and sparingly soluble in alcohol.
 It has a pKa of 4.5 and is stable in neutral or slightly acidic media and decomposes in strong alkali.

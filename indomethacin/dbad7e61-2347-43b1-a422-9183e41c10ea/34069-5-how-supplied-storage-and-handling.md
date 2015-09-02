@@ -1,17 +1,18 @@
 # HOW SUPPLIED
 
-Indomethacin Extended-Release Capsules, USP 75 mg are size “2” coni-snap, empty hard gelatin capsules with natural clear body imprinted “506” and blue translucent cap imprinted “AMNEAL” with black ink.
+Indomethacin extended-release capsules, USP 75 mg are size “2” coni-snap, empty hard gelatin capsules with natural clear body imprinted “506” and blue translucent cap imprinted “AMNEAL” with black ink.
 
 They are available as follows:
 
-Bottles of 30: NDC 65162-506-03
+Bottles of 30: NDC 65162-506-03 Bottles of 60: NDC 65162-506-06 Bottles of 90: NDC 65162-506-09 Bottles of 100: NDC 65162-506-10 Bottles of 500: NDC 65162-506-50 Bottles of 1000: NDC 65162-506-11
 
-Bottles of 60: NDC 65162-506-06
+Rx only
 
-Bottles of 90: NDC 65162-506-09
+Storage: Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+Protect from moisture.
+Dispense contents in a tight, light-resistant container as defined in the USP with child-resistant closure, as required.
 
-Bottles of 100: NDC 65162-506-10
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
-Bottles of 500: NDC 65162-506-50
-
-Bottles of 1000: NDC 65162-506-11
+Rev.
+07-2015-00

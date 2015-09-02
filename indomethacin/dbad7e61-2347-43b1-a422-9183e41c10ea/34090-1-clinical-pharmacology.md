@@ -21,15 +21,15 @@ Indomethacin has been reported to diminish basal and CO2 stimulated cerebral blo
 In one study after one week of treatment with orally administered indomethacin, this effect on basal cerebral blood flow had disappeared.
 The clinical significance of this effect has not been established.
 
-Indomethacin Extended-Release Capsules (75 mg) are designed to release 25 mg of drug initially and the remaining 50 mg over approximately 12 hours (90% of dose absorbed by 12 hours).
-Plasma concentrations of Indomethacin fluctuates less and are more sustained following administration of Indomethacin Extended–Release Capsules than following administration of 25 mg indomethacin capsules given at 4 to 6 hours Intervals.
-In multiple dose comparisons, the mean daily steady plasma levels of Indomethacin attained with daily administration of Indomethacin Extended-Release Capsules 75 mg was indistinguishable from that following Indomethacin 25 mg Capsules given at 0, 6, and 12 hours daily.
-However, there was a significant difference in Indomethacin plasma levels between the two dosage regimens especially after 12 hours.
+Indomethacin extended-release capsules (75 mg) are designed to release 25 mg of drug initially and the remaining 50 mg over approximately 12 hours (90% of dose absorbed by 12 hours).
+Plasma concentrations of indomethacin fluctuates less and are more sustained following administration of indomethacin extended–release capsules than following administration of 25 mg indomethacin capsules given at 4 to 6 hours intervals.
+In multiple dose comparisons, the mean daily steady plasma levels of indomethacin attained with daily administration of indomethacin extended-release capsules 75 mg was indistinguishable from that following indomethacin 25 mg capsules given at 0, 6, and 12 hours daily.
+However, there was a significant difference in indomethacin plasma levels between the two dosage regimens especially after 12 hours.
 
-Controlled clinical studies of safety and efficacy in patients with osteoarthritis have shown that one capsule of Indomethacin Extended-Release was clinically comparable to one 25 mg indomethacin capsule t.i.d.; and in controlled clinical studies in patients with rheumatoid arthritis, one capsule of Indomethacin Extended-Release taken in the morning and one in the evening were clinically indistinguishable from one 50 mg capsule of indomethacin t.i.d.
+Controlled clinical studies of safety and efficacy in patients with osteoarthritis have shown that one capsule of indomethacin extended-release was clinically comparable to one 25 mg indomethacin capsule t.i.d.; and in controlled clinical studies in patients with rheumatoid arthritis, one capsule of indomethacin extended-release taken in the morning and one in the evening were clinically indistinguishable from one 50 mg capsule of indomethacin t.i.d.
 
 Indomethacin is eliminated via renal excretion, metabolism, and biliary excretion.
-Indomethacn undergoes appreciable enterohepatic circulation.
+Indomethacin undergoes appreciable enterohepatic circulation.
 The mean half-life of indomethacin is estimated to be about 4.5 hours.
 With a typical therapeutic regimen of 25 or 50 mg t.i.d., the steady state plasma concentrations of indomethacin are an average 1.4 times those following the first dose.
 
