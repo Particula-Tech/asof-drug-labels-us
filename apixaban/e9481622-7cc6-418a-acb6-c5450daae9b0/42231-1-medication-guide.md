@@ -154,7 +154,6 @@ Inactive ingredients: anhydrous lactose, microcrystalline cellulose, croscarmell
 The film coating contains lactose monohydrate, hypromellose, titanium dioxide, triacetin, and yellow iron oxide (2.5 mg tablets) or red iron oxide (5 mg tablets).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured by: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA
 
 Marketed by: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA and Pfizer Inc New York, New York 10017 USA
 
@@ -162,4 +161,4 @@ COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
 
-Revised August 2014
+1356615 / 1356514 1356616 Revised June 2015
