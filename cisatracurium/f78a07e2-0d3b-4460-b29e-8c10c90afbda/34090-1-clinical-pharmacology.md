@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Cisatracurium binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in block of neuromuscular transmission.
 This action is antagonized by acetylcholinesterase inhibitors such as neostigmine.
@@ -146,10 +146,10 @@ The rate of spontaneous recovery of neuromuscular function after infusion is ind
 
 Long-term infusion (up to 6 days) of cisatracurium during mechanical ventilation in the ICU has been evaluated in two studies.
 In a randomized, double-blind study using presence of a single twitch during train-of-four (TOF) monitoring to regulate dosage, patients treated with cisatracurium (n = 19) recovered neuromuscular function (T4:T1 ratio ≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas those treated with vecuronium (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
-In another study comparing cisatracurium, and atracurium, patients recovered neuromuscular function in approximately 50 minutes for both cisatracurium (range: 20 to 175; n = 34) and atracurium (range: 35 to 85; n = 15).
+In another study comparing cisatracurium and atracurium, patients recovered neuromuscular function in approximately 50 minutes for both cisatracurium (range: 20 to 175; n = 34) and atracurium (range: 35 to 85; n = 15).
 
 The neuromuscular block produced by cisatracurium is readily antagonized by anticholinesterase agents once recovery has started.
-As with other nondepolarizing neuromuscular blocking agents, the more profound the neuromuscular block at the time of reversal, the longer the time required for recovery of neuromuscular function.
+As with other non-depolarizing neuromuscular blocking agents, the more profound the neuromuscular block at the time of reversal, the longer the time required for recovery of neuromuscular function.
 
 In children (2 to 12 years) cisatracurium has a lower ED95 than in adults (0.04 mg/kg, halothane/nitrous oxide/oxygen anesthesia).
 At 0.1 mg/kg during opioid anesthesia, cisatracurium had a faster onset and shorter duration of action in children than in adults (Table 1).
@@ -176,7 +176,7 @@ Figure 1.
 Maximum Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) During First 5 Minutes after Initial 4 x ED95 to 8 x ED95 Doses of Cisatracurium in Healthy Adult Patients Receiving Opioid/Nitrous Oxide/Oxygen Anesthesia (n = 44)
 
 Figure 2.
-Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) 10 Minutes After an Initial 4 x ED95 to 8 x ED95 Dose of Cisatracurium in Patients Undergoing CABG Surgery Receiving Oxygen/Fentanyl/Midazolam/Anesthesia (n=54)
+Percent Change from Preinjection in Heart Rate (HR) and Mean Arterial Pressure (MAP) 10 Minutes After an Initial 4 x ED95 to 8 x ED95 Dose of Cisatracurium in Patients Undergoing CABG Surgery Receiving Oxygen/Fentanyl/Midazolam/Anesthesia (n = 54)
 
 No clinically significant changes in MAP or HR were observed following administration of doses up to 0.1 mg/kg cisatracurium over 5 to 10 seconds in 2- to 12-year-old children receiving either halothane/nitrous oxide/oxygen or opioid/nitrous oxide/oxygen anesthesia.
 Doses of 0.15 mg/kg cisatracurium administered over 5 seconds were not consistently associated with changes in HR and MAP in pediatric patients aged 1 month to 12 years receiving opioid/nitrous oxide/oxygen or halothane/nitrous oxide/oxygen anesthesia.
@@ -207,11 +207,11 @@ General
 
 The neuromuscular blocking activity of cisatracurium is due to parent drug.
 Cisatracurium plasma concentration-time data following IV bolus administration are best described by a two-compartment open model (with elimination from both compartments) with an elimination half-life (t1/2β) of 22 minutes, a plasma clearance (CL) of 4.57 mL/min/kg, and a volume of distribution at steady state (Vss) of 145 mL/kg.
-Cisatracurium undergoes organ-independent Hofmann elimination (a chemical process dependent on pH and temperature) to form the monoquaternary acrylate metabolite and laudanosine, neither of which has any neuromuscular blocking activity (see).
+Cisatracurium undergoes organ-independent Hofmann elimination (a chemical process dependent on pH and temperature) to form the monoquaternary acrylate metabolite and laudanosine, neither of which has any neuromuscular blocking activity (see Pharmacokinetics, Metabolism).
 Following administration of radiolabeled cisatracurium, 95% of the dose was recovered in the urine; less than 10% of the dose was excreted as unchanged parent drug.
 Laudanosine, a metabolite of cisatracurium (and atracurium) has been noted to cause transient hypotension and, in higher doses, cerebral excitatory effects when administered to several animal species.
 The relationship between CNS excitation and laudanosine concentrations in humans has not been established (see PRECAUTIONS, Long-Term Use in the Intensive Care Unit [ICU]).
-Because cisatracurium is three times more potent than atracurium and lower doses are required, the corresponding laudanosine concentrations following cisatracurium are one third of those that would be expected following an equipotent dose of atracurium (see, Intensive Care Unit Patients).
+Because cisatracurium is three times more potent than atracurium and lower doses are required, the corresponding laudanosine concentrations following cisatracurium are one third of those that would be expected following an equipotent dose of atracurium (see Pharmacokinetics, Special Populations, Intensive Care Unit Patients).
 
 Results from population pharmacokinetic/pharmacodynamic (PK/PD) analyses from 241 healthy surgical patients are summarized in Table 5.
 
@@ -238,19 +238,19 @@ ll Rate constant describing the equilibration between plasma concentrations and 
 
 ¶ Concentration required to produce 50% T1 suppression; an index of patient sensitivity.
 
-The magnitude of interpatient variability in CL was low (16%), as expected based on the importance of Hofmann elimination (see Pharmacokinetics,Elimination).
+The magnitude of interpatient variability in CL was low (16%), as expected based on the importance of Hofmann elimination (see Pharmacokinetics, Elimination).
 The magnitudes of interpatient variability in CL and volume of distribution were low in comparison to those for keo and EC50.
 This suggests that any alterations in the time course of cisatracurium-induced block are more likely to be due to variability in the pharmacodynamic parameters than in the pharmacokinetic parameters.
 Parameter estimates from the population pharmacokinetic analyses were supported by noncompartmental pharmacokinetic analyses on data from healthy patients and from special patient populations.
 
 Conventional pharmacokinetic analyses have shown that the pharmacokinetics of cisatracurium are proportional to dose between 0.1 (2 x ED95) and 0.2 (4 x ED95) mg/kg cisatracurium.
-In addition, population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for dosed between 0.1 (2 x ED95) and 0.4 (8 x ED95) mg/kg cisatracurium.
+In addition, population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for doses between 0.1 (2 x ED95) and 0.4 (8 x ED95) mg/kg cisatracurium.
 
 Distribution
 
 The volume of distribution of cisatracurium is limited by its large molecular weight and high polarity.
 The Vss was equal to 145 mL/kg (Table 4) in healthy 19- to 64-year-old surgical patients receiving opioid anesthesia.
-The Vss was 21% larger in similar patients receiving inhalation anesthesia (see Other Patient Factors).
+The Vss was 21% larger in similar patients receiving inhalation anesthesia (see Pharmacokinetics, Special Populations, Other Patient Factors).
 
 Protein Binding
 
@@ -295,7 +295,7 @@ These changes were consistent with the 1-minute slower times to maximum block in
 The minor differences in PK/PD parameters of cisatracurium between elderly patients and young patients were not associated with clinically significant differences in the recovery profile of cisatracurium.
 
 Table 6.
-Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2 x ED95) Cisatracurium (Isoflurane/Nitrous Oxide/Oxygen Anesthesia
+Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2 x ED95) Cisatracurium (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
 
 | Parameter | Healthy Elderly Patients | Healthy Young Adult Patients |
 | --- | --- | --- |
@@ -318,7 +318,7 @@ There were no differences in keo or EC50 between patient groups.
 The times to maximum block were approximately one minute faster in liver transplant patients than in healthy adult patients receiving 0.1 mg/kg cisatracurium.
 These minor differences in pharmacokinetics were not associated with clinically significant differences in the recovery profile of cisatracurium.
 
-The t½β values of metabolites are longer in patients with hepatic disease and concentrations may be higher after long-term administration (see Intensive Care Unit Patients).
+The t½β values of metabolites are longer in patients with hepatic disease and concentrations may be higher after long-term administration (see Pharmacokinetics, Special Populations, Intensive Care Unit Patients).
 
 Table 7.
 Pharmacokinetic Parameters* of Cisatracurium in Healthy Adult Patients and in Patients Undergoing Liver Transplantation Following 0.1 mg/kg (2 x ED95) Cisatracurium (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
@@ -342,7 +342,7 @@ The PK/PD parameters of cisatracurium were similar in healthy adult patients and
 The times to 90% block were approximately one minute slower in ESRD patients following 0.1 mg/kg cisatracurium.
 There were no differences in the durations or rates of recovery of cisatracurium between ESRD and healthy adult patients.
 
-The t½β values of metabolites are longer in patients with renal failure and concentrations may be higher after long-term administration (see Intensive Care Unit Patients).
+The t½β values of metabolites are longer in patients with renal failure and concentrations may be higher after long-term administration (see Pharmacokinetics, Special Populations, Intensive Care Unit Patients).
 
 Table 8.
 Pharmacokinetic Parameters* for Cisatracurium in Healthy Adult Patients and in Patients With End-Stage Renal Disease (ESRD) Receiving 0.1 mg/kg (2 x ED95) Cisatracurium (Opioid/Nitrous Oxide/Oxygen Anesthesia)
@@ -355,7 +355,7 @@ Pharmacokinetic Parameters* for Cisatracurium in Healthy Adult Patients and in P
 
 * Values presented are mean ± SD.
 
-†Volume of distribution is underestimated because elimination from the peripheral compartment is ignored.
+† Volume of distribution is underestimated because elimination from the peripheral compartment is ignored.
 
 Population pharmacokinetic analyses revealed that patients with creatinine clearances ≤ 70 mL/min had a slower rate of equilibration between plasma concentrations and neuromuscular block than patients with normal renal function; this change was associated with a slightly slower (~ 40 seconds) predicted time to 90% T1 suppression in patients with renal dysfunction following 0.1 mg/kg cisatracurium.
 There was no clinically significant alteration in the recovery profile of cisatracurium in patients with renal dysfunction.
@@ -393,7 +393,7 @@ Limited pharmacokinetic data are available for patients with liver/kidney dysfun
 Data from studies of atracurium demonstrate that renal/hepatic failure in ICU patients produces little to no effect on its pharmacokinetics, but decreases the biotransformation and elimination of the metabolites.
 Following atracurium, t1/2β values for laudanosine were longer in ICU patients with renal failure than in ICU patients with normal renal function (15 and 6 hours, respectively).
 The t1/2β values of laudanosine were 39 ± 14 hours in ICU patients with liver failure receiving atracurium after an unsuccessful liver transplantation and 5 ± 2 hours in similar ICU patients after successful liver transplantation.
-Therefore, relative to ICU patients with normal renal and hepatic function receiving cisatracurium, metabolite concentrations (plasma and tissues) may be higher in ICU patients with renal or hepatic failure (see PRECAUTIONS,Long-Term Use in the Intensive Care Unit [ICU]).
+Therefore, relative to ICU patients with normal renal and hepatic function receiving cisatracurium, metabolite concentrations (plasma and tissues) may be higher in ICU patients with renal or hepatic failure (see PRECAUTIONS, Long-Term Use in the Intensive Care Unit [ICU]).
 Consistent with the decreased infusion rate requirements for cisatracurium, metabolite concentrations were lower in patients receiving cisatracurium than in patients receiving atracurium besylate.
 
 Pediatric Patients

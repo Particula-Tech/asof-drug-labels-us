@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 ## Anaphylaxis
 
@@ -27,7 +27,7 @@ The amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources.
 Single use vials (5 mL and 20 mL) of cisatracurium do not contain benzyl alcohol (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 Because of its intermediate onset of action, cisatracurium is not recommended for rapid sequence endotracheal intubation.
 
@@ -36,11 +36,11 @@ Recommended doses of cisatracurium have no clinically significant effects on hea
 Neuromuscular blocking agents may have a profound effect in patients with neuromuscular diseases (e.g., myasthenia gravis and the myasthenic syndrome).
 In these and other conditions in which prolonged neuromuscular block is a possibility (e.g., carcinomatosis), the use of a peripheral nerve stimulator and a dose of not more than 0.02 mg/kg cisatracurium is recommended to assess the level of neuromuscular block and to monitor dosage requirements.
 
-Patients with burns have been shown to develop resistance to nondepolarizing neuromuscular blocking agents, including atracurium.
+Patients with burns have been shown to develop resistance to non-depolarizing neuromuscular blocking agents, including atracurium.
 The extent of altered response depends upon the size of the burn and the time elapsed since the burn injury.
 Cisatracurium has not been studied in patients with burns; however, based on its structural similarity to atracurium, the possibility of increased dosing requirements and shortened duration of action must be considered if cisatracurium is administered to burn patients.
 
-Patients with hemiparesis or paraparesis also may demonstrate resistance to nondepolarizing muscle relaxants in the affected limbs.
+Patients with hemiparesis or paraparesis also may demonstrate resistance to non-depolarizing muscle relaxants in the affected limbs.
 To avoid inaccurate dosing, neuromuscular monitoring should be performed on a non-paretic limb.
 
 Acid-base and/or serum electrolyte abnormalities may potentiate or antagonize the action of neuromuscular blocking agents.
@@ -65,15 +65,14 @@ Because MH can develop in the absence of established triggering agents, the clin
 ## Long-Term Use in the Intensive Care Unit (ICU)
 
 Long-term infusion (up to 6 days) of cisatracurium during mechanical ventilation in the ICU has been safely used in two studies.
-Dosage requirements may increase or decrease with time (see CLINICAL PHARMACOLOGY, Individualization of Doses).
+Dosage requirements may increase or decrease with time (seeCLINICAL PHARMACOLOGY, Individualization of Dosages).
 
 Little information is available on the plasma levels and clinical consequences of cisatracurium metabolites that may accumulate during days to weeks of cisatracurium administration in ICU patients.
 Laudanosine, a major, biologically active metabolite of atracurium and cisatracurium without neuromuscular blocking activity, produces transient hypotension and, in higher doses, cerebral excitatory effects (generalized muscle twitching and seizures) when administered to several species of animals.
 There have been rare spontaneous reports of seizures in ICU patients who have received atracurium or other agents.
 These patients usually had predisposing causes (such as cranial trauma, cerebral edema, hypoxic encephalopathy, viral encephalitis, uremia).
 There are insufficient data to determine whether or not laudanosine contributes to seizures in ICU patients.
-Consistent with the decreased infusion rate requirements for cisatracurium, laudanosine concentrations were lower in patients receiving cisatracurium than in patients receiving atracurium for up to 48 hours (see,Intensive Care Unit Patients).
-
+Consistent with the decreased infusion rate requirements for cisatracurium, laudanosine concentrations were lower in patients receiving cisatracurium than in patients receiving atracurium for up to 48 hours (see Pharmacokinetics, Special Populations, Intensive Care Unit Patients).
 In a randomized, double-blind study using train-of-four nerve stimulator monitoring to maintain at least one visible twitch, evaluable patients treated with cisatracurium (n = 19) recovered neuromuscular function (T4:T1 ratio ≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas evaluable vecuronium-treated patients (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
 In another study comparing cisatracurium and atracurium, patients recovered neuromuscular function in approximately 50 minutes for both cisatracurium (range: 20 to 175; n = 34) and atracurium (range: 35 to 85; n = 15).
 
@@ -89,7 +88,7 @@ Cisatracurium has been used safely following varying degrees of recovery from su
 Administration of 0.1 mg/kg (2 x ED95) cisatracurium at 10% or 95% recovery following an intubating dose of succinylcholine (1 mg/kg) produced ≥ 95% neuromuscular block.
 The time to onset of maximum block following cisatracurium is approximately 2 minutes faster with prior administration of succinylcholine.
 Prior administration of succinylcholine had no effect on the duration of neuromuscular block following initial or maintenance bolus doses of cisatracurium.
-Infusion requirements of cisatracurium patients administered succinylcholine prior to infusions of cisatracurium were comparable to or slightly greater than when succinylcholine was not administered.
+Infusion requirements of cisatracurium in patients administered succinylcholine prior to infusions of cisatracurium were comparable to or slightly greater than when succinylcholine was not administered.
 
 The use of cisatracurium before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied.
 
@@ -103,9 +102,9 @@ The average infusion rate requirement may be decreased by as much as 30% to 40%.
 
 In clinical studies propofol had no effect on the duration of action or dosing requirements for cisatracurium.
 
-Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as cisatracurium include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistemethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.
+Other drugs which may enhance the neuromuscular blocking action of non-depolarizing agents such as cisatracurium include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistemethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.
 
-Resistance to the neuromuscular blocking action of nondepolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine.
+Resistance to the neuromuscular blocking action of non-depolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine.
 While the effects of chronic phenytoin or carbamazepine therapy on the action of cisatracurium are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher.
 
 ## Drug/Laboratory Test Interactions
@@ -146,7 +145,7 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 ## Pediatric Use
 
 Cisatracurium has not been studied in pediatric patients below the age of 1 month (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION for clinical experience and recommendations for use in children 1 month to 12 years of age).
-Intubation of the trachea in patients 1 to 4 years old was facilitated more reliably when cisatracurium was used in combination with Halothane than when opioids and nitrous oxide were used for induction of anesthesia.
+Intubation of the trachea in patients 1 to 4 years old was facilitated more reliably when cisatracurium was used in combination with halothane than when opioids and nitrous oxide were used for induction of anesthesia.
 
 The 10 mL multiple dose vials of cisatracurium contain benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
@@ -159,7 +158,7 @@ Practitioners administering this and other medications containing benzyl alcohol
 ## Geriatric Use
 
 Of the total number of subjects in clinical studies of cisatracurium, 57 were 65 and over, 63 were 70 and over, and 15 were 80 and over.
-The geriatric population included a subset of patients with significant cardiovascular disease (see CLINICALPHARMACOLOGY, Hemodynamics Profile and Special Populations,Geriatric Patients).
+The geriatric population included a subset of patients with significant cardiovascular disease (see CLINICAL PHARMACOLOGY, Hemodynamics Profile and Special Populations, Geriatric Patients).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between elderly and younger subjects, but greater sensitivity of some older individuals to cisatracurium cannot be ruled out.
 
 Minor differences in the pharmacokinetics of cisatracurium between elderly and young adult patients are not associated with clinically significant differences in the recovery profile of cisatracurium following a single 0.1 mg/kg dose; the time to maximum block is approximately 1 minute slower in elderly patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics).

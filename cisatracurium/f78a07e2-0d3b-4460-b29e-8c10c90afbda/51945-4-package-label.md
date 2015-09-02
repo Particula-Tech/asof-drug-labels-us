@@ -1,113 +1,92 @@
-PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 20 mL Single Dose Vial Label
-
-NDC 63323-418-20
-
-416020
+PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 20 mL Single Use Vial Label
 
 Cisatracurium Besylate Injection
 
-200 mg (base)/20 mL* (10 mg/mL)
+200 mg per 20 mL* (10 mg per mL)
+
+For ICU use only.
+For intravenous injection.
+
+Preservative free.
+
+20 mL Single Use Vial
 
 Rx only
 
-For Intravenous Injection
-
-For ICU use only.
-
-20 mL Single Dose Vial
-
-PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 20 mL Single Dose Vial Tray Label
-
-NDC 63323-418-20
-
-416020
+PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 20 mL Single Use Vial Carton Panel
 
 Cisatracurium Besylate Injection
 
-200 mg/20 mL* (10 mg/mL)
-
-For Intravenous Injection
+200 mg per 20 mL* (10 mg per mL)
 
 For ICU use only.
 
-Rx only
+Warning: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artifical respiration.
+For intravenous injection.
+
+Preservative free.
 
 10 x 20 mL
 
-Single Dose Vials
-
-PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 5 mL Single Dose Vial Label
-
-NDC 63323-416-05
-
-416005
-
-Cisatracurium Besylate Injection
-
-10 mg (base)/5 mL (2 mg/mL)
+Single Use Vials
 
 Rx only
 
-For Intravenous Injection
-
-5 mL Single Dose Vial
-
-PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 5 mL Single Dose Vial Tray Label
-
-NDC 63323-416-05
-
-416005
+PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 5 mL Single Use Vial Label
 
 Cisatracurium Besylate Injection
 
-10 mg/5 mL* (2 mg/mL)
+10 mg (base) per 5 mL (2 mg per mL)
 
-For Intravenous Injection
+For intravenous injection.
+Preservative free.
+
+5 mL Single Use Vial
 
 Rx only
+
+PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 5 mL Single Use Vial Carton Panel
+
+Cisatracurium Besylate Injection
+
+10 mg per 5 mL* (2 mg per mL) Warning: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artifical respiration.
+
+For intravenous injection.
+Preservative free.
 
 10 x 5 mL
 
-Single Dose Vials
+Single Use Vials
+
+Rx only
 
 PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 10 mL Multiple Dose Vial Label
 
-NDC 63323-417-10
+Cisatracurium Besylate Injection
 
-417010
+20 mg per 10 mL* (2 mg per mL)
+
+For intravenous injection.
+
+0.9% benzyl alcohol added as a preservative.
+
+10 mL Multiple Dose Vial Rx only
+
+PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 10 mL Multiple Dose Vial Carton Panel
 
 Cisatracurium Besylate Injection
 
-20 mg/10 mL* (2 mg/mL)
+20 mg per 10 mL* (2 mg per mL)
 
-0.9% benzyl alcohol
-
-(added as a preservative)
-
-For Intravenous Injection
-
-Rx only
-
-10 mL Multiple Dose Vial
-
-PACKAGE LABEL- PRINCIPAL DISPLAY- Cisatracurium 10 mL Multiple Dose Vial Tray Label
-
-NDC 63323-417-10
-
-417010
-
-Cisatracurium Besylate Injection
-
-20 mg/10 mL* (2 mg/mL)
-
-0.9% benzyl alcohol
-
-(added as a preservative)
-
-For Intravenous Injection
-
-Rx only
-
+Warning: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artifical respiration.
+For intravenous injection.
+0.9% benzyl alcohol added as a preservative.
 10 x 10 mL
 
-Multiple Dose Vials
+Multiple Dose Vials Rx only

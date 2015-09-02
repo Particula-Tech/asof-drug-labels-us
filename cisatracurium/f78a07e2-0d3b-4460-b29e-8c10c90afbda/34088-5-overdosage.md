@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Overdosage with neuromuscular blocking agents may result in neuromuscular block beyond the time needed for surgery and anesthesia.
 The primary treatment is maintenance of a patent airway and controlled ventilation until recovery of normal neuromuscular function is assured.

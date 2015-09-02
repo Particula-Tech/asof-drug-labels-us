@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
@@ -12,7 +12,7 @@ The use of a peripheral nerve stimulator will permit the most advantageous use o
 
 Initial Doses
 
-One of two intubating doses cisatracurium may be chosen, based on the desired time to tracheal intubation and the anticipated length of surgery.
+One of two intubating doses of cisatracurium may be chosen, based on the desired time to tracheal intubation and the anticipated length of surgery.
 In addition to the dose of neuromuscular blocking agent, the presence of co-induction agents (e.g., fentanyl and midazolam) and the depth of anesthesia are factors that can influence intubation conditions.
 Doses of 0.15 (3 x ED95) and 0.2 (4 x ED95) mg/kg cisatracurium, as components of a propofol/nitrous oxide/oxygen induction-intubation technique, may produce generally GOOD or EXCELLENT conditions for intubation in 2 and 1.5 minutes, respectively.
 Similar intubation conditions may be expected when these doses of cisatracurium are administered as components of a thiopental/nitrous oxide/oxygen induction-intubation technique.

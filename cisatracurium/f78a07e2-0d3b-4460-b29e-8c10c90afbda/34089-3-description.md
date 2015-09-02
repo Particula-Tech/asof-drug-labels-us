@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Cisatracurium Besylate Injection is a nondepolarizing skeletal muscle relaxant for intravenous administration.
 Compared to other neuromuscular blocking agents, it is intermediate in its onset and duration of action.
