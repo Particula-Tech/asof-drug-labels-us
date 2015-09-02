@@ -208,6 +208,8 @@ What are the possible risks of using IMPLANON?
   - Gallbladder problems
   - Rare cancerous or noncancerous liver tumors
 
+- Broken or Bent Implant If you feel that the implant may have broken or bent while in your arm, contact your healthcare provider.
+
 When should I call my healthcare provider?
 
 Call your healthcare provider right away if you have:
