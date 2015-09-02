@@ -1,6 +1,7 @@
 # 6 ADVERSE REACTIONS
 
-LABA, such as vilanterol, one of the active ingredients in BREO ELLIPTA, increase the risk of asthma-related death.Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+LABA, such as vilanterol, one of the active ingredients in BREO ELLIPTA, increase the risk of asthma-related death.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Data from a large placebo-controlled US trial that compared the safety of another LABA (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol.
 [See Warnings and Precautions (5.1).]
@@ -74,7 +75,7 @@ Adverse Reactions with BREO ELLIPTA 100/25 with ≥2% Incidence and More Common 
 | --- | --- | --- | --- |
 | Infections and infestations |  |  |  |
 | Nasopharyngitis | 10 | 7 | 7 |
-| Oral candidiasisa | 2 | 2 | 0 |
+| Oral candidiasis a | 2 | 2 | 0 |
 | Nervous system disorders |  |  |  |
 | Headache | 5 | 4 | 4 |
 | Respiratory, thoracic, and mediastinal disorders |  |  |  |

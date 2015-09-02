@@ -25,8 +25,6 @@ Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide in
 10000000133978 Rev.
 4/15
 
-# Click here to enter text.
-
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0882-10

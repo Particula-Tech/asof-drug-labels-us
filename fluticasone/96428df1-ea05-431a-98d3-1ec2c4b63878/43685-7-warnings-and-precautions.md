@@ -9,7 +9,7 @@ Therefore, when treating patients with asthma, physicians should only prescribe 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue BREO ELLIPTA) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use BREO ELLIPTA for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-A 28-week, placebo-controlled, US trial that compared the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjectsreceiving salmeterol (13/13,176 in subjectstreated with salmeterol vs. 3/13,179 in subjectstreated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+A 28-week, placebo-controlled, US trial that compared the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
 The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in BREO ELLIPTA.
 No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with BREO ELLIPTA has been conducted.
 
@@ -88,7 +88,7 @@ These patients should also be instructed to carry a warning card indicating that
 
 Patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to BREO ELLIPTA.
 Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with BREO ELLIPTA.
-Lung function (FEV1or peak expiratory flow), beta-agonist use, and COPD or asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
+Lung function (FEV1 or peak expiratory flow), beta-agonist use, and COPD or asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
 Transfer of patients from systemic corticosteroid therapy to BREO ELLIPTA may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).

@@ -20,7 +20,8 @@ BREO ELLIPTA can cause serious side effects, including:
 - •Get emergency medical care if:
   - •your breathing problems worsen quickly
   - •you use your rescue inhaler, but it does not relieve your breathing problems.
-- •For people with asthma, BREO ELLIPTA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as an inhaled corticosteroid.When your asthma is well controlled, your healthcare provider may tell you to stop taking BREO ELLIPTA.
+- •For people with asthma, BREO ELLIPTA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as an inhaled corticosteroid.
+  When your asthma is well controlled, your healthcare provider may tell you to stop taking BREO ELLIPTA.
   Your healthcare provider will decide if you can stop BREO ELLIPTA without loss of asthma control.
   Your healthcare provider may prescribe a different asthma control medicine for you, such as an inhaled corticosteroid.
 - •Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
@@ -34,7 +35,7 @@ What is BREO ELLIPTA?
   These symptoms can happen when the muscles around the airways tighten.
   This makes it hard to breathe.
 - •BREO ELLIPTA should not be used in children and adolescents.
-  It is not known if BREO ELLIPTA is safe and effective in children and adolescentsyounger than 18 years of age.
+  It is not known if BREO ELLIPTA is safe and effective in children and adolescents younger than 18 years of age.
 - •BREO ELLIPTA is used for COPD and asthma as follows:
 - COPD:
 - BREO ELLIPTA 100/25 is a prescription medicine used to treat COPD.

@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Asthma-Related Death
 
-Inform patients with asthma that LABA, such as vilanterol, one of the active ingredients in BREO ELLIPTA, increase the risk of asthma-related deathand may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Inform patients with asthma that LABA, such as vilanterol, one of the active ingredients in BREO ELLIPTA, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 
 Not for Acute Symptoms
@@ -43,7 +43,8 @@ Inform patients of potential worsening of existing tuberculosis; fungal, bacteri
 Hypercorticism and Adrenal Suppression
 
 Advise patients that BREO ELLIPTA may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
-Additionally, inform patients that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.Patients should taper slowly from systemic corticosteroids if transferring to BREO ELLIPTA.
+Additionally, inform patients that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
+Patients should taper slowly from systemic corticosteroids if transferring to BREO ELLIPTA.
 
 Reduction in Bone Mineral Density
 
