@@ -2,14 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus [See Microbiology (12.4)].
+Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-Effect on Electrocardiogram
+Cardiac Electrophysiology
 
-The effect of sofosbuvir 400 and 1200 mg on QTc interval was evaluated in a randomized, single-dose, placebo-, and active-controlled (moxifloxacin 400 mg) four period crossover thorough QT trial in 59 healthy subjects.
-At a dose three times the maximum recommended dose, SOVALDI does not prolong QTc to any clinically relevant extent.
+The effect of sofosbuvir 400 and 1200 mg (three times the recommended dosage) on QTc interval was evaluated in a randomized, single-dose, placebo- and active-controlled (moxifloxacin 400 mg) four period crossover thorough QT trial in 59 healthy subjects.
+At a dosage three times the maximum recommended dosage, SOVALDI does not prolong QTc to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
@@ -17,19 +17,19 @@ Absorption
 
 The pharmacokinetic properties of sofosbuvir and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration of SOVALDI, sofosbuvir was absorbed with a peak plasma concentration observed at ~0.5–2 hour post-dose, regardless of dose level.
 Peak plasma concentration of GS-331007 was observed between 2 to 4 hours post-dose.
-Based on population pharmacokinetic analysis in subjects with genotype 1 to 6 HCV infection who were coadministered ribavirin (with or without pegylated interferon), geometric mean steady state AUC 0-24 was 969 ng∙hr/mL for sofosbuvir (N=838), and 6790 ng∙hr/mL for GS-331007 (N=1695), respectively.
-Relative to healthy subjects administered sofosbuvir alone (N = 272), the sofosbuvir AUC 0–24 was 60% higher; and GS-331007 AUC 0–24 was 39% lower, respectively, in HCV-infected subjects.
+Based on population pharmacokinetic analysis in subjects with genotype 1 to 6 HCV infection who were coadministered ribavirin (with or without pegylated interferon), geometric mean steady state AUC0–24 was 969 ng∙hr/mL for sofosbuvir (N=838), and 6790 ng∙hr/mL for GS-331007 (N=1695).
+Relative to healthy subjects administered sofosbuvir alone (N=272), the sofosbuvir AUC0–24 was 60% higher; and GS-331007 AUC0–24 was 39% lower, respectively, in HCV-infected subjects.
 Sofosbuvir and GS-331007 AUCs are near dose proportional over the dose range of 200 mg to 1200 mg.
 
 Effect of Food
 
-Relative to fasting conditions, the administration of a single dose of SOVALDI with a standardized high fat meal did not substantially affect the sofosbuvir C max or AUC 0–inf.
+Relative to fasting conditions, the administration of a single dose of SOVALDI with a standardized high fat meal did not substantially affect the sofosbuvir Cmax or AUC0–inf.
 The exposure of GS-331007 was not altered in the presence of a high-fat meal.
 Therefore, SOVALDI can be administered without regard to food.
 
 Distribution
 
-Sofosbuvir is approximately 61–65% bound to human plasma proteins and the binding is independent of drug concentration over the range of 1 µg/mL to 20 µg/mL.
+Sofosbuvir is approximately 61–65% bound to human plasma proteins and the binding is independent of drug concentration over the range of 1 microgram/mL to 20 microgram/mL.
 Protein binding of GS-331007 was minimal in human plasma.
 After a single 400 mg dose of [14C]-sofosbuvir in healthy subjects, the blood to plasma ratio of 14C-radioactivity was approximately 0.7.
 
@@ -39,7 +39,7 @@ Sofosbuvir is extensively metabolized in the liver to form the pharmacologically
 The metabolic activation pathway involves sequential hydrolysis of the carboxyl ester moiety catalyzed by human cathepsin A (CatA) or carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide biosynthesis pathway.
 Dephosphorylation results in the formation of nucleoside metabolite GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro.
 
-After a single 400 mg oral dose of [14C]-sofosbuvir, sofosbuvir and GS-331007 accounted for approximately 4% and >90% of drug related material (sum of molecular weight-adjusted AUC of sofosbuvir and its metabolites) systemic exposure, respectively.
+After a single 400 mg oral dose of [14C]-sofosbuvir, sofosbuvir and GS-331007 accounted for approximately 4% and greater than 90% of drug related material (sum of molecular weight-adjusted AUC of sofosbuvir and its metabolites) systemic exposure, respectively.
 
 Elimination
 
@@ -60,46 +60,54 @@ No clinically relevant pharmacokinetic differences have been observed between me
 
 Pediatric Patients
 
-The pharmacokinetics of sofosbuvir in pediatric patients have not been established [See Use in Specific Populations (8.4)].
+The pharmacokinetics of sofosbuvir in pediatric patients have not been established [see Use in Specific Populations (8.4)].
 
 Geriatric Patients
 
-Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (19 to 75 years) analyzed, age did not have a clinically relevant effect on the exposure to sofosbuvir and GS-331007 [See Use in Specific Populations (8.5)].
+Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (19 to 75 years) analyzed, age did not have a clinically relevant effect on the exposure to sofosbuvir and GS-331007 [see Use in Specific Populations (8.5)].
 
 Patients with Renal Impairment
 
-The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR ≥ 50 and < 80 mL/min/1.73m 2), moderate (eGFR ≥30 and <50 mL/min/1.73m 2), severe renal impairment (eGFR <30 mL/min/1.73m 2) and subjects with end stage renal disease (ESRD) requiring hemodialysis following a single 400 mg dose of sofosbuvir.
-Relative to subjects with normal renal function (eGFR >80 mL/min/1.73m 2), the sofosbuvir AUC 0–inf was 61%, 107% and 171% higher in mild, moderate and severe renal impairment, while the GS-331007 AUC 0–inf was 55%, 88% and 451% higher, respectively.
-In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC 0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
+The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73m2), moderate (eGFR between 30 to less than 50 mL/min/1.73m2), severe renal impairment (eGFR less than 30 mL/min/1.73m2) and subjects with end stage renal disease (ESRD) requiring hemodialysis following a single 400 mg dose of sofosbuvir.
+Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73m2), the sofosbuvir AUC0–inf was 61%, 107% and 171% higher in mild, moderate and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88% and 451% higher, respectively.
+In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
 A 4 hour hemodialysis session removed approximately 18% of administered dose.
-No dose adjustment is required for patients with mild or moderate renal impairment.
+No dosage adjustment is required for patients with mild or moderate renal impairment.
 The safety and efficacy of SOVALDI have not been established in patients with severe renal impairment or ESRD.
-No dose recommendation can be given for patients with severe renal impairment or ESRD [See Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
+No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC 0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC 0–24 were 18% and 9% higher, respectively.
+The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0–24 were 18% and 9% higher, respectively.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.
-No dose adjustment of SOVALDI is recommended for patients with mild, moderate and severe hepatic impairment [See Use in Specific Populations (8.7)].
+No dosage adjustment of SOVALDI is recommended for patients with mild, moderate or severe hepatic impairment [see Use in Specific Populations (8.7)].
 
 Assessment of Drug Interactions
 
-The effects of coadministered drugs on the exposure of sofosbuvir and GS-331007 are shown in Table 6.
-The effects of sofosbuvir on the exposure of coadministered drugs are shown in Table 7 [See Drug Interactions (7.3)].
+Sofosbuvir is a substrate of drug transporter P-gp and breast cancer resistance protein (BCRP) while GS-331007 is not.
+Drugs that are P-gp inducers in the intestine (e.g., rifampin or St. John's wort) may decrease sofosbuvir plasma concentration, leading to reduced therapeutic effect of SOVALDI, and thus concomitant use with SOVALDI is not recommended [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
-Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered Drug All interaction studies conducted in healthy volunteers
+Coadministration of SOVALDI with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir plasma concentration without increasing GS-331007 plasma concentration; accordingly, SOVALDI may be coadministered with P-gp and/or BCRP inhibitors.
+Sofosbuvir and GS-331007 are not inhibitors of P-gp and BCRP and thus are not expected to increase exposures of drugs that are substrates of these transporters.
 
-|  | C max | AUC | C min |  |  |  |  |  |
+The intracellular metabolic activation pathway of sofosbuvir is mediated by generally low affinity and high capacity hydrolase and nucleotide phosphorylation pathways that are unlikely to be affected by concomitant drugs.
+
+The effects of coadministered drugs on the exposure of sofosbuvir and GS-331007 are shown in Table 5.
+The effects of sofosbuvir on the exposure of coadministered drugs are shown in Table 6 [see Drug Interactions (7.2)].
+
+Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers
+
+|  | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Sofosbuvir and GS-331007 PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |  |
 | Cyclosporine | 600 single dose | 400 single dose | 19 | sofosbuvir | 2.54 (1.87, 3.45) | 4.53 (3.26, 6.30) | NA |  |
 | GS-331007 | 0.60 (0.53, 0.69) | 1.04 (0.90, 1.20) | NA |  |  |  |  |  |
 | Darunavir (boosted with ritonavir) | 800/100 once daily | 400 single dose | 18 | sofosbuvir | 1.45 (1.10, 1.92) | 1.34 (1.12, 1.59) | NA |  |
 | GS-331007 | 0.97 (0.90, 1.05) | 1.24 (1.18, 1.30) | NA |  |  |  |  |  |
-| Efavirenz Administered as ATRIPLA | 600 once daily | 400 single dose | 16 | sofosbuvir | 0.81 (0.60, 1.10) | 0.94 (0.76, 1.16) | NA |  |
+| EfavirenzAdministered as efavirenz/emtricitabine/tenofovir disoproxil fumarate fixed dose tablet | 600 once daily | 400 single dose | 16 | sofosbuvir | 0.81 (0.60, 1.10) | 0.94 (0.76, 1.16) | NA |  |
 | Emtricitabine | 200 once daily |  |  |  |  |  |  |  |
 | Tenofovir disoproxil fumarate | 300 once daily | GS-331007 | 0.77 (0.70, 0.84) | 0.84 (0.76, 0.92) | NA |  |  |  |
-| Methadone | 30 to 130 once daily | 400 once daily | 14 | sofosbuvir | 0.95 Comparison based on historic control (0.68, 1.33) | 1.30 (1.00, 1.69) | NA |  |
+| Methadone | 30 to 130 once daily | 400 once daily | 14 | sofosbuvir | 0.95Comparison based on historic control (0.68, 1.33) | 1.30 (1.00, 1.69) | NA |  |
 | GS-331007 | 0.73 (0.65, 0.83) | 1.04 (0.89, 1.22) | NA |  |  |  |  |  |
 | Rilpivirine | 25 once daily | 400 single dose | 17 | sofosbuvir | 1.21 (0.90, 1.62) | 1.09 (0.94, 1.27) | NA |  |
 | GS-331007 | 1.06 (0.99, 1.14) | 1.01 (0.97, 1.04) | NA |  |  |  |  |  |
@@ -109,9 +117,9 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir 
 
 No effect on the pharmacokinetic parameters of sofosbuvir and GS-331007 was observed with raltegravir.
 
-Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir All interaction studies conducted in healthy volunteers
+Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of SofosbuvirAll interaction studies conducted in healthy volunteers
 
-| C max | AUC | C min |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir No Effect=1.00 |  |  |
 | Norelgestromin | norgestimate 0.18/0.215/0.25/ ethinyl estradiol 0.025 once daily | 400 once daily | 15 | 1.07 (0.94, 1.22) | 1.06 (0.92, 1.21) | 1.07 (0.89, 1.28) |
@@ -119,7 +127,7 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Ethinyl estradiol | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |  |
 | Raltegravir | 400 twice daily | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |
 | Tacrolimus | 5 single dose | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
-| Tenofovir disoproxil fumarate Administered as ATRIPLA | 300 once daily | 400 single dose | 16 | 1.25 (1.08, 1.45) | 0.98 (0.91, 1.05) | 0.99 (0.91, 1.07) |
+| Tenofovir disoproxil fumarateAdministered as efavirenz/emtricitabine/tenofovir disoproxil fumarate fixed dose tablet | 300 once daily | 400 single dose | 16 | 1.25 (1.08, 1.45) | 0.98 (0.91, 1.05) | 0.99 (0.91, 1.07) |
 | NA = not available/not applicable |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, or rilpivirine.
@@ -130,14 +138,14 @@ Mechanism of Action
 
 Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication.
 Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator.
-In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotype 1b, 2a, 3a and 4a with IC 50 values ranging from 0.7 to 2.6 µM.
-GS-461203 is not an inhibitor of human DNA and RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.
+In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotype 1b, 2a, 3a and 4a with IC50 values ranging from 0.7 to 2.6 micromolar.
+GS-461203 is neither an inhibitor of human DNA and RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.
 
 Antiviral Activity
 
-In HCV replicon assays, the EC 50 values of sofosbuvir against full-length replicons from genotype 1a, 1b, 2a, 3a and 4a, and chimeric 1b replicons encoding NS5B from genotype 2b, 5a or 6a ranged from 0.014 to 0.11 µM.
-The median EC 50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 0.062 µM for genotype 1a (range 0.029–0.128 µM; N=67), 0.102 µM for genotype 1b (range 0.045–0.170 µM; N=29), 0.029 µM for genotype 2 (range 0.014–0.081 µM; N=15) and 0.081 µM for genotype 3a (range 0.024–0.181 µM; N=106).
-In infectious virus assays, the EC 50 values of sofosbuvir against genotype 1a and 2a were 0.03 and 0.02 µM, respectively.
+In HCV replicon assays, the EC50 values of sofosbuvir against full-length replicons from genotype 1a, 1b, 2a, 3a and 4a, and chimeric 1b replicons encoding NS5B from genotype 2b, 5a or 6a ranged from 0.014 to 0.11 micromolar.
+The median EC50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 0.062 micromolar for genotype 1a (range 0.029–0.128 micromolar; N=67), 0.102 micromolar for genotype 1b (range 0.045–0.170 micromolar; N=29), 0.029 micromolar for genotype 2 (range 0.014–0.081 micromolar; N=15) and 0.081 micromolar for genotype 3a (range 0.024–0.181 micromolar; N=106).
+In infectious virus assays, the EC50 values of sofosbuvir against genotype 1a and 2a were 0.03 and 0.02 micromolar, respectively.
 The presence of 40% human serum had no effect on the anti-HCV activity of sofosbuvir.
 Evaluation of sofosbuvir in combination with interferon alpha or ribavirin showed no antagonistic effect in reducing HCV RNA levels in replicon cells.
 
@@ -155,12 +163,12 @@ In Clinical Trials
 
 In a pooled analysis of 982 subjects who received SOVALDI in Phase 3 trials, 224 subjects had post-baseline NS5B genotypic data from next generation nucleotide sequencing (assay cutoff of 1%).
 
-Treatment-emergent substitutions L159F (n= 6) and V321A (n= 5) were detected in post-baseline samples from GT3a-infected subjects across the Phase 3 trials.
+Treatment-emergent substitutions L159F (n=6) and V321A (n=5) were detected in post-baseline samples from GT3a-infected subjects across the Phase 3 trials.
 No detectable shift in the phenotypic susceptibility to sofosbuvir of subject isolates with L159F or V321A substitutions was seen.
 The sofosbuvir-associated resistance substitution S282T was not detected at baseline or in the failure isolates from Phase 3 trials.
 However, an S282T substitution was detected in one genotype 2b subject who relapsed at Week 4 post-treatment after 12 weeks of sofosbuvir monotherapy in the Phase 2 trial P7977-0523 [ELECTRON].
 The isolate from this subject displayed a mean 13.5-fold reduced susceptibility to sofosbuvir.
-For this subject, the S282T substitution was no longer detectable at Week 12 post-treatment by next generation sequencing with an assay cut off of 1%.
+For this subject, the S282T substitution was no longer detectable at Week 12 post-treatment by next generation sequencing with an assay cutoff of 1%.
 
 In the trial done in subjects with hepatocellular carcinoma awaiting liver transplantation where subjects received up to 48 weeks of sofosbuvir and ribavirin, the L159F substitution emerged in multiple subjects with GT1a or GT2b HCV who experienced virologic failure (breakthrough and relapse).
 Furthermore, the presence of substitutions L159F and/or C316N at baseline was associated with sofosbuvir breakthrough and relapse post-transplant in multiple subjects infected with GT1b HCV.

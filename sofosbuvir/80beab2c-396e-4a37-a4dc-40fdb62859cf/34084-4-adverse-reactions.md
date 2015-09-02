@@ -1,28 +1,38 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Adverse Reactions from Clinical Trials Experience
+The following serious adverse reactions are described below and elsewhere in the labeling:
 
-SOVALDI should be administered with ribavirin or peginterferon alfa/ribavirin.
-Refer to the prescribing information of peginterferon alfa and ribavirin for a description of adverse reactions associated with their use.
+- Serious Symptomatic Bradycardia When Coadministered with Amiodarone and Another HCV Direct Acting Antiviral [see Warnings and Precautions (5.1)].
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety assessment of SOVALDI is based on pooled Phase 3 clinical trial data (both controlled and uncontrolled) including 650 subjects who received SOVALDI + ribavirin (RBV) combination therapy for 12 weeks, 98 subjects who received SOVALDI + ribavirin combination therapy for 16 weeks, 250 subjects who received SOVALDI + ribavirin combination therapy for 24 weeks, 327 subjects who received SOVALDI + peginterferon (Peg-IFN) alfa + ribavirin combination therapy for 12 weeks, 243 subjects who received peginterferon alfa + ribavirin for 24 weeks and 71 subjects who received placebo (PBO) for 12 weeks.
+When SOVALDI is administered with ribavirin or peginterferon alfa/ribavirin, refer to the respective prescribing information for a description of adverse reactions associated with their use.
 
-The proportion of subjects who permanently discontinued treatment due to adverse events was 4% for subjects receiving placebo, 1% for subjects receiving SOVALDI + ribavirin for 12 weeks, <1% for subjects receiving SOVALDI + ribavirin for 24 weeks, 11% for subjects receiving peginterferon alfa + ribavirin for 24 weeks and 2% for subjects receiving SOVALDI + peginterferon alfa + ribavirin for 12 weeks.
+The safety assessment of SOVALDI was based on pooled Phase 3 clinical trial data (both controlled and uncontrolled) including:
 
-Treatment-emergent adverse events observed in ≥15% of subjects in clinical trials are provided in Table 3.
-A side-by-side tabulation is to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+- 650 subjects who received SOVALDI + ribavirin (RBV) combination therapy for 12 weeks,
+- 98 subjects who received SOVALDI + ribavirin combination therapy for 16 weeks,
+- 250 subjects who received SOVALDI + ribavirin combination therapy for 24 weeks,
+- 327 subjects who received SOVALDI + peginterferon (Peg-IFN) alfa + ribavirin combination therapy for 12 weeks,
+- 243 subjects who received peginterferon alfa + ribavirin for 24 weeks, and
+- 71 subjects who received placebo (PBO) for 12 weeks [see Clinical Studies (14)].
 
-The most common adverse events (≥ 20%) for SOVALDI + ribavirin combination therapy were fatigue and headache.
-The most common adverse events (≥ 20%) for SOVALDI + peginterferon alfa + ribavirin combination therapy were fatigue, headache, nausea, insomnia and anemia.
+The proportion of subjects who permanently discontinued treatment due to adverse events was 4% for subjects receiving placebo, 1% for subjects receiving SOVALDI + ribavirin for 12 weeks, less than 1% for subjects receiving SOVALDI + ribavirin for 24 weeks, 11% for subjects receiving peginterferon alfa + ribavirin for 24 weeks and 2% for subjects receiving SOVALDI + peginterferon alfa + ribavirin for 12 weeks.
 
-Table 3 Treatment-Emergent Adverse Events (All Grades) Reported in ≥ 15% of Subjects in Any Treatment Arm
+Adverse events observed in at least 15% of subjects in the Phase 3 clinical trials outlined above are provided in Table 2.
+A side-by-side tabulation is displayed to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+
+The most common adverse events (at least 20%) for SOVALDI + ribavirin combination therapy were fatigue and headache.
+The most common adverse events (at least 20%) for SOVALDI + peginterferon alfa + ribavirin combination therapy were fatigue, headache, nausea, insomnia and anemia.
+
+Table 2 Adverse Events (All Grades and without Regard to Causality) Reported in ≥15% of Subjects with HCV in Any Treatment Arm
 
 |  | N=71 | N=650 | N=250 | N=243 | N=327 |
 | --- | --- | --- | --- | --- | --- |
 |  | Interferon-free Regimens |  |  | Interferon-containing Regimens |  |
-|  | PBO 12 weeks | SOVALDI + RBV Subjects received weight-based ribavirin (1000 mg per day if weighing < 75 kg or 1200 mg per day if weighing ≥ 75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN alfa + RBV Subjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN alfa + RBV 12 weeks |
+|  | PBO 12 weeks | SOVALDI + RBVSubjects received weight-based ribavirin (1000 mg per day if weighing <75 kg or 1200 mg per day if weighing ≥75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN alfa + RBVSubjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN alfa + RBV 12 weeks |
 | Fatigue | 24% | 38% | 30% | 55% | 59% |
 | Headache | 20% | 24% | 30% | 44% | 36% |
 | Nausea | 18% | 22% | 13% | 29% | 34% |
@@ -40,9 +50,9 @@ Table 3 Treatment-Emergent Adverse Events (All Grades) Reported in ≥ 15% of Su
 | Myalgia | 0% | 6% | 9% | 16% | 14% |
 | Irritability | 1% | 10% | 10% | 16% | 13% |
 
-With the exception of anemia and neutropenia, the majority of events presented in Table 3 occurred at severity of grade 1 in SOVALDI-containing regimens.
+With the exception of anemia and neutropenia, the majority of events presented in Table 2 occurred at severity of grade 1 in SOVALDI-containing regimens.
 
-Less Common Adverse Reactions Reported in Clinical Trials (<1%): The following ADRs occurred in <1% of subjects receiving SOVALDI in a combination regimen in any one trial.
+Less Common Adverse Reactions Reported in Clinical Trials (less than 1%): The following adverse reactions occurred in less than 1% of subjects receiving SOVALDI in a combination regimen in any one trial.
 These events have been included because of their seriousness or assessment of potential causal relationship.
 
 Hematologic Effects: pancytopenia (particularly in subjects receiving concomitant pegylated interferon).
@@ -51,24 +61,24 @@ Psychiatric Disorders: severe depression (particularly in subjects with pre-exis
 
 Laboratory Abnormalities:
 
-Changes in selected hematological parameters are described in Table 4.
-A side-by-side tabulation is to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+Changes in selected hematological parameters are described in Table 3.
+A side-by-side tabulation is displayed to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
 
-Table 4 Percentage of Subjects Reporting Selected Hematological Parameters
+Table 3 Percentage of Subjects Reporting Selected Hematological Parameters
 
 |  | N=71 | N=647 | N=250 | N=242 | N=327 |
 | --- | --- | --- | --- | --- | --- |
 |  | Interferon-free Regimens |  |  | Interferon-containing Regimens |  |
-| Hematological Parameters | PBO 12 weeks | SOVALDI + RBV Subjects received weight-based ribavirin (1000 mg per day if weighing < 75 kg or 1200 mg per day if weighing ≥ 75 kg). 12 weeks | SOVALDI+ RBV 24 weeks | Peg-IFN + RBV Subjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN + RBV 12 weeks |
+| Hematological Parameters | PBO 12 weeks | SOVALDI + RBVSubjects received weight-based ribavirin (1000 mg per day if weighing <75 kg or 1200 mg per day if weighing ≥75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN + RBVSubjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN + RBV 12 weeks |
 | Hemoglobin (g/dL) |  |  |  |  |  |
-| < 10 | 0 | 8% | 6% | 14% | 23% |
-| < 8.5 | 0 | 1% | <1% | 2% | 2% |
-| Neutrophils (×10 9/L) |  |  |  |  |  |
-| ≥0.5 – < 0.75 | 1% | <1% | 0 | 12% | 15% |
-| < 0.5 | 0 | <1% | 0 | 2% | 5% |
-| Platelets (×10 9/L) |  |  |  |  |  |
-| ≥25 – < 50 | 3% | <1% | 1% | 7% | <1% |
-| < 25 | 0 | 0 | 0 | 0 | 0 |
+| <10 | 0 | 8% | 6% | 14% | 23% |
+| <8.5 | 0 | 1% | <1% | 2% | 2% |
+| Neutrophils (×109/L) |  |  |  |  |  |
+| ≥0.5 – <0.75 | 1% | <1% | 0 | 12% | 15% |
+| <0.5 | 0 | <1% | 0 | 2% | 5% |
+| Platelets (×109/L) |  |  |  |  |  |
+| ≥25 – <50 | 3% | <1% | 1% | 7% | <1% |
+| <25 | 0 | 0 | 0 | 0 | 0 |
 
 Bilirubin Elevations
 
@@ -79,11 +89,19 @@ These bilirubin elevations were not associated with transaminase elevations.
 Creatine Kinase Elevations
 
 Creatine kinase was assessed in the FISSION and NEUTRINO trials.
-Isolated, asymptomatic creatine kinase elevation of greater than or equal to 10×ULN was observed in <1%, 1% and 2% of subjects in the peginterferon alfa + ribavirin 24 weeks, SOVALDI + peginterferon alfa + ribavirin 12 weeks and SOVALDI + ribavirin 12 weeks groups, respectively.
+Isolated, asymptomatic creatine kinase elevation of greater than or equal to 10×ULN was observed in less than 1%, 1% and 2% of subjects in the peginterferon alfa + ribavirin 24 weeks, SOVALDI + peginterferon alfa + ribavirin 12 weeks and SOVALDI + ribavirin 12 weeks groups, respectively.
 
 Lipase Elevations
 
-Isolated, asymptomatic lipase elevation of greater than 3×ULN was observed in <1%, 2%, 2%, and 2% of subjects in the SOVALDI + peginterferon alfa + ribavirin 12 weeks, SOVALDI + ribavirin 12 weeks, SOVALDI + ribavirin 24 weeks and peginterferon alfa + ribavirin 24 weeks groups, respectively.
+Isolated, asymptomatic lipase elevation of greater than 3×ULN was observed in less than 1%, 2%, 2%, and 2% of subjects in the SOVALDI + peginterferon alfa + ribavirin 12 weeks, SOVALDI + ribavirin 12 weeks, SOVALDI + ribavirin 24 weeks and peginterferon alfa + ribavirin 24 weeks groups, respectively.
+
+Patients with HCV/HIV-1 Co-infection
+
+SOVALDI used in combination with ribavirin was assessed in 223 HCV/HIV-1 co-infected subjects [see Clinical Studies (14.4)].
+The safety profile in HCV/HIV-1 co-infected subjects was similar to that observed in HCV mono-infected subjects.
+Elevated total bilirubin (grade 3 or 4) was observed in 30/32 (94%) subjects receiving atazanavir as part of the antiretroviral regimen.
+None of the subjects had concomitant transaminase increases.
+Among subjects not taking atazanavir, grade 3 or 4 elevated total bilirubin was observed in 2 (1.5%) subjects, similar to the rate observed with HCV mono-infected subjects receiving SOVALDI + ribavirin in Phase 3 trials.
 
 ## 6.2 Postmarketing Experience
 
@@ -92,4 +110,4 @@ Because postmarketing reactions are reported voluntarily from a population of un
 
 Cardiac Disorders
 
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with SOVALDI in combination with another HCV direct acting antiviral [See Warnings and Precautions (5.1), Drug Interactions (7.2)].
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with SOVALDI in combination with another HCV direct acting antiviral [see Warnings and Precautions (5.1), Drug Interactions (7.1)].

@@ -1,47 +1,38 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose in Adults
+## 2.1 Recommended Dosage
 
-The recommended dose of SOVALDI is one 400 mg tablet, taken orally, once daily with or without food [See Clinical Pharmacology (12.3)].
+The recommended dosage of SOVALDI is one 400 mg tablet, taken orally, once daily with or without food [see Clinical Pharmacology (12.3)].
 
-SOVALDI should be used in combination with ribavirin or in combination with pegylated interferon and ribavirin for the treatment of CHC in adults.
-The recommended regimen and treatment duration for SOVALDI combination therapy is provided in Table 1.
+Administer SOVALDI in combination with ribavirin or in combination with pegylated interferon and ribavirin for the treatment of HCV.
+The recommended treatment regimen and duration for SOVALDI combination therapy is provided in Table 1.
 
-Table 1 Recommended Regimens and Treatment Duration for SOVALDI Combination Therapy in HCV Mono-infected and HCV/HIV-1 Co-infected Patients
+For patients with HCV/HIV-1 co-infection, follow the dosage recommendations in Table 1.
+Refer to Drug Interactions (7) for dosage recommendations for concomitant HIV-1 antiviral drugs.
 
-|  | Treatment | Duration |
+Table 1 Recommended Treatment Regimens and Duration
+
+| Patient Population | Treatment Regimen | Duration |
 | --- | --- | --- |
-| Patients with genotype 1 or 4 CHC | SOVALDI + peginterferon alfa See peginterferon alfa prescribing information for dosing recommendation for patients with genotype 1 or 4 CHC. + ribavirin | 12 weeks |
-| Patients with genotype 2 CHC | SOVALDI + ribavirin Dose of ribavirin is weight-based (<75 kg = 1000 mg and ≥75 kg = 1200 mg). The daily dose of ribavirin is administered orally in two divided doses with food. Patients with renal impairment (CrCl ≤ 50 mL/min) require ribavirin dose reduction; refer to ribavirin prescribing information. | 12 weeks |
-| Patients with genotype 3 CHC | SOVALDI + ribavirin | 24 weeks |
+| Genotype 1 or 4 | SOVALDI + peginterferon alfaSee peginterferon alfa prescribing information for dosage recommendation for patients with genotype 1 or 4 HCV. + ribavirinDosage of ribavirin is weight-based (<75 kg = 1000 mg and ≥75 kg = 1200 mg). The daily dosage of ribavirin is administered orally in two divided doses with food. Patients with renal impairment (CrCl ≤50 mL/min) require ribavirin dosage reduction; refer to ribavirin prescribing information. | 12 weeks |
+| Genotype 2 | SOVALDI + ribavirin | 12 weeks |
+| Genotype 3 | SOVALDI + ribavirin | 24 weeks |
 
-SOVALDI in combination with ribavirin for 24 weeks can be considered as a therapeutic option for CHC patients with genotype 1 infection who are ineligible to receive an interferon-based regimen [See Use in Specific Populations (8.8) and Clinical Studies (14.4)].
+Patients with Genotype 1 HCV Who are Ineligible to Receive an Interferon-Based Regimen
+
+SOVALDI in combination with ribavirin for 24 weeks can be considered as a therapeutic option for patients with genotype 1 infection who are ineligible to receive an interferon-based regimen [see Clinical Studies (14.4)].
 Treatment decision should be guided by an assessment of the potential benefits and risks for the individual patient.
 
 Patients with Hepatocellular Carcinoma Awaiting Liver Transplantation
 
-SOVALDI in combination with ribavirin is recommended for up to 48 weeks or until the time of liver transplantation, whichever occurs first, to prevent post-transplant HCV reinfection [See Use in Specific Populations (8.9)].
+Administer SOVALDI in combination with ribavirin for up to 48 weeks or until the time of liver transplantation, whichever occurs first, to prevent post-transplant HCV reinfection [see Use in Specific Populations (8.8)].
 
-## 2.2 Dose Modification
+## 2.2 Dosage Modification
 
-Dose reduction of SOVALDI is not recommended.
+Dosage reduction of SOVALDI is not recommended.
 
-Genotype 1 and 4:
-
-If a patient has a serious adverse reaction potentially related to peginterferon alfa and/or ribavirin, the peginterferon alfa and/or ribavirin dose should be reduced or discontinued.
-Refer to the peginterferon alfa and ribavirin prescribing information for additional information about how to reduce and/or discontinue the peginterferon alfa and/or ribavirin dose.
-
-Genotype 2 and 3:
-
-If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
-Table 2 provides guidelines for dose modifications and discontinuation based on the patient's hemoglobin concentration and cardiac status.
-
-Table 2 Ribavirin Dose Modification Guideline for Coadministration with SOVALDI
-
-| Laboratory Values | Reduce Ribavirin Dose to 600 mg/day The daily dose of ribavirin is administered orally in two divided doses with food. If: | Discontinue Ribavirin If: Once ribavirin has been withheld due to either a laboratory abnormality or clinical manifestation, an attempt may be made to restart ribavirin at 600 mg daily and further increase the dose to 800 mg daily. However, it is not recommended that ribavirin be increased to the original assigned dose (1000 mg to 1200 mg daily). |
-| --- | --- | --- |
-| Hemoglobin in patients with no cardiac disease | <10 g/dL | <8.5 g/dL |
-| Hemoglobin in patients with history of stable cardiac disease | ≥2 g/dL decrease in hemoglobin during any 4 week treatment period | <12 g/dL despite 4 weeks at reduced dose |
+If a patient has a serious adverse reaction potentially related to peginterferon alfa and/or ribavirin, the peginterferon alfa and/or ribavirin dosage should be reduced or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
+Refer to the peginterferon alfa and ribavirin prescribing information for additional information about how to reduce and/or discontinue the peginterferon alfa and/or ribavirin dosage.
 
 ## 2.3 Discontinuation of Dosing
 
@@ -49,4 +40,4 @@ If the other agents used in combination with SOVALDI are permanently discontinue
 
 ## 2.4 Severe Renal Impairment and End Stage Renal Disease
 
-No dose recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate (eGFR) <30 mL/min/1.73m 2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [See Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

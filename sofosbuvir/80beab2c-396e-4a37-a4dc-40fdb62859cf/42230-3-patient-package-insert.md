@@ -1,4 +1,6 @@
-# Patient Information SOVALDI ® (soh-VAHL-dee) (sofosbuvir) tablets
+# Patient Information
+
+SOVALDI® (soh-VAHL-dee) (sofosbuvir) tablets
 
 Read this Patient Information before you start taking SOVALDI and each time you get a refill.
 There may be new information.
@@ -9,33 +11,11 @@ When taking SOVALDI with ribavirin or in combination with peginterferon alfa and
 
 The information in this Patient Information Leaflet talks about SOVALDI when it is used with ribavirin and in combination with peginterferon alfa and ribavirin.
 
-What is the most important information I should know about SOVALDI?
-
-SOVALDI, in combination with ribavirin or peginterferon alfa and ribavirin, may cause birth defects or death of your unborn baby.
-If you are pregnant or your sexual partner is pregnant or plans to become pregnant, do not take these medicines.
-You or your sexual partner should not become pregnant while taking SOVALDI with ribavirin or in combination with peginterferon alfa and ribavirin, and for 6 months after treatment is over.
-
-- Females and males must use 2 effective forms of birth control during treatment and for the 6 months after treatment with SOVALDI and ribavirin or in combination with peginterferon alfa and ribavirin.
-  Talk to your healthcare provider about forms of birth control that may be used during this time.
-- Females must have a negative pregnancy test before starting treatment with SOVALDI and ribavirin or in combination with peginterferon alfa and ribavirin, every month while being treated, and for 6 months after your treatment ends.
-- If you or your female sexual partner becomes pregnant while taking or within 6 months after you stop taking SOVALDI and ribavirin, or SOVALDI in combination with peginterferon alfa and ribavirin, tell your healthcare provider right away.
-  You or your healthcare provider should contact the Ribavirin Pregnancy Registry by calling 1-800-593-2214.
-  The Ribavirin Pregnancy Registry collects information about what happens to mothers and their babies if the mother takes ribavirin while she is pregnant.
-  If you are also infected with HIV and taking medicines to treat your HIV infection, an Antiretroviral Pregnancy Registry is also available at 1-800-258-4263.
-
-You should not take SOVALDI alone.
-SOVALDI should be used together with ribavirin or in combination with peginterferon alfa and ribavirin to treat chronic hepatitis C infection.
-
 What is SOVALDI?
 
-- SOVALDI is a prescription medicine used with other antiviral medicines to treat chronic (lasting a long time) hepatitis C infection in adults.
-- SOVALDI should not be taken alone.
+SOVALDI is a prescription medicine used with other antiviral medicines to treat chronic (lasting a long time) hepatitis C virus genotype 1, 2, 3, or 4 infection in adults.
 
 It is not known if SOVALDI is safe and effective in children under 18 years of age.
-
-Who should not take SOVALDI?
-
-See "What is the most important information I should know about SOVALDI?"
 
 What should I tell my healthcare provider before taking SOVALDI?
 
@@ -46,26 +26,29 @@ Before taking SOVALDI, tell your healthcare provider if you:
 - have severe kidney problems or you are on dialysis
 - have HIV
 - have any other medical condition
+- are pregnant or plan to become pregnant.
+  When taking SOVALDI in combination with ribavirin, you should also read the ribavirin Medication Guide for important pregnancy information.
 - are breastfeeding or plan to breastfeed.
   It is not known if SOVALDI passes into your breast milk.
-  You and your healthcare provider should decide if you will take SOVALDI or breastfeed.
-  You should not do both.
+  Talk to your healthcare provider about the best way to feed your baby if you take SOVALDI.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Other medicines may affect how SOVALDI works.
 
+You should not take SOVALDI if you also take other medicines that contain sofosbuvir (Harvoni®).
+
 Especially tell your healthcare provider if you take any of the following medicines:
 
-- amiodarone (Cordarone ®, Nexterone ®, Pacerone ®)
-- carbamazepine (Carbatrol ®, Epitol ®, Equetro ®, Tegretol ®)
-- oxcarbazepine (Trileptal ®, Oxtellar XR™)
-- phenytoin (Dilantin ®, Phenytek ®)
-- phenobarbital (Luminal ®)
-- rifabutin (Mycobutin ®)
-- rifampin (Rifadin ®, Rifamate ®, Rifater ®, Rimactane ®)
-- rifapentine (Priftin ®)
+- amiodarone (Cordarone®, Nexterone®, Pacerone®)
+- carbamazepine (Carbatrol®, Epitol®, Equetro®, Tegretol®)
+- oxcarbazepine (Trileptal®, Oxtellar XR™)
+- phenytoin (Dilantin®, Phenytek®)
+- phenobarbital (Luminal®)
+- rifabutin (Mycobutin®)
+- rifampin (Rifadin®, Rifamate®, Rifater®, Rimactane®)
+- rifapentine (Priftin®)
 - St. John's wort (Hypericum perforatum) or a product that contains St. John's wort
-- tipranavir (Aptivus ®)
+- tipranavir (Aptivus®)
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -83,8 +66,6 @@ How should I take SOVALDI?
 - If you take too much SOVALDI, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of SOVALDI?
-
-See " What is the most important information I should know about SOVALDI?"
 
 The most common side effects of SOVALDI when used in combination with ribavirin include:
 
