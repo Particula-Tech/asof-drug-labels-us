@@ -1,6 +1,5 @@
 # WARNING: FETAL TOXICITY
 
-When pregnancy is detected, discontinue benazepril hydrochloride as soon as possible.
+When pregnancy is detected, discontinue benazepril as soon as possible.
 
-Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
-See Warnings: Fetal Toxicity
+Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions (5.1)].

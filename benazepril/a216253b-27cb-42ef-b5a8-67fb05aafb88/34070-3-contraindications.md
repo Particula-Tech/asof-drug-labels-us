@@ -1,7 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Benazepril HCl, USP is contraindicated in patients who are hypersensitive to benazepril or to any other ACE inhibitor.
+Benazepril HCl tablets, USP are contraindicated in patients:
 
-Benazepril HCl, USP is also contraindicated in patients with a history of angioedema with or without previous ACE inhibitor treatment.
+- who are hypersensitive to benazapril or to any other ACE inhibitor
+- with a history of angioedema with or without previous ACE inhibitor treatment
 
-Do not co-administer aliskiren with angiotensin receptor blockers, ACE inhibitors, including benazepril HCl, USP in patients with diabetes.
+Do not co-administer aliskiren with benazepril HCl tablets, USP in patients with diabetes [see Drug Interactions (7.4)].
