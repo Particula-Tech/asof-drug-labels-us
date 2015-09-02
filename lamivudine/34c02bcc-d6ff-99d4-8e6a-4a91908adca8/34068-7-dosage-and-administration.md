@@ -2,7 +2,7 @@
 
 ## 2.1 Adult Patients
 
-- The recommended oral dose of lamivudine tablets in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+- The recommended oral dose of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
   If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
 - Lamivudine tablets may be taken with or without food.
 
@@ -16,12 +16,15 @@ The recommended oral dosage of lamivudine tablets for HIV-1-infected pediatric p
 Table 1.
 Dosing Recommendations for Lamivudine Tablets in Pediatric Patients
 
-| Weight(kg) | Dosage Regimen Using Scored 150-mg Tablet |  | Total Daily Dose |
+| Weight (kg) | Twice-daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
 | --- | --- | --- | --- |
-| AM Dose | PM Dose |  |  |
-| 14 to 21 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
-| >21 to <30 | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
-| ≥30 | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+| AM Dose | PM Dose | Total Daily Dose |  |
+| 14 to <20 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
+| ≥20 to <25 | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
+| ≥25 | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+
+Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s EPIVIR® (lamivudine) tablets and oral solution.
+However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Patients with Renal Impairment
 
@@ -29,7 +32,7 @@ Dosing of lamivudine tablets are adjusted in accordance with renal function.
 Dosage adjustments are listed in Table 2 [see Clinical Pharmacology (12.3)].
 
 Table 2.
-Adjustment of Dosage of Lamivudine Tablets in Adults and Adolescents (≥25 kg) in Accordance with Creatinine Clearance
+Adjustment of Dosage of Lamivudine Tablets in Adults and Adolescents (Greater than or Equal to 25 kg) in Accordance with Creatinine Clearance
 
 | Creatinine Clearance (mL/min) | Recommended Dosage of Lamivudine |
 | --- | --- |

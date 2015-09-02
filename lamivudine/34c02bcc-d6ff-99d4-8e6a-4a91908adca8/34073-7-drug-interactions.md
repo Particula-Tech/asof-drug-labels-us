@@ -6,7 +6,7 @@ No data are available regarding interactions with other drugs that have renal cl
 
 ## 7.1 Interferon- and Ribavirin-based Regimens
 
-Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with lamivudine in HIV-1/HCV co-infected patients, hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
+Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was co-administered with lamivudine in HIV-1/HCV co-infected patients, hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
 
 ## 7.2 Zalcitabine
 

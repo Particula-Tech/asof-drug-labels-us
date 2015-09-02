@@ -2,22 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lamivudine tablets during pregnancy.
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lamivudine tablets during pregnancy.
 Physicians are encouraged to register patients by calling the Antiretroviral Pregnancy Registry at 1-800-258-4263.
 
-Risk Summary
-
-Available data from the Antiretroviral Pregnancy Registry show no difference in the risk of overall major birth defects for lamivudine compared with the background rate for major birth defects of 2.7% in the US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+Risk Summary Available data from the Antiretroviral Pregnancy Registry show no difference in the risk of overall major birth defects for lamivudine compared with the background rate for major birth defects of 2.7% in the US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 Lamivudine produced embryonic toxicity in rabbits at a dose that produced similar human exposures as the recommended clinical dose.
 The relevance of animal findings to human pregnancy registry data is not known.
 
-Data
-
-Human Data
-
-Based on prospective reports from the Antiretroviral Pregnancy Registry of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,300 exposed in the first trimester), there was no difference between lamivudine and overall birth defects compared with the background birth defect rate of 2.7% in the US reference population of the MACDP.
+Data Human Data Based on prospective reports from the Antiretroviral Pregnancy Registry of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,300 exposed in the first trimester), there was no difference between lamivudine and overall birth defects compared with the background birth defect rate of 2.7% in the US reference population of the MACDP.
 The prevalence of defects in the first trimester was 3.1% (95% CI: 2.6% to 3.7%).
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
@@ -26,26 +18,21 @@ These trials were not designed or powered to provide efficacy information.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
-Amniotic fluid concentrations of lamivudine were typically 2 times greater than maternal serum levels and ranged from 1.2 to 2.5 mcg/mL (150 mg twice daily) and 2.1 to 5.2 mcg/mL (300 mg twice daily).
+Amniotic fluid concentrations of lamivudine were typically 2 times greater than maternal serum levels and ranged from 1.2 to 2.5 mcg per mL (150 mg twice daily) and 2.1 to 5.2 mcg per mL (300 mg twice daily).
 
-Animal Data
-
-Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
+Animal Data Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
 Reproduction studies with orally administered lamivudine have been performed in rats and rabbits at doses producing plasma levels up to approximately 35 times that for the recommended adult HIV dose.
-
 No evidence of teratogenicity due to lamivudine was observed.
 Evidence of embryo-lethality was seen in the rabbit at exposure levels similar to those observed in humans but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
 
 ## 8.2 Lactation
 
-Risk Summary
-
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+Risk Summary The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Because of the potential for HIV-1 transmission mothers should be instructed not to breastfeed.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of twice-daily lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2) Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2) Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

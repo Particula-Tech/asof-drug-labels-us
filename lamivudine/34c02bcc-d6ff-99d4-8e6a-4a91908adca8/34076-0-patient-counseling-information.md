@@ -10,7 +10,7 @@ Advise patients to discuss any changes in regimen with their physician [see Warn
 Differences in Formulations of Lamivudine Advise patients that lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) as EPIVIR-HBV® Tablets.
 If a decision is made to include lamivudine in the HIV-1 treatment regimen of a patient co-infected with HIV-1 and HBV, the formulation and dosage of lamivudine in lamivudine tablets (not EPIVIR-HBV®) should be used [see Warnings and Precautions (5.2)].
 
-Use with Other Lamivudine- and Emtricitabine-containing Products Lamivudine tablets should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR® (lamivudine/zidovudine) tablets, EPZICOM® (abacavir sulfate and lamivudine) tablets, TRIUMEQ® (abacavair, dolutegravir, lamivudine), TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), STRIBILD® (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA® (emtricitabine and tenofovir), or COMPLERA® (rilpivirine/emtricitabine/tenofovir) [see Warnings and Precautions (5.3)].
+Use with Other Lamivudine- and Emtricitabine-containing Products Lamivudine tablets should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR® (lamivudine/zidovudine) tablets, EPZICOM® (abacavir sulfate and lamivudine) tablets, TRIUMEQ® (dolutegravir, abacavair, lamivudine), TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), STRIBILD® (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA® (emtricitabine and tenofovir), or COMPLERA® (rilpivirine/emtricitabine/tenofovir) [see Warnings and Precautions (5.3)].
 
 HIV-1/HCV Co-infection Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
 
@@ -42,12 +42,12 @@ The makers of these brands are not affiliated with and do not endorse Apotex Inc
 
 APOTEX INC. LAMIVUDINE TABLETS 150 mg and 300 mg
 
-| Manufactured by: | Manufactured for: |
+| Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: May 2015
+Revised: July 2015
 
-Revision: 5
+Revision: 6

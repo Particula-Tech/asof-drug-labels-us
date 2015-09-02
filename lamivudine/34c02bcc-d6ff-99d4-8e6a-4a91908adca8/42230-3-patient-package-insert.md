@@ -13,7 +13,7 @@ Lamivudine tablets can cause serious side effects, including:
   Lactic acidosis can be hard to identify early because the symptoms could seem like symptoms of other health problems.
   Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
 
-| • Feel very weak or tired | • feel cold, especially in your arms and legs |
+| • feel very weak or tired | • feel cold, especially in your arms and legs |
 | --- | --- |
 | • unusual (not normal) muscle pain | • feel dizzy or light-headed |
 | • trouble breathing | • have a fast or irregular heartbeat |
@@ -42,7 +42,6 @@ You may be more likely to get lactic acidosis or severe liver problems if you ar
 - If you stop taking lamivudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver.
 
 What is lamivudine?
-
 Lamivudine is a prescription HIV-1 medicine used with other antiretroviral medicines to treat HIV-1 infections in adults and children aged 3 months and older.
 HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
 
@@ -73,14 +72,13 @@ Avoid doing things that can spread HIV-1 infection to others:
 Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 
 Who should not take lamivudine tablets?
-
 Do not take lamivudine tablets if you are allergic to lamivudine or any of the ingredients in lamivudine tablets.
 See "What are the ingredients in lamivudine tablets?".
 
 Do not take lamivudine tablets if you also take:
 
-- other medicines that contain lamivudine (COMBIVIR ®, EPIVIR-HBV ®, EPZICOM ®, TRIZIVIR ®, TRIUMEQ ®)
-- medicines that contain emtricitabine (ATRIPLA ®, COMPLERA ®, EMTRIVA ®, STRIBILD ®, TRUVADA ®)
+- other medicines that contain lamivudine (COMBIVIR®, EPIVIR-HBV®, EPZICOM®, TRIZIVIR®, TRIUMEQ®)
+- medicines that contain emtricitabine (ATRIPLA®, COMPLERA®, EMTRIVA®, STRIBILD®, TRUVADA®)
 
 What should I tell my healthcare provider before taking lamivudine tablets?
 
@@ -92,17 +90,16 @@ Before you take lamivudine tablets, tell your healthcare provider if you:
 - have any other medical condition.
 - are pregnant or plan to become pregnant.
   Taking lamivudine tablets during pregnancy has not been associated with an increased risk of birth defects.
-  Tell your healthcare provider if you become pregnant while taking lamivudine tablets.
-- Pregnancy Registry.
+  Tell your healthcare provider if you become pregnant while taking lamivudine tablets.Pregnancy Registry.
   There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
   The purpose of this registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take lamivudine tablets.
-- You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-- Talk to your healthcare provider about the best way to feed your baby.
+  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+  - Talk to your healthcare provider about the best way to feed your baby.
 
-Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Keep a list of your medicines to show your healthcare provider and pharmacist.
 Do not start taking a new medicine without telling your healthcare provider.
 Your healthcare provider can tell you if it is safe to take lamivudine tablets with other medicines.
@@ -183,7 +180,6 @@ You can ask your pharmacist or healthcare provider for information about lamivud
 To report Suspected Adverse Reactions, contact Apotex Corp., at 1-800-706-5575 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 What are the ingredients in lamivudine tablets?
-
 Active ingredient: lamivudine
 
 Inactive ingredients: black iron oxide, lactose anhydrous, crospovidone, colloidal silicon dioxide, hydroxypropyl methylcellulose, hydroxypropyl cellulose, magnesium stearate, polyethylene glycol, and titanium dioxide.
@@ -192,11 +188,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The other brands listed are trademarks of their respective owners.
 
-APOTEX INC.
-
-LAMIVUDINE TABLETS
-
-150 mg and 300 mg
+APOTEX INC. LAMIVUDINE TABLETS 150 mg and 300 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -204,4 +196,4 @@ LAMIVUDINE TABLETS
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: May 2015
+Revised: July 2015
