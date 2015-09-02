@@ -29,4 +29,4 @@ Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 
 NOVAPLUS is a registered trademark of Novation, LLC.
 
-LAB-0738-2.0
+LAB-0738-3.0
