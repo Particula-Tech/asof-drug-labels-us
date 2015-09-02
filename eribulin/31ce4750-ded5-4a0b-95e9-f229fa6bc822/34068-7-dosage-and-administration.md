@@ -16,13 +16,9 @@ Assess for peripheral neuropathy and obtain complete blood cell counts prior to 
 
 Recommended dose delays
 
-- Do not administer HALAVEN on Day 1 or Day 8 for any of the following:
-  - ANC < 1,000/mm3
-  - Platelets < 75,000/mm3
-  - Grade 3 or 4 non-hematological toxicities.
-- The Day 8 dose may be delayed for a maximum of 1 week.
-  - If toxicities do not resolve or improve to ≤ Grade 2 severity by Day 15, omit the dose.
-  - If toxicities resolve or improve to ≤ Grade 2 severity by Day 15, administer HALAVEN at a reduced dose and initiate the next cycle no sooner than 2 weeks later.
+• Do not administer HALAVEN on Day 1 or Day 8 for any of the following: ¯ ANC < 1,000/mm3 ¯ Platelets < 75,000/mm3 ¯ Grade 3 or 4 non-hematological toxicities.
+
+• The Day 8 dose may be delayed for a maximum of 1 week. ¯ If toxicities do not resolve or improve to ≤ Grade 2 severity by Day 15, omit the dose. ¯ If toxicities resolve or improve to ≤ Grade 2 severity by Day 15, administer HALAVEN at a reduced dose and initiate the next cycle no sooner than 2 weeks later.
 
 Recommended dose reductions
 

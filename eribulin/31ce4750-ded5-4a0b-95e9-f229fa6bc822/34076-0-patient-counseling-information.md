@@ -5,4 +5,6 @@
 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
-© Year Eisai Inc. Revised Month Year
+© 2014 Eisai Inc.
+
+Revised December 2014

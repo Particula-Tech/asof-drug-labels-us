@@ -2,8 +2,7 @@
 
 ## 5.1 Neutropenia
 
-Severe neutropenia (ANC < 500/mm3) lasting more than one week occurred in 12% (62/503) of patients in breast cancer Study 1, leading to discontinuation in <1% of patients [see Adverse Reactions (6)].
-Severe neutropenia (ANC < 500/mm3) lasting more than one week occurred in 15% (35/226) of STS patients in Study 2, leading to discontinuation in <1% of patients [see Adverse Reactions (6)].
+Severe neutropenia (ANC < 500/mm3) lasting more than one week occurred in 12% (62/503) of patients in Study 1, leading to discontinuation in <1% of patients [see Adverse Reactions (6)].
 Patients with alanine aminotransferase or aspartate aminotransferase > 3 × ULN (upper limit of normal) experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia than patients with normal aminotransferase levels.
 Patients with bilirubin > 1.5 × ULN also had a higher incidence of Grade 4 neutropenia and febrile neutropenia.
 
@@ -13,9 +12,8 @@ Clinical studies of HALAVEN did not include patients with baseline neutrophil co
 
 ## 5.2 Peripheral Neuropathy
 
-Grade 3 peripheral neuropathy occurred in 8% (40/503) of patients, and Grade 4 in 0.4% (2/503) of patients with MBC in Study 1.
-Grade 3 peripheral neuropathy occurred in 3% (7/226) of patients, and Grade 4 in 0% (0/226) of STS patients in Study 2.
-Peripheral neuropathy was the most common toxicity leading to discontinuation of HALAVEN (5% of patients; 24/503) in MBC Study 1.
+Grade 3 peripheral neuropathy occurred in 8% (40/503) of patients, and Grade 4 in 0.4% (2/503) of patients in Study 1.
+Peripheral neuropathy was the most common toxicity leading to discontinuation of HALAVEN (5% of patients; 24/503).
 Neuropathy lasting more than one year occurred in 5% (26/503) of patients.
 Twenty-two percent (109/503) of patients developed a new or worsening neuropathy that had not recovered within a median follow-up duration of 269 days (range 25-662 days).
 Monitor patients closely for signs of peripheral motor and sensory neuropathy.
@@ -30,7 +28,7 @@ If this drug is used during pregnancy, or if a patient becomes pregnant while ta
 
 ## 5.4 QT Prolongation
 
-In an uncontrolled open-label ECG study in 26patients, QT prolongation was observed on Day 8, independent of eribulin concentration, with no QT prolongation observed on Day 1.
+In an uncontrolled open-label ECG study in 26 patients, QT prolongation was observed on Day 8, independent of eribulin concentration, with no QT prolongation observed on Day 1.
 ECG monitoring is recommended if therapy is initiated in patients with congestive heart failure, bradyarrhythmias, drugs known to prolong the QT interval, including Class Ia and III antiarrhythmics, and electrolyte abnormalities.
 Correct hypokalemia or hypomagnesemia prior to initiating HALAVEN and monitor these electrolytes periodically during therapy.
 Avoid HALAVEN in patients with congenital long QT syndrome.
