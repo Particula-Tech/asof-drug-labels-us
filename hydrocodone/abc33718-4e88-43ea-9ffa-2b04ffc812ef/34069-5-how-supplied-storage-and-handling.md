@@ -39,4 +39,4 @@ DEA Order Form Required.
 Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
 
 Rev.
-05-2015-01
+08-2015-02
