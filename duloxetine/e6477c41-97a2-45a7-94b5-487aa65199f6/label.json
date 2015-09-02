@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA203197"
+  ],
+  "inn": "duloxetine",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-263-01",
+    "67877-263-10",
+    "67877-263-30",
+    "67877-264-01",
+    "67877-264-10",
+    "67877-264-30",
+    "67877-265-01",
+    "67877-265-10",
+    "67877-265-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "duloxetine",
+      "name": "Duloxetine"
+    }
+  ],
+  "setid": "e6477c41-97a2-45a7-94b5-487aa65199f6",
+  "source": "dailymed"
+}
