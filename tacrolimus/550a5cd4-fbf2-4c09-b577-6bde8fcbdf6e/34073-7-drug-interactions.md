@@ -74,5 +74,5 @@ Monitoring of whole blood concentrations and appropriate dosage adjustments of t
 
 ## 7.12 Other Drugs
 
-Amiodarone, bromocriptine, nefazodone, metoclopramide, danazol, ethinyl estradiol and methylprednisolone may inhibit CYP3A metabolism of tacrolimus and increase tacrolimus whole blood concentrations.
+Amiodarone, bromocriptine, nefazodone, metoclopramide, danazol, ethinyl estradiol, methylprednisolone, and herbal products containing schisandra sphenanthera extracts may inhibit CYP3A metabolism of tacrolimus and increase tacrolimus whole blood concentrations.
 Monitoring of blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these drugs and tacrolimus are coadministered.

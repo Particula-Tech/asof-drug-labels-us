@@ -58,4 +58,8 @@ Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Date: March 2014 14C017-AST
+ASTAGRAF XL is a registered trademark of Astellas Pharma Inc.
+
+Revised: June 2015
+
+15F040-AST

@@ -176,10 +176,14 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Product of Japan
+
 Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Revised: March 2014 14C017-AST-MG
+ASTAGRAF XL is a registered trademark of Astellas Pharma Inc.
 
-Product of Japan
+Revised: June 2015
+
+15F040-AST
