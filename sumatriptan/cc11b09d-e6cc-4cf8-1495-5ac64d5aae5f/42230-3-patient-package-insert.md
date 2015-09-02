@@ -71,6 +71,7 @@ Do not use IMITREX if you have:
   - •dihydroergotamine (D.H.E.
     45®, MIGRANAL®)
 - Ask your healthcare provider if you are not sure if your medicine is listed above.
+
 - •an allergy to sumatriptan or any of the ingredients in IMITREX.
   See below for a complete list of ingredients in IMITREX.
 
@@ -157,14 +158,15 @@ These serious side effects include:
   Some people who use too many IMITREX nasal sprays may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
 - •serotonin syndrome.
-  Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti-depressant medicines called SSRIs or SNRIs.Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
-- 
-  - •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
-  - •fast heartbeat
-  - •changes in blood pressure
-  - •high body temperature
-  - •tight muscles
-  - •trouble walking
+  Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti-depressant medicines called SSRIs or SNRIs.
+
+- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+  1. •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  2. •fast heartbeat
+  3. •changes in blood pressure
+  4. •high body temperature
+  5. •tight muscles
+  6. •trouble walking
 - •seizures.
   Seizures have happened in people taking IMITREX who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take IMITREX.
