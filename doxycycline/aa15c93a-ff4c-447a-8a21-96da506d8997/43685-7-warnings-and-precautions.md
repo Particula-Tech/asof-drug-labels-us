@@ -36,7 +36,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## 5.3 Metabolic Effects
 
 The anti-anabolic action of the tetracyclines may cause an increase in BUN.
-While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracy-cline class antibiotics may lead to azotemia, hyperphosphatemia, and acidosis.
+While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline-class antibiotics may lead to azotemia, hyperphosphatemia, and acidosis.
 If renal impairment exists, even usual oral or parenteral doses may lead to excessive systemic accumulations of the drug and possible liver toxicity.
 Under such conditions, lower than usual total doses are indicated, and if therapy is prolonged, serum level determinations of the drug may be advisable.
 
