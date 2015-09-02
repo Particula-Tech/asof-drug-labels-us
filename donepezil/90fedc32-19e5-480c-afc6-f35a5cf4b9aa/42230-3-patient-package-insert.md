@@ -18,22 +18,22 @@ Who should not take NAMZARIC?
 
 Do not take NAMZARIC if you:
 
-- have an allergic to memantine HCl, donepezil HCl, medicines that contains piperidines, or any of the ingredients in NAMZARIC.
+- have an allergy to memantine HCl, donepezil HCl, medicines that contains piperidines, or any of the ingredients in NAMZARIC.
   See the end of this leaflet for a complete list of ingredients in NAMZARIC.
 
-What should I tell my doctor before the patient takes NAMZARIC?
+What should I tell the doctor before the patient takes NAMZARIC?
 
-Before you take NAMZARIC, Tell your doctor about all your medical conditions, including if you:
+Before you take NAMZARIC, Tell your doctor about all of your medical conditions, including if you:
 
-- have heart problems including an irregular, slow, or fast heartbeats
+- have heart problems including an irregular, slow, or fast heartbeat
 - have asthma or lung problems
-- have seizure
+- have seizures
 - have stomach ulcers
 - have bladder or kidney problems
 - have liver problems
 - have surgical, dental, or other medical procedures scheduled and anesthesia may be used
 - have any other medical conditions
-- are pregnant or plans to become pregnant.
+- are pregnant or plan to become pregnant.
   It is not known if NAMZARIC can harm an unborn baby.
 - are breast-feeding or plan to breastfeed.
   It is not known if NAMZARIC passes into breast milk.
@@ -119,10 +119,15 @@ The hard gelatin capsules contain titanium dioxide, gelatin, and imprinted with 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Approved: 12/2014
+Revised: 02/2015
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC.
+Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC Cincinnati, Ohio 45209
 
 Manufactured by: Forest Laboratories Ireland Ltd Clonshaugh Business and Technology Park Clonshaugh, Dublin 17, Ireland
 
 Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
+
+NAMZARIC™ is a trademark of Actavis, Inc. or its affiliates.
+
+©2014 Actavis.
+All rights reserved.

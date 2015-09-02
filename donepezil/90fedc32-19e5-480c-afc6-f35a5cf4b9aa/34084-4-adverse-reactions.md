@@ -111,7 +111,7 @@ Table 2: Adverse reactions with donepezil hydrochloride in patients with severe 
 | Confusion | 1 | 2 |
 | Emotional lability | 1 | 2 |
 | Personality disorder | 1 | 2 |
-| Skin And Appendages |  |  |
+| Skin and Appendages |  |  |
 | Eczema | 2 | 3 |
 | Urogenital System |  |  |
 | Urinary incontinence | 1 | 2 |
@@ -123,7 +123,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Memantine Hydrochloride
 
-Acute renal failure, agranulocytosis, cardiac failure congestive, hepatitis, leukopenia (including neutropenia), pancreatitis, pancytopenia, Stevens Johnson Syndrome. suicidal ideation, thrombocytopenia, and thrombotic thrombocytopenic purpura.
+Acute renal failure, agranulocytosis, cardiac failure congestive, hepatitis, leukopenia (including neutropenia), pancreatitis, pancytopenia, Stevens-Johnson syndrome, suicidal ideation, thrombocytopenia, and thrombotic thrombocytopenic purpura.
 
 Donepezil Hydrochloride
 

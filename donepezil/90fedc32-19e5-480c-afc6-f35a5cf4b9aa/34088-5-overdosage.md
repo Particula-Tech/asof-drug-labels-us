@@ -13,7 +13,7 @@ Signs and symptoms most often accompanying overdosage with other formulations of
 The largest known ingestion of memantine worldwide was 2 grams in an individual who took memantine in conjunction with unspecified antidiabetic medications.
 This person experienced coma, diplopia, and agitation, but subsequently recovered.
 
-One patient participating in a memantine hydrochloride extended-release clinical trial unintentionally took 112 mg of memantine hydrochloride extended-release daily for 31 days and experienced an elevated serum uric acid, elevated serum alkaline phosphatase, and low platelet count.
+One patient participating in a memantine hydrochloride extended-release clinical trial unintentionally took 112 mg of memantine hydrochloride extended-release daily for 31 days and experienced elevated serum uric acid, elevated serum alkaline phosphatase, and low platelet count.
 
 No fatalities have been noted with overdoses of memantine alone.
 A fatal outcome has very rarely been reported when memantine has been ingested as part of overdosing with multiple drugs; in those instances, the relationship between memantine and a fatal outcome has been unclear.

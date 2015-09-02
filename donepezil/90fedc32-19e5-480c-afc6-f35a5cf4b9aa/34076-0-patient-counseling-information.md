@@ -18,8 +18,13 @@ Advise patients and caregivers that NAMZARIC may cause headache, diarrhea, dizzi
 
 Manufactured for:
 
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC.
+Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC Cincinnati, Ohio 45209
 
 Manufactured by: Forest Laboratories Ireland Ltd Clonshaugh Business and Technology Park Clonshaugh, Dublin 17, Ireland
 
 Licensed from Merz Pharma GmbH & Co. KGaA and Adamas Pharmaceuticals, Inc.
+
+NAMZARIC™ is a trademark of Actavis, Inc. or its affiliates.
+
+©2014 Actavis.
+All rights reserved.

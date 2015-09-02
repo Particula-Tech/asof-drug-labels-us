@@ -3,10 +3,10 @@
 ## 16.1 How Supplied
 
 14 mg/10 mg: Light green, opaque capsules with a black “FL 14/10” radial imprint.
-Bottle of 30: NDC# 0456-1214-30 Bottle of 90: NDC# 0456-1214-90
+Bottle of 30: NDC# 0456-1214-30 Bottle of 90: NDC# 0456-1214-90 Unit Dose carton (10x10): NDC# 0456-1214-63 Unit Dose blister (10): NDC# 0456-1214-11
 
 28 mg/10 mg: Blue, opaque capsules with a black “FL 28/10” radial imprint.
-Bottle of 30: NDC# 0456-1228-30 Bottle of 90: NDC# 0456-1228-90
+Bottle of 30: NDC# 0456-1228-30 Bottle of 90: NDC# 0456-1228-90 Unit Dose carton (10x10): NDC# 0456-1228-63 Unit Dose blister (10): NDC# 0456-1228-11
 
 ## 16.2 Storage and Handling
 
