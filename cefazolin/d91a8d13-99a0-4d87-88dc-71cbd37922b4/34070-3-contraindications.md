@@ -1,0 +1,5 @@
+# 4 CONTRAINDICATIONS
+
+## 4.1 Hypersensitivity to Cefazolin or the Cephalosporin Class of Antibacterial Drugs, Penicillins, or Other Beta-lactams
+
+Cefazolin injection is contraindicated in patients who have a history of immediate hypersensitivity reactions (e.g., anaphylaxis, serious skin reactions) to cefazolin or the cephalosporin antibacterial drugs, penicillins, or other beta-lactams [see Warnings and Precautions (5.1)].

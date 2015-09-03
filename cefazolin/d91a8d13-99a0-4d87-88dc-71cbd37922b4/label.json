@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207131"
+  ],
+  "inn": "cefazolin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-3508-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cefazolin sodium",
+      "name": "Cefazolin"
+    }
+  ],
+  "setid": "d91a8d13-99a0-4d87-88dc-71cbd37922b4",
+  "source": "dailymed"
+}
