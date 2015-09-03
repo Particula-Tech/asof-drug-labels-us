@@ -110,7 +110,7 @@ Tell your doctor if you exercise a lot or are in hot places often.
 The symptoms of bipolar I disorder or schizophrenia may include thoughts of suicide or of hurting yourself or others.
 If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
 
-Tell your doctor about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines that you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Olanzapine orally disintegrating tablets and some medicines may interact with each other and may not work as well, or cause possible serious side effects.
 Your doctor can tell you if it is safe to take olanzapine orally disintegrating tablets with your other medicines.
 Do not start or stop any medicine while taking olanzapine orally disintegrating tablets without talking to your doctor first.
@@ -207,11 +207,11 @@ They may harm them.
 This Medication Guide summarizes the most important information about olanzapine orally disintegrating tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about olanzapine that was written for healthcare professionals.
-For more information about olanzapine orally disintegrating tablets call Teva Pharmaceuticals Medical Affairs at 1-888-838-2872.
+For more information about olanzapine orally disintegrating tablets call Teva Pharmaceuticals at 1-888-838-2872.
 
 What are the ingredients in olanzapine orally disintegrating tablets?
 
-Active ingredient: olanzapine, USP
+Active ingredient: olanzapine
 
 Inactive ingredients: aspartame powder, colloidal silicon dioxide, crospovidone, magnesium stearate, mannitol, microcrystalline cellulose, sodium stearyl fumarate, strawberry flavor and xylitol.
 
@@ -222,4 +222,4 @@ All brand names listed are the registered trademarks of their respective owners 
 TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-B 1/2015
+C 7/2015

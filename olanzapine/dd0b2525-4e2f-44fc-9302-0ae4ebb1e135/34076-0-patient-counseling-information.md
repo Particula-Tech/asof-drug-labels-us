@@ -34,8 +34,8 @@ Patients who have diabetes should follow their doctor’s instructions about how
 
 ## 17.5 Dyslipidemia
 
-Patients should be counseled that hyperlipidemia has occurred during treatment with olanzapine.
-Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.5)].
+Patients should be counseled that dyslipidemia has occurred during treatment with olanzapine.
+Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.4)].
 
 ## 17.6 Weight Gain
 
@@ -100,4 +100,4 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-B 1/2015
+C 7/2015

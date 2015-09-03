@@ -95,6 +95,8 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Olanzapine Monotherap
 | Borderline to High(≥ 100 mg/dL and < 126 mg/dL to ≥ 126 mg/dL) | Olanzapine | 14 | 14.3% | 13 | 23.1% |  |
 | Placebo | 13 | 0% | NA | NA |  |  |
 
+Dyslipidemia
+
 Undesirable alterations in lipids have been observed with olanzapine use.
 Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using olanzapine, is recommended [see Patient Counseling Information (17.5)].
 
@@ -178,7 +180,7 @@ Olanzapine Monotherapy in Adults - In an analysis of 13 placebo-controlled olanz
 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
 Discontinuation due to weight gain occurred in 0.2% of olanzapine-treated patients and in 0% of placebo-treated patients.
 
-In long term studies (at least 48 weeks), the mean weight gain was 5.6 kg (12.3 lb) (median exposure of 573 days, N = 2021).
+In long-term studies (at least 48 weeks), the mean weight gain was 5.6 kg (12.3 lb) (median exposure of 573 days, N = 2021).
 The percentages of patients who gained at least 7%, 15%, or 25% of their baseline body weight with long-term exposure were 64%, 32%, and 12%, respectively.
 Discontinuation due to weight gain occurred in 0.4% of olanzapine-treated patients following at least 48 weeks of exposure.
 
@@ -266,11 +268,12 @@ For specific information about the warnings of lithium or valproate, refer to th
 
 Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17.7)].
 
+From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
+
 For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
 Syncope was reported in 0.6% (15/2500) of olanzapine-treated patients in phase 2 to 3 oral olanzapine studies.
-The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
 
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
 
