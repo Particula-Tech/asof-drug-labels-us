@@ -109,9 +109,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 *Trademarks are the property of their respective owners.
 
-Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
-
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-06-2015-02
+08-2015-03
