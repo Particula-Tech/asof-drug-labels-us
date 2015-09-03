@@ -1,18 +1,21 @@
 # DESCRIPTION:
 
-Tobramycin ophthalmic solution is a sterile topical ophthalmic antibiotic formulation prepared specifically for topical therapy of external infections.
+Tobramycin ophthalmic solution 0.3% is a sterile topical ophthalmic antibiotic formulation prepared specifically for topical therapy of external ophthalmic infections.
 
 EACH mL CONTAINS:
 
-ACTIVE: Tobramycin 3 mg (0.3%).
-INACTIVES: Boric Acid, Sodium Sulfate, Sodium Chloride, Tyloxapol and Purified Water.
-Sodium Hydroxide and/or Sulfuric Acid may be added to adjust pH (7.0 - 8.0).
+Active: Tobramycin 3 mg (0.3%).
+Inactives: Boric Acid, Sodium Sulfate, Sodium Chloride, Tyloxapol and Purified Water.
+Sodium Hydroxide and/or Sulfuric Acid (to adjust pH).
+Tobramycin ophthalmic solution 0.3% has a pH range between 7.0 and 8.0.
 
 PRESERVATIVE ADDED: Benzalkonium Chloride 0.1 mg (0.01%).
 
-The structural formula of tobramycin is
+The chemical structure of tobramycin is
 
-Molecular formula: C18H37N5O9 Molecular weight: 467.52
+Molecular weight: 467.52
+
+Molecular formula: C18H37N5O9
 
 Chemical name:
 
