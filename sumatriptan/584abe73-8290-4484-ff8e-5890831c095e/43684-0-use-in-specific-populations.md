@@ -37,7 +37,7 @@ Adverse reactions observed in these clinical trials were similar in nature to th
 Five controlled clinical trials (2 single-attack trials, 3 multiple-attack trials) evaluating oral IMITREX (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
 These trials did not establish the efficacy of oral IMITREX compared with placebo in the treatment of migraine in adolescents.
 Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
-The frequency of all adverse reactions in these patients appeared to be both dose- and age‑ dependent, with younger patients reporting reactions more commonly than older adolescents.
+The frequency of all adverse reactions in these patients appeared to be both dose- and age‑dependent, with younger patients reporting reactions more commonly than older adolescents.
 
 Postmarketing experience documents that serious adverse reactions have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal IMITREX.
 These reports include reactions similar in nature to those reported rarely in adults, including stroke, visual loss, and death.
