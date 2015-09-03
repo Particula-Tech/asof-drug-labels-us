@@ -195,12 +195,10 @@ Skyla can cause serious side effects, including:
   More serious cases of PID may require surgery.
   A hysterectomy (removal of the uterus) is sometimes needed.
   In rare cases, infections that start as PID can even cause death.
-
 - Tell your healthcare provider right away if you have any of these signs of PID: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal (stomach area) pain, painful sex, chills, or fever.
 - Life-threatening infection.
   Life-threatening infection can occur within the first few days after Skyla is placed.
   Call your healthcare provider immediately if you develop severe pain or fever shortly after Skyla is placed.
-
 - •Life-threatening infection.
   Life-threatening infection can occur within the first few days after Skyla is placed.
   Call your healthcare provider immediately if you develop severe pain or fever shortly after Skyla is placed.

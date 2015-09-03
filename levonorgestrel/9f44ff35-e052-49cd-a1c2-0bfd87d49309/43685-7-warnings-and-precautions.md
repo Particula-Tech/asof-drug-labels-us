@@ -114,6 +114,7 @@ Once pregnancy has been excluded, repeated pregnancy tests are generally not nec
 
 Perforation (total or partial, including penetration/embedment of Skyla in the uterine wall or cervix) may occur most often during insertion, although the perforation may not be detected until sometime later.
 Perforation may reduce contraceptive efficacy and result in pregnancy.
+The incidence of perforation during clinical trials was < 0.1%.
 
 If perforation occurs, locate and remove Skyla.
 Surgery may be required.
