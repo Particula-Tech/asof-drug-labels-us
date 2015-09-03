@@ -30,7 +30,7 @@ Administration should not be made within 2 inches of the navel.
 Instruct patients not to administer Sumavel DosePro to the arms or other areas of the body.
 Inform patients that Sumavel DosePro is for subcutaneous use only and is not designed for intramuscular or intravenous use.
 
-Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 Manufactured by: Patheon UK, Limited Swindon, United Kingdom
 
