@@ -37,8 +37,8 @@ Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000124131 Rev.
-5/14
+10000000129275 Rev.
+10/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -79,5 +79,5 @@ Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000124133 Rev.
-5/14
+10000000129276 Rev.
+10/14
