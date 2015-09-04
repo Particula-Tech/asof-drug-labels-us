@@ -106,7 +106,7 @@ Table 9: Common Adverse Reactions: Percentage of Patients Reporting Adverse Reac
 
 Other Adverse Reactions Observed in Clinical Studies
 
-Body as a whole – Photosensitivity reaction
+Body as a whole – Photosensitivity reaction, chills
 
 Cardiovascular system – Postural hypotension, syncope, hypotension, tachycardia
 
@@ -250,7 +250,7 @@ Musculoskeletal – Rhabdomyolysis
 
 Nervous system – Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.2)], serotonergic syndrome [see Warnings and Precautions (5.2)], delirium, extrapyramidal reactions (including dystonia and dyskinesia), impaired coordination and balance, tardive dyskinesia
 
-Respiratory system – Pulmonary eosinophilia
+Respiratory system – Dyspnea, interstitial lung disease, pulmonary eosinophilia [see Warnings and Precautions (5.12)]
 
 Skin and appendages – Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme
 
