@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022083"
+  ],
+  "inn": "rivastigmine",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-7304-31",
+    "0781-7304-58",
+    "0781-7309-31",
+    "0781-7309-58",
+    "0781-7313-31",
+    "0781-7313-58"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "rivastigmine",
+      "name": "Rivastigmine"
+    }
+  ],
+  "setid": "92a58ebb-748d-49f4-bf11-ecbcf5424152",
+  "source": "dailymed"
+}
