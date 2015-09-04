@@ -1,18 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Initiate BRILINTA treatment with a 180 mg (two 90 mg tablets) loading dose and continue treatment with 90 mg twice daily.
+## 2.1 Dosing
 
-After the initial loading dose of aspirin (usually 325 mg), use BRILINTA with a daily maintenance dose of aspirin of 75-100 mg.
+In the management of ACS, initiate BRILINTA treatment with a 180 mg loading dose.
+Administer 90 mg twice daily during the first year after an ACS event.
+After one year administer 60 mg twice daily.
 
-ACS patients who have received a loading dose of clopidogrel may be started on BRILINTA.
+Do not administer BRILINTA with another oral P2Y12 platelet inhibitor.
 
-BRILINTA can be administered with or without food.
+Use BRILINTA with a daily maintenance dose of aspirin of 75-100 mg [see Warnings (5.2) and Clinical Studies (14.1)].
+A patient who misses a dose of BRILINTA should take one tablet (their next dose) at its scheduled time.
 
-A patient who misses a dose of BRILINTA should take one 90 mg tablet (their next dose) at its scheduled time.
+## 2.2 Administration
 
-## 2.1 Administration Options
-
-For patients who are unable to swallow the tablet(s) whole, BRILINTA tablets can be crushed, mixed with water and drunk immediately.
-The glass should be refilled with water, stirred and the contents drunk.
-The mixture can also be administered via a nasogastric tube (CH8 or greater).
-It is important to flush the nasogastric tube through with water after administration of the mixture [see Clinical Pharmacology (12.3)].
+For patients who are unable to swallow tablets whole, BRILINTA tablets can be crushed, mixed with water and drunk.
+The mixture can also be administered via a nasogastric tube (CH8 or greater) [see Clinical Pharmacology (12.3)].

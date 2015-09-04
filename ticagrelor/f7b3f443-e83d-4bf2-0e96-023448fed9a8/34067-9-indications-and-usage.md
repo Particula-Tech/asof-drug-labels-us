@@ -1,12 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Acute Coronary Syndromes
+BRILINTA is indicated to reduce the rate of cardiovascular death, myocardial infarction, and stroke in patients with acute coronary syndrome (ACS) or a history of myocardial infarction (MI).
+For at least the first 12 months following ACS, it is superior to clopidogrel.
 
-BRILINTA is a P2Y12 platelet inhibitor indicated to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (ACS) (unstable angina, non-ST elevation myocardial infarction, or ST elevation myocardial infarction).
-BRILINTA has been shown to reduce the rate of a combined endpoint of cardiovascular death, myocardial infarction or stroke compared to clopidogrel.
-The difference between treatments was driven by CV death and MI with no difference in stroke.
-In patients treated with PCI, it also reduces the rate of stent thrombosis [see Clinical Studies (14)].
-
-BRILINTA has been studied in ACS in combination with aspirin.
-Maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
-Avoid maintenance doses of aspirin above 100 mg daily [see Warnings and Precautions (5.2) and Clinical Studies (14)].
+BRILINTA also reduces the rate of stent thrombosis in patients who have been stented for treatment of ACS [see Clinical Studies (14.1)].

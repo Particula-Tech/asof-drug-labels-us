@@ -7,4 +7,6 @@ The chemical structure of ticagrelor is:
 
 Ticagrelor is a crystalline powder with an aqueous solubility of approximately 10 μg/mL at room temperature.
 
-BRILINTA tablets for oral administration contain 90 mg of ticagrelor and the following ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, talc, polyethylene glycol 400, and ferric oxide yellow.
+BRILINTA 90 mg tablets for oral administration contain 90 mg of ticagrelor and the following ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, talc, polyethylene glycol 400, and ferric oxide yellow.
+
+BRILINTA 60 mg tablets for oral administration contain 60 mg of ticagrelor and the following ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, polyethylene glycol 400, ferric oxide black, and ferric oxide red.

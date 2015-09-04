@@ -2,52 +2,36 @@
 
 ## 5.1 General Risk of Bleeding
 
-Drugs that inhibit platelet function including BRILINTA increase the risk of bleeding.
-BRILINTA increased the overall risk of bleeding (Major + Minor) to a somewhat greater extent than did clopidogrel.
-The increase was seen for non-CABG-related bleeding, but not for CABG-related bleeding.
-Fatal and life-threatening bleeding rates were not increased [see Adverse Reactions (6.1)].
-
-In general, risk factors for bleeding include older age, a history of bleeding disorders, performance of percutaneous invasive procedures, and concomitant use of medications that increase the risk of bleeding (e.g., anticoagulant and fibrinolytic therapy, higher doses of aspirin, and chronic nonsteroidal anti-inflammatory drugs [NSAIDS]).
-
-When possible, discontinue BRILINTA five days prior to surgery.
-Suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, PCI, CABG, or other surgical procedures, even if the patient does not have any signs of bleeding.
+Drugs that inhibit platelet function including BRILINTA increase the risk of bleeding [see Adverse Reactions (6.1)].
 
 If possible, manage bleeding without discontinuing BRILINTA.
-Stopping BRILINTA increases the risk of subsequent cardiovascular events [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+Stopping BRILINTA increases the risk of subsequent cardiovascular events [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
 ## 5.2 Concomitant Aspirin Maintenance Dose
 
-In PLATO, use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
-Therefore, after the initial loading dose of aspirin (usually 325 mg), use BRILINTA with a maintenance dose of aspirin of 75-100 mg [see Dosage and Administration (2) and Clinical Studies (14)].
+In PLATO the use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
+Therefore, after the initial loading dose of aspirin, use BRILINTA with a maintenance dose of aspirin of 75-100 mg [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
 
-## 5.3 Moderate Hepatic Impairment
+## 5.3 Dyspnea
 
-BRILINTA has not been studied in patients with moderate hepatic impairment.
-Consider the risks and benefits of treatment, noting the probable increase in exposure to ticagrelor.
+In clinical trials, about 14% of patients treated with BRILINTA developed dyspnea.
+Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment, but led to study drug discontinuation in 0.9% of BRILINTA and 0.1% of clopidogrel patients in PLATO and 4.3% of BRILINTA 60 mg and 0.7% on aspirin alone patients in PEGASUS.
 
-## 5.4 Dyspnea
-
-In PLATO, dyspnea was reported in 14% of patients treated with BRILINTA and in 8% of patients taking clopidogrel.
-Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment, but occasionally required discontinuation (0.9% of patients taking BRILINTA versus 0.1% of patients taking clopidogrel).
-If a patient develops new, prolonged, or worsened dyspnea during treatment with BRILINTA, exclude underlying diseases that may require treatment.
-If dyspnea is determined to be related to BRILINTA, no specific treatment is required; continue BRILINTA without interruption.
-In the case of intolerable dyspnea requiring discontinuation of BRILINTA, consider prescribing another antiplatelet agent.
-
-In a substudy, 199 patients from PLATO underwent pulmonary function testing irrespective of whether they reported dyspnea.
-There was no significant difference between treatment groups for FEV1.
+In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea.
 There was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.
 
-## 5.5 Discontinuation of BRILINTA
+If a patient develops new, prolonged, or worsened dyspnea that is determined to be related to BRILINTA, no specific treatment is required; continue BRILINTA without interruption if possible.
+In the case of intolerable dyspnea requiring discontinuation of BRILINTA, consider prescribing another antiplatelet agent.
 
-Avoid interruption of BRILINTA treatment.
-If BRILINTA must be temporarily discontinued (e.g., to treat bleeding or for elective surgery), restart it as soon as possible.
-Discontinuation of BRILINTA will increase the risk of myocardial infarction, stent thrombosis, and death.
+## 5.4 Discontinuation of BRILINTA
 
-## 5.6 Strong Inhibitors of Cytochrome CYP3A
+Discontinuation of BRILINTA will increase the risk of myocardial infarction, stroke, and death.
+If BRILINTA must be temporarily discontinued (e.g., to treat bleeding or for significant surgery), restart it as soon as possible.
+When possible, interrupt therapy with BRILINTA for five days prior to surgery that has a major risk of bleeding.
+Resume BRILINTA as soon as hemostasis is achieved.
 
-Ticagrelor is metabolized by CYP3A4/5.
-Avoid use with strong CYP3A inhibitors, such as atazanavir, clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+## 5.5 Severe Hepatic Impairment
 
-## 5.7 Cytochrome CYP3A Potent Inducers
-
-Avoid use with potent CYP3A inducers, such as rifampin, phenytoin, carbamazepine, and phenobarbital [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Avoid use of BRILINTA in patients with severe hepatic impairment.
+Severe hepatic impairment is likely to increase serum concentration of ticagrelor.
+There are no studies of BRILINTA patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

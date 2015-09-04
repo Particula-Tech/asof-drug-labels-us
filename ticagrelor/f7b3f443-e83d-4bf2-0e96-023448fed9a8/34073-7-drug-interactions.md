@@ -1,35 +1,24 @@
 # 7 DRUG INTERACTIONS
 
-Effects of other drugs
+## 7.1 Strong CYP3A Inhibitors
 
-Ticagrelor is predominantly metabolized by CYP3A4 and to a lesser extent by CYP3A5.
-Ticagrelor is also a p-glycoprotein (P-gp) substrate.
+Strong CYP3A inhibitors substantially increase ticagrelor exposure and so increase the risk of dyspnea, bleeding, and other adverse events.
+Avoid use of strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir and telithromycin) [see Clinical Pharmacology (12.3)].
 
-## 7.1 CYP3A inhibitors
+## 7.2 Strong CYP3A Inducers
 
-Avoid use of strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir and telithromycin) [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
-
-## 7.2 CYP3A inducers
-
-Avoid use with potent inducers of CYP3A (e.g., rifampin, phenytoin, carbamazepine and phenobarbital) [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
+Strong CYP3A inducers substantially reduce ticagrelor exposure and so decrease the efficacy of ticagrelor.
+Avoid use with strong inducers of CYP3A (e.g., rifampin, phenytoin, carbamazepine and phenobarbital) [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Aspirin
 
-Use of BRILINTA with aspirin maintenance doses above 100 mg reduced the effectiveness of BRILINTA [see Warnings and Precautions (5.2) and Clinical Studies (14)].
+Use of BRILINTA with aspirin maintenance doses above 100 mg reduced the effectiveness of BRILINTA [see Warnings and Precautions (5.2) and Clinical Studies (14.1)].
 
-Effect of BRILINTA on other drugs
+## 7.4 Simvastatin, Lovastatin
 
-Ticagrelor is an inhibitor of CYP3A4/5 and the P-glycoprotein transporter.
-
-## 7.4 Simvastatin, lovastatin
-
-BRILINTA will result in higher serum concentrations of simvastatin and lovastatin because these drugs are metabolized by CYP3A4.
+BRILINTA increases serum concentrations of simvastatin and lovastatin because these drugs are metabolized by CYP3A4.
 Avoid simvastatin and lovastatin doses greater than 40 mg [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Digoxin
 
-Digoxin: Because of inhibition of the P-glycoprotein transporter, monitor digoxin levels with initiation of or any change in BRILINTA therapy [see Clinical Pharmacology (12.3)].
-
-## 7.6 Other Concomitant Therapy
-
-BRILINTA can be administered with unfractionated or low-molecular-weight heparin, GPIIb/IIIa inhibitors, proton pump inhibitors, beta-blockers, angiotensin converting enzyme inhibitors, and angiotensin receptor blockers.
+BRILINTA inhibits the P-glycoprotein transporter; monitor digoxin levels with initiation of or change in BRILINTA therapy [see Clinical Pharmacology (12.3)].
