@@ -24,7 +24,7 @@ Rates were generally higher in the anti-emetic use (given in parentheses).
 
 Event rates derived from clinical trials in AIDS-related anorexia (N=157) and chemotherapy-related nausea (N=317).
 
-| Cardiovascular: Conjunctivitis*, hypotension*. Digestive: Diarrhea*, fecal incontinence. Musculoskeletal: Myalgias. Nervous system: Depression, nightmares, speech difficulties, tinnitus. Skin and Appendages: Flushing*. Special senses: Vision difficulties. |
+| Cardiovascular: Hypotension*. Digestive: Diarrhea*, fecal incontinence. Musculoskeletal: Myalgias. Nervous system: Depression, nightmares, speech difficulties, tinnitus. Skin and Appendages: Flushing*. Special senses: Conjunctivitis*, vision difficulties. |
 | --- |
 | *Incidence of events 0.3% to 1% |
 
@@ -38,6 +38,6 @@ The clinical significance of the association of these events with MARINOL Capsul
 ## Postmarketing Experience
 
 Seizure and seizure-like activity have been reported in patients receiving MARINOL Capsules during marketed use of the drug and in clinical trials.
-(See PRECAUTIONS and OVERDOSAGE.)
+(See PRECAUTIONSandOVERDOSAGE.)
 Reports of fatigue have also been received.
 A causal relationship between MARINOL Capsules and these events has not been established.

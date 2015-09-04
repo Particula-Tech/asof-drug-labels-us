@@ -22,7 +22,8 @@ MARINOL Capsules should be used with caution and careful psychiatric monitoring 
 
 MARINOL Capsules should be used with caution in patients receiving concomitant therapy with sedatives, hypnotics or other psychoactive drugs because of the potential for additive or synergistic CNS effects.
 
-MARINOL Capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.(See INDIVIDUALIZATION OF DOSAGES.)
+MARINOL Capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
+(See INDIVIDUALIZATION OF DOSAGES.)
 
 MARINOL Capsules should be used with caution in pregnant patients, nursing mothers, or pediatric patients because it has not been studied in these patient populations.
 

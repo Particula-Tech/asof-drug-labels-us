@@ -1,4 +1,4 @@
-Rx Only CIII
+Rx only CIII
 
 # INDIVIDUALIZATION OF DOSAGES
 
@@ -27,7 +27,8 @@ The pediatric dosage for the treatment of chemotherapy-induced emesis is the sam
 Caution is recommended in prescribing MARINOL Capsules for children because of the psychoactive effects.
 
 Geriatrics: Caution is advised in prescribing MARINOL Capsules in elderly patients because they may be more sensitive to the neurological, psychoactive and postural hypotensive effects of the drug.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range (See PRECAUTIONS.)
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range.
+(See PRECAUTIONS.)
 
 MARINOL Capsules should be used with caution when administered to elderly patients with dementia, who are at increased risk for falls as a result of their underlying disease state which may be exacerbated by the central nervous system effects of somnolence and dizziness associated with MARINOL Capsules.
 These patients should be monitored closely and placed on fall precautions prior to initiating MARINOL therapy.

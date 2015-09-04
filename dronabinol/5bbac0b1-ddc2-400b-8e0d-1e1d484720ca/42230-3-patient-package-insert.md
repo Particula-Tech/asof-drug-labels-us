@@ -172,6 +172,6 @@ Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
 For: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-46628-01 February, 2013
+46627-01 February, 2013
 
 © 2013 AbbVie Inc.
