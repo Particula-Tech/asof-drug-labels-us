@@ -109,7 +109,7 @@ However, there were 16% and 32% increases in the AUC and Cmax, respectively, of 
 
 Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
-Inducers of CYP2B6: Ritonavir and Lopinavir: In a healthy volunteer trial, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
+Inducers of CYP2B6:Ritonavir and Lopinavir: In a healthy volunteer trial, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
 
 In a second healthy volunteer trial, ritonavir 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
