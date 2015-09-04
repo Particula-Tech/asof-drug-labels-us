@@ -24,7 +24,7 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 Acute Treatment of Manic or Mixed Episodes
 
-Dose Selection--Oral ziprasidone should be administered at an initial daily dose of 40 mg twice daily with food.
+Dose Selection-Oral ziprasidone should be administered at an initial daily dose of 40 mg twice daily with food.
 The dose may then be increased to 60 mg or 80 mg twice daily on the second day of treatment and subsequently adjusted on the basis of tolerance and efficacy within the range 40 mg–80 mg twice daily.
 In the flexible-dose clinical trials, the mean daily dose administered was approximately 120 mg [see Clinical Studies (14.2)].
 

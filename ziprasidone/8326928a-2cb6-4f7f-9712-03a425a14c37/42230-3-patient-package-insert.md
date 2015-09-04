@@ -138,7 +138,9 @@ Therefore, tell your doctor if you experience any of these signs.
 
 Delayed-onset drug reaction called drug reaction with eosinophilia and systemic symptoms (DRESS) can occur with ziprasidone.
 Signs of DRESS may include rash, fever, and swollen lymph nodes.
-DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
+Other severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome can occur with ziprasidone.
+Signs of Stevens-Johnson syndrome may include rash with blisters which could include ulcers in mouth, skin shedding, fever and target-like spots in the skin.
+DRESS and other SCAR are sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
 
 Adverse reactions related to high blood sugar (hyperglycemia), sometimes serious, have been reported in patients treated with atypical antipsychotics.
 There have been few reports of hyperglycemia or diabetes in patients treated with GEODON, and it is not known if GEODON is associated with these reactions.

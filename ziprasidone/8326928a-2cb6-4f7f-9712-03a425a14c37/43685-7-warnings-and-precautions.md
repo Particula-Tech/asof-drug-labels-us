@@ -74,12 +74,20 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
-## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.4 Severe Cutaneous Adverse Reactions
 
-Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with Ziprasidone exposure.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with Ziprasidone exposure.
 DRESS consists of a combination of three or more of the following: cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, lymphadenopathy and one or more systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and pericarditis.
 DRESS is sometimes fatal.
 Discontinue ziprasidone if DRESS is suspected.
+
+Other severe cutaneous adverse reactions
+
+Other severe cutaneous adverse reactions, such as Stevens-Johnson syndrome, have been reported with ziprasidone exposure.
+Severe cutaneous adverse reactions are sometimes fatal.
+Discontinue ziprasidone if severe cutaneous adverse reactions are suspected.
 
 ## 5.5 Tardive Dyskinesia
 
