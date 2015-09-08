@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA206511"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-867-03",
+    "65862-867-10",
+    "65862-868-03",
+    "65862-868-10",
+    "65862-869-03",
+    "65862-869-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Telmisartan"
+    }
+  ],
+  "setid": "fef6532d-438a-435e-a61f-216dd8551339",
+  "source": "dailymed"
+}
