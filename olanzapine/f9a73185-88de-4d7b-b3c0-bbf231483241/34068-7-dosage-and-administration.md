@@ -58,6 +58,8 @@ Switching from Other Antipsychotics — There are no systematically collected da
 For deep intramuscular gluteal injection only.
 Not to be injected intravenously or subcutaneously.
 
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
 Step 1: Preparing Materials
 
 Convenience kit includes:
