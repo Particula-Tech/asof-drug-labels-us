@@ -1,19 +1,15 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Medication Guide).
-
-Counsel patients on the benefits and risks of receiving levetiracetam tablets.
-Provide the Medication Guide to patients and/or caregivers, and instruct them to read the Medication Guide prior to taking levetiracetam tablets.
-Instruct patients to take levetiracetam tablets only as prescribed.
+Advise the patient to read the FDA-approved Patient Labeling (Medication Guide).
 
 Suicidal Behavior and Ideation
 
-Counsel patients, their caregivers and/or families that antiepileptic drugs (AEDs), including levetiracetam tablets, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior or thoughts about self-harm.
-Advise patients, their caregivers and/or families to immediately report behaviors of concern to a healthcare provider.
+Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including levetiracetam tablets, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
+Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider.
 
 Psychiatric Reactions and Changes in Behavior
 
-Advise patients that levetiracetam tablets may cause changes in behavior (e.g., aggression, agitation, anger, anxiety, apathy, depression, hostility and irritability) and in rare cases, psychotic symptoms have occurred.
+Advise patients that levetiracetam tablets may cause changes in behavior (e.g., aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms.
 
 Effects on Driving or Operating Machinery
 

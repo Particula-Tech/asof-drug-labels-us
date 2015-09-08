@@ -14,7 +14,7 @@ What is the most important information I should know about levetiracetam tablets
 
 Like other antiepileptic drugs, levetiracetam tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500 people taking it.
 
-Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse or worry you:
+Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - •thoughts about suicide or dying
 - •attempts to commit suicide
@@ -24,7 +24,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 - •panic attacks
 - •trouble sleeping (insomnia)
 - •new or worse irritability
-- •acting aggressive, being angry or violent
+- •acting aggressive, being angry, or violent
 - •acting on dangerous impulses
 - •an extreme increase in activity and talking (mania)
 - •other unusual changes in behavior or mood
@@ -38,7 +38,7 @@ Do not stop levetiracetam tablets without first talking to a healthcare provider
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
-- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts or feelings.
+- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
@@ -46,11 +46,11 @@ What are levetiracetam tablets?
 
 Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- •partial onset seizures in people 4 years of age and older with epilepsy
+- •partial onset seizures in people 1 month of age and older with epilepsy
 - •myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - •primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
-It is not known if levetiracetam is safe or effective in children under one month of age.
+It is not known if levetiracetam is safe or effective in children under 1 month of age.
 
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam tablets provided below.
@@ -80,7 +80,7 @@ Before taking levetiracetam tablets, tell your healthcare provider about all of 
   Levetiracetam can pass into your milk and may harm your baby.
   You and your healthcare provider should discuss whether you should take levetiracetam tablets or breast-feed; you should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
 
 Know the medicines you take.
@@ -121,9 +121,9 @@ Levetiracetam tablets can cause serious side effects.
 
 Call your healthcare provider right away if you have any of these symptoms:
 
-- •mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility and irritability.
+- •mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
-- •extreme sleepiness, tiredness and weakness
+- •extreme sleepiness, tiredness, and weakness
 - •problems with muscle coordination (problems walking and moving)
 - •a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam tablets.
@@ -179,11 +179,8 @@ Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromel
 
 Levetiracetam tablets do not contain lactose or gluten.
 
-Information on the use of levetiracetam in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JULY 2014 LVTC:R10mpbmt/MG:LVTC:R6
+REVISED JUNE 2015 LVTC:R12mpbmh

@@ -36,7 +36,7 @@ Absorption of levetiracetam is rapid, with peak plasma concentrations occurring 
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
 Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
 The pharmacokinetics of levetiracetam are linear over the dose range of 500 mg to 5000 mg.
-Steady-state is achieved after 2 days of multiple twice daily dosing.
+Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
 
 ### Metabolism
@@ -55,14 +55,14 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with impaired renal function [see Use in Specific Populations (8.6) and Dosage and Administration (2.5)].
+Levetiracetam clearance is reduced in patients with renal impairment [see Use in Specific Populations (8.6) and Dosage and Administration (2.5)].
 
 ### Specific Populations
 
 #### Elderly
 
 Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61 to 88 years) with creatinine clearance ranging from 30 to 74 mL/min.
-Following oral administration of twice daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
+Following oral administration of twice-daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
 This is most likely due to the decrease in renal function in these subjects.
 
 #### Pediatric Patients
@@ -71,14 +71,14 @@ Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6
 The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
 
 A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4 to 12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
-The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about one hour and a t1/2 of 5 hours across the three dosing levels.
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t1/2 of 5 hours across the three dosing levels.
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-However, there was about a 22% increase of apparent clearance of levetiracetam when it was coadministered with an enzyme-inducing AED (e.g., carbamazepine).
+However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
 
-Pharmacokinetics information in pediatric patients less than 4 years of age is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Following single dose administration (20 mg/kg) of a 10% oral solution to children with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 mL/min/kg) than for adults (0.96 mL/min/kg).
 
 Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 
@@ -94,7 +94,7 @@ However, clearances adjusted for body weight were comparable.
 #### Race
 
 Formal pharmacokinetic studies of the effects of race have not been conducted.
-Cross study comparisons involving Caucasians (N = 12) and Asians (N = 12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
+Cross-study comparisons involving Caucasians (N = 12) and Asians (N = 12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
 #### Renal Impairment
@@ -104,9 +104,7 @@ Total body clearance of levetiracetam is reduced in patients with impaired renal
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr > 80 mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure.
-
-Dosage should be reduced in patients with impaired renal function receiving levetiracetam, and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.5)].
 
 #### Hepatic Impairment
 
@@ -140,13 +138,13 @@ These data indicate that levetiracetam does not influence the plasma concentrati
 
 #### Effect of AEDs in Pediatric Patients
 
-There was about a 22% increase of apparent total body clearance of levetiracetam when it was coadministered with enzyme-inducing AEDs.
+There was about a 22% increase of apparent total body clearance of levetiracetam when it was co-administered with enzyme-inducing AEDs.
 Dose adjustment is not recommended.
-Levetiracetam had no effect on plasma concentrations of carbamazepine, valproate, topiramate or lamotrigine.
+Levetiracetam had no effect on plasma concentrations of carbamazepine, valproate, topiramate, or lamotrigine.
 
 #### Oral Contraceptives
 
-Levetiracetam (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
+Levetiracetam (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
 Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam.
 
 #### Digoxin

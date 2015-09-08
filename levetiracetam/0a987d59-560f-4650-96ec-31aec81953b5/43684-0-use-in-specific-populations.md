@@ -2,11 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
 
 ### Teratogenic Effects. Pregnancy Category C
 
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 Levetiracetam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -41,11 +41,8 @@ Because of the potential for serious adverse reactions in nursing infants from l
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 4 years to 16 years old with epilepsy have been established [see Clinical Studies (14.1)].
+The safety and effectiveness of levetiracetam in the adjunctive treatment of partial onset seizures in pediatric patients age 1 month to 16 years old with epilepsy have been established [see Clinical Studies (14.1)].
 The dosing recommendation in these pediatric patients varies according to age group and is weight-based [see Dosage and Administration (2.2)].
-
-Pediatric use information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The safety and effectiveness of levetiracetam as adjunctive treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
 
@@ -54,7 +51,7 @@ The safety and effectiveness of levetiracetam as adjunctive therapy in the treat
 A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in 98 (levetiracetam N = 64, placebo N = 34) pediatric patients, ages 4 to 16 years old, with partial seizures that were inadequately controlled.
 The target dose was 60 mg/kg/day.
 Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
-Although no substantive differences were observed between the placebo and drug-treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
+Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
 The Achenbach Child Behavior Checklist (CBCL/6-18), a standardized validated tool used to assess a child’s competencies and behavioral/emotional problems, was also assessed in this study.
 An analysis of the CBCL/6-18 indicated on average a worsening in levetiracetam-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
 
@@ -65,10 +62,11 @@ Studies of levetiracetam in juvenile rats (dosing from day 4 through day 52 of a
 There were 347 subjects in clinical studies of levetiracetam that were 65 and over.
 No overall differences in safety were observed between these subjects and younger subjects.
 There were insufficient numbers of elderly subjects in controlled trials of epilepsy to adequately assess the effectiveness of levetiracetam in these patients.
+
 Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
-## 8.6 Use in Patients with Impaired Renal Function
+## 8.6 Renal Impairment
 
 Clearance of levetiracetam is decreased in patients with renal impairment and is correlated with creatinine clearance [see Clinical Pharmacology (12.3)].
 Dose adjustment is recommended for patients with impaired renal function and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].
