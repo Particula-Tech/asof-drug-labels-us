@@ -1,0 +1,17 @@
+{
+  "application_numbers": [
+    "BLA125553"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Food and Drug Administration",
+  "package_ndcs": [],
+  "products": [
+    {
+      "form": "",
+      "generic": "",
+      "name": "ZARXIO"
+    }
+  ],
+  "setid": "7a9f41b5-2f8c-450f-80cb-613747eda56a",
+  "source": "dailymed"
+}
