@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 50 mg/500 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg/500 mg Bottle Label
 
 NDC 0006-0078-61
 
@@ -16,7 +16,7 @@ Rx only
 
 60 Tablets
 
-PRINCIPAL DISPLAY PANEL - 50 mg/1,000 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg/1,000 mg Bottle Label
 
 NDC 0006-0080-61
 
@@ -34,7 +34,7 @@ Rx only
 
 60 Tablets
 
-PRINCIPAL DISPLAY PANEL - 100 mg/1,000 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg/1,000 mg Bottle Label
 
 NDC 0006-0081-31
 

@@ -28,6 +28,10 @@ Patients should be informed that the incidence of hypoglycemia is increased when
 Patients should be informed that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of JANUMET XR.
 If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUMET XR and seek medical advice promptly.
 
+Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.15)].
+
 Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
 
 Patients should be informed that incompletely dissolved JANUMET XR tablets may be eliminated in the feces.
@@ -45,12 +49,10 @@ A1C is especially useful for evaluating long-term glycemic control.
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, Vitamin B12 deficiency should be excluded.
 
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA OR Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0431a-xrt-1503r005
+uspi-mk0431a-xrt-1508r007
