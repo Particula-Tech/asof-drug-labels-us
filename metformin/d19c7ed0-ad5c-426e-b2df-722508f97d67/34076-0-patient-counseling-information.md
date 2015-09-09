@@ -26,6 +26,10 @@ Patients should be informed that the incidence of hypoglycemia is increased when
 Patients should be informed that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of JANUMET.
 If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUMET and seek medical advice promptly.
 
+Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.15)].
+
 Patients should be informed that the tablets must never be split or divided before swallowing.
 
 Physicians should instruct their patients to read the Medication Guide before starting JANUMET therapy and to reread each time the prescription is renewed.

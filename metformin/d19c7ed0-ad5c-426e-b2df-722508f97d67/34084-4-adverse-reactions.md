@@ -13,7 +13,7 @@ Table 1: Sitagliptin and Metformin Coadministered to Patients with Type 2 Diabet
 |  | N = 176 | N = 179 | N = 364 | N = 372 |
 | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |
-|  | Placebo | Sitagliptin100 mg once daily | Metformin 500 mg/Metformin 1000 mg twice dailyData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg twice daily +Metformin 500 mg/Metformin 1000 mg twice daily |
+|  | Placebo | Sitagliptin 100 mg once daily | Metformin 500 mg/ Metformin 1000 mg twice dailyData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin 50 mg twice daily + Metformin 500 mg/ Metformin 1000 mg twice daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) |
 | Upper Respiratory Tract Infection | 9 (5.1) | 8 (4.5) | 19 (5.2) | 23 (6.2) |
 | Headache | 5 (2.8) | 2 (1.1) | 14 (3.8) | 22 (5.9) |
@@ -34,7 +34,7 @@ Table 2: Pre-selected Gastrointestinal Adverse Reactions (Regardless of Investig
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |  |  |
 |  | Study of Sitagliptin and Metformin in Patients Inadequately Controlled on Diet and Exercise |  |  |  | Study of Sitagliptin Add-on in Patients Inadequately Controlled on Metformin Alone |  |
-|  | Placebo | Sitagliptin100 mg once daily | Metformin 500 mg/Metformin 1000 mg twice dailyData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg twice daily +Metformin 500 mg/Metformin 1000 mg twice daily | Placebo and Metformin≥1500 mg daily | Sitagliptin 100 mg once daily and Metformin≥1500 mg daily |
+|  | Placebo | Sitagliptin 100 mg once daily | Metformin 500 mg/ Metformin 1000 mg twice dailyData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin 50 mg twice daily + Metformin 500 mg/ Metformin 1000 mg twice daily | Placebo and Metformin ≥1500 mg daily | Sitagliptin 100 mg once daily and Metformin ≥1500 mg daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) | 6 (2.5) | 11 (2.4) |
 | Nausea | 2 (1.1) | 2 (1.1) | 20 (5.5) | 18 (4.8) | 2 (0.8) | 6 (1.3) |
 | Vomiting | 1 (0.6) | 0 (0.0) | 2 (0.5) | 8 (2.2) | 2 (0.8) | 5 (1.1) |
@@ -61,13 +61,13 @@ When the combination of sitagliptin and metformin was coadministered with a sulf
 Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required: Intent-to-treat population.
 (Regardless of Investigator Assessment of Causality) in Placebo-Controlled Clinical Studies of Sitagliptin in Combination with Metformin Coadministered with Glimepiride or Insulin
 
-| Add-On to Glimepiride + Metformin (24 weeks) | Sitagliptin 100 mg+ Metformin+ Glimepiride | Placebo+ Metformin+ Glimepiride |
+| Add-On to Glimepiride + Metformin (24 weeks) | Sitagliptin 100 mg + Metformin + Glimepiride | Placebo + Metformin + Glimepiride |
 | --- | --- | --- |
 |  | N = 116 | N = 113 |
 | Overall (%) | 19 (16.4) | 1 (0.9) |
 | Rate (episodes/patient-year)Based on total number of events (i.e., a single patient may have had multiple events). | 0.82 | 0.02 |
 | Severe (%)Severe events of hypoglycemia were defined as those events requiring medical assistance or exhibiting depressed level/loss of consciousness or seizure. | 0 (0.0) | 0 (0.0) |
-| Add-On to Insulin + Metformin (24 weeks) | Sitagliptin 100 mg+ Metformin+ Insulin | Placebo+ Metformin+ Insulin |
+| Add-On to Insulin + Metformin (24 weeks) | Sitagliptin 100 mg + Metformin + Insulin | Placebo + Metformin + Insulin |
 |  | N = 229 | N = 233 |
 | Overall (%) | 35 (15.3) | 19 (8.2) |
 | Rate (episodes/patient-year) | 0.98 | 0.61 |
@@ -115,4 +115,4 @@ Additional adverse reactions have been identified during postapproval use of JAN
 These reactions have been reported when JANUMET or sitagliptin have been used alone and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.14)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1); Warnings and Precautions (5.2)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; constipation; vomiting; headache; arthralgia; myalgia; pain in extremity; back pain; pruritus.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.14)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1); Warnings and Precautions (5.2)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.15)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus.

@@ -21,7 +21,7 @@ The decrease in body weight in the groups given sitagliptin in combination with 
 
 Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Inadequately Controlled on Diet and ExerciseIntent-to-treat population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
 
-|  | Placebo | Sitagliptin100 mg once daily | Metformin 500 mg twice daily | Metformin 1000 mg twice daily | Sitagliptin 50 mg twice daily + Metformin 500 mg twice daily | Sitagliptin 50 mg twice daily + Metformin 1000 mg twice daily |
+|  | Placebo | Sitagliptin 100 mg once daily | Metformin 500 mg twice daily | Metformin 1000 mg twice daily | Sitagliptin 50 mg twice daily + Metformin 500 mg twice daily | Sitagliptin 50 mg twice daily + Metformin 1000 mg twice daily |
 | --- | --- | --- | --- | --- | --- | --- |
 | A1C (%) | N = 165 | N = 175 | N = 178 | N = 177 | N = 183 | N = 178 |
 | Baseline (mean) | 8.7 | 8.9 | 8.9 | 8.7 | 8.8 | 8.8 |
@@ -113,9 +113,9 @@ There was no significant difference between sitagliptin and placebo in body weig
 
 Table 11: Glycemic Parameters at Week 18 for Sitagliptin in Add-on Combination Therapy with Metformin and RosiglitazoneIntent-to-treat population using last observation on study prior to glipizide (or other sulfonylurea) rescue therapy.
 
-|  | Week 18 |  |
-| --- | --- | --- |
 |  | Sitagliptin 100 mg + Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone |
+| --- | --- | --- |
+|  | Week 18 |  |
 | A1C (%) | N = 176 | N = 93 |
 | Baseline (mean) | 8.8 | 8.7 |
 | Change from baseline (adjusted meanLeast squares means adjusted for prior antihyperglycemic therapy status and baseline value.) | -1.0 | -0.4 |
@@ -149,7 +149,7 @@ There was an increased rate of hypoglycemia in patients treated with sitagliptin
 
 Table 12: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as Add-on Combination Therapy with Metformin and InsulinIntent-to-treat population using last observation on study prior to rescue therapy.
 
-|  | Sitagliptin 100 mg+ Metformin+ Insulin | Placebo+ Metformin+ Insulin |
+|  | Sitagliptin 100 mg + Metformin + Insulin | Placebo + Metformin + Insulin |
 | --- | --- | --- |
 | A1C (%) | N = 223 | N = 229 |
 | Baseline (mean) | 8.7 | 8.6 |

@@ -136,6 +136,14 @@ If a hypersensitivity reaction is suspected, discontinue JANUMET, assess for oth
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET.
 
-## 5.15 Macrovascular Outcomes
+## 5.15 Severe and Disabling Arthralgia
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
+The time to onset of symptoms following initiation of drug therapy varied from one day to years.
+Patients experienced relief of symptoms upon discontinuation of the medication.
+A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
+Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.16 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other anti-diabetic drug.
