@@ -5,7 +5,7 @@ There may be new information.
 This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 What are donepezil hydrochloride tablets?
-Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg.
+Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg, and 10 mg.
 Donepezil hydrochloride tablets are a prescription medicine to treat mild, moderate, and severe Alzheimer’s disease.
 Donepezil hydrochloride tablets can help with mental function and with doing daily tasks.
 Donepezil hydrochloride tablets do not work the same in all people.
@@ -36,9 +36,9 @@ Include:
 - Trouble swallowing tablets
 - Present pregnancy or plans to become pregnant.
   It is not known if donepezil hydrochloride tablets can harm an unborn baby.
-- Present breastfeeding.
+- Present breast-feeding.
   It is not known if donepezil hydrochloride passes into breast milk.
-  Donepezil hydrochloride tablets are not for women who are breastfeeding.
+  Donepezil hydrochloride tablets are not for women who are breast-feeding.
 
 Tell the doctor about all the medicines the patient takes, including prescription and non-prescription medicines, vitamins, and herbal products.
 Donepezil hydrochloride tablets and other medicines may affect each other.
@@ -63,7 +63,7 @@ How should the patient take donepezil hydrochloride tablets?
   Talk with the doctor first.
 - Give donepezil hydrochloride tablets one time each day.
   Donepezil hydrochloride tablets can be taken with or without food.
-- Donepezil hydrochloride tablets 23 mg should be swallowed whole without the tablets being split, crushed or chewed.
+- Donepezil hydrochloride tablets 23 mg should be swallowed whole without the tablets being split, crushed, or chewed.
 - If you miss giving the patient a dose of donepezil hydrochloride tablets, just wait.
   Give only the next dose at the usual time.
   Do not give 2 doses at the same time.
@@ -121,4 +121,4 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in donepezil hydrochloride tablets?
 Active ingredient: donepezil hydrochloride Inactive ingredients: hypromellose, lactose monohydrate, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (maize), talc, and titanium dioxide.
 In addition, the 10 mg tablets also contain yellow iron oxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 08/2015
