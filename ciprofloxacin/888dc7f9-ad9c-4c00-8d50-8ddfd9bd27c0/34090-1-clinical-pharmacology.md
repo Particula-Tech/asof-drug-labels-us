@@ -188,7 +188,7 @@ Bacillus anthracis
 
 Enterococcus faecalis
 
-Staphylococcus aureus(methicillin-susceptible isolates only)
+Staphylococcus aureus (methicillin-susceptible isolates only)
 
 Staphylococcus epidermidis (methicillin-susceptible isolates only)
 

@@ -118,7 +118,7 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 
 Changes in laboratory parameters while on CIPRO are listed below:
 
-Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+- Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
 Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 

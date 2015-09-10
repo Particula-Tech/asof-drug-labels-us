@@ -15,7 +15,7 @@ Table 1: Adult Dosage Guidelines
 | Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
 | Lower Respiratory Tract | 500–750 mg | every 12 hours | 7 to 14 days |
 | Acute Sinusitis | 500 mg | every 12 hours | 10 days |
-| Skin andSkin Structure | 500–750 mg | every 12 hours | 7 to 14 days |
+| Skin and Skin Structure | 500–750 mg | every 12 hours | 7 to 14 days |
 | Bone and Joint | 500–750 mg | every 12 hours | 4 to 8 weeks |
 | Complicated Intra–AbdominalUsed in conjunction with metronidazole. | 500 mg | every 12 hours | 7 to 14 days |
 | Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
@@ -120,3 +120,6 @@ Step 5: Write the expiration date of the re-constituted oral suspension on the b
 
 Reconstituted product may be stored below 30 °C (86°F) for 14 days.
 Protect from freezing.
+
+No additions should be made to the mixed final ciprofloxacin suspension.
+CIPRO Oral Suspension should not be administered through feeding or NG (nasogastric) tubes due to its physical characteristics.

@@ -67,7 +67,6 @@ Tendon rupture or swelling of the tendon (tendinitis).
   This can also happen with other tendons.
   Talk to your healthcare provider about the risk of tendon rupture with continued use of CIPRO.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
-
 - •Tendon rupture can happen while you are taking or after you have finished taking CIPRO.
   Tendon ruptures have happened up to several months after people have finished taking their fluoroquinolone.
 - •Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
@@ -203,7 +202,6 @@ How should I take CIPRO?
 - Taking all of your CIPRO doses will help make sure that all of the bacteria are killed.
   Taking all of your CIPRO doses will help lower the chance that the bacteria will become resistant to CIPRO.
   If you become resistant to CIPRO, CIPRO and other antibacterial medicines may not work for you in the future.
-
 - •If you take too much CIPRO, call your healthcare provider or get medical help right away.
 
 What should I avoid while taking CIPRO?
@@ -234,7 +232,6 @@ CIPRO may cause serious side effects, including:
 - Skin rash may happen in people taking CIPRO even after only 1 dose.
   Stop taking CIPRO at the first sign of a skin rash and call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to CIPRO.
-
 - •Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take CIPRO.
   Call your healthcare provider right away if you have unexplained symptoms such as:
@@ -251,14 +248,12 @@ CIPRO may cause serious side effects, including:
   - oyellowing of your skin or the whites of your eyes
 - Stop taking CIPRO and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to CIPRO (a liver problem).
-
 - •Central Nervous System (CNS) effects.
   Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including CIPRO.
   Tell your healthcare provider if you have a history of seizures.
   Ask your healthcare provider whether taking CIPRO will change your risk of having a seizure.
 - CNS side effects may happen as soon as after taking the first dose of CIPRO.
   Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
-
 - oseizures
 - ohear voices, see things, or sense things that are not there (hallucinations)
 - ofeel restless
@@ -272,7 +267,6 @@ CIPRO may cause serious side effects, including:
 - ofeel more suspicious (paranoia)
 - osuicidal thoughts or acts
 - oheadaches that will not go away, with or without blurred vision
-
 - •Intestine infection(Pseudomembranous colitis).
   Pseudomembranous colitis can happen with many antibacterial medicines, including CIPRO.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
@@ -287,7 +281,6 @@ CIPRO may cause serious side effects, including:
 - onumbness
 - oweakness
 - CIPRO may need to be stopped to prevent permanent nerve damage.
-
 - •Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   CIPRO may cause a rare heart problem known as prolongation of the QT interval.
@@ -300,7 +293,8 @@ CIPRO may cause serious side effects, including:
 - •Joint Problems.
   Increased chance of problems with joints and tissues around joints in children under 18 years old can happen.
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with CIPRO.
-- •Sensitivity to sunlight (photosensitivity).See “What should I avoid while taking CIPRO?”
+- •Sensitivity to sunlight (photosensitivity).
+  See “What should I avoid while taking CIPRO?”
 
 The most common side effects of CIPRO include:
 
@@ -321,7 +315,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store CIPRO?
 
 - CIPRO Tablets
-
 - •Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 CIPRO Oral Suspension
@@ -330,7 +323,6 @@ CIPRO Oral Suspension
 - •Do not freeze.
 - •After your CIPRO treatment is finished, safely throw away any unused oral suspension.
 - CIPRO XR
-
 - •Store CIPRO XR between 59°F to 86°F (15°C to 30°C).
 
 Keep CIPRO and all medicines out of the reach of children.
@@ -351,21 +343,17 @@ For more information call 1-888-842-2937.
 What are the ingredients in CIPRO?
 
 - CIPRO Tablets:
-
 - •Active ingredient: ciprofloxacin hydrochloride
 - •Inactiveingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
 - CIPRO Oral Suspension:
-
 - •Active ingredient: ciprofloxacin hydrochloride
 - •Inactive ingredients:
 - oMicrocapsules contains: povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20
 - oDiluent contains: medium-chain triglycerides, sucrose, soy-lecithin, water, and strawberry flavor
 - CIPRO XR:
-
 - •Active ingredient: ciprofloxacin hydrochloride
 - •Inactive ingredients: crospovidone, hypromellose, magnesium stearate, polyethylene glycol, silica colloidal anhydrous, succinic acid, and titanium dioxide
 - CIPRO IV:
-
 - •Active ingredient: ciprofloxacin
 - •Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
