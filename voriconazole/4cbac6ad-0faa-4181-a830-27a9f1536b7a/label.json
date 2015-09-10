@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA203503"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-572-13",
+    "68462-572-30",
+    "68462-572-90",
+    "68462-573-13",
+    "68462-573-30",
+    "68462-573-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "voriconazole",
+      "name": "voriconazole"
+    }
+  ],
+  "setid": "4cbac6ad-0faa-4181-a830-27a9f1536b7a",
+  "source": "dailymed"
+}
