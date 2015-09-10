@@ -6,11 +6,11 @@ Serious adverse reactions associated with hydromorphone hydrochloride include re
 
 The following serious adverse reactions described elsewhere in the labeling include:
 
-- Respiratory depression and secondary effects on intracranial pressure [see Warnings and Precautions (5.1, 5.6)].
-- Hypotension [see Warnings and Precautions (5.7)].
-- Gastrointestinal effects and effects in sphincter of Oddi [see Warnings and Precautions (5.8)].
-- Drug abuse, addiction, and dependence [see Drug Abuse and Dependence (9.2, 9.3)].
-- Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.11)].
+- •Respiratory depression and secondary effects on intracranial pressure [see Warnings and Precautions (5.1, 5.6)].
+- •Hypotension [see Warnings and Precautions (5.7)].
+- •Gastrointestinal effects and effects in sphincter of Oddi [see Warnings and Precautions (5.8)].
+- •Drug abuse, addiction, and dependence [see Drug Abuse and Dependence (9.2, 9.3)].
+- •Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.11)].
 
 The most common adverse effects are light-headedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.

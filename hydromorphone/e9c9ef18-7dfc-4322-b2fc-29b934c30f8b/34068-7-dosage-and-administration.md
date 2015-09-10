@@ -13,13 +13,13 @@ Opioid analgesics, including hydromorphone hydrochloride injection, have a narro
 Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment.
 Give attention to the following:
 
-- the age, general condition and medical status of the patient;
-- the patient's degree of opioid tolerance;
-- the daily dose, potency, and specific characteristics of the opioid the patient has been taking previously;
-- concurrent medications;
-- the type and severity of the patient’s pain;
-- risk factors for abuse or addiction; including whether the patient has a previous or current substance abuse problem, a family history of substance abuse, or a history of mental illness or depression;
-- the balance between pain control and adverse reactions
+- •the age, general condition and medical status of the patient;
+- •the patient's degree of opioid tolerance;
+- •the daily dose, potency, and specific characteristics of the opioid the patient has been taking previously;
+- •concurrent medications;
+- •the type and severity of the patient’s pain;
+- •risk factors for abuse or addiction; including whether the patient has a previous or current substance abuse problem, a family history of substance abuse, or a history of mental illness or depression;
+- •the balance between pain control and adverse reactions
 
 Periodic reassessment after the initial dosing of hydromorphone hydrochloride injection is required.
 If pain management is not satisfactory, and opioid-induced adverse events are tolerable, the hydromorphone dose may be increased gradually.
@@ -58,7 +58,7 @@ Divide the new total amount by number of doses permitted based on dosing interva
 Titrate the dose according to the patient's response.
 For opioids not in Table 1, first estimate the daily amount of morphine that is equivalent to the current total daily amount of other opioid(s) received, then use Table 1 to find the approximate equivalent total daily dose of hydromorphone injection.
 
-Table 1 OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY FOR CONVERSION TO HYDROMORPHONE INJECTION*
+Table 1 OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY FOR CONVERSION TO HYDROMORPHONE INJECTIONDosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain.
 
 | DRUG SUBSTANCE | PARENTERAL DOSE | ORAL DOSE |
 | --- | --- | --- |
@@ -70,7 +70,6 @@ Table 1 OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY FO
 | Methadone HCl | 10 mg | 10 – 20 mg |
 | Nalbuphine HCl | 10 – 12 mg | – |
 | Butorphanol tartrate | 1.5 – 2.5 mg | – |
-| * Dosages, and ranges of dosages represented, are a compilation of estimated equipotent dosages from published references comparing opioid analgesics in cancer and severe pain. |  |  |
 
 ## 2.8 Administration
 

@@ -11,25 +11,21 @@ Implementation of more effective accounting procedures and measures to restrict 
 
 ## 16.2 How Supplied
 
-Ampul, Box of 10, 1 mL (1 mg/mL); NDC 0409-2552-01
+| NDC No. | Container | Concentration | Fill | Quantity |
+| --- | --- | --- | --- | --- |
+| 0409-2552-01 | Ampul | 1 mg/mL | 1 mL | 10 ampuls per box |
+| 0409-3356-01 | Ampul | 2 mg/mL | 1 mL | 10 ampuls per box |
+| 0409-2540-01 | Ampul | 4 mg/mL | 1 mL | 10 ampuls per box |
+| 0409-3365-01 | Single Dose Vial | 2 mg/mL | 1 mL | 25 Vials per tray |
 
-Ampul, Box of 10, 1 mL (2 mg/mL); NDC 0409-3356-01
-
-Ampul, Box of 10, 1 mL (4 mg/mL); NDC 0409-2540-01
-
-Carpuject™, Single-dose Prefilled Syringe with Luer Lock, Box of 10, 1 mL (1 mg/mL); NDC 0409‑1283‑31
-
-Carpuject™, Single-dose Prefilled Syringe with Luer Lock, Box of 10, 1 mL (2 mg/mL); NDC 0409‑1312‑30
-
-Carpuject™, Single-dose Prefilled Syringe, with Luer Lock, Box of 10, 1 mL (4 mg/mL); NDC 0409‑1304‑31
-
-iSecure Single-dose Prefilled Syringe with Luer Lock, Box of 10, 0.5 mL (1 mg/mL); NDC 0409‑1283‑05
-
-iSecure Single-dose Prefilled Syringe with Luer Lock, Box of 10, 1 mL (1 mg/mL); NDC 0409‑1283‑10
-
-iSecure Single-dose Prefilled Syringe with Luer Lock, Box of 10, 1 mL (2 mg/mL); NDC 0409‑1312‑10
-
-Single Dose Vial, Tray of 25, 1 mL (2 mg/mL); NDC 0409‑3365‑01
+| Unit of Sale | Concentration | Unit of Use |
+| --- | --- | --- |
+| NDC 0409-1283-31Box of 10 | 1 mL (1 mg/mL) | NDC 0409-1283-03Carpuject, Single-dose Cartridge with Luer Lock for the Carpuject Syringe System |
+| NDC 0409-1312-30Box of 10 | 1 mL (2 mg/mL) | NDC 0409-1312-03Carpuject, Single-dose Cartridge with Luer Lock for the Carpuject Syringe System |
+| NDC 0409-1304-31Box of 10 | 1 mL (4 mg/mL) | NDC 0409-1304-03Carpuject, Single-dose Cartridge with Luer Lock for the Carpuject Syringe System |
+| NDC 0409-1283-05Box of 10 | 0.5 mL (1 mg/mL) | NDC 0409-1283-04iSecure Single-dose Prefilled Syringe with Luer Lock |
+| NDC 0409-1283-10Box of 10 | 1 mL (1 mg/mL) | NDC 0409-1283-09iSecure Single-dose Prefilled Syringe with Luer Lock |
+| NDC 0409-1312-10Box of 10 | 1 mL (2 mg/mL) | NDC 0409-1312-09iSecure Single-dose Prefilled Syringe with Luer Lock |
 
 ## 16.3 Storage
 
@@ -40,7 +36,7 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 ## 16.4 Instructions for Use of the Syringe Systems
 
-Instructions for using the Carpuject Syringe are available with the reusable Carpuject Holder, List 2049‑02.
+Instructions for using the Carpuject Syringe are available with the reusable Carpuject Holder, List 2049-02.
 
 To Use iSecure™ Syringe
 
@@ -50,10 +46,8 @@ To Use iSecure™ Syringe
 | Remove the plunger rod. |  |
 | Insert the plunger rod into the back end of the syringe barrel and turn clockwise 2 to 3 times to attach. |  |
 | BEFORE REMOVING LUER TIP CAP, hold the syringe with tip cap upright. Press syringe plunger until plunger moves slightly. This motion breaks the seal between plunger and syringe barrel. |  |
-| 3. Twist the luer tip cap clockwise or counterclockwise to break the tamper evident label. Remove the luer tip cap and discard it. Expel the air by pushing on the plunger rod. Attach needle or blunt cannula if required. |  |
+| 3. Twist the luer tip cap clockwise or counterclockwise to break the tamper evident label. Remove the luer tip cap and discard it.Expel the air by pushing on the plunger rod.Attach needle or blunt cannula if required. |  |
 
-Revised: 11/2011
-
-EN-3048
+EN-4015
 
 Hospira, Inc., Lake Forest, IL 60045 USA
