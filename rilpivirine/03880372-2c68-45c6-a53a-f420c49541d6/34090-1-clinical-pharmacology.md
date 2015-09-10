@@ -21,7 +21,7 @@ Pharmacokinetics in Adults
 The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naïve HIV-1-infected subjects.
 Exposure to rilpivirine was generally lower in HIV-1 infected subjects than in healthy subjects.
 
-Table 5: Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in Antiretroviral Treatment-Naïve HIV-1-Infected Subjects (Pooled Data from Phase 3 Trials through Week 96)
+Table 5: Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Pooled Data from Phase 3 Trials through Week 96)
 
 | Parameter | Rilpivirine 25 mg once daily N = 679 |
 | --- | --- |
@@ -90,7 +90,21 @@ Population pharmacokinetic analysis of rilpivirine in HIV-infected patients indi
 
 Pediatric Patients
 
-The pharmacokinetics and dosing recommendations of rilpivirine in pediatric patients have not been established [see Use in Specific Populations (8.4)].
+The pharmacokinetics of rilpivirine in antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age receiving EDURANT 25 mg once daily were comparable to those in treatment-naïve HIV-1 infected adults receiving EDURANT 25 mg once daily.
+There was no clinically significant impact of body weight on rilpivirine pharmacokinetics in pediatric subjects in trial C213 (33 to 93 kg).
+
+Table 6: Population Pharmacokinetic Estimates of Rilpivirine 25 mg once daily in Antiretroviral Treatment-Naïve HIV-1-Infected Pediatric Subjects aged 12 to less than 18 years (Data from Phase 2 Trial through Week 48)
+
+| Parameter | Rilpivirine 25 mg once daily N = 34 |
+| --- | --- |
+| AUC24h (ng∙h/mL) |  |
+| Mean ± Standard Deviation | 2424 ± 1024 |
+| Median (Range) | 2269 (417 – 5166) |
+| C0h (ng/mL) |  |
+| Mean ± Standard Deviation | 85 ± 40 |
+| Median (Range) | 79 (7 – 202) |
+
+The pharmacokinetics and dosing recommendations of rilpivirine in pediatric patients less than 12 years of age have not been established [see Use in Specific Populations (8.4)].
 
 Drug Interactions
 
@@ -104,11 +118,11 @@ Co-administration of EDURANT with drugs that increase gastric pH may result in d
 EDURANT at a dose of 25 mg q.d. is not likely to have a clinically relevant effect on the exposure of medicinal products metabolised by CYP enzymes.
 
 Drug interaction studies were performed with EDURANT and other drugs likely to be co-administered or commonly used as probes for pharmacokinetic interactions.
-The effects of co-administration of other drugs on the Cmax, AUC, and Cmin values of rilpivirine are summarized in Table 6 (effect of other drugs on EDURANT).
-The effect of co-administration of EDURANT on the Cmax, AUC, and Cmin values of other drugs are summarized in Table 7 (effect of EDURANT on other drugs).
+The effects of co-administration of other drugs on the Cmax, AUC, and Cmin values of rilpivirine are summarized in Table 7 (effect of other drugs on EDURANT).
+The effect of co-administration of EDURANT on the Cmax, AUC, and Cmin values of other drugs are summarized in Table 8 (effect of EDURANT on other drugs).
 [For information regarding clinical recommendations, see Drug Interactions (7).]
 
-Table 6: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Presence of Co-administered Drugs
+Table 7: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Presence of Co-administered Drugs
 
 | Co-administered Drug | Rilpivirine | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -141,7 +155,7 @@ Table 6: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Pr
 | Sildenafil | 50 mg single dose | 75 mg q.d. | 16 | 0.92 (0.85–0.99) | 0.98 (0.92–1.05) | 1.04 (0.98–1.09) |
 | CI = Confidence Interval; N = maximum number of subjects with data; N.A. = not available; ↑ = increase; ↓ = decrease; ↔ = no change; q.d. = once daily; b.i.d. = twice daily |  |  |  |  |  |  |
 
-Table 7: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of EDURANT
+Table 8: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of EDURANT
 
 | Co-administered Drug | Rilpivirine | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -188,7 +202,7 @@ Antiviral Activity in Cell Culture
 Rilpivirine exhibited activity against laboratory strains of wild-type HIV-1 in an acutely infected T-cell line with a median EC50 value for HIV-1IIIB of 0.73 nM (0.27 ng/mL).
 Rilpivirine demonstrated limited activity in cell culture against HIV-2 with a median EC50 value of 5220 nM (range 2510 to 10830 nM) (920 to 3970 ng/mL).
 
-Rilpivirine demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 to 1.01 nM (0.03 to 0.37 ng/mL) and was less active against group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/ml).
+Rilpivirine demonstrated antiviral activity against a broad panel of HIV-1 group M (subtype A, B, C, D, F, G, H) primary isolates with EC50 values ranging from 0.07 to 1.01 nM (0.03 to 0.37 ng/mL) and was less active against group O primary isolates with EC50 values ranging from 2.88 to 8.45 nM (1.06 to 3.10 ng/mL).
 
 The antiviral activity of rilpivirine was not antagonistic when combined with the NNRTIs efavirenz, etravirine or nevirapine; the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir or zidovudine; the PIs amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir or tipranavir; the fusion inhibitor enfuvirtide; the CCR5 co-receptor antagonist maraviroc, or the integrase strand transfer inhibitor raltegravir.
 
@@ -199,7 +213,7 @@ In Cell Culture
 Rilpivirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes as well as NNRTI resistant HIV-1.
 The frequently observed amino acid substitutions that emerged and conferred decreased phenotypic susceptibility to rilpivirine included: L100I, K101E, V106I and A, V108I, E138K and G, Q, R, V179F and I, Y181C and I, V189I, G190E, H221Y, F227C and M230I and L.
 
-In Treatment-Naïve Subjects
+In Treatment-Naïve Adult Subjects
 
 In the Week 96 pooled resistance analysis of the Phase 3 trials C209 and C215, the emergence of resistance was greater among subjects' viruses in the EDURANT arm compared to the efavirenz arm, and was dependent on baseline viral load.
 In the pooled resistance analysis, 58% (57/98) of the subjects who qualified for resistance analysis (resistance analysis subjects) in the EDURANT arm had virus with genotypic and/or phenotypic resistance to rilpivirine compared to 45% (25/56) of the resistance analysis subjects in the efavirenz arm who had genotypic and/or phenotypic resistance to efavirenz.
@@ -207,13 +221,13 @@ Moreover, genotypic and/or phenotypic resistance to a background drug (emtricita
 
 Emerging NNRTI substitutions in the rilpivirine resistance analysis of subjects' viruses included V90I, K101E/P/T, E138K/A/Q/G, V179I/L, Y181C/I, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6 – 621.
 The E138K substitution emerged most frequently during rilpivirine treatment commonly in combination with the M184I substitution.
-The emtricitabine and lamivudine resistance-associated substitutions M184I or V and NRTI resistance-associated substitutions (K65R/N, A62V, D67N/G, K70E, Y115F, T215S/T, or K219E/R) emerged more frequently in rilpivirine resistance analysis subjects compared to efavirenz resistance analysis subjects (see Table 8).
+The emtricitabine and lamivudine resistance-associated substitutions M184I or V and NRTI resistance-associated substitutions (K65R/N, A62V, D67N/G, K70E, Y115F, T215S/T, or K219E/R) emerged more frequently in rilpivirine resistance analysis subjects compared to efavirenz resistance analysis subjects (see Table 9).
 
 NNRTI- and NRTI-resistance substitutions emerged less frequently in resistance analysis of viruses from subjects with baseline viral load of ≤ 100,000 copies/mL compared to viruses from subjects with baseline viral load of > 100,000 copies/mL: 26% (14/54) compared to 74% (40/54) of NNRTI-resistance substitutions and 22% (11/50) compared to 78% (39/50) of NRTI-resistance substitutions.
 This difference was also observed for the individual emtricitabine/lamivudine and tenofovir resistance substitutions: 23% (11/47) compared to 77% (36/47) for M184I/V and 0% (0/8) compared to 100% (8/8) for K65R/N.
 Additionally, NNRTI- and NRTI-resistance substitutions emerged less frequently in the resistance analysis of viruses from subjects with baseline CD4+ cell counts ≥ 200 cells/mm3 compared to viruses from subjects with baseline CD4+ cell counts < 200 cells/mm3: 37% (20/54) compared to 63% (34/54) of NNRTI-resistance substitutions and 28% (14/50) compared to 72% (36/50) of NRTI-resistance substitutions.
 
-Table 8: Proportion of Resistance Analysis SubjectsSubjects who qualified for resistance analysis. with Frequently Emerging Reverse Transcriptase Substitutions from the Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
+Table 9: Proportion of Resistance Analysis SubjectsSubjects who qualified for resistance analysis. with Frequently Emerging Reverse Transcriptase Substitutions from the Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
 
 |  | EDURANT + BR N = 686 | Efavirenz + BR N = 682 |
 | --- | --- | --- |
@@ -249,7 +263,7 @@ The K103N substitution did not result in reduced susceptibility to rilpivirine b
 However, the combination of K103N and L100I resulted in a 7-fold reduced susceptibility to rilpivirine.
 Combinations of 2 or 3 NNRTI resistance-associated substitutions had decreased susceptibility to rilpivirine (fold change range of 3.7 – 554) in 38% and 66% of mutants analyzed, respectively.
 
-Treatment-naïve HIV-1-infected subjects
+Treatment-naïve HIV-1-infected adult subjects
 
 Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I or M230L.
 

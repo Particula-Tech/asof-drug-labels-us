@@ -24,7 +24,10 @@ Because of both the potential for HIV transmission and the potential for adverse
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open-label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Adverse Reactions (6.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Please see Dosage and Administration (2) for dosing recommendations for pediatric patients 12 years of age and older.
+
+Safety and effectiveness in pediatric patients less than 12 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

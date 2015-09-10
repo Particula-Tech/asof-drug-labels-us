@@ -6,7 +6,7 @@ The following adverse drug reactions (ADRs) are discussed in greater detail in o
 - Depressive Disorders [see Warnings and Precautions (5.3)]
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trials Experience: Adults
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -113,10 +113,12 @@ Table 2: Selected Treatment-Emergent Changes in Laboratory Parameters (Grades 1 
 
 Adrenal Function
 
-In the pooled Phase 3 trials, at Week 96, there was an overall mean change from baseline in basal cortisol of -19.1 (-30.85; -7.37) nmol/L in the EDURANT group and of -0.6 (-13.29; 12.17) nmol/L in the efavirenz group.
-At Week 96, the mean change from baseline in ACTH-stimulated cortisol levels was lower in the EDURANT group (+18.4 ± 8.36 nmol/L) than in the efavirenz group (+54.1 ± 7.24 nmol/L).
-Mean values for both basal and ACTH-stimulated cortisol values at Week 96 were within the normal range.
+In the pooled Phase 3 trials, at Week 96, there was an overall mean change from baseline in basal cortisol of -0.69 (-1.12, 0.27) micrograms/dL in the EDURANT group and of -0.02 (-0.48, 0.44) micrograms/dL in the efavirenz group.
+
+In the EDURANT group, 43/588 (7.3%) of subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level < 18.1 micrograms/dL) during the trial compared to 18/561 (3.2%) in the efavirenz group.
+Of the subjects who developed an abnormal 250 micrograms ACTH stimulation test during the trial, fourteen subjects in the EDURANT group and nine subjects in the efavirenz group had an abnormal 250 micrograms ACTH stimulation test at Week 96.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
+The clinical significance of the higher abnormal rate of 250 micrograms ACTH stimulation tests in the EDURANT group is not known.
 
 Serum Creatinine
 
@@ -150,7 +152,29 @@ In subjects co-infected with hepatitis B or C virus receiving EDURANT, the incid
 This observation was the same in the efavirenz arm.
 The pharmacokinetic exposure of rilpivirine in co-infected subjects was comparable to that in subjects without co-infection.
 
-## 6.2 Postmarketing Experience
+## 6.2 Clinical Trials Experience: Pediatric Patients
+
+The safety assessment is based on the Week 48 analysis of the single-arm, open-label, Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received EDURANT (25 mg once daily) in combination with other antiretroviral agents [see Clinical Studies (14.2)].
+The median duration of exposure was 63.5 weeks.
+There were no patients who discontinued treatment due to ADRs.
+No new ADRs were identified compared to those seen in adults.
+
+ADRs were reported in nineteen pediatric subjects (52.8%).
+Most ADRs were Grade 1 or 2.
+The most common ADRs reported in at least 2 subjects (regardless of severity) include headache (19.4%), depression (19.4%), somnolence (13.9%), nausea (11.1%), dizziness (8.3%), abdominal pain (8.3), vomiting (5.6%) and rash (5.6%).
+
+Observed laboratory abnormalities were comparable to those in adults.
+
+Adrenal Function
+
+In trial TMC278 C213, at Week 48, the overall mean change from baseline in basal cortisol showed an increase of 1.59 (0.24, 2.93) micrograms/dL.
+
+Six of 30 (20%) subjects with a normal 250 micrograms ACTH stimulation test at baseline developed an abnormal 250 micrograms ACTH stimulation test (peak cortisol level < 18.1 micrograms/dL) during the trial.
+Three of these subjects had an abnormal 250 micrograms ACTH stimulation test at Week 48.
+Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
+The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
+
+## 6.3 Postmarketing Experience
 
 Adverse reactions have been identified during postmarketing experience in patients receiving a rilpivirine containing regimen.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

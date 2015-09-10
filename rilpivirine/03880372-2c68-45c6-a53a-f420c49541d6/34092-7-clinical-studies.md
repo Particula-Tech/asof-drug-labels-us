@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Treatment-Naïve Subjects
+## 14.1 Treatment-Naïve Adult Subjects
 
 The evidence of efficacy of EDURANT is based on the analyses of 48- and 96-week data from 2 randomized, double-blinded, active controlled, Phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naïve adults.
 Antiretroviral treatment-naïve HIV-1 infected subjects enrolled in the Phase 3 trials had a plasma HIV-1 RNA ≥ 5000 copies/mL and were screened for susceptibility to N(t)RTIs and for absence of specific NNRTI RAMs.
@@ -11,9 +11,9 @@ In both trials, randomization was stratified by screening viral load.
 In TMC278-C215, randomization was also stratified by N(t)RTI BR.
 
 In the pooled analysis for TMC278-C209 and TMC278-C215, demographics and baseline characteristics were balanced between the EDURANT arm and the efavirenz arm.
-Table 9 displays selected demographic and baseline disease characteristics of the subjects in the EDURANT and efavirenz arms.
+Table 10 displays selected demographic and baseline disease characteristics of the subjects in the EDURANT and efavirenz arms.
 
-Table 9: Demographic and Baseline Disease Characteristics of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects in the TMC278-C209 and TMC278-C215 Trials (Pooled Analysis)
+Table 10: Demographic and Baseline Disease Characteristics of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects in the TMC278-C209 and TMC278-C215 Trials (Pooled Analysis)
 
 |  | EDURANT + BR N=686 | Efavirenz + BR N=682 |
 | --- | --- | --- |
@@ -44,11 +44,11 @@ Table 9: Demographic and Baseline Disease Characteristics of Antiretroviral Trea
 | abacavir plus lamivudine | 5% | 5% |
 | BR=background regimen |  |  |
 
-Week 96 efficacy outcomes for subjects treated with EDURANT 25 mg once daily from the pooled analysis are shown in Table 10.
+Week 96 efficacy outcomes for subjects treated with EDURANT 25 mg once daily from the pooled analysis are shown in Table 11.
 The incidence of virologic failure was higher in the EDURANT arm than the efavirenz arm at Week 96.
 Virologic failures and discontinuations due to adverse events mostly occurred in the first 48 weeks of treatment.
 
-Table 10: Virologic Outcome of Randomized Treatment of Studies TMC278-C209 and TMC278-C215 (Pooled Data) at Week 96
+Table 11: Virologic Outcome of Randomized Treatment of Studies TMC278-C209 and TMC278-C215 (Pooled Data) at Week 96
 
 |  | EDURANT + BR N=686 | Efavirenz + BR N=682 |
 | --- | --- | --- |
@@ -86,3 +86,16 @@ At 96 weeks, the proportion of subjects with <50 HIV-1 RNA copies/ml receiving E
 The mean increase from baseline in CD4+ counts was 146 cells/mm3 in subjects receiving EDURANT 25 mg and 160 cells/mm3 in subjects receiving efavirenz.
 
 At 240 weeks, 60% (56/93) of subjects who originally received 25 mg once daily achieved HIV RNA < 50 copies/mL compared to 57% (51/89) of subjects in the control group.
+
+## 14.2 Treatment-Naïve Pediatric Subjects (12 to less than 18 years of age)
+
+The pharmacokinetics, safety, tolerability and efficacy of EDURANT 25 mg once daily, in combination with an investigator-selected background regimen (BR) containing two NRTIs, was evaluated in trial TMC278-C213, a single-arm, open-label Phase 2 trial in antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg.
+Thirty six (36) subjects were enrolled in the trial to complete at least 48 weeks of treatment.
+The 36 subjects had a median age of 14.5 years (range: 12 to 17 years), and were 55.6% female, 88.9% Black and 11.1% Asian.
+
+In the efficacy analysis, most subjects (75%; 28/36) had baseline HIV RNA <100,000 copies/mL.
+For these 28 subjects the median baseline plasma HIV-1 RNA was 44,250 (range: 2,060–92,600 copies/mL) and the median baseline CD4+ cell count was 445.5 cells/mm3 (range: 123 to 983 cells/mm3).
+
+Among the subjects who had baseline HIV RNA ≤ 100,000, the proportion with HIV-1 RNA <50 copies/mL at Week 48 was 79% (22/28), versus 50.0% (4/8) in those with >100,000 copies/mL.
+The proportion of virologic failures among subjects with a baseline viral load ≤100,000 copies/mL was 21.4% (6/28), versus 37.5% (3/8) in those with >100,000 copies/mL.
+At Week 48, the mean increase in CD4+ cell count from baseline was 201.2 cells/mm3.
