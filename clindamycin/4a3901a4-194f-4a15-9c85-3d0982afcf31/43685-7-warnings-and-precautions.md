@@ -32,7 +32,7 @@ CLEOCIN T should be prescribed with caution in atopic individuals.
 
 ## Drug Interactions
 
-Systemic clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
+Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore it should be used with caution in patients receiving such agents.
 
 ## Pregnancy
