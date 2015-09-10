@@ -2,8 +2,8 @@
 
 ## 5.1 Allergic and Skin Reactions
 
-Serious allergic reactions, including angioedema, anaphylaxis, Stevens Johnson syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported rarely in patients on azithromycin therapy using other formulations.
-Although rare, fatalities have been reported.
+Serious allergic reactions, including angioedema, anaphylaxis, Stevens Johnson syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients on azithromycin therapy using other formulations.
+Fatalities have been reported.
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent exposure to antigen has not been determined.
@@ -16,7 +16,19 @@ Physicians should be aware that reappearance of the allergic symptoms may occur 
 Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
 Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
 
-## 5.3 Clostridium difficile-Associated Diarrhea
+## 5.3 QT Prolongation
+
+Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with macrolides, including azithromycin.
+Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
+Providers should consider the risk of QT prolongation which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
+
+- patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
+- patients on drugs known to prolong the QT interval
+- patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents
+
+Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+
+## 5.4 Clostridium difficile-Associated Diarrhea (CDAD)
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Zmax, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -29,25 +41,14 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.4 Exacerbation of Myasthenia Gravis
+## 5.5 Exacerbation of Myasthenia Gravis
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.5 QT Prolongation
-
-Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with macrolides, including azithromycin.
-Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
-Providers should consider the risk of QT prolongation which can be fatal when weighing the risks and benefits of azithromycin for at-risk groups including:
-
-- patients with known prolongation of the QT interval, a history of torsades de pointes, congenital long QT syndrome, bradyarrhythmias or uncompensated heart failure
-- patients on drugs known to prolong the QT interval
-- patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
-
-Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-
 ## 5.6 Gastrointestinal Disturbances
 
-A higher incidence of gastrointestinal adverse events (8 of 19 subjects) was observed when Zmax was administered to a limited number of subjects with GFR< 10 mL/min [See Use in Specific Populations (8.6)]
+A higher incidence of gastrointestinal adverse events (8 of 19 subjects) was observed when Zmax was administered to a limited number of subjects with GFR<10 mL/min.
+[See Use in Specific Populations (8.6)]
 
 ## 5.7 Development of Drug Resistant Bacteria
 

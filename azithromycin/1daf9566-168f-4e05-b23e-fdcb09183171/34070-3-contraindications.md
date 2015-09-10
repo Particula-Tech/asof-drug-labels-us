@@ -2,7 +2,7 @@
 
 ## 4.1 Hypersensitivity Reactions
 
-Zmax is contraindicated in patients with known hypersensitivity to azithromycin, erythromycin or any macrolide or ketolide antibiotic.
+Zmax is contraindicated in patients with known hypersensitivity to azithromycin, erythromycin or any macrolide or ketolide drug.
 
 ## 4.2 Cholestatic Jaundice/Hepatic Dysfunction
 

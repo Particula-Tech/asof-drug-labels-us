@@ -4,14 +4,14 @@
 
 Teratogenic Effects.
 Pregnancy Category B: Reproduction studies have been performed in rats and mice at doses up to moderately maternally toxic dose concentrations (i.e., 200 mg/kg/day).
-These daily doses in rats and mice, based on mg/m2, are estimated to be approximately equivalent to one or one-half of, respectively, the single adult oral dose of 2 g. In the animal studies, no evidence of harm to the fetus due to azithromycin was found.
+These daily doses in rats and mice, based on body surface area, are estimated to be approximately equivalent to one or one-half of, respectively, the single adult oral dose of 2 g. In the animal studies, no evidence of harm to the fetus due to azithromycin was found.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, azithromycin should be used during pregnancy only if clearly needed.
 
 ## 8.3 Nursing Mothers
 
-It is not known whether azithromycin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when azithromycin is administered to a nursing woman.
+Azithromycin has been reported to be excreted in human breast milk in small amounts.
+Caution should be exercised when azithromycin is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
@@ -30,7 +30,7 @@ Data collected from the azithromycin capsule and tablet formulations indicate th
 In clinical trials of Zmax, 17% of subjects were at least 65 years of age (214/1292) and 5% of subjects (59/1292) were at least 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmia than younger patients.
-[See Warnings and Precautions (5.5)].
+[See Warnings and Precautions (5.3)]
 
 ## 8.6 Renal Impairment
 

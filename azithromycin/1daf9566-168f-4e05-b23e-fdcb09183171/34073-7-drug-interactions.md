@@ -1,6 +1,18 @@
 # 7 DRUG INTERACTIONS
 
-Warfarin
+## 7.1 Nelfinavir
 
-Although, in a study of 22 healthy men, a 5-day course of azithromycin did not affect the prothrombin time from a subsequently administered dose of warfarin, spontaneous post-marketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants.
+Co-administration of nelfinavir at steady-state with a single oral dose of azithromycin resulted in increased azithromycin serum concentrations.
+Although a dose adjustment of azithromycin is not recommended when administered in combination with nelfinavir, close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted.
+[see Adverse Reactions (6)]
+
+## 7.2 Warfarin
+
+Spontaneous post-marketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants such as warfarin, although the prothrombin time was not affected in the dedicated drug interaction study with azithromycin and warfarin.
 Prothrombin times should be carefully monitored while patients are receiving azithromycin and oral anticoagulants concomitantly.
+
+## 7.3 Potential Drug-Drug Interactions with Macrolides
+
+Interactions with digoxin or phenytoin have not been reported in clinical trials with azithromycin; however, no specific drug interaction studies have been performed to evaluate potential drug-drug interactions.
+However, drug interactions have been observed with other macrolide products.
+Until further data are developed regarding drug interactions when digoxin or phenytoin are used concomitantly with azithromycin careful monitoring of patients is advised.

@@ -2,7 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Azithromycin is an antimicrobial agent [See Clinical Pharmacology (12.4)]
+Azithromycin is a macrolide antibacterial drug.
+[See Clinical Pharmacology (12.4)]
 
 ## 12.2 Pharmacodynamics
 
@@ -27,9 +28,10 @@ Mean (SD) Pharmacokinetic Parameters for Azithromycin on Day 1 Following the Adm
 | Cmax (mcg/mL) | 0.821 (0.281) | 0.441 (0.223) | 0.434 (0.202) |
 | TmaxMedian (range) (hr) | 5.0 (2.0–8.0) | 2.5 (1.0–4.0) | 2.5 (1.0–6.0) |
 | AUC0–24 (mcg∙hr/mL) | 8.62 (2.34) | 2.58 (0.84) | 2.60 (0.71) |
-| AUC0–∞Total AUC for the 1-day, 3-day and 5-day regimens (mcg∙hr/mL) | 20.0 (6.66) | 17.4 (6.2) | 14.9 (3.1) |
+| AUC0–∞ (mcg∙hr/mL) | 20.0 (6.66) | 17.4 (6.2) | 14.9 (3.1) |
 | t1/2 (hr) | 58.8 (6.91) | 71.8 (14.7) | 68.9 (13.8) |
 | SD = standard deviation Cmax = maximum serum concentration Tmax = time to Cmax AUC = area under concentration vs. time curve t1/2 = terminal serum half-life |  |  |  |
+| ¶ Total AUC for the 1-day, 3-day and 5-day regimens |  |  |  |
 
 Absorption
 
@@ -82,16 +84,16 @@ Serum azithromycin concentrations following a single 2 g dose of Zmax declined i
 Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
 Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.
 
-Special Populations
+Specific Populations
 
-Renal Impairment
+Renal Insufficiency
 
 Azithromycin pharmacokinetics were investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
 Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0–120 were 5.1% and 4.2% higher, respectively in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function (GFR >80 mL/min).
 The mean Cmax and AUC0–120 were 61% and 35% higher, respectively in subjects with GFR <10 mL/min compared to subjects with normal renal function.
-(See Renal Impairment (8.6).)
+[See Use in Specific Populations Renal Impairment (8.6)]
 
-Hepatic Impairment
+Hepatic Insufficiency
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
@@ -99,7 +101,7 @@ Pediatric Patients
 
 The pharmacokinetics of azithromycin were characterized following a single 60 mg/kg dose of Zmax in pediatric patients aged 3 months to 16 years.
 Although there was high inter-patient variability in systemic exposure (AUC and Cmax) across the age groups studied, individual azithromycin AUC and Cmax values in pediatric patients were comparable to or higher than those following administration of 2 g Zmax in adults (Table 4).
-(See Pediatric Use (8.4).)
+[See Use in Specific Populations (8.4)]
 
 Table 4.
 Mean (SD) Pharmacokinetic Parameters for Azithromycin Following Administration of a Single Dose of Zmax (60 mg/kg, maximum dose of 2 g) to Pediatric Subjects Aged 3 Months to 16 Years
@@ -145,22 +147,22 @@ Drug Interactions: Pharmacokinetic Parameters of Co-administered Drugs in the Pr
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug | Dose of AzithromycinRefers to azithromycin capsules and tablets unless specified | n | Ratio (with/without Azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
-| Atorvastatin | 10 mg/day × 8 days | 500 mg/day PO on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
-| Carbamazepine | 200 mg/day × 2 days, then 200 mg BID × 18 days | 500 mg/day PO for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
-| Cetirizine | 20 mg/day × 11 days | 500 mg PO on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
-| Didanosine | 200 mg PO BID × 21 days | 1,200 mg/day PO on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
-| Efavirenz | 400 mg/day × 7 days | 600 mg PO on day 7 | 14 | 1.0490% confidence interval not reported | 0.95 |
-| Fluconazole | 200 mg PO single dose | 1,200 mg PO single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
-| Indinavir | 800 mg TID × 5 days | 1,200 mg PO on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
-| Midazolam | 15 mg PO on day 3 | 500 mg/day PO × 3 days | 12 | 1.27 (0.89 to 1.81) | 1.26 (1.01 to 1.56) |
-| Nelfinavir | 750 mg TID × 11 days | 1,200 mg PO on day 9 | 14 | 0.90 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
-| Sildenafil | 100 mg on days 1 and 4 | 500 mg/day PO × 3 days | 12 | 1.16 (0.86 to 1.57) | 0.92 (0.75 to 1.12) |
-| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg PO on day 7, then 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
-| Theophylline | 300 mg PO BID × 15 days | 500 mg PO on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
-| Triazolam | 0.125 mg on day 2 | 500 mg PO on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day PO × 7 days | 1,200 mg PO on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95)/ 0.96 (0.88 to 1.03) |
-| Zidovudine | 500 mg/day PO × 21 days | 600 mg/day PO × 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
-| Zidovudine | 500 mg/day PO × 21 days | 1,200 mg/day PO × 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
+| Atorvastatin | 10 mg/day for 8 days | 500 mg/day orally on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
+| Carbamazepine | 200 mg/day for 2 days, then 200 mg twice a day for 18 days | 500 mg/day orally for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
+| Cetirizine | 20 mg/day for 11 days | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
+| Didanosine | 200 mg orally twice a day for 21 days | 1,200 mg/day orally on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
+| Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.0490% confidence interval not reported | 0.95 |
+| Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
+| Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
+| Midazolam | 15 mg orally on day 3 | 500 mg/day orally for 3 days | 12 | 1.27 (0.89 to 1.81) | 1.26 (1.01 to 1.56) |
+| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.90 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
+| Sildenafil | 100 mg on days 1 and 4 | 500 mg/day orally for 3 days | 12 | 1.16 (0.86 to 1.57) | 0.92 (0.75 to 1.12) |
+| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
+| Theophylline | 300 mg orally twice a day for 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
+| Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95)/ 0.96 (0.88 to 1.03) |
+| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day oraly for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
+| Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
 Table 6.
 Drug Interactions: Pharmacokinetic Parameters of Azithromycin in the Presence of Co-administered Drugs
@@ -168,23 +170,25 @@ Drug Interactions: Pharmacokinetic Parameters of Azithromycin in the Presence of
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug | Dose of AzithromycinRefers to azithromycin capsules and tablets unless specified | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
-| Efavirenz | 400 mg/day × 7 days | 600 mg PO on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.9290% confidence interval not reported |
-| Fluconazole | 200 mg PO single dose | 1,200 mg PO single dose | 18 | 0.82 (0.66 to 1.02) | 1.07 (0.94 to 1.22) |
-| Nelfinavir | 750 mg TID × 11 days | 1,200 mg PO on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.50) |
+| Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.9290% confidence interval not reported |
+| Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 0.82 (0.66 to 1.02) | 1.07 (0.94 to 1.22) |
+| Nelfinavir | 750 mg three times a day 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.50) |
 | Aluminum and Magnesium hydroxide | 20 mL regular strength, single dose | 2 g Zmax, single dose | 39 | 0.99 (0.93 to 1.06) | 0.99 (0.92 to 1.08) |
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
-Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms and interferes with bacterial protein synthesis.
-Nucleic acid synthesis is not affected.
+Azithromycin binds to the 23S rRNA of the 50S ribosomal subunit and interferes with bacterial protein synthesis by impeding the assembly of the 50S ribosomal subunit.
 
-Cross Resistance
+Resistance
 
-Azithromycin demonstrates cross-resistance with erythromycin-resistant Gram-positive isolates.
+Azithromycin demonstrates cross resistance with erythromycin.
+The most frequently encountered mechanism of resistance to azithromycin is modification of the 23S rRNA target, most often by methylation.
+Ribosomal modifications can determine cross resistance to other macrolides, lincosamides and streptogramin B (MLSB phenotype).
 
-Azithromycin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in [see Indications and Usage (1)].
+Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
+[See Indications and Usage (1)].
 
 Gram-Positive Bacteria
 
@@ -198,27 +202,27 @@ Moraxella catarrhalis
 
 "Other" Bacteria
 
-Chlamydia pneumoniae
+Chlamydophila pneumoniae
 
 Mycoplasma pneumoniae
 
 Susceptibility Testing Methods
 
-When available, clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
 Dilution Techniques
 
 Quantitative methods are used to determine minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 1,3,4 (broth and/or agar).
-The MIC values should be interpreted according to criteria provided in Table 1.
+The MICs should be determined using a standardized test method 1,3,4 (broth or agar).
+The MIC values should be interpreted according to criteria provided in Table 7.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using standardized methods 2,3,4.
+The zone size should be determined using a standardized method 2,3,4.
 This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
 The disk diffusion interpretive criteria are provided in Table 7.
 
@@ -228,14 +232,14 @@ Table 7: Susceptibility Interpretive Criteria for Azithromycin
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | Haemophilus influenzaeInsufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤4 | - | - | ≥12 | - | - |
-| Streptococcus pneumoniae | ≤0.5 | 1 | ≥2 | ≥18 | 14–17 | ≤13 |
 | Moraxella catarrhalis | ≤0.25 | - | - | ≥26 | - | - |
+| Streptococcus pneumoniae | ≤0.5 | 1 | ≥2 | ≥18 | 14–17 | ≤13 |
 
-A report of "Susceptible" indicates that the pathogen is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
-A report of "Intermediate" indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration at the site of infection.
+A report of "Intermediate" (I) indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+A report of "Resistant" (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
@@ -247,11 +251,8 @@ Table 8: Acceptable Quality Control Ranges for Susceptibility Testing
 
 | Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
 | --- | --- | --- |
+| Haemophilus Influenzae ATCC 49247 | 1–4 | 13–21 |
 | Staphylococcus aureus ATCC 25923 | Not Applicable | 21–26 |
 | Staphylococcus aureus ATCC 29213 | 0.5–2 | Not Applicable |
-| Haemophilus Influenzae ATCC 49247 | 1.0–4.0 | 13–21 |
 | Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 19–25 |
 | ATCC = American Type Culture Collection |  |  |
-
-The ability to correlate MIC values and plasma drug levels is difficult as azithromycin concentrates in macrophages and tissues.
-[See Clinical Pharmacology (12)]

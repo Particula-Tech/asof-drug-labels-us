@@ -1,4 +1,4 @@
-# FDA-approved patient labeling
+Patient Information Zmax® (azithromycin extended release) Oral suspension
 
 Read the Patient Information that comes with Zmax® carefully before you or your child take it.
 This leaflet does not take the place of talking with your doctor about you or your child's medical condition or treatment.
@@ -69,9 +69,9 @@ How do I take Zmax?
 - Take Zmax or give it to your child within 12 hr after it has been prepared by the pharmacy or you add water to the powder.
 - Take Zmax or give it to your child exactly how your doctor prescribes it.
   This will help to treat you or your child's infection and decrease the chance that Zmax or other antibiotics will not work to treat infections in the future.
-  - Adults: take all the medicine in the bottle.
-  - Children: give your child the amount of Zmax prescribed by your doctor and throw away the rest of the medicine.
-  - To be sure that you give your child the right dose of Zmax, use a dosing spoon, medicine syringe, or cup.
+- Adults: take all the medicine in the bottle.
+- Children: give your child the amount of Zmax prescribed by your doctor and throw away the rest of the medicine.
+- To be sure that you give your child the right dose of Zmax, use a dosing spoon, medicine syringe, or cup.
 - Take Zmax on an empty stomach (at least 1 hr before eating or 2 hr after eating).
 - You can take antacids with Zmax.
 - If you or your child throws up (vomits) within one hr of taking Zmax, call your doctor right away to see if more medicine is needed.
@@ -141,3 +141,13 @@ What is in Zmax?
 Active ingredient: azithromycin dihydrate
 
 Inactive ingredients: glyceryl behenate, poloxamer 407, sucrose, sodium phosphate tribasic anhydrous, magnesium hydroxide, hydroxypropyl cellulose, xanthan gum, colloidal silicon dioxide, titanium dioxide, artificial cherry flavor, and artificial banana flavor
+
+Brand names are registered trademarks of their respective owners.
+Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc. Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+LAB-0606-4.0 August 2015
