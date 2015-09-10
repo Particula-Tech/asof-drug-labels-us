@@ -29,8 +29,6 @@ Table 10: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 1.
 
-Figure 1: Responder Rate (≥ 50% Reduction from Baseline) in Study 1
-
 #### Study 2
 
 Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam 1000 mg/day (N = 106), levetiracetam 2000 mg/day (N = 105) and placebo (N = 111) given in equally divided doses twice daily.
@@ -50,8 +48,6 @@ Table 11: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 | Percent reduction in partial seizure frequency over placebo | - | 17.1%statistically significant vs. placebo | 21.4% |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 2.
-
-Figure 2: Responder Rate (≥ 50% Reduction from Baseline) in Study 2: Period A
 
 The comparison of levetiracetam 2000 mg/day to levetiracetam 1000 mg/day for responder rate was statistically significant (P = 0.02).
 Analysis of the trial as a cross-over yielded similar results.
@@ -74,8 +70,6 @@ Table 12: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
 
-Figure 3: Responder Rate (≥ 50% Reduction from Baseline) in Study 3
-
 ### Effectiveness in Partial Onset Seizures in Pediatric Patients 4 Years to 16 Years with Epilepsy
 
 The effectiveness of levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 4), conducted at 60 sites in North America, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
@@ -96,8 +90,6 @@ Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
-Figure 4: Responder Rate (≥ 50% Reduction from Baseline) in Study 4
-
 ### Effectiveness in Partial Onset Seizures in Pediatric Patients 1 Month to < 4 Years with Epilepsy
 
 The effectiveness of levetiracetam as adjunctive therapy in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 5), conducted at 62 sites in North America, South America, and Europe in pediatric patients 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
@@ -110,10 +102,6 @@ The primary measure of effectiveness was the responder rate (percent of patients
 A total of 109 patients were included in the efficacy analysis.
 A statistically significant difference between levetiracetam and placebo was observed (see Figure 5).
 The treatment effect associated with levetiracetam was consistent across age groups.
-
-Figure 5: Responder Rate for All Patients Ages 1 Month to < 4 Years (≥ 50% Reduction from Baseline) in Study 5
-
-*statistically significant vs. placebo
 
 ## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
@@ -156,5 +144,3 @@ Table 15: Median Percent Reduction from Baseline in PGTC Seizure Frequency per W
 | Percent reduction in PGTC seizure frequency | 44.6% | 77.6%statistically significant vs. placebo |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 6.
-
-Figure 6: Responder Rate (≥ 50% Reduction from Baseline) in PGTC Seizure Frequency per Week in Study 7
