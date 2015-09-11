@@ -60,7 +60,7 @@ Results of COMET
 | All-cause mortality | 34% | 40% | 0.83 | 0.74 to 0.93 |
 | Mortality + all hospitalization | 74% | 76% | 0.94 | 0.86 to 1.02 |
 | Cardiovascular death | 30% | 35% | 0.80 | 0.70 to 0.90 |
-| Sudden death Death due to circulatory failure Death due to stroke | 14%11%0.9% | 17%13%2.5% | 0.810.83 0.33 | 0.68 to 0.970.67 to 1.02 0.18 to 0.62 |
+| Sudden death Death due to circulatory failure Death due to stroke | 14%11% 0.9% | 17%13% 2.5% | 0.810.83 0.33 | 0.68 to 0.970.67 to 1.02 0.18 to 0.62 |
 
 It is not known whether this formulation of metoprolol at any dose or this low dose of metoprolol in any formulation has any effect on survival or hospitalization in patients with heart failure.
 Thus, this trial extends the time over which carvedilol manifests benefits on survival in heart failure, but it is not evidence that carvedilol improves outcome over the formulation of metoprolol (TOPROL-XL®) with benefits in heart failure.

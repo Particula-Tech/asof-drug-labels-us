@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Carvedilol Tablets USP 3.125 mg 500s Label Text
 
 NDC 0093-0051-05
 
-CARVEDILOL
+Carvedilol
 
 Tablets USP
 
@@ -20,13 +20,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Carvedilol Tablets USP 6.25 mg 500s Label Text
 
 NDC 0093-0135-05
 
-CARVEDILOL
+Carvedilol
 
 Tablets USP
 
@@ -42,13 +42,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Carvedilol Tablets USP 12.5 mg 500s Label Text
 
 NDC 0093-7295-05
 
-CARVEDILOL
+Carvedilol
 
 Tablets USP
 
@@ -64,13 +64,13 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Carvedilol Tablets USP 25 mg 500s Label Text
 
 NDC 0093-7296-05
 
-CARVEDILOL
+Carvedilol
 
 Tablets USP
 

@@ -61,7 +61,7 @@ In heart failure patients with diabetes, carvedilol therapy may lead to worsenin
 It is recommended that blood glucose be monitored when carvedilol dosing is initiated, adjusted, or discontinued.
 Studies designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
 
-In a study designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [seeClinical Studies (14.4)].
+In a study designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [see Clinical Studies (14.4)].
 
 ## 5.7 Peripheral Vascular Disease
 
