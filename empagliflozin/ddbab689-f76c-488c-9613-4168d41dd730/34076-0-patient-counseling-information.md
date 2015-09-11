@@ -17,7 +17,7 @@ Inform female patients of child bearing age that the use of GLYXAMBI during preg
 Based on animal data, empagliflozin may cause fetal harm in the second and third trimesters.
 Instruct patients to report pregnancies to their physicians as soon as possible.
 
-Inform nursing mothers to discontinue GLYXAMBI or nursing, taking into account the important of the drug to the mother.
+Inform nursing mothers to discontinue GLYXAMBI or nursing, taking into account the importance of the drug to the mother.
 It is not known if empagliflozin or linagliptin is excreted in breast milk; however, based on animal data, empagliflozin may cause harm to nursing infants.
 
 Pancreatitis Inform patients that acute pancreatitis has been reported during postmarketing use of linagliptin.
@@ -26,7 +26,7 @@ Instruct patients to discontinue GLYXAMBI promptly and contact their physician i
 
 Hypoglycemia Inform patients that the incidence of hypoglycemia is increased when empagliflozin, linagliptin, or GLYXAMBI is added to a sulfonylurea or insulin and that a lower dose of the sulfonylurea or insulin may be required to reduce the risk of hypoglycemia.
 
-Hypersensitivity Reactions Inform patients that serious allergic reactions, such as anaphylaxis, angioedema, and exfoliative skin conditions, have been reported during postmarketing use of linagliptin, (one of the components of GLYXAMBI).
+Hypersensitivity Reactions Inform patients that serious allergic reactions, such as anaphylaxis, angioedema, and exfoliative skin conditions, have been reported during postmarketing use of linagliptin (one of the components of GLYXAMBI).
 If symptoms of allergic reactions (such as rash, skin flaking or peeling, urticaria, swelling of the skin, or swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking GLYXAMBI and seek medical advice promptly.
 
 Hypotension Inform patients that hypotension may occur with GLYXAMBI and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
@@ -42,6 +42,10 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.5)].
+
+Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.9)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of GLYXAMBI and monitored periodically thereafter.
 

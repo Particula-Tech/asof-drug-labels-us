@@ -53,6 +53,14 @@ Use caution in a patient with a history of angioedema to another DPP-4 inhibitor
 Increases in LDL-C can occur with empagliflozin [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
 
-## 5.9 Macrovascular Outcomes
+## 5.9 Severe and Disabling Arthralgia
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
+The time to onset of symptoms following initiation of drug therapy varied from one day to years.
+Patients experienced relief of symptoms upon discontinuation of the medication.
+A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
+Consider as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI or any other antidiabetic drug.

@@ -10,9 +10,7 @@ Bottles of 30 (NDC 0597-0182-30) Bottles of 90 (NDC 0597-0182-90) Bottles of 100
 25 mg/5 mg tablets: pale pink, arc triangular, flat-faced, bevel-edged, film-coated tablets.
 One side is debossed with the Boehringer Ingelheim company symbol; the other side is debossed with "25/5".
 
-Bottles of 30 (NDC 0597-0164-30) Bottles of 90 (NDC 0597-0164-90) Bottles of 1000 (NDC 0597-0164-10)
-
-Cartons containing 3 blister cards of 10 tablets each (3 x 10) (NDC 0597-0164-39), institutional pack.
+Bottles of 30 (NDC 0597-0164-30) Bottles of 90 (NDC 0597-0164-90) Bottles of 1000 (NDC 0597-0164-10) Cartons containing 3 blister cards of 10 tablets each (3 x 10) (NDC 0597-0164-39), institutional pack.
 
 If repackaging is required, dispense in a tight container as defined in USP.
 

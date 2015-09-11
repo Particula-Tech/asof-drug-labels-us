@@ -57,6 +57,7 @@ Linagliptin Changes in laboratory values that occurred more frequently in the li
 Additional adverse reactions have been identified during postapproval use of linagliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.1)]
+- Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.1) and Warnings and Precautions (5.1)]
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.7)]
+- Severe and disabling arthralgia [see Warnings and Precautions (5.9)]
 - Rash
