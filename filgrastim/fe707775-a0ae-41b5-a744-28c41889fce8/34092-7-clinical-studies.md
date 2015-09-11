@@ -21,11 +21,12 @@ The safety and efficacy of filgrastim to reduce the time to neutrophil recovery 
 
 In Study 4 the initial induction therapy consisted of intravenous daunorubicin days 1, 2, and 3; cytosine arabinoside days 1 to 7; and etoposide days 1 to 5.
 Patients were randomized to receive subcutaneous filgrastim (n=259) at a dose of 5 mcg/kg/day or placebo (n=262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥1000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
-The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white count (65% - <25,000 /mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
+The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% - <25,000 /mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
 Treatment with filgrastim resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, filgrastim-treated patients 14 days, placebo-treated patients 19 days (p = 0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
 There was a reduction in the median duration of intravenous antibiotic use, filgrastim-treated patients: 15 days versus placebo-treated patients: 18.5 days; a reduction in the median duration of hospitalization, filgrastim-treated patients: 20 days versus placebo-treated patients: 25 days.
+
 There were no statistically significant differences between the filgrastim and the placebo groups in complete remission rate (69% - filgrastim, 68% - placebo), median time to progression of all randomized patients (165 days - filgrastim, 186 days - placebo), or median overall survival (380 days - filgrastim, 425 days - placebo).
 
 ## 14.3 Patients with Cancer Undergoing Bone Marrow Transplantation
@@ -40,8 +41,8 @@ The median age was 33 (range 17 to 57) years; 56% males; 69% Hodgkin’s disease
 The main efficacy endpoint was duration of severe neutropenia ANC < 500/mm3.
 A statistically significant reduction in the median number of days of severe neutropenia (ANC < 500/mm3) occurred in the filgrastim-treated groups versus the control group (23 days in the control group‚ 11 days in the 10 mcg/kg/day group‚ and 14 days in the 30 mcg/kg/day group [11 days in the combined treatment groups‚ p = 0.004]).
 
-In Study 9, patients with Hodgkin’s disease and non-Hodgkin’s lymphoma received a preparative regimen intravenous cyclophosphamide, etoposide, and BCNU (“CVP”).
-There were 43 evaluable patients randomized to continuous subcutaneous infusion filgrastim 10 mcg/kg/day (n=19), filgrastim 30 mcg/kg/day (n=10) and no treatment (n=14) starting the day after marrow infusion for maximum of 28 days.
+In Study 9, patients with Hodgkin’s disease and non-Hodgkin’s lymphoma received a preparative regimen of intravenous cyclophosphamide, etoposide, and BCNU (“CVP”).
+There were 43 evaluable patients randomized to continuous subcutaneous infusion filgrastim 10 mcg/kg/day (n=19), filgrastim 30 mcg/kg/day (n=10) and no treatment (n=14) starting the day after marrow infusion for a maximum of 28 days.
 The median age was 33 (range 17 to 56) years; 67% males; 28% Hodgkin’s disease and 72% non-Hodgkin’s lymphoma.
 
 The main efficacy endpoint was duration of severe neutropenia.
@@ -66,7 +67,7 @@ The rate of engraftment of these cells in the absence of filgrastim post transpl
 
 Study 11 was a randomized, unblinded study of patients with Hodgkin’s disease or non-Hodgkin’s lymphoma undergoing myeloablative chemotherapy‚ 27 patients received filgrastim-mobilized autologous hematopoietic progenitor cells and 31 patients received autologous bone marrow.
 The preparative regimen was intravenous BCNU, etoposide, cytosine arabinoside and melphalan (“BEAM”).
-Patient received daily filgrastim 24 hours after stem cell infusion at a dose of 5 mcg/kg/day.
+Patients received daily filgrastim 24 hours after stem cell infusion at a dose of 5 mcg/kg/day.
 The median age was 33 (range 1 to 59) years; 64% males; 57% Hodgkin’s disease and 43% non-Hodgkin’s lymphoma.
 The main efficacy endpoint was number of days of platelet transfusions.
 Patients randomized to filgrastim-mobilized autologous peripheral blood progenitor cells compared to autologous bone marrow had significantly fewer days of platelet transfusions (median 6 vs 10 days).

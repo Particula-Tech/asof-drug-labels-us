@@ -17,6 +17,7 @@ Do not take ZARXIO if you have had a serious allergic reaction to human G-CSFs s
 Before you take ZARXIO, tell your doctor about all of your medical conditions, including if you:
 
 - •have a sickle cell disorder.
+- •have a problem with your kidneys, as you may need more frequent urine tests.
 - •are receiving radiation therapy.
 - •are allergic to latex.
   The needle cap on the prefilled syringe contains natural rubber (derived from latex).
@@ -58,8 +59,11 @@ ZARXIO may cause serious side effects, including:
   If you have any of these symptoms, stop using ZARXIO and call your doctor or get emergency medical help right away.
 - •Sickle cell crises.
   You may have a serious sickle cell crisis if you have a sickle cell disorder and take ZARXIO.
-  Serious sickle cell crises has happened in people with sickle cell disorders receiving filgrastim, that has sometimes led to death.
+  Serious sickle cell crises has happened in people with sickle cell disorders receiving filgrastim that has sometimes led to death.
   Call your doctor right away if you have symptoms of sickle cell crisis such as pain or difficulty breathing.
+- •Kidney injury (glomerulonephritis).
+  Kidney injury has been seen in patients who received ZARXIO.
+  Call your doctor right away if you experience puffiness in your face or ankles, blood in your urine or brown colored urine or you notice you urinate less than usual.
 - •Capillary leak syndrome.
   ZARXIO can cause fluid to leak from blood vessels into your body’s tissues.
   This condition is called “Capillary Leak Syndrome” (CLS).
@@ -342,6 +346,6 @@ Manufactured by: Sandoz Inc., Princeton, NJ 08540
 
 At: GP Grenzach Produktions GmbH, Grenzach-Wyhlen, Germany, Product of Austria
 
-03-2015-02M
+08-2015M
 
-46159459
+46168103

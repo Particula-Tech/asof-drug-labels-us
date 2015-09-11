@@ -11,15 +11,18 @@ Advise patients of the following risks and potential risks with ZARXIO:
 - •Rupture or enlargement of the spleen may occur.
   Symptoms include left upper quadrant abdominal pain or left shoulder pain.
   Advise patients to report pain in these areas to their physician immediately [see Warnings and Precautions (5.1)].
-- •Serious allergic reactions may occur, which may be signaled by rash‚ facial edema‚ wheezing‚ dyspnea‚ hypotension‚ or tachycardia.
-  Advise patient to seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur [see Warnings and Precautions (5.2)].
 - •Dyspnea, with or without fever, progressing to Acute Respiratory Distress Syndrome, may occur.
-  Advise patients to report dyspnea to their physician immediately [see Warnings and Precautions (5.3)].
+  Advise patients to report dyspnea to their physician immediately [see Warnings and Precautions (5.2)].
+- •Serious allergic reactions may occur, which may be signaled by rash‚ facial edema‚ wheezing‚ dyspnea‚ hypotension‚ or tachycardia.
+  Advise patients to seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur [see Warnings and Precautions (5.3)].
 - •In patients with sickle cell disease, sickle cell crisis and death have occurred.
   Discuss potential risks and benefits for patients with sickle cell disease prior to the administration of human granulocyte colony-stimulating factors [see Warnings and Precautions (5.4)].
+- •Glomerulonephritis may occur.
+  Symptoms include swelling of the face or ankles, dark colored urine or blood in the urine, or a decrease in urine production.
+  Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
 - •Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
-  Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.10)].
-- •Advise females of reproductive potential that ZARXIO should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Special Populations (8.1)].
+  Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
+- •Advise females of reproductive potential that ZARXIO should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
 ZARXIO™ (filgrastim-sndz)
 

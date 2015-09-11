@@ -5,10 +5,10 @@
 The recommended starting dosage of ZARXIO is 5 mcg/kg/day‚ administered as a single daily injection by subcutaneous injection‚ by short intravenous infusion (15 to 30 minutes)‚ or by continuous intravenous infusion.
 Obtain a complete blood count (CBC) and platelet count before instituting ZARXIO therapy and monitor twice weekly during therapy.
 Consider dose escalation in increments of 5 mcg/kg for each chemotherapy cycle‚ according to the duration and severity of the absolute neutrophil count (ANC) nadir.
-Recommend stopping ZARXIO if the ANC increases beyond 10‚000/mm3[see Warnings and Precautions (5.9)].
+Recommend stopping ZARXIO if the ANC increases beyond 10‚000/mm3[see Warnings and Precautions (5.10)].
 
 Administer ZARXIO at least 24 hours after cytotoxic chemotherapy.
-Do not administer ZARXIO within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.11)].
+Do not administer ZARXIO within the 24-hour period prior to chemotherapy [see Warnings and Precautions (5.12)].
 A transient increase in neutrophil count is typically seen 1 to 2 days after initiation of ZARXIO therapy.
 Therefore, to ensure a sustained therapeutic response‚ administer ZARXIO daily for up to 2 weeks or until the ANC has reached 10‚000/mm3 following the expected chemotherapy-induced neutrophil nadir.
 The duration of ZARXIO therapy needed to attenuate chemotherapy-induced neutropenia may be dependent on the myelosuppressive potential of the chemotherapy regimen employed.

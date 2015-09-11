@@ -27,7 +27,7 @@ Such changes were transient and were not associated with clinical sequelae, nor 
 
 Filgrastim exhibits nonlinear pharmacokinetics.
 Clearance is dependent on filgrastim concentration and neutrophil count: G-CSF receptor-mediated clearance is saturated by high concentration of filgrastim and is diminished by neutropenia.
-In addition, filgrastim is cleared by the kidney [see Use in Specific Populations (8.6)].
+In addition, filgrastim is cleared by the kidney.
 
 Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg of filgrastim resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2 to 8 hours.
 After intravenous administration, the volume of distribution averaged 150 mL/kg and the elimination half-life was approximately 3.5 hours in both normal subjects and subjects with cancer.
@@ -39,9 +39,7 @@ The absolute bioavailability of filgrastim after subcutaneous administration is 
 
 Specific Populations
 
-The pharmacokinetics of filgrastim were studied in pediatric patients with advanced neuroblastoma [see Use in Specific Populations (8.4)], in subjects with renal impairment, and in subjects with hepatic impairment.
-
-Pediatric Patients: The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adults receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim products.
+Pediatric Patients: The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are similar to those in adult patients receiving the same weight-normalized doses, suggesting no age-related differences in the pharmacokinetics of filgrastim products [see Use in Specific Populations (8.4)].
 
 Renal Impairment: In a study with healthy volunteers, subjects with moderate renal impairment, and subjects with end stage renal disease (n=4 per group), higher serum concentrations were observed in subjects with end-stage renal disease.
 However, dose adjustment in patients with renal impairment is not necessary.

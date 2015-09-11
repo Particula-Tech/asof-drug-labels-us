@@ -6,11 +6,12 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
 - •Serious Allergic Reactions [see Warnings and Precautions (5.3)]
 - •Sickle Cell Disorders [see Warnings and Precautions (5.4)]
-- •Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.5)]
-- •Capillary Leak Syndrome [see Warnings and Precautions (5.6)]
-- •Thrombocytopenia [see Warnings and Precautions (5.8)]
-- •Leukocytosis [see Warnings and Precautions (5.9)]
-- •Cutaneous Vasculitis [see Warnings and Precautions (5.10)]
+- •Glomerulonephritis [see Warnings and Precautions (5.5)]
+- •Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.6)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
+- •Thrombocytopenia [see Warnings and Precautions (5.9)]
+- •Leukocytosis [see Warnings and Precautions (5.10)]
+- •Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,7 +27,7 @@ The following adverse reaction data in Table 2 are from three randomized, placeb
 
 A total of 451 patients were randomized to receive subcutaneous filgrastim 230 mcg/m2 (Study 1), 240 mcg/m2 (Study 2) or 4 or 5 mcg/kg/day (Study 3) (n = 294) or placebo (n = 157).
 The patients in these studies were median age 61 (range 29 to 78) years and 64% were male.
-The ethnicity was 95% Caucasian, 4% African American, and1% Asian.
+The ethnicity was 95% Caucasian, 4% African American, and 1% Asian.
 
 Table 2.
 Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherapy (With ≥ 5% Higher Incidence in Filgrastim Compared to Placebo)
@@ -139,9 +140,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •acute respiratory distress syndrome [see Warnings and Precautions (5.2)]
 - •anaphylaxis [see Warnings and Precautions (5.3)]
 - •sickle cell disorders [see Warnings and Precautions (5.4)]
-- •alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.5)]
-- •capillary leak syndrome [see Warnings and Precautions (5.6)]
-- •leukocytosis [see Warnings and Precautions (5.9)]
-- •cutaneous vasculitis [see Warnings and Precautions (5.10)]
+- •glomerulonephritis [see Warnings and Precautions (5.5)]
+- •alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.6)]
+- •capillary leak syndrome [see Warnings and Precautions (5.7)]
+- •leukocytosis [see Warnings and Precautions (5.10)]
+- •cutaneous vasculitis [see Warnings and Precautions (5.11)]
 - •Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - •decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products

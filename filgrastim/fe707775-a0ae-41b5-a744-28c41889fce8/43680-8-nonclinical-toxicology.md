@@ -6,7 +6,7 @@ The carcinogenic potential of filgrastim has not been studied.
 Filgrastim failed to induce bacterial gene mutations in either the presence or absence of a drug metabolizing enzyme system.
 Filgrastim had no observed effect on the fertility of male or female rats at doses up to 500 mcg/kg.
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2 Animal Toxicology and Pharmacology
 
 Filgrastim was administered to monkeys‚ dogs‚ hamsters‚ rats‚ and mice as part of a nonclinical toxicology program, which included studies up to 1 year duration.
 
