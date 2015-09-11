@@ -9,7 +9,7 @@ Doses up to 80 mg have been used but do not appear to give greater effect.
 
 Use with diuretics in adults
 
-If blood pressure is not controlled with Zestril alone, a low dose of a diuretic may be added (eg, hydrochlorothiazide, 12.5 mg).
+If blood pressure is not controlled with Zestril alone, a low dose of a diuretic may be added (e.g., hydrochlorothiazide, 12.5 mg).
 After the addition of a diuretic, it may be possible to reduce the dose of Zestril.
 
 The recommended starting dose in adult patients with hypertension taking diuretics is 5 mg once per day.
@@ -36,7 +36,7 @@ The appearance of hypotension after the initial dose of Zestril does not preclud
 In hemodynamically stable patients within 24 hours of the onset of symptoms of acute myocardial infarction, give Zestril 5 mg orally, followed by 5 mg after 24 hours, 10 mg after 48 hours and then 10 mg once daily.
 Dosing should continue for at least six weeks.
 
-Initiate therapy with 2.5 mg in patients with a low systolic blood pressure (≤ 120 mmHg and > 100 mm Hg) during the first 3 days after the infarct [see Warnings and Precautions (5.4)].
+Initiate therapy with 2.5 mg in patients with a low systolic blood pressure (≤ 120 mmHg and > 100 mmHg) during the first 3 days after the infarct [see Warnings and Precautions (5.4)].
 If hypotension occurs (systolic blood pressure ≤ 100 mmHg) a daily maintenance dose of 5 mg may be given with temporary reductions to 2.5 mg if needed.
 If prolonged hypotension occurs (systolic blood pressure < 90 mmHg for more than 1 hour) Zestril should be withdrawn.
 

@@ -20,13 +20,4 @@ Hyperkalemia: Tell patients not to use salt substitutes containing potassium wit
 
 Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor to monitor for hypoglycaemia closely, especially during the first month of combined use [see Drug Interactions (7.2)].
 
-Leukopenia/Neutropenia: Tell patients to report promptly any indication of infection (eg, sore throat, fever), which may be a sign of leukopenia/neutropenia.
-
-Zestril is a trademark of Alvogen Pharma US, Inc.
-
-Manufactured by: AstraZeneca UK Limited, Macclesfield, UK
-
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-PI438-01 Rev.
-01/2015 P
+Leukopenia/Neutropenia: Tell patients to report promptly any indication of infection (e.g., sore throat, fever), which may be a sign of leukopenia/neutropenia.

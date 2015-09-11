@@ -11,6 +11,9 @@ When pregnancy is detected, discontinue Zestril as soon as possible [see Use in 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+[see Drug Interactions (7.7)].
+
 Angioedema
 
 Head and Neck Angioedema
@@ -46,7 +49,7 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 
 Monitor renal function periodically in patients treated with Zestril.
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (eg, patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on Zestril.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post-myocardial infarction or volume depletion) may be at particular risk of developing acute renal failure on Zestril.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Zestril [see Adverse Reactions (6.1), Drug Interactions (7.4)].
 
 ## 5.4 Hypotension
