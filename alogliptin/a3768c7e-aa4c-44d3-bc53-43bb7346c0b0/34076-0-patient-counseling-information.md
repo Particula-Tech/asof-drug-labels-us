@@ -19,6 +19,10 @@ If signs or symptoms of liver injury occur, patients should be instructed to dis
 Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with NESINA.
 Explain the risks, symptoms and appropriate management of hypoglycemia.
 
+Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs.
+
 Instruct patients to take NESINA only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 

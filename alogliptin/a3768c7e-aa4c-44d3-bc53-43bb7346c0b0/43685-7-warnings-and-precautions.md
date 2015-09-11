@@ -32,6 +32,14 @@ NESINA should not be restarted in these patients without another explanation for
 Insulin and insulin secretagogues, such as sulfonylureas, are known to cause hypoglycemia.
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with NESINA.
 
-## 5.5 Macrovascular Outcomes
+## 5.5 Severe and Disabling Arthralgia
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
+The time to onset of symptoms following initiation of drug therapy varied from one day to years.
+Patients experienced relief of symptoms upon discontinuation of the medication.
+A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
+Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.6 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with NESINA or any other antidiabetic drug.

@@ -19,11 +19,9 @@ Before you start taking NESINA:
 
 Tell your doctor if you have ever had:
 
-- •pancreatitis
-- •stones in your gallbladder (gallstones)
-- •a history of alcoholism
-- •kidney problems
-- •liver problems
+| •pancreatitis | •stones in your gallbladder (gallstones) | •a history of alcoholism |
+| --- | --- | --- |
+| •kidney problems | •liver problems |  |
 
 Stop taking NESINA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
@@ -31,12 +29,14 @@ The pain may happen with or without vomiting.
 These may be symptoms of pancreatitis.
 
 - What is NESINA?
+
 - •NESINA is a prescription medicine used along with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 - •NESINA is unlikely by itself to cause your blood sugar to be lowered to a dangerous level (hypoglycemia).
   However, hypoglycemia may still occur with NESINA.
 - •NESINA is not for people with type 1 diabetes.
 - •NESINA is not for people with diabetic ketoacidosis (increased ketones in blood or urine).
-- It is not known if NESINA is safe and effective in children under the age of 18.
+
+It is not known if NESINA is safe and effective in children under the age of 18.
 
 Who should not take NESINA?
 
@@ -45,16 +45,17 @@ Do not take NESINA if you:
 - •Are allergic to any ingredients in NESINA or have had a serious allergic (hypersensitivity) reaction to NESINA.
   See the end of this Medication Guide for a complete list of the ingredients in NESINA.
 - •Symptoms of a serious allergic reaction to NESINA may include:
-  - oswelling of your face, lips, throat and other areas on your skin
-  - odifficulty with swallowing or breathing
-  - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking or peeling
+
+| oswelling of your face, lips, throat and other areas on your skin | odifficulty with swallowing or breathing |
+| --- | --- |
+| oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
 
 If you have any of these symptoms, stop taking NESINA and contact your doctor or go to the nearest hospital emergency room right away.
 
 What should I tell my doctor before and during treatment with NESINA?
 
-- Before you take NESINA, tell your doctor if you:
+Before you take NESINA, tell your doctor if you:
+
 - •have or have had inflammation of your pancreas (pancreatitis)
 - •have kidney or liver problems
 - •have other medical conditions
@@ -65,7 +66,7 @@ What should I tell my doctor before and during treatment with NESINA?
   It is not known whether NESINA passes into your breast milk.
   Talk with your doctor about the best way to feed your baby if you are taking NESINA
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist before you start any new medicine.
@@ -95,35 +96,35 @@ NESINA can cause serious side effects, including:
 See “What is the most important information I should know about NESINA?”
 
 - •Allergic (hypersensitivity) reactions such as:
-  - oswelling of your face, lips, throat and other areas on your skin
-  - odifficulty with swallowing or breathing
-  - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking or peeling
+
+| oswelling of your face, lips, throat and other areas on your skin | odifficulty swallowing or breathing |
+| --- | --- |
+| oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
 
 If you have these symptoms, stop taking NESINA and contact your doctor right away.
 
 - •Liver problems.
   Call your doctor right away if you have unexplained symptoms, such as:
-  - onausea or vomiting
-  - ostomach pain
-  - ounusual or unexplained tiredness
-  - oloss of appetite
-  - odark urine
-  - oyellowing of your skin or the whites of your eyes
+
+| onausea or vomiting | ostomach pain | ounusual or unexplained tiredness |
+| --- | --- | --- |
+| oloss of appetite | odark urine | oyellowing of your skin or the whites of your eyes |
+
 - •Low blood sugar (hypoglycemia).
   If you take NESINA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take NESINA.
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
   Signs and symptoms of low blood sugar include:
 
-| •shaking or feeling jittery•sweating•hunger•headache•change in mood | •fast heartbeat•change in vision•confusion•dizziness |
-| --- | --- |
+| oShaking or feeling jittery | oSweating | ohunger | oheadache | ochange in mood |
+| --- | --- | --- | --- | --- |
+| ofast heartbeat | ochange in vision | oconfusion | odizziness |  |
 
-The most common side effects of NESINA include:
+- •Joint pain.
+  Some people who take medicines called DPP-4 inhibitors like NESINA may develop joint pain that can be severe.
+  Call your doctor if you have severe joint pain.
 
-- •stuffy or runny nose and sore throat
-- •headache
-- •cold-like symptoms (upper respiratory tract infection)
+The most common side effects of NESINA include stuffy or runny nose and sore throat, headache, or cold-like symptoms (upper respiratory tract infection).
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -159,14 +160,13 @@ Active ingredient: alogliptin
 Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium and magnesium stearate.
 In addition, the film-coating contains the following inactive ingredients: hypromellose, titanium dioxide, ferric oxide (red or yellow) and polyethylene glycol and is marked with gray F1 printing ink
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
-
-Revised: June 2013
 
 NESINA is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and is used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2013 Takeda Pharmaceuticals America, Inc.
+© 2013 - 2015 Takeda Pharmaceuticals America, Inc.
 
-NES011 R3
+NES011 R4
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+8/2015

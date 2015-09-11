@@ -52,7 +52,7 @@ The mean increase in body weight was similar between pioglitazone alone and NESI
 |  | NESINA 25 mg | Pioglitazone 30 mg | NESINA 25 mg + Pioglitazone 30 mg |
 | A1C (%) | N=160 | N=153 | N=158 |
 | Baseline (mean) | 8.8 | 8.8 | 8.8 |
-| Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | -1.0 | -1.2 | -1.7 |
+| Change from baseline adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | -1.0 | -1.2 | -1.7 |
 | Difference from NESINA 25 mg (adjusted mean with 95% confidence interval) | - | - | -0.8p<0.01 compared to NESINA 25 mg or pioglitazone 30 mg (-1.0, -0.5) |
 | Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) | - | - | -0.6 (-0.8, -0.3) |
 | % of patients (n/N) achieving A1C ≤7% | 24% (40/164) | 34% (55/163) | 63% (103/164) |
@@ -133,7 +133,7 @@ The mean increase in body weight was similar between pioglitazone alone and NESI
 
 | Table 7. Glycemic Parameters in a 26-Week Study of NESINA, Pioglitazone and NESINA in Combination with Pioglitazone when Added to MetforminIntent-to-treat population using last observation on study |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | NESINA 25 mg | Pioglitazone 15 mg | Pioglitazone 30 mg | Pioglitazone 45 mg | NESINA 25 mg + Pioglitazone 15 mg | NESINA 25 mg + Pioglitazone 30 mg | NESINA 25 mg + Pioglitazone 45 mg |
+|  | Placebo | NESINA 25 mg | Pioglitazone 15 mg | Pioglitazone 30 mg | Pioglitazone 45 mg | NESINA 25 mg +Pioglitazone 15 mg | NESINA 25 mg + Pioglitazone 30 mg | NESINA 25 mg +Pioglitazone 45 mg |
 | A1C (%) | N=126 | N=123 | N=127 | N=123 | N=126 | N=127 | N=124 | N=126 |
 | Baseline (mean) | 8.5 | 8.6 | 8.5 | 8.5 | 8.5 | 8.5 | 8.5 | 8.6 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, geographic region, metformin dose and baseline value) | -0.1 | -0.9 | -0.8 | -0.9 | -1.0 | -1.3p≤0.01 when compared to corresponding doses of pioglitazone and NESINA alone | -1.4 | -1.6 |
@@ -167,7 +167,7 @@ The mean increase in body weight was similar between NESINA and placebo when giv
 
 | Table 8. Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to PioglitazoneIntent-to-treat population using last observation on study |  |  |
 | --- | --- | --- |
-|  | NESINA 25 mg + Pioglitazone ± Metformin ± Sulfonylurea | Placebo + Pioglitazone ± Metformin ± Sulfonylurea |
+|  | NESINA 25 mg +Pioglitazone ± Metformin ± Sulfonylurea | Placebo +Pioglitazone ± Metformin ± Sulfonylurea |
 | A1C (%) | N=195 | N=95 |
 | Baseline (mean) | 8 | 8 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region, baseline treatment regimen (pioglitazone, pioglitazone + metformin or pioglitazone + sulfonylurea) and baseline pioglitazone dose) | -0.8 | -0.2 |
@@ -193,7 +193,7 @@ The mean increase in body weight was similar in both treatment arms.
 
 | Table 9. Glycemic Parameters in a 52-Week, Controlled Study of NESINA as Add-On Combination Therapy with Pioglitazone and MetforminIntent-to-treat population using last observation on study |  |  |
 | --- | --- | --- |
-|  | NESINA 25 mg + Pioglitazone 30 mg + Metformin | Pioglitazone 45 mg + Metformin |
+|  | NESINA 25 mg +Pioglitazone 30 mg +Metformin | Pioglitazone 45 mg +Metformin |
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.7 | -0.3 |
@@ -221,7 +221,7 @@ The mean change in body weight was similar between NESINA and placebo when given
 
 | Table 10. Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to GlyburideIntent-to-treat population using last observation on study |  |  |
 | --- | --- | --- |
-|  | NESINA 25 mg + Glyburide | Placebo + Glyburide |
+|  | NESINA 25 mg +Glyburide | Placebo +Glyburide |
 | A1C (%) | N=197 | N=97 |
 | Baseline (mean) | 8.1 | 8.2 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline glyburide dose) | -0.5 | 0 |
@@ -249,7 +249,7 @@ The mean increase in body weight was similar between NESINA and placebo when giv
 
 | Table 11. Glycemic Parameters in a 26-Week, Placebo-Controlled Study of NESINA as Add-On Therapy to InsulinIntent-to-treat population using last observation on study |  |  |
 | --- | --- | --- |
-|  | NESINA 25 mg + Insulin ± Metformin | Placebo + Insulin ± Metformin |
+|  | NESINA 25 mg +Insulin ± Metformin | Placebo +Insulin ± Metformin |
 | A1C (%) | N=126 | N=126 |
 | Baseline (mean) | 9.3 | 9.3 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region, baseline treatment regimen (insulin or insulin + metformin) and baseline daily insulin dose) | -0.7 | -0.1 |

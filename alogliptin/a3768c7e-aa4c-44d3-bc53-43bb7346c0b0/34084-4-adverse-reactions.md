@@ -88,7 +88,7 @@ No clinically meaningful changes in hematology, serum chemistry or urinalysis we
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during the postmarketing use of NESINA outside the United States.
+The following adverse reactions have been identified during the postmarketing use of NESINA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure and acute pancreatitis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and acute pancreatitis [see Warnings and Precautions (5.1, 5.2, 5.3, 5.5)].
