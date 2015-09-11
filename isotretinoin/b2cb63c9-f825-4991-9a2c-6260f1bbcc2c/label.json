@@ -5,8 +5,11 @@
   "inn": "isotretinoin",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
+    "0378-6611-85",
     "0378-6611-93",
+    "0378-6612-85",
     "0378-6612-93",
+    "0378-6614-85",
     "0378-6614-93"
   ],
   "products": [

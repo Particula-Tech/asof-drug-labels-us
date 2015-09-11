@@ -1,4 +1,4 @@
-CONTRAINDICATIONS AND WARNINGS
+# CONTRAINDICATIONS AND WARNINGS
 
 Amnesteem must not be used by female patients who are or may become pregnant.
 There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking Amnesteem in any amount, even for short periods of time.
@@ -15,19 +15,9 @@ In some cases death has occurred with certain of the abnormalities previously no
 
 If pregnancy does occur during treatment of a female patient who is taking Amnesteem, Amnesteem must be discontinued immediately and she should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 
-Special Prescribing Requirements
+- Special Prescribing Requirements
 
 Because of Amnesteem’s teratogenicity and to minimize fetal exposure, Amnesteem is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
 This program is called iPLEDGE™.
-Amnesteem must only be prescribed by prescribers who are registered and activated with the iPLEDGE program.
+Amnesteem must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
 Amnesteem must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).
-
-# INFORMATION FOR PHARMACISTS
-
-Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
-Amnesteem must only be dispensed in no more than a 30 day supply.
-
-REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.
-
-An Amnesteem Medication Guide must be given to the patient each time Amnesteem is dispensed, as required by law.
-This Amnesteem Medication Guide is an important part of the risk management program for the patient.

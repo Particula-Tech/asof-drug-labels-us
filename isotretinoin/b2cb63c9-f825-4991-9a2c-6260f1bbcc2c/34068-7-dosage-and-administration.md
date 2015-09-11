@@ -28,3 +28,13 @@ Amnesteem Dosing by Body Weight (Based on Administration with Food)
 | --- | --- | --- | --- | --- |
 | kilograms | pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kgSee DOSAGE AND ADMINISTRATION: the recommended dosage range is 0.5 to 1 mg/kg/day. |
 | 405060708090100 | 88110132154176198220 | 20253035404550 | 405060708090100 | 80100120140160180200 |
+
+INFORMATION FOR PHARMACISTS
+
+Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
+Amnesteem must only be dispensed in no more than a 30 day supply.
+
+REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.
+
+An Amnesteem Medication Guide must be given to the patient each time Amnesteem is dispensed, as required by law.
+This Amnesteem Medication Guide is an important part of the risk management program for the patient.
