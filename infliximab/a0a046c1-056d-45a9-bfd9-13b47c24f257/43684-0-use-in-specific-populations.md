@@ -9,8 +9,10 @@ No evidence of maternal toxicity, embryotoxicity or teratogenicity was observed 
 Doses of 10 to 15 mg/kg in pharmacodynamic animal models with the anti-TNF analogous antibody produced maximal pharmacologic effectiveness.
 Doses up to 40 mg/kg were shown to produce no adverse effects in animal reproduction studies.
 
-As with other IgG antibodies, REMICADE crosses the placenta and has been detected up to 6 months in the serum of infants born to female patients treated with REMICADE during pregnancy.
-Consequently, these infants may be at increased risk of infection, and caution is advised in the administration of live vaccines to these infants [see Warnings and Precautions (5.14)].
+As with other IgG antibodies, infliximab crosses the placenta.
+Infliximab has been detected in the serum of infants up to 6 months following birth.
+Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
+At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.14)].
 
 ## 8.3 Nursing Mothers
 

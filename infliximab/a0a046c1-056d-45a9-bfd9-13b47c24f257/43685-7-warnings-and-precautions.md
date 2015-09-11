@@ -25,7 +25,7 @@ Cases of active tuberculosis have also occurred in patients being treated with R
 Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating REMICADE and periodically during therapy.
 
 Treatment of latent tuberculosis infection prior to therapy with TNF blocking agents has been shown to reduce the risk of tuberculosis reactivation during therapy.
-Induration of 5 mm or greater with tuberculin skin testing should be considered a positive test result when assessing if treatment for latent tuberculosis is needed prior to initiating REMICADE, even for patients previously vaccinated with Bacille Calmette-Guerin (BCG).
+Induration of 5 mm or greater with tuberculin skin testing should be considered a positive test result when assessing if treatment for latent tuberculosis is needed prior to initiating REMICADE, even for patients previously vaccinated with Bacille Calmette-Guérin (BCG).
 
 Anti-tuberculosis therapy should also be considered prior to initiation of REMICADE in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
@@ -187,9 +187,12 @@ If a patient develops symptoms suggestive of a lupus-like syndrome following tre
 ## 5.14 Live Vaccines/Therapeutic Infectious Agents
 
 In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
-Use of live vaccines could result in clinical infections, including disseminated infections.
-It is recommended that live vaccines not be given concurrently with REMICADE.
-Caution is advised in the administration of live vaccines to infants born to female patients treated with REMICADE during pregnancy since REMICADE is known to cross the placenta and has been detected up to 6 months in the serum of infants born to female patients treated with REMICADE during pregnancy.
+Use of live vaccines can result in clinical infections, including disseminated infections.
+The concurrent administration of live vaccines with REMICADE is not recommended.
+
+Fatal outcome due to disseminated BCG infection has been reported in an infant who received a BCG vaccine after in utero exposure to infliximab.
+Infliximab is known to cross the placenta and has been detected up to 6 months following birth.
+At least a six month waiting period following birth is recommended before the administration of any live vaccine to infants exposed in utero to infliximab.
 
 Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with REMICADE.
