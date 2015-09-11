@@ -154,7 +154,7 @@ For the diffusion technique using the 30 mcg disc, the criteria in Table 5 shoul
 | Table 5: Acceptable Quality Control Ranges for Cefepime |  |  |
 | --- | --- | --- |
 | QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
-| Escherichia coliATCC 25922 | 0.015 to 0.12 | 31 to 37 |
+| Escherichia coli ATCC 25922 | 0.015 to 0.12 | 31 to 37 |
 | Staphylococcus aureus ATCC 29213 | 1 to 4 | - |
 | Staphylococcus aureus ATCC 25923 | - | 23 to 29 |
 | Pseudomonas aeruginosa ATCC 27853 | 0.5 to 4 | 24 to 30 |

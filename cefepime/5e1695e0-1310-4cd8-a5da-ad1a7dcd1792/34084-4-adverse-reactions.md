@@ -49,3 +49,4 @@ As with other cephalosporins, anaphylaxis including anaphylactic shock, transien
 In addition to the adverse reactions listed above that have been observed in patients treated with cefepime, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics:
 
 Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, hepatic dysfunction including cholestasis, and pancytopenia.
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
