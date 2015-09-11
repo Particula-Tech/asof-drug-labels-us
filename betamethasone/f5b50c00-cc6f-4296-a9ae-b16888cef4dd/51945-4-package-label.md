@@ -1,21 +1,17 @@
-# PRINCIPAL DISPLAY PANEL - 50 g Tube Carton
+# PRINCIPAL DISPLAY PANEL - 15 g Tube Box
 
-NDC 66993-897-49
+NDC 66993-897-15
 
-®PRASCO
+PRASCO
 
-Augmented Betamethasone Dipropionate* Ointment
+Augmented Betamethasone Dipropionate Ointment, 0.05%*
 
-0.05%
+*Strength expressed as betamethasone
 
-(Potency expressed as betamethasone)
+For topical use only.
 
-*Vehicle augments the penetration of the steroid.
-
-For dermatologic use only.
-
-Not for ophthalmic use.
+Not for oral, ophthalmic, or intravaginal use.
 
 Rx only
 
-50 g
+15 g
