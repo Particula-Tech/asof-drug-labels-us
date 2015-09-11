@@ -36,3 +36,7 @@ Blood Glucose and A1C Monitoring Inform patients that response to all diabetic t
 A1C monitoring is especially useful for evaluating long-term glycemic control.
 
 Renal Function and Other Hematologic Parameters Monitoring Inform patients that initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (e.g., serum creatinine) should be performed, at least on an annual basis [see Warnings and Precautions (5.3, 5.7)].
+
+Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.10)].

@@ -118,6 +118,14 @@ Patients, therefore, should be warned against excessive alcohol intake while rec
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur in patients on JENTADUETO therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
 
-## 5.10 Macrovascular Outcomes
+## 5.10 Severe and Disabling Arthralgia
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
+The time to onset of symptoms following initiation of drug therapy varied from one day to years.
+Patients experienced relief of symptoms upon discontinuation of the medication.
+A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
+Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.11 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin or any other antidiabetic drug.
