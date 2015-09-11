@@ -159,6 +159,6 @@ Marketed by: Depomed, Inc. Newark, CA 94560
 
 Opadry® is a registered trademark of BPSI Holdings, LLC.
 
-© 2012 Depomed, Inc. GRA-004-C.6 DEC 2012 Issued DEC 2012
+© 2015 Depomed, Inc. GRA-004-C.7 SEP 2015 Issued SEP 2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

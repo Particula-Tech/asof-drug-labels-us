@@ -6,7 +6,7 @@ The structural formula is:
 
 Gabapentin is a white to off-white crystalline solid with a pKa1 of 3.7 and a pKa2 of 10.7.
 It is freely soluble in water and acidic and basic solutions.
-The log of the partition coefficient (n-octanol/ 0.05 M phosphate buffer) at pH 7.4 is -1.25.
+The log of the partition coefficient (n-octanol/ 0.05M phosphate buffer) at pH 7.4 is -1.25.
 
 GRALISE is supplied as tablets containing 300 mg or 600 mg of gabapentin.
 GRALISE tablets swell in gastric fluid and gradually release gabapentin.
