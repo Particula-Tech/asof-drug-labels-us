@@ -16,7 +16,7 @@ Concomitant administration of PRINIVIL and antidiabetic medicines (insulins, ora
 
 ## 7.3 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving lisinopril and NSAID therapy.
 
@@ -32,7 +32,7 @@ Patients receiving the combination of losartan and lisinopril did not obtain any
 In general, avoid combined use of RAS inhibitors.
 Monitor blood pressure, renal function and electrolytes in patients on PRINIVIL and other agents that affect the RAS.
 
-Do not co-administer aliskiren with PRINIVIL in patients with diabetes.
+Do not coadminister aliskiren with PRINIVIL in patients with diabetes.
 Avoid use of aliskiren with PRINIVIL in patients with renal impairment (GFR <60 ml/min).
 
 ## 7.5 Lithium
@@ -44,3 +44,7 @@ Monitor serum lithium levels during concurrent use.
 ## 7.6 Gold
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including PRINIVIL.
+
+## 7.7 Mammalian Target of Rapamycin (mTOR) Inhibitors
+
+Patients taking concomitant mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Warnings and Precautions (5.2)].

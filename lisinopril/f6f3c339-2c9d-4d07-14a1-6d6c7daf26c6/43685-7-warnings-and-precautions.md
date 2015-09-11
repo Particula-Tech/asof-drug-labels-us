@@ -22,6 +22,8 @@ PRINIVIL should be promptly discontinued and appropriate therapy and monitoring 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
 
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+
 Intestinal Angioedema:
 
 Intestinal angioedema has occurred in patients treated with ACE inhibitors.

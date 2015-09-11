@@ -9,8 +9,7 @@ Doses up to 80 mg have been used but do not appear to give a greater effect.
 
 Use with Diuretics in Adults
 
-If blood pressure is not controlled with PRINIVIL alone, a low dose of a diuretic may be added.
-(e.g., hydrochlorothiazide 12.5 mg).
+If blood pressure is not controlled with PRINIVIL alone, a low dose of a diuretic may be added (e.g., hydrochlorothiazide 12.5 mg).
 
 The recommended starting dose in adult patients with hypertension taking diuretics is 5 mg once per day [see Drug Interactions (7.1)].
 

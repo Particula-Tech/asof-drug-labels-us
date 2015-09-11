@@ -29,7 +29,7 @@ Table 1: Dose-related Adverse Drug Reactions: ATLAS trial
 
 Acute Myocardial Infarction
 
-Patients in the GISSI - 3 study, treated with PRINIVIL, had a higher incidence of hypotension (9.0% vs 3.7%) and renal dysfunction (2.4% vs 1.1%) compared with patients not taking PRINIVIL.
+Patients in the GISSI-3 study, treated with PRINIVIL, had a higher incidence of hypotension (9.0% vs 3.7%) and renal dysfunction (2.4% vs 1.1%) compared with patients not taking PRINIVIL.
 
 Other clinical adverse reactions occurring in 1% or higher of patients with hypertension or heart failure treated with PRINIVIL in controlled clinical trials and do not appear in other sections of labeling are listed below:
 

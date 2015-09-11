@@ -25,7 +25,7 @@ This effect was confirmed in a withdrawal phase, where the diastolic pressure ro
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
 In this study, lisinopril was generally well-tolerated.
 
-In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form [see Dosage and Administration (2.1)].
+In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form.
 
 ## 14.2 Heart Failure
 
@@ -39,7 +39,7 @@ During baseline-controlled clinical trials, in patients receiving digitalis and 
 
 The Gruppo Italiano per lo Studio della Sopravvienza nell'Infarto Miocardico (GISSI-3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction (MI) admitted to a coronary care unit.
 It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long-term death and markedly impaired cardiac function.
-Hemodynamically- stable patients presenting within 24 hours of the onset of symptoms were randomized, in a 2 × 2 factorial design, to 6 weeks of either 1) PRINIVIL alone (n=4841), 2) nitrates alone (n=4869), 3) PRINIVIL plus nitrates (n=4841), or 4) open control (n=4843).
+Hemodynamically-stable patients presenting within 24 hours of the onset of symptoms were randomized, in a 2 × 2 factorial design, to 6 weeks of either 1) PRINIVIL alone (n=4841), 2) nitrates alone (n=4869), 3) PRINIVIL plus nitrates (n=4841), or 4) open control (n=4843).
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
 
 The protocol excluded patients with hypotension (systolic blood pressure ≤100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine >2 mg/dL and/or proteinuria >500 mg per 24 h). Patients randomized to PRINIVIL received 5 mg within 24 hours of the onset of symptoms, 5 mg after 24 hours, and then 10 mg daily thereafter.
