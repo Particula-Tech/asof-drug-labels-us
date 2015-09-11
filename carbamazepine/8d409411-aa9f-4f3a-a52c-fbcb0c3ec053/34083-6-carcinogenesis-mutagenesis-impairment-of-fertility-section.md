@@ -1,0 +1,7 @@
+# Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carbamazepine, when administered to Sprague-Dawley rats for two years in the diet at doses of 25, 75, and 250 mg/kg/day, resulted in a dose-related increase in the incidence of hepatocellular tumors in females and of benign interstitial cell adenomas in the testes of males.
+
+Carbamazepine must, therefore, be considered to be carcinogenic in Sprague-Dawley rats.
+Bacterial and mammalian mutagenicity studies using carbamazepine produced negative results.
+The significance of these findings relative to the use of carbamazepine in humans is, at present, unknown.

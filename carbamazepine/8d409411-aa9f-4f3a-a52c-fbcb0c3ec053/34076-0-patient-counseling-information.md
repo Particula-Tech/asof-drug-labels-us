@@ -1,0 +1,25 @@
+# Information for Patients
+
+Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking Tegretol.
+
+Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, as well as dermatologic, hypersensitivity or hepatic reactions.
+These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice.
+The patient should be advised that, because these signs and symptoms may signal a serious reaction, that they must report any occurrence immediately to a physician.
+In addition, the patient should be advised that these signs and symptoms should be reported even if mild or when occurring after extended use.
+
+Patients should be advised that serious skin reactions have been reported in association with Tegretol.
+In the event a skin reaction should occur while taking Tegretol, patients should consult with their physician immediately (see WARNINGS).
+
+Patients, their caregivers, and families should be counseled that AEDs, including Tegretol, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
+Tegretol may interact with some drugs.
+Therefore, patients should be advised to report to their doctors the use of any other prescription or nonprescription medications or herbal products.
+
+Caution should be exercised if alcohol is taken in combination with Tegretol therapy, due to a possible additive sedative effect.
+
+Since dizziness and drowsiness may occur, patients should be cautioned about the hazards of operating machinery or automobiles or engaging in other potentially dangerous tasks.
+
+Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see WARNINGS, Usage in Pregnancy subsection).
