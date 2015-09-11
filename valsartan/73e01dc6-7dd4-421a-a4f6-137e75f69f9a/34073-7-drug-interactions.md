@@ -16,16 +16,16 @@ Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine
 
 Potassium
 
-Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
-Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
@@ -68,7 +68,7 @@ Neutropenia was observed in 1.9% of patients treated with valsartan and 0.8% of 
 ### Serum Potassium
 
 In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of valsartan-treated patients compared to 2.9% of placebo-treated patients.
-In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients.
+In heart failure patients, greater than 20% increases in serum potassium were observed in 10.0% of valsartan-treated patients compared to 5.1% of placebo-treated patients.
 
 ### Blood Urea Nitrogen (BUN)
 

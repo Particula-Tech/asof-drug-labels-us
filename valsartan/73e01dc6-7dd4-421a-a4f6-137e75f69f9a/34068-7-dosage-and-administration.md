@@ -32,14 +32,16 @@ No data are available in pediatric patients either undergoing dialysis or with a
 
 Valsartan tablets are not recommended for patients < 6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
-### Preparation of Suspension (For 160 mL of a 4 mg/mL Suspension)
+### Preparation of Suspension (for 160 mL of a 4 mg/mL Suspension)
 
-Add 80 mL of Ora-Plus®Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc. oral suspending vehicle to an amber glass bottle containing eight valsartan 80 mg tablets, and shake for a minimum of 2 minutes.
+Add 80 mL of Ora-Plus®* oral suspending vehicle to an amber glass bottle containing eight valsartan 80 mg tablets, and shake for a minimum of 2 minutes.
 Allow the suspension to stand for a minimum of one hour.
 After the standing time, shake the suspension for a minimum of one additional minute.
-Add 80 mL of Ora-Sweet SF® oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
+Add 80 mL of Ora-Sweet SF®* oral sweetening vehicle to the bottle and shake the suspension for at least 10 seconds to disperse the ingredients.
 The suspension is homogenous and can be stored for either up to 30 days at room temperature (below 30°C/86°F) or up to 75 days at refrigerated conditions (2° to 8°C/35° to 46°F) in the glass bottle with a child-resistant screw-cap closure.
 Shake the bottle well (at least 10 seconds) prior to dispensing the suspension.
+
+*Ora-Sweet SF® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
 
 ## 2.3 Heart Failure
 

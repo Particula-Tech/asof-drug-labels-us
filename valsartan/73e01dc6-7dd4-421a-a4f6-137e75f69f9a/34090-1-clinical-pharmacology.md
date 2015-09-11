@@ -56,7 +56,7 @@ Following intravenous administration, plasma clearance of valsartan is about 2 L
 
 ### Distribution
 
-The steady-state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
+The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
 ### Special Populations
@@ -85,13 +85,13 @@ Age does not affect the apparent clearance in heart failure patients.
 #### Renal Insufficiency
 
 There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
-Consequently, dose adjustment is not required in patients with mild to moderate renal dysfunction.
+Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
 No studies have been performed in patients with severe impairment of renal function (creatinine clearance < 10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
 
 #### Hepatic Insufficiency
 
-On average, patients with mild to moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
-In general, no dosage adjustment is needed in patients with mild to moderate liver disease.
+On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
+In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
 Care should be exercised in patients with liver disease [see Dosage and Administration (2.1)].

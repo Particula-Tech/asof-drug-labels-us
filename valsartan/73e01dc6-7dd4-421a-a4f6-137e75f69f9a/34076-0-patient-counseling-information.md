@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Information for Patients
+Information for Patients: Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to valsartan during pregnancy.
 Discuss treatment options with women planning to become pregnant.
@@ -13,7 +13,7 @@ VALSARTAN TABLETS, USP (val sar′ tan) 40 mg, 80 mg, 160 mg and 320 mg
 Read the Patient Information that comes with valsartan before you take it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
-If you have any questions about valsartan, ask your doctor or pharmacist.
+If you have any questions about valsartan tablets, ask your doctor or pharmacist.
 
 What is the most important information I should know about valsartan tablets?
 
@@ -21,14 +21,14 @@ Valsartan tablets can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 If you get pregnant while taking valsartan tablets, tell your doctor right away.
 
-What is valsartan?
+What are valsartan tablets?
 
-Valsartan is a prescription medicine called an angiotensin receptor blocker (ARB).
-It is used in adults to:
+Valsartan tablets are a prescription medicine called an angiotensin receptor blocker (ARB).
+They are used in adults to:
 
 - •lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age.
 - •treat heart failure in adults.
-  In these patients, valsartan may lower the need for hospitalization that happens from heart failure.
+  In these patients, valsartan tablets may lower the need for hospitalization that happens from heart failure.
 
 Valsartan tablets are not for children under 6 years of age or children with certain kidney problems.
 
@@ -54,10 +54,10 @@ Tell your doctor about all your medical conditions including whether you:
 - •have liver problems
 - •have kidney problems
 - •are pregnant or planning to become pregnant.
-  See “What is the most important information I should know about valsartan tablets?”
-- •are breast-feeding.
+  See “What is the most important information I should know about valsartan tablets?”.
+- •are breastfeeding.
   It is not known if valsartan passes into your breast milk.
-  You and your doctor should decide if you will take valsartan tablets or breast-feed, but not both.
+  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
   Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - •have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -72,7 +72,7 @@ Especially tell your doctor if you take:
 - •a salt substitute.
   Your doctor may check the amount of potassium in your blood periodically.
 - •non-steroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-- •certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- •certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 - •Lithium, a medicine used in some types of depression
 
@@ -94,14 +94,14 @@ How should I take valsartan tablets?
 - •If you miss a dose, take it as soon as you remember.
   If it is close to your next dose, do not take the missed dose.
   Take the next dose at your regular time.
-- •If you take too much valsartan, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
+- •If you take too many valsartan tablets, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
 
 What are the possible side effects of valsartan tablets?
 
 Valsartan tablets may cause the following serious side effects:
 
 Injury or death to an unborn baby.
-See “What is the most important information I should know about valsartan tablets?”
+See “What is the most important information I should know about valsartan tablets?”.
 
 Low Blood Pressure (Hypotension).
 Low blood pressure is most likely to happen if you also take water pills, are on a low-salt diet, get dialysis treatments, have heart problems, or get sick with vomiting or diarrhea.
@@ -172,4 +172,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-REVISED DECEMBER 2014 75055534 MX:VALS:R8p
+75057494
+
+REVISED AUGUST 2015 MX:VALS:R9p

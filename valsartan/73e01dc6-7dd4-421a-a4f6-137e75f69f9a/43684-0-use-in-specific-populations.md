@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects:
+### Teratogenic Effects
 
 #### Pregnancy Category D
 
@@ -39,7 +39,7 @@ Valsartan is not recommended for pediatric patients under 6 years of age due to 
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate < 30 mL/min/1.73 m2.
 
-There is limited clinical experience with valsartan in pediatric patients with mild to moderate hepatic impairment [see Warnings and Precautions (5.3)].
+There is limited clinical experience with valsartan in pediatric patients with mild-to-moderate hepatic impairment [see Warnings and Precautions (5.3)].
 
 Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 mg/kg/day (about 10% of the maximum recommended pediatric dose on a mg/m2 basis) from postnatal day 7 to postnatal day 70 produced persistent, irreversible kidney damage.
 These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
@@ -63,5 +63,5 @@ No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or m
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild to moderate liver disease.
+No dose adjustment is necessary for patients with mild-to-moderate liver disease.
 No dosing recommendations can be provided for patients with severe liver disease.

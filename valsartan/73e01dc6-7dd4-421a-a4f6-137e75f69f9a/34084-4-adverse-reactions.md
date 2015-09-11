@@ -10,8 +10,8 @@ Valsartan has been evaluated for safety in more than 4,000 patients, including o
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse reactions with valsartan was similar to placebo.
 
-The overall frequency of adverse reactions was neither dose related nor related to gender, age, race, or regimen.
-Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2% of placebo patients.
+The overall frequency of adverse reactions was neither dose-related nor related to gender, age, race, or regimen.
+Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2.0% of placebo patients.
 The most common reasons for discontinuation of therapy with valsartan were headache and dizziness.
 
 The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan and at a higher incidence in valsartan (n = 2,316) than placebo (n = 888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).
@@ -19,9 +19,9 @@ The adverse reactions that occurred in placebo-controlled clinical trials in at 
 Headache, dizziness, upper respiratory infection, cough, diarrhea, rhinitis, sinusitis, nausea, pharyngitis, edema, and arthralgia occurred at a more than 1% rate but at about the same incidence in placebo and valsartan patients.
 
 In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129 patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p < 0.001).
+In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p < 0.001).
 
-Dose related orthostatic effects were seen in less than 1% of patients.
+Dose-related orthostatic effects were seen in less than 1% of patients.
 An increase in the incidence of dizziness was observed in patients treated with valsartan 320 mg (8%) compared to 10 mg to 160 mg (2% to 4%).
 
 Valsartan has been used concomitantly with hydrochlorothiazide without evidence of clinically important adverse interactions.
@@ -59,7 +59,7 @@ Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 y
 
 Valsartan is not recommended for pediatric patients under 6 years of age.
 In a study (n = 90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
-These five events occurred in a study population in which patients frequently had significant comorbidities.
+These five events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to valsartan has not been established.
 In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a one year open-label extension.
 
@@ -91,9 +91,9 @@ Other adverse reactions with an incidence greater than 1% and greater than place
 
 From the long-term data in the Valsartan Heart Failure Trial, there did not appear to be any significant adverse reactions not previously identified.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported in post-marketing experience:
+The following additional adverse reactions have been reported in postmarketing experience:
 
 Hypersensitivity: There are rare reports of angioedema.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
