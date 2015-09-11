@@ -1,190 +1,21 @@
-MEDICATION GUIDE
-
-TRADJENTA® (TRAD gen ta) (linagliptin) Tablets
-
-Read this Medication Guide carefully before you start taking TRADJENTA and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your doctor about your medical condition or your treatment.
-If you have any questions about TRADJENTA, ask your doctor or pharmacist.
-
-What is the most important information I should know about TRADJENTA?
-
-Serious side effects can happen to people taking TRADJENTA, including inflammation of the pancreas (pancreatitis) which may be severe and lead to death.
-
-Certain medical problems make you more likely to get pancreatitis.
-
-Before you start taking TRADJENTA:
-
-Tell your doctor if you have ever had:
-
-- 
-  - inflammation of your pancreas (pancreatitis)
-  - stones in your gallbladder (gallstones)
-  - a history of alcoholism
-  - high blood triglyceride levels
-
-- Stop taking TRADJENTA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
-  The pain may be felt going from your abdomen through to your back.
-  The pain may happen with or without vomiting.
-  These may be symptoms of pancreatitis.
-
-What is TRADJENTA?
-
-- 
-  - TRADJENTA is a prescription medicine used along with diet and exercise to lower blood sugar in adults with type 2 diabetes.
-  - TRADJENTA is not for people with type 1 diabetes.
-  - TRADJENTA is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).
-  - If you have had pancreatitis in the past, it is not known if you have a higher chance of getting pancreatitis while you take TRADJENTA.
-
-It is not known if TRADJENTA is safe and effective in children under 18 years of age.
-
-Who should not take TRADJENTA?
-
-- Do not take TRADJENTA if you:
-  - are allergic to linagliptin or any of the ingredients in TRADJENTA.
-    See the end of this Medication Guide for a complete list of ingredients in TRADJENTA.
-
-Symptoms of a serious allergic reaction to TRADJENTA may include:
-
-- 
-  - 
-    - skin rash, itching, flaking or peeling
-    - raised red patches on your skin (hives)
-    - swelling of your face, lips, tongue and throat that may cause difficulty in breathing or swallowing
-    - difficulty with swallowing or breathing
-
-If you have any of these symptoms, stop taking TRADJENTA and contact your doctor or go to the nearest hospital emergency room right away.
-
-What should I tell my doctor before using TRADJENTA?
-
-- Before you take TRADJENTA, tell your doctor if you:
-  - have or have had inflammation of your pancreas (pancreatitis).
-  - have any other medical conditions
-  - are pregnant or plan to become pregnant.
-    It is not known if TRADJENTA will harm your unborn baby.
-    If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.
-  - are breastfeeding or plan to breastfeed.
-    It is not known if TRADJENTA passes into your breast milk.
-    Talk with your doctor about the best way to feed your baby if you take TRADJENTA.
-- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-  TRADJENTA may affect the way other medicines work, and other medicines may affect how TRADJENTA works.
-  Especially tell your doctor if you take Ask your doctor or pharmacist for a list of these medicines if you are not sure if your medicine is one that is listed above.
-  Know the medicines you take.
-  Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
-  - other medicines that can lower your blood sugar
-  - rifampin (Rifadin®, Rimactane®, Rifater®, Rifamate®)*, an antibiotic that is used to treat tuberculosis
-
-How should I take TRADJENTA?
-
-- Take 1 tablet 1 time each day with or without food.
-- Your doctor will tell you when to take TRADJENTA.
-- Talk with your doctor if you do not understand how to take TRADJENTA.
-- If you miss a dose, take it as soon as you remember.
-  If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule.
-  Do not take two doses of TRADJENTA at the same time.
-- Your doctor may tell you to take TRADJENTA along with other diabetes medicines.
-  Low blood sugar can happen more often when TRADJENTA is taken with certain other diabetes medicines.
-  See “What are the possible side effects of TRADJENTA?”
-- If you take too much TRADJENTA, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
-- When your body is under some types of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change.
-  Tell your doctor right away if you have any of these conditions and follow your doctor's instructions.
-- Check your blood sugar as your doctor tells you to.
-- Stay on your prescribed diet and exercise program while taking TRADJENTA.
-- Your doctor will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C.
-
-What are the possible side effects of TRADJENTA?
-
-TRADJENTA may cause serious side effects, including:
-
-- See “What is the most important information I should know about TRADJENTA?”
-- low blood sugar (hypoglycemia).
-  If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
-  The dose of your sulfonylurea medicine or insulin may need to be lowered while you take TRADJENTA.
-  Signs and symptoms of low blood sugar may include:
-  - headache
-  - dizziness
-  - drowsiness
-  - confusion
-  - weakness
-  - irritability
-  - hunger
-  - sweating
-  - fast heart beat
-  - feeling jittery
-- Allergic (hypersensitivity) reactions.
-  Serious allergic reactions can happen after your first dose or up to 3 months after starting TRADJENTA.
-  Symptoms may include:
-  - swelling of your face, lips, throat, and other areas on your skin
-  - difficulty with swallowing or breathing
-  - raised, red areas on your skin (hives)
-  - skin rash, itching, flaking, or peeling If you have these symptoms, stop taking TRADJENTA and call your doctor or go to the nearest hospital emergency room right away.
-
-The most common side effects of TRADJENTA include:
-
-- stuffy or runny nose and sore throat
-- cough
-- diarrhea
-
-These are not all the possible side effects of TRADJENTA.
-For more information, ask your doctor or pharmacist.
-
-Tell your doctor if you have any side effect that bothers you or that does not go away.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store TRADJENTA?
-
-- Store TRADJENTA between 68°F and 77°F (20°C and 25°C).
-
-Keep TRADJENTA and all medicines out of the reach of children.
-
-General information about the safe and effective use of TRADJENTA.
-
-Medicines are sometimes prescribed for purposes other than those listed in Medication Guides.
-Do not use TRADJENTA for a condition for which it was not prescribed.
-Do not give TRADJENTA to other people, even if they have the same symptoms you have.
-It may harm them.
-
-This Medication Guide summarizes the most important information about TRADJENTA.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about TRADJENTA that is written for health professionals.
-
-For more information, go to www.TRADJENTA.com (or scan the code below to go to www.TRADJENTA.com) or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
-
-What are the ingredients in TRADJENTA?
-
-Active Ingredient: linagliptin
-
-Inactive Ingredients: mannitol, pregelatinized starch, corn starch, copovidone, and magnesium stearate.
-The film coating contains the following inactive ingredients: hypromellose, titanium dioxide, talc, polyethylene glycol, and red ferric oxide.
-
-What is type 2 diabetes?
-
-Type 2 diabetes is a condition in which your body does not make enough insulin, and/or the insulin that your body produces does not work as well as it should.
-Your body can also make too much sugar.
-When this happens, sugar (glucose) builds up in the blood.
-This can lead to serious medical problems.
-
-The main goal of treating diabetes is to lower your blood sugar to a normal level.
-High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
-
-Talk to your doctor about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and other problems you have because of your diabetes.
-
-This Medication Guide has been approved by the U. S. Food and Drug Administration.
-
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
-
-Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Eli Lilly and Company Indianapolis, IN 46285 USA
-
-Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
-
-Revised: July 2015
-
-*The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
-
-Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
-
-IT5253QG222015 10007261/09
-
-IT5437M 10007237/09
+| MEDICATION GUIDE TRADJENTA® (TRAD gen ta) (linagliptin) Tablets |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Read this Medication Guide carefully before you start taking TRADJENTA and each time you get a refill. There may be new information. This information does not take the place of talking to your doctor about your medical condition or your treatment. If you have any questions about TRADJENTA, ask your doctor or pharmacist. |  |  |  |  |
+| What is the most important information I should know about TRADJENTA? Serious side effects can happen to people taking TRADJENTA, including inflammation of the pancreas (pancreatitis) which may be severe and lead to death.Certain medical problems make you more likely to get pancreatitis.Before you start taking TRADJENTA:Tell your doctor if you have ever had: |  |  |  |  |
+| inflammation of your pancreas (pancreatitis)a history of alcoholism |  |  | stones in your gallbladder (gallstones)high blood triglyceride levels |  |
+| Stop taking TRADJENTA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away. The pain may be felt going from your abdomen through to your back. The pain may happen with or without vomiting. These may be symptoms of pancreatitis. |  |  |  |  |
+| What is TRADJENTA? TRADJENTA is a prescription medicine used along with diet and exercise to lower blood sugar in adults with type 2 diabetes.TRADJENTA is not for people with type 1 diabetes.TRADJENTA is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).If you have had pancreatitis in the past, it is not known if you have a higher chance of getting pancreatitis while you take TRADJENTA. It is not known if TRADJENTA is safe and effective in children under 18 years of age. |  |  |  |  |
+| Who should not take TRADJENTA?Do not take TRADJENTA if you: are allergic to linagliptin or any of the ingredients in TRADJENTA. See the end of this Medication Guide for a complete list of ingredients in TRADJENTA. Symptoms of a serious allergic reaction to TRADJENTA may include: skin rash, itching, flaking or peelingraised red patches on your skin (hives)swelling of your face, lips, tongue and throat that may cause difficulty in breathing or swallowingdifficulty with swallowing or breathing If you have any of these symptoms, stop taking TRADJENTA and contact your doctor or go to the nearest hospital emergency room right away. |  |  |  |  |
+| What should I tell my doctor before using TRADJENTA?Before you take TRADJENTA, tell your doctor if you: have or have had inflammation of your pancreas (pancreatitis).have any other medical conditionsare pregnant or plan to become pregnant. It is not known if TRADJENTA will harm your unborn baby. If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.are breastfeeding or plan to breastfeed. It is not known if TRADJENTA passes into your breast milk. Talk with your doctor about the best way to feed your baby if you take TRADJENTA. Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.TRADJENTA may affect the way other medicines work, and other medicines may affect how TRADJENTA works. Especially tell your doctor if you take other medicines that can lower your blood sugar rifampin (Rifadin®, Rimactane®, Rifater®, Rifamate®)*, an antibiotic that is used to treat tuberculosis Ask your doctor or pharmacist for a list of these medicines if you are not sure if your medicine is one that is listed above.Know the medicines you take. Keep a list of them and show it to your doctor and pharmacist when you get a new medicine. |  |  |  |  |
+| How should I take TRADJENTA? Take 1 tablet 1 time each day with or without food.Your doctor will tell you when to take TRADJENTA.Talk with your doctor if you do not understand how to take TRADJENTA.If you miss a dose, take it as soon as you remember. If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule. Do not take two doses of TRADJENTA at the same time.Your doctor may tell you to take TRADJENTA along with other diabetes medicines. Low blood sugar can happen more often when TRADJENTA is taken with certain other diabetes medicines. See “What are the possible side effects of TRADJENTA?”If you take too much TRADJENTA, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.When your body is under some types of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change. Tell your doctor right away if you have any of these conditions and follow your doctor’s instructions.Check your blood sugar as your doctor tells you to.Stay on your prescribed diet and exercise program while taking TRADJENTA.Your doctor will check your diabetes with regular blood tests, including your blood sugar levels and your hemoglobin A1C. |  |  |  |  |
+| What are the possible side effects of TRADJENTA?TRADJENTA may cause serious side effects, including: See “What is the most important information I should know about TRADJENTA?”low blood sugar (hypoglycemia). If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher. The dose of your sulfonylurea medicine or insulin may need to be lowered while you take TRADJENTA. Signs and symptoms of low blood sugar may include: |  |  |  |  |
+| headacheirritability | drowsinesshunger | weaknessfast heart beat | dizzinesssweating | confusionfeeling jittery |
+| Allergic (hypersensitivity) reactions. Serious allergic reactions can happen after your first dose or up to 3 months after starting TRADJENTA. Symptoms may include: |  |  |  |  |
+| swelling of your face, lips, throat, and other areas on your skinraised, red areas on your skin (hives) |  |  | difficulty with swallowing or breathingskin rash, itching, flaking, or peeling |  |
+| If you have these symptoms, stop taking TRADJENTA and call your doctor or go to the nearest hospital emergency room right away. Joint pain. Some people who take medicines called DPP-4 inhibitors like TRADJENTA, may develop joint pain that can be severe. Call your doctor if you have severe joint pain. The most common side effects of TRADJENTA include stuffy or runny nose and sore throat, cough, and diarrheaThese are not all the possible side effects of TRADJENTA. For more information, ask your doctor or pharmacist.Tell your doctor if you have any side effect that bothers you or that does not go away. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
+| How should I store TRADJENTA? Store TRADJENTA between 68°F and 77°F (20°C and 25°C). Keep TRADJENTA and all medicines out of the reach of children. |  |  |  |  |
+| General information about the safe and effective use of TRADJENTA.Medicines are sometimes prescribed for purposes other than those listed in Medication Guides. Do not use TRADJENTA for a condition for which it was not prescribed. Do not give TRADJENTA to other people, even if they have the same symptoms you have. It may harm them.This Medication Guide summarizes the most important information about TRADJENTA. If you would like more information, talk with your doctor. You can ask your pharmacist or doctor for information about TRADJENTA that is written for health professionals. For more information, go to www.TRADJENTA.com (or scan the code below to go to www.TRADJENTA.com) or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906. |  |  |  |  |
+| What are the ingredients in TRADJENTA?Active Ingredient: linagliptinInactive Ingredients: mannitol, pregelatinized starch, corn starch, copovidone, and magnesium stearate. The film coating contains the following inactive ingredients: hypromellose, titanium dioxide, talc, polyethylene glycol, and red ferric oxide. |  |  |  |  |
+| What is type 2 diabetes? Type 2 diabetes is a condition in which your body does not make enough insulin, and/or the insulin that your body produces does not work as well as it should. Your body can also make too much sugar. When this happens, sugar (glucose) builds up in the blood. This can lead to serious medical problems. The main goal of treating diabetes is to lower your blood sugar to a normal level. High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.Talk to your doctor about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and other problems you have because of your diabetes. |  |  |  |  |
+| Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA. Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Eli Lilly and Company, Indianapolis, IN 46285 USA. Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany. *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products. Copyright © 2015 Boehringer Ingelheim International GmbH. ALL RIGHTS RESERVED IT5253RI012015 10007261/09 IT5437N 10007237/09 IT6174E 090340599/2 IT6177C 090340598/2 |  |  |  |  |
+| This Medication Guide has been approved by the U. S. Food and Drug Administration. |  |  |  | Revised: August 2015 |

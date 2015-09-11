@@ -18,6 +18,10 @@ Hypoglycemia Inform patients that the incidence of hypoglycemia is increased whe
 Hypersensitivity Reactions Inform patients that serious allergic reactions, such as anaphylaxis, angioedema, and exfoliative skin conditions, have been reported during postmarketing use of TRADJENTA.
 If symptoms of allergic reactions (such as rash, skin flaking or peeling, urticaria, swelling of the skin, or swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking TRADJENTA and seek medical advice promptly.
 
+Severe and Disabling Arthralgia Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.4)].
+
 Missed Dose Instruct patients to take TRADJENTA only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
@@ -32,6 +36,10 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright © 2015 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253QG222015 10007261/09
+IT5253RI012015 10007261/09
 
-IT5437M 10007237/09
+IT5437N 10007237/09
+
+IT6174E 090340599/2
+
+IT6177C 090340598/2

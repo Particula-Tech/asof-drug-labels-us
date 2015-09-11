@@ -24,6 +24,14 @@ If a serious hypersensitivity reaction is suspected, discontinue TRADJENTA, asse
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with TRADJENTA.
 
-## 5.4 Macrovascular Outcomes
+## 5.4 Severe and Disabling Arthralgia
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
+The time to onset of symptoms following initiation of drug therapy varied from one day to years.
+Patients experienced relief of symptoms upon discontinuation of the medication.
+A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
+Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.5 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with TRADJENTA tablets or any other antidiabetic drug.
