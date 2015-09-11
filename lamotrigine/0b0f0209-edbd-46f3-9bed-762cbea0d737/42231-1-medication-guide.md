@@ -2,11 +2,6 @@
 
 Lamotrigine tablets, USP (la-MOE-tri-jeen) Rx Only
 
-Read this Medication Guide before you start taking Lamotrigine tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
-If you have questions about Lamotrigine tablets, ask your healthcare provider or pharmacist.
-
 What is the most important information I should know about Lamotrigine tablets?
 
 1.
@@ -14,7 +9,7 @@ Lamotrigine tablets may cause a serious skin rash that may cause you to be hospi
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with Lamotrigine tablets, but is more likely to happen within the first 2 to 8 weeks of treatment.
-Children aged between 2 and 16 years have a higher chance of getting this serious skin rash while taking Lamotrigine tablets.
+Children and teenagers aged between 2 and 17 years have a higher chance of getting this serious skin rash while taking Lamotrigine tablets.
 
 The risk of getting a serious skin rash is higher if you:
 
@@ -71,14 +66,14 @@ Do not stop Lamotrigine tablets without first talking to a healthcare provider.
 - Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-How can I watch for early symptoms of suicidal thoughts and actions?
+How can I watch for early symptoms of suicidal thoughts and actions in myself or a family member?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
 4.
-Lamotrigine tablets may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+Lamotrigine tablets may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -96,13 +91,13 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Meningitis has many causes other than Lamotrigine, which your doctor would check for if you developed meningitis while taking Lamotrigine tablets.
 
-Lamotrigine tablets can have other serious side effects.
+Lamotrigine tablets can cause other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of Lamotrigine tablets?”
 
 5.
-Patients prescribed Lamotrigine tablets have sometimes been given the wrong medicine because many medicines have names similar to Lamotrigine tablets, so always check that you receive Lamotrigine tablets.
+People prescribed Lamotrigine tablets have sometimes been given the wrong medicine because many medicines have names similar to Lamotrigine tablets, so always check that you receive Lamotrigine tablets.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for Lamotrigine tablets:
@@ -126,13 +121,17 @@ What are Lamotrigine tablets?
 
 Lamotrigine tablet is a prescription medicine used:
 
-1. together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
-2. alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
-3. for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people aged 18 years and older who have been treated for mood episodes with other medicine.
+- together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
+- alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
+- for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
 
-It is not known if Lamotrigine tablets are safe or effective in children or teenagers younger than 18 years with mood disorders such as bipolar disorder or depression.
+It is not known if Lamotrigine tablets are safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
 
 It is not known if Lamotrigine tablets are safe or effective when used alone as the first treatment of seizures.
+
+It is not known if Lamotrigine tablets are safe or effective for people with mood episodes who have not already been treated with other medicines.
+
+Lamotrigine tablets should not be used for acute treatment of manic or mixed mood episodes.
 
 Who should not take Lamotrigine tablets?
 
@@ -149,7 +148,7 @@ Before taking Lamotrigine tablets, tell your healthcare provider about all of yo
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).
+  Stopping these medicines while you are taking Lamotrigine tablets may cause side effects (such as dizziness, lack of coordination, or double vision).
   Starting these medicines may lessen how well Lamotrigine tablet works.
 - are pregnant or plan to become pregnant.
   It is not known if Lamotrigine tablets will harm your unborn baby.
@@ -162,7 +161,8 @@ Before taking Lamotrigine tablets, tell your healthcare provider about all of yo
   Call your baby’s healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take Lamotrigine tablets.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over the-counter medicines, vitamins, and herbal supplements.
+
 If you use Lamotrigine tablets with certain other medicines, they can affect each other, causing side effects.
 
 How should I take Lamotrigine tablets?
@@ -186,28 +186,32 @@ How should I take Lamotrigine tablets?
 
 What should I avoid while taking Lamotrigine tablets?
 
-- Do not drive a car or operate complex, hazardous machinery until you know how Lamotrigine tablet affects you.
+Do not drive, operate machinery, or do other dangerous activities until you know how Lamotrigine tablet affects you.
 
 What are the possible side effects of Lamotrigine tablets?
 
-- See “What is the most important information I should know about Lamotrigine tablets?”
-
+Lamotrigine Tablets can cause serious side effects.
+See “What is the most important information I should know about Lamotrigine tablets?”
 Common side effects of Lamotrigine tablets include:
 
 - dizziness
-- headache
-- blurred or double vision
-- lack of coordination
-- sleepiness
-- nausea, vomiting, diarrhea
-- insomnia
 - tremor
+- headache
 - rash
+- blurred or double vision
 - fever
+- lack of coordination
 - abdominal pain
+- infections, including seasonal flu
+- sleepiness
 - back pain
+- nausea, vomiting
+- diarrhea
 - tiredness
+- insomnia
 - dry mouth
+- stuffy nose
+- sore throat
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -222,7 +226,7 @@ How should I store Lamotrigine tablets?
 - Store Lamotrigine tablets at room temperature between 68oF and 77oF (20oC and 25oC); excursions permitted to 15oC to 30oC (59oF to 86oF) in a dry place and protect from light.
 - Keep Lamotrigine tablets and all medicines out of the reach of children.
 
-General information about Lamotrigine tablets
+General information about the safe and effective use of Lamotrigine tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Lamotrigine tablets for a condition for which it was not prescribed.
@@ -248,4 +252,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 04/2015
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 06/2015.
