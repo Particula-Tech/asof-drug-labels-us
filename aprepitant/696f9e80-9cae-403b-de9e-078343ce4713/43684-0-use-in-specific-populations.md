@@ -2,26 +2,71 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects
+Risk Summary
 
-Pregnancy Category B: Reproduction studies have been performed in rats at oral doses up to 1000 mg/kg twice daily (plasma AUC0‑24hr of 31.3 mcg•hr/mL, about 1.6 times the human exposure at the recommended dose) and in rabbits at oral doses up to 25 mg/kg/day (plasma AUC0‑24hr of 26.9 mcg•hr/mL, about 1.4 times the human exposure at the recommended dose) and have revealed no evidence of impaired fertility or harm to the fetus due to aprepitant.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+There are no available data on EMEND use in pregnant women to inform the drug associated risk.
+In animal reproduction studies, no evidence of teratogenicity was seen in rats and rabbits with oral administration of aprepitant during organogenesis at exposures 1.5 times the adult human exposure at the 125-mg/80-mg/80-mg EMEND regimen [see Data].
 
-## 8.3 Nursing Mothers
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Aprepitant is excreted in the milk of rats.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for possible serious adverse reactions in nursing infants from aprepitant and because of the potential for tumorigenicity shown for aprepitant in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Data
+
+Animal Data
+
+In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily (rats) and up to the maximum tolerated dose of 25 mg/kg/day (rabbits).
+No embryofetal lethality or malformations were observed at any dose levels in either species.
+The exposures (AUC) in pregnant rats at 1000 mg/kg twice daily and in pregnant rabbits at 125 mg/kg/day were approximately 1.5 times the adult exposure at the 125-mg/80-mg/80-mg EMEND regimen.
+Aprepitant crosses the placenta in rats and rabbits.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Lactation studies have not been conducted to assess the presence of aprepitant in human milk, the effects on the breastfed infant, or the effects on milk production.
+Aprepitant is present in rat milk.
+The development and health benefits of breastfeeding should be considered along with the mother's clinical need for EMEND and any potential adverse effects on the breastfed infant from EMEND or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of EMEND in pediatric patients have not been established.
+Prevention of Nausea and Vomiting Associated with HEC or MEC
+
+The safety and effectiveness of EMEND have been established in pediatric patients 6 months of age and older for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy, including high-dose cisplatin, and moderately emetogenic cancer chemotherapy.
+Use of EMEND in these age groups is supported by evidence from 302 pediatric patients (n = 207 patients aged 6 months to less than 12 years, n = 95 patients aged 12 through 17 years.
+There were 37 patients who were less than 12 years of age who weighed at least 30 kg in a randomized, double-blind, active comparator controlled clinical study.
+EMEND was studied in combination with ondansetron with or without dexamethasone (at the discretion of the physician) [see Clinical Studies (14.3)].
+Adverse reactions were similar to those reported in adult patients [see Adverse Reactions (6.1)].
+
+Although the safety and efficacy results from the trial support the use of EMEND for the prevention of nausea and vomiting associated with HEC or MEC in pediatric patients 6 months to 12 years, there is no commercially available dosage formulation appropriate for patients less than 12 years of age and weighing less than 30 kg.
+Therefore, EMEND is indicated for the prevention of nausea and vomiting associated with HEC or MEC in patients 12 years of age and older and patients less than 12 years who weigh at least 30 kg [see Dosage and Administration (2.1)].
+
+The safety and effectiveness of EMEND for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months.
+
+Prevention of Postoperative Nausea and Vomiting (PONV)
+
+The safety and effectiveness of EMEND have not been established for the prevention of postoperative nausea and vomiting in pediatric patients.
+
+Juvenile Animal Study
+
+A study was conducted in young rats to evaluate the effects of aprepitant on growth and on neurobehavioral and sexual development.
+Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male rats lower than the exposure at the recommended pediatric human dose and exposure in female rats equivalent to the pediatric human exposure) from the early postnatal period (Postnatal Day 10) through Postnatal Day 58.
+Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
+There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
 
 ## 8.5 Geriatric Use
 
-In 2 well-controlled chemotherapy-induced nausea and vomiting clinical studies, of the total number of patients (N=544) treated with EMEND, 31% were 65 and over, while 5% were 75 and over.
-In well-controlled postoperative nausea and vomiting clinical studies, of the total number of patients (N=1120) treated with EMEND, 7% were 65 and over, while 2% were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
-Greater sensitivity of some older individuals cannot be ruled out.
-Dosage adjustment in the elderly is not necessary.
+Of the 544 adult cancer patients treated with EMEND in CINV clinical studies, 31% were aged 65 and over, while 5% were aged 75 and over.
+Of the 1120 adult cancer patients treated with EMEND in PONV clinical studies, 7% were aged 65 and over, while 2% were aged 75 and over.
+Other reported clinical experience with EMEND has not identified differences in responses between elderly and younger patients.
+In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
+
+## 8.6 Patients with Renal Impairment
+
+The pharmacokinetics of aprepitant in patients with severe renal impairment and those with end stage renal disease (ESRD) requiring hemodialysis were similar to those of healthy subjects with normal renal function.
+No dosage adjustment is necessary for patients with any degree of renal impairment or for patients with ESRD undergoing hemodialysis.
+
+## 8.7 Patients with Hepatic Impairment
+
+The pharmacokinetics of aprepitant in patients with mild and moderate hepatic impairment were similar to those of healthy subjects with normal hepatic function.
+No dosage adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9).
+There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9).
+Therefore, additional monitoring for adverse reactions in these patients may be warranted when EMEND is administered [see Clinical Pharmacology (12.3)].

@@ -6,17 +6,17 @@ NDC 0006-0461-06
 
 EMEND® (APREPITANT) CAPSULES
 
+For Adults and Pediatric Patients 12 years of Age and Older
+
 Each capsule contains 80 mg aprepitant.
 
 Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
 This is a bulk package and not intended for dispensing.
 Package not child resistant.
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehose Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Formulated in Ireland
 
 6 capsules
 
@@ -28,17 +28,17 @@ NDC 0006-0462-06
 
 EMEND® (APREPITANT) CAPSULES
 
+For Adults and Pediatric Patients 12 years of Age and Older
+
 Each capsule contains 125 mg aprepitant.
 
 Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
 This is a bulk package and not intended for dispensing.
 Package not child resistant.
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manuf. by: Alkermes Pharma Ireland Limited, Athlone, Ireland Formulated in Ireland
 
 6 capsules
 
@@ -52,11 +52,13 @@ EMEND® (aprepitant) capsules
 
 125 mg 80 mg
 
+For Adults and Pediatric Patients 12 years of Age and Older
+
 One 125-mg capsule contains 125 mg aprepitant.
 
 Two 80-mg capsules each containing 80 mg of aprepitant.
 
-USUAL ADULT DOSAGE: See accompanying circular.
+USUAL DOSAGE: See accompanying circular.
 
 Rx only
 

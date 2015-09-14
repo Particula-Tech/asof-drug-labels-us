@@ -1,39 +1,22 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 CYP3A4 Interactions
+## 5.1 Clinically Significant CYP3A4 Drug Interactions
 
-EMEND (aprepitant), a dose-dependent inhibitor of CYP3A4, should be used with caution in patients receiving concomitant medications that are primarily metabolized through CYP3A4.
+Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an inducer of CYP3A4.
 
-Moderate inhibition of CYP3A4 by aprepitant, 125-mg/80-mg regimen, could result in elevated plasma concentrations of these concomitant medications.
+- Use of EMEND with other drugs that are CYP3A4 substrates, may result in increased plasma concentration of the concomitant drug.
+  - Use of pimozide with EMEND is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
+- Use of EMEND with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to EMEND.
+- Use of EMEND with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of EMEND.
 
-Weak inhibition of CYP3A4 by a single 40-mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.
+See Table 8 and Table 9 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
 
-When aprepitant is used concomitantly with another CYP3A4 inhibitor, aprepitant plasma concentrations could be elevated.
-When EMEND is used concomitantly with medications that induce CYP3A4 activity, aprepitant plasma concentrations could be reduced and this may result in decreased efficacy of EMEND [see Drug Interactions (7.1)].
+## 5.2 Decrease in INR with Concomitant Warfarin
 
-Chemotherapy agents that are known to be metabolized by CYP3A4 include docetaxel, paclitaxel, etoposide, irinotecan, ifosfamide, imatinib, vinorelbine, vinblastine and vincristine.
-In clinical studies, EMEND (125-mg/80-mg regimen) was administered commonly with etoposide, vinorelbine, or paclitaxel.
-The doses of these agents were not adjusted to account for potential drug interactions.
+Coadministration of EMEND with warfarin, a CYP2C9 substrate, may result in a clinically significant decrease in International Normalized Ratio (INR) of prothrombin time [see Clinical Pharmacology (12.3)].
+Monitor the INR in patients on chronic warfarin therapy in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of EMEND with each chemotherapy cycle, or following administration of a single 40-mg dose of EMEND for the prevention of postoperative nausea and vomiting [see Drug Interactions (7.1)].
 
-In separate pharmacokinetic studies, no clinically significant change in docetaxel or vinorelbine pharmacokinetics was observed when EMEND (125-mg/80-mg regimen) was co-administered.
+## 5.3 Risk of Reduced Efficacy of Hormonal Contraceptives
 
-Due to the small number of patients in clinical studies who received the CYP3A4 substrates vinblastine, vincristine, or ifosfamide, particular caution and careful monitoring are advised in patients receiving these agents or other chemotherapy agents metabolized primarily by CYP3A4 that were not studied [see Drug Interactions (7.1)].
-
-## 5.2 Coadministration with Warfarin (a CYP2C9 substrate)
-
-Coadministration of EMEND with warfarin may result in a clinically significant decrease in International Normalized Ratio (INR) of prothrombin time.
-In patients on chronic warfarin therapy, the INR should be closely monitored in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of EMEND with each chemotherapy cycle, or following administration of a single 40-mg dose of EMEND for the prevention of postoperative nausea and vomiting [see Drug Interactions (7.1)].
-
-## 5.3 Coadministration with Hormonal Contraceptives
-
-Upon coadministration with EMEND, the efficacy of hormonal contraceptives during and for 28 days following the last dose of EMEND may be reduced.
-Alternative or back-up methods of contraception should be used during treatment with EMEND and for 1 month following the last dose of EMEND [see Drug Interactions (7.1)].
-
-## 5.4 Patients with Severe Hepatic Impairment
-
-There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score >9).
-Therefore, caution should be exercised when EMEND is administered in these patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.5)].
-
-## 5.5 Chronic Continuous Use
-
-Chronic continuous use of EMEND for prevention of nausea and vomiting is not recommended because it has not been studied; and because the drug interaction profile may change during chronic continuous use.
+Upon coadministration with EMEND, the efficacy of hormonal contraceptives may be reduced during administration of and for 28 days following the last dose of EMEND [see Clinical Pharmacology (12.3)].
+Advise patients to use alternative or back-up methods of contraception during treatment with EMEND and for 1 month following the last dose of EMEND [see Drug Interactions (7.1)].

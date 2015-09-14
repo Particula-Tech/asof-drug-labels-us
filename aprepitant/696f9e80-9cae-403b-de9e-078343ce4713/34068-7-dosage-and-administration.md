@@ -2,52 +2,36 @@
 
 ## 2.1 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV)
 
-Capsules of EMEND (aprepitant) are given for 3 days as part of a regimen that includes a corticosteroid and a 5-HT3 antagonist.
-The recommended dose of EMEND is 125 mg orally 1 hour prior to chemotherapy treatment (Day 1) and 80 mg orally once daily in the morning on Days 2 and 3.
+Adults and Pediatric Patients 12 Years of Age and Older and Patients Less Than 12 Years of Age who Weigh at least 30 kg
 
-The package insert for the co-administered 5-HT3 antagonist must be consulted prior to initiation of treatment with EMEND.
+The recommended oral dosage of EMEND capsules, dexamethasone, and a 5-HT3 antagonist in adults and pediatric patients 12 years of age and older and patients less than 12 years of age who weigh at least 30 kg, who can swallow oral capsules, for the prevention of nausea and vomiting associated with administration of HEC or MEC is shown in Table 1 or Table 2, respectively.
 
-EMEND may be taken with or without food.
+In adults only, EMEND for injection (115 mg), a prodrug of aprepitant, may be substituted for EMEND capsules (125 mg), 30 minutes prior to chemotherapy, on Day 1 of the CINV regimen as an intravenous infusion administered over 15 minutes, followed by oral EMEND (80 mg) on Days 2 and 3.
+See the prescribing information for EMEND for injection.
 
-EMEND (fosaprepitant dimeglumine) for Injection (115 mg) is a prodrug of aprepitant and may be substituted for oral EMEND (125 mg), 30 minutes prior to chemotherapy, on Day 1 only of the CINV regimen as an intravenous infusion administered over 15 minutes.
+Table 1: Recommended Dosing for the Prevention of Nausea and Vomiting Associated with HEC
 
-The following regimen should be used for the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy:
+|  | Population | Day 1 | Day 2 | Day 3 | Day 4 |
+| --- | --- | --- | --- | --- | --- |
+| EMEND capsulesAdminister EMEND capsules 1 hour prior to chemotherapy treatment on Days 1, 2, and 3. If no chemotherapy is given on Days 2 and 3, administer EMEND capsules in the morning on Days 2 and 3. | Adults, Pediatric Patients 12 Years and Older, and Pediatric Patients less than 12 Years Who Weigh at least 30 kg | 125 mg orally | 80 mg orally | 80 mg orally | none |
+| DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The dose of dexamethasone reflects a 50% dosage reduction to account for a drug interaction with EMEND [see Clinical Pharmacology (12.3)]. | Adults | 12 mg orally | 8 mg orally | 8 mg orally | 8 mg orally |
+| Pediatric Patients 12 Years and Older, and Pediatric Patients less than 12 Years Who Weigh at least 30 kg | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 [see Clinical Studies (14.3)]. |  |  |  |  |
+| 5-HT3 antagonist | Adults, Pediatric Patients 12 Years and Older, and Pediatric Patients less than 12 Years Who Weigh at least 30 kg | See selected 5-HT3 antagonist prescribing information for the recommended dosage | none | none | none |
 
-|  | Day 1 | Day 2 | Day 3 | Day 4 |
+Table 2: Recommended Dosing for the Prevention of Nausea and Vomiting Associated with MEC
+
+|  | Population | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- | --- |
-| EMENDEMEND is administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg orally | 80 mg orally | 80 mg orally | none |
-| DexamethasoneDexamethasone is administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The dose of dexamethasone accounts for drug interactions. | 12 mg orally | 8 mg orally | 8 mg orally | 8 mg orally |
-| 5-HT3 antagonist | See the package insert for the selected 5-HT3 antagonist for appropriate dosing information. | none | none | none |
-
-The following regimen should be used for the prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy:
-
-|  | Day 1 | Day 2 | Day 3 |
-| --- | --- | --- | --- |
-| EMENDEMEND is administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg orally | 80 mg orally | 80 mg orally |
-| DexamethasoneDexamethasone is administered 30 minutes prior to chemotherapy treatment on Day 1. The dose of dexamethasone accounts for drug interactions. | 12 mg orally | none | none |
-| 5-HT3 antagonist | See the package insert for the selected 5-HT3 antagonist for appropriate dosing information. | none | none |
+| EMEND capsulesAdminister EMEND capsules 1 hour prior to chemotherapy treatment on Days 1, 2, and 3. If no chemotherapy is given on Days 2 and 3, administer EMEND capsules in the morning on Days 2 and 3. | Adults, Pediatric Patients 12 Years and Older, and Pediatric Patients less than 12 Years Who Weigh at least 30 kg | 125 mg orally | 80 mg orally | 80 mg orally |
+| DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1. The dose of dexamethasone reflects a 50% dosage reduction to account for a drug interaction with EMEND [see Clinical Pharmacology (12.3)]. | Adults | 12 mg orally | none | none |
+| Pediatric Patients 12 Years and Older, and Pediatric Patients less than 12 Years Who Weigh at least 30 kg | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 [see Clinical Studies (14.3)]. |  |  |  |
+| 5-HT3 antagonist | Adults, Pediatric Patients 12 Years and Older, and Pediatric Patients less than 12 Years Who Weigh at least 30 kg | See the selected 5-HT3 antagonist prescribing information for recommended dosage | none | none |
 
 ## 2.2 Prevention of Postoperative Nausea and Vomiting (PONV)
 
-The recommended oral dosage of EMEND is 40 mg within 3 hours prior to induction of anesthesia.
+The recommended oral dosage of EMEND capsules in adults is 40 mg within 3 hours prior to induction of anesthesia.
 
-EMEND may be taken with or without food.
+## 2.3 Administration Instructions
 
-## 2.3 Geriatric Patients
-
-No dosage adjustment is necessary for the elderly.
-
-## 2.4 Patients with Renal Impairment
-
-No dosage adjustment is necessary for patients with renal impairment or for patients with end stage renal disease (ESRD) undergoing hemodialysis.
-
-## 2.5 Patients with Hepatic Impairment
-
-No dosage adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9).
-There are no clinical data in patients with severe hepatic impairment (Child-Pugh score >9).
-
-## 2.6 Coadministration with Other Drugs
-
-For additional information on dose adjustment for corticosteroids when coadministered with EMEND, see Drug Interactions (7.1).
-
-Refer to the full prescribing information for coadministered antiemetic agents.
+- Take with or without food.
+- Swallow capsules whole.
