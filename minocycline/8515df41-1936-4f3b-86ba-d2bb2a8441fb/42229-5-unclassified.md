@@ -1,16 +1,20 @@
 Rx only
 
-Manufactured for OraPharma,Inc.
+Manufactured for:
+
+OraPharma, a division of Valeant Pharmaceuticals North America LLC
 
 Bridgewater, NJ 08807
 
-USA
+by:
 
-For more information call 1-866-ARESTIN (1-866-273-7846)
+AAIPharma Services Corporation
 
-U.S. Pat.
-Nos. 6,682,348 7,699,609
+Wilmington, NC 28405
 
-©OraPharma, Inc.
+© 2015 Valeant Pharmaceuticals North America LLC
 
-AUS-INS-002 07/2012
+9443900
+
+Rev.
+08/2015

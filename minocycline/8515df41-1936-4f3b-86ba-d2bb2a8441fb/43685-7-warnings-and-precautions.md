@@ -16,7 +16,7 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 - Hypersensitivity reactions that included, but were not limited to anaphylaxis, angioneurotic edema, urticaria, rash, swelling of the face, and pruritus have been reported with the use of ARESTIN®.
   Some of these reactions were serious.
-- Post-marketing cases of anaphylaxis and serious skin reactions such as Stevens Johnson syndrome and erythema multiforme have been reported with oral minocycline.
+  Post-marketing cases of anaphylaxis and serious skin reactions such as Stevens-Johnson syndrome and erythema multiforme have been reported with oral minocycline.
 
 ## Autoimmune Syndromes
 
@@ -27,7 +27,7 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 The use of ARESTIN® in an acutely abscessed periodontal pocket has not been studied and is not recommended.
 
-While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN® may result in overgrowth of nonsusceptible microorganisms including fungi.
+While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN® may result in overgrowth of non-susceptible microorganisms including fungi.
 The effects of treatment for greater than 6 months has not been studied.
 
 ARESTIN® should be used with caution in patients having a history of predisposition to oral candidiasis.
@@ -46,7 +46,7 @@ ARESTIN® has not been clinically tested for use in the regeneration of alveolar
 After treatment, patients should avoid chewing hard, crunchy, or sticky foods (i.e., carrots, taffy, and gum) with the treated teeth for 1 week, as well as avoid touching treated areas.
 Patients should also postpone the use of interproximal cleaning devices around the treated sites for 10 days after administration of ARESTIN®.
 Patients should be advised that although some mild to moderate sensitivity is expected during the first week after SRP and administration of ARESTIN®, they should notify the dentist promptly if pain, swelling, or other problems occur.
-Patients should be notified to inform the dentist if itching, swelling, rash, papules, reddening, difficulty breathing or other signs and symptoms of possible hypersensitivity occur.
+Patients should be notified to inform the dentist if itching, swelling, rash, papules, reddening, difficulty breathing, or other signs and symptoms of possible hypersensitivity occur.
 
 ## Carcinogenicity, Mutagenicity, Impairment of Fertility
 
@@ -59,7 +59,7 @@ Fertility and general reproduction studies have provided evidence that minocycli
 
 ## Teratogenic Effects
 
-### Pregnancy Category D
+### Pregnancy Category D.
 
 (See WARNINGS.)
 

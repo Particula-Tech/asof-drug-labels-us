@@ -4,11 +4,11 @@ NDC 65976-100-24
 
 Microsphere Delivery System Arestin® minocycline HCl 1mg MICROSPHERES
 
-For subgingival application
-
-Store at 20°C-25°C (68°F-77°F) 60% RH: excursions permitted to 15°C-30°C (59°F-86°F)
+Store at 20° to 25°C (68° to 77°F) /60% RH: excursions permitted to 15° to 30°C (59° to 86°F).
 
 Avoid exposure to excessive heat
+
+For Subgingival Application
 
 Rx only
 
