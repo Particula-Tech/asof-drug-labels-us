@@ -112,10 +112,6 @@ Table 5: Appropriate Dosing Volumes of the Reconstituted Oral Suspensions
 
 Preparation of the suspension:
 
-| Step1 | 1.The small bottle contains the microcapsules, the large bottle contains the diluent. | Step 2 | 1.Open both bottles. Child-proof cap: Press down according to instructions on the cap while turning to the left. |
-| --- | --- | --- | --- |
-| Step 3 | 3.Pour the microcapsules completely into the larger bottle of diluent. Do not add water to the suspension. | Step 4 | 4.Remove the top layer of the diluent bottle label (to reveal the CIPRO Oral Suspension label). Close the large bottle completely according to the directions on the cap and shake vigorously for about 15 seconds. The suspension is ready for use. |
-
 Step 5: Write the expiration date of the re-constituted oral suspension on the bottle label.
 
 Reconstituted product may be stored below 30 °C (86°F) for 14 days.
