@@ -13,6 +13,8 @@ In instances where swelling has been confined to the face and lips the condition
 Angioedema associated with laryngeal edema may be fatal.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see PRECAUTIONS).
+
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
@@ -56,9 +58,9 @@ Rarely, ACE inhibitors have been associated with a syndrome that starts with cho
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
-## Fetal toxicity
+## Fetal Toxicity
 
-Pregnancy category D
+Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -204,6 +206,10 @@ It is recommended that serum lithium levels be monitored frequently if enalapril
 Gold:
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including VASOTEC.
+
+mTOR (mammalian target of rapamycin) inhibitors:
+
+Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
