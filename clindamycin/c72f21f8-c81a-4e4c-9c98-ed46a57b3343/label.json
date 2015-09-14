@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050767"
+  ],
+  "inn": "clindamycin",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-011-01"
+  ],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "clindamycin phosphate",
+      "name": "Cleocin"
+    }
+  ],
+  "setid": "c72f21f8-c81a-4e4c-9c98-ed46a57b3343",
+  "source": "dailymed"
+}
