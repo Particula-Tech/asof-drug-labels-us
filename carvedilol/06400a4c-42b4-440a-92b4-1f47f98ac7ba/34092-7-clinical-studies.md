@@ -100,9 +100,6 @@ Results of COPERNICUS Trial in Subjects With Severe Heart Failure
 
 Cardiovascular = CV; Heart failure = HF.
 
-Figure 1.
-Survival Analysis for COPERNICUS (Intent-to-Treat)
-
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
 
 Patients' global assessments, in which carvedilol‑treated subjects were compared with placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening, or no change compared with baseline.
@@ -112,9 +109,6 @@ The protocol also specified that hospitalizations would be assessed.
 Fewer subjects on immediate‑release carvedilol than on placebo were hospitalized for any reason (372 versus 432, P= 0.0029), for cardiovascular reasons (246 versus 314, P = 0.0003), or for worsening heart failure (198 versus 268, P = 0.0001).
 
 Immediate‑release carvedilol had a consistent and beneficial effect on all‑cause mortality as well as the combined end points of all‑cause mortality plus hospitalization (total, CV, or for heart failure) in the overall trial population and in all subgroups examined, including men and women, elderly and non‑elderly, blacks and non‑blacks, and diabetics and non-diabetics (see Figure 2).
-
-Figure 2.
-Effects on Mortality for Subgroups in COPERNICUS
 
 Although the clinical trials used twice-daily dosing, clinical pharmacologic and pharmacokinetic data provide a reasonable basis for concluding that once-daily dosing with COREG CR should be adequate in the treatment of heart failure.
 
@@ -136,9 +130,6 @@ Another trial end point, total mortality and all-cause hospitalization, did not 
 There was also a significant 40% reduction in fatal or non-fatal myocardial infarction observed in the group treated with carvedilol (95% CI: 11% to 60%, P = 0.01).
 A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo-controlled trials of carvedilol in heart failure.
 
-Figure 3.
-Survival Analysis for CAPRICORN (Intent-to-Treat)
-
 Although the clinical trials used twice-daily dosing, clinical pharmacologic and pharmacokinetic data provide a reasonable basis for concluding that once-daily dosing with COREG CR should be adequate in the treatment of left ventricular dysfunction following myocardial infarction.
 
 ## 14.3 Hypertension
@@ -154,9 +145,6 @@ Placebo-subtracted mean changes from baseline in mean SBP/DBP were ‑6.1/‑4.0
 Placebo-subtracted mean changes from baseline in mean trough (average of hours 20 to 24) SBP/DBP were ‑3.3/‑2.8 mm Hg, ‑4.9/‑5.2 mm Hg, and ‑8.4/‑7.4 mm Hg for COREG CR 20 mg, 40 mg, and 80 mg, respectively.
 The placebo-corrected trough to peak (3 to 7 h) ratio was approximately 0.6 for COREG CR 80 mg.
 In this trial, assessments of 24‑hour ABPM monitoring demonstrated statistically significant blood pressure reductions with COREG CR throughout the dosing period (Figure 5).
-
-Figure 5.
-Changes from Baseline in Systolic Blood Pressure and Diastolic Blood Pressure Measured by 24-Hour ABPM
 
 Immediate‑release carvedilol was studied in 2 placebo‑controlled trials that utilized twice‑daily dosing, at total daily doses of 12.5 to 50 mg.
 In these and other trials, the starting dose did not exceed 12.5 mg.
