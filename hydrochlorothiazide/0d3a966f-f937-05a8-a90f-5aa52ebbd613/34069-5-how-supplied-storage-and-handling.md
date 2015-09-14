@@ -10,10 +10,3 @@ ZESTORETIC 20-25 Tablets: Peach, round, biconvex, uncoated tablets identified wi
 
 Store at controlled room temperature, 20-25°C (68-77°F) [see USP].
 Protect from excessive light and humidity.
-
-*AN69 is a registered trademark of Hospal Ltd. ZESTORETIC is a trademark of Alvogen Pharma US, Inc. Manufactured by: AstraZeneca UK Limited, Macclesfield, UK
-
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-PI435-01 Rev.
-01/2015 P

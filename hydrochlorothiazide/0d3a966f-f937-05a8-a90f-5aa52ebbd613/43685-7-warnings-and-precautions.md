@@ -13,6 +13,8 @@ Very rarely, fatalities have been reported due to angioedema associated with lar
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (See ADVERSE REACTIONS).
 
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
@@ -69,7 +71,7 @@ If oligohydramnios is observed, discontinue ZESTORETIC, unless it is considered 
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 Closely observe infants with histories of in utero exposure to ZESTORETIC for hypotension, oliguria, and hyperkalemia.
-(see Precautions, Pediatric Use).
+(See Precautions, Pediatric Use).
 
 No teratogenic effects of lisinopril were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/kg basis, the doses used were up to 625 times (in mice), 188 times (in rats), and 0.6 times (in rabbits) the maximum recommended human dose.
