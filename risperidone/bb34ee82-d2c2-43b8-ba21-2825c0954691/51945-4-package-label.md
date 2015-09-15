@@ -6,7 +6,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-309-11
 
-Risperdal®CONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 NEW COMPONENTS AND INSTRUCTIONS FOR USE
 
@@ -32,7 +32,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-306-11
 
-Risperdal®CONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 NEW COMPONENTS AND INSTRUCTIONS FOR USE
 
@@ -58,7 +58,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-307-11
 
-Risperdal®CONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 NEW COMPONENTS AND INSTRUCTIONS FOR USE
 
@@ -84,7 +84,7 @@ Store Package in Refrigerator (see bottom panel for storage conditions)
 
 NDC 50458-308-11
 
-Risperdal®CONSTA® risperiDONE Long-Acting Injection
+Risperdal CONSTA® risperiDONE Long-Acting Injection
 
 NEW COMPONENTS AND INSTRUCTIONS FOR USE
 

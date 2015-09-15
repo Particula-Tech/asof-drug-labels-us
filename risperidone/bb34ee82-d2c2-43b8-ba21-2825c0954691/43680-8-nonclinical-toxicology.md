@@ -14,7 +14,7 @@ Mammary gland adenocarcinomas were significantly increased in female mice at all
 
 Carcinogenesis - Intramuscular
 
-RISPERDAL® CONSTA® was evaluated in a 24-month carcinogenicity study in which SPF Wistar rats were treated every 2 weeks with intramuscular (IM) injections of either 5 mg/kg or 40 mg/kg of risperidone.
+RISPERDAL CONSTA® was evaluated in a 24-month carcinogenicity study in which SPF Wistar rats were treated every 2 weeks with intramuscular (IM) injections of either 5 mg/kg or 40 mg/kg of risperidone.
 These doses are 1 and 8 times the MRHD (50 mg) on a mg/m2 basis.
 A control group received injections of 0.9% NaCl, and a vehicle control group was injected with placebo microspheres.
 There was a significant increase in pituitary gland adenomas, endocrine pancreas adenomas, and adrenomedullary pheochromocytomas at 8 times the IM MRHD on a mg/m2 basis.
@@ -24,7 +24,7 @@ Plasma exposures (AUC) in rats were 0.3 and 2 times (at 5 and 40 mg/kg, respecti
 
 Dopamine D2 receptor antagonists have been shown to chronically elevate prolactin levels in rodents.
 Serum prolactin levels were not measured during the carcinogenicity studies of oral risperidone; however, measurements taken during subchronic toxicity studies showed that oral risperidone elevated serum prolactin levels 5- to 6-fold in mice and rats at the same doses used in the oral carcinogenicity studies.
-Serum prolactin levels increased in a dose-dependent manner up to 6- and 1.5-fold in male and female rats, respectively, at the end of the 24-month treatment with RISPERDAL® CONSTA® every 2 weeks.
+Serum prolactin levels increased in a dose-dependent manner up to 6- and 1.5-fold in male and female rats, respectively, at the end of the 24-month treatment with RISPERDAL CONSTA® every 2 weeks.
 Increases in the incidence of pituitary gland, endocrine pancreas, and mammary gland neoplasms have been found in rodents after chronic administration of other antipsychotic drugs and may be prolactin-mediated.
 
 The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.6)].
@@ -33,7 +33,7 @@ Mutagenesis
 
 No evidence of mutagenic potential for oral risperidone was found in the in vitro Ames reverse mutation test, in vitro mouse lymphoma assay, in vitro rat hepatocyte DNA-repair assay, in vivo oral micronucleus test in mice, the sex-linked recessive lethal test in Drosophila, or the in vitro chromosomal aberration test in human lymphocytes or in Chinese hamster cells.
 
-In addition, no evidence of mutagenic potential was found in the in vitro Ames reverse mutation test for RISPERDAL® CONSTA®.
+In addition, no evidence of mutagenic potential was found in the in vitro Ames reverse mutation test for RISPERDAL CONSTA®.
 
 Impairment of Fertility
 
@@ -44,4 +44,4 @@ Dose-related decreases were also noted in serum testosterone at the same doses.
 Serum testosterone and sperm values partially recovered, but remained decreased after treatment was discontinued.
 No no-effect doses were noted in either rat or dog.
 
-No mating and fertility studies were conducted with RISPERDAL® CONSTA®.
+No mating and fertility studies were conducted with RISPERDAL CONSTA®.

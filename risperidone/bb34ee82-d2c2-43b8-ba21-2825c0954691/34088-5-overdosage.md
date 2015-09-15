@@ -2,8 +2,8 @@
 
 ## 10.1 Human Experience
 
-No cases of overdose were reported in premarketing studies with RISPERDAL® CONSTA®.
-Because RISPERDAL® CONSTA® is to be administered by health care professionals, the potential for overdosage by patients is low.
+No cases of overdose were reported in premarketing studies with RISPERDAL CONSTA®.
+Because RISPERDAL CONSTA® is to be administered by health care professionals, the potential for overdosage by patients is low.
 
 In premarketing experience with oral RISPERDAL®, there were eight reports of acute RISPERDAL® overdosage, with estimated doses ranging from 20 to 300 mg and no fatalities.
 In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension, and extrapyramidal symptoms.

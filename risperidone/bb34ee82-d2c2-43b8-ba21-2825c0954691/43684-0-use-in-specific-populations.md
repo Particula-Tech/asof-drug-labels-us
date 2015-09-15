@@ -16,7 +16,7 @@ In addition, there was an increase in deaths by Day 1 among pups of drug-treated
 Risperidone also appeared to impair maternal behavior in that pup body weight gain and survival (from Days 1 to 4 of lactation) were reduced in pups born to control but reared by drug-treated dams.
 These effects were all noted at the one dose of risperidone tested, i.e., 5 mg/kg or 3 times the oral MRHD on a mg/m2 basis.
 
-No studies were conducted with RISPERDAL® CONSTA®.
+No studies were conducted with RISPERDAL CONSTA®.
 
 Placental transfer of risperidone occurs in rat pups.
 There are no adequate and well-controlled studies in pregnant women.
@@ -29,20 +29,20 @@ Neonates exposed to antipsychotic drugs (including RISPERDAL®) during the third
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-RISPERDAL® CONSTA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+RISPERDAL CONSTA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 
-The effect of RISPERDAL® CONSTA® on labor and delivery in humans is unknown.
+The effect of RISPERDAL CONSTA® on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
 Risperidone and 9-hydroxyrisperidone are also excreted in human breast milk.
-Therefore, women should not breast-feed during treatment with RISPERDAL® CONSTA® and for at least 12 weeks after the last injection.
+Therefore, women should not breast-feed during treatment with RISPERDAL CONSTA® and for at least 12 weeks after the last injection.
 
 ## 8.4 Pediatric Use
 
-RISPERDAL® CONSTA® has not been studied in children younger than 18 years old.
+RISPERDAL CONSTA® has not been studied in children younger than 18 years old.
 However, juvenile animal toxicology studies have been conducted with oral risperidone.
 
 Juvenile dogs were treated for 40 weeks with oral risperidone doses of 0.31, 1.25, or 5 mg/kg/day.
@@ -60,8 +60,8 @@ The long-term effects of risperidone on growth and sexual maturation have not be
 
 ## 8.5 Geriatric Use
 
-In an open-label study, 57 clinically stable, elderly patients (≥65 years old) with schizophrenia or schizoaffective disorder received RISPERDAL® CONSTA® every 2 weeks for up to 12 months.
-In general, no differences in the tolerability of RISPERDAL® CONSTA® were observed between otherwise healthy elderly and nonelderly patients.
+In an open-label study, 57 clinically stable, elderly patients (≥65 years old) with schizophrenia or schizoaffective disorder received RISPERDAL CONSTA® every 2 weeks for up to 12 months.
+In general, no differences in the tolerability of RISPERDAL CONSTA® were observed between otherwise healthy elderly and nonelderly patients.
 Therefore, dosing recommendations for otherwise healthy elderly patients are the same as for nonelderly patients.
 Because elderly patients exhibit a greater tendency to orthostatic hypotension than nonelderly patients, elderly patients should be instructed in nonpharmacologic interventions that help to reduce the occurrence of orthostatic hypotension (e.g., sitting on the edge of the bed for several minutes before attempting to stand in the morning and slowly rising from a seated position).
 In addition, monitoring of orthostatic vital signs should be considered in elderly patients for whom orthostatic hypotension is of concern [see Warnings and Precautions (5.7)].
@@ -71,5 +71,5 @@ Concomitant use with Furosemide in Elderly Patients with Dementia-Related Psycho
 In two of four placebo-controlled trials in elderly patients with dementia-related psychosis, a higher incidence of mortality was observed in patients treated with furosemide plus oral risperidone when compared to patients treated with oral risperidone alone or with oral placebo plus furosemide.
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 An increase of mortality in elderly patients with dementia-related psychosis was seen with the use of oral risperidone regardless of concomitant use with furosemide.
-RISPERDAL® CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
+RISPERDAL CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
 [see Boxed Warning and Warnings and Precautions (5.1)]

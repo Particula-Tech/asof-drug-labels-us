@@ -4,12 +4,12 @@ Risperidone active ingredient is manufactured by: Janssen Pharmaceutical Walling
 
 Microspheres are manufactured by: Alkermes, Inc. Wilmington, Ohio
 
-Diluent is manufactured by: Vetter Pharma Fertigung GmbH & Co. KG Ravensburg or Langenargen, Germany
+Diluent is manufactured by: Vetter Pharma Fertigung GmbH & Co. KG Langenargen, Germany
 
 or
 
 Cilag AG Schaffhausen, Switzerland
 
-RISPERDAL® CONSTA® is manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+RISPERDAL CONSTA® is manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised June 2014 © Janssen Pharmaceuticals, Inc. 2007
+Revised March 2015 © Janssen Pharmaceuticals, Inc. 2007

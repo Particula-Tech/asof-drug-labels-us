@@ -1,19 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-The interactions of RISPERDAL® CONSTA® with coadministration of other drugs have not been systematically evaluated.
+The interactions of RISPERDAL CONSTA® with coadministration of other drugs have not been systematically evaluated.
 The drug interaction data provided in this section is based on studies with oral RISPERDAL®.
 
 ## 7.1 Centrally-Acting Drugs and Alcohol
 
-Given the primary CNS effects of risperidone, caution should be used when RISPERDAL® CONSTA® is administered in combination with other centrally-acting drugs or alcohol.
+Given the primary CNS effects of risperidone, caution should be used when RISPERDAL CONSTA® is administered in combination with other centrally-acting drugs or alcohol.
 
 ## 7.2 Drugs with Hypotensive Effects
 
-Because of its potential for inducing hypotension, RISPERDAL® CONSTA® may enhance the hypotensive effects of other therapeutic agents with this potential.
+Because of its potential for inducing hypotension, RISPERDAL CONSTA® may enhance the hypotensive effects of other therapeutic agents with this potential.
 
 ## 7.3 Levodopa and Dopamine Agonists
 
-RISPERDAL® CONSTA® may antagonize the effects of levodopa and dopamine agonists.
+RISPERDAL CONSTA® may antagonize the effects of levodopa and dopamine agonists.
 
 ## 7.4 Amitriptyline
 
@@ -30,11 +30,11 @@ Chronic administration of clozapine with risperidone may decrease the clearance 
 
 ## 7.7 Lithium
 
-Repeated doses of oral RISPERDAL® (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
+Repeated doses of oral RISPERDAL® (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (N=13).
 
 ## 7.8 Valproate
 
-Repeated doses of oral RISPERDAL® (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1000 mg/day in three divided doses) compared to placebo (n=21).
+Repeated doses of oral RISPERDAL® (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1000 mg/day in three divided doses) compared to placebo (N=21).
 However, there was a 20% increase in valproate peak plasma concentration (Cmax) after concomitant administration of oral RISPERDAL®.
 
 ## 7.9 Digoxin
@@ -62,10 +62,10 @@ Fluoxetine and Paroxetine
 Fluoxetine (20 mg once daily) and paroxetine (20 mg once daily), CYP 2D6 inhibitors, have been shown to increase the plasma concentration of risperidone 2.5–2.8 fold and 3–9 fold respectively.
 Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
 Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
-When either concomitant fluoxetine or paroxetine is initiated or discontinued, the physician should re-evaluate the dose of RISPERDAL® CONSTA®.
-When initiation of fluoxetine or paroxetine is considered, patients may be placed on a lower dose of RISPERDAL® CONSTA® between 2 to 4 weeks before the planned start of fluoxetine or paroxetine therapy to adjust for the expected increase in plasma concentrations of risperidone.
-When fluoxetine or paroxetine is initiated in patients receiving the recommended dose of 25 mg RISPERDAL® CONSTA®, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
-When RISPERDAL® CONSTA® is initiated in patients already receiving fluoxetine or paroxetine, a starting dose of 12.5 mg can be considered.
+When either concomitant fluoxetine or paroxetine is initiated or discontinued, the physician should re-evaluate the dose of RISPERDAL CONSTA®.
+When initiation of fluoxetine or paroxetine is considered, patients may be placed on a lower dose of RISPERDAL CONSTA® between 2 to 4 weeks before the planned start of fluoxetine or paroxetine therapy to adjust for the expected increase in plasma concentrations of risperidone.
+When fluoxetine or paroxetine is initiated in patients receiving the recommended dose of 25 mg RISPERDAL CONSTA®, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL CONSTA® treatment.
+When RISPERDAL CONSTA® is initiated in patients already receiving fluoxetine or paroxetine, a starting dose of 12.5 mg can be considered.
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 [see also Dosage and Administration (2.5)].
 The effects of discontinuation of concomitant fluoxetine or paroxetine therapy on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied.
@@ -78,17 +78,17 @@ There were no significant interactions between oral RISPERDAL® and erythromycin
 
 Carbamazepine co-administration with oral RISPERDAL® decreased the steady-state plasma concentrations of risperidone and 9-hydroxyrisperidone by about 50%.
 Plasma concentrations of carbamazepine did not appear to be affected.
-Co-administration of other known CYP 3A4 enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital) with risperidone may cause similar decreases in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone, which could lead to decreased efficacy of RISPERDAL® CONSTA® treatment.
-At the initiation of therapy with carbamazepine or other known hepatic enzyme inducers, patients should be closely monitored during the first 4–8 weeks, since the dose of RISPERDAL® CONSTA® may need to be adjusted.
+Co-administration of other known CYP 3A4 enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital) with risperidone may cause similar decreases in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone, which could lead to decreased efficacy of RISPERDAL CONSTA® treatment.
+At the initiation of therapy with carbamazepine or other known hepatic enzyme inducers, patients should be closely monitored during the first 4–8 weeks, since the dose of RISPERDAL CONSTA® may need to be adjusted.
 A dose increase, or additional oral RISPERDAL®, may need to be considered.
-On discontinuation of carbamazepine or other CYP 3A4 hepatic enzyme inducers, the dosage of RISPERDAL® CONSTA® should be re-evaluated and, if necessary, decreased.
-Patients may be placed on a lower dose of RISPERDAL® CONSTA® between 2 to 4 weeks before the planned discontinuation of carbamazepine or other CYP 3A4 enzyme inducers to adjust for the expected increase in plasma concentrations of risperidone plus 9-hydroxyrisperidone.
-For patients treated with the recommended dose of 25 mg RISPERDAL® CONSTA® and discontinuing from carbamazepine or other CYP 3A4 enzyme inducers, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
+On discontinuation of carbamazepine or other CYP 3A4 hepatic enzyme inducers, the dosage of RISPERDAL CONSTA® should be re-evaluated and, if necessary, decreased.
+Patients may be placed on a lower dose of RISPERDAL CONSTA® between 2 to 4 weeks before the planned discontinuation of carbamazepine or other CYP 3A4 enzyme inducers to adjust for the expected increase in plasma concentrations of risperidone plus 9-hydroxyrisperidone.
+For patients treated with the recommended dose of 25 mg RISPERDAL CONSTA® and discontinuing from carbamazepine or other CYP 3A4 enzyme inducers, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL CONSTA® treatment.
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 [see also Dosage and Administration (2.5)]
 
 ## 7.13 Drugs Metabolized by CYP 2D6
 
 In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
-Therefore, RISPERDAL® CONSTA® is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
+Therefore, RISPERDAL CONSTA® is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
 In drug interaction studies, oral RISPERDAL® did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.

@@ -3,13 +3,13 @@
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-RISPERDAL® CONSTA® (risperidone) is not approved for the treatment of dementia-related psychosis (see Boxed Warning).
+RISPERDAL CONSTA® (risperidone) is not approved for the treatment of dementia-related psychosis (see Boxed Warning).
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 Cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73–97) in trials of oral risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with oral risperidone compared to patients treated with placebo.
-RISPERDAL® CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
+RISPERDAL CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
 [see also Boxed Warning and Warnings and Precautions (5.1)]
 
 ## 5.3 Neuroleptic Malignant Syndrome (NMS)
@@ -41,13 +41,13 @@ There is no known treatment for established cases of tardive dyskinesia, althoug
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
-Given these considerations, RISPERDAL® CONSTA® should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Given these considerations, RISPERDAL CONSTA® should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
-If signs and symptoms of tardive dyskinesia appear in a patient treated with RISPERDAL® CONSTA®, drug discontinuation should be considered.
-However, some patients may require treatment with RISPERDAL® CONSTA® despite the presence of the syndrome.
+If signs and symptoms of tardive dyskinesia appear in a patient treated with RISPERDAL CONSTA®, drug discontinuation should be considered.
+However, some patients may require treatment with RISPERDAL CONSTA® despite the presence of the syndrome.
 
 ## 5.5 Metabolic Changes
 
@@ -78,13 +78,13 @@ Change in Random Glucose From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or 
 | --- | --- | --- | --- |
 |  |  | RISPERDAL® |  |
 |  | Mean change from baseline (mg/dL) |  |  |
-|  | n=555 | n=748 | n=164 |
+|  | N=555 | N=748 | N=164 |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
 |  | Proportion of patients with shifts |  |  |
 | Serum Glucose | 0.6% | 0.4% | 0% |
 | (<140 mg/dL to ≥200 mg/dL) | (3/525) | (3/702) | (0/158) |
 
-In longer-term, controlled and uncontrolled studies in adult subjects, RISPERDAL® was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
+In longer-term, controlled and uncontrolled studies in adult subjects, RISPERDAL® was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (N=151) and +4.1 mg/dL at Week 48 (N=50).
 
 Dyslipidemia
 
@@ -99,9 +99,9 @@ Change in Random Lipids From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or F
 | --- | --- | --- | --- |
 |  |  | RISPERDAL® |  |
 |  | Mean change from baseline (mg/dL) |  |  |
-| Cholesterol | n=559 | n=742 | n=156 |
+| Cholesterol | N=559 | N=742 | N=156 |
 | Change from baseline | 0.6 | 6.9 | 1.8 |
-| Triglycerides | n=183 | n=307 | n=123 |
+| Triglycerides | N=183 | N=307 | N=123 |
 | Change from baseline | -17.4 | -4.9 | -8.3 |
 |  | Proportion of patients With Shifts |  |  |
 | Cholesterol | 2.7% | 4.3% | 6.3% |
@@ -109,7 +109,7 @@ Change in Random Lipids From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or F
 | Triglycerides | 1.1% | 2.7% | 2.5% |
 | (<500 mg/dL to ≥500 mg/dL) | (2/180) | (8/301) | (3/121) |
 
-In longer-term, controlled and uncontrolled studies, RISPERDAL® was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
+In longer-term, controlled and uncontrolled studies, RISPERDAL® was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (N=231) and +5.5 mg/dL at Week 48 (N=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (N=52).
 
 Weight Gain
 
@@ -121,15 +121,15 @@ Data from a placebo-controlled, 12-week, fixed-dose study in adult subjects with
 Table 3.
 Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥7% Gain in Body Weight From a Placebo-Controlled, 12-Week, Fixed-Dose Study in Adult Subjects With Schizophrenia
 
-|  | Placebo (n=83) | 25 mg (n=90) | 50 mg (n=87) |
+|  | Placebo (N=83) | 25 mg (N=90) | 50 mg (N=87) |
 | --- | --- | --- | --- |
-|  |  | RISPERDAL® CONSTA® |  |
+|  |  | RISPERDAL CONSTA® |  |
 | Weight (kg) |  |  |  |
 | Change from baseline | -1.4 | 0.5 | 1.2 |
 | Weight Gain |  |  |  |
 | ≥7% increase from baseline | 6% | 10% | 8% |
 
-In an uncontrolled, longer-term, open-label study, RISPERDAL® CONSTA® was associated with a mean change in weight of +2.1 kg at Week 24 (n=268) and +2.8 kg at Week 50 (n=199).
+In an uncontrolled, longer-term, open-label study, RISPERDAL CONSTA® was associated with a mean change in weight of +2.1 kg at Week 24 (N=268) and +2.8 kg at Week 50 (N=199).
 
 ## 5.6 Hyperprolactinemia
 
@@ -147,40 +147,40 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 ## 5.7 Orthostatic Hypotension
 
-RISPERDAL® CONSTA® may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period with oral risperidone, probably reflecting its alpha-adrenergic antagonistic properties.
-Syncope was reported in 0.8% (12/1499 patients) of patients treated with RISPERDAL® CONSTA® in multiple-dose studies.
+RISPERDAL CONSTA® may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period with oral risperidone, probably reflecting its alpha-adrenergic antagonistic properties.
+Syncope was reported in 0.8% (12/1499 patients) of patients treated with RISPERDAL CONSTA® in multiple-dose studies.
 Patients should be instructed in nonpharmacologic interventions that help to reduce the occurrence of orthostatic hypotension (e.g., sitting on the edge of the bed for several minutes before attempting to stand in the morning and slowly rising from a seated position).
 
-RISPERDAL® CONSTA® should be used with particular caution in (1) patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and (2) in the elderly and patients with renal or hepatic impairment.
+RISPERDAL CONSTA® should be used with particular caution in (1) patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and (2) in the elderly and patients with renal or hepatic impairment.
 Monitoring of orthostatic vital signs should be considered in all such patients, and a dose reduction should be considered if hypotension occurs.
 Clinically significant hypotension has been observed with concomitant use of oral RISPERDAL® and antihypertensive medication.
 
 ## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL® CONSTA®.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including RISPERDAL CONSTA®.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and a history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of RISPERDAL® CONSTA® should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of RISPERDAL CONSTA® should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue RISPERDAL® CONSTA® and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue RISPERDAL CONSTA® and have their WBC followed until recovery.
 
 ## 5.9 Potential for Cognitive and Motor Impairment
 
-Somnolence was reported by 5% of patients treated with RISPERDAL® CONSTA® in multiple-dose trials.
-Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that treatment with RISPERDAL® CONSTA® does not affect them adversely.
+Somnolence was reported by 5% of patients treated with RISPERDAL CONSTA® in multiple-dose trials.
+Since risperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that treatment with RISPERDAL CONSTA® does not affect them adversely.
 
 ## 5.10 Seizures
 
-During premarketing testing, seizures occurred in 0.3% (5/1499 patients) of patients treated with RISPERDAL® CONSTA®.
-Therefore, RISPERDAL® CONSTA® should be used cautiously in patients with a history of seizures.
+During premarketing testing, seizures occurred in 0.3% (5/1499 patients) of patients treated with RISPERDAL CONSTA®.
+Therefore, RISPERDAL CONSTA® should be used cautiously in patients with a history of seizures.
 
 ## 5.11 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
-RISPERDAL® CONSTA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
+RISPERDAL CONSTA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 [see also Boxed Warning and Warnings and Precautions (5.1)]
 
 ## 5.12 Priapism
@@ -197,12 +197,12 @@ The relationship to RISPERDAL® therapy is unknown.
 ## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
-Both hyperthermia and hypothermia have been reported in association with oral RISPERDAL® or RISPERDAL® CONSTA® use.
-Caution is advised when prescribing RISPERDAL® CONSTA® for patients who will be exposed to temperature extremes.
+Both hyperthermia and hypothermia have been reported in association with oral RISPERDAL® or RISPERDAL CONSTA® use.
+Caution is advised when prescribing RISPERDAL CONSTA® for patients who will be exposed to temperature extremes.
 
 ## 5.15 Administration
 
-RISPERDAL® CONSTA® should be injected into the deltoid or gluteal muscle, and care must be taken to avoid inadvertent injection into a blood vessel.
+RISPERDAL CONSTA® should be injected into the deltoid or gluteal muscle, and care must be taken to avoid inadvertent injection into a blood vessel.
 [see Dosage and Administration (2) and Adverse Reactions (6.7)]
 
 ## 5.16 Antiemetic Effect
@@ -212,28 +212,28 @@ Risperidone has an antiemetic effect in animals; this effect may also occur in h
 ## 5.17 Suicide
 
 There is an increased risk of suicide attempt in patients with schizophrenia or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
-RISPERDAL® CONSTA® is to be administered by a health care professional [see Dosage and Administration (2)]; therefore, suicide due to an overdose is unlikely.
+RISPERDAL CONSTA® is to be administered by a health care professional [see Dosage and Administration (2)]; therefore, suicide due to an overdose is unlikely.
 
 ## 5.18 Use in Patients with Concomitant Illness
 
-Clinical experience with RISPERDAL® CONSTA® in patients with certain concomitant systemic illnesses is limited.
-Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL® CONSTA®, are reported to have an increased sensitivity to antipsychotic medications.
+Clinical experience with RISPERDAL CONSTA® in patients with certain concomitant systemic illnesses is limited.
+Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL CONSTA®, are reported to have an increased sensitivity to antipsychotic medications.
 Manifestations of this increased sensitivity have been reported to include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
 
-Caution is advisable when using RISPERDAL® CONSTA® in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
-RISPERDAL® CONSTA® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
+Caution is advisable when using RISPERDAL CONSTA® in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
+RISPERDAL CONSTA® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from clinical studies during the product's premarket testing.
 
 Increased plasma concentrations of risperidone and 9-hydroxyrisperidone occur in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2) treated with oral RISPERDAL®; an increase in the free fraction of risperidone is also seen in patients with severe hepatic impairment.
-Patients with renal or hepatic impairment should be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL® CONSTA® is initiated at a dose of 25 mg.
+Patients with renal or hepatic impairment should be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
 A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal or hepatic impairment [see Dosage and Administration (2.4)].
 
 ## 5.19 Osteodystrophy and Tumors in Animals
 
-RISPERDAL® CONSTA® produced osteodystrophy in male and female rats in a 1-year toxicity study and a 2-year carcinogenicity study at a dose of 40 mg/kg administered IM every 2 weeks.
+RISPERDAL CONSTA® produced osteodystrophy in male and female rats in a 1-year toxicity study and a 2-year carcinogenicity study at a dose of 40 mg/kg administered IM every 2 weeks.
 
-RISPERDAL® CONSTA® produced renal tubular tumors (adenoma, adenocarcinoma) and adrenomedullary pheochromocytomas in male rats in the 2-year carcinogenicity study at 40 mg/kg administered IM every 2 weeks.
-In addition, RISPERDAL® CONSTA® produced an increase in a marker of cellular proliferation in renal tissue in males in the 1-year toxicity study and in renal tumor-bearing males in the 2-year carcinogenicity study at 40 mg/kg administered IM every 2 weeks.
+RISPERDAL CONSTA® produced renal tubular tumors (adenoma, adenocarcinoma) and adrenomedullary pheochromocytomas in male rats in the 2-year carcinogenicity study at 40 mg/kg administered IM every 2 weeks.
+In addition, RISPERDAL CONSTA® produced an increase in a marker of cellular proliferation in renal tissue in males in the 1-year toxicity study and in renal tumor-bearing males in the 2-year carcinogenicity study at 40 mg/kg administered IM every 2 weeks.
 (Cellular proliferation was not measured at the low dose or in females in either study.)
 
 The effect dose for osteodystrophy and the tumor findings is 8 times the IM maximum recommended human dose (MRHD) (50 mg) on a mg/m2 basis and is associated with a plasma exposure (AUC) 2 times the expected plasma exposure (AUC) at the IM MRHD.
