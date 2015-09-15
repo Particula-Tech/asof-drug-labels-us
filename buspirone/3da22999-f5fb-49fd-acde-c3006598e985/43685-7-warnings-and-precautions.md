@@ -93,7 +93,7 @@ These pharmacokinetic interactions were accompanied by an increased incidence of
 If the two drugs are to be used in combination, a low dose of buspirone (e.g., 2.5 mg q.d.) is recommended.
 Subsequent dose adjustment of either drug should be based on clinical assessment.
 
-Nefazodone: In a study of steady-state pharmacokinetics in healthy volunteers, coadministration of buspirone (2.5 or 5 mg b.i.d.) with nefazodone (250 mg b.i.d.) resulted in marked increases in plasma buspirone concentrations (increases up to 20-fold in C max and up to 50 buspirone metabolite 1-PP.
+Nefazodone: In a study of steady-state pharmacokinetics in healthy volunteers, coadministration of buspirone (2.5 or 5 mg b.i.d.) with nefazodone (250 mg b.i.d.) resulted in marked increases in plasma buspirone concentrations (increases up to 20-fold in C max and up to 50 fold in AUC) and statistically significant decreases (about 50%) in plasma concentrations of the buspirone metabolite 1-PP.
 With 5 mg b.i.d. doses of buspirone, slight increases in AUC were observed for nefazodone (23%) and its metabolites hydroxynefazodone (HO-NEF) (17%) and meta-chlorophenylpiperazine (9%).
 Slight increases in C max were observed for nefazodone (8%) and its metabolite HO-NEF (11%).
 Subjects receiving buspirone 5 mg b.i.d. and nefazodone 250 mg b.i.d. experienced lightheadedness, asthenia, dizziness, and somnolence, adverse events also observed with either drug alone.
@@ -172,7 +172,7 @@ There is no long-term safety or efficacy data in this population.
 
 ## Geriatric Use
 
-In one study of 6632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar tothose in the younger population (mean age = 43.3 years).
+In one study of 6632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
 Review of spontaneously reported adverse clinical events has not identified differences between elderly and younger patients, but greater sensitivity of some older patients can not be ruled out.
 
 There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY, Special Populations).

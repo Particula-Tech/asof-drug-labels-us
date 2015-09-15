@@ -1,8 +1,6 @@
 # REFERENCES
 
-1. 1.
-   American Psychiatric Association, Ed.: Diagnostic and Statistical Manual of Mental
-2. Disorders-III, American Psychiatric Association, May 1980
+1. American Psychiatric Association, Ed.: Diagnostic and Statistical Manual of Mental Disorders-III, American Psychiatric Association, May 1980
 
 Manufactured For:
 
@@ -32,4 +30,4 @@ India.
 
 10 9713 0 626412
 
-Issued June, 2014.
+Issued July, 2015.
