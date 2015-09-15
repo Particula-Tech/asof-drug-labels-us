@@ -8,6 +8,6 @@ Pharmacy Bulk Package
 
 Not for Direct Infusion
 
-For IV Use*
+For Intravenous Use*
 
 Rx Only
