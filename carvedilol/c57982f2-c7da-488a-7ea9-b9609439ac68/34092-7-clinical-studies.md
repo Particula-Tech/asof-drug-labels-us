@@ -96,9 +96,6 @@ Results of COPERNICUS Trial in Subjects With Severe Heart Failure
 
 Cardiovascular = CV; Heart failure = HF.
 
-Figure 1.
-Survival Analysis for COPERNICUS (Intent-to-Treat)
-
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
 
 Patients' global assessments, in which carvedilol‑treated subjects were compared with placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening or no change compared with baseline.
@@ -108,9 +105,6 @@ The protocol also specified that hospitalizations would be assessed.
 Fewer subjects on COREG than on placebo were hospitalized for any reason (372 versus 432, P = 0.0029), for cardiovascular reasons (246 versus 314, P = 0.0003), or for worsening heart failure (198 versus 268, P = 0.0001).
 
 COREG had a consistent and beneficial effect on all‑cause mortality as well as the combined end points of all‑cause mortality plus hospitalization (total, CV, or for heart failure) in the overall trial population and in all subgroups examined, including men and women, elderly and non‑elderly, blacks and non‑blacks, and diabetics and non-diabetics (see Figure 2).
-
-Figure 2.
-Effects on Mortality for Subgroups in COPERNICUS
 
 ## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
@@ -128,9 +122,6 @@ Nearly all deaths were cardiovascular (which were reduced by 25% by carvedilol),
 
 There was also a significant 40% reduction in fatal or non-fatal myocardial infarction observed in the group treated with carvedilol (95% CI: 11% to 60%, P = 0.01).
 A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo-controlled trials of carvedilol in heart failure.
-
-Figure 4.
-Effects on Mortality for Subgroups in CAPRICORN
 
 ## 14.3 Hypertension
 
