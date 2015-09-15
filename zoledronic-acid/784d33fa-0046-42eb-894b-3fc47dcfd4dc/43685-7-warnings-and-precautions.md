@@ -22,6 +22,7 @@ Preexisting renal insufficiency and multiple cycles of zoledronic acid and other
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
 Zoledronic acid treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
+[see Dosage and Administration (2.1)].
 In the clinical studies, patients with serum creatinine greater than 400 mcmol/L or greater than 4.5 mg/dL were excluded.
 
 Zoledronic acid treatment is not recommended in patients with bone metastases with severe renal impairment.
@@ -32,7 +33,9 @@ Limited pharmacokinetic data exists in patients with creatinine clearance less t
 
 Osteonecrosis of the jaw (ONJ) has been reported predominantly in cancer patients treated with intravenous bisphosphonates, including zoledronic acid.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be risk factors for ONJ.
-Post‑marketing experience and the literature suggest a greater frequency of reports of ONJ based on tumor type (advanced breast cancer, multiple myeloma), and dental status (dental extraction, periodontal disease, local trauma including poorly fitting dentures).
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
+
+Post marketing experience and the literature suggest a greater frequency of reports of ONJ based on tumor type (advanced breast cancer, multiple myeloma), and dental status (dental extraction, periodontal disease, local trauma including poorly fitting dentures).
 Many reports of ONJ involved patients with signs of local infection including osteomyelitis.
 
 Cancer patients should maintain good oral hygiene and should have a dental examination with preventive dentistry prior to treatment with bisphosphonates.
@@ -44,7 +47,7 @@ Clinical judgment of the treating physician should guide the management plan of 
 
 ## 5.5 Musculoskeletal Pain
 
-In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates including zoledronic acid.
+In post marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates including zoledronic acid.
 The time to onset of symptoms varied from one day to several months after starting the drug.
 Discontinue use if severe symptoms develop.
 Most patients had relief of symptoms after stopping.
@@ -67,7 +70,7 @@ It is unknown whether the risk of atypical femur fracture continues after stoppi
 
 ## 5.7 Patients with Asthma
 
-While not observed in clinical trials with zoledronic acid, there have been reports of bronchoconstriction in aspirin sensitive patients receiving bisphosphonates.
+While not observed in clinical trials with zoledronic acid, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 
 ## 5.8 Hepatic Impairment
 
@@ -82,3 +85,12 @@ Zoledronic acid may cause fetal harm when administered to a pregnant woman.
 In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and post‑implantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
 There are no adequate and well controlled studies in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+
+## 5.10 Hypocalcemia
+
+Hypocalcemia has been reported in patients treated with zoledronic acid.
+Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
+In some instances, hypocalcemia may be life-threatening.
+Caution is advised when zoledronic acid is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
+Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronic acid.
+Adequately supplement patients with calcium and vitamin D.

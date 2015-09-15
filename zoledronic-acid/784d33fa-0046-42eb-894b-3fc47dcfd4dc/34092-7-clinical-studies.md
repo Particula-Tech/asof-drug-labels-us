@@ -31,7 +31,7 @@ Table 10: Secondary Efficacy Variables in Pooled HCM Studies
 | Complete Response | N | Response Rate | N | Response Rate |
 | By Day 4 By Day 7 | 86 86 | 45.3% 82.6%* | 99 99 | 33.3% 63.6% |
 | Duration of Response | N | Median Duration (Days) | N | Median Duration (Days) |
-| Time of Relapse Duration of Complete Response | 86 76 | 30* 32 | 99 69 | 17 18 |
+| Time to Relapse Duration of Complete Response | 86 76 | 30* 32 | 99 69 | 17 18 |
 | * P less than 0.05 versus pamidronate 90 mg. |  |  |  |  |
 
 ## 14.2 Clinical Trials in Multiple Myeloma and Bone Metastases of Solid Tumors
@@ -84,5 +84,5 @@ Table 13: Zoledronic Acid Injection Compared to Pamidronate in Patients with Mul
 |  | I. Analysis of Proportion of Patients with a SRE1 |  |  |  | II. Analysis of Time to the First SRE |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study | Study Arm & Patient Number | Proportion | Difference2 & 95% Cl | P-value | Median (Days) | Hazard Ratio3 & 95% Cl | P-value |
-| Multiple Myeloma & Breast Cancer | Zometa 4 mg (n=561) Pamidronate (n=555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77,109) | 0.32 |
+| Multiple Myeloma & Breast Cancer | Zoledronic Acid Injection 4 mg (n=561) Pamidronate (n=555) | 44% 46% | -2% (-7.9%, 3.7%) | 0.46 | 373 363 | 0.92 (0.77,109) | 0.32 |
 | 1 SRE = Skeletal-Related Event 2 Difference for the proportion of patients with a SRE of zoledronic acid injection 4 mg versus pamidronate 90 mg. 3 Hazard ratio for the first occurrence of a SRE of zoledronic acid injection 4 mg versus pamidronate 90 mg. |  |  |  |  |  |  |  |

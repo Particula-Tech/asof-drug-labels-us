@@ -11,7 +11,7 @@ The relative safety of pamidronate 90 mg given as a 2-hour intravenous infusion 
 
 Renal Toxicity Administration of zoledronic acid 4 mg given as a 5-minute intravenous infusion has been shown to result in an increased risk of renal toxicity, as measured by increases in serum creatinine, which can progress to renal failure.
 The incidence of renal toxicity and renal failure has been shown to be reduced when zoledronic acid 4 mg is given as a 15-minute intravenous infusion.
-Zoledronic acid should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5) and Dosage and Administration (2)].
+Zoledronic acid should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.3) and Dosage and Administration (2.4)].
 
 The most frequently observed adverse events were fever, nausea, constipation, anemia, and dyspnea (see Table 3).
 
@@ -50,8 +50,9 @@ Adverse events are listed regardless of presumed causality to study drug: asthen
 
 Rare cases of rash, pruritus, and chest pain have been reported following treatment with zoledronic acid.
 
-Acute Phase Reaction Within three days after zoledronic acid administration, an acute phase reaction has been reported in patients, with symptoms including pyrexia, fatigue, bone pain and/or arthalgias, myalgias, chills, and influenza-like illness; these symptoms usually resolve within a few days.
-Pyrexia has been most commonly associated symptom, occurring in 44% of patients.
+Acute Phase Reaction Within three days after zoledronic acid administration, an acute phase reaction has been reported in patients, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness.
+These symptoms usually resolve within a few days.
+Pyrexia has been the most commonly associated symptom, occurring in 44% of patients.
 
 Mineral and Electrolyte Abnormalities Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia and hypomagnesemia, can occur with bisphosphonate use.
 
@@ -82,7 +83,7 @@ No cases of iritis, scleritis or uveitis were reported during these clinical tri
 However, cases have been seen in post-marketing use [see Adverse Reactions (6.2)].
 
 Multiple Myeloma and Bone Metastases of Solid Tumors The safety analysis includes patients treated in the core and extension phases of the trials.
-The analysis includes the 2,042 patients treated with zoledronic acid 4 mg, pamidronate 90 mg, or placebo in the three controlled multicenter bone metastases trials, including 969 patients completing the efficacy phase of the trial, and 619 patients that continued in the safety extension phase.
+The analysis includes the 2042 patients treated with zoledronic acid 4 mg, pamidronate 90 mg, or placebo in the three controlled multicenter bone metastases trials, including 969 patients completing the efficacy phase of the trial, and 619 patients that continued in the safety extension phase.
 Only 347 patients completed the extension phases and were followed for 2 years (or 21 months for the other solid tumor patients).
 The median duration of exposure for safety analysis for zoledronic acid 4 mg (core plus extension phases) was 12.8 months for breast cancer and multiple myeloma, 10.8 months for prostate cancer, and 4 months for other solid tumors.
 
@@ -164,31 +165,33 @@ Table 9: Percentage of Patients with Treatment Emergent Renal Function Deteriora
 
 The risk of deterioration in renal function appeared to be related to time on study, whether patients were receiving zoledronic acid (4 mg over 15 minutes), placebo, or pamidronate.
 
-In the trials and in post-marketing experience, renal deterioration, progression to renal failure and dialysis have occurred in patients with normal and abnormal baseline renal function, including patients treated with 4 mg infused over a 15-minute period.
+In the trials and in post marketing experience, renal deterioration, progression to renal failure and dialysis have occurred in patients with normal and abnormal baseline renal function, including patients treated with 4 mg infused over a 15-minute period.
 There have been instances of this occurring after the initial zoledronic acid dose.
 
-## 6.2 Post-marketing Experience
+## 6.2 Post marketing Experience
 
 The following adverse reactions have been reported during post-approval use of zoledronic acid.
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Osteonecrosis of the Jaw Cases of osteonecrosis (primarily involving the jaws) have been reported predominantly in cancer patients treated with intravenous bisphosphonates including zoledronic acid.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
+Caution is advised when zoledronic acid is administered with anti-angiogenic drugs as an increased incidence of ONJ has been observed with concomitant use of these drugs.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
 The majority of the reported cases are in cancer patients following invasive dental procedures, such as tooth extraction.
-It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings And Precautions (5)].
+It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5.4)].
 
-Acute Phase Reaction Within three days after zoledronic acid administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
+Acute Phase Reaction Within three days after zoledronic acid administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, influenza-like illness and arthritis with subsequent joint swelling; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
 However, some of these symptoms have been reported to persist for a longer duration.
 
-Musculoskeletal Pain Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings And Precautions (5)].
+Musculoskeletal Pain Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5.5)].
 
 Atypical Subtrochanteric and Diaphyseal Femoral Fractures Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, including zoledronic acid [see Warnings and Precautions (5.6)].
 
-Ocular Adverse Events Cases of uveitis, scleritis, episcleritis, conjunctivitis, iritis, and orbital inflammation including orbital edema have been reported during post-marketing use.
+Ocular Adverse Events Cases of uveitis, scleritis, episcleritis, conjunctivitis, iritis, and orbital inflammation including orbital edema have been reported during post marketing use.
 In some cases, symptoms resolved with topical steroids.
 
 Hypersensitivity Reactions There have been rare reports of allergic reaction with intravenous zoledronic acid including angioedema and bronchoconstriction.
 Very rare cases of anaphylactic reaction/shock have also been reported.
+Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been reported.
 
-Additional adverse reactions reported in post-marketing use include: CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive re-challenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia.
+Additional adverse reactions reported in post marketing use include: CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive re-challenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).
