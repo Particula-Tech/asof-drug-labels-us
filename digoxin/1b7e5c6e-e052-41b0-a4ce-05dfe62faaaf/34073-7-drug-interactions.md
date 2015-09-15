@@ -1,5 +1,8 @@
 # 7 DRUG INTERACTIONS
 
+Digoxin has a narrow therapeutic index, increased monitoring of serum digoxin concentrations and for potential signs and symptoms of clinical toxicity is necessary when initiating, adjusting, or discontinuing drugs that may interact with digoxin.
+Prescribers should consult the prescribing information of any drug which is co-prescribed with digoxin for potential drug interaction information.
+
 ## 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors
 
 Digoxin is a substrate for P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary-intestinal secretion.
@@ -7,29 +10,46 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 
 ## 7.2 Pharmacokinetic Drug Interactions on Serum Digoxin Levels in Adults
 
-| Digoxin concentrations increased > 50% |  |  |  |
+| Digoxin concentrations increased greater than 50% |  |  |  |
 | --- | --- | --- | --- |
 |  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
-| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 30% to 50% and continue monitoring. |
+| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 30% to 50% or by modifying the dosing frequency and continue monitoring. |
 | Captopril | 58% | 39% |  |
+| Clarithromycin | NA | 70% |  |
+| Dronedarone | NA | 150% |  |
+| Gentamicin | 129-212% | NA |  |
+| Erythromycin | 100% | NA |  |
+| Itraconazole | 80% | NA |  |
+| Lapatinib | NA | 180% |  |
 | Nitrendipine | 57% | 15% |  |
-| Propafenone | 35-85% | NA |  |
+| Propafenone | NA | 60-270% |  |
 | Quinidine | 100% | NA |  |
-| Ranolazine | 87% | 88% |  |
+| Ranolazine | 50% | NA |  |
 | Ritonavir | NA | 86% |  |
+| Telaprevir | 50% | 85% |  |
+| Tetracycline | 100% | NA |  |
 | Verapamil | 50-75% | NA |  |
-| Digoxin concentrations increased < 50% |  |  |  |
-| Carvedilol | 16% | 14% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 15% to 30% and continue monitoring. |
+| Digoxin concentrations increased less than 50% |  |  |  |
+| Atorvastatin | 22% | 15% |  |
+| Carvedilol | 16% | 14% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin dose by approximately 15% to 30% or by modifying the dosing frequency and continue monitoring. |
+| Conivaptan | 33% | 43% |  |
 | Diltiazem | 20% | NA |  |
+| Indomethacin | 40% | NA |  |
+| Nefazodone | 27% | 15% |  |
 | Nifedipine | 45% | NA |  |
+| Propantheline | 24% | 24% |  |
+| Quinine | NA | 33% |  |
 | Rabeprazole | 29% | 19% |  |
-| Telmisartan | 20% | NA |  |
+| Saquinavir | 27% | 49% |  |
+| Spironolactone | 25% | NA |  |
+| Telmisartan | 20-49% | NA |  |
+| Ticagrelor | 31% | 28% |  |
+| Tolvaptan | 30% | 20% |  |
+| Trimethoprim | 22-28% | NA |  |
 | Digoxin concentrations increased, but magnitude is unclear |  |  |  |
-| Alprazolam, Azithromycin, Clarithromycin, Cyclosporine, Diclofenac, Diphenoxylate, Epoprostenol, Erythromycin, Esomeprazole, Indomethacin, Itraconazole, Ketoconazole, Lansoprazole, Metformin, Omeprazole, Propantheline, Spironolactone, Tetracycline |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
+| Alprazolam, Azithromycin, Cyclosporine, Diclofenac, Diphenoxylate, Epoprostenol, Esomeprazole, Ibuprofen, Ketoconazole, Lansoprazole, Metformin, Omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
-| Acarbose, Activated Charcoal, Albuterol, Antacids, Anti-cancer drugs, Cholestyramine, Colestipol, Exenatide, Kaolin-pectin, Meals High in Bran, Metoclopramide, Miglitol, Neomycin, Rifampin, Salbutamol, St. John’s Wort, Sucralfate, Sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20% to 40% as necessary. |
-| No significant Digoxin concentrations changes |  |  |  |
-| Please refer to section 12.3 for a complete list of drugs which were studied but reported no significant changes on digoxin exposure. |  |  | No additional actions are required. |
+| Acarbose, Activated Charcoal, Albuterol, Antacids, certain cancer chemotherapy or radiation therapy, Cholestyramine, Colestipol, Exenatide, Kaolin-pectin, Meals High in Bran, Metoclopramide, Miglitol, Neomycin, Penicillamine, Phenytoin, Rifampin, St. John’s Wort, Sucralfate, Sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20% to 40% as necessary. |
 
 NA – Not available/reported
 

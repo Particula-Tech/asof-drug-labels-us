@@ -2,7 +2,7 @@
 
 ## 14.1 Chronic Heart Failure
 
-Two small12-week, double-blind, randomized trials compared digoxin to placebo in adult patients with chronic congestive heart failure, New York Heart Association Class II or III.
+Two small 12-week, double-blind, randomized trials compared digoxin to placebo in adult patients with chronic congestive heart failure, New York Heart Association Class II or III.
 The enrolled patients had all been receiving digoxin before the trials, but this was withdrawn before randomization.
 They continued to receive diuretics and (in the larger trial) ACE inhibitors.
 The trials enrolled 178 and 88 patients, respectively.

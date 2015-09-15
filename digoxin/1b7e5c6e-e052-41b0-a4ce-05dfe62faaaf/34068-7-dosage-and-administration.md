@@ -5,29 +5,29 @@
 The dose of digoxin should be based on clinical assessment but individual patient factors should be taken into consideration.
 Those factors are:
 
-- Lean body weight
-- Renal function
-- Patient age
-- Concurrent disease [see Warnings and Precautions (5)]
-- Concomitant medication [see Drug Interactions (7)]
+- •Lean body weight
+- •Renal function
+- •Patient age
+- •Concurrent disease [see Warnings and Precautions (5)]
+- •Concomitant medication [see Drug Interactions (7)]
 
 Because the pharmacokinetics of digoxin are complex, and because toxic levels of digoxin are only slightly higher than therapeutic levels, digoxin dosing can be difficult.
 The recommended approach is to
 
-- estimate the patient’s daily maintenance dose
-- adjust the estimate to account for patient-specific factors
-- choose a dosing regimen
-- decide whether to initiate therapy with a loading dose
-- monitor the patient for toxicity and for therapeutic effect
-- adjust the dose
+- •estimate the patient’s daily maintenance dose
+- •adjust the estimate to account for patient-specific factors
+- •choose a dosing regimen
+- •decide whether to initiate therapy with a loading dose
+- •monitor the patient for toxicity and for therapeutic effect
+- •adjust the dose
 
 Dose titration may be accomplished by either of two general approaches that differ in dosage and frequency of administration, but reach the same total amount of digoxin accumulated in the body.
 
-1. If rapid titration is considered medically appropriate, administer a loading dose based upon projected peak digoxin body stores.
-   Maintenance dose can be calculated as a percentage of the loading dose.
-2. More gradual titration may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
-   Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
-   Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
+- 1.If rapid titration is considered medically appropriate, administer a loading dose based upon projected peak digoxin body stores.
+  Maintenance dose can be calculated as a percentage of the loading dose.
+- 2.More gradual titration may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
+  Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
+  Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
 ## 2.2 Serum Digoxin Concentrations
 
@@ -179,7 +179,7 @@ The block on the chart at which the two rows (weight and target dose) intersect 
 The monitoring described in Section 2.2 may suggest increases or decreases in digoxin doses.
 Additional monitoring, and in some cases anticipatory dose adjustment, may be indicated around the time of various changes to the patient including:
 
-- normal development through childhood;
-- concomitant drug use should be considered when adjusting the estimated digoxin dose [seeDrug Interactions (7)];
-- new co-administration of an antibiotic, especially if the patient had required high doses of digoxin in order to achieve modest serum concentrations, raising the suspicion that a substantial fraction of administered digoxin was being destroyed by colonic bacteria; and
-- changes in renal function [see Table 3: Usual Maintenance Dose Requirements (mcg) of Digoxin above].
+- •normal development through childhood;
+- •concomitant drug use should be considered when adjusting the estimated digoxin dose [seeDrug Interactions (7)];
+- •new co-administration of an antibiotic, especially if the patient had required high doses of digoxin in order to achieve modest serum concentrations, raising the suspicion that a substantial fraction of administered digoxin was being destroyed by colonic bacteria; and
+- •changes in renal function [see Table 3: Usual Maintenance Dose Requirements (mcg) of Digoxin above].
