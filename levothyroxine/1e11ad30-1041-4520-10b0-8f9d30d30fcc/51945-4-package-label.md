@@ -1,3 +1,45 @@
+NDC 0074–4552–11
+
+Synthroid®
+
+Levothyroxine Sodium Tablets, USP
+
+50 mcg (0.05 mg)
+
+100 Tablets
+
+THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
+
+Rx only abbvie
+
+NDC 0074–6624–11
+
+Synthroid®
+
+Levothyroxine Sodium Tablets, USP
+
+100 mcg (0.1 mg)
+
+100 Tablets
+
+THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
+
+Rx only abbvie
+
+NDC 0074–7148–11
+
+Synthroid®
+
+Levothyroxine Sodium Tablets, USP
+
+200 mcg (0.2 mg)
+
+100 Tablets
+
+THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
+
+Rx only abbvie
+
 NDC 0074–3727–90
 
 Synthroid®
@@ -22,20 +64,6 @@ Levothyroxine Sodium Tablets, USP
 
 Rx only abbvie
 
-NDC 0074–4552–11
-
-Synthroid®
-
-Levothyroxine Sodium Tablets, USP
-
-50 mcg (0.05 mg)
-
-100 Tablets
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Rx only abbvie
-
 NDC 0074–5182–19
 
 Synthroid®
@@ -48,7 +76,7 @@ Levothyroxine Sodium Tablets, USP
 
 Rx only abbvie
 
-0074–6594–90
+NDC 0074–6594–90
 
 Synthroid®
 
@@ -60,31 +88,15 @@ Levothyroxine Sodium Tablets, USP
 
 Rx only abbvie
 
-NDC 0074–6624–11
-
-Synthroid®
-
-Levothyroxine Sodium Tablets, USP
-
-100 mcg (0.1 mg)
-
-100 Tablets
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Rx only abbvie
-
 NDC 0074–6624–72
 
 2 cards x 7 tablets
 
+yellow 100 mcg (0.1 mg)
+
 Synthroid®
 
-(levothyroxine sodium tablets, USP)
-
-Product of the U.S.A.
-
-yellow 100 mcg (0.1 mg) SYNTHROID
+Levothyroxine Sodium Tablets, USP
 
 www.synthroid.com
 
@@ -101,7 +113,7 @@ Synthroid®
 
 Levothyroxine Sodium Tablets, USP
 
-125 mcg (0.125mg)
+125 mcg (0.125 mg)
 
 1000 Tablets
 
@@ -128,20 +140,6 @@ Levothyroxine Sodium Tablets, USP
 175 mcg (0.175 mg)
 
 1000 Tablets
-
-Rx only abbvie
-
-NDC 0074–7148–11
-
-Synthroid®
-
-Levothyroxine Sodium Tablets, USP
-
-200 mcg (0.2 mg)
-
-100 Tablets
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
 
 Rx only abbvie
 
