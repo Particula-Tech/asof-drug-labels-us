@@ -1,0 +1,20 @@
+# 14 CLINICAL STUDIES
+
+The safety and efficacy of EPIDUO FORTE gel applied once daily for 12 weeks for the treatment of acne vulgaris were assessed in a multicenter, randomized, double-blind, vehicle-controlled study, comparing EPIDUO FORTE gel to vehicle gel in subjects with acne vulgaris.
+The study also evaluated adapalene and benzoyl peroxide gel, 0.1%/2.5%, a lower strength product than EPIDUO FORTE (adapalene and benzoyl peroxide) gel, 0.3%/2.5%.
+In this study, 217 subjects were treated with EPIDUO FORTE gel, 217 subjects with adapalene and benzoyl peroxide, gel, 0.1%/2.5% and 69 subjects with the vehicle gel.
+
+Treatment response was defined as the percent of subjects who were rated “clear” or “almost clear” at Week 12 with at least a two-grade improvement based on the Investigator’s Global Assessment (IGA), and mean absolute change from baseline at Week 12 in both inflammatory and non-inflammatory lesion counts.
+An IGA score of ‘Clear’ corresponded to clear skin with no inflammatory or non-inflammatory lesions.
+An IGA score of “almost clear” corresponded to a few scattered comedones and a few small papules.
+
+At baseline, 50% of subjects were graded as “moderate” (IGA Grade 3) and 50% were graded as “severe” (IGA Grade 4) on the IGA scale.
+Subjects had an average of 98 (range 51-226) total lesions of which the mean number of inflammatory lesions was 38 (range: 20-99) and the mean number of non-inflammatory lesions was 60 (range 30-149).
+Subjects ranged in age from 12 to 57 years, with 273 (54%) of subjects 12 to 17 years of age.
+Approximately equal number of males (48%) and females (52%) were enrolled.
+
+The IGA success rate, mean reduction, and percent reduction in acne lesion counts from baseline after 12 weeks of treatment are presented in the following table.
+
+* This study was not designed or powered to compare the efficacy of EPIDUO FORTE to the lower strength adapalene and benzoyl peroxide gel, 0.1%/2.5%, nor to compare the lower strength adapalene and benzoyl peroxide gel, 0.1%/2.5% to the vehicle control.
+
+In subjects graded as “severe” (IGA Grade 4), efficacy was observed in the EPIDUO FORTE group.

@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA207917"
+  ],
+  "inn": "adapalene",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5906-02",
+    "0299-5906-05",
+    "0299-5906-15",
+    "0299-5906-30",
+    "0299-5906-45",
+    "0299-5906-60",
+    "0299-5906-70"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene and benzoyl peroxide",
+      "name": "epiduo forte"
+    }
+  ],
+  "setid": "f4e5d381-098a-4c93-9ff0-002cae46daac",
+  "source": "dailymed"
+}
