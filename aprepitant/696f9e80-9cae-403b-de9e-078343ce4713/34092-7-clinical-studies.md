@@ -279,7 +279,7 @@ The results of the primary and secondary endpoints for 40-mg EMEND and 4-mg onda
 
 Table 18: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 7
 
-| Difference (%):EMEND 40 mg minus Ondansetron. | Odds ratioEstimated odds ratio for EMEND versus Ondansetron. A value of >1 favors EMEND over Ondansetron. | Analysis |  |  |
+| Δ | Odds ratioEstimated odds ratio for EMEND versus Ondansetron. A value of >1 favors EMEND over Ondansetron. | Analysis |  |  |
 | --- | --- | --- | --- | --- |
 | Treatment | n/m (%) | EMEND vs. Ondansetron |  |  |
 | PRIMARY ENDPOINTS |  |  |  |  |
@@ -297,6 +297,7 @@ Table 18: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Tr
 | EMEND 40 mg | 238/292 (81.5) | 15.2% | 2.3 | P<0.001Based on the prespecified fixed sequence multiplicity strategy, EMEND 40 mg was not superior to Ondansetron. |
 | Ondansetron | 185/279 (66.3) |  |  |  |
 | n/m = Number of responders/number of patients in analysis. |  |  |  |  |
+| Δ Difference (%):EMEND 40 mg minus Ondansetron. |  |  |  |  |
 
 In Study 7, the use of EMEND did not affect the time to first use of rescue medication when compared to ondansetron.
 However, compared to the ondansetron group, use of EMEND delayed the time to first vomiting, as depicted in Figure 3.
@@ -314,7 +315,7 @@ The study demonstrated that 40-mg EMEND had a clinically meaningful effect with 
 
 Table 19: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 8
 
-| Difference (%):EMEND 40 mg minus Ondansetron. | Odds ratioEstimated odds ratio: EMEND 40 mg versus Ondansetron. | Analysis |  |  |
+| Δ | Odds ratioEstimated odds ratio: EMEND 40 mg versus Ondansetron. | Analysis |  |  |
 | --- | --- | --- | --- | --- |
 | Treatment | n/m (%) | EMEND vs. Ondansetron |  |  |
 | PRIMARY ENDPOINT |  |  |  |  |
@@ -332,3 +333,4 @@ Table 19: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Tr
 | EMEND 40 mg | 209/247 (84.6) | 17.7% | 2.7 | <0.001 |
 | Ondansetron | 164/245 (66.9) |  |  |  |
 | n/m = Number of responders/number of patients in analysis. |  |  |  |  |
+| Δ Difference (%):EMEND 40 mg minus Ondansetron. |  |  |  |  |
