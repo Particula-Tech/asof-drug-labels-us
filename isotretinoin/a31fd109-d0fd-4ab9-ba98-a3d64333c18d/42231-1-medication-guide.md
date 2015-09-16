@@ -13,16 +13,14 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about Claravis?
 
 - •Claravis is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- •Because Claravis can cause birth defects, Claravis is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE program.
+- •Because Claravis can cause birth defects, Claravis is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •Claravis may cause serious mental health problems.
-
 - 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
   Female patients who are pregnant or who plan to become pregnant must not take Claravis.
   Female patients must not get pregnant:
-
-- •for 1 month before starting Claravis
-- •while taking Claravis
-- •for 1 month after stopping Claravis.
+  1. •for 1 month before starting Claravis
+  2. •while taking Claravis
+  3. •for 1 month after stopping Claravis.
 
 If you get pregnant while taking Claravis, stop taking it right away and call your doctor.
 Doctors and patients should report all cases of pregnancy to:
@@ -64,9 +62,9 @@ Claravis is a medicine taken by mouth to treat the most severe form of acne (nod
 Claravis can cause serious side effects (see “What is the most important information I should know about Claravis?”).
 Claravis can only be:
 
-- •prescribed by doctors that are registered in the iPLEDGE program
-- •dispensed by a pharmacy that is registered with the iPLEDGE program
-- •given to patients who are registered in the iPLEDGE program and agree to do everything required in the program
+- •prescribed by doctors that are registered in the iPLEDGE Program
+- •dispensed by a pharmacy that is registered with the iPLEDGE Program
+- •given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program
 
 What is severe nodular acne?
 
@@ -127,16 +125,16 @@ Do not take any new medicine without talking with your doctor.
 How should I take Claravis?
 
 - •You must take Claravis exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE program.
+  You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing Claravis, your doctor will:
-- •explain the iPLEDGE program to you
+- •explain the iPLEDGE Program to you
 - •have you sign the Patient Information/Informed Consent form (for all patients).
   Female patients who can get pregnant must also sign another consent form.
 
-You will not be prescribed Claravis if you cannot agree to or follow all the instructions of the iPLEDGE program.
+You will not be prescribed Claravis if you cannot agree to or follow all the instructions of the iPLEDGE Program.
 
 - •You will get no more than a 30 day supply of Claravis at a time.
-  This is to make sure you are following the Claravis iPLEDGE program.
+  This is to make sure you are following the Claravis iPLEDGE Program.
   You should talk with your doctor each month about side effects.
 - •The amount of Claravis you take has been specially chosen for you.
   It is based on your body weight, and may change during treatment.
@@ -275,7 +273,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about Claravis.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Claravis that is written for healthcare professionals.
-You can also call iPLEDGE program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Claravis?
 
@@ -299,4 +297,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-C 3/2014
+D 1/2015

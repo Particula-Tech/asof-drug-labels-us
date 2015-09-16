@@ -5,7 +5,7 @@ In humans, overdosage has been associated with vomiting, facial flushing, cheilo
 These symptoms quickly resolve without apparent residual effects.
 
 Claravis causes serious birth defects at any dosage (see Boxed CONTRAINDICATIONS AND WARNINGS).
-Female patients of childbearing potential who present with isotretinoin overdose must be evaluated for pregnancy.
+Females of reproductive potential who present with isotretinoin overdose must be evaluated for pregnancy.
 Patients who are pregnant should receive counseling about the risks to the fetus, as described in the Boxed CONTRAINDICATIONS AND WARNINGS.
 Non-pregnant patients must be warned to avoid pregnancy for at least one month and receive contraceptive counseling as described in PRECAUTIONS.
 Educational materials for such patients can be obtained by calling the manufacturer.
