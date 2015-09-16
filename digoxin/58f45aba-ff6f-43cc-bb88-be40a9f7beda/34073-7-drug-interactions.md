@@ -5,8 +5,8 @@ Prescribers should consult the prescribing information of any drug which is co-p
 
 ## 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors
 
-Digoxin is a substrate of P-glycoprotein.
-Drugs that induce or inhibit P-glycoprotein in intestine or kidney have the potential to alter digoxin pharmacokinetics.
+Digoxin is a substrate of P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary-intestinal secretion.
+Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
 
 ## 7.2 Pharmacokinetic Drug Interactions
 
@@ -15,19 +15,17 @@ There are very few studies that have evaluated the drug interaction when digoxin
 The magnitude of digoxin exposure change through IV route is generally lower than that through oral route.
 Table below provides available interaction data using digoxin IV formulation (NA means not available).
 
-| Digoxin concentrations increased greater than 50% |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |  |
-| Quinidine | NA | 54-83% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |  |
-| Ritonavir | NA | 86% |  |  |
-| Digoxin concentrations increased less than 50% |  |  |  |  |
-| Amiodarone | 17% | 40% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15 to 30% or by modifying the dosing frequency and continue monitoring. |  |
-| Propafenone | 28% | 29% |  |  |
-| Quinine | NA | 34-38% |  |  |
-| Spironolactone | NA | 44% |  |  |
-| Verapamil | NA | 24% |  |  |
-| No significant Digoxin exposure changes |  |  |  |  |
-| Please refer to section 12 for a complete list of drugs that were studied but reported no significant changes on digoxin exposure. |  |  |  | No additional actions are required. |
+| Digoxin concentrations increased greater than 50% |  |  |  |
+| --- | --- | --- | --- |
+|  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
+| Quinidine | NA | 54-83% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |
+| Ritonavir | NA | 86% |  |
+| Digoxin concentrations increased less than 50% |  |  |  |
+| Amiodarone | 17% | 40% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15 to 30% or by modifying the dosing frequency and continue monitoring. |
+| Propafenone | 28% | 29% |  |
+| Quinine | NA | 34-38% |  |
+| Spironolactone | NA | 44% |  |
+| Verapamil | NA | 24% |  |
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 

@@ -79,9 +79,3 @@ Therefore, titrate carefully in these patients based on clinical response and ba
 
 Race: The impact of race differences on digoxin pharmacokinetics has not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.
-
-Drug-drug Interactions
-
-Based on literature reports no significant changes in digoxin exposure were reported when IV digoxin was co-administered with the following drugs:
-
-clarithromycin, carvedilol, isradipine, losartan and rifampin

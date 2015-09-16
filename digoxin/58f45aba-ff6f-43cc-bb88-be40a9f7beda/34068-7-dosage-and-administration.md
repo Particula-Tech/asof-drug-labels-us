@@ -27,7 +27,7 @@ Consider interruption or reduction in digoxin injection dose prior to electrical
 Table 1.
 Recommended Digoxin Injection Loading Dose
 
-| Age | Total IV Loading Dose (mcg/kg) Administer half the total loading dose initially, then 1/4 the loading dose every 6 to 8 hours twice |
+| Age | Total IV Loading Dose (mcg/kg) Administer half the total loading dose initially, then ¼ the loading dose every 6 to 8 hours twice |
 | --- | --- |
 | Premature | 15-25 |
 | Full-Term | 20-30 |
