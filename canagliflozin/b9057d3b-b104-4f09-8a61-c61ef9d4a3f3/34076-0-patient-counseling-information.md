@@ -51,3 +51,8 @@ Urinary Tract Infections
 Inform patients of the potential for urinary tract infections.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur.
+
+Bone Fracture
+
+Inform patients that bone fractures have been reported in patients taking INVOKANA.
+Provide them with information on factors that may contribute to fracture risk.

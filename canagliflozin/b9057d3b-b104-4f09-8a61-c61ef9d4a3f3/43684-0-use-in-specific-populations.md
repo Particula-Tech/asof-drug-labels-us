@@ -36,7 +36,10 @@ Smaller reductions in HbA1C with INVOKANA relative to placebo were seen in older
 ## 8.6 Renal Impairment
 
 The efficacy and safety of INVOKANA were evaluated in a study that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.3)].
-These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2); patients treated with INVOKANA 300 mg were more likely to experience increases in potassium [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, and 5.3), and Adverse Reactions (6.1)].
+These patients had less overall glycemic efficacy and had a higher occurrence of adverse reactions related to reduced intravascular volume, renal-related adverse reactions, and decreases in eGFR compared to patients with mild renal impairment or normal renal function (eGFR greater than or equal to 60 mL/min/1.73 m2).
+Dose-related, transient mean increases in serum potassium were observed early after initiation of INVOKANA (i.e., within 3 weeks) in this trial.
+Increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, and 5.3), and Adverse Reactions (6.1)].
 
 The efficacy and safety of INVOKANA have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), with ESRD, or receiving dialysis.
 INVOKANA is not expected to be effective in these patient populations [see Contraindications (4) and Clinical Pharmacology (12.3)].

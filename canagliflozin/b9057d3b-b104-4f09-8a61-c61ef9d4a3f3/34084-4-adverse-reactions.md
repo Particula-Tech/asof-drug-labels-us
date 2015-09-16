@@ -8,7 +8,8 @@ The following important adverse reactions are described below and elsewhere in t
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.5)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
-- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.7)]
+- Bone Fracture [see Warnings and Precautions (5.7)]
+- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -60,9 +61,6 @@ In this pool, INVOKANA was also associated with the adverse reactions of fatigue
 
 In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.9, 2.7, and 0.9 per 1000 patient-years of exposure to comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 
-In the pool of eight clinical trials with a longer mean duration of exposure to INVOKANA (68 weeks), the incidence rate of bone fracture was 14.2, 18.7, and 17.6 per 1000 patient years of exposure to comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
-Upper extremity fractures occurred more commonly on INVOKANA than comparator.
-
 In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with INVOKANA, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to INVOKANA.
 Among these patients, 2 patients discontinued INVOKANA.
@@ -87,6 +85,11 @@ Table 2: Proportion of Patients With at Least One Volume Depletion-Related Adver
 | 75 years of age and olderPatients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
 | eGFR less than 60 mL/min/1.73 m2 | 2.5% | 4.7% | 8.1% |
 | Use of loop diuretic | 4.7% | 3.2% | 8.8% |
+
+Falls
+
+In a pool of nine clinical trials with mean duration of exposure to INVOKANA of 85 weeks, the proportion of patients who experienced falls was 1.3%, 1.5%, and 2.1% with comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+The higher risk of falls for patients treated with INVOKANA was observed within the first few weeks of treatment.
 
 Impairment in Renal Function
 
@@ -168,14 +171,21 @@ Table 4: Incidence of HypoglycemiaNumber of patients experiencing at least one e
 | Overall [N (%)] | 208 (36.8) | 279 (49.3) | 285 (48.6) |
 | Severe [N (%)] | 14 (2.5) | 10 (1.8) | 16 (2.7) |
 
-Laboratory Tests
+Bone Fracture
+
+The occurrence of bone fractures was evaluated in a pool of nine clinical trials with a mean duration of exposure to INVOKANA of 85 weeks.
+The incidence rates of adjudicated bone fractures were 1.1, 1.4, and 1.5 per 100 patient-years of exposure in the comparator, INVOKANA 100 mg, and INVOKANA 300 mg groups, respectively.
+Fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities [see Warnings and Precautions (5.7)].
+
+Laboratory and Imaging Tests
 
 Increases in Serum Potassium
 
-Dose-related, transient mean increases in serum potassium were observed early after initiation of INVOKANA (i.e., within 3 weeks) in a trial of patients with moderate renal impairment [see Clinical Studies (14.3)].
-In this trial, increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
-More severe elevations (i.e., equal or greater than 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
-In patients with moderate renal impairment, increases in potassium were more commonly seen in those with elevated potassium at baseline and in those using medications that reduce potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.2 and 5.3)].
+In a pooled population of patients (N=723) with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m2), increases in serum potassium to greater than 5.4 mEq/L and 15% above baseline occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with INVOKANA 100 mg, and 1.3% of patients treated with INVOKANA 300 mg.
+
+In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
+Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.2 and 5.3) and Use in Specific Populations (8.6)].
 
 Increases in Serum Magnesium
 
@@ -193,7 +203,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C) and non-High-Density Li
 
 In the pool of four placebo-controlled trials, dose-related increases in LDL-C with INVOKANA were observed.
 Mean changes (percent changes) from baseline in LDL-C relative to placebo were 4.4 mg/dL (4.5%) and 8.2 mg/dL (8.0%) with INVOKANA 100 mg and INVOKANA 300 mg, respectively.
-The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.7)].
+The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.8)].
 
 Dose-related increases in non-HDL-C with INVOKANA were observed.
 Mean changes (percent changes) from baseline in non-HDL-C relative to placebo were 2.1 mg/dL (1.5%) and 5.1 mg/dL (3.6%) with INVOKANA 100 mg and 300 mg, respectively.
@@ -204,3 +214,10 @@ Increases in Hemoglobin
 In the pool of four placebo-controlled trials, mean changes (percent changes) from baseline in hemoglobin were -0.18 g/dL (-1.1%) with placebo, 0.47 g/dL (3.5%) with INVOKANA 100 mg, and 0.51 g/dL (3.8%) with INVOKANA 300 mg.
 The mean baseline hemoglobin value was approximately 14.1 g/dL across treatment groups.
 At the end of treatment, 0.8%, 4.0%, and 2.7% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively, had hemoglobin above the upper limit of normal.
+
+Decreases in Bone Mineral Density
+
+Bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry in a clinical trial of 714 older adults (mean age 64 years) [see Clinical Studies (14.3)].
+At 2 years, patients randomized to INVOKANA 100 mg and INVOKANA 300 mg had placebo-corrected declines in BMD at the total hip of 0.9% and 1.2%, respectively, and at the lumbar spine of 0.3% and 0.7%, respectively.
+Additionally, placebo-adjusted BMD declines were 0.1% at the femoral neck for both INVOKANA doses and 0.4% at the distal forearm for patients randomized to INVOKANA 300 mg.
+The placebo-adjusted change at the distal forearm for patients randomized to INVOKANA 100 mg was 0%.

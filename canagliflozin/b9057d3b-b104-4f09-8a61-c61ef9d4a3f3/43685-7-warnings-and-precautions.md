@@ -17,7 +17,7 @@ More frequent renal function monitoring is recommended in patients with an eGFR 
 ## 5.3 Hyperkalemia
 
 INVOKANA can lead to hyperkalemia.
-Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are more likely to develop hyperkalemia [see Adverse Reactions (6.1)].
+Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 Monitor serum potassium levels periodically after initiating INVOKANA in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
 
@@ -36,13 +36,18 @@ Monitor and treat appropriately.
 ## 5.6 Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with INVOKANA treatment; these reactions generally occurred within hours to days after initiating INVOKANA.
-If hypersensitivity reactions occur, discontinue use of INVOKANA; treat per standard of care and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
+If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
 
-## 5.7 Increases in Low-Density Lipoprotein (LDL-C)
+## 5.7 Bone Fracture
+
+An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA.
+Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].
+
+## 5.8 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with INVOKANA [see Adverse Reactions (6.1)].
-Monitor LDL-C and treat per standard of care after initiating INVOKANA.
+Monitor LDL-C and treat if appropriate after initiating INVOKANA.
 
-## 5.8 Macrovascular Outcomes
+## 5.9 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKANA or any other antidiabetic drug.
