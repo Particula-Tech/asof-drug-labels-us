@@ -6,7 +6,7 @@
 
 #### Risk Summary
 
-There are no adequate or well controlled studies of clozapine in pregnant women.
+There are no adequate or well-controlled studies of clozapine in pregnant women.
 
 Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2 body surface area basis.
 The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
@@ -58,3 +58,8 @@ Clozapine concentrations may be increased in these patients, because clozapine i
 
 Dose reduction may be necessary in patients who are CYP2D6 poor metabolizers.
 Clozapine concentrations may be increased in these patients, because clozapine is almost completely metabolized and then excreted [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
+
+## 8.8 Hospice Patients
+
+For hospice patients (i.e., terminally ill patients with an estimated life expectancy of 6 months or less), the prescriber may reduce the ANC monitoring frequency to once every 6 months, after a discussion with the patient and his/her caregiver.
+Individual treatment decisions should weigh the importance of monitoring ANC in the context of the need to control psychiatric symptoms and the patient’s terminal illness.

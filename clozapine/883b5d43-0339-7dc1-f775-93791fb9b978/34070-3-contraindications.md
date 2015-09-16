@@ -1,7 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-- •History of Clozapine-Induced Agranulocytosis or Severe Granulocytopenia
-- Clozapine tablets are contraindicated in patients with a history of clozapine-induced agranulocytosis or severe granulocytopenia [see Warnings and Precautions (5.1)].
+## 4.1 Hypersensitivity
 
-- •Hypersensitivity
-- Clozapine is contraindicated in patients with a history of hypersensitivity to clozapine (e.g., photosensitivity, vasculitis, erythema multiforme, or Stevens-Johnson Syndrome) or any other component of clozapine tablets [see Adverse Reactions (6.2)].
+Clozapine is contraindicated in patients with a history of serious hypersensitivity to clozapine (e.g., photosensitivity, vasculitis, erythema multiforme, or Stevens-Johnson Syndrome) or any other component of clozapine tablets [see Adverse Reactions (6.2)].

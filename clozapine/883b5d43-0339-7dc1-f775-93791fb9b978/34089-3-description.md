@@ -3,8 +3,6 @@
 Clozapine, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo [b,e] [1,4] diazepine.
 The structural formula is
 
-C18H19ClN4 Molecular weight 326.83
-
 Clozapine, USP is a yellow, crystalline powder, very slightly soluble in water.
 
 Clozapine tablets, USP for oral administration, are available containing 25 mg, 50 mg, 100 mg or 200 mg of clozapine.

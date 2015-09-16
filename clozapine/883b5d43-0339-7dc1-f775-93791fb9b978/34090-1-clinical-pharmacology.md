@@ -23,7 +23,7 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 ### Absorption
 
-In humans, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
+In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
 Following oral administration of clozapine 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing.
 The average minimum concentration at steady-state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing.
 Food does not appear to affect the systemic bioavailability of clozapine.
@@ -44,7 +44,7 @@ Pharmacological testing has shown the desmethyl metabolite (norclozapine) to hav
 The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady-state with 100 mg twice daily dosing.
 
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
-However, at steady-state, approximately dose proportional changes with respect to area under the curve (AUC), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, and 150 mg twice daily.
+However, at steady-state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, and 150 mg twice daily.
 
 ### Drug-Drug Interaction Studies
 

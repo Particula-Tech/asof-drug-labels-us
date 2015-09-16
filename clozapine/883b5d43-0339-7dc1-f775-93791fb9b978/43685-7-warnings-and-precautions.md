@@ -1,113 +1,109 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Agranulocytosis
+## 5.1 Severe Neutropenia
 
 ### Background
 
-Agranulocytosis, defined as an ANC of less than 500/mm3, has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 1.3%, based on the occurrence of 15 U.S. cases out of 1,743 patients exposed to clozapine during its clinical testing prior to domestic marketing.
-All of these cases occurred at a time when the need for close monitoring of WBC counts was already recognized.
-A hematologic risk analysis was conducted based upon the available information in the Clozapine National Registry for U.S. patients.
-Based upon a cut-off date of April 30, 1995, the incidence rates of agranulocytosis based upon a weekly monitoring schedule rose steeply during the first 2 months of therapy, peaking in the third month.
-Among clozapine patients who continued the drug beyond the third month, the weekly incidence of agranulocytosis fell a substantial degree.
-After 6 months, the weekly incidence of agranulocytosis declines still further; however, it never reaches zero.
-It should be noted that any type of reduction in the frequency of monitoring WBC counts may result in an increased incidence of agranulocytosis.
+Clozapine can cause neutropenia (a low absolute neutrophil count (ANC)), defined as a reduction below pre-treatment normal levels of blood neutrophils.
+The ANC is usually available as a component of the complete blood count (CBC), including differential, and is more relevant to drug-induced neutropenia than is the white blood cell (WBC) count.
+The ANC may also be calculated using the following formula: ANC equals the Total WBC count multiplied by the total percentage of neutrophils obtained from the differential (neutrophil “segs” plus neutrophil “bands”).
+Other granulocytes (basophils and eosinophils) contribute minimally to neutropenia and their measurement is not necessary [see Adverse Reactions (6.2)].
+Neutropenia may be mild, moderate, or severe (see Tables 2 and 3).
+To improve and standardize understanding, “severe neutropenia” replaces the previous terms severe leukopenia, severe granulocytopenia, or agranulocytosis.
 
-### Risk Factors
+Severe neutropenia, ANC less than (<) 500/μL,occurs in a small percentage of patients taking clozapine and is associated with an increase in the risk of serious and potentially fatal infections.
+Risk of neutropenia appears greatest during the first 18 weeks on treatment and then declines.
+The mechanism by which clozapine causes neutropenia is unknown and is not dose-dependent.
 
-Experience from clinical development, as well as from examples in the medical literature, suggests that patients who have developed agranulocytosis during clozapine therapy are at increased risk of subsequent episodes of agranulocytosis.
-Analysis of WBC count data from the Clozapine National Registry also suggests that patients who have an initial episode of moderate leukopenia (3000/mm3 > WBC count ≥ 2000/mm3) are at an increased risk of subsequent episodes of agranulocytosis.
-Except for bone-marrow suppression during initial clozapine therapy, there are no other established risk factors based on worldwide experience for the development of agranulocytosis in association with clozapine use.
-However, a disproportionate number of the U.S. cases of agranulocytosis occurred in patients of Jewish background compared to the overall proportion of such patients exposed during domestic development of clozapine.
-Most of the U.S. cases of agranulocytosis occurred within 4 to 10 weeks of exposure, but neither dose nor duration is a reliable predictor of this problem.
-Agranulocytosis associated with other antipsychotic drugs has been reported to occur with a greater frequency in women, the elderly, and in patients who are cachectic or have serious underlying medical illness; such patients may also be at particular risk with clozapine, although this has not been definitively demonstrated.
+Two separate management algorithms are provided below, the first for patients in the general population, and the second for patients identified to have baseline neutropenia.
 
-### WBC Count and ANC Clinical Monitoring Schedule
+### Clozapine Treatment and Monitoring in the General Patient Population (see Table 2)
 
-Clozapine is available only through a distribution system that ensures monitoring of WBC count and ANC according to the schedule described below prior to delivery of the next supply of medication.
-
-As described in Table 2, patients who are being treated with clozapine must have a baseline WBC count and ANC before initiation of treatment, and a WBC count and ANC every week for the first 6 months.
-Thereafter, if acceptable WBC counts and ANCs (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
-Thereafter, if acceptable WBC counts and ANCs (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the second 6 months of continuous therapy, WBC count and ANC can be monitored every 4 weeks.
-
-When treatment with clozapine is discontinued (regardless of the reason), WBC count and ANC must be monitored weekly for at least 4 weeks from the day of discontinuation or until WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3.
-
-Table 2 provides a summary of the frequency of monitoring that should occur based on various stages of therapy (e.g., initiation of therapy) or results from WBC count and ANC monitoring tests (e.g., moderate leukopenia).
-The text that follows should be consulted for additional details regarding the treatment of patients under the various conditions (e.g., severe leukopenia).
-
-Advise patients to immediately report the appearance of signs/symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) at any time during clozapine therapy.
-Such patients should have a WBC count and an ANC performed promptly.
+Obtain a CBC, including the ANC value, prior to initiating treatment with clozapine to ensure the presence of a normal baseline neutrophil count (equal to or greater than 1500/μL) and to permit later comparisons.
+Patients in the general population with an ANC equal to or greater than (≥) 1500/μL are considered within normal range (Table 2) and are eligible to initiate treatment.
+Weekly ANC monitoring is required for all patients during the first 6 months of treatment.
+If a patient’s ANC remains equal to or greater than 1500/μL for the first 6 months of treatment, monitoring frequency may be reduced to every 2 weeks for the next 6 months.
+If the ANC remains equal to or greater than 1500/μL for the second 6 months of continuous therapy, ANC monitoring frequency may be reduced to once every 4 weeks thereafter.
 
 Table 2.
-Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and ANC Monitoring Tests
+Clozapine Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring for the General Patient Population
 
-| Situation | Hematological Values for Monitoring | Frequency of WBC Count and ANC Monitoring |
+| ANC Level | Clozapine Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Initiation of therapy | WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3Note: Do not initiate in patients with a history of clozapine-induced agranulocytosis or severe granulocytopenia. | Weekly for 6 months |
-| 6 to 12 months of therapy | WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 | Every 2 weeks for 6 months |
-| 12 months of therapy | WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 | Every 4 weeks ad infinitum |
-| Immature forms present | N/A | Repeat WBC and ANC |
-| Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of: WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | 1. Repeat WBC and ANC2. If repeat values are: WBC 3000/mm3 to 3500 and ANC ≤ 2000/mm3, then monitor twice weekly |
-| Mild leukopenia and/or Mild granulocytopenia | If WBC 3000 mm3 to < 3500/mm3 and/or ANC 1500/mm3 to < 2000/mm3 | Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 then return to previous monitoring frequency |
-| Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to < 3000/mm3 and/or ANC 1000/mm3 to < 1500/mm3 | 1. Interrupt therapy 2. Daily until WBC > 3000/mm3 and ANC > 1500/mm33. Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm34. May rechallenge when WBC > 3500/mm3 and ANC > 2000/mm35. If rechallenged, monitor weekly for one year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum. |
-| Severe leukopenia and/or Severe granulocytopenia | WBC count < 2000/mm3 and/or ANC < 1000/mm3 | 1. Discontinue treatment and do not rechallenge patient.2. Monitor until normal and for at least 4 weeks from day of discontinuation as follows:- Daily until WBC > 3000/mm3 and ANC >1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
-| Agranulocytosis | ANC < 500/mm3 | 1. Discontinue treatment and do not rechallenge patient.2. Monitor until normal and for at least 4 weeks from day of discontinuation as follows:- Daily until WBC > 3000/mm3 and ANC > 1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
-| WBC = White blood cell |  |  |
-| ANC = Absolute neutrophil count |  |  |
+| Normal range(≥ 1500/μL) | •Initiate treatment•If treatment interrupted: -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| •Discontinuation for reasons other than neutropenia | •See Section 2.4 |  |
+| Mild Neutropenia(1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥ 1500/μL•Once ANC ≥ 1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
+| Moderate Neutropenia(500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL •Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
+| Severe Neutropenia(less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 1000/µL, then •Three times weekly until ANC ≥ 1500/µL •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1500/µL |
 
-### Decrements in WBC Count and/or ANC
+### Clozapine Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
-Consult Table 2 above to determine how to monitor patients who experience decrements in WBC count and/or ANC at any point during treatment.
-Additionally, patients should be carefully monitored for flu-like symptoms or other symptoms suggestive of infection.
+Benign ethnic neutropenia (BEN) is a condition observed in certain ethnic groups whose average ANC values are lower than “standard” laboratory ranges for neutrophils.
+It is most commonly observed in individuals of African descent (approximate prevalence of 25-50%), some Middle Eastern ethnic groups, and in other non-Caucasian ethnic groups with darker skin.
+BEN is more common in men.
+Patients with BEN have normal hematopoietic stem-cell number and myeloid maturation, are healthy, and do not suffer from repeated or severe infections.
+They are not at increased risk for developing clozapine-induced neutropenia.
+Additional evaluation may be needed to determine if baseline neutropenia is due to BEN.
+Consider hematology consultation before initiating or during clozapine treatment as necessary.
 
-### Nonrechallengeable Patients
+Patients with BEN require a different ANC algorithm for clozapine management due to their lower baseline ANC levels.
+Table 3 provides guidelines for managing clozapine treatment and ANC monitoring in patients with BEN.
 
-If the total WBC count falls below 2000/mm3 or the ANC falls below 1000/mm3, bone marrow aspiration should be considered to ascertain granulopoietic status and patients should not be rechallenged with clozapine.
-Protective isolation with close observation may be indicated if granulopoiesis is determined to be deficient.
-Should evidence of infection develop, the patient should have appropriate cultures performed and an appropriate antibiotic regimen instituted.
+Table 3.
+Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring
 
-Patients discontinued from clozapine therapy due to significant granulopoietic suppression have been found to develop agranulocytosis upon rechallenge, often with a shorter latency on re-exposure.
-To reduce the chances of rechallenge occurring in patients who have experienced significant bone marrow suppression during clozapine therapy, a single, national master file (i.e., Nonrechallengeable Database) is confidentially maintained.
+| ANC Level | Treatment Recommendations | ANC Monitoring |
+| --- | --- | --- |
+| Normal BEN Range(Established ANC baseline ≥ 1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted: -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |  |
+| BENNeutropenia(500 to 999/µL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL, or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring intervalIf clinically appropriate |
+| BEN Severe Neutropenia(less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 500/µL, then•Three times weekly until ANC ≥ patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1000/µL or at patient’s baseline |
 
-### Treatment of Rechallengeable Patients
+### General Guidelines for Management of All Patients with Fever or with Neutropenia
 
-Patients may be rechallenged with clozapine if their WBC count does not fall below 2000/mm3 and the ANC does not fall below 1000/mm3.
-However, analysis of the data from the Clozapine National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3 > WBC count ≥ 2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged as compared to the full cohort of patients treated with clozapine.
-Although clozapine therapy may be resumed if no symptoms of infection develop and when the WBC count rises above 3500/mm3 and the ANC rises above 2000/mm3, prescribers are strongly advised to consider whether the benefit of continuing clozapine treatment outweighs the increased risk of agranulocytosis.
+- •Fever: Interrupt clozapine as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
+  Fever is often the first sign of neutropenic infection.
+- •ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
+- •Consider hematology consultation.
+- •See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
-Analyses of the Clozapine National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.
-Therefore, as noted in Table 2, patients must undergo weekly WBC count and ANC monitoring for one year following recovery from an episode of moderate leukopenia and/or moderate granulocytopenia regardless of when the episode develops.
-If acceptable WBC counts and ANC (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the year of weekly monitoring, WBC counts can be monitored every 2 weeks for the next 6 months.
-If acceptable WBC counts and ANC (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) continue to be maintained during the 6 months of every 2-week monitoring, WBC counts can be monitored every 4 weeks thereafter, ad infinitum.
+### Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
-### Interruptions in Therapy
+For some patients who experience severe clozapine-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine treatment may be greater than the risk of rechallenge (e.g. patients with severe schizophrenic illness who have no treatment options other than clozapine).
+A hematology consultation may be useful in deciding to rechallenge a patient.
+In general, however, do not rechallenge patients who develop severe neutropenia with clozapine or a clozapine product.
 
-Figure 1 provides instructions regarding re-initiating therapy and subsequently the frequency of WBC count and ANC monitoring after a period of interruption.
+If a patient will be rechallenged, the clinician should consider thresholds provided in Tables 2 and 3, the patient’s medical and psychiatric history, a discussion with the patient and his/her caregiver about the benefits and risks of clozapine rechallenge, and the severity and characteristics of the neutropenic episode.
 
-## 5.2 Clozapine Prescription Access System (CPAS) Because of the Risk of Agranulocytosis
+### Using Clozapine with Other Drugs Associated with Neutropenia
 
-Because of the risk of agranulocytosis, clozapine tablets are available only through a restricted program called the Clozapine Prescription Access System (CPAS).
-Under CPAS, prescribers, patients, pharmacies and distributors must enroll in the program.
+It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
+There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
+If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment the guidelines provided in Tables 2 and 3.
+Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
-Required components of CPAS are:
+## 5.2 Clozapine REMS Program
 
-- •Healthcare professionals who prescribe clozapine tablets must enroll in the program and comply with the CPAS requirements.
-- •Pharmacies that dispense clozapine tablets must enroll in the program and comply with the CPAS requirements.
-- •Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with clozapine tablets [see Warnings and Precautions (5.1)].
-- •Patients who receive clozapine tablets must be enrolled in the Clozapine Prescription Access System (CPAS).
+Clozapine tablets are only available through a restricted program under a REMS called the Clozapine REMS Program because of the risk of severe neutropenia.
 
-Further information is available at https://www.mylan-clozapine.com or 1-800-843-9915.
+Notable requirements of the Clozapine REMS Program include:
+
+- •Healthcare professionals who prescribe clozapine tablets must be certified with the program by enrolling and completing training
+- •Patients who receive clozapine tablets must be enrolled in the program and comply with the ANC testing and monitoring requirements
+- •Pharmacies dispensing clozapine tablets must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine tablets
+
+Further information is available at www.clozapinerems.com or 1-844-267-8678.
 
 ## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
 
 Hypotension, bradycardia, syncope, and cardiac arrest have occurred with clozapine treatment.
-The risk is highest during the initial titration period, particularly with rapid dose escalation.
+The risk is highest during the initial titration period, particularly with rapid dose-escalation.
 These reactions can occur with the first dose, at doses as low as 12.5 mg.
 These reactions can be fatal.
 The syndrome is consistent with neurally mediated reflex bradycardia (NMRB).
 
 Treatment must begin at a maximum dose of 12.5 mg once daily or twice daily.
-The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well tolerated, to a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
+The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well-tolerated, to a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
 Subsequently, the dose can be increased weekly or twice weekly, in increments of up to 100 mg.
 The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.2)].
@@ -119,7 +115,7 @@ Use clozapine cautiously in patients with cardiovascular disease (history of myo
 ## 5.4 Seizures
 
 Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1,743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
-The risk of seizure is dose related.
+The risk of seizure is dose-related.
 Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided dosing.
 
 Use caution when administering clozapine to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
@@ -153,11 +149,11 @@ Clozapine is not approved for the treatment of patients with dementia-related ps
 
 ## 5.7 Eosinophilia
 
-Eosinophilia, defined as a blood eosinophil count of greater than 700/mm3, has occurred with clozapine treatment.
+Eosinophilia, defined as a blood eosinophil count of greater than 700/μL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
 Clozapine-related eosinophilia usually occurs during the first month of treatment.
 In some patients, it has been associated with myocarditis, pancreatitis, hepatitis, colitis, and nephritis.
-Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, also known as drug induced hypersensitivity syndrome (DIHS).
+Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms syndrome (DRESS), also known as drug induced hypersensitivity syndrome (DIHS).
 If eosinophilia develops during clozapine treatment, evaluate promptly for signs and symptoms of systemic reactions, such as rash or other allergic symptoms, myocarditis, or other organ-specific disease associated with eosinophilia.
 If clozapine-related systemic disease is suspected, discontinue clozapine immediately.
 
@@ -170,7 +166,7 @@ If the total eosinophil count continues to increase over several weeks in the ab
 
 ## 5.8 QT Interval Prolongation
 
-QT prolongation, Torsades de Pointes and other life threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
+QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing clozapine, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
 Conditions that increase these risks include the following: history of QT prolongation, long QT syndrome, family history of long QT syndrome or sudden cardiac death, significant cardiac arrhythmia, recent myocardial infarction, uncompensated heart failure, treatment with other medications that cause QT prolongation, treatment with medications that inhibit the metabolism of clozapine, and electrolyte abnormalities.
 
@@ -193,7 +189,7 @@ Correct electrolyte abnormalities before initiating treatment with clozapine.
 
 ## 5.9 Metabolic Changes
 
-Atypical antipsychotic drugs, including clozapine, have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
+Atypical antipsychotic drugs, including clozapine have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
 While atypical antipsychotic drugs may produce some metabolic changes, each drug in the class has its own specific risk profile.
 
@@ -209,15 +205,15 @@ Patients with an established diagnosis of diabetes mellitus who are started on c
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
 In a pooled data analysis of eight studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were + 11 mg/dL and + 4 mg/dL respectively.
-A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 3).
+A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 4).
 The clozapine doses were 100 mg to 900 mg per day (mean modal dose: 512 mg per day).
 The maximum chlorpromazine dose was 1800 mg per day (mean modal dose: 1029 mg per day).
 The median duration of exposure was 42 days for clozapine and chlorpromazine.
 
-Table 3.
+Table 4.
 Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with Schizophrenia
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
@@ -236,13 +232,13 @@ In a pooled data analysis of ten studies in adult subjects with schizophrenia, c
 No data were collected on LDL and HDL cholesterol.
 The mean increase in total cholesterol was 13 mg/dL in the clozapine group and 15 mg/dL in the chlorpromazine group.
 In a pooled data analysis of 2 studies in adult subjects with schizophrenia, clozapine treatment was associated with increases in fasting serum triglyceride.
-The mean increase in fasting triglyceride was 71 mg/dL (54%) in the clozapine group and 39 mg/dL (35%) in the chlorpromazine group (Table 4).
-In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.
+The mean increase in fasting triglyceride was 71 mg/dL (54%) in the clozapine group and 39 mg/dL (35%) in the chlorpromazine group (Table 5).
+In addition, clozapine treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 6.
 The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
 The median duration of clozapine and chlorpromazine exposure was 45 days and 38 days, respectively.
 The clozapine dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
 
-Table 4.
+Table 5.
 Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in Adult Subjects with Schizophrenia
 
 | Treatment Arm | Baseline total cholesterolconcentration (mg/dL) | Change from baselinemg/dL (%) |
@@ -253,7 +249,7 @@ Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in A
 | Clozapine (N = 6) | 130 | +71 (54) |
 | Chlorpromazine (N = 7) | 110 | +39 (35) |
 
-Table 5.
+Table 6.
 Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Schizophrenia
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
@@ -275,10 +271,10 @@ Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Sc
 
 Weight gain has occurred with the use of antipsychotics, including clozapine.
 Monitor weight during treatment with clozapine.
-Table 6 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with clozapine and active comparators.
-The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine and chlorpromazine group, respectively.
+Table 7 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with clozapine and active comparators.
+The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
 
-Table 6.
+Table 7.
 Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
 
 | Metabolic parameter | Exposure duration | Clozapine(N = 669) |  | Olanzapine(N = 442) |  | Chlorpromazine(N = 155) |  |
@@ -291,10 +287,10 @@ Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Su
 | 24 weeks (Day 154 to 182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
 | 48 weeks (Day 322 to 350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
 
-Table 7 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥ 7% of body weight relative to baseline.
+Table 8 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥ 7% of body weight relative to baseline.
 The median duration of exposure was 609, 728, and 42 days, in the clozapine, olanzapine, and chlorpromazine group, respectively.
 
-Table 7.
+Table 8.
 Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain ≥ 7% Relative to Baseline Body Weight
 
 | Weight change | Clozapine | Olanzapine | Chlorpromazine |
@@ -309,7 +305,7 @@ Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered me
 Associated findings can include elevated creatine phosphokinase (CPK), myoglobinuria, rhabdomyolysis, and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
-It is important to consider the presence of other serious medical conditions (e.g., agranulocytosis, infection, heat stroke, primary CNS pathology, central anticholinergic toxicity, extrapyramidal symptoms, and drug fever).
+It is important to consider the presence of other serious medical conditions (e.g., severe neutropenia, infection, heat stroke, primary CNS pathology, central anticholinergic toxicity, extrapyramidal symptoms, and drug fever).
 
 The management of NMS should include (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, (2) intensive symptomatic treatment and medical monitoring, and (3) treatment of comorbid medical conditions.
 There is no general agreement about specific pharmacological treatments for NMS.
@@ -326,12 +322,12 @@ During clozapine therapy, patients have experienced transient, clozapine-related
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
-Carefully evaluate patients with fever to rule out agranulocytosis or infection.
+Carefully evaluate patients with fever to rule out severe neutropenia or infection.
 Consider the possibility of NMS [see Warnings and Precautions (5.10)].
 
 ## 5.12 Pulmonary Embolism
 
-Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
+Pulmonary embolism and deep-vein thrombosis have occurred in patients treated with clozapine.
 Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
@@ -339,7 +335,7 @@ Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapin
 
 Clozapine has potent anticholinergic effects.
 Treatment with clozapine can result in CNS and peripheral anticholinergic toxicity.
-Use with caution in the presence of narrow angle glaucoma, concomitant anticholinergic medications, prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+Use with caution in the presence of narrow-angle glaucoma, concomitant anticholinergic medications, prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
 
 Treatment with clozapine can result in gastrointestinal adverse reactions, including constipation, intestinal obstruction, fecal impaction, and paralytic ileus.
 Such reactions can be fatal.
@@ -350,7 +346,7 @@ Consultation with a gastroenterologist is advisable in more serious cases.
 
 Clozapine can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine does not affect them adversely.
-These reactions may be dose related.
+These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
 ## 5.15 Tardive Dyskinesia
@@ -379,4 +375,4 @@ Clozapine should be used with caution in patients with risk factors for cerebrov
 
 ## 5.17 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
 
-If abrupt discontinuation of clozapine is necessary (because of agranulocytosis or another medical condition, for example), monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.

@@ -31,4 +31,6 @@ NDC 0378-0973-01 bottles of 100 tablets
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
+Keep out of reach of children.
+
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
