@@ -20,7 +20,7 @@ GREENSTONE® BRAND
 
 sirolimus tablets
 
-1mg For oral use only Rx only
+1 mg For oral use only Rx only
 
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
@@ -32,4 +32,4 @@ GREENSTONE® BRAND
 
 sirolimus tablets
 
-2mg For oral use only Rx only
+2 mg For oral use only Rx only
