@@ -4,18 +4,17 @@
 
 TREANDA is available in two formulations, a solution (TREANDA Injection) and a lyophilized powder (TREANDA for Injection).
 
-Do not use TREANDA Injection with devices containing polycarbonate or acrylonitrile-butadiene-styrene (ABS) including closed system transfer devices (CSTDs), adapters, and syringes.
+Do not use TREANDA Injection if you intend to use closed system transfer devices (CSTDs), adapters and syringes containing polycarbonate or acrylonitrile-butadiene-styrene (ABS) prior to dilution in the infusion bag [see Dosage and Administration (2.4)].
 
-Only use a polypropylene syringe with a metal needle and polypropylene hub to withdraw and transfer TREANDA Injection.
+If using a syringe to withdraw and transfer TREANDA Injection from the vial into the infusion bag, only use a polypropylene syringe with a metal needle and polypropylene hub to withdraw and transfer TREANDA Injection into the infusion bag.
 Polypropylene syringes are translucent in appearance.
 
-TREANDA Injection and the reconstituted TREANDA for Injection have different concentrations of bendamustine hydrochloride.
-The concentration of bendamustine hydrochloride in the solution is 90 mg/mL and the concentration of bendamustine hydrochloride in the reconstituted solution of lyophilized powder is 5 mg/mL.
+TREANDA Injection and the reconstituted TREANDA for Injection have different concentrations of bendamustine hydrochloride.The concentration of bendamustine hydrochloride in the solution is 90 mg/mL and the concentration of bendamustine hydrochloride in the reconstituted solution of lyophilized powder is 5 mg/mL.
 Do not mix or combine the two formulations.
 
 TREANDA Injection must be withdrawn and transferred for dilution in a biosafety cabinet (BSC) or containment isolator using a polypropylene syringe with a metal needle and a polypropylene hub.
 
-If a closed system transfer device or adaptor is used as supplemental protection during preparation1, only use TREANDA for Injection, the lyophilized powder formulation.
+If a CSTD or adapter that contains polycarbonate or ABS is used as supplemental protection prior to dilution1, only use TREANDA for Injection, the lyophilized powder formulation [see How Supplied/Storage and Handling (16.1)].
 
 ## 2.2 Dosing Instructions for CLL
 
@@ -55,20 +54,26 @@ Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity
 
 ## 2.4 Preparation for Intravenous Administration
 
+TREANDA is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
+
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
 TREANDA Injection must be diluted in a biosafety cabinet (BSC) or containment isolator.
 
-- •Do not use with devices that contain polycarbonate or acrylonitrile-butadiene-styrene (ABS), including most Closed System Transfer Devices (CSTDs).
-  TREANDA Injection contains N,N-dimethylacetamide (DMA), which is incompatible with devices that contain polycarbonate or ABS.
-  Devices, including CSTDs, adaptors, and syringes that contain polycarbonate or ABS have been shown to dissolve when they come in contact with DMA which is present in the product.
+- •When preparing and transferring the concentrated TREANDA Injection solution into the infusion bag, do not use devices that contain polycarbonate or ABS.
+  However, after dilution of TREANDA Injection into the infusion bag, devices that contain polycarbonate or ABS, including infusion sets, may be used.
+- TREANDA Injection contains N,N-dimethylacetamide (DMA), which is incompatible with devices that contain polycarbonate or ABS.
+  Devices, including CSTDs, adapters, and syringes that contain polycarbonate or ABS have been shown to dissolve when they come in contact with DMA which is present in the product.
   This incompatibility leads to device failure (e.g., leaking, breaking, or operational failure of CSTD components), possible product contamination, and potential serious adverse health consequences to the practitioner, including skin reactions; or to the patient, including but not limited to, the risk of small blood vessel blockage if they receive product contaminated with dissolved ABS or polycarbonate.
-- •Only use a polypropylene syringe with a metal needle and a polypropylene hub to withdraw and transfer TREANDA Injection.
+  Devices that are compatible for use in dilution of TREANDA Injection are available.
+- •If using a syringe to withdraw and transfer TREANDA Injection from the vial into the infusion bag, only use a polypropylene syringe with a metal needle and a polypropylene hub to withdraw and transfer TREANDA Injection into the infusion bag.
 - •Each vial of TREANDA Injection is intended for single dose only.
 - •Aseptically withdraw the volume needed for the required dose from the 90 mg/mL solution using a polypropylene syringe with a metal needle and a polypropylene hub.
 - •Immediately transfer the solution to a 500 mL infusion bag of 0.9% Sodium Chloride Injection, USP (normal saline).
   As an alternative to 0.9% Sodium Chloride Injection, USP (normal saline), a 500 mL infusion bag of 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, may be considered.
   The resulting final concentration of bendamustine HCl in the infusion bag should be within 0.2 – 0.7 mg/mL.
+- •After dilution of TREANDA Injection into the infusion bag, devices that contain polycarbonate or ABS, including infusion sets, may be used.
 - •Visually inspect the filled syringe and the prepared infusion bag to ensure the lack of visible particulate matter prior to administration.
   The admixture should be a clear colorless to yellow solution.
 
@@ -77,12 +82,12 @@ No other diluents have been shown to be compatible.
 
 TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
-If a closed system transfer device or adaptor is to be used as supplemental protection during preparation1, only use TREANDA for Injection, the lyophilized formulation.
+If a closed system transfer device or adapter that contains polycarbonate or ABS is to be used as supplemental protection during preparation1, only use TREANDA for Injection, the lyophilized formulation.
 
 - •Each vial of TREANDA for Injection is intended for single dose only.
 - •Aseptically reconstitute each TREANDA for Injection vial as follows:
-  - 25 mg TREANDA for Injection vial: Add 5 mL of only Sterile Water for Injection, USP.
-  - 100 mg TREANDA for Injection vial: Add 20 mL of only Sterile Water for Injection, USP.
+  - ∘25 mg TREANDA for Injection vial: Add 5 mL of only Sterile Water for Injection, USP.
+  - ∘100 mg TREANDA for Injection vial: Add 20 mL of only Sterile Water for Injection, USP.
 - •Shake well to yield a clear, colorless to a pale yellow solution with a bendamustine HCl concentration of 5 mg/mL.
   The lyophilized powder should completely dissolve in 5 minutes.
   The reconstituted solution must be transferred to the infusion bag within 30 minutes of reconstitution.

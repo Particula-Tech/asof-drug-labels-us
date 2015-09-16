@@ -2,13 +2,13 @@
 
 ## 16.1 Safe Handling and Disposal
 
-As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of solutions prepared from TREANDA Injection and TREANDA for Injection.
+TREANDA is a cytotoxic drug.
+Follow applicable special handling and disposal procedures1.
+Care should be exercised in the handling and preparation of solutions prepared from TREANDA Injection and TREANDA for Injection.
 The use of gloves and safety glasses is recommended to avoid exposure in case of breakage of the vial or other accidental spillage.
+If gloves come in contact with TREANDA Injection prior to dilution, remove gloves and follow disposal procedures1.
 If a solution of TREANDA contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If TREANDA contacts the mucous membranes, flush thoroughly with water.
-
-TREANDA is a cytotoxic drug.
-Follow special handling and disposal procedures1.
 
 ## 16.2 How Supplied
 

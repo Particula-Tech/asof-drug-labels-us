@@ -51,7 +51,7 @@ Bendamustine did not induce metabolism of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9
 Elimination
 
 Mean recovery of total radioactivity in cancer patients following IV infusion of [14C] bendamustine hydrochloride was approximately 76% of the dose.
-Approximately 50% of the dose was recovered in the urine and approximately 25% of the dose was recovered in the feces.
+Approximately 50% the dose was recovered in the urine and approximately a 25% of the dose was recovered in the feces.
 Urinary excretion was confirmed as a relatively minor pathway of elimination of bendamustine, with approximately 3.3% of the dose recovered in the urine as parent.
 Less than 1% of the dose was recovered in the urine as M3 and M4, and less than 5% of the dose was recovered in the urine as HP2.
 

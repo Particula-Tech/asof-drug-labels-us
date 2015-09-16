@@ -10,10 +10,11 @@ The following serious adverse reactions have been associated with TREANDA in cli
 - •Other Malignancies [see Warnings and Precautions (5.6)]
 - •Extravasation injury [see Warnings and Precautions (5.7)]
 
-The data described below reflect exposure to TREANDA in 329 patients who participated in an actively-controlled trial (N=153) for the treatment of CLL and two single-arm trials (N=176) for the treatment of indolent B-cell NHL.
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Clinical Trials Experience in CLL
+Chronic Lymphocytic Leukemia
 
 The data described below reflect exposure to TREANDA in 153 patients with CLL studied in an active-controlled, randomized trial.
 The population was 45-77 years of age, 63% male, 100% white, and were treatment naïve.
@@ -84,7 +85,7 @@ Increases in AST and ALT of Grade 3 or 4 were limited to 1% and 3% of patients, 
 Patients treated with TREANDA may also have changes in their creatinine levels.
 If abnormalities are detected, monitoring of these parameters should be continued to ensure that further deterioration does not occur.
 
-## 6.2 Clinical Trials Experience in NHL
+Non-Hodgkin Lymphoma
 
 The data described below reflect exposure to TREANDA in 176 patients with indolent B-cell NHL treated in two single-arm studies.
 The population was 31-84 years of age, 60% male, and 40% female.
@@ -191,7 +192,7 @@ Other important serious adverse reactions reported in clinical trials and/or pos
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions (5)].
 Adverse reactions occurring less frequently but possibly related to TREANDA treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TREANDA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling; pneumocystis jiroveci pneumonia and pneumonitis.
