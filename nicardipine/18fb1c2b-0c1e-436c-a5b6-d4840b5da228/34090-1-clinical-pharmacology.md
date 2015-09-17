@@ -27,7 +27,7 @@ In congestive heart failure patients with impaired left ventricular function, ni
 Decreases in left ventricular end-diastolic pressure were also observed.
 However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure.
 
-"Coronary steal" has not been observed during treatment with nicardipine (Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from under-perfused areas toward better perfused areas.)
+“Coronary steal” has not been observed during treatment with nicardipine (Coronary steal is the detrimental redistribution of coronary blood flow in patients with coronary artery disease from underperfused areas toward better perfused areas.)
 Nicardipine has been shown to improve systolic shortening in both normal and hypokinetic segments of myocardial muscle.
 Radionuclide angiography has confirmed that wall motion remained improved during increased oxygen demand.
 (Occasional patients have developed increased angina upon receiving nicardipine capsules.
@@ -84,8 +84,8 @@ On termination of the infusion, nicardipine concentrations decrease rapidly, wit
 The effects of nicardipine on blood pressure significantly correlate with plasma concentrations.
 Nicardipine is highly protein bound (greater than 95%) in human plasma over a wide concentration range.
 
-Following infusion, nicardipine plasma concentrations decline tri-exponentially, with a rapid early distribution phase (α-half-life of 3 minutes), an intermediate phase (β-half-life of 45 minutes), and a slow terminal phase (γ-half-life of 14 hours) that can only be detected after long-term infusions.
-Total plasma clearance (Cl) is 0.4 L/hr∙kg, and the apparent volume of distribution (Vd) using a non-compartment model is 8.3 L/kg.
+Following infusion, nicardipine plasma concentrations decline triexponentially, with a rapid early distribution phase (α-half-life of 3 minutes), an intermediate phase (ß-half-life of 45 minutes), and a slow terminal phase (ƴ-half-life of 14 hours) that can only be detected after long-term infusions.
+Total plasma clearance (Cl) is 0.4 L/hr•kg, and the apparent volume of distribution (Vd) using a non-compartment model is 8.3 L/kg.
 The pharmacokinetics of nicardipine is linear over the dosage range of 0.5 mg/hr to 40 mg/hr.
 
 ### Metabolism and Excretion

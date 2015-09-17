@@ -17,14 +17,9 @@ Each vial (25 mg) should be diluted with 240 mL of compatible intravenous fluid 
 
 Nicardipine hydrochloride injection has been found compatible and stable in polyvinyl chloride containers for 24 hours at controlled room temperature with:
 
-- Dextrose (5%) Injection, USP
-- Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP
-- Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP
-- Dextrose (5%) with 40 mEq Potassium, USP
-- Sodium Chloride (0.45%) Injection, USP
-- Sodium Chloride (0.9%) Injection, USP
+Dextrose (5%) Injection, USP Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP Dextrose (5%) with 40 mEq Potassium, USP Sodium Chloride (0.45%) Injection, USP Sodium Chloride (0.9%) Injection, USP
 
-Nicardipine hydrochloride injection is not compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer's Injection, USP.
+Nicardipine hydrochloride injection is not compatible with Sodium Bicarbonate (5%) Injection, USP or Lactated Ringer’s Injection, USP.
 
 The diluted solution is stable for 24 hours at room temperature.
 
@@ -32,6 +27,8 @@ The diluted solution is stable for 24 hours at room temperature.
 
 Visually inspect nicardipine hydrochloride injection for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Nicardipine hydrochloride injection is normally light yellow in color.
+
+Do not use the solution if particulate matter, precipitate or crystallization is present, or if the container appears damaged.
 
 ## 2.3 Dosage as a Substitute for Oral Nicardipine Therapy
 

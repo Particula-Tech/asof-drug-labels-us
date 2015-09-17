@@ -19,7 +19,7 @@ No impairment of fertility was seen in male or female rats administered nicardip
 
 Embryolethality, but no teratogenicity, was seen at intravenous doses of 10 mg nicardipine/kg/day in rats and 1 mg/kg/day in rabbits.
 These doses in the rat and rabbit are equivalent to human intravenous doses of about 1.6 mg/kg/day and 0.32 mg/kg/day, respectively.
-(The total daily human dose delivered by a continuous intravenous infusion ranges from 1.2 mg/kg/day to 6 mg/kg/day, depending on duration at different infusion rates ranging from 3 mg/hr to 15 mg/hr as individual patients are titrated for optimal results.)
+(The total daily human dose delivered by a continuous intravenous infusion ranges from 1.2 mg to 6 mg/kg/day, depending on duration at different infusion rates ranging from 3 mg/hr to 15 mg/hr as individual patients are titrated for optimal results.)
 Nicardipine was also embryocidal when administered orally to pregnant Japanese White rabbits, during organogenesis, at 150 mg/kg/day (a dose associated with marked body weight gain suppression in the treated doe), but not at 50 mg/kg/day (human equivalent dose about 16 mg/kg/day or about 8 times the maximum recommended human oral dose).
 No adverse effects on the fetus were observed when New Zealand albino rabbits were treated orally, during organogenesis, with up to 100 mg nicardipine/kg/day (a dose associated with significant mortality in the treated doe).
 In pregnant rats administered nicardipine orally at doses of up to 100 mg/kg/day (human equivalent dose about 16 mg/kg/day) there was no evidence of embryolethality or teratogenicity.
