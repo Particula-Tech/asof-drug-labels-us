@@ -169,10 +169,10 @@ Tablet film-coat: titanium dioxide, hypromellose, polyethylene glycol 400, polys
 
 Inactive ingredients in BARACLUDE Oral Solution: maltitol, sodium citrate, citric acid, methylparaben, propylparaben, and orange flavor.
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1323583A0
+1354263
 
-Revised: August 2014
+Revised: August 2015

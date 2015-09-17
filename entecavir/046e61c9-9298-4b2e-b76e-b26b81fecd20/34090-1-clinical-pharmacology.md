@@ -64,7 +64,7 @@ Table 6: Pharmacokinetic Parameters in Pediatric Subjects
 | Cmax (ng/mL) (CV%) | 6.31 (30) | 14.48 (31) |
 | AUC(0–24) (ng•h/mL) (CV%) | 18.33 (27) | 38.58 (26) |
 | Cmin (ng/mL) (CV%) | 0.28 (22) | 0.47 (23) |
-| a Subjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg.b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. |  |  |
+| a Subjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg. b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. |  |  |
 
 Renal impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
 Results are shown in Table 7 [see Dosage and Administration (2.4)].
