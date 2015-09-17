@@ -28,21 +28,30 @@ There is insufficient experience to determine how XARELTO and warfarin compare w
 
 Table 9 displays the overall results for the primary composite endpoint and its components.
 
-Table 9: Primary Composite Endpoint Results in ROCKET AF Study
+Table 9: Primary Composite Endpoint Results in ROCKET AF Study (Intent-to-Treat Population)
 
 | Event | N = 7081 n (%) | Event Rate (per 100 Pt-yrs) | N = 7090 n (%) | Event Rate (per 100 Pt-yrs) | Hazard Ratio (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 |  | XARELTO |  | Warfarin |  | XARELTO vs. Warfarin |
 | Primary Composite EndpointThe primary endpoint was the time to first occurrence of stroke (any type) or non-CNS systemic embolism. Data are shown for all randomized patients followed to site notification that the study would end. | 269 (3.8) | 2.1 | 306 (4.3) | 2.4 | 0.88 (0.74, 1.03) |
 | Stroke | 253 (3.6) | 2.0 | 281 (4.0) | 2.2 |  |
-| Hemorrhagic Stroke | 33 (0.5) | 0.3 | 57 (0.8) | 0.4 |  |
+| Hemorrhagic StrokeDefined as primary hemorrhagic strokes confirmed by adjudication in all randomized patients followed up to site notification | 33 (0.5) | 0.3 | 57 (0.8) | 0.4 |  |
 | Ischemic Stroke | 206 (2.9) | 1.6 | 208 (2.9) | 1.6 |  |
 | Unknown Stroke Type | 19 (0.3) | 0.2 | 18 (0.3) | 0.1 |  |
 | Non-CNS Systemic Embolism | 20 (0.3) | 0.2 | 27 (0.4) | 0.2 |  |
 
-Figure 1 is a plot of the time from randomization to the occurrence of the first primary endpoint event in the two treatment arms.
+Figure 3 is a plot of the time from randomization to the occurrence of the first primary endpoint event in the two treatment arms.
 
-Figure 1: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embolism by Treatment Group
+Figure 3: Time to First Occurrence of Stroke (any type) or Non-CNS Systemic Embolism by Treatment Group (Intent-to-Treat Population)
+
+Figure 4 shows the risk of stroke or non-CNS systemic embolism across major subgroups.
+
+| Figure 4: Risk of Stroke or Non-CNS Systemic Embolism by Baseline Characteristics in ROCKET AFData are shown for all randomized patients followed to site notification that the study would end. (Intent-to-Treat Population) |
+| --- |
+
+Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score).
+The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 The efficacy of XARELTO was generally consistent across major subgroups.
 
@@ -97,11 +106,11 @@ If the same patient had several events, the patient may have been counted for se
 | Symptomatic recurrent PE only | 23 (1.0) | 20 (0.8) |  |
 | Symptomatic recurrent DVT only | 18 (0.7) | 17 (0.7) |  |
 
-Figures 2 and 3 are plots of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups in EINSTEIN DVT and EINSTEIN PE studies, respectively.
+Figures 5 and 6 are plots of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups in EINSTEIN DVT and EINSTEIN PE studies, respectively.
 
-Figure 2: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN DVT Study
+Figure 5: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN DVT Study
 
-Figure 3: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
+Figure 6: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
 
 EINSTEIN Extension Study
 
@@ -130,9 +139,9 @@ Table 11: Primary Composite Endpoint ResultsFor the primary efficacy analysis, a
 | Symptomatic recurrent PE | 2 (0.3) | 13 (2.2) |  |
 | Symptomatic recurrent DVT | 5 (0.8) | 31 (5.2) |  |
 
-Figure 4 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
+Figure 7 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
 
-Figure 4: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN Extension Study
+Figure 7: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN Extension Study
 
 ## 14.3 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 

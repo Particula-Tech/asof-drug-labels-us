@@ -20,7 +20,7 @@ These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, f
 
 Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.1)].
 
-Reversal of Anticoagulant Effect:
+Reversal of Anticoagulant Effect
 
 A specific antidote for rivaroxaban is not available.
 Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].

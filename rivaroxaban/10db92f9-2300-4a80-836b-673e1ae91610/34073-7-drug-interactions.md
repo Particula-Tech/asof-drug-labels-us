@@ -5,7 +5,7 @@ Inhibitors and inducers of these CYP450 enzymes or transporters (e.g., P-gp) may
 
 ## 7.1 Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
 
-In drug interaction studies evaluating the concomitant use with drugs that are combined P-gp and CYP3A4 inhibitors (ketoconazole, ritonavir, clarithromycin, erythromycin and fluconazole), increases in rivaroxaban exposure and pharmacodynamic effects (i.e., factor Xa inhibition and PT prolongation) were observed.
+In drug interaction studies, conducted in subjects with normal renal function, evaluating the concomitant use with drugs that are combined P-gp and CYP3A4 inhibitors (ketoconazole, ritonavir, clarithromycin, and erythromycin) or a moderate CYP3A4 inhibitor (fluconazole), increases in rivaroxaban exposure and pharmacodynamic effects (i.e., factor Xa inhibition and PT prolongation) were observed.
 The increases in exposure ranged from 30% to 160%.
 Significant increases in rivaroxaban exposure may increase bleeding risk [see Clinical Pharmacology (12.3)].
 
@@ -37,6 +37,6 @@ Promptly evaluate any signs or symptoms of blood loss if patients are treated co
 Results from a pharmacokinetic trial with erythromycin indicated that patients with renal impairment coadministered XARELTO with drugs classified as combined P-gp and moderate CYP3A4 inhibitors (e.g., diltiazem, verapamil, dronedarone, and erythromycin) have increased exposure compared with patients with normal renal function and no inhibitor use.
 Significant increases in rivaroxaban exposure may increase bleeding risk.
 
-While increases in rivaroxaban exposure can be expected under such conditions, results from an analysis in the ROCKET AF trial, which allowed concomitant use with combined P-gp and weak or moderate CYP3A4 inhibitors (e.g., amiodarone, diltiazem, verapamil, chloramphenicol, cimetidine, and erythromycin), did not show an increase in bleeding in patients with CrCl 30 to <50 mL/min [Hazard Ratio (95% CI): 1.05 (0.77, 1.42)] [see Use in Specific Populations (8.7)].
+While increases in rivaroxaban exposure can be expected under such conditions, results from an analysis in the ROCKET AF trial, which allowed concomitant use with either combined P-gp and/or weak or moderate CYP3A4 inhibitors (e.g., amiodarone, diltiazem, verapamil, chloramphenicol, cimetidine, and erythromycin), did not show an increase in bleeding in patients with CrCl 30 to <50 mL/min [Hazard Ratio (95% CI): 1.05 (0.77, 1.42)] [see Use in Specific Populations (8.7)].
 
-XARELTO should not be used in patients with CrCl 15 to 80 mL/min who are receiving concomitant combined P-gp and moderate CYP3A4 inhibitors unless the potential benefit justifies the potential risk [see Clinical Pharmacology (12.3)].
+XARELTO should not be used in patients with CrCl 15 to <80 mL/min who are receiving concomitant combined P-gp and moderate CYP3A4 inhibitors (e.g., diltiazem, verapamil, dronedarone, and erythromycin) unless the potential benefit justifies the potential risk [see Clinical Pharmacology (12.3)].

@@ -24,15 +24,28 @@ The incidence of discontinuations for non-bleeding adverse events was similar in
 
 Table 1 shows the number of patients experiencing various types of bleeding events in the ROCKET AF trial.
 
-Table 1: Bleeding Events in ROCKET AFFor all sub-types of major bleeding, single events may be represented in more than one row, and individual patients may have more than one event.
+Table 1: Bleeding Events in ROCKET AFMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.
+These events occurred during treatment or within 2 days of stopping treatment.- On Treatment Plus 2 Days
 
-| Parameter | XARELTO N = 7111 n (%) | Event Rate (per 100 Pt-yrs) | Warfarin N = 7125 n (%) | Event Rate (per 100 Pt-yrs) |
-| --- | --- | --- | --- | --- |
-| Major bleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. Hemorrhagic strokes are counted as both bleeding and efficacy events. Major bleeding rates excluding strokes are 3.3 per 100 Pt-yrs for XARELTO vs. 2.9 per 100 Pt-yrs for warfarin. | 395 (5.6) | 3.6 | 386 (5.4) | 3.5 |
-| Bleeding into a critical organThe majority of the events were intracranial, and also included intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, or retroperitoneal. | 91 (1.3) | 0.8 | 133 (1.9) | 1.2 |
-| Fatal bleeding | 27 (0.4) | 0.2 | 55 (0.8) | 0.5 |
-| Bleeding resulting in transfusion of ≥2 units of whole blood or packed red blood cells | 183 (2.6) | 1.7 | 149 (2.1) | 1.3 |
-| Gastrointestinal bleeding | 221 (3.1) | 2.0 | 140 (2.0) | 1.2 |
+| Parameter | XARELTO N = 7111 n (%/year) | Warfarin N = 7125 n (%/year) | XARELTO vs. Warfarin HR (95% CI) |
+| --- | --- | --- | --- |
+| Major BleedingDefined as clinically overt bleeding associated with a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. | 395 (3.6) | 386 (3.5) | 1.04 (0.90, 1.20) |
+| Intracranial Hemorrhage (ICH) Intracranial bleeding events included intraparenchymal, intraventricular, subdural, subarachnoid and/or epidural hematoma. | 55 (0.5) | 84 (0.7) | 0.67 (0.47, 0.93) |
+| Hemorrhagic StrokeHemorrhagic stroke in this table specifically refers to non-traumatic intraparenchymal and/or intraventricular hematoma in patients on treatment plus 2 days. | 36 (0.3) | 58 (0.5) | 0.63 (0.42, 0.96) |
+| Other ICH | 19 (0.2) | 26 (0.2) | 0.74 (0.41, 1.34) |
+| Gastrointestinal (GI)Gastrointestinal bleeding events included upper GI, lower GI, and rectal bleeding. | 221 (2.0) | 140 (1.2) | 1.61 (1.30, 1.99) |
+| Fatal BleedingFatal bleeding is adjudicated death with the primary cause of death from bleeding. | 27 (0.2) | 55 (0.5) | 0.50 (0.31, 0.79) |
+| ICH | 24 (0.2) | 42 (0.4) | 0.58 (0.35, 0.96) |
+| Non-intracranial | 3 (0.0) | 13 (0.1) | 0.23 (0.07, 0.82) |
+| Abbreviations: HR = Hazard Ratio, CI = Confidence interval, CRNM = Clinically Relevant Non-Major. |  |  |  |
+
+Figure 1 shows the risk of major bleeding events across major subgroups.
+
+Figure 1: Risk of Major Bleeding Events by Baseline Characteristics in ROCKET AF – On Treatment Plus 2 Days
+
+Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified (diabetic status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score).
+The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and to Reduce the Risk of Recurrence of DVT and of PE
 

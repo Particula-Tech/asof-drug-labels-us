@@ -33,14 +33,12 @@ What is the most important information I should know about XARELTO?
   - pain, swelling, or new drainage at wound sites
 - Spinal or epidural blood clots (hematoma).
   People who take a blood thinner medicine (anticoagulant) like XARELTO, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
-  Your risk of developing a spinal or epidural blood clot is higher if:
+  Your risk of developing a spinal or epidural blood clot is higher if:If you take XARELTO and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots.
+  Tell your doctor right away if you have back pain, tingling, numbness, muscle weakness (especially in your legs and feet), loss of control of the bowels or bladder (incontinence).
   - a thin tube called an epidural catheter is placed in your back to give you certain medicine
   - you take NSAIDs or a medicine to prevent blood from clotting
   - you have a history of difficult or repeated epidural or spinal punctures
   - you have a history of problems with your spine or have had surgery on your spine
-
-If you take XARELTO and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots.
-Tell your doctor right away if you have back pain, tingling, numbness, muscle weakness (especially in your legs and feet), loss of control of the bowels or bladder (incontinence).
 
 - XARELTO is not for patients with artificial heart valves.
 
