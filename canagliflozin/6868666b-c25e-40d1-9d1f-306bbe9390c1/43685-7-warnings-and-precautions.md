@@ -20,7 +20,7 @@ In addition, metformin should be promptly withheld in the presence of any condit
 
 Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should be avoided in patients with clinical or laboratory evidence of hepatic impairment.
 Patients should be cautioned against excessive alcohol intake when taking metformin, since alcohol potentiates the effects of metformin on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.3), (5.5), (5.10) and Clinical Pharmacology (12.3)].
+In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure necessitating restricted intake of food or fluids [see Warnings and Precautions (5.3), (5.5), (5.11) and Clinical Pharmacology (12.3)].
 
 The onset of lactic acidosis often is subtle, and accompanied by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
 More severe acidosis may be associated with signs such as hypothermia, hypotension, and resistant bradyarrhythmias.
@@ -71,7 +71,7 @@ Temporarily discontinue INVOKAMET for any surgical procedure (except minor proce
 ## 5.4 Hyperkalemia
 
 Canagliflozin can lead to hyperkalemia.
-Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are more likely to develop hyperkalemia [see Adverse Reactions (6.1)].
+Patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 Monitor serum potassium levels periodically after initiating INVOKAMET in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
 
@@ -104,9 +104,14 @@ Monitor and treat appropriately.
 ## 5.8 Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with canagliflozin treatment; these reactions generally occurred within hours to days after initiating canagliflozin.
-If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat per standard of care and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
+If hypersensitivity reactions occur, discontinue use of INVOKAMET; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1)].
 
-## 5.9 Vitamin B12 Levels
+## 5.9 Bone Fracture
+
+An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using canagliflozin.
+Consider factors that contribute to fracture risk prior to initiating INVOKAMET [see Adverse Reactions (6.1)].
+
+## 5.10 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decreases, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (less than 1 year) of the clinical trials.
@@ -115,21 +120,21 @@ The decrease in vitamin B12 levels appears to be rapidly reversible with discont
 Measure hematologic parameters on an annual basis in patients on INVOKAMET and investigate and treat if abnormalities occur.
 Patients with inadequate vitamin B12 or calcium intake or absorption may be predisposed to developing subnormal vitamin B12 levels, and routine serum vitamin B12 measurement at 2- to 3-year intervals is recommended in these patients.
 
-## 5.10 Alcohol Intake
+## 5.11 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Warn patients against excessive alcohol intake while receiving INVOKAMET [see Warnings and Precautions (5.1)].
 
-## 5.11 Hypoxic States
+## 5.12 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur, promptly discontinue INVOKAMET [see Warnings and Precautions (5.1)].
 
-## 5.12 Increases in Low-Density Lipoprotein (LDL-C)
+## 5.13 Increases in Low-Density Lipoprotein (LDL-C)
 
 Dose-related increases in LDL-C occur with canagliflozin [see Adverse Reactions (6.1)].
-Monitor LDL-C and treat per standard of care after initiating INVOKAMET.
+Monitor LDL-C and treat if appropriate after initiating INVOKAMET.
 
-## 5.13 Macrovascular Outcomes
+## 5.14 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with INVOKAMET or any other antidiabetic drug [see Adverse Reactions (6.1)].

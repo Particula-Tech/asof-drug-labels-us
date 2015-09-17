@@ -25,6 +25,8 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
 - Urinary Tract Infections: Inform patients of the potential for urinary tract infections.
   Provide them with information on the symptoms of urinary tract infections.
   Advise them to seek medical advice if such symptoms occur.
+- Bone Fracture: Inform patients that bone fractures have been reported in patients taking canagliflozin.
+  Provide them with information on factors that may contribute to fracture risk.
 - Laboratory Tests: Inform patients that they will test positive for glucose in their urine while on INVOKAMET [see Drug Interactions (7.2)].
 - Pregnancy: Inform female patients of child bearing age that the use of INVOKAMET during pregnancy has not been studied in humans, and to use INVOKAMET during pregnancy only if the potential benefit justifies the potential risk to the fetus.
   Instruct patients to report pregnancies to their physicians as soon as possible [see Use in Specific Populations (8.1)].

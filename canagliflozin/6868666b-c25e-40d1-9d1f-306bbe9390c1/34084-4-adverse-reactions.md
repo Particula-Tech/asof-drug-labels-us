@@ -2,7 +2,7 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1), (5.3), (5.5), (5.10), (5.11)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1), (5.3), (5.5), (5.11), (5.12)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Impairment in Renal Function [see Warnings and Precautions (5.3)]
 - Hyperkalemia [see Warnings and Precautions (5.4)]
@@ -10,8 +10,9 @@ The following adverse reactions are also discussed elsewhere in the labeling:
 - Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.6)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.7)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
-- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.12)]
+- Bone Fracture [see Warnings and Precautions (5.9)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.10)]
+- Increases in Low-Density Lipoprotein (LDL-C) [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -71,9 +72,6 @@ In this pool, canagliflozin was also associated with the adverse reactions of fa
 
 In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.9, 2.7, and 0.9 per 1000 patient-years of exposure to comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 
-In the pool of eight clinical trials with a longer mean duration of exposure to canagliflozin (68 weeks), the incidence rate of bone fracture was 14.2, 18.7, and 17.6 per 1000 patient years of exposure to comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
-Upper extremity fractures occurred more commonly on canagliflozin than comparator.
-
 In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with canagliflozin, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to canagliflozin.
 Among these patients, 2 patients discontinued canagliflozin.
@@ -98,6 +96,11 @@ Table 2: Proportion of Patients With at Least One Volume Depletion-Related Adver
 | 75 years of age and olderPatients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
 | eGFR less than 60 mL/min/1.73 m2 | 2.5% | 4.7% | 8.1% |
 | Use of loop diuretic | 4.7% | 3.2% | 8.8% |
+
+Falls
+
+In a pool of nine clinical trials with mean duration of exposure to canagliflozin of 85 weeks, the proportion of patients who experienced falls was 1.3%, 1.5%, and 2.1% with comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+The higher risk of falls for patients treated with canagliflozin was observed within the first few weeks of treatment.
 
 Impairment in Renal Function
 
@@ -161,7 +164,7 @@ Table 4: Incidence of HypoglycemiaNumber of patients experiencing at least one e
 | In Combination with Metformin (26 weeks) | Placebo + Metformin (N=183) | Canagliflozin 100 mg + Metformin (N=368) | Canagliflozin 300 mg + Metformin (N=367) |
 | Overall [N (%)] | 3 (1.6) | 16 (4.3) | 17 (4.6) |
 | Severe [N (%)]Severe episodes of hypoglycemia were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained) | 0 (0) | 1 (0.3) | 1 (0.3) |
-| In Combination with Metformin (18 weeks) Phase 2 clinical study with twice daily dosing (50 mg or 150 mg twice daily in combination with metformin) | Placebo (N=93) | Canagliflozin 100 mg (N=93) | Canagliflozin 300 mg (N=93) |
+| In Combination with Metformin (18 weeks)Phase 2 clinical study with twice daily dosing (50 mg or 150 mg twice daily in combination with metformin) | Placebo (N=93) | Canagliflozin 100 mg (N=93) | Canagliflozin 300 mg (N=93) |
 | Overall [N (%)] | 3 (3.2) | 4 (4.3) | 3 (3.2) |
 | In Combination with Metformin + Sulfonylurea (26 weeks) | Placebo + Metformin + Sulfonylurea (N=156) | Canagliflozin 100 mg + Metformin + Sulfonylurea (N=157) | Canagliflozin 300 mg + Metformin + Sulfonylurea (N=156) |
 | Overall [N (%)] | 24 (15.4) | 43 (27.4) | 47 (30.1) |
@@ -171,26 +174,31 @@ Table 4: Incidence of HypoglycemiaNumber of patients experiencing at least one e
 | In Combination with Insulin (18 weeks) | Placebo (N=565) | Canagliflozin 100 mg (N=566) | Canagliflozin 300 mg (N=587) |
 | Overall [N (%)] | 208 (36.8) | 279 (49.3) | 285 (48.6) |
 | Severe [N (%)] | 14 (2.5) | 10 (1.8) | 16 (2.7) |
-| In Combination with Insulin and Metformin (18 weeks) Subgroup of patients (N=287) from insulin substudy on canagliflozin in combination with metformin and insulin (with or without other antiglycemic agents) | Placebo (N=145) | Canagliflozin 100 mg (N=139) | Canagliflozin 300 mg (N=148) |
+| In Combination with Insulin and Metformin (18 weeks)Subgroup of patients (N=287) from insulin substudy on canagliflozin in combination with metformin and insulin (with or without other antiglycemic agents) | Placebo (N=145) | Canagliflozin 100 mg (N=139) | Canagliflozin 300 mg (N=148) |
 | Overall [N (%)] | 66 (45.5) | 58 (41.7) | 70 (47.3) |
 | Severe [N (%)] | 4 (2.8) | 1 (0.7) | 3 (2.0) |
+
+Bone Fracture
+
+The occurrence of bone fractures was evaluated in a pool of nine clinical trials with a mean duration of exposure to canagliflozin of 85 weeks.
+The incidence rates of adjudicated bone fractures were 1.1, 1.4, and 1.5 per 100 patient-years of exposure in the comparator, canagliflozin 100 mg, and canagliflozin 300 mg groups, respectively.
+Fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities [see Warnings and Precautions (5.9)].
 
 Metformin
 
 The most common adverse reactions (5% or greater incidence) due to initiation of metformin are diarrhea, nausea, vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12, which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.9)].
+Long-term treatment with metformin has been associated with a decrease in vitamin B12, which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.10)].
 
-Laboratory Tests
+Laboratory and Imaging Tests
 
 Increases in Serum Potassium
 
-In pooled data from four placebo-controlled trials with canagliflozin, the mean percent change in serum potassium levels was 0.5% and 1.0% with canagliflozin 100 mg and canagliflozin 300 mg, respectively, compared to 0.6% with placebo.
-Episodes of elevated serum potassium (greater than 5.4 mEq/L and 15% above baseline) were seen in 4.4% of patients treated with canagliflozin 100 mg, 7.0% of patients treated with canagliflozin 300 mg, and 4.8% of patients treated with placebo.
-Dose-related, transient mean increases in serum potassium were observed early after initiation of canagliflozin (i.e., within 3 weeks) in a trial of patients with moderate renal impairment.
-In this trial, increases in serum potassium of greater than 5.4 mEq/L and 15% above baseline occurred in 16.1%, 12.4%, and 27.0% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
-More severe elevations (i.e., equal or greater than 6.5 mEq/L) occurred in 1.1%, 2.2%, and 2.2% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
-In patients with moderate renal impairment, increases in potassium were more commonly seen in those with elevated potassium at baseline and in those using medications that reduce potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.3), (5.4)].
+In a pooled population of patients (N=723) with moderate renal impairment (eGFR 45 to less than 60 mL/min/1.73 m2), increases in serum potassium to greater than 5.4 mEq/L and 15% above baseline occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with canagliflozin 100 mg, and 1.3% of patients treated with canagliflozin 300 mg.
+
+In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
+Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.3), (5.4) and Use in Specific Populations (8.6)].
 
 Increases in Serum Magnesium
 
@@ -208,7 +216,7 @@ Increases in Low-Density Lipoprotein Cholesterol (LDL-C) and non-High-Density Li
 
 In the pool of four placebo-controlled trials, dose-related increases in LDL-C with canagliflozin were observed.
 Mean changes (percent changes) from baseline in LDL-C relative to placebo were 4.4 mg/dL (4.5%) and 8.2 mg/dL (8.0%) with canagliflozin 100 mg and canagliflozin 300 mg, respectively.
-The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.12)].
+The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups [see Warnings and Precautions (5.13)].
 
 Dose-related increases in non-HDL-C with canagliflozin were observed.
 Mean changes (percent changes) from baseline in non-HDL-C relative to placebo were 2.1 mg/dL (1.5%) and 5.1 mg/dL (3.6%) with canagliflozin 100 mg and 300 mg, respectively.
@@ -219,3 +227,10 @@ Increases in Hemoglobin
 In the pool of four placebo-controlled trials, mean changes (percent changes) from baseline in hemoglobin were -0.18 g/dL (-1.1%) with placebo, 0.47 g/dL (3.5%) with canagliflozin 100 mg, and 0.51 g/dL (3.8%) with canagliflozin 300 mg.
 The mean baseline hemoglobin value was approximately 14.1 g/dL across treatment groups.
 At the end of treatment, 0.8%, 4.0%, and 2.7% of patients treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively, had hemoglobin levels above the upper limit of normal.
+
+Decreases in Bone Mineral Density
+
+Bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry in a clinical trial of 714 older adults (mean age 64 years).
+At 2 years, patients randomized to canagliflozin 100 mg and canagliflozin 300 mg had placebo-corrected declines in BMD at the total hip of 0.9% and 1.2%, respectively, and at the lumbar spine of 0.3% and 0.7%, respectively.
+Additionally, placebo-adjusted BMD declines were 0.1% at the femoral neck for both canagliflozin doses and 0.4% at the distal forearm for patients randomized to canagliflozin 300 mg.
+The placebo-adjusted change at the distal forearm for patients randomized to canagliflozin 100 mg was 0%.

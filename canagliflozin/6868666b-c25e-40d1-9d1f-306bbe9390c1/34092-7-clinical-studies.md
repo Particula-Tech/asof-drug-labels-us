@@ -27,7 +27,7 @@ Table 9: Results from 26-Week Placebo-Controlled Clinical Study of Canagliflozin
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 7.96 | 7.94 | 7.95 |
 | Change from baseline (adjusted mean) | -0.17 | -0.79 | -0.94 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.76, -0.48) | -0.77 (-0.91, -0.64) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.76, -0.48) | -0.77 (-0.91, -0.64) |
 | Percent of patients achieving HbA1C < 7% | 30 | 46 | 58 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 164 | 169 | 173 |
@@ -62,7 +62,7 @@ Table 10: Results from 52−Week Clinical Study Comparing Canagliflozin to Glime
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 7.78 | 7.79 | 7.83 |
 | Change from baseline (adjusted mean) | -0.82 | -0.93 | -0.81 |
-| Difference from glimepiride (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors | -0.01Canagliflozin + metformin is considered non-inferior to glimepiride + metformin because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.11, 0.09) | -0.12 (-0.22, -0.02) |  |
+| Difference from glimepiride (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors | -0.01Canagliflozin + metformin is considered non-inferior to glimepiride + metformin because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.11, 0.09) | -0.12 (-0.22, -0.02) |  |
 | Percent of patients achieving HbA1C < 7% | 54 | 60 | 56 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 165 | 164 | 166 |
@@ -93,7 +93,7 @@ Table 11: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflo
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 8.12 | 8.13 | 8.13 |
 | Change from baseline (adjusted mean) | -0.13 | -0.85 | -1.06 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.71p<0.001 (-0.90, -0.52) | -0.92 (-1.11, -0.73) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.71p<0.001 (-0.90, -0.52) | -0.92 (-1.11, -0.73) |
 | Percent of patients achieving HbA1C < 7% | 18 | 43 | 57 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 170 | 173 | 168 |
@@ -123,7 +123,7 @@ Table 12: Results from 52−Week Clinical Study Comparing Canagliflozin to Sitag
 | HbA1C (%) |  |  |
 | Baseline (mean) | 8.12 | 8.13 |
 | Change from baseline (adjusted mean) | -1.03 | -0.66 |
-| Difference from sitagliptin (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors | -0.37Canagliflozin + metformin+ sulfonylurea is considered noninferior to sitagliptin + metformin+ sulfonylurea because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.50, -0.25) |  |
+| Difference from sitagliptin (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors | -0.37Canagliflozin + metformin+ sulfonylurea is considered non-inferior to sitagliptin + metformin+ sulfonylurea because the upper limit of this confidence interval is less than the pre-specified non-inferiority margin of < 0.3%. (-0.50, -0.25) |  |
 | Percent of patients achieving HbA1C < 7% | 48 | 35 |
 | Fasting Plasma Glucose (mg/dL) |  |  |
 | Baseline (mean) | 170 | 164 |
@@ -155,7 +155,7 @@ Table 13: Results from 26−Week Placebo-Controlled Clinical Study of Canagliflo
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 8.00 | 7.99 | 7.84 |
 | Change from baseline (adjusted mean) | -0.26 | -0.89 | -1.03 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.81, -0.44) | -0.76 (-0.95, -0.58) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.81, -0.44) | -0.76 (-0.95, -0.58) |
 | Percent of patients achieving HbA1C < 7% | 33 | 47 | 64 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 164 | 169 | 164 |
@@ -190,7 +190,7 @@ Table 14: Results from 18−Week Placebo-Controlled Clinical Study of Canagliflo
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 8.15 | 8.20 | 8.22 |
 | Change from baseline (adjusted mean) | 0.03 | -0.64 | -0.79 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.66p≤0.001 (-0.81, -0.51) | -0.82 (-0.96, -0.67) |
+| Difference from placebo (adjusted mean) (95% CI)Least squares mean adjusted for baseline value and stratification factors |  | -0.66p≤0.001 (-0.81, -0.51) | -0.82 (-0.96, -0.67) |
 | Percent of patients achieving HbA1C < 7% | 9 | 19p≤0.01 | 29 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline | 163 | 168 | 167 |
