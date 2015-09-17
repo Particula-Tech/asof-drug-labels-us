@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA013174"
+  ],
+  "inn": "triamterene",
+  "labeler": "Concordia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59212-002-01",
+    "59212-003-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "triamterene",
+      "name": "Dyrenium"
+    }
+  ],
+  "setid": "ebb177c0-d45d-4443-a85a-e76bd9931a42",
+  "source": "dailymed"
+}
