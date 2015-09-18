@@ -30,14 +30,7 @@ Table 1 - Non-CABG related bleeds (PLATO)
 | Fatal/Life-threatening | 171 (1.9) | 151 (1.6) |
 | Fatal | 15 (0.2) | 16 (0.2) |
 | Intracranial hemorrhage (Fatal/Life-threatening) | 26 (0.3) | 15 (0.2) |
-
-PLATO Minor bleed: requires medical intervention to stop or treat bleeding.
-
-PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.
-
-PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units.
-
-Fatal: A bleeding event that directly led to death within 7 days.
+| PLATO Minor bleed: requires medical intervention to stop or treat bleeding.PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units.Fatal: A bleeding event that directly led to death within 7 days. |  |  |
 
 No baseline demographic factor altered the relative risk of bleeding with BRILINTA compared to clopidogrel.
 
@@ -62,10 +55,7 @@ Table 2 – CABG-related bleeding (PLATO)
 | PLATO Total Major | 626 (81.3) | 666 (81.8) |
 | Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |
 | Fatal | 6 (0.8) | 7 (0.9) |
-
-PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.
-
-PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units.
+| PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units. |  |  |
 
 When antiplatelet therapy was stopped 5 days before CABG, major bleeding occurred in 75% of BRILINTA treated patients and 79% on clopidogrel.
 
@@ -94,12 +84,7 @@ Table 4 - Bleeding events (PEGASUS)
 | Fatal | 11 (0.2) | 0.08 | 12 (0.2) | 0.08 |
 | Intracranial hemorrhage | 28 (0.4) | 0.19 | 23 (0.3) | 0.14 |
 | TIMI Major or Minor | 168 (2.4) | 1.15 | 72 (1.0) | 0.45 |
-
-TIMI Major: Fatal bleeding, OR any intracranial bleeding, OR clinically overt signs of hemorrhage associated with a drop in hemoglobin (Hgb) of ≥5 g/dL, or a fall in hematocrit (Hct) of 15%.
-
-Fatal: A bleeding event that directly led to death within 7 days.
-
-TIMI Minor: Clinically apparent with 3-5 g/dL decrease in hemoglobin.
+| TIMI Major: Fatal bleeding, OR any intracranial bleeding, OR clinically overt signs of hemorrhage associated with a drop in hemoglobin (Hgb) of ≥5 g/dL, or a fall in hematocrit (Hct) of 15%.Fatal: A bleeding event that directly led to death within 7 days.TIMI Minor: Clinically apparent with 3-5 g/dL decrease in hemoglobin. |  |  |  |  |
 
 The bleeding profile of BRILINTA 60 mg compared to aspirin alone was consistent across multiple pre-defined subgroups (e.g., by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy, stent, and medical history) for TIMI Major and TIMI Major or Minor bleeding events.
 

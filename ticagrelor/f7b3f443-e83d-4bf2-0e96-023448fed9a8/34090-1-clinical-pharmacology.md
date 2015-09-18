@@ -12,6 +12,7 @@ The inhibition of platelet aggregation (IPA) by ticagrelor and clopidogrel was c
 The onset of IPA was evaluated on Day 1 of the study following loading doses of 180 mg ticagrelor or 600 mg clopidogrel.
 As shown in Figure 3, IPA was higher in the ticagrelor group at all time points.
 The maximum IPA effect of ticagrelor was reached at around 2 hours, and was maintained for at least 8 hours.
+
 The offset of IPA was examined after 6 weeks on ticagrelor 90 mg twice daily or clopidogrel 75 mg daily, again in response to 20 μM ADP.
 
 As shown in Figure 4, mean maximum IPA following the last dose of ticagrelor was 88% and 62% for clopidogrel.

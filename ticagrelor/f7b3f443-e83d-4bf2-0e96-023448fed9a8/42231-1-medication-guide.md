@@ -11,4 +11,4 @@
 | What are the ingredients in BRILINTA?Active ingredient: ticagrelor 90 mg tablets: Inactive ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, talc, polyethylene glycol 400, and ferric oxide yellow.60 mg tablets: Inactive ingredients: mannitol, dibasic calcium phosphate, sodium starch glycolate, hydroxypropyl cellulose, magnesium stearate, hydroxypropyl methylcellulose, titanium dioxide, polyethylene glycol 400, ferric oxide black and ferric oxide red. Distributed by: AstraZeneca LP, Wilmington, DE 19850 For more information call 1-800-236-9933 or go to www.Brilinta.com. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: Month/Year
+Revised: 09/2015
