@@ -160,7 +160,7 @@ Daytrana may cause serious side effects, including:
 - Slowing of growth (weight and height).
   You should have your height and weight checked while using Daytrana.
 - Loss of skin color (chemical leukoderma).
-  Daytrana may cause a persistent loss of skin-color where the patch is applied.
+  Daytrana may cause a persistent loss of skin-color where the patch is applied or around the patch application site.
   Loss of skin-color, in some cases, has been reported at locations on the skin far from any application site.
   The loss of your skin-color may be permanent even after removing the patch or stopping use of Daytrana.
   Call your doctor immediately if you have changes in your skin-color.

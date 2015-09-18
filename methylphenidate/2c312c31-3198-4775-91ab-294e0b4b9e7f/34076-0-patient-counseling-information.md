@@ -17,7 +17,7 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 
 Chemical Leukoderma
 
-Advise patients of the possibility of a persistent loss of skin pigmentation at the application site.
+Advise patients of the possibility of a persistent loss of skin pigmentation at, around and distant from the application site.
 Loss of pigmentation has also been reported, in some cases, beyond the application site.
 Advise patients to immediately inform their healthcare provider if changes in skin pigmentation occur [see Warnings and Precautions (5.7)].
 

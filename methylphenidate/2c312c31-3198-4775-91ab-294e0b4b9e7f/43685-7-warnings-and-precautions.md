@@ -77,7 +77,7 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 
 ## 5.7 Chemical Leukoderma:
 
-Daytrana use may result in a persistent loss of skin pigmentation at the application site.
+Daytrana use may result in a persistent loss of skin pigmentation at and around the application site.
 Loss of pigmentation, in some cases, has been reported at other sites distant from the application site.Chemical leukoderma can mimic the appearance of vitiligo, particularly when the loss of skin pigmentation involves areas beyond the application site.
 Individuals with a history of vitiligo and/or a family history of vitiligo may be more at risk.
 Skin depigmentation may persist even after Daytrana use is discontinued.
