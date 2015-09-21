@@ -95,7 +95,6 @@ Priapism
 
 Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
 Instruct the patient to seek immediate medical attention in the event of priapism.
-Instruct the patient to seek immediate medical attention in the event of priapism.
 
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
 

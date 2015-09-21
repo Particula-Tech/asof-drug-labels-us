@@ -22,4 +22,4 @@ Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-MOS-PI-04 L20M21 Rev 12/2013
+MOS-PI-05 L20M21 Rev 02/2015
