@@ -27,6 +27,10 @@ Therapy with thiazolidinediones, including pioglitazone, which is one of the act
 As a result, these patients may be at an increased risk for pregnancy while taking OSENI.
 Therefore, adequate contraception should be recommended for all premenopausal women who are prescribed OSENI.
 
+Inform patients that severe and disabling joint pain may occur with this class of drugs.
+The time to onset of symptoms can range from one day to years.
+Instruct patients to seek medical advice if severe joint pain occurs.
+
 Instruct patients to take OSENI only as prescribed daily.
 OSENI can be taken with or without meals.
 If a dose is missed, advise patients not to double their next dose.
@@ -36,6 +40,4 @@ Patients should be informed that the tablets must never be split.
 Instruct patients to read the Medication Guide before starting OSENI therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-Revised: June 2013
-
-ALP008 R3
+Revised: August 2015 ALP008 R4

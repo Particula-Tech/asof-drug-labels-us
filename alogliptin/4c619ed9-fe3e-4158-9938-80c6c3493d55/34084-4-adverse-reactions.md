@@ -219,10 +219,11 @@ The relationship of these events to pioglitazone therapy is unknown.
 
 Alogliptin
 
-The following adverse reactions have been identified during the postmarketing use of alogliptin outside the United States.
+The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure and acute pancreatitis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and acute pancreatitis.
+[see Warnings and Precautions (5.2, 5.3, 5.4, 5.11)].
 
 Pioglitazone
 

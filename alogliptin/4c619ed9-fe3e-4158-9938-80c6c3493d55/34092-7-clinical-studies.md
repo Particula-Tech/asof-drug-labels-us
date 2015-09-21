@@ -26,7 +26,7 @@ The mean increase in body weight was similar between pioglitazone alone and alog
 | Change from Baseline (adjusted meanLeast squares means adjusted for treatment, geographic region and baseline value) | -1 | -1.2 | -1.7 |
 | Difference from alogliptin 25 mg (adjusted mean with 95% confidence interval) |  |  | -0.8p<0.01 compared to alogliptin 25 mg or pioglitazone 30 mg (-1, -0.5) |
 | Difference from pioglitazone 30 mg (adjusted mean with 95% confidence interval) |  |  | -0.6 (-0.8, -0.3) |
-| % of Patients (n/N) achieving A1C ≤7% | 24% (40/164) | 34% (55/163) | 63% (103/164) |
+| % of Patients (n/N) achieving A1C ≤ 7% | 24% (40/164) | 34% (55/163) | 63% (103/164) |
 | FPG (mg/dL) | N=162 | N=157 | N=162 |
 | Baseline (mean) | 189 | 189 | 185 |
 | Change from Baseline (adjusted mean) | -26 | -37 | -50 |
@@ -81,7 +81,7 @@ Lipid effects were neutral.
 | A1C (%) | N=397 | N=394 |
 | Baseline (mean) | 8.2 | 8.1 |
 | Change from Baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose) | -0.7 | -0.3 |
-| Difference from Pioglitazone 45 mg + Metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin plus pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | — |
+| Difference from Pioglitazone 45 mg + Metformin (adjusted mean with 95% confidence interval) | -0.4Noninferior and statistically superior to metformin plus pioglitazone at the 0.025 one-sided significance level (-0.5, -0.3) | - |
 | % of Patients (n/N) achieving A1C ≤7% | 33% (134/404)p<0.001 compared to pioglitazone 45 mg + metformin | 21% (85/399) |
 | FPG (mg/dL) | N=399 | N=396 |
 | Baseline (mean) | 162 | 162 |

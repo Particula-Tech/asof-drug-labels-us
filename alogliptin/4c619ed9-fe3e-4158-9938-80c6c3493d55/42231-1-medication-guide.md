@@ -11,27 +11,26 @@ What is the most important information I should know about OSENI?
 
 OSENI can cause serious side effects, including:
 
-1. 1.New or worse heart failure: Pioglitazone, one of the medicines in OSENI, can cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
-   Extra body fluid can make some heart problems worse or lead to heart failure.
-   Heart failure means your heart does not pump blood well enough.
-
-- •Do not take OSENI if you have severe heart failure.
-- •If you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, OSENI may not be right for you.
+- 1.New or worse heart failure: Pioglitazone, one of the medicines in OSENI, can cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
+  Extra body fluid can make some heart problems worse or lead to heart failure.
+  Heart failure means your heart does not pump blood well enough.
+  1. •Do not take OSENI if you have severe heart failure.
+  2. •If you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, OSENI may not be right for you.
 - Call your doctor right away if you have any of the following:
-- •swelling or fluid retention, especially in the ankles or legs
-- •shortness of breath or trouble breathing, especially when you lie down
-- •an unusually fast increase in weight
-- •unusual tiredness
+  1. •swelling or fluid retention, especially in the ankles or legs
+  2. •shortness of breath or trouble breathing, especially when you lie down
+  3. •an unusually fast increase in weight
+  4. •unusual tiredness
+- 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis, which may be severe.
+- Certain medical conditions make you more likely to get pancreatitis.
 
-1. 2.Inflammation of the pancreas (pancreatitis): Alogliptin, one of the medicines in OSENI, may cause pancreatitis, which may be severe.
-2. Certain medical conditions make you more likely to get pancreatitis.
-3. Before you start taking OSENI:
-4. Tell your doctor if you have ever had:
-5. •pancreatitis
-6. •stones in your gallbladder (gallstones)
-7. •a history of alcoholism
-8. •kidney problems
-9. •liver problems
+Before you start taking OSENI:
+
+Tell your doctor if you have ever had:
+
+| •pancreatitis | •stones in your gallbladder (gallstones) | •a history of alcoholism |
+| --- | --- | --- |
+| •kidney problems | •liver problems |  |
 
 Stop taking OSENI and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
@@ -56,10 +55,10 @@ Do not take OSENI if you:
 - •are allergic to alogliptin (NESINA), pioglitazone (ACTOS) or any ingredient in OSENI or have had a serious allergic (hypersensitivity) reaction to alogliptin or pioglitazone.
   See the end of this Medication Guide for a complete list of the ingredients in OSENI.
 - Symptoms of a serious allergic reaction to OSENI may include:
-- •swelling of your face, lips, throat and other areas on your skin
-- •difficulty with swallowing or breathing
-- •raised, red areas on your skin (hives)
-- •skin rash, itching, flaking or peeling
+
+| oswelling of your face, lips, throat and other areas on your skin | odifficulty with swallowing or breathing |
+| --- | --- |
+| oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
 
 If you have these symptoms, stop taking OSENI and contact your doctor or go to the nearest hospital emergency room right away.
 
@@ -85,7 +84,7 @@ Before you start taking OSENI, tell your doctor if you:
   You should not take OSENI if you breastfeed your baby.
   Talk with your doctor about the best way to feed your baby if you are taking OSENI.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist before you start a new medicine.
@@ -118,52 +117,53 @@ OSENI can cause serious side effects, including:
 
 - •See “What is the most important information I should know about OSENI?”
 - •Allergic (hypersensitivity) reactions, such as:
-  - oswelling of your face, lips, throat and other areas on your skin
-  - odifficulty with swallowing or breathing
-  - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking or peeling
+
+| oswelling of your face, lips, throat and other areas on your skin | odifficulty swallowing or breathing |
+| --- | --- |
+| oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
 
 If you have these symptoms, stop taking OSENI and contact your doctor right away.
 
 - •Liver problems.
   Call your doctor right away if you have unexplained symptoms such as:
-  - onausea or vomiting
-  - ostomach pain
-  - ounusual or unexplained tiredness
-  - oloss of appetite
-  - odark urine
-  - oyellowing of your skin or the whites of your eyes
-- •Broken bones (fractures).
-  Usually in the hand, upper arm or foot in women.
-  Talk to your doctor for advice on how to keep your bones healthy.
-- •Bladder cancer.
-  There may be an increased chance of having bladder cancer when you take OSENI.
-  You should not take OSENI if you are receiving treatment for bladder cancer.
-  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
-  - oblood or a red color in your urine
-  - oan increased need to urinate
-  - opain while you urinate
-- •Low blood sugar (hypoglycemia).
-  If you take OSENI with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
-  The dose of your sulfonylurea medicine or insulin may need to be lowered while you take OSENI.
-  If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
-  Signs and symptoms of low blood sugar may include:
 
-| shaking or feeling jitterysweatingfast heartbeatchange in visionhunger | headachechange in moodconfusiondizziness |
-| --- | --- |
+| onausea or vomiting | ostomach pain | ounusual or unexplained tiredness |
+| --- | --- | --- |
+| oloss of appetite | odark urine | oyellowing of your skin or the whites of your eyes |
+
+• Broken bones (fractures).
+Usually in the hand, upper arm or foot in women.
+Talk to your doctor for advice on how to keep your bones healthy.
+
+• Bladder cancer.
+There may be an increased chance of having bladder cancer when you take OSENI.
+You should not take OSENI if you are receiving treatment for bladder cancer.
+Tell your doctor right away if you have any of the following symptoms of bladder cancer:
+
+| oblood or a red color in your urine | oan increased need to urinate | opain while you urinate |
+| --- | --- | --- |
+
+• Low blood sugar (hypoglycemia).
+If you take OSENI with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
+The dose of your sulfonylurea medicine or insulin may need to be lowered while you take OSENI.
+If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, then call your doctor.
+Signs and symptoms of low blood sugar may include:
+
+| oshaking or feeling jittery | osweating | ohunger | oheadache | ochange in mood |
+| --- | --- | --- | --- | --- |
+| ofast heartbeat | ochange in vision | oconfusion | odizziness |  |
 
 - •Diabetic eye disease with swelling in the back of the eye (macular edema).
   Tell your doctor right away if you have any changes in your vision.
   Your doctor should check your eyes regularly.
-- •Release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
-  Ovulation may happen when premenopausal women who do not have regular monthly periods take OSENI.
-  This can increase your chance of getting pregnant.
+  - •Release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
+    Ovulation may happen when premenopausal women who do not have regular monthly periods take OSENI.
+    This can increase your chance of getting pregnant.
+  - •Joint pain.
+    Some people who take medicines called DPP-4 inhibitors, one of the medicines in OSENI, may develop joint pain that can be severe.
+    Call your doctor if you have severe joint pain.
 
-The most common side effects of OSENI include:
-
-- •stuffy or runny nose and sore throat
-- •back pain
-- •cold-like symptoms (upper respiratory tract infection)
+The most common side effects of OSENI include stuffy or runny nose and sore throat, back pain, cold-like symptoms (upper respiratory tract infection).
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -199,18 +199,13 @@ Active ingredients: alogliptin and pioglitazone.
 
 Inactive ingredients: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, and lactose monohydrate; the tablets are film-coated with hypromellose, polyethylene glycol, titanium dioxide, talc and ferric oxide (yellow and/or red) and are marked with red A1 or gray F1 printing ink.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Distributed by:
-
-Takeda Pharmaceuticals America, Inc.
-
-Deerfield, IL 60015
-
-Revised: June 2013
+Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
-©2013 Takeda Pharmaceuticals America, Inc.
+©2013 – 2015 Takeda Pharmaceuticals America, Inc.
 
-ALP008 R3
+ALP008 R4
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+8/2015
