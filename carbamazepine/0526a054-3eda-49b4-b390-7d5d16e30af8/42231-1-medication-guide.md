@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), and Carbamazepine Extended-Release Tablets USP
+Carbamazepine (kar" ba maz' e peen) Tablets USP, Carbamazepine (kar" ba maz' e peen) Oral Suspension USP, Carbamazepine (kar" ba maz' e peen) Tablets USP (Chewable), and Carbamazepine (kar" ba maz' e peen) Extended-Release Tablets USP
 
 Read this Medication Guide before you start taking Carbamazepine Tablets USP, Carbamazepine Oral Suspension USP, Carbamazepine Tablets USP (Chewable), or Carbamazepine Extended-Release Tablets USP and each time you get a refill.
 There may be new information.
@@ -232,4 +232,4 @@ Inactive ingredients:
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Made in Israel
 
-Revised: October, 2014 70725-1014-8
+Revised: September 2015 70725-0915-9

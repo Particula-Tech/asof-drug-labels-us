@@ -8,4 +8,4 @@ Manufactured by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
 
 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Revised: October, 2014 70725-1014-8
+Revised: September 2015 70725-0915-9
