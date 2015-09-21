@@ -41,4 +41,4 @@ Skin: sweating.
 
 Epinephrine containing sodium bisulfite has been associated with corneal endothelial damage when used in the eye at undiluted concentrations (1 mg/mL).
 
-To report SUSPECTED ADVERSE REACTIONS, contact JHP Pharmaceuticals at 1-800-866-923-2547 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 (1-800-332-1088) or www.fda.gov/medwatch.

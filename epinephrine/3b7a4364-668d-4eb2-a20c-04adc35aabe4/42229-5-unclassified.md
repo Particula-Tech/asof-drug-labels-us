@@ -1,6 +1,10 @@
-Manufactured and Distributed by: JHP Pharmaceuticals, LLC Rochester, MI 48307
+Manufactured by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
 
-Adrenalin® is a registered trademark of JHP Pharmaceuticals LLC (Parsippany, NJ).
-US Patent No 53,934
+Adrenalin® is a registered trademark of Par Sterile Products, LLC (Spring Valley, NY).
+Registered Trademark No 53,934
 
-3003302A
+I02/15
+
+OS159J-01-90-01
+
+3003302B
