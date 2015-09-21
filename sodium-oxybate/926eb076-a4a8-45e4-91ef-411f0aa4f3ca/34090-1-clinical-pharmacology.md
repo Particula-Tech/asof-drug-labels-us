@@ -40,7 +40,7 @@ On average, less than 5% of unchanged drug appears in human urine within 6 to 8 
 Fecal excretion is negligible.
 Sodium oxybate has an elimination half-life of 0.5 to 1 hour.
 
-### Specific Population
+### Specific Populations
 
 Geriatric
 
