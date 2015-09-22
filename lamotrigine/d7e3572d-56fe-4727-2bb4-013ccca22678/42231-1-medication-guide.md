@@ -8,8 +8,8 @@ LAMICTAL ODT® (lamotrigine) orally disintegrating tablets
 
 What is the most important information I should know about LAMICTAL?
 
-1.
-LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+- 1.
+  LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with LAMICTAL, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -31,12 +31,11 @@ Call your healthcare provider right away if you have any of the following:
 These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL.
 
-2.
-Other serious reactions, including serious blood problems or liver problems.
-LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-You may or may not have a rash with these types of reactions.
-Call your healthcare provider right away if you have any of these symptoms:
-
+- 2.
+  Other serious reactions, including serious blood problems or liver problems.
+  LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+  You may or may not have a rash with these types of reactions.
+  Call your healthcare provider right away if you have any of these symptoms:
 - •fever
 - •frequent infections
 - •severe muscle pain
@@ -45,9 +44,8 @@ Call your healthcare provider right away if you have any of these symptoms:
 - •unusual bruising or bleeding
 - •weakness, fatigue
 - •yellowing of your skin or the white part of your eyes
-
-3.
-Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- 3.
+  Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -75,9 +73,8 @@ How can I watch for early symptoms of suicidal thoughts and actions in myself or
 - •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-
-4.
-LAMICTAL may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+- 4.
+  LAMICTAL may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -100,8 +97,8 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
-5.
-People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
+- 5.
+  People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL:
@@ -243,7 +240,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store LAMICTAL?
 
-- •Store LAMICTAL at room temperature between 68oF and 77oF (20oC and 25oC).
+- •Store LAMICTAL at room temperature between 68°F and 77°F (20°C and 25°C).
 - •Keep LAMICTAL and all medicines out of the reach of children.
 
 General information about the safe and effective use of LAMICTAL.

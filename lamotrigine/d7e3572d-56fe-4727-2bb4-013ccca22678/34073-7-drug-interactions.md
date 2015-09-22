@@ -9,16 +9,16 @@ Established and Other Potentially Significant Drug Interactions
 | Concomitant Drug | Effect on Concentration of Lamotrigine or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
 | Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel | ↓ lamotrigine | Decreased lamotrigine concentrations approximately 50%. |
-|  | ↓ levonorgestrel | Decrease in levonorgestrel component by 19%. |
+| ↓ levonorgestrel | Decrease in levonorgestrel component by 19%. |  |
 | Carbamazepine and carbamazepine epoxide | ↓ lamotrigine | Addition of carbamazepine decreases lamotrigine concentration approximately 40%. |
-|  | ? carbamazepine epoxide | May increase carbamazepine epoxide levels |
+| ? carbamazepine epoxide | May increase carbamazepine epoxide levels. |  |
 | Lopinavir/ritonavir | ↓ lamotrigine | Decreased lamotrigine concentration approximately 50%. |
 | Atazanavir/ritonavir | ↓ lamotrigine | Decreased lamotrigine AUC approximately 32%. |
 | Phenobarbital/primidone | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Phenytoin | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Rifampin | ↓ lamotrigine | Decreased lamotrigine AUC approximately 40%. |
 | Valproate | ↑ lamotrigine | Increased lamotrigine concentrations slightly more than 2-fold. |
-|  | ? valproate | There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |
+| ? valproate | There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |  |
 
 ↓= Decreased (induces lamotrigine glucuronidation).
 

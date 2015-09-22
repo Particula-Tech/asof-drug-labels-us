@@ -69,11 +69,10 @@ Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with E
 | Single-dose LAMICTAL | 24 | 2.3(0.5-5.0) | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose LAMICTAL | 17 | 2.0(0.75-5.93) | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for T max. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
-The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies.
-
-b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
-Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
+- a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for T max. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
+  The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies.
+- b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+  Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Absorption
 
@@ -154,25 +153,16 @@ Summary of Drug Interactions with Lamotrigine
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
-a From adjunctive clinical trials and volunteer trials.
-
-b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials.
-
-c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
-
-d Modest decrease in levonorgestrel.
-
-e Slight decrease, not expected to be clinically meaningful.
-
-f Compared with historical controls.
-
-g Not administered, but an active metabolite of carbamazepine.
-
-h Not administered, but an active metabolite of oxcarbazepine.
-
-i Not administered, but an active metabolite of risperidone.
-
-j Slight increase, not expected to be clinically meaningful.
+- a From adjunctive clinical trials and volunteer trials.
+- b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials.
+- c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
+- d Modest decrease in levonorgestrel.
+- e Slight decrease, not expected to be clinically meaningful.
+- f Compared with historical controls.
+- g Not administered, but an active metabolite of carbamazepine.
+- h Not administered, but an active metabolite of oxcarbazepine.
+- i Not administered, but an active metabolite of risperidone.
+- j Slight increase, not expected to be clinically meaningful.
 
 ↔ = No significant effect.
 
@@ -304,7 +294,7 @@ Valproate
 When lamotrigine was administered to healthy volunteers (n = 18) receiving valproate, the trough steady-state valproate plasma concentrations decreased by an average of 25% over a 3-week period, and then stabilized.
 However, adding lamotrigine to the existing therapy did not cause a change in valproate plasma concentrations in either adult or pediatric patients in controlled clinical trials.
 
-The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2-fold.
+The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2‑fold.
 In 1 trial, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 and 500 mg/day and did not increase as the valproate dose was further increased.
 
 Zonisamide
@@ -365,12 +355,10 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |
 | Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
 
-a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
-Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
-
-b Two subjects were included in the calculation for mean T max.
-
-c Parameter not estimated.
+- a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+  Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
+- b Two subjects were included in the calculation for mean T max.
+- c Parameter not estimated.
 
 Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
