@@ -52,9 +52,13 @@ All-cause death was assessed using a sequential testing strategy that allowed te
 ELIQUIS treatment resulted in a significantly lower rate of all-cause death (p = 0.046) than did treatment with warfarin, primarily because of a reduction in cardiovascular death, particularly stroke deaths.
 Non-vascular death rates were similar in the treatment arms.
 
-In ARISTOTLE, the results for the primary efficacy endpoint were generally consistent across most major subgroups including weight, CHADS2 score (a scale from 0 to 6 used to predict risk of stroke in patients with AF, with higher scores predicting greater risk), prior warfarin use, level of renal impairment, geographic region, ELIQUIS dose, type of AF, and aspirin use at randomization (Figure 5).
+In ARISTOTLE, the results for the primary efficacy endpoint were generally consistent across most major subgroups including weight, CHADS2 score (a scale from 0 to 6 used to predict risk of stroke in patients with AF, with higher scores predicting greater risk), prior warfarin use, level of renal impairment, geographic region, and aspirin use at randomization (Figure 5).
 
 Figure 5: Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
+
+Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were pre-specified, if not the groupings.
+The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 At the end of the ARISTOTLE study, warfarin patients who completed the study were generally maintained on a VKA with no interruption of anticoagulation.
 ELIQUIS patients who completed the study were generally switched to a VKA with a 2-day period of coadministration of ELIQUIS and VKA, so that some patients may not have been adequately anticoagulated after stopping ELIQUIS until attaining a stable and therapeutic INR.

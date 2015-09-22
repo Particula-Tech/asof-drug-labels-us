@@ -81,9 +81,6 @@ The effects of coadministered drugs on the pharmacokinetics of apixaban and asso
 
 Figure 2: Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban
 
-* Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations.
-Dosing recommendations were also informed by clinical considerations [see Warnings and Precautions (5.2) and Drug Interactions (7)].
-
 In dedicated studies conducted in healthy subjects, famotidine, atenolol, prasugrel, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban.
 
 In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, prasugrel, or acetylsalicylic acid.

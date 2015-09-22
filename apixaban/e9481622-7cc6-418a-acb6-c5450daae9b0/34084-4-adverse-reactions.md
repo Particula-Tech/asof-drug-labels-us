@@ -21,27 +21,30 @@ The most common reason for treatment discontinuation in both studies was for ble
 
 #### Bleeding in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE and AVERROES
 
-Tables 1 and 2 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per year) in ARISTOTLE and AVERROES.
+Tables 1 and 2 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per 100 patient-years) in ARISTOTLE and AVERROES.
 
-Major bleeding was defined as clinically overt bleeding that was accompanied by one or more of the following: a decrease in hemoglobin of 2 g/dL or more; a transfusion of 2 or more units of packed red blood cells; bleeding that occurred in at least one of the following critical sites: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal; or bleeding that was fatal.
-Intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.
+Table 1: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE*
 
-Table 1: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE
-
-|  | ELIQUIS N=9088 n (%/year) | Warfarin N=9052 n (%/year) | Hazard Ratio (95% CI*) | P-value |
+|  | ELIQUIS N=9088 n (per 100 pt-year) | Warfarin N=9052 n (per 100 pt-year) | Hazard Ratio (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
 | Major† | 327 (2.13) | 462 (3.09) | 0.69 (0.60, 0.80) | <0.0001 |
-| Gastrointestinal (GI)‡ | 128 (0.83) | 141 (0.93) | 0.89 (0.70, 1.14) | - |
-| Intracranial | 52 (0.33) | 125 (0.82) | 0.41 (0.30, 0.57) | - |
-| Intraocular§ | 32 (0.21) | 22 (0.14) | 1.42 (0.83, 2.45) | - |
-| Fatal¶ | 10 (0.06) | 37 (0.24) | 0.27 (0.13, 0.53) | - |
-| CRNM** | 318 (2.08) | 444 (3.00) | 0.70 (0.60, 0.80) | <0.0001 |
-| * Confidence interval. † International Society on Thrombosis and Hemostasis (ISTH) major bleed assessed by sequential testing strategy for superiority designed to control the overall type I error in the trial. ‡ GI bleed includes upper GI, lower GI, and rectal bleeding. § Intraocular bleed is within the corpus of the eye (a conjunctival bleed is not an intraocular bleed). ¶ Fatal bleed is an adjudicated death because of bleeding during the treatment period and includes both fatal extracranial bleeds and fatal hemorrhagic stroke. ** CRNM = clinically relevant nonmajor bleeding. Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |  |
+| Intracranial (ICH)‡ | 52 (0.33) | 125 (0.82) | 0.41 (0.30, 0.57) | - |
+| Hemorrhagic stroke§ | 38 (0.24) | 74 (0.49) | 0.51 (0.34, 0.75) | - |
+| Other ICH | 15 (0.10) | 51 (0.34) | 0.29 (0.16, 0.51) | - |
+| Gastrointestinal (GI)¶ | 128 (0.83) | 141 (0.93) | 0.89 (0.70, 1.14) | - |
+| Fatal** | 10 (0.06) | 37 (0.24) | 0.27 (0.13, 0.53) | - |
+| Intracranial | 4 (0.03) | 30 (0.20) | 0.13 (0.05, 0.37) | - |
+| Non-intracranial | 6 (0.04) | 7 (0.05) | 0.84 (0.28, 2.15) | - |
+| * Bleeding events within each subcategory were counted once per subject, but subjects may have contributed events to multiple endpoints. Bleeding events were counted during treatment or within 2 days of stopping study treatment (on-treatment period). † Defined as clinically overt bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal or with fatal outcome. ‡ Intracranial bleed includes intracerebral, intraventricular, subdural, and subarachnoid bleeding. Any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed. § On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14. ¶ GI bleed includes upper GI, lower GI, and rectal bleeding. ** Fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period. |  |  |  |  |
 
-In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2 score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, ELIQUIS dose, type of atrial fibrillation (AF), and aspirin use at randomization (Figure 1).
+In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2 score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, and aspirin use at randomization (Figure 1).
 Subjects treated with apixaban with diabetes bled more (3.0% per year) than did subjects without diabetes (1.9% per year).
 
 Figure 1: Major Bleeding Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
+
+Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were pre-specified, if not the groupings.
+The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 Table 2: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in AVERROES
 
