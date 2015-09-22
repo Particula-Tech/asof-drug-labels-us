@@ -17,15 +17,26 @@ However, there is usually a delay in the onset of absorption of 1 to 4.5 hours a
 Table 1.
 Pharmacokinetic Parameters for Diclofenac
 
-|  | Mean | Coefficient of Variation (%) |
+|  | Normal Healthy Adults |  |
 | --- | --- | --- |
-| PK Parameter | Normal Healthy Adults (18-48 yrs.) |  |
-| Absolute Bioavailability (%) [N = 7] | 55 | 40 |
-| Tmax (hr) [N = 12] | 5.3 | 28 |
-| Oral Clearance (CL/F; mL/min) [N = 12] | 895 | 56 |
-| Renal Clearance (% unchanged drug in urine) [N = 7] | <1 | -- |
-| Apparent Volume of Distribution (V/F; L/kg) [N = 56] | 1.4 | 58 |
-| Terminal Half-life (hr) [N = 56] | 2.3 | 48 |
+| PK Parameter | (20 to 48 yrs.) |  |
+|  |  | Coefficient of |
+|  | Mean | Variation (%) |
+| Absolute |  |  |
+| Bioavailability (%) |  |  |
+| [N = 7] | 55 | 40 |
+| Tmax (hr) |  |  |
+| [N = 56] | 2.3 | 69 |
+| Oral Clearance (CL/F; mL/min) |  |  |
+| [N = 56] | 582 | 23 |
+| Renal Clearance |  |  |
+| (% unchanged drug in urine) | <1 | -- |
+| [N = 7] |  |  |
+| Apparent Volume of |  |  |
+| Distribution (V/F; L/kg) |  |  |
+| [N = 56] | 1.4 | 58 |
+| Terminal Half-life (hr) |  |  |
+| [N = 56] | 2.3 | 48 |
 
 ### Distribution
 
@@ -63,9 +74,9 @@ When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme
 
 ## Special Populations
 
-Pediatric: The pharmacokinetic of diclofenac sodium delayed-release has not been investigated in pediatric patients.
+Pediatric: The pharmacokinetics of diclofenac sodium delayed-release has not been investigated in pediatric patients.
 
-Race: Pharmacokinetics differences due to race have not been identified.
+Race: Pharmacokinetic differences due to race have not been identified.
 
 Hepatic Insufficiency: Hepatic metabolism accounts for almost 100% of diclofenac sodium delayed-release elimination, so patients with hepatic disease may require reduced doses of diclofenac sodium delayed-release compared to patients with normal hepatic function.
 

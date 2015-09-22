@@ -1,10 +1,8 @@
-# Cardiovascular Risk
+Cardiovascular Thrombotic Events
 
-- NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-  This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
-  (See WARNINGS).
-- Diclofenac sodium delayed-release tablets are contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use (see WARNINGS and PRECAUTIONS).
+- Diclofenac sodium delayed-release tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see CONTRAINDICATIONS and WARNINGS).
 
 Gastrointestinal Risk
 

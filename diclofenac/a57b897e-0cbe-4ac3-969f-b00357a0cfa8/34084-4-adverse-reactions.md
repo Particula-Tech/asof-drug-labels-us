@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In patients taking diclofenac sodium delayed-release tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
+In patients taking diclofenac sodium delayed-release tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
 Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
 
@@ -47,3 +47,5 @@ Respiratory System: respiratory depression, pneumonia
 Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
 
 Special Senses: conjunctivitis, hearing impairment
+
+To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-432-8534 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
