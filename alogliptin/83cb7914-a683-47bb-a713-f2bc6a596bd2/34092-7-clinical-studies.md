@@ -62,7 +62,7 @@ Lipid effects were also neutral.
 | A1C (%) | N=203 | N=103 |
 | Baseline (mean) | 7.9 | 8.0 |
 | Change from baseline (adjusted meanLeast squares means adjusted for treatment, baseline value, geographic region and baseline metformin dose.) | -0.6 | -0.1 |
-| Difference from placebo (adjusted meanwith 95% confidence interval) | -0.5p<0.001 compared to placebo. (-0.7, -0.3) | - |
+| Difference from placebo (adjusted mean with 95% confidence interval) | -0.5p<0.001 compared to placebo.(-0.7, -0.3) | - |
 | % of patients (n/N) achieving A1C ≤7% | 44% (92/207) | 18% (19/104) |
 | FPG (mg/dL) | N=204 | N=104 |
 | Baseline (mean) | 172 | 180 |

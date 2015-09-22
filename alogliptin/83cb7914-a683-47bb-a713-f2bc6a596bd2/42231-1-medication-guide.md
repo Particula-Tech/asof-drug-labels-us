@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 KAZANO (Kah-ZAHN-oh)
 
@@ -22,14 +22,11 @@ Lactic acidosis is a medical emergency and must be treated in the hospital.
 
 Stop taking KAZANO and call your doctor right away if you get any of the following symptoms of lactic acidosis:
 
-- •feel very weak or tired
-- •have unusual (not normal) muscle pain
-- •have trouble breathing
-- •have unusual sleepiness or sleep longer than usual
-- •have unexplained stomach or intestinal problems with nausea and vomiting, or diarrhea
-- •feel cold, especially in your arms and legs
-- •feel dizzy or lightheaded
-- •have a slow or irregular heartbeat
+| •feel very weak or tired | •have unusual (not normal) muscle pain |
+| --- | --- |
+| •have trouble breathing | •have unusual sleepiness or sleep longer than usual |
+| •have unexplained stomach or intestinal problems with nausea and vomiting, or diarrhea | •feel cold, especially in your arms and legs |
+| •feel dizzy or lightheaded | •have a slow or irregular heartbeat |
 
 You have a higher chance for getting lactic acidosis with KAZANO if you:
 
@@ -48,18 +45,15 @@ You have a higher chance for getting lactic acidosis with KAZANO if you:
 2.
 Inflammation of the pancreas (pancreatitis).
 Alogliptin, one of the medicines in KAZANO, may cause pancreatitis, which may be severe.
-
 Certain medical conditions make you more likely to get pancreatitis.
 
 Before you start taking KAZANO:
 
 Tell your doctor if you have ever had:
 
-- •pancreatitis
-- •stones in your gallbladder (gallstones)
-- •a history of alcoholism
-- •kidney problems
-- •liver problems
+| •pancreatitis | •stones in your gallbladder (gallstones) | •a history of alcoholism |
+| --- | --- | --- |
+| •kidney problems | •liver problems |  |
 
 Stop taking KAZANO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
@@ -86,12 +80,11 @@ Do not take KAZANO if you:
 - •are allergic to alogliptin (NESINA) or metformin or any of the ingredients in KAZANO or have had a serious allergic (hypersensitivity) reaction to alogliptin or metformin.
   See the end of this Medication Guide for a complete list of the ingredients in KAZANO
 - Symptoms of a serious allergic reaction to KAZANO may include:
-- 
-  - 
-    - oswelling of your face, lips, throat and other areas on your skin
-    - odifficulty with swallowing or breathing
-    - oraised, red areas on your skin (hives)
-    - oskin rash, itching, flaking or peeling
+
+| oswelling of your face, lips, throat and other areas on your skin | odifficulty with swallowing or breathing |
+| --- | --- |
+| oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
+
 - If you have any of these symptoms, stop taking KAZANO and contact your doctor right away or go to the nearest hospital emergency room.
 
 What should I tell my doctor before and during treatment with KAZANO?
@@ -111,7 +104,7 @@ Before you take KAZANO, tell your doctor if you:
   It is not known whether KAZANO passes into your breast milk.
   Talk with your doctor about the best way to feed your baby if you are taking KAZANO
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist before you start any new medicine.
 
@@ -141,43 +134,43 @@ What are the possible side effects of KAZANO?
 
 KAZANO can cause serious side effects, including:
 
-- •See “What is the most important information I should know about KAZANO?”
+See “What is the most important information I should know about KAZANO?”
+
 - •Allergic (hypersensitivity) reactions, such as:
-  - oswelling of your face, lips, throat and other areas on your skin
-  - odifficulty swallowing or breathing
-  - oraised, red areas on your skin (hives)
-  - oskin rash, itching, flaking or peeling
+
+| oswelling of your face, lips, throat and other areas on your skin | odifficulty swallowing or breathing |
+| --- | --- |
+| oraised, red areas on your skin (hives) | oskin rash, itching, flaking or peeling |
+
 - If you have these symptoms, stop taking KAZANO and contact your doctor right away.
+
 - •Liver problems.
   Call your doctor right away if you have symptoms, such as:
-  - onausea or vomiting
-  - ostomach pain
-  - ounusual or unexplained tiredness
-  - oloss of appetite
-  - odark urine
-  - oyellowing of your skin or the whites of your eyes
+
+| onausea or vomiting | ostomach pain | ounusual or unexplained tiredness |
+| --- | --- | --- |
+| oloss of appetite | odark urine | oyellowing of your skin or the whites of your eyes |
+
 - •Low blood sugar (hypoglycemia).
   If you take KAZANO with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take KAZANO.
   If you have symptoms of low blood sugar, you should check your blood sugar and treat if low, and then call your doctor.
   Signs and symptoms of low blood sugar may include:
 
-| •shaking or feeling jittery | •headache |
-| --- | --- |
-| •sweating | •change in mood |
-| •fast heartbeat | •confusion |
-| •change in vision | •dizziness |
-| •hunger |  |
+| oshaking or feeling jittery | osweating | ohunger | oheadache | ochange in mood |
+| --- | --- | --- | --- | --- |
+| ofast heartbeat | ochange in vision | oconfusion | odizziness |  |
+
+- •Joint pain.
+  Some people who take medicines called DPP-4 inhibitors, one of the medicines in KAZANO, may develop joint pain that can be severe.
+  Call your doctor if you have severe joint pain.
 
 The most common side effects of KAZANO include:
 
-- •cold-like symptoms (upper respiratory tract infection)
-- •stuffy or runny nose and sore throat
-- •diarrhea
-- •increase in blood pressure
-- •headache
-- •back pain
-- •urinary tract infection
+| ocold-like symptoms (upper respiratory tract infection) | ostuffy or runny nose and sore throat | odiarrhea |
+| --- | --- | --- |
+| oincrease in blood pressure | oheadache | oback pain |
+| ourinary tract infection |  |  |
 
 Taking KAZANO with food can help lessen the common stomach side effects of metformin that usually happen at the beginning of treatment.
 If you have unexplained stomach problems, tell your doctor.
@@ -217,18 +210,13 @@ Active ingredients: alogliptin and metformin hydrochloride
 
 Inactive ingredients: mannitol, microcrystalline cellulose, povidone, crospovidone and magnesium stearate; the tablets are film-coated with hypromellose 2910, talc, titanium dioxide and ferric oxide yellow.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Distributed by:
-
-Takeda Pharmaceuticals America, Inc.
-
-Deerfield, IL 60015
-
-Revised: June 2013
+Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
-©2013 Takeda Pharmaceuticals America, Inc.
+©2013 - 2015 Takeda Pharmaceuticals America, Inc.
 
-ALM143P R3
+ALM143P R4
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+8/2015

@@ -218,7 +218,7 @@ Pharmacokinetic drug interaction studies have been performed on metformin (Table
 | Table 4. Effect of Coadministered Drug on Plasma Metformin Systemic Exposure |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| AUCAUC = AUC (0∞) | Cmax |  |  |  |
+| AUCAUC = AUC0-∞ | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
 | Glyburide | 5 mg | 500 mgMetformin hydrochloride extended-release tablets 500 mg | 0.98Ratio of arithmetic means | 0.99 |
 | Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
@@ -233,7 +233,7 @@ Pharmacokinetic drug interaction studies have been performed on metformin (Table
 | Table 5. Effect of Metformin on Coadministered Drug Systemic Exposure |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
-| AUCAUC = AUC (0∞) | Cmax |  |  |  |
+| AUCAUC = AUC0-∞ | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
 | Glyburide | 5 mg | 500 mgAUC0-24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |

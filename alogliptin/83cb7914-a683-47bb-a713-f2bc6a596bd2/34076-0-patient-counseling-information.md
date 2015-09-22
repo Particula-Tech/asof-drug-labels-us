@@ -20,6 +20,9 @@ See FDA-Approved Patient Labeling (Medication Guide).
 - •Patients should be counseled against excessive alcohol intake, either acute or chronic, while receiving KAZANO.
 - •Inform patients that hypoglycemia can occur, particularly when an insulin secretagogue or insulin is used in combination with KAZANO.
   Explain the risks, symptoms and appropriate management of hypoglycemia.
+- •Inform patients that severe and disabling joint pain may occur with this class of drugs.
+  The time to onset of symptoms can range from one day to years.
+  Instruct patients to seek medical advice if severe joint pain occurs.
 - •Instruct patients to take KAZANO only as prescribed twice daily.
   KAZANO should be taken with food.
   If a dose is missed, advise patients not to double their next dose.
@@ -28,6 +31,6 @@ See FDA-Approved Patient Labeling (Medication Guide).
 Instruct patients to read the Medication Guide before starting KAZANO therapy and to reread each time the prescription is refilled.
 Instruct patients to inform their healthcare provider if an unusual symptom develops or if a symptom persists or worsens.
 
-Revised: June 2013
+Revised: August 2015
 
-ALM143P R3
+ALM143P R4

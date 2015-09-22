@@ -96,7 +96,7 @@ When such events occur in patients on KAZANO therapy, the drug should be promptl
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Patients, therefore, should be warned against excessive alcohol intake while receiving KAZANO.
 
-## 5.8 Vitamin B 12 Levels
+## 5.8 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of immediate-release metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
@@ -117,6 +117,14 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated or malnourished patients and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly and in people who are taking β-adrenergic blocking drugs.
 
-## 5.10 Macrovascular Outcomes
+## 5.10 Severe and Disabling Arthralgia
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
+The time to onset of symptoms following initiation of drug therapy varied from one day to years.
+Patients experienced a relief of symptoms upon discontinuation of the medication.
+A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
+Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+## 5.11 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with KAZANO or any other antidiabetic drug.
