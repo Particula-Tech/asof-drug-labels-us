@@ -23,9 +23,9 @@ Concomitant diseases of patients in this trial included hypertension 79%, diabet
 At baseline, 40% of patients were on aspirin and 6% were on clopidogrel.
 For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2 to 3) was 64%.
 
-Relative to warfarin and to PRADAXA 110 mg twice daily, PRADAXA 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 7 and Figure 2).
+Relative to warfarin and to PRADAXA 110 mg twice daily, PRADAXA 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 7 and Figure 4).
 
-Table 7 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study
+Table 7 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study*
 
 |  | PRADAXA 150 mg twice daily | PRADAXA 110 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
@@ -35,8 +35,9 @@ Table 7 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study
 | P-value for superiority | 0.0001 | 0.27 |  |
 | Hazard ratio vs. PRADAXA 110 mg (95% CI) | 0.72 (0.58, 0.91) |  |  |
 | P-value for superiority | 0.005 |  |  |
+| * Randomized ITT |  |  |  |
 
-Figure 2 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
+Figure 4 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
 
 The contributions of the components of the composite endpoint, including stroke by subtype, are shown in Table 8.
 The treatment effect was primarily a reduction in stroke.
@@ -56,9 +57,13 @@ In the RE-LY trial, the rate of all-cause mortality was lower on dabigatran 150 
 The rate of vascular death was lower on dabigatran 150 mg compared to warfarin (2.3% per year versus 2.7% per year).
 Non-vascular death rates were similar in the treatment arms.
 
-The efficacy of PRADAXA 150 mg twice daily was generally consistent across major subgroups (see Figure 3).
+The efficacy of PRADAXA 150 mg twice daily was generally consistent across major subgroups (see Figure 5).
 
-Figure 3 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics
+Figure 5 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics*
+
+* Randomized ITT Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified.
+The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 In RE-LY, a higher rate of clinical myocardial infarction was reported in patients who received PRADAXA (0.7 per 100 patient-years for 150 mg dose) than in those who received warfarin (0.6).
 

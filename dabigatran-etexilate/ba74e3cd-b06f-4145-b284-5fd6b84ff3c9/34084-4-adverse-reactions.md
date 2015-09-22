@@ -30,26 +30,33 @@ The most frequent adverse reactions leading to discontinuation of PRADAXA were b
 
 Bleeding [see Warnings and Precautions (5.2)]
 
-Table 2 shows the number of patients experiencing serious bleeding during the treatment period in the RE-LY study, with the bleeding rate per 100 patient-years (%).
-Major bleeds fulfilled one or more of the following criteria: bleeding associated with a reduction in hemoglobin of at least 2 grams per deciliter or leading to a transfusion of at least 2 units of blood, or symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding).
-A life-threatening bleed met one or more of the following criteria: fatal, symptomatic intracranial bleed, reduction in hemoglobin of at least 5 grams per deciliter, transfusion of at least 4 units of blood, associated with hypotension requiring the use of intravenous inotropic agents, or necessitating surgical intervention.
+Table 2 shows the number of adjudicated major bleeding events during the treatment period in the RE-LY study, with the bleeding rate per 100 subject-years (%).
+Major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of ≥2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome.
 Intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.
 
-Table 2 Bleeding Events* (per 100 Patient-Years)
+Table 2 Adjudicated Major Bleeding Events in Treated Patientsa
 
-|  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI**) |
+| Event | PRADAXA 150 mg N = 6059 n (%/yearb) | Warfarin N = 5998 n (%/yearb) | PRADAXA 150 mg vs. Warfarin HR (95% CI) |
 | --- | --- | --- | --- |
-| Randomized patients | 6076 | 6022 |  |
-| Patient-years | 12,033 | 11,794 |  |
-| Intracranial hemorrhage | 39 (0.3) | 91 (0.8) | 0.42 (0.29, 0.61) |
-| Life-threatening bleed | 183 (1.5) | 221 (1.9) | 0.81 (0.67, 0.99) |
-| Major bleed | 409 (3.4) | 426 (3.6) | 0.94 (0.82, 1.08) |
-| Any bleed | 1997 (16.6) | 2169 (18.4) | 0.91 (0.85, 0.96) |
-| * Patients contributed multiple events and events were counted in multiple categories. ** Confidence interval |  |  |  |
+| Major Bleedingc | 350 (3.47) | 374 (3.58) | 0.97 (0.84, 1.12) |
+| Intracranial Hemorrhage (ICH)d | 23 (0.22) | 82 (0.77) | 0.29 (0.18, 0.46) |
+| Hemorrhagic Strokee | 6 (0.06) | 40 (0.37) | 0.16 (0.07, 0.37) |
+| Other ICH | 17 (0.17) | 46 (0.43) | 0.38 (0.22, 0.67) |
+| Gastrointestinal | 162 (1.59) | 111 (1.05) | 1.51 (1.19, 1.92) |
+| Fatal Bleedingf | 7 (0.07) | 16 (0.15) | 0.45 (0.19, 1.10) |
+| ICH | 3 (0.03) | 9 (0.08) | 0.35 (0.09, 1.28) |
+| Non-intracranialg | 4 (0.04) | 7 (0.07) | 0.59 (0.17, 2.02) |
+| aPatients during treatment or within 2 days of stopping study treatment. Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.bAnnual event rate per 100 pt-years = 100 * number of subjects with event/subject-years. Subject-years is defined as cumulative number of days from first drug intake to event date, date of last drug intake + 2, death date (whatever occurred first) across all treated subjects divided by 365.25. In case of recurrent events of the same category, the first event was considered.cDefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome.dIntracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.eOn-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14 Clinical Studies.fFatal bleed: Adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding.gNon-intracranial fatal bleed: Adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator’s clinical assessment. |  |  |  |
 
-The risk of major bleeds was similar with PRADAXA 150 mg and warfarin across major subgroups defined by baseline characteristics, with the exception of age, where there was a trend towards a higher incidence of major bleeding on PRADAXA (hazard ratio 1.2, 95% CI: 1.0 to 1.4) for patients ≥75 years of age.
+There was a higher rate of any gastrointestinal bleeds in patients receiving PRADAXA 150 mg than in patients receiving warfarin (6.6% vs. 4.2%, respectively).
 
-There was a higher rate of major gastrointestinal bleeds in patients receiving PRADAXA 150 mg than in patients receiving warfarin (1.6% vs. 1.1%, respectively, with a hazard ratio vs. warfarin of 1.5, 95% CI, 1.2 to 1.9), and a higher rate of any gastrointestinal bleeds (5.7% vs. 3.9%, respectively).
+The risk of major bleeds was similar with PRADAXA 150 mg and warfarin across major subgroups defined by baseline characteristics (see Figure 1), with the exception of age, where there was a trend towards a higher incidence of major bleeding on PRADAXA (hazard ratio 1.2, 95% CI: 1.0 to 1.5) for patients ≥75 years of age.
+
+Figure 1 Adjudicated Major Bleeding by Baseline Characteristics Including Hemorrhagic Stroke Treated Patients
+
+Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified.
+The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
 Gastrointestinal Adverse Reactions
 
@@ -83,7 +90,7 @@ Table 3 Bleeding Events in RE-COVER and RE-COVER II Treated Patients
 | Major bleeding eventa |  | 37 (1.4) | 51 (2.0) | 0.73 (0.48, 1.11) |
 |  | Fatal bleeding | 1 (0.04) | 2 (0.1) |  |
 |  | Bleeding in a critical area or organ | 7 (0.3) | 15 (0.6) |  |
-|  | Fall in hemoglobin ≥2g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
+|  | Fall in hemoglobin ≥2 g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
 | Bleeding sites for MBEb |  |  |  |  |
 |  | Intracranial | 2 (0.1) | 5 (0.2) |  |
 |  | Retroperitoneal | 2 (0.1) | 1 (0.04) |  |
@@ -112,7 +119,7 @@ Table 4 Bleeding Events in RE-MEDY Treated Patients
 | Major bleeding eventa |  | 13 (0.9) | 25 (1.8) | 0.54 (0.25, 1.16) |
 |  | Fatal bleeding | 0 | 1 (0.1) |  |
 |  | Bleeding in a critical area or organ | 7 (0.5) | 11 (0.8) |  |
-|  | Fall in hemoglobin ≥2g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
+|  | Fall in hemoglobin ≥2 g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
 | Bleeding sites for MBEb |  |  |  |  |
 |  | Intracranial | 2 (0.1) | 4 (0.3) |  |
 |  | Intraocular | 4 (0.3) | 2 (0.1) |  |

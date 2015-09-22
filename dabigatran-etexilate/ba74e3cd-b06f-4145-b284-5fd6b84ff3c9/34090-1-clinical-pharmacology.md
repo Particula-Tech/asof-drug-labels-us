@@ -12,12 +12,12 @@ At recommended therapeutic doses, dabigatran etexilate prolongs the coagulation 
 INR is relatively insensitive to the exposure to dabigatran and cannot be interpreted the same way as used for warfarin monitoring.
 
 The aPTT test provides an approximation of PRADAXA’s anticoagulant effect.
-The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 1.
+The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 2.
 The curves represent mean levels without confidence intervals; variations should be expected when measuring aPTT.
 While advice cannot be provided on the level of recovery of aPTT needed in any particular clinical setting, the curves can be used to estimate the time to get to a particular level of recovery, even when the time since the last dose of PRADAXA is not precisely known.
 In the RE-LY trial, the median (10th to 90th percentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.
 
-Figure 1 Average Time Course for Effects of Dabigatran on aPTT, Following Approved PRADAXA Dosing Regimens in Patients with Various Degrees of Renal Impairment*
+Figure 2 Average Time Course for Effects of Dabigatran on aPTT, Following Approved PRADAXA Dosing Regimens in Patients with Various Degrees of Renal Impairment*
 
 *Simulations based on PK data from a study in subjects with renal impairment and PK/aPTT relationships derived from the RE-LY study; aPTT prolongation in RE-LY was measured centrally in citrate plasma using PTT Reagent Roche Diagnostics GmbH, Mannheim, Germany.
 There may be quantitative differences between various established methods for aPTT assessment.
@@ -45,7 +45,7 @@ Dabigatran etexilate is a substrate of the efflux transporter P-gp.
 After oral administration of dabigatran etexilate in healthy volunteers, Cmax occurs at 1 hour post-administration in the fasted state.
 Coadministration of PRADAXA with a high-fat meal delays the time to Cmax by approximately 2 hours but has no effect on the bioavailability of dabigatran; PRADAXA may be administered with or without food.
 
-The oral bioavailability of dabigatran etexilate increases by 75% when the pellets are taken without the capsule shell compared to the intact capsule formulation.
+The oral bioavailability of dabigatran etexilate increases by 37% after multiple doses and 75% after a single dose when the pellets are taken without the capsule shell compared to the intact capsule formulation.
 PRADAXA capsules should therefore not be broken, chewed, or opened before administration.
 
 Distribution
@@ -92,52 +92,15 @@ Administration of PRADAXA in patients with moderate hepatic impairment (Child-Pu
 
 Drug Interactions
 
-Impact of Other Drugs on Dabigatran P-gp Inducers
+A summary of the effect of coadministered drugs on dabigatran exposure is shown in Figures 3.1 and 3.2.
 
-Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively.
-By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
+Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
+The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
 
-P-gp Inhibitors
-
-In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
-Any observed changes in Cmax and AUC are described below.
-
-Dronedarone: Simultaneous administration of dabigatran etexilate and dronedarone (administered once or twice daily) increases exposure to dabigatran by 70 to 140% compared to dabigatran alone.
-The increase in exposure is only 30 to 60% higher compared to dabigatran alone when dronedarone is administered 2 hours after dabigatran etexilate.
-
-Ketoconazole: Systemic ketoconazole increased dabigatran AUC and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
-
-Verapamil: When dabigatran etexilate was coadministered with oral verapamil, the Cmax and AUC of dabigatran were increased.
-The extent of increase depends on the formulation of verapamil and timing of administration.
-If verapamil is present in the gut when dabigatran is taken, it will increase exposure to dabigatran with the greatest increase observed when a single dose of immediate-release verapamil is given one hour prior to dabigatran (AUC increased by a factor of 2.4).
-If verapamil is given 2 hours after dabigatran, the increase in AUC is negligible.
-In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received verapamil.
-Similar findings were observed in the RE-COVER study.
-
-Amiodarone: When dabigatran etexilate was coadministered with a single 600 mg oral dose of amiodarone, the dabigatran AUC and Cmax increased by 58% and 50%, respectively.
-The increase in exposure was mitigated by a 65% increase in the renal clearance of dabigatran in the presence of amiodarone.
-The increase in renal clearance may persist after amiodarone is discontinued because of amiodarone’s long half-life.
-In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received amiodarone.
-
-Quinidine: Quinidine was given as a 200 mg dose every 2 hours up to a total dose of 1000 mg.
-Dabigatran etexilate was given over 3 consecutive days, the last evening dose on Day 3 with or without quinidine pre-dosing.
-Concomitant quinidine administration increased dabigatran’s AUC and Cmax by 53% and 56%, respectively.
-
-Clarithromycin: Coadministered clarithromycin had no impact on the exposure to dabigatran.
-
-Ticagrelor: Administration of ticagrelor modestly increases plasma concentrations of dabigatran with the magnitude of increase dependent on the dose and timing of ticagrelor administration.
-When dabigatran etexilate 110 mg twice daily was coadministered with 90 mg oral ticagrelor twice daily, the AUCτ,ss and Cmax,ss of dabigatran increased by 26% and 29%, respectively.
-When coadministered with a loading dose of 180 mg ticagrelor, the AUCτ,ss and Cmax,ss of dabigatran increased by 49% and 65%, respectively; but when ticagrelor 180 mg was given 2 hours after dabigatran, the AUCτ,ss and Cmax,ss of dabigatran increased by only 27% and 24%, respectively [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
-
-Other Drugs
-
-Clopidogrel: When dabigatran etexilate was given concomitantly with a loading dose of 300 mg or 600 mg clopidogrel, the dabigatran AUC and Cmax increased by approximately 30% and 40%, respectively.
-The concomitant administration of dabigatran etexilate and clopidogrel resulted in no further prolongation of capillary bleeding times compared to clopidogrel monotherapy.
-When comparing combined treatment and the respective mono-treatments, the coagulation measures for dabigatran’s effect (aPTT, ECT, and TT) remained unchanged, and inhibition of platelet aggregation (IPA), a measurement of clopidogrel’s effect, remained unchanged.
-
-Enoxaparin: Enoxaparin 40 mg given subcutaneously for 3 days with the last dose given 24 hours before a single dose of PRADAXA had no impact on the exposure to dabigatran or the coagulation measures aPTT, ECT, or TT.
-
-Diclofenac, Ranitidine, and Digoxin: None of these drugs alters exposure to dabigatran.
+Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC).
+Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).
+The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference)
 
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.

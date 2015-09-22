@@ -49,7 +49,7 @@ Concomitant use of P-gp inhibitors in patients with renal impairment is expected
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
 
-Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
+Reduce the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
 Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7.1) and Use in Specific Populations (8.6)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism

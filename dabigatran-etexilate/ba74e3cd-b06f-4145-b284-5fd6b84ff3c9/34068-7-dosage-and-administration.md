@@ -7,7 +7,7 @@
 | Reduction in Risk of Stroke and Systemic Embolism in Non-valvular AF | CrCl >30 mL/min: | 150 mg twice daily |
 | CrCl 15 to 30 mL/min: | 75 mg twice daily |  |
 | CrCl <15 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
-| CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: | Consider reducing dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or ketoconazole. Dose adjustment is not necessary when co-administered with other P-gp inhibitors |  |
+| CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: | Reduce dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or systemic ketoconazole. |  |
 | CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
 | Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl >30 mL/min: | 150 mg twice daily |
 | CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
@@ -41,7 +41,7 @@ When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activi
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
 
 In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.
-Consider reducing the dose of PRADAXA to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Reduce the dose of PRADAXA to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
