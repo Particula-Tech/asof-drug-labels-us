@@ -1,44 +1,66 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 PREGNANCY
+## 8.1 Pregnancy
 
-Teratogenic Effects:Pregnancy Category D [see Warnings and Precautions (5.4)].
+Risk Summary
 
-Topotecan hydrochloride can cause fetal harm when administered to a pregnant woman.
-In rabbits, a dose of 0.10 mg/kg/day (about equal to the clinical dose on a mg/m2 basis) given on days 6 through 20 of gestation caused maternal toxicity, embryolethality, and reduced fetal body weight.
-In the rat, a dose of 0.23 mg/kg/day (about equal to the clinical dose on a mg/m2 basis) given for 14 days before mating through gestation day 6 caused fetal resorption, microphthalmia, pre-implant loss, and mild maternal toxicity.
-A dose of 0.10 mg/kg/day (about half the clinical dose on a mg/m2 basis) given to rats on days 6 through 17 of gestation caused an increase in post-implantation mortality.
+Based on animal data, topotecan hydrochloride can cause fetal harm when administered to a pregnant woman.
+Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis at doses similar to the clinical dose [see Data].
+There are no available human data informing the drug-associated risk.
+Advise pregnant women of the potential risk to a fetus.
+The background risk of major birth defects and miscarriage for the indicated populations are unknown; however, the background risk in the US general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
+
+Data
+
+Animal Data: In rabbits, a dose of 0.10 mg/kg/day (about equal to the clinical dose on a mg/m2 basis) given on Days 6 through 20 of gestation caused maternal toxicity, embryolethality, and reduced fetal body weight.
+In the rat, a dose of 0.23 mg/kg/day (about equal to the clinical dose on a mg/m2 basis) given for 14 days before mating through gestation Day 6 caused fetal resorption, microphthalmia, pre-implant loss, and mild maternal toxicity.
+Administration of an intravenous dose of 0.10 mg/kg/day (about half the clinical dose on a mg/m2 basis) given to rats on Days 6 through 17 of gestation caused an increase in post-implantation mortality.
 This dose also caused an increase in total fetal malformations.
 The most frequent malformations were of the eye (microphthalmia, anophthalmia, rosette formation of the retina, coloboma of the retina, ectopic orbit), brain (dilated lateral and third ventricles), skull, and vertebrae.
 
-There are no adequate and well-controlled studies of topotecan hydrochloride in pregnant women.
-If this drug is used during pregnancy, or if a patient becomes pregnant while receiving topotecan hydrochloride, the patient should be apprised of the potential hazard to the fetus, [see Warnings and Precautions (5.4)]
+## 8.2 Lactation
 
-## 8.3 NURSING MOTHERS
+Risk Summary
 
-Rats excrete high concentrations of topotecan into milk.
-Lactating female rats given 4.72 mg/m2 intravenous (about twice the clinical dose on a mg/m2 basis) excreted topotecan into milk at concentrations up to 48-fold higher than those in plasma.
-It is not known whether the drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from topotecan hydrochloride, discontinue breastfeeding when women are receiving topotecan hydrochloride.
+It is not known whether this drug is present in human milk; however, topotecan is excreted in rat milk at high concentrations [see Data].
+Because many drugs are present in human milk and because of the potential for serious adverse reactions in nursing infants with topotecan hydrochloride, advise nursing mothers to discontinue breastfeeding during treatment with topotecan hydrochloride.
 
-## 8.4 PEDIATRIC USE
+Data
+
+Animal Data: Following intravenous administration of topotecan to lactating rats at a dose of 4.72 mg/m2 (about twice the clinical dose on a mg/m2 basis), topotecan was excreted into milk at concentrations up to 48-fold higher than those in plasma.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Females: Advise female patients of reproductive potential to use effective contraception during treatment with topotecan hydrochloride and for one month after the last dose.
+Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking topotecan hydrochloride [see Use in Specific Populations (8.1)].
+
+Males: Topotecan hydrochloride may damage spermatozoa, resulting in possible genetic and fetal abnormalities.
+Advise males with a female sexual partner of reproductive potential to use effective contraception during and for three months after treatment with topotecan hydrochloride [see Nonclinical Toxicology (13.1)].
+
+Infertility
+
+Females: Topotecan hydrochloride may have both acute and long-term effects on fertility [see Nonclinical Toxicology (13.1)].
+
+Males: Effects on spermatogenesis have been observed in animals administered topotecan hydrochloride.
+Advise males of the potential risk for impaired fertility and to seek counseling on fertility and family planning options prior to starting treatment [see Nonclinical Toxicology (13.1)].
+
+## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## 8.5 GERIATRIC USE
+## 8.5 Geriatric Use
 
-Of the 879 patients, with cancer in clinical trials, of topotecan hydrochloride, 32% (n = 281) were 65 years of age and older, while 3.8% (n = 33) were 75 years of age and older.
-Of the 140 patients with Stage IV-B, relapsed, or refractory cervical cancer in clinical trials of topotecan hydrochloride who received topotecan hydrochloride plus cisplatin in the randomized clinical trial, 6% (n = 9) were 65 years of age and older, while 3% (n = 4) were 75 years of age and older.
-No overall differences in effectiveness or safety were observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in responses between the elderly and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out.
+Of the 879 patients with metastatic ovarian cancer or small cell lung cancer in clinical trials of topotecan hydrochloride, 32% (n = 281) were aged 65 years and older, while 3.8% (n = 33) were aged 75 years and older.
+Of the 140 patients with Stage IV-B, relapsed, or refractory cervical cancer in clinical trials of topotecan hydrochloride who received topotecan hydrochloride plus cisplatin in the randomized clinical trial, 6% (n = 9) were aged 65 years and older, while 3% (n = 4) were aged 75 years and older.
 
-There were no apparent differences in the pharmacokinetics of topotecan in elderly patients, once the age-related decrease in renal function was considered [see Clinical Pharmacology (12.3)].
-
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.3)].
+No overall differences in effectiveness or safety were observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in responses between the elderly and younger adult patients.
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of topotecan hydrochloride appears to be required for patients with mild renal impairment (Clcr 40 to 60 mL/min.).
-Dosage reduction is recommended for patients with moderate renal impairment (Clcr 20 to 39 mL/min.).
-Insufficient data are available in patients with severe renal impairment to provide a dosage recommendation for topotecan hydrochloride.
-[see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+The systemic exposure to both topotecan lactone and total topotecan increased in patients with moderate renal impairment (Clcr = 20 to 39 mL/min) compared with patients with normal renal function (Clcr greater than 60 mL/min).
+Reduce the dose of topotecan hydrochloride in patients with moderate renal impairment (Clcr = 20 to 39 mL/min).
+No dosage adjustment of topotecan hydrochloride is recommended for patients with mild renal impairment (Clcr = 40 to 60 mL/min) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+
+Insufficient data are available in patients with severe renal impairment (Clcr less than 20 mL/min) to provide a dosage recommendation for topotecan hydrochloride.

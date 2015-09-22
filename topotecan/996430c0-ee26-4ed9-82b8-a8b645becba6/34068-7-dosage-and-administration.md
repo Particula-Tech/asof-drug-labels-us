@@ -1,72 +1,58 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Verify dose using body surface area prior to dispensing.
 Recommended dosage should generally not exceed 4 mg intravenously [see Overdosage (10)].
 
-Prior to administration of the first course of topotecan hydrochloride, patients must have a baseline neutrophil count of greater than 1,500 cells/mm3 and a platelet count of greater than 100,000 cells/mm3.
+## 2.1 Ovarian Cancer
 
-## 2.1 Small Cell Lung Cancer
+Recommended Dose and Schedule
 
-### Recommended Dosage:
+The recommended dose of Topotecan Hydrochloride for Injection is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day course.
 
-- The recommended dose of topotecan hydrochloride is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on day 1 of a 21-day course.
-- In the absence of tumor progression, a minimum of 4 courses is recommended because tumor response may be delayed.
-  The median time to response in 4 small cell lung cancer trials was 5 to 7 weeks.
+## 2.2 Small Cell Lung Cancer
 
-### Dosage Modification Guidelines:
+Recommended Dose and Schedule
 
-- In the event of severe neutropenia (defined as less than 500 cells/mm3) during any course, reduce the dose by 0.25 mg/m2 (to 1.25 mg/m2) for subsequent courses.
-- Alternatively, in the event of severe neutropenia, administer G-CSF (granulocyte-colony stimulating factor) following the subsequent course (before resorting to dose reduction) starting from day 6 of the course (24 hours after completion of topotecan administration).
-- In the event the platelet count falls below 25,000 cells/mm3, reduce doses by 0.25 mg/m2 (to 1.25 mg/m2) for subsequent courses.
+The recommended dose of Topotecan Hydrochloride for Injection is 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day course.
 
-## 2.2 Cervical Cancer
+## 2.3 Cervical Cancer
 
-### Recommended Dosage:
+Recommended Dose and Schedule
 
-The recommended dose of topotecan hydrochloride is 0.75 mg/m2 by intravenous infusion over 30 minutes daily on days 1, 2, and 3; followed by cisplatin 50 mg/m2 by intravenous infusion on day 1 repeated every 21 days (a 21-day course).
+The recommended dose of Topotecan Hydrochloride for Injection is 0.75 mg/m2 by intravenous infusion over 30 minutes daily on Days 1, 2, and 3 in combination with cisplatin 50 mg/m2 on Day 1, repeated every 21 days.
 
-### Dosage Modification Guidelines:
+## 2.4 Dose Modifications
 
-Dosage adjustments for subsequent courses of topotecan hydrochloride in combination with cisplatin are specific for each drug.
-See manufacturer's prescribing information for cisplatin administration and hydration guidelines and for cisplatin dosage adjustment in the event of hematologic toxicity.
+Hematologic Toxicities
 
-- In the event of severe febrile neutropenia (defined as less than 1000 cells/mm3 with temperature of 38.0°C or 100.4°F), reduce the dose of topotecan hydrochloride to 0.60 mg/m2 for subsequent courses.
-- Alternatively, in the event of severe febrile neutropenia, administer G-CSF following the subsequent course (before resorting to dose reduction) starting from day 4 of the course (24 hours after completion of administration of topotecan hydrochloride).
-- If febrile neutropenia occurs despite the use of G-CSF, reduce the dose of topotecan hydrochloride to 0.45 mg/m2 for subsequent courses.
-- In the event the platelet count falls below 25,000 cells/mm3, reduce doses to 0.60 mg/m2 for subsequent courses.
+For single-agent use, dose reduce Topotecan Hydrochloride for Injection to 1.25 mg/m2 for:
 
-## 2.3 Dosage Adjustment in Specific Populations
+- neutrophil counts of less than 500 cells/mm3, or administer granulocyte-colony stimulating factor (G-CSF) starting no sooner than 24 hours following the last dose of Topotecan Hydrochloride for Injection.
+- platelet counts less than 25,000 cells/mm3 during previous cycle.
 
-### Renal Impairment:
+For combination use with cisplatin, dose reduce Topotecan Hydrochloride for Injection to 0.60 mg/m2 (and further to 0.45 mg/m2 if necessary) for:
 
-No dosage adjustment of topotecan hydrochloride appears to be required for patients with mild renal impairment (Clcr 40 to 60 mL/min).
-Dosage adjustment of topotecan hydrochloride to 0.75 mg/m2 is recommended for patients with moderate renal impairment (20 to 39 mL/min).
-Insufficient data are available in patients with severe renal impairment to provide a dosage recommendation for topotecan hydrochloride [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+- febrile neutropenia (defined as neutrophil counts less than 1,000 cells/mm3 with temperature of greater than or equal to 38.0°C (100.4°F), or administer G-CSF starting no sooner than 24 hours following the last dose of Topotecan Hydrochloride for Injection.
+- platelet counts less than 25,000 cells/mm3 during previous cycle.
 
-Topotecan hydrochloride in combination with cisplatin for the treatment of cervical cancer should only be initiated in patients with serum creatinine less than or equal to 1.5 mg/dL.
-In the clinical trial, cisplatin was discontinued for a serum creatinine greater than 1.5 mg/dL.
-Insufficient data are available regarding continuing monotherapy with topotecan hydrochloride after cisplatin discontinuation in patients with cervical cancer.
+Renal Impairment
 
-## 2.4 Instructions for Handling, Preparation, and Intravenous Administration
+For single-agent use, dose reduce Topotecan Hydrochloride for Injection to 0.75 mg/m2 in patients with moderate renal impairment (creatinine clearance [Clcr] = 20 to 39 mL/min).
+Insufficient data are available in patients with severe renal impairment (Clcr less than 20 mL/min) to provide a dosage recommendation for Topotecan Hydrochloride for Injection [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-### Handling:
+## 2.5 Preparation and Intravenous Administration
 
-Topotecan Hydrochloride for Injection is a cytotoxic anticancer drug.
-Prepare Topotecan Hydrochloride for Injection under a vertical laminar flow hood while wearing gloves and protective clothing.
-If Topotecan Hydrochloride for Injection solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
-If Topotecan Hydrochloride for Injection contacts mucous membranes, flush thoroughly with water.
+Topotecan Hydrochloride for Injection is a cytotoxic drug.
+Follow applicable special handling and disposable procedures.1
 
-Use procedures for proper handling and disposal of anticancer drugs.
-Several guidelines on this subject have been published.1-4
+Preparation and Administration
 
-### Preparation and Administration:
+Reconstitute each 4-mg vial of Topotecan Hydrochloride for Injection with 4 mL Sterile Water for Injection, USP.
+Dilute the appropriate volume of the reconstituted solution in either 0.9% Sodium Chloride Intravenous Infusion, USP or 5% Dextrose in Water Injection, USP prior to administration.
 
-Each 4-mg vial of Topotecan Hydrochloride for Injection is reconstituted with 4 mL Sterile Water for Injection.
-Then the appropriate volume of the reconstituted solution is diluted in either 0.9% Sodium Chloride Intravenous Infusion or 5% Dextrose Intravenous Infusion prior to administration.
+Stability
 
-Stability:
-
-Unopened vials of Topotecan Hydrochloride for Injection are stable until the date indicated on the package when stored between 20° and 25°C (68° and 77°F) [see USP] and protected from light in the original package.
+Unopened vials of Topotecan Hydrochloride for Injection are stable until the date indicated on the package when stored between 20°C and 25°C (68°F and 77°F) [see USP] and protected from light in the original carton.
 Because the vials contain no preservative, contents should be used immediately after reconstitution.
 
-Reconstituted vials of Topotecan Hydrochloride for Injection diluted for infusion are stable at approximately 20° to 25°C (68° to 77°F) and ambient lighting conditions for 24 hours.
+Reconstituted vials of Topotecan Hydrochloride for Injection diluted for infusion are stable at approximately 20°C to 25°C (68°F to 77°F) and ambient lighting conditions for 24 hours.
