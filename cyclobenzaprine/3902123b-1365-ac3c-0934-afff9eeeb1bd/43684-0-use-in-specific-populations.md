@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Pregnancy Category B: There are no adequate and well-controlled studies of AMRIX in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of human response, AMRIX should be used during pregnancy only if clearly needed.
 
 No treatment-related effects on embryofetal development were observed in mice and rabbits at approximately 3 and 15 times the maximum recommended human dose (MRHD), respectively (on a mg/m2 basis at maternal doses of 20 mg/kg/day in both mice and rabbits).
 
@@ -31,4 +31,4 @@ Accordingly, use of AMRIX is not recommended in the elderly.
 ## 8.6 Hepatic Impairment
 
 The use of AMRIX is not recommended in patients with mild, moderate or severe hepatic impairment.
-[See Warnings And Precautions (5.3) and Clinical Pharmacology (12.3)]
+[See Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)]

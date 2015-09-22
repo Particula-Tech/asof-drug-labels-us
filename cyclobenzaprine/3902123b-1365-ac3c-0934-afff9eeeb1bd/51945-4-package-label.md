@@ -1,29 +1,31 @@
-# Label for NDC 63459-700-60
+# Package/Label Display Panel
 
-AMRIX (Cyclobenzaprine Hydrochloride Extended-Release Capsules) 15 mg
+## Amrix® (Cyclobenzaprine Hydrochloride Extended-Release Capsules 15 mg, 60s Label Text
 
-NDC 63459-700-60
+- NDC 63459-700-60 60 Capsules
 
-60 Capsules
+Amrix®
 
-Cephalon Rx ONLY
+(Cyclobenzaprine Hydrochloride
 
-# Label for NDC 63459-701-60
+Extended-Release Capsules)
 
-AMRIX (Cyclobenzaprine Hydrochloride Extended-Release Capsules) 30 mg
+15 mg
 
-NDC 63459-701-60
+- TEVA Rx ONLY
 
-60 Capsules
+# Package/Label Display Panel
 
-Cephalon Rx ONLY
+## Amrix® (Cyclobenzaprine Hydrochloride Extended-Release Capsules 30 mg, 60s Label Text
 
-# Carton for NDC 63459-700-22
+- NDC 63459-701-60 60 Capsules
 
-AMRIX (Cyclobenzaprine Hydrochloride Extended-Release Capsules) 15 mg
+Amrix®
 
-NDC 63459-700-22
+(Cyclobenzaprine Hydrochloride
 
-5 Professional Samples
+Extended-Release Capsules)
 
-(5 Blister Packages x 2 Capsules)
+30 mg
+
+- TEVA Rx ONLY

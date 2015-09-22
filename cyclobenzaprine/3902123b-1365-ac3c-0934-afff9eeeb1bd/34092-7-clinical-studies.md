@@ -36,4 +36,4 @@ Table 3: Patients’ Rating of Medication Helpfulness - Study 2*
 
 In addition, one of the two studies demonstrated significant differences between the AMRIX 30 mg group and the placebo group in terms of patient-rated relief from local pain due to muscle spasm at Day 4 and Day 8, in patient-rated restriction of movement at Day 4 and Day 8, and in patient-rated global impression of change at Day 4, Day 8, and Day 14.
 
-There were no significant treatment differences between the AMRIX treatment groups and the placebo group in physician's global assessment, patient-rated restriction in activities of daily living, or quality of nighttime sleep.
+In both studies, there were no significant treatment differences between the AMRIX treatment groups and the placebo group in physician's global assessment, patient-rated restriction in activities of daily living, or quality of nighttime sleep.
