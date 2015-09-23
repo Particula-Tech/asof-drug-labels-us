@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Valsartan Tablets USP (val sar' tan)
-
-Read the Patient Information that comes with valsartan tablets before you take them and each time you get a refill.
+Valsartan Tablets USP (val sar' tan) Read the Patient Information that comes with valsartan tablets before you take them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 If you have any questions about valsartan tablets, ask your doctor or pharmacist.
@@ -54,8 +52,8 @@ Especially tell your doctor if you take:
   Your doctor may check the amount of potassium in your blood periodically
 - a salt substitute.
   Your doctor may check the amount of potassium in your blood periodically
-- Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 - Lithium, a medicine used in some types of depression
 
@@ -125,11 +123,9 @@ Do not give valsartan tablets to other people, even if they have the same sympto
 They may harm them.
 This leaflet summarizes the most important information about valsartan tablets.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about valsartan tablets
-
-that is written for health professionals.
+You can ask your doctor or pharmacist for information about valsartan tablets that is written for health professionals.
 For more information about valsartan tablets, ask your pharmacist or doctor, or call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in valsartan tablets?
 Active ingredient: valsartan Inactive ingredients: colloidal silicon dioxide, crospovidone, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium lauryl sulfate, talc, and titanium dioxide.
 In addition 320 mg also contains iron oxide black.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Issued: December 2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 09/2015

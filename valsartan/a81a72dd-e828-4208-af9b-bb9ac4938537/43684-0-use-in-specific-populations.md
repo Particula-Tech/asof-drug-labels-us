@@ -14,8 +14,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue valsartan, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to valsartan for hypotension, oliguria, and hyperkalemia.
-[See Use in Specific Populations (8.4).]
+Closely observe infants with histories of in utero exposure to valsartan for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 ## 8.3 Nursing Mothers
 
@@ -47,7 +46,7 @@ There were no notable differences in efficacy or safety between older and younge
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of valsartan in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established.
+Safety and effectiveness of valsartan in patients with severe renal impairment (CrCl ≤30 mL/min) have not been established.
 No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60 mL/min) renal impairment.
 
 ## 8.7 Hepatic Impairment

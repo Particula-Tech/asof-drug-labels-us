@@ -6,7 +6,7 @@ There was no evidence of carcinogenicity when valsartan was administered in the 
 These doses in mice and rats are about 2.6 and 6 times, respectively, the maximum recommended human dose on a mg/m2 basis.
 (Calculations assume an oral dose of 320 mg/day and a 60 kg patient.)
 Mutagenicity assays did not reveal any valsartan-related effects at either the gene or chromosome level.
-These assays included bacterial mutagenicity tests with Salmonella (Ames) and E. coli; a gene mutation test with Chinese hamster V79 cells; a cytogenetic test with Chinese hamster ovary cells; and a rat micronucleus test.
+These assays included bacterial mutagenicity tests with Salmonella (Ames) and E coli; a gene mutation test with Chinese hamster V79 cells; a cytogenetic test with Chinese hamster ovary cells; and a rat micronucleus test.
 Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses up to 200 mg/kg/day.
 This dose is 6 times the maximum recommended human dose on a mg/m2 basis.
 (Calculations assume an oral dose of 320 mg/day and a 60 kg patient.)

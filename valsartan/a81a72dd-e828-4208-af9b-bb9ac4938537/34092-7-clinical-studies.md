@@ -15,7 +15,7 @@ The latter finding regarding race is based on pooled data and should be viewed w
 In pooled, randomized, controlled trials of valsartan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
 The explanation for this difference from previous findings is unclear.
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
-The blood pressure lowering effect of valsartan and thiazide-type diuretics are approximately additive.
+The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6 to 9/3 to 5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
 In a controlled trial the addition of hydrochlorothiazide to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 and 25 mg of hydrochlorothiazide, respectively, compared to valsartan 80 mg alone.
@@ -24,7 +24,7 @@ In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg 
 There are no trials of valsartan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
 There was essentially no change in heart rate in valsartan-treated patients in controlled trials.
 Pediatric Hypertension The antihypertensive effects of valsartan were evaluated in two randomized, double-blind clinical studies.
-In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
 Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by -8, -10, -12 mmHg from the baseline, respectively.
@@ -32,8 +32,7 @@ Patients were re-randomized to either continue receiving the same dose of valsar
 In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was -4 and -7 mmHg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
-In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group.
-[See Adverse Reactions (6.1).]
+In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
 
 ## 14.2 Heart Failure
 
