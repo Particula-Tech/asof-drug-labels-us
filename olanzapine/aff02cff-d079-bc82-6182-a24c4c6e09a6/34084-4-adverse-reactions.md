@@ -4,9 +4,9 @@ When using olanzapine and fluoxetine in combination, also refer to the Adverse R
 
 ## 6.1 Clinical Trials Experience
 
-The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 8661 adult patients with approximately 4165 patient-years of exposure to oral olanzapine.
-This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer’s disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer’s disease representing approximately 29 patient-years of exposure; and (4) 5788 patients from 88 additional oral olanzapine clinical trials as of December 31, 2001.
-In addition, information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure, is included below.
+The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 10,504 adult patients with approximately 4765 patient-years of exposure to oral olanzapine.
+This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer’s disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer’s disease representing approximately 29 patient-years of exposure; (4) 5788 additional patients from 88 oral olanzapine clinical trials as of December 31, 2001; (5) 1843 additional patients from 41 olanzapine clinical trials as of October 31, 2011.
+Also included below is information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure.
 
 The conditions and duration of treatment with olanzapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, weights, laboratory analytes, ECGs, chest x-rays, and results of ophthalmologic examinations.
@@ -285,12 +285,12 @@ Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, s
 
 Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
 
-Digestive System — Infrequent: nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
+Digestive System — Infrequent: abdominal distension, nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
 Hemic and
 
-Lymphatic System — Infrequent: leukopenia, thrombocytopenia.
+Lymphatic System — Infrequent: thrombocytopenia.
 
-Metabolic and Nutritional Disorders — Infrequent: alkaline phosphatase increased, bilirubinemia, hypoproteinemia.
+Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased, Infrequent: bilirubinemia, hypoproteinemia.
 
 Musculoskeletal System — Rare: osteoporosis.
 
@@ -365,14 +365,12 @@ b The terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), an
 
 c Patients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection.
 
-## 6.4 Vital Signs and Laboratory Studies
+Vital Signs and Laboratory Studies
 
-### Vital Sign Changes
-
-Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials.
+Vital Sign Changes — Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials.
 [see Warnings and Precautions (5)].
 
-### Laboratory Changes
+Laboratory Changes
 
 Olanzapine Monotherapy in Adults: An assessment of the premarketing experience for olanzapine revealed an association with asymptomatic increases in ALT, AST, and GGT.
 Within the original premarketing database of about 2400 adult patients with baseline ALT ≤90 IU/L, the incidence of ALT elevations to >200 IU/L was 2% (50/2381).
@@ -383,32 +381,29 @@ ALT elevations ≥5 times ULN were observed in 2% (29/1438) of olanzapine-treate
 ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
 No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy’s Rule.
 
-Rare postmarketing reports of hepatitis have been received.
-Very rare cases of cholestatic or mixed liver injury have also been reported in the postmarketing period.
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, high GGT levels were recorded in ≥1% (88/5245) of patients.
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Olanzapine administration was also associated with increases in serum prolactin [seeWarnings and Precautions (5.13)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.13)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
-### Olanzapine Monotherapy in Adolescents:
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, elevated uric acid was recorded in ≥3% (171/4641) of patients.
 
-In placebo-controlled clinical trials of adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), greater frequencies for the following treatment-emergent findings, at anytime, were observed in laboratory analytes compared to placebo: elevated ALT (≥3 X ULN in patients with ALT at baseline <3 X ULN), (12% vs 2%); elevated AST (28% vs 4%); low total bilirubin (22% vs 7%); elevated GGT (10 % vs 1%); and elevated prolactin (47% vs 7%).
+Olanzapine Monotherapy in Adolescents: In placebo-controlled clinical trials of adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), greater frequencies for the following treatment-emergent findings, at anytime, were observed in laboratory analytes compared to placebo: elevated ALT (≥3 X ULN in patients with ALT at baseline <3 X ULN), (12% vs 2%); elevated AST (28% vs 4%); low total bilirubin (22% vs 7%); elevated GGT (10 % vs 1%); and elevated prolactin (47% vs 7%).
 
 In placebo-controlled olanzapine monotherapy studies in adolescents, clinically significant ALT elevations (change from <3 times ULN at baseline to ≥3 times ULN) were observed in 12% (22/192) of patients exposed to olanzapine compared to 2% (2/109) of patients exposed to placebo.
 ALT elevations ≥5 times ULN were observed in 4% (8/192) of olanzapine-treated patients, compared to 1% (1/109) of placebo-treated patients.
 ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
 No adolescent patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy’s Rule.
 
-### ECG Changes
-
-In pooled studies of adults as well as pooled studies of adolescents, there were no significant differences between olanzapine and placebo in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc (Fridericia corrected), and PR intervals.
+ECG Changes — In pooled studies of adults as well as pooled studies of adolescents, there were no significant differences between olanzapine and placebo in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc (Fridericia corrected), and PR intervals.
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
 This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.6)].
 
-## 6.5 Postmarketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.

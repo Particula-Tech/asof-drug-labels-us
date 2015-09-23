@@ -1,7 +1,5 @@
 # 10 OVERDOSAGE
 
-{template}
-
 ## 10.1 Human Experience
 
 In premarketing trials involving more than 3100 patients and/or normal subjects, accidental or intentional acute overdosage of olanzapine was identified in 67 patients.

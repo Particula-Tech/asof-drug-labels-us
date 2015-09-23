@@ -277,6 +277,8 @@ For specific information about the warnings of lithium or valproate, refer to th
 Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties.
 [see Patient Counseling Information (17.6)]
 
+From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
+
 For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
