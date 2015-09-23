@@ -22,8 +22,8 @@ Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide in
 
 ©2015, the GSK group of companies
 
-10000000133978 Rev.
-4/15
+- 10000000133978 Rev.
+  4/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -49,5 +49,5 @@ Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide in
 
 ©2015, the GSK group of companies
 
-10000000133357 Rev.
-4/15
+- 10000000133357 Rev.
+  4/15

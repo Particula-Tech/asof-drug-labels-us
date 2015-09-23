@@ -57,9 +57,9 @@ Least Squares Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough
 | Trial 2 |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 | 206 | 173(123, 224) | 120(70, 170) | –– | 115(60, 169) | 48(-6, 102) |
 
-a At Day 168.
+aAt Day 168.
 
-b At Day 169.
+bAt Day 169.
 
 Serial spirometric evaluations were performed predose and up to 4 hours after dosing.
 Results from Trial 1 at Day 1 and Day 168 are shown in Figure 4.
@@ -190,7 +190,7 @@ Demography of Asthma Trials 1, 2, 3, 5, and 6
 
 N/A = Data not collected.
 
-a Trials did not include current smokers; past smokers had less than 10 packs per year history.
+aTrials did not include current smokers; past smokers had less than 10 packs per year history.
 
 Trials 1, 2, and 3 were 12- or 24-week trials that evaluated the efficacy of BREO ELLIPTA on lung function in subjects with asthma.
 In Trial 1, subjects were randomized to BREO ELLIPTA 100/25, fluticasone furoate 100 mcg, or placebo.
