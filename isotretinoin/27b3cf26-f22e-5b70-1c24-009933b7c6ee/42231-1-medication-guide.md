@@ -9,7 +9,7 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about Zenatane?
 
 - Zenatane is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- Because Zenatane can cause birth defects, Zenatane is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE program.
+- Because Zenatane can cause birth defects, Zenatane is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - Zenatane may cause serious mental health problems.
 
 1.
@@ -17,15 +17,15 @@ Birth defects (deformed babies), loss of a baby before birth (miscarriage), deat
 Female patients who are pregnant or who plan to become pregnant must not take Zenatane.
 Female patients must not get pregnant:
 
-- for one month before starting Zenatane
+- for 1 month before starting Zenatane
 - while taking Zenatane
-- for one month after stopping Zenatane
+- for 1 month after stopping Zenatane
 
 If you get pregnant while taking Zenatane, stop taking it right away and call your doctor.
 Doctors and patients should report all cases of pregnancy to:
 
 - FDA MedWatch at 1-800-FDA-1088, and
-- the iPLEDGE pregnancy registry at 1-866-495-0654
+- The iPLEDGE pregnancy registry at 1-866-495-0654
 
 2.
 Serious mental health problems.
@@ -60,9 +60,9 @@ Zenatane is a medicine taken by mouth to treat the most severe form of acne (n
 Zenatane can cause serious side effects (see “What is the most important information I should know about Zenatane?”).
 Zenatane can only be:
 
-- prescribed by doctors that are registered in the iPLEDGE program
-- dispensed by a pharmacy that is registered with the iPLEDGE program
-- given to patients who are registered in the iPLEDGE program and agree to do everything required in the program
+- prescribed by doctors that are registered in the iPLEDGE Program
+- dispensed by a pharmacy that is registered with the iPLEDGE Program
+- given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program
 
 What is severe nodular acne?
 
@@ -122,9 +122,9 @@ Do not take any new medicine without talking with your doctor.
 How should I take Zenatane?
 
 - You must take Zenatane exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE program.
+  You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing Zenatane, your doctor will:
-- explain the iPLEDGE program to you
+- explain the iPLEDGE Program to you
 - have you sign the Patient Information/Informed Consent Form (for all patients).
   Female patients who can get pregnant must also sign another consent form.
 
@@ -266,7 +266,7 @@ This Medication Guide summarizes the most important information about Zenatane
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Zenatane that is written for healthcare professionals.
 
-You can also call iPLEDGE program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Zenatane?
 
@@ -297,6 +297,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1114
+Revised: 0615
 
 Zenatane is a trademark of Dr. Reddy's Laboratories, Inc. and/or its affiliates.

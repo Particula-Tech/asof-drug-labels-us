@@ -48,7 +48,7 @@ Of the patients reporting depression, some reported that the depression subsided
 
 Reproductive System
 
-abnormal menses
+Abnormal menses
 
 Respiratory
 

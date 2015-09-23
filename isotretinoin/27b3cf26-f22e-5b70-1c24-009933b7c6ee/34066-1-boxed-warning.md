@@ -17,7 +17,7 @@ If pregnancy does occur during treatment of a female patient who is taking Zenat
 
 Special Prescribing Requirements
 
-Because of Zenatane teratogenicity and to minimize fetal exposure, Zenatane is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
+Because of Zenatane  teratogenicity and to minimize fetal exposure, Zenatane  is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
 This program is called iPLEDGE™.
-Zenatane must only be prescribed by prescribers who are registered and activated with the iPLEDGE program.
+Zenatane  must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
 Zenatane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).

@@ -39,5 +39,5 @@ Table 4 Zenatane Dosing by Body Weight (Based on Administration With Food)
 | INFORMATION FOR PHARMACISTS Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866495-0654) to obtain an authorization and the “do not dispense to patient after” date. Zenatane must only be dispensed in no more than a 30-day supply. |
 | --- |
 
-| REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. A Zenatane medication guide must be given to the patient each time Zenatane are dispensed, as required by law. This Zenatane medication guide is an important part of the risk management program for the patient. |
+| REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM. A ZenataneTM Medication Guide must be given to the patient each time ZenataneTM is dispensed, as required by law. This Zenatane medication guide is an important part of the risk management program for the patient. |
 | --- |

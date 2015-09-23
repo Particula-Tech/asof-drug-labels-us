@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Pregnancy: Category X. See BOXED CONTRAINDICATIONS AND WARNINGS.
+Pregnancy: Category X. See Boxed CONTRAINDICATIONS AND WARNINGS.
 
 Allergic Reactions
 
