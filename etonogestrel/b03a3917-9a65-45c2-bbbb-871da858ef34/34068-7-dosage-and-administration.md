@@ -6,7 +6,8 @@ All healthcare providers should receive instruction and training prior to perfor
 
 A single NEXPLANON implant is inserted subdermally in the upper arm.
 To reduce the risk of neural or vascular injury, the implant should be inserted at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus.
-The implant should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissues in the sulcus between the triceps and biceps muscles.
+The implant should be inserted subdermally just under the skin, avoiding the sulcus (groove) between the biceps and triceps muscles and the large blood vessels and nerves that lie there in the neurovascular bundle deeper in the subcutaneous tissues.
+An implant inserted more deeply than subdermally (deep insertion) may not be palpable and the localization and/or removal can be difficult or impossible [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 NEXPLANON must be inserted by the expiration date stated on the packaging.
 NEXPLANON is a long-acting (up to 3 years), reversible, hormonal contraceptive method.
 The implant must be removed by the end of the third year and may be replaced by a new implant at the time of removal, if continued contraceptive protection is desired.
@@ -105,8 +106,8 @@ Step 1.
 Have the woman lie on her back on the examination table with her non-dominant arm flexed at the elbow and externally rotated so that her wrist is parallel to her ear or her hand is positioned next to her head (Figure 1).
 
 Step 2.
-Identify the insertion site, which is at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus (Figure 2).
-The implant should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissue in the sulcus between the triceps and biceps muscles [see Warnings and Precautions (5.1)].
+Identify the insertion site, which is at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus, avoiding the sulcus (groove) between the biceps and triceps muscles and the large blood vessels and nerves that lie there in the neurovascular bundle deeper in the subcutaneous tissue (Figure 2).
+The implant should be inserted subdermally just under the skin [see Warnings and Precautions (5.1)].
 
 Step 3.
 Make two marks with a sterile marker: first, mark the spot where the etonogestrel implant will be inserted, and second, mark a spot a few centimeters proximal to the first mark (Figure 2).
@@ -133,7 +134,7 @@ Step 8.
 With your free hand, stretch the skin around the insertion site with thumb and index finger (Figure 4).
 
 Step 9.
-Puncture the skin with the tip of the needle angled about 30° (Figure 5).
+Puncture the skin with the tip of the needle slightly angled less than 30° (Figure 5).
 
 Step 10.
 Lower the applicator to a horizontal position.
@@ -141,7 +142,7 @@ While lifting the skin with the tip of the needle (Figure 6), slide the needle t
 You may feel slight resistance but do not exert excessive force.
 If the needle is not inserted to its full length, the implant will not be inserted properly.
 
-You can best see movement of the needle if you are seated and are looking at the applicator from the side and NOT from above.
+You can best see movement of the needle, and that it is inserted just under the skin, if you are seated and are looking at the applicator from the side and NOT from above.
 In this position, you can clearly see the insertion site and the movement of the needle just under the skin.
 
 Step 11.
@@ -156,16 +157,7 @@ If the applicator is not kept in the same position during this procedure or if t
 Step 12.
 Always verify the presence of the implant in the woman's arm immediately after insertion by palpation.
 By palpating both ends of the implant, you should be able to confirm the presence of the 4 cm rod (Figure 8).
-
-If you cannot feel the implant or are in doubt of its presence,
-
-- Check the applicator.
-  The needle should be fully retracted and only the purple tip of the obturator should be visible.
-- Use other methods to confirm the presence of the implant.
-  Suitable methods are: two-dimensional X-ray, X-ray computerized tomography (CT scan), ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI).
-  If these methods fail, call 1-877-467-5266 for information on the procedure for measuring etonogestrel blood levels.
-
-Until the presence of the implant has been verified, the woman should be advised to use a non-hormonal contraceptive method, such as condoms.
+See section below "If the rod is not palpable".
 
 Step 13.
 Place a small adhesive bandage over the insertion site.
@@ -182,26 +174,30 @@ Also, complete the PATIENT CHART LABEL and affix it to the woman's medical recor
 Step 16.
 The applicator is for single use only and should be disposed in accordance with the Center for Disease Control and Prevention guidelines for handling of hazardous waste.
 
+If the rod is not palpable:
+
+If you cannot feel the implant or are in doubt of its presence, the implant may not have been inserted or it may have been inserted deeply:
+
+- Check the applicator.
+  The needle should be fully retracted and only the purple tip of the obturator should be visible.
+- Use other methods to confirm the presence of the implant.
+  Given the radiopaque nature of the implant, suitable methods for localization are two-dimensional X-ray and X-ray computerized tomography (CT scan).
+  Ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI) may be used.
+  If these methods fail, call 1-877-467-5266 for information on the procedure for measuring etonogestrel blood levels.
+
+Until the presence of the implant has been verified, the woman should be advised to use a non-hormonal contraceptive method, such as condoms.
+
+Once the non-palpable implant has been located, removal is recommended [see Warnings and Precautions (5.1)].
+
 ## 2.3 Removal of NEXPLANON
 
 Preparation
 
 Before initiating the removal procedure, the healthcare provider should carefully read the instructions for removal and consult the USER CARD and/or the PATIENT CHART LABEL for the location of the implant.
 The exact location of the implant in the arm should be verified by palpation.
-If the implant is not palpable, two-dimensional X-ray can be performed to verify its presence.
+[See Dosage and Administration (2.3), Localization and Removal of a Non-Palpable Implant.]
 
-A non-palpable implant should always be first located prior to removal.
-Suitable methods for localization include: two-dimensional X-ray, X-ray computer tomography (CT), ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI).
-If these imaging methods fail to locate the implant, etonogestrel blood level determination can be used for verification of the presence of the implant.
-For details on etonogestrel blood level determination, call 1-877-467-5266 for further instructions.
-
-After localization of a non-palpable implant, consider conducting removal with ultrasound guidance.
-
-There have been occasional reports of migration of the implant; usually this involves minor movement relative to the original position.
-This may complicate localization of the implant by palpation, CT, USS and/or MRI, and removal may require a larger incision and more time.
-
-Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
-Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare providers familiar with the anatomy of the arm.
+Procedure for Removal of an Implant that is Palpable
 
 Before removal of the implant, the healthcare provider should confirm that:
 
@@ -266,6 +262,27 @@ After removing the implant, close the incision with a steri-strip and apply an a
 Step 10.
 Apply a pressure bandage with sterile gauze to minimize bruising.
 The woman may remove the pressure bandage in 24 hours and the small bandage in 3 to 5 days.
+
+Localization and Removal of a Non-Palpable Implant
+
+There have been occasional reports of migration of the implant; usually this involves minor movement relative to the original position, but may lead to the implant not being palpable at the location in which it was placed.
+An implant that has been deeply inserted or has migrated may not be palpable and therefore imaging procedures, as described below, may be required for localization.
+
+A non-palpable implant should always be located prior to attempting removal.
+Given the radiopaque nature of the implant, suitable methods for localization include two-dimensional X-ray and X-ray computer tomography (CT).
+Ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI) may be used.
+Once the implant has been localized in the arm, the implant should be removed according to the instructions in Dosage and Administration (2.3), Procedure for Removal of an Implant that is Palpable, and the use of ultrasound guidance during the removal should be considered.
+
+If the implant cannot be found in the arm after comprehensive localization attempts, consider applying imaging techniques to the chest as rare events of migration to the pulmonary vasculature have been reported.
+If the implant is located in the chest, surgical or endovascular procedures may be needed for removal; healthcare providers familiar with the anatomy of the chest should be consulted.
+
+If at any time these imaging methods fail to locate the implant, etonogestrel blood level determination can be used for verification of the presence of the implant.
+For details on etonogestrel blood level determination, call 1-877-467-5266 for further instructions.
+
+If the implant migrates within the arm, removal may require a minor surgical procedure with a larger incision or a surgical procedure in an operating room.
+Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare providers familiar with the anatomy of the arm.
+
+Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
 
 ## 2.4 Replacing NEXPLANON
 

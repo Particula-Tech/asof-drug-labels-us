@@ -104,14 +104,21 @@ Your healthcare provider may:
 - Perform a pregnancy test before inserting NEXPLANON
 - Schedule the insertion at a specific time of your menstrual cycle (for example, within the first days of your regular menstrual bleeding)
 
-Immediately after the NEXPLANON implant has been placed, you and your healthcare provider should check that the implant is in your arm by feeling for it.
-
-If you and your healthcare provider cannot feel the NEXPLANON implant, use a non-hormonal birth control method (such as condoms) until your healthcare provider confirms that the implant is in place.
-You may need special tests to check that the implant is in place or to help find the implant when it is time to take it out.
-
 Your healthcare provider will cover the site where NEXPLANON was placed with 2 bandages.
 Leave the top bandage on for 24 hours.
 Keep the smaller bandage clean, dry, and in place for 3 to 5 days.
+
+Immediately after the NEXPLANON implant has been placed, you and your healthcare provider should check that the implant is in your arm by feeling for it.
+
+If you cannot feel the implant immediately after insertion, the implant may not have been inserted, or it may have been inserted deeply.
+A deep insertion may cause problems with locating and removing the implant.
+Once the healthcare professional has located the implant, removal may be recommended.
+
+If at any time you or your healthcare provider cannot feel the NEXPLANON implant, use a non-hormonal birth control method (such as condoms) until your healthcare provider confirms that the implant is in place.
+You may need special tests to check that the implant is in place or to help find the implant when it is time to take it out.
+If the implant cannot be found in the arm after a thorough search, your healthcare professional may use x-rays or other imaging methods on your chest.
+
+Depending on the exact position of the implant, removal may be difficult and may require surgery.
 
 You will be asked to review and sign a consent form prior to inserting the NEXPLANON implant.
 You will also get a USER CARD to keep at home with your health records.
@@ -160,6 +167,8 @@ Other common side effects include:
 - Pain
 - Pain at the site of insertion
 
+In rare cases, implants have been reported to be found in a blood vessel, including a blood vessel in the lung.
+
 This is not a complete list of possible side effects.
 For more information, ask your healthcare provider for advice about any side effects that concern you.
 You may report side effects to the FDA at 1-800-FDA-1088.
@@ -173,9 +182,13 @@ If this happens, you may become pregnant.
 Immediately after insertion, and with help from your healthcare provider, you should be able to feel the implant under your skin.
 If you can't feel the implant, tell your healthcare provider.
 
-Removal of the implant may be very difficult or impossible because the implant is not where it should be.
+Location and removal of the implant may be difficult or impossible because the implant is not where it should be.
 Special procedures, including surgery in the hospital, may be needed to remove the implant.
 If the implant is not removed, then the effects of NEXPLANON will continue for a longer period of time.
+
+In rare cases, implants have been found in the pulmonary artery (a blood vessel in the lung).
+If the implant cannot be found in the arm, your healthcare professional may use x-rays or other imaging methods on the chest.
+If the implant is located in the chest, surgery may be needed.
 
 Other problems related to insertion and removal are:
 
@@ -284,6 +297,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2015
+Revised: 09/2015
 
-usppi-mk8415-iptx-1508r015
+usppi-mk8415-iptx-1509r016

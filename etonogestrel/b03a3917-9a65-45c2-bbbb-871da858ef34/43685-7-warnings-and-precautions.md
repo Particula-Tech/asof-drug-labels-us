@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-The following information is based on experience with either the non-radiopaque etonogestrel implant (IMPLANON), other progestin-only contraceptives, or experience with combination (estrogen plus progestin) oral contraceptives.
+The following information is based on experience with the etonogestrel implants (IMPLANON and/or NEXPLANON), other progestin-only contraceptives, or experience with combination (estrogen plus progestin) oral contraceptives.
 
 ## 5.1 Complications of Insertion and Removal
 
@@ -9,18 +9,25 @@ Failure to insert NEXPLANON properly may go unnoticed unless it is palpated imme
 Undetected failure to insert the implant may lead to an unintended pregnancy.
 Complications related to insertion and removal procedures, such as pain, paresthesias, bleeding, hematoma, scarring or infection, may occur.
 
-If NEXPLANON is inserted too deeply (intramuscular or in the fascia), neural or vascular injury may occur.
+If NEXPLANON is inserted deeply (intramuscular or in the fascia), neural or vascular injury may occur.
 To reduce the risk of neural or vascular injury, NEXPLANON should be inserted at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus.
-NEXPLANON should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissues in the sulcus between the triceps and biceps muscles.
-Deep insertions of the non-radiopaque etonogestrel implant (IMPLANON) have been associated with paraesthesia (due to neural injury) and migration of the implant (due to intramuscular or fascial insertion), and in a very few cases with intravascular insertion.
+NEXPLANON should be inserted subdermally just under the skin, avoiding the sulcus (groove) between the biceps and triceps muscles and the large blood vessels and nerves that lie there in the neurovascular bundle deeper in the subcutaneous tissues.
+Deep insertions of the implant have been associated with paraesthesia (due to neural injury) and migration of the implant (due to intramuscular or fascial insertion), and in a very few cases with intravascular insertion.
 If infection develops at the insertion site, start suitable treatment.
 If the infection persists, the implant should be removed.
 Incomplete insertions or infections may lead to expulsion.
 
 Implant removal may be difficult or impossible if the implant is not inserted correctly, is inserted too deeply, not palpable, encased in fibrous tissue, or has migrated.
-Deep insertions may lead to difficult localization of the implant and may also result in the need for a surgical procedure in an operating room in order to remove the implant.
+
+There have been reports of migration of the implant within the arm from the insertion site, which may be related to deep insertion.
+There also have been rare postmarketing reports of implants located within the vessels of the arm and the pulmonary artery, which may be related to deep insertions or intravascular insertion.
+In cases where the implant has migrated to the pulmonary artery, endovascular or surgical procedures may be needed for removal.
+
+If at any time the implant cannot be palpated, it should be localized and removal is recommended.
+
 Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
 Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare providers familiar with the anatomy of the arm.
+If the implant is located in the chest, healthcare providers familiar with the anatomy of the chest should be consulted.
 Failure to remove the implant may result in continued effects of etonogestrel, such as compromised fertility, ectopic pregnancy, or persistence or occurrence of a drug-related adverse event.
 
 ## 5.2 Changes in Menstrual Bleeding Patterns

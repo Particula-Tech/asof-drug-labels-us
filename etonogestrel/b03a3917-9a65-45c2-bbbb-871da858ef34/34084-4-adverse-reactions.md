@@ -58,7 +58,7 @@ Additionally, hematoma (3.0%), bruising (2.0%), pain (1.0%), and swelling (0.7%)
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post-approval use of the non-radiopaque etonogestrel implant (IMPLANON).
+The following additional adverse reactions have been identified during post-approval use of the etonogestrel implants.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Gastrointestinal disorders: constipation, diarrhea, flatulence, vomiting.
@@ -89,4 +89,8 @@ Skin and subcutaneous tissue disorders: angioedema, aggravation of angioedema an
 
 Vascular disorders: hot flush.
 
-Complications related to insertion or removal of the non-radiopaque etonogestrel implant reported include: bruising, slight local irritation, pain or itching, fibrosis at the implant site, paresthesia or paresthesia-like events, scarring and abscess.
+Complications related to insertion or removal of the etonogestrel implants reported include: bruising, slight local irritation, pain or itching, fibrosis at the implant site, paresthesia or paresthesia-like events, scarring and abscess.
+Expulsion or migration of the implant have been reported, including rarely to the chest wall.
+In rare cases, implants have been found within the vasculature, including the pulmonary artery.
+Some cases of implants found within the pulmonary artery reported chest pain and/or dyspnea; others have been reported as asymptomatic [see Warnings and Precautions (5.1)].
+Surgical intervention might be necessary when removing the implant.
