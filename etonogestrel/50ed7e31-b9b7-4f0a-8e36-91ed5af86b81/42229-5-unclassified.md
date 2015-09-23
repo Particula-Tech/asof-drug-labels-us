@@ -7,9 +7,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2006, 2009, 2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2015
+Revised: 09/2015
 
-uspi-mk8415-ipt-1508r010
+uspi-mk8415-ipt-1509r011
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -20,9 +20,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2015
+Revised: 09/2015
 
-usppi-mk8415-ipt-1508r010
+usppi-mk8415-ipt-1509r011
 
 IMPLANON® (etonogestrel implant) 68 mg For Subdermal Use Only
 
