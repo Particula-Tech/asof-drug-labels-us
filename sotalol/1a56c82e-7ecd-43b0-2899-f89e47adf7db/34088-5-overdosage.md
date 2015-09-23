@@ -14,7 +14,7 @@ In addition, if required, the following therapeutic measures are suggested:
 
 Bradycardia or Cardiac Asystole: Atropine, another anticholinergic drug, a beta-adrenergic agonist or transvenous cardiac pacing.
 
-Heart Block:(second and third degree) transvenous cardiac pacemaker.
+Heart Block: (second and third degree) transvenous cardiac pacemaker.
 
 Hypotension: (depending on associated factors) epinephrine rather than isoproterenol or norepinephrine may be useful.
 

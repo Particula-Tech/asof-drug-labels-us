@@ -5,6 +5,6 @@ Sotalol hydrochloride tablets, however, must not be substituted for Betapace AF 
 
 This summary contains important patient information that has been reviewed and approved by the U.S. Food and Drug Administration.
 This summary is not meant to take the place of your doctor's instructions.
-Read this patient information carefully before you start taking sotalol hydrochloride tablets (AF).
+Read this patient information carefully before you start taking sotalol hydrochloride tablets, USP (AF).
 Each time you get a refill, you will receive patient information.
 Be sure to read it because it may contain new information that you need to know.

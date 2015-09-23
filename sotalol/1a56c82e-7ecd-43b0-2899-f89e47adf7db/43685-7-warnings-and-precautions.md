@@ -31,7 +31,9 @@ In this clinical trial sotalol (AF) treatment was not initiated if the QT interv
 
 Experience in patients with ventricular arrhythmias is also pertinent to the risk of Torsade de Pointes in patients with AFIB/AFL (see below).
 
-## Proarrhythmia in Ventricular Arrhythmia Patients [see Sotalol Hydrochloride Package Insert]
+Proarrhythmia in Ventricular Arrhythmia Patients
+
+[see Sotalol Hydrochloride Package Insert]
 
 In patients with a history of sustained ventricular tachycardia, the incidence of Torsade de Pointes during sotalol treatment was 4% and worsened VT in about 1%; in patients with other less serious ventricular arrhythmias the incidence of Torsade de Pointes was 1% and new or worsened VT in about 0.7%.
 Additionally, in approximately 1% of patients, deaths were considered possibly drug related; such cases, although difficult to evaluate, may have been associated with proarrhythmic events.
@@ -40,27 +42,33 @@ Torsade de Pointes arrhythmias in patients with VT/VF were dose related, as was 
 
 Table 6 Percent Incidence of Torsade de Pointes and Mean QTc Interval by Dose For Patients With Sustained VT/VF
 
-| Daily Dose (mg) | Incidence of Torsade de Pointes | Mean QTchighest on-therapy value (msec) |
+| Daily Dose (mg) | Incidence of Torsade de Pointes | Mean QTC* (msec) |
 | --- | --- | --- |
-| 80 | 0 (69)() Number of patients assessed | 463 (17) |
+| 80 | 0 (69) | 463 (17) |
 | 160 | 0.5 (832) | 467 (181) |
 | 320 | 1.6 (835) | 473 (344) |
 | 480 | 4.4 (459) | 483 (234) |
 | 640 | 3.7 (324) | 490 (185) |
 | >640 | 5.8 (103) | 512 (62) |
 
+() Number of patients assessed
+
+* highest on-therapy value
+
 Table 7 below relates the incidence of Torsade de Pointes to on-therapy QTc and change in QTc from baseline.
 It should be noted, however, that the highest on therapy QTc was in many cases the one obtained at the time of the Torsade de Pointes event, so that the table overstates the predictive value of a high QTc.
 
 Table 7 Relationship Between QTc Interval Prolongation and Torsade de Pointes
 
-| On-TherapyQTc Interval(msec) | Incidence ofTorsade dePointes | Change in QTcInterval FromBaseline (msec) | Incidence ofTorsade dePointes |
+| On-Therapy QTC Interval (msec) | Incidence of Torsade de Pointes | Change in QTC Interval From Baseline (msec) | Incidence of Torsade de Pointes |
 | --- | --- | --- | --- |
-| less than 500 | 1.3% (1787)() Number of patients assessed | less than 65 | 1.6% (1516) |
+| less than 500 | 1.3% (1787) | less than 65 | 1.6% (1516) |
 | 500 to 525 | 3.4% (236) | 65 to 80 | 3.2% (158) |
-| 525 to 550 | 5.6% (125) | 80 to100 | 4.1% (146) |
-| >550 | 10.8% (157) | 100 to130 | 5.2% (115) |
+| 525 to 550 | 5.6% (125) | 80 to 100 | 4.1% (146) |
+| >550 | 10.8% (157) | 100 to 130 | 5.2% (115) |
 |  |  | >130 | 7.1% (99) |
+
+() Number of patients assessed
 
 In addition to dose and presence of sustained VT, other risk factors for Torsade de Pointes were gender (females had a higher incidence), excessive prolongation of the QTc interval and history of cardiomegaly or congestive heart failure.
 Patients with sustained ventricular tachycardia and a history of congestive heart failure appear to have the highest risk for serious proarrhythmia (7%).
@@ -71,11 +79,11 @@ Although sotalol therapy was discontinued in most patients experiencing Torsade 
 
 ## Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
 
-The use of sotalo (AF) in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended.
+The use of sotalol (AF) in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended.
 Such drugs include many antiarrhythmics, some phenothiazines, bepridil, tricyclic antidepressants, and certain oral macrolides.
 Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol (AF).
-In clinical trials, sotalots (AF) was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
-Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with sotalots (AF), because of their potential to prolong refractoriness (see WARNINGS).
+In clinical trials, sotalol (AF) was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
+Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with sotalol (AF), because of their potential to prolong refractoriness (see WARNINGS).
 There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
 
 ## Congestive Heart Failure
@@ -116,7 +124,7 @@ Therefore, it is prudent when discontinuing chronically administered sotalol (AF
 If possible, the dosage of sotalol (AF) should be gradually reduced over a period of one to two weeks.
 If angina or acute coronary insufficiency develops, appropriate therapy should be instituted promptly.
 Patients should be warned against interruption or discontinuation of therapy without the physician's advice.
-Because coronary artery disease is common and may be unrecognized in patients receiving sotalols (AF), abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
+Because coronary artery disease is common and may be unrecognized in patients receiving sotalol (AF), abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
 
 ## Non-Allergic Bronchospasm (e.g., chronic bronchitis and emphysema)
 
@@ -166,7 +174,7 @@ The patient should be fully instructed on the need for compliance with the recom
 
 ### Medications and Supplements
 
-Assessment of patients' medication history should include all over-counter, prescription and herbal/natural preparations with emphasis on preparations that may affect the pharmacodynamics of sotalol (AF) such as other cardiac antiarrhythmic drugs, some phenothiazines, bepridil, tricyclic antidepressants and oral macrolides (see WARNINGS, Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents).
+Assessment of patients' medication history should include all over-counter, prescription and herbal/natural preparations with emphasis on preparations that may affect the pharmacodynamics of sotalol (AF) such as other cardiac antiarrhythmic drugs, some phenothiazines, bepridil, tricyclic antidepressants and oral macrolides (see WARNINGS, Use With Drugs That Prolong QT Interval and Antiarrhythmic Agents).
 Patients should be instructed to notify their health care providers of any change in over-the-counter, prescription or supplement use.
 If a patient is hospitalized or is prescribed a new medication for any condition, the patient must inform the health care provider of ongoing sotalol (AF) therapy.
 Patients should also check with their health care provider and/or pharmacist prior to taking a new over-the-counter medicine.

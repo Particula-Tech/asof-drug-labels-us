@@ -24,17 +24,17 @@ In a study of patients with atrial fibrillation (AFIB)/flutter (AFIB/AFL) receiv
 (See WARNINGS for description of relationship between QTc and Torsade de Pointes type arrhythmias.)
 No significant alteration in QRS interval is observed.
 
-In a small study (n=25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2 to15 joules) compared to a mean of 16 joules for a non-randomized comparative group primarily receiving amiodarone.
+In a small study (n=25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2 to 15 joules) compared to a mean of 16 joules for a non-randomized comparative group primarily receiving amiodarone.
 
-In a dose-response trial comparing three dose levels of sotalol hydrochloride (AF), 80 mg, 120 mg, and 160 mg with placebo given q12h (or q24h in patients with a reduced renal creatinine clearance) for the prevention of recurrence of symptomatic atrial fibrillation (AFIB)/flutter (AFL), the mean ventricular rate during recurrence of AFIB/AFL was 125, 107, 110 and 99 beats/min in the placebo, 80 mg, 120 mg and 160 mg dose groups, respectively (p<0.017 for each sotalol dose group versus placebo).
-In another placebo controlled trial in which sotalol hydrochloride (AF) was titrated to a dose between 160 and 320 mg/day in patients with chronic AFIB, the mean ventricular rate during recurrence of AFIB was 107 and 84 beats/min in the placebo and sotalol hydrochloride (AF) groups, respectively (p<0.001).
+In a dose-response trial comparing three dose levels of sotalol hydrochloride (AF), 80 mg, 120 mg, and 160 mg with placebo given q12h (or q24h in patients with a reduced renal creatinine clearance) for the prevention of recurrence of symptomatic atrial fibrillation (AFIB)/flutter (AFL), the mean ventricular rate during recurrence of AFIB/AFL was 125, 107, 110 and 99 beats/min in the placebo, 80 mg, 120 mg and 160 mg dose groups, respectively (p <0.017 for each sotalol dose group versus placebo).
+In another placebo controlled trial in which sotalol hydrochloride (AF) was titrated to a dose between 160 and 320 mg/day in patients with chronic AFIB, the mean ventricular rate during recurrence of AFIB was 107 and 84 beats/min in the placebo and sotalol hydrochloride (AF) groups, respectively (p <0.001).
 
 Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
 During steady-state, the respective average increases above baseline of the QTc interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
 The respective mean maximum increases above baseline of the QTc interval, in msec (%), were 23(+6%), 36(+9%) and 55(+14%) msec at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA<0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA≥.0.33m 2).
-The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m2).
+The smallest children (BSA<0.33 m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA≥0.33 m2).
+The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33 m2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
 Hemodynamics
@@ -48,50 +48,54 @@ Exercise and isoproterenol induced tachycardia are antagonized by sotalol, and t
 
 In hypertensive patients, sotalol produces significant reductions in both systolic and diastolic blood pressures.
 Although sotalol is usually well-tolerated hemodynamically, caution should be exercised in patients with marginal cardiac compensation as deterioration in cardiac performance may occur.
-(See WARNINGS,Congestive Heart Failure.)
+(See WARNINGS, Congestive Heart Failure.)
 
-## Clinical Studies:
+## Clinical Studies
 
-### Prolongation of Time to Recurrence of Symptomatic Atrial Fibrillation/ Flutter
+### Prolongation of Time to Recurrence of Symptomatic Atrial Fibrillation/Flutter
 
 Sotalol hydrochloride (AF) has been studied in patients with symptomatic AFIB/AFL in two principal studies, one in patients with primarily paroxysmal AFIB/AFL, the other in patients with primarily chronic AFIB.
 
 In one study, a U.S. multicenter, randomized, placebo-controlled, double-blind, dose-response trial of patients with symptomatic primarily paroxysmal AFIB/AFL, three fixed dose levels of sotalol hydrochloride (AF) (80 mg, 120 mg and 160 mg) twice daily and placebo were compared in 253 patients.
-In patients with reduced creatinine clearance (40-60 mL/min) the same doses were given once daily.
+In patients with reduced creatinine clearance (40 to 60 mL/min) the same doses were given once daily.
 Patients were not randomized for the following reasons: QT >450 msec; creatinine clearance <40 mL/min; intolerance to beta-blockers; bradycardia-tachycardia syndrome in the absence of an implanted pacemaker; AFIB/AFL was asymptomatic or was associated with syncope, embolic CVA or TIA; acute myocardial infarction within the previous 2 months; congestive heart failure; bronchial asthma or other contraindications to beta-blocker therapy; receiving potassium losing diuretics without potassium replacement or without concurrent use of ACE-inhibitors; uncorrected hypokalemia (serum potassium <3.5 meq/L) or hypomagnesemia (serum magnesium <1.5 meq/L); received chronic oral amiodarone therapy for >1 month within previous 12 weeks; congenital or acquired long QT syndromes; history of Torsade de Pointes with other antiarrhythmic agents which increase the duration of ventricular repolarization; sinus rate <50 bpm during waking hours; unstable angina pectoris; receiving treatment with other drugs that prolong the QT interval; and AFIB/AFL associated with the Wolff-Parkinson-White (WPW) syndrome.
 If the QT interval increased to ≥520 msec (or JT ≥430 msec if QRS >100 msec) the drug was discontinued.
 The patient population in this trial was 64% male, and the mean age was 62 years.
 No structural heart disease was present in 43% of the patients.
 Doses were administered once daily in 20% of the patients because of reduced creatinine clearance.
 
-Sotalol hydrochloride (AF) was shown to prolong the time to the first symptomatic, ECG documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrence at both 6 and 12 months.
+Sotalol hydrochloride (AF) was shown to prolong the time to the first symptomatic, ECG-documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrence at both 6 and 12 months.
 The 120 mg dose was more effective than 80 mg, but 160 mg did not appear to have an added benefit.
 Note that these doses were given twice or once daily, depending on renal function.
 The results are shown in Figure 1 and Tables 1 and 2.
 
-Figure 1 Study 1—Time to First ECG-Documented Recurrence of Symptomatic AFIB/AFL Since Randomization
+Figure 1 Study 1 – Time to First ECG-Documented Recurrence of Symptomatic AFIB/AFL Since Randomization
 
-Table 1 Study 1—Patient Status at 12 Months
+Table 1 Study 1 - Patient Status at 12 Months
 
 |  | Placebo | Sotalol Hydrochloride (AF) Dose |  |  |
 | --- | --- | --- | --- | --- |
 | 80 mg | 120 mg | 160 mg |  |  |
 | Randomized | 69 | 59 | 63 | 62 |
-| On treatment in NSRat 12 months without recurrenceSymptomatic AFIB/AFL | 23% | 22% | 29% | 23% |
-| RecurrenceEfficacy endpoint of Study 1; study treatment stopped. | 67% | 58% | 49% | 42% |
+| On treatment in NSR at 12 months without recurrencea | 23% | 22% | 29% | 23% |
+| Recurrencea,b | 67% | 58% | 49% | 42% |
 | D/C for AEs | 6% | 12% | 18% | 29% |
+
+a Symptomatic AFIB/AFL
+
+b Efficacy endpoint of Study 1: study treatment stopped
 
 Please note that columns do not add up to 100% due to discontinuations (D/C) for "other" reasons.
 
-Table 2 Study 1—Median Time to Recurrence of Symptomatic AFIB/AFL and Relative Risk (vs.
+Table 2 Study 1 - Median Time to Recurrence of Symptomatic AFIB/AFL and Relative Risk (vs.
 Placebo) at 12 Months
 
 |  | Placebo | Sotalol Hydrochloride (AF) Dose |  |  |
 | --- | --- | --- | --- | --- |
 | 80 mg | 120 mg | 160 mg |  |  |
 | p-value vs placebo |  | p=0.325 | p=0.018 | p=0.029 |
-| Relative Risk (RR)to placebo |  | 0.81 | 0.59 | 0.59 |
-| Median time to recurrence (days) | 27 | 106 | 229 | 175 |
+| Relative Risk (RR) to placebo |  | 0.81 | 0.59 | 0.59 |
+| Median time to recurrence(days) | 27 | 106 | 229 | 175 |
 
 Discontinuation because of adverse events was dose related.
 
@@ -99,7 +103,7 @@ In a second multicenter, randomized, placebo-controlled, double-blind study of 6
 The patient population of this trial was 70% male with a mean age of 65 years.
 Structural heart disease was present in 49% of the patients.
 All patients had chronic AFIB for >2 weeks but <1 year at entry with a mean duration of 4.1 months.
-Patients were excluded if they had significant electrolyte imbalance, QTc >460 msec, QRS >140 msec, any degree of AV block or functioning pacemaker, uncompensated cardiac failure, asthma, significant renal disease (estimated creatinine clearance <50 mL/min), heart rate <50 bpm, myocardial infarction or open heart surgery in past 2 months, unstable angina, infective endocarditis, active pericarditis or myocarditis, ≥ 3 DC cardioversions in the past, medications that prolonged QT interval, and previous amiodarone treatment.
+Patients were excluded if they had significant electrolyte imbalance, QTc >460 msec, QRS >140 msec, any degree of AV block or functioning pacemaker, uncompensated cardiac failure, asthma, significant renal disease (estimated creatinine clearance <50 mL/min), heart rate <50 bpm, myocardial infarction or open heart surgery in past 2 months, unstable angina, infective endocarditis, active pericarditis or myocarditis, ≥3 DC cardioversions in the past, medications that prolonged QT interval, and previous amiodarone treatment.
 After successful cardioversion patients were randomized to receive placebo (n=114) or sotalol hydrochloride (AF) (n=118), at a starting dose of 80 mg twice daily.
 If the initial dose was not tolerated it was decreased to 80 mg once daily, but if it was tolerated it was increased to 160 mg twice daily.
 During the maintenance period 67% of treated patients received a dose of 160 mg twice daily, and the remainder received doses of 80 mg once daily (17%) and 80 mg twice daily (16%).
@@ -107,24 +111,28 @@ During the maintenance period 67% of treated patients received a dose of 160 mg 
 Figure 2 and Tables 3 and 4 show the results of the trial.
 There was a longer time to ECG-documented recurrence of AFIB and a reduced risk of recurrence at 6 months compared to placebo.
 
-Figure 2 Study 2 – Time to First ECG-Documented Recurrence of Symptomatic AFIB/AFL/Death Since Randomization
+Figure 2: Study 2 – Time to First ECG – Documented recurrence of Symptomatic AFIB/AFL/Death since Randomization
 
-Table 3 Study 2—Patient Status at 6 Months
+Table 3: Study 2 - Patient Status at 6 Months
 
-|  | Sotalol Hydrochloride (AF) | Placebo |
+| Randomized | Sotalol Hydrochloride (AF) | Placebo |
 | --- | --- | --- |
-| Randomized | 118 | 114 |
-| On treatment in NSR at 6 months without recurrenceSymptomatic or asymptomatic AFIB/AFL | 45% | 29% |
-| RecurrenceEfficacy endpoint of Study 2; study treatment stopped. | 49% | 67% |
+| 118 | 114 |  |
+| On treatment in NSR at 6 months without recurrencea | 45% | 29% |
+| Recurrencea,b | 49% | 67% |
 | D/C for AEs | 6% | 3% |
 | Death |  | 1% |
 
-Table 4 Study 2—Median Time to Recurrence of Symptomatic AFIB/AFL/Death and Relative Risk (vs.
+a Symptomatic or asymptomatic AFIB/AFL
+
+b Efficacy endpoint of Study 2; study treatment stopped
+
+Table 4 Study 2 - Median Time to Recurrence of Symptomatic AFIB/AFL/Death and Relative Risk (vs.
 Placebo) at 6 Months
 
-|  | Sotalol Hydrochloride (AF) | Placebo |
+| p-value vs placebo | Sotalol Hydrochloride (AF) | Placebo |
 | --- | --- | --- |
-| p-value vs placebo | p=0.002 |  |
+| p=0.002 |  |  |
 | Relative Risk (RR) to placebo | 0.55 |  |
 | Median time to recurrence (days) | >180 | 44 |
 
@@ -159,5 +167,5 @@ After rapid absorption with peak levels occurring on average between 2 to 3 hour
 Steady-state was reached after 1 to 2 days.
 The average peak to trough concentration ratio was 2.
 BSA was the most important covariate and more relevant than age for the pharmacokinetics of sotalol.
-The smallest children (BSA <0.33m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
+The smallest children (BSA<0.33 m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
 The intersubject variation for oral clearance was 22%.

@@ -3,7 +3,7 @@
 Adverse events that are clearly related to sotalol AF are those which are typical of its Class II (beta-blocking) and Class III (cardiac action potential duration prolongation) effects.
 The common documented beta-blocking adverse events (bradycardia, dyspnea, and fatigue) and Class III effects (QT interval prolongation) are dose related.
 
-In a pooled clinical trial population consisting of four placebo-controlled studies with 275 patients with AFIB/AFL treated with 160 to 320 mg doses of sotalol hydrochloride (AF), the following adverse events were reported at a rate of 2% or more in the 160-240 mg treated patients and greater than the rate in placebo patients (See Table 8).
+In a pooled clinical trial population consisting of four placebo-controlled studies with 275 patients with AFIB/AFL treated with 160 to 320 mg doses of sotalol hydrochloride (AF), the following adverse events were reported at a rate of 2% or more in the 160 to 240 mg treated patients and greater than the rate in placebo patients (see Table 8).
 The data are presented by incidence of events in the sotalol (AF) and placebo groups by body system and daily dose.
 No significant irreversible non-cardiac end-organ toxicity was observed.
 
@@ -54,7 +54,7 @@ The most common adverse events leading to discontinuation of sotalol hydrochlori
 In clinical trials involving 1292 patients with sustained VT/VF, the common adverse events (occurring in ≥2% of patients) were similar to those described for the AFIB/AFL population.
 
 Occasional reports of elevated serum liver enzymes have occurred with sotalol therapy but no cause and effect relationship has been established.
-One case of peripheral neuropathy which resolved on discontinuation of sotalol and recurred when the patient was rechallenged with the drug was reported in an early dose tolerance study.
+One case of peripheral neuropathy, which resolved on discontinuation of sotalol and recurred when the patient was rechallenged with the drug, was reported in an early dose tolerance study.
 Elevated blood glucose levels and increased insulin requirements can occur in diabetic patients.
 
 In an unblinded multicenter trial of 25 patients with SVT and/or VT receiving daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses, no Torsades de Pointes or other serious new arrhythmias were observed.

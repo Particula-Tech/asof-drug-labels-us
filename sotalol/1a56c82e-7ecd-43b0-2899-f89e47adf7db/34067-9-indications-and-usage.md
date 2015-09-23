@@ -5,7 +5,7 @@ Because sotalol hydrochloride tablets, USP (AF) can cause life-threatening ventr
 Patients with paroxysmal AFIB whose AFIB/AFL that is easily reversed (by Valsalva maneuver, for example) should usually not be given sotalol hydrochloride tablets, USP (AF) (see WARNINGS).
 
 In general, antiarrhythmic therapy for AFIB/AFL aims to prolong the time in normal sinus rhythm.
-Recurrence is expected in some patients (see Clinical Studies).
+Recurrence is expected in some patients (see CLINICAL STUDIES).
 
 Sotalol is also indicated for the treatment of documented life-threatening ventricular arrhythmias and is marketed under the brand name Betapace (sotalol hydrochloride).
-Sotalol hydrochloride tablets,however, must not be substituted for Betapace AF (sotalol hydrochloride tablets, USP (AF) becauseof significant differences in labeling (i.e. patient package insert, dosing administration and safetyinformation).
+Sotalol hydrochloride tablets, however, must not be substituted for Betapace AF (sotalol hydrochloride tablets, USP (AF) because of significant differences in labeling (i.e. patient package insert, dosing administration and safety information).
