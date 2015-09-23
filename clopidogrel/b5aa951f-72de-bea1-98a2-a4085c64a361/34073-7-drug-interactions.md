@@ -3,8 +3,7 @@
 ## 7.1 CYP2C19 Inhibitors
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of certain drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.inhibition.
-[see Warnings and Precautions (5.1) and Dosage and Administration (2.4)].
+Concomitant use of certain drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.inhibition [see Warnings and Precautions (5.1) and Dosage and Administration (2.4)].
 
 Proton Pump Inhibitors (PPI)
 

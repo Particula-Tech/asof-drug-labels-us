@@ -5,8 +5,8 @@
 Clopidogrel tablets can be administered with or without food [see Clinical Pharmacology (12.3)]
 
 - For patients with non-ST-elevation ACS (UA/NSTEMI), initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily.
-  Initiate aspirin (75-325 mg once daily) and continue in combination with clopidogrel tablets [see Clinical Studies (14.1)].
-- For patients with STEMI, the recommended dose of clopidogrel tablets is 75 mg once daily orally, administered in combination with aspirin (75-325 mg once daily), with or without thrombolytics.
+  Initiate aspirin (75 to 325 mg once daily) and continue in combination with clopidogrel tablets [see Clinical Studies (14.1)].
+- For patients with STEMI, the recommended dose of clopidogrel tablets is 75 mg once daily orally, administered in combination with aspirin (75 to 325 mg once daily), with or without thrombolytics.
   Clopidogrel tablets may be initiated with or without a loading dose [see Clinical Studies (14.1)].
 
 ## 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease

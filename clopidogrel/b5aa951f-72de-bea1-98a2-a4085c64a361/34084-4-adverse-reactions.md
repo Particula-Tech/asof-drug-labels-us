@@ -34,8 +34,8 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 | Requiring surgical intervention | 0.7 | 0.7 |
 | Hemorrhagic strokes | 0.1 | 0.1 |
 | Requiring inotropes | 0.5 | 0.5 |
-| Requiring transfusion (≥4 units) | 1.2 | 1.0 |
-| Other major bleeding | 1.6 | 1.0 |
+| Requiring transfusion (≥4 units) | 1.2 | 1 |
+| Other major bleeding | 1.6 | 1 |
 | Significantly disabling | 0.4 | 0.3 |
 | Intraocular bleeding with | 0.05 | 0.03 |
 | significant loss of vision |  |  |
@@ -46,11 +46,11 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 
 † Life threatening and other major bleeding.
 
-‡ Major bleeding event rate for clopidogrel + aspirin was dose-dependent on aspirin: <100 mg=2.6%; 100-200 mg= 3.5%; >200 mg=4.9%
+‡ Major bleeding event rate for clopidogrel + aspirin was dose-dependent on aspirin: <100 mg=2.6%; 100 to 200 mg= 3.5%; >200 mg=4.9%
 
 Major bleeding event rates for clopidogrel + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years 5.9%
 
-§ Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg=2%; 100-200 mg= 2.3%; >200 mg=4%
+§ Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg=2%; 100 to 200 mg= 2.3%; >200 mg=4%
 
 Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years 3.6%
 
@@ -108,5 +108,5 @@ Because these reactions are reported voluntarily from a population of an unknown
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders:: Maculopapular,erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus,generalized pruritus
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension
