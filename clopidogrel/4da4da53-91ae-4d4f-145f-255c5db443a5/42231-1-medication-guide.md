@@ -1,6 +1,8 @@
 Medication Guide
 
-Clopidogrel Tablets USP
+Clopidogrel Tablets, USP
+
+(kloe pid' oh grel)
 
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
@@ -72,7 +74,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if clopidogrel tablets will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
-  It is not known if clopidogrel tablets passes into your breast milk.
+  It is not known if clopidogrel passes into your breast milk.
   You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
   You should not do both without talking to your doctor
 - have had an allergy or reaction to any medicine used to treat your disease.
@@ -142,7 +144,7 @@ Clopidogrel tablets can cause serious side effects including:
 - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
+Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -191,9 +193,10 @@ Jantoven® is a registered trademark of USL Pharma.
 
 RX only
 
-Manufactured by:Dr.
-Reddy’s Laboratories Limited
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0115
+Revised: 0815

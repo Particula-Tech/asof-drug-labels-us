@@ -16,7 +16,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric populations have not been established.
+Safety and effectiveness in pediatric populations have not been established.
 
 A randomized, placebo-controlled trial (CLARINET) did not demonstrate a clinical benefit of clopidogrel in neonates and infants with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt.
 Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin and the late initiation of therapy following shunt palliation.
