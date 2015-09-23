@@ -39,7 +39,7 @@ Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metasta
 | RESPIRATORY Dyspnea ↑ Coughing Rhinitis | 221716 | 400 |
 | NEUROLOGIC Insomnia Dizziness | 1915 | 00 |
 | CARDIOVASCULAR Vasodilation (flushing) | 11 | 0 |
-| a Severity of adverse events based on NCI CTC (version 1.0)b Occurring >24 hours after administration of Irinotecan Hydrochloride Injection, USPc Occurring ≤24 hours after administration of Irinotecan Hydrochloride Injection, USPd Primarily upper respiratory infectionse Not applicable; complete hair loss = NCI grade 2 |  |  |
+| a Severity of adverse events based on NCI CTC (version 1.0) b Occurring >24 hours after administration of Irinotecan Hydrochloride Injection, USP c Occurring ≤24 hours after administration of Irinotecan Hydrochloride Injection, USP d Primarily upper respiratory infections e Not applicable; complete hair loss = NCI grade 2 |  |  |
 
 Once-Every-3-Week Dosage Schedule
 
@@ -57,20 +57,20 @@ Table 4 lists the grade 3 and 4 adverse events reported in the patients enrolled
 Table 4.
 Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan Therapya
 
-| Adverse Event | Study 1 |  | Study 2 |  |
-| --- | --- | --- | --- | --- |
-| Irinotecan N = 189 | BSCb N = 90 | Irinotecan N = 127 | 5-FU N = 129 |  |
-| TOTAL Grade 3/4 Adverse Events | 79 | 67 | 69 | 54 |
-| GASTROINTESTINAL Diarrhea Vomiting Nausea Abdominal pain Constipation Anorexia Mucositis | 221414141052 | 68316871 | 2214119862 | 11548645 |
-| HEMATOLOGIC Leukopenia/Neutropenia Anemia Hemorrhage Thrombocytopenia Infection without grade 3/4 neutropenia with grade 3/4 neutropenia Fever without grade 3/4 neutropenia with grade 3/4 neutropenia | 22751 81 22 | 0630 30 10 | 14614 12 24 | 2332 40 02 |
-| BODY AS A WHOLE Pain Asthenia | 1915 | 2219 | 1713 | 1312 |
-| METABOLIC AND NUTRITIONAL Hepaticc | 9 | 7 | 9 | 6 |
-| DERMATOLOGIC Hand and foot syndrome Cutaneous signsd | 02 | 00 | 01 | 53 |
-| RESPIRATORYe | 10 | 8 | 5 | 7 |
-| NEUROLOGICf | 12 | 13 | 9 | 4 |
-| CARDIOVASCULARg | 9 | 3 | 4 | 2 |
-| OTHERh | 32 | 28 | 12 | 14 |
-| a Severity of adverse events based on NCI CTC (version 1.0)b BSC = best supportive carec Hepatic includes events such as ascites and jaundiced Cutaneous signs include events such as rashe Respiratory includes events such as dyspnea and coughf Neurologic includes events such as somnolenceg Cardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunctionh Other includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss |  |  |  |  |
+| Adverse Event | Study 1 |  | Study 2 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Irinotecan N = 189 | BSCb N = 90 | Irinotecan N = 127 | 5-FU N = 129 |  |  |  |  |
+| TOTAL Grade 3/4 Adverse Events | 79 | 67 | 69 | 54 |  |  |  |
+| GASTROINTESTINAL Diarrhea Vomiting Nausea Abdominal pain Constipation Anorexia Mucositis | 221414141052 | 68316871 | 2214119862 | 11548645 |  |  |  |
+| HEMATOLOGIC Leukopenia/Neutropenia Anemia Hemorrhage Thrombocytopenia Infection without grade 3/4 neutropenia with grade 3/4 neutropenia Fever without grade 3/4 neutropenia with grade 3/4 neutropenia | 22751 81 22 | 0630 30 10 | 14614 12 24 | 2332 40 02 |  |  |  |
+| BODY AS A WHOLE Pain Asthenia | 1915 | 2219 | 1713 | 1312 |  |  |  |
+| METABOLIC AND NUTRITIONAL Hepaticc | 9 | 7 | 9 | 6 |  |  |  |
+| DERMATOLOGIC Hand and foot syndrome Cutaneous signsd | 02 | 00 | 01 | 53 |  |  |  |
+| RESPIRATORYe | 10 | 8 | 5 | 7 |  |  |  |
+| NEUROLOGICf | 12 | 13 | 9 | 4 |  |  |  |
+| CARDIOVASCULARg | 9 | 3 | 4 | 2 |  |  |  |
+| OTHERh | 32 | 28 | 12 | 14 |  |  |  |
+| a Severity of adverse events based on NCI CTC (version 1.0) b BSC = best supportive care c Hepatic includes events such as ascites and jaundice d Cutaneous signs include events such as rash e Respiratory includes events such as dyspnea and cough f Neurologic includes events such as somnolence g Cardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunction h Other includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss |  |  |  |  |  |  |  |
 
 The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as Irinotecan Hydrochloride Injection, USP than when these drugs were given on separate days (1.3%, 1/80 patients).
 The 8.5% incidence of akathisia, however, is within the range reported for use of prochlorperazine when given as a premedication for other chemotherapies.

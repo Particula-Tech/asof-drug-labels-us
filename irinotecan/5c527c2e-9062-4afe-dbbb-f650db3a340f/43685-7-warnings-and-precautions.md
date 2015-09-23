@@ -52,6 +52,11 @@ No grade 4 neutropenia was observed in patients homozygous for the wild-type all
 When administered as a single-agent, a reduction in the starting dose by at least one level of Irinotecan Hydrochloride Injection, USP should be considered for patients known to be homozygous for the UGT1A1*28 allele.
 However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment [see Dosage and Administration (2)].
 
+UGT1A1 Testing
+
+A laboratory test is available to determine the UGT1A1 status of patients.
+Testing can detect the UGT1A1 6/6, 6/7 and 7/7 genotypes.
+
 ## 5.4 Hypersensitivity
 
 Hypersensitivity reactions including severe anaphylactic or anaphylactoid reactions have been observed.
@@ -79,11 +84,12 @@ Irinotecan Hydrochloride Injection, USP should be used as recommended [see Dosag
 
 In the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
-## 5.9 Pregnancy
+## 5.9 Embryofetal Toxicity
 
 Irinotecan Hydrochloride Injection, USP can cause fetal harm when administered to a pregnant woman.
 Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m2 basis.
-In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m2 dose).There are no adequate and well-controlled studies of irinotecan in pregnant women.
+In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m2 dose).
+There are no adequate and well-controlled studies of irinotecan in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with Irinotecan Hydrochloride Injection, USP.
 
