@@ -3,7 +3,7 @@
 The use of lamivudine tablets is based on the results of clinical trials in HIV-1-infected subjects in combination regimens with other antiretroviral agents.
 Information from trials with clinical endpoints or a combination of CD4+ cell counts and HIV-1 RNA measurements is included below as documentation of the contribution of lamivudine to a combination regimen in controlled trials.
 
-## 14.1 Adult Subjects
+## 14.1 Adults Subjects
 
 Clinical Endpoint Trial NUCB3007 (CAESAR) was a multi-center, double-blind, placebo-controlled trial comparing continued current therapy (zidovudine alone [62% of subjects] or zidovudine with didanosine or zalcitabine [38% of subjects]) to the addition of lamivudine or lamivudine plus an investigational non-nucleoside reverse transcriptase inhibitor (NNRTI), randomized 1:2:1.
 A total of 1,816 HIV-1-infected adults with 25 to 250 CD4+ cells per mm3 (median = 122 cells per mm3) at baseline were enrolled: median age was 36 years, 87% were male, 84% were nucleoside-experienced, and 16% were therapy-naive.

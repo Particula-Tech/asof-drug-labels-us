@@ -7,7 +7,7 @@ Lactic Acidosis/Hepatomegaly Inform patients that some HIV medicines, including 
 HIV-1/HBV Co-infection Inform patients co-infected with HIV-1 and HBV that deterioration of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
 Advise patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.2)].
 
-Differences in Formulations of Lamivudine Advise patients that lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) as EPIVIR-HBV® Tablets.
+Differences in Formulations of Lamivudine Advise patients that lamivudine tablets contain a higher dose of the same active ingredient (lamivudine) as EPIVIR-HBV® tablets and oral solution.
 If a decision is made to include lamivudine in the HIV-1 treatment regimen of a patient co-infected with HIV-1 and HBV, the formulation and dosage of lamivudine in lamivudine tablets (not EPIVIR-HBV®) should be used [see Warnings and Precautions (5.2)].
 
 Use with Other Lamivudine- and Emtricitabine-containing Products Lamivudine tablets should not be coadministered with drugs containing lamivudine or emtricitabine, including COMBIVIR® (lamivudine/zidovudine) tablets, EPZICOM® (abacavir sulfate and lamivudine) tablets, TRIUMEQ® (dolutegravir, abacavair, lamivudine), TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), STRIBILD® (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), TRUVADA® (emtricitabine and tenofovir), or COMPLERA® (rilpivirine/emtricitabine/tenofovir) [see Warnings and Precautions (5.3)].
@@ -48,6 +48,6 @@ APOTEX INC. LAMIVUDINE TABLETS 150 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: July 2015
+Revised: September 2015
 
-Revision: 6
+Revision: 7

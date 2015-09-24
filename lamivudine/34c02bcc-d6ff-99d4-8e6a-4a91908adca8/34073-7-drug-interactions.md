@@ -18,6 +18,6 @@ Therefore, use of lamivudine in combination with zalcitabine is not recommended.
 No change in dose of either drug is recommended.
 There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used to treat PCP.
 
-## 7.4 Drugs with No Observed Interactions with Lamivudine Tablets
+## 7.4 Drugs with No Observed Interactions with Lamivudine
 
 A drug interaction trial showed no clinically significant interaction between lamivudine and zidovudine.

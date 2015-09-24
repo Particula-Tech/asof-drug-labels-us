@@ -8,6 +8,8 @@
 
 ## 2.2 Pediatric Patients
 
+The recommended oral dose of lamivudine oral solution in HIV-1-infected pediatric patients aged 3 months and older is 4 mg per kg twice daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents.
+
 Lamivudine is also available as a scored tablet for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 Before prescribing lamivudine tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow lamivudine tablets, the oral solution formulation should be prescribed.

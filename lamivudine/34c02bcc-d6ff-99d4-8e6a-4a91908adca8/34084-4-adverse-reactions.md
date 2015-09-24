@@ -60,7 +60,7 @@ Selected laboratory abnormalities observed during therapy are summarized in Tabl
 Table 4.
 Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Adults in Four 24-Week Surrogate Endpoint Trials (NUCA3001, NUCA3002, NUCB3001, NUCB3002) and a Clinical Endpoint Trial (NUCB3007)
 
-|  | 24-Week Surrogate Endpoint Trialsa |  | Clinical Endpoint Trialsa |  |
+|  | 24-Week Surrogate Endpoint Trialsa |  | Clinical Endpoint Triala |  |
 | --- | --- | --- | --- | --- |
 | Test (Threshold Level) | Lamivudine plus RETROVIR | RETROVIRb | Lamivudine plus Current Therapy | Placebo plus Current Therapyc |
 | Absolute neutrophil count (<750/mm3) | 7.2% | 5.4% | 15% | 13% |
@@ -84,6 +84,8 @@ ND = Not done.
 The frequencies of selected laboratory abnormalities reported in subjects receiving lamivudine 300 mg once daily or lamivudine 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) were similar.
 
 ## 6.2 Clinical Trials Experience in Pediatric Subjects
+
+Lamivudine oral solution has been studied in 638 pediatric subjects aged 3 months to 18 years in 3 clinical trials.
 
 Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with lamivudine 4 mg per kg twice daily plus RETROVIR160 mg per m2 3 times daily in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 

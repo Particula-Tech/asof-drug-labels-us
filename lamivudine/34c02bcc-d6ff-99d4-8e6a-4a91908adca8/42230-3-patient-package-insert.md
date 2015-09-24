@@ -196,4 +196,4 @@ APOTEX INC. LAMIVUDINE TABLETS 150 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: July 2015
+Revised: September 2015
