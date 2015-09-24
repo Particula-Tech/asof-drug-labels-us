@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040491"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-506-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexamethasone sodium phosphate",
+      "name": "Dexamethasone Sodium Phosphate"
+    }
+  ],
+  "setid": "7cbd9005-7df2-47ee-adb3-7244c1c69bc3",
+  "source": "dailymed"
+}
