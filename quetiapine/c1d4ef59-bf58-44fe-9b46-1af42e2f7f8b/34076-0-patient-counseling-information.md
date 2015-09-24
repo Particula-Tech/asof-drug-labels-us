@@ -84,9 +84,11 @@ TEVA CZECH INDUSTRIES, s.r.o.
 
 Opava-Komarov, Czech Republic
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC.
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA, INC.
 
 North Wales, PA 19454
 
 Rev.
-E 10/2014
+F 7/2015

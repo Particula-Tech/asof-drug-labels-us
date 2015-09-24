@@ -1,95 +1,95 @@
 # Package/Label Display Panel
 
-## Quetiapine Fumarate Tablets 25 mg 100s Label Text
+## Quetiapine Tablets USP 25mg 100s Label Text
 
 NDC 0093-2063-01
 
-QUETIAPINE FUMARATE Tablets 25 mg*
+Quetiapine Tablets USP 25 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+100TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Quetiapine Fumarate Tablets 50 mg 100s Label Text
+## Quetiapine Tablets USP 50 mg 100s Label Text
 
 NDC 0093-8166-01
 
-QUETIAPINE FUMARATE Tablets 50 mg*
+Quetiapine Tablets USP 50 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+100TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Quetiapine Fumarate Tablets 100 mg 100s Label Text
+## Quetiapine Tablets USP 100 mg 100s Label Text
 
 NDC 0093-8162-01
 
-QUETIAPINE FUMARATE Tablets 100 mg*
+Quetiapine Tablets USP 100 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+100TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Quetiapine Fumarate Tablets 200 mg 100s Label Text
+## Quetiapine Tablets USP 200 mg 100s Label Text
 
 NDC 0093-8163-01
 
-QUETIAPINE FUMARATE Tablets 200 mg*
+Quetiapine Tablets USP 200 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+100TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Quetiapine Fumarate Tablets 300 mg 100s Label Text
+## Quetiapine Tablets USP 300 mg 100s Label Text
 
 NDC 0093-8164-01
 
-QUETIAPINE FUMARATE Tablets 300 mg*
+Quetiapine Tablets USP 300 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+100TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Quetiapine Fumarate Tablets 400 mg 100s Label Text
+## Quetiapine Tablets USP 400 mg 100s Label Text
 
 NDC 0093-8165-01
 
-QUETIAPINE FUMARATE Tablets 400 mg*
+Quetiapine Tablets USP 400 mg*
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+100TABLETS
 
 TEVA
