@@ -143,10 +143,10 @@ Inactive ingredients: mannitol and sodium citrate.
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT™
+SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2014 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2015 Sagent Pharmaceuticals, Inc.
 
-Revised: February 2014
+Revised: September 2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
