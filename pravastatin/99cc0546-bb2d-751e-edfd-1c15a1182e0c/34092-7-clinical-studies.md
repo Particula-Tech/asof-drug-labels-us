@@ -16,6 +16,50 @@ Cardiovascular deaths were decreased by 32% (73 vs 50, p=0.03) and there was no 
 
 ## 14.2 Secondary Prevention of Cardiovascular Events
 
+In the LIPID4 study, the effect of pravastatin sodium, 40 mg daily, was assessed in 9014 patients (7498 men; 1516 women; 3514 elderly patients [age ≥65 years]; 782 diabetic patients) who had experienced either an MI (5754 patients) or had been hospitalized for unstable angina pectoris (3260 patients) in the preceding 3 to 36 months.
+Patients in this multicenter, double-blind, placebo-controlled study participated for an average of 5.6 years (median of 5.9 years) and at randomization had Total-C between 114 and 563 mg/dL (mean 219 mg/dL), LDL-C between 46 and 274 mg/dL (mean 150 mg/dL), TG between 35 and 2710 mg/dL (mean 160 mg/dL), and HDL-C between 1 and 103 mg/dL (mean 37 mg/dL).
+At baseline, 82% of patients were receiving aspirin and 76% were receiving antihypertensive medication.
+Treatment with pravastatin sodium significantly reduced the risk for total mortality by reducing coronary death (see Table 5).
+The risk reduction due to treatment with pravastatin sodium on CHD mortality was consistent regardless of age.
+Pravastatin sodium significantly reduced the risk for total mortality (by reducing CHD death) and CHD events (CHD mortality or nonfatal MI) in patients who qualified with a history of either MI or hospitalization for unstable angina pectoris.
+
+Table 5: LIPID - Primary and Secondary Endpoints
+
+|  | Number (%) of Subjects |  |  |  |
+| --- | --- | --- | --- | --- |
+| Event | Pravastatin 40 mg(N=4512) | Placebo(N=4502) | Risk Reduction | p-value |
+| Primary Endpoint |  |  |  |  |
+| CHD mortality | 287 (6.4) | 373 (8.3) | 24% | 0.0004 |
+| Secondary Endpoints |  |  |  |  |
+| Total mortality | 498 (11) | 633 (14.1) | 23% | <0.0001 |
+| CHD mortality or nonfatal MI | 557 (12.3) | 715 (15.9) | 24% | <0.0001 |
+| Myocardial revascularization procedures (CABG or PTCA) | 584 (12.9) | 706 (15.7) | 20% | <0.0001 |
+| Stroke |  |  |  |  |
+| All-cause | 169 (3.7) | 204 (4.5) | 19% | 0.0477 |
+| Non-hemorrhagic | 154 (3.4) | 196 (4.4) | 23% | 0.0154 |
+| Cardiovascular mortality | 331 (7.3) | 433 (9.6) | 25% | <0.0001 |
+
+In the CARE 5 study, the effect of pravasatatin sodium, 40 mg daily, on CHD death and nonfatal MI was assessed in 4159 patients (3583 men and 576 women) who had experienced a MI in the preceding 3 to 20 months and who had normal (below the 75th percentile of the general population) plasma total cholesterol levels.
+Patients in this double-blind, placebo-controlled study participated for an average of 4.9 years and had a mean baseline Total-C of 209 mg/dL.
+
+LDL-C levels in this patient population ranged from 101 to 180 mg/dL (mean 139 mg/dL).
+At baseline, 84% of patients were receiving aspirin and 82% were taking antihypertensive medications.
+Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were −22.0 (−28.4, −14.9), −32.4(−39.9, −23.7), −11.0 (−26.5, 8.6), and 5.1 (−2.9, 12.7), respectively.
+Treatment with pravastatin sodium significantly reduced the rate of first recurrent coronary events (either CHD death or nonfatal MI), the risk of undergoing revascularization procedures (PTCA, CABG), and the risk for stroke or TIA (see Table 6).
+
+Table 6: CARE - Primary and Secondary Endpoints
+
+|  | Number (%) of Subjects |  |  |  |
+| --- | --- | --- | --- | --- |
+| Event | Pravastatin 40 mg(N=2081) | Placebo(N=2078) | Risk Reduction | p-value |
+| Primary Endpoint |  |  |  |  |
+| CHD mortality or nonfatal MIa | 212 (10.2) | 274 (13.2) | 24% | 0.003 |
+| Secondary Endpoints |  |  |  |  |
+| Myocardial revascularization procedures (CABG or PTCA) | 294 (14.1) | 391 (18.8) | 27% | <0.001 |
+| Stroke or TIA | 93 (4.5) | 124 (6) | 26% | 0.029 |
+
+a The risk reduction due to treatment with pravastatin sodium was consistent in both sexes.
+
 In the PLAC I6 study, the effect of pravastatin therapy on coronary atherosclerosis was assessed by coronary angiography in patients with coronary disease and moderate hypercholesterolemia (baseline LDL-C range: 130 to 190 mg/dL).
 In this double-blind, multicenter, controlled clinical trial, angiograms were evaluated at baseline and at 3 years in 264 patients.
 Although the difference between pravastatin and placebo for the primary endpoint (per-patient change in meancoronary artery diameter) and 1 of 2 secondary endpoints (change in percent lumen diameter stenosis) did not reach statistical significance, for the secondary endpoint of change in minimum lumen diameter, statistically significant slowing of disease was seen in the pravastatin treatment group (p=0.02).
@@ -65,7 +109,7 @@ Furthermore, pravastatin attenuated cholestyramine-induced increases in TG level
 
 ## 14.4 Hypertriglyceridemia (Fredrickson Type IV)
 
-The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG >200 mg/dL and LDL-C <160 mg/dL) was evaluated in a subset of 429 patients.
+The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG >200 mg/dL and LDL-C <160 mg/dL) was evaluated in a subset of 429 patients from the CARE study.
 For pravastatin-treated subjects, the median (min, max) baseline TG level was 246 (200.5, 349.5) mg/dL (see Table 8.)
 
 Table 8:Patients with Fredrickson Type IV Hyperlipidemia Median (25th, 75th percentile) % Change from Baseline
