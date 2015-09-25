@@ -1,6 +1,6 @@
 Opioid Antagonist
 
-Rx only
+Rx Only
 
 # PHARMACOKINETICS
 
@@ -41,9 +41,9 @@ Septic Shock: The optimal dosage of naloxone hydrochloride or duration of therap
 # USAGE IN CHILDREN
 
 Opioid Overdose – Known or Suspected.
-The usual initial dose in children is 0.01 mg/kg body weight given I.V.
+The usual initial dose in children is 0.01 mg/kg body weight given intravenously.
 If this dose does not result in the desired degree of clinical improvement, a subsequent dose of 0.1 mg/kg body weight may be administered.
-If an I.V. route of administration is not available, naloxone may be administered I.M. or S.C. in divided doses.
+If an intravenous route of administration is not available, naloxone may be administered intramuscularly or subcutaneously in divided doses.
 If necessary, naloxone hydrochloride injection can be diluted with sterile water for injection.
 
 Postoperative Opioid Depression.
@@ -53,5 +53,5 @@ For the initial reversal of respiratory depression naloxone hydrochloride should
 # USAGE IN NEONATES
 
 Opioid-Induced Depression.
-The usual initial dose is 0.01 mg/kg body weight administered I.V., I.M. or S.C.
+The usual initial dose is 0.01 mg/kg body weight administered intravenously, intramuscularly or subcutaneously.
 This dose may be repeated in accordance with adult administration guidelines for postoperative opioid depression.
