@@ -17,7 +17,7 @@ BYSTOLIC tablets are supplied in the following strengths and package configurati
 | Bottle of 100 | 0456-1405-01 |  |  |
 | 10 x 10 Unit Dose | 0456-1405-63 |  |  |
 | 10 mg | Bottle of 30 | 0456-1410-30 | Pinkish-Purple |
-| Bottle of 90 | 0456-1405-90 |  |  |
+| Bottle of 90 | 0456-1410-90 |  |  |
 | Bottle of 100 | 0456-1410-01 |  |  |
 | 10 x 10 Unit Dose | 0456-1410-63 |  |  |
 | 20 mg | Bottle of 30 | 0456-1420-30 | Light Blue |
