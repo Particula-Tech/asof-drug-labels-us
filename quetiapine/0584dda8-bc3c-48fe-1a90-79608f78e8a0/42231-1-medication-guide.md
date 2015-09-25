@@ -4,7 +4,7 @@ Medication Guide
 
 SEROQUEL (SER-oh-kwell)
 
-(quetiapinefumarate)
+(quetiapine fumarate)
 
 Tablets
 
@@ -16,23 +16,23 @@ What is the most important information I should know about SEROQUEL?
 
 SEROQUEL may cause serious side effects, including:
 
-1. 1.risk of death in the elderly with dementia.
-   Medicines like SEROQUEL can increase the risk of death in elderly people who have memory loss (dementia).
-   SEROQUEL is not for treating psychosis in the elderly with dementia.
-2. 2.risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
+- 1.risk of death in the elderly with dementia.
+  Medicines like SEROQUEL can increase the risk of death in elderly people who have memory loss (dementia).
+  SEROQUEL is not for treating psychosis in the elderly with dementia.
+- 2.risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
 
 - •Talk to your or your family member’s healthcare provider about:
-  - ∘all risks and benefits of treatment with antidepressant medicines.
-  - ∘all treatment choices for depression or other serious mental illness
+  - all risks and benefits of treatment with antidepressant medicines.
+  - all treatment choices for depression or other serious mental illness
 - •Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
 - •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - ∘Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
     This is very important when an antidepressant medicine is started or when the dose is changed.
-  - ∘Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - ∘Keep all follow-up visits with the healthcare provider as scheduled.
+  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  - Keep all follow-up visits with the healthcare provider as scheduled.
     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -72,9 +72,9 @@ SEROQUEL is a prescription medicine used to treat:
 
 - •schizophrenia in people 13 years of age or older
 - •bipolar disorder in adults, including:
-  - ∘depressive episodes associated with bipolar disorder
-  - ∘manic episodes associated with bipolar I disorder alone or with lithium or divalproex
-  - ∘long-term treatment of bipolar I disorder with lithium or divalproex
+  - depressive episodes associated with bipolar disorder
+  - manic episodes associated with bipolar I disorder alone or with lithium or divalproex
+  - long-term treatment of bipolar I disorder with lithium or divalproex
 - •manic episodes associated with bipolar I disorder in children ages 10 to 17 years old
 
 It is not known if SEROQUEL is safe and effective in children under 10 years of age.
@@ -128,11 +128,11 @@ What should I avoid while taking SEROQUEL?
 - •Do not drive, operate machinery, or do other dangerous activities until you know how SEROQUEL affects you.
   SEROQUEL may make you drowsy.
 - •Avoid getting overheated or dehydrated.
-  - ∘Do not over-exercise.
-  - ∘In hot weather, stay inside in a cool place if possible.
-  - ∘Stay out of the sun.
+  - Do not over-exercise.
+  - In hot weather, stay inside in a cool place if possible.
+  - Stay out of the sun.
     Do not wear too much or heavy clothing.
-  - ∘Drink plenty of water.
+  - Drink plenty of water.
 - •Do not drink alcohol while taking SEROQUEL.
   It may make some side effects of SEROQUEL worse.
 
@@ -146,33 +146,34 @@ SEROQUEL can cause serious side effects, including:
   NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including SEROQUEL.
   NMS can cause death and must be treated in a hospital.
   Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
-  - ∘high fever
-  - ∘excessive sweating
-  - ∘rigid muscles
-  - ∘confusion
-  - ∘changes in your breathing, heartbeat, and blood pressure
+  - high fever
+  - excessive sweating
+  - rigid muscles
+  - confusion
+  - changes in your breathing, heartbeat, and blood pressure
 - •high blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
   High blood sugar could lead to:
-  - ∘build up of acid in your blood due to ketones (ketoacidosis)
-  - ∘coma
-  - ∘deathIncreases in blood sugar can happen in some people who take SEROQUEL.
-    Extremely high blood sugar can lead to coma or death.
-    If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start SEROQUEL and during therapy.Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking SEROQUEL:
-- 
-  - ∘feel very thirsty
-  - ∘need to urinate more than usual
-  - ∘feel very hungry
-  - ∘feel weak or tired
-  - ∘feel sick to your stomach
-  - ∘feel confused, or your breath smells fruity
+  - build up of acid in your blood due to ketones (ketoacidosis)
+  - coma
+  - death
+- Increases in blood sugar can happen in some people who take SEROQUEL.
+  Extremely high blood sugar can lead to coma or death.
+  If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start SEROQUEL and during therapy.
+- Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking SEROQUEL:
+  1. feel very thirsty
+  2. need to urinate more than usual
+  3. feel very hungry
+  4. feel weak or tired
+  5. feel sick to your stomach
+  6. feel confused, or your breath smells fruity
 - •high fat levels in your blood (increased cholesterol and triglycerides).
   High fat levels may happen in people treated with SEROQUEL.
   You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with SEROQUEL.
 - •increase in weight (weight gain).
   Weight gain is common in people who take SEROQUEL so you and your healthcare provider should check your weight regularly.
   Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
-- •movements you cannot control in your face, tongue, or other body parts (tardivedyskinesia).
+- •movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking SEROQUEL.
   Tardive dyskinesia may also start after you stop taking SEROQUEL.
@@ -190,7 +191,8 @@ SEROQUEL can cause serious side effects, including:
 - •increased body temperature
 - •difficulty swallowing
 - •trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking SEROQUEL.
-  These symptoms usually get better 1 week after you start having them.The most common side effects of SEROQUEL include:
+  These symptoms usually get better 1 week after you start having them.
+- The most common side effects of SEROQUEL include:
 
 In Adults:
 
