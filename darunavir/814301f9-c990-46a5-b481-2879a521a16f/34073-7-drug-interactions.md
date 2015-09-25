@@ -2,27 +2,22 @@
 
 See also Contraindications (4) and Clinical Pharmacology (12.3).
 
-## 7.1 Potential for PREZISTA/Cobicistat or PREZISTA/Ritonavir to Affect Other Drugs
+## 7.1 Potential for PREZISTA/ritonavir to Affect Other Drugs
 
-PREZISTA co-administered with cobicistat or ritonavir is an inhibitor of CYP3A, CYP2D6, and P-gp.
-Co-administration of PREZISTA and cobicistat or ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6, or are transported by P-gp may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 11).
+PREZISTA co-administered with ritonavir is an inhibitor of CYP3A, CYP2D6, and P-gp.
+Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6, or are transported by P-gp may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 11).
 
 ## 7.2 Potential for Other Drugs to Affect Darunavir
 
-Darunavir, cobicistat and ritonavir are metabolized by CYP3A.
+Darunavir and ritonavir are metabolized by CYP3A.
 In vitro data indicate that darunavir may be a P-gp substrate.
-Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir, cobicistat and ritonavir, resulting in lowered plasma concentrations of darunavir and cobicistat or ritonavir.
-Co-administration of darunavir and cobicistat or ritonavir and other drugs that inhibit CYP3A, or P-gp may decrease the clearance of darunavir and cobicistat or ritonavir and may result in increased plasma concentrations of darunavir, cobicistat or ritonavir (see Table 11).
+Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and ritonavir, resulting in lowered plasma concentrations of darunavir and ritonavir.
+Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A, or P-gp may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir (see Table 11).
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
 Table 11 provides dosing recommendations as a result of drug interactions with PREZISTA/ritonavir.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
-
-Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain cobicistat interactions.
-Cobicistat and ritonavir when administered with darunavir may result in different drug interactions when used with concomitant medications.
-For information on cobicistat, please consult the cobicistat U.S. prescribing information.
-No interaction studies have been performed with darunavir/cobicistat.
 
 Table 11: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 14 and 15]
 
@@ -39,9 +34,9 @@ Table 11: Established and Other Potentially Significant Drug Interactions: Alter
 | Other Agents |  |  |
 | Antiarrhythmics: e.g. amiodarone, bepridil, disopyramide, flecainide, lidocaine (systemic), mexiletine, propafenone, quinidine, | ↑ antiarrhythmics | Therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when co-administered with PREZISTA/ritonavir. |
 | digoxin | ↑ digoxin | The lowest dose of digoxin should initially be prescribed. The serum digoxin concentrations should be monitored and used for titration of digoxin dose to obtain the desired clinical effect. |
-| Antibacterial: clarithromycin | ↔ darunavir ↑ clarithromycin | No dose adjustment of the combination is required for patients with normal renal function. For co-administration of clarithromycin and PREZISTA/ritonavir in patients with renal impairment, the following dose adjustments should be considered: For subjects with CLcr of 30–60 mL/min, the dose of clarithromycin should be reduced by 50%.For subjects with CLcr of <30 mL/min, the dose of clarithromycin should be reduced by 75%. |
+| Antibacterial: clarithromycin | ↔ darunavir ↑ clarithromycin | No dose adjustment of the combination is required for patients with normal renal function. For co-administration of clarithromycin and PREZISTA/ritonavir in patients with renal impairment, the following dose adjustments should be considered: For subjects with CLcr of 30–60 mL/min, the dose of clarithromycin should be reduced by 50%.For subjects with CLcr of < 30 mL/min, the dose of clarithromycin should be reduced by 75%. |
 | Anticoagulant: apixaban, dabigatran etexilate, | ↑ anticoagulant | Concomitant use of apixaban and PREZISTA/ritonavir is not recommended. |
-|  |  | The combination of PREZISTA/ritonavir and dabigatran etexilate is not recommended in specific renal impairment groups, depending on the indication. Please see the dabigatran U.S. prescribing information for specific recommendations. |
+|  |  | The combination of PREZISTA/ritonavir and dabigatran etexilate is not recommended in specific renal impairment groups, depending on the indication. Please see the dabigatran US prescribing information for specific recommendations. |
 | rivaroxaban |  | Co-administration of PREZISTA/ritonavir and rivaroxaban is not recommended. |
 |  | ↓ warfarin |  |
 | warfarin | ↔ darunavir | Warfarin concentrations are decreased when co-administered with PREZISTA/ritonavir. It is recommended that the international normalized ratio (INR) be monitored when warfarin is combined with PREZISTA/ritonavir. |
@@ -49,7 +44,7 @@ Table 11: Established and Other Potentially Significant Drug Interactions: Alter
 | Anticonvulsant: phenobarbital, phenytoin | ↔ darunavir ↓ phenytoin ↓ phenobarbital | Phenytoin and phenobarbital levels should be monitored when co-administering with PREZISTA/ritonavir. |
 | Antidepressant: Selective Serotonin Reuptake Inhibitors (SSRIs): paroxetine, sertraline | ↓ paroxetine ↓ sertraline | If either sertraline or paroxetine is initiated in patients receiving PREZISTA/ritonavir, dose titrating the SSRI based on a clinical assessment of antidepressant response is recommended. Monitor for antidepressant response in patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA/ritonavir. |
 | Tricyclic Antidepressants (TCAs): amitriptyline, desipramine imipramine, nortriptyline | ↑ amitriptyline ↑ desipramine ↑ imipramine ↑ nortriptyline | Use a lower dose of the tricyclic antidepressants and trazodone due to potential increased adverse events such as nausea, dizziness, hypotension and syncope. |
-| Other: trazodone | ↑trazodone |  |
+| Other: trazodone | ↑ trazodone |  |
 | Antifungals: itraconazole, ketoconazole, posaconazole voriconazole | ↑ darunavir ↑ itraconazole (not studied) ↑ ketoconazole ↔ posaconazole (not studied) | Monitor for increased PREZISTA/ritonavir adverse events with concomitant use of itraconazole, ketoconazole, or posaconazole. When co-administration is required, the daily dose of ketoconazole or itraconazole should not exceed 200 mg with monitoring for increased antifungal adverse events. |
 |  | ↓ voriconazole (not studied) | Voriconazole is not recommended for patients receiving darunavir/ritonavir unless an assessment comparing predicted benefit to risk ratio justifies the use of voriconazole. |
 | Anti-gout: colchicine | ↑ colchicine | Treatment of gout-flares – co-administration of colchicine in patients on PREZISTA/ritonavir: 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days. Prophylaxis of gout-flares – co-administration of colchicine in patients on PREZISTA/ritonavir: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever – co-administration of colchicine in patients on PREZISTA/ritonavir: maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). Co-administration of PREZISTA/ritonavir with colchicine in patients with renal or hepatic impairment is CONTRAINDICATED. |
@@ -57,9 +52,9 @@ Table 11: Established and Other Potentially Significant Drug Interactions: Alter
 | Antimycobacterial: rifabutin | ↑ darunavir ↑ rifabutin ↑ 25-O-desacetylrifabutin | Dose reduction of rifabutin by at least 75% of the usual dose (300 mg once daily) is recommended (i.e., a maximum dose of 150 mg every other day). Increased monitoring for adverse events is warranted in patients receiving this combination and further dose reduction of rifabutin may be necessary. |
 | The reference regimen for rifabutin was 300 mg once daily |  |  |
 | rifapentine | ↓ darunavir | Co-administration of PREZISTA/ritonavir with rifapentine is not recommended. |
-| Antineoplastics: dasatinib nilotinib vinblastine vincristine | ↑Antineoplastics | A decrease in the dosage or an adjustment of the dosing interval of dasatinib and nilotinib may be necessary for patients. Please refer to the dasatinib and nilotinib U.S. prescribing information for dosing instructions. |
+| Antineoplastics: dasatinib nilotinib vinblastine vincristine | ↑Antineoplastics | A decrease in the dosage or an adjustment of the dosing interval of dasatinib and nilotinib may be necessary for patients. Please refer to the dasatinib and nilotinib prescribing information for dosing instructions. |
 |  |  | For vincristine and vinblastine, consideration should be given to temporarily withholding the ritonavir-containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when PREZISTA/ritonavir is administered concurrently with vincristine or vinblastine. If the antiretroviral regimen must be withheld for a prolonged period, consideration should be given to initiating a revised regimen that does not include a CYP3A or P-gp inhibitor. |
-| Antipsychotics: quetiapine | ↑ quetiapine | Initiation of PREZISTA with ritonavir in patients taking quetiapine: Consider alternative antiretroviral therapy to avoid increases in quetiapine exposures. If co-administration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine U.S. prescribing information for recommendations on adverse reaction monitoring. Initiation of quetiapine in patients taking PREZISTA with ritonavir: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. |
+| Antipsychotics: quetiapine | ↑ quetiapine | Initiation of PREZISTA with ritonavir in patients taking quetiapine: Consider alternative antiretroviral therapy to avoid increases in quetiapine exposures. If co-administration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring. Initiation of quetiapine in patients taking PREZISTA with ritonavir: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. |
 | e.g. risperidone, thioridazine | ↑ antipsychotics | A dose decrease may be needed for these drugs when co-administered with PREZISTA/ritonavir. |
 | β-Blockers: e.g. carvedilol, metoprolol, timolol | ↑ beta-blockers | Clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with PREZISTA/ritonavir and a lower dose of the beta blocker should be considered. |
 | Calcium Channel Blockers: amlodipine, diltiazem, felodipine, nicardipine nifedipine, verapamil | ↑ calcium channel blockers | Clinical monitoring of patients is recommended. |
@@ -68,8 +63,8 @@ Table 11: Established and Other Potentially Significant Drug Interactions: Alter
 | e.g. budesonide prednisolone | ↑ corticosteroid | Concomitant use of corticosteroids metabolized by CYP3A may increase the risk for development of systemic corticosteroid effects including Cushing's syndrome and adrenal suppression. Alternatives should be considered, particularly for long-term use. |
 | Corticosteroid (inhaled/nasal): budesonide, fluticasone | ↑ corticosteroid | Alternatives should be considered, particularly for long-term use. |
 | Endothelin receptor antagonists: bosentan | ↑ bosentan | Co-administration of bosentan in patients on PREZISTA/ritonavir: In patients who have been receiving PREZISTA/ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Co-administration of PREZISTA/ritonavir in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of PREZISTA/ritonavir. After at least 10 days following the initiation of PREZISTA/ritonavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. |
-| Hepatitis C Virus (HCV) Direct-Acting Agents: NS3-4A protease inhibitors: boceprevir telaprevir | ↓ darunavir ↓ boceprevir ↓ telaprevir | Co-administration of boceprevir or telaprevir and PREZISTA/ritonavir is not recommended. |
 | simeprevir | ↑ simeprevir ↑ darunavir | Co-administration of darunavir/ritonavir and simeprevir is not recommended |
+| Hepatitis C Virus (HCV) Direct-Acting Agents: NS3-4A protease inhibitors: boceprevir telaprevir | ↓ darunavir ↓ boceprevir ↓ telaprevir | Co-administration of boceprevir or telaprevir and PREZISTA/ritonavir is not recommended. |
 | HMG-CoA Reductase Inhibitors: atorvastatin, pravastatin, rosuvastatin | ↑ HMG-CoA Reductase Inhibitors | Co-administration of PREZISTA/ritonavir with HMG-Co A reductase inhibitors may lead to adverse events such as myopathy. Titrate atorvastatin, pravastatin or rosuvastatin dose carefully and use the lowest necessary dose while monitoring for adverse events. Do not exceed atorvastatin 20 mg/day. |
 | Immunosuppressants: e.g. cyclosporine, tacrolimus, sirolimus | ↑ immunosuppressants | Therapeutic concentration monitoring of the immunosuppressive agent is recommended when co-administered with PREZISTA/ritonavir. |
 | Immunosuppressants/neoplastic: everolimus |  | Co-administration of everolimus and PREZISTA/ritonavir is not recommended. |
@@ -86,16 +81,16 @@ Pitavastatin had no clinically significant effect on the pharmacokinetics of dar
 
 Acid modifying medications are not predicted to alter darunavir exposure.
 
-Other Nucleoside Reverse Transcriptase Inhibitors (NRTIs)
+Other nucleoside reverse transcriptase inhibitors (NRTIs):
 
 Based on the different elimination pathways of the other NRTIs (abacavir, emtricitabine, lamivudine, stavudine, tenofovir disoproxil fumarate, zidovudine) that are primarily renally excreted, no drug interactions are expected for these drugs and PREZISTA/ritonavir.
 
-Other PIs
+Other PIs:
 
 The co-administration of PREZISTA/ritonavir and PIs other than lopinavir/ritonavir, saquinavir, atazanavir, and indinavir has not been studied.
 Therefore, such co-administration is not recommended.
 
-Integrase Strand Transfer Inhibitors
+Integrase strand transfer inhibitors:
 
 No dose adjustments are needed for either raltegravir or darunavir based on pharmacokinetic data from literature references.
 Please refer to the elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate U.S. prescribing information for information regarding concomitant use with other antiretroviral medications.

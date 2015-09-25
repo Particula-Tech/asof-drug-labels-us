@@ -26,6 +26,22 @@ janssen
 
 Rx only
 
+PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
+
+60 Tablets
+
+NDC 59676-561-01
+
+PREZISTA® (darunavir) tablets
+
+400 mg
+
+Each tablet contains darunavir ethanolate equivalent to 400 mg of darunavir.
+
+janssen
+
+Rx only
+
 PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
 60 Tablets

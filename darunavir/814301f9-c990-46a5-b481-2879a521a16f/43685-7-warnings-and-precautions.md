@@ -2,10 +2,10 @@
 
 ## 5.1 General
 
-PREZISTA must be co-administered with cobicistat or ritonavir and food to achieve the desired antiviral effect.
+PREZISTA must be co-administered with ritonavir and food to achieve the desired antiviral effect.
 Failure to administer PREZISTA with ritonavir and food may result in a loss of efficacy of darunavir.
 
-Please refer to cobicistat or ritonavir U.S. prescribing information for additional information on precautionary measures.
+Please refer to ritonavir prescribing information for additional information on precautionary measures.
 
 ## 5.2 Hepatotoxicity
 
@@ -14,20 +14,20 @@ During the clinical development program (N=3063), hepatitis was reported in 0.5%
 Patients with pre-existing liver dysfunction, including chronic active hepatitis B or C, have an increased risk for liver function abnormalities including severe hepatic adverse events.
 
 Post-marketing cases of liver injury, including some fatalities, have been reported.
-These have generally occurred in patients with advanced HIV-1 disease taking multiple concomitant medications, having co-morbidities including hepatitis B or C co-infection, and/or developing immune reconstitution inflammatory syndrome.
+These have generally occurred in patients with advanced HIV-1 disease taking multiple concomitant medications, having co-morbidities including hepatitis B or C co-infection, and/or developing immune reconstitution syndrome.
 A causal relationship with PREZISTA/ritonavir therapy has not been established.
 
-Appropriate laboratory testing should be conducted prior to initiating therapy with PREZISTA/cobicistat or PREZISTA/ritonavir and patients should be monitored during treatment.
-Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZISTA/cobicistat or PREZISTA/ritonavir treatment.
+Appropriate laboratory testing should be conducted prior to initiating therapy with PREZISTA/ritonavir and patients should be monitored during treatment.
+Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZISTA/ritonavir treatment.
 
-Evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients on PREZISTA/cobicistat or PREZISTA/ritonavir should prompt consideration of interruption or discontinuation of treatment.
+Evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients on PREZISTA/ritonavir should prompt consideration of interruption or discontinuation of treatment.
 
 ## 5.3 Severe Skin Reactions
 
-During the darunavir/ritonavir clinical development program (n=3063), severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, have been reported in 0.4% of subjects.
+During the clinical development program (n=3063), severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, have been reported in 0.4% of subjects.
 Stevens-Johnson Syndrome was rarely (less than 0.1%) reported during the clinical development program.
 During post-marketing experience toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms, and acute generalized exanthematous pustulosis have been reported.
-Discontinue PREZISTA/cobicistat or PREZISTA/ritonavir immediately if signs or symptoms of severe skin reactions develop.
+Discontinue PREZISTA/ritonavir immediately if signs or symptoms of severe skin reactions develop.
 These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
 Rash (all grades, regardless of causality) occurred in 10.3% of subjects treated with PREZISTA/ritonavir [also see Adverse Reactions (6)].
@@ -46,16 +46,16 @@ In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash 
 
 ## 5.5 Risk of Serious Adverse Reactions due to Drug Interactions
 
-Initiation of PREZISTA/cobicistat or PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PREZISTA/cobicistat or PREZISTA/ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
-Initiation of medications that inhibit or induce CYP3A may, respectively, increase or decrease concentrations of PREZISTA/cobicistat or PREZISTA/ritonavir.
+Initiation of PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PREZISTA/ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of PREZISTA/ritonavir, respectively.
 These interactions may lead to:
 
-- Clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
-- Clinically significant adverse reactions from greater exposures of PREZISTA/cobicistat or PREZISTA/ritonavir.
-- Loss of therapeutic effect of PREZISTA and possible development of resistance.
+- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.
+- Clinically significant adverse reactions from greater exposures of PREZISTA/ritonavir.
+- Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance.
 
 See Table 11 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
-Consider the potential for drug interactions prior to and during PREZISTA/cobicistat or PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/cobicistat or PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.6 Diabetes Mellitus / Hyperglycemia
 
@@ -71,9 +71,9 @@ Redistribution/accumulation of body fat, including central obesity, dorsocervica
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 
-## 5.8 Immune Reconstitution Inflammatory Syndrome
+## 5.8 Immune Reconstitution Syndrome
 
-Immune reconstitution inflammatory syndrome has been reported in patients treated with combination antiretroviral therapy, including PREZISTA.
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including PREZISTA.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of antiretroviral treatment.
@@ -87,10 +87,8 @@ A causal relationship between PI therapy and these episodes has not been establi
 
 ## 5.10 Resistance/Cross-Resistance
 
-Because the potential for HIV cross-resistance among PIs has not been fully explored in PREZISTA/cobicistat or PREZISTA/ritonavir treated patients, the effect therapy with PREZISTA will have on the activity of subsequently administered PIs is unknown [see Microbiology (12.4)].
+Because the potential for HIV cross-resistance among PIs has not been fully explored in PREZISTA/ritonavir treated patients, the effect therapy with PREZISTA will have on the activity of subsequently administered PIs is unknown [see Microbiology (12.4)].
 
 ## 5.11 Pediatric Patients
 
-Do not administer PREZISTA in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
-
-The dose of cobicistat to be used with PREZISTA in children less than 18 years of age has not been established.
+Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].

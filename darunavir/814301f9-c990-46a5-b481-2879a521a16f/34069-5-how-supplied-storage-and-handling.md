@@ -14,9 +14,19 @@ Each tablet is debossed with "600MG" on one side and "TMC" on the other side.
 PREZISTA (darunavir) 800 mg tablets are supplied as dark red, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 800 mg of darunavir per tablet.
 Each tablet is debossed with "800" on one side and "T" on the other side.
 
-PREZISTA is packaged in bottles in the following configuration: 100 mg/mL oral suspension – 200 mL bottles (NDC 59676-565-01) 75 mg tablets—bottles of 480 (NDC 59676-563-01) 150 mg tablets—bottles of 240 (NDC 59676-564-01) 600 mg tablets—bottles of 60 (NDC 59676-562-01) 800 mg tablets—bottles of 30 (NDC 59676-566-30)
+PREZISTA is packaged in bottles in the following configuration:
 
-Storage
+100 mg/mL oral suspension – 200 mL bottles (NDC 59676-565-01)
+
+75 mg tablets—bottles of 480 (NDC 59676-563-01)
+
+150 mg tablets—bottles of 240 (NDC 59676-564-01)
+
+600 mg tablets—bottles of 60 (NDC 59676-562-01)
+
+800 mg tablets—bottles of 30 (NDC 59676-566-30)
+
+Storage:
 
 PREZISTA Oral Suspension
 

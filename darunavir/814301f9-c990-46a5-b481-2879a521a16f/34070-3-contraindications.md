@@ -3,8 +3,6 @@
 Co-administration of PREZISTA/ritonavir is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events (narrow therapeutic index).
 These drugs and other contraindicated drugs (which may lead to reduced efficacy of darunavir) are listed in Table 6 [also see Drug Interactions (7.3), Table 11].
 
-Please refer to cobicistat U.S. prescribing information for a description of cobicistat contraindications.
-
 Table 6: Drugs That Are Contraindicated With PREZISTA/ritonavir
 
 | Drug Class | Drugs Within Class That Are Contraindicated With PREZISTA/ritonavir | Clinical Comment |
@@ -22,4 +20,4 @@ Table 6: Drugs That Are Contraindicated With PREZISTA/ritonavir
 | Antimycobacterial | Rifampin | Rifampin is a potent inducer of CYP450 metabolism. PREZISTA/ritonavir should not be used in combination with rifampin, as this may cause significant decreases in darunavir plasma concentrations. This may result in loss of therapeutic effect to PREZISTA. |
 | PDE-5 inhibitor | Sildenafil for treatment of pulmonary arterial hypertension | A safe and effective dose for the treatment of pulmonary arterial hypertension has not been established with PREZISTA/ritonavir. There is an increased potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, prolonged erection, and syncope). |
 
-Due to the need for co-administration of PREZISTA with cobicistat or ritonavir, please refer to cobicistat or ritonavir U.S. prescribing information for a description of cobicistat or ritonavir contraindications.
+Due to the need for co-administration of PREZISTA with ritonavir, please refer to ritonavir prescribing information for a description of ritonavir contraindications.
