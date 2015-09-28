@@ -25,6 +25,9 @@ Because many drugs are excreted in human milk and because of the potential for s
 ## 8.4 Pediatric Use
 
 The safety and effectiveness in pediatric patients have not been established.
+In a dose-escalation, safety, and tolerability study, 21 patients ages 2 to 21 years (median age 12.9) with solid tumors received ZALTRAP at doses ranging from 2 to 3 mg/kg, IV, every two weeks.
+The pharmacokinetics of free ziv-aflibercept were evaluated in 8 of these patients (ages 5 to 17 years) [see Clinical Pharmacology (12.3)].
+The maximum tolerated dose in the study was 2.5 mg/kg, below the dose known to be safe and effective in adults with mCRC.
 
 ## 8.5 Geriatric Use
 

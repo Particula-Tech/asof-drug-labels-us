@@ -31,6 +31,10 @@ Renal impairment
 
 Based on a population pharmacokinetic analysis which included patients with mild (CLCR 50–80 mL/min, n=549), moderate (CLCR 30–50 mL/min, n=96), and severe renal impairment (CLCR <30 mL/min, n=5), there was no clinically important effect of creatinine clearance on the clearance of free ziv-aflibercept.
 
+Pediatrics
+
+Following intravenous administration of ZALTRAP 2.0 mg/kg, 2.5 mg/kg, or 3.0 mg/kg every two weeks to 8 pediatric patients with solid tumors (ages 5 to 17 years), the mean elimination half-life of free ziv-aflibercept, determined after the first dose, was approximately 4 days (range 3–6 days).
+
 ## 12.6 Cardiac Electrophysiology
 
 The effect of 6 mg/kg intravenous ZALTRAP every three weeks on QTc interval was evaluated in 87 patients with solid tumors in a randomized, placebo-controlled study.
