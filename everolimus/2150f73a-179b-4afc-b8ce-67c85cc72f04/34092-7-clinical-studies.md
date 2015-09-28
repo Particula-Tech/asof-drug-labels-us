@@ -178,18 +178,18 @@ Table 16: SEGA Response
 
 With a median follow-up of 8.4 months, SEGA progression was detected in 6 of 39 (15.4%) patients randomized to receive placebo and none of the 78 patients randomized to receive AFINITOR.
 
-Study 2 was an open-label, single-arm trial conducted to evaluate the safety and efficacy of AFINITOR in patients with SEGA and TSC.
+Study 2 was an open-label, single-arm trial conducted to evaluate the safety and antitumor activity of AFINITOR 3.0 mg/m2/orally once daily in patients with SEGA and TSC.
 Serial radiological evidence of SEGA growth was required for entry.
-Change in SEGA volume at the end of the core 6-month treatment phase was assessed via independent central radiology review.
-In total, 28 patients received treatment with AFINITOR; median age was 11 years (range 3-34), 61% male, 86% Caucasian.
-Four patients had surgical resection of their SEGA lesions with subsequent re-growth prior to receiving AFINITOR treatment.
-After the core treatment phase, patients could continue to receive AFINITOR treatment as part of an extension treatment phase where SEGA volume was assessed every 6 months.
-The median duration of treatment was 34.2 months (range 4.7-47.1 months).
+Tumor assessments were performed every 6 months for 60 months after the last patient was enrolled or disease progression, whichever occurred earlier.
+The major efficacy outcome measure was the reduction in volume of the largest SEGA lesion with 6 months of treatment, as assessed via independent central radiology review.
+Progression was defined as an increase in volume of the largest SEGA lesion over baseline that was ≥ 25% over the nadir observed on study.
 
-At 6 months, nine of 28 patients (32%, 95% CI: 16% to 52%) had a ≥ 50% reduction in the tumor volume of their largest SEGA lesion.
-The median duration of response for these nine patients was 11.8 months (range 3.2 to 39.1 months).
-Seven of these nine patients had an ongoing volumetric reduction of ≥ 50% at the data cutoff.
+Study 2 enrolled 28 patients who received AFINITOR for a median duration of 5.7 years (range: 5 months to 6.9 years); 23 of 28 patients (82%) remained on AFINITOR for at least 5 years.
+Across the study population, the median age was 11 years (range 3-34), 61% male, 86% Caucasian.
 
-Three of four patients who had prior surgery experienced a ≥ 50% reduction in the tumor volume of their largest SEGA lesion.
-One of these three patients responded by month 6.
-No patient developed new lesions.
+At the final analysis, 9 of 28 patients [32% (95% CI: 16% to 52%)] had an objective response at 6 months, defined as at least a 50% decrease in volume of the largest SEGA lesion.
+At the completion of the study, the median duration of durable response was 12 months (range 3 months to 6.3 years).
+
+By 60 months after the last patient was enrolled, 11% of patients (3/28) had documented disease progression.
+No patient developed a new SEGA lesion while on AFINITOR.
+Nine additional patients were identified as having a > 50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
