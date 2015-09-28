@@ -7,8 +7,7 @@ The initial dose of tacrolimus capsules, USP should be administered no sooner th
 In kidney transplant patients, the initial dose of tacrolimus capsules, USP may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
 For blood concentration monitoring details see DOSAGE AND ADMINISTRATION (2.6).
 
-Table 1.
-Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Adults
+Table 1 Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Adults
 
 | Patient Population | Recommended Tacrolimus Capsules Initial Oral DosageNote: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |
@@ -24,8 +23,7 @@ Adjunct therapy with adrenal corticosteroids is recommended early post-transplan
 
 The data in kidney transplant patients indicate that the Black patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2).
 
-Table 2.
-Comparative Dose and Trough Concentrations Based on Race
+Table 2 Comparative Dose and Trough Concentrations Based on Race
 
 | Time After Transplant | Caucasian n=114 |  | Blackn=56 |  |
 | --- | --- | --- | --- | --- |
@@ -55,8 +53,7 @@ The initial oral dosage recommendations for pediatric patients with liver transp
 For blood concentration monitoring details see DOSAGE AND ADMINISTRATION (2.6).
 If necessary, pediatric patients may start on an IV dose of 0.03 to 0.05 mg/kg/day.
 
-Table 3.
-Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Children
+Table 3 Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Children
 
 | Patient Population | Recommended Tacrolimus Capsules Initial Oral DosageNote: daily doses should be administered as two divided doses, every 12 hours | Observed Tacrolimus Whole Blood Trough Concentrations |
 | --- | --- | --- |

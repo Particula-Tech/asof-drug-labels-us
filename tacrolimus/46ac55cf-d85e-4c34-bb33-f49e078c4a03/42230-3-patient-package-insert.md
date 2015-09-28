@@ -2,6 +2,8 @@
 
 Tacrolimus Capsules, USP
 
+[tack-ROW-limus]
+
 Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -242,4 +244,4 @@ Manufactured in India by Sandoz Private Limited for
 
 Sandoz Inc; Princeton NJ 08540
 
-Revised: September 2013
+Revised: June 2015

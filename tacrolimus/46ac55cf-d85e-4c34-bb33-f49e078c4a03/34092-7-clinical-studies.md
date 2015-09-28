@@ -24,8 +24,7 @@ In this trial, mortality at 12 months in patients receiving tacrolimus/MMF was s
 Patients in the tacrolimus group exhibited higher estimated creatinine clearance rates (eCLcr) using the Cockcroft-Gault formula (Table 16) and experienced fewer efficacy failures, defined as biopsy proven acute rejection (BPAR), graft loss, death, and/or lost to follow-up (Table 17) in comparison to each of the other three groups.
 Patients randomized to tacrolimus/MMF were more likely to develop diarrhea and diabetes after the transplantation and experienced similar rates of infections compared to patients randomized to either cyclosporine/MMF regimen [see ADVERSE REACTIONS (6.1)].
 
-Table 16.
-Estimated Creatinine Clearance at 12 Months (Study 1)
+Table 16 Estimated Creatinine Clearance at 12 Months (Study 1)
 
 | Group | eCLcr [mL/min] at Month 12All death graft loss (n=41, 27, 23 and 42 in Groups A, B, C and D) and patients whose last recorded creatinine values were prior to month 3 visit (n=10, 9, 7 and 9 in Groups A, B, C and D, respectively) were inputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n=11, 12, 15 and 19 for Groups A, B, C and D, respectively). Weight was also imputed in the calculation of estimated GFR, if missing. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -37,8 +36,7 @@ Estimated Creatinine Clearance at 12 Months (Study 1)
 | Total | 1589 | 59.2 | 26.8 | 60.5 |  |
 | Key: CsA=Cyclosporine, CS=Corticosteroids, Tac=Tacrolimus, Siro=Sirolimus |  |  |  |  |  |
 
-Table 17.
-Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
+Table 17 Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
 
 |  | Group AN=390 | Group BN=399 | Group CN=401 | Group DN=399 |
 | --- | --- | --- | --- | --- |
@@ -54,10 +52,9 @@ Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
 The protocol-specified target tacrolimus trough concentrations (Ctrough,Tac) were 3 to 7 ng/mL; however, the observed median Ctroughs,Tac approximated 7 ng/mL throughout the 12 month trial (Table 18).
 Approximately 80% of patients maintained tacrolimus whole blood concentrations between 4 to 11 ng/mL through 1 year post-transplant.
 
-Table 18.
-Tacrolimus Whole Blood Trough Concentrations (Study 1)
+Table 18 Tacrolimus Whole Blood Trough Concentrations (Study 1)
 
-| Time | Median (P10-P9010 to the 90th Percentile: range of Ctrough,Tacthat excludes lowest 10% and highest 10% of Ctrough, Tac.) tacrolimus whole blood trough concentrations(ng/mL) |
+| Time | Median (P10-P9010 to the 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac.) tacrolimus whole blood trough concentrations(ng/mL) |
 | --- | --- |
 | Day 30 (N=366) | 6.9 (4.4 to 11.3) |
 | Day 90 (N=351) | 6.8 (4.1 to 10.7) |
@@ -70,8 +67,7 @@ The protocol-specified target Ctroughs,CsA for Group A were 150 to 300 ng/mL for
 While patients in all groups started MMF at 1gram twice daily, the MMF dose was reduced to less than 2 g per day in 63% of patients in the tacrolimus treatment arm by month 12 (Table 19); approximately 50% of these MMF dose reductions were due to adverse reactions.
 By comparison, the MMF dose was reduced to less than 2 g per day in 49% and 45% of patients in the two cyclosporine arms (Group A and Group B, respectively), by month 12 and approximately 40% of MMF dose reductions were due to adverse reactions.
 
-Table 19.
-MMF Dose Over Time in Tacrolimus/MMF (Group C) (Study 1)
+Table 19 MMF Dose Over Time in Tacrolimus/MMF (Group C) (Study 1)
 
 | Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Administration of 2 g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |
@@ -86,8 +82,7 @@ In a second randomized, open-label, multi-center trial (Study 2), 424 kidney tra
 In this trial, the rate for the combined endpoint of BPAR, graft failure, death, and/or lost to follow-up at 12 months in the tacrolimus/MMF group was similar to the rate in the cyclosporine/MMF group.
 There was, however, an imbalance in mortality at 12 months in those patients receiving tacrolimus/MMF (4%) compared to those receiving cyclosporine/MMF (2%), including cases attributed to overimmunosuppression (Table 20).
 
-Table 20.
-Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 2)
+Table 20 Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 2)
 
 |  | Tacrolimus/MMF | Cyclosporine/MMF |
 | --- | --- | --- |
@@ -104,8 +99,7 @@ The protocol-specified target tacrolimus whole blood trough concentrations (Ctro
 The observed median Ctroughs,Tac approximated 10 ng/mL during the first three months and 8 ng/mL from month 4 to month 12 (Table 21).
 Approximately 80% of patients maintained tacrolimus whole trough blood concentrations between 6 to 16 ng/mL during months 1 through 3 and, then, between 5 to 12 ng/mL from month 4 through 1 year.
 
-Table 21.
-Tacrolimus Whole Blood Trough Concentrations (Study 2)
+Table 21 Tacrolimus Whole Blood Trough Concentrations (Study 2)
 
 | Time | Median (P10-P9010 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac.) tacrolimus whole blood trough concentrations(ng/mL) |
 | --- | --- |
@@ -122,8 +116,7 @@ Patients in both groups started MMF at 1gram twice daily.
 The MMF dose was reduced to less than 2 grams per day by month 12 in 62% of patients in the tacrolimus/MMF group (Table 22) and in 47% of patients in the cyclosporine/MMF group.
 Approximately 63% and 55% of these MMF dose reductions were because of adverse reactions in the tacrolimus/MMF group and the cyclosporine/MMF group, respectively [see ADVERSE REACTIONS (6.1)].
 
-Table 22.
-MMF Dose Over Time in the Tacrolimus /MMF Group (Study 2)
+Table 22 MMF Dose Over Time in the Tacrolimus /MMF Group (Study 2)
 
 | Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |

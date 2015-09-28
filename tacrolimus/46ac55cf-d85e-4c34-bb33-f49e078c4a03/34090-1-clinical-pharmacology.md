@@ -17,8 +17,7 @@ In animals, tacrolimus has been demonstrated to suppress some humoral immunity a
 Tacrolimus activity is primarily due to the parent drug.
 The pharmacokinetic parameters (mean±S.D.) of tacrolimus have been determined following intravenous (IV) and/or oral (PO) administration in healthy volunteers, and in kidney transplant, liver transplant, and heart transplant patients (Table 14).
 
-Table 14.
-Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and Patients
+Table 14 Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and Patients
 
 | Population | N | Route(Dose) | Parameters |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,8 +107,7 @@ The absolute bioavailability was 19±14 (range 5.2 to 56) %.
 
 Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in Table 15.
 
-Table 15.
-Pharmacokinetic In Renal and Hepatic Impaired Patients
+Table 15 Pharmacokinetic In Renal and Hepatic Impaired Patients
 
 | Population(No. of Patients) | Dose | AUC0-t(ng·hr/mL) | t1/2(hr) | V(L/kg) | CIL/hr/kg) |
 | --- | --- | --- | --- | --- | --- |

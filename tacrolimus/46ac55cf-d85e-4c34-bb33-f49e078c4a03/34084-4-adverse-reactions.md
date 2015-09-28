@@ -34,8 +34,7 @@ The most common adverse reactions (≥ 30%) observed in tacrolimus-treated kidne
 
 Adverse reactions that occurred in ≥ 15% of kidney transplant patients treated with tacrolimus in conjunction with azathioprine are presented below:
 
-Table 4.
-Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
+Table 4 Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
 
 |  | Tacrolimus /AZA(N=205) | Cyclosporine/AZA (N=207) |
 | --- | --- | --- |
@@ -94,8 +93,7 @@ The 12 month post-transplant information from this trial is presented below.
 Adverse reactions that occurred in ≥ 10% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 1 [Note: This trial was conducted entirely outside of the United States.
 Such trials often report a lower incidence of adverse reactions in comparison to U.S. trials] are presented below:
 
-Table 5.
-Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 1)
+Table 5 Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 1)
 
 |  | Tacrolimus (Group C) | Cyclosporine (Group A) | Cyclosporine (Group B) |
 | --- | --- | --- | --- |
@@ -115,8 +113,7 @@ The 12 month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥15% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 2 are presented below:
 
-Table 6.
-Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 2)
+Table 6 Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 2)
 
 |  | Tacrolimus /MMF | Cyclosporine/MMF |
 | --- | --- | --- |
@@ -171,8 +168,7 @@ The most common adverse reactions (≥ 40%) observed in tacrolimus-treated liver
 These all occur with oral administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 
-Table 7.
-Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus
+Table 7 Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus
 
 |  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
 | --- | --- | --- | --- | --- |
@@ -234,8 +230,7 @@ The most common adverse reactions (≥ 15%) observed in tacrolimus-treated heart
 
 Adverse reactions in heart transplant patients in the European trial are presented below:
 
-Table 8.
-Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
+Table 8 Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
 
 |  | Tacrolimus/AZA | Cyclosporine/AZA |
 | --- | --- | --- |
@@ -279,8 +274,7 @@ Kidney Transplant
 New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA1C ≥ 6%, insulin use ≥ 30 days or oral hypoglycemic use.
 In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the Neoral-treated patients without pre-transplant history of diabetes mellitus (Table 9) [see CLINICAL STUDIES (14.1)].
 
-Table 9.
-Incidence of New Onset Diabetes After Transplant at 1 Year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
+Table 9 Incidence of New Onset Diabetes After Transplant at 1 Year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
@@ -298,8 +292,7 @@ The median time to onset of PTDM was 68 days.
 Insulin dependence was reversible in 15% of these PTDM patients at one year and in 50% at 2 years post-transplant.
 Black and Hispanic kidney transplant patients were at an increased risk of development of PTDM (Table 11).
 
-Table 10.
-Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
+Table 10 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
 
 | Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | Tacrolimus/AZA | CsA/AZA |
 | --- | --- | --- |
@@ -309,8 +302,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kid
 | New onset PTDMa post 1 year | 1 | 0 |
 | Patients with PTDMa at 2 years | 16/151 (11%) | 5/151 (3%) |
 
-Table 11.
-Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
+Table 11 Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
 
 | Patient Race | Patients Who Developed PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
 | --- | --- | --- |
@@ -326,8 +318,7 @@ Liver Transplant
 Insulin-dependent PTDM was reported in 18% and 11% of tacrolimus-treated liver transplant patients and was reversible in 45% and 31% of these patients at 1 year post-transplant, in the U.S. and European randomized trials, respectively (Table 12).
 Hyperglycemia was associated with the use of tacrolimus in 47% and 33% of liver transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see ADVERSE REACTIONS (6.1)].
 
-Table 12.
-Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
+Table 12 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
 
 | Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
@@ -341,8 +332,7 @@ Heart Transplant
 Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 13).
 Hyperglycemia defined as two fasting plasma glucose levels ≥126 mg/dL was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see ADVERSE REACTIONS (6.1)].
 
-Table 13.
-Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
+Table 13 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
 | Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
@@ -413,7 +403,7 @@ Other reactions include:
 
 Cardiovascular
 
-Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy [see WARNINGS AND PRECAUTIONS (5.14)].
+Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy [see WARNINGS AND PRECAUTIONS (5.15)].
 
 Gastrointestinal
 

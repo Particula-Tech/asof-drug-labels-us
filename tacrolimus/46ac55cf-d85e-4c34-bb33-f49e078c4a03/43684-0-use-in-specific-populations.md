@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C - There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C
+
+There are no adequate and well-controlled studies in pregnant women.
 Tacrolimus is transferred across the placenta.
 The use of tacrolimus during pregnancy in humans has been associated with neonatal hyperkalemia and renal dysfunction.
 Tacrolimus given orally to pregnant rabbits at 0.5 to 4.3 times the clinical dose and pregnant rats at 0.8 to 6.9 times the clinical dose was associated with an increased incidence of fetal death in utero, fetal malformations (cardiovascular, skeletal, omphalocele, and gallbladder agenesis) and maternal toxicity.
