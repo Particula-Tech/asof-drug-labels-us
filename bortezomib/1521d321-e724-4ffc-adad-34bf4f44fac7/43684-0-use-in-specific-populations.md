@@ -28,7 +28,22 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VELCADE in children have not been established.
+The effectiveness of VELCADE in pediatric patients with relapsed pre-B acute lymphoblastic leukemia (ALL) has not been established.
+
+The activity and safety of VELCADE in combination with intensive reinduction chemotherapy was evaluated in pediatric and young adult patients with lymphoid malignancies (pre-B cell ALL 77%, 16% with T-cell ALL, and 7% T-cell lymphoblastic lymphoma (LL)), all of whom relapsed within 36 months of initial diagnosis in a single-arm multicenter, non-randomized cooperative group trial.
+An effective reinduction multiagent chemotherapy regimen was administered in 3 blocks.
+Block 1 included vincristine, prednisone, doxorubicin and pegaspargase; block 2 included cyclophosphamide, etoposide and methotrexate; block 3 included high dose cytosine arabinoside and asparaginase.
+VELCADE was administered at a dose of 1.3 mg/m2 as a bolus intravenous injection on days 1, 4, 8, and 11 of block 1 and days 1, 4, and 8 of block 2.
+There were 140 patients with ALL or LL enrolled and evaluated for safety.
+The median age was 10 years (range 1 to 26), 57% were male, 70% were white, 14% were black, 4% were Asian, 2% were American Indian/ Alaska Native, 1% were Pacific Islander.
+
+The activity was evaluated in a pre-specified subset of the first 60 evaluable patients enrolled on the study with pre-B ALL ≤ 21 years and relapsed < 36 months from diagnosis.
+The complete remission (CR) rate at day 36 was compared to that in a historical control set of patients who had received the identical backbone therapy without VELCADE.
+There was no evidence that the addition of VELCADE had any impact on the CR rate.
+
+No new safety concerns were observed when VELCADE was added to a chemotherapy backbone regimen as compared with a historical control group in which the backbone regimen was given without VELCADE.
+
+The BSA-normalized clearance of bortezomib in pediatric patients was similar to that observed in adults.
 
 ## 8.5 Geriatric Use
 

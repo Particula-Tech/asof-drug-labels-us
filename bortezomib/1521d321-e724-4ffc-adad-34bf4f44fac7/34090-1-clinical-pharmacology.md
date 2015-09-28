@@ -56,7 +56,7 @@ A group of dialysis patients who were dosed after dialysis was also included in 
 Patients were administered intravenous doses of 0.7 to 1.3 mg/m2 of bortezomib twice weekly.
 Exposure of bortezomib (dose-normalized AUC and Cmax) was comparable among all the groups [see Use in Specific Populations (8.6)].
 
-Pediatric: There are no pharmacokinetic data in pediatric patients.
+Pediatric: See Use in Specific Populations (8.4).
 
 Cytochrome P450: Bortezomib is a poor inhibitor of human liver microsome cytochrome P450 1A2, 2C9, 2D6, and 3A4, with IC50 values of > 30µM (> 11.5µg/mL).
 Bortezomib may inhibit 2C19 activity (IC50 = 18 µM, 6.9 µg/mL) and increase exposure to drugs that are substrates for this enzyme.
