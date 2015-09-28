@@ -1,23 +1,27 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
+The following adverse reactions are discussed in other sections of the labeling:
 
 - •Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
 - •Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
-- •Lactic acidosis and hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
-- •Acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
+- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
 - •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.6)].
 - •Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.6)].
 - •Pancreatitis [see Warnings and Precautions (5.7)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.8)].
+- •Fat redistribution [see Warnings and Precautions (5.9)].
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Lamivudine Plus Zidovudine Administered As Separate Formulations: In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
+Lamivudine plus Zidovudine Administered as Separate Formulations
+
+In 4 randomized, controlled trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
 
 Table 1.
-Selected Clinical Adverse Reactions (≥5% Frequency) in 4 Controlled Clinical Trials With EPIVIR 300 mg/day and RETROVIR 600 mg/day
+Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4 Controlled Clinical Trials with EPIVIR 300 mg per day and RETROVIR 600 mg per day
 
 | Adverse Reaction | EPIVIR plus RETROVIR(n = 251) |
 | --- | --- |
@@ -53,7 +57,7 @@ Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received E
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 
 Table 2.
-Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg/day plus RETROVIR 600 mg/daya
+Frequencies of Selected Laboratory Abnormalities among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg per day plus RETROVIR 600 mg per daya
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR% (n) |
 | --- | --- |
@@ -71,30 +75,53 @@ Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Cl
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following reactions have been identified during post-approval use of EPIVIR, RETROVIR, and/or COMBIVIR.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to EPIVIR, RETROVIR, and/or COMBIVIR.
+The following adverse reactions have been identified during postmarketing use.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: Redistribution/accumulation of body fat [see Warnings and Precautions (5.9)].
+Body as a Whole
 
-Cardiovascular: Cardiomyopathy.
+Redistribution/accumulation of body fat [see Warnings and Precautions (5.9)].
 
-Endocrine and Metabolic: Gynecomastia, hyperglycemia.
+Cardiovascular
 
-Gastrointestinal: Oral mucosal pigmentation, stomatitis.
+Cardiomyopathy.
 
-General: Vasculitis, weakness.
+Endocrine and Metabolic
 
-Hemic and Lymphatic: Anemia, (including pure red cell aplasia and anemias progressing on therapy), lymphadenopathy, splenomegaly.
+Gynecomastia, hyperglycemia.
 
-Hepatic and Pancreatic: Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbation of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3), (5.4), (5.7)].
+Gastrointestinal
 
-Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria.
+Oral mucosal pigmentation, stomatitis.
 
-Musculoskeletal: Muscle weakness, CPK elevation, rhabdomyolysis.
+General
 
-Nervous: Paresthesia, peripheral neuropathy, seizures.
+Vasculitis, weakness.
 
-Respiratory: Abnormal breath sounds/wheezing.
+Hemic and Lymphatic
 
-Skin: Alopecia, erythema multiforme, Stevens-Johnson syndrome.
+Anemia, (including pure red cell aplasia and anemias progressing on therapy), lymphadenopathy, splenomegaly.
+
+Hepatic and Pancreatic
+
+Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3), (5.4), (5.7)].
+
+Hypersensitivity
+
+Sensitization reactions (including anaphylaxis), urticaria.
+
+Musculoskeletal
+
+Muscle weakness, CPK elevation, rhabdomyolysis.
+
+Nervous
+
+Paresthesia, peripheral neuropathy, seizures.
+
+Respiratory
+
+Abnormal breath sounds/wheezing.
+
+Skin
+
+Alopecia, erythema multiforme, Stevens-Johnson syndrome.

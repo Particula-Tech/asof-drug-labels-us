@@ -1,29 +1,20 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction trials have been conducted using COMBIVIR Tablets [see Clinical Pharmacology (12.3)].
+## 7.1 Zidovudine
 
-## 7.1 Antiretroviral Agents
+Agents Antagonistic with Zidovudine
 
-Lamivudine: Zalcitabine: Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another.
-Therefore, use of COMBIVIR in combination with zalcitabine is not recommended.
+Concomitant use of zidovudine with the following drugs should be avoided since an antagonistic relationship has been demonstrated in vitro:
 
-Zidovudine: Stavudine: Concomitant use of COMBIVIR with stavudine should be avoided since an antagonistic relationship with zidovudine has been demonstrated in vitro.
+- •Stavudine
+- •Doxorubicine
+- •Nucleoside analogues e.g., ribavirin
 
-Nucleoside Analogues Affecting DNA Replication: Some nucleoside analogues affecting DNA replication, such as ribavirin, antagonize the in vitro antiviral activity of zidovudine against HIV-1; concomitant use of such drugs should be avoided.
+Hematologic/Bone Marrow Suppressive/Cytotoxic Agents
 
-## 7.2 Doxorubicin
+Coadministration with the following drugs may increase the hematologic toxicity of zidovudine:
 
-Zidovudine: Concomitant use of COMBIVIR with doxorubicin should be avoided since an antagonistic relationship with zidovudine has been demonstrated in vitro.
-
-## 7.3 Hematologic/Bone Marrow Suppressive/Cytotoxic Agents
-
-Zidovudine: Coadministration of ganciclovir, interferon alfa, ribavirin, and other bone marrow suppressive or cytotoxic agents may increase the hematologic toxicity of zidovudine.
-
-## 7.4 Interferon- and Ribavirin-Based Regimens
-
-Lamivudine: Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with lamivudine in HIV-1/HCV co-infected patients, hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
-
-## 7.5 Trimethoprim/Sulfamethoxazole (TMP/SMX)
-
-Lamivudine: No change in dose of either drug is recommended.
-There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used to treat PCP.
+- •Ganciclovir
+- •Interferon alfa
+- •Ribavirin
+- •Other bone marrow suppressive or cytotoxic agents
