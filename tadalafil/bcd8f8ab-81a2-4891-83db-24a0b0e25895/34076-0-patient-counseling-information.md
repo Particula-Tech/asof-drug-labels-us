@@ -12,27 +12,32 @@ In such a patient, who has taken CIALIS, where nitrate administration is deemed 
 In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring.
 Therefore, patients who experience anginal chest pain after taking CIALIS should seek immediate medical attention [see Contraindications (4.1) and Warnings and Precautions (5.1)].
 
-## 17.2 Cardiovascular Considerations
+## 17.2 Guanylate Cyclase (GC) Stimulators
+
+Physicians should discuss with patients the contraindication of CIALIS with any use of a GC stimulator, such as riociguat, for pulmonary arterial hypertension.
+Patients should be counseled that the concomitant use of CIALIS with GC stimulators may cause blood pressure to drop to an unsafe level.
+
+## 17.3 Cardiovascular Considerations
 
 Physicians should consider the potential cardiac risk of sexual activity in patients with preexisting cardiovascular disease.
 Physicians should advise patients who experience symptoms upon initiation of sexual activity to refrain from further sexual activity and seek immediate medical attention [see Warnings and Precautions (5.1)].
 
-## 17.3 Concomitant Use with Drugs Which Lower Blood Pressure
+## 17.4 Concomitant Use with Drugs Which Lower Blood Pressure
 
-Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha-blockers and antihypertensive medications [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
+Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha-blockers, and antihypertensive medications [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
 
-## 17.4 Potential for Drug Interactions When Taking CIALIS for Once Daily Use
+## 17.5 Potential for Drug Interactions When Taking CIALIS for Once Daily Use
 
 Physicians should discuss with patients the clinical implications of continuous exposure to tadalafil when prescribing CIALIS for once daily use, especially the potential for interactions with medications (e.g., nitrates, alpha-blockers, antihypertensives and potent inhibitors of cytochrome P450 3A4) and with substantial consumption of alcohol.
 [see Dosage and Administration (2.7), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
 
-## 17.5 Priapism
+## 17.6 Priapism
 
 There have been rare reports of prolonged erections greater than 4 hours and priapism (painful erections greater than 6 hours in duration) for this class of compounds.
 Priapism, if not treated promptly, can result in irreversible damage to the erectile tissue.
 Physicians should advise patients who have an erection lasting greater than 4 hours, whether painful or not, to seek emergency medical attention.
 
-## 17.6 Sudden Loss of Vision
+## 17.7 Sudden Loss of Vision
 
 Physicians should advise patients to stop use of all PDE5 inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
 Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including possible permanent loss of vision, that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
@@ -40,24 +45,24 @@ It is not possible to determine whether these events are related directly to the
 Physicians should discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye.
 Physicians should also discuss with patients the increased risk of NAION among the general population in patients with a "crowded" optic disc, although evidence is insufficient to support screening of prospective users of PDE5 inhibitors, including CIALIS, for this uncommon condition [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
-## 17.7 Sudden Hearing Loss
+## 17.8 Sudden Hearing Loss
 
 Physicians should advise patients to stop taking PDE5 inhibitors, including CIALIS, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
 These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including CIALIS.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.1, 6.2)].
 
-## 17.8 Alcohol
+## 17.9 Alcohol
 
 Patients should be made aware that both alcohol and CIALIS, a PDE5 inhibitor, act as mild vasodilators.
 When mild vasodilators are taken in combination, blood-pressure-lowering effects of each individual compound may be increased.
 Therefore, physicians should inform patients that substantial consumption of alcohol (e.g., 5 units or greater) in combination with CIALIS can increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache [see Warnings and Precautions (5.9), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
 
-## 17.9 Sexually Transmitted Disease
+## 17.10 Sexually Transmitted Disease
 
 The use of CIALIS offers no protection against sexually transmitted diseases.
 Counseling of patients about the protective measures necessary to guard against sexually transmitted diseases, including Human Immunodeficiency Virus (HIV) should be considered.
 
-## 17.10 Recommended Administration
+## 17.11 Recommended Administration
 
 Physicians should instruct patients on the appropriate administration of CIALIS to allow optimal use.
 
@@ -68,3 +73,14 @@ For CIALIS for once daily use in men with ED or ED/BPH, patients should be instr
 Cialis is effective at improving erectile function over the course of therapy.
 
 For CIALIS for once daily use in men with BPH, patients should be instructed to take one tablet at approximately the same time every day.
+
+Revision Date 09/2015
+
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+
+www.cialis.com
+
+Copyright © 2003, 2015, Eli Lilly and Company.
+All rights reserved.
+
+CLS-0001-USPI-20150916

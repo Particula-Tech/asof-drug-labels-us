@@ -9,3 +9,8 @@ In clinical pharmacology studies, CIALIS was shown to potentiate the hypotensive
 
 CIALIS is contraindicated in patients with a known serious hypersensitivity to tadalafil (CIALIS or ADCIRCA®).
 Hypersensitivity reactions have been reported, including Stevens-Johnson syndrome and exfoliative dermatitis [see Adverse Reactions (6.2)].
+
+## 4.3 Concomitant Guanylate Cyclase (GC) Stimulators
+
+Do not use CIALIS in patients who are using a GC stimulator, such as riociguat.
+PDE5 inhibitors, including CIALIS, may potentiate the hypotensive effects of GC stimulators.

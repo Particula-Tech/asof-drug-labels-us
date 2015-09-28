@@ -15,6 +15,7 @@ What Is The Most Important Information I Should Know About CIALIS?
 
 CIALIS can cause your blood pressure to drop suddenly to an unsafe level if it is taken with certain other medicines.
 You could get dizzy, faint, or have a heart attack or stroke.
+Never take CIALIS with any nitrate or guanylate cyclase stimulator medicines.
 
 Do not take CIALIS if you take any medicines called “nitrates.”
 Nitrates are commonly used to treat angina.
@@ -23,8 +24,14 @@ Angina is a symptom of heart disease and can cause pain in your chest, jaw, or d
 - Medicines called nitrates include nitroglycerin that is found in tablets, sprays, ointments, pastes, or patches.
   Nitrates can also be found in other medicines such as isosorbide dinitrate or isosorbide mononitrate.
   Some recreational drugs called “poppers” also contain nitrates, such as amyl nitrite and butyl nitrite.
-- Ask your healthcare provider or pharmacist if you are not sure if any of your medicines are nitrates.
-  (See “Who Should Not Take CIALIS?”)
+
+Do not take CIALIS if you take medicines called guanylate cyclase stimulators which include:
+
+- Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+
+Ask your healthcare provider or pharmacist if you are not sure if any of your medicines are nitrates or guanylate cyclase stimulators, such as riociguat.
+
+(See “Who Should Not Take CIALIS?”)
 
 Tell all of your healthcare providers that you take CIALIS.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took CIALIS.
@@ -84,6 +91,7 @@ Do not take CIALIS if you:
 - take any medicines called “nitrates”.
 - use recreational drugs called “poppers” like amyl nitrite and butyl nitrite.
   (See “What Is The Most Important Information I Should Know About CIALIS?”)
+- take any medicines called guanylate cyclase stimulators, such as riociguat.
 - are allergic to CIALIS or ADCIRCA®, or any of its ingredients.
   See the end of this leaflet for a complete list of ingredients in CIALIS.
   Symptoms of an allergic reaction may include:
@@ -103,6 +111,7 @@ Before taking CIALIS, tell your healthcare provider about all your medical probl
 - have heart problems such as angina, heart failure, irregular heartbeats, or have had a heart attack.
   Ask your healthcare provider if it is safe for you to have sexual activity.
   You should not take CIALIS if your healthcare provider has told you not to have sexual activity because of your health problems.
+- have pulmonary hypertension
 - have low blood pressure or have high blood pressure that is not controlled
 - have had a stroke
 - have liver problems
@@ -123,6 +132,7 @@ Always check with your healthcare provider before starting or stopping any medic
 Especially tell your healthcare provider if you take any of the following*:
 
 - medicines called nitrates (see “What Is The Most Important Information I Should Know About CIALIS?”)
+- medicines called guanylate cyclase stimulators, such as riociguat (Adempas®), used to treat pulmonary hypertension
 - medicines called alpha blockers.
   These include Hytrin® (terazosin HCl), Flomax® (tamsulosin HCl), Cardura® (doxazosin mesylate), Minipress® (prazosin HCl), Uroxatral® (alfuzosin HCl), Jalyn® (dutasteride and tamsulosin HCl) or Rapaflo® (silodosin).
   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
@@ -259,13 +269,13 @@ CIALIS® (tadalafil) is a registered trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Revision Date October 2011
+Revision Date 09/2015
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.cialis.com
 
-Copyright © 2003, 2011, Eli Lilly and Company.
+Copyright © 2003, 2015, Eli Lilly and Company.
 All rights reserved.
 
-PV 5227 AMP
+CLS-0001-PPI-20150916
