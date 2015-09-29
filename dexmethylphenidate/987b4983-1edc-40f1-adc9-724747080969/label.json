@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA201231"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "57664-376-08",
+    "57664-376-13",
+    "57664-376-18",
+    "57664-376-83",
+    "57664-376-88",
+    "57664-378-08",
+    "57664-378-13",
+    "57664-378-18",
+    "57664-378-83",
+    "57664-378-88",
+    "57664-379-08",
+    "57664-379-13",
+    "57664-379-18",
+    "57664-379-83",
+    "57664-379-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Dexmethylphenidate hydrochloride"
+    }
+  ],
+  "setid": "987b4983-1edc-40f1-adc9-724747080969",
+  "source": "dailymed"
+}
