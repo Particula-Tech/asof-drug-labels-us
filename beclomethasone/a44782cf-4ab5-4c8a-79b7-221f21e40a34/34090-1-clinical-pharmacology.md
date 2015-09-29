@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## Mechanism of Action:
 
 Following topical administration, beclomethasone dipropionate produces anti-inflammatory and vasoconstrictor effects.
 The mechanisms responsible for the anti-inflammatory action of beclomethasone dipropionate are unknown.
@@ -12,7 +12,7 @@ Biopsies of nasal mucosa obtained during clinical studies showed no histopatholo
 Beclomethasone dipropionate is a pro-drug with weak glucocorticoid receptor binding affinity.
 It is hydrolyzed via esterase enzymes to its active metabolite beclomethasone-17-monopropionate (B-17-MP), which has high topical anti-inflammatory activity.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Absorption: Beclomethasone dipropionate is sparingly soluble in water.
 When given by nasal inhalation in the form of an aqueous or aerosolized suspension, the drug is deposited primarily in the nasal passages.
@@ -32,7 +32,7 @@ Following oral administration of tritiated beclomethasone dipropionate, approxim
 Approximately 12% of the dose was excreted as free and conjugated polar metabolites in the urine.
 The renal clearance of beclomethasone dipropionate and its metabolites is negligible.
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 The effects of beclomethasone dipropionate on hypothalamic-pituitary-adrenal (HPA) function have been evaluated in adult volunteers by other routes of administration.
 Studies with beclomethasone dipropionate by the intranasal route may demonstrate that there is more or that there is less absorption by this route of administration.

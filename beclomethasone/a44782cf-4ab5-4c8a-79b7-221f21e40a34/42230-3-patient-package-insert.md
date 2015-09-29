@@ -47,7 +47,8 @@ Repeat steps 5 through 7 in the other nostril.
 7.
 Replace the plastic dust cap and safety clip.
 
-8.DISCARD THE BOTTLE AFTER the date calculated by your doctor or pharmacist.
+8.
+DISCARD THE BOTTLE AFTER the date calculated by your doctor or pharmacist.
 The correct amount of medication in each spray cannot be assured after 180 sprays even though the bottle is not completely empty.
 Discard the bottle after 180 sprays.
 Before the discard date you should consult your doctor to see if a refill is needed.
@@ -70,4 +71,11 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-April 2005 RL-2182
+BECONASE AQ is a registered trademark of the GSK group of companies.
+
+©2015 the GSK group of companies.
+All rights reserved.
+
+September 2015
+
+BCN:1PIL

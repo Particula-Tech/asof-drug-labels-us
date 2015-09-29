@@ -22,7 +22,7 @@ Avoid spraying in eyes.
 
 # PRECAUTIONS
 
-## General
+## General:
 
 Intranasal corticosteroids may cause a reduction in growth velocity when administered to pediatric patients (see PRECAUTIONS: Pediatric Use).
 
@@ -55,7 +55,7 @@ Because of the inhibitory effect of corticosteroids on wound healing, patients w
 Although systemic effects have been minimal with recommended doses, this potential increases with excessive doses.
 Therefore, larger than recommended doses should be avoided.
 
-## Information for Patients
+## Information for Patients:
 
 Patients being treated with BECONASE AQ Nasal Spray should receive the following information and instructions.
 This information is intended to aid them in the safe and effective use of this medication.
@@ -73,7 +73,7 @@ For the proper use of BECONASE AQ Nasal Spray and to attain maximum improvement,
 Persons who are using immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 The carcinogenicity of beclomethasone dipropionate was evaluated in rats that were exposed for a total of 95 weeks, 13 weeks at inhalation doses up to 0.4 mg/kg and the remaining 82 weeks at combined oral and inhalation doses up to 2.4 mg/kg.
 There was no evidence of carcinogenicity in this study at the highest dose, approximately 60 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis or approximately 35 times the maximum recommended daily intranasal dose in children on a mg/m2 basis.
@@ -86,9 +86,9 @@ There was no significant effect of beclomethasone dipropionate on fertility in r
 Inhibition of the estrous cycle in dogs was observed following oral dosing at 0.5 mg/kg (approximately 40 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 No inhibition of the estrous cycle in dogs was seen following 12 months’ exposure at an estimated inhalation dose of 0.33 mg/kg (approximately 25 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 
-## Pregnancy
+## Pregnancy:
 
-Teratogenic Effects: Pregnancy Category C. Like other corticosteroids, beclomethasone dipropionate was teratogenic and embryocidal in the mouse and rabbit at a subcutaneous dose of 0.1 mg/kg in mice or 0.025 mg/kg in rabbits (approximately equal to the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
+Teratogenic Effects: Like other corticosteroids, beclomethasone dipropionate was teratogenic and embryocidal in the mouse and rabbit at a subcutaneous dose of 0.1 mg/kg in mice or 0.025 mg/kg in rabbits (approximately equal to the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 No teratogenicity or embryocidal effects were seen in rats when exposed to an inhalation dose of 0.1 mg/kg plus oral doses of up to 10 mg/kg per day for a combined dose of 10.1 mg/kg (approximately 240 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 
 There are no adequate and well-controlled studies in pregnant women.
@@ -97,12 +97,12 @@ Beclomethasone dipropionate should be used during pregnancy only if the potentia
 Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully observed.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether beclomethasone dipropionate is excreted in human milk.
 Because other corticosteroids are excreted in human milk, caution should be exercised when BECONASE AQ Nasal Spray is administered to a nursing woman.
 
-## Pediatric Use
+## Pediatric Use:
 
 The safety and effectiveness of BECONASE AQ Nasal Spray have been established in children aged 6 years and above through evidence from extensive clinical use in adult and pediatric patients.
 The safety and effectiveness of BECONASE AQ Nasal Spray in children below 6 years of age have not been established.
@@ -125,7 +125,7 @@ In children 7.3 years of age, the mean age of children in this study, the range 
 The potential reversibility of the reduction in growth velocity was not studied.
 No significant differences were observed between the 2 groups for mean basal plasma cortisol or ACTH-stimulated plasma cortisol levels.
 
-## Geriatric Use
+## Geriatric Use:
 
 Clinical studies of BECONASE AQ Nasal Spray did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

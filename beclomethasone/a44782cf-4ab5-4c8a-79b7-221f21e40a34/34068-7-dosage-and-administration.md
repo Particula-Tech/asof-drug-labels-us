@@ -1,10 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-## Adults and Children 12 Years of Age and Older
+## Adults and Children 12 Years of Age and Older:
 
 The usual dosage is 1 or 2 nasal inhalations (42 to 84 mcg) in each nostril twice a day (total dose, 168 to 336 mcg/day).
 
-## Children 6 to 12 Years of Age
+## Children 6 to 12 Years of Age:
 
 Patients should be started with 1 nasal inhalation in each nostril twice daily; patients not adequately responding to 168 mcg or those with more severe symptoms may use 336 mcg (2 inhalations in each nostril).
 Once adequate control is achieved, the dosage should be decreased to 84 mcg (1 spray in each nostril) twice daily.
@@ -22,6 +22,6 @@ This should be explained to the patient in advance in order to ensure cooperatio
 In the presence of excessive nasal mucous secretion or edema of the nasal mucosa, the drug may fail to reach the site of intended action.
 In such cases it is advisable to use a nasal vasoconstrictor during the first 2 to 3 days of therapy with BECONASE AQ Nasal Spray.
 
-## Directions for Use
+## Directions for Use:
 
 Illustrated Patient’s Instructions for Use accompany each package of BECONASE AQ Nasal Spray.
