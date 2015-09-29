@@ -1,13 +1,17 @@
 {
   "application_numbers": [
-    "NDA021936"
+    "NDA021936",
+    "NDA207070"
   ],
   "inn": "tiotropium",
   "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0597-0100-28",
     "0597-0100-31",
-    "0597-0100-61"
+    "0597-0100-61",
+    "0597-0160-28",
+    "0597-0160-31",
+    "0597-0160-61"
   ],
   "products": [
     {

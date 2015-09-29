@@ -1,8 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Not For Acute Use
+## 5.1 Not for Acute Use
 
-SPIRIVA RESPIMAT is intended as a once-daily maintenance treatment for COPD and should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
+SPIRIVA RESPIMAT is intended as a once-daily maintenance treatment for COPD and asthma and should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
+In the event of an acute attack, a rapid-acting beta2-agonist should be used.
 
 ## 5.2 Immediate Hypersensitivity Reactions
 
@@ -25,7 +26,7 @@ Instruct patients to consult a physician immediately should any of these signs o
 ## 5.5 Worsening of Urinary Retention
 
 SPIRIVA RESPIMAT should be used with caution in patients with urinary retention.
-Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder neck obstruction.
+Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 
 ## 5.6 Renal Impairment

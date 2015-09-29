@@ -31,17 +31,13 @@ A dedicated pharmacokinetic study in patients with COPD evaluating once-daily ti
 Absorption Following inhalation of the solution by young healthy volunteers, urinary excretion data suggests that approximately 33% of the inhaled dose reaches the systemic circulation.
 Oral solutions of tiotropium have an absolute bioavailability of 2% to 3%.
 Food is not expected to influence the absorption of tiotropium for the same reason.
-Following 4-week SPIRIVA RESPIMAT once daily dosing, maximum tiotropium plasma concentrations were observed 5-7 minutes after inhalation.
+Following 4-week SPIRIVA RESPIMAT once daily dosing, maximum tiotropium plasma concentrations were observed 5-7 minutes after inhalation in COPD and asthma patients.
 
 Distribution The drug has a plasma protein binding of 72% and shows a volume of distribution of 32 L/kg after an intravenous dose to young healthy volunteers.
 Local concentrations in the lung are not known, but the mode of administration suggests substantially higher concentrations in the lung.
 Studies in rats have shown that tiotropium does not penetrate the blood-brain barrier.
 
-Elimination The terminal half-life of tiotropium was between 5 and 6 days following dry powder inhalation.
-Total clearance was 880 mL/min after an intravenous dose in young healthy volunteers.
-After chronic once-daily dry powder inhalation by COPD patients, pharmacokinetic steady-state was reached by day 7 with no accumulation thereafter.
-
-Metabolism The extent of metabolism is small.
+Elimination Metabolism The extent of metabolism is small.
 This is evident from a urinary excretion of 74% of unchanged substance after an intravenous dose to young healthy volunteers.
 Tiotropium, an ester, is nonenzymatically cleaved to the alcohol N-methylscopine and dithienylglycolic acid, neither of which binds to muscarinic receptors.
 
@@ -50,15 +46,23 @@ This enzymatic pathway can be inhibited by CYP450 2D6 and 3A4 inhibitors, such a
 Thus, CYP450 2D6 and 3A4 are involved in the metabolic pathway that is responsible for the elimination of a small part of the administered dose.
 In vitro studies using human liver microsomes showed that tiotropium in supra-therapeutic concentrations does not inhibit CYP450 1A1, 1A2, 2B6, 2C9, 2C19, 2D6, 2E1, or 3A4.
 
-Excretion Intravenously administered tiotropium bromide is mainly excreted unchanged in urine (74%).
-Following 21-day, once daily inhalation of the solution by patients with COPD, 24-hour urinary excretion is 18.6% (0.93 mcg) of the dose.
+Excretion The terminal half-life of tiotropium in COPD and asthma patients following once daily inhalation is 25 and 44 hours, respectively.
+Total clearance was 880 mL/min after an intravenous dose in young healthy volunteers.
+Intravenously administered tiotropium bromide is mainly excreted unchanged in urine (74%).
+Following 21-day once daily inhalation of 5 mcg of the solution by patients with COPD, 24-hour urinary excretion is 18.6% (0.93 mcg) of the dose.
 The renal clearance of tiotropium exceeds the creatinine clearance, indicating secretion into the urine.
+In comparison, 12.8% (0.32 mcg) of the dose was excreted unchanged in the urine over 24 hours at steady state after inhalation of 2.5 mcg in patients with asthma.
+After chronic once-daily inhalation by COPD and asthma patients, pharmacokinetic steady-state was reached by day 7 with no accumulation thereafter.
 
 Specific Populations Geriatric Patients As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (347 mL/min in COPD patients <65 years to 275 mL/min in COPD patients ≥65 years).
-This did not result in a corresponding increase in AUC0–6,ss and Cmax,ss values following inhalation of the solution.
+This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values following inhalation of the solution.
+Exposure to tiotropium was not found to differ with age in patients with asthma.
 
-Renal Impairment Following 4-week SPIRIVA RESPIMAT once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60-90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30-60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
-There lacks sufficient data of tiotropium exposure in patients with severe renal impairment (creatinine clearance <30 mL/min) following inhalation of the solution.
+Pediatric Patients The exposure to tiotropium was not found to differ between adolescents (aged 12 to 17 years) and adults with asthma.
+
+Renal Impairment Following 4-week SPIRIVA RESPIMAT 5 mcg once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60-90 mL/min) resulted in 23% higher AUC0-6,ss and 17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30-60 mL/min) resulted in 57% higher AUC0-6,ss and 31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
+The influence of mild or moderate renal impairment on the systemic exposure to SPIRIVA RESPIMAT 2.5 mcg in patients with asthma was similar to what has been described for COPD above.
+There lacks sufficient data of tiotropium exposure in patients with severe renal impairment (creatinine clearance <30 mL/min) following inhalation of SPIRIVA RESPIMAT.
 However AUC0-4 and Cmax were 94% and 52% higher, respectively, in patients with severe renal impairment following intravenous infusion of tiotropium bromide.
 
 Hepatic Impairment The effects of hepatic impairment on the pharmacokinetics of tiotropium were not studied.
@@ -67,4 +71,5 @@ Drug Interactions An interaction study with tiotropium (14.4 mcg intravenous inf
 Concomitant administration of cimetidine with tiotropium resulted in a 20% increase in the AUC0-4h, a 28% decrease in the renal clearance of tiotropium and no significant change in the Cmax and amount excreted in urine over 96 hours.
 Co-administration of tiotropium with ranitidine did not affect the pharmacokinetics of tiotropium.
 
-Common concomitant medications (long-acting beta2-adrenergic agonists (LABA), inhaled corticosteroids (ICS)) used by patients with COPD were not found to alter the exposure to tiotropium.
+Common concomitant medications (LABA, ICS) used by patients with COPD were not found to alter the exposure to tiotropium.
+Similarly, common concomitant medications (LABA, ICS+LABA combinations, oral corticosteroids and leukotriene modifiers) used by patients with asthma were not found to alter the exposure to tiotropium.

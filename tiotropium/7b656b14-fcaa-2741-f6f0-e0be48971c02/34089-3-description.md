@@ -15,10 +15,9 @@ The drug product, SPIRIVA RESPIMAT, is composed of a sterile, aqueous solution o
 Excipients include water for injection, edetate disodium, benzalkonium chloride and hydrochloric acid.
 The SPIRIVA RESPIMAT cartridge is only intended for use with the SPIRIVA RESPIMAT inhaler.
 The RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow moving aerosol cloud of medication from a metered volume of the drug solution.
-The SPIRIVA RESPIMAT inhaler has an aqua-colored cap.
 
 When used with the SPIRIVA RESPIMAT inhaler, each cartridge containing 4 grams of sterile aqueous solution delivers 60 (or 28) metered actuations after preparation for use, the equivalent of 30 days’ (or 14 days’) medication when used as two actuations once a day.
-Each dose (one dose equals two actuations) from the SPIRIVA RESPIMAT inhaler delivers 5 mcg of tiotropium in 22.1 mcL from the mouthpiece.
+Each dose (one dose equals two actuations) from the SPIRIVA RESPIMAT inhaler delivers 2.5 mcg or 5 mcg of tiotropium in 22.1 mcL from the mouthpiece.
 As with all inhaled drugs, the actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the inhaler and inspiration through the delivery system.
 The duration of inspiration should be at least as long as the spray duration (1.5 seconds).
 

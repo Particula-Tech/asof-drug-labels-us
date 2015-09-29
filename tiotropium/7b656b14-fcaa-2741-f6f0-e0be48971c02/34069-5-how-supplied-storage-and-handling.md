@@ -8,12 +8,22 @@ The SPIRIVA RESPIMAT cartridge is only intended for use with the SPIRIVA RESPIMA
 The SPIRIVA RESPIMAT inhaler is a cylindrical shaped plastic inhalation device with a gray colored body and a clear base.
 The clear base is removed to insert the cartridge.
 The inhaler contains a dose indicator.
-The aqua colored cap and the written information on the label of the gray inhaler body indicate that it is labeled for use with the SPIRIVA RESPIMAT cartridge.
+The written information on the label of the gray inhaler body indicate that it is labeled for use with the SPIRIVA RESPIMAT cartridge.
 
-SPIRIVA RESPIMAT Inhalation Spray is available as: SPIRIVA RESPIMAT Inhalation Spray: 60 metered actuations (NDC 0597-0100-61) SPIRIVA RESPIMAT Inhalation Spray: 28 metered actuations (NDC 0597-0100-31) (institutional pack)
+SPIRIVA RESPIMAT Inhalation Spray is available in two dosage strengths, identified by dose delivered per actuation and by the color of the cap and associated container label: aqua represents 2.5 mcg per actuation; blue represents 1.25 mcg per actuation.
 
-The SPIRIVA RESPIMAT cartridge has a net fill weight of 4 grams and when used with the SPIRIVA RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations (60 or 28) after preparation for use; which is, respectively, equivalent to 30 or 14 days of medication when used according to the Instructions for Use.
-Each actuation from the SPIRIVA RESPIMAT inhaler delivers 2.5 mcg of tiotropium (equivalent to 3.124 mcg of tiotropium bromide monohydrate) from the mouthpiece.
+To deliver the recommended dosage for COPD:
+
+- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 60 metered actuations (NDC 0597-0100-61)
+- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 28 metered actuations (NDC 0597-0100-31) (institutional pack)
+
+To deliver the recommended dosage for asthma:
+
+- SPIRIVA RESPIMAT Inhalation Spray 1.25 mcg/actuation 60 metered actuations (NDC 0597-0160-61)
+- SPIRIVA RESPIMAT Inhalation Spray 1.25 mcg/actuation 28 metered actuations (NDC 0597-0160-31) (institutional pack)
+
+The SPIRIVA RESPIMAT cartridge for each strength has a net fill weight of 4 grams and when used with the SPIRIVA RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations (60 or 28) after preparation for use; which is, respectively, equivalent to 30 or 14 days of medication when used according to the Instructions for Use.
+Each actuation from the SPIRIVA RESPIMAT inhaler delivers 1.25 or 2.5 mcg of tiotropium (equivalent to 1.562 or 3.124 mcg, respectively, of tiotropium bromide monohydrate) from the mouthpiece.
 
 When the labeled number of actuations (60 or 28) has been dispensed from the inhaler, the RESPIMAT locking mechanism will be engaged and no more actuations can be dispensed.
 

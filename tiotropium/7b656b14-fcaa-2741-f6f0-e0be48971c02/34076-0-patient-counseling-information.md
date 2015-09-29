@@ -2,22 +2,24 @@
 
 Advise the patient to read the FDA-approved patient labeling (Instructions for Use)
 
-Paradoxical Bronchospasm: Inform patients that SPIRIVA RESPIMAT can produce paradoxical bronchospasm.
+Not for Acute Use Instruct patients that SPIRIVA RESPIMAT is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems, (i.e., as a rescue medication).
+
+Paradoxical Bronchospasm Inform patients that SPIRIVA RESPIMAT can produce paradoxical bronchospasm.
 Advise patients that if paradoxical bronchospasm occurs, patients should discontinue SPIRIVA RESPIMAT.
 
-Worsening of Narrow-Angle Glaucoma: Instruct patients to be alert for signs and symptoms of narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
+Worsening of Narrow-Angle Glaucoma Instruct patients to be alert for signs and symptoms of narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a physician immediately should any of these signs and symptoms develop.
 
 Inform patients that care must be taken not to allow the aerosol cloud to enter into the eyes as this may cause blurring of vision and pupil dilation.
 
 Since dizziness and blurred vision may occur with the use of SPIRIVA RESPIMAT, caution patients about engaging in activities such as driving a vehicle or operating appliances or machinery.
 
-Worsening of Urinary Retention: Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
+Worsening of Urinary Retention Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 
-Not for Acute Use: Instruct patients that SPIRIVA RESPIMAT is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems, (i.e., as a rescue medication).
+Treatment of Asthma Instruct asthma patients that the maximum benefits may only be apparent after 4 to 8 weeks of SPIRIVA RESPIMAT treatment.
 
-Instructions for Administering SPIRIVA RESPIMAT: It is important for patients to understand how to correctly administer SPIRIVA inhalation spray using the SPIRIVA RESPIMAT inhaler.
+Instructions for Administering SPIRIVA RESPIMAT It is important for patients to understand how to correctly administer SPIRIVA inhalation spray using the SPIRIVA RESPIMAT inhaler.
 Instruct patients that SPIRIVA inhalation spray should only be administered via the SPIRIVA RESPIMAT inhaler and the SPIRIVA RESPIMAT inhaler should not be used for administering other medications.
 
 Instruct patients that priming SPIRIVA RESPIMAT is essential to ensure appropriate content of the medication in each actuation.

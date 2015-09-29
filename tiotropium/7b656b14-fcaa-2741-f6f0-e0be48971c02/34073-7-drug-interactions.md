@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Sympathomimetics, Methylxanthines, Steroids
+## 7.1 Concomitant Respiratory Medications
 
-SPIRIVA RESPIMAT has been used concomitantly with short-acting and long-acting sympathomimetic (beta-agonists) bronchodilators, methylxanthines, and oral and inhaled steroids, without increases in adverse reactions.
+SPIRIVA RESPIMAT has been used concomitantly with short-acting and long-acting sympathomimetic (beta-agonists) bronchodilators, methylxanthines, oral and inhaled steroids, antihistamines, mucolytics, leukotriene modifiers, cromones, and anti-IgE treatment without increases in adverse reactions.
 
 ## 7.2 Anticholinergics
 
