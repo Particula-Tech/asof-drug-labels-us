@@ -181,3 +181,5 @@ Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5
 Skin and Subcutaneous Tissue Disorders: serious skin reactions, including Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement)
 
 Gastrointestinal Disorders: nausea, vomiting
+
+Special Senses: visual disturbances
