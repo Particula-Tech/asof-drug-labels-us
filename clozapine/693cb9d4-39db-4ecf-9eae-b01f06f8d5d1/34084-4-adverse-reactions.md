@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Agranulocytosis [see Warnings and Precautions (5.1)].
+- •Severe Neutropenia [see Warnings and Precautions (5.1)].
 - •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
 - •Seizures [see Warnings and Precautions (5.4)].
 - •Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
@@ -23,43 +23,41 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most commonly reported adverse reactions (> 5%) across clozapine clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
-Table 8 summarizes the most commonly reported adverse reactions (> 5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
+The most commonly reported adverse reactions (>5%) across clozapine clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
+Table 9 summarizes the most commonly reported adverse reactions (>5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
-Table 8.
-Common Adverse Reactions (≥ 5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
+Table 9: Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
-| Adverse Reaction | Clozapine(N = 126)(%) | Chlorpromazine(N = 142)(%) |
+| Adverse Reaction | Clozapine(N=126)(%) | Chlorpromazine(N=142)(%) |
 | --- | --- | --- |
 | SedationTachycardiaConstipationDizzinessHypotensionFever (hyperthermia)HypersalivationHypertensionHeadacheNausea/vomitingDry mouth | 211716141313131210105 | 1311121638415101220 |
 
-Table 9 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
+Table 10 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
-Table 9.
-Adverse Reactions (≥ 2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
+Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
 
-| Body System Adverse Reaction | ClozapineN = 842 Percentage of Patients |
+| Body System Adverse Reaction | ClozapineN=842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System Drowsiness/Sedation Dizziness/Vertigo Headache Tremor | 39 19 7 6 |
 | Syncope Disturbed Sleep/Nightmares Restlessness Hypokinesia/Akinesia | 6 4 4 4 |
-| Agitation Seizures (convulsions) Rigidity Akathisia Confusion Fatigue Insomnia | 4 3Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. 3 3 3 22 |
-| Cardiovascular Tachycardia Hypotension Hypertension | 25 9 4 |
+| Agitation Seizures (convulsions) Rigidity Akathisia Confusion Fatigue Insomnia | 4 3† 3 3 3 22 |
+| Cardiovascular Tachycardia Hypotension Hypertension | 25† 9 4 |
 | Gastrointestinal Constipation Nausea Abdominal Discomfort/Heartburn Nausea/Vomiting Vomiting Diarrhea | 14 5 4 3 3 2 |
 | Urogenital Urinary Abnormalities | 2 |
 | Autonomic Nervous System Salivation Sweating Dry Mouth Visual Disturbances | 31 6 6 5 |
 | Skin Rash | 2 |
 | Hemic/Lymphatic Leukopenia/Decreased WBC/Neutropenia | 3 |
 | Miscellaneous Fever Weight Gain | 5 4 |
+| † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine. |  |
 
-Table 10 summarizes the most commonly reported adverse reactions (> 10% of the clozapine or olanzapine group) in the InterSePT™ Study.
+Table 11 summarizes the most commonly reported adverse reactions (>10% of the clozapine or olanzapine group) in the InterSePT™ Study.
 This was an adequate and well-controlled, two-year study evaluating the efficacy of clozapine relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
-Table 10.
-Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT™ Study (> 10% in the clozapine or olanzapine group)
+Table 11: Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT™ Study (≥10% in the clozapine or olanzapine group)
 
-| Adverse Reactions | Clozapine N = 479 % Reporting | Olanzapine N = 477 % Reporting |
+| Adverse Reactions | ClozapineN=479% Reporting | OlanzapineN=477% Reporting |
 | --- | --- | --- |
 | Salivary hypersecretion | 48% | 6% |
 | Somnolence | 46% | 25% |
@@ -89,7 +87,11 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, periorbital edema, and myocardial infarction, Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de Pointes.
+Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
+
+Endocrine System
+
+Pseudopheochromocytoma.
 
 Gastrointestinal System
 
@@ -99,17 +101,21 @@ Hepatobiliary System
 
 Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
+Immune System Disorders
+
+Angioedema, leukocytoclastic vasculitis.
+
 Urogenital System
 
 Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
+Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 
-Musculoskeletal System
+Musculoskeletal System and Connective Tissue Disorders
 
-Myasthenic syndrome and rhabdomyolysis.
+Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
 
 Respiratory System
 
@@ -117,7 +123,7 @@ Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System
 
-Deep vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

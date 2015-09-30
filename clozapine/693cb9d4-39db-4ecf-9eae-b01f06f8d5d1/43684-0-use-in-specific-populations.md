@@ -47,7 +47,7 @@ Elderly patients, particularly those with compromised cardiovascular functioning
 Elderly patients may be particularly susceptible to the anticholinergic effects of clozapine, such as urinary retention and constipation [see Warnings and Precautions (5.13)].
 
 Carefully select VERSACLOZ doses in elderly patients, taking into consideration their greater frequency of decreased hepatic, renal, or cardiac function, as well as other concomitant disease and other drug therapy.
-Clinical experience suggests that the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women [see Warnings and Precautions (5.15)].
+Clinical experience suggests that the prevalence of tardive dyskinesia appears to be highest among the elderly; especially elderly women [see Warnings and Precautions (5.15)].
 
 ## 8.6 Patients with Renal or Hepatic Impairment
 
@@ -58,3 +58,8 @@ Clozapine concentrations may be increased in these patients, because clozapine i
 
 Dose reduction may be necessary in patients who are CYP2D6 poor metabolizers.
 Clozapine concentrations may be increased in these patients, because clozapine is almost completely metabolized and then excreted [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].
+
+## 8.8 Hospice Patients
+
+For hospice patients (i.e., terminally ill patients with an estimated life expectancy of 6 months or less), the prescriber may reduce the ANC monitoring frequency to once every 6 months, after a discussion with the patient and his/her caregiver.
+Individual treatment decisions should weigh the importance of monitoring ANC in the context of the need to control psychiatric symptoms and the patient's terminal illness.

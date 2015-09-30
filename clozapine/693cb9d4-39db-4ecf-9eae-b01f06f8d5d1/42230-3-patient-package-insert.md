@@ -1,6 +1,6 @@
 # Patient Information
 
-VERSACLOZ™ (VER sakloz)
+VERSACLOZ® (VER sa kloz)
 
 (clozapine)
 
@@ -15,11 +15,11 @@ What is the most important information I should know about VERSACLOZ?
 VERSACLOZ can cause serious side effects, including:
 
 1.
-Agranulocytosis, a blood disorder that can lead to serious infections and death.
-Agranulocytosis means that you do not have enough of certain white blood cells to fight infection.
-Tell your healthcare provider right away if you have any of the following symptoms of agranulocytosis:
+Severe neutropenia, a blood disorder that can lead to serious infections and death.
+Severe neutropenia means that you do not have enough of certain white blood cells to fight infection.
+Tell your healthcare provider right away if you have any of the following symptoms or signs of neutropenia or infection:
 
-- •Infection, including skin, throat, urinary tract, vaginal, pneumonia, or any other infection
+- •Skin, throat, urinary tract, vaginal, pneumonia, or any other infection
 - •Fever or chills
 - •Sores or ulcers inside your mouth, gums or on your skin
 - •Wounds that take a long time to heal
@@ -30,34 +30,31 @@ Tell your healthcare provider right away if you have any of the following sympto
 - •Sores or pain in or around your rectal area
 - •Feel extremely tired or weak
 
-If you have symptoms of agranulocytosis you will need to have a blood test right away to check if VERSACLOZ is causing your symptoms.
-You must have frequent blood tests while taking VERSACLOZ so your healthcare provider can make sure you are not getting agranulocytosis.
+If you have symptoms of severe neutropenia or infection you will need to have a blood test right away to check if VERSACLOZ is causing your symptoms.
+You must have frequent blood tests while taking VERSACLOZ so your healthcare provider can make sure you are not getting severe neutropenia or infection.
 
-VERSACLOZ Patient Registry: All patients taking VERSACLOZ will need to join a special program called the VERSACLOZ Patient Registry.
-You will receive each refill of VERSACLOZ only if you have a blood test and your blood test result is acceptable to your healthcare provider.
+VERSACLOZ is available only through a restricted program called the Clozapine REMS Program.
+This program makes sure that you will receive each refill of VERSACLOZ only if you have a blood test and your blood test result is acceptable to your healthcare provider.
 
 During your first 6 months of clozapine treatment, you will have weekly blood tests.
 If you have not taken clozapine before, you will need weekly blood tests when you first start VERSACLOZ.
 If you have acceptable blood test results during your first 6 months of clozapine treatment, you can have a blood test every other week for the next 6 months.
-After a year of acceptable blood test results, you can have blood tests every 4 weeks.
+After a year of acceptable blood test results, you can have blood tests every 4 weeks while you are taking VERSACLOZ.
 
 2.
 Decreased blood pressure (orthostatic hypotension), slow heart rate (bradycardia), or fainting (syncope) that can lead to death.
 Lightheadedness or fainting caused by a sudden change in your heart rate and blood pressure when you rise too quickly from a sitting or lying position can happen while you take VERSACLOZ and can be life threatening.
 These problems may happen more often when you are first starting treatment with VERSACLOZ or when your dose is increased.
+Tell your healthcare provider right away if you feel faint, lose consciousness, or have symptoms of slow heart rate or an irregular heart rhythm.
 
 3.
-Seizures
+Seizures.
+Seizures can occur during VERSACLOZ treatment.
+Be especially careful while driving or during any other dangerous activity while taking VERSACLOZ.
 
 4.
 Myocarditis (heart muscle inflammation) and cardiomyopathy (heart muscle weakness) that may lead to death.
 Symptoms of myocarditis and cardiomyopathy include:
-
-| •chest pain | •swollen legs, ankles and feet |
-| --- | --- |
-| •fast heartbeat | •feel tired |
-| •shortness of breath | •fever |
-| •dizziness |  |
 
 5.
 Higher risk of death in elderly people with memory loss (dementia) or psychosis.
@@ -66,7 +63,7 @@ VERSACLOZ is not for treating psychosis in elderly people with dementia.
 
 What is VERSACLOZ?
 
-VERSACLOZ is a prescription antipsychotic medicine used to treat people with certain types of schizophrenia including people who:
+VERSACLOZ is a prescription antipsychotic medicine used to treat people with certain types of schizophrenia, including people who:
 
 - •are not helped by other schizophrenia medicines
 - •have been suicidal and may be at risk of suicidal behavior again
@@ -77,7 +74,7 @@ Who should not take VERSACLOZ?
 
 Do not take VERSACLOZ if you:
 
-- •have had blood problems called agranulocytosis, severe granulocytopenia, or neutropenia after taking clozapine
+- •have blood problems called neutropenia
 - •are allergic to clozapine or any of the ingredients in VERSACLOZ.
   See the end of this Patient Information Leaflet for a complete list of ingredients in VERSACLOZ.
 
@@ -112,7 +109,7 @@ VERSACLOZ and other medicines may affect each other causing side effects.
 
 Especially tell your healthcare provider if you take:
 
-- •chemotherapy, radiation, or other medicines that cause agranulocytosis, low white blood cell count, or affect your bone marrow
+- •chemotherapy, radiation, or other medicines that cause agranulocytosis, neutropenia, low white blood cell count, or affect your bone marrow
 - •other antipsychotics or other medicines that can affect the amount of clozapine in your blood
 - •medicines used to treat anxiety, relax your muscles, or help you sleep
 - •any medicines that make you feel sleepy
@@ -135,13 +132,6 @@ How should I take VERSACLOZ?
 - •Do not change your dose or stop taking VERSACLOZ without talking to your healthcare provider.
 
 The symptoms of VERSACLOZ overdose can include:
-
-| •feeling sleepy | •seizures |
-| --- | --- |
-| •confusion | •shallow or difficult breathing |
-| •coma | •having a lot of saliva in your mouth |
-| •fast or irregular heartbeat |  |
-| •low blood pressure |  |
 
 If you miss a dose of VERSACLOZ for more than 2 days, check with your healthcare provider before starting to take it again to make sure you take the correct dose.
 
@@ -177,7 +167,7 @@ VERSACLOZ may cause serious side effects, including:
   Some people may have a fever that comes and goes while they take VERSACLOZ.
   This happens more often in the first 3 weeks you take VERSACLOZ.
   Talk to your healthcare provider if you have a fever.
-- •blood clot in your lung (pulmonary embolism) or in the veins of your legs (deep vein thrombosis).
+- •blood clot in your lung (pulmonary embolism) or in the veins of your legs (deep-vein thrombosis).
   Get emergency help right away if you have symptoms of a blood clot including:
   - •chest pain and shortness of breath
   - •swelling or pain in your leg, ankle or foot
@@ -189,15 +179,6 @@ VERSACLOZ may cause serious side effects, including:
 - •stroke in elderly people (cerebrovascular problems)
 
 The most common side effects of VERSACLOZ include:
-
-| •sleepiness or drowsiness | •headache |
-| --- | --- |
-| •dizziness | •shaking movements (tremors) |
-| •heart and blood vessel problems | •low blood pressure |
-| • fast heartbeat | •having a lot of saliva in your mouth |
-| •passing out (syncope) | •dry mouth |
-| •increased sweating | •stomach and intestinal problems |
-| •vision problems | •nausea |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -237,7 +218,7 @@ Inactive ingredients: glycerin, sorbitol (non-crystallizing), sodium dihydrogen 
 
 Instructions for Use
 
-VERSACLOZTM (VER sakloz)
+VERSACLOZ® (VER sa kloz)
 
 (clozapine)
 
@@ -245,7 +226,7 @@ Oral Suspension
 
 Supplies you will need to take your VERSACLOZ dose:
 
-- •VERSACLOZTM Oral Suspension bottle
+- •VERSACLOZ® Oral Suspension bottle
 - •a bottle neck adaptor
 - •the correct oral syringe to measure your dose
   - •If your dose is 1 mL (50 mg) or less, use the smaller 1 mL oral syringe.
@@ -259,10 +240,10 @@ The oral syringe should not be shared with other people or used for medicines ot
 
 Distributed by:
 
-Jazz Pharmaceuticals, Inc.,
+Jazz Pharmaceuticals, Inc.
 
 Palo Alto, CA 94304 USA
 
-This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Patient Information and the Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Approved 02/2013
+Revised: September 2015

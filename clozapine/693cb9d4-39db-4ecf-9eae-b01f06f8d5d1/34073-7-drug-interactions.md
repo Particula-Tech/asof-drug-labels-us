@@ -17,7 +17,7 @@ Consider reducing the VERSACLOZ dosage if necessary [see Dosage and Administrati
 
 CYP2D6 and CYP3A4 Inhibitors
 
-Concomitant treatment with VERSACLOZ and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase VERSACLOZ levels and lead to adverse reactions [see Clinical Pharmacology (12.3)].
+Concomitant treatment with VERSACLOZ and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase clozapine levels and lead to adverse reactions [see Clinical Pharmacology (12.3)].
 Use caution and monitor patients closely when using such inhibitors.
 Consider reducing the VERSACLOZ dose [see Dosage and Administration (2.7)].
 
