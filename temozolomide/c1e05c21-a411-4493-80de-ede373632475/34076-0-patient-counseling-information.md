@@ -258,7 +258,6 @@ If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutr
 During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1,500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of temozolomide should not be started until the ANC and platelet count exceed these levels.
 If the ANC falls to less than 1 × 109/L (1,000/µL) or the platelet count is less than 50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 1 below).
-TABLE 1: Dosing Modification Table for Refractory Anaplastic Astrocytoma
 
 What is the temozolomide capsules treatment regimen?
 
@@ -401,4 +400,4 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
 ISS.
-04/2015 PJPI0494
+09/2015 PJPI0494A

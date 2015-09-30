@@ -56,7 +56,6 @@ The next cycle of temozolomide should not be started until the ANC and platelet 
 If the ANC falls to less than 1 × 109/L (1,000/µL) or the platelet count is less than 50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
 Temozolomide therapy can be continued until disease progression.
 In the clinical trial, treatment could be continued for a maximum of 2 years, but the optimum duration of therapy is not known.
-TABLE 4: Dosing Modification Table
 
 TABLE 5: Daily Dose Calculations by Body Surface Area (BSA)
 

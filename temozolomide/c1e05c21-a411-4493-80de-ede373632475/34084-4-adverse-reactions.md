@@ -157,10 +157,8 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug exposure.
 Dermatologic disorders: Toxic epidermal necrolysis and Stevens-Johnson syndrome Immune system disorders: Allergic reactions, including anaphylaxis.
 Erythema multiforme, which resolved after discontinuation of temozolomide and, in some cases, recurred upon rechallenge.
-
 Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic anemia and fatal outcomes [see Warnings and Precautions (5.1)].
-
 Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
-
-Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3),reactivation of infections such as cytomegalovirus and hepatitis B. Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
+Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)], primary and reactivated cytomegalovirus (CMV), and reactivation of hepatitis B infections including some cases with fatal outcomes.
+Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
 Endocrine disorders: Diabetes insipidus
