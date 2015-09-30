@@ -4,7 +4,9 @@ Dextroamphetamine Sulfate Tablets USP 5mg 100 Tablets Label Text
 
 NDC 0555-0952-02
 
-DEXTROAMPHETAMINE SULFATE Tablets USP 5 mg
+Dextroamphetamine Sulfate
+
+Tablets USP 5 mg
 
 CII
 
@@ -22,7 +24,7 @@ Dextroamphetamine Sulfate Tablets USP 10mg 100 Tablets Label Text
 
 NDC 0555-0953-02
 
-DEXTROAMPHETAMINE SULFATE Tablets USP 10 mg
+Dextroamphetamine Sulfate Tablets USP 10 mg
 
 CII
 
