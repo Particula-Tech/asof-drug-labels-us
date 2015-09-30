@@ -17,7 +17,7 @@ Consider reducing the FAZACLO dosage if necessary [see Dosage and Administration
 
 CYP2D6 and CYP3A4 Inhibitors
 
-Concomitant treatment with FAZACLO and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase FAZACLO levels and lead to adverse reactions [see Clinical Pharmacology (12.3)].
+Concomitant treatment with FAZACLO and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase clozapine levels and lead to adverse reactions [see Clinical Pharmacology (12.3)].
 Use caution and monitor patients closely when using such inhibitors.
 Consider reducing the FAZACLO dose [see Dosage and Administration (2.7)].
 

@@ -6,7 +6,7 @@ NDC No. 18860-101-10
 
 FazaClo®
 
-(clozapine, USP)
+(clozapine)
 
 Orally Disintegrating Tablets
 
@@ -24,14 +24,12 @@ Protect from moisture.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
+Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals, Inc.
+Distributed by Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 USA.
 
-Palo Alto, CA 94304 USA.
 U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-Aug 2013, FZCLtb-13-12
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 25 mg (Bottle)
 
@@ -41,7 +39,7 @@ NDC No. 18860-102-10
 
 FazaClo®
 
-(clozapine, USP)
+(clozapine)
 
 Orally Disintegrating Tablets
 
@@ -59,15 +57,12 @@ Protect from moisture.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
+Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals, Inc.
+Distributed by Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 USA.
 
-Palo Alto, CA 94304 USA.
 U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-
-Aug 2013, FZCLtb-13-22
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 100 mg (Bottle)
 
@@ -77,7 +72,7 @@ NDC No. 18860-104-10
 
 FazaClo®
 
-(clozapine, USP)
+(clozapine)
 
 Orally Disintegrating Tablets
 
@@ -95,14 +90,12 @@ Protect from moisture.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
+Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals, Inc.
+Distributed by Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 USA.
 
-Palo Alto, CA 94304 USA.
 U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-Aug 2013, FZCLtb-13-32
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 150 mg (Bottle)
 
@@ -112,7 +105,7 @@ NDC No. 18860-105-10
 
 FazaClo®
 
-(clozapine, USP)
+(clozapine)
 
 Orally Disintegrating Tablets
 
@@ -130,14 +123,12 @@ Protect from moisture.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
+Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals, Inc.
+Distributed by Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 USA.
 
-Palo Alto, CA 94304 USA.
 U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-Aug 2013, FZCLtb-13-42
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 200 mg (Bottle)
 
@@ -147,7 +138,7 @@ NDC No. 18860-106-10
 
 FazaClo®
 
-(clozapine, USP)
+(clozapine)
 
 Orally Disintegrating Tablets
 
@@ -165,10 +156,9 @@ Protect from moisture.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
+Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharamceuticals, Inc.
+Distributed by Jazz Pharamceuticals, Inc. Palo Alto, CA 94304 USA
 
-Palo Alto, CA 94304 USA U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
+U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-Aug 2013, FZCLtb-13-52.
