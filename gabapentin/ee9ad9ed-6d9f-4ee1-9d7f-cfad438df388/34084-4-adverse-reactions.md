@@ -3,11 +3,12 @@
 The following serious adverse reactions are discussed in greater detail in other sections:
 
 - Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
-- Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.3)]
-- Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
-- Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age) [see Warnings and Precautions (5.8)]
-- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)]
+- Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
+- Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age) [see Warnings and Precautions (5.7)]
+- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,9 +24,9 @@ The adverse reactions that most frequently led to withdrawal in NEURONTIN-treate
 Table 3 lists adverse reactions that occurred in at least 1% of NEURONTIN-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the NEURONTIN group than in the placebo group.
 
 TABLE 3.
-Adverse Reactions in Placebo-Controlled Trials in Postherpetic Neuralgia
+Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
 
-| Body System/ Adverse Reaction | NEURONTIN N=336 % | Placebo N=227 % |
+|  | NEURONTIN N=336 % | Placebo N=227 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
@@ -63,9 +64,9 @@ Because there were few patients whose race was reported as other than white, the
 
 Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
-The most common adverse reactions associated with the use of NEURONTIN in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
+The most common adverse reactions with NEURONTIN in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
-The most common adverse reactions reported with the use of NEURONTIN in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.4)].
+The most common adverse reactions with NEURONTIN in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.5)].
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received NEURONTIN in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -77,11 +78,11 @@ In these studies, either NEURONTIN or placebo was added to the patient's current
 TABLE 4.
 Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patients >12 years of age
 
-| Body System/ Adverse Reaction | NEURONTINPlus background antiepileptic drug therapy N=543 % | Placebo N=378 % |
+|  | NEURONTINPlus background antiepileptic drug therapy N=543 % | Placebo N=378 % |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Fatigue | 11 | 5 |
-| Weight gain | 3 | 2 |
+| Increased Weight | 3 | 2 |
 | Back Pain | 2 | 1 |
 | Peripheral Edema | 2 | 1 |
 | Cardiovascular |  |  |
@@ -124,12 +125,12 @@ Table 5 lists adverse reactions that occurred in at least 2% of NEURONTIN-treate
 TABLE 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
-| Body System/ Adverse Reaction | NEURONTINPlus background antiepileptic drug therapy N=119 % | Placebo N=128 % |
+|  | NEURONTINPlus background antiepileptic drug therapy N=119 % | Placebo N=128 % |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Viral Infection | 11 | 3 |
 | Fever | 10 | 3 |
-| Weight gain | 3 | 1 |
+| Increased Weight | 3 | 1 |
 | Fatigue | 3 | 2 |
 | Digestive System |  |  |
 | Nausea and/or Vomiting | 8 | 7 |
@@ -152,19 +153,17 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hepatobiliary disorders: jaundice
 
-Injury, Poisoning and Procedural Complications: fall
-
 Investigations: elevated creatine kinase, elevated liver function tests
 
-Metabolism and nutrition disorders: hyponatremia, hyperglycemia and hypoglycemia (most often observed in patients with diabetes)
+Metabolism and nutrition disorders: hyponatremia
 
 Musculoskeletal and connective tissue disorder: rhabdomyolysis
 
-Nervous system disorders: movement disorder, loss of consciousness
+Nervous system disorders: movement disorder
 
-Reproductive system and breast disorders: breast enlargement, sexual dysfunction (including changes in libido, ejaculation disorders and anorgasmia)
+Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 
-Skin and subcutaneous tissue disorders: angioedema, erythema multiforme, Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], erythema multiforme, Stevens-Johnson syndrome.
 
 Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.
