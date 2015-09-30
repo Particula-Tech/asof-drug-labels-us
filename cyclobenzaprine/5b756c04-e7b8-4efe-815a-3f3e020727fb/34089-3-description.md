@@ -7,10 +7,6 @@ If aqueous solutions are made alkaline, the free base separates.
 
 Cyclobenzaprine hydrochloride is designated chemically as 3-(5H-dibenzo [a,d] cyclohepten-5-ylidene)-N,N-dimethyl-1-propanamine hydrochloride, and has the following structural formula:
 
-- 
-  - 
-    - 
-
 Each 5 mg Cyclobenzaprine hydrochloride tablet for oral administration contains 5 mg Cyclobenzaprine hydrochloride.
 
 Each 10 mg Cyclobenzaprine hydrochloride tablet for oral administration contains 10 mg Cyclobenzaprine hydrochloride.

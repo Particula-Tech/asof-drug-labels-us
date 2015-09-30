@@ -22,9 +22,7 @@ At steady state in healthy subjects receiving 10 mg t.i.d.
 
 Cyclobenzaprine is extensively metabolized, and is excreted primarily as glucuronides via the kidney.
 Cytochromes P-450 3A4, 1A2, and, to a lesser extent, 2D6, mediate N-demethylation, one of the oxidative pathways for cyclobenzaprine.
-Cyclobenzaprine is eliminated quite slowly, with an effective half-life of
-
-18 hours (range 8-37 hours; n=18); plasma clearance is 0.7 L/min.
+Cyclobenzaprine is eliminated quite slowly, with an effective half-life of 18 hours (range 8-37 hours; n=18); plasma clearance is 0.7 L/min.
 
 The plasma concentration of cyclobenzaprine is generally higher in the elderly and in patients with hepatic impairment.
 (See PRECAUTIONS, Use in the Elderly and PRECAUTIONS, Impaired Hepatic Function.)

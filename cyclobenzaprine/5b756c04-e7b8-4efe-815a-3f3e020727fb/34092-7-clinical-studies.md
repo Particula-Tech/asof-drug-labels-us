@@ -23,7 +23,5 @@ Analysis of the data from controlled studies shows that Cyclobenzaprine hydrochl
 
 Surveillance Program
 
-A post-marketing surveillance program was carried out in 7607 patients with acute musculoskeletal disorders, and included 297 patients treated with Cyclobenzaprine hydrochloride tablets, USP 10 mg for
-
-30 days or longer.
+A post-marketing surveillance program was carried out in 7607 patients with acute musculoskeletal disorders, and included 297 patients treated with Cyclobenzaprine hydrochloride tablets, USP 10 mg for 30 days or longer.
 The overall effectiveness of Cyclobenzaprine hydrochloride tablets, USP was similar to that observed in the double-blind controlled studies; the overall incidence of adverse effects was less (see ADVERSE REACTIONS).

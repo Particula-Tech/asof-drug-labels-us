@@ -14,9 +14,9 @@ Rare but potentially critical manifestations of overdose are cardiac arrest, che
 Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of cyclobenzaprine toxicity.
 Other potential effects of overdosage include any of the symptoms listed under ADVERSE REACTIONS.
 
-MANAGEMENT
+## MANAGEMENT
 
-## General
+General
 
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 

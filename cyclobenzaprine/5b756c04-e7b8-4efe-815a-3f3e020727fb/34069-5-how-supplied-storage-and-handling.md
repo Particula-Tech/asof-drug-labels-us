@@ -4,8 +4,6 @@ Cyclobenzaprine hydrochloride tablets, USP are available in 5 mg and 10 mg dosag
 
 The 5 mg tablets are supplied as orange film coated round shaped biconvex tablets debossed “K 6” on one side and plain on other side.
 
-Bottles of 30, NDC 10702-006-03
-
 Bottles of 100, NDC 10702-006-01
 
 Bottles of 500, NDC 10702-006-50
@@ -35,8 +33,6 @@ KVK-TECH, INC.
 
 Newtown, PA 18940-1850
 
-Item ID # 006013/05 04/13
+Item ID # 006013/06 12/14
 
 Manufacturer’s Code: 10702
-
-- 
