@@ -18,7 +18,7 @@ Table 3: Adjusted Mean Change from Baseline in the Average Daily Frequency and S
 | N | 122 | 63 | 122 | 63 |
 | Baseline | 10.3 | 10.5 | 2.3 | 2.3 |
 | Week 4 |  |  |  |  |
-| Mean ChangeChange from baseline using raw data | -5.9 | -2.8 | -0.6 | -0.1 |
+| Mean ChangeChange from baseline using ANCOVA model | -5.9 | -2.8 | -0.6 | -0.1 |
 | Treatment DifferenceBased on raw data analysis using ANCOVA model: Difference= Treatment + Baseline + Site | -3.1 (-4.4, -1.7)p<0.001 | -- | -0.5 (-0.7, -0.3) | -- |
 | Week 12 |  |  |  |  |
 | Mean Change | -7.6 | -4.9 | -0.9 | -0.3 |
@@ -51,7 +51,7 @@ Table 4: Lumbar Spine Bone Mineral Density Results at 24 Months (Study 1)
 | More Than 5 Years Postmenopausal |  |  |
 | N | 155 | 151 |
 | % Mean Change | 1.64 | -1.47 |
-| Difference from Placebo (95% C.I.) | 3.11 (2.29, 3.93) | ─ |
+| Difference from Placebo (95% C.I.) | 3.11 (2.29, 3.93) | – |
 | ** Adjusted mean changes, confidence intervals, and p-values based on an ANCOVA model with treatment and region (U.S. or non-U.S.) as factors and baseline BMD value and years since menopause as covariates using the Modified Intention to Treat population with Last Observation Carried Forward. Study 1 excludes those subjects with missing source documentation. |  |  |
 
 In Study 1, treatment with DUAVEE also significantly increased total hip BMD.
@@ -61,7 +61,7 @@ Study 2 was a 12-month, double-blind, randomized, placebo- and active-controlled
 The primary endpoint was the incidence of endometrial hyperplasia at 12 months.
 The prevention of osteoporosis was assessed in a substudy that enrolled women (n=590) who were less than 5 years postmenopausal (mean 2.5 years).
 The mean baseline T-score in the substudy was -0.91 in the DUAVEE group and -0.95 in the placebo group.
-The mean age of women (n=135) taking DUAVEE was 53 years (range 46–60 years).
+The mean age of women (n=135) taking DUAVEE was 53 years (range 46-60 years).
 Women also took calcium (600 mg) and vitamin D (400 IU) daily.
 
 In Study 2, treatment with DUAVEE significantly increased mean lumbar spine BMD (treatment difference, 1.51%), at 12 months compared to placebo in women who had been postmenopausal between 1 and 5 years.
@@ -78,7 +78,7 @@ Table 5: Incidence of Endometrial Hyperplasia or Malignancy at Month 12 and Mont
 
 | Treatment Group | Month | % (n/N) | 1 – Sided 95% UL | % (n/N) | 1 – Sided 95% UL |
 | --- | --- | --- | --- | --- | --- |
-|  |  | STUDY 1 = Efficacy Evaluable population |  | STUDY 2 |  |
+|  |  | STUDY 1Efficacy Evaluable population |  | STUDY 2 |  |
 | DUAVEE | 12 | 0.00% (0/336) | 0.89 | 0.30% (1/335) | 1.41 |
 | 24 | 0.68% (2/294) | 2.13 | -- | -- |  |
 | UL = Upper limit |  |  |  |  |  |
@@ -100,7 +100,8 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other), after an average follow- up of 7.1 years are presented in Table 6.
 
-Table 6: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHI
+Table 6: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIAdapted from numerous WHI publications.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | --- | --- | --- | --- |
@@ -121,8 +122,10 @@ Table 6: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHI
 | Death due to other causes,All deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. | 1.08 (0.88–1.32) | 53 | 50 |
 | Overall mortality, | 1.04 (0.88–1.22) | 79 | 75 |
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, PE, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92–1.13) | 206 | 201 |
-| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
-| For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures. The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years. There was no difference between the groups in terms of all-cause mortality. |  |  |  |
+
+For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.
+The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
+There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving conjugated estrogens-alone compared to placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
 

@@ -49,8 +49,12 @@ The Cmax and AUC of bazedoxifene increased 32% and 109%, respectively, in women 
 
 No pharmacokinetic studies with conjugated estrogens were conducted in women with hepatic impairment.
 
-## 8.8 Use in Women with Body Mass Index (BMI) > 27 kg/m2
+## 8.8 Body Mass Index (BMI)
 
-A 17% reduction in bazedoxifene exposure was predicted in women with BMI > 27 kg/m2 (N=144) compared to those with BMI ≤ 27 kg/m2 (N=93) after administration of DUAVEE, based on a population pharmacokinetic model using data from four Phase 1 studies.
-A reduction in bazedoxifene exposure may be associated with an increased risk of endometrial hyperplasia.
-Regardless of BMI, adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
+Following DUAVEE administration, the systemic exposures of conjugated estrogens and bazedoxifene were lower in obese subjects, compared to non-obese subjects [see Pharmacokinetics (12.3)].
+
+A single dose of DUAVEE (conjugated estrogens 0.45 mg/bazedoxifene 20 mg) was administered to 12 obese BMI ≥ 30 [mean (SD) = 32.7 (2.7) kg/m2] and 12 non-obese BMI < 30 [mean (SD) 25.3 (2.6) kg/m2] postmenopausal women.
+In obese subjects, systemic exposures of total estrone, total equilin, and bazedoxifene were 2%, 32%, and 13% lower, respectively, compared to non-obese subjects.
+
+A greater reduction in bazedoxifene exposure compared to conjugated estrogens may be associated with decreased protection from endometrial hyperplasia.
+Monitor and evaluate women with postmenopausal or unexplained genital bleeding for possible endometrial hyperplasia or malignancy [see Warnings and Precautions (5.3)].

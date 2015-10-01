@@ -33,7 +33,7 @@ The absolute bioavailability of bazedoxifene is approximately 6%.
 
 Food Effect
 
-In a single-dose, crossover study in 23 postmenopausal women given conjugated estrogens 0.625 mg/bazedoxifene 20 mg with a high fat/high calorie meal, food increased AUC0–inf of bazedoxifene by 25%.
+In a single-dose, crossover study in 23 postmenopausal women given conjugated estrogens 0.625 mg/bazedoxifene 20 mg with a high fat/high calorie meal, food increased AUC0-inf of bazedoxifene by 25%.
 The Cmax of bazedoxifene was unchanged.
 
 Distribution
@@ -112,9 +112,18 @@ In six moderate hepatic impairment patients (Child Pugh Class B), Cmax and AUC o
 In six severe hepatic impairment patients (Child Pugh Class C), Cmax and AUC of bazedoxifene increased 20% and 268%, respectively, compared to healthy subjects.
 Half-life was prolonged from 32 to 50 hrs in patients with severe hepatic impairment, compared to healthy subjects.
 
+Body Mass Index
+
+In a clinical study, a single dose of DUAVEE (conjugated estrogens 0.45 mg/bazedoxifene 20 mg) was administered to 12 obese [mean (SD) BMI = 32.7 (2.7) kg/m2] and 12 non-obese [mean (SD) BMI = 25.3 (2.6) kg/m2] postmenopausal women.
+In obese subjects, systemic exposure (AUC0–72) of total estrone was 2% lower and systemic exposures (AUC0–inf) of total equilin and bazedoxifene were 32% and 13% lower, respectively, compared to non-obese subjects.
+
 Drug Interactions
 
-No drug-drug interaction studies were conducted with conjugated estrogens/bazedoxifene tablets.
+Effect of Co-Administered Drugs on the Pharmacokinetics of Conjugated Estrogens/Bazedoxifene
+
+In a drug-drug interaction study, itraconazole 200 mg, a strong CYP3A4 inhibitor, was administered with breakfast to 24 postmenopausal women for 4 days, followed by a fifth dose of itraconazole 200 mg with breakfast and DUAVEE on Day 5 (3 hours after itraconazole).
+Itraconazole 200 mg was continued for 2 additional days after the co-administration of itraconazole 200 mg and DUAVEE.
+Following co-administration of DUAVEE and itraconazole, baseline-adjusted total estrone Cmax and AUC0–72 increased 9% and 9%, respectively, total equilin Cmax and AUC0–72 increased 11% and 5%, respectively, and bazedoxifene Cmax and AUC0–inf increased 11% and 40%, respectively, compared to subjects treated with DUAVEE alone.
 
 Effect of Co-Administered Drugs on the Pharmacokinetics of Bazedoxifene
 
