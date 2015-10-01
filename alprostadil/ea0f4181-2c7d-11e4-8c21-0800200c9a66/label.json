@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020649"
+  ],
+  "inn": "alprostadil",
+  "labeler": "Auxilium Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "66887-010-01",
+    "66887-010-02",
+    "66887-010-06",
+    "66887-020-01",
+    "66887-020-02",
+    "66887-020-06",
+    "66887-040-01",
+    "66887-040-02",
+    "66887-040-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "alprostadil",
+      "name": "Edex"
+    }
+  ],
+  "setid": "ea0f4181-2c7d-11e4-8c21-0800200c9a66",
+  "source": "dailymed"
+}
