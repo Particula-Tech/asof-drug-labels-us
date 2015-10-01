@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204582"
+  ],
+  "inn": "buspirone",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-023-01",
+    "23155-024-01",
+    "23155-025-06",
+    "23155-097-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buspirone hydrochloride",
+      "name": "Buspirone Hydrochloride"
+    }
+  ],
+  "setid": "4ff72575-bd60-40ce-b3a8-fd92b79af674",
+  "source": "dailymed"
+}
