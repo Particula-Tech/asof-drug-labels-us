@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022259"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "HILL DERMACEUTICALS, INC.",
+  "package_ndcs": [
+    "28105-421-40"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "TOLAK"
+    }
+  ],
+  "setid": "59de2709-00b8-4f0a-867c-f0dfeb947192",
+  "source": "dailymed"
+}
