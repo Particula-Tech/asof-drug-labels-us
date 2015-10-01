@@ -30,11 +30,18 @@ This results in a mean increase in olanzapine Cmax following fluvoxamine of 54% 
 The mean increase in olanzapine AUC is 52% and 108%, respectively.
 Lower doses of olanzapine should be considered in patients receiving concomitant treatment with fluvoxamine.
 
+Inhibitors of CYP2D6
+
+Fluoxetine
+
+Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
+The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
+
 Warfarin
 
 Warfarin (20 mg single dose) did not affect olanzapine pharmacokinetics [see DRUG INTERACTIONS (7.2)].
 
-Inducers of CYP1A2 or GlucuronylTransferase
+Inducers of CYP1A2 or Glucuronyl Transferase
 
 Omeprazole and rifampin may cause an increase in olanzapine clearance.
 
@@ -60,7 +67,7 @@ Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 Lorazepam (IM)
 
 Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular olanzapine for injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
-However, this co-administration of intramuscular lorazepam and intramuscular Olanzapine for Injection added to the somnolence observed with either drug alone [see WARNINGS AND PRECAUTIONS (5.6)].
+However, this co-administration of intramuscular lorazepam and intramuscular olanzapine for injection added to the somnolence observed with either drug alone [see WARNINGS AND PRECAUTIONS (5.6)].
 
 Lithium
 

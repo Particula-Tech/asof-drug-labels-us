@@ -36,13 +36,15 @@ It is recommended that women receiving olanzapine should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see WARNINGS AND PRECAUTIONS (5.4, 5.13, 5.15 and ADVERSE REACTIONS (6.4)].
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see WARNINGS AND PRECAUTIONS (5.4, 5.13, 5.15) and ADVERSE REACTIONS (6.4)].
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
 Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents.
 
 Safety and effectiveness of olanzapine in children <13 years of age have not been established [see PATIENT COUNSELING INFORMATION (17.13)].
 
 ## 8.5 Geriatric Use
+
+In patients with schizophrenia, there was no indication of any different tolerability of olanzapine in the elderly compared to younger patients.
 
 Studies in elderly patients with dementia-related psychosis have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia.
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
