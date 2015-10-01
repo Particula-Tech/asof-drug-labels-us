@@ -7,6 +7,10 @@ Do not take VIAGRA if you take any other medicines called "nitrates."
 Nitrates are used to treat chest pain (angina).
 A sudden drop in blood pressure can cause you to feel dizzy, faint, or have a heart attack or stroke.
 
+Do not take VIAGRA if you take medicines called guanylate cyclase stimulators which include:
+
+- Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+
 Tell all your healthcare providers that you take VIAGRA.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took VIAGRA.
 
@@ -31,8 +35,9 @@ Who should not take VIAGRA?
 
 Do not take VIAGRA if you:
 
-- take medicines called "nitrates" (such as nitroglycerin)
+- take medicines called nitrates (such as nitroglycerin)
 - use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
+- take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
 - are allergic to sildenafil, as contained in VIAGRA and REVATIO, or any of the ingredients in VIAGRA.
   See the end of this leaflet for a complete list of ingredients in VIAGRA.
 
@@ -42,6 +47,7 @@ Before you take VIAGRA, tell your healthcare provider if you:
 
 - have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
 - have had heart surgery within the last 6 months
+- have pulmonary hypertension
 - have had a stroke
 - have low blood pressure, or high blood pressure that is not controlled
 - have a deformed penis shape
@@ -61,6 +67,7 @@ VIAGRA may affect the way other medicines work, and other medicines may affect t
 Especially tell your healthcare provider if you take any of the following:
 
 - medicines called nitrates (see "What is the most important information I should know about VIAGRA?")
+- medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
 - medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
   In some patients, the use of VIAGRA with alpha-blockers can lead to a drop in blood pressure or to fainting.
@@ -157,11 +164,11 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0220-9.0
-
-01/2015
+September 2015
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
 Viagra (sildenafil citrate), Revatio (sildenafil), Cardura (doxazosin mesylate), and Minipress (prazosin HCl) are registered trademarks of Pfizer Inc.
+
+LAB-0220-10.0

@@ -6,6 +6,10 @@ Nitrates
 
 Physicians should discuss with patients the contraindication of VIAGRA with regular and/or intermittent use of nitric oxide donors, such as organic nitrates or organic nitrites in any form [see Contraindications (4.1)].
 
+## Guanylate Cyclase (GC) Stimulators
+
+Physicians should discuss with patients the contraindication of VIAGRA with use of guanylate cyclase stimulators such as riociguat [see Contraindications (4.3)].
+
 Concomitant Use with Drugs Which Lower Blood Pressure
 
 Physicians should advise patients of the potential for VIAGRA to augment the blood pressure lowering effect of alpha-blockers and anti-hypertensive medications.
