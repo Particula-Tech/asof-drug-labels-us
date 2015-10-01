@@ -18,7 +18,7 @@ These short-term trials included a total of 1394 patients with either seasonal o
 Of these, 575 (378 female and 197 male) received at least one dose of QNASL Nasal Aerosol, 320 mcg once daily and 578 (360 female and 218 male) received placebo.
 Patient ages ranged from 12 to 82 years and the racial distribution of patients was 81% white, 16% black, and 4% other.
 
-Short-Term (2–6 Weeks) Trials:Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.
+Short-Term (2–6 Weeks) Trials: Less than 2% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol similar to or lower than the rate among patients who received placebo.
 Table displays the common adverse reactions (≥ 1% and greater than placebo-treated patients).
 
 | Table 1. Adverse Events With ≥ 1% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 6 Weeks Duration (Safety Population) |  |  |
