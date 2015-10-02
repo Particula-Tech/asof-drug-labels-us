@@ -111,3 +111,8 @@ You can ask for information about norethindrone acetate that is written for heal
 What are the ingredients in norethindrone acetate tablets?
 
 Norethindrone acetate tablets contain the following inactive ingredients: lactose, magnesium stearate, and microcrystalline cellulose.
+
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+
+Rev.
+09-2015-00
