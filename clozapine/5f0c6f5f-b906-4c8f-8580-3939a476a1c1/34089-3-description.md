@@ -7,4 +7,4 @@ CLOZARIL is available in pale yellow tablets of 25 mg and 100 mg for oral admini
 
 Active Ingredient: clozapine
 
-Inactive Ingredients: colloidal silicon dioxide, lactose, magnesium stearate, povidone, starch (corn), and talc.
+Inactive Ingredients are colloidal silicon dioxide, lactose, magnesium stearate, povidone, starch (corn), and talc.

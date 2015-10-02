@@ -49,12 +49,12 @@ Sixty-two percent of the patients were diagnosed with schizophrenia, and the rem
 Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
 The mean age of patients entering the study was 37 years of age (range 18–69).
-Most patients were Caucasian (71%), 15% were black, 1% were Asian, and 13% were classified as being of “other” races.
+Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were classified as being of “other” races.
 
 Patients treated with CLOZARIL had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.
 This result should be interpreted only as evidence of the effectiveness of CLOZARIL in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of CLOZARIL over olanzapine.
 
-The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for CLOZARIL patients than for olanzapine patients at Week 104: CLOZARIL 24% versus olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 2).
+The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for CLOZARIL patients than for olanzapine patients at Week 104: CLOZARIL 24% versus olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 1).
 
-Figure 2.
+Figure 1.
 Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide in Patients with Schizophrenia or Schizoaffective Disorder at High Risk of Suicidality

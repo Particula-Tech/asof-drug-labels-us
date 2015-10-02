@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Agranulocytosis [see Warnings and Precautions (5.1)].
+- Severe Neutropenia [see Warnings and Precautions (5.1)].
 - Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
 - Seizures [see Warnings and Precautions (5.4)].
 - Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.5)].
@@ -23,11 +23,11 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most commonly reported adverse reactions (>5%) across CLOZARIL clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
-Table 8 summarizes the most commonly reported adverse reactions (>5%) in CLOZARIL-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
+The most commonly reported adverse reactions (≥5%) across CLOZARIL clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
+Table 9 summarizes the most commonly reported adverse reactions ≥5%) in CLOZARIL-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
-Table 8.
-Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
+Table 9.
+Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
 | Adverse Reaction | CLOZARIL (N=126) (%) | Chlorpromazine (N=142) (%) |
 | --- | --- | --- |
@@ -43,10 +43,10 @@ Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-Contr
 | Nausea/vomiting | 10 | 12 |
 | Dry mouth | 5 | 20 |
 
-Table 9 summarizes the adverse reactions reported in CLOZARIL-treated patients at a frequency of 2% or greater across all CLOZARIL studies (excluding the 2-year InterSePT™ Study).
+Table 10 summarizes the adverse reactions reported in CLOZARIL-treated patients at a frequency of 2% or greater across all CLOZARIL studies (excluding the 2-year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
-Table 9.
+Table 10.
 Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across all CLOZARIL Studies (excluding the 2-year InterSePTTM Study)
 
 | Body System Adverse Reaction* | CLOZARIL N=842 Percentage of Patients |
@@ -94,12 +94,12 @@ Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across a
 | Weight Gain | 4 |
 | †Rate based on population of approximately 1700 exposed during premarket clinical evaluation of CLOZARIL. |  |
 
-Table 10 summarizes the most commonly reported adverse reactions (>10% of the CLOZARIL or olanzapine group) in the InterSePTTM Study.
+Table 11 summarizes the most commonly reported adverse reactions (≥10% of the CLOZARIL or olanzapine group) in the InterSePTTM Study.
 This was an adequate and well-controlled, 2-year study evaluating the efficacy of CLOZARIL relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
-Table 10.
-Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine in the InterSePTTM Study (>10% in the CLOZARIL or olanzapine group)
+Table 11.
+Incidence of Adverse Reactions in Patients Treated with CLOZARIL or Olanzapine in the InterSePTTM Study (≥10% in the CLOZARIL or olanzapine group)
 
 | Adverse Reactions | CLOZARIL N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
@@ -151,7 +151,7 @@ Angioedema, leukocytoclastic vasculitis.
 
 Urogenital System
 
-Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
+Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
 
 Skin and Subcutaneous Tissue Disorders
 
@@ -167,7 +167,7 @@ Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System
 
-Deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit. erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

@@ -1,105 +1,100 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Agranulocytosis
+## 5.1 Severe Neutropenia
 
 Background
 
-Agranulocytosis, defined as an ANC of less than 500/mm3, has been estimated to occur in association with clozapine use at a cumulative incidence at 1 year of approximately 1.3%, based on the occurrence of 15 US cases out of 1743 patients exposed to CLOZARIL during its clinical testing prior to domestic marketing.
-All of these cases occurred at a time when the need for close monitoring of WBC counts was already recognized.
-A hematologic risk analysis was conducted based upon the available information in the CLOZARIL National Registry for US patients.
-Based upon a cut-off date of April 30, 1995, the incidence rates of agranulocytosis based upon a weekly monitoring schedule rose steeply during the first 2 months of therapy, peaking in the third month.
-Among clozapine patients who continued the drug beyond the third month, the weekly incidence of agranulocytosis fell a substantial degree.
-After 6 months, the weekly incidence of agranulocytosis declines still further; however, it never reaches zero.
-It should be noted that any type of reduction in the frequency of monitoring WBC counts may result in an increased incidence of agranulocytosis.
+CLOZARIL can cause neutropenia (a low absolute neutrophil count (ANC)), defined as a reduction below pre-treatment normal levels of blood neutrophils.
+The ANC is usually available as a component of the complete blood count (CBC), including differential, and is more relevant to drug-induced neutropenia than is the white blood cell (WBC) count.
+The ANC may also be calculated using the following formula: ANC equals the Total WBC count multiplied by the total percentage of neutrophils obtained from the differential (neutrophil “segs” plus neutrophil “bands”).
+Other granulocytes (basophils and eosinophils) contribute minimally to neutropenia and their measurement is not necessary [see Adverse Reactions (6.2)].
+Neutropenia may be mild, moderate, or severe (see Tables 2 and 3).
+To improve and standardize understanding, “severe neutropenia” replaces the previous terms severe leukopenia, severe granulocytopenia, or agranulocytosis.
 
-Risk Factors
+Severe neutropenia, ANC less than (<) 500/µL, occurs in a small percentage of patients taking CLOZARIL and is associated with an increase in the risk of serious and potentially fatal infections.
+Risk of neutropenia appears greatest during the first 18 weeks on treatment and then declines.
+The mechanism by which CLOZARIL causes neutropenia is unknown and is not dose-dependent.
 
-Experience from clinical development, as well as from examples in the medical literature, suggests that patients who have developed agranulocytosis during clozapine therapy are at increased risk of subsequent episodes of agranulocytosis.
-Analysis of WBC count data from the CLOZARIL National Registry also suggests that patients who have an initial episode of moderate leukopenia (3000/mm3>WBC count ≥2000/mm3) are at an increased risk of subsequent episodes of agranulocytosis.
-Except for bone-marrow suppression during initial clozapine therapy, there are no other established risk factors based on worldwide experience for the development of agranulocytosis in association with clozapine use.
-However, a disproportionate number of the US cases of agranulocytosis occurred in patients of Jewish background compared to the overall proportion of such patients exposed during domestic development of clozapine.
-Most of the US cases of agranulocytosis occurred within 4–10 weeks of exposure, but neither dose nor duration is a reliable predictor of this problem.
-Agranulocytosis associated with other antipsychotic drugs has been reported to occur with a greater frequency in women, the elderly, and in patients who are cachectic or have serious underlying medical illness; such patients may also be at particular risk with clozapine, although this has not been definitively demonstrated.
+Two separate management algorithms are provided below, the first for patients in the general population, and the second for patients identified to have baseline neutropenia.
 
-WBC Count and ANC Clinical Monitoring Schedule
+CLOZARIL Treatment and Monitoring in the General Patient Population (see Table 2)
 
-CLOZARIL is available only through a distribution system that ensures monitoring of WBC count and ANC according to the schedule described below prior to delivery of the next supply of medication.
+Obtain a CBC, including the ANC value, prior to initiating treatment with CLOZARIL to ensure the presence of a normal baseline neutrophil count (equal to or greater than 1500/µL) and to permit later comparisons.
+Patients in the general population with an ANC equal to or greater than (≥)1500/µL are considered within normal range (Table 2) and are eligible to initiate treatment.
+Weekly ANC monitoring is required for all patients during the first 6 months of treatment.
+If a patient’s ANC remains equal to or greater than 1500/µL for the first 6 months of treatment, monitoring frequency may be reduced to every 2 weeks for the next 6 months.
+If the ANC remains equal to or greater than 1500/µL for the second 6 months of continuous therapy, ANC monitoring frequency may be reduced to once every 4 weeks thereafter.
 
-As described in Table 2, patients who are being treated with CLOZARIL must have a baseline WBC count and ANC before initiation of treatment, and a WBC count and ANC every week for the first 6 months.
-Thereafter, if acceptable WBC counts and ANCs (WBC count ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the first 6 months of continuous therapy, WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
-Thereafter, if acceptable WBC counts and ANCs (WBC count ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the second 6 months of continuous therapy, WBC count and ANC can be monitored every 4 weeks.
+Table 2: CLOZARIL Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring for the General Patient Population
 
-When treatment with CLOZARIL is discontinued (regardless of the reason), WBC count and ANC must be monitored weekly for at least 4 weeks from the day of discontinuation or until WBC count ≥3500/mm3 and ANC ≥2000/mm3.
-
-Table 2 provides a summary of the frequency of monitoring that should occur based on various stages of therapy (e.g., initiation of therapy) or results from WBC count and ANC monitoring tests (e.g., moderate leukopenia).
-The text that follows should be consulted for additional details regarding the treatment of patients under the various conditions (e.g., severe leukopenia).
-
-Advise patients to immediately report the appearance of signs/symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) at any time during CLOZARIL therapy.
-Such patients should have a WBC count and an ANC performed promptly.
-
-Table 2.
-Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and ANC Monitoring Tests
-
-| Situation | Hematological Values for Monitoring | Frequency of WBC Count and ANC Monitoring |
+| ANC Level | CLOZARIL Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Initiation of therapy | WBC count ≥3500/mm3 and ANC ≥2000/mm3 Note: Do not initiate in patients with a history of clozapine-induced agranulocytosis or severe granulocytopenia. | Weekly for 6 months |
-| 6 to 12 months of therapy | WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 2 weeks for 6 months |
-| 12 months of therapy | WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
-| Immature forms present | N/A | Repeat WBC and ANC |
-| Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥3500/mm3 and ANC ≥2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of: WBC ≥3000/mm3 or ANC ≥1500/mm3 | Repeat WBC and ANC If repeat values are: WBC 3000/mm3 to 3500 and ANC <2000/mm3, then monitor twice weekly |
-| Mild leukopenia and/or Mild granulocytopenia | If WBC 3000 mm3 to <3500/mm3 and/or ANC 1500/mm3 to <2000/mm3 | Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 then return to previous monitoring frequency |
-| Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to <3000/mm3 and/or ANC 1000/mm3 to <1500/mm3 | Interrupt therapy Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 May rechallenge when WBC >3500/mm3 and ANC >2000/mm3 If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe leukopenia and/or Severe granulocytopenia | WBC count <2000/mm3 and/or ANC <1000/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least 4 weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3Twice weekly until WBC >3500/mm3 and ANC > 2000/mm3Weekly after WBC >3500/mm3 |
-| Agranulocytosis | ANC <500/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least 4 weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3Twice weekly until WBC >3500/mm3 and ANC >2000/mm3Weekly after WBC >3500/mm3 |
-| WBC=White blood cell |  |  |
-| ANC=Absolute neutrophil count |  |  |
+| Normal range (≥1500/µL) | Initiate treatmentIf treatment interrupted: < 30 days, continue monitoring as before≥ 30 days, monitor as if new patient | Weekly from initiation to 6 monthsEvery 2 weeks from 6 to 12 monthsMonthly after 12 months |
+|  | Discontinuation for reasons other than neutropenia | See Section 2.4 |
+| Mild Neutropenia (1000 to 1499/µL)* | Continue treatment | Three times weekly until ANC ≥1500/µLOnce ANC ≥1500/µL, return to patient’s last “Normal Range” ANC monitoring interval** |
+| Moderate Neutropenia (500 to 999/µL)* | Recommend hematology consultationInterrupt treatment for suspected clozapine induced neutropenia Resume treatment once ANC ≥1000/µL | Daily until ANC ≥1000/µL, thenThree times weekly until ANC ≥1500/µLOnce ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
+| Severe Neutropenia (less than 500/µL)* | Recommend hematology consultationInterrupt treatment for suspected clozapine-induced neutropeniaDo not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥1000/µL, then Three times weekly until ANC ≥1500/µLIf patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/µL |
+| * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours |  |  |
+| ** If clinically appropriate |  |  |
 
-Decrements in WBC Count and/or ANC
+CLOZARIL Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
-Consult Table 2 above to determine how to monitor patients who experience decrements in WBC count and/or ANC at any point during treatment.
-Additionally, patients should be carefully monitored for flu-like symptoms or other symptoms suggestive of infection.
+Benign ethnic neutropenia (BEN) is a condition observed in certain ethnic groups whose average ANC values are lower than “standard” laboratory ranges for neutrophils.
+It is most commonly observed in individuals of African descent (approximate prevalence of 25-50%), some Middle Eastern ethnic groups, and in other non-Caucasian ethnic groups with darker skin.
+BEN is more common in men.
+Patients with BEN have normal hematopoietic stem-cell number and myeloid maturation, are healthy, and do not suffer from repeated or severe infections.
+They are not at increased risk for developing CLOZARIL-induced neutropenia.
+Additional evaluation may be needed to determine if baseline neutropenia is due to BEN.
+Consider hematology consultation before initiating or during CLOZARIL treatment as necessary.
 
-Nonrechallengeable Patients
+Patients with BEN require a different ANC algorithm for CLOZARIL management due to their lower baseline ANC levels.
+Table 3 provides guidelines for managing CLOZARIL treatment and ANC monitoring in patients with BEN.
 
-If the total WBC count falls below 2000/mm3 or the ANC falls below 1000/mm3, bone-marrow aspiration should be considered to ascertain granulopoietic status and patients should not be rechallenged with clozapine.
-Protective isolation with close observation may be indicated if granulopoiesis is determined to be deficient.
-Should evidence of infection develop, the patient should have appropriate cultures performed and an appropriate antibiotic regimen instituted.
+Table 3: Patients with Benign Ethnic Neutropenia (BEN); CLOZARIL Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring
 
-Patients discontinued from clozapine therapy due to significant granulopoietic suppression have been found to develop agranulocytosis upon rechallenge, often with a shorter latency on re-exposure.
-To reduce the chances of rechallenge occurring in patients who have experienced significant bone-marrow suppression during clozapine therapy, a single, national master file (i.e., Nonrechallengeable Database) is confidentially maintained.
+| ANC Level | CLOZARIL Treatment Recommendations | ANC Monitoring |
+| --- | --- | --- |
+| Normal BEN Range (Established ANC baseline ≥1000/µL) | Obtain at least two baseline ANC levels before initiating treatmentIf treatment interrupted < 30 days, continue monitoring as before≥ 30 days, monitor as if new patient | Weekly from initiation to 6 monthsEvery 2 weeks from 6 to 12 monthsMonthly after 12 months |
+|  | Discontinuation of treatment for reasons other than neutropenia | See Section 2.4 |
+| BEN Neutropenia 500 to 999/µL* | Recommend hematology consultationContinue treatment | Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baselineOnce ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
+| BEN Severe Neutropenia less than 500/µL* | Recommend hematology consultationInterrupt treatment for suspected clozapine-induced neutropeniaDo not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥500/µL, thenThree times weekly until ANC ≥ patient’s baseline If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
+| * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours |  |  |
+| ** If clinically appropriate |  |  |
 
-Treatment of Rechallengeable Patients
+General Guidelines for Management of All Patients with Fever or with Neutropenia
 
-Patients may be rechallenged with clozapine if their WBC count does not fall below 2000/mm3 and the ANC does not fall below 1000/mm3.
-However, analysis of the data from the CLOZARIL National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3>WBC count ≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged as compared to the full cohort of patients treated with clozapine.
-Although CLOZARIL therapy may be resumed if no symptoms of infection develop and when the WBC count rises above 3500/mm3 and the ANC rises above 2000/mm3, prescribers are strongly advised to consider whether the benefit of continuing CLOZARIL treatment outweighs the increased risk of agranulocytosis.
+- Fever: Interrupt CLOZARIL as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
+  Fever is often the first sign of neutropenic infection.
+- ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
+- Consider hematology consultation.
+- See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
-Analyses of the CLOZARIL National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.
-Therefore, as noted in Table 2, patients must undergo weekly WBC count and ANC monitoring for 1 year following recovery from an episode of moderate leukopenia and/or moderate granulocytopenia regardless of when the episode develops.
-If acceptable WBC counts and ANC (WBC count ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the year of weekly monitoring, WBC counts can be monitored every 2 weeks for the next 6 months.
-If acceptable WBC counts and ANC (WBC count ≥3500/mm3 and ANC ≥2000/mm3) continue to be maintained during the 6 months of every 2-week monitoring, WBC counts can be monitored every 4 weeks thereafter, ad infinitum.
+Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
-Interruptions in Therapy
+For some patients who experience severe CLOZARIL-related neutropenia, the risk of serious psychiatric illness from discontinuing CLOZARIL treatment may be greater than the risk of rechallenge (e.g., patients with severe schizophrenic illness who have no treatment options other than CLOZARIL).
+A hematology consultation may be useful in deciding to rechallenge a patient.
+In general, however, do not rechallenge patients who develop severe neutropenia with CLOZARIL or a clozapine product.
 
-Figure 1 provides instructions regarding re-initiating therapy and subsequently the frequency of WBC count and ANC monitoring after a period of interruption.
+If a patient will be rechallenged, the clinician should consider thresholds provided in Tables 2 and 3, the patient’s medical and psychiatric history, a discussion with the patient and his/her caregiver about the benefits and risks of CLOZARIL rechallenge, and the severity and characteristics of the neutropenic episode.
 
-Figure 1.
-Resuming Monitoring Frequency after Interruption of Therapy
+Using CLOZARIL with Other Drugs Associated with Neutropenia
 
-## 5.2 CLOZARIL National Registry Because of the Risk of Agranulocytosis
+It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of CLOZARIL-induced neutropenia.
+There is no strong scientific rationale to avoid CLOZARIL treatment in patients concurrently treated with these drugs.
+If CLOZARIL is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
+Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
-Because of the risk of agranulocytosis, CLOZARIL is available only through a restricted program called the CLOZARIL National Registry.
-Under the CLOZARIL National Registry, prescribers, patients, pharmacies, and distributors must enroll in the program.
+## 5.2 Clozapine REMS Program
 
-Required components of the CLOZARIL National Registry are:
+CLOZARIL is only available through a restricted program under a REMS called the Clozapine REMS Program because of the risk of severe neutropenia.
 
-- Healthcare professionals who prescribe CLOZARIL must enroll in the program and comply with the Registry requirements.
-- Pharmacies that dispense CLOZARIL must enroll in the program and comply with the Registry requirements.
-- Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with CLOZARIL [see Warnings and Precautions (5.1)].
-- Patients who receive CLOZARIL must be enrolled in a registry.
+Notable requirements of the Clozapine REMS Program include:
 
-Further information is available at http://www.clozarilregistry.com or 1-888-669-6682.
+- Healthcare professionals who prescribe CLOZARIL must be certified with the program by enrolling and completing training
+- Patients who receive CLOZARIL must be enrolled in the program and comply with the ANC testing and monitoring requirements
+- Pharmacies dispensing CLOZARIL must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive CLOZARIL
+
+Further information is available at www.clozapinerems.com or 1-844-267-8678.
 
 ## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
 
@@ -156,11 +151,11 @@ CLOZARIL is not approved for the treatment of patients with dementia-related psy
 
 ## 5.7 Eosinophilia
 
-Eosinophilia, defined as a blood eosinophil count of greater than 700/mm3, has occurred with CLOZARIL treatment.
+Eosinophilia, defined as a blood eosinophil count of greater than 700/µL, has occurred with CLOZARIL treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
 Clozapine-related eosinophilia usually occurs during the first month of treatment.
 In some patients, it has been associated with myocarditis, pancreatitis, hepatitis, colitis, and nephritis.
-Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, also known as drug induced hypersensitivity syndrome (DIHS).
+Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms syndrome (DRESS), also known as drug induced hypersensitivity syndrome (DIHS).
 If eosinophilia develops during CLOZARIL treatment, evaluate promptly for signs and symptoms of systemic reactions, such as rash or other allergic symptoms, myocarditis, or other organ-specific disease associated with eosinophilia.
 If CLOZARIL-related systemic disease is suspected, discontinue CLOZARIL immediately.
 
@@ -173,7 +168,7 @@ If the total eosinophil count continues to increase over several weeks in the ab
 
 ## 5.8 QT Interval Prolongation
 
-QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with CLOZARIL treatment.
+QT prolongation, Torsade de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with CLOZARIL treatment.
 When prescribing CLOZARIL, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
 Conditions that increase these risks include the following: history of QT prolongation, long QT syndrome, family history of long QT syndrome or sudden cardiac death, significant cardiac arrhythmia, recent myocardial infarction, uncompensated heart failure, treatment with other medications that cause QT prolongation, treatment with medications that inhibit the metabolism of clozapine, and electrolyte abnormalities.
 
@@ -186,7 +181,7 @@ If patients experience symptoms consistent with Torsades de Pointes, or other ar
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of CLOZARIL.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Concomitant treatment with inhibitors of these enzymes can increase the concentration of CLOZARIL [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Concomitant treatment with inhibitors of these enzymes can increase the concentration of CLOZARIL [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Hypokalemia and hypomagnesemia increase the risk of QT prolongation.
 Hypokalemia can result from diuretic therapy, diarrhea, and other causes.
@@ -215,12 +210,12 @@ Patients who develop symptoms of hyperglycemia during treatment with atypical an
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
 In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the CLOZARIL and chlorpromazine groups were +11 mg/dL and +4 mg/dL respectively.
-A higher proportion of the CLOZARIL group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 3).
+A higher proportion of the CLOZARIL group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 4).
 The CLOZARIL doses were 100–900 mg per day (mean modal dose: 512 mg per day).
 The maximum chlorpromazine dose was 1800 mg per day (mean modal dose: 1029 mg per day).
 The median duration of exposure was 42 days for CLOZARIL and chlorpromazine.
 
-Table 3.
+Table 4.
 Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with Schizophrenia
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
@@ -239,13 +234,13 @@ In a pooled data analysis of 10 studies in adult subjects with schizophrenia, CL
 No data were collected on LDL and HDL cholesterol.
 The mean increase in total cholesterol was 13 mg/dL in the CLOZARIL group and 15 mg/dL in the chlorpromazine group.
 In a pooled data analysis of 2 studies in adult subjects with schizophrenia, CLOZARIL treatment was associated with increases in fasting serum triglyceride.
-The mean increase in fasting triglyceride was 71 mg/dL (54%) in the CLOZARIL group and 39 mg/dL (35%) in the chlorpromazine group (Table 4).
-In addition, CLOZARIL treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.
+The mean increase in fasting triglyceride was 71 mg/dL (54%) in the CLOZARIL group and 39 mg/dL (35%) in the chlorpromazine group (Table 5).
+In addition, CLOZARIL treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 6.
 The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
 The median duration of CLOZARIL and chlorpromazine exposure was 45 days and 38 days, respectively.
 The CLOZARIL dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
 
-Table 4.
+Table 5.
 Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in Adult Subjects with Schizophrenia
 
 | Treatment Arm | Baseline total cholesterol concentration (mg/dL) | Change from baseline mg/dL (%) |
@@ -256,7 +251,7 @@ Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in A
 | CLOZARIL (N=6) | 130 | +71 (54) |
 | Chlorpromazine (N=7) | 110 | +39 (35) |
 
-Table 5.
+Table 6.
 Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Schizophrenia
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
@@ -278,10 +273,10 @@ Weight Gain
 
 Weight gain has occurred with the use of antipsychotics, including CLOZARIL.
 Monitor weight during treatment with CLOZARIL.
-Table 6 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with CLOZARIL and active comparators.
+Table 7 summarizes the data on weight gain by the duration of exposure pooled from 11 studies with CLOZARIL and active comparators.
 The median duration of exposure was 609, 728, and 42 days, in the CLOZARIL, olanzapine, and chlorpromazine group, respectively.
 
-Table 6.
+Table 7.
 Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
 
 | Metabolic parameter | Exposure duration | CLOZARIL (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
@@ -294,10 +289,10 @@ Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Su
 | 24 weeks (Day 154–182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
 | 48 weeks (Day 322–350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
 
-Table 7 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥7% of body weight relative to baseline.
+Table 8 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥7% of body weight relative to baseline.
 The median duration of exposure was 609, 728, and 42 days, in the CLOZARIL, olanzapine, and chlorpromazine group, respectively.
 
-Table 7.
+Table 8.
 Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain ≥7% Relative to Baseline Body Weight
 
 | Weight change | CLOZARIL | Olanzapine | Chlorpromazine |
@@ -312,7 +307,7 @@ Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered me
 Associated findings can include elevated creatine phosphokinase (CPK), myoglobinuria, rhabdomyolysis, and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
-It is important to consider the presence of other serious medical conditions (e.g., agranulocytosis, infection, heat stroke, primary CNS pathology, central anticholinergic toxicity, extrapyramidal symptoms, and drug fever).
+It is important to consider the presence of other serious medical conditions (e.g., severe neutropenia, infection, heat stroke, primary CNS pathology, central anticholinergic toxicity, extrapyramidal symptoms, and drug fever).
 
 The management of NMS should include (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, (2) intensive symptomatic treatment and medical monitoring, and (3) treatment of comorbid medical conditions.
 There is no general agreement about specific pharmacological treatments for NMS.
@@ -329,14 +324,14 @@ During clozapine therapy, patients have experienced transient, clozapine-related
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
-Carefully evaluate patients with fever to rule out agranulocytosis or infection.
+Carefully evaluate patients with fever to rule out severe neutropenia or infection.
 Consider the possibility of NMS [see Warnings and Precautions (5.10)].
 
 ## 5.12 Pulmonary Embolism
 
-Pulmonary embolism and deep vein thrombosis have occurred in patients treated with CLOZARIL.
+Pulmonary embolism and deep-vein thrombosis have occurred in patients treated with CLOZARIL.
 Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
-Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
+Whether pulmonary embolus and deep-vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
 ## 5.13 Anticholinergic Toxicity
 
@@ -382,4 +377,4 @@ CLOZARIL should be used with caution in patients with risk factors for cerebrova
 
 ## 5.17 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of CLOZARIL
 
-If abrupt discontinuation of CLOZARIL is necessary (because of agranulocytosis or another medical condition, for example), monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+If abrupt discontinuation of CLOZARIL is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
