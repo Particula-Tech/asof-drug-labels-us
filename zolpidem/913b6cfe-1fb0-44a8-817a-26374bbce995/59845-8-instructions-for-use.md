@@ -57,8 +57,6 @@ Open the Intermezzo pouch you placed by your bed.
 - Fold the Intermezzo pouch along the dotted line.
   While the Intermezzo pouch is folded, tear the pouch open at the notch at the center of the dotted line (see Figure D).
 
-Figure D
-
 Step 3.
 Remove the tablet from the Intermezzo pouch.
 

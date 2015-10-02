@@ -43,9 +43,8 @@ Advise patients NOT to take Intermezzo if they drank alcohol that day or before 
 
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
-Distributed by: Purdue Pharma L.P.
-Stamford, CT 06901-3431 Manufactured by: Patheon Pharmaceuticals, Inc., Cincinnati, OH 45237
+Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: Patheon Pharmaceuticals, Inc., Cincinnati, OH 45237
 
 U.S. Patent Numbers 7658945; 7682628; 8,242,131; 8,252,809
 
-©2013, Purdue Pharma L.P.
+©2015, Purdue Pharma L.P.

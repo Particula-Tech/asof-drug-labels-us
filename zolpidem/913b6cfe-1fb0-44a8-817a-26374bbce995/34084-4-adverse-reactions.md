@@ -32,3 +32,11 @@ Table 1: Summary of Adverse Reactions (≥ 2%) in Outpatient, Double-Blind, Para
 | Fatigue | 1% | 0% |
 | Nervous System Disorders | 5% | 3% |
 | Headache | 3% | 1% |
+
+## 6.2 Post Marketing Experience
+
+The following adverse reactions, have been identified during post-approval use of intermezzo.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure.
+
+- Application site reactions primarily in the subligual area, have been reported.
+  These application site reactions included oral ulcers, blisters, and mucosal inflammation.

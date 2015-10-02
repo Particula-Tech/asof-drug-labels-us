@@ -57,7 +57,7 @@ Of these 18 patients, 14 (78%) were receiving zolpidem tartrate doses >10 mg.
 
 The dose of Intermezzo in elderly patients is 1.75 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative-hypnotic drugs.
 
-## 8.6 Gender Differences in Pharmacokinetics
+## 8.6 Gender Difference in Pharmacokinetics
 
 Women cleared zolpidem tartrate from the body after sublingual administration of a 3.5 mg dose of Intermezzo at a lower rate than men (2.7 mL/min/kg vs. 4.0 mL/min/kg).
 Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
