@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Local reactions such as phlebitis/thrombophlebitis following intravenous administration, and discomfort/swelling at the injection site following intramuscular administration occurred at rates of approximately 1.9% and 2.4%, respectively.
 

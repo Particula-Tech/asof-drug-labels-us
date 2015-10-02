@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Aztreonam for Injection, USP
 
@@ -9,6 +9,5 @@ Aztreonam for Injection, USP
 
 ## Storage
 
-Store original packages at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature]; avoid excessive heat.
-
+Store in original packages at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]; avoid excessive heat.
 This container closure is not made with natural rubber latex.

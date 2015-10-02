@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Single 30-minute intravenous infusions of 500 mg, 1 g and 2 g doses of aztreonam for injection in healthy subjects produced aztreonam peak serum levels of 54 mcg/mL, 90 mcg/mL and 204 mcg/mL, respectively, immediately after administration; at 8 hours, serum levels were 1 mcg/mL, 3 mcg/mL and 6 mcg/mL, respectively (Figure 1).
 Single 3-minute intravenous injections of the same doses resulted in serum levels of 58 mcg/mL, 125 mcg/mL and 242 mcg/mL at 5 minutes following completion of injection.
@@ -31,7 +31,7 @@ Unchanged aztreonam and the inactive beta-lactam ring hydrolysis product of aztr
 Intravenous or intramuscular administration of a single 500 mg or 1 g dose of aztreonam for injection every 8 hours for 7 days to healthy subjects produced no apparent accumulation of aztreonam or modification of its disposition characteristics; serum protein binding averaged 56% and was independent of dose.
 An average of about 6% of a 1 g intramuscular dose was excreted as a microbiologically inactive open beta-lactam ring hydrolysis product (serum half-life approximately 26 hours) of aztreonam in the 0 to 8 hour urine collection on the last day of multiple dosing.
 
-Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis and total urinary protein excretion) as well as special tests (excretion of N-acetyl-ß-glucosaminidase, alanine aminopeptidase and ß2- microglobulin) were used.
+Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis and total urinary protein excretion) as well as special tests (excretion of N-acetyl-ß-glucosaminidase, alanine aminopeptidase and ß2-microglobulin) were used.
 No abnormal results were obtained.
 
 Aztreonam achieves measurable concentrations in the following body fluids and tissues:
@@ -96,23 +96,7 @@ Aztreonam has been shown to be active against most strains of the following micr
 
 Aerobic Gram-negative microorganisms:
 
-Citrobacter species
-
-Enterobacter species
-
-Escherichia coli
-
-Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains)
-
-Klebsiella oxytoca
-
-Klebsiella pneumoniae
-
-Proteus mirabilis
-
-Pseudomonas aeruginosa
-
-Serratia species
+Citrobacter species Enterobacter species Escherichia coli Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains) Klebsiella oxytoca Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa Serratia species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for aztreonam.
@@ -120,21 +104,7 @@ However, the efficacy of aztreonam in treating clinical infections due to these 
 
 Aerobic Gram-negative microorganisms:
 
-Aeromonas hydrophila
-
-Morganella morganii
-
-Neisseria gonorrhoeae (including penicillinase-producing strains)
-
-Pasteurella multocida
-
-Proteus vulgaris
-
-Providencia stuartii
-
-Providencia rettgeri
-
-Yersinia enterocolitica
+Aeromonas hydrophila Morganella morganii Neisseria gonorrhoeae (including penicillinase-producing strains) Pasteurella multocida Proteus vulgaris Providencia stuartii Providencia rettgeri Yersinia enterocolitica
 
 Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
@@ -163,7 +133,7 @@ The disk diffusion interpretive criteria are provided in Table 2.
 
 Table 2: Susceptibility Test Interpretive Criteria for Aztreonam
 
-| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameters(mm) |  |  |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Zone Diameters (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
 | Enterobacteriaceae | ≤ 4 | 8 | ≥ 16 | ≥ 21 | 18 to 20 | ≤ 17 |
@@ -180,7 +150,7 @@ For the diffusion technique using the 30 mcg disk, the criteria in Table 3 shoul
 
 Table 3: Acceptable Quality Control Ranges for Aztreonam
 
-| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters(mm) |
+| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC 25922 | 0.06 to 0.25 | 28 to 36 |
 | Haemophilus influenzae ATCC 49247 | 0.12 to 5 | 30 to 38 |

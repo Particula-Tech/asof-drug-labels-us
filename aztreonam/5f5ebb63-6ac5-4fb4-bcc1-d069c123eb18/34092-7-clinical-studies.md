@@ -1,4 +1,4 @@
-# CLINICAL STUDIES
+# CLINICAL STUDIES:
 
 A total of 612 pediatric patients aged 1 month to 12 years were enrolled in uncontrolled clinical trials of aztreonam in the treatment of serious Gram-negative infections, including urinary tract, lower respiratory tract, skin and skin-structure, and intra-abdominal infections.
 
@@ -83,7 +83,7 @@ Bacteriostatic Sodium Chloride Injection, USP (with benzyl alcohol)
 
 ## Stability of Intravenous and Intramuscular Solutions
 
-Aztreonam solutions for intravenous infusion at concentrations not exceeding 2% w/v must be used within 48 hours following constitution if kept at controlled room temperature (20º to 25ºC/68º to 77ºF, see USP) or within 7 days if refrigerated (2º to 8ºC/ 36° to 46°F).
+Aztreonam solutions for intravenous infusion at concentrations not exceeding 2% w/v must be used within 48 hours following constitution if kept at controlled room temperature (20° to 25°C/68° to 77°F, see USP) or within 7 days if refrigerated (2° to 8°C/36° to 46°F).
 
 Aztreonam for Injection, USP, solutions at concentrations exceeding 2% w/v, except those prepared with Sterile Water for Injection, USP or Sodium Chloride Injection, USP, should be used promptly after preparation; the 2 excepted solutions must be used within 48 hours if stored at controlled room temperature or within 7 days if refrigerated.
 

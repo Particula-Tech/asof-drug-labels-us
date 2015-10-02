@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 ## Dosage in Adult Patients
 
@@ -7,7 +7,7 @@ Dosage and route of administration should be determined by susceptibility of the
 
 Table 4: Aztreonam for Injection Dosage Guidelines for Adults*
 
-| Type of Infection | Dose | Frequency(hours) |
+| Type of Infection | Dose | Frequency (hours) |
 | --- | --- | --- |
 | Urinary tract infections | 500 mg or 1 g | 8 or 12 |
 | Moderately severe systemic infections | 1 g or 2 g | 8 or 12 |
@@ -53,9 +53,7 @@ Therefore, as with all antibiotics eliminated by the kidneys, estimates of creat
 Aztreonam for injection should be administered intravenously to pediatric patients with normal renal function.
 There are insufficient data regarding intramuscular administration to pediatric patients or dosing in pediatric patients with renal impairment (see PRECAUTIONS, Pediatric Use).
 
-Table 5: Aztreonam for Injection Dosage
-
-Guidelines for Pediatric Patients*
+Table 5: Aztreonam for Injection Dosage Guidelines for Pediatric Patients*
 
 | Type of Infection | Dose | Frequency (hours) |
 | --- | --- | --- |

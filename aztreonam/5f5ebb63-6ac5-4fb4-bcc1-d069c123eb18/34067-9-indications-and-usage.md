@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of aztreonam for injection, USP and other antibacterial drugs, aztreonam for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.

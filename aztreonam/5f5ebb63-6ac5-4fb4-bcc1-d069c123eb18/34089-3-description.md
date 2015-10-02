@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Aztreonam for Injection, USP contains the active ingredient aztreonam, a monobactam.
 It was originally isolated from Chromobacterium violaceum.

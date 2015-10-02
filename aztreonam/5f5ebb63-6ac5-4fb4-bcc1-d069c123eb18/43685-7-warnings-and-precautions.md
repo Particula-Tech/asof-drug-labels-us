@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 Both animal and human data suggest that aztreonam for injection, USP is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic.
 Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure (see CONTRAINDICATIONS).
@@ -23,7 +23,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy and other concomitantly administered drugs associated with toxic epidermal necrolysis.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 

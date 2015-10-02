@@ -1,4 +1,4 @@
-# REFERENCES
+# REFERENCES:
 
 1. Naber KG, Dette GA, Kees F, Knothe H, Grobecker H. Pharmacokinetics, in vitro activity, therapeutic efficacy, and clinical safety of aztreonam vs. cefotaxime in the treatment of complicated urinary tract infections.
    J Antimicrob Chemother 1986; 17:517-527.
@@ -32,4 +32,4 @@
 
 The brand names mentioned in this document are the trademarks of their respective owners.
 
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
+PREMIERProRx™ is a trademark of Premier, Inc., used under license.
