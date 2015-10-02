@@ -47,5 +47,5 @@ Made in Canada
 
 ©2015, the ViiV Healthcare group of companies
 
-A135361 Rev.
-6/15
+- A135361 Rev.
+  6/15

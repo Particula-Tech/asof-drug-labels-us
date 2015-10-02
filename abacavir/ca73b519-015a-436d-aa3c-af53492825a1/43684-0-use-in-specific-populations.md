@@ -38,4 +38,9 @@ Use of ZIAGEN is supported by pharmacokinetic trials and evidence from adequate 
 ## 8.5 Geriatric Use
 
 Clinical trials of ZIAGEN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, caution should be exercised in the administration of ZIAGEN in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+## 8.6 Patients with Impaired Hepatic Function
+
+A dose reduction is required for patients with mild hepatic impairment (Child-Pugh Class A) [see Dosage and Administration (2.4)].
+The safety, efficacy, and pharmacokinetic properties of abacavir have not been established in patients with moderate or severe hepatic impairment; therefore, ZIAGEN is contraindicated in these patients [see Contraindications (4), Clinical Pharmacology (12.3)].

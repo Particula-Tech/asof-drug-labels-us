@@ -1,15 +1,16 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-- •A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill.
-- •ZIAGEN may be taken with or without food.
+## 2.1 Screening for HLAB*5701 Allele prior to Starting ZIAGEN
 
-## 2.1 Adult Patients
+Screen for the HLA‑B*5701 allele prior to initiating therapy with ZIAGEN [see Boxed Warning, Warnings and Precautions (5.1)].
 
-The recommended oral dose of ZIAGEN for adults is 600 mg daily, administered as either 300 mg twice daily or 600 mg once daily, in combination with other antiretroviral agents.
+## 2.2 Recommended Dosage for Adult Patients
 
-## 2.2 Pediatric Patients
+The recommended dosage of ZIAGEN for adults is 600 mg daily, administered orally as either 300 mg twice daily or 600 mg once daily, in combination with other antiretroviral agents.
 
-The recommended oral dose of ZIAGEN oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg twice daily or 16 mg per kg once daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
+## 2.3 Recommended Dosage for Pediatric Patients
+
+The recommended dosage of ZIAGEN oral solution in HIV-1-infected pediatric patients aged 3 months and older is 8 mg per kg orally twice daily or 16 mg per kg orally once daily (up to a maximum of 600 mg daily) in combination with other antiretroviral agents.
 
 ZIAGEN is also available as a scored tablet for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
 Before prescribing ZIAGEN tablets, children should be assessed for the ability to swallow tablets.
@@ -25,10 +26,11 @@ Dosing Recommendations for ZIAGEN Scored Tablets in Pediatric Patients
 | 14 to <20 | 1 tablet (300 mg) | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
 | ≥20 to <25 | 1½ tablets (450 mg) | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
 | ≥25 | 2 tablets (600 mg) | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
-| a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. |  |  |  |  |
 
-## 2.3 Patients with Hepatic Impairment
+aData regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)].
 
-The recommended dose of ZIAGEN in patients with mild hepatic impairment (Child-Pugh score 5 to 6) is 200 mg twice daily.
+## 2.4 Recommended Dosage for Patients with Hepatic Impairment
+
+The recommended dose of ZIAGEN in patients with mild hepatic impairment (Child‑Pugh Class A) is 200 mg twice daily.
 To enable dose reduction, ZIAGEN oral solution (10 mL twice daily) should be used for the treatment of these patients.
 The safety, efficacy, and pharmacokinetic properties of abacavir have not been established in patients with moderate to severe hepatic impairment; therefore, ZIAGEN is contraindicated in these patients.

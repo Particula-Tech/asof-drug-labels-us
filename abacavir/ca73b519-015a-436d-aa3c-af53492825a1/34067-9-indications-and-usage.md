@@ -1,8 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
 ZIAGEN tablets and oral solution, in combination with other antiretroviral agents, are indicated for the treatment of human immunodeficiency virus (HIV-1) infection.
-
-Additional important information on the use of ZIAGEN for treatment of HIV-1 infection:
-
-ZIAGEN is one of multiple products containing abacavir.
-Before starting ZIAGEN, review medical history for prior exposure to any abacavir-containing product (including EPZICOM®, TRIUMEQ®, and TRIZIVIR®) in order to avoid reintroduction in a patient with a history of hypersensitivity to abacavir [see Warnings and Precautions (5.1), Adverse Reactions (6)].

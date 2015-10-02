@@ -1,24 +1,19 @@
-# WARNING: HYPERSENSITIVITY REACTIONS, LACTIC ACIDOSIS, AND SEVERE HEPATOMEGALY
+# WARNING: HYPERSENSITIVITY REACTIONS, and LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY
 
 Hypersensitivity Reactions
 
-Serious and sometimes fatal hypersensitivity reactions have been associated with ZIAGEN® (abacavir sulfate).
+Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with ZIAGEN® (abacavir).
 
-Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups: (1) fever, (2) rash, (3) gastrointestinal (including nausea, vomiting, diarrhea, or abdominal pain), (4) constitutional (including generalized malaise, fatigue, or achiness), and (5) respiratory (including dyspnea, cough, or pharyngitis).
-Discontinue ZIAGEN as soon as a hypersensitivity reaction is suspected.
+Patients who carry the HLA‑B*5701 allele are at a higher risk of a hypersensitivity reaction to abacavir; although, hypersensitivity reactions have occurred in patients who do not carry the HLA‑B*5701 allele [see Warnings and Precautions (5.1)].
 
-Patients who carry the HLA-B*5701 allele are at high risk for experiencing a hypersensitivity reaction to abacavir.
-Prior to initiating therapy with abacavir, screening for the HLA-B*5701 allele is recommended; this approach has been found to decrease the risk of hypersensitivity reaction.
-Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
-HLA-B*5701-negative patients may develop a suspected hypersensitivity reaction to abacavir; however, this occurs significantly less frequently than in HLA-B*5701-positive patients.
+ZIAGEN is contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA‑B*5701-positive patients [see Contraindications (4), Warnings and Precautions (5.1)].
+All patients should be screened for the HLA‑B*5701 allele prior to initiating therapy with ZIAGEN or reinitiation of therapy with ZIAGEN, unless patients have a previously documented HLA‑B*5701 allele assessment.
+Discontinue ZIAGEN immediately if a hypersensitivity reaction is suspected, regardless of HLA-B*5701 status and even when other diagnoses are possible [see Contraindications (4), Warnings and Precautions (5.1)].
 
-Regardless of HLA-B*5701 status, permanently discontinue ZIAGEN if hypersensitivity cannot be ruled out, even when other diagnoses are possible.
+Following a hypersensitivity reaction to ZIAGEN, NEVER restart ZIAGEN or any other abacavir‑containing product because more severe symptoms, including death can occur within hours.
+Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity [see Warnings and Precautions (5.1)].
 
-Following a hypersensitivity reaction to abacavir, NEVER restart ZIAGEN or any other abacavir-containing product because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
+Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Reintroduction of ZIAGEN or any other abacavir-containing product, even in patients who have no identified history or unrecognized symptoms of hypersensitivity to abacavir therapy, can result in serious or fatal hypersensitivity reactions.
-Such reactions can occur within hours [see Warnings and Precautions (5.1)].
-
-Lactic Acidosis and Severe Hepatomegaly
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including ZIAGEN and other antiretrovirals[see Warnings and Precautions (5.2)].
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
+Discontinue ZIAGEN if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.2)].
