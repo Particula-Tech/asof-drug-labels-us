@@ -19,7 +19,7 @@ Human Data: Based on prospective reports from the Antiretroviral Pregnancy Regis
 The prevalence of defects in the first trimester was 3.1% (95% CI: 2.6% to 3.7%).
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
-The trials assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
+The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
 These trials were not designed or powered to provide efficacy information.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
@@ -29,7 +29,7 @@ Amniotic fluid concentrations of lamivudine were typically 2 times greater than 
 Animal Data: Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
 Reproduction studies with orally administered lamivudine have been performed in rats and rabbits at doses producing plasma levels up to approximately 35 times that for the recommended adult HIV dose.
 No evidence of teratogenicity due to lamivudine was observed.
-Evidence of embryo-lethality was seen in the rabbit at exposure levels similar to those observed in humans but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
+Evidence of early embryolethality was seen in the rabbit at exposure levels similar to those observed in humans, but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
 
 ## 8.2 Lactation
 
@@ -45,8 +45,7 @@ The safety and effectiveness of EPIVIR in combination with other antiretroviral 
 ## 8.5 Geriatric Use
 
 Clinical trials of EPIVIR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-In particular, because lamivudine is substantially excreted by the kidney and elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments should be made accordingly [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+In general, caution should be exercised in the administration of EPIVIR in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Impaired Renal Function
 

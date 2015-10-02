@@ -1,19 +1,21 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
+The following adverse reactions are discussed in other sections of the labeling:
 
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Severe acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
 - •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
 - •Pancreatitis [see Warnings and Precautions (5.5)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.6)].
+- •Fat redistribution [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience in Adult Subjects
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The safety profile of EPIVIR in adults is primarily based on 3,568 HIV-1-infected subjects in 7 clinical trials.
 
-The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea and cough.
+The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea, and cough.
 
 Selected clinical adverse reactions in greater than or equal to 5% of subjects during therapy with EPIVIR 150 mg twice daily plus RETROVIR® 200 mg 3 times daily for up to 24 weeks are listed in Table 3.
 
@@ -62,7 +64,7 @@ Frequencies of Selected Grade 3-4 Laboratory Abnormalities in Adults in Four 24-
 
 | Test(Threshold Level) | 24-Week Surrogate EndpointTrialsa |  | Clinical EndpointTriala |  |
 | --- | --- | --- | --- | --- |
-| EPIVIR plusRETROVIR | RETROVIRb | EPIVIR plusCurrent Therapyc | Placebo plusCurrent Therapyc |  |
+| EPIVIR plus RETROVIR | RETROVIRb | EPIVIR plus Current Therapyc | Placebo plus Current Therapyc |  |
 | Absolute neutrophil count (<750/mm3) | 7.2% | 5.4% | 15% | 13% |
 | Hemoglobin (<8.0 g/dL) | 2.9% | 1.8% | 2.2% | 3.4% |
 | Platelets (<50,000/mm3) | 0.4% | 1.3% | 2.8% | 3.8% |
@@ -92,7 +94,7 @@ Selected clinical adverse reactions and physical findings with a greater than or
 Table 5.
 Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal to 5% Frequency) in Pediatric Subjects in Trial ACTG300
 
-| Adverse Reaction | EPIVIR plusRETROVIR(n = 236) | Didanosine(n = 235) |
+| Adverse Reaction | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fever | 25% | 32% |
@@ -132,7 +134,7 @@ Selected laboratory abnormalities experienced by therapy‑naive (less than or e
 Table 6.
 Frequencies of Selected Grade 3-4 Laboratory Abnormalities in Pediatric Subjects in Trial ACTG300
 
-| Test(Threshold Level) | EPIVIR plusRETROVIR | Didanosine |
+| Test(Threshold Level) | EPIVIR plus RETROVIR | Didanosine |
 | --- | --- | --- |
 | Absolute neutrophil count (<400/mm3) | 8% | 3% |
 | Hemoglobin (<7.0 g/dL) | 4% | 2% |
@@ -144,7 +146,7 @@ Frequencies of Selected Grade 3-4 Laboratory Abnormalities in Pediatric Subjects
 
 ULN = Upper limit of normal.
 
-Pediatric Subjects Once-daily vs Twice-daily Dosing (COL105677)
+Pediatric Subjects Once-daily versus Twice-daily Dosing (COL105677)
 
 The safety of once-daily compared with twice-daily dosing of EPIVIR was assessed in the ARROW trial.
 Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
@@ -183,7 +185,7 @@ Anemia (including pure red cell aplasia and severe anemias progressing on therap
 
 Hepatic and Pancreatic
 
-Lactic acidosis and hepatic steatosis, posttreatment exacerbation of hepatitis B [see Boxed Warning, Warnings and Precautions (5.1, 5.2)].
+Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.1)], posttreatment exacerbations of hepatitis B [see Warnings and Precautions (5.2)].
 
 Hypersensitivity
 

@@ -1,13 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 - •EPIVIR Scored Tablets
-
-150 mg, are white, diamond-shaped, scored, film-coated tablets debossed with “GX CJ7” on both sides.
-
+- 150 mg, are white, diamond-shaped, scored, film-coated tablets debossed with “GX CJ7” on both sides.
 - •EPIVIR Tablets
-
-300 mg, are gray, modified diamond-shaped, film-coated tablets engraved with “GX EJ7” on one side and plain on the reverse side.
-
+- 300 mg, are gray, modified diamond-shaped, film-coated tablets engraved with “GX EJ7” on one side and plain on the reverse side.
 - •EPIVIR Oral Solution
-
-A clear, colorless to pale yellow, strawberry-banana flavored liquid, containing 10 mg of lamivudine per 1 mL.
+- A clear, colorless to pale yellow, strawberry-banana flavored liquid, containing 10 mg of lamivudine per 1 mL.

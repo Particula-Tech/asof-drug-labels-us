@@ -1,9 +1,9 @@
-# WARNING: LACTIC ACIDOSIS, POSTTREATMENT EXACERBATIONS OF HEPATITIS B IN CO-INFECTED PATIENTS, DIFFERENT FORMULATIONS OF EPIVIR®.
+# WARNING: LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY, EXACERBATIONS OF HEPATITIS B, and DIFFERENT FORMULATIONS OF EPIVIR®
 
-Lactic Acidosis and Severe Hepatomegaly
+Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including lamivudine and other antiretrovirals.
-Suspend treatment if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur[see Warnings and Precautions (5.1).
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
+Discontinue EPIVIR if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.1)].
 
 Exacerbations of Hepatitis B
 
@@ -14,4 +14,4 @@ If appropriate, initiation of anti-hepatitis B therapy may be warranted [see War
 Important Differences among Lamivudine-containing Products
 
 EPIVIR tablets and oral solution (used to treat HIV-1 infection) contain a higher dose of the active ingredient (lamivudine) than EPIVIR-HBV® tablets and oral solution (used to treat chronic HBV infection).
-Patients with HIV-1 infection should receive only dosage forms appropriate for treatment of HIV-1 [see Warnings and Precautions (5.2)
+Patients with HIV-1 infection should receive only dosage forms appropriate for treatment of HIV-1 [see Warnings and Precautions (5.2)].
