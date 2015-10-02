@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA203314"
+  ],
+  "inn": "insulin-degludec",
+  "labeler": "Novo Nordisk",
+  "package_ndcs": [
+    "0169-2550-13",
+    "0169-2550-97",
+    "0169-2660-15",
+    "0169-2660-97"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin degludec injection",
+      "name": "Tresiba"
+    }
+  ],
+  "setid": "456c5e87-3dfd-46fa-8ac0-c6128d4c97c6",
+  "source": "dailymed"
+}
