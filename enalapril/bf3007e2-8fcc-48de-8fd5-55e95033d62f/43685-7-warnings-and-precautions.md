@@ -228,7 +228,7 @@ If it is necessary to continue the diuretic, provide medical supervision for at 
 
 Agents Causing Renin Release: The antihypertensive effect of enalapril is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
