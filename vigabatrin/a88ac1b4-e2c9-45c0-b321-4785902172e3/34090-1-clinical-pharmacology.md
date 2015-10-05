@@ -32,7 +32,7 @@ The terminal half-life of vigabatrin is about 5.7 hours for infants (5 months â€
 Following administration of [14]C-vigabatrin to healthy male volunteers, about 95% of total radioactivity was recovered in the urine over 72 hours with the parent drug representing about 80% of this.
 Vigabatrin induces CYP2C9, but does not induce other hepatic cytochrome P450 enzyme systems.
 
-Pharmacokinetics in Special Populations
+Specific Populations
 
 Geriatric The renal clearance of vigabatrin in healthy elderly patients (â‰¥65 years of age) was 36% less than those in healthy younger patients.
 This finding is confirmed by an analysis of data from a controlled clinical trial [see Use in Specific Populations (8.5)].

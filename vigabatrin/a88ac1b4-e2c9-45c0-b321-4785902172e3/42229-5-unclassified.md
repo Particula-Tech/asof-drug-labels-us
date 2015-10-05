@@ -38,6 +38,9 @@ The proportion of patients achieving any particular level of reduction in comple
 For example, 51% of patients randomized to SABRIL 3 g/day and 53% of patients randomized to SABRIL 6 g/day experienced a 50% or greater reduction in seizure frequency, compared to 9% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
+Figure 1.
+Percent Reduction from Baseline in Seizure Frequency
+
 Study 2
 
 Study 2 (N=183 randomized, 182 evaluated for efficacy) was a randomized, double-blind, placebo-controlled, parallel study consisting of an 8-week baseline period and a 16-week treatment period.
@@ -59,6 +62,9 @@ Thus, in a display of this type, a curve for an effective treatment is shifted t
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the SABRIL 3 g/day group compared to the placebo group.
 For example, 39% of patients randomized to SABRIL (3 g/day) experienced a 50% or greater reduction in complex partial seizure frequency, compared to 21% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
+
+Figure 2.
+Percent Reduction from Baseline in Seizure Frequency
 
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.
@@ -93,7 +99,7 @@ Seventeen patients in the high-dose group achieved spasm freedom compared with 8
 This difference was statistically significant (p=0.0375).
 Primary efficacy results are shown in Table 10.
 
-| Table 10. Spasm Freedom by Primary Criteria Study 1 |  |  |  |
+| Table 10. Spasm Freedom by Primary Criteria (Study 1) |  |  |  |
 | --- | --- | --- | --- |
 |  |  | SABRIL Treatment Group |  |
 |  |  | 18-36 mg/kg/day [N=114] n (%) | 100-148 mg/kg/day [N=107] n (%) |
@@ -126,102 +132,3 @@ They are supplied in packages of 50 (NDC 67386-211-65).
 
 Store at 20 to 25°C (68 to 77°F).
 See USP controlled room temperature.
-
-Instructions for Use SABRIL®(SAY-bril) (vigabatrin) Powder for oral solution
-
-Read this Instructions for Use before your child starts taking SABRIL and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your child’s medical condition or treatment.
-Talk to your healthcare provider if you have any questions about the right dose of medicine to give your child or how to mix it.
-
-Important Note:
-
-- SABRIL comes in a packet
-- Each packet contains 500 mg of SABRIL powder
-- SABRIL powder must be mixed with water only.
-  The water may be cold or at room temperature.
-- Your healthcare provider will tell you:
-  - how many packets of SABRIL you will need for each dose
-  - how many milliliters (mL) of water to use to mix one dose of SABRIL
-  - how many milliliters (mL) of the powder and water mixture you will need for each dose of medicine.
-- SABRIL should be given right away after it is mixed
-
-Supplies you will need to mix 1 dose of SABRIL:
-
-- The number of packets of SABRIL needed for each dose
-- 2 clean cups: 1 for mixing and 1 for water.
-  The cup used for mixing SABRIL should be clear so you can see if the powder is dissolved
-- Water to mix with the SABRIL powder
-- One small 3 mL oral syringe and one large 10 mL oral syringe which are included
-- Small spoon or other clean utensil to stir the mixture
-- Scissors
-
-Step 1: Start with 1 of the empty cups and the total number of packets you will need for 1 dose.
-
-Step 2: Before you open the packet, tap it to settle all the powder to the bottom of the packet.
-
-Step 3: Use a pair of scissors to cut open the SABRIL packet along the dotted line.
-
-Step 4: Empty the entire contents of the SABRIL packet into 1 of the clean empty cups (See Figure A).
-
-- Repeat steps 2 to 4 above to open all of the packets needed for 1 dose of SABRIL.
-
-Step 5: Take the second cup and fill it half way with water (See Figure B). Do not mix SABRIL with anything other than water.
-
-- You will use the larger oral syringe (10 mL) to draw up the water needed to mix with the powder from the packets.
-  You will need 10 mL of water for each packet of SABRIL.
-  For example:
-  - If you are using 1 packet of SABRIL, you will need to use 10 mL of water (fill the 10 mL oral syringe 1 time)
-  - If you are using 2 packets of SABRIL, you will need to use 20 mL of water (fill the 10 mL oral syringe 2 times)
-  - If you are using 3 packets of SABRIL, you will need to use 30 mL of water (fill the 10 mL oral syringe 3 times)
-
-Step 6: Use the 10 mL oral syringe to draw up 10 mL of water.
-To do this, put the tip of the oral syringe all the way into the water in your cup.
-Then pull the plunger up towards you until the black ring of the white plunger is at the 10 mL line on the barrel of the oral syringe (See Figure C).
-
-- If you see bubbles of air in the oral syringe after drawing up the water, turn the oral syringe so the tip is pointing up (See Figure D). The air will move to the top of the oral syringe.
-  Pull the plunger back towards you and then push it back gently into the oral syringe to get rid of the bubbles.
-  Tiny bubbles are normal.
-
-Step 7: Check the oral syringe to make sure it is filled with water up to the 10 mL line (See Figure E).
-
-Step 8: Get the second cup that contains the SABRIL needed for your dose.
-
-Step 9: Hold the 10mL oral syringe that is filled with water with the tip pointing down over the SABRIL.
-
-Step 10: Slowly push the oral syringe plunger all the way down to empty the water from the oral syringe straight into the cup containing the SABRIL (See Figure F).
-
-Repeat steps 6 through 10 until all of the water that is needed to mix 1 dose of SABRIL has been added to the cup containing the powder.
-
-Step 11: Stir the mixture with the small spoon or other clean utensil until the solution is clear (See Figure G). This means that all of the powder is dissolved and ready for use.
-
-- To give a dose of SABRIL to your child, you should use the oral syringe to draw up the total number of mLs of the mixture that your healthcare provider tells you to.
-  - If you are giving 3 mL or less of the mixture, use the smaller 3 mL oral syringe.
-  - If you are giving more than 3 mL of the mixture, use the larger 10 mL oral syringe (this is the oral syringe that you just used to add the water).
-
-Step 12: Put the tip of the oral syringe all the way into the mixture.
-Pull the plunger up towards you to draw up the mixture.
-Stop when the black ring of the white plunger lines up with markings on the barrel of the oral syringe that matches the number of mLs of mixture your healthcare provider told you to give (Figure H).
-
-- If you see bubbles or air in the oral syringe after drawing up the mixture, turn the oral syringe so the tip is pointing up (See Figure I). The air will move to the top of the oral syringe.
-  Pull the plunger back towards you and then gently push it back in the oral syringe in order to get rid of the bubbles.
-  Tiny bubbles are normal.
-
-Step 13: Place the tip of the oral syringe into your child’s mouth and point the oral syringe towards either cheek (See Figure J). Push on the plunger slowly, a small amount at a time, until all of the mixture in the oral syringe is given.
-
-- If the dose you are giving your child is more than 10 mLs, repeat steps 12 and 13 until you give the total dose of mixture prescribed by your healthcare provider.
-
-Step 14: Throw away any mixture that is left over.
-Do not save or reuse any leftover mixture.
-
-Step 15: Wash the oral syringes and mixing cups in warm water.
-To clean the oral syringes, remove the plunger by gently pulling it straight out of the barrel.
-The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry, or the barrel and plunger can be placed in a dishwasher utensil rack, machine washed, and dried.
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
-
-Sabril is a registered trademark of Lundbeck
-
-Revised: 10/2013

@@ -27,15 +27,15 @@ If a decision is made to discontinue SABRIL, the dose should be gradually reduce
 
 ## 2.2 Refractory Complex Partial Seizures
 
-Adults (Patients >16 Years of Age) Treatment should be initiated at 1000 mg/day (500 mg twice daily).
+Adults (Patients 17 Years of Age and Older) Treatment should be initiated at 1000 mg/day (500 mg twice daily).
 Total daily dose may be increased in 500 mg increments at weekly intervals depending on response.
 The recommended dose of SABRIL in adults is 3000 mg/day (1500 mg twice daily).
 A 6000 mg/day dose has not been shown to confer additional benefit compared to the 3000 mg/day dose and is associated with an increased incidence of adverse events.
 
 In controlled clinical studies in adults with complex partial seizures, SABRIL was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.6)].
 
-Pediatric Patients 10 to 16 Years of Age Treatment is based on body weight as shown in Table 1.
-Treatment should be initiated at a total daily dose of 500 mg/day (250 mg twice daily) and may be increased weekly to a total maintenance dose of 2000 mg/day (1000 mg twice daily).
+Pediatric (Patients 10 to 16 Years of Age) Treatment is based on body weight as shown in Table 1.
+Treatment should be initiated at a total daily dose of 500 mg/day (250 mg twice daily) and may be increased weekly in 500 mg/day increments to a total maintenance dose of 2000 mg/day (1000 mg twice daily).
 Patients weighing more than 60 kg should be dosed according to adult recommendations.
 
 | Table 1. Pediatric CPS Dosing Recommendations |  |  |
@@ -49,7 +49,7 @@ In a controlled study in pediatric patients with complex partial seizures, SABRI
 
 ## 2.3 Infantile Spasms
 
-The initial daily dosing is 50 mg/kg/day given in two divided doses; subsequent dosing can be titrated by 25 mg/kg/day to 50 mg/kg/day increments every 3 days up to a maximum of 150 mg/kg/day given in 2 divided doses [see Use in Specific Populations (8.4)].
+The initial daily dosing is 50 mg/kg/day given in two divided doses (25 mg/kg twice daily); subsequent dosing can be titrated by 25 mg/kg/day to 50 mg/kg/day increments every 3 days, up to a maximum of 150 mg/kg/day given in 2 divided doses (75 mg/kg twice daily) [see Use in Specific Populations (8.4)].
 
 Table 2 below describes how many packets and how many milliliters (mL) of water will be needed to prepare each individual dose.
 The concentration after reconstitution is 50 mg/mL.
@@ -89,11 +89,11 @@ SABRIL is primarily eliminated through the kidney.
 
 Infants Information about how to adjust the dose in infants with renal impairment is unavailable.
 
-Pediatric patients 10 years and older, and adult patients
+Adult and pediatric patients 10 years and older
 
-- Mild renal impairment (CLcr >50 - 80 mL/min): dose should be decreased by 25%
-- Moderate renal impairment (CLcr >30 - 50 mL/min): dose should be decreased by 50%
-- Severe renal impairment (CLcr >10 - 30 mL/min): dose should be decreased by 75%.
+- Mild renal impairment (CLcr >50 to 80 mL/min): dose should be decreased by 25%
+- Moderate renal impairment (CLcr >30 to 50 mL/min): dose should be decreased by 50%
+- Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%.
 
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas:
 
@@ -101,6 +101,6 @@ CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the followin
 
 height (Ht) in cm; serum creatinine (Scr) in mg/dL K (proportionality constant): Female Child (<12 years): K=0.55; Male Child (<12 years): K=0.70
 
-- Pediatric patients 12 years or older and adult patients: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
+- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
 
 The effect of dialysis on SABRIL clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].

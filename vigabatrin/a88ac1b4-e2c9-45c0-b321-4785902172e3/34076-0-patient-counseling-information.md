@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise patients to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Vision Loss Patients and caregivers should be informed of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see Warnings and Precautions, (5.1)].
+Vision Loss Patients and caregivers should be informed of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see Warnings and Precautions (5.1)].
 
 Monitoring of vision, including assessment of visual fields and visual acuity, is required at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy unless formally exempted as documented by the prescriber.
 In patients for whom vision testing is not possible, treatment may continue according to clinical judgment with appropriate patient or caregiver counseling and with documentation in the SHARE program of the inability to test vision.
