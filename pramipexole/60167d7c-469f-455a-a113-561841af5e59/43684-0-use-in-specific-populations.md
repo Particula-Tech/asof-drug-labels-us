@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -13,7 +13,7 @@ The plasma AUC in rats at this dose was 4 times the AUC in humans at the MRHD.
 These findings are thought to be due to the prolactin-lowering effect of pramipexole, since prolactin is necessary for implantation and maintenance of early pregnancy in rats (but not rabbits or humans).
 Because of pregnancy disruption and early embryonic loss in these studies, the teratogenic potential of pramipexole could not be adequately evaluated.
 There was no evidence of adverse effects on embryo-fetal development following administration of up to 10 mg/kg/day to pregnant rabbits during organogenesis (plasma AUC was 70 times that in humans at the MRHD).
-Postnatal growth was inhibited in the offspring of rats treated with 0.5 mg/kg/day (approximately equivalent to the MRHD on a mg/m2 basis) or greater during the latter part of pregnancy and throughout lactation.
+Postnatal growth was inhibited in the offspring of rats treated with 0.5 mg/kg/day (approximately equivalent to the MRHD on a mg/m2basis) or greater during the latter part of pregnancy and throughout lactation.
 
 ## 8.3 Nursing Mothers
 
@@ -35,7 +35,7 @@ This resulted in an increase in elimination half-life from approximately 8.5 hou
 In clinical studies with Parkinson's disease patients, 38.7% of patients were older than 65 years.
 There were no apparent differences in efficacy or safety between older and younger patients, except that the relative risk of hallucination associated with the use of pramipexole dihydrochloride tablets were increased in the elderly.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.

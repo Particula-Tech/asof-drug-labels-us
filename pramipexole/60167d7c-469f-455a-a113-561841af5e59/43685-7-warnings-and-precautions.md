@@ -1,26 +1,26 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Falling Asleep During Activities of Daily Living
+## 5.1 Falling Asleep During Activities of Daily Living and Somnolence
 
 Patients treated with pramipexole dihydrochloride tablets have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles which sometimes resulted in accidents.
-Although many of these patients reported somnolence while on pramipexole dihydrochloride tablets, some perceived that they had no warning signs such as excessive drowsiness, and believed that they were alert immediately prior to the event.
+Although many of these patients reported somnolence while on pramipexole dihydrochloride tablets, some perceived that they had no warning signs (sleep attack) such as excessive drowsiness, and believed that they were alert immediately prior to the event.
 Some of these events had been reported as late as one year after the initiation of treatment.
 
-Somnolence is a common occurrence in patients receiving pramipexole dihydrochloride tablets at doses above 1.5 mg/day (0.5 mg TID) for Parkinson's disease.
-Many clinical experts believe that falling asleep while engaged in activities of daily living always occurs in a setting of pre-existing somnolence, although patients may not give such a history.
-For this reason, prescribers should continually reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
+Somnolence is a common occurrence in patients receiving pramipexole dihydrochloride tablets at doses above 1.5 mg/day (0.5 mg three times a day) for Parkinson's disease.
+It has been reported that falling asleep while engaged in activities of daily living usually occurs in a setting of pre-existing somnolence, although patients may not give such a history.
+For this reason, prescribers should reassess patients for drowsiness or sleepiness, especially since some of the events occur well after the start of treatment.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 
-Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically asked about factors that may increase the risk with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
+Before initiating treatment with pramipexole dihydrochloride tablets, advise patients of the potential to develop drowsiness and specifically asked about factors that may increase the risk for somnolence with pramipexole dihydrochloride tablets such as the use of concomitant sedating medications or alcohol, the presence of sleep disorders, and concomitant medications that increase pramipexole plasma levels (e.g., cimetidine) [see Clinical Pharmacology (12.3)].
 If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), pramipexole dihydrochloride tablets should ordinarily be discontinued.
-If a decision is made to continue pramipexole dihydrochloride tablets, advise patients not to drive and to avoid other potentially dangerous activities.
+If a decision is made to continue pramipexole dihydrochloride tablets, advise patients not to drive and to avoid other potentially dangerous activities that might result in harm if the patients become somnolent.
 While dose reduction reduces the degree of somnolence, there is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
 
 ## 5.2 Symptomatic Orthostatic Hypotension
 
 Dopamine agonists, in clinical studies and clinical experience, appear to impair the systemic regulation of blood pressure, with resulting orthostatic hypotension, especially during dose escalation.
 Parkinson's disease patients, in addition, appear to have an impaired capacity to respond to an orthostatic challenge.
-For these reasons, Parkinson's disease patients being treated with dopaminergic agonists ordinarily require careful monitoring for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk [see Patient Counseling Information (17.5)].
+For these reasons, Parkinson's disease patients being treated with dopaminergic agonists ordinarily require careful monitoring for signs and symptoms of orthostatic hypotension, especially during dose escalation, and should be informed of this risk.
 
 In clinical trials of pramipexole, however, and despite clear orthostatic effects in normal volunteers, the reported incidence of clinically significant orthostatic hypotension was not greater among those assigned to pramipexole tablets than among those assigned to placebo.
 This result, especially with the higher doses used in Parkinson's disease, is clearly unexpected in light of the previous experience with the risks of dopamine agonist therapy.
@@ -33,9 +33,9 @@ Patients were very carefully titrated, and patients with active cardiovascular d
 Case reports and the results of a cross-sectional study suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, binge eating, and/or other intense urges and the inability to control these urges while taking one or more of the medications, including pramipexole dihydrochloride tablets, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson's disease.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
 Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with pramipexole dihydrochloride tablets.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking pramipexole dihydrochloride tablets [see Patient Counseling Information (17.3)].
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking pramipexole dihydrochloride tablets.
 
-## 5.4 Hallucinations
+## 5.4 Hallucinations and Psychotic-like Behavior
 
 In the three double-blind, placebo-controlled trials in early Parkinson's disease, hallucinations were observed in 9% (35 of 388) of patients receiving pramipexole dihydrochloride tablets, compared with 2.6% (6 of 235) of patients receiving placebo.
 In the four double-blind, placebo-controlled trials in advanced Parkinson's disease, where patients received pramipexole dihydrochloride tablets and concomitant levodopa, hallucinations were observed in 16.5% (43 of 260) of patients receiving pramipexole dihydrochloride tablets compared with 3.8% (10 of 264) of patients receiving placebo.
@@ -44,6 +44,13 @@ Hallucinations were of sufficient severity to cause discontinuation of treatment
 Age appears to increase the risk of hallucinations attributable to pramipexole.
 In the early Parkinson's disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
 In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.
+
+Postmarketing reports with medication used to treat Parkinson's disease, including pramipexole dihydrochloride, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole dihydrochloride or after starting or increasing the dose of pramipexole dihydrochloride.
+Other drugs prescribed to improve the symptoms of Parkinson's disease can have similar effects on thinking and behavior.
+This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
+
+Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole dihydrochloride, because of the risk of exacerbating the psychosis.
+In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of pramipexole dihydrochloride [see Drug Interactions (7.1)].
 
 ## 5.5 Dyskinesia
 
@@ -81,9 +88,11 @@ The potential significance of this effect in humans has not been established, bu
 Although the events enumerated below may not have been reported in association with the use of pramipexole in its development program, they are associated with the use of other dopaminergic drugs.
 The expected incidence of these events, however, is so low that even if pramipexole caused these events at rates similar to those attributable to other dopaminergic therapies, it would be unlikely that even a single case would have occurred in a cohort of the size exposed to pramipexole in studies to date.
 
-Withdrawal-Emergent Hyperpyrexia and Confusion
+Hyperpyrexia and Confusion
 
-Although not reported with pramipexole in the clinical development program, a symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+Although not reported with pramipexole in the clinical development program, a symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in dopaminergic therapy.
+If possible, avoid sudden discontinuation or rapid dose reduction in patients taking pramipexole dihydrochloride tablets.
+If the decision is made to discontinue pramipexole dihydrochloride tablets, the dose should be tapered to reduce the risk of hyperpyrexia and confusion [see Dosage and Administration (2.2)].
 
 Fibrotic Complications
 

@@ -1,4 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+## 16.1 How Supplied
 
 Pramipexole Dihydrochloride Tablets are available as follows:
 
@@ -74,9 +76,9 @@ Bottles of 1500 NDC 13668-095-15
 
 100 Unit Dose Tablets NDC 13668-095-74
 
-Storage
+## 16.2 Storage and Handling
 
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 
