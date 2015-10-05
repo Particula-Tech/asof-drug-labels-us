@@ -1,4 +1,4 @@
-# WARNING: VISION LOSS
+# WARNING:​ VISION LOSS
 
 - SABRIL causes permanent bilateral concentric visual field constriction.
   Because assessing vision may be difficult in infants and children, the frequency and extent of vision loss is poorly characterized in these patients.

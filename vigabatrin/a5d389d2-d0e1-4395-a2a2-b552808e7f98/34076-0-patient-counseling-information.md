@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise patients to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Vision Loss Patients and caregivers should be informed of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see Warnings and Precautions, (5.1)].
 

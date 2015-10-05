@@ -38,6 +38,9 @@ The proportion of patients achieving any particular level of reduction in comple
 For example, 51% of patients randomized to SABRIL 3 g/day and 53% of patients randomized to SABRIL 6 g/day experienced a 50% or greater reduction in seizure frequency, compared to 9% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
+Figure 1.
+Percent Reduction from Baseline in Seizure Frequency
+
 Study 2
 
 Study 2 (N=183 randomized, 182 evaluated for efficacy) was a randomized, double-blind, placebo-controlled, parallel study consisting of an 8-week baseline period and a 16-week treatment period.
@@ -59,6 +62,9 @@ Thus, in a display of this type, a curve for an effective treatment is shifted t
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the SABRIL 3 g/day group compared to the placebo group.
 For example, 39% of patients randomized to SABRIL (3 g/day) experienced a 50% or greater reduction in complex partial seizure frequency, compared to 21% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
+
+Figure 2.
+Percent Reduction from Baseline in Seizure Frequency
 
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.
@@ -93,7 +99,7 @@ Seventeen patients in the high-dose group achieved spasm freedom compared with 8
 This difference was statistically significant (p=0.0375).
 Primary efficacy results are shown in Table 10.
 
-| Table 10. Spasm Freedom by Primary Criteria Study 1 |  |  |  |
+| Table 10. Spasm Freedom by Primary Criteria (Study 1) |  |  |  |
 | --- | --- | --- | --- |
 |  |  | SABRIL Treatment Group |  |
 |  |  | 18-36 mg/kg/day [N=114] n (%) | 100-148 mg/kg/day [N=107] n (%) |

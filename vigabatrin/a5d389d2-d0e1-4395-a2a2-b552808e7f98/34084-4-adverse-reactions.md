@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in more detail in other sections of the prescribing information:
+The following serious and otherwise important adverse reactions are described elsewhere in labeling:
 
 - Vision Loss [see BOXED WARNING and Warnings and Precautions (5.1)]
 - Magnetic Resonance Imaging (MRI) Abnormalities in Infants [see Warnings and Precautions (5.3)]
@@ -17,18 +17,15 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions in U.S. and Primary Non-U.S.
-Clinical Studies In U.S. and primary non-U.S. clinical studies of 4,079 SABRIL treated patients, the most commonly observed (≥5%) adverse reactions associated with the use of SABRIL in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight increased, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, coordination abnormal, vision blurred, diplopia, vomiting, influenza, pyrexia, and rash.
+In U.S. and primary non-U.S. clinical studies of 4,079 SABRIL treated patients, the most common (≥5%) adverse reactions associated with the use of SABRIL in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
 
 The adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were convulsion and depression.
 
-In patients with infantile spasms, the adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight increased, and insomnia.
+In patients with infantile spasms, the adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
 
-Most Common Adverse Reactions in Controlled Clinical Trials
+Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per SABRIL treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
 
-Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent adverse reactions that occurred in ≥2% and more than one patient per SABRIL treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
-
-| Table 5. Treatment Emergent Adverse Reactions Occurring in ≥2% and More than One Patient per SABRIL-Treated Group and More Frequently than in Placebo Patients (Studies 024 and 025) |  |  |  |
+| Table 5. Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Partial Seizures |  |  |  |
 | --- | --- | --- | --- |
 |  | SABRIL dosage (mg/day) |  |  |
 | Body System Adverse Reaction | 3000 [N=134] % | 6000 [N=43] % | Placebo [N=135] % |
@@ -36,16 +33,16 @@ Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent 
 | Tinnitus | 2 | 0 | 1 |
 | Vertigo | 2 | 5 | 1 |
 | Eye Disorders |  |  |  |
-| Vision blurred | 13 | 16 | 5 |
+| Blurred vision | 13 | 16 | 5 |
 | Diplopia | 7 | 16 | 3 |
 | Asthenopia | 2 | 2 | 0 |
 | Eye pain | 0 | 5 | 0 |
 | Gastrointestinal Disorders |  |  |  |
-| Diarrhoea | 10 | 16 | 7 |
+| Diarrhea | 10 | 16 | 7 |
 | Nausea | 10 | 2 | 8 |
 | Vomiting | 7 | 9 | 6 |
 | Constipation | 8 | 5 | 3 |
-| Abdominal pain upper | 5 | 5 | 1 |
+| Upper abdominal pain | 5 | 5 | 1 |
 | Dyspepsia | 4 | 5 | 3 |
 | Stomach discomfort | 4 | 2 | 1 |
 | Abdominal pain | 3 | 2 | 1 |
@@ -73,7 +70,7 @@ Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent 
 | Wound secretion | 0 | 2 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |
 | Increased appetite | 1 | 5 | 1 |
-| Weight increased | 6 | 14 | 3 |
+| Weight gain | 6 | 14 | 3 |
 | Musculoskeletal Disorders |  |  |  |
 | Arthralgia | 10 | 5 | 3 |
 | Back pain | 4 | 7 | 2 |
@@ -88,7 +85,7 @@ Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent 
 | Nystagmus | 13 | 19 | 9 |
 | Tremor | 15 | 16 | 8 |
 | Memory impairment | 7 | 16 | 3 |
-| Coordination abnormal | 7 | 16 | 2 |
+| Abnormal coordination | 7 | 16 | 2 |
 | Disturbance in attention | 9 | 0 | 1 |
 | Sensory disturbance | 4 | 7 | 2 |
 | Hyporeflexia | 4 | 5 | 1 |
@@ -107,7 +104,7 @@ Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent 
 | Confusional state | 4 | 14 | 1 |
 | Anxiety | 4 | 0 | 3 |
 | Depressed mood | 5 | 0 | 1 |
-| Thinking abnormal | 3 | 7 | 0 |
+| Abnormal thinking | 3 | 7 | 0 |
 | Abnormal behaviour | 3 | 5 | 1 |
 | Expressive language disorder | 1 | 7 | 1 |
 | Nervousness | 2 | 5 | 2 |
@@ -125,17 +122,17 @@ Refractory Complex Partial Seizures Adults Table 5 lists the treatment emergent 
 
 Pediatrics 10 to 16 years of age Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving SABRIL or placebo as add-on therapy for refractory complex partial seizures.
 Adverse reactions that are listed occurred in at least 2% of SABRIL treated patients and more frequently than placebo.
-The median SABRIL dose was 49.4 mg/kg, (range of 8.0 – 105.9 mg/kg).
+The median SABRIL dose was 49.4 mg/kg (range of 8.0 – 105.9 mg/kg).
 
-| Table 6. Treatment-Emergent Adverse Reactions Reported by ≥2% of Pediatric CPS Patients (10 to 16 years of age) Treated with SABRIL and Higher than Placebo |  |  |
+| Table 6. Adverse Reactions in Pooled, Add-On Trials in Pediatric Patients 10 to 16 Years of Age with Refractory Complex Partial Seizures |  |  |
 | --- | --- | --- |
 | Body System Adverse Reaction | All SABRIL [N=109] % | Placebo [N=46] % |
 | Eye Disorders |  |  |
 | Diplopia | 5 | 0 |
-| Vision blurred | 3 | 0 |
+| Blurred vision | 3 | 0 |
 | Gastrointestinal Disorders |  |  |
-| Diarrhoea | 6 | 2 |
-| Abdominal pain upper | 3 | 0 |
+| Diarrhea | 6 | 2 |
+| Upper abdominal pain | 3 | 0 |
 | Constipation | 3 | 2 |
 | General Disorders |  |  |
 | Fatigue | 9 | 4 |
@@ -144,7 +141,7 @@ The median SABRIL dose was 49.4 mg/kg, (range of 8.0 – 105.9 mg/kg).
 | Influenza | 6 | 2 |
 | Otitis media | 6 | 2 |
 | Investigations |  |  |
-| Weight increased | 17 | 2 |
+| Weight gain | 17 | 2 |
 | Nervous System Disorders |  |  |
 | Somnolence | 6 | 2 |
 | Tremor | 6 | 0 |
@@ -159,12 +156,12 @@ The median SABRIL dose was 49.4 mg/kg, (range of 8.0 – 105.9 mg/kg).
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Acne | 3 | 0 |
 
-Infantile Spasms In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse events reported by >5% of patients receiving SABRIL and that occurred more frequently than in placebo patients, were somnolence (SABRIL 45%, placebo 30%), bronchitis (SABRIL 30%, placebo 15%), ear infection (SABRIL 10%, placebo 5%), and otitis media acute SABRIL 10%, placebo 0%).
+Infantile Spasms In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse reactions that occurred in >5% of patients receiving SABRIL and that occurred more frequently than in placebo patients were somnolence (SABRIL 45%, placebo 30%), bronchitis (SABRIL 30%, placebo 15%), ear infection (SABRIL 10%, placebo 5%), and acute otitis media (SABRIL 10%, placebo 0%).
 
-In a dose response study of low-dose (18-36 mg/kg/day) versus high-dose (100-148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse events was observed.
-The treatment emergent adverse reactions (≥5% in either dose group) are summarized in Table 7.
+In a dose response study of low-dose (18-36 mg/kg/day) versus high-dose (100-148 mg/kg/day) SABRIL, no clear correlation between dose and incidence of adverse reactions was observed.
+The adverse reactions (≥5% in either dose group) are summarized in Table 7.
 
-| Table 7. Treatment Emergent Adverse Reactions Occurring in ≥5% of Infantile Spasms Patients |  |  |
+| Table 7. Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasms |  |  |
 | --- | --- | --- |
 |  | SABRIL Low Dose | SABRIL High Dose |
 | Body System Adverse Reaction | [N=114] % | [N=108] % |

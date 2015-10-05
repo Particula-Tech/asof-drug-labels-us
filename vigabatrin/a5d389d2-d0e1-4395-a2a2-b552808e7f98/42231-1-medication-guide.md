@@ -49,7 +49,7 @@ Tell your healthcare provider right away if you think that your baby is:
   Even these regular vision exams may not show the damage to your baby’s vision before it is serious and permanent. ○ If your baby does not have these vision tests regularly, your healthcare provider may stop prescribing SABRIL for your baby. ○ If your baby is not able to complete vision testing, your healthcare provider may continue prescribing SABRIL for your baby.
   But, your healthcare provider will not be able to watch for vision loss in your baby.
 
-| In all people who take SABRIL: You are at risk for vision loss with any amount of SABRIL. Your risk of vision loss may be higher the more SABRIL you take daily and the longer you take it. It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting SABRIL or any time during treatment. It may even happen after treatment has stopped. |
+| In all people who take SABRIL: You are at risk for vision loss with any amount of SABRIL.Your risk of vision loss may be higher the more SABRIL you take daily and the longer you take it.It is not possible for your healthcare provider to know when vision loss will happen. It could happen soon after starting SABRIL or any time during treatment. It may even happen after treatment has stopped. |
 | --- |
 
 - Because SABRIL might cause vision loss, it is available to healthcare providers and patients only under a special program called the Support, Help and Resources for Epilepsy SHARE program.
@@ -259,4 +259,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
-SABRIL is a registered trademark of Lundbeck Revised: October 2013
+SABRIL is a registered trademark of Lundbeck Revised: 09/2015

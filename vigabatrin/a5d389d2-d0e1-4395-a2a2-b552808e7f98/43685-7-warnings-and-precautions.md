@@ -10,14 +10,13 @@ If, in the clinical judgment of the prescriber, evidence of treatment failure be
 In patients with infantile spasms, SABRIL should be withdrawn if a substantial clinical benefit is not observed within 2 to 4 weeks.
 If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment should be discontinued at that time [see BOXED WARNING].
 
-Monitoring of Vision
-
-Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program [see Warnings and Precautions (5.2)].
+Monitoring of Vision Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program [see Warnings and Precautions (5.2)].
 Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
 For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
 
 The diagnostic approach should be individualized for the patient and clinical situation.
 For all patients, attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
+
 In adults and cooperative pediatric patients, perimetry is recommended, preferably by automated threshold visual field testing.
 Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient, but this additional testing is not required.
 In patients exempted from vision testing, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the SHARE program of the exemption.
@@ -58,7 +57,7 @@ In the study above, in post marketing experience, and in published literature re
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
-Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development.
+Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development, and brain histopathological changes were observed in dogs exposed to vigabatrin during the juvenile period of development.
 The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
 The specific pattern of signal changes observed in IS patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory CPS.
@@ -74,11 +73,13 @@ A no-effect dose was not established in rodents or dogs.
 In the rat and dog, vacuolation was reversible following discontinuation of vigabatrin treatment, but, in the rat, pathologic changes consisting of swollen or degenerating axons, mineralization, and gliosis were seen in brain areas in which vacuolation had been previously observed.
 Vacuolation in adult animals was correlated with alterations in MRI and changes in visual and somatosensory evoked potentials (EP).
 
-Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (areas including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
+Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
 Decreased myelination and evidence of oligodendrocyte injury were additional findings in the brains of vigabatrin-treated rats.
 An increase in apoptosis was seen in some brain regions following vigabatrin exposure during the early postnatal period.
 Long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
-These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1)].
+Administration of vigabatrin to juvenile dogs produced vacuolar changes in the brain gray matter (including the septal nuclei, hippocampus, hypothalamus, thalamus, cerebellum, and globus pallidus).
+Neurobehavioral effects of vigabatrin were not assessed in the juvenile dog.
+These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1) and (8.4)].
 
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
 
