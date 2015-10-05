@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Ciprofloxacin Tablets, USP are available as white, round, film-coated tablets containing 250 mg ciprofloxacin.
 The 250 mg tablet is coded with "WW927" on one side.
@@ -12,10 +12,11 @@ Ciprofloxacin Tablets, USP 750 mg are available in bottles of 50’s and 100’s
 
 |  | Strength | Tablet Identification |
 | --- | --- | --- |
-| Bottles of 30's: | 250 mg 500 mg | WW927 WW928 |
-| Bottles of 50's: | 750 mg | WW929 |
-| Bottles of 100's: | 250 mg 500 mg 750 mg | WW927 WW928 WW929 |
-| Bottles of 500's: | 250 mg 500 mg | WW927 WW928 |
+| Bottles of 30’s: | 250 mg | WW927 |
+|  | 500 mg | WW928 |
+| Bottles of 50’s: | 750 mg | WW929 |
+| Bottles of 100’s: | 250 mg 500 mg 750 mg | WW927 WW928 WW929 |
+| Bottles of 500’s: | 250 mg 500 mg | WW927 WW928 |
 | Unit Dose Boxes of 100 | 250 mg 500 mg 750 mg | WW927 WW928 WW929 |
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
