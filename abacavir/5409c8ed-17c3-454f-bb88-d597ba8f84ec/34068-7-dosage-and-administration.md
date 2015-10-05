@@ -9,20 +9,23 @@ The recommended oral dose of abacavir tablets for adults is 600 mg daily, admini
 
 ## 2.2 Pediatric Patients
 
-Abacavir tablets are available as scored tablets for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
+Abacavir tablets are available as scored tablet for HIV-1-infected pediatric patients weighing greater than or equal to 14 kg for whom a solid dosage form is appropriate.
 Before prescribing abacavir tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow abacavir tablets, the oral solution formulation should be prescribed.
 The recommended oral dosage of abacavir tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
-Dosing Recommendations for Abacavir Tablets in Pediatric Patients
+Dosing Recommendations for Abacavir Scored Tablets in Pediatric Patients
 
-| Weight (kg) | Dosage Regimen Using Scored Tablet |  | Total Daily Dose |
+| Weight (kg) | Twice-daily Dosing Regimen |  |  |
 | --- | --- | --- | --- |
-| AM Dose | PM Dose |  |  |
-| 14 to 21 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
-| >21 to <30 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
-| ≥30 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
+| AM Dose | PM Dose | Total Daily Dose |  |
+| 14 to <20 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
+| >20 to <25 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
+| ≥25 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
+
+Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s ZIAGEN® (abacavir sulfate) tablets.
+However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Patients with Hepatic Impairment
 

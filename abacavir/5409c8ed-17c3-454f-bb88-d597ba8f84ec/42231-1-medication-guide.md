@@ -1,16 +1,18 @@
 # MEDICATION GUIDE
 
-Abacavir Tablets USP Read this Medication Guide before you start taking abacavir tablets and each time you get a refill.
+Abacavir Tablets USP (a bak' a vir) Read this Medication Guide before you start taking abacavir tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 Be sure to carry your abacavir tablets Warning Card with you at all times.
+
 What is the most important information I should know about abacavir tablets?
-1.
-Serious allergic reaction (hypersensitivity reaction).
-Abacavir tablets contain abacavir (also contained in EPZICOM® and TRIZIVIR®).
-Patients taking abacavir tablets may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
-Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
-Your healthcare provider can determine with a blood test if you have this gene variation.
+
+- Serious allergic reaction (hypersensitivity reaction).
+  Abacavir tablets contain abacavir (also contained in EPZICOM®, TRIUMEQ®,and TRIZIVIR®).
+  Patients taking abacavir tablets may have a serious allergic reaction (hypersensitivity reaction) that can cause death.
+  Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
+  Your healthcare provider can determine with a blood test if you have this gene variation.
+
 If you get a symptom from 2 or more of the following groups while taking abacavir tablets, call your healthcare provider right away to find out if you should stop taking abacavir tablets.
 
 |  | Symptom(s) |
@@ -23,15 +25,18 @@ If you get a symptom from 2 or more of the following groups while taking abacavi
 
 A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
-If you stop abacavir tablets because of an allergic reaction, never take abacavir sulfate or any other abacavir-containing medicine (EPZICOM and TRIZIVIR) again.
+
+If you stop abacavir tablets because of an allergic reaction, never take abacavir sulfate or any other abacavir-containing medicine (EPZICOM, TRIUMEQ, and TRIZIVIR) again.
 If you take abacavir sulfate or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death.
 If you stop abacavir tablets for any other reason, even for a few days, and you are not allergic to abacavir tablets, talk with your healthcare provider before taking them again.
 Taking abacavir tablets again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to them before.
+
 If your healthcare provider tells you that you can take abacavir tablets again, start taking them when you are around medical help or people who can call a healthcare provider if you need one.
-2.
-Lactic Acidosis (buildup of acid in the blood).
-Some human immunodeficiency virus (HIV) medicines, including abacavir tablets, can cause a rare but serious condition called lactic acidosis.
-Lactic acidosis is a serious medical emergency that can cause death and must be treated in the hospital.
+
+- Lactic Acidosis (buildup of acid in the blood).
+  Some human immunodeficiency virus (HIV) medicines, including abacavir tablets, can cause a rare but serious condition called lactic acidosis.
+  Lactic acidosis is a serious medical emergency that can cause death and must be treated in the hospital.
+
 Call your healthcare provider right away if you get any of the following signs or symptoms of lactic acidosis:
 
 - you feel very weak or tired
@@ -42,10 +47,10 @@ Call your healthcare provider right away if you get any of the following signs o
 - you feel dizzy or light-headed
 - you have a fast or irregular heartbeat
 
-3.
-Serious liver problems.
-Some people who have taken medicines like abacavir tablets have developed serious liver problems called hepatotoxicity, with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
-Hepatomegaly with steatosis is a serious medical emergency that can cause death.
+- Serious liver problems.
+  Some people who have taken medicines like abacavir tablets have developed serious liver problems called hepatotoxicity, with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
+  Hepatomegaly with steatosis is a serious medical emergency that can cause death.
+
 Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
 
 - your skin or the white part of your eyes turns yellow (jaundice)
@@ -56,7 +61,9 @@ Call your healthcare provider right away if you get any of the following signs o
 - you have lower stomach area (abdominal) pain
 
 You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight, or have been taking nucleoside analogue medicines for a long time.
+
 What are abacavir tablets?
+
 Abacavir tablets are a prescription medicine used to treat HIV infection.
 Abacavir tablets are a medicine called a nucleoside analogue reverse transcriptase inhibitor (NRTI).
 Abacavir tablets are always used with other anti-HIV medicines.
@@ -67,6 +74,7 @@ When used in combination with these other medicines, abacavir tablets help lower
 - It is very important that you see your doctor regularly while you are taking abacavir tablets.
 
 Who should not take abacavir tablets?
+
 Do not take abacavir tablets if you:
 
 - are allergic to abacavir or any of the ingredients in abacavir tablets.
@@ -74,22 +82,26 @@ Do not take abacavir tablets if you:
 - have certain liver problems.
 
 What should I tell my healthcare provider before taking abacavir tablets?
+
 Before you take abacavir tablets, tell your healthcare provider if you:
 
 - have been tested and know whether or not you have a particular gene variation called HLA-B*5701.
 - have hepatitis B virus infection or have other liver problems.
 - have heart problems, smoke, or have diseases that increase your risk of heart disease such as high blood pressure, high cholesterol, or diabetes.
 - are pregnant or plan to become pregnant.
-  It is not known if abacavir tablets will harm your unborn baby.
+  Taking abacavir tablets during pregnancy have not been associated with an increased risk of birth defects.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-- Pregnancy Registry.
-  If you take abacavir tablets while you are pregnant, talk to your healthcare provider about how you can take part in the Pregnancy Registry for abacavir tablets.
-  The purpose of the pregnancy registry is to collect information about the health of you and your baby.
+
+Pregnancy Registry.
+If you take abacavir tablets while you are pregnant, talk to your healthcare provider about how you can take part in the Pregnancy Registry for abacavir tablets.
+The purpose of the pregnancy registry is to collect information about the health of you and your baby.
+
 - are breastfeeding or plan to breastfeed.
-  Do not breastfeed.
-  We do not know if abacavir sulfate can be passed to your baby in your breast milk and whether it could harm your baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-- Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+  Do not breastfeed if you take abacavir tablets.
+
+- You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
 Especially tell your healthcare provider if you take:
 
@@ -97,17 +109,24 @@ Especially tell your healthcare provider if you take:
 - methadone
 - TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine)
 - EPZICOM (abacavir sulfate and lamivudine)
+- TRIUMEQ (abacavir, dolutegravir, and lamivudine)
 
 Ask your healthcare provider if you are not sure if you take one of the medicines listed above.
+
 Abacavir tablets may affect the way other medicines work, and other medicines may affect how abacavir tablets work.
+
 Know the medicines you take.
 Keep a list of your medicines with you to show to your healthcare provider and pharmacist when you get a new medicine.
+
 How should I take abacavir tablets?
 
 - Take abacavir tablets exactly as your healthcare provider tells you to take them.
 - Abacavir tablets are taken by mouth as a tablet or a strawberry- and banana-flavored liquid.
 - Abacavir tablets may be taken with or without food.
 - Do not skip doses.
+  If you miss a dose of abacavir sulfate, take it as soon as you remember.
+  Do not take 2 doses at the same time.
+  If you are not sure about your dosing, call your healthcare provider.
 - Children aged 3 months and older can also take abacavir tablets.
   The child’s healthcare provider will decide the right dose and whether the child should take the tablet or liquid, based on the child’s weight.
   The dose should not be more than the recommended adult dose.
@@ -130,6 +149,7 @@ These changes may include:
 
 - more fat in or around your trunk, upper back and neck (buffalo hump), breast, or chest
 - loss of fat in your legs, arms, or face
+
 - Heart attack (myocardial infarction).
   Some HIV medicines including abacavir tablets may increase your risk of heart attack.
 
@@ -150,10 +170,13 @@ The most common side effects of abacavir tablets in children include:
 - ear, nose, or throat infections
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of abacavir tablets.
 For more information, ask your healthcare provider or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store abacavir tablets?
 
 - Store abacavir tablets at room temperature, between 20° to 25°C (68° to 77°F).
@@ -164,22 +187,36 @@ General information for safe and effective use of abacavir tablets
 
 Avoid doing things that can spread HIV infection to others.
 
-- Do not share needles or other injection equipment.
+- Do not re-use or share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use abacavir tablets for a condition for which it was not prescribed.
 Do not give abacavir tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
+
 This Medication Guide summarizes the most important information about abacavir tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for the information that is written for healthcare professionals.
-For more information call 1-866-850-2876.
+
+For more information call Aurobindo Pharma USA, Inc. 1-866-850-2876.
+
 What are the ingredients in abacavir tablets?
-Active ingredient: abacavir sulfate Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate.
+
+Active ingredient: abacavir sulfate
+
+Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate.
 The tablets are coated with a film that is made of hypromellose, iron oxide yellow, polysorbate 80, titanium dioxide, and triacetin.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-EPZICOM and TRIZIVIR are registered trademarks of ViiV Healthcare.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 11/2013
+
+The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
+The markers of these brands are not affiliated with and do not endorse the Aurobindo Pharma Limited or its products.
+
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
+
+Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302, India
+
+Revised: 10/2015
