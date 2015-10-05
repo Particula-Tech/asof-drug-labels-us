@@ -12,6 +12,6 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
   - Nephritis: Advise patients to contact their healthcare provider immediately for signs or symptoms of nephritis [see Warnings and Precautions (5.5)].
 - Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.7)].
 - Advise patients of the importance of keeping scheduled appointments for blood work or other laboratory tests [see Warnings and Precautions (5.3, 5.4, 5.5)].
-- Advise women that KEYTRUDA may cause fetal harm.
-  Instruct women of reproductive potential to use highly effective contraception during and for 4 months after the last dose of KEYTRUDA [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.8)].
-- Advise nursing mothers not to breastfeed while taking KEYTRUDA [see Use in Specific Populations (8.3)].
+- Advise women that KEYTRUDA can cause fetal harm.
+  Instruct women of reproductive potential to use highly effective contraception during and for 4 months after the last dose of KEYTRUDA [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
+- Advise nursing mothers not to breastfeed while taking KEYTRUDA and for 4 months after the final dose [see Use in Specific Populations (8.2)].

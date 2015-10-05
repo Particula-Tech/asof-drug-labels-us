@@ -1,18 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Patient Selection
+
+Select patients for second line or greater treatment of metastatic NSCLC with KEYTRUDA based on the presence of positive PD-L1 expression [see Clinical Studies (14.2)].
+Information on FDA-approved tests for the detection of PD-L1 expression in NSCLC is available at: http://www.fda.gov/CompanionDiagnostics.
+
+## 2.2 Recommended Dosing
 
 The recommended dose of KEYTRUDA is 2 mg/kg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity.
 
-## 2.2 Dose Modifications
+## 2.3 Dose Modifications
 
 Withhold KEYTRUDA for any of the following:
 
 - Grade 2 pneumonitis [see Warnings and Precautions (5.1)]
 - Grade 2 or 3 colitis [see Warnings and Precautions (5.2)]
-- Symptomatic hypophysitis [see Warnings and Precautions (5.4)]
+- Grade 3 or 4 endocrinopathies [see Warnings and Precautions (5.4)]
 - Grade 2 nephritis [see Warnings and Precautions (5.5)]
-- Grade 3 hyperthyroidism [see Warnings and Precautions (5.4)]
 - Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN
 - Any other severe or Grade 3 treatment-related adverse reaction [see Warnings and Precautions (5.6)]
 
@@ -20,8 +24,8 @@ Resume KEYTRUDA in patients whose adverse reactions recover to Grade 0-1.
 
 Permanently discontinue KEYTRUDA for any of the following:
 
-- Any life-threatening adverse reaction
-- Grade 3 or 4 pneumonitis [see Warnings and Precautions (5.1)]
+- Any life-threatening adverse reaction (excluding endocrinopathies controlled with hormone replacement therapy)
+- Grade 3 or 4 pneumonitis or recurrent pneumonitis of Grade 2 severity [see Warnings and Precautions (5.1)]
 - Grade 3 or 4 nephritis [see Warnings and Precautions (5.5)]
 - AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN
   - For patients with liver metastasis who begin treatment with Grade 2 AST or ALT, if AST or ALT increases by greater than or equal to 50% relative to baseline and lasts for at least 1 week
@@ -30,7 +34,7 @@ Permanently discontinue KEYTRUDA for any of the following:
 - Persistent Grade 2 or 3 adverse reactions (excluding endocrinopathies controlled with hormone replacement therapy) that do not recover to Grade 0-1 within 12 weeks after last dose of KEYTRUDA
 - Any severe or Grade 3 treatment-related adverse reaction that recurs [see Warnings and Precautions (5.6)]
 
-## 2.3 Preparation and Administration
+## 2.4 Preparation and Administration
 
 Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
 
