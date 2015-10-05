@@ -65,7 +65,7 @@ Pregnancy Category D
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Vasotec as soon as possible.
+When pregnancy is detected, discontinue VASOTEC as soon as possible.
 These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
@@ -75,7 +75,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue VASOTEC, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to VASOTEC for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric use).
+Closely observe infants with histories of in utero exposure to VASOTEC for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
 On a body surface area basis, the doses used were 57 times and 12 times, respectively, the maximum recommended human daily dose (MRHDD).
@@ -176,7 +176,7 @@ Agents Causing Renin Release:
 
 The antihypertensive effect of VASOTEC is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -233,7 +233,7 @@ Pediatric Use
 Neonates with a history of in utero exposure to VASOTEC:
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
-Exchange transfustions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
 Antihypertensive effects of VASOTEC have been established in hypertensive pediatric patients age 1 month to 16 years.
