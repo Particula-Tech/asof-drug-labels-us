@@ -16,7 +16,7 @@ This results in an average decrease in Cmax of 20% in addition to a 27% decrease
 ### Distribution
 
 Diazepam and its metabolites are highly bound to plasma proteins (diazepam 98%).
-Diazepam and its metabolites cross the blood-brain and placental barriers and are also found in breast milk in concentrations approximately one tenth of those in maternal plasma (days 3 to 9 postpartum).
+Diazepam and its metabolites cross the blood-brain and placental barriers and are also found in breast milk in concentrations approximately one tenth of those in maternal plasma (days 3 to 9 post-partum).
 In young healthy males, the volume of distribution at steady-state is 0.8 to 1 L/kg.
 The decline in the plasma concentration-time profile after oral administration is biphasic.
 The initial distribution phase has a half-life of approximately one hour, although it may range up to > 3 hours.
@@ -43,7 +43,7 @@ In children 3 to 8 years old the mean half-life of diazepam has been reported to
 
 ### Newborns
 
-In full term infants, elimination half-lives around 30 hours have been reported, with a longer average half-life of 54 hours reported in premature infants of 28 to 34 weeks gestational age and 8 to 81 days postpartum.
+In full term infants, elimination half-lives around 30 hours have been reported, with a longer average half-life of 54 hours reported in premature infants of 28 to 34 weeks gestational age and 8 to 81 days post-partum.
 In both premature and full term infants the active metabolite desmethyldiazepam shows evidence of continued accumulation compared to children.
 Longer half-lives in infants may be due to incomplete maturation of metabolic pathways.
 

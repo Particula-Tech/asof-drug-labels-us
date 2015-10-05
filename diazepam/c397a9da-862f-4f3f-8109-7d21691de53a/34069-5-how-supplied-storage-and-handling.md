@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Diazepam Tablets, USP are available containing 2 mg, 5 mg or 10 mg of Diazepam, USP.
+Diazepam Tablets, USP are available containing 2 mg, 5 mg or 10 mg of diazepam, USP.
 
 The 2 mg tablets are white, round, scored tablets debossed with MYLAN over 271 on one side and the other side being scored.
 They are available as follows:
@@ -24,12 +24,12 @@ NDC 0378-0477-01 bottles of 100 tablets
 NDC 0378-0477-05 bottles of 500 tablets
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2008 DPM:R13
+REVISED SEPTEMBER 2015 DPM:R14

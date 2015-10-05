@@ -6,7 +6,7 @@ In such cases dosage should be increased cautiously to avoid adverse effects.
 
 | ADULTS: | USUAL DAILY DOSE: |
 | --- | --- |
-| Management of Anxiety Disorders and Relief of Symptoms of Anxiety | Depending upon severity of symptoms - 2mg to 10 mg, 2 or 4 times daily |
+| Management of Anxiety Disorders and Relief of Symptoms of Anxiety | Depending upon severity of symptoms—2 mg to 10 mg, 2 to 4 times daily |
 | Symptomatic Relief in Acute Alcohol Withdrawal | 10 mg, 3 or 4 times during the first 24 hours, reducing to 5 mg, 3 or 4 times daily as needed |
 | Adjunctively for Relief of Skeletal Muscle Spasm | 2 mg to 10 mg, 3 or 4 times daily |
 | Adjunctively in Convulsive Disorders | 2 mg to 10 mg, 2 to 4 times daily |

@@ -31,7 +31,7 @@ With newborn infants it must be remembered that the enzyme system involved in th
 ## Nursing Mothers
 
 Diazepam passes into breast milk.
-Breast-feeding is therefore not recommended in patients receiving diazepam.
+Breastfeeding is therefore not recommended in patients receiving diazepam.
 
 # PRECAUTIONS
 
@@ -97,7 +97,7 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-## Category D
+### Teratogenic Effects. Pregnancy Category D
 
 (see WARNINGS: Pregnancy).
 
@@ -107,7 +107,7 @@ Safety and effectiveness in pediatric patients below the age of 6 months have no
 
 ## Geriatric Use
 
-In elderly patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or over sedation (2 mg to 2.5 mg once or twice daily, initially to be increased gradually as needed and tolerated).
+In elderly patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (2 mg to 2.5 mg once or twice daily, initially to be increased gradually as needed and tolerated).
 
 Extensive accumulation of diazepam and its major metabolite, desmethyldiazepam, has been noted following chronic administration of diazepam in healthy elderly male subjects.
 Metabolites of this drug are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function.

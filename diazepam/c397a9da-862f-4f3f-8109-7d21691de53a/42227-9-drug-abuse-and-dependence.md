@@ -2,7 +2,7 @@
 
 Diazepam is subject to Schedule IV control under the Controlled Substances Act of 1970.
 Abuse and dependence of benzodiazepines have been reported.
-Addiction prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving diazepam or other psychotropic agents because of the predisposition of such patients to habituation and dependence.
+Addiction-prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving diazepam or other psychotropic agents because of the predisposition of such patients to habituation and dependence.
 Once physical dependence to benzodiazepines has developed, termination of treatment will be accompanied by withdrawal symptoms.
 The risk is more pronounced in patients on long-term therapy.
 
