@@ -252,6 +252,8 @@ Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, 
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 
+Reproductive: Aspermia, azoospermia, decreased sperm count, decreased spermatozoa motility, male infertility, and abnormal spermatozoa morphology.
+
 Genitourinary: Enuresis and urinary tract infection.
 
 Special Senses: Hearing loss.
