@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Clotrimazole Cream is contraindicated in individuals sensitive to its components.
+Clotrimazole cream USP is contraindicated in individuals sensitive to its components.

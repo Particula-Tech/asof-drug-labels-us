@@ -1,7 +1,10 @@
-For external use only
+For external use only.
+Not for ophthalmic use.
 
-CAUTION: Federal law prohibits dispensing without prescription.
+Rx only
 
-Mfd. by: TARO Pharmaceuticals Inc., Bramalea, Ontario, Canada L6T 1C3
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Revision Date: June, 1996
+Revised: November, 2014
+
+PK-0739-6 359 1114-6
