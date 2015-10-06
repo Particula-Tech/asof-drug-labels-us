@@ -5,14 +5,14 @@
 Buprenorphine is metabolized to norbuprenorphine primarily by cytochrome CYP3A4; therefore, potential interactions may occur when SUBOXONE sublingual film is given concurrently with agents that affect CYP3A4 activity.
 The concomitant use of SUBOXONE sublingual film with CYP3A4 inhibitors (e.g., azole antifungals such as ketoconazole, macrolide antibiotics such as erythromycin, and HIV protease inhibitors) should be monitored and may require dose-reduction of one or both agents.
 
-The interaction of buprenorphine with CYP3A4 inducers has not been studied; therefore, it is recommended that patients receiving SUBOXONE sublingual film be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., efavirenz, phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Clinical Pharmacology (12.3)].
+The interaction of buprenorphine with CYP3A4 inducers has not been studied; therefore, it is recommended that patients receiving SUBOXONE sublingual film be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., efavirenz, phenobarbital, carbamazepine, phenytoin, rifampicin) are coadministered [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Antiretrovirals
 
 Three classes of antiretroviral agents have been evaluated for CYP3A4 interactions with buprenorphine.
 Nucleoside reverse transcriptase inhibitors (NRTIs) do not appear to induce or inhibit the P450 enzyme pathway, thus no interactions with buprenorphine are expected.
 Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are metabolized principally by CYP3A4.
-Efavirenz, nevirapine and etravirine are known CYP3A inducers whereas delaviridine is a CYP3A inhibitor.
+Efavirenz, nevirapine and etravirine are known CYP3A inducers whereas delavirdine is a CYP3A inhibitor.
 Significant pharmacokinetic interactions between NNRTIs (e.g., efavirenz and delavirdine) and buprenorphine have been shown in clinical studies, but these pharmacokinetic interactions did not result in any significant pharmacodynamic effects.
 It is recommended that patients who are on chronic buprenorphine treatment have their dose monitored if NNRTIs are added to their treatment regimen.
 Studies have shown some antiretroviral protease inhibitors (PIs) with CYP3A4 inhibitory activity (nelfinavir, lopinavir/ritonavir, ritonavir) have little effect on buprenorphine pharmacokinetic and no significant pharmacodynamic effects.
@@ -22,7 +22,7 @@ Monitoring of patients taking buprenorphine and atazanavir with and without rito
 
 ## 7.3 Benzodiazepines
 
-There have been a number of post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines.
+There have been a number of postmarketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines.
 In many, but not all, of these cases, buprenorphine was misused by self-injection.
 Preclinical studies have shown that the combination of benzodiazepines and buprenorphine altered the usual ceiling effect on buprenorphine-induced respiratory depression, making the respiratory effects of buprenorphine appear similar to those of full opioid agonists.
 SUBOXONE sublingual film should be prescribed with caution to patients taking benzodiazepines or other drugs that act on the CNS, regardless of whether these drugs are taken on the advice of a physician or are being abused/misused.

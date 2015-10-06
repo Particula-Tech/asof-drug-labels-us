@@ -4,18 +4,20 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Clinical Trials Experience
 
-The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film.
+The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film administered sublingually and 188 patients treated with the film administered buccally.
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
-Few differences in the adverse event profile were noted among SUBOXONE sublingual film, SUBOXONE (buprenorphine and naloxone) sublingual tablets, SUBUTEX (buprenorphine) sublingual tablets and a buprenorphine ethanolic sublingual solution.
+Few differences in the adverse event profile were noted with regard to sublingually and bucally administered SUBOXONE sublingual film, SUBOXONE (buprenorphine and naloxone) sublingual tablets, SUBUTEX (buprenorphine) sublingual tablets and a buprenorphine ethanolic sublingual solution.
 
 The most common adverse event (>1%) associated with the sublingual administration of the SUBOXONE sublingual film was oral hypoesthesia.
 Other adverse events were constipation, glossodynia, oral mucosal erythema, vomiting, intoxication, disturbance in attention, palpitations, insomnia, withdrawal syndrome, hyperhidrosis, and blurred vision.
 
-Other adverse event data were derived from larger, controlled studies of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) tablets and of buprenorphine sublingual solution.
-In a comparative study of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) sublingual tablets, adverse event profiles were similar for subjects treated with 16 mg/4 mg SUBOXONE (buprenorphine and naloxone) sublingual tablets or 16 mg SUBUTEX (buprenorphine) sublingual tablets.
+The most common adverse events associated with the buccal administration were similar to those observed with sublingual administration of the film.
+
+Other adverse event data were derived from larger, controlled studies of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) tablets and of buprenorphine sublingual solution.
+In a comparative study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets, adverse event profiles were similar for subjects treated with 16 mg/4 mg SUBOXONE (buprenorphine and naloxone) sublingual tablets or 16 mg SUBUTEX (buprenorphine) sublingual tablets.
 The following adverse events were reported to occur by at least 5% of patients in a 4 week study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets.
 
->Table 2.
+Table 2.
 Adverse Events (≥ 5%) by Body System and Treatment Group in a 4 Week Study
 
 | Body System/ Adverse Event (COSTART Terminology) | SUBOXONE (buprenorphine and naloxone) sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX (buprenorphine) sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
@@ -106,4 +108,4 @@ However, there was not evidence to suggest that any of the four subjects experie
 The following adverse reactions have been identified during post-approval use of SUBOXONE sublingual film.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The most frequently reported postmarketing adverse events were peripheral edema, stomatitis, glossitis, and tongue disorder.
+The most frequently reported postmarketing adverse events were peripheral edema, stomatitis, glossitis, and blistering and ulceration of the mouth or tongue.

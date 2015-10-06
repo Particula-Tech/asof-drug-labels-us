@@ -5,10 +5,12 @@
 Prior to induction, consideration should be given to the type of opioid dependence (i.e., long- or short-acting opioid products), the time since last opioid use, and the degree or level of opioid dependence.
 To avoid precipitating an opioid withdrawal syndrome, the first dose of buprenorphine/naloxone should be started only when objective signs of moderate withdrawal appear.
 
-On Day 1, an induction dosage of up to 8 mg /2 mg SUBOXONE sublingual film is recommended.
-Clinicians should start with an initial dose of 2 mg/ 0.5 mg or 4 mg/1 mg buprenorphine/naloxone and may titrate upwards in 2 or 4 mg increments of buprenorphine, at approximately 2-hour intervals, under supervision, to 8 mg/2 mg buprenorphine/naloxone based on the control of acute withdrawal symptoms.
+On Day 1, an induction dosage of up to 8 mg/2 mg SUBOXONE sublingual film is recommended.
+Clinicians should start with an initial dose of 2 mg/0.5 mg or 4 mg/1 mg buprenorphine/naloxone and may titrate upwards in 2 or 4 mg increments of buprenorphine, at approximately 2-hour intervals, under supervision, to 8 mg/2 mg buprenorphine/naloxone based on the control of acute withdrawal symptoms.
 
 On Day 2, a single daily dose of up to 16 mg/4 mg SUBOXONE sublingual film is recommended.
+
+Because the exposure to naloxone is somewhat higher after buccal than after sublingual administration, it is recommended that the sublingual site of administration be used during induction to minimize exposure to naloxone, to reduce the risk of precipitated withdrawal.
 
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
@@ -30,6 +32,7 @@ In some studies, a too-gradual induction over several days led to a high rate of
 
 ## 2.2 Maintenance
 
+For maintenance, SUBOXONE sublingual film may be administered buccally or sublingually.
 The dosage of SUBOXONE sublingual film from Day 3 onwards should be progressively adjusted in increments/decrements of 2 mg/0.5 mg or 4 mg/1 mg buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
 
 After treatment induction and stabilization, the maintenance dose of SUBOXONE sublingual film is generally in the range of 4 mg/1 mg buprenorphine/naloxone to 24 mg/6 mg buprenorphine/naloxone per day depending on the individual patient and clinical response.
@@ -38,11 +41,24 @@ Dosages higher than 24 mg/6 mg daily have not been demonstrated to provide a cli
 
 ## 2.3 Method of Administration
 
+SUBOXONE sublingual film must be administered whole.
 Do not cut, chew, or swallow SUBOXONE sublingual film.
-Place the SUBOXONE sublingual film under the tongue, close to the base on the left or right side.
-If an additional sublingual film is necessary to achieve the prescribed dose, place the additional sublingual film sublingually on the opposite side from the first film.
-Place the sublingual film in a manner to minimize overlapping as much as possible.
-The sublingual film must be kept under the tongue until the film is completely dissolved.
+
+Sublingual Administration
+
+Place one film under the tongue, close to the base on the left or right side.
+If an additional film is necessary to achieve the prescribed dose, place an additional film sublingually on the opposite side from the first film.
+Place the film in a manner to minimize overlapping as much as possible.
+The film must be kept under the tongue until the film is completely dissolved.
+If a third film is necessary to achieve the prescribed dose, place it under the tongue on either side after the first 2 films have dissolved.
+
+Buccal Administration
+
+Place one film on the inside of the right or left cheek.
+If an additional film is necessary to achieve the prescribed dose, place an additional film on the inside of the opposite cheek.
+The film must be kept on the inside of the cheek until the film is completely dissolved.
+If a third film is necessary to achieve the prescribed dose, place it on the inside of the right or left cheek after the first two films have dissolved.
+
 SUBOXONE sublingual film should NOT be moved after placement.
 Proper administration technique should be demonstrated to the patient.
 
@@ -71,7 +87,8 @@ If treatment goals are not being achieved, the physician should re-evaluate the 
 
 ## 2.5 Patients With Hepatic Impairment
 
-Because the doses of this fixed combination product cannot be individually titrated, severe hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine, and moderate hepatic impairment also results in a reduced clearance of naloxone to a greater extent than buprenorphine, the combination product should generally be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11)].
+Severe hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine, and moderate hepatic impairment also results in a reduced clearance of naloxone to a greater extent than buprenorphine.
+Because the doses of this fixed combination product cannot be individually titrated, the combination product should generally be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11)].
 
 ## 2.6 Unstable Patients
 
@@ -90,12 +107,14 @@ Taper patients to avoid opioid withdrawal signs and symptoms.
 ## 2.8 Switching Between Buprenorphine or Buprenorphine and Naloxone Sublingual Tablets and SUBOXONE Sublingual Film
 
 Patients being switched between buprenorphine and naloxone or buprenorphine only sublingual tablets and SUBOXONE sublingual film should be started on the corresponding dosage of the previously administered product.
-However, dosage adjustments may be necessary when switching between products.
+However, dosage adjustments may be necessary when switching between buprenorphine products.
 Not all strengths and combinations of the SUBOXONE sublingual films are bioequivalent to the SUBOXONE (buprenorphine and naloxone) sublingual tablets as observed in pharmacokinetic studies [see Clinical Pharmacology (12.3)].
 Therefore, systemic exposures of buprenorphine and naloxone may be different when patients are switched from tablets to film or vice-versa.
 Patients should be monitored for symptoms related to over-dosing or under-dosing.
 
 ## 2.9 Switching Between SUBOXONE Sublingual Film Strengths
+
+As indicated in Table 1, the sizes and the compositions of the four units of SUBOXONE sublingual films, i.e.,
 
 2 mg/0.5 mg, 4 mg/1 mg, 8 mg/2 mg and the 12 mg/3 mg units, are different from one another.
 If patients switch between various combinations of lower and higher strength units of SUBOXONE sublingual films to obtain the same total dose, (e.g., from three 4 mg/1 mg units to a single 12 mg/3 mg unit, or vice-versa), systemic exposures of buprenorphine and naloxone may be different and patients should be monitored for over-dosing or under-dosing.
@@ -109,4 +128,9 @@ Comparison of Available SUBOXONE Sublingual Film Strengths by Dimensions and Dru
 | 2 mg/0.5 mg | 22.0 mm x 12.8 mm | 5.4 | 1.53 |
 | 4 mg/1 mg (2 times the length of the 2 mg/0.5 mg unit) | 22.0 mm x 25.6 mm | 5.4 | 1.53 |
 | 8 mg/2 mg | 22.0 mm x 12.8 mm | 17.2 | 4.88 |
-| 12 mg/3 mg (1.5 times the length of the 8 mg/2 mg unit) | 22 mm X 19.2 mm | 17.2 | 4.88 |
+| 12 mg/3 mg (1.5 times the length of the 8 mg/2 mg unit) | 22.0 mm X 19.2 mm | 17.2 | 4.88 |
+
+## 2.10 Switching Between Sublingual and Buccal Sites of Administration
+
+The systemic exposure of buprenorphine between buccal and sublingual administration of SUBOXONE sublingual film is similar.
+Therefore, once induction is complete, patients can switch between buccal and sublingual administration without significant risk of under or overdosing.

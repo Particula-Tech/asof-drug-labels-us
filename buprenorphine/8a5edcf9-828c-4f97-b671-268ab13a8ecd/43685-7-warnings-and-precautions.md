@@ -45,7 +45,7 @@ In many cases, the presence of pre-existing liver enzyme abnormalities, infectio
 In other cases, insufficient data were available to determine the etiology of the abnormality.
 Withdrawal of buprenorphine has resulted in amelioration of acute hepatitis in some cases; however, in other cases no dose reduction was necessary.
 The possibility exists that buprenorphine had a causative or contributory role in the development of the hepatic abnormality in some cases.
-Liver function tests, prior to initiation of treatment are recommended to establish a baseline.
+Liver function tests, prior to initiation of treatment, are recommended to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
 Depending on the case, SUBOXONE sublingual film may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
@@ -60,7 +60,7 @@ A history of hypersensitivity to buprenorphine or naloxone is a contraindication
 ## 5.8 Precipitation of Opioid Withdrawal Signs and Symptoms
 
 Because it contains naloxone, SUBOXONE sublingual film is likely to produce withdrawal signs and symptoms if misused parenterally by individuals dependent on full opioid agonists such as heroin, morphine, or methadone.
-Because of the partial agonist properties of buprenorphine, SUBOXONE sublingual film may precipitate opioid withdrawal signs and symptoms in such persons if administered sublingually before the agonist effects of the opioid have subsided.
+Because of the partial agonist properties of buprenorphine, SUBOXONE sublingual film may precipitate opioid withdrawal signs and symptoms in such persons if administered before the agonist effects of the opioid have subsided.
 
 ## 5.9 Neonatal Withdrawal
 
@@ -70,7 +70,7 @@ Adverse events associated with the neonatal withdrawal syndrome included hyperto
 
 ## 5.10 Use in Opioid Naïve Patients
 
-There have been reported deaths of opioid naive individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
+There have been reported deaths of opioid naïve individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
 SUBOXONE sublingual film is not appropriate as an analgesic.
 
 ## 5.11 Use in Patients With Impaired Hepatic Function

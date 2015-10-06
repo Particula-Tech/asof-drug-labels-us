@@ -1,13 +1,14 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+See FDA-approved patient labeling (Medication Guide).
 
-Patients should be advised NOT to cut, chew or swallow SUBOXONE sublingual film.
+SUBOXONE sublingual film must be administered whole.
+Advise patients not to cut, chew, or swallow SUBOXONE sublingual film
 
-## 17.1 Safe Use
+Safe Use
 
-Before initiating treatment with SUBOXONE, explain the points listed below to caregivers and patients.
-Instruct patients to read the Medication Guide each time SUBOXONE is dispensed because new information may be available.
+Before initiating treatment with SUBOXONE sublingual film, explain the points listed below to caregivers and patients.
+Instruct patients to read the Medication Guide each time SUBOXONE sublingual film is dispensed because new information may be available.
 
 - Patients should be warned that it is extremely dangerous to self-administer non-prescribed benzodiazepines or other CNS depressants (including alcohol) while taking SUBOXONE sublingual film.
   Patients prescribed benzodiazepines or other CNS depressants should be cautioned to use them only as directed by their physician [see Warnings and Precautions (5.2), Drug Interactions (7.3)].
@@ -34,13 +35,11 @@ Instruct patients to read the Medication Guide each time SUBOXONE is dispensed b
 - Patients should inform their family members that, in the event of emergency, the treating physician or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBOXONE sublingual film.
 - Refer to the Medication Guide for additional information regarding the counseling information.
 
-## 17.2 Disposal of Unused SUBOXONE Sublingual Films
+Disposal of Unused SUBOXONE Sublingual Films
 
 Unused SUBOXONE sublingual films should be disposed of as soon as they are no longer needed.
 Unused films should be flushed down the toilet.
 
-Revised: April 2014
+Manufactured for Indivior Inc. Richmond, VA 23235 by: MonoSol Rx, LLC, Warren, NJ 07059
 
-Manufactured for Reckitt Benckiser Pharmaceuticals Inc., Richmond, VA 23235 by: MonoSol Rx, LLC, Warren, NJ 07059
-
-Distributed by: Reckitt Benckiser Pharmaceuticals Inc. Richmond, VA 23235
+Distributed by: Indivior Inc. Richmond, VA 23235

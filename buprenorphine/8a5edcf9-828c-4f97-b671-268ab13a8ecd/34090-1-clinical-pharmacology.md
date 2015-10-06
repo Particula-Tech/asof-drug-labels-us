@@ -8,7 +8,7 @@ Naloxone is a potent antagonist at mu-opioid receptors and produces opioid withd
 
 ## 12.2 Pharmacodynamics
 
-Subjective Effects:
+Subjective Effects
 
 Comparisons of buprenorphine to full opioid agonists such as methadone and hydromorphone suggest that sublingual buprenorphine produces typical opioid agonist effects which are limited by a ceiling effect.
 
@@ -20,10 +20,10 @@ Both active drugs produced typical opioid agonist effects.
 For all measures for which the drugs produced an effect, buprenorphine produced a dose-related response.
 However, in each case, there was a dose that produced no further effect.
 In contrast, the highest dose of the full agonist control always produced the greatest effects.
-Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8-32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
+Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8 mg to 32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
 The onset of effects appeared more rapidly with buprenorphine than with the full agonist control, with most doses nearing peak effect after 100 minutes for buprenorphine compared to 150 minutes for the full agonist control.
 
-Physiologic Effects:
+Physiologic Effects
 
 Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
 Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
@@ -36,7 +36,7 @@ The respiratory effects of sublingual buprenorphine were compared with the effec
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 
-Effect of Naloxone:
+Effect of Naloxone
 
 Physiologic and subjective effects following acute sublingual administration of buprenorphine tablets and buprenorphine/naloxone tablets were similar at equivalent dose levels of buprenorphine.
 Naloxone had no clinically significant effect when administered by the sublingual route, although blood levels of the drug were measurable.
@@ -48,18 +48,48 @@ In morphine-stabilized subjects, intravenously administered combinations of bupr
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+Absorption
 
-In pharmacokinetic studies, the 2 mg/0.5 mg and 4 mg/1 mg doses administered as SUBOXONE sublingual films showed comparable relative bioavailability to the same total dose of SUBOXONE (buprenorphine and naloxone) sublingual tablets, whereas the 8 mg/2 mg and 12 mg/3 mg doses administered as SUBOXONE sublingual films showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE (buprenorphine and naloxone) sublingual tablets.
-A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) showed comparable relative bioavailability to the same total dose of SUBOXONE (buprenorphine and naloxone) sublingual tablets [see Dosage and Administration (2.6 and 2.7)].
+In several pharmacokinetic studies following the administration of different dosages, a dose of one or two of the 2 mg/0.5 mg SUBOXONE sublingual films administered sublingually or buccally showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets.
+In contrast, one 8 mg/2 mg and one 12 mg/3 mg SUBOXONE sublingual films administered sublingually or buccally showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE sublingual tablets.
+A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) administered sublingually showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets, while buccally administered SUBOXONE sublingual films showed higher relative bioavailability.
+Table 4, below, illustrates the relative increase in exposure to buprenorphine and naloxone associated with SUBOXONE sublingual films compared to SUBOXONE tablets, and shows the effect of route of administration [see Dosage and Administration (2.8 and 2.9)].
 
-Distribution:
+Across relevant pharmacokinetic studies, the pharmacokinetic parameters and exposures derived from the buccal and sublingual administrations of SUBOXONE sublingual film were comparable to one another.
+
+Table 4.
+Changes in Pharmacokinetic Parameters for SUBOXONE Sublingual Film Administered Sublingually or Buccally in Comparison to SUBOXONE Sublingual Tablet
+
+| Dosage | PK Parameter | Increase in Buprenorphine |  |  | PK Parameter | Increase in Naloxone |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Film Sublingual Compared to Tablet Sublingual | Film Buccal Compared to Tablet Sublingual | Film Buccal Compared to Film Sublingual | Film Sublingual Compared to Tablet Sublingual | Film Buccal Compared to Tablet Sublingual | Film Buccal Compared to Film Sublingual |  |  |  |
+| 1 x 2 mg/0.5 mg | Cmax | 22% | 25% | - | Cmax | - | - | - |
+| AUC0-last | - | 19% | - | AUC0-last | - | - | - |  |
+| 2 x 2 mg/0.5 mg | Cmax | - | 21% | 21% | Cmax | - | 17% | 21% |
+| AUC0-last | - | 23% | 16% | AUC0-last | - | 22% | 24% |  |
+| 1 x 8 mg/2 mg | Cmax | 28% | 34% | - | Cmax | 41% | 54% | - |
+| AUC0-last | 20% | 25% | - | AUC0-last | 30% | 43% | - |  |
+| 1 x 12 mg/3 mg | Cmax | 37% | 47% | - | Cmax | 57% | 72% | 9% |
+| AUC0-last | 21% | 29% | - | AUC0-last | 45% | 57% | - |  |
+| 1 x 8 mg/2 mg plus 2 x 2 mg/0.5 mg | Cmax | - | 27% | 13% | Cmax | 17% | 38% | 19% |
+| AUC0-last | - | 23% | - | AUC0-last | - | 30% | 19% |  |
+| 1 x 16 mg/4 mg film | Cmax | 34% | 29% | 7% | Cmax | 44% | 46% | 9% |
+| AUC0-last | 32% | - | - | AUC0-last | 49% | 36% | 3% |  |
+| Note: 1. the 16 mg/4 mg strength film is not marketed; it is compositionally proportional to the 8 mg/2 mg strength film and has the same size of 2 x 8 mg/2 mg film. 2. – represents no change when the 90% confidence intervals for the geometric mean ratios of the Cmax and AUC0-last values are within the 80% to 125% limit. 3. There are no data for the 4 mg/1 mg strength film; it is compositionally proportional to 2 mg/0.5 mg strength film and has the same size of 2 x 2 mg/0.5 mg film strength. |  |  |  |  |  |  |  |  |
+
+Distribution
 
 Buprenorphine is approximately 96% protein bound, primarily to alpha and beta globulin.
 
 Naloxone is approximately 45% protein bound, primarily to albumin.
 
-Metabolism:
+Elimination
+
+Buprenorphine is metabolized and eliminated in urine and feces.
+Naloxone undergoes metabolism as well.
+When SUBOXONE sublingual film is administered sublingually or buccally, buprenorphine has a mean elimination half-life ranging from 24 to 42 hours and naloxone has a mean elimination half-life ranging from 2 to 12 hours.
+
+Metabolism
 
 Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by the CYP3A4.
@@ -67,18 +97,18 @@ Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
 Norbuprenorphine has been found to bind opioid receptors in vitro; however, it has not been studied clinically for opioid-like activity.
 Naloxone undergoes direct glucuronidation to naloxone-3-glucuronide as well as N-dealkylation, and reduction of the 6-oxo group.
 
-Elimination:
+Excretion
 
 A mass balance study of buprenorphine showed complete recovery of radiolabel in urine (30%) and feces (69%) collected up to 11 days after dosing.
 Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorphine, and two unidentified buprenorphine metabolites.
 In urine, most of buprenorphine and norbuprenorphine was conjugated (buprenorphine, 1% free and 9.4% conjugated; norbuprenorphine, 2.7% free and 11% conjugated).
 In feces, almost all of the buprenorphine and norbuprenorphine were free (buprenorphine, 33% free and 5% conjugated; norbuprenorphine, 21% free and 2% conjugated).
-Based on all studies performed with SUBOXONE sublingual film, buprenorphine has a mean elimination half-life from plasma ranging from 24 to 42 hours and naloxone has a mean elimination half-life from plasma ranging from 2 to 12 hours.
+Based on all studies performed with sublingually and buccally administered SUBOXONE sublingual film, buprenorphine has a mean elimination half-life from plasma ranging from 24 to 42 hours and naloxone has a mean elimination half-life from plasma ranging from 2 to 12 hours.
 
-Drug-drug Interactions:
+Drug-drug Interactions
 
 CYP3A4 Inhibitors and Inducers: Subjects receiving SUBOXONE sublingual film should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
-The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving SUBOXONE sublingual film be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7.1)].
+The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving SUBOXONE sublingual film be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are coadministered [see Drug Interactions (7.1)].
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
@@ -91,9 +121,9 @@ The disposition of buprenorphine and naloxone in patients with hepatic impairmen
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.
 No dosing adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were increased; the effects on naloxone are greater than that on buprenorphine (Table 4).
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were increased; the effects on naloxone are greater than that on buprenorphine (Table 5).
 
-Table 4.
+Table 5.
 Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepatic Impairment
 
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects | Increase in naloxone compared to healthy subjects |
