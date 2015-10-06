@@ -1,3 +1,5 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Bicillin C-R and other antibacterial drugs, Bicillin C-R should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+
 # REFERENCES
 
 1. SHAW, E.: Transverse myelitis from injection of penicillin.
@@ -38,6 +40,6 @@
     Performance Standards for Antimicrobial Disk Susceptibility Tests, Approved Standard – 11th ed.
     CLSI document M02-A11, 2012
 
-LAB-0635-4.0
+LAB-0635-5.0
 
-April 2014
+October 2015

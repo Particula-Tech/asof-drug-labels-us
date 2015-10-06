@@ -86,7 +86,6 @@ A report of Resistant indicates that the antimicrobial is not likely to inhibit 
 #### Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-
 Standard penicillin powder should provide the range of MIC values noted in the following table.
 For the diffusion technique using the 10 unit penicillin disc, the criteria in the following table should be achieved.
 
