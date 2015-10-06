@@ -54,7 +54,6 @@ Urogenital: Impotence.
 
 Miscellaneous: A symptom complex has been reported which may include a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia, fever, vasculitis, eosinophilia, leukocytosis, paresthesia and vertigo.
 Rash, photosensitivity or other dermatological manifestations may occur alone or in combination with these symptoms.
-
 Clinical Laboratory Test Findings
 
 Serum Potassium: In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in 2.2% and 4.8% of lisinopril-treated patients with hypertension and heart failure, respectively [see Warnings and Precautions (5.5)].
