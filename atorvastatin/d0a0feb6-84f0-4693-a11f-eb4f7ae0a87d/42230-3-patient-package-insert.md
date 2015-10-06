@@ -1,4 +1,6 @@
-PATIENT INFORMATION ATORVASTATIN CALCIUM TABLETS (a tor″ va stat′ in kal′ see um) 10 mg, 20 mg, 40 mg and 80 mg
+# PATIENT INFORMATION
+
+ATORVASTATIN CALCIUM TABLETS (a tor″ va stat′ in kal′ see um) 10 mg, 20 mg, 40 mg and 80 mg
 
 Read the Patient Information that comes with atorvastatin before you start taking it and each time you get a refill.
 There may be new information.
@@ -9,8 +11,8 @@ If you have any questions about atorvastatin calcium tablets, ask your doctor or
 What is atorvastatin?
 
 Atorvastatin is a prescription medicine that lowers cholesterol in your blood.
-It lowers the LDL-C ("bad" cholesterol) and triglycerides in your blood.
-It can raise your HDL-C ("good" cholesterol) as well.
+It lowers the LDL-C (“bad” cholesterol) and triglycerides in your blood.
+It can raise your HDL-C (“good” cholesterol) as well.
 Atorvastatin calcium tablets are for adults and children over 10 whose cholesterol does not come down enough with exercise and a low fat diet alone.
 
 Atorvastatin calcium tablets can lower the risk for heart attack, stroke, certain types of heart surgery, and chest pain in patients who have heart disease or risk factors for heart disease such as:
@@ -81,7 +83,6 @@ How should I take atorvastatin calcium tablets?
 - •Take atorvastatin calcium tablets each day at any time of day at about the same time each day.
   Atorvastatin calcium tablets can be taken with or without food.
 - Don't break atorvastatin calcium tablets before taking.
-
 - •Your doctor should start you on a low fat diet before giving you atorvastatin calcium tablets.
   Stay on this low fat diet when you take atorvastatin calcium tablets.
 - •If you miss a dose of atorvastatin calcium tablets, take it as soon as you remember.
@@ -113,11 +114,11 @@ These serious side effects include:
 - •Liver problems.
   Your doctor should do blood tests to check your liver before you start taking atorvastatin calcium tablets and if you have symptoms of liver problems while you take atorvastatin calcium tablets.
   Call your doctor right away if you have the following symptoms of liver problems:
-- •feel tired or weak
-- •loss of appetite
-- •upper belly pain
-- •dark amber colored urine
-- •yellowing of your skin or the whites of your eyes
+  - •feel tired or weak
+  - •loss of appetite
+  - •upper belly pain
+  - •dark amber colored urine
+  - •yellowing of your skin or the whites of your eyes
 
 Call your doctor right away if you have:
 
@@ -143,9 +144,7 @@ These are not all the side effects of atorvastatin calcium tablets.
 Ask your doctor or pharmacist for a complete list.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to
-
-FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store atorvastatin calcium tablets?
 
@@ -177,4 +176,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-REVISED AUGUST 2014 75054926 MX:ATOR:R8ppt
+75057302
+
+REVISED AUGUST 2015 MX:ATOR:R9ppt

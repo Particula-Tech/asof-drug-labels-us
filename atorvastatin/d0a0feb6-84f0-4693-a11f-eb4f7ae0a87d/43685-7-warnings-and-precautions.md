@@ -33,7 +33,7 @@ Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 | Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavirUse with caution and with the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
 | HIV protease inhibitor (nelfinavir) Hepatitis C protease inhibitor (boceprevir) | Do not exceed 40 mg atorvastatin daily |
 
-Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin coadministered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.11)].
+Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.11)].
 
 Atorvastatin therapy should be temporarily withheld or discontinued in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection, hypotension, major surgery, trauma, severe metabolic, endocrine and electrolyte disorders, and uncontrolled seizures).
 
@@ -49,7 +49,7 @@ Upon dose reduction, drug interruption, or discontinuation, transaminase levels 
 Eighteen of 30 patients with persistent LFT elevations continued treatment with a reduced dose of atorvastatin.
 
 It is recommended that liver enzyme tests be obtained prior to initiating therapy with atorvastatin and repeated as clinically indicated.
-There have been rare post-marketing reports of fatal and nonfatal hepatic failure in patients taking statins, including atorvastatin.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including atorvastatin.
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with atorvastatin, promptly interrupt therapy.
 If an alternate etiology is not found, do not restart atorvastatin.
 
@@ -76,11 +76,11 @@ No CNS lesions have been observed in mice after chronic treatment for up to 2 ye
 These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0-24) based on the maximum recommended human dose of 80 mg/day.
 
 CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other members of this class.
-A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
+A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
 
 ## 5.5 Use in Patients with Recent Stroke or TIA
 
 In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) study where atorvastatin 80 mg vs. placebo was administered in 4,731 subjects without CHD who had a stroke or TIA within the preceding 6 months, a higher incidence of hemorrhagic stroke was seen in the atorvastatin 80 mg group compared to placebo (55, 2.3% atorvastatin vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p = 0.0168).
 The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively).
-The incidence of nonfatal hemorrhagic stroke was significantly higher in the atorvastatin group (38, 1.6%) as compared to the placebo group (16, 0.7%).
+The incidence of non-fatal hemorrhagic stroke was significantly higher in the atorvastatin group (38, 1.6%) as compared to the placebo group (16, 0.7%).
 Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the atorvastatin group [see Adverse Reactions (6.1)].

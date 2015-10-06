@@ -11,7 +11,7 @@ Serum cholesterol and triglycerides increase during normal pregnancy.
 Lipid lowering drugs offer no benefit during pregnancy because cholesterol and cholesterol derivatives are needed for normal fetal development.
 Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
 
-There are no adequate and well controlled studies of atorvastatin use during pregnancy.
+There are no adequate and well-controlled studies of atorvastatin use during pregnancy.
 There have been rare reports of congenital anomalies following intrauterine exposure to statins.
 In a review of about 100 prospectively followed pregnancies in women exposed to other statins, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed the rate expected in the general population.
 However, this study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over background incidence.

@@ -20,7 +20,7 @@ Adjustments should be made at intervals of 4 weeks or more.
 The dosage of atorvastatin calcium tablets in patients with homozygous FH is 10 mg to 80 mg daily.
 Atorvastatin calcium tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
 
-## 2.4 Concomitant Lipid-lowering Therapy
+## 2.4 Concomitant Lipid-Lowering Therapy
 
 Atorvastatin calcium tablets may be used with bile acid resins.
 The combination of HMG-CoA reductase inhibitors (statins) and fibrates should generally be used with caution [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].

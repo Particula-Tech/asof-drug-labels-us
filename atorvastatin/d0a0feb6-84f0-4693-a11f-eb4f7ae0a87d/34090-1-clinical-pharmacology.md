@@ -57,7 +57,7 @@ Based on observations in rats, atorvastatin is likely to be secreted in human mi
 Atorvastatin is extensively metabolized to ortho- and parahydroxylated derivatives and various beta-oxidation products.
 In vitro inhibition of HMG-CoA reductase by ortho- and parahydroxylated metabolites is equivalent to that of atorvastatin.
 Approximately 70% of circulating inhibitory activity for HMG-CoA reductase is attributed to active metabolites.
-In vitro studies suggest the importance of atorvastatin metabolism by cytochrome P450 3A4, consistent with increased plasma concentrations of atorvastatin in humans following coadministration with erythromycin, a known inhibitor of this isozyme [see Drug Interactions (7.1)].
+In vitro studies suggest the importance of atorvastatin metabolism by cytochrome P450 3A4, consistent with increased plasma concentrations of atorvastatin in humans following co-administration with erythromycin, a known inhibitor of this isozyme [see Drug Interactions (7.1)].
 In animals, the ortho-hydroxy metabolite undergoes further glucuronidation.
 
 ### Excretion
@@ -96,11 +96,11 @@ Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
 Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4.1)].
 
 Table 3.
-Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin
+Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-| Coadministered Drug and Dosing Regimen | Atorvastatin |  |  |
+| Co-administered Drug and Dosing Regimen | Atorvastatin |  |  |
 | --- | --- | --- | --- |
-|  | Dose (mg) | Change in AUCData given as x-fold change represent a simple ratio between coadministration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). | Change in Cmax |
+|  | Dose (mg) | Change in AUCData given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). | Change in Cmax |
 | See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7 fold | ↑ 10.7 fold |
 | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 10 mg SD | ↑ 9.4 fold | ↑ 8.6 fold |
 | Telaprevir 750 mg q8h, 10 days | 20 mg SD | ↑ 7.88 fold | ↑ 10.6 fold |
@@ -119,16 +119,16 @@ Effect of Coadministered Drugs on the Pharmacokinetics of Atorvastatin
 | Colestipol 10 mg BID, 28 weeks | 40 mg QD for 28 weeks | Not determined | ↓ 26%Single sample taken 8 to 16 h post-dose. |
 | Maalox TC® 30 mL QD, 17 days | 10 mg QD for 15 days | ↓ 33% | ↓ 34% |
 | Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | ↓ 41% | ↓ 1% |
-| Rifampin 600 mg QD, 7 days (coadministered)Due to the dual interaction mechanism of rifampin, simultaneous coadministration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. | 40 mg SD | ↑ 30% | ↑ 2.7 fold |
+| Rifampin 600 mg QD, 7 days (co-administered)Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. | 40 mg SD | ↑ 30% | ↑ 2.7 fold |
 | Rifampin 600 mg QD, 5 days (doses separated) | 40 mg SD | ↓ 80% | ↓ 40 % |
 | Gemfibrozil 600 mg BID, 7 days | 40 mg SD | ↑ 35% | ↓ Less than 1% |
 | Fenofibrate 160 mg QD, 7 days | 40 mg SD | ↑ 3% | ↑ 2% |
 | Boceprevir 800 mg TID, 7 days | 40 mg SD | ↑ 2.30 fold | ↑ 2.66 fold |
 
 Table 4.
-Effect of Atorvastatin on the Pharmacokinetics of Coadministered Drugs
+Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-| Atorvastatin | Coadministered Drug and Dosing Regimen |  |  |
+| Atorvastatin | Co-administered Drug and Dosing Regimen |  |  |
 | --- | --- | --- | --- |
 |  | Drug/Dose (mg) | Change in AUC | Change in Cmax |
 | 80 mg QD for 15 days | Antipyrine, 600 mg SD | ↑ 3% | ↓ 11% |

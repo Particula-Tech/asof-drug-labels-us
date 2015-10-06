@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Atorvastatin is a synthetic lipid-lowering agent.
+Atorvastatin calcium tablets are a synthetic lipid-lowering agent.
 Atorvastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase.
 This enzyme catalyzes the conversion of HMG-CoA to mevalonate, an early and rate-limiting step in cholesterol biosynthesis.
 

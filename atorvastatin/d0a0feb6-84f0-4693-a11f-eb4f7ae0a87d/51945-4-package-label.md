@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX3950MM
+RMX3950MM1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX3951MM1
+RMX3951MM2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -89,7 +89,7 @@ Made in India
 
 Mylan.com
 
-RMX3952MM
+RMX3952MM1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -122,7 +122,7 @@ Made in India
 
 Mylan.com
 
-RMX3953MM
+RMX3953MM1
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

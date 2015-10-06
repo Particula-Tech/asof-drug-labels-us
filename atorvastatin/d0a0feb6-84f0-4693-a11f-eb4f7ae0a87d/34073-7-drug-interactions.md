@@ -35,11 +35,11 @@ Contains one or more components that inhibit CYP 3A4 and can increase plasma con
 Atorvastatin and atorvastatin-metabolites are substrates of the OATP1B1 transporter.
 Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
 Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
-The coadministration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions, Skeletal Muscle (5.1)].
+The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions, Skeletal Muscle (5.1)].
 
 ## 7.4 Gemfibrozil
 
-Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of atorvastatin with gemfibrozil should be avoided [see Warnings and Precautions (5.1)].
+Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are co-administered with gemfibrozil, concomitant administration of atorvastatin with gemfibrozil should be avoided [see Warnings and Precautions (5.1)].
 
 ## 7.5 Other Fibrates
 
@@ -52,16 +52,16 @@ The risk of skeletal muscle effects may be enhanced when atorvastatin is used in
 ## 7.7 Rifampin or other Inducers of Cytochrome P450 3A4
 
 Concomitant administration of atorvastatin with inducers of cytochrome P450 3A4 (e.g., efavirenz, rifampin) can lead to variable reductions in plasma concentrations of atorvastatin.
-Due to the dual interaction mechanism of rifampin, simultaneous coadministration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
+Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
 
 ## 7.8 Digoxin
 
-When multiple doses of atorvastatin and digoxin were coadministered, steady-state plasma digoxin concentrations increased by approximately 20%.
+When multiple doses of atorvastatin and digoxin were co-administered, steady state plasma digoxin concentrations increased by approximately 20%.
 Patients taking digoxin should be monitored appropriately.
 
 ## 7.9 Oral Contraceptives
 
-Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)].
+Co-administration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)].
 These increases should be considered when selecting an oral contraceptive for a woman taking atorvastatin.
 
 ## 7.10 Warfarin
@@ -70,4 +70,4 @@ Atorvastatin had no clinically significant effect on prothrombin time when admin
 
 ## 7.11 Colchicine
 
-Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin coadministered with colchicine and caution should be exercised when prescribing atorvastatin with colchicine.
+Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine and caution should be exercised when prescribing atorvastatin with colchicine.

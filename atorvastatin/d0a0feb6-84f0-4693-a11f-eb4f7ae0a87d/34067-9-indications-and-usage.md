@@ -19,8 +19,8 @@ In patients with type 2 diabetes, and without clinically evident coronary heart 
 
 In patients with clinically evident coronary heart disease, atorvastatin calcium tablets are indicated to:
 
-- •Reduce the risk of nonfatal myocardial infarction
-- •Reduce the risk of fatal and nonfatal stroke
+- •Reduce the risk of non-fatal myocardial infarction
+- •Reduce the risk of fatal and non-fatal stroke
 - •Reduce the risk for revascularization procedures
 - •Reduce the risk of hospitalization for CHF
 - •Reduce the risk of angina
@@ -34,10 +34,10 @@ Atorvastatin calcium tablets are indicated:
 - •For the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet;
 - •To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable;
 - •As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present:
-  - •LDL-C remains ≥ 190 mg/dL or
-  - •LDL-C remains ≥ 160 mg/dL and:
-    - 1.there is a positive family history of premature cardiovascular disease or
-    - 2.two or more other CVD risk factors are present in the pediatric patient
+  - a.LDL-C remains ≥ 190 mg/dL or
+  - b.LDL-C remains ≥ 160 mg/dL and:
+    1. •there is a positive family history of premature cardiovascular disease or
+    2. •two or more other CVD risk factors are present in the pediatric patient
 
 ## 1.3 Limitations of Use
 
