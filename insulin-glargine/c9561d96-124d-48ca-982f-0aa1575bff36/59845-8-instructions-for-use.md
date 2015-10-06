@@ -195,7 +195,7 @@ Turn your pen several times with your other hand to remove the needle.
 
 Use by
 
-- Only use your pen for up to 28 days after its first use.
+- Only use your pen for up to 42 days after its first use.
 
 How to store your pen
 
@@ -243,6 +243,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Date of Revision: May 2015
+Date of Revision: September 2015
 
 ©2015 sanofi-aventis U.S. LLC

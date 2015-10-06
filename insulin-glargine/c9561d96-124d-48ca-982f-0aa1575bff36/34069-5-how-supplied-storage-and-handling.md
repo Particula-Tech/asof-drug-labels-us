@@ -26,14 +26,14 @@ Discard after the expiration date.
 Open (In-Use) SoloStar disposable prefilled pen:
 
 The opened (in-use) TOUJEO SoloStar disposable prefilled pen should NOT be refrigerated but should be kept at room temperature (below 86°F [30°C]) away from direct heat and light.
-The opened (in-use) TOUJEO SoloStar disposable prefilled pen must be discarded 28 days after being opened.
+The opened (in-use) TOUJEO SoloStar disposable prefilled pen must be discarded 42 days after being opened.
 
 These storage conditions are summarized in the following table:
 
 |  | Refrigerated | (See Temperature Below) |
 | --- | --- | --- |
 |  | Not in-use (unopened) | In-use (opened) |
-| 1.5 mL SoloStar disposable prefilled pen | Until expiration date | 28 days Room temperature only (Do not refrigerate) |
+| 1.5 mL SoloStar disposable prefilled pen | Until expiration date | 42 days Room temperature only (Do not refrigerate) |
 
 ## 16.3 Preparation and handling
 

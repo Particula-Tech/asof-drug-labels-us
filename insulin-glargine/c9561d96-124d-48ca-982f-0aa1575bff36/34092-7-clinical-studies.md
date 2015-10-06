@@ -16,7 +16,7 @@ Mean age was 47.3 years and mean duration of diabetes was 21 years.
 85.1% were Caucasian, 4.7% Black or African American.
 4.7% were Hispanic.
 32.2 percent of patients had GFR>90 mL/min/1.73m2.
-The mean BMI was approximately 27.6%.
+The mean BMI was approximately 27.6 kg/m2.
 At week 26, treatment with TOUJEO provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin of 0.4% (Table 3).
 Patients treated with TOUJEO used 17.5% more basal insulin than patients treated with LANTUS.
 There were no clinically important differences in glycemic control when TOUJEO was administered once daily in the morning or in the evening.

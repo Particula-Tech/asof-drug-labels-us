@@ -4,7 +4,7 @@ NDC 0024-5869-03
 
 Rx ONLY
 
-Toujeo® SoloStar® insulin glargine (rDNA origin) injection
+Toujeo® SoloStar® insulin glargine injection
 
 For Single Patient Use Only
 
@@ -12,6 +12,6 @@ For Single Patient Use Only
 
 Solution for injection in a disposable insulin delivery device Do not remove insulin with syringe Always use a new needle Do not mix with other insulins For subcutaneous Injection only Use only if solution is clear and colorless with no particles visible
 
-Use within 4 weeks after opening *Needles not included (see back panel) Three prefilled pens, 450 units/1.5mL each
+Use within 42 days after opening *Needles not included (see back panel) Three prefilled pens, 450 units/1.5mL each
 
 SANOFI

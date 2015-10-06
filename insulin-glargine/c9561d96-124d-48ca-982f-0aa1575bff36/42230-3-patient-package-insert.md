@@ -125,4 +125,4 @@ What are the ingredients in TOUJEO?
 
 Manufactured By: sanofi-aventis U.S., LLC, Bridgewater, NJ 08807
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Approved: February 2015 Revised May 2015
+This Patient Information has been approved by the U.S. Food and Drug Administration Approved: February 2015 Revised September 2015
