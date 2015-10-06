@@ -294,6 +294,6 @@ For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: March 2015
+Revised: September 2015
 
-03-B120
+03-B210
