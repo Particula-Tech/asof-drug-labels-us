@@ -2,6 +2,8 @@ NDC 0074–3826–13
 
 100 Tablets
 
+Once-Daily Dosing
+
 DEPAKOTE® ER
 
 DIVALPROEX SODIUM EXTENDED-RELEASE TABLETS
@@ -24,6 +26,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
+Once-Daily Dosing
+
 DEPAKOTE® ER
 
 DIVALPROEX SODIUM EXTENDED-RELEASE TABLETS
@@ -37,6 +41,8 @@ THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
 NDC 0074–7126–13
 
 100 Tablets
+
+Once-Daily Dosing
 
 DEPAKOTE® ER
 
