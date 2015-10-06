@@ -13,7 +13,7 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 ## 5.2 Bradycardia
 
 In clinical trials, COREG caused bradycardia in about 2% of hypertensive subjects, 9% of heart failure subjects, and 6.5% of myocardial infarction subjects with left ventricular dysfunction.
-If pulse rate drops below 55 beats/minute, the dosage should be reduced.
+If pulse rate drops below 55 beats per minute, the dosage should be reduced.
 
 ## 5.3 Hypotension
 
@@ -71,7 +71,7 @@ Caution should be exercised in such individuals.
 ## 5.8 Deterioration of Renal Function
 
 Rarely, use of carvedilol in patients with heart failure has resulted in deterioration of renal function.
-Patients at risk appear to be those with low blood pressure (systolic blood pressure <100 mm Hg), ischemic heart disease and diffuse vascular disease, and/or underlying renal insufficiency.
+Patients at risk appear to be those with low blood pressure (systolic blood pressure less than 100 mm Hg), ischemic heart disease and diffuse vascular disease, and/or underlying renal insufficiency.
 Renal function has returned to baseline when carvedilol was stopped.
 In patients with these risk factors it is recommended that renal function be monitored during up-titration of carvedilol and the drug discontinued or dosage reduced if worsening of renal function occurs.
 

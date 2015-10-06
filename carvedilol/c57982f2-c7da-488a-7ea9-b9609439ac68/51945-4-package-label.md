@@ -29,8 +29,8 @@ Research Triangle Park, NC 27709
 
 Made in Ireland.
 
-10000000120631 Rev.
-10/13
+- 10000000120631 Rev.
+  10/13
 
 PRINCIPAL DISPLAY PANEL
 
@@ -64,8 +64,8 @@ Research Triangle Park, NC 27709
 
 Made in Ireland.
 
-10000000120632 Rev.
-10/13
+- 10000000120632 Rev.
+  10/13
 
 PRINCIPAL DISPLAY PANEL
 
@@ -99,8 +99,8 @@ Research Triangle Park, NC 27709
 
 Made in Ireland.
 
-10000000120633 Rev.
-10/13
+- 10000000120633 Rev.
+  10/13
 
 PRINCIPAL DISPLAY PANEL
 
@@ -134,5 +134,5 @@ Research Triangle Park, NC 27709
 
 Made in Ireland
 
-10000000120634 Rev.
-10/13
+- 10000000120634 Rev.
+  10/13

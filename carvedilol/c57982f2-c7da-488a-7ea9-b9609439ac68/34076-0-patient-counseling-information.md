@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
-
-## 17.1 Patient Advice
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
 Patients taking COREG should be advised of the following:
 
@@ -16,20 +14,19 @@ Patients taking COREG should be advised of the following:
 - •Diabetic patients should report any changes in blood sugar levels to their physician.
 - •Contact lens wearers may experience decreased lacrimation.
 
-COREG, COREG CR, and TILTAB are registered trademarks of GlaxoSmithKline.
+COREG, COREG CR, and TILTAB are registered trademarks of the GSK group of companies.
 
-TOPROL-XL is a registered trademark of the AstraZeneca group of companies.
-
-Manufactured for
+TOPROL-XL is a trademark of its respective owner and is not a trademark of the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2015 the GSK group of companies.
 All rights reserved.
 
-CRG:23PI
+CRG:24PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

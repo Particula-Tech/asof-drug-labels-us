@@ -1,14 +1,11 @@
-PATIENT INFORMATION
+PATIENT INFORMATION COREG® (Co-REG)
 
-COREG® (Co-REG)
-
-Carvedilol Tablets
+carvedilol tablets
 
 Read the Patient Information that comes with COREG before you start taking it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about COREG, ask your doctor or pharmacist.
-
 What is COREG?
 
 COREG is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
@@ -19,7 +16,6 @@ COREG is used, often with other medicines, for the following conditions:
 - •to treat patients with high blood pressure (hypertension)
 
 COREG is not approved for use in children under 18 years of age.
-
 Who should not take COREG?
 
 Do not take COREG if you:
@@ -138,7 +134,7 @@ High blood pressure makes the heart work harder to pump blood through the body a
 COREG can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-COREG is a registered trademark of GlaxoSmithKline.
+COREG is a registered trademark of the GSK group of companies.
 
 Manufactured for
 
@@ -146,9 +142,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2015 the GSK group of companies.
 All rights reserved.
 
-August 2013
+October 2015
 
-CRG:5PIL
+CRG:6PIL

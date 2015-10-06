@@ -13,15 +13,15 @@ COREG has been evaluated for safety in heart failure in more than 4,500 subjects
 Approximately 60% of the total treated population in placebo-controlled clinical trials received COREG for at least 6 months and 30% received COREG for at least 12 months.
 In the COMET trial, 1,511 subjects with mild-to-moderate heart failure were treated with COREG for up to 5.9 years (mean: 4.8 years).
 Both in US clinical trials in mild-to-moderate heart failure that compared COREG in daily doses up to 100 mg (n = 765) with placebo (n = 437), and in a multinational clinical trial in severe heart failure (COPERNICUS) that compared COREG in daily doses up to 50 mg (n = 1,156) with placebo (n = 1,133), discontinuation rates for adverse experiences were similar in carvedilol and placebo subjects.
-In placebo-controlled clinical trials, the only cause of discontinuation >1%, and occurring more often on carvedilol was dizziness (1.3% on carvedilol, 0.6% on placebo in the COPERNICUS trial).
+In placebo-controlled clinical trials, the only cause of discontinuation greater than 1%, and occurring more often on carvedilol was dizziness (1.3% on carvedilol, 0.6% on placebo in the COPERNICUS trial).
 
 Table 1 shows adverse events reported in subjects with mild‑to‑moderate heart failure enrolled in US placebo‑controlled clinical trials, and with severe heart failure enrolled in the COPERNICUS trial.
-Shown are adverse events that occurred more frequently in drug‑treated subjects than placebo‑treated subjects with an incidence of >3% in subjects treated with carvedilol regardless of causality.
+Shown are adverse events that occurred more frequently in drug‑treated subjects than placebo‑treated subjects with an incidence of greater than 3% in subjects treated with carvedilol regardless of causality.
 Median trial medication exposure was 6.3 months for both carvedilol and placebo subjects in the trials of mild‑to‑moderate heart failure, and 10.4 months in the trial of severe heart failure subjects.
 The adverse event profile of COREG observed in the long-term COMET trial was generally similar to that observed in the US Heart Failure Trials.
 
 Table 1.
-Adverse Events (%) Occurring More Frequently With COREG Than With Placebo in Subjects With Mild-to-Moderate Heart Failure (HF) Enrolled in US Heart Failure Trials or in Subjects With Severe Heart Failure in the COPERNICUS Trial (Incidence >3% in Subjects Treated With Carvedilol, Regardless of Causality)
+Adverse Events (%) Occurring More Frequently with COREG than with Placebo in Subjects with Mild-to-Moderate Heart Failure (HF) Enrolled in US Heart Failure Trials or in Subjects with Severe Heart Failure in the COPERNICUS Trial (Incidence >3% in Subjects Treated with Carvedilol, Regardless of Causality)
 
 | Body System/Adverse Event | Mild-to-Moderate HF |  | Severe HF |  |
 | --- | --- | --- | --- | --- |
@@ -62,9 +62,9 @@ Adverse Events (%) Occurring More Frequently With COREG Than With Placebo in Sub
 
 Cardiac failure and dyspnea were also reported in these trials, but the rates were equal or greater in subjects who received placebo.
 
-The following adverse events were reported with a frequency of >1% but ≤3% and more frequently with COREG in either the US placebo‑controlled trials in subjects with mild‑to‑moderate heart failure, or in subjects with severe heart failure in the COPERNICUS trial.
+The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with COREG in either the US placebo‑controlled trials in subjects with mild‑to‑moderate heart failure, or in subjects with severe heart failure in the COPERNICUS trial.
 
-Incidence >1% to ≤3%
+Incidence greater than 1% to less than or equal to 3%
 
 Body as a Whole: Allergy, malaise, hypovolemia, fever, leg edema.
 
@@ -90,17 +90,17 @@ Special Senses: Blurred vision.
 
 Urinary System: Renal insufficiency, albuminuria, hematuria.
 
-### Left Ventricular Dysfunction Following Myocardial Infarction
+### Left Ventricular Dysfunction following Myocardial Infarction
 
 COREG has been evaluated for safety in survivors of an acute myocardial infarction with left ventricular dysfunction in the CAPRICORN trial which involved 969 subjects who received COREG and 980 who received placebo.
 Approximately 75% of the subjects received COREG for at least 6 months and 53% received COREG for at least 12 months.
 Subjects were treated for an average of 12.9 months and 12.8 months with COREG and placebo, respectively.
 
 The most common adverse events reported with COREG in the CAPRICORN trial were consistent with the profile of the drug in the US heart failure trials and the COPERNICUS trial.
-The only additional adverse events reported in CAPRICORN in >3% of the subjects and more commonly on carvedilol were dyspnea, anemia, and lung edema.
-The following adverse events were reported with a frequency of >1% but ≤3% and more frequently with COREG:flu syndrome, cerebrovascular accident, peripheral vascular disorder, hypotonia, depression, gastrointestinal pain, arthritis, and gout.
+The only additional adverse events reported in CAPRICORN in greater than 3% of the subjects and more commonly on carvedilol were dyspnea, anemia, and lung edema.
+The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with COREG: flu syndrome, cerebrovascular accident, peripheral vascular disorder, hypotonia, depression, gastrointestinal pain, arthritis, and gout.
 The overall rates of discontinuations due to adverse events were similar in both groups of subjects.
-In this database, the only cause of discontinuation >1%, and occurring more often on carvedilol was hypotension (1.5% on carvedilol, 0.2% on placebo).
+In this database, the only cause of discontinuation greater than 1%, and occurring more often on carvedilol was hypotension (1.5% on carvedilol, 0.2% on placebo).
 
 ### Hypertension
 
@@ -112,7 +112,7 @@ Although there was no overall difference in discontinuation rates, discontinuati
 The overall incidence of adverse events in US placebo‑controlled trials increased with increasing dose of COREG.
 For individual adverse events this could only be distinguished for dizziness, which increased in frequency from 2% to 5% as total daily dose increased from 6.25 mg to 50 mg.
 
-Table 2 shows adverse events in US placebo‑controlled clinical trials for hypertension that occurred with an incidence of ≥1% regardless of causality, and that were more frequent in drug‑treated subjects than placebo‑treated subjects.
+Table 2 shows adverse events in US placebo‑controlled clinical trials for hypertension that occurred with an incidence of greater than or equal to 1% regardless of causality, and that were more frequent in drug‑treated subjects than placebo‑treated subjects.
 
 Table 2.
 Adverse Events (%) Occurring in US Placebo-Controlled Hypertension Trials (Incidence ≥1%, Regardless of Causality)a
@@ -139,7 +139,7 @@ Dyspnea and fatigue were also reported in these trials, but the rates were equal
 
 The following adverse events not described above were reported as possibly or probably related to COREG in worldwide open or controlled trials with COREG in subjects with hypertension or heart failure.
 
-Incidence >0.1% to ≤1%
+Incidence greater than 0.1% to less than or equal to 1%
 
 Cardiovascular: Peripheral ischemia, tachycardia.
 
@@ -165,7 +165,7 @@ Metabolic and Nutritional: Hypokalemia, hypertriglyceridemia.
 
 Hematologic: Anemia, leukopenia.
 
-The following events were reported in ≤0.1% of subjects and are potentially important: complete AV block, bundle branch block, myocardial ischemia, cerebrovascular disorder, convulsions, migraine, neuralgia, paresis, anaphylactoid reaction, alopecia, exfoliative dermatitis, amnesia, GI hemorrhage, bronchospasm, pulmonary edema, decreased hearing, respiratory alkalosis, increased BUN, decreased HDL, pancytopenia, and atypical lymphocytes.
+The following events were reported in less than or equal to 0.1% of subjects and are potentially important: complete AV block, bundle branch block, myocardial ischemia, cerebrovascular disorder, convulsions, migraine, neuralgia, paresis, anaphylactoid reaction, alopecia, exfoliative dermatitis, amnesia, GI hemorrhage, bronchospasm, pulmonary edema, decreased hearing, respiratory alkalosis, increased BUN, decreased HDL, pancytopenia, and atypical lymphocytes.
 
 ## 6.2 Laboratory Abnormalities
 
@@ -182,12 +182,22 @@ No clinically relevant changes were noted in fasting serum glucose in hypertensi
 The following adverse reactions have been identified during post-approval use of COREG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Aplastic anemia.
+Blood and Lymphatic System Disorders
 
-Immune System Disorders: Hypersensitivity (e.g., anaphylactic reactions, angioedema, urticaria).
+Aplastic anemia.
 
-Renal and Urinary Disorders: Urinary incontinence.
+Immune System Disorders
 
-Respiratory, Thoracic and Mediastinal Disorders: Interstitial pneumonitis.
+Hypersensitivity (e.g., anaphylactic reactions, angioedema, urticaria).
 
-Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.
+Renal and Urinary Disorders
+
+Urinary incontinence.
+
+Respiratory, Thoracic and Mediastinal Disorders
+
+Interstitial pneumonitis.
+
+Skin and Subcutaneous Tissue Disorders
+
+Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.

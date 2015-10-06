@@ -22,7 +22,7 @@ Among 839 subjects with NYHA class II‑III heart failure treated for 26 to 52 w
 The effects of carvedilol on ejection fraction were related to dose.
 Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo‑corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant.
 
-### Left Ventricular Dysfunction Following Myocardial Infarction
+### Left Ventricular Dysfunction following Myocardial Infarction
 
 The basis for the beneficial effects of COREG in patients with left ventricular dysfunction following an acute myocardial infarction is not established.
 
@@ -85,7 +85,7 @@ Plasma clearance ranges from 500 to 700 mL/min.
 
 ### Heart Failure
 
-Steady‑state plasma concentrations of carvedilol and its enantiomers increased proportionally over the 6.25 to 50 mg dose range in subjects with heart failure.
+Steady‑state plasma concentrations of carvedilol and its enantiomers increased proportionally over the 6.25- to 50- mg dose range in subjects with heart failure.
 Compared with healthy subjects, heart failure subjects had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 subjects with NYHA class IV heart failure.
 The mean apparent terminal elimination half‑life for carvedilol was similar to that observed in healthy subjects.
 
@@ -101,7 +101,7 @@ Carvedilol is contraindicated in patients with severe liver impairment.
 ### Renal Impairment
 
 Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in patients with renal impairment.
-Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in hypertensive subjects with moderate to severe renal impairment compared to a control group of hypertensive subjects with normal renal function.
+Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in hypertensive subjects with moderate to severe renal impairment compared with a control group of hypertensive subjects with normal renal function.
 However, the ranges of AUC values were similar for both groups.
 Changes in mean peak plasma levels were less pronounced, approximately 12% to 26% higher in subjects with impaired renal function.
 
@@ -117,7 +117,7 @@ In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure
 
 ### Cimetidine
 
-In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg/day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
+In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
 
 ### Digoxin
 
