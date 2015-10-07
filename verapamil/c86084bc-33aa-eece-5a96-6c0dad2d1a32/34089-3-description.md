@@ -5,9 +5,6 @@ Verapamil hydrochloride extended-release is available for oral administration as
 These bead filled capsules provide an extended-release of the drug in the gastrointestinal tract.
 The structural formula of verapamil hydrochloride is given below:
 
-C27H38N2O4 • HCl M.W.
-491.07
-
 Chemical name: (±)-5-[(3,4-Dimethoxyphenethyl)methylamino]-2-(3,4-dimethoxyphenyl)-2-isopropylvaleronitrile monohydrochloride.
 
 Verapamil hydrochloride, USP is an almost white, crystalline powder, practically free of odor, with a bitter taste.
