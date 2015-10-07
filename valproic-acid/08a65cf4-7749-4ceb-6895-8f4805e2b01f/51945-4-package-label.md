@@ -8,7 +8,7 @@ DIVALPROEX SODIUM DELAYED-RELEASE TABLETS
 
 125 mg Valproic Acid Activity
 
-Dispense the accompanying Medication Guide to each patient
+Dispense the accompanying Medication Guide to each patient.
 
 Rx only abbvie
 
