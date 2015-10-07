@@ -8,8 +8,9 @@ The dosage strengths are supplied in:
 
 Strength NDC Number Size
 
-50/0.2 0591-0397-60 bottle of 60
+50 mg /0.2 mg 0591-0397-60 bottle of 60 50 mg /0.2 mg 0591-0397-19 bottle of 90
 
-75/0.2 0591-0398-60 bottle of 60
+75 mg /0.2 mg 0591-0398-60 bottle of 60 75 mg /0.2 mg 0591-0398-19 bottle of 90
 
-Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature], in a dry area.
+Store at 20°-25°C (68°-77°F), in a dry area.
+[See USP Controlled Room Temperature].

@@ -202,4 +202,8 @@ For current full prescribing information, please visit www.actavis.com
 
 Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA Revised: September 2014 204843-6
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised: July 2015
+
+204843-7
