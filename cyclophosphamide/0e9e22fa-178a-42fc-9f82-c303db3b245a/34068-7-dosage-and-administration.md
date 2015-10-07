@@ -46,7 +46,7 @@ Use aseptic technique.
 For Direct Intravenous Injection
 
 Reconstitute Cyclophosphamide with 0.9% Sodium Chloride Injection, USP only, using the volumes listed below in Table 1.
-Gently swirl the vial to dissolve the drug completely.
+Shake the vial vigorously to dissolve the drug completely.
 Do not use Sterile Water for Injection, USP because it results in a hypotonic solution and should not be injected directly.
 
 Table 1: Reconstitution for Direct Intravenous Injection
@@ -62,7 +62,7 @@ For Intravenous Infusion
 Reconstitution of Cyclophosphamide:
 
 Reconstitute Cyclophosphamide using 0.9% Sodium Chloride Injection, USP or Sterile Water for Injection, USP with the volume of diluent listed below in Table 2.
-Add the diluent to the vial and gently swirl to dissolve the drug completely.
+Add the diluent to the vial and shake it vigorously to dissolve the drug completely.
 
 Table 2: Reconstitution in preparation for Intravenous Infusion
 

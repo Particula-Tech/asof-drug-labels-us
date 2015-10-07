@@ -32,7 +32,7 @@ The liver is the major site of cyclophosphamide activation.
 Approximately 75% of the administered dose of cyclophosphamide is activated by hepatic microsomal cytochrome P450s including CYP2A6, 2B6, 3A4, 3A5, 2C9, 2C18 and 2C19, with 2B6 displaying the highest 4-hydroxylase activity.
 Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide.
 4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively.
-Aldophosphamide can undergo B-elimination to form active metabolites phosphoramide mustard and acrolein.
+Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein.
 This spontaneous conversion can be catalyzed by albumin and other proteins.
 
 Less than 5% of cyclophosphamide may be directly detoxified by side chain oxidation, leading to the formation of inactive metabolites 2-dechloroethylcyclophosphamide.

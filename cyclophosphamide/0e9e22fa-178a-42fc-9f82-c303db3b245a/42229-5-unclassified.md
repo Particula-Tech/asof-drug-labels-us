@@ -2,12 +2,12 @@
 
 Jiangsu Hengrui Medicine Co., Ltd.
 
-Lianyungang, Jiangsu, China
+Lianyungang, Jiangsu 222047 China
 
 for
 
 Sandoz Inc., Princeton, NJ 08540
 
-102014
+08UF03
 
-Revised October 2014
+Revised February 2015
