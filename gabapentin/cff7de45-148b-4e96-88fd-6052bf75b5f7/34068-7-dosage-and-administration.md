@@ -1,23 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Administration Information
-
-Administer gabapentin orally with or without food.
-
-Gabapentin capsules should be swallowed whole with water.
-
-Inform patients that, should they break the scored 600 mg or 800 mg gabapentin tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
-Half-tablets not used within 28 days of breaking the scored tablet should be discarded.
-
-If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
-
-## 2.2 Dosage for Postherpetic Neuralgia
+## 2.1 Dosage for Postherpetic Neuralgia
 
 In adults with postherpetic neuralgia, gabapentin may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
 The dose can subsequently be titrated up as needed for pain relief to a dose of 1800 mg/day (600 mg three times a day).
 In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range; however, in these clinical studies, the additional benefit of using doses greater than 1800 mg/day was not demonstrated.
 
-## 2.3 Dosage for Epilepsy with Partial Onset Seizures
+## 2.2 Dosage for Epilepsy with Partial Onset Seizures
 
 Patients 12 years of age and above
 
@@ -37,7 +26,7 @@ Gabapentin may be administered as the oral solution, capsule, or tablet, or usin
 Dosages up to 50 mg/kg/day have been well tolerated in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 
-## 2.4 Dosage Adjustment in Patients with Renal Impairment
+## 2.3 Dosage Adjustment in Patients with Renal Impairment
 
 Dosage adjustment in patients 12 years of age and older with renal impairment or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
 
@@ -59,6 +48,17 @@ In patients with stable renal function, creatinine clearance can be reasonably w
 
 The use of gabapentin in patients less than 12 years of age with compromised renal function has not been studied.
 
-## 2.5 Dosage in Elderly
+## 2.4 Dosage in Elderly
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients.
+
+## 2.5 Administration Information
+
+Administer gabapentin orally with or without food.
+
+Gabapentin capsules should be swallowed whole with water.
+
+Inform patients that, should they divide the scored 600 mg or 800 mg gabapentin tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
+Half-tablets not used within 28 days of dividing the scored tablet should be discarded.
+
+If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).

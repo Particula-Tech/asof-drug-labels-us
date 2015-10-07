@@ -6,12 +6,14 @@ Gabapentin is not appreciably metabolized nor does it interfere with the metabol
 
 ## 7.2 Opioids
 
-Coadministration of gabapentin (125 to 500 mg) decreases hydrocodone Cmax and AUC values in a dose-dependent manner The Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
-Hydrocodone increases gabapentin AUC values by 14% [see Clinical Pharmacology (12.3)].
+Hydrocodone
 
-A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine.
-Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
-The magnitude of interaction at other doses is not known [see Clinical Pharmacology (12.3)].
+Coadministration of gabapentin with hydrocodone decreases hydrocodone exposure [see Clinical Pharmacology (12.3)].
+The potential for alteration in hydrocodone exposure and effect should be considered when gabapentin is started or discontinued in a patient taking hydrocodone.
+
+Morphine
+
+When gabapentin is administered with morphine, patients should be observed for signs of central nervous system (CNS) depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Maalox® (aluminum hydroxide, magnesium hydroxide)
 

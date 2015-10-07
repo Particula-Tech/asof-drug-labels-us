@@ -37,16 +37,17 @@ Gabapentin can cause serious side effects including:
   - Suicidal thoughts or actions can be caused by things other than medicines.
     If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 - 2.Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
-- 3.Gabapentin may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
-  You may or may not have rash when you get this type of reaction.
-  It may cause you to be hospitalized or to stop gabapentin.
+- 3.Gabapentin may cause serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
+  This may cause you to be hospitalized or to stop gabapentin.
+  You may or may not have a rash with an allergic reaction caused by gabapentin.
   Call a healthcare provider right away if you have any of the following symptoms:These symptoms may be the first signs of a serious reaction.
   A healthcare provider should examine you to decide if you should continue taking gabapentin.
   - skin rash
   - hives
+  - difficulty breathing
   - fever
   - swollen glands that do not go away
-  - swelling of your lip and tongue
+  - swelling of your face, lips, throat, or tongue
   - yellowing of your skin or of the whites of the eyes
   - unusual bruising or bleeding
   - severe fatigue or weakness
@@ -169,4 +170,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0437-9.0 June 2015
+LAB-0437-10.0 October 2015

@@ -49,11 +49,11 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients [see Dosage and Administration (2.5), Adverse Reactions (6), and Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients [see Dosage and Administration (2.4), Adverse Reactions (6), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 Pediatric patients with renal insufficiency have not been studied.
 
-Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
