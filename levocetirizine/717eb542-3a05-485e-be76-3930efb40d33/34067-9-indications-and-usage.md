@@ -2,11 +2,11 @@
 
 ## 1.1 Seasonal Allergic Rhinitis
 
-Levocetirizine Dihydrochloride Tablets are indicated for the relief of symptoms associated with seasonal allergic rhinitis in adults and children 2 years of age and older.
+Levocetirizine Dihydrochloride Tablets are indicated for the relief of symptoms associated with seasonal allergic rhinitis in adults and children 6 years of age and older.
 
 ## 1.2 Perennial Allergic Rhinitis
 
-Levocetirizine Dihydrochloride Tablets are indicated for the relief of symptoms associated with perennial allergic rhinitis in adults and children 6 months of age and older.
+Levocetirizine Dihydrochloride Tablets are indicated for the relief of symptoms associated with perennial allergic rhinitis in adults and children 6 years of age and older.
 
 ## 1.3 Chronic Idiopathic Urticaria
 
