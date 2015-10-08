@@ -1,4 +1,6 @@
-Instructions for Use SIMPONI® (SIM-po-nee) (golimumab) SmartJect® autoinjector
+# Instructions for Use
+
+SIMPONI® (SIM-po-nee) (golimumab) SmartJect® autoinjector
 
 Important
 
@@ -21,34 +23,37 @@ For additional assistance or to share your feedback call 800-JANSSEN (800-526-77
 
 Your SmartJect at-a-glance
 
-1 Prepare for your injection
+1.
+Prepare for your injection
 
 | Take out SmartJectTake SmartJect out of the refrigerator and remove it from the carton. Place on a flat surface out of reach of children. | SmartJect should sit at room temperature for 30 minutes to ensure proper injection.Do not warm any other way.Do not remove the cap yet. | Inspect SmartJectCheck the expiration date ('EXP') on the back of SmartJect.Do not use SIMPONI SmartJect if the expiration date has passed. Call your doctor or pharmacist for a refill.Check the security seal on the cap.Do not inject if the seal is broken. |
 | --- | --- | --- |
 
-| Gather suppliesWhile SmartJect sits at room temperature for 30 minutes, gather your supplies: 1 Alcohol swab1 Cotton ball or gauze pad1 Sharps container (See Step 3). Check liquid in the SmartJectAfter 30 minutes, check the liquid in the viewing window. It should be clear to slightly yellow and may contain tiny white or clear particles.It is also normal to see a small air bubble.Do not inject if the liquid is cloudy or discolored, or has large particles. |  |  |
+| Gather suppliesWhile SmartJect sits at room temperature for 30 minutes, gather your supplies: 1 Alcohol swab1 Cotton ball or gauze pad1 Sharps container (See Step 3) Check liquid in the SmartJectAfter 30 minutes, check the liquid in the viewing window. It should be clear to slightly yellow and may contain tiny white or clear particles.It is also normal to see a small air bubble.Do not inject if the liquid is cloudy or discolored, or has large particles. |  |  |
 | --- | --- | --- |
 
-| Choose injection siteSelect from the following areas for your injection: Front of thighs (recommended)Lower abdomen (do not use the 2-inch area around your navel (belly-button))Back of upper arms (if a caregiver is giving you the injection) Choose a different site within your preferred area for each injection.Do not inject into skin that is tender, bruised, red, scaly or hard. Do not inject into areas with scars or stretch marks. | Clean injection site Wash your hands well with soap and warm water.Wipe your chosen injection site with an alcohol swab and allow it to dry. Do not touch or blow on the injection site after you have cleaned it. |  |
+| Choose injection siteSelect from the following areas for your injection: Front of thighs (recommended)Lower abdomen (do not use the 2-inch area around your navel (belly-button))Back of upper arms (if a caregiver is giving you the injection) Choose a different site within your preferred area for each injection.Do not inject into skin that is tender, bruised, red, scaly or hard. Do not inject into areas with scars or stretch marks. | Clean injection site Wash your hands well with soap and warm water.Wipe your chosen injection site with an alcohol swab and allow it to dry. Do not touch, fan or blow on the injection site after you have cleaned it. |  |
 | --- | --- | --- |
 
-| 2 Inject SIMPONI using SmartJect |  |  |
+| 2. Inject SIMPONI using SmartJect |  |  |
 | --- | --- | --- |
 | Remove capTwist the cap to break the security seal, then pull it straight off. Dispose of the cap right away.It is important to inject within 5 minutes of removing the cap.Do not put the cap back on, this may damage the hidden needle.Do not inject if SmartJect is dropped without the cap on. | PositionHold SmartJect comfortably and position it straight onto your skin, as shown.Make sure the green safety sleeve is flat against your skin and that your injection site is as flat as possible.Do not touch or press the button while positioning the SmartJect onto your skin. | Push firmlyPush SmartJect firmly against your skin so the green safety sleeve slides into the clear cover.Do not touch or press the button while pushing SmartJect against your skin.The green safety sleeve helps prevent accidental injections.You will not be able to press the button to start your injection until SmartJect is pushed firmly enough against your skin for the green safety sleeve to slide into the clear cover. |
 
-| Press button and waitKeep holding SmartJect firmly against your skin. Use your other hand to press the raised part of the button to start your injection. You will hear a loud 1st 'click' as you press the button. This is normal, the medication is just beginning to be delivered. You may or may not feel a needle prick.Do not lift SmartJect up yet! This may result in loss of medication.After 1 press of the button you do not need to keep pressure on the button.Wait for the 2nd 'click' which means your injection is complete. | Listen for 2nd 'click'Keep holding SmartJect firmly against your skin until you hear the 2nd 'click' (3–15 seconds). The 2nd 'click' means the injection is complete and you can lift SmartJect from your skin.If you have trouble hearing the 'clicks,' count to 15 after pressing the button, then lift the SmartJect off your skin. | Check the viewing windowAfter lifting SmartJect from your skin, look for the yellow indicator in the viewing window to confirm SmartJect worked properly. The yellow indicator will fill about half of the viewing window. If you do not see the yellow indicator, call 800-JANSSEN (800-526-7736).Do not administer a second dose without speaking to your doctor. |
+| Press button and waitKeep holding SmartJect firmly against your skin. Use your other hand to press the raised part of the button to start your injection. You will hear a loud 1st 'click' as you press the button. This is normal, the medication is just beginning to be delivered. You may or may not feel a needle prick.Do not lift SmartJect up yet! This may result in loss of medication.After 1 press of the button, you do not need to keep pressure on the button.Wait for the 2nd 'click' which means your injection is complete. | Listen for 2nd 'click'Keep holding SmartJect firmly against your skin until you hear the 2nd 'click' (3–15 seconds). The 2nd 'click' means the injection is complete and you can lift SmartJect from your skin.If you have trouble hearing the 'clicks', count to 15 after pressing the button, then lift the SmartJect off your skin. | Check the viewing windowAfter lifting SmartJect from your skin, look for the yellow indicator in the viewing window to confirm SmartJect worked properly. The yellow indicator will fill about half of the viewing window. If you do not see the yellow indicator, call 800-JANSSEN (800-526-7736).Do not administer a second dose without speaking to your doctor. |
 | --- | --- | --- |
 
-| 3 After Your Injection |  |
+| 3. After your injection |  |
 | --- | --- |
 | Dispose of your SmartJectPut your used SmartJect in an FDA-cleared sharps disposal container right away after use.Do not throw away (dispose of) loose needles and syringes in your household trash. Do not recycle your used sharps disposal container.For more information, see "Helpful tips".Check injection siteThere may be a small amount of blood or liquid at the injection site. | Hold pressure over your skin with a cotton ball or gauze pad until any bleeding stops.Do not rub the injection site.If needed, cover injection site with a bandage. Your injection is now complete! |
 
-| Helpful TipsIf you are having difficulty injecting: ✓Make sure the cap is removed.✓Make sure SmartJect is pushed firmly against your skin. | ✓Make sure you are pressing the raised part of button.✓Try pressing the button a little harder.✓Try a different injection site. If you are pinching the skin to inject: | Use 1 hand to both position SmartJect against the skin |
+| Helpful tipsIf you are having difficulty injecting: ✓Make sure the cap is removed.✓Make sure SmartJect is pushed firmly against your skin. | ✓Make sure you are pressing the raised part of button.✓Try pressing the button a little harder.✓Try a different injection site. If you are pinching the skin to inject: | Use 1 hand to both position SmartJect against the skin and press the button. |
 | --- | --- | --- |
-| and press the button.Additional disposal information:If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: • made of a heavy-duty plastic• can be closed with a | tight-fitting, puncture-resistant lid, without sharps being able to come out• upright and stable during use• leak-resistant• properly labeled to warn of hazardous waste inside the containerWhen your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state | that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal. |
+
+| Additional disposal information:If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: • made of a heavy-duty plastic• can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out• upright and stable during use• leak-resistant | • properly labeled to warn of hazardous waste inside the containerWhen your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. | For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal |
+| --- | --- | --- |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
-Approved: June 2015
+Approved: September 2015
