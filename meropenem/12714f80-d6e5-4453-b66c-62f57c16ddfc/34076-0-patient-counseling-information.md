@@ -23,4 +23,4 @@ Fresenius Kabi USA, LLC
 
 Lake Zurich, IL 60047
 
-Made in Italy Revised: July 2015 NOVAPLUS®
+Revised: July 2015 NOVAPLUS®
