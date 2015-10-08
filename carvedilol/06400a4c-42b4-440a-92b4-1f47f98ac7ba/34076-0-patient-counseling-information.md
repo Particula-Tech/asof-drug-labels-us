@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 - Patients taking COREG CR should be advised of the following:
 
@@ -24,11 +24,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015 the GSK group of companies.
 All rights reserved.
 
-May 2014
-
-CCR:17PI
+CCR:18PI
 
 - PHARMACIST─DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

@@ -34,7 +34,7 @@ Cimetidine increased area under the curve (AUC) by about 30% but caused no chang
 
 ## 7.6 Amiodarone
 
-Amiodarone, and its metabolite desethyl amiodarone, inhibitors of CYP2C9 and P-glycoprotein, increased concentrations of the S(-) enantiomer of carvedilol by at least 2-fold [see Clinical Pharmacology (12.5)].
+Amiodarone, and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein increased concentrations of the S(-) enantiomer of carvedilol by at least 2 fold [see Clinical Pharmacology (12.5)].
 The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with COREG CR may enhance the β‑blocking properties of carvedilol resulting in further slowing of the heart rate or cardiac conduction.
 Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other.
 
@@ -54,4 +54,4 @@ There is no clinically meaningful increase in AUC and Cmax with concomitant admi
 
 ## 7.10 Anesthesia
 
-If treatment with COREG CR is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].
+If treatment with COREG CR is to be continued perioperatively, particular care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].

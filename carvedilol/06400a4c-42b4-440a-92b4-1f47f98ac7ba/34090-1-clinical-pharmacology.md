@@ -7,7 +7,7 @@ Carvedilol has no intrinsic sympathomimetic activity.
 
 ## 12.2 Pharmacodynamics
 
-### Heart Failure and Left Ventricular Dysfunction Following Myocardial Infarction
+### Heart Failure and Left Ventricular Dysfunction following Myocardial Infarction
 
 The basis for the beneficial effects of carvedilol in patients with heart failure and in patients with left ventricular dysfunction following an acute myocardial infarction is not known.
 The concentration-response relationship for β1‑blockade following administration of COREG CR is equivalent (±20%) to immediate-release carvedilol tablets.
@@ -73,7 +73,7 @@ Compared with carvedilol, the 3 active metabolites exhibit weak vasodilating act
 Plasma concentrations of the active metabolites are about one-tenth of those observed for carvedilol and have pharmacokinetics similar to the parent.
 
 Carvedilol undergoes stereoselective first-pass metabolism with plasma levels of R(+)-carvedilol approximately 2 to 3 times higher than S(-)-carvedilol following oral administration of COREG CR in healthy subjects.
-Apparent clearance is 90 L/h and 213 L/h for R(+)- and S(-)-carvedilol, respectively.
+Apparent clearance is 90 L per h and 213 L per h for R(+)- and S(-)-carvedilol, respectively.
 
 The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.
 CYP2D6 is thought to be the major enzyme in the 4’- and 5’-hydroxylation of carvedilol, with a potential contribution from 3A4.
@@ -129,7 +129,7 @@ In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure
 
 ### Cimetidine
 
-In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg/day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
+In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
 
 ### Digoxin
 

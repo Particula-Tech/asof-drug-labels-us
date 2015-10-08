@@ -1,6 +1,4 @@
-PATIENT INFORMATION LEAFLET
-
-COREG CR® (Co-REG)
+PATIENT INFORMATION COREG CR® (Co-REG)
 
 (carvedilol phosphate)
 
@@ -16,7 +14,6 @@ What is the most important information I should know about COREG CR?
 It is important for you to take your medicine every day as directed by your doctor.
 If you stop taking COREG CR suddenly, you could have chest pain and a heart attack.
 If your doctor decides that you should stop taking COREG CR, your doctor may slowly lower your dose over time before stopping it completely.
-
 What is COREG CR?
 
 COREG CR is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
@@ -89,12 +86,12 @@ What should I avoid while taking COREG CR?
 
 COREG CR can cause you to feel dizzy, tired, or faint.
 Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
-
 What are possible side effects of COREG CR?
 
 Serious side effects of COREG CR include:
 
-- •chest pain and heart attack if you suddenly stop taking COREG CR.See “What is the most important information I should know about COREG CR?”
+- •chest pain and heart attack if you suddenly stop taking COREG CR.
+  See “What is the most important information I should know about COREG CR?”
 - •slow heart beat.
 - •low blood pressure (which may cause dizziness or fainting when you stand up).
   If these happen, sit or lie down, and tell your doctor right away.
@@ -128,7 +125,6 @@ Store COREG CR at less than 86°F (30°C).
 Safely throw away COREG CR that is out of date or no longer needed.
 
 Keep COREG CR and all medicines out of the reach of children.
-
 General information about COREG CR
 
 Medicines are sometimes prescribed for conditions other than those described in patient information leaflets.
@@ -141,7 +137,6 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about COREG CR that is written for healthcare professionals.
 You can also find out more about COREG CR by visiting the website www.COREGCR.com or calling 1-888-825-5249.
 This call is free.
-
 What are the ingredients in COREG CR?
 
 Active ingredient: carvedilol phosphate
@@ -149,7 +144,6 @@ Active ingredient: carvedilol phosphate
 Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegetable oil, magnesium stearate, methacrylic acid copolymers, microcrystalline cellulose, and povidone
 
 COREG CR capsules come in the following strengths: 10 mg, 20 mg, 40 mg, 80 mg.
-
 What is high blood pressure (hypertension)?Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
@@ -157,14 +151,12 @@ COREG CR can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
 COREG CR and COREG are registered trademarks of the GSK group of companies.
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
+©2015 the GSK group of companies.
 All rights reserved.
+October 2015
 
-May 2014
-
-CCR:6PIL
+CCR:7PIL

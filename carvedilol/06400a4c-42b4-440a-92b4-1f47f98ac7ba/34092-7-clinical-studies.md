@@ -12,7 +12,7 @@ A total of 6,975 subjects with mild-to-severe heart failure were evaluated in pl
 
 Carvedilol was studied in 5 multicenter, placebo‑controlled trials, and in 1 active-controlled trial (COMET trial) involving subjects with mild-to-moderate heart failure.
 
-Four US multicenter, double‑blind, placebo‑controlled trials enrolled 1,094 subjects (696 randomized to carvedilol) with NYHA class II‑III heart failure and ejection fraction ≤0.35.
+Four US multicenter, double‑blind, placebo‑controlled trials enrolled 1,094 subjects (696 randomized to carvedilol) with NYHA class II‑III heart failure and ejection fraction less than or equal to 0.35.
 The vast majority were on digitalis, diuretics, and an ACE inhibitor at trial entry.
 Subjects were assigned to the trials based upon exercise ability.
 An Australia‑New Zealand double‑blind, placebo‑controlled trial enrolled 415 subjects (half randomized to immediate‑release carvedilol) with less severe heart failure.
@@ -45,7 +45,7 @@ Overall, in these 4 US trials, mortality was reduced, nominally significantly so
 
 ### The COMET Trial
 
-In this double-blind trial, 3,029 subjects with NYHA class II-IV heart failure (left ventricular ejection fraction ≤35%) were randomized to receive either carvedilol (target dose: 25 mg twice daily) or immediate-release metoprolol tartrate (target dose: 50 mg twice daily).
+In this double-blind trial, 3,029 subjects with NYHA class II-IV heart failure (left ventricular ejection fraction less than or equal to 35%) were randomized to receive either carvedilol (target dose: 25 mg twice daily) or immediate-release metoprolol tartrate (target dose: 50 mg twice daily).
 The mean age of the subjects was approximately 62 years, 80% were males, and the mean left ventricular ejection fraction at baseline was 26%.
 Approximately 96% of the subjects had NYHA class II or III heart failure.
 Concomitant treatment included diuretics (99%), ACE inhibitors (91%), digitalis (59%), aldosterone antagonists (11%), and “statin” lipid-lowering agents (21%).
@@ -63,7 +63,7 @@ The estimated mean survival was 8.0 years with carvedilol and 6.6 years with imm
 Table 5.
 Results of COMET
 
-| End point | CarvedilolN = 1,511 | MetoprololN = 1,518 | Hazard ratio | (95% CI) |
+| End point | CarvedilolN = 1,511 | MetoprololN = 1,518 | Hazard Ratio | (95% CI) |
 | --- | --- | --- | --- | --- |
 | All-cause mortality | 34% | 40% | 0.83 | 0.74 – 0.93 |
 | Mortality + all hospitalization | 74% | 76% | 0.94 | 0.86 – 1.02 |
@@ -77,7 +77,7 @@ Thus, this trial extends the time over which carvedilol manifests benefits on su
 
 ### Severe Heart Failure (COPERNICUS)
 
-In a double-blind trial, 2,289 subjects with heart failure at rest or with minimal exertion and left ventricular ejection fraction <25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%) were randomized to placebo or carvedilol.
+In a double-blind trial, 2,289 subjects with heart failure at rest or with minimal exertion and left ventricular ejection fraction less than 25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%) were randomized to placebo or carvedilol.
 Carvedilol was titrated from a starting dose of 3.125 mg twice daily to the maximum tolerated dose or up to 25 mg twice daily over a minimum of 6 weeks.
 Most subjects achieved the target dose of 25 mg.
 The trial was conducted in Eastern and Western Europe, the United States, Israel, and Canada.
@@ -89,9 +89,9 @@ The trial was stopped after a median follow‑up of 10 months because of an obse
 The results of COPERNICUS are shown in Table 6.
 
 Table 6.
-Results of COPERNICUS Trial in Subjects With Severe Heart Failure
+Results of COPERNICUS Trial in Subjects with Severe Heart Failure
 
-| End point | Placebo (N = 1,133) | Carvedilol (N = 1,156) | Hazard ratio (95% CI) | % Reduction | Nominal P value |
+| End point | Placebo (N = 1,133) | Carvedilol (N = 1,156) | Hazard Ratio (95% CI) | % Reduction | Nominal P value |
 | --- | --- | --- | --- | --- | --- |
 | Mortality | 190 | 130 | 0.65(0.52 – 0.81) | 35 | 0.00013 |
 | Mortality + all hospitalization | 507 | 425 | 0.76(0.67 – 0.87) | 24 | 0.00004 |
@@ -99,6 +99,9 @@ Results of COPERNICUS Trial in Subjects With Severe Heart Failure
 | Mortality + HF hospitalization | 357 | 271 | 0.69(0.59 – 0.81) | 31 | 0.000004 |
 
 Cardiovascular = CV; Heart failure = HF.
+
+Figure 1.
+Survival Analysis for COPERNICUS (Intent-to-Treat)
 
 The effect on mortality was principally the result of a reduction in the rate of sudden death among subjects without worsening heart failure.
 
@@ -110,19 +113,22 @@ Fewer subjects on immediate‑release carvedilol than on placebo were hospitaliz
 
 Immediate‑release carvedilol had a consistent and beneficial effect on all‑cause mortality as well as the combined end points of all‑cause mortality plus hospitalization (total, CV, or for heart failure) in the overall trial population and in all subgroups examined, including men and women, elderly and non‑elderly, blacks and non‑blacks, and diabetics and non-diabetics (see Figure 2).
 
+Figure 2.
+Effects on Mortality for Subgroups in COPERNICUS
+
 Although the clinical trials used twice-daily dosing, clinical pharmacologic and pharmacokinetic data provide a reasonable basis for concluding that once-daily dosing with COREG CR should be adequate in the treatment of heart failure.
 
-## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
+## 14.2 Left Ventricular Dysfunction following Myocardial Infarction
 
-CAPRICORN was a double‑blind trial comparing carvedilol and placebo in 1,959 subjects with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of ≤40%, with (47%) or without symptoms of heart failure.
+CAPRICORN was a double‑blind trial comparing carvedilol and placebo in 1,959 subjects with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of less than or equal to 40%, with (47%) or without symptoms of heart failure.
 Subjects given carvedilol received 6.25 mg twice daily, titrated as tolerated to 25 mg twice daily.
-Subjects had to have a systolic blood pressure >90 mm Hg, a sitting heart rate >60 beats/minute, and no contraindication to β‑blocker use.
+Subjects had to have a systolic blood pressure greater than 90 mm Hg, a sitting heart rate greater than 60 beats per minute, and no contraindication to β‑blocker use.
 Treatment of the index infarction included aspirin (85%), IV or oral β‑blockers (37%), nitrates (73%), heparin (64%), thrombolytics (40%), and acute angioplasty (12%).
 Background treatment included ACE inhibitors or angiotensin receptor blockers (97%), anticoagulants (20%), lipid‑lowering agents (23%), and diuretics (34%).
 Baseline population characteristics included an average age of 63 years, 74% male, 95% Caucasian, mean blood pressure 121/74 mm Hg, 22% with diabetes, and 54% with a history of hypertension.
 Mean dosage achieved of carvedilol was 20 mg twice daily; mean duration of follow‑up was 15 months.
 
-All‑cause mortality was 15% in the placebo group and 12% in the carvedilol group, indicating a 23% risk reduction in subjects treated with carvedilol (95% CI: 2% to 40%,P = 0.03), as shown in Figure 3.
+All‑cause mortality was 15% in the placebo group and 12% in the carvedilol group, indicating a 23% risk reduction in subjects treated with carvedilol (95% CI: 2% to 40%, P = 0.03), as shown in Figure 3.
 The effects on mortality in various subgroups are shown in Figure 4.
 Nearly all deaths were cardiovascular (which were reduced by 25% by carvedilol), and most of these deaths were sudden or related to pump failure (both types of death were reduced by carvedilol).
 Another trial end point, total mortality and all-cause hospitalization, did not show a significant improvement.
@@ -130,11 +136,17 @@ Another trial end point, total mortality and all-cause hospitalization, did not 
 There was also a significant 40% reduction in fatal or non-fatal myocardial infarction observed in the group treated with carvedilol (95% CI: 11% to 60%, P = 0.01).
 A similar reduction in the risk of myocardial infarction was also observed in a meta-analysis of placebo-controlled trials of carvedilol in heart failure.
 
+Figure 3.
+Survival Analysis for CAPRICORN (Intent-to-Treat)
+
+Figure 4.
+Effects on Mortality for Subgroups in CAPRICORN
+
 Although the clinical trials used twice-daily dosing, clinical pharmacologic and pharmacokinetic data provide a reasonable basis for concluding that once-daily dosing with COREG CR should be adequate in the treatment of left ventricular dysfunction following myocardial infarction.
 
 ## 14.3 Hypertension
 
-A double-blind, randomized, placebo-controlled, 8-week trial evaluated the blood pressure lowering effects of COREG CR 20 mg, 40 mg, and 80 mg once daily in 338 subjects with essential hypertension (sitting diastolic blood pressure [DBP] ≥90 and ≤109 mm Hg).
+A double-blind, randomized, placebo-controlled, 8-week trial evaluated the blood pressure-lowering effects of COREG CR 20 mg, 40 mg, and 80 mg once daily in 338 subjects with essential hypertension (sitting diastolic blood pressure [DBP] greater than or equal to 90 and less than or equal to 109 mm Hg).
 Of 337 evaluable subjects, a total of 273 subjects (81%) completed the trial.
 Of the 64 (19%) subjects withdrawn from the trial, 10 (3%) were due to adverse events, 10 (3%) were due to lack of efficacy; the remaining 44 (13%) withdrew for other reasons.
 The mean age of the subjects was approximately 53 years, 66% were male, and the mean sitting systolic blood pressure (SBP) and DBP at baseline were 150 mm Hg and 99 mm Hg, respectively.
@@ -146,16 +158,19 @@ Placebo-subtracted mean changes from baseline in mean trough (average of hours 2
 The placebo-corrected trough to peak (3 to 7 h) ratio was approximately 0.6 for COREG CR 80 mg.
 In this trial, assessments of 24‑hour ABPM monitoring demonstrated statistically significant blood pressure reductions with COREG CR throughout the dosing period (Figure 5).
 
+Figure 5.
+Changes from Baseline in Systolic Blood Pressure and Diastolic Blood Pressure Measured by 24-Hour ABPM
+
 Immediate‑release carvedilol was studied in 2 placebo‑controlled trials that utilized twice‑daily dosing, at total daily doses of 12.5 to 50 mg.
 In these and other trials, the starting dose did not exceed 12.5 mg.
-At 50 mg/day, COREG reduced sitting trough (12‑hour) blood pressure by about 9/5.5 mm Hg; at 25 mg/day the effect was about 7.5/3.5 mm Hg.
+At 50 mg per day, COREG reduced sitting trough (12‑hour) blood pressure by about 9/5.5 mm Hg; at 25 mg per day the effect was about 7.5/3.5 mm Hg.
 Comparisons of trough‑to‑peak blood pressure showed a trough‑to‑peak ratio for blood pressure response of about 65%.
-Heart rate fell by about 7.5 beats/minute at 50 mg/day.
+Heart rate fell by about 7.5 beats per minute at 50 mg per day.
 In general, as is true for other β‑blockers, responses were smaller in black than non‑black subjects.
 There were no age‑ or gender‑related differences in response.
 The dose‑related blood pressure response was accompanied by a dose‑related increase in adverse effects [see Adverse Reactions (6)].
 
-## 14.4 Hypertension With Type 2 Diabetes Mellitus
+## 14.4 Hypertension with Type 2 Diabetes Mellitus
 
 In a double-blind trial (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin receptor blocker, was evaluated in a population with mild‑to‑moderate hypertension and well-controlled type 2 diabetes mellitus.
 The mean HbA1c at baseline was 7.2%.

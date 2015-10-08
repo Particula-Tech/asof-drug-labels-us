@@ -33,8 +33,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2014, the GSK group of companies Rev.
-7/14
+- ©2014, the GSK group of companies Rev.
+  7/14
 
 10000000127119
 
@@ -73,8 +73,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2014, the GSK group of companies Rev.
-8/14
+- ©2014, the GSK group of companies Rev.
+  8/14
 
 10000000127120
 
@@ -113,8 +113,8 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2014, the GSK group of companies Rev.
-8/14
+- ©2014, the GSK group of companies Rev.
+  8/14
 
 10000000127121
 
@@ -153,7 +153,7 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2014, the GSK group of companies Rev.
-8/14
+- ©2014, the GSK group of companies Rev.
+  8/14
 
 10000000127122

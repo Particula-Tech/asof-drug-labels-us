@@ -18,7 +18,9 @@ COREG CR should be taken once daily in the morning with food.
 COREG CR should be swallowed as a whole capsule.
 COREG CR and/or its contents should not be crushed, chewed, or taken in divided doses.
 
-Alternative Administration: The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
+Alternative Administration
+
+The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
 The applesauce should not be warm because it could affect the modified-release properties of this formulation.
 The mixture of drug and applesauce should be consumed immediately in its entirety.
 The drug and applesauce mixture should not be stored for future use.
@@ -39,11 +41,11 @@ The dose of COREG CR should not be increased until symptoms of worsening heart f
 
 Fluid retention (with or without transient worsening heart failure symptoms) should be treated by an increase in the dose of diuretics.
 
-The dose of COREG CR should be reduced if patients experience bradycardia (heart rate <55 beats/minute).
+The dose of COREG CR should be reduced if patients experience bradycardia (heart rate less than 55 beats per minute).
 
 Episodes of dizziness or fluid retention during initiation of COREG CR can generally be managed without discontinuation of treatment and do not preclude subsequent successful titration of, or a favorable response to, COREG CR.
 
-## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
+## 2.2 Left Ventricular Dysfunction following Myocardial Infarction
 
 DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP‑TITRATION.
 Treatment with COREG CR may be started as an inpatient or outpatient and should be started after the patient is hemodynamically stable and fluid retention has been minimized.
@@ -69,5 +71,5 @@ COREG CR should not be given to patients with severe hepatic impairment [see Con
 
 ## 2.5 Geriatric Use
 
-When switching elderly patients (65 years of age or older) who are taking the higher doses of immediate-release carvedilol tablets (25 mg twice daily) to COREG CR, a lower starting dose (40 mg) of COREG CR is recommended to minimize the potential for dizziness, syncope, or hypotension [see Dosage and Administration (2)].
+When switching elderly patients (aged 65 years or older) who are taking the higher doses of immediate-release carvedilol tablets (25 mg twice daily) to COREG CR, a lower starting dose (40 mg) of COREG CR is recommended to minimize the potential for dizziness, syncope, or hypotension [see Dosage and Administration (2)].
 Patients who have switched and who tolerate COREG CR should, as appropriate, have their dose increased after an interval of at least 2 weeks [see Use in Specific Populations (8.5)].

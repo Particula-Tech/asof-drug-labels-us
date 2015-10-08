@@ -18,7 +18,7 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 In clinical trials with immediate‑release carvedilol, bradycardia was reported in about 2% of hypertensive subjects, 9% of heart failure subjects, and 6.5% of myocardial infarction subjects with left ventricular dysfunction.
 Bradycardia was reported in 0.5% of subjects receiving COREG CR in a trial of heart failure subjects and myocardial infarction subjects with left ventricular dysfunction.
 There were no reports of bradycardia in the clinical trial of COREG CR in hypertension.
-However, if pulse rate drops below 55 beats/minute, the dosage of COREG CR should be reduced.
+However, if pulse rate drops below 55 beats per minute, the dosage of COREG CR should be reduced.
 
 ## 5.3 Hypotension
 
@@ -27,7 +27,7 @@ The risk for these events was highest during the first 30 days of dosing, corres
 In a long‑term, placebo‑controlled trial in severe heart failure (COPERNICUS), hypotension and postural hypotension occurred in 15.1% and syncope in 2.9% of subjects with heart failure receiving carvedilol compared with 8.7% and 2.3% of placebo subjects, respectively.
 These events were a cause for discontinuation of therapy in 1.1% of carvedilol subjects, compared with 0.8% of placebo subjects.
 
-In a trial comparing subjects with heart failure switched to COREG CR or maintained on immediate-release carvedilol, there was a 2-fold increase in the combined incidence of hypotension, syncope, or dizziness in elderly subjects (>65 years) switched from the highest dose of carvedilol (25 mg twice daily) to COREG CR 80 mg once daily [see Dosage and Administration (2), Use in Specific Populations (8.5)].
+In a trial comparing subjects with heart failure switched to COREG CR or maintained on immediate-release carvedilol, there was a 2-fold increase in the combined incidence of hypotension, syncope, or dizziness in elderly subjects (older than 65 years) switched from the highest dose of carvedilol (25 mg twice daily) to COREG CR 80 mg once daily [see Dosage and Administration (2), Use in Specific Populations (8.5)].
 
 In the clinical trial of COREG CR in hypertensive subjects, syncope was reported in 0.3% of subjects receiving COREG CR compared with 0% of subjects receiving placebo.
 There were no reports of postural hypotension in this trial.
@@ -80,7 +80,7 @@ Caution should be exercised in such individuals.
 ## 5.8 Deterioration of Renal Function
 
 Rarely, use of carvedilol in patients with heart failure has resulted in deterioration of renal function.
-Patients at risk appear to be those with low blood pressure (systolic blood pressure <100 mm Hg), ischemic heart disease and diffuse vascular disease, and/or underlying renal insufficiency.
+Patients at risk appear to be those with low blood pressure (systolic blood pressure less than 100 mm Hg), ischemic heart disease and diffuse vascular disease, and/or underlying renal insufficiency.
 Renal function has returned to baseline when carvedilol was stopped.
 In patients with these risk factors it is recommended that renal function be monitored during up‑titration of COREG CR and the drug discontinued or dosage reduced if worsening of renal function occurs.
 
