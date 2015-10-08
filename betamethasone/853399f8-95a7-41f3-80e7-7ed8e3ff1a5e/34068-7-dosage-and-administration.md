@@ -1,11 +1,15 @@
-# DOSAGE AND ADMINISTRATION:
+# 2 DOSAGE AND ADMINISTRATION
 
-Apply a thin film of betamethasone dipropionate ointment USP (augmented) 0.05% to the affected skin once or twice daily.
-Betamethasone dipropionate ointment USP (augmented) 0.05% is a super-high potency topical corticosteroid.
-Treatment with betamethasone dipropionate ointment (augmented) should be limited to 50 g per week.
+Apply a thin film of betamethasone dipropionate ointment USP (augmented), 0.05% to the affected skin areas once or twice daily.
 
-As with other corticosteroids, therapy should be discontinued when control is achieved.
+Therapy should be discontinued when control is achieved.
 If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary.
+Betamethasone dipropionate ointment USP (augmented), 0.05% is a super-high-potency topical corticosteroid.
+Treatment with betamethasone dipropionate ointment (augmented), 0.05% should not exceed 50 g per week because of the potential for the drug to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
 
-Betamethasone dipropionate ointment (augmented) should not be used with occlusive dressings.
-Betamethasone dipropionate ointment (augmented) should not be applied to the diaper area if the patient requires diapers or plastic pants as these garments may constitute occlusive dressing.
+Betamethasone dipropionate ointment USP (augmented), 0.05% should not be used with occlusive dressings unless directed by a physician.
+
+Betamethasone dipropionate ointment USP (augmented), 0.05% is for topical use only.
+It is not for oral, ophthalmic, or intravaginal use.
+
+Avoid use on the face, groin, or axillae, or if skin atrophy is present at the treatment site.

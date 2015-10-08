@@ -1,18 +1,19 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 15 G CONTAINER
+# PRINCIPAL DISPLAY PANEL - 15 g Tube
 
 NDC 0168-0268-15
 
 Fougera®
 
-BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED*), 0.05% (Potency expressed as betamethasone) *Vehicle augments the penetration of the steroid.
+BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED), 0.05%* *Strength expressed as betamethasone
 
 Rx only
 
-FOR DERMATOLOGIC USE ONLY NOT FOR OPHTHALMIC USE
+For topical use only.
+Not for oral, ophthalmic, or intravaginal use.
 
 NET WT 15 grams
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 15 G CARTON
+# PRINCIPAL DISPLAY PANEL - 15 g Carton
 
 NDC 0168-0268-15
 
@@ -20,8 +21,11 @@ Fougera®
 
 Rx only
 
-BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED*), 0.05% (Potency expressed as betamethasone) *Vehicle augments the penetration of the steroid.
+BETAMETHASONE DIPROPIONATE OINTMENT USP (AUGMENTED), 0.05%* *Strength expressed as betamethasone
 
-FOR DERMATOLOGIC USE ONLY NOT FOR OPHTHALMIC USE
+For topical use only.
+Not for oral, ophthalmic, or intravaginal use.
+
+KEEP OUT OF THE REACH OF CHILDREN.
 
 NET WT 15 grams

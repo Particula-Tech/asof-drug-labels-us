@@ -1,8 +1,15 @@
-# ADVERSE REACTIONS:
+# 6 ADVERSE REACTIONS
 
-The local adverse reactions which were reported with betamethasone dipropionate ointment (augmented) during controlled clinical trials were as follows: erythema, folliculitis, pruritus, and vesiculation each occurring in less than 1% of patients.
+## 6.1 Clinical Trials Experience
 
-The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
-These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, miliaria.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
+In controlled clinical trials, adverse reactions associated with the use of betamethasone dipropionate ointment (augmented), 0.05% reported at a frequency of less than 1% included erythema, folliculitis, pruritus, and vesiculation.
+
+## 6.2 Postmarketing Experience
+
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Postmarketing reports for local adverse reactions to topical corticosteroids may also include: skin atrophy, telangiectasias, burning, irritation, dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, striae, and miliaria.
+
+Hypersensitivity reactions, consisting of predominantly skin signs and symptoms, e.g., contact dermatitis, pruritus, bullous dermatitis, and erythematous rash have been reported.

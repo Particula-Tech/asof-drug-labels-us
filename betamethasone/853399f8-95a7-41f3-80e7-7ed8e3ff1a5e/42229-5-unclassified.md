@@ -1,7 +1,3 @@
-(Potency expressed as betamethasone)
+E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
 
-*Vehicle augments the penetration of the steroid.
-
-FOR DERMATOLOGICAL USE ONLY NOT FOR OPHTHALMIC USE
-
-Rx only
+46155249A R08/15 #240

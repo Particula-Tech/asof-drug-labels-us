@@ -1,4 +1,3 @@
-# INDICATIONS AND USAGE:
+# 1 INDICATIONS AND USAGE
 
-Betamethasone dipropionate ointment (augmented) is a super-high potency corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 13 years of age and older.
-The total dose should not exceed 50 g per week because of the potential for the drug to suppress the hypothalmic-pituitary-adrenal (HPA) axis.
+Betamethasone dipropionate ointment USP (augmented), 0.05% is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 13 years of age or older.
