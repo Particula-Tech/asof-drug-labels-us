@@ -4,7 +4,7 @@
 
 NDC 0093-4067-01
 
-PRAZOSIN HYDROCHLORIDE Capsules USP 1 mg*
+Prazosin Hydrochloride Capsules USP 1 mg*
 
 Rx only
 
@@ -18,7 +18,7 @@ TEVA
 
 NDC 0093-4068-01
 
-PRAZOSIN HYDROCHLORIDE Capsules USP 2 mg*
+Prazosin Hydrochloride Capsules USP 2 mg*
 
 Rx only
 
@@ -32,7 +32,7 @@ TEVA
 
 NDC 0093-4069-01
 
-PRAZOSIN HYDROCHLORIDE Capsules USP 5 mg*
+Prazosin Hydrochloride Capsules USP 5 mg*
 
 Rx only
 
