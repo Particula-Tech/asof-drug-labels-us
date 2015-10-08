@@ -23,11 +23,11 @@ GALDERMA LABORATORIES, L.P.
 
 Made in Canada
 
-P51218-0 Rev.: 08/13
+P51218-1
 
 Not for oral, ophthalmic or intravaginal use.
 
-To Open Tube: Push cap in and turn counterclockwise, a quarter of a turn, and remove cap.
+To Open Tube: Push cap in and turn counterclockwise, and remove cap.
 
 Usual Dosage: Apply a pea-sized amount once daily to each of the five areas of the face (forehead, chin, nose, and each cheek) avoiding the eyes and lips.
 See package insert for complete prescribing information.
@@ -35,6 +35,6 @@ See package insert for complete prescribing information.
 Each gram contains the active ingredient brimonidine tartrate 5mg with the inactive ingredients carbomer homoploymer type B, glycerin, methylparaben, phenoxyethanol, propylene glycol, purified water, sodium hydroxide, and titanium dioxide.
 
 Storage: Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F).
-[See USP Controlled Room Temperature]
+[See USP Controlled Room Temperature].
 
 See carton closure for lot number and expiration date.

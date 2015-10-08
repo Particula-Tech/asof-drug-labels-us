@@ -58,4 +58,4 @@ Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, TX 76177 USA
 Made in Canada.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: August 2013
+Issued: October 2014

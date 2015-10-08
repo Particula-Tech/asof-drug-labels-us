@@ -9,6 +9,4 @@ The primary efficacy endpoint in both pivotal trials was 2-grade Composite Succe
 Table 2 presents the efficacy results.
 In addition to Day 29, efficacy was evaluated on Day 15 and Day 1, and the results are presented in Figures 1 and 2 for Studies 1 and 2, respectively.
 
-Figure 1: 2-grade Composite Success by Hour and Day for Study 1
-
-Figure 2: 2-grade Composite Success by Hour and Day for Study 2
+Table 2: Summary of 2-grade Composite Success on Day 29

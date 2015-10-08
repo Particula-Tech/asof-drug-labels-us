@@ -19,14 +19,8 @@ GALDERMA LABORATORIES, L.P.
 
 Fort Worth, Texas 76177 USA
 
-Manufactured by:
-
-G Production Inc.
-
-Baie d’Urfé, QC, H9X 3S4 Canada
-
 Made in Canada.
 
 GALDERMA and MIRVASO are registered trademarks.
 
-P51217-0
+P51217-1

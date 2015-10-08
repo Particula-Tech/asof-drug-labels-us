@@ -7,22 +7,7 @@ A total of 833 subjects were treated for persistent (nontransient) erythema asso
 
 Adverse reactions that occurred in at least 1% of subjects treated with MIRVASO topical gel once daily for 29 days and for which the rate for MIRVASO topical gel exceeded the rate for vehicle are presented in Table 1.
 
-Table 1 - Adverse Reactions Reported in Clinical Trials by At Least 1% of Subjects Treated for 29 Days
-
-| Preferred Term | MIRVASO Topical Gel(N=330)n (%) | Vehicle Gel (N=331)n (%) |
-| --- | --- | --- |
-| Subjects with at least one adverse reaction, Number (%) of Subjects | 109 (33) | 91 (28) |
-| Erythema | 12 (4%) | 3 (1%) |
-| Flushing | 9 (3%) | 0 |
-| Skin burning sensation | 5 (2%) | 2 (1%) |
-| Dermatitis contact | 3 (1%) | 1 (<1%) |
-| Dermatitis | 3 (1%) | 1 (<1%) |
-| Skin warm | 3 (1%) | 0 |
-| Paraesthesia | 2 (1%) | 1 (<1%) |
-| Acne | 2 (1%) | 1 (<1%) |
-| Pain of skin | 2 (1%) | 0 |
-| Vision blurred | 2 (1%) | 0 |
-| Nasal congestion | 2 (1%) | 0 |
+Table 1 - Adverse Reactions Reported in Clinical Trials by at Least 1% of Subjects Treated for 29 Days
 
 Open-label, Long-term Study
 

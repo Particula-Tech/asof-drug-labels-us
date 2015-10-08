@@ -20,7 +20,6 @@ Keep MIRVASO topical gel out of reach of children.
 ## 5.4 Erythema and Flushing
 
 Some subjects in the clinical trials discontinued use of MIRVASO topical gel because of erythema or flushing.
-
 The effect of MIRVASO topical gel may begin to diminish hours after application.
 For some subjects in the clinical trials, erythema was reported to return worse compared to the severity at baseline [see Adverse Reactions (6)].
 

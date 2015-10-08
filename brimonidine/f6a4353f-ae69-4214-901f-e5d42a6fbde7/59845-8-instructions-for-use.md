@@ -17,7 +17,7 @@ Get medical help right away if you, a child, or anyone else swallows MIRVASO top
 Read and follow the steps below so that you use MIRVASO topical gel correctly:
 
 1.
-Open the tube of MIRVASO topical gel by gently pressing down on the child resistant cap and twist in the direction of the arrow as shown below, a quarter of a turn (counterclockwise).
+Open the tube of MIRVASO topical gel by gently pressing down on the child resistant cap and twist in the direction of the arrow as shown below (counterclockwise).
 See Figures A and B. To avoid spilling, do not squeeze the tube while opening or closing.
 
 Figure A
@@ -38,13 +38,10 @@ Avoid contact with your eyes and lips.
 Do not apply MIRVASO topical gel to irritated skin or open wounds.
 
 4.
-To close MIRVASO topical gel, line up the grooves on the cap and the tube.
-Gently press down on the child resistant cap and twist to the right, a quarter of a turn (clockwise).
-See Figures D and E.
+To close MIRVASO topical gel, gently press down on the child resistant cap and twist to the right (clockwise).
+See Figure D.
 
 Figure D
-
-Figure E
 
 5.
 Wash your hands right away after applying MIRVASO topical gel.
@@ -61,4 +58,4 @@ Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, TX 76177 USA
 
 Made in Canada.
 
-Issued: August 2013
+Issued: October 2014
