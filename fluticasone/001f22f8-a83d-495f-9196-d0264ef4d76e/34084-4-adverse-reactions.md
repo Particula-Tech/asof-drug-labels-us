@@ -18,7 +18,7 @@ The incidence of common adverse reactions in Table 2 is based upon 7 placebo-con
 Table 2.
 Adverse Reactions With FLOVENT DISKUS With >3% Incidence and More Common Than Placebo in Subjects With Asthma
 
-| Adverse Event | FLOVENT DISKUS 50 mcg Twice Daily(n = 178)% | FLOVENT DISKUS 100 mcg Twice Daily(n = 305)% | FLOVENT DISKUS 250 mcg Twice Daily(n = 86)% | FLOVENT DISKUS 500 mcg Twice Daily(n = 64)% | Placebo(n = 543)% |
+| Adverse Event | FLOVENT DISKUS 50 mcgTwice Daily(n = 178)% | FLOVENT DISKUS 100 mcg Twice Daily(n = 305)% | FLOVENT DISKUS 250 mcgTwice Daily(n = 86)% | FLOVENT DISKUS 500 mcgTwice Daily(n = 64)% | Placebo(n = 543)% |
 | --- | --- | --- | --- | --- | --- |
 | Ear, nose, and throat |  |  |  |  |  |
 | Upper respiratory tract infection | 20 | 18 | 21 | 14 | 16 |

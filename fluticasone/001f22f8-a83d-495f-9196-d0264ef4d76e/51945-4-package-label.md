@@ -10,14 +10,20 @@ FOR ORAL INHALATION ONLY
 
 Each blister contains 50 mcg of fluticasone propionate with lactose.
 
+Attention: Dispense with enclosed Patient Information leaflet.
+
+See prescribing information for dosage information.
+
 Rx only
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2013, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000119113 Rev.
-8/13
+- 10000000126837 Rev.
+  9/14
+
+# Click here to enter text.
 
 PRINCIPAL DISPLAY PANEL
 
@@ -31,14 +37,18 @@ FOR ORAL INHALATION ONLY
 
 Each blister contains 100 mcg of fluticasone propionate with lactose.
 
+Attention: Dispense with enclosed Patient Information leaflet.
+
+See prescribing information for dosage information.
+
 Rx only
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2013, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000119114 Rev.
-8/13
+- 10000000126839 Rev.
+  9/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -52,11 +62,15 @@ FOR ORAL INHALATION ONLY
 
 Each blister contains 250 mcg of fluticasone propionate with lactose.
 
+Attention: Dispense with enclosed Patient Information leaflet.
+
+See prescribing information for dosage information.
+
 Rx only
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-©2013, GlaxoSmithKline
+©2014, the GSK group of companies
 
-10000000119115 Rev.
-8/13
+- 10000000126841 Rev.
+  9/14

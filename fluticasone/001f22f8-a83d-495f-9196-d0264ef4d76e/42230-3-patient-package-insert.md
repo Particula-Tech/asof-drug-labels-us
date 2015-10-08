@@ -99,7 +99,6 @@ FLOVENT DISKUS can cause serious side effects, including:
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT DISKUS).
   When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.
-
 - Symptoms of adrenal insufficiency include:
   1. •feeling tired
   2. •lack of energy
@@ -201,7 +200,7 @@ Open your FLOVENT DISKUS.
 - Step 2.
   Slide the lever until you hear it click.
 
-- •Hold the Diskus in a level, flat position with the mouthpiece towards you.
+- •Hold the DISKUS in a level, flat position with the mouthpiece towards you.
   Slide the lever away from the mouthpiece as far as it will go until it clicks.
   See Figure C.
 
@@ -209,16 +208,12 @@ Open your FLOVENT DISKUS.
 
 - •The number on the counter will count down by 1.
   The DISKUS is now ready to use.
-
 - Follow the instructions below so you will not accidentally waste a dose:
-
 - •Do not close the DISKUS.
 - •Do not tilt the DISKUS.
 - •Do not move the lever on the DISKUS.
-
 - Step 3.
   Inhale your medicine.
-
 - •Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
   See Figure D. Do not breathe into the mouthpiece.
 
@@ -398,19 +393,18 @@ FLOVENT DISKUS can cause serious side effects, including:
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT DISKUS).
   When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.
-
 - Symptoms of adrenal insufficiency include:
-  1. •feeling tired
-  2. •lack of energy
-  3. •weakness
-  4. •nausea and vomiting
-  5. •low blood pressure
+  1. 1.feeling tired
+  2. 2.lack of energy
+  3. 3.weakness
+  4. 4.nausea and vomiting
+  5. 5.low blood pressure
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - •rash
-  - •hives
-  - •swelling of your face, mouth, and tongue
-  - •breathing problems
+  - 6.rash
+  - 7.hives
+  - 8.swelling of your face, mouth, and tongue
+  - 9.breathing problems
 - •bone thinning or weakness (osteoporosis)
 - •slowed growth in children.
   A child’s growth should be checked often.
@@ -480,8 +474,8 @@ Read this information before you start using your FLOVENT DISKUS inhaler:
 - •Write the date you opened the foil pouch in the first blank line on the label.
   See Figure A.
 - •Write the “use by” date in the second blank line on the label.
-  See Figure A. If you are using FLOVENT DISKUS 50 mcg, that date is 6 weeks after the date you wrote on the first line.
-  If you are using FLOVENT DISKUS 100 mcg or 250 mcg, that date is 2 months after the date you wrote on the first line.
+  See Figure A. If you are using FLOVENT DISKUS 50 mcg, that date is 6 weeks after the date you wrote in the first line.
+  If you are using FLOVENT DISKUS 100 mcg or 250 mcg, that date is 2 months after the date you wrote in the first line.
 - •The counter should read 60.
   If you have a sample (with “Sample” on the back label) or institutional (with “INSTITUTIONAL PACK” on the foil pouch) pack, the counter should read 28.
 
@@ -508,16 +502,12 @@ Open your FLOVENT DISKUS.
 
 - •The number on the counter will count down by 1.
   The DISKUS is now ready to use.
-
 - Follow the instructions below so you will not accidentally waste a dose:
-
 - •Do not close the DISKUS.
 - •Do not tilt the DISKUS.
 - •Do not move the lever on the DISKUS.
-
 - Step 3.
   Inhale your medicine.
-
 - •Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
   See Figure D. Do not breathe into the mouthpiece.
 
@@ -532,7 +522,7 @@ Open your FLOVENT DISKUS.
 - •Remove the DISKUS from your mouth and hold your breath for about 10 seconds, or for as long as is comfortable for you.
 - •Breathe out slowly as long as you can.
   See Figure D.
-- •If your healthcare provider has told you to take more than 1 inhalation of FLOVENT DISKUS, repeat steps 2 and 3.
+- •If your healthcare provider has told you to take more than 1 inhalation of FLOVENT DISKUS, repeat Steps 2 and 3.
 - •The DISKUS delivers your dose of medicine as a very fine powder that you may or may not taste or feel.
   Do not take an extra dose from the DISKUS even if you do not taste or feel the medicine.
 
@@ -545,7 +535,7 @@ Close the DISKUS.
 - Figure F
 
 - •The DISKUS is now ready for you to take your next scheduled dose in about 12 hours.
-  When you are ready to take your next dose, repeat steps 1 through 4.
+  When you are ready to take your next dose, repeat Steps 1 through 4.
 
 Step 5.
 Rinse your mouth.
