@@ -2,14 +2,14 @@
 
 ## 7.1 Effect of Dolutegravir on the Pharmacokinetics of Other Agents
 
-In vitro, dolutegravir inhibited the renal organic cation transporters, OCT2 (IC50 = 1.93 µM) and multidrug and toxin extrusion transporter (MATE) 1 (IC50 = 6.34 µM).
+In vitro, dolutegravir inhibited the renal organic cation transporters, OCT2 (IC50 = 1.93 microM) and multidrug and toxin extrusion transporter (MATE) 1 (IC50 = 6.34 microM).
 In vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.
 Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 (dofetilide and metformin) [see Contraindications (4), Drug Interactions (7.3)].
 
-In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT) 1 (IC50 = 2.12 µM) and OAT3 (IC50 = 1.97 µM).
+In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT) 1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
 
-In vitro, dolutegravir did not inhibit (IC50 greater than 50 µM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, or multidrug resistance protein (MRP)2, or MRP4.
+In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, or multidrug resistance protein (MRP)2, or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
@@ -58,14 +58,7 @@ Established and Other Potentially Significant Drug Interactions for Dolutegravir
 
 aSee Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction.
 
-Ethanol
-
-Abacavir: Abacavir has no effect on the pharmacokinetic properties of ethanol.
-Ethanol decreases the elimination of abacavir causing an increase in overall exposure [see Clinical Pharmacology (12.3)].
-
 Methadone
 
-Abacavir: The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
-In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
+Abacavir: In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
-The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir.

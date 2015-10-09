@@ -61,7 +61,7 @@ In general, caution should be exercised in the administration of TRIUMEQ in elde
 
 ## 8.6 Patients with Impaired Renal Function
 
-TRIUMEQ is not recommended for patients with impaired renal function (creatinine clearance less than 50 mL per min) because TRIUMEQ is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
+TRIUMEQ is not recommended for patients with creatinine clearance less than 50 mL per min because TRIUMEQ is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
 If a dose reduction of lamivudine, a component of TRIUMEQ, is required for patients with creatinine clearance less than 50 mL per min, then the individual components should be used [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Impaired Hepatic Function
@@ -69,4 +69,4 @@ If a dose reduction of lamivudine, a component of TRIUMEQ, is required for patie
 TRIUMEQ is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
 If a dose reduction of abacavir, a component of TRIUMEQ, is required for patients with mild hepatic impairment (Child-Pugh Score A), then the individual components should be used [see Clinical Pharmacology (12.3)].
 
-The safety, efficacy, and pharmacokinetic properties of abacavir have not been established in patients with moderate (Child-Pugh Score B) or severe (Child-Pugh Score C) hepatic impairment; therefore, TRIUMEQ is contraindicated in these patients.
+The safety, efficacy, and pharmacokinetic properties of abacavir have not been established in patients with moderate (Child-Pugh Score B) or severe (Child-Pugh Score C) hepatic impairment; therefore, TRIUMEQ is contraindicated in these patients [see Contraindications (4)].

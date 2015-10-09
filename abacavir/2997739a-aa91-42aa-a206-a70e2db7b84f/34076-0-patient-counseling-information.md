@@ -12,10 +12,10 @@ Hypersensitivity Reaction
 Inform patients:
 
 - •that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of TRIUMEQ, and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about TRIUMEQ.
-  (The complete text of the Medication Guide is reprinted at the end of this document.)
+  The complete text of the Medication Guide is reprinted at the end of this document.
 - •to carry the Warning Card with them.
 - •how to identify a hypersensitivity reaction [see Warnings and Precautions (5.1), Medication Guide].
-- •that if they develop symptoms consistent with a hypersensitivity reaction they should call their doctor right away to determine if they should stop taking TRIUMEQ.
+- •that if they develop symptoms consistent with a hypersensitivity reaction they should call their healthcare provider right away to determine if they should stop taking TRIUMEQ.
 - •that a hypersensitivity reaction can worsen and lead to hospitalization or death if TRIUMEQ is not immediately discontinued.
 - •to not restart TRIUMEQ or any other abacavir-containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life‑threatening hypotension and death.
 - •that a hypersensitivity reaction is usually reversible if it is detected promptly and TRIUMEQ is stopped right away.
@@ -23,11 +23,13 @@ Inform patients:
 - •to not restart TRIUMEQ or any other abacavir‑containing product without medical consultation and only if medical care can be readily accessed by the patient or others.
 - •to not restart TRIUMEQ or any other dolutegravir-containing product following a hypersensitivity reaction to TRIUMEQ.
 
-Inform patients that they should not take TRIUMEQ with ATRIPLA, COMBIVIR®, COMPLERA®, EMTRIVA®, EPIVIR, EPIVIR‑HBV®, EPZICOM, STRIBILD®, TRIZIVIR, TRUVADA®, or ZIAGEN.
+Related Products that are Not Recommended
+
+Inform patients that they should not take TRIUMEQ with ATRIPLA, COMBIVIR®, COMPLERA®, DUTREBIS™, EMTRIVA®, EPIVIR, EPIVIR‑HBV, EPZICOM, STRIBILD®, TRIZIVIR, TRUVADA®, or ZIAGEN.
 
 Lactic Acidosis/Hepatomegaly
 
-Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Warnings and Precautions (5.2)].
+Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.2)].
 
 Patients with Hepatitis B or C Co-infection
 
@@ -48,7 +50,7 @@ Redistribution/Accumulation of Body Fat
 
 Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.6)].
 
-Information About HIV‑1 Infection
+Information about HIV‑1 Infection
 
 TRIUMEQ is not a cure for HIV‑1 infection and patients may continue to experience illnesses associated with HIV‑1 infection, including opportunistic infections.
 Patients must remain on continuous HIV therapy to control HIV‑1infection and decrease HIV-related illness.
@@ -104,7 +106,7 @@ Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-©2015, the ViiV Healthcare group of companies.
+©2015 the ViiV Healthcare group of companies.
 All rights reserved.
 
-TRM:2PI
+TRM:3PI

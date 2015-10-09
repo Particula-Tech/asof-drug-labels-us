@@ -8,7 +8,7 @@ Each film-coated tablet contains abacavir sulfate equivalent to 600 mg of abacav
 TRIUMEQ tablets are purple, biconvex, oval, debossed with “572 Trı” on one side and contain the inactive ingredients D-mannitol, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 The tablet film-coating (OPADRY® II Purple 85F90057) contains the inactive ingredients iron oxide black, iron oxide red, macrogol/PEG, polyvinyl alcohol-part hydrolyzed, talc, and titanium oxide.
 
-Abacavir
+Abacavir Sulfate
 
 The chemical name of abacavir sulfate is (1S,cis)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopentene-1-methanol sulfate (salt) (2:1).
 It has a molecular formula of (C14H18N6O)2•H2SO4 and a molecular weight of 670.76 g per mol.

@@ -10,9 +10,9 @@ Treatment-naïve Subjects
 
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir disoproxil fumarate (ATRIPLA).
 At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV‑1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
-Week 96 outcomes for SINGLE are provided in Table 11.
+Week 96 outcomes for SINGLE are provided in Table 10.
 
-Table 11.
+Table 10.
 Virologic Outcomes of Randomized Treatment in SINGLE at 96 Weeks (Snapshot Algorithm)
 
 |  | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
@@ -44,7 +44,7 @@ c Includes subjects who discontinued due to an adverse event or death at any tim
 
 d Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
 
-e The proportion of subjects who had no virologic data due to reasons such as withdrew consent, lost to follow-up, moved, and protocol deviation was 10% (TIVICAY + EPZICOM) and 6% (ATRIPLA) in the greater than 100,000–copies-per-mL group and 8% and 9% (respectively) in the less than or equal to 100,000–copies-per-mL group.
+e The proportion of subjects who had no virologic data due to reasons such as withdrew consent, lost to follow-up, moved, and protocol deviation was 10% (TIVICAY + EPZICOM) and 6% (ATRIPLA) in the greater than 100,000–copies-per- mL group and 8% and 9% (respectively) in the less than or equal to 100,000–copies-per-mL group.
 
 Treatment differences were maintained across baseline characteristics including CD4+ cell count, age, gender, and race.
 The adjusted mean changes in CD4+ cell counts from baseline were 325 cells per mm3 in the group receiving TIVICAY + EPZICOM and 281 cells per mm3 for the ATRIPLA group at 96 weeks.

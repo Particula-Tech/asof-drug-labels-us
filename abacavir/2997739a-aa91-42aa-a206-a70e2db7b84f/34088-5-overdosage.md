@@ -14,4 +14,3 @@ It is not known whether abacavir can be removed by peritoneal dialysis or hemodi
 Lamivudine
 
 Because a negligible amount of lamivudine was removed via (4-hour) hemodialysis, continuous ambulatory peritoneal dialysis, and automated peritoneal dialysis, it is not known if continuous hemodialysis would provide clinical benefit in a lamivudine overdose event.
-If overdose occurs, the patient should be monitored, and standard supportive treatment applied as required.

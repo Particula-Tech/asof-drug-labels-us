@@ -28,11 +28,7 @@ Rx only
 
 30 Tablets
 
-Made in UK
+©2015, the ViiV Healthcare group of companies.
 
-TRIUMEQ is a registered trademark of the ViiV Healthcare group of companies.
-
-©2014, the ViiV Healthcare group of companies.
-
-10000000118541 Rev.
-8/14
+- 10000000135301 Rev.
+  8/15

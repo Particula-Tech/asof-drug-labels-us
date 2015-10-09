@@ -81,40 +81,9 @@ With a high-fat meal, the Cmax of abacavir decreased 23% and the Cmax and AUC of
 
 Special Populations
 
-Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated.
+Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir and lamivudine components).
 
-Abacavir: The pharmacokinetic properties of abacavir have not been determined in patients with impaired renal function.
-
-Dolutegravir: In a trial comparing 8 subjects with severe renal impairment (CrCl less than 30 mL per min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were decreased by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
-The cause of this decrease is unknown.
-Population pharmacokinetic analysis indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
-
-Lamivudine: The pharmacokinetic properties of lamivudine have been determined in a small group of HIV-1-infected adults with impaired renal function (Table 7).
-
-Table 7.
-Pharmacokinetic Parameters (Mean ± SD) After a Single 300-mg Oral Dose of Lamivudine in 3 Groups of Adults with Varying Degrees of Renal Function
-
-| Parameter | Creatinine Clearance Criterion (Number of Subjects) |  |  |
-| --- | --- | --- | --- |
-| >60 mL/min (n = 6) | 10-30 mL/min (n = 4) | <10 mL/min (n = 6) |  |
-| Creatinine clearance (mL/min) | 111 ± 14 | 28 ± 8 | 6 ± 2 |
-| Cmax (mcg/mL) | 2.6 ± 0.5 | 3.6 ± 0.8 | 5.8 ± 1.2 |
-| AUC∞ (mcg•h/mL) | 11.0 ± 1.7 | 48.0 ± 19 | 157 ± 74 |
-| Cl/F (mL/min) | 464 ± 76 | 114 ± 34 | 36 ± 11 |
-
-Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated.
-
-Abacavir: The pharmacokinetics of abacavir have been studied in subjects with mild hepatic impairment (Child-Pugh score 5 to 6).
-Results showed that there was a mean increase of 89% in the abacavir AUC and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
-The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased.
-The safety, efficacy, and pharmacokinetics of abacavir have not been studied in patients with moderate or severe hepatic impairment.
-
-Dolutegravir: In a trial comparing 8 subjects with moderate hepatic impairment (Child-Pugh Score B) with 8 matched healthy controls, exposure of dolutegravir from a single 50-mg dose was similar between the 2 groups.
-The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokinetics of dolutegravir has not been studied.
-
-Lamivudine: The pharmacokinetic properties of lamivudine have been determined in adults with impaired hepatic function.
-Pharmacokinetic parameters were not altered by diminishing hepatic function.
-Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
+Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir and lamivudine components).
 
 Pediatric Patients: The pharmacokinetics of the combination of abacavir, dolutegravir, and lamivudine in pediatric subjects have not been established.
 
@@ -132,7 +101,7 @@ No clinically significant drug interactions are expected between dolutegravir, a
 
 Dosing recommendations as a result of established and other potentially significant drug-drug interactions with dolutegravir or abacavir are provided in Section 7.3 [see Drug Interactions (7)].
 
-Table 8.
+Table 7.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 
 | Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
@@ -149,7 +118,7 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 
 a The number of subjects represents the maximum number of subjects that were evaluated.
 
-Table 9.
+Table 8.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
 
 | Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |
@@ -169,7 +138,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
 | Antacid (Maalox®) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
 | Antacid (Maalox®) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
-| Boceprevir 800 mg every 8 hours | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
+| Boceprevir 800 mg every 8 h | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
 | Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
@@ -192,9 +161,13 @@ c The number of subjects represents the maximum number of subjects that were eva
 
 Abacavir or Lamivudine: The drug interactions described are based on trials conducted with abacavir or lamivudine as single entities.
 
-Interferon Alfa:There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
+Ethanol: Abacavir has no effect on the pharmacokinetic properties of ethanol.
+Ethanol decreases the elimination of abacavir causing an increase in overall exposure.
+
+Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 
 Methadone: In a trial of 11 HIV‑1‑infected subjects receiving methadone-maintenance therapy (40 mg and 90 mg daily), with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%) [see Drug Interactions (7.3)].
+The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.4)].
@@ -205,9 +178,9 @@ Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 1
 
 Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 h).
 
-The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 10.
+The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 9.
 
-Table 10.
+Table 9.
 Effect of Coadministered Drugs on Abacavir or Lamivudine
 
 | Coadministered Drug and Dose | Drug and Dose | n | Concentrations of Abacavir or Lamivudine |  | Concentration of Coadministered Drug |
@@ -244,14 +217,15 @@ Dolutegravir demonstrated antiviral activity in cell culture against a panel of 
 Dolutegravir EC50 values against three HIV-2 clinical isolates in PBMC assays ranged from 0.09 nM to 0.61 nM.
 
 Abacavir: The antiviral activity of abacavir against HIV-1 was assessed in a number of cell lines including in primary monocytes/macrophages and PBMCs.
-EC50 values ranged from 3.7 to 5.8 μM (1 μM = 0.28 mcg per mL) and 0.07 to 1.0 μM against HIV-1IIIB and HIV-1BaL, respectively, and was 0.26 ± 0.18 μM against 8 clinical isolates.
+EC50 values ranged from 3.7 to 5.8 microM (1 microM = 0.28 mcg per mL) and 0.07 to 1.0 microM against HIV-1IIIB and HIV-1BaL, respectively, and the mean EC50 value was 0.26 ± 0.18 microM against 8 clinical isolates.
 The median EC50 values of abacavir were 344 nM (range: 14.8 to 676 nM), 16.9 nM (range: 5.9 to 27.9 nM), 8.1 nM (range: 1.5 to 16.7 nM), 356 nM (range: 35.7 to 396 nM), 105 nM (range: 28.1 to 168 nM), 47.6 nM (range: 5.2 to 200 nM), 51.4 nM (range: 7.1 to 177 nM), and 282 nM (range: 22.4 to 598 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B), respectively.
-The EC50 values against HIV‑2 isolates (n = 4), ranged from 0.024 to 0.49 μM.
+The EC50 values against HIV‑2 isolates (n = 4), ranged from 0.024 to 0.49 microM.
 
 Lamivudine: The antiviral activity of lamivudine against HIV-1 was assessed in a number of cell lines including monocytes and PBMCs using standard susceptibility assays.
-EC50 values were in the range of 0.003 to 15 μM (1 μM = 0.23 mcg per mL).
+EC50 values were in the range of 0.003 to 15 microM (1 microM = 0.23 mcg per mL).
 The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B) respectively.
-The EC50 values against HIV‑2 isolates (n = 4) from 0.003 to 0.120 μM in PBMCs.
+The EC50 values against HIV‑2 isolates (n = 4) from 0.003 to 0.120 microM in PBMCs.
+Ribavirin (50 microM) used in the treatment of chronic HCV infection decreased the anti-HIV-1 activity of lamivudine by 3.5-fold in MT-4 cells.
 
 Antiviral Activity in Combination with Other Antiviral Agents
 
@@ -263,9 +237,9 @@ Resistance in Cell Culture
 Dolutegravir: Dolutegravir-resistant viruses were selected in cell culture starting from different wild-type HIV‑1 strains and clades.
 Amino acid substitutions E92Q, G118R, S153F or Y, G193E or R263K emerged in different passages and conferred decreased susceptibility to dolutegravir of up to 4-fold.
 
-Abacavir and Lamivudine: HIV-1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture with amino acid substitutions M184V/I, K65R, L74V, and Y115F in HIV-1 RT.
-Substitution at M184I or V causes high-level resistance to lamivudine and approximately 2-fold decreased susceptibility to abacavir.
-Substitutions K65R, L74M, or Y115F with M184I or V conferred a 7- fold to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
+Abacavir and Lamivudine: HIV-1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture with amino acid substitutions K65R, L74V, Y115F, and M184V/I in HIV-1 RT.
+M184V or I substitutions resulted in high-level resistance to lamivudine and approximately 2-fold decrease in susceptibility to abacavir.
+Substitutions K65R, L74M, or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
 
 Resistance in Clinical Subjects
 
@@ -280,5 +254,5 @@ Combinations of multiple substitutions T66K/L74M, E92Q/N155H, G140C/Q148R, G140S
 In HIV-2 mutants, combinations of substitutions A153G/N155H/S163G and E92Q/T97A/N155H/S163D conferred 4-fold decreases in dolutegravir susceptibility, and E92Q/N155H and G140S/Q148R showed 8.5-fold and 17-fold decreases in dolutegravir susceptibility, respectively.
 
 Abacavir and Lamivudine: Cross‑resistance has been observed among NRTIs.
-The combination of abacavir/lamivudine has demonstrated decreased susceptibility to viruses with the substitutions K65R with or without the M184V/I substitution, viruses with L74V plus the M184V/I substitution, and viruses with thymidine analog mutations (TAMs: M41L, D67N, K70R, L210W, T215Y/F, K219 E/R/H/Q/N) plus M184V.
+The combination of abacavir/lamivudine has demonstrated decreased susceptibility to viruses with a K65R substitution with or without an M184V/I substitution, viruses with L74V plus the M184V/I substitution, and viruses with thymidine analog mutation (TAM) substitutions (M41L, D67N, K70R, L210W, T215Y/F, K219 E/R/H/Q/N) plus M184V.
 An increasing number of TAMs is associated with a progressive reduction in abacavir susceptibility.

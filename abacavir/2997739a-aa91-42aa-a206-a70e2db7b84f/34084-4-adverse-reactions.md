@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in other sections of the labeling:
 
 - •Serious and sometimes fatal hypersensitivity reaction [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Lactic acidosis and severe hepatomegaly [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.2)].
 - •Effects on serum liver biochemistries in patients with hepatitis B or C co-infection [see Warnings and Precautions (5.3)].
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3)].
 - •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.4)].
@@ -15,12 +15,29 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Treatment-emergent Adverse Drug Reactions (ADRs)
+Serious and Fatal Abacavir-associated Hypersensitivity Reactions
+
+In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir, a component of TRIUMEQ [see Boxed Warning, Warnings and Precautions (5.1)].
+These reactions have been characterized by 2 or more of the following signs or symptoms: (1) fever; (2) rash; (3) gastrointestinal symptoms (including nausea, vomiting, diarrhea, or abdominal pain); (4) constitutional symptoms (including generalized malaise, fatigue, or achiness); (5) respiratory symptoms (including dyspnea, cough, or pharyngitis).
+Almost all abacavir hypersensitivity reactions include fever and/or rash as part of the syndrome.
+
+Other signs and symptoms have included lethargy, headache, myalgia, edema, arthralgia, and paresthesia.
+Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, myolysis, and death have occurred in association with these hypersensitivity reactions.
+Physical findings have included lymphadenopathy, mucous membrane lesions (conjunctivitis and mouth ulcerations), and maculopapular or urticarial rash (although some patients had other types of rashes and others did not have a rash).
+There were reports of erythema multiforme.
+Laboratory abnormalities included elevated liver chemistries, elevated creatine phosphokinase, elevated creatinine, and lymphopenia and abnormal chest x‑ray findings (predominantly infiltrates, which were localized).
+
+Serious Dolutegravir Hypersensitivity Reactions
+
+In clinical trials, hypersensitivity reactions have occurred with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.1)].
+These hypersensitivity reactions have been characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury.
+
+Additional Treatment-emergent Adverse Drug Reactions (ADRs) with Use of TRIUMEQ
 
 The safety assessment of TRIUMEQ is primarily based on the analyses of data from a randomized, international, multicenter, double-blind, active-controlled trial, SINGLE (ING114467) and supported by data in treatment-experienced, INSTI-naïve subjects from SAILING (ING111762) and by data from other treatment-naïve trials.
 See full prescribing information for TIVICAY.
 
-Treatment-naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir sulfate and lamivudine (EPZICOM®) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (n = 419).
+Treatment-naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir and lamivudine (EPZICOM®) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (n = 419).
 Through 96 weeks, the rate of adverse events leading to discontinuation was 3% in subjects receiving TIVICAY + EPZICOM and 12% in subjects receiving ATRIPLA once daily.
 
 Treatment-emergent ADRs of moderate to severe intensity observed in at least 2% of subjects in either treatment arm of SINGLE are provided in Table 2.
@@ -140,7 +157,7 @@ Increases in serum creatinine occurred within the first 4 weeks of treatment and
 In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.32 mg per dL to 0.59 mg per dL) was observed after 96 weeks of treatment.
 Creatinine increases were similar in treatment-experienced subjects.
 
-Abacavir Sulfate and Lamivudine
+Abacavir and Lamivudine
 
 Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides.
 Additional laboratory abnormalities observed in clinical trials of EPIVIR (in combination with other antiretroviral treatment) were thrombocytopenia and elevated levels of bilirubin, amylase, and lipase.
@@ -160,7 +177,7 @@ General: Weakness.
 
 Blood and Lymphatic Systems: Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
 
-Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria.
+Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 
 Metabolism and Nutrition Disorders: Hyperlactemia.
 
@@ -172,4 +189,4 @@ Respiratory: Abnormal breath sounds/wheezing.
 
 Skin: Alopecia, erythema multiforme.
 Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
-Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases.
+Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases [see Adverse Reactions (6.1)].
