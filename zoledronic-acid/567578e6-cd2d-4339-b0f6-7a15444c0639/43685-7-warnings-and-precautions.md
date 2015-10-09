@@ -32,6 +32,8 @@ Limited pharmacokinetic data exists in patients with creatinine clearance less t
 
 Osteonecrosis of the jaw (ONJ) has been reported predominantly in cancer patients treated with intravenous bisphosphonates, including Zoledronic Acid Injection.
 Many of these patients were also receiving chemotherapy and corticosteroids which may be risk factors for ONJ.
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
+
 Postmarketing experience and the literature suggest a greater frequency of reports of ONJ based on tumor type (advanced breast cancer, multiple myeloma), and dental status (dental extraction, periodontal disease, local trauma including poorly fitting dentures).
 Many reports of ONJ involved patients with signs of local infection including osteomyelitis.
 

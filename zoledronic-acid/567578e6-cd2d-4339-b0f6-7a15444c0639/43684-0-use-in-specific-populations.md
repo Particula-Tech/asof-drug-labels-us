@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.9)]
+Pregnancy Category D[see Warnings and Precautions (5.9)]
 
 There are no adequate and well-controlled studies of Zoledronic Acid Injection in pregnant women.
 Zoledronic Acid Injection may cause fetal harm when administered to a pregnant woman.
