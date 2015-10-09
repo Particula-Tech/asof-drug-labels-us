@@ -2,8 +2,7 @@
   "application_numbers": [
     "NDA019655",
     "NDA019910",
-    "NDA019951",
-    "NDA020518"
+    "NDA019951"
   ],
   "inn": "zidovudine",
   "labeler": "ViiV Healthcare Company",
@@ -11,8 +10,7 @@
     "49702-211-20",
     "49702-212-48",
     "49702-213-01",
-    "49702-213-05",
-    "49702-214-18"
+    "49702-213-05"
   ],
   "products": [
     {
@@ -27,11 +25,6 @@
     },
     {
       "form": "SYRUP",
-      "generic": "zidovudine",
-      "name": "RETROVIR"
-    },
-    {
-      "form": "TABLET, FILM COATED",
       "generic": "zidovudine",
       "name": "RETROVIR"
     }

@@ -95,12 +95,6 @@ SYRUP
 
 Rx only
 
-Contains sodium benzoate 0.2% added as a preservative.
-
-See prescribing information for dosage information.
-
-Store at 15o to 25oC (59o to 77oF).
-
 Manufactured for:
 
 ViiV Healthcare
@@ -109,28 +103,36 @@ Research Triangle Park, NC 27709
 
 by:
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
 
 Made in Canada
 
-Rev.
-5/12
+Do not use if shrinkband on bottle is broken or missing.
 
-A101265
+Contains sodium benzoate 0.2% added as a preservative.
 
-# Click here to enter text.
+©2015, the ViiV Healtchare group of companies
+
+- A135225 Rev.
+  7/15
 
 PRINCIPAL DISPLAY PANEL
 
-NDC 49702-213-01
+NDC 49702-213-05
 
 RETROVIR®
 
 (zidovudine)
 
-IV INFUSION STERILE
+INJECTION
 
-20-mL Single-Use Vial
+10 Single-Use Vials
+
+20 mL each
+
+10 mg/mL
 
 200 mg/20 mL (10 mg/mL)
 
@@ -140,16 +142,13 @@ Rx only
 
 Contains no preservative.
 The vial stopper of this product contains dry natural rubber.
+
 The vehicle contains Water for Injection, qs.
 Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.
-See prescribing information for dosage information.
-Store at 15o to 25oC (59o to 77oF) and protect from light.
-
-Manufactured for: ViiV Healthcare, RTP, NC 27709
-
-RETROVIR is a registered trademark
 
 Made in India
 
-10000000122843 Rev.
-11/13
+©2015, the ViiV Healtchare group of companies
+
+- 10000000132676 Rev.
+  3/15
