@@ -2,25 +2,24 @@
 
 ## 2.1 Overview
 
-- •REYATAZ capsules and oral powder must be taken with food.
+- •REYATAZ capsules and oral powdermust be taken with food.
 - •Do not open the capsules.
 - •The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
   When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.2, 2.3, 2.4, 2.5) and Drug Interactions (7)].
 - •REYATAZ capsules without ritonavir are not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
-- •REYATAZ oral powder must be taken with ritonavir and is not recommended for use in children who weigh less than 10 kg or who weigh 25 kg or more.
-  [See Dosage and Administration (2.4).]
+- •REYATAZ oral powder must be taken with ritonavir and is not recommended for use in children who weigh less than 5 kg [see Dosage and Administration (2.4)].
 - •Efficacy and safety of REYATAZ with ritonavir when ritonavir is administered in doses greater than 100 mg once daily have not been established.
   The use of higher ritonavir doses may alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and, therefore, is not recommended.
   Prescribers should consult the complete prescribing information for ritonavir when using ritonavir.
 
-## 2.2 Dosage in Adult Patients
+## 2.2 Dosage of REYATAZ in Adult Patients
 
 Table 1 displays the recommended dosage of REYATAZ capsules in treatment-naive and treatment-experienced adults.
 Table 1 also displays recommended dosage of REYATAZ and ritonavir when given concomitantly with other antiretroviral drugs and H2-receptor antagonists (H2RA).
 Ritonavir is required with several REYATAZ dosage regimens (see the ritonavir complete prescribing information about the safe and effective use of ritonavir).
 The use of REYATAZ in treatment-experienced adult patients without ritonavir is not recommended.
 
-Table 1: Recommended REYATAZ and Ritonavir Dosage in Adultsa
+Table 1: Recommended REYATAZ and Ritonavir Dosage in Adultsa,b
 
 |  | REYATAZ Once DailyDosage | Ritonavir Once DailyDosage |
 | --- | --- | --- |
@@ -32,6 +31,7 @@ Table 1: Recommended REYATAZ and Ritonavir Dosage in Adultsa
 | recommended regimen | 300 mg | 100 mg |
 | in combination with both H2RA and tenofovir | 400 mg | 100 mg |
 | a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or proton pump inhibitors [PPIs]), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). |  |  |
+| b For adult patients who cannot swallow the capsules, REYATAZ oral powder is taken once daily with food at the same recommended adult dosage as the capsules along with ritonavir. |  |  |
 
 ## 2.3 Dosage of REYATAZ Capsules in Pediatric Patients
 
@@ -48,31 +48,33 @@ Table 2: Recommended Dosage of REYATAZ Capsules and Ritonavir in Pediatric Patie
 | At least 40 kg | 300 mg | 100 mg |
 | Treatment-Naive, at least 13 years old and cannot tolerate ritonavirc |  |  |
 | At least 40 kg | 400 mg | N/A |
-| a Administer REYATAZ capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). c In treatment-experienced patients, REYATAZ capsules must be administered with ritonavir. |  |  |
+
+a Administer REYATAZ capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients.
+See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). c In treatment-experienced patients, REYATAZ capsules must be administered with ritonavir.
 
 ## 2.4 Dosage and Administration of REYATAZ Oral Powder in Pediatric Patients
 
-REYATAZ oral powder is for use in treatment-naive or treatment-experienced pediatric patients who are at least 3 months of age and weighing at least 10 kg and less than 25 kg.
+REYATAZ oral powder is for use in treatment-naive or treatment-experienced pediatric patients who are at least 3 months of age and weighing at least 5 kg.
 REYATAZ oral powder must be mixed with food or beverage for administration and ritonavir must be given immediately afterwards.
 Table 3 displays the recommended dosage of REYATAZ oral powder and ritonavir.
 
-Table 3: Recommended Dosage of REYATAZ Oral Powder and Ritonavir in Pediatric Patients (at least 3 months of age and weighing at least 10 kg and less than 25 kg)a
+Table 3: Recommended Dosage of REYATAZ Oral Powder and Ritonavir in Pediatric Patients (at least 3 months of age and weighing at least 5 kg)a,b
 
-| Body Weight | Daily Dosage of REYATAZ Oral Powder | Daily Dosage of Ritonavir Oral Solution |
+| Body Weight | Daily Dosage of REYATAZ Oral Powder | Daily Dosage of Ritonavir |
 | --- | --- | --- |
-| 10 kg to less than 15 kg | 200 mg (4 packets)b | 80 mg |
-| 15 kg to less than 25 kg | 250 mg (5 packets)b | 80 mg |
-| a The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b Each packet contains 50 mg of REYATAZ. |  |  |
+| 5 kg to less than 15 kg | 200 mg (4 packets)c,d | 80 mgc |
+| 15 kg to less than 25 kg | 250 mg (5 packets)d | 80 mgc |
+| a The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b For pediatric patients at least 25 kg who cannot swallow REYATAZ capsules, 300 mg (6 packets) REYATAZ oral powder is taken once daily with food along with 100 mg ritonavir. c Only patients weighing 5 to less than 10 kg who do not tolerate the 200 mg (4 packets) dose of REYATAZ oral powder and have not previously taken an HIV protease inhibitor, may take 150 mg (3 packets) REYATAZ oral powder with close HIV viral load monitoring. d Each packet contains 50 mg of REYATAZ. |  |  |
 
 Instructions for Mixing REYATAZ Oral Powder [see FDA-approved Instructions for Use]
 
+- •Determine the number of packets (3, 4, 5 or 6 packets) that are needed.
+- •Prior to mixing, tap the packet to settle the powder.
 - •It is preferable to mix REYATAZ oral powder with food such as applesauce or yogurt.
   Mixing REYATAZ oral powder with a beverage (milk, infant formula, or water) may be used for infants who can drink from a cup.
   For young infants (less than 6 months) who cannot eat solid food or drink from a cup, REYATAZ oral powder should be mixed with infant formula and given using an oral dosing syringe.
   Administration of REYATAZ and infant formula using an infant bottle is not recommended because full dose may not be delivered.
-- •Determine the number of packets (4 or 5 packets) that are needed.
-- •Prior to mixing, tap the packet to settle the powder.
-  Use a clean pair of scissors to cut each packet along the dotted line.
+- •Use a clean pair of scissors to cut each packet along the dotted line.
 - •Mixing with food: Using a spoon, mix the recommended number of REYATAZ oral powder packets with a minimum of one tablespoon of food (such as applesauce or yogurt).
   Feed the mixture to the infant or young child.
   Add an additional one tablespoon of food to the small container, mix, and feed the child the residual mixture.
@@ -106,11 +108,11 @@ Table 4: Recommended Dosage of REYATAZ and Ritonavir in Pregnant Patientsa
 | In combination with either H2RA or tenofovir | 400 mg | 100 mg |
 | a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b REYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir and H2RA. |  |  |
 
-## 2.6 Renal Impairment
+## 2.6 Dosage in Patients with Renal Impairment
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for REYATAZ.
 Treatment-naive patients with end stage renal disease managed with hemodialysis should receive REYATAZ 300 mg with ritonavir 100 mg.
-REYATAZ should not be administered to HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis.
+REYATAZ is not recommended in HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis.
 [See Use in Specific Populations (8.7).]
 
 ## 2.7 Dosage Adjustments in Patients with Hepatic Impairment

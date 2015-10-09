@@ -19,7 +19,7 @@ Store REYATAZ capsules at 25°C (77°F); excursions permitted to 15°C-30°C (59
 REYATAZ oral powder is an orange-vanilla flavored powder, packed in child-resistant packets.
 Each packet contains 50 mg of atazanavir equivalent to 56.9 mg of atazanavir sulfate in 1.5 g of powder.
 REYATAZ oral powder is supplied in cartons (NDC 0003-3638-10) of 30 packets each.
-[See Dosage and Administration (2.4).]
+[See Dosage and Administration (2.5).]
 
 Store REYATAZ oral powder below 30°C (86°F).
 Once the REYATAZ oral powder is mixed with food or beverage, it may be kept at room temperature 20°C to 30°C (68°F-86°F) for up to 1 hour prior to administration.

@@ -80,8 +80,7 @@ The mean baseline CD4+ cell count was 338 cells/mm3 (range: 14 to 1543 cells/mm3
 
 Treatment outcomes through Week 48 for the REYATAZ/ritonavir and lopinavir/ritonavir treatment arms are presented in Table 29.
 REYATAZ/ritonavir and lopinavir/ritonavir were similar for the primary efficacy outcome measure of time-averaged difference in change from baseline in HIV RNA level.
-Study AI424-045 was not large enough to reach a definitive conclusion that REYATAZ/ritonavir and lopinavir/ritonavir are equivalent on the secondary efficacy outcome measure of proportions below the HIV RNA lower limit of quantification.
-[See Microbiology, Tables 24 and 25 (12.4).]
+Study AI424-045 was not large enough to reach a definitive conclusion that REYATAZ/ritonavir and lopinavir/ritonavir are equivalent on the secondary efficacy outcome measure of proportions below the HIV RNA lower limit of quantification [see Microbiology, Tables 24 and 25 (12.4)].
 
 Table 29: Outcomes of Treatment Through Week 48 in Study AI424-045 (Patients with Prior Antiretroviral Experience)
 
@@ -129,14 +128,15 @@ Assessment of the pharmacokinetics, safety, tolerability, and virologic response
 - •AI424-397 (PRINCE I): In pediatric patients from 3 months to less than 6 years of age
 - •AI424-451 (PRINCE II): In pediatric patients from 3 months to less than 11 years of age
 
-In these studies 134 patients (73 antiretroviral-naive and 61 antiretroviral-experienced) received once daily REYATAZ oral powder and ritonavir, in combination with two NRTIs.
+In these studies 155 patients (59 antiretroviral-naive and 96 antiretroviral-experienced) received once daily REYATAZ oral powder and ritonavir, in combination with two NRTIs.
 
 For inclusion in both trials, treatment-naive patients had to have genotypic sensitivity to REYATAZ and two NRTIs, and treatment-experienced patients had to have documented genotypic and phenotypic sensitivity at screening to REYATAZ and at least 2 NRTIs.
 Patients exposed only to antiretrovirals in utero or intrapartum were considered treatment-naive.
 Patients who received REYATAZ or REYATAZ/ritonavir at any time prior to study enrollment or who had a history of treatment failure on two or more protease inhibitors were excluded from the trials.
 
-Sixty-five (65) patients from both studies weighing 10 kg to less than 25 kg treated with REYATAZ oral powder with ritonavir were evaluated.
-Patients 10 kg to less than 15 kg received 200 mg REYATAZ and 80 mg ritonavir oral solution, and patients 15 kg to less than 25 kg received 250 mg REYATAZ and 80 mg ritonavir oral solution.
-Using a modified ITT analysis, the overall proportions of antiretroviral-naive and antiretroviral-experienced patients with HIV RNA <400 copies/mL at Week 48 were 78% (32/41) and 71% (17/24), respectively in patients who received REYATAZ oral powder with ritonavir.
-The overall proportions of antiretroviral-naive and antiretroviral-experienced patients with HIV RNA <50 copies/mL at Week 48 were 66% (27/41) and 58% (14/24), respectively in patients who received REYATAZ oral powder with ritonavir.
-The median increase from baseline in absolute CD4 count (percent) at 48 weeks of therapy was 412 cells/mm3 (10.5%) in antiretroviral-naive patients and 228 cells/mm3 (6%) in antiretroviral-experienced patients who received REYATAZ oral powder with ritonavir.
+One hundred thirty-four (134) patients from both studies weighing 5 kg to less than 35 kg treated with REYATAZ oral powder with ritonavir were evaluated.
+Patients 5 kg to less than 10 kg received either 150 mg or 200 mg REYATAZ and 80 mg ritonavir oral solution; patients 10 kg to less than 15 kg received 200 mg REYATAZ and 80 mg ritonavir oral solution; patients 15 kg to less than 25 kg received 250 mg REYATAZ and 80 mg ritonavir oral solution; and patients 25 kg to less than 35 kg received 300 mg REYATAZ and 100 mg ritonavir.
+
+Using a modified ITT analysis, the overall proportions of antiretroviral-naive and antiretroviral-experienced patients with HIV RNA <400 copies/mL at Week 48 were 79% (41/52) and 62% (51/82), respectively in patients who received REYATAZ oral powder with ritonavir.
+The overall proportions of antiretroviral-naive and antiretroviral-experienced patients with HIV RNA <50 copies/mL at Week 48 were 54% (28/52) and 50% (41/82), respectively in patients who received REYATAZ oral powder with ritonavir.
+The median increase from baseline in absolute CD4 count (percent) at 48 weeks of therapy (last observation carried forward) was 215 cells/mm3 (6%) in antiretroviral-naive patients and 133 cells/mm3 (4%) in antiretroviral-experienced patients who received REYATAZ oral powder with ritonavir.

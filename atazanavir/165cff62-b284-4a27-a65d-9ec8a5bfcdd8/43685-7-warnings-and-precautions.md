@@ -11,7 +11,7 @@ Because of limited clinical experience in patients with preexisting conduction s
 ECG monitoring should be considered in these patients.
 [See Clinical Pharmacology (12.2).]
 
-## 5.2 Rash
+## 5.2 Severe Skin Reactions
 
 In controlled clinical trials, rash (all grades, regardless of causality) occurred in approximately 20% of patients treated with REYATAZ.
 The median time to onset of rash in clinical studies was 7.3 weeks and the median duration of rash was 1.4 weeks.
@@ -31,7 +31,7 @@ Hepatic transaminase elevations that occur with hyperbilirubinemia should be eva
 No long-term safety data are available for patients experiencing persistent elevations in total bilirubin >5 times the upper limit of normal (ULN).
 Alternative antiretroviral therapy to REYATAZ may be considered if jaundice or scleral icterus associated with bilirubin elevations presents cosmetic concerns for patients.
 Dose reduction of atazanavir is not recommended since long-term efficacy of reduced doses has not been established.
-[See Adverse Reactions (6.1, 6.2).]
+[See Adverse Reactions (6.1).]
 
 ## 5.4 Patients with Phenylketonuria
 
@@ -44,7 +44,7 @@ REYATAZ capsules do not contain phenylalanine.
 
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation.
 In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment.
-[See Adverse Reactions (6.3) and Use in Specific Populations (8.8).]
+[See Adverse Reactions (6.1) and Use in Specific Populations (8.8).]
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
@@ -52,14 +52,15 @@ Cases of nephrolithiasis and/or cholelithiasis have been reported during postmar
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
 If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered.
-[See Adverse Reactions (6.4).]
+[See Adverse Reactions (6.2).]
 
 ## 5.7 Risk of Serious Adverse Reactions Due to Drug Interactions
 
 Initiation of REYATAZ with ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving REYATAZ with ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
-Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of REYATAZ with ritonavir, respectively.These interactions may lead to:
+Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of REYATAZ with ritonavir, respectively.
+These interactions may lead to:
 
-- •clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
+- •clinically significant adverse reactions potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
 - •clinically significant adverse reactions from greater exposures of REYATAZ with ritonavir.
 - •loss of therapeutic effect of REYATAZ with ritonavir and possible development of resistance.
 
@@ -73,7 +74,7 @@ Some patients required either initiation or dose adjustments of insulin or oral 
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
 Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
-[See Adverse Reactions (6.4).]
+[See Adverse Reactions (6.2).]
 
 ## 5.9 Immune Reconstitution Syndrome
 

@@ -104,6 +104,6 @@ Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Product of Ireland
 
-1341313A0
+1341313A1
 
-Revised: March 2015
+Revised: September 2015

@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-REYATAZ® (atazanavir) is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection for patients 3 months and older weighing at least 10 kg.
+REYATAZ® (atazanavir) is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection for patients 3 months and older weighing at least 5 kg.
 
 Limitations of Use:
 
