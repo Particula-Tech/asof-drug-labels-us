@@ -117,7 +117,7 @@ Studies in mammals in vivo have failed to demonstrate a potential for genetic da
 
 Metronidazole failed to produce any adverse effects on fertility or testicular function in male rats at doses up at 400 mg/kg/day (similar to the maximum recommended clinical dose, based on body surface area comparisons) for 28 days.
 However, rats treated at the same dose for 6 weeks or longer were infertile and showed severe degeneration of the seminiferous epithelium in the testes as well as marked decreases in testicular spermatid counts and epididymal sperm counts.
-Fertility was restored in most rats after an eight-week, drug-free recovery period.
+Fertility was restored in most rats after an eight week, drug-free recovery period.
 
 ## Pregnancy
 

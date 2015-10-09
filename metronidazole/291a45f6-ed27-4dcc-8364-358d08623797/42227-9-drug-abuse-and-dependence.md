@@ -6,7 +6,7 @@
 
 #### One-day treatment
 
-Two grams of metronidazole tablets, given either as a single-dose or in two divided doses of one gram each, given in the same day.
+Two grams of metronidazole tablets, given either as a single dose or in two divided doses of one gram each, given in the same day.
 
 #### Seven-day course of treatment
 
@@ -19,14 +19,14 @@ A seven-day course of treatment may minimize reinfection by protecting the patie
 Further, some patients may tolerate one treatment regimen better than the other.
 
 Pregnant patients should not be treated during the first trimester (see CONTRAINDICATIONS).
-In pregnant patients in whom alternative treatment has been inadequate, the one-day course of therapy should not be used, as it results in higher serum levels which can reach the fetal circulation (see PRECAUTIONS, Pregnancy).
+In pregnant patients for whom alternative treatment has been inadequate, the one-day course of therapy should not be used, as it results in higher serum levels which can reach the fetal circulation (see PRECAUTIONS, Pregnancy).
 
 When repeat courses of the drug are required, it is recommended that an interval of four to six weeks elapse between courses and that the presence of the trichomonad be reconfirmed by appropriate laboratory measures.
 Total and differential leukocyte counts should be made before and after re-treatment.
 
 ### In the Male
 
-Treatment should be individualized as for the female.
+Treatment should be individualized as it is for the female.
 
 ## Amebiasis
 
