@@ -106,29 +106,11 @@ Rx only
 
 240 mL
 
-See prescribing information for dosage information.
-
-Store in tightly closed bottles at 25oC (77oF) (see USP Controlled Room Temperature).
-
-Manufactured for:
-
-ViiV Healthcare
-
-Research Triangle Park, NC 27709
-
-by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Manufactured under agreement from Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
-
 Made in Canada
 
-EPIVIR is a registered trademark
+Do not use if shrinkband on bottle is broken or missing.
 
-- A126951 Rev.
-  7/14
+- ©2014, the ViiV Healthcare group of companies
+
+- 10000000131523 Rev.
+  12/14
