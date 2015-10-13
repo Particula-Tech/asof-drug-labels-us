@@ -6,7 +6,6 @@ The principal pharmacologic action of zoledronic acid is inhibition of bone reso
 Although the antiresorptive mechanism is not completely understood, several factors are thought to contribute to this action.
 In vitro, zoledronic acid inhibits osteoclastic activity and induces osteoclast apoptosis.
 Zoledronic acid also blocks the osteoclastic resorption of mineralized bone and cartilage through its binding to bone.
-
 Zoledronic acid inhibits the increased osteoclastic activity and skeletal calcium release induced by various stimulatory factors released by tumors.
 
 ## 12.2 Pharmacodynamics

@@ -38,13 +38,13 @@ In the clinical studies, renal deterioration was defined as follows:
 In the clinical studies, Zoledronic Acid Injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zoledronic Acid Injection should be reinitiated at the same dose as that prior to treatment interruption.
 
-Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 
 ## 2.3 Preparation of Solution
 
 Zoledronic Acid Injection must not be mixed with calcium or other divalent cation-containing infusion solutions, such as Lactated Ringer's solution, and should be administered as a single intravenous solution in a line separate from all other drugs.
 
-4 mg/100 mL Single-Use Ready-to-Use Bag
+4 mg per 100 mL Single-Use Ready-to-Use Bag
 
 Bags of Zoledronic Acid Injection ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
 This solution is ready to use and may be administered directly to the patient without further preparation.
