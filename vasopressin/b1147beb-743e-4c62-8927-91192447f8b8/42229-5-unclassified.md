@@ -1,5 +1,5 @@
-Manufactured by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977
+Distributed by: Par Pharmaceutical Companies, Inc. Chestnut Ridge, NY 10977
 
-I05/14 OS164J-01-90-01
+R07/15 OS164J-01-90-03
 
-Vasostrict is a registered trademark of Par Pharmaceutical Companies, Inc.
+Vasostrict® is a registered trademark of Par Pharmaceutical Companies, Inc.

@@ -30,7 +30,7 @@ Thus, the generated metabolites are not expected to retain important pharmacolog
 
 Drug-Drug Interactions
 
-Indomethacin more than doubles the time to offset for vasopressin's effect on peripheral vascular resistance and cardiac output in healthy subjects [see Drug Interactions (7.2)]
+Indomethacin more than doubles the time to offset for vasopressin's effect on peripheral vascular resistance and cardiac output in healthy subjects [see Drug Interactions (7.2)].
 
 The ganglionic blocking agent tetra-ethylammonium increases the pressor effect of vasopressin by 20% in healthy subjects [see Drug Interactions (7.3)].
 

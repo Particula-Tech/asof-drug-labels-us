@@ -4,13 +4,13 @@
 
 Pregnancy Category C
 
-Risk Summary: There are no adequate or well-controlled studies of Vasostrict in pregnant women.
+Risk Summary: There are no adequate or well-controlled studies of Vasostrict® in pregnant women.
 It is not known whether vasopressin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Animal reproduction studies have not been conducted with vasopressin [see Clinical Pharmacology (12.3)].
 
-Clinical Considerations: Because of increased clearance of vasopressin in the second and third trimester, the dose of Vasostrict may need to be up-titrated to doses exceeding 0.1 units/minute in post-cardiotomy shock and 0.07 units/minute in septic shock.
+Clinical Considerations: Because of increased clearance of vasopressin in the second and third trimester, the dose of Vasostrict® may need to be up-titrated to doses exceeding 0.1 units/minute in post-cardiotomy shock and 0.07 units/minute in septic shock.
 
-Vasostrict may produce tonic uterine contractions that could threaten the continuation of pregnancy.
+Vasostrict® may produce tonic uterine contractions that could threaten the continuation of pregnancy.
 
 ## 8.3 Nursing Mothers
 
@@ -20,7 +20,7 @@ Consider advising a lactating woman to pump and discard breast milk for 1.5 hour
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Vasostrict in pediatric patients with vasodilatory shock have not been established.
+Safety and effectiveness of Vasostrict® in pediatric patients with vasodilatory shock have not been established.
 
 ## 8.5 Geriatric Use
 
