@@ -152,3 +152,37 @@ ZYVOX®
 100 mg/5 mL
 
 Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label - NDC 0009-5138-02
+
+Pfizer NDC 0009-5138-02
+
+Zyvox® (linezolid) tablets
+
+600 mg
+
+20 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Blister Pack - NDC 0009-5138-03
+
+Zyvox® (linezolid) tablets
+
+600 mg
+
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PAA054269
+
+EXP & LOT AREA
+
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Blister Pack Carton - NDC 0009-5138-03
+
+UNIT DOSE
+
+Pfizer NDC 0009-5138-03
+
+Zyvox® (linezolid) tablets
+
+600 mg
+
+For in-institution use only
+
+30 Tablets Rx only

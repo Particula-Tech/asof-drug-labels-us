@@ -25,6 +25,12 @@ ZYVOX Tablets are available as follows:
 | 20 tablets in HDPE bottle | NDC 0009-5135-02 |
 | Unit dose packages of 30 tablets | NDC 0009-5135-03 |
 
+600 mg (white, capsule-shaped, film-coated tablets debossed with "ZYV" on one side and "600" on the other)
+
+| 20 tablets in HDPE bottle | NDC 0009-5138-02 |
+| --- | --- |
+| Unit dose packages of 30 tablets | NDC 0009-5138-03 |
+
 ## 16.3 Oral Suspension
 
 ZYVOX for Oral Suspension is available as a dry, white to off-white, orange-flavored granule/powder.
