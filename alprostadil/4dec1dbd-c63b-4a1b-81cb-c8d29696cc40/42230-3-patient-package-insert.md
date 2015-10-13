@@ -1,4 +1,4 @@
-# Patient Instructions For:
+Patient Instructions For:
 
 CaverJect Impulse® Dual Chamber System alprostadil for injection
 

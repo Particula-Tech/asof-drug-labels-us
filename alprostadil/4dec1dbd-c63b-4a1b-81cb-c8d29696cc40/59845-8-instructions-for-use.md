@@ -79,7 +79,7 @@ How to give the injection
 |  | 1.The injection will go into the part of the penis shown as the shaded area in Figure K. Do not inject into the white areas because there may be blood vessels in the white areas. Also see Figure L. |
 | --- | --- |
 |  | 2.The correct injection angle is shown in Figure L. 3.If your doctor has recommended that you use an alcohol swab, wipe over the area for injection and let it dry. Reconfirm that the correct dose is visible in the dose window. If the correct dose is not in the dose window, repeat Step 11. |
-|  | 4.Take hold of the penis from the front, with the first two fingers underneath close to the testicles and the thumb on top (Figure M). 5.Gently squeeze the penis between your thumb and finger so that the injection site bulges out. If there is a foreskin on the penis, make sure it is stretched. 6.Keeping a firm grip on the penis and taking the syringe in your free hand, push the needle straight through the skin all the way into the bulgy part (corpora cavernosa). Avoid veins or other obvious blood vessels (Figures K and L). 7.Push the plunger firmly and steadily until it no longer moves. Plunger movement may be very small or undetectable if administering a partial dose. 8.If the plunger does not move easily adjust the needle depth slightly and try again. Do not force the solution from the syringe. 9.After completing the injection, carefully pull the needle out. A drop of liquid may remain on the tip of the needle. Press gently on the injection site with the alcohol swab. Massage the penis to help the Caverject Impulse solution spread through it. |
+|  | 4.Take hold of the penis from the front, with the first two fingers underneath close to the testicles and the thumb on top (Figure M). 5.Gently squeeze the penis between your thumb and finger so that the injection site bulges out. If there is a foreskin on the penis, make sure it is stretched. 6.Keeping a firm grip on the penis and taking the syringe in your free hand, push the needle straight through the skin all the way into the bulgy part (corpora cavernosa). Avoid veins or other obvious blood vessels (Figures K and L). 7.Push the plunger firmly and steadily until it no longer moves. Plunger movement may be very small or undetectable if administering a partial dose.8.If the plunger does not move easily adjust the needle depth slightly and try again. Do not force the solution from the syringe. 9.After completing the injection, carefully pull the needle out. A drop of liquid may remain on the tip of the needle. Press gently on the injection site with the alcohol swab. Massage the penis to help the Caverject Impulse solution spread through it. |
 
 - Some liquid will remain in the syringe if you delivered a PARTIAL dose.
   This is expected.
@@ -122,4 +122,4 @@ For current full prescribing information, please visit www.pfizer.com.
 
 Rx only
 
-LAB-0641-1.0 December 2013
+LAB-0641-3.0 June 2014

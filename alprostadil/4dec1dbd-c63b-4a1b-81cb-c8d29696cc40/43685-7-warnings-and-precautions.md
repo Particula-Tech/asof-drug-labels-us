@@ -28,6 +28,10 @@ If priapism is not treated immediately, penile tissue damage and permanent loss 
    Careful instruction in proper patient handling and injection techniques may minimize the potential for needle breakage.
 8. The patient should be instructed not to re-use or to share needles or syringes.
    As with all prescription medicines, the patient should not allow anyone else to use his medicine.
+9. Benzyl alcohol: The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
+   The minimum amount of benzyl alcohol at which toxicity may occur is not known.
+   The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+   Premature and low-birth weight infants may be more likely to develop toxicity.
 
 ## Information for the Patient
 
@@ -35,7 +39,7 @@ To ensure safe and effective use of CAVERJECT, the patient should be thoroughly 
 The desirable dose should be established in the physician's office.
 
 Any reconstituted solution with precipitates or discoloration should be discarded.
-The CAVERJECT IMPULSE syringe system is designed for one use only and should be discarded after use.
+The CAVERJECT IMPULSE delivery system is designed for one use only and should be discarded after use.
 The delivery system and the needle must be properly discarded after use.
 Needles must not be re-used or shared with other persons.
 Patient instructions for administration are included in each package of CAVERJECT IMPULSE.

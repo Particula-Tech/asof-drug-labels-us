@@ -5,6 +5,6 @@ Patients with penile implants should not be treated with CAVERJECT.
 
 CAVERJECT is intended for use in adult men only.
 
-CAVERJECT is not indicated for use in children or newborns.
+CAVERJECT is not indicated for use in children or newborns (see Precautions, benzyl alcohol).
 
 CAVERJECT should not be used in men for whom sexual activity is inadvisable or contraindicated.

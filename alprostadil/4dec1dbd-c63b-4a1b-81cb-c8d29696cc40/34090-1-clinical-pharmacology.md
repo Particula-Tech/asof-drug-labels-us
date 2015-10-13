@@ -20,7 +20,7 @@ The absolute bioavailability of alprostadil has not been determined.
 
 Following intracavernosal injection of 20 mcg alprostadil, mean peripheral plasma concentrations of alprostadil at 30 and 60 minutes after injection (89 and 102 picograms/mL, respectively) were not significantly greater than baseline levels of endogenous alprostadil (96 picograms/mL).
 Plasma levels of alprostadil were measured using a radioimmunoassay method.
-Alprostadil is bound in plasma primarily to albumin (81% bound) and to a lesser extent I-globulin IV-4 fraction (55% bound).
+Alprostadil is bound in plasma primarily to albumin (81% bound) and to a lesser extent α--globulin IV-4 fraction (55% bound).
 No significant binding to erythrocytes or white blood cells was observed.
 
 ### Metabolism
