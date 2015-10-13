@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202956"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-461-16",
+    "59746-462-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "zolmitriptan",
+      "name": "Zolmitriptan OD"
+    }
+  ],
+  "setid": "a6a32fc6-4243-9cdd-91c7-b8a58e0f9811",
+  "source": "dailymed"
+}
