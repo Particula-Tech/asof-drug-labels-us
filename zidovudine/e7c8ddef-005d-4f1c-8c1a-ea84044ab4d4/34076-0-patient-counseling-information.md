@@ -65,4 +65,4 @@ COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of the ViiV Healthcare 
 
 Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2015
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 08/2015
