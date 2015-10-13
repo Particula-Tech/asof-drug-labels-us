@@ -8,3 +8,9 @@ The overall disease severity in terms of erythema, scaling, and induration was a
 Treatment success was defined as achieving a Week 4 (end of treatment) ISGA score of 0 (clear) or 1 (majority of lesions have individual scores for scaling, erythema, and induration that averages 1 [minimal or faint]) and at least two grades of improvement from baseline.
 The results are presented in Table 2.
 The database was not large enough to assess whether there were differences in effects in age, gender, or race subgroups.
+
+Table 2: Efficacy Results
+
+| Number of Subjects | Ketoconazole Foam, 2%N = 427n (%) | Vehicle FoamN = 420n (%) |
+| --- | --- | --- |
+| Subjects Achieving Treatment Success | 239 (56%) | 176 (42%) |

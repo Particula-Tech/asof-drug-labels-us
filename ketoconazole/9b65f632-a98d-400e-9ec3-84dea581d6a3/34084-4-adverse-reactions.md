@@ -9,9 +9,17 @@ The safety data presented in Table 1 (below) reflect exposure to ketoconazole fo
 Subjects applied ketoconazole foam, 2% or vehicle foam twice daily for 4 weeks to affected areas on the face, scalp, and/or chest.
 Adverse reactions occurring in > 1% of subjects are presented in Table 1.
 
+Table 1: Adverse Reactions Reported by >1% Subjects in Clinical Trials
+
+| Adverse Reactions | Ketoconazole Foam, 2%N=672n (%) | Vehicle FoamN=497n (%) |
+| --- | --- | --- |
+| Subjects with an Adverse Reaction | 188 (28%) | 122 (25%) |
+| Application site burning | 67 (10%) | 49 (10%) |
+| Application site reaction | 41 (6%) | 24 (5%) |
+
 Application site reactions that were reported in ≤1% of subjects were dryness, erythema, irritation, paresthesia, pruritus, rash and warmth.
 
 ## 6.2 Dermal Safety Studies
 
-In a photoallergenicity study, 9 of 53 subjects (17%) had reactions during the challenge period at both the irradiated and non-irradiated sites treated with Ketoconazole Foam, 2%.
+In a photoallergenicity study, 9 of 53 subjects (17%) had reactions during the challenge period at both the irradiated and non-irradiated sites treated with ketoconazole foam, 2%.
 Ketoconazole Foam, 2% may cause contact sensitization.

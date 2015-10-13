@@ -15,5 +15,5 @@ Do not expose containers to heat and/or store at temperatures above 120°F (49°
 ## 5.3 Systemic Effects
 
 Hepatitis has been seen with orally administered ketoconazole (1:10,000 reported incidence).
-Lowered testosterone and ACTH–induced corticosteroid serum levels have been seen with high doses of orally administered ketoconazole.
+Lowered testosterone and ACTH–induced corticosteroidserum levels have been seen with high doses of orally administered ketoconazole.
 These effects have not been seen with topical ketoconazole.

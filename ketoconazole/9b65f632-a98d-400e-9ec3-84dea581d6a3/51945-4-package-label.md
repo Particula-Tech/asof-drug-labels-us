@@ -2,18 +2,12 @@
 
 Rx Only
 
-Ketoconazole Foam, 2%
-
-For Topical Use Only.
-
-Not For Ophthalmic, Oral, or Intravaginal Use.
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - label
-
-Rx Only
+45802-532-32
 
 Ketoconazole Foam, 2%
 
 For Topical Use Only.
 
 Not For Ophthalmic, Oral, or Intravaginal Use.
+
+50 g
