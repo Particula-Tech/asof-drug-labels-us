@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Meloxicam Tablets USP, are available as light yellow coloured, round, biconvex tablets, plain on one side and debossed with '7.5' on other side containing meloxicam 7.5 mg or as light yellow coloured, oval shaped, biconvex tablets, plain on one side and debossed with '15' on other side containing meloxicam 15 mg.
 

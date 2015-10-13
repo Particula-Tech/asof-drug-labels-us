@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -16,9 +16,12 @@ Absorption
 The absolute bioavailability of meloxicam capsules was 89% following a single oral dose of 30 mg compared with 30 mg IV bolus injection.
 Following single intravenous doses, dose-proportional pharmacokinetics were shown in the range of 5 mg to 60 mg.
 After multiple oral doses the pharmacokinetics of meloxicam capsules were dose-proportional over the range of 7.5 mg to 15 mg.
-Mean Cmax was achieved within four to five hours after a 7.5 mg meloxicam was taken under fasted conditions, indicating a prolonged drug absorption.
+Mean Cmax was achieved within four to five hours after a 7.5 mg meloxicam tablet was taken under fasted conditions, indicating a prolonged drug absorption.
 With multiple dosing, steady-state concentrations were reached by Day 5.
 A second meloxicam concentration peak occurs around 12 to 14 hours post-dose suggesting biliary recycling.
+
+Meloxicam oral suspension doses of 7.5 mg/5mL and 15 mg/10 mL have been found to be bioequivalent to meloxicam 7.5 mg and 15 mg capsules, respectively.
+Meloxicam capsules have been shown to be bioequivalent to meloxicam tablets.
 
 Table 3 Single Dose and Steady-State Pharmacokinetic Parameters for Oral 7.5 mg and 15 mg Meloxicam (Mean and % CV)The parameter values in the table are from various studies
 
@@ -77,7 +80,7 @@ Special Populations
 Pediatric:
 
 After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
-The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg.
+The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see DOSAGE AND ADMINISTRATION (2.4)].
 The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13.0 hours (3.0) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
 
 In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.

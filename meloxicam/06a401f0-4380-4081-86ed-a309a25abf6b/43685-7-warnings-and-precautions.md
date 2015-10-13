@@ -1,8 +1,8 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years’ duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years' duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known CV disease or risk factors for CV disease may be at greater risk.
 To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
@@ -41,7 +41,7 @@ Notable elevations of ALT or AST (approximately three or more times the upper li
 In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported [See ADVERSE REACTIONS (6.1)].
 
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with meloxicam.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue meloxicam [See USE IN SPECIFIC POPULATIONS (8.6)and CLINICAL PHARMACOLOGY (12.3)].
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue meloxicam [See USE IN SPECIFIC POPULATIONS (8.6) and CLINICAL PHARMACOLOGY (12.3)].
 
 ## 5.4 Hypertension
 
@@ -93,7 +93,7 @@ Inform patients about the signs and symptoms of serious skin manifestations and 
 
 ## 5.9 Pregnancy.
 
-Starting at 30 weeks gestation, avoid the use of meloxicam because it may cause premature closure of the ductus arteriosus [See USE IN SPECIFIC POPULATIONS (8.1)and PATIENT COUNSELING INFORMATION (17.8)].
+Starting at 30 weeks gestation, avoid the use of meloxicam because it may cause premature closure of the ductus arteriosus [See USE IN SPECIFIC POPULATIONS (8.1) and PATIENT COUNSELING INFORMATION (17.8)].
 
 ## 5.10 Corticosteroid Treatment
 

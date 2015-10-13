@@ -1,8 +1,8 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C; Category D starting 30 weeks gestation
+Pregnancy Category C; Category D Starting 30 Weeks Gestation
 
 There are no adequate and well-controlled studies in pregnant women.
 Meloxicam crosses the placental barrier.

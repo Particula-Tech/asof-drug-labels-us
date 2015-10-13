@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 There is limited experience with meloxicam overdose.
 Four cases have taken 6 to 11 times the highest recommended dose; all recovered.

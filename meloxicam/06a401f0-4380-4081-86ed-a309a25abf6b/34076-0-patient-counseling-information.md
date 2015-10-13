@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved Medication Guide
 
@@ -38,15 +38,17 @@ Advise patients to promptly report signs or symptoms of unexplained weight gain 
 ## 17.7 Anaphylactoid Reactions
 
 Inform patients of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-Instruct patients to seek immediate emergency help [see WARNINGS AND PRECAUTIONS (5.7)].
+Instruct patients seek immediate emergency help [see WARNINGS AND PRECAUTIONS (5.7)].
 
 ## 17.8 Effects During Pregnancy
 
-Starting at 30 weeks gestation, meloxicam tablet should be avoided as premature closure of the ductus arteriosus in the fetus may occur [See WARNINGS AND PRECAUTIONS (5.9) and USE IN SPECIFIC POPULATIONS (8.1)].
+Starting at 30 weeks gestation, meloxicam tablets should be avoided as premature closure of the ductus arteriosus in the fetus may occur [See WARNINGS AND PRECAUTIONS (5.9) and USE IN SPECIFIC POPULATIONS (8.1)].
 
-## 17.9 Effects on Female Fertility Advise Females of Reproductive Potential Who Desire Pregnancy That NSAIDs, Including
+## 17.9 Effects On Female Fertility Advise Females of Reproductive Potential Who Desire Pregnancy That NSAIDs, Including
 
 Meloxicam tablets, may be associated with a reversible delay in ovulation For women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended [see USE IN SPECIFIC POPULATIONS (8.8)].
+
+*The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
 Manufactured for:
 
@@ -58,9 +60,11 @@ United States
 
 MADE IN INDIA.
 
-Revised: January 15, 2014 ID#: 235837
+Revised: October 2015 ID#: 242970
 
 Meloxicam Tablets USP
+
+(mel-OX-i-kam)
 
 7.5 mg and 15 mg
 
@@ -112,19 +116,17 @@ Who should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID)?
 
 Do not take an NSAID medicine:
 
-- if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAID medicine
+if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAID medicine
+
 - for pain right before or after heart bypass surgery
 
 Tell your healthcare provider:
 
 - about all of your medical conditions.
 - about all of the medicines you take.
-  NSAIDs and some other medicines can interact with each other and cause serious side effects.
-  Keep a list of your medicines to show to your healthcare provider and pharmacist.
-- if you are pregnant.
-  NSAID medicines should not be used by pregnant women late in their pregnancy.
-- if you are breastfeeding.
-  Talk to your doctor.
+  NSAIDs and some other medicines can interact with each other and cause serious side effects.Keep a list of your medicines to show to your healthcare provider and pharmacist.
+- if you are pregnant.NSAID medicines should not be used by pregnant women late in their pregnancy.
+- if you are breastfeeding.Talk to your doctor.
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
@@ -228,4 +230,4 @@ United States
 
 MADE IN INDIA.
 
-Revised: January 15, 2014 ID#: 235838
+Revised: October 2015 ID#: 242971

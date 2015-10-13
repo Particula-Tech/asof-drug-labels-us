@@ -1,17 +1,17 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Cardiovascular thrombotic events [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
-- Hepatic effects [See WARNINGS AND PRECAUTIONS (5.3)]
-- Hypertension [See WARNINGS AND PRECAUTIONS (5.4)]
-- Congestive heart failure and edema [See WARNINGS AND PRECAUTIONS (5.5)]
-- Renal effects [see WARNINGS AND PRECAUTIONS (5.6)]
-- Anaphylactoid reactions [SeeWARNINGS AND PRECAUTIONS (5.7)]
-- Adverse skin reactions [See WARNINGS AND PRECAUTIONS (5.8)]
+- Cardiovascular thrombotic events[See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+- Gastrointestinal effects – risk of GI ulceration, bleeding, and perforation[See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
+- Hepatic effects[See WARNINGS AND PRECAUTIONS (5.3)]
+- Hypertension[See WARNINGS AND PRECAUTIONS (5.4)]
+- Congestive heart failure and edema[See WARNINGS AND PRECAUTIONS (5.5)]
+- Renal effects[see WARNINGS AND PRECAUTIONS (5.6)]
+- Anaphylactoid reactions[See WARNINGS AND PRECAUTIONS (5.7)]
+- Adverse skin reactions[See WARNINGS AND PRECAUTIONS (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
