@@ -1,0 +1,55 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Testing Prior to ESBRIET Administration
+
+Conduct liver function tests prior to initiating treatment with ESBRIET [see Warnings and Precautions (5.1)].
+
+## 2.2 Recommended Dosage
+
+The recommended daily maintenance dosage of ESBRIET is 801 mg (three 267 mg capsules) three times a day with food for a total of 2403 mg/day.
+Doses should be taken at the same time each day.
+
+Upon initiation of treatment, titrate to the full dosage of nine capsules per day over a 14-day period as follows:
+
+Table 1.
+Dosage Titration for ESBRIET in Patients with IPF
+
+| Treatment days | Dosage |
+| --- | --- |
+| Days 1 through 7 | 1 capsule three times a day with food |
+| Days 8 through 14 | 2 capsules three times a day with food |
+| Days 15 onward | 3 capsules three times a day with food |
+
+Dosages above 2403 mg/day (9 capsules per day) are not recommended for any patient.
+
+## 2.3 Dosage Modifications due to Adverse Reactions
+
+Patients who miss 14 or more days of ESBRIET should re-initiate treatment by undergoing the initial 2-week titration regimen up to the full maintenance dosage [see Dosage and Administration (2.2)].
+For treatment interruption of less than 14 days, the dosage prior to the interruption can be resumed.
+
+If patients experience significant adverse reactions (i.e., gastrointestinal, photosensitivity reaction or rash), consider temporary dosage reductions or interruptions of ESBRIET to allow for resolution of symptoms [see Warnings and Precautions (5.1, 5.2, 5.3)].
+
+Dosage Modification due to Elevated Liver Enzymes Dosage modifications or interruptions may also be necessary when liver enzyme and bilirubin elevations are exhibited.
+For liver enzyme elevations, modify the dosage as follows:
+
+If a patient exhibits >3 but ≤5 × the upper limit of normal (ULN) ALT and/or AST without symptoms or hyperbilirubinemia after starting ESBRIET therapy:
+
+- Discontinue confounding medications, exclude other causes, and monitor the patient closely.
+- Repeat liver chemistry tests as clinically indicated.
+- The full daily dosage may be maintained, if clinically appropriate, or reduced or interrupted (e.g., until liver chemistry tests are within normal limits) with subsequent re-titration to the full dosage as tolerated.
+
+If a patient exhibits >3 but ≤5 × ULN ALT and/or AST accompanied by symptoms or hyperbilirubinemia:
+
+- Permanently discontinue ESBRIET.
+- Do not rechallenge patient with ESBRIET.
+
+If a patient exhibits >5 × ULN ALT and/or AST:
+
+- Permanently discontinue ESBRIET.
+- Do not rechallenge patient with ESBRIET.
+
+## 2.4 Dosage Modification due to Drug Interactions
+
+Strong CYP1A2 Inhibitors (e.g., fluvoxamine, enoxacin) Reduce ESBRIET to one capsule three times a day.
+
+Moderate CYP1A2 Inhibitors (e.g., ciprofloxacin) With use of ciprofloxacin at a dosage of 750 mg twice daily, reduce ESBRIET to two capsules three times a day.
