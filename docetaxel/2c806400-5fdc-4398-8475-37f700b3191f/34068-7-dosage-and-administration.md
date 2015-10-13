@@ -117,9 +117,7 @@ In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to �
 
 In case of AST/ALT >5 x ULN and/or AP >5 x ULN docetaxel injection concentrate should be stopped.
 
-The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided
-
-below:
+The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
 
 Cisplatin dose modifications and delays
 
@@ -127,20 +125,44 @@ Peripheral neuropathy: A neurological examination should be performed before ent
 In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
 
 - Grade 2: Reduce cisplatin dose by 20%.
-- Grade 3: Discontinue treatment.Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.Nephrotoxicity: In the event of a rise in serum creatinine ≥grade 2 (>1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).For other cisplatin dosage adjustments, also refer to the manufacturers’ prescribing information.
-  Table 2 – Dose Reductions for Evaluation of Creatinine Clearance Creatinine clearance result before next cycle Cisplatin dose next cycle CrCl = Creatinine clearance CrCl ≥60 mL/min Full dose of cisplatin was given.
-  CrCl was to be repeated before each treatment cycle.
-  Dose of cisplatin was reduced by 50% at subsequent cycle.
-  If CrCl was CrCl between 40 and 59 mL/min >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle.
-  If no recovery was observed, then cisplatin was omitted from the next treatment cycle.
-  Dose of cisplatin was omitted in that treatment cycle only.
-  If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued.
-  CrCl <40 mL/min If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.
-  If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle.
-  Fluorouracil dose modifications and treatment delaysFor diarrhea and stomatitis, see Table 1.In the event of grade 2 or greater plantar-palmar toxicity, fluorouracil should be stopped until recovery.
-  The fluorouracil dosage should be reduced by 20%.For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.Combination Therapy with Strong CYP3A4 inhibitors:Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
-  There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
-  Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require co-administration of a strong CYP3A4 inhibitor [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+- Grade 3: Discontinue treatment.
+
+Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
+
+Nephrotoxicity: In the event of a rise in serum creatinine ≥grade 2 (>1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
+
+For other cisplatin dosage adjustments, also refer to the manufacturers’ prescribing information.
+
+Table 2 – Dose Reductions for Evaluation of Creatinine Clearance
+
+| Creatinine clearance result before next cycle | Cisplatin dose next cycle |
+| --- | --- |
+| CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
+|  | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was |
+| CrCl between 40 and 59 mL/min | >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle. |
+|  | If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
+|  | Dose of cisplatin was omitted in that treatment cycle only. |
+|  | If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued. |
+| CrCl <40 mL/min | If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. |
+|  | If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
+| CrCl = Creatinine clearance |  |
+
+Fluorouracil dose modifications and treatment delays
+
+For diarrhea and stomatitis, see Table 1.
+
+In the event of grade 2 or greater plantar-palmar toxicity, fluorouracil should be stopped until recovery.
+The fluorouracil dosage should be reduced by 20%.
+
+For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.
+
+For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.
+
+Combination Therapy with Strong CYP3A4 inhibitors:
+
+Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
+There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
+Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require co-administration of a strong CYP3A4 inhibitor [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 ## 2.8 Administration Precautions
 
@@ -150,31 +172,32 @@ Please refer to [see How Supplied/ Storage and Handling (16.3)].
 
 If docetaxel injection concentrate, or diluted infusion solution should come into contact with the skin or mucosa, wash immediately and thoroughly with soap and water.
 
-Do not use plasticized PVC equipment or devices that comes in direct contact with docetaxel injection solution during preparation and administration of docetaxel injection solutions for infusion.
+Do not use plasticized PVC equipment or devices that comes in direct contact with docetaxel injection solution during preparation and administration of solutions for infusion.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may leach from PVC infusion bags or sets, the diluted docetaxel infusion solution should be stored in bottles made of glass, polypropylene or plastic bags made with polypropylene, polyolefin and administered through polyethylene-lined administration sets.
 
 One-vial Docetaxel Injection Concentrate
 
-Docetaxel injection concentrate requires no prior dilution with a diluent and is ready to be added to the infusion solution.
+Docetaxel injection concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 
 Please follow the preparation instructions provided below.
 
 ## 2.9 Preparation and Administration
 
-Do not use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
+DO NOT use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
 
 One-vial Docetaxel Injection Concentrate
 
-Docetaxel injection concentrate (20 mg/mL) requires no prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel injection concentrate (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 Use only a 21 gauge needle to withdraw docetaxel injection concentrate from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
 1. Docetaxel injection concentrate vials should be stored at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) protected from light.
-2. Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
-   If a dose greater than 200 mg of docetaxel injection concentrate is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel injection concentrate is not exceeded
+2. Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+   If a dose greater than 200 mg of docetaxel injection concentrate is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel injection concentrate is not exceeded.
 3. Thoroughly mix the infusion solution by gentle manual rotation.
 4. As with all parenteral products, docetaxel injection concentrate should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
    If the docetaxel injection concentrate dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
-   The docetaxel injection concentrate dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
+
+The docetaxel injection concentrate dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
 
 ## 2.10 Stability
 

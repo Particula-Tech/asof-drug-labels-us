@@ -19,7 +19,7 @@ Mean steady state volume of distribution was 113 L. In vitro studies showed that
 In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
 
-Metabolism:In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
+Metabolism: In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
 
 Elimination: A study of 14C-docetaxel was conducted in three cancer patients.
 Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.

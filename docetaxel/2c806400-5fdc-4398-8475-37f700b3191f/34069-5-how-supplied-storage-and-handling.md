@@ -8,9 +8,11 @@ Docetaxel injection concentrate is supplied as a sterile, pyrogen-free, non-aque
 
 Docetaxel injection concentrate 20 mg/mL NDC 45963-734-54
 
-Docetaxel injection concentrate 80 mg/4 mL (20 mg/mL) NDC 45963-734-52
+Docetaxel injection concentrate 80 mg/4 mL (20 mg/mL) NDC 45963-765-52
 
-Docetaxel injection concentrate 140 mg/7 mL (20 mg/mL) NDC 45963-734-74
+Docetaxel injection concentrate 140 mg/7 mL (20 mg/mL) NDC 45963-781-74
+
+Docetaxel injection concentrate 160 mg/8 mL (20 mg/mL) NDC 45963-790-56
 
 ## 16.2 Storage
 

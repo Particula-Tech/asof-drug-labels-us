@@ -7,7 +7,8 @@ The incidence of treatment-related mortality associated with docetaxel injection
 Docetaxel injection concentrate should not be given to patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN.
 Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of grade 4 neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
 Patients with isolated elevations of transaminase >1.5 x ULN also had a higher rate of febrile neutropenia grade 4 but did not have an increased incidence of toxic death.
-Bilirubin, AST or ALT, and alkaline phosphatase values should be obtained prior to each cycle of docetaxel injection concentrate therapy [see Warnings and Precautions (5.2)]. docetaxel injection concentrate therapy should not be given to patients with neutrophil counts of <1500 cells/mm3.
+Bilirubin, AST or ALT, and alkaline phosphatase values should be obtained prior to each cycle of docetaxel injection concentrate therapy [see Warnings and Precautions (5.2)].
+Docetaxel injection concentrate therapy should not be given to patients with neutrophil counts of <1500 cells/mm3.
 In order to monitor the occurrence of neutropenia, which may be severe and result in infection, frequent blood cell counts should be performed on all patients receiving docetaxel injection concentrate [see Warnings and Precautions (5.3)].
 
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients who received a 3-day dexamethasone premedication.

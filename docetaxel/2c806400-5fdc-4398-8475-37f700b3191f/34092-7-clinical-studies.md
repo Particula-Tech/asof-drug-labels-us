@@ -93,10 +93,6 @@ At the time of this interim analysis, based on 219 deaths, overall survival was 
 (See Figure 2).
 There will be further analysis at the time survival data mature.
 
-Figure 1 - TAX316 Disease Free Survival K-M curve
-
-Figure 2 - TAX316 Overall Survival K-M Curve
-
 The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
 
 Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
@@ -156,14 +152,12 @@ Table 15 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Non-S
 |  |  | Not |  |  |
 | 95% CI | (1.1, 15.1) | Applicable | (2.3, 11.3) | (0.0, 4.5) |
 | * Vinorelbine/Ifosfamide |  |  |  |  |
-| ** p≤0.05; † uncorrected for multiple comparisons; †† a value less than 1.00 favors docetaxel. |  |  |  |  |
+| ** p≤0.05 |  |  |  |  |
+| † uncorrected for multiple comparisons |  |  |  |  |
+| †† a value less than 1.00 favors docetaxel |  |  |  |  |
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
 In the second study (TAX320) the rate of survival at one year favored docetaxel injection concentrate 75 mg/m2.
-
-Figure 3 - TAX317 Survival K-M Curves - Docetaxel Injection Concentrate 75 mg/m2 vs. Best Supportive Care
-
-Figure 4 - TAX320 Survival K-M Curves - Docetaxel Injection Concentrate 75 mg/m2 vs. Vinorelbine or Ifosfamide Control
 
 Patients treated with docetaxel injection concentrate at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
 
@@ -234,8 +228,6 @@ Table 18 - Efficacy of Docetaxel Injection Concentrate in the Treatment of Patie
 | p-value* | 0.0094 | -- |
 | *Stratified log rank test. Threshold for statistical significance = 0.0175 because of 3 arms. |  |  |
 
-Figure 5 -TAX327 Survival K-M Curves
-
 ## 14.5 Gastric Adenocarcinoma
 
 A multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of docetaxel injection concentrate for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
@@ -250,7 +242,7 @@ Approximately 75% of patients had died at the time of this analysis.
 Overall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04 to 1.61).
 Efficacy results are summarized in Table 19 and Figures 6 and 7.
 
-Table 19 - Efficacy of Docetaxel Injection Concentrate in the treatment of patients with gastric adenocarcinoma
+Table 19 - Efficacy of Docetaxel Injection Concentrate in the treatment of patients with Gastric Adenocarcinoma
 
 |  | n=221 | n=224 |
 | --- | --- | --- |
@@ -272,10 +264,6 @@ Table 19 - Efficacy of Docetaxel Injection Concentrate in the treatment of patie
 
 Subgroup analyses were consistent with the overall results across age, gender and race.
 
-Figure 6 -Gastric Cancer Study (TAX325) Time to Progression K-M Curve
-
-Figure 7 -Gastric Cancer Study (TAX325) Survival K-M Curve
-
 ## 14.6 Head and Neck Cancer
 
 Induction chemotherapy followed by radiotherapy (TAX323)
@@ -296,11 +284,11 @@ The primary endpoint in this study, progression-free survival (PFS), was signifi
 Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
-Table 20 - Efficacy of Docetaxel Injection Concentrate in the induction treatment of patients with inoperable locally advanced SCCHN (Intent-to-Treat Analysis)
+Table 20 - Efficacy of Docetaxel Injection Concentrate in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
 |  | n=177 | n=181 |
 | --- | --- | --- |
-| ENDPOINT | Docetaxel Injection Concentrate+ |  |
+| Endpoint | Docetaxel Injection Concentrate+ |  |
 |  | Cisplatin+ | Cisplatin+ |
 |  | Fluorouracil | Fluorouracil |
 | Median progression free survival (months) | 11.4 | 8.3 |
@@ -325,10 +313,6 @@ Table 20 - Efficacy of Docetaxel Injection Concentrate in the induction treatmen
 | * Stratified log-rank test based on primary tumor site |  |  |
 | ** Stratified log-rank test, not adjusted for multiple comparisons |  |  |
 | *** Chi square test, not adjusted for multiple comparisons |  |  |
-
-Figure 8 -TAX323 Progression-Free Survival K-M Curve
-
-Figure 9 -TAX323 Overall Survival K-M Curve
 
 Induction chemotherapy followed by chemoradiotherapy (TAX324)
 
@@ -361,5 +345,3 @@ Table 21 - Efficacy of Docetaxel Injection Concentrate in the induction treatmen
 | A Hazard ratio of less than 1 favors docetaxel injection concentrate+cisplatin+fluorouracil |  |  |
 | * un-adjusted log-rank test |  |  |
 | NE - not estimable |  |  |
-
-Figure 10 - TAX324 Overall Survival K-M Curve

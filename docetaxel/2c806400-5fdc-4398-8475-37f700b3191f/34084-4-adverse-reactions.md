@@ -592,7 +592,7 @@ Combination therapy with Docetaxel injection concentrate in head and neck cancer
 Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with Docetaxel Injection Concentrate 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.
 
-Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with docetaxel injection concentrate in Combination with cisplatin and fluorouracil followed by radiotherapy (TAX323) or chemoradiotherapy (TAX324)
+Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection Concentrate in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
 
 |  | (n=174) |  | (n=181) |  |  | (n=251) |  | (n=243) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -676,11 +676,13 @@ Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conju
 Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
 Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
 These were reversible upon discontinuation of the infusion.
+Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel injection concentrate.
 
 Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome, interstitial pneumonia.
-Pulmonary fibrosis has been rarely reported.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
+
+Metabolism and nutrition disorders: cases of hyponatremia have been reported.
