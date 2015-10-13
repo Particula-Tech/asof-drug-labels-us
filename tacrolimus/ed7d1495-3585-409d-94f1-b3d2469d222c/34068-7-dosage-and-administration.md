@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Dosage in Adult Kidney and Liver, or Heart Transplant Patients
 

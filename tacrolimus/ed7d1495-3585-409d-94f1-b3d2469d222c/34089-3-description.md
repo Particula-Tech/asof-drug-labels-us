@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Tacrolimus is available for oral administration as capsules containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus USP.
 Inactive ingredients include lactose monohydrate, hypromellose, croscarmellose sodium, and magnesium stearate.

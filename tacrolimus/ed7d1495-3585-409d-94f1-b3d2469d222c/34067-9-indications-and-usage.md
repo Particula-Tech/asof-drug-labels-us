@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Prophylaxis of Organ Rejection in Kidney Transplant
 

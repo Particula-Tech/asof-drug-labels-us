@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Since tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes may increase tacrolimus whole blood concentrations.
 Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.13) and Clinical Pharmacology (12.3)].

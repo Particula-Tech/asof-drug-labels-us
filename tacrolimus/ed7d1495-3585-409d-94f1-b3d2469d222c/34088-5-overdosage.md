@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Limited overdosage experience is available.
 Acute overdosages of up to 30 times the intended dose have been reported.

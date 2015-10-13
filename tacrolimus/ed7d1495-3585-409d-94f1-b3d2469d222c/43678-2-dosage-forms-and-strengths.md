@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Oblong, hard capsule for oral administration contains anhydrous tacrolimus USP as follows:
 
