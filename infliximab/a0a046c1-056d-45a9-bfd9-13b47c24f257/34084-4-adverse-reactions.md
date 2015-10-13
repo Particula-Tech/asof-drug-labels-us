@@ -86,7 +86,14 @@ REMICADE has not been studied in patients with mild heart failure (NYHA Class I/
 Immunogenicity
 
 Treatment with REMICADE can be associated with the development of antibodies to infliximab.
-The assay used to measure anti-infliximab antibodies in patient samples is subject to interference by serum infliximab, possibly resulting in an underestimation of the rate of patient antibody formation.
+An enzyme immunoassay (EIA) method was originally used to measure anti-infliximab antibodies in clinical studies of REMICADE.
+The EIA method is subject to interference by serum infliximab, possibly resulting in an underestimation of the rate of patient antibody formation.
+A separate, drug-tolerant electrochemiluminescence immunoassay (ECLIA) method for detecting antibodies to infliximab was subsequently developed and validated.
+This method is 60-fold more sensitive than the original EIA.
+With the ECLIA method, all clinical samples can be classified as either positive or negative for antibodies to infliximab without the need for the inconclusive category.
+
+The incidence of antibodies to infliximab was based on the original EIA method in all clinical studies of REMICADE except for the Phase 3 study in pediatric patients with ulcerative colitis where the incidence of antibodies to infliximab was detected using both the EIA and ECLIA methods [see Adverse Reactions, Pediatric Ulcerative Colitis (6.1)].
+
 The incidence of antibodies to infliximab in patients given a 3-dose induction regimen followed by maintenance dosing was approximately 10% as assessed through 1 to 2 years of REMICADE treatment.
 A higher incidence of antibodies to infliximab was observed in Crohn's disease patients receiving REMICADE after drug-free intervals >16 weeks.
 In a study of psoriatic arthritis in which 191 patients received 5 mg/kg with or without MTX, antibodies to infliximab occurred in 15% of patients.
@@ -99,7 +106,7 @@ In the psoriasis Study III, which also included both the 5 mg/kg and 3 mg/kg dos
 Despite the increase in antibody formation, the infusion reaction rates in Studies I and II in patients treated with 5 mg/kg induction followed by every 8 week maintenance for 1 year and in Study III in patients treated with 5 mg/kg induction (14.1%–23.0%) and serious infusion reaction rates (<1%) were similar to those observed in other study populations.
 The clinical significance of apparent increased immunogenicity on efficacy and infusion reactions in psoriasis patients as compared to patients with other diseases treated with REMICADE over the long term is not known.
 
-The data reflect the percentage of patients whose test results were positive for antibodies to infliximab in an ELISA assay, and they are highly dependent on the sensitivity and specificity of the assay.
+The data reflect the percentage of patients whose test results were positive for antibodies to infliximab in an immunoassay, and they are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medication, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to infliximab with the incidence of antibodies to other products may be misleading.
 
@@ -239,8 +246,11 @@ The overall incidence of infections in the pediatric UC trial was 13/22 (59%) in
 Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections.
 Serious infections were reported in 12% (7/60) of all treated patients.
 
-In the pediatric UC trial, excluding inconclusive samples, 4 of 19 patients had antibodies to infliximab.
-Although 52 patients were tested, 33 patients were classified as inconclusive because they could not be ruled as negative due to assay interference by the presence of infliximab in the sample.
+In the pediatric UC trial, 58 patients were evaluated for antibodies to infliximab using the EIA as well as the drug-tolerant ECLIA.
+With the EIA, 4 of 58 (7%) patients had antibodies to infliximab.
+With the ECLIA, 30 of 58 (52%) patients had antibodies to infliximab [see Adverse Reactions, Immunogenicity (6.1)].
+The higher incidence of antibodies to infliximab by the ECLIA method was due to the 60-fold higher sensitivity compared to the EIA method.
+While EIA-positive patients generally had undetectable trough infliximab concentrations, ECLIA-positive patients could have detectable trough concentrations of infliximab because the ECLIA assay is more sensitive and drug-tolerant.
 
 Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 17% (10/60) of pediatric patients in the pediatric UC trial; 7% (4/60) had ALT elevations ≥3 × ULN, and 2% (1/60) had elevations ≥5 × ULN (median follow-up was 49 weeks).
 
