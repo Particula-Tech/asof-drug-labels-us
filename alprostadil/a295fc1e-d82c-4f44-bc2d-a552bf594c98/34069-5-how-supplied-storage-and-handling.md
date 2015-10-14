@@ -10,6 +10,13 @@ When reconstituted and used as directed, the deliverable amount of alprostadil i
 The reconstituted solution should be used within 24 hours when stored at or below 25°C (77°F) and not refrigerated or frozen.
 Only the accompanying diluent or bacteriostatic water for injection with benzyl alcohol should be used when reconstituting CAVERJECT.
 
-CAVERJECT is available in the following packages: 6–5 microgram vials NDC 0009-5131-02 6–10 microgram vials NDC 0009-3778-05 6–20 microgram vials NDC 0009-3701-05 6–40 microgram vials NDC 0009-7686-04
+| CAVERJECT is available in the following packages: |  |
+| --- | --- |
+| 6–5 microgram vials | NDC 0009-5131-02 |
+| 6–10 microgram vials | NDC 0009-3778-05 |
+| 6–20 microgram vials | NDC 0009-3701-05 |
+| 6–40 microgram vials | NDC 0009-7686-04 |
 
-Other available packages: 6–20 microgram vials with diluent syringes NDC 0009-3701-01
+| Other available packages: |  |
+| --- | --- |
+| 6–20 microgram vials with diluent syringes | NDC 0009-3701-01 |

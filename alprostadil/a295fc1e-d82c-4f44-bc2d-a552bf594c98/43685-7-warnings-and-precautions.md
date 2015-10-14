@@ -21,6 +21,13 @@ Therefore, the use of such combinations is not recommended.
 The patient should be instructed not to re-use or to share needles or syringes.
 As with all prescription medicines, the patient should not allow anyone else to use his medicine.
 
+### Benzyl alcohol
+
+The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
+The minimum amount of benzyl alcohol at which toxicity may occur is not known.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+Premature and low-birth weight infants may be more likely to develop toxicity.
+
 ## Information for the Patient
 
 To ensure safe and effective use of CAVERJECT, the patient should be thoroughly instructed and trained in the self-injection technique before he begins intracavernosal treatment with CAVERJECT at home.
