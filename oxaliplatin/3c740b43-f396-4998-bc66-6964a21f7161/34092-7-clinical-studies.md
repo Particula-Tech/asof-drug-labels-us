@@ -163,7 +163,7 @@ Table 21 – Patient Demographics in Patients Previously Untreated for Advanced 
 | <65 years of age (%) | 61 | 62 | 63 |
 | ≥65 years of age (%) | 39 | 38 | 37 |
 | ECOG (%) |  |  |  |
-| 0.1 | 94.4 | 95.5 | 94.7 |
+| 0–1 | 94.4 | 95.5 | 94.7 |
 | 2 | 5.6 | 4.5 | 5.3 |
 | Involved organs (%) |  |  |  |
 | Colon only | 0.7 | 0.8 | 0.4 |

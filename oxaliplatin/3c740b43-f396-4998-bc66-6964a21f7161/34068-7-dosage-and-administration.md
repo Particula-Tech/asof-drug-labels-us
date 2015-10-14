@@ -1,4 +1,4 @@
-# 2 DOSAGE and ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ELOXATIN (oxaliplatin injection) should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents.
 Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available.
@@ -22,7 +22,7 @@ For information on 5-fluorouracil and leucovorin, see the respective package ins
 
 ## 2.2 Dose Modification Recommendations
 
-Prior to subsequent therapy cycles, patients should be evaluated for clinical toxicities and recommended laboratory tests [see Warnings and Precautions (5.6)].
+Prior to subsequent therapy cycles, patients should be evaluated for clinical toxicities and recommended laboratory tests [see Warnings and Precautions (5.9)].
 Prolongation of infusion time for ELOXATIN from 2 hours to 6 hours may mitigate acute toxicities.
 The infusion times for 5-fluorouracil and leucovorin do not need to be changed.
 
@@ -34,7 +34,7 @@ For patients who experience persistent Grade 2 neurosensory events that do not r
 For patients with persistent Grade 3 neurosensory events, discontinuing therapy should be considered.
 The infusional 5-fluorouracil/leucovorin regimen need not be altered.
 
-A dose reduction of ELOXATIN to 75 mg/m2 and infusional 5-fluorouracil to 300 mg/m2 bolus and 500 mg/m2 22 hour infusion is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment) or grade 4 neutropenia or grade 3/4 thrombocytopenia.
+A dose reduction of ELOXATIN to 75 mg/m2 and infusional 5-fluorouracil to 300 mg/m2 bolus and 500 mg/m2 22 hour infusion is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment), or grade 4 neutropenia, or febrile neutropenia, or grade 3/4 thrombocytopenia.
 The next dose should be delayed until: neutrophils ≥1.5 × 109/L and platelets ≥75 × 109/L.
 
 Dose Modifications in Therapy in Previously Untreated and Previously Treated Patients with Advanced Colorectal Cancer
@@ -46,7 +46,7 @@ For patients who experience persistent Grade 2 neurosensory events that do not r
 For patients with persistent Grade 3 neurosensory events, discontinuing therapy should be considered.
 The 5-fluorouracil/leucovorin regimen need not be altered.
 
-A dose reduction of ELOXATIN to 65 mg/m2 and 5-fluorouracil by 20% (300 mg/m2 bolus and 500 mg/m2 22-hour infusion) is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment) or grade 4 neutropenia or grade 3/4 thrombocytopenia.
+A dose reduction of ELOXATIN to 65 mg/m2 and 5-fluorouracil by 20% (300 mg/m2 bolus and 500 mg/m2 22-hour infusion) is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment), or grade 4 neutropenia, or febrile neutropenia, or grade 3/4 thrombocytopenia.
 The next dose should be delayed until: neutrophils ≥1.5 × 109/L and platelets ≥75 × 109/L.
 
 Dose Modifications in Therapy for Patients with Renal Impairment

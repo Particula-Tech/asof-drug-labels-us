@@ -2,10 +2,13 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Anaphylaxis and Allergic reactions [See Boxed Warning, Warnings and Precautions (5.1).]
-- Neuropathy [See Warnings and Precautions (5.2).]
-- Pulmonary Toxicities [See Warnings and Precautions (5.3).]
-- Hepatotoxicity [See Warnings and Precautions (5.4).]
+- Anaphylaxis and Allergic reactions [see Boxed Warning, Warnings and Precautions (5.1).]
+- Neuropathy [see Warnings and Precautions (5.2).]
+- Severe Neutropenia [see Warnings and Precautions (5.3).]
+- Pulmonary Toxicities [see Warnings and Precautions (5.4).]
+- Hepatotoxicity [see Warnings and Precautions (5.5).]
+- Cardiovascular Toxicities [see Warnings and Precautions (5.6).]
+- Rhabdomyolysis [see Warnings and Precautions (5.7).]
 
 ## 6.1 Clinical Trials Experience
 
@@ -392,7 +395,7 @@ Serum creatinine measurements were not reported in the adjuvant trial.
 
 Hepatic
 
-Hepatotoxicity (defined as elevation of liver enzymes) appears to be related to ELOXATIN combination therapy [see Warnings and Precautions (5.4)].
+Hepatotoxicity (defined as elevation of liver enzymes) appears to be related to ELOXATIN combination therapy [see Warnings and Precautions (5.5)].
 The following tables list the clinical chemistry changes associated with hepatic toxicity occurring in ≥5% of patients, based on adverse reactions reported and NCI CTC grade for adjuvant patients and patients previously untreated for advanced colorectal cancer, laboratory values and NCI CTC grade for previously treated patients.
 
 Table 12 - Adverse Hepatic Reactions in Patients with Stage II or III Colon Cancer Receiving Adjuvant Therapy (≥5% of patients)
@@ -435,13 +438,19 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a whole: angioedema, anaphylactic shock
 
+Cardiovascular disorders: QT prolongation leading to ventricular arrhythmias including fatal Torsade de Pointes
+
 Central and peripheral nervous system disorders: loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
 
 Hearing and vestibular system disorders: deafness
 
+Infections: septic shock, including fatal outcomes
+
 Infusion reactions/hypersensitivity: laryngospasm
 
 Liver and Gastrointestinal system disorders: severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
+
+Musculoskeletal and connective tissue disorders rhabdomyolysis, including fatal outcomes.
 
 Platelet, bleeding, and clotting disorders: immuno-allergic thrombocytopenia prolongation of prothrombin time and of INR in patients receiving anticoagulants
 
