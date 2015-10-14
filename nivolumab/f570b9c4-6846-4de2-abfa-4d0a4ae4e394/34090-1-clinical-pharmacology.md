@@ -7,14 +7,25 @@ Upregulation of PD-1 ligands occurs in some tumors and signaling through this pa
 Nivolumab is a human immunoglobulin G4 (IgG4) monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response.
 In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.
 
+Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in enhanced T-cell function that is greater than the effects of either antibody alone, and results in improved anti-tumor responses in metastatic melanoma.
+In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in increased anti-tumor activity.
+
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics (PK) of nivolumab was studied in patients over a dose range of 0.1 to 20 mg/kg administered as a single dose or as multiple doses of OPDIVO every 2 or 3 weeks.
-Based on a population pharmacokinetic (PK) analysis using data from 909 patients, the geometric mean (% coefficient of variation [CV%]) clearance (CL) is 9.5 mL/h (49.7%), geometric mean volume of distribution at steady state (Vss) is 8.0 L (30.4%), and geometric mean elimination half-life (t1/2) is 26.7 days (101%).
+Nivolumab pharmacokinetics (PK) was assessed using a population PK approach for both single-agent OPDIVO and OPDIVO in combination with ipilimumab.
+
+OPDIVO as a single agent: The PK of single-agent nivolumab was studied in patients over a dose range of 0.1 to 20 mg/kg administered as a single dose or as multiple doses of OPDIVO every 2 or 3 weeks.
+The geometric mean (% coefficient of variation [CV%]) clearance (CL) is 9.5 mL/h (49.7%), geometric mean volume of distribution at steady state (Vss) is 8.0 L (30.4%), and geometric mean elimination half-life (t1/2) is 26.7 days (101%).
 Steady-state concentrations of nivolumab were reached by 12 weeks when administered at 3 mg/kg every 2 weeks, and systemic accumulation was approximately 3-fold.
 The exposure to nivolumab increased dose proportionally over the dose range of 0.1 to 10 mg/kg administered every 2 weeks.
 
-Specific Populations: Based on a population PK analysis using data from 909 patients, the clearance of nivolumab increased with increasing body weight supporting a weight-based dose.
+OPDIVO in combination with ipilimumab: The geometric mean (%CV) CL, Vss, and terminal half-life of nivolumab were 10.0 mL/h (50.3%), 7.92 L (30.1%), and 24.8 days (94.3%), respectively.
+When administered in combination, the CL of nivolumab was increased by 24%, whereas there was no effect on the clearance of ipilimumab.
+
+When administered in combination, the clearance of nivolumab increased by 42% in the presence of anti-nivolumab antibodies.
+There was no effect of anti-ipilimumab antibodies on the clearance of ipilimumab.
+
+Specific Populations: Based on a population PK analysis, the clearance of nivolumab increased with increasing body weight supporting a weight-based dose.
 The population PK analysis suggested that the following factors had no clinically important effect on the clearance of nivolumab: age (29 to 87 years), gender, race, baseline LDH, PD-L1 expression, tumor type, tumor size, renal impairment, and mild hepatic impairment.
 
 Renal Impairment: The effect of renal impairment on the clearance of nivolumab was evaluated by a population PK analysis in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n=313), moderate (eGFR 30 to 59 mL/min/1.73 m2; n=140), or severe (eGFR 15 to 29 mL/min/1.73 m2; n=3) renal impairment.

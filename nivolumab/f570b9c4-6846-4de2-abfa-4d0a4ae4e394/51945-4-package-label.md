@@ -13,7 +13,7 @@ Please provide enclosed Medication Guide to the patient.
 
 Bristol-Myers Squibb
 
-# OPDIVO 100 mg/10 mL Representative Packaging.
+# OPDIVO 100 mg/10 mL Representative Packaging
 
 NDC 0003-3774-12 Rx only
 
