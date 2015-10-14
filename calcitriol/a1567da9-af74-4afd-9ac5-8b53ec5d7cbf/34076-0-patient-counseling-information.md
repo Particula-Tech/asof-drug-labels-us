@@ -16,11 +16,11 @@ It should be gently rubbed into the skin so that no medication remains visible.
 
 Patients should report any signs of adverse reactions to their physician.
 
-To report SUSPECTED ADVERSE REACTIONS, contact: Galderma Laboratories, L.P. at 1-866-735-4137 or FDA at 1-800-FDA-1088 or go to www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 1-866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
 U.S. Patent No. 7,749,986
 
-Marketed by: Galderma Laboratories L.P.
+Marketed by: Galderma Laboratories, L.P.
 Fort Worth, Texas 76177 USA
 
 Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada

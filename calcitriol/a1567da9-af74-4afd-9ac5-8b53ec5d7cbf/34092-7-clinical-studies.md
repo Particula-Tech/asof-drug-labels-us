@@ -6,3 +6,5 @@ The mean age of the subjects was 48 years and 66% were male; most subjects were 
 
 Success was defined as "Clear or Minimal" (up to light red or pink in coloration, surface dryness with some white coloration, and slight elevation above normal skin) with at least a 2-grade change from baseline.
 The success rates are displayed in the table.
+
+## 14.1 Controlled Clinical Studies

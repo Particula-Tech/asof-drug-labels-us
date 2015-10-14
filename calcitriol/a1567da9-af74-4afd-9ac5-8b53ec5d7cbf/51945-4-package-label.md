@@ -11,6 +11,10 @@ Do not freeze or refrigerate.
 Lot no. and exp. date on crimp.
 
 US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+Fort Worth, Texas 76177 USA
+
+Made in Canada.
+
 GALDERMA is a registered trademark.
-P51449-3
+
+P51449-4
