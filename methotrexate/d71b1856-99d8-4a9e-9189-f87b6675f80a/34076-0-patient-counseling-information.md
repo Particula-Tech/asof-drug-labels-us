@@ -1,6 +1,6 @@
 # Patient Instructions
 
-METHOTREXATE Tablets USP, 2.5 mg
+METHOTREXATE (meth-oh-trek-seyt) Tablets USP, 2.5 mg
 
 Read the Patient Information that comes with Methotrexate Tablets USP, 2.5 mg before you start using it and each time you get a refill.
 There may be new information.
@@ -123,7 +123,8 @@ Ask your doctor or pharmacist for more information.
 
 How should I store methotrexate?
 
-- •Store methotrexate at room temperature between 59° to 86°F (15° to 30°C).
+- •Store methotrexate at 20˚ to 25˚C (68˚ to 77˚F).
+  [See USP Controlled Room Temperature.]
 - •Keep methotrexate away from light.
 - •Keep methotrexate and all medicines out of the reach of children.
 
@@ -142,12 +143,12 @@ For additional information, you may contact Roxane Laboratories at 1-800-962-836
 
 What are the ingredients in methotrexate?
 
-Active Ingredient: Methotrexate contains an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate.
+Active Ingredient: Methotrexate contains an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate USP.
 
-Inactive Ingredients: lactose, magnesium stearate, pregelatinized starch NF, sodium hydroxide, and sodium starch glycolate.
+Inactive Ingredients: lactose (anhydrous), magnesium stearate, pregelatinized starch, sodium hydroxide pellets, and sodium starch glycolate.
 
-10004494/05
+10004494/06
 
-Revised February 2012
+Revised September 2015
 
-© RLI, 2012
+© RLI, 2015
