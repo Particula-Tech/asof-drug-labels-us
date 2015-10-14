@@ -1,26 +1,26 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Patients should use fluticasone propionate nasal spray at regular intervals for optimal effect.
+Administer fluticasone propionate nasal spray by the intranasal route only.
+Prime fluticasone propionate nasal spray before using for the first time or after a period of non-use (1 week or more) by shaking the contents well and releasing 6 sprays into the air away from the face.
+Shake fluticasone propionate nasal spray gently before each use.
 
-## Adults
+Patients should use fluticasone propionate nasal spray at regular intervals since its effectiveness depends on its regular use.
+Maximum effect may take several days and individual patients will experience a variable time to onset and different degree of symptom relief.
 
-The recommended starting dosage in adults is two sprays (50 mcg of fluticasone propionate each) in each nostril once daily (total daily dose, 200 mcg).
-The same dosage divided into 100 mcg given twice daily (e.g., 8 a.m. and 8 p.m.) is also effective.
-After the first few days, patients may be able to reduce their dosage to 100 mcg (one spray in each nostril) once daily for maintenance therapy.
-Some patients (12 years of age and older) with seasonal allergic rhinitis may find as-needed use of 200 mcg once daily effective for symptom control (see CLINICAL TRIALS).
-Greater symptom control may be achieved with scheduled regular use.
+## 2.1Adults
 
-## Adolescents and Children (4 Years of Age and Older)
+The recommended starting dosage in adults is 2 sprays (50 mcg of fluticasone propionate each) in each nostril once daily (total daily dose, 200 mcg).
+The same total daily dose, 1 spray in each nostril administered twice daily (e.g., 8 a.m. and 8 p.m.) is also effective.
+After the first few days, patients may be able to reduce their dose to 1 spray in each nostril once daily for maintenance therapy.
 
-Patients should be started with 100 mcg (one spray in each nostril once daily).
-Patients not adequately responding to 100 mcg may use 200 mcg (two sprays in each nostril).
-Once adequate control is achieved, the dosage should be decreased to 100 mcg (one spray in each nostril) daily.
+Maximum total daily doses should not exceed 2 sprays in each nostril (total dose, 200 mcg/day).
+There is no evidence that exceeding the recommended dose is more effective.
 
-The maximum total daily dosage should not exceed two sprays in each nostril (200 mcg/day).
-(See CLINICAL TRIALS: Individualization of Dosage)
+## 2.2Adolescents and Children (Aged 4 Years and Older)
 
-Fluticasone propionate nasal spray is not recommended for children under 4 years of age.
+The recommended starting dosage in adolescents and children, aged 4 years and older is 1 spray in each nostril once daily (total daily dose, 100 mcg).
+Patients not adequately responding to 1 spray in each nostril may use 2 sprays in each nostril once daily (total daily dose, 200 mcg).
+Once adequate control is achieved, the dosage should be decreased to 1 spray in each nostril once daily.
 
-## Directions for Use
-
-Illustrated patient’s instructions for proper use accompany each package of fluticasone propionate nasal spray.
+The maximum total daily dosage should not exceed 2 sprays in each nostril (200 mcg/day).
+There is no evidence that exceeding the recommended dose is more effective.

@@ -1,185 +1,275 @@
-# Information for Patients
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+
+Local Nasal Effects: Inform patients that treatment with fluticasone propionate nasal spray may lead to adverse reactions, which include epistaxis and nasal ulceration.
+Candida infection may also occur with treatment with fluticasone propionate nasal spray.
+In addition, fluticasone propionate nasal spray has been associated with nasal septal perforation and impaired wound healing.
+Patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should not use fluticasone propionate nasal spray until healing has occurred [see Warnings and Precautions (5.1)].
+
+Glaucoma and Cataracts: Inform patients that glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
+Advise patients to notify their healthcare providers if a change in vision is noted while using fluticasone propionate nasal spray [see Warnings and Precautions (5.2)].
+
+Hypersensitivity Reactions, including Anaphylaxis: Inform patients that hypersensitivity reactions, including anaphylaxis, angioedema, urticaria, contact dermatitis, and rash, may occur after administration of fluticasone propionate nasal spray.
+If such reactions occur, patients should discontinue use of fluticasone propionate nasal spray [see Warnings and Precautions (5.3)].
+
+Immunosuppression: Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and if they are exposed to consult their healthcare provider without delay.
+Inform patients of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex [see Warnings and Precautions (5.4)].
+
+Reduced Growth Velocity: Advise parents that fluticasone propionate nasal spray may cause a reduction in growth velocity when administered to pediatric patients.
+Physicians should closely follow the growth of children and adolescents taking corticosteroids by any route [see Warnings and Precautions (5.7), Pediatric Use (8.4)].
+
+Use Daily for Best Effect: Inform patients that they should use fluticasone propionate nasal spray on a regular basis.
+Fluticasone propionate nasal spray, like other corticosteroids, does not have an immediate effect on rhinitis symptoms.
+Maximum benefit may not be reached for several days.
+Patients should not increase the prescribed dosage but should contact their healthcare providers if symptoms do not improve or if the condition worsens.
+
+Keep Spray Out of Eyes and Mouth: Inform patients to avoid spraying fluticasone propionate nasal spray in their eyes and mouth.
+
+# Patient Information
 
 FLUTICASONE PROPIONATE
 
+(FLOO-tih-kah-sone)
+
 Nasal Spray USP, 50 mcg
 
-Please read this leaflet carefully before you start to take your medicine.
-It provides a summary of information on your medicine.
-For further information ask your doctor or pharmacist.
+Read the Patient Information that comes with fluticasone propionate nasal spray before you start using it and each time you get a refill.
+There may be new information.
+This Patient Information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-WHAT YOU SHOULD KNOW ABOUT RHINITIS
+What is fluticasone propionate nasal spray?
 
-Rhinitis is a word that means inflammation of the lining of the nose.
-If you suffer from rhinitis, your nose becomes stuffy and runny.
-Rhinitis can also make your nose itchy, and you may sneeze a lot.
-Rhinitis can be caused by allergies to pollen, animals, molds, or other materials - or it may have a nonallergic cause.
+Fluticasone propionate nasal spray is a prescription medicine used to treat non-allergy nasal symptoms such as runny nose, stuffy nose, sneezing, and nasal itching in adults and children aged 4 years and older.
 
-WHAT YOU SHOULD KNOW ABOUT FLUTICASONE PROPIONATE NASAL SPRAY USP
+It is not known if fluticasone propionate nasal spray is safe and effective in children younger than 4 years of age.
 
-Your doctor has prescribed Fluticasone Propionate Nasal Spray, a medicine that can help treat your rhinitis.
-Fluticasone Propionate Nasal Spray contains fluticasone propionate, which is a synthetic corticosteroid.
-Corticosteroids are natural substances found in the body that help fight inflammation.
-When you spray fluticasone into your nose, it helps to reduce the symptoms of allergic reactions and the stuffiness, runniness, itching, and sneezing that can bother you.
+Who should not use fluticasone propionate nasal spray?
 
-THINGS TO REMEMBER ABOUT FLUTICASONE PROPIONATE NASAL SPRAY USP
+Do not use fluticasone propionate nasal spray if you are allergic to fluticasone propionate or any of the ingredients in fluticasone propionate nasal spray.
+See “What are the ingredients in fluticasone propionate nasal spray?” below for a complete list of ingredients.
 
-- •Shake gently before using.
-- •Use your nasal spray as directed by your doctor.
-  The directions are on the pharmacy label.
-- •Keep your nasal spray out of the reach of children.
+What should I tell my healthcare provider before using fluticasone propionate nasal spray?
 
-BEFORE USING YOUR NASAL SPRAY
+Tell your healthcare provider about all of your health conditions, including if you:
 
-- •If you are pregnant (or intending to become pregnant),
-- •If you are breast-feeding a baby,
-- •If you are allergic to Fluticasone Propionate Nasal Spray or any other nasal corticosteroids,
-- •If you are taking a medicine containing ritonavir (commonly used to treat HIV infection or AIDS),
+- •have or have had nasal sores, nasal surgery, or nasal injury.
+- •have eye problems, such as cataracts or glaucoma.
+- •have an immune system problem.
+- •are allergic to any of the ingredients in fluticasone propionate nasal spray, any other medicines, or food products.
+  See “What are the ingredients in fluticasone propionate nasal spray?” below for a complete list of ingredients.
+- •have any type of viral, bacterial, or fungal infection.
+- •are exposed to chickenpox or measles.
+- •have any other medical conditions.
+- •are pregnant or planning to become pregnant.
+  It is not known if fluticasone propionate nasal spray may harm your unborn baby.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if fluticasone propionate nasal spray passes into your breast milk and if it can harm your baby.
 
-TELL YOUR DOCTOR BEFORE STARTING TO TAKE THIS MEDICINE.
-In some circumstances, this medicine may not be suitable and your doctor may wish to give you a different medicine.
-Make sure that your doctor knows what other medicines you are taking.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Fluticasone propionate nasal spray and certain other medicines may interact with each other.
+This may cause serious side effects.
+Especially, tell your healthcare provider if you take antifungal or anti-HIV medicines.
 
-USING YOUR NASAL SPRAY
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
-- •Follow the instructions shown in the rest of this leaflet.
-  If you have any problems, tell your doctor or pharmacist.
-- •It is important that you use it as directed by your doctor.
-  The pharmacist’s label will usually tell you what dose to take and how often.
-  If it doesn’t, or you are not sure, ask your doctor or pharmacist.
+How should I use fluticasone propionate nasal spray?
 
-DOSAGE
+Read the step-by-step instructions for using fluticasone propionate nasal spray at the end of this Patient Information.
 
-- •For ADULTS, the usual starting dosage is 2 sprays in each nostril once daily.
-  Sometimes your doctor may recommend using 1 spray in each nostril twice a day (morning and evening).
-  You should not use more than a total of 2 sprays in each nostril daily.
-  After you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
-- •For ADOLESCENTS and CHILDREN (4 years of age and older), the usual starting dosage is 1 spray in each nostril once daily.
-  Sometimes your doctor may recommend using 2 sprays in each nostril daily.
-  Then, after you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
-- •DO NOT use more of your medicine or take it more often than your doctor advises.
-- •Fluticasone Propionate may begin to work within 12 hours of the first dose, but it takes several days of regular use to reach its greatest effect.
-  It is important that you use Fluticasone Propionate Nasal Spray as prescribed by your doctor.
-  Best results will be obtained by using the spray on a regular basis.
-  If symptoms disappear, contact your doctor for further instructions.
-- •If you also have itchy, watery eyes, you should tell your doctor.
-  You may be given an additional medication to treat your eyes.
-  Be careful not to confuse them, particularly if the second medication is an eye drop.
-- •If you miss a dose, just take your regularly scheduled next dose when it is due.
-  DO NOT DOUBLE the dose.
+- •Fluticasone propionate nasal spray is for use in your nose only.
+  Do not spray it in your eyes or mouth.
+- •Children should use fluticasone propionate nasal spray with an adult’s help, as instructed by the child’s healthcare provider.
+- •Use fluticasone propionate nasal spray exactly as your healthcare provider tells you.
+  Do not use fluticasone propionate nasal spray more often than prescribed.
+- •Fluticasone propionate nasal spray may take several days of regular use for your rhinitis symptoms to get better.
+  If your symptoms do not improve or get worse, call your healthcare provider.
+- •You will get the best results if you keep using fluticasone propionate nasal spray regularly each day without missing a dose.
+  After you begin to feel better, your healthcare provider may decrease your dose.
+  Do not stop using fluticasone propionate nasal spray unless your healthcare provider tells you to do so.
 
-HOW TO USE YOUR NASAL SPRAY
+What are the possible side effects of fluticasone propionate nasal spray?
 
-Read the complete instructions carefully and use only as directed.
+Fluticasone propionate nasal spray may cause serious side effects, including:
 
-BEFORE USING
+- •nose problems.
+  Nose problems may include:
+  - onose bleeds.
+  - osores (ulcers) in your nose.
+  - oa certain fungal infection in your nose, mouth, and/or throat (thrush).
+  - ohole in the cartilage of your nose (nasal septal perforation).
+- Symptoms of nasal septal perforation may include:
+  1. ▪crusting in the nose
+  2. ▪nose bleeds
+  3. ▪runny nose
+  4. ▪whistling sound when you breathe
+  5. oslow wound healing.
+     You should not use fluticasone propionate nasal spray until your nose has healed if you have a sore in your nose, have had surgery on your nose, or if your nose has been injured.
+- •eye problems including glaucoma and cataracts.
+  You should have regular eye exams while you use fluticasone propionate nasal spray.
+- •serious allergic reactions.
+  Call your healthcare provider or get emergency medical care if you get any of the following signs of a serious allergic reaction:
+  - orash
+  - ohives
+  - oswelling of your face, mouth, and tongue
+  - obreathing problems
+- •weakened immune system and increased chance of getting infections (immunosuppression).
+  Taking medicines that weaken your immune system makes you more likely to get infections and can make certain infections worse.
+  These infections may include tuberculosis (TB), ocular herpes simplex infections, and infections caused by fungi, bacteria, viruses, and parasites.
+  Avoid contact with people who have a contagious disease such as chickenpox or measles while using fluticasone propionate nasal spray.
+  If you come in contact with someone who has chickenpox or measles call your healthcare provider right away.
+  Symptoms of an infection may include:
+  - ofever
+  - ofeeling tired
+  - opain
+  - onausea
+  - oaches
+  - ovomiting
+  - ochills
+- •lowered steroid hormone levels (adrenal insufficiency).
+  Adrenal insufficiency happens when your adrenal glands do not make enough steroid hormones.
+  This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking medicine containing an inhaled steroid (such as fluticasone propionate nasal spray).
+  Symptoms of adrenal insufficiency may include:
+  - ofeeling tired
+  - olack of energy
+  - oweakness
+  - o nausea and vomiting
+  - olow blood pressure
+- •slowed growth in children.
+  A child’s growth should be checked often.
 
-1.
-Shake the bottle gently and then remove the dust cap and the safety clip (Figure 1).
+The most common side effects of fluticasone propionate nasal spray include:
+
+- •headache
+- •nausea and vomiting
+- •sore throat
+- •trouble breathing
+- •nose bleeds
+- •cough
+- •nose burning or itching
+
+Tell your healthcare provider about any side effect that bothers you or does not go away.
+
+These are not all the side effects with fluticasone propionate nasal spray.
+Ask your healthcare provider or pharmacist for more information.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How do I store fluticasone propionate nasal spray?
+
+- •Store fluticasone propionate nasal spray at 68° to 77°F (20° to 25°C).
+
+Keep fluticasone propionate nasal spray and all medicines out of the reach of children.
+
+General information about the safe and effective use of fluticasone propionate nasal spray.
+
+Medicines are sometimes prescribed for purposes not mentioned in a Patient Information leaflet.
+Do not use fluticasone propionate nasal spray for a condition for which it was not prescribed.
+Do not give your fluticasone propionate nasal spray to other people, even if they have the same condition that you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about fluticasone propionate nasal spray.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about fluticasone propionate nasal spray that was written for healthcare professionals.
+
+For more information about fluticasone propionate nasal spray, call 1-800-962-8364.
+
+What are the ingredients in fluticasone propionate nasal spray?
+
+Active ingredient: fluticasone propionate.
+
+Inactive ingredients: 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol, and polysorbate 80.
+
+Instructions for Use
+
+FLUTICASONE PROPIONATE (FLOO-tih-kah-sone)
+
+Nasal Spray USP, 50 mcg
+
+Fluticasone propionate nasal spray is for use in your nose only.
+
+Read this information before you start using your fluticasone propionate nasal spray.BEFORE USING
+
+Your fluticasone propionate nasal spray must be primed before you use it for the first time and when you have not used it for a week or more.
+
+How to prime your fluticasone propionate nasal spray:
+
+- •Shake the bottle gently and then remove the dust cap and the safety clip (Figure 1).
 
 Figure 1
 
-Figure 1
-
-2.
-It is necessary to prime the pump into the air the first time it is used, or when you have not used it for a week or more.
-To prime the pump, hold the bottle as shown with the nasal applicator pointing away from you and with your forefinger and middle finger on either side of the nasal applicator and your thumb underneath the bottle.
-When you prime the pump for the first time, press down and release the pump six times (Figure 2).
+- •Hold the bottle as shown (Figure 2) with the nasal applicator pointing away from you and with your forefinger and middle finger on either side of the nasal applicator and your thumb underneath the bottle.
+- •Press down and release 6 times until a fine spray appears (Figure 2).
+  The pump is now ready for use.
 
 Figure 2
 
-Figure 2
+Using your fluticasone propionate nasal spray:
 
-The pump is now ready for use.
-If the pump is not used for 7 days, prime until a fine spray appears.
+Step 1: Blow your nose to clear your nostrils.
 
-USING THE SPRAY
-
-3.
-Blow your nose to clear your nostrils.
-
-4.
-Close one nostril.
+Step 2: Close 1 nostril.
 Tilt your head forward slightly and, keeping the bottle upright, carefully insert the nasal applicator into the other nostril (Figure 3).
 
 Figure 3
 
-Figure 3
-
-5.
-Start to breathe in through your nose, and WHILE BREATHING IN press firmly and quickly down once on the applicator to release the spray.
-To get a full actuation, use your forefinger and middle finger to spray while supporting the base of the bottle with your thumb.
+Step 3: Start to breathe in through your nose, and while breathing in press firmly and quickly down 1 time on the applicator to release the spray.
+To get a full dose, use your forefinger and middle finger to spray while supporting the base of the bottle with your thumb.
 Avoid spraying in eyes.
-Breathe gently inwards through the nostril (Figure 4).
+Breathe in gently through the nostril (Figure 4).
 
 Figure 4
 
-Figure 4
+Step 4: Breathe out through your mouth.
 
-6.
-Breathe out through your mouth.
+Step 5: If a second spray is required in that nostril, repeat steps 2 through 4.
 
-7.
-If a second spray is required in that nostril, repeat steps 4 though 6.
+Step 6: Repeat steps 2 through 5 in the other nostril.
 
-8.
-Repeat steps 4 through 7 in the other nostril.
-
-9.
-Wipe the nasal applicator with a clean tissue and replace the dust cap and the safety clip (Figure 5).
+Step 7: Wipe the nasal applicator with a clean tissue and replace the dust cap and the safety clip (Figure 5).
 
 Figure 5
 
-Figure 5
-
-10.
 Do not use this bottle for more than the labeled number of sprays even though the bottle is not completely empty.
-Before you throw the bottle away, you should consult your doctor to see if a refill is needed.
-Do not take extra doses or stop taking Fluticasone Propionate Nasal Spray without consulting your doctor.
+Before you throw the bottle away, you should talk to your healthcare provider to see if a refill is needed.
+Do not take extra doses or stop taking fluticasone propionate nasal spray without talking to your healthcare provider.
 
-CLEANING
+Cleaning your fluticasone propionate nasal spray:
 
-Your nasal spray should be cleaned at least once a week.
-To do this:
+Your nasal spray should be cleaned at least 1 time each week.
 
 1.
 Remove the dust cap and then gently pull upwards to free the nasal applicator.
 
 2.
 Wash the applicator and dust cap under warm tap water.
-Allow to dry at room temperature, then place the applicator and dust cap back on the bottle.
+Allow to dry at room temperature.
 
 3.
-If the nasal applicator becomes blocked, it can be removed as above and left to soak in warm water.
-Rinse with cold tap water, dry, and refit.
+Place the applicator and dust cap back on the bottle.
+
+4.
+If the nasal applicator becomes blocked, it can be removed and left to soak in warm water.
+Rinse the nasal applicator with cold tap water.
+Dry the nasal applicator and place it back on the bottle.
 Do not try to unblock the nasal applicator by inserting a pin or other sharp object.
 
-Read the complete instructions carefully and use only as directed.
+Storing your fluticasone propionate nasal spray:
 
-STORING YOUR NASAL SPRAY
-
-- •Keep you Fluticasone Propionate Nasal Spray out of the reach of children.
-- •Avoid spraying in eyes.
 - •Store at 20° to 25°C (68° to 77°F).
   [See USP Controlled Room Temperature.]
-- •Do not use your Fluticasone Propionate Nasal Spray after the date shown as “EXP” on the label or box.
+- •Do not use your fluticasone propionate nasal spray after the date shown as “EXP” on the label or box.
 
-REMEMBER: This medicine has been prescribed for you by your doctor.
-DO NOT give this medicine to anyone else.
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-FURTHER INFORMATION
+Roxane Laboratories, Inc.
 
-This leaflet does not contain the complete information about your medicine.
-If you have any questions, or are not sure about something, then you should ask your doctor or pharmacist.
+Columbus, Ohio 43216
 
-You may want to read this leaflet again.
-Please DO NOT THROW IT AWAY until you have finished your medicine.
+10002064/07
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+Revised April 2015
 
-10002064/06
-
-Revised November 2014
-
-© RLI, 2014
+© RLI, 2015

@@ -1,10 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Chronic overdosage may result in signs/symptoms of hypercorticism (see PRECAUTIONS).
-Intranasal administration of 2 mg (10 times the recommended dose) of fluticasone propionate twice daily for 7 days to healthy human volunteers was well tolerated.
+Chronic overdosage may result in signs/symptoms of hypercorticism [see Warnings and Precautions (5.5)].
+Intranasal administration of 2 mg (10 times the recommended dose) of fluticasone propionate twice daily for 7 days was administered to healthy human volunteers.
+Adverse events reported with fluticasone propionate were similar to placebo, and no clinically significant abnormalities in laboratory safety tests were observed.
 Single oral doses up to 16 mg have been studied in human volunteers with no acute toxic effects reported.
 Repeat oral doses up to 80 mg daily for 10 days in volunteers and repeat oral doses up to 10 mg daily for 14 days in patients were well tolerated.
 Adverse reactions were of mild or moderate severity, and incidences were similar in active and placebo treatment groups.
-Acute overdosage with this dosage form is unlikely since one bottle of fluticasone propionate nasal spray contains approximately 8 mg of fluticasone propionate.
-
-The oral and subcutaneous median lethal doses in mice and rats were >1,000 mg/kg (>20,000 and >41,000 times, respectively, the maximum recommended daily intranasal dose in adults and >10,000 and >20,000 times, respectively, the maximum recommended daily intranasal dose in children on a mg/m2 basis).
+Acute overdosage with this dosage form is unlikely since 1 bottle of fluticasone propionate nasal spray contains approximately 8 mg of fluticasone propionate.

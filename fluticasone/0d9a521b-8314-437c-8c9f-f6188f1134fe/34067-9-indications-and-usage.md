@@ -1,9 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Fluticasone Propionate Nasal Spray USP is indicated for the management of the nasal symptoms of seasonal and perennial allergic and nonallergic rhinitis in adults and pediatric patients 4 years of age and older.
-
-Safety and effectiveness of Fluticasone Propionate Nasal Spray USP in children below 4 years of age have not been adequately established.
-
-## CONTRAINDICATIONS
-
-Fluticasone Propionate Nasal Spray USP is contraindicated in patients with a hypersensitivity to any of its ingredients.
+Fluticasone Propionate Nasal Spray USP is indicated for the management of the nasal symptoms of perennial nonallergic rhinitis in adults and pediatric patients aged 4 years and older.

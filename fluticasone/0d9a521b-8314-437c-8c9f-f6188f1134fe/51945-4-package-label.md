@@ -1,9 +1,3 @@
-# Package Label - Fluticasone Propionate Nasal Spray USP 50 mcg
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0054-3270-99 - 16 g net fill weight
-
-Bottle Label
-
-Rx Only
-
-Roxane Laboratories, Inc.
