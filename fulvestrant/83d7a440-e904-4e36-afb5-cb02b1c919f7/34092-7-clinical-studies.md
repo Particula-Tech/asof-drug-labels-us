@@ -18,7 +18,7 @@ Approximately 55% of patients had visceral disease.
 
 Results of Study 1 are summarized in Table 4.
 The efficacy of FASLODEX 500 mg was compared to that of FASLODEX 250 mg.
-Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of FASLODEX 500 mg vs FASLODEX 250 mg.
+Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of FASLODEX 500 mg vs. FASLODEX 250 mg.
 In the initial Overall Survival (OS) analysis after a minimum follow-up duration of 18 months, there was no statistically significant difference in OS between the two treatment groups.
 After a minimum follow-up duration of 50 months, an updated OS analysis was performed.
 Figure 5 shows a Kaplan-Meier plot of the updated OS data.
@@ -28,7 +28,7 @@ Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
 | Endpoint | Fulvestrant 500 mg(N=362) | Fulvestrant 250 mg(N=374) |
 | --- | --- | --- |
 | PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.Median (months) | 6.5 | 5.4 |
-| Hazard RatioHazard ratio < 1 favors FASLODEX 500 mg. (95% CICI=Confidence Interval) | 0.80 (0.68-0.94) |  |
+| Hazard RatioHazard Ratio < 1 favors FASLODEX 500 mg. (95% CICI=Confidence Interval) | 0.80 (0.68-0.94) |  |
 | p-value | 0.006 |  |
 | OSOS=Overall Survival Updated Analysis(% patients who died) | 261 (72.1%) | 293 (78.3%) |
 | Median OS (months) | 26.4 | 22.3 |
@@ -37,7 +37,7 @@ Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
 
 Figure 4 Kaplan-Meier PFS: Study 1 ITT Population
 
-Figure 5 Kaplan-Meier OS (minimum follow-up duration of 50 months): Study 1 ITT Population
+Figure 5 Kaplan-Meier OS (Minimum Follow-up Duration of 50 Months): Study 1 ITT Population
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Data (Studies 2 and 3)
 

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-FASLODEX® (fulvestrant) Injection for intramuscular administration is an estrogen receptor antagonist.
+FASLODEX® (fulvestrant) injection for intramuscular administration is an estrogen receptor antagonist.
 The chemical name is 7-alpha-[9-(4,4,5,5,5-penta fluoropentylsulphinyl) nonyl]estra-1,3,5-(10)- triene-3,17-beta-diol.
 The molecular formula is C32H47F5O3S and its structural formula is:
 

@@ -30,15 +30,15 @@ The proper method of administration of FASLODEX for intramuscular use is describ
   If unable to activate, discard immediately into an approved sharps collector.
 - Repeat steps 1 through 10 for second syringe.
 
-How To Use FASLODEX.
+How To Use FASLODEX
 
 For the 2 x 5 mL syringe package, the contents of both syringes must be injected to receive the 500 mg recommended dose.
 
 SAFETYGLIDE™ INSTRUCTIONS FROM BECTON DICKINSON
 
-SafetyGlide™ is a trademark of Becton Dickinson and Company
+SafetyGlide™ is a trademark of Becton Dickinson and Company.
 
-Reorder number 305917
+Reorder number: 305917
 
 CAUTION CONCERNING SAFETYGLIDE™
 

@@ -1,5 +1,10 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+- •Blood Disorders [see Warnings and Precautions (5.1)]
+- •Hepatic Impairment [see Warnings and Precautions (5.2)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.

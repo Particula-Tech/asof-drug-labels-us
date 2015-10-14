@@ -38,10 +38,10 @@ Patients’ baseline characteristics included the following: a mean ± SD chrono
 Twenty-nine of 30 patients completed the 12-month study period.
 The following results were observed: 35% (95% CI: 16%, 57%) of the 23 patients with baseline vaginal bleeding experienced a complete cessation of vaginal bleeding on-treatment (month 0 to 12); a reduction in the rate of bone age advancement during the 12-month study period compared to baseline (mean change = -0.9 [95% CI = -1.4, -0.4]); and a reduction in mean growth velocity Z-score on-treatment compared to baseline (mean change = -1.1 [95% CI = -2.7, 0.4]).
 There were no clinically meaningful changes in median Tanner stage (breast or pubic), mean uterine volume, or mean ovarian volume, or predicted adult height (PAH) on-treatment compared to baseline.
-The effect of Faslodex on bone mineral density in children has not been studied and is not known.
+The effect of FASLODEX on bone mineral density in children has not been studied and is not known.
 
 Eight patients (27%) experienced adverse reactions that were considered possibly related to Faslodex.
-These included injection site reactions (inflammation, pain, hematoma, pruritis, rash), abdominal pain, contusion, tachycardia, hot flush, extremity pain, and vomiting.
+These included injection site reactions (inflammation, pain, hematoma, pruritus, rash), abdominal pain, contusion, tachycardia, hot flush, extremity pain, and vomiting.
 Nine (30.0%) patients reported an SAE, none of which were considered related to Faslodex.
 No patients discontinued study treatment due to an AE and no patients died.
 
