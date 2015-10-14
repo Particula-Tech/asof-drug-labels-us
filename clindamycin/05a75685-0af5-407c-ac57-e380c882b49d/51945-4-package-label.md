@@ -287,3 +287,33 @@ Pfizer Injectables
 900 mg/ 50 mL* in 5% Dextrose
 
 NDC 0009-3382-02 Code 2G3416
+
+# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL ADD-vantage Vial Label
+
+NDC 0009-6582-02
+
+Single Dose 2 mL ADD-Vantage® Vial
+
+Cleocin Phosphate® clindamycin injection, USP 300 mg/2 mL* (150 mg/mL)
+
+For intravenous use only
+
+Use only with the ADD-Vantage diluent container.
+
+Pfizer Injectables
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL ADD-vantage Vial Carton
+
+25—2 mL Single Dose ADD-Vantage® Vials
+
+NDC 0009-6582-01 Contains 25 of NDC 0009-6582-02
+
+Cleocin Phosphate® clindamycin injection, USP 300 mg/2 mL* (150 mg/mL)
+
+For intravenous use only
+
+Pfizer Injectables
+
+Rx only

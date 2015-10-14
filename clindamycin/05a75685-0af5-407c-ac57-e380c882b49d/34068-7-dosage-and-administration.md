@@ -4,7 +4,7 @@ If diarrhea occurs during therapy, this antibiotic should be discontinued (see W
 
 Clindamycin phosphate IM administration should be used undiluted.
 
-Clindamycin phosphate IV administration should be diluted (See Dilution for IV use and IV infusion rates below)
+Clindamycin phosphate IV administration should be diluted (see Dilution for IV use and IV infusion rates below).
 
 ## Adults
 
@@ -73,9 +73,9 @@ The following drugs are physically incompatible with clindamycin phosphate: ampi
 The compatibility and duration of stability of drug admixtures will vary depending on concentration and other conditions.
 For current information regarding compatibilities of clindamycin phosphate under specific conditions, please contact the Medical and Drug Information Unit, Pharmacia & Upjohn Company (Division of Pfizer Inc).
 
-## Physico-Chemical Stability of diluted solutions of CLEOCIN PHOSPHATE
+## Physico-Chemical Stability of Diluted Solutions of CLEOCIN PHOSPHATE
 
-Room temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
+Room Temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
 Also, 18 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, in minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
 Refrigeration: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 32 days at 4°C.
@@ -121,5 +121,5 @@ Preparation for Administration:
 ### Preparation of CLEOCIN PHOSPHATE in ADD-Vantage System
 
 For IV Use Only.
-CLEOCIN PHOSPHATE 600 mg and 900 mg may be reconstituted in 50 mL or 100 mL, respectively, of dextrose injection 5% or sodium chloride injection 0.9% in the ADD-diluent container.
+CLEOCIN PHOSPHATE 300 mg, 600 mg and 900 mg may be reconstituted in 50 mL (for 300 mg and 600 mg) or 100 mL (for 900 mg) of dextrose injection 5% or sodium chloride injection 0.9% in the ADD-diluent container.
 Refer to separate instructions for ADD-Vantage System.

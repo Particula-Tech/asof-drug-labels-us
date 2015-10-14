@@ -13,7 +13,7 @@ An unpleasant or metallic taste occasionally has been reported after intravenous
 Maculopapular rash and urticaria have been observed during drug therapy.
 Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
 
-Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (See WARNINGS).
+Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (see WARNINGS).
 Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
 Anaphylactoid reactions have also been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
@@ -37,7 +37,7 @@ Transient neutropenia (leukopenia) and eosinophilia have been reported.
 Reports of agranulocytosis and thrombocytopenia have been made.
 No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing.
 
-## Immune system
+## Immune System
 
 Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
 
@@ -52,5 +52,4 @@ Polyarthritis cases have been reported.
 
 ## Cardiovascular
 
-Cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration.
-(See DOSAGE AND ADMINISTRATION section.)
+Cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration (see DOSAGE AND ADMINISTRATION).
