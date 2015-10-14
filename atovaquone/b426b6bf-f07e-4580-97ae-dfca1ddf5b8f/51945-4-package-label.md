@@ -10,11 +10,11 @@ SUSPENSION
 
 750mg/5mL
 
-210 mL
-
 Each 5 mL (1 teaspoonful) contains 750 mg atovaquone.
 
 Rx only
+
+210 mL
 
 See accompanying prescribing information for Dosage and Administration.
 
@@ -25,14 +25,16 @@ Dispense in a tight container as defined in USP.
 
 SHAKE GENTLY BEFORE USING.
 
+Do not use if shrinkband on bottle is broken or missing.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in India
+Made in Canada
 
-A107757 Rev.
-6/12
+- A135317 Rev.
+  6/15
 
 PRINCIPAL DISPLAY PANEL
 
@@ -61,5 +63,5 @@ Contains 42 sachets of 5 mL each
 
 ©2015, the GSK group of companies
 
-A133004 Rev.
-2/15
+- A133004 Rev.
+  2/15

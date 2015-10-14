@@ -30,9 +30,9 @@ Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
 | % | 15 | 19 | 23 | 18 | 17 |
 | Relative Riskb(CI)c | 0.77(0.57, 1.04) |  | 1.47(0.86, 2.50) | 1.14(0.63, 2.06) |  |
 
-a Those events occurring during or within 30 days of stopping assigned treatment.
+aThose events occurring during or within 30 days of stopping assigned treatment.
 
-b Relative risk <1 favors MEPRON and values >1 favor comparator.
+bRelative risk <1 favors MEPRON and values >1 favor comparator.
 Trial results did not show superiority of MEPRON to the comparator.
 
 cThe confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
