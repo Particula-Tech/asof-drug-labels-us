@@ -1,4 +1,4 @@
-# Clinical Studies
+# CLINICAL STUDIES
 
 Two identically designed, double-blind, randomized, placebo-controlled, parallel group, 24-week clinical studies (Study 1 and Study 2) at a total of 69 cystic fibrosis centers in the United States were conducted in cystic fibrosis patients with P. aeruginosa.
 Subjects who were less than 6 years of age, had a baseline creatinine of >2 mg/dL, or had Burkholderia cepacia isolated from sputum were excluded.

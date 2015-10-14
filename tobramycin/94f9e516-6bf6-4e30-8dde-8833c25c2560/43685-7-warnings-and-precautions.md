@@ -30,7 +30,7 @@ TOBI should be used cautiously in patients with neuromuscular disorders, such as
 
 ## Bronchospasm
 
-Bronchospasm can occur with inhalation of TOBI.
+Bronchospasm has been reported with inhalation of TOBI.
 In clinical studies of TOBI, changes in FEV1 measured after the inhaled dose were similar in the TOBI and placebo groups.
 Bronchospasm should be treated as medically appropriate.
 
@@ -142,7 +142,7 @@ Note: In order to insert the Nebulizer Top into the Nebulizer Cup, the semi-circ
 9.
 Attach the Mouthpiece to the Nebulizer Outlet.
 Then firmly push the Inspiratory Valve Cap in place on the Nebulizer Top.
-Note: the Inspiratory Valve Cap will fit snugly.
+Note: The Inspiratory Valve Cap will fit snugly.
 
 10.
 Connect the free end of the tubing from the compressor to the Air Intake on the bottom of the nebulizer, making sure to keep the nebulizer upright.
@@ -169,7 +169,7 @@ Do not block airflow with your tongue.
 Continue treatment until all your TOBI is gone, and there is no longer any mist being produced.
 You may hear a sputtering sound when the Nebulizer Cup is empty.
 The entire TOBI treatment should take approximately 15 minutes to complete.
-Note: if you are interrupted, need to cough or rest during your TOBI treatment, turn off the compressor to save your medication.
+Note: If you are interrupted, need to cough or rest during your TOBI treatment, turn off the compressor to save your medication.
 Turn the compressor back on when you are ready to resume your therapy.
 
 6.
@@ -249,7 +249,7 @@ Compressor: 1-800-338-1988
 
 TOBI: 1-888-NOW-NOVA (1-888-669-6682)
 
-## Laboratory Tests
+Laboratory Tests
 
 Audiograms
 
@@ -296,7 +296,7 @@ Subcutaneous administration of up to 100 mg/kg of tobramycin did not affect mati
 
 ## Pregnancy
 
-### Teratogenic Effects – Pregnancy Category D
+Teratogenic Effects – Pregnancy Category D
 
 (See WARNINGS)
 

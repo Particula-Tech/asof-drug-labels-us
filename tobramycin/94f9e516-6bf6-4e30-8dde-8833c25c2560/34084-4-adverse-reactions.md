@@ -89,7 +89,7 @@ Aphonia, dysgeusia
 
 Respiratory, thoracic, and mediastinal disorders
 
-Bronchospasm (see WARNINGS–Bronchospasm), oropharyngeal pain, sputum increased, chest pain
+Bronchospasm (see WARNINGS – Bronchospasm), oropharyngeal pain
 
 Metabolism and Nutrition Disorders
 
