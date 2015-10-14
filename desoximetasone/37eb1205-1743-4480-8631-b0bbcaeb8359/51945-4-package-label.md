@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 0.5%, 15 g Cream Carton
+# PRINCIPAL DISPLAY PANEL - 0.05%, 15 g Cream Carton
 
 NDC 51672-1271-1
 

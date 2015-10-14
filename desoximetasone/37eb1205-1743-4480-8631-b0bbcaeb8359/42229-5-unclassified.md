@@ -2,10 +2,6 @@ For topical use only.
 Not for oral, ophthalmic, or intravaginal use.
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
-
-Revised: April, 2011
-
-PK-6352-2 196
+Revised: October, 2014 PK-6352-4 89 1014-4

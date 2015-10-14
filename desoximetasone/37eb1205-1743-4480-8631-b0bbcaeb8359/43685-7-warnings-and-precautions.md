@@ -58,8 +58,9 @@ If no improvement is seen within 4 weeks, contact the physician.
 
 The following tests may be helpful in evaluating the hypothalamic-pituitary-adrenal (HPA) axis suppression:
 
-- Urinary free cortisol test
-- ACTH stimulation test
+|  | Urinary free cortisol test |
+| --- | --- |
+|  | ACTH stimulation test |
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -95,5 +96,6 @@ Pediatric patients may demonstrate greater susceptibility to topical corticoster
 Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in pediatric patients receiving topical corticosteroids.
 Manifestations of adrenal suppression in pediatric patients include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
+
 Administration of topical corticosteroids to pediatric patients should be limited to the least amount compatible with an effective therapeutic regimen.
 Chronic corticosteroid therapy may interfere with the growth and development of pediatric patients.

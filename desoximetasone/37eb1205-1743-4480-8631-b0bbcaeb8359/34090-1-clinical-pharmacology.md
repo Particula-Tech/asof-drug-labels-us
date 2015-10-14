@@ -20,7 +20,7 @@ Corticosteroids are bound to plasma proteins in varying degrees.
 Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys.
 Some of the topical corticosteroids and their metabolites are also excreted into the bile.
 
-Pharmacokinetic studies in men with desoximetasone cream USP, 0.25% with tagged desoximetasone showed a total of 5.2% ± 2.9% excretion in urine (4.1% ± 2.3%) and feces (1.1% ± 0.6%) and no detectable level (limit of sensitivity: 0.005 µg/mL) in the blood when it was applied topically on the back followed by occlusion for 24 hours.
+Pharmacokinetic studies in men with desoximetasone cream USP, 0.25% with tagged desoximetasone showed a total of 5.2% ± 2.9% excretion in urine (4.1% ± 2.3%) and feces (1.1% ± 0.6%) and no detectable level (limit of sensitivity: 0.005 μg/mL) in the blood when it was applied topically on the back followed by occlusion for 24 hours.
 Seven days after application, no further radioactivity was detected in urine or feces.
 The half-life of the material was 15 ± 2 hours (for urine) and 17 ± 2 hours (for feces) between the third and fifth trial day.
 Studies with other similarly structured steroids have shown that predominant metabolite reaction occurs through conjugation to form the glucuronide and sulfate ester.
