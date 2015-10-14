@@ -13,6 +13,8 @@ In instances where swelling has been confined to the face and lips the condition
 Angioedema associated with laryngeal edema may be fatal.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see PRECAUTIONS).
+
 ### Intestinal Angioedema
 
 Intestinal angioedema has been reported in patients treated with ACE inhibitors.
@@ -206,6 +208,10 @@ It is recommended that serum lithium levels be monitored frequently if enalapril
 ### Gold
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril maleate.
+
+### mTor (mammalian target of rapamycin) inhibitors
+
+Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

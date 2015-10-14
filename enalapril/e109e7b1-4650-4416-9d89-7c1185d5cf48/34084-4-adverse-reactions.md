@@ -157,3 +157,5 @@ Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficienc
 ### Liver Function Tests
 
 Elevations of liver enzymes and/or serum bilirubin have occurred (see WARNINGS, Hepatic Failure).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Northstar Rx LLC at 1-800-206-7821 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

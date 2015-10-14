@@ -54,5 +54,5 @@ S1-1526 Ljubljana, Slovenia.
 
 Product of India.
 
-Iss.
-February 2015
+Rev.
+September 2015
