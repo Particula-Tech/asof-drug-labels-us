@@ -4,7 +4,7 @@ SYMBICORT
 
 SYMBICORT contains both budesonide and formoterol; therefore, the risks associated with overdosage for the individual components described below apply to SYMBICORT.
 In pharmacokinetic studies, single doses of 960/54 mcg (12 actuations of SYMBICORT 80/4.5) and 1280/36 mcg (8 actuations of 160/4.5), were administered to patients with COPD.
-A total of 1920/54 mcg (12 actuations of SYMBICORT 160/4.5) was administered as a single dose to both healthy subjects and patients with astma.
+A total of 1920/54 mcg (12 actuations of SYMBICORT 160/4.5) was administered as a single dose to both healthy subjects and patients with asthma.
 In a long-term active-controlled safety study in asthma patients, SYMBICORT 160/4.5 was administered for up to 12 months at doses up to twice the highest recommended daily dose.
 There were no clinically significant adverse reactions observed in any of these studies.
 

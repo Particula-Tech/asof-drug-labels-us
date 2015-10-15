@@ -1,15 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 SYMBICORT should be administered twice daily every day by the orally inhaled route only.
-After inhalation, the patient should rinse the mouth with water without swallowing.
-[see Patient Counseling Information (17.4)]
+After inhalation, the patient should rinse the mouth with water without swallowing [see Patient Counseling Information (17.4)].
 
 Prime SYMBICORT before using for the first time by releasing two test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing two test sprays into the air away from the face.
 
 More frequent administration or a higher number of inhalations (more than 2 inhalations twice daily) of the prescribed strength of SYMBICORT is not recommended as some patients are more likely to experience adverse effects with higher doses of formoterol.
 Patients using SYMBICORT should not use additional long-acting beta2-agonists for any reason.
-[See Warnings and Precautions (5.3, 5.12)]
+[See Warnings and Precautions (5.3, 5.12)].
 
 ## 2.1 Asthma
 

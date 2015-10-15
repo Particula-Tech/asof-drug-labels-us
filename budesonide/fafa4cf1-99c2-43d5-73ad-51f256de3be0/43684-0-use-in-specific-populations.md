@@ -19,7 +19,7 @@ No teratogenic or embryocidal effects were detected with budesonide combined wit
 Budesonide
 
 Studies of pregnant women have not shown that inhaled budesonide increases the risk of abnormalities when administered during pregnancy.
-The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (ie, Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
+The results from a large population-based prospective cohort epidemiological study reviewing data from three Swedish registries covering approximately 99% of the pregnancies from 1995-1997 (i.e., Swedish Medical Birth Registry; Registry of Congenital Malformations; Child Cardiology Registry) indicate no increased risk for congenital malformations from the use of inhaled budesonide during early pregnancy.
 Congenital malformations were studied in 2014 infants born to mothers reporting the use of inhaled budesonide for asthma in early pregnancy (usually 10-12 weeks after the last menstrual period), the period when most major organ malformations occur.
 The rate of recorded congenital malformations was similar compared to the general population rate (3.8% vs 3.5%, respectively).
 In addition, after exposure to inhaled budesonide, the number of infants born with orofacial clefts was similar to the expected number in the normal population (4 children vs 3.3, respectively).

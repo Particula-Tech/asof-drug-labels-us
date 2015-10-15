@@ -4,7 +4,7 @@ Long-acting beta2-adrenergic agonists, such as formoterol one of the active ingr
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Data from a large placebo-controlled US study that compared the safety of another long-acting beta2-adrenergic agonist (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
-[see Warnings and Precautions (5.1)].
+[See Warnings and Precautions (5.1)].
 
 Systemic and inhaled corticosteroid use may result in the following:
 
@@ -25,14 +25,14 @@ In these trials, the patients on SYMBICORT had a mean age of 38 years and were p
 The incidence of common adverse events in Table 1 below is based upon pooled data from three 12-week, double-blind, placebo-controlled clinical studies in which 401 adult and adolescent patients (148 males and 253 females) age 12 years and older were treated with two inhalations of SYMBICORT 80/4.5 or SYMBICORT 160/4.5 twice daily.
 The SYMBICORT group was composed of mostly Caucasian (84%) patients with a mean age of 38 years, and a mean percent predicted FEV1 at baseline of 76 and 68 for the 80/4.5 mcg and 160/4.5 mcg treatment groups, respectively.
 Control arms for comparison included two inhalations of budesonide HFA metered dose inhaler (MDI) 80 or 160 mcg, formoterol dry powder inhaler (DPI) 4.5 mcg, or placebo (MDI and DPI) twice daily.
-Table 1 includes all adverse events that occurred at an incidence of > 3% in any one SYMBICORT group and more commonly than in the placebo group with twice-daily dosing.
+Table 1 includes all adverse events that occurred at an incidence of >3% in any one SYMBICORT group and more commonly than in the placebo group with twice-daily dosing.
 In considering these data, the increased average duration of patient exposure for SYMBICORT patients should be taken into account, as incidences are not adjusted for an imbalance of treatment duration.
 
 Table 1 Adverse-reactions occurring at an incidence of ≥ 3% and more commonly than placebo in the SYMBICORT groups: pooled data from three 12-week, double-blind, placebo-controlled clinical asthma trials in patients 12 years and older
 
-| Adverse Event | 80/4.5 mcg N= 277 % | 160/4.5 mcg N =124 % | 80 mcg N =121 % | 160 mcg N = 109 % | 4.5 mcg N = 237 % | N = 400 % |
+| Adverse Event | 80/4.5 mcg N = 277 % | 160/4.5 mcg N = 124 % | 80 mcg N = 121 % | 160 mcg N = 109 % | 4.5 mcg N = 237 % | N = 400 % |
 | --- | --- | --- | --- | --- | --- | --- |
-| TreatmentAll treatments were administered as two inhalations twice daily. | SYMBICORT |  | Budesonide |  | Formoterol | Placebo |
+| TreatmentAll treatments were administered as two inhalations twice daily | SYMBICORT |  | Budesonide |  | Formoterol | Placebo |
 | Nasopharyngitis | 10.5 | 9.7 | 14.0 | 11.0 | 10.1 | 9.0 |
 | Headache | 6.5 | 11.3 | 11.6 | 12.8 | 8.9 | 6.5 |
 | Upper respiratory tract infection | 7.6 | 10.5 | 8.3 | 9.2 | 7.6 | 7.8 |
@@ -57,14 +57,14 @@ The incidence of common adverse events in Table 2 below is based upon pooled dat
 Of these patients 651 were treated for 6 months and 366 were treated for 12 months.
 The SYMBICORT group was composed of mostly Caucasian (93%) patients with a mean age of 63 years, and a mean percent predicted FEV1 at baseline of 33%.
 Control arms for comparison included two inhalations of budesonide HFA (MDI) 160 mcg, formoterol (DPI) 4.5 mcg or placebo (MDI and DPI) twice daily.
-Table 2 includes all adverse events that occurred at an incidence of ≥ 3% in the SYMBICORT group and more commonly than in the placebo group.
+Table 2 includes all adverse events that occurred at an incidence of ≥3% in the SYMBICORT group and more commonly than in the placebo group.
 In considering these data, the increased average duration of patient exposure to SYMBICORT should be taken into account, as incidences are not adjusted for an imbalance of treatment duration.
 
 Table 2 Adverse reactions occurring at an incidence of ≥ 3% and more commonly than placebo in the SYMBICORT group: pooled data from two double-blind, placebo-controlled clinical COPD trials
 
-| TreatmentAll treatments were administered as two inhalations twice daily. | SYMBICORT | Budesonide | Formoterol | Placebo |
+| TreatmentAll treatments were administered as two inhalations twice daily | SYMBICORT | Budesonide | Formoterol | Placebo |
 | --- | --- | --- | --- | --- |
-| Adverse Event | 160/4.5 mcgN=771% | 160 mcgN=275% | 4.5 mcgN=779% | N=781% |
+| Adverse Event | 160/4.5 mcgN = 771% | 160 mcgN = 275% | 4.5 mcgN = 779% | N = 781% |
 | Nasopharyngitis | 7.3 | 3.3 | 5.8 | 4.9 |
 | Oral candidiasis | 6.0 | 4.4 | 1.2 | 1.8 |
 | Bronchitis | 5.4 | 4.7 | 4.5 | 3.5 |

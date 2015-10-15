@@ -17,7 +17,7 @@ In glucocorticoid receptor affinity studies, the 22R form of budesonide was two 
 In vitro studies indicated that the two forms of budesonide do not interconvert.
 
 Inflammation is an important component in the pathogenesis of COPD and asthma.
-Corticosteroids have a wide range of inhibitory activities against multiple cell types (eg, mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (eg, histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic and non–allergic-mediated inflammation.
+Corticosteroids have a wide range of inhibitory activities against multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic and non–allergic-mediated inflammation.
 These anti-inflammatory actions of corticosteroids may contribute to their efficacy in COPD and asthma.
 
 Studies in asthmatic patients have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects over a wide range of doses of budesonide.
@@ -60,10 +60,10 @@ Overall, there were no important differences in the occurrence of ventricular or
 
 HPA axis effects: Overall, no clinically important effects on HPA axis, as measured by 24-hour urinary cortisol, were observed for SYMBICORT treated adult or adolescent patients at doses up to 640/18 mcg/day compared to budesonide.
 
-Chronic Obstructive Pulmonary Disease:
+Chronic Obstructive Pulmonary Disease
 
 Cardiovascular effects: In 2 clinical studies, 6 months and 12 months in duration including 3668 COPD patients, no clinically important differences were seen in pulse rate, blood pressure, potassium, and glucose between SYMBICORT, the individual components of SYMBICORT, and placebo.
-[see Clinical Studies (14.2)].
+[See Clinical Studies (14.2)].
 
 ECGs recorded at multiple clinic visits on treatment in both studies showed no clinically important differences for heart rate, PR interval, QRS duration, heart rate, signs of cardiac ischemia or arrhythmias between SYMBICORT 160/4.5 the monoproducts and placebo, all administered as two inhalations twice daily.
 Based on ECGs, 6 patients treated with SYMBICORT 160/4.5, 6 patients treated with formoterol 4.5, and 6 patients in the placebo group experienced atrial fibrillation or flutter that was not present at baseline.
@@ -116,7 +116,9 @@ Rebound bronchial hyperresponsiveness after cessation of chronic long-acting bet
 
 SYMBICORT
 
-Absorption: Budesonide: Healthy Subjects: Orally inhaled budesonide is rapidly absorbed in the lungs and peak concentration is typically reached within 20 minutes.
+Absorption
+
+Budesonide Healthy Subjects: Orally inhaled budesonide is rapidly absorbed in the lungs and peak concentration is typically reached within 20 minutes.
 After oral administration of budesonide peak plasma concentration was achieved in about 1 to 2 hours and the absolute systemic availability was 6%-13% due to extensive first pass metabolism.
 In contrast, most of the budesonide delivered to the lungs was systemically absorbed.
 In healthy subjects, 34% of the metered dose was deposited in the lung (as assessed by plasma concentration method and using a budesonide-containing dry powder inhaler) with an absolute systemic availability of 39% of the metered dose.
@@ -146,7 +148,7 @@ For budesonide, COPD patients exhibited 12% greater AUC and 10% lower Cmax compa
 In the 6 month pivotal clinical study, steady-state pharmacokinetic data of budesonide was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5 mcg, SYMBICORT pMDI 80/4.5 mcg, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as two inhalations twice daily.
 Budesonide systemic exposure (AUC and Cmax) increased proportionally with doses from 80 mcg to 160 mcg and was generally similar between the 3 treatment groups receiving the same dose of budesonide (SYMBICORT pMDI 160/4.5 mcg, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg administered together).
 
-Formoterol:
+Formoterol
 
 Inhaled formoterol is rapidly absorbed; peak plasma concentrations are typically reached at the first plasma sampling time, within 5-10 minutes after dosing.
 As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol delivered is swallowed and then absorbed from the gastrointestinal tract.
@@ -171,7 +173,7 @@ COPD patients exhibited 12-15% greater AUC and Cmax for formoterol compared to a
 In the 6 month pivotal clinical study, steady-state pharmacokinetic data of formoterol was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5 mcg, SYMBICORT pMDI 80/4.5. mcg, formoterol 4.5 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as two inhalations twice daily.
 The systemic exposure of formoterol as evidenced by AUC, was about 30% and 16% higher from SYMBICORT pMDI compared to formoterol alone treatment arm and coadministration of individual components of budesonide and formoterol treatment arm, respectively.
 
-Distribution: Budesonide: The volume of distribution of budesonide was approximately 3 L/kg.
+Distribution Budesonide: The volume of distribution of budesonide was approximately 3 L/kg.
 It was 85%-90% bound to plasma proteins.
 Protein binding was constant over the concentration range (1-100 nmol/L) achieved with, and exceeding, recommended inhaled doses.
 Budesonide showed little or no binding to corticosteroid binding globulin.
@@ -180,7 +182,7 @@ Budesonide rapidly equilibrated with red blood cells in a concentration independ
 Formoterol: Over the concentration range of 10-500 nmol/L, plasma protein binding for the RR and SS enantiomers of formoterol was 46% and 58%, respectively.
 The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 54 mcg dose.
 
-Metabolism: Budesonide: In vitro studies with human liver homogenates have shown that budesonide was rapidly and extensively metabolized.
+Metabolism Budesonide: In vitro studies with human liver homogenates have shown that budesonide was rapidly and extensively metabolized.
 Two major metabolites formed via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) catalyzed biotransformation have been isolated and identified as 16α-hydroxyprednisolone and 6ß-hydroxybudesonide.
 The corticosteroid activity of each of these two metabolites was less than 1% of that of the parent compound.
 No qualitative differences between the in vitro and in vivo metabolic patterns were detected.
@@ -190,7 +192,7 @@ Formoterol: The primary metabolism of formoterol is by direct glucuronidation an
 Secondary metabolic pathways include deformylation and sulfate conjugation.
 CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
 
-Elimination: Budesonide: Budesonide was excreted in urine and feces in the form of metabolites.
+Elimination Budesonide: Budesonide was excreted in urine and feces in the form of metabolites.
 Approximately 60% of an intravenous radiolabeled dose was recovered in the urine.
 
 No unchanged budesonide was detected in the urine.

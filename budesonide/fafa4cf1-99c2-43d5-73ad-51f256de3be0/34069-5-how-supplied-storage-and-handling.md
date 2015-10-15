@@ -6,9 +6,9 @@ Dosage Forms and Strengths
 
 | Package Size |  |  | NDC |
 | --- | --- | --- | --- |
-| SYMBICORTInhalations | 80/4.5, | 120 | 0186-0372-20 |
-| SYMBICORT inhalations (institutional pack) | 80/4.5, | 60 | 0186-0372-28 |
-| SYMBICORTInhalations | 160/4.5, | 120 | 0186-0370-20 |
+| SYMBICORT Inhalations | 80/4.5, | 120 | 0186-0372-20 |
+| SYMBICORTinhalations (institutional pack) | 80/4.5, | 60 | 0186-0372-28 |
+| SYMBICORT Inhalations | 160/4.5, | 120 | 0186-0370-20 |
 | SYMBICORTinhalations (institutional pack) | 160/4.5, | 60 | 0186-0370-28 |
 
 Each strength is supplied as a pressurized aluminium canister with an attached counting device, a red plastic actuator body with a white mouthpiece, and attached gray dust cap.

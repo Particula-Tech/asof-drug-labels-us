@@ -22,9 +22,9 @@ The predefined asthma-worsening criteria were a clinically important decrease in
 For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other asthma-worsening criteria were met.
 The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 3.
 
-Table 3 The numberof percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
+Table 3 The number of percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
 
-|  | SYMBICORT 160/4.5 mcgn=124 | Budesonide160 mcg plus Formoterol4.5 mcgn=115 | Budesonide160 mcgn=109 | Formoterol4.5 mcgn=123 | Placebon=125 |
+|  | SYMBICORT 160/4.5 mcgn = 124 | Budesonide160 mcg plus Formoterol4.5 mcgn = 115 | Budesonide160 mcgn = 109 | Formoterol4.5 mcgn = 123 | Placebon = 125 |
 | --- | --- | --- | --- | --- | --- |
 | Patients withdrawn due to predefined asthma eventThese criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1, which was assessed at each clinic visit. | 13 (10.5) | 13 (11.3) | 22 (20.2) | 44 (35.8) | 62 (49.6) |
 | Patients with a predefined asthma event,Individual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 37 (29.8) | 24 (20.9) | 48 (44.0) | 68 (55.3) | 84 (67.2) |
@@ -44,7 +44,7 @@ The effect of SYMBICORT 160/4.5 mcg two inhalations twice daily on selected seco
 
 Table 4 Mean values for selected secondary efficacy variables (Study 1)
 
-| Efficacy Variable | SYMBICORT 160/4.5 mcg (nNumber of patients (n) varies slightly due to the number of patients for whom data were available for each variable. Results shown are based on last available data for each variable.=124) | Budesonide 160 mcg plus Formoterol 4.5 mcg (n=115) | Budesonide 160 mcg (n=109) | Formoterol 4.5 mcg (n=123) | Placebo (n=125) |
+| Efficacy Variable | SYMBICORT 160/4.5 mcg (nNumber of patients (n) varies slightly due to the number of patients for whom data were available for each variable. Results shown are based on last available data for each variable=124) | Budesonide 160 mcg plus Formoterol 4.5 mcg (n=115) | Budesonide 160 mcg (n=109) | Formoterol 4.5 mcg (n=123) | Placebo (n=125) |
 | --- | --- | --- | --- | --- | --- |
 | AM PEF (L/min) Baseline | 341 | 338 | 342 | 339 | 355 |
 | Change from Baseline | 35 | 28 | 9 | -9 | -18 |
@@ -52,7 +52,7 @@ Table 4 Mean values for selected secondary efficacy variables (Study 1)
 | Change from Baseline | 34 | 26 | 7 | -7 | -18 |
 | Albuterol rescue useBaseline | 2.1 | 2.3 | 2.7 | .5 | 2.4 |
 | Change from Baseline | -1.0 | -1.5 | -0.8 | -0.3 | 0.8 |
-| Average symptom score/day (0–3 scale) Baseline | 0.99 | 1.03 | 1.04 | 1.04 | 1.08 |
+| Average symptom score/day (0–3 scale)Baseline | 0.99 | 1.03 | 1.04 | 1.04 | 1.08 |
 | Change from Baseline | -0.28 | -0.32 | -0.14 | -0.05 | 0.10 |
 
 The subjective impact of asthma on patients’ health-related quality of life was evaluated through the use of the standardized Asthma Quality of Life Questionnaire (AQLQ(S)) (based on a 7-point scale where 1 = maximum impairment and 7 = no impairment).
@@ -79,7 +79,7 @@ Table 5 The number and percentage of patients withdrawing due to or meeting pred
 | Decrease in FEV1 | 3 (2.4) | 3 (2.5) | 11 (9.6) | 9 (7.4) |
 | Rescue medication use | 1 (0.8) | 3 (2.5) | 1 (0.9) | 3 (2.5) |
 | Decrease in AM PEF | 3 (2.4) | 1 (0.8) | 8 (7.0) | 14 (11.5) |
-| Nighttime awakeningFor the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other criteria were met. | 17 (13.8) | 20 (16.5) | 31 (27.2) | 52 (42.6) |
+| Nighttime awakeningFor the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other criteria were met | 17 (13.8) | 20 (16.5) | 31 (27.2) | 52 (42.6) |
 | Clinical exacerbation | 1 (0.8) | 3 (2.5) | 5 (4.4) | 20 (16.4) |
 
 Mean percent change from baseline in predose FEV1 over 12 weeks is displayed in Figure 2.
@@ -125,11 +125,11 @@ The patients were randomized to one of the following treatment groups: SYMBICORT
 Patients receiving SYMBICORT 160/4.5 mcg, two inhalations twice daily, had significantly greater mean improvements from baseline in pre-dose FEV1 averaged over the treatment period [0.08 L, 10.7%] compared with formoterol 4.5 mcg [0.04 L, 6.9%] and placebo [0.01 L, 2.2%] (See Figure 5).
 Patients receiving SYMBICORT 80/4.5 mcg, two inhalations twice daily, did not have significantly greater improvement from baseline in the pre-dose FEV1 averaged over the treatment period compared with formoterol 4.5 mcg.
 
-Figure 5 Mean Percent Change From Baseline in Pre-dose FEV1 Over 6 months (Study 1)
+Figure 5 - Mean Percent Change From Baseline in Pre-dose FEV1 Over 6 months (Study 1)
 
 Patients receiving SYMBICORT 160/4.5 mcg, two inhalations twice daily, had significantly greater mean improvements from baseline in 1-hour post-dose FEV1 averaged over the treatment period [0.20 L, 22.6%], compared with budesonide 160 mcg [0.03 L, 4.9%] and placebo [0.03 L, 4.1%] (See Figure 6).
 
-Figure 6 Mean Percent Change From Baseline in 1-hour Post-dose FEV1 Over 6 months (Study 1)
+Figure 6 - Mean Percent Change From Baseline in 1-hour Post-dose FEV1 Over 6 months (Study 1)
 
 Study 2
 

@@ -6,7 +6,7 @@ Long-acting beta2-adrenergic agonists, such as formoterol, one of the active ing
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Therefore, when treating patients with asthma, SYMBICORT should only be used for patients not adequately controlled on a long-term asthma-control medication, such as an inhaled corticosteroid or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and LABA.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue SYMBICORT) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
+Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SYMBICORT) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use SYMBICORT for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
 
 A 28-week, placebo controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
@@ -44,7 +44,7 @@ In clinical studies, the development of localized infections of the mouth and ph
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while treatment with SYMBICORT continues, but at times therapy with SYMBICORT may need to be interrupted.
 Patients should rinse the mouth after inhalation of SYMBICORT.
 
-## 5.5 Pneumonia and Other Lower Respiratory Tract infections
+## 5.5 Pneumonia and Other Lower Respiratory Tract Infections
 
 Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as the clinical features of pneumonia and exacerbations frequently overlap.
 Lower respiratory tract infections, including pneumonia, have been reported following the inhaled administration of corticosteroids.
@@ -146,7 +146,7 @@ ANCOVA results for total spine and total hip BMD based on the end of treatment t
 Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving SYMBICORT routinely (e.g., via stadiometry).
 To minimize the systemic effects of orally inhaled corticosteroids, including SYMBICORT, titrate each patient's dose to the lowest dosage that effectively controls his/her symptoms.
-[See Dosage and Administration (2.1), Use in Specific Populations (8.4).]
+[See Dosage and Administration (2.1) and Use in Specific Populations (8.4)].
 
 ## 5.15 Glaucoma and Cataracts
 

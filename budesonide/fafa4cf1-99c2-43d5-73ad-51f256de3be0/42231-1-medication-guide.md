@@ -1,12 +1,8 @@
 # 17.6 Medication Guide
 
-SYMBICORT 80/4.5
+SYMBICORT 80/4.5 (budesonide 80 mcg and formoterol fumarate dihydrate 4.5 mcg) Inhalation Aerosol
 
-(budesonide 80 mcg and formoterol fumarate dihydrate 4.5 mcg) Inhalation Aerosol
-
-SYMBICORT 160/4.5
-
-(budesonide 160 mcg and formoterol fumarate dihydrate 4.5 mcg) Inhalation Aerosol
+SYMBICORT 160/4.5 (budesonide 160 mcg and formoterol fumarate dihydrate 4.5 mcg) Inhalation Aerosol
 
 Read the Medication Guide that comes with SYMBICORT before you start using it and each time you get a refill.
 There may be new information.
@@ -251,7 +247,7 @@ For more information, call 1-800-236-9933 or go to www.MySymbicort.com.
 
 What are the ingredients in SYMBICORT?
 
-Active ingredients: micronized budesonide and micronized formoterol fumarate dihydrate Inactive ingredients: hydrofluroalkane (HFA 227), povidone K25 USP, and polyethylene glycol 1000 NF
+Active ingredients: micronized budesonide and micronized formoterol fumarate dehydrate Inactive ingredients: hydrofluroalkane (HFA 227), povidone K25 USP, and polyethylene glycol 1000 NF
 
 Upright Position
 
