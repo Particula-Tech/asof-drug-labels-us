@@ -29,7 +29,7 @@ Use of concomitant immunosuppressant agents appeared to reduce the frequency of 
 
 Infusion reactions following re-administration
 
-In a clinical trial of patients with moderate to severe psoriasis designed to assess the efficacy of long-term maintenance therapy versus re-treatment with an induction regimen of REMICADE following disease flare, 4% (8/219) of patients in the re-treatment therapy arm experienced serious infusion reactions versus < 1% (1/222) in the maintenance therapy arm.
+In a clinical trial of patients with moderate to severe psoriasis designed to assess the efficacy of long-term maintenance therapy versus re-treatment with an induction regimen of REMICADE following disease flare, 4% (8/219) of patients in the re-treatment therapy arm experienced serious infusion reactions versus <1% (1/222) in the maintenance therapy arm.
 Patients enrolled in this trial did not receive any concomitant immunosuppressant therapy.
 In this study, the majority of serious infusion reactions occurred during the second infusion at Week 2.
 Symptoms included, but were not limited to, dyspnea, urticaria, facial edema, and hypotension.

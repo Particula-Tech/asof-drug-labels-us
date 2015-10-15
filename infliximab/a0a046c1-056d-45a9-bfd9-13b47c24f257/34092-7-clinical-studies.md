@@ -378,7 +378,7 @@ Dosing continued for all patients through Week 46.
 
 Clinical response
 
-Treatment with REMICADE resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of REMICADE-treated patients achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P< 0.001).
+Treatment with REMICADE resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of REMICADE-treated patients achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P<0.001).
 The response was similar regardless of concomitant use of methotrexate.
 Improvement was observed as early as Week 2.
 At 6 months, the ACR 20/50/70 responses were achieved by 54%, 41%, and 27%, respectively, of patients receiving REMICADE compared to 16%, 4%, and 2%, respectively, of patients receiving placebo.

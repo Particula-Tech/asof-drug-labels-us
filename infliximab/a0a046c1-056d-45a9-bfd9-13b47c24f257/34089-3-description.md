@@ -6,5 +6,5 @@ Infliximab is produced by a recombinant cell line cultured by continuous perfusi
 
 REMICADE is supplied as a sterile, white, lyophilized powder for intravenous infusion.
 Following reconstitution with 10 mL of Sterile Water for Injection, USP, the resulting pH is approximately 7.2.
-Each single-use vial contains 100 mg infliximab, 500 mg sucrose, 0.5 mg polysorbate 80, 2.2 mg monobasic sodium phosphate, monohydrate, and 6.1 mg dibasic sodium phosphate, dihydrate.
+Each single-use vial contains 100 mg infliximab, dibasic sodium phosphate, dihydrate (6.1 mg), monobasic sodium phosphate, monohydrate (2.2 mg), polysorbate 80 (0.5 mg), and sucrose (500 mg).
 No preservatives are present.
