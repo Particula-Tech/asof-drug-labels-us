@@ -3,14 +3,14 @@
 Discuss the following issues with patients and caregivers:
 
 - •Severe Neutropenia:
-- -Instruct patients (and caregivers) beginning treatment with FAZACLO about the risk of developing severe neutropenia and infection.
-- -Instruct patients to immediately report to their physician any symptom or sign of infection (e.g., flu-like illness; fever; lethargy; general weakness or malaise; mucus membrane ulceration; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) occurring at any time during FAZACLO therapy, to aid in evaluation for neutropenia and to institute prompt and appropriate management [see Warnings and Precautions (5.1), (5.10), and (5.11)].
-- -Inform patients and caregivers FAZACLO is available only through a restricted program called the Clozapine REMS Program designed to ensure the required blood monitoring, in order to reduce the risk of developing severe neutropenia.
+- •Instruct patients (and caregivers) beginning treatment with FAZACLO about the risk of developing severe neutropenia and infection.
+- •Instruct patients to immediately report to their physician any symptom or sign of infection (e.g., flu-like illness; fever; lethargy; general weakness or malaise; mucus membrane ulceration; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) occurring at any time during FAZACLO therapy, to aid in evaluation for neutropenia and to institute prompt and appropriate management [see Warnings and Precautions (5.1), (5.10), and (5.11)].
+- •Inform patients and caregivers FAZACLO is available only through a restricted program called the Clozapine REMS Program designed to ensure the required blood monitoring, in order to reduce the risk of developing severe neutropenia.
   Advise patients and caregivers of the importance of having blood tested as follows:
-  - ▪Weekly blood tests are required for the first 6 months.
-  - ▪An ANC is required every 2 weeks for the next 6 months if an acceptable ANC is maintained during the first 6 months of continuous therapy.
-  - ▪An ANC is required once every 4 weeks thereafter if an acceptable ANC is maintained during the second 6 months of continuous therapy.
-- -FAZACLO is available only from certified pharmacies participating in the program.
+  - •Weekly blood tests are required for the first 6 months.
+  - •An ANC is required every 2 weeks for the next 6 months if an acceptable ANC is maintained during the first 6 months of continuous therapy.
+  - •An ANC is required once every 4 weeks thereafter if an acceptable ANC is maintained during the second 6 months of continuous therapy.
+- •FAZACLO is available only from certified pharmacies participating in the program.
   Provide patients (and caregivers) with website information and the telephone number on how to obtain the product.
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
   Instruct them to strictly follow the clinician’s instructions for dosage and administration.
