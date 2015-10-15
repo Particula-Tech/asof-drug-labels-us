@@ -67,7 +67,7 @@ Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
 Myelosuppression (neutropenia and thrombocytopenia), which is a known dose-limiting toxicity for most cytotoxic agents, including temozolomide, was observed.
 When laboratory abnormalities and adverse reactions were combined, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8% of the patients, and Grade 3 or Grade 4 platelet abnormalities, including thrombocytopenic reactions, were observed in 14% of the patients treated with temozolomide.
 
-Refractory Anaplastic Astrocytoma:Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
+Refractory Anaplastic Astrocytoma: Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
 In the absence of a control group, it is not clear in many cases whether these reactions should be attributed to temozolomide or the patients’ underlying conditions, but nausea, vomiting, fatigue, and hematologic effects appear to be clearly drug-related.
 The most frequently occurring adverse reactions were nausea, vomiting, headache, and fatigue.
 The adverse reactions were usually NCI Common Toxicity Criteria (CTC) Grade 1 or 2 (mild to moderate in severity) and were self-limiting, with nausea and vomiting readily controlled with antiemetics.
@@ -175,7 +175,7 @@ Adverse reactions probably related to treatment that were reported from the 2 st
 The following adverse reactions have been identified during postapproval use of temozolomide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug exposure.
 
-Dermatologic disorders: Toxic epidermal necrolysis and Stevens-Johnson syndrome
+Dermatologic disorders: Toxic epidermal necrolysis and Stevens-Johnson syndrome.
 
 Immune system disorders: Allergic reactions, including anaphylaxis.
 Erythema multiforme, which resolved after discontinuation of temozolomide and, in some cases, recurred upon rechallenge.
@@ -184,6 +184,8 @@ Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic an
 
 Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
 
-Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.5)].
+Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)], primary and reactivated cytomegalovirus (CMV), and reactivation of hepatitis B infections including some cases with fatal outcomes.
 
 Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
+
+Endocrine disorders: Diabetes insipidus.

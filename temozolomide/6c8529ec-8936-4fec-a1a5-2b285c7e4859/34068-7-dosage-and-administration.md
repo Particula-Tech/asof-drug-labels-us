@@ -6,7 +6,7 @@ Dosage of temozolomide capsules must be adjusted according to nadir neutrophil a
 For temozolomide capsules dosage calculations based on body surface area (BSA) see Table 5.
 For suggested capsule combinations on a daily dose see Table 6.
 
-Patients with Newly Diagnosed High Grade Glioma:Concomitant Phase: Temozolomide capsules are administered at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions) followed by maintenance temozolomide capsules for 6 cycles.
+Patients with Newly Diagnosed High Grade Glioma: Concomitant Phase: Temozolomide capsules are administered at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60 Gy administered in 30 fractions) followed by maintenance temozolomide capsules for 6 cycles.
 Focal RT includes the tumor bed or resection site with a 2- to 3-cm margin.
 No dose reductions are recommended during the concomitant phase; however, dose interruptions or discontinuation may occur based on toxicity.
 The temozolomide capsules dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 x 109 /L, platelet count ≥100 x 109/L, common toxicity criteria (CTC) nonhematological toxicity ≤Grade 1 (except for alopecia, nausea, and vomiting).
@@ -145,7 +145,7 @@ TABLE 6: Suggested Capsule Combinations Based on Daily Dose in Adults
 
 ## 2.2 Preparation and Administration
 
-TemozolomideCapsules: In clinical trials, temozolomide capsules were administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12.3)], and consistency of administration with respect to food is recommended.
+Temozolomide Capsules: In clinical trials, temozolomide capsules were administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12.3)], and consistency of administration with respect to food is recommended.
 There are no dietary restrictions with temozolomide capsules.
 To reduce nausea and vomiting, temozolomide capsules should be taken on an empty stomach.
 Bedtime administration may be advised.

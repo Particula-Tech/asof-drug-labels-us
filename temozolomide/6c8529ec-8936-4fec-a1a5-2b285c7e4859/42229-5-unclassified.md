@@ -1,18 +1,3 @@
-Manufactured by:
-
-Amneal Pharmaceuticals of NY
-
-Hauppauge, NY 11788
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
-
-Rev.
-07-2014-00
-
 # PHARMACIST INFORMATION SHEET
 
 PHARMACIST:
@@ -195,17 +180,7 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 180 mg capsules (14 count) | 65162-805-14 |
 | 250 mg capsules (5 count) | 65162-806-51 |
 
-Manufactured by:
-
-Amneal Pharmaceuticals of NY
-
-Hauppauge, NY 11788
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
 
 Rev.
-07-2014-00
+10-2015-01

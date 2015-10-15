@@ -8,7 +8,7 @@ The material is a white to light tan/light pink powder with a molecular formula 
 The molecule is stable at acidic pH (<5) and labile at pH >7; hence temozolomide can be administered orally and intravenously.
 The prodrug, temozolomide, is rapidly hydrolyzed to the active 5-(3-methyltriazen-1-yl) imidazole-4-carboxamide (MTIC) at neutral and alkaline pH values, with hydrolysis taking place even faster at alkaline pH.
 
-TemozolomideCapsules:
+Temozolomide Capsules:
 
 Each capsule for oral use contains either 5 mg, 20 mg, 100 mg, 140 mg, 180 mg, or 250 mg of temozolomide.
 

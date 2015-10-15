@@ -16,6 +16,9 @@ Cases of myelodysplastic syndrome and secondary malignancies, including myeloid 
 
 For treatment of newly diagnosed glioblastoma multiforme: Prophylaxis against Pneumocystis pneumonia (PCP) is required for all patients receiving concomitant temozolomide and radiotherapy for the 42-day regimen.
 
+There may be a higher occurrence of PCP when temozolomide is administered during a longer dosing regimen.
+However, all patients receiving temozolomide, particularly patients receiving steroids, should be observed closely for the development of PCP regardless of the regimen.
+
 ## 5.4 Laboratory Tests
 
 For the concomitant treatment phase with RT, a complete blood count should be obtained prior to initiation of treatment and weekly during treatment.

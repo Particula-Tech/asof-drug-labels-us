@@ -28,7 +28,7 @@ Table 10 shows the adverse reactions in 122 children in the COG study.
 
 TABLE 10: Adverse Reactions Reported in the Pediatric Cooperative Group Trial (≥10%)
 
-|  | No. (%) of TemozolomidePatients (N=122)* |  |
+|  | No. (%) of Temozolomide Patients (N=122)* |  |
 | --- | --- | --- |
 | Body System/Organ Class | All Reactions | Grade 3/4 |
 | Adverse Reaction |  |  |
