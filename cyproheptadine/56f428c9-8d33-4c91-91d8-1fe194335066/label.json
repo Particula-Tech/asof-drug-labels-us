@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205087"
+  ],
+  "inn": "cyproheptadine",
+  "labeler": "Ingenus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "50742-190-01",
+    "50742-190-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cyproheptadine hydrochloride",
+      "name": "CYPROHEPTADINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "56f428c9-8d33-4c91-91d8-1fe194335066",
+  "source": "dailymed"
+}
