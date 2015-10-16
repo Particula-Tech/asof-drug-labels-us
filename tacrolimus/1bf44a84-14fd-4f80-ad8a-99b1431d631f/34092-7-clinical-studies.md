@@ -23,6 +23,7 @@ Global Improvement over Baseline at the End-Of-Treatment in Three Phase 3 Studie
 | 100% ≥ 90% ≥ 75% ≥ 50% | 4 (3%) 8 (7%) 18 (16%) 31 (27%) | 14 (12%) 42 (36%) 65 (56%) 85 (73%) | 2 (1%) 14 (7%) 30 (14%) 42 (20%) | 21 (10%) 58 (28%) 97 (46%) 130 (62%) | 20 (10%) 77 (37%) 117 (56%) 152 (73%) |
 
 A statistically significant difference in the percentage of adult patients with ≥ 90% improvement was achieved by week 1 for those treated with tacrolimus ointment 0.1%, and by week 3 for those treated with tacrolimus ointment 0.03%.
+
 A statistically significant difference in the percentage of pediatric patients with ≥ 90% improvement was achieved by week 2 for those treated with tacrolimus ointment 0.03%.
 
 In adult patients who had achieved ≥ 90% improvement at the end of treatment, 35% of those treated with tacrolimus ointment 0.03% and 41% of those treated with tacrolimus ointment 0.1%, regressed from this state of improvement at 2 weeks after end-of-treatment.

@@ -33,6 +33,7 @@ Talk to your doctor for more information.
 What is tacrolimus ointment?
 
 Tacrolimus ointment is a prescription medicine used on the skin (topical) to treat eczema (atopic dermatitis).
+
 Tacrolimus ointment is in a class of medicines called topical calcineurin inhibitors.
 It is for adults and children 2 years of age and older who do not have a weakened immune system.
 Tacrolimus ointment is used on the skin for short periods, and if needed, treatment may be repeated with breaks in between.
@@ -143,6 +144,6 @@ Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
 Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
 
-E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
 
-46122013A R10/13
+46160664A R05/15 #234

@@ -10,7 +10,8 @@ Therefore:
 - •Tacrolimus ointment should not be used in immunocompromised adults and children.
 - •If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
 - •The safety of tacrolimus ointment has not been established beyond one year of non-continuous use.
-  (See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
+
+(See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
 # PRECAUTIONS
 
@@ -55,10 +56,11 @@ The safety and efficacy of tacrolimus ointment in immunocompromised patients hav
 ## Renal Insufficiency
 
 Rare post-marketing cases of acute renal failure have been reported in patients treated with tacrolimus ointment.
+
 Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when tacrolimus is applied to large body surface areas.
 Caution should also be exercised in patients predisposed to renal impairment.
 
-## Information for Patients (continued on back page)
+## Information for Patients
 
 (See MEDICATION GUIDE)
 
@@ -158,9 +160,7 @@ Tacrolimus, given orally at 1.0 mg/kg (0.12X MRHD based on body surface area [BS
 Effects on female reproductive function (parturition) and embryolethal effects were indicated by a higher rate of pre-implantation loss and increased numbers of undelivered and nonviable pups.
 When given at 3.2 mg/kg (0.43X MRHD based on BSA), tacrolimus was associated with maternal and paternal toxicity as well as reproductive toxicity including marked adverse effects on estrus cycles, parturition, pup viability, and pup malformations.
 
-## Pregnancy
-
-Teratogenic Effects: Pregnancy Category C
+Pregnancy Teratogenic Effects: Pregnancy Category C
 
 There are no adequate and well-controlled studies of topically administered tacrolimus in pregnant women.
 The experience with tacrolimus ointment when used by pregnant women is too limited to permit assessment of the safety of its use during pregnancy.

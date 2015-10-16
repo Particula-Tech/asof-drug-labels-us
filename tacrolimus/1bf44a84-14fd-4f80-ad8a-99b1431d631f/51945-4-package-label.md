@@ -12,7 +12,7 @@ Rx only
 
 FOR DERMATOLOGIC USE ONLY.
 Not for ophthalmic use.
-WARNING:Keep out of the reach of children.
+WARNING: Keep out of the reach of children.
 
 NET WT.
 60 grams
@@ -29,7 +29,7 @@ TACROLIMUS OINTMENT 0.03%
 
 FOR DERMATOLOGIC USE ONLY.
 Not for ophthalmic use.
-WARNING:Keep out of the reach of children.
+WARNING: Keep out of the reach of children.
 
 ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
@@ -67,7 +67,7 @@ TACROLIMUS OINTMENT 0.1%
 
 FOR DERMATOLOGIC USE ONLY.
 Not for ophthalmic use.
-WARNING:Keep out of the reach of children.
+WARNING: Keep out of the reach of children.
 
 ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
