@@ -21,13 +21,15 @@ Important Differences Among Lamivudine-Containing Products:Lamivudine Tablets co
 EPIVIR-HBV was developed for patients with chronic hepatitis B. The formulation and dosage of lamivudine in EPIVIR-HBV are not appropriate for patients co-infected with HIV-1 and HBV.
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients co-infected with HIV-1 and HBV.
 If treatment with EPIVIR-HBV is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV-1 infection, rapid emergence of HIV-1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV-1 treatment.
-If a decision is made to administer lamivudine to patients co-infected with HIV-1 and HBV, lamivudine tablets, COMBIVIR® (lamivudine/zidovudine) Tablets, EPZICOM®(abacavir sulfate and lamivudine) Tablets, or TRIZIVIR®(abacavir sulfate, lamivudine, and zidovudine) Tablets should be used as part of an appropriate combination regimen.
+If a decision is made to administer lamivudine to patients co-infected with HIV-1 and HBV, lamivudine tablets, lamivudine oral solution, or another product containing the higher dose of lamivudine should be used as part of an appropriate combination regimen.
 Emergence of Lamivudine-Resistant HBV:In non-HIV-l-infected patients treated with lamivudine for chronic hepatitis B, emergence of lamivudine-resistant HBV has been detected and has been associated with diminished treatment response (see full prescribing information for EPIVIR-HBV for additional information).
 Emergence of hepatitis B virus variants associated with resistance to lamivudine has also been reported in HIV-1-infected patients who have received lamivudine-containing antiretroviral regimens in the presence of concurrent infection with hepatitis B virus.
 
 ## 5.3 Use With Other Lamivudine- and Emtricitabine-Containing Products
 
-Lamivudine should not be administered concomitantly with other lamivudine- containing products including EPIVIR-HBV Tablets,COMBIVIR (lamivudine/zidovudine) Tablets, EPZICOM (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine) or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA®(emtricitabine), or TRUVADA® (emtricitabine and tenofovir), or COMPLERATM (rilpivirine/emtricitabine/tenofovir).
+Lamivudine is one of multiple lamivudine-containing products.
+Concomitant administration of lamivudine with other products containing lamivudine is not recommended.
+Concomitant use of lamivudine with emtricitabine-containing products is also not recommended.
 
 ## 5.4 Use With Interferon- and Ribavirin-Based Regimens
 

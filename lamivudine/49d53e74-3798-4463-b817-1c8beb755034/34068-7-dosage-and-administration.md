@@ -1,33 +1,36 @@
 # 2 DOSAGE & ADMINISTRATION
 
-## 2.1 Adults and Adolescents >16 years of age
+## 2.1 Adult Patients
 
-The recommended oral dose of lamivudine in HIV-1-infected adults and adolescents >16 years of age is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
-If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-l therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+The recommended oral dose of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-l therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)]. • Lamivudine tablets may be taken with or without food.
 
 ## 2.2 Pediatric Patients
 
-Lamivudine is also available as a scored tablet for HIV-l-infected pediatric patients who weigh ≥14 kg for whom a solid dosage form is appropriate.
+Lamivudine is also available as a scored tablet for HIV-l-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 Before prescribing lamivudine tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow lamivudine tablets, the oral solution formulation should be prescribed.
 The recommended oral dosage of lamivudine tablets for HIV-1-infected pediatric patients is presented in Table 1.
 
 Table 1.
-Dosing Recommendations for Lamivudine Tablets in Pediatric Patients
+Dosing Recommendations for Lamivudine Scored (150-mg) Tablets in Pediatric Patients
 
-| Weight (kg) | Dosage Regimen Using Scored 150 mg Tablet |  | Total Daily Dose |
+| Weight (kg) | Twice-daily Dosing Regimen Using Scored 150-mg Tablet |  |  |
 | --- | --- | --- | --- |
-| AM Dose |  |  |  |
-| 14 to 21 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
-| >21 to <30 | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
-| ≥30 | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+| AM Dose | PM Dose | Total Daily Dose |  |
+| 14 to <20 | ½ tablet (75 mg) | ½ tablet (75 mg) | 150 mg |
+| ≥20 to <25 | ½ tablet (75 mg) | 1 tablet (150 mg) | 225 mg |
+| ≥25 | 1 tablet (150 mg) | 1 tablet (150 mg) | 300 mg |
+
+Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's EPIVIR® (lamivudine) tablets and oral solution.
+However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Patients With Renal Impairment
 
 Dosing of lamivudine is adjusted in accordance with renal function.
 Dosage adjustments are listed in Table 2 [see Clinical Pharmacology (12.3)].
 Table 2.
-Adjustment of Dosage of Lamivudine in Adults and Adolescents (≥30 kg) in Accordance With Creatinine Clearance
+Adjustment of Dosage of Lamivudine in Adults and Adolescents (Greater than or Equal to 25 kg) in Accordance With Creatinine Clearance
 
 | Creatinine Clearance (mL/min) | Recommended Dosage of Lamivudine |
 | --- | --- |
