@@ -4,7 +4,7 @@
 
 Adult Hypertension
 
-The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
+The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95 to 115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -21,7 +21,7 @@ The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
 
-The blood pressure lowering effect of valsartan and thiazide-type diuretics are approximately additive.
+The blood pressure-lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
 Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6 to 9/3 to 5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
@@ -85,9 +85,9 @@ Secondary end points in the subgroup not receiving ACE inhibitors were as follow
 | All-cause mortality | 49 (27.1%) | 32 (17.3%) | 0.59 (0.37, 0.91) |
 | Sudden death with resuscitation | 2 (1.1%) | 1 (0.5%) | 0.47 (0.04, 5.20) |
 | CHF therapy | 1 (0.6%) | 0 (0.0%) | – |
-| CHF hospitalization | 48 (26.5%) | 24 (13.0%) | 0.43 (0.27, 0.71) |
+| CHF hospitalization | 48 (26.5%) | 24 (13%) | 0.43 (0.27, 0.71) |
 | Cardiovascular mortality | 40 (22.1%) | 29 (15.7%) | 0.65 (0.40, 1.05) |
-| Non-fatal morbidity | 49 (27.1%) | 24 (13.0%) | 0.42 (0.26, 0.69) |
+| Non-fatal morbidity | 49 (27.1%) | 24 (13%) | 0.42 (0.26, 0.69) |
 
 In patients not receiving an ACE inhibitor, valsartan-treated patients had an increase in ejection fraction and reduction in left ventricular internal diastolic diameter (LVIDD).
 

@@ -11,7 +11,7 @@ Adverse reactions have generally been mild and transient in nature and have only
 The overall incidence of adverse reactions with valsartan was similar to placebo.
 
 The overall frequency of adverse reactions was neither dose-related nor related to gender, age, race, or regimen.
-Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2.0% of placebo patients.
+Discontinuation of therapy due to side effects was required in 2.3% of valsartan patients and 2% of placebo patients.
 The most common reasons for discontinuation of therapy with valsartan were headache and dizziness.
 
 The adverse reactions that occurred in placebo-controlled clinical trials in at least 1% of patients treated with valsartan and at a higher incidence in valsartan (n=2,316) than placebo (n=888) patients included viral infection (3% vs. 2%), fatigue (2% vs. 1%), and abdominal pain (2% vs. 1%).

@@ -13,7 +13,7 @@ What is the most important information I should know about valsartan tablets?
 
 Valsartan tablets can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
-If you get pregnant while taking valsartan tablet, tell your doctor right away.
+If you get pregnant while taking valsartan tablets, tell your doctor right away.
 
 What is valsartan?
 
@@ -25,9 +25,6 @@ It is used in adults to:
   In these patients, valsartan tablets may lower the need for hospitalization that happens from heart failure.
 
 Valsartan is not for children under 6 years of age or children with certain kidney problems.
-
-Heart Failure occurs when the heart is weak and cannot pump enough blood to your lungs and the rest of your body.
-Just walking or moving can make you short of breath, so you may have to rest a lot.
 
 High Blood Pressure (Hypertension).
 Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
@@ -74,8 +71,8 @@ Especially tell your doctor if you take:
   Your doctor may check the amount of potassium in your blood periodically
 - a salt substitute.
   Your doctor may check the amount of potassium in your blood periodically
-- Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+- nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 - Lithium, a medicine used in some types of depression
 
@@ -143,9 +140,8 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store valsartan tablets?
 
-- Store valsartan tablets at room temperature between 59F to 86F (15C to 30C).
+- Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
 - Keep valsartan tablets in a closed container in a dry place.
-- Store bottles of valsartan suspension at room temperature less than 86F (30C) for up to 30 days, or refrigerate between 35F to 46F (2C to 8C) for up to 75 days.
 - Keep valsartan tablets and all medicines out of the reach of children.
 
 General information about valsartan tablets
@@ -184,4 +180,4 @@ Goa - 403 722
 
 INDIA.
 
-December 2014 ID#240220
+Revised: October 2015 ID#: 242875

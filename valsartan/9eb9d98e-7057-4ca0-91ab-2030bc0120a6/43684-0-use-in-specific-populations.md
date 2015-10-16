@@ -27,9 +27,9 @@ Because many drugs are excreted into human milk and because of the potential for
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of valsartan tablets have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1 to 5 and 6 to 16 years of age [see CLINICAL STUDIES (14.1)].
-The pharmacokinetics of valsartan has been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
-Valsartan tablet was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
+The antihypertensive effects of valsartan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1 to 5 and 6 to 16 years of age [see CLINICAL STUDIES (14.1)].
+The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
+Valsartan was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
 
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
 
@@ -43,7 +43,7 @@ Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 
 These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
 Since this period coincides with up to 44 weeks after conception in humans, it is not considered to point toward an increased safety concern in 6 to 16 year old children.
 
-Neonates with a History of In Utero Exposure to Valsartan Tablets
+Neonates with a history of in utero exposure to Valsartan Tablets
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
@@ -54,7 +54,7 @@ In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patie
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
 
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
-There were no notable differences in efficacy or safety between older and younger patients in the trial.
+There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6 Renal Impairment
 

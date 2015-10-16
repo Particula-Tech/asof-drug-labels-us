@@ -1,6 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-17.1 Information for Patients
+Information for Patients
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Pregnancy
 
@@ -24,4 +26,4 @@ Goa - 403 722
 
 INDIA.
 
-December 2014 ID# 240219
+Revised: October 2015 ID#: 242874

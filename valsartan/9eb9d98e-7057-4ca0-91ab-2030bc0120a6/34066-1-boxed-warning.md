@@ -1,4 +1,4 @@
-# WARNINGS: FETAL TOXICITY
+# WARNING: FETAL TOXICITY
 
 - When pregnancy is detected, discontinue valsartan tablets as soon as possible.
   (5.1)

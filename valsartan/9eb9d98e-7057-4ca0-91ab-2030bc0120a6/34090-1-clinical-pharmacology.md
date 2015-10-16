@@ -4,7 +4,7 @@
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
-Valsartan tablets blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
+Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland.
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
@@ -37,7 +37,7 @@ In multiple-dose studies in hypertensive patients, valsartan had no notable effe
 
 Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
-Absolute bioavailability for valsartan tablet is about 25% (range 10% to 35%).
+Absolute bioavailability for valsartan is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see DOSAGE AND ADMINISTRATION; Pediatric Hypertension (2.2)] is 1.6 times greater than with the tablet.
 With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
@@ -50,7 +50,7 @@ The recovery is mainly as unchanged drug, with only about 20% of dose recovered 
 The primary metabolite, accounting for about 9% of dose, is valeryl-4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
-CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
+CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
 
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
 
