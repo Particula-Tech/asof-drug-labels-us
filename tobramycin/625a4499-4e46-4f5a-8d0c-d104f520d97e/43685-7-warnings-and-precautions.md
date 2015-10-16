@@ -23,7 +23,7 @@ TOBI Podhaler should be used cautiously in patients with neuromuscular disorders
 
 ## 5.4 Bronchospasm
 
-Bronchospasm can occur with inhalation of TOBI Podhaler [see Adverse Reactions (6.1)].
+Bronchospasm has been reported with inhalation of TOBI Podhaler [see Adverse Reactions (6.1)].
 Bronchospasm should be treated as medically appropriate.
 
 ## 5.5 Laboratory Tests

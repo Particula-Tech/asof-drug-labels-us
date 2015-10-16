@@ -59,4 +59,4 @@ Cough
 Inform patients that cough was reported with the use of TOBI Podhaler in clinical trials.
 If coughing that may be experienced with TOBI Podhaler becomes bothersome or cannot be tolerated, advise patients that tobramycin inhalation solution or alternative therapeutic options may be considered.
 
-T2015-39 March 2015
+T2015-141 October 2015
