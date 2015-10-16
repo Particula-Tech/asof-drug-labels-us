@@ -111,10 +111,13 @@ Advise patients to notify their physician if they:
 
 • Pediatric Use
 
-Safety and efficacy of duloxetine in patients 7 to 17 years of age have been established for the treatment of GAD.
-The types of adverse reactions observed with duloxetine in children and adolescents were generally similar to those observed in adults.
-The safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with other indications.
+Pediatric use information for patients ages 7 to 17 years with GAD is approved for Eli Lilly and Company, Inc.'s Cymbalta® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The safety and effectiveness of CYMBALTA have not been established in pediatric patients less than 18 years of age with other indications.
+
 [See USE IN SPECIFIC POPULATIONS (8.4)].
+
+The safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with other indications.
 
 • Interference with Psychomotor Performance
 
@@ -138,4 +141,4 @@ Goa 403722
 
 INDIA
 
-Revised: May 25, 2015 ID#: 241415
+Revised: September 2015 ID#: 242319

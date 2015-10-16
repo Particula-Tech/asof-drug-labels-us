@@ -283,7 +283,7 @@ This Medication Guide summarizes the most important information about duloxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about duloxetine delayed-release capsules that is written for healthcare professionals.
 
-For more information about duloxetine delayed-release capsules call 1-800-399-2561 or go to www.lupinpharmaceuticals.com.
+For more information about duloxetine delayed-release capsules, call 1-800-399-2561 or go to www.lupinpharmaceuticals.com.
 
 What are the ingredients in duloxetine delayed-release capsules?
 
@@ -314,4 +314,4 @@ Goa 403722
 
 INDIA
 
-Revised: May 25, 2015 ID#: 241416
+Revised: September 2015 ID#: 242410

@@ -28,22 +28,8 @@ Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily
 The safety of doses above 120 mg once daily has not been adequately evaluated.
 Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see CLINICAL STUDIES (14.2)].
 
-Elderly
-
-Initiate duloxetine delayed-release capsules USP at a dose of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg.
-Thereafter, patients may benefit from doses above 60 mg once daily.
-If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-The maximum dose studied was 120 mg per day.
-Safety of doses above 120 mg once daily has not been adequately evaluated [see CLINICAL STUDIES (14.2)].
-
-Children and Adolescents (7 to 17 years of age)
-
-Initiate duloxetine delayed-release capsules USP at a dose of 30 mg once daily for 2 weeks before considering an increase to 60 mg.
-The recommended dose range is 30 to 60 mg once daily.
-Some patients may benefit from doses above 60 mg once daily.
-If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-The maximum dose studied was 120 mg per day.
-The safety of doses above 120 mg once daily has not been evaluated [see CLINICAL STUDIES (14.2)].
+Pediatric use information for patient's ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
 
@@ -69,7 +55,7 @@ Severe Renal Impairment
 
 Avoid use in patients with severe renal impairment, GFR <30 mL/min [see WARNINGS AND PRECAUTIONS (5.14) and USE IN SPECIFIC POPULATIONS (8.10)].
 
-## 2.7 Discontinuing Duloxetine Delayed-release Capsules USP
+## 2.7 Discontinuing Duloxetine Delayed-release Capsules
 
 Adverse reactions after discontinuation of duloxetine delayed-release capsules USP, after abrupt or tapered discontinuation, include: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see WARNINGS AND PRECAUTIONS (5.7)].
@@ -79,7 +65,7 @@ A gradual reduction in dosage rather than abrupt cessation is recommended whenev
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine delayed-release capsules USP.
 Conversely, at least 5 days should be allowed after stopping duloxetine delayed-release capsules USP before starting an MAOI intended to treat psychiatric disorders [see CONTRAINDICATIONS (4)].
 
-## 2.9 Use of Duloxetine Delayed-release Capsules USP with Other MAOIs such as Linezolid or Methylene Blue
+## 2.9 Use of Duloxetine Delayed-release Capsules with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start duloxetine delayed-release capsules USP in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see CONTRAINDICATIONS (4)].
