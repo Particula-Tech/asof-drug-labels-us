@@ -48,9 +48,8 @@ TEVA
 
 ## Once-a-Week Risedronate Sodium Tablets USP, 35 mg 4s Carton Text
 
-NDC 0093-3098-44 4 Week Supply
-
-(4 Tablets)
+- NDC 0093-3098-44 4 Week Supply
+- (4 Tablets)
 
 Once-a-Week
 
