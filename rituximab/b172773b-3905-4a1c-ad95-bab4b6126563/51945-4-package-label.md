@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 mg Vial Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
 NDC 50242-051-21
 
@@ -14,20 +14,22 @@ For Intravenous Use
 
 Jointly Marketed by: Biogen Idec Inc., and Genentech USA, Inc.
 
-PRINCIPAL DISPLAY PANEL - 500 mg Vial Label
+10165657
+
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
 NDC 50242-053-06
 
-RITUXAN®
+RITUXAN ®
 
 Rituximab
 
 500 mg/50 mL (10 mg/mL)
 
-For Intravenous Use
+500 mg
 
-500 mg Rx only One 500 mg vial
+For Intravenous Use Rx only One 500 mg vial
 
 Jointly Marketed by: Biogen Idec Inc., and Genentech USA, Inc.
 
-10136408
+10165658
