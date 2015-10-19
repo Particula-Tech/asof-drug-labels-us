@@ -1,21 +1,38 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Bone Marrow Suppression
+- Bone Marrow Suppression
 
-Inform patients that topotecan hydrochloride for injection decreases blood cell counts such as white blood cells, platelets, and red blood cells.
-Patients who develop fever, other signs of infection (e.g., chills, cough, or burning pain on urination), or bleeding while on therapy should notify their physician promptly.
-Inform patients that frequent blood tests will be performed while taking topotecan hydrochloride for injection to monitor for the occurrence of bone marrow suppression.
+Inform patients that topotecan for injection decreases blood cell counts such as white blood cells, platelets, and red blood cells.
+Advise patients to notify their healthcare provider promptly for fever, other signs of infection (e.g., chills, cough, or burning pain on urination), or bleeding.
+Inform patients that frequent blood tests will be performed while taking topotecan for injection to monitor for the occurrence of bone marrow suppression.
 
-## 17.2 Pregnancy and Breastfeeding
+- Embryofetal Toxicity
 
-Advise patients to use effective contraceptive measures to prevent pregnancy and to avoid breastfeeding during treatment with topotecan hydrochloride for injection.
+Advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected during treatment with topotecan for injection.
+Advise females of reproductive potential to use effective contraception during treatment and for 1 month after the last dose of topotecan for injection.
+Advise males with a female sexual partner of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of topotecan for injection [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
 
-## 17.3 Asthenia and Fatigue
+- Lactation
 
-Inform patients that topotecan hydrochloride for injection may cause asthenia or fatigue.
-If these symptoms occur, caution should be observed when driving or operating machinery.
+Advise nursing mothers to discontinue breastfeeding during treatment with topotecan for injection [see Use in Specific Populations (8.2)].
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+- Infertility
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
-10 7878 2 655655 Issued June, 2014
+Advise male and female patients of the potential risk for impaired fertility and possible family planning options [see Use in Specific Populations (8.3)].
+
+- Asthenia and Fatigue
+
+Advise patients that topotecan for injection may cause asthenia or fatigue.
+These symptoms may impair the ability to safely drive or operate machinery.
+
+Manufactured For:
+
+Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+
+Manufactured By:
+
+Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist. - Ahmedabad – 382 210, INDIA.
+
+10 7878 2 655655
+
+Issued August, 2015.

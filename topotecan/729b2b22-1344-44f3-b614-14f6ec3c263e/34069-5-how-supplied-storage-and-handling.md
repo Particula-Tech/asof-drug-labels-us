@@ -1,7 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Topotecan Hydrochloride for Injection is supplied in 4-mg (free base) single-dose vials.
+## 16.1 How Supplied
+
+Topotecan for injection is supplied as a sterile, lyophilized, yellow powder.
+
+Topotecan for Injection is supplied in 4-mg (free base) single‑dose vials.
 
 NDC 16729-151-31 (package of 1)
 
-Storage: Store the vials protected from light in the original cartons at controlled room temperature between 20° and 25°C (68° and 77°F) [see USP].
+## 16.2 Storage and Handling
+
+Store at controlled room temperature between 20°C and 25°C (68°F and 77°F) [see USP].
+Protect from light in original carton.
+Handle and dispose of topotecan for injection consistent with recommendations for the handling and disposal of hazardous drugs 1.

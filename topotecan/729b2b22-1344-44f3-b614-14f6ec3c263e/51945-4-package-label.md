@@ -1,25 +1,23 @@
-Principal Display Panel-Topotecan Hydrochloride For Injection 4 mg Container
+PRINCIPAL DISPLAY PANEL
 
-NDC 16729-151-31
+NDC 16729 -151-31
 
-Lyophilized
+Topotecan for injection
 
-Must be Diluted
+4 mg/vial
 
-For Intravenous Use
+R x only
 
-Discard Unused Portion
+Lyophilized Must be diluted For Intravenous Use Discard unused portion
 
-Principal Display Panel-Topotecan Hydrochloride For Injection 4 mg carton
+PRINCIPAL DISPLAY PANEL
 
-NDC 16729-151-31
+NDC 16729 -151-31
 
-Lyophilized
+Topotecan for injection
 
-Must be Diluted
+4 mg/vial
 
-For Intravenous Use
+R x only
 
-Discard Unused Portion
-
-One Single Dose Vial
+Lyophilized Must be diluted For Intravenous Use Discard unused portion One Single Dose Vial
