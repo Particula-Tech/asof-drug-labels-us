@@ -1,9 +1,9 @@
 # WARNINGS
 
-- RENOVA® (tretinoin cream) 0.02% is a dermal irritant, and the results of continued irritation of the skin for greater than 52 weeks in chronic use with RENOVA® (tretinoin cream) 0.02% are not known.
+- •RENOVA® (tretinoin cream) 0.02% is a dermal irritant, and the results of continued irritation of the skin for greater than 52 weeks in chronic use with RENOVA® (tretinoin cream) 0.02% are not known.
   There is evidence of atypical changes in melanocytes and keratinocytes and of increased dermal elastosis in some patients treated with RENOVA® (tretinoin cream) 0.05% for longer than 48 weeks.
   The significance of these findings and their relevance for RENOVA® (tretinoin cream) 0.02% are unknown.
-- RENOVA® (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
+- •RENOVA® (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
 
 Exposure to sunlight (including sunlamps) should be avoided or minimized during use of RENOVA® (tretinoin cream) 0.02% because of heightened sunburn susceptibility.
 Patients should be warned to use sunscreens (minimum SPF of 15) and protective clothing when using RENOVA® (tretinoin cream) 0.02%.
@@ -32,21 +32,21 @@ Weather extremes, such as wind or cold, may be more irritating to patients using
 
 RENOVA® (tretinoin cream) 0.02% is to be used as described below unless otherwise directed by your physician:
 
-1. It is for use on the face.
-2. Avoid contact with the eyes, ears, nostrils, angles of the nose, and mouth.
-   RENOVA® (tretinoin cream) 0.02% may cause severe redness, itching, burning, stinging, and peeling if used on these areas.
-3. In the evening, gently wash your face with a mild soap.
-   Pat skin dry and wait 20-30 minutes before applying RENOVA® (tretinoin cream) 0.02%.
-   Apply only a small pearl-sized (about ¼ inch or 5 millimeter diameter) amount of RENOVA® (tretinoin cream) 0.02% to your face at one time.
-   This should be enough to cover the entire affected area lightly.
-4. Do not wash your face for at least one hour after applying RENOVA® (tretinoin cream) 0.02%.
-5. For best results, you are advised not to apply another skin care product or cosmetic for at least one hour after applying RENOVA® (tretinoin cream) 0.02%.
-6. In the morning, apply a moisturizing sunscreen, SPF 15 or greater.
-7. RENOVA® (tretinoin cream) 0.02% is a serious medication.
-   Do not use RENOVA® (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
-   If you become pregnant while using RENOVA® (tretinoin cream) 0.02%, please contact your physician immediately.
-8. Avoid sunlight and other medicines that may increase your sensitivity to sunlight.
-9. RENOVA® (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
+- 1.It is for use on the face.
+- 2.Avoid contact with the eyes, ears, nostrils, angles of the nose, and mouth.
+  RENOVA® (tretinoin cream) 0.02% may cause severe redness, itching, burning, stinging, and peeling if used on these areas.
+- 3.In the evening, gently wash your face with a mild soap.
+  Pat skin dry and wait 20-30 minutes before applying RENOVA® (tretinoin cream) 0.02%.
+  Apply only a small pearl-sized (about ¼ inch or 5 millimeter diameter) amount of RENOVA® (tretinoin cream) 0.02% to your face at one time.
+  This should be enough to cover the entire affected area lightly.
+- 4.Do not wash your face for at least one hour after applying RENOVA® (tretinoin cream) 0.02%.
+- 5.For best results, you are advised not to apply another skin care product or cosmetic for at least one hour after applying RENOVA® (tretinoin cream) 0.02%.
+- 6.In the morning, apply a moisturizing sunscreen, SPF 15 or greater.
+- 7.RENOVA® (tretinoin cream) 0.02% is a serious medication.
+  Do not use RENOVA® (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
+  If you become pregnant while using RENOVA® (tretinoin cream) 0.02%, please contact your physician immediately.
+- 8.Avoid sunlight and other medicines that may increase your sensitivity to sunlight.
+- 9.RENOVA® (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
 
 Please refer to the Patient Package Insert for additional patient information.
 

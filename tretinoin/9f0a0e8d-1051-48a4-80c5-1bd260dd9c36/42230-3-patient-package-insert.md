@@ -42,11 +42,11 @@ Who should not use RENOVA® (tretinoin cream) 0.02%?
 
 Do not use RENOVA® (tretinoin cream) 0.02% if:
 
-- you are pregnant or plan to become pregnant.
+- •you are pregnant or plan to become pregnant.
   If you become pregnant while using RENOVA® (tretinoin cream) 0.02%, please contact your doctor immediately.
-- you are sunburned or your skin is irritated
-- you are highly sensitive to sunlight
-- you are allergic to any of the ingredients in RENOVA® (tretinoin cream) 0.02%.
+- •you are sunburned or your skin is irritated
+- •you are highly sensitive to sunlight
+- •you are allergic to any of the ingredients in RENOVA® (tretinoin cream) 0.02%.
   The active ingredient is tretinoin.
   Ask your doctor or pharmacist about the inactive ingredients.
 
@@ -58,9 +58,9 @@ Because RENOVA® (tretinoin cream) 0.02% may make your skin more likely to burn 
 You should not use RENOVA® (tretinoin cream) 0.02% with such medicines.
 These include, but are not limited to:
 
-- thiazides (to treat high blood pressure)
-- tetracyclines, fluoroquinolones, sulfonamides (to treat infection)
-- phenothiazines (to treat serious emotional problems)
+- •thiazides (to treat high blood pressure)
+- •tetracyclines, fluoroquinolones, sulfonamides (to treat infection)
+- •phenothiazines (to treat serious emotional problems)
 
 If you are taking any prescription or non-prescription medicines, check with your doctor to make sure you can use RENOVA® (tretinoin cream) 0.02% with them.
 
@@ -73,9 +73,9 @@ Use RENOVA® (tretinoin cream) 0.02% as a part of a total skin care and sun avoi
 Follow your doctor's instructions on how to use RENOVA® (tretinoin cream) 0.02%.
 RENOVA® (tretinoin cream) 0.02% is usually applied to the face once a day in the evening, following the 3 steps listed below:
 
-1. Gently wash your face with a mild soap.
-2. Pat the skin dry and wait 20-30 minutes before applying RENOVA® (tretinoin cream) 0.02%.
-3. TUBE: Squeeze a small amount of RENOVA® (tretinoin cream) 0.02% (the size of a pearl about ¼ inch or 5mm diameter) on your fingertip, and apply to your face.
+- 1.Gently wash your face with a mild soap.
+- 2.Pat the skin dry and wait 20-30 minutes before applying RENOVA® (tretinoin cream) 0.02%.
+- 3.TUBE: Squeeze a small amount of RENOVA® (tretinoin cream) 0.02% (the size of a pearl about ¼ inch or 5mm diameter) on your fingertip, and apply to your face.
 
 PUMP: Fully depress the pump twice to dispense a small amount of RENOVA® (tretinoin cream) 0.02% (the size of a pearl—about ¼ inch or 5mm diameter) on your fingertip, and apply to your face.
 
@@ -99,14 +99,14 @@ RENOVA® (tretinoin cream) 0.02% can make your treated skin more sensitive to su
 Therefore, keep out of the sunlight as much as possible and do not use sunlamps.
 Avoid as much as possible products that can increase skin irritation, such as:
 
-- other skin medicines
-- medicated or abrasive (rough) soaps
-- permanent wave solutions
-- chemical hair removers or waxes
-- electrolysis
-- products with alcohol, spices, astringents, or lime
-- cleansers, shampoos, or cosmetics with a strong drying effect
-- other products that may irritate your skin
+- •other skin medicines
+- •medicated or abrasive (rough) soaps
+- •permanent wave solutions
+- •chemical hair removers or waxes
+- •electrolysis
+- •products with alcohol, spices, astringents, or lime
+- •cleansers, shampoos, or cosmetics with a strong drying effect
+- •other products that may irritate your skin
 
 What are the possible side effects of RENOVA® (tretinoin cream) 0.02%?
 
