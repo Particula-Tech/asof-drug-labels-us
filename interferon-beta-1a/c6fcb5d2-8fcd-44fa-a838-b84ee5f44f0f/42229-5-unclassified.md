@@ -6,6 +6,6 @@ EMD Serono, Inc. Rockland, MA 02370
 
 Pfizer Inc New York, NY 10017
 
-Revised: April 2014
+Revised: 10/2015
 
 *AVONEX is a registered trademark of Biogen Idec, Inc.

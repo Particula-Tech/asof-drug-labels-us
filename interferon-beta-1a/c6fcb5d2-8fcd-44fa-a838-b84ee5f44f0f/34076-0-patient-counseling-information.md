@@ -35,7 +35,7 @@ Inform patients that they may be more likely to get infections, anemia, or be at
 
 Seizures
 
-Instruct patients to report seizures immediately to their healthcare provider [see Warnings and Precautions (5.6)].
+Instruct patients to report seizures immediately to their healthcare provider [see Warnings and Precautions (5.7)].
 
 Flu-like Symptoms
 

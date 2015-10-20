@@ -7,8 +7,9 @@ The following adverse reactions are discussed in more detail in the Warnings and
 - Anaphylaxis and Other Allergic Reactions [see Warnings and Precautions (5.3)]
 - Injection Site Reactions including Necrosis [see Warnings and Precautions (5.4)]
 - Decreased Peripheral Blood Counts [see Warnings and Precautions (5.5)]
-- Seizures [see Warnings and Precautions (5.6)]
-- Laboratory Tests [see Warnings and Precautions (5.7)]
+- Thrombotic Microangiopathy [see Warnings and Precautions (5.6)]
+- Seizures [see Warnings and Precautions (5.7)]
+- Laboratory Tests [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -93,8 +94,6 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Autoimmune Disorders: Drug-induced lupus erythematosus, autoimmune hepatitis
-
-Blood and Lymphatic System Disorders: Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS)
 
 Eye Disorders: Retinal vascular disorders (i.e. retinopathy, cotton wool spots or obstruction of retinal artery or vein)
 

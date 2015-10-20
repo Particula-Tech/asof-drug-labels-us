@@ -18,7 +18,7 @@ Asymptomatic elevation of hepatic transaminases (particularly SGPT) is common wi
 REBIF should be initiated with caution in patients with active liver disease, alcohol abuse, increased serum SGPT (> 2.5 times ULN), or a history of significant liver disease.
 Also, the potential risk of REBIF used in combination with known hepatotoxic products should be considered prior to REBIF administration, or when adding new agents to the regimen of patients already on REBIF.
 Reduction of REBIF dose should be considered if SGPT rises above 5 times the upper limit of normal.
-The dose may be gradually re-escalated when enzyme levels have normalized [see Warnings and Precautions (5.7); and Dosage and Administration (2.1)].
+The dose may be gradually re-escalated when enzyme levels have normalized [see Warnings and Precautions (5.8); and Dosage and Administration (2.1)].
 
 ## 5.3 Anaphylaxis and Other Allergic Reactions
 
@@ -50,14 +50,20 @@ In controlled clinical trials, leukopenia occurred at a higher frequency in REBI
 Thrombocytopenia and anemia occurred more frequently in 44 mcg REBIF-treated patients (8% and 5%, respectively) than in placebo-treated patients (2% and 3%, respectively).
 In a pooled analysis of 7 placebo controlled trials with REBIF doses of 22 mcg or 44 mcg, the rate of pancytopenia (in subjects with normal baseline values who developed laboratory values less than the lower limit of normal for all 3 hematology parameters simultaneously) was higher in the total REBIF group (5.5 per 1000 subject-year) than in the placebo group (1.2 per 1000 subject-year).
 Patients should be monitored for symptoms or signs of decreased blood counts.
-Monitoring of complete blood and differential white blood cell counts is also recommended [see Dosage and Administration (2.1) and Warnings and Precautions (5.7)].
+Monitoring of complete blood and differential white blood cell counts is also recommended [see Dosage and Administration (2.1) and Warnings and Precautions (5.8)].
 
-## 5.6 Seizures
+## 5.6 Thrombotic Microangiopathy
+
+Cases of thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura and hemolytic uremic syndrome, some fatal, have been reported with interferon beta products, including REBIF.
+Cases have been reported several weeks to years after starting interferon beta products.
+Discontinue REBIF if clinical symptoms and laboratory findings consistent with TMA occur, and manage as clinically indicated.
+
+## 5.7 Seizures
 
 Caution should be exercised when administering REBIF to patients with pre-existing seizure disorders.
 Seizures have been temporally associated with the use of beta interferons, including REBIF, in clinical trials and in postmarketing reports.
 
-## 5.7 Laboratory Tests
+## 5.8 Laboratory Tests
 
 In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, blood cell counts and liver function tests are recommended at regular intervals (1, 3, and 6 months) following introduction of REBIF therapy and then periodically thereafter in the absence of clinical symptoms.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts [see Dosage and Administration (2.1) and Warnings and Precautions (5.5)].
