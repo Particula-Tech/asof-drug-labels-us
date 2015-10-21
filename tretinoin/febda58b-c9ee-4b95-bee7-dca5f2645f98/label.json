@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022070"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-800-45"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Tretinoin"
+    }
+  ],
+  "setid": "febda58b-c9ee-4b95-bee7-dca5f2645f98",
+  "source": "dailymed"
+}
