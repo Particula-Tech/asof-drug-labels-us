@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA018225"
+  ],
+  "inn": "bumetanide",
+  "labeler": "Edenbridge Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42799-119-01",
+    "42799-120-01",
+    "42799-120-02",
+    "42799-121-01",
+    "42799-121-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bumetanide",
+      "name": "Bumetanide"
+    }
+  ],
+  "setid": "32c4372e-54ea-4fc8-b9f8-827fa4c8edd3",
+  "source": "dailymed"
+}
