@@ -15,16 +15,12 @@ Higher daily doses of carbamazepine may cause an even greater increase in olanza
 Alcohol — Ethanol (45 mg/70 kg single dose) did not have an effect on olanzapine pharmacokinetics.
 The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
-Inhibitors of CYP1A2
-
-Fluvoxamine: Fluvoxamine, a CYP1A2 inhibitor, decreases the clearance of olanzapine.
+Inhibitors of CYP1A2 Fluvoxamine: Fluvoxamine, a CYP1A2 inhibitor, decreases the clearance of olanzapine.
 This results in a mean increase in olanzapine Cmax following fluvoxamine of 54% in female nonsmokers and 77% in male smokers.
 The mean increase in olanzapine AUC is 52% and 108%, respectively.
 Lower doses of olanzapine should be considered in patients receiving concomitant treatment with fluvoxamine.
 
-Inhibitors of CYP2D6
-
-Fluoxetine: Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
+Inhibitors of CYP2D6 Fluoxetine: Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
 When using olanzapine tablets and fluoxetine in combination, also refer to the Drug Interactions section of the package insert for Symbyax®.
 
@@ -44,10 +40,10 @@ Antihypertensive Agents — Olanzapine, because of its potential for inducing hy
 Levodopa and Dopamine Agonists — Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 
 Lithium — Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see Warnings and Precautions (5.16)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see Warnings and Precautions (5.14)].
 
 Valproate — Olanzapine (10 mg daily for 2 weeks) did not affect the steady state plasma concentrations of valproate.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate [see Warnings and Precautions (5.16)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate [see Warnings and Precautions (5.14)].
 
 Effect of Olanzapine on Drug Metabolizing Enzymes — In vitro studies utilizing human liver microsomes suggest that olanzapine has little potential to inhibit CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
 Thus, olanzapine is unlikely to cause clinically important drug interactions mediated by these enzymes.

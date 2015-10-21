@@ -1,6 +1,6 @@
 Medication Guide
 
-Olanzapine Tablets, USP 2.5 mg, 5 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
+Olanzapine Tablets, USP (oh lan′ za peen)
 
 Read the Medication Guide that comes with olanzapine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -13,8 +13,8 @@ Olanzapine tablets may cause serious side effects, including:
 
 1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
 2. High blood sugar (hyperglycemia).
-3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
-4. Weight gain, especially in teenagers age 13 to 17.
+3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+4. Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
@@ -35,13 +35,14 @@ These serious side effects are described below.
    - feel very hungry
    - feel weak or tired
    - feel sick to your stomach
-   - feel confused, or your breath smells fruity
-3. High fat level in your blood (cholesterol and triglycerides).
-   High fat levels may happen in people treated with olanzapine tablets, especially in teenagers (13 to 17 years old).
+   - feel confused or your breath smells fruity
+3. High fat levels in your blood (cholesterol and triglycerides).
+   High fat levels may happen in people treated with olanzapine tablets, especially in teenagers (13 to 17 years old), or when used in combination with fluoxetine in children (10 to 17 years old).
    You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking olanzapine tablets and during treatment.
 4. Weight gain.
    Weight gain is very common in people who take olanzapine tablets.
    Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+   Children (10 to 17 years old) are also more likely to gain weight and to gain more weight than adults when olanzapine tablets are used in combination with fluoxetine.
    Some people may gain a lot of weight while taking olanzapine tablets, so you and your doctor should check your weight regularly.
    Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
@@ -49,14 +50,18 @@ What are olanzapine tablets?
 
 Olanzapine tablets are a prescription medicine used to treat:
 
-- schizophrenia.
+- schizophrenia in people age 13 or older.
 - bipolar disorder, including:
-  - manic or mixed episodes that happen with bipolar I disorder.
+  - manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
   - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
   - long-term treatment of bipolar I disorder in adults.
-- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®), in people age 10 or older.
 
 Olanzapine tablets have not been approved for use in children under 13 years of age.
+Olanzapine in combination with fluoxetine has not been approved for use in children under 10 years of age.
+
+Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets and olanzapine orally disintegrating tablets.
+However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
@@ -64,9 +69,6 @@ The symptoms of bipolar I disorder include alternating periods of depression and
 
 Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
-
-Pediatric use information is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 What should I tell my doctor before taking olanzapine tablets?
 
@@ -121,7 +123,7 @@ How should I take olanzapine tablets?
 What should I avoid while taking olanzapine tablets?
 
 - Olanzapine tablets can cause sleepiness and may affect your ability to make decisions, think clearly, or react quickly.
-  You should not drive, operate heavy machinery, or do other dangerous activities until you know how olanzapine tablets affect you.
+  You should not drive, operate heavy machinery, or do other dangerous activities until you know how olanzapine tablets affects you.
 - Avoid drinking alcohol while taking olanzapine tablets.
   Drinking alcohol while you take olanzapine tablets may make you sleepier than if you take olanzapine tablets alone.
 
@@ -172,7 +174,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store olanzapine tablets?
 
-- Store olanzapine tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store olanzapine tablets at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F).
 - Keep olanzapine tablets away from light.
 - Keep olanzapine tablets dry and away from moisture.
 
@@ -202,7 +204,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Symbyax® is a registered trademark of Eli Lilly and Company.
 Prozac® is a registered trademark of Eli Lilly and Company.
 
-| Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 |  |  |  |  |  |  |  | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 
-Revision 2 Revised: February 2012
+| Manufactured by | Manufactured for |
+| --- | --- |
+| Apotex Inc. | Apotex Corp. |
+| Toronto, Ontario | Weston, Florida |
+| Canada M9L 1T9 | USA 33326 |
+
+Revised: August 2015 Revision 3

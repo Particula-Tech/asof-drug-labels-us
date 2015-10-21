@@ -8,9 +8,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Adults
 
-The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 8661 adult patients with approximately 4165 patient-years of exposure to oral olanzapine and 722 patients with exposure to intramuscular olanzapine for injection.
-This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer's disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer's disease representing approximately 29 patient-years of exposure; (4) 5788 patients from 88 additional oral olanzapine clinical trials as of December 31, 2001; and (5) 722 patients who participated in intramuscular olanzapine for injection premarketing trials in agitated patients with schizophrenia, bipolar I disorder (manic or mixed episodes), or dementia.
-In addition, information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure, is included below.
+The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 10,504 adult patients with approximately 4765 patient-years of exposure to olanzapine plus 722 patients with exposure to intramuscular olanzapine for injection.
+This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer’s disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer’s disease representing approximately 29 patient-years of exposure; (4) 5788 additional patients from 88 oral olanzapine clinical trials as of December 31, 2001; (5) 1843 additional patients from 41 olanzapine clinical trials as of October 31, 2011; and (6) 722 patients who participated in intramuscular olanzapine for injection premarketing trials in agitated patients with schizophrenia, bipolar I disorder (manic or mixed episodes), or dementia.
+Also included below is information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure.
 
 The conditions and duration of treatment with olanzapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, weights, laboratory analytes, ECGs, chest x-rays, and results of ophthalmologic examinations.
@@ -35,7 +35,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Incidence of Adverse Reactions in Short-Term, Placebo-Controlled and Combination Trials
 
-The following findings are based on premarketing trials of oral olanzapine for schizophrenia, bipolar I disorder (manic or mixed episodes), a subsequent trial of patients having various psychiatric symptoms in association with Alzheimer's disease, and premarketing combination trials.
+The following findings are based on premarketing trials of (1) oral olanzapine for schizophrenia, bipolar I disorder (manic or mixed episodes), a subsequent trial of patients having various psychiatric symptoms in association with Alzheimer’s disease, and premarketing combination trials.
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
@@ -64,7 +64,8 @@ Table 9: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | Dizziness | 11 | 4 |
 | Personality disordera | 8 | 4 |
 | Akathisia | 5 | 1 |
-| a Personality disorder is the COSTART term for designating nonaggressive objectionable behavior. |  |  |
+
+a Personality disorder is the COSTART term for designating nonaggressive objectionable behavior.
 
 Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 3-Week and 4-Week Trials — Bipolar I Disorder (Manic or Mixed Episodes)
 
@@ -132,11 +133,31 @@ Table 11: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 | Urinary incontinence | 2 | 1 |
 | Urinary tract infection | 2 | 1 |
 
+Dose Dependency of Adverse Reactions A dose group difference has been observed for fatigue, dizziness, weight gain and prolactin elevation.
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) was observed with significant differences between 10 vs 40 and 20 vs 40 mg/day.
+The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
+Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.4, 5.13)].
+
+The following table addresses dose relatedness for other adverse reactions using data from a schizophrenia trial involving fixed dosage ranges of oral olanzapine.
+It enumerates the percentage of patients with treatment-emergent adverse reactions for the 3 fixed-dose range groups and placebo.
+The data were analyzed using the Cochran-Armitage test, excluding the placebo group, and the table includes only those adverse reactions for which there was a trend.
+
+Table 12: Percentage of Patients from a Schizophrenia Trial with Treatment-Emergent Adverse Reactions for the 3 Dose Range Groups and Placebo
+
+| Percentage of Patients Reporting Event |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Placebo (N=68) | Olanzapine 5 ± 2.5 mg/day (N=65) | Olanzapine 10 ± 2.5 mg/day (N=64) | Olanzapine 15 ± 2.5 mg/day (N=69) |
+| Asthenia | 15 | 8 | 9 | 20 |
+| Dry mouth | 4 | 3 | 5 | 13 |
+| Nausea | 9 | 0 | 2 | 9 |
+| Somnolence | 16 | 20 | 30 | 39 |
+| Tremor | 3 | 0 | 5 | 7 |
+
 Commonly Observed Adverse Reactions in Short-Term Trials of Oral Olanzapine as Adjunct to Lithium or Valproate
 
 In the bipolar I disorder (manic or mixed episodes) adjunct placebo-controlled trials, the most commonly observed adverse reactions associated with the combination of olanzapine and lithium or valproate (incidence of ≥5% and at least twice placebo) were:
 
-Table 12: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 6-Week Adjunct to Lithium or Valproate Trials — Bipolar I Disorder (Manic or Mixed Episodes)
+Table 13: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 6-Week Adjunct to Lithium or Valproate Trials — Bipolar I Disorder (Manic or Mixed Episodes)
 
 | Adverse Reaction | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -154,13 +175,13 @@ Table 12: Common Treatment-Emergent Adverse Reactions Associated with the Use of
 
 Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short-Term Trials of Olanzapine as Adjunct to Lithium or Valproate
 
-Table 13 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with the combination of olanzapine (doses ≥5 mg/day) and lithium or valproate and with incidence greater than lithium or valproate alone who participated in the acute phase of placebo-controlled combination trials.
+Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with the combination of olanzapine (doses ≥5 mg/day) and lithium or valproate and with incidence greater than lithium or valproate alone who participated in the acute phase of placebo-controlled combination trials.
 
-Table 13: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo-Controlled Clinical Trials of Oral Olanzapine as Adjunct to Lithium or Valproate
+Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo-Controlled Clinical Trials of Oral Olanzapine as Adjunct to Lithium or Valproate
 
 | Body System/Adverse Reaction | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
-| Olanzapine with lithium or valproate (N=229) | Placebo with lithium or valproate (N=115) |  |
+| Olanzapine with lithium or valproate(N=229) | Placebo with lithium or valproate(N=115) |  |
 | Body as a Whole |  |  |
 | Asthenia | 18 | 13 |
 | Back pain | 8 | 4 |
@@ -203,29 +224,30 @@ Table 13: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 | Urogenital System |  |  |
 | Dysmenorrheaa | 2 | 0 |
 | Vaginitisa | 2 | 0 |
-| a Denominator used was for females only (olanzapine, N=128; placebo, N=51). |  |  |
+
+a Denominator used was for females only (olanzapine, N=128; placebo, N=51).
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
-Additional Findings Observed in Clinical Trials
+## 6.2 Extrapyramidal Symptoms
 
-Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
+The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
-Extrapyramidal Symptoms: The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
-
-Table 15: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
+Table 16: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo | Olanzapine 5 ± 2.5 mg/day | Olanzapine 10 ± 2.5 mg/day | Olanzapine 15 ± 2.5 mg/day |  |
 | Parkinsonisma | 15 | 14 | 12 | 14 |
 | Akathisiab | 23 | 16 | 19 | 27 |
-| a Percentage of patients with a Simpson-Angus Scale total score >3. |  |  |  |  |
-| b Percentage of patients with a Barnes Akathisia Scale global score ≥2. |  |  |  |  |
+
+a Percentage of patients with a Simpson-Angus Scale total score >3.
+
+b Percentage of patients with a Barnes Akathisia Scale global score ≥2.
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy in the same controlled clinical trial comparing olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
-Table 16: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
+Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -236,53 +258,39 @@ Table 16: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 | Dyskinetic eventsd | 4 | 0 | 2 | 1 |
 | Residual eventse | 1 | 2 | 5 | 1 |
 | Any extrapyramidal event | 16 | 15 | 25 | 32 |
-| a Patients with the following COSTART terms were counted in this category: dystonia, generalized spasm, neck rigidity, oculogyric crisis, opisthotonos, torticollis. |  |  |  |  |
-| b Patients with the following COSTART terms were counted in this category: akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, masked facies, tremor. |  |  |  |  |
-| c Patients with the following COSTART terms were counted in this category: akathisia, hyperkinesia. |  |  |  |  |
-| d Patients with the following COSTART terms were counted in this category: buccoglossal syndrome, choreoathetosis, dyskinesia, tardive dyskinesia. |  |  |  |  |
-| e Patients with the following COSTART terms were counted in this category: movement disorder, myoclonus, twitching. |  |  |  |  |
+
+a Patients with the following COSTART terms were counted in this category: dystonia, generalized spasm, neck rigidity, oculogyric crisis, opisthotonos, torticollis.
+
+b Patients with the following COSTART terms were counted in this category: akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, masked facies, tremor.
+
+c Patients with the following COSTART terms were counted in this category: akathisia, hyperkinesia.
+
+d Patients with the following COSTART terms were counted in this category: buccoglossal syndrome, choreoathetosis, dyskinesia, tardive dyskinesia.
+
+e Patients with the following COSTART terms were counted in this category: movement disorder, myoclonus, twitching.
 
 The following table enumerates the percentage of adolescent patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy (dose range: 2.5 to 20 mg/day).
 
-Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in Placebo-Controlled Clinical Trials of Oral Olanzapine in Schizophrenia and Bipolar I Disorder — Adolescents
+Table 18: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in Placebo-Controlled Clinical Trials of Oral Olanzapine in Schizophrenia and Bipolar I Disorder — Adolescents
 
-|  | Percentage of Patients Reporting Event |  |
+| Categoriesa | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
-|  | Placebo | Olanzapine |
-| Categoriesa | (N=89) | (N=179) |
+| Placebo (N=89) | Olanzapine (N=179) |  |
 | Dystonic events | 0 | 1 |
 | Parkinsonism events | 2 | 1 |
 | Akathisia events | 4 | 6 |
 | Dyskinetic events | 0 | 1 |
 | Nonspecific events | 0 | 4 |
 | Any extrapyramidal event | 6 | 10 |
-| a Categories are based on Standard MedDRA Queries (SMQ) for extrapyramidal symptoms as defined in MedDRA version 12.0. |  |  |
+
+a Categories are based on Standard MedDRA Queries (SMQ) for extrapyramidal symptoms as defined in MedDRA version 12.0.
 
 Dystonia, Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-Other Adverse Reactions: The following table addresses dose relatedness for other adverse reactions using data from a schizophrenia trial involving fixed dosage ranges of oral olanzapine.
-It enumerates the percentage of patients with treatment-emergent adverse reactions for the 3 fixed-dose range groups and placebo.
-The data were analyzed using the Cochran-Armitage test, excluding the placebo group, and the table includes only those adverse reactions for which there was a trend.
-
-Table 20: Percentage of Patients from a Schizophrenia Trial with Treatment-Emergent Adverse Reactions for the 3 Dose Range Groups and Placebo
-
-| Adverse Reaction | Percentage of Patients Reporting Event |  |  |  |
-| --- | --- | --- | --- | --- |
-| Placebo (N=68) | Olanzapine 5 ± 2.5 mg/day (N=65) | Olanzapine 10 ± 2.5 mg/day (N=64) | Olanzapine 15 ± 2.5 mg/day (N=69) |  |
-| Asthenia | 15 | 8 | 9 | 20 |
-| Dry mouth | 4 | 3 | 5 | 13 |
-| Nausea | 9 | 0 | 2 | 9 |
-| Somnolence | 16 | 20 | 30 | 39 |
-| Tremor | 3 | 0 | 5 | 7 |
-
-Differences among Fixed-Dose Groups Observed in Other Olanzapine Clinical Trials
-
-In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in patients with schizophrenia or schizoaffective disorder, differences among 3 dose groups were observed for the following safety outcomes: weight gain, prolactin elevation, fatigue and dizziness.
-Mean baseline to endpoint increase in weight (10 mg/day: 1.9 kg; 20 mg/day: 2.3 kg; 40 mg/day: 3 kg) was observed with significant differences between 10 vs 40 mg/day.
-Incidence of treatment-emergent prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) with significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day; fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) with significant differences between 10 vs 40 and 20 vs 40 mg/day; and dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) with significant differences between 20 vs 40 mg, was observed.
+## 6.3 Other Adverse Reactions
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Oral Olanzapine
 
@@ -290,17 +298,27 @@ Following is a list of treatment-emergent adverse reactions reported by patients
 This listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
 Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-- Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
-- Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
-- Digestive System — Infrequent: nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
-- Hemic and Lymphatic System — Infrequent: leukopenia, thrombocytopenia.
-- Metabolic and Nutritional Disorders — Infrequent: alkaline phosphatase increased, bilirubinemia, hypoproteinemia.
-- Musculoskeletal System — Rare: osteoporosis.
-- Nervous System — Infrequent: ataxia, dysarthria, libido decreased, stupor; Rare: coma.
-- Respiratory System — Infrequent: epistaxis; Rare: lung edema.
-- Skin and Appendages — Infrequent: alopecia.
-- Special Senses — Infrequent: abnormality of accommodation, dry eyes; Rare: mydriasis.
-- Urogenital System — Infrequent: amenorrhea2, breast pain, decreased menstruation, impotence2, increased menstruation2, menorrhagia2, metrorrhagia2, polyuria2, urinary frequency, urinary retention, urinary urgency, urination impaired.
+Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
+
+Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
+
+Digestive System — Infrequent: abdominal distension, nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
+
+Hemic and Lymphatic System — Infrequent: thrombocytopenia.
+
+Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased; Infrequent: bilirubinemia, hypoproteinemia.
+
+Musculoskeletal System — Rare: osteoporosis.
+
+Nervous System — Infrequent: ataxia, dysarthria, libido decreased, stupor; Rare: coma.
+
+Respiratory System — Infrequent: epistaxis; Rare: lung edema.
+
+Skin and Appendages — Infrequent: alopecia.
+
+Special Senses — Infrequent: abnormality of accommodation, dry eyes; Rare: mydriasis.
+
+Urogenital System — Infrequent: amenorrhea2, breast pain, decreased menstruation, impotence2, increased menstruation2, menorrhagia2, metrorrhagia2, polyuria2, urinary frequency, urinary retention, urinary urgency, urination impaired.
 
 1 These terms represent serious adverse events but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.
@@ -328,8 +346,10 @@ Table 21: Treatment-Emergent Adverse Reactions of ≥5% Incidence among Adolesce
 | Pain in extremity | 6 | 3 | 5 | 0 |
 | Fatigue | 3 | 3 | 14 | 6 |
 | Dry mouth | 4 | 0 | 7 | 0 |
-| a Patients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence. |  |  |  |  |
-| b Patients with the following MedDRA terms were counted in this category: abdominal pain, abdominal pain lower, abdominal pain upper. |  |  |  |  |
+
+a Patients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence.
+
+b Patients with the following MedDRA terms were counted in this category: abdominal pain, abdominal pain lower, abdominal pain upper.
 
 Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short-Term (3 to 6 weeks), Placebo-Controlled Trials
 
@@ -337,9 +357,9 @@ Adverse reactions in adolescent patients treated with oral olanzapine (doses ≥
 
 Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolescents (13 to 17 Years Old) (Combined Incidence from Short-Term, Placebo-Controlled Clinical Trials of Schizophrenia or Bipolar I Disorder [Manic or Mixed Episodes])
 
-| Adverse Reaction | Percentage of Patients Reporting Event |  |
+|  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
-| Olanzapine (N=179) | Placebo (N=89) |  |
+| Adverse Reaction | Olanzapine (N=179) | Placebo (N=89) |
 | Sedationa | 44 | 9 |
 | Weight increased | 30 | 6 |
 | Increased appetite | 24 | 6 |
@@ -359,13 +379,14 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | Sinusitis | 3 | 0 |
 | Arthralgia | 2 | 0 |
 | Musculoskeletal stiffness | 2 | 0 |
-| a Patients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence. |  |  |
-| b The terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), and hepatic enzyme were combined under liver enzymes. |  |  |
-| c Patients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection. |  |  |
 
-## 6.2 Vital Signs and Laboratory Studies
+a Patients with the following MedDRA terms were counted in this category: hypersomnia, lethargy, sedation, somnolence.
 
-Vital Sign Changes — Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials [see Warnings and Precautions (5)].
+b The terms alanine aminotransferase (ALT), aspartate aminotransferase (AST), and hepatic enzyme were combined under liver enzymes.
+
+c Patients with the following MedDRA terms were counted in this category: lower respiratory tract infection, respiratory tract infection, respiratory tract infection viral, upper respiratory tract infection, viral upper respiratory tract infection.
+
+Vital Signs and Laboratory Studies Vital Sign Changes — Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials [see Warnings and Precautions (5)].
 
 Laboratory Changes
 
@@ -376,30 +397,31 @@ None of these patients experienced jaundice or other symptoms attributable to li
 In placebo-controlled olanzapine monotherapy studies in adults, clinically significant ALT elevations (change from <3 times the upper limit of normal [ULN] at baseline to ≥3 times ULN) were observed in 5% (77/1426) of patients exposed to olanzapine compared to 1% (10/1187) of patients exposed to placebo.
 ALT elevations ≥5 times ULN were observed in 2% (29/1438) of olanzapine-treated patients, compared to 0.3% (4/1196) of placebo-treated patients.
 ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
-No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
+No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy’s Rule.
 
-Rare postmarketing reports of hepatitis have been received.
-Very rare cases of cholestatic or mixed liver injury have also been reported in the postmarketing period.
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, high GGT levels were recorded in ≥1% (88/5245) of patients.
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.15)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.13)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+
+From an analysis of the laboratory data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, elevated uric acid was recorded in ≥3% (171/4641) of patients.
 
 Olanzapine Monotherapy in Adolescents: In placebo-controlled clinical trials of adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), greater frequencies for the following treatment-emergent findings, at anytime, were observed in laboratory analytes compared to placebo: elevated ALT (≥3X ULN in patients with ALT at baseline <3X ULN), (12% vs 2%); elevated AST (28% vs 4%); low total bilirubin (22% vs 7%); elevated GGT (10% vs 1%); and elevated prolactin (47% vs 7%).
 
 In placebo-controlled olanzapine monotherapy studies in adolescents, clinically significant ALT elevations (change from <3 times ULN at baseline to ≥3 times ULN) were observed in 12% (22/192) of patients exposed to olanzapine compared to 2% (2/109) of patients exposed to placebo.
 ALT elevations ≥5 times ULN were observed in 4% (8/192) of olanzapine-treated patients, compared to 1% (1/109) of placebo-treated patients.
 ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
-No adolescent patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
+No adolescent patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy’s Rule.
 
 ECG Changes — In pooled studies of adults as well as pooled studies of adolescents, there were no significant differences between olanzapine and placebo in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc (Fridericia corrected), and PR intervals.
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
-This increase in heart rate may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.8)].
+This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.6)].
 
-## 6.3 Postmarketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
