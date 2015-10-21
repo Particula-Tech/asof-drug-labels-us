@@ -18,7 +18,7 @@ The relevance of animal findings to human pregnancy registry data is not known.
 #### Human Data
 
 Based on prospective reports from the Antiretroviral Pregnancy Registry of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 900 exposed in the first trimester), there was no difference between abacavir and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in the first trimester was 3% (95% CI: 2% to 4.4%).
+The prevalence of defects in the first trimester was 3.0% (95% CI: 2.0% to 4.4%).
 
 #### Animal Data
 
@@ -42,4 +42,9 @@ Use of abacavir is supported by pharmacokinetic trials and evidence from adequat
 ## 8.5 Geriatric Use
 
 Clinical trials of abacavir did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, caution should be exercised in the administration of abacavir in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+## 8.6 Patients with Impaired Hepatic Function
+
+A dose reduction is required for patients with mild hepatic impairment (Child-Pugh Class A) [see Dosage and Administration (2.4)].
+The safety, efficacy, and pharmacokinetic properties of abacavir have not been established in patients with moderate or severe hepatic impairment; therefore, abacavir is contraindicated in these patients [see Contraindications (4), Clinical Pharmacology (12.3)].
