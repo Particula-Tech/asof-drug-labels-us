@@ -30,14 +30,14 @@ A large degree of intersubject variability was noted.
 Three patients with more severe cirrhosis had a more substantial decrease in venlafaxine clearance (about 90%) compared to normal subjects.
 
 In a second study, venlafaxine was administered orally and intravenously in normal (n = 21) subjects, and in Child-Pugh A (n = 8) and Child-Pugh B (n = 11) subjects (mildly and moderately impaired, respectively).
-Venlafaxine oral bioavailability was increased 2-3 fold, oral elimination half-life was approximately twice as long and oral clearance was reduced by more than half, compared to normal subjects.
+Venlafaxine oral bioavailability was increased 2 to 3 fold, oral elimination half-life was approximately twice as long and oral clearance was reduced by more than half, compared to normal subjects.
 In hepatically impaired subjects, ODV oral elimination half-life was prolonged by about 40%, while oral clearance for ODV was similar to that for normal subjects.
 A large degree of intersubject variability was noted.
 
 Dosage adjustment is necessary in these hepatically impaired patients (see DOSAGE AND ADMINISTRATION).
-Renal Disease In a renal impairment study, venlafaxine elimination half-life after oral administration was prolonged by about 50% and clearance was reduced by about 24% in renally impaired patients (GFR = 10-70 mL/min), compared to normal subjects.
+Renal Disease In a renal impairment study, venlafaxine elimination half-life after oral administration was prolonged by about 50% and clearance was reduced by about 24% in renally impaired patients (GFR = 10 to 70 mL/min), compared to normal subjects.
 In dialysis patients, venlafaxine elimination half-life was prolonged by about 180% and clearance was reduced by about 57% compared to normal subjects.
-Similarly, ODV elimination half-life was prolonged by about 40% although clearance was unchanged in patients with renal impairment (GFR = 10-70 mL/min) compared to normal subjects.
+Similarly, ODV elimination half-life was prolonged by about 40% although clearance was unchanged in patients with renal impairment (GFR = 10 to 70 mL/min) compared to normal subjects.
 In dialysis patients, ODV elimination half-life was prolonged by about 142% and clearance was reduced by about 56%, compared to normal subjects.
 A large degree of intersubject variability was noted.
-Dosage adjustment is necessary in these paients (see DOSAGE AND ASMINISTRATION).
+Dosage adjustment is necessary in these patients (see DOSAGE AND ADMINISTRATION).

@@ -12,7 +12,7 @@ Call your healthcare provider right away if you have any of the following sympto
 Venlafaxine Tablets, USP may be associated with these serious side effects: 2.
 Serotonin Syndrome This condition can be life-threatening and may include: • agitation, hallucinations, coma or other changes in mental status • coordination problems or muscle twitching (overactive reflexes) • racing heartbeat, high or low blood pressure • sweating or fever • nausea, vomiting, or diarrhea • muscle rigidity 3.
 Changes in blood pressure.
-Venlafaxine tablets, USP may: • increase your blood pressure.
+Venlafaxine Tablets, USP may: • increase your blood pressure.
 Control high blood pressure before starting treatment and monitor blood pressure regularly 4.
 Enlarged pupils (mydriasis).
 5.
@@ -39,7 +39,7 @@ Stopping venlafaxine tablets, USP too quickly or changing from another antidepre
 Venlafaxine tablets, USP is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
-Talk to your healthcare provider if you do not think that your condition is getting better with venlafaxine capsules (XR) treatment.
+Talk to your healthcare provider if you do not think that your condition is getting better with venlafaxine tablets, USP treatment.
 Who should not take Venlafaxine Tablets, USP?
 Do not take venlafaxine tablets, USP if you: • are allergic to venlafaxine tablets, USP or any of the ingredients in venlafaxine tablets, USP.
 See the end of this Medication Guide for a complete list of ingredients in venlafaxine tablets, USP. • have uncontrolled narrow-angle glaucoma • take a Monoamine Oxidase Inhibitor (MAOI).
@@ -47,7 +47,7 @@ Ask your healthcare provider or pharmacist if you are not sure if you take an MA
 People who take Venlafaxine Tablets, USP close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms: • high fever • uncontrolled muscle spasms • stiff muscles • rapid changes in heart rate or blood pressure • confusion • loss of consciousness (pass out) What should I tell my healthcare provider before taking Venlafaxine Tablets, USP?
 Ask if you are not sure.
-Before starting venlafaxine tablets, USP, tell your healthcare provider if you: • Are taking certain drugs such as: • Medicines used to treat migraine headaches such as: O triptans • Medicines used to treat mood, anxiety, psychotic or thought disorders, such as: O tricyclic antidepressants O lithium O SSRIs O SNRIs O antipsychotic drugs • Medicines used to treat pain such as: O tamadol • Medicines used to thin your blood such as: O warfarin • Medicines used to treat heartburn such as: O Cimetidine • Over-the-counter medicines or supplements such as: O Aspirin or other NSAIDs O Tryptophan O St. John’s Wort • have heart problems • have diabetes • have liver problems • have kidney problems • have thyroid problems • have glaucoma • have or had seizures or convulsions • have bipolar disorder or mania • have low sodium levels in your blood • have high blood pressure • have high cholesterol • have or had bleeding problems • are pregnant or plan to become pregnant.
+Before starting venlafaxine tablets, USP, tell your healthcare provider if you: • Are taking certain drugs such as: • Medicines used to treat migraine headaches such as: O triptans • Medicines used to treat mood, anxiety, psychotic or thought disorders, such as: O tricyclic antidepressants O lithium O SSRIs O SNRIs O antipsychotic drugs • Medicines used to treat pain such as: O tramadol • Medicines used to thin your blood such as: O warfarin • Medicines used to treat heartburn such as: O Cimetidine • Over-the-counter medicines or supplements such as: O Aspirin or other NSAIDs O Tryptophan O St. John’s Wort • have heart problems • have diabetes • have liver problems • have kidney problems • have thyroid problems • have glaucoma • have or had seizures or convulsions • have bipolar disorder or mania • have low sodium levels in your blood • have high blood pressure • have high cholesterol • have or had bleeding problems • are pregnant or plan to become pregnant.
 It is not known if venlafaxine tablets, USP will harm your unborn baby.
 Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy • are breast-feeding or plan to breast-feed.
 Some venlafaxine tablets, USP may pass into your breast milk.
@@ -86,6 +86,8 @@ You may ask your healthcare provider or pharmacist for information about venlafa
 To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc. at 1-800-818-4555.
 What are the ingredients in Venlafaxine Tablets, USP?
 Active ingredient: (venlafaxine) Inactive ingredients: • Tablets: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, sodium starch glycolate, iron oxide red, iron oxide yellow, colloidal silicon dioxide, and magnesium stearate This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury NJ 08512
+Manufactured by: ALKALOIDA Chemical Company Zrt.
+4440 Tiszavasvári Kabay János u. 29.
+Hungary Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Revised: 08/2014
+Revised: 08/2015
