@@ -1,7 +1,7 @@
 Manufactured by: Mikart, Inc. Atlanta, GA 30318
 
-Manufactured for: Merz Pharmaceuticals, LLC Greensboro, NC 27410
+Manufactured for: Merz Pharmaceuticals, LLC Raleigh, NC 27615
 
-© 2013 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
+© 2015 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
 
-GLY-PI-05
+GLY-PI-06

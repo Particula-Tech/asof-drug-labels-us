@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+See FDA-approved patient labeling (Patient Information)
 
 - Advise parent/caregivers to measure CUVPOSA with an accurate measuring device.
   A household teaspoon is not an accurate measuring device.
