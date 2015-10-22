@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
 The premarketing development program for citalopram included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4,422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1,370 patient-exposure years.
-There were, in addition, over 19,000 exposures from mostly open-label, European post-marketing studies.
-The conditions and duration of treatment with citalopram varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed dose and dose titration studies, and short-term and long-term exposure.
+There were, in addition, over 19,000 exposures from mostly open-label, European postmarketing studies.
+The conditions and duration of treatment with citalopram varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed-dose and dose-titration studies, and short-term and long-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
 Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
@@ -12,7 +12,7 @@ In the tables and tabulations that follow, standard World Health Organization (W
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## Adverse Findings Observed in Short-term, Placebo-controlled Trials
+## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials
 
 ### Adverse Events Associated with Discontinuation of Treatment
 
@@ -20,7 +20,7 @@ Among 1,063 depressed patients who received citalopram at doses ranging from 10 
 The adverse events associated with discontinuation and considered drug-related (i.e., associated with discontinuation in at least 1% of citalopram-treated patients at a rate at least twice that of placebo) are shown in TABLE 2.
 It should be noted that one patient can report more than one reason for discontinuation and be counted more than once in this table.
 
-TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-term, Placebo-controlled, Depression Trials
+TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials
 
 |  | Percentage of Patients Discontinuing Due to Adverse Event |  |
 | --- | --- | --- |
@@ -39,23 +39,22 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-ter
 | Somnolence | 2% | 1% |
 | Agitation | 1% | < 1% |
 
-### Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-treated Patients
+### Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-Treated Patients
 
 Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1,063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with citalopram and for which the incidence in patients treated with citalopram was greater than the incidence in placebo-treated patients.
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse event incidence rate in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
 The only commonly observed adverse event that occurred in citalopram patients with an incidence of 5% or greater and at least twice the incidence in placebo patients was ejaculation disorder (primarily ejaculatory delay) in male patients (see TABLE 3).
 
-TABLE 3 Treatment-emergent Adverse Events: Incidence in Placebo-controlled Clinical TrialsEvents reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
+TABLE 3 Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical TrialsEvents reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
 
 |  | (Percentage of Patients Reporting Event) |  |
 | --- | --- | --- |
-| Body System/Adverse Event | Citalopram | Placebo |
-|  | (N = 1,063) | (N = 446) |
+| Body System/Adverse Event | Citalopram(N = 1,063) | Placebo(N = 446) |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
@@ -92,7 +91,7 @@ TABLE 3 Treatment-emergent Adverse Events: Incidence in Placebo-controlled Clini
 
 ### Dose Dependency of Adverse Events
 
-The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed dose study in depressed patients receiving placebo or citalopram 10 mg, 20 mg, 40 mg, and 60 mg.
+The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed-dose study in depressed patients receiving placebo or citalopram 10 mg, 20 mg, 40 mg, and 60 mg.
 Jonckheere’s trend test revealed a positive dose response (p < 0.05) for the following adverse events: fatigue, impotence, insomnia, sweating increased, somnolence, and yawning.
 
 ### Male and Female Sexual Dysfunction with SSRIs
@@ -107,7 +106,7 @@ The table below displays the incidence of sexual side effects reported by at lea
 
 | Treatment | Citalopram (425 males) | Placebo (194 males) |
 | --- | --- | --- |
-| Abnormal Ejaculation (mostly ejaculatory delay) | 6.1% (males only) | 1% (males only) |
+| Abnormal Ejaculation(mostly ejaculatory delay) | 6.1% (males only) | 1% (males only) |
 | Libido Decreased | 3.8% (males only) | < 1% (males only) |
 | Impotence | 2.8% (males only) | < 1% (males only) |
 
@@ -136,7 +135,7 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ### ECG Changes
 
-In a thorough QT study, citalopram was found to be associated with a dose dependent increase in the QTc interval (see WARNINGS: QT Prolongation and Torsade de Pointes).
+In a thorough QT study, citalopram was found to be associated with a dose-dependent increase in the QTc interval (see WARNINGS: QT Prolongation and Torsade de Pointes).
 
 Electrocardiograms from citalopram (N = 802) and placebo (N = 241) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
 In the citalopram group 1.9% of the patients had a change from baseline in QTcF > 60 msec compared to 1.2% of the patients in the placebo group.
@@ -183,8 +182,10 @@ Psychiatric Disorders: Frequent: impaired concentration, amnesia, apathy, depres
 Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis.
 Rare: catatonic reaction, melancholia.
 
-Reproductive Disorders/Female% based on female subjects only: 2,955: Frequent: amenorrhea.
+Reproductive Disorders/Female*: Frequent: amenorrhea.
 Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage.
+
+* %based on female subjects only: 2,955
 
 Respiratory System Disorders: Frequent: coughing.
 Infrequent: bronchitis, dyspnea, pneumonia.
@@ -202,7 +203,7 @@ Urinary System Disorders: Frequent: polyuria.
 Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria.
 Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain.
 
-## Other Events Observed During the Post-marketing Evaluation of Citalopram Hydrobromide
+## Other Events Observed During the Postmarketing Evaluation of Citalopram Hydrobromide
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, Torsade de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, angle-closure glaucoma, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.

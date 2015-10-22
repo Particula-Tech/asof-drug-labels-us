@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Citalopram tablets are indicated for the treatment of depression.
+Citalopram tablets, USP are indicated for the treatment of depression.
 
 The efficacy of citalopram tablets in the treatment of depression was established in 4 to 6 week, controlled trials of outpatients whose diagnosis corresponded most closely to the DSM-III and DSM-III-R category of major depressive disorder (see CLINICAL PHARMACOLOGY).
 
@@ -8,4 +8,4 @@ A major depressive episode (DSM-lV) implies a prominent and relatively persisten
 The antidepressant action of citalopram tablets in hospitalized depressed patients has not been adequately studied.
 
 The efficacy of citalopram tablets in maintaining an antidepressant response for up to 24 weeks following 6 to 8 weeks of acute treatment was demonstrated in two placebo-controlled trials (see CLINICAL PHARMACOLOGY).
-Nevertheless, the physician who elects to use citalopram tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+Nevertheless, the physician who elects to use citalopram tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
