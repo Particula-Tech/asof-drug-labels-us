@@ -86,7 +86,7 @@ To help you use the medication correctly, keep these simple instructions in mind
 - •Apply tretinoin once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying tretinoin every other night.
   First, wash with a mild soap and dry your skin gently.
-  WASH 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
+  WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won’t give faster or better results.
 - •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
@@ -114,7 +114,7 @@ These reactions can usually be minimized by following instructions carefully.
 Should the effects become excessively troublesome, consult your doctor.
 
 BY THREE TO SIX WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
-At this stage it is importantto continue using tretinoin.
+At this stage it is important to continue using tretinoin.
 
 If tretinoin is going to have a beneficial effect for you, you should notice a continued improvement in your appearance after 6 to 12 weeks of therapy.
 Don’t be discouraged if you see no immediate improvement.
@@ -126,12 +126,27 @@ IF YOU HAVE QUESTIONS
 
 All questions of a medical nature should be taken up with your doctor.
 
-Distributed by:
+Manufactured for:
 
-OMP, Inc, a division of Valeant Pharmaceuticals North America LLC
+Obagi Medical Products, Inc., a division of
 
-Long Beach, CA 90806
+Valeant Pharmaceuticals North America LLC
 
-OBAGI ® MEDICAL
+Bridgewater, NJ 08807 USA
 
-A DIVISION OF VALEANT PHARMACEUTICALS
+By:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
+
+© 2015 Obagi Medical Products, Inc
+
+www.obagi.com
+
+Rev.
+01/15
+
+9441000

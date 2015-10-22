@@ -4,21 +4,27 @@ Tretinoin Cream, 0.1%, 0.05%, and 0.025% store below 80°F.
 
 Rx Only
 
-REV.
-02/14
+Manufactured for:
 
-©2014 Obagi Medical Products, Inc,
+Obagi Medical Products, Inc., a division of
 
-a division of Valeant Pharmaceuticals North America LLC
+Valeant Pharmaceuticals North America LLC
+
+Bridgewater, NJ 08807 USA
+
+By:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
+
+© 2015 Obagi Medical Products, Inc
 
 www.obagi.com
 
-Made in USA
+Rev.
+01/15
 
-9381101
-
-10369100
-
-OBAGI ® MEDICAL
-
-A DIVISION OF VALEANT PHARMACEUTICALS
+9441000
