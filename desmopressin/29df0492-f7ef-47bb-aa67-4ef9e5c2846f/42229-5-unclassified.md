@@ -1,0 +1,6 @@
+Manufactured for: AMRING PHARMACEUTICALS INC. BERWYN, PA 19132 Origin Sweden
+
+1.1 US Patents 5,500,413; 5,763,407
+
+Rev.
+07/2015 2009054056
