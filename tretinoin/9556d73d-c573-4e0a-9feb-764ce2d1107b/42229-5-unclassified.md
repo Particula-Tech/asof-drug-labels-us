@@ -2,7 +2,15 @@ For Topical Use Only
 
 Rx Only
 
-Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-25160200 Rev.
-07/12
+By:
+
+Valeant Pharmaceuticals International Inc.
+
+Laval, Quebec H7L 4A8, Canada
+
+Made in Canada
+
+9440900 Rev.
+01/15
