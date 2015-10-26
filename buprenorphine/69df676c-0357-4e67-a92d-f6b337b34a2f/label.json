@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA207932"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Endo Pharmaceuticals",
+  "package_ndcs": [
+    "63481-161-60",
+    "63481-207-60",
+    "63481-348-60",
+    "63481-519-60",
+    "63481-685-60",
+    "63481-820-60",
+    "63481-952-60"
+  ],
+  "products": [
+    {
+      "form": "FILM",
+      "generic": "buprenorphine hydrochloride",
+      "name": "Belbuca"
+    }
+  ],
+  "setid": "69df676c-0357-4e67-a92d-f6b337b34a2f",
+  "source": "dailymed"
+}
