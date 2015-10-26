@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 4 mL Single-Use Vial Carton
+# PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
 NDC 50242-060-01
 
@@ -15,9 +15,9 @@ Rx only
 
 Genentech
 
-10136404
+10166424
 
-PRINCIPAL DISPLAY PANEL - 16 mL Single-Use Vial Carton
+# PRINCIPAL DISPLAY PANEL - 16 mL Vial Carton
 
 NDC 50242-061-01
 
@@ -34,4 +34,4 @@ Rx only
 
 Genentech
 
-10136405
+10166425

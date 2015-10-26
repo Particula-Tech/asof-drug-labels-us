@@ -54,9 +54,13 @@ After discontinuation of Avastin and chemotherapy, recovery of ovarian function 
 ## 8.4 Pediatric Use
 
 The safety, effectiveness and pharmacokinetic profile of Avastin in pediatric patients have not been established.
+In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years who have received Avastin.
+Avastin is not approved for use in patients under the age of 18 years.
 
 Antitumor activity was not observed among eight children with relapsed glioblastoma treated with bevacizumab and irinotecan.
 There is insufficient information to determine the safety and efficacy of Avastin in children with glioblastoma.
+
+Animal Data
 
 Juvenile cynomolgus monkeys with open growth plates exhibited physeal dysplasia following 4 to 26 weeks exposure at 0.4 to 20 times the recommended human dose (based on mg/kg and exposure).
 The incidence and severity of physeal dysplasia were dose-related and were partially reversible upon cessation of treatment.
