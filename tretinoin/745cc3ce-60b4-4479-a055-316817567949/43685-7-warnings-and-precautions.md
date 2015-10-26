@@ -22,7 +22,7 @@ It also is advisable to “rest” a patient’s skin until the effects of such 
 ## Carcinogenesis
 
 Long-term animal studies to determine the carcinogenic potential of tretinoin have not been performed.
-Studies in hairless albino mice suggest that tretinoin may accelerate the tumorigenic potential of weakly carcinogenic light from a solar stimulator.
+Studies in hairless albino mice suggest that tretinoin may accelerate the tumorigenic potential of weakly carcinogenic light from a solar simulator.
 In other studies, when lightly pigmented hairless mice treated with tretinoin were exposed to carcinogenic doses of UVB light, the incidence and rate of development of skin tumors was reduced.
 Due to significantly different experimental conditions, no strict comparison of these disparate data is possible.
 Although the significance of these studies to man is not clear, patients should avoid or minimize exposure to sun.

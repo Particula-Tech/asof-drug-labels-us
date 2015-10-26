@@ -86,7 +86,7 @@ To help you use the medication correctly, keep these simple instructions in mind
 - •Apply tretinoin once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying tretinoin every other night.
   First, wash with a mild soap and dry your skin gently.
-  WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
+  WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won’t give faster or better results.
 - •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
@@ -126,27 +126,21 @@ IF YOU HAVE QUESTIONS
 
 All questions of a medical nature should be taken up with your doctor.
 
-Manufactured for:
+Manufactured by: Valeant Pharmaceuticals International, Inc., Laval, Quebec H7L 48A
 
-Obagi Medical Products, Inc., a division of
-
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International Inc.
-
-Laval, Quebec H7L 4A8, Canada
+For: Obagi Medical Products, Inc., a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
 
 Made in Canada
 
-© 2015 Obagi Medical Products, Inc
+© 2014 Obagi Medical Products, Inc
 
 www.obagi.com
 
 Rev.
-01/15
+06/14
 
-9441000
+9409000
+
+OBAGI ® MEDICAL
+
+A DIVISION OF VALEANT PHARMACEUTICALS
