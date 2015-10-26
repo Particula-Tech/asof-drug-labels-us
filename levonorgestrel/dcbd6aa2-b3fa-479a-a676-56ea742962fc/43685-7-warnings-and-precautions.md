@@ -47,7 +47,8 @@ Aseptic technique during insertion of Mirena is essential in order to minimize s
 ### Pelvic Inflammatory Disease (PID)
 
 Mirena is contraindicated in the presence of known or suspected PID or in women with a history of PID unless there has been a subsequent intrauterine pregnancy [see Contraindications (4)].
-IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.In clinical trials, total combined upper genital infections were reported in 3.5% of Mirena users.
+IUDs have been associated with an increased risk of PID, most likely due to organisms being introduced into the uterus during insertion.
+In clinical trials, total combined upper genital infections were reported in 3.5% of Mirena users.
 More specifically, endometritis was reported in 2.1%, PID in 0.6%, and all other upper genital infections in ≤0.5% of women overall.
 These infections occurred more frequently within the first year.
 In a clinical trial with other IUDs1 and a clinical trial with an IUD similar to Mirena, the highest rate occurred within the first month after insertion.
@@ -134,7 +135,7 @@ Surgical intervention is not usually required.
 Women who currently have or have had breast cancer, or have a suspicion of breast cancer, should not use hormonal contraception because some breast cancers are hormone-sensitive [see Contraindications (4)].
 
 Spontaneous reports of breast cancer have been received during postmarketing experience with Mirena.
-Two observational studies have not provided evidence of an increased risk of breast cancer during the use of Mirena.
+Observational studies of the risk of breast cancer with use of a LNG-releasing IUS do not provide conclusive evidence of increased risk.
 
 ## 5.10 Clinical Considerations for Use and Removal
 
@@ -154,6 +155,6 @@ In addition, consider removing Mirena if any of the following conditions arise d
 If the threads are not visible or are significantly shortened they may have broken or retracted into the cervical canal or uterus.
 Consider the possibility that the system may have been displaced (for example, expelled or perforated the uterus) [see Warnings and Precautions (5.6, 5.7)].
 Exclude pregnancy and verify the location of Mirena, for example, by sonography, X-ray, or by gentle exploration of the cervical canal with a suitable instrument.
-IfMirenais displaced, remove it.
+If Mirena is displaced, remove it.
 A new Mirena may be inserted at that time or during the next menses if it is certain that conception has not occurred.
 If Mirena is in place with no evidence of perforation, no intervention is indicated.

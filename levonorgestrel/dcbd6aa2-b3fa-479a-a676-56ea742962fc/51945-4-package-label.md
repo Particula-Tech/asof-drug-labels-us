@@ -1,5 +1,3 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
-
 Mirena (levonorgestrel-releasing intrauterine system) Carton
 
 NDC 50419-423-01

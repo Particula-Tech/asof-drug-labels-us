@@ -271,14 +271,12 @@ For more information, go to www.mirena-us.com or call 1-888-842-2937
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+This patient information booklet was updated May 2014.
+
 Manufactured for:
 
 Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981
 
 Manufactured in Finland
 
-© 2014, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
-
-May 2014
-
-This patient information booklet was updated May 2014.
+© 2000, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
