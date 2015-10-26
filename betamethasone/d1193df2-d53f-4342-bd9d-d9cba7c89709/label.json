@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA207589"
+  ],
+  "inn": "betamethasone",
+  "labeler": "LEO Pharma Inc.",
+  "package_ndcs": [
+    "50222-302-60",
+    "50222-302-66",
+    "50222-302-91"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "calcipotriene and betamethasone dipropionate",
+      "name": "ENSTILAR"
+    }
+  ],
+  "setid": "d1193df2-d53f-4342-bd9d-d9cba7c89709",
+  "source": "dailymed"
+}
