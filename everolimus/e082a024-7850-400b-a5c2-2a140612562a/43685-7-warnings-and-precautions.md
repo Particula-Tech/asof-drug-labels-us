@@ -66,7 +66,7 @@ Generalized fluid accumulation, including peripheral edema (e.g., lymphoedema) a
 ## 5.10 Interstitial Lung Disease/Non-Infectious Pneumonitis
 
 A diagnosis of interstitial lung disease (ILD) should be considered in patients presenting with symptoms consistent with infectious pneumonia but not responding to antibiotic therapy and in whom infectious, neoplastic and other non-drug causes have been ruled-out through appropriate investigations.
-Cases of ILD, implying lung intraparenchymal inflammation (pneumonitis) and/or fibrosis of non-infectious etiology, have occurred in patients receiving rapamycins and their derivatives, including Zortress.
+Cases of ILD, implying lung intraparenchymal inflammation (pneumonitis) and/or fibrosis of non-infectious etiology, some reported with pulmonary hypertension (including pulmonary arterial hypertension [PAH]) as a secondary event, have occurred in patients receiving rapamycins and their derivatives, including Zortress.
 Most cases generally resolve on drug interruption with or without glucocorticoid therapy.
 However, fatal cases have also occurred.
 
