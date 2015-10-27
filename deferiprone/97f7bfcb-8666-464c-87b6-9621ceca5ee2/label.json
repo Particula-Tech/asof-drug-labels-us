@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208030"
+  ],
+  "inn": "deferiprone",
+  "labeler": "Apo-Pharma USA, Inc.",
+  "package_ndcs": [
+    "52609-4502-7"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "deferiprone",
+      "name": "FERRIPROX"
+    }
+  ],
+  "setid": "97f7bfcb-8666-464c-87b6-9621ceca5ee2",
+  "source": "dailymed"
+}
