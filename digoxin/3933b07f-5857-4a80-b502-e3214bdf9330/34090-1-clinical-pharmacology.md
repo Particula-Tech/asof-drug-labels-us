@@ -60,7 +60,7 @@ The metabolism of digoxin is not dependent upon the cytochrome P-450 system, and
 Excretion: Elimination of digoxin follows first-order kinetics (that is, the quantity of digoxin eliminated at any time is proportional to the total body content).
 Following intravenous administration to healthy volunteers, 50-70% of a digoxin dose is excreted unchanged in the urine.
 Renal excretion of digoxin is proportional to creatinine clearance and is largely independent of urine flow.
-In healthy volunteers with normal renal function, digoxin has a half- life of 1.5-2 days.
+In healthy volunteers with normal renal function, digoxin has a half-life of 1.5-2 days.
 The half-life in anuric patients is prolonged to 3.5-5 days.
 Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to extravascular tissues.
 
@@ -80,9 +80,3 @@ Therefore, titrate carefully in these patients based on clinical response and ba
 
 Race: The impact of race differences on digoxin pharmacokinetics has not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.
-
-Drug-drug Interactions
-
-Based on literature reports no significant changes in digoxin exposure were reported when IV digoxin was co-administered with the following drugs:
-
-clarithromycin, carvedilol, isradipine, losartan and rifampin

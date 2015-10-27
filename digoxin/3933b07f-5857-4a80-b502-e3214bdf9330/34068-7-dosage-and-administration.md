@@ -18,7 +18,7 @@ Digoxin Injection can be administered undiluted or diluted with a 4-fold or grea
 The use of less than a 4-fold volume of diluent could lead to precipitation of the digoxin.
 Immediate use of the diluted product is recommended.
 
-If tuberculin syringes are used to measure very small doses do not flush with the parenteral solution after its contents are expelled into an indwelling vascular catheter to avoid over administration of digoxin.
+If tuberculin syringes are used to measure very small doses do not flush with the parenteral solution after its contents are expelled into an indwelling vascular catheter to avoid overadministration of digoxin.
 
 Consider interruption or reduction in digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4)].
 
@@ -36,7 +36,7 @@ Recommended Digoxin Injection Loading Dose
 
 The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
 
-The recommended starting maintenance dose in adults patients with normal renal function is given in Table 2.
+The recommended starting maintenance dose in adult patients with normal renal function is given in Table 2.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
 Table 2.

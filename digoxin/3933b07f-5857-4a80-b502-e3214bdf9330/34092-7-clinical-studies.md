@@ -6,7 +6,7 @@ Two 12-week, double-blind, placebo-controlled studies enrolled 178 (RADIANCE tri
 Both trials demonstrated better preservation of exercise capacity in patients randomized to digoxin.
 Continued treatment with digoxin reduced the risk of developing worsening heart failure, as evidenced by heart failure-related hospitalizations and emergency care and the need for concomitant heart failure therapy.
 
-DIG Trial of Digoxin in Patients With Heart Failure
+DIG Trial of Digoxin in Patients with Heart Failure
 
 The Digitalis Investigation Group (DIG) main trial was a 37-week, multicenter, randomized, double-blind mortality study comparing digoxin to placebo in 6800 adult patients with heart failure and left ventricular ejection fraction less than or equal to 0.45.
 At randomization, 67% were NYHA class I or II, 71% had heart failure of ischemic etiology, 44% had been receiving digoxin, and most were receiving a concomitant ACE inhibitor (94%) and diuretics (82%).
