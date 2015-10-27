@@ -1,27 +1,29 @@
-# 14. CLINICAL STUDIES
-
-The effectiveness of donepezil hydrochloride as a treatment for Alzheimer’s disease is demonstrated by the results of randomized, double-blind, placebo-controlled clinical investigations.
+# 14 CLINICAL STUDIES
 
 ## 14.1 Mild to Moderate Alzheimer’s Disease
 
-The effectiveness of donepezil hydrochloride as a treatment for mild to moderate Alzheimer’s disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer’s disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
+The effectiveness of donepezil hydrochloride as a treatment for mild to moderate Alzheimer's disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer's disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
 The mean age of patients participating in donepezil hydrochloride trials was 73 years with a range of 50 to 94.
 Approximately 62% of patients were women and 38% were men.
 The racial distribution was white 95%, black 3% and other races 2%.
 
+The higher dose of 10 mg did not provide a statistically significantly greater clinical benefit than 5 mg.
+There is a suggestion, however, based upon order of group mean scores and dose trend analyses of data from these clinical trials, that a daily dose of 10 mg of donepezil hydrochloride might provide additional benefit for some patients.
+Accordingly, whether or not to employ a dose of 10 mg is a matter of prescriber and patient preference.
+
 Study Outcome Measures: In each study, the effectiveness of treatment with donepezil hydrochloride was evaluated using a dual outcome assessment strategy.
 
-The ability of donepezil hydrochloride to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s disease patients.
+The ability of donepezil hydrochloride to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer's Disease Assessment Scale (ADAS-cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer's disease patients.
 The ADAS-cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language and praxis.
 The ADAS-cog scoring range is from 0 to 70, with higher scores indicating greater cognitive impairment.
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
 The patients recruited as participants in each study had mean scores on the ADAS-cog of approximately 26 points, with a range from 4 to 61.
-Experience based on longitudinal studies of ambulatory patients with mild to moderate Alzheimer’s disease suggest that scores on the ADAS-cog increase (worsen) by 6 to 12 points per year.
+Experience based on longitudinal studies of ambulatory patients with mild to moderate Alzheimer's disease suggest that scores on the ADAS-cog increase (worsen) by 6 to 12 points per year.
 However, smaller changes may be seen in patients with very mild or very advanced disease since the ADAS-cog is not uniformly sensitive to change over the course of the disease.
-The annualized rate of decline in the placebo patients participating in donepezil hydrochloride tablets trials was approximately 2 to 4 points per year.
+The annualized rate of decline in the placebo patients participating in donepezil hydrochloride trials was approximately 2 to 4 points per year.
 
-The ability of donepezil hydrochloride to produce an overall clinical effect was assessed using a Clinician’s Interview-Based Impression of Change that required the use of caregiver information, the CIBIC-plus.
+The ability of donepezil hydrochloride to produce an overall clinical effect was assessed using a Clinician's Interview-Based Impression of Change that required the use of caregiver information, the CIBIC-plus.
 The CIBIC-plus is not a single instrument and is not a standardized instrument like the ADAS-cog.
 Clinical trials for investigational drugs have used a variety of CIBIC formats, each different in terms of depth and structure.
 
@@ -53,13 +55,20 @@ Time-course of the Change from Baseline in ADAS-cog Score for Patients Completin
 Figure 2 illustrates the cumulative percentages of patients from each of the three treatment groups who had attained the measure of improvement in ADAS-cog score shown on the X axis.
 Three change scores, (7-point and 4-point reductions from baseline or no change in score) have been identified for illustrative purposes, and the percent of patients in each group achieving that result is shown in the inset table.
 
-The curves demonstrate that both patients assigned to placebo and donepezil hydrochloride have a wide range of responses, but that the active treatment groups are more likely to show the greater improvements.
+The curves demonstrate that both patients assigned to placebo and donepezil hydrochloride have a wide range of responses, but that the active treatment groups are more likely to show greater improvements.
 A curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo.
+
+Figure 2.
+Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline ADAS-cog Scores.
+The Percentages of Randomized Patients who Completed the Study were: Placebo 80%, 5 mg/day 85%, and 10 mg/day 68%.
 
 Effects on the CIBIC-plus: Figure 3 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 24 weeks of treatment.
 The mean drug-placebo differences for these groups of patients were 0.35 points and 0.39 points for 5 mg/day and 10 mg/day of donepezil hydrochloride, respectively.
 These differences were statistically significant.
 There was no statistically significant difference between the two active treatments.
+
+Figure 3.
+Frequency Distribution of CIBIC-plus Scores at Week 24.
 
 Fifteen-Week Study
 
@@ -72,6 +81,9 @@ These differences were statistically significant.
 The effect size for the 10 mg/day group may appear to be slightly larger than that for 5 mg/day.
 However, the differences between active treatments were not statistically significant.
 
+Figure 4.
+Time-course of the Change from Baseline in ADAS-cog Score for Patients Completing the 15-week Study.
+
 Following 3 weeks of placebo washout, scores on the ADAS-cog for both the donepezil hydrochloride treatment groups increased, indicating that discontinuation of donepezil hydrochloride resulted in a loss of its treatment effect.
 The duration of this placebo washout period was not sufficient to characterize the rate of loss of the treatment effect, but, the 30-week study (see above) demonstrated that treatment effects associated with the use of donepezil hydrochloride abate within 6 weeks of treatment discontinuation.
 
@@ -81,28 +93,34 @@ The percentages of patients achieving those results are shown in the inset table
 
 As observed in the 30-week study, the curves demonstrate that patients assigned to either placebo or to donepezil hydrochloride have a wide range of responses, but that the donepezil hydrochloride treated patients are more likely to show greater improvements in cognitive performance.
 
+Figure 5.
+Cumulative Percentage of Patients with Specified Changes from Baseline ADAS-cog Scores.
+The Percentages of Randomized Patients Within Each Treatment Group Who Completed the Study Were: Placebo 93%, 5 mg/day 90%, and 10 mg/day 82%.
+
 Effects on the CIBIC-plus: Figure 6 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients assigned to each of the three treatment groups who completed 12 weeks of treatment.
 The differences in mean scores for donepezil hydrochloride treated patients compared to the patients on placebo at Week 12 were 0.36 and 0.38 points for the 5 mg/day and 10 mg/day treatment groups, respectively.
 These differences were statistically significant.
 
+Figure 6.
+Frequency Distribution of CIBIC-plus Scores at Week 12.
+
 In both studies, patient age, sex and race were not found to predict the clinical outcome of donepezil hydrochloride treatment.
 
-## 14.2 Moderate to Severe Alzheimer's Disease
+## 14.2 Moderate to Severe Alzheimer’s Disease
 
 The effectiveness of donepezil hydrochloride in the treatment of patients with moderate to severe Alzheimer’s Disease was established in studies employing doses of 10 mg/day and 23 mg/day.
+Results of a controlled clinical trial in moderate to severe Alzheimer’s Disease that compared donepezil hydrochloride 23 mg once daily to 10 mg once daily suggest that a 23 mg dose of donepezil hydrochloride provided additional benefit.
 
-Studies of 10 mg/day
+Swedish 6 Month Study (10 mg/day)
 
-Swedish 6 Month Study
-
-The effectiveness of donepezil hydrochloride as a treatment for severe Alzheimer’s disease is demonstrated by the results of a randomized, double-blind, placebo-controlled clinical study conducted in Sweden (6 month study) in patients with probable or possible Alzheimer’s disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 1 to 10.
-Two hundred and forty eight (248) patients with severe Alzheimer’s disease were randomized to donepezil hydrochloride or placebo.
+The effectiveness of donepezil hydrochloride as a treatment for severe Alzheimer's disease is demonstrated by the results of a randomized, double-blind, placebo-controlled clinical study conducted in Sweden (6 month study) in patients with probable or possible Alzheimer's disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 1 to 10.
+Two hundred and forty eight (248) patients with severe Alzheimer's disease were randomized to donepezil hydrochloride or placebo.
 For patients randomized to donepezil hydrochloride, treatment was initiated at 5 mg once daily for 28 days and then increased to 10 mg once daily.
 At the end of the 6 month treatment period, 90.5% of the donepezil hydrochloride treated patients were receiving the 10 mg/day dose.
 The mean age of patients was 84.9 years, with a range of 59 to 99.
 Approximately 77 % of patients were women, and 23 % were men.
 Almost all patients were Caucasian.
-Probable AD was diagnosed in the majority of the patients (83.6% of donepezil hydrochloride treated patients and 84.2% of placebo treated patients).
+Probable Alzheimer's disease was diagnosed in the majority of the patients (83.6% of donepezil hydrochloride treated patients and 84.2% of placebo treated patients).
 
 Study Outcome Measures: The effectiveness of treatment with donepezil hydrochloride was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
 This study showed that patients on donepezil hydrochloride experienced significant improvement on both measures compared to placebo.
@@ -112,21 +130,28 @@ The SIB, a multi-item instrument, has been validated for the evaluation of cogni
 The SIB evaluates selective aspects of cognitive performance, including elements of memory, language, orientation, attention, praxis, visuospatial ability, construction, and social interaction.
 The SIB scoring range is from 0 to 100, with lower scores indicating greater cognitive impairment.
 
-Daily function was assessed using the Modified Alzheimer’s Disease Cooperative Study Activities of Daily Living Inventory for Severe Alzheimer’s Disease (ADCS-ADL-severe).
-The ADCS-ADL-severe is derived from the Alzheimer’s Disease Cooperative Study Activities of Daily Living Inventory, which is a comprehensive battery of ADL questions used to measure the functional capabilities of patients.
+Daily function was assessed using the Modified Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory for Severe Alzheimer's Disease (ADCS-ADL-severe).
+The ADCS-ADL-severe is derived from the Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory, which is a comprehensive battery of ADL questions used to measure the functional capabilities of patients.
 Each ADL item is rated from the highest level of independent performance to complete loss.
-The ADCS-ADL-severe is a subset of 19 items, including ratings of the patient’s ability to eat, dress, bathe, use the telephone, get around (or travel), and perform other activities of daily living; it has been validated for the assessment of patients with moderate to severe dementia.
+The ADCS-ADL-severe is a subset of 19 items, including ratings of the patient's ability to eat, dress, bathe, use the telephone, get around (or travel), and perform other activities of daily living; it has been validated for the assessment of patients with moderate to severe dementia.
 The ADCS-ADL-severe has a scoring range of 0 to 54, with the lower scores indicating greater functional impairment.
 The investigator performs the inventory by interviewing a caregiver, in this study a nurse staff member, familiar with the functioning of the patient.
 
-Effects on the SIB:
-
-Figure 7 shows the time course for the change from baseline in SIB score for the two treatment groups over the 6 months of the study.
+Effects on the SIB: Figure 7 shows the time course for the change from baseline in SIB score for the two treatment groups over the 6 months of the study.
 At 6 months of treatment, the mean difference in the SIB change scores for donepezil hydrochloride treated patients compared to patients on placebo was 5.9 points.
 Donepezil hydrochloride treatment was statistically significantly superior to placebo.
 
+Figure 7.
+Time Course of the Change from Baseline in SIB Score for Patients Completing 6 Months of Treatment.
+
 Figure 8 illustrates the cumulative percentages of patients from each of the two treatment groups who attained the measure of improvement in SIB score shown on the X-axis.
 While patients assigned both to donepezil hydrochloride and to placebo have a wide range of responses, the curves show that the donepezil hydrochloride group is more likely to show a greater improvement in cognitive performance.
+
+Figure 8.
+Cumulative Percentage of Patients Completing 6 Months of Double-blind Treatment with Particular Changes from Baseline in SIB Scores.
+
+Figure 9.
+Time Course of the Change from Baseline in ADCS-ADL-Severe Score for Patients Completing 6 Months of Treatment.
 
 Effects on the ADCS-ADL-severe: Figure 9 illustrates the time course for the change from baseline in ADCS-ADL-severe scores for patients in the two treatment groups over the 6 months of the study.
 After 6 months of treatment, the mean difference in the ADCS-ADL-severe change scores for donepezil hydrochloride treated patients compared to patients on placebo was 1.8 points.
@@ -135,9 +160,12 @@ Donepezil hydrochloride treatment was statistically significantly superior to pl
 Figure 10 shows the cumulative percentages of patients from each treatment group with specified changes from baseline ADCS-ADL-severe scores.
 While both patients assigned to donepezil hydrochloride and placebo have a wide range of responses, the curves demonstrate that the donepezil hydrochloride group is more likely to show a smaller decline or an improvement.
 
-Japanese 24-Week Study
+Figure 10.
+Cumulative Percentage of Patients Completing 6 Months of Double-blind Treatment with Particular Changes from Baseline in ADCS-ADL-Severe Scores.
 
-In a study of 24 weeks duration conducted in Japan, 325 patients with severe Alzheimer’s disease were randomized to doses of 5 mg/day or 10 mg/day of donepezil, administered once daily, or placebo.
+Japanese 24-Week Study (10 mg/day)
+
+In a study of 24 weeks duration conducted in Japan, 325 patients with severe Alzheimer's disease were randomized to doses of 5 mg/day or 10 mg/day of donepezil, administered once daily, or placebo.
 Patients randomized to treatment with donepezil were to achieve their assigned doses by titration, beginning at 3 mg/day, and extending over a maximum of 6 weeks.
 Two hundred and forty eight (248) patients completed the study, with similar proportions of patients completing the study in each treatment group.
 The primary efficacy measures for this study were the SIB and CIBIC-plus.
@@ -155,7 +183,7 @@ The mean age of patients was 73.8 years, with a range of 47 to 90.
 Approximately 63% of patients were women, and 37% were men.
 Approximately 36% of the patients were taking memantine throughout the study.
 
-Study Outcome Measures:The effectiveness of treatment with 23 mg/day was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
+Study Outcome Measures: The effectiveness of treatment with 23 mg/day was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
 
 The ability of 23 mg/day to improve cognitive performance was assessed with the Severe Impairment Battery (SIB).
 The SIB, a multi-item instrument, has been validated for the evaluation of cognitive function in patients with moderate to severe dementia.
@@ -167,14 +195,23 @@ The CIBIC-plus used in this trial was a semi-structured instrument that examines
 It represents the assessment of a skilled clinician based upon his/her observations at an interview with the patient, in combination with information supplied by a caregiver familiar with the behavior of the patient over the interval rated.
 The CIBIC-plus is scored as a seven-point categorical rating, ranging from a score of 1, indicating “markedly improved,” to a score of 4, indicating “no change” to a score of 7, indicating “markedly worse.”
 
-Effects on the SIB:Figure 11 shows the time course for the change from baseline in SIB score for the two treatment groups over the 24 weeks of the study.
+Effects on the SIB: Figure 11 shows the time course for the change from baseline in SIB score for the two treatment groups over the 24 weeks of the study.
 At 24 weeks of treatment, the LS mean difference in the SIB change scores for 23 mg/day-treated patients compared to patients treated with 10 mg was 2.2 units (p = 0.0001).
 The dose of 23 mg/day was statistically significantly superior to the dose of 10 mg/day.
+
+Figure 11.
+Time-course of the Change from Baseline in SIB Score for Patients Completing 24 Weeks of Treatment.
 
 Figure 12 illustrates the cumulative percentages of patients from each of the two treatment groups who attained the measure of improvement in SIB score shown on the X-axis.
 While patients assigned both to 23 mg/day and to 10 mg/day have a wide range of responses, the curves show that the 23 mg-group is more likely to show a greater improvement in cognitive performance.
 When such curves are shifted to the left, this indicates a greater percentage of patients responding to treatment on the SIB.
 
-Effects on the CIBIC-plus:Figure 13 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients at the end of 24 weeks of treatment.
+Figure 12.
+Cumulative Percentage of Patients Completing 24 Weeks of Double-blind Treatment with Specified Changes from Baseline SIB Scores.
+
+Effects on the CIBIC-plus: Figure 13 is a histogram of the frequency distribution of CIBIC-plus scores attained by patients at the end of 24 weeks of treatment.
 The mean difference between the 23 mg/day and 10 mg/day treatment groups was 0.06 units.
 This difference was not statistically significant.
+
+Figure 13.
+Frequency Distribution of CIBIC-plus Scores at Week 24.

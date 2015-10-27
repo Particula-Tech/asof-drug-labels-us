@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Anesthesia
 
@@ -17,7 +17,7 @@ These effects, when they occur, appear more frequently with the 10 mg/day dose t
 Specifically, in a controlled trial that compared a dose of 23 mg/day to 10 mg/day in patients who had been treated with donepezil 10 mg/day for at least three months, the incidence of nausea in the 23 mg group was markedly greater than in the patients who continued on 10 mg/day (11.8% vs. 3.4%, respectively), and the incidence of vomiting in the 23 mg group was markedly greater than in the 10 mg group (9.2% vs. 2.5%, respectively).
 The percent of patients who discontinued treatment due to vomiting in the 23 mg group was markedly higher than in the 10 mg group (2.9% vs. 0.4%, respectively).
 
-Although in most cases, these effects have been mild and transient, sometimes lasting one to three weeks, and have resolved during continued use of donepezil hydrochloride, patients should be observed closely at the initiation of treatment and after dose increases.
+Although in most cases, these effects have been transient, sometimes lasting one to three weeks, and have resolved during continued use of donepezil hydrochloride, patients should be observed closely at the initiation of treatment and after dose increases.
 
 ## 5.4 Peptic Ulcer Disease and GI Bleeding
 
@@ -28,7 +28,7 @@ Results of a controlled clinical study with 23 mg/day showed an increase, relati
 
 ## 5.5 Weight Loss
 
-Weight loss was reported as an adverse event in 4.7% of patients assigned to donepezil hydrochloride in a dose of 23 mg/day compared to 2.5% of patients assigned to 10 mg/day.
+Weight loss was reported as an adverse reaction in 4.7% of patients assigned to donepezil hydrochloride in a dose of 23 mg/day compared to 2.5% of patients assigned to 10 mg/day.
 Compared to their baseline weights, 8.4% of patients taking 23 mg/day were found to have a weight decrease of ≥ 7% by the end of the study, while 4.9% of patients taking 10 mg/day were found to have weight loss of ≥ 7% at the end of the study.
 
 ## 5.6 Genitourinary Conditions
