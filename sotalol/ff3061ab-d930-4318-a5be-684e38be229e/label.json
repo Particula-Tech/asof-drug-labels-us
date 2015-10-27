@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022306"
+  ],
+  "inn": "sotalol",
+  "labeler": "ALTATHERA Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "69724-112-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sotalol hydrochloride",
+      "name": "Sotalol hydrochloride"
+    }
+  ],
+  "setid": "ff3061ab-d930-4318-a5be-684e38be229e",
+  "source": "dailymed"
+}
