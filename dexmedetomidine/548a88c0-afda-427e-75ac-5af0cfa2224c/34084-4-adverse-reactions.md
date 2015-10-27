@@ -174,7 +174,7 @@ Table 7: Adverse Reactions Experienced During Post-approval Use of Precedex
 | Metabolism and Nutrition Disorders | Acidosis, hyperkalemia, hypoglycemia, hypovolemia |
 | Nervous System Disorders | Convulsion, dizziness, headache, neuralgia, neuritis, speech disorder |
 | Psychiatric Disorders | Agitation, confusional state, delirium, hallucination, illusion |
-| Renal and Urinary Disorders | Oliguria |
+| Renal and Urinary Disorders | Oliguria, polyuria |
 | Respiratory, Thoracic and Mediastinal Disorders | Apnea, bronchospasm, dyspnea, hypercapnia, hypoventilation, hypoxia, pulmonary congestion, respiratory acidosis |
 | Skin and Subcutaneous Tissue Disorders | Hyperhidrosis |
 | Surgical and Medical Procedures | Light anesthesia |

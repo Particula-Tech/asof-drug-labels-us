@@ -11,6 +11,6 @@ Manufactured and Distributed by: Hospira, Inc. Lake Forest, IL 60045 USA
 
 Licensed from: Orion Corporation Espoo, Finland
 
-EN-3652
+EN-4004
 
 Hospira, Inc., Lake Forest, IL 60045 USA
