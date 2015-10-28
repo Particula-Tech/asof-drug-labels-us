@@ -43,19 +43,20 @@ In the first 6 hours approximately 60% of the drug is excreted in the urine and 
 
 Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 
-### Mechanism of Resistance
+### Resistance
 
 Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended-spectrum beta-lactamases and enzymatic hydrolysis.
 
-### Lists of Microorganisms
+### Antimicrobial Activity
 
 Cefazolin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section.
 
 - Gram-Positive Bacteria
   - Staphylococcus aureus
   - Staphylococcus epidermidis
-  - Streptococcus pyogenes and Streptococcus agalactiae
+  - Streptococcus agalactiae
   - Streptococcus pneumoniae
+  - Streptococcus pyogenes
 
 Methicillin-resistant staphylococci are uniformly resistant to cefazolin.
 
@@ -67,7 +68,7 @@ Most isolates of indole positive Proteus (Proteus vulgaris), Enterobacter spp., 
 
 ### Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
 #### Dilution Techniques
@@ -87,15 +88,15 @@ The disk diffusion interpretive criteria are provided in Table 4.
 
 | Table 4: Susceptibility Test Interpretive Criteria for CefazolinInterpretive criteria are based on 1 g every 8 hr |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm)The cefazolin disk should not be used for determining susceptibility to other cephalosporins |  |  |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
 | S | I | R | S | I | R |  |
-| Escherichia coliProteus mirabilis | ≤1 | 2 | ≥4 | - | - | - |
-| Staphylococcus aureus | ≤8 | 16 | ≥32 | ≥18 | 15-17 | ≤14 |
+| Enterobacteriaceae | ≤1 | 2 | ≥4 | - | - | - |
 
 Abbreviations: S= susceptible, I= intermediate, R= resistant
 
 NOTE: S. pyogenes and S. agalactiae that have a penicillin MIC of ≤ 0.12 mcg/mL, or disk diffusion zone diameters of ≥ 24 mm with a 10 mcg penicillin disk, may be interpreted as susceptible to cefazolin.
-Non-meningitis isolates of S. pneumoniae that have a penicillin MIC of ≤ 0.06 mcg/mL, may be interpreted as susceptible to cefazolin.
+
+NOTE: Susceptibility of staphylococci to cefazolin may be deduced from testing either cefoxitin or oxacillin.
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -111,7 +112,7 @@ For the diffusion technique using the 30 mcg disk, the criteria in Table 5 shoul
 
 | Table 5: Acceptable Quality Control Ranges for Cefazolin |  |  |
 | --- | --- | --- |
-| QC Isolate | Minimum Inhibitory Concentration mcg/mL | Disk Diffusion Zone Diameters (mm) |
+| Quality Control Strain | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
 | E. coli ATCC® 25922 | 1.0-4.0 | 21-27 |
 | S. aureus ATCC® 29213 | 0.25−1.0 | - |
 | S. aureus ATCC® 25923 | - | 29-35 |

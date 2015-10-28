@@ -6,7 +6,7 @@ Cefazolin for Injection USP and Dextrose Injection USP
 
 REF 3103-11 NDC 0264-3103-11
 
-DUPLEX® DRUG DELIVERY SYSTEM
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -40,15 +40,17 @@ Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
 
-The DUPLEX Container is not manufactured with Latex, PVC or DEHP.
+Not made with natural rubber latex, PVC or DEHP.
 
 B. Braun Medical Inc.
 
+Bethlehem, PA 18018-3524
+
 Rx only
 
-Made in USA
+Produced in USA with API from Italy.
 
-LD-201-4 Y37-002-419
+LD-201-5 Y37-002-506
 
 PEEL HERE
 
@@ -66,7 +68,7 @@ Cefazolin for Injection USP and Dextrose Injection USP
 
 REF 3105-11 NDC 0264-3105-11
 
-DUPLEX® DRUG DELIVERY SYSTEM
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -100,15 +102,17 @@ Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
 
-The DUPLEX Container is not manufactured with Latex, PVC or DEHP.
+Not made with natural rubber latex, PVC or DEHP.
 
 B. Braun Medical Inc.
 
+Bethlehem, PA 18018-3524
+
 Rx only
 
-Made in USA
+Produced in USA with API from Italy.
 
-LD-200-2 Y37-002-406
+LD-200-3 Y37-002-507
 
 PEEL HERE
 

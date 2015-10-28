@@ -19,8 +19,11 @@ Caution should be exercised when Cefazolin for Injection USP and Dextrose Inject
 
 ## 8.4 Pediatric Use
 
-Cefazolin for Injection USP and Dextrose Injection USP is designed to deliver a 1 g or 2 g dose of cefazolin.
-To prevent unintentional overdose, Cefazolin for Injection USP and Dextrose Injection USP should not be used in pediatric patients who require less than the full adult dose of cefazolin.
+The 2 g Cefazolin for Injection USP and Dextrose Injection USP is not recommended for use in pediatric patients.
+
+To avoid unintentional overdose, 1 gram Cefazolin for Injection USP and Dextrose Injection USP should only be used in pediatric patients who require the entire contents of the 1 gram dose and not any fraction of it [see Dosage and Administration (2.3)].
+
+There are no dosing recommendations for pediatric patients for perioperative prophylaxis or for pediatric patients with renal impairment.
 
 ## 8.5 Geriatric Use
 
@@ -33,4 +36,4 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Patients with Renal Impairment
 
-When Cefazolin for Injection USP and Dextrose Injection USP is administered to patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min.), lower daily dosage is required [see Dosage and Administration (2.3) andWarnings and Precautions (5.2)].
+When Cefazolin for Injection USP and Dextrose Injection USP is administered to patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min.), lower daily dosage is required [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].

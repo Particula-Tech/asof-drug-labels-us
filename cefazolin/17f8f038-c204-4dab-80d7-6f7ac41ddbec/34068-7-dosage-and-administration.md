@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Population
+## 2.1 Dosage for Treatment of Indicated Infections in Adults
 
 Cefazolin for Injection USP and Dextrose Injection USP in the DUPLEX® Container should be used only in patients who require the entire 1 or 2 gram dose and not any fraction thereof.
 The recommended adult dosages are outlined in Table 1.
@@ -15,7 +15,7 @@ Cefazolin for Injection USP and Dextrose Injection USP should be administered in
 | Pneumococcal pneumonia | 500 mg | every 12 hours |
 | Severe, life-threatening infections (e.g., endocarditis, septicemia)In rare instances, doses of up to 12 grams of cefazolin per day have been used. | 1 gram to 1.5 grams | every 6 hours |
 
-## 2.2 Perioperative Prophylactic Use
+## 2.2 Dosage for Perioperative Prophylactic Use in Adults
 
 To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are:
 
@@ -28,7 +28,20 @@ It is important that (i) the preoperative dose be given just prior (1/2 hour to 
 The prophylactic administration of cefazolin should usually be discontinued within a 24-hour period after the surgical procedure.
 In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin may be continued for 3 to 5 days following the completion of surgery.
 
-## 2.3 Patients with Renal Impairment
+## 2.3 Dosage in Pediatric Patients
+
+The 2 grams dose of Cefazolin for Injection USP and Dextrose Injection USP is not recommended for use in pediatric patients.
+
+Only administer 1 gram Cefazolin for Injection USP and Dextrose Injection USP to pediatric patients where the individual dose is the entire contents of the 1g DUPLEX® container and not any fraction of it.
+
+Recommended doses for pediatric patients are as follows:
+
+- For most mild to moderately severe infections: a total daily dosage of 25 to 50 mg per kg of body weight, divided into 3 or 4 equal doses.
+- For severe infections, the total daily dosage may be increased to 100 mg per kg of body weight.
+
+There are no dosage recommendations for pediatric patients for perioperative prophylaxis or for pediatric patients with renal impairment.
+
+## 2.4 Dosage in Adult Patients with Renal Impairment
 
 Cefazolin may be used in patients with renal impairment with the dosage adjustments outlined in Table 2.
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
@@ -41,7 +54,7 @@ All reduced dosage recommendations apply after an initial loading dose appropria
 | 11 to 34 mL/min. | 1/2 usual dose | every 12 hours |
 | 10 mL/min. or less | 1/2 usual dose | every 18 to 24 hours |
 
-## 2.4 Preparation for Use of Cefazolin for Injection USP and Dextrose Injection USP in DUPLEX® Container
+## 2.5 Preparation for Use of Cefazolin for Injection USP and Dextrose Injection USP in DUPLEX® Container
 
 This reconstituted solution is for intravenous use only.
 
@@ -52,7 +65,7 @@ If administration is controlled by a pumping device, care must be taken to disco
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Use only if solution is clear and container and seals are intact.
 
-DUPLEX® Drug Delivery System Storage
+DUPLEX® Container Storage
 
 - To avoid inadvertent activation, the DUPLEX® Container should remain in the folded position until activation is intended.
 

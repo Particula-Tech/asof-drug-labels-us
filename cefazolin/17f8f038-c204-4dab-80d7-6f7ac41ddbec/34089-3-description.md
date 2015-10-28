@@ -23,7 +23,9 @@ Dextrose hydrous USP has been added to the diluent to adjust osmolality (approxi
 
 After removing the peelable foil strip, activating the seals, and thoroughly mixing, the reconstituted drug product is intended for single intravenous use.
 
-The DUPLEX® Container is not manufactured with Latex, PVC or DEHP.
+Reconstituted solutions of Cefazolin for Injection USP and Dextrose Injection USP range in color from pale yellow to amber.
+
+Not made with natural rubber latex, PVC or DEHP.
 
 The DUPLEX® dual chamber container is made from a specially formulated material.
 The product (diluent and drug) contact layer is a mixture of thermoplastic rubber and a polypropylene ethylene copolymer that contains no plasticizers.
