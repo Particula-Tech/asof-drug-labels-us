@@ -127,7 +127,6 @@ Do not take Paroxetine Hydrochloride Controlled-Release Tablets if you:
 - ●rapid changes in heart rate or blood pressure
 - ●confusion
 - ●loss of consciousness (pass out)
-
 - •take MELLARIL® (thioridazine).
   Do not take MELLARIL® together with Paroxetine Hydrochloride Controlled-Release Tablets because this can cause serious heart rhythm problems or sudden death.
 - •take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.
@@ -161,7 +160,6 @@ Before starting Paroxetine Hydrochloride Controlled-Release Tablets, tell your h
 - ●pimozide
 - ●procyclidine
 - ●tamoxifen
-
 - •have liver problems
 - •have kidney problems
 - •have heart problems
