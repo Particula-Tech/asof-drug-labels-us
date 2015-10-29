@@ -252,8 +252,7 @@ In some cases, symptoms resolved with topical steroids.
 Hypersensitivity Reactions
 
 There have been rare reports of allergic reaction with intravenous zoledronic acid including angioedema and bronchoconstriction.
-Very rare cases of anaphylactic reaction/shock have also been reported.
-
+Very rare cases of anaphylactic reaction/shock have also been reported.Cases of Stevens-Johnson syndrome and toxic epidermal necrolysis have also been reported.
 Additional adverse reactions reported in postmarketing use include:
 
 CNS: tastedisturbance, hyperesthesia,tremor; Special Senses: blurred vision; uveitis; Gastrointestinal: drymouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease(ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise)persisting for greater than 30 days;Laboratory Abnormalities: hyperkalemia, hypernatremia, hypocalcemia (cardiac arrhythmias and neurologic adverse events including seizures, tetany, and numbness have been reported due to severe hypocalcemia).

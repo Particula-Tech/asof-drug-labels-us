@@ -13,4 +13,4 @@
   Before being given zoledronic acid, patients should tell their doctor if they are aspirin-sensitive.
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Gland Pharma Limited.
-Manufactured by: Gland Pharma Limited Hyderabad-500 043, INDIA Revised: January 2015
+Manufactured by: Gland Pharma Limited Hyderabad-500 043, INDIA Revised: July 2015
