@@ -1,7 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Benazepril hydrochloride tablets are contraindicated in patients who are hypersensitive to benazepril or to any other ACE inhibitor.
+Benazepril hydrochloride tablets are contraindicated in patients:
 
-Benazepril hydrochloride tablets are also contraindicated in patients with a history of angioedema with or without previous ACE inhibitor treatment.
+- who are hypersensitive to benazapril or to any other ACE inhibitor
 
-Do not co-administer aliskiren with angiotensin receptor blockers, ACE inhibitors, including benazepril hydrochloride in patients with diabetes.
+- with a history of angioedema with or without previous ACE inhibitor treatment
+
+Do not co-administer aliskiren with benazepril hydrochloride tablets in patients with diabetes [see Drug Interactions (7.4)].

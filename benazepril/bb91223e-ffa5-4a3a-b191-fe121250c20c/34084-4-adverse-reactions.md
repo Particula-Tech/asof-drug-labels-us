@@ -1,44 +1,29 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Benazepril hydrochloride tablets have been evaluated for safety in over 6000 patients with hypertension; over 700 of these patients were treated for at least one year.
-The overall incidence of reported adverse events was comparable in benazepril hydrochloride tablets and placebo patients.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+Benazepril hydrochloride has been evaluated for safety in over 6000 patients with hypertension; over 700 of these patients were treated for at least one year.
+The overall incidence of reported adverse events was similar in benazepril hydrochloride and placebo patients.
 
 The reported side effects were generally mild and transient, and there was no relation between side effects and age, duration of therapy, or total dosage within the range of 2 to 80 mg.
-Discontinuation of therapy because of a side effect was required in approximately 5% of U.S. patients treated with benazepril hydrochloride tablets and in 3% of patients treated with placebo.
 
-The most common reasons for discontinuation were headache (0.6%) and cough (0.5%) (see PRECAUTIONS, Cough).
+Discontinuation of therapy because of a side effect was required in approximately 5% of U.S. patients treated with benazepril hydrochloride and in 3% of patients treated with placebo.
+The most common reasons for discontinuation were headache (0.6%) and cough (0.5%)
 
-The side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with benazepril hydrochloride tablets are shown below.
+Adverse reactions seen in at least 1% greater frequency in patients treated with benazepril hydrochloride than placebo were headache (6% vs 4%), dizziness (4% vs 2%), somnolence (2% vs 0%) and postural dizziness (2% vs 0%).
 
-PATIENTS IN U.S. PLACEBO-CONTROLLED STUDIES
-
-|  | BENAZEPRIL HYDROCHLORIDE TABLETS (N=964) | PLACEBO (N=496) |  |  |
-| --- | --- | --- | --- | --- |
-|  | N | % | N | % |
-| Headache | 60 | 6.2 | 21 | 4.2 |
-| Dizziness | 35 | 3.6 | 12 | 2.4 |
-| Somnolence | 15 | 1.6 | 2 | 0.4 |
-| Postural Dizziness | 14 | 1.5 | 1 | 0.2 |
-
-Other adverse experiences reported in controlled clinical trials (in less than 1% of benazepril patients or with less than 1% difference in incidence between benazepril or placebo treatment), and rarer events seen in post-marketing experience, include the following (in some, a causal relationship to drug use is uncertain):
+Adverse reactions reported in controlled clinical trials (less than 1% more on benazepril than on placebo), and rarer events seen in post-marketing experience, include the following (in some, a causal relationship to drug use is uncertain):
 
 Dermatologic: Stevens-Johnson syndrome, pemphigus, apparent hypersensitivity reactions (manifested by dermatitis, pruritus, or rash), photosensitivity, and flushing.
 
-Gastrointestinal: Nausea, pancreatitis, constipation, gastritis, vomiting, and melena.
+Gastrointestial: Nausea, pancreatitis, constipation, gastritis, vomiting, and melena.
 
 Hematologic: Thrombocytopenia and hemolytic anemia.
 
-Neurologic and Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
+Neurologic/Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia
 
 Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.
 
-Another potentially important adverse experience, eosinophilic pneumonitis, has been attributed to other ACE inhibitors.
+Laboratory Abnormalities:
 
-Pediatric Patients: The adverse experience profile for pediatric patients appears to be similar to that seen in adult patients.
-
-## Clinical Laboratory Test Findings
-
-Hemoglobin: Decreases in hemoglobin (a low value and a decrease of 5 g/dL) were rare, occurring in only 1 of 2,014 patients receiving benazepril hydrochloride tablets alone and in 1 of 1,357 patients receiving benazepril hydrochloride tablets plus a diuretic.
-No U.S. patients discontinued treatment because of decreases in hemoglobin.
-
-Other (causal relationships unknown): Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes (see WARNINGS) have been reported, as have scattered incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
+Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Adverse Reactions (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria
