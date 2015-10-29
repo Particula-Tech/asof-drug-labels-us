@@ -5,7 +5,7 @@
 ### Risk Summary
 
 Based on limited human data, SPRYCEL can cause fetal harm when administered to a pregnant woman.
-Adverse pharmacologic effects including hydrops fetalis, fetal leukopenia and fetal thrombocytopenia have been reported with maternal exposure to SPRYCEL.
+Adverse pharmacologic effects including hydrops fetalis, fetal leukopenia, and fetal thrombocytopenia have been reported with maternal exposure to SPRYCEL.
 Animal reproduction studies in rats have demonstrated extensive mortality during organogenesis, the fetal period, and in neonates.
 Skeletal malformations were observed in a limited number of surviving rat and rabbit conceptuses.
 These findings occurred at dasatinib plasma concentrations below those in humans receiving therapeutic doses of dasatinib [see Data].
@@ -19,7 +19,7 @@ The estimated background risk in the U.S. general population of major birth defe
 
 Transplacental transfer of dasatinib has been reported.
 Dasatinib has been measured in fetal plasma and amniotic fluid at concentrations comparable to those in maternal plasma.
-Hydrops fetalis, fetal leukopenia and fetal thrombocytopenia have been reported with maternal exposure to dasatinib.
+Hydrops fetalis, fetal leukopenia, and fetal thrombocytopenia have been reported with maternal exposure to dasatinib.
 These adverse pharmacologic effects on the fetus are similar to adverse reactions observed in adult patients and may result in fetal harm or neonatal death [see Warnings and Precautions (5.1, 5.3)].
 
 ### Data
@@ -30,10 +30,10 @@ Based on human experience, dasatinib is suspected to cause congenital malformati
 
 #### Animal Data
 
-In nonclinical studies, at plasma concentrations below those observed in humans receiving therapeutic doses of dasatinib, embryo-fetal toxicities were observed in rats and rabbits.
+In nonclinical studies at plasma concentrations below those observed in humans receiving therapeutic doses of dasatinib, embryo-fetal toxicities were observed in rats and rabbits.
 Fetal death was observed in rats.
 In both rats and rabbits, the lowest doses of dasatinib tested (rat: 2.5 mg/kg/day [15 mg/m2/day] and rabbit: 0.5 mg/kg/day [6 mg/m2/day]) resulted in embryo-fetal toxicities.
-These doses produced maternal AUCs of 105 ng•hr/mL and 44 ng•hr/mL (0.1-fold the human AUC) in rats and rabbits, respectively.
+These doses produced maternal AUCs of 105 ng•h/mL and 44 ng•h/mL (0.1-fold the human AUC) in rats and rabbits, respectively.
 Embryo-fetal toxicities included skeletal malformations at multiple sites (scapula, humerus, femur, radius, ribs, and clavicle), reduced ossification (sternum; thoracic, lumbar, and sacral vertebrae; forepaw phalanges; pelvis; and hyoid body), edema, and microhepatia.
 In a pre- and postnatal development study in rats, administration of dasatinib from gestation day (GD) 16 through lactation day (LD) 20, GD 21 through LD 20, or LD 4 through LD 20 resulted in extensive pup mortality at maternal exposures that were below the exposures in patients treated with dasatinib at the recommended labeling dose.
 
@@ -41,7 +41,7 @@ In a pre- and postnatal development study in rats, administration of dasatinib f
 
 ### Risk Summary
 
-No data are available regarding the presence of dasatinib in human milk, the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+No data are available regarding the presence of dasatinib in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
 However, dasatinib is present in the milk of lactating rats.
 Because of the potential for serious adverse reactions in nursing infants from SPRYCEL, breastfeeding is not recommended during treatment with SPRYCEL and for 2 weeks after the final dose.
 
@@ -52,7 +52,7 @@ Because of the potential for serious adverse reactions in nursing infants from S
 #### Females
 
 SPRYCEL can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to avoid pregnancy, which may include the use of effective contraceptive methods during treatment with SPRYCEL and for 30 days after the final dose.
+Advise females of reproductive potential to avoid pregnancy, which may include the use of effective contraceptive methods, during treatment with SPRYCEL and for 30 days after the final dose.
 
 #### Infertility
 
@@ -66,7 +66,7 @@ The safety and efficacy of SPRYCEL in patients less than 18 years of age have no
 
 No differences in confirmed Complete Cytogenetic Response (cCCyR) and MMR were observed between older and younger patients.
 Of the 2712 patients in clinical studies of SPRYCEL, 617 (23%) were 65 years of age and older, and 123 (5%) were 75 years of age and older.
-While the safety profile of SPRYCEL in the geriatric population was similar to that in the younger population, patients aged 65 years and older are more likely to experience the commonly reported adverse reactions of fatigue, pleural effusion, diarrhea, dyspnea, cough, lower gastrointestinal hemorrhage, and appetite disturbance, and more likely to experience the less frequently reported adverse reactions of abdominal distention, dizziness, pericardial effusion, congestive heart failure, hypertension, pulmonary edema and weight decrease, and should be monitored closely.
+While the safety profile of SPRYCEL in the geriatric population was similar to that in the younger population, patients aged 65 years and older are more likely to experience the commonly reported adverse reactions of fatigue, pleural effusion, diarrhea, dyspnea, cough, lower gastrointestinal hemorrhage, and appetite disturbance, and more likely to experience the less frequently reported adverse reactions of abdominal distention, dizziness, pericardial effusion, congestive heart failure, hypertension, pulmonary edema, and weight decrease, and should be monitored closely.
 
 ## 8.6 Hepatic Impairment
 

@@ -11,7 +11,7 @@ Confirmed CCyR was defined as a CCyR noted on two consecutive occasions (at leas
 Median age was 46 years in the SPRYCEL group and 49 years in the imatinib groups, with 10% and 11% of patients ≥65 years of age, respectively.
 There were slightly more male than female patients in both groups (59% vs 41%).
 Fifty-three percent of all patients were Caucasian and 39% were Asian.
-At baseline, the distribution of Hasford Scores was similar in the SPRYCEL and imatinib treatment groups (low risk: 33% and 34%; intermediate risk: 48% and 47%; high risk: 19% and 19%, respectively).
+At baseline, the distribution of Hasford scores was similar in the SPRYCEL and imatinib treatment groups (low risk: 33% and 34%; intermediate risk: 48% and 47%; high risk: 19% and 19%, respectively).
 With a minimum of 12 months follow-up, 85% of patients randomized to SPRYCEL and 81% of patients randomized to imatinib were still on study.
 
 With a minimum of 24 months follow-up, 77% of patients randomized to SPRYCEL and 75% of patients randomized to imatinib were still on study and with a minimum of 60 months follow-up, 61% and 62% of patients, respectively, were still on treatment at the time of study closure.
@@ -29,7 +29,7 @@ Table 9: Efficacy Results in a Randomized Newly Diagnosed Chronic Phase CML Tria
 | 12 months (95% CI) | 52.1% (45.9–58.3) | 33.8% (28.1–39.9) |
 | P-value | <0.0001 |  |
 | 60 months (95% CI) | 76.4% (70.8–81.5) | 64.2% (58.1–70.1) |
-| a Confirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. b Major molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale. These are cumulative rates representing minimum follow up for the time frame specified. * Adjusted for Hasford Score and indicated statistical significance at a pre-defined nominal level of significance. CI = confidence interval. |  |  |
+| a Confirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. b Major molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale. These are cumulative rates representing minimum follow up for the time frame specified. * Adjusted for Hasford score and indicated statistical significance at a pre-defined nominal level of significance. CI = confidence interval. |  |  |
 
 The confirmed CCyR within 24, 36, and 60 months for SPRYCEL versus imatinib arms were 80% versus 74%, 83% versus 77%, and 83% versus 79%, respectively.
 The MMR at 24 and 36 months for SPRYCEL versus imatinib arms were 65% versus 50% and 69% versus 56%, respectively.
@@ -42,21 +42,21 @@ At 60 months, 8 patients (3%) on the dasatinib arm progressed to either accelera
 The estimated 60-month survival rates for SPRYCEL- and imatinib-treated patients were 90.9% (CI: 86.6%–93.8%) and 89.6% (CI: 85.2%–92.8%), respectively.
 Based on data 5 years after the last patient was enrolled in the trial, 83% and 77% of patients were known to be alive in the dasatinib and imatinib treatment groups, respectively, 10% were known to have died in both treatment groups, and 7% and 13% had unknown survival status in the dasatinib and imatinib treatment groups, respectively.
 
-At 60 months follow-up, in the SPRYCEL arm, the rate of MMR at any time in each risk group determined by Hasford score was 90% (low risk), 71% (intermediate risk) and 67% (high risk).
-In the imatinib arm, the rate of MMR at any time in each risk group determined by Hasford score was 69% (low risk), 65% (intermediate risk), 54% (high risk).
+At 60 months follow-up in the SPRYCEL arm, the rate of MMR at any time in each risk group determined by Hasford score was 90% (low risk), 71% (intermediate risk) and 67% (high risk).
+In the imatinib arm, the rate of MMR at any time in each risk group determined by Hasford score was 69% (low risk), 65% (intermediate risk), and 54% (high risk).
 
 BCR-ABL sequencing was performed on blood samples from patients in the newly diagnosed trial who discontinued dasatinib or imatinib therapy.
 Among dasatinib-treated patients the mutations detected were T315I, F317I/L, and V299L.
 
 Dasatinib does not appear to be active against the T315I mutation, based on in vitro data.
 
-## 14.2 Imatinib Resistant or Intolerant CML or Ph+ ALL
+## 14.2 Imatinib-Resistant or -Intolerant CML or Ph+ ALL
 
 The efficacy and safety of SPRYCEL were investigated in adult patients with CML or Ph+ ALL whose disease was resistant to or who were intolerant to imatinib: 1158 patients had chronic phase CML, 858 patients had accelerated phase, myeloid blast phase, or lymphoid blast phase CML, and 130 patients had Ph+ ALL.
 In a clinical trial in chronic phase CML, resistance to imatinib was defined as failure to achieve a complete hematologic response (CHR; after 3 months), major cytogenetic response (MCyR; after 6 months), or complete cytogenetic response (CCyR; after 12 months); or loss of a previous molecular response (with concurrent ≥10% increase in Ph+ metaphases), cytogenetic response, or hematologic response.
 Imatinib intolerance was defined as inability to tolerate 400 mg or more of imatinib per day or discontinuation of imatinib because of toxicity.
 
-Results described below are based on a minimum of 2 years follow up after the start of SPRYCEL therapy in patients with a median time from initial diagnosis of approximately 5 years.
+Results described below are based on a minimum of 2 years follow-up after the start of SPRYCEL therapy in patients with a median time from initial diagnosis of approximately 5 years.
 Across all studies, 48% of patients were women, 81% were white, 15% were black or Asian, 25% were 65 years of age or older, and 5% were 75 years of age or older.
 Most patients had long disease histories with extensive prior treatment, including imatinib, cytotoxic chemotherapy, interferon, and stem cell transplant.
 Overall, 80% of patients had imatinib-resistant disease and 20% of patients were intolerant to imatinib.
@@ -70,14 +70,14 @@ The primary efficacy endpoint in accelerated phase, myeloid blast phase, lymphoi
 Dose-Optimization Trial: A randomized, open-label trial was conducted in patients with chronic phase CML to evaluate the efficacy and safety of SPRYCEL administered once daily compared with SPRYCEL administered twice daily.
 Patients with significant cardiac diseases, including myocardial infarction within 6 months, congestive heart failure within 3 months, significant arrhythmias, or QTc prolongation were excluded from the trial.
 The primary efficacy endpoint was MCyR in patients with imatinib-resistant CML.
-A total of 670 patients, of whom 497 had imatinib-resistant disease, were randomized to the SPRYCEL 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily group.
+A total of 670 patients, of whom 497 had imatinib-resistant disease, were randomized to the SPRYCEL 100 mg once-daily, 140 mg once-daily, 50 mg twice-daily, or 70 mg twice-daily group.
 Median duration of treatment was 22 months.
 
-Efficacy was achieved across all SPRYCEL treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% CI [−6.8%–10.6%]); however, the 100-mg once-daily regimen demonstrated improved safety and tolerability.
+Efficacy was achieved across all SPRYCEL treatment groups with the once-daily schedule demonstrating comparable efficacy (non-inferiority) to the twice-daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% CI [−6.8%–10.6%]); however, the 100-mg once-daily regimen demonstrated improved safety and tolerability.
 
-Efficacy results are presented in Tables 10, 11, and 12 for patients with chronic phase CML who received the recommended starting dose of 100 mg once daily.
+Efficacy results are presented in Tables 10 and 11 for patients with chronic phase CML who received the recommended starting dose of 100 mg once daily.
 
-Table 10: Efficacy of SPRYCEL in Patients with Imatinib Resistant or Intolerant Chronic Phase CML (minimum of 24 months follow-up)a
+Table 10: Efficacy of SPRYCEL in Patients with Imatinib-Resistant or -Intolerant Chronic Phase CML (minimum of 24 months follow-up)
 
 | All Patients | 100 mg Once Daily (n=167) |
 | --- | --- |
@@ -88,7 +88,7 @@ Table 10: Efficacy of SPRYCEL in Patients with Imatinib Resistant or Intolerant 
 | CCyR | 50% (42–58) |
 | a CHR (response confirmed after 4 weeks): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. b MCyR combines both complete (0% Ph+ metaphases) and partial (>0%–35%) responses. |  |
 
-Table 11: Long-Term MMR of SPRYCEL in the Dose Optimization Trial: Patients with Imatinib Resistant or Intolerant Chronic Phase CMLa
+Table 11: Long-Term MMR of SPRYCEL in the Dose Optimization Trial: Patients with Imatinib-Resistant or -Intolerant Chronic Phase CMLa
 
 |  | 2 Years | 5 Years | 7 Years |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -101,19 +101,19 @@ Table 11: Long-Term MMR of SPRYCEL in the Dose Optimization Trial: Patients with
 
 Based on data 7 years after the last patient was enrolled in the trial, 44% were known to be alive, 31% were known to have died, and 25% had an unknown survival status.
 
-By 7 years, transformation to either accelerated or blast phase occurred in nine patients on treatment in the 100 mg once daily treatment group.
+By 7 years, transformation to either accelerated or blast phase occurred in nine patients on treatment in the 100 mg once-daily treatment group.
 
 ### Advanced Phase CML and Ph+ ALL
 
 Dose-Optimization Trial: One randomized open-label trial was conducted in patients with advanced phase CML (accelerated phase CML, myeloid blast phase CML, or lymphoid blast phase CML) to evaluate the efficacy and safety of SPRYCEL administered once daily compared with SPRYCEL administered twice daily.
 The primary efficacy endpoint was MaHR.
-A total of 611 patients were randomized to either the SPRYCEL 140 mg once daily or 70 mg twice daily group.
+A total of 611 patients were randomized to either the SPRYCEL 140 mg once-daily or 70 mg twice-daily group.
 Median duration of treatment was approximately 6 months for both treatment groups.
-The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint; however, the 140-mg once daily regimen demonstrated improved safety and tolerability.
+The once-daily schedule demonstrated comparable efficacy (non-inferiority) to the twice-daily schedule on the primary efficacy endpoint; however, the 140-mg once-daily regimen demonstrated improved safety and tolerability.
 
-Response rates for patients in the 140 mg once daily group are presented in Table 12.
+Response rates for patients in the 140 mg once-daily group are presented in Table 12.
 
-Table 12: Efficacy of SPRYCEL in Imatinib Resistant or Intolerant Advanced Phase CML and Ph+ ALL (2 Year Results)
+Table 12: Efficacy of SPRYCEL in Imatinib-Resistant or -Intolerant Advanced Phase CML and Ph+ ALL (2-Year Results)
 
 |  | Accelerated (n=158) | Myeloid Blast (n=75) | Lymphoid Blast (n=33) | Ph+ ALL (n=40) |
 | --- | --- | --- | --- | --- |
@@ -130,9 +130,9 @@ Table 12: Efficacy of SPRYCEL in Imatinib Resistant or Intolerant Advanced Phase
 | (95% CI) | (25–40) | (10–28) | (23–58) | (34–66) |
 | a Hematologic response criteria (all responses confirmed after 4 weeks): Major hematologic response: (MaHR) = complete hematologic response (CHR) + no evidence of leukemia (NEL). CHR: WBC ≤ institutional ULN, ANC ≥1000/mm3, platelets ≥100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤5%, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. NEL: same criteria as for CHR but ANC ≥500/mm3 and <1000/mm3, or platelets ≥20,000/mm3 and ≤100,000/mm3. b MCyR combines both complete (0% Ph+ metaphases) and partial (>0%–35%) responses. CI = confidence interval ULN = upper limit of normal range. |  |  |  |  |
 
-In the SPRYCEL 140 mg once daily group, the median time to MaHR was 1.9 months (min-max:0.7-14.5) for patients with accelerated phase CML, 1.9 months (min-max:0.9-6.2) for patients with myeloid blast phase CML, and 1.8 months (min-max:0.9-2.8) for patients with lymphoid blast phase CML.
+In the SPRYCEL 140 mg once-daily group, the median time to MaHR was 1.9 months (min-max: 0.7-14.5) for patients with accelerated phase CML, 1.9 months (min-max: 0.9-6.2) for patients with myeloid blast phase CML, and 1.8 months (min-max: 0.9-2.8) for patients with lymphoid blast phase CML.
 
-In patients with myeloid blast phase CML, the median duration of MaHR was 8.1 months (min-max:2.7-21.1) and 9.0 (min-max:1.8-23.1) months for the 140 mg once daily group and the 70 mg twice daily group, respectively.
-In patients with lymphoid blast phase CML, the median duration of MaHR was 4.7 months (min-max:3.0-9.0) and 7.9 months (min-max:1.6-22.1) for the 140 mg once daily group and the 70 mg twice daily group, respectively.
-In patients with Ph+ ALL who were treated with SPRYCEL 140 mg once daily, the median duration of MaHR was 4.6 months (min-max:1.4-10.2).
-The medians of progression-free survival for patients with Ph+ ALL treated with SPRYCEL 140 mg once daily and 70 mg twice daily were 4.0 months (min-max:0.4-11.1) and 3.1 months (min-max:0.3-20.8), respectively.
+In patients with myeloid blast phase CML, the median duration of MaHR was 8.1 months (min-max: 2.7-21.1) and 9.0 (min-max: 1.8-23.1) months for the 140 mg once-daily group and the 70 mg twice-daily group, respectively.
+In patients with lymphoid blast phase CML, the median duration of MaHR was 4.7 months (min-max: 3.0-9.0) and 7.9 months (min-max: 1.6-22.1) for the 140 mg once-daily group and the 70 mg twice-daily group, respectively.
+In patients with Ph+ ALL who were treated with SPRYCEL 140 mg once-daily, the median duration of MaHR was 4.6 months (min-max: 1.4-10.2).
+The medians of progression-free survival for patients with Ph+ ALL treated with SPRYCEL 140 mg once-daily and 70 mg twice-daily were 4.0 months (min-max: 0.4-11.1) and 3.1 months (min-max: 0.3-20.8), respectively.

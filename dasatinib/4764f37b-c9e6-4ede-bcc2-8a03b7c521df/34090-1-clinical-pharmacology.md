@@ -5,9 +5,9 @@
 Dasatinib, at nanomolar concentrations, inhibits the following kinases: BCR-ABL, SRC family (SRC, LCK, YES, FYN), c-KIT, EPHA2, and PDGFRβ.
 Based on modeling studies, dasatinib is predicted to bind to multiple conformations of the ABL kinase.
 
-In vitro, dasatinib was active in leukemic cell lines representing variants of imatinib mesylate sensitive and resistant disease.
+In vitro, dasatinib was active in leukemic cell lines representing variants of imatinib mesylate-sensitive and resistant disease.
 Dasatinib inhibited the growth of chronic myeloid leukemia (CML) and acute lymphoblastic leukemia (ALL) cell lines overexpressing BCR-ABL.
-Under the conditions of the assays, dasatinib was able to overcome imatinib resistance resulting from BCR- ABL kinase domain mutations, activation of alternate signaling pathways involving the SRC family kinases (LYN, HCK), and multi-drug resistance gene overexpression.
+Under the conditions of the assays, dasatinib was able to overcome imatinib resistance resulting from BCR-ABL kinase domain mutations, activation of alternate signaling pathways involving the SRC family kinases (LYN, HCK), and multi-drug resistance gene overexpression.
 
 ## 12.3 Pharmacokinetics
 

@@ -14,7 +14,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to SPRYCEL at all doses tested in clinical studies including 324 patients with newly diagnosed chronic phase CML and in 2388 patients with imatinib resistant or intolerant chronic or advanced phase CML or Ph+ ALL.
+The data described below reflect exposure to SPRYCEL at all doses tested in clinical studies including 324 patients with newly diagnosed chronic phase CML and in 2388 patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL.
 The median duration of therapy in 2712 SPRYCEL-treated patients was 19.2 months (range 0–93.2 months).
 In a randomized trial in patients with newly diagnosed chronic phase CML, the median duration of therapy was approximately 60 months.
 The median duration of therapy in 1618 patients with chronic phase CML was 29 months (range 0–92.9 months).
@@ -74,13 +74,13 @@ Table 2: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed C
 
 A comparison of cumulative rates of adverse reactions reported in ≥10% of patients with minimum follow-up of 1 and 5 years in a randomized trial of newly diagnosed patients with chronic phase CML treated with SPRYCEL are shown in Table 3.
 
-Table 3: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Phase CML in the SPRYCEL Treated Arm (n=258)
+Table 3: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Phase CML in the SPRYCEL-Treated Arm (n=258)
 
 | Preferred Term | Percent (%) of Patients |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum of 1 Year Follow-up |  | Minimum of 5 Years Follow-up |  |  |  |  |  |  |
 |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |
-| Fluid Retention | 19 | 1 | 38 | 5 |  |  |  |  |  |
+| Fluid retention | 19 | 1 | 38 | 5 |  |  |  |  |  |
 | Pleural effusion | 10 | 0 | 28 | 3 |  |  |  |  |  |
 | Superficial localized edema | 9 | 0 | 14 | 0 |  |  |  |  |  |
 | Pulmonary hypertension | 1 | 0 | 5 | 1 |  |  |  |  |  |
@@ -132,14 +132,14 @@ Table 4: Adverse Reactions Reported in ≥10% of Patients with Chronic Phase CML
 
 Cumulative rates of selected adverse reactions that were reported over time in patients treated with the 100 mg once daily recommended starting dose in a randomized dose-optimization trial of imatinib-resistant or -intolerant patients with chronic phase CML are shown in Table 5.
 
-Table 5: Selected Adverse Reactions Reported in Dose Optimization Trial (Imatinib Intolerant or Resistant Chronic Phase CML)a
+Table 5: Selected Adverse Reactions Reported in Dose Optimization Trial (Imatinib-Intolerant or -Resistant Chronic Phase CML)a
 
 | Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum of 2 Years Follow-up |  | Minimum of 5 Years Follow-up |  | Minimum of 7 Years Follow-up |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Diarrhea | 27 | 2 | 28 | 2 | 28 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fluid Retention | 34 | 4 | 42 | 6 | 48 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fluid retention | 34 | 4 | 42 | 6 | 48 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Superficial edema | 18 | 0 | 21 | 0 | 22 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Pleural effusion | 18 | 2 | 24 | 4 | 28 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Generalized edema | 3 | 0 | 4 | 0 | 4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -235,7 +235,7 @@ Table 8: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML: Resi
 | Elevated SGOT (AST) | <1 | 0 | 4 | 3 |  |  |  |
 | Elevated Bilirubin | <1 | 1 | 3 | 6 |  |  |  |
 | Elevated Creatinine | 0 | 2 | 8 | 0 |  |  |  |
-| CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L). * Hematology parameters for 100 mg once-daily dosing in chronic phase CML reflects 60 month minimum follow-up. |  |  |  |  |  |  |  |
+| CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L). * Hematology parameters for 100 mg once-daily dosing in chronic phase CML reflects 60-month minimum follow-up. |  |  |  |  |  |  |  |
 
 Among chronic phase CML patients with resistance or intolerance to prior imatinib therapy, cumulative Grade 3 or 4 cytopenias were similar at 2 and 5 years including: neutropenia (36% vs 36%), thrombocytopenia (23% vs 24%), and anemia (13% vs 13%).
 
@@ -255,13 +255,13 @@ These events are included on the basis of clinical relevance.
 
 Gastrointestinal Disorders: 1%–<10% – mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, gastritis, colitis (including neutropenic colitis), oral soft tissue disorder; 0.1%–<1% – ascites, dysphagia, anal fissure, upper gastrointestinal ulcer, esophagitis, pancreatitis, gastroesophageal reflux disease; <0.1% – protein losing gastroenteropathy, ileus, acute pancreatitis, anal fistula.
 
-General Disorders and Administration Site-Conditions: ≥10% – peripheral edema, face edema; 1%–<10% – asthenia, chest pain, chills; 0.1%–<1% – malaise, other superficial edema; <0.1% – gait disturbance.
+General Disorders and Administration-Site Conditions: ≥10% – peripheral edema, face edema; 1%–<10% – asthenia, chest pain, chills; 0.1%–<1% – malaise, other superficial edema; <0.1% – gait disturbance.
 
 Skin and Subcutaneous Tissue Disorders: 1%–<10% – alopecia, acne, dry skin, hyperhidrosis, urticaria, dermatitis (including eczema); 0.1%–<1% – pigmentation disorder, skin ulcer, bullous conditions, photosensitivity, nail disorder, neutrophilic dermatosis, panniculitis, palmar-plantar erythrodysesthesia syndrome, hair disorder; <0.1% – leukocytoclastic vasculitis, skin fibrosis.
 
 Respiratory, Thoracic, and Mediastinal Disorders: 1%–<10% – lung infiltration, pneumonitis, cough; 0.1%–<1% – asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% – acute respiratory distress syndrome, pulmonary embolism.
 
-Nervous System Disorders: 1%–<10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1%–<1% – amnesia, tremor, syncope, balance disorder, <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
+Nervous System Disorders: 1%–<10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1%–<1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
 
 Blood and Lymphatic System Disorders: 0.1%–<1% – lymphadenopathy, lymphopenia; <0.1% – aplasia pure red cell.
 
@@ -275,7 +275,7 @@ Metabolism and Nutrition Disorders: 1%–<10% – appetite disturbances, hyperur
 
 Cardiac Disorders: 1%–<10% – arrhythmia (including tachycardia), palpitations; 0.1%–<1% – angina pectoris, cardiomegaly, pericarditis, ventricular arrhythmia (including ventricular tachycardia), electrocardiogram T-wave abnormal, troponin increased; <0.1% – cor pulmonale, myocarditis, acute coronary syndrome, cardiac arrest, electrocardiogram PR prolongation, coronary artery disease, pleuropericarditis.
 
-Eye Disorders: 1%–<10% – visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye; 0.1%–<1% – conjunctivitis; visual impairment, photophobia, lacrimation increased.
+Eye Disorders: 1%–<10% – visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye; 0.1%–<1% – conjunctivitis, visual impairment, photophobia, lacrimation increased.
 
 Vascular Disorders: 1%–<10% – flushing, hypertension; 0.1%–<1% – hypotension, thrombophlebitis, thrombosis; <0.1% – livedo reticularis, deep vein thrombosis, embolism.
 
@@ -299,7 +299,7 @@ Endocrine Disorders: 0.1%–<1% – hypothyroidism; <0.1% – hyperthyroidism, t
 
 ## 6.4 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post approval use of SPRYCEL.
+The following additional adverse reactions have been identified during postapproval use of SPRYCEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiac disorders: atrial fibrillation/atrial flutter

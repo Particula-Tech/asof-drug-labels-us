@@ -23,17 +23,17 @@ Concomitant medications that inhibit platelet function or anticoagulants may inc
 
 SPRYCEL may cause fluid retention.
 After 5 years of follow-up in the randomized newly diagnosed chronic phase CML study (n=258), grade 3 or 4 fluid retention was reported in 5% of patients, including 3% of patients with grade 3 or 4 pleural effusion.
-In patients with newly diagnosed or imatinib resistant or intolerant chronic phase CML, grade 3 or 4 fluid retention occurred in 6% of patients treated with SPRYCEL at the recommended dose (n=548).
+In patients with newly diagnosed or imatinib-resistant or -intolerant chronic phase CML, grade 3 or 4 fluid retention occurred in 6% of patients treated with SPRYCEL at the recommended dose (n=548).
 In patients with advanced phase CML or Ph+ ALL treated with SPRYCEL at the recommended dose (n=304), grade 3 or 4 fluid retention was reported in 8% of patients, including grade 3 or 4 pleural effusion reported in 7% of patients.
 
-Evaluate patients who develop symptoms of pleural effusion or other fluid retention, such as new or worsened dyspnea on exertion or at rest, pleuritic chest pain, or dry cough promptly with a chest x-ray or additional diagnostic imaging as appropriate.
+Evaluate patients who develop symptoms of pleural effusion or other fluid retention, such as new or worsened dyspnea on exertion or at rest, pleuritic chest pain, or dry cough, promptly with a chest x-ray or additional diagnostic imaging as appropriate.
 Fluid retention events were typically managed by supportive care measures that may include diuretics or short courses of steroids.
 Severe pleural effusion may require thoracentesis and oxygen therapy.
-Consider dose reduction or treatment interruption[see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Consider dose reduction or treatment interruption [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
 
 ## 5.4 Cardiovascular Events
 
-After 5 years of follow-up in the randomized newly diagnosed chronic phase CML trial (n=258), the following cardiac adverse events occurred: cardiac ischemic events (3.9% dasatinib vs 1.6% imatinib), cardiac related fluid retention (8.5% dasatinib vs 3.9% imatinib), and conduction system abnormalities, most commonly arrhythmia and palpitations (7.0% dasatinib vs 5.0% imatinib).
+After 5 years of follow-up in the randomized newly diagnosed chronic phase CML trial (n=258), the following cardiac adverse events occurred: cardiac ischemic events (3.9% dasatinib vs 1.6% imatinib), cardiac-related fluid retention (8.5% dasatinib vs 3.9% imatinib), and conduction system abnormalities, most commonly arrhythmia and palpitations (7.0% dasatinib vs 5.0% imatinib).
 Two cases (0.8%) of peripheral arterial occlusive disease occurred with imatinib and 2 (0.8%) transient ischemic attacks occurred with dasatinib.
 Monitor patients for signs or symptoms consistent with cardiac dysfunction and treat appropriately.
 
@@ -68,5 +68,5 @@ Patients with advanced stage disease and/or high tumor burden may be at increase
 ## 5.9 Embryo-Fetal Toxicity
 
 Based on limited human data, SPRYCEL can cause fetal harm when administered to a pregnant woman.
-Adverse pharmacologic effects of SPRYCEL including hydrops fetalis, fetal leukopenia and fetal thrombocytopenia have been reported with maternal exposure to SPRYCEL.
+Adverse pharmacologic effects of SPRYCEL including hydrops fetalis, fetal leukopenia, and fetal thrombocytopenia have been reported with maternal exposure to SPRYCEL.
 Advise females of reproductive potential to avoid pregnancy, which may include the use of effective contraception, during treatment with SPRYCEL and for 30 days after the final dose [see Use in Specific Populations (8.1, 8.3)].

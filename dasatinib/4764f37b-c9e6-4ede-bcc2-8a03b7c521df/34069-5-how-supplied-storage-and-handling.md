@@ -17,13 +17,13 @@ Table 13: SPRYCEL Trade Presentations
 
 ## 16.2 Storage
 
-SPRYCEL® tablets should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
+SPRYCEL tablets should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 ## 16.3 Handling and Disposal
 
 SPRYCEL is an antineoplastic product.
 Follow special handling and disposal procedures.
 
-SPRYCEL (dasatinib) tablets consist of a core tablet (containing the active drug substance), surrounded by a film coating to prevent exposure of pharmacy and clinical personnel to the active drug substance.
+SPRYCEL tablets consist of a core tablet (containing the active drug substance), surrounded by a film coating to prevent exposure of pharmacy and clinical personnel to the active drug substance.
 However, if tablets are inadvertently crushed or broken, pharmacy and clinical personnel should wear disposable chemotherapy gloves.
 Personnel who are pregnant should avoid exposure to crushed or broken tablets.
