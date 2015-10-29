@@ -4,6 +4,7 @@
 
 Gabapentin was evaluated for the management of postherpetic neuralgia (PHN) in two randomized, double-blind, placebo-controlled, multicenter studies.
 The intent-to-treat (ITT) population consisted of a total of 563 patients with pain for more than 3 months after healing of the herpes zoster skin rash (Table 6).
+
 TABLE 6.
 Controlled PHN Studies: Duration, Dosages, and Number of Patients
 
@@ -12,8 +13,9 @@ Controlled PHN Studies: Duration, Dosages, and Number of Patients
 | 1 | 8 weeks | 3600 | 113 | 116 |
 | 2 | 7 weeks | 1800, 2400 | 223 | 111 |
 | Total |  |  | 336 | 227 |
+| a Given in 3 divided doses (TID) |  |  |  |  |
 
-a Given in 3 divided doses (TID) Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
+Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
 Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
 Dosages were then to be titrated in 600 to 1200 mg/day increments at 3- to 7-day intervals to the target dose over 3 to 4 weeks.
 Patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
@@ -41,7 +43,7 @@ Response ratio is distributed within the range -1 to +1.
 A zero value indicates no change while complete elimination of seizures would give a value of -1; increased seizure rates would give positive values.
 A response ratio of -0.33 corresponds to a 50% reduction in seizure frequency.
 The results given below are for all partial seizures in the intent-to-treat (all patients who received any doses of treatment) population in each study, unless otherwise indicated.
-One study compared gabapentin 1200 mg/day, in three divided doses, with placebo.
+One study compared gabapentin 1200 mg/day, in three divided doses with placebo.
 Responder rate was 23% (14/61) in the gabapentin group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
 Response ratio was also better in the gabapentin group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
 A second study compared primarily gabapentin 1200 mg/day, in three divided doses (N=101), with placebo (N=98).

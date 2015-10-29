@@ -3,11 +3,12 @@
 The following serious adverse reactions are discussed in greater detail in other sections:
 
 - Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
-- Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.3)]
-- Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.5)]
-- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.8)]
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)]
+- Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
+- Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.7)]
+- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,9 +24,9 @@ The adverse reactions that most frequently led to withdrawal in gabapentin-treat
 Table 3 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
 
 TABLE 3.
-Adverse Reactions in Placebo-Controlled Trials in Postherpetic Neuralgia
+Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
 
-| Body System/Adverse Reaction | Gabapentin N=336 % | Placebo N=227 % |
+|  | Gabapentin N=336 % | Placebo N=227 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
@@ -64,9 +65,9 @@ Because there were few patients whose race was reported as other than white, the
 
 Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
-The most common adverse reactions associated with the use of gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
+The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
-The most common adverse reactions reported with the use of gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.4)].
+The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.5)].
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -78,11 +79,11 @@ In these studies, either gabapentin or placebo was added to the patient’s curr
 TABLE 4.
 Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patients >12 years of age
 
-| Body System/Adverse Reaction | Gabapentina N=543 % | Placeboa N=378 % |
+|  | Gabapentina N=543 % | Placeboa N=378 % |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Fatigue | 11 | 5 |
-| Weight gain | 3 | 2 |
+| Increased Weight | 3 | 2 |
 | Back Pain | 2 | 1 |
 | Peripheral Edema | 2 | 1 |
 | Cardiovascular |  |  |
@@ -101,8 +102,8 @@ Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patient
 | Dysarthria | 2 | 1 |
 | Amnesia | 2 | 0 |
 | Depression | 2 | 1 |
-| Abnormal Thinking | 2 | 1 |
-| Abnormal Coordination | 1 | 0 |
+| Abnormal thinking | 2 | 1 |
+| Abnormal coordination | 1 | 0 |
 | Respiratory System |  |  |
 | Pharyngitis | 3 | 2 |
 | Coughing | 2 | 1 |
@@ -113,10 +114,7 @@ Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patient
 | Special Senses |  |  |
 | Diplopia | 6 | 2 |
 | Amblyopiab | 4 | 1 |
-
-a Plus background antiepileptic drug therapy
-
-b Amblyopia was often described as blurred vision.
+| a Plus background antiepileptic drug therapy b Amblyopia was often described as blurred vision. |  |  |
 
 Among the adverse reactions occurring at an incidence of at least 10% in gabapentin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
 
@@ -126,15 +124,15 @@ Because only 3% of patients (28/921) in placebo-controlled studies were identifi
 
 Table 5 lists adverse reactions that occurred in at least 2% of gabapentin-treated patients, age 3 to 12 years of age with epilepsy participating in placebo-controlled trials, and which were numerically more common in the gabapentin group.
 
-TABLE 5.
+Table 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
-| Body System/Adverse Reaction | Gabapentina N=119 % | Placeboa N=128 % |
+|  | Gabapentina N=119 % | Placeboa N=128 % |
 | --- | --- | --- |
 | Body As A Whole |  |  |
 | Viral Infection | 11 | 3 |
 | Fever | 10 | 3 |
-| Weight gain | 3 | 1 |
+| Increased Weight | 3 | 1 |
 | Fatigue | 3 | 2 |
 | Digestive System |  |  |
 | Nausea and/or Vomiting | 8 | 7 |
@@ -147,8 +145,7 @@ Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Pat
 | Respiratory System |  |  |
 | Bronchitis | 3 | 1 |
 | Respiratory Infection | 3 | 1 |
-
-a Plus background antiepileptic drug therapy
+| a Plus background antiepileptic drug therapy |  |  |
 
 Other reactions in more than 2% of pediatric patients 3 to 12 years of age but equally or more frequent in the placebo group included: pharyngitis, upper respiratory infection, headache, rhinitis, convulsions, diarrhea, anorexia, coughing, and otitis media.
 
@@ -156,6 +153,18 @@ Other reactions in more than 2% of pediatric patients 3 to 12 years of age but e
 
 The following adverse reactions have been identified during postmarketing use of gabapentin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hepatobiliary disorders: jaundice Investigations: blood glucose fluctuation, elevated creatine kinase, elevated liver function tests Metabolism and nutrition disorders: hyponatremia Nervous system disorders: movement disorder Musculoskeletal and connective tissue disorders: rhabdomyolysis Reproductive system and breast disorders: breast enlargement Skin and subcutaneous tissue disorders: angioedema, erythema multiforme, Stevens-Johnson syndrome.
+
+Hepatobiliary disorders: jaundice
+
+Investigations: elevated creatine kinase, elevated liver function tests Metabolism and nutrition disorders: hyponatremia
+
+Musculoskeletal and connective tissue disorder: rhabdomyolysis
+
+Nervous system disorders: movement disorder
+
+Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
+
+Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2], erythema multiforme, Stevens-Johnson syndrome.
+
 Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.
