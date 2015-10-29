@@ -75,7 +75,9 @@ The table below provides additional information on dosing conversion to JADENU t
 | Titration Increments | 5–10 mg/kg | 3.5–7 mg/kg |
 | Maximum Dose | 40 mg/kg/day | 28 mg/kg/day |
 
-For patients that have trouble swallowing JADENU tablets, consider the use of deferasirox tablets for oral suspension (see the deferasirox tablets for oral suspension prescribing information).
+For patients who have difficulty swallowing whole tablets, JADENU tablets may be crushed and mixed with soft foods (e.g., yogurt or apple sauce) immediately prior to use and administered orally.
+Commercial crushers with serrated surfaces should be avoided for crushing a single 90 mg tablet.
+The dose should be immediately and completely consumed and not stored for future use.
 
 ## 2.4 Use in Patients with Baseline Hepatic or Renal Impairment
 

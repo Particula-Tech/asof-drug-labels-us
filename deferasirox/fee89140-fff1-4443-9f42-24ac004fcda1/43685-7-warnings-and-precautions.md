@@ -69,7 +69,7 @@ If SJS or erythema multiforme is suspected, discontinue JADENU immediately and d
 
 ## 5.8 Skin Rash
 
-Rashes may occur during Jadenu treatment [see Adverse Reactions (6.1)].
+Rashes may occur during JADENU treatment [see Adverse Reactions (6.1)].
 For rashes of mild to moderate severity, JADENU may be continued without dose adjustment, since the rash often resolves spontaneously.
 In severe cases, interrupt treatment with JADENU.
 Reintroduction at a lower dose with escalation may be considered after resolution of the rash.
