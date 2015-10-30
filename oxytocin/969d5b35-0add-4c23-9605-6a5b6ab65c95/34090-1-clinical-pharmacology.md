@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Uterine motility depends on the formation of the contractile protein actomyosin under the influence of the Ca2+- dependent phosphorylating enzyme myosin light-chain kinase.
+Uterine motility depends on the formation of the contractile protein actomyosin under the influence of the Ca2+-dependent phosphorylating enzyme myosin light-chain kinase.
 Oxytocin promotes contractions by increasing the intracellular Ca2+.
 Oxytocin has specific receptors in the myometrium and the receptor concentration increases greatly during pregnancy, reaching a maximum in early labor at term.
 The response to a given dose of oxytocin is very individualized and depends on the sensitivity of the uterus, which is determined by the oxytocin receptor concentration.
