@@ -1,13 +1,13 @@
 Rx only.
 
-Prescribing Information as of September 2013.
+Manufactured by:
 
-Manufactured & Distributed by:
+Par Pharmaceutical Companies, Inc.
 
-JHP Pharmaceuticals, LLC
+Spring Valley, NY 10977
 
-Rochester, MI 48307
+I02/15
 
-3003040A
+OS123J-01-90-01
 
-98793543
+3003040B

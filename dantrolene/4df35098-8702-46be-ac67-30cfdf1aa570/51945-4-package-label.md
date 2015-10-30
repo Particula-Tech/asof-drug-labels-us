@@ -10,4 +10,4 @@ For treatment of malignant hyperthermia FOR INTRAVENOUS USE ONLY
 
 Rx Only
 
-JHP PHARMACEUTICALS
+Par Pharmaceutical Companies, Inc.
