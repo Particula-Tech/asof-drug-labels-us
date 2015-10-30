@@ -18,9 +18,6 @@ The molecular formula is C19H28BrNO3 and the molecular weight is 398.33.
 
 Its structural formula is as follows:
 
-| C19H28BrNO3 | MW 398.33 |
-| --- | --- |
-
 Glycopyrrolate occurs as a white, odorless crystalline powder.
 It is soluble in water and alcohol, and practically insoluble in chloroform and ether.
 
