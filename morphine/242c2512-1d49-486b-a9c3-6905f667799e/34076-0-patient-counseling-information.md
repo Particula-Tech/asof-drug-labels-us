@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## Information for Patients and Caregivers
+See Medication Guide
 
 Provide the following information to patients receiving morphine sulfate or their caregivers:
 
@@ -27,3 +27,7 @@ Provide the following information to patients receiving morphine sulfate or thei
   When morphine sulfate is no longer needed, the unused oral solution should be destroyed by flushing down the toilet.
 - Advise patients taking morphine sulfate of the potential for severe constipation; appropriate laxatives and/or stool softeners as well as other appropriate treatments should be initiated from the onset of opioid therapy.
 - Advise patients of the most common adverse events that may occur while taking morphine sulfate: constipation, nausea, somnolence, lightheadedness, dizziness, sedation, vomiting, and sweating.
+
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
+
+Issued 05/2015

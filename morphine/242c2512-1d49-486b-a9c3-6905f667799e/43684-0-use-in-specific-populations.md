@@ -8,11 +8,11 @@ Pregnancy Category C: No formal studies to assess the teratogenic effects of mor
 It is also not known whether morphine can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 Morphine should be given to a pregnant woman only if clearly needed.
 
-In humans, the frequency of congenital anomalies has been reported to be no greater than expected among the children of 70 women who were treated with morphine during the first four months of pregnancy or in 448 women treated with morphine anytime during pregnancy.
+In humans, the frequency of congenital anomalies has been reported to be no greater than expected among the children of 70 women who were treated with this drug during the first four months of pregnancy or in 448 women treated with morphine anytime during pregnancy.
 Furthermore, no malformations were observed in the infant of a woman who attempted suicide by taking an overdose of morphine and other medication during the first trimester of pregnancy.
 
 Several literature reports indicate that morphine administered subcutaneously during the early gestational period in mice and hamsters produced neurological, soft tissue and skeletal abnormalities.
-With one exception, the effects that have been reported were following doses that were maternally toxic and the abnormalities noted were characteristic of those observed when maternal toxicity is present.
+With one exception, the effects that have been reported were following doses that were maternally toxic and the abnormalities noted were characteristic to those observed when maternal toxicity is present.
 In one study, following subcutaneous infusion of doses greater than or equal to 0.15 mg/kg to mice, exencephaly, hydronephrosis, intestinal hemorrhage, split supraoccipital, malformed sternebrae, and malformed xiphoid were noted in the absence of maternal toxicity.
 In the hamster, morphine sulfate given subcutaneously on gestation day 8 produced exencephaly and cranioschisis.
 In rats treated with subcutaneous infusions of morphine during the period of organogenesis, no teratogenicity was observed.
