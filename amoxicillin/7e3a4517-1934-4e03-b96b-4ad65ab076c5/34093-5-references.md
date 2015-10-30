@@ -5,14 +5,11 @@
    Vet Hum Toxicol.
    1988; 30: 66-67.
 2. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – 8th ed.
-   CLSI Document M7-A8, Vol. 29, No.2.
-   CLSI, Wayne, PA, Jan.
-   2009.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – Tenth Edition.
+   CLSI document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
 3. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standard for Antimicrobial Disk Susceptibility Tests; Approved Standard – 10th ed.
-   CLSI Document M2-A10, Vol. 29, No. 1.
-   CLSI, Wayne, PA, 2009.
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Twelfth Edition.
+   CLSI document M02-A12, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
 4. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing: 21st Informational Supplement.
-   Approved Standard CLSI Document M100-S21 CLSI, Wayne, PA, January 2011.
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fifth Informational Supplement, CLSI document M100-S25.
+   CLSI document M100-S25, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.

@@ -14,19 +14,19 @@ Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer rec
 Table 6.
 H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Triple Therapy Regimen
 
-| Evaluable Analysisa [95% Confidence Interval] (number of patients) | Intent-to-Treat Analysisb [95% Confidence Interval] (number of patients) |  |
-| --- | --- | --- |
-| Study | Triple Therapy | Triple Therapy |
-| Study 1 | 92 [80 - 97.7] (n = 48) | 86 [73.3 - 93.5] (n = 55) |
-| Study 2 | 86 [75.7 - 93.6] (n = 66) | 83 [72 - 90.8] (n = 70) |
-| a This analysis was based on evaluable patients with confirmed duodenal ulcer (active or within 1 year) and H. pylori infection at baseline defined as at least 2 of 3 positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. b Patients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year). All dropouts were included as failures of therapy. |  |  |
+| Study | Triple Therapy | Triple Therapy |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Evaluable Analysisa [95% Confidence Interval] (number of patients) | Intent-to-Treat Analysisb [95% Confidence Interval] (number of patients) |  |  |  |  |  |  |  |  |  |
+| Study 1 | 92 [80 to 97.7] (n = 48) | 86 [73.3 to 93.5] (n = 55) |  |  |  |  |  |  |  |  |
+| Study 2 | 86 [75.7 to 93.6] (n = 66) | 83 [72 to 90.8] (n = 70) |  |  |  |  |  |  |  |  |
+| a This analysis was based on evaluable patients with confirmed duodenal ulcer (active or within 1 year) and H. pylori infection at baseline defined as at least 2 of 3 positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. b Patients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year). All dropouts were included as failures of therapy. |  |  |  |  |  |  |  |  |  |  |
 
 Table 7.
 H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Dual Therapy Regimen
 
-| Evaluable Analysisa [95% Confidence Interval] (number of patients) | Intent-to-Treat Analysisb [95% Confidence Interval] (number of patients) |  |
-| --- | --- | --- |
-| Study | Dual Therapy | Dual Therapy |
-| Study 1 | 77 [62.5 - 87.2] (n = 51) | 70 [56.8 - 81.2] (n = 60) |
-| Study 2 | 66 [51.9 - 77.5] (n = 58) | 61 [48.5 - 72.9] (n = 67) |
-| a This analysis was based on evaluable patients with confirmed duodenal ulcer (active or within 1 year) and H. pylori infection at baseline defined as at least 2 of 3 positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. b Patients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year). All dropouts were included as failures of therapy. |  |  |
+| Study | Dual Therapy | Dual Therapy |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Evaluable Analysisa [95% Confidence Interval] (number of patients) | Intent-to-Treat Analysisb [95% Confidence Interval] (number of patients) |  |  |  |  |  |  |  |  |  |
+| Study 1 | 77 [62.5 to 87.2] (n = 51) | 70 [56.8 to 81.2] (n = 60) |  |  |  |  |  |  |  |  |
+| Study 2 | 66 [51.9 to 77.5] (n = 58) | 61 [48.5 to 72.9] (n = 67) |  |  |  |  |  |  |  |  |
+| a This analysis was based on evaluable patients with confirmed duodenal ulcer (active or within 1 year) and H. pylori infection at baseline defined as at least 2 of 3 positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. b Patients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year). All dropouts were included as failures of therapy. |  |  |  |  |  |  |  |  |  |  |
