@@ -5,6 +5,9 @@
 Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into nonproductive aggregates.
 Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage.
 
+In addition, eribulin treatment of human breast cancer cells caused changes in morphology and gene expression as well as decreased migration and invasiveness in vitro.
+In mouse xenograft models of human breast cancer, eribulin treatment was associated with increased vascular perfusion and permeability in the tumor cores, resulting in reduced tumor hypoxia, and changes in the expression of genes in tumor specimens associated with a change in phenotype.
+
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics (PK) of eribulin is linear with a mean elimination half-life of approximately 40 hours, a mean volume of distribution of 43 L/m2 to 114 L/m2 and mean clearance of 1.16 L/hr/m2 to 2.42 L/hr/m2 over the dose range of 0.25 mg/m2 to 4.0 mg/m2.
