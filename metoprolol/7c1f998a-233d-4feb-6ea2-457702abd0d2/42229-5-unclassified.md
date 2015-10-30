@@ -1,5 +1,5 @@
 Injection, USP
 
-Prescribing Information
-
 Rx only
+
+Prescribing Information

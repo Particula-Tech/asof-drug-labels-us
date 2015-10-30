@@ -7,7 +7,7 @@ Early Treatment
 During the early phase of definite or suspected acute myocardial infarction, initiate treatment with metoprolol tartrate as soon as possible after the patient’s arrival in the hospital.
 Such treatment should be initiated in a coronary care or similar unit immediately after the patient’s hemodynamic condition has stabilized.
 
-Begin treatment in this early phase with the intravenous administration of three bolus injections of 5 mg of metoprolol tartrate each; give the injections at approximately 2‑minute intervals.
+Begin treatment in this early phase with the intravenous administration of three bolus injections of 5 mg of metoprolol tartrate each; give the injections at approximately 2-minute intervals.
 During the intravenous administration of metoprolol tartrate, monitor blood pressure, heart rate, and electrocardiogram.
 
 In patients who tolerate the full intravenous dose (15 mg), initiate metoprolol tartrate tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose and continue for 48 hours.

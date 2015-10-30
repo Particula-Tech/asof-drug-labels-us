@@ -29,7 +29,7 @@ This contrasts with the effect of nonselective (beta1 plus beta2) beta blockers,
 Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta blockade.
 Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
 
-- When the drug was infused over a 10-minute period, in normal volunteers, maximum beta blockade was achieved at approximately 20 minutes.
+- •When the drug was infused over a 10-minute period, in normal volunteers, maximum beta blockade was achieved at approximately 20 minutes.
 
 Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
 

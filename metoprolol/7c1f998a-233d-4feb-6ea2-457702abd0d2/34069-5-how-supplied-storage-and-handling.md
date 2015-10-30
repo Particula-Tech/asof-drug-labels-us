@@ -17,8 +17,8 @@ Retain in carton until time of use.
 
 Discard unused portion.
 
-Revised: 05/2013
+Revised: 10/2015
 
-EN-3287
+EN-4076
 
 Hospira, Inc., Lake Forest, IL 60045 USA
