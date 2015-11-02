@@ -6,7 +6,7 @@ Zidovudine oral solution, USP, a nucleoside reverse transcriptase inhibitor, is 
 
 ## 1.2 Prevention of Maternal-Fetal HIV-1 Transmission
 
-Zidovudine oral solution, USP is indicated for the prevention of maternal-fetal HIV-1 transmission [see Dosage and Administration (2.2)].
+Zidovudine oral solution, USP is indicated for the prevention of maternal-fetal HIV-1 transmission [see Dosage and Administration (2.3)].
 The indication is based on a dosing regimen that included 3 components:
 
 1. antepartum therapy of HIV-1 infected mothers

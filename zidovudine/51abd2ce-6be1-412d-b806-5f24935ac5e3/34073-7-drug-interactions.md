@@ -2,8 +2,8 @@
 
 ## 7.1 Antiretroviral Agents
 
-Stavudine: Concomitant use of zidovudine with stavudine should be avoided since an antagonistic relationship has been demonstrated in vitro.
-Nucleoside Analogues Affecting DNA Replication: Some nucleoside analogues affecting DNA replication, such as ribavirin, antagonize the in vitro antiviral activity of zidovudine against HIV-1; concomitant use of such drugs should be avoided.
+Stavudine Concomitant use of zidovudine with stavudine should be avoided since an antagonistic relationship has been demonstrated in vitro.
+Nucleoside Analogues Affecting DNA Replication Some nucleoside analogues affecting DNA replication, such as ribavirin, antagonize the in vitro antiviral activity of zidovudine against HIV-1; concomitant use of such drugs should be avoided.
 
 ## 7.2 Doxorubicin
 

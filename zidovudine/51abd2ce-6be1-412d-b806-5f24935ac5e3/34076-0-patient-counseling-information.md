@@ -1,35 +1,79 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Advice for the Patient
+Hypersensitivity Reactions
 
-Neutropenia and Anemia: Patients should be informed that the major toxicities of zidovudine are neutropenia and/or anemia.
+Inform patients that potentially life-threatening hypersensitivity reactions (e.g., anaphylaxis, Stevens-Johnson syndrome) can occur while receiving zidovudine.
+Instruct patients to immediately contact their healthcare provider if they develop rash, as it may be a sign of a more serious reaction.
+Advise patients that it is very important that they remain under a healthcare provider’s care during treatment with zidovudine.
+
+Neutropenia and Anemia
+
+Inform Patients that the major toxicities of zidovudine are neutropenia and/or anemia.
 The frequency and severity of these toxicities are greater in patients with more advanced disease and in those who initiate therapy later in the course of their infection.
-Patients should be informed that if toxicity develops, they may require transfusions or drug discontinuation.
-Patients should be informed of the extreme importance of having their blood counts followed closely while on therapy, especially for patients with advanced symptomatic HIV-1 disease [see Boxed Warning, Warnings and Precautions (5.1)].
-Myopathy: Patients should be informed that myopathy and myositis with pathological changes, similar to that produced by HIV-1 disease, have been associated with prolonged use of zidovudine [see Boxed Warning, Warnings and Precautions (5.2)].
-Lactic Acidosis/Hepatomegaly: Patients should be informed that some HIV medicines, including zidovudine, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.3)].
-HIV-1/HCV Co-Infection: Patients with HIV-1/HCV co-infection should be informed that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
-Use With Other Zidovudine-Containing Products: Zidovudine should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR [lamivudine and zidovudine] tablets or TRIZIVIR [abacavir sulfate, lamivudine, and zidovudine] tablets) [see Warnings and Precautions (5.5)].
-Redistribution/Accumulation of Body Fat: Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.7)].
-Common Adverse Reactions: Patients should be informed that the most commonly reported adverse reactions in adult patients being treated with zidovudine were headache, malaise, nausea, anorexia, and vomiting.
+Advise patients that if toxicity develops, they may require transfusions or drug discontinuation.
+Advise patients of the extreme importance of having their blood counts followed closely while on therapy, especially for patients with advanced symptomatic HIV-1 disease [see Boxed Warning, Warnings and Precautions (5.1)].
+
+Myopathy
+
+Inform patients that myopathy and myositis with pathological changes, similar to that produced by HIV-1 disease, have been associated with prolonged use of zidovudine [see Boxed Warning, Warnings and Precautions (5.3)].
+
+Lactic Acidosis/Hepatomegaly
+
+Inform patients that some HIV medicines, including zidovudine, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.4)].
+
+HIV-1/HCV Co-infection
+
+Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.5)].
+
+Use with Other Zidovudine-containing Products
+
+Zidovudine should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR [lamivudine and zidovudine] tablets or TRIZIVIR [abacavir sulfate, lamivudine, and zidovudine] tablets) [see Warnings and Precautions (5.6)].
+
+Immune Reconstitution Syndrome
+
+In some patients with advanced HIV infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.7)].
+
+Redistribution/Accumulation of Body Fat
+
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.8)].
+
+Common Adverse Reactions
+
+Inform patients that the most commonly reported adverse reactions in adult patients being treated with zidovudine were headache, malaise, nausea, anorexia, and vomiting.
 The most commonly reported adverse reactions in pediatric patients receiving zidovudine were fever, cough, and digestive disorders.
 Patients also should be encouraged to contact their physician if they experience muscle weakness, shortness of breath, symptoms of hepatitis or pancreatitis, or any other unexpected adverse events while being treated with zidovudine [see Adverse Reactions (6)].
-Drug Interactions: Patients should be cautioned about the use of other medications, including ganciclovir, interferon alfa, and ribavirin, which may exacerbate the toxicity of zidovudine [see Drug Interactions (7)].
-Pregnancy: Pregnant women considering the use of zidovudine during pregnancy for prevention of HIV-1 transmission to their infants should be informed that transmission may still occur in some cases despite therapy.
-The long-term consequences of in utero and infant exposure to zidovudine are unknown, including the possible risk of cancer [see Use in Specific Populations (8.1)].
-HIV-1-infected pregnant women should be informed not to breastfeed to avoid postnatal transmission of HIV to a child who may not yet be infected [see Use in Specific Populations (8.3)].
-Information About HIV-1 Infection: Zidovudine is not a cure for HIV-1 infection, and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
-Patients should remain under the care of a physician when using zidovudine.
-Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
 
-- Do not share needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-- Do not breastfeed.
-  Zidovudine is excreted in human breast milk.
-  Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+Drug Interactions
+
+Caution patients about the use of other medications, including ganciclovir, interferon alfa, and ribavirin, which may exacerbate the toxicity of zidovudine [see Drug Interactions (7)].
+
+Pregnancy Inform pregnant women considering the use of zidovudine during pregnancy for prevention of HIV-1 transmission to their infants that transmission may still occur in some cases despite therapy.
+The long-term consequences of in utero and infant exposure to zidovudine are unknown, including the possible risk of cancer [see Use in Specific Populations (8.1)].
+Advise HIV-1-infected pregnant women not to breastfeed to avoid postnatal transmission of HIV to a child who may not yet be infected [see Use in Specific Populations (8.3)].
+
+Information about HIV-1 Infection
+
+Zidovudine is not a cure for HIV-1 infection, and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients must remain on continuous HIV therapy to control HIV-1 infection and decrease HIV-1-related illness.
+Patients should be told that sustained decreases in plasma HIV-1 RNA have been associated with a reduced risk of progression to AIDS and death.
+Patients should remain under the care of a physician when using zidovudine.
 
 Patients should be informed to take all HIV medications exactly as prescribed.
-COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of ViiV Healthcare.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 05/2014
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
+
+• Do not share needles or other injection equipment.
+
+• Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+
+• Continue to practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+
+• Female patients should be advised not to breastfeed.Zidovudine is excreted in human breast milk.
+Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+
+Instruct patients that if they miss a dose, they should just take their next dose at the usual time.
+Patients should not double their next dose.
+
+COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2015
