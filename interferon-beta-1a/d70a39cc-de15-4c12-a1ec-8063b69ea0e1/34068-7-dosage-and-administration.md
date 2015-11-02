@@ -23,7 +23,7 @@ Table 1: Schedule for Dose Titration
 All AVONEX dosage forms are single-use (injection of reconstituted solution, prefilled syringe, and prefilled autoinjector).
 See Patient's Instructions for Use for complete administration instructions.
 
-The first AVONEX injection should be performed under the supervision of an appropriately qualified health care professional.
+The first AVONEX injection should be performed under the supervision of an appropriately qualified healthcare professional.
 If patients or caregivers are to administer AVONEX, train them in the proper intramuscular injection technique and assess their ability to inject intramuscularly to ensure the proper administration of AVONEX.
 
 Advise patients and caregivers to:

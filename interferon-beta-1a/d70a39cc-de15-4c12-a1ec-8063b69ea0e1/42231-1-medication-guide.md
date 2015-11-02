@@ -209,7 +209,7 @@ Biogen Idec Inc.
 
 Cambridge, MA 02142 USA
 
-©1996-2014 Biogen Idec Inc. All rights reserved.
+©1996-2015 Biogen Idec Inc. All rights reserved.
 
 1-800-456-2255
 

@@ -7,9 +7,10 @@ The following serious adverse reactions are discussed in more detail in other se
 - Anaphylaxis and Other Allergic-Reactions [see Warnings and Precautions (5.3)]
 - Congestive Heart Failure [see Warnings and Precautions (5.4)]
 - Decreased Peripheral Blood Counts [see Warnings and Precautions (5.5)]
-- Seizures [see Warnings and Precautions (5.6)]
-- Autoimmune Disorders [see Warnings and Precautions (5.7)]
-- Laboratory Tests [see Warnings and Precautions (5.8)]
+- Thrombotic Microangiopathy [see Warnings and Precautions (5.6)]
+- Seizures [see Warnings and Precautions (5.7)]
+- Autoimmune Disorders [see Warnings and Precautions (5.8)]
+- Laboratory Tests [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,7 +25,7 @@ The most frequently reported adverse reactions resulting in clinical interventio
 
 Table 2 enumerates adverse reactions that occurred with AVONEX-treated patients at an incidence of at least 2% more than that observed in the placebo-treated patients in the pooled placebo-controlled studies in patients with relapsing forms of MS [see Clinical Studies (14)].
 
-Table 2 Adverse Reactions in the Placebo-Controlled Studies
+Table 2: Adverse Reactions in the Placebo-Controlled Studies
 
 |  | Placebo | AVONEX |
 | --- | --- | --- |
