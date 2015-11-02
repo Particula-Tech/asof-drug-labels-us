@@ -8,18 +8,17 @@ However, the risk in some Asian countries is estimated to be about 10 times high
 Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## SJS/TEN and HLA -B*1502 Allele
+## SJS/TEN and HLA-B*1502 Allele
 
 Retrospective case-control studies have found that in patients of Chinese ancestry there is a strong association between the risk of developing SJS/TEN with carbamazepine treatment and the presence of an inherited variant of the HLA-B gene, HLA-B*1502.
 The occurrence of higher rates of these reactions in countries with higher frequencies of this allele suggests that the risk may be increased in allele-positive individuals of any ethnicity.
 
 Across Asian populations, notable variation exists in the prevalence of HLA-B*1502.
 Greater than 15% of the population is reported positive in Hong Kong, Thailand, Malaysia, and parts of the Philippines, compared to about 10% in Taiwan and 4% in North China.
-South Asians, including Indians, appear to have intermediate prevalence of HLA-B*1502, averaging 2 to 4%, but higher in some groups.
+South Asians, including Indians, appear to have intermediate prevalence of HLA-B*1502, averaging 2% to 4%, but higher in some groups.
 HLA-B*1502 is present in less than 1% of the population in Japan and Korea.
 
-HLA-B*1502 is largely absent in individuals not of Asian origin (e.g.
-Caucasians, African-Americans, Hispanics, and Native Americans).
+HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 
 Prior to initiating carbamazepine therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
 In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
@@ -59,7 +58,7 @@ Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
-It is important to note that early manifestations of hypersensitivity (e.g. fever, lymphadenopathy) may be present even though rash is not evident.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
 Carbamazepine should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
@@ -68,7 +67,7 @@ Carbamazepine should be discontinued if an alternative etiology for the signs or
 Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
 If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
 
-In patients who have exhibited hypersensitivity reactions to carbamazepine, approximately 25 to 30% may experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
+Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
 
 ## Suicidal Behavior and Ideation
 
@@ -107,22 +106,30 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## General
 
-Carbamazepine has shown mild anticholinergic activity; therefore, patients with increased intraocular pressure should be closely observed during therapy.
+Carbamazepine has shown mild anticholinergic activity that may be associated with increased intraocular pressure; therefore, patients with increased intraocular pressure should be closely observed during therapy.
 
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be borne in mind.
 
-The use of carbamazepine should be avoided in patients with a history of hepatic porphyria (e.g. acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
+The use of carbamazepine should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
 Acute attacks have been reported in such patients receiving carbamazepine therapy.
 Carbamazepine administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
 
 As with all antiepileptic drugs, carbamazepine should be withdrawn gradually to minimize the potential of increased seizure frequency.
+
+Hyponatremia can occur as a result of treatment with carbamazepine.
+In many cases, the hyponatremia appears to be caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+The risk of developing SIADH with carbamazepine treatment appears to be dose-related.
+Elderly patients and patients treated with diuretics are at greater risk of developing hyponatremia.
+Consider discontinuing carbamazepine in patients with symptomatic hyponatremia.
+Signs and symptoms of hyponatremia include headache, new or increased seizure frequency, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
+Consider discontinuing carbamazepine in patients with symptomatic hyponatremia.
 
 ## Usage in Pregnancy
 
 Carbamazepine can cause fetal harm when administered to a pregnant woman.
 
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
-There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g. craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
+There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
 When treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -157,9 +164,9 @@ Before initiating therapy, a detailed history and physical examination should be
 
 Carbamazepine should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see INDICATIONS AND USAGE).
 
-Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second and third degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
+Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second- and third-degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
 
-AV heart block, including second and third degree block, have been reported following carbamazepine treatment.
+AV heart block, including second- and third-degree block, have been reported following carbamazepine treatment.
 This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
@@ -219,8 +226,6 @@ In addition, measurement of drug serum levels may aid in determining the cause o
 
 Thyroid function tests have been reported to show decreased values with carbamazepine administered alone.
 
-Hyponatremia has been reported in association with carbamazepine use, either alone or in combination with other drugs.
-
 Interference with some pregnancy tests has been reported.
 
 ## Drug Interactions
@@ -261,7 +266,7 @@ When used concomitantly with carbamazepine tablets, monitoring of concentrations
   If carbamazepine is later withdrawn, the aripiprazole dose should be reduced.
 - When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
 - The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
-  If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
+  If patients must be co-administered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
 - The use of carbamazepine with lapatinib should generally be avoided.
   If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.
   If carbamazepine is discontinued, the lapatinib dose should be reduced.
@@ -275,10 +280,9 @@ In addition, carbamazepine tablets causes, or would be expected to cause, decrea
 
 - Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A.
   The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic co-administration of CYP3A4 inducers.
-  There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
+  There is a potential for increased cyclophosphamide toxicity when co-administered with carbamazepine.
 - Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
 - Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
-- Concomitant medication with carbamazepine and some diuretics (e.g., hydrochlorothiazide, furosemide) may lead to symptomatic hyponatremia.
 - Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
 - Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
   Breakthrough bleeding and unintended pregnancies have been reported.

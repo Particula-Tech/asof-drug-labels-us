@@ -11,7 +11,7 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System
 
-Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, anemia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
+Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
 Skin
 
@@ -20,7 +20,7 @@ In certain cases, discontinuation of therapy may be necessary.
 
 Cardiovascular System
 
-Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g. pulmonary embolism), and adenopathy or lymphadenopathy.
+Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
 
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
@@ -41,7 +41,7 @@ Genitourinary System
 
 Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence.
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.
-There have been very rare reports of impaired male fertility and/or abnormal spermatogenesis.
+There have been rare reports of impaired male fertility and/or abnormal spermatogenesis.
 
 Testicular atrophy occurred in rats receiving carbamazepine orally from 4 to 52 weeks at dosage levels of 50 to 400 mg/kg/day.
 Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related incidence of testicular atrophy and aspermatogenesis.
@@ -62,7 +62,7 @@ Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, a
 
 Eyes
 
-Scattered punctate cortical lens opacities, increased intraocular pressure as well as conjunctivitis, have been reported.
+Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General) as well as conjunctivitis, have been reported.
 Although a direct causal relationship has not been established, many phenothiazines and related drugs have been shown to cause eye changes.
 
 Musculoskeletal System
@@ -72,9 +72,9 @@ Aching joints and muscles, and leg cramps.
 Metabolism
 
 Fever and chills.
-Inappropriate antidiuretic hormone (ADH) secretion syndrome has been reported.
-Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion, have been reported in association with carbamazepine use (see PRECAUTIONS, Laboratory Tests).
-Decreased levels of plasma calcium leading to osteoporosis have been reported.
+Hyponatremia (see WARNINGS, General).
+Decreased levels of plasma calcium have been reported.
+Osteoporosis has been reported.
 
 Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.
