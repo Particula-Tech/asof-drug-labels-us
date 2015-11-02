@@ -13,14 +13,14 @@ In studies in which rats received oral doses of gabapentin (500 to 2000 mg/kg/da
 The lowest effect dose for developmental toxicity in rats is approximately equal to the MRHD on a mg/m2 basis.
 
 When pregnant rabbits were treated with gabapentin during the period of organogenesis, an increase in embryo-fetal mortality was observed at all doses tested (60, 300, or 1500 mg/kg).
-The lowest effect dose for embryo-fetal developmental toxicity in rabbits is less than the MRHD on a mg/m basis.
+The lowest effect dose for embryo-fetal developmental toxicity in rabbits is less than the MRHD on a mg/m2 basis.
 
 In a published study, gabapentin (400 mg/kg/day) was administered by intraperitoneal injection to neonatal mice during the first postnatal week, a period of synaptogenesis in rodents (corresponding to the last trimester of pregnancy in humans).
 Gabapentin caused a marked decrease in neuronal synapse formation in brains of intact mice and abnormal neuronal synapse formation in a mouse model of synaptic repair.
 Gabapentin has been shown in vitro to interfere with activity of the α2δ subunit of voltage-activated calcium channels, a receptor involved in neuronal synaptogenesis.
 The clinical significance of these findings is unknown.
 
-To provide information regarding the effects of in utero exposure to Gabapentin, physicians are advised to recommend that pregnant patients taking gabapentin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To provide information regarding the effects of in utero exposure to gabapentin, physicians are advised to recommend that pregnant patients taking gabapentin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
@@ -28,7 +28,7 @@ Information on the registry can also be found at the website http://www.aedpregn
 
 Gabapentin is secreted into human milk following oral administration.
 A nursed infant could be exposed to a maximum dose of approximately 1 mg/kg/day of gabapentin.
-Because the effect on the nursing infant is unknown, Gabapentin should be used in women who are nursing only if the benefits clearly outweigh the risks.
+Because the effect on the nursing infant is unknown, gabapentin should be used in women who are nursing only if the benefits clearly outweigh the risks.
 
 ## 8.4 Pediatric Use
 

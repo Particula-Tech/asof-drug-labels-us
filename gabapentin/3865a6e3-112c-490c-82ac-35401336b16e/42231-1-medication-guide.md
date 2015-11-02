@@ -54,15 +54,16 @@ Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of
 
 3.
 Gabapentin tablets may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
-You may or may not have rash when you get this type of reaction.
-It may cause you to be hospitalized or to stop gabapentin.
+This may cause you to be hospitalized or to stop gabapentin.
+You may or may not have a rash with an allergic reaction caused by gabapentin.
 Call a healthcare provider right away if you have any of the following symptoms:
 
 - •skin rash
 - •hives
+- •difficulty breathing
 - •fever
 - •swollen glands that do not go away
-- •swelling of your lip and tongue
+- •swelling of your face, lips, throat, or tongue
 - •yellowing of your skin or of the whites of the eyes
 - •unusual bruising or bleeding
 - •severe fatigue or weakness
@@ -90,6 +91,7 @@ Before taking gabapentin tablets, tell your healthcare provider if you:
 
 - •have or have had kidney problems or are on hemodialysis
 - •have or have had depression, mood problems, or suicidal thoughts or behavior
+- •have diabetes
 - •are pregnant or plan to become pregnant.
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin tablets.
@@ -136,7 +138,7 @@ See "What is the most important information I should know about gabapentin table
 
 - •problems driving while using gabapentin tablets.
   See "What I should avoid while taking gabapentin tablets?"
-- •sleepiness and dizziness
+- •sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
 - •The most common side effects of gabapentin tablets include:
 - •lack of coordination
 - •viral infection
@@ -200,4 +202,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-May 2015
+October 2015

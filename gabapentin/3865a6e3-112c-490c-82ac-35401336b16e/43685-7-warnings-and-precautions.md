@@ -12,17 +12,23 @@ It is important to note that early manifestations of hypersensitivity, such as f
 If such signs or symptoms are present, the patient should be evaluated immediately.
 Gabapentin should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.2 Effects on Driving and Operating Heavy Machinery
+## 5.2 Anaphylaxis and Angioedema
+
+Gabapentin can cause anaphylaxis and angioedema after the first dose or at any time during treatment.
+Signs and symptoms in reported cases have included difficulty breathing, swelling of the lips, throat, and tongue, and hypotension requiring emergency treatment.
+Patients should be instructed to discontinue gabapentin and seek immediate medical care should they experience signs or symptoms of anaphylaxis or angioedema.
+
+## 5.3 Effects on Driving and Operating Heavy Machinery
 
 Patients taking gabapentin should not drive until they have gained sufficient experience to assess whether gabapentin impairs their ability to drive.
 Driving performance studies conducted with a prodrug of gabapentin (gabapentin enacarbil tablet, extended release) indicate that gabapentin may cause significant driving impairment.
-Prescribers and patients should be aware that patients' ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
+Prescribers and patients should be aware that patients’ ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
 The duration of driving impairment after starting therapy with gabapentin is unknown.
-Whether the impairment is related to somnolence [see Warnings and Precautions (5.3)] or other effects of gabapentin is unknown.
+Whether the impairment is related to somnolence [see Warnings and Precautions (5.4)] or other effects of gabapentin is unknown.
 
-Moreover, because gabapentin causes somnolence and dizziness [see Warnings and Precautions (5.3)], patients should be advised not to operate complex machinery until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to perform such tasks.
+Moreover, because gabapentin causes somnolence and dizziness [see Warnings and Precautions (5.4)], patients should be advised not to operate complex machinery until they have gained sufficient experience on gabapentin to assess whether gabapentin impairs their ability to perform such tasks.
 
-## 5.3 Somnolence/Sedation and Dizziness
+## 5.4 Somnolence/Sedation and Dizziness
 
 During the controlled epilepsy trials in patients older than 12 years of age receiving doses of gabapentin up to 1800 mg daily, somnolence, dizziness, and ataxia were reported at a greater rate in patients receiving gabapentin compared to placebo: i.e., 19% in drug versus 9% in placebo for somnolence, 17% in drug versus 7% in placebo for dizziness, and 13% in drug versus 6% in placebo for ataxia.
 In these trials somnolence, ataxia and fatigue were common adverse reactions leading to discontinuation of gabapentin in patients older than 12 years of age, with 1.2%, 0.8% and 0.6% discontinuing for these events, respectively.
@@ -30,7 +36,10 @@ In these trials somnolence, ataxia and fatigue were common adverse reactions lea
 During the controlled trials in patients with post-herpetic neuralgia, somnolence and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin, in dosages up to 3600 mg per day: i.e., 21% in gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
-## 5.4 Withdrawal Precipitated Seizure, Status Epilepticus
+Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
+In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.2)].
+
+## 5.5 Withdrawal Precipitated Seizure, Status Epilepticus
 
 Antiepileptic drugs should not be abruptly discontinued because of the possibility of increasing seizure frequency.
 
@@ -39,7 +48,7 @@ Among the 2074 patients >12 years of age treated with gabapentin across all epil
 Of these, 14 patients had no prior history of status epilepticus either before treatment or while on other medications.
 Because adequate historical data are not available, it is impossible to say whether or not treatment with gabapentin is associated with a higher or lower rate of status epilepticus than would be expected to occur in a similar population not treated with gabapentin.
 
-## 5.5 Suicidal Behavior and Ideation
+## 5.6 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including gabapentin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -53,16 +62,17 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-TABLE 2.Risk by indication for antiepileptic drugs in the pooled analysis
+TABLE 2.
+Risk by indication for antiepileptic drugs in the pooled analysis
 
-| Indication | Placebo Patients with Events Per1000 Patients | Drug Patientswith Events Per1000 Patients | Relative Risk:Incidence ofEvents in DrugPatients/Incidencein PlaceboPatients | Risk Difference:Additional DrugPatients withEvents Per 1000Patients |
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Other | 1 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -74,27 +84,27 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age)
+## 5.7 Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age)
 
-Gabapentin use in pediatric patients with epilepsy 3–12 years of age is associated with the occurrence of central nervous system related adverse reactions.
+Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is associated with the occurrence of central nervous system related adverse reactions.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
 Among the gabapentin-treated patients, most of the reactions were mild to moderate in intensity.
 
-In controlled clinical epilepsy trials in pediatric patients 3–12 years of age, the incidence of these adverse reactions was: emotional lability 6% (gabapentin-treated patients) vs. 1.3% (placebo-treated patients); hostility 5.2% vs. 1.3%; hyperkinesia 4.7% vs. 2.9%; and thought disorder 1.7% vs. 0%.
+In controlled clinical epilepsy trials in pediatric patients 3 to 12 years of age, the incidence of these adverse reactions was: emotional lability 6% (gabapentin-treated patients) vs. 1.3% (placebo-treated patients); hostility 5.2% vs. 1.3%; hyperkinesia 4.7% vs. 2.9%; and thought disorder 1.7% vs. 0%.
 One of these reactions, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
-## 5.7 Tumorigenic Potential
+## 5.8 Tumorigenic Potential
 
 In an oral carcinogenicity study, gabapentin increased the incidence of pancreatic acinar cell tumors in rats [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
-Clinical experience during gabapentin's premarketing development provides no direct means to assess its potential for inducing tumors in humans.
+Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
-In clinical studies in adjunctive therapy in epilepsy comprising 2085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin's lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
+In clinical studies in adjunctive therapy in epilepsy comprising 2085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
 Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
 
-## 5.8 Sudden and Unexplained Death in Patients with Epilepsy
+## 5.9 Sudden and Unexplained Death in Patients with Epilepsy
 
 During the course of premarketing development of gabapentin, 8 sudden and unexplained deaths were recorded among a cohort of 2203 epilepsy patients treated (2103 patient-years of exposure) with gabapentin.
 
