@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207793"
+  ],
+  "inn": "irinotecan",
+  "labeler": "Merrimack Pharmaceuticals",
+  "package_ndcs": [
+    "69171-398-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Onivyde"
+    }
+  ],
+  "setid": "52ef5879-4cb5-443a-a355-5de14c497f22",
+  "source": "dailymed"
+}
