@@ -5,12 +5,13 @@
   "inn": "travoprost",
   "labeler": "Alcon Laboratories, Inc",
   "package_ndcs": [
+    "0065-0260-02",
     "0065-0260-05",
     "0065-0260-25"
   ],
   "products": [
     {
-      "form": "SOLUTION",
+      "form": "SOLUTION/ DROPS",
       "generic": "travoprost",
       "name": "Travatan Z"
     }

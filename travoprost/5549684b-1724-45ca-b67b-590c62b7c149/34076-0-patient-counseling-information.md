@@ -30,7 +30,7 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 
 Rx Only
 
-U.S. Patent Nos. 5,631,287; 5,889,052; 6,011,062; 6,235,781; 6,503,497 and 6,849,283
+U.S. Patent Nos. 5,631,287; 5,889,052; 6,011,062; 6,235,781; 6,503,497; 6,849,253; 8,323,630
 
 * TIMOPTIC is a registered trademark of Merck & Co., Inc.
 
@@ -40,6 +40,6 @@ ALCON LABORATORIES, INC.
 
 Fort Worth, Texas 76134 USA
 
-© 2006, 2010, 2011 Novartis
+© 2006, 2010, 2011, 2013 Novartis
 
-9007509-1111
+9007509-0113
