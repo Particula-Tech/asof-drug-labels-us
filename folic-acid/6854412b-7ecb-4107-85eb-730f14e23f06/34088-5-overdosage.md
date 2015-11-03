@@ -1,0 +1,5 @@
+# OVERDOSAGE
+
+Except during pregnancy and lactation, folic acid should not be given in therapeutic doses greater than 0.4 mg daily until pernicious anemia has been ruled out.
+Patients with pernicious anemia receiving more than 0.4 mg of folic acid daily who are inadequately treated with vitamin B12 may show reversion of the hematologic parameters to normal, but neurologic manifestations due to vitamin B12 deficiency will progress.
+Doses of folic acid exceeding the Recommended Dietary Allowance (RDA) should not be included in multivitamin preparations; if therapeutic amounts are necessary, folic acid should be given separately.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204418"
+  ],
+  "inn": "folic-acid",
+  "labeler": "SUNRISE PHARMACEUTICAL, INC.",
+  "package_ndcs": [
+    "11534-165-01",
+    "11534-165-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "folic acid",
+      "name": "FOLIC ACID"
+    }
+  ],
+  "setid": "6854412b-7ecb-4107-85eb-730f14e23f06",
+  "source": "dailymed"
+}
