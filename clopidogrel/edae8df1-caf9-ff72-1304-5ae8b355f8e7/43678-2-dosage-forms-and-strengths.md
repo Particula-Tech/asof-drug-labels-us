@@ -1,3 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- Clopidogrel Tablets, USP 75 mg are pink, round, biconvex, film coated tablets, engraved "APO" on one side and "CL" over "75" on the other side.
+Clopidogrel tablets, USP 75 mg are pink, round, biconvex, film coated tablets, engraved "APO" on one side and "CL" over "75" on the other side.
+
+Clopidogrel tablets, USP 300 mg are pink, oblong, biconvex, film coated tablets engraved "APO" on one side and "CL 300" on the other side.

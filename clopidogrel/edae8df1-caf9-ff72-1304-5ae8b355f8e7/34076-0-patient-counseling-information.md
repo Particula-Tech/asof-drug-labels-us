@@ -34,7 +34,7 @@ Ask patients to list all prescription medications, over-the-counter medications,
 
 APOTEX INC.
 
-CLOPIDOGREL TABLETS, USP 75 mg
+CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 
 Manufactured by Manufactured for
 
@@ -44,7 +44,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 33326
 
-Revised: January 2014
+Revised: September 2015
 
 Rev.
-19
+20

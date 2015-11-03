@@ -30,14 +30,10 @@ PRINCIPAL DISPLAY PANEL - 300 mg
 
 Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
-APOTEX CORP. NDC 60505-3532-0
-
-Clopidogrel bisulfate
+APOTEX CORP. NDC 60505-3532-5
 
 300 mg
 
 Rx only
 
-100 Tablets (10 x 10 unit dose)
-
-Dispense with Medication Guide
+500 Tablets

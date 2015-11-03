@@ -22,13 +22,7 @@ Other bleeding events that were reported more frequently in the clopidogrel grou
 
 The overall incidence of bleeding is described in Table 1.
 
-Ninety-two percent (92%) of the patients in the CURE study received heparin or low molecular weight heparin (LMWH), and the rate of bleeding in these patients was similar to the overall results.
-
-COMMIT
-
-In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisulfate and placebo groups, both of which also received aspirin (see Table 2).
-
-| Table 1: CURE Incidence of Bleeding Complications (% patients)Table 1: CURE Incidence of Bleeding Complications (% patients) |  |  |
+| TABLE 1: CURE Incidence of Bleeding Complications (% patients) |  |  |
 | --- | --- | --- |
 | Event | Clopidogrel Bisulfate (+aspirin) * (n=6259) | Placebo (+ aspirin) * (n=6303) |
 | Major bleeding † | 3.7 ‡ | 2.7 § |
@@ -51,11 +45,11 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisu
 
 ‡ Major bleeding event rate for clopidogrel bisulfate + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100 to 200 mg = 3.5%; >200 mg = 4.9%.
 
-Major bleeding event rates for clopidogrel + aspirin by age were: < 65 years = 2.5%, ³ 65 to < 75 years = 4.1%, ³ 75 years = 5.9%.
+Major bleeding event rates for clopidogrel + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9%.
 
 § Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2.0%; 100 to 200 mg = 2.3%; >200 mg = 4.0%.
 
-Major bleeding event rates for placebo + aspirin by age were: < 65 years = 2.1%, ³ 65 to < 75 years = 3.1%, ³ 75 years = 3.6%.
+Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6%.
 
 ¶ Led to interruption of study medication.
 
@@ -113,5 +107,5 @@ Because these reactions are reported voluntarily from a population of an unknown
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension

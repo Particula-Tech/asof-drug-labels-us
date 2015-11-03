@@ -48,7 +48,7 @@ As shown in Table 5 and Figure 4 and Figure 5 below, clopidogrel significantly r
 
 Table 5: Outcome Events in the COMMIT Analysis
 
-| Events | Clopidogrel (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
+| Event | Clopidogrel (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
 | Death Non-fatal MI** Non-fatal Stroke** | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |

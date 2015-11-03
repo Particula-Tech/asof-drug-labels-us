@@ -1,6 +1,6 @@
 # Medication Guide
 
-Clopidogrel Bisulfate Tablets, USP 75 mg
+Clopidogrel Bisulfate Tablets, USP 75 mg and 300 mg
 
 (kloe pid’ oh grel bye sul’ fate)
 
@@ -10,17 +10,22 @@ This Medication Guide does not take the place of talking with your doctor about 
 
 What is the most important information I should know about clopidogrel tablets?
 
-1. Clopidogrel tablets may not work as well in people who:
-   - have certain genetic factors that affect how the body breaks down clopidogrel.
-     Your doctor may do genetic tests to make sure clopidogrel is right for you.
-   - take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
-     Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
-2. Clopidogrel tablets can cause bleeding which can be serious and can sometimes lead to death.
-   Clopidogrel is a blood thinner medicine that lowers the chance of blood clots forming in your body.
-   While you take clopidogrel tablets:
-   - you may bruise and bleed more easily
-   - you are more likely to have nose bleeds
-   - it will take longer for any bleeding to stop
+1.
+Clopidogrel tablets may not work as well in people who:
+
+- have certain genetic factors that affect how the body breaks down clopidogrel.
+  Your doctor may do genetic tests to make sure clopidogrel is right for you.
+- take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
+  Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
+
+2.
+Clopidogrel tablets can cause bleeding which can be serious and can sometimes lead to death.
+Clopidogrel is a blood thinner medicine that lowers the chance of blood clots forming in your body.
+While you take clopidogrel tablets:
+
+- you may bruise and bleed more easily
+- you are more likely to have nose bleeds
+- it will take longer for any bleeding to stop
 
 Call your doctor right away if you have any of these signs or symptoms of bleeding:
 
@@ -141,7 +146,7 @@ Clopidogrel tablets can cause serious side effects including:
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
-Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
+Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -167,7 +172,7 @@ This Medication Guide summarizes the most important information about clopidogre
 If you would like more information, talk to your doctor.
 Ask your doctor or pharmacist for information about clopidogrel that was written for healthcare professionals.
 
-For more information, go to www.apotex.com or call 1-800-667-4708.
+For more information, go to www.apotex.com or call 1-800-706-5575.
 
 What are the ingredients in clopidogrel tablets?
 
@@ -185,7 +190,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 APOTEX INC.
 
-CLOPIDOGREL TABLETS, USP 75 mg
+CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -193,10 +198,10 @@ CLOPIDOGREL TABLETS, USP 75 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: January 2014
+Revised: September 2015
 
 Rev.
-19
+20
 
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® is a registered trademark of AstraZeneca.
