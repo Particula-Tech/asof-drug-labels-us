@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Benzonatate Capsules USP, 200 mg are available as yellow, oval soft gelatin capsules with ‘N01’ imprinted in white ink.
+Benzonatate Capsules USP, 200 mg are available as yellow, oval soft gelatin capsules with ‘2’ imprinted in white ink.
 
 Bottles of 100
 
