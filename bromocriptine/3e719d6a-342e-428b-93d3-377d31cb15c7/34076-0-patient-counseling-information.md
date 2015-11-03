@@ -22,7 +22,7 @@ Patients should be instructed to inform their healthcare provider if they develo
 
 Manufactured for: VeroScience, LLC Tiverton, RI
 
-Distributed and Marketed by: Santarus, Inc. San Diego, CA
+Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 Printed in USA
 
@@ -33,7 +33,5 @@ CYCLOSET is a registered trademark of
 VeroScience, LLC, Tiverton, RI 02878
 
 This product is covered by one or more of the following: U.S. Patent Nos. 5,468,755; 5,679,685; 5,716,957; 5,756,513; 5,866,584
-
-S0050A
 
 ## 17.2 FDA-Approved Patient Labeling

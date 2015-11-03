@@ -9,8 +9,12 @@
   The concurrent use of these ergot agents within 6 hours of CYCLOSET dosing is not recommended.
 - CYCLOSET is extensively metabolized by the liver via CYP3A4.
   Therefore, potent inhibitors or inducers of CYP3A4 may increase or reduce the circulating levels of CYCLOSET, respectively.
-  Use caution when co-administering drugs that are strong inhibitors, inducers, or substrates of CYP3A4 (e.g., azole antimycotics, HIV protease inhibitors) [See Phamacokinetics (12.3)].
+  Use caution when co-administering drugs that are inhibitors or inducers of CYP3A4.
+  CYCLOSET dose should not exceed 1.6 mg once daily during concomitant use of a moderate CYP3A4 inhibitor (e.g., erythromycin).
+  Concomitant use of strong CYP3A4 inhibitors (e.g., azole antimycotics, HIV protease inhibitors) with CYCLOSET should be avoided.
+  Ensure adequate washout of the strong CYP3A4 inhibitor drug before initiating CYCLOSET treatment.
+  [See Phamacokinetics (12.3)].
 - There are postmarketing reports of hypertension and tachycardia when bromocriptine was co-administered with sympathomimetic drugs (e.g. phenylpropanolamine and isometheptene) in postpartum women.
   There are limited clinical trial data supporting the safety of co-administering sympathomimetic drugs and CYCLOSET for more than 10 days.
-  Therefore, concomitant use of these agents with CYCLOSET for more than 10 days duration is not recommended.
+  Therefore, concomitant use of these agents with CYCLOSETfor more than 10 days duration is not recommended.
   Also, there are limited clinical trial data supporting the safety of selective 5-hydroxytryptamine1B (5-HT1B) agonists (e.g. sumatriptan) used concurrently with CYCLOSET and the concomitant use of these agents with CYCLOSET should be avoided.

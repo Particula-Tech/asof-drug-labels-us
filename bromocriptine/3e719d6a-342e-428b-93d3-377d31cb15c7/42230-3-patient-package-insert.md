@@ -1,4 +1,4 @@
-Patient Information CYCLOSET® [Si'klo'set] (Bromocriptine Mesylate) Tablets
+Patient Information CYCLOSET®[Si'klo'set](Bromocriptine Mesylate) Tablets
 
 Read the Patient Information before you start taking CYCLOSET and each time you get a refill.
 There may be new information.
@@ -123,10 +123,10 @@ Issued September 2010
 
 Manufactured for: VeroScience, LLC Tiverton, RI
 
-Distributed and Marketed by: Santarus, Inc. San Diego, CA
+Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 For information for health care professionals, call 1-877-757-0666
 
-Revised 09/2010
+Revised 10/2015
 
 CYCLOSET is a registered trademark of VeroScience, LLC, Tiverton, RI 02878

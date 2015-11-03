@@ -2,11 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-CYCLOSET contains bromocriptine mesylate, an ergot derivative that is a dopamine receptor agonist.
-The mechanism by which CYCLOSET improves glycemic control is unknown.
-Morning administration of CYCLOSET improves glycemic control in patients with type 2 diabetes without increasing plasma insulin concentrations.
-
-Once daily morning administration of CYCLOSET to humans increases circulating levels of bromocriptine, a dopamine receptor agonist, for 4-5 hours after administration.
+CYCLOSET contains bromocriptine mesylate, a sympatholytic, dopamine D2 receptor agonist.
+In patients with type 2 diabetes, timed morning administration of CYCLOSET is associated with increased insulin sensitivity and glucose disposal and reduced fasting and postprandial hyperglycemia throughout the meals of the day without raising plasma insulin levels.
 
 ## 12.2 Pharmacodynamics
 
@@ -17,12 +14,17 @@ At baseline and study end, plasma samples for insulin and glucose were obtained 
 In this trial, once-daily (8 a.m.)
 CYCLOSET improved post-prandial glucose without increasing plasma insulin concentrations.
 
+Insulin-mediated glucose disposal
+
+Patients with type 2 diabetes and inadequate glycemic control on sulfonylurea therapy were randomized to CYCLOSET or placebo in a 16-week clinical trial.
+In this trial CYCLOSET therapy improved insulin-mediated glucose disposal and glucose tolerance and resulted in lower plasma glucose and HbA1c levels.
+
 ## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability
 
 When administered orally, approximately 65-95% of the CYCLOSET dose of bromocriptine mesylate is absorbed.
-Due to extensive hepatic extraction and first-pass metabolism, approximately 7% of the dose reaches the systemic circulation.
+Due to extensive first-pass metabolism, approximately 7% of the dose reaches the systemic circulation.
 Under fasting conditions the time to maximum plasma concentration is 53 minutes.
 In contrast, following a standard high-fat meal, the time to maximum plasma concentration is increased to approximately 90-120 minutes.
 Also, the relative bioavailability of CYCLOSET is increased under fed as compared to fasting conditions by an average of approximately 55-65% (increase in AUCinf).
@@ -73,16 +75,16 @@ Race
 
 Studies characterizing the pharmacokinetics of CYCLOSET among different ethnic groups have not been performed.
 
-In Vitro Assessment of Drug Interactions
+Drug Interactions
 
-Results from in vitro studies demonstrate that CYP3A4 is the major enzyme responsible for the metabolism of bromocriptine.
-Bromocriptine is a competitive inhibitor of CYP3A4.
-The inhibitory potency for CYP3A4 is approximately 10,000-fold higher than the maximum plasma levels reached in vivo (Cmax of approximately 80-125 pg/mL) following a 4.8 mg oral dose of CYCLOSET.
+In Vitro Assessment
+
+Although bromocriptine is a competitive inhibitor of CYP3A4, in vivo drug interaction potential is low because the inhibitory potency for CYP3A4 is approximately 10,000-fold higher than the maximum plasma levels reached in vivo (Cmax of approximately 80-125 pg/mL) following a 4.8 mg oral dose of CYCLOSET.
 
 Agents inducing CYP3A4 activity such as rifampin or dexamethasone would be expected to decrease CYCLOSET plasma levels.
 There was no significant in vitro inhibition of other major CYP450 enzymes (1A2, 2C9/19, 2D6) by bromocriptine.
 
-In Vivo Assessment of Drug Interactions
+In Vivo Assessment
 
 The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8 fold) and Cmax (4.6 fold) of bromocriptine.
-Therefore, use caution when co-administering drugs that are strong inhibitors or substrates of this enzyme, such as azole antimycotics and HIV protease inhibitors.
+[See Use with Concomitant Therapy (2.3), DRUG INTERACTION (7)].
