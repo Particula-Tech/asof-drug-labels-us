@@ -118,9 +118,9 @@ Table 12: Summary of Baseline Patient and Disease Characteristics
 | --- | --- | --- |
 | Median age in years (range) | 61 (28, 85) | 62 (34, 88) |
 | % Male/female | 58 / 42 | 54 / 46 |
-| % Caucasian/Black/other | 90 / 6/ 4 | 94 / 4 / 2 |
+| % Caucasian/Black/other | 90 / 6 / 4 | 94 / 4 / 2 |
 | Disease Characteristics |  |  |
-| % with IgG/IgA/Light chain | 57 / 27 / 12 | 62 / 24 /11 |
+| % with IgG/IgA/Light chain | 57 / 27 / 12 | 62 / 24 / 11 |
 | % β2-microglobulin group |  |  |
 | ≤2.5 mg/L | 14 | 14 |
 | >2.5 mg/L and ≤5.5 mg/L | 56 | 55 |
@@ -152,7 +152,7 @@ Table 13: Efficacy of DOXIL in Combination With Bortezomib in the Treatment of P
 | Progression or death due to progression (n) | 99 | 150 |
 | Censored (n) | 225 | 172 |
 | Median in days (months) | 282 (9.3) | 197 (6.5) |
-| 95% CI | 250;338 | 170;217 |
+| 95% CI | 250; 338 | 170; 217 |
 | Hazard ratioHazard ratio based on stratified Cox proportional hazards regression. A hazard ratio < 1 indicates an advantage for DOXIL+bortezomib. | 0.55 |  |
 | (95% CI) | (0.43, 0.71) |  |
 | p-valueStratified log-rank test. | <0.001 |  |
@@ -162,13 +162,13 @@ Table 13: Efficacy of DOXIL in Combination With Bortezomib in the Treatment of P
 | % CR + PR | 48 | 43 |
 | p-valueCochran-Mantel-Haenszel test adjusted for the stratification factors. | 0.25 |  |
 | Median Duration of Response (months) | 10.2 | 7.0 |
-| (95% CI) | (10.2;12.9) | (5.9;8.3) |
+| (95% CI) | (10.2; 12.9) | (5.9; 8.3) |
 
 | Figure 1- Time to Progression Kaplan-Meier Curve |
 | --- |
 
 At the final analysis of survival, 78% of subjects in the DOXIL and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had died after a median follow up of 8.6 years.
 The median survival was 33 months in the DOXIL and bortezomib combination therapy group and 31 months in the bortezomib monotherapy group.
-There was no difference observed in overall survival at the final analysis [HR for DOXIL + bortezomib vs. bortezomib= 0.96 (95% CI 0.80, 1.14)].
+There was no difference observed in overall survival at the final analysis [HR for DOXIL + bortezomib vs. bortezomib = 0.96 (95% CI 0.80, 1.14)].
 
 Seventy-eight percent of subjects in the DOXIL and bortezomib combination therapy group and 80% of subjects in the bortezomib monotherapy group had received subsequent therapy.
