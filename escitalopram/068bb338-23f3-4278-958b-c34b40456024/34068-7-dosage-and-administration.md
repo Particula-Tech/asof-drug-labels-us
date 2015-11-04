@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Escitalopram tablets, USP should be administered once daily, in the morning or evening, with or without food.
 

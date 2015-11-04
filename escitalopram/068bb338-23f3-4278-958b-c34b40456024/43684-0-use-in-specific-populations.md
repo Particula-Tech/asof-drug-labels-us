@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -38,7 +38,7 @@ These features are consistent with either a direct toxic effect of SSRIs and SNR
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
 
 Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1-2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
 Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including escitalopram oxalate) in pregnancy and PPHN.
 Other studies do not show a significant statistical association.
 
@@ -55,19 +55,21 @@ The effect of escitalopram tablets on labor and delivery in humans is unknown.
 ## 8.3 Nursing Mothers
 
 Escitalopram is excreted in human breast milk.
-Limited data from women taking 10-20 mg escitalopram showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
+Limited data from women taking 10 to 20 mg escitalopram showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
 There were two reports of infants experiencing excessive somnolence, decreased feeding, and weight loss in association with breastfeeding from a racemic citalopram-treated mother; in one case, the infant was reported to recover completely upon discontinuation of racemic citalopram by its mother and, in the second case, no follow-up information was available.
 Caution should be exercised and breastfeeding infants should be observed for adverse reactions when escitalopram oxalate is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of escitalopram oxalate has not been established in pediatric patients (less than 12 years of age) with Major Depressive Disorder.
-Safety and effectiveness of escitalopram oxalate has been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
-Although maintenance efficacy in adolescent patients with Major Depressive Disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
+The Safety and effectiveness of escitalopram oxalate have been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
+Although maintenance efficacy in adolescent patients with major depressive disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
+
+The safety and effectiveness of escitalopram oxalate have not been established in pediatric (younger than 12 years of age) patients with major depressive disorder.
+In a 24-week, open-label safety study in 118 children (aged 7 to 11 years) who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for escitalopram oxalate.
 
 Safety and effectiveness of escitalopram oxalate has not been established in pediatric patients less than 18 years of age with Generalized Anxiety Disorder.
 
-Decrease appetite and weight loss have been observed in association with the use of SSRIs.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
 Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as escitalopram oxalate.
 
 ## 8.5 Geriatric Use

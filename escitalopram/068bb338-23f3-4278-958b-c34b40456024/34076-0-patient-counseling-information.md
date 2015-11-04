@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved Medication Guide
 
@@ -81,7 +81,7 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8050635 Revised August 2014
+8052703 Revised January 2015
 
 ## 17.2 FDA-Approved Medication Guide
 
@@ -208,7 +208,7 @@ Do not take escitalopram tablets if you:
 
 - are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in escitalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in escitalopram tablets.
-- If you take a monoamine oxidase inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician.
 - Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
@@ -315,7 +315,7 @@ YOU MAY REPORT SIDE EFFECTS TO FDA AT 1-800-FDA-1088.
 
 How should I store escitalopram tablets?
 
-- Store escitalopram tablets at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
+- Store escitalopram tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep escitalopram tablets bottle closed tightly.
 
 Keep escitalopram tablets and all medicines out of the reach of children.
@@ -353,6 +353,6 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8050636 Revised August 2014
+8053133 Revised January 2015
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

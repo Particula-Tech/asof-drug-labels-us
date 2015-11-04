@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 ## 4.1 Monoamine oxidase inhibitors (MAOIs)
 
