@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Platelet inhibition by clopidogrel bisulfate is irreversible and will last for the life of the platelet.
 Overdose following clopidogrel administration may result in bleeding complications.

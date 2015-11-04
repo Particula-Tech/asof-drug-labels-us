@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Acute Coronary Syndrome
 
@@ -9,10 +9,10 @@ Patients were required to have either ECG changes compatible with new ischemia (
 The patient population was largely Caucasian (82%) and included 38% women, and 52% patients ≥65 years of age.
 
 Patients were randomized to receive clopidogrel bisulfate (300-mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
-Patients also received aspirin (75-325 mg once daily) and other standard therapies such as heparin.
+Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
-The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel bisulfate-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p < 0.001) for the clopidogrel bisulfate-treated group (see Table 4).
+The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel bisulfate-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p < 0.001) for the clopidogrel bisulfate-treated group (see Table 4).
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
@@ -36,7 +36,7 @@ Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE St
 
 In CURE, the use of clopidogrel bisulfate was associated with a lower incidence of CV death, MI or stroke in patient populations with different characteristics, as shown in Figure 3.
 The benefits associated with clopidogrel bisulfate were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
-The efficacy of clopidogrel bisulfate was observed independently of the dose of aspirin (75-325 mg once daily).
+The efficacy of clopidogrel bisulfate was observed independently of the dose of aspirin (75 to 325 mg once daily).
 The use of oral anticoagulants, non-study anti-platelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 Figure3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
@@ -122,7 +122,7 @@ In patients who were enrolled in the trial on the sole basis of a recent myocard
 CHARISMA
 
 The CHARISMA trial was a 15,603 subject, randomized, double-blind, parallel group study comparing clopidogrel bisulfate (75 mg daily) to placebo for prevention of ischemic events in patients with vascular disease or multiple risk factors for atherosclerosis.
-All subjects were treated with aspirin 75-162 mg daily.
+All subjects were treated with aspirin 75 to 162 mg daily.
 The mean duration of treatment was 23 months.
 The study failed to demonstrate a reduction in the occurrence of the primary endpoint, a composite of CV death, MI, or stroke.
 A total of 534 (6.9%) patients in the clopidogrel bisulfate group versus 573 (7.4%) patients in the placebo group experienced a primary outcome event (p=0.22).

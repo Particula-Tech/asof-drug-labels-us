@@ -1,13 +1,13 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Acute Coronary Syndrome
 
 Clopidogrel bisulfate tablets can be administered with or without food [see Clinical Pharmacology (12.3)].
 
 - For patients with non-ST-elevation ACS (UA/NSTEMI), initiate clopidogrel bisulfate tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily.
-  Initiate aspirin (75-325 mg once daily) and continue in combination with clopidogrel bisulfate [see Clinical Studies (14.1)].
-- For patients with STEMI, the recommended dose of clopidogrel bisulfate tablets is 75 mg once daily orally, administered in combination with aspirin (75-325 mg once daily), with or without thrombolytics.
-  Clopidogrel bisulfate tablets may be initiated with or without a loading dose [see Clinical Studies (14.1)].
+  Initiate aspirin (75 to 325 mg once daily) and continue in combination with clopidogrel bisulfate [seeClinicalStudies(14.1)].
+- For patients with STEMI, the recommended dose of clopidogrel bisulfate tablets is 75 mg once daily orally, administered in combination with aspirin (75 to 325 mg once daily), with or without thrombolytics.
+  Clopidogrel bisulfate tablets may be initiated with or without a loading dose [seeClinicalStudies(14.1)].
 
 ## 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease
 

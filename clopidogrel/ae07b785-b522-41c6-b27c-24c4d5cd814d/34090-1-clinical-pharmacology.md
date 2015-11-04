@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -9,7 +9,7 @@ Clopidogrel is an inhibitor of platelet activation and aggregation through the i
 Clopidogrel must be metabolized by CYP450 enzymes to produce the active metabolite that inhibits platelet aggregation.
 The active metabolite of clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
 This action is irreversible.
-Consequently, platelets exposed to clopidogrel’s active metabolite are affected for the remainder of their lifespan (about 7 to 10 days).
+Consequently, platelets exposed to clopidogrel's active metabolite are affected for the remainder of their lifespan (about 7 to 10 days).
 Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
 
 Dose-dependent inhibition of platelet aggregation can be seen 2 hours after single oral doses of clopidogrel bisulfate.
@@ -46,7 +46,7 @@ Effect of Food
 
 Clopidogrel bisulfate can be administered with or without food.
 In a study in healthy male subjects when clopidogrel bisulfate 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
-The active metabolite AUC0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
+The active metabolite AUC0 to 24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
 Similar results were observed when a clopidogrel bisulfate 300 mg loading dose was administered with a high-fat breakfast.
 
 Metabolism
@@ -78,22 +78,20 @@ The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopi
 
 Figure 1: Exposure to Clopidogrel Active Metabolite Following Multiple Doses of clopidogrel tablets 75 mg Alone or with Proton Pump Inhibitors (PPIs)
 
-Change relative to clopidogrel tablets administered alone
-
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 
 ## 12.5 Pharmacogenomics
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
 Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
-Genetic variants of other CYP450 enzymes may also affect the formation of clopidogrel’s active metabolite.
+Genetic variants of other CYP450 enzymes may also affect the formation of clopidogrel's active metabolite.
 
 The CYP2C19*1 allele corresponds to fully functional metabolism while the CYP2C19*2 and *3 alleles are nonfunctional.
 CYP2C19*2 and *3 account for the majority of reduced function alleles in white (85%) and Asian (99%) poor metabolizers.
 Other alleles associated with absent or reduced metabolism are less frequent, and include, but are not limited to, CYP2C19*4, *5, *6, *7, and *8.
 A patient with poor metabolizer status will possess two loss-of-function alleles as defined above.
 Published frequencies for poor CYP2C19 metabolizer genotypes are approximately 2% for whites, 4% for blacks and 14% for Chinese.
-Tests are available to determine a patient’s CYP2C19 genotype.
+Tests are available to determine a patient's CYP2C19 genotype.
 
 A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days.
 Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups.

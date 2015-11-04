@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Clopidogrel tablets, USP 75-mg are available as light pink colored, round, beveled edge, biconvex film coated tablets printed "41" with black ink on one side and plain on the other side.
 Tablets are provide as follow:
@@ -17,4 +17,4 @@ Bottles of 3100 NDC 13668-141-44
 
 100 (10 X 10) Unit Dose Tablets NDC 13668-141-74
 
-Store at 20°- 25° C (68°- 77° F); excursions permitted to 15°- 30° C (59°- 86° F) [See USP Controlled Room Temperature].
+Store at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C (59° to 86° F) [See USP Controlled Room Temperature].

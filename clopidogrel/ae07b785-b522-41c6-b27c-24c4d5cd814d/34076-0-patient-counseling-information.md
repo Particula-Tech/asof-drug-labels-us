@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 [See Medication Guide]
 
@@ -39,13 +39,13 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8044790 Revised January 2014
+8056348 Revised August 2015
 
 Medication Guide
 
-Clopidogrel Tablets, USP
+Clopidogrel (kloe PID oh grel) Tablets, USP
 
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
@@ -114,7 +114,7 @@ Before you take clopidogrel tablets, tell your doctor if you:
 - have a history of bowel (gastrointestinal) or stomach ulcers
 - have a history of bleeding problems
 - plan to have surgery or a dental procedure.
-  See "How should Itake clopidogrel tablets ?
+  See "How should I take clopidogrel tablets?
   "
 - are pregnant or plan to become pregnant.
   It is not known if clopidogrel tablets will harm your unborn baby
@@ -148,6 +148,8 @@ Keep a list of them to show your doctor or pharmacist when you get a new medicin
 
 How should I take clopidogrel tablets?
 
+.
+
 - Take clopidogrel tablets exactly as your doctor tells you.
 - Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
@@ -165,13 +167,13 @@ What are the possible side effects of clopidogrel tablets?
 
 Clopidogrel tablets can cause serious side effects including:
 
-- See "What is the most important information I should know about clopidogrel tablets?"
+- See "What is the most important information I should know about clopidogrel tablets?
+  "
 - A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
   TTP can happen with clopidogrel tablets, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
   TTP needs to be treated in a hospital right away, because it may cause death.
   Get medical help right away if you have any of these symptoms and they can not be explained by another medical condition:
-
 - purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
 - your skin or the whites of your eyes are yellow (jaundice)
 - you feel tired or weak
@@ -190,7 +192,7 @@ Clopidogrel tablets can cause serious side effects including:
 - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
+Tell your doctor if you develop an allergic reaction including skin reactions while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -200,7 +202,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store clopidogrel tablets?
 
-- Store clopidogrel tablets at 20°- 25° C (68°- 77° F); excursions permitted to 15°- 30° C (59°- 86° F) [See USP Controlled Room Temperature].
+- Store clopidogrel tablets at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C (59° to 86° F) [See USP Controlled Room Temperature].
 
 Keep clopidogrel tablets and all medicines out of the reach of children.
 
@@ -215,7 +217,7 @@ This Medication Guide summarizes the most important information about clopidogre
 If you would like more information, talk to your doctor.
 Ask your doctor or pharmacist for information about clopidogrel tablets that was written for healthcare professionals.
 
-For more information, call Torrent Pharma Inc. at 1-269-544-2299
+For more information, call Torrent Pharma Inc. at 1-269-544-2299.
 
 What are the ingredients in clopidogrel tablets?
 
@@ -229,7 +231,7 @@ Film coating: ferric oxide red, hypromellose 2910, and titanium dioxide
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Trade marks are property of their respective owner.
+Trade marks are the property of their respective owners.
 
 Manufactured by:
 
@@ -238,6 +240,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8044791 Revised January 2014
+8056349 Revised August 2015

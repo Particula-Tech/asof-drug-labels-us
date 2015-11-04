@@ -1,9 +1,9 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed below and elsewhere in the labeling:
 
-- Bleeding [see Warnings and Precautions (5.2)]
-- Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.5)]
+- Bleeding [seeWarningsandPrecautions(5.2)]
+- Thrombotic thrombocytopenic purpura [seeWarningsandPrecautions(5.5)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -37,13 +37,13 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 | Significantly disabling | 0.4 | 0.3 |
 | Intraocular bleeding with | 0.05 | 0.03 |
 | significant loss of vision |  |  |
-| Requiring 2-3 units of blood | 1.3 | 0.9 |
+| Requiring 2 to 3 units of blood | 1.3 | 0.9 |
 | Minor bleeding ¶ | 5.1 | 2.4 |
 | * Other standard therapies were used as appropriate. |  |  |
 | † Life-threatening and other major bleeding. |  |  |
-| ‡ Major bleeding event rate for clopidogrel bisulfate + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100-200 mg = 3.5%; >200 mg = 4.9% |  |  |
+| ‡ Major bleeding event rate for clopidogrel bisulfate + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100 to 200 mg = 3.5%; >200 mg = 4.9% |  |  |
 | Major bleeding event rates for clopidogrel bisulfate + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% |  |  |
-| § Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2%; 100-200 mg = 2.3%; >200 mg = 4.0% |  |  |
+| § Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2%; 100 to 200 mg = 2.3%; >200 mg = 4.0% |  |  |
 | Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% |  |  |
 | ¶ Led to interruption of study medication. |  |  |
 
@@ -82,16 +82,16 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 The following adverse reactions have been identified during post-approval use of clopidogrel bisulfate.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
-- Eye disorders: Eye (conjunctival, ocular, retinal) bleeding
-- Gastrointestinal disorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
-- General disorders and administration site condition: Fever, hemorrhage of operative wound
-- Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
-- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
-- Musculoskeletal, connective tissue and bone disorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis
-- Nervous system disorders: Taste disorders, fatal intracranial bleeding, headache
-- Psychiatric disorders: Confusion, hallucinations
-- Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
-- Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
-- Vascular disorders: Vasculitis, hypotension
+- Bloodandlymphaticsystemdisorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
+- Eyedisorders: Eye (conjunctival, ocular, retinal) bleeding
+- Gastrointestinaldisorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
+- Generaldisordersandadministrationsitecondition: Fever, hemorrhage of operative wound
+- Hepato-biliarydisorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
+- Immunesystemdisorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
+- Musculoskeletal, connectivetissueandbonedisorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis
+- Nervoussystemdisorders: Taste disorders, fatal intracranial bleeding, headache
+- Psychiatricdisorders: Confusion, hallucinations
+- Respiratory, thoracicandmediastinaldisorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
+- Renalandurinarydisorders: Increased creatinine levels
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
+- Vasculardisorders: Vasculitis, hypotension
