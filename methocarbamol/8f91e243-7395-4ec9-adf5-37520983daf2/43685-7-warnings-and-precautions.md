@@ -47,7 +47,7 @@ Therefore, methocarbamol should be used with caution in patients with myasthenia
 
 ## Drug and/or Laboratory Test Interactions
 
-Methocarbamol may cause a color interference in certain screening tests for 5‑hydroxyindoleacetic acid (5-HIAA) using nitrosonaphthol reagent and in screening tests for urinary vanillylmandelic acid (VMA) using the Gitlow method.
+Methocarbamol may cause a color interference in certain screening tests for 5-hydroxyindoleacetic acid (5-HIAA) using nitrosonaphthol reagent and in screening tests for urinary vanillylmandelic acid (VMA) using the Gitlow method.
 
 ## Carcinogenesis and Mutagenesis and Impairment of Fertility
 
