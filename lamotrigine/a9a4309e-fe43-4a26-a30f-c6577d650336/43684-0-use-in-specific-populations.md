@@ -48,13 +48,14 @@ Caution should be exercised when lamotrigine is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Lamotrigine tablets are indicated for adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
+Epilepsy Lamotrigine tablets are indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
 Lamotrigine was associated with an increased risk for infectious adverse reactions (lamotrigine 37%, placebo 5%), and respiratory adverse reactions (lamotrigine 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
-Safety and effectiveness in patients younger than 18 years with bipolar disorder have not been established.
-In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
+Additional information describing a clinical study in which efficacy was not demonstrated in pediatric patients ages 10 to 17 years is approved for GlaxoSmithKline LLC’s LAMICTAL® (lamotrigine) Tablets product.
+However, due to GlaxoSmithKline LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Juvenile Animal Data In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
 The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2 basis.
 
 ## 8.5 Geriatric Use
