@@ -1,4 +1,4 @@
-Display Panel- Muse 125 mcg pouch
+MUSE Principal Display Panel - 125 mcg pouch
 
 NDC 0037-8110-01
 
@@ -15,14 +15,14 @@ Disposal: Replace cover on applicator, place in opened pouch, fold, and discard 
 
 Rx only
 
-MUSE is a registered trademark of Meda AB, used under license by Meda Pharmaceuticals Inc.
+MUSE and MEDA PHARMACEUTICALS are registered trademarks and the MEDA PHARMACEUTICALS logo is a trademark of Meda AB or a related entity
 
-MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-LP-100100-02 Revised August 2012 Cat.
-No. 03-10-G01250C U.S. Patent No. 5,886,039
+LP-100100-03 Revised August 2014 Cat.
+No. 03-10-G01250D U.S. Patent No. 5,886,039
 
-Display Panel- Muse 250 mcg pouch
+MUSE Principal Display Panel - 250 mcg pouch
 
 NDC 0037-8120-01
 
@@ -39,14 +39,14 @@ Disposal: Replace cover on applicator, place in opened pouch, fold, and discard 
 
 Rx only
 
-MUSE is a registered trademark of Meda AB, used under license by Meda Pharmaceuticals Inc.
+MUSE and MEDA PHARMACEUTICALS are registered trademarks and the MEDA PHARMACEUTICALS logo is a trademark of Meda AB or a related entity
 
-MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-LP-100200-02 Revised August 2012 Cat.
-No. 03-10-G02500C U.S. Patent No. 5,886,039
+LP-100200-03 Revised August 2014 Cat.
+No. 03-10-G02500D U.S. Patent No. 5,886,039
 
-Display Panel- Muse 500 mcg pouch
+MUSE Principal Display Panel - 500 mcg pouch
 
 NDC 0037-8130-01
 
@@ -63,14 +63,14 @@ Disposal: Replace cover on applicator, place in opened pouch, fold, and discard 
 
 Rx only
 
-MUSE is a registered trademark of Meda AB, used under license by Meda Pharmaceuticals Inc.
+MUSE and MEDA PHARMACEUTICALS are registered trademarks and the MEDA PHARMACEUTICALS logo is a trademark of Meda AB or a related entity
 
-MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-LP-100300-02 Revised August 2012 Cat.
-No. 03-10-G05000C U.S. Patent No. 5,886,039
+LP-100300-03 Revised August 2014 Cat.
+No. 03-10-G05000D U.S. Patent No. 5,886,039
 
-Display Panel- Muse 1000 mcg pouch
+MUSE Principal Display Panel - 1000 mcg pouch
 
 NDC 0037-8140-01
 
@@ -87,9 +87,9 @@ Disposal: Replace cover on applicator, place in opened pouch, fold, and discard 
 
 Rx only
 
-MUSE is a registered trademark of Meda AB, used under license by Meda Pharmaceuticals Inc.
+MUSE and MEDA PHARMACEUTICALS are registered trademarks and the MEDA PHARMACEUTICALS logo is a trademark of Meda AB or a related entity
 
-MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-LP-100400-02 Revised August 2012 Cat.
-No. 03-10-G10000C U.S. Patent No. 5,886,039
+LP-100400-03 Revised August 2014 Cat.
+No. 03-10-G10000D U.S. Patent No. 5,886,039
