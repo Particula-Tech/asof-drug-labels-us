@@ -1,0 +1,3 @@
+# 7 DRUG INTERACTIONS
+
+Formal drug interaction trials have not been performed with NUCALA.
