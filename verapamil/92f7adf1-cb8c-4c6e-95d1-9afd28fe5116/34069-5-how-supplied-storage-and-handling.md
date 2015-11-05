@@ -20,4 +20,4 @@ Protect from moisture.
 Dispense in tight, light-resistant container as defined in USP.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Kremers Urban Pharmaceuticals Inc. at 1-866-822-0068 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to Kremers Urban Pharmaceuticals Inc. at 1-844-599-CARE or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
