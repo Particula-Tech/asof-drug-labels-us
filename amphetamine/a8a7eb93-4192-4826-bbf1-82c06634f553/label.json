@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208147"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-102-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION, EXTENDED RELEASE",
+      "generic": "amphetamine",
+      "name": "Dyanavel XR"
+    }
+  ],
+  "setid": "a8a7eb93-4192-4826-bbf1-82c06634f553",
+  "source": "dailymed"
+}
