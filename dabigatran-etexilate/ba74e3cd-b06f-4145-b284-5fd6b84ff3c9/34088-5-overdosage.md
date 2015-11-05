@@ -1,8 +1,9 @@
 # 10 OVERDOSAGE
 
 Accidental overdose may lead to hemorrhagic complications.
-There is no reversal agent for dabigatran.
 In the event of hemorrhagic complications, initiate appropriate clinical support, discontinue treatment with PRADAXA, and investigate the source of bleeding.
+A specific reversal agent (idarucizumab) is available.
+
 Dabigatran is primarily eliminated by the kidneys with a low plasma protein binding of approximately 35%.
 Hemodialysis can remove dabigatran; however, data supporting this approach are limited.
 Using a high-flux dialyzer, blood flow rate of 200 mL/min, and dialysate flow rate of 700 mL/min, approximately 49% of total dabigatran can be cleared from plasma over 4 hours.

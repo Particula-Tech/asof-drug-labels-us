@@ -3,7 +3,7 @@
 ## 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
 
 Premature discontinuation of any oral anticoagulant, including PRADAXA, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
-If PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4, 2.5, 2.6)].
+If PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant and restart PRADAXA as soon as medically appropriate [see Dosage and Administration (2.4, 2.5, 2.6)].
 
 ## 5.2 Risk of Bleeding
 
@@ -14,7 +14,13 @@ Discontinue PRADAXA in patients with active pathological bleeding [see Dosage an
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 PRADAXA’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
-Reversal of Anticoagulant Effect: A specific reversal agent for dabigatran is not available.
+Reversal of Anticoagulant Effect:
+
+A specific reversal agent (idarucizumab) for dabigatran is available when reversal of the anticoagulant effect of dabigatran is needed:
+
+- For emergency surgery/urgent procedures
+- In life-threatening or uncontrolled bleeding
+
 Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
 Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant Factor VIIa, or concentrates of coagulation factors II, IX or X may be considered but their use has not been evaluated in clinical trials.
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.

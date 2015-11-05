@@ -83,3 +83,6 @@ Consider longer times for patients undergoing major surgery, spinal puncture, or
 
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.2)].
 This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1, 5.3)].
+Use a specific reversal agent (idarucizumab) in case of emergency surgery or urgent procedures when reversal of the anticoagulant effect of dabigatran is needed.
+Refer to the idarucizumab prescribing information for additional information.
+Restart PRADAXA as soon as medically appropriate.

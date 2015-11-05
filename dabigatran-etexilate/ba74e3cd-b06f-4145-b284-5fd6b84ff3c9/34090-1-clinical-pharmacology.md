@@ -45,7 +45,7 @@ Dabigatran etexilate is a substrate of the efflux transporter P-gp.
 After oral administration of dabigatran etexilate in healthy volunteers, Cmax occurs at 1 hour post-administration in the fasted state.
 Coadministration of PRADAXA with a high-fat meal delays the time to Cmax by approximately 2 hours but has no effect on the bioavailability of dabigatran; PRADAXA may be administered with or without food.
 
-The oral bioavailability of dabigatran etexilate increases by 37% after multiple doses and 75% after a single dose when the pellets are taken without the capsule shell compared to the intact capsule formulation.
+The oral bioavailability of dabigatran etexilate increases by 75% when the pellets are taken without the capsule shell compared to the intact capsule formulation.
 PRADAXA capsules should therefore not be broken, chewed, or opened before administration.
 
 Distribution
