@@ -15,7 +15,7 @@ Two young children of a subject in a clinical trial experienced serious adverse 
 Adverse reactions experienced by one or both children included lethargy, respiratory distress with apneic episodes (requiring intubation), sinus bradycardia, confusion, psychomotor hyperactivity, and diaphoresis.
 Both children were hospitalized overnight and discharged the following day without sequelae.
 
-Keep MIRVASO topical gel out of reach of children.
+Keep MIRVASO topical gel out of the reach of children.
 
 ## 5.4 Erythema and Flushing
 

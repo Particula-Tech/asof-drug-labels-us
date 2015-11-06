@@ -15,12 +15,10 @@ Patients using MIRVASO topical gel should receive the following information and 
 
 Marketed by:
 
-GALDERMA LABORATORIES, L.P.
-
-Fort Worth, Texas 76177 USA
+GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA
 
 Made in Canada.
 
-GALDERMA and MIRVASO are registered trademarks.
+All trademarks are the property of their respective owners.
 
-P51217-1
+P52849-0 or P51217-2
