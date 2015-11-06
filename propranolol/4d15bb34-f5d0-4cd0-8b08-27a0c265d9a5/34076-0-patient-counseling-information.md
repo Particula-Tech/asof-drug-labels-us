@@ -15,9 +15,5 @@ Manufactured for: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 By: Adare Phar
 
 Marketed and distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
 
-Innopran XL®, a DIFFUCAPS®drug delivery product manufactured by Adare Pharmaceuticals, Inc.
-
-245F005
-
-Rev.
+Innopran XL®, a DIFFUCAPS® drug delivery product manufactured by Adare Pharmaceuticals, Inc., Vandalia, OH 45377 245F005 Rev.
 05/15
