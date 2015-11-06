@@ -5,7 +5,7 @@ INDERAL XL is available as 80 mg and 120 mg capsules which contain sustained-rel
 Each of the beads contains propranolol hydrochloride and is coated with dual membranes.
 These membranes are designed to retard release of propranolol hydrochloride for several hours after ingestion followed by the sustained release of propranolol.
 
-The active ingredient in INDERAL XL is a synthetic beta-adrenergic receptor-blocking agent chemically described as 1‑(Isopropylamino)‑3-(1‑naphthyloxy)‑2‑propanol hydrochloride.
+The active ingredient in INDERAL XL is a synthetic beta-adrenergic receptor-blocking agent chemically described as 1-(Isopropylamino)-3-(1-naphthyloxy)-2-propanol hydrochloride.
 Its structural formula is:
 
 Propranolol hydrochloride is a stable, white, crystalline solid, which is readily soluble in water and ethanol.

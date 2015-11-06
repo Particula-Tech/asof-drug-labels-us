@@ -15,6 +15,6 @@ Manufactured for: Mist Pharmaceuticals, LLC Cranford, NJ 07016 By: Adare Pharmac
 
 Marketed and distributed by: Mist Pharmaceuticals, LLC Cranford, NJ 07016
 
-INDERAL® XL, a DIFFUCAPS® DRUG DELIVERY PRODUCT MANUFACTURED BY Adare Pharmaceuticals, Inc., Vandalia, OH 45377
+INDERAL® XL, a DIFFUCAPS® drug delivery product manufactured by Adare Pharmaceuticals, Inc., Vandalia, OH 45377
 
 242F001

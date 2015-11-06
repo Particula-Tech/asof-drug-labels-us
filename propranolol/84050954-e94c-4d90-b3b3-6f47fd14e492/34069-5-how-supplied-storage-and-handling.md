@@ -4,7 +4,7 @@ INDERAL XL (propranolol hydrochloride) Extended-Release Capsules are supplied as
 
 | Strength | Color | Bands | NDC 76299-xxx-xx |  |
 | --- | --- | --- | --- | --- |
-| Bottle/30 | Bottle/100 |  |  |  |
+|  |  |  | Bottle/30 | Bottle/100 |
 | 80 mg | white opaque | 1 | 420-85 | 420-88 |
 | 120 mg | buff opaque | 3 | 422-85 | 422-88 |
 

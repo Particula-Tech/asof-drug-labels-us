@@ -9,11 +9,11 @@ Effects of propranolol on plasma volume appear to be minor and somewhat variable
 
 ## 12.2 Pharmacodynamics
 
-Propranolol is a nonselective, beta‑adrenergic receptor‑blocking agent possessing no other autonomic nervous system activity.
-It specifically competes with beta‑adrenergic receptor‑stimulating agents for available receptor sites.
+Propranolol is a nonselective, beta-adrenergic receptor-blocking agent possessing no other autonomic nervous system activity.
+It specifically competes with beta-adrenergic receptor-stimulating agents for available receptor sites.
 Of the 2 enantiomers of propranolol, the S-enantiomer blocks beta-adrenergic receptors.
-When access to beta‑receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta‑adrenergic stimulation are decreased proportionately.
-At dosages greater than required for beta blockade, propranolol also exerts a quinidine‑like or anesthetic‑like membrane action, which affects the cardiac action potential.
+When access to beta-receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
+At dosages greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
 ## 12.3 Pharmacokinetics
@@ -32,7 +32,7 @@ At steady state, the bioavailability of a 160 mg dose of INDERAL XL and proprano
 
 Distribution: Approximately 90% of circulating propranolol is bound to plasma proteins (albumin and alpha1 acid glycoprotein).
 The binding is enantiomer-selective.
-The S‑isomer is preferentially bound to alpha1 glycoprotein and the R‑isomer preferentially bound to albumin.
+The S-isomer is preferentially bound to alpha1 glycoprotein and the R-isomer preferentially bound to albumin.
 The volume of distribution of propranolol is approximately 4 liters.
 
 Metabolism and Elimination: Propranolol is extensively metabolized with most metabolites appearing in the urine.
@@ -42,21 +42,21 @@ The 4 major metabolites are propranolol glucuronide, naphthyloxylactic acid, and
 
 In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
 Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
-4‑hydroxy propranolol is a weak inhibitor of CYP2D6.
+4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
-Propranolol is also a substrate for CYP2C19 and a substrate for the intestinal efflux transporter, p‑glycoprotein (p‑gp).
-Studies suggest however that p‑gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range.
+Propranolol is also a substrate for CYP2C19 and a substrate for the intestinal efflux transporter, p-glycoprotein (p-gp).
+Studies suggest however that p-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range.
 
-In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half‑life.
-Partial clearance to 4‑hydroxy propranolol was significantly higher and to naphthyloxylactic acid was significantly lower in EMs than PMs.
+In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life.
+Partial clearance to 4-hydroxy propranolol was significantly higher and to naphthyloxylactic acid was significantly lower in EMs than PMs.
 
-In normal subjects receiving oral doses of racemic propranolol, S‑enantiomer concentrations exceeded those of the R‑enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
+In normal subjects receiving oral doses of racemic propranolol, S-enantiomer concentrations exceeded those of the R-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
 
 The elimination half-life of propranolol was approximately 8 hours.
 
 ## 12.6 Specific Populations
 
-Pediatric:The pharmacokinetics of INDERAL XL have not been investigated in patients younger than 18 years of age.
+Pediatric: The pharmacokinetics of INDERAL XL have not been investigated in patients younger than 18 years of age.
 
 Geriatric: The pharmacokinetics of INDERAL XL have not been investigated in patients older than 65 years.
 In a study of 12 elderly (62 to 79 years old) and 12 young (25 to 33 years old) healthy subjects administered immediate-release propranolol, the clearance of the S-enantiomer of propranolol was decreased in the elderly.
@@ -66,7 +66,7 @@ Gender: In a dose-proportionality study, the pharmacokinetics of INDERAL XL were
 Following single doses under fasting conditions, the mean AUC and Cmax were about 49% and 16% higher for females across the dosage range.
 The mean elimination half-life was longer in females than in males (11 hours versus 7.5 hours).
 
-Race:A study conducted in 12 white and 13 African-American male subjects taking immediate-release propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
+Race: A study conducted in 12 white and 13 African-American male subjects taking immediate-release propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
 
 Renal Impairment: The pharmacokinetics of propranolol after administration of INDERAL XL have not been evaluated in patients with renal impairment.
 In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 3- to 5-fold (161±41 ng/mL) those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).
@@ -74,7 +74,7 @@ Propranolol plasma clearance was also reduced in the patients with chronic renal
 
 Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity.
 
-Propranolol is not significantly dialyzable.
+Propranolol is not significantly dialyzable
 
 Hepatic Impairment: The pharmacokinetics of propranolol after administration of INDERAL XL have not been evaluated in patients with hepatic impairment.
 However, propranolol is extensively metabolized by the liver.
@@ -83,7 +83,9 @@ In cirrhosis, the half-life increased to 11 hours compared to 4 hours.
 
 ## 12.7 Drug-Drug Interactions
 
-Impact of Propranolol on Other Drugs The effect of propranolol on exposure to other drugs is shown in Table 2.
+Impact of Propranolol on Other Drugs
+
+The effect of propranolol on exposure to other drugs is shown in Table 2.
 
 Table 2 Impact of propranolol on other drugs
 
@@ -103,31 +105,33 @@ Table 2 Impact of propranolol on other drugs
 | Oxazepam, triazolam, lorazepam, alprazolam | None |
 | Theophylline | Increased 70% |
 
-Impact of Other Drugs on Propranolol The effect of propranolol on exposure to other drugs is shown in Table 3.
+Impact of Other Drugs on Propranolol
+
+The effect of propranolol on exposure to other drugs is shown in Table 3.
 
 Table 3 Impact of other drugs on exposure to propranolol
 
-| Other drug | Effect on propranolol exposure |
-| --- | --- |
-| Inhibitors of CYP2D6, CYP1A2, or CYP2C19 | Increased |
-| Inducers of CYP1A2 or CYP2C19 | Decreased |
-| Quinidine | Increased >200% |
-| Nisoldipine | Increased 50% |
-| Nicardipine | Increased 80% |
-| Chlorpromazine | Increased 70% |
-| Cimetidine | Increased 50% |
-| Cholestyramine, colestipol | Decreased 50% |
-| Alcohol | Increased |
-| Diazepam | None |
-| Verapamil | None |
-| Metochlopramide | None |
-| Ranitidine | None |
-| Lansoprazole | None |
-| Omeprazole | None |
-| Alcohol | Increase acutely or decrease chronically |
-| Propafenone | Increased 200% |
-| Quinidine | Increased 200% |
-| Cimetidine | Increased 40% |
-| Aluminum hydroxide | Decreased 50% |
-| Diazepam | None |
-| Nisoldipine, nicardipine, nifedipine | Increased 50-80% |
+| Other drug | Effect on propranolol exposure |  |
+| --- | --- | --- |
+| Inhibitors of CYP2D6, CYP1A2, or CYP2C19 | Increased |  |
+| Inducers of CYP1A2 or CYP2C19 | Decreased |  |
+| Quinidine | Increased >200% |  |
+| Nisoldipine | Increased 50% |  |
+| Nicardipine | Increased 80% |  |
+| Chlorpromazine | Increased 70% |  |
+| Cimetidine | Increased 50% |  |
+| Cholestyramine, colestipol | Decreased 50% |  |
+| Alcohol | Increased |  |
+| Diazepam | None |  |
+| Verapamil | None |  |
+| Metochlopramide | None |  |
+| Ranitidine | None |  |
+| Lansoprazole | None |  |
+| Omeprazole | None |  |
+| Alcohol | Increase acutely or decrease chronically |  |
+| Propafenone | Increased 200% |  |
+| Quinidine | Increased 200% |  |
+| Cimetidine | Increased 40% |  |
+| Aluminum hydroxide | Decreased 50% |  |
+| Diazepam | None |  |
+| Nisoldipine, nicardipine, nifedipine | Increased 50-80% |  |
