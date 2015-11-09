@@ -1,0 +1,69 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Pregnancy Category C. Pregnancy category D from 30 weeks of gestation onward.
+
+Teratogenic effects
+
+Celecoxib at oral doses ≥150 mg/kg/day (approximately 2-fold human exposure at 200 mg twice daily as measured by AUC0-24), caused an increased incidence of ventricular septal defects, a rare event, and fetal alterations, such as ribs fused, sternebrae fused and sternebrae misshapen when rabbits were treated throughout organogenesis.
+A dose-dependent increase in diaphragmatic hernias was observed when rats were given celecoxib at oral doses ≥30 mg/kg/day (approximately 6-fold human exposure based on the AUC 0-24 at 200 mg twice daily) throughout organogenesis.
+There are no studies in pregnant women.
+Celecoxib should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nonteratogenic effects
+
+Celecoxib produced pre-implantation and post-implantation losses and reduced embryo/fetal survival in rats at oral dosages ≥50 mg/kg/day (approximately 6-fold human exposure based on the AUC 0-24 at 200 mg twice daily).
+These changes are expected with inhibition of prostaglandin synthesis and are not the result of permanent alteration of female reproductive function, nor are they expected at clinical exposures.
+No studies have been conducted to evaluate the effect of celecoxib on the closure of the ductus arteriosus in humans.
+Therefore, use of celecoxib during the third trimester of pregnancy should be avoided.
+
+## 8.2 Labor and Delivery
+
+Celecoxib produced no evidence of delayed labor or parturition at oral doses up to 100 mg/kg in rats (approximately 7-fold human exposure as measured by the AUC0-24 at 200 mg BID).
+The effects of celecoxib on labor and delivery in pregnant women are unknown.
+
+## 8.3 Nursing Mothers
+
+Limited data from 3 published reports that included a total of 12 breastfeeding women showed low levels of celecoxib in breast milk.
+The calculated average daily infant dose was 10 to 40 mcg/kg/day, less than 1% of the weight-based therapeutic dose for a two-year old-child.
+A report of two breastfed infants 17 and 22 months of age did not show any adverse events.
+Caution should be exercised when celecoxib is administered to a nursing woman.
+
+## 8.4 Pediatric Use
+
+Celecoxib is approved for relief of the signs and symptoms of Juvenile Rheumatoid Arthritis in patients 2 years and older.
+Safety and efficacy have not been studied beyond six months in children.
+The long-term cardiovascular toxicity in children exposed to celecoxib has not been evaluated and it is unknown if long-term risks may be similar to that seen in adults exposed to celecoxib or other COX-2 selective and non-selective NSAIDs [(see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.12), and CLINICAL STUDIES (14.3)].
+
+The use of celecoxib in patients 2 years to 17 years of age with pauciarticular, polyarticular course JRA or in patients with systemic onset JRA was studied in a 12-week, double-blind, active controlled, pharmacokinetic, safety and efficacy study, with a 12-week open-label extension.
+Celecoxib has not been studied in patients under the age of 2 years, in patients with body weight less than 10 kg (22 lbs), and in patients with active systemic features.
+Patients with systemic onset JRA (without active systemic features) appear to be at risk for the development of abnormal coagulation laboratory tests.
+In some patients with systemic onset JRA, both celecoxib and naproxen were associated with mild prolongation of activated partial thromboplastin time (APTT) but not prothrombin time (PT).
+NSAIDs including celecoxib should be used only with caution in patients with systemic onset JRA, due to the risk of disseminated intravascular coagulation.
+Patients with systemic onset JRA should be monitored for the development of abnormal coagulation tests [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.12), ADVERSE REACTIONS (6.3), ANIMAL TOXICOLOGY (13.2), CLINICAL STUDIES (14.3)].
+
+Alternative therapies for treatment of JRA should be considered in pediatric patients identified to be CYP2C9 poor metabolizers [see Poor Metabolizers of CYP2C9 Substrates (8.8)].
+
+## 8.5 Geriatric Use
+
+Of the total number of patients who received celecoxib in pre-approval clinical trials, more than 3,300 were 65 to 74 years of age, while approximately 1,300 additional patients were 75 years and over.
+No substantial differences in effectiveness were observed between these subjects and younger subjects.
+In clinical studies comparing renal function as measured by the GFR, BUN and creatinine, and platelet function as measured by bleeding time and platelet aggregation, the results were not different between elderly and young volunteers.
+However, as with other NSAIDs, including those that selectively inhibit COX-2, there have been more spontaneous post-marketing reports of fatal GI events and acute renal failure in the elderly than in younger patients [see WARNINGS AND PRECAUTIONS (5.4, 5.6)].
+
+## 8.6 Hepatic Insufficiency
+
+The daily recommended dose of celecoxib capsules in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%.
+The use of celecoxib in patients with severe hepatic impairment is not recommended [see DOSAGE AND ADMINISTRATION (2.6) and CLINICAL PHARMACOLOGY (12.3)].
+
+## 8.7 Renal Insufficiency
+
+Celecoxib is not recommended in patients with severe renal insufficiency [see WARNINGS AND PRECAUTIONS (5.6) and CLINICAL PHARMACOLOGY (12.3)].
+
+## 8.8 Poor Metabolizers of CYP2C9 Substrates
+
+Patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) should be administered celecoxib with caution.
+Consider starting treatment at half the lowest recommended dose in poor metabolizers (i.e.,CYP2C9*3/3).
+Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
+[see DOSAGE AND ADMINISTRATION (2.6) and CLINICAL PHARMACOLOGY (12.5)].

@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA202240"
+  ],
+  "inn": "celecoxib",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-395-07",
+    "68180-396-01",
+    "68180-396-02",
+    "68180-396-03",
+    "68180-397-01",
+    "68180-397-02",
+    "68180-397-03",
+    "68180-398-01",
+    "68180-398-07"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "celecoxib",
+      "name": "celecoxib"
+    }
+  ],
+  "setid": "560017b1-daf8-464e-b86f-0a75c78002ec",
+  "source": "dailymed"
+}
