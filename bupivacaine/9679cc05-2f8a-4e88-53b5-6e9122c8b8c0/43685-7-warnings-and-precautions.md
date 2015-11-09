@@ -61,15 +61,15 @@ Successful outcome is dependent on early diagnosis, prompt discontinuance of the
 
 The following conditions may preclude the use of spinal anesthesia, depending upon the physician’s evaluation of the situation and ability to deal with the complications or complaints which may occur:
 
-- Pre-existing diseases of the central nervous system, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
-- Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
+- •Pre-existing diseases of the central nervous system, such as those attributable to pernicious anemia, poliomyelitis, syphilis, or tumor.
+- •Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy.
   Trauma to a blood vessel during the conduct of spinal anesthesia may, in some instances, result in uncontrollable central nervous system hemorrhage or soft tissue hemorrhage.
-- Chronic backache and preoperative headache.
-- Hypotension and hypertension.
-- Technical problems (persistent paresthesias, persistent bloody tap).
-- Arthritis or spinal deformity.
-- Extremes of age.
-- Psychosis or other causes of poor cooperation by the patient.
+- •Chronic backache and preoperative headache.
+- •Hypotension and hypertension.
+- •Technical problems (persistent paresthesias, persistent bloody tap).
+- •Arthritis or spinal deformity.
+- •Extremes of age.
+- •Psychosis or other causes of poor cooperation by the patient.
 
 Information for Patients: When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of spinal anesthesia.
 Also, when appropriate, the physician should discuss other information including adverse reactions in the MARCAINE Spinal package insert.
