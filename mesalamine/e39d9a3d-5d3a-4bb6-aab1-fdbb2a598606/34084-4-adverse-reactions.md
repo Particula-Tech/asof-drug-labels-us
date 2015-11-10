@@ -5,7 +5,7 @@ Generally, PENTASA therapy was well tolerated.
 The most common events (ie, greater than or equal to 1%) were diarrhea (3.4%), headache (2.0%), nausea (1.8%), abdominal pain (1.7%), dyspepsia (1.6%), vomiting (1.5%), and rash (1.0%).
 
 In two domestic placebo-controlled trials involving over 600 ulcerative colitis patients, adverse events were fewer in PENTASA® (mesalamine)-treated patients than in the placebo group (PENTASA 14% vs placebo 18%) and were not dose-related.
-Events occurring at 1% or more are shown in the table below.
+Events occurring in more than 1% are shown in the table below.
 Of these, only nausea and vomiting were more frequent in the PENTASA group.
 Withdrawal from therapy due to adverse events was more common on placebo than PENTASA (7% vs 4%).
 
