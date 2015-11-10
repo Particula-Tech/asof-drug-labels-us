@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0881-01
 
-Nucala
+Nucala®
 
 (mepolizumab)
 
@@ -26,11 +26,9 @@ No U.S. standard of potency.
 
 1 vial
 
+Do not accept if plastic overseal is missing or not securely fitted.
+
 ©2015 the GSK group of companies
 
-DO NOT USE if tamper-evident label is broken or missing
-
-Discard unused portion.
-
-- 10000000133887 Rev.
-  9/15
+- 10000000138268 Rev.
+  11/15

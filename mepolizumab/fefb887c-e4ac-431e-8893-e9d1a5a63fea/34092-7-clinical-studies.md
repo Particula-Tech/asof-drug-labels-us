@@ -25,7 +25,7 @@ Subjects in Trial 3 were not required to have a history of exacerbations in the 
 Subjects received NUCALA (n = 69) or placebo (n = 66) once every 4 weeks for 24 weeks.
 The baseline mean oral corticosteroid use was similar in the 2 treatment groups: 13.2 mg in the placebo group and 12.4 mg in the group receiving NUCALA.
 
-The demographics and baseline characteristicsof these 3 trials are provided in Table 2.
+The demographics and baseline characteristics of these 3 trials are provided in Table 2.
 
 Table 2.
 Demographics and Baseline Characteristics of Asthma Trials
@@ -60,27 +60,27 @@ Additionally, compared with placebo, there were fewer exacerbations requiring ho
 Table 3.
 Rate of Exacerbations in Trials 1 and 2 (Intent-to-Treat Population)
 
-| Trial | Treatment | Exacerbations per Year |  |  |
-| --- | --- | --- | --- | --- |
-| Rate | Difference | Rate Ratio(95% CI) |  |  |
-| All Exacerbations |  |  |  |  |
-| Trial 1 | Placebo (n = 155) | 2.40 |  |  |
-| Mepolizumab 75 mg IV (n = 153) | 1.24 | 1.16 | 0.52(0.39, 0.69) |  |
-| Trial 2 | Placebo (n = 191) | 1.74 |  |  |
-| Mepolizumab 75 mg IV (n = 191) | 0.93 | 0.81 | 0.53(0.40, 0.72) |  |
-| NUCALA 100 mg SC (n = 194) | 0.83 | 0.91 | 0.47(0.35, 0.64) |  |
-| Exacerbations requiring hospitalization/emergency room visit |  |  |  |  |
-| Trial 1 | Placebo (n = 155) | 0.43 |  |  |
-| Mepolizumab 75 mg IV (n = 153) | 0.17 | 0.26 | 0.40(0.19, 0.81) |  |
-| Trial 2 | Placebo (n = 191) | 0.20 |  |  |
-| Mepolizumab 75 mg IV (n = 191) | 0.14 | 0.06 | 0.68(0.33, 1.41) |  |
-| NUCALA 100 mg SC (n = 194) | 0.08 | 0.12 | 0.39(0.18, 0.83) |  |
-| Exacerbations requiring hospitalization |  |  |  |  |
-| Trial 1 | Placebo (n = 155) | 0.18 |  |  |
-| Mepolizumab 75 mg IV (n = 153) | 0.11 | 0.07 | 0.61(0.28, 1.33) |  |
-| Trial 2 | Placebo (n = 191) | 0.10 |  |  |
-| Mepolizumab 75 mg IV (n = 191) | 0.06 | 0.04 | 0.61(0.23, 1.66) |  |
-| NUCALA 100 mg SC (n = 194) | 0.03 | 0.07 | 0.31(0.11, 0.91) |  |
+| Trial | Treatment | Exacerbations per Year |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Rate | Difference | Rate Ratio(95% CI) |  |  |  |
+| All Exacerbations |  |  |  |  |  |
+| Trial 1 | Placebo (n = 155) | 2.40 |  |  |  |
+| Mepolizumab 75 mg IV (n = 153) | 1.24 | 1.16 | 0.52(0.39, 0.69) |  |  |
+| Trial 2 | Placebo (n = 191) | 1.74 |  |  |  |
+| Mepolizumab 75 mg IV (n = 191) | 0.93 | 0.81 | 0.53(0.40, 0.72) |  |  |
+| NUCALA 100 mg SC (n = 194) | 0.83 | 0.91 | 0.47(0.35, 0.64) |  |  |
+| Exacerbations requiring hospitalization/emergency room visit |  |  |  |  |  |
+| Trial 1 | Placebo (n = 155) | 0.43 |  |  |  |
+| Mepolizumab 75 mg IV (n = 153) | 0.17 | 0.26 | 0.40(0.19, 0.81) |  |  |
+| Trial 2 | Placebo (n = 191) | 0.20 |  |  |  |
+| Mepolizumab 75 mg IV (n = 191) | 0.14 | 0.06 | 0.68(0.33, 1.41) |  |  |
+| NUCALA 100 mg SC (n = 194) | 0.08 | 0.12 | 0.39(0.18, 0.83) |  |  |
+| Exacerbations requiring hospitalization |  |  |  |  |  |
+| Trial 1 | Placebo (n = 155) | 0.18 |  |  |  |
+| Mepolizumab 75 mg IV (n = 153) | 0.11 | 0.07 | 0.61(0.28, 1.33) |  |  |
+| Trial 2 | Placebo (n = 191) | 0.10 |  |  |  |
+| Mepolizumab 75 mg IV (n = 191) | 0.06 | 0.04 | 0.61(0.23, 1.66) |  |  |
+| NUCALA 100 mg SC (n = 194) | 0.03 | 0.07 | 0.31(0.11, 0.91) |  |  |
 
 The time to first exacerbation was longer for the groups receiving NUCALA and mepolizumab 75 mg IV compared with placebo in Trial 2 (Figure 1).
 
