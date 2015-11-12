@@ -19,6 +19,8 @@ COREG, COREG CR, and TILTAB are registered trademarks of the GSK group of compan
 TOPROL-XL is a trademark of its respective owner and is not a trademark of the GSK group of companies.
 The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
+Manufactured for
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709

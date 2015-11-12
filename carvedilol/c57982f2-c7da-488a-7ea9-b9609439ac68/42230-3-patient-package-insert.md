@@ -1,6 +1,8 @@
 PATIENT INFORMATION COREG® (Co-REG)
 
-carvedilol tablets
+(carvedilol)
+
+tablets
 
 Read the Patient Information that comes with COREG before you start taking it and each time you get a refill.
 There may be new information.
