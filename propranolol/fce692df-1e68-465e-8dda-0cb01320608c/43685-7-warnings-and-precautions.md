@@ -1,36 +1,36 @@
 # WARNINGS
 
-Angina Pectoris
+## Angina Pectoris
 
 There have been reports of exacerbation of angina and, in some cases, myocardial infarction, following abrupt discontinuance of propranolol therapy.
 Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks, and the patient should be cautioned against interruption or cessation of therapy without the physician's advice.
 If propranolol therapy is interrupted and exacerbation of angina occurs, it usually is advisable to reinstitute propranolol therapy and take other measures appropriate for the management of unstable angina pectoris.
 Since coronary artery disease may be unrecognized, it may be prudent to follow the above advice in patients considered at risk of having occult atherosclerotic heart disease who are given propranolol for other indications.
 
-Hypersensitivity and Skin Reactions
+## Hypersensitivity and Skin Reactions
 
 Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, have been associated with the administration of propranolol (see ADVERSE REACTIONS).
 
 Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and urticaria, have been reported with use of propranolol (see ADVERSE REACTIONS).
 
-Cardiac Failure
+## Cardiac Failure
 
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
-Although beta blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed.
+Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
-In Patients without a History of Heart Failure, continued use of beta blockers can, in some cases, lead to cardiac failure.
+In Patients without a History of Heart Failure, continued use of beta-blockers can, in some cases, lead to cardiac failure.
 
-Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
+## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
 
 In general, patients with bronchospastic lung disease should not receive beta-blockers.
 Propranolol should be administered with caution in this setting since it may provoke a bronchial asthmatic attack by blocking bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta-receptors.
 
-Major Surgery
+## Major Surgery
 
 Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-Diabetes and Hypoglycemia
+## Diabetes and Hypoglycemia
 
 Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics.
 In these patients, it may be more difficult to adjust the dosage of insulin.
@@ -38,20 +38,20 @@ In these patients, it may be more difficult to adjust the dosage of insulin.
 Propranolol therapy, particularly when given to infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting as in preparation for surgery.
 Hypoglycemia has been reported in patients taking propranolol after prolonged physical exertion and in patients with renal insufficiency.
 
-Thyrotoxicosis
+## Thyrotoxicosis
 
 Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism.
 Therefore, abrupt withdrawal of propranolol may be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
 Propranolol may change thyroid-function tests, increasing T4 and reverse T3, and decreasing T3.
 
-Wolff-Parkinson-White Syndrome
+## Wolff-Parkinson-White Syndrome
 
 Beta-adrenergic blockade in patients with Wolff-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
 In one case, this result was reported after an initial dose of 5 mg propranolol.
 
 # PRECAUTIONS
 
-General
+## General
 
 Propranolol should be used with caution in patients with impaired hepatic or renal function.
 Inderal LA is not indicated for the treatment of hypertensive emergencies.
@@ -63,19 +63,19 @@ Withdrawal may lead to a return of increased intraocular pressure.
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
-Clinical Laboratory Tests
+## Clinical Laboratory Tests
 
 In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, serum transaminases, and alkaline phosphatase.
 In severe heart failure, the use of propranolol has been associated with increases in Blood Urea Nitrogen.
 
-Drug Interactions
+## Drug Interactions
 
 Caution should be exercised when Inderal LA is administered with drugs that have an affect on CYP2D6, 1A2, or 2C19 metabolic pathways.
 Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactions in PHARMACOKINETICS AND DRUG METABOLISM).
 
 Alcohol when used concomitantly with propranolol, may increase plasma levels of propranolol.
 
-Cardiovascular Drugs
+## Cardiovascular Drugs
 
 Antiarrhythmics
 
@@ -131,7 +131,7 @@ Isoproterenol and Dobutamine
 Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
 Also, propranolol may reduce sensitivity to dobutamine stress echocardiography in patients undergoing evaluation for myocardial ischemia.
 
-Non-Cardiovascular Drugs
+## Non-Cardiovascular Drugs
 
 Nonsteroidal Anti-Inflammatory Drugs
 
@@ -141,7 +141,7 @@ Administration of indomethacin with propranolol may reduce the efficacy of propr
 
 Antidepressants
 
-The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta blocking activity of propranolol.
+The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
 
 Anesthetic Agents
 
@@ -160,14 +160,14 @@ Thyroxine
 
 Thyroxine may result in a lower than expected T3 concentration when used concomitantly with propranolol.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In dietary administration studies in which mice and rats were treated with propranolol hydrochloride for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
 On a body surface area basis, this dose in the mouse and rat is, respectively, about equal to and about twice the maximum recommended human oral daily dose (MRHD) of 640 mg propranolol hydrochloride.
 In a study in which both male and female rats were exposed to propranolol hydrochloride in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for two generations, there were no effects on fertility.
 Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol in bacteria (S. typhimurium strain TA 1538).
 
-Pregnancy: Pregnancy Category C
+## Pregnancy: Pregnancy Category C
 
 In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
@@ -180,18 +180,18 @@ Neonates whose mothers are receiving propranolol at parturition have exhibited b
 Adequate facilities for monitoring such infants at birth should be available.
 Inderal LA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nursing Mothers
+## Nursing Mothers
 
 Propranolol is excreted in human milk.
 Caution should be exercised when Inderal LA is administered to a nursing woman.
 
-Pediatric Use
+## Pediatric Use
 
 Safety and effectiveness of propranolol in pediatric patients have not been established.
 
 Bronchospasm and congestive heart failure have been reported coincident with the administration of propranolol therapy in pediatric patients.
 
-Geriatric Use
+## Geriatric Use
 
 Clinical studies of Inderal LA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
