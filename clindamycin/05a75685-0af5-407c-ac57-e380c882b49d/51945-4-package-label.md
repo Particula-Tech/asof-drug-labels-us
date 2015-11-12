@@ -188,11 +188,9 @@ PL 2501 Plastic 11152900 07-34-63-473 07-34-63-473 1865
 
 Cleocin Phosphate® IV Solution clindamycin injection
 
-Rx only
-
 Pfizer Injectables
 
-300 mg/ 50 mL* in 5% Dextrose
+300 mg/ 50 mL* in 5% Dextrose Rx only
 
 NDC 0009-3381-02 Code 2G3414
 
@@ -200,17 +198,15 @@ NDC 0009-3381-02 Code 2G3414
 
 NDC 0009-3375-01
 
-Single Dose Container Rx only
-
 Cleocin Phosphate® IV Solution clindamycin injection
 
-600 mg/ 50 mL* in 5% DEXTROSE
+600 mg/ 50 mL* in 5% DEXTROSE Rx only
 
 For Intravenous Use
 
 Code 2G3415 Sterile, Nonpyrogenic
 
-GALAXY
+GALAXY Single Dose Container
 
 Recommended storage: Room temperature (25°C).
 Avoid temperatures above 30°C.
@@ -220,13 +216,13 @@ Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity. * Each 50 mL contains clindamycin phosphate equivalent to 600 mg clindamycin and 2.5 g dextrose hydrous, USP with 2 mg edetate disodium dihydrate, USP added. pH adjusted with sodium hydroxide and/or hydrochloric acid.
 CLEOCIN PHOSPHATE is a registered trademark of Pharmacia & Upjohn Company.
-GALAXY is a trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
+GALAXY is a registered trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
 
 Pfizer Injectables
 
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
 
-PL 2501 Plastic 11153200 07-34-63-474 07-34-63-474 1864
+PL 2501 Plastic 11153201 07-34-72-424
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Container Carton
 
@@ -234,11 +230,9 @@ PL 2501 Plastic 11153200 07-34-63-474 07-34-63-474 1864
 
 Cleocin Phosphate® IV Solution clindamycin injection
 
-Rx only
-
 Pfizer Injectables
 
-600 mg/ 50 mL* in 5% Dextrose
+600 mg/ 50 mL* in 5% Dextrose Rx only
 
 NDC 0009-3375-02 Code 2G3415
 
@@ -246,17 +240,15 @@ NDC 0009-3375-02 Code 2G3415
 
 NDC 0009-3382-01
 
-Single Dose Container Rx only
-
 Cleocin Phosphate® IV Solution clindamycin injection
 
-900 mg/ 50 mL* in 5% DEXTROSE
+900 mg/ 50 mL* in 5% DEXTROSE Rx only
 
 For Intravenous Use
 
 Code 2G3416 Sterile, Nonpyrogenic
 
-GALAXY
+GALAXY Single Dose Container
 
 Recommended storage: Room temperature (25°C).
 Avoid temperatures above 30°C.
@@ -266,13 +258,13 @@ Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity. * Each 50 mL contains clindamycin phosphate equivalent to 900 mg clindamycin and 2.5 g dextrose hydrous, USP with 2 mg edetate disodium dihydrate, USP added. pH adjusted with sodium hydroxide and/or hydrochloric acid.
 CLEOCIN PHOSPHATE is a registered trademark of Pharmacia & Upjohn Company.
-GALAXY is a trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
+GALAXY is a registered trademark of Baxter International Inc. Manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015
 
 Pfizer Injectables
 
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
 
-PL 2501 Plastic 11153500 07-34-63-475 07-34-63-475 1866
+PL 2501 Plastic 11153501 07-34-72-425
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Container Carton
 
@@ -280,11 +272,9 @@ PL 2501 Plastic 11153500 07-34-63-475 07-34-63-475 1866
 
 Cleocin Phosphate® IV Solution clindamycin injection
 
-Rx only
-
 Pfizer Injectables
 
-900 mg/ 50 mL* in 5% Dextrose
+900 mg/ 50 mL* in 5% Dextrose Rx only
 
 NDC 0009-3382-02 Code 2G3416
 
