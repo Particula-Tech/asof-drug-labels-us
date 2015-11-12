@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020897"
+  ],
+  "inn": "oxybutynin",
+  "labeler": "Patriot Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "10147-0761-0",
+    "10147-0771-0",
+    "10147-0781-0"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "oxybutynin chloride",
+      "name": "Ditropan"
+    }
+  ],
+  "setid": "68c23538-e459-42b5-89c7-817c77ff6d31",
+  "source": "dailymed"
+}
