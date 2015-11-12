@@ -6,29 +6,15 @@ Morphine sulfate, an opioid agonist, is relatively selective for the mu receptor
 In addition to analgesia, the widely diverse effects of morphine sulfate include analgesia, dysphoria, euphoria, somnolence, respiratory depression, diminished gastrointestinal motility, altered circulatory dynamics, histamine release, physical dependence, and alterations of the endocrine and autonomic nervous systems.
 
 Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
-Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventromedial medulla and the spinal cord to produce analgesia.
-
-## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-The effective dose in opioid-tolerant patients may be 10 to 50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
-
-CNS Depressant/Alcohol Interaction
-
-Additive pharmacodynamic effects may be expected when KADIAN is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
 
 Effects on the Central Nervous System
 
 The principal actions of therapeutic value of morphine are analgesia and sedation.
 Specific CNS opiate receptors and endogenous compounds with morphine-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression of analgesic effects.
-
 Morphine produces respiratory depression by direct action on brainstem respiratory centers.
 The mechanism of respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to increases in carbon dioxide tension, and to electrical stimulation.
 Morphine depresses the cough reflex by direct effect on the cough center in the medulla.
-
 Morphine causes miosis, even in total darkness, and little tolerance develops to this effect.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen with worsening hypoxia in the setting of morphine overdose.
@@ -59,6 +45,18 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
+## 12.2 Pharmacodynamics
+
+Plasma Level-Analgesia Relationships
+
+While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
+The effective dose in opioid-tolerant patients may be 10 to 50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
+Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+
+CNS Depressant/Alcohol Interaction
+
+Additive pharmacodynamic effects may be expected when KADIAN is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -73,19 +71,21 @@ When KADIAN was given twice daily to 24 patients with chronic pain due to malign
 At steady-state, KADIAN has a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
 When given once daily to 24 patients with malignancy, KADIAN had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 1).
 
-The single-dose pharmacokinetics of KADIAN are linear over the dosage range of 30 to 100 mg.
+The single dose pharmacokinetics of KADIAN are linear over the dosage range of 30 to 100 mg.
 
 Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
 
-| Regimen/Dosage Form | AUCFor single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng•h/mL) | Cmax (ng/mL) | Tmax (h) | Cmin (ng/mL) | FluctuationSteady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |
+| Regimen/Dosage Form | AUC* † (ng•h/mL) | Cmax † (ng/mL) | Tmax (h) | Cmin † (ng/mL) | Fluctuation‡ |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (n = 24) |  |  |  |  |  |
-| KADIAN Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | naNot applicable | na |
+| KADIAN Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | na§ | na |
 | Extended-Release Tablet | 304.3 (19.1) | 30.5 (32.1) | 2.5 (52.6) | na | na |
 | Morphine Solution | 362.4 (42.6) | 64.4 (38.2) | 0.9 (55.8) | na | na |
 | Multiple Dose (n = 24) |  |  |  |  |  |
 | KADIAN Capsule Once Daily | 500.9 (38.6) | 37.3 (37.7) | 10.3 (32.2) | 9.9 (52.3) | 3.0 (45.5) |
 | Extended-Release Tablet Twice Daily | 457.3 (40.2) | 36.9 (42.0) | 4.4 (53.0) | 7.6 (60.3) | 4.1 (51.5) |
+
+* For single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state † For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours ‡ Steady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin § Not applicable
 
 Food effect: While concurrent administration of food slows the rate of absorption of KADIAN, the extent of absorption is not affected and KADIAN can be administered without regard to meals.
 
@@ -95,7 +95,7 @@ Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intes
 The volume of distribution of morphine is approximately 3 to 4 L/kg.
 Morphine is 30 to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
-Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.3)].
+Morphine also crosses the placental membranes [see USE IN SPECIFIC POPULATIONS (8.1)] and has been found in breast milk [see USE IN SPECIFIC POPULATIONS (8.3)].
 
 Metabolism
 
@@ -117,7 +117,7 @@ The mean adult plasma clearance of morphine is about 20 to 30 mL/minute/kg.
 The effective terminal half-life of morphine after IV administration is reported to be approximately 2 hours.
 The terminal elimination half-life of morphine following a single dose of KADIAN administration is approximately 11 to 13 hours.
 
-Specific Populations
+Special Populations
 
 Geriatric Patients: The pharmacokinetics of KADIAN have not been investigated in elderly patients (> 65 years) although such patients were included in the clinical studies.
 
