@@ -8,9 +8,7 @@ Cleocin HCl® clindamycin hydrochloride capsules, USP
 
 75 mg*
 
-100 Capsules
-
-Rx only
+100 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label
 
@@ -22,9 +20,7 @@ Cleocin HCl® clindamycin hydrochloride capsules, USP
 
 150 mg*
 
-100 Capsules
-
-Rx only
+100 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Capsule Blister Pack
 
@@ -58,9 +54,7 @@ Cleocin HCl® clindamycin hydrochloride capsules, USP
 
 300 mg*
 
-100 Capsules
-
-Rx only
+100 Capsules Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Capsule Blister Pack
 
