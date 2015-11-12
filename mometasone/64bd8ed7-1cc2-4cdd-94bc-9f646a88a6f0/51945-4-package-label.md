@@ -4,11 +4,11 @@ NDC 0085-0854-01
 
 30 mL (27.5 g)
 
-Elocon® Lotion, 0.1% brand of (mometasone furoate topical solution USP)
+Elocon® (mometasone furoate) Lotion, 0.1%
 
-For dermatologic use only.
+For topical use only.
 Not for ophthalmic use.
 
-Rx only
-
 DO NOT USE IN EYES
+
+Rx only

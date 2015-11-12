@@ -1,7 +1,9 @@
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: Schering Plough Canada, Inc. Pointe Claire, Quebec, Canada.
+Manufactured by: Bayer Inc. Pointe Claire, Quebec H9R 1B4, Canada
+
+For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1989, 2008, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-032088-EL-LT-USPI.6
+uspi-mk0887-lt-1509r007
