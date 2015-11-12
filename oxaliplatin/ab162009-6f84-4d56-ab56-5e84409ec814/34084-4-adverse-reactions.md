@@ -2,10 +2,13 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- •Anaphylaxis and Allergic reactions [See BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1).]
-- •Neuropathy [See WARNINGS AND PRECAUTIONS (5.2).]
-- •Pulmonary Toxicities [See WARNINGS AND PRECAUTIONS (5.3).]
-- •Hepatotoxicity [See WARNINGS AND PRECAUTIONS (5.4).]
+- •Anaphylaxis and Allergic reactions [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1).]
+- •Neuropathy [see WARNINGS AND PRECAUTIONS (5.2).]
+- •Severe Neutropenia [see WARNINGS AND PRECAUTIONS (5.3).]
+- •Pulmonary Toxicities [see WARNINGS AND PRECAUTIONS (5.4).]
+- •Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.5).]
+- •Cardiovascular Toxicities [see WARNINGS AND PRECAUTIONS (5.6).]
+- •Rhabdomyolysis [see WARNINGS AND PRECAUTIONS (5.7).]
 
 ## 6.1 Clinical Trials Experience
 
@@ -100,7 +103,7 @@ Patients Previously Untreated for Advanced Colorectal Cancer
 Two hundred and fifty-nine patients were treated in the oxaliplatin and 5-fluorouracil/leucovorin combination arm of the randomized trial in patients previously untreated for advanced colorectal cancer [see CLINICAL STUDIES (14)].
 The adverse reaction profile in this study was similar to that seen in other studies and the adverse reactions in this trial are shown in the tables below.
 Both 5-fluorouracil and oxaliplatin are associated with gastrointestinal and hematologic adverse reactions.
-When oxaliplatin is administered in combination with 5-fluorouracil, the incidence of these events is increased
+When oxaliplatin is administered in combination with 5-fluorouracil, the incidence of these events is increased.
 
 The incidence of death within 30 days of treatment in the previously untreated for advanced colorectal cancer study, regardless of causality, was 3% with the oxaliplatin and 5-fluorouracil/leucovorin combination, 5% with irinotecan plus 5-fluorouracil/leucovorin, and 3% with oxaliplatin plus irinotecan.
 Deaths within 60 days from initiation of therapy were 2.3% with the oxaliplatin and 5-fluorouracil/leucovorin combination, 5.1% with irinotecan plus 5-fluorouracil/leucovorin, and 3.1% with oxaliplatin plus irinotecan.
@@ -394,7 +397,7 @@ Serum creatinine measurements were not reported in the adjuvant trial.
 
 Hepatic
 
-Hepatotoxicity (defined as elevation of liver enzymes) appears to be related to oxaliplatin combination therapy [see WARNING AND PRECAUTIONS (5.4)] The following tables list the clinical chemistry changes associated with hepatic toxicity occurring in ≥5% of patients, based on adverse reactions reported and NCI CTC grade for adjuvant patients and patients previously untreated for advanced colorectal cancer, laboratory values and NCI CTC grade for previously treated patients.
+Hepatotoxicity (defined as elevation of liver enzymes) appears to be related to oxaliplatin combination therapy [see WARNING AND PRECAUTIONS (5.6)] The following tables list the clinical chemistry changes associated with hepatic toxicity occurring in ≥5% of patients, based on adverse reactions reported and NCI CTC grade for adjuvant patients and patients previously untreated for advanced colorectal cancer, laboratory values and NCI CTC grade for previously treated patients.
 
 Table 12 - Adverse Hepatic Reactions in Patients with Stage II or III Colon Cancer Receiving Adjuvant Therapy (≥5% of patients)
 
@@ -438,6 +441,10 @@ Body as a whole
 
 angioedema, anaphylactic shock
 
+Cardiovascular disorders
+
+QT prolongation leading to ventricular arrhythmias including fatal Torsade de Pointes
+
 Central and peripheral nervous system disorders
 
 loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
@@ -446,6 +453,10 @@ Hearing and vestibular system disorders
 
 deafness
 
+Infections
+
+septic shock, including fatal outcomes
+
 Infusion reactions/hypersensitivity
 
 laryngospasm
@@ -453,6 +464,10 @@ laryngospasm
 Liver and Gastrointestinal system disorders
 
 severe diarrhea/vomiting resulting in hypokalemia, colitis (including Clostridium difficile diarrhea), metabolic acidosis; ileus; intestinal obstruction, pancreatitis; veno-occlusive disease of liver also known as sinusoidal obstruction syndrome, and perisinusoidal fibrosis which rarely may progress.
+
+Musculoskeletal and connective tissue disorders
+
+rhabdomyolysis, including fatal outcomes.
 
 Platelet, bleeding, and clotting disorders
 

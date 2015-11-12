@@ -107,6 +107,8 @@ Figure 2 shows the DFS Kaplan-Meier curves for the comparison of oxaliplatin and
 
 Figure 3 shows the DFS Kaplan-Meier curves for the comparison of oxaliplatin and infusional 5-fluorouracil/leucovorin combination and infusional 5-fluorouracil/leucovorin alone in Stage III patients.
 
+Figure 2 - DFS Kaplan-Meier curves by treatment arm (cutoff: 1 June 2006) – ITT population
+
 The following table summarizes the overall survival (OS) results in the overall randomized population and in patients with stage II and III disease, based on the ITT analysis.
 
 Table 19 - Summary of OS analysis - ITT analysis
@@ -163,7 +165,7 @@ Table 21 – Patient Demographics in Patients Previously Untreated for Advanced 
 | <65 years of age (%) | 61 | 62 | 63 |
 | ≥65 years of age (%) | 39 | 38 | 37 |
 | ECOG (%) |  |  |  |
-| 0.1 | 94.4 | 95.5 | 94.7 |
+| 0-1 | 94.4 | 95.5 | 94.7 |
 | 2 | 5.6 | 4.5 | 5.3 |
 | Involved organs (%) |  |  |  |
 | Colon only | 0.7 | 0.8 | 0.4 |
@@ -204,6 +206,8 @@ Table 22 – Summary of Efficacy
 | P-value | 0.0080 | - | - |
 
 Figure 4 illustrates the Kaplan-Meier survival curves for the comparison of oxaliplatin and 5-fluorouracil/leucovorin combination and oxaliplatin plus irinotecan to irinotecan plus 5-fluorouracil/leucovorin.
+
+Figure 4 - Kaplan-Meier Overall Survival by treatment arm
 
 A descriptive subgroup analysis demonstrated that the improvement in survival for oxaliplatin plus 5-fluorouracil/leucovorin compared to irinotecan plus 5-fluorouracil/leucovorin appeared to be maintained across age groups, prior adjuvant therapy, and number of organs involved.
 An estimated survival advantage in oxaliplatin plus 5-fluorouracil/leucovorin versus irinotecan plus 5-fluorouracil/leucovorin was seen in both genders; however it was greater among women than men.

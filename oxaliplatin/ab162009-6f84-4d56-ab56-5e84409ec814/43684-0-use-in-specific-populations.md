@@ -24,7 +24,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 The effectiveness of oxaliplatin in children has not been established.
 Oxaliplatin has been tested in 2 Phase 1 and 2 Phase 2 trials in 235 patients ages 7 months to 22 years with solid tumors (see below) and no significant activity observed.
 
-In a Phase 1/2 study, oxaliplatin was administered as a 2-hour intravenous infusion on days 1, 8 and 15 every 4 weeks (1 cycle), for a maximum of 6 cycles, to 43 patients with refractory or relapsed malignant solid tumors, mainly neuroblastoma and osteosarcoma.
+In a Phase 1/2 study, oxaliplatin was administered as a 2-hour intravenous infusion on Days 1, 8 and 15 every 4 weeks (1 cycle), for a maximum of 6 cycles, to 43 patients with refractory or relapsed malignant solid tumors, mainly neuroblastoma and osteosarcoma.
 Twenty eight pediatric patients in the Phase 1 study received oxaliplatin at 6 dose levels starting at 40 mg/m2 with escalation to 110 mg/m2.
 The dose limiting toxicity (DLT) was sensory neuropathy at the 110 mg/m2 dose.
 Fifteen patients received oxaliplatin at a dose of 90 mg/m2 intravenous in the Phase 2 portion of the study.
@@ -44,7 +44,7 @@ In patients < 10 kg the oxaliplatin dose used was 4.3 mg/kg.
 The most common adverse reactions reported were leukopenia (67%, G3/4: 12%), anemia (65%, G3/4: 5%), thrombocytopenia (65%, G3/4: 26%), vomiting (65%, G3/4: 7%), neutropenia (58%, G3/4: 16%) and sensory neuropathy (40%, G3/4: 5%).
 One partial response was observed.
 
-In a second Phase 2 study, 123 pediatric patients with recurrent solid tumors, including neuroblastoma, osteosarcoma, Ewing sarcoma or peripheral PNET, ependymoma,, rhabdomyosarcoma, hepatoblastoma, high grade astrocytoma, Brain stem glioma, low grade astrocytoma, malignant germ cell tumor and other tumors of interest received oxaliplatin 130 mg/m2 every 3 weeks for a maximum of 12 months or 17 cycles.
+In a second Phase 2 study, 123 pediatric patients with recurrent solid tumors, including neuroblastoma, osteosarcoma, Ewing sarcoma or peripheral PNET, ependymoma, rhabdomyosarcoma, hepatoblastoma, high grade astrocytoma, Brain stem glioma, low grade astrocytoma, malignant germ cell tumor and other tumors of interest received oxaliplatin 130 mg/m2 every 3 weeks for a maximum of 12 months or 17 cycles.
 In patients < 12 months old the oxaliplatin dose used was 4.3 mg/kg.
 The most common adverse reactions reported were sensory neuropathy (52%, G3/4: 12%), thrombocytopenia (37%, G3/4: 17%), anemia (37%, G3/4: 9%), vomiting (26%, G3/4: 4%), ALT increased (24%, G3/4: 6%), AST increased (24%, G3/4: 2%), and nausea (23%, G3/4: 3%).
 Two partial responses were observed.
@@ -63,7 +63,7 @@ In the adjuvant therapy colon cancer randomized clinical trial, [see CLINICAL ST
 A descriptive subgroup analysis demonstrated that the improvement in DFS for the oxaliplatin combination arm compared to the infusional 5-fluorouracil/leucovorin alone arm appeared to be maintained across genders.
 The effect of oxaliplatin in patients ≥ 65 years of age was not conclusive.
 Insufficient subgroup sizes prevented analysis by race.
-Patients ≥ 65 years of age receiving the oxaliplatin combination therapy experienced more grade 3-4 granulocytopenia than patients < 65 years of age (45% versus 39%).
+Patients ≥ 65 years of age receiving the oxaliplatin combination therapy experienced more grade 3 to 4 granulocytopenia than patients < 65 years of age (45% versus 39%).
 
 In the previously untreated for advanced colorectal cancer randomized clinical trial [see CLINICAL STUDIES (14)] of oxaliplatin, 160 patients treated with oxaliplatin and 5-fluorouracil/leucovorin were < 65 years and 99 patients were ≥65 years.
 The same efficacy improvements in response rate, time to tumor progression, and overall survival were observed in the ≥65 year old patients as in the overall study population.

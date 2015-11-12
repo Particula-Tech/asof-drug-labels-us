@@ -20,7 +20,7 @@ For information on 5-fluorouracil and leucovorin, see the respective package ins
 
 ## 2.2 Dose Modification Recommendations
 
-Prior to subsequent therapy cycles, patients should be evaluated for clinical toxicities and recommended laboratory tests [see WARNINGS AND PRECAUTIONS (5.6)].
+Prior to subsequent therapy cycles, patients should be evaluated for clinical toxicities and recommended laboratory tests [see WARNINGS AND PRECAUTIONS (5.11)].
 Prolongation of infusion time for oxaliplatin from 2 hours to 6 hours may mitigate acute toxicities.
 The infusion times for 5-fluorouracil and leucovorin do not need to be changed.
 
@@ -32,19 +32,19 @@ For patients who experience persistent Grade 2 neurosensory events that do not r
 For patients with persistent Grade 3 neurosensory events, discontinuing therapy should be considered.
 The infusional 5-fluorouracil/leucovorin regimen need not be altered.
 
-A dose reduction of oxaliplatin to 75 mg/m2 and infusional 5-fluorouracil to 300 mg/m2 bolus and 500 mg/m2 22 hour infusion is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment) or grade 4 neutropenia or grade 3/4 thrombocytopenia.
+A dose reduction of oxaliplatin to 75 mg/m2 and infusional 5-fluorouracil to 300 mg/m2 bolus and 500 mg/m2 22 hour infusion is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment) or grade 4 neutropenia, or febrile neutropenia, or grade 3/4 thrombocytopenia.
 The next dose should be delayed until: neutrophils ≥1.5 × 109/L and platelets ≥75 × 109/L.
 
 Dose Modifications in Therapy in Previously Untreated and Previously Treated Patients with Advanced Colorectal Cancer
 
 Neuropathy was graded using a study-specific neurotoxicity scale [see WARNINGS AND PRECAUTIONS (5.2)].
-Other toxicities were graded by the NCI CTC, Version 2.
+Other toxicities were graded by the NCI CTC, Version 2.0
 
 For patients who experience persistent Grade 2 neurosensory events that do not resolve, a dose reduction of oxaliplatin to 65 mg/m2 should be considered.
 For patients with persistent Grade 3 neurosensory events, discontinuing therapy should be considered.
 The 5-fluorouracil/leucovorin regimen need not be altered.
 
-A dose reduction of oxaliplatin to 65 mg/m2 and 5-fluorouracil by 20% (300 mg/m2 bolus and 500 mg/m2 22-hour infusion) is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment) or grade 4 neutropenia or grade 3/4 thrombocytopenia.
+A dose reduction of oxaliplatin to 65 mg/m2 and 5-fluorouracil by 20% (300 mg/m2 bolus and 500 mg/m2 22-hour infusion) is recommended for patients after recovery from grade 3/4 gastrointestinal (despite prophylactic treatment) or grade 4 neutropenia, or febrile neutropenia, or grade 3/4 thrombocytopenia.
 The next dose should be delayed until: neutrophils ≥1.5 × 109/L and platelets ≥75 × 109/L.
 
 Dose Modifications in Therapy for Patients with Renal Impairment

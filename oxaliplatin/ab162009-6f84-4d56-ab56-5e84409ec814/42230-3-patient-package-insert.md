@@ -4,7 +4,7 @@ PATIENT INFORMATION
 
 Oxaliplatin Injection, USP
 
-Solution, Concentrate, for Intravenous Use
+Solution, Concentrate, for Intravenous Use (ox-Al-ah-platin)
 
 Read this Patient Information leaflet carefully before you start receiving oxaliplatin injection.
 There may be new information.
@@ -14,18 +14,15 @@ Ask your doctor about any questions you have.
 
 What is the most important information I should know about oxaliplatin injection?
 
-Serious side effects can happen in people taking oxaliplatin injection, including:
-
-- •Serious allergic reactions.
-  Oxaliplatin injection can cause serious allergic reactions, including allergic reactions that may cause death.
-  Oxaliplatin injection is a platinum base medicine.
-  Serious allergic reactions including death can occur in people who take Oxaliplatin injection and who have had previous allergic reactions to platinum medicines.
-  Serious allergic reactions can happen within a few minutes of your infusion or any time during your treatment with oxaliplatin injection.
+Oxaliplatin injection can cause serious allergic reactions, including allergic reactions that can lead to death.
+Oxaliplatin injection is a platinum base medicine.
+Serious allergic reactions including death can happen in people who take oxaliplatin injection and who have had previous allergic reactions to platinum medicines.
+Serious allergic reactions can happen within a few minutes of your oxaliplatin injection infusion or any time during your treatment with oxaliplatin injection.
 
 Get emergency help right away if you:
 
-- •have trouble breathing.
-- •feel like your throat is closing up.
+- •have trouble breathing
+- •feel like your throat is closing up
 
 Call your doctor right away if you have any of the following signs or symptoms of an allergic reaction:
 
@@ -39,94 +36,86 @@ Call your doctor right away if you have any of the following signs or symptoms o
 - •sweating
 - •chest pain
 
-See “What are the possible side effects of oxaliplatin injection” for information about other serious side effects.
+See “What are the possible side effects of oxaliplatin injection?” for information about other serious side effects.
 
 What is oxaliplatin injection?
 
 Oxaliplatin injection is an anti-cancer (chemotherapy) medicine that is used with other anti-cancer medicines called 5-fluorouracil and leucovorin to treat people with:
 
 - •stage III colon cancer after surgery to remove the tumor
-- •advanced colon or rectal cancer (colo-rectal cancer).
+- •advanced colon or rectal cancer (colorectal cancer)
 
-Oxaliplatin injection with infusional 5-fluorouracil and leucovorin was shown to lower the chance of colon cancer returning when given to patients with stage III colon cancer after surgery to remove the tumor.
-Oxaliplatin injection also increases survival in patients with stage III colon cancer.
-Oxaliplatin injection with infusional 5-fluorouracil and leucovorin was also shown to increase survival, shrink tumors and delay growth of tumors in some patients with advanced colorectal cancer.
+It is not known if oxaliplatin injection is effective in children.
 
-It is not known if oxaliplatin injection works in children.
+Who should not receive oxaliplatin injection?
 
-Who should not use oxaliplatin injection?
-
-- •Do not use oxaliplatin injection if you are allergic to any of the ingredients in oxaliplatin injection or other medicines that contain platinum.
-  Cisplatin and carboplatin are other chemotherapy medicines that also contain platinum.
-  See the end of this leaflet for a complete list of the ingredients in oxaliplatin Injection.
+Do not receive oxaliplatin injection if you are allergic to any of the ingredients in oxaliplatin injection or other medicines that contain platinum.
+See the end of this leaflet for a complete list of the ingredients in oxaliplatin Injection.
 
 Ask your doctor if you are not sure if you take a medicine that contains platinum.
 
-What should I tell my doctor before treatment with oxaliplatin injection?
+What should I tell my doctor before receiving oxaliplatin injection?
 
-Before receiving oxaliplatin injection, tell your doctorif you:
+Before receiving oxaliplatin injection, tell your doctor about all of your medical conditions, including if you:
 
-- •have kidney problems
-- •have any other medical conditions
-- •have had any allergic reactions to any medicines
+- •have an infection
+- •have lung, liver, or kidney problems
+- •have or had heart problems such as an abnormal heart test called an electrocardiogram (ECG or EKG), a condition called long QT syndrome, an irregular or slow heartbeat, or a family history of heart problems.
+- •have had changes in the level of certain blood salt (electrolytes) levels, including potassium, magnesium, and calcium.
 - •are pregnant or plan to become pregnant.
-  Oxaliplatin injection may harm your unborn child.
-  You should avoid becoming pregnant while taking oxaliplatin injection.
-  Talk with your doctor about how to avoid pregnancy.
+  Oxaliplatin injection may harm your unborn baby.
+  Females who are able to become pregnant should avoid becoming pregnant and should use effective birth control during treatment with oxaliplatin injection.
 - •are breastfeeding or plan to breastfeed.
   It is not known if oxaliplatin injection passes into your breast milk.
-  You and your doctor should decide whether you will stop breastfeeding or not take oxaliplatin injection.
+  You and your doctor should decide if you will receive oxaliplatin injection or breastfeed.
+  You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
-How is oxaliplatin injection intravenous given to me?
+How will I receive oxaliplatin injection?
 
-Oxaliplatin is given to you through your veins (blood vessels)
+- •Oxaliplatin is given to you into your vein through an intravenous (IV) tube.
 
-- •Your doctor will prescribe oxaliplatin in an amount that is right for you.
-- •Your doctor will treat you with several medicines for your cancer.
-- •It is very important that you do exactly what your doctor and nurse have taught you to do.
+- •Your doctor will prescribe oxaliplatin injection in a dose that is right for you.
+- •Your doctor may change how often you receive oxaliplatin injection, your dose, or how long your infusion will take.
+- •You and your doctor will decide how many oxaliplatin injection treatments you will receive.
+- •It is very important that you do exactly what your doctor and nurse tell you to do.
 - •Some medicines may be given to you before oxaliplatin injection to help prevent nausea and vomiting.
-- •Oxaliplatin injection is given with 2 other chemotherapy medicines, leucovorin and 5-fluorouracil.
 - •Each treatment course is given to you over 2 days.
   You will receive oxaliplatin injection on the first day only.
 - •There are usually 14 days between each chemotherapy treatment course.
+- •It is important for you to keep all of your medical appointments.
+  Call your doctor if you miss an appointment.
+  There may be special instructions for you.
 
 Treatment Day 1:
 
-Oxaliplatin injection and leucovorin are given through a thin plastic tube put into a vein (intravenous infusion or I.V.) and given for 2 hours.
-You will be watched by a healthcare provider during this time.
-
-Right after the oxaliplatin injection and leucovorin are finished, 2 doses of 5-fluorouracil will be given.
-The first dose is given right away into your I.V. tube.
-The second dose will be given into your I.V. tube over the next 22 hours, using a pump device.
+- •Oxaliplatin injection and leucovorin will be given through a thin plastic tube into a vein (intravenous infusion or IV) and given for 2 hours.
+  You will be watched by a healthcare provider during this time.
+- •Right after the oxaliplatin injection and leucovorin are given, 2 doses of 5-fluorouracil will be given.
+  The first dose is given right away into your IV tube.
+  The second dose will be given into your IV tube over the next 22 hours, using a pump device.
 
 Treatment Day 2:
 
 You will not get oxaliplatin injection on Day 2.
 Leucovorin and 5-fluorouracil will be given the same way as on Day 1.
 
-During your treatment with oxaliplatin injection:
-
-- •It is important for you to keep all appointments.
-  Call your doctor if you must miss an appointment.
-  There may be special instructions for you.
-- •Your doctor may change how often you get oxaliplatin injection, how much you get, or how long the infusion will take.
-- •You and your doctor will discuss how many times you will get oxaliplatin injection.
-
-The 5-fluorouracil will be given through your I.V. with a pump.
+The 5-fluorouracil will be given through your IV with a pump.
 If you have any problems with the pump or the tube, call your doctor, your nurse, or the person who is responsible for your pump.
 Do not let anyone other than a healthcare provider touch your infusion pump or tubing.
 
-What activities should I avoid while on treatment with oxaliplatin injection?
+What should I avoid while receiving oxaliplatin injection?
 
 - •Avoid cold temperatures and cold objects.
-  Cover your skin if you must go outside in cold temperatures.
+  Cover your skin if you go outdoors in cold temperatures.
 - •Do not drink cold drinks or use ice cubes in drinks.
 - •Do not put ice or ice packs on your body.
+- •Oxaliplatin injection can cause dizziness, vision problems, or vision loss that can affect your ability to drive or use machines.
+  You should not drive or operate machinery if you develop these symptoms while receiving oxaliplatin injection.
 
 See “How can I reduce the side effects caused by cold temperatures?” for more information.
 
@@ -137,69 +126,68 @@ What are the possible side effects of oxaliplatin injection?
 
 Oxaliplatin injection can cause serious side effects, including:
 
-- •Serious allergic reactions.
-  See “What is the most important information I should know about oxaliplatin injection?”
-- •Nerve problems Oxaliplatin injection can affect how your nerves work and make you feel.
-  Tell your doctor right away if you get any signs of nerve problems listed below:
-  - ∘very sensitive to cold temperatures and cold objects
-  - ∘trouble breathing, swallowing, or saying words, jaw tightness, odd feelings in your tongue, or chest pressure
-  - ∘pain, tingling, burning (pins and needles, numb feeling) in your hands, feet, or around your mouth or throat, which may cause problems walking or performing activities of daily living.
-- •Reversible Posterior Leukoencephalopathy (RPLS).
-  RPLS is a rare condition that affects the brain.
-  Tell your doctor right away if you have any of the following signs and symptoms of RPLS:
-  - ∘ headache
-  - ∘confusion or a change in the way you think
-  - ∘seizures
-  - ∘vision problems, such as blurriness or vision loss.
-    You should not drive, operate heavy machines, or engage in dangerous activities if you have vision problems while receiving oxaliplatin injection.
-
-The first signs of nerve problems may happen with the first treatment.
-The nerve problems can also start up to 2 days after treatment.
-If you develop nerve problems, the amount of oxaliplatin injection in your next treatment may be changed or oxaliplatin injection treatment may be stopped.
+- •See “What is the most important information I should know about oxaliplatin injection?”
+- •Nerve problems.
+  Oxaliplatin injection can affect how your nerves work and make you feel.
+  Nerve problems may happen with the first treatment or within two days after your treatment of oxaliplatin injection.
+  Nerve problems may last a short time (acute) or may become persistent.
+  Symptoms may improve after stopping treatment with oxaliplatin injection.
+  Exposure to cold or cold objects may cause or worsen nerve problems.
+  Tell your doctor right away if you get any signs of nerve problems, including:
+  - overy sensitive to cold temperatures and cold objects
+  - otrouble breathing, swallowing, or saying words, jaw tightness, odd feelings in your tongue, or chest pressure
+  - opain, tingling, burning (pins and needles, numb feeling) in your hands, feet, or around your mouth or throat, which may cause problems walking or performing activities of daily living.
 
 For information on ways to lessen or help with the nerve problems, see the end of this leaflet, “How can I reduce the side effects caused by cold temperatures?”
 
+- •Reversible Posterior Leukoencephalopathy (RPLS).
+  RPLS is a rare condition that affects the brain.
+  Tell your doctor right away if you have any of the following signs and symptoms of RPLS:
+  - oheadache
+  - oconfusion or a change in the way you think
+  - oseizures
+  - ovision problems, such as blurriness or vision loss
+- •Low white blood cell counts (neutropenia).
+  Oxaliplatin injection can cause low white blood cells counts.
+  Low blood cell counts are common with oxaliplatin injection and can lead to serious infection and death.
+  Tell your doctor right away if you have a fever greater than 100.9°F (38.3°C) or a prolonged fever greater than 100.4°F (38°C) for more than one hour (febrile neutropenia).
+  Call your doctor right away if you get any of the following signs of infection:
+  - ochills or shivering
+  - opain on swallowing
+  - osore throat
+  - ocough that brings up mucus
+  - ocough that brings up mucus
+  - oburning or pain on urination
+  - oredness or swelling at intravenous site
+  - opersistent diarrhea
 - •Lung problems (interstitial fibrosis).
+  Oxaliplatin injection can cause lung problems that may lead to death.
   Tell your doctor right away if you get a dry cough and have trouble breathing (shortness of breath) before your next treatment.
   These may be signs of a serious lung disease.
 - •Liver problems (hepatotoxicity).
   Your doctor will do blood tests to check your liver.
+- •Heart problems.
+  Oxaliplatin injection can cause heart problems that have led to death.
+  Your doctor may do blood and heart tests during treatment with oxaliplatin injection if you have certain heart problem.
+  If you faint (lose consciousness) or have an irregular heartbeat or chest pain during treatment with oxaliplatin injection, tell your doctor right away as this may be a sign of a serious heart condition.
+- •Muscle problems.
+  Oxaliplatin injection can cause muscle damage (rhabdomyolysis) which can lead to death.
+  Tell your doctor right away if you have muscle pain and swelling, along with weakness, fever, or red-brown urine.
 - •Harm to an unborn baby.
-  Oxaliplatin injection may cause harm to your unborn baby.
-  See “What should I tell my doctor before treatment with oxaliplatin injection?”
+  See “What should I tell my doctor before receiving oxaliplatin injection?”
 
-The most common side effects with oxaliplatin injection include:
+The most common side effects of oxaliplatin injection include:
 
-- •Decreased blood counts: oxaliplatin injection can cause a decrease in neutrophils (a type of white blood cells important in fighting bacterial infections), red blood cells (blood cells that carry oxygen to the tissues), and platelets (important for clotting and to control bleeding).
-- •High blood pressure (hypertension)
-- •Infection Call your doctor right away if you get any of the following signs of infection:
-  - ∘fever (temperature of 100.5 F or greater)
-  - ∘chills or shivering
-  - ∘pain on swallowing
-  - ∘sore throat
-  - ∘cough that brings up mucus
-  - ∘burning or pain on urination
-  - ∘redness or swelling at intravenous site
-- •Bleeding or bruising.
-  Tell your doctor about any signs or symptoms of bleeding or bruising.
-- •Diarrhea
+- •Numbness, pain, tingling, and/or burning along the nerves
+- •Low white blood cells (neutropenia)
+- •Low platelet count (important for clotting and to control bleeding)
+- •Low red blood cells (blood cells that carry oxygen to the tissues)
 - •Nausea
+- •Changes in liver function tests
+- •Diarrhea
 - •Vomiting
-- •Constipation
-- •Mouth sores
-- •Stomach pain
-- •Decreased appetite
 - •Tiredness
-- •Injection site reactions.
-  Reactions may include redness, swelling, pain, tissue damage at the site of injection
-- •Hair loss (alopecia)
-- •Dehydration (too much water loss).
-  Call your doctor if you have signs of dehydration including:
-  - ∘tiredness
-  - ∘thirst
-  - ∘dry mouth
-  - ∘lightheadedness (dizziness)
-  - ∘decreased urination
+- •Mouth sores
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of oxaliplatin injection.
@@ -218,16 +206,16 @@ How can I reduce the side effects caused by cold temperatures?
 - •Drink fluids warm or at room temperature.
 - •Always drink through a straw.
 - •Do not use ice chips if you have nausea or mouth sores.
-  Ask your healthcare provider or doctor about what you can use.
+  Ask your doctor about what you can use.
 - •Be aware that most metals are cold to touch, especially in the winter.
   These include your car door and mailbox.
   Wear gloves to touch cold objects.
 - •Do not run the air-conditioning at high levels in the house or in the car in hot weather.
 - •If your body gets cold, warm-up the affected part.
   If your hands get cold, wash them with warm water.
-- •Always let your healthcare provider or doctor know before your next treatment how well you did since your last visit.
+- •Always let your doctor know before your next treatment how well you did since your last visit.
 
-This list is not complete and your healthcare provider or doctor may have other useful tips for helping you with these side effects.
+Your doctor may have other useful tips for helping you with these side effects.
 
 General information about the safe and effective use of oxaliplatin injection.
 
@@ -241,13 +229,9 @@ What are the ingredients in oxaliplatin injection?
 
 Active ingredient: oxaliplatin
 
-Inactive ingredient: Water for Injection, USP
+Inactive ingredient: water for Injection, USP
 
-Manufactured by Ebewe Pharma,
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-A-4866 Unterach Austria
-
-for Sandoz Inc., Princeton NJ 08540
-
-Rev.
-July 2013
+Manufactured by Ebewe Pharma, A-4866 Unterach Austria for Sandoz Inc., Princeton NJ 08540 Rev.
+October 2015
