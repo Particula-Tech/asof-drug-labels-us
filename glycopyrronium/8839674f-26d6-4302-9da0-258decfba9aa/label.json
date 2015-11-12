@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA207923"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0662-19",
+    "0078-0662-61"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "glycopyrrolate",
+      "name": "SEEBRI NEOHALER"
+    }
+  ],
+  "setid": "8839674f-26d6-4302-9da0-258decfba9aa",
+  "source": "dailymed"
+}
