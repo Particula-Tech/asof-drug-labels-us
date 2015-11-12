@@ -17,19 +17,19 @@ Advise patients to not ingest more than the recommended dose of levocetirizine d
 
 Manufactured by:
 
-Glenmark Generics Limited
+Glenmark Pharmaceuticals Limited
 
 Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA
+Glenmark Pharmaceuticals Inc., USA
 
 Mahwah, NJ 07430
 
 Questions?
 1 (888)721-7115
 
-www.glenmarkgenerics.com
+www.glenmarkpharma.com/usa
 
-December 2013
+December 2014
