@@ -1,12 +1,12 @@
-PRINCIPAL DISPLAY PANEL - 15 g Tube Carton
+PRINCIPAL DISPLAY PANEL - 15 g Tube Box
 
 NDC 0085-0370-01
 
 15 g
 
-ELOCON® Ointment, 0.1% brand of (mometasone furoate ointment USP)
+ELOCON® (mometasone furoate) Ointment, 0.1%
 
-For dermatologic use only.
+For topical use only.
 
 Not for ophthalmic use.
 
