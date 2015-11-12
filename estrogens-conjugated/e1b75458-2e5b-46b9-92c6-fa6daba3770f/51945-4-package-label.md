@@ -46,9 +46,7 @@ After opening foil pouch, product must be used within 60 days.
 
 Dispense and store product in original package to protect from moisture.
 
-30 tablets
-
-Rx only
+30 tablets Rx only
 
 Package includes 2 blister cards containing 15 tablets each.
 
