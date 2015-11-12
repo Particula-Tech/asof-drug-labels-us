@@ -1,10 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Box
+# PRINCIPAL DISPLAY PANEL - 30 mL Bottle Box
 
-60 mL (58 g) NDC 0085-0962-02
+30 mL (29 g) NDC 0085-0962-01
 
-Diprolene®
-
-(augmented betamethasone dipropionate) Lotion, 0.05%*
+Diprolene® (augmented betamethasone dipropionate) Lotion, 0.05%*
 
 *Strength expressed as betamethasone
 
