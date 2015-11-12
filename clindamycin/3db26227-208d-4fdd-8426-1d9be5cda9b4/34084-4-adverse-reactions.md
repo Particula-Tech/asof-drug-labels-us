@@ -46,4 +46,4 @@ Musculoskeletal: Rare instances of polyarthritis have been reported.
 
 Renal: Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed in rare instances.
 
-There have been reports of pseudomembranous colits following the administration of clindamycin vaginal cream.
+There have been reports of pseudomembranous colitis following the administration of clindamycin vaginal cream.
