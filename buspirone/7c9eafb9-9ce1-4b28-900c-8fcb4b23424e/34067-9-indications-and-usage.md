@@ -1,19 +1,19 @@
 # INDICATIONS AND USAGE
 
-Buspirone hydrochloride tablets are indicated for the management of anxiety disorders or the short-term relief of the symptoms of anxiety.
+Buspirone hydrochloride tablets, USP are indicated for the management of anxiety disorders or the short-term relief of the symptoms of anxiety.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
 
-The efficacy of buspirone hydrochloride has been demonstrated in controlled clinical trials of outpatients whose diagnosis roughly corresponds to Generalized Anxiety Disorder (GAD).
+The efficacy of buspirone hydrochloride tablets has been demonstrated in controlled clinical trials of outpatients whose diagnosis roughly corresponds to Generalized Anxiety Disorder (GAD).
 Many of the patients enrolled in these studies also had coexisting depressive symptoms and buspirone relieved anxiety in the presence of these coexisting depressive symptoms.
 The patients evaluated in these studies had experienced symptoms for periods of 1 month to over 1 year prior to the study, with an average symptom duration of 6 months.
 Generalized Anxiety Disorder (300.02) is described in the American Psychiatric Association’s Diagnostic and Statistical Manual, III1 as follows:
 
 Generalized, persistent anxiety (of at least 1 month continual duration), manifested by symptoms from three of the four following categories:
 
-- •Motor tension: shakiness, jitteriness, jumpiness, trembling, tension, muscle aches, fatigability, inability to relax, eyelid twitch, furrowed brow, strained face, fidgeting, restlessness, easy startle.
-- •Autonomic hyperactivity: sweating, heart pounding or racing, cold, clammy hands, dry mouth, dizziness, lightheadedness, paresthesias (tingling in hands or feet), upset stomach, hot or cold spells, frequent urination, diarrhea, discomfort in the pit of the stomach, lump in the throat, flushing, pallor, high resting pulse and respiration rate.
-- •Apprehensive expectation: anxiety, worry, fear, rumination, and anticipation of misfortune to self or others.
-- •Vigilance and scanning: hyperattentiveness resulting in distractibility, difficulty in concentrating, insomnia, feeling “on edge,” irritability, impatience.
+- 1.Motor tension: shakiness, jitteriness, jumpiness, trembling, tension, muscle aches, fatigability, inability to relax, eyelid twitch, furrowed brow, strained face, fidgeting, restlessness, easy startle.
+- 2.Autonomic hyperactivity: sweating, heart pounding or racing, cold, clammy hands, dry mouth, dizziness, lightheadedness, paresthesias (tingling in hands or feet), upset stomach, hot or cold spells, frequent urination, diarrhea, discomfort in the pit of the stomach, lump in the throat, flushing, pallor, high resting pulse and respiration rate.
+- 3.Apprehensive expectation: anxiety, worry, fear, rumination, and anticipation of misfortune to self or others.
+- 4.Vigilance and scanning: hyperattentiveness resulting in distractibility, difficulty in concentrating, insomnia, feeling “on edge,” irritability, impatience.
 
 The above symptoms would not be due to another mental disorder, such as a depressive disorder or schizophrenia.
 However, mild depressive symptoms are common in GAD.

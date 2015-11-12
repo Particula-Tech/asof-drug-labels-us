@@ -27,4 +27,4 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2010 PL: BUSPAS:R4
+REVISED OCTOBER 2015 PL:BUSPAS:R5p

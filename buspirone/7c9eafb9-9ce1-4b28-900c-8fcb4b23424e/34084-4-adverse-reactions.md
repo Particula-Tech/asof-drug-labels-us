@@ -24,7 +24,7 @@ Comparison of the cited figures, however, does provide the prescribing physician
 TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALSEvents reported by at least 1% of buspirone patients are included.
 (Percent of Patients Reporting)
 
-| Adverse Experience | Buspirone (n=477) | Placebo (n=464) |
+| Adverse Experience | Buspirone (n = 477) | Placebo (n = 464) |
 | --- | --- | --- |
 | Cardiovascular |  |  |
 | Tachycardia/Palpitations | 1 | 1 |
@@ -52,7 +52,7 @@ TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL T
 | Musculoskeletal Aches/Pains | 1 | — |
 | Neurological |  |  |
 | Numbness | 2 | — |
-| Parasthesia | 1 | — |
+| Paresthesia | 1 | — |
 | Incoordination | 1 | — |
 | Tremor | 1 | — |
 | Skin |  |  |
