@@ -14,9 +14,7 @@ This is particularly evident in the kidney, where rapid ion exchange leads to so
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
-
-Oral administration of single doses of 30 mg prednisolone base equivalent of Orapred ODT, and Pediapred Solution to 21 adult volunteers yielded comparable pharmacokinetic data:
+Absorption: Oral administration of single doses of 30 mg prednisolone base equivalent of Orapred ODT, and Pediapred Solution to 21 adult volunteers yielded comparable pharmacokinetic data:
 
 Table 1.
 Comparison of Mean Pharmacokinetic Parameters (%CV) in Healthy Volunteers Following a Single Dose of 30 mg Orapred ODT and Pediapred Solution,
@@ -27,21 +25,13 @@ Comparison of Mean Pharmacokinetic Parameters (%CV) in Healthy Volunteers Follow
 | Pediapred Solution | 2426.1 (360.0) | 461.33 (77.94) |
 | Orapred ODT | 2408.1 (361.5) | 420.91 (78.28) |
 
-Distribution:
+Distribution: Prednisolone is 70-90% protein-bound in the plasma and the volume of distribution is reported as 0.22 - 0.7 L/kg.
 
-Prednisolone is 70-90% protein-bound in the plasma and the volume of distribution is reported as 0.22 - 0.7 L/kg.
+Metabolism: Prednisolone is reported to be metabolized mainly in the liver and excreted in the urine as sulfate and glucuronide conjugates.
 
-Metabolism:
+Excretion: Prednisolone is eliminated from the plasma with a mean (± SD) half-life of 2.6 (± 0.27) hours.
 
-Prednisolone is reported to be metabolized mainly in the liver and excreted in the urine as sulfate and glucuronide conjugates.
-
-Excretion:
-
-Prednisolone is eliminated from the plasma with a mean (± SD) half-life of 2.6 (± 0.27) hours.
-
-Special Populations
-
-The systemic availability, metabolism and elimination of prednisolone after administration of single weight-based doses (0.8 mg/kg) of intravenous (IV) prednisolone and oral prednisone were reported in a small study of 19 younger (23 to 34 years) and 12 geriatric (65 to 89 years) subjects.
+Special Populations The systemic availability, metabolism and elimination of prednisolone after administration of single weight-based doses (0.8 mg/kg) of intravenous (IV) prednisolone and oral prednisone were reported in a small study of 19 younger (23 to 34 years) and 12 geriatric (65 to 89 years) subjects.
 Results showed that the systemic availability of total and unbound prednisolone, as well as interconversion between prednisolone and prednisone were independent of age.
 The mean unbound fraction of prednisolone was higher, and the steady-state volume of distribution (Vss) of unbound prednisolone was reduced in elderly patients.
 Plasma prednisolone concentrations were higher in elderly subjects, and the higher AUCs of total and unbound prednisolone were most likely reflective of an impaired metabolic clearance, evidenced by reduced fractional urinary clearance of 6b-hydroxyprednisolone.

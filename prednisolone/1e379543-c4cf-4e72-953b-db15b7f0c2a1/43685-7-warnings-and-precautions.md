@@ -23,7 +23,6 @@ The degree to which the dose, route and duration of corticosteroid administratio
 Corticosteroids may mask some signs of infection and may reduce resistance to new infections.
 
 Corticosteroids may exacerbate infections and increase risk of disseminated infection.
-
 The use of Orapred in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 Chickenpox and measles can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
@@ -38,7 +37,6 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 
 Corticosteroids may increase risk of reactivation or exacerbation of latent infection.
-
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
@@ -83,9 +81,7 @@ The use of oral corticosteroids is not recommended in the treatment of optic neu
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
-Patients with Ocular Herpes Simplex
-
-Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
+Patients with Ocular Herpes Simplex Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
 
 ## 5.8 Vaccination
