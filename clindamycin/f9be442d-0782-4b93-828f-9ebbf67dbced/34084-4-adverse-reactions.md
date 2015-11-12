@@ -69,8 +69,9 @@ Skin: pruritus (topical application site) and erythema.
 
 ### Post-marketing Experience
 
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 In the post-marketing period, there have been case reports of pseudomembranous colitis with the use of clindamycin phosphate vaginal cream.
-The frequency of pseudomembranous colitis is not known.
 
 ### Other clindamycin formulations
 

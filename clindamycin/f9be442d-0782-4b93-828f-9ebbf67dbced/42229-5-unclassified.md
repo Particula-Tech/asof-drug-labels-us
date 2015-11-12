@@ -13,13 +13,13 @@ Nonetheless, clindamycin is an antimicrobial agent active in vitro against most 
 
 - Bacteroides spp.
 - Gardnerella vaginalis
-- Mobiluncus spp.
+- Mobiluncus spp
 - Mycoplasma hominis
-- Peptostreptococcus spp.
+- Peptostreptococcus spp
 
 Rx only
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0043-5.0 January 2015
+LAB-0043-6.0 June 2015
