@@ -1,7 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-In the event of acute overdosage, the patient should be carefully observed and given supportive treatment, including monitoring of renal function, urinary pH and acidify, if required, to prevent crystalluria.
+In the event of acute overdosage, reversible renal toxicity has been reported in some cases.
+Observe the patient carefully and give supportive treatment, including monitoring of renal function, urinary pH and acidify, if required, to prevent crystalluria.
 Adequate hydration must be maintained.
-Only a small amount of ciprofloxacin (< 10%) is removed from the body after hemodialysis or peritoneal dialysis.
+Only a small amount of ciprofloxacin (less than 10%) is removed from the body after hemodialysis or peritoneal dialysis.
 
-In mice, rats, rabbits and dogs, significant toxicity including tonic/clonic convulsions was observed at intravenous doses of ciprofloxacin between 125 and 300 mg/kg.
+In mice, rats, rabbits and dogs, significant toxicity including tonic/clonic convulsions was observed at intravenous doses of ciprofloxacin between 125mg/kg and 300 mg/kg.

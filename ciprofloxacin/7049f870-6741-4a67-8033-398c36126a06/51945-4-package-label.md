@@ -2,6 +2,8 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL –Bag Label
 
 NDC 25021-114-82
 
+100 mL
+
 Ciprofloxacin Injection, USP
 
 200 mg
