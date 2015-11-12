@@ -106,56 +106,37 @@ For IV Use Only
 
 NOVAPLUS®
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL- 40.5 GRAM - VIAL
-
-NDC 0206-2416-01
-
-ZOSYN®
-
-(Piperacillin and Tazobactam for Injection, USP)
-
-Reconstituted stock solution must be transferred and further diluted for I.V. infusion
-
-Does not contain preservatives.
-
-Contains 9 mg of edetate disodium dehydrate.
-
-40.5 GRAM VIAL
-
-PHARMACY BULK PACKAGE
-
-Not for Direct Infusion
-
-Rx only
+# PRINCIPAL DISPLAY PANEL - 40.5 GRAM Vial Label
 
 NOVAPLUS®
 
-Distributed by Wyeth Pharmaceuticals Inc
-
-A subsidiary of Pfizer Inc
-
-Phildadelphia, PA 19101
-
-NOVAPLUS is a registered trademark of Novation, LLC
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40.5 GRAM - CARTON
-
-NDC 0206-2416-01
-
-ZOSYN®
-
-(Piperacillin and Tazobactam for Injection, USP)
-
-Contains piperacillin and tazobactam cryodesiccated powders for injection equivalent to 36 grams of piperacillin, 4.5 grams of tazobactam and 100.4 mEq (2,304 mg) of sodium.
-Contains 9 mg of edetate disodium dihydrate.
-
-40.5 GRAM VIAL
-
 PHARMACY BULK PACKAGE
+
+NDC 0206-2416-01 Rx ONLY
+
+ZOSYN®(Piperacillin and Tazobactam for Injection, USP)
 
 Not for Direct Infusion
 
-Rx only
+RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR I.V.
+INFUSION
+
+40.5 GRAM VIAL
+
+# PRINCIPAL DISPLAY PANEL - 40.5 GRAM Vial Carton
+
+NDC 0206-2416-01 Rx ONLY
+
+ZOSYN®(Piperacillin and Tazobactam for Injection, USP)
+
+Not for Direct Infusion
+
+PHARMACY BULK PACKAGE
+
+40.5 GRAM VIAL
+
+Contains piperacillin and tazobactam cryodesiccated powders for injection equivalent to 36 grams of piperacillin, 4.5 grams of tazobactam and 100.4 mEq (2,304 mg) of sodium.
+Contains 9 mg of edetate disodium dihydrate.
 
 RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR I.V.
 INFUSION
