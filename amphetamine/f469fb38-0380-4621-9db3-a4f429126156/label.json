@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200166"
+  ],
+  "inn": "amphetamine",
+  "labeler": "Arbor Pharmaceuticals",
+  "package_ndcs": [
+    "24338-022-10",
+    "24338-026-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amphetamine sulfate",
+      "name": "Evekeo"
+    }
+  ],
+  "setid": "f469fb38-0380-4621-9db3-a4f429126156",
+  "source": "dailymed"
+}
