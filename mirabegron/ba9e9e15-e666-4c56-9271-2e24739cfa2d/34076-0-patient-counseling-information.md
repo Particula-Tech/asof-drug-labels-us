@@ -22,4 +22,4 @@ MYRBETRIQ® is a registered trademark of Astellas Pharma Inc. All other trademar
 
 © 2015 Astellas Pharma US, Inc.
 
-Revised: July 2015 15F042-MIR
+Revised: November 2015 15C024-MIR

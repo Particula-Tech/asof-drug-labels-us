@@ -7,7 +7,7 @@ MYRBETRIQ® should be used during pregnancy only if the potential benefit to the
 Women who become pregnant during MYRBETRIQ® treatment are encouraged to contact their physician.
 
 Risk Summary Based on animal data, mirabegron is predicted to have a low probability of increasing the risk of adverse developmental outcomes above background risk.
-Reversible adverse developmental findings consisting of delayed ossification and wavy ribs in rats and decreased fetal body weights in rabbits occurred at exposures greater than or equal to 22 and 14 times, respectively, the maximal recommended human dose (MRHD).
+Reversible adverse developmental findings consisting of delayed ossification and wavy ribs in rats and decreased fetal body weights in rabbits occurred at exposures greater than or equal to 22 and 14 times, respectively, the maximum recommended human dose (MRHD).
 At maternally toxic exposures decreased fetal weights were observed in rats and rabbits, and fetal death, dilated aorta, and cardiomegaly were reported in rabbits.
 
 Animal Data In the rat embryo/fetal developmental toxicity study, pregnant rats received daily oral doses of mirabegron at 0, 10, 30, 100, or 300 mg/kg from implantation to closure of the fetal hard palate (7th to 17th day of gestation).
@@ -26,7 +26,7 @@ Maternal systemic exposures were 0, 1, 6, and 22 times the exposure in women at 
 Rat pups exposed to mirabegron in utero and through 21 days of lactation had no discernable adverse effects at maternal systemic exposures 6 times the MRHD.
 A slight but statistically significant decrease in the survival of pups was observed 4 days after birth at exposures 22 times the MRHD (92.7% survival) compared to the control group (98.8%), however, there was no effect on survival of pups 21 days after birth.
 Absolute body weight of pups was not affected on the day of birth.
-However, at the 30 mg/kg dose (22-fold higher systemic exposure than humans at MHRD) body weight gain of pups was reduced 5% to 13% from postnatal day 4 to 7 but not throughout the remainder of the lactation period.
+However, at the 30 mg/kg dose (22-fold higher systemic exposure than humans at MRHD) body weight gain of pups was reduced 5% to 13% from postnatal day 4 to 7 but not throughout the remainder of the lactation period.
 In utero and lactational exposure did not affect behavior or fertility of offspring at exposures up to 22 times the MRHD.
 
 ## 8.3 Nursing Mothers
