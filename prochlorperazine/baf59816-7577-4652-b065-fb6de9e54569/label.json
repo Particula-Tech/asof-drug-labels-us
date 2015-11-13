@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA089903"
+  ],
+  "inn": "prochlorperazine",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "0641-6135-01",
+    "0641-6135-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "prochlorperazine edisylate",
+      "name": "Prochlorperazine Edisylate"
+    }
+  ],
+  "setid": "baf59816-7577-4652-b065-fb6de9e54569",
+  "source": "dailymed"
+}
