@@ -1,11 +1,7 @@
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 500 mg (100 Tablet Bottle)
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 500 mg (100 Tablets Bottle)
 
-NDC 65862-014-01 Amoxicillin Tablets, USP 500 mg Rx only 100 Tablets
+NDC 65862-014-01 Amoxicillin Tablets, USP 500 mg Rx only 100 Tablets AUROBINDO
 
-AUROBINDO
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 875 mg (100 Tablets Bottle)
 
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 875 mg (100 Tablet Bottle)
-
-NDC 65862-015-01 Amoxicillin Tablets, USP 875 mg Rx only 100 Tablets
-
-AUROBINDO
+NDC 65862-015-01 Amoxicillin Tablets, USP 875 mg Rx only 100 Tablets AUROBINDO

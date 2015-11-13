@@ -2,14 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-Amoxicillin is an antibacterial drug [see Microbiology (12.4)].
+Amoxicillin is an antibacterial drug.
+[see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption: Amoxicillin is stable in the presence of gastric acid and is rapidly absorbed after oral administration.
 The effect of food on the absorption of amoxicillin from the tablets and suspension of amoxicillin has been partially investigated; 400 mg and 875 mg formulations have been studied only when administered at the start of a light meal.
 Orally administered doses of 250 mg and 500 mg amoxicillin capsules result in average peak blood levels 1 to 2 hours after administration in the range of 3.5 mcg/mL to 5 mcg/mL and 5.5 mcg/mL to 7.5 mcg/mL, respectively.
-Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of amoxicillin with 875 mg of amoxicillin and clavulanate potassium showed that the 875 mg tablet of amoxicillin produces an AUC0-∞ of 35.4 ± 8.1 mcg●hr/mL and a Cmax of 13.8 ± 4.1 mcg/mL.
+Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of amoxicillin with 875 mg of amoxicillin/clavulanate potassium showed that the 875 mg tablet of amoxicillin produces an AUC0-∞ of 35.4 ± 8.1 mcg●hr/mL and a Cmax of 13.8 ± 4.1 mcg/mL.
 Dosing was at the start of a light meal following an overnight fast.
 Orally administered doses of amoxicillin suspension, 125 mg/5 mL and 250 mg/5 mL, result in average peak blood levels 1 to 2 hours after administration in the range of 1.5 mcg/mL to 3 mcg/mL and 3.5 mcg/mL to 5 mcg/mL, respectively.
 Oral administration of single doses of 400 mg chewable tablets and 400 mg/5 mL suspension of amoxicillin to 24 adult volunteers yielded comparable pharmacokinetic data:
@@ -34,65 +35,91 @@ Since most of the amoxicillin is excreted unchanged in the urine, its excretion 
 
 ## 12.4 Microbiology
 
-Mechanism of Action Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication.
+Mechanism of Action
+
+Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication.
 It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria.
-Method of Resistance Resistance to amoxicillin is mediated primarily through enzymes called beta-lactamases that cleave the beta-lactam ring of amoxicillin, rendering it inactive.
+
+Mechanism of Resistance
+
+Resistance to amoxicillin is mediated primarily through enzymes called beta-lactamases that cleave the beta-lactam ring of amoxicillin, rendering it inactive.
+
 Amoxicillin has been shown to be active against most isolates of the bacteria listed below, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-| Gram-Positive Bacteria | Gram-Negative Bacteria |
-| --- | --- |
-| Enterococcus faecalis Staphylococcus spp. Streptococcus pneumoniae Alpha and β-hemolytic streptococci. | Escherichia coli Haemophilus influenzae Neisseria gonorrhoeae Proteus mirabilis Helicobacter pylori |
+Gram-Positive Bacteria
 
-Susceptibility Test Methods: (susceptibility to amoxicillin can be determined using ampicillin powder and a 10 mcg ampicillin disk) When available, clinical microbiology should provide the results of in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting an antimicrobial drug product for treatment.
-Dilution Techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+Enterococcus faecalis
+
+Staphylococcus spp.
+
+Streptococcus pneumoniae
+
+Streptococcus spp.
+(alpha and beta-hemolytic)
+
+Gram-Negative Bacteria
+
+Escherichia coli
+
+Haemophilus influenzae
+
+Helicobacter pylori
+
+Proteus mirabilis
+
+Susceptibility Test Methods:
+
+When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting the most effective antimicrobial.
+
+Dilution Techniques:Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on dilution methods (broth or agar)2,3 or equivalent with standardized inoculum concentrations and standardized concentrations of ampicillin powder.
+The MICs should be determined using a standardized test method - (broth or agar) 2,4.
 The MIC values should be interpreted according to the criteria in Table 4.
-Diffusion Techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 10 mcg ampicillin to test the susceptibility of bacteria to ampicillin.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for amoxicillin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 mcg ampicillin disk should be interpreted according to the criteria listed in Table 4.
+
+Diffusion Techniques:Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds3,4.
+The zone size should be determined using a standardized test method3.
+
+Susceptibility to amoxicillin of Enterococcus spp., Enterobacteriaceae, and H. influenzae, may be inferred by testing ampicillin4.
+Susceptibility to amoxicillin of Staphylococcus spp., and beta-hemolytic Streptococcus spp., may be inferred by testing penicillin4.
+The majority of isolates of Enterococcus spp. that are resistant to ampicillin or amoxicillin produce a TEM-type beta-lactamase.
+A beta-lactamase test can provide a rapid means of determining resistance to ampicillin and amoxicillin4.
+
+Susceptibility to amoxicillin of Streptococcus pneumoniae (non-meningitis isolates) may be inferred by testing penicillin or oxacillin4.
+The interpretive criteria for S. pneumoniae to amoxicillin are provided in Table 44.
 
 Table 4.
-Susceptibility Test Interpretive Criteria for Amoxicillin
+Susceptibility Interpretive Criteria for Amoxicillin
 
-| Susceptible | Intermediate | Resistant | Susceptible | Intermediate | Resistant |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
-| Enterococcus spp. | ≤ 8 | - | ≥ 16 | ≥ 17 | - | ≤ 16 |
-| Staphylococcus spp. | ≤ 0.25 |  | ≥ 0.5 | ≥ 29 |  | ≤ 28 |
-| Streptococci, viridians group (alpha-hemolytic streptococci) | ≤ 0.25 | 0.5 to 4 | ≥ 8 | - | - | - |
-| β-hemolytic streptococci | ≤ 0.25 | - | - | ≥ 24 | - | - |
+| --- | --- | --- | --- | --- | --- | --- |
+| Susceptible | Intermediate | Resistant | Susceptible | Intermediate | Resistant |  |
 | Streptococcus pneumoniae (non-meningitis isolates)* | ≤ 2 | 4 | ≥ 8 | - | - | - |
-| Enterobacteriaceae | ≤ 8 | 16 | ≥ 32 | ≥ 17 | 14 to 16 | ≤ 13 |
-| Haemophilus influenzae | ≤ 1 | 2 | ≥ 4 | ≥ 22 | 19 to 21 | ≤ 18 |
-| Neisseria gonorrhoeae** | - | - | - | - | - | - |
-| * S. pneumoniae should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤ 19 mm. **A positive beta lactamase test indicates resistance to amoxicillin. Isolates that are resistant to penicillin by MIC testing are also expected to be resistant to amoxicillin. |  |  |  |  |  |  |
+| *S. pneumoniae should be tested using a 1 mcg oxacillin disk. Isolates with oxacillin zone sizes of > 20 mm are susceptible to amoxicillin. An amoxicillin MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of < 19 mm4. |  |  |  |  |  |  |
 
-A report of “Susceptible” indicates the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches concentrations that are usually achievable.
-A report of “Intermediate” indicates that result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-The intermediate category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-The intermediate category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches concentrations that are usually achievable and other therapy(ies) are likely to be preferred.
-Quality Control Susceptibility techniques require use of laboratory control microorganisms to control the technical aspects of the laboratory standardized procedures.2,3,4 Standard ampicillin powder should provide the MIC values described below.
-For the diffusion technique using the 10 mcg ampicillin disk, the criteria are provided in Table 5.
+A report of “Susceptible” indicates the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches a concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “Resistant” indicates the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
-Table 5.
-Acceptable Quality Control Ranges for Amoxicillin
+Susceptibility Testing for Helicobacter pylori
 
-| Bacteria | ATCC# | MIC Range (mcg/mL) | Disc Diffusion Zone Range (mm) |
-| --- | --- | --- | --- |
-| Escherichia coli | 25922 | 2 to 8 | 16 to 22 |
-| Enterococcus faecalis | 29212 | 0.5 to 2 |  |
-| Haemophilus influenzae | 49247 | 2 to 8 | 13 to 21 |
-| Staphylococcus aureus | 29213 | 0.5 to 2 |  |
-| 25923 |  | 27 to 35 |  |
-| Streptococcus pneumoniae | 49619 | 0.06 to 0.25 |  |
-| # ATCC = American Type Culture Collection |  |  |  |
-
-Susceptibility Testing for Helicobacter pylori: Amoxicillin in vitro susceptibility testing methods for determining minimum inhibitory concentrations (MICs) and zone sizes have not been standardized, validated, or approved for testing H. pylori.
+Amoxicillin in vitro susceptibility testing methods for determining minimum inhibitory concentrations (MICs) and zone sizes have not been standardized, validated, or approved for testing H. pylori.
 Specimens for H. pylori and clarithromycin susceptibility test results should be obtained on isolates from patients who fail triple therapy.
 If clarithromycin resistance is found, a non-clarithromycin-containing regimen should be used.
+
+Quality Control:
+
+Standardized susceptibility test procedures2,3,4 require use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test control.
+Standard amoxicillin powder should provide the following range of MIC values provided in Table 54.
+For the diffusion technique the criteria provided in Table 5 should be achieved.
+
+Table 5.
+Acceptable Quality Control Ranges for Amoxicillina
+
+| Quality Control Microorganism | Minimum Inhibitory Concentrations (mcg/mL) | Disc Diffusion Zone Diameter (mm) |
+| --- | --- | --- |
+| Streptococcus pneumoniae ATCCb49619 | 0.03 to 0.12 | --- |
+| Klebsiella pneumoniae ATCC 700603 | >128 | --- |
+| aQC limits for testing E. coli 35218 when tested on Haemophilus Test Medium (HTM) are ≥ 256 mcg/mL for amoxicillin; testing amoxicillin may help to determine if the isolate has maintained its ability to produce betalactamase4.b ATCC = American Type Culture Collection |  |  |
