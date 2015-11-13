@@ -1,10 +1,17 @@
 # HOW SUPPLIED
 
-Tramadol hydrochloride tablets, USP 50 mg are supplied as unscored, white, round film coated tablets debossed “AN” over “627”.
+Tramadol hydrochloride tablets, USP 50 mg are supplied as unscored, white, round film-coated tablets debossed “AN” over “627”.
 They are supplied as follows:
 
 Bottles of 10 tablets: NDC 65162-627-01 Bottles of 100 tablets: NDC 65162-627-10 Bottles of 500 tablets: NDC 65162-627-50 Bottles of 1000 tablets: NDC 65162-627-11
 
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+
 Dispense in a tight container as defined in the USP.
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Manufactured by: Amneal Pharmaceuticals Hauppauge, NY 11788
+
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+
+Rev.
+10-2015-03
