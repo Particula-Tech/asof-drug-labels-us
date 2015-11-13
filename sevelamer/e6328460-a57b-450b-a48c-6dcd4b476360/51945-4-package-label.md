@@ -18,23 +18,9 @@ NDC 58468-0130-1
 
 Manufactured by: Genzyme Ireland Ltd. For: Genzyme Corporation 500 Kendall Street Cambridge, MA 02142 USA
 
-# PRINCIPAL DISPLAY PANEL - 2.4 g Packet Carton
+Package Label - Principal Display Panel - 2.4 g Packets, 90 per Carton
 
-genzyme Rx Only
-
-Renvela®
-
-sevelamer carbonate
-
-For oral suspension
-
-Citrus Flavor
-
-Contains 90 packets
-
-# PRINCIPAL DISPLAY PANEL - 0.8 g Packet Carton
-
-genzyme Rx Only
+NDC 58468-0131-2
 
 Renvela®
 
@@ -42,6 +28,20 @@ sevelamer carbonate
 
 For oral suspension
 
+2.4 g packets
+
 Citrus Flavor
 
-Contains 90 packets
+Package Label - Principal Display Panel - 0.8 g Packets, 90 per Carton
+
+NDC 58468-0132-2
+
+Renvela®
+
+sevelamer carbonate
+
+For oral suspension
+
+0.8 g packets
+
+Citrus Flavor

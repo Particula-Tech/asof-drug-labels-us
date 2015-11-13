@@ -28,8 +28,7 @@ Use the same dose in grams.
 Further titration may be necessary to achieve desired phosphorus levels.
 
 Switching from Calcium Acetate.
-In a study in 84 CKD patients on hemodialysis, a similar reduction in serum phosphorus was seen with equivalent doses (approximately mg for mg) of sevelamer hydrochloride and calcium acetate.
-Table 2 gives recommended starting doses of Renvela based on a patient's current calcium acetate dose.
+In a study in 84 CKD patients on hemodialysis, a similar reduction in serum phosphorus was seen with equivalent doses (approximately mg for mg) of sevelamer hydrochloride and calcium acetate.Table 2 gives recommended starting doses of Renvela based on a patient's current calcium acetate dose.
 
 Table 2.
 Starting Dose for Dialysis Patients Switching From Calcium Acetate to Renvela
@@ -45,7 +44,7 @@ Titrate the Renvela dose by 0.8 g three times per day with meals at two-week int
 
 ## 2.2 Sevelamer Carbonate Powder Preparation Instructions
 
-The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mixed thoroughly with the amount of water described in Table 3.
+The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mixed thoroughly with the amount of water described inTable 3.
 
 Table 3.
 Sevelamer Carbonate Powder Preparation Instructions
