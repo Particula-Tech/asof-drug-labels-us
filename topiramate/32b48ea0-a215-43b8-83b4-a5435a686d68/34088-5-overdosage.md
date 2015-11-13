@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 Overdoses of topiramate have been reported.
-Signs and symptoms included convulsions, drowsiness, speech disturbance, blurred vision, diplopia, mentation impaired, lethargy, abnormal coordination, stupor, hypotension, abdominal pain, agitation, dizziness, and depression.
+Signs and symptoms included convulsions, drowsiness, speech disturbance, blurred vision, diplopia, mentation impaired, lethargy, abnormal coordination, stupor, hypotension, abdominal pain, agitation, dizziness and depression.
 The clinical consequences were not severe in most cases, but deaths have been reported after poly-drug overdoses involving topiramate.
 Topiramate overdose has resulted in severe metabolic acidosis [see Warnings and Precautions (5.4)].
 A patient who ingested a dose between 96 and 110 g topiramate was admitted to a hospital with a coma lasting 20 to 24 hours followed by full recovery after 3 to 4 days.

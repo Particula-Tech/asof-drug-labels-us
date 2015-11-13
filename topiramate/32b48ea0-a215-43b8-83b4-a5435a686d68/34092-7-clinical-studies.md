@@ -113,3 +113,5 @@ Subset analyses of the antiepileptic efficacy of topiramate
 
 tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 to 100 mg/day in adults and over a 2- to 8-week period in children; transition was permitted to a new antiepileptic regimen when clinically indicated.
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

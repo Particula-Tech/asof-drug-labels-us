@@ -34,20 +34,20 @@ Monotherapy Epilepsy
 
 Adults ≥16 Years
 
-The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day topiramate group and at an incidence higher (³ 5%) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
+The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day topiramate group and at an incidence higher (≥ 5%) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
 
 Approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions causing discontinuation in this trial were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
 
 Pediatric Patients 6 to <16 Years of Age
 
-The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramategroup and at an incidence higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
+The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramate group and at an incidence higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
 Table 5 also presents the incidence of adverse reactions occurring in at least 2% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
-Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any TopiramateGroup and the Incidence in the 400 mg/day TopiramateGroup Was Greater Than the Incidence in the 50 mg/day TopiramateGroup for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study Topiramate-EPMN-106
+Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any Topiramate Group and the Incidence in the 400 mg/day Topiramate Group Was Greater Than the Incidence in the 50 mg/day Topiramate Group for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study Topiramate-EPMN-106
 
 |  | Age Group |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -146,9 +146,9 @@ Adverse reactions associated with discontinuing therapy included aggravated conv
 
 Incidence in Epilepsy Controlled Clinical Trials – Adjunctive Therapy – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, and Lennox-Gastaut Syndrome
 
-Table 6lists the incidence of adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day topiramate (and also higher daily dosing of 600 mg to 1000 mg) in controlled trials and that was numerically greater with topiramate than with placebo.
+Table 6 lists the incidence of adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day topiramate (and also higher daily dosing of 600 mg to 1000 mg) in controlled trials and that was numerically greater with topiramate than with placebo.
 In general, most patients who experienced adverse reactions during the first eight weeks of these trials no longer experienced them by their last visit.
-Table 9lists the incidence of treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg topiramate in controlled trials and that was numerically greater than the incidence in patients treated with placebo.
+Table 9 lists the incidence of treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg topiramate in controlled trials and that was numerically greater than the incidence in patients treated with placebo.
 
 The prescriber should be aware that these data were obtained when topiramate was added to concurrent antiepileptic drug therapy and cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with data obtained from other clinical investigations involving different treatments, uses, or investigators.
@@ -387,7 +387,7 @@ Table 9: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Contro
 | Appetite increased | 0 | 1 |
 | Neurosis | 0 | 1 |
 | Reproductive Disorders, Female |  |  |
-| Leukorrhoea | 0 | 2 |
+| Leukorrhea | 0 | 2 |
 | Resistance Mechanism Disorders |  |  |
 | Infection viral | 3 | 7 |
 | Respiratory System Disorders |  |  |
@@ -400,7 +400,7 @@ Table 9: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Contro
 | Hypertrichosis | 1 | 2 |
 | Rash erythematous | 0 | 2 |
 | Eczema | 0 | 1 |
-| Seborrhoea | 0 | 1 |
+| Seborrhea | 0 | 1 |
 | Skin discoloration | 0 | 1 |
 | Urinary System Disorders |  |  |
 | Urinary incontinence | 2 | 4 |
@@ -479,6 +479,8 @@ Rare: mydriasis, iritis.
 
 White Cell and Reticuloendothelial System Disorders:Infrequent: lymphadenopathy, eosinophilia, lymphopenia, granulocytopenia.
 Rare: lymphocytosis.
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing and Other Experience
 

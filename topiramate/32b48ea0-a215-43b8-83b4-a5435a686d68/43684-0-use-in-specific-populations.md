@@ -70,6 +70,8 @@ However, because of the absence of an appropriate control group, it is not known
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 to 24 months) with partial epilepsy is not known.
 Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 Juvenile Animal Studies When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use

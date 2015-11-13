@@ -233,7 +233,9 @@ Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, mic
 In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.’s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2015
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 11/2015

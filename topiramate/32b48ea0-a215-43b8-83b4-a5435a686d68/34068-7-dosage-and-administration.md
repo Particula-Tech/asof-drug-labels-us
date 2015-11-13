@@ -71,6 +71,8 @@ The dosage should then be increased at 1- or 2-week intervals by increments of 1
 Dose titration should be guided by clinical outcome.
 
 In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+Additional pediatric use information for patients ages 12 to 17 years is approved for Janssen Pharmaceuticals, Inc.'s TOPAMAX (topiramate) Tablets.
+However, due to Janssen Pharmaceuticals, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 Patients with Renal Impairment
 
