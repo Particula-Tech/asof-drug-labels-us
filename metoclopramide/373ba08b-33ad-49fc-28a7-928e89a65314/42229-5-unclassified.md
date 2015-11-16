@@ -1,3 +1,3 @@
-Injection, USP Rx only
+Injection, USP Fliptop Vial
 
-Fliptop Vial
+Rx only

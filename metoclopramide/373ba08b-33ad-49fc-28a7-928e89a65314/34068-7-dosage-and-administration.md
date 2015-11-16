@@ -34,12 +34,12 @@ To Facilitate Small Bowel Intubation
 
 If the tube has not passed the pylorus with conventional maneuvers in 10 minutes, a single dose (undiluted) may be administered slowly by the intravenous route over a 1 to 2 minute period.
 
-The recommended single dose is: Pediatric patients above 14 years of age and adults – 10 mg metoclopramide base.
+The recommended single use is: Pediatric patients above 14 years of age and adults – 10 mg metoclopramide base.
 Pediatric patients (6 to 14 years of age) – 2.5 to 5 mg metoclopramide base; (under 6 years of age) – 0.1 mg/kg metoclopramide base.
 
 To Aid in Radiological Examinations
 
-In patients where delayed gastric emptying interferes with radiological examination of the stomach and/or small intestine, a single dose may be administered slowly by the intravenous route over a 1 to 2 minute period.
+In patients where delayed gastric emptying interferes with radiological examination of the stomach and/or small intestine, a single use may be administered slowly by the intravenous route over a 1 to 2 minute period.
 
 For dosage, see intubation, above.
 

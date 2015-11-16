@@ -5,12 +5,13 @@
   "inn": "metoclopramide",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
-    "0409-3414-01"
+    "0409-3414-01",
+    "0409-3414-18"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "metoclopramide hydrochloride",
+      "generic": "metoclopramide",
       "name": "Metoclopramide"
     }
   ],

@@ -30,7 +30,7 @@ Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of m
 Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose.
 Similar time to peak is observed after individual doses at steady state.
 
-In a single dose study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 to 100 mg.
+In a single-use study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 to 100 mg.
 Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same.
 The average elimination half-life in individuals with normal renal function is 5 to 6 hours.
 Linear kinetic processes adequately describe the absorption and elimination of metoclopramide.
@@ -80,4 +80,4 @@ Pediatric Pharmacokinetic Studies
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | 0.35 mg/kgIV over 5 min | 4.4 ± 0.56 | 0.56 ± 0.10 | 3.0 ± 0.38(Dose/Cp0) | 152 ± 31 |  |  |
 | 2. | 2 mg/kg30 min IV infusion 4 to 5 times within 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |  |  |
-| a SEM not available. 1. Bateman, DN, et, al. Br J Clin Pharmac 15:557-559, 1983. 2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |  |  |
+| a SEM not available. 1. Bateman, DN, et al. Br J Clin Pharmac 15:557-559, 1983. 2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |  |  |

@@ -11,7 +11,7 @@ Metoclopramide Injection, USP is a sterile, nonpyrogenic solution of metoclopram
 Each milliliter contains metoclopramide base 5 mg (as the hydrochloride monohydrate); 8.5 mg sodium chloride.
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment; pH 4.4 (2.5 to 6.5).
 
-The solution contains no bacteriostat, antimicrobial agent or added buffer and is intended for use only as a single-dose injection.
+The solution contains no bacteriostat, antimicrobial agent or added buffer and is intended for use only as a single-use injection.
 When smaller doses are required, the unused portion should be discarded.
 
 This product is light sensitive.
