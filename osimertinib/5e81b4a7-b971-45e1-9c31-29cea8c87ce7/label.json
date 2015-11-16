@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208065"
+  ],
+  "inn": "osimertinib",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-1349-30",
+    "0310-1350-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "osimertinib",
+      "name": "TAGRISSO"
+    }
+  ],
+  "setid": "5e81b4a7-b971-45e1-9c31-29cea8c87ce7",
+  "source": "dailymed"
+}

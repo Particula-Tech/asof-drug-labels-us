@@ -1,0 +1,36 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Patient Selection
+
+Confirm the presence of a T790M EGFR mutation in tumor specimens prior to initiation of treatment with TAGRISSO [see Indications and Usage (1) and Clinical Studies (14)].
+Information on FDA-approved tests for the detection of T790M mutations is available at http://www.fda.gov/companiondiagnostics.
+
+## 2.2 Recommended Dosage Regimen
+
+The recommended dose of TAGRISSO is 80 mg tablet once a day until disease progression or unacceptable toxicity.
+TAGRISSO can be taken with or without food.
+
+If a dose of TAGRISSO is missed, do not make up the missed dose and take the next dose as scheduled.
+
+## 2.3 Administration to Patients Who Have Difficulty Swallowing Solids
+
+Disperse tablet in 4 tablespoons (approximately 50 mL) of non-carbonated water only.
+Stir until tablet is completely dispersed and swallow or administer through naso-gastric tube immediately.
+Do not crush, heat, or ultrasonicate during preparation.
+Rinse the container with 4 to 8 ounces of water and immediately drink or administer through the naso-gastric tube [see Clinical Pharmacology (12.3)].
+
+## 2.4 Dose Modification for Adverse Reactions
+
+Table 1 Recommended Dose Modifications for TAGRISSO
+
+| Target Organ | Adverse Reactiona | Dose Modification |
+| --- | --- | --- |
+| Pulmonary | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
+| Cardiac | QTc† interval greater than 500 msec on at least 2 separate ECGsb | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
+| QTc interval prolongation with signs/symptoms of life threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
+| Asymptomatic, absolute decrease in LVEFc of 10% from baseline and below 50% | Withhold TAGRISSO for up to 4 weeks. •If improved to baseline LVEF, resume.•If not improved to baseline, permanently discontinue. |  |
+| Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
+| Other | Grade 3 or higher adverse reaction | Withhold TAGRISSO for up to 3 weeks. |
+| If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
+| If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
+| a Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). b ECGs = Electrocardiograms c LVEF = Left Ventricular Ejection Fraction † QTc = QT interval corrected for heart rate |  |  |
