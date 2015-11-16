@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207561"
+  ],
+  "inn": "cobicistat",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-1901-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fumarate",
+      "name": "Genvoya"
+    }
+  ],
+  "setid": "34784acf-15ed-4715-b504-eb30430518e9",
+  "source": "dailymed"
+}
