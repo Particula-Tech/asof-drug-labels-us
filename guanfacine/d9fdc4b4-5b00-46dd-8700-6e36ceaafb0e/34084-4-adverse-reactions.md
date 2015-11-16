@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
-Adverse reactions noted with guanfacine are similar to those of other drugs of the central α2-adrenoreceptor agonist class: dry mouth, sedation (somnolence), weakness (asthenia), dizziness, constipation, and impotence.
+Adverse reactions noted with guanfacine hydrochloride are similar to those of other drugs of the central α2-adrenoreceptor agonist class: dry mouth, sedation (somnolence), weakness (asthenia), dizziness, constipation, and impotence.
 While the reactions are common, most are mild and tend to disappear on continued dosing.
 
 Skin rash with exfoliation has been reported in a few cases; although clear cause and effect relationships to guanfacine could not be established, should a rash occur, guanfacine should be discontinued and the patient monitored appropriately.
 
-In the dose-response monotherapy study described under Clinical Pharmacology, the frequency of the most commonly observed adverse reactions showed a dose relationship from 0.5 to 3 mg as follows:
+In the dose-response monotherapy study described under CLINICAL PHARMACOLOGY, the frequency of the most commonly observed adverse reactions showed a dose relationship from 0.5 to 3 mg as follows:
 
 | Adverse Reaction | Placebo n=59 | 0.5 mg n=60 | 1 mg n=61 | 2 mg n=60 | 3 mg n=59 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,9 +20,9 @@ In the dose-response monotherapy study described under Clinical Pharmacology, th
 
 The percent of patients who dropped out because of adverse reactions are shown below for each dosage group.
 
-| Dose | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg |
+|  | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg |
 | --- | --- | --- | --- | --- | --- |
-| Percent Dropouts | 0% | 2.0% | 5.0% | 13% | 32% |
+| Percent Dropouts | 0% | 2% | 5% | 13% | 32% |
 
 The most common reasons for dropouts among patients who received guanfacine were dry mouth, somnolence, dizziness, fatigue, weakness and constipation.
 
@@ -52,9 +52,9 @@ In a second 12-week placebo-controlled combination therapy study in which the do
 
 Reasons for dropouts among patients who received guanfacine were: somnolence, dry mouth, dizziness, impotence, constipation, confusion, depression and palpitations.
 
-In the clonidine/guanfacine comparison described in Clinical Pharmacology, the most common adverse reactions noted were as follows:
+In the clonidine/guanfacine comparison described in CLINICAL PHARMACOLOGY, the most common adverse reactions noted were as follows:
 
-| Adverse Reaction | Guanfacine (n=279) | Clonidine (n=278) |
+| Adverse Reactions | Guanfacine (n=279) | Clonidine (n=278) |
 | --- | --- | --- |
 | Dry Mouth | 30 % | 37% |
 | Somnolence | 21% | 35% |
@@ -64,7 +64,7 @@ In the clonidine/guanfacine comparison described in Clinical Pharmacology, the m
 | Headache | 4% | 4% |
 | Insomnia | 4% | 3% |
 
-Adverse reactions occurring in 3% or less of patients in the three controlled trials of guanfacine with a diuretic were:
+Adverse reactions occurring in 3% or less of patients in the three controlled trials of guanfacine hydrochloride with a diuretic were:
 
 • Cardiovascular: bradycardia, palpitations, substernal pain
 
@@ -82,7 +82,7 @@ Adverse reactions occurring in 3% or less of patients in the three controlled tr
 
 • Dermatologic: dermatitis, pruritus, purpura, sweating
 
-• Urogenital: testicular disorder, urinary incontinuence
+• Urogenital: testicular disorder, urinary incontinence
 
 • Other: malaise, paresthesia, paresis
 
@@ -106,12 +106,12 @@ The causes were: dry mouth (n = 20), weakness (n = 12), constipation (n = 7), so
 
 Postmarketing Experience
 
-An open-label postmarketing study involving 21,718 patients was conducted to assess the safety of guanfacine 1 mg/day given at bedtime for 28 days.
+An open-label postmarketing study involving 21,718 patients was conducted to assess the safety of guanfacine hydrochloride 1 mg/day given at bedtime for 28 days.
 Guanfacine was administered with or without other antihypertensive agents.
 Adverse events reported in the postmarketing study at an incidence greater than 1% included dry mouth, dizziness, somnolence, fatigue, headache and nausea.
 The most commonly reported adverse events in this study were the same as those observed in controlled clinical trials.
 
-Less frequent, possibly guanfacine-related events observed in the post-marketing study and/or reported spontaneously include:
+Less frequent, possibly guanfacine-related events observed in the postmarketing study and/or reported spontaneously include:
 
 • Body as a Whole: asthenia, chest pain, edema, malaise, tremor
 

@@ -3,7 +3,7 @@
     "ANDA075109"
   ],
   "inn": "guanfacine",
-  "labeler": "Amneal Pharmaceuticals",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
   "package_ndcs": [
     "65162-711-03",
     "65162-711-10",
@@ -14,7 +14,7 @@
   "products": [
     {
       "form": "TABLET",
-      "generic": "guanfacine hydrochloride",
+      "generic": "guanfacine",
       "name": "Guanfacine Hydrochloride"
     }
   ],
