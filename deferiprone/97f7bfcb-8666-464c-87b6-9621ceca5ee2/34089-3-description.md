@@ -8,4 +8,4 @@ Deferiprone is a white to pinkish-white crystalline powder.
 It is sparingly soluble in deionized water and has a melting point range of 272°C - 278°C.
 
 FERRIPROX oral solution is a clear, reddish orange colored solution.
-Each mL of oral solution contains 100 mg deferiprone and the following inactive ingredients: purified water, hydroxyethylcellulose, glycerin, hydrochloric acid, artificial cherry flavor, peppermint oil, FD&C Yellow No. 6 and sucralose.
+Each mL of oral solution contains 100 mg deferiprone and the following inactive ingredients: purified water, hydroxyethylcellulose, glycerin, hydrochloric acid, artificial cherry flavor, peppermint oil, FD&C Yellow No. 6, and sucralose.

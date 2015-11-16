@@ -6,7 +6,7 @@ The following adverse reactions are described below and elsewhere in the labelin
 
 - Agranulocytosis/Neutropenia [see Warnings and Precautions (5.1)]
 - Liver Enzyme Elevations [see Warnings and Precautions (5.3)]
-- Zinc Deficiency [see Warnings and Precautions (5.4)]
+- Zinc Deficiency [see Warnings and Precautions (5.4)].
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,35 +20,35 @@ The table below lists the adverse drug reactions that occurred in at least 1% of
 
 Table 2: Adverse drug reactions occurring in ≥ 1% of FERRIPROX-treated patients
 
-| Body System | (N=642) |
-| --- | --- |
-| Preferred Term | % Subjects |
-| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
-| Neutropenia | 6 |
-| Agranulocytosis | 2 |
-| GASTROINTESTINAL DISORDERS |  |
-| Nausea | 13 |
-| Abdominal pain/discomfort | 10 |
-| Vomiting | 10 |
-| Diarrhea | 3 |
-| Dyspepsia | 2 |
-| INVESTIGATIONS |  |
-| Alanine Aminotransferase increased | 7 |
-| Neutrophil count decreased | 7 |
-| Weight increased | 2 |
-| Aspartate Aminotransferase increased | 1 |
-| METABOLISM AND NUTRITION \|DISORDERS |  |
-| Increased appetite | 4 |
-| Decreased appetite | 1 |
-| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |
-| Arthralgia | 10 |
-| Back pain | 2 |
-| Pain in extremity | 2 |
-| Arthropathy | 1 |
-| NERVOUS SYSTEM DISORDERS |  |
-| Headache | 2 |
-| URINARY DISORDERS |  |
-| Chromaturia | 15 |
+| Body System |  | (N=642) |
+| --- | --- | --- |
+|  | Preferred Term | % Subjects |
+| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
+|  | Neutropenia | 6 |
+|  | Agranulocytosis | 2 |
+| GASTROINTESTINAL DISORDERS |  |  |
+|  | Nausea | 13 |
+|  | Abdominal pain/discomfort | 10 |
+|  | Vomiting | 10 |
+|  | Diarrhea | 3 |
+|  | Dyspepsia | 2 |
+| INVESTIGATIONS |  |  |
+|  | Alanine Aminotransferase increased | 7 |
+|  | Neutrophil count decreased | 7 |
+|  | Weight increased | 2 |
+|  | Aspartate Aminotransferase increased | 1 |
+| METABOLISM AND NUTRITION DISORDERS |  |  |
+|  | Increased appetite | 4 |
+|  | Decreased appetite | 1 |
+| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |
+|  | Arthralgia | 10 |
+|  | Back pain | 2 |
+|  | Pain in extremity | 2 |
+|  | Arthropathy | 1 |
+| NERVOUS SYSTEM DISORDERS |  |  |
+|  | Headache | 2 |
+| URINARY DISORDERS |  |  |
+|  | Chromaturia | 15 |
 
 Gastrointestinal symptoms such as nausea, vomiting, and abdominal pain were the most frequent adverse reactions reported by patients participating in clinical trials and led to the discontinuation of FERRIPROX therapy in 1.6% of patients.
 

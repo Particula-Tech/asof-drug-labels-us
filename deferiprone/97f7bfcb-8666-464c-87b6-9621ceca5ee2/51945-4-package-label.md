@@ -1,1 +1,11 @@
-PRINCIPAL DISPLAY PANEL NDC 52609-4502-7 Ferripox® (Deferiprone) Oral Solution 100 mg/mL
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+
+ApoPharma USA, Inc. NDC 52609-4502-7
+
+FERRIPROX oral solution
+
+100 mg/mL (50 g/500 mL)
+
+Rx only
+
+500 mL

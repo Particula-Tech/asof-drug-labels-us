@@ -38,14 +38,14 @@ In animal studies, administration of deferiprone during the period of organogene
 If FERRIPROX is used during pregnancy or if the patient becomes pregnant while taking FERRIPROX, the patient should be apprised of the potential hazard to the fetus.
 Women of reproductive potential should be advised to avoid pregnancy when taking FERRIPROX [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
-## 5.3Liver Enzyme Elevations
+## 5.3 Liver Enzyme Elevations
 
-In clinical studies, 7.5% of 642 subjects treated with FERRIPROX developed increased ALT values.
+IIn clinical studies, 7.5% of 642 subjects treated with FERRIPROX developed increased ALT values.
 Four (0.62%) FERRIPROX-treated subjects discontinued the drug due to increased serum ALT levels and 1 (0.16%) due to an increase in both ALT and AST.
 
 Monitor serum ALT values monthly during therapy with FERRIPROX, and consider interruption of therapy if there is a persistent increase in the serum transaminase levels.
 
-## 5.4Zinc Deficiency
+## 5.4 Zinc Deficiency
 
 Decreased plasma zinc concentrations have been observed on FERRIPROX therapy.
 Monitor plasma zinc, and supplement in the event of a deficiency.

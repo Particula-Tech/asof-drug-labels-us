@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.2), Nonclinical Toxicology (13.1)]
+Pregnancy Category D[see Warnings and Precautions (5.2), Nonclinical Toxicology (13.1)]
 
 Risk Summary
 
@@ -40,10 +40,10 @@ An open-label, non-randomized, parallel group clinical study was conducted to ev
 Subjects were categorized into 4 groups based on estimated glomerular filtration rate (eGFR): healthy volunteers (eGFR ≥ 90 mL/min/1.73 m2), mild renal impairment (eGFR 60 - 89 mL/min/1.73 m2), moderate renal impairment (eGFR 30 - 59 mL/min/1.73 m2), and severe renal impairment (eGFR 15 - 29 mL/min/1.73 m2).
 Renal function does not influence the pharmacokinetics of deferiprone and deferiprone 3-O-glucuronide.
 
-## 8.7Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the pharmacokinetics of a single 33 mg/kg oral dose of FERRIPROX.
-Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5– 6 points), and moderate hepatic impairment (Class B: 7– 9 points).
+Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5–6 points), and moderate hepatic impairment (Class B: 7–9 points).
 Mild and moderate hepatic impairment do not influence the pharmacokinetics of deferiprone and deferiprone 3-O-glucuronide.
 One subject with moderate hepatic impairment experienced a serious adverse event of acute liver and renal injury.
-The pharmacokinetics of deferiprone and deferiprone 3-O-glucuronide have not been evaluated in patients with severe hepatic impairment (Child Pugh Class C; 10-15 points).
+The pharmacokinetics of deferiprone and deferiprone 3‑O‑glucuronide have not been evaluated in patients with severe hepatic impairment (Child Pugh Class C; 10‑15 points).

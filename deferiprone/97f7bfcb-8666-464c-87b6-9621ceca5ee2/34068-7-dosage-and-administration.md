@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Dosing
+## 2.1 Dosing
 
 Starting Dose
 
@@ -47,7 +47,7 @@ Store FERRIPROX only in the original container.
 After 35 days, discard the contents of the bottle.
 Store at 20º to 25ºC (68º to 77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [see USP Controlled Room Temperature].
 
-## 2.2Interactions with Foods, Vitamins and Drugs
+## 2.2 Interactions with Foods, Vitamins and Drugs
 
 Allow at least a 4-hour interval between FERRIPROX and other medications or supplements containing polyvalent cations such as iron, aluminum, and zinc.
-Avoid concomitant use of UGT1A6 inhibitors (e.g. diclofenac, probenecid, or silymarin (milk thistle)) with FERRIPROX [see Drug Interactions (7.2 and 7.3), Clinical Pharmacology (12.3)].
+Avoid concomitant use of UGT1A6 inhibitors (e.g. diclofenac, probenecid, or silymarin (milk thistle)) with FERRIPROX [see Drug Interactions (7.2and 7.3), Clinical Pharmacology (12.3)].
