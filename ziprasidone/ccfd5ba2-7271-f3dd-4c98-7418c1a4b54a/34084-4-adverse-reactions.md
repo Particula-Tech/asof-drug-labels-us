@@ -40,7 +40,7 @@ Table 6: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placeb
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System/Adverse Reaction | Ziprasidone (N-702) | Placebo (N=273) |
+| Body System/Adverse Reaction | Ziprasidone (N=702) | Placebo (N=273) |
 | Body as a Whole |  |  |
 | Asthenia | 5 | 3 |
 | Accidental Injury | 4 | 2 |

@@ -65,12 +65,16 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
-## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.4 Severe Cutaneous Adverse Reactions
 
-Drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported with ziprasidone exposure.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with ziprasidone exposure.
 DRESS consists of a combination of three or more of the following: cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, lymphadenopathy and one or more systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and pericarditis.
 DRESS is sometimes fatal.
 Discontinue ziprasidone if DRESS is suspected.
+
+Other severe cutaneous adverse reactions Other severe cutaneous adverse reactions, such as Stevens-Johnson syndrome, have been reported with ziprasidone exposure.
+Severe cutaneous adverse reactions are sometimes fatal.
+Discontinue ziprasidone if severe cutaneous adverse reactions are suspected.
 
 ## 5.5 Tardive Dyskinesia
 
@@ -122,7 +126,7 @@ Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Place
 
 | Mean Random Glucose Change from Baseline mg/dL (N) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Ziprasidone |  |  |  |  | Placebo |
+| Ziprasidone |  |  |  |  |  |  | Placebo |
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID |  | 80 mg BID | 100 mg BID |  |
 | -1.1 (N=45) | +2.4 (N=179) | -0.2 (N=146) | -0.5 (N=119) |  | -1.7 (N=104) | +4.1 (N=85) | +1.4 (N=260) |
 
@@ -139,7 +143,7 @@ Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Con
 
 *”Random” glucose measurements – fasting/non-fasting status unknown
 
-In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20-40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60-80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
+In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20 to 40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60 to 80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
 
 Dyslipidemia
 
@@ -152,7 +156,7 @@ Table 3: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Ziprasidone |  |  |  |  |  | Placebo |
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |  |
-| Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16.0 (N=104) | +0.8 (N=85) | -18.6 N=260) |
+| Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16.0 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
 | Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10.0 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
 
 *”Random” lipid measurements, fasting/non-fasting status unknown
@@ -176,7 +180,7 @@ Table 4: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 
 *”Random” lipid measurements, fasting/non-fasting status unknown
 
-In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20-40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60-80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
+In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo- controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28.0 mg/dL (N=9).
 
 Weight Gain
@@ -187,7 +191,7 @@ Pooled data from short-term, placebo-controlled studies in schizophrenia is pres
 
 Table 5: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
 
-|  |  | Ziprasidone |  |  |  |  |  | Placebo |
+| Ziprasidone |  |  |  |  |  |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 mg BID | 20 mg BID | 40 mg BID |  | 60 mg BID | 80 mg BID |  | 100 mg BID |  |
 | Mean Weight (kg) Changes from Baseline (N) |  |  |  |  |  |  |  |  |
@@ -280,18 +284,17 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.17 Patients with Concomitant Illness
+## 5.17 Patients with concomitant illness
 
-Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)]
+Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.2), (5.8)]
+Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.2), (5.8)].
 
 ## 5.18 Laboratory Tests
 
 Patients being considered for ziprasidone treatment that are at risk of significant electrolyte disturbances should have baseline serum potassium and magnesium measurements.
 Low serum potassium and magnesium should be replaced before proceeding with treatment.
 Patients who are started on diuretics during Ziprasidone therapy need periodic monitoring of serum potassium and magnesium.
-Ziprasidone should be discontinued in patients who are found to have persistent QTc measurements >500 msec.
-[see Warnings and Precautions (5.2)]
+Ziprasidone should be discontinued in patients who are found to have persistent QTc measurements >500 msec [see Warnings and Precautions (5.2)].
