@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 Single-Dose Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 Vial Carton
 
 NDC 67919-030-01 10 Single-Dose vials
 
@@ -9,5 +9,3 @@ Zerbaxa™ 1.5 g per vial* (ceftolozane and tazobactam) for injection
 For Intravenous Infusion
 
 Rx only Sterile
-
-CUBIST
