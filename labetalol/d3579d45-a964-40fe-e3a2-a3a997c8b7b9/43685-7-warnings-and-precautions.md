@@ -72,7 +72,7 @@ Labetalol injection should be used with caution in patients with impaired hepati
 Hypotension
 
 Symptomatic postural hypotension (incidence 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol injection.
-Therefore, the patient's ability to tolerate an upright position should be established before permitting any ambulation.
+Therefore, the patient’s ability to tolerate an upright position should be established before permitting any ambulation.
 
 Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers (labetalol is an alpha/beta blocker).
 This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
@@ -146,7 +146,7 @@ The presence of labetalol metabolites in the urine may result in falsely elevate
 In screening patients suspected of having a pheochromocytoma and being treated with labetalol, a specific method, such as a high-performance liquid chromatographic assay with solid phase extraction (e.g., J Chromatogr.
 385:241, 1987) should be employed in determining levels of catecholamines.
 
-Labetalol has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi‑Lab A® (thin-layer chromatographic assay) and Emit-d.a.u.® (radioenzymatic assay).
+Labetalol has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab A® (thin-layer chromatographic assay) and Emit-d.a.u.® (radioenzymatic assay).
 When patients being treated with labetalol have a positive urine test for amphetamine using these techniques, confirmation should be made by using more specific methods, such as a gas chromatographic-mass spectrometer technique.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility

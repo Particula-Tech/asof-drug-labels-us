@@ -49,15 +49,13 @@ Subsequent oral dosing with labetalol hydrochloride tablets should begin when it
 The recommended initial dose is 200 mg, followed in 6 to 12 hours by an additional dose of 200 or 400 mg, depending on the blood pressure response.
 Thereafter, inpatient titration with labetalol hydrochloride tablets may proceed as follows:
 
-Inpatient Titration Instructions
-
-| Regimen | Daily Dose* |
+| Inpatient Titration Instructions |  |
 | --- | --- |
+| Regimen | Daily DoseIf needed, the total daily dose may be given in three divided doses. |
 | 200 mg b.i.d. | 400 mg |
 | 400 mg b.i.d. | 800 mg |
 | 800 mg b.i.d. | 1600 mg |
 | 1200 mg b.i.d. | 2400 mg |
-| * If needed, the total daily dose may be given in three divided doses. |  |
 
 While in the hospital, the dosage of labetalol hydrochloride tablets may be increased at 1 day intervals to achieve the desired blood pressure reduction.
 
