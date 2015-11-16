@@ -34,10 +34,12 @@ In certain situations, you and your doctor may decide that taking mycophenolate 
 
 The purpose of this registry is to gather information about the health of you and your baby.
 
-- Increased risk of getting serious infections.Mycophenolate mofetil weakens the body's immune system and affects your ability to fight infections.
+- Increased risk of getting serious infections.
+  Mycophenolate mofetil weakens the body's immune system and affects your ability to fight infections.
   Serious infections can happen with mycophenolate mofetil and can lead to death.
   These serious infections can include:
-  - Viral infections.Certain viruses can live in your body and cause active infections when your immune system is weak.
+  - Viral infections.
+    Certain viruses can live in your body and cause active infections when your immune system is weak.
     Viral infections that can happen with mycophenolate mofetil include:
     - Shingles, other herpes infections, and cytomegalovirus (CMV).
       CMV can cause serious tissue and blood infections.
@@ -46,7 +48,8 @@ The purpose of this registry is to gather information about the health of you an
     - Hepatitis B and C viruses.
       Hepatitis viruses can affect how your liver works.
       Talk to your doctor about how hepatitis viruses may affect you.
-  - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
+  - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
+    In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
     You should tell your doctor right away if you have any of the following symptoms:
     - Weakness on one side of the body
@@ -67,7 +70,8 @@ Call your doctor right away if you have any of the following signs and symptoms 
 - Unexpected bruising or bleeding
 - Cuts, scrapes or incisions that are red, warm and oozing pus
 
-- Increased risk of getting certain cancers.People who take mycophenolate mofetil have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
+- Increased risk of getting certain cancers.
+  People who take mycophenolate mofetil have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
   Tell your doctor if you have:
   - unexplained fever, prolonged tiredness, weight loss or lymph node swelling
   - a brown or black skin lesion with uneven borders, or one part of the lesion does not look like the other
@@ -81,13 +85,14 @@ What are mycophenolate mofetil capsules and tablets?
 Mycophenolate mofetil capsule and tablet is a prescription medicine to prevent rejection (antirejection medicine) in people who have received a kidney, heart or liver transplant.
 Rejection is when the body's immune system perceives the new organ as a "foreign" threat and attacks it.
 
-Mycophenolate mofetil capsule and tablet is used with other medicines called cyclosporine (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
+Mycophenolate mofetil capsule and tablet is used with other medicines called cyclosporine (Sandimmune ®, Gengraf ®, Neoral ®) and corticosteroids.
 
 Mycophenolate mofetil capsule and tablet has been used safely and works in children who received a kidney transplant as it does in adults.
 It is not known if mycophenolate mofetil capsule and tablet is safe and works in children who receive a heart or liver transplant.
 
 Who should not take mycophenolate mofetil capsules and tablets?
-Do not take mycophenolate mofetil capsules and tablets if you are allergic to mycophenolate mofetil or any of the ingredients in mycophenolate mofetil capsules and tablets.See the end of this Medication Guide for a complete list of ingredients in mycophenolate mofetil capsules and tablets.
+Do not take mycophenolate mofetil capsules and tablets if you are allergic to mycophenolate mofetil or any of the ingredients in mycophenolate mofetil capsules and tablets.
+See the end of this Medication Guide for a complete list of ingredients in mycophenolate mofetil capsules and tablets.
 
 What should I tell my doctor before taking mycophenolate mofetil capsules and tablets?
 
@@ -96,7 +101,8 @@ Tell your doctor about all of your medical conditions, if you:
 - have any digestive problems, such as ulcers
 - have Phenylketonuria (PKU).
   Mycophenolate mofetil oral suspension contains aspartame (a source of phenylalanine)
-- have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase(HGPRT).You should not take mycophenolate mofetil if you have one of these disorders
+- have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase(HGPRT).
+  You should not take mycophenolate mofetil if you have one of these disorders
 - plan to receive any vaccines.
   People taking mycophenolate mofetil should not take live vaccines.
   Some vaccines may not work as well during treatment with mycophenolate mofetil
@@ -112,17 +118,17 @@ Especially tell your doctor if you take:
 
 - birth control pills (oral contraceptives).
   See "What is the most important information I should know about mycophenolate mofetil capsules and tablets?"
-- sevelamer (Renagel®, RenvelaTM).
+- sevelamer (Renagel ®, Renvela TM).
   These products should be taken 2 hours after taking mycophenolate mofetil
-- acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
-- rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
+- acyclovir (Zovirax ®), valacyclovir (Valtrex ®), ganciclovir (Cytovene ®-IV, Vitrasert ®), valganciclovir (Valcyte ®)
+- rifampin (Rifater ®, Rifamate ®, Rimactane ®, Rifadin ®)
 - antacids that contain magnesium and aluminum (mycophenolate mofetil and the antacid should not be taken at the same time)
-- proton pump inhibitors (PPIs)(Prevacid®,Protonix®)
-- sulfamethoxazole/trimethoprim (BactrimTM, Bactrim DSTM)
-- norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, PyleraTM
-- ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XRTM)
-- azathioprine (Azasan®, Imuran®)
-- cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
+- proton pump inhibitors (PPIs)(Prevacid ®,Protonix ®)
+- sulfamethoxazole/trimethoprim (Bactrim TM, Bactrim DS TM)
+- norfloxacin (Noroxin ®) and metronidazole (Flagyl ®, Flagyl ® ER, Flagyl ® IV, Metro IV, Helidac ®, Pylera TM
+- ciprofloxacin (Cipro ®, Cipro ® XR, Ciloxan ®, Proquin ® XR) and amoxicillin plus clavulanic acid (Augmentin ®, Augmentin XR TM)
+- azathioprine (Azasan ®, Imuran ®)
+- cholestyramine (Questran Light ®, Questran ®, Locholest Light, Locholest, Prevalite ®)
 
 Know the medicines you take.
 Keep a list of them to show to your doctor or nurse and pharmacist when you get a new medicine.
@@ -164,7 +170,8 @@ What are the possible side effects of mycophenolate mofetil?
 Mycophenolate mofetil can cause serious side effects:
 
 - See "What is the most important information I should know about mycophenolate mofetil capsules and tablets?"
-- Low blood cell counts.People taking high doses of mycophenolate mofetil each day may have a decrease in blood counts, including
+- Low blood cell counts.
+  People taking high doses of mycophenolate mofetil each day may have a decrease in blood counts, including
   - white blood cells, especially neutrophils.
     Neutrophils fight against bacterial infections.
     You have a higher chance of getting an infection when your white blood cell count is low.
@@ -245,4 +252,4 @@ Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
 INDIA.
 
-10 4847 6 654763 Issued June 2014
+10 4847 8 662665 Issued August 2015

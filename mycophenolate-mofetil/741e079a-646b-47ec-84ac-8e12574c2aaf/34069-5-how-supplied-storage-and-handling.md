@@ -2,9 +2,9 @@
 
 ## Mycophenolate Mofetil Capsules USP 250 mg
 
-Light blue/peach, size ‘1’ hard gelatin capsules, printed in black with ‘GC1’ on body containing white to off white powder.
+Light blue/ peach, size ‘1’ hard gelatin capsules, printed in black with ‘GC1’ on body containing white to off white powder.
 
-NDC Number Size
+NDC NumberSize
 
 NDC 16729-094-01 Bottle of 100
 
@@ -18,9 +18,9 @@ Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 
 ## Mycophenolate Mofetil Tablets USP 500 mg
 
-Purple coloured, capsule shaped,biconvex film-coated tablets debossed ‘AHI ’ on one side and ‘500 ’ on other side.
+Purple coloured, capsule shaped, biconvex, film coated tablets debossed ‘AHI’ on one side and ‘500’ on other side.
 
-NDC Number Size
+NDC NumberSize
 
 NDC 16729-019-01 Bottle of 100
 

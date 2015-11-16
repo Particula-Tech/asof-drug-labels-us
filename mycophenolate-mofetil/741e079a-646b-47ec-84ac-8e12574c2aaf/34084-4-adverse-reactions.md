@@ -81,7 +81,7 @@ Table 9 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or 
 | Insomnia | – | – | – | 40.8 | 37.7 | 52.3 | 47.0 |
 | Dizziness | – | – | – | 28.7 | 27.7 | – | – |
 | Anxiety | – | – | – | 28.4 | 23.9 | – | – |
-| Paresthesia | – | – | – | 20.8 | 18.0 | – | –MMF= Mycophenolate Mofetil. |
+| Paresthesia | – | – | – | 20.8 | 18.0 | – | – MMF= Mycophenolate Mofetil. |
 
 The placebo-controlled renal transplant study generally showed fewer adverse events occurring in ≥20% of patients.
 In addition, those that occurred were not only qualitatively similar to the azathioprine-controlled renal transplant studies, but also occurred at lower rates, particularly for infection, leukopenia, hypertension, diarrhea and respiratory infection.
@@ -104,7 +104,7 @@ Three-year safety data in renal and cardiac transplant patients did not reveal a
 
 In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed.
 
-Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
+Severe neutropenia (ANC <0.5 × 10 3/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
 The risk increases with total immunosuppressive load (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
@@ -156,7 +156,7 @@ Table 11 Adverse Events Reported in 3% to <20% of Patients Treated With Mycophen
 
 ### Pediatrics
 
-The type and frequency of adverse events in a clinical study in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m2 bid (up to 1 g bid) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g bid with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
+The type and frequency of adverse events in a clinical study in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m 2 bid (up to 1 g bid) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g bid with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
 ## Mycophenolate Mofetil Intravenous
 
@@ -172,7 +172,7 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 ### Congenital Disorders: Embryofetal Toxicity:
 
-Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
+Congenital malformations, including ear, facial, cardiac and nervous system malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
 
 ### Digestive
 
@@ -180,7 +180,7 @@ Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of i
 
 ### Hematologic and Lymphatic:
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+Cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
 Infections (see WARNINGS: Serious Infections, New or Reactivated Viral Infections):
 

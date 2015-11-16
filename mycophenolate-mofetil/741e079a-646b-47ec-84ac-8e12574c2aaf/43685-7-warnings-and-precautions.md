@@ -5,7 +5,7 @@
 ## Embryofetal Toxicity
 
 Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant female.
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney (see PRECAUTIONS: Pregnancy).
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney and nervous system (see PRECAUTIONS: Pregnancy).
 
 ## Pregnancy Exposure Prevention and Planning
 
@@ -23,7 +23,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 
 ## Combination with Other Immunosuppressive Agents
 
-Mycophenolate mofetil has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM®), OKT3 (Orthoclone OKT® 3), cyclosporine (Sandimmune®, Neoral®) and corticosteroids.
+Mycophenolate mofetil has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM ®), OKT3 (Orthoclone OKT ® 3), cyclosporine (Sandimmune ®, Neoral ®) and corticosteroids.
 The efficacy and safety of the use of mycophenolate mofetil in combination with other immunosuppressive agents have not been determined.
 
 ## Serious Infections
@@ -54,10 +54,10 @@ Monitoring infected patients for clinical and laboratory signs of active HBV or 
 
 ## Neutropenia
 
-Severe neutropenia [absolute neutrophil count (ANC)<0.5× 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
+Severe neutropenia [absolute neutrophil count (ANC)<0.5× 10 3/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
 Patients receiving mycophenolate mofetil should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or some combination of these causes.
-If neutropenia develops (ANC <1.3 × 103/µL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
+If neutropenia develops (ANC <1.3 × 10 3/µL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
 Neutropenia has been observed most frequently in the period from 31 to 180 days posttransplant in patients treated for prevention of renal, cardiac, and hepatic rejection.
 
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
@@ -109,7 +109,7 @@ Because mycophenolate mofetil has been associated with an increased incidence of
 
 ## Patients with Renal Impairment
 
-Subjects with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) who have received single doses of mycophenolate mofetil showed higher plasma MPA and MPAG AUCs relative to subjects with lesser degrees of renal impairment or normal healthy volunteers.
+Subjects with severe chronic renal impairment (GFR <25 mL/min/1.73 m 2) who have received single doses of mycophenolate mofetil showed higher plasma MPA and MPAG AUCs relative to subjects with lesser degrees of renal impairment or normal healthy volunteers.
 No data are available on the safety of long-term exposure to these levels of MPAG.
 Doses of mycophenolate mofetil greater than 1 g administered twice a day to renal transplant patients should be avoided and they should be carefully observed (see CLINICAL PHARMACOLOGY: Pharmacokinetics and DOSAGE AND ADMINISTRATION).
 
@@ -135,7 +135,7 @@ In view of the significant reduction in the AUC of MPA by cholestyramine, cautio
 
 ## Patients with HGPRT Deficiency
 
-On theoretical grounds, because mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+Mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor; therefore it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
 
 ## Immunizations
 
@@ -154,7 +154,7 @@ Inform females of reproductive potential that use of mycophenolate mofetil durin
 
 - Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential.
   In the event of a positive pregnancy test, females should be counseled with regard to whether the maternal benefits of mycophenolate treatment may outweigh the risks to the fetus in certain situations.
-- Females of reproductive potential must use acceptable birth control during entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless the patient chooses to avoid heterosexual intercourse completely (abstinence) (seePRECAUTIONS: Pregnancy Exposure Prevention and Planning, Table 8).
+- Females of reproductive potential must use acceptable birth control during entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless the patient chooses to avoid heterosexual intercourse completely (abstinence) (see PRECAUTIONS: Pregnancy Exposure Prevention and Planning, Table 8).
 - For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
   Risks and benefits of mycophenolate mofetil should be discussed with the patient.
 - Give patients complete dosage instructions and inform them about the increased risk of lymphoproliferative disease and certain other malignancies.
@@ -173,20 +173,19 @@ Mycophenolate mofetil has not been administered concomitantly with azathioprine.
 
 ### Acyclovir
 
-Coadministration of mycophenolate mofetil (1 g) and acyclovir (800 mg) to 12 healthy volunteers resulted in no significant change in MPA AUC and Cmax.
-However, MPAG and acyclovir plasma AUCs were increased 10.6% and 21.9%, respectively.
+Coadministration of mycophenolate mofetil (1 g) and acyclovir (800 mg) to 12 healthy volunteers resulted in no significant change in MPA AUC and C max. However, MPAG and acyclovir plasma AUCs were increased 10.6% and 21.9%, respectively.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are acyclovir concentrations, the potential exists for mycophenolate and acyclovir or its prodrug (eg, valacyclovir) to compete for tubular secretion, further increasing the concentrations of both drugs.
 
 ### Antacids With Magnesium and Aluminum Hydroxides
 
-Absorption of a single dose of mycophenolate mofetil (2 g) was decreased when administered to ten rheumatoid arthritis patients also taking Maalox® TC (10 mL qid).
-The Cmax and AUC(0–24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
+Absorption of a single dose of mycophenolate mofetil (2 g) was decreased when administered to ten rheumatoid arthritis patients also taking Maalox ® TC (10 mL qid).
+The C max and AUC(0–24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
 Mycophenolate mofetil may be administered to patients who are also taking antacids containing magnesium and aluminum hydroxides; however, it is recommended that mycophenolate mofetil and the antacid not be administered simultaneously.
 
 ### Proton Pump Inhibitors (PPIs)
 
 Coadministration of PPIs (e.g., lansoprazole, pantoprazole) in single doses to healthy volunteers and multiple doses to transplant patients receiving mycophenolate mofetil has been reported to reduce the exposure to mycophenolic acid (MPA).
-An approximate reduction of 30 to 70% in the Cmax and 25% to 35% in the AUC of MPA has been observed, possibly due to a decrease in MPA solubility at an increased gastric pH.
+An approximate reduction of 30 to 70% in the C max and 25% to 35% in the AUC of MPA has been observed, possibly due to a decrease in MPA solubility at an increased gastric pH.
 The clinical impact of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PPIs and mycophenolate mofetil.
 Because clinical relevance has not been established, PPIs should be used with caution when coadministered to transplant patients being treated with mycophenolate mofetil.
 
@@ -199,18 +198,24 @@ Therefore, mycophenolate mofetil is not recommended to be given with cholestyram
 
 ### Cyclosporine
 
-Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
-The mean (±SD) AUC(0–12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
+Cyclosporine (Sandimmune ®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
+The mean (±SD) AUC(0–12h) and C max of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng∙h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng∙h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
-In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30 to 50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
+Cyclosporine A interferes with MPA enterohepatic recirculation.
+In renal transplant patients, mean MPA exposure (AUC 0-12h) was approximately 30 to 50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
-This information should be taken into consideration when MMF is used without cyclosporine.
+This information should be taken into consideration when MMF is used without cyclosporine; changes in MPA exposure should be expected when switching patients from cyclosporine A to one of the immunosuppressants which do not interfere with MPA’s enterohepatic cycle (e.g., tacrolimus; belatacept).
+
+### Telmisartan
+
+Concommitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease in mycophenolic acid (MPA) concentrations.
+Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and activity.
 
 ### Ganciclovir
 
 Following single-dose administration to 12 stable renal transplant patients, no pharmacokinetic interaction was observed between mycophenolate mofetil (1.5 g) and intravenous ganciclovir (5 mg/kg).
-Mean (±SD) ganciclovir AUC and Cmax (n=10) were 54.3 (±19.0) µg∙h/mL and 11.5 (±1.8) µg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) µg∙h/mL and 10.6 (±2.0) µg/mL, respectively, after administration of intravenous ganciclovir alone.
-The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±21.6) µg∙h/mL and 27.8 (±13.9) µg/mL, respectively, compared to values of 80.3 (±16.4) µg∙h/mL and 30.9 (±11.2) µg/mL, respectively, after administration of mycophenolate mofetil alone.
+Mean (±SD) ganciclovir AUC and C max (n=10) were 54.3 (±19.0) µg∙h/mL and 11.5 (±1.8) µg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) µg∙h/mL and 10.6 (±2.0) µg/mL, respectively, after administration of intravenous ganciclovir alone.
+The mean (±SD) AUC and C max of MPA (n=12) after coadministration were 80.9 (±21.6) µg∙h/mL and 27.8 (±13.9) µg/mL, respectively, compared to values of 80.3 (±16.4) µg∙h/mL and 30.9 (±11.2) µg/mL, respectively, after administration of mycophenolate mofetil alone.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are ganciclovir concentrations, the two drugs will compete for tubular secretion and thus further increases in concentrations of both drugs may occur.
 In patients with renal impairment in which MMF and ganciclovir or its prodrug (eg, valganciclovir) are coadministered, patients should be monitored carefully.
 
@@ -225,21 +230,21 @@ It is recommended to coadminister mycophenolate mofetil with hormonal contracept
 
 ### Sevelamer
 
-Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0-12h by 36% and 26% respectively.
+Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA C max and AUC 0-12h by 36% and 26% respectively.
 This data suggest that sevelamer and other calcium free phosphate binders should not be administered simultaneously with mycophenolate mofetil.
 Alternatively, it is recommended that sevelamer and other calcium free phosphate binders preferentially could be given 2 hours after mycophenolate mofetil intake to minimize the impact on the absorption of MPA.
 
 ### Trimethoprim/sulfamethoxazole
 
 Following single-dose administration of mycophenolate mofetil (1.5 g) to 12 healthy male volunteers on day 8 of a 10 day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered bid, no effect on the bioavailability of MPA was observed.
-The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) µg∙h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) µg∙h/mL and 34.2 (±10.7) µg/mL, respectively, after administration of mycophenolate mofetil alone.
+The mean (±SD) AUC and C max of MPA after concomitant administration were 75.2 (±19.8) µg∙h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) µg∙h/mL and 34.2 (±10.7) µg/mL, respectively, after administration of mycophenolate mofetil alone.
 
 ### Norfloxacin and Metronidazole
 
-Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p<0.05).
+Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC 0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p<0.05).
 Therefore, mycophenolate mofetil is not recommended to be given with the combination of norfloxacin and metronidazole.
-There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
-The mean (±SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (±24) µg•h/mL and 42.7 (±23) µg•h/mL, respectively, compared with 56.2 (±24) µg•h/mL after administration of mycophenolate mofetil alone.
+There was no significant effect on mean MPA AUC 0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
+The mean (±SD) MPA AUC 0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (±24) µg•h/mL and 42.7 (±23) µg•h/mL, respectively, compared with 56.2 (±24) µg•h/mL after administration of mycophenolate mofetil alone.
 
 ### Ciprofloxacin and Amoxicillin plus Clavulanic Acid
 
@@ -251,7 +256,7 @@ The change in trough level may not accurately represent changes in overall MPA e
 
 ### Rifampin
 
-In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC0-12h) has been observed with concomitant administration of mycophenolate mofetil and rifampin.
+In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC 0-12h) has been observed with concomitant administration of mycophenolate mofetil and rifampin.
 Therefore, mycophenolate mofetil is not recommended to be given with rifampin concomitantly unless the benefit outweighs the risk.
 
 ### Other Interactions
@@ -293,7 +298,7 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 See WARNINGS section.
 
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system.
 In animal studies, congenital malformations and pregnancy loss occurred when pregnant rats and rabbits received mycophenolic acid at dose multiples similar to and less than clinical doses.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
@@ -325,7 +330,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## Pediatric Use
 
-Based on pharmacokinetic and safety data in pediatric patients after renal transplantation, the recommended dose of mycophenolate mofetil oral suspension is 600 mg/m2 bid (up to a maximum of 1 g bid).
+Based on pharmacokinetic and safety data in pediatric patients after renal transplantation, the recommended dose of mycophenolate mofetil oral suspension is 600 mg/m 2 bid (up to a maximum of 1 g bid).
 Also see CLINICAL PHARMACOLOGY, CLINICAL STUDIES, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION.
 
 Safety and effectiveness in pediatric patients receiving allogeneic cardiac or hepatic transplants have not been established.
