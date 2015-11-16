@@ -30,8 +30,8 @@ See the end of this leaflet for a complete list of ingredients in MINOCIN®.
 
 MINOCIN® is not recommended for pregnant women or children up to 8 years old because:
 
-- 1.MINOCIN® may harm an unborn baby
-- 2.MINOCIN® may permanently turn a baby’s or child’s teeth yellow-gray-brown during tooth development.
+- •MINOCIN® may harm an unborn baby
+- •MINOCIN® may permanently turn a baby’s or child’s teeth yellow-gray-brown during tooth development.
   Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 WHAT SHOULD I TELL MY DOCTOR BEFORE STARTING MINOCIN® CAPSULES?
