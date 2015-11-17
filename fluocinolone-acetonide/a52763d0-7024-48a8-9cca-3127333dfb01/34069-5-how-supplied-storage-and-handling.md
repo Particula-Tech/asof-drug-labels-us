@@ -1,14 +1,23 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
-Capex® Shampoo is supplied as a two component package: a capsule which contains the active component fluocinolone acetonide 0.01%, and a separate package of liquid shampoo.
+Capex® Shampoo is supplied as a two component package: a capsule which contains the active component fluocinolone acetonide, and a separate package of liquid shampoo.
 The pharmacist must mix the content of the capsule into the base at the time of dispensing.
 Capex® Shampoo is dispensed to the patient in a 6 ounce bottle.
 
 Shake well before using.
 
-Store between 15° and 30°C (59° and 86°F) in tightly closed containers.
+Store at controlled room temperature 68° - 77°F (20° - 25°C) with excursions permitted between 59° - 86°F (15° - 30°C) in tightly closed containers.
 
-Marketed by: GALDERMA LABORATORIES, L.P.
+Marketed by:
+
+GALDERMA LABORATORIES, L.P.
+
 Fort Worth, Texas 76177 USA
 
-Mfd. by: Hill Dermaceuticals, Inc. Sanford, Florida 32773 USA GALDERMA is a registered trademark.
+Made in Canada.
+
+Galderma is a registered trademark.
+
+P52306-2
+
+Revised: May 2015

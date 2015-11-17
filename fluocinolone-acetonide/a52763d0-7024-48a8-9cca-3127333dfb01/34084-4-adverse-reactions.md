@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The following local adverse reactions have been reported infrequently with topical corticosteroids.
 They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids.

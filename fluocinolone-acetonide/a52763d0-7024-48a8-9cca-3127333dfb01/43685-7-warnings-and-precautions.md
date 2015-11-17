@@ -1,8 +1,6 @@
-# PRECAUTIONS
+# PRECAUTIONS:
 
-## General
-
-Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticoid insufficiency after withdrawal of treatment.
+General: Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticoid insufficiency after withdrawal of treatment.
 Manifestations of Cushing’s syndrome, hyperglycemia and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
 
 Patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression.
@@ -23,7 +21,7 @@ Such an observation should be corroborated with appropriate diagnostic patch tes
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of Capex® Shampoo should be discontinued until the infection has been adequately controlled.
 
-## Information for Patients
+## Information for Patients:
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
@@ -34,9 +32,9 @@ Patients using topical corticosteroids should receive the following information 
 2. This medication should not be used for any disorder other than that for which it was prescribed.
 3. The treated scalp area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
 4. Patients should report to their physician any signs of local adverse reactions.
-5. Discard contents after three (3) months.
+5. Discard contents after two (2) months.
 
-## Laboratory Tests
+## Laboratory Tests:
 
 The following tests may be helpful in evaluating patients for HPA axis suppression:
 
@@ -46,27 +44,25 @@ A.M. plasma cortisol test
 
 Urinary free cortisol test
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of Capex® Shampoo.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic effects
-
-Pregnancy category C: Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Teratogenic effects: Pregnancy category C: Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
 There are no adequate and well-controlled studies in pregnant women or teratogenic effects from Capex® Shampoo.
 Therefore, Capex® Shampoo should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Because many drugs are secreted in human milk, caution should be exercised when Capex® Shampoo is administered to a nursing woman.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in children and infants have not been established.
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression when they are treated with topical corticosteroids.

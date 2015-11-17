@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 The pharmacist must empty the contents of the enclosed capsule into the shampoo base prior to dispensing to the patient.
 This product should be shaken well prior to use.

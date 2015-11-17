@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Like other topical corticosteroids, fluocinolone acetonide has anti-inflammatory, antipruritic and vasoconstrictive properties.
 The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear.
