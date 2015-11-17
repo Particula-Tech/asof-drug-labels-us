@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Lamotrigine Tablets, USP 25-mg
 
@@ -92,5 +92,4 @@ Blister pack of 35 tablets NDC-13668-045-29
 
 Storage
 
-Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).
-[See USP Controlled Room Temperature].
+Store at 20 to 25 C (68 to 77 F); excursions permitted to 15 to 30 C (59 to 86 F) [See USP Controlled Room Temperature]
