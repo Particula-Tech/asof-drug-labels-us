@@ -1,19 +1,21 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
+The following adverse reactions are discussed in other sections of the labeling:
 
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
-- Severe acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
 - Pancreatitis [see Warnings and Precautions (5.5)].
+- Immune reconstitution syndrome [see Warnings and Precautions (5.6)].
+- Fat redistribution [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience in Adult Subjects
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The safety profile of lamivudine tablets in adults is primarily based on 3,568 HIV-1-infected subjects in 7 clinical trials.
 
-The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea and cough.
+The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea, and cough.
 
 Selected clinical adverse reactions in greater than or equal to 5% of subjects during therapy with lamivudine 150 mg twice daily plus RETROVIR® 200 mg 3 times daily for up to 24 weeks are listed in Table 3.
 
@@ -62,7 +64,7 @@ Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Adults in Four 
 
 |  | 24-Week Surrogate Endpoint Trialsa |  | Clinical Endpoint Triala |  |
 | --- | --- | --- | --- | --- |
-| Test (Threshold Level) | Lamivudine plus RETROVIR | RETROVIRb | Lamivudine plus Current Therapy | Placebo plus Current Therapyc |
+| Test (Threshold Level) | Lamivudine plus RETROVIR | RETROVIRb | Lamivudine plus Current Therapyc | Placebo plus Current Therapyc |
 | Absolute neutrophil count (<750/mm3) | 7.2% | 5.4% | 15% | 13% |
 | Hemoglobin (<8.0 g/dL) | 2.9% | 1.8% | 2.2% | 3.4% |
 | Platelets (<50,000/mm3) | 0.4% | 1.3% | 2.8% | 3.8% |
@@ -85,9 +87,9 @@ The frequencies of selected laboratory abnormalities reported in subjects receiv
 
 ## 6.2 Clinical Trials Experience in Pediatric Subjects
 
-Lamivudine oral solution has been studied in 638 pediatric subjects aged 3 months to 18 years in 3 clinical trials.
+EPIVIR oral solution has been studied in 638 pediatric subjects aged 3 months to 18 years in 3 clinical trials.
 
-Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with lamivudine 4 mg per kg twice daily plus RETROVIR160 mg per m2 3 times daily in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
+Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with lamivudine 4 mg per kg twice daily plus RETROVIR 160 mg per m2 3 times daily in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 
 Table 5.
 Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal to 5% Frequency) in Pediatric Subjects in Trial ACTG300
@@ -163,7 +165,7 @@ General Weakness.
 
 Hemic and Lymphatic Anemia (including pure red cell aplasia and severe anemias progressing on therapy).
 
-Hepatic and Pancreatic Lactic acidosis and hepatic steatosis, posttreatment exacerbation of hepatitis B [see Boxed Warning, Warnings and Precautions (5.1, 5.2)].
+Hepatic and Pancreatic Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.1)], posttreatment exacerbations of hepatitis B [see Warnings and Precautions (5.2)].
 
 Hypersensitivity Anaphylaxis, urticaria.
 

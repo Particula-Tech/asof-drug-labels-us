@@ -23,7 +23,7 @@ Amniotic fluid concentrations of lamivudine were typically 2 times greater than 
 Animal Data Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
 Reproduction studies with orally administered lamivudine have been performed in rats and rabbits at doses producing plasma levels up to approximately 35 times that for the recommended adult HIV dose.
 No evidence of teratogenicity due to lamivudine was observed.
-Evidence of embryo-lethality was seen in the rabbit at exposure levels similar to those observed in humans but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
+Evidence of early embryolethality was seen in the rabbit at exposure levels similar to those observed in humans, but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
 
 ## 8.2 Lactation
 
@@ -32,13 +32,12 @@ Because of the potential for HIV-1 transmission mothers should be instructed not
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2) Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+The safety and effectiveness of lamivudine tablets in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 
 Clinical trials of lamivudine tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-In particular, because lamivudine is substantially excreted by the kidney and elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments should be made accordingly [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+In general, caution should be exercised in the administration of lamivudine in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Impaired Renal Function
 

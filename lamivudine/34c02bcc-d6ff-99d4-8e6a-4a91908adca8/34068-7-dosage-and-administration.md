@@ -1,14 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Patients
+## 2.1 Recommended Dosage for Adult Patients
 
-- The recommended oral dose of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg twice daily or 300 mg once daily, in combination with other antiretroviral agents.
+- The recommended dosage of lamivudine tablets in HIV-1-infected adults is 300 mg daily, administered as either 150 mg taken orally twice daily or 300 mg taken orally once daily with or without food.
   If lamivudine is administered to a patient infected with HIV-1 and HBV, the dosage indicated for HIV-1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
-- Lamivudine tablets may be taken with or without food.
 
-## 2.2 Pediatric Patients
+## 2.2 Recommended Dosage for Pediatric Patients
 
-The recommended oral dose of lamivudine oral solution in HIV-1-infected pediatric patients aged 3 months and older is 4 mg per kg twice daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents.
+The recommended dosage of EPIVIR oral solution in HIV-1-infected pediatric patients aged 3 months and older is 4 mg per kg taken orally twice daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents.
 
 Lamivudine is also available as a scored tablet for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 Before prescribing lamivudine tablets, children should be assessed for the ability to swallow tablets.
