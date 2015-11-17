@@ -11,7 +11,7 @@ Other granulocytes (basophils and eosinophils) contribute minimally to neutropen
 Neutropenia may be mild, moderate, or severe (see Tables 2 and 3).
 To improve and standardize understanding, “severe neutropenia” replaces the previous terms severe leukopenia, severe granulocytopenia, or agranulocytosis.
 
-Severe neutropenia, ANC less than (<) 500/μL,occurs in a small percentage of patients taking clozapine and is associated with an increase in the risk of serious and potentially fatal infections.
+Severe neutropenia, ANC less than (<) 500/μL, occurs in a small percentage of patients taking clozapine and is associated with an increase in the risk of serious and potentially fatal infections.
 Risk of neutropenia appears greatest during the first 18 weeks on treatment and then declines.
 The mechanism by which clozapine causes neutropenia is unknown and is not dose-dependent.
 
@@ -65,7 +65,7 @@ Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Recommendatio
   Fever is often the first sign of neutropenic infection.
 - •ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
 - •Consider hematology consultation.
-- •See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+- •See Neuroleptic Malignant Syndrome [NMS] and Fever underWARNINGS and PRECAUTIONS (5)and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 ### Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
@@ -375,4 +375,4 @@ Clozapine should be used with caution in patients with risk factors for cerebrov
 
 ## 5.17 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
 
-If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting, and diarrhea.

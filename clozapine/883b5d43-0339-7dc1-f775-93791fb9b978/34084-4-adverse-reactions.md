@@ -138,7 +138,7 @@ Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic 
 
 Immune System Disorders: Angioedema, leukocytoclastic vasculitis.
 
-Urogenital System: Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
+Urogenital System: Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
 
 Skin and Subcutaneous Tissue Disorders: Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 
