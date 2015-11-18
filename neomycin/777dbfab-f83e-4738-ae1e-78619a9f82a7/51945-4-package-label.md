@@ -1,4 +1,4 @@
-# PRINCIPLE DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Neomycin Sulfate Tablets USP 500 mg 100s Label Text
 
@@ -10,15 +10,7 @@ SULFATE
 
 Tablets, USP
 
-500 mg
-
-Each tablet contains:
-
-Neomycin Sulfate 500 mg
-
-equivalent in activity to 0.35 g
-
-Neomycin base per tablet.
+500 mg*
 
 Rx only
 

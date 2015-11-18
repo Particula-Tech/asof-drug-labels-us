@@ -1,16 +1,16 @@
 # HOW SUPPLIED
 
-Neomycin sulfate tablets USP, 500 mg (equivalent to 350 mg of neomycin base per tablet) are available as round, off-white, unscored tablets, debossed “93” and “1177”, in bottles of 100 tablets.
+Neomycin Sulfate Tablets USP, 500 mg (equivalent to 350 mg of neomycin base per tablet) are available as round, off-white, unscored tablets, debossed “93” and “1177”, in bottles of 100 tablets (NDC 0093-1177-01).
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at controlled room temperature, between 20° and 25°C (68° and 77°F) (see USP).
 
 Dispense in tight containers as defined in the USP/NF.
 
-Manufactured By:
+Distributed By:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-F 3/2007
+E 8/2015
