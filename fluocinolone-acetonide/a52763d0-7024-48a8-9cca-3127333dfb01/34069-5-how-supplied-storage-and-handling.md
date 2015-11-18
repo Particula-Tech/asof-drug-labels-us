@@ -18,6 +18,6 @@ Made in Canada.
 
 Galderma is a registered trademark.
 
-P52306-2
+P52306-1
 
-Revised: May 2015
+Revised: Novemeber 2014
