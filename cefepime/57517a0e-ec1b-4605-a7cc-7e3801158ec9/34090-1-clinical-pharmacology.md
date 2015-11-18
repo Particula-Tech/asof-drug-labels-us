@@ -93,7 +93,7 @@ The exposure to cefepime following a 50 mg per kg intravenous dose in a pediatri
 
 ## 12.4 Microbiology
 
-### Antibacterial Mechanism of Action
+### Mechanism of Action
 
 Cefepime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 Cefepime has a broad spectrum of in vitro activity that encompasses a wide range of Gram-positive and Gram-negative bacteria.
@@ -176,7 +176,7 @@ Susceptibility Test Interpretive Criteria for CefepimeFor patients with renal im
 | Streptococcus pyogenes | ≤0.5 | - | - |  | ≥24 | - | - |
 | Viridans group streptococci | ≤1 | 2 | ≥4 |  | ≥24 | 22-23 | ≤21 |
 
-Susceptibility of staphylococci to cefepime may be deduced from testing only penicillin and either cefoxitin or oxacillin
+Susceptibility of staphylococci to cefepime may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
 A report of Susceptible (S) indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.

@@ -25,4 +25,4 @@ Not made with natural rubber latex, PVC or Di(2-ethylhexyl)phthalate (DEHP).
 
 The DUPLEX® dual chamber container is made from a specially formulated material.
 The product (diluent and drug) contact layer is a mixture of thermoplastic rubber and a polypropylene ethylene copolymer that contains no plasticizers.
-The safety of the container system is supported by USP biological evaluation procedures.
+The safety of the container is supported by USP biological evaluation procedures.

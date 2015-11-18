@@ -15,7 +15,7 @@ Refer to specific recommendations for dosing adjustment [see Dosage and Administ
 
 ## 5.3 Neurotoxicity
 
-During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus [see Adverse Reactions (6.2)].
+During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), aphasia, myoclonus, seizures, and nonconvulsive status epilepticus [see Adverse Reactions (6.2)].
 Most cases occurred in patients with renal impairment who did not receive appropriate dosage adjustment.
 However, some cases of neurotoxicity occurred in patients receiving a dosage adjustment appropriate for their degree of renal impairment.
 

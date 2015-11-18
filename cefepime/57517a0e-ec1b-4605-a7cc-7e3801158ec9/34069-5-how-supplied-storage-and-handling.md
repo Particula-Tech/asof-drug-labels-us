@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Cefepime for Injection USP and Dextrose Injection USP in the DUPLEX® Drug Delivery System is a flexible dual chamber container supplied in two strengths, 1 and 2 g cefepime.
+Cefepime for Injection USP and Dextrose Injection USP in the DUPLEX® Container is a flexible dual chamber container supplied in two strengths, 1 and 2 g cefepime.
 The diluent chamber contains approximately 50 mL of 5% Dextrose Injection.
 
-Cefepime for Injection USP and Dextrose Injection USP is supplied sterile and nonpyrogenic in the DUPLEX® Drug Delivery System containers packaged 24 units per case.
+Cefepime for Injection USP and Dextrose Injection USP is supplied sterile and nonpyrogenic in the DUPLEX® Container packaged 24 units per case.
 
 | NDC | REF | Dose | Volume |
 | --- | --- | --- | --- |

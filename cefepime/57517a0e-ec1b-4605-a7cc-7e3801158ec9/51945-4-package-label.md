@@ -4,7 +4,7 @@ Cefepime for Injection USP and Dextrose Injection USP 1g*
 
 REF 3193-11 NDC 0264-3193-11
 
-DUPLEX® DRUG DELIVERY SYSTEM
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -38,15 +38,18 @@ If leaks are found, discard container and solution as sterility may be impaired.
 See package insert for complete directions for reconstitution and administration.
 Do not freeze.
 
-The DUPLEX Container is Latex-free, PVC-free, and DEHP-free Rx only
+Not made with natural rubber latex, PVC or DEHP.
+Rx only
 
 B. Braun Medical Inc.
 
-Y37-002-392 LD-210-2
+Y37-002-509 LD-210-5
 
 LOT EXP
 
-Made in USA
+Produced in USA with API from Brazil.
+
+# ​
 
 PRINCIPAL DISPLAY PANEL - 2g / 50mL Container Label
 
@@ -54,7 +57,7 @@ Cefepime for Injection USP and Dextrose Injection USP 2g*
 
 REF 3195-11 NDC 0264-3195-11
 
-DUPLEX® DRUG DELIVERY SYSTEM
+DUPLEX® CONTAINER
 
 50 mL
 
@@ -88,12 +91,13 @@ If leaks are found, discard container and solution as sterility may be impaired.
 See package insert for complete directions for reconstitution and administration.
 Do not freeze.
 
-The DUPLEX Container is Latex-free, PVC-free, and DEHP-free Rx only
+Not made with natural rubber latex, PVC or DEHP.
+Rx only
 
 B. Braun Medical Inc.
 
-Y37-002-393 LD-211-2
+Y37-002-510 LD-211-5
 
 LOT EXP
 
-Made in USA
+Produced in USA with API from Brazil.

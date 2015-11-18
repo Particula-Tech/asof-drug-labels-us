@@ -8,8 +8,8 @@ Serious acute hypersensitivity reactions may require treatment with epinephrine 
 Patients should be advised that allergic reactions, including serious allergic reactions could occur and that serious reactions require immediate treatment and discontinuation of cefepime.
 Patients should report to their health care provider any previous allergic reactions to cefepime, cephalosporins, penicillins, or other similar antibiotics.
 
-Patients should be advised of neurological adverse reactions that could occur with Cefepime for Injection USP and Dextrose Injection USP use.
-Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus for immediate treatment, dosage adjustment, or discontinuation of Cefepime for Injection USP and Dextrose Injection USP.
+Patients should be advised of neurological adverse events that could occur with cefepime use.
+Instruct patients or their caregivers to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), aphasia (disturbance of speaking and understanding spoken and written language), myoclonus, seizures and nonconvulsive status epilepticus, for immediate treatment, dosage adjustment, or discontinuation of Cefepime for Injection USP and Dextrose Injection USP.
 
 Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.

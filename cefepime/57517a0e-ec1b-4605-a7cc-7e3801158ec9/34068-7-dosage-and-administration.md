@@ -64,7 +64,7 @@ If administration is controlled by a pumping device, care must be taken to disco
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Use only if solution is clear and container and seals are intact.
 
-### DUPLEX® Drug Delivery System Storage
+### DUPLEX® Container Storage
 
 - To avoid inadvertent activation, the DUPLEX® Container should remain in the folded position until activation is intended.
 
