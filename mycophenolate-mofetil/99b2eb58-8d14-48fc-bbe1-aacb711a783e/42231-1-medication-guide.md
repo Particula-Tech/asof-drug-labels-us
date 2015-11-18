@@ -109,7 +109,7 @@ Tell your doctor about all of your medical conditions, if you:
   It is not known if mycophenolate mofetil passes into breast milk.
   You and your doctor will decide if you will take mycophenolate mofetil capsules or breastfeed.
 
-Tell your healthcare provider about all the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some medicines may affect the way mycophenolate mofetil capsules works, and mycophenolate mofetil capsules may affect how some medicines work.
 Especially tell your doctor if you take:
 
@@ -216,7 +216,7 @@ You may report side effects to the FDA at 1-800-FDA-1088 or Sandoz at 1-800-525-
 
 How should I store mycophenolate mofetil capsules?
 
-- •Store mycophenolate mofetil capsules at 20º to 25°C (68º to 77°F).
+- •Store mycophenolate mofetil capsules at room temperature, 25°C (77°F).
   Keep the container closed tightly.
 - •Keep mycophenolate mofetil capsules and all medicines out of the reach of children
 
@@ -247,4 +247,4 @@ Manufactured in India by Sandoz Private Ltd.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-August 2013
+August 2015

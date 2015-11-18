@@ -170,7 +170,7 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 ## Congenital Disorders: Embryofetal Toxicity
 
-Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
+Congenital malformations, including ear, facial, cardiac and nervous system malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
 
 ## Digestive
 
@@ -178,7 +178,7 @@ Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of i
 
 ## Hematologic and Lymphatic
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+Cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
 ## Infections
 

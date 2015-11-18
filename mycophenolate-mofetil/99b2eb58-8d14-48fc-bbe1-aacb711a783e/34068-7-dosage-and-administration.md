@@ -62,7 +62,7 @@ Mycophenolate mofetil intravenous must be reconstituted and diluted to a concent
 Mycophenolate mofetil intravenous is incompatible with other intravenous infusion solutions.
 Following reconstitution, mycophenolate mofetil intravenous must be administered by slow intravenous infusion over a period of NO LESS THAN 2 HOURS by either peripheral or central vein.
 
-CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
+CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION MUST NOT BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
 
 ## Dosage Adjustments
 
