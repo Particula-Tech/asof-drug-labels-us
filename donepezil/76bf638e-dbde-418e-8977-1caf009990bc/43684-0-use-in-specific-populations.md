@@ -1,8 +1,10 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate or well-controlled studies in pregnant women.
+Pregnancy Category C
+
+There are no adequate or well-controlled studies in pregnant women.
 Donepezil hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Oral administration of donepezil to pregnant rats and rabbits during the period of organogenesis did not produce any teratogenic effects at doses up to 16 mg/kg/day (approximately 16 times the maximum recommended human dose [MRHD] of 10 mg/day on a mg/m2 basis) and 10 mg/kg/day (approximately 20 times the MRHD on a mg/m2 basis), respectively.

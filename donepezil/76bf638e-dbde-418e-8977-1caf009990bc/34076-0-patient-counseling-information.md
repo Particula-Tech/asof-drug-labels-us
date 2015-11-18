@@ -1,14 +1,12 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Package Insert attached to this label.
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-To assure safe and effective use of donepezil hydrochloride tablets, the information and instructions provided in the attached Patient Package Insert should be discussed with patients and caregivers.
+Instruct patients and caregivers to take donepezil hydrochloride tablets only once per day, as prescribed.
 
-Patients and caregivers should be instructed to take donepezil hydrochloride tablets only once per day, as prescribed.
+Instruct patients and caregivers that donepezil hydrochloride tablets can be taken with or without food.
 
-Patients and caregivers should be instructed that donepezil hydrochloride tablets can be taken with or without food.
-
-Patients and caregivers should be advised that the product may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue and decreased appetite.
+Advise patients and caregivers that donepezil hydrochloride tablets may cause nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue, and decreased appetite.
 
 Manufactured by:
 
@@ -17,13 +15,13 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-8029540 Revised July 2011
+8057807 Revised November 2015
 
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
-Donepezil Hydrochloride Tablets, USP
+Donepezil Hydrochloride (doe-NEP-e-zil HYE-droe-KLOR-ide) Tablets, USP
 
 Rx Only
 
@@ -178,6 +176,8 @@ Inactive ingredients:
   The film coating contains hypromellose, polyethylene glycol, talc and titanium dioxide.
   Additionally, the 10 mg tablet contains ferric oxide red and ferric oxide yellow as coloring agents.
 
+This Medication Guide has been approved by the US Food and Drug Administration.
+
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
@@ -185,6 +185,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-8029540 Revised July 2011
+8057808 Revised November 2015
