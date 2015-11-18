@@ -4,7 +4,7 @@
 
 Buprenorphine can be abused in a manner similar to other opioids, legal or illicit.
 Prescribe and dispense buprenorphine with appropriate precautions to minimize risk of misuse, abuse, or diversion, and ensure appropriate protection from theft, including in the home.
-Clinical monitoring appropriate to the patient's level of stability is essential.
+Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits.
 [see Drug Abuse and Dependence (9.2)].
 
@@ -81,12 +81,12 @@ ZUBSOLV sublingual tablet is not appropriate as an analgesic.
 ## 5.11 Use in Patients With Impaired Hepatic Function
 
 Buprenorphine/naloxone products are not recommended in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment.
-The the doses of buprenorphine and naloxone in this fixed-dose combination product cannot be individually titrated, and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.
+The doses of buprenorphine and naloxone in this fixed-dose combination product cannot be individually titrated, and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.
 Therefore, patients with severe hepatic impairment will be exposed to substantially higher levels of naloxone than patients with normal hepatic function.
-This may interfere with buprenorphine's efficacy throughout treatment.
+This may interfere with buprenorphine’s efficacy throughout treatment.
 In patients with moderate hepatic impairment, the differential reduction of naloxone clearance compared to buprenorphine clearance is not as great as in subjects with severe hepatic impairment.
 Therefore, buprenorphine/naloxone products may be used with caution for maintenance treatment in patients with moderate hepatic impairment who have initiated treatment on a buprenorphine product without naloxone.
-However, patients should be carefully monitored and consideration given to the possibility of naloxone interfering with buprenorphine's efficacy [see Use in Specific Populations (8.6)].
+However, patients should be carefully monitored and consideration given to the possibility of naloxone interfering with buprenorphine’s efficacy [see Use in Specific Populations (8.6)].
 
 ## 5.12 Impairment of Ability to Drive or Operate Machinery
 

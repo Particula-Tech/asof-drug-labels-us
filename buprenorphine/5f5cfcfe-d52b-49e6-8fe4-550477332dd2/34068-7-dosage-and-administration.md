@@ -1,37 +1,57 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-ZUBSOLV sublingual tablet is administered sublingually as a single daily dose.
-ZUBSOLV sublingual tablets should be used in patients who have been initially inducted using buprenorphine sublingual tablets.
+ZUBSOLV sublingual tablet is administered sublingually as a single daily dose for maintenance treatment or in divided doses for induction treatment.
 
 The difference in bioavailability of ZUBSOLV compared to Suboxone tablet requires a different tablet strength to be given to the patient.
-One ZUBSOLV 5.7/1.4 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBOXONE 8/2 mg sublingual tablet.
+One ZUBSOLV 5.7 mg/1.4 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBOXONE 8 mg/2 mg sublingual tablet.
 
-The corresponding doses going from induction to maintenance treatment are:
+## 2.1 Induction
 
-| Induction phase: Final sublingual buprenorphine dose | Maintenance phase: Corresponding sublingual ZUBSOLV dose |
-| --- | --- |
-| 8 mg buprenorphine, taken as: | 5.7 mg/1.4 mg ZUBSOLV, taken as: |
-| One 8 mg buprenorphine tablet | One 5.7 mg/1.4 mg ZUBSOLV tablet |
-| 12 mg buprenorphine, taken as: | 8.6 mg/2.1 mg ZUBSOLV, taken as: |
-| One 8 mg buprenorphine tablet ANDTwo 2 mg buprenorphine tablets | One 8.6 mg/2.1 mg ZUBSOLV tablet |
-| 16 mg buprenorphine, taken as: | 11.4 mg/2.9 mg ZUBSOLV, taken as: |
-| Two 8 mg buprenorphine tablets | One 11.4/2.9 mg ZUBSOLV tablet |
+Prior to induction, consideration should be given to the type of opioid dependence (i.e., long- or short-acting opioid products; see discussion that follows), the time since last opioid use, and the degree or level of opioid dependence.
+To avoid precipitating an opioid withdrawal syndrome, the first dose of buprenorphine/naloxone should be administered only when objective and clear signs of moderate withdrawal are evident, and divided doses should be used.
+It is recommended that an adequate treatment dose, titrated to clinical effectiveness, be achieved as rapidly as possible.
 
-## 2.1 Maintenance
+On Day 1, an induction dosage of up to 5.7 mg/1.4 mg ZUBSOLV sublingual tablet is recommended.
+This is administered sublingually in divided doses under supervision.
+Clinicians should start with an initial dose of 1.4 mg/0.36 mg ZUBSOLV sublingual tablet.
+The remainder of the Day 1 dose of up to 4.2 mg/1.08 mg should be divided into doses of 1 to 2 tablets of 1.4 mg/0.36 mg at 1.5 to 2 hour intervals.
+Some patients (e.g., those with recent exposure to buprenorphine) may tolerate up to 3 x 1.4 mg/0.36 mg ZUBSOLV sublingual tablets as a single, second dose.
+
+On Day 2, a single daily dose of up to 11.4 mg/2.9 mg ZUBSOLV sublingual tablet is recommended.
+
+All doses should be based on clinical need to control acute withdrawal symptoms and administered under supervision.
+
+Medications should be prescribed in consideration of the frequency of visits.
+Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
+
+Patients dependent on methadone or long-acting opioid products
+
+Patients dependent on methadone or long-acting opioid products may be more susceptible to precipitated and prolonged withdrawal during induction than those on short-acting opioid products.
+Buprenorphine/naloxone combination products have not been evaluated in adequate and well-controlled studies for induction in patients who are physically dependent on long-acting opioid products and transitioning to buprenorphine treatment.
+Buprenorphine/naloxone combination products contain naloxone, which is absorbed in small amounts by the sublingual route and could cause worse precipitated and prolonged withdrawal.
+For this reason, buprenorphine monotherapy is recommended in patients taking long-acting opioids when used according to approved administration instructions.
+Following induction, the patient may then be transitioned to once-daily ZUBSOLV sublingual tablet.
+
+Patients dependent on heroin or other short-acting opioid products
+
+Patients dependent on heroin or other short-acting opioid products may be induced with ZUBSOLV sublingual tablet or with sublingual buprenorphine monotherapy.
+At treatment initiation, the dose of ZUBSOLV should be administered when moderate objective signs of opioid withdrawal appear, not less than (6) hours after the patient last used opioids.
+
+## 2.2Maintenance
 
 ZUBSOLV sublingual tablet is indicated for maintenance treatment.
 The recommended target dosage of ZUBSOLV sublingual tablet is 11.4 mg/2.9 mg buprenorphine/naloxone/day as a single daily dose.
 
-The dosage of ZUBSOLV sublingual tablet should be progressively adjusted in increments/decrements of 1.4 mg/0.36 mg or 2.8 mg/0.72 mg buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
+The dosage of ZUBSOLV sublingual tablet should be progressively adjusted in increments/decrements of 1.4 mg/0.36 mg or 2.9 mg/0.71 mg buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
 
-The maintenance dose of ZUBSOLV sublingual tablet is generally in the range of 2.8 mg/0.72 mg buprenorphine/naloxone to 17.2 mg/4.2 mg buprenorphine/naloxone per day depending on the individual patient.
+The maintenance dose of ZUBSOLV sublingual tablet is generally in the range of 2.9 mg/0.71 mg buprenorphine/naloxone to 17.2 mg/4.2 mg buprenorphine/naloxone per day depending on the individual patient.
 Dosages higher than this have not been demonstrated to provide any clinical advantage
 
-When determining the prescription quantity for unsupervised administration, consider the patient's level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
+When determining the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
 
-## 2.2 Method of Administration
+## 2.3 Method of Administration
 
-Do not cut, chew, or swallow ZUBSOLV sublingual tablets.
+Do not cut, crush, break, chew, or swallow ZUBSOLV sublingual tablets.
 ZUBSOLV sublingual tablet should be placed under the tongue until dissolved.
 The dissolve time for ZUBSOLV varies between individuals, and the median dissolve time observed was 5 minutes.
 For dosages requiring more than one sublingual tablet, place all tablets in different places under the tongue at the same time.
@@ -43,11 +63,11 @@ If a sequential mode of administration is preferred, patients should follow the 
 
 Proper administration technique should be demonstrated to the patient.
 
-## 2.3 Clinical Supervision
+## 2.4 Clinical Supervision
 
-Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient's clinical stability permits.
+Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient’s clinical stability permits.
 ZUBSOLV sublingual tablet is subject to diversion and abuse.
-When determining the prescription quantity for unsupervised administration, consider the patient's level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
+When determining the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
 
 Ideally patients should be seen at reasonable intervals (e.g., at least weekly during the first month of treatment) based upon the individual circumstances of the patient.
 Medication should be prescribed in consideration of the frequency of visits.
@@ -56,17 +76,17 @@ Periodic assessment is necessary to determine compliance with the dosing regimen
 
 Once a stable dosage has been achieved and patient assessment (e.g., urine drug screening) does not indicate illicit drug use, less frequent follow-up visits may be appropriate.
 A once-monthly visit schedule may be reasonable for patients on a stable dosage of medication who are making progress toward their treatment objectives.
-Continuation or modification of pharmacotherapy should be based on the physician's evaluation of treatment outcomes and objectives such as:
+Continuation or modification of pharmacotherapy should be based on the physician’s evaluation of treatment outcomes and objectives such as:
 
 1. Absence of medication toxicity
 2. Absence of medical or behavioral adverse effects
 3. Responsible handling of medications by the patient
-4. Patient's compliance with all elements of the treatment plan (including recovery-oriented activities, psychotherapy, and/or other psychosocial modalities)
+4. Patient’s compliance with all elements of the treatment plan (including recovery-oriented activities, psychotherapy, and/or other psychosocial modalities)
 5. Abstinence from illicit drug use (including problematic alcohol and/or benzodiazepine use)
 
 If treatment goals are not being achieved, the physician should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.4 Unstable Patients
+## 2.5 Unstable Patients
 
 Physicians will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the physician does not feel that he/she has the expertise to manage the patient.
@@ -75,28 +95,30 @@ Decisions should be based on a treatment plan established and agreed upon with t
 
 Patients who continue to misuse, abuse, or divert buprenorphine products or other opioids should be provided with, or referred to, more intensive and structured treatment.
 
-## 2.5 Patients With Hepatic Impairment
+## 2.6 Patients With Hepatic Impairment
 
-Because the doses of this fixed combination product cannot be individually titrated, severe hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine, and moderate hepatic impairment also results in a reduced clearance of naloxone to a greater extent than buprenorphine, the combination product should generally be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11)].
+Severe hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine, and moderate hepatic impairment also results in a reduced clearance of naloxone to a greater extent than buprenorphine.
+Because the doses of this fixed combination product cannot be individually titrated, the combination product should generally be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11)].
 
-## 2.6 Stopping Treatment
+## 2.7 Stopping Treatment
 
 The decision to discontinue therapy with ZUBSOLV sublingual tablets after a period of maintenance should be made as part of a comprehensive treatment plan.
 Both gradual and abrupt discontinuation of buprenorphine has been used, but the data are insufficient to determine the best method of dose taper at the end of treatment.
 
-## 2.7 Switching between ZUBSOLV sublingual Tablets and other buprenorphine/naloxone combination products
+## 2.8 Switching between ZUBSOLV Sublingual Tablets and Other Buprenorphine/Naloxone combination products
 
 For patients being switched between ZUBSOLV sublingual tablets and other buprenorphine/naloxone products dosage adjustments may be necessary.
 Patients should be monitored for over-medication as well as withdrawal or other signs of under-dosing.
 
 The differences in bioavailability of ZUBSOLV compared to Suboxone tablet requires that different tablet strengths be given to the patient.
-One ZUBSOLV 5.7/1.4 mg sublingual tablet provides equivalent buprenorphine exposure to one Suboxone 8/2 mg sublingual tablet.
+One ZUBSOLV 5.7 mg/1.4 mg sublingual tablet provides equivalent buprenorphine exposure to one Suboxone 8 mg/2 mg sublingual tablet.
 
 When switching between Suboxone dosage strengths and ZUBSOLV dosage strengths the corresponding dosage strengths are:
 
 | SUBOXONE sublingual tablets, including generic equivalents | Corresponding dosage strength of ZUBSOLV sublingual tablets |
 | --- | --- |
 | One 2 mg/0.5 mg buprenorphine/naloxone sublingual tablet | One 1.4 mg/0.36 mg ZUBSOLV sublingual tablet |
+| 4 mg/1 mg buprenorphine/naloxone taken as: • Two 2 mg/0.5 mg sublingual buprenorphine/naloxone tablets | One 2.9 mg/0.71 mg ZUBSOLV sublingual tablet |
 | One 8 mg/2 mg buprenorphine/naloxone sublingual tablet | One 5.7 mg/1.4 mg ZUBSOLV sublingual tablet |
-| 12 mg/3 mg buprenorphine/naloxone, taken as: One 8 mg/2 mg sublingual buprenorphine/naloxone tablet ANDTwo 2 mg/0.5 mg sublingual buprenorphine/naloxone tablets | One 8.6 mg/2.1 mg ZUBSOLV sublingual tablet |
-| 16 mg/4 mg buprenorphine/naloxone, taken as: Two 8 mg/2 mg sublingual buprenorphine/naloxone tablets | One 11.4 mg/2.9 mg ZUBSOLV sublingual tablet |
+| 12 mg/3 mg buprenorphine/naloxone, taken as: • One 8 mg/2 mg sublingual buprenorphine/naloxone tablet AND • Two 2 mg/0.5 mg sublingual buprenorphine/naloxone tablets | One 8.6 mg/2.1 mg ZUBSOLV sublingual tablet |
+| 16 mg/4 mg buprenorphine/naloxone, taken as: • Two 8 mg/2 mg sublingual buprenorphine/naloxone tablets | One 11.4 mg/2.9 mg ZUBSOLV sublingual tablet |

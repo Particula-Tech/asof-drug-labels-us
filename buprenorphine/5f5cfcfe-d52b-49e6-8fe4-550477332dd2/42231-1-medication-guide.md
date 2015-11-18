@@ -1,6 +1,6 @@
 MEDICATION GUIDE ZUBSOLV® (Zub-solve) (buprenorphine and naloxone) Sublingual Tablet (CIII)
 
-| IMPORTANT:Keep ZUBSOLV in a secure place away from children. If a child accidentally takes ZUBSOLV, this is a medical emergency and can result in death. Get emergency help right away. |
+| IMPORTANT: Keep ZUBSOLV in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses ZUBSOLV, get emergency help right away. |
 | --- |
 
 Read this Medication Guide before you start taking ZUBSOLV and each time you get a refill.
@@ -13,28 +13,19 @@ Share the important information in this Medication Guide with members of your ho
 What is the most important information I should know about ZUBSOLV?
 
 - ZUBSOLV can cause serious and life-threatening breathing problems.
-  Call your doctor right away or get emergency help if: These can be signs of an overdose or other serious problems.
-  - You feel faint, dizzy, or confused
-  - Your breathing gets much slower than is normal for you
+  Call your doctor right away or get emergency help if: • You feel faint, dizzy, or confused. • Your breathing gets much slower than is normal for you.
+
+These can be signs of an overdose or other serious problems.
+
 - Do not switch from ZUBSOLV to other medicines that contain buprenorphine without talking with your doctor.
   The amount of buprenorphine in a dose of ZUBSOLV is not the same as the amount of buprenorphine in other medicines that contain buprenorphine.
   Your doctor will prescribe a starting dose of buprenorphine that may be different than other buprenorphine containing medicines you may have been taking.
-- ZUBSOLV contains an opioid that can cause physical dependence.
-  - Do not stop taking ZUBSOLV without talking to your doctor.
-    You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine.
-  - Physical dependence is not the same as drug addiction.
-  - ZUBSOLV is not for occasional or "as needed" use.
+- ZUBSOLV contains an opioid that can cause physical dependence. • Do not stop taking ZUBSOLV without talking to your doctor.
+  You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine. • Physical dependence is not the same as drug addiction. • ZUBSOLV is not for occasional or “as needed” use.
 - An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, or alcohol while using ZUBSOLV.
   Ask your doctor what you should do if you are taking one of these.
-- Call a doctor or get emergency help right away if you:
-  - Feel sleepy and uncoordinated
-  - Have blurred vision
-  - Have slurred speech
-  - Cannot think well or clearly
-  - Have slowed reflexes and breathing
-- Do not inject ("shoot-up") ZUBSOLV.
-  Injecting ZUBSOLV may cause life-threatening infections and other serious health problems.
-- Injecting ZUBSOLV may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
+- Call a doctor or get emergency help right away if you: • Feel sleepy and uncoordinated. • Have blurred vision. • Have slurred speech. • Cannot think well or clearly. • Have slowed reflexes and breathing.
+- Do not inject (“shoot-up”) ZUBSOLV. • Injecting ZUBSOLV may cause life-threatening infections and other serious health problems. • Injecting ZUBSOLV may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with ZUBSOLV.
 
 What is ZUBSOLV?
@@ -47,7 +38,6 @@ What is ZUBSOLV?
 - It is not known if ZUBSOLV is safe or effective in children.
 
 Who should not take ZUBSOLV?
-
 Do not take ZUBSOLV if you are allergic to buprenorphine or naloxone.
 
 What should I tell my doctor before taking ZUBSOLV?
@@ -55,19 +45,19 @@ What should I tell my doctor before taking ZUBSOLV?
 ZUBSOLV may not be right for you.
 Before taking ZUBSOLV, tell your doctor if you:
 
-- Have trouble breathing or lung problems
-- Have an enlarged prostate gland (men)
-- Have a head injury or brain problem
-- Have problems urinating
-- Have a curve in your spine that affects your breathing
-- Have liver or kidney problems
-- Have gallbladder problems
-- Have adrenal gland problems
-- Have Addison's disease
-- Have low thyroid (hypothyroidism)
-- Have a history of alcoholism
-- Have mental problems such as hallucinations (seeing or hearing things that are not there)
-- Have any other medical condition
+- Have trouble breathing or lung problems.
+- Have an enlarged prostate gland (men).
+- Have a head injury or brain problem.
+- Have problems urinating.
+- Have a curve in your spine that affects your breathing.
+- Have liver or kidney problems.
+- Have gallbladder problems.
+- Have adrenal gland problems.
+- Have Addison’s disease.
+- Have low thyroid (hypothyroidism).
+- Have a history of alcoholism.
+- Have mental problems such as hallucinations (seeing or hearing things that are not there).
+- Have any other medical condition.
 - Are pregnant or plan to become pregnant.
   It is not known if ZUBSOLV will harm your unborn baby.
   If you take ZUBSOLV while pregnant, your baby may have symptoms of withdrawal at birth.
@@ -77,9 +67,7 @@ Before taking ZUBSOLV, tell your doctor if you:
   Talk to your doctor about the best way to feed your baby if you take ZUBSOLV.
   Monitor your baby for increased sleepiness and breathing problems.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-ZUBSOLV may affect the way other medicines work and other medicines may affect how ZUBSOLV works.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.ZUBSOLV may affect the way other medicines work and other medicines may affect how ZUBSOLV works.
 Some medicines may cause serious or life-threatening medical problems when taken with ZUBSOLV.
 
 Sometimes the doses of certain medicines and ZUBSOLV may need to be changed if used together.
@@ -98,25 +86,26 @@ How should I take ZUBSOLV?
   Do not change your dose unless your doctor tells you to change it.
 - Do not take ZUBSOLV more often than prescribed by your doctor.
 - You may be prescribed a dose of 2 or more ZUBSOLV sublingual tablets at the same time.
-- Take ZUBSOLV 1 time a day.
+- After induction (your first day of dosing), take ZUBSOLV 1 time a day.
 - Do not cut, crush, break, chew or swallow the tablet.
   Your doctor should show you how to take ZUBSOLV the right way.
 - Follow the same instructions every time you take a dose of ZUBSOLV.
 - ZUBSOLV comes in a blister pack with 10 blister units.
   Each blister unit contains a ZUBSOLV tablet.
-- Take the dose prescribed by your doctor as follows:
-  - Pull apart 1 of the blister units from the blister pack by tearing along the dotted lines (perforations) until it is fully separated (See Figure A).
-  - When the blister unit is fully separated, fold the single unit down at dotted line toward the blister (See Figure B).
-  - Slowly tear down at notch to open the blister unit (See Figure C).
-  - Do not push ZUBSOLV tablets through the foil.
-    This could cause the tablet to break.
-  - As soon as you remove your prescribed dose of ZUBSOLV from the blister pack:
-    - Place the tablet under your tongue (See Figures D, E, and F). If more than 1 tablet is required, place the tablets in different places under your tongue at the same time.
+- Take the dose prescribed by your doctor as follows: • Pull apart 1 of the blister units from the blister pack by tearing along the dotted lines (perforations) until it is fully separated (See Figure A).
 
-Let the tablet dissolve completely.
-ZUBSOLV usually dissolves in your mouth within 5 minutes.
-If your mouth is dry, take a sip of water to moisten it.
-Spit out or swallow the water and dry your hands if they are wet before you place the ZUBSOLV tablet under your tongue.
+- When the blister unit is fully separated, fold the single unit down at dotted line toward the blister (See Figure B).
+
+- Slowly tear down at notch to open the blister unit (See Figure C).
+
+- Do not push ZUBSOLV tablets through the foil.
+  This could cause the tablet to break.
+- As soon as you remove your prescribed dose of ZUBSOLV from the blister pack: • Place the tablet under your tongue (See Figures D, E, and F). If more than 1 tablet is required, place the tablets in different places under your tongue at the same time.
+
+- Let the tablet dissolve completely.
+  ZUBSOLV usually dissolves in your mouth within 5 minutes.
+  If your mouth is dry, take a sip of water to moisten it.
+  Spit out or swallow the water and dry your hands if they are wet before you place the ZUBSOLV tablet under your tongue.
 
 - While ZUBSOLV is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - Do not eat or drink anything until the ZUBSOLV tablet has completely dissolved.
@@ -143,11 +132,11 @@ What are the possible side effects of ZUBSOLV?
 
 ZUBSOLV can cause serious side effects, including:
 
-- See "What is the most important information I should know about ZUBSOLV?"
+- See “What is the most important information I should know about ZUBSOLV?”
 - Respiratory problems.
   You have a higher risk of death and coma if you take ZUBSOLV with other medicines, such as benzodiazepines.
-- Sleepiness, dizziness, and problems with coordination
-- Dependency or abuse
+- Sleepiness, dizziness, and problems with coordination.
+- Dependency or abuse.
 - Liver problems.
   Call your doctor right away if you notice any of these signs of liver problems: Your skin or the white part of your eyes turning yellow (jaundice), urine turning dark, stools turning light in color, you have less of an appetite, or you have stomach (abdominal) pain or nausea.
   Your doctor should do tests before you start taking and while you take ZUBSOLV.
@@ -156,14 +145,21 @@ ZUBSOLV can cause serious side effects, including:
   Call a doctor or get emergency help right away.
 - Opioid withdrawal.
   This can include: shaking, sweating more than normal, feeling hot or cold more than normal, runny nose, watery eyes, goose bumps, diarrhea, vomiting and muscle aches.
-  Tell your doctor if you develop any of these symptoms
+  Tell your doctor if you develop any of these symptoms.
 - Decrease in blood pressure.
   You may feel dizzy if you get up too fast from sitting or lying down.
 
 The most common side effects of ZUBSOLV include:
 
-| HeadacheNauseaVomitingIncreased sweatingConstipation | Drug withdrawal syndromeDecrease in sleep (insomnia)PainSwelling of the extremities |
-| --- | --- |
+- Headache
+- Nausea
+- Vomiting
+- Increased sweating
+- Constipation
+- Drug withdrawal syndrome
+- Decrease in sleep (insomnia)
+- Pain
+- Swelling of the extremities
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
@@ -183,7 +179,7 @@ How should I dispose of unused ZUBSOLV?
 - Dispose of unused ZUBSOLV sublingual tablets as soon as you no longer need them.
 - Flush unused tablets down the toilet.
 
-General information about the safe and effective use of ZUBSOLV
+General information about the safe and effective use of ZUBSOLV.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ZUBSOLV for a condition for which it was not prescribed.
@@ -198,12 +194,16 @@ For more information, call 1-888-ZUBSOLV (1-888-982-7658).
 
 What are the ingredients in ZUBSOLV?
 
-Active Ingredients: buprenorphine and naloxone
+Active Ingredients: buprenorphine and naloxone.
 
 Inactive Ingredients: mannitol, citric acid, sodium citrate, microcrystalline cellulose, croscarmellose sodium, sucralose, silicon dioxide, sodium stearyl fumarate, and menthol flavor.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for Orexo US, Inc. by AAIPharma ZUBSOLV is a registered trademark of Orexo US, Inc. © 2013 Orexo US, Inc. All rights reserved.
+Manufactured for Orexo US, Inc. by AAIPharma Services Corp. Wilmington, NC 28405 USA
 
-Issued: 07/2013 Printed in USA Code # ZUB 01
+Distributed by Orexo US, Inc. Morristown, NJ 07960 USA
+
+ZUBSOLV is a registered trademark of Orexo US, Inc.© 2015 Orexo US, Inc.
+
+Printed in USA

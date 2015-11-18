@@ -4,49 +4,72 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Clinical Trials Experience
 
-The safety of buprenorphine/naloxone was evaluated in 497 opioid-dependent subjects.
-The prospective evaluation of buprenorphine/naloxone was supported by clinical trials using buprenorphine tablets without naloxone and other trials using buprenorphine sublingual solutions.
-In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
+ZUBSOLV for use as initial treatment was evaluated in two clinical trials that had identical, blinded, two-day induction phases, comparing ZUBSOLV to generic buprenorphine.
+On the first day, subjects received an initial dose of ZUBSOLV 1.4mg/0.36 mg or generic buprenorphine 2 mg, followed by ZUBSOLV 4.2mg/1.08 mg or generic buprenorphine 6 mg 1.5 hours later.
+In total, safety data were available for 538 opioid-dependent subjects exposed to ZUBSOLV (buprenorphine/naloxone) sublingual tablets when used for initial treatment.
 
 Table 1.
-Adverse Events >5% by Body System and Treatment Group in a 4-week Study
+Adverse Reactions in ≥5% of Patients During the Induction Phase by System Organ Class and Preferred Term (Safety Population)
 
-| Body System / Adverse Event (COSTART Terminology) | Buprenorphine/naloxone 16mg/day N=107 | Placebo N=107 |
-| --- | --- | --- |
-|  | N (%) | N (%) |
-| Body as a Whole |  |  |
-| Asthenia | 7 (6.5%) | 7 (6.5%) |
-| Chills | 8 (7.5%) | 8 (7.5%) |
-| Headache | 39 (36.4%) | 24 (22.4%) |
-| Infection | 6 (5.6%) | 7 (6.5%) |
-| Pain | 24 (22.4%) | 20 (18.7%) |
-| Pain Abdomen | 12 (11.2%) | 7 (6.5%) |
-| Pain Back | 4 (3.7%) | 12 (11.2%) |
-| Withdrawal Syndrome | 27 (25.2%) | 40 (37.4%) |
-| Cardiovascular System |  |  |
-| Vasodilation | 10 (9.3%) | 7 (6.5%) |
-| Digestive System |  |  |
-| Constipation | 13 (12.1%) | 3 (2.8%) |
-| Diarrhea | 4 (3.7%) | 16 (15.0%) |
-| Nausea | 16 (15.0%) | 12 (11.2%) |
-| Vomiting | 8 (7.5%) | 5 (4.7%) |
-| Nervous System |  |  |
-| Insomnia | 15 (14.0%) | 17 (15.9%) |
-| Respiratory System |  |  |
-| Rhinitis | 5 (4.7%) | 14 (13.1%) |
-| Skin And Appendages |  |  |
-| Sweating | 15 (14.0%) | 11 (10.3%) |
+| System Organ Class Preferred Term | ZUBSOLV (N=538) | Generic BUP N=530) | Overall (N=1068) |
+| --- | --- | --- | --- |
+|  | n (%) |  |  |
+| Patients with any Adverse Reactions | 139(26%) | 136 (26%) | 275 (26%) |
+| Gastrointestinal Disorders | 64 (12%) | 60 (11%) | 124 (12%) |
+| Nausea | 29 (5%) | 36 (7%) | 65 (6%) |
+| Vomiting | 25 (5%) | 26 (5%) | 51(5%) |
+| Nervous System Disorders | 48 (9%) | 44 (8%) | 92 (9%) |
+| Headache | 36 (7%) | 35 (7%) | 71 (7%) |
 
-The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
-Table 2 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study.
+BUP = buprenorphine
+
+ZUBSOLV = buprenorphine/naloxone
+
+The safety of buprenorphine/naloxone for longer term use (up to 16 weeks of treatment) was evaluated in previous studies in 497 opioid-dependent subjects.
+The prospective evaluation of buprenorphine/naloxone was supported by clinical trials using buprenorphine tablets without naloxone and other trials using buprenorphine sublingual solutions.
+In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
+See Table 2
 
 Table 2.
+Adverse Events >5% by Body System and Treatment Group in a 4-week Study
+
+|  | N (%) | N (%) |
+| --- | --- | --- |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine/naloxone 16mg/day N=107 | Placebo N=107 |
+| Body as a Whole |  |  |
+| Asthenia | 7 (7%) | 7 (7%) |
+| Chills | 8 (8%) | 8 (8%) |
+| Headache | 39 (37%) | 24 (22%) |
+| Infection | 6 (6%) | 7 (7%) |
+| Pain | 24 (22%) | 20 (19%) |
+| Pain Abdomen | 12 (11%) | 7 (7%) |
+| Pain Back | 4 (4%) | 12 (11%) |
+| Withdrawal Syndrome | 27 (25%) | 40 (37%) |
+| Cardiovascular System |  |  |
+| Vasodilation | 10 (9%) | 7 (7%) |
+| Digestive System |  |  |
+| Constipation | 13 (12%) | 3 (3%) |
+| Diarrhea | 4 (4%) | 16 (15%) |
+| Nausea | 16 (15%) | 12 (11%) |
+| Vomiting | 8 (8%) | 5 (5%) |
+| Nervous System |  |  |
+| Insomnia | 15 (14%) | 17 (16%) |
+| Respiratory System |  |  |
+| Rhinitis | 5 (5%) | 14 (13%) |
+| Skin And Appendages |  |  |
+| Sweating | 15 (14%) | 11 (10%) |
+
+The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
+Table 3 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study.
+
+Table 3.
 Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
 
-| N (%) | N (%) | N (%) | N (%) | N (%) |  |
+| Body System /Adverse Event (COSTART Terminology) | Buprenorphine dose* |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Body System /Adverse Event (COSTART Terminology) | Buprenorphine doseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a Suboxone tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg Suboxone tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg Suboxone tablet dose "High" dose (16 mg solution) approximates a 24 mg Suboxone tablet dose |  |  |  |  |
-| Very Low (N=184) | Low(N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
+|  | Very Low* (N=184) | Low* (N=180) | Moderate* (N=186) | High* (N=181) | Total* (N=731) |
+|  | N (%) | N (%) | N (%) | N (%) | N (%) |
+| *Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a Suboxone tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg Suboxone tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg Suboxone tablet dose "High" dose (16 mg solution) approximates a 24 mg Suboxone tablet dose |  |  |  |  |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
 | Asthenia | 26 (14%) | 28 (16%) | 26 (14%) | 24 (13%) | 104 (14%) |

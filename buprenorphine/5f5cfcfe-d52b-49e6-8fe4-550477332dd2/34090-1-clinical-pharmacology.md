@@ -11,33 +11,33 @@ Naloxone is a potent antagonist at mu-opioid receptors and produces opioid withd
 ZUBSOLV has been shown to have different bioavailability compared to Suboxone tablet.
 One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 12% lower naloxone exposure to one Suboxone 8 mg/2 mg tablet.
 The pharmacodynamic information of other currently marketed buprenorphine/naloxone-containing sublingual products is not directly comparable on a mg basis to ZUBSOLV.
-(see section 2.6).
+(see section 2.8).
 
 Subjective Effects:
 
 Comparisons of buprenorphine to full opioid agonists such as methadone and hydromorphone suggest that sublingual buprenorphine produces typical opioid agonist effects which are limited by a ceiling effect.
 
-In opioid-experienced subjects who were not physically dependent, acute sublingual doses of Suboxone tablets produced opioid agonist effects which reached a maximum between doses of 8/2 mg and 16/4 mg buprenorphine/naloxone.
+In opioid-experienced subjects who were not physically dependent, acute sublingual doses of Suboxone tablets produced opioid agonist effects which reached a maximum between doses of 8mg/2 mg and 16mg/4 mg buprenorphine/naloxone.
 
-Opioid agonist ceiling-effects were also observed in a double-blind, parallel group, dose-ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg), placebo and a full agonist control at various doses.
+Opioid agonist ceiling-effects were also observed in a double-blind, parallel group, dose-ranging comparison of single doses of buprenorphine sublingual solution (1mg, 2mg, 4mg, 8mg, 16mg, or 32mg), placebo and a full agonist control at various doses.
 The treatments were given in ascending dose order at intervals of at least one week to 16 opioid-experienced subjects who were not physically dependent.
 Both active drugs produced typical opioid agonist effects.
 For all measures for which the drugs produced an effect, buprenorphine produced a dose-related response.
 However, in each case, there was a dose that produced no further effect.
 In contrast, the highest dose of the full agonist control always produced the greatest effects.
-Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8-32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
+Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8mg-32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
 The onset of effects appeared more rapidly with buprenorphine than with the full agonist control, with most doses nearing peak effect after 100 minutes for buprenorphine compared to 150 minutes for the full agonist control.
 
 Physiologic Effects:
 
-Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
+Buprenorphine in IV (2mg, 4mg, 8mg, 12mg and 16mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
 Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
 Systolic BP was higher in the 8 mg group than placebo (3-hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
 
-The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg) and oral methadone (15, 30, 45, or 60 mg) in non-dependent, opioid-experienced volunteers.
+The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1mg, 2mg, 4mg, 8mg, 16mg, or 32mg) and oral methadone (15mg, 30mg, 45mg, or 60mg) in non-dependent, opioid-experienced volunteers.
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 
@@ -57,7 +57,7 @@ Absorption:
 
 Plasma levels of buprenorphine and naloxone increased with the sublingual dose of ZUBSOLV sublingual tablet.
 There was wide inter-patient variability in the sublingual absorption of buprenorphine and naloxone, but within subjects the variability was low.
-Both Cmax and AUC of buprenorphine increased with the increase in dose (in the range of 1.4 to 11.4 mg), although the increase was not directly dose-proportional.
+Both Cmax and AUC of buprenorphine increased with the increase in dose (in the range of 1.4mg to 11.4 mg), although the increase was not directly dose-proportional.
 Naloxone did not affect the pharmacokinetics of buprenorphine.
 
 ZUBSOLV has been shown to have different bioavailability compared to Suboxone tablet.
@@ -95,7 +95,7 @@ However, the relatively low plasma concentrations of buprenorphine and norbupren
 
 Special Populations:
 
-Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a SUBOXONE 2.0/0.5 mg (Buprenorphine/Naloxone) sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a SUBOXONE 2.0mg/0.5 mg (Buprenorphine/Naloxone) sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine and naloxone in patients with hepatic impairment were compared to disposition in subjects with normal hepatic function.
 
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.
@@ -109,11 +109,11 @@ Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepat
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects | Increase in naloxone compared to healthy subjects |
 | --- | --- | --- | --- |
 | Moderate | Cmax | 8% | 170% |
-| AUC0-last | 64% | 218% |  |
-| Half-life | 35% | 165% |  |
+|  | AUC0-last | 64% | 218% |
+|  | Half-life | 35% | 165% |
 | Severe | Cmax | 72% | 1030% |
-| AUC0-last | 181% | 1302% |  |
-| Half-life | 57% | 122% |  |
+|  | AUC0-last | 181% | 1302% |
+|  | Half-life | 57% | 122% |
 
 The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
 Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11) and Use in Specific Populations (8.6)].

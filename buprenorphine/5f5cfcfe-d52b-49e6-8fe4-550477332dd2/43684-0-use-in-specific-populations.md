@@ -73,7 +73,7 @@ Risk Summary
 Based on two studies in 13 lactating women, buprenorphine and its metabolite norbuprenorphine are present in low levels in human milk and infant urine, and available data have not shown adverse reactions in breastfed infants.
 There are no data on the combination product buprenorphine/naloxone in breastfeeding, however oral absorption of naloxone is minimal.
 Caution should be exercised when ZUBSOLV is administered to a nursing woman.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZUBSOLV and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZUBSOLV and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
