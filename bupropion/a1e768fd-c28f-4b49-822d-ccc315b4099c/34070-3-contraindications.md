@@ -1,14 +1,11 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with a seizure disorder.
-
-Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients treated with ZYBAN® (bupropion hydrochloride) Sustained-Release Tablets; WELLBUTRIN® (bupropion hydrochloride), the immediate-release formulation; WELLBUTRIN SR (bupropion hydrochloride), the sustained-release formulation; or any other medications that contain bupropion because the incidence of seizure is dose dependent.
-
-Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa because of a higher incidence of seizures noted in patients treated for bulimia with the immediate-release formulation of bupropion.
-
-Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients undergoing abrupt discontinuation of alcohol or sedatives (including benzodiazepines).
-
-The concurrent administration of bupropion hydrochloride extended-release tablets (XL) and a monoamine oxidase (MAO) inhibitor is contraindicated.
-At least 14 days should elapse between discontinuation of an MAO inhibitor and initiation of treatment with bupropion hydrochloride extended-release tablets (XL).
-
-Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients who have shown an allergic response to bupropion or the other ingredients that make up bupropion hydrochloride extended-release tablets (XL).
+- Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with seizure disorder.
+- Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa as a higher incidence of seizures was observed in such patients treated with bupropion hydrochloride extended-release tablets (XL) [see Warnings and Precautions (5.3)].
+- Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Warnings and Precautions (5.3) and Drug Interactions (7.3)].
+- The use of MAOIs (intended to treat psychiatric disorders) concomitantly with bupropion hydrochloride extended-release tablets (XL) or within 14 days of discontinuing treatment with bupropion hydrochloride extended-release tablets (XL) is contraindicated.
+  There is an increased risk of hypertensive reactions when bupropion hydrochloride extended-release tablets (XL) are used concomitantly with MAOIs.
+  The use of bupropion hydrochloride extended-release tablets (XL) within 14 days of discontinuing treatment with an MAOI is also contraindicated.
+  Starting bupropion hydrochloride extended-release tablets (XL) in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated [see Dosage and Administration (2.9), Warnings and Precautions (5.4) and Drug Interactions (7.6)].
+- Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with known hypersensitivity to bupropion or other ingredients of bupropion hydrochloride extended-release tablets (XL).
+  Anaphylactoid/anaphylactic reactions and Stevens-Johnson syndrome have been reported [see Warnings and Precautions (5.8)].
