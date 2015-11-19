@@ -1,8 +1,10 @@
 PRINCIPAL DISPLAY PANEL - 50 mg label
 
-NDC 60505-3847-3
+NDC 60505-3847-6
 
-30 Capsules Rx only
+60 Capsules
+
+Rx only
 
 Celecoxib capsules
 
@@ -10,9 +12,9 @@ Celecoxib capsules
 
 PRINCIPAL DISPLAY PANEL - 100 mg label
 
-NDC 60505-3848-3
+NDC 60505-3848-1
 
-30 Capsules Rx only
+100 Capsules Rx only
 
 Celecoxib capsules
 
@@ -20,9 +22,9 @@ Celecoxib capsules
 
 PRINCIPAL DISPLAY PANEL - 200 mg label
 
-NDC 60505-3849-3
+NDC 60505-3849-1
 
-30 Capsules Rx only
+100 Capsules Rx only
 
 Celecoxib capsules
 

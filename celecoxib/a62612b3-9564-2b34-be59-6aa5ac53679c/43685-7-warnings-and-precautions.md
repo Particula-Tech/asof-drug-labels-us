@@ -2,21 +2,31 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Chronic use of celecoxib may cause an increased risk of serious adverse cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-In the APC (Adenoma Prevention with Celecoxib) trial, the hazard ratio for the composite endpoint of cardiovascular death, MI, or stroke was 3.4 (95% CI 1.4 – 8.5) for celecoxib 400 mg twice daily and 2.8 (95% CI 1.1 – 7.2) with celecoxib 200 mg twice daily compared to placebo.
-Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment.
-The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.6)].
+Clinical trials of several COX-2 selective and nonselective NSAIDS of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses [see Clinical Studies (14.6)].
 
-All NSAIDs, both COX-2 selective and non-selective, may have a similar risk.
-Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with celecoxib, the lowest effective dose should be used for the shortest duration consistent with individual patient treatment goals.
-Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV toxicity and the steps to take if they occur.
-
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and celecoxib does increase the risk of serious GI events [see Warnings and Precautions (5.4)].
+The concurrent use of aspirin and an NSAID, such as celecoxib increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.4)].
+
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
 Two large, controlled, clinical trials of a different COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4)].
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of celecoxib in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If celecoxib is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 ## 5.2 Hypertension
 
@@ -28,9 +38,13 @@ The rates of hypertension from the CLASS trial in the celecoxib, ibuprofen and d
 
 ## 5.3 Congestive Heart Failure and Edema
 
-Fluid retention and edema have been observed in some patients taking NSAIDs, including celecoxib [see Adverse Reactions (6.1)].
-In the CLASS study [see Clinical Studies (14.6)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on celecoxib 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
-Celecoxib should be used with caution in patients with fluid retention or heart failure.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
+
+Additionally, fluid retention and edema have been observed in some patients treated NSAIDs.
+Use of [active moiety] may blunt the CV effects of several therapeutic agents used to treat these medical conditions [e.g., diuretics, ACE inhibitors, or angiotensin receptor clockers (ARBs)] (see Drug Interactions).
+Avoid the use of celecoxib in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If celecoxib is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
 ## 5.4 Gastrointestinal (GI) Effects
 

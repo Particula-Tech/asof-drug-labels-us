@@ -1,14 +1,10 @@
 # WARNING: CARDIOVASCULAR AND GASTROINTESTINAL RISKS
 
-## Cardiovascular Risk
+## Cardiovascular Thrombotic Events
 
-- Celecoxib may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-  All nonsteroidal anti-inflammatory drugs (NSAIDs) may have a similar risk.
-  This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
-  (5.1,14.6)
-- Celecoxib is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery.
-  (4, 5.1)
+- Nonsteroidal anti-inflammatory drugs (NSAIDS) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use (see Warnings and Precautions (5.1).
+- Celecoxib is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see Contraindications, Warnings and Precautions(4, 5.1)
 
 ## Gastrointestinal Risk
 

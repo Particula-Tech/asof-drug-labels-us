@@ -25,7 +25,7 @@ Celecoxib can be used with low-dose aspirin.
 However, concomitant administration of aspirin with celecoxib increases the rate of GI ulceration or other complications, compared to use of celecoxib alone [see Warnings and Precautions (5.1, 5.4) and Clinical Studies (14.6)].
 Because of its lack of platelet effects, celecoxib is not a substitute for aspirin for cardiovascular prophylaxis [see Clinical Pharmacology (12.2)].
 
-## 7.4 ACE-inhibitors and Angiotensin II Antagonists
+## 7.4 ACE-Inhibitors and Angiotensin II Antagonists
 
 Reports suggest that NSAIDs may diminish the antihypertensive effect of Angiotensin Converting Enzyme (ACE) inhibitors and angiotensin II antagonists.
 This interaction should be given consideration in patients taking celecoxib capsules concomitantly with ACE-inhibitors and angiotensin II antagonists [see Clinical Pharmacology (12.2].

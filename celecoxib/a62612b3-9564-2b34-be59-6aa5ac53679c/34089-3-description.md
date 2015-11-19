@@ -7,4 +7,4 @@ Celecoxib capsules for oral administration contain either 50 mg, 100 mg, or 200 
 The capsule shell contains gelatin and titanium dioxide.
 The capsule imprinting ink for the 50 mg strength contains shellac, ethyl alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, sodium hydroxide, titanium dioxide, povidone and FD&C Red #40 Aluminum Lake.
 The capsule imprinting ink for the 100 mg strength contains shellac, ethyl alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, and FD&C Blue #2 Aluminum Lake.
-The capsule imprinting ink for the 200 mg strength contains shellac, ethyl alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, yellow iron oxide, and dimethicone.
+The capsule imprinting ink for the 200 mg strength contains shellac, ethyl alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, iron oxide yellow, and dimethicone.

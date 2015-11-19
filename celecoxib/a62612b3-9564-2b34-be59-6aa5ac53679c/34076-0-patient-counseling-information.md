@@ -8,9 +8,7 @@ Patients should be informed of the availability of a Medication Guide for NSAIDs
 
 ## 17.2 Cardiovascular Effects
 
-Patients should be informed that celecoxib capsules may cause serious CV side effects such as MI or stroke, which may result in hospitalization and even death.
-Patients should be informed of the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and to seek immediate medical advice if they observe any of these signs or symptoms.
-[see Warnings and Precautions (5.1)].
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
 
 Patients should be informed that celecoxib can lead to the onset of new hypertension or worsening of preexisting hypertension, and that celecoxib may impair the response of some antihypertensive agents.
 Patients should be instructed on the proper follow up for monitoring of blood pressure.
@@ -19,8 +17,7 @@ Patients should be instructed on the proper follow up for monitoring of blood pr
 ## 17.3 Gastrointestinal Effects
 
 Patients should be informed that celecoxib capsules can cause gastrointestinal discomfort and more serious side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-Patients should be informed of the signs and symptoms of ulcerations and bleeding, and to seek immediate medical advice if they observe any signs or symptoms that are indicative of these disorders, including epigastric pain, dyspepsia, melena, and hematemesis.
-[see Warnings and Precautions (5.4)].
+Patients should be informed of the signs and symptoms of ulcerations and bleeding, and to seek immediate medical advice if they observe any signs or symptoms that are indicative of these disorders, including epigastric pain, dyspepsia, melena, and hematemesis [see Warnings and Precautions (5.4)].
 
 ## 17.4 Hepatic Effects
 
@@ -41,7 +38,7 @@ Patients with prior history of sulfa allergy should not take celecoxib capsules 
 Long-term administration of NSAIDs including celecoxib has resulted in renal injury.
 Patients at greatest risk are those taking diuretics, ACE-inhibitors, angiotensin II antagonists, or with renal or liver dysfunction, heart failure, and the elderly [see Warnings and Precautions (5.3, 5.6), Use in Specific Populations (8)].
 
-Patients should be instructed to promptly report to their physicians signs or symptoms of unexplained weight gain or edema following treatment with celecoxib capsules [see Warnings and Precautions (5.3)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.3)].
 
 ## 17.7 Anaphylactoid Reactions
 

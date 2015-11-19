@@ -3,26 +3,26 @@
 Carefully consider the potential benefits and risks of celecoxib and other treatment options before deciding to use celecoxib capsules.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)]
 
-## 1.1 Osteoarthritis (OA)
+## 1.1 Osteoarthritis
 
 Celecoxib capsules are indicated for relief of the signs and symptoms of OA [see Clinical Studies (14.1)]
 
-## 1.2 Rheumatoid Arthritis (RA)
+## 1.2 Rheumatoid Arthritis
 
 Celecoxib capsules are indicated for relief of the signs and symptoms of RA [see Clinical Studies (14.2)]
 
-## 1.3 Juvenile Rheumatoid Arthritis (JRA)
+## 1.3 Juvenile Rheumatoid Arthritis
 
 Celecoxib capsules are indicated for relief of the signs and symptoms of JRA in patients 2 years and older [see Clinical Studies (14.3)]
 
-## 1.4 Ankylosing Spondylitis (AS)
+## 1.4 Ankylosing Spondylitis
 
 Celecoxib capsules are indicated for the relief of signs and symptoms of AS [see Clinical Studies (14.4)]
 
-## 1.5 Acute Pain (AP)
+## 1.5 Acute Pain
 
 Celecoxib capsules are indicated for the management of AP in adults [see Clinical Studies (14.5)]
 
-## 1.6 Primary Dysmenorrhea (PD)
+## 1.6 Primary Dysmenorrhea
 
 Celecoxib capsules are indicated for the treatment of PD [see Clinical Studies (14.5)]
