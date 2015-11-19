@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.2).
-
-## 17.1 Patient Advice
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Patients taking carvedilol tablets should be advised of the following:
 
@@ -16,10 +14,6 @@ Patients taking carvedilol tablets should be advised of the following:
 - •Diabetic patients should report any changes in blood sugar levels to their physician.
 - •Contact lens wearers may experience decreased lacrimation.
 
-## 17.2 FDA-Approved Patient Labeling
-
-Patient labeling is provided at the end of this full prescribing information.
-
 Manufactured For:
 
 TEVA PHARMACEUTICALS USA, INC.
@@ -27,7 +21,7 @@ TEVA PHARMACEUTICALS USA, INC.
 North Wales, PA 19454
 
 Rev.
-Q 6/2015
+R 10/2015
 
 PHARMACIST - DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

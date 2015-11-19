@@ -15,9 +15,9 @@ Clonidine therapy can then be discontinued several days later by gradually decre
 
 ## 7.3 Cyclosporine
 
-Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant patients suffering from chronic vascular rejection.
-In about 30% of patients, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
-On the average for the group, the dose of cyclosporine was reduced about 20% in these patients.
+Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant subjects suffering from chronic vascular rejection.
+In about 30% of subjects, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed.
+On the average for the group, the dose of cyclosporine was reduced about 20% in these subjects.
 Due to wide interindividual variability in the dose adjustment required, it is recommended that cyclosporine concentrations be monitored closely after initiation of carvedilol therapy and that the dose of cyclosporine be adjusted as appropriate.
 
 ## 7.4 Digitalis Glycosides
@@ -50,4 +50,4 @@ Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring 
 
 ## 7.9 Anesthesia
 
-If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].
+If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].
