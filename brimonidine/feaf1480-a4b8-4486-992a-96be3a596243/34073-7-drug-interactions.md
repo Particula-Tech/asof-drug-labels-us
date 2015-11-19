@@ -6,7 +6,7 @@ Because COMBIGAN® may reduce blood pressure, caution in using drugs such as ant
 
 ## 7.2 Beta-adrenergic Blocking Agents
 
-Patients who are receiving a beta-adrenergic blocking agent orally and COMBIGAN® should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Patients who are receiving a beta-adrenergic blocking agent either orally or intravenously and COMBIGAN® should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
 ## 7.3 Calcium Antagonists

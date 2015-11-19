@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
 There have been reports of inadvertent overdosage with timolol ophthalmic solution resulting in systemic effects similar to those seen with systemic beta-adrenergic blocking agents such as dizziness, headache, shortness of breath, bradycardia, bronchospasm, and cardiac arrest.
-Very limited information exists on accidental ingestion of brimonidine in adults alone or in combination.
+With the exception of hypotension, very limited information exists on accidental ingestion of brimonidine in adults.
 Symptoms of brimonidine overdose have been reported in neonates, infants, and children receiving brimonidine ophthalmic solutions as part of medical treatment of congenital glaucoma or by accidental oral ingestion [see Use in Specific Populations (8.4)].
 Treatment of an oral overdose includes supportive and symptomatic therapy; a patent airway should be maintained.

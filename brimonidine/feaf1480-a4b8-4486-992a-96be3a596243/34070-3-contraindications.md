@@ -1,8 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Asthma, COPD
+## 4.1 Reactive Airway Disease Including Asthma, COPD
 
-COMBIGAN® is contraindicated in patients with bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions (5.1, 5.3)].
+COMBIGAN® is contraindicated in patients with reactive airway disease including bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions (5.1, 5.3)].
 
 ## 4.2 Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock
 

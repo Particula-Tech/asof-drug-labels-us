@@ -2,8 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: Teratogenicity studies have been performed in animals.
-
+Teratogenicity studies have been performed in animals.
 Brimonidine tartrate was not teratogenic when given orally during gestation days 6 through 15 in rats and days 6 through 18 in rabbits.
 The highest doses of brimonidine tartrate in rats (2.5 mg/kg/day) and rabbits (5 mg/kg/day) achieved AUC exposure values 580 and 37-fold higher, respectively, than similar values estimated in humans treated with COMBIGAN®, 1 drop in both eyes twice daily.
 

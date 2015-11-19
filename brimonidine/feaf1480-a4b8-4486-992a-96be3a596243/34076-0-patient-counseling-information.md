@@ -3,7 +3,7 @@
 Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product [see Contraindications (4.1, 4.2)].
 
 Patients should be instructed that ocular solutions, if handled improperly or if the tip of the dispensing container contacts the eye or surrounding structures, can become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Warnings and Precautions (5.10)].
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions or by inadvertent contact with the dropper tip [see Warnings and Precautions (5.10)].
 Always replace the cap after using.
 If solution changes color or becomes cloudy, do not use.
 Do not use the product after the expiration date marked on the bottle.
@@ -19,7 +19,9 @@ Lenses may be reinserted 15 minutes following administration of COMBIGAN®.
 As with other similar medications, COMBIGAN® may cause fatigue and/or drowsiness in some patients.
 Patients who engage in hazardous activities should be cautioned of the potential for a decrease in mental alertness.
 
-© 2013 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
+© 2015 Allergan.All rights reserved.
+Irvine, CA 92612, U.S.A. All trademarks are the property of their respective owners.
+Patented.
 See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
-72060US14
+72060US15

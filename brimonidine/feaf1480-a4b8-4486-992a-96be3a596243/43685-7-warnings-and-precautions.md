@@ -1,10 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Potentiation of Respiratory Reactions Including Asthma
+## 5.1 Potential for Severe Respiratory or Cardiac Reactions
 
 COMBIGAN® contains timolol maleate; and although administered topically can be absorbed systemically.
 Therefore, the same types of adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
-For example, severe respiratory reactions including death due to bronchospasm in patients with asthma have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications (4.1)].
+For example, severe respiratory reactions and cardiac reactions including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications (4.1)].
+Additionally, ophthalmic beta-blockers may impair compensatory tachycardia and increase risk of hypotension.
 
 ## 5.2 Cardiac Failure
 
@@ -15,7 +16,7 @@ At the first sign or symptom of cardiac failure, COMBIGAN® should be discontinu
 
 ## 5.3 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease [other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated [see Contraindications (4.1)]] should, in general, not receive beta-blocking agents, including COMBIGAN®.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated [see Contraindications (4.1)]) should, in general, not receive beta-blocking agents, including COMBIGAN®.
 
 ## 5.4 Potentiation of Vascular Insufficiency
 
