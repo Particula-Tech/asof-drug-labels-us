@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761036"
+  ],
+  "inn": "daratumumab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-502-05",
+    "57894-502-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "daratumumab",
+      "name": "DARZALEX"
+    }
+  ],
+  "setid": "a4d0efe9-5e54-467e-9eb4-56fa7d53b60b",
+  "source": "dailymed"
+}

@@ -1,0 +1,19 @@
+# 7 DRUG INTERACTIONS
+
+No drug interaction studies have been performed.
+
+## 7.1 Effects of Daratumumab on Laboratory Tests
+
+Interference with Indirect Antiglobulin Tests (Coombs Test)
+
+Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, including antibody screening and cross matching.
+Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding1 [see References (15)] or genotyping.
+Since the Kell blood group system is also sensitive to DTT treatment, K-negative units should be supplied after ruling out or identifying alloantibodies using DTT-treated RBCs.
+
+If an emergency transfusion is required, non-cross-matched ABO/RhD-compatible RBCs can be given per local blood bank practices.
+
+Interference with Serum Protein Electrophoresis and Immunofixation Tests
+
+Daratumumab may be detected on serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for monitoring disease monoclonal immunoglobulins (M protein).
+This can lead to false positive SPE and IFE assay results for patients with IgG kappa myeloma protein impacting initial assessment of complete responses by International Myeloma Working Group (IMWG) criteria.
+In patients with persistent very good partial response, consider other methods to evaluate the depth of response.
