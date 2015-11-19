@@ -10,7 +10,7 @@ SULFATE
 
 Tablets, USP
 
-500 mg*
+500 mg
 
 Rx only
 
