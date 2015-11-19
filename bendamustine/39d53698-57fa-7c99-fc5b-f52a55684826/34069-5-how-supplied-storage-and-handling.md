@@ -26,7 +26,7 @@ TREANDA (bendamustine hydrochloride) for Injection is supplied in individual car
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
-TREANDA Injection must be stored refrigerated between 2°-8°C (36°-46°F).
+TREANDA Injection must be stored refrigerated between 2° to 8°C (36° to 46°F).
 Retain in original package until time of use to protect from light.
 
 TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)

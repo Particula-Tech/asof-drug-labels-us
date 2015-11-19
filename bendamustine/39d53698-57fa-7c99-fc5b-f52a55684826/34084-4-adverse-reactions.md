@@ -8,7 +8,7 @@ The following serious adverse reactions have been associated with TREANDA in cli
 - •Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
 - •Skin Reactions [see Warnings and Precautions (5.5)]
 - •Other Malignancies [see Warnings and Precautions (5.6)]
-- •Extravasation injury [see Warnings and Precautions (5.7)]
+- •Extravasation Injury [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,7 +32,7 @@ The most frequent adverse reactions leading to study withdrawal for patients rec
 
 Table 1 contains the treatment emergent adverse reactions, regardless of attribution, that were reported in ≥ 5% of patients in either treatment group in the randomized CLL clinical study.
 
-Table 1: Non-Hematologic Adverse Reactions Occurring in Randomized CLL Clinical Study in at Least 5% of Patients
+Table 1: Non- Hematologic Adverse Reactions Occurring in Randomized CLL Clinical Study in at Least 5% of Patients
 
 |  | Number (%) of patients |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -178,7 +178,7 @@ Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 
 |  | Percent of patients |  |
 | --- | --- | --- |
-| Hematology variable | All Grades | Grades 3/4 |
+| Hematology variable | All Grades | Grade 3/4 |
 | Lymphocytes Decreased | 99 | 94 |
 | Leukocytes Decreased | 94 | 56 |
 | Hemoglobin Decreased | 88 | 11 |
@@ -195,7 +195,18 @@ Adverse reactions occurring less frequently but possibly related to TREANDA trea
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TREANDA.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling; pneumocystis jiroveci pneumonia and pneumonitis.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin reactions including SJS and TEN have occurred when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
-[see Warnings and Precautions (5.5)]
+Blood and lymphatic systems disorders: Pancytopenia
+
+Cardiovascular disorders: Atrial fibrillation, congestive heart failure (some fatal), myocardial infarction (some fatal), palpitation
+
+General disorders and administration site conditions: Injection site reactions (including phlebitis, pruritus, irritation, pain, swelling), infusion site reactions (including phlebitis, pruritus, irritation, pain, swelling)
+
+Immune system disorders: Anaphylaxis
+
+Infections and infestations: Pneumocystis jiroveci pneumonia.
+
+Respiratory, thoracic and mediastinal disorders: Pneumonitis
+
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome (with concomitant allopurinol and other medications known to cause the syndrome), Toxic epidermal necrolysis (with concomitant allopurinol and other medications known to cause the condition) [see Warnings and Precautions (5.5)]

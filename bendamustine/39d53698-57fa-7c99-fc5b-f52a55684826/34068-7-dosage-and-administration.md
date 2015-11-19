@@ -63,7 +63,7 @@ TREANDA Injection must be diluted in a biosafety cabinet (BSC) or containment is
 
 - •When preparing and transferring the concentrated TREANDA Injection solution into the infusion bag, do not use devices that contain polycarbonate or ABS.
   However, after dilution of TREANDA Injection into the infusion bag, devices that contain polycarbonate or ABS, including infusion sets, may be used.
-- TREANDA Injection contains N,N-dimethylacetamide (DMA), which is incompatible with devices that contain polycarbonate or ABS.
+  TREANDA Injection contains N,N-dimethylacetamide (DMA), which is incompatible with devices that contain polycarbonate or ABS.
   Devices, including CSTDs, adapters, and syringes that contain polycarbonate or ABS have been shown to dissolve when they come in contact with DMA which is present in the product.
   This incompatibility leads to device failure (e.g., leaking, breaking, or operational failure of CSTD components), possible product contamination, and potential serious adverse health consequences to the practitioner, including skin reactions; or to the patient, including but not limited to, the risk of small blood vessel blockage if they receive product contaminated with dissolved ABS or polycarbonate.
   Devices that are compatible for use in dilution of TREANDA Injection are available.
@@ -114,10 +114,10 @@ The admixture should be prepared as close as possible to the time of patient adm
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored under refrigerated conditions at 2°-8°C (36°-46°F) or for 2hours when stored at room temperature (15°-30°C or 59°-86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored under refrigerated conditions at 2° to 8°C (36° to 46°F) or for 2hours when stored at room temperature (15° to 30°C or 59° to 86°F) and room light.
 Administration of diluted TREANDA Injection must be completed within this period.
 
 TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored under refrigerated conditions at 2°-8°C (36-47°F) or for 3hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored under refrigerated conditions at 2° to 8°C (36° to 46°F) or for 3hours when stored at room temperature (15° to 30°C or 59° to 86°F) and room light.
 Administration of reconstituted and diluted TREANDA for Injection must be completed within this period.

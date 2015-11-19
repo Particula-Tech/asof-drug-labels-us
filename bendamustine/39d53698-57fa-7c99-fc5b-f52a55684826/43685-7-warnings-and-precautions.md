@@ -14,9 +14,12 @@ Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 
 
 ## 5.2 Infections
 
-Infection, including pneumonia, sepsis, septic shock, and death have occurred in adult and pediatric patients in clinical trials and in postmarketing reports.
+Infection, including pneumonia, sepsis, septic shock, hepatitis and death have occurred in adult and pediatric patients in clinical trials and in postmarketing reports.
 Patients with myelosuppression following treatment with TREANDA are more susceptible to infections.
 Advise patients with myelosuppression following TREANDA treatment to contact a physician if they have symptoms or signs of infection.
+
+Patients treated with TREANDA are at risk for reactivation of infections including (but not limited to) hepatitis B, cytomegalovirus, Mycobacterium tuberculosis, and herpes zoster.
+Patients should undergo appropriate measures (including clinical and laboratory monitoring, prophylaxis, and treatment) for infection and infection reactivation prior to administration.
 
 ## 5.3 Anaphylaxis and Infusion Reactions
 

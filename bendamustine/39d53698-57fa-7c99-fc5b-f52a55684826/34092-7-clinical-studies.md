@@ -11,7 +11,7 @@ The patient populations in the TREANDA and chlorambucil treatment groups were ba
 Ninety percent of patients in both treatment groups had immuno-phenotypic confirmation of CLL (CD5, CD23 and either CD19 or CD20 or both).
 
 Patients were randomly assigned to receive either TREANDA at 100 mg/m2, administered intravenously over a period of 30 minutes on Days 1 and 2 or chlorambucil at 0.8 mg/kg (Broca’s normal weight) administered orally on Days 1 and 15 of each 28-day cycle.
-Efficacy endpoints of objective response rate and progression-free survival were calculated using a pre-specified algorithm based on NCI working group criteria for CLL1.
+Efficacy endpoints of objective response rate and progression-free survival were calculated using a pre-specified algorithm based on NCI working group criteria for CLL.
 
 The results of this open-label randomized study demonstrated a higher rate of overall response and a longer progression-free survival for TREANDA compared to chlorambucil (see Table 5).
 Survival data are not mature.
