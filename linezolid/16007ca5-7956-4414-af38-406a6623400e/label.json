@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA200068"
+  ],
+  "inn": "linezolid",
+  "labeler": "Roxane Laboratories, Inc.",
+  "package_ndcs": [
+    "0054-0319-50"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "linezolid",
+      "name": "Linezolid for Oral Solution"
+    }
+  ],
+  "setid": "16007ca5-7956-4414-af38-406a6623400e",
+  "source": "dailymed"
+}
