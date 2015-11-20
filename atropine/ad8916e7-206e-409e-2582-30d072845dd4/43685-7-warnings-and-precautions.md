@@ -1,34 +1,21 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Atropine is a highly potent drug and due care is essential to avoid overdosage, especially with intravenous administration.
-Pediatric populations are more susceptible than adults to the toxic effects of anticholinergic agents.
+## 5.1 Tachycardia
 
-Atropine I.V. decreased the rate of mexiletine absorption without altering the relative oral bioavailability; this delay in mexiletine absorption was reversed by the combination of atropine and intravenous metoclopramide during pretreatment for anesthesia.
-Atropine is not removed by dialysis.
+When the recurrent use of atropine is essential in patients with coronary artery disease, the total dose should be restricted to 2 to 3 mg (maximum 0.03 to 0.04 mg/kg) to avoid the detrimental effects of atropine-induced tachycardia on myocardial oxygen demand.
 
-# PRECAUTIONS
+## 5.2 Acute Glaucoma
 
-Do not administer unless solution is clear and seal is intact.
-Discard unused portion.
+Atropine may precipitate acute glaucoma.
 
-Atropine Sulfate Injection, USP should be used with caution in all individuals over 40 years of age.
-Conventional systemic doses may precipitate acute glaucoma in susceptible patients, convert partial organic pyloric stenosis into complete obstruction, lead to complete urinary retention in patients with prostatic hypertrophy or cause inspissation of bronchial secretions and formation of dangerous viscid plugs in patients with chronic lung disease.
+## 5.3 Pyloric Obstruction
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Atropine may convert partial organic pyloric stenosis into complete obstruction.
 
-Studies have not been performed to evaluate the carcinogenic or mutagenic potential of atropine or its potential to adversely affect fertility.
+## 5.4 Complete Urinary Retention
 
-## Pregnancy Category C.
+Atropine may lead to complete urinary retention in patients with prostatic hypertrophy.
 
-Animal reproduction studies have not been conducted with atropine.
-It also is not known whether atropine can cause fetal harm when given to a pregnant woman or can affect reproduction capacity.
-Atropine should be given to a pregnant woman only if clearly needed.
+## 5.5 Viscid Plugs
 
-## Pediatric Use
-
-Safety and effectiveness in pediatric populations have not been established.
-
-## Geriatric Use
-
-An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Atropine may cause inspissation of bronchial secretions and formation of viscid plugs in patients with chronic lung disease.

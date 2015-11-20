@@ -1,20 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Atropine Sulfate Injection, USP is supplied in single-dose containers as follows:
 
-| NDC No. | Container | Size | Conc. | Total Content (Atropine) |
+| Container | Concentration(mg/mL) | Fill Volume | Total Atropine Content | NDC# |
 | --- | --- | --- | --- | --- |
-| 0409-9629-05 | Ansyr™ Plastic Syringe | 5 mL | 0.1 mg/mL (Adult) | 0.5 mg |
-| 0409-1630-10 | Ansyr™ Plastic Syringe | 10 mL | 0.1 mg/mL (Adult) | 1 mg |
-| 0409-9630-05 | Ansyr™ Plastic Syringe | 5 mL | 0.05 mg/mL (Pediatric) | 0.25 mg |
+| Ansyr™ Plastic Syringe | 0.1 mg/mL (Adult) | 5 mL | 0.5 mg | 0409-9629-05 |
+| Ansyr™ Plastic Syringe | 0.1 mg/mL (Adult) | 10 mL | 1 mg | 0409-1630-10 |
+| Ansyr™ Plastic Syringe | 0.05 mg/mL (Pediatric) | 5 mL | 0.25 mg | 0409-9630-05 |
 
-Store at 20 to 25°C (68 to 77°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 [See USP Controlled Room Temperature.]
 
-Revised: November, 2009
-
-Printed in USA
-
-EN-2298
+EN-4094
 
 Hospira, Inc., Lake Forest, IL 60045 USA

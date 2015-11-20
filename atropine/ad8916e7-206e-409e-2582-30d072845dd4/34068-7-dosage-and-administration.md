@@ -1,27 +1,27 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Atropine Sulfate Injection, USP in the Ansyr Syringe is intended for intravenous use, but may be administered subcutaneously or intramuscularly.
-Its use usually requires titration, using heart rate, PR interval, blood pressure and/or patient’s symptoms as a guide for having reached an appropriate dose.
+## 2.1 General Administration
 
-Adults
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not administer unless solution is clear and seal is intact.
+Discard unused portion.
 
-Initial single doses in adults vary from around 0.5 mg to 1 mg (5-10 mL of the 0.1 mg/mL solution for antisialagogue and other antivagal effects, to 2 to 3 mg (20-30 mL) of the 0.1 mg/mL solution) as an antidote for organophosporous or muscarinic mushroom poisoning.
-When used as an antidote, the 2 to 3 mg dose should be repeated no less often than every 20 to 30 minutes until the signs of poisoning are sufficiently lessened or signs of atropine poisoning (see ADVERSE REACTIONS and OVERDOSAGE) occur.
+Intravenous administration is usually preferred, but subcutaneous, intramuscular, and endotracheal administration are possible.
+For administration via an endotracheal tube, dilute 1-2 mg in no more than 10 mL of sterile water or normal saline.
 
-When the recurrent use of atropine is essential in patients with coronary artery disease, the total dose should be restricted to 2 to 3 mg (maximum 0.03 to 0.04 mg/kg) to avoid the detrimental effects of atropine-induced tachycardia on myocardial oxygen demand.
-For patients with bradyasystolic cardiac arrest, a 1 mg dose of atropine is administered intravenously and is repeated every 3-5 minutes if asystole persists.
-Three milligrams (0.04 mg/kg) given I.V. is a fully vagolytic dose in most patients.
-The administration of this dose of atropine should be reserved for patients with bradyasystolic cardiac arrest.
-Administration of less than 0.5 mg can produce a paradoxical bradycardia because of the central or peripheral parasympathomimetic effects of low doses in adults.
+Titrate based on heart rate, PR interval, blood pressure and symptoms.
 
-Endotracheal administration of atropine can be used in patients without I.V. access.
-The recommended adult dose of atropine for endotracheal administration is 1 to 2 mg diluted to a total not to exceed 10 mL of sterile water or normal saline.
+## 2.2 Adult Dosage
 
-Titration intervals of one or two hours are recommended in circumstances that are not life-threatening.
+Table 1: Recommended Dosage
 
-Pediatrics
+| Use | Dose (adults) | Repeat |
+| --- | --- | --- |
+| Antisialagogue or other antivagal | 0.5 to 1 mg | 1-2 hours |
+| Organophosphorus or muscarinic mushroom poisoning | 2 to 3 mg | 20-30 minutes |
+| Bradyasystolic cardiac arrest | 1 mg | 3-5 minutes; 3 mg maximum total dose |
 
-Dosing information in pediatric populations has not been well studied.
-Usage history of initial dose has been in the range of 0.01 to 0.03 mg/kg body weight.
+## 2.3 Pediatric Dosage
 
-Parenteral drug products should be inspected visually for particulate matter and/or discoloration prior to administration (see PRECAUTIONS).
+Dosing in pediatric populations has not been well studied.
+Usual initial dose is 0.01 to 0.03 mg/kg.
