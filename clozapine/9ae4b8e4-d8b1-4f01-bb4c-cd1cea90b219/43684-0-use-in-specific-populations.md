@@ -8,7 +8,7 @@
 
 There are no adequate or well-controlled studies of clozapine in pregnant women.
 
-Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2body surface area basis.
+Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2 body surface area basis.
 The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
 Because animal reproduction studies are not always predictive of human response, clozapine orally disintegrating tablets should be used during pregnancy only if clearly needed.
 

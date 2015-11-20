@@ -25,13 +25,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from moisture.
 
-Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the product labeling.
+Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
 This container is not intended for dispensing for household use.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM3813A
+RM3813A1
 
 # PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -60,10 +60,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from moisture.
 
-Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the product labeling.
+Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
 This container is not intended for dispensing for household use.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM3815A
+RM3815A1

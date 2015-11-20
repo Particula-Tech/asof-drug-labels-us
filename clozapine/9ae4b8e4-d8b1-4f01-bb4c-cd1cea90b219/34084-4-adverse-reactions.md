@@ -124,7 +124,7 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 The following adverse reactions have been identified during post-approval use of clozapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System:Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
+Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
 
 Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
 
@@ -138,11 +138,11 @@ Immune System Disorders: Angioedema, leukocytoclastic vasculitis.
 
 Urogenital System: Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
 
-Skin and Subcutaneous Tissue Disorders:Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
+Skin and Subcutaneous Tissue Disorders: Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 
 Musculoskeletal System and Connective Tissue Disorders: Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
 
-Respiratory System:Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
+Respiratory System: Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System: Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
