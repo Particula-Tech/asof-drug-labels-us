@@ -1,12 +1,12 @@
 # Package/Label Display Panel
 
-## Medroxyprogesterone Acetate 2.5 mg 100 Tablets Label Text
+## Medroxyprogesterone Acetate Tablets USP 2.5 mg 100s Label Text
 
 NDC 0555-0872-02
 
-MedroxyPROGESTERone ACETATE Tablets USP 2.5 mg
+MedroxyPROGESTERone Acetate Tablets USP 2.5 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
+PHARMACIST: PLEASE DISPENSE WITH ATTCHED PATIENT INFORMATION LEAFLET.
 
 Rx only
 
@@ -16,13 +16,13 @@ TEVA
 
 # Package/Label Display Panel
 
-## Medroxyprogesterone Acetate 5 mg 100 Tablets Label Text
+## Medroxyprogesterone Acetate Tablets USP 5 mg 100s Label Text
 
 NDC 0555-0873-02
 
-MedroxyPROGESTERone ACETATE Tablets USP 5 mg
+MedroxyPROGESTERone Acetate Tablets USP 5 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
+PHARMACIST: PLEASE DISPENSE WITH ATTCHED PATIENT INFORMATION LEAFLET.
 
 Rx only
 
@@ -32,13 +32,13 @@ TEVA
 
 # Package/Label Display Panel
 
-## Medroxyprogesterone Acetate 10 mg 100 Tablets Label Text
+## Medroxyprogesterone Acetate Tablets USP 10 mg 100s Label Text
 
 NDC 0555-0779-02
 
-MedroxyPROGESTERone ACETATE Tablets USP 10 mg
+MedroxyPROGESTERone Acetate Tablets USP 10 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
+PHARMACIST: PLEASE DISPENSE WITH ATTCHED PATIENT INFORMATION LEAFLET.
 
 Rx only
 
