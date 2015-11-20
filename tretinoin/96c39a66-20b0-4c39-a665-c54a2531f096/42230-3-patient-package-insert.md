@@ -1,4 +1,4 @@
-## AVITA® (tretinoin cream) CREAM, 0.025%
+# AVITA® (tretinoin cream) CREAM, 0.025%
 
 PATIENT INSTRUCTIONS Acne Treatment
 
@@ -79,20 +79,20 @@ AGAIN, FOLLOW INSTRUCTIONS - BE PATIENT - DON'T START AND STOP THERAPY ON YOUR O
 
 To help you use the medication correctly, keep these simple instructions in mind.
 
-- AVITA® Cream should be applied once a day, in the evening, or as directed by your physician, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
+- •AVITA® Cream should be applied once a day, in the evening, or as directed by your physician, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
   First, wash with a mild soap and dry your skin gently.
   WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
-- It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
+- •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication, and won't give faster or better results.
-- Keep the medication away from the corners of the nose, mouth, eyes, and open wounds.
+- •Keep the medication away from the corners of the nose, mouth, eyes, and open wounds.
   Spread away from these areas when applying.
-- Cream: Squeeze about a half inch or less of medication onto the fingertip.
+- •Cream: Squeeze about a half inch or less of medication onto the fingertip.
   While that should be enough for your whole face, after you have had some experience with the medication you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, you are using too much.
   Cover the affected area lightly with AVITA® Cream by first dabbing it on your forehead, chin, and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
-- If needed, you may apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) in the morning after you wash.
+- •If needed, you may apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) in the morning after you wash.
 
 WHAT TO EXPECT WITH YOUR NEW TREATMENT
 
@@ -116,3 +116,9 @@ Don't be discouraged if you see no immediate improvement.
 Don't stop treatment at the first signs of improvement.
 
 Once your acne is under control you should continue regular application of AVITA® Cream until your physician instructs otherwise.
+
+MYLAN BERTEK PHARMACEUTICALS INC. Research Triangle Park, NC 27709-4149
+
+Revised April 2005
+
+Printed in U.S.A
