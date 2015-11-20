@@ -104,7 +104,7 @@ Especially tell your doctor if you take:
 - medicine for nausea and vomiting such as dronabinol (Marinol) or perphenazine
 - medicine for fungal infections such as ketoconazole (Nizoral), itraconazole (Sporanox, Onmel) or voriconazole (VFend)
 - colchicine (Colcrys, Col-Probenecid, Probenecid and Colchine)
-- medicine for infections such as clarithromycin (Prevpac, Biaxin), rifabutin (Mycobutin), rifampin (Rimactane, Rifadin, Rifater, Rifamate), atovaquone (Mepron, Malarone), quinine (Qualaquin) or metronidazole (Flagyl, Helidac, Metrocream)
+- medicine for infections such as clarithromycin (Prevpac, Biaxin), rifabutin (Mycobutin), rifampin (Rimactane, Rifadin, Rifater, Rifamate), atovaquone (Mepron, Malarone), bedaquiline (Sirturo), quinine (Qualaquin) or metronidazole (Flagyl, Helidac, Metrocream)
 - medicine used to treat blood pressure, a heart attack, heart failure, or to lower pressure in the eye such as metoprolol (Lopressor, Toprol-XL), timolol (Cosopt, Betimol, Timoptic, Isatolol, Combigan)
 - medicine for lung disease such as theophylline and salmeterol (Serevent)
 - bosentan (Tracleer)
@@ -273,7 +273,7 @@ NORVIR tablets and oral solution are manufactured by:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-Revised: March 2015
+Revised: November 2015
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
