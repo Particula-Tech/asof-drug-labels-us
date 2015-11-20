@@ -31,8 +31,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## Important Considerations
 
-- Blood samples for serum lithium determinations should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e.
+- •Blood samples for serum lithium determinations should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e.
   8 to 12 hours after previous dose).
   Total reliance must not be placed on serum concentrations alone.
   Accurate patient evaluation requires both clinical and laboratory analysis.
-- Lithium carbonate extended-release tablets USP must be swallowed whole and never chewed or crushed.
+- • Lithium carbonate extended-release tablets USP must be swallowed whole and never chewed or crushed.

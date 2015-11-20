@@ -101,7 +101,7 @@ Concurrent use of fluoxetine with lithium has resulted in both increased and dec
 Nonsteroidal anti-inflammatory drugs (NSAIDs): Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
 In some cases, lithium toxicity has resulted from interactions between a NSAID and lithium.
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
-There is also evidence that other nonsteroidal anti­inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
+There is also evidence that other nonsteroidal anti‑inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
 
 Lithium may impair mental and/or physical abilities.
