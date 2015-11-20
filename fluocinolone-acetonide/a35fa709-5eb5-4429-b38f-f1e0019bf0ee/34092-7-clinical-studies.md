@@ -3,7 +3,6 @@
 Two adequate and well-controlled efficacy and safety trials were conducted in 641 subjects between the ages of 21 to 75 years, having Fitzpatrick Skin types I-IV and moderate to severe melasma of the face.
 TRI-LUMA Cream was compared with 3 possible combinations of 2 of the 3 active ingredients [(1) hydroquinone 4% (HQ) + tretinoin 0.05% (RA); (2) fluocinolone acetonide 0.01% (FA) + tretinoin 0.05% (RA); (3) fluocinolone acetonide 0.01% (FA) + hydroquinone 4% (HQ)], contained in the same vehicle as TRI-LUMA Cream.
 Subjects were instructed to apply their study medication each night, after washing their face with a mild soapless cleanser, for 8 weeks.
-
 Instructions were given to apply a thin layer of study medication to the hyperpigmented lesion, making sure to cover the entire lesion including the outside borders extending to the normal pigmented skin.
 Subjects were provided a mild moisturizer for use as needed.
 A sunscreen with SPF 30 was also provided with instructions for daily use.

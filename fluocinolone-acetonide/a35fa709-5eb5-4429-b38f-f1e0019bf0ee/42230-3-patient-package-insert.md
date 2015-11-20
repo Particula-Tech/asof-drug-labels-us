@@ -30,7 +30,7 @@ It is not known if TRI-LUMA Cream is safe and effective in people with dark brow
 It is not known if TRI-LUMA Cream is safe and effective in the treatment of dark spots (hyperpigmentation) of the skin caused by conditions other than melasma of the face.
 
 It is not known if TRI-LUMA Cream is safe and effective in females who are pregnant or who are breastfeeding.
-See “What is the most important information I should know about TRI-LUMA Cream?” and “What should I tell my doctor before using TRI-LUMA Cream?”
+See "What is the most important information I should know about TRI-LUMA Cream? and What should I tell my doctor before using TRI-LUMA Cream?"
 
 Who should not use TRI-LUMA Cream?
 
@@ -44,7 +44,7 @@ Before you use TRI-LUMA Cream, tell your doctor if you:
 - are allergic to sulfites
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  See “What is the most important information I should know about TRI-LUMA Cream?”
+  See "What is the most important information I should know about TRI-LUMA Cream?"
 - are breastfeeding or plan to breastfeed.
   It is not known if TRI-LUMA Cream passes into your breast milk.
   You should avoid skin-to-skin contact between areas treated with TRI-LUMA Cream and your baby.
@@ -68,12 +68,10 @@ How should I use TRI-LUMA Cream?
 What should I avoid while using TRI-LUMA Cream?
 
 - You should avoid sunlight, sunlamps, tanning beds, and ultraviolet light during treatment with TRI-LUMA Cream.
-
 - Use sunscreen with an SPF (sun protection factor) of 30 or more.
   If you have to be in the sunlight, wear a wide-brimmed hat or other protective clothing to cover the treated areas.
-- Melasma can get worse with even a small amount of sunlight.
+- Melasma can get worse with even a small amont of sunlight.
   You should continue to avoid sunlight, use sunscreen, and wear protective clothing after treatment with TRI-LUMA Cream.
-
 - Females should avoid the use of hormonal forms of birth control.
   Hormonal birth control methods can cause your melasma to become worse.
   Talk to your doctor about other birth control options.
@@ -170,8 +168,8 @@ Manufactured by:
 
 G Production Inc.
 
-Baie d’Urfé, QC, H9X 3S4 Canada
+Baie dUrfé, QC, H9X 3S4 Canada
 
-Made in Canada.
+Made in Canada
 
 Revised: March 2014

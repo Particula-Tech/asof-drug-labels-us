@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION AND FDA-APPROVED PATIENT LABELING
 
 See FDA-approved patient labeling (Patient Information)
 
@@ -40,6 +40,6 @@ G Production Inc.
 
 Baie d’Urfé, QC, H9X 3S4 Canada
 
-Made in Canada.
+Made in Canada
 
 P52091-2
