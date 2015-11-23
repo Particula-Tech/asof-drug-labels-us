@@ -59,7 +59,7 @@ Adverse Reactions in Pooled Placebo-Controlled Trials in Patients with Migraine 
 | Skin |  |  |
 | Sweating | 2 | 1 |
 
-a Includes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding.
+- a Includes injection site pain, stinging/burning, swelling, erythema, bruising, bleeding.
 
 The incidence of adverse reactions in controlled clinical trials was not affected by gender or age of the patients.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
@@ -69,7 +69,7 @@ Cluster Headache
 In the controlled clinical trials assessing the efficacy of IMITREX Injection as a treatment for cluster headache (Studies 4 and 5), no new significant adverse reactions were detected that had not already been identified in trials of IMITREX in patients with migraine.
 
 Overall, the frequency of adverse reactions reported in the trials of cluster headache was generally lower than in the migraine trials.
-Exceptions include reports of paresthesia (5% IMITREX, 0% placebo), nausea and vomiting (4% IMITREX, 0% placebo), and bronchospasm (1% IMITREX, 0% placebo).
+Exceptions include reports of paresthesia (5% IMITREX Injection, 0% placebo), nausea and vomiting (4% IMITREX Injection, 0% placebo), and bronchospasm (1% IMITREX Injection, 0% placebo).
 
 ## 6.2 Postmarketing Experience
 

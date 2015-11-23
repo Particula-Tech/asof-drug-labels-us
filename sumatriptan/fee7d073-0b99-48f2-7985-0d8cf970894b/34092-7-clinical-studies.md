@@ -21,7 +21,7 @@ Proportion of Patients with Migraine Relief and Incidence of Adverse Reactions b
 | 6 mg | 10 | 63 | 73 | 70 | 83 |
 | 8 mg | 23 | 57 | 80 | 83 | 93 |
 
-a Relief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication.
+- a Relief is defined as the reduction of moderate or severe pain to no or mild pain after dosing without use of rescue medication.
 
 In 2 randomized, placebo-controlled clinical trials of IMITREX Injection 6 mg in 1,104 patients with moderate or severe migraine pain (Studies 2 and 3), the onset of relief was less than 10 minutes.
 Headache relief, as defined by a reduction in pain from severe or moderately severe to mild or no headache, was achieved in 70% of the patients within 1 hour of a single 6-mg subcutaneous dose of IMITREX Injection.
@@ -48,13 +48,10 @@ Proportion of Patients with Pain Relief and Relief of Migraine Symptoms after 1 
 | Patients without photophobia | 31% | 72%a | 35% | 71%a |
 | Patients with little or no clinical disabilityb | 42% | 85%a | 49% | 84%a |
 
-a P <0.05 versus placebo.
-
-b A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally.
-
-c Includes patients that may have received an additional placebo injection 1 hour after the initial injection.
-
-d Includes patients that may have received an additional 6 mg of IMITREX Injection 1 hour after the initial injection.
+- a P<0.05 versus placebo.
+- b A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally.
+- c Includes patients that may have received an additional placebo injection 1 hour after the initial injection.
+- d Includes patients that may have received an additional 6 mg of IMITREX Injection 1 hour after the initial injection.
 
 IMITREX Injection also relieved photophobia, phonophobia (sound sensitivity), nausea, and vomiting associated with migraine attacks.
 Similar efficacy was seen when patients self-administered IMITREX Injection using the IMITREX STATdose Pen.
@@ -79,9 +76,8 @@ Proportion of Patients with Cluster Headache Relief by Time in Studies 4 and 5
 | 10 Minutes post-injection | 10% | 49%a | 25% | 49%a |
 | 15 Minutes post-injection | 26% | 74%a | 35% | 75%a |
 
-a P <0.05.
-
-(n = Number of headaches treated.)
+- aP<0.05.
+- (n = Number of headaches treated.)
 
 An estimate of the cumulative probability of a patient with a cluster headache obtaining relief after being treated with either IMITREX Injection or placebo is presented in Figure 1.
 

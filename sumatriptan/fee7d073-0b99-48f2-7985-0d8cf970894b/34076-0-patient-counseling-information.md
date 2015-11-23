@@ -40,19 +40,21 @@ Treatment with IMITREX Injection may cause somnolence and dizziness; instruct pa
 
 How to Use IMITREX Injection
 
+Instruct patients to read the Instructions for Use before starting therapy.
 Provide patients instruction on the proper use of IMITREX Injection if they are able to self-administer IMITREX Injection in medically unsupervised situations.
+Instruct patients on storage and disposal of the pen [see How Supplied/Storage and Handling (16)].
 
 Inform patients that the needle in the IMITREX STATdose Pen penetrates approximately 1/4 of an inch (5 to 6 mm).
 Inform patients that the injection is intended to be given subcutaneously and intramuscular or intravascular delivery should be avoided.
 Instruct patients to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle.
 
-IMITREX, IMITREX STATdose Pen, and IMITREX STATdose System are registered trademarks of the GSK group of companies.
+Imitrex, IMITREX STATdose Pen, and IMITREX STATdose System are registered trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2015 the GSK group of companies.
 All rights reserved.
 
-IMJ:5PI
+IMJ:6PI

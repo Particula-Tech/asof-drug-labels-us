@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Pregnancy Category C
 
 There are no adequate and well-controlled trials of IMITREX Injection in pregnant women.
 In developmental toxicity studies in rats and rabbits, oral administration of sumatriptan to pregnant animals was associated with embryolethality, fetal abnormalities, and pup mortality.
@@ -15,7 +15,8 @@ Oral administration of sumatriptan to pregnant rabbits during the period of orga
 Intravenous administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in an increased incidence of embryolethality.
 The highest oral and intravenous no-effect doses for developmental toxicity in rabbits were 15 and 0.75 mg/kg/day, or approximately 50 and 2 times, respectively, the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
 
-Oral administration of sumatriptan to rats prior to and throughout gestation resulted in embryofetal toxicity (decreased body weight, decreased ossification, increased incidence of skeletal abnormalities).The highest no-effect dose was 50 mg/kg/day, or approximately 80 times the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
+Oral administration of sumatriptan to rats prior to and throughout gestation resulted in embryofetal toxicity (decreased body weight, decreased ossification, increased incidence of skeletal abnormalities).
+The highest no-effect dose was 50 mg/kg/day, or approximately 80 times the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
 In offspring of pregnant rats treated orally with sumatriptan during organogenesis, there was a decrease in pup survival.
 The highest no-effect dose for this effect was 60 mg/kg/day, or approximately 100 times the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
 Oral treatment of pregnant rats with sumatriptan during the latter part of gestation and throughout lactation resulted in a decrease in pup survival.

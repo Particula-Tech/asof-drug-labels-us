@@ -69,7 +69,6 @@ Do not take IMITREX if you have:
   - •dihydroergotamine (D.H.E.
     45®, MIGRANAL®)
 - Ask your healthcare provider if you are not sure if your medicine is listed above.
-
 - •an allergy to sumatriptan or any of the ingredients in IMITREX.
   See the end of this leaflet for a complete list of ingredients in IMITREX.
 
@@ -223,18 +222,22 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
+©2015 the GSK group of companies.
 All rights reserved.
 
-June 2015
+November 2015
 
-IMJ:4PPI
+IMJ:5PPI
 
-Patient Instructions for Use
+Instructions for Use
 
-IMITREX STATdose System®
+IMITREX (IM-i-trex) STATdose System®
 
-Read this Patient Instructions for Use before you start to use the IMITREX STATdose System.
+(sumatriptan succinate)
+
+Injection
+
+Read this Instructions for Use before you start to use the IMITREX STATdose System.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 You and your healthcare provider should talk about IMITREX Injection when you start taking it and at regular checkups.
@@ -247,132 +250,146 @@ When you first open the IMITREX STATdose System box, the Cartridge Pack and the 
 
 The grey and blue Carrying Case is used for storing the unloaded Pen and the Cartridge Pack when they are not being used.
 
-The Cartridge Pack holds 2 individually sealed Syringe Cartridges.
-Each Syringe Cartridge holds 1 dose of IMITREX® (sumatriptan succinate) Injection.
-The Cartridge Pack for the 4-mg strength of this medicine is yellow, and the Cartridge Pack for the 6-mg strength is blue (as shown).
-Refill Cartridge Packs are available.
+- •The Cartridge Pack holds 2 individually sealed Syringe Cartridges.
+  Each Syringe Cartridge holds 1 dose of IMITREX® (sumatriptan succinate) Injection.
+- •The Cartridge Pack for the 4-mg strength of this medicine is yellow.
+- •The Cartridge Pack for the 6-mg strength is blue (as shown).
+- •Refill Cartridge Packs are available.
 
-The grey and blue Pen is used to automatically inject 1 dose of medicine from a Syringe Cartridge.
-Do not touch the Blue Button until you have pressed the Pen against your skin to give a dose.
-If you press it at any other time, you might lose a dose.
-The Safety Catch keeps the Pen from accidentally firing until you are ready.
-The Pen will only work when you slide the grey part of the barrel down to the blue part.
-Always check to make sure that the white Priming Rod is not sticking out from the end of the Pen (as shown in Figure B) before you load a new Syringe Cartridge.
-If it is sticking out, you will lose that dose.
+Important Things to Know About Your IMITREX STATdose System
+
+| •Before you use IMITREX STATdose System your healthcare provider should show you or your caregiver how to give an injection the right way.•The Pen is used to automatically inject 1 dose of medicine from a Syringe Cartridge.•Before you load a Syringe Cartridge, always check to make sure that the white Priming Rod is not sticking out from the end of the Pen (as shown below in Figure B). If it is sticking out, you will lose that dose.•Do not touch the Blue Button until you have pressed the Pen firmly against your skin to give a dose.•The Pen will only work when the Safety Catch is released. To release the Safety Catch, you must press the Pen firmly against your skin until the grey part of the barrel slides against the blue part and it cannot be pressed any further. The grey part of the barrel must stay in contact with the blue part while you inject your medicine.•When you inject the dose, make sure the Pen stays in contact with your skin during the injection. It is important to hold the Pen against the skin for at least 5 seconds.•After each use the Pen must be put back into the Carrying Case to reset the white Priming Rod before the next use. |
+| --- |
 
 How to load the IMITREX STATdose Pen
 
-Do not load the Pen until you are ready to give yourself an injection.
+| Do not load the Pen until you are ready to give yourself an injection.Do not touch the Blue Button on top of the Pen (see Figure A) while you are loading the Pen. |
+| --- |
 
-Do not touch the Blue Button on top of the Pen (see Figure A) while you are loading the Pen.
+- 1.
+  Open the lid of the Carrying Case.
+- •Your new Carrying Case will come with 2 Syringe Cartridges already inside.
+- •The tamper-evident seals over the 2 Syringe Cartridges are labeled “A” and “B” (see Figure A).
+- •Always use the Syringe Cartridge marked “A” before the one marked “B” to help you keep track of your doses.
+  Do not use if either seal is broken or missing when you first open the Carrying Case.
+- Check the expiration date on the Cartridge Pack.
+  Do not use if expired.
 
-1.
-Open the lid of the Carrying Case.
-The tamper-evident seals over the 2 Syringe Cartridges are labeled “A” and “B” (see Figure A inset).
+- 2.
+  Tear off one of the tamper-evident seals (see Figure A). Throw away the seal.
+  Open the lid over the Syringe Cartridge.
+- 3.
+  Hold the Pen by the ridges at the top.
+  Take the Pen out of the Carrying Case (see Figure B).
+- Check to make sure the white Priming Rod is not sticking out from the lower end of the Pen (see Figure B). If it is sticking out, put the Pen back into the Carrying Case and press down firmly until you feel it click.
+  Take the Pen out of the Carrying Case.
 
-Always use the Syringe Cartridge marked “A” before the one marked “B” to help you keep track of your doses.
-Do not use if either seal is broken or missing when you first open the Carrying Case.
+- 4.
+  Put the Pen in the open Cartridge Pack.
+  Turn it to the right (clockwise) until it will not turn any more (about half a turn) (see Figure C).
 
-2.
-Tear off one of the tamper-evident seals (see Figure A). Throw away the seal.
-Open the lid over the Syringe Cartridge.
-
-3.
-Hold the Pen by the ridges at the top.
-Take the Pen out of the Carrying Case (see Figure B).
-
-Check to make sure the white Priming Rod is not sticking out from the lower end of the Pen (see Figure B inset).
-If it is sticking out, put the Pen back into the Carrying Case and press down firmly until you feel it click.
-Take the Pen out of the Carrying Case.
-
-4.
-Put the Pen in the Cartridge Pack.
-Turn it to the right (clockwise) until it will not turn any more (about half a turn) (see Figure C).
-
-5.
-Hold the loaded Pen by the ridges and pull it straight out (see Figure D). You may need to pull hard on the Pen, but this is normal.
-Do not press the Blue Button yet.
+- 5.
+  Hold the loaded Pen by the ridges and pull it straight out (see Figure D). You may need to pull hard on the Pen, but this is normal.
+  Do not press the Blue Button yet.
 
 The Pen is now ready to use.
 Do not put the loaded Pen back into the Carrying Case because that will damage the needle.
 
 How to use the IMITREX STATdose Pen to take your medicine
 
-Before injecting your medicine, choose an area with a fatty tissue layer (see Figure E or Figure F). Ask your healthcare provider if you have a question about where to inject your medicine.
+- 6.
+  Choose and Prepare the Injection Site.
+- •Before injecting your medicine, choose one area with a fatty tissue layer (see Figure E or Figure F).
+- •Ask your healthcare provider if you have a question about where to inject your medicine.
+- •To prepare the area of skin where IMITREX is to be injected, wipe the injection site with an alcohol swab.
+- •Do not touch this area again before giving the injection.
+  Be sure to change the injection site with each dose.
 
-To prepare the area of skin where IMITREX is to be injected, wipe the injection site with an alcohol swab.
-Do not touch this area again before giving the injection.
+- 7.
+  Inject with the IMITREX STATdose Pen.
+- •Without pushing the Blue Button, press the loaded Pen firmly against the skin so that the grey part of the barrel slides against the blue part until it cannot be pressed any further.
+  Make sure the grey part of the barrel stays in contact with the blue part that holds the Syringe Cartridge.
+  This releases the Safety Catch that keeps the Pen from giving your injection by mistake or until you are ready (see Figure F).
+- •With the Pen still pressed firmly against the skin, push the Blue Button (see Figure G).
+- •Hold the Pen still for at least 5 seconds against the skin.
+  If the Pen is taken away from your skin too soon, you will not receive all the medicine or it may leak out of the Pen.
 
-6.
-Without pushing the Blue Button, press the loaded Pen firmly against the skin so that the grey barrel slides down toward the blue section that holds the Syringe Cartridge (see Figure D). (This releases the Safety Catch that keeps the Pen from firing by mistake until you are ready.)
-
-7.
-Push the Blue Button.
-Hold the Pen still for at least 5 seconds.
-If the Pen is taken away from the skin too soon, not all the medicine will come out.
-
-8.
-After 5 seconds, carefully take the Pen away from your skin.
-The needle will be showing (see Figure G). Do not touch the needle.
+- 8.
+  Remove STATdose Pen from skin.
+- •After 5 seconds, carefully take the Pen away from your skin.
+  The needle will be showing (see Figure H).
+- •Do not touch the needle.
 
 How to unload the IMITREX STATdose Pen after taking your medicine
 
-Right after you take a dose with the Pen, you need to return the used Syringe Cartridge to the Cartridge Pack.
+Right after you complete your injection with the Pen, you need to return the used Syringe Cartridge to the Cartridge Pack.
 
-9.
-Push the Pen down into the empty side of the Cartridge Pack as far as it will go (see Figure H).
+- 9.
+  Push the Pen down into the empty side of the Cartridge Pack as far as it will go (see Figure I).
 
-10.
-Turn the Pen to the left (counterclockwise) about half a turn until it is released from the Syringe Cartridge (see Figure I).
+- 10.
+  Turn the Pen to the left (counterclockwise) about half a turn until it is released from the Syringe Cartridge (see Figure J).
 
-11.
-Pull the empty Pen out of the Cartridge Pack (see Figure J).
+- 11.
+  Pull the empty Pen out of the Cartridge Pack.
+- •Because the Pen has now been used, the white Priming Rod will stick out from the lower end of the Pen (see Figure K).
 
-Because the Pen has now been used, the white Priming Rod will stick out from the lower end of the Pen (see Figure J).
-
-12.
-Close the Cartridge Pack lid over the used Syringe Cartridge.
-When the used Syringe Cartridges are inserted correctly, the Cartridge Pack is a disposable, protective case to help you avoid needle sticks and use the syringes correctly.
-
-13.
-Put the Pen back into the Carrying Case and press it down firmly until you feel it click.
-Close the Carrying Case lid.
-This gets the Pen ready for the next use.
-
-If the lid will not close, push the Pen down until you feel it click.
-Then close the lid.
+- 12.
+  Close the Cartridge Pack lid over the used Syringe Cartridge.
+- •When the used Syringe Cartridges are inserted correctly, the Cartridge Pack is a disposable, protective case to help you avoid needle sticks.
+- 13.
+  Put the Pen back into the Carrying Case and press it down firmly until you feel it click.
+- •This step is important to reset the Pen so that the white Priming Rod does not stick out and to get the Pen ready for the next use.
+- 14.
+  Close the Carrying Case lid.
+- •If the lid will not close, push the Pen down until you feel it click.
+  Then close the lid.
 
 How to take out a used Cartridge Pack
 
 After both Syringe Cartridges have been used, take the Cartridge Pack out of the Carrying Case.
-Never reuse or recycle a Syringe Cartridge.
+Do not reuse or recycle a Syringe Cartridge.
 
-14.
-Open the Carrying Case lid.
+- 15.
+  Open the Carrying Case lid.
+- 16.
+  Hold the Carrying Case with one hand and press the 2 buttons on either side of the Carrying Case (see Figure L).
 
-15.
-Hold the Carrying Case with one hand and press the 2 buttons on either side of the Carrying Case (see Figure K).
+- 17.
+  Gently pull out the Cartridge Pack with the other hand (see Figure M).
 
-16.
-Gently pull out the Cartridge Pack with the other hand (see Figure L).
-
-17.
-Throw away the Cartridge Pack or dispose of it as instructed by your healthcare provider.
-There may be special state and local laws for disposing of used needles and syringes.
-Always keep out of the reach of children.
+- 18.
+  Throw away the Cartridge Pack or dispose of it as instructed by your healthcare provider.
+  See “How to Dispose of your used Syringe Cartridge” below.
+- There may be special state and local laws for disposing of used needles and syringes.
 
 How to insert a new Cartridge Pack
 
-18.
-Take the new Cartridge Pack out of its box.
-Do not take off the tamper‑ evident seals (see Figure M).
+- 19.
+  Take the new Cartridge Pack out of its box.
+  Do not take off the tamper‑ evident seals (see Figure N).
 
-19.
-Put the Cartridge Pack in the Carrying Case.
-Slide it down smoothly (see Figure N).
+- 20.
+  Put the Cartridge Pack in the Carrying Case.
+  Slide it down smoothly (see Figure O).
 
-20.
-The Cartridge Pack will click into place when the 2 buttons show through the holes in the Carrying Case (see Figure O). Close the lid.
+- 21.
+  The Cartridge Pack will click into place when the 2 buttons show through the holes in the Carrying Case (see Figure P). Close the lid.
+
+How to dispose of your used Syringe Cartridge Pack
+
+Put your used syringe cartridge pack in a FDA-cleared sharps disposal container right away after use (see Figure Q). Do not throw away (dispose of) loose needles and syringes in your household trash.
+
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+- omade of a heavy-duty plastic,
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, upright and stable during use,
+- oleak-resistant, and
+- oproperly labeled to warn of hazardous waste inside the container.
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and cartridges.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -387,6 +404,6 @@ Research Triangle Park, NC 27709
 ©2015, the GSK group of companies.
 All rights reserved.
 
-August 2015
+November 2015
 
-IMJ:5PIL
+IMJ:6PIL
