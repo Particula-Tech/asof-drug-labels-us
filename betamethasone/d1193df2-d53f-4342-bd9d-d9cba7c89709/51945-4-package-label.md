@@ -57,4 +57,4 @@ For Topical Use Only
 Net Wt.
 120 g
 
-(2 bottles of 60 g)
+(2 cans of 60 g)
