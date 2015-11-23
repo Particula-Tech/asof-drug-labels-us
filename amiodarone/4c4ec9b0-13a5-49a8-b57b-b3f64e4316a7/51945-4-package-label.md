@@ -6,7 +6,7 @@ Pacerone® (Amiodarone HCl) Tablets
 
 100 mg
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Unit Dose, 100 Tablets (10 Cards/10 Tablets Each)
 
@@ -22,7 +22,7 @@ Pacerone® (Amiodarone HCl) Tablets
 
 200 mg
 
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Unit Dose, 100 Tablets (10 Cards/10 Tablets Each)
 

@@ -81,7 +81,7 @@ How should I take Pacerone® Tablets?
   Make sure you take Pacerone® Tablets the same way each time.
 - If you take too much Pacerone® Tablets, call your doctor or go to the nearest hospital emergency room right away.
 - If you miss a dose, wait and take your next dose at your regular time.
-  Do not take two doses at the same.
+  Do not take two doses at the same time.
   Continue with your next regularly scheduled dose.
 
 What should I avoid while taking Pacerone® Tablets?
@@ -150,8 +150,10 @@ Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregela
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
+
 Rx only
 
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Revised 0515
+Revised 0915
