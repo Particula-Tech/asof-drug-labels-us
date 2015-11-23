@@ -99,7 +99,7 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Glenmark Generics Inc., USA at 1 (888)721-7115.
+You may report side effects to FDA at 1-800-FDA-1088 or Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
 
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -137,13 +137,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Manufactured by: Glenmark Generics Ltd India
+Manufactured by: Glenmark Pharmaceuticals Ltd India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-November 2014
+February 2015
