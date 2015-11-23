@@ -28,26 +28,26 @@ Table 3 outlines the dosage recommendations for twice daily dosing when KALETRA 
 Table 1.
 Recommended Dosage in Adults- KALETRA Once Daily Regimen
 
-| KALETRA Dosage Form | Recommended Dosage | Total KALETRA Dosage per Day |
-| --- | --- | --- |
-| 200/50 mg Tablet | 4 tablets orally once daily | 800/200 mg |
-| 400/100 mg Oral Solution | 10 mL orally once daily | 800/200 mg |
+| KALETRA Dosage Form | Recommended Dosage |
+| --- | --- |
+| 200 mg/50 mg Tablets | 800 mg/200 mg (4 tablets) once daily |
+| 80 mg/20 mg per mL Oral Solution | 800 mg/200 mg (10 mL) once daily |
 
 Table 2.
 Recommended Dosage in Adults - KALETRA Twice Daily Regimen
 
-| KALETRA Dosage Form | Recommended Dosage | Total KALETRA Dosage per Day |
-| --- | --- | --- |
-| 200/50 mg Tablet | 2 tablets orally twice daily | 800/200 mg |
-| 400/100 mg Oral Solution | 5 mL orally twice daily | 800/200 mg |
+| KALETRA Dosage Form | Recommended Dosage |
+| --- | --- |
+| 200 mg/50 mg Tablets | 400 mg/100 mg (2 tablets) twice daily |
+| 80 mg/20 mg per mL Oral Solution | 400 mg/100 mg (5 mL) twice daily |
 
 Table 3.
 Recommended Dosage in Adults - KALETRA Twice Daily Regimen in Combination with Efavirenz, Nevirapine, or Nelfinavir
 
-| KALETRA Dosage Form | Recommended Dosage | Total KALETRA Dosage per Day |
-| --- | --- | --- |
-| 200/50 mg Tablet and 100/25 mg Tablet | 2 KALETRA 200/50 mg tablets and 1 KALETRA 100/25 mg tablet orally twice daily | 1000/250 mg |
-| 400/100 mg Oral Solution | 6.5 mL orally twice daily | 1000/250 mg |
+| KALETRA Dosage Form | Recommended Dosage |
+| --- | --- |
+| 200 mg/50 mg Tablets and 100 mg/25 mg Tablets | 500 mg/125 mg (2 tablets of 200 mg/50 mg + 1 tablet of 100 mg/25 mg) twice daily |
+| 80 mg/20 mg per mL Oral Solution | 520 mg/130 mg (6.5 mL) twice daily |
 
 ## 2.3 Dosage Recommendations in Pediatric Patients
 

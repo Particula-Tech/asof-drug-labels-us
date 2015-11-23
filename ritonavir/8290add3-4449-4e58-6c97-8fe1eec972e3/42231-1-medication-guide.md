@@ -135,6 +135,7 @@ Especially tell your doctor if you take:
 - atovaquone (Marlarone®, Mepron®)
 - avanafil (Stendra®), sildenafil (Viagra®), tadalafil (Cialis®), or vardenafil (Levitra®) for the treatment of erectile dysfunction (ED).
   If you get dizzy or faint (low blood pressure), have vision changes or have an erection that last longer than 4 hours, call your doctor or get medical help right away.
+- bedaquiline (Sirturo®)
 - bepridil (Bepadin®, Vascor®)
 - boceprevir (Victrelis®)
 - bosentan (Tracleer®)
@@ -336,10 +337,10 @@ KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
 
 AbbVie Inc., North Chicago, IL 60064 USA
 
-Revised: June 2015
+Revised: November 2015
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
 © 2015 AbbVie Inc. All rights reserved.
 
-03-B159
+03-B238
