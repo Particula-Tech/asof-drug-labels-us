@@ -106,7 +106,7 @@ Before you take EPIVIR-HBV, tell your healthcare provider if you:
 - •have any other medical condition
 - •are pregnant or plan to become pregnant.
   It is not known if EPIVIR-HBV will harm your unborn baby.
-  Pregnancy Registry.
+- Pregnancy Registry.
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of this registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.

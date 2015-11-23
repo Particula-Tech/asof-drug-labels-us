@@ -16,9 +16,9 @@ Advice for the Patient
 - •Advise patients not to take EPIVIR-HBV with emtricitabine-containing medicines, such as ATRIPLA, COMPLERA, EMTRIVA, STRIBILD, or TRUVADA [see Warnings and Precautions (5.4)].
 - •Advise patients that treatment with EPIVIR-HBV has not been shown to reduce the risk of transmission of HBV to others through sexual contact or blood contamination [see Use in Specific Populations (8.1)].
 - •Instruction patients to avoid doing things that can spread HBV infection to other.
-  - ∘Do not share needles or other injection equipment.
-  - ∘Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-  - ∘Do not have any kind of sex without protection.
+  - •Do not share needles or other injection equipment.
+  - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+  - •Do not have any kind of sex without protection.
     Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 - •Advise diabetic patients that each 20-mL dose of EPIVIR-HBV oral solution contains 4 grams of sucrose [see Description (11)].
 
