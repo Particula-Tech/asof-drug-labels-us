@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-HARVONI is indicated for the treatment of chronic hepatitis C (CHC) genotype 1 infection in adults.
+HARVONI is indicated for the treatment of patients with chronic hepatitis C virus (HCV) genotype 1, 4, 5, or 6 infection [see Dosage and Administration (2) and Clinical Studies (14)].

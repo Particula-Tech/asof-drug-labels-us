@@ -4,9 +4,7 @@ NDC 61958-1801-1 28 tablets
 
 Harvoni™
 
-(ledipasvir, sofosbuvir) Tablets
-
-90 mg / 400 mg
+(ledipasvir, sofosbuvir) Tablets 90 mg / 400 mg
 
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
