@@ -86,14 +86,12 @@ Telmisartan tablets may cause serious side effects, including:
   - •have heart problems
   - •get sick with vomiting or diarrhea
 - If you feel faint or dizzy, lie down and call your doctor right away.
-
 - •Kidney problems, which may get worse if you already have kidney disease.
   You may have changes in your kidney test results, and you may need a lower dose of telmisartan tablets.
   Call your doctor if you get:
   - •swelling in your feet, ankles, or hands
   - •unexplained weight gain
 - Call your doctor right away if you get any of the symptoms listed above.
-
 - •High potassium in the blood (hyperkalemia).
   Your doctor may check your potassium levels as needed.
 
@@ -158,6 +156,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75055879
+75057937
 
-REVISED JANUARY 2015 MX:TLMS:R3p
+REVISED NOVEMBER 2015 MX:TLMS:R4p
