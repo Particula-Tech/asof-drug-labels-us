@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- •Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [seeWarnings and Precautions (5.1)]
-- •Liver enzyme abnormalities [seeWarnings and Precautions (5.2)]
+- •Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
+- •Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 In the CRESTOR controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
@@ -12,7 +12,7 @@ The most common adverse reactions that led to treatment discontinuation were:
 - •abdominal pain
 - •nausea
 
-The most commonly reported adverse reactions (incidence ≥ 2%) in the CRESTOR controlled clinical trial database of 5394 patients were:
+The most commonly reported adverse reactions (incidence ≥2%) in the CRESTOR controlled clinical trial database of 5394 patients were:
 
 - •headache
 - •myalgia
@@ -24,11 +24,12 @@ The most commonly reported adverse reactions (incidence ≥ 2%) in the CRESTOR c
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse reactions reported in ≥ 2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 1.
+Adverse reactions reported in ≥2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 1.
 These studies had a treatment duration of up to 12 weeks.
 
-- Table.
-  Adverse Reactions1 Reported in ≥ 2% of Patients Treated with CRESTOR and > Placebo in Placebo‑Controlled Trials (% of Patients)
+Table 1.
+Adverse ReactionsAdverse reactions by COSTART preferred term.
+Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in Placebo-Controlled Trials (% of Patients)
 
 | Adverse Reactions | CRESTOR5 mgN=291 | CRESTOR10 mgN=283 | CRESTOR20 mgN=64 | CRESTOR40 mgN=106 | Total CRESTOR5 mg‑40 mgN=744 | PlaceboN=382 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,15 +40,16 @@ These studies had a treatment duration of up to 12 weeks.
 | Constipation | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 | 2.4 |
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
-The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [seeWarnings and Precautions (5.4)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
+The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.4)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
 In the METEOR study, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with CRESTOR versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
-The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea [seeClinical Studies (14.7)].
+The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea [see Clinical Studies (14.7)].
 
 Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 2.
 
-- Table.
-  Adverse Reactions1 Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in the METEOR Trial (% of Patients)
+Table 2.
+Adverse ReactionsAdverse reactions by MedDRA preferred term.
+Reported in ≥2% of Patients Treated with CRESTOR and > Placebo in the METEOR Trial (% of Patients)
 
 | Adverse Reactions | CRESTOR 40 mg N=700 | Placebo N=281 |
 | --- | --- | --- |
@@ -65,12 +67,13 @@ Myalgia was the most common adverse reaction that led to treatment discontinuati
 
 In JUPITER, there was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c > 6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [seeWarnings and Precautions (5.5) and Clinical Studies (14.8)].
+The number of patients with a HbA1c > 6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.5) and Clinical Studies (14.8)].
 
 Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 3.
 
-- Table.
-  Adverse Reactions1 Reported in ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial (% of Patients)
+Table 3.
+Adverse ReactionsTreatment-emergent adverse reactions by MedDRA preferred term.
+Reported in ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER Trial (% of Patients)
 
 | Adverse Reactions | CRESTOR 20 mgN=8901 | PlaceboN=8901 |
 | --- | --- | --- |
@@ -80,12 +83,16 @@ Adverse reactions reported in ≥ 2% of patients and at a rate greater than plac
 | Diabetes mellitus | 2.8 | 2.3 |
 | Nausea | 2.4 | 2.3 |
 
-## 6.2 Pediatric patients 10 to 17 years of age
+## 6.2 Pediatric Patients 8 to 17 Years of Age with Heterozygous Familial Hypercholesterolemia
 
-In a 12-week controlled study in boys and postmenarchal girls, the safety and tolerability profile of CRESTOR 5 to 20 mg daily was generally similar to that of placebo [seeClinical Studies (14.6) and Use in Specific Populations, Pediatric Use (8.4)].
+In a 12-week controlled study in boys and postmenarcheal girls 10 to 17 years of age with heterozygous familial hypercholesterolemia, the safety and tolerability profile of CRESTOR 5 to 20 mg daily was generally similar to that of placebo [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
 
 However, elevations in serum creatine phosphokinase (CK) > 10 x ULN were observed more frequently in rosuvastatin compared with placebo-treated children.
 Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK >10 x ULN, compared to 0 of 46 children on placebo.
+
+In a separate two year open-label, uncontrolled, trial that included 175 children and adolescents 8 to 17 years of age with heterozygous familial hypercholesterolemia, patients were started on CRESTOR 5 mg and titrated to 10 mg or 20 mg according to age group and clinical response.
+The safety and tolerability profile was generally consistent with that reported for adult patients.
+Doses greater than CRESTOR 10 mg have not been studied in children less than 10 years of age, and doses greater than CRESTOR 20 mg have not been studied in children and adolescents 10 to 17 years of age [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
 
 ## 6.3 Postmarketing Experience
 

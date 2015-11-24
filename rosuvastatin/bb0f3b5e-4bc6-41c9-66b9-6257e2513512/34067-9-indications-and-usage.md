@@ -5,9 +5,9 @@
 CRESTOR is indicated as adjunctive therapy to diet to reduce elevated Total-C, LDL-C, ApoB, nonHDL‑C, and triglycerides and to increase HDL‑C in adult patients with primary hyperlipidemia or mixed dyslipidemia.
 Lipid-altering agents should be used in addition to a diet restricted in saturated fat and cholesterol when response to diet and nonpharmacological interventions alone has been inadequate.
 
-Pediatric Patients 10 to 17 years of age with Heterozygous Familial Hypercholesterolemia (HeFH)
+Pediatric Patients 8 to 17 years of age with Heterozygous Familial Hypercholesterolemia (HeFH)
 
-Adjunct to diet to reduce Total‑C, LDL‑C and ApoB levels in adolescent boys and girls, who are at least one year post-menarche, 10‑17 years of age with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present: LDL‑C > 190 mg/dL or > 160 mg/dL and there is a positive family history of premature cardiovascular disease (CVD) or two or more other CVD risk factors.
+Adjunct to diet to reduce Total‑C, LDL‑C and ApoB levels in children and adolescents 8-17 years of age with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present: LDL‑C > 190 mg/dL or > 160 mg/dL and there is a positive family history of premature cardiovascular disease (CVD) or two or more other CVD risk factors.
 
 ## 1.2 Hypertriglyceridemia
 
