@@ -29,10 +29,10 @@ BPH-related urological events were defined as urological surgical intervention.
 Complete event information was available for 92% of the patients.
 The following table (Table 5) summarizes the results.
 
-| Event | Placebo N=1503 | Finasteride N=1513 | Relative RiskHazard ratio based on log rank test | 95% CI | P Value |
+| Event | Placebo N=1503 | Finasteride N=1513 | Relative Risk Hazard ratio based on log rank test | 95% CI | P Value |
 | --- | --- | --- | --- | --- | --- |
 | Table 5: All Treatment Failures in a Long-Term Efficacy and Safety Study |  |  |  |  |  |
-|  | Patients (%)patients with multiple events may be counted more than once for each type of event |  |  |  |  |
+|  | Patients (%) patients with multiple events may be counted more than once for each type of event |  |  |  |  |
 | All Treatment Failures | 37.1 | 26.2 | 0.68 | (0.57 to 0.79) | <0.001 |
 | Surgical Interventions for BPH | 10.1 | 4.6 | 0.45 | (0.32 to 0.63) | <0.001 |
 | Two consecutive symptom scores ≥20 | 9.2 | 6.7 |  |  |  |
