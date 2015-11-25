@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA009768"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "Concordia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59212-562-10",
+    "59212-562-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "Plaquenil"
+    }
+  ],
+  "setid": "34496b43-05a2-45fb-a769-52b12e099341",
+  "source": "dailymed"
+}
