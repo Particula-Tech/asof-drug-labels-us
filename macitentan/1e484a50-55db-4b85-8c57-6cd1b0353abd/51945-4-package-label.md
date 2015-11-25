@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Carton
 
 NDC 66215-501-30 30 tablets
 

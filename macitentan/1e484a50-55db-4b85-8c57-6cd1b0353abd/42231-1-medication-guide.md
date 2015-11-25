@@ -1,4 +1,4 @@
-Medication Guide
+# Medication Guide
 
 OPSUMIT® (OP-sum-it) (macitentan) tablets
 
@@ -8,36 +8,35 @@ This Medication Guide does not take the place of talking with your healthcare pr
 
 What is the most important information I should know about Opsumit?
 
-- Serious birth defects.
-  Opsumit can cause serious birth defects if taken during pregnancy.
+- Serious birth defects.Opsumit can cause serious birth defects if taken during pregnancy.
   Females who are able to get pregnant must use two acceptable forms of birth control during treatment with Opsumit, and for one month after stopping Opsumit because the medicine may still be in the body.
-  See the chart below for Acceptable Birth Control Options during treatment with Opsumit.
-  If you are the parent or caregiver of a female child who started taking Opsumit before reaching puberty, you should check your child regularly to see if she is developing signs of puberty.
+  See the chart below for Acceptable Birth Control Options during treatment with Opsumit.If you are the parent or caregiver of a female child who started taking Opsumit before reaching puberty, you should check your child regularly to see if she is developing signs of puberty.
   Tell your healthcare provider right away if you notice that she is developing breast buds or any pubic hair.
   Your healthcare provider should decide if your child has reached puberty.
-  Your child may reach puberty before having her first menstrual period.
-  Females can only receive Opsumit through a restricted program called the Opsumit Risk Evaluation and Mitigation Strategy (REMS) Program.
-  If you are a female who can get pregnant, you must talk to your healthcare provider, understand the benefits and risks of Opsumit, and agree to all of the instructions in the Opsumit REMS Program.
-  Males can receive Opsumit without taking part in the Opsumit REMS Program.
+  Your child may reach puberty before having her first menstrual period.Females can only receive Opsumit through a restricted program called the Opsumit Risk Evaluation and Mitigation Strategy (REMS) Program.
+  If you are a female who can get pregnant, you must talk to your healthcare provider, understand the benefits and risks of Opsumit, and agree to all of the instructions in the Opsumit REMS Program.Males can receive Opsumit without taking part in the Opsumit REMS Program.
   - Females must not be pregnant when they start taking Opsumit or become pregnant during treatment with Opsumit.
   - Females who are able to get pregnant must have a negative pregnancy test before beginning treatment with Opsumit, each month during treatment with Opsumit and 1 month after stopping Opsumit.
     Talk to your healthcare provider about your menstrual cycle.
-    Your healthcare provider will decide when to do the tests, and order the tests for you depending on your menstrual cycle.
+    Your healthcare provider will decide when to do the pregnancy test, and will order a pregnancy test for you depending on your menstrual cycle.
     - Females who are able to get pregnant are females who:
-      - Have entered puberty, even if they have not started their period, and
-      - Have a uterus, and
-      - Have not gone through menopause (have not had a period for at least 12 months for natural reasons, or who have had their ovaries removed)
+      - have entered puberty, even if they have not started their menstrual period, and
+      - have a uterus, and
+      - have not gone through menopause.
+        Menopause means that you have not had a menstrual period for at least 12 months for natural reasons, or that you have had your ovaries removed.
     - Females who are not able to get pregnant are females who:
-      - Have not yet entered puberty, or
-      - Do not have a uterus, or
-      - Have gone through menopause (have not had a period for at least 12 months for natural reasons, or who have had their ovaries removed)
+      - have not yet entered puberty, or
+      - do not have a uterus, or
+      - have gone through menopause.
+        Menopause means that you have not had a menstrual period for at least 12 months for natural reasons, or who have had their ovaries removed, or
+      - Are infertile for other medical reasons and this infertility is permanent and cannot be reversed.
   - If you have had a tubal sterilization, have a progesterone implant, or have an IUD (intrauterine device), these methods can be used alone and no other form of birth control is needed.
   - Talk with your healthcare provider or gynecologist (a doctor who specializes in female reproduction) to find out about options for acceptable birth control that you may use to prevent pregnancy during treatment with Opsumit.
   - If you decide that you want to change the form of birth control that you use, talk with your healthcare provider or gynecologist to be sure that you choose another acceptable form of birth control.
   - Do not have unprotected sex.
     Talk to your healthcare provider or pharmacist right away if you have unprotected sex or if you think your birth control has failed.
     Your healthcare provider may talk with you about using emergency birth control.
-  - Tell your healthcare provider right away if you miss a menstrual period or think you may be pregnant for any reason.
+  - Tell your healthcare provider right away if you miss a menstrual period or think you may be pregnant.
 
 What is Opsumit?
 
@@ -138,6 +137,6 @@ Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Actelion Pharmaceuticals US, Inc. 5000 Shoreline Court, Ste.
-200 South San Francisco, CA 94080, USA Issued: April 2015 ACT20150512
+200 South San Francisco, CA 94080, USA Issued: November 2015 ACT20151120
 
 © 2015 Actelion Pharmaceuticals US, Inc. All rights reserved.

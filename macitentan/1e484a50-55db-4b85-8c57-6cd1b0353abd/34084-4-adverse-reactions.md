@@ -35,3 +35,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
 
 Respiratory, thoracic and mediastinal disorders: nasal congestion
+
+General disorders and administration site conditions: edema/fluid retention

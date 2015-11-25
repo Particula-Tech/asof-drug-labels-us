@@ -40,7 +40,9 @@ Consistent efficacy of OPSUMIT 10 mg on the primary endpoint was seen across sub
 
 Figure 3 Subgroup Analysis of the SERAPHIN Study
 
-Eo = Number of events OPSUMIT 10 mg; No = Number of patients randomized to OPSUMIT 10 mg Ep = Number of events placebo; Np = Number of patients randomized to placebo
+Eo = Number of events OPSUMIT 10 mg; No = Number of patients randomized to OPSUMIT 10 mg
+
+Ep = Number of events placebo; Np = Number of patients randomized to placebo
 
 PAH related death or hospitalization for PAH was assessed as a secondary endpoint.
 The risk of PAH related death or hospitalization for PAH was reduced by 50% in patients receiving OPSUMIT 10 mg compared to placebo (HR 0.50, 97.5% CI 0.34-0.75; logrank p<0.0001) (Table 4 and Figure 4).
