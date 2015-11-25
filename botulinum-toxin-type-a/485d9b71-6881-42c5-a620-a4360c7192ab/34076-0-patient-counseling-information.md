@@ -15,4 +15,4 @@ Patients should be counseled that if loss of strength, muscle weakness, blurred 
 Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2015 Allergan.
 All rights reserved. ® marks owned by Allergan, Inc.
 
-71823US19
+71823US20

@@ -79,7 +79,7 @@ Hypoacusis; tinnitus; vertigo
 
 Eye disorders
 
-Diplopia; strabismus; visual disturbances; vision blurred
+Diplopia; lagophthalmos; strabismus; visual disturbances; vision blurred
 
 Gastrointestinal disorders
 
