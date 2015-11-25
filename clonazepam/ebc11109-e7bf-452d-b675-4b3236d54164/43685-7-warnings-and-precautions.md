@@ -47,9 +47,9 @@ Data from several sources raise concerns about the use of clonazepam during preg
 
 ### Animal Findings:
 
-In three studies in which clonazepam was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day, for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
+In three studies in which clonazepam was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day, for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m 2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
 Reductions in maternal weight gain occurred at dosages of 5 mg/kg/day or greater and reduction in embryo-fetal growth occurred in one study at a dosage of 10 mg/kg/day.
-No adverse maternal or embryo-fetal effects were observed in mice and rats following administration during organogenesis of oral doses up to 15 mg/kg/day or 40 mg/kg/day, respectively (4 and 20 times the maximum recommended human dose of 20 mg/day for seizure disorders and 20 and 100 times the maximum dose of 4 mg/day for panic disorder, respectively, on a mg/m2 basis).
+No adverse maternal or embryo-fetal effects were observed in mice and rats following administration during organogenesis of oral doses up to 15 mg/kg/day or 40 mg/kg/day, respectively (4 and 20 times the maximum recommended human dose of 20 mg/day for seizure disorders and 20 and 100 times the maximum dose of 4 mg/day for panic disorder, respectively, on a mg/m 2 basis).
 
 ### General Concerns and Considerations About Anticonvulsants:
 
@@ -165,7 +165,7 @@ The effect of clonazepam on the metabolism of other drugs has not been investiga
 
 Literature reports suggest that ranitidine, an agent that decreases stomach acidity, does not greatly alter clonazepam pharmacokinetics.
 
-In a study in which the 2 mg clonazepam orally disintegrating tablet was administered with and without propantheline (an anticholinergic agent with multiple effects on the GI tract) to healthy volunteers, the AUC of clonazepam was 10% lower and the Cmax of clonazepam was 20% lower when the orally disintegrating tablet was given with propantheline compared to when it was given alone.
+In a study in which the 2 mg clonazepam orally disintegrating tablet was administered with and without propantheline (an anticholinergic agent with multiple effects on the GI tract) to healthy volunteers, the AUC of clonazepam was 10% lower and the C max of clonazepam was 20% lower when the orally disintegrating tablet was given with propantheline compared to when it was given alone.
 
 Fluoxetine does not affect the pharmacokinetics of clonazepam.
 Cytochrome P-450 inducers, such as phenytoin, carbamazepine and phenobarbital, induce clonazepam metabolism, causing an approximately 30% decrease in plasma clonazepam levels.
@@ -181,7 +181,7 @@ Carcinogenicity studies have not been conducted with clonazepam.
 
 The data currently available are not sufficient to determine the genotoxic potential of clonazepam.
 
-In a two-generation fertility study in which clonazepam was given orally to rats at 10 and 100 mg/kg/day (low dose approximately 5 times and 24 times the maximum recommended human dose of 20 mg/day for seizure disorder and 4 mg/day for panic disorder, respectively, on a mg/m2 basis), there was a decrease in the number of pregnancies and in the number of offspring surviving until weaning.
+In a two-generation fertility study in which clonazepam was given orally to rats at 10 and 100 mg/kg/day (low dose approximately 5 times and 24 times the maximum recommended human dose of 20 mg/day for seizure disorder and 4 mg/day for panic disorder, respectively, on a mg/m 2 basis), there was a decrease in the number of pregnancies and in the number of offspring surviving until weaning.
 
 ## Pregnancy:
 
