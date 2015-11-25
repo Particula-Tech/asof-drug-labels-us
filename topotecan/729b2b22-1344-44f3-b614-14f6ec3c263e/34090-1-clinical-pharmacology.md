@@ -9,7 +9,7 @@ Mammalian cells cannot efficiently repair these double-strand breaks.
 
 ## 12.3 Pharmacokinetics
 
-Following administration of topotecan for injection at doses of 0.5 to 1.5 mg/m 2 administered as a 30‑minute infusion to cancer patients, topotecan exhibited multiexponential pharmacokinetics with a terminal half‑life of 2 to 3 hours.
+Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m 2 administered as a 30‑minute infusion to cancer patients, topotecan exhibited multiexponential pharmacokinetics with a terminal half‑life of 2 to 3 hours.
 Total exposure (AUC) is approximately dose‑proportional.
 
 Distribution

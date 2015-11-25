@@ -7,7 +7,7 @@ It is soluble in water and melts with decomposition at 213ºC to 218ºC.
 
 Topotecan hydrochloride has the following structural formula:
 
-Topotecan for Injection is supplied as a sterile, lyophilized, yellow powder available in single-dose vials.
+Topotecan Hydrochloride for Injection is supplied as a sterile, lyophilized, yellow powder available in single-dose vials.
 Each vial contains topotecan hydrochloride equivalent to 4 mg of topotecan as free base.
 The reconstituted solution gives a light yellow color and is intended for administration by intravenous infusion.
 

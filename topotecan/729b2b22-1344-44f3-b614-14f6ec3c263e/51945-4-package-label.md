@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 16729 -151-31
 
-Topotecan for injection
+Topotecan Hydrochloride for Injection
 
 4 mg/vial
 
@@ -14,7 +14,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 16729 -151-31
 
-Topotecan for injection
+Topotecan Hydrochloride for Injection
 
 4 mg/vial
 

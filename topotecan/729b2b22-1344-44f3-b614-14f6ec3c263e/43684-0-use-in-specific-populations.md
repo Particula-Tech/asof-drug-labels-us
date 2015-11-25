@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on animal data, topotecan for injection can cause fetal harm when administered to a pregnant woman.
+Based on animal data, topotecan hydrochloride for injection can cause fetal harm when administered to a pregnant woman.
 Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis at doses similar to the clinical dose [see Data].
 There are no available human data informing the drug-associated risk.
 Advise pregnant women of the potential risk to a fetus.
@@ -23,7 +23,7 @@ The most frequent malformations were of the eye (microphthalmia, anophthalmia, r
 Risk Summary
 
 It is not known whether this drug is present in human milk; however, topotecan is excreted in rat milk at high concentrations [see Data].
-Because many drugs are present in human milk and because of the potential for serious adverse reactions in nursing infants with topotecan for injection, advise nursing mothers to discontinue breastfeeding during treatment with topotecan for injection.
+Because many drugs are present in human milk and because of the potential for serious adverse reactions in nursing infants with topotecan hydrochloride for injection, advise nursing mothers to discontinue breastfeeding during treatment with topotecan hydrochloride for injection.
 
 Data
 
@@ -33,17 +33,17 @@ Animal Data: Following intravenous administration of topotecan to lactating rats
 
 Contraception
 
-Females: Advise female patients of reproductive potential to use effective contraception during treatment with topotecan for injection and for one month after the last dose.
-Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking topotecan for injection [see Use in Specific Populations (8.1)].
+Females: Advise female patients of reproductive potential to use effective contraception during treatment with topotecan hydrochloride for injection and for one month after the last dose.
+Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking topotecan hydrochloride for injection [see Use in Specific Populations (8.1)].
 
-Males: Topotecan for injection may damage spermatozoa, resulting in possible genetic and fetal abnormalities.
-Advise males with a female sexual partner of reproductive potential to use effective contraception during and for three months after treatment with topotecan for injection [see Nonclinical Toxicology (13.1)].
+Males: Topotecan Hydrochloride for Injection may damage spermatozoa, resulting in possible genetic and fetal abnormalities.
+Advise males with a female sexual partner of reproductive potential to use effective contraception during and for three months after treatment with topotecan hydrochloride for injection [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
-Females: Topotecan for injection may have both acute and long-term effects on fertility [see Nonclinical Toxicology (13.1)].
+Females: Topotecan Hydrochloride for Injection may have both acute and long-term effects on fertility [see Nonclinical Toxicology (13.1)].
 
-Males: Effects on spermatogenesis have been observed in animals administered topotecan for injection.
+Males: Effects on spermatogenesis have been observed in animals administered topotecan hydrochloride for injection.
 Advise males of the potential risk for impaired fertility and to seek counseling on fertility and family planning options prior to starting treatment [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
@@ -52,15 +52,15 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the 879 patients with metastatic ovarian cancer or small cell lung cancer in clinical trials of topotecan for injection, 32% (n = 281) were aged 65 years and older, while 3.8% (n = 33) were aged 75 years and older.
-Of the 140 patients with Stage IV-B, relapsed, or refractory cervical cancer in clinical trials of topotecan for injection who received topotecan for injection plus cisplatin in the randomized clinical trial, 6% (n = 9) were aged 65 years and older, while 3% (n = 4) were aged 75 years and older.
+Of the 879 patients with metastatic ovarian cancer or small cell lung cancer in clinical trials of topotecan hydrochloride for injection, 32% (n = 281) were aged 65 years and older, while 3.8% (n = 33) were aged 75 years and older.
+Of the 140 patients with Stage IV-B, relapsed, or refractory cervical cancer in clinical trials of topotecan hydrochloride for injection who received topotecan hydrochloride for injection plus cisplatin in the randomized clinical trial, 6% (n = 9) were aged 65 years and older, while 3% (n = 4) were aged 75 years and older.
 
 No overall differences in effectiveness or safety were observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in responses between the elderly and younger adult patients.
 
 ## 8.6 Renal Impairment
 
 The systemic exposure to both topotecan lactone and total topotecan increased in patients with moderate renal impairment (Clcr = 20 to 39 mL/min) compared with patients with normal renal function (Clcr greater than 60 mL/min).
-Reduce the dose of topotecan for injection in patients with moderate renal impairment (Clcr = 20 to 39 mL/min).
-No dosage adjustment of topotecan for injection is recommended for patients with mild renal impairment (Clcr = 40 to 60 mL/min) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Reduce the dose of topotecan hydrochloride for injection in patients with moderate renal impairment (Clcr = 20 to 39 mL/min).
+No dosage adjustment of topotecan hydrochloride for injection is recommended for patients with mild renal impairment (Clcr = 40 to 60 mL/min) [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
-Insufficient data are available in patients with severe renal impairment (Clcr less than 20 mL/min) to provide a dosage recommendation for topotecan for injection.
+Insufficient data are available in patients with severe renal impairment (Clcr less than 20 mL/min) to provide a dosage recommendation for topotecan hydrochloride for injection.

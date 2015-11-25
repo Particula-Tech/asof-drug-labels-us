@@ -16,9 +16,9 @@ Ovarian Cancer
 Table 1 shows the Grade 3/4 hematologic and major non‑hematologic adverse reactions in the topotecan/paclitaxel comparator trial in ovarian cancer.
 
 Table 1.
-Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to Receive Topotecan for Injection or Paclitaxel
+Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to Receive Topotecan Hydrochloride for Injection or Paclitaxel
 
-| Adverse Reaction | Topotecan for Injection(n = 112) | Paclitaxel(n = 114) |
+| Adverse Reaction | Topotecan Hydrochloride for Injection(n = 112) | Paclitaxel(n = 114) |
 | --- | --- | --- |
 | Hematologic Grade 3/4 | % | % |
 | Grade 4 neutropenia (<500 cells/mm 3) | 80 | 21 |
@@ -42,7 +42,7 @@ Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to 
 | Asthenia | 5 | 3 |
 | Pain b | 5 | 7 |
 
-a Death related to sepsis occurred in 2% of patients receiving topotecan for injection and 0% of patients receiving paclitaxel.
+a Death related to sepsis occurred in 2% of patients receiving topotecan hydrochloride for injection and 0% of patients receiving paclitaxel.
 
 b Pain includes body pain, skeletal pain, and back pain.
 
@@ -51,9 +51,9 @@ Small Cell Lung Cancer
 Table 2 shows the Grade 3/4 hematologic and major non‑hematologic adverse reactions in the topotecan/CAV (cyclophosphamide‑doxorubicin‑vincristine) comparator trial in small cell lung cancer.
 
 Table 2.
-Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive Topotecan for Injection or CAV
+Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive Topotecan Hydrochloride for Injection or CAV
 
-| Adverse Reaction | Topotecan for Injection(n = 107) | CAV(n = 104) |
+| Adverse Reaction | Topotecan Hydrochloride for Injection(n = 107) | CAV(n = 104) |
 | --- | --- | --- |
 | Hematologic Grade 3/4 | % | % |
 | Grade 4 neutropenia(<500 cells/mm 3) | 70 | 72 |
@@ -74,23 +74,23 @@ Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Random
 | Asthenia | 9 | 7 |
 | Pain b | 5 | 7 |
 
-a Death related to sepsis occurred in 3% of patients receiving topotecan for injection and 1% of patients receiving CAV.
+a Death related to sepsis occurred in 3% of patients receiving topotecan hydrochloride for injection and 1% of patients receiving CAV.
 
 b Pain includes body pain, skeletal pain, and back pain.
 
-Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer Patients Receiving Topotecan For Injection: Based on the combined experience of 453 patients with metastatic ovarian carcinoma, and 426 patients with small cell lung cancer treated with topotecan for injection, Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
+Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer Patients Receiving Topotecan Hydrochloride for Injection: Based on the combined experience of 453 patients with metastatic ovarian carcinoma, and 426 patients with small cell lung cancer treated with topotecan hydrochloride for injection, Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
 Grade 3/4 elevations occurred in 4%.
 Grade 3/4 elevated bilirubin occurred in less than 2% of patients.
 
 Cervical Cancer
 
-In the comparative trial with topotecan for injection plus cisplatin versus cisplatin in patients with cervical cancer, the most common dose-limiting adverse reaction was myelosuppression.
+In the comparative trial with topotecan hydrochloride for injection plus cisplatin versus cisplatin in patients with cervical cancer, the most common dose-limiting adverse reaction was myelosuppression.
 Table 3 shows the hematologic and non‑hematologic adverse reactions in patients with cervical cancer.
 
 Table 3.
-Adverse Reactions Experienced by ≥5% of Patients with Cervical Cancer Randomized to Receive Topotecan for Injection plus Cisplatin or Cisplatin Monotherapy (Between-Arm Difference ≥2%) a
+Adverse Reactions Experienced by ≥5% of Patients with Cervical Cancer Randomized to Receive Topotecan Hydrochloride for Injection plus Cisplatin or Cisplatin Monotherapy (Between-Arm Difference ≥2%) a
 
-| Adverse Reaction | Topotecan for Injectionplus Cisplatin(n = 140)% | Cisplatin(n = 144)% |
+| Adverse Reaction | Topotecan Hydrochloride for Injectionplus Cisplatin(n = 140)% | Cisplatin(n = 144)% |
 | --- | --- | --- |
 | Hematologic |  |  |
 | Neutropenia |  |  |
@@ -132,9 +132,9 @@ f High-level terms were included if the between-arm difference was ≥10%.
 
 ## 6.2 Postmarketing Experience
 
-The following reactions have been identified during postmarketing use of topotecan for injection.
+The following reactions have been identified during postmarketing use of topotecan hydrochloride for injection.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to topotecan for injection.
+These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to topotecan hydrochloride for injection.
 
 Blood and Lymphatic System Disorders
 
