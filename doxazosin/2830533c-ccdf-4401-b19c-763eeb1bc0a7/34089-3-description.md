@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Doxazosin mesylate is a quinazoline compound that is a selective inhibitor of the alpha1 subtype of alpha-adrenergic receptors.
+Doxazosin mesylate is a quinazoline compound that is a selective inhibitor of the alpha 1 subtype of alpha-adrenergic receptors.
 The chemical name of doxazosin mesylate is 1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(1,4-benzodioxan-2-ylcarbonyl) piperazine methanesulfonate.
-The empirical formula for doxazosin mesylate is C23H25N5O5 • CH4O3S and the molecular weight is 547.6.
+The empirical formula for doxazosin mesylate is C 23H 25N 5O 5 • CH 4O 3S and the molecular weight is 547.6.
 It has the following structure:
 
 Doxazosin mesylate is freely soluble in dimethylsulfoxide, soluble in dimethylformamide, slightly soluble in methanol, ethanol, and water (0.8% at 25°C), and very slightly soluble in acetone and methylene chloride.

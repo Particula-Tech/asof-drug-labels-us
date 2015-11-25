@@ -16,7 +16,7 @@ TABLE 3 ADVERSE REACTIONS DURING PLACEBO-CONTROLLED STUDIES BENIGN PROSTATIC HYP
 | BODY AS A WHOLE |  |  |
 | Back Pain | 1.8% | 2.0% |
 | Chest Pain | 1.2% | 0.7% |
-| Fatigue | 8.0%p ≤0.05 for treatment differences | 1.7% |
+| Fatigue | 8.0% p ≤0.05 for treatment differences | 1.7% |
 | Headache | 9.9% | 9.0% |
 | Influenza-like Symptoms | 1.1% | 1.0% |
 | Pain | 2.0% | 1.0% |
@@ -31,7 +31,7 @@ TABLE 3 ADVERSE REACTIONS DURING PLACEBO-CONTROLLED STUDIES BENIGN PROSTATIC HYP
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
 | Edema | 2.7% | 0.7% |
 | NERVOUS SYSTEM |  |  |
-| DizzinessIncludes vertigo | 15.6% | 9.0% |
+| Dizziness Includes vertigo | 15.6% | 9.0% |
 | Mouth Dry | 1.4% | 0.3% |
 | Somnolence | 3.0% | 1.0% |
 | RESPIRATORY SYSTEM |  |  |

@@ -29,7 +29,7 @@ If syncope occurs, the patient should be placed in a recumbent position and trea
 
 ## Priapism
 
-Rarely (probably less frequently than once in every several thousand patients), alpha1 antagonists, including doxazosin, have been associated with priapism (painful penile erection, sustained for hours and unrelieved by sexual intercourse or masturbation).
+Rarely (probably less frequently than once in every several thousand patients), alpha 1 antagonists, including doxazosin, have been associated with priapism (painful penile erection, sustained for hours and unrelieved by sexual intercourse or masturbation).
 Because this condition can lead to permanent impotence if not promptly treated, patients must be advised about the seriousness of the condition (see PRECAUTIONS, Information for Patients).
 
 # PRECAUTIONS
@@ -43,10 +43,10 @@ Carcinoma of the prostate should therefore be ruled out prior to commencing ther
 
 ### Cataract Surgery
 
-Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha1 blockers.
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha 1 blockers.
 This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
 The patient's surgeon should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
-There does not appear to be a benefit of stopping alpha1 blocker therapy prior to cataract surgery.
+There does not appear to be a benefit of stopping alpha 1 blocker therapy prior to cataract surgery.
 
 ### Orthostatic Hypotension
 
@@ -66,7 +66,7 @@ The incidence of discontinuations due to hypotensive or orthostatic symptoms was
 The titration interval in these studies was one to two weeks.
 
 Patients in occupations in which orthostatic hypotension could be dangerous should be treated with particular caution.
-As alpha1 antagonists can cause orthostatic effects, it is important to evaluate standing blood pressure two minutes after standing, and patients should be advised to exercise care when arising from a supine or sitting position.
+As alpha 1 antagonists can cause orthostatic effects, it is important to evaluate standing blood pressure two minutes after standing, and patients should be advised to exercise care when arising from a supine or sitting position.
 
 If hypotension occurs, the patient should be placed in the supine position and, if this measure is inadequate, volume expansion with intravenous fluids or vasopressor therapy may be used.
 A transient hypotensive response is not a contraindication to further doses of doxazosin.
@@ -79,17 +79,17 @@ Patients should be made aware of the possibility of syncopal and orthostatic sym
 They should be cautioned to avoid situations where injury could result should syncope occur during initiation of doxazosin therapy.
 They should also be advised of the need to sit or lie down when symptoms of lowered blood pressure occur, although these symptoms are not always orthostatic, and to be careful when rising from a sitting or lying position.
 If dizziness, lightheadedness, or palpitations are bothersome, they should be reported to the physician, so that dose adjustment can be considered.
-Patients should also be told that drowsiness or somnolence can occur with doxazosin or any selective alpha1 adrenoceptor antagonist, requiring caution in people who must drive or operate heavy machinery.
+Patients should also be told that drowsiness or somnolence can occur with doxazosin or any selective alpha 1 adrenoceptor antagonist, requiring caution in people who must drive or operate heavy machinery.
 
-Patients should be advised about the possibility of priapism as a result of treatment with alpha1 antagonists.
+Patients should be advised about the possibility of priapism as a result of treatment with alpha 1 antagonists.
 Patients should know that this adverse event is very rare.
 If they experience priapism, it should be brought to immediate medical attention, for, if not treated promptly, it can lead to permanent erectile dysfunction (impotence).
 
 ## Drug/Laboratory Test Interactions
 
 Doxazosin does not affect the plasma concentration of prostate-specific antigen in patients treated for up to 3 years.
-Both doxazosin, an alpha1 inhibitor, and finasteride, a 5-alpha reductase inhibitor, are highly protein-bound and hepatically metabolized.
-There is no definitive controlled clinical experience on the concomitant use of alpha1 inhibitors and 5-alpha reductase inhibitors at this time.
+Both doxazosin, an alpha 1 inhibitor, and finasteride, a 5-alpha reductase inhibitor, are highly protein-bound and hepatically metabolized.
+There is no definitive controlled clinical experience on the concomitant use of alpha 1 inhibitors and 5-alpha reductase inhibitors at this time.
 
 ## Impaired Liver Function
 
@@ -101,8 +101,8 @@ Analysis of hematologic data from hypertensive patients receiving doxazosin in c
 In BPH patients, the incidence of clinically significant WBC abnormalities was 0.4% (2/459) with doxazosin and 0% (0/147) with placebo, with no statistically significant difference between the two treatment groups.
 A search through a data base of 2400 hypertensive patients and 665 BPH patients revealed 4 hypertensives in which drug-related neutropenia could not be ruled out and one BPH patient in which drug-related leukopenia could not be ruled out.
 Two hypertensives had a single low value on the last day of treatment.
-Two hypertensives had stable, non-progressive neutrophil counts in the 1000/mm3 range over periods of 20 and 40 weeks.
-One BPH patient had a decrease from a WBC count of 4800/mm3 to 2700/mm3 at the end of the study; there was no evidence of clinical impairment.
+Two hypertensives had stable, non-progressive neutrophil counts in the 1000/mm 3 range over periods of 20 and 40 weeks.
+One BPH patient had a decrease from a WBC count of 4800/mm 3 to 2700/mm 3 at the end of the study; there was no evidence of clinical impairment.
 In cases where follow-up was available, the WBCs and neutrophil counts returned to normal after discontinuation of doxazosin.
 No patients became symptomatic as a result of the low WBC or neutrophil counts.
 
@@ -112,7 +112,7 @@ Most (98%) of plasma doxazosin is protein bound.
 In vitro data in human plasma indicate that doxazosin has no effect on protein binding of digoxin, warfarin, phenytoin, or indomethacin.
 There is no information on the effect of other highly plasma protein- bound drugs on doxazosin binding.
 Doxazosin has been administered without any evidence of an adverse drug interaction to patients receiving thiazide diuretics, beta-blocking agents, and nonsteroidal anti-inflammatory drugs.
-In a placebo-controlled trial in normal volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin (p=0.006), and a slight but not statistically significant increase in mean Cmax and mean half-life of doxazosin.
+In a placebo-controlled trial in normal volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin (p=0.006), and a slight but not statistically significant increase in mean C max and mean half-life of doxazosin.
 The clinical significance of this increase in doxazosin AUC is unknown.
 
 In clinical trials, doxazosin tablets have been administered to patients on a variety of concomitant medications; while no formal interaction studies have been conducted, no interactions were observed.
@@ -123,9 +123,9 @@ Concomitant administration of doxazosin with a phosphodiesterase-5 (PDE-5) inhib
 ## Cardiac Toxicity in Animals
 
 An increased incidence of myocardial necrosis or fibrosis was displayed by Sprague-Dawley rats after 6 months of dietary administration at concentrations calculated to provide 80 mg doxazosin/kg/day, and after 12 months of dietary administration at concentrations calculated to provide 40 mg doxazosin/kg/day (AUC exposure in rats 8 times the human AUC exposure with a 12 mg/day therapeutic dose).
-Myocardial fibrosis was observed in both rats and mice treated in the same manner with 40 mg doxazosin/kg/day for 18 months (exposure 8 times human AUC exposure in rats and somewhat equivalent to human Cmax exposure in mice).
+Myocardial fibrosis was observed in both rats and mice treated in the same manner with 40 mg doxazosin/kg/day for 18 months (exposure 8 times human AUC exposure in rats and somewhat equivalent to human C max exposure in mice).
 No cardiotoxicity was observed at lower doses (up to 10 or 20 mg/kg/day, depending on the study) in either species.
-These lesions were not observed after 12 months of oral dosing in dogs at maximum doses of 20 mg/kg/day [maximum plasma concentrations (Cmax) in dogs 14 times the Cmax exposure in humans receiving a 12 mg/day therapeutic dose] and in Wistar rats at doses of 100 mg/kg/day (Cmax exposures 15 times human Cmax exposure with a 12 mg/day therapeutic dose).
+These lesions were not observed after 12 months of oral dosing in dogs at maximum doses of 20 mg/kg/day [maximum plasma concentrations (C max) in dogs 14 times the C max exposure in humans receiving a 12 mg/day therapeutic dose] and in Wistar rats at doses of 100 mg/kg/day (C max exposures 15 times human C max exposure with a 12 mg/day therapeutic dose).
 There is no evidence that similar lesions occur in humans.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -143,7 +143,7 @@ There have been no reports of any effects of doxazosin on male fertility in huma
 
 ### Teratogenic Effects, Pregnancy Category C
 
-Studies in pregnant rabbits and rats at daily oral doses of up to 41 and 20 mg/kg, respectively (plasma drug concentrations 10 and 4 times human Cmax and AUC exposures with a 12 mg/day therapeutic dose), have revealed no evidence of harm to the fetus.
+Studies in pregnant rabbits and rats at daily oral doses of up to 41 and 20 mg/kg, respectively (plasma drug concentrations 10 and 4 times human C max and AUC exposures with a 12 mg/day therapeutic dose), have revealed no evidence of harm to the fetus.
 A dosage regimen of 82 mg/kg/day in the rabbit was associated with reduced fetal survival.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, doxazosin should be used during pregnancy only if clearly needed.
@@ -156,7 +156,7 @@ In peri-postnatal studies in rats, postnatal development at maternal doses of 40
 
 ## Nursing Mothers
 
-Studies in lactating rats given a single oral dose of 1 mg/kg of [2-14C]-doxazosin indicate that doxazosin accumulates in rat breast milk with a maximum concentration about 20 times greater than the maternal plasma concentration.
+Studies in lactating rats given a single oral dose of 1 mg/kg of [2- 14C]-doxazosin indicate that doxazosin accumulates in rat breast milk with a maximum concentration about 20 times greater than the maternal plasma concentration.
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when doxazosin is administered to a nursing mother.
 

@@ -10,12 +10,12 @@ A static and a dynamic component contribute to the symptoms and reduced urinary 
 The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma.
 However, the severity of BPH symptoms and the degree of urethral obstruction do not correlate well with the size of the prostate.
 The dynamic component of BPH is associated with an increase in smooth muscle tone in the prostate and bladder neck.
-The degree of tone in this area is mediated by the alpha1 adrenoceptor, which is present in high density in the prostatic stroma, prostatic capsule and bladder neck.
-Blockade of the alpha1 receptor decreases urethral resistance and may relieve the obstruction and BPH symptoms.
-In the human prostate, doxazosin antagonizes phenylephrine (alpha1 agonist)-induced contractions, in vitro, and binds with high affinity to the alpha1c adrenoceptor.
+The degree of tone in this area is mediated by the alpha 1 adrenoceptor, which is present in high density in the prostatic stroma, prostatic capsule and bladder neck.
+Blockade of the alpha 1 receptor decreases urethral resistance and may relieve the obstruction and BPH symptoms.
+In the human prostate, doxazosin antagonizes phenylephrine (alpha 1 agonist)-induced contractions, in vitro, and binds with high affinity to the alpha 1c adrenoceptor.
 The receptor subtype is thought to be the predominant functional type in the prostate.
 Doxazosin acts within 1 to 2 weeks to decrease the severity of BPH symptoms and improve urinary flow rate.
-Since alpha1 adrenoceptors are of low density in the urinary bladder (apart from the bladder neck), doxazosin should maintain bladder contractility.
+Since alpha 1 adrenoceptors are of low density in the urinary bladder (apart from the bladder neck), doxazosin should maintain bladder contractility.
 
 The efficacy of doxazosin was evaluated extensively in over 900 patients with BPH in double-blind, placebo-controlled trials.
 Doxazosin treatment was superior to placebo in improving patient symptoms and urinary flow rate.
@@ -44,7 +44,7 @@ The onset and time course of symptom relief and increased urinary flow from Stud
 In BPH patients (N=450) treated for up to 2 years in open-label studies, doxazosin therapy resulted in significant improvement above baseline in urinary flow rates and BPH symptoms.
 The significant effects of doxazosin were maintained over the entire treatment period.
 
-Although blockade of alpha1 adrenoceptors also lowers blood pressure in hypertensive patients with increased peripheral vascular resistance, doxazosin treatment of normotensive men with BPH did not result in a clinically significant blood pressure lowering effect (Table 2).
+Although blockade of alpha 1 adrenoceptors also lowers blood pressure in hypertensive patients with increased peripheral vascular resistance, doxazosin treatment of normotensive men with BPH did not result in a clinically significant blood pressure lowering effect (Table 2).
 The proportion of normotensive patients with a sitting systolic blood pressure less than 90 mmHg and/or diastolic blood pressure less than 60 mmHg at any time during treatment with doxazosin 1 to 8 mg once daily was 6.7% with doxazosin and not significantly different (statistically) from that with placebo (5%).
 
 TABLE 2 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with doxazosin 1 to 8 mg once daily.
@@ -52,7 +52,7 @@ TABLE 2 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Ef
 |  | PLACEBO (N=85) |  | DOXAZOSIN (N=183) |  |
 | --- | --- | --- | --- | --- |
 | Sitting BP (mmHg) | Baseline | Change | Baseline | Change |
-| Systolic | 128.4 | −1.4 | 128.8 | −4.9p ≤0.05 compared to placebo |
+| Systolic | 128.4 | −1.4 | 128.8 | −4.9 p ≤0.05 compared to placebo |
 | Diastolic | 79.2 | −1.2 | 79.6 | −2.4 |
 | Standing BP (mmHg) | Baseline | Change | Baseline | Change |
 | Systolic | 128.5 | −0.6 | 128.5 | −5.3 |
@@ -60,8 +60,8 @@ TABLE 2 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Ef
 
 ### B. Hypertension
 
-The mechanism of action of doxazosin is selective blockade of the alpha1 (postjunctional) subtype of adrenergic receptors.
-Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha1 agonist) and the systolic pressor effect of norepinephrine.
+The mechanism of action of doxazosin is selective blockade of the alpha 1 (postjunctional) subtype of adrenergic receptors.
+Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha 1 agonist) and the systolic pressor effect of norepinephrine.
 Doxazosin and prazosin have similar abilities to antagonize phenylephrine.
 The antihypertensive effect of doxazosin results from a decrease in systemic vascular resistance.
 The parent compound doxazosin is primarily responsible for the antihypertensive activity.
@@ -71,7 +71,7 @@ The 6'- and 7'-hydroxy metabolites have demonstrated antioxidant properties at c
 Administration of doxazosin results in a reduction in systemic vascular resistance.
 In patients with hypertension, there is little change in cardiac output.
 Maximum reductions in blood pressure usually occur 2 to 6 hours after dosing and are associated with a small increase in standing heart rate.
-Like other alpha1-adrenergic blocking agents, doxazosin has a greater effect on blood pressure and heart rate in the standing position.
+Like other alpha 1-adrenergic blocking agents, doxazosin has a greater effect on blood pressure and heart rate in the standing position.
 
 In a pooled analysis of placebo-controlled hypertension studies with about 300 hypertensive patients per treatment group, doxazosin, at doses of 1 to 16 mg given once daily, lowered blood pressure at 24 hours by about 10/8 mmHg compared to placebo in the standing position and about 9/5 mmHg in the supine position.
 Peak blood pressure effects (1 to 6 hours) were larger by about 50 to 75% (i.e., trough values were about 55 to 70% of peak effect), with the larger peak-trough differences seen in systolic pressures.
