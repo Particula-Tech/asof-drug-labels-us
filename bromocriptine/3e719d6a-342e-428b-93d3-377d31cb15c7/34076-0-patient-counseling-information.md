@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.2).]
+[see FDA-Approved Patient Labeling]
 
 ## 17.1 Instructions
 
@@ -13,25 +13,9 @@ Hypotension and syncope may occur more frequently during initial therapy or with
 During early treatment with CYCLOSET, patients should be advised to make slow postural changes and to avoid situations that could predispose to serious injury if syncope was to occur.
 
 Patients should be advised that CYCLOSET may cause somnolence.
-Advise patients not to operate heavy machinery if symptoms of somnolence occur
+Advise patients not to operate heavy machinery if symptoms of somnolence occur.
 
 Women who are nursing their children should be advised to not take CYCLOSET.
 
 Physicians should instruct their patients to read the Patient Package Insert before starting CYCLOSET therapy and to reread it each time the prescription is renewed.
 Patients should be instructed to inform their healthcare provider if they develop any unusual symptoms or if any known symptom persists or worsens.
-
-Manufactured for: VeroScience, LLC Tiverton, RI
-
-Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-Printed in USA
-
-For information for health care professionals, call 1-877-757-0666
-
-CYCLOSET is a registered trademark of
-
-VeroScience, LLC, Tiverton, RI 02878
-
-This product is covered by one or more of the following: U.S. Patent Nos. 5,468,755; 5,679,685; 5,716,957; 5,756,513; 5,866,584
-
-## 17.2 FDA-Approved Patient Labeling

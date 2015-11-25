@@ -86,5 +86,4 @@ There was no significant in vitro inhibition of other major CYP450 enzymes (1A2,
 
 In Vivo Assessment
 
-The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8 fold) and Cmax (4.6 fold) of bromocriptine.
-[See Use with Concomitant Therapy (2.3), DRUG INTERACTION (7)].
+The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8-fold) and Cmax (4.6-fold) of bromocriptine [see Dosage and Administration (2.3), Drug Interactions (7)].

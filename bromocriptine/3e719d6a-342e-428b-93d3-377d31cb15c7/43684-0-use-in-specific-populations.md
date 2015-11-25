@@ -12,7 +12,7 @@ There was no evidence of teratogenic effects in the rat.
 
 In a small study in macaque monkeys given oral doses of 2 mg/kg/day (10 times the human 4.8 mg daily dose, based on mg/m2 comparison) during organogenesis no embryotoxic or teratologic effects were observed.
 
-When male rats given oral doses of 2, 10 or 50 mg/kg/day (up to 120 times the human 4.8 mg daily dose, based on mg/m2 comparison) were mated with untreated females, there was a slight increase in pup loss in the 10 and 50 mg/kg/day groups (24-120 times the human 4.8 mg daily dose, based on mg/m2 comparison).
+When male rats given oral doses of 2, 10, or 50 mg/kg/day (up to 120 times the human 4.8 mg daily dose, based on mg/m2 comparison) were mated with untreated females, there was a slight increase in pup loss in the 10 and 50 mg/kg/day groups (24-120 times the human 4.8 mg daily dose, based on mg/m2 comparison).
 
 In two strains of pregnant rabbits treated from gestation day 6-18 with oral doses of 3, 10, 30, 100, and 300 mg/kg/day (up to 1400 times the human 4.8 mg daily dose, based on mg/m2 comparison) there was maternal toxicity and embryolethality at doses ≥10 mg/kg/day (48 times the human 4.8 mg daily dose, based on mg/m2 comparison).
 Low incidences of fetal abnormalities were observed at maternally toxic doses of 100-300 mg/kg/day (480-1400 times the human 4.8 mg daily dose, based on mg/m2 comparison).
@@ -43,7 +43,7 @@ Because the studies in humans cannot rule out the possibility of harm, CYCLOSET 
 
 CYCLOSET is contraindicated in women who are nursing their children.
 CYCLOSET contains bromocriptine which inhibits lactation.
-The indication for use of bromocriptine for inhibition of postpartum lactation was withdrawn based on postmarketing reports of stroke in this setting [See Contraindications (4) and Adverse Reactions (6.2)].
+The indication for use of bromocriptine for inhibition of postpartum lactation was withdrawn based on postmarketing reports of stroke in this setting [see Contraindications (4) and Adverse Reactions (6.2)].
 
 ## 8.4 Pediatric Use
 

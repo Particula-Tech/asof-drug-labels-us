@@ -12,4 +12,4 @@ CYCLOSET should be initiated at one tablet (0.8 mg) and increased by one tablet 
 ## 2.3 Use with Concomitant Therapy
 
 CYCLOSET dose should not exceed 1.6 mg once daily during concomitant use of a moderate CYP3A4 inhibitor (e.g., erythromycin).
-Avoid concomitant use of CYCLOSET and strong CYP3A4 inhibitors (e.g., azole antimycotics, HIV protease inhibitors) and ensure adequate washout of the strong CYP3A4 inhibitor drug before initiating CYCLOSET treatment.[See DRUG INTERACTIONS (7), Pharmacokinetics (12.3)]
+Avoid concomitant use of CYCLOSET and strong CYP3A4 inhibitors (e.g., azole antimycotics, HIV protease inhibitors) and ensure adequate washout of the strong CYP3A4 inhibitor drug before initiating CYCLOSET treatment [see Drug Interactions (7), Clinical Pharmacology (12.3)].

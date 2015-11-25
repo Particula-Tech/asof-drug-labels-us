@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
 
-In the pooled CYCLOSET phase 3 clinical trials (CYCLOSET N = 2298; placebo N = 1266), adverse events leading to discontinuation occurred in 539 (24%) CYCLOSET-treated patients and 118 (9%) placebo-treated patients.
+In the pooled CYCLOSET phase 3 clinical trials (CYCLOSET N=2,298; placebo N=1,266), adverse events leading to discontinuation occurred in 539 (24%) CYCLOSET-treated patients and 118 (9%) placebo-treated patients.
 This between-group difference was driven mostly by gastrointestinal adverse events, particularly nausea.
 
 The CYCLOSET safety trial was a 52-week, placebo-controlled study that included patients treated only with diet therapy or with other anti-diabetic medications.
@@ -26,7 +26,7 @@ There were no differences in the pattern of common adverse events across race gr
 In the 52-week CYCLOSET safety trial, 11.5% of CYCLOSET-treated women compared to 3.6% of placebo-treated women reported vomiting.
 In this same trial, 5.4% of CYCLOSET-treated men compared to 2.8% of placebo-treated men reported vomiting.
 
-Table 1 Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% of Patients and Numerically More Frequent in CYCLOSET-Treated Patients than in Placebo-Treated Patients, Regardless of Investigator Assessment of Causality†)
+Table 1: Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% of Patients and Numerically More Frequent in CYCLOSET-Treated Patients than in Placebo-Treated Patients, Regardless of Investigator Assessment of Causality†)
 
 | Monotherapy | CYCLOSET 1.6 mg – 4.8 mg N (%) | Placebo N (%) |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Table 1 Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% of
 | Vomiting | 5 (6.3) | 1 (1.3) |
 | Infection | 5 (6.3) | 4 (5.1) |
 | Anorexia | 4 (5.0) | 1 (1.3) |
-| Adjunct to Sulfonylurea (2 pooled 24 week studies) |  |  |
+| Adjunct to Sulfonylurea (2 pooled 24-week studies) |  |  |
 | N = 494 | N = 244 | N = 250 |
 | Nausea | 62 (25.4) | 12 (4.8) |
 | Asthenia | 46 (18.9) | 20 (8.0) |
@@ -68,7 +68,7 @@ Table 1 Adverse Events Reported in Phase 3 Clinical Trials of CYCLOSET (≥5% of
 | Diarrhea | 167 (8.1) | 81 (8.0) |
 | Constipation | 119 (5.8) | 52 (5.1) |
 | †All randomized subjects receiving at least one dose of study drug |  |  |
-| ‡ The Safety Trial enrolled patients treated with diet or no more than 2 anti-diabetic medications (metformin, insulin secretagogues such as a sulfonylurea, thiazolidinediones, alpha glucosidase inhibitors, and/or Insulin) |  |  |
+| ‡ The Safety Trial enrolled patients treated with diet or no more than 2 anti-diabetic medications (metformin, insulin secretagogues such as a sulfonylurea, thiazolidinediones, alpha glucosidase inhibitors, and/or insulin) |  |  |
 
 Hypoglycemia
 
@@ -76,19 +76,19 @@ In the monotherapy trial, hypoglycemia was reported in 2 CYCLOSET-treated patien
 In the add-on to sulfonylurea trials, the incidence of hypoglycemia was 8.6% among the CYCLOSET-treated patients and 5.2% among the placebo-treated patients.
 In the CYCLOSET safety trial, hypoglycemia was defined as any of the following: 1) symptoms suggestive of hypoglycemia that promptly resolved with appropriate intervention, 2) symptoms with a measured glucose <60 mg/dL or 3) measured glucose below 49 mg/dL regardless of symptoms.
 In the 52-week safety trial, the incidence of hypoglycemia was 6.9% among the CYCLOSET-treated patients and 5.3% among the placebo-treated patients.
-In the safety trial, severe hypoglycemia was defined as an inability to self-treat neurological symptoms consistent with hypoglycemia that occurred in the setting of a measured blood glucose < 50 mg/dl (or evidence of prompt resolution of these symptoms with administration of oral carbohydrates, subcutaneous glucagon, or intravenous glucose if blood glucose was not measured).
+In the safety trial, severe hypoglycemia was defined as an inability to self-treat neurological symptoms consistent with hypoglycemia that occurred in the setting of a measured blood glucose <50 mg/dL (or evidence of prompt resolution of these symptoms with administration of oral carbohydrates, subcutaneous glucagon, or intravenous glucose if blood glucose was not measured).
 In this trial, severe hypoglycemia was reported among 0.5% of CYCLOSET-treated patients and 1% of placebo-treated patients.
 
 Syncope
 
 In combined phase 2 and 3 clinical trials, syncope was reported in 1.4% of the 2,500 CYCLOSET-treated patients and 0.6% of the 1,454 placebo-treated patients.
 Among the 3,070 patients studied in the 52-week safety trial, 33 CYCLOSET-treated patients (1.6%) and 7 placebo-treated patients (0.7%) reported an adverse event of syncope.
-The cause of syncope is not known in all cases [See Warnings and Precautions (5.1)].
+The cause of syncope is not known in all cases [see Warnings and Precautions (5.1)].
 In this trial, electrocardiograms were not available at the time of these events, but an assessment of routine electrocardiograms obtained during the course of the trial did not identify arrhythmias or QTc interval prolongation among the CYCLOSET-treated patients reporting syncope.
 
 Central Nervous System
 
-In the 52-week safety trial, somnolence and hypoesthesia were the only adverse events within the nervous system organ class that were reported at a rate of < 5% and ≥ 1% and that occurred at a numerically greater frequency among CYCLOSET-treated patients (CYCLOSET 4.3% vs. Placebo 1.3% for somnolence; CYCLOSET 1.4% vs. Placebo 1.1% for hypoesthesia).
+In the 52-week safety trial, somnolence and hypoesthesia were the only adverse events within the nervous system organ class that were reported at a rate of <5% and ≥1% and that occurred at a numerically greater frequency among CYCLOSET-treated patients (CYCLOSET 4.3% vs. Placebo 1.3% for somnolence; CYCLOSET 1.4% vs. Placebo 1.1% for hypoesthesia).
 
 Serious Adverse Events and Cardiovascular Safety
 
@@ -114,7 +114,7 @@ Hallucinations
 Hallucinations and mental confusion including delusions have been reported with bromocriptine.
 To date, there have been no reported cases of hallucinations or delusions among CYCLOSET-treated patients (n= 2500) in combined Phase 2 and 3 clinical trials of CYCLOSET.
 
-Fibrotic - Related Complications
+Fibrotic-Related Complications
 
 Fibrotic complications, including cases of retroperitoneal fibrosis, pulmonary fibrosis, pleural effusion, pleural thickening, pericarditis and pericardial effusions have been reported.
 These complications do not always resolve when bromocriptine is discontinued.
@@ -137,7 +137,7 @@ The indication for use of bromocriptine for inhibition of postpartum lactation w
 Causality of bromocriptine use and the occurrence of stroke in this patient population has not been proven.
 Based on the CYCLOSET clinical trials, there is no evidence of increased risk for stroke when CYCLOSET is used to treat type 2 diabetes.
 
-Neuroleptic - like malignant syndrome
+Neuroleptic-like malignant syndrome
 
 A neuroleptic-like malignant syndrome (manifested by high fever and increase in creatinine phosphokinase) has been reported upon cessation of bromocriptine treatment in patients with advanced Parkinson's disease or patients with secondary Parkinsonism.
 To date, there have been no reported cases of neuroleptic-like malignant syndrome in combined Phase 2 and 3 controlled clinical trials of CYCLOSET, including the Safety Trial (N=2500).

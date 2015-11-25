@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-CYCLOSET is contraindicated in
+CYCLOSET is contraindicated in:
 
 - Patients with known hypersensitivity to bromocriptine, ergot-related drugs, or any of the excipients in CYCLOSET.
 - Patients with syncopal migraine.
@@ -9,4 +9,4 @@ CYCLOSET is contraindicated in
   CYCLOSET is a dopamine receptor agonist, and may, therefore, potentiate the risk for syncope in these patients.
 - Women who are nursing their children.
   CYCLOSET may inhibit lactation.
-  There are postmarketing reports of stroke in this patient population although causality has not been proven [See Nursing Mothers (8.3)].
+  There are postmarketing reports of stroke in this patient population although causality has not been proven [see Use in Specific Populations (8.3)].

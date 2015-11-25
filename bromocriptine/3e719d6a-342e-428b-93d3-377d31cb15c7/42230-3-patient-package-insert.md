@@ -1,4 +1,4 @@
-Patient Information CYCLOSET®[Si'klo'set](Bromocriptine Mesylate) Tablets
+# Patient Information CYCLOSET® [Si'klo'set] (Bromocriptine Mesylate) Tablets
 
 Read the Patient Information before you start taking CYCLOSET and each time you get a refill.
 There may be new information.
@@ -27,7 +27,7 @@ What should I tell my healthcare provider before taking CYCLOSET?
 
 Before taking CYCLOSET, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have Type 1 diabetes mellitus
+- have type 1 diabetes mellitus
 - have diabetic ketoacidosis
 - have ever passed out or fainted
 - have migraine headaches
@@ -93,9 +93,9 @@ These are not all the possible side effects of CYCLOSET.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088
+You may report side effects to FDA at 1-800-FDA-1088.
 
-How Should I store CYCLOSET?
+How should I store CYCLOSET?
 
 Store CYCLOSET at or below 77°F (25°C)
 
@@ -121,12 +121,12 @@ Inactive ingredients: lactose, corn starch, magnesium stearate, colloidal silico
 
 Issued September 2010
 
-Manufactured for: VeroScience, LLC Tiverton, RI
+Manufactured for: VeroScience, LLC Tiverton, RI 02878
 
 Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-For information for health care professionals, call 1-877-757-0666
+For information for healthcare professionals, call 1-877-757-0666.
 
-Revised 10/2015
+Revised: 11/2015
 
-CYCLOSET is a registered trademark of VeroScience, LLC, Tiverton, RI 02878
+CYCLOSET is a registered trademark of: VeroScience, LLC Tiverton, RI 02878
