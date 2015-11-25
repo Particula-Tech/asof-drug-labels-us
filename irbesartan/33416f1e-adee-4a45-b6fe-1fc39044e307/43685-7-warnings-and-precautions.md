@@ -14,7 +14,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue irbesartan, unless it is considered life saving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to irbesartan for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS : Pediatric Use ).
+Closely observe infants with histories of in utero exposure to irbesartan for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS: Pediatric Use).
 When pregnant rats were treated with irbesartan from day 0 to day 20 of gestation (oral doses of 50 mg/kg/day, 180 mg/kg/day, and 650 mg/kg/day), increased incidences of renal pelvic cavitation, hydroureter and/or absence of renal papilla were observed in fetuses at doses ≥50 mg/kg/day (approximately equivalent to the maximum recommended human dose [MRHD], 300 mg/day, on a body surface area basis).
 Subcutaneous edema was observed in fetuses at doses ≥180 mg/kg/day (about 4 times the MRHD on a body surface area basis).
 As these anomalies were not observed in rats in which irbesartan exposure (oral doses of 50, 150, and 450 mg/kg/day) was limited to gestation days 6 to 15, they appear to reflect late gestational effects of the drug.
@@ -27,7 +27,7 @@ Radioactivity was present in the rat and rabbit fetus during late gestation and 
 
 Excessive reduction of blood pressure was rarely seen (<0.1%) in patients with uncomplicated hypertension.
 Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume- or sodium-depletion, e.g., in patients treated vigorously with diuretics or in patients on dialysis.
-Such volume depletion should be corrected prior to administration of irbesartan, or a low starting dose should be used (see DOSAGE AND ADMINISTRATION ).
+Such volume depletion should be corrected prior to administration of irbesartan, or a low starting dose should be used (see DOSAGE AND ADMINISTRATION).
 If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
@@ -49,7 +49,8 @@ Patients should be asked to report pregnancies to their physicians as soon as po
 
 ## Drug Interactions
 
-No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.
+Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan or thiazide diuretics.
+Monitor lithium levels in patients receiving irbesartan and lithium.
 In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.
 However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.
 Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isoenzymes 1A1, 1A2, 2A6, 2B6, 2D6, 2E1, or 3A4.
@@ -68,17 +69,19 @@ The antihypertensive effect of angiotensin II receptor antagonists, including ir
 
 Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function, and electrolytes in patients on irbesartan and other agents that affect the RAS.
-Do not co-administer aliskiren with irbesartan in patients with diabetes.
+In most patients no benefit has been associated with using two RAS inhibitors concomitantly.
+In general, avoid combined use of RAS inhibitors.
+Do not coadminister aliskiren with irbesartan in patients with diabetes.
 Avoid use of aliskiren with irbesartan in patients with renal impairment (GFR <60 mL/min).
 
 ## Carcinogenesis & Mutagenesis & Impairment Of Fertility
 
 No evidence of carcinogenicity was observed when irbesartan was administered at doses of up to 500/1000 mg/kg/day (males/females, respectively) in rats and 1000 mg/kg/day in mice for up to 2 years.
-For male and female rats, 500 mg/kg/day provided an average systemic exposure to irbesartan (AUC 0 to 24 hour , bound plus unbound) about 3 and 11 times, respectively, the average systemic exposure in humans receiving the maximum recommended dose (MRD) of 300 mg irbesartan/day, whereas 1000 mg/kg/day (administered to females only) provided an average systemic exposure about 21 times that reported for humans at the MRD.
+For male and female rats, 500 mg/kg/day provided an average systemic exposure to irbesartan (AUC 0 to 24 hour, bound plus unbound) about 3 and 11 times, respectively, the average systemic exposure in humans receiving the maximum recommended dose (MRD) of 300 mg irbesartan/day, whereas 1000 mg/kg/day (administered to females only) provided an average systemic exposure about 21 times that reported for humans at the MRD.
 For male and female mice, 1000 mg/kg/day provided an exposure to irbesartan about 3 and 5 times, respectively, the human exposure at 300 mg/day.
 Irbesartan was not mutagenic in a battery of in vitro tests (Ames microbial test, rat hepatocyte DNA repair test, V79 mammalian-cell forward gene-mutation assay).
-Irbesartan was negative in several tests for induction of chromosomal aberrations ( in vitro -human lymphocyte assay; in vivo -mouse micronucleus study).
-Irbesartan had no adverse effects on fertility or mating of male or female rats at oral doses ≤650 mg/kg/day, the highest dose providing a systemic exposure to irbesartan (AUC 0 to 24 hour , bound plus unbound) about 5 times that found in humans receiving the maximum recommended dose of 300 mg/day.
+Irbesartan was negative in several tests for induction of chromosomal aberrations (in vitro-human lymphocyte assay; in vivo-mouse micronucleus study).
+Irbesartan had no adverse effects on fertility or mating of male or female rats at oral doses ≤650 mg/kg/day, the highest dose providing a systemic exposure to irbesartan (AUC 0 to 24 hour, bound plus unbound) about 5 times that found in humans receiving the maximum recommended dose of 300 mg/day.
 
 ## Pregnancy
 
@@ -98,6 +101,6 @@ Irbesartan has not been studied in pediatric patients less than 6 years old.
 
 ## Geriatric Use
 
-Of 4925 subjects receiving irbesartan in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3.0%) were 75 years and over.
+Of 4925 subjects receiving irbesartan in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
-(See CLINICAL PHARMACOLOGY: Pharmacokinetics, Special Populations, and Clinical Studies . )
+(See CLINICAL PHARMACOLOGY: Pharmacokinetics, Special Populations, and Clinical Studies.)
