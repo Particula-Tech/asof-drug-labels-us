@@ -102,7 +102,7 @@ For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8054434 Revised April 2015
+8054434 Revised October 2015
 
 Medication Guide
 
