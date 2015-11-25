@@ -120,7 +120,7 @@ Patient information enclosed
 
 LIPITOR ® (atorvastatin calcium) tablets
 
-PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
 
 NDC 0071-0157-23
 
@@ -181,7 +181,7 @@ Patient information enclosed
 
 LIPITOR ® (atorvastatin calcium) tablets
 
-PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
 
 NDC 0071-0158-23
 
