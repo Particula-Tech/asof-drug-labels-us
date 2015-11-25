@@ -5,7 +5,7 @@
 Embryofetal Toxicity
 
 Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant female.
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney (see PRECAUTIONS: Pregnancy).
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney and nervous system (see PRECAUTIONS: Pregnancy).
 
 Pregnancy Exposure Prevention and Planning
 
@@ -16,11 +16,8 @@ Lymphoma and Malignancy
 
 Patients receiving immunosuppressive regimens involving combinations of drugs, including mycophenolate mofetil, as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see ADVERSE REACTIONS).
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
-
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
-
 Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients (see ADVERSE REACTIONS).
-
 In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed (see ADVERSE REACTIONS).
 
 Combination with Other Immunosuppressive Agents
@@ -34,9 +31,9 @@ Patients receiving immunosuppressants, including mycophenolate mofetil, are at i
 These infections may lead to serious, including fatal outcomes.
 Because of the danger of over suppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution (see ADVERSE REACTIONS).
 
-New or Reactivated Latent Viral Infections
+New or Reactivated Viral Infections
 
-Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), Cytomegalovirus (CMV) infections, reactivation of Hepatitis B (HBV) or Hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including CellCept.
+Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), Cytomegalovirus (CMV) infections, reactivation of Hepatitis B (HBV) or Hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
 Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections.
 Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
 
@@ -52,7 +49,7 @@ Therapeutic approaches to limiting CMV disease exist and should be routinely pro
 Patient monitoring may help detect patients at risk for CMV disease.
 
 Viral reactivation has been reported in patients infected with HBV or HCV.
-Monitoring patients infected with hepatitis B or C for clinical and laboratory signs of active HBV or HCV infection is recommended.
+Monitoring infected patients for clinical and laboratory signs of active HBV or HCV infection is recommended.
 
 Neutropenia
 
@@ -61,7 +58,6 @@ Patients receiving mycophenolate mofetil should be monitored for neutropenia (se
 The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
 Neutropenia has been observed most frequently in the period from 31 to 180 days posttransplant in patients treated for prevention of renal, cardiac, and hepatic rejection.
-
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
 Pure Red Cell Aplasia (PRCA)
@@ -71,7 +67,7 @@ The mechanism for mycophenolate mofetil induced PRCA is unknown; the relative co
 In some cases, PRCA was found to be reversible with dose reduction or cessation of mycophenolate mofetil therapy.
 In transplant patients, however, reduced immunosuppression may place the graft at risk.
 
-CAUTION: MYCOPHENOLATE MOFETIL SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
+CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION MUST NOT BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 
 # PRECAUTIONS
 
@@ -100,9 +96,7 @@ Patients must use acceptable birth control during entire mycophenolate mofetil t
 
 Patients should be aware that mycophenolate mofetil reduces blood levels of the hormones in the oral contraceptive pill and could theoretically reduce its effectiveness (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions: Oral Contraceptives).
 
-Table 8 Acceptable Contraception Methods for Females of Reproductive Potential
-
-Pick from the following birth control options:
+Table 8 Acceptable Contraception Methods for Females of Reproductive Potential Pick from the following birth control options:
 
 | Option 1 Methods to Use Alone | Intrauterine devices (IUDs) Tubal sterilization Patient's partner had a vasectomy |
 | --- | --- |
@@ -162,7 +156,7 @@ In view of the significant reduction in the AUC of MPA by cholestyramine, cautio
 
 ## Patients with HGPRT Deficiency
 
-On theoretical grounds, because mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+Mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, therefore it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
 
 ## Immunizations
 
@@ -228,9 +222,15 @@ Cyclosporine
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
 The mean (±SD) AUC0-12h and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
+Cyclosporine A interferes with MPA enterohepatic recirculation.
 In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30-50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
-This information should be taken into consideration when MMF is used without cyclosporine.
+This information should be taken into consideration when MMF is used without cyclosporine; changes in MPA exposure should be expected when switching patients from cyclosporine A to one of the immunosuppressants which do not interfere with MPA’s enterohepatic cycle (e.g., tacrolimus; belatacept).
+
+Telmisartan
+
+Concommitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease in mycophenolic acid (MPA) concentrations.
+Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and activity.
 
 Ganciclovir
 
@@ -317,7 +317,7 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 Pregnancy Category D. See WARNINGS section.
 
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney, and nervous system.
 In animal studies, congenital malformations and pregnancy loss occurred when pregnant rats and rabbits received mycophenolic acid at dose multiples similar to and less than clinical doses.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 

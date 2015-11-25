@@ -250,9 +250,7 @@ The capsule is printed with edible black ink comprised of shellac, dehydrated al
 Mycophenolate Mofetil Tablets USP 500 mg: croscarmellose sodium, povidone (K-90), isopropyl alcohol, microcrystalline cellulose, magnesium stearate, hypromellose, polyethylene glycol, titanium dioxide, red iron oxide, black iron oxide, and yellow iron oxide.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
-
-Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roche Inc. Bactrim and Bactrim DS are trademarks of Hoffmann-La Roche Inc. Any other trademarks in this document are the property of their respective owners.
-
+CYTOVENE-IV and VALCYTE are registered trademarks of Hoffmann-La Roche Inc. BACTRIM and BACTRIM DS are trademarks of Hoffmann-La Roche Inc. Any other trademarks in this document are the property of their respective owners.
 Manufactured in India by:
 
 Alkem Laboratories Limited
@@ -267,6 +265,6 @@ Ascend Laboratories, LLC,
 
 Montvale, NJ 07645
 
-PT1264-02
+PT1264-03
 
-Revised: July, 2013
+Revised: October, 2015

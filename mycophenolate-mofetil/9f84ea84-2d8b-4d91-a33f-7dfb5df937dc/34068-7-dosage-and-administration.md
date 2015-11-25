@@ -4,7 +4,7 @@ Renal Transplantation
 
 Adults
 
-A dose of 1 g administered orally or intravenously (over NO LESS THAN TWO HOURS) twice a day (daily dose of 2 g) is recommended for use in renal transplant patients.
+A dose of 1 g administered orally or intravenously (over NO LESS THAN 2 HOURS) twice a day (daily dose of 2 g) is recommended for use in renal transplant patients.
 Although a dose of 1.5 g administered twice daily (daily dose of 3 g) was used in clinical trials and was shown to be safe and effective, no efficacy advantage could be established for renal transplant patients.
 Patients receiving 2 g/day of mycophenolate mofetil demonstrated an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
 
@@ -18,13 +18,13 @@ Cardiac Transplantation
 
 Adults
 
-A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult cardiac transplant patients.
+A dose of 1.5 g bid administered intravenously (over NO LESS THAN 2 HOURS) or 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult cardiac transplant patients.
 
 Hepatic Transplantation
 
 Adults
 
-A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
+A dose of 1 g bid administered intravenously (over NO LESS THAN 2 HOURS) or 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
 
 Mycophenolate Mofetil Capsules, Tablets, and Oral Suspension
 
@@ -50,15 +50,17 @@ Geriatrics
 
 The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1 g bid administered intravenously or 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS: Geriatric Use).
 
+Oral Suspension
+
 Dispense with patient instruction sheet and oral dispensers.
 It is recommended to write the date of expiration of the constituted suspension on the bottle label.
 (The shelf-life of the constituted suspension is 60 days.)
-
 After constitution the oral suspension contains 200 mg/mL mycophenolate mofetil.
 Store constituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 Storage in a refrigerator at 2° to 8°C (36° to 46°F) is acceptable.
 Do not freeze.
 Discard any unused portion 60 days after constitution.
+Infusion Solution
 
 If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 4 hours from reconstitution and dilution of the drug product.
 Keep solutions at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
@@ -78,7 +80,7 @@ If neutropenia develops (ANC <1.3 x 103/mcL), dosing with mycophenolate mofetil 
 
 HANDLING AND DISPOSAL
 
-Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits (see Pregnancy and WARNINGS: Embryofetal Toxicity).
+Mycophenolate mofetil has demonstrated teratogenic effects in humans (see Pregnancy and WARNINGS: Embryofetal Toxicity).
 Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in mycophenolate mofetil capsules and mycophenolate mofetil oral suspension (before or after constitution).
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.

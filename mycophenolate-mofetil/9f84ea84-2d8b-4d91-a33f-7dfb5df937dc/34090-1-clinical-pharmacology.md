@@ -240,13 +240,7 @@ Table 4 Renal Transplant Studies Incidence of Treatment Failure (Biopsy-proven R
 | Early termination without prior acute rejectionb | 11.5% | 22.5% | 7.2% |
 | Biopsy-proven rejection episode on treatment | 17.0% | 13.8% | 46.4% |
 
-a Antithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids.
-
-b Does not include death and graft loss as reason for early termination.
-
-c MMF or azathioprine/cyclosporine/corticosteroids.
-
-d MMF or placebo/cyclosporine/corticosteroids.
+a Antithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids. b Does not include death and graft loss as reason for early termination. c MMF or azathioprine/cyclosporine/corticosteroids. d MMF or placebo/cyclosporine/corticosteroids.
 
 The cumulative incidence of 12-month graft loss or patient death is presented below.
 No advantage of mycophenolate mofetil with respect to graft loss or patient death was established.
@@ -278,7 +272,6 @@ The two primary efficacy endpoints were: (1) the proportion of patients who, aft
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
 (1) Rejection: No difference was established between mycophenolate mofetil and azathioprine (AZA) with respect to biopsy-proven rejection with hemodynamic compromise.
-
 (2) Survival: Mycophenolate mofetil was shown to be at least as effective as AZA in preventing death or retransplantation at 1 year (see Table 6).
 
 Table 6 Rejection at 6 Months/Death or Retransplantation at 1 Year

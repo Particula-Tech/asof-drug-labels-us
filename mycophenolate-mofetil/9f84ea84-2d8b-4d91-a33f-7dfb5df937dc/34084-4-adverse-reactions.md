@@ -132,30 +132,7 @@ The following other opportunistic infections occurred with an incidence of less 
 
 In the placebo-controlled renal transplant study, the same pattern of opportunistic infection was observed compared to the azathioprine-controlled renal studies, with a notably lower incidence of the following: Herpes simplex and CMV tissue-invasive disease.
 
-In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients.
-
-Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing bacterial, fungal, protozoal and new or reactivated viral infections, including opportunistic infections.
-These infections may lead to serious, including fatal outcomes.
-Because of the danger of over suppression of the immune system which can increase susceptibility to infection, combination immunosuppressant therapy should be used with caution (see WARNINGS: Serious Infections).
-
-New or Reactivated Viral Infections (see WARNINGS: New or Reactivated Viral Infections): Polyomavirus associated nephropathy (PVAN), JC virus associated progressive multifocal leukoencephalopathy (PML), Cytomegalovirus (CMV) infections, reactivation of Hepatitis B (HBV) or Hepatitis C (HCV) have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
-Reduction in immunosuppression should be considered for patients who develop evidence of new or reactivated viral infections.
-Physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
-
-PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss (see ADVERSE REACTIONS: Postmarketing Experience).
-Patient monitoring may help detect patients at risk for PVAN.
-
-PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies, and ataxia.
-Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function (see ADVERSE REACTIONS: Postmarketing Experience).
-In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
-
-The risk of CMV viremia and CMV disease is highest among transplant recipients seronegative for CMV at time of transplant who receive a graft from a CMV seropositive donor.
-Therapeutic approaches to limiting CMV disease exist and should be routinely provided.
-Patient monitoring may help detect patients at risk for CMV disease.
-
-Viral reactivation has been reported in patients infected with HBV or HCV.
-Monitoring patients infected with hepatitis B or C for clinical and laboratory signs of active HBV or HCV infection is recommended.
-
+In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Serious Infections).
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil.
 
 The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
@@ -193,7 +170,7 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 Postmarketing Experience
 
-Congenital Disorders: Embryofetal Toxicity: Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
+Congenital Disorders: Embryofetal Toxicity: Congenital malformations, including ear, facial, cardiac and nervous system malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy).
 
 Digestive
 
@@ -201,15 +178,22 @@ Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of i
 
 Hematologic and Lymphatic
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+Cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
+Infections (see WARNINGS: Serious Infections, New or Reactivated Viral Infections):
 
 Infections
 
-Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
-Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
+• Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally
+
+• There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
+
+• Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
-BK virus-associated nephropathy has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
+
+• Polyomavirus associated neuropathy (PVAN), especially due to BK virus infection, has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+
+• Viral reactivation has been reported in patients infected with HBV or HCV.
 
 Respiratory
 
