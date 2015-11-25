@@ -2,13 +2,9 @@
 
 ## Dosage and Administration in Adults
 
-### Single Dose
+Single Dose Vaginal candidiasis: The recommended dosage of fluconazole for vaginal candidiasis is 150 mg as a single oral dose.
 
-Vaginal candidiasis: The recommended dosage of fluconazole for vaginal candidiasis is 150 mg as a single oral dose.
-
-### Multiple Dose
-
-SINCE ORAL ABSORPTION IS RAPID AND ALMOST COMPLETE, THE DAILY DOSE OF FLUCONAZOLE IS THE SAME FOR ORAL AND INTRAVENOUS ADMINISTRATION.
+Multiple Dose SINCE ORAL ABSORPTION IS RAPID AND ALMOST COMPLETE, THE DAILY DOSE OF FLUCONAZOLE IS THE SAME FOR ORAL AND INTRAVENOUS ADMINISTRATION.
 In general, a loading dose of twice the daily dose is recommended on the first day of therapy to result in plasma concentrations close to steady-state by the second day of therapy.
 The daily dose of fluconazole for the treatment of infections other than vaginal candidiasis should be based on the infecting organism and the patient’s response to therapy.
 Treatment should be continued until clinical parameters or laboratory tests indicate that active fungal infection has subsided.
@@ -48,8 +44,7 @@ No information regarding fluconazole pharmacokinetics in full-term newborns is a
 Oropharyngeal candidiasis: The recommended dosage of fluconazole for oropharyngeal candidiasis in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
 Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
 Esophageal candidiasis: For the treatment of esophageal candidiasis, the recommended dosage of fluconazole in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
-Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.
-Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
 Systemic Candida infections: For the treatment of candidemia and disseminated Candida infections, daily doses of 6 to 12 mg/kg/day have been used in an open, noncomparative study of a small number of children.
 Cryptococcal meningitis: For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
 A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient’s response to therapy.

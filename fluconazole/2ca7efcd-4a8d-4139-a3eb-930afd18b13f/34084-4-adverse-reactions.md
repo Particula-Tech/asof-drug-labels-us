@@ -31,9 +31,7 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking fluconazole concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-### Post-marketing Experience
-
-In addition, the following adverse events have occurred during post-marketing experience.
+Post-marketing Experience In addition, the following adverse events have occurred during post-marketing experience.
 Immunologic: In rare cases, anaphylaxis (including angioedema, face edema and pruritus) has been reported.
 Body as a Whole: Asthenia, fatigue, fever, malaise.
 Cardiovascular: QT prolongation, torsade de pointes.

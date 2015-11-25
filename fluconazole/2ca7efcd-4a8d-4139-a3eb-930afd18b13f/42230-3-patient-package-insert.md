@@ -70,7 +70,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - are allergic to any of the ingredients in fluconazole tablets.
   The main ingredient of fluconazole tablets is fluconazole.
-  If you need to know the inactive ingredients, ask your doctor or pharmacist
+  If you need to know the inactive ingredients, ask your doctor or pharmacst.
 
 Who should not take fluconazole?
 To avoid a possible serious reaction, do NOT take fluconazole if you are taking erythromycin, astemizole, pimozide, quinidine, and cisapride (Propulsid®) since it can cause changes in heartbeat in some people if taken with fluconazole.

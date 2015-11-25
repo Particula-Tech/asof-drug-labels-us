@@ -77,8 +77,7 @@ These results are consistent with the hypothesis that higher values for the phar
 
 ## Drug Interaction Studies
 
-Oral contraceptives: Oral contraceptives were administered as a single dose both before and after the oral administration of fluconazole 50 mg once daily for 10 days in 10 healthy women.
-There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.
+Oral contraceptives: Oral contraceptives were administered as a single dose both before and after the oral administration of fluconazole 50 mg once daily for 10 days in 10 healthy women.There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.
 The mean increase in ethinyl estradiol AUC was 6% (range: –47 to 108%) and levonorgestrel AUC increased 17% (range: –33 to 141%).
 In a second study, twenty-five normal females received daily doses of both 200 mg fluconazole tablets or placebo for two, ten-day periods.
 The treatment cycles were one month apart with all subjects receiving fluconazole during one cycle and placebo during the other.
@@ -197,9 +196,7 @@ Tofacitinib: Co-administration of fluconazole (400 mg on Day 1 and 200 mg once d
 
 ## Microbiology
 
-### Mechanism of Action
-
-Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase.
+Mechanism of Action Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase.
 This enzyme functions to convert lanosterol to ergosterol.
 The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
 Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
@@ -226,15 +223,21 @@ Resistance in C. krusei appears to be mediated by reduced sensitivity of the tar
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
 Such cases may require alternative antifungal therapy.
 
-### Susceptibility Testing Methods
+Susceptibility Testing Methods
 
-Cryptococcus neoformans and filamentous fungi No interpretive criteria have been established for Cryptococcus neoformans and filamentous fungi.
-Candida species Broth Dilution Techniques: Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
+Cryptococcus neoformans and filamentous fungi
+
+No interpretive criteria have been established for Cryptococcus neoformans and filamentous fungi.
+
+Candida species
+
+Broth Dilution Techniques: Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
 MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method (broth)1 with standardized inoculum concentrations of fluconazole powder.
 The MIC values should be interpreted according to the criteria provided in Table 1.
-Diffusion Techniques: Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
+
+Diffusion Techniques:Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 25 mcg of fluconazole to test the susceptibility of yeasts to fluconazole.
 Disk diffusion interpretive criteria are also provided in Table 1.
@@ -252,6 +255,7 @@ A report of Susceptible (S) indicates that the antimicrobial drug is likely to i
 A report of Intermediate (I) indicates that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
 
 A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
 Quality Control
 
 Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
