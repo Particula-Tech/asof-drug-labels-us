@@ -7,8 +7,7 @@ Patients could switch to oral therapy after a minimum of 4 days of IV treatment 
 Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of CUBICIN as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of CUBICIN adjusted.
 
-Table 11.
-Investigator's Primary Diagnosis in the cSSSI Trials (Population: Intent-to-Treat)
+Table 11: Investigator's Primary Diagnosis in the cSSSI Trials (Population: Intent-to-Treat)
 
 | Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |  |
 | --- | --- | --- | --- |
@@ -31,8 +30,7 @@ Clinical success rates in the CE population were 89.9% (214/238) in patients tre
 
 The success rates by pathogen for microbiologically evaluable patients are presented in Table 12.
 
-Table 12.
-Clinical Success Rates by Infecting Pathogen in the cSSSI Trials (Population: Microbiologically Evaluable)
+Table 12: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials (Population: Microbiologically Evaluable)
 
 | CUBICIN | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | --- | --- | --- |
@@ -83,12 +81,11 @@ The success rates in the PP population were 54.4% (43/79) in patients treated wi
 
 Adjudication Committee success rates are shown in Table 13.
 
-Table 13.
-Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial (Population: ITT)
+Table 13: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial (Population: ITT)
 
 | CUBICIN 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 | --- | --- | --- | --- |
-| Population | Success Rate n/N (%) |  | Difference: CUBICIN – Comparator (Confidence Interval) |
+| Population | Success Rate n/N (%) |  | Difference: CUBICIN–Comparator (Confidence Interval) |
 | Overall | 53/120 (44%) | 48/115 (42%) | 2.4% (−10.2, 15.1)95% Confidence Interval |
 | Baseline Pathogen |  |  |  |
 | Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity) |

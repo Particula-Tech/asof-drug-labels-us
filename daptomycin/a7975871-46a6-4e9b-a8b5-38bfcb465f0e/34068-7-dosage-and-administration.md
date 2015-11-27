@@ -16,11 +16,10 @@ In the Phase 3 trial, there were a total of 14 patients who were treated with CU
 
 ## 2.4 Patients with Renal Impairment
 
-The recommended dosage regimen for patients with creatinine clearance (CLCR) <30 mL/min, including patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 1).
+The recommended dosage regimen for patients with creatinine clearance (CLCR) less than 30 mL/min, including patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 1).
 When possible, CUBICIN should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-Table 1.
-Recommended Dosage of CUBICIN in Adult Patients
+Table 1: Recommended Dosage of CUBICIN in Adult Patients
 
 | cSSSI | S. aureus Bloodstream Infections |  |
 | --- | --- | --- |
@@ -33,12 +32,17 @@ Recommended Dosage of CUBICIN in Adult Patients
 CUBICIN is supplied in single-use vials, each containing 500 mg daptomycin as a sterile, lyophilized powder.
 The contents of a CUBICIN vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows:
 
-- Note: To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
-  1. Remove the polypropylene flip-off cap from the CUBICIN vial to expose the central portion of the rubber stopper.
-  2. Slowly transfer 10 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the CUBICIN vial, pointing the transfer needle toward the wall of the vial.
-  3. Ensure that all of the CUBICIN powder is wetted by gently rotating the vial.
-  4. Allow the wetted product to stand undisturbed for 10 minutes.
-  5. Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
+1. Note: To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
+2. 1.
+   Remove the polypropylene flip-off cap from the CUBICIN vial to expose the central portion of the rubber stopper.
+3. 2.
+   Slowly transfer 10 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the CUBICIN vial, pointing the transfer needle toward the wall of the vial.
+4. 3.
+   Ensure that all of the CUBICIN powder is wetted by gently rotating the vial.
+5. 4.
+   Allow the wetted product to stand undisturbed for 10 minutes.
+6. 5.
+   Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
 
 For intravenous (IV) injection over a period of 2 minutes, administer the appropriate volume of the reconstituted CUBICIN (concentration of 50 mg/mL).
 
@@ -63,7 +67,8 @@ CUBICIN is compatible with 0.9% sodium chloride injection and lactated Ringer's 
 
 CUBICIN is not compatible with dextrose-containing diluents.
 
-CUBICIN should not be used in conjunction with ReadyMED® elastomeric infusion pumps (Cardinal Health, Inc.). Stability studies of CUBICIN solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the CUBICIN solution.
+CUBICIN should not be used in conjunction with ReadyMED® elastomeric infusion pumps.
+Stability studies of CUBICIN solutions stored in ReadyMED® elastomeric infusion pumps identified an impurity (2-mercaptobenzothiazole) leaching from this pump system into the CUBICIN solution.
 
 Because only limited data are available on the compatibility of CUBICIN with other IV substances, additives and other medications should not be added to CUBICIN single-use vials or infusion bags, or infused simultaneously with CUBICIN through the same IV line.
 If the same IV line is used for sequential infusion of different drugs, the line should be flushed with a compatible intravenous solution before and after infusion with CUBICIN.

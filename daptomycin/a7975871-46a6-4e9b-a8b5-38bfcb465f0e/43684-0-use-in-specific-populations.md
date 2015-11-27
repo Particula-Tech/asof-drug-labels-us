@@ -19,7 +19,7 @@ Caution should be exercised when CUBICIN is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of CUBICIN in pediatric patients have not been established.
-Avoid use of CUBICIN in pediatric patients younger than 12 months due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions 5.5, and Nonclinical Toxicology (13.2)].
+Avoid use of CUBICIN in pediatric patients younger than 12 months due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 

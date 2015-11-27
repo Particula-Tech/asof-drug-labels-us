@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Daptomycin is an antibacterial drug [see Microbiology (12.4)].
+Daptomycin is an antibacterial drug [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -15,10 +15,9 @@ CUBICIN Administered over a 30-Minute Period
 
 The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of CUBICIN over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 7.
 
-Table 7.
-Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Volunteers at Steady-State
+Table 7: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Volunteers at Steady-State
 
-| AUC0-24 (mcg•h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |
+| AUC0-24 (mcg∙h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |
 | --- | --- | --- | --- | --- | --- |
 | DoseCUBICIN was administered by IV infusion over a 30-minute period.Doses of CUBICIN in excess of 6 mg/kg have not been approved. (mg/kg) | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
 | 4 (N=6) | 494 (75) | 8.1 (1.0) | 0.096 (0.009) | 8.3 (1.3) | 57.8 (3.0) |
@@ -33,7 +32,7 @@ The mean (SD) steady-state trough concentrations attained following the administ
 
 CUBICIN Administered over a 2-Minute Period
 
-Following IV administration of CUBICIN over a 2-minute period to healthy volunteers at doses of 4 mg/kg (N=8) and 6 mg/kg (N=12), the mean (SD) steady-state systemic exposure (AUC) values were 475 (71) and 701 (82) mcg•h/mL, respectively.
+Following IV administration of CUBICIN over a 2-minute period to healthy volunteers at doses of 4 mg/kg (N=8) and 6 mg/kg (N=12), the mean (SD) steady-state systemic exposure (AUC) values were 475 (71) and 701 (82) mcg∙h/mL, respectively.
 Values for maximum plasma concentration (Cmax) at the end of the 2-minute period could not be determined adequately in this study.
 However, using pharmacokinetic parameters from 14 healthy volunteers who received a single dose of CUBICIN 6 mg/kg IV administered over a 30-minute period in a separate study, steady-state Cmax values were simulated for CUBICIN 4 and 6 mg/kg IV administered over a 2-minute period.
 The simulated mean (SD) steady-state Cmax values were 77.7 (8.1) and 116.6 (12.2) mcg/mL, respectively.
@@ -76,10 +75,9 @@ The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAP
 The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 mcg/mL.
 After administration of CUBICIN 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 
-Table 8.
-Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of CUBICIN 4 mg/kg or 6 mg/kg to Infected Patients and Noninfected Subjects with Various Degrees of Renal Function
+Table 8: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of CUBICIN 4 mg/kg or 6 mg/kg to Infected Patients and Noninfected Subjects with Various Degrees of Renal Function
 
-| t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. (h) 4 mg/kg | Vss (L/kg) 4 mg/kg | CLT (mL/h/kg) 4 mg/kg | AUC0-∞ (mcg•h/mL) 4 mg/kg | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. (mcg•h/mL) 6 mg/kg | Cmin,ss (mcg/mL) 6 mg/kg |  |
+| t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. (h) 4 mg/kg | Vss (L/kg) 4 mg/kg | CLT (mL/h/kg) 4 mg/kg | AUC0-∞ (mcg∙h/mL) 4 mg/kg | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. (mcg∙h/mL) 6 mg/kg | Cmin,ss (mcg/mL) 6 mg/kg |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Renal Function | Pharmacokinetic ParametersCLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. |  |  |  |  |  |
 | Normal (CLCR >80 mL/min) | 9.39 (4.74) N=165 | 0.13 (0.05) N=165 | 10.9 (4.0) N=165 | 417 (155) N=165 | 545 (296) N=62 | 6.9 (3.5) N=61 |
@@ -197,7 +195,6 @@ Activity In Vitro and In Vivo
 Daptomycin has been shown to be active against most isolates of the following Gram-positive bacteria both in vitro and in clinical infections, as described in Indications and Usage (1).
 
 - Gram-Positive Bacteria
-
 - Enterococcus faecalis (vancomycin-susceptible isolates only)
 - Staphylococcus aureus (including methicillin-resistant isolates)
 - Streptococcus agalactiae
@@ -209,7 +206,6 @@ At least 90% of the following Gram-positive bacteria exhibit an in vitro minimum
 However, the efficacy of CUBICIN in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
 - Gram-Positive Bacteria
-
 - Corynebacterium jeikeium
 - Enterococcus faecalis (vancomycin-resistant isolates)
 - Enterococcus faecium (including vancomycin-resistant isolates)
@@ -229,8 +225,7 @@ The MICs should be determined using a standardized broth test method2,3 with the
 The use of the agar dilution method is not recommended with daptomycin3.
 The MICs should be interpreted according to the criteria listed in Table 9.
 
-Table 9.
-Susceptibility Interpretive Criteria for Daptomycin
+Table 9: Susceptibility Interpretive Criteria for Daptomycin
 
 | S | I | R |  |
 | --- | --- | --- | --- |
@@ -252,8 +247,7 @@ Quality Control
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test2,3.
 Standard daptomycin powder should provide the ranges of MIC values noted in Table 10.
 
-Table 10.
-Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results
+Table 10: Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results
 
 | Quality Control Strain | Broth Dilution MIC RangeThe quality control ranges for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the quality control range for Streptococcus pneumoniae is applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (mcg/mL) |
 | --- | --- |

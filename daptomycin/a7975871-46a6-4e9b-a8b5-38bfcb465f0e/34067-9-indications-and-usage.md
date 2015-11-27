@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-CUBICIN is indicated for the treatment of the infections listed below.
+CUBICIN® is indicated for the treatment of the infections listed below.
 
 ## 1.1 Complicated Skin and Skin Structure Infections
 

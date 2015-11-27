@@ -1,9 +1,11 @@
 CUBICIN® (daptomycin for injection)
 
-CUBICIN is a registered trademark of Cubist Pharmaceuticals, Inc. All other trademarks are property of their respective owners.
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Distributed by:
+For patent information: www.merck.com/product/patent/home.html
 
-Cubist Pharmaceuticals U.S. Lexington, MA 02421 USA
+The trademarks depicted herein are owned by their respective companies.
 
-uspi-mk3009-i-1509r001
+Copyright © 2015 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+uspi-mk3009-i-1511r002

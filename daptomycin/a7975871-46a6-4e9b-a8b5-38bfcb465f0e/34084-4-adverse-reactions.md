@@ -2,11 +2,11 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- -Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- -Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
-- -Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- -Peripheral neuropathy [see Warnings and Precautions (5.4)]
-- -Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug-Laboratory Test Interactions (7.2)]
+1. -Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
+2. -Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
+3. -Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
+4. -Peripheral neuropathy [see Warnings and Precautions (5.4)]
+5. -Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug Interactions (7.2)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,8 +20,7 @@ In Phase 3 complicated skin and skin structure infection (cSSSI) trials, CUBICIN
 
 The rates of the most common adverse reactions, organized by body system, observed in cSSSI (4 mg/kg CUBICIN) patients are displayed in Table 4.
 
-Table 4.
-Incidence of Adverse Reactions that Occurred in ≥2% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
+Table 4: Incidence of Adverse Reactions that Occurred in ≥2% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | CUBICIN 4 mg/kg (N=534) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=558) |  |
 | --- | --- | --- |
@@ -74,8 +73,7 @@ Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal o
 
 The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in S. aureus bacteremia/endocarditis (6 mg/kg CUBICIN) patients are displayed in Table 5.
 
-Table 5.
-Incidence of Adverse Reactions that Occurred in ≥5% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Table 5: Incidence of Adverse Reactions that Occurred in ≥5% of Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
 | CUBICIN 6 mg/kg (N=120) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. (N=116) |  |
 | --- | --- | --- |
@@ -142,8 +140,7 @@ Of the 534 patients treated with CUBICIN, 1 (0.2%) had symptoms of muscle pain o
 The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 days after treatment was discontinued [see Warnings and Precautions (5.2)].
 Table 6 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI trials.
 
-Table 6.
-Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Trials
+Table 6: Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | % | n | % | n | % | n | % | n |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
