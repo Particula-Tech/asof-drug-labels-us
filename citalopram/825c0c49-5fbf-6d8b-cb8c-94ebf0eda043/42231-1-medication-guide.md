@@ -247,4 +247,4 @@ Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, Indi
 
 75057532
 
-REVISED AUGUST 2015 MX:CTLP:R6mmh/MX:MG:CTLP:R3m/MX:MG:CTLP:R3mh
+REVISED OCTOBER 2015 MX:CTLP:R7mmh/MX:MG:CTLP:R3m/MX:MG:CTLP:R3mh
