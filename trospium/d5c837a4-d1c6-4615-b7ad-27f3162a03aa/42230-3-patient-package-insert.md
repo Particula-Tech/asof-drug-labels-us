@@ -99,7 +99,7 @@ It may harm them.
 This leaflet summarizes the most important information about trospium chloride tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about trospium chloride tablets that is written for health professionals.
-You can also call Glenmark Generics Inc., USA at 1 (888)721-7115 or visit www.glenmarkgenerics.com.
+You can also call Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
 
 What are the ingredients in trospium chloride tablets?
 
@@ -111,15 +111,13 @@ Rx only
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-www.glenmarkgenerics.com
-
-August 2013
+December 2014
