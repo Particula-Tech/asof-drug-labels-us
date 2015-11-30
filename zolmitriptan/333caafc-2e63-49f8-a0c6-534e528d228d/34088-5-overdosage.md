@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 There is no experience with acute overdose of zolmitriptan.
-Clinical study subjects who received single 50 mg oral doses of zolmitriptan commonly experienced sedation.
+Clinical study subjects who received single 50 mg oral doses of zolmitriptancommonly experienced sedation.
 
 There is no specific antidote to zolmitriptan.
 In cases of severe intoxication, intensive care procedures are recommended, including establishing and maintaining a patent airway, ensuring adequate oxygenation and ventilation, and monitoring and support of the cardiovascular system.

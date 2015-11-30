@@ -119,7 +119,7 @@ This leaflet summarizes the most important information about zolmitriptan tablet
 If you would like more information about zolmitriptan tablets, talk to your doctor.
 You can ask your doctor or pharmacist for information on zolmitriptan tablets that is written for healthcare professionals.
 
-You can also call 1(888)721-7115 or visit our website at www.glenmarkgenerics.com.
+You can also call 1(888)721-7115.
 
 ## What are the ingredients in zolmitriptan tablets?
 
@@ -135,21 +135,23 @@ Protect from light and moisture.
 Discard when expired.
 
 Other brands mentioned are trademarks of their respective owners.
-The makers of these brands are not affiliated with Glenmark Generics Ltd. or its products.
+The makers of these brands are not affiliated with Glenmark Pharmaceuticals Ltd. or its products.
 
 Manufactured by:
 
-Glenmark Generics Ltd.
+Glenmark Pharmaceuticals Ltd.
 
 Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA
+
+Mahwah, NJ 07430
 
 Questions?
 1 (888)721-7115
 
-www.glenmarkgenerics.com
+www.glenmarkpharma.com/usa
 
-March 2013
+December 2014
