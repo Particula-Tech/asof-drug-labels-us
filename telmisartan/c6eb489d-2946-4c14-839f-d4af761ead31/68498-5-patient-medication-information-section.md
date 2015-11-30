@@ -137,7 +137,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about telmisartan tablets that is written for health professionals.
 
-For more information, call Glenmark Generics Inc., USA at 1 (888)721-7115 or visit www.glenmarkgenerics.com.
+For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
 
 What are the ingredients in telmisartan tablets USP?
 
@@ -168,14 +168,14 @@ Push (Push the tablet through the foil)
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
 January 2015
 
