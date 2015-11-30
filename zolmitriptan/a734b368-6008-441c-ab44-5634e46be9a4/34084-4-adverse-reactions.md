@@ -60,7 +60,7 @@ There were insufficient data to assess the impact of race on the incidence of ad
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical reactions are presented.
 Because the reports include reactions observed in open and uncontrolled studies, the role of zolmitriptan in their causation cannot be reliably determined.
 Furthermore, variability associated with adverse reaction reporting, the terminology used to describe adverse reactions, etc., limit the value of the quantitative frequency estimates provided.
-Adverse reaction frequencies were calculated as the number of patients who used zolmitriptan tablets and reported a reaction divided by the total number of patients exposed to zolmitriptan tablets (n=4,027).
+Adverse reaction frequencies were calculated as the number of patients who used zolmitriptan tablets and reported a reaction divided by the total number of patients exposed to zolmitriptan tablets(n=4,027).
 Reactions were further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: infrequent adverse reactions (those occurring in 1/100 to 1/1,000 patients) and rare adverse reactions (those occurring in less than 1/1,000 patients).
 
 General: Infrequent were allergic reactions.
