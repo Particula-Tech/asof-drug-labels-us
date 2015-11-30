@@ -12,7 +12,7 @@
   The dose window shows the number of insulin units to be delivered and no conversion is needed.
 - Do NOT mix HUMALOG U-200 with any other insulins.
 - Do NOT administer HUMALOG U-200 using a continuous subcutaneous infusion pump (i.e., insulin pump).
-- Do NOT administer HUMALOG U200 intravenously.
+- Do NOT administer HUMALOG U-200 intravenously.
 
 ## 2.2 Route of Administration
 
@@ -22,19 +22,19 @@ Subcutaneous Injection: HUMALOG U-100 or U-200
   To reduce the risk of lipodystrophy, rotate the injection site within the same region from one injection to the next [see Adverse Reactions (6)].
 - HUMALOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
 
-Continuous Subcutaneous Infusion (Insulin Pump); HUMALOG U-100 ONLY
+Continuous Subcutaneous Infusion (Insulin Pump): HUMALOG U-100 ONLY
 
 - Do NOT administer HUMALOG U-200 using a continuous subcutaneous infusion pump.
 - Administer HUMALOG U-100 by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
-- Follow healthcare provider recommendations when setting basal and meal time infusion rate.
+- Follow healthcare professional recommendations when setting basal and meal time infusion rate.
 - Do NOT dilute or mix HUMALOG U-100 when administering by continuous subcutaneous infusion.
 - Change HUMALOG U-100 in the pump reservoir at least every 7 days.
 - Change the infusion sets and the infusion set insertion site at least every 3 days.
 - Do NOT expose HUMALOG U-100 in the pump reservoir to temperatures greater than 98.6°F (37°C).
 - Use HUMALOG U-100 in pump systems suitable for insulin infusion [see Patient Counseling Information (17.7)].
 
-Intravenous Administration; HUMALOG U-100 ONLY
+Intravenous Administration: HUMALOG U-100 ONLY
 
 - Do NOT administer HUMALOG U-200 intravenously.
 - Dilute HUMALOG U-100 to concentrations from 0.1 unit/mL to 1.0 unit/mL using 0.9% sodium chloride.

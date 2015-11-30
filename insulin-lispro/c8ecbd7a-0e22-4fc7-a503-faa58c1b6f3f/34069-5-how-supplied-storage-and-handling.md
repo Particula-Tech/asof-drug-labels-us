@@ -33,7 +33,7 @@ See table below:
 | --- | --- | --- | --- |
 | HUMALOG U-100 |  |  |  |
 | 10 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
-| 3 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature |
+| 3 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL cartridge | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | 3 mL Humalog KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | HUMALOG U-200 |  |  |  |

@@ -71,11 +71,9 @@ If these problems cannot be promptly corrected, patients should resume therapy w
 
 ____________
 
-1 3 mL cartridge is for use in Eli Lilly and Company's HumaPen® Memoir™ and HumaPen® Luxura® HD insulin delivery devices, Owen Mumford, Ltd.'s Autopen® 3-mL insulin delivery device and Disetronic D-TRON® and D-TRON® Plus pumps.
+1 3 mL cartridge is for use in Eli Lilly and Company's HumaPen® Luxura® HD insulin delivery device, Disetronic D-TRON® and D-TRON® Plus pumps.
 
-Autopen® is a registered trademark of Owen Mumford, Ltd.
-
-Humalog®, Humalog KwikPen®, HumaPen®, HumaPen® Memoir™, HumaPen® Luxura® and HumaPen® Luxura® HD are trademarks of Eli Lilly and Company.
+Humalog®, Humalog KwikPen®, HumaPen®, HumaPen® Luxura® and HumaPen® Luxura® HD are registered trademarks of Eli Lilly and Company.
 
 2 Disetronic®, H-Tron®, D-Tron®, and D-Tronplus® are registered trademarks of Roche Diagnostics GmbH.
 
@@ -83,7 +81,7 @@ Humalog®, Humalog KwikPen®, HumaPen®, HumaPen® Memoir™, HumaPen® Luxura®
 
 Other product and company names may be the trademarks of their respective owners.
 
-Literature revised May 26, 2015
+Literature revised November 16, 2015
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -92,4 +90,4 @@ www.humalog.com
 Copyright © 1996, 2015, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0003-USPI-20150526
+LOG-0004-USPI-20151116

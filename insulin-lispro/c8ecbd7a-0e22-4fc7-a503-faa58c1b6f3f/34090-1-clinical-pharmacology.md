@@ -53,7 +53,7 @@ The maximum glucose infusion rate was 534 mg/min and 559 mg/min and the correspo
 Absorption and Bioavailability — Studies in healthy volunteers and patients with diabetes demonstrated that HUMALOG is absorbed more quickly than regular human insulin.
 In healthy volunteers given subcutaneous doses of HUMALOG ranging from 0.1 to 0.4 unit/kg, peak serum levels were seen 30 to 90 minutes after dosing.
 When healthy volunteers received equivalent doses of regular human insulin, peak insulin levels occurred between 50 to 120 minutes after dosing.
-Similar results were seen in patients with type 1 diabetes (see Figure 3).
+Similar results were seen in patients with type 1 diabetes (see Figure 2).
 
 a Baseline insulin concentration was maintained by infusion of 0.2 mU/min/kg human insulin.
 
