@@ -20,13 +20,13 @@
 
 Manufactured by:
 
-Glenmark Generics Limited Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 0743
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 0743
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-November 2014
+February 2015
