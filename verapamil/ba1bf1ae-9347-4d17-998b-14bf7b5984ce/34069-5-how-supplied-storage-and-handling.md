@@ -58,4 +58,4 @@ Protect from light and moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-You may report side effects to FDA at 1-800-FDA-1088 or Glenmark Generics Inc.,USA at 1 (888)721-7115.
+You may report side effects to FDA at 1-800-FDA-1088 or Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
