@@ -4,11 +4,11 @@ Dispense in a tight, light-resistant container.
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com October 2008
+1 (888)721-7115 www.glenmarkpharma.com/usa September 2014
