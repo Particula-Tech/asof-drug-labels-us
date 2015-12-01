@@ -20,7 +20,7 @@ Animal Data
 A central function of the PD-1/PD-L1 pathway is to preserve pregnancy by maintaining maternal immune tolerance to the fetus.
 Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the fetus and to increase fetal loss.
 The effects of nivolumab on prenatal and postnatal development were evaluated in monkeys that received nivolumab twice weekly from the onset of organogenesis through delivery, at exposure levels of between 9 and 42 times higher than those observed at the clinical dose of 3 mg/kg of nivolumab (based on AUC).
-Nivolumab administration resulted in a non-dose-related increase in spontaneous abortion and increased neonatal death.
+Nivolumab administration resulted in a non–dose-related increase in spontaneous abortion and increased neonatal death.
 Based on its mechanism of action, fetal exposure to nivolumab may increase the risk of developing immune-mediated disorders or altering the normal immune response and immune-mediated disorders have been reported in PD-1 knockout mice.
 In surviving infants (18 of 32 compared to 11 of 16 vehicle-exposed infants) of cynomolgus monkeys treated with nivolumab, there were no apparent malformations and no effects on neurobehavioral, immunological, or clinical pathology parameters throughout the 6-month postnatal period.
 
@@ -29,7 +29,7 @@ In surviving infants (18 of 32 compared to 11 of 16 vehicle-exposed infants) of 
 ### Risk Summary
 
 It is not known whether OPDIVO is present in human milk.
-Because many drugs, including antibodies are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from OPDIVO, advise women to discontinue breastfeeding during treatment with OPDIVO.
+Because many drugs, including antibodies, are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from OPDIVO, advise women to discontinue breastfeeding during treatment with OPDIVO.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -46,6 +46,8 @@ The safety and effectiveness of OPDIVO have not been established in pediatric pa
 
 Of the 272 patients randomized to OPDIVO in Trial 1, 35% of patients were 65 years or older and 15% were 75 years or older.
 Of the 292 patients randomized to OPDIVO in Trial 3, 37% of patients were 65 years or older and 7% were 75 years or older.
+Of the 210 patients randomized to OPDIVO in Trial 5, 50% of patients were 65 years or older and 13% were 75 years or older.
+Of the 406 patients treated with OPDIVO in Trial 6, 37% of patients were 65 years or older and 8% were 75 years or older.
 In these trials, no overall differences in safety or efficacy were reported between elderly patients and younger patients.
 Trial 4, OPDIVO in combination with ipilimumab, did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 

@@ -2,12 +2,12 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients of the risk of immune-mediated adverse reactions that may require corticosteroid treatment and interruption or discontinuation of OPDIVO, including:
+Inform patients of the risk of immune-mediated adverse reactions that may require corticosteroid treatment and withholding or discontinuation of OPDIVO, including:
 
 - •Pneumonitis: Advise patients to contact their healthcare provider immediately for any new or worsening cough, chest pain, or shortness of breath [see Warnings and Precautions (5.1)].
 - •Colitis: Advise patients to contact their healthcare provider immediately for diarrhea or severe abdominal pain [see Warnings and Precautions (5.2)].
 - •Hepatitis: Advise patients to contact their healthcare provider immediately for jaundice, severe nausea or vomiting, pain on the right side of abdomen, lethargy, or easy bruising or bleeding [see Warnings and Precautions (5.3)].
-- •Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, adrenal insufficiency, hypothyroidism, and hyperthyroidism [see Warnings and Precautions (5.4)].
+- •Endocrinopathies: Advise patients to contact their healthcare provider immediately for signs or symptoms of hypophysitis, adrenal insufficiency, hypothyroidism, hyperthyroidism, and diabetes mellitus [see Warnings and Precautions (5.4)].
 - •Nephritis and Renal Dysfunction: Advise patients to contact their healthcare provider immediately for signs or symptoms of nephritis including decreased urine output, blood in urine, swelling in ankles, loss of appetite, and any other symptoms of renal dysfunction [see Warnings and Precautions (5.5)].
 - •Rash: Advise patients to contact their healthcare provider immediately for rash [see Warnings and Precautions (5.6)].
 - •Encephalitis: Advise patients to contact their healthcare provider immediately for neurological signs or symptoms of encephalitis [see Warnings and Precautions (5.7)].
@@ -18,4 +18,4 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA U.S. License No. 1713
 
-1321663A2
+1363787

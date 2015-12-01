@@ -5,15 +5,19 @@
 - •The recommended dose of OPDIVO administered as a single agent is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 - •The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 60 minutes, followed by ipilimumab on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.1)].
   The recommended subsequent dose of OPDIVO, as a single agent, is 3 mg/kg as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
-- Review the Full Prescribing Information for ipilimumab prior to initiation.
+  Review the Full Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.2 Recommended Dosage for NSCLC
 
 The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.3 Dose Modifications
+## 2.3 Recommended Dosage for RCC
 
-Guidelines for treatment modifications are provided in Table 1.
+The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+
+## 2.4 Dose Modifications
+
+Recommendations for OPDIVO modifications are provided in Table 1.
 
 There are no recommended dose modifications for hypothyroidism or hyperthyroidism.
 
@@ -37,11 +41,13 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Grade 4 hypophysitis | Permanently discontinue |  |
 | Adrenal Insufficiency | Grade 2 adrenal insufficiency | Withhold dosea |
 | Grade 3 or 4 adrenal insufficiency | Permanently discontinue |  |
+| Type 1 Diabetes Mellitus | Grade 3 hyperglycemia | Withhold dosea |
+| Grade 4 hyperglycemia | Permanently discontinue |  |
 | Nephritis and Renal Dysfunction | Serum creatinine more than 1.5 and up to 6 times the upper limit of normal | Withhold dosea |
 | Serum creatinine more than 6 times the upper limit of normal | Permanently discontinue |  |
 | Rash | Grade 3 rash | Withhold dosea |
 | Grade 4 rash | Permanently discontinue |  |
-| Encephalitis | New onset moderate or severe neurologic signs or symptoms | Withhold dosea |
+| Encephalitis | New-onset moderate or severe neurologic signs or symptoms | Withhold dosea |
 | Immune-mediated encephalitis | Permanently discontinue |  |
 | Other | Other Grade 3 adverse reaction |  |
 | First occurrence | Withhold dosea |  |
@@ -53,7 +59,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
 
-## 2.4 Preparation and Administration
+## 2.5 Preparation and Administration
 
 Visually inspect drug product solution for particulate matter and discoloration prior to administration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.

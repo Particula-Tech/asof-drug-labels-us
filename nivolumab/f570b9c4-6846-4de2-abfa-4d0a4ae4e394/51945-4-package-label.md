@@ -8,7 +8,7 @@ Opdivo® (nivolumab) injection
 
 40 mg/4 mL (10 mg/mL)
 
-For intravenous Infusion Only Single-use vial; Discard unused portion.
+For intravenous Infusion Only Single-dose vial; Discard unused portion.
 Please provide enclosed Medication Guide to the patient.
 
 Bristol-Myers Squibb
@@ -21,7 +21,7 @@ Opdivo® (nivolumab) injection
 
 100 mg/10 mL (10 mg/mL)
 
-For intravenous Infusion Only Single-use vial; Discard unused portion.
+For intravenous Infusion Only Single-dose vial; Discard unused portion.
 Please provide enclosed Medication Guide to the patient.
 
 Bristol-Myers Squibb

@@ -19,7 +19,7 @@ The geometric mean (% coefficient of variation [CV%]) clearance (CL) is 9.5 mL/h
 Steady-state concentrations of nivolumab were reached by 12 weeks when administered at 3 mg/kg every 2 weeks, and systemic accumulation was approximately 3-fold.
 The exposure to nivolumab increased dose proportionally over the dose range of 0.1 to 10 mg/kg administered every 2 weeks.
 
-OPDIVO in combination with ipilimumab: The geometric mean (%CV) CL, Vss, and terminal half-life of nivolumab were 10.0 mL/h (50.3%), 7.92 L (30.1%), and 24.8 days (94.3%), respectively.
+OPDIVO in combination with ipilimumab: The geometric mean (CV%) CL, Vss, and terminal half-life of nivolumab were 10.0 mL/h (50.3%), 7.92 L (30.1%), and 24.8 days (94.3%), respectively.
 When administered in combination, the CL of nivolumab was increased by 24%, whereas there was no effect on the clearance of ipilimumab.
 
 When administered in combination, the clearance of nivolumab increased by 42% in the presence of anti-nivolumab antibodies.
