@@ -51,24 +51,24 @@ The following table will help you compare the efficacy of different methods.
 WARNING: If you have sudden or severe pain in your lower abdomen or stomach area, you may have an ectopic pregnancy or an ovarian cyst.
 If this happens, you should contact your doctor or clinic immediately.
 
-1. 1.Ectopic pregnancy.
-   An ectopic pregnancy is a pregnancy outside the womb.
-   Because POPs protect against pregnancy, the chance of having a pregnancy outside the womb is very low.
-   If you do get pregnant while taking POPs, you have slightly higher chance that the pregnancy will be ectopic than do users of some other birth control methods.
-2. 2.Ovarian cysts.
-   These cysts are small sacs of fluid in the ovary.
-   They are more common among POP users than among users of most other birth control methods.
-   They usually disappear without treatment and rarely cause problems.
-3. 3.Cancer of the reproductive organs and breasts.
-   Some studies in women who use combined oral contraceptives that contain both estrogen and a progestin have reported an increase in the risk of developing breast cancer, particularly at a younger age and apparently related to duration of use.
-   There is insufficient data to determine whether the use of POPs similarly increases this risk.
-   Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
-   However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix.
-4. 4.Liver tumors.
-   In rare cases, combined oral contraceptives can cause benign but dangerous liver tumors.
-   These benign liver tumors can rupture and cause fatal internal bleeding.
-   In addition, a possible but not definite association has been found with combined oral contraceptives and liver cancers in studies in which a few women who developed these very rare cancers were found to have used combined oral contraceptives for long periods of time.
-   There is insufficient data to determine whether POPs increase the risk of liver tumors.
+- 1.Ectopic pregnancy.
+  An ectopic pregnancy is a pregnancy outside the womb.
+  Because POPs protect against pregnancy, the chance of having a pregnancy outside the womb is very low.
+  If you do get pregnant while taking POPs, you have slightly higher chance that the pregnancy will be ectopic than do users of some other birth control methods.
+- 2.Ovarian cysts.
+  These cysts are small sacs of fluid in the ovary.
+  They are more common among POP users than among users of most other birth control methods.
+  They usually disappear without treatment and rarely cause problems.
+- 3.Cancer of the reproductive organs and breasts.
+  Some studies in women who use combined oral contraceptives that contain both estrogen and a progestin have reported an increase in the risk of developing breast cancer, particularly at a younger age and apparently related to duration of use.
+  There is insufficient data to determine whether the use of POPs similarly increases this risk.
+  Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
+  However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix.
+- 4.Liver tumors.
+  In rare cases, combined oral contraceptives can cause benign but dangerous liver tumors.
+  These benign liver tumors can rupture and cause fatal internal bleeding.
+  In addition, a possible but not definite association has been found with combined oral contraceptives and liver cancers in studies in which a few women who developed these very rare cancers were found to have used combined oral contraceptives for long periods of time.
+  There is insufficient data to determine whether POPs increase the risk of liver tumors.
 
 ## SEXUALLY TRANSMITTED DISEASES (STDS)
 
@@ -76,13 +76,13 @@ WARNING: POPs do not protect against getting or giving someone HIV (AIDS) or any
 
 ## SIDE EFFECTS
 
-1. 1.Irregular bleeding.
-   The most common side effect of POPs is a change in menstrual bleeding.
-   Your periods may be either early or late, and you may have some spotting between periods.
-   Taking pills late or missing pills can also result in some spotting or bleeding.
-2. 2.Other side effects.
-   Less common side effects include headaches, tender breasts, nausea and dizziness.
-   Weight gain, acne and extra hair on your face and body have been reported, but are rare.
+- 1.Irregular bleeding.
+  The most common side effect of POPs is a change in menstrual bleeding.
+  Your periods may be either early or late, and you may have some spotting between periods.
+  Taking pills late or missing pills can also result in some spotting or bleeding.
+- 2.Other side effects.
+  Less common side effects include headaches, tender breasts, nausea and dizziness.
+  Weight gain, acne and extra hair on your face and body have been reported, but are rare.
 
 If you are concerned about any of these side effects, check with your doctor or clinic.
 
@@ -163,8 +163,8 @@ Even though research has shown that POPs do not cause harm to the unborn baby, i
 
 You should get a pregnancy test:
 
-1. 1.If your period is late and you took one or more pills late or missed taking them and had sex without a backup method.
-2. 2.Anytime you miss 2 periods in a row.
+- 1.If your period is late and you took one or more pills late or missed taking them and had sex without a backup method.
+- 2.Anytime you miss 2 periods in a row.
 
 ## WILL POPS AFFECT YOUR ABILITY TO GET PREGNANT LATER?
 
@@ -201,13 +201,13 @@ You may check the date of the most recent revision by phoning the manufacturer t
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-March 2012
+October 2014

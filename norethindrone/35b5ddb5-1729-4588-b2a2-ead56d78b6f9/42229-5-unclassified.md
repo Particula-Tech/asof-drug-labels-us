@@ -4,13 +4,13 @@ Patients should be counseled that oral contraceptives do not protect against tra
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115 www.glenmarkpharma.com/usa
 
-March 2012
+October 2014
