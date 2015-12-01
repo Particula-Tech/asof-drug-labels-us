@@ -1,35 +1,33 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular thrombotic events [see Boxed Warning and Warnings and Precautions (5.1)]
-- Gastrointestinal effects [see Boxed Warning and Warnings and Precautions (5.2)]
-- Hepatic effects [see Warnings and Precautions (5.3)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
-- Congestive heart failure and edema [see Warnings and Precautions (5.5)]
-- Renal effects [see Warnings and Precautions (5.6)]
-- Anaphylactoid reactions [see Warnings and Precautions (5.7)]
-- Serious skin reactions [see Warnings and Precautions (5.8)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [see Warnings and Precautions (5.11)]
 
-The most common adverse reactions reported in clinical studies are nausea, flatulence, vomiting, and headache.
-
-The most common reason for discontinuation due to adverse events in controlled trials of Caldolor is pruritus (<1%).
-
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be compared directly to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-During clinical development, 560 patients were exposed to Caldolor, 438 in pain and 122 with fever.
-In the pain studies, Caldolor was started intra-operatively and administered at a dose of 400 mg or 800 mg every six hours for up to three days.
-In the fever studies, Caldolor was administered at doses of 100 mg, 200 mg, or 400 mg every four or six hours for up to 3 days.
+Adult Population
 
+During clinical development, 560 patients were exposed to CALDOLOR, 438 in pain and 122 with fever.
+In the pain studies, CALDOLOR was started intra-operatively and administered at a dose of 400 mg or 800 mg every six hours for up to three days.
+In the fever studies, CALDOLOR was administered at doses of 100 mg, 200 mg, or 400 mg every four or six hours for up to 3 days.
 The most frequent type of adverse reaction occurring with oral ibuprofen is gastrointestinal.
 
 Pain Studies
 
-The incidence rates of adverse reactions listed in the following table were derived from multi-center, controlled clinical studies in post-operative patients comparing Caldolor to placebo in patients also receiving morphine as needed for post-operative pain.
+The incidence rates of adverse reactions listed in the following table were derived from multi-center, controlled clinical studies in post-operative patients comparing CALDOLOR to placebo in patients also receiving morphine as needed for post-operative pain.
 
-Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Patients in any Caldolor Treatment Group in Pain Studies*
+Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Patients in any CALDOLOR Treatment Group in Pain Studies*
 
 | Event | Caldolor |  | Placebo (N=287) |
 | --- | --- | --- | --- |
@@ -55,15 +53,15 @@ Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Pa
 Fever Studies
 
 Fever studies were conducted in febrile hospitalized patients with malaria and febrile hospitalized patients with varying causes of fever.
-In hospitalized febrile patients with malaria, the adverse reactions observed in at least two Caldolor-treated patients included abdominal pain and nasal congestion.
+In hospitalized febrile patients with malaria, the adverse reactions observed in at least two CALDOLOR-treated patients included abdominal pain and nasal congestion.
 
 In hospitalized febrile patients (all causes), adverse reactions observed in more than two patients in any given treatment group are presented in the table below.
 
-Table 2: Patients with Adverse Reactions Observed in ≥ 3% of Patients in any Caldolor Treatment Group in All-Cause Fever Study
+Table 2: Patients with Adverse Reactions Observed in ≥ 3% of Patients in any CALDOLOR Treatment Group in All-Cause Fever Study
 
 | 100 mg N=30 | 200 mg N=30 | 400 mg N=31 |  |  |
 | --- | --- | --- | --- | --- |
-| Event | Caldolor |  |  | Placebo N=28 |
+| Event | CALDOLOR |  |  | Placebo N=28 |
 | Any Reaction | 27 (87%) | 25 (83%) | 23 (74%) | 25 (89%) |
 | Anemia | 5 (17%) | 6 (20%) | 11 (36%) | 4 (14%) |
 | Eosinophilia | 7 (23%) | 7 (23%) | 8 (26%) | 7 (25%) |
@@ -80,3 +78,8 @@ Table 2: Patients with Adverse Reactions Observed in ≥ 3% of Patients in any C
 | Blood LDH increased | 3 (10%) | 2 (7%) | 1 (3%) | 1 (4%) |
 | Thrombocythemia | 3 (10%) | 2 (7%) | 1 (3%) | 0 |
 | Bacteremia | 4 (13%) | 0 | 0 | 0 |
+
+Pediatric Population
+
+A total of 143 pediatric patients ages 6 months and older have received CALDOLOR in controlled clinical trials.
+The most common adverse reactions (incidence greater than or equal to 2%) in pediatric patients treated with CALDOLOR were infusion site pain, vomiting, nausea, anemia and headache.

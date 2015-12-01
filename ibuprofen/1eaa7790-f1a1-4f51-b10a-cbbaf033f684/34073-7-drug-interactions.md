@@ -1,38 +1,37 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Aspirin
+See Table 3 for clinically significant drug interactions with ibuprofen.
 
-When ibuprofen is administered with aspirin, ibuprofen's protein binding is reduced, although the clearance of free ibuprofen is not altered.
-The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of Caldolor and aspirin is not generally recommended because of the potential for increased adverse effects.
+Table 3: Clinically Significant Drug Interactions with Ibuprofen
 
-## 7.2 Anticoagulants
-
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that the users of both drugs together have a higher risk of serious GI bleeding than users of either drug alone [see Warnings and Precautions (5.2)].
-
-## 7.3 ACE Inhibitors
-
-NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
-
-## 7.4 Diuretics
-
-Clinical studies and postmarketing observations have shown that ibuprofen can reduce the natriuretic effects of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, observe patients closely for signs of renal failure, as well as to assure diuretic efficacy [see Warnings and Precautions (5.6)].
-
-## 7.5 Lithium
-
-NSAIDs have produced elevations of plasma lithium levels and a reduction in renal lithium clearance.
-The mean minimum lithium concentration increased 15%, and the renal clearance of lithium decreased by 20%.
-This effect has been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
-Thus, when NSAIDs and lithium are administered concurrently, observe patients carefully for signs of lithium toxicity.
-
-## 7.6 Methotrexate
-
-NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-This indicates that NSAIDs may enhance the toxicity of methotrexate.
-Use caution when NSAIDs are administered concomitantly with methotrexate.
-
-## 7.7 H-2 Antagonists
-
-In studies of human volunteers, co-administration of cimetidine or ranitidine with ibuprofen had no substantive effect on ibuprofen serum concentrations.
+| Drugs That Interfere with Hemostasis |  |
+| --- | --- |
+| Clinical Impact: | Ibuprofen and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of ibuprofen and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of CALDOLOR with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding [see Warnings and Precautions (5.11)]. |
+| Aspirin |  |
+| Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone [see Warnings and Precautions (5.2)]. |
+| Intervention: | Concomitant use of CALDOLOR and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding [see Warnings and Precautions (5.11)]. |
+| ACE Inhibitors, Angiotensin Receptor Blockers, and Beta-blockers |  |
+| Clinical Impact: | NSAIDs may diminish the antihypertensive effect of angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), or beta-blockers (including propranolol). In patients who are elderly, volume-depleted (including those on diuretic therapy), or have renal impairment, co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. |
+| Intervention: | During concomitant use of CALDOLOR and ACE-inhibitors, ARBs, or beta- blockers, monitor blood pressure to ensure that the desired blood pressure is obtained. During concomitant use of CALDOLOR and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function [see Warnings and Precautions (5.6)]. |
+| Diuretics |  |
+| Clinical Impact: | Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of CALDOLOR with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [see Warnings and Precautions (5.6)]. |
+| Digoxin |  |
+| Clinical Impact: | The concomitant use of ibuprofen with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
+| Intervention: | During concomitant use of CADOLOR and digoxin, monitor serum digoxin levels. |
+| Lithium |  |
+| Clinical Impact: | NSAIDs have produced elevations in plasma lithium levels and reductions in renal lithium clearance. The mean minimum lithium concentration increased 15%, and the renal clearance decreased by approximately 20%. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis. |
+| Intervention: | During concomitant use of CALDOLOR and lithium, monitor patients for signs of lithium toxicity. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). |
+| Intervention: | During concomitant use of CALDOLOR and methotrexate, monitor patients for methotrexate toxicity. |
+| Cyclosporine |  |
+| Clinical Impact: | Concomitant use of CALDOLOR and cyclosporine may increase cyclosporine's nephrotoxicity. |
+| Intervention: | During concomitant use of CALDOLOR and cyclosporine, monitor patients for signs of worsening renal function. |
+| NSAIDs and Salicylates |  |
+| Clinical Impact: | Concomitant use of ibuprofen with other NSAIDs or salicylates (e.g., diflunisal, salsalate) increases the risk of GI toxicity, with little or no increase in efficacy [see Warnings and Precautions (5.2)]. |
+| Intervention: | The concomitant use of ibuprofen with other NSAIDs or salicylates is not recommended. |
+| Pemetrexed |  |
+| Clinical Impact: | Concomitant use of CALDOLOR and pemetrexed, may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
+| Intervention: | During concomitant use of CALDOLOR and and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |

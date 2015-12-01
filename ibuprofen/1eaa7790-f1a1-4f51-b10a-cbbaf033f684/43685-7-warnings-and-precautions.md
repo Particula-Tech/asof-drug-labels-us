@@ -2,125 +2,150 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction and stroke, which can be fatal.
-All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
-Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with an NSAID, use the lowest effective dose for the shortest duration possible.
-Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
+The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
+Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
+The increase in CV thrombotic risk has been observed most consistently at higher doses.
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4.3)].
+To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
+Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
+Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
+The concurrent use of aspirin and an NSAID, such as ibuprofen, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
 
-## 5.2 Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation
+Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
-NSAIDs, including ibuprofen, can cause serious GI adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
-These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
+
+Post-MI Patients
+
+Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
+Avoid the use of CALDOLOR in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
+If CALDOLOR is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
+
+## 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+
+NSAIDs, including ibuprofen, cause serious gastrointenstinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with CALDOLOR.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3-6 months and in about 2-4% of patients treated for one year.
-These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months and in about 2%-4% of patients treated for one year.
 However, even short-term therapy is not without risk.
 
-Prescribe NSAIDs, including Caldolor, with extreme caution in those with a prior history of ulcer disease or GI bleeding.
-Patients with a prior history of peptic ulcer disease and/or GI bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to treated patients with neither of these risk factors.
-Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most reports of spontaneous fatal GI events are in elderly or debilitated patients, and therefore special care should be taken in treating this population.
+Risk Factors for GI Bleeding, Ulceration and Perforation
 
-To minimize the potential risk for an adverse GI event in patients treated with an NSAID, use the lowest effective dose for the shortest possible duration.
-Patients and physicians should remain alert for signs and symptoms of GI ulcerations and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI event is suspected.
-This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
-For high-risk patients, alternate therapies that do not involve NSAIDs should be considered.
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
+Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
-## 5.3 Hepatic Effects
+Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs, including ibuprofen.
-These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
-Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
-In addition, rare cases of severe hepatic reactions have been reported, including jaundice, fulminant hepatitis, liver necrosis and hepatic failure, some with fatal outcomes.
-A patient with symptoms and/or signs suggesting liver dysfunction, or with abnormal liver test values, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with ibuprofen.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ibuprofen should be discontinued.
+- Use the lowest effective dosage for the shortest possible duration.
+- Avoid administration of more than one NSAID at a time.
+- Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
+  For high risk patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
+- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue CALDOLOR until a serious GI adverse event is ruled out.
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+
+## 5.3 Hepatotoxicity
+
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials.
+In addition, rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver necrosis, and hepatic failure have been reported.
+
+Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs, including ibuprofen.
+
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flulike" symptoms).If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue CALDOLOR immediately, and perform a clinical evaluation of the patient.
 
 ## 5.4 Hypertension
 
-NSAIDs, including ibuprofen, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
-Use NSAIDs, including ibuprofen, with caution in patients with hypertension.
-Monitor blood pressure closely during the initiation of NSAID treatment and throughout the course of therapy.
+NSAIDs, including CALDOLOR, can lead to new onset or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
-Patients taking ACE inhibitors, thiazides, or loop diuretics may have impaired response to these therapies when taking NSAIDs.
+Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
-## 5.5 Congestive Heart Failure and Edema
+## 5.5 Heart Failure and Edema
 
-Fluid retention and edema have been observed in some patients taking NSAIDs.
-Use Caldolor with caution in patients with fluid retention or heart failure.
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
-## 5.6 Renal Effects
+Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
+Use of ibuprofen may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [see Drug Interactions (7)].
 
-Use caution when initiating treatment with Caldolor in patients with considerable dehydration.
+Avoid the use of CALDOLOR in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
+If CALDOLOR is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
+
+## 5.6 Renal Toxicity and Hyperkalemia
+
+Renal Toxicity
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of an NSAID may cause a dose dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics or ACE inhibitors, and the elderly.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
+Discontinuation of NSAID therapy was usually followed by recovery to the pretreatment state.
 
-No information is available from controlled clinical studies regarding the use of Caldolor in patients with advanced renal disease.
-If Caldolor therapy must be initiated in patients with advanced renal disease, closely monitor the patient's renal function.
+No information is available from controlled clinical studies regarding the use of CALDOLOR in patients with advanced renal disease.
+The renal effects of CALDOLOR may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
 
-## 5.7 Anaphylactoid Reactions
+Correct volume status in dehydrated or hypovolemic patients prior to initiating CALDOLOR.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of CALDOLOR [see Drug Interactions (7)].
+Avoid the use of CALDOLOR in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+If CALDOLOR is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to ibuprofen.
-Caldolor is contraindicated in patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4.2)].
+Hyperkalemia
 
-## 5.8 Serious Skin Reactions
+Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
+
+## 5.7 Anaphylactic Reactions
+
+Ibuprofen has been associated with anaphylactic reactions in patients with and without known hypersensitivity to ibuprofen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
+
+Seek emergency help if anaphylactic reaction occurs.
+
+## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
+
+A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, CALDOLOR is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
+When CALDOLOR is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
+
+## 5.9 Serious Skin Reactions
 
 NSAIDs, including ibuprofen, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
-Inform patients about the signs and symptoms of serious skin manifestations, and to discontinue Caldolor at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of CALDOLOR at the first appearance of skin rash or any other sign of hypersensitivity.
+CALDOLOR is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.9 Pregnancy
+## 5.10 Premature Closure of Fetal Ductus Arteriosus
 
-Starting at 30 weeks gestation, Caldolor, and other NSAIDs, should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
+Ibuprofen may cause premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including CALDOLOR, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
 
-## 5.10 Masking Inflammation and Fever
+## 5.11 Hematologic Toxicity
 
-The pharmacological activity of ibuprofen in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+Anemia has occurred in NSAID-treated patients.
+This may be due to occult or gross GI blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
+If a patient treated with CALDOLOR has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
-## 5.11 Hematological Effects
+NSAIDs, including CALDOLOR may increase the risk of bleeding events.
+Concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), and serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 Caldolor must be diluted prior to use.
 Infusion of the drug product without dilution can cause hemolysis [see Dosage and Administration (2.3)].
 
-Anemia may occur in patients receiving NSAIDs, including ibuprofen.
-This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect on erythropoiesis.
-In patients on long-term treatment with NSAIDs, including ibuprofen, check hemoglobin or hematocrit if they exhibit any signs or symptoms of anemia or blood loss.
+## 5.12 Masking of Inflammation and Fever
 
-NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
-Unlike aspirin, their effects on platelet function are less severe quantitatively, of shorter duration, and reversible.
-Carefully monitor patients who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants.
+The pharmacological activity of CALDOLOR in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.12 Pre-existing Asthma
+## 5.13 Laboratory Monitoring
 
-Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
-Since cross-reactivity between aspirin and NSAIDs has been reported in such aspirin-sensitive patients, including bronchospasm, Caldolor is contraindicated in patients with this form of aspirin sensitivity and should be used with caution in all patients with pre-existing asthma.
-
-## 5.13 Ophthalmological Effects
-
-Blurred or diminished vision, scotomata, and changes in color vision have been reported with oral ibuprofen.
-Discontinue ibuprofen if a patient develops such complaints, and refer the patient for an ophthalmologic examination that includes central visual fields and color vision testing.
-
-## 5.14 Aseptic Meningitis
-
-Aseptic meningitis with fever and coma has been observed in patients on oral ibuprofen therapy.
-Although it is probably more likely to occur in patients with systemic lupus erythematosus and related connective tissue diseases, it has been reported in patients who do not have underlying chronic disease.
-If signs or symptoms of meningitis develop in a patient on ibuprofen, give consideration to whether or not the signs or symptoms are related to ibuprofen therapy.
-
-## 5.15 Monitoring
-
-Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-
-Patients on long-term treatment with NSAIDs should have CBC and chemistry profiles checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash), or abnormal liver tests persist or worsen, discontinue Caldolor.
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
