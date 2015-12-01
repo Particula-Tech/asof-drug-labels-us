@@ -1,5 +1,57 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
+NDC 47335-666-83
+
+Risedronate Sodium Tablets, USP
+
+5 mg
+
+Rx only
+
+30 Tablets
+
+Sun Pharma
+
+PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 47335-667-83
+
+Risedronate Sodium Tablets, USP
+
+30 mg
+
+Rx only
+
+30 Tablets
+
+Sun Pharma
+
+PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 47335-668-68
+
+Once-a-Week
+
+Risedronate Sodium Tablets, USP
+
+35 mg
+
+4 Week Supply
+
+4 Tablets
+
+Rx only
+
+Sun Pharma
+
+PHARMACIST: Please dispense with Medication Guide provided separately to each patient.
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
 NDC 47335-727-98
 
 Two Consecutive Days-a-Month

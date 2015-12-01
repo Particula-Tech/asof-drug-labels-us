@@ -25,7 +25,7 @@ There have been postmarketing reports of gastric and duodenal ulcers with oral b
 Hypocalcemia has been reported in patients taking risedronate sodium tablets.
 Treat hypocalcemia and other disturbances of bone and mineral metabolism before starting risedronate sodium tablet therapy.
 Instruct patients to take supplemental calcium and vitamin D if their dietary intake is inadequate.
-Adequate intake of calcium and vitamin D is important in all patients [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
+Adequate intake of calcium and vitamin D is important in all patients, especially in patients with Paget's disease in whom bone turnover is significantly elevated [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
 
 ## 5.4 Jaw Osteonecrosis
 
@@ -66,6 +66,10 @@ Interruption of bisphosphonate therapy should beconsidered, pending a risk/benef
 ## 5.7 Renal Impairment
 
 Risedronate sodium is not recommended for use in patients withsevere renal impairment (creatinine clearance less than 30 mL/min).
+
+## 5.8 Glucocorticoid-Induced Osteoporosis
+
+Before initiating risedronate sodium treatment for thetreatment and prevention of glucocorticoid-induced osteoporosis, the sexsteroid hormonal status of both men and women should be ascertained andappropriate replacement considered.
 
 ## 5.9 Laboratory Test Interactions
 

@@ -1,6 +1,34 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Risedronate sodium tablets, USP are available as follows: 75 mg film-coated, round, pink tablets debossed ‘727’ on one side and ‘S’ on other side.
+Risedronate sodium tablets, USP are available as follows:
+
+5 mg film-coated, round, yellow tablets debossed ‘5’ on one side and ‘S’ on other side.
+
+Bottles of 30’s with Child Resistant Cap……………..NDC 47335-666-83
+
+Bottles of 100’s with Child Resistant Cap……………NDC 47335-666-88
+
+Bottles of 100’s with Non Child Resistant Cap………NDC 47335-666-08
+
+Bottles of 1000’s with Non Child Resistant Cap……..NDC 47335-666-18
+
+30 mg film-coated, round, white tablets debossed ‘667’ on one side and ‘S’ on other side.
+
+Bottles of 30’s with Child Resistant Cap……………..NDC 47335-667-83
+
+Bottles of 100’s with Child Resistant Cap……………NDC 47335-667-88
+
+Bottles of 100’s with Non Child Resistant Cap………NDC 47335-667-08
+
+Bottles of 1000’s with Non Child Resistant Cap……..NDC 47335-667-18
+
+35 mg film-coated, round, brown tablets debossed ‘668’ on one side and ‘S’ on other side.
+
+Unit dose blister package of 4……………………..… NDC 47335-668-68
+
+Unit dose blister package of 12……………………… NDC 47335-668-62
+
+75 mg film-coated, round, pink tablets debossed ‘727’ on one side and ‘S’ on other side.
 
 Unit dose blister package of 2…………………..…… NDC 47335-727-98
 

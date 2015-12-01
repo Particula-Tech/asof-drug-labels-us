@@ -69,9 +69,12 @@ Risedronate sodium tabletsare prescription medicines used to:
 
 - Treat or prevent osteoporosis in women after menopause.
   Risedronate sodium tablets help increase bone mass and help reduce the chance of having a spinal or non-spinal fracture (break).
+- Increase bone mass in men with osteoporosis.
+- Treat or prevent osteoporosis in either men or women who are taking corticosteroid medicines.
+- Treat certain men and women who have Paget’s disease of the bone.
 
 It is not known how long risedronate sodium tabletswork for the treatment and prevention of osteoporosis.
-You should see your doctor regularly to determine if risedronate sodium tabletsis still right for you.
+You should see your doctor regularly to determine if risedronate sodium tablets are still right for you.
 
 Risedronate sodium tabletsare not for use in children.
 
@@ -176,6 +179,7 @@ General information about the safe and effective use of risedronate sodium table
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use risedronate sodium tablets for a condition for which it was not prescribed.
+
 Do not give risedronate sodium tabletsto other people, even if they have the same symptoms you have.
 It may harm them.
 
@@ -191,9 +195,25 @@ Active ingredient: risedronate sodium
 
 Inactive ingredients in all dose strengths: mannitol, microcrystalline cellulose, croscarmellose sodium, pregelatinized maize starch, colloidal silicon dioxide, magnesium stearate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc.
 
-Inactive ingredients specific to a dose strength: 75 mg— iron oxide red; 150 mg—FD&C blue #2 aluminum lake.
+Inactive ingredients specific to a dose strength: 5 mg—iron oxide yellow; 35 mg— iron oxide red, iron oxide yellow; 75 mg— iron oxide red; 150 mg—FD&C blue #2 aluminum lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Limited Survey No. 259/15, Dadra-396 191, (U.T. of D & NH), India PGPI0143B ISS.
-04/2015
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
+
+Manufactured by:
+
+Sun Pharmaceutical Industries Limited
+
+Survey No. 259/15,
+
+Dadra-396 191, (U.T. of D & NH), India
+
+PGPI0143C
+
+ISS.
+08/2015

@@ -48,11 +48,12 @@ In this study, vomiting was observed in 15% ofchildren treated with risedronate 
 
 ## 8.5 Geriatric Use
 
-Of the patients receiving risedronate sodium in postmenopausal osteoporosis studies [see Clinical Studies (14)], 47% were between 65 and 75 years of age, and 17% were over 75.
-No overall differences in efficacy between geriatric and younger patients were observed in these studies.
-In the male osteoporosis trial, 28% of patients receiving risedronate sodium were between 65 and 75 years of age and 9% were over 75.
-The lumbar spine BMD response for risedronate sodium compared to placebo was 5.6% for subjects less than 65 years and 2.9% for subjects greater than or equal to 65 years.
-No overall differences in safety between geriatric and younger patients were observed in the risedronate sodium trials, but greater sensitivity of some older individuals cannot be ruled out.
+Of the patients receiving risedronate sodium in postmenopausalosteoporosis studies [seeClinical Studies (14)], 47% were between 65 and 75 years of age, and17% were over 75.
+The corresponding proportions were 26% and 11% inglucocorticoid-induced osteoporosis trials, and 40% and 26% in Paget's diseasetrials.
+No overall differences in efficacy between geriatric and youngerpatients were observed in these studies.
+In the male osteoporosis trial, 28% ofpatients receiving risedronate sodium werebetween 65 and 75 years of age and 9% were over 75.
+The lumbar spine BMDresponse for risedronate sodium comparedto placebo was 5.6% for subjects less than 65 years and 2.9% for subjects greater than or equal to 65 years.
+No overalldifferences in safety between geriatric and younger patients were observed inthe risedronate sodium trials,but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
