@@ -2,16 +2,16 @@
 
 Serious and important adverse reactions include:
 
-- Hypercorticism and adrenal axis suppression [see Warnings and Precautions (5.1)]
-- Symptoms of steroid withdrawal in those patients transferring from systemic glucocorticosteroid therapy [see Warnings and Precautions (5.2)]
-- Increased susceptibility to infection [see Warnings and Precautions (5.3)]
-- Other glucocorticosteroid effects [see Warnings and Precautions (5.4)]
+- •Hypercorticism and adrenal axis suppression [see Warnings and Precautions (5.1)]
+- •Symptoms of steroid withdrawal in those patients transferring from systemic glucocorticosteroid therapy [see Warnings and Precautions (5.2)]
+- •Increased susceptibility to infection [see Warnings and Precautions (5.3)]
+- •Other glucocorticosteroid effects [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to UCERISrectal foam in 332 patients with active mild to moderate distal ulcerative colitis extending up to 40 cm from the anal verge.
+The data described below reflect exposure to UCERIS rectal foam in 332 patients with active mild to moderate distal ulcerative colitis extending up to 40 cm from the anal verge.
 The median duration of exposure was 42 days.
 This included 14 patients exposed for at least 6 months.
 
@@ -26,7 +26,7 @@ A total of 10% of UCERIS rectal foam-treated patients discontinued treatment due
 
 Table 1: Summary of Adverse Reactions in 2 Placebo Controlled Trials* (Studies 1 and 2)
 
-| Adverse Reaction | UCERIS Rectal Foam 2mg/25mL N = 268 n (%) | Placebo N = 278 n (%) |
+| Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N = 268 n (%) | Placebo N = 278 n (%) |
 | --- | --- | --- |
 | Decreased blood cortisol# | 46 (17) | 6 (2) |
 | Adrenal insufficiency† | 10 (4) | 2 (1) |
@@ -45,7 +45,7 @@ Table 2 summarizes the percentages of patients reporting glucocorticoid related 
 
 Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
 
-| Adverse Reaction | UCERIS Rectal Foam 2mg/25mL N = 268 n (%) | Placebo N = 278 n (%) |
+| Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N = 268 n (%) | Placebo N = 278 n (%) |
 | --- | --- | --- |
 | Overall | 60 (22) | 10 (4) |
 | Blood cortisol decreased | 46 (17)* | 6 (2) |
@@ -61,7 +61,7 @@ No clinically significant differences were observed with respect to the overall 
 
 For additional details on morning cortisol levels and the response to the ACTH stimulation test, see Clinical Pharmacology (12.2).
 
-## 6.2 Post-Marketng Experience
+## 6.2 Post-Marketing Experience
 
 In addition to adverse reactions reported from clinical trials for UCERIS rectal foam, the following adverse reactions have been identified during post-approval use of other oral and rectal formulations of budesonide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

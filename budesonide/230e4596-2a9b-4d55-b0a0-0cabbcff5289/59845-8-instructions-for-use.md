@@ -1,6 +1,6 @@
-# INSTRUCTIONS FOR USE
+# Instructions for Use
 
-UCERIS (u SAIR us)
+UCERIS® (u SAIR us)
 
 (budesonide)
 
@@ -11,22 +11,20 @@ Talk to your healthcare provider if you have any questions.
 
 Before using UCERIS rectal foam, you should use the bathroom to empty your bowels.
 
-You may use UCERIS rectal foamwhile in a standing position, in a lying position, or in a sitting position (for example, while using the toilet).
+You may use UCERIS rectal foam while in a standing position, in a lying position, or in a sitting position (for example, while using the toilet).
 
 Applicators should be used only 1 time.
 You should use a new applicator for each dose.
 
-Figure A
-
 Each kit contains (See Figure A):
 
-- Complete Prescribing Information
-- Patient Information and Instructions for Use
-- 2 canisters containing 14 doses each
-- 4 trays of single-use applicators (7 applicators per tray)
-- Applicator disposal bags for use after each dose
+- •Complete Prescribing Information
+- •Patient Information and Instructions for Use
+- •2 canisters containing 14 doses each
+- •4 trays of single-use applicators (7 applicators per tray)
+- •Applicator disposal bags for use after each dose
 
-Preparing to use UCERIS rectal
+Preparing to use UCERIS rectal foam
 
 |  | Step 1: Twist Safety Tab to RemoveBefore the first use, remove the safety tab from under the pump dome (See Figure B). The canister cannot be used if safety tab is not removed. |
 | --- | --- |
@@ -49,15 +47,17 @@ Preparing to use UCERIS rectal
 | Figure J |  |
 |  | Step 10: Remove Applicator from CanisterRemove the applicator from the canister and place the used applicator in the plastic bag provided. (See Figure K). Throw the plastic bag away in your household trash. |
 | Figure K |  |
-|  | Step 11: Twist Notch on Dome Away from NozzleTo prevent loss of UCERIS rectal foam from the canister between uses, turn the pump dome around so that the semi-circular notch faces the opposite direction to the nozzle (See Figure L) Wash your hands with soap and water. Try not to empty your bowels until the next morning. |
+|  | Step 11: Twist Notch on Dome Away from NozzleTo prevent loss of UCERIS rectal foam from the canister between uses, turn the pump dome around so that the semi-circular notch faces the opposite direction to the nozzle (See Figure L). Wash your hands with soap and water. Try not to empty your bowels until the next morning. |
 | Figure L |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Marketed and distributed by Salix Pharmaceuticals, Inc., Raleigh, NC 27615 under license from Dr. Falk Pharma.
+Distributed by: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA Product marketed and distributed under license from Dr. Falk Pharma.
 
-UCERIS® is a registered trademark of Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc.
+UCERIS is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-© 2014 Salix Pharmaceuticals, Inc.
+© Valeant Pharmaceuticals North America LLC
 
-Issued: 10/2014
+9499000
+
+Revised: 11/2015

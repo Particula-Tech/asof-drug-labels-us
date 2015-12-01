@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypercortism and Adrenal Axis Suppression
+## 5.1 Hypercorticism and Adrenal Axis Suppression
 
 When glucocorticosteroids are used chronically, systemic effects such as hypercorticism and adrenal suppression may occur.
 Glucocorticosteroids can reduce the response of the hypothalamus-pituitary-adrenal (HPA) axis to stress.
@@ -9,7 +9,7 @@ Since UCERIS rectal foam contains a glucocorticosteroid, general warnings concer
 
 Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [see Use in Specific Populations (8.6)].
 
-## 5.2 Impaired Adrenal Suppression in Patients Transferrred from Other Glucocorticoids
+## 5.2 Impaired Adrenal Suppression in Patients Transferred from Other Glucocorticoids
 
 Monitor patients who are transferred from glucocorticosteroid treatment with higher systemic effects to glucocorticosteroids with lower systemic effects, such as UCERIS rectal foam, since symptoms attributed to withdrawal of steroid therapy, including those of acute adrenal suppression or benign intracranial hypertension, may develop.
 Adrenocortical function monitoring may be required in these patients and the dose of glucocorticosteroid treatment with high systemic effects should be reduced cautiously.
