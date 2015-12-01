@@ -31,9 +31,9 @@ Because many drugs are excreted in human milk and because of the potential for s
 Antihypertensive effects and safety of lisinopril have been established in pediatric patients aged 6 to 16 years [see DOSAGE AND ADMINISTRATION (2.1) and CLINICAL STUDIES (14.1)].
 No relevant differences between the adverse reaction profile for pediatric patients and adult patients were identified.
 
-Safety and effectiveness of lisinopril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 [see DOSAGE AND ADMINISTRATION (2.1), CLINICAL PHARMACOLOGY (12.3), and CLINICAL STUDIES (14.1)].
+Safety and effectiveness of lisinopril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2[see DOSAGE AND ADMINISTRATION (2.1), CLINICAL PHARMACOLOGY (12.3), and CLINICAL STUDIES (14.1)].
 
-Neonates with a history of in utero exposure to lisinopril
+Neonates with A History of In Utero Exposure to Lisinopril
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
@@ -47,7 +47,7 @@ No other differences in safety or effectiveness were observed between elderly an
 
 ## 8.6 Race
 
-ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in black patients than in non-blacks.
+ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in black patients than in nonblacks.
 
 ## 8.7 Renal Impairment
 

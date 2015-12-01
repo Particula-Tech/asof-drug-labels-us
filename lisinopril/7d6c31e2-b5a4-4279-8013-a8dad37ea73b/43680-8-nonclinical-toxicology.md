@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of a tumorigenic effect when lisinopril was administered for 105 weeks to male and female rats at doses up to 90 mg per kg per day (about 56 or 9 times* the maximum recommended daily human dose, based on body weight and body surface area, respectively).
 There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg per kg per day (about 84 times* the maximum recommended daily human dose).

@@ -24,7 +24,9 @@ Concomitant administration of lisinopril and hydrochlorothiazide further reduced
 
 Hypertension
 
-Adult Patients: Administration of lisinopril to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
+Adult Patients:
+
+Administration of lisinopril to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
 Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients [see WARNINGS AND PRECAUTIONS (5.4)].
 When given together with thiazide-type diuretics, the blood pressure lowering effects of the two drugs are approximately additive.
 

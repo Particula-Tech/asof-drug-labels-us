@@ -54,7 +54,7 @@ Diabetes mellitus, inappropriate antidiuretic hormone secretion.
 
 Metabolic:
 
-Gout
+Gout.
 
 Skin:
 

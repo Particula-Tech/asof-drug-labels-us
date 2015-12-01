@@ -7,20 +7,20 @@ Dosage should be adjusted according to blood pressure response.
 The usual dosage range is 20 to 40 mg per day administered in a single daily dose.
 Doses up to 80 mg have been used but do not appear to give greater effect.
 
-Use with diuretics in adults
+Use with Diuretics in Adults
 
 If blood pressure is not controlled with lisinopril alone, a low dose of a diuretic may be added (eg, hydrochlorothiazide, 12.5 mg).
 After the addition of a diuretic, it may be possible to reduce the dose of lisinopril.
 
 The recommended starting dose in adult patients with hypertension taking diuretics is 5 mg once per day.
 
-Pediatric Patients 6 years of age and older with hypertension
+Pediatric Patients 6 Years of Age and Older with Hypertension
 
 For pediatric patients with glomerular filtration rate > 30 mL/min/1.73m2, the recommended starting dose is 0.07 mg per kg once daily (up to 5 mg total).
 Dosage should be adjusted according to blood pressure response up to a maximum of 0.61 mg per kg (up to 40 mg) once daily.
 Doses above 0.61 mg per kg (or in excess of 40 mg) have not been studied in pediatric patients [see CLINICAL PHARMACOLOGY (12.3)].
 
-Lisinopril tablet USP is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73m2 [see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL STUDIES (14.1)].
+Lisinopril tablet USP is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73m2[see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL STUDIES (14.1)].
 
 ## 2.2 Heart Failure
 
