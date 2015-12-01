@@ -14,7 +14,8 @@ Non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis
 
 Prophylaxis of Disseminated Mycobacterium avium complex (MAC) Disease
 
-ZITHROMAX, taken alone or in combination with rifabutin at its approved dose, is indicated for the prevention of disseminated MAC disease in persons with advanced HIV infection [see Dosage and Administration (2)].
+ZITHROMAX, taken alone or in combination with rifabutin at its approved dose, is indicated for the prevention of disseminated MAC disease in persons with advanced HIV infection.
+[see Dosage and Administration (2)]
 
 Treatment of Disseminated MAC Disease
 

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated MAC
+## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated Mycobacterium avium Complex (MAC)
 
 [see Indications and Usage (1)]
 
@@ -169,7 +169,7 @@ Within both treatment groups, the sterilization rates at week 24 decreased as th
 
 | groups stratified by MAC colony counts at baseline | no. (%) subjects in stratified group sterile at week 24 | no. (%) subjects in stratified group sterile at week 24 |
 | --- | --- | --- |
-|  | Azithromycin 600 mg (N=68) | Clarithromycin 500 mg twice a day(N=57) |
+|  | Azithromycin 600 mg (N=68) | Clarithromycin 500 mg twice a day (N=57) |
 | ≤10 cfu/mL | 10/15 (66.7%) | 12/17 (70.6%) |
 | 11–100 cfu/mL | 13/28 (46.4%) | 13/19 (68.4%) |
 | 101–1,000 cfu/mL | 7/19 (36.8%) | 5/13 (38.5%) |

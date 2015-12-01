@@ -2,10 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Azithromycin is a macrolide antibacterial drug [see Microbiology (12.4)].
+Azithromycin is a macrolide antibacterial drug.
+[see Microbiology (12.4)]
 
 Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.
-Using such methodology, the ratio of intracellular to extracellular concentration was >30 after one hour of incubation.
+Using such methodology, the ratio of intracellular to extracellular concentration was >30 after one hr of incubation.
 In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
 
 ## 12.2 Pharmacodynamics
@@ -62,13 +63,12 @@ The serum protein binding of azithromycin is variable in the concentration range
 The antibacterial activity of azithromycin is pH related and appears to be reduced with decreasing pH.
 However, the extensive distribution of drug to tissues may be relevant to clinical activity.
 
-Azithromycin has been shown to penetrate into tissues in humans, including skin, lung, tonsil, and cervix..
+Azithromycin has been shown to penetrate into tissues in humans, including skin, lung, tonsil, and cervix.
 Extensive tissue distribution was confirmed by examination of additional tissues and fluids (bone, ejaculum, prostate, ovary, uterus, salpinx, stomach, liver, and gallbladder).
 As there are no data from adequate and well-controlled studies of azithromycin treatment of infections in these additional body sites, the clinical importance of these tissue concentration data is unknown.
 
-Following oral administration of a single 1200 mg dose (two 600 mg tablets), the mean maximum concentration in peripheral leukocytes was 140µg/mL.
-Concentration remained above 32 µg/mL, for approximately 60 hours.
-The mean half-lives for 6 males and 6 females were 34 hours and 57 hours, respectively.
+Following oral administration of a single 1200 mg dose (two 600 mg tablets), the mean maximum concentration in peripheral leukocytes was 140 µg/mL.
+Concentration remained above 32 µg/mL, for approximately 60 hr. The mean half-lives for 6 males and 6 females were 34 hr and 57 hr, respectively.
 Leukocyte-to-plasma Cmax ratios for males and females were 258 (±77%) and 175 (±60%), respectively, and the AUC ratios were 804 (±31%) and 541 (±28%) respectively.
 The clinical relevance of these findings is unknown.
 
@@ -83,8 +83,7 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 Elimination
 
-Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in an average terminal half-life of 68 hours.
-Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
+Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in an average terminal half-life of 68 hr. Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
 Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.
 
 Specific Populations
@@ -107,7 +106,8 @@ No dosage adjustment is recommended on the basis of gender.
 Geriatric Patients
 
 Pharmacokinetic parameters in older volunteers (65 to 85 years old) were similar to those in younger volunteers (18 to 40 years old) for the 5-day therapeutic regimen.
-Dosage adjustment does not appear to be necessary for older patients with normal renal and hepatic function receiving treatment with this dosage regimen [see Geriatric Use (8.5)].
+Dosage adjustment does not appear to be necessary for older patients with normal renal and hepatic function receiving treatment with this dosage regimen.
+[see Geriatric Use (8.5)]
 
 Pediatric Patients
 
@@ -123,7 +123,8 @@ No dosage adjustment of drugs listed in Table 1 is recommended when co-administe
 
 Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
-No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 [see Drug Interactions (7.3)].
+No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2.
+[see Drug Interactions (7.3)]
 
 Table 1.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin
@@ -149,7 +150,8 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
 Table 2.
-Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see Drug Interactions (7.3)].
+Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs.
+[see Drug Interactions (7.3)]
 
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -223,7 +225,7 @@ Other Microorganisms
 Susceptibility Testing of Bacteria Excluding Mycobacteria
 
 The in vitro potency of azithromycin is markedly affected by the pH of the microbiological growth medium during incubation.
-Incubation in a 10% CO2 atmosphere will result in lowering of media pH (7.2 to 6.6) within 18 hours and in an apparent reduction of the in vitro potency of azithromycin.
+Incubation in a 10% CO2 atmosphere will result in lowering of media pH (7.2 to 6.6) within 18 hr and in an apparent reduction of the in vitro potency of azithromycin.
 Thus, the initial pH of the growth medium should be 7.2–7.4, and the CO2 content of the incubation atmosphere should be as low as practical.
 
 Azithromycin can be solubilized for in vitro susceptibility testing by dissolving in a minimum amount of 95% ethanol and diluting to working concentration with water.

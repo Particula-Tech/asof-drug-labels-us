@@ -34,11 +34,12 @@ In multiple-dose clinical trials of oral azithromycin, 9% of patients were at le
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-[see Warnings and Precautions (5.3)].
+[see Warnings and Precautions (5.3)]
 
 ZITHROMAX 600 mg tablets contain 2.1 mg of sodium per tablet.
 ZITHROMAX for oral suspension 1 gram single-dose packets contain 37.0 mg of sodium per packet.
 
 Geriatric Patients with Opportunistic Infections, Including (MAC) Disease: Safety data are available for 30 patients (65–94 years old) treated with azithromycin at doses >300 mg/day for a mean of 207 days.
 These patients were treated for a variety of opportunistic infections, including MAC.
-The adverse reaction were generally similar to that seen in younger patients, except for a higher incidence of adverse reactions relating to the gastrointestinal system and to reversible impairment of hearing [see Dosage and Administration (2)].
+The adverse reaction were generally similar to that seen in younger patients, except for a higher incidence of adverse reactions relating to the gastrointestinal system and to reversible impairment of hearing.
+[see Dosage and Administration (2)]

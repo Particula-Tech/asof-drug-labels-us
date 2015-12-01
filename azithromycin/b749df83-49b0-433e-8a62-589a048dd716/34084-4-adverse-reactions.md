@@ -7,7 +7,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In clinical trials, most of the reported adverse reactions were mild to moderate in severity and were reversible upon discontinuation of the drug.
 Approximately 0.7% of the patients from the multiple-dose clinical trials discontinued ZITHROMAX (azithromycin) therapy because of treatment-related adverse reactions.
 Serious adverse reactions included angioedema and cholestatic jaundice.
-Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain [see Clinical Studies (14.2)].
+Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain.
+[see Clinical Studies (14.2)]
 
 Multiple-dose regimen
 
@@ -30,7 +31,8 @@ Allergic: Rash, photosensitivity, and angioedema.
 
 Chronic therapy with 1200 mg weekly regimen
 
-The nature of adverse reactions seen with the 1200 mg weekly dosing regimen for the prevention of Mycobacterium avium infection in severely immunocompromised HIV-infected patients were similar to those seen with short-term dosing regimens [see Clinical Studies (14)].
+The nature of adverse reactions seen with the 1200 mg weekly dosing regimen for the prevention of Mycobacterium avium infection in severely immunocompromised HIV-infected patients were similar to those seen with short-term dosing regimens.
+[see Clinical Studies (14)]
 
 Chronic therapy with 600 mg daily regimen combined with ethambutol
 
@@ -66,13 +68,14 @@ Genitourinary: Interstitial nephritis, acute renal failure, and vaginitis.
 
 Hematopoietic: Thrombocytopenia.
 
-Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure,[see Warnings and Precautions (5.2)].
+Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
+[see Warnings and Precautions (5.2)]
 
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
 
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritus, and serious skin reactions including erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis.
+Skin/Appendages: Pruritus, and serious skin reactions including erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness, and/or tinnitus, and reports of taste/smell perversion and/or loss.
 
@@ -89,7 +92,8 @@ In multiple-dose clinical trials involving more than 3000 patients, 3 patients d
 
 In a phase 1 drug interaction study performed in normal volunteers, 1 of 6 subjects given the combination of azithromycin and rifabutin, 1 of 7 given rifabutin alone, and 0 of 6 given azithromycin alone developed a clinically significant neutropenia (<500 cells/mm3).
 
-Laboratory abnormalities seen in clinical trials for the prevention of disseminated Mycobacterium avium disease in severely immunocompromised HIV-infected patients [see Clinical Studies (14)]
+Laboratory abnormalities seen in clinical trials for the prevention of disseminated Mycobacterium avium disease in severely immunocompromised HIV-infected patients.
+[see Clinical Studies (14)]
 
 Chronic therapy (median duration: 87.5 days, range: 1–229 days) that resulted in laboratory abnormalities in >5% of subjects with normal baseline values in the pivotal trial for treatment of disseminated MAC in severely immunocompromised HIV-infected patients treated with azithromycin 600 mg daily in combination with ethambutol include: a reduction in absolute neutrophils to <50% of the lower limit of normal (10/52, 19%) and an increase to five times the upper limit of normal in alkaline phosphatase (3/35, 9%).
 These findings in subjects with normal baseline values are similar when compared to all subjects for analyses of neutrophil reductions (22/75, 29%) and elevated alkaline phosphatase (16/80, 20%).

@@ -2,10 +2,10 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome and toxic epidermal necrolysis, have been reported rarely in patients on azithromycin therapy.
-[see Contraindications (4.1)].
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson Syndrome, toxic epidermal necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported rarely in patients on azithromycin therapy.
+[see Contraindications (4.1)]
 
-, Fatalities have been reported.
+Fatalities have been reported.
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
 These patients required prolonged periods of observation and symptomatic treatment.
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is presently unknown.

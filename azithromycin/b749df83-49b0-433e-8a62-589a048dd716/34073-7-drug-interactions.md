@@ -4,7 +4,7 @@
 
 Co-administration of nelfinavir at steady-state with a single oral dose of azithromycin resulted in increased azithromycin serum concentrations.
 Although a dose adjustment of azithromycin is not recommended when administered in combination with nelfinavir, close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted.
-[see Adverse Reactions (6)].
+[see Adverse Reactions (6)]
 
 ## 7.2 Warfarin
 
