@@ -9,7 +9,8 @@ Potentially serious adverse reactions of angioedema and cholestatic jaundice wer
 Approximately 0.7% of the patients (adults and pediatric patients) from the 5-day multiple-dose clinical trials discontinued ZITHROMAX (azithromycin) therapy because of treatment-related adverse reactions.
 In adults given 500 mg/day for 3 days, the discontinuation rate due to treatment-related adverse reactions was 0.6%.
 In clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days, discontinuation from the trials due to treatment-related adverse reactions was approximately 1%.
-Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain [see Clinical Studies (14.2)].
+Most of the adverse reactions leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain.
+[see Clinical Studies (14.2)]
 
 Adults
 
@@ -46,7 +47,8 @@ Pediatric Patients
 
 Single and Multiple-dose regimens: The types of adverse reactions in pediatric patients were comparable to those seen in adults, with different incidence rates for the dosage regimens recommended in pediatric patients.
 
-Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash [see Dosage and Administration (2) and Clinical Studies (14.2)].
+Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash.
+[see Dosage and Administration (2) and Clinical Studies (14.2)]
 
 The incidence, based on dosing regimen, is described in the table below:
 
@@ -64,7 +66,7 @@ The incidence is described in the table below:
 | --- | --- | --- | --- | --- | --- |
 | 5-day | 5.8% | 1.9% | 1.9% | 1.9% | 1.6% |
 
-Pharyngitis/tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1–5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
+Pharyngitis/Tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1–5, the most frequent adverse reactions attributed to treatment were diarrhea, vomiting, abdominal pain, nausea, and headache.
 
 The incidence is described in the table below:
 
@@ -95,7 +97,7 @@ Special Senses: Conjunctivitis.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of azithromycin.
+The following adverse reactions have been identified during post-approval use of azithromycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
@@ -107,17 +109,20 @@ There have been reports of QT prolongation and torsades de pointes.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
 
-General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
+General: Asthenia, paresthesia, fatigue, malaise, and anaphylaxis
+
+Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
 
 Hematopoietic: Thrombocytopenia.
 
-Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure [see Warnings and Precautions (5.2)].
+Liver/Biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
+[see Warnings and Precautions (5.2)]
 
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation, and syncope.
 
 Psychiatric: Aggressive reaction and anxiety.
 
-Skin/Appendages: Pruritusserious skin reactions including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis.
+Skin/Appendages: Pruritusserious skin reactions including erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, and DRESS.
 
 Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus, and reports of taste/smell perversion and/or loss.
 

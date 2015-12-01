@@ -1,6 +1,6 @@
 # Patient Information
 
-ZITHROMAX® (phonetic spelling) (azithromycin) Tablets
+ZITHROMAX® (Zith-roe-maks) (azithromycin) Tablets
 
 ZITHROMAX® (azithromycin) Oral Suspension
 
@@ -104,13 +104,13 @@ ZITHROMAX can cause serious side effects, including:
   Allergic reactions can happen in people taking azithromcyin the active ingredient in ZITHROMAX, even after only 1 dose.
   Stop taking ZITHROMAX and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction: Stop taking ZITHROMAX at the first sign of a skin rash and call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to ZITHROMAX.
-  - hives
   - trouble breathing or swallowing
   - swelling of the lips, tongue, face
   - throat tightness, hoarseness
   - rapid heartbeat
   - faintness
-  - skin rash
+  - skin rash (hives)
+  - new onset of fever and swollen lymph nodes
 - Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take ZITHROMAX.
   Call your healthcare provider right away if you have unexplained symptoms such as: nausea or vomitingstomach painfeverweaknessabdominal pain or tendernessitchingunusual tiredness loss of appetitechange in the color of your bowel movementsdark colored urineyellowing of your skin or of the whites of your eyes Stop taking ZITHROMAX and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
@@ -182,4 +182,4 @@ Inactive ingredients: sucrose; sodium phosphate, tribasic, anhydrous; hydroxypro
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0372-3.0 Revised June 2014
+LAB-0372-4.0 Revised May 2015

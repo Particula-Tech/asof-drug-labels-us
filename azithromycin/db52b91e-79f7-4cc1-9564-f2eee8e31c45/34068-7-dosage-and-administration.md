@@ -2,7 +2,7 @@
 
 ## 2.1 Adult Patients
 
-[See Indications and Usage (1.1) and Clinical Pharmacology (12.3)]
+[see Indications and Usage (1.1) and Clinical Pharmacology (12.3)]
 
 | InfectionDUE TO THE INDICATED ORGANISMS [see Indications and Usage (1.1)] | Recommended Dose/Duration of Therapy |
 | --- | --- |
@@ -69,7 +69,7 @@ OTITIS MEDIA: (1-Day Regimen)
 | 50 and above | 110 and above | 37.5 mL;(7½ tsp) | 37.5 mL | 1500 mg |
 
 The safety of re-dosing azithromycin in pediatric patients who vomit after receiving 30 mg/kg as a single dose has not been established.
-In clinical studies involving 487 patients with acute otitis media given a single 30 mg/kg dose of azithromycin, eight patients who vomited within 30 minutes of dosing were re-dosed at the same total dose.
+In clinical studies involving 487 patients with acute otitis media given a single 30 mg/kg dose of azithromycin, 8 patients who vomited within 30 minutes of dosing were re-dosed at the same total dose.
 
 Pharyngitis/Tonsillitis: The recommended dose of ZITHROMAX for children with pharyngitis/tonsillitis is 12 mg/kg once daily for 5 days.
 (See chart below.)
