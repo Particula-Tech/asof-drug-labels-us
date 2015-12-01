@@ -31,4 +31,4 @@ If unexplained or clinically significant weight loss occurs, weight loss should 
 
 A major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2.
 The administration of the cytochrome P450 enzyme inducer rifampicin resulted in a reduction in exposure, which may result in a decrease in the therapeutic effectiveness of DALIRESP.
-Therefore, the use of strong cytochrome P450 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drugs That Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].
+Therefore, the use of strong cytochrome P450 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drugs that Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].

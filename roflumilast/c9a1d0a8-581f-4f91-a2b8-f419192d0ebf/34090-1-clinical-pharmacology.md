@@ -67,7 +67,7 @@ No dosage adjustment is necessary for patients with renal impairment [see Use in
 Age
 
 Roflumilast 500 mcg once daily for 15 days was studied in young, middle aged, and elderly healthy subjects.
-The exposure in elderly (> 65 years of age) were 27% higher in AUC and 16% higher in Cmax for roflumilast and 19% higher in AUC and 13% higher in Cmax for roflumilast-N-oxide than that in young volunteers (18-45 years old).
+The exposure in elderly (>65 years of age) were 27% higher in AUC and 16% higher in Cmax for roflumilast and 19% higher in AUC and 13% higher in Cmax for roflumilast-N-oxide than that in young volunteers (18-45 years old).
 No dosage adjustment is necessary for elderly patients [see Use in Specific Populations (8.5)].
 
 Gender
@@ -97,9 +97,9 @@ The effect of concomitant drugs on the exposure of roflumilast and roflumilast N
 Figure 1.
 Effect of concomitant drugs on the exposure of roflumilast and roflumilast N-oxide.
 Note that the dashed lines indicate the lower and higher bounds (0.8-1.25) of the 90% confidence interval of the geometric mean ratio of Cmax or AUC for roflumilast or roflumilast N-oxide for Treatment (DALIRESP+Coadministered Drug) vs. Reference (DALIRESP).
-The dosing regimens of coadministered drugs was: Midazolam:2mg po SD; Erythromycin:500mg po TID; Ketoconazole:200mg po BID; Rifampicin:600mg po QD; Fluvoxamine:50mg po QD; Digoxin:250ug po SD; Maalox:30mL po SD; Salbutamol:0.2mg pi TID; Cimetidine:400mg po BID; Formoterol:40ug po BID; Budesonide:400ug po BID; Theophylline:375mg po BID; Warfarin:250mg po SD; Enoxacin:400mg po BID; Sildenafil:100mg SD; Minulet (combination oral contraceptive):0.075mg gestodene/0.03mg ethinylestradiol po QD; Montelukast:10mg po QD
+The dosing regimens of coadministered drugs was: Midazolam:2mg po SD; Erythromycin:500mg po TID; Ketoconazole:200mg po BID; Rifampicin:600mg po QD; Fluvoxamine:50mg po QD; Digoxin:250ug po SD; Maalox:30mL po SD; Salbutamol:0.2mg po TID; Cimetidine:400mg po BID; Formoterol:40ug po BID; Budesonide:400ug po BID; Theophylline:375mg po BID; Warfarin:250mg po SD; Enoxacin:400mg po BID; Sildenafil:100mg SD; Minulet (combination oral contraceptive):0.075mg gestodene/0.03mg ethinylestradiol po QD; Montelukast:10mg po QD
 
-Drug interactions considered to be significant are described in more detail below [also see Drug Interactions (5.4) and Drug Interactions (7)].
+Drug interactions considered to be significant are described in more detail below [also see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
 Inhibitors of CYP3A4 and CYP1A2:
 

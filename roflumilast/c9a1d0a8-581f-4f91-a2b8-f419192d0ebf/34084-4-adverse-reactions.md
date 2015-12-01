@@ -5,7 +5,7 @@ The following adverse reactions are described in greater detail in other section
 - •Psychiatric Events Including Suicidality [see Warnings and Precautions (5.2)]
 - •Weight Decrease [see Warnings and Precautions (5.3)]
 
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Adverse Reactions in Clinical Studies
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,9 +20,9 @@ The most common adverse reactions that led to discontinuation of DALIRESP were d
 
 Serious adverse reactions, whether considered drug-related or not by the investigators, which occurred more frequently in DALIRESP-treated patients include diarrhea, atrial fibrillation, lung cancer, prostate cancer, acute pancreatitis, and acute renal failure.
 
-Table 1 summarizes the adverse reactions reported by ≥ 2% of patients in the DALIRESP group in 8 controlled COPD clinical trials.
+Table 1 summarizes the adverse reactions reported by ≥2% of patients in the DALIRESP group in 8 controlled COPD clinical trials.
 
-Table 1: Adverse Reactions Reported by ≥ 2% of Patients Treated with DALIRESP 500 mcg daily and Greater Than Placebo
+Table 1: Adverse Reactions Reported by ≥2% of Patients Treated with DALIRESP 500 mcg daily and Greater Than Placebo
 
 |  | Treatment |  |
 | --- | --- | --- |
@@ -55,4 +55,4 @@ Psychiatric disorders - anxiety, depression
 
 The following adverse reactions have been identified from spontaneous reports of DALIRESP received worldwide and have not been listed elsewhere.
 These adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to DALIRESP.
-Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions including angioedema, urticaria, and rash.
+Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions (including angioedema, urticaria and rash), gynecomastia.

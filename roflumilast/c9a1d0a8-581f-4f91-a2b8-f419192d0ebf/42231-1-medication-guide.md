@@ -15,8 +15,7 @@ What is the most important information I should know about DALIRESP?
 DALIRESP can cause serious side effects.
 Tell your healthcare provider right away if you have any of the symptoms listed below while taking DALIRESP.
 
-- 1.
-  DALIRESP may cause mental health problems including suicidal thoughts and behavior.
+- 1.DALIRESP may cause mental health problems including suicidal thoughts and behavior.
   Some people taking DALIRESP may develop mood or behavior problems including:
   1. •thoughts of suicide or dying
   2. •attempt to commit suicide
@@ -25,8 +24,7 @@ Tell your healthcare provider right away if you have any of the symptoms listed 
   5. •new or worse depression
   6. •acting on dangerous impulses
   7. •other unusual changes in your behavior or mood
-- 2.
-  Weight loss.
+- 2.Weight loss.
   DALIRESP can cause weight loss.
   You should check your weight on a regular basis.
   You will also need to see your healthcare provider regularly to have your weight checked.

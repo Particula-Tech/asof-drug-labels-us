@@ -6,8 +6,8 @@ Teratogenic effects: Pregnancy Category C: There are no adequate and well contro
 DALIRESP was not teratogenic in mice, rats, or rabbits.
 DALIRESP should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-DALIRESP induced stillbirth and decreased pup viability in mice at doses corresponding to approximately 16 and 49 times, respectively, the maximum recommended human dose (MRHD) (on a mg/m2 basis at maternal doses > 2 mg/kg/day and 6 mg/kg/day, respectively).
-DALIRESP induced post-implantation loss in rats at doses greater than or equal to approximately 10 times the MRHD (on a mg/m2 basis at maternal doses ≥ 0.6 mg/kg/day).
+DALIRESP induced stillbirth and decreased pup viability in mice at doses corresponding to approximately 16 and 49 times, respectively, the maximum recommended human dose (MRHD) (on a mg/m2 basis at maternal doses >2 mg/kg/day and 6 mg/kg/day, respectively).
+DALIRESP induced post-implantation loss in rats at doses greater than or equal to approximately 10 times the MRHD (on a mg/m2 basis at maternal doses ≥0.6 mg/kg/day).
 No treatment-related effects on embryo-fetal development were observed in mice, rats, and rabbits at approximately 12, 3, and 26 times the MRHD, respectively (on a mg/m2 basis at maternal doses of 1.5, 0.2, and 0.8 mg/kg/day, respectively).
 
 Nonteratogenic effects: DALIRESP has been shown to adversely affect pup post-natal development when dams were treated with the drug during pregnancy and lactation periods in mice.
@@ -18,7 +18,7 @@ DALIRESP also decreased survival and forelimb grip reflex and delayed pinna deta
 
 DALIRESP should not be used during labor and delivery.
 There are no human studies that have investigated effects of DALIRESP on preterm labor or labor at term; however, animal studies showed that DALIRESP disrupted the labor and delivery process in mice.
-DALIRESP induced delivery retardation in pregnant mice at doses greater than or equal to approximately 16 times the MRHD (on a mg/m2 basis at a maternal dose of > 2 mg/kg/day).
+DALIRESP induced delivery retardation in pregnant mice at doses greater than or equal to approximately 16 times the MRHD (on a mg/m2 basis at a maternal dose of >2 mg/kg/day).
 
 ## 8.3 Nursing Mothers
 
@@ -34,7 +34,7 @@ The safety and effectiveness of DALIRESP in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-Of the 4438 COPD subjects exposed to DALIRESP for up to 12 months in 8 controlled clinical trials, 2022 were > 65 years of age and 471 were > 75 years of age.
+Of the 4438 COPD subjects exposed to DALIRESP for up to 12 months in 8 controlled clinical trials, 2022 were > 65 years of age and 471 were >75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Based on available data for roflumilast, no adjustment of dosage in geriatric patients is warranted [see Clinical Pharmacology (12.3)].
 

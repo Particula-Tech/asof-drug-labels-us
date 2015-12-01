@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies were conducted in hamsters and mice with roflumilast to evaluate its carcinogenic potential.
-In 2-year oral gavage carcinogenicity studies, roflumilast treatment resulted in dose-related, statistically significant increases in the incidence of undifferentiated carcinomas of nasal epithelium in hamsters at ≥ 8 mg/kg/day (approximately 11 times the MRHD based on summed AUCs of roflumilast and its metabolites).
+In 2-year oral gavage carcinogenicity studies, roflumilast treatment resulted in dose-related, statistically significant increases in the incidence of undifferentiated carcinomas of nasal epithelium in hamsters at ≥8 mg/kg/day (approximately 11 times the MRHD based on summed AUCs of roflumilast and its metabolites).
 The tumorigenicity of roflumilast appears to be attributed to a reactive metabolite of 4-amino-3,5-dichloro-pyridine N-oxide (ADCP N-oxide).
 No evidence of tumorigenicity was observed in mice at roflumilast oral doses up to 12 and 18 mg/kg/day in females and males, respectively (approximately 10 and 15 times the MRHD, respectively, based on summed AUCs of roflumilast and its metabolites).
 
