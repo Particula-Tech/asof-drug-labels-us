@@ -22,5 +22,5 @@ Bromocriptine mesylate tablets therapy may permit a reduction of the maintenance
 Continued efficacy of bromocriptine mesylate tablets therapy during treatment of more than 2 years has not been established.
 
 Data are insufficient to evaluate potential benefit from treating newly diagnosed Parkinson's disease with bromocriptine mesylate tablets.
-Studies have shown, however, significantly more adverse reactions (notably nausea, hallucinations, confusion and hypotension) in bromocriptine mesylate treated patients than in levodopa/carbidopa treated patients.
+Studies have shown, however, significantly more adverse reactions (notably nausea, hallucinations, confusion and hypotension) in bromocriptine mesylate-treated patients than in levodopa/carbidopa-treated patients.
 Patients unresponsive to levodopa are poor candidates for bromocriptine mesylate tablets therapy.

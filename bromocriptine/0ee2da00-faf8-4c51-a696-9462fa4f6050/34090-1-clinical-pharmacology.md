@@ -12,32 +12,34 @@ Bromocriptine mesylate is a nonhormonal, nonestrogenic agent that inhibits the s
 Bromocriptine mesylate produces its therapeutic effect in the treatment of Parkinson’s disease, a clinical condition characterized by a progressive deficiency in dopamine synthesis in the substantia nigra, by directly stimulating the dopamine receptors in the corpus striatum.
 In contrast, levodopa exerts its therapeutic effect only after conversion to dopamine by the neurons of the substantia nigra, which are known to be numerically diminished in this patient population.
 
-## Clinical Studies
-
-In about 75% of cases of amenorrhea and galactorrhea, bromocriptine mesylate therapy suppresses the galactorrhea completely, or almost completely, and reinitiates normal ovulatory menstrual cycles.
-
-Menses are usually reinitiated prior to complete suppression of galactorrhea; the time for this on average is 6-8 weeks.
-However, some patients respond within a few days, and others may take up to 8 months.
-
-Galactorrhea may take longer to control depending on the degree of stimulation of the mammary tissue prior to therapy.
-At least a 75% reduction in secretion is usually observed after 8-12 weeks.
-Some patients may fail to respond even after 12 months of therapy.
-
-In many acromegalic patients, bromocriptine mesylate produces a prompt and sustained reduction in circulating levels of serum growth hormone.
-
 ## Pharmacokinetics
 
 ### Absorption
 
-Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.
-1Linear relationship was found between single doses of bromocriptine mesylate and Cmax and AUC in the dose range of 1 to 7.5 mg.
-2The pharmacokinetics of bromocriptine metabolites have not been reported.
+Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.1 Linear relationship was found between single doses of bromocriptine mesylate and Cmax and AUC in the dose range of 1 to 7.5 mg.2 The pharmacokinetics of bromocriptine metabolites have not been reported.
 
-Food did not significantly affect the systemic exposure of bromocriptine following administration of bromocriptine mesylate tablets, 2.5 mg.
-3It is recommended that bromocriptine mesylate be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
+Food did not significantly affect the systemic exposure of bromocriptine following administration of bromocriptine mesylate tablets, 2.5 mg.3 It is recommended that bromocriptine mesylate be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
 
-Following bromocriptine mesylate 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.
-4
+Following bromocriptine mesylate 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
+
+### Distribution
+
+In vitro experiments showed that bromocriptine was 90%-96% bound to serum albumin.
+
+### Metabolism
+
+Bromocriptine undergoes extensive first-pass biotransformation, reflected by complex metabolite profiles and by almost complete absence of parent drug in urine and feces.
+
+In vitro studies using human liver microsomes showed that bromocriptine has a high affinity for CYP3A and hydroxylations at the proline ring of the cyclopeptide moiety constituted a main metabolic pathway.5 Inhibitors and/or potent substrates for CYP3A4 might therefore inhibit the clearance of bromocriptine and lead to increased levels.
+(see PRECAUTIONS, drug interactions section).
+The participation of other major CYP enzymes such as 2D6, 2C8, and 2C19 on the metabolism of bromocriptine has not been evaluated.
+Bromocriptine is also an inhibitor of CYP3A4 with a calculated IC50 value of 1.69 μM.6 Given the low therapeutic concentrations of bromocriptine in patients (Cmax=0.82 nM), a significant alteration of the metabolism of a second drug whose clearance is mediated by CYP3A4 should not be expected.
+The potential effect of bromocriptine and its metabolites to act as inducers of CYP enzymes has not been reported.
+
+### Excretion
+
+About 82% and 5.6 % of the radioactive dose orally administered was recovered in feces and urine, respectively.
+Bromolysergic acid and bromoisolysergic acid accounted for half of the radioactivity in urine.5
 
 1 Nelson, M. et. al. (1990).
 Pharmacokinetic evaluation of erythromycin and caffeine administered with bromocriptine.
@@ -58,22 +60,6 @@ Eur J Drug Metab Pharmacokinet; 16(3):177-81
 A comparison of octreotide, bromocriptine, or a combination of both drugs in acromegaly.
 Journal of Clinical Endocrinology & Metabolism; Vol 79, 461-465.
 
-### Distribution
-
-In vitro experiments showed that bromocriptine was 90%-96% bound to serum albumin.
-
-### Metabolism
-
-Bromocriptine undergoes extensive first-pass biotransformation, reflected by complex metabolite profiles and by almost complete absence of parent drug in urine and feces.
-
-In vitro studies using human liver microsomes showed that bromocriptine has a high affinity for CYP3A and hydroxylations at the proline ring of the cyclopeptide moiety constituted a main metabolic pathway.
-5Inhibitors and/or potent substrates for CYP3A4 might therefore inhibit the clearance of bromocriptine and lead to increased levels.
-(see PRECAUTIONS, drug interactions section).
-The participation of other major CYP enzymes such as 2D6, 2C8, and 2C19 on the metabolism of bromocriptine has not been evaluated.
-Bromocriptine is also an inhibitor of CYP3A4 with a calculated IC50 value of 1.69 μM.
-6Given the low therapeutic concentrations of bromocriptine in patients (Cmax=0.82 nM), a significant alteration of the metabolism of a second drug whose clearance is mediated by CYP3A4 should not be expected.
-The potential effect of bromocriptine and its metabolites to act as inducers of CYP enzymes has not been reported.
-
 5 Peyronneau MA, Delaforge M, Riviere R et al. 1994.
 High affinity of ergopeptides for CYP P450 3A.
 Importance of their peptide moiety for P450 recognition and hydroxylation of bromocriptine.
@@ -83,11 +69,6 @@ Eur J Biochem 223:947-56.
 (1997).
 Assessment of potential interactions between dopamine receptor agonists and various human cytochrome P450 enzymes using a simple in vitro inhibition screen.
 Drug Metab Dispos; 25:1211-14.
-
-### Excretion
-
-About 82% and 5.6 % of the radioactive dose orally administered was recovered in feces and urine, respectively.
-Bromolysergic acid and bromoisolysergic acid accounted for half of the radioactivity in urine.5
 
 ### Special Populations
 
@@ -103,3 +84,16 @@ The effect of liver impairment on the PK of bromocriptine mesylate and its metab
 Since bromocriptine mesylate is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, General).
 
 The effect of age, race, and gender on the pharmacokinetics of bromocriptine and its metabolites has not been evaluated.
+
+## Clinical Studies
+
+In about 75% of cases of amenorrhea and galactorrhea, bromocriptine mesylate therapy suppresses the galactorrhea completely, or almost completely, and reinitiates normal ovulatory menstrual cycles.
+
+Menses are usually reinitiated prior to complete suppression of galactorrhea; the time for this on average is 6-8 weeks.
+However, some patients respond within a few days, and others may take up to 8 months.
+
+Galactorrhea may take longer to control depending on the degree of stimulation of the mammary tissue prior to therapy.
+At least a 75% reduction in secretion is usually observed after 8-12 weeks.
+Some patients may fail to respond even after 12 months of therapy.
+
+In many acromegalic patients, bromocriptine mesylate produces a prompt and sustained reduction in circulating levels of serum growth hormone.

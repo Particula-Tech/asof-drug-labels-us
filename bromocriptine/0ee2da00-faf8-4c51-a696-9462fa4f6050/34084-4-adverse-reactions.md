@@ -40,7 +40,7 @@ Nervous system disorders: Headache, drowsiness, dizziness, dyskinaesia, somnolen
 
 Eye disorders: Visual disturbance, vision blurred.
 
-Ear and labyrinth disorders: Tinnitus.
+Ear and labyrinth disorders: Tinnitus
 
 Cardiac disorders: Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
 
@@ -54,7 +54,7 @@ Skin and subcutaneous tissue disorders: Allergic skin reactions, hair loss.
 
 Musculoskeletal and connective tissue disorders: Leg cramps.
 
-General disorders and administration site conditions: Fatigue, peripheral edema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate (see PRECAUTIONS).
+General disorders and administration site conditions: Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate (see PRECAUTIONS).
 
 ## Adverse Events Observed in Other Conditions
 

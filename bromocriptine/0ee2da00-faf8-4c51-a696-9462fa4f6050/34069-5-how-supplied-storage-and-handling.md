@@ -1,8 +1,9 @@
 # HOW SUPPLIED
 
+Bromocriptine Mesylate Tablets, USP are available in bottles containing 30 and 100 tablets of 2.5 mg - each bottle contains a desiccant.
+
 Bromocriptine Mesylate Tablets, USP are available containing 2.5 mg of bromocriptine (as the mesylate).
 The 2.5 mg tablets are white to off-white, round, bevel edged snap tablets, debossed with "PAD" over "0106" on one side and scored on the other side.
-Complies with USP dissolution test 1.
 
 Bottles of 30.........NDC 0574-0106-03
 
