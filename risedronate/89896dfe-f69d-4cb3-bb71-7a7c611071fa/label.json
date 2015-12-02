@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA200296"
+  ],
+  "inn": "risedronate",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-517-10",
+    "65862-517-22",
+    "65862-517-30",
+    "65862-517-78",
+    "65862-518-10",
+    "65862-518-30",
+    "65862-518-78",
+    "65862-518-99",
+    "65862-519-04",
+    "65862-519-08"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "Risedronate Sodium"
+    }
+  ],
+  "setid": "89896dfe-f69d-4cb3-bb71-7a7c611071fa",
+  "source": "dailymed"
+}
