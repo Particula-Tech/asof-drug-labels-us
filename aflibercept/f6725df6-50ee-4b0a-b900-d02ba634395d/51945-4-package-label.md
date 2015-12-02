@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 mg/4 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg/4 mL Vial Carton
 
 NDC 0024-5840-01
 
@@ -15,9 +15,9 @@ Discard unused portion
 
 Rx ONLY
 
-REGENERON SANOFI
+SANOFI
 
-PRINCIPAL DISPLAY PANEL - 200 mg/8 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 200 mg/8 mL Vial Carton
 
 NDC 0024-5841-01
 
@@ -34,4 +34,4 @@ Discard unused portion
 
 Rx ONLY
 
-REGENERON SANOFI
+SANOFI
