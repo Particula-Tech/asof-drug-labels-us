@@ -11,3 +11,7 @@ PRADAXA is indicated for the treatment of deep venous thrombosis and pulmonary e
 ## 1.3 Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
 PRADAXA is indicated to reduce the risk of recurrence of deep venous thrombosis and pulmonary embolism in patients who have been previously treated.
+
+## 1.4 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+
+PRADAXA is indicated for the prophylaxis of deep vein thrombosis and pulmonary embolism, in patients who have undergone hip replacement surgery.

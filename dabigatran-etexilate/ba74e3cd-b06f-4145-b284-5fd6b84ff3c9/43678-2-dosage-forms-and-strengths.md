@@ -2,4 +2,6 @@
 
 150 mg capsules with a light blue opaque cap imprinted in black with the Boehringer Ingelheim company symbol and a cream-colored opaque body imprinted in black with "R150".
 
+110 mg capsules with a light blue opaque cap imprinted in black with the Boehringer Ingelheim company symbol and a light blue opaque body imprinted in black with “R110”.
+
 75 mg capsules with a cream-colored opaque cap imprinted in black with the Boehringer Ingelheim company symbol and a cream-colored opaque body imprinted in black with "R75".

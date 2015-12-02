@@ -26,6 +26,8 @@ The degree of anticoagulant activity can also be assessed by the ecarin clotting
 This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
 In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
 
+In orthopedic hip surgery patients, maximum aPTT response (Emax) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g. ≥3 days after surgery).
+
 Cardiac Electrophysiology
 
 No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.
@@ -73,10 +75,10 @@ Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each 
 Renal Impairment
 
 An open, parallel-group single-center study compared dabigatran pharmacokinetics in healthy subjects and patients with mild to moderate renal impairment receiving a single dose of PRADAXA 150 mg.
-Exposure to dabigatran increases with severity of renal function impairment (Table 6).
-Similar findings were observed in the RE-LY and RE-COVER trials.
+Exposure to dabigatran increases with severity of renal function impairment (Table 8).
+Similar findings were observed in the RE-LY, RE-COVER and RE-NOVATE II trials.
 
-Table 6 Impact of Renal Impairment on Dabigatran Pharmacokinetics
+Table 8 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in Cmax | t1/2 (h) |
 | --- | --- | --- | --- | --- |
@@ -84,7 +86,7 @@ Table 6 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 | Mild | 50-80 | 1.5x | 1.1x | 15 |
 | Moderate | 30-50 | 3.2x | 1.7x | 18 |
 | Severe+ | 15-30 | 6.3x | 2.1x | 27 |
-| +Patients with severe renal impairment were not studied in RE-LY and RE-COVER. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.1, 2.2) and Use in Specific Populations (8.6)]. |  |  |  |  |
+| +Patients with severe renal impairment were not studied in RE-LY, RE-COVER and RE-NOVATE II. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.1, 2.2) and Use in Specific Populations (8.6)]. |  |  |  |  |
 
 Hepatic Impairment
 
@@ -93,6 +95,8 @@ Administration of PRADAXA in patients with moderate hepatic impairment (Child-Pu
 Drug Interactions
 
 A summary of the effect of coadministered drugs on dabigatran exposure is shown in Figures 3.1 and 3.2.
+
+In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available.
 
 Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).
 Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).

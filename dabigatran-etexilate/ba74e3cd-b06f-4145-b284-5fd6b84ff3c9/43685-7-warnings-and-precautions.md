@@ -22,7 +22,7 @@ A specific reversal agent (idarucizumab) for dabigatran is available when revers
 - In life-threatening or uncontrolled bleeding
 
 Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
-Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant Factor VIIa, or concentrates of coagulation factors II, IX or X may be considered but their use has not been evaluated in clinical trials.
+Prothrombin complex concentrates, or recombinant Factor VIIa may be considered but their use has not been evaluated in clinical trials.
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.
 Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
 
@@ -61,3 +61,7 @@ Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairmen
 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
 Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.2) and Use in Specific Populations (8.6)].
+
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+
+Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].

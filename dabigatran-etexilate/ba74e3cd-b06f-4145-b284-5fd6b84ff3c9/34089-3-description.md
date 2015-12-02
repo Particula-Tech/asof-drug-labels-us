@@ -8,6 +8,6 @@ Dabigatran etexilate mesylate is a yellow-white to yellow powder.
 A saturated solution in pure water has a solubility of 1.8 mg/mL.
 It is freely soluble in methanol, slightly soluble in ethanol, and sparingly soluble in isopropanol.
 
-The 150 mg capsule for oral administration contains 172.95 mg dabigatran etexilate mesylate, which is equivalent to 150 mg of dabigatran etexilate, and the following inactive ingredients: acacia, dimethicone, hypromellose, hydroxypropyl cellulose, talc, and tartaric acid.
-The capsule shell is composed of carrageenan, FD&C Blue No. 2 (150 mg only), FD&C Yellow No. 6, hypromellose, potassium chloride, titanium dioxide, and black edible ink.
-The 75 mg capsule contains 86.48 mg dabigatran etexilate mesylate, equivalent to 75 mg dabigatran etexilate, and is otherwise similar to the 150 mg capsule.
+PRADAXA capsules are supplied in 75, 110, and 150 mg strengths for oral administration.
+Each capsule contains dabigatran etexilate mesylate as the active ingredient: 172.95 mg dabigatran etexilate mesylate (equivalent to 150 mg dabigatran etexilate), 126.83 mg dabigatran etexilate mesylate (equivalent to 110 mg dabigatran etexilate), or 86.48 mg dabigatran etexilate mesylate (equivalent to 75 mg dabigatran etexilate) along with the following inactive ingredients: acacia, dimethicone, hypromellose, hydroxypropyl cellulose, talc, and tartaric acid.
+The capsule shell is composed of carrageenan, hypromellose, potassium chloride, titanium dioxide, black edible ink, and FD&C Blue No. 2 (150 mg and 110 mg capsules only), or FD&C Yellow No. 6 (150 mg and 75 mg capsules only).

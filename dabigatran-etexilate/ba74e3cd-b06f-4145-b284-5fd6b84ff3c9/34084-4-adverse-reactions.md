@@ -1,5 +1,12 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described elsewhere in the labeling:
+
+- Increased Risk of Thrombotic Events after Premature Discontinuation [see Warnings and Precautions (5.1)]
+- Risk of Bleeding [see Warnings and Precautions (5.2)]
+- Spinal/Epidural Anesthesia or Puncture [see Warnings and Precautions (5.3)]
+- Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves [see Warnings and Precautions (5.4)]
+
 The most serious adverse reactions reported with PRADAXA were related to bleeding [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
@@ -160,6 +167,45 @@ Gastrointestinal Adverse Reactions In the four pivotal studies, patients on PRAD
 Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on PRADAXA in 7.5% vs. 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3.0% vs. 1.7%, respectively.
 
 Hypersensitivity Reactions In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in 0.1% of patients receiving PRADAXA.
+
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery PRADAXA was studied in 5476 patients, randomized and treated in two double-blind, active-controlled non-inferiority trials (RE-NOVATE and RE-NOVATE II).
+The demographic characteristics were similar across the two studies and between the treatment groups within these studies.
+Approximately 45.3 % of the treated patients were male, with a mean age of 63.2 years.
+The majority of the patients were white (96.1%), 3.6% were Asian, and 0.3% were black with a mean CrCl of 92 mL/min.
+
+Bleeding events for the RE-NOVATE and RE-NOVATE II studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or retroperitoneal bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells, requiring treatment cessation or leading to re-operation.
+
+The RE-NOVATE study compared PRADAXA 75 mg taken orally 1-4 hours after surgery followed by 150 mg once daily, PRADAXA 110 mg taken orally 1-4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
+The RE-NOVATE II study compared PRADAXA 110 mg taken orally 1-4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
+In the RE-NOVATE and RE-NOVATE II studies, patients received 28-35 days of PRADAXA or enoxaparin with median exposure of 33 days.
+Tables 6 and 7 show the number of patients experiencing bleeding events in the analysis of RE-NOVATE and RE-NOVATE II.
+
+Table 6 Bleeding Events in RE-NOVATE Treated Patients
+
+|  | PRADAXA 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- |
+| Patients | N=1146 | N=1154 |
+| Major bleeding event | 23 (2.0) | 18 (1.6) |
+| Clinically relevant non-major bleeding | 48 (4.2) | 40 (3.5) |
+| Any bleeding | 141 (12.3) | 132 (11.4) |
+
+Table 7 Bleeding Events in RE-NOVATE II Treated Patients
+
+|  | PRADAXA 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- |
+| Patients | N=1010 | N=1003 |
+| Major bleeding event | 14 (1.4) | 9 (0.9) |
+| Clinically relevant non-major bleeding | 26 (2.6) | 20 (2.0) |
+| Any bleeding | 98 (9.7) | 83 (8.3) |
+
+In the two studies, the rate of major gastrointestinal bleeds in patients receiving PRADAXA and enoxaparin was the same (0.1%) and for any gastrointestinal bleeds was 1.4% for PRADAXA 220 mg and 0.9% for enoxaparin.
+
+Gastrointestinal Adverse Reactions In the two studies, the incidence of gastrointestinal adverse reactions for patients on PRADAXA 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on PRADAXA 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs. 1.0%, respectively.
+
+Hypersensitivity Reactions In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus) was reported in 0.3% of patients receiving PRADAXA 220 mg.
+
+Clinical Myocardial Infarction Events In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received PRADAXA 220 mg and 6 (0.3%) of patients who received enoxaparin.
 
 ## 6.2 Postmarketing Experience
 
