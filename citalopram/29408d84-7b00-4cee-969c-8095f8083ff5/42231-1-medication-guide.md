@@ -18,7 +18,6 @@ Suicidal thoughts or actions:
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
   - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-
 - Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
@@ -97,11 +96,8 @@ Symptoms may include:
 - •confusion, problems concentrating or thinking or memory problems
 - 10.
   Visual problems.
-
 - •eye pain
-
 - •changes in vision
-
 - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
@@ -136,19 +132,12 @@ Do not take citalopram if you:
 - •Do not start citalopram if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - •People who take citalopram close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-
 - •high fever
-
 - •uncontrolled muscle spasms
-
 - •stiff muscles
-
 - •rapid changes in heart rate or blood pressure
-
 - •confusion
-
 - •loss of consciousness (pass out)
-
 - •take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 - •have a heart problem including congenital long QT syndrome.
 
