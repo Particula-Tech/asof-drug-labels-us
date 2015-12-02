@@ -58,6 +58,6 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-MF# 0402-01
+51U000000211US01
 
-Revised: 05/2014
+Revised: 09/2015

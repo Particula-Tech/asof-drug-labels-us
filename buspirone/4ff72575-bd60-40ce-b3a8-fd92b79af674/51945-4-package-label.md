@@ -32,9 +32,9 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-MF# 0398-01
+51U000000207US01
 
-Revised: 05/2014
+Revised: 09/2015
 
 # Package label principal display panel - 15 mg label
 
@@ -70,9 +70,9 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-MF# 0400-01
+51U000000209US01
 
-Revised: 05/2014
+Revised: 09/2015
 
 # Package label principal display panel -10 mg label
 
@@ -108,9 +108,9 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-MF# 0399-01
+51U000000208US01
 
-Revised: 05/2014
+Revised: 09/2015
 
 # Package label principal display panel -30 mg label
 
@@ -146,6 +146,6 @@ Eatontown, NJ 07724
 
 1.866.901.DRUG (3784)
 
-MF# 0401-01
+51U000000210US01
 
-Revised: 05/2014
+Revised: 09/2015
