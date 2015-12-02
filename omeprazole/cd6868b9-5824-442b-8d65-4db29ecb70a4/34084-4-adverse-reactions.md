@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 In the U.S. clinical trial population of 465 patients, the adverse reactions summarized in Table 2 were reported to occur in 1% or more of patients on therapy with omeprazole.
 Numbers in parentheses indicate percentages of the adverse reactions considered by investigators as possibly, probably or definitely related to the drug.
 
-Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole Therapy
+Table 2: Adverse Reactions Occurring in 1% or More of Patients on Omeprazole Therapy
 
 |  | Omeprazole(n = 465) | Placebo(n = 64) | Ranitidine(n = 195) |
 | --- | --- | --- | --- |
@@ -24,13 +24,11 @@ Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole The
 | Asthenia | 1.1 (0.2) | 1.6 (1.6) | 1.5 (1.0) |
 | Back Pain | 1.1 | 0.0 | 0.5 |
 
-Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole‑treated patients from international double‑blind, and open‑label clinical trials in which 2,631 patients and subjects received omeprazole.
+Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 3: Incidence of Adverse Reactions ≥ 1%
+Table 3: Incidence of Adverse Reactions ≥1% Causal Relationship not Assessed
 
-Causal Relationship not Assessed
-
-|  | Omeprazole(n = 2631) | Placebo(n = 120) |
+|  | Omeprazole (n = 2631) | Placebo(n = 120) |
 | --- | --- | --- |
 | Body as a Whole, site unspecified |  |  |
 | Abdominal pain | 5.2 | 3.3 |
@@ -46,13 +44,15 @@ Causal Relationship not Assessed
 | Headache | 2.9 | 2.5 |
 
 A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1680 mg suspension once daily to I.V. cimetidine 1200 mg/day for up to 14 days.
-The incidence and total number of AEs experienced by ≥ 3% of patients in either group are presented in Table 4 by body system and preferred term.
+The incidence and total number of AEs experienced by ≥3% of patients in either group are presented in Table 4 by body system and preferred term.
 
-Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%) Adverse Events by Body System and Preferred Term
+Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥3%) Adverse Events by Body System and Preferred Term
 
-| MedDRA Body System Preferred Term | All AEs n (%) | All AEs n (%) |
+|  | ZEGERID®(N=178) | Cimetidine(N=181) |
 | --- | --- | --- |
-|  | ZEGERID® (N=178) | Cimetidine (N=181) |
+| MedDRA |  |  |
+| Body System | All AEs | All AEs |
+| Preferred Term | n (%) | n (%) |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
 | Anemia NOS | 14 (7.9) | 14 (7.7) |
 | Anemia NOS Aggravated | 4 (2.2) | 7 (3.9) |
@@ -63,7 +63,7 @@ Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%
 | Supraventricular Tachycardia | 6 (3.4) | 2 (1.1) |
 | Tachycardia NOS | 6 (3.4) | 6 (3.3) |
 | Ventricular Tachycardia | 8 (4.5) | 6 (3.3) |
-| GASTROINTESTINAL DISORDERS * |  |  |
+| GASTROINTESTINAL DISORDERSClinically significant upper gastrointestinal bleeding was considered a serious adverse event but it is not included in this table. |  |  |
 | Constipation | 8 (4.5) | 8 (4.4) |
 | Diarrhea NOS | 7 (3.9) | 15 (8.3) |
 | Gastric Hypomotility | 3 (1.7) | 6 (3.3) |
@@ -102,7 +102,7 @@ Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%
 | VASCULAR DISORDERS |  |  |
 | Hypertension NOS | 14 (7.9) | 6 (3.3) |
 | Hypotension NOS | 17 (9.6) | 12 (6.6) |
-| * Clinically significant upper gastrointestinal bleeding was considered a serious adverse event but it is not included in this table.NOS = Not otherwise specified. |  |  |
+| NOS = Not otherwise specified. |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -116,10 +116,10 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, ele
 Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis and abdominal swelling.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
-Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long‑term treatment with omeprazole.
+Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
-Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), γ‑glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
+Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), ᵞ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
 In rare instances, overt liver disease has occurred, including hepatocellular, cholestatic, or mixed hepatitis, liver necrosis (some fatal), hepatic failure (some fatal), and hepatic encephalopathy.
 
 Infections and Infestations: Clostridium difficile associated diarrhea.
@@ -132,7 +132,7 @@ Nervous System/Psychiatric: Psychic disturbances including depression, agitation
 
 Respiratory: Epistaxis, pharyngeal pain.
 
-Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens‑Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
+Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
 
 Special Senses: Tinnitus, taste perversion.
 

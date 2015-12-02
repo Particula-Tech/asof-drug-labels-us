@@ -21,7 +21,7 @@ There have been reports of increased INR and prothrombin time in patients receiv
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin may need to be monitored for increases in INR and prothrombin time.
 
-Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P‑450 system (e.g., cyclosporine, disulfiram, benzodiazepines).
+Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P-450 system (e.g., cyclosporine, disulfiram, benzodiazepines).
 Patients should be monitored to determine if it is necessary to adjust the dosage of these drugs when taken concomitantly with ZEGERID.
 
 Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
@@ -55,10 +55,9 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 ## 7.4 Combination Therapy with Clarithromycin
 
 Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interaction [See Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs.
-[See Contraindications in prescribing information for clarithromycin]
+Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [See Contraindications in prescribing information for clarithromycin].
 
-## ​7.5 Clopidogrel
+## 7.5 Clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
@@ -71,10 +70,10 @@ When using ZEGERID, consider use of alternative anti-platelet therapy.
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.7 Interactions with Investigations of Neuroendocrine Tumors
+## 7.7 Interactions With Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[See Clinical Pharmacology (12)].
+[See Clinical Pharmacology (12)]
 
 ## 7.8 Methotrexate
 

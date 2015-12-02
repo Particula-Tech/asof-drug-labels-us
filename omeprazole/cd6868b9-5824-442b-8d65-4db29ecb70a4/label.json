@@ -6,9 +6,7 @@
   "inn": "omeprazole",
   "labeler": "Santarus, Inc.",
   "package_ndcs": [
-    "68012-052-01",
     "68012-052-30",
-    "68012-054-01",
     "68012-054-30",
     "68012-102-30",
     "68012-104-30"
@@ -16,18 +14,13 @@
   "products": [
     {
       "form": "CAPSULE",
-      "generic": "omepraziole, sodium bicarbonate",
-      "name": "Zegerid"
-    },
-    {
-      "form": "CAPSULE",
       "generic": "omeprazole, sodium bicarbonate",
-      "name": "Zegerid"
+      "name": "ZEGERID"
     },
     {
       "form": "POWDER, FOR SUSPENSION",
       "generic": "omeprazole, sodium bicarbonate",
-      "name": "Zegerid"
+      "name": "ZEGERID"
     }
   ],
   "setid": "cd6868b9-5824-442b-8d65-4db29ecb70a4",

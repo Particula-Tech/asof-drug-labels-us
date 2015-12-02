@@ -4,16 +4,16 @@
 
 Symptomatic response to therapy with omeprazole does not preclude the presence of gastric malignancy.
 
-## 5.2 Atrophic Gastritis
+## 5.2 Atrophic gastritis
 
-Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long‑term with omeprazole.
+Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
 ## 5.3 Acute Interstitial Nephritis
 
 Acute interstitial nephritis has been observed in patients taking PPIs including ZEGERID.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
 Discontinue ZEGERID if acute interstitial nephritis develops.
-[See Contraindications (4)]
+[See Contraindications (4)].
 
 ## 5.4 Cyanocobalamin (vitamin B-12) Deficiency
 
@@ -31,13 +31,13 @@ Each packet of ZEGERID Powder for Oral Suspension contains 1680 mg (20 mEq) of s
 The sodium content of ZEGERID products should be taken into consideration when administering to patients on a sodium restricted diet.
 
 Because ZEGERID products contain sodium bicarbonate, they should be used with caution in patients with Bartter’s syndrome, hypokalemia, hypocalcemia, and problems with acid-base balance.
-Long‑term administration of bicarbonate with calcium or milk can cause milk‑alkali syndrome.
+Long-term administration of bicarbonate with calcium or milk can cause milk-alkali syndrome.
 
 Chronic use of sodium bicarbonate may lead to systemic alkalosis and increased sodium intake can produce edema and weight increase.
 
 ## 5.6 Clostridium difficile Associated Diarrhea
 
-​Published observational studies suggest that PPI therapy like ZEGERID may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like ZEGERID may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve.
 [See Adverse Reactions (6.2)]
 
@@ -63,16 +63,17 @@ Patients at risk for osteoporosis-related fractures should be managed according 
 
 ## 5.9 Hypomagnesemia
 
-Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIS for at least three months, in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.[See Adverse Reactions (6.2)]
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions (6.2)]
 
 ## 5.10 Concomitant Use of ZEGERID with St John’s Wort or Rifampin
 
 Drugs which induce CYP2C19 OR CYP34A (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations [See Drug Interactions (7.2)].
-Avoid concomitant use of ZEGERD with St John’s Wort or rifampin.
+Avoid concomitant use of ZEGERID with St John’s Wort or rifampin.
 
 ## 5.11 Interactions with Investigations for Neuroendocrine Tumors
 
@@ -86,4 +87,4 @@ If serial tests are performed (e.g. for monitoring), the same commercial laborat
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
-[See Drug Interactions (7.8)]
+[See Drug Interactions (7.8)].
