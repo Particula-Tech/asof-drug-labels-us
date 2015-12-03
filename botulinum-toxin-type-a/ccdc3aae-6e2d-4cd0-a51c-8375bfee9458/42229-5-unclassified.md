@@ -1,30 +1,32 @@
-Manufactured by: Merz Pharma GmbH & Co., KGaA Am Pharmapark D-06861 Dessau-Rosslau Germany
+Manufactured by: Merz Pharmaceuticals GmbH Eckenheimer Landstrasse 100 Frankfurt Germany U.S. License Number 1830
 
-Distributed by: Merz Pharmaceuticals, LLC 4215 Tudor Lane Greensboro, NC 27410
+Distributed by: Merz Pharmaceuticals, LLC 6501 Six Forks Road Raleigh, NC 27615
 
 and
 
-Merz North America, Inc. 4133 Courtney Road, Suite 10 Franksville, WI 53126
+Merz North America, Inc. 4133 Courtney Street, Suite 10 Franksville, WI 53126
 
-© 2014 Merz Pharmaceuticals, LLC
+© 2015 Merz Pharmaceuticals, LLC
 
 XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA Patent pending.
 
 Botox® is a registered trademark of Allergan, Inc.
 
-Distributed by: Merz Pharmaceuticals, LLC 4215 Tudor Lane Greensboro, NC 27410
+Manufactured by: Merz Pharmaceuticals GmbH Eckenheimer Landstrasse 100 Frankfurt Germany U.S. License Number 1830
+
+Distributed by: Merz Pharmaceuticals, LLC 6501 Six Forks Road Raleigh, NC 27615
 
 and
 
-Merz North America, Inc. 4133 Courtney Road, Suite 10 Franksville, WI 53126
+Merz North America, Inc. 4133 Courtney Street, Suite 10 Franksville, WI 53126
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued 07/2011
+Issued 11/2015
 
-© 2014 Merz Pharmaceuticals, LLC XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
+© 2015 Merz Pharmaceuticals, LLC XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 Patent pending.
 
 Botox®, Botox® Cosmetic, Dysport®, and Myobloc® are registered trademarks of their respective owners.
 
-EM00451-01
+EM00674-01

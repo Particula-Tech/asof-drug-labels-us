@@ -21,7 +21,7 @@ They are not interchangeable with the other preparations of botulinum toxin prod
 Hypersensitivity reactions have been reported with botulinum toxin products (anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea).
 If serious and/or immediate hypersensitivity reactions occur further injection of XEOMIN should be discontinued and appropriate medical therapy immediately instituted.
 
-## 5.4 Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia
+## 5.4 Dysphagia and Breathing Difficulties
 
 Treatment with XEOMIN and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
@@ -42,12 +42,12 @@ In general, limiting the dose injected into the sternocleidomastoid muscle may d
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
 These reactions can occur within hours to weeks after injection with botulinum toxin [See Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
-## 5.5 Pre-existing Neuromuscular Disorders and other Special Populations
+## 5.5 Pre-existing Neuromuscular Disorders
 
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis, or neuromuscular junctional disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
 Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from typical doses of XEOMIN [See Adverse Reactions (6.1)].
 
-## 5.6 Corneal Exposure, Corneal Ulceration, and Ectropion in Patients Treated with XEOMIN for Blepharospasm
+## 5.6 Corneal Exposure, Corneal Ulceration, and Ectropion in Patients Treated for Blepharospasm
 
 Reduced blinking from injection of botulinum toxin products in the orbicularis muscle can lead to corneal exposure, persistent epithelial defect and corneal ulceration, especially in patients with VII nerve disorders.
 Careful testing of corneal sensation in eyes previously operated upon, avoidance of injection into the lower lid area to avoid ectropion, and vigorous treatment of any epithelial defect should be employed.
@@ -58,7 +58,7 @@ To prevent ectropion, botulinum toxin products should not be injected into the m
 Ecchymosis easily occurs in the soft tissues of the eyelid.
 Immediate gentle pressure at the injection site can limit that risk.
 
-## 5.7 Risk of Ptosis in Patients Treated with XEOMIN for Glabellar Lines
+## 5.7 Risk of Ptosis in Patients Treated for Glabellar Lines
 
 Do not exceed the recommended dosage and frequency of administration of XEOMIN.
 

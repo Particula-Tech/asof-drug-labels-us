@@ -8,9 +8,9 @@ There are no adequate and well-controlled studies in pregnant women.
 XEOMIN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 XEOMIN was embryotoxic in rats and increased abortions in rabbits when given at doses higher than the maximum recommended human dose (MRHD) for cervical dystonia (120 Units) on a body weight basis.
 
-When XEOMIN was administered intramuscularly to pregnant rats during organogenesis (3, 10, or 30 Units/kg on gestational days [GDs] 6, 12, and 19; or 7 Units/kg on GDs 6 to 19; or 2, 6, or 18 Units/kg on GDs 6, 9, 12, 16, and 19), decreases in fetal body weight and skeletal ossification were observed at doses that were also maternally toxic.
+When XEOMIN was administered intramuscularly to pregnant rats during organogenesis (3 Units/kg, 10 Units/kg, or 30 Units/kg on gestational days [GDs] 6, 12, and 19; or 7 Units/kg on GDs 6 to 19; or 2, 6, or 18 Units/kg on GDs 6, 9, 12, 16, and 19), decreases in fetal body weight and skeletal ossification were observed at doses that were also maternally toxic.
 The no-effect level for embryotoxicity in rats was 6 Units/kg (3 times the MRHD for cervical dystonia on a body weight basis).
-Intramuscular administration to pregnant rabbits during organogenesis (1.25, 2.5, or 5.0 Units/kg on GDs 6, 18, and 28) resulted in an increased rate of abortion at the highest dose, which was also maternally toxic.
+Intramuscular administration to pregnant rabbits during organogenesis (1.25 Units/kg, 2.5 Units/kg, or 5.0 Units/kg on GDs 6, 18, and 28) resulted in an increased rate of abortion at the highest dose, which was also maternally toxic.
 In rabbits, the no-effect level for increased abortion was 2.5 Units/kg (similar to the MRHD for cervical dystonia on a body weight basis).
 
 ## 8.3 Nursing Mothers

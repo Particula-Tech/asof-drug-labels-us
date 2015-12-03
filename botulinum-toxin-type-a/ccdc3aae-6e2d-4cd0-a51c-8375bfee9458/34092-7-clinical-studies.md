@@ -93,11 +93,11 @@ There were too few African-American patients to assess efficacy in that populati
 
 Two identically designed randomized, double-blind, multi-center, placebo controlled clinical trials (Studies GL-1 and GL-2) were conducted to evaluate XEOMIN for use in the temporary improvement of moderate to severe glabellar lines.
 The studies enrolled 547 healthy patients (≥18 years old) with glabellar lines of at least moderate severity at maximum frown.
-Three hundred sixty six subjects were treated with 20 U of XEOMIN and 181 subjects were treated with placebo.
+Three hundred sixty six subjects were treated with 20 Units of XEOMIN and 181 subjects were treated with placebo.
 Subjects were excluded if they had marked ptosis, deep dermal scarring, or an inability to lessen glabellar lines, even by physically spreading them apart.
 The mean age of study subjects was 46 years.
 The majority of patients were female (86% and 93% in Studies GL-1 and GL-2, respectively), and predominantly Caucasian (89% and 65% respectively).
-The study subjects received either 20 U of XEOMIN or an equal amount of placebo.
+The study subjects received either 20 Units of XEOMIN or an equal amount of placebo.
 The total dose was delivered in 5 equally divided intramuscular injections of 4 Units each to specific sites (see Figure 1).
 Subjects were followed up for 120 days.
 
