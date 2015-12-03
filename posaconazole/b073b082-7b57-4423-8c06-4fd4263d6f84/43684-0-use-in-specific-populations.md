@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Noxafil should be used in pregnancy only if the potential benefit outweighs the potential risk to the fetus.
 
 Posaconazole has been shown to cause skeletal malformations (cranial malformations and missing ribs) in rats when given in doses ≥27 mg/kg (≥1.4 times the 400-mg BID oral suspension regimen based on steady-state plasma concentrations of drug in healthy volunteers).
@@ -63,7 +63,7 @@ Similar recommendations apply to posaconazole delayed-release tablets; however, 
 
 Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
-Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.6) and Warnings and Precautions (5.4)].
 
 ## 8.7 Hepatic Impairment
 

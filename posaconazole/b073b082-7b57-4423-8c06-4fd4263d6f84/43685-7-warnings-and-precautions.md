@@ -36,11 +36,11 @@ Discontinuation of posaconazole must be considered if clinical signs and symptom
 
 ## 5.4 Renal Impairment
 
-Due to the variability in exposure with Noxafil delayed-release tablets and oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+Due to the variability in exposure with Noxafil delayed-release tablets and oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
 In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
-Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 ## 5.5 Use with Midazolam
 

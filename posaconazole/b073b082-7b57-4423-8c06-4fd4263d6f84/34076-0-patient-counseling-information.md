@@ -8,7 +8,9 @@ Noxafil Delayed-Release Tablets
 
 Advise patients to take Noxafil delayed-release tablets with food.
 
-Physicians should instruct their patients that if they miss a dose, they should take it as soon as they remember.
+Advise patients that Noxafil delayed-release tablets must be swallowed whole and not divided, crushed, or chewed.
+
+Instruct patients that if they miss a dose, they should take it as soon as they remember.
 If they do not remember until it is within 12 hours of the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
 Patients should not double their next dose or take more than the prescribed dose.
 
@@ -17,9 +19,13 @@ Noxafil Oral Suspension
 Advise patients to take each dose of Noxafil oral suspension during or immediately (i.e., within 20 minutes) following a full meal.
 In patients who cannot eat a full meal, each dose of Noxafil oral suspension should be administered with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale) in order to enhance absorption.
 
+Instruct patients that if they miss a dose, they should take it as soon as they remember.
+However, if it is almost time for the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
+Patients should not double their next dose or take more than the prescribed dose.
+
 ## 17.2 Drug Interactions
 
-Patients should be advised to inform their physician immediately if they:
+Advise patients to inform their physician immediately if they:
 
 - develop severe diarrhea or vomiting.
 - are currently taking drugs that are known to prolong the QTc interval and are metabolized through CYP3A4.
@@ -28,7 +34,7 @@ Patients should be advised to inform their physician immediately if they:
 
 ## 17.3 Serious and Potentially Serious Adverse Reactions
 
-Patients should be advised to inform their physician immediately if they:
+Advise patients to inform their physician immediately if they:
 
 - notice a change in heart rate or heart rhythm, or have a heart condition or circulatory disease.
   Posaconazole can be administered with caution to patients with potentially proarrhythmic conditions.

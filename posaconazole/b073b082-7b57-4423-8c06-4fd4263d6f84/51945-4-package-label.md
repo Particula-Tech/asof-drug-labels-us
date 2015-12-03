@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 105 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 105 mL Bottle Carton
 
-NDC 0085-1328-01
+NDC 0085-1328-01 105 mL
 
 NOXAFIL® (posaconazole)
 
@@ -8,15 +8,17 @@ Oral Suspension 200 mg/5 mL
 
 Each mL contains: 40 mg posaconazole.
 
+Attention: Noxafil Oral Suspension and Delayed-Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
+
 SHAKE WELL BEFORE EACH USE.
+
+Take with a meal, or a nutritional supplement, or an acidic carbonated beverage.
+
+Carton contains measured dosing spoon.
 
 Rx only
 
-105 mL
-
-28343337
-
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 60 Tablet Bottle Label
 
 NDC 0085-4324-02
 
@@ -25,6 +27,8 @@ Noxafil® (posaconazole) delayed-release tablets
 100 mg
 
 Each tablet contains 100 mg posaconazole.
+
+Attention: Noxafil Oral Suspension and Delayed- Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
 
 Rx only
 
