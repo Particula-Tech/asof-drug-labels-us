@@ -2,6 +2,8 @@
 
 Risedronate Sodium Tablets, USP are available as follows:
 
+35 mg film-coated, round, orange biconvex tablet, engraved ‘APO’ on one side, ‘RIS’ over ‘35’ on the other side NDC 60505-3165-0 dose pack of 4 NDC 60505-3165-2 dose pack of 12
+
 75 mg film-coated, round, dark pink biconvex tablet, engraved ‘APO’ on one side, ‘RIS’ over ‘75’ on the other side NDC 60505-3096-2 dose pack of 2
 
 150 mg film-coated, round, blue biconvex tablet, engraved ‘APO’ on one side, ‘RIS’ over ‘150’ on the other side NDC 60505-3097-2 dose pack of 1 NDC 60505-3097-4 dose pack of 3

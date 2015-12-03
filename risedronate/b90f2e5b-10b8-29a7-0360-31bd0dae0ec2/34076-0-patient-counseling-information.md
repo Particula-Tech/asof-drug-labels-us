@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved patient labeling (Medication Guide)
+See FDA-Approved labeling (Medication Guide)
 
 Instruct patients to read the Medication Guide before starting therapy with risedronate sodium tablets and to re-read it each time the prescription is renewed.
 
@@ -11,7 +11,7 @@ Specifically, risedronate sodium tablets should be taken at least 30 minutes bef
 
 Instruct patients to take risedronate sodium tablets while in an upright position (sitting or standing) with a full glass of plain water (6 to 8 ounces) to facilitate delivery to the stomach, and thus reduce the potential for esophageal irritation.
 
-Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
+Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.2)].
 
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal irritation.
 
@@ -19,6 +19,8 @@ Instruct patients that if they develop symptoms of esophageal disease (such as d
 
 Instruct patients about missing risedronate sodium tablets doses as follows:
 
+- If a dose of risedronate sodium tablets 35 mg once-a–week is missed, they should take 1 tablet on the morning after they remember and return to taking 1 tablet once-a-week, as originally scheduled on their chosen day.
+  Patients should not take 2 tablets on the same day.
 - If one or both tablets of risedronate sodium tablets 75 mg on two consecutive days per month are missed, and the next month’s scheduled doses are more than 7 days away, the patient should be instructed as follows:
   - If both tablets are missed, take one risedronate sodium 75 mg tablet in the morning after the day it is remembered and then the other tablet on the next consecutive morning.
   - If only one risedronate sodium 75 mg tablet is missed, take the missed tablet in the morning after the day it is remembered.
@@ -44,7 +46,11 @@ Patients should be instructed that any time they have a medical problem they thi
 
 All registered trademarks in this document are the property of their respective owners.
 
-APOTEX INC. Risedronate Sodium Tablets, USP 75 mg, 150 mg
+APOTEX INC.
+
+Risedronate Sodium Tablets, USP
+
+35 mg, 75 mg, 150 mg
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
@@ -52,6 +58,6 @@ APOTEX INC. Risedronate Sodium Tablets, USP 75 mg, 150 mg
 | Toronto, ON | Weston, Florida |
 | Canada M9L 1T9 | 33326, USA |
 
-Revised: April 2015
+Revised: May 2015
 
-Revision: 9
+Revision: 10

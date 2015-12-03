@@ -66,6 +66,10 @@ Interruption of bisphosphonate therapy should be considered, pending a risk/bene
 
 Risedronate sodium tablets are not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 
+## 5.8 Glucocorticoid-Induced Osteoporosis
+
+Before initiating risedronate sodium tablets treatment for the treatment and prevention of glucocorticoid-induced osteoporosis, the sex steroid hormonal status of both men and women should be ascertained and appropriate replacement considered.
+
 ## 5.9 Laboratory Test Interactions
 
 Bisphosphonates are known to interfere with the use of bone-imaging agents.

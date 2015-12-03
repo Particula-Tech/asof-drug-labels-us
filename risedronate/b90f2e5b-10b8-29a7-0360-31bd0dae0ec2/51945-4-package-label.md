@@ -1,3 +1,17 @@
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 35 MG CARTON
+
+APOTEX CORP. NDC 60505-3165-0
+
+Risedronate Sodium Tablets, USP 35 mg
+
+Each film-coated tablet contains 40.5 mg of risedronate sodium hemipentahydrate (equivalent to 35 mg of risedronate sodium).
+
+35 mg
+
+Rx only
+
+4 Tablets (Once-a-Week)
+
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 75 MG CARTON
 
 APOTEX CORP. NDC 60505-3096-2

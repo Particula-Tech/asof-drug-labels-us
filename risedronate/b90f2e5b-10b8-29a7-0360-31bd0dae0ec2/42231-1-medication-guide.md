@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Risedronate Sodium Tablets, USP (ris-e-drone-nate soe-dee-um)
 
@@ -50,6 +50,9 @@ Risedronate sodium tablets are a prescription medicine used to:
 
 - Treat or prevent osteoporosis in women after menopause.
   Risedronate sodium tablets help increase bone mass and help reduce the chance of having a spinal or non-spinal fracture (break).
+- Increase bone mass in men with osteoporosis.
+- Treat or prevent osteoporosis in either men or women who are taking corticosteroid medicines.
+- Treat certain men and women who have Paget's disease of the bone.
 
 It is not known how long risedronate sodium tablets work for the treatment and prevention of osteoporosis.
 You should see your doctor regularly to determine if risedronate sodium tablets are still right for you.
@@ -145,7 +148,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store risedronate sodium tablets?
 
-- Store risedronate sodium tablets at 20° C to 25° C (68° F to 77° F).
+- Store risedronate sodium tablets at 20°C to 25°C (68°F to 77°F).
 
 Safely throw away medicine that is out of date or no longer needed.
 
@@ -169,13 +172,17 @@ Active ingredient: risedronate sodium
 
 Inactive ingredients in all dose strengths: anhydrous lactose, crospovidone, hydroxypropyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, silicon dioxide, titanium dioxide.
 
-Inactive ingredients specific to a dose strength: 75 mg—ferric oxide red; 150 mg—FD&C Blue # 2, sodium phosphate monobasic monohydrate, sodium phosphate dibasic.
+Inactive ingredients specific to a dose strength: 35 mg—ferric oxide red, ferric oxide yellow; 75 mg—ferric oxide red; 150 mg—FD&C Blue # 2, sodium phosphate monobasic monohydrate, sodium phosphate dibasic.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 All registered trademarks in this document are the property of their respective owners.
 
-APOTEX INC. Risedronate Sodium Tablets, USP 75 mg, 150 mg
+APOTEX INC.
+
+Risedronate Sodium Tablets, USP
+
+35 mg, 75 mg, 150 mg
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
@@ -183,6 +190,6 @@ APOTEX INC. Risedronate Sodium Tablets, USP 75 mg, 150 mg
 | Toronto, ON | Weston, Florida |
 | Canada M9L 1T9 | 33326, USA |
 
-Revised: April 2015
+Revised: May 2015
 
-Revision: 9
+Revision: 10

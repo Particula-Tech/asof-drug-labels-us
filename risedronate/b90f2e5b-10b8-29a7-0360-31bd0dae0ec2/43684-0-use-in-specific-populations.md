@@ -41,7 +41,7 @@ The enrolled population was predominantly patients with mild osteogenesis imperf
 Patients received either a 2.5 mg (less than or equal to 30 kg body weight) or 5 mg (greater than 30 kg body weight) daily oral dose.
 After one year, an increase in lumbar spine BMD in the risedronate group compared to the placebo group was observed.
 However, treatment with risedronate did not result in a reduction in the risk of fracture in pediatric patients with osteogenesis imperfecta.
-In risedronate sodium -treated subjects, no mineralization defects were noted in paired bone biopsy specimens obtained at baseline and month 12.
+In risedronate sodium-treated subjects, no mineralization defects were noted in paired bone biopsy specimens obtained at baseline and month 12.
 
 The overall safety profile of risedronate in OI patients treated for up to 12 months was generally similar to that of adults with osteoporosis.
 However, there was an increased incidence of vomiting compared to placebo.
