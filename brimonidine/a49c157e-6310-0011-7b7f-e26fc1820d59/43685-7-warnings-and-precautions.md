@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS SECTION
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Sulfonamide Hypersensitivity Reactions
 
@@ -41,7 +41,7 @@ Because brimonidine tartrate, a component of SIMBRINZA, has not been studied in 
 ## 5.8 Potentiation of Vascular Insufficiency
 
 Brimonidine tartrate, a component of SIMBRINZA, may potentiate syndromes associated with vascular insufficiency.
-SIMBRINZA should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangitis obliterans.
+SIMBRINZA should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
 
 ## 5.9 Contamination of Topical Ophthalmic Products After Use
 

@@ -1,6 +1,11 @@
-# 13 NONCLINICAL TOXICOLOGY SECTION
+# 13 NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Brinzolamide caused urinary bladder tumors in female mice at oral doses of 10 mg/kg/day and in male rats at oral doses of 8 mg/kg/day in 2 year studies.
+Brinzolamide was not carcinogenic in male mice or female rats dosed orally for up to 2 years.
+The carcinogenicity appears secondary to kidney and urinary bladder toxicity.
+These levels of exposure cannot be achieved with topical ophthalmic dosing in humans.
 
 The following tests for mutagenic potential of brinzolamide were negative: (1) in vivo mouse micronucleus assay; (2) in vivo sister chromatid exchange assay; and (3) Ames E. coli test.
 The in vitro mouse lymphoma forward mutation assay was negative in the absence of activation, but positive in the presence of microsomal activation.

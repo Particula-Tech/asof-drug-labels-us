@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION SECTION
+# 2 DOSAGE & ADMINISTRATION
 
 The recommended dose is one drop of SIMBRINZA in the affected eye(s) three times daily.
 Shake well before use.

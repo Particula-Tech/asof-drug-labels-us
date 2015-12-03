@@ -1,4 +1,4 @@
-# 11 DESCRIPTION SECTION
+# 11 DESCRIPTION
 
 SIMBRINZA (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2% is a fixed combination of a carbonic anhydrase inhibitor and an alpha 2 adrenergic receptor agonist.
 Brinzolamide is described chemically as: (R)-(+)-4-Ethylamino-2-(3-methoxypropyl)-3,4-dihydro-2H-thieno [3,2-e]-1,2-thiazine-6-sulfonamide-1,1- dioxide.

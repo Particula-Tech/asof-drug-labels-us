@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS SECTION
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Studies Experience
 
