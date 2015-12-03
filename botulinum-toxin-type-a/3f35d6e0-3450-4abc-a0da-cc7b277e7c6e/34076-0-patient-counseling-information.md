@@ -14,4 +14,4 @@ Patients should be informed that injections of XEOMIN may cause dyspnea, or mild
 
 Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
-Patients should be informed that injections of XEOMIN may cause reduced blinking or effectiveness of blinking, and that they should seek immediate medical attention if eye pain or irritation occur following treatment.
+Patients should be informed that injections of XEOMIN may cause reduced blinking or effectiveness of blinking, and that they should seek immediate medical attention if eye pain or irritation occurs following treatment.

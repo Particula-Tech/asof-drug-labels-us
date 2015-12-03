@@ -2,9 +2,15 @@
 
 ## 16.1 How Supplied
 
-Type 1 borosilicate glass single-use vials with latex-free bromobutyl rubber closures and tamper-proof aluminum seals in the following pack sizes:
+Type 1 borosilicate glass single-dose vials with latex-free bromobutyl rubber closures and tamper-proof aluminum seals in the following pack sizes:
 
-Cervical Dystonia and Blepharospasm
+Cervical Dystonia
+
+| Package | XEOMIN 50 Units | XEOMIN 100 Units | XEOMIN 200 Units |
+| --- | --- | --- | --- |
+| single vial pack | NDC 0259-1605-01 | NDC 0259-1610-01 | NDC 0259-1620-01 |
+
+Blepharospasm
 
 | Package | XEOMIN 50 Units | XEOMIN 100 Units |
 | --- | --- | --- |
@@ -24,7 +30,7 @@ Reconstituted XEOMIN should be stored in a refrigerator at 2 to 8°C (36 to 46°
 
 ## 16.3 Handling
 
-XEOMIN is reconstituted prior to use with sterile preservative-free 0.9% Sodium Chloride Injection, USP [see Dosage and Administration (2.5)].
+XEOMIN is reconstituted prior to use with sterile preservative-free 0.9% Sodium Chloride Injection, USP [see Dosage and Administration (2.6)].
 
 XEOMIN should not be used if the reconstituted solution has a cloudy appearance or contains floccular or particulate matter.
 
