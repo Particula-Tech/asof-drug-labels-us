@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208411"
+  ],
+  "inn": "naloxone",
+  "labeler": "Adapt Pharma, Inc.",
+  "package_ndcs": [
+    "69547-353-02"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "naloxone hydrochloride",
+      "name": "NARCAN"
+    }
+  ],
+  "setid": "724df050-5332-4d0a-9a5f-17bf08a547e1",
+  "source": "dailymed"
+}
