@@ -78,6 +78,6 @@ NDC 0781-6157-57......................................................
 NDC 0781-6157-46....................................................
 100 mL bottle
 
-Store capsules, tablets and unreconstituted powder for oral suspension at 20°-25°C (68°-77°F).
+Store capsules, tablets and unreconstituted powder for oral suspension at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature].
 Dispense in a tight container.

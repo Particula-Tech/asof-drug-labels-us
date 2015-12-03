@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information for Patients
+Information for Patients
 
 - •Patients should be advised that amoxicillin may be taken every 8 hours or every 12 hours, depending on the dose prescribed.
 - •Patients should be counseled that antibacterial drugs, including amoxicillin, should only be used to treat bacterial infections.
@@ -18,9 +18,9 @@ CLINISTIX® is a registered trademark of Bayer Corporation.
 
 CLOtest® is a registered trademark of Kimberly-Clark Corporation.
 
-46153872
+46171387
 
-12-2014M
+10-2015M
 
 Manufactured in Austria by Sandoz GmbH for
 

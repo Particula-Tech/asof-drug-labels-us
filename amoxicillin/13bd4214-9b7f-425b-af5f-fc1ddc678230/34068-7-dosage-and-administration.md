@@ -2,8 +2,8 @@
 
 ## 2.1 Dosing for Adult and Pediatric Patients > 3 Months of Age
 
-Except for gonorrhea, treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
-It is recommended that there be at least 10 days’ treatment for any infection caused by Streptococcus pyogenesto prevent the occurrence of acute rheumatic fever.
+Treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
+It is recommended that there be at least 10 days’ treatment for any infection caused by Streptococcus pyogenes to prevent the occurrence of acute rheumatic fever.
 In some infections, therapy may be required for several weeks.
 It may be necessary to continue clinical and/or bacteriological follow-up for several months after cessation of therapy.
 
@@ -15,12 +15,11 @@ Dosing Recommendations for Adult and Pediatric Patients > 3 Months of Age
 | Ear/Nose/Throat Skin/Skin Structure Genitourinary Tract | Mild/Moderate | 500 mg every 12 hours or 250 mg every 8 hours | 25 mg/kg/day in divided doses every 12 hours or 20 mg/kg/day in divided doses every 8 hours |
 |  | Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours |
 | Lower Respiratory Tract | Mild/Moderate or Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or40 mg/kg/day in divided dosesevery 8 hours |
-| GonorrheaAcute, uncomplicatedano-genital and urethral infections in males and females |  | 3 grams as single oral dose | Prepubertal children:50 mg/kg amoxicillin, combined with 25 mg/kg probenecid as a single dose.Note: since probenecid is contraindicated in children under 2 years, do not use this regimen in children under 2 years of age. |
 
 ## 2.2 Dosing in Neonates and Infants Aged ≤ 12 Weeks (≤ 3 Months)
 
 Treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
-It is recommended that there be at least 10 days’ treatment for any infection caused by Streptococcus pyogenesto prevent the occurrence of acute rheumatic fever.
+It is recommended that there be at least 10 days’ treatment for any infection caused by Streptococcus pyogenes to prevent the occurrence of acute rheumatic fever.
 Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended upper dose of amoxicillin is 30 mg/kg/day divided every 12 hours.
 There are currently no dosing recommendations for pediatric patients with impaired renal function.
 
@@ -39,7 +38,7 @@ Please refer to clarithromycin and lansoprazole full prescribing information.
 - •Patients with a glomerular filtration rate of 10 to 30 mL/min should receive 500 mg or 250 mg every 12 hours, depending on the severity of the infection.
 - •Patients with a glomerular filtration rate less than 10 mL/min should receive 500 mg or 250 mg every 24 hours, depending on severity of the infection.
 - •Hemodialysis patients should receive 500 mg or 250 mg every 24 hours, depending on severity of the infection.
-  They should receive an additional dose both during and at the end of dialysis.
+- •They should receive an additional dose both during and at the end of dialysis.
 
 ## 2.5 Directions for Mixing Oral Suspension
 
