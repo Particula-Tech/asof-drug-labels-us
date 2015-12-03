@@ -121,7 +121,7 @@ Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients
 
 |  |  | Studies651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies651+652+2008 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BodySystem | PreferredTerm | Sandimmune®†(N=269) | Sandimmune®(N=155) | Metho-trexate &Sandimmune®(N=74) | Metho-trexate &Placebo(N=73) | Cyclosporine (MODIFIED)(N=143) | Placebo(N=201) |
+| BodySystem | PreferredTerm | Sandimmune®†(N=269) | Sand-immune®(N=155) | Metho-trexate &Sandimmune®(N=74) | Metho-trexate &Placebo(N=73) | Cyclosporine (MODIFIED)(N=143) | Placebo(N=201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As A Whole–General Disorders |  |  |  |  |  |  |  |
