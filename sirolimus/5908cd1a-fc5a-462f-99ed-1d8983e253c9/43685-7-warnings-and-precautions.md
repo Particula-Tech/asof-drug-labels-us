@@ -101,7 +101,7 @@ In transplant patients, physicians should also consider the risk that reduced im
 ## 5.11 Interstitial Lung Disease/Non-Infectious Pneumonitis
 
 Cases of interstitial lung disease [ILD] (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
-In some cases, the ILD was associated with pulmonary hypertension (including pulmonary arterial hypertension [PAH]).
+In some cases, the ILD was reported with pulmonary hypertension (including pulmonary arterial hypertension [PAH]) as a secondary event.
 In some cases, the ILD has resolved upon discontinuation or dose reduction of sirolimus.
 The risk may be increased as the trough sirolimus concentration increases [see Adverse Reactions (6.7)].
 
