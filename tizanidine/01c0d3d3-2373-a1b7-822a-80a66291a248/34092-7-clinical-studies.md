@@ -2,9 +2,7 @@
 
 Tizanidine’s capacity to reduce increased muscle tone associated with spasticity was demonstrated in two adequate and well controlled studies in patients with multiple sclerosis or spinal cord injury (Studies 1 and 2).
 
-Single-Dose Study in Patients with Multiple Sclerosis with Spasticity
-
-In Study 1, patients with multiple sclerosis were randomized to receive single oral doses of drug or placebo.
+Single-Dose Study in Patients with Multiple Sclerosis with Spasticity In Study 1, patients with multiple sclerosis were randomized to receive single oral doses of drug or placebo.
 Patients and assessors were blind to treatment assignment and efforts were made to reduce the likelihood that assessors would become aware indirectly of treatment assignment (e.g., they did not provide direct care to patients and were prohibited from asking questions about side effects).
 In all, 140 patients received placebo, 8 mg or 16 mg of tizanidine.
 
@@ -24,9 +22,7 @@ Plasma concentrations were variable from patient to patient at a given dose.
 Although 16 mg produced a larger effect, adverse events including hypotension were more common and more severe than in the 8 mg group.
 There were no differences in the number of spasms occurring in each group.
 
-Seven-Week Study in Patients with Spinal Cord Injury with Spasticity
-
-In a 7-week study (Study 2), 118 patients with spasticity secondary to spinal cord injury were randomized to either placebo or tizanidine.
+Seven-Week Study in Patients with Spinal Cord Injury with Spasticity In a 7-week study (Study 2), 118 patients with spasticity secondary to spinal cord injury were randomized to either placebo or tizanidine.
 Steps similar to those taken in the first study were employed to ensure the integrity of blinding.
 
 Patients were titrated over 3 weeks up to a maximum tolerated dose or 36 mg daily given in three unequal doses (e.g., 10 mg given in the morning and afternoon and 16 mg given at night).

@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
-Tizanidine has not been studied in pregnant women.
+Pregnancy Category C Tizanidine has not been studied in pregnant women.
 Tizanidine should be given to pregnant women only if the benefit outweighs the risk to the unborn fetus.
 Reproduction studies performed in rats at a dose of 3 mg/kg, equal to the maximum recommended human dose on a mg/m2 basis, and in rabbits at 30 mg/kg, 16 times the maximum recommended human dose on a mg/m2 basis, did not show evidence of teratogenicity.
 Tizanidine at doses that are equal to and up to 8 times the maximum recommended human dose on a mg/m2 basis increased gestation duration in rats.
