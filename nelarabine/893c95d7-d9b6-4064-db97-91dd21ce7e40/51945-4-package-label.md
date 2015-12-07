@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 00707-4401-06
 
@@ -13,11 +13,13 @@ Infusion Only
 
 (5 mg / mL)
 
-6 x 50 mL Vials
-
 Rx only
+
+Six 50-mL Vials
 
 Made in England
 
-10000000039434 Rev.
-3/07
+©2015, the GSK group of companies.
+
+- 10000000131765 Rev.
+  2/15
