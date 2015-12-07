@@ -9,7 +9,7 @@ Each system contains 4.86 mg norelgestromin and 0.53 mg ethinyl estradiol, USP.
 
 Each transdermal system is packaged in a protective pouch.
 
-Xulane™ (norelgestromin and ethinyl estradiol transdermal system) is available in folding cartons of one cycle each (NDC # 0378-3340-53); each cycle contains three patches.
+Xulane™ (norelgestromin and ethinyl estradiol transdermal system) is available in folding cartons of one cycle each (NDC # 0378-3340-53); each cycle contains three systems.
 
 ## 16.2 Special Precautions for Storage and Disposal
 

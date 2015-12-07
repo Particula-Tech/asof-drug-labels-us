@@ -31,12 +31,12 @@ Xulane has not been studied in postmenopausal women and is not indicated in this
 No studies with Xulane have been conducted in women with hepatic impairment.
 However, steroid hormones may be poorly metabolized in patients with impaired liver function.
 Acute or chronic disturbances of liver function may necessitate the discontinuation of combined hormonal contraceptive use until markers of liver function return to normal and combined hormonal contraceptive causation has been excluded.
-[See Contraindications (4) and Warnings and Precautions (5.3).]
+[see Contraindications (4) and Warnings and Precautions (5.3).]
 
 ## 8.7 Renal Impairment
 
 No studies with Xulane have been conducted in women with renal impairment.
 
-## 8.8Women with Weight > 198 lbs (90 kg)
+## 8.8 Women with Weight ≥ 198 lbs (90 kg)
 
 Xulane may be less effective in preventing pregnancy in women who weigh 198 lbs (90 kg) or more.

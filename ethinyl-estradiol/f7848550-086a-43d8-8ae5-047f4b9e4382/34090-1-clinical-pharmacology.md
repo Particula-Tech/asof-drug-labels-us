@@ -10,7 +10,7 @@ Although the primary mechanism of this action is inhibition of ovulation, other 
 
 ## 12.2 Pharmacodynamics
 
-One clinical trial assessed the return of hypothalamic-pituitary-ovarian axis function post-therapy and found that follicle-stimulating hormone (FSH), luteinizing hormone (LH), and estradiol mean values, though suppressed during therapy, returned to near baseline values during the 6 weeks post therapy.
+One clinical trial assessed the return of hypothalamic-pituitary-ovarian axis function post-therapy and found that follicle-stimulating hormone (FSH), luteinizing hormone (LH), and estradiol mean values, though suppressed during therapy, returned to near baseline values during the 6 weeks post-therapy.
 
 ## 12.3 Pharmacokinetics
 
@@ -18,7 +18,7 @@ One clinical trial assessed the return of hypothalamic-pituitary-ovarian axis fu
 
 The systemic delivery rate of NGMN and EE from Xulane is approximately 150 mcg of NGMN and 35 mcg of EE per day based on a comparative analysis with intravenous (IV) data.
 Following a single application of Xulane, both NGMN and EE reach a plateau by approximately 48 hours.
-Pooled data from the three clinical studies have demonstrated that steady-state is reached within 2 weeks of application.
+Pooled data from the three clinical studies have demonstrated that steady state is reached within 2 weeks of application.
 In one of the clinical studies, Css concentrations across all subjects ranged from 0.305 to 1.53 ng/mL for NGMN and from 23 to 137 pg/mL for EE.
 
 Absorption of NGMN and EE following application of Xulane to the buttock, upper outer arm, abdomen and upper torso (excluding breast) was examined.
@@ -27,7 +27,7 @@ While absorption from the abdomen was slightly lower than from other sites, abso
 The mean (%CV) PK parameters Css and AUC0-168 for NGMN and EE following a single buttock application of Xulane are summarized in Table 5.
 
 In multiple dose studies, AUC0-168 for NGMN and EE was found to increase over time (Table 5).
-In a three-cycle study, these PK parameters reached steady-state conditions during Cycle 3 (Figures 3 and 4).
+In a three-cycle study, these PK parameters reached steady state conditions during Cycle 3 (Figures 3 and 4).
 Upon removal of the patch, serum levels of EE and NGMN reach very low or non-measurable levels within 3 days.
 
 Table 5: Mean (%CV%CV is % of Coefficient of variation = 100 (standard deviation/mean)) PK Parameters of NGMN and EE Following Three Consecutive Cycles of Xulane Wear on the Buttock
@@ -39,7 +39,7 @@ Table 5: Mean (%CV%CV is % of Coefficient of variation = 100 (standard deviation
 |  |  | AUC0-168 (ng·h/mL) | 107 (44.2) | 105 (43.2) | 132 (43.4) | 120 (43.9) |
 |  |  | t1/2 (h) | nc | nc | nc | 32.1 (40.3) |
 |  | EE | Css(pg/mL) | 46.4 (38.5) | 47.6 (36.4) | 59.0 (42.5) | 49.6 (54.4) |
-|  |  | AUC0-168 (pg·h/mL) | 6,796 (39.3) | 7,160 (40.4) | 10,054 (41.8) | 8,840 (58.6) |
+|  |  | AUC0-168 (pg·h/mL) | 6796 (39.3) | 7160 (40.4) | 10054 (41.8) | 8840 (58.6) |
 |  |  | t1/2 (h) | nc | nc | nc | 21.0 (43.2) |
 | nc = not calculated |  |  |  |  |  |  |
 
@@ -77,29 +77,29 @@ The metabolites of NGMN and EE are eliminated by renal and fecal pathways.
 The Xulane transdermal patch delivers EE and NGMN over a 7-day period while oral contraceptives (containing NGM 250 mcg / EE 35 mcg) are administered on a daily basis.
 Figures 5 and 6 present mean PK profiles for EE and NGMN following administration of an oral contraceptive (containing NGM 250 mcg / EE 35 mcg) compared to the 7-day transdermal Xulane patch (containing NGMN 4.86 mg / EE 0.53 mg) during Cycle 2 in 32 healthy female volunteers.
 
-Figure 5: Mean Serum Concentration-Time Profiles of NGMN Following Once Daily Administration of an Oral Contraceptive for two cycles or Application of Xulane for two cycles to the Buttock in Healthy Female Volunteers.
+Figure 5: Mean Serum Concentration-Time Profiles of NGMN Following Once-Daily Administration of an Oral Contraceptive for two cycles or Application of Xulane for two cycles to the Buttock in Healthy Female Volunteers.
 [Oral contraceptive: Cycle 2, Days 15 to 21, Xulane: Cycle 2, Week 3]
 
-Figure 6: Mean Serum Concentration-Time Profiles of EE Following Once Daily Administration of an Oral Contraceptive for two cycles or Application of Xulane for two cycles to the Buttock in Healthy Female Volunteers.
+Figure 6: Mean Serum Concentration-Time Profiles of EE Following Once-Daily Administration of an Oral Contraceptive for two cycles or Application of Xulane for two cycles to the Buttock in Healthy Female Volunteers.
 [Oral contraceptive: Cycle 2, Days 15 to 21, Xulane: Cycle 2, Week 3]
 
 Table 6 provides the mean (%CV) for NGMN and EE pharmacokinetic (PK) parameters.
 
-Table 6: Mean (%CV) NGMN and EE Steady-State Pharmacokinetic Parameters Following Application of Xulane and Once Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) in Healthy Female Volunteers
+Table 6: Mean (%CV) NGMN and EE Steady State Pharmacokinetic Parameters Following Application of Xulane and Once-Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) in Healthy Female Volunteers
 
-|  | Parameter | XulaneCycle 2, Week 3 | ORAL CONTRACEPTIVECycle 2, Day 21 |
-| --- | --- | --- | --- |
-|  | NGMNNGM is rapidly metabolized to NGMN following oral administration |  |  |
-|  | Cmax (ng/mL) | 1.12 (33.6) | 2.16 (25.2) |
-|  | AUC0-168 (ng·h/mL) | 145 (36.8) | 123 (30.2)Average weekly exposure, calculated as AUC24 x 7 |
-|  | Css (ng/mL) | 0.888 (36.6) | 0.732 (30.2)Cavg |
-|  | EE |  |  |
-|  | Cmax (pg/mL) | 97.4 (31.6) | 133 (27.7) |
-|  | AUC0-168 (pg·h/mL) | 12,971 (33.1) | 8,281(26.9) |
-|  | Css (pg/mL) | 80.0 (33.5) | 49.3 (26.9) |
+| Parameter | XulaneCycle 2, Week 3 | ORAL CONTRACEPTIVECycle 2, Day 21 |
+| --- | --- | --- |
+| NGMNNGM is rapidly metabolized to NGMN following oral administration |  |  |
+| Cmax (ng/mL) | 1.12 (33.6) | 2.16 (25.2) |
+| AUC0-168 (ng·h/mL) | 145 (36.8) | 123 (30.2)Average weekly exposure, calculated as AUC24 x 7 |
+| Css (ng/mL) | 0.888 (36.6) | 0.732 (30.2)Cavg |
+| EE |  |  |
+| Cmax (pg/mL) | 97.4 (31.6) | 133 (27.7) |
+| AUC0-168 (pg·h/mL) | 12,971 (33.1) | 8,281(26.9) |
+| Css (pg/mL) | 80.0 (33.5) | 49.3 (26.9) |
 
 In general, overall exposure for NGMN and EE (AUC and Css) was higher in subjects treated with Xulane for both Cycle 1 and Cycle 2, compared to that for the oral contraceptive, while Cmax values were higher in subjects administered the oral contraceptive.
-Under steady-state conditions, AUC0-168 and Css for EE were approximately 55% and 60% higher, respectively, for the transdermal patch, and the Cmax was about 35% higher for the oral contraceptive, respectively.
+Under steady state conditions, AUC0-168 and Css for EE were approximately 55% and 60% higher, respectively, for the transdermal patch, and the Cmax was about 35% higher for the oral contraceptive, respectively.
 Inter-subject variability (%CV) for the PK parameters following delivery from Xulane was higher relative to the variability determined from the oral contraceptive.
 The mean PK profiles are different between the two products and caution should be exercised when making a direct comparison of these PK parameters.
 
@@ -107,7 +107,7 @@ In Table 7, percent change in concentrations (%CV) of markers of systemic estrog
 Percent change in SHBG concentrations was higher for Xulane users compared to women taking the oral contraceptive; percent change in CBG concentrations was similar for Xulane and oral contraceptive users.
 Within each group, the absolute values for SHBG were similar for Cycle 1, Day 22 and Cycle 2, Day 22.
 
-Table 7: Mean Percent Change (%CV) in SHBG and CBG Concentrations Following Once Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) for One Cycle and Application of Xulane for One Cycle in Healthy Female Volunteers
+Table 7: Mean Percent Change (%CV) in SHBG and CBG Concentrations Following Once-Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) for One Cycle and Application of Xulane for One Cycle in Healthy Female Volunteers
 
 | Parameter | Xulane | ORAL CONTRACEPTIVE |
 | --- | --- | --- |

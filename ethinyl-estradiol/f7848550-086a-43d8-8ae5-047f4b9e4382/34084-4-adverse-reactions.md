@@ -13,11 +13,11 @@ Adverse reactions commonly reported by users of combination hormonal contracepti
 - •Breast tenderness
 - •Headache
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The data described below reflect exposure to Xulane in 3,330 sexually active women (3,322 of whom had safety data) who participated in three Phase 3 clinical trials designed to evaluate contraceptive efficacy and safety.
+The data described below reflect exposure to Xulane in 3330 sexually active women (3322 of whom had safety data) who participated in three Phase 3 clinical trials designed to evaluate contraceptive efficacy and safety.
 These subjects received six or 13 cycles of contraception (Xulane or an oral contraceptive comparator in two of the trials).
 The women ranged in age from 18 to 45 years and were predominantly white (91%).
 
@@ -28,7 +28,7 @@ Adverse drug reactions reported by ≥ 2.5% of Xulane-treated subjects in these 
 
 Table 3: Adverse Drug Reactions Reported by ≥ 2.5% of Xulane-treated Subjects in Three Phase 3 Clinical Trials
 
-| System/Organ ClassMedDRA version 10.0Adverse reaction | Xulane(n = 3,322) |
+| System/Organ ClassMedDRA version 10.0Adverse reaction | Xulane(n = 3322) |
 | --- | --- |
 | Reproductive system and breast disorders |  |
 | Breast symptomsRepresents a bundle of similar terms | 22.4% |
@@ -70,12 +70,12 @@ Additional adverse drug reactions that occurred in < 2.5% of Xulane-treated subj
 
 1Represents a bundle of similar terms
 
-## 6.2Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions (Table 4) have been identified during post-approval use of Xulane.
+The following adverse reactions (Table 4) have been identified during postapproval use of Xulane.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Table 4: Alphabetical List of Adverse Drug Reactions Identified During Post-Marketing Experience with Xulane by System Organ ClassMedDRA version 10.0
+Table 4: Alphabetical List of Adverse Drug Reactions Identified During Postmarketing Experience with Xulane by System Organ ClassMedDRA version 10.0
 
 | System Organ Class | Adverse Drug Reactions |
 | --- | --- |

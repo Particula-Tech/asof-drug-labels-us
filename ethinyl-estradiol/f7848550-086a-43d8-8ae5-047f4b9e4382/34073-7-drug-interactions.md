@@ -2,7 +2,7 @@
 
 Consult the labeling of concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
 
-## 7.1Effects of Other Drugs on Combined Hormonal Contraceptives
+## 7.1 Effects of Other Drugs on Combined Hormonal Contraceptives
 
 ### Substances Decreasing the Plasma Concentrations of CHCs and Potentially Diminishing the Efficacy of CHCs
 
@@ -13,13 +13,13 @@ Counsel women to use an alternative method of contraception or a back-up method 
 
 ### Substances Increasing the Plasma Concentrations of CHCs
 
-Coadministration of atorvastatin or rosuvastatin and certain CHCs containing EE increase AUC values for EE by approximately 20% to 25%.
+Co-administration of atorvastatin or rosuvastatin and certain CHCs containing EE increase AUC values for EE by approximately 20% to 25%.
 Ascorbic acid and acetaminophen may increase plasma EE concentrations, possibly by inhibition of conjugation.
 CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase plasma hormone concentrations.
 
 ### Human Immunodeficiency Virus (HIV)/Hepatitis C Virus (HCV) Protease Inhibitors and Non-Nucleoside Reverse Transcriptase Inhibitors
 
-Significant changes (increase or decrease) in the plasma concentrations of estrogen and/or progestin have been noted in some cases of coadministration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritnoavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir])/HCV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine] or increase [e.g., etravirine]).
+Significant changes (increase or decrease) in the plasma concentrations of estrogen and/or progestin have been noted in some cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritnoavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir])/HCV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine] or increase [e.g., etravirine]).
 
 ## 7.2 Effects of Combined Hormonal Contraceptives on Other Drugs
 
@@ -30,6 +30,6 @@ This may reduce seizure control; therefore, dosage adjustments of lamotrigine ma
 
 Women on thyroid hormone replacement therapy may need increased doses of thyroid hormone because serum concentration of thyroid-binding globulin increases with use of CHCs [see Warnings and Precautions (5.12)].
 
-## 7.3Interference with Laboratory Tests
+## 7.3 Interference with Laboratory Tests
 
 The use of contraceptive steroids may influence the results of certain laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.

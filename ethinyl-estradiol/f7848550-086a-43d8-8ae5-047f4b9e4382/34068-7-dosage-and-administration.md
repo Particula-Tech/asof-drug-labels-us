@@ -4,7 +4,7 @@ To achieve maximum contraceptive effectiveness, Xulane must be used exactly as d
 
 Complete instructions to facilitate patient counseling on proper system usage may be found in the FDA-Approved Patient Labeling.
 
-## 2.1How to Use Xulane
+## 2.1 How to Use Xulane
 
 The Xulane transdermal system uses a 28-day (4-week) cycle.
 A new patch is applied each week for 3 weeks (21 total days).
@@ -38,7 +38,7 @@ The woman has two options for starting the patch and she should choose the optio
 
 Start contraceptive therapy with Xulane in women who elect not to breastfeed no sooner than 4 weeks after childbirth due to increased risk of thromboembolism.
 If a woman begins using Xulane postpartum, and has not yet had a period, consider the possibility of ovulation and conception occurring prior to use of Xulane, and instruct her to use an additional method of contraception, such as a condom and spermicide or diaphragm and spermicide, for the first 7 days.
-[See Warnings and Precautions (5.1) and Pregnancy (8.1).]
+[see Warnings and Precautions (5.1) and Pregnancy (8.1).]
 
 ### Use after Abortion or Miscarriage
 
@@ -49,9 +49,9 @@ In the meantime she should be advised to use a non-hormonal contraceptive method
 Ovulation may occur within 10 days of an abortion or miscarriage.
 
 Start Xulane no earlier than 4 weeks after a second trimester abortion or miscarriage, due to the increased risk of thromboembolic disease.
-[See Contraindications (4) and Warnings and Precautions (5.1).]
+[see Contraindications (4) and Warnings and Precautions (5.1).]
 
-## 2.3How to Apply Xulane
+## 2.3 How to Apply Xulane
 
 CHOOSING A PLACE ON THE BODY TO PUT THE PATCH
 
@@ -114,15 +114,15 @@ IF THE WOMAN FORGETS TO CHANGE HER PATCH
   There is now a new “Patch Change Day” and a new “Day 1.”
   The woman must use back-up contraception, such as a condom and spermicide or diaphragm and spermicide, for the first week of the new cycle.
 - •in the middle of the patch cycle (Week 2/Day 8 or Week 3/Day 15),
-  - •for 1 or 2 days (up to 48 hours), she should apply a new patch immediately.
+  - -for 1 or 2 days (up to 48 hours), she should apply a new patch immediately.
     The next patch should be applied on the usual “Patch Change Day.”
     No back-up contraception is needed.
-  - •for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
+  - -for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
     She should stop the current contraceptive cycle and start a new 4-week cycle immediately by putting on a new patch.
     There is now a new “Patch Change Day” and a new “Day 1.”
     The woman must use back-up contraception for one week.
 - •at the end of the patch cycle (Week 4/Day 22),
-  - •If the woman forgets to remove her patch, she should take it off as soon as she remembers.
+  - -If the woman forgets to remove her patch, she should take it off as soon as she remembers.
     The next cycle should be started on the usual “Patch Change Day,” which is the day after Day 28.
     No back-up contraception is needed.
 
@@ -161,10 +161,10 @@ If pathology has been excluded, time or a change to another method of contracept
 
 ### Use of Hormonal Contraceptives in the Event of a Missed Menstrual Period
 
-- 1.If the woman has not adhered to the prescribed schedule, consider the possibility of pregnancy at the time of the first missed period.
-  Discontinue use of Xulane if pregnancy is confirmed.
-- 2.If the woman has adhered to the prescribed regimen and misses one period, she should continue using her contraceptive patches.
-  However, if she has adhered to the prescribed regimen, misses one period and has symptoms associated with pregnancy, rule out pregnancy.
-  Discontinue Xulane use if pregnancy is confirmed.
-- 3.If the woman has adhered to the prescribed regimen and misses two consecutive periods, rule out pregnancy.
-  Discontinue Xulane use if pregnancy is confirmed.
+1. 1.If the woman has not adhered to the prescribed schedule, consider the possibility of pregnancy at the time of the first missed period.
+   Discontinue use of Xulane if pregnancy is confirmed.
+2. 2.If the woman has adhered to the prescribed regimen and misses one period, she should continue using her contraceptive patches.
+   However, if she has adhered to the prescribed regimen, misses one period and has symptoms associated with pregnancy, rule out pregnancy.
+   Discontinue Xulane use if pregnancy is confirmed.
+3. 3.If the woman has adhered to the prescribed regimen and misses two consecutive periods, rule out pregnancy.
+   Discontinue Xulane use if pregnancy is confirmed.
