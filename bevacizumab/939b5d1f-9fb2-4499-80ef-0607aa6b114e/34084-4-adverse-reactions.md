@@ -12,7 +12,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Posterior Reversible Encephalopathy Syndrome [See Dosage and Administration (2.4), Warnings and Precautions (5.8).]
 - Proteinuria [See Dosage and Administration (2.4), Warnings and Precautions (5.9).]
 - Infusion Reactions [See Dosage and Administration (2.4), Warnings and Precautions (5.10).]
-- Ovarian Failure [See Warnings and Precautions (5.12), Use in Specific Populations (8.1).]
+- Ovarian Failure [See Warnings and Precautions (5.12), Use in Specific Populations (8.3).]
 
 The most common adverse reactions observed in Avastin patients at a rate > 10% and at least twice the control arm rate, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis Some of the adverse reactions are commonly seen with chemotherapy; however, Avastin may exacerbate these reactions when combined with chemotherapeutic agents.
 Examples include palmar-plantar erythrodysaesthesia syndrome with pegylated liposomal doxorubicin or capecitabine peripheral sensory neuropathy with paclitaxel or oxaliplatin, and nail disorders or alopecia with paclitaxel.
@@ -87,6 +87,11 @@ The Grade ≥ 2 proteinuria resolved in 74.2% (201 of 271) of patients.
 Avastin was re-initiated in 41.7% (113 of 271) of patients.
 Of the 113 patients who re-initiated Avastin, 47.8% (54 of 113) experienced a second episode of Grade ≥ 2 proteinuria.
 [See Warnings and Precautions (5.9).]
+
+Renal Injury
+
+A retrospective analysis across clinical trials where 5805 patients had received Avastin and chemotherapy and 3713 had received chemotherapy alone has shown higher rates of elevated serum creatinine levels (ranging between 1.5 – 1.9 times baseline levels) in patients who had received Avastin.
+Creatinine levels did not return to baseline in approximately one-third of patients who received Avastin.
 
 Congestive Heart Failure (CHF)
 
