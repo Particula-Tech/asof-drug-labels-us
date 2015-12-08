@@ -32,7 +32,7 @@ Table 2: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Tit
 | --- | --- | --- | --- |
 |  | Open-Label Titration Phase | Double-Blind Treatment Phase |  |
 | Nausea | 50% | 10% | 7% |
-| Constipation | 13% | 4% | 6% |
+| Constipation | 13% | 4% | 3% |
 | Vomiting | 8% | 4% | <1% |
 | Headache | 8% | 2% | 3% |
 | Dizziness | 6% | 2% | <1% |
@@ -50,7 +50,7 @@ Table 3: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Tit
 | Headache | 7% | 2% | 3% |
 | Dizziness | 5% | 2% | <1% |
 | Somnolence | 5% | 1% | <1% |
-| Drug Withdrawal Syndrome | 0% | 3% | 10% |
+| Drug Withdrawal Syndrome | 0% | 4% | 10% |
 
 Table 4: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Titration Phase and Double-Blind Treatment Phase of Controlled Studies
 

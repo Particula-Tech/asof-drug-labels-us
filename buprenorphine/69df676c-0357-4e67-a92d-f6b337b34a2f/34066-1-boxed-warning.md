@@ -18,4 +18,4 @@ Accidental exposure to even one dose of BELBUCA, especially in children, can res
 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of BELBUCA during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal and ensure that appropriate treatment will be available [see Warnings and Precautions (5.3)].
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.3)].

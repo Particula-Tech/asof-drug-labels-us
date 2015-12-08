@@ -80,7 +80,7 @@ Instruct patients not to flush BELBUCA down the toilet in thefoil packages or ca
 
 Healthcare professionals can telephone Endo Pharmaceuticals (1-800-462-3636) for information on this product.
 
-Marketed by:
+Distributed by:
 
 Endo Pharmaceuticals Inc. Malvern, PA 19355
 
@@ -88,4 +88,4 @@ BELBUCA is a trademark of Endo International plc or one of its affiliates.
 
 ©2015 Endo Pharmaceuticals Inc. All rights reserved.
 
-116115
+116340
