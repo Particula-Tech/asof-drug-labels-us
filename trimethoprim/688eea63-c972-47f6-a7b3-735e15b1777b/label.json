@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074973"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "Aytu BioScience, Inc.",
+  "package_ndcs": [
+    "69654-501-01",
+    "69654-501-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "trimethoprim hydrochloride",
+      "name": "Primsol"
+    }
+  ],
+  "setid": "688eea63-c972-47f6-a7b3-735e15b1777b",
+  "source": "dailymed"
+}
