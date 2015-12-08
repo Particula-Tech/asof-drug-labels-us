@@ -1,12 +1,6 @@
 # FDA-Approved Medication Guide
 
-MEDICATION GUIDE
-
-Moxifloxacin Hydrochloride Tablets
-
-(mox'' i flox' a sin hye'' droe klor' ide)
-
-Rx only
+MEDICATION GUIDE Moxifloxacin Hydrochloride Tablets (mox'' i flox' a sin hye'' droe klor' ide) Rx only
 
 Read the Medication Guide that comes with moxifloxacin hydrochloride tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -64,15 +58,23 @@ See the section “What are the possible side effects of moxifloxacin hydrochlor
 What are moxifloxacin hydrochloride tablets?
 
 Moxifloxacin hydrochloride tablets are a fluoroquinolone antibiotic medicine used to treat certain types of infections caused by certain germs called bacteria in adults 18 years or older.
-It is not known if moxifloxacin hydrochloride tablets are safe and work in people under 18 years of age.
-Children have a higher chance of getting bone, joint, and tendon (musculoskeletal) problems while taking fluoroquinolone antibiotic medicines.
+These bacterial infections include:
 
+- Acute Bacterial Sinusitis
+- Acute Bacterial Exacerbation of Chronic Bronchitis
+- Community Acquired Pneumonia
+- Uncomplicated Skin and Skin Structure Infections
+- Complicated Skin and Skin Structure Infections
+- Complicated Intra-Abdominal Infections
+- Plague
+
+Studies of moxifloxacin hydrochloride tablets for use in the treatment of plague were done in animals only, because plague could not be studied in people.
+It is not known if moxifloxacin hydrochloride tablet is safe and works in people under 18 years of age.
+Children have a higher chance of getting bone, joint, and tendon (musculoskeletal) problems while taking fluoroquinolone antibiotic medicines.
 Sometimes infections are caused by viruses rather than by bacteria.
 Examples include viral infections in the sinuses and lungs, such as the common cold or flu.
 Antibiotics, including moxifloxacin hydrochloride tablets, do not kill viruses.
-
 Call your healthcare provider if you think your condition is not getting better while you are taking moxifloxacin hydrochloride tablets.
-
 Who should not take moxifloxacin hydrochloride tablets?
 
 Do not take moxifloxacin hydrochloride tablets if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in moxifloxacin hydrochloride tablets.
@@ -126,7 +128,7 @@ Especially tell your healthcare provider if you take:
   - An antacid, multivitamin, or other product that has magnesium, aluminum, iron, or zinc
 
 - Sucralfate (Carafate®)
-- Didanosine (Videx®, Videx EC®)
+- Didanosine oral suspension or solution
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
@@ -286,4 +288,4 @@ What are the ingredients in moxifloxacin hydrochloride tablets?
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 12/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 08/2015
