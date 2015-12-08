@@ -1,4 +1,4 @@
-# How Supplied
+# HOW SUPPLIED:
 
 DIAMOX® SEQUELS® (Acetazolamide Extended-Release Capsules) are available as 500 mg:
 

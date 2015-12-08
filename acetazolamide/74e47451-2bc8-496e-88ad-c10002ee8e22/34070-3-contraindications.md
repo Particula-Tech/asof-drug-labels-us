@@ -1,4 +1,4 @@
-# Contraindications
+# CONTRAINDICATIONS:
 
 Hypersensitivity to acetazolamide or any excipients in the formulation.
 Since acetazolamide is a sulfonamide derivative, cross sensitivity between acetazolamide, sulfonamides and other sulfonamide derivatives is possible.

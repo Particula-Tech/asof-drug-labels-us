@@ -1,9 +1,11 @@
-# Description
+# DESCRIPTION:
 
 DIAMOX SEQUELS (Acetazolamide Extended-Release Capsules) are an inhibitor of the enzyme carbonic anhydrase.
 
 DIAMOX is a white to faintly yellowish white crystalline, odorless powder, weakly acidic, very slightly soluble in water, and slightly soluble in alcohol.
 The chemical name for DIAMOX is N-(5-Sulfamoyl-1,3, 4-thiadiazol-2-yl) acetamide and has the following chemical structure:
+
+MW 222.24 C4H6N4O3S2
 
 DIAMOX SEQUELS are extended-release capsules, for oral administration, each containing 500 mg of acetazolamide and the following inactive ingredients:
 

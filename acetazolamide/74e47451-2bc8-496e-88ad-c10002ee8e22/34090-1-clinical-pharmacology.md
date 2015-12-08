@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY:
 
 DIAMOX is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema).
 

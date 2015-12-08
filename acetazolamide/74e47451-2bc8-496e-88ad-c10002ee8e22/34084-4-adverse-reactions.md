@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS:
 
 ## Body as a whole:
 

@@ -1,4 +1,4 @@
-# Warnings
+# WARNINGS:
 
 Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, anaphylaxis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
 Sensitizations may recur when a sulfonamide is readministered irrespective of the route of administration.
@@ -6,7 +6,7 @@ If signs of hypersensitivity or other serious reactions occur, discontinue use o
 
 Caution is advised for patients receiving concomitant high-dose aspirin and DIAMOX, as anorexia, tachypnea, lethargy, metabolic acidosis, coma, and death have been reported.
 
-# Precautions
+# PRECAUTIONS:
 
 ## General
 
@@ -54,6 +54,7 @@ Caution is advised when beginning, discontinuing, or changing the dose of DIAMOX
 Because of possible additive effects with other carbonic anhydrase inhibitors, concomitant use is not advisable.
 
 Acetazolamide may increase the effects of other folic acid antagonists.
+
 Acetazolamide decreases urinary excretion of amphetamine and may enhance the magnitude and duration of their effect.
 
 Acetazolamide reduces urinary excretion of quinidine and may enhance its effect.
@@ -80,11 +81,7 @@ In a bacterial mutagenicity assay, DIAMOX was not mutagenic when evaluated with 
 
 The drug had no effect on fertility when administered in the diet to male and female rats at a daily intake of up to 4 times the recommended human dose of 1000 mg in a 50 kg individual.
 
-## Pregnancy:
-
-## Teratogenic effects:
-
-Pregnancy Category C
+## Pregnancy: Teratogenic effects: Pregnancy Category C
 
 Acetazolamide, administered orally or parenterally, has been shown to be teratogenic (defects of the limbs) in mice, rats, hamsters, and rabbits.
 There are no adequate and well-controlled studies in pregnant women.
@@ -95,12 +92,12 @@ Acetazolamide should be used in pregnancy only if the potential benefit justifie
 Because of the potential for serious adverse reactions in nursing infants from DIAMOX, a decision should be made whether to discontinue nursing or to discontinue the drug taking into account the importance of the drug to the mother.
 Acetazolamide should only be used by nursing women if the potential benefit justifies the potential risk to the child.
 
-## Pediatric use
+## Pediatric Use
 
 The safety and effectiveness of DIAMOX SEQUELS in pediatric patients below the age of 12 years have not been established.
 Growth retardation has been reported in children receiving long-term therapy, believed secondary to chronic acidosis.
 
-## Geriatric use
+## Geriatric Use
 
 Metabolic acidosis, which can be severe, may occur in the elderly with reduced renal function.
 

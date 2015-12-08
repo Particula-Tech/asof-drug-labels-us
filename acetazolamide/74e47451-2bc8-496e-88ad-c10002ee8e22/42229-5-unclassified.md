@@ -1,15 +1,13 @@
 Rx only
 
-Revised APRIL 2005
+Rev.
+9/2015
 
-1007542503
+Distributed by:
 
-DURAMED PHARMACEUTICALS, INC.
+TEVA PHARMACEUTICALS USA, INC.
 
-Subsidiary of Barr Pharmaceuticals, Inc.
+North Wales, PA 19454
 
-Pomona, New York 10970
-
-Revised APRIL 2005
-
-BR-754
+Rev.
+9/2015
