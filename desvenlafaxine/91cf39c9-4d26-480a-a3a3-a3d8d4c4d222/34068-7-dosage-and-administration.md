@@ -3,13 +3,14 @@
 ## 2.1 General Instruction for Use
 
 The recommended dose for desvenlafaxine is 50 mg once daily, with or without food.
-
-In clinical studies, doses of 50 mg to 400 mg per day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg per day and adverse reactions and discontinuations were more frequent at higher doses.
-
-When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.9)].
-
+The 50 mg dose is both a starting dose and the therapeutic dose.
 Desvenlafaxine should be taken at approximately the same time each day.
 Tablets must be swallowed whole with fluid and not divided, crushed, chewed, or dissolved.
+
+In clinical studies, doses of 10 mg to 400 mg per day were studied.
+In clinical studies, doses of 50 mg to 400 mg per day were shown to be effective, although no additional benefit was demonstrated at doses greater than 50 mg per day and adverse reactionsand discontinuations were more frequent at higher doses.
+
+When discontinuing therapy, gradual dose reduction is recommended whenever possible to minimize discontinuation symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.9)].
 
 ## 2.2 Special Populations
 

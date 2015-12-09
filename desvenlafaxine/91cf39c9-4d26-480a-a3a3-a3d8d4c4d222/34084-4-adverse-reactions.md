@@ -38,7 +38,7 @@ The most commonly observed adverse reactions in desvenlafaxine treated MDD patie
 
 Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients and twice the rate of placebo at any dose in the pooled 8-week, placebo-controlled, fixed dose clinical studies
 
-Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Groupand Twice the Rate of Placebo) in Pooled MDD 8-Week Placebo-Controlled Studies
+Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Groupand Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -130,7 +130,7 @@ More patients experienced these events during desvenlafaxine treatment as compar
 
 Laboratory, ECG and vital sign changes observed in MDD clinical studies
 
-The following changes were observed in placebo-controlled, short-term MDD studies with desvenlafaxine.
+The following changes were observed in pre-marketing placebo-controlled, short-term MDD studies with desvenlafaxine.
 
 Lipids
 
@@ -173,25 +173,25 @@ Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Blood pressure |  |  |  |  |  |
-| Supine systolic bp (mm Hg) | -1.4 | 1.2 | 2.0 | 2.5 | 2.1 |
+| Supine systolic bp (mm Hg) | -1.4 | 1.2 | 2 | 2.5 | 2.1 |
 | Supine diastolic bp (mm Hg) | -0.6 | 0.7 | 0.8 | 1.8 | 2.3 |
 | Pulse rate |  |  |  |  |  |
 | Supine pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
-| Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
+| Weight (kg) | 0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
-Treatment with desvenlafaxine at all doses from 50 mg/day to 400 mg/day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
+Treatment with desvenlafaxine at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
 Analyses of patients in desvenlafaxine pre-marketing short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
-This was seen at all doses with a suggestion of a higher rate at 400 mg/day.
+This was seen at all doses with a suggestion of a higher rate at 400 mg per day.
 
 Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blood Pressure
 
 | Treatment Group | Proportion of Patients with Sustained Hypertension |
 | --- | --- |
 | Placebo | 0.5% |
-| Desvenlafaxine 50 mg/day | 1.3% |
-| Desvenlafaxine 100 mg/day | 0.7% |
-| Desvenlafaxine 200 mg/day | 1.1% |
-| Desvenlafaxine 400 mg/day | 2.3% |
+| Desvenlafaxine 50 mg per day | 1.3% |
+| Desvenlafaxine 100 mg per day | 0.7% |
+| Desvenlafaxine 200 mg per day | 1.1% |
+| Desvenlafaxine 400 mg per day | 2.3% |
 
 Orthostatic hypotension
 

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-MEDICATION GUIDE Desvenlafaxine extended-release tablets Read this Medication Guide before you start taking desvenlafaxine and each time you get a refill.
+DESVENLAFAXINE extended-release tablets Read this Medication Guide before you start taking desvenlafaxine and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions Talk to your healthcare provider about: • all risks and benefits of treatment with antidepressant medicines • all treatment choices for depression or other serious mental illness What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
@@ -40,11 +40,11 @@ This information does not take the place of talking with your healthcare provide
 What is desvenlafaxine? • Desvenlafaxine is a prescription medicine used to treat depression.
 Desvenlafaxine belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
 Who should not take desvenlafaxine?
-Do not take desvenlafaxine if you: • are allergic to desvenlafaxine, venlafaxine or any of the ingredients in desvenlafaxine extended-release tablets.
+Do not takedesvenlafaxine if you: • are allergic to desvenlafaxine, venlafaxine or any of the ingredients in desvenlafaxine extended-release tablets.
 See the end of this Medication Guide for a complete list of ingredients in desvenlafaxine extended-release tablets. • take a monoamine oxidase inhibitor (MAOI).
 Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid and the intravenous medicine methylene blue. • have taken an MAOI within 7 days of stopping desvenlafaxine unless directed by your healthcare provider. • have started desvenlafaxine and if you stopped taking an MAOI in the last 14 days unless directed by your healthcare provider.
 What should I tell my healthcare provider before taking desvenlafaxine?
-Tell your healthcare provider about all your medical conditions, including if you: • have high blood pressure • have heart problems • have high cholesterol or high triglycerides • have a history of a stroke • have or had depression, suicidal thoughts or behavior • have glaucoma • have kidney problems • have liver problems • have or had bleeding problems • have or had seizures or convulsions • have mania or bipolar disorder • have low sodium levels in your blood • are pregnant or plan to become pregnant.
+Tell your healthcare provider about all your medical conditions, including if you: • have high blood pressure • have heart problems • have high cholesterol or high triglycerides • have a history of a stroke • have or had depression, suicidal thoughts or behavior • have kidney problems • have liver problems • have or had bleeding problems • have or had seizures or convulsions • have mania or bipolar disorder • have low sodium levels in your blood • are pregnant or plan to become pregnant.
 It is not known if desvenlafaxine will harm your unborn baby. • are breastfeeding.
 Desvenlafaxine can pass into your breast milk and may harm your baby.
 Talk with your healthcare provider about the best way to feed your baby if you take desvenlafaxine.
@@ -94,7 +94,7 @@ eye pain
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
-• Symptoms when stopping desvenlafaxine (discontinuation symptoms).
+Symptoms when stopping desvenlafaxine (discontinuation symptoms).
 Side effects may occur when stopping desvenlafaxine (discontinuation symptoms), especially when therapy is stopped suddenly.
 Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
 Some of these side effects may include:
@@ -141,4 +141,4 @@ Active ingredient: desvenlafaxine Inactive ingredients: For the 50 mg tablet, al
 For the 100 mg tablet, alginic acid, citric acid monohydrate powder, hypromellose, microcrystalline cellulose, povidone, talc, magnesium stearate and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, iron oxide red, and iron oxide black.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Manufactured for: Ranbaxy Pharmaceuticals Inc. Jacksonville, FL 32257 USA by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
-Revised: 07/2014
+Revised: 03/2015

@@ -19,21 +19,21 @@ No difference was observed between placebo and desvenlafaxine treatments for the
 
 ## 12.3 Pharmacokinetics
 
-The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg/day.
+The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg per day.
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4 to 5 days.
 At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
 
-Absorption and Distribution
+Absorption and distribution
 
 The absolute oral bioavailability of desvenlafaxine after oral administration is about 80%.
 
-A food-effect study involving administration of Desvenlafaxine Extended Release tablets to healthy subjects under fasting and fed conditions (high-fat meal, 800 to 1000 calories) indicated that desvenlafaxine Cmax was increased about 16% in the fed state, while the AUCs were similar.
-This difference is not expected to be clinically significant; therefore, Desvenlafaxine Extended Release tablets can be taken without regard to meals [see Dosage and Administration (2.1)].
+A food-effect study involving administration of desvenlafaxine extended-release tablets to healthy subjects under fasting and fed conditions (high-fat meal, 800 to 1000 calories) indicated that desvenlafaxine Cmax was increased about 16% in the fed state, while the AUCs were similar.
+This difference is not expected to be clinically significant; therefore, desvenlafaxine extended-release tablets can be taken without regard to meals [see Dosage and Administration (2.1)].
 
 The plasma protein binding of desvenlafaxine is low (30%) and is independent of drug concentration.
 The desvenlafaxine volume of distribution at steady-state following intravenous administration is 3.4 L/kg, indicating distribution into nonvascular compartments.
 
-Metabolism and Elimination
+Metabolism and elimination
 
 Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms) and, to a minor extent, through oxidative metabolism.
 CYP3A4 is the cytochrome P450 isozyme mediating the oxidative metabolism (N-demethylation) of desvenlafaxine.
@@ -41,7 +41,7 @@ The CYP2D6 metabolic pathway is not involved, and after administration of 100 mg
 Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration.
 Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N, O-didesmethylvenlafaxine) in urine.
 
-Drug Interaction Studies
+Drug interaction studies
 
 Inhibitors of CYP3A4 (ketoconazole)
 
@@ -75,7 +75,7 @@ In vitro, desvenlafaxine does not inhibit CYP1A2, 2A6, 2C8, 2C9, and 2C19 isozym
 In vitro, desvenlafaxine is not a substrate or an inhibitor for the P-glycoprotein transporter.
 The pharmacokinetics of desvenlafaxine are unlikely to be affected by drugs that inhibit the P-glycoprotein transporter, and desvenlafaxine is not likely to affect the pharmacokinetics of drugs that are substrates of the P-glycoprotein transporter.
 
-Special Populations
+Special populations
 
 Age
 
@@ -103,8 +103,8 @@ Systemic clearance (CL/F) was decreased by approximately 20% and 36% in patients
 CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5% difference).
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
-The recommended dose in patients with hepatic impairment is 50 mg/day.
-Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.6)].
+The recommended dose in patients with hepatic impairment is 50 mg per day.
+Dose escalation above 100 mg per day is not recommended [see Use in Specific Populations (8.6)].
 
 Renal insufficiency
 
@@ -116,5 +116,4 @@ The mean terminal half-life (t1/2) was prolonged from 11.1 hours in the control 
 Less than 5% of the drug in the body was cleared during a standard 4-hour hemodialysis procedure.
 
 The maximum recommended dose in patients with moderate renal impairment is 50 mg per day.
-Dosage adjustment of 50 mg every other day is recommended in patients with severe renal impairment or ESRD.
-[see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Dosage adjustment of 50 mg every other day is recommended in patients with severe renal impairment or ESRD [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].

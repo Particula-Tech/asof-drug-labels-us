@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Desvenlafaxine extended-release tablet for oral administration contains desvenlafaxine, a structurally novel SNRI for the treatment of MDD.
+Desvenlafaxine extended-release tablets for oral administration contains desvenlafaxine, a structurally novel SNRI for the treatment of MDD.
 Desvenlafaxine (O-desmethylvenlafaxine) is the major active metabolite of the antidepressant venlafaxine, a medication used to treat major depressive disorder.
 
 Desvenlafaxine is designated RS-4-[2-dimethylamino-1-(1-hydroxycyclohexyl)ethyl]phenol and has the empirical formula of C16H25NO2.
