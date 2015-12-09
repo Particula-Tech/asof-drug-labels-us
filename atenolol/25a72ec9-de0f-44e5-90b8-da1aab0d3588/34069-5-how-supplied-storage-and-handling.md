@@ -1,13 +1,13 @@
 # HOW SUPPLIED
 
 Atenolol tablets USP, 25 mg (White to off-white marble finish, round, flat beveled edge tablets.
-Debossed with "TEVA" on one side and with "787" on the other side.) are supplied in bottles of 100 and 1000.
+Debossed with “TEVA” on one side and with “787” on the other side.) are supplied in bottles of 100 (NDC 0093-0787-01) and 1000 (NDC 0093-0787-10).
 
 Atenolol tablets USP, 50 mg (White to off-white marble finish, round, flat beveled edge tablets.
-Scored and debossed with "93" above the score and "752" below the score on one side, debossed with "TEVA" on the other side.) are supplied in bottles of 100 and 1000.
+Scored and debossed with “93” above the score and “752” below the score on one side, debossed with “TEVA” on the other side.) are supplied in bottles of 100 (NDC 0093-0752-01) and 1000 (NDC 0093-0752-10).
 
 Atenolol tablets USP, 100 mg (White to off-white marble finish, round, flat beveled edge tablets.
-Debossed with "TEVA" on one side and with "753" on the other side.) are supplied in bottles of 100 and 500.
+Debossed with “TEVA” on one side and with “753” on the other side.) are supplied in bottles of 100 (NDC 0093-0753-01) and 500 (NDC 0093-0753-05).
 
 ## Storage
 
@@ -25,9 +25,9 @@ Opava-Komarov, Czech Republic
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA
+TEVA PHARMACEUTICALS USA, INC.
 
-Sellersville, PA 18960
+North Wales, PA 19454
 
 Rev.
-AB 11/2012
+AD 9/2015

@@ -4,7 +4,7 @@
 
 NDC 0093-0787-01
 
-ATENOLOL
+Atenolol
 
 Tablets USP
 
@@ -22,7 +22,7 @@ TEVA
 
 NDC 0093-0752-01
 
-ATENOLOL
+Atenolol
 
 Tablets USP
 
@@ -40,7 +40,7 @@ TEVA
 
 NDC 0093-0753-01
 
-ATENOLOL
+Atenolol
 
 Tablets USP
 
