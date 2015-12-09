@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice.
 Because clinical trials are also conducted under widely varying conditions, adverse reactions observed in the clinical trials of a drug cannot always be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -23,7 +23,7 @@ Combined Results from the Two Phase 3 Trials (N = 773)
 | Burning | 3 | < 1 | 0 | 8 | 2 | 0 | 2 | < 1 | 0 |
 | Stinging | 2 | < 1 | 0 | 6 | 1 | 0 | 1 | < 1 | 0 |
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 Anaphylaxis, as well as allergic reactions leading to hospitalizations, has been reported in postmarketing use of products containing clindamycin/benzoyl peroxide.
 

@@ -20,9 +20,9 @@ Who should not use ACANYA Gel?
 
 Do not use ACANYA Gel if you have:
 
-- Crohn's disease
-- ulcerative colitis
-- had inflammation of the colon (colitis), or severe diarrhea with past antibiotic use
+- •Crohn's disease
+- •ulcerative colitis
+- •had inflammation of the colon (colitis), or severe diarrhea with past antibiotic use
 
 Talk with your doctor if you are not sure if you have one of these conditions.
 
@@ -30,11 +30,11 @@ What should I tell my doctor before using ACANYA Gel?
 
 Before using ACANYA Gel, tell your doctor about all of your medical conditions, including if you:
 
-- have any allergies.
-- have any other medical conditions.
-- are pregnant or planning to become pregnant.
+- •have any allergies.
+- •have any other medical conditions.
+- •are pregnant or planning to become pregnant.
   It is not known if ACANYA Gel will harm your unborn baby.
-- are breastfeeding or plan to breast-feed.
+- •are breastfeeding or plan to breast-feed.
   It is not known if ACANYA Gel passes into your breast milk.
   One of the medicines in ACANYA Gel contains clindamycin.
   Clindamycin when taken by mouth or by injection has been reported to appear in breast milk.
@@ -44,64 +44,72 @@ Tell your doctor about all the medicines and skin products you use.
 Especially tell your doctor if you will have surgery with general anesthesia.
 One of the medicines in ACANYA Gel (clindamycin) can affect how certain medicines work when used in general anesthesia.
 
-- ACANYA Gel should not be used with products that contain erythromycin.
-- Other skin and topical acne products may increase the irritation of your skin when used with ACANYA Gel.
+- •ACANYA Gel should not be used with products that contain erythromycin.
+- •Other skin and topical acne products may increase the irritation of your skin when used with ACANYA Gel.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
 How should I use ACANYA Gel?
 
-- Use ACANYA Gel exactly as prescribed.
-- Your doctor will tell you how long to use ACANYA Gel.
-- Throw away (discard) any unused ACANYA Gel.
+- •Use ACANYA Gel exactly as prescribed.
+- •Your doctor will tell you how long to use ACANYA Gel.
+- •Throw away (discard) any unused ACANYA Gel.
 
 Instructions for applying ACANYA Gel
 
-- Apply ACANYA Gel to your face one time each day as prescribed.
-  1. Before you apply ACANYA Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
-  2. To apply ACANYA Gel to your face, use the pump to dispense one pea-sized amount of ACANYA Gel onto your fingertip.
-     See Figure 1.
-     One pea-sized amount of ACANYA Gel should be enough to cover your entire face.
-     Figure 1
-  3. Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
-     See Figure 2.
-     Figure 2
-  4. After applying the ACANYA Gel this way, spread the gel over your face and gently rub it in.
-     It is important to spread the gel over your whole face.
-  5. Wash your hands with soap and water after applying ACANYA Gel.
-  6. If your doctor tells you to put ACANYA Gel on other areas of your skin with acne, be sure to ask how much you should use.
-  7. Do not get ACANYA Gel in your mouth, eyes, or nose, or on your lips.
-     If this occurs, rinse the affected area with warm water and call your doctor right away if the area becomes very red, itchy, tender, or swollen.
-  8. Do not get ACANYA Gel on cuts or open wounds.
-  9. Do not use more ACANYA Gel than prescribed.
+- •Apply ACANYA Gel to your face one time each day as prescribed.
+  - 1.Before you apply ACANYA Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+  - 2.To apply ACANYA Gel to your face, use the pump to dispense one pea-sized amount of ACANYA Gel onto your fingertip.
+    See Figure 1.
+    One pea-sized amount of ACANYA Gel should be enough to cover your entire face.
+
+| Figure 1 |
+| --- |
+
+- 
+  - 3.Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+    See Figure 2.
+
+| Figure 2 |
+| --- |
+
+- 
+  - 4.After applying the ACANYA Gel this way, spread the gel over your face and gently rub it in.
+    It is important to spread the gel over your whole face.
+  - 5.Wash your hands with soap and water after applying ACANYA Gel.
+  - 6.If your doctor tells you to put ACANYA Gel on other areas of your skin with acne, be sure to ask how much you should use.
+  - 7.Do not get ACANYA Gel in your mouth, eyes, or nose, or on your lips.
+    If this occurs, rinse the affected area with warm water and call your doctor right away if the area becomes very red, itchy, tender, or swollen.
+  - 8.Do not get ACANYA Gel on cuts or open wounds.
+  - 9.Do not use more ACANYA Gel than prescribed.
 
 What should I avoid while using ACANYA Gel?
 
-- Limit your time in sunlight.
+- •Limit your time in sunlight.
   Avoid using tanning beds or sun lamps.
   If you have to be in sunlight, wear a wide-brimmed hat or other protective clothing, and a sunscreen with SPF 15 rating or higher.
   Your doctor can give you more information about why this is important.
-- Do not wash your face more than 2 to 3 times a day.
+- •Do not wash your face more than 2 to 3 times a day.
   Washing your face too often or scrubbing it may make your acne worse.
-- Avoid getting ACANYA Gel in your hair or on colored fabric.
+- •Avoid getting ACANYA Gel in your hair or on colored fabric.
   ACANYA Gel may bleach hair or colored fabric.
 
 What are possible side effects with ACANYA Gel?
 
 ACANYA Gel can cause serious side effects including:
 
-- Inflammation of the colon (colitis).
+- •Inflammation of the colon (colitis).
   Stop using ACANYA Gel and call your doctor right away if you have severe watery diarrhea, or bloody diarrhea.
-- Allergic reactions.
+- •Allergic reactions.
   Stop using ACANYA Gel, call your doctor and get help right away if you have any of the following symptoms:
-  - severe itching
-  - swelling of your face, eyes, lips, tongue or throat
-  - trouble breathing
+  - •severe itching
+  - •swelling of your face, eyes, lips, tongue or throat
+  - •trouble breathing
 
 Common side effects with ACANYA Gel include:
 
-- Skin irritation.
+- •Skin irritation.
   Stop using ACANYA Gel and call your doctor if you have a skin rash or your skin becomes very red, itchy or swollen.
 
 Talk to your doctor about any side effect that bothers you or that does not go away.
@@ -116,11 +124,11 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 
 How should I store ACANYA Gel?
 
-- Store ACANYA Gel at room temperature at or below 25°C (77°F).
-- The expiration date of ACANYA Gel is 10 weeks from the date you fill your prescription.
-- Safely throw away expired ACANYA Gel.
-- Do not freeze.
-- Keep the container tightly closed.
+- •Store ACANYA Gel at room temperature at or below 25°C (77°F).
+- •The expiration date of ACANYA Gel is 10 weeks from the date you fill your prescription.
+- •Safely throw away expired ACANYA Gel.
+- •Do not freeze.
+- •Keep the container tightly closed.
 
 Keep ACANYA Gel and all medicines out of the reach of children.
 
