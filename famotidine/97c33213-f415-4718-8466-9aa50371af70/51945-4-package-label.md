@@ -1,7 +1,5 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-Container Label
-
 Baxter Famotidine Injection
 
 20 mg
