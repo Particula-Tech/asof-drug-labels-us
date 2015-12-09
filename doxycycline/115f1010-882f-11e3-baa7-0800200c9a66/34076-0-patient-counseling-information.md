@@ -45,7 +45,7 @@ Then, apply enough pressure to snap the tablet segments apart (do not use segmen
 
 FDA-Approved Patient Labeling
 
-ACTICLATE™ Tablets
+ACTICLATE® Tablets
 
 Instructions for Breaking the 150 mg Tablet
 
@@ -61,9 +61,9 @@ The tablet is marked with separation lines (scored lines) and may be broken at t
 To break the tablet, hold the tablet between your thumbs and index fingers close to the appropriate score line.
 Then, apply enough pressure to snap the tablet segments apart (do not use segments that do not break along the score line).
 
-Revised: 07/2014
+Revised: 01/2015
 
-Rx only
+Rx only 750-07892
 
 AQUA PHARMACEUTICALS an Almirall company
 

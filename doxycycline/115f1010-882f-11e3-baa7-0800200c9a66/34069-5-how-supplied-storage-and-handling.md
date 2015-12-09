@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ACTICLATE™ (doxycycline hyclate USP) Tablets, 75 mg
+ACTICLATE® (doxycycline hyclate USP) Tablets, 75 mg
 
 Bottles of 60 tablets: NDC 16110-501-01
 
-ACTICLATE™ (doxycycline hyclate USP) Tablets, 150 mg
+ACTICLATE® (doxycycline hyclate USP) Tablets, 150 mg
 
 Bottles of 60 tablets: NDC 16110-502-01
 
