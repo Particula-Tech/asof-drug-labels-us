@@ -18,7 +18,7 @@ TYBOST is a prescription medicine used in adults 1 time each day with the antire
 TYBOST is not an antiretroviral medicine and does not treat the HIV-1 virus.
 You must also take all the antiretroviral HIV-1 medicines prescribed by your healthcare provider even if you take TYBOST and atazanavir (REYATAZ®) or darunavir (PREZISTA®).
 
-TYBOST should not be used if you take darunavir (PREZISTA) when prescribed by your healthcare provider to be taken 2 times each day, or if you take other HIV-1 protease inhibitor medicines including fosamprenavir (LEXIVA®), saquinavir (INVIRASE®), or tipranavir (APTIVUS®).
+TYBOST should not be used if you take darunavir (PREZISTA) when prescribed by your healthcare provider to be taken 2 times each day, or if you take other HIV-1 protease inhibitor medicines, including fosamprenavir (LEXIVA®), saquinavir (INVIRASE®), or tipranavir (APTIVUS®).
 
 It is not known if TYBOST is safe and effective in children under 18 years of age.
 
@@ -27,7 +27,8 @@ Who should not take TYBOST?
 Do not take TYBOST if you also take any of the following medicines:
 
 - alfuzosin hydrochloride (UROXATRAL®)
-- cisapride (PROPULSID®, PROPULSID QUICKSOLV)
+- carbamazepine (CARBATROL®, EPITOL®, EQUETRO®, TEGRETOL®)
+- cisapride (PROPULSID®, PROPULSID® QUICKSOLV)
 - dronedarone hydrochloride (MULTAQ®)
 - ergot-containing medicines:
   - dihydroergotamine mesylate (D.H.E.
@@ -36,6 +37,8 @@ Do not take TYBOST if you also take any of the following medicines:
   - methylergonovine maleate (ERGOTRATE®, METHERGINE®)
 - lovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
 - midazolam (VERSED®), when taken by mouth
+- phenobarbital (LUMINAL®)
+- phenytoin (DILANTIN®, PHENYTEX®)
 - pimozide (ORAP®)
 - rifampin (RIFADIN®, RIFAMATE®, RIFATER®, RIMACTANE®)
 - sildenafil (REVATIO®), when used for treating the lung problem pulmonary arterial hypertension (PAH)
@@ -84,7 +87,7 @@ Especially tell your healthcare provider if you take:
   - amiodarone (CORDARONE®, PACERONE®)
   - atorvastatin (LIPITOR®, CADUET®)
   - avanafil (STENDRA®), sildenafil (VIAGRA®), tadalafil (CIALIS®), or vardenafil (LEVITRA®, STAXYN®) for the treatment of erectile dysfunction (ED).
-    If you get dizzy or faint (low blood pressure), have vision changes, or have an erection that last longer than 4 hours, call your healthcare provider or get medical help right away.
+    If you get dizzy or faint (low blood pressure), have vision changes, or have an erection that lasts longer than 4 hours, call your healthcare provider or get medical help right away.
   - boceprevir (VICTRELIS®)
   - bosentan (TRACLEER®)
   - budesonide (ENTOCORT®, PULMICORT FLEXHALER®, PULMICORT RESPULES®, RHINOCORT®, SYMBICORT®, UCERIS®)
@@ -116,7 +119,6 @@ Especially tell your healthcare provider if you take:
   - simeprevir (OLYSIO™)
   - tadalafil (ADCIRCA®), for the treatment of pulmonary arterial hypertension
   - telithromycin (KETEK®)
-  - telaprevir (INCIVEK®)
   - thioridazine
   - timolol
   - voriconazole (VFEND®)
@@ -152,7 +154,7 @@ What are the possible side effects of TYBOST?
 TYBOST when taken with certain other medicines can cause new or worse kidney problems, including kidney failure.
 Your healthcare provider should check your kidneys before you start and while you are taking TYBOST.
 
-The most common side effects of TYBOST with atazanavir (REYATAZ®) include yellowing of the skin or eyes and nausea.
+The most common side effects of TYBOST with atazanavir (REYATAZ®) include yellowing of the skin and rash.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -187,7 +189,7 @@ What are the ingredients in TYBOST?
 
 Active ingredient: cobicistat
 
-Inactive ingredients: silicon dioxide, microcrystalline cellulose, croscarmellose sodium, magnesium stearate.
+Inactive ingredients: silicon dioxide, microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
 The tablets are film-coated with a coating material containing polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, sunset yellow FCF (FD&C Yellow #6) aluminum lake, and iron oxide yellow.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

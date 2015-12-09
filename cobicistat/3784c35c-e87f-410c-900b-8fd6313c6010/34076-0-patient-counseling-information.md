@@ -20,4 +20,6 @@ A Patient Package Insert for TYBOST is available for patient information.
 - Inform patients that if they must take acid modifying medications during treatment with TYBOST with atazanavir, the medications should be taken according to the following recommendations:
   - an antacid medicine that contains aluminum or magnesium hydroxide: administer antacids at least 2 hours before or after TYBOST with atazanavir.
   - H2-receptor antagonists (e.g., famotidine): administer either at the same time or take TYBOST with atazanavir a minimum of 10 hours after administering H2-receptor antagonists.
-  - Proton pump inhibitors (e.g.,omeprazole): take TYBOST with atazanavir a minimum of 12 hours after administering proton pump inhibitors.
+  - Proton pump inhibitors (e.g., omeprazole): take TYBOST with atazanavir a minimum of 12 hours after administering proton pump inhibitors.
+- Inform patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TYBOST during pregnancy [see Use in Specific Populations (8.1)].
+- Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, instruct mothers not to breastfeed.

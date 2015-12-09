@@ -11,5 +11,5 @@ Cobicistat on silicon dioxide is a white to pale yellow solid with a solubility 
 
 TYBOST tablets are for oral administration.
 Each tablet contains 150 mg of cobicistat.
-The tablets include the following inactive ingredients: silicon dioxide, microcrystalline cellulose, croscarmellose sodium, magnesium stearate.
+The tablets include the following inactive ingredients: silicon dioxide, microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
 The tablets are film-coated with a coating material containing the following inactive ingredients: polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, sunset yellow FCF (FD&C Yellow #6) aluminum lake, and iron oxide yellow.

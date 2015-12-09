@@ -12,7 +12,7 @@ At the highest doses tested in the rat carcinogenicity study, systemic exposures
 
 Mutagenesis
 
-Cobicistat was not genotoxic in the reverse mutation bacterial test (Ames test), mouse lymphoma or rat micronucleus assays.
+Cobicistat was not genotoxic in the reverse mutation bacterial test (Ames test), mouse lymphoma, or rat micronucleus assays.
 
 Impairment of Fertility
 

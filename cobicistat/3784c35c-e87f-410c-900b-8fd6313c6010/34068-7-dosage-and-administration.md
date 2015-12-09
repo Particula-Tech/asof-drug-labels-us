@@ -17,7 +17,7 @@ Table 1 Recommended Dosing Regimens
 ## 2.2 Testing Prior to Initiation of TYBOST
 
 Prior to starting TYBOST, assess estimated creatinine clearance because TYBOST decreases estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function [see Warnings and Precautions (5.1)].
-When coadministering TYBOST with tenofovir disoproxil fumarate (tenofovir DF) assess estimated creatinine clearance, urine glucose, and urine protein at baseline [see Warnings and Precautions 5.2].
+When coadministering TYBOST with tenofovir disoproxil fumarate (tenofovir DF), assess estimated creatinine clearance, urine glucose, and urine protein at baseline [see Warnings and Precautions 5.2].
 
 ## 2.3 Renal Impairment
 
