@@ -1,69 +1,57 @@
-# PRINCIPAL DISPLAY PANEL - 5 Million Unit Vial Label
+# PRINCIPAL DISPLAY PANEL - 5,000,000 Unit Vial Label
 
-Buffered NDC 0049-0520-22
+NDC 0049-0520-22 Buffered Rx ONLY
 
-Pfizerpen® (penicillin G potassium)
-
-5 FIVE MILLION UNITS
+Pfizerpen® (penicillin G potassium, USP)
 
 For Injection
 
-Rx ONLY
+Intramuscular or Intravenous Use
 
 NOVAPLUS®
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC
+5,000,000 Units* per vial (Five million units* per vial)
 
-# PRINCIPAL DISPLAY PANEL - 10 - 5 Million Unit Vial Carton
+# PRINCIPAL DISPLAY PANEL - 10 - 5,000,000 Unit Vial Carton
 
-Buffered NDC 0049-0520-22
+NDC 0049-0520-22 contains 10 of NDC 0049-0520-23 Buffered
 
-Pfizerpen® (penicillin G potassium)
+Pfizerpen® (penicillin G potassium, USP) For Injection
 
-FIVE MILLION UNITS
+5,000,000 Units* per vial (Five million units* per vial)
 
-For Injection
+Intramuscular or Intravenous Use
 
 10 Vials
 
-NOVAPLUS®
-
-5
-
-LOT EXP
-
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC
-
-# PRINCIPAL DISPLAY PANEL - 20 Million Unit Vial Label
-
-Buffered NDC 0049-0530-22
-
-Pfizerpen® (penicillin G potassium)
-
-TWENTY MILLION UNITS 20
-
-For Injection
-
-FOR INTRAVENOUS INFUSION ONLY
-
 Rx ONLY
 
 NOVAPLUS®
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC
+# PRINCIPAL DISPLAY PANEL - 20,000,000 Unit Vial Label
 
-# PRINCIPAL DISPLAY PANEL - 20 Million Unit Carton
+NDC 0049-0530-22 Buffered Rx ONLY
 
-Buffered NDC 0049-0530-22
+Pfizerpen® (penicillin G potassium, USP)
 
-Pfizerpen® (penicillin G potassium)
-
-TWENTY MILLION UNITS 20
-
-For Injection
-
-FOR INTRAVENOUS INFUSION ONLY
+Intramuscular or Intravenous Use
 
 NOVAPLUS®
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC
+20,000,000 Units* per vial (Twenty million units* per vial)
+
+# PRINCIPAL DISPLAY PANEL - 1 - 20,000,000 Unit Vial Carton
+
+NDC 0049-0530-22 Buffered
+
+Pfizerpen® (penicillin G potassium, USP)
+
+20,000,000 Units* per vial (Twenty million units* per vial)
+
+Intramuscular or Intravenous Use
+
+1 Vial
+
+Rx ONLY
+
+NOVAPLUS®
