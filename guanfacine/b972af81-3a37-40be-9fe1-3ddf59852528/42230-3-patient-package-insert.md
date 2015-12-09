@@ -140,11 +140,11 @@ In addition, the 3mg and 4mg tablets also contain green pigment blend PB-1763.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for Shire US Inc., Wayne, PA 19087.
+Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
 
 INTUNIV® is a registered trademark of Shire LLC.
 
-Revised: 03/2015
+Revised: 12/2015
 
 © 2015 Shire US Inc.
 
