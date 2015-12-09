@@ -48,8 +48,7 @@ Advise patients not to breast feed if they are taking ADDERALL XR [see USE IN SP
 
 ADDERALL XR may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
 
-Manufactured for Shire US Inc., Wayne, PA 19087.
-Made in USA.
+Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421, Made in USA.
 
 For more information call 1-800-828-2088
 
@@ -62,4 +61,4 @@ ADDERALL® is a registered trademark of Shire LLC, under license to Duramed Phar
 Copyright© 2015 Shire US Inc.
 
 Rev.
-04/2015
+12/2015
