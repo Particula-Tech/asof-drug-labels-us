@@ -128,4 +128,6 @@ Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficienc
 
 ### Liver Function Tests
 
-Elevations of liver enzymes and/ or serum bilirubin have occurred (see WARNINGS, Hepatic Failure).
+Elevations of liver enzymes and/or serum bilirubin have occurred (see WARNINGS, Hepatic Failure).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Taro Pharmaceuticals U.S.A., Inc., at 1-866-923-4914 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

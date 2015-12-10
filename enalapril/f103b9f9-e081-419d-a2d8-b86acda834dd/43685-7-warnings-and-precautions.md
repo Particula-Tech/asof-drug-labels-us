@@ -4,7 +4,7 @@
 
 Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including enalapril maleate) may be subject to a variety of adverse reactions, some of them serious.
 
-## Head and Neck Angioedema
+### Head and Neck Angioedema
 
 Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including enalapril maleate.
 This may occur at any time during treatment.
@@ -13,7 +13,9 @@ In instances where swelling has been confined to the face and lips the condition
 Angioedema associated with laryngeal edema may be fatal.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
-## Intestinal Angioedema
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see PRECAUTIONS).
+
+### Intestinal Angioedema
 
 Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
@@ -22,12 +24,12 @@ Intestinal angioedema should be included in the differential diagnosis of patien
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
-### Anaphylactoid reactions during desensitization
+## Anaphylactoid reactions during desensitization
 
 Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-### Anaphylactoid reactions during membrane exposure
+## Anaphylactoid reactions during membrane exposure
 
 Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
@@ -58,9 +60,9 @@ Rarely, ACE inhibitors have been associated with a syndrome that starts with cho
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
-## Fetal toxicity
+## Fetal Toxicity
 
-### Pregnancy category D
+### Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -75,8 +77,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue enalapril maleate, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to enalapril for hypotension, oliguria, and hyperkalemia.
-[see PRECAUTIONS, Pediatric Use]
+Closely observe infants with histories of in utero exposure to enalapril for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
 On a body surface area basis, the doses used were 57 times and 12 times, respectively, the maximum recommended human daily dose (MRHDD).
@@ -92,8 +93,7 @@ As with all vasodilators, enalapril should be given with caution to patients wit
 ### Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
-(see PRECAUTIONS, Drug Interactions)
+In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
@@ -163,12 +163,12 @@ It is not a disclosure of all possible adverse or intended effects.
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
-Closely monitor blood pressure, renal function and electrolytes in patients on enalapril maletate and other agents that affect the RAS.
+Closely monitor blood pressure, renal function, and electrolytes in patients on enalapril maleate and other agents that affect the RAS.
 
-Do not co-administer aliskiren with Vasotec in patients with diabetes.
-Avoid use of aliskiren with enalapril maletate in patients with renal impairment (GFR <60 mL/min).
+Do not coadminister aliskiren with enalapril maleate in patients with diabetes.
+Avoid use of aliskiren with enalapril maleate in patients with renal impairment (GFR <60 mL/min).
 
-### Hypotension - Patients on Diuretic Therapy
+### Hypotension — Patients on Diuretic Therapy
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
@@ -209,6 +209,10 @@ It is recommended that serum lithium levels be monitored frequently if enalapril
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril maleate.
 
+### mTOR (mammalian target of rapamycin) inhibitors
+
+Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS)
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of a tumorigenic effect when enalapril was administered for 106 weeks to male and female rats at doses up to 90 mg/kg/day or for 94 weeks to male and female mice at doses up to 90 and 180 mg/kg/day, respectively.
@@ -221,14 +225,14 @@ There were no adverse effects on reproductive performance of male and female rat
 
 ## Pregnancy
 
-## Nursing Mothers
+### Nursing Mothers
 
 Enalapril and enalaprilat have been detected in human breast milk.
 Because of the potential for serious adverse reactions in nursing infants from enalapril, a decision should be made whether to discontinue nursing or to discontinue enalapril maleate, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+### Pediatric Use
 
-### Neonates with a history of in utero exposure to enalapril maleate
+#### Neonates with a history of in utero exposure to enalapril maleate
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
@@ -237,4 +241,4 @@ Enalapril, which crosses the placenta, has been removed from neonatal circulatio
 Antihypertensive effects of enalapril maleate have been established in hypertensive pediatric patients age 1 month to 16 years.
 Use of enalapril maleate in these age groups is supported by evidence from adequate and well-controlled studies of enalapril maleate in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION).
 
-Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/ min/1.73 m2, as no data are available.
+Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.

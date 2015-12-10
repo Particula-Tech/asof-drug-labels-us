@@ -22,7 +22,7 @@ The usual dose of enalapril is recommended for patients with a creatinine cleara
 For patients with creatinine clearance ≤30 mL/min (serum creatinine ≥ 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
-| Renal Status | Creatinine- Clearance mL/min | Initial Dose mg/day |
+| Renal Status | Creatinine-Clearance mL/min | Initial Dose mg/day |
 | --- | --- | --- |
 | Normal Renal Function | > 80 mL/min | 5 mg |
 | Mild Impairment | ≤ 80 > 30 mL/min | 5 mg |
@@ -63,7 +63,7 @@ The usual recommended starting dose is 0.08 mg/kg (up to 5 mg) once daily.
 Dosage should be adjusted according to blood pressure response.
 Doses above 0.58 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients).
 
-Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/ min/1.73 m2, as no data are available.
+Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
 
 ## Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 

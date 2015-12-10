@@ -69,7 +69,7 @@ When given together with thiazide-type diuretics, the blood pressure lowering ef
 In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving enalapril maleate.
 In this study there was no evidence of a blunting of the antihypertensive action of enalapril maleate (see PRECAUTIONS, Drug Interactions).
 
-#### Heart Failure
+### Heart Failure
 
 In trials in patients treated with digitalis and diuretics, treatment with enalapril resulted in decreased systemic vascular resistance, blood pressure, pulmonary capillary wedge pressure and heart size, and increased cardiac output and exercise tolerance.
 Heart rate was unchanged or slightly reduced, and mean ejection fraction was unchanged or increased.
@@ -77,11 +77,11 @@ There was a beneficial effect on severity of heart failure as measured by the Ne
 Hemodynamic effects were observed after the first dose, and appeared to be maintained in uncontrolled studies lasting as long as four months.
 Effects on exercise tolerance, heart size, and severity and symptoms of heart failure were observed in placebo-controlled studies lasting from eight weeks to over one year.
 
-#### Heart Failure, Mortality Trials
+### Heart Failure, Mortality Trials
 
 In a multicenter, placebo-controlled clinical trial, 2,569 patients with all degrees of symptomatic heart failure and ejection fraction ≤35 percent were randomized to placebo or enalapril and followed for up to 55 months (SOLVD-Treatment).
 Use of enalapril was associated with an 11 percent reduction in all-cause mortality and a 30 percent reduction in hospitalization for heart failure.
-Diseases that excluded patients from enrollment in the study included severe stable angina (>2 attacks/day), hemodynamically significant valvular or outflow tract obstruction, renal failure (creatinine >2.5 mg/ dL), cerebral vascular disease (e.g., significant carotid artery disease), advanced pulmonary disease, malignancies, active myocarditis and constrictive pericarditis.
+Diseases that excluded patients from enrollment in the study included severe stable angina (>2 attacks/day), hemodynamically significant valvular or outflow tract obstruction, renal failure (creatinine >2.5 mg/dL), cerebral vascular disease (e.g., significant carotid artery disease), advanced pulmonary disease, malignancies, active myocarditis and constrictive pericarditis.
 The mortality benefit associated with enalapril does not appear to depend upon digitalis being present.
 
 A second multicenter trial used the SOLVD protocol for study of asymptomatic or minimally symptomatic patients.
