@@ -28,18 +28,6 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use simvastatin.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
 
-Manufactured for:
-
-Lupin Pharmaceuticals, Inc.
-
-Baltimore, Maryland 21202
-
-United States
-
-MADE IN INDIA.
-
-May 2015 ID: #240752
-
 1National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
 Pediatrics.
 89(3):495-501.
@@ -54,3 +42,15 @@ Pharmacol.
 Ther.
 15 (1974), pp.
 443-453.
+
+Manufactured for:
+
+Lupin Pharmaceuticals, Inc.
+
+Baltimore, Maryland 21202
+
+United States
+
+MADE IN INDIA.
+
+October 2015 ID#: 242143

@@ -27,23 +27,23 @@ NDC 68180-479-02 Bottles of 90
 
 NDC 68180-479-03 Bottles of 1000
 
-Simvastatin Tablets USP, 40 mg are brick red colored, oval shaped, biconvex, film-coated tablets, debossed with 'LL' on one side and 'C04' on the other side.
+Simvastatin tablets USP, 40 mg are brick red colored, round shaped, biconvex, film-coated tablets, debossed with 'LL' on one side and 'C04' on the other side.
 They are supplied as follows:
 
-NDC 68180-480-01 Bottles of 30
+NDC 68180-464-06 Bottles of 30
 
-NDC 68180-480-02 Bottles of 90
+NDC 68180-464-09 Bottles of 90
 
-NDC 68180-480-03 Bottles of 1000
+NDC 68180-464-03 Bottles of 1000
 
-Simvastatin Tablets USP, 80 mg are brick red colored, capsule shaped, biconvex, film-coated tablets, debossed with 'LL' on one side and 'C05' on the other side.
+Simvastatin tablets USP, 80 mg are brick red colored, capsule shaped, biconvex, film-coated tablets, debossed with 'LL' on one side and 'C05' on the other side.
 They are supplied as follows:
 
-NDC 68180-481-01 Bottles of 30
+NDC 68180-465-06 Bottles of 30
 
-NDC 68180-481-02 Bottles of 90
+NDC 68180-465-09 Bottles of 90
 
-NDC 68180-481-03 Bottles of 1000
+NDC 68180-465-03 Bottles of 1000
 
 Storage
 
